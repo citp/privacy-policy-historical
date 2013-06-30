@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mica.edu privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230222837id_/http%3A//www.mica.edu/About_MICA/Policies_and_Handbooks/Additional_Policies/Privacy_Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mica.edu privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630093959id_/http%3A//mica.edu/About_MICA/Policies_and_Handbooks/Additional_Policies/Privacy_Statement.html) for the most accurate reproduction.*
 
 # Privacy Statement | MICA
 
@@ -12,4 +12,4 @@ At its discretion, the Maryland Institute College of Art may provide directory i
 
 MICA collects information about your IP address to help administer our websites, analyze trends, create summary statistics, and monitor system performance.  We do not link IP addresses to anything personally identifiable.
 
-The college does not use "cookies" to gain access to private information about you. However, MICA may use cookies to enhance your browsing experience and help track information you voluntarily provide.
+The college does not use "cookies" to gain access to private information about you. However, MICA may use cookies to enhance your browsing experience and help track information you voluntarily provide. The college uses Remarketing with Google Analytics to advertise online, therefore, third-party vendors, including Google, show the college's ads on sites across the Internet. The college and third-party vendors, including Google, use  cookies to inform, optimize, and serve ads based on someone's past visits to the college's website.
