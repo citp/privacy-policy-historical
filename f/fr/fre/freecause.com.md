@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freecause.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217183038id_/http%3A//www.freecause.com/privacy_websiteprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freecause.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630072654id_/http%3A//www.freecause.com/privacy_websiteprivacy) for the most accurate reproduction.*
 
 # FreeCause : Privacy - Website Privacy Policy
 
