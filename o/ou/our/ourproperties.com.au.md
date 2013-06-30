@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ourproperties.com.au privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230053612id_/http%3A//www.ourproperties.com.au/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourproperties.com.au privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630084526id_/http%3A//www.ourproperties.com.au/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
