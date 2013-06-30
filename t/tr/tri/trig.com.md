@@ -1,71 +1,58 @@
-> *The following text is extracted and transformed from the trig.com privacy policy that was archived on 2011-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110702114702id_/http%3A//trig.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trig.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630045627id_/http%3A//www.trig.com/help/privacy) for the most accurate reproduction.*
 
-# trig.com - Legal
+# Trig - Privacy Policy
 
-Trig.com is owned and run by Adocca Options AB ("Adocca", "we", "us" or "our") and we are very concerned with protecting your personal integrity when you use Trig.com. This Privacy Policy states how we handle your personal information. We are very cautious that the personal information that you give to us is handled in such a way that your personal integrity will not be infringed. With this Privacy Policy we aim to provide you with information regarding the technical handling of your personal information.
+Privacy Statement  
+Privacy Statement and Disclaimer Trig.com
 
-The Privacy Policy is incorporated in the Terms of Use Agreement and by approving the Terms of Use Agreement you also approve of this Privacy Policy. Therefore, when you ratify the conditions of the Terms of Use Agreement you also consent to granting us the authority to collect, use, process and disclose information relating to you in accordance with this Privacy Policy and according to applicable laws. If you do not agree to all of these terms and conditions, you should not use Trig.com and provide us with any information.
+We assume that if you have become an TRIG MEMBER and visit/use our websites, you have read the following Privacy Policy and Disclaimer and have understood the content.
 
-We are domiciled in Stockholm, Sweden and therefore Swedish law is applicable regarding our handling of your personal information on the Internet. In Sweden the area of handling personal information and protecting personal integrity on the Internet is extensively regulated by law. The Swedish law governing these issues is based on an EU-Directive. Unlike the US regulations, the Swedish law applies to private companies and other non-state actors. This Privacy Policy is therefore based on the regulations in the Swedish law governing personal information on the Internet.
+Remaining on our websites means that you accept our privacy policy, if not, please leave our websites now.
 
-## COLLECTION AND USE OF INFORMATION
+TRIG undertakes everything possible to maintain that the information on these websites is correct. Every decision made by any individual on the basis of information contained in our websites is exclusively the responsibility of the individual themselves.
 
-All personal information submitted by Trig.com users such as name, address, email address and age etc. is collected by us and can be used to authenticate users and to send notifications to those users relating to, but not limited to Trig.com, events, contests and special offers.
+TRIG cannot guarantee that the content is applicable at all times due to the continuous changes being made.
 
-In compliance with the general practice of, for example, commercial Websites we also collect information about you that can not directly be referred to you. This type of information includes for example the IP-address of the computer you use, profile information, aggregate user data and browser type. This type of information is logged both from Members and visitors to Trig.com. The collected information is used to further develop the services provided by us and make them more user-friendly and better adapted to the needs and tastes of the Trig.com users. The non-personally-identifiable information may be used for improvements and administration of the Website and, it may also be used to analyze trends, to follow the movements of users around the services or to gather demographic information about the users as a collective. This non-personally-identifiable information may be shared with third-parties in order to provide more relevant services and advertisements adapted to the Trig.com users. However, we will not use the non- personally-identifiable information collected to market directly to the specific user. User IP-addresses are recorded for security and monitoring purposes.
+TRIG assumes no liability for damages or losses, no matter what kind, which are brought in respect of the use of the contents of the websites of any TRIG MEMBER.
 
-In order to follow and analyze the movements and interests of our users, we use pixel tags that are tiny graphic images that tell us what parts of the Trig.com services that have been visited. The pixel tags are also used to measure how effective the searches are that the users perform on our services and they can also be used to enable us to send emails in a format each user can read. Pixel tags are also used by us to trace whether emails have been opened and we do this to protect our users from unwanted messages. All pixel tag information is stored in a secure database.
+All the websites of TRIG are subjected in form and content by copyright and are the intellectual property of TRIG. In a case that any aspect of the TRIG websites does not correspond to the laws of a country, TRIG does not take on any responsibility or liability. Those accessing our websites, act on their own freewill and are wholly responsible themselves according to the laws of the country they are resident in.
 
-Information relating to Member Profiles such as pictures and username is displayed to other Trig.com users in order to make user interaction in the Community easier. However, the Member’s full name is never directly revealed to other Members.
+Collection of Your Personal Information  
+In order to register as an TRIG MEMBER, you will be required at all times to sign in with a username/e-mail and password. You will be able to access the different TRIG sites using the same username/e-mail and password. By signing in through one TRIG website, you may be automatically signed into other TRIG sites. As part of this registration process, you may also be requested to provide questions and secret answers, which we use to help verify your identity and assist in resetting your password etc.
 
-The email addresses collected by us from the Members may be used to send news about the services such as updates and newsletters, etc. The emails sent by us may contain a "click-through URL" link that leads to contents on the Trig.com. When the URL's are clicked they pass through our web server before arriving at the destination web page. The "click-through URL" is tracked by us in order for us to make our services more effective and better adapted to the user’s interests. Therefore, if you do not want to be tracked by us, we kindly ask you not to click any links in emails sent to you by us.
+We ask you when registering to provide personal information, such as your e-mail address, name, home or work address or telephone number. We may also collect demographic information, such as your postcode, age, gender etc. If you choose to make a purchase over a TRIG Web shop, we may ask for additional information, such as your credit card number and billing address, which is used to create an TRIG billing account.
 
-As stated in the Terms of Use Agreement we and/or our partners may sponsor promotions, sweepstakes or contests on the Trig.com services. When participating in any of these events you may be asked for personal information such as your name or email address. In some cases you may also be asked to answer questions in order to participate. We may transfer personal information to certain ad partners that you have explicitly requested to receive information from. If this is the case it will be clearly stated at the point of your participation who is collecting the personal information and whose privacy statement or what regulation will apply.
+We may collect information about your visit, including the pages you view, the links you click and other actions taken in connection with TRIG. We also collect certain standard information that your browser sends to every website you visit, such as your IP address, browser type and language, access times and referring website addresses.
 
-## USE OF COOKIES
+When you receive newsletters or promotional e-mails from TRIG, customized links or similar technologies determine whether the e-mail has been opened and which links you click, in order to provide you with more focused e-mail communications or other information in the future. In order to offer you a more consistent and personalized experience in your interactions with TRIG, information collected through one TRIG Website may be combined with information obtained through other TRIG member Websites.
 
-Cookies are small files that are placed on your hard drive and they are used by us in order to improve the quality of the services we offer you. The cookies help to manage sessions on Trig.com by remembering your Member preferences, and ensure that you do not continually see the same advertisements. If you want to use Trig.com properly, cookies must be enabled. Please observe that the information stored in cookies is not linked to any personally identifiable information. 
+Sharing of Your Personal Information  
+Except as described in this statement, we will not disclose your personal information outside TRIG and its controlled subsidiaries and affiliates without your consent.  
+We may access and/or disclose your personal information if we believe such action is necessary to:  
+(a) comply with the law or legal process served on TRIG;  
+(b) protect and defend the rights or property of TRIG (including the enforcement of our agreements); or  
+(c) act in urgent circumstances to protect the personal safety of users of TRIG websites or members of the public.  
+(d) The completion of all necessities concerning your contractual member-relationship with TRIG.
 
-We allow third party advertisers that place their advertisements in connection with our services to set and access their cookies on your computer. Advertisers' use of cookies is subject to their own Privacy Policies and not to this Privacy Policy.
+Use and transfer of Your Personal Information  
+TRIG collects and uses your personal information to operate and improve its sites and carry out the transactions you have requested. We also use your personal information to communicate with you. We may send certain mandatory communications such as welcome letters, billing reminders and information on technical issues.
 
-## LINKS
+Personal information collected on the TRIG websites may be stored and processed and transferred in the UK or any other country inside or outside the European Community in which TRIG or its affiliates, subsidiaries or agents maintain facilities. TRIG guarantees that the transfer of private information to other affiliates will comply with this Privacy Policy and TRIG will guarantee the highest level of data protection.
 
-Trig.com may contain links to Websites managed by third parties. These Websites have got nothing to do with us and therefore we accept no responsibility for the contents and/ or the privacy policies on these sites. Since this Privacy Policy only governs information directly connected to Trig.com, we strongly suggest that when you link to another site you take time to review their Privacy Policy.
+By using any TRIG website you consent to any such transfer of information outside your country. You explicitly agree with the transfer of private information like name, home-address, city, gender, language, country and e-mail address to TRIG.
 
-## COMMENTING OR POSTING ON TRIG.COM
+Cookies  
+TRIG websites use "cookies" to enable you to register as a member of our partner’s website, i.e. as an TRIG MEMBER, and to help personalize your online experience. A cookie is a small text file that is placed on your hard disk by a web page server. Cookies contain information that can later be read by a web server in the domain that issued the cookie to you. Cookies cannot be used to run programs or deliver viruses to your computer.
 
-It is important that you have in mind that whenever you post information or comment on something, that it can be accessed by others. This means that you may for example get unsolicited communications. We do not take any responsibility for any personal information that you choose to post on our services. Neither do we accept any responsibility for the consequences.
+TRIG websites use cookies to store your preferences and other information on your computer in order to save you time by eliminating the need to enter the same information repeatedly and to display your personalized content and appropriate advertising on your later visits to these sites.
 
-Trig merely provides a space for its users to exchange and express their own opinions. In accordance with the terms of use, you are entirely responsible and liable for all Content that you post on Trig. We do not guarantee that the Content posted on the forum on Trig is accurate, reliable or up to date. Any reliance upon the Content published on the forum is at the user’s own risk. The content is published “AS-IS” and may not represent Our official view and opinion.
+When you sign in to a site using your username/e-mail and password, the TRIG system stores your unique username/e-mail, and the time you signed in at, in an encrypted cookie on your hard disk. This cookie allows you to move from page to page on the site without having to sign in again on each page. When you sign out, these cookies are deleted from your computer. The system also uses cookies to improve the sign in experience. For example, your e-mail address may be stored in a cookie that will remain on your computer after you sign out. This cookie allows your e-mail address to be pre-populated, so that you will only need to type your password the next time you sign in. If you are using a public computer or do not otherwise want this information to be stored, you can select the appropriate radio button on the sign-in page, and this cookie will not be used.
 
-It is not possible for Us to review the Content before it is posted and We assume no responsibility or liability for any posted Content. It is very important that you report any illegal or inappropriate Content that you become aware of to Trig.com or by clicking on "Report Inappropriate Content".
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to sign in or use other interactive features of the TRIG Websites.
 
-## COMMUNICATIONS TO NON-MEMBERS
+Changes to This Privacy Statement  
+We will occasionally update this privacy statement to reflect changes in our websites and member feedback. When we post changes to this statement, we will e-mail all members. If there are material changes to this statement or in how TRIG will use your personal information, we will notify you either by prominently posting a notice of such changes prior to implementing the change or by directly sending you a notification.
 
-When using the Trig.com "Send an invitation" feature, you are asked to give the email address of a friend. When you choose to give us one of your friend's email address, we will automatically send your friend an invitation to join the Trig.com Community. Your friend's email address is then stored in order for us to be able to automatically add your friend to your friend list when she/he signs up. We also send reminder notifications of your invitation.
+We encourage you to review this statement periodically to be informed of how TRIG is protecting your information.
 
-## CORRECTING/UPDATING OR REMOVING INFORMATION
-
-Members of Trig.com have access to their Trig.com account by logging on and clicking on the "My Profile" page and there personal information contained in their profile may be updated or removed. Changes can be made at any time.
-
-## SECURITY
-
-The safety of your personal information is a high priority for us. All Member accounts are secured by passwords. The information on your account can only be accessed by you and our employees that need access in order to fulfill their job functions, such as technical staff and customer service personnel. Although we have taken great measures to protect your privacy, we can not guarantee the security of your account information. Therefore, it is important that you take precautions to protect your personal data by, for example, choosing a password consisting both numbers and letters, and by changing your password often. Of course you must also use a secure web browser. Technical failure, unauthorized use or entry, and other factors may lead to a security breach of member information at any time.
-
-## SHARING AND DISCLOSURE OF INFORMATION WE COLLECT
-
-Except as otherwise described in this Privacy Policy, we will not disclose personal information to any third party unless we believe that disclosure is necessary: (1) to conform to legal requirements or to respond to a subpoena, search warrant or other legal process received by us, whether or not a response is required by applicable law; (2) to enforce the Terms of Use Agreement or to protect our rights; or (3) to protect the safety of Members, of the public and visitors of Trig.com. We reserve the right to transfer personal information to a successor in interest that acquires rights to that information as a result of the sale of the Website or the Company or substantially all of its assets to that successor in interest. 
-
-We do not sell or rent your contact information to other marketers. To help us provide superior service, your personal information may be shared with our entities that will safeguard it in accordance with this Privacy Policy. There are also times when it may be advantageous for us to make certain personal information about you available to companies that we have a strategic relationship with or that perform work for us to provide products and services to you on our behalf. These companies may help us to process information, deliver products to you, manage and enhance customer data, provide customer service, assess your interest in our products and services, or conduct customer research or satisfaction surveys. These companies are also obligated to protect your personal information in accordance with our policies. Without such information being made available, it would be difficult for you to purchase products, have products delivered to you, receive customer service, provide us with feedback to improve our products and services, or access certain services, offers, and contents on Trig.com.
-
-## PRIVACY OF CHILDREN
-
-Children are not authorized to use Trig.com and we recommend under-aged (under the age of 18) not to send personal information to Trig.com. If you are under-age you may only use Trig.com if you have the permission of your parents or your legal guardian. This requirement is clearly posted during the registration process.
-
-CHANGES IN OUR PRIVACY POLICY
-
-From time to time, we may make changes in our Privacy Policy. If we make changes, we will post them on our site to make users aware of what the changes are, so you will always be aware of what information we collect, how we use it, and when we may disclose it. A user is bound by any minor changes to the Privacy Policy when she or he uses the site after those changes have been posted. If, however, we are going to use Members' personally identifiable information in a manner materially different from that stated at the time of collection, we will notify by posting a notice on Trig.com for 30 days.
-
-## CONTACTING THE WEB SITE
-
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: [customersupport@trig.com](mailto:customersupport@trig.com).
+Date: 1st of March 2013
