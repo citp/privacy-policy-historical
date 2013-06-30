@@ -1,51 +1,70 @@
-> *The following text is extracted and transformed from the roliana.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619213050id_/http%3A//www.roliana.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roliana.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630121243id_/http%3A//www.roliana.com/phpBB3/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy for Roliana
+# Roliana • Privacy Policy
 
-### Who we Are
+This Privacy Policy governs the manner in which Truelight Media LLC collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://roliana.com](http://truelightmediallc.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Truelight Media LLC.
 
-In this privacy policy references to “we”, “us” and “our” are Truelight Media Ltd. References to “our Website” or “the Website” are to www.roliana.com
+**Personal identification information**
 
-### What information we collect and how
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, credit card information. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-The information we collect via the Website may include.
+**Non-personal identification information**
 
-  1. Any personal details you knowingly provide us with through forms and our email, such as name, address, telephone number etc.
-  2. In order to effectively process credit or debit card transactions it may be necessary for the bank or card processing agency to verify your personal details for authorisation outside the European Economic Area (EEA). Such information will not be transferred out of the EEA for any other purpose.
-  3. Your preferences and use of email updates, recorded by emails we send you (if you select to receive email updates on products and offers).
-  4. Your IP Address, this is a string of numbers unique to your computer that is recorded by our web server when you request any page or component on the Website. This information is used to monitor your usage of the Website.
-  5. Data recorded by the Website which allows us to recognize you and your preferred settings, this saves you from re-entering information on return visits to the site. Such data is recorded locally on you computer through the use of cookies. Most browsers can be programmed to reject, or warn you before downloading cookies, information regarding this may be found in your browsers ‘help’ facility.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
+**Web browser cookies**
 
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-### What we do with your information
+**How we use collected information**
 
-Any personal information we collect from this website will be used in accordance with the Data Protection Act 1998 and other applicable laws. The details we collect will be used:
+Truelight Media LLC may collect and use Users personal information for the following purposes:
 
-  1. To process your order, to provide after sales service (we may pass your details to another organisation to supply/deliver products or services you have purchased and/or to provide after-sales service); 
-  2. In certain cases we may use your email address to send you information on our other products and services.
-
-
-
-We may need to pass the information we collect to other companies for administrative purposes. We may use third parties to carry out certain activities, such as processing and sorting data, monitoring how customers use the Website and issuing our e-mails for us. Third parties will not be allowed to use your personal information for their own purposes.
-
-### Your Rights
-
-You have the right to request a copy of any information that we currently hold about you. In order to receive such information please send your contact details including address and payment of $10 to cover administration expenses to the following address:
-
-Privacy  
-Roliana  
-56 Sheridan Ave  
-Albany, NY  
-U.S.A.  
+  * _\- To improve customer service_  
+Information you provide helps us respond to your customer service requests and support needs more efficiently.
+  * _\- To personalize user experience_  
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  * _\- To improve our Site_  
+We may use feedback you provide to improve our products and services.
+  * _\- To process payments_  
+We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
+  * _\- To run a promotion, contest, survey or other Site feature_  
+To send Users information they agreed to receive about topics we think will be of interest to them.
+  * _\- To send periodic emails_  
+We may use the email address to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 
-### Other Websites
 
-This privacy policy only covers this website. Any other websites which may be linked to by our website are subject to their own policy, which may differ from ours.
+**How we protect your information**
 
-A place to hang out and make some friends...
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-Create your own avatar and customize him or her with your choice of clothes, hair styles and other items.
+**Sharing your personal information**
 
-To buy clothes you need to earn Gold by participating in the forums and playing games.
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+
+**Third party websites**
+
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
+
+**Advertising**
+
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+
+**Changes to this privacy policy**
+
+Truelight Media LLC has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+**Your acceptance of these terms**
+
+By using this Site, you signify your acceptance of this policy and [terms of service](http://roliana.com/phpBB3/tos.php). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+**Contacting us**
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
+[Truelight Media LLC](http://truelightmediallc.com/)  
+[http://truelightmediallc.com](http://truelightmediallc.com/)  
+56 Sheridan Avenue Albany, NY 12210  
+support@roliana.com
+
+This document was last updated on January 02, 2013
