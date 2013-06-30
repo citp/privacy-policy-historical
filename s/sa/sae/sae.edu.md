@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sae.edu privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225061201id_/http%3A//www.sae.edu/en-gb/content/47/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sae.edu privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630022322id_/http%3A//www.sae.edu/en-gb/content/47/Privacy_Policy) for the most accurate reproduction.*
 
-# Privacy Policy - SAE Institute
+# Privacy Policy
 
 ### PRIVACY STATEMENT
 
