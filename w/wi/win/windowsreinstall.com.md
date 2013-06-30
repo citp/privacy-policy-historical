@@ -1,38 +1,38 @@
-> *The following text is extracted and transformed from the windowsreinstall.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230223827id_/http%3A//www.windowsreinstall.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windowsreinstall.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630195321id_/http%3A//windowsreinstall.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## WindowsReinstall.com's Privacy Policy
 
-**Site Privacy Policy**
+ **Site Privacy Policy**
 
-[ WindowsReinstall.com](http://www.windowsreinstall.com/) takes your online privacy very seriously. As a site dedicated to helping you with your Microsoft Windows problems, we believe that this is what you want and need --- not information others decide you should have --- we've made protecting our visitors a high priority.
+[WindowsReinstall.com](http://www.windowsreinstall.com/) takes your online privacy very seriously. As a site dedicated to helping you with your Microsoft Windows problems, we believe that this is what you want and need --- not information others decide you should have --- we've made protecting our visitors a high priority.
 
-**Subscription Information**
+ **Subscription Information**
 
 If you subscribe to [WindowsReinstall.com](http://www.windowsreinstall.com/) or [www.probz.com](http://www.probz.com/) or any of our local sites, we ask you for only your email address. This information will only be used to send you information that you have previously agreed to receive, and usually this is only information about updates and new help guides added to the site.
 
 We do collects statistics about our visitors, traffic patterns, and related site information but this in no way identifies who is accessing the site on any personal information about you the user. This information may be shared with responsible 3rd parties, but will in no way  identify you the user.
 
-**Consent**
+ **Consent**
 
 By using our Web site, you consent to the collection and use of this information by [www.WindowsReinstall.com](http://www.windowsreinstall.com/) . If we decide to change our privacy policy, we'll post those changes on this page so that you are always aware of what kind of information we're tracking, how we use it, and under what circumstances we may disclose it
 
-**Privacy Policy for[ www.windowsreinstall.com](http://www.windowsreinstall.com/)** 
+ **Privacy Policy for[www.windowsreinstall.com](http://www.windowsreinstall.com/)** 
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [ webmaster@windowsreinstall.com](mailto:webmaster@windowsreinstall.com) . 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [webmaster@windowsreinstall.com](mailto:webmaster@windowsreinstall.com) . 
 
 At www.windowsreinstall.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.windowsreinstall.com and how it is used. 
 
-**Log Files**
+ **Log Files**
 
 Like many other Web sites, www.windowsreinstall.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
 
-**Cookies and Web Beacons**  
+ **Cookies and Web Beacons**  
 
 www.windowsreinstall.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
 
-**DoubleClick DART Cookie**  
+ **DoubleClick DART Cookie**  
 
 .:: Google, as a third party vendor, uses cookies to serve ads on www.windowsreinstall.com.  
 .:: Google's use of the DART cookie enables it to serve ads to users based on their visit to www.windowsreinstall.com and other sites on the Internet.   
@@ -58,12 +58,11 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
 
-**Comments**
+ **Comments**
 
 Any Questions or Comments Feel Free to mail: [webmaster@windowsreinstall.com](mailto:webmaster@windowsreinstall.com?subject=Privacy%20Policy)
 
-****   |  **Tags:** Privacy Policy, windowsreinstall.com site privacy policy |    
+ **** |  **Tags:** Privacy Policy, windowsreinstall.com site privacy policy|    
 ---|---|---  
 |   
-  |    
-****
+ |  
