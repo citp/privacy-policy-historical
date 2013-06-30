@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usingenglish.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230220515id_/http%3A//www.usingenglish.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usingenglish.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630233134id_/http%3A//www.usingenglish.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Statemant - UsingEnglish.com
 
@@ -159,7 +159,7 @@ Third Party Advertising Vendor | Address
 ---|---  
 Commission Junction | [www.cj.com](http://www.cj.com/)  
 HotChalk, Inc. | [www.hotchalk.com/network-info/](http://www.hotchalk.com/network-info/)  
-i-to-i TEFL | [www.i-to-i.com](http://www.i-to-i.com/)  
+i-to-i TEFL | [www.i-to-i.com](http://www.onlinetefl.com/)  
 AdMotion | [www.onlinetefl.com](http://www.onlinetefl.com/)  
 Whitesmoke | [www.whitesmoke.com](http://www.whitesmoke.com/)  
   
