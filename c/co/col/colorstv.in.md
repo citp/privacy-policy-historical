@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colorstv.in privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220065919id_/http%3A//www.aapkacolors.com/us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colorstv.in privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630055858id_/http%3A//www.aapkacolors.com/us/privacy.html) for the most accurate reproduction.*
 
 # Color TV Show – Privacy Policy
 
