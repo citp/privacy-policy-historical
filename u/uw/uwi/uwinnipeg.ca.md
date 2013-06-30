@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uwinnipeg.ca privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229144723id_/http%3A//www.uwinnipeg.ca/index/admin-fippa) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uwinnipeg.ca privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630232822id_/http%3A//www.uwinnipeg.ca/index/admin-fippa) for the most accurate reproduction.*
 
 # Access and Privacy at UWinnipeg - The University Of Winnipeg
 
@@ -18,11 +18,11 @@ Visit our [FAQs](https://web.archive.org/index/fippa-faqs) page to answer the mo
 
 To make an application under the Act, please download and fill out the [FIPPA Application Form](http://www.gov.mb.ca/chc/fippa/public_portal_home.html) and send it to the FIPPA Coordinator by mail or fax. 
 
-**Contact the FIPPA Coordinator**  
-Gabrielle Prefontaine, University Archivist & FIPPA Coordinator  
+**Contact the FIPPA Officer**  
+Dan Elves, FIPPA and Records Officer  
 The University of Winnipeg  
 515 Portage Avenue  
 Winnipeg, MB R3B 2E9  
-phone: 204.786.9914  
+phone: 204.988.7538  
 fax: 204.783.8910  
-email: [g.prefontaine@uwinnipeg.ca](mailto:g.prefontaine@uwinnipeg.ca)
+email: [da.elves@uwinnipeg.ca](mailto:da.elves@uwinnipeg.ca)
