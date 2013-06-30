@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rebelsport.com.au privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128180534id_/http%3A//www.rebelsport.com.au/eng/aboutus/privacyPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rebelsport.com.au privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630034847id_/http%3A//www.rebelsport.com.au/eng/aboutus/privacyPolicy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
