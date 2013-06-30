@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brctv.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022054343id_/http%3A//www.brctv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brctv.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630040747id_/http%3A//www.brctv.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Blue Ridge Communications
 
@@ -31,9 +31,9 @@ If you have questions or concerns about this Privacy Policy, you can contact us 
 Notification of Changes   
 Any changes to this policy will be listed on this page. 
 
-**LAST UPDATED AND EFFECTIVE DATE: May 18, 2012.**
+**LAST UPDATED AND EFFECTIVE DATE: May 20, 2013.**
 
-**NOTIFICATIONS FOR BLUE RIDGE COMMUNICATIONS 2012**
+**NOTIFICATIONS FOR BLUE RIDGE COMMUNICATIONS 2013**
 
 As required by law, we are notifying our customers of their right to privacy, our complaint procedure, refund policy, converter/TV compatibility and subscriber service procedure.
 
@@ -46,7 +46,7 @@ We do not maintain this information any longer than is necessary for our busines
  
 
 As a subscriber, you may review (and correct if necessary) any personal information held by us that pertains to you. These records are available at the local Blue Ridge Communications office serving you, during the hours of 9 AM to 5 PM, Monday through Friday. We request that you contact us beforehand by telephone or letter so that we may locate the information and set up an appointment for your review.   
-Blue Ridge Communications may from time-to-time make your personal information available to our sales agents, research consultants, our accountants, programming services, representatives of franchising authorities, and collection agencies for the purpose of collecting money owed by a subscriber.   
+Blue Ridge Communications may from time-to-time make your personal information available to our sales agents, research consultants, our accountants, programming services, representatives of franchising authorities, and collection agencies (for the purpose of collecting money owed by a subscriber).   
  
 
 Names and addresses of Blue Ridge Communications subscribers are provided to Program Guide distributors for the purpose of mailing; please notify our office by telephone or letter if you do not want to be included on the list. 
@@ -99,15 +99,15 @@ We are committed to resolving your complaints promptly. If you feel the complain
 
 **  
 TELEPHONE MONITORING  
-**We will be recording and/or monitoring customer phone calls in order to ensure quality customer service.  
+**We will be recording and monitoring customer phone calls in order to ensure quality customer service.  
  
 
 **INTERNET PRIVACY**
 
 For Blue Ridge High Speed Internet customers, personally identifiable information is collected in the course of furnishing Internet access. We adhere to the provisions of the PenTeleData Acceptable use policy,  
 which is found at <http://www.ptd.net/POLICIES-RES.html>. We comply with the Electronic Communications Privacy Act and all copyright laws including the Digital Millennium Copyright Act. We will provide personally identifiable subscriber information to authorized requestors upon receipt of a subpoena, search warrant, or court order without first notifying the subscriber. We do not retain personally identifiable information related to Internet   
-access longer than is necessary for business purposes. We will periodically email you information from Blue Ridge and Blue Ridge marketing partners. To unsubscribe, follow the instructions in the  
-email.  
+access longer than is necessary for business purposes and is required by law. We will periodically email you information from Blue Ridge and Blue Ridge marketing partners. To unsubscribe, follow the instructions in the  
+email. Net neutrality information can be found at [www.brctv.com//legal](http://www.brctv.com/legal).  
  
 
 **SERVICE PROCEDURE  
