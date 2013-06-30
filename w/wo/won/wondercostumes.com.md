@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wondercostumes.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222195425id_/http%3A//www.wondercostumes.com/index.cfm/pgd_18/Customer_service.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wondercostumes.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630100453id_/http%3A//www.wondercostumes.com/index.cfm/pgd_18/Customer_service.html%23privacy) for the most accurate reproduction.*
 
 # WonderCostumes.com - Privacy Policy
 
