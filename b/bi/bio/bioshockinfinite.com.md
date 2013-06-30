@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the bioshockinfinite.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229143502id_/http%3A//www.take2games.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bioshockinfinite.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630225917id_/http%3A//www.take2games.com/privacy) for the most accurate reproduction.*
 
 # TAKE TWO INTERACTIVE'S PRIVACY POLICY
 
   
-[EN](https://web.archive.org/web/20121229143502id_/http://www.take2games.com/privacy/index.html) | [DE](https://web.archive.org/web/20121229143502id_/http://www.take2games.com/privacy/DE.html) | [ES](https://web.archive.org/web/20121229143502id_/http://www.take2games.com/privacy/ES.html) | [FR](https://web.archive.org/web/20121229143502id_/http://www.take2games.com/privacy/FR.html) | [IT](https://web.archive.org/web/20121229143502id_/http://www.take2games.com/privacy/IT.html) | [NL](https://web.archive.org/web/20121229143502id_/http://www.take2games.com/privacy/NL.html)
+[EN](https://web.archive.org/web/20130630225917id_/http://www.take2games.com/privacy/index.html) | [DE](https://web.archive.org/web/20130630225917id_/http://www.take2games.com/privacy/DE.html) | [ES](https://web.archive.org/web/20130630225917id_/http://www.take2games.com/privacy/ES.html) | [FR](https://web.archive.org/web/20130630225917id_/http://www.take2games.com/privacy/FR.html) | [IT](https://web.archive.org/web/20130630225917id_/http://www.take2games.com/privacy/IT.html) | [NL](https://web.archive.org/web/20130630225917id_/http://www.take2games.com/privacy/NL.html)
 
 Last Updated May 3, 2012
 
