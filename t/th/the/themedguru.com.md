@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themedguru.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229143418id_/http%3A//www.themedguru.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themedguru.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630225420id_/http%3A//themedguru.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | TheMedGuru
 
@@ -28,7 +28,7 @@ We may get data from or about you in other ways not specifically described in th
 
 **Data Changes.**  
 If you terminate your account or delete/change your data or content, we usually update our live databases immediately. To do this, please edit your Member Profile. However, some data may update more slowly, and some old data may remain in our archives and records. Also, we may be unable to propagate changes to partners who receive your data or content. If your account is being terminated or suspended, we may maintain some data to prevent re-registration.  
-**  
+ **  
 Government Relations and Lawsuits.**  
 We may disclose data about you to the government if we are required to do so or if we think the disclosure is appropriate, and you authorize these disclosures. We may also disclose data about you in connection with actual or potential lawsuits (a) if we are required to do so, (b) if such disclosures may potentially mitigate our liability, or (c) to enforce our rights.
 
@@ -37,15 +37,15 @@ You may not harvest personal data (including email addresses) from the site, and
 
 **Limits on Our Abilities.**  
 Our site is very complicated, so we might inadvertently use or disclose your data in ways inconsistent with this statement. For example, a temporary software glitch could lead to public display of your personal data despite your preferences otherwise. We might also make ad hoc uses of your data in ways not mentioned here. In these anomalous situations, your sole remedy is that we will try to rectify the anomaly as soon as we can.  
-**  
+ **  
 Security.**  
 We use industry-standard security protocols, such as (if and where appropriate) firewalls and restrictions on which employees can access user data. However, perfect security does not exist on the Internet. Also, in theory third parties can intercept Internet transmissions containing your personal data, and we don't control the privacy/security of transmissions to and from the site while in transit.  
-**  
+ **  
 Notification of Changes**  
-This policy may be revised over time as new features are added to the Web site. We will post our new privacy policy, along with the date of its last revision, prominently so that you will always know what information we gather, how we use that information, and whether we will disclose it to anyone. Please check this Web page for information about revisions to our privacy policy. If you would like to receive e-mail notification of any such changes, please contact us at [privacy@TheMedGuru.com] requesting the same.
+This policy may be revised over time as new features are added to the Web site. We will post our new privacy policy, along with the date of its last revision, prominently so that you will always know what information we gather, how we use that information, and whether we will disclose it to anyone. Please check this Web page for information about revisions to our privacy policy. If you would like to receive e-mail notification of any such changes, please contact us at [[privacy@TheMedGuru.com](mailto:privacy@TheMedGuru.com)] requesting the same.
 
 We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <http://www.networkadvertising.org/managing/opt_out.asp>
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/ "www.networkadvertising.org") .
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/) .
 
 We partner with ValueClick to serve ads and/or collect certain information when you visit our website. ValueClick may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this “behavioral advertising” practice or to opt-out of this use of your anonymous information, you can visit <http://www.valueclickmedia.com/member_privacy.shtml>
