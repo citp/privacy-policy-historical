@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lilbabes.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115030137id_/http%3A//www.lilbabes.com/doc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lilbabes.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630073356id_/http%3A//www.lilbabes.com/doc/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy / Lil' Babes
 
