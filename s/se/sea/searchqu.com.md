@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchqu.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231010252id_/http%3A//www.searchnu.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchqu.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630032826id_/http%3A//www.searchnu.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -38,4 +38,4 @@ If a user no longer wishes to receive e-mail communication from Searchnu.com, su
 
 ## Contact Information
 
-Searchnu.com is owned and operated by Bandoo, Inc. Please direct all questions in connection with this Policy via e-mail to [privacy@searchnu.com](mailto:privacy@searchnu.com) or by writing to Bandoo, Inc., Attention: Privacy Policy Administrator, 40 kimonos st.3095 Limassol, Cyprus
+Searchnu.com is owned and operated by Bandoo Media Inc. Please direct all questions in connection with this Policy via e-mail to [privacy@searchnu.com](mailto:privacy@searchnu.com) or by writing to Bandoo Media Inc., Attention: Privacy Policy Administrator, 40 kimonos st.3095 Limassol, Cyprus
