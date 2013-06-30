@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footytube.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920140636id_/http%3A//www.footytube.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footytube.com privacy policy that was archived on 2013-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130701040720id_/http%3A//www.footytube.com/privacy) for the most accurate reproduction.*
 
 # Footytube Terms and Conditions
 
