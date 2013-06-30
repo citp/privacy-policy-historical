@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teracodex.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229135049id_/http%3A//teracodex.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teracodex.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630221550id_/http%3A//teracodex.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - TERA Codex
 
@@ -64,4 +64,4 @@ TERA Codex
 http://www.teracodex.com  
 gyradoser@teracodex.com
 
-This document was last updated on January 22, 2012 
+This document was last updated on January 22, 2012
