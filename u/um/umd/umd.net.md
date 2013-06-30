@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the umd.net privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230190439id_/http%3A//umd.net/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the umd.net privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630200036id_/http%3A//umd.net/privacy_policy) for the most accurate reproduction.*
 
-# UMD - The Wet and Messy Fetish Social Network
+# UMD - The Wet and Messy Fetish Community
 
 Privacy Statement
 
@@ -16,7 +16,7 @@ Please be reminded that content that you post here, including text, photos, and 
   
 
 
-[](http://umd.net/go/site_id/1715/new/32547/location/site_footer/banner/5_10%2F650x11010_1274215797_464.jpg)
+[](http://umd.net/go/site_id/1719/new/34547/location/site_footer/banner/1_13%2F12hrsforless4cents_1357932943_uid_293_18265.jpg)
 
   
 
