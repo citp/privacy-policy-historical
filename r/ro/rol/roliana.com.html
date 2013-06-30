@@ -1,283 +1,397 @@
-<!--The following is the downloaded HTML source of the roliana.com privacy policy that was archived on 2012-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120619213050id_/http%3A//www.roliana.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the roliana.com privacy policy that was archived on 2013-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130630121243id_/http%3A//www.roliana.com/phpBB3/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
-	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
-	<meta http-equiv="imagetoolbar" content="no">
-	<meta name="MSSmartTagsPreventParsing" content="true">
-	<meta name="keywords" content="rpg, avatar, role, playing, game, forum">
-	<meta name="description" content="Roliana is an role playing avatar game and forum">
-	<link rel="stylesheet" type="text/css" href="css.css">
-	<title>Privacy Policy for Roliana</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-gb" xml:lang="en-gb"><head>
 
-	<script src="javascripts/prototype.js" type="text/javascript" charset="utf-8"></script>
-	<script src="javascripts/effects.js" type="text/javascript" charset="utf-8"></script>
-	<script src="javascripts/glider.js" type="text/javascript" charset="utf-8"></script>
-	<script src="javascripts/prototabs.js"></script>
-<script>
-	Event.observe(window,'load',function(){
-		var tabSet1 = new ProtoTabs('tabSet1',{defaultPanel:'acapulco', ajaxUrls: {							
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta http-equiv="content-style-type" content="text/css">
+<meta http-equiv="content-language" content="en-gb">
+<meta http-equiv="imagetoolbar" content="no">
+<meta name="resource-type" content="document">
+<meta name="distribution" content="global">
+<meta name="keywords" content="">
+<meta name="description" content="">
+
+<title>Roliana • Privacy Policy</title>
+
+
+<!--<script type="text/javascript" src="http://www.roliana.com/phpBB3/styles/roliana_new/template/prototype.js"></script>-->
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+// <![CDATA[
+	var jump_page = 'Enter the page number you wish to go to:';
+	var on_page = '';
+	var per_page = '';
+	var base_url = '';
+	var style_cookie = 'phpBBstyle';
+	var style_cookie_settings = '; path=/; domain=.roliana.com';
+	var onload_functions = new Array();
+	var onunload_functions = new Array();
+	// www.phpBB-SEO.com SEO TOOLKIT BEGIN
+	var seo_delim_start = '-';
+	var seo_static_pagination = 'page';
+	var seo_ext_pagination = '.html';
+	var seo_external = true;
+	var seo_external_sub = false;
+	var seo_ext_classes = false;
+	var seo_hashfix = false;
+	// www.phpBB-SEO.com SEO TOOLKIT END
+	
+
+	/**
+	* Find a member
+	*/
+	function find_username(url)
+	{
+		popup(url, 760, 570, '_usersearch');
+		return false;
+	}
+
+	/**
+	* New function for handling multiple calls to window.onload and window.unload by pentapenguin
+	*/
+	window.onload = function()
+	{
+		for (var i = 0; i < onload_functions.length; i++)
+		{
+			eval(onload_functions[i]);
+		}
+	};
+
+	window.onunload = function()
+	{
+		for (var i = 0; i < onunload_functions.length; i++)
+		{
+			eval(onunload_functions[i]);
+		}
+	};
+	
+	/**
+	* Post Models
+	*/
+	function refresh(f,l)
+	{
+		var urls= 'models.php';
+		var param = 'f='+f+'&selected_language='+l;
+		var myAjax = new Ajax.Request
+		(
+			urls, 
+			{
+				method: 'post', 
+				postBody: param,
+				onComplete: showResponse
 			}
-		});
-	});
+		);
+	}
+
+	function showResponse(originalRequest) 
+	{
+		if (originalRequest.readyState == 4)
+		{
+			if (originalRequest.status==200)
+			{
+				$('refresh_id').update(originalRequest.responseText);			
+			}
+		}
+	}
+
+// ]]>
 </script>
-
-</head>
-<body>
-
-
-
-<div id="container">
-
-<div id="top">
-<a href="help.php" class="white"> Help | </a><a href="rules.php" class="white">Site Rules | </a> <a href="privacy.php" class="white"> Privacy </a> 
-</div>
- <div id="header">
-<div id="login">
-<a href="http://www.roliana.com/forums/profile.php?mode=register"><img src="images/join.gif" class="joiner" alt="Click Here to Join For Free" title="Click Here to Join For Free"></a>
-
-<div id="loginform">
-<form action="forums/login.php" method="post" target="_top">
-<div class="logintext">Username :</div><br><input type="text" name="username" class="loginbox1">
-<div class="logintext2">Password :</div><br><input type="password" name="password" class="loginbox2">
- <input type="hidden" name="redirect" value="../index.php">
- <input type="submit" class="loginbutton" value="" name="login">
-<div class="checker"><input type="checkbox" name="autologin" class="check">Remember Me</div> 
-<a href="forums/profile.php?mode=sendpassword" class="logintext3">I forgot my password</a>
-</form>
-</div>
-
-</div>
- 
-
-
-<div id="navbar">
-
-
-
-<!-- The Menu --> 
-
-<ul id="nav">
-<li id="home"><a href="/" title="Home">Home</a></li>
-<li id="story"><a href="story.php" title="Story">Story</a></li>
-<li id="forums"><a href="/forums/" title="Forums">Forums</a></li>
-<li id="shops"><a href="/forums/shop.php" title="Shops">Shops</a></li>
-<li id="games"><a href="/forums/gaming.php" title="Games">Games</a></li>
-<li id="help"><a href="help.php" title="Help">Help</a></li>
-<li id="extras"><a href="extras.php" title="Extras">Extras</a></li>
-<li id="rules"><a href="rules.php" title="Rules">Rules</a></li>
-<li id="mis"><a href="http://www.roliana.com/forums/inventory.php?id=-15" title="Monthly Items">Monthly Items</a></li>
-<li id="donate"><a href="/forums/lwdonate.php" title="Donate">Donate</a></li>
-</ul>
-
-</div>
- <div id="headimage">
-<h1 title="Roliana"></h1>
-</div>
-</div>
-
-  
-
-<div id="maincontents">
-
-
-<div id="maincontent">
-
-<div id="maincontentheader">
-
-<h2>Privacy Policy for Roliana.com</h2>
-
-</div>
-
-
-
-<h3>Who we Are</h3>
-
-<p>In this privacy policy references to “we”, “us” and “our” are Truelight Media Ltd. References to “our Website” or “the Website” are to www.roliana.com</p>
-
-
-
-<h3>What information we collect and how</h3>
-
-
-
-<p>The information we collect via the Website may include.</p>
-
-
-
-<ol>
-
-<li>Any personal details you knowingly provide us with through forms and our email, such as name, address, telephone number etc.</li>
-
-<li>In order to effectively process credit or debit card transactions it may be necessary for the bank or card processing agency to verify your personal details for authorisation outside the European Economic Area (EEA). Such information will not be transferred out of the EEA for any other purpose.</li>
-
-<li>Your preferences and use of email updates, recorded by emails we send you (if you select to receive email updates on products and offers).</li>
-
-<li>Your IP Address, this is a string of numbers unique to your computer that is recorded by our web server when you request any page or component on the Website. This information is used to monitor your usage of the Website.</li>
-
-<li>Data recorded by the Website which allows us to recognize you and your preferred settings, this saves you from re-entering information on return visits to the site. Such data is recorded locally on you computer through the use of cookies. Most browsers can be programmed to reject, or warn you before downloading cookies, information regarding this may be found in your browsers ‘help’ facility.</li>
-
-</ol>
-
-
-
-<h3>What we do with your information</h3>
-
-
-
-<p>Any personal information we collect from this website will be used in accordance with the Data Protection Act 1998 and other applicable laws. The details we collect will be used:</p>
-
-
-
-<ol>
-
-<li>To process your order, to provide after sales service (we may pass your details to another organisation to supply/deliver products or services you have purchased and/or to provide after-sales service); </li>
-
-<li>In certain cases we may use your email address to send you information on our other products and services.</li>
-
-</ol>
-
-<p>We may need to pass the information we collect to other companies for administrative purposes. We may use third parties to carry out certain activities, such as processing and sorting data, monitoring how customers use the Website and issuing our e-mails for us. Third parties will not be allowed to use your personal information for their own purposes.</p>
-
-
-
-<h3>Your Rights</h3>
-
-
-
-<p>You have the right to request a copy of any information that we currently hold about you. In order to receive such information please send your contact details including address and payment of $10 to cover administration expenses to the following address:</p>
-
-
-
-<address>
-
-Privacy<br>
-
-Roliana<br>
-
-56 Sheridan Ave<br>
-
-Albany, NY<br>
-
-U.S.A.<br>
-
-</address>
-
-
-
-<h3>Other Websites</h3>
-
-
-
-<p>This privacy policy only covers this website. Any other websites which may be linked to by our website are subject to their own policy, which may differ from ours.</p>
-
-
-
-
-
-<div id="maincontentfooter">
-
-</div>
-
-</div>
-
-
-
-<div id="whatisthis">
-<p class="pspace2">A place to hang 
-out and make some friends...</p>
-
-<p>Create your own 
-avatar and customize him 
-or her with your choice of 
-clothes, hair styles and 
-other items.</p>
-
-<p>To buy clothes you need to 
-earn Gold by participating in
-the forums and playing 
-games.</p>
-</div>
-
-
-<div id="mi">
-	<a href="http://www.roliana.com/forums/inventory.php?id=-15"><img src="scrollimages/MI.gif" width="374" height="235"></a>
-</div>
-
-<div id="slider">
-<div id="my-glider">
-		<div class="controls">
-			<a href="#section1" class="scrollbut">1</a>
-			<a href="#section2" class="scrollbut">2</a>
-			<a href="#section3" class="scrollbut">3</a>
-			<!--<a href="#section4" class="scrollbut">4</a>-->
-		</div>
+<script type="text/javascript">
+var tapatalkdir="./mobiquo";
+var tapatalk_ipad_msg = '';
+var tapatalk_ipad_url  = '';
+var tapatalk_iphone_msg = '';
+var tapatalk_iphone_url  = '';
+var tapatalk_android_msg = '';
+var tapatalk_android_url  = '';
+var tapatalk_kindle_msg = '';
+var tapatalk_kindle_url  = '';
+var tapatalk_chrome_enable = '1';
+</script>
+<script type="text/javascript" src="./mobiquo/tapatalkdetect.js"></script>
+<script type="text/javascript" src="http://www.roliana.com/phpBB3/assets/js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="http://www.roliana.com/phpBB3/assets/js/jquery-ui-1.8.22.custom.min.js"></script>
+<script type="text/javascript" src="http://www.roliana.com/phpBB3/styles/roliana_new/template/styleswitcher.js"></script>
+<script type="text/javascript" src="http://www.roliana.com/phpBB3/styles/roliana_new/template/forum_fn.js"></script>
+<script type="text/javascript" src="http://www.roliana.com/phpBB3/assets/js/main_functions.js"></script>
+
+
+
+<link href="http://www.roliana.com/phpBB3/styles/roliana_new/theme/print.css" rel="stylesheet" type="text/css" media="print" title="printonly">
+<link href="http://www.roliana.com/phpBB3/style.php?id=4&amp;lang=en&amp;curtime=1372594363;" rel="stylesheet" type="text/css" media="screen, projection">
+<link href="http://www.roliana.com/phpBB3/styles/roliana_new/theme/9-theme.css?curtime=1372594363;" rel="stylesheet" type="text/css" media="screen, projection">
+
+<link type="text/css" href="http://roliana.com/phpBB3/assets/css/ui-lightness/jquery-ui-1.8.22.custom.css" rel="stylesheet">
+
+<link href="http://www.roliana.com/phpBB3/styles/roliana_new/theme/normal.css" rel="stylesheet" type="text/css" title="A">
+<link href="http://www.roliana.com/phpBB3/styles/roliana_new/theme/medium.css" rel="alternate stylesheet" type="text/css" title="A+">
+<link href="http://www.roliana.com/phpBB3/styles/roliana_new/theme/large.css" rel="alternate stylesheet" type="text/css" title="A++">
+
+<link href="http://fonts.googleapis.com/css?family=Ubuntu|Lobster+Two|Port+Lligat+Slab" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz" rel="stylesheet" type="text/css">
+<!--�[if lt IE 9]--> <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script> <!--[endif]�-->
+
+
+
+</head><body id="phpbb" class="section-privacy ltr">
+<div id="prize_dialog"><div id="inner"><div id="inner2"></div></div></div>
+
+<nav role="navigation">
+	<ul class="container">
+		<li><a href="http://www.roliana.com/">Home</a></li>
+		<li><a href="http://www.roliana.com/phpBB3/">Forums</a>
+			<ul>
+				<li><a href="./search.php?search_id=egosearch">View your posts</a></li>
+				<li><a href="./search.php?search_id=unanswered">View unanswered posts</a></li> 
+				<li><a href="./search.php?search_id=unreadposts">View unread posts</a></li> 
+				<li><a href="./search.php?search_id=newposts">View new posts</a></li>
+				<li><a href="./search.php?search_id=active_topics">View active topics</a></li>
+			</ul>
+		</li>		
+		<li><a href="http://www.roliana.com/phpBB3/shops/">Shops</a>
+			<ul>
+				<li><a href="http://www.roliana.com/phpBB3/wheel/"><b>It's back!</b> The Wheel</a></li>
+				<li><a href="http://www.roliana.com/phpBB3/shops/?shop_id=76">Dr. Franz's Lab</a></li> 
+				<li><a href="http://www.roliana.com/phpBB3/shops/?shop_id=1">Effortless Affordable</a></li> 
+				<li><a href="http://www.roliana.com/phpBB3/shops/?shop_id=2">Jewel Galleria</a></li> 
+				<li><a href="http://www.roliana.com/phpBB3/shops/?shop_id=77">Maison de Mode</a></li> 
+				<li><a href="http://www.roliana.com/phpBB3/shops/?shop_id=7">Salon de Beauté</a></li>
+				<li><a href="http://www.roliana.com/phpBB3/shops/?shop_id=4">Sweet Kicks</a></li>
+				<li><a href="http://www.roliana.com/phpBB3/shops/?shop_id=15">The Ancient Temple</a></li>
+				<li><a href="http://www.roliana.com/phpBB3/shops/?shop_id=5">The Bootleg Market</a></li>
+				<li><a href="http://www.roliana.com/phpBB3/shops/?shop_id=9">The Weapons Forge</a></li>
+				<li><a href="http://www.roliana.com/phpBB3/shops/?shop_id=6">Topp's Haberdashery</a></li> 
+			</ul>
+		</li>
+		<li><a href="http://www.roliana.com/phpBB3/marketplace/" title="Marketplace">Marketplace</a></li>
+		<li><a href="http://www.roliana.com/phpBB3/donate/">Donate</a>
+			<!--<ul>
+				<li><a href="http://www.roliana.com/phpBB3/donate/donate.php"><b>NEW!</b> Paypal</a></li> 
+				<li><a href="http://www.roliana.com/phpBB3/donate/">Xsolla</a></li>
+			</ul>-->
+		</li>
+		<li><a href="#">World</a>
+			<ul>
+				<li><a href="http://www.roliana.com/phpBB3/post12575849.html">Story</a></li> 
+				<li><a href="http://www.roliana.com/phpBB3/rolitimes-f107.html">Roli Times</a></li>
+			</ul>
+		</li>
+		<li><a href="./points.php" title="Ultimate Points">Bank</a></li>
+		<!--<li><a href="http://www.roliana.com/phpBB3/phantasieren-winter-2012-f110.html" style="color:#EAAD00">Event</a>
+			<ul>
+				<li><a href="http://www.roliana.com/phpBB3/phantasieren-winter-2012-f110.html">Event Forum</a></li>
+				<li><a href="http://www.roliana.com/phpBB3/post12691251.html">Event FAQ</a></li>
+				<li><a href="http://www.roliana.com/phpBB3/advent_calendar/">Advent Calendar</a></li> 
+			</ul>
+		</li>-->
+		<li><a href="#" title="Daily Prize" id="daily_prize">Daily Prize</a></li>
+<li id="visibility-toggle" class="right logout-yellow"><a href="http://www.roliana.com/phpBB3/ucp.php?mode=logout&amp;sid=9b9f2775a0c2341f094f520f951385c6" title="Logout [  ]" accesskey="x">Logout</a>
+			<ul>
+				<li><a href="#" id="toggle-available">Available</a></li> 
+				<li><a href="#" id="toggle-invisible">Invisible</a></li>
+				<li><a href="http://www.roliana.com/phpBB3/ucp.php?mode=logout&amp;sid=9b9f2775a0c2341f094f520f951385c6" title="Logout [  ]" accesskey="x">Log Out</a></li>
+			</ul>
+		</li>
+		<li class="right announcements"><a href="http://www.roliana.com/phpBB3/news-announcements-f1.html">Announcements<span>4</span></a>
+			
+				<ul>
+					
+						<li><a href="http://www.roliana.com/phpBB3/topic219163.html">Monthly Item Design Contest Voting! - RT*</a></li>
+					
+						<li><a href="http://www.roliana.com/phpBB3/topic219186.html">June MIs: Rogue's Code and Paranormal Investigation! - Kasha</a></li>
+					
+						<li><a href="http://www.roliana.com/phpBB3/topic219287.html">Two new hair colors! - Kasha</a></li>
+					
+						<li><a href="http://www.roliana.com/phpBB3/topic219388.html">Roli Times #10 -- June 2013 - Kenneth</a></li>
+					
+				</ul>
+			
+		</li>
+		<li class="right settings"><a href="http://www.roliana.com/phpBB3/ucp.php">Settings</a>
+			<ul>
+				<li><a href="http://www.roliana.com/phpBB3/avatar/">Edit Avatar</a></li> 
+				<li><a href="http://www.roliana.com/phpBB3/ucp.php?i=173">Edit Profile</a></li> 
+				<li><a href="http://www.roliana.com/phpBB3/profile/0/">View Profile</a></li> 
+				<li><a href="http://www.roliana.com/phpBB3/ucp.php" title="User Control Panel" accesskey="e">Settings</a></li>
+				<li><a href="http://www.roliana.com/phpBB3/theme/"><b>NEW!</b> Theme Builder</a></li>
+			</ul>
+		</li>
+		<li class="right favourites"><a href="http://www.roliana.com/phpBB3/ucp.php?i=main&amp;mode=bookmarks">Bookmarks</a></li>
+		<li class="right friends"><a href="http://www.roliana.com/phpBB3/ucp.php?i=fram&amp;mode=view_requests">Friends</a></li>
+		<li class="right trade"><a href="http://www.roliana.com/phpBB3/trades/">Trade</a>
+			
+		</li>
+		<li class="right messa"><a href="http://www.roliana.com/phpBB3/ucp.php?i=pm&amp;folder=inbox">Messages</a>
+		</li>
+		<li class="right currency">
+			<img title="Gold" src="http://www.roliana.com/phpBB3/images/currencies/gold.gif"><strong class="gold-counter">0</strong>	
+			<img title="Platinum" src="http://www.roliana.com/phpBB3/images/currencies/plat.gif"><strong class="plat-counter">0</strong>
+			<img title="Stars" src="http://www.roliana.com/phpBB3/images/currencies/star.gif"><strong class="star-counter">0</strong>
+		</li>
 
 		
-		<div class="scroller">
-			<div class="content">
-			
-			
-				<div class="section" id="section1">
-					<a href="http://www.roliana.com/forums/wheel_test.php"><img src="scrollimages/1.png" width="374" height="193" border="0"></a>
-				</div>
-				<div class="section" id="section2">			
-					<a href="http://www.roliana.com/forums/viewtopic.php?t=202657"><img src="scrollimages/2.png" width="374" height="193" border="0"></a>	
-				</div>
-				<div class="section" id="section3">			
-					<a href="http://www.roliana.com/forums/inventory.php?id=-15"><img src="scrollimages/3.png" width="374" height="193" border="0"></a>	
-				</div>
-				<!--<div class="section" id="section4">			
-					<a href="http://www.roliana.com/forums/wheel_test.php"><img src="scrollimages/4.png" width="374" height="193" border="0" /></a>	
-				</div>-->
-				
-				
-			</div>
-		</div>			
-	</div>
 
+	</ul>
+</nav>
+<div id="container">
+	<div id="main">
+		<header role="banner">
+			<a href="http://www.roliana.com/phpBB3/avatar/"><img src="http://www.roliana.com/phpBB3/loadavatar.php?uid=0" id="human-avatar"></a>
+		</header>
+		<div id="main_wrapper">
+			<ul id="breadcrumbs">
+				<li>
+					<a href="http://www.roliana.com/phpBB3/" accesskey="h">Board index</a>
+				</li>
+					
+				<li>
+					<form action="./search.php" method="get" id="search">
+						<input name="keywords" id="keywords" type="text" maxlength="128" title="Search for keywords" value="Search…" onclick="if(this.value=='Search…')this.value='';" onblur="if(this.value=='')this.value='Search…';">
+								
+					</form>
+				</li>
+			</ul>
+			
+			<div id="content">
+			
+			
+
+<style>
+	.privacy {
+		margin: 20px;
+	}
+	.privacy h2 {
+		width: 185px;
+		margin: auto;
+		margin-bottom: 6px;
+	}
+	.privacy b {
+		color: black;
+		margin: 6px 0 2px;
+		font-size: 13px;
+	}
+</style>
+
+<div class="privacy">
 	
-	<script type="text/javascript" charset="utf-8">
-		var my_glider = new Glider('my-glider', {duration:0.2});
+<h2>Privacy Policy</h2>
+
+This Privacy Policy governs the manner in which Truelight Media LLC collects, uses, maintains and discloses information collected from users (each, a "User") of the <a href="http://truelightmediallc.com">http://roliana.com</a> website ("Site"). This privacy policy applies to the Site and all products and services offered by Truelight Media LLC.<br><br>
+
+<b>Personal identification information</b><br><br>
+
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, credit card information. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.<br><br>
+
+<b>Non-personal identification information</b><br><br>
+
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.<br><br>
+
+<b>Web browser cookies</b><br><br>
+
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.<br><br>
+
+<b>How we use collected information</b><br><br>
+
+Truelight Media LLC may collect and use Users personal information for the following purposes:<br>
+<ul>
+<li><i>- To improve customer service</i><br>
+	Information you provide helps us respond to your customer service requests and support needs more efficiently.</li>
+<li><i>- To personalize user experience</i><br>
+	We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.</li>
+<li><i>- To improve our Site</i><br>
+	We may use feedback you provide to improve our products and services.</li>
+<li><i>- To process payments</i><br>
+	We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.</li>
+<li><i>- To run a promotion, contest, survey or other Site feature</i><br>
+	To send Users information they agreed to receive about topics we think will be of interest to them.</li>
+<li><i>- To send periodic emails</i><br>
+We may use the email address to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.</li>
+</ul><br>
+<b>How we protect your information</b><br><br>
+
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.<br><br>
+
+<b>Sharing your personal information</b><br><br>
+
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.<br><br>
+
+<b>Third party websites</b><br><br>
+
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.<br><br>
+
+<b>Advertising</b><br><br>
+
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.<br><br>
+
+<b>Changes to this privacy policy</b><br><br>
+
+Truelight Media LLC has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.<br><br>
+
+<b>Your acceptance of these terms</b><br><br>
+
+By using this Site, you signify your acceptance of this policy and <a href="http://roliana.com/phpBB3/tos.php">terms of service</a>. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.<br><br>
+
+<b>Contacting us</b><br><br>
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:<br>
+<a href="http://truelightmediallc.com">Truelight Media LLC</a><br>
+<a href="http://truelightmediallc.com">http://truelightmediallc.com</a><br>
+56 Sheridan Avenue
+Albany, NY 12210<br>
+support@roliana.com<script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
+/* ]]> */
+</script><br>
+<br>
+This document was last updated on January 02, 2013<br><br>
+
+</div>
+
+</div>	<!-- end content -->
+		</div>	<!-- end main_wrapper -->
+		<footer role="footer">
+			<ul id="socialmedia">
+				<li class="facebook"><a href="http://twitter.com/Roliana">Twitter</a></li>
+				<li class="twitter"><a href="http://www.facebook.com/pages/Roliana/126504031054">Facebook</a></li>
+				<li class="deviantart"><a href="http://rolianaexperiment.deviantart.com/">DeviantArt</a></li>
+				<li class="tumblr"><a href="http://roliana-updates.tumblr.com/">Tumblr</a></li>
+			</ul>
+			<ul id="links">
+				<li><a href="http://www.roliana.com/phpBB3/tos.php">Terms of Service</a></li>
+				<li><a href="http://www.roliana.com/phpBB3/privacy.php">Privacy Policy</a></li>
+				<li><a href="http://www.roliana.com/phpBB3/site-rules-guidelines-decorations-bbc-codes-9-22-12-t212830.html">Rules</a></li>
+				<!--<li><a href="#">Extras</a></li>-->
+				<li><a href="http://www.roliana.com/phpBB3/help-me-f15.html">Help</a></li>
+				
+				<li>© 2012 Roliana. All Rights Reserved</li>
+			</ul>
+		</footer>
+	</div>
+</div>
+
+<!-- JQuery Quickedit Pop Up --><!-- JQuery Quickedit Pop Up END -->
+
+<!--
+<script src="http://www.roliana.com/phpBB3/styles/roliana_new/theme/js/jquery.tools.min.js"></script>
+<script src="http://www.roliana.com/phpBB3/styles/roliana_new/theme/js/jquery.engine.js"></script>
+<script src="{http://www.roliana.com/phpBB3/styles/roliana_new/theme/js/chosen.jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript"> $(".chzn-select").chosen(); $(".chzn-select-deselect").chosen({allow_single_deselect:true}); </script>
+-->
+
+<!-- Google Analytics -->
+	<script type="text/javascript">
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-1968417-5']);
+	  _gaq.push(['_trackPageview']);
+	
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
 	</script>
-</div>
-
-<div id="purchase">
-<a href="http://www.roliana.com/forums/lwdonate.php"><img src="http://www.roliana.com/images/paypal.gif" class="paypalimage" alt="Click Here to Purchase Currency" title="Click Here to Purchase Currency"></a>
-<p class="pspace">
-
-Purchase platinum currency
-with Paypal, Post or Mobile.</p>
-<p>Earn gold by participating in 
-the forums and playing 
-games to buy clothes and 
-items...</p>
-</div>
-
-<br class="clear">
+<!-- Google Analytics END -->
 
 
-</div>
-<div id="footer">
-<div class="footertext">
-<a href="/terms.php" class="footerlink">Terms of Service</a> | <a href="/privacy.php" class="footerlink">Privacy Policy</a> | <a href="/rules.php" class="footerlink">Site Rules</a> | <a href="/help.php" class="footerlink">Help</a> | <a href="/extras.php" class="footerlink">Extras</a> | 
-</div>
-</div>
-
-
-
-
-
-
-
-
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-1968417-5");
-pageTracker._trackPageview();
-} catch(err) </script>
-</div></body></html>
+</body></html>
