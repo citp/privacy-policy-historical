@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pakistanimatrimony.com privacy policy that was archived on 2012-10-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121015170212id_/http%3A//www.pakistanimatrimony.com/site/index.php%3Fact%3Dprivacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pakistanimatrimony.com privacy policy that was archived on 2013-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130630110836id_/http%3A//www.pakistanimatrimony.com/site/index.php%3Fact%3Dprivacypolicy) for the most accurate reproduction.-->
 
 <html><head>
 	<title>Pakistani Matrimony, Matrimonial, Marriage,PakistaniMatrimony.com</title>
@@ -7,12 +7,95 @@
 	<meta name="keywords" content="Matrimony, Matrimony, Pakistani Matrimony">
 	<meta name="abstract" content="Matrimony, Matrimony, Pakistani Matrimony">
 	<meta name="Author" content="Matrimony, Matrimony, Pakistani Matrimony">
-	<meta name="copyright" content="Copyright © 2012 PakistaniMatrimony.com<br>All rights reserved.">
+	<meta name="copyright" content="Copyright © 2013. All rights reserved.">
 	<meta name="Distribution" content="Matrimony, Matrimony, Pakistani Matrimony">
 		<link rel="shortcut icon" type="image/x-icon" href="http://www.pakistanimatrimony.com/images/favicon/pakistan/favicon.ico">
 		<link rel="stylesheet" href="http://imgs.pakistanimatrimony.com/styles/global-style.css">
 			<link rel="stylesheet" href="http://imgs.pakistanimatrimony.com/styles/pakistani/global.css">
-		<script language="javascript" src="http://www.pakistanimatrimony.com/template/commonjs.php"></script>
+		<script type="text/javascript">var varConfArr=new Array(); varConfArr['domainimgs']="http://imgs.pakistanimatrimony.com/images"; varConfArr['domainweb'] = "http://www.pakistanimatrimony.com";varConfArr['domainname'] = ".pakistanimatrimony.com"; varConfArr['domainimage'] = "http://image.pakistanimatrimony.com";varConfArr['webimgs']="http://imgs.pakistanimatrimony.com/membersphoto/pakistani"; varConfArr['domainimg'] = "http://img.pakistanimatrimony.com"; varConfArr['productname'] = "PakistaniMatrimony";varConfArr['DOMAINCASTEID'] = "2008"; 
+var upimg="http://imgs.pakistanimatrimony.com/images/rp-arrow-up.gif"; 
+var downimg="http://imgs.pakistanimatrimony.com/images/rp-arrow-down.gif";
+var objAjax1='';
+var varIsPhoneAvailable ="1";
+function successstorynxt(argNum){
+	var argUrl=varConfArr['domainweb']+"/successstory/successstorypop.php?fileno="+argNum;
+	objAjax1 = AjaxCall();
+	AjaxGetReq(argUrl,succDiv,objAjax1);
+}
+function succDiv(){
+	if(objAjax1.readyState==4){if(objAjax1.status==200){
+		document.getElementById('dispcontent').style.display="block";
+		document.getElementById('dispcontent').innerHTML=objAjax1.responseText;
+	}else{alert('There was a problem with the request.');}}
+}
+function successstorypop(argNum){
+	var url=varConfArr['domainweb']+"/successstory/successstorypop.php?fileno="+argNum;
+	window.open(url,'successstory','top=250,left=525,bottom=0,toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=1,resize=0,width=600,height=450'); 
+}
+
+function launchIC(userID,destinationUserID) 
+{
+	var destinationUserID=destinationUserID.split('_');
+
+	if (/Firefox[\/\s](\d+\.\d+)/.test(navigator.userAgent))
+	{ 
+		var ffversion=new Number(RegExp.$1) // capture x.x portion and store as a number
+		if (ffversion>=3)
+		{winwidth="500";winheight="361";}
+		else 
+		{winwidth="500";winheight="361";}
+	}
+	else if (/MSIE (\d+\.\d+);/.test(navigator.userAgent))
+	{winwidth="500";winheight="361";}
+	else
+	{winwidth="500";winheight="361";}
+	var wintitle=userID+"vs"+destinationUserID;
+	var winurl=varConfArr['domainweb']+"/messenger/chatwindow.php?myid="+userID+"&recpid="+destinationUserID;
+	var popupWindowTest=null;
+	popupWindowTest=window.open(winurl,wintitle,"width="+winwidth+",height="+winheight+",toolbar=0,directories=0,menubar=0,status=0,location=0,scrollbars=0,resizable=0");
+	if(popupWindowTest==null) 
+	{
+		var cl_win_id;
+		if(GetCookie("closewin")==null || GetCookie("closewin")=="null"){setCookie("closewin",destinationUserID);}
+		else{cl_win_id=GetCookie("closewin")+"~"+destinationUserID;setCookie("closewin",cl_win_id);}
+		alert("Your popup blocker stopped an InstantCommunicator window from opening. Please disable it.");
+	}
+
+}
+
+
+function launch_auto(userID,destinationUserID,firstmsg) 
+{
+	var destinationUserID=destinationUserID.split('_');	
+	if (/Firefox[\/\s](\d+\.\d+)/.test(navigator.userAgent))
+	{ 
+		var ffversion=new Number(RegExp.$1) // capture x.x portion and store as a number
+		if (ffversion>=3)
+		{winwidth="500";winheight="361";}
+		else 
+		{winwidth="500";winheight="361";}
+	}
+	else if (/MSIE (\d+\.\d+);/.test(navigator.userAgent))
+	{winwidth="500";winheight="361";}
+	else
+	{winwidth="500";winheight="361";}
+	var wintitle=userID+"vs"+destinationUserID;
+	var winurl=varConfArr['domainweb']+"/messenger/chatwindow.php?myid="+userID+"&recpid="+destinationUserID+"&firstmsg="+firstmsg;
+	var popupWindowTest=null;
+	popupWindowTest=window.open(winurl,wintitle,"width="+winwidth+",height="+winheight+",toolbar=0,directories=0,menubar=0,status=0,location=0,scrollbars=0,resizable=0");
+	if(popupWindowTest==null) 
+	{
+		var cl_win_id;
+		if(GetCookie("closewin")==null || GetCookie("closewin")=="null"){setCookie("closewin",destinationUserID);}
+		else{cl_win_id=GetCookie("closewin")+"~"+destinationUserID;setCookie("closewin",cl_win_id);}
+		alert("Your popup blocker stopped an InstantCommunicator window from opening. Please disable it.");
+	}
+}
+
+
+
+var checkcrawlingbotsexists = false;
+</script>
 	<script language="javascript" src="http://imgs.pakistanimatrimony.com/scripts/cookie.js"></script>
 	<script language="JavaScript" src="http://imgs.pakistanimatrimony.com/scripts/global.js"></script>
 	<script language="javascript" src="http://imgs.pakistanimatrimony.com/scripts/ajax.js"></script>
@@ -102,9 +185,11 @@ function imgchange(imname)
 	<!-- Saved Search menu content -->
 	<div style="padding-left:68px !important;padding-left:68px;position:absolute;top:113px;">
 		<div id="searchdiv" class="smalltxt layer" style="display:none;width:130px !important;width:140px;padding-right:0px;" onmouseout="document.getElementById('menusrch').className='tlcenter fleft menust1';imgchange('simg');hidediv('searchdiv'); return true;" onmouseover="showdiv('searchdiv');document.getElementById('menusrch').className='tlcenter fleft menust2';">
-		<div class="fleft" style="padding-right:5px;"><font class="bld menclr1">Search options</font><br><a class="menclr1" href="http://www.pakistanimatrimony.com/search/" onclick="hidediv('searchdiv'); return true;" onmouseover="showdiv('searchdiv'); return true;">Regular search</a><br>
+		<div class="fleft" style="padding-right:5px;"><font class="bld menclr1">Search options</font><br>
+		<a class="menclr1" href="http://www.pakistanimatrimony.com/search/" onclick="hidediv('searchdiv'); return true;" onmouseover="showdiv('searchdiv'); return true;">Quick search</a><br>
+		<a class="menclr1" href="http://www.pakistanimatrimony.com/search/index.php?act=search" onclick="hidediv('searchdiv'); return true;" onmouseover="showdiv('searchdiv'); return true;">Regular search</a><br>
 		<a class="menclr1" href="http://www.pakistanimatrimony.com/search/index.php?act=advsearch" onclick="hidediv('searchdiv'); return true;" onmouseover="showdiv('searchdiv'); return true;">Advanced search</a><br>
-		<a class="menclr1" href="http://www.pakistanimatrimony.com/search/index.php?act=memidsearch" onclick="hidediv('searchdiv'); return true;" onmouseover="showdiv('searchdiv'); return true;">By Member Id search</a></div>
+		<a class="menclr1" href="http://www.pakistanimatrimony.com/search/index.php?act=memidsearch" onclick="hidediv('searchdiv'); return true;" onmouseover="showdiv('searchdiv'); return true;">Search by Member ID</a></div>
 				</div>
 	</div>
 	<!-- Search menu content -->
@@ -186,13 +271,9 @@ function imgchange(imname)
 <script language="javascript" src="http://imgs.pakistanimatrimony.com/scripts/login.js"></script>
 <div class="lpanel fright">
 <center>
-	
-	 
-	
-
-
-			<!--<div style="margin-top:5px;width:190px;float:right;">&nbsp;</div>-->
-		<br clear="all">
+				<a href="http://www.pakistanimatrimony.com/ppm/"><img src="http://imgs.pakistanimatrimony.com/images/pakistani/Right-Pannel.jpg"></a><br><br>
+		 
+			<br clear="all">
 	    
 		<div class="fright wdth192" style="display:inline;">
 	<div style="margin-top:30px;width:190px;float:right;">&nbsp;</div>
@@ -233,7 +314,7 @@ function imgchange(imname)
 			<br clear="all">
 <div align="center">
 <div class="mywdt">
-<div class="fleft tlleft bgclr3 mywdt" style="height:95px;">
+<div class="fleft tlleft bgclr3 mywdt" style="height:100px;">
 <div class="mymgnt18 mymgnl10 fleft disline">
  <div class="fleft"><img src="http://imgs.pakistanimatrimony.com/images/footbg.jpg" height="60" width="6"></div>
  <div class="fleft normdiv hgt60 normtxt mywdt387">
@@ -243,8 +324,10 @@ function imgchange(imname)
     <a href="http://www.pakistanimatrimony.com/site/index.php?act=termsandconditions" class="smalltxt clr1">Terms and Conditions</a><br><a href="http://www.pakistanimatrimony.com/site/index.php?act=privacypolicy" class="smalltxt clr1">Privacy Policy</a></div>
   <div style="margin-left:30px;display:inline;margin-top:6px;" class="fleft smalltxt clr1 tlleft">
     <a href="http://image.pakistanimatrimony.com/successstory/index.php?act=success" class="smalltxt clr1">Post Success Story</a><br>
-  <a href="http://www.pakistanimatrimony.com/matrimonials/" class="smalltxt clr1">Popular Matrimony Searches</a>
+  <a href="http://www.pakistanimatrimony.com/matrimonials/" class="smalltxt clr1">Popular Matrimony Searches</a><br>
+    <a href="http://www.pakistanimatrimony.com/site/index.php?act=event" class="smalltxt clr1">Events</a>
    </div>
+
  </div>
  <div class="fleft mymgnl5 normdiv hgt60" style="width:50px;">
  <div style="padding-left:15px;padding-top:13px;">
@@ -256,8 +339,8 @@ function imgchange(imname)
 </div>
 
 
-<div class="mymgnt30 mymgnl10 fleft" style="text-align:center;padding-left:0.4cm;padding-right:0.6cm;"><font class="smalltxt clr">Copyright © 2012 PakistaniMatrimony.com<br>All rights reserved.<br>Pakistanimatrimony is a part of  GlobalMatrimony.com</font></div>
-
+<div class="mymgnl10 fleft" style="text-align:center;padding-left:1.4cm;padding-right:0.6cm;margin-top:23px;"><a href="https://www.facebook.com/pages/pakistanimatrimony/278584528852664" target="_blank"><img width="175" height="54" border="0" style="vertical-align:middle;" src="http://imgs.pakistanimatrimony.com/images/fb-like-kcm-foot.gif" title="Like Us On Facebbok" alt="Like Us On Facebbok"></a></div>
+ <div class="fleft smalltxt clr" style="margin-top:5px;display:inline;width:600px;text-align:center;">Copyright © 2013. All rights reserved.Pakistanimatrimony is a part of  GlobalMatrimony.com</div>
 </div>
 <div class="fleft tlleft bgclr4 mywdt" style="height:15px;">&nbsp;</div>
 </div>
