@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mmoabc.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230063448id_/http%3A//www.mmoabc.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmoabc.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630110005id_/http%3A//mmoabc.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MMOABC
 
