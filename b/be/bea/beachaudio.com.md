@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beachaudio.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209130853id_/http%3A//www.beachaudio.com/info.php%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beachaudio.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630104815id_/http%3A//www.beachaudio.com/info.php%23Privacy) for the most accurate reproduction.*
 
 # Beach Audio - About Us | Customer Help Center : Consumer Electronics, Video Games, Cables, Appliances, and much more!
 
@@ -17,7 +17,7 @@ All items we sell are BRAND NEW and FACTORY SEALED. We do not sell any refurbish
 
 We are quite proud of the ratings and testimonials we receive from independent sources. 
 
-Please visit our [Ratings & Testimonials](https://web.archive.org/web/20121209130853id_/http%3A//www.beachaudio.com/testimonials.php) page to see for yourself!
+Please visit our [Ratings & Testimonials](https://web.archive.org/web/20130630104815id_/http%3A//www.beachaudio.com/testimonials.php) page to see for yourself!
 
 ###  Sales and Support 
 
