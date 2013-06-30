@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the garmahis.com privacy policy that was archived on 2012-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121013153734id_/http%3A//garmahis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garmahis.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630223300id_/http%3A//garmahis.com/privacy-policy) for the most accurate reproduction.*
 
-# Garmahis Design Magazine : tips, tutorials and reviews on Photoshop, web design, WordPress
+# Garmahis Design Magazine – Privacy Policy : Garmahis Design Magazine
 
 The privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by Garmahis.com and how it is used.
 
