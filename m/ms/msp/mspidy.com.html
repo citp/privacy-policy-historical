@@ -1,9 +1,13 @@
-<!--The following is the downloaded HTML source of the mspidy.com privacy policy that was archived on 2012-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121219174113id_/http%3A//www.mspidy.com/privacy-and-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mspidy.com privacy policy that was archived on 2013-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130630231224id_/http%3A//www.mspidy.com/privacy-and-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Privacy &amp; Policy - Social Networking Site | Social Media News | Web Tips</title>
+<title>Privacy &amp; Policy - Mspidy Social Networking Site gives Social Media News and Web Tips</title>
+<meta name="description" content="Mspidy is social media news and web tips site. Share yours with universe. All content will be to share. Web tips marketing are and social bookmarking site ">
+ <meta name="keywords" content="Social media news, web tips, web activity, web tips online, social networking site, social media, social media today, social activity, social media activity, internet free tips, share my story, sharing place, submit a link, submit stories, pin the story">
+<meta name="robots" content="all">
+<meta name="robots" content="index, follow">
 <link rel="SHORTCUT ICON" href="http://www.mspidy.com/images/mspidy.ico">
 <link rel="stylesheet" href="css/styles.css">
 <link href="css/gend.css" rel="stylesheet" type="text/css">
@@ -61,7 +65,7 @@ a:hover {
 	color: #F00;
 }
 </style>
-<div class="logo"><a href="http://www.mspidy.com/"><img src="images/mspidy-logo.png" width="153" height="49" alt="mspidy logo" border="0"></a></div>
+<div class="logo"><a href="https://www.mspidy.com/"><img src="images/mspidy-logo.png" width="153" height="49" alt="mspidy logo" border="0"></a></div>
         <div class="share_yours"><img src="images/share-yours-with-universe.png" width="432" height="50" alt="share yours with universe"></div>
 <div class="header_left">
         	<div class="header_join">
@@ -268,10 +272,10 @@ function pass_conpass(){
 </div>
 <div class="gend_login" align="center">
 <form id="formID" class="formular" method="post" action="../login/registration.php" style="width:450px" onsubmit="return pass_conpass()">
-	  <table width="400" border="0" cellpadding="2" cellspacing="2">
+  <table width="400" height="298" border="0" cellpadding="1" cellspacing="1">
 	    <tbody><tr>
-	      <td colspan="3" align="center"><hr>
-	      <h1><div class="login_head">Or register with your email id</div><br></h1></td>
+	      <td colspan="3" align="center">
+	      <div class="login_head">Or register with your email id</div></td>
         </tr>
 	    <tr>
           <td width="121" class="join_tit"> Email Address</td>
@@ -296,17 +300,17 @@ function pass_conpass(){
 	      <td colspan="2" align="center"><input name="password2" type="password" class="validate[required, minSize[6], maxSize[20]] texbox" id="password2"></td>
         </tr>
 	   <tr>
-	      <td width="121" colspan="3" align="center"><table><tbody><tr>
+	      <td width="121" height="44" colspan="3" align="center"><table><tbody><tr>
 	      <td width="39" align="center"><span class="text">
 	        <input type="checkbox" name="terms" id="terms">
 	      </span></td>
-	      <td width="341" height="50" colspan="2" align="left"><span class="text">By clicking this button you agree to the Mspidy<a href="http://www.mspidy.com/terms-of-use"> Terms of Use</a> &amp; <a href="http://www.mspidy.com/privacy-and-policy">Privacy and
+	      <td width="341" height="32" colspan="2" align="left"><span class="text">By clicking this button you agree to the Mspidy<a href="http://www.mspidy.com/terms-of-use"> Terms of Use</a> &amp; <a href="http://www.mspidy.com/privacy-and-policy">Privacy and
 	      Policy</a></span></td>
         </tr></tbody></table></td>
 	      
         </tr>
 	    <tr>
-	      <td width="265" colspan="3" align="center"><div><input type="submit" name="button" id="button" value="Register"></div></td>
+	      <td width="265" height="38" colspan="3" align="center"><div><input type="submit" name="button" id="button" value="Register"></div></td>
         </tr>
 	   
       </tbody></table>
@@ -354,14 +358,15 @@ $(document).ready(function()
 {
 	$("#login_form").submit(function()
 	{     
-	
+		alert(user_name);
 	    if(document.getElementById('user_name').value!='' && document.getElementById('pass_word').value!=''){
 		//remove all the class add the messagebox classes and start fading
+	
 		$("#msgbox").removeClass().addClass('messagebox').text('Validating....').fadeIn(1000);
 		
 		
 		//check the username exists or not from ajax
-		$.post("../login/login_mspidy_check.php",{ user_name:$('#user_name').val(),pass_word:$('#pass_word').val(),rand:Math.random() } ,function(data)
+		$.post("http://www.mspidy.com/login/login_mspidy_check.php",{ user_name:$('#user_name').val(),pass_word:$('#pass_word').val(),rand:Math.random() } ,function(data)
         {
 			
 		  if(data=='yes') //if correct login detail
@@ -374,7 +379,7 @@ $(document).ready(function()
               function()
 			  { 
 			  	 //redirect to secure page
-				 document.location='http://www.mspidy.com';
+				 document.location='https://www.mspidy.com';
 			  });
 			  
 			});
@@ -459,6 +464,15 @@ margin-top: 10px;
 	color:#CC0000;
 	float:left;
 }
+form.formular1 {
+	font-family: tahoma, verdana, "sans-serif";
+	font-size: 12px;
+	padding: 20px;
+	border: 1px solid #A5A8B8;
+	width: 300px;
+	margin: 0 auto;
+	height:200px;
+}
 </style>
 <br>
 <br>
@@ -467,14 +481,14 @@ margin-top: 10px;
 <div id="buttons">
 <h1><div class="login_head">Login With Twitter Or Facebook </div></h1><br>
 
-    <a href="http://www.mspidy.com/login/?login&amp;oauth_provider=twitter&amp;red=http://www.mspidy.com/privacy-and-policy"><img src="../images/tw_login.png"></a>&nbsp;&nbsp;&nbsp;
-  <a href="http://www.mspidy.com/login/?login&amp;oauth_provider=facebook"><img src="../images/fb_login.png"></a> <br>
+    <a href="https://www.mspidy.com/login/?login&amp;oauth_provider=twitter&amp;red=http://www.mspidy.com/privacy-and-policy"><img src="../images/tw_login.png"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.mspidy.com/login/?login&amp;oauth_provider=facebook"><img src="../images/fb_login.png"></a> <br>
 </div>
 <div class="gend_login" align="center">
-<form id="login_form" class="formular" method="post" style="width:450px">
+<form id="login_form" class="formular1" method="post" style="width:450px">
 	  <table width="400" border="0" cellpadding="2" cellspacing="2">
 	    <tbody><tr>
-      <td height="31" colspan="3" align="center"><h1><div class="login_head">Or Login with your Username through Mspidy</div></h1></td>
+      <td height="31" colspan="3" align="center"><div class="login_head">Or Login with your Username through Mspidy</div></td>
         </tr>
 	    <tr>
 	      <td colspan="3" align="center">&nbsp;</td>
@@ -496,7 +510,7 @@ margin-top: 10px;
         </tr>
 	   
 	    <tr>
-	      <td colspan="3" align="right" class="text1"><span style="margin-right:30px;"><a href="http://www.mspidy.com/forgot-password">Forgot Password?</a></span></td>
+	      <td colspan="3" align="right" class="text1"><span style="margin-right:30px;"><a href="https://www.mspidy.com/forgot-password">Forgot Password?</a></span></td>
         </tr>
 	    <tr>
 	      <td colspan="3" align="left"><span id="msgbox" style="display:none; text-align:left; width:280px; "></span></td>
@@ -518,23 +532,22 @@ margin-top: 10px;
        </div>
 </div>        </div>
 	  <div class="stories">
-      <div class="all_stories"><a href="http://www.mspidy.com"><img src="images/all stories.jpg" width="79" height="23" border="0"></a></div>
+      <div class="all_stories"><a href="https://www.mspidy.com"><img src="images/all stories.jpg" width="79" height="23" border="0"></a></div>
       <div class="stry_heading"><a href="/arts-entertainment">Arts &amp; Entertainment</a></div>
       <div class="stry_heading"><a href="/business-money">Business &amp; Money</a></div>
       <div class="stry_heading"><a href="/technology-it">Technology &amp; Media</a></div>
       <div class="stry_heading"><a href="/sports-news">Sports &amp; News</a></div>
       <div class="stry_heading"><a href="/education-politics">Learning &amp; Politics</a></div>
       <div class="stry_heading"><a href="/computer-internet">Computer &amp; Internet</a></div>
-      <div class="stry_heading"><a href="/adults-18plus">Adults &amp; Sex</a></div>
+      <div class="stry_heading"><a href="/adults-18plus">Health &amp; Lifestyle</a></div>
       </div>
       <div class="stry_head_line"></div>
       <div class="story_list">
 		<div class="aboutus_tit">
-		  <p><strong>Mspidy Privacy Policy</strong></p>
-		</div>
+		 <h1 style="font-size:16px;">Mspidy Privacy and Policy</h1></div>
         <div class="terms">
           <p>Mspidy knows that you  care about how your personal information is used and shared, and we take your  privacy very seriously. Please read the following to learn more about our  privacy policy. <br><br>
-            This Privacy Policy describes the policies and  procedures of Mspidy. ("we" or "us") on the collection, use  and disclosure of your information on http://www.mspidy.com and the related  services, features, content or applications we offer (collectively,  "Mspidy"). In connection with your use of Mspidy, we receive  information about you from various sources, including: (i) through your Mspidy  user account (your "Account"); (ii) your use of Mspidy generally; and  (iii) from third party websites and services. When you use Mspidy, you are  consenting to the collection, transfer, manipulation, storage, transmission,  disclosure and other uses of your information as described in this Privacy  Policy. </p> <br>
+            This Privacy Policy describes the policies and  procedures of Mspidy. ("we" or "us") on the collection, use  and disclosure of your information on https://www.mspidy.com and the related  services, features, content or applications we offer (collectively,  "Mspidy"). In connection with your use of Mspidy, we receive  information about you from various sources, including: (i) through your Mspidy  user account (your "Account"); (ii) your use of Mspidy generally; and  (iii) from third party websites and services. When you use Mspidy, you are  consenting to the collection, transfer, manipulation, storage, transmission,  disclosure and other uses of your information as described in this Privacy  Policy. </p> <br>
 		 
           <p><span style="font-weight:bold;">What Does This Privacy Policy  Cover?</span> <br><br>
               This Privacy Policy covers the treatment of personally  identifiable information ("Personal Information") we gather when you  are using or accessing Mspidy. This Privacy Policy also covers our treatment of  any Personal Information that our business partners share with us or that we  share with our business partners. <br><br>
@@ -621,7 +634,7 @@ All comments and  other content contributed to Mspidy shall adhere to the follow
   <span style="font-weight:bold;">What Happens When There Are Changes  to this Privacy Policy?</span> <br><br>
               We may amend this Privacy Policy from time to time. Use  of information we collect now is subject to the Privacy Policy in effect at the  time such information is used. If we make changes in the way we collect or use  information, we will notify you by posting an announcement on or within Mspidy  or sending you an email. A user is bound by any changes to the Privacy Policy  when he or she uses Mspidy after such changes have been first posted. <br><br>
   <span style="font-weight:bold;">What If I Have Questions or  Concerns?</span> <br><br>
-              If you have any questions or concerns regarding privacy  using Mspidy, please send us a detailed message to: <a href="mailto:support@mspidy.com">support@mspidy.com</a> &nbsp;We will make every effort to resolve your  concerns. <br><br>
+              If you have any questions or concerns regarding privacy  using Mspidy, please send us a detailed message to <a href="mailto:support@mspidy.com">support@mspidy.com</a> &nbsp;We will make every effort to resolve your  concerns. <br><br>
               Last Updated Date Privacy and Policy: July 02, 2012 </p>
         </div>
       </div>
@@ -644,12 +657,12 @@ All comments and  other content contributed to Mspidy shall adhere to the follow
 	color:#489100;
 }
 </style>
-
 <div class="story_head" align="left"><a href="https://twitter.com/Mspidydotcom" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @Mspidydotcom</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 </div>
-                          	<div class="story_head" align="left">
-                            	<div class="fb-like-box" data-href="http://www.facebook.com/mspidydotcom" data-width="300" data-height="300" data-show-faces="true" data-stream="false" data-header="true"></div>
+<div class="story_head" align="left">
+<div class="fb-like-box" data-href="http://www.facebook.com/mspidydotcom" data-width="292" data-height="75" data-show-faces="false" data-stream="false" data-header="true"></div>
+
 </div>
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
@@ -660,10 +673,9 @@ All comments and  other content contributed to Mspidy shall adhere to the follow
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
-<div class="story_head" align="center"><a href="http://www.mspidy.com/feedback"><img src="http://www.mspidy.com/images/feedback.gif" width="223" height="162" border="0"></a></div>
-<div class="story_headss" align="center"><br>
-
-<h3> <a href="http://www.mspidy.com/about-mspidy">The one &amp; only Mspidy, that connects you to the world. Fastest crawling spiders are here ! </a></h3></div>                            </div>
+<div class="story_head" align="center"><a href="https://www.mspidy.com/feedback"><img src="https://www.mspidy.com/images/feedback.gif" width="223" height="162" border="0" alt="Social media news, web tips, social networking site"></a></div><br>
+<div class="story_headss" align="center">
+<h3> <a href="https://www.mspidy.com/about-mspidy">The one &amp; only Mspidy, that connects you to the world. Fastest crawling spiders are here ! </a></h3></div>                            </div>
                     </div>
 
 <div class="footer_he">
@@ -671,7 +683,7 @@ All comments and  other content contributed to Mspidy shall adhere to the follow
 
 <style type="text/css">
 /* Footer*/
-.footer1{clear:both;margin:0 auto;padding:20px 0 20px 20px;width:1000px; height:auto;}.footer1 ul{border-top:1px solid #090;padding-top:10px}.footer1
+.footer1{clear:both;margin:0 auto;padding:10px 0 20px 10px;width:1000px; height:auto;}.footer1 ul{border-top:1px solid #090;}.footer1
 
  .copyright{text-align:left; margin-right:10px; width:150px; float:left;}
  
@@ -679,7 +691,7 @@ All comments and  other content contributed to Mspidy shall adhere to the follow
 
 .group1 { width:1000px; margin-top:7px;line-height:1.27272727273em;font-size:.916666666667em;line-height:1.27272727273em;}
 
-.copyright1{text-align:left; margin:15px 0px 0px 0px; width:150px; float:right;}
+.copyright1{text-align:left; margin:15px 0px 0px 0px; width:120px; float:right;}
 .foot_link {
 	width:100px;
 	float:left;
@@ -701,7 +713,7 @@ All comments and  other content contributed to Mspidy shall adhere to the follow
 	color:#006600;
 	font-size:11px;
 	font-weight:bold;
-	padding:0px 10px 0px 10px;
+	padding:0px 7px 0px 7px;
 }
 .stry_heading a{
 	color:#060;
@@ -709,6 +721,25 @@ All comments and  other content contributed to Mspidy shall adhere to the follow
 }
 	
 .stry_heading a:hover {
+	color:#060;}
+	
+.stry_heading_f{
+	min-width:90px;
+	width:auto;
+	height:29px;
+	float:left;
+	margin-top:13px;
+	color:#006600;
+	font-size:11px;
+	font-weight:bold;
+	padding:0px 10px 0px 10px;
+}
+.stry_heading_f a{
+	color:#060;
+	text-decoration:none;
+}
+	
+.stry_heading_f a:hover {
 	color:#060;}
 	
 		.stry_heading11{
@@ -733,14 +764,14 @@ All comments and  other content contributed to Mspidy shall adhere to the follow
 </style>
 <div class="footer1">
 <div class="stories">
-      <div class="stry_heading11"><a href="http://www.mspidy.com" title="All Stories">All Stories</a></div>
-      <div class="stry_heading"><a href="/arts-entertainment" title="Arts &amp; Entertainment">Arts &amp; Entertainment</a></div>
-      <div class="stry_heading"><a href="/business-money" title="Business &amp; Money">Business &amp; Money</a></div>
-      <div class="stry_heading"><a href="/technology-it" title="Technology &amp; Media">Technology &amp; Media</a></div>
-      <div class="stry_heading"><a href="/sports-news" title="Sports &amp; News">Sports &amp; News</a></div>
-      <div class="stry_heading"><a href="/education-politics" title="Learning &amp; Politics">Learning &amp; Politics</a></div>
-      <div class="stry_heading"><a href="/computer-internet" title="Computer &amp; Internet">Computer &amp; Internet</a></div>
-      <div class="stry_heading"><a href="/adults-18plus" title="Adults &amp; Sex">Adults &amp; Sex</a></div>
+      <div class="stry_heading11"><a href="https://www.mspidy.com" title="All Stories">All Stories</a></div>
+      <div class="stry_heading_f"><a href="/arts-entertainment" title="Arts &amp; Entertainment">Arts &amp; Entertainment</a></div>
+      <div class="stry_heading_f"><a href="/business-money" title="Business &amp; Money">Business &amp; Money</a></div>
+      <div class="stry_heading_f"><a href="/technology-it" title="Technology &amp; Media">Technology &amp; Media</a></div>
+      <div class="stry_heading_f"><a href="/sports-news" title="Sports &amp; News">Sports &amp; News</a></div>
+      <div class="stry_heading_f"><a href="/education-politics" title="Learning &amp; Politics">Learning &amp; Politics</a></div>
+      <div class="stry_heading_f"><a href="/computer-internet" title="Computer &amp; Internet">Computer &amp; Internet</a></div>
+      <div class="stry_heading_f"><a href="/adults-18plus" title="Adults &amp; Sex">Adults &amp; Sex</a></div>
       </div>
 <div class="stories">
       <div class="stry_heading"><a href="/about-mspidy" title="About Mspidy">About Mspidy</a></div>
@@ -750,7 +781,9 @@ All comments and  other content contributed to Mspidy shall adhere to the follow
       <div class="stry_heading"><a href="/submitalink" title="Submit a Link">Submit a Link</a></div>
       <div class="stry_heading"><a href="/contact-us" title="Contact Us">Contact Us</a></div>
       <div class="stry_heading"><a href="/feedback" title="Feedback">Feedback</a></div>
-      <div class="copyright1">© mspidy.com 2012</div>
+     <div class="siteseal1"> <span id="siteseal"><script type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=Bib1rTp4nIf06EJtzxO37v1OUI3HMMMenrXhX0AtGFIy9uoFBdc"></script></span>
+     </div>
+      <div class="copyright1">© 2013 mspidy.com  </div>
       </div>
 <br>
 
