@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pakistantoday.com.pk privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614060422id_/http%3A//www.pakistantoday.com.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pakistantoday.com.pk privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630100633id_/http%3A//www.pakistantoday.com.pk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pakistan Today | Latest news | Breaking news | Pakistan News | World news | Business | Sport and Multimedia
 
