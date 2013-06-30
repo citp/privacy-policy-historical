@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blendr.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218144630id_/http%3A//blendr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blendr.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630092623id_/http%3A//blendr.com/privacy) for the most accurate reproduction.*
 
 # Badoo's Privacy Policy
 
@@ -107,7 +107,9 @@ We use your personal information to resolve disputes, troubleshoot problems and 
 
 We collect information by placing cookies on your computer or mobile. A cookie is a piece of text stored on your computer or mobile by your web browser. They are basically a tool that stores information about website visits, recognises you and your preferences each time you visit Badoo, and ensures site functionality and enables us to provide the services our members request.
 
-When you visit the publicly available sections of Badoo, a session ID cookie is placed on your computer that only lasts while you’re visiting. We also place persistent cookies (also known an local storage devices) on members’ computers, so that Badoo remembers them and makes their login experience faster and easier. You may set your browser to block cookies and local storage devices, but if you do so, you may not be able to access the features that Badoo offers.
+When you visit the publicly available sections of Badoo, a session ID cookie is placed on your computer that only lasts while you’re visiting. We also place persistent cookies (also known an local storage devices) on members’ computers, so that Badoo remembers them and makes their login experience faster and easier. We may use persistent tracking cookies on your mobile device, mainly for security protection purposes, such as to prevent phishers, scammers, unauthorised log in attempts, and to help you access your hacked account. We do not use any information whilst you are logged off.
+
+You may set your browser and your mobile settings to block cookies and local storage devices, but if you do so, you may not be able to access the features that Badoo offers.
 
 Badoo uses cookies and local storage devices for a number of reasons, including to ensure the security of our site, to provide you with features you have requested and to analyse how members and visitors use Badoo. Badoo’s use of cookies and local storage devices basically falls into three categories:
 
@@ -124,7 +126,12 @@ Cookie Functions | Cookie Purposes
 ---|---  
 Analytics and research | Badoo uses Google Analytics to collect information about how visitors use the Badoo website. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. For more information about Google’s privacy policy, please visit <http://www.google.com/intl/en/policies/>  
 Authentication | These cookies help us to identify our members so that when you’re logged in, you can enjoy Badoo’s offerings, experiences and various features, such as uploading photographs, chatting and can localise your experience, such as when you’ve requested to view Badoo’s site in your local language or when you’ve asked Badoo to ‘remember me’. These cookies also help to remember who invited you to join Badoo.  
-Security and site integrity | We use cookies and other devices, such as CAPTCHAs, to help keep Badoo and our members safe and secure. These cookies do things like protect Badoo users from spam and fraud, by ensuring the safety of your personal data when you shop on Badoo for things like Super Powers.  
+Security and site integrity | 
+
+We use cookies and other devices, such as CAPTCHAs, to help keep Badoo and our members safe and secure. These cookies do things like protect Badoo users from spam and fraud, by ensuring the safety of your personal data when you shop on Badoo for things like Super Powers.
+
+We may use persistent cookies, which will help us to ensure we have identified the same device is logging into the correct account. These types of cookies also help with our anti-spam measures and may help us to prevent phishers, scammers, unauthorised log -in attempts to your account and accessing any hacked accounts.  
+  
 Site features and services | 
 
 These cookies and local storage devices provide the functionality that our Badoo members enjoy, such as uploading of photographs, chats, instant messaging, your account settings and your request to have Badoo as your homepage or your search preference. We also use cookies to help provide experiences, such as links to other social media sites, social plugins and video content, including making it easier for you to share content between Badoo with your other favourite social networks.
