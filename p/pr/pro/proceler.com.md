@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proceler.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231003101id_/http%3A//directory.proceler.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proceler.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630233307id_/http%3A//directory.proceler.com/privacy.html) for the most accurate reproduction.*
 
 # Proceler - Directory Site
 
