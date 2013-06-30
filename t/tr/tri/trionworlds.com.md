@@ -1,14 +1,13 @@
-> *The following text is extracted and transformed from the trionworlds.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230193220id_/http%3A//trionworlds.com/en/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trionworlds.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630201606id_/http%3A//www.trionworlds.com/en/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Trion Worlds, Inc.
 
-  
 UK Residents, please click here  
 
 
 ### TRION WORLDS’ PRIVACY POLICY
 
-Effective August 24, 2012
+Effective January 15, 2013
 
 Trion Worlds, Inc. (“ **Trion** ” or “ **we** ” or “ **our** ”) respects your privacy and is committed to protecting the Personal Information (defined below) that you may provide us while using our websites (the “ **Site** ” as further defined below). Your use of the Site is subject to your agreement to the terms of this privacy policy (“ **Privacy Policy** ”) and our [Terms of Use](https://web.archive.org/en/legal/terms-of-use/).
 
@@ -47,7 +46,7 @@ As further discussed in this Privacy Policy, we may from time to time provide yo
 
 
 
-Because we provide you with the ability to exercise your “opt out” rights as described above, we do not provide the names and addresses of third parties that received Personal Information from us for such third parties’ direct marketing purposes.
+Because we provide you with the ability to exercise your “opt out” rights as described above, we do not provide the names and addresses of third parties that received Personal Information from us for such third parties’ direct marketing purposes unless otherwise required by law. If you are a California resident, please see the Information for California Residents section of this Privacy Policy.
 
 In the event that you contact us with a specific request or “opt in” to Trion communications, including but not limited to participating in services, events, sweepstakes, contests and/or promotions, after choosing to opt out, we reserve the right, in Trion’s sole and absolute discretion, to transmit communications to you as necessary. We will take reasonable steps to ensure that such communications will be limited to the scope of your request and/or the subject matter of your “opt in.” You hereby acknowledge that it is your responsibility to renew your “opt out” request after you choose to “opt in” as set forth above.
 
@@ -57,7 +56,7 @@ Back to top
 
 This Privacy Policy and the certification seal located above confirm that Trion is a valid licensee and participating member in the Entertainment Software Rating Board’s (“ **ESRB** ”) Privacy Online Program: ESRB Privacy Online (“ **ESRB Privacy Online** ”). We have voluntarily undertaken this privacy initiative and the Site has been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of this program, we are subject to frequent audits of the Site and other enforcement and accountability mechanisms administered independently by ESRB.
 
-If you have any questions, complaints or comments regarding this Privacy Policy, please contact Trion by e-mail at [privacy@trionworlds.com](mailto:privacy@trionworlds.com), mail to Trion Worlds Privacy Officer, 1200 Bridge Parkway, Redwood City, CA 94065, or phone (650) 631-9800 (ask for Privacy Officer). For complaints, you can also contact ESRB Privacy Online directly at <http://www.esrb.org/privacy/contact.jsp> or by regular mail at 317 Madison Avenue, New York, NY 10017. 
+If you have any questions, complaints or comments regarding this Privacy Policy, please contact Trion by e-mail at [privacy@trionworlds.com](mailto:privacy@trionworlds.com), mail to Trion Worlds Privacy Officer, 1200 Bridge Parkway, Redwood City, CA 94065, or phone (650) 631-9800 (ask for Privacy Officer). For complaints, you can also contact ESRB Privacy Online directly at <http://www.esrb.org/privacy/contact.jsp> or by regular mail at 317 Madison Avenue, New York, NY 10017.
 
 Trion complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Trion has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Trion’s certification, please visit <http://www.export.gov/safeharbor/>.
 
@@ -109,9 +108,17 @@ When you play any of the Games offered and/or served by Trion, or use any of the
 
 When any Game is updated or “patched,” our patch routine may check your computer to see that you have the most recent version of Game-specific files; when you communicate within any Game or any other communication feature within the Site (e.g. live chat, instant message services and the like), even “privately” to another person, you do so with the understanding that those communications go through our servers, you expressly agree to waive any rights of confidentiality that you may have in and to your communications (if any) when using any of the Site’s communication features, you agree you have no expectation of privacy in any of those communications and, accordingly, and where and to the extent permitted by applicable law, you expressly consent to monitoring of communications (including technical support and customer service communications) that you send and receive. When you log in to one of our Games, your system specifications (such as OS, RAM, video card, monitor, system configuration, crash data etc.) may be reviewed/recorded by us for the purposes of analyzing and optimizing your Game experience and in order to provide you with customer service.
 
+Please take note that information you post to the public areas of our Site, which includes but is not limited to, message boards, forums, chat rooms, and/or profiles, if applicable, will be displayed publicly and we cannot prevent further use of the information by third parties.
+
 Back to top
 
-### G. CONSENT TO MONITOR
+### G. SOCIAL MEDIA INTERACTION
+
+When you engage with our content on or through third party social networking websites, such as Facebook and/or Twitter (or third party social media plug-ins and applications), you may allow us to have access to certain information from the applicable social media profile, such as your name, e-mail address, photo, gender, birthday, location, your list of friends, people you follow and/or who follow you, the posts or the “likes” you make). By doing so, you consent to the use of this information in accordance with this Privacy Policy. When you provide personal information to us in this manner, it may be publicly viewed by other members of the applicable social media websites and we cannot prevent further use of the information by third parties.
+
+Through some social networking websites’ privacy settings, you can control the data you share. For more information about how social networking websites handle your personal information, please refer to their privacy policies and terms of use.
+
+### H. CONSENT TO MONITOR
 
 Please note that, when running, some Games may monitor your computer’s random access memory (“ **RAM** ”), media access control (“ **MAC** ”) address, configuration files and system files, etc., for unauthorized third party programs running concurrently with your Game which, in Trion ‘s sole determination: (i) enable or facilitate cheating of any type; (ii) allow users to modify or hack the applicable Game interface, environment, and/or experience in any way not expressly authorized by Trion; or (iii) intercept, “mine” or otherwise collect information from or through the applicable Game (an “ **Unauthorized Third Party Program** ”). In the event that a Game detects an Unauthorized Third Party Program, (a) the Game may communicate information back to Trion, including without limitation your Account username, details about the Unauthorized Third Party Program detected and the activities or functions performed thereby, and/or details about your computer, and/or (b) Trion may exercise any or all of its rights and remedies under this Agreement or the applicable Game EULA without prior notice to the user linked to such Unauthorized Third Party Program.
 
@@ -119,13 +126,13 @@ You acknowledge that any and all data that is stored and is resident on our serv
 
 Back to top
 
-### H. RESUME SUBMISSIONS AND BUSINESS CAPACITY
+### I. RESUME SUBMISSIONS AND BUSINESS CAPACITY
 
 Trion allows for the electronic submission of resumes. Please be advised that information (including Personal Information) contained in a job applicant’s resume or otherwise submitted to Trion in a business capacity is not subject to the terms of any other section of this Privacy Policy. The information obtained from your resume will only be used for the purpose of accepting and evaluating your submission for a job and contacting you, your previous employers and your references in connection with that purpose.
 
 Back to top
 
-### I. INDIRECT COLLECTION OF PERSONAL INFORMATION
+### J. INDIRECT COLLECTION OF PERSONAL INFORMATION
 
 Please note that, as mentioned elsewhere in this Privacy Policy and/or in our [Terms of Use](https://web.archive.org/en/legal/terms-of-use/) and/or on the Site itself, Trion may collect from you Personal Information relating to certain third parties, such as your parents, other family members, friends, etc. (“ **Indirect Personal Information** ”). Except as provided by applicable laws and/or as described in this Privacy Policy, you will not give any such Indirect Personal Information to us and/or any to third-party without the relevant third party’s consent.
 
@@ -143,29 +150,29 @@ Back to top
 
 ### INFORMATION ON COOKIES AND RELATED TECHNOLOGY
 
-The Site, and some services and advertisements displayed or made available thereon, may contain “cookies.” Cookies are a feature of your web browser which allow websites to transfer bits of information to your computer for recordkeeping purposes. A cookie stored on your computer can be used to “remember” things such as your password or that you have already registered an Account. This enables us to accelerate your future activities, saving the time that you would otherwise spend entering information such as your registration or password. 
+The Site, and some services and advertisements displayed or made available thereon, may contain “cookies.” Cookies are a feature of your web browser which allow websites to transfer bits of information to your computer for recordkeeping purposes. A cookie stored on your computer can be used to “remember” things such as your password or that you have already registered an Account. This enables us to accelerate your future activities, saving the time that you would otherwise spend entering information such as your registration or password.
 
 Trion (itself or through a third party service) also employs a software technology called clear gifs (also known as “web beacons”) that helps us better manage content on our Site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are imbedded invisibly on Site pages and are about the size of the period at the end of this sentence. These clear gifs are not tied to Personal Information. Technology and tools such as clear gifs assist in the delivery of cookies.
 
 Our third party tracking service uses cookies and clear gifs to track non-personally identifiable information about visitors to our Site in the aggregate. They capture usage and volume statistics to help improve our Site. We have no access to or control of these third-party tracking utilities.
 
-We also use clear gifs in our HTML-based e-mails to let us know which e-mails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. For this reason, these types of clear gifs are tied to Personal Information. 
+We also use clear gifs in our HTML-based e-mails to let us know which e-mails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. For this reason, these types of clear gifs are tied to Personal Information.
 
 Cookies can either be permanent (i.e., they remain on your computer until you delete them) or temporary (i.e., they last only until you close your browser). Certain cookies are required to allow or facilitate electronic communications or are necessary to allow the provision of online services at the request of the user. On their own, cookies or related technologies do not contain or reveal any Personal Information but can be combined with and used to process Personal Information. Personal Information collected through the use of these technologies will be collected, stored and processed according to this Privacy Policy.
 
 Trion (itself or through a third party service) uses cookies, clear gifs, frames, server log analysis and other technology to:
 
   * enable you to move around the Site and use its features, such as accessing secure areas of the website;
-  * collect information about how you use our Site, estimate our audience size and usage patterns, and improve how our Site works; 
+  * collect information about how you use our Site, estimate our audience size and usage patterns, and improve how our Site works;
   * store information about your preferences, so as to allow us to customize your experience with the Site and its subsites;
   * to speed up your searches;
   * recognize you when you return to our site;
   * retrieve information for promotional, marketing or security purposes; and
-  * collect information about your browsing habits in order to make advertising relevant to you and your interests. 
+  * collect information about your browsing habits in order to make advertising relevant to you and your interests.
 
 
 
-By using our Site, you agree that we can place these types of cookies on your device and/or use clear gifs. 
+By using our Site, you agree that we can place these types of cookies on your device and/or use clear gifs.
 
 Most internet browsers will allow you to erase cookies from your computer hard drive, block acceptance of cookies, or receive a warning before a cookie is stored. You should refer to your browser instructions or “Help” screen to learn more about how to manage cookies. Please note, however, that if you block cookies, some portions of the Site may not function properly.
 
@@ -192,7 +199,7 @@ We may use the Personal Information we collect from you to enable us to:
 
 
 
-If you do not want us to use your Personal Information in this way, or to pass your details on to third parties for marketing purposes, you can “opt-out” in the manner discussed under “Your Privacy Rights” set forth on the first page of this Privacy Policy.
+If you do not want us to use your Personal Information in this way, or to pass your details on to third parties for marketing purposes, you can “opt-out” in the manner discussed under “Your Privacy Rights” set forth in this Privacy Policy.
 
 Back to top
 
@@ -287,7 +294,7 @@ US Residents, please click here
 
 ### TRION WORLDS’ PRIVACY POLICY
 
-Effective August 24, 2012
+Effective January 15, 2013
 
 Trion Worlds, Inc. (“ **Trion** ” or “ **we** ” or “ **our** ”) is the data controller for the purpose of the Data Protection Act of 1998. Trion respects your privacy and is committed to protecting the Personal Information (defined below) that you may provide us while using our websites (the “ **Site** ” as further defined below). Your use of the Site is subject to your agreement to the terms of this privacy policy (“ **Privacy Policy** ”) and our [Terms of Use](https://web.archive.org/en/legal/terms-of-use/#uk).
 
@@ -308,11 +315,11 @@ This Privacy Policy sets forth the basis on which any Personal Information that 
 
 
 
-**By using the Site, you signify your assent to this Privacy Policy. If you do not agree to this Privacy Policy, please do not use this site.** This Privacy Policy may change from time to time, so please check back periodically to ensure that you are aware of any changes. If we make a material change to this Privacy Policy, we will notify you by posting the change on the Site or in this Privacy Policy and, if necessary, provide you with additional choices regarding such change. All changes to the Privacy Policy will be effective when posted. Your continued use of the Site will signify your acceptance of these changes. 
+**By using the Site, you signify your assent to this Privacy Policy. If you do not agree to this Privacy Policy, please do not use this site.** This Privacy Policy may change from time to time, so please check back periodically to ensure that you are aware of any changes. If we make a material change to this Privacy Policy, we will notify you by posting the change on the Site or in this Privacy Policy and, if necessary, provide you with additional choices regarding such change. All changes to the Privacy Policy will be effective when posted. Your continued use of the Site will signify your acceptance of these changes.
 
 ### WEBSITES GOVERNED BY THE PRIVACY POLICY
 
-We currently operate the website located at [www.trionworlds.com](https://web.archive.org/web/20121230193220id_/http://trionworlds.com/en/legal/index.php), including all of its subsites and all software, products, features, games and services made available, displayed, or offered by or through our website or subsites (collectively, the “ **Site** ”). In addition, we own many other game-specific (e.g. [riftgame.com](http://riftgame.com/en/index.php), [defiance.com](http://defiance.com/en/) or [endofnations.com](http://endofnations.com/en/)) and/or content-specific “subsites” of the Site, and these subsites are also considered part of the Site for purposes of this Privacy Policy. From time to time, we may add new subsites to the Site that may not initially be listed above, but such subsites will provide a link to and will be governed by this Privacy Policy and our [Terms of Use](https://web.archive.org/en/legal/terms-of-use/#uk).
+We currently operate the website located at [www.trionworlds.com](https://web.archive.org/web/20130630201606id_/http://www.trionworlds.com/en/legal/index.php), including all of its subsites and all software, products, features, games and services made available, displayed, or offered by or through our website or subsites (collectively, the “ **Site** ”). In addition, we own many other game-specific (e.g. [riftgame.com](http://riftgame.com/en/index.php), [defiance.com](http://defiance.com/en/) or [endofnations.com](http://endofnations.com/en/)) and/or content-specific “subsites” of the Site, and these subsites are also considered part of the Site for purposes of this Privacy Policy. From time to time, we may add new subsites to the Site that may not initially be listed above, but such subsites will provide a link to and will be governed by this Privacy Policy and our [Terms of Use](https://web.archive.org/en/legal/terms-of-use/#uk).
 
 Back to top
 
@@ -334,7 +341,7 @@ Back to top
 
 ### OUR CERTIFICATION BY ONLINE PRIVACY PROGRAMS
 
-This Privacy Policy and the certification seal located above confirm that Trion is a valid licensee and participating member in the Entertainment Software Rating Board’s (“ **ESRB** ”) Privacy Online Program: ESRB Privacy Online (“ **ESRB Privacy Online** ”). We have voluntarily undertaken this privacy initiative and the Site has been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of this program, we are subject to frequent audits of the Site and other enforcement and accountability mechanisms administered independently by ESRB. 
+This Privacy Policy and the certification seal located above confirm that Trion is a valid licensee and participating member in the Entertainment Software Rating Board’s (“ **ESRB** ”) Privacy Online Program: ESRB Privacy Online (“ **ESRB Privacy Online** ”). We have voluntarily undertaken this privacy initiative and the Site has been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of this program, we are subject to frequent audits of the Site and other enforcement and accountability mechanisms administered independently by ESRB.
 
 If you have any questions, complaints or comments regarding this Privacy Policy, please contact Trion by e-mail at [privacy@trionworlds.com](mailto:privacy@trionworlds.com), mail to Trion Worlds Privacy Officer, 1200 Bridge Parkway, Redwood City, CA 94065, or phone (650) 631-9800 (ask for Privacy Officer). For complaints, you can also contact ESRB Privacy Online directly at <http://www.esrb.org/privacy/contact.jsp> or by regular mail at 317 Madison Avenue, New York, NY 10017.
 
@@ -342,7 +349,7 @@ Trion complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Ha
 
 ### OUR POLICIES CONCERNING CHILDREN
 
-Please take note that the content, games and services provided on the Site are not directed towards children under the age of thirteen (13) in the United States or twelve (12) in the European Union (“Children”). Therefore, except as otherwise expressly permitted by our [Terms of Use](https://web.archive.org/en/legal/terms-of-use/#uk) and our Privacy Policy, registration for and/or access to such content, games and services by Children is strictly prohibited. Individuals under the age of eighteen (18) should consult their parents or legal guardians before providing us with any of their Personal Information.
+Please take note that the content, games and services provided on the Site are not directed towards children under the age of thirteen (13) in the United States or twelve (12) in the European Union (“Children”). Therefore, except as otherwise expressly permitted by our [Terms of Use](https://web.archive.org/en/legal/terms-of-use/#uk) and our Privacy Policy, registration for and/or access to such content, games and services by Children is strictly prohibited. Individuals under the age of eighteen (18) should consult their parents or legal guardians for permission before providing us with any of their Personal Information.
 
 Back to top
 
@@ -388,9 +395,17 @@ When you play any of the Games offered and/or served by Trion, or use any of the
 
 When any Game is updated or “patched,” our patch routine may check your computer to see that you have the most recent version of Game-specific files; when you communicate within any Game or any other communication feature within the Site (e.g. live chat, instant message services and the like), even “privately” to another person, you do so with the understanding that those communications go through our servers, you expressly agree to waive any rights of confidentiality that you may have in and to your communications (if any) when using any of the Site’s communication features, you agree you have no expectation of privacy in any of those communications and, accordingly, and where and to the extent permitted by applicable law, you expressly consent to monitoring of communications (including technical support and customer service communications) that you send and receive. When you log in to one of our Games, your system specifications (such as OS, RAM, video card, monitor, system configuration, crash data etc.) may be reviewed/recorded by us for the purposes of analyzing and optimizing your Game experience and in order to provide you with customer service.
 
+Please take note that information you post to the public areas of our Site, which includes but is not limited to, message boards, forums, chat rooms, and/or profiles, if applicable, will be displayed publicly and we cannot prevent further use of the information by third parties.
+
 Back to top
 
-### G. CONSENT TO MONITOR
+### G. SOCIAL MEDIA INTERACTION
+
+When you engage with our content on or through third party social networking websites, such as Facebook and/or Twitter (or third party social media plug-ins and applications), you may allow us to have access to certain information from the applicable social media profile, such as your name, e-mail address, photo, gender, birthday, location, your list of friends, people you follow and/or who follow you, the posts or the “likes” you make). By doing so, you consent to the use of this information in accordance with this Privacy Policy. When you provide personal information to us in this manner, it may be publicly viewed by other members of the applicable social media websites and we cannot prevent further use of the information by third parties.
+
+Through some social networking websites’ privacy settings, you can control the data you share. For more information about how social networking websites handle your personal information, please refer to their privacy policies and terms of use.
+
+### H. CONSENT TO MONITOR
 
 Please note that, when running, some Games may monitor your computer’s random access memory (“ **RAM** ”), media access control (“ **MAC** ”) address, configuration files and system files, etc., for unauthorized third party programs running concurrently with your Game which, in Trion ‘s sole determination: (i) enable or facilitate cheating of any type; (ii) allow users to modify or hack the applicable Game interface, environment, and/or experience in any way not expressly authorized by Trion; or (iii) intercept, “mine” or otherwise collect information from or through the applicable Game (an “ **Unauthorized Third Party Program** ”). In the event that a Game detects an Unauthorized Third Party Program, (a) the Game may communicate information back to Trion, including without limitation your Account username, details about the Unauthorized Third Party Program detected and the activities or functions performed thereby, and/or details about your computer, and/or (b) Trion may exercise any or all of its rights and remedies under this Agreement or the applicable Game EULA without prior notice to the user linked to such Unauthorized Third Party Program.
 
@@ -398,15 +413,15 @@ You acknowledge that any and all data that is stored and is resident on our serv
 
 Back to top
 
-### H. RESUME SUBMISSIONS AND BUSINESS CAPACITY
+### I. RESUME SUBMISSIONS AND BUSINESS CAPACITY
 
 Trion allows for the electronic submission of resumes. Please be advised that information (including Personal Information) contained in a job applicant’s resume or otherwise submitted to Trion in a business capacity is not subject to the terms of any other section of this Privacy Policy. The information obtained from your resume will only be used for the purpose of accepting and evaluating your submission for a job and contacting you, your previous employers and your references in connection with that purpose.
 
 Back to top
 
-### I. INDIRECT COLLECTION OF PERSONAL INFORMATION
+### J. INDIRECT COLLECTION OF PERSONAL INFORMATION
 
-Please note that, as mentioned elsewhere in this Privacy Policy and/or in our [Terms of Use](https://web.archive.org/web/20121230193220id_/http://trionworlds.com/en/legal/privacy-policy/uk-terms-of-use.php) and/or on the Site itself, Trion may collect from you Personal Information relating to certain third parties, such as your parents, other family members, friends, etc. (“ **Indirect Personal Information** ”). Except as provided by applicable laws and/or as described in this Privacy Policy, you will not give any such Indirect Personal Information to us and/or any to third-party without the relevant third party’s consent.
+Please note that, as mentioned elsewhere in this Privacy Policy and/or in our [Terms of Use](https://web.archive.org/web/20130630201606id_/http://www.trionworlds.com/en/legal/privacy-policy/uk-terms-of-use.php) and/or on the Site itself, Trion may collect from you Personal Information relating to certain third parties, such as your parents, other family members, friends, etc. (“ **Indirect Personal Information** ”). Except as provided by applicable laws and/or as described in this Privacy Policy, you will not give any such Indirect Personal Information to us and/or any to third-party without the relevant third party’s consent.
 
 Back to top
 
@@ -420,30 +435,30 @@ Back to top
 
 ### INFORMATION ON COOKIES AND RELATED TECHNOLOGY
 
-The Site, and some services and advertisements displayed or made available thereon, may contain “cookies.” Cookies are a feature of your web browser which allow websites to transfer bits of information to your computer for recordkeeping purposes. A cookie stored on your computer can be used to “remember” things such as your password or that you have already registered an Account. This enables us to accelerate your future activities, saving the time that you would otherwise spend entering information such as your registration or password. 
+The Site, and some services and advertisements displayed or made available thereon, may contain “cookies.” Cookies are a feature of your web browser which allow websites to transfer bits of information to your computer for recordkeeping purposes. A cookie stored on your computer can be used to “remember” things such as your password or that you have already registered an Account. This enables us to accelerate your future activities, saving the time that you would otherwise spend entering information such as your registration or password.
 
 Trion (itself or through a third party service) also employs a software technology called clear gifs (also known as “web beacons”) that helps us better manage content on our Site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are imbedded invisibly on Site pages and are about the size of the period at the end of this sentence. These clear gifs are not tied to Personal Information. Technology and tools such as clear gifs assist in the delivery of cookies.
 
 Our third party tracking service uses cookies and clear gifs to track non-personally identifiable information about visitors to our Site in the aggregate. They capture usage and volume statistics to help improve our Site. We have no access to or control of these third-party tracking utilities.
 
-We also use clear gifs in our HTML-based e-mails to let us know which e-mails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. For this reason, these types of clear gifs are tied to Personal Information. 
+We also use clear gifs in our HTML-based e-mails to let us know which e-mails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. For this reason, these types of clear gifs are tied to Personal Information.
 
 Cookies can either be permanent (i.e., they remain on your computer until you delete them) or temporary (i.e., they last only until you close your browser). Certain cookies are required to allow or facilitate electronic communications or are necessary to allow the provision of online services at the request of the user. On their own, cookies or related technologies do not contain or reveal any Personal Information but can be combined with and used to process Personal Information. Personal Information collected through the use of these technologies will be collected, stored and processed according to this Privacy Policy.
 
 Trion (itself or through a third party service) uses cookies, clear gifs, frames, server log analysis and other technology to:
 
   * enable you to move around the Site and use its features, such as accessing secure areas of the website;
-  * collect information about how you use our Site, estimate our audience size and usage patterns, and improve how our Site works; 
+  * collect information about how you use our Site, estimate our audience size and usage patterns, and improve how our Site works;
   * store information about your preferences, so as to allow us to customize your experience with the Site and its subsites;
   * to speed up your searches;
   * recognize you when you return to our site;
   * retrieve information for promotional, marketing or security purposes;
-  * collect information about your browsing habits in order to make advertising relevant to you and your interests; and 
-  * deliver advertising that is more relevant to you and your interests by using advertising cookies placed by advertisers and advertising networks. These cookies remember that you have visited the Site, and this information may then be shared with other advertisers. You can opt out of receiving adverts from certain advertising networks at youronlinechoices.eu.] By using our Site, and unless you have adjusted your internet browser settings so that it will refuse cookies (as explained below), our systems will place cookies when you visit the Site and you agree that we can place these types of cookies on your device and/or use clear gifs. 
+  * collect information about your browsing habits in order to make advertising relevant to you and your interests; and
+  * deliver advertising that is more relevant to you and your interests by using advertising cookies placed by advertisers and advertising networks. These cookies remember that you have visited the Site, and this information may then be shared with other advertisers. You can opt out of receiving adverts from certain advertising networks at [youronlinechoices.eu](http://youronlinechoices.eu/). By using our Site, and unless you have adjusted your internet browser settings so that it will refuse cookies (as explained below), our systems will place cookies when you visit the Site and you agree that we can place these types of cookies on your device and/or use clear gifs.
 
 
 
-By using our Site, you agree that we can place these types of cookies on your device and/or use clear gifs. 
+By using our Site, you agree that we can place these types of cookies on your device and/or use clear gifs.
 
 Most internet browsers will allow you to erase cookies from your computer hard drive, block acceptance of cookies, or receive a warning before a cookie is stored. You should refer to your browser instructions or “Help” screen to learn more about how to manage cookies. Please note, however, that if you block cookies, some portions of the Site may not function properly.
 
@@ -470,7 +485,7 @@ We may use the Personal Information we collect from you to enable us to:
 
 
 
-If you do not want us to use your Personal Information in this way, or to pass your details on to third parties for marketing purposes, you can “opt-out” in the manner discussed under “Your Privacy Rights” set forth on the first page of this Privacy Policy.
+If you do not want us to use your Personal Information in this way, or to pass your details on to third parties for marketing purposes, you can “opt-out” in the manner discussed under “Your Privacy Rights” set forth in this Privacy Policy.
 
 Back to top
 
@@ -480,7 +495,7 @@ Where and to the extent required by the applicable laws, you hereby expressly co
 
 When you have provided Personal Information to us for a particular purpose, we may disclose your information to other companies that we have engaged to assist us in fulfilling your request and who we subject to confidentiality requirements. This may include, but is not limited to, fulfillment houses, billing services, transaction managers, credit verification services, and other third party service providers. We may also disclose any of your Personal Information to law enforcement or other appropriate third parties, located in the US or elsewhere, in connection with criminal investigations, investigation of fraud, infringement of intellectual property rights, or other suspected illegal activities, or as otherwise may be required by applicable laws, or, as we deem necessary in our sole discretion, in order to protect the rights, property or safety of Trion, our customers or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
 
-We will also provide your Personal Information to third party processors so that it can be administered and processed for the purposes notified to you in the Privacy Policy and our [Terms of Use](https://web.archive.org/web/20121230193220id_/http://trionworlds.com/en/legal/privacy-policy/uk-terms-of-use.php) and we may also share details with third parties (such as auditors or legal advisors) in order to obtain professional advice. Any such processing will be governed by an agreement in the form required by applicable laws, preserving any and all of your statutory data protection rights.
+We will also provide your Personal Information to third party processors so that it can be administered and processed for the purposes notified to you in the Privacy Policy and our [Terms of Use](https://web.archive.org/web/20130630201606id_/http://www.trionworlds.com/en/legal/privacy-policy/uk-terms-of-use.php) and we may also share details with third parties (such as auditors or legal advisors) in order to obtain professional advice. Any such processing will be governed by an agreement in the form required by applicable laws, preserving any and all of your statutory data protection rights.
 
 Certain games, such as Warface, may be provided to you in conjunction with a third party. During the registration process for such games, you may be notified that such third party wishes access to some of your Personal Information. In such a situation, you will be given an opportunity to consent to the sharing of that information before such information is disclosed to the applicable third party. However, if you do not provide consent then you may be unable to participate in the applicable co-published game. For example, you may agree, when you register to play Warface, that your name and e-mail information could be shared with Trion’s publishing partner Crytek GmbH (“Crytek”). As described in the registration process, a third party’s (such as Crytek’s) use of the shared Personal Information will be governed by its privacy policy and Trion’s use of such information shall, of course, be governed by the terms of this Privacy Policy.
 
@@ -506,7 +521,7 @@ Back to top
 
 At the time that you provide Personal Information, Trion may give you the option of declining any future offers or information about new products, promotions or services. In addition, many of the mailings that Trion may send you, such as newsletters, have procedures within them to cancel the receipt of any future promotional mailings.
 
-Subject to security and privacy concerns (e.g., regarding your password and credit card number), you will have the ability to access, change, delete and/or update your information and communications preferences through your Account.  If, for any reason, you are concerned with the way we are using your Personal Information, or would like to correct or request that we delete such Personal Information, please contact Trion Worlds’ Privacy Policy, Attention: Privacy Officer, 1200 Bridge Parkway, Redwood City, CA 94065 or privacy@trionworlds.com. If you choose to have your Personal Information removed from our active databases, we will do so within a reasonable time after your request and we will take reasonable steps to ensure that your Personal Information is not used (except as may be required by law) by Trion after your notification to us. Please note that the deletion of your data will lead to the termination of your Account and applicable services to the extent such information is required for Trion to maintain your Account and its provisions of those services to you.
+Subject to security and privacy concerns (e.g., regarding your password and credit card number), you will have the ability to access, change, delete and/or update your information and communications preferences through your Account. If, for any reason, you are concerned with the way we are using your Personal Information, or would like to correct or request that we delete such Personal Information, please contact Trion Worlds’ Privacy Policy, Attention: Privacy Officer, 1200 Bridge Parkway, Redwood City, CA 94065 or privacy@trionworlds.com. If you choose to have your Personal Information removed from our active databases, we will do so within a reasonable time after your request and we will take reasonable steps to ensure that your Personal Information is not used (except as may be required by law) by Trion after your notification to us. Please note that the deletion of your data will lead to the termination of your Account and applicable services to the extent such information is required for Trion to maintain your Account and its provisions of those services to you.
 
 Back to top
 
