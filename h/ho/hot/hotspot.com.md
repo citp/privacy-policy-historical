@@ -1,32 +1,49 @@
-> *The following text is extracted and transformed from the hotspot.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225033228id_/https%3A//wikimediafoundation.org/wiki/Privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotspot.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630093619id_/https%3A//wikimediafoundation.org/wiki/Privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy - Wikimedia Foundation
 
 This policy is approved by the Wikimedia Foundation [Board of Trustees](https://web.archive.org/wiki/Board_of_Trustees "Board of Trustees") to apply to all [Wikimedia projects](https://web.archive.org/wiki/Our_projects "Our projects").  
 It may not be circumvented, eroded, or ignored by local policies. 
 
-Wikimedia policies   
+[Wikimedia policies](https://web.archive.org/wiki/Policies "Policies")  
 ---  
   
-  * [Licensing and copyright](https://web.archive.org/wiki/Resolution:Licensing_policy "Resolution:Licensing policy")
-  * **Privacy** and [donor privacy](https://web.archive.org/wiki/Donor_policy "Donor policy")
-  * [Data retention](https://web.archive.org/wiki/Data_retention_policy "Data retention policy")
+Wikimedia wikis 
+
   * [Access to nonpublic data](https://web.archive.org/wiki/Access_to_nonpublic_data_policy "Access to nonpublic data policy")
+  * [Data retention](https://web.archive.org/wiki/Data_retention_policy "Data retention policy")
+  * [Donor](https://web.archive.org/wiki/Donor_policy "Donor policy")
+  * [Licensing](https://web.archive.org/wiki/Resolution:Licensing_policy "Resolution:Licensing policy")
+  * [Non discrimination](https://web.archive.org/wiki/Non_discrimination_policy "Non discrimination policy")
+  * **Privacy**
   * [Trademarks](https://web.archive.org/wiki/Trademark_policy "Trademark policy")
 
 
-  * Board and staff 
-    * [Code of conduct](https://web.archive.org/wiki/Code_of_conduct_policy "Code of conduct policy")
-    * [Conflicts of interest](https://web.archive.org/wiki/Conflict_of_interest_policy "Conflict of interest policy")
-    * [Credit card usage](https://web.archive.org/wiki/Credit_card_usage_policy "Credit card usage policy")
-    * [Discrimination](https://web.archive.org/wiki/Non_discrimination_policy "Non discrimination policy")
-    * [Duty entertainment](https://web.archive.org/wiki/Duty_entertainment_guidelines_policy "Duty entertainment guidelines policy")
-    * [Gifts](https://web.archive.org/wiki/Gift_policy "Gift policy")
-    * [Pluralism, internationalism,  
-& diversity](https://web.archive.org/wiki/Pluralism,_internationalism,_and_diversity_policy "Pluralism, internationalism, and diversity policy")
-    * [Purchasing and disbursements](https://web.archive.org/wiki/Purchasing_and_disbursements_procedures "Purchasing and disbursements procedures")
-    * [Travel approval](https://web.archive.org/wiki/Travel_approval_policy "Travel approval policy") and [Travel](https://web.archive.org/wiki/Travel_policy "Travel policy")
-    * [Whistleblowing](https://web.archive.org/wiki/Whistleblower_policy "Whistleblower policy")
+
+Board and staff members 
+
+  * [Code of conduct](https://web.archive.org/wiki/Code_of_conduct_policy "Code of conduct policy")
+  * [Conflict of interest](https://web.archive.org/wiki/Conflict_of_interest_policy "Conflict of interest policy")
+  * [Credit card usage](https://web.archive.org/wiki/Credit_card_usage_policy "Credit card usage policy")
+  * [Delegation of authority](https://web.archive.org/wiki/Delegation_of_authority_policy "Delegation of authority policy")
+    * [Subdelegation](https://web.archive.org/wiki/Delegation_of_authority_policy#Subdelegation "Delegation of authority policy")
+  * [Duty entertainment](https://web.archive.org/wiki/Duty_entertainment_guidelines_policy "Duty entertainment guidelines policy")
+  * [Gifts](https://web.archive.org/wiki/Gift_policy "Gift policy")
+  * [Pluralism, internationalism, and diversity](https://web.archive.org/wiki/Pluralism,_internationalism,_and_diversity_policy "Pluralism, internationalism, and diversity policy")
+  * [Travel](https://web.archive.org/wiki/Travel_policy "Travel policy")
+  * [Travel approval](https://web.archive.org/wiki/Travel_approval_policy "Travel approval policy")
+  * [Whistleblower](https://web.archive.org/wiki/Whistleblower_policy "Whistleblower policy")
+
+
+
+Other 
+
+  * [Feedback privacy statement](https://web.archive.org/wiki/Feedback_privacy_statement "Feedback privacy statement")
+  * [Friendly space policy](https://web.archive.org/wiki/Friendly_space_policy "Friendly space policy")
+  * [Fundraising principles](https://meta.wikimedia.org/wiki/Fundraising_principles "m:Fundraising principles")
+  * [Funds dissemination principles](https://meta.wikimedia.org/wiki/Funds_dissemination_principles "m:Funds dissemination principles")
+  * [Legal policies](https://meta.wikimedia.org/wiki/Legal/Legal_Policies "m:Legal/Legal Policies")
+  * [Purchasing and disbursements procedures](https://web.archive.org/wiki/Purchasing_and_disbursements_procedures "Purchasing and disbursements procedures")
 
   
   
@@ -34,15 +51,15 @@ Wikimedia policies
 
     _It is requested that this notice be translated and linked from the footer (MediaWiki:Copyright) of every page._
 
-##  General Scope
+## General Scope
 
 This policy covers personally identifiable information collected or stored by the Foundation on its servers in relation to the Projects and their communities. Consistent with its Data Retention Policy, the Foundation collects and retains the least amount of personally identifiable information needed to fulfill the Projects' operational needs. 
 
-##  The public and collaborative nature of the projects
+## The public and collaborative nature of the projects
 
 All Projects of the Wikimedia Foundation are collaboratively developed by its users using the MediaWiki software. Anyone with Internet access (and not otherwise restricted from doing so) may edit the publicly editable pages of these sites with or without logging in as a registered user. By doing this, editors create a published document, and a public record of every word added, subtracted, or changed. This is a public act, and editors are identified publicly as the author of such changes. All contributions made to a Project, and all publicly available information about those contributions, are irrevocably licensed and may be freely copied, quoted, reused and adapted by third parties with few restrictions. 
 
-##  Activities on Foundation projects
+## Activities on Foundation projects
 
 In general, this Policy only applies to private information stored or held by the Foundation which is not publicly available. 
 
@@ -54,7 +71,7 @@ Users may also interact with one another outside of Foundation sites, via email,
 
 The Foundation does not require editors to register with a project. Anyone can edit without logging in with a username, in which case they will be identified by network IP address. Users that do register are identified by their chosen username. Users select a password, which is confidential and used to verify the integrity of their account. Except insofar as it may be required by law, no person should disclose, or knowingly expose, either user passwords and/or cookies generated to identify a user. Once created, user accounts will not be removed. It may be possible for a username to be changed, depending on the policies of individual projects. The Foundation does not guarantee that a username will be changed on request. 
 
-##  Purpose of the collection of private information
+## Purpose of the collection of private information
 
 The Foundation limits the collection of personally identifiable user data to purposes which serve the well-being of its projects, including but not limited to the following: 
 
@@ -62,35 +79,35 @@ The Foundation limits the collection of personally identifiable user data to pur
     To provide site statistics. The Foundation statistically samples raw log data from users' visits. These logs are used to produce the site statistics pages; the raw log data is not made public. 
     To solve technical problems. Log data may be examined by developers in the course of solving technical problems and in tracking down badly-behaved web spiders that overwhelm the site. 
 
-##  Details of data retention
+## Details of data retention
 
-###  General expectations
+### General expectations
 
-####  IP and other technical information
+#### IP and other technical information
 
     When a visitor requests or reads a page, or sends email to a Wikimedia server, no more information is collected than is typically collected by web sites. The Wikimedia Foundation may keep raw logs of such transactions, but these will not be published or used to track legitimate users. 
 
     When a page is edited by a logged-in editor, the server confidentially stores related IP information for a limited period of time. This information is automatically deleted after a set period. For editors who do not log in, the IP address used is publicly and permanently credited as the author of the edit. It may be possible for a third party to identify the author from this IP address in conjunction with other information available. Logging in with a registered username allows for better preservation of privacy. 
 
-####  Cookies
+#### Cookies
 
     The sites set a temporary session cookie on a visitor's computer whenever a Project page is visited. Readers who do not intend to log in or edit may deny this cookie; it will be deleted at the end of the browser's session. More cookies may be set when one logs in to maintain logged-in status. If one saves a user name or password in one's browser, that information will be saved for up to 30 days, and this information will be resent to the server on every visit to the same Project. Contributors using a public machine who do not wish to show their username to future users of the machine should clear these cookies after use. 
 
-####  Page history
+#### Page history
 
     Edits or other contributions to a Project on its articles, user pages and talk pages are generally retained forever. Removing text from a project does not permanently delete it. Normally, in projects, anyone can look at a previous version of an article and see what was there. Even if an article is "deleted", a user entrusted with higher level of access may still see what was removed from public view. Information can be permanently deleted by individuals with access to Wikimedia servers, but aside from the rare circumstance when the Foundation is required to delete editing-history material in response to a court order or equivalent legal process, there is no guarantee any permanent deletion will happen. 
 
-####  User contribution
+#### User contribution
 
     User contributions are also aggregated and publicly available. User contributions are aggregated according to their registration and login status. Data on user contributions, such as the times at which users edited and the number of edits they have made, are publicly available via user contributions lists, and in aggregated forms published by other users. 
 
-#####  Reading projects
+##### Reading projects
 
     
 
     No more information on users and other visitors reading pages is collected than is typically collected in server logs by web sites. Aside from the above raw log data collected for general purposes, page visits do not expose a visitor's identity publicly. Sampled raw log data may include the IP address of any user, but it is not reproduced publicly. 
 
-#####  Editing projects
+##### Editing projects
 
     
 
@@ -102,7 +119,7 @@ The Foundation limits the collection of personally identifiable user data to pur
     Unlogged-in registered users and unregistered users: 
     Editors who have not logged in may be identified by network IP address. Depending on one's connection, this IP address may be traceable to a large Internet service provider or more specifically to a school, place of business or home. It may be possible to use this information in combination with other information, including editing style and preferences, to identify an author completely. 
 
-#####  Discussions
+##### Discussions
 
     
 
@@ -118,7 +135,7 @@ The Foundation limits the collection of personally identifiable user data to pur
     On IRC: 
     IRC channels are not officially part of the Wikimedia Foundation and are not operated on Wikimedia controlled servers. The IP address of users who chat over such a service may be exposed to other participants. IRC users' privacy on each channel can only be protected according to the policies of the respective service and channel. Different channels have different policies on whether logs may be published. 
 
-##  Access to and release of personally identifiable information
+## Access to and release of personally identifiable information
 
 Access: 
 
@@ -153,6 +170,6 @@ If the Foundation receives a court-filed motion to quash or otherwise limit the 
 
 Registered users are not required to provide an email address. However, when an affected registered user does not provide an email address, the Foundation will not be able to notify the affected user in private email messages when it receives requests from law enforcement to disclose personally identifiable information about the user. 
 
-##  Disclaimer
+## Disclaimer
 
 The Wikimedia Foundation believes that maintaining and preserving the privacy of user data is an important value. This Privacy Policy, together with other policies, resolutions, and actions by the Foundation, represents a committed effort to safeguard the security of the limited user information that is collected and retained on our servers. Nevertheless, the Foundation cannot guarantee that user information will remain private. We acknowledge that, in spite of our committed effort to protect private user information, determined individuals may still develop data-mining and other methods to uncover such information and disclose it. For this reason, the Foundation can make no guarantee against unauthorized access to information provided in the course of participating in Foundation Projects or related communities. 
