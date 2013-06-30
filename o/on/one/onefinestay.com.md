@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onefinestay.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231015152id_/http%3A//www.onefinestay.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onefinestay.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630174800id_/http%3A//www.onefinestay.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | onefinestay
 
@@ -59,7 +59,8 @@
   2. In addition, if you linked to this Site from a third party site, we cannot be responsible for the privacy policies and practices of the owners or operators of that third party site and recommend that you check the policy of that third party site and contact its owner or operator if you have any concerns or questions.
 
 
-* Transferring your information outside of Europe
+
+## Transferring your information outside of Europe
 
   1. As part of the services offered to you through the Site, the information you provide to us may be transferred to countries outside of the European Union (“EU”). By way of example, this may happen if any of our servers are from time to time located in a country outside of the EU or one of our service providers is located in a country outside of the EU. We may also share information between group companies, which may be located in countries worldwide. These countries may not have similar data protection laws to the UK. If we transfer your information outside of the EU in this way, we will take steps with the aim of ensuring that your privacy rights continue to be protected as outlined in this privacy policy.
   2. If you use the Site while you are outside the EU, your information may be transferred outside the EU in order to provide you with those services.
