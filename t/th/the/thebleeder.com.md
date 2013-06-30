@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebleeder.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023055011id_/http%3A//www.thebleeder.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebleeder.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630101236id_/http%3A//www.thebleeder.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ Privacy Policy Updated July 24, 2008
 
 We recognize that privacy (especially _your privacy_ ) is important. By creating and adhering to this Policy, we hope to protect your personal information, and ensure your visits to our site are safe and enjoyable.
 
-If you have any questions about this Policy, please feel free to [contact us](https://web.archive.org/web/20121023055011id_/http%3A//www.thebleeder.com/contactus.htm) through postal mail, telephone, and/or email to admin(at)zunehomes.com.  
+If you have any questions about this Policy, please feel free to [contact us](https://web.archive.org/web/20130630101236id_/http%3A//www.thebleeder.com/contactus.htm) through postal mail, telephone, and/or email to admin(at)zunehomes.com.  
 
 
 ## Information we collect, and how we use it
