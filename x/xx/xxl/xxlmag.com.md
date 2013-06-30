@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xxlmag.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231002912id_/http%3A//www.xxlmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xxlmag.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630032014id_/http%3A//www.xxlmag.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | XXL
+# Privacy Policy - XXL
 
 _XXLMAG.COM, a division of Harris Publications Inc. (“XXLMAG.COM”) believes that you should control the dissemination of the personally identifiable information that you provide when using the XXLMAG.COM web site (“the Site”). Please review this policy carefully to understand how we will treat the personally identifiable information that you give to us and other information in connection with the Site. This policy applies only to the Site._  
 Your use of this Site in any fashion constitutes your agreement to the terms of this Privacy Policy and our HYPERLINK “.” Terms of Use. Please review this page periodically. If we decide to change our Privacy Policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it. Your continued use of the Site constitutes your agreement to any such changes.
