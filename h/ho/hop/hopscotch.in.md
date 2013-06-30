@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hopscotch.in privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024044935id_/http%3A//www.hopscotch.in/About/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hopscotch.in privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630210621id_/http%3A//hopscotch.in/about/Privacy) for the most accurate reproduction.*
 
 # Hopscotch - Privacy
 
