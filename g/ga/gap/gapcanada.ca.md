@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gapcanada.ca privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227130400id_/http%3A//www.gapcanada.ca/customerService/info.do%3Fcid%3D2331) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gapcanada.ca privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630214922id_/http%3A//www.gapcanada.ca/customerService/info.do%3Fcid%3D2331) for the most accurate reproduction.*
 
 # | Gap
 
@@ -14,8 +14,8 @@ If you have any questions about our privacy policy, please contact us as describ
   * How do I access or change personal information? 
   * How do I make choices about personal information? 
   * How do Gap Companies collect and use non-personal information?
-  * How do Gap Companies collect and use cookies? 
-  * How do Gap Companies collect and use pixel tags and similar technologies? 
+  * How do Gap Companies collect and use cookies and other tracking technologies? 
+  * How is my information used for behavioural or interest-based advertising?
   * How do Gap Companies collect and use IP addresses? 
   * How do I know personal information about me is secure? 
   * What is "phishing"?
@@ -88,15 +88,13 @@ back to top
 
 Our websites use "cookies," which are small data files that are stored on your computer when you visit a website. Cookies may be used in a variety of ways to enhance or personalize your online experience. For example, we may use cookies to enable you to use certain website features, store your preferences, recognize you when you return to our website, and monitor and maintain information about your use of our websites. Cookies may also be used to collect transaction information needed by a scrip or loyalty program to which you have authorized us to provide your personal information. (See the section entitled, "Do Gap Companies share my information?", above.) You can set your browser not to accept cookies or to notify you when you are sent a cookie, giving you the opportunity to decide whether or not to accept it. If you do not accept cookies, however, certain features of our websites may not be available to you. To learn more about cookies, please visit <http://www.allaboutcookies.org/>. 
 
+We also use "pixel tags" (also called "web beacons" or "clear gifs"), which are tiny graphic images, and other similar technologies on our websites and in our emails. Pixel tags help us analyze our customers' online behavior and measure the effectiveness of our websites and our advertising. We work with service providers that help us track, collect, and analyze this information. Pixel tags on our sites may be used to collect information about your visit, including the pages you view, the features you use, the links you click, and other actions you take in connection with the sites. This information may include your browser type, your operating system, date and time information, and other technical information about your computer. We may also track certain information about the identity of the website you visited immediately before coming to our site. Pixel tags and cookies in our emails may be used to track your interactions with those messages, such as when you receive, open, or click a link in an email message from us. 
+
+We may combine the information we collect through cookies and pixel tags with other information we have collected from and about you. This information may be used to improve our websites, to personalize your online experience, to tailor our communications with you, to determine the effectiveness of our advertising, to understand your preferences and for other internal business purposes. 
+
 back to top
 
-Our websites use "cookies," which are small data files that are stored on your computer when you visit a website. Cookies may be used in a variety of ways to enhance or personalize your online experience. For example, we may use cookies to enable you to use certain website features, store your preferences, recognize you when you return to our website, and monitor and maintain information about your use of our websites. Cookies may also be used to collect transaction information needed by a scrip or loyalty program to which you have authorized us to provide your personal information. (See the section entitled, "Do Gap Companies share my information?", above.) You can set your browser not to accept cookies or to notify you when you are sent a cookie, giving you the opportunity to decide whether or not to accept it. If you do not accept cookies, however, certain features of our websites may not be available to you. To learn more about cookies, please visit <http://www.allaboutcookies.org/>. back to top 
-
-We use "pixel tags" (also called "web beacons" or "clear gifs"), which are tiny graphic images, and other similar technologies on our websites and in our emails. Pixel tags help us analyze our customers' online behavior and measure the effectiveness of our websites and our advertising. We work with service providers that help us track, collect, and analyze this information. Pixel tags on our sites may be used to collect information about your visit, including the pages you view, the features you use, the links you click, and other actions you take in connection with the sites. This information may include your browser type, your operating system, date and time information, and other technical information about your computer. We may also track certain information about the identity of the website you visited immediately before coming to our site. Pixel tags and cookies in our emails may be used to track your interactions with those messages, such as when you receive, open, or click a link in an email message from us. 
-
-We may combine the information we collect through cookies and pixel tags with other information we have collected from you. This information may be used to improve our websites, to personalize your online experience, to tailor our communications with you, to determine the effectiveness of our advertising, to understand your preferences and for other internal business purposes. 
-
-We also work with third-party companies that use tracking technologies to serve advertisements on our behalf across the Internet. These companies may collect information about your visits to our websites and your interaction with our advertising and other communications. If you would like more information about this practice and to know your choices about not having your information used by these companies, please visit <http://www.networkadvertising.org/managing/opt_out.asp>. 
+We work with third-party companies that use tracking technologies (including cookies and pixel tags) on our websites in order to provide tailored advertisements on our behalf and on behalf of other advertisers across the Internet. These companies may collect information about your activity on our sites and your interaction with our advertising and other communications and use this information to determine which ads you see on third-party websites and applications. For more information about this practice and to understand your your options, including how you can opt-out of receiving third-party behavioural ads, please visit the Digital Advertising Alliance website as [http://www.aboutads.info](http://www.aboutads.info/). 
 
 back to top
 
@@ -120,7 +118,7 @@ We are aware of phony emails sent out under our brand names. These emails did no
 
 back to top
 
-No. Gap Inc. does not ask prospective job applicants for information about their bank accounts, credit history or passwords to financial accounts. If you are asked for personal financial or security information in response to a job application, this is likely a fraudulent job listing hosted by spammers posing as Gap Inc. to mislead job applicants. You can validate all Gap Inc. job postings on [gapinc.com/careers](http://www.gapinc.com/careers). Spammers also create phony aliases such as thegap-usa.com to mimic our company and/or brand names in an effort to commit identity theft or other forms of fraud. If you receive this type of suspicious email activity, please alert the FBI's Internet Crimes Complaint Center: <http://www.ic3.gov/default.aspx>
+No. Gap Inc. does not ask prospective job applicants for information about their bank accounts, credit history or passwords to financial accounts. If you are asked for personal financial or security information in response to a job application, this is likely a fraudulent job listing hosted by spammers posing as Gap Inc. to mislead job applicants. You can validate all Gap Inc. job postings on gapinc.com/careers. Spammers also create phony aliases such as thegap-usa.com to mimic our company and/or brand names in an effort to commit identity theft or other forms of fraud. If you receive this type of suspicious email activity, please alert the Government of Canada's Canadian Anti-Fraud Centre at [info@antifraudcentre.ca](mailto:info@antifraudcentre.ca)
 
 back to top
 
