@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freescore.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006054616id_/http%3A//www.freescore.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freescore.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630132003id_/http%3A//www.freescore.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | FreeScore.com
 
@@ -26,7 +26,7 @@ FreeScore is marketed and distributed by FYI Direct, a leading marketing solutio
 
 **How do you use the information collected?**
 
-We use the Personal Information you provide to service your membership. For example, we request your mailing address so we know where to send the merchandise certificates, gift cards and other benefits that you may purchase, and any other information you may request. We also may send you additional membership information such as updates about our program and special offers. We use your credit card information to bill you for the membership fee and any benefits you may purchase. We use your e-mail address to notify you of program updates, special offers and promotions. If you prefer not to receive e-mail notifications from us, simply visit our [Contact Us](https://web.archive.org/web/20121006054616id_/http%3A//www.freescore.com/contact-free-score.aspx) page, select "Unsubscribe to future marketing" from the drop-down menu, and e-mail us your request. Be sure to include your name and membership ID number as well as the e-mail address to remove from our list.
+We use the Personal Information you provide to service your membership. For example, we request your mailing address so we know where to send the merchandise certificates, gift cards and other benefits that you may purchase, and any other information you may request. We also may send you additional membership information such as updates about our program and special offers. We use your credit card information to bill you for the membership fee and any benefits you may purchase. We use your e-mail address to notify you of program updates, special offers and promotions. If you prefer not to receive e-mail notifications from us, simply visit our [Contact Us](https://web.archive.org/web/20130630132003id_/http%3A//www.freescore.com/contact-free-score.aspx) page, select "Unsubscribe to future marketing" from the drop-down menu, and e-mail us your request. Be sure to include your name and membership ID number as well as the e-mail address to remove from our list.
 
 The Personal Information that is collected may also be shared with other groups within the FreeScore organization, and with FYI Direct’s affiliates and /or marketing partners, to bring you additional information and special savings offers.
 
@@ -36,7 +36,7 @@ The technical and statistical information that is automatically collected from y
 
 FreeScore may share Personal Information with third parties whom we employ to perform functions on our behalf. For example, FreeScore uses a third party to verify and process your credit card information in order to charge you for requested benefits or services. All third parties are contractually obligated to use your Personal Information only for the purpose for which it is given. We are not responsible for the information practices of third parties. The collection, use and disclosure of information by third parties are subject to their respective privacy policies, which may differ from our policy.
 
-From time to time, we may also share Personal Information with our affiliates and/or marketing partners who offer products and services that we think will be of interest to you. If you prefer not to have your Personal Information shared with our affiliates and/or marketing partners, please indicate what offers you are not interested in receiving on the E- mail Preferences page, if available, or by sending us an e-mail using the [Contact Us](https://web.archive.org/web/20121006054616id_/http%3A//www.freescore.com/contact-free-score.aspx) page. If you are enrolling online, you may also opt-out of receiving e-mails from third parties outside of FreeScore by de-selecting the check box on the enrollment page. If you accept a third-party offer provided via or linked to from our Web site, you consent to our providing your Personal Information and/or billing information to the third-party marketer that offered the product or service so they may process your acceptance of the offer.
+From time to time, we may also share Personal Information with our affiliates and/or marketing partners who offer products and services that we think will be of interest to you. If you prefer not to have your Personal Information shared with our affiliates and/or marketing partners, please indicate what offers you are not interested in receiving on the E- mail Preferences page, if available, or by sending us an e-mail using the [Contact Us](https://web.archive.org/web/20130630132003id_/http%3A//www.freescore.com/contact-free-score.aspx) page. If you are enrolling online, you may also opt-out of receiving e-mails from third parties outside of FreeScore by de-selecting the check box on the enrollment page. If you accept a third-party offer provided via or linked to from our Web site, you consent to our providing your Personal Information and/or billing information to the third-party marketer that offered the product or service so they may process your acceptance of the offer.
 
 We may also disclose your Personal Information when required by law or in the good faith belief that such action is necessary in order to conform to the edicts of the law or comply with legal process.
 
@@ -44,7 +44,7 @@ As we continue to develop our business, we may buy or sell assets. In such trans
 
 **How do I change/modify my information?** ****
 
-You can change, modify or update your member information by sending us an e-mail from the [Contact Us](https://web.archive.org/web/20121006054616id_/http%3A//www.freescore.com/contact-free-score.aspx) page. You can choose at any time to inform us of your e-mail preferences by sending us an e- mail from the Contact Us page or, if available, by going to the E-mail Preferences page where you can indicate what offers you are not interested in receiving.
+You can change, modify or update your member information by sending us an e-mail from the [Contact Us](https://web.archive.org/web/20130630132003id_/http%3A//www.freescore.com/contact-free-score.aspx) page. You can choose at any time to inform us of your e-mail preferences by sending us an e- mail from the Contact Us page or, if available, by going to the E-mail Preferences page where you can indicate what offers you are not interested in receiving.
 
 **What are Cookies and how do you use them?** ****
 
@@ -89,7 +89,7 @@ We will notify you if there is a material change in our privacy practices. We wi
 
 **How do I contact the web site?** ****
 
-If you have any questions about the practices of this Web site or your dealings with this site, you can send us an email through our [Contact Us](https://web.archive.org/web/20121006054616id_/http%3A//www.freescore.com/contact-free-score.aspx) page or write to us at Membership Services, FreeScore, 9500 West Dodge Road, Suite 100, Omaha, NE 68114-3331. 
+If you have any questions about the practices of this Web site or your dealings with this site, you can send us an email through our [Contact Us](https://web.archive.org/web/20130630132003id_/http%3A//www.freescore.com/contact-free-score.aspx) page or write to us at Membership Services, FreeScore, 9500 West Dodge Road, Suite 100, Omaha, NE 68114-3331. 
 
 **By using our Web site, you consent to the collection and use of information as it is disclosed in this Privacy and Security Policy statement. If you do not agree we ask that you do not use our site. Thank You.**
 
