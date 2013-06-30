@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footballfancast.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501080106id_/http%3A//www.footballfancast.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footballfancast.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630102344id_/http%3A//www.footballfancast.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FootballFanCast.com
 
@@ -18,6 +18,8 @@ If you register your personal details with this web site, it is only known to SN
 
 SN&CK Media Limited will also keep any correspondence you send SN&CK Media Limited whether by email or standard mail. This correspondence will not be kept indefinitely, only for the statutory period allowed under the Data Protection Act 1998 (as amended).
 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
+
 ### HOW DO SN&CK MEDIA LIMITED USE THE INFORMATION COLLECTED?
 
 All the information that SN&CK Media Limited collect via the web site or correspondence is used to help SN&CK Media Limited understand more about who uses the web site and to help improve the web site and the services that it offers. It will also help SN&CK Media Limited to send communications to you that may be of interest.
@@ -34,7 +36,7 @@ If SN&CK Media Limited wishes to or is required to pass on your information to a
 
 SN&CK Media Limited may use the personal information that you have provided to contact you by any of the methods which you input. Communications from SN&CK Media Limited will be limited to administrative messages unless you have “opted in” to receive additional information about new services, features or products which are being offered by SN&CK Media Limited. If you do not want to be contacted in this way then please click where indicated when you are completing any of the online forms where you initially input your personal details, by changing your personal details on the [“personal details”] page when you are logged on to the web site, or by contacting SN&CK Media Limited via the contact page at any time after submitting your personal details.
 
-As the Internet is a global network, there may be instances when your personal data travels across international borders. This may include [transfers](http://www.footballtransfertavern.com/ "More about Transfer »") outside the EU and the EEA. If you do voluntarily input any personal information via this web site or send correspondence, then in doing so you are authorising SN&CK Media Limited to transfer your personal data in this way.
+As the Internet is a global network, there may be instances when your personal data travels across international borders. This may include transfers outside the EU and the EEA. If you do voluntarily input any personal information via this web site or send correspondence, then in doing so you are authorising SN&CK Media Limited to transfer your personal data in this way.
 
 ### DOES SN&CK MEDIA LIMITED USE COOKIES OR WEB BEACONS?
 
