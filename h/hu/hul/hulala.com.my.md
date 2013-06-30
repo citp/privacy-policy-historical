@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hulala.com.my privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022065433id_/http%3A//www.hulala.com.my/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hulala.com.my privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630065353id_/http%3A//www.hulala.com.my/privacy-policy) for the most accurate reproduction.*
 
 # Best daily deals in Klang Valley, group discounts, vouchers and everyday deals in Malaysia, Up to 90% discounts! - Hulala.com.my
 
@@ -55,6 +55,7 @@ Our staffs cannot see you password that you used in hulala website. Please do no
 
 ® This User Agreement is the property of **Hulala Sdn. Bhd.** _(1005279-U)_ and may not be used or copied without permission.
 
-**Company Information :** 37-10, The Boulevard, Mid Valley City, Lingkaran Syed Putra, 59200 Kuala Lumpur. Malaysia   
+**Company Information :**   
 **Helpline :** +603 7982 8399 (9.30am – 5.30pm)   
-**Email :** [support@hulala.com.my](mailto:support@hulala.com.my)
+**Email :** [support@hulala.com.my](mailto:support@hulala.com.my)   
+42-2, Jalan Kuchai Maju 10, Kuchai Enterpreneur's Park, 58200 Kuala Lumpur. Malaysia 
