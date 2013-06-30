@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cooking.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124212914id_/http%3A//www.cooking.com/help/detail/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cooking.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630220123id_/http%3A//www.cooking.com/help/detail/privacy) for the most accurate reproduction.*
 
-# Help and FAQ information at Cooking.com
+# Privacy Policy at Cooking.com
 
   
 Our Pledge   
@@ -63,7 +63,7 @@ At any time you can unsubscribe, correct or update your information or modify yo
 * To review, change or update information, as it pertains to our newsletters, you have several options:
 
   * On the Cooking.com Site. Click on the "Help" button at the top of the home page then on the appropriate link under the "subscriptions" to change your information. 
-  * By e-mail. Send an email request to [Customer Service](https://web.archive.org/web/20121124212914id_/http%3A//www.cooking.com/help/Contact-Us). 
+  * By e-mail. Send an email request to [Customer Service](https://web.archive.org/web/20130630220123id_/http%3A//www.cooking.com/help/Contact-Us). 
   * By postal mail. Please include your email address and mail your request to us at 4086 Del Rey Avenue, Marina Del Rey, CA 90292: Attention: Customer Service. 
   * By phone. Call toll-free at (800) 663-8810 in the USA and Canada.  
 (310) 450-3270 outside USA and Canada. 
@@ -72,8 +72,8 @@ At any time you can unsubscribe, correct or update your information or modify yo
 * To review, change or update information as it pertains to our catalog or the sharing of your name and postal address with third parties who offer a product or service we think may be of interest to you, you have several options: 
 
   * On the Cooking.com Site. Click on the "Help" button at the top of the home page then on the appropriate link under the “subscriptions" to change your information. 
-  * By e-mail. Send an email request to [Customer Service](https://web.archive.org/web/20121124212914id_/http%3A//www.cooking.com/help/Contact-Us). 
-  * By postal mail. Please follow [these instructions](https://web.archive.org/web/20121124212914id_/http%3A//www.cooking.com/help/detail/extras/mail_printout.htm) and mail your request to us at 4086 Del Rey Avenue, Marina Del Rey, CA 90292: Attention: Customer Service. 
+  * By e-mail. Send an email request to [Customer Service](https://web.archive.org/web/20130630220123id_/http%3A//www.cooking.com/help/Contact-Us). 
+  * By postal mail. Please follow [these instructions](https://web.archive.org/web/20130630220123id_/http%3A//www.cooking.com/help/detail/extras/mail_printout.htm) and mail your request to us at 4086 Del Rey Avenue, Marina Del Rey, CA 90292: Attention: Customer Service. 
   * By phone. Call toll-free at (800) 663-8810 in the USA and Canada.  
 (310) 450-3270 outside USA and Canada. 
 
@@ -86,13 +86,14 @@ Cookies
 Cooking.com uses a feature of your Internet Web browser called a cookie to assign an identification code to your computer. Cookies are files that your Web browser places on your computer’s hard drive. We do not and cannot use cookies to retrieve personal information about you from your computer unless such information was knowingly and willingly provided by you. Cookies do not provide us with access to any credit card information.
 
 Third Party Cookies  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.   
+Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these cookies, please go to http://www.aboutads.info/choices. 
 
 Our Commitment to Data Security  
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
 Cooking.com is an AOL Certified Merchant  
-As a Certified Merchant of America Online, we have agreed to abide by [AOL’s Privacy Policy](http://legal.web.aol.com/policy/aolpol/privpol.html). To read more about this policy, please visit AOL’s Privacy Policy. If you have further questions about Cooking.com’s privacy policy, please direct your inquiries to us via [e-mail](https://web.archive.org/web/20121124212914id_/http%3A//www.cooking.com/help/Contact-Us).
+As a Certified Merchant of America Online, we have agreed to abide by [AOL’s Privacy Policy](http://legal.web.aol.com/policy/aolpol/privpol.html). To read more about this policy, please visit AOL’s Privacy Policy. If you have further questions about Cooking.com’s privacy policy, please direct your inquiries to us via [e-mail](https://web.archive.org/web/20130630220123id_/http%3A//www.cooking.com/help/Contact-Us).
 
 Notice of Changes  
 Cooking.com’s Privacy Policy is subject to change without notice. At any time, you may visit our website to view the current policy.
