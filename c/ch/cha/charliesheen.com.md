@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charliesheen.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225025957id_/http%3A//www.whosay.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charliesheen.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630105522id_/http%3A//www.whosay.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - WhoSay
 
@@ -90,7 +90,7 @@ We use appropriate technical and organisational measures to safeguard the person
 
 Cross-border Transfer
 
-The Site is hosted in the United States. In addition, your information may be transferred to and maintained in whole or in part on computer networks which may be located outside of the state, province, country or other governmental jurisdiction in which you reside, including the United States. You understand that the countries to which we may transfer information many not have as comprehensive data protection rules as in your country. However, please be assured that we take steps to ensure that your personal data is protected in accordance with this Privacy Policy.
+The Site is hosted in the United States. In addition, your information may be transferred to and maintained in whole or in part on computer networks which may be located outside of the state, province, country or other governmental jurisdiction in which you reside, including the United States. You understand that the countries to which we may transfer information may not have as comprehensive data protection rules as in your country. However, please be assured that we take steps to ensure that your personal data is protected in accordance with this Privacy Policy.
 
 Our Policy Toward Children
 
