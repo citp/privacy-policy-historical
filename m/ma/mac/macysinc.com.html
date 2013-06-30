@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the macysinc.com privacy policy that was archived on 2012-11-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121114213856id_/http%3A//www.macysinc.com/privacy-policy/default.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the macysinc.com privacy policy that was archived on 2013-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130630114148id_/http%3A//macysinc.com/privacy-policy/default.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head><meta charset="utf-8"><title>
 	Privacy Policy - Macy’s, Inc.
@@ -21,7 +21,7 @@
 	<!--[if IE 7]>
         <link rel="stylesheet" type="text/css" href="/Assets/css/IE-specific.css" />
     <![endif]-->
-	<script type="text/javascript" src="/Assets/js/libs/jquery-1.8.2.min.js"></script>
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/Assets/js/libs/jquery-1.8.2.min.js"></script>
 	<!--[if (gte IE 6)&(lte IE 8)]>
 	  <script type="text/javascript" src="/Assets/js/libs/selectivizr.js"></script>
 	<![endif]-->
@@ -44,7 +44,7 @@
 				<p><b><a href="/macys/default.aspx">MACY’S</a> • <a href="/bloomingdales/default.aspx">BLOOMINGDALE’S</a></b></p>
 			</div>
 			<div class="ticker ">
-				<span id="pageHeader_litStock"><ul><li>M&nbsp;(NYSE)</li> <li class="price">$38.90</li> <li class="change">-0.18</li></ul></span>
+				<span id="pageHeader_litStock"><ul><li>M&nbsp;(NYSE)</li> <li class="price">$48.00</li> <li class="change">-0.15</li></ul></span>
 			</div>
 			<div class="searchblock">
 				<form action="/search/default.aspx" method="get">
@@ -206,7 +206,7 @@
 </header>
 
 	<form method="post" action="default.aspx" id="bodyForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNDMyNDU0NjAzD2QWAmYPZBYCZg9kFgQCAw9kFgICAQ8PFgIeBFRleHQFWzx1bD48bGk+TSZuYnNwOyhOWVNFKTwvbGk+IDxsaSBjbGFzcz0icHJpY2UiPiQzOC45MDwvbGk+IDxsaSBjbGFzcz0iY2hhbmdlIj4tMC4xODwvbGk+PC91bD5kZAIFD2QWAgIBD2QWAgIBDxYCHwAFDlByaXZhY3kgUG9saWN5ZGRnB49k3C1wHXH5Puo70E51klGyX0jhOaQkm/3sUsp+yQ==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNDMyNDU0NjAzD2QWAmYPZBYCZg9kFgQCAw9kFgICAQ8PFgIeBFRleHQFWzx1bD48bGk+TSZuYnNwOyhOWVNFKTwvbGk+IDxsaSBjbGFzcz0icHJpY2UiPiQ0OC4wMDwvbGk+IDxsaSBjbGFzcz0iY2hhbmdlIj4tMC4xNTwvbGk+PC91bD5kZAIFD2QWAgIBD2QWAgIBDxYCHwAFDlByaXZhY3kgUG9saWN5ZGT8misP96GtRZY3fj9DmR3ijGH2OF0UeulB5vDaLciefg==">
 
 	
     <div id="page-content" data-role="content">
@@ -268,7 +268,7 @@
 			<p><a href="http://www.bloomingdales.com" target="_blank"><img src="/Assets/img/shopB.jpg" height="25" width="61" alt="Shop Bloomingdales"></a></p>
 		</div>
 		<div class="row">
-			<p class="footnote">©2012 Macy’s, Inc. (formerly known as Federated Department Stores, Inc.)<br>
+			<p class="footnote">©2013 Macy’s, Inc. (formerly known as Federated Department Stores, Inc.)<br>
 			7 West Seventh Street, Cincinnati, OH 45202<br>
 			ALL RIGHTS RESERVED. Review the macysinc.com <a href="/privacy-policy/default.aspx">privacy policy</a> and <a href="/legal-notice/default.aspx">legal notice</a>.<br>
 			Site developed by <a href="http://www.sangereby.com" target="_blank">Sanger &amp; Eby</a>, Cincinnati, OH.</p>
@@ -292,14 +292,28 @@
 
 	<script type="text/javascript" src="/Assets/js/plugins.js" defer=""></script>
 	<script type="text/javascript" src="/Assets/js/script.js" defer=""></script>
-	<script type="text/javascript">
-		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-	<script type="text/javascript">
-		var pageTracker = _gat._getTracker("UA-5157665-1");
-		pageTracker._trackPageview();
-	</script>
+	<!-- Google Analytics tracking code that eliminates Keynote robots --> 
+   <script type="text/javascript">
+       // These are the strings that Keynote adds to the User Agent string: 
+       var gk_KEYNOTE_TXP_MONITOR = "KTXN";   // Transaction Perspective agents 
+       var gk_KEYNOTE_APP_MONITOR = "KHTE";   // Application Perspective agents 
+       var gk_KEYNOTE_TSP_MONITOR = "Keynote";  // Test Perspective agents 
+
+       // if the User Agent string indicates Keynote monitors, then don't track the visit in Google Analytics 
+       if (navigator.userAgent.indexOf(gk_KEYNOTE_TXP_MONITOR, 0) == -1 &&
+      navigator.userAgent.indexOf(gk_KEYNOTE_APP_MONITOR, 0) == -1 &&
+      navigator.userAgent.indexOf(gk_KEYNOTE_TSP_MONITOR, 0) == -1) {
+           // Ok, this is not a Keynote monitoring agent, so go ahead and log the visit with Google: 
+           var _gaq = _gaq || [];
+           _gaq.push(['_setAccount', 'UA-5157665-1']);
+           _gaq.push(['_trackPageview']);
+           (function () {
+               var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+               ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+               var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+           })();
+       } 
+   </script>  
 
 
 </body></html>
