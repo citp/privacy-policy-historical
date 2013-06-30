@@ -1,12 +1,13 @@
-<!--The following is the downloaded HTML source of the herdict.org privacy policy that was archived on 2012-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121221012615id_/http%3A//www.herdict.org/privacy/en) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the herdict.org privacy policy that was archived on 2013-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130630144610id_/http%3A//www.herdict.org/privacy/en) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
+<!DOCTYPE html><html><head><script async="" src="https://archive.org/includes/analytics.js?v=cf34f82&amp;_=1580476456985"></script>
         <title>Herdict : About</title>
         
         <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7; IE=EmulateIE9">
 
         
+        <link rel="stylesheet" type="text/css" href="/includes/css/select2.css">
         <link rel="stylesheet" type="text/css" href="/includes/css/global.css?v2">
         <link rel="stylesheet" type="text/css" href="/includes/css/colors.css">
         <link rel="stylesheet" type="text/css" href="/includes/css/fonts.css">
@@ -65,7 +66,7 @@
 </script>
 
 
-        <script type="text/javascript" src="/localizedstrings"></script>
+        <script type="text/javascript" src="/localizedstrings?l=en_US"></script>
 
         
         <script type="text/javascript" src="/includes/js/jquery-1.7.1.min.js"></script>
@@ -73,6 +74,7 @@
         <script type="text/javascript" src="/includes/js/jquery.ba-bbq.min.js"></script>
         <script type="text/javascript" src="/includes/js/jquery.microtemplating.js"></script>
         <script type="text/javascript" src="/includes/js/date.js"></script>
+        <script type="text/javascript" src="/includes/js/select2.min.js"></script>
 
         
         <script type="text/javascript" src="/includes/js/utils.js?v2"></script>
@@ -181,7 +183,11 @@
                                 data-unframeable="<!=(pages[i].site.hasOwnProperty('hideFromReporter')) ? pages[i].site.hideFromReporter : ''!>"
                                 data-hide="false">
                                 <a href="#" title="<!=escape(pages[i].url)!>">
-                                    <img src="/images/thumbnails/WEB/<!=pages[i].id!>.png"/>
+                                    <! if (i < 3) { !>
+                                        <img src="/images/thumbnails/WEB/<!=pages[i].id!>.png"/>
+                                    <! } else { !>
+                                        <img class="lazy" src="/includes/img/global/transparent.gif" data-original="/images/thumbnails/WEB/<!=pages[i].id!>.png"/>
+                                    <! } !>
                                     <div class="reporttype"></div>
                                 </a>
                             </li>
@@ -199,6 +205,7 @@
         <form style="margin-bottom: 10px; text-align: center;" action="/ajax/reports" method="post">
             <input type="hidden" id="reporter__reportUrl" name="report.url">
             <input type="hidden" id="reporter__reportType" name="report.reportType">
+            <input type="hidden" id="reporter__userListId" name="report.userList.id">
             <input type="text" id="honey" name="honey">
 
             <div id="reporter__testarea">
@@ -265,7 +272,7 @@
                 Inaccessible
             </a>
             
-        <div style="display: none;"><input type="hidden" name="_sourcePage" value="ySy23gGKUcWK0UZ4U8kCl7vnzTRNPCdA2iffADSFzGSZCPw_v2t6aA=="><input type="hidden" name="__fp" value="4XEGysSqhW5ErfCjTBA60RDg096X3wIjQRddM1U4tBdTxVG4QtABQUTPbxOCNMy_CyX0SMaPGRfbKVaAN2ZBUQ=="></div></form>
+        <div style="display: none;"><input type="hidden" name="_sourcePage" value="4uUw_ErKM76K0UZ4U8kCl7vnzTRNPCdA2iffADSFzGSZCPw_v2t6aA=="><input type="hidden" name="__fp" value="mjwyEDPt6ItErfCjTBA60RDg096X3wIjQRddM1U4tBdTxVG4QtABQUTPbxOCNMy_CyX0SMaPGRfbKVaAN2ZBUQ=="></div></form>
 
         <div style="text-align: center;">
             We collect limited information when you report sites.
@@ -289,10 +296,87 @@
                 <div id="header-wrapper">
                     <div id="header" class="no-print">
                         <a href="/" id="logo">HerdictWeb</a>
-                        
+                        <ul id="nav-header">
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css">
+<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css">
+<!-- End Wayback Rewrite JS Include -->
+<li class="login">
+            <a href="/web/20140509145202/http://www.herdict.org/account/login" class="login">
+                Login
+            </a>
+            <ul class="login">
+                <li>
+                    <form action="/web/20140509145202/http://www.herdict.org/secure/j_acegi_security_check">
+                        <label>Username</label>
+                        <input type="text" id="j_username" name="j_username">
+                        <label>Password</label>
+                        <input type="password" name="j_password">
+                        <input type="submit" value="Login">
+                    </form>
+                    <a href="/web/20140509145202/http://www.herdict.org/account/forgotPassword">Forgot Password?</a>
+                </li>
+            </ul>
+        </li>
+        <li>|</li>
+        <li>
+            <a href="/web/20140509145202/http://www.herdict.org/account/signup">Sign-up</a>
+        </li>
+        
+    
+    
+
+<!--
+     FILE ARCHIVED ON 14:52:02 May 09, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 13:14:10 Jan 31, 2020.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  RedisCDXSource: 12.447
+  LoadShardBlock: 112.506 (3)
+  CDXLines.iter: 14.968 (3)
+  load_resource: 132.08
+  exclusion.robots: 0.199
+  PetaboxLoader3.datanode: 97.948 (4)
+  exclusion.robots.policy: 0.184
+  captures_list: 143.653
+  esindex: 0.017
+  PetaboxLoader3.resolve: 108.754 (2)
+--></ul>
+                        <script type="text/javascript">
+                            $(function() {
+                                $.ajax({
+                                    url: "/ajax/accounts/headerNavigation",
+                                    type: "GET",
+                                    success: function(data) {
+                                        $("#nav-header").html(data);
+                                    }
+                                });
+                            });
+                        </script>
                         <ul id="nav-main">
                             <li class="explore topmenu">
-                                <a href="/explore/indepth">Explore</a>
+                                <a href="/explore/indepth">Investigate Data</a>
                                 <ul class="submenu clearfix">
                                     <li>
                                         <a class="indepth" href="/explore/indepth">At-A-Glance</a>
@@ -314,13 +398,13 @@
                                             <option value="">
                                                 Choose a country
                                             </option>
-                                            <option value="AF">Afghanistan</option><option value="AX">Aland Islands</option><option value="AL">Albania</option><option value="DZ">Algeria</option><option value="AS">American Samoa</option><option value="AD">Andorra</option><option value="AO">Angola</option><option value="AI">Anguilla</option><option value="AQ">Antarctica</option><option value="AG">Antigua and Barbuda</option><option value="AR">Argentina</option><option value="AM">Armenia</option><option value="AW">Aruba</option><option value="AT">Austria</option><option value="AZ">Azerbaijan</option><option value="BH">Bahrain</option><option value="BD">Bangladesh</option><option value="BB">Barbados</option><option value="BY">Belarus</option><option value="BE">Belgium</option><option value="BZ">Belize</option><option value="BJ">Benin</option><option value="BM">Bermuda</option><option value="BT">Bhutan</option><option value="BO">Bolivia</option><option value="BA">Bosnia and Herzegovina</option><option value="BW">Botswana</option><option value="BN">Brunei</option><option value="BG">Bulgaria</option><option value="BF">Burkina Faso</option><option value="BI">Burundi</option><option value="CM">Cameroon</option><option value="CA">Canada</option><option value="CV">Cape Verde</option><option value="KY">Cayman Islands</option><option value="CF">Central African Republic</option><option value="IO">Chagos Islands</option><option value="CL">Chile</option><option value="CO">Colombia</option><option value="KM">Comoros</option><option value="CK">Cook Islands</option><option value="CR">Costa Rica</option><option value="HR">Croatia</option><option value="CU">Cuba</option><option value="CY">Cyprus</option><option value="CZ">Czech Republic</option><option value="CD">DR Congo</option><option value="DM">Dominica</option><option value="DO">Dominican Republic</option><option value="EC">Ecuador</option><option value="EG">Egypt</option><option value="SV">El Salvador</option><option value="GQ">Equatorial Guinea</option><option value="ET">Ethiopia</option><option value="FK">Falkland Islands</option><option value="FO">Faroe Islands</option><option value="FJ">Fiji</option><option value="FI">Finland</option><option value="FR">France</option><option value="GF">French Guiana</option><option value="PF">French Polynesia</option><option value="GA">Gabon</option><option value="GM">Gambia</option><option value="GE">Georgia</option><option value="DE">Germany</option><option value="GH">Ghana</option><option value="GI">Gibraltar</option><option value="GR">Greece</option><option value="GL">Greenland</option><option value="GD">Grenada</option><option value="GU">Guam</option><option value="GT">Guatemala</option><option value="GG">Guernsey</option><option value="GN">Guinea</option><option value="GW">Guinea-Bissau</option><option value="GY">Guyana</option><option value="HT">Haiti</option><option value="HM">Heard Island &amp; McDonald Islands</option><option value="HN">Honduras</option><option value="IS">Iceland</option><option value="IN">India</option><option value="ID">Indonesia</option><option value="IR">Iran</option><option value="IQ">Iraq</option><option value="IM">Isle of Man</option><option value="IT">Italy</option><option value="CI">Ivory Coast</option><option value="JM">Jamaica</option><option value="JP">Japan</option><option value="JE">Jersey</option><option value="JO">Jordan</option><option value="KZ">Kazakhstan</option><option value="KE">Kenya</option><option value="KI">Kiribati</option><option value="LA">Laos</option><option value="LV">Latvia</option><option value="LB">Lebanon</option><option value="LS">Lesotho</option><option value="LR">Liberia</option><option value="LY">Libya</option><option value="LI">Liechtenstein</option><option value="LT">Lithuania</option><option value="LU">Luxembourg</option><option value="MO">Macao</option><option value="MK">Macedonia</option><option value="MG">Madagascar</option><option value="MW">Malawi</option><option value="MV">Maldives</option><option value="ML">Mali</option><option value="MT">Malta</option><option value="MQ">Martinique</option><option value="MR">Mauritania</option><option value="MU">Mauritius</option><option value="YT">Mayotte</option><option value="MX">Mexico</option><option value="FM">Micronesia</option><option value="MD">Moldova</option><option value="MC">Monaco</option><option value="MN">Mongolia</option><option value="ME">Montenegro</option><option value="MS">Montserrat</option><option value="MA">Morocco</option><option value="MZ">Mozambique</option><option value="NA">Namibia</option><option value="AN">Netherlands Antilles</option><option value="NC">New Caledonia</option><option value="NZ">New Zealand</option><option value="NI">Nicaragua</option><option value="NE">Niger</option><option value="NU">Niue</option><option value="NF">Norfolk Island</option><option value="KP">North Korea</option><option value="MP">Northern Mariana Islands</option><option value="OM">Oman</option><option value="PW">Palau</option><option value="PA">Panama</option><option value="PG">Papua New Guinea</option><option value="PY">Paraguay</option><option value="PE">Peru</option><option value="PN">Pitcairn Islands</option><option value="PL">Poland</option><option value="PT">Portugal</option><option value="PR">Puerto Rico</option><option value="QA">Qatar</option><option value="RE">Reunion</option><option value="RO">Romania</option><option value="RU">Russia</option><option value="RW">Rwanda</option><option value="GS">S. Georgia &amp; S. Sandwich Islands</option><option value="KN">Saint Kitts and Nevis</option><option value="LC">Saint Lucia</option><option value="WS">Samoa</option><option value="SM">San Marino</option><option value="SA">Saudi Arabia</option><option value="SN">Senegal</option><option value="RS">Serbia</option><option value="SC">Seychelles</option><option value="SL">Sierra Leone</option><option value="SK">Slovakia</option><option value="SI">Slovenia</option><option value="SB">Solomon Islands</option><option value="SO">Somalia</option><option value="ZA">South Africa</option><option value="KR">South Korea</option><option value="LK">Sri Lanka</option><option value="VC">St. Vincent &amp; Grenadines</option><option value="SD">Sudan</option><option value="SR">Suriname</option><option value="SZ">Swaziland</option><option value="SE">Sweden</option><option value="CH">Switzerland</option><option value="SY">Syria</option><option value="TJ">Tajikistan</option><option value="TH">Thailand</option><option value="BS">The Bahamas</option><option value="NL">The Netherlands</option><option value="TG">Togo</option><option value="TK">Tokelau</option><option value="TO">Tonga</option><option value="TT">Trinidad and Tobago</option><option value="TR">Turkey</option><option value="TM">Turkmenistan</option><option value="TC">Turks and Caicos Islands</option><option value="TV">Tuvalu</option><option value="UM">US Minor Outlying Islands</option><option value="VI">US Virgin Islands</option><option value="UA">Ukraine</option><option value="UY">Uruguay</option><option value="UZ">Uzbekistan</option><option value="VU">Vanuatu</option><option value="VA">Vatican City</option><option value="VE">Venezuela</option><option value="VN">Vietnam</option><option value="WF">Wallis and Futuna</option><option value="PS">West Bank and Gaza</option><option value="EH">Western Sahara</option><option value="YE">Yemen</option><option value="ZM">Zambia</option><option value="ZW">Zimbabwe</option><option value="VG">British Virgin Islands</option><option value="IE">Ireland</option><option value="ES">Spain</option><option value="CN">China</option><option value="MY">Malaysia</option><option value="MM">Myanmar</option><option value="AE">United Arab Emirates</option><option value="CS">Serbia and Montenegro</option><option value="UK">United Kingdom</option><option value="US">United States</option><option value="TN">Tunisia</option><option value="UG">Uganda</option><option value="PH">Philippines</option><option value="TD">Chad</option><option value="ER">Eritrea</option><option value="EE">Estonia</option><option value="TL">East Timor</option><option value="DK">Denmark</option><option value="IL">Israel</option><option value="HU">Hungary</option><option value="TW">Taiwan</option><option value="KG">Kyrgyzstan</option><option value="DJ">Djibouti</option><option value="TZ">Tanzania</option><option value="NG">Nigeria</option><option value="NP">Nepal</option><option value="PK">Pakistan</option><option value="BR">Brazil</option><option value="NO">Norway</option><option value="SG">Singapore</option><option value="KH">Cambodia</option><option value="AU">Australia</option><option value="KW">Kuwait</option><option value="HK">Hong Kong</option><option value="MH">Marshall Islands</option>
+                                            <option value="AF">Afghanistan</option><option value="AX">Aland Islands</option><option value="AL">Albania</option><option value="DZ">Algeria</option><option value="AS">American Samoa</option><option value="AD">Andorra</option><option value="AO">Angola</option><option value="AI">Anguilla</option><option value="AQ">Antarctica</option><option value="AG">Antigua and Barbuda</option><option value="AR">Argentina</option><option value="AM">Armenia</option><option value="AW">Aruba</option><option value="AU">Australia</option><option value="AT">Austria</option><option value="AZ">Azerbaijan</option><option value="BH">Bahrain</option><option value="BD">Bangladesh</option><option value="BB">Barbados</option><option value="BY">Belarus</option><option value="BE">Belgium</option><option value="BZ">Belize</option><option value="BJ">Benin</option><option value="BM">Bermuda</option><option value="BT">Bhutan</option><option value="BO">Bolivia</option><option value="BA">Bosnia and Herzegovina</option><option value="BW">Botswana</option><option value="BR">Brazil</option><option value="VG">British Virgin Islands</option><option value="BN">Brunei</option><option value="BG">Bulgaria</option><option value="BF">Burkina Faso</option><option value="BI">Burundi</option><option value="KH">Cambodia</option><option value="CM">Cameroon</option><option value="CA">Canada</option><option value="CV">Cape Verde</option><option value="KY">Cayman Islands</option><option value="CF">Central African Republic</option><option value="TD">Chad</option><option value="IO">Chagos Islands</option><option value="CL">Chile</option><option value="CN">China</option><option value="CO">Colombia</option><option value="KM">Comoros</option><option value="CK">Cook Islands</option><option value="CR">Costa Rica</option><option value="HR">Croatia</option><option value="CU">Cuba</option><option value="CY">Cyprus</option><option value="CZ">Czech Republic</option><option value="DK">Denmark</option><option value="DJ">Djibouti</option><option value="DM">Dominica</option><option value="DO">Dominican Republic</option><option value="CD">DR Congo</option><option value="TL">East Timor</option><option value="EC">Ecuador</option><option value="EG">Egypt</option><option value="SV">El Salvador</option><option value="GQ">Equatorial Guinea</option><option value="ER">Eritrea</option><option value="EE">Estonia</option><option value="ET">Ethiopia</option><option value="FK">Falkland Islands</option><option value="FO">Faroe Islands</option><option value="FJ">Fiji</option><option value="FI">Finland</option><option value="FR">France</option><option value="GF">French Guiana</option><option value="PF">French Polynesia</option><option value="GA">Gabon</option><option value="GM">Gambia</option><option value="GE">Georgia</option><option value="DE">Germany</option><option value="GH">Ghana</option><option value="GI">Gibraltar</option><option value="GR">Greece</option><option value="GL">Greenland</option><option value="GD">Grenada</option><option value="GU">Guam</option><option value="GT">Guatemala</option><option value="GG">Guernsey</option><option value="GN">Guinea</option><option value="GW">Guinea-Bissau</option><option value="GY">Guyana</option><option value="HT">Haiti</option><option value="HM">Heard Island &amp; McDonald Islands</option><option value="HN">Honduras</option><option value="HK">Hong Kong</option><option value="HU">Hungary</option><option value="IS">Iceland</option><option value="IN">India</option><option value="ID">Indonesia</option><option value="IR">Iran</option><option value="IQ">Iraq</option><option value="IE">Ireland</option><option value="IM">Isle of Man</option><option value="IL">Israel</option><option value="IT">Italy</option><option value="CI">Ivory Coast</option><option value="JM">Jamaica</option><option value="JP">Japan</option><option value="JE">Jersey</option><option value="JO">Jordan</option><option value="KZ">Kazakhstan</option><option value="KE">Kenya</option><option value="KI">Kiribati</option><option value="KW">Kuwait</option><option value="KG">Kyrgyzstan</option><option value="LA">Laos</option><option value="LV">Latvia</option><option value="LB">Lebanon</option><option value="LS">Lesotho</option><option value="LR">Liberia</option><option value="LY">Libya</option><option value="LI">Liechtenstein</option><option value="LT">Lithuania</option><option value="LU">Luxembourg</option><option value="MO">Macao</option><option value="MK">Macedonia</option><option value="MG">Madagascar</option><option value="MW">Malawi</option><option value="MY">Malaysia</option><option value="MV">Maldives</option><option value="ML">Mali</option><option value="MT">Malta</option><option value="MH">Marshall Islands</option><option value="MQ">Martinique</option><option value="MR">Mauritania</option><option value="MU">Mauritius</option><option value="YT">Mayotte</option><option value="MX">Mexico</option><option value="FM">Micronesia</option><option value="MD">Moldova</option><option value="MC">Monaco</option><option value="MN">Mongolia</option><option value="ME">Montenegro</option><option value="MS">Montserrat</option><option value="MA">Morocco</option><option value="MZ">Mozambique</option><option value="MM">Myanmar</option><option value="NA">Namibia</option><option value="NP">Nepal</option><option value="AN">Netherlands Antilles</option><option value="NC">New Caledonia</option><option value="NZ">New Zealand</option><option value="NI">Nicaragua</option><option value="NE">Niger</option><option value="NG">Nigeria</option><option value="NU">Niue</option><option value="NF">Norfolk Island</option><option value="MP">Northern Mariana Islands</option><option value="KP">North Korea</option><option value="NO">Norway</option><option value="OM">Oman</option><option value="PK">Pakistan</option><option value="PW">Palau</option><option value="PA">Panama</option><option value="PG">Papua New Guinea</option><option value="PY">Paraguay</option><option value="PE">Peru</option><option value="PH">Philippines</option><option value="PN">Pitcairn Islands</option><option value="PL">Poland</option><option value="PT">Portugal</option><option value="PR">Puerto Rico</option><option value="QA">Qatar</option><option value="RE">Reunion</option><option value="RO">Romania</option><option value="RU">Russia</option><option value="RW">Rwanda</option><option value="GS">S. Georgia &amp; S. Sandwich Islands</option><option value="KN">Saint Kitts and Nevis</option><option value="LC">Saint Lucia</option><option value="WS">Samoa</option><option value="SM">San Marino</option><option value="SA">Saudi Arabia</option><option value="SN">Senegal</option><option value="RS">Serbia</option><option value="CS">Serbia and Montenegro</option><option value="SC">Seychelles</option><option value="SL">Sierra Leone</option><option value="SG">Singapore</option><option value="SK">Slovakia</option><option value="SI">Slovenia</option><option value="SB">Solomon Islands</option><option value="SO">Somalia</option><option value="ZA">South Africa</option><option value="KR">South Korea</option><option value="ES">Spain</option><option value="LK">Sri Lanka</option><option value="VC">St. Vincent &amp; Grenadines</option><option value="SD">Sudan</option><option value="SR">Suriname</option><option value="SZ">Swaziland</option><option value="SE">Sweden</option><option value="CH">Switzerland</option><option value="SY">Syria</option><option value="TW">Taiwan</option><option value="TJ">Tajikistan</option><option value="TZ">Tanzania</option><option value="TH">Thailand</option><option value="BS">The Bahamas</option><option value="NL">The Netherlands</option><option value="TG">Togo</option><option value="TK">Tokelau</option><option value="TO">Tonga</option><option value="TT">Trinidad and Tobago</option><option value="TN">Tunisia</option><option value="TR">Turkey</option><option value="TM">Turkmenistan</option><option value="TC">Turks and Caicos Islands</option><option value="TV">Tuvalu</option><option value="UG">Uganda</option><option value="UA">Ukraine</option><option value="AE">United Arab Emirates</option><option value="UK">United Kingdom</option><option value="US">United States</option><option value="UY">Uruguay</option><option value="UM">US Minor Outlying Islands</option><option value="VI">US Virgin Islands</option><option value="UZ">Uzbekistan</option><option value="VU">Vanuatu</option><option value="VA">Vatican City</option><option value="VE">Venezuela</option><option value="VN">Vietnam</option><option value="WF">Wallis and Futuna</option><option value="PS">West Bank and Gaza</option><option value="EH">Western Sahara</option><option value="YE">Yemen</option><option value="ZM">Zambia</option><option value="ZW">Zimbabwe</option>
                                         </select>
                                     </li>
                                 </ul>
                             </li>
                             <li class="participate topmenu">
-                                <a href="/lists">Participate</a>
+                                <a href="/lists">Get Involved</a>
                                 <ul class="submenu clearfix">
                                     <li>
                                         <a href="/lists">
@@ -351,7 +435,7 @@
         <div id="content">
             <h1>Privacy Policy</h1>
             
-                <div id="sidebar" class="no-print" style="height: 3231px;">
+                <div id="sidebar" class="no-print" style="height: 3121px;">
                     <div>
                         <dl id="nav-section">
 
@@ -443,147 +527,106 @@
 
                 <div id="main-about">
                     <div id="copy">
-                        <h2>PRIVACY STATEMENT</h2> 
+                        <h2>PRIVACY STATEMENT</h2>
 
-<br>
+<p> Herdict is committed to respecting and protecting your personal privacy. This Privacy Statement explains how the Herdict project (“Herdict”) uses and stores information it collects through the Services (as defined below). Please review this Privacy Statement carefully before using any of the functionality or services offered through the herdict.org website (the “Website”) or any other applications offered by Herdict, including the reporting function (the “Reporter”), the browser add-on (the “Add-on”), and any other functionality or services associated with or offered by Herdict (collectively, the “Services”). Your use of the Services indicates your agreement with the terms of the Privacy Statement. Because this statement may change at any time with or without notice to users, please check back for updates to this Privacy Statement.</p>
 
-<p>This Privacy Statement governs the Herdict Web project ("Herdict Web") at the Berkman Center for Internet and Society ("BCIS"), which includes the Herdict Web Site (the "Herdict Web Site"), the Herdict Reporter (a part of the Herdict Web Site) (the "Reporter"), the Herdict Commons (a part of the Herdict Web Site) (the “Herdict Commons”), and the Herdict Web Browser Add-on (the "Add-on").  For the purposes of this Privacy Statement, “Herdict” will be used to refer to BCIS, Herdict Web, the Herdict Web Materials, and any other associated projects, web sites, or services. For more information on how Herdict Web works, <a href="http://www.herdict.org/web/about">click here</a>. </p>
-
-<p>We are committed to respecting and protecting your personal privacy. This Privacy Statement describes what information the site collects, how this information is used, and with whom we may share the information. Your submission of data to the site indicates your agreement with the terms of the Privacy Statement. Because this statement may change, please check back for updates to this Privacy Statement.</p>
-
-<p>Continue reading to learn what data we collect and what we will and will not do with it.<br> </p>
-
-<p><b><u>Information Collected</u></b></p>
-
-<p><b><i>What we collect:</i> </b></p>
-
+<p>Continue reading to learn what data Herdict collects and what Herdict will and will not do with it.</p>
 <p>
-Herdict Web logs the Internet Protocol (IP) address of the computer you are using when you visit any part of the site, the browser version that you are using to access the site, and the operating system installed and running on the computer that you are using, as well as information about navigation through pages of the site. Herdict Web does this through the use of session cookies, which are temporary files that are erased when you close all browser windows. These cookies are in place to help the site work properly and to improve the user experience and will not be used to track your individual use of the site.
-</p>
+<b><u>Collection of Information</u></b> </p>
 
-<p>
-We also may use these logs or other information you provide us, including publicly available information posted to the Herdict Commons, to compile aggregate data for research purposes. We may share such information, other than your email address, with third parties who are engaged in research that we believe in good faith is legitimate and who agree to use the information for research purposes only. This information will be studied and/or shared only in the aggregate, and never in connection with your personally identifying information.</p>
+<p><i>The Website</i></p>
 
-<p>While it is our standard policy not to use IP address logs to track the sessions of individual users, there are some important exceptions. These exceptions include cases of reported violations of our Terms of Service, and in cases where we are required to so by law enforcement (see “Disclosure of Information to Law Enforcement” below).</p>
+<p> When you visit any part of the Website, the following information may be collected, stored and retained by Herdict:</p>
+<ul>
+<li>the Internet Protocol (IP) address of the computer you are using,</li>
+<li>the version of the browser you are using,</li>
+<li>the operating system running on the computer that you are using, and </li>
+<li>information about your navigation through pages of the site.</li> </ul>
 
-<p>If you choose to sign up for a Herdict Commons account, you will need to provide us with a username, password, and email address. That email address will be used for the purposes of account registration verification, as well as any occasional necessary communications directly related to the logistics of your account. If you elect to sign up for additional opt-in emails from Herdict Commons, such as newsletters or emailed alerts about activity on the site, we will use your email address only for the purpose of sending you those additional messages for which you have opted in. We will not share your email address with any other parties without your consent.</p>
+<p>Herdict may collect site navigation information by using session cookies, which are temporary files stored on your browser that are erased when you close all browser windows. Herdict uses these cookies to help the site work properly and to improve the user experience. Herdict also uses persistent cookies to store certain information about you across different browsing sessions.  You can block or delete cookies using standard web browser controls.</p>
 
-<p>Users may also be able to sign up with an OpenID account, in which case we will collect your OpenID nickname, identity URL, and email address upon registration. We may also allow users to log in using their Twitter account, in which case we collect information according to their Terms of Service.  Please review their <a href="http://twitter.com/tos">Terms of Service</a> and <a href="http://twitter.com/privacy">Privacy Policy</a> before logging in with your Twitter account. In the future, we may allow users to log in using account information from other third-party services.  In such cases, we will collect information according to the Terms and Conditions of those services, and ask that you review their Terms and Privacy Policies before logging in using such accounts.</p>
+<p>Please note that while it is our standard policy not to use IP address logs to track the sessions of individual users, there are some important exceptions. These exceptions include cases of reported violations of our Terms of Service, and in cases where we are required to do so by law enforcement (see “<a href="#LawEnforcement">Disclosure of Information to Law Enforcement</a>“ below).</p>
 
-<p><i>Reporter and Add-on</i> </p>
-<p>The Reporter transmits to our servers the URL of the reported site, the IP address of the reported site, your IP address, whatever information you have provided in the fields next to the buttons labeled "Page," "Country," "ISP," "Access Location," "Tags," and "Comments," and whether you marked a particular web site Accessible or Inaccessible. In addition, any reports made through the Add-on will transmit the same information to our servers. Some of these fields may be pre-populated based on your location (as determined by your IP address). Note that the complete URL of the site visited may not be collected -- the Reporter and the Add-on do not always collect the URLs of individual Web pages. For example, if you visit http://cyber.law.harvard.edu/about, the Reporter and the Add-on may only collect "cyber.law.harvard.edu." You do not need to provide your email address to use the Reporter or the Add-on. However, you may voluntarily provide your email address to Herdict Web to receive notifications of updates regarding our project. There is a separate field on the Herdict Web Site in which to enter your e-mail address for this purpose.</p>
+<p><i>Reporter</i></p> 
 
-
-<p><i>Publicly Submitted Information</i> </p>
-<p>If you elect to sign up for and participate in the Herdict Commons community, any content you contribute or other information you submit to public areas of the site may be publicly displayed, including personally identifying information. This includes information you include in your public user profile, and information you include in messages posted to the community forums. Your user name is displayed to viewers of Herdict Commons along with messages or other information that you publicly submit. Much of the content available on Herdict Commons is created by users of the site, and not by Herdict or its staff and affiliates.</p>
-
-<p>Should you include additional personally identifying information in messages you post to Herdict Commons, your user profile, or other parts of the site, please note that this information will be publicly viewable. We do not ask you for personally identifying information, and we strongly encourage you not to include such information in your posts to Herdict Commons, except for the minimum amount necessary to make use of the help available from the Herdict Commons community.</p>
-
-<p><b><i>What we'll do with it:</i></b> </p>
-
-<p>
-We will use the collected information to make aggregate statistics publicly available on the Herdict Web Site. We may also use the information for research purposes in conjunction with third-parties. The URLs that you submit, and the contents of the "ISP," "Tags," and "Comments" fields you submit with the URLs, will be available for others to see on the Herdict Web Site. The URLs that you submit (and the corresponding web sites) may also be reviewed to determine whether the web site contains adult material and the like. Herdict Web will use your e-mail address, if you choose to voluntarily provide it, to notify you of updates to our project, including, for example, new releases to our software. 
-</p>
-
-<p>
-All of your stored data may be accessed by our system administrators. Because Herdict Web is part of the BCIS, which is run by Harvard University, the administrators may produce these records and data to Harvard's Administrative Dean, Dean of Students, or the Administrative Board, upon request or suspected violation of our <a href="/web/terms">Terms and Conditions</a>. 
-</p>
-
-<p><i>Google Analytics</i></p>
-
-<p>
-We make some of the information the site automatically collects available to Google Inc. for the purpose of using Google Analytics, a service that helps us to better understand how our visitors use Herdict and how the site can be improved. This information may include IP addresses and browser versions used by visitors, the pages visited on the site, and other information. This data is analyzed in the aggregate, and individuals are not tracked. No personally identifying information will be submitted to Google for the purposes of the Google Analytics service, and Google Analytics is governed by Google, Inc.’s <a href="http://www.google.com/privacypolicy.html">Privacy Policy</a>. We also reserve the right to use additional web site analytics services provided by vendors in addition to Google, Inc. in the future, so please check back for updates to this section.
-</p>
-
-<p><i>Disclosure of Information to Law Enforcement</i> </p>
-<p>
-If we receive a warrant or subpoena for user information, including information colleted from you during report submission, or are otherwise legally compelled to provide such information, we may disclose requested records to law enforcement authorities or outside parties seeking information through the legal process. In the event that we are required by law (including a court order) to disclose the information you submit, and we have your contact information, we will provide you with notice (unless we are prohibited from doing so) that a request for your information has been made so that you may object to the disclosure. We will send this notice by e-mail to the address you have given us.  We prefer to independently object to overbroad requests for access to information about users of the Herdict Web Site, but we do not know that we will be able to do so in all cases. If you do not challenge the disclosure request yourself, we may be legally required to turn over your information, including information you submitted in your reports.</p>
-
-
-<p><i>What we won't do with it:</i> </p>
-
-<p></p>
-
-<p>
-We will never publicly display your IP address on the Herdict Web Site.  We will never rent or sell your information to anyone. We will not share your name or e-mail address with third parties except with your consent, and only on the condition that the third parties agree not to use your name or e-mail for commercial purposes.
-</p>
-
-<p>
-<b><u>
-Add-on Users Only
-</u></b>
-</p>
-
-<p>
-If you have installed the Add-on, the following default browsing actions occur whenever you direct your browser to a new Web site, regardless of whether you make a report:
-</p>
-
-
-
-<p>
-</p><ul>
-<li><p>-The Add-on collects the URL of each site that you visit, together with your IP address. This information is transmitted to our servers.  </p></li>
-<li><p>-Our servers look in a database to see if other users can see the site at that URL, and the result is transmitted back to the Add-on and appears as an orange, yellow, gray, or green sheep icon.</p></li>
-<li><p>-Your IP address and the URL visited are not used for any other purposes; however, they may be retained indefinitely in our server logs. 
-You may install the Add-on but choose to opt out of the default browsing actions.  If you do so, whenever you direct your browser to a new Web site, the Add-on will no longer collect the URL of each site that you visit or your IP address, with the exception that any reports you make through the Add-on will still cause the Add-on to collect this information.</p></li>
+<p>When you use the Reporter, it transmits the following information to our servers:</p>
+<ul>
+<li>the URL of the reported site,</li>
+<li>the IP address of the reported site,</li>
+<li>your IP address, </li>
+<li>whatever information you have provided in the fields next to the buttons labeled “Page,” “Country,” “ISP,” “Access Location,” “Tags,” and “Comments” and </li>
+<li>whether you marked a particular website Accessible or Inaccessible.  </li>
 </ul>
-<p></p>
 
-<p>
-<b><u>
-Jurisdiction
-</u></b>
-</p>
-
-<p>
-Herdict Web is based in the United States, and the servers and data processors used to maintain this site are located in the U.S. Please note that any personally identifiable information we obtain about you will be stored under U.S. privacy standards and regulations.
-</p>
-
-<p>
-<b><u>
-Links to Independent Web Sites
-</u></b>
-</p>
-
-<p>Pages hosted by the site may link to independently-run web sites. We are not responsible for the privacy practices or content of such web sites.</p>
-
-<p>
-<b><u>
-Children’s Privacy
-</u></b>
-</p>
-
-<p>You must be at least 13 years of age to submit information to the Herdict Web Site. The site is intended for adults and we do not knowingly collect personal information from children under 13 years old. If you are a parent or legal guardian of a child under age 13 who you believe has submitted personal information to the site, please contact us immediately at contact at herdict dot org.</p>
+<p>Some of these fields may be pre-populated based on your general location (as determined by your IP address). Note that the complete URL of the site visited may not be collected -- the Reporter (and the Add-on) do not always collect the URLs of individual Web pages. For example, if you visit http://cyber.law.harvard.edu/about, the Reporter and the Add-on may only collect “cyber.law.harvard.edu.”</p>
  
-<p>
-<b><u>
-Changes to the Privacy Statement
-</u></b>
-</p>
+<p>Please note that any personally identifying information you provide in the “Comments” field when you use the Reporter Services will be publicly viewable on the Website. We do not ask you for personally identifying information, and we strongly encourage you not to include such information in your reports.</p>
 
-<p>We retain the right to make changes, in our sole discretion, to this Privacy Statement. Any changes will be reflected in the Privacy Statement when the changes take effect. The privacy policies that apply to any information you submit will be those contained in the Privacy Statement that is in effect and posted on the site at the time that you submit the information. Please review the Privacy Statement each time you use the site.</p>
+<p><i>Add-on</i></p>
  
-<p>
-<b><u>
-Effective Date
-</u></b>
-</p>
+<p>When you use the Add-on to make a report, we receive the same information that we would receive if you were making the report through the Reporter, namely, the URL of the reported site, the IP address of the reported site, your IP address, whatever information you have provided in the fields next to the buttons labeled “Page,” “Country,” “ISP,” “Access Location,” “Tags,” and “Comments,” and whether you marked a particular website Accessible or Inaccessible.  </p>
 
-<p>This Privacy Statement is effective as of November 1, 2009.</p>
+<p>In addition, the Add-on collects and transmits the following information to Herdict's servers, <b><i>regardless of whether you make a report</i></b>:</p>
+<ul>
+<li>The Add-on automatically collects the URL of each site that you visit, together with your IP address. This information is transmitted to our servers. </li>
+<li>Our servers look in a database to see if other users can access the site at that URL, and the result is transmitted back to the Add-on and appears as an orange, yellow, gray, or green sheep icon. Your IP address and the URL visited are not used for any other purpose, but may be retained in our server logs.</li>
+<li>You may install the Add-on but choose to opt out of the default browsing actions described above. If you do so, whenever you direct your browser to a new website, the Add-on will no longer collect the URL of each site that you visit or your IP address, with the exception that any reports you make through the Add-on will still cause the Add-on to collect this information.</li>
+<li>You may choose not to download or use the Add-on without impacting any other functionality offered through the Services.  </li>
+</ul>
 
-<p>
-<b><u>
-Contacting Us
-</u></b>
-</p>
+<p><b><i>Use and Sharing of Information </i></b></p>
 
-<p>If you have any questions about this Privacy Statement, you may contact us by email at contact at herdict dot org, or by mail to:</p>
+<p><i>Use of Information</i></p>
+
+<p>We use the information we collect and that you provide directly to us for the following general purposes:  </p>
+<ul>
+<li><b>To make aggregate statistics publicly available on the Website.</b> The URLs that you submit, and the contents of the “ISP,” “Tags,” and “Comments” fields you submit with the URLs, will be available for others to see on the Website. The URLs that you submit (and the corresponding websites) may also be reviewed to determine whether the website contains adult material, malicious code, or anything else that may harm Herdict or its users. Please note that the data available on our website is also available for download and use, subject to the limitations set forth in our Terms and Conditions.</li>
+<li><b>If you give us your email address,</b> it will be used for account registration verification, as well as any occasional necessary communications directly related to the logistics of your account.  Herdict may also use your email address for other communications such as notifying you of updates to our project or new releases to our software.</li>
+</ul>
+<p>All of your stored data may be accessed by our system administrators. Because Herdict is part of the Berkman Center for Internet and Society, which is run by Harvard University, the administrators may produce these records and data to Harvard's Administrative Dean, Dean of Students, or the Administrative Board, upon request or suspected violation of our Terms and Conditions. </p>
+
+<p><i>Sharing Information with Third Parties</i></p>
+
+<p>Herdict enables you to share certain information via third party sites or services, such as Facebook and Twitter.  In addition, the Services may link to independently-run websites.  For example, Herdict may automatically direct your browser to load independently run websites in order to facilitate the reporting process or may provide direct hyperlinks to such sites.  Please note that these third-parties may collect certain data about your computer, including your IP address, and that any information collected by or shared through these third-party websites and services will be used and shared by those sites and services according to their privacy policies and settings. Herdict is not responsible for the privacy practices or content on third-party websites and services.  </p>
+
+<p>Herdict is currently affiliated with BCIS, which is run by Harvard University.  If Herdict changes its affiliation or becomes controlled by a different organization, it reserves the right to transfer user information as part of that change of control transaction.</p>
+
+<p>Herdict also makes some of the information that Herdict collects through the Services available to select third-party service providers and partners in order to assist Herdict in the delivery of its Service, such as by managing contact lists and helping us better understand how our visitors use the Services in order to improve upon them.  This information may include IP addresses and browser versions used by Herdict’s visitors; the pages visited on the site; and other similar information. Except to the extent Herdict uses a third party to help manage its email lists (for instance to make sure we honor opt-outs), Herdict works with third-party service providers only to understand aggregate usage of the Services; our service providers do not collect personally identifiable information about users. </p>
+
+<p><i><a name="#LawEnforcement">Disclosure of Information to Law Enforcement</a></i></p>
+
+<p>If we receive a warrant or subpoena for user information (including information collected from you during report submission) or are otherwise legally compelled to provide such information, we may disclose requested records to law enforcement authorities or outside parties seeking information through the legal process. In the event that we are required by law (including by a court order) to disclose the information you submit, and we have your contact information, we will provide you with notice (unless we are prohibited from doing so) that a request for your information has been made so that you may object to the disclosure. We will send this notice by e-mail to the address you have given us. We generally intend to independently object to overbroad requests for access to information about users of Herdict, but we may not be able to do so in all cases. If you do not challenge the disclosure request yourself, we may be legally required to turn over your information, including information you submitted in your reports.</p>
+
+<p><i>What we won't do with the information we collect: </i></p>
+
+<p>We will never publicly display your IP address on the Services. We will never rent or sell your information to anyone. We will not share your name or e-mail address with third parties except as described in this Privacy Statement or with your consent, and only on the condition that the third parties agree not to use your name or e-mail for commercial purposes.</p>
+
+<p><b><u>Jurisdiction</u></b></p>
+
+<p>Herdict is based in the United States, and, regardless of where you use Herdict or otherwise provide information to Herdict, the information will be transferred to and maintained on servers located in the U.S.  Please note that any information we obtain about you will be stored in accordance with U.S. privacy laws, regulations, and standards, which may not be equivalent to the laws in your country of residence. By using Herdict or by providing us with your information, you consent to this collection, transfer, storage, and processing of information to and in the U.S.</p>
+
+<p><b><u>Children’s Privacy</u></b></p>
+
+<p>You must be at least 13 years of age to submit information to Herdict. The Website, the Reporter, and the Add-on are intended for adults, and Herdict does not knowingly collect personal information from children under 13 years old. If you are a parent or legal guardian of a child under age 13 who you believe has submitted personal information to the site, please contact us immediately at: contact at <i>herdict dot org</i>.</p>
+
+<p><u><b>Changes to the Privacy Statement</b></u></p>
+
+<p>We retain the right to make changes, in our sole discretion, to this Privacy Statement. Any changes will be reflected in the Privacy Statement when the changes take effect. The privacy policies that apply to any information collected by Herdict will be those contained in the Privacy Statement that is in effect and posted on the site at the time that the information is collected. Please review the Privacy Statement each time you use the Services.</p>
+
+<p><u><b>Effective Date</b></u></p>
+
+<p>This Privacy Statement is effective as of March 15, 2013.</p>
+
+<p><u><b>Contacting Us</b></u></p>
+<p>If you have any questions about this Privacy Statement, you may contact us by email at: <i>contact at herdict dot org</i>, or by mail to:</p>
+
 <p>Herdict<br>
 Berkman Center for Internet &amp; Society<br>
 Harvard Law School<br>
 23 Everett Street, 2nd Floor<br>
-Cambridge, MA 02138</p>
-                    </div>
+Cambridge, MA 02138<br>
+                    </p></div>
                 </div>
             
         </div>
@@ -679,7 +722,12 @@ Cambridge, MA 02138</p>
                         </ul>
                         <ul class="footer-links">
                             <li>
-                                <a href="/explore/indepth">Explore</a>
+                                <a href="/explore/indepth">Investigate Data</a>
+                            </li>
+                            <li>
+                                <a href="http://www.herdict.org/blog/">
+                                    Blog
+                                </a>
                             </li>
                         </ul>
                     </div>
@@ -709,4 +757,4 @@ Cambridge, MA 02138</p>
 
     
     
-<ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" role="listbox" aria-activedescendant="ui-active-menuitem" style="z-index: 301; top: 0px; left: 0px; display: none;"></ul></body></html>
+<ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" role="listbox" aria-activedescendant="ui-active-menuitem" style="z-index: 401; top: 0px; left: 0px; display: none;"></ul></body></html>
