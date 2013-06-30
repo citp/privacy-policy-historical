@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the optmd.com privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211031850id_/http%3A//optmd.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optmd.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630092623id_/http%3A//www.optmd.com/privacy.html) for the most accurate reproduction.*
 
-# OptMD.com > Privacy Policy
+# OptMD.com > Privay Policy
 
 |   
----  
-  
-|  |  |   
 ---  
 | | 
 
@@ -34,7 +31,7 @@ OptMD uses cookies for the purpose of tracking when an Internet user has seen an
 OptMD uses both session and persistent cookies on our website. These are needed for site navigation and to perform aggregate analysis of what is viewed on our site. 
 
 **Opt-Out  
-** Consumers have the unrestricted ability to opt out of all OptMD paid advertising, cookies and tracking at any time by utilizing our opt out mechanism. In place of paid advertising, users who have opted out will receive unpaid, public service announcements (PSAs). [Please click here to access our opt-out mechanism](https://web.archive.org/optout.html).
+** Consumers have the unrestricted ability to opt out of all OptMD paid advertising, cookies and tracking at any time by utilizing our opt out mechanism. In place of paid advertising, users who have opted out will receive unpaid, public service announcements (PSAs). [Please click here to access our opt-out mechanism](https://web.archive.org/index.html).
 
 **Collection and Use of Non-Personally Identifiable Information  
 ** All information shared with both OptMD advertisers and publishers is done so in an aggregate fashion. This allows us to provide those who use our services with broad percentages regarding the users who are receiving advertisements delivered by OptMD. However, this data is not linked to any form of Personally Identifiable information. 
@@ -57,15 +54,4 @@ We reserve the right to disclose your personally identifiable information as req
 ** OptMD may find it necessary to update this Privacy Policy from time to time. Any changes will be posted at this site. Except as otherwise required by law, any modifications made to this Privacy Policy will not materially affect the privacy of data collected by OptMD prior to the effective date of the policy change. 
 
 |   
----|---|---  
-   
-  
-|  | **[](http://iab.net/)Interactive Advertising Bureau  
-**  
-The IAB educates marketers, agencies, media companies and the wider business community about the value of interactive advertising. Working with its member companies, the IAB evaluates and recommends industry standards and practices.  
----|---  
-  
-[CLICK TO   
-OPT OUT » ](https://web.archive.org/optout.html)You must have cookies enabled on your browser for the opt out to take effect. If you clear your cookies, the opt out will be deleted and you will need to opt out again. Cookies are the only means by which we can control ad delivery.
-
-**WARNING:** By opting out you are taking an active position not to support the pubilshers whose websites you visit and whose content you consume free of charge. In doing so you threaten the long term viability of their operations.
+---|---|---
