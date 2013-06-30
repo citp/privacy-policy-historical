@@ -1,24 +1,23 @@
-<!--The following is the downloaded HTML source of the gene.com privacy policy that was archived on 2012-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121231000817id_/http%3A//www.gene.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gene.com privacy policy that was archived on 2013-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130630040606id_/http%3A//www.gene.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js no-touch hashchange rgba multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients csstransforms csstransforms3d csstransitions fontface generatedcontent video audio" lang="en"><!--<![endif]--><head>
 	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	
+
 	<title>Genentech: Privacy Policy</title>
 	<meta name="description" content="">
-	<meta name="author" content="">	
+	<meta name="author" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-		
+	
 	<link rel="stylesheet" href="http://fast.fonts.com/cssapi/27f61167-9264-457b-9f5d-e102c0da5b27.css">
 	<link rel="stylesheet" href="/assets/frontend/css/style.css">
-
+		
 	<link rel="icon" href="/assets/frontend/img/favicon.ico">
 	<link rel="apple-touch-icon-precomposed" href="/assets/frontend/img/apple-icon-touch.png">
 
-		
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script><script src="/assets/frontend/js/vendor/modernizr-2.6.0.min.js"></script>
-  
+	
+	<script type="text/javascript" src="//d1l6p2sc9645hc.cloudfront.net/tracker.js"></script><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0012/7748.js?438993" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" charset="UTF-8" src="//rum-static.pingdom.net/prum.min.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script><script src="/assets/frontend/js/vendor/modernizr-2.6.0.min.js"></script>
+
 	<script>
 	var jQ = {
 		queue: [],
@@ -32,57 +31,28 @@
 		}
 	};
 	if (typeof window.jQuery == 'undefined') { window.jQuery = window.$ = jQ.ready; }
-	
+
+	var Gene = { universal: {}, configs: {}, main: {}, features: {}, custom: {} };
+	Gene.configs.paths = {
+		prepend : '/'
+	}
+
 	Modernizr.load([
 	{
-				load: '//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js',
+		load: '//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js',
 		callback: function (url, result, key) {
 					if ( !window.jQuery.attr ){
 				// CDN load failed. Load local
-				Modernizr.load({
-					load: '/assets/frontend/js/vendor/jquery-1.7.2.min.js'
-				}); 	
+				Modernizr.load('/assets/frontend/js/vendor/jquery-1.7.2.min.js');
 			}
 		}
-	},
-	{	// Polyfill media queries
+	},{	// Polyfill media queries
 		test: Modernizr.mq('only all'),
 		nope: '/assets/frontend/js/vendor/respond.min.js'
-	},
-	{
-		load: '/assets/frontend/js/plugins.js'
-	},
-	{
-		load: '/assets/frontend/js/main.js',
-		callback: function(url, result, key) {
-			jQ.unq(); 		}
-	},
-	{	// Polyfill placeholder
-		test: Modernizr.input.placeholder,
-		nope: [
-			'/assets/frontend/js/vendor/placeholder_polyfill.min.css',
-			'/assets/frontend/js/vendor/placeholder_polyfill.jquery.min.combo.js'
-			]
-	},
-	{	// Date placeholder
-		test: Modernizr.inputtypes.date,
-		nope: [
-			'/assets/frontend/js/vendor/jquery-ui/overcast/jquery-ui-1.9.1.custom.min.css',
-			'/assets/frontend/js/vendor/jquery-ui/jquery-ui-1.9.1.custom.min.js'
-		],
-		callback: function(url, result, key) {
-			if( key == 1 ) {
-				// If date input type detection fails, polyfill (after js has loaded)
-				$('input[type="date"]').datepicker({
-					dateFormat: 'yy-mm-dd'
-				});
-			}
-		}
 	},{
 		load: '/assets/frontend/js/genecorp.js',
 		callback: function() {
 			// Pull in optional in-template Omniture vars
-			// @todo: Move this into a function
 			if( typeof(omnitureVars) === 'object' ) {
 				for( prop in omnitureVars ) {
 					s[prop] = omnitureVars[prop];
@@ -103,23 +73,62 @@
 
 			// Write out final Omniture code
 			var s_code = s.t(); if( s_code ) document.write( s_code );
-
+		}
+	},{
+		load: ['/assets/frontend/js/plugins.js', '/assets/frontend/js/analytics.js']
+	},{
+		load: '/assets/frontend/js/main.js',
+		callback: function() {
+			jQ.unq();
+			$(function() {
+				// Initialize custom classes
+				for (var classname in Gene.custom) {
+					if( classname != 'configs' ) {
+						Gene.custom[classname].init();
 					}
-	}	,
-	{
-		load: '/assets/frontend/js/analytics.js'
-	}
-	]);
+				}
+			});
+		}
+	},{	// Polyfill placeholder
+		test: Modernizr.input.placeholder,
+		nope: [ '/assets/frontend/js/vendor/placeholder_polyfill.min.css',
+			'/assets/frontend/js/vendor/placeholder_polyfill.jquery.min.combo.js' ]
+	},{	 // Date placeholder
+		test: Modernizr.inputtypes.date,
+		load: [ '/assets/frontend/js/vendor/jquery-ui/overcast/jquery-ui-1.9.1.custom.min.css',
+			'/assets/frontend/js/vendor/jquery-ui/jquery-ui-1.9.1.custom.min.js' ],
+		callback: function(url, result, key) {
+			// Only run once
+			if( key != 1 ) return;
+
+			$(function() {
+				// Polyfill
+				if( result == false ) {
+					// If date input type detection fails, polyfill (after js has loaded)
+					$('input[type="date"]').datepicker({
+						dateFormat: 'yy-mm-dd'
+					});
+				}
+				// Temporary webkit workaround
+				var tomorrow = new Date();
+				tomorrow.setDate( tomorrow.getDate() + 1 );
+
+				$('.datepicker-future-only').datepicker({
+					dateFormat: 'yy-mm-dd',
+					minDate: tomorrow
+				});
+			});
+		}
+	}	]);
 	</script>
+
+	<script type="application/javascript">var _prum={id:"5166ef76e6e53dde1d000002"};var PRUM_EPISODES=PRUM_EPISODES||{};PRUM_EPISODES.q=[];PRUM_EPISODES.mark=function(b,a){PRUM_EPISODES.q.push(["mark",b,a||new Date().getTime()])};PRUM_EPISODES.measure=function(b,a,b){PRUM_EPISODES.q.push(["measure",b,a,b||new Date().getTime()])};PRUM_EPISODES.done=function(a){PRUM_EPISODES.q.push(["done",a])};PRUM_EPISODES.mark("firstbyte");(function(){var b=document.getElementsByTagName("script")[0];var a=document.createElement("script");a.type="text/javascript";a.async=true;a.charset="UTF-8";a.src="//rum-static.pingdom.net/prum.min.js";b.parentNode.insertBefore(a,b)})();</script>
 
 </head>
 
 <body>
-<!--[if lt IE 9]><p class=chromeframe>Yikes. Your browser is too old to display this website properly. Please <a href="http://browsehappy.com/">upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
-
-
 <header class="primary-header clearfix">
-	<div class="clearfix constrained logo-utlitiy-nav">
+	<div class="clearfix constrained">
 		<a id="logo-container" href="/"><h1 class="logo"><img src="/assets/frontend/img/logo.png" alt="Genentech - A Member of the Roche Group" class="has-high-res"></h1></a>
 		<div class="utility-nav">
 		<ul class="hlist">
@@ -128,14 +137,14 @@
 				<li><a href="/contact-us"><i class="icon-envelope-alt icon-large"></i> Contact Us</a></li>
 				<li class="search-link"><a href="/meta/search"><i class="icon-search icon-large"></i> Search</a></li>
 				<li class="search-item">
-					<form action="/meta/search" method="get"> 
+					<form action="/meta/search" method="get">
 						<input id="search-input" class="search-input" type="search" name="q" placeholder="Search gene.com"></form></li>
 					
 				
 			</ul>
 		</div>
 	</div>
-	
+
 	<nav class="primary-nav">
 		<div class="constrained">
 			<ul class="hlist">
@@ -160,61 +169,27 @@
 						</ul>
 		</div>
 	</nav>
-</header><div class="main wo-hero">
+</header>
+<div class="main wo-hero">
 	
 	<div class="hero"></div>
 
 	<div class="constrained has-grid clearfix">
 
 		<div class="primary-rail">
-		<nav class="secondary-nav"><h1><a href="/meta">Meta</a></h1><ul><li><a href="/meta/terms-conditions">Terms &amp; Conditions</a></li><li><a href="/meta/privacy-policy">Privacy Policy</a></li></ul></nav>	
+		<nav class="secondary-nav"><ul><li><a href="/meta/terms-conditions">Terms &amp; Conditions</a></li><li><a href="/meta/privacy-policy">Privacy Policy</a></li></ul></nav>	
 	    
             
 	
     	<aside class="share-this">
 		Share this<br>
 		
-		<div class="modal email-share-modal modal-form" data-modal-set="email-share">
-			<h2>Share Link Via Email</h2>
-			<section>
-			<form id="email-share-form" action="http://www.gene.com/page/send_share_email" method="post" class="form-horizontal">
-				<fieldset>
-					<div class="field-group"><label for="sender_name">Your Name</label><input type="text" id="sender-name" name="sender_name"></div>
-					<div class="field-group"><label for="sender-email">Your Email*</label><input type="email" class="email required" id="sender-email" name="sender_email"></div>
-					<div class="field-group"><label for="recipient-self">Send to me</label> <input type="checkbox" id="recipient-self" name="recipient_self"></div>
-					<div class="field-group"><label for="recipient-email">Recipient Email*</label><input type="email" class="email required" id="recipient-email" name="recipient_email"></div>
-					<div class="field-group"><label for="notes">Optional Notes</label>
-						<textarea id="notes" name="notes" rows="5" cols="10"></textarea></div>
-					<input name="share_url" type="hidden" value="http://www.gene.com/privacy-policy">
-					<div class="field-group">
-						<label for="recaptcha_response_field" style="float:left;"></label>
-						<div class="recaptcha-container" style="float:left;">
-							
- <script type="text/javascript">
- var RecaptchaOptions = {
-    theme : 'clean'
- };
- </script>
-<script type="text/javascript" src="http://www.google.com/recaptcha/api/challenge?k=6LeH_tgSAAAAANj1-PmAsdFo8cEpMD5MpDm7IWeD"></script>
-
-	<noscript>
-  		<iframe src="http://www.google.com/recaptcha/api/noscript?k=6LeH_tgSAAAAANj1-PmAsdFo8cEpMD5MpDm7IWeD" height="300" width="500" frameborder="0"></iframe><br/>
-  		<textarea name="recaptcha_challenge_field" rows="3" cols="40"></textarea>
-  		<input type="hidden" name="recaptcha_response_field" value="manual_challenge"/>
-	</noscript>						</div>
-					</div>
-					<div class="field-group"><label for="notes" style="float:left;"></label>
-						<input type="submit" value="Send Email" class="multi-line-button primary tight" style="float:left;"></div>
-					
-				</fieldset>
-					
-										
-			</form></section>
+		<div class="modal email-share-modal modal-form" data-modal-set="email-share" data-current-url="http://www.gene.com/privacy-policy">
 		</div>
 		
 	
 		
-		<a href="#" role="button" class="modal-link" data-modal-set="email-share"><img alt="Email" class="share-icon email" src="/assets/frontend/img/icon-share-email.png"></a>
+		<a href="#" role="button" class="modal-link email-share-button" data-modal-set="email-share"><img alt="Email" class="share-icon email" src="/assets/frontend/img/icon-share-email.png"></a>
 		
 		<a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.gene.com%2Fprivacy-policy&amp;t=Privacy+Policy" rel="nofollow" target="_blank" onclick="_gaq.push(['_trackSocial', 'facebook', 'share']);"><img alt="Facebook" class="share-icon facebook" src="/assets/frontend/img/icon-share-facebook.png"></a>
 		<a href="http://twitter.com/share?text=Privacy+Policy&amp;url=http%3A%2F%2Fwww.gene.com%2Fprivacy-policy" rel="nofollow" target="_blank" onclick="_gaq.push(['_trackSocial', 'twitter', 'share']);"><img alt="Twitter" class="share-icon twitter" src="/assets/frontend/img/icon-share-twitter.png"></a>
@@ -237,7 +212,7 @@
 
 					<h1>Privacy Policy</h1>
 
-					<p>Genentech, Inc. ("Genentech") respects the privacy of visitors to its websites, and we recognize your need for appropriate protection and management of personally identifiable information you share with us (any information by which you can be identified, including but not limited to, name, address, e-mail address, and telephone number). That is why we have established this Privacy Policy, so that you are informed about how we treat any personally identifiable information that you provide to us in the course of using this website.  This Privacy Policy will inform you of:</p>
+					<p>Genentech, Inc. ("Genentech") respects the privacy of visitors to its websites, and we recognize your need for appropriate protection and management of personally identifiable information you share with us (any information by which you can be identified, including but not limited to, name, address, e-mail address, and telephone number). We have established this Online Privacy Policy so that you are informed about how we treat any personally identifiable information that you provide to us in the course of using this website. This Online Privacy Policy will inform you of: </p>
 					
 					<ol>
 						<li>How you will be informed of updates to this Privacy Policy</li>
@@ -251,12 +226,12 @@
 
 					<p>Please note that the Genentech websites are directed towards users who reside in the United States of America.  It is not our intent to gather personally identifiable information from individuals residing outside the U.S.</p>
 
-					<h2>Privacy Policy Updates</h2>
-					<p>From time to time, Genentech may revise this Online Privacy Policy. Any such changes to this Online Privacy Policy will be promptly reflected on this page. Genentech encourages you to review this Online Privacy Policy regularly for any changes. Your continued use of this website will be subject to the then-current Online Privacy Policy. The effective date of this Online Privacy Policy is May 25, 2011.</p>					
+					<h2>Online Privacy Policy Updates</h2>
+					<p>From time to time, Genentech may revise this Online Privacy Policy. Any such changes to this Online Privacy Policy will be promptly reflected on this page. Genentech encourages you to review this Online Privacy Policy regularly for any changes.  Your continued use of this website will be subject to the then-current Online Privacy Policy.  The effective date of this Online Privacy Policy is November 20, 2012.</p>					
 					
 					<h2>Information Collection and Use</h2>
-					<p>You can generally visit our website without revealing any personally identifiable information about yourself. However, to access certain options and services we may ask you to provide certain personally identifiable information and without providing such personally identifiable information, you may be unable to access certain options and services. We (along with our third party partners engaged to provide marketing and advertising on our behalf) collect personally identifiable information about you only if you voluntarily provide it to us and you have the option not to provide any personally identifiable information to us. The following is personally identifiable information that you may voluntarily provide to us and how we use it:</p>	
-				
+					<p>You can generally visit our website without revealing any personally identifiable information about yourself. However, to access certain options and services we may ask you to provide certain personally identifiable information and without providing such personally identifiable information, you may be unable to access certain options and services. We (along with our third party partners engaged to provide marketing and advertising on our behalf) collect personally identifiable information about you only if you voluntarily provide it to us and you have the option not to provide any personally identifiable information to us. The following is personally identifiable information that you may voluntarily provide to us and how we use it: </p>				
+					
 					<ul>
 						<li><b>Surveys.</b> Information obtained from you on web surveys, such as contact information (name and shipping address), demographic information (zip code, age level) and medical condition.  We may use this personally identifiable information to provide you with information and services for which you have expressed an interest or that you may find useful based on your answers in a survey.  Additionally, we may refer to your personally identifiable information to better understand your needs and how we can improve our website.</li>
 						<li><b>Newsletters.</b> Information obtained from you from your request to subscribe to a newsletter, such as contact information (name and e-mail address).  We may use this personally identifiable information to deliver the newsletters that you have elected to receive.</li>
@@ -270,9 +245,9 @@
 					<p>Our websites are not intended for or designed to attract children under the age of 13. Moreover, we do not knowingly collect any personally identifiable information from anyone under the age of 18 without the consent of a parent or guardian, and you must be 18 years of age or older to submit registration or survey information. Should you believe that a minor of whom you are a parent or guardian has registered, please contact us at <a href="mailto:privacy.office@gene.com">privacy.office@gene.com</a> and we will make reasonable efforts to remove all personally identifiable information related to the minor.</p>					
 					
 					<h2>Cookies and GIF files</h2>
-					<p>Some of our websites may use cookie technology to identify users who have previously visited so the user is recognized upon return, thereby saving them time while on our website.  A cookie is a piece of data stored on the user's hard drive containing information about the user.  Usage of a cookie is in no way linked to any personally identifiable information while on our website.  Once the user closes their browser, the cookie simply terminates.  If a user rejects the cookie, they may still use our website.  A cookie may be placed by us, or by vendors or service agencies who work with us or with our partners.</p>
+					<p>Some of our websites may use cookie technology to identify users who have previously visited so the user is recognized upon return, thereby saving them time while on our website. A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our website. If a user rejects the cookie, they may still use our website. A cookie may be placed by us, or by vendors or service agencies who work with us or with our partners.</p>
 
-					<p>This website may use pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partners.  These files enable these partners to recognize a unique file on your web browser, which in turn enables us to learn which advertisements bring users to our website.  The information contained in GIF files that we collect and share with our ad management partners is anonymous and is not personally identifiable.</p>
+					<p>This website and emails we send to you may contain transparent GIF files (also known as "web beacons," "action tags," or "pixel tags") to help manage online advertising. These GIF files are used by us and our ad management partners to recognize when a visitor views a web page or opens an email.  This information enables us to learn which emails and advertisements bring users to our website. The information collected and shared with our ad management partners through the use of GIF files is anonymous and is not personally identifiable. </p>					
 					
 					<h2>Log Files and Aggregate Information</h2>
 					<p>We may track the total number of visitors to our website, the number of visitors to each page of our website, IP addresses, and the domain names of our users' Internet Service Providers, and we may analyze these data for trends and statistics in the aggregate, but such information will be in aggregate form only and it will not contain personally identifiable data.  Such aggregate information is not linked to any personally identifiable information that can identify any individual person.</p>
@@ -296,20 +271,26 @@
 					<p>Genentech is committed to respecting your right to access and correct your personal information. You can call us at 877-GENENTECH and we will be happy to assist you with your request.
 						You may also "opt-out" of receiving e-mails and other communications from us by using the unsubscribe feature included in the e-mails we send.
 						If you have any questions about this online privacy policy or the information practices of our sites, you may contact us by email at <a href="mailto:privacy.office@gene.com">privacy.office@gene.com</a> or by mail at:</p>
-
+					
+					<h2>Contacting Genentech</h2>
+					
 					<p>Genentech, Inc.<br>
 					   Attn: Privacy Office<br>
 					   1 DNA Way<br>
 					   South San Francisco, CA 94080<br>
-					   Privacy Policy last updated: February 4, 2011<br>
-					   </p><ul>
+					   
+					   <b>Privacy Policy last updated: November 20, 2012</b><br>
+						</p><ul>
+						<li>Revised sections 'Online Privacy Policy Updates,' 'Information Collection and Use,' 'Minors,' 'Cookies and GIF Files,' 'Sharing and Disclosure,' and 'Correcting/Updating Personally Identifiable Information'
+						</li><li>Added section 'Contacting Genentech'
+						</li></ul>
+					   
+					   <b>Privacy Policy last updated: February 4, 2011</b><br>
+					   <ul>
 					   <li>Revised sections 'Online Privacy Policy Updates,' 'Information Collection and Use,' 'Minors,' 'Cookies and GIF Files,' 'Sharing and Disclosure,' and 'Correcting/Updating Personally Identifiable Information'</li>
 					   <li>Added section 'Contacting Genentech'</li>
 					   </ul>
 					   <p></p>
-					  <p>Previous update: July 12, 2004</p>
-
-
 
 				</div>
 
@@ -350,220 +331,173 @@
 				<li class="first-level">
 					<a href="/scientists"><span>For</span> Scientists</a>
 				</li>
-															<!-- excluding items from footer display -->
-																								<li>
+																					<li>
 							<a href="/scientists/our-scientists">Our Scientists</a>
 						</li>
-																													<!-- excluding items from footer display -->
-																								<li>
+																	<li>
 							<a href="/scientists/publications">Publications</a>
 						</li>
-																													<!-- excluding items from footer display -->
-																								<li>
+																	<li>
 							<a href="/scientists/oncology">Oncology</a>
 						</li>
-																													<!-- excluding items from footer display -->
-																								<li>
+																	<li>
 							<a href="/scientists/immunology">Immunology</a>
 						</li>
-																													<!-- excluding items from footer display -->
-																								<li>
+																	<li>
 							<a href="/scientists/neuroscience">Neuroscience</a>
 						</li>
-																													<!-- excluding items from footer display -->
-																								<li>
+																	<li>
 							<a href="/scientists/metabolism">Metabolism</a>
 						</li>
-																													<!-- excluding items from footer display -->
-																								<li>
+																	<li>
 							<a href="/scientists/infectious-disease">Infectious Disease</a>
 						</li>
-																														</ul>
+												</ul>
 					<ul>
 				<li class="first-level">
 					<a href="/medical-professionals"><span>For</span> Medical Professionals</a>
 				</li>
-															<!-- excluding items from footer display -->
-																								<li>
+																					<li>
 							<a href="/medical-professionals/medicines">Our Medicines</a>
 						</li>
-																													<!-- excluding items from footer display -->
-																								<li>
+																	<li>
 							<a href="/medical-professionals/pipeline">Our Pipeline</a>
 						</li>
-																													<!-- excluding items from footer display -->
-																																									<!-- excluding items from footer display -->
-																								<li>
+																							<li>
 							<a href="/medical-professionals/medinfo">Medical Information</a>
 						</li>
-																														</ul>
+																							<li>
+							<a href="/medical-professionals/anti-counterfeiting">Anti-Counterfeiting</a>
+						</li>
+												</ul>
 					<ul>
 				<li class="first-level">
 					<a href="/patients"><span>For</span> Patients</a>
 				</li>
-															<!-- excluding items from footer display -->
-																								<li>
+																					<li>
 							<a href="/patients/medicines">Our Medicines</a>
 						</li>
-																													<!-- excluding items from footer display -->
-																								<li>
+																	<li>
 							<a href="/patients/investigational-medicines">Investigational Medicines</a>
 						</li>
-																													<!-- excluding items from footer display -->
-																								<li>
+																	<li>
 							<a href="/patients/patient-access">Patient Access</a>
 						</li>
-																													<!-- excluding items from footer display -->
-																								<li>
+																	<li>
 							<a href="/patients/disease-education">Disease Education</a>
 						</li>
-																													<!-- excluding items from footer display -->
-																								<li>
+																	<li>
 							<a href="/patients/sharps-disposal">Sharps Disposal</a>
 						</li>
-																														</ul>
+												</ul>
 					<ul>
 				<li class="first-level">
 					<a href="/media"><span>For</span> Media</a>
 				</li>
-															<!-- excluding items from footer display -->
-																								<li>
+																					<li>
 							<a href="/media/news-features">News Features</a>
 						</li>
-																													<!-- excluding items from footer display -->
-																								<li>
+																	<li>
 							<a href="/media/press-releases">Press Releases</a>
 						</li>
-																													<!-- excluding items from footer display -->
-																								<li>
+																	<li>
 							<a href="/media/statements">Statements</a>
 						</li>
-																													<!-- excluding items from footer display -->
-																								<li>
+																	<li>
 							<a href="/media/company-information">Company Information</a>
 						</li>
-																													<!-- excluding items from footer display -->
-																								<li>
+																	<li>
 							<a href="/media/product-information">Product Information</a>
 						</li>
-																													<!-- excluding items from footer display -->
-																								<li>
+																	<li>
 							<a href="/media/news-alerts">Sign Up For News Alerts</a>
 						</li>
-																														</ul>
+												</ul>
 					<ul>
 				<li class="first-level">
 					<a href="/good"><span>For</span> Good</a>
 				</li>
-															<!-- excluding items from footer display -->
-																								<li>
+																					<li>
 							<a href="/good/grants-giving">Grants &amp; Giving</a>
 						</li>
-																													<!-- excluding items from footer display -->
-																								<li>
+																	<li>
 							<a href="/good/diversity-inclusion">Diversity &amp; Inclusion</a>
 						</li>
-																													<!-- excluding items from footer display -->
-																								<li>
+																	<li>
 							<a href="/good/sustainability">Sustainability</a>
 						</li>
-																													<!-- excluding items from footer display -->
-																								<li>
+																	<li>
 							<a href="/good/community">Community</a>
 						</li>
-																														</ul>
+												</ul>
 					<ul>
 				<li class="first-level">
 					<a href="/careers"><span>Now</span> Hiring</a>
 				</li>
-															<!-- excluding items from footer display -->
-																								<li>
+																					<li>
 							<a href="/careers/find-a-job">Find A Job</a>
 						</li>
-																													<!-- excluding items from footer display -->
-																								<li>
+																	<li>
 							<a href="/careers/academic-programs">Academic Programs</a>
 						</li>
-																													<!-- excluding items from footer display -->
-																								<li>
+																	<li>
 							<a href="/careers/events">Events</a>
 						</li>
-																													<!-- excluding items from footer display -->
-																								<li>
+																	<li>
 							<a href="/careers/benefits">Benefits</a>
 						</li>
-																													<!-- excluding items from footer display -->
-																								<li>
+																	<li>
 							<a href="/careers/professional-areas">Professional Areas</a>
 						</li>
-																													<!-- excluding items from footer display -->
-																								<li>
+																	<li>
 							<a href="/careers/get-to-know-us">Get To Know Us</a>
 						</li>
-																													<!-- excluding items from footer display -->
-																								<li>
-							<a href="/careers/detail">Career Details</a>
-						</li>
-																														</ul>
+																		</ul>
 					<ul>
 				<li class="first-level">
 					<a href="/about-us"><span></span> About Us</a>
 				</li>
-															<!-- excluding items from footer display -->
-																								<li>
+																					<li>
 							<a href="/about-us/leadership">Leadership</a>
 						</li>
-																													<!-- excluding items from footer display -->
-																								<li>
+																	<li>
 							<a href="/about-us/awards-recognition">Awards &amp; Recognition</a>
 						</li>
-																													<!-- excluding items from footer display -->
-																								<li>
+																	<li>
 							<a href="/about-us/partnering">Partnering</a>
 						</li>
-																													<!-- excluding items from footer display -->
-																								<li>
+																	<li>
 							<a href="/about-us/investors">Investors</a>
 						</li>
-																													<!-- excluding items from footer display -->
-																								<li>
+																	<li>
 							<a href="/about-us/suppliers">Suppliers</a>
 						</li>
-																													<!-- excluding items from footer display -->
-																								<li>
+																	<li>
 							<a href="/about-us/compliance">Compliance</a>
 						</li>
-																													<!-- excluding items from footer display -->
-																								<li>
+																	<li>
 							<a href="/about-us/views-on-public-policy">Views On Public Policy</a>
 						</li>
-																													<!-- excluding items from footer display -->
-																														</ul>
+																		</ul>
 					<ul>
 				<li class="first-level">
 					<a href="/contact-us"><span></span> Contact Us</a>
 				</li>
-															<!-- excluding items from footer display -->
-																								<li>
+																					<li>
 							<a href="/contact-us/call-us">Call Us</a>
 						</li>
-																													<!-- excluding items from footer display -->
-																								<li>
+																	<li>
 							<a href="/contact-us/email-us">Email Us</a>
 						</li>
-																													<!-- excluding items from footer display -->
-																								<li>
+																							<li>
 							<a href="/contact-us/connect-with-us">Connect with us</a>
 						</li>
-																													<!-- excluding items from footer display -->
-																								<li>
+																	<li>
 							<a href="/contact-us/visit-us">Visit us</a>
 						</li>
-																													<!-- excluding items from footer display -->
-																								<li>
+																	<li>
 							<a href="/contact-us/submit-medical-inquiry">Submit a Medical Inquiry</a>
 						</li>
-																													<!-- excluding items from footer display -->
 																		</ul>
 				</nav>
 		<div class="non-sitemap footer-credits">
@@ -583,941 +517,21 @@
 			<hr>
 			<footer>
 				<a href="/privacy-policy">Privacy Policy</a>&nbsp; | &nbsp;<a href="/terms-conditions">Terms &amp; Conditions</a><br>
-				Genentech, Inc. ©2012			</footer>
+				Genentech, Inc. ©2013			</footer>
 		</div>
 	</div>
 </div>
 
-<div class="fbtool-modal feedback-tool"><div>
-	<div class="header">
-		<div class="page-header" data-page="choose">
-			<h1>What's on your mind?</h1>
-		</div>
-		<div class="page-header" data-page="company-one">
-			<a href="#" class="back" data-target="choose"><i class="icon-arrow-left"></i> &nbsp;Back</a>
-		</div>
-		<div class="page-header" data-page="products-one">
-			<a href="#" class="back" data-target="choose"><i class="icon-arrow-left"></i> &nbsp;Back</a>
-		</div>
-		<div class="page-header" data-page="website-one">
-			<a href="#" class="back" data-target="choose"><i class="icon-arrow-left"></i> &nbsp;Back</a>
-		</div>
-		<div class="page-header" data-page="common-questions">
-			<a href="#" class="back" data-target="choose"><i class="icon-arrow-left"></i> &nbsp;Back</a>
-		</div>
-		<a href="#" class="exit"><i class="icon-remove-sign"></i></a>
-	</div><!--/.header-->
-	
+<div id="feedback-tool-container"></div>
 
-	<div class="page" data-page="choose">
-		<div class="fbtool-body">
-			<a href="#" class="panel third column-break" data-target="company-one">
-				<h1 class="header-company"><span>Company</span>Questions or comments about Genentech <i class="icon-arrow-right icon-large"></i></h1>
-				<div class="examples">
-					<h2>For example:</h2>
-					<ul>
-						<li>When was Genentech founded?</li>
-						<li>Where is Genentech located?</li>
-						<li>How do I submit a grant request?</li>
-					</ul>
-				</div>
-			</a>
-			<a href="#" class="panel third current" data-target="products-one">
-				<h1 class="header-products"><span>Products</span>Get information about our Products <i class="icon-arrow-right icon-large"></i></h1>
-				<div class="examples">
-					<h2>For example:</h2>
-					<ul>
-						<li>How to report an adverse event</li>
-						<li>Find prescribing information or safety information</li>
-						<li>Learn about coverage and reimbursement support</li>
-					</ul>
-				</div>
-			</a>
-			<a href="#" class="panel third" data-target="website-one">
-				<h1 class="header-website"><span>Website</span>Send feedback about our Website <i class="icon-arrow-right icon-large"></i></h1>
-				<div class="examples">
-					<h2>For example:</h2>
-					<ul>
-						<li>I can't find what I'm looking for</li>
-						<li>I love the scientist profiles</li>
-					</ul>
-				</div>
-			</a>
-		</div><!--/.fbtool-body-->
-		<div class="foot">
-			<a href="/contact-us" class="panel half text-only column-break">
-				<p>Still have questions? <span class="fake-link">Contact Us</span>.</p>
-			</a>
-			<a href="#" class="panel half text-only" data-target="common-questions">
-				<p>See all <span class="fake-link">Frequently Asked Questions</span>.</p>
-			</a>
-		</div>
-
-	</div><!--/.page-->
-
-	
-	<div class="page" data-page="company-one">
-		<div class="fbtool-body">
-			<div class="panel form-main">
-				<h1 class="header-company"><span>Company</span>Questions or comments about Genentech</h1>
-				<form action="/contact-us/feedback/accept" id="feedback-company" method="post">
-					<input type="hidden" name="form" value="company">
-				<fieldset>
-					<div class="field-group full">
-						<label for="company-subject">*Subject</label>
-						<input type="text" name="subject" id="company-subject" class="feedback-subject">
-					</div>
-					<div class="field-group">
-						<label for="company-first-name">First Name</label>
-						<input type="text" name="first_name" id="company-first-name">
-					</div>
-					
-					<div class="field-group">
-						<label for="company-last-name">Last Name</label>
-						<input type="text" name="last_name" id="company-last-name">
-					</div>
-					
-					<div class="field-group">
-						<label for="company-email-address">*Email Address</label>
-						<input type="email" name="email_address" id="company-email-address">
-					</div>
-					
-					<div class="field-group">
-						<label for="company-phone-number">Phone Number</label>
-						<input type="text" name="phone_number" id="company-phone-number">
-					</div>
-
-					<div class="field-group">
-						<label for="company-address">Address</label>
-						<input type="text" name="address" id="company-address">
-					</div>
-
-					<div class="field-group">
-						<label for="company-address2">Address 2</label>
-						<input type="text" name="address2" id="company-address2">
-					</div>
-
-					<div class="field-group apartment">
-						<label for="company-apartment">Apartment</label>
-						<input type="text" name="apartment" id="company-apartment">
-					</div>
-
-					<div class="field-group">
-						<label for="company-city">City</label>
-						<input type="text" name="city" id="company-city">
-					</div>
-
-					<div class="field-group">
-						<label for="company-state">State/Province</label>
-						<input type="text" name="state" id="company-state">
-					</div>
-
-					<div class="field-group">
-						<label for="company-zip">Zip/Postal Code</label>
-						<input type="text" name="postal_code" id="company-postal-code">
-					</div>
-
-					<div class="field-group">
-						<label for="company-country">Country</label>
-						<select name="country" id="company-country" placeholder="Select a country" class="large">
-							<option value="US">United States</option>
-<option value="AF">Afghanistan</option>
-<option value="AL">Albania</option>
-<option value="DZ">Algeria</option>
-<option value="AS">American Samoa</option>
-<option value="AD">Andorra</option>
-<option value="AO">Angola</option>
-<option value="AI">Anguilla</option>
-<option value="AQ">Antarctica</option>
-<option value="AG">Antigua And Barbuda</option>
-<option value="AR">Argentina</option>
-<option value="AM">Armenia</option>
-<option value="AW">Aruba</option>
-<option value="AU">Australia</option>
-<option value="AT">Austria</option>
-<option value="AZ">Azerbaijan</option>
-<option value="BS">Bahamas</option>
-<option value="BH">Bahrain</option>
-<option value="BD">Bangladesh</option>
-<option value="BB">Barbados</option>
-<option value="BY">Belarus</option>
-<option value="BE">Belgium</option>
-<option value="BZ">Belize</option>
-<option value="BJ">Benin</option>
-<option value="BM">Bermuda</option>
-<option value="BT">Bhutan</option>
-<option value="BO">Bolivia</option>
-<option value="BA">Bosnia And Herzegowina</option>
-<option value="BW">Botswana</option>
-<option value="BV">Bouvet Island</option>
-<option value="BR">Brazil</option>
-<option value="IO">British Indian Ocean Territory</option>
-<option value="BN">Brunei Darussalam</option>
-<option value="BG">Bulgaria</option>
-<option value="BF">Burkina Faso</option>
-<option value="BI">Burundi</option>
-<option value="KH">Cambodia</option>
-<option value="CM">Cameroon</option>
-<option value="CA">Canada</option>
-<option value="CV">Cape Verde</option>
-<option value="KY">Cayman Islands</option>
-<option value="CF">Central African Republic</option>
-<option value="TD">Chad</option>
-<option value="CL">Chile</option>
-<option value="CN">China</option>
-<option value="CX">Christmas Island</option>
-<option value="CC">Cocos (Keeling) Islands</option>
-<option value="CO">Colombia</option>
-<option value="KM">Comoros</option>
-<option value="CG">Congo</option>
-<option value="CD">Congo, The Democratic Republic Of The</option>
-<option value="CK">Cook Islands</option>
-<option value="CR">Costa Rica</option>
-<option value="CI">Cote D'Ivoire</option>
-<option value="HR">Croatia (Local Name: Hrvatska)</option>
-<option value="CU">Cuba</option>
-<option value="CY">Cyprus</option>
-<option value="CZ">Czech Republic</option>
-<option value="DK">Denmark</option>
-<option value="DJ">Djibouti</option>
-<option value="DM">Dominica</option>
-<option value="DO">Dominican Republic</option>
-<option value="TP">East Timor</option>
-<option value="EC">Ecuador</option>
-<option value="EG">Egypt</option>
-<option value="SV">El Salvador</option>
-<option value="GQ">Equatorial Guinea</option>
-<option value="ER">Eritrea</option>
-<option value="EE">Estonia</option>
-<option value="ET">Ethiopia</option>
-<option value="FK">Falkland Islands (Malvinas)</option>
-<option value="FO">Faroe Islands</option>
-<option value="FJ">Fiji</option>
-<option value="FI">Finland</option>
-<option value="FR">France</option>
-<option value="FX">France, Metropolitan</option>
-<option value="GF">French Guiana</option>
-<option value="PF">French Polynesia</option>
-<option value="TF">French Southern Territories</option>
-<option value="GA">Gabon</option>
-<option value="GM">Gambia</option>
-<option value="GE">Georgia</option>
-<option value="DE">Germany</option>
-<option value="GH">Ghana</option>
-<option value="GI">Gibraltar</option>
-<option value="GR">Greece</option>
-<option value="GL">Greenland</option>
-<option value="GD">Grenada</option>
-<option value="GP">Guadeloupe</option>
-<option value="GU">Guam</option>
-<option value="GT">Guatemala</option>
-<option value="GN">Guinea</option>
-<option value="GW">Guinea-Bissau</option>
-<option value="GY">Guyana</option>
-<option value="HT">Haiti</option>
-<option value="HM">Heard And Mc Donald Islands</option>
-<option value="VA">Holy See (Vatican City State)</option>
-<option value="HN">Honduras</option>
-<option value="HK">Hong Kong</option>
-<option value="HU">Hungary</option>
-<option value="IS">Iceland</option>
-<option value="IN">India</option>
-<option value="ID">Indonesia</option>
-<option value="IR">Iran (Islamic Republic Of)</option>
-<option value="IQ">Iraq</option>
-<option value="IE">Ireland</option>
-<option value="IL">Israel</option>
-<option value="IT">Italy</option>
-<option value="JM">Jamaica</option>
-<option value="JP">Japan</option>
-<option value="JO">Jordan</option>
-<option value="KZ">Kazakhstan</option>
-<option value="KE">Kenya</option>
-<option value="KI">Kiribati</option>
-<option value="KP">Korea, Democratic People'S Republic Of</option>
-<option value="KR">Korea, Republic Of</option>
-<option value="KW">Kuwait</option>
-<option value="KG">Kyrgyzstan</option>
-<option value="LA">Lao People'S Democratic Republic</option>
-<option value="LV">Latvia</option>
-<option value="LB">Lebanon</option>
-<option value="LS">Lesotho</option>
-<option value="LR">Liberia</option>
-<option value="LY">Libyan Arab Jamahiriya</option>
-<option value="LI">Liechtenstein</option>
-<option value="LT">Lithuania</option>
-<option value="LU">Luxembourg</option>
-<option value="MO">Macau</option>
-<option value="MK">Macedonia, Former Yugoslav Republic Of</option>
-<option value="MG">Madagascar</option>
-<option value="MW">Malawi</option>
-<option value="MY">Malaysia</option>
-<option value="MV">Maldives</option>
-<option value="ML">Mali</option>
-<option value="MT">Malta</option>
-<option value="MH">Marshall Islands</option>
-<option value="MQ">Martinique</option>
-<option value="MR">Mauritania</option>
-<option value="MU">Mauritius</option>
-<option value="YT">Mayotte</option>
-<option value="MX">Mexico</option>
-<option value="FM">Micronesia, Federated States Of</option>
-<option value="MD">Moldova, Republic Of</option>
-<option value="MC">Monaco</option>
-<option value="MN">Mongolia</option>
-<option value="MS">Montserrat</option>
-<option value="MA">Morocco</option>
-<option value="MZ">Mozambique</option>
-<option value="MM">Myanmar</option>
-<option value="NA">Namibia</option>
-<option value="NR">Nauru</option>
-<option value="NP">Nepal</option>
-<option value="NL">Netherlands</option>
-<option value="AN">Netherlands Antilles</option>
-<option value="NC">New Caledonia</option>
-<option value="NZ">New Zealand</option>
-<option value="NI">Nicaragua</option>
-<option value="NE">Niger</option>
-<option value="NG">Nigeria</option>
-<option value="NU">Niue</option>
-<option value="NF">Norfolk Island</option>
-<option value="MP">Northern Mariana Islands</option>
-<option value="NO">Norway</option>
-<option value="OM">Oman</option>
-<option value="PK">Pakistan</option>
-<option value="PW">Palau</option>
-<option value="PA">Panama</option>
-<option value="PG">Papua New Guinea</option>
-<option value="PY">Paraguay</option>
-<option value="PE">Peru</option>
-<option value="PH">Philippines</option>
-<option value="PN">Pitcairn</option>
-<option value="PL">Poland</option>
-<option value="PT">Portugal</option>
-<option value="PR">Puerto Rico</option>
-<option value="QA">Qatar</option>
-<option value="RE">Reunion</option>
-<option value="RO">Romania</option>
-<option value="RU">Russian Federation</option>
-<option value="RW">Rwanda</option>
-<option value="KN">Saint Kitts And Nevis</option>
-<option value="LC">Saint Lucia</option>
-<option value="VC">Saint Vincent And The Grenadines</option>
-<option value="WS">Samoa</option>
-<option value="SM">San Marino</option>
-<option value="ST">Sao Tome And Principe</option>
-<option value="SA">Saudi Arabia</option>
-<option value="SN">Senegal</option>
-<option value="SC">Seychelles</option>
-<option value="SL">Sierra Leone</option>
-<option value="SG">Singapore</option>
-<option value="SK">Slovakia (Slovak Republic)</option>
-<option value="SI">Slovenia</option>
-<option value="SB">Solomon Islands</option>
-<option value="SO">Somalia</option>
-<option value="ZA">South Africa</option>
-<option value="GS">South Georgia, South Sandwich Islands</option>
-<option value="ES">Spain</option>
-<option value="LK">Sri Lanka</option>
-<option value="SH">St. Helena</option>
-<option value="PM">St. Pierre And Miquelon</option>
-<option value="SD">Sudan</option>
-<option value="SR">Suriname</option>
-<option value="SJ">Svalbard And Jan Mayen Islands</option>
-<option value="SZ">Swaziland</option>
-<option value="SE">Sweden</option>
-<option value="CH">Switzerland</option>
-<option value="SY">Syrian Arab Republic</option>
-<option value="TW">Taiwan</option>
-<option value="TJ">Tajikistan</option>
-<option value="TZ">Tanzania, United Republic Of</option>
-<option value="TH">Thailand</option>
-<option value="TG">Togo</option>
-<option value="TK">Tokelau</option>
-<option value="TO">Tonga</option>
-<option value="TT">Trinidad And Tobago</option>
-<option value="TN">Tunisia</option>
-<option value="TR">Turkey</option>
-<option value="TM">Turkmenistan</option>
-<option value="TC">Turks And Caicos Islands</option>
-<option value="TV">Tuvalu</option>
-<option value="UG">Uganda</option>
-<option value="UA">Ukraine</option>
-<option value="AE">United Arab Emirates</option>
-<option value="GB">United Kingdom</option>
-<option value="UM">United States Minor Outlying Islands</option>
-<option value="UY">Uruguay</option>
-<option value="UZ">Uzbekistan</option>
-<option value="VU">Vanuatu</option>
-<option value="VE">Venezuela</option>
-<option value="VN">Viet Nam</option>
-<option value="VG">Virgin Islands (British)</option>
-<option value="VI">Virgin Islands (U.S.)</option>
-<option value="WF">Wallis And Futuna Islands</option>
-<option value="EH">Western Sahara</option>
-<option value="YE">Yemen</option>
-<option value="YU">Yugoslavia</option>
-<option value="ZM">Zambia</option>
-<option value="ZW">Zimbabwe</option>
-						</select>
-					</div>
-
-					<label for="company-question-or-comment" style="clear: left;">Question <span>or</span> Comment</label>
-					<textarea name="question_or_comment" id="company-question-or-comment"></textarea>
-					
-					<input type="submit" value="Submit Feedback">
-				</fieldset>
-				</form>
-			</div>
-			<div class="panel form-side">
-				<h1><span>Common Questions</span></h1>
-				<ul class="feedback-tool-results">
-					<li><a href="/patients">I'm having trouble with Avastin. Who should I call?</a></li>
-					<li><a href="/scientists">Can Avastin be used to treat eye disease as well as cancer?</a></li>
-					<li><a href="/careers">What are the potential adverse effects of Avastin?</a></li>
-					<li><a href="#">I'm having trouble with Avastin. Who should I call?</a></li>
-					<li><a href="#">Can Avastin be used to treat eye disease as well as cancer?</a></li>
-					<li><a href="#">Who came up with the name Avastin? What does it mean?</a></li>
-					<li><strong><a href="#">More...</a></strong></li>
-				</ul>
-			</div>
-		</div><!--/.fbtool-body-->
-		<div class="foot">
-			<a href="/contact-us" class="panel half text-only column-break">
-				<p>Still have questions? <span class="fake-link">Contact Us</span>.</p>
-			</a>
-			<a href="#" class="panel half text-only" data-target="common-questions">
-				<p>See all <span class="fake-link">Frequently Asked Questions</span>.</p>
-			</a>
-		</div>
-	</div><!--/.page-->
-	
-
-	<div class="page" data-page="products-one">
-		<div class="fbtool-body">
-			<div class="panel form-main link-list">
-				<h1 class="header-products"><span>Products</span>Get information about our Products</h1>
-				<h2>Report an adverse event</h2>
-				<ul>
-					<li>Call (888) 835-2555.<br>
-						This message line is available 24 hours per day, 7 days per week.</li>
-				</ul>
-
-				<div class="split-50-50 split-wide-only">
-					<div>
-						<h2>for Patients and Caregivers</h2>
-						<ul>
-							<li>Find safety information for a medicine:<br>
-								<select id="medicine-patients-links" class="medium click-link" data-click-link="/patients/medicines/" placeholder="Choose a product">
-									<option></option>
-<option value="actemra">Actemra® (tocilizumab)</option>
-<option value="activase">Activase® (alteplase)</option>
-<option value="anaprox">Anaprox® (naproxen sodium)</option>
-<option value="avastin">Avastin® (bevacizumab)</option>
-<option value="boniva-injection">Boniva Injection® (ibandronate sodium)</option>
-<option value="boniva-tablets">Boniva Tablets® (ibandronate sodium)</option>
-<option value="cathflo-activase">Cathflo Activase® (alteplase)</option>
-<option value="cellcept">CellCept® (mycophenolate mofetil)</option>
-<option value="cytovene">Cytovene® (ganciclovir)</option>
-<option value="ec-naprosyn">EC-Naprosyn® (naproxen)</option>
-<option value="erivedge">Erivedge® (vismodegib)</option>
-<option value="fuzeon">Fuzeon® (enfuvirtide)</option>
-<option value="herceptin">Herceptin® (trastuzumab)</option>
-<option value="invirase">Invirase® (saquinavir mesylate)</option>
-<option value="klonopin">Klonopin® (clonazepam)</option>
-<option value="kytril-injection">Kytril Injection™ (granisetron HCL)</option>
-<option value="kytril-tablets">Kytril Tablets® (ganisetron HCL)</option>
-<option value="lucentis">Lucentis™ (ranibizumab injection)</option>
-<option value="naprosyn">Naprosyn® (naproxen)</option>
-<option value="nutropin-aq">Nutropin AQ® (somatropin (rDNA origin) for injection)</option>
-<option value="pegasys">Pegasys® (peginterferon alfa-2a)</option>
-<option value="perjeta">Perjeta® (pertuzumab)</option>
-<option value="pulmozyme">Pulmozyme® (dornase alfa)</option>
-<option value="rituxan">Rituxan® (rituximab-BioOncology)</option>
-<option value="rituxan-immunology">Rituxan® (rituximab - Immunology)</option>
-<option value="rocephin">Rocephin® (ceftriaxone)</option>
-<option value="roferon-a">Roferon-A® (interferon alfa-2a)</option>
-<option value="romazicon">Romazicon® (flumazenil)</option>
-<option value="tnkase">TNKase® (tenecteplase)</option>
-<option value="tamiflu">Tamiflu® (oseltamivir phosphate)</option>
-<option value="tarceva">Tarceva® (erlotinib)</option>
-<option value="valcyte">Valcyte® (valganciclovir hydrochloride)</option>
-<option value="valium">Valium ® (diazepam)</option>
-<option value="xeloda">Xeloda® (capecitabine)</option>
-<option value="xenical">Xenical® (orlistat)</option>
-<option value="xolair">Xolair® (omalizumab)</option>
-<option value="zelboraf">Zelboraf® (vemurafenib)</option>
-<option value="zenapax">Zenapax® (daclizumab)</option>
-								</select>
-							
-
-							</li><li><a href="/contact-us/submit-medical-inquiry/">Submit an medical information inquiry</a>. Prefer the phone? Call us at (800) 821-8590.</li>
-
-							<li><a href="/patients/patient-access">Learn about patient assistance support</a></li>
-
-							<li>Complaint about a product? Call us at (800) 334-0290</li>
-						</ul>
-					</div>
-					<div>
-						<h2>for Medical Professionals</h2>
-						<ul>
-							<li>Find prescribing information and HCP letters for a medicine:<br>
-								<select id="medicine-medical-professionals-links" class="medium click-link" data-click-link="/medical-professionals/medicines/" placeholder="Choose a product">
-									<option></option>
-<option value="actemra">Actemra® (tocilizumab)</option>
-<option value="activase">Activase® (alteplase)</option>
-<option value="anaprox">Anaprox® (naproxen sodium)</option>
-<option value="avastin">Avastin® (bevacizumab)</option>
-<option value="boniva-injection">Boniva Injection® (ibandronate sodium)</option>
-<option value="boniva-tablets">Boniva Tablets® (ibandronate sodium)</option>
-<option value="cathflo-activase">Cathflo Activase® (alteplase)</option>
-<option value="cellcept">CellCept® (mycophenolate mofetil)</option>
-<option value="cytovene">Cytovene® (ganciclovir)</option>
-<option value="ec-naprosyn">EC-Naprosyn® (naproxen)</option>
-<option value="erivedge">Erivedge® (vismodegib)</option>
-<option value="fuzeon">Fuzeon® (enfuvirtide)</option>
-<option value="herceptin">Herceptin® (trastuzumab)</option>
-<option value="invirase">Invirase® (saquinavir mesylate)</option>
-<option value="klonopin">Klonopin® (clonazepam)</option>
-<option value="kytril-injection">Kytril Injection™ (granisetron HCL)</option>
-<option value="kytril-tablets">Kytril Tablets® (ganisetron HCL)</option>
-<option value="lucentis">Lucentis™ (ranibizumab injection)</option>
-<option value="naprosyn">Naprosyn® (naproxen)</option>
-<option value="nutropin-aq">Nutropin AQ® (somatropin (rDNA origin) for injection)</option>
-<option value="pegasys">Pegasys® (peginterferon alfa-2a)</option>
-<option value="perjeta">Perjeta® (pertuzumab)</option>
-<option value="pulmozyme">Pulmozyme® (dornase alfa)</option>
-<option value="rituxan">Rituxan® (rituximab-BioOncology)</option>
-<option value="rituxan-immunology">Rituxan® (rituximab - Immunology)</option>
-<option value="rocephin">Rocephin® (ceftriaxone)</option>
-<option value="roferon-a">Roferon-A® (interferon alfa-2a)</option>
-<option value="romazicon">Romazicon® (flumazenil)</option>
-<option value="tnkase">TNKase® (tenecteplase)</option>
-<option value="tamiflu">Tamiflu® (oseltamivir phosphate)</option>
-<option value="tarceva">Tarceva® (erlotinib)</option>
-<option value="valcyte">Valcyte® (valganciclovir hydrochloride)</option>
-<option value="valium">Valium ® (diazepam)</option>
-<option value="xeloda">Xeloda® (capecitabine)</option>
-<option value="xenical">Xenical® (orlistat)</option>
-<option value="xolair">Xolair® (omalizumab)</option>
-<option value="zelboraf">Zelboraf® (vemurafenib)</option>
-<option value="zenapax">Zenapax® (daclizumab)</option>
-								</select></li>
-
-							<li>Submit a <a href="/contact-us/submit-medical-inquiry/">medical information inquiry.</a> Prefer the phone? Call us at (800) 821-8590.</li>
-
-							<li>Request a visit from a <a href="/medical-professionals/medinfo/request-office-visit">Medical Science Liaison</a></li>
-
-							<li>Find out about our approach to clinical trials and <a href="/patients/investigational-medicines">investigational medicines</a></li>
-
-							<li>Complaint about a product? Call us at (800) 334-0290</li>
-
-							<li>Learn about <a href="http://www.genentech-access.com/" target="_blank">coverage &amp; reimbursement for Healthcare Providers</a></li>
-						</ul>
-					</div>
-				</div>
-			</div>
-			<div class="panel form-side">
-				<h1><span>Common Questions</span></h1>
-				<ul class="feedback-tool-results">
-					<li><a href="#">I'm having trouble with Avastin. Who should I call?</a></li>
-					<li><a href="#">Can Avastin be used to treat eye disease as well as cancer?</a></li>
-					<li><a href="#">What are the potential adverse effects of Avastin?</a></li>
-					<li><a href="#">I'm having trouble with Avastin. Who should I call?</a></li>
-					<li><a href="#">Can Avastin be used to treat eye disease as well as cancer?</a></li>
-					<li><a href="#">Who came up with the name Avastin? What does it mean?</a></li>
-					<li><strong><a href="#">More...</a></strong></li>
-				</ul>
-			</div>
-		</div><!--/.fbtool-body-->
-		<div class="foot">
-			<a href="/contact-us" class="panel half text-only column-break">
-				<p>Still have questions? <span class="fake-link">Contact Us</span>.</p>
-			</a>
-			<a href="#" class="panel half text-only" data-target="common-questions">
-				<p>See all <span class="fake-link">Frequently Asked Questions</span>.</p>
-			</a>
-		</div>
-	</div><!--/.page-->
-	
-
-	<div class="page" data-page="website-one">
-		<div class="fbtool-body">
-			<div class="panel form-main">
-				<h1 class="header-website"><span>Website</span>Send feedback about our Website</h1>
-				<form action="/contact-us/feedback/accept" id="feedback-website" method="post">
-				<input type="hidden" name="form" value="website">
-				<fieldset>
-					<div class="field-group">
-						<label for="website-subject">*Subject</label>
-						<input type="text" name="subject" id="website-subject">
-					</div>
-
-					<div class="field-group">
-						<label for="website-url">Page URL</label>
-						<input type="text" name="user_url" value="http://www.gene.com/privacy-policy">
-					</div>
-
-					<div class="field-group">
-						<label for="website-first-name">First Name</label>
-						<input type="text" name="first_name" id="website-first-name">
-					</div>
-					
-					<div class="field-group">
-						<label for="website-last-name">Last Name</label>
-						<input type="text" name="last_name" id="website-last-name">
-					</div>
-					
-					<div class="field-group">
-						<label for="website-email-address">*Email Address</label>
-						<input type="email" name="email_address" id="website-email-address">
-					</div>
-					
-					<div class="field-group">
-						<label for="website-phone-number">Phone Number</label>
-						<input type="text" name="phone_number" id="website-phone-number">
-					</div>
-
-					<div class="field-group">
-						<label for="website-address">Address</label>
-						<input type="text" name="address" id="website-address">
-					</div>
-
-					<div class="field-group">
-						<label for="website-address2">Address 2</label>
-						<input type="text" name="address2" id="website-address2">
-					</div>
-
-					<div class="field-group apartment">
-						<label for="website-apartment">Apartment</label>
-						<input type="text" name="apartment" id="website-apartment">
-					</div>
-
-					<div class="field-group">
-						<label for="website-city">City</label>
-						<input type="text" name="city" id="website-city">
-					</div>
-
-					<div class="field-group">
-						<label for="website-state">State/Province</label>
-						<input type="text" name="state" id="website-state">
-					</div>
-
-					<div class="field-group">
-						<label for="website-zip">Zip/Postal Code</label>
-						<input type="text" name="postal_code" id="website-postal-code">
-					</div>
-
-					<div class="field-group">
-						<label for="company-country">Country</label>
-						<select name="country" id="company-country" placeholder="Select a country" class="large">
-							<option value="US">United States</option>
-<option value="AF">Afghanistan</option>
-<option value="AL">Albania</option>
-<option value="DZ">Algeria</option>
-<option value="AS">American Samoa</option>
-<option value="AD">Andorra</option>
-<option value="AO">Angola</option>
-<option value="AI">Anguilla</option>
-<option value="AQ">Antarctica</option>
-<option value="AG">Antigua And Barbuda</option>
-<option value="AR">Argentina</option>
-<option value="AM">Armenia</option>
-<option value="AW">Aruba</option>
-<option value="AU">Australia</option>
-<option value="AT">Austria</option>
-<option value="AZ">Azerbaijan</option>
-<option value="BS">Bahamas</option>
-<option value="BH">Bahrain</option>
-<option value="BD">Bangladesh</option>
-<option value="BB">Barbados</option>
-<option value="BY">Belarus</option>
-<option value="BE">Belgium</option>
-<option value="BZ">Belize</option>
-<option value="BJ">Benin</option>
-<option value="BM">Bermuda</option>
-<option value="BT">Bhutan</option>
-<option value="BO">Bolivia</option>
-<option value="BA">Bosnia And Herzegowina</option>
-<option value="BW">Botswana</option>
-<option value="BV">Bouvet Island</option>
-<option value="BR">Brazil</option>
-<option value="IO">British Indian Ocean Territory</option>
-<option value="BN">Brunei Darussalam</option>
-<option value="BG">Bulgaria</option>
-<option value="BF">Burkina Faso</option>
-<option value="BI">Burundi</option>
-<option value="KH">Cambodia</option>
-<option value="CM">Cameroon</option>
-<option value="CA">Canada</option>
-<option value="CV">Cape Verde</option>
-<option value="KY">Cayman Islands</option>
-<option value="CF">Central African Republic</option>
-<option value="TD">Chad</option>
-<option value="CL">Chile</option>
-<option value="CN">China</option>
-<option value="CX">Christmas Island</option>
-<option value="CC">Cocos (Keeling) Islands</option>
-<option value="CO">Colombia</option>
-<option value="KM">Comoros</option>
-<option value="CG">Congo</option>
-<option value="CD">Congo, The Democratic Republic Of The</option>
-<option value="CK">Cook Islands</option>
-<option value="CR">Costa Rica</option>
-<option value="CI">Cote D'Ivoire</option>
-<option value="HR">Croatia (Local Name: Hrvatska)</option>
-<option value="CU">Cuba</option>
-<option value="CY">Cyprus</option>
-<option value="CZ">Czech Republic</option>
-<option value="DK">Denmark</option>
-<option value="DJ">Djibouti</option>
-<option value="DM">Dominica</option>
-<option value="DO">Dominican Republic</option>
-<option value="TP">East Timor</option>
-<option value="EC">Ecuador</option>
-<option value="EG">Egypt</option>
-<option value="SV">El Salvador</option>
-<option value="GQ">Equatorial Guinea</option>
-<option value="ER">Eritrea</option>
-<option value="EE">Estonia</option>
-<option value="ET">Ethiopia</option>
-<option value="FK">Falkland Islands (Malvinas)</option>
-<option value="FO">Faroe Islands</option>
-<option value="FJ">Fiji</option>
-<option value="FI">Finland</option>
-<option value="FR">France</option>
-<option value="FX">France, Metropolitan</option>
-<option value="GF">French Guiana</option>
-<option value="PF">French Polynesia</option>
-<option value="TF">French Southern Territories</option>
-<option value="GA">Gabon</option>
-<option value="GM">Gambia</option>
-<option value="GE">Georgia</option>
-<option value="DE">Germany</option>
-<option value="GH">Ghana</option>
-<option value="GI">Gibraltar</option>
-<option value="GR">Greece</option>
-<option value="GL">Greenland</option>
-<option value="GD">Grenada</option>
-<option value="GP">Guadeloupe</option>
-<option value="GU">Guam</option>
-<option value="GT">Guatemala</option>
-<option value="GN">Guinea</option>
-<option value="GW">Guinea-Bissau</option>
-<option value="GY">Guyana</option>
-<option value="HT">Haiti</option>
-<option value="HM">Heard And Mc Donald Islands</option>
-<option value="VA">Holy See (Vatican City State)</option>
-<option value="HN">Honduras</option>
-<option value="HK">Hong Kong</option>
-<option value="HU">Hungary</option>
-<option value="IS">Iceland</option>
-<option value="IN">India</option>
-<option value="ID">Indonesia</option>
-<option value="IR">Iran (Islamic Republic Of)</option>
-<option value="IQ">Iraq</option>
-<option value="IE">Ireland</option>
-<option value="IL">Israel</option>
-<option value="IT">Italy</option>
-<option value="JM">Jamaica</option>
-<option value="JP">Japan</option>
-<option value="JO">Jordan</option>
-<option value="KZ">Kazakhstan</option>
-<option value="KE">Kenya</option>
-<option value="KI">Kiribati</option>
-<option value="KP">Korea, Democratic People'S Republic Of</option>
-<option value="KR">Korea, Republic Of</option>
-<option value="KW">Kuwait</option>
-<option value="KG">Kyrgyzstan</option>
-<option value="LA">Lao People'S Democratic Republic</option>
-<option value="LV">Latvia</option>
-<option value="LB">Lebanon</option>
-<option value="LS">Lesotho</option>
-<option value="LR">Liberia</option>
-<option value="LY">Libyan Arab Jamahiriya</option>
-<option value="LI">Liechtenstein</option>
-<option value="LT">Lithuania</option>
-<option value="LU">Luxembourg</option>
-<option value="MO">Macau</option>
-<option value="MK">Macedonia, Former Yugoslav Republic Of</option>
-<option value="MG">Madagascar</option>
-<option value="MW">Malawi</option>
-<option value="MY">Malaysia</option>
-<option value="MV">Maldives</option>
-<option value="ML">Mali</option>
-<option value="MT">Malta</option>
-<option value="MH">Marshall Islands</option>
-<option value="MQ">Martinique</option>
-<option value="MR">Mauritania</option>
-<option value="MU">Mauritius</option>
-<option value="YT">Mayotte</option>
-<option value="MX">Mexico</option>
-<option value="FM">Micronesia, Federated States Of</option>
-<option value="MD">Moldova, Republic Of</option>
-<option value="MC">Monaco</option>
-<option value="MN">Mongolia</option>
-<option value="MS">Montserrat</option>
-<option value="MA">Morocco</option>
-<option value="MZ">Mozambique</option>
-<option value="MM">Myanmar</option>
-<option value="NA">Namibia</option>
-<option value="NR">Nauru</option>
-<option value="NP">Nepal</option>
-<option value="NL">Netherlands</option>
-<option value="AN">Netherlands Antilles</option>
-<option value="NC">New Caledonia</option>
-<option value="NZ">New Zealand</option>
-<option value="NI">Nicaragua</option>
-<option value="NE">Niger</option>
-<option value="NG">Nigeria</option>
-<option value="NU">Niue</option>
-<option value="NF">Norfolk Island</option>
-<option value="MP">Northern Mariana Islands</option>
-<option value="NO">Norway</option>
-<option value="OM">Oman</option>
-<option value="PK">Pakistan</option>
-<option value="PW">Palau</option>
-<option value="PA">Panama</option>
-<option value="PG">Papua New Guinea</option>
-<option value="PY">Paraguay</option>
-<option value="PE">Peru</option>
-<option value="PH">Philippines</option>
-<option value="PN">Pitcairn</option>
-<option value="PL">Poland</option>
-<option value="PT">Portugal</option>
-<option value="PR">Puerto Rico</option>
-<option value="QA">Qatar</option>
-<option value="RE">Reunion</option>
-<option value="RO">Romania</option>
-<option value="RU">Russian Federation</option>
-<option value="RW">Rwanda</option>
-<option value="KN">Saint Kitts And Nevis</option>
-<option value="LC">Saint Lucia</option>
-<option value="VC">Saint Vincent And The Grenadines</option>
-<option value="WS">Samoa</option>
-<option value="SM">San Marino</option>
-<option value="ST">Sao Tome And Principe</option>
-<option value="SA">Saudi Arabia</option>
-<option value="SN">Senegal</option>
-<option value="SC">Seychelles</option>
-<option value="SL">Sierra Leone</option>
-<option value="SG">Singapore</option>
-<option value="SK">Slovakia (Slovak Republic)</option>
-<option value="SI">Slovenia</option>
-<option value="SB">Solomon Islands</option>
-<option value="SO">Somalia</option>
-<option value="ZA">South Africa</option>
-<option value="GS">South Georgia, South Sandwich Islands</option>
-<option value="ES">Spain</option>
-<option value="LK">Sri Lanka</option>
-<option value="SH">St. Helena</option>
-<option value="PM">St. Pierre And Miquelon</option>
-<option value="SD">Sudan</option>
-<option value="SR">Suriname</option>
-<option value="SJ">Svalbard And Jan Mayen Islands</option>
-<option value="SZ">Swaziland</option>
-<option value="SE">Sweden</option>
-<option value="CH">Switzerland</option>
-<option value="SY">Syrian Arab Republic</option>
-<option value="TW">Taiwan</option>
-<option value="TJ">Tajikistan</option>
-<option value="TZ">Tanzania, United Republic Of</option>
-<option value="TH">Thailand</option>
-<option value="TG">Togo</option>
-<option value="TK">Tokelau</option>
-<option value="TO">Tonga</option>
-<option value="TT">Trinidad And Tobago</option>
-<option value="TN">Tunisia</option>
-<option value="TR">Turkey</option>
-<option value="TM">Turkmenistan</option>
-<option value="TC">Turks And Caicos Islands</option>
-<option value="TV">Tuvalu</option>
-<option value="UG">Uganda</option>
-<option value="UA">Ukraine</option>
-<option value="AE">United Arab Emirates</option>
-<option value="GB">United Kingdom</option>
-<option value="UM">United States Minor Outlying Islands</option>
-<option value="UY">Uruguay</option>
-<option value="UZ">Uzbekistan</option>
-<option value="VU">Vanuatu</option>
-<option value="VE">Venezuela</option>
-<option value="VN">Viet Nam</option>
-<option value="VG">Virgin Islands (British)</option>
-<option value="VI">Virgin Islands (U.S.)</option>
-<option value="WF">Wallis And Futuna Islands</option>
-<option value="EH">Western Sahara</option>
-<option value="YE">Yemen</option>
-<option value="YU">Yugoslavia</option>
-<option value="ZM">Zambia</option>
-<option value="ZW">Zimbabwe</option>
-						</select>
-					</div>
-				
-					<label for="website-question-or-comment" style="clear: left;">Question <span>or</span> Comment</label>
-					<textarea name="question_or_comment" id="website-question-or-comment"></textarea>
-					
-					<input type="submit" value="Submit Feedback">
-				</fieldset>
-				</form>
-			</div>
-			<div class="panel form-side">
-				<h1><span>Common Questions</span></h1>
-				<ul class="feedback-tool-results">
-					<li><a href="#">I'm having trouble with Avastin. Who should I call?</a></li>
-					<li><a href="#">Can Avastin be used to treat eye disease as well as cancer?</a></li>
-					<li><a href="#">What are the potential adverse effects of Avastin?</a></li>
-					<li><a href="#">I'm having trouble with Avastin. Who should I call?</a></li>
-					<li><a href="#">Can Avastin be used to treat eye disease as well as cancer?</a></li>
-					<li><a href="#">Who came up with the name Avastin? What does it mean?</a></li>
-					<li><strong><a href="#">More...</a></strong></li>
-				</ul>
-			</div>
-		</div><!--/.fbtool-body-->
-		<div class="foot">
-			<a href="/contact-us" class="panel half text-only column-break">
-				<p>Still have questions? <span class="fake-link">Contact Us</span>.</p>
-			</a>
-			<a href="#" class="panel half text-only" data-target="common-questions">
-				<p>See all <span class="fake-link">Frequently Asked Questions</span>.</p>
-			</a>
-		</div>
-	</div><!--/.page-->
-
-
-	<div class="page" data-page="common-questions">
-		<div class="fbtool-body">
-			<div class="panel questions">
-				<h1><span>Common Questions</span></h1>
-				<ul class="feedback-tool-results">
-					<li><a href="#">I'm having trouble with Avastin. Who should I call?</a></li>
-					<li><a href="#">Can Avastin be used to treat eye disease as well as cancer?</a></li>
-					<li><a href="#">What are the potential adverse effects of Avastin?</a></li>
-					<li><a href="#">I'm having trouble with Avastin. Who should I call?</a></li>
-					<li><a href="#">Can Avastin be used to treat eye disease as well as cancer?</a></li>
-					<li><a href="#">Who came up with the name Avastin? What does it mean?</a></li>
-					<li><strong><a href="#">More...</a></strong></li>
-				</ul>
-
-			</div>
-		</div><!--/.fbtool-body-->
-		<div class="foot">
-			<a href="/contact-us" class="panel half text-only column-break">
-				<p>Still have questions? <span class="fake-link">Contact Us</span>.</p>
-			</a>
-			<a href="#" class="panel half text-only" data-target="common-questions">
-				<p>See all <span class="fake-link">Frequently Asked Questions</span>.</p>
-			</a>
-		</div>
-	</div><!--/.page-->
-
-</div></div><!--/.feedback-tool-->
 
 <script type="text/javascript">
 	var _gaq = _gaq || [];
 	_gaq.push(['_setAccount', 'UA-22947831-2']);
 	_gaq.push(['_setDomainName', 'gene.com']);
 	_gaq.push(['_setAllowLinker', true]);
-	_gaq.push(['_trackPageview']);
+		_gaq.push(['_trackPageview']);
+		
 
 	(function() {
 	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -1525,6 +539,35 @@
 	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 	})();
 
+
 </script>
+
+<script type="text/javascript">
+  var GoSquared = {};
+  GoSquared.acct = "GSN-869521-Y";
+  (function(w){
+    function gs(){
+      w._gstc_lt = +new Date;
+      var d = document, g = d.createElement("script");
+      g.type = "text/javascript";
+      g.src = "//d1l6p2sc9645hc.cloudfront.net/tracker.js";
+      var s = d.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(g, s);
+    }
+    w.addEventListener ?
+      w.addEventListener("load", gs, false) :
+      w.attachEvent("onload", gs);
+  })(window);
+</script>
+
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0012/7748.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+
+
+
 
 </body></html>
