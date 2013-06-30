@@ -1,28 +1,46 @@
-> *The following text is extracted and transformed from the thebookseller.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230184716id_/http%3A//www.thebookseller.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebookseller.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630170333id_/http%3A//thebookseller.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy | The Bookseller
 
-###  Introduction
+**Use of Cookies                        Privacy**  
+ 
 
-Respecting the privacy of our customers and ensuring the confidentiality of customer information is critical to The Bookseller, Nielsen Business Media, and The Nielsen Company. The purpose of this Privacy Policy is to ensure that we interact with all of our customers in line with current legislation such as the Data Protection Act 1998 and in accordance with their wishes.
+**_The Bookseller's  _use of COOKIES**.  (Important, please read.)
 
-###  The policy
+**By continuing to use this website, you are consenting to our use of cookies unless you have disabled them.**   
 
-  * (1) The Bookseller will use your contact details (postal address, email address, telephone, mobile and fax numbers) to contact you regarding the product and/or services you have requested. This includes re-registration/renewal notifications, surveys on improving our service to you and/or invitations to exhibitions, seminars and shows.
-  * (2) From time to time The Bookseller may invite you to register in order to receive magazines, email newsletters, enter competitions, and receive services from Nielsen Business Media websites. This will require you to confirm personal information such as your name, email address, home and work postcodes. This information is mandatory and is required by The Bookseller for security purposes and enable The Bookseller to supply a reasonable level of services to users and our advertisers. We will ask for information such as job function, company sector, company/ name and date of birth. During registration, you will also be asked to choose a password for future access to the relevant site(s).
-  * (3) The Bookseller offers you the chance to opt in to receive additional information from The Bookseller and its associated companies by email, telephone and/or SMS. This includes other products/services that The Bookseller and its associated companies offer and that The Bookseller feels will be of interest to you.
-  * (4) The Bookseller offers you the chance to opt in to receive marketing information from other carefully selected organisations by email, telephone and/or SMS. The Bookseller will only pass on these details if you opt in. The Bookseller takes all measures possible to ensure that the contact you receive will be from reputable organisations. The Bookseller however cannot accept any responsibility for use of the data once it has been passed on.
-  * (5) The Bookseller offers you the chance to opt out of receiving additional information from The Bookseller and its associated companies by post. This includes all other products/services that The Bookseller and its associated companies offer.
-  * (6) The Bookseller offers you the chance to opt out of receiving marketing information from other carefully selected organisations by post. The Bookseller takes all measures possible to ensure that the contact you receive will be from reputable organisations. The Bookseller cannot however accept any responsibility for use of the data once it has been passed on.
-  * (7) Aggregate statistical information gathered from The Bookseller registration forms may be passed on to advertisers or others regarding sales or website usage. At no point will this include personal identifying information.
-  * (8) At all times a recipient of a The Bookseller product and/or service will have the opportunity to amend their contact details and/or to opt in or out of any of the options listed above in points 3, 4, 5 and 6. You can also request, at any time, to have your personal details flagged on the The Bookseller databases to ensure you do not continue to receive such information. We will not actually delete your record from the The Bookseller databases as we would no longer be able to identify you, which could lead to you receiving information from us in the future. To action any of these requests please contact the relevant customer care department of the product/service you subscribe to.
-  * (9) You have the right to be told what personal information we hold about you on our databases. You should write to Stepanie McNamara, The Bookseller, Endeavour House, 189 Shaftesbury Avenue, London WC2H 8TJ. In your letter you must state your full name, your address and all publications and/or services from The Bookseller to which you know you subscribe. A small administration charge of £5.00 will be made for fulfilling this request.
-  * (10) The Bookseller may make anonymous use of information to help diagnose faults, manage the system and gather broad demographic information about our users in general. This information will be stripped of all details that could identify you personally. For example, we may use IP addresses to help fix performance problems with our server.
-  * (11) The Bookseller uses all reasonable precautions to keep the personal information disclosed to it secure.
-  * (12) This statement does not extend to sites that are linked to The Bookseller site but which are not part of the Nielsen Business Media network. You should refer to those sites for further details about their use of your personal information. The Bookseller is not responsible for the content or the privacy policies of third party web sites linked to this site.
-  * (13) If you use a The Bookseller website certain information is automatically collected so that delivery can be made of the service. Cookies may be stored on your machine by your browser. You can set your browser to disable cookies, but then you might find some website features will not work.
-  * (14) When you request a page from the site's web server, the server automatically collects some information about your system, including your IP address. The Bookseller collects the minimum information necessary to make the service work - this information is essential to send the pages back across the Internet to the right computer.
-  * (15) The Bookseller uses "SiteCensus" to analyse traffic to the The Bookseller site. SiteCensus does not create individual profiles for visitors. If you wish to obtain more information about SiteCensus contact [webeditor@bookseller.co.uk](mailto:webeditor@bookseller.co.uk "Email the web
- editor")
+Like most other websites,  _thebookseller.com_  uses cookies to store information on your computer.
 
+A cookie is a small file which recognises when you visit the site.  Cookies do NOT give us access to your computer or to personal data. 
 
+As an example, a cookie is used to remember who you are when you are browsing round the site and to remember you when you come back on later visits without having to log in again.  This makes your experience of thebookseller.com smoother and easier. 
+
+We also use cookies for online audience monitoring which may be used to tailor the advertisements that are displayed to your interests. 
+
+This site runs Google Analytics  for anonymised visitor activity tracking purposes.  Cookies allow us to monitor which pages are visited most frequently and which content is shared to help us ensure our content is relevant and engaging.
+
+Your browser probably accepts cookies by default but if you prefer you can change your browser settings to decline cookies.  This may however spoil your experience of  _thebookseller.com_  . 
+
+**Privacy**
+
+(1)  _The Bookseller_  uses all reasonable precautions to keep the personal information disclosed to it secure.
+
+(2)  _The Bookseller_  will use your contact details to contact you regarding the product and/or services you have requested and other products and services from our parent company, The Bookseller Group. This includes email newsletters, competition entries, subscription information, renewal notifications, surveys on improving our service to you, and/or invitations to our conferences and events.
+
+(3)  _The Bookseller_  offers you the chance to opt in to receive occasional  marketing information from other carefully selected organisations by post, email, telephone and/or SMS.  _We_  will only use your details for this purpose if you opt in.  _The Bookseller_   takes all measures possible to ensure that the contact you receive will be from reputable organisations but cannot accept any responsibility for use of the data once it has been passed on.
+
+(4) _The Bookseller_ does not disclose information about identifiable individuals to advertisers. Aggregate statistical information gathered from  registration forms may be passed on to advertisers or others regarding sales or website usage. At no point will this include personal identifying information.
+
+(5) At all times a recipient of a  _Bookseller_  product and/or service will have the opportunity to amend their contact details.  Simply log in to your account and visit My Profile to make the required changes. To opt out of any of the newsletter options, please use the unsubscribe link to be found on every newsletter we send.  Alternatively contact Customer Service [info@booksellersubs.com]
+
+(6) You have the right to be told what personal information we hold about you on our databases. You should write to Anna Martin,  _The Bookseller_ , Crowne House, 56-58 Southwark Street, London SE1 1UN.  In your letter you must state your full name, your address, and your email address(es) plus all publications and/or services from  _The Bookseller_  to which you know you subscribe. A small administration charge of £10.00 will be made for fulfilling this request.
+
+(7)  _The Bookseller_  may make anonymous use of information to help diagnose faults, manage the system and gather broad demographic information about our users in general. This information will be stripped of all details that could identify you personally. For example, we may use IP addresses to help fix performance problems with our server.
+
+(8)  _The Bookseller  _is not responsible for the content or the privacy policies of third-party websites linked to this site.
+
+(9) When you request a page from the site's web server, the server automatically collects some information about your system, including your IP address.  _Thebookseller.com_  collects the minimum information necessary to make the service work - this information is essential to send the pages back across the Internet to the right computer.
+
+(10) The Bookseller  uses Google Analytics to analyse traffic to our websites. Google Analytics does not create individual profiles for visitors. You can learn more about Google Analytics [here](http://www.google.com/analytics/index.html).
+
+ (11)   _The Bookseller_  may change this policy at any time without notice.
