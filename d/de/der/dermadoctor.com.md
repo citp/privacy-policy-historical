@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dermadoctor.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215022828id_/http%3A//www.dermadoctor.com/customer-service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dermadoctor.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630093034id_/http%3A//www.dermadoctor.com/customer-service/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | DERMAdoctor
 
@@ -26,7 +26,7 @@ This site has security measures in place to protect the loss, misuse and alterat
 
 ### Choice/Opt-Out
 
-This site gives users the ability to opt out from our database to no longer receive future communication such as our newsletter. The user may also change personal information such as his/her email address at this location. To do so, go to the **[My Account](https://web.archive.org/web/20121215022828id_/http%3A//www.dermadoctor.com/customer/account)** Dashboard.
+This site gives users the ability to opt out from our database to no longer receive future communication such as our newsletter. The user may also change personal information such as his/her email address at this location. To do so, go to the **[My Account](https://web.archive.org/web/20130630093034id_/http%3A//www.dermadoctor.com/customer/account)** Dashboard.
 
 You can send email to **[info@DERMAdoctor.com](mailto:info@DERMAdoctor.com) **
 
