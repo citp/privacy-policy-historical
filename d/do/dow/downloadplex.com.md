@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downloadplex.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606172022id_/http%3A//www.downloadplex.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadplex.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630212019id_/http%3A//www.downloadplex.com/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Downloadplex.com
 
@@ -15,6 +15,8 @@ A cookie is a piece of data stored on the user's hard drive containing informati
   * Users may update their ads preferences [here](http://www.google.com/ads/preferences/). 
 
 We also use other third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. You can see a list of these companies by clicking [here](https://www.google.com/adsense/support/bin/answer.py?answer=94149). You may visit these vendor websites to opt out of cookies (if the vendor offers this capability). 
+
+We partner with ValueClick to serve ads and/or collect certain information when you visit our website. ValueClick may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this "behavioral advertising" practice or to opt-out of this use of your anonymous information, you can visit <http://valueclickmedia.com/member_privacy.shtml>
 
 #### Security
 
