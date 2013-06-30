@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bungiestore.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229150442id_/http%3A//www.bungiestore.com/info/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bungiestore.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630115228id_/http%3A//www.bungiestore.com/info/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bungie Store
 
