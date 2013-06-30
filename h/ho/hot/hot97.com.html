@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the hot97.com privacy policy that was archived on 2012-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121120014535id_/http%3A//www.hot97.com/privacypolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hot97.com privacy policy that was archived on 2013-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130630191928id_/http%3A//www.hot97.com/privacypolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <!-- EI Page Objects -->
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" language="javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
 <link rel="stylesheet" type="text/css" href="/EI/CSS/Public/global.css">
+<script type="text/javascript" language="javascript" src="/EI/SharedObjects/JS/global.js" async=""></script>
 <!-- // EI Page Objects --><!-- Global header Start-->
 <meta property="fb:app_id" content="264933943598436">
 <script type="text/javascript">
@@ -12,8 +13,20 @@ var th = document.getElementsByTagName('head')[0];var s = document.createElement
 s.setAttribute('type','text/javascript');
 s.setAttribute('src','http://m.hot97.com/mobile/javascript?loc='+encodeURI(document.location));
 th.appendChild(s);
-</script><script type="text/javascript" src="http://m.hot97.com/mobile/javascript?loc=https://web.archive.org/web/20121120014535id_/http%253A//www.hot97.com/privacypolicy.aspx"></script>
+</script><script type="text/javascript" src="http://m.hot97.com/mobile/javascript?loc=https://web.archive.org/web/20130630191928id_/http%253A//www.hot97.com/privacypolicy.aspx"></script>
 
+<!-- ######## CRITEO CODE ####### -->
+<script type="text/javascript">
+var crtg_nid="2034";
+var crtg_cookiename="cto_loud";
+var crtg_varname="crtg_content";
+function crtg_getCookie(c_name){ var i,x,y,ARRCookies=document.cookie.split(";");for(i=0;i<ARRCookies.length;i++){x=ARRCookies[i].substr(0,ARRCookies[i].indexOf("="));y=ARRCookies[i].substr(ARRCookies[i].indexOf("=")+1);x=x.replace(/^\s+|\s+$/g,"");if(x==c_name){return unescape(y);}}return'';}
+var crtg_content = crtg_getCookie(crtg_cookiename);var crtg_rnd=Math.floor(Math.random()*99999999999);
+var crtg_url=location.protocol+'//rtax.criteo.com/delivery/rta/rta.js?netId='+escape(crtg_nid);crtg_url+='&cookieName='+escape(crtg_cookiename);crtg_url+='&rnd='+crtg_rnd;crtg_url+='&varName=' + escape(crtg_varname);
+var crtg_script=document.createElement('script');crtg_script.type='text/javascript';crtg_script.src=crtg_url;crtg_script.async=true;
+if(document.getElementsByTagName("head").length>0)document.getElementsByTagName("head")[0].appendChild(crtg_script);else if(document.getElementsByTagName("body").length>0)document.getElementsByTagName("body")[0].appendChild(crtg_script);</script><script type="text/javascript" src="https://rtax.criteo.com/delivery/rta/rta.js?netId=2034&amp;cookieName=cto_loud&amp;rnd=63669958025&amp;varName=crtg_content" async=""></script>
+
+<!-- ######## END CRITEO CODE ####### -->
 
 
 <!--####################################################
@@ -105,7 +118,8 @@ var tagArray = new Array(
 {page:"/concerts/details.aspx" ,zone:"music" ,keywords:"content=nowplaying" },
 {page:"/Contests/Register.aspx" ,zone:"music" ,keywords:"content=nowplaying" },
 {page:"http://whosnext.hot97.com/" ,zone:"music" ,keywords:"content=top5;content=musicnews" },
-{page:"/summerjam/index.aspx" ,zone:"music" ,keywords:"content=concerts" },
+{page:"/summerjam/index.aspx" ,zone:"music" ,keywords:"content=summerjam" },
+{page:"/summerjam/2013/" ,zone:"music" ,keywords:"content=summerjam" },
 {page:"/SummerJam/2012/TicketInfo.aspx" ,zone:"music" ,keywords:"content=concerts" },
 {page:"/SummerJam/2012/Platinum.aspx" ,zone:"music" ,keywords:"content=concerts" },
 {page:"/SummerJam/2012/History.aspx" ,zone:"music" ,keywords:"content=concerts" },
@@ -162,6 +176,8 @@ var tagArray = new Array(
 {page:"/blackhistorymonth2012/milestones.aspx" ,zone:"news" ,keywords:"content=musicnews" },
 {page:"/Voteformovies/" ,zone:"news" ,keywords:"content=musicnews" },
 {page:"/RIP/Guru.aspx" ,zone:"news" ,keywords:"content=musicnews" },
+{page:"/5borotour/index.aspx" ,zone:"Metro_PCS_Microsite" ,keywords:"order=metropcs5tour" },
+{page:"/RoadToSummerJam/index.aspx" ,zone:"Metro_PCS_Microsite" ,keywords:"order=rtsj" },
 {page:"/LOVINGYOURCREW/index.aspx" ,zone:"news" ,keywords:"content=musicnews" }
 	)
 
@@ -174,16 +190,25 @@ for(i=0;i<tagArray.length;i++){
 	if(tagArray[i].page.toLowerCase() == window.location.pathname.toLowerCase() || tagArray[i].page.toLowerCase() == (window.location.pathname.toLowerCase() +"index.aspx")){
 		tzone = "/"+tagArray[i].zone;
 		
+		
+		var all_keywords = crtg_content;
+
 		if(undefined != tagArray[i].keywords){
-			var tkeywordsub = tagArray[i].keywords.split(";");
+			all_keywords += tagArray[i].keywords;
+		}
+
+			var tkeywordsub = all_keywords.split(";");
 			for(k=0;k<tkeywordsub.length;k++){
 				
-					tkeywords.push( tkeywordsub[k].split("="));
+					if(tkeywordsub[k].length >1){
+						tkeywords.push( tkeywordsub[k].split("="));
+					}
 			}
-		}
+		
 		
 	}
 }
+
 
 </script>
 <!-- END LIST OF PAGES FOR DOUBLECLICK AD TAG CUSTOMIZATION --->
@@ -212,7 +237,7 @@ googletag.cmd.push(function() {
 googletag.defineSlot('/6732/emmis.wqht'+tzone, [300, 250], 'v2-300x250top').setTargeting('pos','top').addService(googletag.pubads());
 googletag.defineSlot('/6732/emmis.wqht'+tzone, [300, 250], 'v2-300x250bot').setTargeting('pos','bot').addService(googletag.pubads());
 googletag.defineSlot('/6732/emmis.wqht'+tzone, [728,90], 'v2-728x90bot').setTargeting('pos','bot').addService(googletag.pubads());
-googletag.defineSlot('/6732/emmis.wqht'+tzone, [[960,60],[970,90],[970,66],[970,250]], 'v2-960x60').setTargeting('pos','top').addService(googletag.pubads());
+googletag.defineSlot('/6732/emmis.wqht'+tzone, [[960,60],[970,90],[970,66],[970,250],[953,248]], 'v2-960x60').setTargeting('pos','top').addService(googletag.pubads());
 
 var gsame = false;
 	
@@ -244,7 +269,6 @@ var gsame = false;
 googletag.enableServices();
 });
 </script>
-
 <!-- Global header End -->
 <script language="JavaScript"></script><style type="text/css"></style>
 <script language="javascript" type="text/javascript">
@@ -273,25 +297,22 @@ var ei_UserID = "";
 
 	<title>
 	HOT 97 IS HIP HOP AND R&amp;B - Privacy Policy
-</title><script async="" src="http://disqus.com/forums/hot97/count.js"></script><script src="https://c.svlu.net/cjs.aspx" async="true"></script></head>
+</title><script async="" src="http://disqus.com/forums/hot97/count.js"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 	<body id="template3" class="interior int1">
-		<form method="post" action="privacypolicy.aspx" id="aspnetForm">
+		<form method="post" action="/privacypolicy.aspx" id="aspnetForm">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMzU3NjI4NjIzZGSdTNVcqilPNVs1he2Q53Caj1o1nw==">
 
 
 <script src="/ScriptResource.axd?d=pjLM6VcjeZoh4Ad1Suy5D_qb1QSydlI7UFErG0MmV6m4K684v5ISwWhp2_Le1tR23hygw2VTLPgeZZzRD84ilNs-odTaQAEd6-iYXvde1Oo5ql3qk8KF1mad2GFXII2Ibk-hZ7jgReSkCC7EhB3J1ur28bw1&amp;t=ffffffffc13acc3f" type="text/javascript"></script>
-			
-<script type="text/javascript" language="javascript">
-
-jQuery.ajaxSetup({
-            converters: { "text json": function (jsonString) {
-                var res = JSON.parse(jsonString);
-                if (res && res.hasOwnProperty("d"))
-                    res = res.d;
-                return res;
-            } }
-});
+			<input type="hidden" name="ctl00$ctl06$sm" id="ctl00_ctl06_sm">
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.setServerId("ctl00_ctl06_sm", "ctl00$ctl06$sm");
+Sys.Application._enableHistoryInScriptManager();
+//]]>
 </script>
+
+
 			<div id="page_wrapper">
 			<div id="footerWrap">
 			<div id="wrapper">
@@ -342,15 +363,33 @@ var disqus_shortname = 'hot97';
   (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
 }());
 // --></script>
-</div><div id="masthead"><a href="http://www.hot97.com"><img src="http://www.hot97.com/Pics/misc/blank.png" alt="" width="960" height="160" usemap="#imgmap201221716291"></a><map id="imgmap201221716291" name="imgmap201221716291"></map></div><ul id="topnav">
-<li class="first"><a href="http://www.hot97.com/">Home</a></li>
+</div><div id="masthead"><a href="http://hot97.com/live" target="_blank"><img src="http://www.hot97.com/Pics/misc/blank.png" alt="" width="960" height="160" usemap="#imgmap201221716291"></a><map id="imgmap201221716291" name="imgmap201221716291"> 
+<area title="" shape="rect" coords="664,8,947,145" href="http://www.ticketmaster.com/event/00004A61CF5C694D" alt="" target="_blank">
+ </map></div><ul id="topnav">
+<li class="first"><a href="http://www.hot97.com/">Home</a>
+<ul>
+<li><a href="http://www.hot97.com/new-on-hot97">New on HOT 97</a></li>
+</ul>
+</li>
+<li><a href="http://www.hot97.com/summerjam">Summer Jam</a><br>
+<ul>
+<li><a href="http://www.ticketmaster.com/event/00004A61CF5C694D" target="_blank">Buy Tickets</a></li>
+<li><a href="http://www.hot97.com/summerjam">Main Stage Artist</a></li>
+<li><a href="http://www.hot97.com/SummerJam-Festival-Village-2013/.aspx">Festival Stage Artist</a></li>
+<li><a href="http://www.hot97.com/SummerJam/2013/Platinum.aspx">Platinum Lounge</a></li>
+<li><a href="http://www.hot97.com/summerjam/2013/boostmobile-MC-Battle.aspx">Boost MC Battle</a></li>
+<li><a href="http://www.hot97.com/summerjam/2013/BoostRetail2013.aspx">Boost Retail Locations</a></li>
+<li><a href="http://www.hot97.com/SummerJam/2013/TV.aspx">Summer Jam TV</a></li>
+<li><a href="http://www.hot97.com/roadToSummerJam">The Road To Summer Jam</a></li>
+</ul>
+</li>
 <li><a href="http://www.hot97.com/tv">HOT 97 <span class="red">TV</span></a>
 <ul>
-<li><a href="http://www.hot97.com/SJEncore2012.aspx" target="_blank">Summer Jam 2012 Encore</a></li>
-<li><a href="http://www.hot97.com/TV/Musicvideos/">Music Videos</a></li>
+<li><a href="http://www.hot97.com/live">LIVE STREAM</a></li>
 <li><a href="http://www.hot97.com/TV/interview/">Interviews</a></li>
 <li><a href="http://www.hot97.com/97Seconds">97 Seconds</a></li>
 <li><a href="http://www.hot97.com/tv/freestyles">HOT 97 Freestyles</a></li>
+<li><a href="http://www.hot97.com/Realer-Sports/index.aspx">Realer Sports</a></li>
 </ul>
 </li>
 <li><a href="http://www.hot97.com/OnAir">on-air</a>
@@ -363,7 +402,6 @@ var disqus_shortname = 'hot97';
 <ul>
 <li class="last"><a href="http://www.hot97.com/BroadcastHistory.aspx">Recently Played</a></li>
 <li class="last"><a href="http://www.hot97.com/playlist/">Playlist</a></li>
-<li class="last"><a href="http://www.hot97.com/albumreleases/Listings.aspx">Album Releases</a></li>
 </ul>
 </li>
 <li><a href="http://www.hot97.com/blogs">Blogs<br> </a>
@@ -371,32 +409,31 @@ var disqus_shortname = 'hot97';
 <li><a href="http://www.hot97.com/angie-martinez">Angie Martinez</a></li>
 <li><a href="http://www.hot97.com/missinfo">Miss Info</a></li>
 <li><a href="http://www.hot97.com/big-dennis/">Big Dennis</a></li>
+<li><a href="http://hot97.com/mistercee">DJ Mister Cee</a></li>
 <li><a href="http://www.hot97.com/dj-camilo/">DJ Camilo</a></li>
 <li><a href="http://www.hot97.com/black-rican-jew">Black,Rican,Jew</a></li>
 <li><a href="http://www.hot97.com/dj-enuff">DJ Enuff</a></li>
 <li><a href="http://www.hot97.com/funkmaster-flex">Funkmaster Flex</a></li>
+<li><a href="http://www.hot97.com/lisa-evers-street-soldiers/">Lisa Evers</a></li>
 <li><a href="http://www.hot97.com/all-things-hot">All Things HOT</a></li>
-<li><a href="http://hot97.com/hot-style">HOT Style</a></li>
+<li><a href="http://www.hot97.com/hot-style">HOT Style</a></li>
 <li><a href="http://www.hot97.com/new-music">New Music </a></li>
-</ul>
-</li>
-<li><a href="http://www.hot97.com/concerts/listings.aspx">Concerts</a>
-<ul>
-<li><a href="http://www.hot97.com/concerts/listings.aspx">Concert Calendar</a></li>
-<li><a href="http://www.hot97.com/summerjam">Summer Jam 2012</a></li>
+<li><a href="http://hot97.com/whos-next">Who's Next&nbsp;</a></li>
+<li><a href="http://www.hot97.com/mixtape-crates/">Mixtape Crates</a></li>
 </ul>
 </li>
 <li><a href="http://www.hot97.com/contests/index.aspx">Win Stuff</a></li>
 <li><a href="http://www.hot97.com/Community">On The Streetz</a>
 <ul>
-<li class="last"><a href="http://www.hot97.com/photopages/albums.aspx">Photo Gallery</a></li>
-<li class="last"><a href="http://www.hot97.com/blogs">Blogs + Lifestyle</a></li>
 <li class="last"><a href="http://www.hot97.com/Events">Events</a></li>
-<li><a href="http://www.hot97.com/Community">The Community</a></li>
+<li class="last"><a href="http://www.hot97.com/concerts/listings.aspx">Concert Calendar</a></li>
+<li class="last"><a href="http://www.hot97.com/photopages/albums.aspx">Photo Gallery</a></li>
+<li class="last"><a href="http://www.hot97.com/Community">The Community</a></li>
+<li class="last"><a href="http://www.hot97.com/blogs">Blogs + Lifestyle</a></li>
 <li class="last"><a href="http://www.hot97.com/profiles/browse.aspx">The Jump-off [Singles]</a></li>
 </ul>
 </li>
-<li><a href="http://www.hot97.com/StreamHot">Stream Us</a></li>
+<li><a href="http://www.hot97.com/StreamHot/index.aspx">Stream Us</a></li>
 <li><a href="http://whosnext.hot97.com/">Who's Next</a>
 <ul>
 <li class="last"><a href="http://whosnext.hot97.com/register.php">Register</a></li>
@@ -406,8 +443,8 @@ var disqus_shortname = 'hot97';
 <li class="last"><a href="http://whosnext.hot97.com/calendar.php">Calendar</a></li>
 <li class="last"><a href="http://whosnext.hot97.com/mixtapes.php">Mixtapes</a></li>
 </ul>
-<a href="http://www.hot97.com/summerjam"><br> </a></li>
-</ul><div class="_dblclick" id="v2-960x60" style="min-width:960px;margin:0 auto;display:none;">
+</li>
+</ul><div class="colorBox"><div class="_dblclick" id="v2-960x60" style="clear:both;width:960px;margin:0 auto;display:none;">
 <script type="text/javascript">
 googletag.cmd.push(function()
  { 
@@ -417,37 +454,8 @@ googletag.cmd.push(function()
 
 </script>
 </div>
-<div id="infobar">
-<table width="960" border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td width="960" height="30" valign="top"><iframe src="http://s1.rsspump.com/rss.aspx?s=cf47efe1-79f0-4c53-82b1-d8c2e5165057&amp;speed=1&amp;t=0&amp;d=0&amp;u=0&amp;p=0&amp;b=0&amp;ic=7&amp;font=Verdana&amp;fontsize=11px&amp;bgcolor=&amp;color=FFFFFF&amp;type=fade&amp;su=0&amp;sub=1&amp;sw=0" frameborder="0" width="90%" height="30" scrolling="no" allowtransparency="true"></iframe></td>
-    <td width="408" valign="top"><div id="cse-search-form" style="width: 90%; height:14%">Loading</div>
-<script src="//www.google.com/jsapi" type="text/javascript"></script>
-<script type="text/javascript"> 
-  google.load('search', '1', {language : 'en', style : google.loader.themes.MINIMALIST});
-  google.setOnLoadCallback(function() {
-    var customSearchControl = new google.search.CustomSearchControl('015904523570385256891:wvo8cfrwewy');
-    customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
-    var options = new google.search.DrawOptions();
-    options.enableSearchboxOnly("/search/results.aspx");
-    customSearchControl.draw('cse-search-form', options);
-  }, true);
-</script>
-
-<style type="text/css">
-  input.gsc-input {
-    border-color: #777777;
-  }
-  input.gsc-search-button {
-    border-color: #141414;
-    background-color: #141414;
-  }
-</style>
-</td>
-  </tr>
-</tbody></table>
-<br>
 </div>
+
 
 
 
@@ -541,7 +549,8 @@ Please make any communications as complete and descriptive as possible, and we w
 				<div class="clear"></div>					
 				</div><!-- //content -->
 				<div id="footer">
-					<div id="v2-728x90bot" class="_dblclick" style="display: none;">
+					<div>&nbsp;</div>
+<div id="v2-728x90bot">
 <script type="text/javascript">// <![CDATA[
 googletag.cmd.push(function()
  { 
@@ -549,7 +558,8 @@ googletag.cmd.push(function()
 
  });
 // ]]></script>
-</div><ul id="footer_nav">
+</div>
+<div>&nbsp;</div><ul id="footer_nav">
 <li class="first"><a href="http://www.hot97.com">Home</a></li>
 <li><a href="http://www.hot97.com/tv">HOT 97 TV</a></li>
 <li><a href="http://www.hot97.com/onair">on-air</a></li>
@@ -566,7 +576,7 @@ googletag.cmd.push(function()
 </ul>
 <ul class="footer_links">
 <li><a href="http://www.hot97.com/privacypolicy.aspx">Privacy Policy</a></li>
-<li><a href="http://www.hot97.com/Other/PDF/EEO_EMMISNY.pdf">EEO Forms</a></li>
+<li><a href="http://www.hot97.com/Other/PDF/EEO-Public-File-Report-Feb-13_2.pdf" target="_blank">EEO Forms</a></li>
 <li><a href="http://www.hot97.com/station/contestrules.aspx">Official Contest Rules</a></li>
 <li><a href="http://www.hot97.com/Station/Jobs.aspx">Jobs</a></li>
 </ul>
@@ -593,22 +603,11 @@ _gaq.push(
 
 </script>
 
-<!-- BEGIN: SeeVolution -->
-<script type="text/javascript">
-(function()
-{
-var ms = document.createElement("script");
-var site = ("https:" == document.location.protocol) ? "https://c.svlu.net/cjs.aspx" : "http://c.svlu.net/cjs.aspx";
-ms.src = site;
-ms.setAttribute("async", "true");
-document.documentElement.firstChild.appendChild(ms);
-})();
-</script>
-<!-- END: SeeVolution -->
+
 
 
 						<p class="copyright">
-							Copyright © 2012. All rights reserved.
+							Copyright © 2013. All rights reserved.
 							<a href="http://emmisinteractive.com/" target="_blank" class="ei_logo"><img src="../../../images/emmis_gray.png" alt="empowered by Emmis Interactive"></a>
 						</p>
 				</div><!-- //footer -->	
@@ -640,7 +639,35 @@ catch (err) {}
 		<script type="text/javascript" src="/EI/MS/Scripts/supersleight-min.js"></script>
 		<![endif]-->
 		<script type="text/javascript" src="/SiteAssets/Javascript/jquery.base.js"></script>
-	
+	<!-- Global footer Start-->
+<!--- PHOTO GALLERY Z_INDEX FIX -->
+<style>
+
+div[id*=divOverlay]{
+z-index:110000000  !important;
+}
+</style>
+
+
+<script type="text/javascript"> 
+adroll_adv_id = "ZXLVD2YPPRBOPGEEDRRFSK"; 
+adroll_pix_id = "4A6MFJCITZGKRHKNBKZCCC"; 
+(function () { 
+var oldonload = window.onload; 
+window.onload = function(){ 
+   __adroll_loaded=true; 
+   var scr = document.createElement("script"); 
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com"); 
+   scr.setAttribute('async', 'true'); 
+   scr.type = "text/javascript"; 
+   scr.src = host + "/j/roundtrip.js"; 
+   ((document.getElementsByTagName('head') || [null])[0] || 
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr); 
+   if(oldonload){oldonload()}}; 
+}()); 
+</script>
+<!-- Global footer End -->
+
 
 
 </div></form></body></html>
