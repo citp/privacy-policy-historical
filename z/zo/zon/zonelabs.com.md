@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the zonelabs.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030094700id_/http%3A//www.zonealarm.com/security/en-us/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zonelabs.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630134047id_/http%3A//www.zonealarm.com/security/en-us/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy by ZoneAlarm, a division of Checkpoint Software
 
 ZoneAlarm Website Statement of Privacy
 
-This document was last updated October 24, 2012.
+This document was last updated March 28, 2013.
 
 [ ](http://www.truste.org/ivalidate.php?url=www.zonealarm.com&sealid=101)
 
-[ZoneAlarm, a Check Point Software Technologies, Inc. Company, ("ZoneAlarm") is committed to protecting your privacy. This Privacy Policy explains our privacy practices for our website, ](http://www.truste.org/ivalidate.php?url=www.zonealarm.com&sealid=101)[www.zonealarm.com](https://web.archive.org/web/20121030094700id_/http%3A//www.zonealarm.com/security/en-us/home.htm) on the World Wide Web (the "Site"), as well as for ZoneAlarm Internet-delivered services that may be accessed through the normal use of our products (the "Services"). You can travel through most of our Site without giving us any information about yourself. But sometimes we do need information to provide services that you request. The following statement explains our information-gathering and dissemination practices. Please read the complete ZoneAlarm Privacy Policy. 
+[Zone Labs, L.L.C. ("ZoneAlarm") is committed to protecting your privacy. This Privacy Policy explains our privacy practices for our website, ](http://www.truste.org/ivalidate.php?url=www.zonealarm.com&sealid=101)[www.zonealarm.com](https://web.archive.org/web/20130630134047id_/http%3A//www.zonealarm.com/security/en-us/home.htm) on the World Wide Web (the "Site"), as well as for ZoneAlarm Internet-delivered services that may be accessed through the normal use of our products (the "Services"). You can travel through most of our Site without giving us any information about yourself. But sometimes we do need information to provide services that you request. The following statement explains our information-gathering and dissemination practices. Please read the complete ZoneAlarm Privacy Policy. 
 
 General Information | What Information We Gather/Track | If You Opt to Receive Communications, How We Will Contact You | Site Functionality | Security of Your Information | ZoneAlarm Services | Correcting/Updating Personally Identifiable Information | Updating/Unsubscribing Your Email Address
 
@@ -24,7 +24,7 @@ ZoneAlarm complies with the U.S.-E.U. Safe Harbor Framework as set forth by the 
 
 By using this Site or any products or services provided through the Site, you expressly consent to the use and disclosure of information as described in this Privacy Policy. IF YOU DO NOT AGREE WITH ANY OF THE TERMS BELOW, YOU SHOULD NOT USE THIS SITE OR THE PRODUCTS OR SERVICES OFFERED BY ZONEALARM AT THIS SITE. 
 
-Please note that the [ZoneAlarm User Forum](https://web.archive.org/web/20121030094700id_/http%3A//www.zonealarm.com/security/en-us/community/user-forum-agreement.htm) is covered by its own [privacy policy](https://web.archive.org/web/20121030094700id_/http%3A//www.zonealarm.com/security/en-us/community/user-forum-privacy.htm), which is available for review at any time.   
+Please note that the [ZoneAlarm User Forum](https://web.archive.org/web/20130630134047id_/http%3A//www.zonealarm.com/security/en-us/community/user-forum-agreement.htm) is covered by its own [privacy policy](https://web.archive.org/web/20130630134047id_/http%3A//www.zonealarm.com/security/en-us/community/user-forum-privacy.htm), which is available for review at any time.   
 
 
 What Information We Gather/Track
@@ -70,13 +70,15 @@ Site Functionality
 **Cookies**  
 Persistent "cookies" are small pieces of information that your browser stores on your computer on behalf of a Web site that you have visited. The Site does not use persistent cookies. In order to complete transactions on our site, we do use session cookies. These session cookies do not collect information about you, only about your browser session, and they are destroyed when you close your browser. No data is stored on your computer.
 
-The use of third party cookies is not covered by our privacy policy. We do not have access or control over these cookies. 
+The use of third party cookies is not covered by our privacy policy. We do not have access or control over these cookies.
+
+Third parties may be placing and reading cookies on your browsers or using web beacons to collect information in the course of advertising being served. 
 
 **Clear Gifs (Web Beacons/Web Bugs)**  
 Our third party advertising partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information. 
 
 **Log Files**  
-We (ZoneAlarm and/or our contracted web analytics provider(s)) do keep track of the domains from which you access our Site and Services on the World Wide Web, and may log IP addresses or other identifiers for statistical purposes. We do this to gather broad demographic information for aggregate use to identify and analyze trends and the results ofour marketing efforts, to help diagnose problems with our servers and to administer the Site and Services, and analyze users' movements. We may periodically share aggregate demographic information with our business partners. IP addresses and other identifiers are not linked to personally identifiable information. 
+We (ZoneAlarm and/or our contracted web analytics provider(s)) do keep track of the domains from which you access our Site and Services on the World Wide Web, and may log IP addresses or other identifiers for statistical purposes. We do this to gather broad demographic information for aggregate use to identify and analyze trends and the results of our marketing efforts, to help diagnose problems with our servers and to administer the Site and Services, and analyze users' movements. We may periodically share aggregate demographic information with our business partners. IP addresses and other identifiers are not linked to personally identifiable information. 
 
 **Security of Your Information**  
 All information gathered on the Site is stored and maintained in secure facilities. In addition, internal security provides that this information is coded with restricted access, and our servers are kept in a secure, locked environment that limits access to authorized personnel only. All ZoneAlarm employees, and all external service providers who may process and/or store customer data, are briefed about the company's privacy and security policies on a regular basis. The Site is regularly tested for security breaches to ensure that all information collected is secure from unauthorized viewing. Any service providers with whom ZoneAlarm contracts, and who receive, store, or process personally identifiable customer data, have committed to abide by the provisions of this privacy policy. All transmissions of personally identifiable customer data are encrypted and secure.
@@ -113,13 +115,13 @@ You are free to update or delete inaccuracies within your information at any tim
 
 To change your information, or request that your information be changed, please use one of the following options:
 
-  * Log in at [http://www.zonealarm.com/myaccount](https://web.archive.org/web/20121030094700id_/http%3A//www.zonealarm.com/security/en-us/login.htm)
+  * Log in at [http://www.zonealarm.com/myaccount](https://web.archive.org/web/20130630134047id_/http%3A//www.zonealarm.com/security/en-us/login.htm)
   * Send email to us at [privacy@zonealarm.com](mailto:privacy@zonealarm.com)   
 Please note that this email address will reject messages with attachments of any kind.
   * By Postal Mail:  
  **Attn: Privacy Contact  
-ZoneAlarm  
-959 Skyway Rd, Suite 300  
+Check Point Software Technologies, Inc.  
+959 Skyway Road, Suite 300  
 San Carlos, CA 94070, USA**
 
 
@@ -137,8 +139,8 @@ Users who no longer wish to continue receiving our communications may opt-out of
   * By de-selecting the "Inform me about important updates and news" option in the "Change Registration" section located in the "Product Information" tab of the "Overview" pane in the ZoneAlarm product, 
   * By Postal Mail:  
  **Attn: Unsubscribe  
-ZoneAlarm  
-800 Bridge Parkway  
-Redwood City, CA 94065**
+Check Point Software Technologies, Inc.  
+959 Skyway Road, Suite 300  
+San Carlos, CA 94070**
 
 
