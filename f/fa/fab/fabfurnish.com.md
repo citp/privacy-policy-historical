@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fabfurnish.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225022159id_/http%3A//www.fabfurnish.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabfurnish.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630023652id_/http%3A//www.fabfurnish.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
 ## Privacy Policy
 
-We are Fabfurnish.com, a service provided by by Xerion Retail Pvt. Ltd. Ground Floor, 521, Udyog Vihar, Phase-3, Gurgaon, Haryana, 122016. In this Privacy Policy, references to “you” mean any person submitting any data to us or our agent or the Site.
+We are Fabfurnish.com, a service provided by Alix Retail Pvt. Ltd. Ground Floor, 521, Udyog Vihar, Phase-3, Gurgaon, Haryana, 122016. In this Privacy Policy, references to “you” mean any person submitting any data to us or our agent or the Site.
 
 If you have any comments or suggestions, we would be pleased to receive them at our Gurgaon address or by emailing us at [care@fabfurnish.com](mailto:care@fabfurnish.com)
 
@@ -26,7 +26,7 @@ We may pass your name and address on to a third party in order to make delivery 
 
 We may also share your data with our franchisor. You further authorise the franchisor to use this information to sell products to you, directly or indirectly.
 
-We may also use your data in order to manage the Site, collect payment from you, enable you to subsequently use parts of the Site, detect any fraud or Site abuses, send you information relevant to the Site or our products, and in case we have any queries. Payments that you make through the Site will be processed by our company Xerion Retail Private Limited, a company registered in India.
+We may also use your data in order to manage the Site, collect payment from you, enable you to subsequently use parts of the Site, detect any fraud or Site abuses, send you information relevant to the Site or our products, and in case we have any queries. Payments that you make through the Site will be processed by our company Alix Retail Private Limited, a company registered in India.
 
 You must only submit to us or our agent or the Site information which is accurate and not misleading and you must keep it up to date and inform us of changes.
 
