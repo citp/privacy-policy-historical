@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wtrf.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229143510id_/http%3A//www.wtrf.com/story/18990/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wtrf.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630230033id_/http%3A//www.wtrf.com/story/18990/privacy-policy) for the most accurate reproduction.*
 
 # This Web Site’s Privacy Policy - WTRF 7 News Sports Weather - Wheeling Steubenville
 
