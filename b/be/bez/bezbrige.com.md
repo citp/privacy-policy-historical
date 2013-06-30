@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bezbrige.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523193052id_/http%3A//bezbrige.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D625%3Aprivacy-policy%26catid%3D55%3Aprivacy-policy%26Itemid%3D90) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bezbrige.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630111121id_/http%3A//bezbrige.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D625%3Aprivacy-policy%26catid%3D55%3Aprivacy-policy%26Itemid%3D90) for the most accurate reproduction.*
 
 # Privacy Policy | Privacy Policy
 
