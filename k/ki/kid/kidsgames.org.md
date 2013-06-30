@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidsgames.org privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230190213id_/http%3A//www.uptoten.com/parents.phtml%3Fl%3Den%26sv%3Dlegal%26tv%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidsgames.org privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630200116id_/http%3A//www.uptoten.com/parents.phtml%3Fl%3Den%26sv%3Dlegal%26tv%3D2) for the most accurate reproduction.*
 
 # UpToTen.com Privacy policy
 
@@ -194,7 +194,7 @@ These contractual conditions shall be analyzed and governed by the laws of MAURI
 
 Thank you for being concerned with kids' privacy and safety issues and for taking the time to read this Privacy Policy. We hope that you and your children enjoy UpToTen.com. If you have any questions or comments, please feel free to contact us. 
 
-We hope that we have made the functioning of this site sufficiently clear and that we have responded positively to your expectations. If you have any questions and/or suggestions about security, don't hesitate to contact us at [steve@uptoten.com](mailto:steve@uptoten.com)
+We hope that we have made the functioning of this site sufficiently clear and that we have responded positively to your expectations. If you have any questions and/or suggestions about security, don't hesitate to contact us at [Contact us](http://www.uptoten.com/contact_us.php)
 
 UpToTen, Astor Court, Port Louis, Mauritius  
 Tel: (230) 213 68 37   
@@ -204,7 +204,6 @@ UpToTen reserves the right, at all times, to modify or to renew its privacy poli
   
 | 
 
-All logos, illustrations, music, characters © UpToTen.  
-UpToTen ••Astor Court, Port Louis, Mauritius.   
-Fax: 230 213 68 37  
-Email :[steve@uptoten.com](mailto:steve@uptoten.com)
+[Contact us](http://www.uptoten.com/contact_us.php)
+
+™, ® , © 1999 - 2013 UpToTen All rights reserved.
