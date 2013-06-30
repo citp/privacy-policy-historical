@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the realtytimes.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231003729id_/http%3A//realtytimes.com/rtpages/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtytimes.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630032139id_/http%3A//realtytimes.com/rtpages/privacy.htm) for the most accurate reproduction.*
 
-# Realty Times - Privacy Statement
+# Privacy Statement
 
 | 
 
@@ -75,7 +75,7 @@ The Privacy Notice posted on this site was updated on or about August 15, 2011.
 
 
   
-[ ](http://cpapixel.dedicatednetworks.com/c.aspx?oid=B1C654CCF2C46561C9A508D2AAA23AA46D9E9F26311B75BE&m=)
+
 
 |    
 
@@ -84,28 +84,28 @@ Real Estate News Network
 
 [ ](http://www.adobe.com/go/getflashplayer)
 
-[](http://www2.realtytimes.com/rtnews/linktracker.ag?Open&TYPE=RealTimes\\MarketLeader_SponsorC_roadmap-\(110x35\).jpg&LINK=http://success.marketleader.com/2013businessplan3p?lsr=2013-BusinessPlan-RealtyTimes-Banner&del=2013businessplan&gmc=M-G-ROW-RTI-Bplan-2013)
+[](http://www2.realtytimes.com/rtnews/linktracker.ag?Open&TYPE=RealTimes\\MarketLeader_SponsorC_Domination_110x35.gif&LINK=http://marketleader.com/landing/thrive?lsr=DominateMarket-RTI&del=DominateYourMarket&utm_source=RealtyTimes&utm_medium=pubs&utm_campaign=DominateMarket&utm_content=site%20banad)
 
 **Mortgage Rates**  
-30 Year Fixed: 3.35%  
-15 Year Fixed: 2.65%  
-1 Year Adj: 2.56%  
+30 Year Fixed: 3.98%  
+15 Year Fixed: 3.10%  
+1 Year Adj: 2.58%  
 (U.S. Weekly Averages)  
 
 
 Today's Headlines 08/10/2006  
 
 
-  * [30-Year Fixed-Rate Mortgage Finishes Year Near Historic Low](https://web.archive.org/rtpages/20121228_ratewatch.htm)
-  * [Engaging Your Sphere or Farm](https://web.archive.org/rtpages/20121228_engagingsphere.htm)
-  * [Housing That Caters To Baby Boomers: Which Features Are Important?](https://web.archive.org/rtpages/20121228_babyboomers.htm)
-  * [Homebuyers: 'Darn it, if Congress Torpedoes The Economy, The Housing Recovery is on Full Speed Ahead'](https://web.archive.org/rtpages/20121228_recovery.htm)
-  * [2012 Year End Reports, 2013 Forecasts Portend More Robust Housing Recovery](https://web.archive.org/rtpages/20121227_housingrecovery.htm)
-  * [Ask the HOA Expert](https://web.archive.org/rtpages/20121227_hoaexpert.htm)
-  * [Mortgage Rates Still Low While Housing Market Builds Momentum](https://web.archive.org/rtpages/20121227_rateupdate.htm)
-  * [Real Estate Resolutions For 2013](https://web.archive.org/rtpages/20121226_resolutions2013.htm)
-  * [California Adopts Pipeline Disclosure Law](https://web.archive.org/rtpages/20121226_disclosurelaw.htm)
-  * [Which Real Estate Decisions Will You Make in 2013?](https://web.archive.org/rtpages/20121225_decisions.htm)
+  * [Get The Facts, Stop Mosquito Attacks](https://web.archive.org/rtpages/20130628_stopmosquitoattacks.htm)
+  * [Home-Selling Strategy](https://web.archive.org/rtpages/20130628_homesellingstrategy.htm)
+  * [California Property Tax System Coming Under Fire](https://web.archive.org/rtpages/20130628_capropertytax.htm)
+  * [Must See Custom Model Home On 2 Acres In Almont, MI](https://web.archive.org/rtpages/20130628_woodpointedr.htm)
+  * [Report Deflates Bubble Talk With Subdued Housing Forecast](https://web.archive.org/rtpages/20130627_housingforecast.htm)
+  * [Feds Send Mortgage Rates Into Uncertain Territory](https://web.archive.org/rtpages/20130627_ratewatch.htm)
+  * [Knowing Your Soil: The Foundation of a Great Home](https://web.archive.org/rtpages/20130627_knowyousoil.htm)
+  * [Agents: Make Your 2nd Half Powerful!](https://web.archive.org/rtpages/20130627_powerfulhalf.htm)
+  * [Staking an HOA Claim](https://web.archive.org/rtpages/20130626_hoaclaimstake.htm)
+  * [Housing Counsel: Cancellation Does Not Always Mean Cancellation](https://web.archive.org/rtpages/20130626_cancellation.htm)
 
   
 
@@ -115,10 +115,5 @@ Today's Headlines 08/10/2006
 Spotlight 
 
   
-[](http://www2.realtytimes.com/rtnews/linktracker.ag?Open&TYPE=RealTimes\\MarketLeader_SpotlightC_ml-\(125x125\)&LINK=http://success.marketleader.com/2013businessplan3p?lsr=2013-BusinessPlan-RealtyTimes-Banner&del=2013businessplan&gmc=M-G-ROW-RTI-Bplan-2013)
-
-**Find a Property Manager:**
-
-  
-  
+[](http://www2.realtytimes.com/rtnews/linktracker.ag?Open&TYPE=RealTimes\\MarketLeader_SpotlightC_Domination_125x125.gif&LINK=http://marketleader.com/landing/thrive?lsr=DominateMarket-RTI&del=DominateYourMarket&utm_source=RealtyTimes&utm_medium=pubs&utm_campaign=DominateMarket&utm_content=site%20banad)   
 
