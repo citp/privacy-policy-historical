@@ -1,948 +1,563 @@
-<!--The following is the downloaded HTML source of the bigbrothercanada.ca privacy policy that was archived on 2012-07-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120722052052id_/http%3A//www.shawmedia.ca/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bigbrothercanada.ca privacy policy that was archived on 2013-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130630231257id_/http%3A//bigbrothercanada.slice.ca/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
-
-
-
-<!-- HEAD OPENER HERE -->
-<!-- ABOVE LINE IS CRITICAL CODE AND PAGE HEADERS IMPORT SAME FOR ALL PAGES -->
-<!-- DEFINE ANY PAGE ATTRIBUTES IN FOLLOWING BLOCK -->
-
-
-
-
-<!-- DEFING ALL PAGE ATTRIBUTES IN ABOVE BLOCK -->
-<!-- STANDARD HEADER  BELOW, SAME FOR ALL PAGES -->
-<!-- END HEAD OPENER -->
-
-
-
-<script lang="JavaScript">
-  var DOMType;
-
-  function Initialize()
-  {
-    if (document.all)
-    {
-      DOMType = 'MS';
-      oLastPanel = document.all['NewspaperDivision'];
-      oLastDivision = document.all['Blank'];
-      oLastButton = document.all['DisplayAdsButton'];
-    }
-    else if (document.getElementById)
-    {
-      DOMType = 'W3C';
-      oLastPanel = document.getElementById('NewspaperDivision');
-      oLastDivision = document.getElementById('Blank');
-      oLastButton = document.getElementById('DisplayAdsButton');
-    }
-    else if (document.layers)
-    {
-      DOMType = 'NS4';
-      oLastPanel = document.layers['NewspaperDivision'];
-      oLastDivision = document.layers['Blank'];
-      oLastButton = document.layers['DisplayAdsButton'];
-    }
-    else
-    {
-      DOMType = 'None';
-    }
-  }
-
-  function ToggleMenuItem(strMenuName, iMenuLevel)
-  {
-    var oMenuItem, oCloseMenuItem, oMenuBottomBar, oCloseMenuBottomBar;
-    var strCloseMenuName, strParentMenuName;
-    var bKeepGoing;
-    var i, iLength;
-	var strMenuBottomBar, strCloseMenuBottomBar;
-	
-	strMenuBottomBar = strMenuName + '_Bottom'
-
-    if (DOMType == "MS")
-    {
-      oMenuItem = document.all[strMenuName];
-      oMenuBottomBar = document.all[strMenuBottomBar];
-    }
-    else if (DOMType == "W3C")
-    {
-      oMenuItem = document.getElementById(strMenuName);
-      oMenuBottomBar = document.getElementById(strMenuBottomBar);
-    }
-    else if (DOMType == "NS4")
-    {
-      oMenuItem = document.layers[strMenuName];
-      oMenuBottomBar = document.layers[strMenuBottomBar];
-    }
-
-    if (oMenuItem.style.display == "inline")
-    {
-      oMenuItem.style.display = "none";
-      if (oMenuBottomBar)
-	  {
-		  oMenuBottomBar.style.display = "inline";
-	  }
-    }
-    else
-    {
-
-      iLength = strMenuName.length - 1;
-      bFound = false;
-      i = iLength
-      while (i > 0 && !bFound)
-      {
-        i = i - 1
-        if (strMenuName.charAt(i) == '_')
-        {
-          strParentMenuName = strMenuName.substr(0, i + 1)
-          bFound = true;;
-        }
-      }
-
-      i = 0
-      bKeepGoing = true;
-      while (bKeepGoing)
-      {
-        strCloseMenuName = strParentMenuName + i
-		strCloseMenuBottomBar = strCloseMenuName + '_Bottom';
-        if (DOMType == "MS")
-        {
-          oCloseMenuItem = document.all[strCloseMenuName];
-          oCloseMenuBottomBar = document.all[strCloseMenuBottomBar];
-        }
-        else if (DOMType == "W3C")
-        {
-          oCloseMenuItem = document.getElementById(strCloseMenuName);
-		  oCloseMenuBottomBar = document.getElementById(strCloseMenuBottomBar);
-
-        }
-        else if (DOMType == "NS4")
-        {
-          oCloseMenuItem = document.layers[strCloseMenuName];
-          oCloseMenuBottomBar = document.layers[strCloseMenuBottomBar];
-        }
-
-        if (oCloseMenuItem != null)
-        {
-          oCloseMenuItem.style.display = "none";
-          if (oCloseMenuBottomBar)
-         {
-            oCloseMenuBottomBar.style.display = "inline";
-          }
-          i += 1;
-        }
-        else
-        {
-          bKeepGoing = false;
-        }
-      }
-      oMenuItem.style.display = "inline";
-      if (oMenuBottomBar)
-     {
-        oMenuBottomBar.style.display = "none";
-      }
-    }
-  }
-
-  Initialize();
+<!DOCTYPE html><html><!--<![endif]--><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">
+	var TEST = 0;
+	var BROWSER = "unknown";
+	var BROWSER_VERSION = "unknown";
+	var PLATFORM = "unknown";
+	var DEVICE = "normal";
+	var HOST_URL = "http://bigbrothercanada.slice.ca";
+	var HOST_VARS = "%5B%5D";
+	var PAGENAME = "privacy-policy";
+	var SLUG = "";
+	var PHOTO_ID = "";
+	var PORTAL = "";
+	var USE_STANDARD_DATA = "1";
+	var USE_WP_DATA = "1";
+	var USE_STATIC_DATA = "1";
+	var USE_USER_DATA = "1";
+	var FB_CONNECTED = "";
+	var fbready;
 </script>
-
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-  <title>Privacy Policy</title>
-  <meta name="keywords" content="index,follow,advertising,shawmedia,media,sales,search,planning,buying,corporate,broadcast,research,online,digital,marketing">
-  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-
-<link href="/style/all.css" rel="stylesheet" type="text/css" media="all">
-<link href="/style/menu.css" rel="stylesheet" type="text/css" title="stylesheet">
-<!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="/style/ie6.css" media="screen"/><![endif]-->
-<link href="/style/enlighten.css" rel="stylesheet" type="text/css" media="all">
-<script src="/js/global-navbar.js" type="text/javascript"></script>
-<!-- HEAD OPENER HERE -->
-
-<link href="/style/CustomFonts/sIFR-print.css" type="text/css" rel="stylesheet" media="print">
-<link href="/style/CustomFonts/sIFR-screen.css" type="text/css" rel="stylesheet" media="screen">
-<script src="/style/CustomFonts/sifr.js"></script>
-<script src="/style/CustomFonts/sifr-addons.js"></script>
-
-
-
-<!-- STANDARD HEADER ABOVE, SAME FOR ALL PAGES -->
-<!-- ANY ADDITIONAL INSTRUCTIONS YOU WANT IN THE HEAD TAG PUT BETWEEN THIS AND THE NEXT COMMENT TAG -->
-
-
-<!-- ANY ADDITIONAL ISNRUCTIONS CONTENT YOU WANT IN THE HEAD TAG PUT PETWEEN THIS AND THE PREVIOUS COMMENT TAG --> 
-<!--
-	6 Different headers are available for choice header on standard pages.  Key is as follows:
-		enlightenHeader.asp 		- blue: advertisiing section
-		enlightenHeader1.asp		- Blue: careers section
-		informHeader0.asp		- green: theCompany section
-		informHeader1.asp		- green: inVestors Section
-		informHeader2.asp		- green: newsRoom Section
-		entertainHeader0.asp		- orange: theBusiness Section		
--->
-
-<!-- CHOICE HEADER OPTIONS ARE DETAILED ABOVE  -->
-<!-- END HEAD OPENER -->
-<!-- ARRRR, LEFT NAV & HEADER IS BELOW ME -->
-
-
-
-</head>
-
-
-<body>
-
-  <div id="main">
-    <div id="header" class="corporatesmall">
-      <a class="logo" href="/default.asp">Shaw Media</a>
-      <div class="form">
-        <form name="yider_form" action="/search/search.asp" method="post">
-          <div>
-            <input name="yider" type="text" class="input" size="30" value="">
-            <input type="image" class="btn" src="/images/go_button.png" onmouseover="this.src='/images/go_button_over.png'" onmouseout="this.src='/images/go_button.png'">
-          </div>
-        </form>
-      </div>
-      <div id="main_nav">	  
-        <ul class="top-nav">
-<noindex>
-  <div class="nospider">
-          <li><a href="/about/default.asp"><span class="first">ABOUT US</span><span class="right">&nbsp;</span></a></li>
-
-          <li><a href="/brands/default.asp"><span>OUR BRANDS</span><span class="right">&nbsp;</span></a></li>
-
-          <li><a href="http://www.shawmediatv.ca"><span>MEDIA</span><span class="right">&nbsp;</span></a></li>
-          <li><a href="/careers/default.asp"><span>CAREERS</span><span class="right">&nbsp;</span></a></li>
-          <li><a href="/advertising/default.asp"><span>ADVERTISING</span><span class="last">&nbsp;</span></a>
-  </li></div>
-</noindex>
-
-
-
-          
-        </ul>
-      </div>
-
-      <div id="top_subnav">
-
-      </div>
-
-      <div id="flyout_space" style="width:585px">
-      </div> 				
-      <div class="image" style="clear:left;"></div>
-      <div class="background"></div>
-    </div>
-		
-
-		
-		<div id="content">
-			<div id="left-column">
-<br>
-			</div>
-			
-			<div id="rigth-column">			  
-				<div class="text">
-<br>
-
-
-<!-- LEFT NAV & HEADER IS ABOVE ME -->		
-<!-- CONTENT STARTS HERE -->
-
-<!-- CHOICE HEADER OPTION IS LOADED ABOVE  -->
-
-<!-- 
-	All content exists inside a table cell.  Before the content is an open table  cell 
-	with valign="top" and no other attributes.  You may put whatever you please in the content including 
-	open a table immediately as this may give you greater control. 
 	
-	Depending on the wether you have left navigation or not you will have 942 pixels width wise without 
-	navigation and 752 pixels if navigation is required. 
--->
-<!-- content starts here -->   
 
-<h1>Privacy Policy</h1>
 
-<p>
-</p><h3>Introduction</h3><br><br>
-Shaw Media Inc. (“Shaw Media”) and its affiliates and subsidiaries (collectively, the “Shaw Media Companies”) are committed to controlling the collection, use and disclosure of personal information provided by the customers and employees of each Shaw Media Company and have adopted this Privacy Policy to ensure the accuracy, confidentiality and integrity of such personal information.
-<p></p>
+		<script type="text/javascript">
+			var DATA_JSON = "%7B%22standard%22%3A%7B%22nextepisode%22%3A%7B%22day%22%3A%22No+episodes+scheduled%22%2C%22est_time%22%3A%22%22%2C%22title%22%3A%22%22%2C%22subtitle%22%3A%22%22%2C%22live_episode%22%3A%22%22%2C%22copy%22%3A%22%22%2C%22image%22%3A%22%22%2C%22action%22%3A%22%22%2C%22action_url%22%3A%22%22%7D%7D%2C%22static%22%3A%7B%22subnav%22%3A%7B%22section_title%22%3A%22Privacy+Policy%22%2C%22links%22%3A%5B%5D%2C%22sub_nav_text%22%3A%22Privacy+Policy%22%7D%2C%22textblock%22%3A%22%3Ch1%3EPrivacy+Policy%3C%5C%2Fh1%3E%3Cp%3EThis+is+the+privacy+policy.%3C%5C%2Fp%3E%22%7D%7D";
+			var PAGE_JSON = "%7B%22data%22%3A%7B%22wordpress%22%3A%7B%22url%22%3Anull%2C%22args%22%3A%5B%5D%7D%2C%22standard%22%3A%7B%22url%22%3A%22http%3A%5C%2F%5C%2Fbigbrothercanada.slice.ca%5C%2Fsystem%5C%2Fdata%5C%2Fstandard%5C%2Fnext-episode-data.php%22%2C%22args%22%3A%5B%5D%7D%2C%22static%22%3A%7B%22url%22%3A%22http%3A%5C%2F%5C%2Fbigbrothercanada.slice.ca%5C%2Fsystem%5C%2Fdata%5C%2Fstatic%5C%2Fprivacy-policy-data.php%22%2C%22args%22%3A%5B%5D%7D%7D%2C%22css%22%3A%22%3Clink+rel%3D%5C%22stylesheet%5C%22+href%3D%5C%22http%3A%5C%2F%5C%2Fbigbrothercanada.slice.ca%5C%2Fcss%5C%2Fmin%5C%2Fcore%5C%2Fglobal.css%3Frev%3D45%5C%22+type%3D%5C%22text%5C%2Fcss%5C%22%5C%2F%3E%3Clink+rel%3D%5C%22stylesheet%5C%22+href%3D%5C%22http%3A%5C%2F%5C%2Fbigbrothercanada.slice.ca%5C%2Fcss%5C%2Fmin%5C%2Fpages%5C%2Fterms-of-use.css%3Frev%3D45%5C%22+type%3D%5C%22text%5C%2Fcss%5C%22%5C%2F%3E%22%2C%22js%22%3A%22%3Cscript+type%3D%5C%22text%5C%2Fjavascript%5C%22+src%3D%5C%22http%3A%5C%2F%5C%2Fbigbrothercanada.slice.ca%5C%2Fjs%5C%2Fmin%5C%2Fexternal.min.js%3Frev%3D45%5C%22%3E%3C%5C%2Fscript%3E%3Cscript+type%3D%5C%22text%5C%2Fjavascript%5C%22+src%3D%5C%22http%3A%5C%2F%5C%2Fbigbrothercanada.slice.ca%5C%2Fjs%5C%2Fmin%5C%2Fcore.min.js%3Frev%3D45%5C%22%3E%3C%5C%2Fscript%3E%3Cscript+type%3D%5C%22text%5C%2Fjavascript%5C%22+src%3D%5C%22http%3A%5C%2F%5C%2Fbigbrothercanada.slice.ca%5C%2Fjs%5C%2Fmin%5C%2Fdefault.min.js%3Frev%3D45%5C%22%3E%3C%5C%2Fscript%3E%22%2C%22meta%22%3A%22%3Ctitle%3EBig+Brother+Canada+-+Privacy+Policy%3C%5C%2Ftitle%3E%22%2C%22layout%22%3A%22%22%7D";
+		</script>
+			
+		<title>Big Brother Canada - Privacy Policy</title>		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale = 1.0, maximum-scale = 1.0">
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black">
+		<link rel="icon" href="/favicon.ico" type="image/x-icon">
+		<link href="/favicon.ico" rel="shortcut icon">
+		<script type="text/javascript">
+			if (window.self === window.top && PORTAL === 'facebook' ){
+				var url = document.URL;
+				url = url.replace("&fb=1", "");
+				url = url.replace("fb=1", "");
+				if ( url.charAt( url.length-1 ) === "?"){
+					url = url.slice(0, url.length-1);
+				}
+				window.location = url;
+			}
+		</script>
+		<meta property="og:image" content="http://bigbrothercanada.slice.ca/assets/img/fb_share_thumbnail.jpg">
+	<meta property="og:title" content="Big Brother Canada - Watch. Win. Influence the Show.">
+	<meta property="og:url" content="http://bigbrothercanada.slice.ca/privacy-policy/">
+	<meta property="og:site_name" content="Big Brother Canada">
+	<meta property="og:description" content="Watch. Win. Influence the Show. Big Brother Canada"><link rel="stylesheet" href="http://bigbrothercanada.slice.ca/css/min/core/global.css?rev=45" type="text/css"><link rel="stylesheet" href="http://bigbrothercanada.slice.ca/css/min/pages/terms-of-use.css?rev=45" type="text/css">				<script type="text/javascript" src="http://bigbrothercanada.slice.ca/js/libs/jquery/jquery.min.js"></script>
+		<script type="text/javascript" src="http://bigbrothercanada.slice.ca/js/libs/jquery/jquery-ui-1.9.2.custom.min.js"></script>
+		<script type="text/javascript">
+			var googletag = googletag || {};
+			googletag.cmd = googletag.cmd || [];
+			(function() {
+				var gads = document.createElement('script');
+				gads.async = true;
+				gads.type = 'text/javascript';
+				var useSSL = 'https:' == document.location.protocol;
+				gads.src = (useSSL ? 'https:' : 'http:') +
+				'//www.googletagservices.com/tag/js/gpt.js';
+				var node = document.getElementsByTagName('script')[0];
+				node.parentNode.insertBefore(gads, node);
+			})();
+		</script>
+		<script type="text/javascript">
+			$(function() {
+								googletag.cmd.push(function() {
+				googletag.pubads().enableAsyncRendering();
+				googletag.defineSlot('/6872/shaw.slice.ca', [728, 90], 'div-gpt-ad-1360968845024-0').addService(googletag.companionAds()).addService(googletag.pubads());
+				googletag.defineSlot('/6872/shaw.slice.ca', [300, 250], 'div-gpt-ad-1360968845024-desktop-1').addService(googletag.companionAds()).addService(googletag.pubads()).setTargeting('pos','1');
+				googletag.defineSlot('/6872/shaw.slice.ca', [300, 250], 'div-gpt-ad-1360968845024-desktop-2').addService(googletag.companionAds()).addService(googletag.pubads()).setTargeting('pos','2');
+				googletag.defineSlot('/6872/shaw.slice.ca', [300, 250], 'div-gpt-ad-1360968845024-tablet-1').addService(googletag.companionAds()).addService(googletag.pubads()).setTargeting('pos','1').setTargeting('device','tablet');
+				googletag.defineSlot('/6872/shaw.slice.ca', [300, 250], 'div-gpt-ad-1360968845024-tablet-2').addService(googletag.companionAds()).addService(googletag.pubads()).setTargeting('pos','2').setTargeting('device','tablet');
+				googletag.defineSlot('/6872/shaw.slice.ca', [300, 250], 'div-gpt-ad-1360968845024-phone-1').addService(googletag.companionAds()).addService(googletag.pubads()).setTargeting('pos','1').setTargeting('device','phone');
+				googletag.defineSlot('/6872/shaw.slice.ca', [300, 250], 'div-gpt-ad-1360968845024-phone-2').addService(googletag.companionAds()).addService(googletag.pubads()).setTargeting('pos','2').setTargeting('device','phone');
+				googletag.defineSlot('/6872/shaw.slice.ca', [320, 50], 'div-gpt-ad-1360968845024-smLeaderboard-tablet').addService(googletag.companionAds()).addService(googletag.pubads());
+				googletag.defineSlot('/6872/shaw.slice.ca', [320, 50], 'div-gpt-ad-1360968845024-smLeaderboard-phone').addService(googletag.companionAds()).addService(googletag.pubads());
+				googletag.defineOutOfPageSlot('/6872/shaw.slice.ca', 'div-gpt-ad-1358966127474-4-oop').addService(googletag.pubads());
+				googletag.pubads().setTargeting("site","slice");
+				googletag.pubads().setTargeting("network","shaw");
+				googletag.pubads().setTargeting("show","big_brother_canada");
+				googletag.pubads().setTargeting("section", "privacy-policy");
+				googletag.pubads().setTargeting("page", "main");
+				// googletag.pubads().enableSingleRequest();
+				googletag.companionAds().setRefreshUnfilledSlots(true);
+				googletag.enableServices();
+				});
+			});
+		</script>
+	</head>
+		<body class="">
+		<!--[if lt IE 8]>
+            <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+        <![endif]-->
+		<p id="nocookies" class="chromeframe" style="display: none;">Cookies are not enabled on your browser. Please adjust this in your security preferences before continuing.</p>
+		
+    <!-- SHAW UNIVERSAL HEADER -->
+        <!-- Shaw Header JavaScript -->
+        <script src="http://static.smdg.ca/shawUH/v/76/_js/shawUH.min.js"></script>
+        <!-- Shaw Header CSS -->
+        <link href="http://static.smdg.ca/shawUH/v/76/_css/shawUH.responsive.min.css" rel="stylesheet">
+        <!--[if lt IE 8]><link href="http://static.smdg.ca/shawUH/v/76/_css/shawUH-ie.responsive.min.css" rel="stylesheet"><!--<![endif]-->
+        <!--[if lt IE 9]><script src="http://static.smdg.ca/shawUH/v/76/_js/respond.min.js"></script><!--<![endif]-->
+        <!-- Shaw Header HTML -->
+        <div id="shawUH" class="shawUH_site">
+            <div class="mainBar">
+                <div class="mainLinks openContent">
+                   <a href="http://www.shawconnect.ca" class="btn_viewAll btn_toggle"><span>View All Sites</span></a>
+                   <a href="http://www.shawconnect.ca" class="btn_visitShaw"><span>Visit ShawConnect.ca</span></a>
+                   <a href="http://www.shawconnect.ca" class="btn_shawHome"><span>Shaw Connect Home</span></a>
+                </div>
+            </div><!-- /#shawUH .mainBar -->
+            <div class="contentBar">
+                <div class="connectLink openContent">
+                    <a href="http://shawconnect.ca" class="btn_link"><span>Visit ShawConnect.ca</span></a>
+                    <a href="http://shawconnect.ca" class="btn_close btn_toggle"><span>Close</span></a>
+                </div><!-- /#shawUH .connectLink -->
 
-<p>
-</p><h3>Application</h3><br><br>
-This Privacy Policy applies to personal information that a Shaw Media Company collects, uses or discloses in respect of its customers or employees in the course of its commercial activities.
-<p></p>
+                <div class="shawContent openContent">
+                    <div class="connectLinks">
+                        <a href="http://shawconnect.ca" class="btn_close btn_toggle"><span>Close</span></a>
+                        <ul>
+                            <li><a href="http://globalnews.ca">News</a></li>
+                            <li><a href="http://shawconnect.ca/entertainment">Entertainment</a></li>
+                            <li><a href="http://shawconnect.ca/living">Living</a></li>
+                            <li><a href="http://www.sportsnet.ca/?shawct=1">Sports</a></li>
+                            <li><a href="http://shawconnect.ca/money/">Money</a></li>
+                            <li><a href="http://shawconnect.ca/tech/">Tech</a></li>
+                            <li><a href="http://shawconnect.ca/travel/">Travel</a></li>
+                            <li><a href="http://shawconnect.ca/breaktime/">Breaktime</a></li>
+                            <li><a href="http://www.auto123.com/en/?cobrand=shaw">Autos</a></li>
+                            <li><a href="http://www.shawconnect.ca/video/">Watch TV Shows</a></li>
+                        </ul>
+                    </div><!-- /#shawUH .connectLinks -->
+                    <div class="mediaLinks">
+                        <div class="shawMedia">
+                            <a href="http://www.shaw.ca">Shaw Media</a>
+                        </div>
+                        <div class="links">
+                            <ul>
+                                <li class="gtv"><a href="http://globaltv.ca">Global</a></li>
+                                <li class="gn"><a href="http://globalnews.ca">Global News</a></li>
+                                <li class="fn"><a href="http://foodnetwork.ca">Food Network</a></li>
+                                <li class="hg"><a href="http://hgtv.ca">HGTV</a></li>
+                                <li class="ht"><a href="http://history.ca">History Television</a></li>
+                                <li class="sh"><a href="http://showcase.ca">Showcase</a></li>
+                                <li class="sl"><a href="http://slice.ca">Slice</a></li>
+                                <li class="tvt"><a href="http://tvtropolis.com">TV Tropolis</a></li>
+                                <li class="et"><a href="http://globaltv.com/etcanada">ET Canada</a></li>
+                                <li class="sm nt"><a href="http://natgeotv.com/ca">National Geographic</a></li>
+                                <li class="sm mt"><a href="http://movietimetv.ca">Movietime</a></li>
+								<li class="sm lt"><a href="http://www.mylifetimetv.ca/" title="Lifetime">Lifetime</a></li>
+								<li class="sm h2"><a href="http://www.history.ca/h2/" title="H2">H2</a></li>
+                                <li class="sm diy"><a href="http://diy.ca">DIY</a></li>
+                                <li class="sm act"><a href="http://action-tv.ca">Action</a></li>
+                                <li class="sm ngw"><a href="http://natgeotv.com/ca/wild">NG Wild</a></li>
+                                <li class="sm mys"><a href="http://mysterytv.ca">Mystery</a></li>
+                                <li class="sm ifc"><a href="http://ifctv.ca">IFC</a></li>
+                                <li class="sm bbc"><a href="http://bbccanada.com">BBC</a></li>
+                                <li class="sm dv"><a href="http://dejaviewtv.ca">Deja Vu</a></li>
+                                <li class="sm tw"><a href="http://twisttv.ca">Twist</a></li>
+                            </ul>
+                        </div><!-- /#shawUH .mediaLinks .links -->
+                    </div><!-- /#shawUH .mediaLinks -->
+                </div>
 
-<p>
-</p><h3>Definitions</h3><br><br>
-The following defined terms are used throughout this Privacy Policy:<br><br>
-<strong>Shaw Media</strong> – means Shaw Media Inc.<br><br>
-<strong>Shaw Media Companies</strong> - means, collectively, Shaw Media Inc. and all of its subsidiaries with respect to their operations in Canada, and a Shaw Media Company means any one of them.<br>
-<br>
-<strong>customer</strong> – means an individual who:<br><br>
+            </div><!-- /#shawUH .contentBar -->
+        </div><!-- /#shawUH .shawHead -->
+        <script>
+            $('#shawUH').Shaw_UniversalHeader({});
+        </script>
+    <!-- /SHAW UNIVERSAL HEADER -->
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td width="5%" valign="top">(a)</td>
-    <td colspan="2" valign="top">subscribes for, uses, or applies to use, the products or services of a Shaw Media Company;</td>
-  </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
-    <td width="5%" valign="top">(b)</td>
-    <td colspan="2" valign="top">corresponds with a Shaw Media Company;</td>
-  </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
-    <td width="5%" valign="top">(c)</td>
-    <td colspan="2" valign="top">uses a website owned by a Shaw Media Company; or</td>
-  </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
-    <td width="5%" valign="top">(d)</td>
-    <td colspan="2" valign="top">enters a contest sponsored by a Shaw Media Company.</td>
-  </tr>
-</tbody></table>
-<br>
-<strong>employee</strong> – means an employee, former employee or pensioner of a Shaw Media Company and, for the purposes of this Privacy Policy, includes the directors, shareholders and security holders of Shaw Media.<br><br>
-<strong>personal information</strong> – means information about an identifiable individual, but does not include the name, title, or business address or telephone number of an employee of an organization. Publicly available information, such as a public directory listing of names, addresses, telephone numbers and electronic addresses, is not considered personal information.<br><br>
-<strong>privacy legislation</strong> - means Canada’s  federal private sector privacy legislation, the <em>Personal Information  Protection and Electronic Documents Act</em> (“PIPEDA”), and substantially  similar provincial privacy legislation including Alberta’s <em>Personal  Information Protection Act</em>, British Columbia’s <em>Personal Information  Protection Act</em>, and Quebec’s <em>An Act respecting the protection of  personal information in the private sector</em>.
-<p></p>
+<div id="fb-root"></div>
+				<script type="text/javascript">
+					window.fbAsyncInit = function() {
+						function facebookReady() {
+							// call facebook init
+							FB.init({
+								appId      : "129235977253687", // App ID
+								//channelUrl : "//WWW.YOUR_DOMAIN.COM/channel.html", // Channel File
+								status     : true, // check login status
+								cookie     : true, // enable cookies to allow the server to access the session
+								xfbml      : true  // parse XFBML
+							});
+				
+							fbready = true;
+						}
+				
+						// Query if FB object is available, if not
+						// assign the window async function
+						// otherwise, initialize per Facebook documentation
+						if (window.FB) {
+							facebookReady();
+						} else {
+							window.fbAsyncInit = facebookReady;
+						}
+					};
+				
+					// Load the SDK Asynchronously
+					(function(d){
+						var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+						if (d.getElementById(id)) {return;}
+						js = d.createElement('script'); js.id = id; js.async = true;
+						js.src = "//connect.facebook.net/en_US/all.js";
+						ref.parentNode.insertBefore(js, ref);
+					}(document));
+					
+				</script>
+<div id="header">
 
-<p>
-</p><h3>The Ten Privacy Principles</h3><br><br>
-This Privacy Policy has been developed in accordance with the standards set out in PIPEDA and is modelled after the Canadian Standards Association Model Code for the Protection of Personal Information, CAN/CSA-Q830-96. Accordingly, the ten principles of fair information practices (the “Principles”), as identified by the Canadian Standards Association, have been adopted by the Shaw Media Companies and represent a formal statement of the minimum requirements to be adhered to by each of the Shaw Media Companies for the protection of personal information collected from the customers and employees of the Shaw Media Companies.
-<p></p>
+	<!-- SLICE HEADER -->
+	<div id="slice-header">
+		<!-- DESKTOP -->
+		<div class="visible-desktop">
+			<p>Back to:</p>
+			<a href="http://www.slice.ca" class="slice-header-cta">
+				<img class="slice-logo" src="http://bigbrothercanada.slice.ca/assets/img/slice-logo.png">
+			</a>
+			
+				<div class="ad-leaderboard ad-desktop">
+					<div class="ad-wrap">
+						<div id="div-gpt-ad-1360968845024-0" class="gpt-desktop">
+									</div>
+					</div>
+				</div>		</div>
+		<!-- TABLET -->
+		<div class="visible-tablet">
+			<p>Back to:</p>
+			<a href="http://www.slice.ca" class="slice-header-cta">
+				<img id="slice-logo-table" src="http://bigbrothercanada.slice.ca/assets/img/slice-logo.png">
+			</a>
+			
+				<div class="ad-small-leaderboard">
+					<div class="ad-wrap">
+						<div id="div-gpt-ad-1360968845024-smLeaderboard-tablet" class="gpt-tablet">
+									</div>
+					</div>
+				</div>		</div>
+		<!-- MOBILE -->
+		<div class="visible-phone">
+		
+				<div class="ad-small-leaderboard">
+					<div class="ad-wrap">
+						<div id="div-gpt-ad-1360968845024-smLeaderboard-phone" class="gpt-phone">
+									</div>
+					</div>
+				</div>					<div class="nav-secondary">
+						<div class="user-nav">
+							<div class="nav-user-logged-in"><span class="user-greeting"></span>&nbsp;&nbsp;<span class="nav-username">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
+							<div id="nav-user-logged-in-dropdown" class="nav-user-logged-in-dropdown" style="display: none;">
+								<a class="item-top item-dropdown" href="http://bigbrothercanada.slice.ca/account/">My Account</a>
+								<a href="#" class="item-bottom item-dropdown lnkSignOut">Sign Out</a>
+							</div>
+						</div>
+						<div class="guest-nav">
+							<a id="sign_in_btn" href="http://bigbrothercanada.slice.ca/account/sign-in/" class="btn btn-secondary-nav">Sign In</a>
+							<span class="spacer"></span>
+						</div>
+					</div>
+		</div>
+		<div class="logo visible-phone">
+			<a href="http://bigbrothercanada.slice.ca/">
+				<img src="http://bigbrothercanada.slice.ca/assets/img/mobile-banner.jpg">
+			</a>
+		</div>
+	</div>
 
-<p>
-</p><h3>Principle 1 – Accountability</h3><br><br>
-<em><strong>Each Shaw Media Company is responsible for the personal information under its control and shall designate one or more individuals who shall be accountable for the company’s compliance with the procedures and principles set out in this Privacy Policy.</strong></em><br><br>
+	<!-- BIG BROTHER HEADER -->
+	<div id="bb-header">
+		<div class="container-wrapper">
+			<div class="container-fluid">
+				<div class="row-fluid">
+					<div class="span12">
+						<div id="navigation-container">
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td width="5%" valign="top">1.1</td>
-    <td colspan="2" valign="top">Accountability for compliance by each Shaw Media Company with this Privacy Policy and the Principles rests with Shaw Media’s Privacy Officer. Please see Principle 10, below, to obtain the contact information for our Privacy Officer.</td>
-  </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
-    <td valign="top">1.2</td>
-    <td colspan="2" valign="top">Each Shaw Media Company shall be responsible for the personal information in its possession or custody, including information that has been transferred to a third party for processing. Each Shaw Media Company shall use contractual or other appropriate means to ensure a comparable level of protection while the information is being processed by a third party.</td>
-  </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
-    <td valign="top">1.3</td>
-    <td colspan="2" valign="top">The Shaw Media Companies have implemented policies and practices to give effect to the principles and procedures set out in this Privacy Policy, including:</td>
-  </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td width="5%" valign="top">(a)</td>
-    <td width="90%" valign="top">implementing procedures to protect personal information such as the adoption of physical, organizational and technological security measures;</td>
-  </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td width="5%" valign="top">(b)</td>
-    <td width="90%" valign="top">establishing procedures to receive and respond to complaints and inquiries through the establishment of a confidential e-mail address; and</td>
-  </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td width="5%" valign="top">(c)</td>
-    <td width="90%" valign="top">training and communicating to staff information about the Shaw Media policies and practices.</td>
-  </tr>
-</tbody></table>
-<p></p>
-
-<p>
-</p><h3>Principle 2 – Identifying Purposes</h3><br><br>
-<em><strong>Each Shaw Media Company will identify the purpose for which personal information is collected at or before the time the information is collected. The purposes for which personal information is collected, used or disclosed by a Shaw Media Company must be those that a reasonable person would consider are appropriate in the circumstances.</strong></em><br><br>
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td width="5%" valign="top">2.1</td>
-    <td colspan="2" valign="top">The Shaw Media Companies collect and use your personal information primarily for the purpose of providing you with the products and services you have requested from us, including the daily delivery of news and related content through Shaw Media television and online properties.</td>
-  </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
-    <td valign="top">2.2</td>
-    <td colspan="2" valign="top">Your personal information is used to communicate with you about your account and to provide you with information related to other Shaw Media publications and services. If you indicated that you were interested in receiving offers or information from selected Shaw Media sponsors or advertisers, your personal information would also be used to contact you or to send you e-mail materials and other mailings about products and services that might be of interest to you. You always have the option, however, to tell us not to share your personal information with other Shaw Media Companies or to exclude you from offers for other products or services.</td>
-  </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
-    <td valign="top">2.3</td>
-    <td colspan="2" valign="top">Each Shaw Media Company will document the purposes for which personal information is collected in order to comply with the Openness principle (See Principle 8) and the Individual Access principle (See Principle 9).</td>
-  </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
-    <td valign="top">2.4</td>
-    <td colspan="2" valign="top">The purposes for which personal information is collected shall be specified at or before the time of collection to the customer or employee from whom the personal information is collected. Depending upon the manner in which the information is collected, this shall be done orally or in writing.</td>
-  </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
-    <td valign="top">2.5</td>
-    <td colspan="2" valign="top">When a Shaw Media Company proposes to use personal information that has been collected for a purpose not previously identified, it will identify the new purpose before using such personal information. Unless the new purpose is required by law, or consent is otherwise not required pursuant to privacy legislation, the consent of the individual shall be obtained before the personal information is used for the new purpose.</td>
-  </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
-    <td valign="top">2.6</td>
-    <td colspan="2" valign="top">Individuals responsible for collecting personal information on behalf of a Shaw Media Company will explain to customers and/or employees the purposes for which the information is being collected, including any purposes that may not be immediately obvious to the individual.</td>
-  </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
-    <td valign="top">2.7</td>
-    <td colspan="2" valign="top">The purposes for which the personal information of employees is collected may include, but is not limited to:</td>
-  </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td width="5%" valign="top">(a)</td>
-    <td width="90%" valign="top">administering payroll and employee benefit programs;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td width="5%" valign="top">(b)</td>
-    <td width="90%" valign="top">conducting performance evaluations and discipline;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td width="5%" valign="top">(c)</td>
-    <td width="90%" valign="top">effecting employee training;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td width="5%" valign="top">(d)</td>
-    <td width="90%" valign="top">conducting internal reviews, investigations and complaint resolution processes;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td width="5%" valign="top">(e)</td>
-    <td width="90%" valign="top">participating in union negotiations and labour arbitrations;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td width="5%" valign="top">(f)</td>
-    <td width="90%" valign="top">facilitating transactional due diligence reviews; and</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td width="5%" valign="top">(g)</td>
-    <td width="90%" valign="top">complying with legal and regulatory obligations.</td>
-  </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
-    <td valign="top">2.8</td>
-    <td colspan="2" valign="top">The purposes for which the personal information of customers is collected may include, but is not limited to:</td>
-  </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td width="5%" valign="top">(a)</td>
-    <td width="90%" valign="top">processing commercial transactions;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td width="5%" valign="top">(b)</td>
-    <td width="90%" valign="top">communicating with customers;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td width="5%" valign="top">(c)</td>
-    <td width="90%" valign="top">establishing and maintaining commercial relations;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td width="5%" valign="top">(d)</td>
-    <td width="90%" valign="top">developing, marketing or providing products and services;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td width="5%" valign="top">(e)</td>
-    <td width="90%" valign="top">recommending particular products and services;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td width="5%" valign="top">(f)</td>
-    <td width="90%" valign="top">conducting market research and surveys;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td width="5%" valign="top">(g)</td>
-    <td width="90%" valign="top">managing and developing business opportunities;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td width="5%" valign="top">(h)</td>
-    <td width="90%" valign="top">conducting investigations and complaint resolution processes;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td width="5%" valign="top">(i)</td>
-    <td width="90%" valign="top">administering contests or other promotions;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td width="5%" valign="top">(j)</td>
-    <td width="90%" valign="top">facilitating transactional due diligence reviews; and</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td width="5%" valign="top">(k)</td>
-    <td width="90%" valign="top">complying with legal and regulatory obligations.</td>
-  </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
-    <td valign="top">2.9</td>
-    <td colspan="2" valign="top">Anonymous or “non-personal” information gathered by a Shaw Media Company through its web site may be used for technical, research and analytical purposes. Information collected through surveys, existing files and public archives may be used by a Shaw Media Company to analyze its markets and to develop or enhance service offerings.</td>
-  </tr>
-</tbody></table>
-<p></p>
-
-<p>
-</p><h3>Principle 3 – Consent</h3><br><br>
-<em><strong>Except where required or permitted by law, the knowledge and consent of the individual are required for the collection, use or disclosure of personal information.</strong></em><br><br>
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td width="5%" valign="top">3.1</td>
-    <td colspan="2" valign="top">Consent is required for the collection of personal information and the subsequent use or disclosure of this information. Generally, each Shaw Media Company will seek consent for the use or disclosure of the information at the time of collection. In certain circumstances, consent with respect to the use or disclosure of personal information may be sought after the information has been collected but before the personal information is used (for example, when a Shaw Media Company wants to use information for a purpose not previously identified). In obtaining consent, the Shaw Media Companies shall use reasonable efforts to ensure that a customer or employee is advised of the identified purposes for which personal information will be used or disclosed. Purposes shall be stated in a manner that can be reasonably understood by the customer or employee.</td>
-  </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
-    <td valign="top">3.2</td>
-    <td colspan="2" valign="top">In certain circumstances personal information may be collected, used or disclosed without the knowledge and consent of the individual. For example, a Shaw Media Company may collect or use personal information without the knowledge or consent of its employees and/or customers if the collection or use of personal information is clearly in the interests of the individual and consent cannot be obtained in a timely way, such as when the individual is a minor, seriously ill or mentally incapacitated or if seeking the consent of the individual might defeat the purpose of collecting the information such as in the investigation of a breach of an agreement or a contravention of a federal or provincial law. Personal information may also be used or disclosed without the knowledge or consent of the individual in the case of an emergency where the life, health or security of an individual is threatened. A Shaw Media Company may disclose personal information without knowledge or consent to a lawyer representing the company, to collect a debt, to comply with a subpoena, warrant or other court order, or as may be otherwise required by law.</td>
-  </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
-    <td valign="top">3.3</td>
-    <td colspan="2" valign="top">The Shaw Media Companies will not, as a condition of the supply of a product or service, require an individual to consent to the collection, use, or disclosure of information beyond that required to fulfill the explicitly specified and legitimate purposes.</td>
-  </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
-    <td valign="top">3.4</td>
-    <td colspan="2" valign="top">In obtaining consent, the Shaw Media Companies will take into account the sensitivity of the personal information and the reasonable expectations of its customers and employees. Consent will not be obtained through deception. For example:</td>
-  </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td width="5%" valign="top">(a)</td>
-    <td width="90%" valign="top">A customer who enters  a contest online would reasonably expect that his or her relevant contact  information (name, phone number, personal identification) would be collected  and used to identify the customer if and when he or she was selected as a  contest winner. However, the customer would not reasonably expect that this  information would be used for a purpose other than the administration of the  contest, without the customer’s knowledge and consent.</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td width="5%" valign="top">(b)</td>
-    <td width="90%" valign="top">An individual filing an application for employment with a Shaw Media Company would reasonably expect that his or her age and marital status would be used for the purposes of administering benefit plans.</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td width="5%" valign="top">(c)</td>
-    <td width="90%" valign="top">An employee filing an application for Shaw Media’s dental coverage plan would reasonably expect that the relevant information (employee identification number, name, date of birth) would be collected, used and communicated to third parties in accordance with the dental coverage and for such period of time as the coverage was in effect.</td>
-  </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
-    <td valign="top">3.5</td>
-    <td colspan="2" valign="top">The way in which a  Shaw Media Company seeks consent may vary, depending on the circumstances and  the type of information collected. A Shaw Media Company will generally seek  express consent when the information is likely to be considered sensitive. It  will rely on implied consent where collection and use of the personal  information is directly related to a transaction or exchange of information in  which the individual is directly participating. Consent may also be given by an  authorized representative (such as a legal guardian or a person having power of  attorney).</td>
-  </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
-    <td valign="top">3.6</td>
-    <td colspan="2" valign="top">Consent may be obtained in any one of the following ways:</td>
-  </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td width="5%" valign="top">(a)</td>
-    <td width="90%" valign="top">an application form may be used to seek consent, collect personal information and inform the individual of the use that will be made of the personal information. By completing and signing the form, the individual is giving consent to the collection and the specified uses;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td width="5%" valign="top">(b)</td>
-    <td width="90%" valign="top">a check-off box may be used to allow individuals to request that their names and addresses not be given to other organizations. Individuals who do not check the box are assumed to consent to the transfer of their information to third parties;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td width="5%" valign="top">(c)</td>
-    <td width="90%" valign="top">consent may be given orally when information is collected over the telephone; or</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td width="5%" valign="top">(d)</td>
-    <td width="90%" valign="top">consent may be given at the time that individuals use a product or service.</td>
-  </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
-    <td valign="top">3.7</td>
-    <td colspan="2" valign="top">Generally, the use of products and services by a customer, or the acceptance of employment or benefits by an employee, constitutes implied consent for the Shaw Media Companies to collect, use and disclose personal information for all identified purposes.</td>
-  </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
-    <td valign="top">3.8</td>
-    <td colspan="2" valign="top">An individual may withdraw consent at any time, subject to legal or contractual restrictions and reasonable notice. The Shaw Media Companies will inform individuals of the implications of withdrawing consent. Customers and employees may contact the relevant Shaw Media Company for more information regarding the implications of withdrawing consent.</td>
-  </tr>
-</tbody></table>
-<p></p>
-
-<p>
-</p><h3>Principle 4 – Limiting Collection</h3><br><br>
-<em><strong>The Shaw Media Companies shall limit the collection of personal information to that which is necessary for the purposes identified by the company. Personal information shall be collected by fair and lawful means.</strong></em><br><br>
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td width="5%" valign="top">4.1</td>
-    <td colspan="2" valign="top">The Shaw Media Companies will not collect personal information indiscriminately. Both the amount and the type of information collected shall be limited to that which is necessary to fulfill the purposes identified. Each Shaw Media Company shall specify the type of information collected as part of its information-handling policies and practices, in accordance with the Openness principle (Principle 8).</td>
-  </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
-    <td valign="top">4.2</td>
-    <td colspan="2" valign="top">The requirement that personal information be collected by fair and lawful means is intended to prevent a Shaw Media Company from collecting information by misleading or deceiving individuals about the purpose for which information is being collected. Consent to the collection of personal information must not be obtained through deception.</td>
-  </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
-    <td valign="top">4.3</td>
-    <td colspan="2" valign="top">The Shaw Media Companies use a browser feature called a "cookie" to collect information anonymously and track user patterns on Shaw Media websites. A cookie is a small text file that is placed on your hard disk by a website. "Cookies" contain a unique identification number that identifies your browser, but not you, to our computers each time you visit one of our websites. Cookies tell us which pages of our websites are visited and by how many people. The use of cookies is an industry standard and many major browsers are initially set up to accept them. You can reset your browser to either refuse to accept all cookies or to notify you when you have received a cookie. However, if you refuse to accept cookies, you may not be able to use some of the features available on our websites.</td>
-  </tr>
-</tbody></table>
-<p></p>
-
-<p>
-</p><h3>Principle 5 – Limiting Use, Disclosure and Retention</h3><br><br>
-<em><strong>Personal information shall not be used or disclosed for purposes other than those for which it was collected, except with the consent of the individual or as required by law. Personal information shall be retained only as long as necessary for the fulfillment of the purposes for which it was collected.</strong></em><br><br>
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td width="5%" valign="top">5.1</td>
-    <td colspan="2" valign="top">Where a Shaw Media Company intends to use personal information for a purpose not previously identified, the Shaw Media Company shall document the new purpose and shall obtain the consent of the individual prior to using the information for a new purpose.</td>
-  </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
-    <td valign="top">5.2</td>
-    <td colspan="2" valign="top">A Shaw Media Company may disclose the personal information of its employees:</td>
-  </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td width="5%" valign="top">(a)</td>
-    <td width="90%" valign="top">to human resources, payroll, benefits, information management, medical and security personnel;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td width="5%" valign="top">(b)</td>
-    <td width="90%" valign="top">to third party service providers for the purposes of administering payroll and benefits programs;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td width="5%" valign="top">(c)</td>
-    <td width="90%" valign="top">to union representatives and labour arbitrators;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td width="5%" valign="top">(d)</td>
-    <td width="90%" valign="top">to other Shaw Media Companies;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td width="5%" valign="top">(e)</td>
-    <td width="90%" valign="top">to internal or external legal counsel and auditors;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td width="5%" valign="top">(f)</td>
-    <td width="90%" valign="top">to the management personnel of each Shaw Media Company;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td width="5%" valign="top">(g)</td>
-    <td width="90%" valign="top">in the context of providing references regarding current or former employees in response to requests from prospective employers and/or financial institutions;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td width="5%" valign="top">(h)</td>
-    <td width="90%" valign="top">to prospective parties in the context of a transactional due diligence review; and</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td width="5%" valign="top">(i)</td>
-    <td width="90%" valign="top">where disclosure is required by law.</td>
-  </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
-    <td valign="top">5.3</td>
-    <td colspan="2" valign="top">A Shaw Media Company may disclose the personal information of its customers:</td>
-  </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td width="5%" valign="top">(a)</td>
-    <td width="90%" valign="top">to third parties who are acting on our behalf as our agents, suppliers or service providers;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td width="5%" valign="top">(b)</td>
-    <td width="90%" valign="top">to other Shaw Media Companies;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td width="5%" valign="top">(c)</td>
-    <td width="90%" valign="top">to internal or external legal counsel and auditors;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td width="5%" valign="top">(d)</td>
-    <td width="90%" valign="top">to the management personnel of each Shaw Media Company;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td width="5%" valign="top">(e)</td>
-    <td width="90%" valign="top">to third parties for the development, enhancement or marketing of Shaw Media products or services;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td width="5%" valign="top">(f)</td>
-    <td width="90%" valign="top">to an agent retained by the Shaw Media Companies in connection with the collection of the customer’s account;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td width="5%" valign="top">(g)</td>
-    <td width="90%" valign="top">to credit grantors and reporting agencies;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td width="5%" valign="top">(h)</td>
-    <td width="90%" valign="top">to a third party or parties, where the customer consents to such disclosure;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td width="5%" valign="top">(i)</td>
-    <td width="90%" valign="top">to prospective parties in the context of a transactional due diligence review; and</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td width="5%" valign="top">(j)</td>
-    <td width="90%" valign="top">where disclosure is required by law.</td>
-  </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
-    <td valign="top">5.4</td>
-    <td colspan="2" valign="top">Except as required or permitted by law, when disclosure is made to a party other than a Shaw Media Company or a third party provider of personal information processing services, the consent of the individual shall be obtained and reasonable steps shall be taken to ensure that any such third party has personal information privacy procedures and policies in place that are at least comparable to those implemented by the Shaw Media Companies. Such third party service providers are provided only with such information as is necessary in the circumstances. Personal information provided to third parties may be used only for the purpose stipulated and is subject to strict terms of confidentiality.</td>
-  </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
-    <td valign="top">5.5</td>
-    <td colspan="2" valign="top">In the event that a third party service provider is located in the United States or another foreign country, customer and employee personal information may be processed and stored in the United States or such other foreign country. In such circumstances, the governments, courts or law enforcement or regulatory agencies of that country may be able to obtain access to your personal information through the laws of the foreign country (for example, the USA Patriot Act in the United States). Whenever the Shaw Media Companies engage a third party service provider, we confirm that its privacy and security standards adhere to this Privacy Policy and applicable privacy legislation.</td>
-  </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
-    <td valign="top">5.6</td>
-    <td colspan="2" valign="top">Unless authorized by the customer, the Shaw Media Companies will not sell, lease or trade the personal information of their employees or customers to third parties.</td>
-  </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
-    <td valign="top">5.7</td>
-    <td colspan="2" valign="top">Personal information shall be retained only as long as it remains necessary or relevant for the identified purposes or as required by law. Depending on the circumstances, where personal information has been used to make a decision about a customer or an employee, the relevant Shaw Media Company shall retain, for a period of time that is reasonably sufficient to allow for access by the customer or employee, either the actual information or the rationale for making the decision.</td>
-  </tr>
-</tbody></table>
-<p></p>
-
-<p>
-</p><h3>Principle 6 – Accuracy</h3><br><br>
-<em><strong>Personal information shall be as accurate, complete and up-to-date as is necessary for the purposes for which it is to be used.</strong></em><br><br>
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td width="5%" valign="top">6.1</td>
-    <td colspan="2" valign="top">Personal information used by the Shaw Media Companies shall be sufficiently accurate, complete and up-to-date to minimize the possibility that inappropriate information may be used to make a decision about the individual customer or employee. The extent to which personal information will be accurate, complete and up-to-date will depend upon the use of the information, taking into account the interests of the individual.</td>
-  </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
-    <td valign="top">6.2</td>
-    <td colspan="2" valign="top">Each Shaw Media Company shall ensure that personal information that is used on an ongoing basis, including information that is disclosed to third parties, is generally accurate and up-to-date, unless limits to the requirement for accuracy are clearly set out.</td>
-  </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
-    <td valign="top">6.3</td>
-    <td colspan="2" valign="top">Customers and employees are responsible for advising the Shaw Media Companies of any inaccuracies or changes to their personal information. Please inform the Shaw Media Company to whom you provided your information of any change of name, address or other personal information. In the event you have questions about the accuracy of factual information we have collected about you, you will have access to that information in order to verify and update it. If a Shaw Media Company has disclosed inaccurate personal information about you to a third party, such company will be pleased to contact the third party in order to correct the personal information.</td>
-  </tr>
-</tbody></table>
-<p></p>
-
-<p>
-</p><h3>Principle 7 – Safeguarding Personal Information</h3><br><br>
-<em><strong>Personal information shall be protected by security safeguards appropriate to the sensitivity of the information.</strong></em><br><br>
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td width="5%" valign="top">7.1</td>
-    <td colspan="2" valign="top">Each Shaw Media Company will implement security safeguards to protect personal information against loss or theft, as well as unauthorized access, disclosure, copying, use or modification, regardless of the format in which the information is held.</td>
-  </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
-    <td valign="top">7.2</td>
-    <td colspan="2" valign="top">The nature of the safeguards will vary depending on: (a) the sensitivity of the information that has been collected; (b) the amount, distribution and format of the information; and (c) the method of storage.</td>
-  </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
-    <td valign="top">7.3</td>
-    <td colspan="2" valign="top">Physical measures such as locked filing cabinets and restricted access to offices, organizational measures such as security clearances and limiting access on a “need-to-know” basis, and technological measures such as the use of passwords and encryption have been adopted by each Shaw Media Company.</td>
-  </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
-    <td valign="top">7.4</td>
-    <td colspan="2" valign="top">Each employee of a Shaw Media Company shall be made aware of the importance of maintaining the confidentiality of personal information. Our employees have been trained to respect your privacy at all times and those employees with access to your personal information shall use your personal information strictly in accordance with this Privacy Policy and the laws applicable to each specific business.</td>
-  </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
-    <td valign="top">7.5</td>
-    <td colspan="2" valign="top">Personal information disclosed to third parties shall be protected by contractual agreement stipulating the confidentiality of the information and the purposes for which it is to be used.</td>
-  </tr>
-</tbody></table>
-<p></p>
-
-<p>
-</p><h3>Principle 8 – Openness</h3><br><br>
-<em><strong>The Shaw Media Companies shall make readily available to its customers and employees specific information about its policies and practices relating to the management of personal information.</strong></em><br><br>
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td width="5%" valign="top">8.1</td>
-    <td colspan="2" valign="top">Each Shaw Media Company will be open about its policies and practices with respect to the management of personal information. Customers and employees shall be able to acquire information about the policies and practices of each Shaw Media Company with respect to the management of personal information without unreasonable effort.</td>
-  </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
-    <td valign="top">8.2</td>
-    <td colspan="2" valign="top">Such information shall be made available to: (i) customers by writing to Shaw Media Inc., to the attention of the Privacy Officer at 630-3rd Ave. S.W., Calgary, AB, T3P 4L4 or at <a href="mailto:privacy@shaw.ca">privacy@shaw.ca</a>, and (ii) employees by contacting the Human Resources Department at the applicable Shaw Media Company.</td>
-  </tr>
-</tbody></table>
-<p></p>
-
-<p>
-</p><h3>Principle 9 – Individual Access</h3><br><br>
-<em><strong>Upon request, an individual shall be informed of the existence, use and disclosure of his or her personal information and shall be given access to that information except where a Shaw Media Company is permitted or required by law not to disclose personal information to the individual customer or employee. An individual customer or employee shall be able to challenge the accuracy and completeness of the information disclosed to him or her and have it amended as appropriate.</strong></em><br><br>
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td width="5%" valign="top">9.1</td>
-    <td colspan="2" valign="top">Upon request, a Shaw Media Company shall inform an individual customer or employee whether it holds personal information about that individual (except where permitted or required by law not to disclose personal information) and shall afford the individual a reasonable opportunity to review the personal information in his or her file at minimal or no cost to the individual. The Shaw Media Company shall provide an account of the use that has been made or is being made of the personal information and an account of the third parties to which the personal information has been disclosed. Where reasonably possible, the Shaw Media Company shall indicate the source of the personal information.</td>
-  </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
-    <td valign="top">9.2</td>
-    <td colspan="2" valign="top">In order to safeguard personal information, a customer or employee may be required to provide sufficient identification information to permit the Shaw Media Company to account for the existence, use and disclosure of personal information and to authorize access to the individual’s file. Any such information shall be used only for this purpose.</td>
-  </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
-    <td valign="top">9.3</td>
-    <td colspan="2" valign="top">In certain situations, the Shaw Media Companies may not be able to provide access to all of the personal information that they hold about a customer or employee. For example, the Shaw Media Companies are not required to provide access to information if doing so would likely reveal personal information about a third party or could reasonably be expected to threaten the life or security of another individual. Similarly, the Shaw Media Companies may not be required to provide access to information if disclosure would reveal confidential commercial information, if the information is protected by solicitor-client privilege, if the information was generated in the course of a formal dispute resolution process, or if the information was collected in relation to the investigation of a breach of an agreement or a contravention of a federal or provincial law. If access to personal information cannot be provided, the Shaw Media Companies shall provide the reasons for denying access upon request.</td>
-  </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
-    <td valign="top">9.4</td>
-    <td colspan="2" valign="top">In providing an account of third parties to which it has disclosed personal information about a customer or an employee, the Shaw Media Company shall attempt to be as specific as possible. When it is not possible to provide a list of the organizations to which it has actually disclosed personal information, the Shaw Media Company shall provide a list of organizations to which it may have disclosed personal information about the customer or employee.</td>
-  </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
-    <td valign="top">9.5</td>
-    <td colspan="2" valign="top">The Shaw Media Companies shall promptly correct or complete any personal information found to be inaccurate or incomplete. Any unresolved differences as to the accuracy or completeness shall be noted in the individual’s file. Where appropriate, the Shaw Media Companies shall transmit to third parties having access to the personal information in question any amended information or the existence of any unresolved differences.</td>
-  </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
-    <td valign="top">9.6</td>
-    <td colspan="2" valign="top">If you have any questions about the collection, use or disclosure of your personal information by a Shaw Media Company, or if you simply want to know whether we have any of your personal information on file, you may contact Shaw Media’s Privacy Officer at 630-3rd Ave. S.W., Calgary, AB, T2P 4L4 or at <a href="mailto:privacy@shaw.ca">privacy@shaw.ca</a>.</td>
-  </tr>
-</tbody></table>
-<p></p>
-
-<p>
-</p><h3>Principle 10 – Challenging Compliance</h3><br><br>
-<em><strong>An individual customer or employee shall be able to address a challenge concerning compliance with the principles in this Privacy Policy to his or her designated Privacy Officer.</strong></em><br><br>
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td width="5%" valign="top">10.1</td>
-    <td colspan="2" valign="top">The Shaw Media Companies shall maintain procedures for addressing and responding to all inquiries or complaints from its customers and employees about the companies’ handling of personal information.</td>
-  </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
-    <td valign="top">10.2</td>
-    <td colspan="2" valign="top">The Shaw Media Companies will inform their customers and employees about the existence of these procedures as well as the availability of complaint procedures.</td>
-  </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
-    <td valign="top">10.3</td>
-    <td colspan="2" valign="top">The Shaw Media Companies shall investigate all complaints concerning compliance with this Privacy Policy. If a complaint is found to be justified, the relevant Shaw Media Company shall take appropriate measures to resolve the complaint including, if necessary, amending its policies and procedures. A customer or employee shall be informed of the outcome of the investigation regarding his or her complaint.</td>
-  </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
-    <td valign="top">10.4</td>
-    <td colspan="2" valign="top">If you have any questions or concerns about the personal information about you held by a Shaw Media Company or about the compliance by a Shaw Media Company with this Privacy Policy, please contact Shaw Media’s Privacy Officer at 630-3rd Ave. S.W., Calgary, AB, T2P 4L4 or at <a href="mailto:privacy@shaw.ca">privacy@shaw.ca</a>.</td>
-  </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
-    <td valign="top">10.5</td>
-    <td colspan="2" valign="top">Each Shaw Media Company has procedures in place to receive and respond to complaints or inquiries about its handling of personal information. Each Shaw Media Company will describe the complaint procedures to anyone who makes inquiries or lodges complaints.</td>
-  </tr>
-</tbody></table>
-<p></p>
-
-<p>
-</p><h3>Updating This Privacy Policy</h3><br><br>
-Any changes to our Privacy Policy and information handling practices will be acknowledged in this policy in a timely manner. We may add, modify or remove portions of this Privacy Policy when we feel it is appropriate to do so.  You may determine when this Privacy Policy was last updated by referring to the date found at the bottom of this Privacy Policy.<br><br>
-<span style="font-size:12px"><em>Last revised Thursday, November 25, 2010.</em></span><br><br>
-<p></p>
-
+							<!-- PRIMARY NAVIGATION -->
+							<div class="nav-primary">
+								<a href="http://bigbrothercanada.slice.ca/video/" class="btn btn-primary-nav ">Watch Now</a>
+								<span class="spacer"></span>
+								<a href="http://bigbrothercanada.slice.ca/game/" class="btn btn-primary-nav ">Play Along</a>
+								<span class="spacer"></span>
+								<a href="http://bigbrothercanada.slice.ca/theshow/" class="btn btn-primary-nav ">The Show</a>
+							</div>
+								<div class="nav-secondary hidden-phone">
+									<div class="user-nav">
+										<div class="nav-user-logged-in"><span class="user-greeting"></span>&nbsp;&nbsp;<span class="nav-username">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
+										<div class="nav-user-logged-in-dropdown" style="display: none;">
+											<a class="item-top item-dropdown" href="http://bigbrothercanada.slice.ca/account/">My Account</a>
+											<a href="#" class="item-bottom item-dropdown lnkSignOut">Sign Out</a>
+										</div>
+									</div>
+									<div class="guest-nav">
+										<a id="sign_in_btn" href="http://bigbrothercanada.slice.ca/account/sign-in/" class="btn btn-secondary-nav">Sign In</a>
+										<span class="spacer"></span>
+									</div>
+								</div>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
-				<div id="footer">
-			<ul class="footer-nav">
-				<li><a href="/default.asp" title="Home">Home</a></li>
-				<li><a href="/terms.asp" title="Terms &amp; Conditions">Terms &amp; Conditions</a></li>
-				<li><a href="/contacts/index.asp" title="Contact Us">Contact Us</a></li>
-				<li><a href="/privacy.asp" title="Privacy Policy">Privacy Policy</a></li>
-				<li class="last"><a href="/copyright.asp" title="Copyright">Copyright</a></li>
-			</ul>
-			<p>© Shaw Media Inc., 2010. All rights reserved.</p>
-      <a href="http://www.shaw.ca" target="_blank"><img src="/images/ShawLogoFooter.png"></a>
+	</div>
+		<svg id="main-nav-hanging-thing" class="hidden-phone" width="400" height="10" viewBox="0 0 400 10">
+			<polygon style="fill:#2d1e15;" points="0,0 400,0 380,10 20,10 0,0"></polygon>
+		</svg>
 
+	<!-- SUBNAV -->
+	
+		<div id="sub-navigation-wrapper" class="container-wrapper">
+			<div class="container-fluid">
+				<div class="row-fluid">
+					<div id="sub-navigation">
+						<div id="sub-navigation-top" class="hidden-phone">
+							<div class="row-fluid">
+								<div class="span12">
+									<a class="hidden-phone" href="http://bigbrothercanada.slice.ca/">
+										<img id="flare-logo" src="http://bigbrothercanada.slice.ca/assets/img/lensflare.png">
+										<img id="bbc-logo" src="http://bigbrothercanada.slice.ca/assets/img/bbc-logo.png">
+									</a>
+								</div>
+							</div>
+						</div>
+						<div id="sub-navigation-bottom" class="row-fluid">
+							<div class="span12"><div class="nav-items-container"><span class="sub-nav-text hidden-phone">Privacy Policy<span class="next-ep"><a href="http://www.slice.ca/OnTV/Schedule.aspx" target="_blank">SEE FULL SLICE SCHEDULE</a></span></span></div>
+
+							</div>
+						</div>
+
+						<svg class="left-corner hidden-phone" width="10" height="10" viewBox="0 0 10 10">
+							<polygon points="0,0 10,0 10,10"></polygon>
+						</svg>
+						<svg class="right-corner hidden-phone" width="10" height="10" viewBox="0 0 10 10">
+							<polygon points="0,0 10,0 0,10"></polygon>
+						</svg>
+					</div>
+				</div>
+			</div>
 		</div>
-<!-- SiteCatalyst code version: H.17.
-Copyright 1997-2008 Omniture, Inc. More info available at
-http://www.omniture.com -->
+				
+</div>
 
-<script language="JavaScript" type="text/javascript" src="/includes/siteCatalyst/account_s_code.js"></script>
-<script language="JavaScript" type="text/javascript" src="/includes/siteCatalyst/s_code_remote.js"></script>
-<script language="JavaScript" type="text/javascript" src="/includes/siteCatalyst/local_s_code.js"></script>
+<div id="content">
+	<div class="container-wrapper privacy-policy-main">
+		<div class="container-fluid">
+			<div class="border-top-line hidden-phone"></div><div class="fixed-column-content">
+				<div class="ad-container visible-phone ad-spacer">
+					<div class="row-fluid">
+						<div class="span6 ad-wrapper">
+							
+				<div class="ad-bigbox ad-phone">
+					<div class="ad-wrap">
+						<div id="div-gpt-ad-1360968845024-phone-1" class="gpt-phone">
+									</div>
+					</div>
+				</div>
+						</div>
+					</div>
+				</div>
+				
+	<div class="row-fluid">
+		<div class="span12 terms-container">
+			<div class="text-container">
+				<h1>BIG BROTHER CANADA Privacy Policy</h1>
 
-<script language="JavaScript" type="text/javascript"><!--
-/* You may give each page an identifying name, server, and channel on
-the next lines. */
-s.pageName="/privacy.asp" // Full path and filename without querystring. Example http://www.canwest.com/about/default.asp would be  "/about/default.asp". If it is a flash screen, value should be "flash: Descriptive Name of Screen".
-s.server="shawmedia.ca" // Domain, example: "www.canwest.com"
-s.channel= "General"// First directory. For example, http://www.canwest.com/brands/conventional/global.asp would be "brands".
-s.pageType="" // If 404 page, "errorPage". Else, "".
-s.prop1="" // First and second directory of the url. If no second directory, use the first. Leave empty if on root. Example, http://www.canwest.com/advertising/broadcast/index.asp would be "advertising/broadcast"
-s.prop2="" // The full directory structure to the page. Example (http://www.canada.com/topics/entertainment/movie-guide/index.html): "topics/entertainment/movie-guide"
-s.prop3="Canwest"
+				<p>Secret Location Inc. (referred to herein as “We”, “Our” or “Us”) is committed to protecting your personal information when you (“You” or “Your”) visit Our website. Your visit is subject to this Privacy Policy and Our <a href="http://bigbrothercanada.slice.ca/terms-of-use/">Terms of Use</a>. Our Policy regarding the collection, use and disclosure, if any, of personal information incorporates the 10 principles of fair information practices, as set out in Schedule 1 of Canada's Personal Information Protection and Electronic Documents Act.</p>
 
-s.prop11="" // If a search results page, list search terms in lowercase. Example, "politics".
-s.prop12="" // If a search results page, this is the number of search results found. If 0, "zero". Examples, "15", "zero", "200".
+				<h2>HOW WE COLLECT AND USE YOUR INFORMATION:</h2>
 
-s.prop25="" // Filename without the extension. Example, if url is http://digital.calgaryherald.com/epaper/homepage_v2.aspx?date=15.12.2008&width=1600, "homepage_v2".
-s.prop26="" // If applicable, first directory of the url.
-s.prop27="" // If applicable, first and second directory of the url.
-s.prop28="" // If applicable, first, second and third directory of the url.
-s.prop29="" // If applicable, first, second, third and fourth directory of the url.
-s.prop37="" // If DART served ads are on the page, pass in the DART ad site value. Example, http://www.canada.com/topics/entertainment/movie-guide/index.html, "ccn_entertainment.com" (found in source code).
+				<h3>Registration</h3>
 
-/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-var s_code=s.t();if(s_code)document.write(s_code)//--></script>
-<script language="JavaScript" type="text/javascript"><!--
-if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
-src="http://canwest.112.2o7.net/b/ss/canwestglobal,canshopping/1/H.17--NS/0"
-height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
-<!-- End SiteCatalyst code version: H.17. -->
+				<p>In order to participate in all elements of the Power Play Prediction Game, You will need to register for an account and sign in.  When You register, We ask for Your full name and e-mail address.  This information is used by Us to validate Your registration, and to create and administer Your account.  You will also be asked to create a screen-name and password for Your account.  Your screen-name and Game activity will be available for public view.</p>
+				<p>If You decide to link Your account to your Facebook or Twitter account at the time of registration, We will also collect Your Facebook or Twitter (as applicable) account details for the purposes of validating your registration, and creating and administering Your account.</p>
+
+				<h3>Contacting You by E-mail</h3>
+
+				<p>If You register, We will contact you by e-mail periodically to confirm your registration, provide updates and notifications regarding the Game and/or to respond to Your requests, unless you opt to turn off e-mail notifications in your account preferences (accessible when logged into your user account) .</p>
+
+				<h3>Chevy Power Shift Voting</h3>
+
+				<p>If you decide to participate in the Chevy Power Shift voting, you will be required to provide Your e-mail address in order to verify Your vote.  You will receive one confirmation e-mail.</p>
+
+				<h3>IP addresses</h3>
+
+				<p>When You visit our website, whether You are signed into Your account or not, Your browser type and IP address will be collected by Our trusted third parties, for web traffic reporting, statistics, analysis and other similar purposes.</p>
+
+				<h3>Cookies</h3>
+
+				<p>Cookies are alphanumeric identifiers that We transfer to Your computer's hard drive through Your Web browser to enable Our systems to recognize Your browser and tell Us how and when pages in Our website are visited and by how many people. Our cookies do not collect personal information.</p>
+				<p>We use cookies on some pages in order to optimize and tailor Your use of this website. The cookies recognize return visitors to the website and will load certain preferences set and saved on prior visits.</p>
+				<p>The "help" portion of the toolbar on the majority of browsers will direct You on how to prevent Your browser from accepting new cookies, how to command the browser to tell You when You receive a new cookie, or how to fully disable cookies.</p>
+
+				<h3>Private Logging</h3>
+
+				<p>Every time You visit a web page, You send information to the web server. Most web servers routinely maintain access logs with a portion of this information, which can be used to get an overall picture of what pages are popular, what other sites link to this one, and what web browsers people are using.</p>
+				<p>These logs are used to produce site statistics; the raw log data is not made public. Log data may be examined by developers and administrators in the course of solving technical problems.</p>
+
+				<h3>Sharing Information</h3>
+
+				<p>If You register and participate in the Game, the following information may be shared with Shaw Media Inc. for the purposes of administering the Power Play Prediction Game weekly draw:  Your first and last name and Your e-mail address.  Your information will only be provided to Shaw Media Inc. if you are eligible for one of the weekly prize draws.  If you do not wish to have Your information shared in this manner, please do not participate in the Game.</p>
+
+				<h3>Foreign Service Providers</h3>
+
+				<p>In the event that a third party service provider related to the administration of the Game and/or Our website is located in the United States or another foreign country, personal information may be processed and stored in the United States or such other foreign country. In such circumstances, the governments, courts or law enforcement or regulatory agencies of that country may be able to obtain access to Your personal information through the laws of the foreign country (for example, the USA Patriot Act in the United States). Whenever We engage a third party service provider, we confirm that its privacy and security standards adhere to applicable privacy legislation.</p>
+
+				<h2>PRIVACY PRINCIPLES</h2>
+
+				<ol>
+					<li>
+						<p><strong>accountability.</strong><br>We are responsible for maintaining and protecting personal information under Our control.  To this end, we have designated a Privacy Officer who is accountable for Our compliance with this Policy and all applicable privacy laws.</p>
+					</li>
+					<li>
+						<p><strong>IDENTIFYING PURPOSES</strong><br>
+Unless the purpose is self-evident, We will identify the purposes for which personal information is collected at or before the time the information is collected. 
+The proposed purposes will be described in a reasonably understandable manner. 
+					</p></li><li>
+						<p><strong>CONSENT</strong><br>
+We will collect, use or disclose Your personal information only with Your knowledge and consent, except where required or permitted by law. 
+					</p></li><li>
+						<p><strong>LIMITING COLLECTION</strong><br>
+Our collection of personal information will be limited to what is necessary for the purposes set out in this Policy or which We otherwise identify at or before the time of collection. 
+We will collect personal information by fair and lawful means.
+					</p></li><li>
+						<p><strong>LIMITING USE, DISCLOSURE AND RETENTION</strong><br>
+Personal information will not be used or disclosed for purposes other than those for which it was collected, except with Your consent or as required or permitted by law. 
+It will be retained only as long as necessary for these purposes or as required by law. 
+					</p></li><li>
+						<p><strong>ACCURACY</strong><br>
+We will keep Your personal information as accurate, complete and up-to-date as necessary for the purposes for which it is to be used.
+					</p></li><li>
+						<p><strong>SAFEGUARDS</strong><br>
+We will protect personal information by security safeguards appropriate to the sensitivity of the information, including through the use of the following measures: physical (e.g., locked filing cabinets, restricted access, appropriate disposal of personal information), organizational (e.g., security clearances, access only on a "need to know" basis), technological (e.g., passwords, encryption) and training of employees.
+					</p></li><li>
+						<p><strong>OPENNESS</strong><br>
+Information about Our policies and practices relating to the management of personal information will be made readily available to individuals.
+					</p></li><li>
+						<p><strong>INDIVIDUAL ACCESS</strong><br>
+Upon request, We will inform You of the existence, use and disclosure of personal information relating to You and give You access to that information. You have the right to challenge the accuracy and completeness of Your information and have it amended as appropriate. 
+					</p></li><li>
+						<p><strong>CONTACTING US AND/OR CHALLENGING COMPLIANCE</strong></p>
+						<p>For anything to do with this Policy, including questions or comments, or to challenge Our compliance with this Policy, please contact Us as follows:</p>
+						<p>Privacy Officer<br>Secret Location Inc.<br>80 Mitchell Avenue #3<br>Toronto, Ontario<br>M6J 1B9<br><a href="mailto:privacy@thesecretlocation.com">privacy@thesecretlocation.com</a></p>
+					</li>
+				</ol>
+			</div>
+		</div>
 	</div>
 
 
+			</div>
 
+		</div>
+	</div>
+</div><div id="modals">
+	<div id="modal-overlay"></div>
+	<div id="modal-container">
+		<div class="modal" id="general-modal">
+			<div class="wrapper">
+				<!--<button class="close hide-text" data-modal-id="modal-sign-up">×</button>-->
+				<h1 class="title">Title goes here</h1>
+				<p class="msg">This is where the main message goes</p>
+				<h1 class="highlight">highlight something</h1>
+				<p class="msg2">Additional messaging</p>
+				<div class="btn btn-yes">yes</div>
+				<div class="btn btn-no">no</div>
+				<div class="btn btn-ok">ok</div>
+				<br><br>
+			</div>
+		</div>
 
+		<!-- Forgot Password -->
+
+		<div class="modal" id="modal-forgot-password">
+			<button class="close hide-text">×</button>
+			<div class="wrapper" style="margin:30px 10px 10px 10px;">
+				<h1>FORGOT YOUR PASSWORD?</h1>
+				<!--<span class="reset-instructions">--><p>No problem, <b>enter your email</b> below and we'll send you a link to reset it.</p><!--</span>-->
+
+				<form id="forgotpass_form" name="forgotpass_form" action="http://bigbrothercanada.slice.ca/system/scripts/forgot-password.php" method="post">
+					<!--<label for="forgot-password-email">Enter Your Email</label>-->
+					<input type="text" name="email" id="forgot-password-email" class="input-block-level">
+					<div class="row-fluid">
+						<div id="modal-button-container" class="span12">
+							<button id="forgot-password-submit" type="submit" class="btn reset-btn">Get New Password</button>
+							<a id="dismiss-modal-button" data-modal-id="modal-sign-up" class="btn reset-btn" style="display: none;">OKAY</a>
+						</div>
+					</div>
+				</form>
+			</div>
+		</div>
+
+		<!-- Account Changes -->
+
+		<div class="modal" id="account-modal">
+			<button class="close hide-text">×</button>
+			<div class="wrapper" style="margin:30px 10px 10px 10px;">
+				<h3 class="modal-header-copy">Placeholder</h3>
+				<p class="modal-body-copy">Placeholder</p>
+				<div class="row-fluid">
+					<div class="span12">
+						<a id="dismiss-modal-button" data-modal-id="modal-sign-up" class="btn btn-ok">OKAY</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div id="footer">
+	<div class="container-wrapper">
+		<div>
+			<div class="footer-content content">
+				<div class="container-fluid">
+					<div class="row-fluid">
+						<div class="span6" id="footer-logos">
+							<a target="_blank" href="http://www.slice.ca">
+								<img src="http://bigbrothercanada.slice.ca/assets/img/footer-logo-slice.png">
+							</a>
+							<a target="_blank" href="http://www.shaw.ca">
+								<img src="http://bigbrothercanada.slice.ca/assets/img/footer-logo-shaw.png">
+							</a>
+                            <a target="_blank" href="http://www.insighttv.com/">
+								<img src="http://bigbrothercanada.slice.ca/assets/img/footer-logo-insight.png">
+							</a>
+							<a target="_blank" href="http://www.thesecretlocation.com">
+								<img src="http://bigbrothercanada.slice.ca/assets/img/footer-logo-sl.png">
+							</a>
+							<a target="_blank" href="http://bellfund.ca">
+								<img src="http://bigbrothercanada.slice.ca/assets/img/footer-logo-bell.png">
+							</a>
+						</div>
+						<div class="span6" id="footer-links">
+							<p>© Secret Location Inc., 2013. All rights reserved.</p>
+							<div class="navigation">
+								<a href="http://bigbrothercanada.slice.ca/terms-of-use/">terms of use</a>
+								<span class="spacer"></span>
+								<a href="http://bigbrothercanada.slice.ca/privacy-policy/">privacy policy</a>
+								<span class="spacer"></span>
+								<a target="_blank" href="http://www.slice.ca/About/ContactUs.aspx">contact</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+					  var _gaq = _gaq || [];
+					  _gaq.push(['_setAccount', 'UA-38646525-1']);
+					  _gaq.push(['_trackPageview']);
+
+					  (function() {
+						var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+						ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+						var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+					  })();
+					</script>		<script type="text/javascript" src="http://bigbrothercanada.slice.ca/js/min/external.min.js?rev=45"></script><script type="text/javascript" src="http://bigbrothercanada.slice.ca/js/min/core.min.js?rev=45"></script><script type="text/javascript" src="http://bigbrothercanada.slice.ca/js/min/default.min.js?rev=45"></script>				<script type="text/javascript" src="http://bigbrothercanada.slice.ca/js/libs/enquire/enquire.min.js"></script>
+		<script type="text/javascript" src="http://bigbrothercanada.slice.ca/js/src/utils/responsive-ad-loading.js"></script>
+	
 </body></html>
