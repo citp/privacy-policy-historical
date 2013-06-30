@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gene.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231000817id_/http%3A//www.gene.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gene.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630040606id_/http%3A//www.gene.com/privacy-policy) for the most accurate reproduction.*
 
 # Genentech: Privacy Policy
 
-Genentech, Inc. ("Genentech") respects the privacy of visitors to its websites, and we recognize your need for appropriate protection and management of personally identifiable information you share with us (any information by which you can be identified, including but not limited to, name, address, e-mail address, and telephone number). That is why we have established this Privacy Policy, so that you are informed about how we treat any personally identifiable information that you provide to us in the course of using this website. This Privacy Policy will inform you of:
+Genentech, Inc. ("Genentech") respects the privacy of visitors to its websites, and we recognize your need for appropriate protection and management of personally identifiable information you share with us (any information by which you can be identified, including but not limited to, name, address, e-mail address, and telephone number). We have established this Online Privacy Policy so that you are informed about how we treat any personally identifiable information that you provide to us in the course of using this website. This Online Privacy Policy will inform you of: 
 
   1. How you will be informed of updates to this Privacy Policy
   2. What personally identifiable information of yours we may collect from you through our website
@@ -16,13 +16,13 @@ Genentech, Inc. ("Genentech") respects the privacy of visitors to its websites, 
 
 Please note that the Genentech websites are directed towards users who reside in the United States of America. It is not our intent to gather personally identifiable information from individuals residing outside the U.S.
 
-## Privacy Policy Updates
+## Online Privacy Policy Updates
 
-From time to time, Genentech may revise this Online Privacy Policy. Any such changes to this Online Privacy Policy will be promptly reflected on this page. Genentech encourages you to review this Online Privacy Policy regularly for any changes. Your continued use of this website will be subject to the then-current Online Privacy Policy. The effective date of this Online Privacy Policy is May 25, 2011.
+From time to time, Genentech may revise this Online Privacy Policy. Any such changes to this Online Privacy Policy will be promptly reflected on this page. Genentech encourages you to review this Online Privacy Policy regularly for any changes. Your continued use of this website will be subject to the then-current Online Privacy Policy. The effective date of this Online Privacy Policy is November 20, 2012.
 
 ## Information Collection and Use
 
-You can generally visit our website without revealing any personally identifiable information about yourself. However, to access certain options and services we may ask you to provide certain personally identifiable information and without providing such personally identifiable information, you may be unable to access certain options and services. We (along with our third party partners engaged to provide marketing and advertising on our behalf) collect personally identifiable information about you only if you voluntarily provide it to us and you have the option not to provide any personally identifiable information to us. The following is personally identifiable information that you may voluntarily provide to us and how we use it:
+You can generally visit our website without revealing any personally identifiable information about yourself. However, to access certain options and services we may ask you to provide certain personally identifiable information and without providing such personally identifiable information, you may be unable to access certain options and services. We (along with our third party partners engaged to provide marketing and advertising on our behalf) collect personally identifiable information about you only if you voluntarily provide it to us and you have the option not to provide any personally identifiable information to us. The following is personally identifiable information that you may voluntarily provide to us and how we use it: 
 
   * **Surveys.** Information obtained from you on web surveys, such as contact information (name and shipping address), demographic information (zip code, age level) and medical condition. We may use this personally identifiable information to provide you with information and services for which you have expressed an interest or that you may find useful based on your answers in a survey. Additionally, we may refer to your personally identifiable information to better understand your needs and how we can improve our website.
   * **Newsletters.** Information obtained from you from your request to subscribe to a newsletter, such as contact information (name and e-mail address). We may use this personally identifiable information to deliver the newsletters that you have elected to receive.
@@ -39,9 +39,9 @@ Our websites are not intended for or designed to attract children under the age 
 
 ## Cookies and GIF files
 
-Some of our websites may use cookie technology to identify users who have previously visited so the user is recognized upon return, thereby saving them time while on our website. A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our website. Once the user closes their browser, the cookie simply terminates. If a user rejects the cookie, they may still use our website. A cookie may be placed by us, or by vendors or service agencies who work with us or with our partners.
+Some of our websites may use cookie technology to identify users who have previously visited so the user is recognized upon return, thereby saving them time while on our website. A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our website. If a user rejects the cookie, they may still use our website. A cookie may be placed by us, or by vendors or service agencies who work with us or with our partners.
 
-This website may use pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partners. These files enable these partners to recognize a unique file on your web browser, which in turn enables us to learn which advertisements bring users to our website. The information contained in GIF files that we collect and share with our ad management partners is anonymous and is not personally identifiable.
+This website and emails we send to you may contain transparent GIF files (also known as "web beacons," "action tags," or "pixel tags") to help manage online advertising. These GIF files are used by us and our ad management partners to recognize when a visitor views a web page or opens an email. This information enables us to learn which emails and advertisements bring users to our website. The information collected and shared with our ad management partners through the use of GIF files is anonymous and is not personally identifiable. 
 
 ## Log Files and Aggregate Information
 
@@ -65,16 +65,23 @@ Genentech and its third party providers may employ procedural and technological 
 
 Genentech is committed to respecting your right to access and correct your personal information. You can call us at 877-GENENTECH and we will be happy to assist you with your request. You may also "opt-out" of receiving e-mails and other communications from us by using the unsubscribe feature included in the e-mails we send. If you have any questions about this online privacy policy or the information practices of our sites, you may contact us by email at [privacy.office@gene.com](mailto:privacy.office@gene.com) or by mail at:
 
+## Contacting Genentech
+
 Genentech, Inc.  
 Attn: Privacy Office  
 1 DNA Way  
 South San Francisco, CA 94080  
-Privacy Policy last updated: February 4, 2011  
+**Privacy Policy last updated: November 20, 2012**  
 
+
+  * Revised sections 'Online Privacy Policy Updates,' 'Information Collection and Use,' 'Minors,' 'Cookies and GIF Files,' 'Sharing and Disclosure,' and 'Correcting/Updating Personally Identifiable Information' 
+  * Added section 'Contacting Genentech' 
+
+
+
+**Privacy Policy last updated: February 4, 2011**
 
   * Revised sections 'Online Privacy Policy Updates,' 'Information Collection and Use,' 'Minors,' 'Cookies and GIF Files,' 'Sharing and Disclosure,' and 'Correcting/Updating Personally Identifiable Information'
   * Added section 'Contacting Genentech'
 
 
-
-Previous update: July 12, 2004
