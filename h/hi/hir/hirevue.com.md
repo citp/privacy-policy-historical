@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hirevue.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231001549id_/http%3A//hirevue.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hirevue.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630125202id_/http%3A//hirevue.com/terms) for the most accurate reproduction.*
 
 # HireVue Privacy Policy - Hirevue
 
@@ -43,8 +43,8 @@ Enforcement. We’ll regularly review how we’re meeting these privacy promises
 To access your information, ask questions about our privacy practices, or issue a complaint, contact us at:
 
 HireVue, Inc.  
-12227 S. Business Park Drive, Suite 120  
-Draper, Utah 84020
+10876 South River Front Parkway, Suite 600  
+South Jordan, Utah 84095
 
 Headquarters: 800.655.4106 Fax: 1.888.619.4053  
 Privacy Policy Inquiries: [privacy@hirevue.com](mailto:privacy@hirevue.com)
