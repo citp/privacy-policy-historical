@@ -1,62 +1,119 @@
-> *The following text is extracted and transformed from the azendoo.com privacy policy that was archived on 2011-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110824073521id_/http%3A//azendoo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azendoo.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630061248id_/http%3A//en.azendoo.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Azendoo.com
+# Azendoo | Privacy policy
 
-[Azendoo ](http://azendoo.com/)respects your right to privacy with the use of [our online products](http://azendoo.com/solution/ "Solution Details"), and we are committed to protecting it. Accordingly, we abide by the following privacy principles for all the personally identifiable information we collect from you.
+[ ](https://web.archive.org/ "Azendoo")
 
-#### Information Collection
+## Azendoo is founded on the principles of sharing tasks or files and collaborating as teams. We know that you care about how your personal information is used and shared; reason why security of data and privacy are a priority for us.
 
-**** You may view some areas of our site for free and register for a free account. We collect information such as your name, address, email. We use this information to contact you about the services on our site in which you have expressed interest. You must provide contact information (such as name, email). We use this information to fill your order for a subscription to Azendoo products. If we have trouble processing an order, we will use this information to contact you. When you subscribe to one of Azendoo products you will receive a welcome email. As part of registering for the Service, you may receive email newsletters from us. We do not collect personally identifiable information about you except when you specifically provide this information on a voluntary basis. We will make every effort to ensure that whatever information you provide will be maintained in a secure environment. We may also collect information regarding your use of the Azendoo site, your login time and duration and your last known login date and time. We may use this information and share it with our partners and we may contact you based on this information. We may also track and analyze non-identifying and aggregate usage and volume statistical information from you and provide such information to third parties.
+This Privacy Statement describes Azendoo's treatment of personal information that Azendoo gathers when you are on our websites and when you use our services. 
 
-#### Log Files
+By visiting the Azendoo website and by subscribing to our service, you are accepting the practices outlined in this document. This policy does not apply to the practices of third parties that Azendoo does not own or control, or to individuals that Azendoo does not employ or manage.
 
-As is true of most websites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to personally identifiable information.
+## Information collected
 
-#### Cookies
+You can visit Azendoo website without identifying yourself or revealing any personal information. 
 
-“Cookies” are small text files a website can use to recognize repeat users. Azendoo Contact and Azendoo Team uses cookies to recognize visitors and more quickly provide personalized content or grant you unimpeded access to the website. Information gathered through cookies also helps us measure use of our website. Cookie data allow us to track usage behavior and compile data that we can use to improve the site. This data will be used in aggregate form; no specific users will be tracked. Generally, cookies work by assigning a unique number to the user that has no meaning outside of the Web site that he or she is visiting. You can easily turn off cookies. Most browsers have a feature that allows the user to refuse cookies or issues a warning when cookies are being sent. However, our site will not function properly without cookies. Enabling cookies ensures a smooth, efficient visit to our website. We may use a third-party tracking service that uses cookies to track non-personally identifiable information about visitors to our site in the aggregate to capture usage and volume statistics to help us improve our site. We have no access or control over these cookies. This privacy statement covers the use of cookies by azendoo.com and all other Azendoo websites  only and does not cover the use of cookies by any third party.
+However, in case of request for information or registration to Azendoo services, we may ask you to provide basic contact information and details about your company / your professional interests as well as information about the expected use of our services. 
 
-#### Information Use
+We collect and store [ personal information ](https://web.archive.org/web/20130630061248id_/http%3A//en.azendoo.com/terms) such as your name or email, which are retained only if deliberately submit them: 
 
-Azendoo reserves the right to perform statistical analyses of user behavior and characteristics. We do this in order to measure interest in and use of the various areas of the website. Azendoo collects IP addresses for system administration and record keeping. Your IP address is automatically assigned to your computer when you use the World Wide Web. Our servers record incoming IP addresses. The IP addresses are analyzed only in aggregate; no connection is made between you and your computer’s IP address. By tracking IP addresses, we can determine which sites refer the most people to Azendoo. (Think of an IP address like your zip code; it tells us in general terms where you’re from.)
+  * via a registration forms, a survey and other online forms; 
+  * in order to get support; 
+  * when your request a call back or information about our products. 
 
-#### Communication from the Site
 
-##### Service-related Announcements
 
-We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account.  
-Customer Service  
-Based upon the personally identifiable information you provide us, we will send you a welcoming email to verify your username and password. We will also communicate with you in response to your support inquiries, to provide some of the services you request. We will communicate with you by email.
+When purchasing the services, we require you to provide us with financial qualification and billing information, such as billing name and address, credit card number, and the number of employees within the organization that will be using the services. 
 
-##### Newsletters
+##  Basically, 
 
-If you wish to subscribe to our newsletters, we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe in each newsletter. Please see the ‘unsubscribe’ feature at the bottom of each newsletter. The customer’s email list is stored on our system, but is not used by Azendoo in any other way other than to occasionally remind invited users to join the account that the account owner has registered for.
+We mainly collect information to make Azendoo services accessible and useful for you. 
 
-##### Surveys or Contests
+## Use of information
 
-From time-to-time we may provide you the opportunity to participate in contests or surveys on our site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information and demographic information (such as zip code). We use this information to notify contest winners and to monitor site traffic or personalize the site.
+We use the information collected on our websites through contact forms to provide you with the services that you request. 
 
-#### Testimonials
+We may occasionally use the information collected to provide you with additional information on services, partners, promotions and Azendoo events. 
 
-We post testimonials from time to time. We always receive permission to post prior to posting.  
-Sharing Information  
-We use other third parties to provide services on our site. When you purchase a service from us, we will share contact information as necessary for the third party to provide that service. These third parties are prohibited from using your personally identifiable information for any other purpose including their own marketing purposes.
+All data collected strictly remain for Azendoo SAS internal use only. Azendoo SAS is the sole owner of the information collected on its websites. 
 
-#### Opting Out
+We may use your personal information to: 
+  * prevent and detect fraud or any other prohibited or illegal activities; 
+  * protect the security and integrity of Azendoo websites and services; 
+  * fulfill your requests for registration; 
+  * process your online services orders; 
+  * facilitate the use of Azendoo websites and services; 
+  * help us customize content and make it closer to your needs; 
+  * inform you of any important news on Azendoo, relevant to you; 
+  * inform you of new services release and product updates; 
+  * communicate with you about technical or functional problems; 
+  * send you special offers and events that may interest you; 
+  * promote our products and services on our website and those of our partners. 
 
-Upon request, Azendoo will allow any user to opt out of our newsletter. You can unsubscribe by following the simple instructions included in each promotional email sent to you in the newsletter. This website may contain links to other sites that are not owned or controlled by Azendoo. Please be aware that we are not responsible for the privacy practices of such other sites. This privacy statement applies only to information collected by this website.
 
-#### Access to Personally Identifiable Information
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete it by making the change on the Account section page. We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our website.
+We may also use the information collected to improve Azendoo websites and services. 
 
-#### General Security Policy
+##  Basically, 
 
-The security of your personal information is important to us. When you enter sensitive information on our sign-up forms, we encrypt that information using secure socket layer technology (SSL). We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our website, you can [email us](mailto:contact@azendoo.com).
+Collected information also enable you to help us improve our services and stay in contact with us 
 
-#### Changes in this Privacy Statement
+## Sharing your Information
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently.  
-Contact Us
+We promise not to share or sell, rent or trade your personal and confidential information with any third party for commercial purposes. We will share your personal information only with other Azendoo entities and / or partners exclusively for above described purposes. 
 
-If you have any questions or suggestions regarding our privacy policy, please [contact us](http://azendoo.com/contactus/ "All Contact Details").
+Azendoo SAS uses third-party applications, web services and external hosting services to provide the hardware, network, storage, and all other technology required to allow exceptional quality access to Azendoo websites and services. Whenever possible, we strive to ensure that our partners are aligned with our privacy policy. 
+
+##  Basically, 
+
+Your information is safe with us. Other than publicly available, we do not share it with anyone. We do not sell your information. 
+
+## Cookies
+
+Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your web browser. You can set your browser to notify you when you receive a cookie, giving you the choice to accept it or not. Some of our business partners, like advertisers, may use cookies on our website. We have no access to, or control over, these cookies. 
+
+For some of its services and websites, Azendoo uses cookies or other technologies in order to offer you the best possible service and user experience, as well as easier navigation during your next visit: 
+  * identify you as a user account holder;
+  * ask you to re-enter your password after a certain period without activity to protect you against unsolicited access;
+  * remember your preferences and settings;
+  * estimate our audience and total traffic;
+  * improve our services and websites.
+
+
+
+##  Basically, 
+
+To remember you, Azendoo services and web site use cookies. It's safe. 
+
+## Improvements of our web sites and services
+
+Azendoo uses Google Analytics and other traffic analysis technologies in order to understand and optimize your use of our websites and services. Through cookies we can collect specific data (viewed pages, downloads, clicked links, connection time, IP address, domain name, parameters or system configurations, etc.). 
+
+You can disable Google Analytics analysis of your specific navigation data through an additional module of your browser at the following address: [ tools.google.com ](http://tools.google.com/dlpage/gaoptout). 
+
+##  Basically, 
+
+We track and analyse trafic to improve our web sites and to make our services better. 
+
+## Limitation of responsibility
+
+Links to other websites are available from Azendoo websites and services. If you click on these links, you leave our websites and services. Azendoo SAS is in no way responsible for the content and / or privacy policy of those other websites. Azendoo does not warrant or approve the contents or resources that such sites provide access to, and excludes all liability and warranty with respect to such content. If you decide to access such sites, you do so at your own risk. 
+
+##  Basically, 
+
+Azendoo SAS shall be responsible only for its own web sites and services. 
+
+## Contact Us
+
+YOU EXPRESSLY ACKNOWLEDGE THAT YOU HAVE AUTHORITY TO ACCEPT THE TERMS OF THIS PRIVACY POLICY AND THAT YOU HAVE READ THIS DOCUMENT AND UNDERSTAND THE RIGHTS, OBLIGATIONS, TERMS AND CONDITIONS SET FORTH HEREIN. BY CLICKING ON THE ACCEPT BUTTON AND/OR CONTINUING TO USE AZENDOO SERVICES, YOU EXPRESSLY CONSENT TO BE BOUND BY THE TERMS AND CONDITIONS HEREIN. 
+
+You have the ability to review, change and correct the personally identifiable information you provide us. As a registered user, you can access, correct or update your account or other personal information. You may also request that we remove from our databases the information you provided when you registered with Azendoo by contacting us at support@azendoo.com. 
+
+Questions regarding this Privacy Policy or the information practices of Azendoo website and services should be directed to Azendoo SAS by email at [ legal@azendoo.com ](mailto:legal@azendoo.com) or by mailing: 
+
+Azendoo SAS, Legal Service   
+9 Rue de Condé, 33000 Bordeaux   
+France 
+
+_Last updated on February 01, 2012_
