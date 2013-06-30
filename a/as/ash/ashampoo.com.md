@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ashampoo.com privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024132029id_/https%3A//www.ashampoo.com/uk/usd/ppy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashampoo.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630235539id_/https%3A//www.ashampoo.com/en/eur/ppy) for the most accurate reproduction.*
 
 # Ashampoo® - Company - Privacy Policy
 
