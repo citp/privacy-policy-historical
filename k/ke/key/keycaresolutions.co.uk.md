@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keycaresolutions.co.uk privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006085543id_/http%3A//www.keycaresolutions.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keycaresolutions.co.uk privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630225515id_/http%3A//www.keycaresolutions.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -58,4 +58,5 @@ Key Care Solutions Ltd, 5 Newton Court, Bampton, Devon EX16 9LG.
 
 ###  Contact Us
 
-We welcome any queries, comments or requests you may have regarding this Privacy Policy. Please do not hesitate to [contact us](http://www.keycaresolutions.co.uk/contact.html)
+We welcome any queries, comments or requests you may have regarding this Privacy Policy. Please do not hesitate to [contact us](http://www.keycaresolutions.co.uk/contact.html)  
+
