@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the india-forums.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225174111id_/http%3A//www.india-forums.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the india-forums.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630032328id_/http%3A//www.india-forums.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # India-Forums -Privacy Policy
 
