@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ysearchblog.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231235025id_/http%3A//info.yahoo.com/privacy/us/yahoo/details.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ysearchblog.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630153248id_/http%3A//info.yahoo.com/privacy/us/yahoo/details.html) for the most accurate reproduction.*
 
 # Yahoo! Privacy Policy
 
@@ -38,11 +38,7 @@ Yahoo! uses information for the following general purposes: to customize the adv
 
 ### Children
 
-When a child under age 13 attempts to register with Yahoo!, we ask the child to have a parent or guardian create a [Yahoo! Family Account](http://info.yahoo.com/privacy/us/family/details.html) to obtain parental permission. 
-
-Yahoo! does not contact children under age 13 about special offers or for marketing purposes without a parent's permission. 
-
-Yahoo! does not ask a child under age 13 for more personal information, as a condition of participation, than is reasonably necessary to participate in a given activity or promotion.
+When Yahoo! has knowledge that a child under age 13 is attempting to register with Yahoo!, we ask the child to have a parent or guardian create a [Yahoo! Family Account](http://info.yahoo.com/privacy/us/family/details.html) to obtain parental permission. Visit [Children's Privacy & Family Accounts](http://info.yahoo.com/privacy/us/yahoo/family/details.html) to learn more about children’s privacy on Yahoo!.
 
 Return to top
 
@@ -51,7 +47,7 @@ Return to top
 Yahoo! does not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:
 
   * We provide the information to trusted partners who work on behalf of or with Yahoo! under confidentiality agreements. These companies may use your personal information to help Yahoo! communicate with you about offers from Yahoo! and our marketing partners. However, these companies do not have any independent right to share this information. 
-  * We have a parent's permission to share the information if the user is a child under age 13. Parents have the option of allowing Yahoo! to collect and use their child's information without consenting to Yahoo! sharing of this information with people and companies who may use this information for their own purposes.
+  * We have a parent's permission to share the information if the user is a child under age 13. See [ Children's Privacy & Family Accounts ](http://info.yahoo.com/privacy/us/yahoo/family/details.html) for more information about our privacy practices for children under 13 . 
   * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
   * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Yahoo!'s terms of use, or as otherwise required by law. 
   * We transfer information about you if Yahoo! is acquired by or merged with another company. In this event, Yahoo! will notify you before information about you is transferred and becomes subject to a different privacy policy. 
@@ -92,12 +88,6 @@ We reserve the right to send you certain communications relating to the Yahoo! s
 
 You can delete your Yahoo! account by visiting our [Account Deletion](https://edit.yahoo.com/config/delete_user) page. Please [click here](http://info.yahoo.com/privacy/us/yahoo/datastorage/) to read about information that might possibly remain in our archived records after your account has been deleted. 
 
-### Children
-
-Parents can review, edit, and delete information relating to their child's Yahoo! account using tools offered by [Yahoo! Family Accounts](http://info.yahoo.com/privacy/us/family/details.html). 
-
-If a parent chooses not to allow us to further collect or use a child's information, parents enrolled in Yahoo! Family Accounts can delete their child's account by signing into that child's account and then visiting our [Account Deletion](https://edit.yahoo.com/config/delete_user) page. Please [click here](http://info.yahoo.com/privacy/us/yahoo/datastorage/) to read about information that might possibly remain in our archived records after your account has been deleted. 
-
 Return to top
 
 ## CONFIDENTIALITY AND SECURITY
@@ -116,7 +106,7 @@ Return to top
 
 ## QUESTIONS AND SUGGESTIONS
 
-If you have questions, suggestions, or wish to make a complaint, please complete a [feedback form](http://add.yahoo.com/fast/help/us/privacy/cgi_feedback?radio30=radio305) or you can contact us at:
+If you have questions, suggestions, or wish to make a complaint, please complete a [feedback form](http://io.help.yahoo.com/contact/index?locale=en_US&y=PROD_ACCT&page=contact) or you can contact us at:
 
 Yahoo! Inc.  
 Customer Care - Privacy Policy Issues  
@@ -126,6 +116,6 @@ Sunnyvale, CA 94089
 
 If you feel that your inquiry has not been satisfactorily addressed, please click [here](http://info.yahoo.com/privacy/us/yahoo/consumeragencies/) for information on consumer agencies that may be able to provide you with additional assistance.
 
-Last Updated: October 28, 2008
+Last Updated: May 31, 2013
 
 Return to top
