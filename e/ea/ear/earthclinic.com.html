@@ -1,64 +1,829 @@
-<!--The following is the downloaded HTML source of the earthclinic.com privacy policy that was archived on 2012-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121231071327id_/http%3A//www.earthclinic.com/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the earthclinic.com privacy policy that was archived on 2013-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130630073843id_/http%3A//earthclinic.com/privacy_policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<title>Earth Clinic Privacy Policy Agreement</title>
-<style type="text/css">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<title>Earth Clinic's Help Page</title>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<link rel="Shortcut Icon" href="http://www.earthclinic.com/favicon.ico">
+<link rel="stylesheet" type="text/css" href="/css/ecstyles.css" media="all">
+<meta name="description" content="Earth Clinic">
+<meta name="keywords" content="Earth Clinic">
+
+<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+ 
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-257479-3']);
+  _gaq.push(['_trackPageview']);
+ 
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+ 
+</script>
+
+</head><body>
+<div id="wrapper-outer">
+
+
+<script>
+
+if( navigator.userAgent.match(/Android/i) ||
+
+    navigator.userAgent.match(/webOS/i) ||
+
+    navigator.userAgent.match(/iPhone/i) ||
+
+    navigator.userAgent.match(/iPod/i)
+
+    ){
+
+	window.location='http://www.earthclinic.com/mobile/privacy_policy.html';
+
+	}
+
+</script>
+
+	
+<script language="javascript">
+
+function postRequest(strURL){
+
+var xmlHttp;
+
+if(window.XMLHttpRequest){ // For Mozilla, Safari, ...
+
+var xmlHttp = new XMLHttpRequest();
+
+}
+
+else if(window.ActiveXObject){ // For Internet Explorer
+
+var xmlHttp = new ActiveXObject("Microsoft.XMLHTTP");
+
+}
+
+xmlHttp.open('POST', strURL, true);
+
+xmlHttp.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+
+xmlHttp.onreadystatechange = function(){
+
+if (xmlHttp.readyState == 4){
+
+updatepage(xmlHttp.responseText);
+
+}
+
+}
+
+xmlHttp.send(strURL);
+
+}
+
+function updatepage(str){
+
+if(str!="no"){
+
+load("login-proccess.php", "signin");
+
+window.location.reload( true );
+
+}
+
+else{
+
+alert("Invalid Login! Please try again!");
+
+}
+
+}
+
+function call_login(){
+
+var username = window.document.f1.username.value;
+
+var password = window.document.f1.password.value;
+
+var url = "/login.php?username=" + username + "&password=" +password ;
+
+postRequest(url);
+
+} 
+
+function ahah(url, target) {
+
+  document.getElementById(target).innerHTML = ' Fetching data...';
+
+  if (window.XMLHttpRequest) {
+
+    req = new XMLHttpRequest();
+
+  } else if (window.ActiveXObject) {
+
+    req = new ActiveXObject("Microsoft.XMLHTTP");
+
+  }
+
+  if (req != undefined) {
+
+    req.onreadystatechange = function() {ahahDone(url, target);};
+
+    req.open("GET", url, true);
+
+    req.send("");
+
+  }
+
+}  
+
+function ahahDone(url, target) {
+
+  if (req.readyState == 4) { // only if req is "loaded"
+
+    if (req.status == 200) { // only if "OK"
+
+      document.getElementById(target).innerHTML = req.responseText;
+
+    } else {
+
+      //document.getElementById(target).innerHTML=" AHAH Error:\n"+ req.status + "\n" +req.statusText;
+
+      document.getElementById(target).innerHTML="Thank You.";
+
+    }
+
+  }
+
+}
+
+function load(name, div) {
+
+	ahah(name,div);
+
+	return false;
+
+}
+
+</script>
+
+<script type="text/javascript">
+
 <!--
-.style1 {font-weight: bold}
--->
-</style>
-</head>
 
-<body>
-<p><strong><img src="/images/tos logo.gif" alt="Logo" width="224" height="50"></strong></p>
-<p><span class="style1"><strong>EARTH CLINIC, LLC PRIVACY POLICY AGREEMENT</strong></span> </p>
-<p> The privacy of our visitors to the Earth Clinic web sites, www.earthclinic.com and http://planet.earthclinic.com, ("Earth Clinic, LLC") is important to us.  Because we  gather certain types of information about our users, we want to help you  understand the terms and conditions surrounding the collection and use of that  information. This privacy statement discloses the types of information we  gather, how we use it, and how to correct or change it. These privacy practices  apply to the Web site that you were viewing when you clicked through to this  policy, which is operated directly by us.</p>
+function replyToPost(pageId, postId, postTitle, postType)
+
+{
+
+	var url = "/contactus.php?action=" + postType + "&pid=" + pageId + "&id=" + postId + "&title=" + postTitle;
+
+	var options = 'width=1025,height=750,status:0,toolbar:0,menubar:0,location:0,scrollbars=yes,resizable=yes';
+
+	var myWindow=window.open(url,"",options);
+
+	myWindow.focus(); 
+
+}
+
+function followThis(pid, aid)
+
+{
+
+LeftPosition = (screen.width) ? (screen.width-200)/2 : 0;
+
+TopPosition = (screen.height) ? (screen.height-100)/2 : 0;
+
+	var url = "/follow.php?pid=" + pid + "&aid=" + aid;
+
+	var options = 'width=850,height=175,top='+TopPosition+',left='+LeftPosition+',status:0,toolbar:0,menubar:0,location:0,scrollbars=no,resizable=no';
+
+	var myWindow=window.open(url,"",options);
+
+	myWindow.focus(); 
+
+}
+
+function followThisQuestion(pid, aid)
+
+{
+
+LeftPosition = (screen.width) ? (screen.width-200)/2 : 0;
+
+TopPosition = (screen.height) ? (screen.height-100)/2 : 0;
+
+	var url = "/followquestion.php?pid=" + pid + "&aid=" + aid;
+
+	var options = 'width=850,height=174,top='+TopPosition+',left='+LeftPosition+',status:0,toolbar:0,menubar:0,location:0,scrollbars=no,resizable=no';
+
+	var myWindow=window.open(url,"",options);
+
+	myWindow.focus(); 
+
+}
+
+function flagPost(pageId, postId, postTitle, postType)
+
+{
+
+	var url = "/flag.php?action=" + postType + "&pid=" + pageId + "&id=" + postId + "&title=" + postTitle;
+
+	var options = 'width=400,height=120,status:0,toolbar:0,menubar:0,location:0,scrollbars=yes,resizable=yes';
+
+	var myWindow=window.open(url,"",options);
+
+	myWindow.focus(); 
+
+}
+
+function flagQuestion(pageId, postId, postTitle, postType)
+
+{
+
+	var url = "/flagquestion.php?action=" + postType + "&pid=" + pageId + "&id=" + postId + "&title=" + postTitle;
+
+	var options = 'width=400,height=120,status:0,toolbar:0,menubar:0,location:0,scrollbars=yes,resizable=yes';
+
+	var myWindow=window.open(url,"",options);
+
+	myWindow.focus(); 
+
+}
+
+function printPost(postId, postTitle, postType)
+
+{
+
+	var url = "/printpost.php?action=" + postType + "&id=" + postId + "&title=" + postTitle;
+
+	var options = 'width=800,height=650,status:0,toolbar:0,menubar:0,location:0,scrollbars=yes,resizable=yes';
+
+	var myWindow=window.open(url,"",options);
+
+	myWindow.focus(); 
+
+}
+
+function mailPost(postId, postTitle, postType)
+
+{
+
+	var url = "/mail.php?action=" + postType + "&id=" + postId + "&title=" + postTitle;
+
+	var options = 'width=800,height=650,status:0,toolbar:0,menubar:0,location:0,scrollbars=yes,resizable=yes';
+
+	var myWindow=window.open(url,"",options);
+
+	myWindow.focus(); 
+
+}
+
+function followThisTreatment(tid)
+
+{
+
+LeftPosition = (screen.width) ? (screen.width-200)/2 : 0;
+
+TopPosition = (screen.height) ? (screen.height-100)/2 : 0;
+
+	var url = "/followtreatment.php?tid=" + tid;
+
+	var options = 'width=850,height=175,top='+TopPosition+',left='+LeftPosition+',status:0,toolbar:0,menubar:0,location:0,scrollbars=no,resizable=no';
+
+	var myWindow=window.open(url,"",options);
+
+	myWindow.focus(); 
+
+}
+
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+
+  window.open(theURL,winName,features);
+
+}
+
+//-->
+
+</script>
+
+<!--
+
+-->
+
+<link rel="stylesheet" type="text/css" href="/headernav.css" media="all">
+
+<div id="header-outer">
+
+  <div align="center">
+
+  <div style="width:900px; height:50px;">
+
+  	<div class="headermenu" style="list-style-type: none; float:right;">
+
+			<li><a href="/about.html">About Earth Clinic</a>
+
+				<ul>
+
+					<li><a href="/contactus.html" rel="nofollow">Contact Us</a></li>
+
+					<li><a href="/about.html" rel="nofollow">Who We Are</a></li>
+
+					<li><a href="/earth-clinic-reviews.html" rel="nofollow">What People Say</a></li>
+
+					<li><a href="/guides.html" rel="nofollow">Website Help</a></li>
+
+					<li><a href="/donations.html" rel="nofollow">Donate</a></li>
+
+				</ul>
+
+</li>
+
+			<li><a href="http://shop.earthclinic.com" target="_blank">Marketplace</a>
+
+				<ul>
+
+			    <li><a href="http://shop.earthclinic.com/Books-and-Publications_c4.htm" target="_blank">Softcover Books</a></li>
+
+					<li><a href="http://shop.earthclinic.com/eBooks_c7.htm" target="_blank">E-Books</a></li>
+
+				</ul>
+
+	</li>
+
+			<li><a href="/Healers/00_database.html" rel="nofollow">Healers</a>
+
+				<ul>
+
+			    <li><a href="/Healers/00_database.html" rel="nofollow">Healers Database</a></li>
+
+					<li><a href="/Books/00_reading.html" rel="nofollow">Recommended Books</a></li>
+
+					<li><a href="/prayer_group.html">Prayer &amp; Meditation</a></li>
+
+				</ul>
+
+			</li>
+
+			<li><a href="/contactus.html" rel="nofollow">Submit Post</a>
+
+				<ul>
+
+				  <li><a href="/contactus.html" rel="nofollow">Submit Feedback</a></li>
+
+					<li><a href="/contact-us-guidelines.html" rel="nofollow">Guidelines &amp; Tips</a></li>
+
+				</ul>
+
+			</li>
+
+			<li><a href="/register.html" target="_new" rel="nofollow">Register</a>
+
+				<ul>
+
+			    <li><a href="/register.html" target="_new" rel="nofollow">Signup</a></li>
+
+					<li><a href="/help.html" rel="nofollow">Help</a></li>
+
+					<li><a href="/newsletter.html" rel="nofollow">Newsletter Signup</a></li>
+
+				</ul>
+
+			</li>
+
+			
+			<li>				<a href="javascript:void();">Login</a>
+
+				
+            
+
+				<ul>
+
+			
+					<li>
+
+					<form name="f1" onsubmit="return call_login();" id="loginform"><div id="signin">
+
+					<div style="color:white; font-size:11px; text-align:left; padding-left:7px;">Email:</div> <input type="text" name="username" id="username" size="17" value="">
+
+					<div style="color:white; font-size:11px; text-align:left; padding-left:7px;">Password:</div> <input type="password" name="password" size="17" value=""><br>
+
+					<input style="font-size:9px;" type="button" name="a1" value="Sign In" onclick="call_login();"></div></form></li>
+
+					<li><a href="javascript:void();" onclick="MM_openBrWindow('/register.html','','scrollbars=1')">Not registered?</a></li>
+
+					<li><a href="javascript:void();" onclick="MM_openBrWindow('/forgotpassword.php','','scrollbars=1,width=450,height=400')">Forgot Password?</a></li>
+
+					<li><a href="javascript:void(0);" onclick="MM_openBrWindow('/signin.php','','scrollbars=1,width=400,height=350')"><img src="http://earthclinic.com/images/icon_lock_key.png" alt="Secure Login" title="Click Here For Secure Login" border="0" height="25" width="25"></a></li>
+
+				
+				</ul>
+
+							</li>
+
+			
+
+			
+
+	</div></div></div>
+
+  
+
+<div id="header" style="border-bottom:#FFFFFF thin solid;">
+
+		  <div id="header-inner">
+
+		    	<a href="/" title="earth clinic"><h1>Holistic Health and Alternative Medicine - EARTHCLINIC.COM</h1></a>
+
+				<div id="header-search">
+
+					<!-- SiteSearch Google -->
+
+                    	<div id="srch-box">
+
+		<!-- SiteSearch Google -->
+
+		<form action="http://www.earthclinic.com/search.php" id="cse-search-box">
+
+		  <input type="hidden" name="cx" value="partner-pub-2476760853251960:x02k6x73rw9">
+
+		  <input type="hidden" name="cof" value="FORID:10">
+
+		  <input type="hidden" name="ie" value="ISO-8859-1">
+
+			<span class="search-label">Search</span>
+
+			<input type="text" class="srch-input" name="q">
+
+			<input type="submit" class="srch-submit" name="sa" value="">
+
+
+
+			<div class="search-options">
+
+				<input type="checkbox" name="echl" title="Highlight search terms"><span style="font-size:10px;">Highlight search terms</span>
+
+				&nbsp; <span style="font-size:10px;"><input type="radio" name="sitesearch" value="earthclinic.com" checked="checked">Earth Clinic</span>
+
+				&nbsp; <span class="powerdby"><a href="http://www.google.com/" style="text-decoration:none;">Powered by Google</a></span>
+
+			</div>
+
+			<br>
+
+		</form>
+
+		<!-- EOF SiteSearch Google -->
+
+		<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+
+		<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+
+	</div>
+
+		<!-- EOF SiteSearch Google -->
+
+</div>                
+
+
+
+
+<div align="right" style="padding-top:80px; padding-right:15px;">
+
+
+                    <a href="/latest_posts_rss.php" target="blank"><img border="0" src="/images/icon-rss30x30.png" alt="RSS"></a> 
+
+                    <a href="http://www.facebook.com/pages/Earth-Clinic/60803892726" target="blank"><img border="0" src="/images/fb30x30.png" alt="Facebook"></a> 
+
+                    <a href="https://twitter.com/share" class="twitter-share-button" data-via="Earth_Clinic" target="blank"><img border="0" src="/images/tw30x30.png" alt="Twitter"></a>
+
+<!-- Place this tag where you want the +1 button to render. -->
+
+<div class="g-plusone" data-annotation="none"></div>
+
+<!-- Place this tag after the last +1 button tag. -->
+
+<script type="text/javascript">
+
+  (function() {
+
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+
+    po.src = 'https://apis.google.com/js/plusone.js';
+
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+
+  })();
+
+</script>
+
+      <a href="javascript:increaseFontSize();"><img src="/images/a-plus.jpg" width="21" height="20" border="0" alt="Increase text size"></a> <a href="javascript:normalFontSize();"><img src="/images/a-min.jpg" width="21" height="20" border="0" alt="Decrease text size"></a></div> 
+
+
+ </div>
+
+			</div>
+
+		</div>
+
+	</div>
+
+<div id="sidetabs">
+
+   <a title="Share your feedback" class="feedback_share" href="/contactus.html"></a>
+
+   <a title="Donate" class="feedback_donate" href="/donations.html"></a>
+
+</div>
+
+<script>
+
+var min=9;
+
+var max=17;
+
+function normalFontSize() {
+
+   var p = document.getElementsByTagName('font');
+
+   for(i=0;i<p.length;i++) {
+
+      if(p[i].style.fontSize) {
+
+         var s = parseInt(p[i].style.fontSize.replace("px",""));
+
+      } else {
+
+         var s = 12;
+
+      }
+
+      if(s!=max) {
+
+         s += 1;
+
+      }
+
+      p[i].style.fontSize = 11+"px"
+
+   }
+
+   var d = document.getElementsByTagName('div');
+
+   for(i=0;i<d.length;i++) {
+
+      if(d[i].style.fontSize) {
+
+         var s = parseInt(d[i].style.fontSize.replace("px",""));
+
+      } else {
+
+         var s = 12;
+
+      }
+
+      if(s!=max) {
+
+         s += 1;
+
+      }
+
+      d[i].style.fontSize = 11+"px"
+
+   }
+
+}
+
+function increaseFontSize() {
+
+   var p = document.getElementsByTagName('font');
+
+   for(i=0;i<p.length;i++) {
+
+      if(p[i].style.fontSize) {
+
+         var s = parseInt(p[i].style.fontSize.replace("px",""));
+
+      } else {
+
+         var s = 12;
+
+      }
+
+      if(s!=max) {
+
+         s += 1;
+
+      }
+
+      p[i].style.fontSize = 17+"px"
+
+   }
+
+   var d = document.getElementsByTagName('div');
+
+   for(i=0;i<d.length;i++) {
+
+      if(d[i].style.fontSize) {
+
+         var s = parseInt(d[i].style.fontSize.replace("px",""));
+
+      } else {
+
+         var s = 12;
+
+      }
+
+      if(s!=max) {
+
+         s += 1;
+
+      }
+
+      d[i].style.fontSize = 17+"px"
+
+   }
+
+}
+
+function decreaseFontSize() {
+
+   var p = document.getElementsByTagName('font');
+
+   for(i=0;i<p.length;i++) {
+
+      if(p[i].style.fontSize) {
+
+         var s = parseInt(p[i].style.fontSize.replace("px",""));
+
+      } else {
+
+         var s = 12;
+
+      }
+
+      if(s!=min) {
+
+         s -= 1;
+
+      }
+
+      p[i].style.fontSize = 14+"px"
+
+   }   
+
+   var d = document.getElementsByTagName('div');
+
+   for(i=0;i<d.length;i++) {
+
+      if(d[i].style.fontSize) {
+
+         var s = parseInt(d[i].style.fontSize.replace("px",""));
+
+      } else {
+
+         var s = 12;
+
+      }
+
+      if(s!=min) {
+
+         s -= 1;
+
+      }
+
+      d[i].style.fontSize = 14+"px"
+
+   }   
+
+}
+
+</script>
+
+<div id="page-wrapper" style="margin-top:-2px;">
+
+		<div id="pageBody">
+
+<div id="mainNav-new">
+
+            	<ul>
+
+                	<li class="tab-home-off"><a href="/" title="Earth Clinic Home"><img src="/template_img/house-ico.png" alt="Home" border="0"></a></li>
+
+                    <li class="tab-off"><a href="/remedies.html" title="Remedies">REMEDIES</a></li>
+
+                    <li class="tab-off"><a href="/ailments.html" title="Ailments">AILMENTS</a></li>
+
+                    <li class="tab-off"><a href="/supplements.html" title="Supplements">SUPPLEMENTS</a></li>
+
+                    <li class="tab-off"><a href="/pets.html" title="Pets">PETS</a></li>
+
+                    <li class="tab-off"><a href="/latest_posts.html" title="Latest Posts">LATEST POSTS</a></li>
+
+                </ul>
+
+</div>
+
+			
+			<!-- BOF page main content -->
+<div id="content-top">&nbsp;</div>
+			<div id="content">
+			  <div id="content-inner">
+							<h1>EARTH CLINIC, LLC PRIVACY POLICY AGREEMENT</h1>
+							<p> The privacy of our visitors to the Earth Clinic web site, www.earthclinic.com  ("Earth Clinic, LLC") is important to us.  Because we  gather certain types of information about our users, we want to help you  understand the terms and conditions surrounding the collection and use of that  information. This privacy statement discloses the types of information we  gather, how we use it, and how to correct or change it. These privacy practices  apply to the Web site that you were viewing when you clicked through to this  policy, which is operated directly by us.</p>
 <p>Here is information on what types of personal information we receive and collect when you use visit the Earth Clinic LLC web sites and how we safeguard your information. We never sell your personal information to third parties.</p>
-<p><strong><br>
-  1. What Information Does Earth Clinic, LLC collect?<br>
-</strong>  Our primary goal in collecting personal information is to provide you with  the best and most useful content and services. Several of the services and  features that we offer on our sites require you to provide us with information  as a condition of usage. These include access to email newsletters and  participation in our forum.<br>
-  <br>
-We collect personally identifiable information, such as your first name, city, state, country and email  address, when you provide it to us. From time to time, we may also collect  other sensitive information such as your username and  password. </p>
-<p>Once you register with one of our Earth Clinic LLC sites you are no longer  anonymous to us.<br>
-    <br>
-    <br>
-  <strong>  2. Log Files</strong> <br>
-  As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.<br>
+                            <p><strong><br>
+                              1. What Information Does Earth Clinic, LLC collect?<br>
+                              </strong> Our primary goal in collecting personal information is to provide you with  the best and most useful content and services. Several of the services and  features that we offer on our sites require you to provide us with information  as a condition of usage. These include access to email newsletters and  participation in our forum.<br>
+                              <br>
+                              We collect personally identifiable information, such as your first name, city, state, country and email  address, when you provide it to us. From time to time, we may also collect  other sensitive information such as your username and  password. </p>
+                            <p>Once you register with one of our Earth Clinic LLC sites you are no longer  anonymous to us.<br>
+                              <br>
+                              <br>
+                              <strong> 2. Log Files</strong> <br>
+                              As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.<br>
   <br>
   <br>
   <strong>3. Cookies and Web Beacons</strong> <br>
-We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.</p>
-<p>We also use third party advertisements on  earthclinic.com and planet.earthclinic.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).</p>
-<p>You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
-  <meta name="description" content="Earth Clinic Privacy Policy Agreement.">
-  <br>
-  <br>
-  <br>
-  <strong>  4. Your Options<br>
-  </strong>Users who would rather not provide any of the user data requested by our  registration process do not need to register with us. You can still view much  of the content and use many of the services offered by our sites without  registering. If you have already registered with us and wish to have your account deleted, you may do so in the member-services area of your account. <br>
-  <br>
-  <br>
-  <strong>5. Reviewing and updating your personally identifiable information <br>
-</strong> You can review, correct, or change the information collected during  registration for any of our sites. The instructions for doing this can be found  in our member-services areas. Users may change information at any time and as  often as necessary. Users who are experiencing problems with our services or  who have questions about how our services work can contact us using the e-mail  address at the bottom of this page.<br>
-<br>
-<br>
-<strong>6. Privacy Policy Changes <br>
-  </strong> 
-Any modifications to our privacy practices will be reflected first within  this area of our Web sites. If there is a material change in our  privacy practices, we will indicate on our sites that our privacy practices  have changed and provide a link to the new privacy statement. If we are going  to be using the information collected from users in a manner materially  different from that stated at the time of collection, we will send affected  users written notice of the change by e-mail.<br>
-<br>
-<br>
-<strong>7. Privacy of Children<br>
-</strong>
-None of the sites within our network is directed to children under the age  of 13. We operate our network of sites in compliance with the <a href="http://www.ftc.gov/ogc/coppa1.htm">Children's Online  Privacy Protection Act</a> and do not permit registration by, and will not  knowingly collect or use personally identifiable information from, anyone under  13 years of age. This requirement is clearly posted during the registration  process.<br>
-<br>
-<br>
-<strong>  Questions, Comments<br>
-</strong> Questions about this privacy statement should be sent to: </p>
-<p>Fax:&nbsp; 678-444-4138<br>
-Email: privacy@earthclinic.com </p>
-<p>We read every message  submitted and try to reply promptly to every one. </p>
+                              We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.</p>
+                            <p>We also use third party advertisements on  earthclinic.com and planet.earthclinic.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).</p>
+                            <p>You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+                              <meta name="description" content="Earth Clinic Privacy Policy Agreement.">
+                              <br>
+                              <br>
+                              <br>
+                              <strong> 4. Your Options<br>
+                              </strong>Users who would rather not provide any of the user data requested by our  registration process do not need to register with us. You can still view much  of the content and use many of the services offered by our sites without  registering. If you have already registered with us and wish to have your account deleted, you may do so in the member-services area of your account. <br>
+                              <br>
+                              <br>
+                              <strong>5. Reviewing and updating your personally identifiable information <br>
+                              </strong> You can review, correct, or change the information collected during  registration for any of our sites. The instructions for doing this can be found  in our member-services areas. Users may change information at any time and as  often as necessary. Users who are experiencing problems with our services or  who have questions about how our services work can contact us using the e-mail  address at the bottom of this page.<br>
+                              <br>
+                              <br>
+                              <strong>6. Privacy Policy Changes <br>
+                              </strong> Any modifications to our privacy practices will be reflected first within  this area of our Web sites. If there is a material change in our  privacy practices, we will indicate on our sites that our privacy practices  have changed and provide a link to the new privacy statement. If we are going  to be using the information collected from users in a manner materially  different from that stated at the time of collection, we will send affected  users written notice of the change by e-mail.<br>
+                              <br>
+                              <br>
+                              <strong>7. Privacy of Children<br>
+                              </strong> None of the sites within our network is directed to children under the age  of 13. We operate our network of sites in compliance with the <a href="http://www.ftc.gov/ogc/coppa1.htm">Children's Online  Privacy Protection Act</a> and do not permit registration by, and will not  knowingly collect or use personally identifiable information from, anyone under  13 years of age. This requirement is clearly posted during the registration  process.<br>
+                              <br>
+                              <br>
+                              <strong> Questions, Comments<br>
+                              </strong> Questions about this privacy statement should be sent to: </p>
+                            <p>Fax:&nbsp; 678-444-4138<br>
+                              Email: <a href="/contactus.html">Contact Us Form</a></p>
+                            <p>We read every message  submitted and try to reply promptly to every one. </p>
+					<div>
+                          <div> </div>
+                          <div align="center"><br>
+                            <br>
+                            <script type="text/javascript"><!--
+google_ad_client = "ca-pub-2476760853251960";
+/* 300x250, created 12/21/09 */
+google_ad_slot = "0257198490";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+                          </script>
+                            <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+                          </script>
+                          </div>
+                </div>
+<p align="left">&nbsp;</p>
+                        <p align="center"><a href="http://www.earthclinic.com/contactus.html"><img src="/images/btnPlease.gif" border="0"></a></p>
+           	  </div><!-- eof content-inner -->
+				</div><!-- eof content -->
+			
+            <div id="contentBottom">&nbsp;</div>
+		<!-- BOF page Footer -->
+<style type="text/css">
+
+<!--
+
+.style2 {color: #666666}
+
+.style3 {color: #000000}
+
+-->
+
+</style>
+
+		<div id="footer"> 
+
+		  <blockquote>
+
+		    <p align="center"><a href="/copyright.html" rel="nofollow">Copyright © 2013</a>&nbsp;| <a href="/tos.html" title="Terms of Service" target="_blank" rel="nofollow">Terms of Service</a> | <a href="/privacy_policy.html" title="Privacy Policy" rel="nofollow">Privacy Policy</a>&nbsp;|  <a href="/about.html" rel="nofollow">About Us</a> |<a href="/contactus.html" title="Contact Us" target="_blank" rel="nofollow"> Contact Us</a>&nbsp;| <a href="/search.html" title="Search" rel="nofollow">Search</a>  <br>
+
+		        <a href="http://www.briteglobal.com/Pages/loader.aspx">Web Portal by Brite Global</a> <br>
+
+		    </p>
+
+  </blockquote>
+
+		</div>
+
+<!--Generated in 0.0006 seconds-->		<!-- EOF page Footer -->
+	</div><!-- EOF page-wrapper -->
+</div><!-- EOF wrapper-outer -->
 
 
 </body></html>
