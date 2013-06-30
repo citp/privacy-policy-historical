@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the discoveryeducation.com privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211031618id_/http%3A//www.discoveryeducation.com/aboutus/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discoveryeducation.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630100314id_/http%3A//www.discoveryeducation.com/aboutus/privacypolicy.cfm) for the most accurate reproduction.*
 
-# Privacy Policy | About Us | Discovery Education
+# Privacy Policy | About Us | Digital textbooks and standards-aligned educational resources
 
 This privacy policy applies only to the websites controlled by Discovery Education, Inc. and/or its subsidiary and affiliated entities ("Discovery," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
 
