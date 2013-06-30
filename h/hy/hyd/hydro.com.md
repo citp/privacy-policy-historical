@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hydro.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228231641id_/http%3A//www.hydro.com/en/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hydro.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630091948id_/http%3A//www.hydro.com/en/Privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy - Norsk Hydro
 
 In general, you can visit Norsk Hydro on the World Wide Web without revealing who you are or any information about yourself. Our web servers collect only the domain names, not the e-mail addresses of visitors. This information is aggregated to measure the number of visits, average time spent on the site, pages viewed, etc. Norsk Hydro uses this information to measure the use of our site and to improve the content of our site.
 
