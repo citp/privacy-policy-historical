@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the seriouseats.com privacy policy that was archived on 2012-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121230234718id_/http%3A//www.seriouseats.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the seriouseats.com privacy policy that was archived on 2013-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130630231341id_/http%3A//www.seriouseats.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" wf-loading"><head>
 	<title>Serious Eats: Privacy Statement</title>
@@ -7,7 +7,7 @@
 	
 	
 	<!-- JS Code for Chartbeat -->
-<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="//use.typekit.net/ttr2owz.js" type="text/javascript" async=""></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<script type="text/javascript" async="" src="//api.viglink.com/api/vglnk.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script src="//use.typekit.net/ttr2owz.js" type="text/javascript" async=""></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 
 <!-- HTML5 shim, for IE6-8 support of HTML elements -->
     <!--[if lt IE 9]>
@@ -24,14 +24,15 @@
 
 <script src="http://static.seriouseats.com/js/jquery.min.js?v=1210271500"></script>
 
+
 <script src="http://www.seriouseats.com/js/mobileRedirect.js?v=1210271500" type="text/javascript"></script>
+
 
 
 
 <script src="http://static.seriouseats.com/js/jquery.bxSlider.min.js?v=1210271500"></script>
 
 <script src="http://static.seriouseats.com/js/jquery.bootstrap.plugins.js?v=1210271500"></script>
-
 
 <!-- JS Code for Google Analytics -->
 <script type="text/javascript">
@@ -57,7 +58,7 @@ _gaq.push(['_trackEvent', 'Serious Eats: Policies', 'Authors', 'john']);
 
 
 
-   <link rel="stylesheet" type="text/css" href="http://static.seriouseats.com/css/site.css?v=1210271500" media="screen">
+   <link rel="stylesheet" type="text/css" href="http://static.seriouseats.com/css/site.css?v=20130423" media="screen">
 
 	
 	
@@ -134,23 +135,17 @@ $(document).ready(function() {
 mtAttachEvent('usersignin', mtUpdateScores);
 /* ]]> */
 </script>
-<script src="http://www.seriouseats.com/js/site.js?v=2012102701"></script>
+<script src="http://www.seriouseats.com/js/site.js?v=20130424"></script>
 
   <!-- Google DFP Header (33) -->
 
 <script type="text/javascript">
-  var googletag = googletag || {};
-  googletag.cmd = googletag.cmd || [];
   (function() {
-    var gads = document.createElement('script');
-    gads.async = true;
-    gads.type = 'text/javascript';
     var useSSL = 'https:' == document.location.protocol;
-    gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
-    var node = document.getElementsByTagName('script')[0];
-    node.parentNode.insertBefore(gads, node);
+    var src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+    document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
   })();
-</script>
+</script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
 
 
 
@@ -163,12 +158,17 @@ mtAttachEvent('usersignin', mtUpdateScores);
     
     
   
+
+
 
 
 
 
 <script type="text/javascript">
+
 googletag.cmd.push(function() {
+
+
 
 
 
@@ -184,7 +184,7 @@ dfpLeaderboardSlot = googletag.defineSlot('/11927475/SE_Main_Interior_ATF_leader
 
 
 
-dfpATFSlot = googletag.defineSlot('/11927475/SE_Main_Interior_ATF_right_300', [[300, 250], [300, 900]], 'ad-atf-300').addService(googletag.pubads());
+dfpATFSlot = googletag.defineSlot('/11927475/SE_Main_Interior_ATF_right_300', [[300, 250], [300, 600], [300, 900]], 'ad-atf-300').addService(googletag.pubads());
 
 
 
@@ -192,7 +192,13 @@ dfpBTFSlot = googletag.defineSlot('/11927475/SE_Main_Interior_BTF_right_300x250'
 
 
 
-googletag.pubads().enableSingleRequest();
+overpassSlot = googletag.defineSlot('/11927475/SE_web_overpass', [1, 1], 'ad-overpass').addService(googletag.pubads());
+
+
+
+googletag.pubads().enableSyncRendering();
+
+
 googletag.enableServices();
 });
 </script>
@@ -228,7 +234,93 @@ googletag.enableServices();
 	
 <body id="about" class="sites">
 <a name="top"></a>
+<div class="bar">
+	<div class="wrapper">
+<section class="newsletter-widget">   
+<h4>Fresh n' hot!</h4>
+<form action="http://www.seriouseats.com/cgi-bin/mte/plugins/ProfileMail/profilemail.cgi" enctype="multipart/form-data" id="profile_edit" method="post">
+    <input type="hidden" name="name" value="">
+    <input type="hidden" name="__mode" value="save">
+    <input type="hidden" name="blog_id" value="33">
+    <input type="hidden" name="serious_eats_weekly_newsletter" id="profile_field_serious_eats_weekly_newsletter" value="1">
+    <input type="hidden" name="serious_eats_dedicated_newsletter" id="profile_field_serious_eats_dedicated_newsletter" value="1">
+    <p id="newsletter-toggle" for="newsletter-signup-email">Get our weekly newsletter. »</p>
+	<div id="newsletter-fields">
+	<p class="description">Unsubscribe at anytime. Don't worry about your email getting into the wrong hands. We won't sell or share it with anyone.</p>
+    <input type="text" class="text-input userField" id="newsletter-signup-email" value="Your Email Address" name="email"> <input type="submit" class="btn" value="Go">
+    <a href="http://www.seriouseats.com/newsletter/signup/" class"more"="">More Newsletters</a>
+	</div>
+</form>
+</section>
+<div id="signin-widget-content" class="widget-content"></div>
 
+<script type="text/javascript">
+/* <![CDATA[ */
+function mtUpdateSignInWidget(u) {
+    var separator = '&nbsp;&nbsp;|&nbsp;&nbsp;';
+    var el = document.getElementById('signin-widget-content');
+    var content = '';
+    // alert (document.URL);
+    //alert (encodeURIComponent(document.URL));
+    if (!el) return;
+    if (u) {
+        if (u && u.is_authenticated) {
+            user = u;
+            mtSaveUser();
+        } else {
+            // user really isn't logged in; so let's do this!
+            return mtSignIn();
+        }
+    } else {
+        u = mtGetUser();
+    }
+    if (u && u.name) {
+        var url;
+		content += '<div id="login-tab" class="loggedIn"><div id="login-tab-inner">';
+        if (u.is_authenticated) {
+            if (u.is_author) {
+
+				url = 'http://www.seriouseats.com/user/profile/'; 
+
+
+            } else {
+                url = u.url;
+            }
+        } else if (u.url) {
+            url = u.url;
+        } else {
+            url = null;
+        }
+        if (url)
+            content += '<span class="welcome">Hello, <a href="' + url + '">' + u.name + '</a>.</span>';
+        else
+            content += '<span class="welcome">Hello, <strong>' + u.name + '.</span>';
+        if (u.is_author)
+            content += '<span class="account"><a href="http://www.seriouseats.com/cgi-bin/mte/mt-cp.cgi?__mode=edit&blog_id=33&return_to=' + encodeURIComponent(document.URL) + '">Account</a></span>';
+        content += ' | <a id="ziplist-box" style="cursor: pointer">Recipe Box</a>';
+        
+        content += ' | <a href="javascript:void(0)" onclick="return mtSignOutOnClick()">Log out</a>';
+        
+		content += '</div></div>'
+    } else if (u && u.is_banned) {
+        content = 'You do not have permission to sign in to this blog.';
+    } else {
+		content = '<div id="login-tab" class="notLoggedIn"><div id="login-tab-inner"><span class="welcome">Welcome to Serious Eats!</span><a onclick="return mtSignInOnClick(\'login-tab-inner\')" href="javascript:void(0)" id="login-link">Log in</a> or <a href="http://www.seriouseats.com/cgi-bin/mte/mt-cp.cgi?__mode=register&blog_id=33&blog_id=33&return_to=http%3A%2F%2Fwww.seriouseats.com%2Fwelcome%2F">join</a> the community.</div></div>'
+    }
+    //alert ("content is: " + content);
+    el.innerHTML = content;
+}
+mtAttachEvent('usersignin', mtUpdateSignInWidget);
+mtUpdateSignInWidget();
+/* ]]> */
+</script>
+<script type="text/javascript">
+//mtAttachEvent('load', mtUpdateScores);
+//mtAttachEvent('usersignin', mtUpdateScores);
+</script>
+
+	</div>
+</div>
 <div id="container" class="entry">
 <!-- start header -->
 <header role="banner" class="SE" id="header">
@@ -242,6 +334,7 @@ googletag.enableServices();
 	<!-- 728x90 END -->
 	
 	 <h1 id="sitetitle" title="Serious Eats home"><a href="http://www.seriouseats.com">Serious Eats - seriouseats.com</a></h1>
+	 
 	<div id="navarea">	
 		<form class="form-search" id="SearchForm" action="http://www.seriouseats.com/cgi-bin/mte/mt-search.cgi" method="get">
         <input type="hidden" name="__mode" value="gsearch">
@@ -256,13 +349,24 @@ googletag.enableServices();
 
 
 		<ul id="mainnav" class="global">
-			<li id="item-sites" class="has-subnav"><a href="#">Sites</a><div class="subnav" id="subnav-sites"><ul>
-				<li id="item-SE"><a href="http://www.seriouseats.com">Home</a></li>
-						<li id="item-AHT"><a href="http://aht.seriouseats.com/?ref=nav_aht">Burgers <span class="blogname">(A Hamburger Today)</span></a></li>
-						<li id="item-SL"><a href="http://slice.seriouseats.com/?ref=nav_slice">Pizza <span class="blogname">(Slice)</span></a></li>
-						<li id="item-DR"><a href="http://drinks.seriouseats.com/?ref=nav_drinks">Drinks</a></li>
-						<li id="item-SW"><a href="http://sweets.seriouseats.com/?ref=nav_sweets">Sweets</a></li>
-					</ul></div></li>
+			<li id="item-sites" class="has-subnav"><a href="#">Topics</a>
+				<div class="subnav" id="subnav-topics">
+				<ul class="col-a">
+						<li><a href="http://www.seriouseats.com?ref=nav_main">Home</a></li>
+						<li><a href="http://aht.seriouseats.com/?ref=nav_main">Burgers</a></li>
+						<li><a href="http://drinks.seriouseats.com/?ref=nav_main">Drinks</a></li>
+						<li><a href="http://www.seriouseats.com/entertaining?ref=nav_main">Entertaining</a></li>
+						<li><a href="http://www.seriouseats.com/the-food-lab?ref=nav_main">The Food Lab</a></li>
+						<li><a href="http://www.seriouseats.com/grilling?ref=nav_main">Grilling</a></li>
+					</ul>
+				<ul class="col-b">
+							<li><a href="http://slice.seriouseats.com/?ref=nav_main">Pizza</a></li>
+							<li><a href="http://www.seriouseats.com/quick-meals?ref=nav_main">Quick Meals</a></li>
+							<li><a href="http://www.seriouseats.com/sandwiches?ref=nav_main">Sandwiches</a></li>
+							<li><a href="http://sweets.seriouseats.com/?ref=nav_main">Sweets</a></li>
+							<li><a href="http://www.seriouseats.com/vegetarian?ref=nav_main">Vegetarian/Vegan</a></li>
+				</ul>
+			</div></li>
 			<li id="item-cities" class="has-subnav"><a href="#">Cities</a>
 				<div class="subnav" id="subnav-cities">
 				<ul class="col-a">
@@ -295,7 +399,6 @@ googletag.enableServices();
 			<li id="item-recipes"><a href="http://www.seriouseats.com/recipes/?ref=nav_main">Recipes</a></li>
 		</ul>
 		</div>
-
 
 
 </header>
@@ -378,6 +481,8 @@ googletag.enableServices();
 
 
 
+
+
 	<section class="content-unit">
         <h4>About Us</h4>
         <section>
@@ -432,7 +537,11 @@ googletag.enableServices();
   </div><!-- /content-->
   </div> <!-- /container -->
 
-  <footer role="contentinfo">
+  <div id="ad-overpass" style="width:1px; height:1px;">
+<script type="text/javascript">if (typeof overpassSlot != 'undefined') { googletag.cmd.push(function() { googletag.display('ad-overpass'); }); } </script>
+</div>
+
+<footer role="contentinfo">
 		<div class="wrapper">
 		<div class="logo"><a href="http://www.seriouseats.com">Serious Eats</a></div>
 		<form class="form-search" id="SearchForm" action="http://www.seriouseats.com/cgi-bin/mte/mt-search.cgi" method="get">
@@ -581,12 +690,24 @@ document.write(unescape("%3Cscript src='"+cbjsprotocol+cbjspath+"' type='text/ja
 <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=seriouseats"></script>
 <!-- Addthis -->
 
-<!-- Skimlinks -->
-<script type="text/javascript" src="http://s.skimresources.com/js/3781X630295.skimlinks.js"></script>
-<!-- Skimlinks -->
+
+
+<!-- Viglink -->
+<script type="text/javascript">
+  var vglnk = { api_url: '//api.viglink.com/api',
+                key: '5239b2f58fcea7b4fba462b299ad023c' };
+
+  (function(d, t) {
+    var s = d.createElement(t); s.type = 'text/javascript'; s.async = true;
+    s.src = ('https:' == document.location.protocol ? vglnk.api_url :
+             '//cdn.viglink.com/api') + '/vglnk.js';
+    var r = d.getElementsByTagName(t)[0]; r.parentNode.insertBefore(s, r);
+  }(document, 'script'));
+</script>
+<!-- Viglink -->
 
 <!--  BuzzFeed code begins -->
-<div id="BF_WIDGET_1"><script type="text/javascript" src="http://ct.buzzfeed.com/wd/UserWidget?u=seriouseats.com&amp;amp;to=1&amp;amp;or=vb&amp;amp;wid=1&amp;amp;cb=1580569129873"></script></div>
+<div id="BF_WIDGET_1"><script type="text/javascript" src="http://ct.buzzfeed.com/wd/UserWidget?u=seriouseats.com&amp;amp;to=1&amp;amp;or=vb&amp;amp;wid=1&amp;amp;cb=1580569133975"></script></div>
 <script type="text/javascript">
 (function( ){
 	BF_WIDGET_JS=document.createElement('script'); BF_WIDGET_JS.type="text/javascript";
@@ -595,6 +716,17 @@ document.write(unescape("%3Cscript src='"+cbjsprotocol+cbjspath+"' type='text/ja
 })();
 </script>
 <!-- / BuzzFeed code ends -->
+
+<!-- Datapoint -->
+
+<!-- Datapoint -->
+
+<!-- starcom -->
+<script type="text/javascript" src="http://content.dl-rms.com/rms/mother/49065/nodetag.js"></script>
+<!-- starcom -->
+
+<!-- TEST12 -->
+
   
 
 </body></html>
