@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the traveleurope.it privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018130431id_/http%3A//www.traveleurope.it/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traveleurope.it privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630210600id_/http%3A//www.traveleurope.it/privacy.php) for the most accurate reproduction.*
 
-# Privacy policy - Traveleurope
+# Privacy policy - Traveleurope.it
 
 By using **Traveleurope** website, you accept the practices described in this Privacy Policy.
 
@@ -14,13 +14,13 @@ This site has security measures in place to protect the loss, misuse and alterat
 
 We do not collect personal information about you when you browse the **Traveleurope** website. However, if you wish to book a property using the site's interactive services, we will require you to complete the Booking Form and provide us with certain information which may include the following:
 
-  1. Name
-  2. Postal Address
-  3. Credit/Debit Card number and expiration date
-  4. Billing address
-  5. Phone numbers
-  6. E-mail address
-  7. Travel details
+  * Name
+  * Postal Address
+  * Credit/Debit Card number and expiration date
+  * Billing address
+  * Phone numbers
+  * E-mail address
+  * Travel details
 
 
 
