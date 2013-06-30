@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the delias.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206223140id_/http%3A//store.delias.com/content/help/jsp/privacy.jsp%3FfooterTrack%3Dprivacy%26incmpid%3DBotNavPrivacy2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delias.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630141034id_/http%3A//store.delias.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
 
-# www.dELiAs.com
-
-| 
+# Privacy and Security - dELiA*s
 
 **PRIVACY POLICY**
 
@@ -14,7 +12,7 @@ Through use of the Site, users may enter personal information about themselves. 
 
 **The Information We Collect.**
 
-You can do a variety of things on the Site! You may be able to order products, enter contests, participate in surveys, vote in polls, subscribe to a service (like our ezine) or participate in a chat room. We may collect personal information (i.e. information that can directly identify you or indicate where you might be contacted, including: name, address, age, date of birth, sex, grade level, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs and services) through these methods or other documents that you submit to us, transactions in which you may engage with us or our affiliated companies, or through visits that you may make to the Site. This policy applies to all personal information that we collect and maintain about our users, including any contact information (e.g., name and address), financial information (e.g., account and credit history) or identifying information (e.g., social security number, date of birth) that we may obtain in connection with providing services. You can view, update or change your information at any time. [Click here](https://web.archive.org/account/account.do) to edit your profile or [click here](https://web.archive.org/emailHelp.do) to email us. 
+You can do a variety of things on the Site! You may be able to order products, enter contests, participate in surveys, vote in polls, subscribe to a service (like our ezine) or participate in a chat room. We may collect personal information (i.e. information that can directly identify you or indicate where you might be contacted, including: name, address, age, date of birth, sex, grade level, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs and services) through these methods or other documents that you submit to us, transactions in which you may engage with us or our affiliated companies, or through visits that you may make to the Site. This policy applies to all personal information that we collect and maintain about our users, including any contact information (e.g., name and address), financial information (e.g., account and credit history) or identifying information (e.g., social security number, date of birth) that we may obtain in connection with providing services. You can view, update or change your information at any time. [Click here](https://web.archive.org/web/20130630141034id_/http%3A//store.delias.com/category/customer%2Bservice/%3Cc:url%20value='/account/account.do'/%3E) to edit your profile or [click here](https://web.archive.org/category/customer+service/contact+us.do) to email us. 
 
 Sometimes you can submit information about other people. For example, you might submit a person's name and e-mail address to send an electronic greeting card and, if you order a gift online and want it sent directly to a friend, you might submit the friend's name and address. The types of personally identifiable information that may be collected about other people at these pages may include: recipient's name, address, age, date of birth, grade level, e-mail address, sex and telephone number. 
 
@@ -24,15 +22,15 @@ We also may collect certain non-personal information (i.e. generic information t
 
 **How We Use Your Personal Information.**
 
-We will use the personal information you provide online for the purpose(s) you have submitted. Examples of us using your personal information for the purpose(s) submitted include if you order a catalog, we will send to you a catalog in the mail or, if you have won a contest, sending to you an email notification that you have won. In addition, we may send to you an e-mail offering products or services which we think you may be interested in or to ask you to participate in a survey. For example, we may send to you an e-mail regarding special merchandise offers and announcements about products or services we offer. We may also contact you offline. For example, when you provide your mailing address, we may send to you in the mail special offers, promotions and catalogs, which we think may be of interest to you. We will seek to obtain your consent at the place where the information is collected either by an "opt-in" or "opt-out" method, or by other means (such as sending to you an e-mail). However, for shop customers only, we will seek to obtain your consent when we collect your personal information for the first time so that if you are a repeat customer, we will apply the preferences you selected the first time you "checked out". If you want us to stop using the personal information you provided in these ways, please go to Edit My Profile on the Site or [click here](https://web.archive.org/emailHelp.do) to email us. 
+We will use the personal information you provide online for the purpose(s) you have submitted. Examples of us using your personal information for the purpose(s) submitted include if you order a catalog, we will send to you a catalog in the mail or, if you have won a contest, sending to you an email notification that you have won. In addition, we may send to you an e-mail offering products or services which we think you may be interested in or to ask you to participate in a survey. For example, we may send to you an e-mail regarding special merchandise offers and announcements about products or services we offer. We may also contact you offline. For example, when you provide your mailing address, we may send to you in the mail special offers, promotions and catalogs, which we think may be of interest to you. We will seek to obtain your consent at the place where the information is collected either by an "opt-in" or "opt-out" method, or by other means (such as sending to you an e-mail). However, for shop customers only, we will seek to obtain your consent when we collect your personal information for the first time so that if you are a repeat customer, we will apply the preferences you selected the first time you "checked out". If you want us to stop using the personal information you provided in these ways, please go to Edit My Profile on the Site or [click here](https://web.archive.org/category/customer+service/contact+us.do) to email us. 
 
 **How We Share Your Personal Information.**
 
 We will not share with third parties the personal information you provide except (a) if it is for the purpose(s) you provided it; (b) with your consent; (c) as may be required by law or as we think necessary to protect our company or others from injury (e.g. in response to a court order or subpoena, in response to a law enforcement agency request or when we believe that someone is causing (or about to cause) injury to or interference with the rights or property of another); (d) with other persons, service providers or companies with whom we contract to carry out internal site operations or our business activities (for example, sending out a product or a promotional item that you have requested on the Site); and/or (e) notifying you when we make material changes to one of our subscriber agreements or this policy. Examples of us sharing your personal information for the purposes submitted are if you participate in a third-party survey, enter a contest or sweepstakes sponsored by a third-party or request information from a third-party, we may provide the information provided to a third party so that they can send to you directly the information you requested. We will seek to obtain your consent at the place where the information is collected either by an "opt-in" or "opt-out" method, or by other means (such as sending to you an e-mail). However, for shop customers only, we will seek to obtain your consent when we collect your personal information for the first time so that if you are a repeat customer, we will apply the preferences you selected the first time you "checked out". 
 
-Additionally, with your consent, we may share the personal information you provide online with companies not affiliated with us (i.e. third party companies) who are interested in marketing their products or services to you or in asking you questions, both online and offline. We will seek to obtain your consent either by an "opt-in" or "opt-out" method, or by other means (such as sending to you an e-mail). Companies with whom we might share your personal information may include consumer products, telecom, financial, military, market research, entertainment, and educational services companies and their third party service providers. If you want us to stop sharing your personal information with these companies, please go to Edit My Profile on the Site or [click here](https://web.archive.org/emailHelp.do) to email us. 
+Additionally, with your consent, we may share the personal information you provide online with companies not affiliated with us (i.e. third party companies) who are interested in marketing their products or services to you or in asking you questions, both online and offline. We will seek to obtain your consent either by an "opt-in" or "opt-out" method, or by other means (such as sending to you an e-mail). Companies with whom we might share your personal information may include consumer products, telecom, financial, military, market research, entertainment, and educational services companies and their third party service providers. If you want us to stop sharing your personal information with these companies, please go to Edit My Profile on the Site or [click here](https://web.archive.org/category/customer+service/contact+us.do) to email us. 
 
-If you would like to opt-out of receiving offline communications from us, please [email us](https://web.archive.org/emailHelp.do) or let us know in writing via letter addressed to: Attn: Privacy dELiA*s, Inc., 50 West 23rd Street, New York, NY 10010. For all postal mail opt-out requests, please include your name, street address, city, state, and zip code. We cannot accept postal mail opt-out requests via telephone or facsimile, nor will we be responsible for notices that are not labeled or sent properly or lack complete information. Please note that we may require up to sixty (60) days to fully remove your postal mail information from our mailings. 
+If you would like to opt-out of receiving offline communications from us, please [email us](https://web.archive.org/category/customer+service/contact+us.do) or let us know in writing via letter addressed to: Attn: Privacy dELiA*s, Inc., 50 West 23rd Street, New York, NY 10010. For all postal mail opt-out requests, please include your name, street address, city, state, and zip code. We cannot accept postal mail opt-out requests via telephone or facsimile, nor will we be responsible for notices that are not labeled or sent properly or lack complete information. Please note that we may require up to sixty (60) days to fully remove your postal mail information from our mailings. 
 
 If you consent to receiving communications from non-affiliated companies, you may need to communicate with them directly if you later decide that you no longer wish to receive their communications or if you wish to change any data you provided online. In this instance, any changes or amendments to your personal information must be given directly to each company who communicates with you as these changes, amendments and/or deletions will not be exchanged between us and non-affiliated companies. 
 
@@ -44,7 +42,7 @@ We sometimes use the non-personal information that we collect to improve the des
 
 We may also allow third-party companies to serve advertisements and/or collect certain anonymous information when you visit the Site. Such companies may use non-personal information (e.g.: click stream information, browser type (Internet Explorer, Google Chrome, Firefox), time and date and/or subject of advertisements clicked or scrolled over) during your visits to the Site and other websites in order to make available advertisements about goods and services that such information indicates would likely be of greater interest to you. Such companies typically use a cookie or third party web beacons to collect this type of non-personal information. To learn more about this behavioral advertising practice or how you may opt-out of these types of advertising, you can visit www.networkadvertising.org/managing/opt_out.asp. 
 
-If you would prefer not to receive marketing or promotional e-mails from us that may relate, for example, to new services or offerings, you may opt-out of receiving these communications by [CLICKING HERE](https://web.archive.org/unsubscribe.do) to: (i) deregister your account; or (ii) change or edit your preferences. You may also use the opt-out mechanism that is contained in an email. 
+If you would prefer not to receive marketing or promotional e-mails from us that may relate, for example, to new services or offerings, you may opt-out of receiving these communications by [CLICKING HERE](https://web.archive.org/ancillary/unsubscribe.do) to: (i) deregister your account; or (ii) change or edit your preferences. You may also use the opt-out mechanism that is contained in an email. 
 
 **Collection of Information By Others.**
 
@@ -70,7 +68,7 @@ We may, from time to time, make review lists, chat rooms, forums, message boards
 
 **California-Based Users.**
 
-Please refer to our specific "[California Privacy Policy](https://web.archive.org/content/help/jsp/cal_privacy.jsp)" page. 
+Please refer to our specific "[California Privacy Policy](https://web.archive.org/jump.do?itemID=5&itemType=LANDING&page=ca_transparency)" page. 
 
 **International Users.**
 
@@ -78,13 +76,13 @@ If you are visiting the Site from a location outside of the United States, your 
 
 **How You Can Access or Correct Your Personal Information.**
 
-For instructions on how you can access the personal information that we have collected about you online, or how to correct any errors in such information, please go to Edit My Profile on the Site or [click here](https://web.archive.org/emailHelp.do)
+For instructions on how you can access the personal information that we have collected about you online, or how to correct any errors in such information, please go to Edit My Profile on the Site or [click here](https://web.archive.org/category/customer+service/contact+us.do)
 
 To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections. 
 
 **Special Note for Parents.**
 
-We will not knowingly accept personal information from anyone under 13 years old. If you believe that your child under 13 has gained access to the Site without your permission, please [email us](https://web.archive.org/emailHelp.do). We have taken commercially reasonable steps to restrict use of the Site to those who are at least 13 years old. We do not market products or services for purchase by children and all children's products or services we market are for purchase by adults only, or with adult permission. 
+We will not knowingly accept personal information from anyone under 13 years old. If you believe that your child under 13 has gained access to the Site without your permission, please [email us](https://web.archive.org/category/customer+service/contact+us.do). We have taken commercially reasonable steps to restrict use of the Site to those who are at least 13 years old. We do not market products or services for purchase by children and all children's products or services we market are for purchase by adults only, or with adult permission. 
 
 **Transfer of Business Assets.**
 
@@ -98,7 +96,7 @@ Because our business needs may change over time, we reserve the right, at our di
 
 The information you provide pursuant to this privacy policy is owned by dELiA*s, Inc. 
 
-If you have any questions or concerns about this privacy policy you may [click here](https://web.archive.org/emailHelp.do) to email us or contact us as follows: 
+If you have any questions or concerns about this privacy policy you may [click here](https://web.archive.org/category/customer+service/contact+us.do) to email us or contact us as follows: 
 
 dELiA*s, Inc.   
 50 West 23rd Street   
@@ -108,7 +106,7 @@ Attn: Privacy
 Telephone: (212) 590-6200   
 Facsimile: (212) 590-6310 
 
-If you have any questions about how dELiA*s, Inc. or any of its affiliates or subsidiaries will use or share your information you may [click here](https://web.archive.org/emailHelp.do) or contact them as follows: 
+If you have any questions about how dELiA*s, Inc. or any of its affiliates or subsidiaries will use or share your information you may [click here](https://web.archive.org/category/customer+service/contact+us.do) or contact them as follows: 
 
 dELiA*s, Inc.   
 50 West 23rd St.   
