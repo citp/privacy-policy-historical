@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the vevo.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222211104id_/http%3A//www.vevo.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vevo.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630201149id_/http%3A//www.vevo.com/c/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | VEVO
+# Privacy-Policy | VEVO.com
 
 **Last Updated: February 17, 2012**
 
 _VEVO recognizes that its users value their privacy and we take your privacy seriously. This Privacy Policy (as defined below) explains our privacy practices, including what types of information we collect from you and how we may use it, our rights to share and disclose such information to third parties and how you can review and modify information that you provide to us and your preferences regarding our use and disclosure of such information._
 
-## PRIVACY POLICY
+**PRIVACY POLICY**
 
 This is the privacy policy (" _Privacy Policy_ ") for (a) the website located [www.vevo.com](http://www.vevo.com/) and all corresponding web pages and websites associated with the foregoing URL (“ _Site_ ”), (b) VEVO mobile, web, console, desktop and other applications (e.g., Apple iOS Apps, etc.) (collectively and individually, “ _VEVO App_ ”), and (c) any other content, applications, features, functionality, information and services offered by us though the Site and/or the VEVO App, including, without limitation, viral, embeddable or application/device-based features and related technology (e.g., mobile, web, console, desktop and other APIs, widgets, plugins, applications, etc.) (collectively, " _Services_ "). The Services are provided by VEVO LLC and its affiliates (" _VEVO_ ", " _we_ ", “ _our_ ” or " _us_ "). Please review our [**Terms of Use Agreement**](https://web.archive.org/Legal/Terms-Conditions) (“ _Terms of Use_ ”), which governs your use of the Services. Any capitalized terms that are not defined in this Privacy Policy shall have the meaning given in the [**Terms of Use**](https://web.archive.org/Legal/Terms-Conditions). This Privacy Policy will remain in full force and effect, even if your use of or participation in the Services or any particular service, feature, function or promotional activity offered through the Services terminates, expires, ceases, is suspended or deactivated for any reason. If you do not agree with this Privacy Policy, please do not participate in the Services or any features, activities or services offered through the Services. This Privacy Policy applies regardless of the Device you use to access the Services and whether you are accessing the Services as a registered User or otherwise.
 
@@ -106,4 +106,4 @@ New York, NY 10036
 
 This Privacy Policy was last modified on the date indicated above and is effective immediately.
 
-Copyright © 2012 VEVO LLC
+Copyright © 2013 VEVO LLC
