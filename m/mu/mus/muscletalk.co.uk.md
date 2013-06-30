@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muscletalk.co.uk privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011100604id_/http%3A//www.muscletalk.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muscletalk.co.uk privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630032118id_/http%3A//www.muscletalk.co.uk/privacy.aspx) for the most accurate reproduction.*
 
 # MuscleTalk Privacy Policy
 
