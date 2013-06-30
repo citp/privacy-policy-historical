@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postbillpay.com.au privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029082235id_/http%3A//www.postbillpay.com.au/privacy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postbillpay.com.au privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630231620id_/http%3A//postbillpay.com.au/privacy/index.asp) for the most accurate reproduction.*
 
 # Australia Post : Postbillpay - Privacy & Security
 
@@ -27,4 +27,4 @@ We understand that you may be concerned about the confidentiality and security o
 
 In those instances where we secure your personal information in transit to us and upon receipt, we use the industry standard encryption software, Secured Socket Layer (SSL) 128 bit encryption. The URL in your browser will change to “HTTPS” instead of “HTTP” when this security feature is invoked. Your browser may also display a lock symbol on its bottom task bar line to indicate this secure transmission is in place.
 
-**For further information please refer to our[Privacy Statement](http://www.auspost.com.au/privacy/)**.
+**For further information please refer to our[Privacy Statement](http://auspost.com.au/privacy.html)**.
