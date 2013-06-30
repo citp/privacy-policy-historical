@@ -1,10 +1,9 @@
-<!--The following is the downloaded HTML source of the songza.com privacy policy that was archived on 2012-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121231151920id_/http%3A//songza.com/page/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the songza.com privacy policy that was archived on 2013-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130630201131id_/http%3A//songza.com/page/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-us" dir="ltr" class="no-js" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"><!--<![endif]--><head>
+<!DOCTYPE html><html lang="en-us" dir="ltr" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths no-ios file" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"><!--<![endif]--><head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <meta name="apple-itunes-app" content="app-id=453111583">
     <title>Privacy Policy - Songza</title>
     <link rel="Shortcut Icon" type="image/x-icon" href="/favicon.ico"> 
 
@@ -17,20 +16,20 @@
 
       SM2_DEFER = true;    
       var require = {
-        baseUrl: "/static/c61bcc86ab91/js/",
+        baseUrl: "/static/2bcbda105211/js/",
         paths: {
           "songza/config": "/config"
         }
     };
     </script>
 
-    <link type="text/css" href="/static/c61bcc86ab91/css/screen-songza.css" media="screen, projection" rel="stylesheet">
+    <link type="text/css" href="/static/2bcbda105211/css/screen-songza.css" media="screen, projection" rel="stylesheet">
 
     
 
 
 
-<script type="text/javascript" src="/static/c61bcc86ab91/js/songza-deps.min.js"></script>
+<script type="text/javascript" src="/static/2bcbda105211/js/songza-deps.min.js"></script>
 
 
 
@@ -38,22 +37,24 @@
 
 
 
-<script type="text/javascript" src="/static/c61bcc86ab91/js/songza-web.min.js"></script>
+<script type="text/javascript" src="/static/2bcbda105211/js/songza-web.min.js"></script>
 
 
 
 <script type="text/javascript">
-require(["songza/app", "songza/models"], function(App, Models) {
+require(["songza/app", "songza/models", "songza/config"], function(App, Models, Config) {
   $(function() {
     var visitor = new Models.User({"username": "", "website": "", "about": "", "display_name": "", "id": 0, "admin_sites": [], "site": "", "black_planet_id": null, "image_url": "http://songza.com/api/1/static/images/profiles/default-large.png", "facebook_id": null, "images": {"small": "http://songza.com/api/1/static/images/profiles/default-large.png", "large": "http://songza.com/api/1/static/images/profiles/default-large.png", "medium": "http://songza.com/api/1/static/images/profiles/default-large.png", "square": "http://songza.com/api/1/static/images/profiles/default-large.png"}, "image_default": true, "email": "", "is_admin": false}, {parse: true});
-    App.init(visitor, {"version": "c61bcc86ab91", "session_id": null, "remote_addr": "207.241.226.79"});
+    var environment = {"session_features": {"advertising.display": true}, "version": "2bcbda105211", "remote_addr": "207.241.226.81", "site_takeovers": [], "country": "US", "visitor_tags": {}, "session_config": {"mo_pub": {"keywords": [{"key": "country", "value": "US"}]}, "dfp": {"keywords": [{"key": "country", "value": "US"}]}, "apple_itunes": {"product_id": "SONGZA001", "strings": {"skip_limit_reached": "You've reached your skip limit. Join Club Songza to get twice as many skips and no ads.", "fine_print": "Your subscription will be charged through your iTunes account. You can unsubscribe at any time from your iTunes account settings. Enjoy!", "price": "Only $0.99 per week", "offer": "Upgrade for an ad-free experience and twice as many skips."}}}, "session_id": "9TWzkFdZ5aMWIqyv"};
+    var plugins = _.union(Config.default_plugins, Config.site_custom_plugins);
+    App.init(visitor, environment, plugins);
   });
 });
 </script>
 
     
     
-        <!-- block meta:common/base.html 3c8084cf38a39ca451ed99066db267e3 -->
+        <!-- block meta:common/base.html 3d84de05c53e7528e4af25aeb4e61fc0 -->
         
     <meta name="description" content="Relaxing? Working? Throwing a party? Songza plays the right music for any situation. Songza is 100% free, with no audio ads "> 
     <meta name="keywords" content="music concierge, online radio station,internet radio,listen free internet radio,free internet radio music,free internet radio,custom online radio,custom internet radio,personalized online radio,personalized internet radio,internet radios,online music radio,internetradio,listen to free radio, online radio,free online music radio,listen to music radio,free music radio,make a playlist,listen to free internet radio,music radio station,free online radio,radio music listen,listen free radio,listen to internet radio,free radio stations,free radio,listen to free radio stations,listen online radio,free music playlist,free online radio station,online radio,online radios, christmas music, free christmas playlist, free christmas music">
@@ -61,6 +62,7 @@ require(["songza/app", "songza/models"], function(App, Models) {
     <meta name="robots" content="follow">
     <meta name="msnbot" content="follow">
     <meta name="google-site-verification" content="byuuxA5Pabsf8bZzUBaYun6Tz_4kGs7rSGxBOZbFlNI">
+    <meta name="apple-itunes-app" content="app-id=453111583">
     
         <!-- endblock meta:common/base.html -->
         
@@ -77,7 +79,7 @@ require(["songza/app", "songza/models"], function(App, Models) {
         <!-- endblock meta_open_graph:common/base.html -->
         
     
-        <!-- block set-visitor:common/base.html 1d3db3ca674e8b74e801e6fd966b9d49 -->
+        <!-- block set-visitor:common/base.html 4a376ffeb518d8932e2e5e484a89ab67 -->
         
     <script type="text/javascript">
     require(["songza/app", "songza/models"], function(App, Models) {
@@ -85,14 +87,15 @@ require(["songza/app", "songza/models"], function(App, Models) {
         var visitor = new Models.User({"username": "", "website": "", "about": "", "display_name": "", "id": 0, "admin_sites": [], "site": "", "black_planet_id": null, "image_url": "http://songza.com/api/1/static/images/profiles/default-large.png", "facebook_id": null, "images": {"small": "http://songza.com/api/1/static/images/profiles/default-large.png", "large": "http://songza.com/api/1/static/images/profiles/default-large.png", "medium": "http://songza.com/api/1/static/images/profiles/default-large.png", "square": "http://songza.com/api/1/static/images/profiles/default-large.png"}, "image_default": true, "email": "", "is_admin": false}, {parse:true});
         var app = App.getInstance();
         app.setVisitor(visitor);
-        app.setEnvironment({"version": "c61bcc86ab91", "session_id": null, "remote_addr": "207.241.226.79"});
+        app.setEnvironment({"session_features": {"advertising.display": true}, "version": "2bcbda105211", "remote_addr": "207.241.226.81", "site_takeovers": [], "country": "US", "visitor_tags": {}, "session_config": {"mo_pub": {"keywords": [{"key": "country", "value": "US"}]}, "dfp": {"keywords": [{"key": "country", "value": "US"}]}, "apple_itunes": {"product_id": "SONGZA001", "strings": {"skip_limit_reached": "You've reached your skip limit. Join Club Songza to get twice as many skips and no ads.", "fine_print": "Your subscription will be charged through your iTunes account. You can unsubscribe at any time from your iTunes account settings. Enjoy!", "price": "Only $0.99 per week", "offer": "Upgrade for an ad-free experience and twice as many skips."}}}, "session_id": "9TWzkFdZ5aMWIqyv"});
       });
     });
     </script>
     
         <!-- endblock set-visitor:common/base.html -->
         
-  </head>
+  <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="songza/config" src="/config.js"></script></head>
+
   <body>
   
     <div id="body-delegate">
@@ -155,10 +158,8 @@ require(["songza/app", "songza/models"], function(App, Models) {
         
 
       
-        <!-- block promo-banner:common/base.html 9cd273fa0c8e1edc8d5eec45266be7fe -->
+        <!-- block promo-banner:common/base.html d41d8cd98f00b204e9800998ecf8427e -->
         
-        
-      
         <!-- endblock promo-banner:common/base.html -->
         
       
@@ -168,7 +169,7 @@ require(["songza/app", "songza/models"], function(App, Models) {
         
 
       
-        <!-- block content-wrapper:common/base.html 7a8348485e8951d95edb475643946b9f -->
+        <!-- block content-wrapper:common/base.html a23346e055c09e6a5aeb31da9f3ee2fb -->
         
       <div id="content" role="main">
         <div class="container">
@@ -216,8 +217,16 @@ require(["songza/app", "songza/models"], function(App, Models) {
         advertisements about goods and services of interest to you. If you
         would like more information about this practice and to know your
         choices about not having this information used by these companies,
-        click here: http://www.networkadvertising.org/managing/opt_out.asp
+        click here: <a href="http://www.networkadvertising.org/managing/opt_out.asp">http://www.networkadvertising.org/managing/opt_out.asp</a>
       </p>
+
+      <p>
+        Songza may use tools or third party analytical software to automatically collect and use certain non-personal data that does not directly enable Songza to identify you. The types of non-personal data Songza may collect and use include, but are not limited to: (i) device properties, including, but not limited to IP address, Media Access Control (“MAC”) address and unique device identifier or other persistent or non-persistent device identifier ("Device ID"); (ii) device software platform and firmware; (iii) mobile phone carrier; (iv) geographical data such as zip code, area code and coarse location; (v) other non-personal data as reasonably required by Songza to enhance the Service.
+    </p>
+
+     <p>
+       Songza may use Flurry analytics tool in order to develop and analyze use of the Services. If you wish to opt-out from Flurry analytics, please follow this link: <a href="http://www.flurry.com/resources/privacy.html">http://www.flurry.com/resources/privacy.html</a>.
+     </p>
     </div>
       
     <h2>Who We Do Not Share Information With</h2>
@@ -263,7 +272,7 @@ require(["songza/app", "songza/models"], function(App, Models) {
         <!-- endblock content-wrapper:common/base.html -->
         
       
-        <!-- block footer:common/base.html 5adc27a94a0224b3fab193aea71736ba -->
+        <!-- block footer:common/base.html 5bb559a60b6a3d87d2520c93867d14bb -->
         
         <div class="sz-songza-footer">
   <div class="container">
@@ -278,8 +287,8 @@ require(["songza/app", "songza/models"], function(App, Models) {
   </div>
   <div class="szi-mobile">
     <ul>
-      <li><a target="_blank" href="http://www.bit.ly/Songza_iPhone" class="szi-iphone">iPhone</a></li>
-      <li><a target="_blank" href="http://www.bit.ly/Songza_Android" class="szi-android">Android</a></li>
+      <li><a target="_blank" href="http://goo.gl/MBKrQ" class="szi-iphone">iPhone</a></li>
+      <li><a target="_blank" href="http://goo.gl/IIuSP" class="szi-android">Android</a></li>
       <li><a target="_blank" href="http://www.amazon.com/Songza-Media-Inc-HD/dp/B006C4U9RW/" class="szi-kindle-fire">Kindle Fire</a></li>
     </ul>
   </div>
@@ -288,7 +297,7 @@ require(["songza/app", "songza/models"], function(App, Models) {
     <div class="carousel slide">
       <ul class="carousel-inner">
         <li class="item active"><a target="_blank" class="footer-press-nytimes" href="http://www.nytimes.com/2011/10/20/technology/personaltech/online-music-tools-and-services-help-you-find-new-tunes.html">New York Times</a></li>
-        <li class="item"><a target="_blank" class="footer-press-cnn" href="http://www.cnn.com/2011/09/14/tech/mobi&#10;  le/songza-app-mashable/index.html">CNN</a></li>
+        <li class="item"><a target="_blank" class="footer-press-cnn" href="http://www.cnn.com/2011/09/14/tech/mobile/songza-app-mashable/index.html">CNN</a></li>
         <li class="item"><a target="_blank" class="footer-press-techcrunch" href="http://techcrunch.com/2011/09/13/songza-raises-seven-figure-round-launches-mobile-sharable-music-collections-in-the-cloud/">TechCrunch</a></li>
         <li class="item"><a target="_blank" class="footer-press-mashable" href="http://mashable.com/2011/10/14/iphone-4s-apps/#29739Songza">Mashable</a></li>
       </ul>
@@ -307,7 +316,9 @@ require(["songza/app", "songza/models"], function(App, Models) {
     <li><a href="https://twitter.com/songza" target="_blank">Twitter</a></li>      
     <li><a href="http://www.facebook.com/SongzaRadio" target="_blank">Facebook</a></li>
     <li><a href="https://plus.google.com/101736677666121192035" target="_blank" rel="publisher">Google+</a></li> 
-    <li class="szi-last"><a href="http://nytm.org/made/" target="_blank">Made In NYC</a></li>
+    <li class="madeinny szi-last"><a href="http://wearemadeinny.com/" target="_blank">
+      <img src="/static/2bcbda105211/images/sites/songza/Made_In_NY.png" alt="Made in NY">
+    </a></li>
     
   </ul>
 </div>
@@ -326,9 +337,9 @@ $(function() {
       
         <!-- endblock footer:common/base.html -->
         
-      
     </div>
   
   
+
 
 </body></html>
