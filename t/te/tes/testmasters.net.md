@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the testmasters.net privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015201152id_/http%3A//www.testmasters.net/Home/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the testmasters.net privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630220159id_/http%3A//www.testmasters.net/Home/Privacy-Policy) for the most accurate reproduction.*
 
 # TestMasters Privacy Policy
 
@@ -83,9 +83,13 @@ By using the TestMasters Websites, you signify your acceptance of our Privacy Po
 TestMasters, The TestMasters Logo, and any other trademarks on the TestMasters Websites are trademarks owned by Robin Singh Educational Services, Inc., DBA TestMasters. You may not use the TestMasters trademarks in connection with any product or service that does not belong to us, or in any manner that is likely to cause confusion among users about whether we are the source, sponsor, or endorser of the product or service, or in any manner that disparages or discredits us.
 
 The TestMasters Administrative Office  
-1620 26th Street, Suite 1000N. Santa Monica, CA 90404  
+640 San Vicente Boulevard  
+Suite 490  
+Los Angeles, CA 90048  
 1-800-696-5728  
 info@testmasters.net 
 
 [Complete List of TestMasters Courses](https://web.archive.org/schedule/all)  
 [LSAT Prep Locations](https://web.archive.org/lsat-prep)
+
+© 1991-2013 TestMasters. All rights reserved. 
