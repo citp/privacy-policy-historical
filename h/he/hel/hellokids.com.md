@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hellokids.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505032056id_/http%3A//www.hellokids.com/c_1956/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellokids.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630085535id_/http%3A//www.hellokids.com/c_1956/footer/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Footer
+# Footer - Privacy Policy
 
 **COBALINK PRIVACY POLICY for Hellokids.com  
 **
@@ -35,7 +35,7 @@ We use third-party advertising companies to serve ads when you visit our Website
 
 The link for “click here” is [www.networkadvertising.org](http://www.networkadvertising.org/).
 
-**ACCESS**
+ **ACCESS**
 
 We will provide you with the means to ensure that your personal information is correct and current. You may review and update this information at any time at Your personal account. There, you can:
 
