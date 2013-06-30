@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jellyneo.net privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228224012id_/http%3A//www.jellyneo.net/%3Fgo%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jellyneo.net privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630140639id_/http%3A//www.jellyneo.net/%3Fgo%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Jellyneo's Privacy Policy | Jellyneo.net
 
@@ -54,4 +54,4 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 ## Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [submit a query](https://web.archive.org/web/20121228224012id_/http%3A//www.jellyneo.net/%3Fgo%3Dprivacy_policy?go=contactus).
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [submit a query](https://web.archive.org/web/20130630140639id_/http%3A//www.jellyneo.net/%3Fgo%3Dprivacy_policy?go=contactus).
