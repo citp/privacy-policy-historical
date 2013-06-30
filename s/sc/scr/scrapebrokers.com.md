@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scrapebrokers.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228162502id_/http%3A//scrapebrokers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrapebrokers.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630115220id_/http%3A//scrapebrokers.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ScrapeBrokers - Shop for Autoapprove Lists, Backlinks blasts, Microniche Websites
+# Privacy Policy | ScrapeBrokers - Shop for Autoapprove Lists, Backlinks blasts
 
 **What information do we collect?**
 
