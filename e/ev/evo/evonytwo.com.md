@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the evonytwo.com privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024042321id_/http%3A//www.evony.com/index.do%3FPageModule%3DStatic%26type%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evonytwo.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630094342id_/http%3A//www.evony.com/index.do%3FPageModule%3DStatic%26type%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Evony-Free forever
 
 ### YOUR USE OF THE EVONY SITES AND SERVICES IS SUBJECT TO YOUR AGREEMENT TO THE TERMS OF THIS PRIVACY POLICY. 
 
-Regan Mercantile, LLC and its related licensees and licensors (collectively "Evony") respect the privacy of its on-line visitors and recognize the importance of providing a secure and safe environment for them. In meeting this goal, we instituted an On-Line Privacy Policy that guides how we collect, store, and use the information you provide us. This Privacy Policy details how Evony safeguards the privacy of its on-line visitors and applies to all services which are offered on Evony internet sites, in particular the Evony portal at 'www.evony.com' and the individual online game sites. 
+uCool Limited and its related licensees and licensors (collectively "Evony") respect the privacy of its on-line visitors and recognize the importance of providing a secure and safe environment for them. In meeting this goal, we instituted an On-Line Privacy Policy that guides how we collect, store, and use the information you provide us. This Privacy Policy details how Evony safeguards the privacy of its on-line visitors and applies to all services which are offered on Evony internet sites, in particular the Evony portal at 'www.evony.com' and the individual online game sites. 
 
 If you have any questions, complaints, or comments regarding our privacy policy statement or policies, please contact our Privacy Policy Administrator at [legal@evony.com](mailto:legal@evony.com). 
 
@@ -38,7 +38,7 @@ From time to time, Evony may provide online in-game chat rooms and/or forums to 
 
 Please note that all persons under the age of majority in their jurisdiction are required to have a parent or guardian read and accept this Agreement and our Privacy Policy on their behalf. Parents are encouraged to spend time online with their children under the age of 18 and to become familiar with the types of content available in Evony and the Internet in general. Parents should regularly oversee their childrens' use of e-mail and other online communications and transactional features. Control tools are available from online services and software manufacturers that can help provide a safe online environment for children. You can find out about software that protects your kids at <http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm> and at <http://kids.getnetwise.org/tools/>
 
-If Evony elects to begin sharing such information and if at any time you wish to opt out of having your personal information shared with third parties and/or receiving information from Evony (via e-mail) about new products, services, or promotions, you can do so. You may contact us at Regan Mercantile, LLC, Privacy Policy, Attention: Legal Dept., Suite 2B, 300 Rector Place, New York, NY 10280. You can also contact us by e-mailing us at legal@evony.com. Please indicate what publications or services you no longer wish to receive so that we may better address your needs. 
+If Evony elects to begin sharing such information and if at any time you wish to opt out of having your personal information shared with third parties and/or receiving information from Evony (via e-mail) about new products, services, or promotions, you can do so. You may contact us at uCool Limited, Privacy Policy, Attention: Legal Dept., Suite 2B, 300 Rector Place, New York, NY 10280. You can also contact us by e-mailing us at legal@evony.com. Please indicate what publications or services you no longer wish to receive so that we may better address your needs. 
 
 _Children Under 13_
 
@@ -70,7 +70,7 @@ We process the information collected from you according to United States data pr
 
 ### What if I have a question or complaint? 
 
-If you have any questions or wish to file a complaint, please feel free to e-mail us at [legal@evony.com](mailto:legal@evony.com), or send a letter addressed to Regan Mercantile, LLC, Attention: Privacy Policy/Legal, at Suite 2B, 300 Rector Place, New York, NY 10280. 
+If you have any questions or wish to file a complaint, please feel free to e-mail us at [legal@evony.com](mailto:legal@evony.com), or send a letter addressed to uCool Limited, Attention: Privacy Policy/Legal, at Suite 2B, 300 Rector Place, New York, NY 10280. 
 
 For persons in European Union countries, as used herein, terms such as “personal information” refer to “personal data” as defined by the Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data (“Directive”). Evony will not collect any personal data from you at any time. 
 
