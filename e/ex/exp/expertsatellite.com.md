@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expertsatellite.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030123408id_/http%3A//www.expertsatellite.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expertsatellite.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630082859id_/http%3A//www.expertsatellite.com/privacy-policy.html) for the most accurate reproduction.*
 
 # 
 
@@ -58,7 +58,7 @@ Expert Satellite reserves the right to change this policy. If we do make changes
 
 You may contact us via the following methods:
 
-Phone: 1-877-674-1166  
+Phone: 1-877-259-9058  
 Mailing Address: 1091 521 Corporate Center Drive, Indian Land, SC 29707
 
 **We take your privacy and security seriously.**
