@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quantcast.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222021638id_/http%3A//www.quantcast.com/how-we-do-it/consumer-choice/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quantcast.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630025938id_/http%3A//www.quantcast.com/how-we-do-it/consumer-choice/privacy-policy) for the most accurate reproduction.*
 
 # Quantcast Privacy Policy
 
@@ -28,7 +28,11 @@ Quantcast is a member of TRUSTe’s Data Collection Program, signifying that thi
 ### Registered Users
 
   * If you do not have a website that you want to measure, but you do want to access or use certain information, content, or tools on the Quantcast.com Site or receive our newsletter or other marketing materials and information, you may be required to register and to submit certain Personally Identifiable Information to us. This includes user name, password, email address, physical address, and telephone number, as well as any other information that you decide to provide us with. Your profile information and your name may be displayed in the Quantcast network to enable you to connect with other people on the network, as specified by you in your privacy settings.
+  
+
   * If you contact us by email through the Site, we may keep a record of your contact information and correspondence, and may use your email address, and any information that you provide to us in your message, to respond to you.
+  
+
   * In addition, we may use your Personally Identifiable Information to contact you with Quantcast newsletters, marketing or promotional materials and other information that may be of interest to you. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications.
 
 
@@ -39,12 +43,28 @@ Quantcast is a member of TRUSTe’s Data Collection Program, signifying that thi
 
 ### Log Data
 
-  * “ **Log Data** ” means information sent by your browser such as pixel code, referring HTTP location, current HTTP location, search string, time of the access, browser’s time, any searches made on the applicable website, and other statistics. We do not store full IP addresses.
+  * “ **Log Data** ” includes: 
+    1. Information sent by your browser such as pixel code, referring HTTP location, current HTTP location, search string, time of the access, browser’s time, any searches made on the applicable website, and other statistics (we do not store full IP addresses), and 
+    2. Information received from Quantcast software embedded in third party mobile applications. The data collected by the software may include: Device information, location information (including city-level geolocation), application data and use information, and unique application and installation identifiers.
+  
+
   * We retain Log Data for 13 months to accommodate seasonality.
+  
+
   * When you visit the Quantcast.com Site, whether as a Quantcast Client, Registered User or Quantcast Visitor, our servers automatically record and collect Log Data sent by your browser. We use the Log Data to monitor and analyze the use of the Quantcast.com Site and the Services, for the Quantcast.com Site’s technical administration, to increase the Quantcast.com Site’s functionality and user-friendliness, and to better tailor it to our visitors’ needs. For example, some of this information is collected so that when you visit the Quantcast.com Site again, it will recognize you and will be able to serve content, advertisements, and other information appropriate to your interests.
+  
+
   * We also collect Log Data each time you visit third-party websites serving content that has been tagged by Quantcast Clients with Quantcast Tags. We analyze Log Data from different websites and combine it with other non Personally Identifiable Information to produce the Reports that are made available on the Quantcast.com Site, and to enable web publishers and advertisers to deliver audience segments that are appropriate for their products or services. This combined data is also used by us and our partners to serve you content, advertisements, and other information tailored to your interests.
+  
+
+  * We provide a cross-platform reporting service to website and mobile application owners. Website and mobile application owners provide Quantcast with hashed (scrambled) identifiers to associate your use on their mobile and online platforms. 
+  
+
   * Our clients use our Market Research Services to understand their current and historical audience characteristics.
+  
+
   * We do not link Log Data to any other Personally Identifiable Information about you or otherwise attempt to discover your identity. We make efforts to require our Quantcast Clients to ensure that any such third party website post adequate privacy policies and otherwise protect the privacy rights of their visitors. Check the privacy policies of websites tagged with Quantcast Tags for information regarding the applicable privacy practices.
+  
 
 
 
@@ -54,7 +74,7 @@ Like many websites, we use cookies on the Quantcast.com Site (by placing or read
 
 ## Opt-Out Option
 
-If you prefer not to receive interest based content and ads enabled by Quantcast and not to have Quantcast measure your pattern of website visits or other online media consumption, you can opt-out by clicking on our “Opt-Out” link here or by accessing the DAA’s opt out-tool ([www.aboutads.info/choices](http://www.aboutads.info/choices/)). After you opt-out, you will not receive interest based content and advertisements enabled by Quantcast and we will not log your pattern of website visits or other online media consumption. Please note that opting-out does not turn off other advertisements or other ad delivery solutions (non-Quantcast) that address advertising based on demographic, interests, or other forms of audience based data. These opt-out tools are cookie-based. In order for the tool to work on your computer, your browser must be set to accept third party cookies. If you buy a new computer, change web browsers or delete this cookie, you will need to opt-out again.
+If you prefer not to receive interest based content and ads enabled by Quantcast and not to have Quantcast measure your pattern of website visits or other online media consumption, you can opt-out by clicking on our “Opt-Out” link [here](https://www.quantcast.com/opt-out) or by accessing the DAA’s opt out-tool ([www.aboutads.info/choices](http://www.aboutads.info/choices/)). After you opt-out, you will not receive interest based content and advertisements enabled by Quantcast and we will not log your pattern of website visits or other online media consumption. Please note that opting-out does not turn off other advertisements or other ad delivery solutions (non-Quantcast) that address advertising based on demographic, interests, or other forms of audience based data. These opt-out tools are cookie-based. In order for the tool to work on your computer, your browser must be set to accept third party cookies. If you buy a new computer, change web browsers or delete this cookie, you will need to opt-out again.
 
 ## Information Sharing and Disclosure
 
