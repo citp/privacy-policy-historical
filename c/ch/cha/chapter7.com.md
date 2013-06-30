@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the chapter7.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216175255id_/http%3A//www.chapter7.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chapter7.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630040507id_/http%3A//www.chapter7.com/privacy-policy) for the most accurate reproduction.*
 
 # Chapter7.com Privacy Policy for this Bankruptcy Website
 
-## Last Updated: August 2011
+## Last Updated: March 2013
 
 This is the privacy policy for [the Chapter7.com website](http://www.chapter7.com/ "Chapter 7 Bankruptcy Home Page").
 
@@ -28,6 +28,7 @@ All of the information we obtain about you is stored securely on our servers and
 
   * to identify the sponsoring lawyers or law firms in your geographical area and to connect you with them, as described in our [Terms and Conditions](http://www.chapter7.com/terms-conditions/)
   * to allow sponsoring lawyers or law firms to evaluate your case and provide legal services to you
+  * to assist the sponsoring lawyers or law firms in identifying ways to improve how they serve you
   * to provide ongoing communications to you in furtherance of these legal services and to share
   * information and offers that we think may interest you
   * to perform research on access to and consumption of legal services, and
@@ -39,7 +40,7 @@ All of the information we obtain about you is stored securely on our servers and
 
 Except as set forth below, we will not share your personal information with any outside parties without your permission. Any third party to whom we provide your information must agree to keep your information confidential and not to share it with any other third party without your permission. These are the outside parties with whom we share your information:
 
-  1. **Participating Lawyers and Law Firms:** To provide the service offered through this Website, we will forward your information to the lawyers or law firms identified when you complete our form and request a consultation in order for them to contact you, to evaluate your needs, and to determine whether to represent you. When you submit your request, you consent to release of your information to those lawyers or law firms. As part of this process, the lawyers and law firms agrees to keep your information confidential and agree not to share it with any third party without your express permission.
+  1. **Participating Lawyers and Law Firms:** To provide the service offered through this Website, we will forward your information to the lawyers or law firms identified when you complete our form and request a consultation in order for them to contact you, to evaluate your needs, and to determine whether to represent you. When you submit your request, you consent to release of your information to those lawyers or law firms. As part of this process, the lawyers and law firms agree to keep your information confidential and agree not to share it with any third party without your express permission.
   2. **Legal and Government Authorities:** We will disclose your information to proper authorities when we have a good-faith belief that such action is necessary to comply with applicable laws, valid legal process, a court order, a current judicial proceeding, or to protect our rights or property.
   3. **Other Parties:** We may also provide aggregate statistical information that does not personally identify you (such as the city or state you live in) to describe our services to prospective partners, advertisers, and other third parties, and for other lawful purposes. We will not, however, disclose any personally identifiable information about you to these parties.
 
@@ -54,9 +55,9 @@ We take reasonable measures to protect your information on our servers. Please u
 If you have any questions or concerns regarding this policy, you may contact us at:
 
 **Chapter7**  
-25 East Washington, Suite 510  
+25 East Washington, Suite 400  
 Chicago, IL 60602  
-(312) 252-1313  
+(877) 226-6844  
 [info@Chapter7.com](mailto:info@Chapter7.com)
 
 You can also review and update the personal information we have about you in order to ensure its accuracy. To do so, please contact us at the above address.
