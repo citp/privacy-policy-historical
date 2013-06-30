@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the soft-go.com privacy policy that was archived on 2012-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121230221355id_/http%3A//www.soft-go.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the soft-go.com privacy policy that was archived on 2013-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130630093103id_/http%3A//www.soft-go.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -177,7 +177,7 @@
 <div id="footer">
 	<div class="wrap">
 		<div class="copyright">
-			<p>Copyright © 2006-2012  
+			<p>Copyright © 2006-2013  
 			<a href="/" title="Soft-Go - Free Software Catalog">Soft-Go</a> · 
 			<a href="/privacy.html">Privacy Policy</a> · 
 			<a href="/terms.html" rel="nofollow">Terms of Use</a> · 
@@ -205,6 +205,25 @@
 			<script type="text/javascript" src="http://www.statcounter.com/counter/counter_xhtml.js"></script>
 			<noscript><img src="http://c.statcounter.com/1990424/0/34991b72/1/" alt="" style="width:1px;height:1px"/></noscript>
 		<!-- End of StatCounter Code -->
+		<script type="text/javascript">
+			function addLink() {
+				var body_element = document.getElementsByTagName('body')[0];
+				var selection;
+				selection = window.getSelection();
+				var pagelink = "&lt;br /&gt;&lt;br /&gt; Read more at: &lt;a href=\""+document.location.href+"\"&gt;"+document.location.href+"&lt;/a&gt;";
+				var copytext = selection + pagelink;
+				var newdiv = document.createElement('div');
+				newdiv.style.position='absolute';
+				newdiv.style.left='-99999px';
+				body_element.appendChild(newdiv);
+				newdiv.innerHTML = copytext;
+				selection.selectAllChildren(newdiv);
+				window.setTimeout(function() {
+					body_element.removeChild(newdiv);
+				},0);
+			}
+			document.oncopy = addLink;
+		</script>
 	
 
 </body></html>
