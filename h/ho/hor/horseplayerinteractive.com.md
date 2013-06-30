@@ -1,8 +1,66 @@
-> *The following text is extracted and transformed from the horseplayerinteractive.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231005252id_/http%3A//www.horseplayerinteractive.com/Discover/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horseplayerinteractive.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630233631id_/http%3A//www.horseplayerinteractive.com/Discover/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # HorsePlayer Interactive
 
-| 
+  * |  [Hollywood Park](https://web.archive.org/web/20130630233631id_/http%3A//www.horseplayerinteractive.com/Racing/RaceInfo.aspx?Track=43&Race=8&SessionDate=2013-06-30)
+
+Race 8, 9 MTP
+
+[](https://web.archive.org/web/20130630233631id_/http%3A//www.horseplayerinteractive.com/Racing/Schedules.aspx?code=HPItv)  
+  
+---  
+[Pleasanton](https://web.archive.org/web/20130630233631id_/http%3A//www.horseplayerinteractive.com/Racing/RaceInfo.aspx?Track=133&Race=8&SessionDate=2013-06-30)
+
+Race 8, 19 MTP  
+  
+[Hastings](https://web.archive.org/web/20130630233631id_/http%3A//www.horseplayerinteractive.com/Racing/RaceInfo.aspx?Track=39&Race=7&SessionDate=2013-06-30)
+
+Race 7, 13 MTP
+
+[](https://web.archive.org/web/20130630233631id_/http%3A//www.horseplayerinteractive.com/Racing/Schedules.aspx?code=HPItv)  
+  
+[Emerald](https://web.archive.org/web/20130630233631id_/http%3A//www.horseplayerinteractive.com/Racing/RaceInfo.aspx?Track=22&Race=6&SessionDate=2013-06-30)
+
+Race 6, 21 MTP  
+  
+[Presque Isle](https://web.archive.org/web/20130630233631id_/http%3A//www.horseplayerinteractive.com/Racing/RaceInfo.aspx?Track=156&Race=6&SessionDate=2013-06-30)
+
+Race 6, Off  
+  
+[Pocono Downs](https://web.archive.org/web/20130630233631id_/http%3A//www.horseplayerinteractive.com/Racing/RaceInfo.aspx?Track=180&Race=4&SessionDate=2013-06-30)
+
+Race 4, 0 MTP  
+  
+[Rideau Carleton](https://web.archive.org/web/20130630233631id_/http%3A//www.horseplayerinteractive.com/Racing/RaceInfo.aspx?Track=76&Race=4&SessionDate=2013-06-30)
+
+Race 4, 6 MTP
+
+[](https://web.archive.org/web/20130630233631id_/http%3A//www.horseplayerinteractive.com/Racing/Schedules.aspx?code=HPItv)  
+  
+[Running Aces](https://web.archive.org/web/20130630233631id_/http%3A//www.horseplayerinteractive.com/Racing/RaceInfo.aspx?Track=179&Race=3&SessionDate=2013-06-30)
+
+Race 3, 9 MTP  
+  
+[Mountaineer](https://web.archive.org/web/20130630233631id_/http%3A//www.horseplayerinteractive.com/Racing/RaceInfo.aspx?Track=60&Race=3&SessionDate=2013-06-30)
+
+Race 3, 12 MTP
+
+[](https://web.archive.org/web/20130630233631id_/http%3A//www.horseplayerinteractive.com/Racing/Schedules.aspx?code=HPItv)  
+  
+[Balmoral](https://web.archive.org/web/20130630233631id_/http%3A//www.horseplayerinteractive.com/Racing/RaceInfo.aspx?Track=7&Race=1&SessionDate=2013-06-30)
+
+Race 1, 32 MTP
+
+[](https://web.archive.org/web/20130630233631id_/http%3A//www.horseplayerinteractive.com/Racing/Schedules.aspx?code=HPItv)  
+  
+[Los Alamitos](https://web.archive.org/web/20130630233631id_/http%3A//www.horseplayerinteractive.com/Racing/RaceInfo.aspx?Track=52&Race=1&SessionDate=2013-06-30)
+
+Race 1, 58 MTP
+
+[](https://web.archive.org/web/20130630233631id_/http%3A//www.horseplayerinteractive.com/Racing/Schedules.aspx?code=HPItv)  
+  
+  *   * 
+
 
 This Privacy Policy was last revised January 15, 2009 
 
@@ -134,3 +192,6 @@ M9W 5L2
 
 ____________________________________________________________________  
 For more information on the Woodbine Entertainment Group's commitment to privacy, contact the Woodbine Entertainment Group through our website: [**www.WoodbineEntertainment.com**](http://www.woodbineentertainment.com/) For copies of the CSA Model Code for the Protection of Personal Information contact the Canadian Standards Association or visit their Website at [**www.csa.ca**](http://www.csa.ca/) For copies of the Personal Information Protection and Electronic Documents Act (PIPEDA) contact the Department of Justice or visit [**http://laws.justice.gc.ca**](http://laws.justice.gc.ca/)
+
+  
+
