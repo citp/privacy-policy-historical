@@ -1,50 +1,56 @@
-> *The following text is extracted and transformed from the cylance.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127162635id_/http%3A//www.cylance.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cylance.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630065215id_/http%3A//cylance.com/privacy.shtml) for the most accurate reproduction.*
 
-# Online Gaming Privacy Statement
+# Cylance Privacy Policy
 
-cylance.com recognizes the importance of protecting the privacy of all information provided by users of our web sites, subscribers to our magazines, registrants for our events, recipients of our e-mail newsletters and all other customers of our products and services. We created this policy with a fundamental respect for our customers' right to privacy and to guide our relationships with our customers. This Privacy Statement discloses the privacy practices for all products and services owned by cylance.com.
+**We Send Periodic Emails**
 
-**INFORMATION COLLECTION AND USE**  
-cylance.com collects information from our website users, subscribers and other customers. In this section of our Privacy Statement, we describe the type of information we collect and how we use it to provide better services to our customers.
+The email address you provide for webinar registration will only be used to send you information and updates.
 
-**E-mail Newsletters**   
-If users wish to subscribe to our e-mail newsletters, we ask for contact information (such as name, e-mail address and phone number) and information about the subscriber's professional interests and responsibilities. We use this information in the same manner as we use contact information in the registration and ordering process described above. Recipients of our newsletters can unsubscribe using the instructions listed at the end of the e-mail newsletter. 
+**How We Use Your Information**
 
-**Interactive Features**   
-At some of our sites, we offer interactive and community features such as discussion boards and user profiles. Note that all personal information sent or posted via such features becomes public information for which we are not responsible. 
+Emails are stored securely on an encrypted drive with controlled and audited access, and only used to inform you of upcoming events.
 
-**Tell-A-Friend**   
-If customers elect to use our referral service for informing a friend about our sites and services, we may ask them for the friend's name, job title and e-mail address. cylance.com will store and use this information to send the friend an invitation. This information may also be used to provide information about our company and related products and services. The friend may contact us as specified in the tell-a-friend message to request that no further communications be sent.
+**How We Use Cookies?**
 
-**Communications with Us**   
-We have features where our customers can submit information to us (such as our feedback forms). Where such submissions include requests for service, support or information, we may forward them to our agents, as needed, to best respond to the specific request. In addition, we may retain e-mails and other information sent to us for our internal administrative purposes and to help us to serve customers better. Please note that letters to the editor and similar submissions may be made public. 
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
-**Communications from Us: Service Updates, Special Offers**   
-In order to best serve our customers, we may send updates that contain important information about our products and services. For example, we send new members a welcoming message and verify password and username for our password-protected web sites. We may also communicate with a customer to provide requested services and for account-related issues via e-mail, phone or regular mail. In addition to such service and product-essential messages, we offer our customers the option to receive information about our company, related products, services and special deals. Users, however, can choose not to receive these communications from us, as set forth in the "Preferences" section below.
+We use cookies to compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-**Automatic Data Collection**  
-Our web sites, newsletters and, from time to time, certain other products and services have features that automatically collect information from customers, to deliver content specific to customers' interests and to honor their preferences. This information assists us in creating products and services that will serve the needs of our customers.
+**Outside Parties**
 
-For example, we use "cookies," a piece of data stored on the user's hard drive containing information about the user. Cookies benefit the user by requiring login only once, thereby saving time while on our web site. If users reject the cookies, they may be limited in the use of some areas of our web site. For example, the user may not be able to participate in sweepstakes, contests or drawings. Additionally, we may note some of the pages the user visits on our web sites and via our email newsletters through the use of pixel tags (also called clear gifs) and web beacons. The use of cookies, pixels and web beacons enable us to track and target the interests of our users to enhance the experience on our sites and via our email newsletters. 
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-In addition, some of our business affiliates use cookies on our web sites and in our email newsletters, in ads or promotions. However, we have no access to or control over these business affiliates' cookies; we urge users to read their privacy policies for information. In particular, we use third-party advertising technology to serve ads for cylance.com products and services when you visit certain cylance.com Web sites. This technology uses information about your visits to these cylance.com Web sites (not including your name, address, or other personal information), to serve our ads to you. In the course of serving our advertisements to you, a unique third-party cookie may be placed or recognized on your browser. In addition, we use web beacons, provided by our ad serving partner, to help manage our online advertising for cylance.com products and services. These web beacons enable our ad server to recognize a browser's cookie when a browser visits these sites and to learn which banner ads bring users to our Web sites. The information used in this process is not personally identifiable. To learn more about our third party ad serving partner, cookies, and how to "opt-out," please {[click here](http://www.doubleclick.com/us/about_doubleclick/privacy/)}.
+**Third Party Links**
 
-We allow advertisers to use third party ad servers to display ads on our sites.  These third party ad servers may set and recognize their cookies on your pc.  They may collect standard information about your browser and system and use that data, along with your IP address, to manage ad frequency and serve ads in a format most compatible with your system.
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-We also use an email delivery and marketing company to send emails, including newsletters, for which you have registered (or otherwise agreed to receive). Web beacons and cookies may be used in such email messages to help us measure the effectiveness of our advertising and how customers use our web sites, services and other products. 
+**Children's Online Privacy Protection Act Compliance**
 
-For our internal purposes, we gather date, time, browser type, navigation history and IP address of all visitors to our web sites. We use this information for our internal security audit log, trend analysis and system administration, and to gather broad information about our user base.
+We are in compliance with the requirements of COPPA (Children's Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
-We may combine information supplied by a customer at registration with web site usage data to learn more about users and their preferences in the content of the site. We may use this information to tailor services to your interests or to contact you about offers from our business associates which may be of interest to you. We do not disclose this information to third parties.
+**Online Privacy Policy Only**
 
-**SECURITY  
-**We use reasonable precautions to protect information about our customers while it is stored on our servers or in transit to our vendors processing on our behalf. Sensitive information that is transmitted to us online (such as credit card number) is encrypted and is transmitted to us securely. In addition, access to all of our customers' information, not just the sensitive information mentioned above, is restricted. Only employees who need the information to perform a specific job (for example, a billing clerk or a customer service representative) are granted access to personally identifiable information. Finally, the servers on which we store personally identifiable information are kept in a secure environment.
+This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-**LINKS**   
-Our web sites contain links to other sites. cylance.com is not responsible for the privacy practices or content of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each web site to which we may link that may collect personally identifiable information. 
+**Terms and Conditions**
 
-**CHILDREN**  
-cylance.com websites are not directed at individuals under thirteen years of age and cylance.com does not intend to collect any personally-identifiable information from such individuals.
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.cylance.com/terms.shtml>
 
-**NOTIFICATION and CHANGES**   
-If we change our Privacy Statement, we will post those changes on this page so our users are aware of what information we collect, how we use it and under which circumstances, if any, we disclose it. Users should check this policy frequently to keep abreast of any changes. 
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy.
+
+**Changes to Our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
+
+This policy was last modified on 09/10/2012
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below.  
+[www.cylance.com](http://www.cylance.com/)  
+46 Discovery, Suite #200  
+Irvine, CA 92618  
+USA  
+[info@cylance.com](mailto:info@cylance.com)
