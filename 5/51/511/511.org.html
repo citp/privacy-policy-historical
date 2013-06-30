@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 511.org privacy policy that was archived on 2012-10-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121003033321id_/http%3A//www.511.org/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 511.org privacy policy that was archived on 2013-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130630211623id_/http%3A//www.511.org/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/2-column.dwt" codeOutsideHTMLIsLocked="false" --><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -86,13 +86,24 @@ include virtual="/inc/css-block.asp" -->
 		
 		<script language="javascript" type="text/javascript">
 		
+		/* AUTO REFRESH
+		*
+		*  Script used to refresh the homepage
+		* 
+		
+		
+		// For example: http://www.511.org/staging/default_refresh.asp (the curPath becomes "/staging/default_refresh.asp")
 		var curPath = window.location.pathname;
+		
+		// For example: the curPage becomes "default_refresh.asp"
 		var curPage = curPath.substring(curPath.lastIndexOf('/') + 1);
-		//alert(curPath);
 		
+		// if we are on the homepage, check if we want to refresh or not
 		if(curPage == "default.asp" || curPage == "") {
-		
+			
+			// 
 			var destination_param = decodeURI(getURLParam('auto_refresh'));
+			
 			if(destination_param == "yes" || destination_param == "") {
 				document.getElementById('autoRefreshLink').innerHTML = '<a href="?auto_refresh=no" onmouseover="whatIsThisShow();" onmouseout="whatIsThisHide();">Pause auto-refresh</a> <!--<img src="../img/global/info_icon.gif" alt="What is this?" onmouseover="whatIsThisShow();" onmouseout="whatIsThisHide();" style="position: relative; top: 5px;" />-->';
 			} else {
@@ -108,6 +119,7 @@ include virtual="/inc/css-block.asp" -->
 		function whatIsThisHide() {
 			document.getElementById('autoRefreshInfo').style.display = "none";
 		}
+		*/
 		
 		</script>
       
@@ -116,13 +128,141 @@ include virtual="/inc/css-block.asp" -->
         <map name="My511">
         	<area shape="rect" coords="-2,0,38,37" href="http://my511.org/" alt="Login to MY511.org" title="Login to MY511.org">
         </map>
-        <div id="my-login-tagline"><img src="/img/global/my511.gif" width="36" height="36" alt="Login to MY511.org" usemap="#My511">
-          <ul>
-            <li><a href="http://www.my511.org/">Login</a></li>
-            <li class="last"><a href="http://www.my511.org/regstep1.aspx">Register</a></li>
-          </ul>
-        </div><!-- END my-login-tagline -->
+        
+        <!-- revise this section -->
+        
+        <style type="text/css">
+			#my511 {
+				position: absolute;
+				top: 33px;
+				right: 10px;
+				width: 173px;
+			}
+			
+			#my511 .myLogin {
+				position: relative;
+				top: 0;
+				left: 0;
+				float: left;
+				height: 20px;
+				border: 1px solid #6c9d22;
+				font-size: 11px;
+				}
+				#my511 .myLogin img {
+					height: 20px;
+					width: 21px;
+					border: 0;
+					float: left;
+					padding: 0 5px 0 0;
+					margin: 0;
+				}
+				#my511 .myLogin li {
+					padding: 0 5px 0 0;
+					border: 0;
+					float: left;
+					margin-top: 4px;
+					}
+					#my511 .myLogin li.divider {
+						color: #484848;
+					}
+					#my511 .myLogin li.last {
+						padding-right: 5px;
+					}
+					#my511 .myLogin li a {
+						color: #536B25;
+						text-decoration: none;
+						}
+						#my511 .myLogin li a:hover {
+							text-decoration: underline;
+						}
+			
+			#my511 .social {
+				position: relative;
+				top: 3px;
+				left: 12px;
+				float: left;
+				}
+				#my511 .social li {
+					width: 16px;
+					height: 16px;
+					padding: 0;
+					border: 0;
+					float: left;
+					padding-right: 5px;
+					}
+					#my511 .social li.last {
+						padding: 0;
+						}
+						#my511 .social li a img {
+							padding:0;
+							margin: 0;
+							height: 16px;
+							border: 0;
+						}
+			
+			
+			#my511 .searchBox {
+				position: relative;
+				float: left;
+				top: 6px;
+				clear: both;
+				display: none; /* for now */
+				}
+				#my511 .searchBox #search {
+					width: 171px;
+					height: 18px;
+					font-style: italic;
+					color: gray;
+					font-size: 11px;
+					padding: 0;
+					margin: 0;
+					border: 1px solid #8A8A8A;
+					}
+				.ie7 #my511 .searchBox #search {
+					height: 20px;
+				}
+				#my511 .searchBox #submitSearch {
+					border: 0;
+					color: white;
+					width: 25px;
+					height: 20px;
+					position: absolute;
+					top: 0;
+					right: 0;
+					text-indent: -9999px;
+					background: url(/img/icons/icon_search.png) no-repeat 0 0;
+					cursor: pointer;
+					padding: 0;
+					margin: 0;
+					}
+				.ie7 #my511 .searchBox #submitSearch {
+					margin-top: 2px;
+				}
+				
+					
+        </style>
+        
+        
+        
       </div><!-- END logo -->
+      
+    <div id="my511">
+    	
+        <ul class="myLogin">
+        	<img src="/img/global/my511.gif" alt="Login to MY511.org" usemap="#My511">
+            <li><a href="http://www.my511.org/">Login</a></li>
+            <li class="divider">|</li>
+            <li class="last"><a href="http://www.my511.org/regstep1.aspx">Register</a></li>
+        </ul>
+        <ul class="social">
+            <li><a target="_blank" href="http://www.facebook.com/511SFBay" title="facebook.com/511SFBay"><img src="/img/global/facebook16x16.gif" alt="Facebook"></a></li>
+            <li class="last"><a target="_blank" href="http://twitter.com/511SFBay" title="twitter.com/511SFBay"><img src="/img/global/twitter16x16.gif" alt="Twitter"></a></li>
+        </ul>
+        <div class="searchBox">
+            <input type="text" id="search" name="search" class="clearonfocus" value="Search 511.org">
+            <input type="submit" id="submitSearch" name="submitSearch" value="">
+        </div>
+    </div>
       
       <ul id="external-top-nav">
         <li class="active"><a href="/default.asp">511.org</a></li>
@@ -640,7 +780,7 @@ November 2, 2007&nbsp;&nbsp;&nbsp;&nbsp;Privacy Policy Established</p>
     </div><!-- END mainContent -->
     
     <div id="copy-subfooter">
-      <p><a href="http://www.mtc.ca.gov/" target="_blank">©2012 Metropolitan Transportation Commission</a></p>
+      <p><a href="http://www.mtc.ca.gov/" target="_blank">©2013 Metropolitan Transportation Commission</a></p>
     </div>
 
 </div><!-- END container -->
@@ -654,16 +794,18 @@ November 2, 2007&nbsp;&nbsp;&nbsp;&nbsp;Privacy Policy Established</p>
         urchinTracker();
 </script>
 
+<!--
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+</script>
 <script type="text/javascript">
 try {
 var pageTracker = _gat._getTracker("UA-6885000-1");
 pageTracker._setDomainName("511.org");
 pageTracker._trackPageview();
 } catch(err) {}</script>
+-->
 
 
 <!-- InstanceEnd --></body></html>
