@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the easywebinarplugin.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204045950id_/http%3A//www.easywebinarplugin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easywebinarplugin.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630072420id_/http%3A//www.easywebinarplugin.com/privacy-policy) for the most accurate reproduction.*
 
-# privacy policy | Easy Webinar Plugin
+# Privacy Policy | Easy Webinar Plugin
 
 CSZ Corporation is committed to protecting your privacy. This Statement of Privacy applies to the CSZ Corporation website and governs data collection and usage. By using the CSZ Corporation website, you consent to the data practices described in this statement.
 
