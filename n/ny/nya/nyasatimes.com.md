@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nyasatimes.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230125020id_/http%3A//www.nyasatimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyasatimes.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630031008id_/http%3A//www.nyasatimes.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Malawi news, Malawi - NyasaTimes breaking online news source from Malawi
+# Privacy | Malawi Nyasa Times - Malawi breaking news in Malawi
 
 **Nyasa Times Online Privacy Policy**
 
