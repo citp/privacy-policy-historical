@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lessonpix.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224011906id_/http%3A//lessonpix.com/articles/11/26/LessonPix%2BPrivacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lessonpix.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630055442id_/http%3A//lessonpix.com/articles/11/26/LessonPix%2BPrivacy%2BPolicy) for the most accurate reproduction.*
 
 # LessonPix Privacy Policy
 
