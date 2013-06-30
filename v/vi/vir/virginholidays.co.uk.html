@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the virginholidays.co.uk privacy policy that was archived on 2012-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120625144257id_/http%3A//www.virginholidays.co.uk/info/important/privacy_statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the virginholidays.co.uk privacy policy that was archived on 2013-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130630163658id_/http%3A//www.virginholidays.co.uk/info/important/privacy_statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head><title>
 	
@@ -20,29 +20,33 @@ Privacy Policy - Virgin Holidays
  
 <link rel="stylesheet" type="text/css" href="/_assets/css/thickbox.css" media="screen">
 <link rel="stylesheet" type="text/css" href="/_assets/css/image_cycler.css" media="screen">
+<link rel="stylesheet" type="text/css" href="/_assets/css/blitzer/jquery-ui-1.8.21.custom.css" media="screen">
 
 
 <link rel="stylesheet" type="text/css" href="/_assets/css/tripadvisor.css" media="screen">
 
  
 <link href="/_assets/css/print.css" type="text/css" rel="stylesheet" media="print">
- 
+ <link media="screen" rel="stylesheet" href="/_assets/css/colorbox.css">
 
 
 <link rel="stylesheet" type="text/css" href="/_assets/css/myitinerary.css">
-<link rel="stylesheet" type="text/css" href="/_assets/js/jquery.jwysisyg/jquery.wysiwyg.css">
-
-
-
-<link href="/_Assets/js/bubbletip/bubbletip.css" rel="stylesheet" type="text/css" media="screen">
-    <!--[if IE]>
-	    <link href="/_Assets/js/bubbletip/bubbletip-IE.css" rel="stylesheet" type="text/css" />
-	<![endif]--><link href="/_assets/css/static.css" type="text/css" rel="stylesheet" media="screen">
+<link rel="stylesheet" type="text/css" href="/_assets/js/jquery.jwysisyg/jquery.wysiwyg.css"><link href="/_assets/css/static.css" type="text/css" rel="stylesheet" media="screen">
         <style type="text/css">
 	        #pageTitle { width:587px !important; }
 	        #important_message { margin-top:15px; }
             #addThis { position:absolute; top:150px; }
         </style>
+        
+        <!--[if IE 7]>
+	<link href="/_assets/css/homepage_ie7.css" type="text/css" rel="stylesheet" media="screen" />
+	<![endif]-->
+        <!--[if IE 8]>
+	    <link href="/_assets/css/homepage_ie8.css" type="text/css" rel="stylesheet" media="screen" />
+	    <![endif]-->
+	    <!--[if IE 9]>
+	       <link href="/_assets/css/ie9.css" type="text/css" rel="stylesheet" media="screen" />
+	    <![endif]-->
         
 		
 
@@ -54,13 +58,18 @@ Privacy Policy - Virgin Holidays
 
 
 
-<script id="facebook-jssdk" src="//connect.facebook.net/en_GB/all.js#xfbml=1"></script><script type="text/javascript" src="/_assets/js/jquery.js"></script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<script type="text/javascript">        window.jQuery || document.write('<script src="/_assets/js/jquery.js" language="javascript" type="text/javascript"><\/script>')</script><script src="/_assets/js/jquery.js" language="javascript" type="text/javascript"></script>
 <script type="text/javascript" src="/_assets/js/ui.core.min.js"></script>
+<script type="text/javascript" src="/_assets/js/jquery-ui-1.8.21.custom.min.js"></script>
 <script type="text/javascript" src="/_assets/js/jquery.modified.datepicker.1.6rc2.js"></script>
 <script type="text/javascript" src="/_assets/js/jquery.cycle.min.js"></script>
-<script type="text/javascript" src="/_assets/js/jquery.tooltip.js"></script>
 <script type="text/javascript" src="/_assets/js/jquery.cookie.js"></script>
 <script type="text/javascript" src="/_assets/js/json2.js"></script>
+<script type="text/javascript" src="/_assets/js/jquery.colorbox.js"></script>
+
+<script type="text/javascript" src="/_assets/js/colorbox.js"></script>
 <script type="text/javascript" src="/_assets/js/extensions.js"></script>
 
 
@@ -92,13 +101,7 @@ Privacy Policy - Virgin Holidays
         VH.TOOLS.Init();
     });
 
-	$(document).ready(function() {
-		$('#a1_left').bubbletip($('#tip1_left'), {
-            deltaDirection: 'down',
-            animationDuration: 100,
-            offsetLeft: -20
-        });
-	
+	$(function() {
 		window.setTimeout(function() {
 			$('.skype_pnh_container').html('');
 			$('.skype_pnh_print_container').removeClass('skype_pnh_print_container');
@@ -112,39 +115,14 @@ Privacy Policy - Virgin Holidays
 <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 
 
-
-	<script>
-		pathArray = window.location.pathname.split( '/' );
-		var vPathFirst = pathArray[1]
-		var vPathSecond = pathArray[2]
-		
-		if		(vPathFirst == "info")
-			{
-			CMCategory = "info";
-			}
-		else if	(vPathFirst == "extras")
-			{
-			CMCategory = "extras";
-			}
-		else if (vPathFirst == "brochures")
-			{
-			CMCategory = vPathSecond + ":static";
-			}
-		else if (vPathFirst == "special_offers")
-			{
-			CMCategory = "Special Offer Page";
-			}
-		else if (vPathFirst == "my")
-			{
-			CMCategory = "my virgin holidays";
-			}
-		else
-			{
-			CMCategory = "replace";
-			}
-	</script>	
-
-		
+			<script>
+				pathArray = window.location.pathname.split( '/' );
+				var vPathFirst = pathArray[1]
+				var vPathSecond = pathArray[2]
+				if (vPathFirst == "brochures") { CMCategory = vPathSecond + " - Programme Pages"; }
+				else if (vPathFirst == "special_offers") { CMCategory = "Special Offer Page"; }
+				else { CMCategory = "Static Page"; }
+			</script>
 				
    
 		
@@ -155,15 +133,31 @@ Privacy Policy - Virgin Holidays
 		
 		
 		 <script type="text/javascript">
-		     var __stormJs = 'js.stormiq.com/sid1883_4.003.js';
+		     // var __stormJs = 'js.stormiq.com/sid1883_4.003.js';
         </script>
-        <script type="text/javascript" src="/_assets/js/dc_storm/track.js"></script>
-
-	<script type="text/javascript" language="javascript">	function zoomImage(imgsrc){window.open(imgsrc,"zoomImageWindow","width=600,height=400");}</script></head>
-	<body id="ctl00_bodytag">
+        
+        <script type="text/javascript" language="javascript">	function zoomImage(imgsrc){window.open(imgsrc,"zoomImageWindow","width=600,height=400");}</script><meta id="format-detection" name="format-detection" content="telephone=no"></head>
+	<body id="ctl00_bodytag" style="background-image:url(/_assets/images/homepage/background_5.png);">
 		<form name="aspnetForm" method="post" action="default.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTg4MTAyMTU0OA9kFgJmD2QWBAIBD2QWAgILD2QWAmYPFQFBaHR0cDovL3d3dy52aXJnaW5ob2xpZGF5cy5jby51ay9pbmZvL2ltcG9ydGFudC9wcml2YWN5X3N0YXRlbWVudC9kAgMPZBYCAgEPZBYCAhIPZBYCAgEPZBYEZg8WAh4HVmlzaWJsZWhkAgMPZBYCZg9kFgJmD2QWCgIBD2QWBAICDxAPFgQeC18hRGF0YUJvdW5kZx4HRW5hYmxlZGhkEBUOB0Zsb3JpZGEJQ2FyaWJiZWFuA1VTQQVFZ3lwdA9DZW50cmFsIEFtZXJpY2EGTWV4aWNvBkNhbmFkYQZIYXdhaWkLTWlkZGxlIEVhc3QMSW5kaWFuIE9jZWFuBkFmcmljYQhGYXIgRWFzdB1Ta2kgSG9saWRheXMgKFVTQSBhbmQgQ2FuYWRhKRlBdXN0cmFsaWEgYW5kIE5ldyBaZWFsYW5kFQ4HRmxvcmlkYQlDYXJpYmJlYW4DVVNBBUVneXB0D0NlbnRyYWwgQW1lcmljYQZNZXhpY28GQ2FuYWRhBkhhd2FpaQtNaWRkbGUgRWFzdAxJbmRpYW4gT2NlYW4GQWZyaWNhCEZhciBFYXN0HVNraSBIb2xpZGF5cyAoVVNBIGFuZCBDYW5hZGEpGUF1c3RyYWxpYSBhbmQgTmV3IFplYWxhbmQUKwMOZ2dnZ2dnZ2dnZ2dnZ2cWAWZkAgQPEA8WBh4EUm93cwIBHg9FbmFibGVPcHRHcm91cHNnHwJoZA8WI2YCAQICAgMCBAIFAgYCBwIIAgkCCgILAgwCDQIOAg8CEAIRAhICEwIUAhUCFgIXAhgCGQIaAhsCHAIdAh4CHwIgAiECIhYjFCsAAw8FC0FsbCBPcmxhbmRvBQYzMzAuT1IFB09ybGFuZG9kFCsAAw8FEExha2UgQnVlbmEgVmlzdGEFBjMzMi5PUgUHT3JsYW5kb2QUKwADDwUTSW50ZXJuYXRpb25hbCBEcml2ZQUGMzMwLk9SBQdPcmxhbmRvZBQrAAMPBQlLaXNzaW1tZWUFBjMyOS5PUgUHT3JsYW5kb2QUKwADDwUGRGlzbmV5BQYzMjcuT1IFB09ybGFuZG9kFCsAAw8FCVVuaXZlcnNhbAUGMzMxLk9SBQdPcmxhbmRvZBQrAAMPBRRHcmFuZGUgTGFrZXMgT3JsYW5kbwUHMTM4My5PUgUHT3JsYW5kb2QUKwADDwUIU2VhV29ybGQFBzIzMDQuT1IFB09ybGFuZG9kFCsAAw8FDkZsb3JpZGEgVmlsbGFzBQcxMjkwLk9SBQ5GbG9yaWRhIFZpbGxhc2QUKwADDwURR3VsZiBDb2FzdCBWaWxsYXMFBzE4NDUuRk0FDkZsb3JpZGEgVmlsbGFzZBQrAAMPBRBMYWtlIEJ1ZW5hIFZpc3RhBQcyMDA5Lk9SBRVGbG9yaWRhIFNlbGYgQ2F0ZXJpbmdkFCsAAw8FE0ludGVybmF0aW9uYWwgRHJpdmUFBzE5OTkuT1IFFUZsb3JpZGEgU2VsZiBDYXRlcmluZ2QUKwADDwUJS2lzc2ltbWVlBQcxOTkyLk9SBRVGbG9yaWRhIFNlbGYgQ2F0ZXJpbmdkFCsAAw8FF05hcGxlcyBhbmQgTWFyY28gSXNsYW5kBQcxOTg4Lk5NBRVGbG9yaWRhIFNlbGYgQ2F0ZXJpbmdkFCsAAw8FDEluZGlhbiBSb2NrcwUHMTk5OC5DVwUVRmxvcmlkYSBTZWxmIENhdGVyaW5nZBQrAAMPBQ9UcmVhc3VyZSBJc2xhbmQFBzIwMDQuU1AFFUZsb3JpZGEgU2VsZiBDYXRlcmluZ2QUKwADDwUWU2FyYXNvdGEgYW5kIEJyYWRlbnRvbgUHMjAwNS5TUwUVRmxvcmlkYSBTZWxmIENhdGVyaW5nZBQrAAMPBRtDbGVhcndhdGVyIGFuZCBJbmRpYW4gUm9ja3MFBzE2NzQuQ1cFCkd1bGYgQ29hc3RkFCsAAw8FIVN0IFBldGUgQmVhY2ggYW5kIFRyZWFzdXJlIElzbGFuZAUHMjAyNy5TUAUKR3VsZiBDb2FzdGQUKwADDwUXTmFwbGVzIGFuZCBNYXJjbyBJc2xhbmQFBzE0OTUuTk0FCkd1bGYgQ29hc3RkFCsAAw8FE1NhbmliZWwgYW5kIENhcHRpdmEFBzE0OTQuRk0FCkd1bGYgQ29hc3RkFCsAAw8FCkZvcnQgTXllcnMFBzE0OTQuRk0FCkd1bGYgQ29hc3RkFCsAAw8FFlNhcmFzb3RhIGFuZCBCcmFkZW50b24FBzE2NzguU1MFCkd1bGYgQ29hc3RkFCsAAw8FDkJvbml0YSBTcHJpbmdzBQcxNDk2Lk5NBQpHdWxmIENvYXN0ZBQrAAMPBQtNaWFtaSBCZWFjaAUGMzM0LkZIBQVNaWFtaWQUKwADDwULU291dGggQmVhY2gFBzIwMzkuU1UFBU1pYW1pZBQrAAMPBQhBdmVudHVyYQUHMjAzOC5WUAUFTWlhbWlkFCsAAw8FDEtleSBCaXNjYXluZQUHMjA0MC5LQgUFTWlhbWlkFCsAAw8FDFN0IEF1Z3VzdGluZQUHMTQ4Ny5BRwUKR29sZCBDb2FzdGQUKwADDwUPRm9ydCBMYXVkZXJkYWxlBQcxNjc5LkZMBQpHb2xkIENvYXN0ZBQrAAMPBQdEYXl0b25hBQcxNDg4LkRUBQpHb2xkIENvYXN0ZBQrAAMPBQhEdWNrIEtleQUHMTMwMi5EWQUMRmxvcmlkYSBLZXlzZBQrAAMPBQlLZXkgTGFyZ28FBjM0My5LTAUMRmxvcmlkYSBLZXlzZBQrAAMPBQhLZXkgVmFjYQUHMTUxMC5WSwUMRmxvcmlkYSBLZXlzZBQrAAMPBQhLZXkgV2VzdAUGMzQ2LktXBQxGbG9yaWRhIEtleXNkFgFmZAIDD2QWAgICDxAPFgIfAWdkEBUFDkxvbmRvbiBHYXR3aWNrCk1hbmNoZXN0ZXIJRWRpbmJ1cmdoB0dsYXNnb3cKQmlybWluZ2hhbRUFA0xHVwNNQU4DRURJA0dMQQNCSFgUKwMFZ2dnZ2cWAWZkAgUPZBYGZg8UKwIEBYwSW3siRnJvbUFpcnBvcnRDb2RlIjoiTEdXIiwiVG9BaXJwb3J0Q29kZSI6Ik1DTyIsIkZyb21BaXJwb3J0TmFtZSI6IkxvbmRvbiBHYXR3aWNrIiwiVG9BaXJwb3J0TmFtZSI6Ik9ybGFuZG8iLCJSb3V0ZU5vdGVzIjoiIiwiQWlybGluZUlEIjoxLCJSb3V0ZUlEIjoxMiwiUm91dGVEaXNwbGF5U2VxIjo1MCwiSXNBY3RpdmUiOnRydWUsIklzT3V0TW9uZGF5Ijp0cnVlLCJJc091dFR1ZXNkYXkiOnRydWUsIklzT3V0V2VkbmVzZGF5Ijp0cnVlLCJJc091dFRodXJzZGF5Ijp0cnVlLCJJc091dEZyaWRheSI6dHJ1ZSwiSXNPdXRTYXR1cmRheSI6dHJ1ZSwiSXNPdXRTdW5kYXkiOnRydWUsIklzSW5Nb25kYXkiOnRydWUsIklzSW5UdWVzZGF5Ijp0cnVlLCJJc0luV2VkbmVzZGF5Ijp0cnVlLCJJc0luVGh1cnNkYXkiOnRydWUsIklzSW5GcmlkYXkiOnRydWUsIklzSW5TYXR1cmRheSI6dHJ1ZSwiSXNJblN1bmRheSI6dHJ1ZX0seyJGcm9tQWlycG9ydENvZGUiOiJNQU4iLCJUb0FpcnBvcnRDb2RlIjoiTUNPIiwiRnJvbUFpcnBvcnROYW1lIjoiTWFuY2hlc3RlciIsIlRvQWlycG9ydE5hbWUiOiJPcmxhbmRvIiwiUm91dGVOb3RlcyI6IiIsIkFpcmxpbmVJRCI6MSwiUm91dGVJRCI6NTcsIlJvdXRlRGlzcGxheVNlcSI6MTAwLCJJc0FjdGl2ZSI6dHJ1ZSwiSXNPdXRNb25kYXkiOnRydWUsIklzT3V0VHVlc2RheSI6dHJ1ZSwiSXNPdXRXZWRuZXNkYXkiOnRydWUsIklzT3V0VGh1cnNkYXkiOnRydWUsIklzT3V0RnJpZGF5Ijp0cnVlLCJJc091dFNhdHVyZGF5Ijp0cnVlLCJJc091dFN1bmRheSI6dHJ1ZSwiSXNJbk1vbmRheSI6dHJ1ZSwiSXNJblR1ZXNkYXkiOnRydWUsIklzSW5XZWRuZXNkYXkiOnRydWUsIklzSW5UaHVyc2RheSI6dHJ1ZSwiSXNJbkZyaWRheSI6dHJ1ZSwiSXNJblNhdHVyZGF5Ijp0cnVlLCJJc0luU3VuZGF5Ijp0cnVlfSx7IkZyb21BaXJwb3J0Q29kZSI6IkdMQSIsIlRvQWlycG9ydENvZGUiOiJNQ08iLCJGcm9tQWlycG9ydE5hbWUiOiJHbGFzZ293IiwiVG9BaXJwb3J0TmFtZSI6Ik9ybGFuZG8iLCJSb3V0ZU5vdGVzIjoiIiwiQWlybGluZUlEIjoxLCJSb3V0ZUlEIjoyNTAsIlJvdXRlRGlzcGxheVNlcSI6MTAwLCJJc0FjdGl2ZSI6dHJ1ZSwiSXNPdXRNb25kYXkiOmZhbHNlLCJJc091dFR1ZXNkYXkiOmZhbHNlLCJJc091dFdlZG5lc2RheSI6ZmFsc2UsIklzT3V0VGh1cnNkYXkiOmZhbHNlLCJJc091dEZyaWRheSI6dHJ1ZSwiSXNPdXRTYXR1cmRheSI6dHJ1ZSwiSXNPdXRTdW5kYXkiOnRydWUsIklzSW5Nb25kYXkiOmZhbHNlLCJJc0luVHVlc2RheSI6ZmFsc2UsIklzSW5XZWRuZXNkYXkiOmZhbHNlLCJJc0luVGh1cnNkYXkiOmZhbHNlLCJJc0luRnJpZGF5Ijp0cnVlLCJJc0luU2F0dXJkYXkiOnRydWUsIklzSW5TdW5kYXkiOnRydWV9LHsiRnJvbUFpcnBvcnRDb2RlIjoiRURJIiwiVG9BaXJwb3J0Q29kZSI6Ik1DTyIsIkZyb21BaXJwb3J0TmFtZSI6IkVkaW5idXJnaCIsIlRvQWlycG9ydE5hbWUiOiJPcmxhbmRvIiwiUm91dGVOb3RlcyI6IiIsIkFpcmxpbmVJRCI6MSwiUm91dGVJRCI6MzQzLCJSb3V0ZURpc3BsYXlTZXEiOjEwMCwiSXNBY3RpdmUiOnRydWUsIklzT3V0TW9uZGF5Ijp0cnVlLCJJc091dFR1ZXNkYXkiOnRydWUsIklzT3V0V2VkbmVzZGF5Ijp0cnVlLCJJc091dFRodXJzZGF5Ijp0cnVlLCJJc091dEZyaWRheSI6dHJ1ZSwiSXNPdXRTYXR1cmRheSI6dHJ1ZSwiSXNPdXRTdW5kYXkiOnRydWUsIklzSW5Nb25kYXkiOnRydWUsIklzSW5UdWVzZGF5Ijp0cnVlLCJJc0luV2VkbmVzZGF5Ijp0cnVlLCJJc0luVGh1cnNkYXkiOnRydWUsIklzSW5GcmlkYXkiOnRydWUsIklzSW5TYXR1cmRheSI6dHJ1ZSwiSXNJblN1bmRheSI6dHJ1ZX0seyJGcm9tQWlycG9ydENvZGUiOiJCSFgiLCJUb0FpcnBvcnRDb2RlIjoiTUNPIiwiRnJvbUFpcnBvcnROYW1lIjoiQmlybWluZ2hhbSIsIlRvQWlycG9ydE5hbWUiOiJPcmxhbmRvIiwiUm91dGVOb3RlcyI6IiIsIkFpcmxpbmVJRCI6MSwiUm91dGVJRCI6MzQwLCJSb3V0ZURpc3BsYXlTZXEiOjEwMCwiSXNBY3RpdmUiOnRydWUsIklzT3V0TW9uZGF5Ijp0cnVlLCJJc091dFR1ZXNkYXkiOnRydWUsIklzT3V0V2VkbmVzZGF5Ijp0cnVlLCJJc091dFRodXJzZGF5Ijp0cnVlLCJJc091dEZyaWRheSI6dHJ1ZSwiSXNPdXRTYXR1cmRheSI6dHJ1ZSwiSXNPdXRTdW5kYXkiOnRydWUsIklzSW5Nb25kYXkiOnRydWUsIklzSW5UdWVzZGF5Ijp0cnVlLCJJc0luV2VkbmVzZGF5Ijp0cnVlLCJJc0luVGh1cnNkYXkiOnRydWUsIklzSW5GcmlkYXkiOnRydWUsIklzSW5TYXR1cmRheSI6dHJ1ZSwiSXNJblN1bmRheSI6dHJ1ZX1dBQ9Nb24gMjYgQXByIDIwMTAFD1R1ZSAzMSBEZWMgMjAxM2RkAgMPEA8WAh8BZ2QQFRoIMyBuaWdodHMINCBuaWdodHMINSBuaWdodHMINiBuaWdodHMINyBuaWdodHMIOCBuaWdodHMIOSBuaWdodHMJMTAgbmlnaHRzCTExIG5pZ2h0cwkxMiBuaWdodHMJMTMgbmlnaHRzCTE0IG5pZ2h0cwkxNSBuaWdodHMJMTYgbmlnaHRzCTE3IG5pZ2h0cwkxOCBuaWdodHMJMTkgbmlnaHRzCTIwIG5pZ2h0cwkyMSBuaWdodHMJMjIgbmlnaHRzCTIzIG5pZ2h0cwkyNCBuaWdodHMJMjUgbmlnaHRzCTI2IG5pZ2h0cwkyNyBuaWdodHMJMjggbmlnaHRzFRoBMwE0ATUBNgE3ATgBOQIxMAIxMQIxMgIxMwIxNAIxNQIxNgIxNwIxOAIxOQIyMAIyMQIyMgIyMwIyNAIyNQIyNgIyNwIyOBQrAxpnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2RkAgkPEA8WAh8BZ2QPFhpmAgECAgIDAgQCBQIGAgcCCAIJAgoCCwIMAg0CDgIPAhACEQISAhMCFAIVAhYCFwIYAhkWGhAFCDMgbmlnaHRzBQEzZxAFCDQgbmlnaHRzBQE0ZxAFCDUgbmlnaHRzBQE1ZxAFCDYgbmlnaHRzBQE2ZxAFCDcgbmlnaHRzBQE3ZxAFCDggbmlnaHRzBQE4ZxAFCDkgbmlnaHRzBQE5ZxAFCTEwIG5pZ2h0cwUCMTBnEAUJMTEgbmlnaHRzBQIxMWcQBQkxMiBuaWdodHMFAjEyZxAFCTEzIG5pZ2h0cwUCMTNnEAUJMTQgbmlnaHRzBQIxNGcQBQkxNSBuaWdodHMFAjE1ZxAFCTE2IG5pZ2h0cwUCMTZnEAUJMTcgbmlnaHRzBQIxN2cQBQkxOCBuaWdodHMFAjE4ZxAFCTE5IG5pZ2h0cwUCMTlnEAUJMjAgbmlnaHRzBQIyMGcQBQkyMSBuaWdodHMFAjIxZxAFCTIyIG5pZ2h0cwUCMjJnEAUJMjMgbmlnaHRzBQIyM2cQBQkyNCBuaWdodHMFAjI0ZxAFCTI1IG5pZ2h0cwUCMjVnEAUJMjYgbmlnaHRzBQIyNmcQBQkyNyBuaWdodHMFAjI3ZxAFCTI4IG5pZ2h0cwUCMjhnZGQCBw9kFiZmDxUFBFBheDEEUGF4MQRQYXgxBFBheDEEUGF4MWQCAQ8PFgIeDEVycm9yTWVzc2FnZQWEATxkaXYgY2xhc3M9J2Jvb2tpbmdlcnJvcic+VG8gYm9vayBvbmxpbmUgcGxlYXNlIHNlbGVjdCBhIG1heGltdW0gb2YgOCBwYXNzZW5nZXJzLiBGb3IgYmlnZ2VyIGdyb3VwcyBwbGVhc2UgY2FsbCAwODQ0IDU3MyA4MzQ1LjwvZGl2PmRkAgIPFQEEUGF4MWQCAw8QDxYCHwFnZBAVCAExATIBMwE0ATUBNgE3ATgVCAExATIBMwE0ATUBNgE3ATgUKwMIZ2dnZ2dnZ2dkZAIHDxAPFgIfAWcWAh4Ib25jaGFuZ2UFTVNob3dDaGlsZEFnZXMoJ2N0bDAwX0Jvb2tpbmdGb3JtMV9HZW9ncmFwaGljYWxTZWFyY2hCRl9QYXgxX0NoaWxkUGF4JywnUGF4MScpEBUIATABMQEyATMBNAE1ATYBNxUIATABMQEyATMBNAE1ATYBNxQrAwhnZ2dnZ2dnZ2RkAgkPZBYCZg8VAQIxOGQCCw8QDxYCHwFnZBAVCAEwATEBMgEzATQBNQE2ATcVCAEwATEBMgEzATQBNQE2ATcUKwMIZ2dnZ2dnZ2dkZAIND2QWAmYPFQEBMmQCDg8VAQRQYXgxZAIPDw8WAh8FBWA8ZGl2IGNsYXNzPSJib29raW5nZXJyb3IiPlBsZWFzZSBzdXBwbHkgYWdlcyBiZXR3ZWVuIDIgYW5kIDE3IChpbmNsdXNpdmUpIGZvciBhbGwgY2hpbGRyZW48L2Rpdj5kZAIQDxUDBFBheDEEUGF4MQRQYXgxZAIUDxUBBFBheDFkAhgPFQEEUGF4MWQCHA8VAQRQYXgxZAIgDxUBBFBheDFkAiQPFQEEUGF4MWQCKA8VAQRQYXgxZAIsDxUBBFBheDFkAjAPFQkEUGF4MQRQYXgxBFBheDEEUGF4MQRQYXgxBFBheDEEUGF4MQRQYXgxBFBheDFkAgwPFQEAZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WBAUpY3RsMDAkSGVhZGVyMSRTaWduSW5TY3JlZW5zMSRtYXJrZXRpbmdZZXMFKWN0bDAwJEhlYWRlcjEkU2lnbkluU2NyZWVuczEkbWFya2V0aW5nWWVzBShjdGwwMCRIZWFkZXIxJFNpZ25JblNjcmVlbnMxJG1hcmtldGluZ05vBThjdGwwMCRCb29raW5nRm9ybTEkR2VvZ3JhcGhpY2FsU2VhcmNoQkYkUmVnaW9uQm9va0J1dHRvblL3149O9VUO8dHm8SyWSLffPV+j">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTg4MTAyMTU0OA9kFgJmD2QWBAIBD2QWBAICDxYCHgdWaXNpYmxlaGQCEg9kFgJmDxUBQWh0dHA6Ly93d3cudmlyZ2luaG9saWRheXMuY28udWsvaW5mby9pbXBvcnRhbnQvcHJpdmFjeV9zdGF0ZW1lbnQvZAIDD2QWAgIBD2QWBAIUD2QWAgIBD2QWBGYPFgIfAGhkAgMPZBYCZg9kFgJmD2QWDAIBD2QWBAICDxAPFgQeC18hRGF0YUJvdW5kZx4HRW5hYmxlZGhkEBUNCUNhcmliYmVhbgZNZXhpY28HRmxvcmlkYQNVU0ELTWlkZGxlIEVhc3QMSW5kaWFuIE9jZWFuBkFmcmljYQhGYXIgRWFzdAZDYW5hZGEGSGF3YWlpGVNraSBIb2xpZGF5cyAoVVNBL0NhbmFkYSkFRWd5cHQZQXVzdHJhbGlhIGFuZCBOZXcgWmVhbGFuZBUNCUNhcmliYmVhbgZNZXhpY28HRmxvcmlkYQNVU0ELTWlkZGxlIEVhc3QMSW5kaWFuIE9jZWFuBkFmcmljYQhGYXIgRWFzdAZDYW5hZGEGSGF3YWlpGVNraSBIb2xpZGF5cyAoVVNBL0NhbmFkYSkFRWd5cHQZQXVzdHJhbGlhIGFuZCBOZXcgWmVhbGFuZBQrAw1nZ2dnZ2dnZ2dnZ2dnFgFmZAIEDxAPFgYeBFJvd3MCAR4PRW5hYmxlT3B0R3JvdXBzZx8CaGQPFg5mAgECAgIDAgQCBQIGAgcCCAIJAgoCCwIMAg0WDhQrAAMPBQ1BbGwgQ2FyaWJiZWFuBQcyMzA5LkMtZGQUKwADDwUIQmFyYmFkb3MFBjI4Ny5CQWRkFCsAAw8FB0FudGlndWEFBjI4NS5BTmRkFCsAAw8FCFN0IEx1Y2lhBQYyOTQuU0xkZBQrAAMPBQdKYW1haWNhBQYyOTIuSk1kZBQrAAMPBQZUb2JhZ28FBjI5Ny5UVGRkFCsAAw8FB0dyZW5hZGEFBjI5MC5HTmRkFCsAAw8FCFZhcmFkZXJvBQYyODkuVkEFBEN1YmFkFCsAAw8FB0ppYmFjb2EFBjI4OS5KQwUEQ3ViYWQUKwADDwUGSGF2YW5hBQYyODkuSEYFBEN1YmFkFCsAAw8FCFN0IEx1Y2lhBQY4OTYuU0wFE1NhbmRhbHMgYW5kIEJlYWNoZXNkFCsAAw8FB0FudGlndWEFBjg5NS5BTgUTU2FuZGFscyBhbmQgQmVhY2hlc2QUKwADDwUHSmFtYWljYQUGODk5LkpNBRNTYW5kYWxzIGFuZCBCZWFjaGVzZBQrAAMPBQRDdWJhBQY4OTQuVkEFE1NhbmRhbHMgYW5kIEJlYWNoZXNkFgFmZAIDD2QWAgICDxAPFgIfAWdkEBUCDkxvbmRvbiBHYXR3aWNrCk1hbmNoZXN0ZXIVAgNMR1cDTUFOFCsDAmdnFgFmZAIFD2QWBmYPFCsCBAXSCFt7IkZyb21BaXJwb3J0Q29kZSI6IkxHVyIsIlRvQWlycG9ydENvZGUiOiJDQk4iLCJGcm9tQWlycG9ydE5hbWUiOiJMb25kb24gR2F0d2ljayIsIlRvQWlycG9ydE5hbWUiOiJDYXJpYmJlYW4iLCJSb3V0ZU5vdGVzIjoiIiwiUm91dGVJZCI6NDc3LCJSb3V0ZURpc3BsYXlTZXEiOjEwMCwiSXNBY3RpdmUiOnRydWUsIkZsaWdodHMiOlt7IklkIjo5MCwiU3RhcnREYXRlIjoiXC9EYXRlKC02MjEzNTU5NjgwMDAwMClcLyIsIkVuZERhdGUiOiJcL0RhdGUoLTYyMTM1NTk2ODAwMDAwKVwvIiwiSXNPdXRNb25kYXkiOnRydWUsIklzT3V0VHVlc2RheSI6dHJ1ZSwiSXNPdXRXZWRuZXNkYXkiOnRydWUsIklzT3V0VGh1cnNkYXkiOnRydWUsIklzT3V0RnJpZGF5Ijp0cnVlLCJJc091dFNhdHVyZGF5Ijp0cnVlLCJJc091dFN1bmRheSI6dHJ1ZSwiSXNJbk1vbmRheSI6dHJ1ZSwiSXNJblR1ZXNkYXkiOnRydWUsIklzSW5XZWRuZXNkYXkiOnRydWUsIklzSW5UaHVyc2RheSI6dHJ1ZSwiSXNJbkZyaWRheSI6dHJ1ZSwiSXNJblNhdHVyZGF5Ijp0cnVlLCJJc0luU3VuZGF5Ijp0cnVlfV19LHsiRnJvbUFpcnBvcnRDb2RlIjoiTUFOIiwiVG9BaXJwb3J0Q29kZSI6IkNCTiIsIkZyb21BaXJwb3J0TmFtZSI6Ik1hbmNoZXN0ZXIiLCJUb0FpcnBvcnROYW1lIjoiQ2FyaWJiZWFuIiwiUm91dGVOb3RlcyI6IiIsIlJvdXRlSWQiOjQ3OCwiUm91dGVEaXNwbGF5U2VxIjoxMDAsIklzQWN0aXZlIjp0cnVlLCJGbGlnaHRzIjpbeyJJZCI6MjU3LCJTdGFydERhdGUiOiJcL0RhdGUoLTYyMTM1NTk2ODAwMDAwKVwvIiwiRW5kRGF0ZSI6IlwvRGF0ZSgtNjIxMzU1OTY4MDAwMDApXC8iLCJJc091dE1vbmRheSI6dHJ1ZSwiSXNPdXRUdWVzZGF5Ijp0cnVlLCJJc091dFdlZG5lc2RheSI6dHJ1ZSwiSXNPdXRUaHVyc2RheSI6dHJ1ZSwiSXNPdXRGcmlkYXkiOnRydWUsIklzT3V0U2F0dXJkYXkiOnRydWUsIklzT3V0U3VuZGF5Ijp0cnVlLCJJc0luTW9uZGF5Ijp0cnVlLCJJc0luVHVlc2RheSI6dHJ1ZSwiSXNJbldlZG5lc2RheSI6dHJ1ZSwiSXNJblRodXJzZGF5Ijp0cnVlLCJJc0luRnJpZGF5Ijp0cnVlLCJJc0luU2F0dXJkYXkiOnRydWUsIklzSW5TdW5kYXkiOnRydWV9XX1dBQ9TdW4gMDEgQXByIDIwMTIFD1dlZCAzMSBEZWMgMjAxNGRkAgMPEA8WAh8BZ2QQFRoIMyBuaWdodHMINCBuaWdodHMINSBuaWdodHMINiBuaWdodHMINyBuaWdodHMIOCBuaWdodHMIOSBuaWdodHMJMTAgbmlnaHRzCTExIG5pZ2h0cwkxMiBuaWdodHMJMTMgbmlnaHRzCTE0IG5pZ2h0cwkxNSBuaWdodHMJMTYgbmlnaHRzCTE3IG5pZ2h0cwkxOCBuaWdodHMJMTkgbmlnaHRzCTIwIG5pZ2h0cwkyMSBuaWdodHMJMjIgbmlnaHRzCTIzIG5pZ2h0cwkyNCBuaWdodHMJMjUgbmlnaHRzCTI2IG5pZ2h0cwkyNyBuaWdodHMJMjggbmlnaHRzFRoBMwE0ATUBNgE3ATgBOQIxMAIxMQIxMgIxMwIxNAIxNQIxNgIxNwIxOAIxOQIyMAIyMQIyMgIyMwIyNAIyNQIyNgIyNwIyOBQrAxpnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2RkAgkPEA8WAh8BZ2QPFhpmAgECAgIDAgQCBQIGAgcCCAIJAgoCCwIMAg0CDgIPAhACEQISAhMCFAIVAhYCFwIYAhkWGhAFCDMgbmlnaHRzBQEzZxAFCDQgbmlnaHRzBQE0ZxAFCDUgbmlnaHRzBQE1ZxAFCDYgbmlnaHRzBQE2ZxAFCDcgbmlnaHRzBQE3ZxAFCDggbmlnaHRzBQE4ZxAFCDkgbmlnaHRzBQE5ZxAFCTEwIG5pZ2h0cwUCMTBnEAUJMTEgbmlnaHRzBQIxMWcQBQkxMiBuaWdodHMFAjEyZxAFCTEzIG5pZ2h0cwUCMTNnEAUJMTQgbmlnaHRzBQIxNGcQBQkxNSBuaWdodHMFAjE1ZxAFCTE2IG5pZ2h0cwUCMTZnEAUJMTcgbmlnaHRzBQIxN2cQBQkxOCBuaWdodHMFAjE4ZxAFCTE5IG5pZ2h0cwUCMTlnEAUJMjAgbmlnaHRzBQIyMGcQBQkyMSBuaWdodHMFAjIxZxAFCTIyIG5pZ2h0cwUCMjJnEAUJMjMgbmlnaHRzBQIyM2cQBQkyNCBuaWdodHMFAjI0ZxAFCTI1IG5pZ2h0cwUCMjVnEAUJMjYgbmlnaHRzBQIyNmcQBQkyNyBuaWdodHMFAjI3ZxAFCTI4IG5pZ2h0cwUCMjhnZGQCBw9kFiZmDxUCBFBheDEEUGF4MWQCAQ8PFgIeDEVycm9yTWVzc2FnZQWEATxkaXYgY2xhc3M9J2Jvb2tpbmdlcnJvcic+VG8gYm9vayBvbmxpbmUgcGxlYXNlIHNlbGVjdCBhIG1heGltdW0gb2YgOCBwYXNzZW5nZXJzLiBGb3IgYmlnZ2VyIGdyb3VwcyBwbGVhc2UgY2FsbCAwODQ0IDU3MyA4MzQ1LjwvZGl2PmRkAgIPFQEEUGF4MWQCAw8QDxYCHwFnZBAVCAExATIBMwE0ATUBNgE3ATgVCAExATIBMwE0ATUBNgE3ATgUKwMIZ2dnZ2dnZ2dkZAIHDxAPFgIfAWcWAh4Ib25jaGFuZ2UFTVNob3dDaGlsZEFnZXMoJ2N0bDAwX0Jvb2tpbmdGb3JtMV9HZW9ncmFwaGljYWxTZWFyY2hCRl9QYXgxX0NoaWxkUGF4JywnUGF4MScpEBUIATABMQEyATMBNAE1ATYBNxUIATABMQEyATMBNAE1ATYBNxQrAwhnZ2dnZ2dnZ2RkAgkPZBYCZg8VAQIxOGQCCw8QDxYCHwFnZBAVCAEwATEBMgEzATQBNQE2ATcVCAEwATEBMgEzATQBNQE2ATcUKwMIZ2dnZ2dnZ2dkZAIND2QWAmYPFQEBMmQCDg8VAQRQYXgxZAIPDw8WAh8FBWA8ZGl2IGNsYXNzPSJib29raW5nZXJyb3IiPlBsZWFzZSBzdXBwbHkgYWdlcyBiZXR3ZWVuIDIgYW5kIDE3IChpbmNsdXNpdmUpIGZvciBhbGwgY2hpbGRyZW48L2Rpdj5kZAIQDxUDBFBheDEEUGF4MQRQYXgxZAIUDxUBBFBheDFkAhgPFQEEUGF4MWQCHA8VAQRQYXgxZAIgDxUBBFBheDFkAiQPFQEEUGF4MWQCKA8VAQRQYXgxZAIsDxUBBFBheDFkAjAPFQsEUGF4MQRQYXgxBFBheDEEUGF4MQRQYXgxBFBheDEEUGF4MQRQYXgxBFBheDEEUGF4MQRQYXgxZAILD2QWAmYPFQIfaHR0cDovL3d3dy52aXJnaW5ob2xpZGF5cy5jby51ax9odHRwOi8vd3d3LnZpcmdpbmhvbGlkYXlzLmNvLnVrZAIODxUBAGQCGA9kFgJmDxYCHgtfIUl0ZW1Db3VudGZkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBThjdGwwMCRCb29raW5nRm9ybTEkR2VvZ3JhcGhpY2FsU2VhcmNoQkYkUmVnaW9uQm9va0J1dHRvbhksg40ET1Nf4+GCCYTZ/aoC6rIG">
 
+
+<script src="/_assets/js/pax.js" type="text/javascript"></script>
+		    
+
+
+<div class="page-tabs-container">
+    <div class="page-tabs-bg"></div>
+    <div class="page-tabs-content">
+        <ul class="page-tabs">
+            <li class="current"><a href="/" class="page-tab-link">Virgin Holidays</a></li>
+            <li><a href="http://www.virginholidayscruises.co.uk/" class="page-tab-link">Virgin Holidays Cruises</a></li>
+            <li><a href="http://www.virginholidaysjourneys.co.uk/" class="page-tab-link">Virgin Holidays Worldwide Journeys</a></li>
+            <li><a href="http://www.vhiphotels.co.uk/" class="page-tab-link last">Virgin Holidays + HIP hotels</a></li>
+        </ul>
+    </div>
+</div>
+		    
 			<div id="wrap">
 				<a name="wrap"></a>
 				
@@ -171,37 +165,50 @@ Privacy Policy - Virgin Holidays
 
 
 
-	<script type="text/javascript" src="/_assets/js/coremetrics/eluminate.js"></script>
-	<script type="text/javascript" src="/_assets/js/coremetrics/cmdatatagutils.js"></script>
-
  
   
 
  
 
-    <script type="text/javascript" language="javascript">    
-		    if (location.hostname=="www.virginholidays.co.uk") { cmSetProduction()} ;
-			var title = window.location.pathname;
-			var cmServerName = "W4";
-			if (title.charAt(title.length - 1) == "/")
-			{
-				title = title + "default.aspx"
-			}			
-            title = title.replace(/ - Virgin Holidays/,"");
-            if ( typeof(CMPageTitle)=="undefined") {CMPageTitle = title;}
-			if ( typeof(CMCategory)=="undefined") {CMCategory = 'null';}
-			if ( typeof(cmPageDetail)=="undefined") {cmPageDetail = "";}
-			if ( typeof(cmPageBackground)=="undefined") {cmPageBackground = "";}
-            if ( typeof(CMMethod)!="undefined") 
-            {
-                CMMethod(CMPageTitle, CMCategory);
-            }
-            else 
-            {
-                cmCreatePageviewTag(CMPageTitle, CMCategory, null, null,cmPageDetail+"-_-"+cmServerName+"-_-"+cmPageBackground);
-            } 
+    <script type="text/javascript">
+        window.universal_variable = {};
+        window.universal_variable.page = {};
+     
+		var title = window.location.pathname;
+		var cmServerName = "W2";
+		if (title.charAt(title.length - 1) == "/") {
+		    title = title + "default.aspx";
+		}			
+        title = title.replace(/ - Virgin Holidays/,"");
+        if (typeof(CMPageTitle)=="undefined") {CMPageTitle = title;}
+		if (typeof(CMCategory)=="undefined") {CMCategory = 'null';}
+		if (typeof(cmPageDetail)=="undefined") {cmPageDetail = "";}
+		if (typeof (cmPageBackground) == "undefined") { cmPageBackground = ""; }
+
+		if (typeof (CMHotelID) == "undefined") { CMHotelID = 'null'; }
+		if (typeof (CMHotelName) == "undefined") { CMHotelName = 'null'; }
+		if (typeof (CMProductType) == "undefined") { CMProductType = 'Browse Mode'; }
+		if (typeof (CMResort) == "undefined") { CMResort = 'null'; }
+		if (typeof (CMVRating) == "undefined") { CMVRating = 'null'; }
+		
+		window.universal_variable.page.category = CMCategory;
+		window.universal_variable.page.subcategory = CMPageTitle; 
         
     </script>
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    <script src="//d3c3cq33003psk.cloudfront.net/opentag-36389-86853.js" async=""></script>
+
 
 
 <!--[if IE 6]>
@@ -217,319 +224,202 @@ Privacy Policy - Virgin Holidays
 	</ul>
 </div>
 
+
 <div id="HeaderTop">
     
-    <div id="logoLink"><a href="/">Virgin Holidays</a></div>
-	<link rel="image_src" href="/_assets/images/ajax_loader.gif">
+    <div id="logoLink"><a href="/default.aspx">Virgin Holidays</a></div>
     
     
+    <ul class="mini-nav">
+        <li><a href="/info/about/contact_us/retail_stores.aspx" class="mini-nav-link">Store Finder</a></li>
+        
+        <li><a href="/info/about/cookies/" rel="nofollow" class="mini-nav-link">This site uses cookies</a></li>
+        <li><a href="https://book.virginholidays.co.uk/yourbooking/" class="mini-nav-link"><strong>View Booking</strong></a></li>
+        <li><a href="/info/about/customer_service/" class="mini-nav-link last"><strong>Customer support</strong></a></li>
+     
+    </ul>
     
+    
+    <div class="merch-area">
+    </div>
+   
 
-<script type="text/javascript">
-    var cmSignIn = 'cmCreatePageviewTag(\"Sign In\", \"Research tools\", null);';
-    var cmSignOut = 'cmCreatePageviewTag(\"Sign Out\", \"Research tools\", null);';
-    var cmRecentSearches = 'cmCreatePageviewTag(\"Recent Searches\", \"Research tools\", null);';
-    var cmSavedHotels = 'cmCreatePageviewTag(\"' + "Saved Hotels" + '\", \"' + "Research tools" + '\", null);';
-    var cmMyNotes = 'cmCreatePageviewTag(\"' + "My Notes" + '\", \"' + "Research tools" + '\", null);';
+    
+<script>
+        /*
+            we need to insert a meta tag into the head to prevent touch devices (read: Apple stuff)
+            from using numbers as links.
+            
+            <meta name="format-detection" content="telephone=no">
+        */
+        
+        var viewPortTag = document.createElement('meta');
+        viewPortTag.id = "format-detection";
+        viewPortTag.name = "format-detection";
+        viewPortTag.content = "telephone=no";
+        document.getElementsByTagName('head')[0].appendChild(viewPortTag);
 
 
-    var UpdateNumberOfSavedSearches = function(response) {
-        if (response.Success == true) {
-            $(".recent-searches .number").html("(" + response.Properties.Count + ")");
+
+        /*  now we need to fettle the actual layout to shift the background size a little and to remove the white gap
+            to the right hand side of mobile devices
+        */
+        
+        if ($.IsMobileBrowser()) {
+            $("#aspnetForm").css({
+                overflow: "hidden",
+                width:"998px"
+            });
+            $("body").css("width", "102%");
         }
-    };
 
-    var MyItineraryManager = "/_assets/dynamic/Modules/ProfileTools/WS/MyItineraryManager.asmx";
-    $(document).ready(function() {
-        if ($("#MyItinerary").attr("class") === "signed-in") {
-            $.getJSON($.CreateDotNetRemoteMethodCall(
-                    MyItineraryManager,
-                    "GetNumberOfSavedSearches",
-                    this.id
-                    ),
-                    null,
-                    UpdateNumberOfSavedSearches);
+
+        /* TP#16077 - Request the removal of the phone number on the Customer Support page ONLY
+            So, we'll check the url and remove it if necessary            
+        */
+        $(function() {
+            // check the url for signs of 'customer_service'
+            // should be something like, 'http://www.url.com/info/about/customer_service/'
+
+            if (window.location.href.indexOf('customer_service') > 0) {
+                $(".contact-info").hide();
+            }
+        });
+    </script>
+    
+    
+    
+    
+    <div class="contact-info foco-bold">
+        <p class="contact-strapline">Book online<br> or call</p>
+        <h2 class="contact-number foco-bold">0844<span style="display: none;">remove skype</span> 557 4321</h2>
+        <div class="contact-opening">
+            <p class="opening-times" id="OpeningTimes">
+                <strong>Open today: <span id="TodaysOpening" class="open-today">9:00am - 9:00pm</span></strong>
+            </p>
+            <div class="other-days-open" id="OtherDaysOpen">
+                <a href="#" class="other-days-link">Other days</a>
+                <ul class="other-days-list">
+                    <li><span class="day-open">Mon - Fri</span><span class="time-open">9:00am - 9:00pm</span></li>
+                    <li><span class="day-open">Saturday</span><span class="time-open">9:00am - 7:00pm</span></li>
+                    <li><span class="day-open">Sunday</span><span class="time-open">10:00am - 6:00pm</span></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+
+    // We need to check if the 'Agent Online'/live chat widget can be shown (depends upon the live chat stuff being available)
+    $(window).load(function() {
+
+        /* Opening times functionality [EDIT BELOW THIS LINE] ---------------------------------------------------------*/
+        /*
+        Editing instructions:
+        In order to change the opening times for a day of the week, simply make a change to the relevant day's 
+        time below. For example, if you wish to change Monday's time to open at 10am, instead of 9am, then 
+        just amend the text next to the '// Monday' comment so that it reads "10:00am - 9:00pm".
+                
+        For a one off, special opening time on a specific date, you can add dates to the 'specialTimes' variable.
+        Just make sure that they follow the format below:
+                    
+        "Date in the format dd/mm/yyyy" : "Opening Time",
+                    
+        e.g. for the 21st November 2012 you wish to display opening times of 11am until 3pm, the text would look like this
+                    
+        "21/11/2012" : "11:00am - 3:00pm"
+                    
+        FYI - it is important to include the quote marks in the correct places (i.e. where they are in the example)
+        and make sure that you include a ',' (comma) after each entry, Unless there is only one entry. Do not include a 
+        comma after the last entry.
+                
+        e.g. the following are CORRECT implementations:
+                    
+        MULTIPLE ENTRIES (NO COMMA ON LAST ENTRY)
+                    
+        "21/11/2012" : "11:00am - 3:00pm",
+        "31/01/2013" : "12:00pm - 9:00pm",
+        "05/02/2013" : "1:00am - 5:00pm"
+                    
+        SINGLE ENTRY (NO COMMA)
+                    
+        "21/11/2012" : "11:00am - 3:00pm"
+        
+        */
+        //new Date(new Date().setHours(0,0,0,0))
+        var today = new Date(),
+            todaysTime = "",
+            openingTimes = [
+                "10:00am - 6:00pm", // Sunday
+                "9:00am - 9:00pm", // Monday
+                "9:00am - 9:00pm", // Tuesday
+                "9:00am - 9:00pm", // Wednesday
+                "9:00am - 9:00pm", // Thursday
+                "9:00am - 9:00pm", // Friday
+                "9:00am - 7:00pm" // Saturday
+            ],
+            specialTimes = {
+                //"21/11/2012": "11:00am - 3:00pm"
+            };
+
+
+        // first, we need to find today's opening time from the array
+        todaysTime = openingTimes[today.getDay() == 0 ? 0 : today.getDay()];
+        today.setHours(0, 0, 0, 0);
+
+        // next, we need to process any special dates as they will override today's opening times
+        if (specialTimes) {
+            for (var key in specialTimes) {
+                if (specialTimes.hasOwnProperty(key)) {
+                    try {
+                        var dateParts = key.split('/');
+                        var specialDate = new Date(dateParts[2] + "-" + dateParts[1] + "-" + dateParts[0]);
+                        if (specialDate.toString() === today.toString()) {
+                            todaysTime = specialTimes[key];
+                        }
+                    } catch (e) { }
+                }
+            }
         }
+
+
+        // then we need to assign the correct opening time for today into the html
+        $("#TodaysOpening").html(todaysTime);
+
+
+        /* Opening times functionality [EDIT ABOVE THIS LINE] ---------------------------------------------------------*/
     });
 </script>
 
 
-<div class="vht-sign-out" style="display:none">
-    Hello 
-    <a href="/Profile/EditProfile.aspx"><strong></strong></a>! 
-    (<a id="vht-signOut" href="#">Sign out</a>)
+
+<div id="LiveChatPanelHeader" style="visibility:hidden;height:1px;">
+    <script>
+        var loadit = true;
+        
+        if(loadit)
+        {
+            function overrideLoad() {
+                if (sWOImage.width == 1) {
+                    // offline code
+                }
+                else {
+                    // online code
+                    var sWOOnline = document.createElement('img');
+                    sWOOnline.src = "/_assets/images/custservice/click_to_chat_button.png";
+                            
+                    sWOChatElement.href = sWOChatstart;
+                    sWOChatElement.target = "_blank";
+                    sWOChatElement.appendChild(sWOOnline); 
+                    sWOChatElement.onclick = sWOStartChat;
+                }
+            }
+            sWOImageLoaded = overrideLoad;
+            if (typeof sWOTrackPage == 'function') sWOTrackPage();
+        }
+    </script>
 </div>
-
-
-
-<ul id="vht-Tools" class="SignedOut"> 
-	
-	
-	<li>
-	    <a id="a1_left" href="#" class="nav-cookie">
-	        This site uses cookies
-	    </a>
-	</li>
-        
-	
-	<li class="vht-recent-searches">
-	    <a href="#" class="downArrow">
-	        Saved Searches <span class="no"></span>	        
-	    </a>
-	</li>
-	
-	
-	<li class="vht-saved-hotels">
-	    <a href="#" class="downArrow">
-	        Saved Hotels <span class="no"></span>	
-	    </a>
-    </li>
-    
-</ul>
-
-
- 
-    
-    
-    <div id="vht-ToolsOverlay" style="display:none;">
-        
-        
-        <div id="vht-closeTools">
-            <a href="#">Close</a>
-        </div>
-        
-        
-        
-<div id="vht-SignInScreen" class="screen">
-      
-    
-    <div id="vht-savedSearchesIntro">
-        <div class="arrow"></div>
-        <h3 class="inv "><img src="/dynamichtag.aspx?w=450&amp;s=18&amp;c=000000&amp;hoffset=-3&amp;caption=Sign+in+to+save+your+searches" alt="Sign in to save your searches"><span>Sign in to save your searches</span></h3>
-        <p>We'll store them here for quick &amp; easy access so you can come back &amp; make one-click searches without 
-        having to enter all the details again.</p>
-    </div>
-    
-              
-    <div id="vht-savedHotelsIntro">
-        <div class="arrow"></div>
-        <h3 class="inv "><img src="/dynamichtag.aspx?w=450&amp;s=18&amp;c=000000&amp;hoffset=-3&amp;caption=Sign+in+to+save+your+hotels" alt="Sign in to save your hotels"><span>Sign in to save your hotels</span></h3>
-        <p>We'll store them here for quick &amp; easy access so you can come back &amp; find them with a single click.
-        Already registered? Sign in now</p>
-    </div>
-    
-         
-    <div class="vht-emailAndPass">        
-        <table>
-            <tbody><tr>
-                <td>
-                    <label for="signin_emailaddress"> Email address</label>
-                    <input type="text" name="signin_emailaddress" id="signin_emailaddress">
-                </td>
-                <td>
-                    <label for="signin_password">Password</label>
-                    <input type="password" name="signin_password" id="signin_password">
-                </td>
-                <td width="100">
-                    <a id="vht-signIn" href="#" class="sign-in">Sign in</a>
-                    <span id="vht-signingIn" style="display:none;"><img src="/_assets/images/icons/ajax_loader.gif"></span>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <input type="checkbox" id="signin_remember">
-                    <label for="signin_remember" class="rememberMe">Remember me</label>
-                </td>
-                <td>
-                    <a id="vht-forgotPassword" href="#">Forgot Password?</a>
-                </td>
-                <td>
-                    &nbsp;
-                </td>
-            </tr>
-            <tr>
-                <td id="Td2" colspan="3">
-                &nbsp;
-                </td>
-                </tr>
-            <tr>
-                <td id="vht-signInErrors" colspan="3">
-                     <p>This information will be stored as a cookie - <a href="/info/about/cookies/">Read more about cookies</a></p>
-                </td>
-            </tr>
-            
-            <tr>
-                <td id="Td1" colspan="3" style="display:none;">
-                     <p class="vht-error"><strong>Sorry, invalid email address or password.</strong></p>
-                </td>
-            </tr>
-        </tbody></table>
-    </div>
-        
-    <p class="register"><strong>Not registered yet?</strong> Register now for these rocking benefits:</p>
-    <ul>
-        <li class="search" style="display: none;">Save your searches and save time</li>
-        <li class="store">Be the first to hear about our fantastic holiday offers, top tips and how we'll treat you like a rock star</li>
-        <li class="store">Store your favourite hotels and make a personalised ebrochure</li> 
-        <li class="makenote">Make notes on your holiday research</li>
-        <li class="makenote">Be green and save paper by viewing our online brochures</li>
-    </ul>
-
-    <ul class="options">
-        <li><a id="vht-registerNow" href="#">Register now</a></li>
-        <li><a id="vht-noThanks" href="#">No thanks, not right now</a></li>
-    </ul>
-        
-</div>
-
-
-<!--[if IE 7]>
-<style>
-#register_title,
-#register_firstname,
-#register_surname  { display:inline-block; float:left; }
-</style>
-<![endif]-->
-
-<div id="vht-RegisterScreen" class="screen" style="display:none">
-        <h3 class="inv "><img src="/dynamichtag.aspx?w=450&amp;s=18&amp;c=000000&amp;hoffset=-3&amp;caption=Register" alt="Register"><span>Register</span></h3>
-        
-        <table>
-            <tbody><tr>
-                <th><label for="register_displayname">Display name *</label></th>
-                <td><input type="text" name="register_displayname" id="register_displayname" maxlength="24" value="" class="required"></td>
-            </tr>
-            <tr>
-                <th><label for="register_emailaddress">Your email address *</label></th>
-                <td><input type="text" name="register_emailaddress" id="register_emailaddress" value="" class="required"></td>
-            </tr>
-            <tr>
-                <th><label for="register_title">Your full name</label></th>
-                <td>
-                    <input type="text" name="register_title" id="register_title"><input type="text" name="register_firstname" id="register_firstname">
-                    <input type="text" name="register_surname" id="register_surname">
-                </td>
-            </tr>
-            <tr>
-                <th><label for="register_addressline1">First line of your address *</label></th>
-                <td><input type="text" name="register_addressline1" id="register_addressline1"></td>
-            </tr>
-            <tr>
-                <th><label for="register_postcode">Your postcode *</label></th>
-                <td><input type="text" name="register_postcode" id="register_postcode"></td>
-            </tr>
-            <tr>
-                <th><label for="register_password1">Your password *</label></th>
-                <td><input type="password" name="register_password1" id="register_password1"></td>
-            </tr>
-            <tr>
-                <th><label for="register_password2">Confirm password *</label></th>
-                <td><input type="password" name="register_password2" id="register_password2"></td>
-            </tr>
-        </tbody></table>
-        
-        <p>Our Virgin Holidays Family will use your details to keep you up to date with special offers, news and information. Is this ok?</p>
-            
-       	<p class="checkbox">
-       	<input id="ctl00_Header1_SignInScreens1_marketingYes" type="radio" name="ctl00$Header1$SignInScreens1$marketing" value="marketingYes">Yesddd
-       	<input id="ctl00_Header1_SignInScreens1_marketingNo" type="radio" name="ctl00$Header1$SignInScreens1$marketing" value="marketingNo" checked="checked">No 
-       	</p>
-        
-        <p>
-            <a id="vht-doRegister" class="submit register" href="javascript://">Register</a>
-        </p> 
-        
-        <div class="vht-loading hide">
-    	    <img src="/_assets/images/icons/ajax_loader.gif">
-        </div>
-     
-        <div class="vht-error hide">
-    	   
-        </div>
-        
-	    <ul class="options">
-		    <li><a id="vht-showTerms" href="#">Read the terms and conditions</a></li>
-		    <li><a class="vht-backToSignIn" href="#">Go back to sign in</a></li>
-	    </ul>
-
-        
-</div>
-
-
-<div id="vht-ForgotPasswordScreen" class="screen" style="display:none;">
-
-    <p><strong>Trouble signing in to www.virginholidays.co.uk?</strong></p> 
-    <p>We can generate a new password for you and send it to the email address you registered. You can then sign in and change it to one that you'll remember.</p>
-
-    <label for="generatenewpassword_emailaddress">Your registered email address:</label>
-    <input type="text" name="generatenewpassword_emailaddress" id="generatenewpassword_emailaddress"> 
-        
-    <div class="msg error hide"><p></p></div>
-    
-    <p class="btn_signin">
-        <a id="vht-genPassword" class="generate" href="#">Generate your new password</a>
-    </p>
-	
-	<ul class="options">
-		<li><a class="vht-backToSignIn" href="#">Go back to sign in</a></li>
-	</ul>
-
-    <div class="vht-loading hide">
-        <p class="dr"><strong>Generating a new password.</strong></p>
-    	<p>Thanks for waiting while we generate your new password.</p>
-    	<p><img src="/_assets/images/icons/ajax-loader-longer.gif"></p>
-    </div>
-   
-</div>
-
-
-
-<div id="vht-TermsScreen" class="screen" style="display:none;">
-
-    <p><strong>Terms and Conditions.</strong> <a class="vht-backToRegister" href="#">Go back to register</a></p> 
-    <p>We may use your information for the purposes set out in our data protection notification with the Office of the Information Commissioner. We may disclose the same to companies in the Virgin group for business purposes and to companies who act as data processors on our behalf. Some of your information may be 'sensitive personal data' such as details of any disabilities, or dietary/religious requirements. (If we cannot pass this information to the relevant suppliers, whether in the EEA or not, we cannot provide your booking). In making this booking, you consent to this information being passed on to the relevant persons. You are responsible for ensuring that other members of your party are aware of our privacy policy.</p>
-    <p>We would like to hold your information (including any email address), where collected by us , for our own future marketing purposes (for example to inform you of promotional/competition offers, or to send you our brochure). If you do not wish to receive such approaches in future, please inform us as soon as possible.</p>
-    <p>Where we do collect your personal information, it is stored in our secure databases at a secure address to prevent unauthorised access. Our systems are configured with data encryption or scrambling technologies and industry standard firewalls. When you send information to Virgin over the internet, your data is protected by secure socket layer technology to ensure safe transmission.</p>
-    <p>You have the right to ask us in writing for a data subject access request form to obtain a copy of the information which we hold about you (for which we may charge a fee). Any request should be addressed to Customer Relations,Virgin Holidays at The Galleria, Station Road, Crawley, West Sussex, RH10 1WW.</p>
-    <p>If you believe that any of your personal information that is held or being processed by us is incorrect then please write to us immediately as we cannot be responsible for any problems that may arise due to inaccurate information that you have provided us with.</p>
-    <p>We cannot accept responsibility for any issues concerning your data collected by websites that are not directly under our control. Please also be aware that individual organisations operate their own policies regarding the use and sale of personal information and the use of cookies. If you have a concern regarding the way your personal information will be used on other sites then you are advised to read the relevant privacy statement.</p>
-    
-	<ul class="options">	  
-	    <li><a class="vht-backToRegister" href="#">Go back to register</a></li>
-    </ul>
-    
-</div>
-
-<input type="hidden" value="False" id="IsLoggedIn">
-         
-                
-
-               
-
-        
-        
-        <div id="vht-SavedSearchesScreen" class="screen" style="display:none;">
-            <div class="arrow"></div>
-            <h3 class="inv "><img src="/dynamichtag.aspx?w=450&amp;s=18&amp;c=000000&amp;hoffset=-3&amp;caption=Saved+Searches" alt="Saved Searches"><span>Saved Searches</span></h3>
-            <div class="vht-loading"><img src="/_assets/images/bigloader.gif" alt="Loading..."></div>
-            
-            <div id="vht-SavedSearchContent"></div>
-        </div>
-        
-        
-        <div id="vht-SavedHotelsScreen" class="screen" style="display:none;">
-            <div class="arrow"></div>
-            <h3 class="inv "><img src="/dynamichtag.aspx?w=450&amp;s=18&amp;c=000000&amp;hoffset=-3&amp;caption=Saved+Hotels" alt="Saved Hotels"><span>Saved Hotels</span></h3>
-            <div class="vht-loading"><img src="/_assets/images/bigloader.gif" alt="Loading..."></div>
-            
-            <div id="vht-SavedHotelsContent"></div>
-        </div>
-        
-        
-    </div>
-
-</div>
-
 				
 				    
 				    <div id="pageTitle">
@@ -544,29 +434,37 @@ Privacy Policy - Virgin Holidays
 		
 				<li>
 				    
-				            <span>Important Information</span>
+    				        <a href="/info/important" title="Important">Important</a>    
+				        					
+				</li>
+			
+				<li>
+				    
+				            <span>Privacy Statement </span>
 				        					
 				</li>
 			
 	</ul>
 </div> 
-<div id="fb-root"></div>
-                    <script>    (function(d, s, id) {
-                            var js, fjs = d.getElementsByTagName(s)[0];
-                            if (d.getElementById(id)) return;
-                            js = d.createElement(s); js.id = id;
-                            js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1";
-                            fjs.parentNode.insertBefore(js, fjs);
-                        } (document, 'script', 'facebook-jssdk'));
-                    </script>
 <div id="addThis">
     
-    <fb:like send="false" layout="button_count" width="100" show_faces="true"></fb:like>					
-    <a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="virginholidays.co.uk">Tweet</a>
-    <g:plusone size="medium" class="plusone"></g:plusone>		
+    <script>
+
+        $(document).ready(function() {
+            $('#addThis').prepend('<iframe src="//www.facebook.com/plugins/like.php?href=' + document.location.href + '&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowTransparency="true"></iframe>')
+        });
+                    </script>					
+    <a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="VirginHolidays">Tweet</a>
+    <g:plusone size="medium" class="plusone"></g:plusone>
+	
+    <a href="http://pinterest.com/pin/create/button/?url=http://www.virginholidays.co.uk/info/important/privacy_statement/default.aspx&amp;media=http://www.virginholidays.co.uk/_assets/images/logos/pinterest.jpg" class="pin-it-button" count-layout="horizontal"><img src="//assets.pinterest.com/images/PinExt.png" alt="Pin it"></a>
+    <script type="text/javascript" src="http://assets.pinterest.com/js/pinit.js"></script>
+    	
 </div>
 					    
-					    <h1 class="inv"><img src="/dynamichtag.aspx?w=587&amp;s=25&amp;c=000000&amp;hoffset=-4&amp;caption=Data+Protection%2fPrivacy+Policy" alt="Data Protection/Privacy Policy"><span>Data Protection/Privacy Policy</span></h1>
+					    <h1>
+Data Protection/Privacy Policy
+</h1>
 				    </div>
 				    
 				    
@@ -576,7 +474,7 @@ Privacy Policy - Virgin Holidays
 					    
 					    
 
-<h2 class="inv"><img src="/dynamichtag.aspx?w=587&amp;s=19&amp;c=333333&amp;hoffset=-3&amp;caption=Data+Protection" alt="Data Protection"><span>Data Protection</span></h2>
+<h2>Data Protection</h2>
 <p><i>‘We’ are Virgin Holidays, a  member of the Virgin Holidays Family, which includes Virgin Holidays, Virgin  Holidays Cruises, Virgin Holidays and HIP Hotels, Travel City Direct and Bales  Worldwide.</i></p>
 <p>In order to process your booking  and to ensure that your travel arrangements run smoothly and meet your  requirements we need to use the information you provide such as name, address,  any special needs/dietary requirements etc. We take full responsibility for  ensuring that proper security measures are in place to protect your  information. We must pass the information on to the relevant suppliers of your  travel arrangements such as airlines, hotels, transport companies etc. The  information may also be provided to security or credit checking companies, public  authorities such as customs/immigration if required by them, or as required by  law. Additionally, where your holiday is outside the European Economic Area  (EEA), controls on data protection in your destination may not be as strong as  the legal requirements in this country.</p>
 
@@ -617,17 +515,17 @@ Privacy Policy - Virgin Holidays
 
 <p>We cannot accept responsibility  for any issues concerning your data collected by websites that are not directly  under our control. Please also be aware that individual organisations operate  their own policies regarding the use and sale of personal information and the  use of <a href="/info/about/cookies/">cookies</a>. If you have a concern regarding the way your personal  information will be used on other sites then you are advised to read the  relevant privacy statement.</p>
 
-<h2 class="inv"><img src="/dynamichtag.aspx?w=587&amp;s=19&amp;c=333333&amp;hoffset=-3&amp;caption=Privacy+Policy" alt="Privacy Policy"><span>Privacy Policy</span></h2>
+<h2>Privacy Policy</h2>
 <p>Worried about providing us with information on line?</p>
 <p><strong>Let us put your mind at rest...</strong></p>
 
-<h3 class="inv"><img src="/dynamichtag.aspx?w=587&amp;s=15&amp;c=666666&amp;hoffset=-3&amp;caption=1.+General" alt="1. General"><span>1. General</span></h3>
+<h3>1. General</h3>
     	<p>Here at Virgin Holidays, we are committed to protecting your privacy on line, as highly as we would with your customer information in any of our systems. </p>
         <p>We will not share your personal information for marketing or any other purposes without your consent unless where required by law. We will always respect your privacy and any personal communication between you and ourselves. We will always comply with any data protection legislation currently in force. We collect general statistical information about visitors to our website for general reporting and to improve future content. </p>
         <p>By using our website, you consent to the collection and use of this information by virginholidays.com. If we change our privacy policy we will inform you by posting these changes on this page. </p>    
 
 
-<h3 class="inv"><img src="/dynamichtag.aspx?w=587&amp;s=15&amp;c=666666&amp;hoffset=-3&amp;caption=2.+What+we+collect+and+why" alt="2. What we collect and why"><span>2. What we collect and why</span></h3>
+<h3>2. What we collect and why</h3>
     	<p>We ask for information about you in 4 areas of our website.</p>
         <ol type="a">
         	<li><strong>When making an on line booking</strong><br>
@@ -644,14 +542,14 @@ Privacy Policy - Virgin Holidays
 
 
     		
-   	<h3 class="inv"><img src="/dynamichtag.aspx?w=587&amp;s=15&amp;c=666666&amp;hoffset=-3&amp;caption=3.+What+are+cookies+and+do+we+use+them%3f" alt="3. What are cookies and do we use them?"><span>3. What are cookies and do we use them?</span></h3>
+   	<h3>3. What are cookies and do we use them?</h3>
    		<p>A cookie is a text-only string of  information that a website transfers to the cookie file of the browser on your  computer's hard disk so that the website can remember who you are. </p>
         <p>A cookie will typically contain  the name of the domain from which the cookie has come, the "lifetime"  of the cookie, and a value, usually a randomly generated unique number. </p>
         <p>For more information on cookies and how they are used on the Virgin Holidays website, <a href="/info/about/cookies/">please click here. </a></p>
        
   
 
-    <h3 class="inv"><img src="/dynamichtag.aspx?w=587&amp;s=15&amp;c=666666&amp;hoffset=-3&amp;caption=4.+Links+to+other+websites+and+their+security+and+privacy+policies" alt="4. Links to other websites and their security and privacy policies"><span>4. Links to other websites and their security and privacy policies</span></h3>
+    <h3>4. Links to other websites and their security and privacy policies</h3>
     <p>In our website we also provide links to other websites for your convenience and information. Please be aware that these sites may have different security and privacy policies and we have no control over and take no responsibility for any information submitted to these sites. </p>
     <p>We hope that you enjoy using our website, safe in the knowledge that we are committed to protecting your privacy 
       </p> 
@@ -676,7 +574,7 @@ Privacy Policy - Virgin Holidays
 				    <div id="right">
 					    
 					    
-		<h2 class="inv" id="progmenuTitle"><img src="/dynamichtag.aspx?w=187&amp;s=15&amp;c=666666&amp;hoffset=-3&amp;caption=Important+information" alt="Important information"><span>Important information</span></h2>
+		<h2 id="progmenuTitle" class="dynamic_h2coltitle">Important information</h2>
 		<a name="progmenu"></a>
 		
 		<div id="progmenu">
@@ -693,10 +591,6 @@ Privacy Policy - Virgin Holidays
 			</li>
 		
 			<li><a href="/info/important/costs/" title="Costs">Costs</a>
-			
-			</li>
-		
-			<li><a href="/info/important/faqs/" title="Frequently asked questions">FAQs</a>
 			
 			</li>
 		
@@ -740,95 +634,64 @@ Privacy Policy - Virgin Holidays
 				    <div id="left">
 					    
 <input type="hidden" name="startbooking" value="true">
- 
-<h2 class="inv" id="ctl00_BookingForm1_SearchHeader"><img src="/dynamichtag.aspx?w=187&amp;s=15&amp;c=666666&amp;hoffset=-3&amp;caption=Find+your+holiday" alt="Find your holiday"><span>Find your holiday</span></h2>
-<div id="bookingForm">
+ <script src="/_assets/js/pax.js" type="text/javascript"></script>
+<h2 id="ctl00_BookingForm1_SearchHeader" class="dynamic_h2coltitle">Find your holiday</h2>
+<div id="bookingForm" class="clearfix">
+
 	<div id="ctl00_BookingForm1_GeographicalSearchBF_resortbookingform">
 	
 	
-	<label for="ctl00_BookingForm1_GeographicalSearchBF_GeogSelector1_dd1" id="ctl00_BookingForm1_GeographicalSearchBF_GeogSelector1_dd1Label">Going to:</label>
+	<div class="LeavingDiv">
+	    
+	    <label for="ctl00_BookingForm1_GeographicalSearchBF_GeogSelector1_dd1" id="ctl00_BookingForm1_GeographicalSearchBF_GeogSelector1_dd1Label">Going to:</label>
 
-<select name="ctl00$BookingForm1$GeographicalSearchBF$GeogSelector1$dd1" id="ctl00_BookingForm1_GeographicalSearchBF_GeogSelector1_dd1" class="WideSelect RegionDD">
-		<option selected="selected" value="Florida">Florida</option>
-		<option value="Caribbean">Caribbean</option>
-		<option value="USA">USA</option>
-		<option value="Egypt">Egypt</option>
-		<option value="Central America">Central America</option>
+<select name="ctl00$BookingForm1$GeographicalSearchBF$GeogSelector1$dd1" id="ctl00_BookingForm1_GeographicalSearchBF_GeogSelector1_dd1" disabled="disabled" class="WideSelect RegionDD">
+		<option selected="selected" value="Caribbean">Caribbean</option>
 		<option value="Mexico">Mexico</option>
-		<option value="Canada">Canada</option>
-		<option value="Hawaii">Hawaii</option>
+		<option value="Florida">Florida</option>
+		<option value="USA">USA</option>
 		<option value="Middle East">Middle East</option>
 		<option value="Indian Ocean">Indian Ocean</option>
 		<option value="Africa">Africa</option>
 		<option value="Far East">Far East</option>
-		<option value="Ski Holidays (USA and Canada)">Ski Holidays (USA and Canada)</option>
+		<option value="Canada">Canada</option>
+		<option value="Hawaii">Hawaii</option>
+		<option value="Ski Holidays (USA/Canada)">Ski Holidays (USA/Canada)</option>
+		<option value="Egypt">Egypt</option>
 		<option value="Australia and New Zealand">Australia and New Zealand</option>
 
 	</select>
 
-<select name="ctl00$BookingForm1$GeographicalSearchBF$GeogSelector1$dd2" size="1" id="ctl00_BookingForm1_GeographicalSearchBF_GeogSelector1_dd2" class="WideSelect ResortDD" causesvalidation="false">
-		<optgroup label="Orlando">
-		<option selected="selected" value="330.OR">All Orlando</option>
-		<option value="332.OR">Lake Buena Vista</option>
-		<option value="330.OR">International Drive</option>
-		<option value="329.OR">Kissimmee</option>
-		<option value="327.OR">Disney</option>
-		<option value="331.OR">Universal</option>
-		<option value="1383.OR">Grande Lakes Orlando</option>
-		<option value="2304.OR">SeaWorld</option>
+<select name="ctl00$BookingForm1$GeographicalSearchBF$GeogSelector1$dd2" size="1" id="ctl00_BookingForm1_GeographicalSearchBF_GeogSelector1_dd2" disabled="disabled" class="WideSelect ResortDD" causesvalidation="false">
+		<option selected="selected" value="2309.C-">All Caribbean</option>
+		<option value="287.BA">Barbados</option>
+		<option value="285.AN">Antigua</option>
+		<option value="294.SL">St Lucia</option>
+		<option value="292.JM">Jamaica</option>
+		<option value="297.TT">Tobago</option>
+		<option value="290.GN">Grenada</option>
+		
+		<optgroup label="Cuba">
+		<option value="289.VA">Varadero</option>
+		<option value="289.JC">Jibacoa</option>
+		<option value="289.HF">Havana</option>
 		</optgroup>
-		<optgroup label="Florida Villas">
-		<option value="1290.OR">Florida Villas</option>
-		<option value="1845.FM">Gulf Coast Villas</option>
-		</optgroup>
-		<optgroup label="Florida Self Catering">
-		<option value="2009.OR">Lake Buena Vista</option>
-		<option value="1999.OR">International Drive</option>
-		<option value="1992.OR">Kissimmee</option>
-		<option value="1988.NM">Naples and Marco Island</option>
-		<option value="1998.CW">Indian Rocks</option>
-		<option value="2004.SP">Treasure Island</option>
-		<option value="2005.SS">Sarasota and Bradenton</option>
-		</optgroup>
-		<optgroup label="Gulf Coast">
-		<option value="1674.CW">Clearwater and Indian Rocks</option>
-		<option value="2027.SP">St Pete Beach and Treasure Island</option>
-		<option value="1495.NM">Naples and Marco Island</option>
-		<option value="1494.FM">Sanibel and Captiva</option>
-		<option value="1494.FM">Fort Myers</option>
-		<option value="1678.SS">Sarasota and Bradenton</option>
-		<option value="1496.NM">Bonita Springs</option>
-		</optgroup>
-		<optgroup label="Miami">
-		<option value="334.FH">Miami Beach</option>
-		<option value="2039.SU">South Beach</option>
-		<option value="2038.VP">Aventura</option>
-		<option value="2040.KB">Key Biscayne</option>
-		</optgroup>
-		<optgroup label="Gold Coast">
-		<option value="1487.AG">St Augustine</option>
-		<option value="1679.FL">Fort Lauderdale</option>
-		<option value="1488.DT">Daytona</option>
-		</optgroup>
-		<optgroup label="Florida Keys">
-		<option value="1302.DY">Duck Key</option>
-		<option value="343.KL">Key Largo</option>
-		<option value="1510.VK">Key Vaca</option>
-		<option value="346.KW">Key West</option>
+		<optgroup label="Sandals and Beaches">
+		<option value="896.SL">St Lucia</option>
+		<option value="895.AN">Antigua</option>
+		<option value="899.JM">Jamaica</option>
+		<option value="894.VA">Cuba</option>
 		</optgroup>
 
 	</select>
 
 <div class="line"></div>
-	
-	<label for="ctl00_BookingForm1_GeographicalSearchBF_DepartureAirports1_DepartureAirport" id="ctl00_BookingForm1_GeographicalSearchBF_DepartureAirports1_DepartureAirportLabel">Leaving from:</label>
+	    
+	    <label for="ctl00_BookingForm1_GeographicalSearchBF_DepartureAirports1_DepartureAirport" id="ctl00_BookingForm1_GeographicalSearchBF_DepartureAirports1_DepartureAirportLabel">Leaving from:</label>
 
-<select name="ctl00$BookingForm1$GeographicalSearchBF$DepartureAirports1$DepartureAirport" id="ctl00_BookingForm1_GeographicalSearchBF_DepartureAirports1_DepartureAirport" class="WideSelect AirportDD">
+<select name="ctl00$BookingForm1$GeographicalSearchBF$DepartureAirports1$DepartureAirport" id="ctl00_BookingForm1_GeographicalSearchBF_DepartureAirports1_DepartureAirport" disabled="disabled" class="WideSelect AirportDD">
 		<option selected="selected" value="LGW">London Gatwick</option>
 		<option value="MAN">Manchester</option>
-		<option value="EDI">Edinburgh</option>
-		<option value="GLA">Glasgow</option>
-		<option value="BHX">Birmingham</option>
 
 	</select>
 <div class="line"></div>
@@ -838,18 +701,18 @@ Privacy Policy - Virgin Holidays
 <div id="noAirport" style="color:Red;"></div>
 
 
-
+    </div>
 	
-	<div id="DatesDiv">
+	<div id="DepartureDatesDiv">
 		
 
 
 <script type="text/javascript">
 
 	var CALENDAR_DATA = {
-		RouteData : [{"FromAirportCode":"LGW","ToAirportCode":"MCO","FromAirportName":"London Gatwick","ToAirportName":"Orlando","RouteNotes":"","AirlineID":1,"RouteID":12,"RouteDisplaySeq":50,"IsActive":true,"IsOutMonday":true,"IsOutTuesday":true,"IsOutWednesday":true,"IsOutThursday":true,"IsOutFriday":true,"IsOutSaturday":true,"IsOutSunday":true,"IsInMonday":true,"IsInTuesday":true,"IsInWednesday":true,"IsInThursday":true,"IsInFriday":true,"IsInSaturday":true,"IsInSunday":true},{"FromAirportCode":"MAN","ToAirportCode":"MCO","FromAirportName":"Manchester","ToAirportName":"Orlando","RouteNotes":"","AirlineID":1,"RouteID":57,"RouteDisplaySeq":100,"IsActive":true,"IsOutMonday":true,"IsOutTuesday":true,"IsOutWednesday":true,"IsOutThursday":true,"IsOutFriday":true,"IsOutSaturday":true,"IsOutSunday":true,"IsInMonday":true,"IsInTuesday":true,"IsInWednesday":true,"IsInThursday":true,"IsInFriday":true,"IsInSaturday":true,"IsInSunday":true},{"FromAirportCode":"GLA","ToAirportCode":"MCO","FromAirportName":"Glasgow","ToAirportName":"Orlando","RouteNotes":"","AirlineID":1,"RouteID":250,"RouteDisplaySeq":100,"IsActive":true,"IsOutMonday":false,"IsOutTuesday":false,"IsOutWednesday":false,"IsOutThursday":false,"IsOutFriday":true,"IsOutSaturday":true,"IsOutSunday":true,"IsInMonday":false,"IsInTuesday":false,"IsInWednesday":false,"IsInThursday":false,"IsInFriday":true,"IsInSaturday":true,"IsInSunday":true},{"FromAirportCode":"EDI","ToAirportCode":"MCO","FromAirportName":"Edinburgh","ToAirportName":"Orlando","RouteNotes":"","AirlineID":1,"RouteID":343,"RouteDisplaySeq":100,"IsActive":true,"IsOutMonday":true,"IsOutTuesday":true,"IsOutWednesday":true,"IsOutThursday":true,"IsOutFriday":true,"IsOutSaturday":true,"IsOutSunday":true,"IsInMonday":true,"IsInTuesday":true,"IsInWednesday":true,"IsInThursday":true,"IsInFriday":true,"IsInSaturday":true,"IsInSunday":true},{"FromAirportCode":"BHX","ToAirportCode":"MCO","FromAirportName":"Birmingham","ToAirportName":"Orlando","RouteNotes":"","AirlineID":1,"RouteID":340,"RouteDisplaySeq":100,"IsActive":true,"IsOutMonday":true,"IsOutTuesday":true,"IsOutWednesday":true,"IsOutThursday":true,"IsOutFriday":true,"IsOutSaturday":true,"IsOutSunday":true,"IsInMonday":true,"IsInTuesday":true,"IsInWednesday":true,"IsInThursday":true,"IsInFriday":true,"IsInSaturday":true,"IsInSunday":true}],
-		EarliestBookableDate : 'Mon 26 Apr 2010',
-		LatestBookableDate : 'Tue 31 Dec 2013',
+		RouteData : [{"FromAirportCode":"LGW","ToAirportCode":"CBN","FromAirportName":"London Gatwick","ToAirportName":"Caribbean","RouteNotes":"","RouteId":477,"RouteDisplaySeq":100,"IsActive":true,"Flights":[{"Id":90,"StartDate":"\/Date(-62135596800000)\/","EndDate":"\/Date(-62135596800000)\/","IsOutMonday":true,"IsOutTuesday":true,"IsOutWednesday":true,"IsOutThursday":true,"IsOutFriday":true,"IsOutSaturday":true,"IsOutSunday":true,"IsInMonday":true,"IsInTuesday":true,"IsInWednesday":true,"IsInThursday":true,"IsInFriday":true,"IsInSaturday":true,"IsInSunday":true}]},{"FromAirportCode":"MAN","ToAirportCode":"CBN","FromAirportName":"Manchester","ToAirportName":"Caribbean","RouteNotes":"","RouteId":478,"RouteDisplaySeq":100,"IsActive":true,"Flights":[{"Id":257,"StartDate":"\/Date(-62135596800000)\/","EndDate":"\/Date(-62135596800000)\/","IsOutMonday":true,"IsOutTuesday":true,"IsOutWednesday":true,"IsOutThursday":true,"IsOutFriday":true,"IsOutSaturday":true,"IsOutSunday":true,"IsInMonday":true,"IsInTuesday":true,"IsInWednesday":true,"IsInThursday":true,"IsInFriday":true,"IsInSaturday":true,"IsInSunday":true}]}],
+		EarliestBookableDate : 'Sun 01 Apr 2012',
+		LatestBookableDate : 'Wed 31 Dec 2014',
 		FixedDuration : ''
 	}
 
@@ -894,10 +757,12 @@ Privacy Policy - Virgin Holidays
 <div id="DatesDiv">
 
 	<label for="ctl00_BookingForm1_GeographicalSearchBF_DepartureDates1_departureDate" id="ctl00_BookingForm1_GeographicalSearchBF_DepartureDates1_DepartureDateLabel">Leaving on:</label>
-	<input name="ctl00$BookingForm1$GeographicalSearchBF$DepartureDates1$departureDate" type="text" value="Wed 27 Jun 2012" size="15" id="ctl00_BookingForm1_GeographicalSearchBF_DepartureDates1_departureDate" class="departureDate">
+	<input name="ctl00$BookingForm1$GeographicalSearchBF$DepartureDates1$departureDate" type="text" value="Tue 02 Jul 2013" size="15" id="ctl00_BookingForm1_GeographicalSearchBF_DepartureDates1_departureDate" class="departureDate">
 	<img id="ui-datepicker-trigger" src="/_assets/images/search/choose_dates.gif" alt="Choose your departure date" title="Choose your departure date">
+	<div id="calculatedDeparture"></div>
+	<div class="line" id="depLine"></div>
 	
-	<div class="line"></div>
+	
 	
 	<div id="cal" style="display:none;">
 
@@ -912,11 +777,11 @@ Privacy Policy - Virgin Holidays
 	                 
 					 
 					 <div id="departureCal">
-						<h3 class="inv "><img src="/dynamichtag.aspx?w=200&amp;s=19&amp;c=333333&amp;hoffset=-3&amp;caption=Depart" alt="Depart"><span>Depart</span></h3>
-						<div id="dCal" class="hasDatepicker"><div class="ui-datepicker-inline"><div class="ui-datepicker-links"><div class="ui-datepicker-prev"><a onclick="jQuery.datepicker._adjustDate('#dCal', -1, 'M');">&lt;Prev</a></div><div class="ui-datepicker-next"></div></div><div class="ui-datepicker-one-month ui-datepicker-new-row"><div class="ui-datepicker-header"><select class="ui-datepicker-new-month" onchange="jQuery.datepicker._selectMonthYear('#dCal', this, 'M');" onclick="jQuery.datepicker._clickMonthYear('#dCal');" style="width: 100px;"><option value="0">January</option><option value="1">February</option><option value="2">March</option><option value="3">April</option><option value="4">May</option><option value="5">June</option><option value="6">July</option><option value="7">August</option><option value="8">September</option><option value="9">October</option><option value="10">November</option><option value="11" selected="selected">December</option></select><select class="ui-datepicker-new-year" onchange="jQuery.datepicker._selectMonthYear('#dCal', this, 'Y');" onclick="jQuery.datepicker._clickMonthYear('#dCal');" style="width: 60px;"><option value="2010">2010</option><option value="2011">2011</option><option value="2012">2012</option><option value="2013" selected="selected">2013</option></select></div><table class="ui-datepicker" cellpadding="0" cellspacing="0"><thead><tr class="ui-datepicker-title-row"><td><span title="Monday">M</span></td><td><span title="Tuesday">T</span></td><td><span title="Wednesday">W</span></td><td><span title="Thursday">T</span></td><td><span title="Friday">F</span></td><td class="ui-datepicker-week-end-cell"><span title="Saturday">S</span></td><td class="ui-datepicker-week-end-cell"><span title="Sunday">S</span></td></tr></thead><tbody><tr class="ui-datepicker-days-row"><td class="ui-datepicker-days-cell ui-datepicker-other-month ui-datepicker-unselectable">&nbsp;<span style="display:none;">Mon Nov 25 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-other-month ui-datepicker-unselectable">&nbsp;<span style="display:none;">Tue Nov 26 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-other-month ui-datepicker-unselectable">&nbsp;<span style="display:none;">Wed Nov 27 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-other-month ui-datepicker-unselectable">&nbsp;<span style="display:none;">Thu Nov 28 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-other-month ui-datepicker-unselectable">&nbsp;<span style="display:none;">Fri Nov 29 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-week-end-cell ui-datepicker-other-month ui-datepicker-unselectable">&nbsp;<span style="display:none;">Sat Nov 30 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-week-end-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>1</a><span style="display:none;">Sun Dec 01 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td></tr><tr class="ui-datepicker-days-row"><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>2</a><span style="display:none;">Mon Dec 02 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>3</a><span style="display:none;">Tue Dec 03 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>4</a><span style="display:none;">Wed Dec 04 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>5</a><span style="display:none;">Thu Dec 05 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>6</a><span style="display:none;">Fri Dec 06 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-week-end-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>7</a><span style="display:none;">Sat Dec 07 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-week-end-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>8</a><span style="display:none;">Sun Dec 08 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td></tr><tr class="ui-datepicker-days-row"><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>9</a><span style="display:none;">Mon Dec 09 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>10</a><span style="display:none;">Tue Dec 10 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>11</a><span style="display:none;">Wed Dec 11 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>12</a><span style="display:none;">Thu Dec 12 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>13</a><span style="display:none;">Fri Dec 13 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-week-end-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>14</a><span style="display:none;">Sat Dec 14 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-week-end-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>15</a><span style="display:none;">Sun Dec 15 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td></tr><tr class="ui-datepicker-days-row"><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>16</a><span style="display:none;">Mon Dec 16 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>17</a><span style="display:none;">Tue Dec 17 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>18</a><span style="display:none;">Wed Dec 18 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>19</a><span style="display:none;">Thu Dec 19 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>20</a><span style="display:none;">Fri Dec 20 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-week-end-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>21</a><span style="display:none;">Sat Dec 21 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-week-end-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>22</a><span style="display:none;">Sun Dec 22 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td></tr><tr class="ui-datepicker-days-row"><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>23</a><span style="display:none;">Mon Dec 23 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>24</a><span style="display:none;">Tue Dec 24 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>25</a><span style="display:none;">Wed Dec 25 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>26</a><span style="display:none;">Thu Dec 26 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>27</a><span style="display:none;">Fri Dec 27 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-week-end-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>28</a><span style="display:none;">Sat Dec 28 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-week-end-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>29</a><span style="display:none;">Sun Dec 29 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td></tr><tr class="ui-datepicker-days-row"><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>30</a><span style="display:none;">Mon Dec 30 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-current-day" onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>31</a><span style="display:none;">Tue Dec 31 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-other-month ui-datepicker-unselectable">&nbsp;<span style="display:none;">Wed Jan 01 2014 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-other-month ui-datepicker-unselectable">&nbsp;<span style="display:none;">Thu Jan 02 2014 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-other-month ui-datepicker-unselectable">&nbsp;<span style="display:none;">Fri Jan 03 2014 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-week-end-cell ui-datepicker-other-month ui-datepicker-unselectable">&nbsp;<span style="display:none;">Sat Jan 04 2014 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-week-end-cell ui-datepicker-other-month ui-datepicker-unselectable">&nbsp;<span style="display:none;">Sun Jan 05 2014 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td></tr></tbody></table></div><div style="clear: both;"></div></div></div>
+						<h3 class="dynamic_calendar_h3">Depart</h3>
+						<div id="dCal"></div>
 						<fieldset class="departureFs">
 							<p class="title"><b>Departing:</b></p>
-							<p class="info">Thu 13 Feb 2020</p>
+							<p class="info">-</p>
 						</fieldset>
 					 </div>
 					 
@@ -959,11 +824,11 @@ Privacy Policy - Virgin Holidays
 					 
 					 
 					 <div id="returnCal">
-						<h3 class="inv "><img src="/dynamichtag.aspx?w=200&amp;s=19&amp;c=333333&amp;hoffset=-3&amp;caption=Return" alt="Return"><span>Return</span></h3>
-						<div id="rCal" class="hasDatepicker"><div class="ui-datepicker-inline"><div class="ui-datepicker-links"><div class="ui-datepicker-prev"></div><div class="ui-datepicker-next"><a onclick="jQuery.datepicker._adjustDate('#rCal', +1, 'M');">Next&gt;</a></div></div><div class="ui-datepicker-one-month ui-datepicker-new-row"><div class="ui-datepicker-header"><select class="ui-datepicker-new-month" onchange="jQuery.datepicker._selectMonthYear('#rCal', this, 'M');" onclick="jQuery.datepicker._clickMonthYear('#rCal');" style="width: 100px;"><option value="1" selected="selected">February</option><option value="2">March</option></select><select class="ui-datepicker-new-year" onchange="jQuery.datepicker._selectMonthYear('#rCal', this, 'Y');" onclick="jQuery.datepicker._clickMonthYear('#rCal');" style="width: 60px;"><option value="2020" selected="selected">2020</option></select></div><table class="ui-datepicker" cellpadding="0" cellspacing="0"><thead><tr class="ui-datepicker-title-row"><td><span title="Monday">M</span></td><td><span title="Tuesday">T</span></td><td><span title="Wednesday">W</span></td><td><span title="Thursday">T</span></td><td><span title="Friday">F</span></td><td class="ui-datepicker-week-end-cell"><span title="Saturday">S</span></td><td class="ui-datepicker-week-end-cell"><span title="Sunday">S</span></td></tr></thead><tbody><tr class="ui-datepicker-days-row"><td class="ui-datepicker-days-cell ui-datepicker-other-month ui-datepicker-unselectable">&nbsp;<span style="display:none;">Mon Jan 27 2020 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-other-month ui-datepicker-unselectable">&nbsp;<span style="display:none;">Tue Jan 28 2020 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-other-month ui-datepicker-unselectable">&nbsp;<span style="display:none;">Wed Jan 29 2020 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-other-month ui-datepicker-unselectable">&nbsp;<span style="display:none;">Thu Jan 30 2020 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-other-month ui-datepicker-unselectable">&nbsp;<span style="display:none;">Fri Jan 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-week-end-cell ui-datepicker-unselectable ">1<span style="display:none;">Sat Feb 01 2020 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-week-end-cell ui-datepicker-unselectable ">2<span style="display:none;">Sun Feb 02 2020 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td></tr><tr class="ui-datepicker-days-row"><td class="ui-datepicker-days-cell ui-datepicker-unselectable ">3<span style="display:none;">Mon Feb 03 2020 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-unselectable ">4<span style="display:none;">Tue Feb 04 2020 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-unselectable ">5<span style="display:none;">Wed Feb 05 2020 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-unselectable ">6<span style="display:none;">Thu Feb 06 2020 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-unselectable ">7<span style="display:none;">Fri Feb 07 2020 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-week-end-cell ui-datepicker-unselectable ">8<span style="display:none;">Sat Feb 08 2020 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-week-end-cell ui-datepicker-unselectable ">9<span style="display:none;">Sun Feb 09 2020 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td></tr><tr class="ui-datepicker-days-row"><td class="ui-datepicker-days-cell ui-datepicker-unselectable ">10<span style="display:none;">Mon Feb 10 2020 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-unselectable ">11<span style="display:none;">Tue Feb 11 2020 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-unselectable ">12<span style="display:none;">Wed Feb 12 2020 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-unselectable  ui-datepicker-inrange">13<span style="display:none;">Thu Feb 13 2020 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-unselectable  ui-datepicker-inrange">14<span style="display:none;">Fri Feb 14 2020 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-week-end-cell ui-datepicker-unselectable  ui-datepicker-inrange">15<span style="display:none;">Sat Feb 15 2020 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-week-end-cell  ui-datepicker-inrange" onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#rCal',1,2020, this);"><a>16</a><span style="display:none;">Sun Feb 16 2020 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td></tr><tr class="ui-datepicker-days-row"><td class="ui-datepicker-days-cell  ui-datepicker-inrange" onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#rCal',1,2020, this);"><a>17</a><span style="display:none;">Mon Feb 17 2020 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell  ui-datepicker-inrange" onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#rCal',1,2020, this);"><a>18</a><span style="display:none;">Tue Feb 18 2020 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell  ui-datepicker-inrange" onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#rCal',1,2020, this);"><a>19</a><span style="display:none;">Wed Feb 19 2020 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-current-day ui-datepicker-inrange" onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#rCal',1,2020, this);"><a>20</a><span style="display:none;">Thu Feb 20 2020 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#rCal',1,2020, this);"><a>21</a><span style="display:none;">Fri Feb 21 2020 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-week-end-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#rCal',1,2020, this);"><a>22</a><span style="display:none;">Sat Feb 22 2020 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-week-end-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#rCal',1,2020, this);"><a>23</a><span style="display:none;">Sun Feb 23 2020 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td></tr><tr class="ui-datepicker-days-row"><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#rCal',1,2020, this);"><a>24</a><span style="display:none;">Mon Feb 24 2020 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#rCal',1,2020, this);"><a>25</a><span style="display:none;">Tue Feb 25 2020 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#rCal',1,2020, this);"><a>26</a><span style="display:none;">Wed Feb 26 2020 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#rCal',1,2020, this);"><a>27</a><span style="display:none;">Thu Feb 27 2020 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#rCal',1,2020, this);"><a>28</a><span style="display:none;">Fri Feb 28 2020 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-week-end-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#rCal',1,2020, this);"><a>29</a><span style="display:none;">Sat Feb 29 2020 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-week-end-cell ui-datepicker-other-month ui-datepicker-unselectable">&nbsp;<span style="display:none;">Sun Mar 01 2020 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td></tr></tbody></table></div><div style="clear: both;"></div></div></div>
+						<h3 class="dynamic_calendar_h3">Return</h3>
+						<div id="rCal"></div>
 					 	<fieldset class="returnFs">
 							<p class="title"><b>Returning:</b></p>
-							<p class="info">Thu 20 Feb 2020</p>
+							<p class="info">-</p>
 						</fieldset>				 
 					 </div>
 					
@@ -994,100 +859,18 @@ Privacy Policy - Virgin Holidays
 	</div>
 	
 	
-<script type="text/javascript">
-<!--
-
-var isOldIE = ((jQuery.browser.msie) && (jQuery.browser.version.indexOf("6.") != -1));
-var isProductPage = (window.location.href.indexOf("brochures") != -1);
-
-// Block the <Enter> key from submitting a form
-// add to text box, etc: onkeypress="return blockenter(event)"
-function blockenter(e) {
-	if(window.event) return e.keyCode != 13;
-	else if(e.which) return e.which != 13;
-}
-
-function UpdateChildAgeText(qty, controlId) {
-	var text = '', num;
-	if (qty == 0) {
-		document.getElementById(controlId+'childages').className="hide";
-		document.getElementById(controlId+'PaxValidation').className="hide"; 
-	}
-	for(i = 1; i <= qty; i++) {
-		num = jQuery('.cai'+i).val();
-		if (num == '' || isNaN(num) || parseInt(num) > 17 || parseInt(num) < 2) {
-		    alert("Child ages must be between 2 and 17");
-			return false;
-		}
-		text += num + ((i+1 == qty)? " and ":((i < qty)?", ":"")); 
-	}
-
-	document.getElementById(controlId + 'ChildAgeText').innerHTML = text;
-	document.getElementById(controlId+'ChildAgesDisplay').className = ((qty>0)?"show ChildAgesDisplay":"hide");
-	document.getElementById(controlId+'NoChildAgesDisplay').className = ((qty>0)?"hide":"show NoChildAgesDisplay");
-	return true;
-}
-
-function ShowChildAges(drpId,controlId) {
-	var ele = document.getElementById(drpId)
-	var qty = ele.options[ele.selectedIndex].value;
-	ShowChildAgeEntry(qty,controlId)
-	void(0);
-}
-
-
-function ShowChildAgeEntry(qty,controlId) {
-	if (qty == 0) {
-		UpdateChildAgeText(0,controlId);
-		return;
-	}
-	for(i = 1; i < 9; i++) {
-		document.getElementById(controlId+"childagewrapper"+i).className=((i<=qty)?"showage":"hide");
-	}
-	
-	
-	
-    document.getElementById(controlId+'childages').className="show childages";
-    document.getElementById(controlId+'ChildAgesDisplay').className="hide ChildAgesDisplay";
-    document.getElementById(controlId+'NoChildAgesDisplay').className="hide NoChildAgesDisplay";
-    if (isOldIE) {
-        if ( isProductPage ) {
-            $("#Pax1paxwrap select").css("visibility", "hidden");
-            $("#rCal select").css("visibility", "hidden");         
-        } else {
-           $("select").css("visibility","hidden");
-        }
-	}
-	void(0);
-}
-function HideChildAgeEntry(controlId) {
-	document.getElementById(controlId+'childages').className="hide childages";
-	if (isOldIE) {
-        if ( isProductPage ) {
-            $("#Pax1paxwrap select").css("visibility", "visible");
-            $("#rCal select").css("visibility", "visible");    
-        } else {
-           $("select").css("visibility", "visible"); 
-        }
-	}
-	void(0);
-}
-
-function OKAge(){
-if (UpdateChildAgeText(jQuery(".ChildPax").val(),'Pax1')) HideChildAgeEntry('Pax1');
-}
 
 
 
-// -->
-</script>
+<input type="hidden" id="hidGeneratedID" value="Pax1">
+
 <style type="text/css">
     .hide{display:none;}
 	.showage { display:block; float: left; line-height: 1.0; width: 50px; }
 </style>
  
 <fieldset id="Pax1who" class="who" title="Who's going?">
-	<legend>Who's going?</legend>
+	<strong>Who's going?</strong>
 
 	
 	
@@ -1124,7 +907,7 @@ if (UpdateChildAgeText(jQuery(".ChildPax").val(),'Pax1')) HideChildAgeEntry('Pax
 		<option value="7">7</option>
 
 	</select>
-			<label for="ctl00_BookingForm1_GeographicalSearchBF_Pax1_ChildPax" id="ctl00_BookingForm1_GeographicalSearchBF_Pax1_ChildPaxLabel">Children <span>(under 18yrs)</span></label>
+			<label for="ctl00_BookingForm1_GeographicalSearchBF_Pax1_ChildPax" id="ctl00_BookingForm1_GeographicalSearchBF_Pax1_ChildPaxLabel">Children <span>(under 18 yrs)</span></label>
 		</div>
 		<div class="selectWrap infants">
 		
@@ -1139,17 +922,17 @@ if (UpdateChildAgeText(jQuery(".ChildPax").val(),'Pax1')) HideChildAgeEntry('Pax
 		<option value="7">7</option>
 
 	</select>
-			<label for="ctl00_BookingForm1_GeographicalSearchBF_Pax1_InfantPax" id="ctl00_BookingForm1_GeographicalSearchBF_Pax1_InfantPaxLabel">Infants <span>(under 2yrs)</span></label>
+			<label for="ctl00_BookingForm1_GeographicalSearchBF_Pax1_InfantPax" id="ctl00_BookingForm1_GeographicalSearchBF_Pax1_InfantPaxLabel">Infants <span>(under 2 yrs)</span></label>
 		</div> 
 	</div>
 
-	<div id="Pax1PaxValidation" class="hide">
+	<div id="Pax1PaxValidation">
 		
 	</div>
 	
    
 
-	<div id="Pax1childages" class="hide">
+	<div id="Pax1childages" class="hide childages">
 		 
 		<div id="Pax1ChildAgesPanel" class="ChildAgesPanel">
 			<p class="childexplanation">We require the ages of any children in your party to provide you with an accurate price. Each hotel defines child ages differently and teen prices may be available in some destinations.</p>
@@ -1190,61 +973,177 @@ if (UpdateChildAgeText(jQuery(".ChildPax").val(),'Pax1')) HideChildAgeEntry('Pax
 			</div>
 			
 			<div id="OKButtonHolder">
-				<a class="OKButton" href="javascript:OKAge();"><b>OK</b></a>
+				<a class="OKButton" href="javascript:OKAge();"></a>
 			</div>
 		</div>
 	</div>
 	
-	<hr id="Pax1NoChildAgesDisplay" class="show NoChildAgesDisplay">
+	<hr id="Pax1NoChildAgesDisplay" class="hide NoChildAgesDisplay">
 	
 	<div id="Pax1ChildAgesDisplay" class="hide">
     	<p>&nbsp;</p>
 		
 		<p class="ChildAgesList">Child ages:
-		<span id="Pax1ChildAgeText"></span> (<a href="javascript:ShowChildAgeEntry(jQuery('.ChildPax').val(),'Pax1')">edit</a>)</p>
+		<span id="Pax1ChildAgeText"><b>Please provide the ages of children</b></span> (<a href="javascript:ShowChildAgeEntry(jQuery('.ChildPax').val(),'Pax1')">edit</a>)</p>
 	</div>
 	<script type="text/javascript">
-	<!--
-	    var qty = 0;  
-	    if($('.ChildPax option').size() >0)
-	    {
-		    qty = jQuery('.ChildPax').val();
-		}
-        UpdateChildAgeText(qty, 'Pax1');
+	    // the following function will check to see if the child ages message is displayed
+	    var timer;
+	    function checkChildAges() {
+		    var childDropdown = $("#" + 'Pax1' + "ChildAgesDisplay"),
+		        numOfKids = parseInt($('.ChildPax').val());
+	        if (numOfKids > 0 && childDropdown.hasClass("hide")) {
+	            childDropdown.removeClass("hide").addClass("show ChildAgesDisplay");
+	            UpdateChildAgeText(numOfKids, 'Pax1');
 
+	            timer = setTimeout('checkChildAges()', 500);
+	        } else {
+	            clearTimeout(timer);
+	        }
+	    }
+	    
+	    // Document ready
+	    $(function() {
+	        var qty = 0;
+	        if ($('.ChildPax option').size() > 0) {
+	            qty = jQuery('.ChildPax').val();
+	        }
+	        UpdateChildAgeText(qty, 'Pax1');
 
-        $(function() {
+	        setTimeout('checkChildAges()', 500);
 
-            function maxPax() {
-                var SQ = VH.AJAX.GetSearchObject();
-                var maxPax = parseInt(SQ.Adults, 10) + parseInt(SQ.Childs, 10) + parseInt(SQ.Infants, 10)
-                if (maxPax > 8) {
-                    $("#paxerror").show();
-                } else {
-                    $("#paxerror").hide();
-                }
-            }
+	        function maxPax() {
+	            var SQ = VH.AJAX.GetSearchObject();
+	            var maxPax = parseInt(SQ.Adults, 10) + parseInt(SQ.Childs, 10) + parseInt(SQ.Infants, 10);
+	            if (maxPax > 8) {
+	                $("#paxerror").show();
+	            } else {
+	                $("#paxerror").hide();
+	            }
+	        }
 
-            var adult = $("#Pax1paxwrap .adult select");
-            
-            $("#Pax1paxwrap .adult select").change(maxPax);
-            $("#Pax1paxwrap .children select").change(maxPax);
-            $("#Pax1paxwrap .infants select").change(maxPax);
-            
+	        var adult = $("#Pax1paxwrap .adult select");
+
+	        $("#Pax1paxwrap .adult select").change(maxPax);
+	        $("#Pax1paxwrap .children select").change(maxPax);
+	        $("#Pax1paxwrap .infants select").change(maxPax);
+	    });
+
+	    $(window).on("load", function() {
+	        checkChildAges();
         });
-		
-        
-	// -->
 	</script>
-
 </fieldset>
 
 
-	<input type="image" name="ctl00$BookingForm1$GeographicalSearchBF$RegionBookButton" id="ctl00_BookingForm1_GeographicalSearchBF_RegionBookButton" class="submit goBtn" src="/_assets/images/buttons/btn_find_holidays.gif" alt="Find holidays" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$BookingForm1$GeographicalSearchBF$RegionBookButton&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" border="0">
+	<div id="FindYourHoliday">
+			<h2 class="book-title" style="display:none;">Book your holiday today!</h2>
+            <p class="book-msg" style="display:none;">Book now and pay later with our early booking deposits.</p>
+			<input type="image" name="ctl00$BookingForm1$GeographicalSearchBF$RegionBookButton" id="ctl00_BookingForm1_GeographicalSearchBF_RegionBookButton" class="submit goBtn hideForHotelSpecific" src="/_assets/images/buttons/btn_find_holidays.gif" alt="Find holidays" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$BookingForm1$GeographicalSearchBF$RegionBookButton&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" border="0">
+			<div id="specificHolder" style="display:none;">
+            <p><input type="checkbox" checked="checked" name="specificHotelSearch" id="specificHotelSearch" class="specificHotelSearch">
+            <label for="specificHotelSearch" class="specificHotelSearch">Search this specific hotel</label></p></div>
+	</div>
+	
+	
+
+
+
+<script type="text/javascript">
+    var cmSignIn = 'cmCreatePageviewTag(\"Sign In\", \"Research tools\", null);';
+    var cmSignOut = 'cmCreatePageviewTag(\"Sign Out\", \"Research tools\", null);';
+    var cmRecentSearches = 'cmCreatePageviewTag(\"Recent Searches\", \"Research tools\", null);';
+    var cmSavedHotels = 'cmCreatePageviewTag(\"' + "Saved Hotels" + '\", \"' + "Research tools" + '\", null);';
+    var cmMyNotes = 'cmCreatePageviewTag(\"' + "My Notes" + '\", \"' + "Research tools" + '\", null);';
+
+        /* Profile Service Urls - Global variables */
+    var PROFFILE_MANAGER = 'http://www.virginholidays.co.uk/_assets/dynamic/Modules/ProfileTools/WS/ProfileManager.asmx';
+    var MY_ITINERARY_MANAGER = 'http://www.virginholidays.co.uk/_assets/dynamic/Modules/ProfileTools/WS/MyItineraryManager.asmx';
+	
+    var UpdateNumberOfSavedSearches = function(response) {
+        if (response.Success == true) {
+            $(".recent-searches .number").html("(" + response.Properties.Count + ")");
+        }
+    };
+
+    $(document).ready(function() {
+        if ($("#MyItinerary").attr("class") === "signed-in") {
+            $.getJSON($.CreateDotNetRemoteMethodCall(
+                    MY_ITINERARY_MANAGER,
+                    "GetNumberOfSavedSearches",
+                    this.id
+                    ),
+                    null,
+                    UpdateNumberOfSavedSearches);
+        }
+
+        // load thickbox if it's not already on the page
+        if (!$.thickbox) {
+            var docHead = document.getElementsByTagName("head")[0],
+                colorboxCss = document.createElement("link"),
+                colorboxJs = document.createElement("script");
+
+            // initialise the colorbox css doc    
+            colorboxCss.setAttribute("href", "/_assets/css/thickbox.css");
+            colorboxCss.setAttribute("rel", "stylesheet");
+            colorboxCss.setAttribute("type", "text/css");
+
+            // initialise the colorbox js doc
+            colorboxJs.setAttribute("src", "/_assets/js/thickbox.js");
+
+
+            if (docHead) {
+                docHead.appendChild(colorboxCss);
+                docHead.appendChild(colorboxJs);
+            }
+        }
+
+
+        // if the button is showing then we need to add some room for it
+        // above the 'Your booking is safe...' in the search panel
+        var topMargin = ($(".vht-recent-searches").is(":visible") || !$(".vht-recent-searches").hasClass("hide")) ? "100px" : "60px";
+        // we actually need to hide the 'saved searches' button on the smaller forms
+        if ($(".vht-recent-searches").parents("#Search").length <= 0) {
+            $(".vht-recent-searches").hide();
+            topMargin = "60px";
+        }
+
+        // if we're in IE7 then let's make the margin a little smaller
+        if ($.browser.msie && $.browser.version < 8) {
+            topMargin = ($(".vht-recent-searches").is(":visible") || !$(".vht-recent-searches").hasClass("hide")) ? "25px" : topMargin;
+        }
+
+        $("#Search .secure").css("margin-top", topMargin);
+
+
+
+
+        // need to close the lightbox from the 'close' button within the lightbox.
+        $("#btnSavedSearchClose").on("click", function(e) {
+            tb_remove();
+        });
+    });
+</script>
+
+
+<div class="vht-recent-searches hide ">
+    <a href="#TB_inline?width=420&amp;height=500&amp;inlineId=SavedSearchPopupContainer" class="thickbox">
+        <span class="copy foco-bold">
+            View your last 0 searches
+        </span>
+        <span class="icon-bg"></span>
+    </a>
+</div>
+
+
+
+
+	
 	
 <noscript>Please ensure Javascript is enabled on your browser and refresh this page to access our booking and availability system.</noscript>
 	
 	<input type="hidden" id="VHF_GEOGSEARCH_FORM" value="">
+	
 
 </div>
 
@@ -1258,6 +1157,7 @@ if (UpdateChildAgeText(jQuery(".ChildPax").val(),'Pax1')) HideChildAgeEntry('Pax
     					
 				    </div>
 				    
+
 <link rel="stylesheet" type="text/css" href="/_assets/css/navmenus.css">
 
 <script type="text/javascript" src="/_assets/js/vh/vh.menus.js"></script>
@@ -1265,17 +1165,20 @@ if (UpdateChildAgeText(jQuery(".ChildPax").val(),'Pax1')) HideChildAgeEntry('Pax
 <div id="globalNav">
 
 	<a name="globalNav"></a>
-	<h2 class="inv auralOnly"><img src="/dynamichtag.aspx?w=587&amp;s=19&amp;c=333333&amp;hoffset=-3&amp;caption=Global+site+navigation" alt="Global site navigation"><span>Global site navigation</span></h2>
+	<h2 class="auralOnly">Global site navigation</h2>
 	
 	<div id="NavPrimary">
-		<ul>
-			<li id="home"><a href="/" accesskey="1"><span>Home</span></a></li>
-			<li id="dest"><a href="#" title="Destinations"><span>Destinations</span></a></li>
-			<li id="types"><a href="#" title="Holiday Types"><span>Holiday Types</span></a></li>
-			<li id="offers"><a href="#" title="Special Offers"><span>Special Offers</span></a></li>
-			<li id="brochures"><a href="#" title="Brochures"><span>Brochures</span></a></li>
-			<li id="whyvh"><a href="#" title="Why a Virgin Holiday"><span>Why a Virgin Holiday</span></a></li>
-			<li id="support"><a href="#" title="Customer Support"><span>Customer Support</span></a></li>
+		<ul class="foco-headline">
+			<li id="home" class=""><a href="/" accesskey="1"><span>Home</span></a></li>
+			<li id="types" class="drop"><a href="/info/about/holiday_types/" title="Holidays"><span>Holidays</span></a></li>
+			<li id="hotels" class=""><a href="/brochures/accom_only/" title="Hotels"><span>Hotels</span></a></li>
+			<li id="flydrives" class=""><a href="/info/about/flydrive_holidays/" title="Flydrive Holidays"><span>Flydrives</span></a></li>
+			<li id="extras" class=""><a href="/travel_extras" title="Travel Extras"><span>Extras</span></a></li>
+			<li id="offers" class="reverse-grad drop"><a href="/special_offers/?sort=FromPrice&amp;order=ASC" title="Special Offers"><span>Deals</span></a></li>
+			<li id="dest" class="reverse-grad drop"><a href="/destinations/" title="Destinations"><span>Destinations</span></a></li>
+			<li id="whyvh" class="reverse-grad last"><a href="/info/about/who_are_we/magic_touches.aspx" title="Why a Virgin Holiday"><span>Magic Touches</span></a></li>
+			
+			
 		</ul>
 	    <div id="NavPrimaryBtm"></div>
 	</div>
@@ -1283,142 +1186,189 @@ if (UpdateChildAgeText(jQuery(".ChildPax").val(),'Pax1')) HideChildAgeEntry('Pax
 </div> 
 
 
-<div id="Destination_menu" class="menu" style="display:none;">
+<div id="Destination_menu" class="menu" style="display: none;">
     <div id="menu_align">
-	    <ul class="menuListing">
-            <li><a href="/info/about/destinations/florida/" title="Florida Holidays"><b>Florida Holidays</b></a></li>
-            <li><a href="/brochures/florida/holidays/orlando/resorts.aspx" title="Orlando">Orlando</a></li>
-            <li><a href="/brochures/florida/holidays/florida_keys/resorts.aspx" title="Florida Keys">Florida Keys</a></li>
-            <li><a href="/brochures/florida/holidays/south_gold_coast/fort_lauderdale/hotels.aspx" title="Fort Lauderdale">Fort Lauderdale</a></li>
-            <li><a href="/brochures/florida/holidays/miami/resorts.aspx" title="Miami">Miami</a></li>
-            <li><a href="/brochures/florida/holidays/north_gulf_coast/clearwater_and_indian_rocks/hotels.aspx" title="Clearwater">Clearwater</a></li>
-            <li><a href="/brochures/florida/holidays/north_gulf_coast/st_pete_beach_and_treasure_island/hotels.aspx" title="St Pete Beach">St Pete Beach</a></li>
-            <li><a href="/brochures/florida/holidays/florida_villas/resorts.aspx" title="Florida Villas">Florida Villas</a></li>
-            <li class="moreLink"><a href="/info/about/destinations/florida/" title="More Florida">More Florida...</a></li> 
-            <li class="emptyMiddle"> <p>&nbsp;</p></li>
-            <li><a href="/info/about/destinations/Indian_Ocean" title="Indian Ocean Holidays"><b>Indian Ocean Holidays</b></a></li>
-            <li><a href="/brochures/worldwide/holidays/indian_ocean/maldives/hotels.aspx" title="Maldives">Maldives</a></li>
-            <li><a href="/brochures/worldwide/holidays/indian_ocean/mauritius/hotels.aspx" title="Mauritius">Mauritius</a></li>
-            <li><a href="/brochures/worldwide/holidays/indian_ocean/seychelles/hotels.aspx" title="Seychelles">Seychelles</a></li>
-            <li><a href="/brochures/worldwide/holidays/indian_ocean/sri_lanka/hotels.aspx" title="Sri Lanka">Sri Lanka</a></li>
-            <li class="moreLink"><a href="/info/about/destinations/Indian_Ocean/" title="More Indian Ocean">More Indian Ocean...</a></li>
+	    <ul class="menuListing carribbean-bg first">
+	        <li><a href="/brochures/caribbean/" title="Caribbean Holidays" class="menu-item"><span></span>Caribbean Holidays</a>
+	            <ul class="sub-menu-listing">
+	                <li><a href="/brochures/caribbean/holidays/caribbean/barbados/hotels.aspx" title="Barbados" class="sub-menu-item">Barbados <span class="raquo">»</span></a></li>
+	                <li><a href="/brochures/caribbean/holidays/caribbean/antigua/hotels.aspx" title="Antigua" class="sub-menu-item">Antigua <span class="raquo">»</span></a></li>
+	                <li><a href="/brochures/caribbean/holidays/caribbean/st_lucia/hotels.aspx" title="St Lucia" class="sub-menu-item">St Lucia <span class="raquo">»</span></a></li>
+	                <li><a href="/brochures/caribbean/holidays/caribbean/jamaica/hotels.aspx" title="Jamaica" class="sub-menu-item">Jamaica <span class="raquo">»</span></a></li>
+	                <li><a href="/brochures/caribbean/holidays/caribbean/tobago/hotels.aspx" title="Tobago" class="sub-menu-item">Tobago <span class="raquo">»</span></a></li>
+	                <li><a href="/brochures/caribbean/holidays/caribbean/cuba/hotels.aspx" title="Cuba" class="sub-menu-item">Cuba <span class="raquo">»</span></a></li>
+	                <li><a href="/brochures/caribbean/holidays/caribbean/grenada/hotels.aspx" title="Grenada" class="sub-menu-item">Grenada <span class="raquo">»</span></a></li>
+	                <li class="moreLink"><a href="/brochures/caribbean/" title="More Caribbean" class="sub-menu-item">More Caribbean...</a></li>
+	            </ul>
+	        </li>
 	    </ul>
 	    
-	    <ul class="menuListing">
-	        <li><a href="/info/about/destinations/caribbean/" title="Caribbean Holidays"><b>Caribbean Holidays</b></a></li>
-	        <li><a href="/brochures/caribbean/holidays/caribbean/barbados/hotels.aspx" title="Barbados">Barbados</a></li>
-	        <li><a href="/brochures/caribbean/holidays/caribbean/antigua/hotels.aspx" title="Antigua">Antigua</a></li>
-	        <li><a href="/brochures/caribbean/holidays/caribbean/st_lucia/hotels.aspx" title="St Lucia">St Lucia</a></li>
-	        <li><a href="/brochures/caribbean/holidays/caribbean/jamaica/hotels.aspx" title="Jamaica">Jamaica</a></li>
-	        <li><a href="/brochures/caribbean/holidays/caribbean/tobago/hotels.aspx" title="Tobago">Tobago</a></li>
-	        <li><a href="/brochures/caribbean/holidays/caribbean/cuba/hotels.aspx" title="Cuba">Cuba</a></li>
-	        <li><a href="/brochures/caribbean/holidays/caribbean/grenada/hotels.aspx" title="Grenada">Grenada</a></li>
-	        <li class="moreLink"><a href="/info/about/destinations/caribbean/" title="More Caribbean">More Caribbean...</a></li>
-	        <li class="emptyMiddle"> <p>&nbsp;</p></li>
-	        <li><a href="/info/about/destinations/Asia_and_Far_East" title="Far East Holidays"><b>Far East Holidays</b></a></li>
-	        <li><a href="/brochures/worldwide/holidays/thailand/resorts.aspx" title="Thailand">Thailand</a></li>
-	        <li><a href="/brochures/worldwide/holidays/the_far_east/bali_and_ubud/hotels.aspx" title="Bali">Bali</a></li>
-	        <li><a href="/brochures/worldwide/holidays/malaysia/resorts.aspx" title="Malaysia">Malaysia</a></li>
-	        <li><a href="/brochures/worldwide/holidays/china/hong_kong/hotels.aspx" title="Hong Kong">Hong Kong</a></li>
-	        <li><a href="/brochures/worldwide/holidays/china/resorts.aspx" title="China">China</a></li>
-	        <li class="moreLink"><a href="/info/about/destinations/Asia_and_Far_East" title="More Far East">More Far East...</a></li>
+	    <ul class="menuListing far-east-bg">
+	        <li><a href="/info/about/destinations/Asia_and_Far_East" title="Far East Holidays" class="menu-item"><span></span>Far East Asia Holidays</a>
+	            <ul class="sub-menu-listing">
+	                <li><a href="/brochures/worldwide/holidays/thailand/resorts.aspx" title="Thailand" class="sub-menu-item">Thailand <span class="raquo">»</span></a></li>
+	                <li><a href="/brochures/worldwide/holidays/the_far_east/bali_and_ubud/hotels.aspx" title="Bali" class="sub-menu-item">Bali <span class="raquo">»</span></a></li>
+	                <li><a href="/brochures/worldwide/holidays/malaysia/resorts.aspx" title="Malaysia" class="sub-menu-item">Malaysia <span class="raquo">»</span></a></li>
+	                <li><a href="/brochures/worldwide/holidays/china/hong_kong/hotels.aspx" title="Hong Kong" class="sub-menu-item">Hong Kong <span class="raquo">»</span></a></li>
+	                <li><a href="/brochures/worldwide/holidays/china/resorts.aspx" title="China" class="sub-menu-item">China <span class="raquo">»</span></a></li>
+                    <li><a href="/brochures/worldwide/holidays/the_far_east/japan/hotels.aspx" title="Japan" class="sub-menu-item">Japan <span class="raquo">»</span></a></li>
+	                <li class="moreLink"><a href="/info/about/destinations/Asia_and_Far_East" title="More Far East" class="sub-menu-item">More Far East Asia...</a></li>
+	            </ul>
+	        </li>
 	    </ul>
 	    
-	    <ul class="menuListing">
-	        <li><a href="/info/about/destinations/USA/" title=""><b>USA Holidays</b></a></li>
-	        <li><a href="/brochures/usa/holidays/new_york/new_york/hotels.aspx" title="New York">New York</a></li>
-	        <li><a href="/brochures/usa/holidays/las_vegas/las_vegas/hotels.aspx" title="Las Vegas">Las Vegas</a></li>
-	        <li><a href="/brochures/usa/holidays/boston/boston/hotels.aspx" title="Boston">Boston</a></li>
-	        <li><a href="/brochures/usa/holidays/san_francisco/san_francisco/hotels.aspx" title="San Francisco">San Francisco</a></li>
-	        <li><a href="/brochures/usa/holidays/los_angeles/resorts.aspx" title="Los Angeles">Los Angeles</a></li>
-	        <li><a href="/brochures/usa/holidays/chicago/chicago/hotels.aspx" title="Chicago">Chicago</a></li>
-	        <li><a href="/brochures/usa/holidays/hawaii/resorts.aspx" title="Hawaii">Hawaii</a></li>
-	        <li class="moreLink"><a href="/info/about/destinations/USA/" title="More USA">More USA...</a></li>
-            <li class="emptyMiddle"> <p>&nbsp;</p></li>
-	        <li><a href="/info/about/destinations/Africa/" title="Africa Holidays"><b>Africa Holidays</b></a></li>
-	        <li><a href="/brochures/worldwide/holidays/egypt/resorts.aspx" title="Egypt">Egypt</a></li>
-	        <li><a href="/brochures/worldwide/holidays/kenya/resorts.aspx" title="Kenya">Kenya</a></li>
-	        <li><a href="/brochures/worldwide/holidays/south_africa/resorts.aspx" title="South Africa">South Africa</a></li>
-	        <li><a href="/brochures/worldwide/holidays/tanzania/zanzibar/hotels.aspx" title="Zanzibar">Zanzibar</a></li>
-	        <li class="moreLink"><a href="/info/about/destinations/Africa/" title="More Africa">More Africa...</a></li>
+	    <ul class="menuListing florida-bg">
+            <li><a href="/brochures/florida/" title="Florida Holidays" class="menu-item"><span></span>Florida Holidays</a>
+                <ul class="sub-menu-listing">
+                    <li><a href="/brochures/florida/holidays/orlando/resorts.aspx" title="Orlando" class="sub-menu-item">Orlando <span class="raquo">»</span></a></li>
+                    <li><a href="/brochures/florida/holidays/florida_keys/resorts.aspx" title="Florida Keys" class="sub-menu-item">Florida Keys <span class="raquo">»</span></a></li>
+                    <li><a href="/brochures/florida/holidays/south_gold_coast/fort_lauderdale/hotels.aspx" title="Fort Lauderdale" class="sub-menu-item">Fort Lauderdale <span class="raquo">»</span></a></li>
+                    <li><a href="/brochures/florida/holidays/miami/resorts.aspx" title="Miami" class="sub-menu-item">Miami <span class="raquo">»</span></a></li>
+                    <li><a href="/brochures/florida/holidays/north_gulf_coast/clearwater_and_st_pete_beach/hotels.aspx" title="Clearwater" class="sub-menu-item">Clearwater <span class="raquo">»</span></a></li>
+                    <li><a href="/brochures/florida/holidays/north_gulf_coast/st_pete_beach_and_treasure_island/hotels.aspx" title="St Pete Beach" class="sub-menu-item">St Pete Beach <span class="raquo">»</span></a></li>
+                    <li><a href="/brochures/florida/holidays/florida_villas/resorts.aspx" title="Florida Villas" class="sub-menu-item">Florida Villas <span class="raquo">»</span></a></li>
+                    <li class="moreLink"><a href="/brochures/florida/" title="More Florida" class="sub-menu-item">More Florida...</a></li> 
+                </ul>
+            </li>
+        </ul>   
+           
+        <ul class="menuListing indian-bg">
+            <li><a href="/info/about/destinations/Indian_Ocean" title="Indian Ocean Holidays" class="menu-item"><span></span>Indian Ocean Holidays</a>
+                <ul class="sub-menu-listing">
+                    <li><a href="/brochures/worldwide/holidays/indian_ocean/maldives/hotels.aspx" title="Maldives" class="sub-menu-item">Maldives <span class="raquo">»</span></a></li>
+                    <li><a href="/brochures/worldwide/holidays/indian_ocean/mauritius/hotels.aspx" title="Mauritius" class="sub-menu-item">Mauritius <span class="raquo">»</span></a></li>
+                    <li><a href="/brochures/worldwide/holidays/indian_ocean/seychelles/hotels.aspx" title="Seychelles" class="sub-menu-item">Seychelles <span class="raquo">»</span></a></li>
+                    <li><a href="/brochures/worldwide/holidays/indian_ocean/sri_lanka/hotels.aspx" title="Sri Lanka" class="sub-menu-item">Sri Lanka <span class="raquo">»</span></a></li>
+                    <li class="moreLink"><a href="/info/about/destinations/Indian_Ocean/" title="More Indian Ocean" class="sub-menu-item">More Indian Ocean...</a></li>
+                    <li class="moreLink"><a href="/brochures/worldwide/india_tours/" title="India Tours" class="sub-menu-item">India Tours <span class="raquo">»</span></a></li>
+                </ul>
+            </li>
 	    </ul>
 	    
-	    <ul class="menuListing">
-	        <li><a href="/info/about/destinations/Canada/" title="Canada Holidays"><b>Canada Holidays</b></a></li>
-	        <li><a href="/brochures/usa/holidays/canada/toronto/hotels.aspx" title="Toronto">Toronto</a></li>
-	        <li><a href="/brochures/usa/holidays/canada/whistler/hotels.aspx" title="Whistler">Whistler</a></li>
-	        <li><a href="/brochures/usa/holidays/canada/banff/hotels.aspx" title="Banff">Banff</a></li>
-	        <li><a href="/brochures/usa/holidays/canada/montreal/hotels.aspx" title="Montreal">Montreal</a></li>
-	        <li><a href="/brochures/usa/holidays/canada/vancouver/hotels.aspx" title="Vancouver">Vancouver</a></li>
-	        <li class="moreLink"><a href="/info/about/destinations/Canada/" title="More Canada">More Canada...</a></li>
-            <li class="empty"> <p>&nbsp;</p></li>
-	        <li class="empty"> <p>&nbsp;</p></li>
-	        <li class="emptyMiddle"> <p>&nbsp;</p></li>
-
-	        <li><a href="/info/about/destinations/Mexico/" title="Mexico Holidays"><b>Mexico Holidays</b></a></li>
-	        <li><a href="/brochures/mexico/holidays/mexico/cancun/hotels.aspx" title="Cancun">Cancun</a></li>
-            <li><a href="/brochures/mexico/holidays/mexico/cozumel/hotels.aspx" title="Cozumel">Cozumel</a></li>
-            <li><a href="/brochures/mexico/holidays/mexico/playa_del_carmen/hotels.aspx" title="Playa Del Carmen">Playa Del Carmen</a></li>
-            <li><a href="/brochures/mexico/holidays/mexico/riviera_maya/hotels.aspx" title="Riviera Maya">Riviera Maya</a></li>
-            <li><a href="/brochures/mexico/holidays/mexico/tulum/hotels.aspx" title="Tulum">Tulum</a></li>
-	        <li class="moreLink"><a href="/info/about/destinations/Mexico/" title="More Mexico">More Mexico...</a></li>
+	    
+	    <ul class="menuListing usa-bg last no-border">
+	        <li><a href="/brochures/usa/" title="" class="menu-item"><span></span>USA Holidays</a>
+	            <ul class="sub-menu-listing">
+	                <li><a href="/brochures/usa/holidays/new_york/new_york/hotels.aspx" title="New York" class="sub-menu-item">New York <span class="raquo">»</span></a></li>
+	                <li><a href="/brochures/usa/holidays/las_vegas/las_vegas/hotels.aspx" title="Las Vegas" class="sub-menu-item">Las Vegas <span class="raquo">»</span></a></li>
+	                <li><a href="/brochures/usa/holidays/boston/boston/hotels.aspx" title="Boston" class="sub-menu-item">Boston <span class="raquo">»</span></a></li>
+	                <li><a href="/brochures/usa/holidays/san_francisco/san_francisco/hotels.aspx" title="San Francisco" class="sub-menu-item">San Francisco <span class="raquo">»</span></a></li>
+	                <li><a href="/brochures/usa/holidays/los_angeles/resorts.aspx" title="Los Angeles" class="sub-menu-item">Los Angeles <span class="raquo">»</span></a></li>
+	                <li><a href="/brochures/usa/holidays/chicago/chicago/hotels.aspx" title="Chicago" class="sub-menu-item">Chicago <span class="raquo">»</span></a></li>
+	                <li><a href="/brochures/usa/holidays/hawaii/resorts.aspx" title="Hawaii" class="sub-menu-item">Hawaii <span class="raquo">»</span></a></li>
+	                <li class="moreLink"><a href="/brochures/usa/" title="More USA" class="sub-menu-item">More USA...</a></li>
+	            </ul>
+	        </li>
+	    </ul>  
+            
+	    <ul class="menuListing africa-bg first">   
+	        <li><a href="/info/about/destinations/Africa/" title="Africa Holidays" class="menu-item"><span></span>Africa Holidays</a>
+	            <ul class="sub-menu-listing">
+	                <li><a href="/brochures/worldwide/holidays/egypt/resorts.aspx" title="Egypt" class="sub-menu-item">Egypt <span class="raquo">»</span></a></li>
+	                <li><a href="/brochures/worldwide/holidays/kenya/resorts.aspx" title="Kenya" class="sub-menu-item">Kenya <span class="raquo">»</span></a></li>
+	                <li><a href="/brochures/worldwide/holidays/south_africa/resorts.aspx" title="South Africa" class="sub-menu-item">South Africa <span class="raquo">»</span></a></li>
+	                <li><a href="/brochures/worldwide/holidays/tanzania/zanzibar/hotels.aspx" title="Zanzibar" class="sub-menu-item">Zanzibar <span class="raquo">»</span></a></li>
+	                <li class="moreLink"><a href="/info/about/destinations/Africa/" title="More Africa" class="sub-menu-item">More Africa...</a></li>
+	            </ul>
+	        </li>
 	    </ul>
 	    
-	     <ul class="menuListing" style="width:185px;">
-	        <li><a href="/info/about/destinations/Middle_East/" title="Middle East Holidays"><b>Middle East Holidays</b></a></li>
-	        <li><a href="/brochures/worldwide/holidays/the_middle_east/dubai_beaches_and_beyond/hotels.aspx" title="Dubai Beaches">Dubai Beaches</a></li>
-	        <li><a href="/brochures/worldwide/holidays/the_middle_east/dubai_city/hotels.aspx" title="Dubai City">Dubai City</a></li>
-	        <li class="moreLink"><a href="/info/about/destinations/Middle_East/" title="More Middle East">More Middle East...</a></li>
-            <li class="empty"> <p>&nbsp;</p></li>
-            <li class="empty"> <p>&nbsp;</p></li>
-            <li class="empty"> <p>&nbsp;</p></li>
-            <li class="empty"> <p>&nbsp;</p></li>
-            <li class="empty"> <p>&nbsp;</p></li>
-            <li class="emptyMiddle"> <p>&nbsp;</p></li>
-            <li><a href="/info/about/destinations/Central_America/" title="Central America Holidays"><b>Central America Holidays</b></a></li>
-	        <li><a href="/brochures/worldwide/holidays/central_america/costa_rica/hotels.aspx" title="Costa Rica">Costa Rica</a></li>
-	        <li><a href="/brochures/worldwide/holidays/central_america/panama/hotels.aspx" title="Panama">Panama</a></li>
-            <li class="empty"> <p>&nbsp;</p></li>
-	        <li><a href="/info/about/destinations/Australasia/" title="Australasia Holidays"><b>Australasia Holidays</b></a></li>
-	        <li class="moreLink"><a href="/info/about/destinations/Australasia/" title="View all our destinations in Australia and New Zealand">View all our destinations in Australia and New Zealand</a></li>
+	    
+	    <ul class="menuListing canada-bg">
+	        <li><a href="/info/about/destinations/Canada/" title="Canada Holidays" class="menu-item"><span></span>Canada Holidays</a>
+	            <ul class="sub-menu-listing">
+	                <li><a href="/brochures/usa/holidays/canada/toronto/hotels.aspx" title="Toronto" class="sub-menu-item">Toronto <span class="raquo">»</span></a></li>
+	                <li><a href="/brochures/usa/holidays/canada/whistler/hotels.aspx" title="Whistler" class="sub-menu-item">Whistler <span class="raquo">»</span></a></li>
+	                <li><a href="/brochures/usa/holidays/canada/banff/hotels.aspx" title="Banff" class="sub-menu-item">Banff <span class="raquo">»</span></a></li>
+	                <li><a href="/brochures/usa/holidays/canada/montreal/hotels.aspx" title="Montreal" class="sub-menu-item">Montreal <span class="raquo">»</span></a></li>
+	                <li><a href="/brochures/usa/holidays/canada/vancouver/hotels.aspx" title="Vancouver" class="sub-menu-item">Vancouver <span class="raquo">»</span></a></li>
+	                <li class="moreLink"><a href="/info/about/destinations/Canada/" title="More Canada" class="sub-menu-item">More Canada...</a></li>
+                </ul>
+	        </li>
+	    </ul>    
+	        
+	    <ul class="menuListing mexico-bg">
+	        <li><a href="/info/about/destinations/Mexico/" title="Mexico Holidays" class="menu-item"><span></span>Mexico Holidays</a>
+	            <ul class="sub-menu-listing">
+	                <li><a href="/brochures/mexico/holidays/mexico/cancun/hotels.aspx" title="Cancun" class="sub-menu-item">Cancun <span class="raquo">»</span></a></li>
+                    
+                    <li><a href="/brochures/mexico/holidays/mexico/playa_del_carmen/hotels.aspx" title="Playa Del Carmen" class="sub-menu-item">Playa Del Carmen <span class="raquo">»</span></a></li>
+                    <li><a href="/brochures/mexico/holidays/mexico/riviera_maya/hotels.aspx" title="Riviera Maya" class="sub-menu-item">Riviera Maya <span class="raquo">»</span></a></li>
+                    <li><a href="/brochures/mexico/holidays/mexico/tulum/hotels.aspx" title="Tulum" class="sub-menu-item">Tulum <span class="raquo">»</span></a></li>
+	                <li class="moreLink"><a href="/info/about/destinations/Mexico/" title="More Mexico" class="sub-menu-item">More Mexico...</a></li>
+                <li class="moreLink"><a href="/brochures/worldwide/south_america_tours" title="South America Tours" class="sub-menu-item">South America Tours <span class="raquo">»</span></a></li>                
+                </ul>
+	        </li>
 	    </ul>
-	    <div class="menuDividerDest"></div>
-        
-        <div id="menuFooter" class="moreLink">
-            <a href="/info/about/destinations"><b>View all destinations</b></a>
-        </div>
-	  
+	    
+	    <ul class="menuListing middleeast-bg">
+	        <li><a href="/info/about/destinations/Middle_East/" title="Middle East Holidays" class="menu-item"><span></span>Middle East Holidays</a>
+	            <ul class="sub-menu-listing">
+	                <li><a href="/brochures/worldwide/holidays/the_middle_east/dubai_beaches_and_beyond/hotels.aspx" title="Dubai Beaches" class="sub-menu-item">Dubai Beaches <span class="raquo">»</span></a></li>
+                    <li><a href="/brochures/worldwide/holidays/the_middle_east/dubai_city/hotels.aspx" title="Dubai City" class="sub-menu-item">Dubai City <span class="raquo">»</span></a></li>
+	                <li class="moreLink"><a href="/info/about/destinations/Middle_East/" title="More Middle East" class="sub-menu-item">More Middle East...</a></li>
+	            </ul>
+	        </li>
+	    </ul>
+            
+         <ul class="menuListing australia-bg last no-border">
+	        <li><a href="/info/about/destinations/Australasia/" title="Australasia Holidays" class="menu-item"><span></span>Australasia Holidays</a>
+	            <ul class="sub-menu-listing">
+	                <li><a href="/info/about/destinations/Australasia/" title="View all our destinations in Australia and New Zealand" class="sub-menu-item">Australia &amp; <br>New Zealand <span class="raquo">»</span></a></li>
+                </ul>
+	        </li>
+	    </ul>
 	</div>
 </div>
 
-<div id="HolidayTypes_menu" class="menu" style="display:none;">
+<div id="HolidayTypes_menu" class="menu" style="display: none;">
     <div id="menu_align">
 
         <ul class="menuListing">
-            <li><a href="/brochures/florida/info/disney_holidays/" title="Disney Holidays">Disney Holidays</a></li>
-            <li><a href="/info/about/family_holidays/" title="Family holidays">Family holidays</a></li>
-            <li><a href="/brochures/ski/" title="Ski holidays">Ski holidays</a></li>
-            <li><a href="/info/about/flydrive_holidays/" title="Flydrive holidays">Flydrive holidays</a></li>
-            <li><a href="/info/about/beach_holidays/" title="Beach holidays">Beach holidays</a></li>
-            <li><a href="http://www.virginholidayscruises.co.uk/" target="_blank" title="Cruise Holidays">Cruise Holidays</a></li>
+            <li><img src="/_assets/images/nav/DisneyHolidays.jpg"><a href="/brochures/florida/info/disney_holidays/" title="Disney Holidays" class="menu-item foco-headline">Disney Holidays <span class="raquo">»</span></a></li>
+            <li><img src="/_assets/images/nav/FamilyHolidays.jpg"><a href="/info/about/family_holidays/" title="Family holidays" class="menu-item foco-headline">Family Holidays <span class="raquo">»</span></a></li>
+            <li><img src="/_assets/images/nav/SkiHolidays.jpg"><a href="/brochures/ski/" title="Ski holidays" class="menu-item foco-headline">Ski Holidays <span class="raquo">»</span></a></li>
+            <li><img src="/_assets/images/nav/FlydriveHolidays.jpg"><a href="/info/about/flydrive_holidays/" title="Flydrive holidays" class="menu-item foco-headline">Flydrive Holidays <span class="raquo">»</span></a></li>
+            <li><img src="/_assets/images/nav/BeachHolidays.jpg"><a href="/info/about/beach_holidays/" title="Beach holidays" class="menu-item foco-headline">Beach Holidays <span class="raquo">»</span></a></li>
+            <li><img src="/_assets/images/nav/CruiseHolidays.jpg"><a href="/special_offers/cruise-deals/" title="Cruise Holidays" class="menu-item foco-headline">Cruise Holidays <span class="raquo">»</span></a></li>
+            <li><img src="/_assets/images/nav/ShoppingHolidays.jpg"><a href="/info/about/shopping_breaks/" title="Shopping breaks" class="menu-item foco-headline">Shopping Breaks <span class="raquo">»</span></a></li>
+            <li><img src="/_assets/images/nav/AllInclusiveHolidays.jpg"><a href="/info/about/all_inclusive/" title="All Inclusive holidays" class="menu-item foco-headline">All Inclusive Holidays <span class="raquo">»</span></a></li>
+            <li><img src="/_assets/images/nav/LuxuryHolidays.jpg"><a href="/info/about/luxury/" title="Luxury holidays" class="menu-item foco-headline">Luxury Holidays <span class="raquo">»</span></a></li>
+            <li class="no-border"><img src="/_assets/images/nav/HoneymoonHolidays.jpg"><a href="/special_offers/weddings/" title="Weddings &amp; Honeymoons" class="menu-item foco-headline">Weddings &amp; Honeymoons <span class="raquo">»</span></a></li>
+            <li class="no-border"><img src="/_assets/images/nav/MulticentreHolidays.jpg"><a href="/info/about/multi_centre/" title="Multicentre holidays" class="menu-item foco-headline">Multi-Centre Holidays <span class="raquo">»</span></a></li>
+            <li class="no-border"><img src="/_assets/images/nav/EscortedTourHolidays.jpg"><a href="http://www.virginholidaysjourneys.co.uk/" target="_blank" title="Escorted Tours" class="menu-item foco-headline">Escorted Tours <span class="raquo">»</span></a></li>
         </ul>
-        <ul class="menuListing">
-            <li><a href="/info/about/shopping_breaks/" title="Shopping breaks">Shopping breaks</a></li>
-            <li><a href="/info/about/all_inclusive/" title="All Inclusive holidays">All Inclusive holidays</a></li>
-            <li><a href="/info/about/luxury/" title="Luxury holidays">Luxury holidays</a></li>
-            <li><a href="/info/about/honeymoons/" title="Honeymoons and Mini Moons">Honeymoons and Mini Moons</a></li>
-            <li><a href="/info/about/multi_centre/" title="Multicentre holidays">Multicentre holidays</a></li>
-            <li><a href="http://www.virginholidaysjourneys.co.uk/" target="_blank" title="Escorted Tours">Escorted Tours</a></li>
-        </ul>
-        <div class="menuDividerTypes"></div>
-
-        <div id="menuFooter" class="moreLink">
-        <a href="/info/about/holiday_types"><b>More Holiday types</b></a>
-        </div>
-        
     </div>
 </div>
     
+<div id="SpecialOffers_menu" class="menu" style="display: none;">
+    <div id="menu_align">
+        <ul class="menuListing">
+       
+            <li><a href="/special_offers/last_minute/" manual_cm_sp="TopNav-_-Deals-_-LateDeals" class="menu-item foco-headline">Last Minute Deals <span class="raquo">»</span></a></li>
+            <li><a href="/special_offers/Caribbean_All_Inclusive_offers/" class="menu-item foco-headline">Caribbean All Inclusive <span class="raquo">»</span></a></li>
+            <li><a href="/special_offers/north_america_offers/" class="menu-item foco-headline">USA City Break Deals <span class="raquo">»</span></a></li>
+            <li><a href="/special_offers/florida_offers/" class="menu-item foco-headline">Florida Deals <span class="raquo">»</span></a></li>
+            <li><a href="/special_offers/disney_diningplan/" class="menu-item foco-headline">Disney Deals <span class="raquo">»</span></a></li>
+            <li><a href="/special_offers/dubai_promotion/" class="menu-item foco-headline">Dubai Summer Offers <span class="raquo">»</span></a></li>
+            
+		</ul>
+        <div class="menu-panel">
+             <a href="/special_offers/web_exclusive_offers/"><img src="/_assets/images/nav/deals_promo_1.gif"></a>
+        </div>
+    </div>
+</div>
+
+
+<div id="SavedSearchPopupContainer" style="display:none">
+    <div class="saved-search-container">
+       <a href="#" id="btnSavedSearchClose" class="close-link">Close</a>
+       <h3 class="foco-bold saved-search-title">Saved Searches</h3>
+        <ul class="saved-search-list">
+            
+        </ul>
+    </div>
+</div>
 
 			    
 			</div>
@@ -1430,9 +1380,9 @@ if (UpdateChildAgeText(jQuery(".ChildPax").val(),'Pax1')) HideChildAgeEntry('Pax
     <div id="footerWrap">
     
         <div class="footerCol1">
-            <h3 class="inv"><img src="/dynamichtag.aspx?w=587&amp;s=15&amp;c=666666&amp;hoffset=-3&amp;caption=About+Virgin+Holidays" alt="About Virgin Holidays"><span>About Virgin Holidays</span></h3>
+            <h3>About Virgin Holidays</h3>
             <ul>
-                <li><a href="/info/important/how_to_book/">How to Book</a></li>
+                <li><a href="/info/about/contact_us/">Contact Us</a></li>
 		        <li><a href="/info/important/terms_conditions/" accesskey="8">Terms &amp; Conditions</a></li>
 		        <li><a href="/info/important/privacy_statement/">Privacy Statement</a></li>
 		        <li><a href="/info/about/who_are_we/responsible_tourism/responsible_tourism.aspx">Responsible Tourism</a></li>
@@ -1444,7 +1394,7 @@ if (UpdateChildAgeText(jQuery(".ChildPax").val(),'Pax1')) HideChildAgeEntry('Pax
             </ul>
         </div>
         <div class="footerCol2">
-            <h3 class="inv"><img src="/dynamichtag.aspx?w=587&amp;s=15&amp;c=666666&amp;hoffset=-3&amp;caption=Our+Family" alt="Our Family"><span>Our Family</span></h3>
+            <h3>Our Family</h3>
             <ul>
 		        <li><a href="http://www.balesworldwide.com/" target="_blank">Bales Worldwide</a></li>
 		        <li><a href="http://www.vhiphotels.co.uk/" target="_blank">HIP Hotels</a></li>
@@ -1456,26 +1406,32 @@ if (UpdateChildAgeText(jQuery(".ChildPax").val(),'Pax1')) HideChildAgeEntry('Pax
 	        </ul>
         </div>
         <div class="footerCol3">
-	        <h3 class="inv"><img src="/dynamichtag.aspx?w=587&amp;s=15&amp;c=666666&amp;hoffset=-3&amp;caption=Travel+Information" alt="Travel Information"><span>Travel Information</span></h3>
+	        <h3>Travel Information</h3>
 	        <ul>
-		        <li><a href="/info/important/latest_travel_updates/">Travel Updates</a></li>
+		        <li><a href="/info/important/latest_travel_updates/">Travel Updates</a></li>                
 		        <li><a href="/info/holiday_information/things_you_need_to_know/before_you_go/">Before you go</a></li>
                 <li><a href="/info/holiday_information/">Holiday Information</a></li>
-		        <li><a href="/info/important/faqs/" accesskey="5">FAQs</a></li>
-		        <li><a href="/info/important/disabled_customers/">Disabled customers</a></li>
+		        <li><a href="#" onclick="window.open('http://virginholidays.faq-help.com/existing_customers/faqtAgent.html','faqtAgent','top=150,left=350,width=800,height=600,scrollbars=no,menubar=no,toolbar=no,resizable=no');return true;">FAQs</a>
+
+</li>
+		        <li><a href="/info/about/contact_us/">Customer Support</a></li>
+                <li><a href="/info/important/disabled_customers/">Disabled customers</a></li>
 		        <li><a href="http://www.virgin-atlantic.com/en/gb/index.jsp" target="_blank">Prebook seats &amp; meals</a></li>
 		        <li><a href="https://www.virgin-atlantic.com/en/gb/frequentflyer/index.jsp" target="_blank">Virgin Atlantic Flying Club</a></li>
 	        </ul>
         </div>
         <div class="footerCol4">
 	        <ul>
-		        <li class="footer-valerie">Have you got a question?<br><a onclick="window.open('http://www.smartagent.co.uk/clients/virgin_holidays/smartAgent.html','smartAgent','top=250,left=330,width=450,height=500, scrollbars=no,menubar=no,toolbar=no,resizable=no');return true;" href="#">Ask Valerie</a></li>
+		        <li class="footer-valerie">Have you got a question?<br><a href="#" onclick="window.open('http://virginholidays.faq-help.com/existing_customers/faqtAgent.html','faqtAgent','top=150,left=350,width=800,height=600,scrollbars=no,menubar=no,toolbar=no,resizable=no');return true;">Ask us here</a>
+
+</li>
 		        <li class="footer-call">To make a booking call<br><b>0844 557 3865</b></li>
 		        <li class="footer-store">Find a Virgin Holidays store<br><a href="/info/about/contact_us/retail_stores.aspx">Click here</a></li>
 		        <li class="footer-follow">Follow us
 		            <a class="facebook" href="http://www.facebook.com/virginholidays" target="_blank">&nbsp;</a>
 		            <a class="twitter" href="https://twitter.com/intent/user?original_referer=http%3A%2F%2Fwww.virginholidays.co.uk%2Finfo%2Fabout%2Fcustomer_service%2F&amp;region=screen_name&amp;screen_name=virginholidays&amp;source=followbutton&amp;variant=1.1" target="_blank">&nbsp;</a>
 		            <a class="youtube" href="http://www.youtube.com/virginholidays" target="_blank">&nbsp;</a>
+		            <a class="google" href="https://plus.google.com/+virginholidays/posts" target="_blank">&nbsp;</a>
 		        </li>
 	        </ul>
         </div>
@@ -1485,12 +1441,12 @@ if (UpdateChildAgeText(jQuery(".ChildPax").val(),'Pax1')) HideChildAgeEntry('Pax
         <div id="disclaimer">
             <div class="disclaimerLogos">
                 <a href="/info/press/releases/2010/09/ttg_travel_awards.aspx"><img src="/_assets/images/footer/ttg_travel_awards.gif" style="padding-left:40px;"></a>
-                <a href="/info/press/releases/2010/11/bta_2010.aspx"><img src="/_assets/images/footer/bta_2010.gif"></a>
+                <a href="/info/press/releases/2012/11/bta.aspx"><img src="/_assets/images/footer/bta_2010.gif"></a>
             <br>
                 <a href="http://www.virgin.com/" target="_blank"><img src="/_assets/images/footer/virgin.gif"></a>
                 <a href="http://www.travelmatch.co.uk/scripts/verify.hts?+V2043" target="_blank"><img src="/_assets/images/footer/abta.gif"></a>
                 <a href="/info/about/who_are_we/#secure"><img src="/_assets/images/footer/globalsign.gif"></a>
-                <a href="http://www.caa.co.uk/application.aspx?catid=490&amp;pagetype=65&amp;appid=2&amp;mode=detailnosummary&amp;atolNbr=2358" target="_blank"><img src="/_assets/images/footer/atol.gif"></a>
+                <a href="http://www.caa.co.uk/application.aspx?catid=490&amp;pagetype=65&amp;appid=2&amp;mode=detail&amp;atolNbr=2358&amp;mbrId=" target="_blank"><img src="/_assets/images/footer/atol.gif"></a>
             </div>
             <p>Virgin Holidays Limited is an Introducer Appointed Representative of Mondial Assistance (UK) Limited which 
             is authorised and regulated by the Financial Services Authority (FSA). Mondial Assistance (UK) Limited FSA registration number
@@ -1507,22 +1463,14 @@ if (UpdateChildAgeText(jQuery(".ChildPax").val(),'Pax1')) HideChildAgeEntry('Pax
 
 
 
-<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script>
-<script type="text/javascript">
-<!--
-_uacct = "UA-1509342-1";
-if (typeof(urchinTracker) != "undefined") urchinTracker();
-// -->
-</script>
 
 
-<div id="serverID">W4</div>
-<script>var cmServerName = "W4";</script>
+
+<div id="serverID">W2</div>
+<script>var cmServerName = "W2";</script>
 
 		</form>
 				
 	
 
-<div id="ui-datepicker-div" style="display: none;"></div><table class="bubbletip" cellspacing="0" cellpadding="0" style="opacity: 0; width: 386px; height: 118px; position: absolute; top: 72px; left: 719.5px; display: none;"><tbody><tr><td class="bt-topleft"></td><td><table class="bt-top" cellspacing="0" cellpadding="0"><tbody><tr><th></th><td><div></div></td><th></th></tr></tbody></table></td><td class="bt-topright"></td></tr><tr><td class="bt-left"></td><td class="bt-content"><div id="tip1_left" style="">
-    The Cookies we use on virginholidays.co.uk help us to give you<br> the best experience. We'll assume you're happy for us to use<br> them if you keep using our website.<br><a href="/info/about/cookies/">Find out more about our cookies and how you can manage them</a>
-</div></td><td class="bt-right"></td></tr><tr><td class="bt-bottomleft"></td><td class="bt-bottom"></td><td class="bt-bottomright"></td></tr></tbody></table></body></html>
+<div style="min-height: 100px; height: auto; padding: 0px; border-width: 0px;"></div></body></html>
