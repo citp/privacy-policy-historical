@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studycopter.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231001505id_/http%3A//www.studycopter.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studycopter.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630103919id_/http%3A//studycopter.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Studycopter, Study Smarter
 
