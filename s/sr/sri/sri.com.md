@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sri.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230185038id_/http%3A//www.sri.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sri.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630172800id_/http%3A//www.sri.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SRI International
 
@@ -41,6 +41,8 @@ SRI may use Personal Information, Usage Information, and User Contributions to:
 
 
 
+
+If you apply for employment with SRI, SRI may use your Personal Information, Usage Information, and User Contributions to evaluate your application for employment, including, but not limited to, performing background checks using a third party service provider.
 
 SRI has established and maintains reasonable procedures to protect the confidentiality, security, and integrity of Personal Information and Usage Information collected by our Sites.  SRI will not sell or rent your Personal Information to anyone.
 
@@ -85,4 +87,4 @@ Attn: Office of the General Counsel
 Menlo Park, CA 94025  
 (650) 859-2000
 
-Last updated October 25, 2012
+Last updated June 12, 2013
