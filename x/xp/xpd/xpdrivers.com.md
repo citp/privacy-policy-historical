@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xpdrivers.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222210456id_/http%3A//xpdrivers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xpdrivers.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630150709id_/http%3A//xpdrivers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | XP Drivers
 
