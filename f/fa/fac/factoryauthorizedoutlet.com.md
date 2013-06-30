@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the factoryauthorizedoutlet.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226131733id_/http%3A//www.factoryauthorizedoutlet.com/dewalt/nav/Security-Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factoryauthorizedoutlet.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630070424id_/http%3A//www.factoryauthorizedoutlet.com/security-privacy) for the most accurate reproduction.*
 
-# Security & Privacy - Factory Authorized Outlet
+# FAO - Security & Privacy
 
 **Security:**  
 Factory Authorized Outlet uses VeriSign® Server-Gated Cryptography (SGC), the most powerful SSL encryption commercially available today. SGC-enabled SSL Certificates insure 128 or 256-bit encryption to prevent third parties from reading any information you enter during our online Checkout process.
