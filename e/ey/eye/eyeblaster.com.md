@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eyeblaster.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625220546id_/http%3A//www.mediamind.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyeblaster.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630160439id_/http%3A//www.mediamind.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MediaMind
 
@@ -25,13 +25,20 @@ We have reasonable security measures in place to help protect your personally id
 **The Opt-Out Cookie & Your Choices**  
 MediaMind allows consumers to opt out of having online ads tailored using the MediaMind ad-serving cookie. Blocking and/or opting out of cookies does not stop advertisements from being served to your computer; rather, it prevents data from being associated with your browser. Please note that if you choose an opt-out cookie, we will be unable to recognize your browser from one visit to the next, and you may therefore receive the same ad multiple times.
 
-[Click here](http://ds.serving-sys.com/OBA/MediaMind/OptOut.aspx) for the MediaMind ad-serving cookie opt-out. The cookie will apply to the specific browser you are using; if you wish to opt out for other browsers or computers that you use, you must repeat the process using these browsers or computers.  All other cookies associated with your browser will remain intact and your opt-out will be effective with respect to the browser used as long as you do not delete the cookie file from your hard drive. This opt-out process will erase the cookie ID but not the cookie. It's necessary for us to store this "Keep Out" cookie on your computer in order to recognize you as an opt-out user. Please note that if you erase all cookies from your computer, you will also erase our opt-out cookie and will need to repeat the process of opting out.  You may also [opt out by clicking here to visit the website of the NAI](http://ds.serving-sys.com/OBA/MediaMind/OptOut.aspx).
+[Click here](http://ds.serving-sys.com/OBA/MediaMind/OptOut.aspx) for the MediaMind ad-serving cookie opt-out. The cookie will apply to the specific browser you are using; if you wish to opt out for other browsers or computers that you use, you must repeat the process using these browsers or computers.  All other cookies associated with your browser will remain intact and your opt-out will be effective with respect to the browser used as long as you do not delete the cookie file from your hard drive. This opt-out process will erase the cookie ID but not the cookie. It's necessary for us to store this "Keep Out" cookie on your computer in order to recognize you as an opt-out user. Please note that if you erase all cookies from your computer, you will also erase our opt-out cookie and will need to repeat the process of opting out.  You may also [opt out by clicking here to visit the website of the NAI](http://www.networkadvertising.org/managing/opt_out.asp).
 
 If you’ve previously opted out, and would like to reverse your setting, [click here](http://ds.serving-sys.com/OBA/MediaMind/OptIn.aspx) to opt back in.
 
 Through our services and platform, our customers have access to services provided by third party companies that assist our customers with delivering more relevant ads to you.  We have partnered with Bizo, AppNexus, and other companies for these purposes.  To learn more about the services and practices of Bizo or AppNexus or make choices about their services you can visit the sites for [Bizo](http://www.bizo.com/businessProfessionals/opt_out) and [AppNexus](http://www.appnexus.com/legal/privacy.php) .
 
-If you would like to learn more about the practices of some of these other companies and to make choices about their use of your information, please click the following [link](http://www.networkadvertising.org/participating).  There may be other third party companies not covered by the NAI program.
+If you would like to learn more about the practices of some of these other companies and to make choices about their use of your information, please click the following [link](http://www.networkadvertising.org/participating).  There may be other third party companies not covered by the NAI program, and you may consult the privacy policies on their websites for more information and make choices about their services.
+
+**Safe Harbor Compliance**  
+MediaMind complies with the US-EU Safe Harbor Framework and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  MediaMind has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/>.
+
+In compliance with the US-EU and US-Swiss Safe Harbor Principles, MediaMind commits to resolve complaints about your privacy and our collection or use of your personal information.  European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact MediaMind at [Privacy-ProjectGroup@mediamind.com](mailto:Privacy-ProjectGroup@mediamind.com?subject=privacy) .
+
+MediaMind has further committed to refer unresolved privacy complaints from EU and Swiss citizens or residents regarding transfers of their personal data under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if MediaMind does not satisfactorily address your complaint, you may contact BBB EU SAFE HARBOR at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) .
 
 **Changes to this Document**  
 MediaMind reserves the right to change, modify, add or remove portions of this policy at any time and without notice. If we change our privacy policy, we will make every effort to post those changes in this area so that you are aware of what information we collect, how we use it, and under what circumstances we disclose it.
@@ -39,4 +46,4 @@ MediaMind reserves the right to change, modify, add or remove portions of this p
 **If You Have Questions About This Policy**  
 To address any questions, comments, or concerns related to our privacy policy, please contact our [Customer Support.](https://web.archive.org/contact-us)
 
-Last updated May 5, 2011.
+Last updated August 20, 2012.
