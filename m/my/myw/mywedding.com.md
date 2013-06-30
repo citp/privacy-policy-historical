@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mywedding.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231003907id_/http%3A//www.mywedding.com/main/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mywedding.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630233030id_/http%3A//www.mywedding.com/main/privacy.html) for the most accurate reproduction.*
 
 # mywedding - Wedding Planning Guide and Free Wedding Websites - mywedding.com - mywedding.com
 
@@ -24,7 +24,7 @@ You can choose not to provide certain information, but then you might not be abl
 
 ### Information Automatically Stored
 
-We receive and store certain types of information whenever you interact with us. For example, like many Websites, we use "cookies," and we obtain certain types of information when your Web browser accesses mywedding.com or advertisements. Cookies cannot and will not be used by us to retrieve any personal information about you from your computer that you have not previously and voluntarily provided to us. However, cookies may also be received when you link to our affiliates’ websites or when you view or click on advertisements served by outside advertising companies and we do not have control over how they use this information. 
+We receive and store certain types of information whenever you interact with us. For example, like many Websites, we use "cookies," and we obtain certain types of information when your Web browser accesses mywedding.com or advertisements. We or a data provider we have engaged may place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. Cookies may also be received when you link to our affiliates’ websites or when you view or click on advertisements served by outside advertising companies and we do not have control over how they use this information. To opt-out of these cookies, [click here](http://www.aboutads.info/choices/). 
 
 The Help portion of your Web browser will tell you how to prevent your browser from accepting new cookies. Additionally, you can disable or delete similar data in your browser. While you can read our editorial content and use certain portions of mywedding.com without allowing cookies to be stored on your computer, these cookies allow you to take advantage of some of our essential features. We therefore recommend that you leave cookies enabled. 
 
@@ -41,7 +41,7 @@ Mywedding.com is committed to protecting your privacy in regards to your persona
 
 
 
-We reserve the right to disclose to third parties information about general subscriber usage of mywedding.com and any related services, including information gathered during your use of mywedding.com. Any information disclosed will be in the form of aggregate data (such as overall patterns or demographic reports) that does not describe or identify any individual user. By using Delightful Deals or our other opt-in services, you hereby grant mywedding.com permission to disclose the personal information you have provided to vendors matched to your service request. These opt-in services are a matching service and does not guarantee a successful transaction. Except as provided in this Privacy Policy, we do not share, trade, sell or allow access of your personal information to any third parties. 
+We reserve the right to disclose to third parties information about general subscriber usage of mywedding.com and any related services, including information gathered during your use of mywedding.com. Any information disclosed will be in the form of non-human readable form or aggregate data (such as overall patterns or demographic reports) that does not describe or identify any individual user. By using Delightful Deals or our other opt-in services, you hereby grant mywedding.com permission to disclose the personal information you have provided to vendors matched to your service request. These opt-in services are a matching service and does not guarantee a successful transaction. Except as provided in this Privacy Policy, we do not share, trade, sell or allow access of your personal information to any third parties. 
 
 ### Advertising Choices
 
