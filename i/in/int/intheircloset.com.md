@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intheircloset.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230053549id_/http%3A//intheircloset.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intheircloset.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630192344id_/http%3A//intheircloset.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -55,4 +55,4 @@ Whenever InTheirCloset.com changes its privacy policy, we will post those change
 
 ### Contact Information
 
-If you have any questions or suggestions regarding our privacy policy, please do not hesitate to contact us at [info[at]intheircloset[dot]com](mailto:InTheirCloset.com\[REMOVETHIS\]@gmail.com).
+If you have any questions or suggestions regarding our privacy policy, please do not hesitate to contact us at [info@intheircloset.com](mailto:info@intheircloset.com).
