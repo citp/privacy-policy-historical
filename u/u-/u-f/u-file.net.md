@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the u-file.net privacy policy that was archived on 2012-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121012161942id_/http%3A//www.u-file.net/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the u-file.net privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630205641id_/http%3A//www.u-file.net/privacypolicy.php) for the most accurate reproduction.*
 
-# UfiLe - Your Sharing Park (U-fiLe 2012)
+# Your Sharing Park - ufile upload for free (U-fiLe 2013)
 
-Since we are testing the network, the services could be unstable, and we will try our best to recover it soon.
-
- **For copyright infringement issue, please contact[webmaster@u-file.net](mailto:webmaster@u-file.net) / pressing "Abuse this file" for a rapid investigation and action. Thank you very much.**
+For copyright infringement issue, please contact [webmaster@u-file.net](mailto:webmaster@u-file.net) / pressing "Abuse this file" for a rapid investigation and action. Thank you very much.
 
  **What information do we collect?**
 
