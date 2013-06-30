@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the netcheck.co.nz privacy policy that was archived on 2012-09-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120919093331id_/http%3A//www.apn.com.au/footer/privacy-statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the netcheck.co.nz privacy policy that was archived on 2013-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130630052742id_/http%3A//www.apn.com.au/footer/privacy-statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -262,7 +262,7 @@ $(function() {
 	
 <div id="footer">
     <div class="wrapper">
-      <div class="left">© APN 2012</div>
+      <div class="left">© APN 2013</div>
       <div class="right">
         <ul>
           <li><a href="/footer/contact/">Contact</a></li>
@@ -289,7 +289,20 @@ $(function() {
                   function(){this.src = this.src.replace("_off","_on");},
                   function(){this.src = this.src.replace("_on","_off");
             });	
-            $('dl.slidedeck').slidedeck();
+            
+			sd = $('dl.slidedeck').slidedeck();
+			
+			$('dl.slidedeck').mouseover(
+				function() { sd.pauseAutoPlay = true;}
+			);		
+
+			$('dl.slidedeck').mouseout(
+				function() {
+					if ($('dl.slidedeck dd.active embed, dl.slidedeck dd.active object, dl.slidedeck dd.active video').get().length == 0) {
+						sd.pauseAutoPlay = false;
+					}
+				}
+			);		
         });
         </script>
         <!-- start lightbox code -->
