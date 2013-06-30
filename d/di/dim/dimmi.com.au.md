@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dimmi.com.au privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130164830id_/http%3A//www.dimmi.com.au/links/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dimmi.com.au privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630101321id_/http%3A//www.dimmi.com.au/links/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Dimmi
 
