@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marykay.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228122714id_/http%3A//www.marykay.com/en-US/Pages/MK-Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marykay.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630065326id_/http%3A//www.marykay.com/en-US/Pages/MK-Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Mary Kay Privacy Policy
 
@@ -42,7 +42,7 @@ We participate in the U.S. Council of Better Business Bureau’s (BBB) Accredite
 
 _Privacy Complaints by European Union Citizens:_
 
-Mary Kay has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit [http://www.export.gov/safeharbor/](http://export.gov/safeharbor/). In compliance with the Safe Harbor Principles, Mary Kay commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact Mary Kay as listed above.
+Mary Kay has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit [http://www.export.gov/safeharbor](http://export.gov/safeharbor). In compliance with the Safe Harbor Principles, Mary Kay commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact Mary Kay as listed above.
 
 Mary Kay has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Mary Kay, please visit the BBB EU Safe Harbor website at <http://www.bbb.org/us/safe-harbor-complaints> for more information and to file a complaint.
 
