@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycroburst.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215151115id_/http%3A//www.mycroburst.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycroburst.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630034647id_/https%3A//www.mycroburst.com/privacy_policy) for the most accurate reproduction.*
 
 # MycroBurst » Leader in Graphic, Web and Logo Design Contests
 
@@ -170,7 +170,7 @@ If we change our privacy statement, we will post the revised statement here, wit
 
 We value your opinions. If you have comments or questions about our privacy statement, please send them to the LDG Privacy Office or write to us at the following address:   
 LDG Privacy Mailbox  
-370 E. Maple Avenue   
+340 E. Maple Avenue   
 Suite 307  
 Langhorne, PA 19047  
 USA  
