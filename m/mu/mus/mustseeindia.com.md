@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mustseeindia.com privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211113622id_/http%3A//www.mustseeindia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mustseeindia.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630145125id_/http%3A//www.mustseeindia.com/privacy) for the most accurate reproduction.*
 
-# India Travel Guide, India Tourism & Travel Tips, privacy:Must See India
-
-## Privacy Policy
+# Privacy Policy
 
 This Policy covers the treatment of personally identifiable information collected by www.mustseeindia.com, ("MSI"), when you access the website MSI . This policy does not apply to any entity not owned or controlled by the Company. This Policy may not be applicable to any information provided by you or on your behalf to MSI in any other context. By accessing the MSI website or any website of the Company, you are consenting to the information collection and use practices described in this Policy. 
 
