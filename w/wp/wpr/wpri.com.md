@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpri.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230182745id_/http%3A//www.wpri.com/subindex/About_Us/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpri.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630162831id_/http%3A//www.wpri.com/subindex/About_Us/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy | WPRI.com
 
@@ -8,13 +8,14 @@ The following Privacy Policy governs the online information collection practices
 
 Please read this Privacy Policy carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over privacy, is governed by this Privacy Policy and our Terms and Conditions. We may need to change our Privacy Policy at some point in the future, in which case we'll post the changes to this Privacy Policy on the Site and update the Effective Date of the policy to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Policy as modified.
 
-**How We Collect and Use Information**
+  
+ **How We Collect and Use Information**
 
 We may collect and store personal or other information that you voluntarily supply to us online while using the Site (e.g., while on the Site or in responding via email to a feature provided on the Site).
 
 We also collect and store information that is generated automatically as you navigate online through the Site. For example, we may collect information about your computer's connection to the Internet, which allows us, among other things, to improve the delivery of our web pages to you and to measure traffic on the Site. We also may use a standard feature found in browser software called a "cookie" to enhance your experience with the Site. Cookies are small files that your web browser places on your hard drive for record-keeping purposes. By showing how and when visitors use the Site, cookies help us deliver advertisements, identify how many unique users visit us, and track user trends and patterns. They also prevent you from having to re-enter your preferences on certain areas of the Site where you may have entered preference information before. The Site also may use web beacons (single-pixel graphic files also known as "transparent GIFs") to access cookies and to count users who visit the Site or open HTML-formatted email messages.
 
-We use the information we collect from you while you are using the Site in a variety of ways, including using the information to customize features and advertising that appear on the Site. We also may provide your information to third parties, such as service providers, contractors, and advertisers, for a variety of purposes. We reserve the right to use, and to disclose to third parties, all of the information collected from and about you while you are using the Site in any way and for any purpose, including without limitation, to enable us or a third party to provide you with information about products and services.
+We use the information we collect from you while you are using the Site in a variety of ways, including using the information to customize features and advertising that appear on the Site. We also may provide your information to third parties, such as service providers, contractors, and advertisers, for a variety of purposes, including for online behavioral advertising and/or for multi-site advertising. We reserve the right to use, and to disclose to third parties, all of the information collected from and about you while you are using the Site in any way and for any purpose, including without limitation, to enable us or a third party to provide you with information about products and services.
 
 Please keep in mind that whenever you voluntarily make your personal information available for viewing by third parties online — for example on message boards, web logs, through email, or in chat areas — that information can be seen, collected and used by others besides us. We cannot be responsible for any third-party use of such information.
 
@@ -26,9 +27,10 @@ Be aware that we may occasionally release information about our visitors when re
 
 Please also note that as our business grows, we may buy or sell various assets. In the event that we sell some or all of our assets, or one or more of our web sites is acquired by another company, information about our users may be among the transferred assets. In the event of such a transfer, we cannot guarantee that this Privacy Policy will continue to govern your information.
 
-We do not generally keep email correspondence, except for those emails that relate to the on-air programs or operations of WPRI-TV. As required by the Federal Communications Commission ("FCC"), if any part of your email correspondence relates to station programming or operations, we must place such correspondence in the station's FCC Public Inspection File. Therefore, be informed that your personal information contained in certain emails, including personal information knowingly received from a child under the age of thirteen, will be disclosed to the general public, including, but not limited to, disclosure on the Site. We request that you not place any confidential personal information in your email correspondence to the station that pertains to station programming or operations. You understand and agree that we are not responsible for personal information that is disclosed in emails that are made available to the general public in compliance with FCC regulations.
+We do not generally keep email correspondence, except for those emails that relate to the on-air programs or operations of WPRI-TV. As required by the Federal Communications Commission ("FCC"), if any part of your email correspondence relates to station programming or operations, we must place such correspondence in the station's FCC Public Inspection File. Therefore, be informed that your personal information contained in certain emails, including personal information knowingly received from a child under the age of thirteen, will be disclosed to the general public, including, but not limited to, disclosure on the Site. We request that you not place any confidential personal information in your email correspondence to the station that pertains to station programming or operations. You understand and agree that we are not responsible for personal information that is disclosed in emails that are made available to the general public in compliance with FCC regulations.  
+ 
 
-**Children's Privacy Statement**
+ **Children's Privacy Statement**
 
 This children's privacy statement explains our practices with respect to the online collection and use of personal information from children under the age of thirteen, and provides important information regarding their rights under federal law with respect to such information.
 
@@ -36,12 +38,14 @@ The Site is not directed to children under the age of thirteen and we do not kno
 
 The provisions of this Privacy Policy relating to the collection and retention of the personal information of a child under the age of thirteen do not apply where such information was submitted as correspondence relating to station programming and operations.
 
-**How To Make Changes to Your Information**
+ **  
+How To Make Changes to Your Information**
 
-If you have subscribed to one or more of our email newsletters, you may change your subscriber information, modify your subscriptions, and/or unsubscribe from these newsletters at any time by visiting http://www.wpri.com.
+If you have subscribed to one or more of our email newsletters, you may change your subscriber information, modify your subscriptions, and/or unsubscribe from these newsletters at any time by visiting [www.wpri.com/generic/about_us/newsletter-registration.](http://www.wpri.com/generic/about_us/newsletter-registration)
 
-**Questions Regarding Privacy**
+To opt out of eXelate cookies, see [www.exelate.com/consumer-opt-out/.](http://www.exelate.com/consumer-opt-out/)
 
-If you have any questions about this Privacy Policy, our privacy practices, or your dealings with us, you can contact us at [privacypolicy@linmedia.com](mailto:privacypolicy@linmedia.com).
+  
+ **Questions Regarding Privacy**
 
-Effective August 23, 2010
+If you have any questions about this Privacy Policy, our privacy practices, or your dealings with us, you can contact us at privacypolicy@linmedia.com.
