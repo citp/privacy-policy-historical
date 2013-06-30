@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 33across.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010104652id_/http%3A//33across.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 33across.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630101516id_/http%3A//33across.com/privacy-policy.php) for the most accurate reproduction.*
 
 # 33Across | Your Brand Graph
 
@@ -10,7 +10,7 @@ _August 15, 2011_
 
 ## USER PREFERENCES MANAGER
 
-[Click here](https://web.archive.org/web/20121010104652id_/http%3A//33across.com/preferences.php) to Explore your preferences as predicted by 33Across.
+[Click here](https://web.archive.org/web/20130630101516id_/http%3A//33across.com/preferences.php) to Explore your preferences as predicted by 33Across.
 
 ## PRIVACY PRACTICES FOR OUR TECHNOLOGY
 
