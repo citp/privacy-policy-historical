@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the spyghana.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227122105id_/http%3A//spyghana.com/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spyghana.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630073046id_/http%3A//www.spyghana.com/privacy-cookies) for the most accurate reproduction.*
 
-# Privacy & Cookies | SpyGhana.com
+# Privacy & Cookies
 
-[](https://web.archive.org/web/20121227122105id_/http%3A//spyghana.com/ "Print page")[](https://web.archive.org/web/20121227122105id_/http%3A//spyghana.com/ "PDF page")[](https://web.archive.org/web/20121227122105id_/http%3A//spyghana.com/ "Email page")
+[](https://web.archive.org/web/20130630073046id_/http://www.spyghana.com/privacy-cookies/ "Print page")[](https://web.archive.org/web/20130630073046id_/http://www.spyghana.com/privacy-cookies/ "PDF page")[](https://web.archive.org/web/20130630073046id_/http://www.spyghana.com/privacy-cookies/ "Email page")
 
 **Privacy Policy:**
 
