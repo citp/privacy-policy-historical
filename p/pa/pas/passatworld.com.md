@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the passatworld.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230183908id_/http%3A//www.passatworld.com/forums/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the passatworld.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630231900id_/http%3A//www.passatworld.com/forums/privacy-policy.php) for the most accurate reproduction.*
 
 # VW Passat Forums : Volkswagen Passat Forum Privacy Policy
 
