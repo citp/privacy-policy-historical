@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mlslirealtor.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116192940id_/http%3A//www.mlsli.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlslirealtor.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630225613id_/http%3A//www.mlsli.com/pages/privacypolicy) for the most accurate reproduction.*
 
-# MLSLI.com – Long Island Real Estate – Find A Home in Nassau, Suffolk & Queens
+# Privacy Policy | MLSLI.com - Long Island Real Estate
 
 ## Privacy Policy 
 
@@ -71,7 +71,9 @@ Credit information that you and credit authorizers provide when you make payment
 
 For products and services offered to you jointly by MLSLI and a third party, your information may be shared with or independently gathered by the third party. You can tell when a product or service is offered by a third party, because a page of our site will be “co-branded” displaying the third party’s logo and/or name along with our own, or you will be linked to the third party’s site to complete the transaction.
 
-Third parties have their own policies regarding the use and protection of your information that may differ from those outlined in this Privacy Policy. If you are concerned about how your Personal Information might be used or protected by a third party, we encourage you to become familiar with that company’s privacy policy before using the service or requesting the product, or to not request the particular product or service. **Solicited Information**
+Third parties have their own policies regarding the use and protection of your information that may differ from those outlined in this Privacy Policy. If you are concerned about how your Personal Information might be used or protected by a third party, we encourage you to become familiar with that company’s privacy policy before using the service or requesting the product, or to not request the particular product or service. 
+
+**Solicited Information**
 
 You may occasionally see contests, surveys and other features of our site that ask you to provide us with Personal Information. When you choose to respond to these requests, the Personal Information you offer may be used for several purposes. These include the uses set out in the Registration section above. They also include providing information to third parties as necessary for prize fulfillment and other aspects of any contest or similar offerings.
 
@@ -115,4 +117,4 @@ West Babylon, New York 11704
 Fax 631-661-5202  
 E-mail: [info@mlsli.com](mailto:info@mlsli.com)
 
-**Revision Date: June 8, 2012**
+ **Revision Date: June 8, 2012**
