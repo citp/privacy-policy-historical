@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dice.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228094300id_/http%3A//seeker.dice.com/common/seeker/docs/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dice.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630104945id_/http%3A//www.dice.com/common/seeker/docs/privacy.jsp) for the most accurate reproduction.*
 
 # Career Resources
 
