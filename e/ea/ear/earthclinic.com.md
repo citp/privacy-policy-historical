@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the earthclinic.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231071327id_/http%3A//www.earthclinic.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthclinic.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630073843id_/http%3A//earthclinic.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Earth Clinic Privacy Policy Agreement
+# Earth Clinic's Help Page
 
-****
-
-**EARTH CLINIC, LLC PRIVACY POLICY AGREEMENT**
-
-The privacy of our visitors to the Earth Clinic web sites, www.earthclinic.com and http://planet.earthclinic.com, ("Earth Clinic, LLC") is important to us. Because we gather certain types of information about our users, we want to help you understand the terms and conditions surrounding the collection and use of that information. This privacy statement discloses the types of information we gather, how we use it, and how to correct or change it. These privacy practices apply to the Web site that you were viewing when you clicked through to this policy, which is operated directly by us.
+The privacy of our visitors to the Earth Clinic web site, www.earthclinic.com ("Earth Clinic, LLC") is important to us. Because we gather certain types of information about our users, we want to help you understand the terms and conditions surrounding the collection and use of that information. This privacy statement discloses the types of information we gather, how we use it, and how to correct or change it. These privacy practices apply to the Web site that you were viewing when you clicked through to this policy, which is operated directly by us.
 
 Here is information on what types of personal information we receive and collect when you use visit the Earth Clinic LLC web sites and how we safeguard your information. We never sell your personal information to third parties.
 
@@ -44,6 +40,8 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 ** Questions about this privacy statement should be sent to: 
 
 Fax:  678-444-4138  
-Email: privacy@earthclinic.com 
+Email: [Contact Us Form](https://web.archive.org/contactus.html)
 
 We read every message submitted and try to reply promptly to every one. 
+
+[](http://www.earthclinic.com/contactus.html)
