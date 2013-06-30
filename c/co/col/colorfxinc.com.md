@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the colorfxinc.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625131908id_/http%3A//www.colorfxweb.com/content/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colorfxinc.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630140341id_/http%3A//www.colorfxweb.com/content/privacy-policy.aspx) for the most accurate reproduction.*
 
 # ColorFXweb.com - Privacy Policy
 
-|    
+|  | 
+
+  
 ColorFX, Inc. understands the importance of protecting the privacy of ColorFXweb.com users. The information collected on the ColorFXweb.com website is used to market and improve the services we and our subsidiaries offer, to improve the ColorFXweb.com web site content, and to contact you with updates to the web site or for other marketing purposes.  
   
 Certain areas of ColorFXweb.com, including those areas used to make purchases, require registration and/or a password for access. Information obtained from registered users of these areas may also be used for ColorFXweb.com marketing purposes, and cookies may be used in those and other areas, as is described in this Policy. Information obtained in these areas may also be used in accordance with agreements governing access to and use of the specific areas. In addition, visitors to ColorFXweb.com will need to register for a ColorFXweb.com Login user ID and password to use many of the interactive features on ColorFXweb.com as well as to make a purchase or file an order from ColorFXweb.com. Log file data and other information gathered from registered users of ColorFXweb.com are used to improve the ColorFXweb.com customer experience.  
@@ -49,4 +51,6 @@ ColorFX, Inc. reserves the right to amend this Privacy Policy at any time with o
   
 Your use of ColorFxweb.com constitutes your agreement to this Privacy Policy.  
   
-| 
+  
+  
+---|---
