@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itrademarket.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230050935id_/http%3A//itrademarket.com/help-0317.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itrademarket.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630093258id_/http%3A//itrademarket.com/help-0317.html) for the most accurate reproduction.*
 
 # Help Center - Itrademarket.com
 
@@ -30,16 +30,6 @@ We use this information about your computer to perform routine web site maintena
 
 ↑ Back to top ↑
 
- **Use of information**  
-We may use the information you provide to respond to your requests for additional information, to contact you, if necessary, to service your account or for other administrative purposes. We may also access your information to resolve disputes, to troubleshoot problems, to enforce agreements between us, or for marketing purposes. In addition, for certain transactions, our system may use your transaction details to automate and to streamline your transaction by checking for electronic data compliance, providing reporting features, and transferring data from previous forms to those of the current transaction. 
-
-We may also use the information you provide for certain mailing initiatives. For example, you may sometimes receive an invitation to answer surveys or try out new products and services from Itrademarket. Your feedback helps us develop new products and services based on your needs. 
-
-You always have a choice about receiving mailings, surveys or information about products and services from us. Each e-mail you receive has an "Unsubscribe" option. As a registered member, you can also advise us which types of e-mail you wish to receive by updating your Mailing Lists page.  
-
-
-↑ Back to top ↑
-
  **WHAT IS A COOKIE?**  
 A "cookie" is a small piece of information that a website can store in a designated file on your computer. It can be used, among other things, to identify you when you log in to a website. When you visit a site, that site can access only the information which it stored in your cookie -- not information put in your cookie by other sites. Itrademarket is one of many sites that use cookies. 
 
@@ -57,6 +47,16 @@ If you have setup your browser to warn you every time a cookie is set, you can s
 
 **What if I do not accept your cookies?**   
 Some of our services or features require cookies. If you do not accept cookies on our website, you may not be able to use, access or participate in such services or features fully or at all.  
+
+
+↑ Back to top ↑
+
+ **Use of information**  
+We may use the information you provide to respond to your requests for additional information, to contact you, if necessary, to service your account or for other administrative purposes. We may also access your information to resolve disputes, to troubleshoot problems, to enforce agreements between us, or for marketing purposes. In addition, for certain transactions, our system may use your transaction details to automate and to streamline your transaction by checking for electronic data compliance, providing reporting features, and transferring data from previous forms to those of the current transaction. 
+
+We may also use the information you provide for certain mailing initiatives. For example, you may sometimes receive an invitation to answer surveys or try out new products and services from Itrademarket. Your feedback helps us develop new products and services based on your needs. 
+
+You always have a choice about receiving mailings, surveys or information about products and services from us. Each e-mail you receive has an "Unsubscribe" option. As a registered member, you can also advise us which types of e-mail you wish to receive by updating your Mailing Lists page.  
 
 
 ↑ Back to top ↑
