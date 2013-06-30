@@ -1,101 +1,82 @@
-> *The following text is extracted and transformed from the politics.co.uk privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609123156id_/http%3A//www.politics.co.uk/information/privacy-%241214315.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the politics.co.uk privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630131532id_/http%3A//politics.co.uk/information/privacy) for the most accurate reproduction.*
 
-# politics.co.uk privacy policy
+# Privacy
 
-Friday, 24, Sep 2010 03:19
+**a) General:**  
+We are strongly committed to protecting users' privacy, and this sets out our policy on the use of personal data relating to Users which has been collected in relation to their access to and use of the Site.
 
- **a) General:**
+**b) Information collected:**  
+We do not collect any information about you from which you may be identified personally ('Personally Identifiable Information') unless you voluntarily submit such information to us, by, for example, completing a user profile or by registering for optional email news alerts.
 
-We are strongly committed to protecting users' privacy, and this sets out our policy on the use of personal data relating to Users which has been collected in relation to their access to and use of the Site. 
+The types of information that may be requested will be as listed in the online registration and/or profile form, and may include your name, gender, address, e-mail address, and other information.  
+We may collect information which is not Personally Identifiable Information about you in a number of ways, including tracking your activities through your IP address, computer settings, or most-recently visited URLs.
 
-**b) Information collected:**
+**c) Use of information:**  
+In general, we will only use the information you provide to us for the purpose for which such information was provided.
 
-We do not collect any information about you from which you may be identified personally ('Personally Identifiable Information') unless you voluntarily submit such information to us, by, for example, completing a user profile or by registering for optional email news alerts. 
+Your information may also be used to contact you when necessary and to provide promotional material.
 
-The types of information that may be requested will be as listed in the online registration and/or profile form, and may include your name, gender, address, e-mail address, and other information. 
+Non-personal demographic and profile data may be used to tailor your experience at our site, by showing you content we think you might be interested in.
 
-We may collect information which is not Personally Identifiable Information about you in a number of ways, including tracking your activities through your IP address, computer settings, or most-recently visited URLs. 
+This information may also be shared with Site Advertisers on an aggregate (ie not personally identifiable) basis.
 
-**c) Use of information:**
+We do not share or disclose your Personally Identifiable Information with third parties, unless you authorise us to do so.
 
-In general, we will only use the information you provide to us for the purpose for which such information was provided. 
+You may opt-out of receiving mailings from us by following the instructions set forth in the opt-out section below.
 
-Your information may also be used to contact you when necessary and to provide promotional material. 
+We reserve the right to access and to disclose Personally Identifiable Information to comply with applicable laws and lawful government requests, to operate our systems properly or to protect either ourselves or our users.
 
-Non-personal demographic and profile data may be used to tailor your experience at our site, by showing you content we think you might be interested in. 
+If our business is sold or integrated with another business, your details may be disclosed to our advisors and any prospective purchasers and their advisors, and will be passed on to the new owners of the business.
 
-This information may also be shared with Site Advertisers on an aggregate (ie not personally identifiable) basis. 
+**d) IP addresses** :  
+We use IP addresses to collect statistical information about the areas of the system that users are visiting, and general "traffic" data, to allow for login validation, and to identify and track misuse.  
+Save for such uses, such information does not relate to the use being made of the system by a particular user in relation to identifiable items being viewed.
 
-We do not share or disclose your Personally Identifiable Information with third parties, unless you authorise us to do so. 
+This information allows us to determine what is most beneficial for its users, and facilitates us in continually improving the overall site for our users.
 
-You may opt-out of receiving mailings from us by following the instructions set forth in the opt-out section below. 
+**e) Cookies:**  
+A "cookie" is a small amount of data that is sent to a user's browser from a web server and stored on a user's computer, and then used to store and track information about the user.
 
-We reserve the right to access and to disclose Personally Identifiable Information to comply with applicable laws and lawful government requests, to operate our systems properly or to protect either ourselves or our users. 
+Generally, we may use cookies (including 'Flash cookies') to remind us who the user is and to access user information stored on our computers in order to deliver a better and more personalized site.
 
-If our business is sold or integrated with another business, your details may be disclosed to our advisors and any prospective purchasers and their advisors, and will be passed on to the new owners of the business. 
+You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. You can also manage cookies on our [Cookie Preferences](http://www.politics.co.uk/preferences/cookie) page or read more about our Cookie Policy [here](http://www.politics.co.uk/information/cookies).
 
-**d) IP addresses** : 
+**f) Google Analytics**  
+This website uses Google Analytics, a web analytics service provided by Google, Inc. ("Google").  
+Google Analytics uses "cookies" to help the website analyze how users use the site.
 
-We use IP addresses to collect statistical information about the areas of the system that users are visiting, and general "traffic" data, to allow for login validation, and to identify and track misuse. 
+The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States .
 
-Save for such uses, such information does not relate to the use being made of the system by a particular user in relation to identifiable items being viewed. 
+Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage.
 
-This information allows us to determine what is most beneficial for its users, and facilitates us in continually improving the overall site for our users. 
+Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google.
 
-**e) Cookies:**
+By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
 
-A "cookie" is a small amount of data that is sent to a user's browser from a web server and stored on a user's computer, and then used to store and track information about the user. 
+**g) Security:**  
+The Site has industry standard security measures in place to protect the loss, misuse, and alteration of the information under our control.
 
-Generally, we may use cookies (including 'Flash cookies') to remind us who the user is and to access user information stored on our computers in order to deliver a better and more personalized site. 
+While there is no such thing as "perfect security" on the Internet, we will take reasonable steps to ensure the safety of your personal information.
 
-You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. 
+**h) Links:**  
+Our Web Site contains links to other Web Sites that are owned and operated by third parties.  
+We are not responsible for the privacy practices or the content of such Web Sites. The inclusion of any link does not imply endorsement by us. You are responsible for complying with the terms of use of any such sites.
 
-**f) Google Analytics**
+No party may create any link to or use any portion of our Web Site in any manner that may create confusion about our identity as the source of origin of such portion of this Site, or in any manner that may create a likelihood of confusion as to sponsorship of third party content by us or as to an affiliation with us.
 
-This website uses Google Analytics, a web analytics service provided by Google, Inc. ("Google"). 
+**i) Updating information; opting out:**  
+Should we use e-mail news alerts or other services to which you sign up, we will allow users the option to change or modify information and preferences previously provided, or to opt out of receiving communications from us.
 
-Google Analytics uses "cookies" to help the website analyze how users use the site. 
-
-The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States . 
-
-Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. 
-
-Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. 
-
-By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above. 
-
-**g) Security:**
-
-The Site has industry standard security measures in place to protect the loss, misuse, and alteration of the information under our control. 
-
-While there is no such thing as "perfect security" on the Internet, we will take reasonable steps to ensure the safety of your personal information. 
-
-**h) Links:**
-
-Our Web Site contains links to other Web Sites that are owned and operated by third parties. 
-
-We are not responsible for the privacy practices or the content of such Web Sites. The inclusion of any link does not imply endorsement by us. You are responsible for complying with the terms of use of any such sites. 
-
-No party may create any link to or use any portion of our Web Site in any manner that may create confusion about our identity as the source of origin of such portion of this Site, or in any manner that may create a likelihood of confusion as to sponsorship of third party content by us or as to an affiliation with us. 
-
-**i) Updating information; opting out:**
-
-Should we use e-mail news alerts or other services to which you sign up, we will allow users the option to change or modify information and preferences previously provided, or to opt out of receiving communications from us. 
-
-This may be done through the following methods: 
-
-(1) click on the 'unsubscribe' or 'preferences' link which is found in the footer of any email newsletter you have received from us, and then make the necessary changes; or 
-
+This may be done through the following methods:  
+(1) click on the 'unsubscribe' or 'preferences' link which is found in the footer of any email newsletter you have received from us, and then make the necessary changes; or  
 (2) e-mail the information to [preferences@politics.co.uk](mailto:preferences@politics.co.uk)
 
-**j) Cancellation:**
+**j) Cancellation:**  
+We will upon your request deactivate your information from our active databases.  
+To make this request, send an email to [deregister@politics.co.uk](mailto:deregister@politics.co.uk). Such information will be deactivated as soon as reasonably possible in accordance with our deactivation policy and applicable law.
 
-We will upon your request deactivate your information from our active databases. 
+We will retain in our files some personal information you may have requested to remove, solely in order to keep an archival set of records and to comply with legal requirements as required or permitted by law.
 
-To make this request, send an email to [deregister@politics.co.uk](mailto:deregister@politics.co.uk). Such information will be deactivated as soon as reasonably possible in accordance with our deactivation policy and applicable law. 
+Therefore, you should not expect that all of your personal information will be completely removed from our databases in response to your requests.
 
-We will retain in our files some personal information you may have requested to remove, solely in order to keep an archival set of records and to comply with legal requirements as required or permitted by law. 
-
-Therefore, you should not expect that all of your personal information will be completely removed from our databases in response to your requests. 
-
-However, such personal information will only be available to our personnel who have a reasonable and lawful need to access it, or otherwise as legally required. 
+However, such personal information will only be available to our personnel who have a reasonable and lawful need to access it, or otherwise as legally required.
