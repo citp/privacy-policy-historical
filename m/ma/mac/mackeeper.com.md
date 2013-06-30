@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mackeeper.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122005910id_/http%3A//mackeeper.zeobit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mackeeper.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630052202id_/http%3A//mackeeper.zeobit.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 #### Introduction
 
-We, ZeoBIT LLC (the "Company"), are aware about privacy issues that occur during the usage of products, services and websites. Therefore we strictly follow the data protection law of California, United States, regarding your personal information. Our privacy policy applies to:
+We, ZeoBIT (the "Company"), are aware about privacy issues that occur during the usage of products, services and websites. Therefore we strictly follow the data protection law, regarding your personal information. Our privacy policy applies to:
 
   * using the Company’s products and services,
   * visiting the [http://MacKeeper.ZeoBIT.com](http://mackeeper.zeobit.com/) website,
@@ -36,7 +36,7 @@ Information provided by you will be used only for:
   * creation of account where you will be able to manage ZeoBIT product licenses,
   * customer support CRM system,
   * emails informing about news, updates etc.  
-Note: Information collected by the Anti-Theft service is not used by ZeoBIT LLC for any purpose. This information can be accessed only by the user in their ZeoBIT account.
+Note: Information collected by the Anti-Theft service is not used by ZeoBIT for any purpose. This information can be accessed only by the user in their ZeoBIT account.
 
 
 
@@ -102,9 +102,9 @@ We will keep you up to date about any possible changes to our Privacy Policy. As
 
 #### Questions?
 
-We are open to any questions on this Privacy Policy. Please address all your concerns to email.
+We are open to any questions on this Privacy Policy. Please address all your concerns to [email](mailto:support@zeobit.com).
 
-### 1 (888) 572-5876
+__1 (888) 572-5876 __1 (800) 462-715 __0 (808) 189-1280
 
 Call us 24/7 with any questions.  
 Toll free.
