@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsok.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226065602id_/http%3A//newsok.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsok.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630064851id_/http%3A//newsok.com/privacypolicy) for the most accurate reproduction.*
 
 # NewsOK Privacy Policy | NewsOK.com
 
@@ -59,9 +59,13 @@ A cookie is a data text file sent from a web site to your browser. It will be st
 
 We respect your right to choose whether to share information with us or any third party. You may choose to “opt out” of sharing personal information. During registration, you can opt not to receive emails or text messages from NewsOK.com containing “Breaking Headlines” or special discounts. Emails will also contain a link in which you can easily unsubscribe to future distribution. In addition, you can choose to no longer receive emails or text messages from NewsOK.com by changing your settings under “Manage My Settings” or by sending an email to [NewsOKTCS@opubco.com ](mailto:NewsOKTCS@opubco.com) and requesting to no longer receive such emails or text messages. 
 
-### YAHOO! Opt Out
+### DoubleClick Opt Out
 
-YAHOO! is an ad network partner that displays ads on OPUBCO sites. To improve your ad experience on OPUBCO sites and elsewhere on the Internet, we may send non-personal information to YAHOO! based on your browser’s activities, such as type of pages viewed and categories of interests, so that the advertising you see is relevant to you. YAHOO! also may use information regarding its own users to select which ads to display. Learn more about YAHOO!’s ad practices, including how to [opt out](http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html) of using anonymous information to select which ads to show you. In addition we may use information we have about you, including your use of OPUBCO sites, to customize the ads we display to you. 
+DoubleClick is an ad network partner that displays ads on OPUBCO sites. To improve your ad experience on OPUBCO sites and elsewhere on the Internet, we may send non-personal information to DoubleClick based on your browser’s activities, such as type of pages viewed and categories of interests, so that the advertising you see is relevant to you. DoubleClick also may use information regarding its own users to select which ads to display. Learn more about DoubleClicks’s ad practices, including how to [opt out](https://www.google.com/settings/ads/onweb/) of using anonymous information to select which ads to show you. In addition we may use information we have about you, including your use of OPUBCO sites, to customize the ads we display to you. 
+
+### Blue Kai Opt Out
+
+Blue Kai is an ad network partner that displays ads on OPUBCO sites. To improve your ad experience on OPUBCO sites and elsewhere on the Internet, we may send non-personal information to Blue Kai based on your browser’s activities, such as type of pages viewed and categories of interests, so that the advertising you see is relevant to you. Blue Kai also may use information regarding its own users to select which ads to display. Learn more about Blue Kai’s ad practices, including how to [opt out](http://bluekai.com/consumers_optout.php) of using anonymous information to select which ads to show you. 
 
 ### Children
 
