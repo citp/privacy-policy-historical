@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the iheartradio.com privacy policy that was archived on 2012-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121231151909id_/http%3A//www.iheart.com/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the iheartradio.com privacy policy that was archived on 2013-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130630201129id_/http%3A//www.iheart.com/legal/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
   <meta http-equiv="X-UA-Compatible" content="IE=9,chrome=IE6">
@@ -7,12 +7,12 @@
   <script> if (!history.pushState && location.pathname != '/') location.href = '/#' + location.pathname + location.search; </script>
 
   <title>Privacy Policy | iHeartRadio</title>
-  <link rel="shortcut icon" href="/_/435/favicon.ico" type="image/ico">
-  
+  <link rel="shortcut icon" href="/_/488/favicon.ico" type="image/ico">
+
   
   
     
-      <link rel="stylesheet" href="/_/435/dist/tusiq.css">
+      <link rel="stylesheet" href="/_/488/dist/tusiq.css">
     
   
 
@@ -20,15 +20,16 @@
   <script>
   BOOT = {
     env: 'prod',
-    rel: 435,
+    rel: 488,
     siteUrl: 'http://www.iheart.com/',
-    mediaUrl: '/_/435/',
+    staticUrl: '/_/488/',
     scalerUrl: 'http://img.iheart.com/',
-    clientIp: '207.241.226.79',
+    clientIp: '207.241.226.81',
+    country: 'US',
     auth: 0,
     ampId: 0,
     logglyKey: '421e157f-38a8-4d0b-b273-aa213a8d1758',
-    date: new Date(1356967149000)
+    date: new Date(1372623089000)
   };
   
   s_account = 'cccorporate01,cccorporate,ccnetwork,ccformat';
@@ -36,31 +37,29 @@
 
   
     
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js" type="text/javascript"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js" type="text/javascript"></script>
     <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.23/jquery-ui.min.js" type="text/javascript"></script>
   
     
-      <script type="text/javascript" src="/_/435/dist/tusiq.js"></script>
+      <script type="text/javascript" src="/_/488/dist/tusiq.js"></script>
     
   
 
   
   
-
-  
-  <script>
+<script>
     $T.setup();
     $(function() {
       $RC.app = new $C.App();
-      
+
       $U.ads.adorize();
       $U.authLoad.go();
       $U.releases.checkRelease();
       //Setup the softgate.
       !BOOT.auth && $U.softgate.setup();
-      
+
       $RC.player.utils.facebook.setup();
-      
+
       $RC.playerUi = new $RC.player.Ui.Player($RC.player);
       $RC.player.setup();
 
@@ -69,76 +68,91 @@
         Talk: new $C.player.plugins.Talk.Ui($RC.player, $RC.playerUi),
         Live: new $C.player.plugins.Live.Ui($RC.player, $RC.playerUi)
       }
-      
+
       
   
-});
+$RC.qio = new $C.QuickIo();
+    });
   </script>
+
   
   
-  
-  <meta property="og:image" content="http://alpha.iheart.com/_/435/img/icons/fb_logo.png">
+  <meta property="og:image" content="http://www.iheart.com/_/488/img/icons/fb_logo.png">
   <meta property="og:site_name" content="iHeartRadio">
   <meta property="og:description" content="Listen to 1,500+ Live Stations or create commercial-free, all-music Custom Stations featuring songs from the artist you select and similar music.">
   <meta property="fb:app_id" content="121897277851831">
+  <meta name="twitter:site" content="@iHeartRadio">
 </head>
 <body>
+
+
+
+
+
+    
+
+
+
+
+
+
+
   <span id="loading" style="display: none;">Loading...</span>
 
   
 <div id="ihr-mast" class="mast">
 
     <div class="brand-yahooHd" style="display: none;">
-        <div><a href="http://music.yahoo.com" target="_blank"><img src="/_/435/img/nav/yahoo_logo.png"></a></div>
+        <div><a href="http://music.yahoo.com" target="_blank"><img src="/_/488/img/nav/yahoo_logo.png" alt=""></a></div>
     </div>
 
-    <header id="ihr-header" class="topNav">
-    <div class="navBg">
-        <nav>
-            <h1 class="navLogo"><a href="/">iHeartRadio</a></h1>
+    <header role="banner" id="ihr-header" class="topNav">
+        <div class="navBg">
+            <nav>
+                <h1 class="navLogo"><a href="/">iHeartRadio</a></h1>
 
-            <ul class="mainNav">
-                <li class="navLive">
-                    <a href="/find/" class="explore">Live Radio</a>
-                </li>
-                <li class="navCreate">
-                    <a href="/create/custom/" class="create">Create Station</a>
-                </li>
-                <li class="myDrop act-dropdown" data-dropdown-type="myStations" data-hover-omni-link="header:mystations:hover">
-                    <a href="/my/stations/" class="my">My Stations <em class="tri">▼</em></a>
-                    <ul class="clearfix">
-                        <li id="ihr-nav-myStations" class="myStnsTop thumbList clearfix"></li>
-                        <li class="navSeeAll"><a href="/my/stations/">See All My Stations »</a></li>
-                    </ul>
-                </li>
-            </ul>
+                <ul role="navigation" class="mainNav">
+                    <li>
+                        <a href="/find/" class="explore b-trackLink" data-track-link="topnav:1">Live Radio</a>
+                    </li>
+                    <li>
+                        <a href="/create/custom/" class="create b-trackLink" data-track-link="topnav:2">Create Station</a>
+                    </li>
+                    <li class="myDrop act-dropdown" data-dropdown-type="myStations" data-hover-omni-link="header:mystations:hover">
+                        <a href="/my/stations/" class="my b-trackLink" data-track-link="topnav:3">My Stations <em class="iconDown"></em></a>
+                        <ul class="clearfix">
+                            <li id="ihr-nav-myStations" class="myStnsTop thumbList clearfix"></li>
+                            <li class="navSeeAll"><a href="/my/stations/">See All My Stations »</a></li>
+                        </ul>
+                    </li>
+                </ul>
 
-            <form id="ihr-navSearchFrm" class="topSearch">
-                <input type="text" value="" maxlength="100" spellcheck="false">
-                <button value="" type="submit"></button>
-            </form>
+                <form id="ihr-navSearchFrm" class="topSearch">
+                    <input role="search" type="text" value="Search for Stations, Artists, or Songs" maxlength="100" spellcheck="false">
+                    <button value="Submit" type="submit"></button>
+                </form>
 
-            
-              <ul class="navLogin" id="navLogin">
-                  <li class="signUp"><a href="javascript://" class="link">SIGN UP</a></li>
-                  <li class="or">or</li>
-                  <li class="login">
-                      <a href="javascript://" class="link">LOG IN</a>
-                  </li>
-              </ul>
-            
+                
+                  <ul class="navLogin" id="navLogin">
+                      <li class="signUp"><a class="link b-openSignup">SIGN UP</a></li>
+                      <li class="or">or</li>
+                      <li class="login">
+                          <a class="link b-openLogin">LOG IN</a>
+                      </li>
+                  </ul>
+                
 
-        </nav>
-    </div>
-</header>
+            </nav>
+        </div>
+    </header>
 
 <div class="playerWrap">
 
     <div id="player">
 
         <div class="playerBtns">
-            <input type="button" id="playerPlay" value="" class="playerPlay">
-            <input type="button" id="playerNext" value="" class="playerNext">
+            <input type="button" id="playerPlay" value="Play" class="playerPlay">
+            <input type="button" id="playerNext" value="Next" class="playerNext">
         </div>
 
         <div class="playerVolumeWrap">
@@ -152,14 +166,14 @@
             <div class="spots">
                 <div class="song spot">
                     <div class="playerArt">
-                        <a data-original-image="/_/435/img/player/no_image.png">
+                        <a data-original-image="/_/488/img/player/no_image.png">
                             <img>
                         </a>
                     </div>
 
                     <div class="action thumbs" data-handler="Thumbs">
-                        <a href="javascript://" class="thumbsUp b-tipsy" data-tipsy-gravity="w" title="You like this">☝</a>
-                        <a href="javascript://" class="thumbsDown b-tipsy" data-tipsy-gravity="w" title="You dislike this">☟</a>
+                        <a class="iconThumbUp thumbsUp b-tipsy" data-tipsy-gravity="w" title="You like this"></a>
+                        <a class="iconThumbDown thumbsDown b-tipsy" data-tipsy-gravity="w" title="You dislike this"></a>
                     </div>
                     <hgroup>
                         <h1 class="title"><a></a></h1>
@@ -167,9 +181,13 @@
                     </hgroup>
                     <div class="spotRt">
                         <p class="songDuration action" data-handler="Duration" data-handler-type="text"></p>
-                        <a class="action lyrics b-tipsy-auto" title="View Lyrics" data-handler="Lyrics"><em></em> <span>LYRICS</span></a>
-                        <a class="action buySong b-tipsy-auto" title="Buy Song" href="javascript://" data-handler="Buy"><em>⬇</em> <span>BUY</span></a>
+                        <a class="b-tipsy-auto action lyrics" title="View Lyrics" data-handler="Lyrics"><em class="iconLyrics"></em> <span>LYRICS</span></a>
                         <div class="songScrubber action" data-handler="Duration" data-handler-type="scrubber"></div>
+                    </div>
+                    <div class="buyBox">
+                        <div>
+                            <a class="action buySong" title="Buy Song" data-handler="Buy"><em class="iconBuy"></em> <span>BUY SONG</span></a>
+                        </div>
                     </div>
                 </div>
 
@@ -186,13 +204,13 @@
     <div class="station">
         <hgroup>
         </hgroup>
-        <a class="stnArt" data-original-image="/_/435/img/player/no_image.png"></a>
+        <a class="stnArt" data-original-image="/_/488/img/player/no_image.png"></a>
     </div>
 
-    <div class="action tuner familiar" data-handler="Variety">
-        <a href="javascript://" class="knob"></a>
+    <div class="tuner">
+        <a class="knob"></a>
         <ul class="tunerDrop">
-            <li>
+            <li class="action familiar" data-handler="Variety">
                 <div class="pad">
                     <h1>Discovery Tuner</h1>
                     <p>Adjust variety from familiar to less familiar artists.</p>
@@ -208,19 +226,58 @@
                     </div>
                 </div>
             </li>
+            <li class="add-ins action" data-handler="AddIns">
+                <div class="pad">
+                    <h1 class="title">Add-Ins</h1>
+                    <p class="subtitle">Add-Ins are local updates that play every hour between songs  in all of your custom stations.</p>
+                    <label class="location">Add-Ins Location: <em>Not Set</em></label>
+                    <ul class="choices custom">
+                      <li>
+                        <i class="tuner-no" data-preference="CUSTOM_NEWS"></i>
+                        <label>Local News</label>
+                      </li>
+                      <li>
+                        <i class="tuner-no" data-preference="CUSTOM_TRAFFIC"></i>
+                        <label>Local Traffic</label>
+                      </li>
+                      <li>
+                        <i class="tuner-no" data-preference="CUSTOM_WEATHER"></i>
+                        <label>Local Weather</label>
+                      </li>
+                    </ul>
+                    <ul class="choices talk">
+                      <li>
+                        <i class="tuner-no" data-preference="TALK_NEWS"></i>
+                        <label>Local News</label>
+                      </li>
+                      <li>
+                        <i class="tuner-no" data-preference="TALK_TRAFFIC"></i>
+                        <label>Local Traffic</label>
+                      </li>
+                      <li>
+                        <i class="tuner-no" data-preference="TALK_WEATHER"></i>
+                        <label>Local Weather</label>
+                      </li>
+                    </ul>
+                    <a href="/account/settings?scroll=addins" class="btnBlueLg settings">
+                      <em class="iconSettings"></em>
+                      Edit Settings
+                    </a>
+                </div>
+            </li>
         </ul>
     </div>
 
     <ul class="playerActions">
-        <li><a class="action b-tipsy" data-tipsy-gravity="e" title="Create station from this song" data-handler="Create">♬</a></li>
-        <li><a class="action b-tipsy" data-tipsy-gravity="e" title="Share this station" data-handler="Share">☍</a></li>
+        <li><a class="action iconCreate b-tipsy" data-tipsy-gravity="e" title="Create station from this song" data-handler="Create"></a></li>
+        <li><a class="action iconShare b-tipsy" data-tipsy-gravity="e" title="Share this station" data-handler="Share"></a></li>
     </ul>
 
 </div></div></div>
 
 </div>
 
-  <a href="http://help.iheartradio.com" target="_blank" class="feedbackTab"></a>
+  <a href="http://help.iheartradio.com" target="_blank" class="feedbackTab"><em class="accessText">Feedback Tab</em></a>
 
   <div id="wrap" class="clearfix">
     <div id="pushdown">
@@ -236,11 +293,11 @@
         <div class="large btn"></div>
       </div>
     </div>
-    <div id="cardsWrap" class="span-58">
+    <div role="main" id="cardsWrap" class="span-58">
       <div id="card-main">
           
         
-<section class="main legal">
+<div class="main legal">
 
     <header>
         <h1>Privacy and Cookie Notice</h1>
@@ -486,7 +543,7 @@
     <p>E-Mail: <a href="mailto:privacy@iheartradio.com">privacy@iheartradio.com</a><a></a></p><a>
 
 
-</a></section><a>
+</a></div><a>
 
   <script>
     $T.page('privacy');
@@ -496,23 +553,23 @@
       </a></div><a>
     </a></div><a>
   </a></div><a>
-  
+
   <div class="clear clearfix"></div>
-  </a><footer id="ihr-footer" class="siteFtr clearfix"><a>
+  </a><footer role="contentinfo" id="ihr-footer" class="siteFtr clearfix"><a>
 
     </a><div class="ftrWrap"><a>
 
         </a><div class="ftrHd"><a>
 
-            </a><a href="/"><img src="/_/435/img/footer/ftr_logo.png" alt="iHeartRadio" class="logo"></a>
+            </a><a href="/"><img src="/_/488/img/footer/ftr_logo.png" alt="iHeartRadio" class="logo"></a>
 
             <p>1,500+ Live Stations or Create Your Own.</p>
 
             <ul class="connect">
-                <li><a href="https://www.facebook.com/iheartradio" target="_blank"></a></li>
-                <li><a href="http://twitter.com/iheartradio" target="_blank"></a></li>
-                <li><a href="http://www.youtube.com/user/iheartradio" target="_blank"></a></li>
-                <li><a href="https://plus.google.com/+iHeartRadio" target="_blank" rel="publisher"></a></li>
+                <li><a href="https://www.facebook.com/iheartradio" class="iconFacebook" target="_blank"><em class="accessText">Connect with Facebook</em></a></li>
+                <li><a href="http://twitter.com/iheartradio" class="iconTwitter" target="_blank"><em class="accessText">Connect with Twitter</em></a></li>
+                <li><a href="http://www.youtube.com/user/iheartradio" class="iconYoutube" target="_blank"><em class="accessText">Connect with YouTube</em></a></li>
+                <li><a href="https://plus.google.com/+iHeartRadio" class="iconGooglePlus" target="_blank" rel="publisher"><em class="accessText">Connect with GooglePlus</em></a></li>
             </ul>
 
         </div>
@@ -520,13 +577,17 @@
         <div class="ftrNav">
 
             <ul>
-              <li><a href="/about/">About Us</a></li>
+              <li><a href="http://news.iheart.com/about/" target="_blank">About Us</a></li>
               <li><a href="http://iheartradio.com/cc-common/YourAdHere/" target="_blank">Advertise</a></li>
               <li><a href="http://developer.iheart.com/api/" target="_blank">Developer API</a></li>
               <li><a href="http://help.iheartradio.com/" target="_blank">Help</a></li>
-              <li><a href="/legal/privacy/">Privacy</a></li>
-              <li><a href="/legal/terms/">Terms of Use</a></li>
-              <li><a href="/apps/">Download the App</a></li>
+              <li><a href="/legal/privacy" target="_blank">Privacy</a></li>
+              <li><a href="/legal/terms" target="_blank">Terms of Use</a></li>
+              
+                <li><a href="http://news.iheart.com/apps/" target="_blank">Download the App</a></li>
+                <li><a href="http://www.sweetjack.com" target="_blank">SweetJack</a></li>
+                
+              <li><a href="http://jobs.iheart.com" target="_blank">Jobs</a></li>
             </ul>
 
         </div>
@@ -536,11 +597,11 @@
         </div>
 
         <p class="ftrCC">
-          <em></em>
-          © 2012 Clear Channel Broadcasting, Inc. &nbsp; | 
+          <em class="iconClearchannel"></em>
+          © 2013 Clear Channel Broadcasting, Inc. &nbsp; | 
           &nbsp; Handmade in NYC &nbsp; | 
-          &nbsp; Custom Radio Powered by <a href="/about/echonest/">The Echo Nest</a> &nbsp; |
-          &nbsp; Search Powered by Attivio
+          &nbsp; Custom Radio Powered by <a href="/about/echonest/">The Echo Nest</a> &nbsp;
+          <span id="ihr-footer-attivioAttr" style="display:none">| &nbsp; Search Powered by Attivio</span>
         </p>
 
     </div>
@@ -548,8 +609,6 @@
     
 
 </footer>
-
-
 
   <div id="tpl-container" style="display:none">
     
@@ -600,33 +659,15 @@
 
 <div id="tpl-searchAutocomplete">
   <li class="ui-autocomplete-category searchHelp-content searchTip">
-    <p>Search for radio stations by name, call letters, or city.</p>
+    <p>Search for a live radio station by name or location.</p>
     <b>OR</b>
-    <p>Search for an artist or song and hit "play station".  We'll automatically create a station with similar music. </p>
+    
+      <p>Search for an artist or song. We'll present custom stations featuring that content and more like it.</p>
+    
   </li>
 </div>
 
 
-
-<div id="tpl-changeLocFlyout">
-
-  <div class="ihr-flyout ihr-flyout-changeLoc ihr-flyout-arrow-left ihr-flyout-absolute">
-    <div class="flyoutArrowed round">
-      <div class="pad">
-        <h5>Enter a zipcode:</h5>
-        <div class="closeX"><span class="close act-close icon">✕</span></div>
-        <p class="error" style="display: none">* Please enter a valid zipcode</p>
-        <div class="locationInput">
-          <form>
-            <input type="text" maxlength="5" name="zip" value="" class="roundLeft">
-            <button type="submit" class="roundRight btnBlue btnGo">GO</button>
-          </form>
-        </div>
-      </div>
-    </div>
-  </div>
-
-</div>
 
 <div id="tpl-cannotScan">
 
@@ -634,7 +675,7 @@
     <div class="flyoutArrowed round">
       <div class="pad"> 
         <h5>No similar stations found</h5>
-        <div class="closeX"><span class="close act-close icon">✕</span></div>
+        <span class="iconDelete act-close"></span>
         
         There are no other similar stations to listen to.  Sorry about that.
       </div>
@@ -664,7 +705,7 @@
       <div class="pad">
         <div class="songStation">
           <h5>Based on:</h5>
-          <div class="closeX"><span class="close act-close icon">✕</span></div>
+          <span class="iconDelete act-close"></span>
           <div class="info">
             <a class="song"></a>
             <div>by <a class="artist"></a></div>
@@ -717,15 +758,16 @@
     </div>
 
       <a class="t-itunes" target="_blank">
-          <span class="btnBlueLg itunes"><em class="ihearticon"></em>Buy From iTunes</span>
+          <span class="btnBlueLg itunes"><em class="iconApple"></em>Buy From iTunes</span>
       </a>
       <a class="t-amazon " target="_blank">
-          <span class="btnBlueLg amazon"><em></em>Buy From Amazon</span>
+          <span class="btnBlueLg amazon"><em class="iconAmazon"></em>Buy From Amazon</span>
       </a>
   </div>
 </div>
   </div>
 
+  
   
   <div id="imaAdContainer">
     <div class="pageCover"></div>
@@ -737,14 +779,12 @@
       <div id="playerSwf"></div>
       <div class="adControls">
         <span class="control playPause pause"></span>
-      </div>  
+      </div>
     </div>
   </div>
+
   
-  
-<script type="text/javascript">
-  
-  
+<script>
 
   s.pageName = '';
   s.prop6  = 'IHM-IP';
@@ -752,7 +792,6 @@
   s.prop8  = 'IHEARTMUSIC';
   s.prop25 = 'CORPORATE:IHM-IP:IHEARTMUSIC';
   s.prop26 = 'CORPORATE:IHM-IP:iHeartRadio';
-
   s.hier1 = 'IHM-IP,CORPORATE';
   s.hier2 = 'IHM-IP,IHEARTMUSIC';
 
@@ -761,8 +800,12 @@
   s.prop46 = s.eVar30 = '';
   s.prop47 = s.eVar31 = '';
   s.prop48 = s.eVar32 = '';
-  s.ihrModTime = '';
+  s.prop33 = BOOT.ampId;
   
+  s.prop32 = s.eVar35 = ''; 
+  s.prop51 = s.eVar36 = ''; 
+  
+  s.ihrModTime = '';
 </script>
 
   <div id="fb-root"></div>
@@ -776,27 +819,31 @@
         music: !!BOOT.auth,
         channelUrl: $U.url.join('/misc/fb_channel/')
       });
-      
+
       $S.fb.asyncInit();
     };
-  
+
     $(function() {
       window.___gcfg = {parsetags: 'explicit'};
-      
+
       $.getScript('//connect.facebook.net/en_US/all/vb.js');
       $.getScript('//apis.google.com/js/plusone.js');
-      $.getScript('http://static.iheart.com/web/test/quick.io.js');
+      
+      
+      $.getScript('http://static.iheart.com/web/test/ABTestRunner.js');
+      
     });
-    
+
     
     $U.ads.sourceAffiliate = 'null';
-    $U.ads.TEMPLATE_600 = '<iframe src=\"http:\/\/ad.doubleclick.net\/ad{AD_TYPE}\/{SITE_ZONE};ccrpos={POSITION};tile={TILE};ccrcontent1={CONTENT_1};ccrcontent2={CONTENT_2};ccrcontent3={CONTENT_3};env=prod;visitnum={VISIT_NUM};seed={SEED};ccrformat={FORMAT};ccrmarket={MARKET};group={GROUP};pageformat={PAGE_FORMAT};pagemarket={PAGE_MARKET};mtfIFPath=\/doubleclick\/;ccrlocalcontent=null;sourceaffiliate=null;g={GENDER};a={AGE};rzip={ZIPCODE};at={ACCOUNT_TYPE};sz=300x600,300x250;u=ccrpos*{POSITION}!tile*{TILE}!ccrcontent1*{CONTENT_1}!ccrcontent2*{CONTENT_2}!ccrcontent3*{CONTENT_3}!env*prod!visitnum*{VISIT_NUM}!seed*{SEED}!ccrformat*{FORMAT}!ccrmarket*{MARKET}!group*{GROUP}!pageformat*{PAGE_FORMAT}!pagemarket*{PAGE_MARKET}!mtfIFPath*\/doubleclick\/!ccrlocalcontent*null!sourceaffiliate*null!g*{GENDER}!a*{AGE}!rzip*{ZIPCODE}!at*{ACCOUNT_TYPE}!sz*300x600,300x250;ord={ORD}?callback={CALLBACK}\" name=\"adFrame\" class=\"adFrame\" width=\"300\" height=\"600\" frameborder=\"0\" border=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" allowtransparency=\"true\"><\/iframe>';
-    $U.ads.TEMPLATE_250 = '<iframe src=\"http:\/\/ad.doubleclick.net\/ad{AD_TYPE}\/{SITE_ZONE};ccrpos={POSITION};tile={TILE};ccrcontent1={CONTENT_1};ccrcontent2={CONTENT_2};ccrcontent3={CONTENT_3};env=prod;visitnum={VISIT_NUM};seed={SEED};ccrformat={FORMAT};ccrmarket={MARKET};group={GROUP};pageformat={PAGE_FORMAT};pagemarket={PAGE_MARKET};mtfIFPath=\/doubleclick\/;ccrlocalcontent=null;sourceaffiliate=null;g={GENDER};a={AGE};rzip={ZIPCODE};at={ACCOUNT_TYPE};sz=300x250;u=ccrpos*{POSITION}!tile*{TILE}!ccrcontent1*{CONTENT_1}!ccrcontent2*{CONTENT_2}!ccrcontent3*{CONTENT_3}!env*prod!visitnum*{VISIT_NUM}!seed*{SEED}!ccrformat*{FORMAT}!ccrmarket*{MARKET}!group*{GROUP}!pageformat*{PAGE_FORMAT}!pagemarket*{PAGE_MARKET}!mtfIFPath*\/doubleclick\/!ccrlocalcontent*null!sourceaffiliate*null!g*{GENDER}!a*{AGE}!rzip*{ZIPCODE}!at*{ACCOUNT_TYPE}!sz*300x250;ord={ORD}?callback={CALLBACK}\" name=\"adFrame\" class=\"adFrame\" width=\"300\" height=\"255\" frameborder=\"0\" border=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" allowtransparency=\"true\"><\/iframe>';
-    $U.ads.TEMPLATE_SYNCED = '<iframe src=\"http:\/\/ad.doubleclick.net\/ad{AD_TYPE}\/{SITE_ZONE};ccrpos={POSITION};tile={TILE};ccrcontent1={CONTENT_1};ccrcontent2={CONTENT_2};ccrcontent3={CONTENT_3};env=prod;visitnum={VISIT_NUM};seed={SEED};ccrformat={FORMAT};ccrmarket={MARKET};group={GROUP};pageformat={PAGE_FORMAT};pagemarket={PAGE_MARKET};mtfIFPath=\/doubleclick\/;ccrlocalcontent=null;sourceaffiliate=null;g={GENDER};a={AGE};rzip={ZIPCODE};at={ACCOUNT_TYPE};sz=300x600,300x250;cartnumber={CART_NUMBER};u=ccrpos*{POSITION}!tile*{TILE}!ccrcontent1*{CONTENT_1}!ccrcontent2*{CONTENT_2}!ccrcontent3*{CONTENT_3}!env*prod!visitnum*{VISIT_NUM}!seed*{SEED}!ccrformat*{FORMAT}!ccrmarket*{MARKET}!group*{GROUP}!pageformat*{PAGE_FORMAT}!pagemarket*{PAGE_MARKET}!mtfIFPath*\/doubleclick\/!ccrlocalcontent*null!sourceaffiliate*null!g*{GENDER}!a*{AGE}!rzip*{ZIPCODE}!at*{ACCOUNT_TYPE}!sz*300x600,300x250!cartnumber*{CART_NUMBER};ord={ORD}?callback={CALLBACK}\" name=\"adFrame\" class=\"adFrame\" width=\"300\" height=\"605\" frameborder=\"0\" border=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" allowtransparency=\"true\"><\/iframe>';
-    $U.liveAds.TEMPLATE = 'http:\/\/ad.doubleclick.net\/pfadx\/{SITE_ZONE};ccrcontent1=null;ccrcontent2={STREAM_TYPE};ccrcontent3=null;env=prod;ccrlocalcontent=null;ccrpos=7005;visitnum={VISIT_NUM};sourceaffiliate=null;ccrformat={FORMAT};ccrmarket={MARKET};group={GROUP};sz=1000x27;g={GENDER};a={AGE};rzip={ZIPCODE};at={ACCOUNT_TYPE};u=ccrcontent1*null!ccrcontent2*{STREAM_TYPE}!ccrcontent3*null!env*prod!ccrlocalcontent*null!ccrpos*7005!visitnum*{VISIT_NUM}!sourceaffiliate*null!ccrformat*{FORMAT}!ccrmarket*{MARKET}!group*{GROUP}!sz*1000x27!g*{GENDER}!a*{AGE}!rzip*{ZIPCODE}!at*{ACCOUNT_TYPE};ord={ORD}';
-    $U.ads.URL_PUSHDOWN = 'http:\/\/ad.doubleclick.net\/ad{AD_TYPE}\/{SITE_ZONE};ccrpos={POSITION};tile={TILE};ccrcontent1={CONTENT_1};ccrcontent2={CONTENT_2};ccrcontent3={CONTENT_3};env=prod;visitnum={VISIT_NUM};seed={SEED};ccrformat={FORMAT};ccrmarket={MARKET};group={GROUP};pageformat={PAGE_FORMAT};pagemarket={PAGE_MARKET};mtfIFPath=\/doubleclick\/;ccrlocalcontent=null;sourceaffiliate=null;g={GENDER};a={AGE};rzip={ZIPCODE};at={ACCOUNT_TYPE};sz=970x90;cartnumber={CART_NUMBER};u=ccrpos*{POSITION}!tile*{TILE}!ccrcontent1*{CONTENT_1}!ccrcontent2*{CONTENT_2}!ccrcontent3*{CONTENT_3}!env*prod!visitnum*{VISIT_NUM}!seed*{SEED}!ccrformat*{FORMAT}!ccrmarket*{MARKET}!group*{GROUP}!pageformat*{PAGE_FORMAT}!pagemarket*{PAGE_MARKET}!mtfIFPath*\/doubleclick\/!ccrlocalcontent*null!sourceaffiliate*null!g*{GENDER}!a*{AGE}!rzip*{ZIPCODE}!at*{ACCOUNT_TYPE}!sz*970x90!cartnumber*{CART_NUMBER};ord={ORD}?callback={CALLBACK}';
-    $U.ads.URL_WALLPAPER = 'http:\/\/ad.doubleclick.net\/ad{AD_TYPE}\/{SITE_ZONE};ccrpos={POSITION};tile={TILE};ccrcontent1={CONTENT_1};ccrcontent2={CONTENT_2};ccrcontent3={CONTENT_3};env=prod;visitnum={VISIT_NUM};seed={SEED};ccrformat={FORMAT};ccrmarket={MARKET};group={GROUP};pageformat={PAGE_FORMAT};pagemarket={PAGE_MARKET};mtfIFPath=\/doubleclick\/;ccrlocalcontent=null;sourceaffiliate=null;g={GENDER};a={AGE};rzip={ZIPCODE};at={ACCOUNT_TYPE};sz=10x10;cartnumber={CART_NUMBER};u=ccrpos*{POSITION}!tile*{TILE}!ccrcontent1*{CONTENT_1}!ccrcontent2*{CONTENT_2}!ccrcontent3*{CONTENT_3}!env*prod!visitnum*{VISIT_NUM}!seed*{SEED}!ccrformat*{FORMAT}!ccrmarket*{MARKET}!group*{GROUP}!pageformat*{PAGE_FORMAT}!pagemarket*{PAGE_MARKET}!mtfIFPath*\/doubleclick\/!ccrlocalcontent*null!sourceaffiliate*null!g*{GENDER}!a*{AGE}!rzip*{ZIPCODE}!at*{ACCOUNT_TYPE}!sz*10x10!cartnumber*{CART_NUMBER};ord={ORD}?callback={CALLBACK}';
+    $U.ads.TEMPLATE_600 = '<iframe src=\"http:\/\/ad.doubleclick.net\/ad{AD_TYPE}\/{SITE_ZONE};ccrpos={POSITION};tile={TILE};ccrcountry={COUNTRY};ccrcontent1={CONTENT_1};ccrcontent2={CONTENT_2};ccrcontent3={CONTENT_3};env=prod;visitnum={VISIT_NUM};seed={SEED};ccrformat={FORMAT};ccrmarket={MARKET};group={GROUP};pageformat={PAGE_FORMAT};pagemarket={PAGE_MARKET};mtfIFPath=\/doubleclick\/;ccrlocalcontent=null;sourceaffiliate=null;g={GENDER};a={AGE};rzip={ZIPCODE};at={ACCOUNT_TYPE};playedFrom={PLAYED_FROM};sz=300x600,300x250,300x1050;u=ccrpos*{POSITION}!tile*{TILE}!ccrcountry*{COUNTRY}!ccrcontent1*{CONTENT_1}!ccrcontent2*{CONTENT_2}!ccrcontent3*{CONTENT_3}!env*prod!visitnum*{VISIT_NUM}!seed*{SEED}!ccrformat*{FORMAT}!ccrmarket*{MARKET}!group*{GROUP}!pageformat*{PAGE_FORMAT}!pagemarket*{PAGE_MARKET}!mtfIFPath*\/doubleclick\/!ccrlocalcontent*null!sourceaffiliate*null!g*{GENDER}!a*{AGE}!rzip*{ZIPCODE}!at*{ACCOUNT_TYPE}!playedFrom*{PLAYED_FROM}!sz*300x600,300x250,300x1050;ord={ORD}?callback={CALLBACK}\" name=\"adFrame\" class=\"adFrame\" width=\"300\" height=\"600\" frameborder=\"0\" border=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" allowtransparency=\"true\"><\/iframe>';
+    $U.ads.TEMPLATE_250 = '<iframe src=\"http:\/\/ad.doubleclick.net\/ad{AD_TYPE}\/{SITE_ZONE};ccrpos={POSITION};tile={TILE};ccrcountry={COUNTRY};ccrcontent1={CONTENT_1};ccrcontent2={CONTENT_2};ccrcontent3={CONTENT_3};env=prod;visitnum={VISIT_NUM};seed={SEED};ccrformat={FORMAT};ccrmarket={MARKET};group={GROUP};pageformat={PAGE_FORMAT};pagemarket={PAGE_MARKET};mtfIFPath=\/doubleclick\/;ccrlocalcontent=null;sourceaffiliate=null;g={GENDER};a={AGE};rzip={ZIPCODE};at={ACCOUNT_TYPE};playedFrom={PLAYED_FROM};sz=300x250;u=ccrpos*{POSITION}!tile*{TILE}!ccrcountry*{COUNTRY}!ccrcontent1*{CONTENT_1}!ccrcontent2*{CONTENT_2}!ccrcontent3*{CONTENT_3}!env*prod!visitnum*{VISIT_NUM}!seed*{SEED}!ccrformat*{FORMAT}!ccrmarket*{MARKET}!group*{GROUP}!pageformat*{PAGE_FORMAT}!pagemarket*{PAGE_MARKET}!mtfIFPath*\/doubleclick\/!ccrlocalcontent*null!sourceaffiliate*null!g*{GENDER}!a*{AGE}!rzip*{ZIPCODE}!at*{ACCOUNT_TYPE}!playedFrom*{PLAYED_FROM}!sz*300x250;ord={ORD}?callback={CALLBACK}\" name=\"adFrame\" class=\"adFrame\" width=\"300\" height=\"255\" frameborder=\"0\" border=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" allowtransparency=\"true\"><\/iframe>';
+    $U.ads.TEMPLATE_SYNCED = '<iframe src=\"http:\/\/ad.doubleclick.net\/ad{AD_TYPE}\/{SITE_ZONE};ccrpos={POSITION};tile={TILE};ccrcountry={COUNTRY};ccrcontent1={CONTENT_1};ccrcontent2={CONTENT_2};ccrcontent3={CONTENT_3};env=prod;visitnum={VISIT_NUM};seed={SEED};ccrformat={FORMAT};ccrmarket={MARKET};group={GROUP};pageformat={PAGE_FORMAT};pagemarket={PAGE_MARKET};mtfIFPath=\/doubleclick\/;ccrlocalcontent=null;sourceaffiliate=null;g={GENDER};a={AGE};rzip={ZIPCODE};at={ACCOUNT_TYPE};playedFrom={PLAYED_FROM};sz=300x600,300x250,300x1050;cartnumber={CART_NUMBER};u=ccrpos*{POSITION}!tile*{TILE}!ccrcountry*{COUNTRY}!ccrcontent1*{CONTENT_1}!ccrcontent2*{CONTENT_2}!ccrcontent3*{CONTENT_3}!env*prod!visitnum*{VISIT_NUM}!seed*{SEED}!ccrformat*{FORMAT}!ccrmarket*{MARKET}!group*{GROUP}!pageformat*{PAGE_FORMAT}!pagemarket*{PAGE_MARKET}!mtfIFPath*\/doubleclick\/!ccrlocalcontent*null!sourceaffiliate*null!g*{GENDER}!a*{AGE}!rzip*{ZIPCODE}!at*{ACCOUNT_TYPE}!playedFrom*{PLAYED_FROM}!sz*300x600,300x250,300x1050!cartnumber*{CART_NUMBER};ord={ORD}?callback={CALLBACK}\" name=\"adFrame\" class=\"adFrame\" width=\"300\" height=\"605\" frameborder=\"0\" border=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" allowtransparency=\"true\"><\/iframe>';
+    $U.liveAds.TEMPLATE = 'http:\/\/ad.doubleclick.net\/pfadx\/{SITE_ZONE};ccrcountry={COUNTRY};ccrcontent1=null;ccrcontent2={STREAM_TYPE};ccrcontent3=null;env=prod;ccrlocalcontent=null;ccrpos=7005;visitnum={VISIT_NUM};sourceaffiliate=null;ccrformat={FORMAT};ccrmarket={MARKET};group={GROUP};sz=1000x27;g={GENDER};a={AGE};rzip={ZIPCODE};at={ACCOUNT_TYPE};playedFrom={PLAYED_FROM};u=ccrcountry*{COUNTRY}!ccrcontent1*null!ccrcontent2*{STREAM_TYPE}!ccrcontent3*null!env*prod!ccrlocalcontent*null!ccrpos*7005!visitnum*{VISIT_NUM}!sourceaffiliate*null!ccrformat*{FORMAT}!ccrmarket*{MARKET}!group*{GROUP}!sz*1000x27!g*{GENDER}!a*{AGE}!rzip*{ZIPCODE}!at*{ACCOUNT_TYPE}!playedFrom*{PLAYED_FROM};ord={ORD}';
+    $U.ads.URL_PUSHDOWN = 'http:\/\/ad.doubleclick.net\/ad{AD_TYPE}\/{SITE_ZONE};ccrpos={POSITION};tile={TILE};ccrcountry={COUNTRY};ccrcontent1={CONTENT_1};ccrcontent2={CONTENT_2};ccrcontent3={CONTENT_3};env=prod;visitnum={VISIT_NUM};seed={SEED};ccrformat={FORMAT};ccrmarket={MARKET};group={GROUP};pageformat={PAGE_FORMAT};pagemarket={PAGE_MARKET};mtfIFPath=\/doubleclick\/;ccrlocalcontent=null;sourceaffiliate=null;g={GENDER};a={AGE};rzip={ZIPCODE};at={ACCOUNT_TYPE};playedFrom={PLAYED_FROM};sz=970x90;cartnumber={CART_NUMBER};u=ccrpos*{POSITION}!tile*{TILE}!ccrcountry*{COUNTRY}!ccrcontent1*{CONTENT_1}!ccrcontent2*{CONTENT_2}!ccrcontent3*{CONTENT_3}!env*prod!visitnum*{VISIT_NUM}!seed*{SEED}!ccrformat*{FORMAT}!ccrmarket*{MARKET}!group*{GROUP}!pageformat*{PAGE_FORMAT}!pagemarket*{PAGE_MARKET}!mtfIFPath*\/doubleclick\/!ccrlocalcontent*null!sourceaffiliate*null!g*{GENDER}!a*{AGE}!rzip*{ZIPCODE}!at*{ACCOUNT_TYPE}!playedFrom*{PLAYED_FROM}!sz*970x90!cartnumber*{CART_NUMBER};ord={ORD}?callback={CALLBACK}';
+    $U.ads.URL_WALLPAPER = 'http:\/\/ad.doubleclick.net\/ad{AD_TYPE}\/{SITE_ZONE};ccrpos={POSITION};tile={TILE};ccrcountry={COUNTRY};ccrcontent1={CONTENT_1};ccrcontent2={CONTENT_2};ccrcontent3={CONTENT_3};env=prod;visitnum={VISIT_NUM};seed={SEED};ccrformat={FORMAT};ccrmarket={MARKET};group={GROUP};pageformat={PAGE_FORMAT};pagemarket={PAGE_MARKET};mtfIFPath=\/doubleclick\/;ccrlocalcontent=null;sourceaffiliate=null;g={GENDER};a={AGE};rzip={ZIPCODE};at={ACCOUNT_TYPE};playedFrom={PLAYED_FROM};sz=10x10;cartnumber={CART_NUMBER};u=ccrpos*{POSITION}!tile*{TILE}!ccrcountry*{COUNTRY}!ccrcontent1*{CONTENT_1}!ccrcontent2*{CONTENT_2}!ccrcontent3*{CONTENT_3}!env*prod!visitnum*{VISIT_NUM}!seed*{SEED}!ccrformat*{FORMAT}!ccrmarket*{MARKET}!group*{GROUP}!pageformat*{PAGE_FORMAT}!pagemarket*{PAGE_MARKET}!mtfIFPath*\/doubleclick\/!ccrlocalcontent*null!sourceaffiliate*null!g*{GENDER}!a*{AGE}!rzip*{ZIPCODE}!at*{ACCOUNT_TYPE}!playedFrom*{PLAYED_FROM}!sz*10x10!cartnumber*{CART_NUMBER};ord={ORD}?callback={CALLBACK}';
   </script>
+  
 
 
 </body></html>
