@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kregtool.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230212755id_/http%3A//www.kregtool.com/Privacy-Policy-ExtraPages.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kregtool.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630232148id_/http%3A//www.kregtool.com/Privacy-Policy-ExtraPages.html) for the most accurate reproduction.*
 
 # Privacy Policy - Kreg Tool Company
 
