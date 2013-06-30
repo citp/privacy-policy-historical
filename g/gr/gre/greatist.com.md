@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the greatist.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920003333id_/http%3A//www.greatist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatist.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630140750id_/http%3A//greatist.com/greatist-privacy-policy) for the most accurate reproduction.*
 
-# Greatist Privacy Policy | Greatist: Your Trusted Health & Fitness Source
+# Greatist Privacy Policy | Greatist
 
-At Greatist, the go-to source for all things fitness, health, and happiness you can trust!, we respect your privacy and have established this [Privacy](http://greatist.com/privacy/ "Privacy") Policy to describe our policies and practices with respect to the information that we collect from users of our website at [www.greatist.com](http://www.greatist.com/).  Please review this Privacy Policy before you use our site or any of the services or features offered on or through our site.  By using our site and its services and features, you agree to be bound by this Privacy Policy.  If you do not agree to this Privacy Policy, please do not use our site or its services and features.
+At Greatist, the go-to source for all things fitness, health, and happiness you can trust!, we respect your privacy and have established this Privacy Policy to describe our policies and practices with respect to the information that we collect from users of our website at [www.greatist.com](http://www.greatist.com/).  Please review this Privacy Policy before you use our site or any of the services or features offered on or through our site.  By using our site and its services and features, you agree to be bound by this Privacy Policy.  If you do not agree to this Privacy Policy, please do not use our site or its services and features.
 
 **1.          What information do we collect?**
 
@@ -36,6 +36,7 @@ We may use your non-personally identifiable information to analyze the usage of 
 We may share your personal information with third parties including in the following instances:
 
   * who assist us in providing our site and services (such as data storage providers) and processing transactions and communications on and through our site;
+  * for their direct marketing purposes;
   * names of winners of our contests and sweepstakes as may be required by law on our site and in winner’s lists;
   * law enforcement officials, to the extent we believe necessary to comply with laws, regulations, court or administrative orders, or other governmental authority or to prevent harm to yourself or others;
   * where you have specifically authorized us to do so; and
