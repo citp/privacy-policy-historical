@@ -1,33 +1,60 @@
-> *The following text is extracted and transformed from the walgreens.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230192127id_/http%3A//www.walgreens.com/topic/help/generalhelp/privacyandsecurity.jsp%3Ffoot%3Dsecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walgreens.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630200815id_/http%3A//www.walgreens.com/topic/help/generalhelp/privacyandsecurity.jsp%3Ffoot%3Dsecurity) for the most accurate reproduction.*
 
 # Online Privacy and Security Policy | Walgreens
 
 **Privacy Policy and Consent**  
-This privacy policy lets you know what information we collect, how we may share that information, and your choices regarding the sharing of your information. This policy applies to Walgreens stores, Walgreens.com and other places where we may collect personal information. **By visiting Walgreens.com, you are accepting the practices described in this Privacy Notice.**
+This privacy policy lets you know what information we collect, how we may share that information, and your choices regarding the sharing of your information. This policy applies to Walgreens stores, Walgreens.com, any Walgreens Affiliate sites where you may interact with any of the Walgreens Family of Companies, and other places where we may collect personal information. By visiting Walgreens.com, you are accepting the practices described in this Privacy Notice.
+
+**Information Collected By Automated Means:**  
+_Personally Identifiable Information_ : Is information we collect that uniquely identifies you, the customer. This information may contain name, shipping address, email address, phone number, and prescription information, as well as other information you may choose to share while interacting with our site and online services.
+
+_Non-Personal Information:_ Anonymous information is that information we collect that is not traceable to any individual person or computer. Walgreens utilizes this data to analyze trends and understand customer needs while shopping and interacting on our site so that we can provide a better user experience. For example, Walgreens may use cookies, web beacons, log files and other technologies to collect information about visitors to our Website, and interactions with our online advertisements and offerings.
 
 **Collection**  
-You can browse our sites without telling us who you are or revealing any personal information about yourself. Once you give us your personal information, you are not anonymous to us. If you choose to provide us with personal information, you consent to the transfer and storage of that information on our servers. We may collect and store the following personal information:
+You can browse our sites without telling us who you are or revealing any personal information about yourself. Once you give us your personal information, you are not anonymous to us. If you choose to provide us with personal information, you consent to the transfer and storage of that information on our servers.
+
+We may collect and store the following personally identifiable information:
 
   * Email address, physical contact information, and shipping, billing and other information you provide to purchase or ship an item;
-  * Clicks and page information such as the address (or "URL") of the web site that you came from before visiting our site, which pages you visit on our site, which browser you used to view our site and any search terms you have entered on our site.
-  * Chat session information for customers using our Pharmacy Chat service, which is logged for quality control purposes but not linked to your individual pharmacy record
+  * Clicks and page information such as the address (or URL ) of the web site that you came from before visiting our site, which pages you visit on our site, which browser you used to view our site and any search terms you have entered on our site;
+  * Chat session information for customers using our Pharmacy Chat Service, which is logged for quality control purposes but not linked to your individual pharmacy record
   * Customer service history including dispute resolution, correspondence through our sites, and correspondence sent to us;
   * Other information from your interaction with our sites, services, content and advertising, including computer and connection information, statistics on page views, traffic to and from the sites, ad data, IP address and standard web log information;
+  * Information you choose to provide through the linking of devices where you are actively choosing to share personal information, including health information, to interact with an application or program we host on our site;
+  * Information you choose to allow us access to through social media channels;
   * Information from other companies, such as demographic and navigation data; and
   * When you sign up for pharmacy services or order prescription drugs, our registration process asks you to provide us with a limited amount of personal and/or health-related information. This information is necessary to process your order and use our web site to access such functions as print prescription history and Auto Refills. Categories of personally identifiable information include: name, address, phone number, e-mail address, date of birth, billing/shipping information (credit card number, shipping address), and Rx number.
 
 
 
+**We may collect and store the following Non-Personal Information:**
+
+Cookies and Beacons
+
+"Cookies" are small files placed on the hard drive of your computer. Most cookies are "session cookies," meaning that they are automatically deleted from your hard drive once you sign out from Walgreens.com or close your web browser.
+
+We use cookies to provide features and services, such as:
+
+  * Allowing you to enter your password less frequently
+  * Remembering your preferences
+  * Presenting information that's targeted to your interests
+  * Measuring the effectiveness of our sites, services, content, and advertising
+  * Providing other services and features that are available only through the use of cookies
+
+
+
+A "web beacon" is an electronic image placed in the code of a web page. We use web beacons to monitor the traffic patterns of users from one page to another and to improve site performance.
+
 **Marketing**  
 We don't sell or rent your personal information online to third parties for their marketing purposes.
 
   * Personalization and experience improvements: We may combine your information with information we collect from other companies and use it to improve and personalize our services, content and advertising, as well as measure and improve its effectiveness.
-  * Walgreens advertising on other websites: We may advertise to you on websites other than Walgreens.com using information provided by third parties. Examples include location-based advertising to provide information relevant in your area, or advertising that is specific to your device (such as iPhones, tablets, or Android phones). In some cases, third parties may allow us to target advertising based on websites you have visited or demographic information. In these cases, your data is not collected by Walgreens or shared with Walgreens for direct use in our advertising.
-  * Third Party Offers: We may send offers to selected groups of customers on behalf of other businesses. When we do this, we do not give that business your name and address.
+  * _Walgreens advertising on other websites_ : Walgreens collects information about your activities on certain websites to send you targeted ads through the use of Flash Cookies. Examples include location-based advertising to provide information relevant in your area, or advertising that is specific to your device (such as iPhones, tablets, or Android phones). In some cases, third parties may allow us to target advertising based on websites you have visited or demographic information. In these cases, your data is not collected by Walgreens or shared with Walgreens for direct use in our advertising. To opt-out of Flash Cookies, you may go to Adobe at [ http://helpx.adobe.com/flash-player/kb/disable-third-party-local-shared.html](http://helpx.adobe.com/flash-player/kb/disable-third-party-local-shared.html "http://helpx.adobe.com/flash-player/kb/disable-third-party-local-shared.html"). To opt-out of behaviorally targeted ads on third party sites you may go to <http://www.networkadvertising.org/choices/>.
+  * _Third Party Offers_ : We may send offers to selected groups of customers on behalf of other businesses. When we do this, we do not give that business your name and address.
 
 
 
-If you don't wish to receive marketing communications from us, simply indicate your preference under My Account/Communication Preferences or by following the directions provided with the communication or advertisement.
+If you don't wish to receive e-mail marketing communications from us, simply indicate your preference under My Account/Communication Preferences or by following the directions provided with the communication or advertisement.
 
 **Other Ways We May Use or Disclose Information**  
 Our primary purpose in collecting personal information is to provide you with a safe, smooth, efficient, and customized experience.
@@ -40,19 +67,6 @@ Our primary purpose in collecting personal information is to provide you with a 
   * **Protection of Walgreens and Others:** We release account and other personal information when we believe release is appropriate to comply with laws; enforce or apply our Terms of Use and other agreements; or protect the rights, property, or safety of this website or Walgreens.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
 
 
-
-**Cookies and Beacons**  
-"Cookies" are small files placed on the hard drive of your computer. Most cookies are "session cookies," meaning that they are automatically deleted from your hard drive once you sign out from Walgreens.com or close your web browser. We use cookies to provide features and services, such as:
-
-  * Allowing you to enter your password less frequently
-  * Remembering your preferences
-  * Presenting information that's targeted to your interests
-  * Measuring the effectiveness of our sites, services, content, and advertising
-  * Providing other services and features that are available only through the use of cookies
-
-
-
-A "web beacon" is an electronic image placed in the code of a web page. We use web beacons to monitor the traffic patterns of users from one page to another and to improve site performance.
 
 **Third Party Service Providers:**  
 We may work with other companies who place cookies or web beacons on our websites. These companies help operate our websites and provide you with additional products and services.
@@ -78,11 +92,11 @@ It is important for you to protect against unauthorized access to your password 
 **Actions You Can Take**  
 We recommend that you take the following precautions to safeguard your data:
 
-  * Use a complex password with unique numbers, letters and special characters, and do not disclose your Walgreens password to anyone. If you do share your password or your personal information with others, remember that you are responsible for all actions taken in the name of your account. If your password has been compromised for any reason, you should immediately change your password.
-  * Keep your computer software up to date with the latest browser and anti-virus security software.
-  * Be aware of increasingly common email scams that may use your email address to contact you and ask for personal or sensitive information. Always be cautious when opening links or attachments from unsolicited third parties. Also know that Walgreens will not send you emails asking for your credit card number, social security number or other personally identifiable information. So if ever asked for this information, you can be confident it is not from Walgreens.
+Use a complex password with unique numbers, letters and special characters, and do not disclose your Walgreens password to anyone. If you do share your password or your personal information with others, remember that you are responsible for all actions taken in the name of your account. If your password has been compromised for any reason, you should immediately change your password.
 
+Keep your computer software up to date with the latest browser and anti-virus security software.
 
+Be aware of increasingly common email scams that may use your email address to contact you and ask for personal or sensitive information. Always be cautious when opening links or attachments from unsolicited third parties. Also know that Walgreens will not send you emails asking for your credit card number, social security number or other personally identifiable information. So if ever asked for this information, you can be confident it is not from Walgreens.
 
 **You may choose to:**  
 Stop receiving e-mail and mobile marketing communications by changing your preferences online. If you have an online account, login to Your Account and click on [Communication Preferences](https://web.archive.org/youraccount/communication_preferences.jsp?sectionName=settings "Communication Preferences"). If you do not have an online account you may click Unsubscribe from the bottom of Walgreens emails, and reply STOP to our text messages to stop receiving emails and SMS text messages. To request unsubscribing by email, contact [Customerservice@mail2.walgreens.com](mailto:Customerservice@mail2.walgreens.com).
@@ -104,4 +118,4 @@ Attn: Privacy Officer
 200 Wilmot Rd, MS 9000  
 Deerfield, IL 60015
 
-**Effective Date:** 04/15/2011
+**Effective Date:** 05/16/2013
