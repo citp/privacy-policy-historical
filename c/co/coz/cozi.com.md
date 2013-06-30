@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cozi.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213124450id_/http%3A//www.cozi.com/Privacy-Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cozi.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630094922id_/http%3A//www.cozi.com/Privacy-Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Cozi
 
@@ -70,7 +70,7 @@ If you have any questions, comments, or concerns about this Privacy Policy, plea
 
 Postal Mail Address:
 
-**Cozi Group, Inc.**  
+**Cozi, Inc.**  
 506 2nd Avenue, Suite 710  
 Seattle, WA 98104-2328  
 Attention: Privacy Officer
@@ -83,7 +83,7 @@ In compliance with the Safe Harbor Principles, Cozi commits to resolve complaint
 
 European Union citizens with inquiries or complaints regarding this privacy policy should first contact Cozi at:
 
-**Cozi Group, Inc.**  
+**Cozi, Inc.**  
 506 2nd Avenue, Suite 710  
 Seattle, WA 98104-2328 USA   
 Attention: Privacy Officer
@@ -92,9 +92,6 @@ Cozi has further committed to refer unresolved privacy complaints under the Safe
 
 Council of Better Business Bureaus, Inc.  
 BBB EU SAFE HARBOR  
-4200 Wilson Boulevard, Suite 800  
-Arlington, VA 22203  
-Phone: 703-276-0100  
 Web: [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints)
 
-[Last Updated: 02/02/2011]
+[Last Updated: 02/05/2013]
