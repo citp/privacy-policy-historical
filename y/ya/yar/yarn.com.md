@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yarn.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230184242id_/http%3A//www.yarn.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yarn.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630172815id_/http%3A//www.yarn.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Customer Service Privacy Policy at Webs
 
