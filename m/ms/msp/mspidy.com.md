@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mspidy.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219174113id_/http%3A//www.mspidy.com/privacy-and-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mspidy.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630231224id_/http%3A//www.mspidy.com/privacy-and-policy) for the most accurate reproduction.*
 
-# Privacy & Policy - Social Networking Site | Social Media News | Web Tips
+# Privacy & Policy - Mspidy Social Networking Site gives Social Media News and Web Tips
 
 Sign-In Information:
 
@@ -128,6 +128,6 @@ We may amend this Privacy Policy from time to time. Use of information we collec
 
 What If I Have Questions or Concerns?
 
-If you have any questions or concerns regarding privacy using Mspidy, please send us a detailed message to: [support@mspidy.com](mailto:support@mspidy.com)  We will make every effort to resolve your concerns. 
+If you have any questions or concerns regarding privacy using Mspidy, please send us a detailed message to [support@mspidy.com](mailto:support@mspidy.com)  We will make every effort to resolve your concerns. 
 
 Last Updated Date Privacy and Policy: July 02, 2012 
