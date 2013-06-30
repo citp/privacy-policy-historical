@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the sluggerotoole.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230190145id_/http%3A//sluggerotoole.com/re/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sluggerotoole.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630195739id_/http%3A//sluggerotoole.com/re/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Slugger O'Toole
-
-## [Privacy Policy](http://sluggerotoole.com/re/privacy-policy/)
 
 Slugger O’Toole Limited (“We”) are committed to protecting and respecting your privacy.  This privacy policy sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us and it should be read in conjunction with our Website Legal Notice.
 
