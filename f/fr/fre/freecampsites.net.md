@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freecampsites.net privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114181540id_/http%3A//freecampsites.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freecampsites.net privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630212221id_/http%3A//freecampsites.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Free Campsites
+# Privacy Policy - Freecampsites.net
 
 This Privacy Policy has been created so that you, as a user of this website, understand how the data that you submit to us is handled.
 
