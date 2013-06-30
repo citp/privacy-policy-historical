@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlesbus.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228093816id_/http%3A//www.articlesbus.com/disclaimer-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesbus.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630105331id_/http%3A//www.articlesbus.com/disclaimer-and-privacy-policy) for the most accurate reproduction.*
 
 # Disclaimer and Privacy Policy
 
@@ -15,7 +15,3 @@ Log Files – – As with most other websites, we collect and use the data conta
 Cookies and Web Beacons – We do use cookies to store information, such as your personal preferences when you visit our site. We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here. http://www.networkadvertising.org/
 
 Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. Google, as a third party vendor, uses cookies to serve ads. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. http://www.google.com/privacy_ads.html You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
-
-### Leave a Reply 
-
-You must be [logged in](http://www.articlesbus.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.articlesbus.com%2Fdisclaimer-and-privacy-policy%2F) to post a comment.
