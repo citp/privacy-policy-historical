@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amateursrated.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621235454id_/http%3A//www.poseparty.com/user/statements/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amateursrated.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630231706id_/http%3A//www.poseparty.com/user/statements/privacy.php) for the most accurate reproduction.*
 
 # Amateur, Voyeur & Exhibitionist PoseParty - The Sexiest Party On Earth
 
@@ -37,7 +37,7 @@ Detailed information about you is only collected when you are advised explicitly
 
 ###  Sharing Information 
 
-PoseParty.Com does not share your information with any sub-contractors or third parties. We do however encourage you to look at the privacy statements of our billing agents, Paycom abd CCBill. 
+PoseParty.Com does not share your information with any sub-contractors or third parties. We do however encourage you to look at the privacy statements of our billing agents, Epoch and CCBill. 
 
 ###  Checking Information 
 
@@ -53,7 +53,7 @@ When approached by the appropriate authorities, information about you, your busi
 
 ###  Payment Encryption Technology 
 
-To maintain the highest security we use the services of Paycom and CCBill, both very technologically advanced billing agents who use state-of-the-art 128 bit encyption techniques. 
+To maintain the highest security we use the services of Epoch and CCBill, both very technologically advanced billing agents who use state-of-the-art 128 bit encyption techniques. 
 
 ###  Hackers and Viruses 
 
