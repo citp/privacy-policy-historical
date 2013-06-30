@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the scour.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230181124id_/http%3A//www.scour.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scour.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630162940id_/http%3A//www.scour.com/privacy) for the most accurate reproduction.*
 
-# Scour - Search Socially
+# Privacy - Scour.com - Search Socially with Scour
 
-### Privacy Policy
+### Scour.com Privacy Policy
 
-(SCOUR.COM) EFFECTIVE DATE: The most recent version of this Privacy Policy, as revised, is October 22, 2009. 
+**(SCOUR.COM) EFFECTIVE DATE: The most recent version of this Privacy Policy, as revised, is October 22, 2009.**
 
 This Privacy Policy applies to certain web sites that are owned and/or operated by or on behalf of SCOUR.COM, and/or other affiliated entities controlled by, or under common control with, such parties (each such web site being individually referred to herein as the "Web Site"). If you have arrived at this Privacy Policy by "clicking" on an authorized link from a Web Site, then this Privacy Policy applies to said Web Site, and the individual entity that owns and/or operates the particular Web Site from which you "clicked". This Privacy Policy via an authorized link shall be referred to herein as "Sponsor," "we" or "us." Sponsor respects the privacy of its users, and this Privacy Policy explains what information we collect on our Web Site and how we use said information. 
 
@@ -22,7 +22,7 @@ Personally Identifiable Information: Personally identifiable information is info
 
 The Web Site does not knowingly collect PII from children under thirteen (13) years of age: This is not a web site directed to children under the age of 13, and Sponsor does not knowingly collect any information from children under 13 years of age at the Web Site. If you are under 13 years of age, do not send any information about yourself to Sponsor. If Sponsor discovers that a child under the age of 13 has provided the Web Site with PII, Sponsor will delete that child's PII from its system. 
 
-Anonymous Information: When you visit the Web Site, our web servers automatically collect web site usage information. Web site usage information is anonymous information that describes how our visitors use and navigate our Web Site, and it includes the number and frequency of visitors to each web page and the length and depth of their stays. We collect the anonymous information automatically sent to us by your web browser, such as browser type, referrer data that identifies the web page visited prior and subsequent to visiting our Web Site, and IP address. We also may determine what technology is available through your browser in order to serve you with the most appropriate version of a web page. For example, we may determine that you have installed a version of Flash, and we will then send you the appropriate Flash version of the web page rather than an HTML page. 
+Anonymous Information: When you visit the scour.com Web Site, our web servers automatically collect web site usage information. Web site usage information is anonymous information that describes how our visitors use and navigate our Web Site, and it includes the number and frequency of visitors to each web page and the length and depth of their stays. We collect the anonymous information automatically sent to us by your web browser, such as browser type, referrer data that identifies the web page visited prior and subsequent to visiting our Web Site, and IP address. We also may determine what technology is available through your browser in order to serve you with the most appropriate version of a web page. For example, we may determine that you have installed a version of Flash, and we will then send you the appropriate Flash version of the web page rather than an HTML page. 
 
 IP Addresses: An IP address is a number that is assigned to your computer or network when you are on the Internet. When visitors request pages from our Web Site, our servers log the visitor's IP address. We may collect IP addresses for a variety of internal purposes, such as system administration, to report aggregate information to our business partners or to audit the number of visits to different pages on our Web Site. Please note that some services within our Web Site, such as certain message boards, may display IP addresses along with the message poster's name and message. 
 
@@ -61,6 +61,6 @@ By using the Web Site, you agree to the terms of this Privacy Policy. Sponsor re
 
 If you have any questions, comments or concerns about our Privacy Policy, please contact us at the address provided on the Web Site from which you "clicked" via an authorized link to arrive at this Privacy Policy. 
 
-#### Opt-Out of Scour Invites
+#### Opt-Out of Scour.com Invites
 
-If you prefer not to receive invitations from ANY scour members, please [click here](https://web.archive.org/unsubscribe) -OR- Write to us at: Scour, Inc., 15303 Ventura Blvd. Suite 220, Sherman Oaks, CA 91403, USA. 
+If you prefer not to receive invitations from ANY scour.com members, please [click here](https://web.archive.org/unsubscribe) -OR- Write to us at: Scour, Inc., 15303 Ventura Blvd. Suite 220, Sherman Oaks, CA 91403, USA. 
