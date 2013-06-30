@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the satmetrix.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231063309id_/http%3A//www.satmetrix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the satmetrix.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630074728id_/http%3A//www.satmetrix.com/privacy-policy) for the most accurate reproduction.*
 
-# Satmetrix » Privacy Policy
+# Privacy Policy -
 
-[](http://www.satmetrix.com//privacy.truste.com/privacy-seal/Satmetrix-Systems,-Inc-/validation?rid=2bae5841-39b8-4fdd-bdbb-3327b2892ad0 "TRUSTe European Safe Harbor certification")
+[](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.satmetrix.com&sealid=103 "TRUSTe European Safe Harbor certification")
 
 This Privacy Statement explains the data practices of Satmetrix Systems, Inc. (”Satmetrix” or “Us”). This privacy statement covers the sites [www.satmetrix.com](http://www.satmetrix.com/) and [www.ccsurvey.com](http://www.ccsurvey.com/). [Part I](http://www.satmetrix.com/privacy-policy/#part1) describes our data practices with respect to Personal Data (as defined below) that Satmetrix processes on behalf of its clients; and [Part II](http://www.satmetrix.com/privacy-policy/#part2) describes our data practices with respect to information we collect about our business contacts and other visitors to the Satmetrix website. The general provisions in [Part III](http://www.satmetrix.com/privacy-policy/#part3) apply to our data practices in both [Part I](http://www.satmetrix.com/privacy-policy/#part1) and [Part II](http://www.satmetrix.com/privacy-policy/#part2).
 
