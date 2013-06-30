@@ -1,19 +1,60 @@
-> *The following text is extracted and transformed from the freeclassifiedsworld.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106232640id_/http%3A//www.freeclassifiedsworld.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeclassifiedsworld.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630142019id_/http%3A//www.freeclassifiedsworld.com/index.php%3Fview%3Dpage%26pagename%3Dprivacy) for the most accurate reproduction.*
 
-# 
+# Free Classifieds World
 
-##  Privacy Policy 
+## Privacy Policy
 
-Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy. 
+Free Classifieds World has established this privacy policy to explain to you how your information is protected, collected and used, which may be updated by Free Classifieds World from time to time. Free Classifieds World will provide notice of materially significant changes to this privacy policy by posting notice on our site. 
 
-  * Before or at the time of collecting personal information, we will identify the purposes for which information is being collected. 
-  * We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law. 
-  * We will only retain personal information as long as necessary for the fulfillment of those purposes. 
-  * We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned. 
-  * Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date. 
-  * We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification. 
-  * We will make readily available to customers information about our policies and practices relating to the management of personal information. 
+### 1\. Protecting your privacy
+
+  * We do not run banner ads, pop ups, pop unders, or any other kind of commercial ads.
+  * We do not share your information with third parties for marketing purposes.
+  * We do not engage in cross-marketing or link-referral programs with other sites.
+  * We do not employ tracking devices for marketing purposes ("cookies", "web beacons," single-pixel gifs).
+  * We do send you unsolicited communications for marketing purposes. 
+  * Forums uses basic webserver authentication. Close your browser to log out.
+  * Free Classifieds World do knowingly collect any information from persons under the age of 13. If we learns that a posting is by a person under the age of 13, Free Classifieds World will keep that post.
+  * Free Classifieds World, or people who post on this website, may provide links to third party websites, which may have different privacy practices. We are not responsible for, nor have any control over, the privacy policies of those third party websites, and encourage all users to read the privacy policies of each and every website visited. 
 
 
 
-We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
+### 2\. Data we collect
+
+  * We sometimes collect your email address, for purposes such as sending self-publishing and confirmation emails, registering for forums, etc.
+  * For paid postings, we collect contact information, such as name(s), phone/fax number(s), and address for billing purposes.
+  * Free Classifieds World does not store credit card information. Credit card transactions are transmitted to a financial gateway, and we endeavor to protect the security of your payment information during transmission by using Secure Sockets Layer (SSL) technology.
+  * We may collect personal information if you provide it in feedback or comments, post it on our classifieds or interactive forums, or if you contact us directly. Please do not post any personal information on our discussion forums or classifieds posts that you expect to keep private.
+  * Our web logs collect standard web log entries for each page served, including your IP address, page URL, and timestamp. Web logs help us to diagnose problems with our server, to administer our website, and to otherwise provide our service to you.
+
+
+
+### 3\. Data we store
+
+  * All classified and forum postings are stored in our database, even after "deletion," and may be archived elsewhere.
+  * Our web logs and other records are stored indefinitely.
+  * Although we make good faith efforts to store the information in a secure operating environment that is not available to the public, we cannot guarantee complete security.
+
+
+
+### 4\. Archiving and display of Free Classifieds World postings by search engines and other sites
+
+Search engines and other sites not affiliated with Free Classifieds World - including archive.org, google.com, and groups.yahoo.com - archive or otherwise make available Free Classifieds World ad postings, including resumes. 
+
+
+### 5\. Circumstances in which Free Classifieds World may release information
+
+  * We may disclose information about the users if required to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal process.
+  * Free Classifieds World may also disclose information about its users to law enforcement officers or others, in the good faith belief that such disclosure is reasonably necessary to: enforce our Terms of Use; respond to claims that any posting or other content violates the rights of third-parties; or protect the rights, property, or personal safety of craigslist, its users or the general public.
+
+
+
+### 6\. International Users
+
+By visiting our web site and providing us with data, you acknowledge and agree that due to the international dimension of our website we may use the data collected in the course of our relationship for the purposes identified in this policy or in our other communications with you, including the transmission of information outside your resident jurisdiction. In addition, please understand that such data may be stored on servers located in the United States. By providing us with your data, you consent to the transfer of such data. 
+
+
+### 7\. Feedback and comments
+
+We welcome your feedback on this document in our [contact form](http://www.freeclassifiedsworld.com/index.php?view=page&pagename=contact). We would be glad to explain you any terms for your better understanding. 
+
