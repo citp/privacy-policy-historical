@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the mfl-center.com privacy policy that was archived on 2009-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091103151827id_/http%3A//www.mfl-center.com/lch2.php%3Flk%3D421%26bid%3D146%26sesp%3D395_0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mfl-center.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630104725id_/http%3A//survey.ondemandresearch.com/lch2.php%3Flk%3D5117%26bid%3D184%26sesp%3D516_23915) for the most accurate reproduction.*
 
-# mfl-center.com.com Privacy Policy
+# OnDemand Research: The Next Level of Market Research.com Privacy Policy
 
-mfl-center.com Privacy Policy
-
-http://www.mfl-center.com ****
+http://survey.ondemandresearch.com ****
 
 **Review Our Privacy Policy**
 
-Last Revised: September 2, 2009
+Last Revised: March 15, 2010
 
 Use the links below to navigate to specific information about our Privacy Policy.  
 ---  
@@ -42,11 +40,9 @@ Use the links below to navigate to specific information about our Privacy Policy
 
 **Our Privacy Commitment**
 
-**mfl-center.com** (the "Site") is owned and operated by Sterling Interactive Marketing, Corp., a leading online customer loyalty and rewards company. We respect your privacy and our goal is to maintain your trust when handling your personal information. This document is intended to inform you, the end user, about how we handle information we process on behalf of our clients who use our lead generation and online marketing services (our "Clients"). 
+**OnDemand Research: The Next Level of Market Research** (the "Site") is owned and operated by Sterling Interactive Marketing, Corp., a leading online customer loyalty and rewards company. We respect your privacy and our goal is to maintain your trust when handling your personal information. This document is intended to inform you, the end user, about how we handle information we process on behalf of our clients who use our lead generation and online marketing services (our "Clients"). 
 
 By using this Site you are accepting the practices described in this Privacy Policy and you agree to adhere to the Terms and Conditions posted on the Site. If you do not agree with any terms, please do not use this Site or submit any personal information. 
-
-If you have any questions regarding this Privacy Policy, click here to contact us.
 
   
 
@@ -57,7 +53,7 @@ If you have any questions regarding this Privacy Policy, click here to contact u
 
 ** Children's Privacy**
 
-This Site is not directed to children under the age of thirteen and we do not knowingly collect personal information from children under the age of thirteen on the Site. If we become aware that we have inadvertently received personal information from a visitor under the age of thirteen on the Site, we will delete the information from our records.
+This Site is not directed to children under the age of eighteen and we do not knowingly collect personal information from children under the age of eighteen on the Site. If we become aware that we have inadvertently received personal information from a visitor under the age of thirteen on the Site, we will delete the information from our records.
 
 ** Personally Identifiable Information **
 
@@ -99,7 +95,19 @@ Pages on our Site may contain "web beacons" (also known as Internet tags, pixel 
 ** Client Offers and Third Parties**
 
 By registering at this Site, you agree that this act constitutes an inquiry and/or application for purposes of telemarketing laws, and notwithstanding that your telephone and/or cell number may be listed with the federal Do-Not-Call Registry you expressly opt-in to: (a) receive an offer or service from one or more of our Clients; (b) receive future information about products and services from us and from a variety of third parties to whom we may provide your information; (c) permit us, our Clients and other third parties to contact you pursuant to the business relationship we have established using the information you provided to us for any purpose such as contacting you by e-mail address, phone and/or cell number (including use of automated dialing equipment and prerecorded messages), text (SMS) message or any means of communication for any purpose that, among other things, your wireless device may be capable of receiving (e.g. mms, video etc. ). You acknowledge that your acceptance of these terms constitutes your express agreement to all uses of your information described herein.  
-Click here to view a representative list of Clients and third parties who may contact you. 
+
+
+**HOW DO WE SHARE INFORMATION?**
+
+**Marketing Partners**
+
+We may share, license or sell your information to third parties for various marketing purposes, including their online (e.g., e-mail marketing) and offline (e.g., telemarketing, cell phone text messaging, skip tracing, and direct mail) marketing programs. If you would like to be removed from these programs, [click here](http://www.odrpub1d.com/?id=o&pbk=QWdnp) to unsubscribe.
+
+**Data Enhancement/Appending/Validation**
+
+We may use third party service providers to enhance our database with additional elements, including but not limited to age ranges present in your household, whether you own or rent a home, the length of time you have lived at your residence, whether you are a mail order buyer or responder, household income, and gender. Further, we may use third party service providers to append telephone numbers to other data points we have in our database. We also may use third party service providers to validate the data we have in our database.
+
+Additionally, we may share, license or sell your information to third parties for use in their data validation, enhancement, information verification services, and, to the extent permitted by law, individual reference or look-up services. 
 
 Please see the opt-out procedures below if you do not want us to share your information with other companies or organizations. 
 
@@ -120,6 +128,10 @@ We may share personal information about you:
 **Opt-Out Policy**
 
 You may exercise your option to not receive any future communications from us by [ _clicking here_](). Subscribers should note that unsubscribing from this Site's electronic mailings will not automatically unsubscribe you from any communications you have elected to receive from our Clients or other third parties. To opt-out of future Client and third party offers, set your Communication Preferences in the [ Customer Status Center]() to indicate that you do not wish to receive any further information. Please note that you may still receive information from third parties to whom we have disclosed your information to prior to the time you opted-out. You should contact each third party in the event that you no longer want to receive information from such party.
+
+** SMS Offering and Opt-out rights **
+
+By completing or submitting a registration form or partial registration form you are consenting to receive SMS, wireless or other mobile offering to your cell phone. You understand that your wireless carrier's standard charges and rates apply to these messages. For SMS text messages, you may remove your information by replying "STOP", "END", or "QUIT" to the SMS text message you have received and we will remove your personal information within 10 days of receiving such request.
 
   
 
@@ -142,11 +154,11 @@ In order to bridge the different privacy approaches between the U.S. and the Eur
 If you believe that we have not complied with this Privacy Policy, please contact us at:  
 Privacy Officer  
 Information Access Request  
-Sterling Interactive Marketing  
-105 E. 34th Street Ste 144  
+OnDemand Research: The Next Level of Market Research  
+105 E. 34th Street Ste 144.  
 New York, NY 10016 
 
-You may also click here to complete an online form. Please describe in as much detail as possible the ways in which you believe that this Privacy Policy has not been complied with. We will investigate your complaint promptly. 
+You may also email us at customer.service@ondemandresearch.com. Please describe in as much detail as possible the ways in which you believe that this Privacy Policy has not been complied with. We will investigate your complaint promptly. 
 
 If you feel that your inquiry has not been satisfactorily addressed, you may contact the Direct Marketing Association at privacypromise@the-dma.org or in writing at:
 
@@ -171,8 +183,7 @@ Privacy Officer
 
 Information Access Request
 
-Sterling Interactive Marketing  
-105 E. 34th Street Ste 144  
+105 E. 34th Street Ste 144.  
 New York, NY 10016
 
   
@@ -190,8 +201,7 @@ Privacy Officer
 
 Information Access Request
 
-Sterling Interactive Marketing  
-105 E. 34th Street Ste 144  
+105 E. 34th Street Ste 144.  
 New York, NY 10016
 
 This request may be made no more than once per calendar year. We reserve our right not to respond to requests submitted other than to the address specified above.
@@ -233,5 +243,3 @@ If we change this Privacy Policy, updates will be posted in this privacy stateme
 [3] What is a cookie? A cookie is a small amount of data, which often includes an anonymous unique identifier that is sent to your browser from a web site's computer and stored on your computer's hard drive. Each web site can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a web site to access the cookies it has already sent to you, not the cookies sent to you by other sites. Many sites do this whenever a user visits their website in order to track online traffic flows. Cookies record information about your online preferences. Cookies let us know about repeat visitors and if we are delivering quality products and services to our Clients. We may also use cookies to identify which sites our repeat visitors are coming from, so that we can place more of our online advertising on these sites, and can, where necessary, pay our affiliates and other business partners. We may share this information with third parties, but only in aggregated, anonymous form, including reporting the results of advertising campaigns. Reporting and analyzing the performance of offers and advertisements improves our ability to serve the right offer at the right time, increasing the increasing the personalization of your experience on the Site.
 
 You can set your browser to accept all cookies, to notify you when a cookie is issued, or not to receive cookies at any time. Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences. For further information on cookies please visit http://www.aboutcookies.org. 
-
-**Processing**
