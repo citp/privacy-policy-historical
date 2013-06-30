@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tacobell.com privacy policy that was archived on 2012-10-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121018150623id_/http%3A//www.tacobell.com/Company/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tacobell.com privacy policy that was archived on 2013-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130630071436id_/https%3A//www.tacobell.com/Company/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head><script src="https://archive.org/includes/analytics.js?v=cf34f82"></script><script src="https://archive.org/includes/analytics.js?v=cf34f82"></script><script type="text/javascript" async="async" src="https://www.adobetag.com/d1/tacobell/live/Main.js"></script>
 
@@ -7,15 +7,16 @@
 
 
 
-	<title>Taco Bell® | Privacy Policy</title>
+<title></title>
+<meta name="title" content="">
 
-		
 
-	
+
+
 
 
 <meta property="og:title" content="">
-<meta property="og:description" content="">	
+<meta property="og:description" content="">
 
 <link rel="icon" href="/static_files/TacoBell/StaticAssets/images/reskin/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="/static_files/TacoBell/StaticAssets/images/reskin/favicon.ico" type="image/x-icon">
@@ -45,6 +46,51 @@ body {padding: 0;
 
 
 
+
+<script language="javascript" type="text/javascript">
+
+var userAgentString= navigator.userAgent+navigator.vendor+navigator.platform+window.opera;
+var deviceType="LowEnd";
+var subDeviceType="LowEnd";
+var isMobile=false;
+var incomingHostname=window.location.hostname;
+var mobilesiteHostname="m.tacobell.com";
+if (incomingHostname.indexOf("tb.emotion.com")!=-1) {
+	mobilesiteHostname = "mdev.tb.emotion.com";
+}
+//alert (userAgentString);
+//alert(incomingHostname+"="+mobilesiteHostname+":"+!incomingHostname.indexOf(mobilesiteHostname));
+if (incomingHostname.indexOf(mobilesiteHostname)==-1 && !/^\/(tweetoff|cbm|discover|livemascontestofficialrules|livemascontest|order|march6th|coolranchdltmobile|company\/newsreleases\/feb22012statement)/i.test(window.location.pathname)) {
+
+	//alert("navigator.userAgent="+navigator.userAgent+"navigator.vendor="+navigator.vendor+"navigator.platform"+navigator.platform+"window.opera"+window.opera);
+	if ( /iphone/i.test(userAgentString)) {
+		
+		isMobile=true;
+		deviceType="HighEnd";
+		subDeviceType="iOS";
+	
+	} else if ( /Android/i.test(userAgentString)) {
+	
+		isMobile=true;
+		deviceType="HighEnd";
+		subDeviceType="Android";
+	
+	} else if (/symbia|android|blackberry|iphone|ipod|iemobile|opera mobile|palmos|webos|googlebot-mobile/i.test(userAgentString)) {
+		isMobile=true;
+	}
+
+	//alert(deviceType+subDeviceType+isMobile);
+	if (isMobile) {
+		//alert (userAgentString);
+		window.location = "http://"+mobilesiteHostname+"/m/?v="+deviceType+"&sv="+subDeviceType;
+	}
+	
+}
+
+
+</script>
+
+
 <!-- Google Plus -->
 <link href="https://plus.google.com/113267365185061078784" rel="publisher">
 
@@ -70,8 +116,9 @@ body {padding: 0;
 <script type="text/javascript" src="/tb_files/js/libraries/preloadCssImages.jQuery_v5.js"></script>
 <script type="text/javascript" src="/tb_files/js/libraries/jquery.lazy-1.3.1.js"></script>
 <script type="text/javascript" src="/tb_files/js/libraries/swfobject-2.2.min.js"></script>
-<script src="/tb_files/js/libraries/s_code.js" type="text/javascript"></script><style type="text/css" media="screen">#headerLogoFlash {visibility:hidden}#headerLogoFlash {visibility:visible}</style></head><body id="legalNotices" class="company"><div id="mboxScriptContainer" style="display:none;visibility:hidden;"></div><style>.mboxDefault{visibility:hidden;}</style>
-<script src="/tb_files/js/tracker.js" type="text/javascript"></script>
+<script src="/tb_files/js/libraries/jquery.validate.js" type="text/javascript"></script>
+<script src="/tb_files/js/SCTracker.js" type="text/javascript"></script>
+
 <script type="text/javascript">
 	var site_home = '/tb_files/';
 </script>
@@ -115,6 +162,13 @@ body {padding: 0;
 
 
 
+<script type="text/javascript" language="JavaScript"> 
+     var scpl_time = new Date(); 
+     scpl_time = scpl_time.getTime(); 
+</script>	
+ 
+
+</head>
 
 
 
@@ -122,9 +176,10 @@ body {padding: 0;
 
 
 
+<body id="legalNotices" class="company">
 
 
-
+<script language="javascript" src="/tb_files/js/libraries/s_code.js" type="text/javascript"></script><div id="mboxScriptContainer" style="display:none;visibility:hidden;"></div><style>.mboxDefault{visibility:hidden;}</style>
 
 	<div id="container">
 		<div id="header">
@@ -177,7 +232,7 @@ body {padding: 0;
 
 	
 					
-	<div id="headerLogo" style="padding-top: 22px; padding-left: 22px;"><a href="/" style="background-image:url('/static_files/TacoBell/StaticAssets/images/reskin/bnr_lgo_main_02.png');">Taco Bell</a></div>
+	<div id="headerLogo"><a href="/" style="background-image:url('/static_files/TacoBell/StaticAssets/images/reskin/bnr_lgo_main_02.png');">Taco Bell</a></div>
 
 
 
@@ -199,7 +254,7 @@ body {padding: 0;
 
 
 <div id="linksB">
-<div id="linksSections" style="margin-left: 12px; width: 383px;">
+<div id="linksSections">
 	
 	
 	
@@ -232,7 +287,7 @@ body {padding: 0;
 							
 							<div class="linksDivider"><img src="/static_files/TacoBell/StaticAssets/images/reskin/wht_topnav_pipe.png" alt="" width="3" height="15" class="transparent"></div>
 
-							<a href="/nutrition"><img src="/static_files/TacoBell/StaticAssets/images/reskin/wht_link_nutrition_off.png" alt="Taco Bell Nutrition Guide" class="rollover transparent"></a>														
+							<a href="/nutrition"><img src="/static_files/TacoBell/StaticAssets/images/reskin/wht_link_nutrition_off.png" alt="Nutrition Info" class="rollover transparent"></a>														
 							
 							<div class="linksDivider"><img src="/static_files/TacoBell/StaticAssets/images/reskin/wht_topnav_pipe.png" alt="" width="3" height="15" class="transparent"></div>
 
@@ -280,7 +335,7 @@ body {padding: 0;
 
 
 <div id="findUs">
-	<form id="fmStoreLocator" name="fmStoreLocator" action="/tacobell/store-locator" method="get">
+	<form id="fmStoreLocator" name="fmStoreLocator" action="/tacobell/store-locator/" method="get">
 		<div id="findUsInput" class="transparent">
 			<input type="text" value="CITY,STATE,OR ZIP" name="q" id="findUsZip">
 			<img src="/tb_files/images/blank.gif" alt="" width="24" height="24" id="findUsZipGo">
@@ -365,13 +420,16 @@ body {padding: 0;
 				<div class="contentHalf privacyPolicy">
 				<h2 class="first">Taco Bell<sup>®</sup> Website Privacy Statement</h2>
 
-<p>Taco Bell Corp. ("Taco Bell") is committed to protecting the privacy of personal information you may provide us on the websites on which this policy appears, which sites include <a href="http://www.tacobell.com/">www.tacobell.com</a>, <a href="http://www.fourthmeal.com/">www.fourthmeal.com</a>, <a href="http://www.feedthebeat.com/">www.feedthebeat.com</a>, and other Taco Bell microsites and mobile websites (the "Site"). This Privacy Policy has been in effect since 7/11/2006, and was last updated on 2/26/10. The terms of this Privacy Policy apply to all users of this Site. If you do not agree with the terms of this Privacy Policy, you should immediately cease the use of this Site.</p>
+<p>Taco Bell Corp. ("Taco Bell") is committed to protecting the privacy of personal information you may provide on the websites on which this policy appears, which sites include <a class="exit_link 3rd" href="http://www.tacobell.com">www.tacobell.com</a>, <a class="exit_link 3rd" href="http://www.fourthmeal.com">www.fourthmeal.com</a>, <a class="exit_link 3rd" href="http://www.feedthebeat.com">www.feedthebeat.com</a>, <a class="exit_link 3rd" href="http://www.tacobellforteens.org">www.tacobellforteens.org</a>, and other Taco Bell microsites and mobile websites (the "Site"). This Privacy Policy has been in effect since 7/11/2006, and was last updated on 4/12/2013. The terms of this Privacy Policy apply to all users of this Site. If you do not agree with the terms of this Privacy Policy, you should immediately cease the use of this Site.</p>
 
 <h2>What information does Taco Bell collect about me on this Site?</h2>
 
 <p>Taco Bell collects personally identifiable information that you may voluntarily provide on online forms, which may include: user registration, sweepstakes registration, contact requests, guest comments, send-a-friend features, online surveys, application or other file download pages, and other online and mobile activities. The personally identifiable information (“Personal Information”) collected on this Site can include some or all of the following: your name, address, telephone number, e-mail addresses, credit card information, demographic information, and other information you may voluntarily provide or which may be collected as described herein. We will indicate at the time of collection when you have the choice whether or not to disclose Personal Information; however, some parts of the Site and some services may not be available, or may be more difficult to use if you choose not to disclose or have Personal Information shared. From time to time we may give you the option to receive future offers and updates. If you choose to opt-in, we will alert you to new features, special offers, updated information and new services.</p>
 
-<p>In addition to the Personal Information that you provide, as identified above, our Site may use technologies such as “cookies” to collect certain information and to provide visitors with tailored information upon each visit. Cookies are a common part of many commercial websites that allow small text files to be sent by a website, accepted by a web browser and then placed on your hard drive as recognition for repeat visits to the Site. Every time you visit our Site, our servers, through cookies, pixels and/or GIF files, collect basic technical information such as your domain name, the address of the last URL visited prior to clicking through to the Site, and your browser and operating system. You do not need to enable cookies to visit our Site; however, some parts of the Site and some services may be more difficult or impossible to use if cookies are disabled. Taco Bell also uses cookies on the Site to identify an index key with Our e-cards (online postcards). Our web servers may also automatically identify computers by their IP addresses. Taco Bell may use IP addresses to analyze trends, administer the Site, track users’ movement and gather broad demographic information for aggregate use.</p>
+<p>In addition to the Personal Information that you provide, as identified above, our Site may use technologies such as “cookies” to collect certain information and to provide visitors with tailored information upon each visit. Cookies are a common part of many commercial websites that allow small text files to be sent by a website, accepted by a web browser and then placed on your hard drive as recognition for repeat visits to the Site. Every time you visit our Site, our servers, through cookies, pixels and/or GIF files, collect basic technical information such as your domain name, the address of the last URL visited prior to clicking through to the Site, and your browser and operating system. You do not need to enable cookies to visit our Site; however, some parts of the Site and some services may be more difficult or impossible to use if cookies are disabled. Taco Bell also uses cookies on the Site to identify an index key with Our e-cards (online postcards). Our web servers may also automatically identify your device by identifiers like IP or MAC addresses. Taco Bell may use this information for a variety of business purposes, including to analyze trends, administer the Site, track users’ movements and gather broad demographic information for aggregate use. Our web servers may also automatically identify your device by identifiers like IP or MAC addresses. Taco Bell may use this information for a variety of business purposes, including to analyze trends, administer the Site, track users’ movements and gather broad demographic information for aggregate use.<br>
+&nbsp;</p>
+
+<p>&nbsp;</p>
 
 <h2>What does Taco Bell do with the information collected?</h2>
 
@@ -379,7 +437,7 @@ body {padding: 0;
 
 <h2>With whom does Taco Bell share information?</h2>
 
-<p>Taco Bell is a part of Yum! Brands, Inc. (“Yum Brands”). Yum Brands includes: KFC U.S. Properties, Inc., Taco Bell Corp., Pizza Hut, Inc., Long John Silver’s, Inc., A&amp;W Restaurants, Inc., WingStreet, LLC, and Yum Restaurants International, Inc. Taco Bell may share Personal Information collected on this Site with any member of Yum Brands and any other future subsidiaries or affiliates. Taco Bell may share Personal Information with third parties under the following circumstances: (i) in connection with a court order, subpoena, government investigation, or when otherwise required by law; (ii) in the event of a corporate sale, merger, acquisition, or similar event; or (iii) when working with third party companies to support the Site’s technical operation or execute a specific promotion or program (such as providing responses to the Guest Comments Page, conduct surveys, maintain a database of visitor information, offer downloadable applications for mobile devices, etc.). If Personal Information is shared with any third party for the purposes of executing a specific promotion or program, it is Taco Bell's policy to enter into written agreements with any third party receiving Personal Information, requiring the third party to comply with Taco Bell’s privacy policies and applicable laws.</p>
+<p>Taco Bell is a part of Yum! Brands, Inc. (“Yum Brands”). Yum Brands includes: KFC U.S. Properties, Inc., Taco Bell Corp., Pizza Hut, Inc., WingStreet, LLC, and Yum Restaurants International, Inc. Taco Bell may share Personal Information collected on this Site with any member of Yum Brands and any other future subsidiaries or affiliates. Taco Bell may share Personal Information with third parties under the following circumstances: (i) in connection with a court order, subpoena, government investigation, or when otherwise required by law; (ii) in the event of a corporate sale, merger, acquisition, or similar event; or (iii) when working with third party companies to support the Site’s technical operation or execute a specific promotion or program (such as providing responses to the Guest Comments Page, conduct surveys, maintain a database of visitor information, offer downloadable applications for mobile devices, etc.). If Personal Information is shared with any third party for the purposes of executing a specific promotion or program, it is Taco Bell's policy to enter into written agreements with any third party receiving Personal Information, requiring the third party to comply with Taco Bell’s privacy policies and applicable laws.</p>
 
 <p>From time to time Taco Bell may offer online services or features in connection with a third party company (such as offering downloadable "store finder" mobile software supported by MSN's Virtual Earth) where information about you is collected directly by the third party. In such cases, data is typically not shared with Taco Bell, but is retained by the third party and used as described in their privacy policy.</p>
 				</div>		
@@ -407,7 +465,7 @@ body {padding: 0;
 
 <p>Taco Bell's practice is not to collect information from children under 13 (or as otherwise prohibited by law), and Taco Bell does not knowingly collect any Personal Information online from children under 13 (or as otherwise prohibited by law). If you believe we have information about your child, please send an email to webmaster@tacobell.com or a write to Taco Bell<sup>®</sup> Corp., 1 Glen Bell Way, Irvine, CA 92618, Attention: Webmaster, Children's Online Privacy Act - Information Request, or by calling the webmaster at 949/863-4000. To learn more about how to protect your child online, we suggest you visit <a class="exit_link 3rd" href="http://www.OnGuardOnline.gov">www.OnGuardOnline.gov</a> and read the helpful information provided by the FTC at <a class="exit_link 3rd" href="http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm">http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm.</a></p>
 
-<p>Effective as of 7/11/2006, last updated 2/26/10</p>
+<p>Effective as of 7/11/2006, last updated 4/12/2013</p>
 				</div>		
 
 	<script type="text/javascript">
@@ -476,7 +534,7 @@ body {padding: 0;
 
 				
 
-<div id="icons"><a id="footer_fb" class="fb" href="http://www.facebook.com/tacobell" target="_blank" title="FaceBook">LIKE</a> <a id="footer_yt" class="youtube" href="http://www.youtube.com/tacobell" target="_blank" title="Youtube">VIEW</a> <a id="footer_tw" class="twitter" href="http://www.twitter.com/tacobell" target="_blank" title="Twitter">FOLLOW</a> <a id="footer_ios" href="/tacobell/mobile" class="ios" title="ios">IOS</a> <a id="footer_android" href="/tacobell/mobile" class="android" title="Android">AND</a> <!-- <a id="footer_mobile" href="/tacobell/mobile" class="mobile" title="Mobile">MOBILE</a>
+<div id="icons"><a id="footer_fb" class="fb" href="http://www.facebook.com/tacobell" target="_blank" title="FaceBook">LIKE</a> <a id="footer_tw" class="twitter" href="http://www.twitter.com/tacobell" target="_blank" title="Twitter">FOLLOW</a> <a id="footer_yt" class="youtube" href="http://www.youtube.com/tacobell" target="_blank" title="Youtube">VIEW</a> <a id="footer_instagram" href="http://instagram.com/tacobell" class="instagram" title="Instagram">INSTA</a> <a id="footer_ios" href="http://itunes.apple.com/us/app/taco-bell-ar-gaming-experience/id497387361?ls=1&amp;mt=8" class="ios" title="ios">IOS</a> <a id="footer_android" href="https://market.android.com/details?id=com.medlmobile.tacobell&amp;hl=en" class="android" title="Android">AND</a><!-- <a id="footer_mobile" href="/tacobell/mobile" class="mobile" title="Mobile">MOBILE</a>
 							<a id="footer_gplus" href="/tacobell/mobile" class="gplus" title="GPlus">GPLUS</a> --></div>
 
 
@@ -527,7 +585,7 @@ body {padding: 0;
 							
       						<li><a class="footerlink" href="/Company"><img src="/static_files/TacoBell/StaticAssets/images/reskin/wht_txt_foot_company.png"></a></li>
 							
-      						<li><a class="footerlink" href="/careers"><img src="/static_files/TacoBell/StaticAssets/images/reskin/wht_txt_foot_careers.png"></a></li>
+      						<li><a class="footerlink" href="http://www.tacobell.com/careers/workhere"><img src="/static_files/TacoBell/StaticAssets/images/reskin/wht_txt_foot_careers.png"></a></li>
 							
       						<li><a class="footerlink" href="/Company/termsOfUse"><img src="/static_files/TacoBell/StaticAssets/images/reskin/wht_txt_foot_legal.png"></a></li>
 							
@@ -542,7 +600,7 @@ body {padding: 0;
 						</ul>
 					</span>
 					<div class="legal">
-						<div id="copyright">©2012 Taco Bell Corp. All rights reserved.</div>							
+						<div id="copyright">©2013 Taco Bell Corp. All rights reserved.</div>							
 
 						<div id="privacy"><a id="btnPrivacy" href="/Company/privacypolicy"><span>Privacy Policy</span></a></div>	
 					</div>												
@@ -685,64 +743,6 @@ body {padding: 0;
 	</div>
 	<div class="right"></div>
 </div>
-		<script type="text/javascript">
-	<!--
-	    if (navigator.appVersion.indexOf('MSIE') >= 0) {
-	        document.write(unescape('%3C') + '\!-' + '-');
-	    }
-	//-->
-	</script>
-
-	<noscript>
-	<a href="http://www.omniture.com" title="Web Analytics"><img src="http://draftfcb.112.2o7.net/b/ss/dfcbtacobell/1/H.20.3--NS/0" height="1" width="1" border="0" alt="" /></a>
-	</noscript>
-	<!--/DO NOT REMOVE/-->
-	<!-- End SiteCatalyst code version: H.20.3. -->
-
-    <script src="/tb_files/js/libraries/jquery.validate.js" type="text/javascript"></script>
-	<script type="text/javascript" charset="utf-8">
-	    $(function() {
-	        $('#footer_mobile').click(function(e) {
-	            e.preventDefault();
-	            Tracker.trackClick('footer>mobile', 'footer');
-	            window.location = $('#footer_mobile').attr('href');
-	        });
-	        $('#footer_fb').click(function() {
-	            Tracker.trackClick('footer>facebook', 'footer');
-	        });
-	        $('#footer_yt').click(function() {
-	            Tracker.trackClick('footer>youtube', 'footer');
-	        });
-	        $('#footer_tw').click(function() {
-	            Tracker.trackClick('footer>twitter', 'footer');
-	        });
-	        $('#linkRelated').click(function() {
-	            if (!window.RelatedSitesTracker) window.RelatedSitesTracker = Tracker.newTracker();
-	            Tracker.trackPage('footer>related_sites', 'footer', null, null, window.RelatedSitesTracker);
-	        });
-	    });
-		
-		swfobject.embedSWF(
-			tacoBell.swfPath + 'shared/animated_logo.swf',
-			'headerLogoFlash',
-			154, 65,
-			tacoBell.constants.REQUIRED_FLASH_PLAYER_VERSION,
-			null, null, {
-				wmode: 'transparent',
-				scale: 'noscale',
-				menu: 'false',
-				salign: 'tl'
-			}, null, function()
-			{
-			    $('#headerLogo').css('paddingTop', 22);
-			    $('#headerLogo').css('paddingLeft', 22);
-				$('#linksSections').css({
-					marginLeft: 12,
-					width: $('#linksSections').width() - 12
-				});
-			});
-	</script>
-
 	
 
 
@@ -758,7 +758,7 @@ body {padding: 0;
 	</script>
 	
 	<script src="https://app.beanstalkdata.com/WebTracking.js" type="text/javascript" language="javascript"></script><script language="javascript" type="text/javascript">checkCookie(70)</script>
-	
+
 	
 	
 
@@ -766,6 +766,18 @@ body {padding: 0;
 	
 	
 
+	
+	
+	<!-- Adobe Marketing Cloud Tag Management code 
+Copyright 1996-2013 Adobe, Inc. All Rights Reserved 
+More info available at http://www.adobe.com --> 
+<script type="text/javascript">//<![CDATA[ 
+if(s){ 
+  s.pageName = "Company:Privacy Policy"; 
+  s.t(); 
+} 
+//]]></script> 
+<!-- End Adobe Marketing Cloud Tag Management code --> 
 	
 
 
