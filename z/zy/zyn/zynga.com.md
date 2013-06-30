@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zynga.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523224325id_/http%3A//company.zynga.com/about/privacy-center/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zynga.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630200748id_/http%3A//company.zynga.com/privacy/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Zynga
 
@@ -70,7 +70,7 @@ When you use any Zynga game at an SNS such as Facebook or Google +, where our ga
 
 
 
-By playing a Zynga game through an SNS, you are authorizing Zynga to collect, store, and use in accordance with this Privacy Policy any and all information that you agreed the SNS could provide to Zynga through the SNS Application Programming Interface ("API"). Your agreement takes place when you "accept" or "allow" (or similar terms) one of our applications on an SNS.
+By playing a Zynga game through an SNS, you are authorizing Zynga to collect, store, and use in accordance with this Privacy Policy any and all information that you agreed the SNS could provide to Zynga through the SNS Application Programming Interface ("API").
 
 **Information We Collect from You Directly**
 
