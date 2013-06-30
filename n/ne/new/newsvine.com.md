@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newsvine.com privacy policy that was archived on 2012-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120930160351id_/http%3A//www.newsvine.com/_nv/cms/info/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsvine.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630231458id_/http%3A//www.newsvine.com/_tps/_about/privacy) for the most accurate reproduction.*
 
-# Newsvine - Privacy Policy
+# Newsvine - Newsvine Privacy Policy
 
 (Last Updated: November 15, 2005)
 
