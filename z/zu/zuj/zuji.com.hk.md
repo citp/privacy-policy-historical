@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zuji.com.hk privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230212956id_/http%3A//www.zuji.com.hk/site/help/corporate/privacy_policy.html%3Fskin%3Denhk.zuji.com.hk) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zuji.com.hk privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630200840id_/http%3A//www.zuji.com.hk/site/help/corporate/privacy_policy.html%3Fskin%3Denhk.zuji.com.hk) for the most accurate reproduction.*
 
 # ZUJI Hong Kong: Your Online Travel Guru
 
