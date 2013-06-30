@@ -1,73 +1,111 @@
-> *The following text is extracted and transformed from the aeriagames.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203230156id_/http%3A//www.aeriagames.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aeriagames.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630131014id_/http%3A//www.aeriagames.com/policy/privacy) for the most accurate reproduction.*
 
-# Spiele die besten MMO, Browser, und Handyspiele gratis
+# Graj za darmo w najlepsze gry komputerowe, przeglądarkowe i na telefon
 
 ## Privacy Policy
 
-Aeria Games & Entertainment Inc. ("AGE") is committed to protecting your privacy and creating a strong relationship with our users. This privacy policy explains the use of information collected via our website [www.aeriagames.com](http://www.aeriagames.com/) or affiliated site owned and operated by AGE (collectively, the "Site"), customer service operations and game service. As used in this Privacy Policy, "personal information" means information about you that is personally identifiable like your name, address, e-mail address, or phone number, and other information that is not otherwise publicly available. This policy does not apply to (i) the practices of companies that AGE does not own or control, (ii) people that AGE does not employ or manage, (iii) third-party sites, whether linked to or from the Site, or (iv) information collected by AGE offline.
+Aeria Games & Entertainment, Inc. is committed to protecting your privacy and creating a strong relationship with our users. This privacy policy explains the use of personal information collected via (i) our websites, whether at www.aeriagames.com or other uniform resource locators (URLs) owned or operated by us, and (ii) our products and services, including without limitation those that we provide via our websites, other third party platforms, and desktop and mobile applications (collectively, all of the foregoing in clauses (i) and (ii) are referred to as our "Services"). 
 
-### Important: If you do not agree with any terms or conditions described in this Privacy Policy or the Terms of Use, please exit from the Site.
+This policy does not apply to (a) the practices of companies that we do not own or control, (b) people that we do not employ or manage, (c) third party websites, whether linked to or from our Services, (d) information that you provide to us for purposes of seeking employment, provision of services to us, business proposals or similar matters, (e) information that you provide to us unsolicited, or (f) information that we collect offline.
 
-### Information Collection and Use
+As used in this Privacy Policy, "personal information" means information about you that is personally identifiable, such as your name, e-mail address, phone number or physical address.
 
-Our primary goal in collecting personal is to provide you, the user, with a customized experience on our Site and to deliver better services, products, and more relevant contents to our customers, prospective customers, and visitors. We may collect personal information by any of the following methods. 
+###  Important: If you do not agree with any terms or conditions described in this Privacy Policy, please do not use our Services.
 
-  * **Anonymous Site Visitor:** If you visit our Site we may record information related to your IP address, cookie information, and aggregate information on what content you access or visit. This information is collected in the background while you move around our Site.
-  * **Mailing List Member:** If you choose to provide us personal information in order to subscribe to our mailing list or newsletter, we may collect information to aid delivery and preferences such as e-mail address and message performance statistics.
-  * **Registered Site Member:** If you choose to register on our Site, we may track broad site usage information as well as aggregate usage of website community features such as downloads and forums. This is in addition to the personal data collected during the registration process.
-  * **Promotions:** We may collect information to aid in any promotions or prizes offered by our Site.
-  * **Game Software:** If you install or use any of the game software offered by our Site, we collect and aggregate a variety of data to monitor system and simulation performance, and to verify your unique identity. This may include specific and general information about your computer hardware and Internet connection, which are stored together but are not personally identifiable. This is in addition to the personal data and other personal information collected during the registration process.
-  * **Payment Transaction:** If any payment transaction occurs on our Site, we collect information about such transaction, including credit card numbers or other billing information. 
-  * **Special Circumstances:**
-    * **Service Beta User:** If you volunteer to serve as a beta user for pre-commercial content, we may track bug reports and potentially individual system performance in an effort to rigorously test pre-deployed technology.
-    * **Former Customer:** If you cease being a registered user with our Site, we will keep a copy of your registration file in our database for use in the event you wish to rejoin our service.
-    * **Response to Job Postings or Unsolicited Communications:** Please note that information we receive in reference to a job posting or via unsolicited communications do not fall under the scope of this Privacy Policy. However, information from your resume will be used solely for the purpose of evaluating your candidacy for employment.
-    * **Individuals Outside of the United States:** Anyone using the Site from outside of the United States should be aware that personal information collected on the Site may be stored and processed in the United States or any other country in which AGE or its affiliates, subsidiaries or agents maintain facilities, and by using the Site, you consent to any such transfer of information outside of your country.
+### Information That We Collect
 
+We may collect different information from you when you use our Services. The following are examples to help you better understand the types of information that we collect. 
 
+1\. Information That You Provide Directly
 
-### Information Collected Through Technology
+When you use our Services, we may collect information that you provide to us directly, including without limitation:
 
-We collect information through technology to make our sites more interesting and useful to you. 
+_Registration and Profile Information._ Your username, password, and other related information for purposes of registration or creating a profile.
 
-We may use cookies to track general, non-personal information about our users (e.g., user name, pages viewed, time spent our Site, and the websites visited just before and just after our Site) for statistical and market research purposes. The information is collected on an aggregated and anonymous basis. We use cookies to gather information about our Site users' browser activities in order to constantly improve our Site and better serve our customers. This information assists us to design and arrange our web pages in a most user-friendly manner and to continually improve our Site to better meet the needs of our customers, prospective customers, and visitors.
+_Payment Information._ Your credit card numbers and other billing information for completing transactions.
 
-Like most Internet services, we may also use log files on the server side. The data held in log files includes your IP (Internet Protocol) address, browser type, e-mail application, Internet service provider, referring/exit Web pages, computer platform type, date/time stamp, and user activity (e.g., feature usage, user rankings, game statistics). AGE may use server log data to analyze trends, administer the services offered through the Site. IP addresses are not tied to any personally identifiable information.
+_Publicly Shared Information._ Information that you share publicly via our Services, such as postings in community forums, message boards and blogs, chat in public channels, and your public profile. (Please be aware that such information is public information. You should not expect privacy or confidentiality under these circumstances, and we shall not be liable in any way for disclosure of such information.)
 
-In addition, the software enabling the Site may have associated log and temporary files that are stored on AGE's servers. These files store your account information, preference settings, system notifications as well as other data necessary to enable you to participate on the Site. Your information may also exist within regularly performed server backups. The foregoing information is collected on an aggregated and anonymous basis. 
+_Information for Customer Support._ Information that you provide when you contact us for assistance or to report a problem.
 
-When any game is updated or "patched," our patch routine may check your computer to see that you have the most recent version of game-specific files.
+_Friends List._ Your friends list (e.g. if you refer others to our Services or form a group within our Services).
 
-### Voluntary Disclosure of Personal Information 
+_Sweepstakes/Promotions._ Information that you provide in order to participate in sweepstakes and promotions.
 
-You may choose to disclose personal information in our online community features, blogs, in-game chats or other public forums, directly to other users while using the Site service. Please be aware that such information is public information and you should not expect privacy or confidentiality under these circumstances. AGE shall not be liable in any way for such disclosure of personal information.
+2\. Information Collected Through Technology
 
-### Human Resources
+We collect information through technology to make our Services more useful and interesting to our users, including without limitation:
 
-Some of the pages associated with our Site may relate to employment opportunities or human resources. They usually will be captioned "Career" or "Current Opening Positions" or will have similar labels or captions clearly indicating the employment opportunity subject matter (the "Career Pages") and such pages may be co-branded with third party service providers. Any personal information that you submit through Careers Pages will be collected in the United States and will be reviewed by our employees or consultants to evaluate your qualifications and experience for job opportunities in the United States. Your personal information will not be disclosed to third parties other than third parties who provide services to us. We will (and each of our third party service providers with access to such information will agree with us they will) take any legally required steps to secure your personal information. We will use your personal information for recruitment purposes, and if you are offered a job or become employed by us, for other employment-related purposes. By submitting information through Careers Pages, you agree that we may use the information for recruitment and employment purposes (including transferring the data to other countries, transferring your information to other companies authorized to perform specific services, and/or other processing relevant to recruitment purposes).
+_Cookies._ We may use cookies to track general, non-personal information about our users for statistical and market research purposes (e.g., user name, pages viewed, time spent on applications, websites visited just before and just after our Services, etc.). This information is collected on an aggregated and anonymous basis.
 
-Resumes should include information relevant to your employment history and education (degrees obtained, places worked, positions held, relevant awards, and so forth). We recommend that you do not disclose sensitive personal characteristics (e.g., gender, height, weight, religion, philosophical or political beliefs, sexual orientation, financial data, marital status, etc.) in your initial resume or letters. Please note that your information will be processed and/or stored in U.S. databases. By submitting your resume, you are consenting to the export of your information to the U.S. for processing and storage. 
+_Log Files._ Like most Internet services, we may also use log files on the server side. The data held in log files includes your Internet Protocol (IP) address, browser type, Internet service provider, referring/exit websites, device type, date/time stamp, and user activity (e.g., feature usage, user rankings, game statistics).
 
-Except where you instruct us to remove your resume, we will keep the information for other consideration. If you need to update or otherwise make changes to you resume, simply resubmit a new resume. 
+_Temporary Files._ In addition, the software enabling our websites may have associated log and temporary files that are stored on our servers. These files store your account information, preference settings, system notifications as well as other data necessary to enable you to use our Services. Your information may also exist within regularly performed server backups. This information is collected on an aggregated and anonymous basis. 
 
-### Use of Personal Data
+_Patches._ When any game or application is updated or "patched," our patch routine may check your device to see that you have the most recent version of the files.
 
-We use your personal information for operational purposes only. For example, we may use your information to send you administrative communications either about your account with us or about features of our Site, including any changes to this Privacy Policy. Whatever the purpose may be, we will only collect information to the extent reasonably necessary to fulfill your requests and our legitimate business objectives. We attempt to limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.
+On an aggregated and anonymous basis, we may also collect other information through technology, such as information on our users' hardware, operating systems, and usage patterns.
 
-We use e-mail addresses to fulfill requests for services. For example, mailing addresses are used for the delivery of prizes. Occasionally, we share your personal information (e.g., e-mail address) with a third party sponsor, co-sponsor, or other reputable third party that provides products or services that may be of interest to you.
+3\. Information Received Through Your Third Party Platform Account and Mobile Device
 
-We may occasionally employ other companies to perform services necessary for our internal operations, such as companies that personalize our web pages, process credit card transactions, analyze customers' interaction with our Site, and process consumer surveys. We also provide postal addresses to the U.S. Post Office for delivery purposes. While providing their services, these companies may access your personal information. These companies have agreed to securely store and maintain the personal information received from us.
+When you use or connect to our Services on or through a third party platform, such as a social networking site (including using a third party platform account to sign into our Services), you allow us to access and/or collect certain information from your third party platform profile/account as permitted by the terms of the agreement and your privacy settings with the third party platform. The information you allow us to access and collect varies, depending on the Service you use, the terms of the third party platform and your privacy setting there. You may be able to disallow the third party platform from providing us with certain information about you by changing your privacy settings there.
 
-Finally, we may take your personal information and make it non-personally identifiable. We do this either by combining it with information about other individuals (aggregating your information with information about other individuals), or by removing characteristics (e.g., your name) that make the information personally identifiable to you. This process is known as de-personalizing your information. Given the non-personal nature of this information, no restrictions apply under this Privacy Policy on our right to de-personalize your personal information. We may use de-personalized information in any way and share it with third parties without your consent.
+If you use a our Services via a mobile device, we may, in accordance with the terms of any applicable agreement with the mobile device carrier (and as allowed by your privacy settings) collect certain information such as your unique device identifier (a number automatically assigned to your mobile or wireless device), device type, and information you choose to provide or share, such as e-mail address.
 
-### Required Disclosures
+### How We Use Your Information
 
-We will disclose personal information when we believe in good faith that disclosure is required by law (e.g., court order or subpoena) or such disclosure helps enforce (i) our Terms of Use, contests, sweepstakes, promotions, or game rules; (ii) protect your safety or security, including the safety and security of your property; or (iii) protect the safety and security of our website or third parties. 
+We may use the information we collect for a variety of purposes, primarily for operating and improving our Services. Our uses include without limitation:
+
+_Communications._ Communications with you about your account and our Services, such as new features and offerings.
+
+_Services._ Providing our Services, such as fulfilling requests and resolving customer support issues.
+
+_Analysis._ Analyzing trends and user behavior to improve our Services and develop new Services.
+
+_Protection._ Protecting our Services from misuse and, as may be necessary or appropriate in our determination, to protect the safety and security of our users, employees and third parties, or the integrity of our Services.
+
+Among other forms of communications, we may send push notifications to your mobile device to provide game updates and other relevant messages. You can manage push notifications from the "options" or "settings" page within the mobile application. You also may be able to manage them from your device's settings page. 
+
+Finally, we may take your personal information and make it non-personally identifiable. We do this either by combining it with information about other individuals (aggregating your information with information about other individuals), or by removing characteristics (e.g., your name) that make the information personally identifiable to you. This process is known as de-personalizing your information. Given the non-personal nature of this information, no restrictions apply under this Privacy Policy on our right to use de-personalized information.
+
+### Sharing of Information with Third Parties
+
+We will not share your personal information with unrelated third party advertisers.
+
+We will only share your personal information with third parties under the following circumstances:
+
+_Our Service Providers._ We may utilize or partner with other companies to provide our Services, such as vendors and service providers that analyze customers' interaction with our Services, and handle consumer surveys, or companies that co-develop or co-publish games with us. While providing their services, these companies may access your personal information, but we will direct them to maintain the confidentiality of such information and use it solely for performing the applicable services. 
+
+_Required Disclosures._ We will disclose personal information when we believe in good faith that disclosure is required or permitted by law (e.g., court order or subpoena) or such disclosure helps (i) enforce our terms of use, contests, sweepstakes, promotions, game rules, or similar restrictions, or (ii) protect the safety and security of our users, employees and third parties, or the integrity of our Services. 
+
+_Mergers and Corporate Transactions._ In the event that we undergo a business transition, such as a merger, acquisition, joint venture, corporate divestiture or dissolution, a sale of assets, or similar transactions, we may share, disclose or transfer your information, including personal information, to the other organizations that are parties to such transactions. 
+
+_Sweepstakes and Promotions._ We may share your information in connection with any sweepstakes or promotions you enter in connection with our Services, as necessary to administer, market, sponsor, administer or fulfill them or as required by applicable laws, rules or regulations.
+
+_Offers._ Our Services may display "offers" that are hosted by third party providers. The offers may, for example, provide virtual currency to users in exchange for interacting with an advertisement or for completing a marketing offer. To properly credit user accounts and to prevent fraud, a unique identifier, in some cases your user ID, may be shared with the offer providers. Please be aware that, after clicking on one of these offers, you will no longer be on our Services, and information that you provide will go directly to the third party provider. 
+
+_With Your Permission._ Additionally, if you opt-in or otherwise agree to have your information shared with a third party (or third parties), we will share your information accordingly, in which case the third party's use of your information is subject to the third party's own privacy policy.
+
+As discussed above, we may use de-personalized information in any way, including sharing it with third parties, without your consent. Among other things, we may share some of the information we collect from you upon installing a mobile application with vendors and other service providers who are working with us in connection with the operation of Our Services and/or for analytics purposes which may require the reproduction and display of de-personalized information. You may be able to "opt out" of the collection of your information for third party analytics purposes by following the directions provided by our third party analytics vendor. If you "opt out" with one third party analytics provider, that action is specific to that provider only and does not otherwise limit our information collection under the terms of this Privacy Policy. 
+
+### Security of Your Information
+
+We are committed to safeguarding your information, and we implement reasonable security measures to protect the security of your information. We also constantly update our technology with the goal of better protecting your information. 
+
+While we take reasonable precautions against possible security breaches, no website or Internet transmission is completely secure, and we cannot guarantee that unauthorized access, hacking, data loss, or other breaches will not occur. We urge you to take steps to keep your personal information safe, to use strong passwords, to log out of your account after use, and to use different passwords for different services with different companies. It is important that you also help protect and maintain the security of your account. Please notify us immediately of any unauthorized use. 
 
 ### Age Requirement
 
-The Site will not knowingly collect, use or retain personally identifiable information from anyone under the age of 13, for any purpose whatsoever (including internal or external marketing or promotional purposes). We request that any child under the age of 13 who wishes to use the Site obtain the permission of his/her parent or guardian.
+We will not knowingly collect, use or retain personal information from anyone under the age of 13, for any purpose whatsoever (including internal or external marketing or promotional purposes). If you are under 13, please do not send any information about yourself to us. 
 
 ### Modification of Privacy Policy
 
 We may periodically update and modify our privacy policy to reflect changes in the types of information we collect, the means we use to collect information, and/or our usage of collected information. We will attempt to notify you of any such update or modification. However, you are responsible for periodically reviewing our Privacy Policy. Your use of the Site and/or any products or services offered by Site signifies your assent to the updated or modified Privacy Policy. 
+
+### Right to Access
+
+Users in certain jurisdictions have a right to access personal information held about themselves. Your right of access can be exercised in accordance with applicable law. Please submit any requests for access to your personal data in writing to [privacy@aeriagames.com](mailto:privacy@aeriagames.com)
+
+### Contact Us
+
+If you have any questions, comments or concerns regarding our Privacy Policy or practices, please send an e-mail to [privacy@aeriagames.com](mailto:privacy@aeriagames.com)
