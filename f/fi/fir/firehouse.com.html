@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the firehouse.com privacy policy that was archived on 2012-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121230132855id_/http%3A//www.firehouse.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the firehouse.com privacy policy that was archived on 2013-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130630114124id_/http%3A//www.firehouse.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><!--<![endif]--><head>
 
@@ -7,6 +7,7 @@
 
    <link href="http://r1.cygnuspub.com/files/media/www.firehouse.com/orion/favicon.ico" rel="shortcut icon">
    <!-- Apple icon call -->
+      <link rel="apple-touch-icon-precomposed" href="http://r1.cygnuspub.com/files/media/www.firehouse.com/orion/site_shortcut_icon.png">
    
    <!-- Meta tag includes -->
    <meta charset="utf-8">
@@ -18,7 +19,7 @@
    
 
    <!-- Begin included CSS -->
-   <link rel="stylesheet" type="text/css" href="http://www.firehouse.com/app/merrick/files/www.firehouse.com/css/master.orion.css?m=1356662473">
+   <link rel="stylesheet" type="text/css" href="http://www.firehouse.com/app/merrick/files/www.firehouse.com/css/master.orion.css?m=1372367417">
 
    <!-- End included CSS -->
 
@@ -41,7 +42,7 @@
 }
 
 </script>
-<script type="text/javascript" src="http://www.firehouse.com/app/merrick/files/www.firehouse.com/js/344fe0da9992de8c9fbd805385f57a0b.js"></script>
+<script type="text/javascript" src="http://www.firehouse.com/app/merrick/files/www.firehouse.com/js/54582e73006f7739c6603845ed9bb77a.js"></script>
 
 
    
@@ -59,7 +60,7 @@ var _gaq = _gaq || [];
                   _gaq.push(['_setCustomVar', 5, 'User', 'Anonymous', 1]);
                 }_gaq.push(['_setCustomVar',4,'Channel','privacy-policy',3]);_gaq.push(['_trackPageview']);
                  _gaq.push(['_trackPageLoadTime']);
-               
+
                   (function() {
                    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
                    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
@@ -68,21 +69,8 @@ var _gaq = _gaq || [];
 
    var default_fb_image = 'http://r3.cygnuspub.com/files/media/www.firehouse.com/orion/site_logo_fb.png';
 
-
-
-var OX_245a23ec = OX();
-OX_245a23ec.addAdUnit('113480,113481,113476,113483,113484,113485');
-
-OX_245a23ec.addPage('10310');
-
-
-OX_245a23ec.addVariable('env','live');
-
-OX_245a23ec.addVariable('pathname','/privacy-policy');
-
-OX_245a23ec.fetchAds();
-   
-
+var OX_b39bfedd = OX();
+OX_b39bfedd.addAdUnit('366398,113476,113483,113484,113485');  OX_b39bfedd.addPage('10310');
 //]]>
 </script>
 
@@ -92,10 +80,14 @@ OX_245a23ec.fetchAds();
 <script type="text/javascript">
 //<![CDATA[
 $(document).ready(function(){
-   $('.ad_tracking').click(function() {
-      var ad_unit_id = $(this).attr('rel');
-      _gaq.push(['_trackEvent', 'Advertising', 'Click', ad_unit_id, undefined, true]);
-   });
+   $( '.ad_tracking' ).on( 'click', function() {
+      var ad_unit_id = $( this ).attr( 'rel' );
+      _gaq.push( ['_trackEvent', 'Advertising', 'Click', ad_unit_id, undefined, true] );
+
+   }).find( '.close' ).on( 'click', function() {
+	   return false;
+
+	});
 
    
 
@@ -166,6 +158,41 @@ $(document).ready(function(){
       
    });
 
+
+
+      var items = $('.ad_tracking');
+      var blocks = $('.block_level_tracking');
+      $(window).on('scroll load', function () {
+
+         items.each(function() {
+            var ad_unit_id = $(this).attr('rel');
+            var inviewport = $(this).is(':topInViewport');
+
+            if (inviewport && !$(this).data('displayed')) {
+               $(this).data('displayed', true);
+               _gaq.push(['_trackEvent', 'Advertising', 'In-View Impression', ad_unit_id, undefined, true]);
+            }
+
+         });
+
+         blocks.each(function() {
+
+         	var block = $(this)
+         	var inviewport = $(this).is(':bottomInViewport');
+
+         	if (inviewport && !$(this).data('displayed')) {
+
+         		$(this).data('displayed', true);
+      			var category = $(this).data('section') + '|' + $(this).data('block');
+         		_gaq.push(['_trackEvent', 'Block Level Tracking', 'View', category, undefined, true]);
+
+         	}
+
+     	 	});
+
+      });
+
+   
 site_search_init();
 directory_search_init();
 default_text('EMAIL_ADDRESS');
@@ -180,7 +207,12 @@ default_text('EMAIL_ADDRESS');
    
 <script type="text/javascript">
 //<![CDATA[
-$(window).load(function(){window.setTimeout('social_activity_init()', 1000);});
+$(window).load(function(){
+   $('.rmi-tracking').click(function() {
+      setRmiLinkTracker('rmi_data', $(this));         
+   });
+
+window.setTimeout('social_activity_init()', 1000);});
 //]]>
 </script>
 
@@ -189,10 +221,17 @@ $(window).load(function(){window.setTimeout('social_activity_init()', 1000);});
 
 <body>
 
+   
+<script type="text/javascript">
+//<![CDATA[
+OX_b39bfedd.addVariable("env", "live");
+OX_b39bfedd.addVariable("pathname", "/privacy-policy");
+OX_b39bfedd.fetchAds();
+//]]>
+</script>
+
+
    <!-- Body Javascript includes -->
-
-
-<!-- Site Catalyst -->
 
 <!-- Google Analytics -->
 
@@ -243,7 +282,7 @@ $(window).load(function(){window.setTimeout('social_activity_init()', 1000);});
 <!-- addOptions wrapper (custom) -->
 
 
-   
+
 
 <!-- Brightcove -->
 
@@ -296,6 +335,11 @@ $(window).load(function(){window.setTimeout('social_activity_init()', 1000);});
 
 
 
+  
+
+
+
+
 
 
 <!-- Background container -->
@@ -314,42 +358,10 @@ $(window).load(function(){window.setTimeout('social_activity_init()', 1000);});
 <div id="container">
 
    <!-- Page header  -->
-   <!-- SiteCatalyst code version: H.23.3.
-Copyright 1996-2011 Adobe, Inc. All Rights Reserved
-More info available at http://www.omniture.com -->
-
-<script type="text/javascript">
-   var s_account="cygnusfhc";
-   var s_domain_name="firehouse.com";
-</script>
-
-
-<script language="JavaScript" type="text/javascript" src="/app/merrick/themes/orion/js/s_code_23_3.js"></script>
-
-<script language="JavaScript" type="text/javascript"><!--
-
-s.pageName="privacy-policy";
-s.channel="privacy-policy";
-s.prop1="privacy-policy";
-s.prop2="privacy-policy";
-s.prop3="privacy-policy";
-s.prop9="orion";
-s.eVar9="orion";
-s.events="event1";
-s.hier1="privacy-policy";
-
-/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-var s_code=s.t();if(s_code)document.write(s_code)//--></script>
-<script language="JavaScript" type="text/javascript"><!--
-if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-//--></script><noscript><img src="http://cygnus.122.2o7.net/b/ss/cygnusfhc/1/H.23.3--NS/0"
-height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
-<!-- End SiteCatalyst code version: H.23.3. -->
-
-<header id="header">
+   <header id="header">
    <div class="header_items">
       <a class="site_logo" href="/">
-         <img src="http://r3.cygnuspub.com/files/media/www.firehouse.com/orion/site_logo.png" alt="">
+         <img src="http://r3.cygnuspub.com/files/media/www.firehouse.com/orion/site_logo.png" alt="Firehouse">
       </a>
 <br>
          <div class="primary">
@@ -373,8 +385,8 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 
       <div class="secondary">
          <div class="links">
-    <span class="advertise primary"><a href="/advertise">Advertise</a></span>
-    <span class="contact_us primary"><a href="/contact_us">Contact Us</a></span>
+    <span class="advertise primary"><a href="http://www.firehouse.com/advertise">Advertise</a></span>
+    <span class="contact_us primary"><a href="http://www.firehouse.com/contact_us">Contact Us</a></span>
 </div>
 
          
@@ -389,11 +401,8 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 
    <div class="header_advertisement">
 	<aside class="ad_728x90">
-      
-         <div class="openx_ad ad_tracking" rel="113475" id="openx_adunit_id__113475"><script type="text/javascript">OX_245a23ec.showAdUnit("113475");</script></div>
-      
+   <div class="openx_ad ad_tracking" rel="113475" id="openx_adunit_id__113475"><script type="text/javascript">OX_b39bfedd.showAdUnit("113475");</script></div>
 </aside>
-
    </div>
 
 </header>
@@ -494,43 +503,49 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 								<div class="sidedrawer_nav" style="display: none;">
 									<ul class="list">
 																					<li class="item">
-											<a href="http://www.firehouse.com/911" title="Remembering 9/11" class="first">Remembering 9/11</a>
+											<a href="http://www.firehouse.com/latest-news/in-depth-coverage/worcester-tragedy" title="Worcester Tragedy" class="first">Worcester Tragedy</a>
 										</li>
 																					<li class="item">
-											<a href="http://www.firehouse.com/latest-news/in-depth-coverage/worcester-tragedy" title="Worcester Tragedy" class="">Worcester Tragedy</a>
+											<a href="http://www.firehouse.com/911" title="Remembering 9/11" class="">Remembering 9/11</a>
 										</li>
 																					<li class="item">
 											<a href="http://www.firehouse.com/latest-news/in-depth-coverage/charleston-tragedy" title="Charleston Tragedy" class="">Charleston Tragedy</a>
 										</li>
 																					<li class="item">
-											<a href="http://www.firehouse.com/firehouse-expo-2011" title="Firehouse Expo 2011" class="">Firehouse Expo 2011</a>
-										</li>
-																					<li class="item">
-											<a href="http://www.firehouse.com/2011-safety-week" title="Firefighter Safety Week 2011" class="">Firefighter Safety Week 2011</a>
-										</li>
-																					<li class="item">
-											<a href="http://www.firehouse.com/firehouse-world-2011" title="Firehouse World 2011" class="">Firehouse World 2011</a>
-										</li>
-																					<li class="item">
-											<a href="http://www.firehouse.com/year-in-review/2012" title="Firehouse Year in Review" class="">Firehouse Year in Review</a>
+											<a href="http://www.firehouse.com/firehouse-world-2013" title="Firehouse World 2013 Coverage" class="">Firehouse World 2013 Coverage</a>
 										</li>
 																					<li class="item">
 											<a href="http://www.firehouse.com/firehouse-world-2012" title="Firehouse World 2012" class="">Firehouse World 2012</a>
 										</li>
 																					<li class="item">
-											<a href="http://www.firehouse.com/media_gallery/10701612/2012-product-innovations" title="2012 Product Innovations" class="">2012 Product Innovations</a>
+											<a href="http://www.firehouse.com/firehouse-world-2011" title="Firehouse World 2011" class="">Firehouse World 2011</a>
 										</li>
 																					<li class="item">
 											<a href="http://www.firehouse.com/firehouse-expo-2012" title="Firehouse Expo 2012" class="">Firehouse Expo 2012</a>
 										</li>
 																					<li class="item">
-											<a href="http://www.firehouse.com/latest-news/in-depth-coverage/nfff-memorial-2012" title="Fallen Firefighter's Memorial 2012" class="last">Fallen Firefighter's Memorial 2012</a>
+											<a href="http://www.firehouse.com/firehouse-expo-2011" title="Firehouse Expo 2011" class="">Firehouse Expo 2011</a>
+										</li>
+																					<li class="item">
+											<a href="http://www.firehouse.com/media_gallery/10701612/2012-product-innovations" title="2012 Product Innovations" class="">2012 Product Innovations</a>
+										</li>
+																					<li class="item">
+											<a href="http://www.firehouse.com/latest-news/in-depth-coverage/nfff-memorial-2012" title="Fallen Firefighter's Memorial 2012" class="">Fallen Firefighter's Memorial 2012</a>
+										</li>
+																					<li class="item">
+											<a href="http://www.firehouse.com/year-in-review/2012" title="Firehouse Year in Review 2012" class="">Firehouse Year in Review 2012</a>
+										</li>
+																					<li class="item">
+											<a href="http://www.firehouse.com/2011-safety-week" title="Firefighter Safety Week 2011" class="">Firefighter Safety Week 2011</a>
+										</li>
+																					<li class="item">
+											<a href="http://www.firehouse.com/year-in-review/2011" title="Firehouse Year in Review 2011" class="last">Firehouse Year in Review 2011</a>
 										</li>
 																				</ul>
 								</div>
 						</li>									
 																											<li class="item">
-							<a href="http://www.emsworld.com/" title="EMS News" class="single">EMS News</a>
+							<a href="http://www.emsworld.com/latest-news" title="EMS News" class="single">EMS News</a>
 						</li>
 																											<li class="item">
 							<a href="http://www.firehouse.com/contact_us" title="Submit News Tip" class="single">Submit News Tip</a>
@@ -615,7 +630,10 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 											<a href="http://www.firehouse.com/firehouse-world-2011" title="Firehouse World 2011 Coverage" class="first">Firehouse World 2011 Coverage</a>
 										</li>
 																					<li class="item">
-											<a href="http://www.firehouse.com/firehouse-world-2012" title="Firehouse World 2012 Coverage" class="last">Firehouse World 2012 Coverage</a>
+											<a href="http://www.firehouse.com/firehouse-world-2012" title="Firehouse World 2012 Coverage" class="">Firehouse World 2012 Coverage</a>
+										</li>
+																					<li class="item">
+											<a href="http://www.firehouse.com/firehouse-world-2013" title="Firehouse World 2013 Coverage" class="last">Firehouse World 2013 Coverage</a>
 										</li>
 																				</ul>
 								</div>
@@ -761,6 +779,9 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 							<a href="http://www.firehouse.com/blogs/from-the-editors-desk" title="From the Editor’s Desk" class="first single">From the Editor’s Desk</a>
 						</li>
 																											<li class="item">
+							<a href="http://www.firehouse.com/blogs/the-business-behind-firefighting" title="The Business Behind Firefighting" class="single">The Business Behind Firefighting</a>
+						</li>
+																											<li class="item">
 							<a href="http://www.firehouse.com/blogs/a-burning-passion" title="A Burning Passion" class="single">A Burning Passion</a>
 						</li>
 																											<li class="item">
@@ -788,13 +809,19 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 							<a href="http://www.firehouse.com/blogs/life-as-a-fire-wife" title="Life as a Fire Wife" class="single">Life as a Fire Wife</a>
 						</li>
 																											<li class="item">
-							<a href="http://www.firehouse.com/blogs/firehouse-best-practices-blog" title="Firehouse Best Practices Blog" class="last single">Firehouse Best Practices Blog</a>
+							<a href="http://www.firehouse.com/blogs/firehouse-best-practices-blog" title="Firehouse Best Practices Blog" class="single">Firehouse Best Practices Blog</a>
+						</li>
+																											<li class="item">
+							<a href="http://www.firehouse.com/blogs/ready-set-train" title="Ready, Set, Train" class="last single">Ready, Set, Train</a>
 						</li>
 																			</ul>
 				</div>					
 					</li>
-				<li class=" last" rel="#section_8255">
-						<a href="http://www.firehouse.com/fh-network" title="Submit Your Content" class="primary_a last">Submit Your Content</a>
+				<li class="" rel="#section_8255">
+						<a href="http://www.firehouse.com/fh-network" title="Submit Your Content" class="primary_a ">Submit Your Content</a>
+					</li>
+				<li class=" last" rel="#section_8596">
+						<a href="http://www.firehouse.com/apps" title="App Depot" class="primary_a last">App Depot</a>
 					</li>
 		   </ul>
 <!-- end primary navigation -->
@@ -828,9 +855,9 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 
 
 
-   
+
    <div id="page-border" class="wrap">
-   
+
       <div id="page-wrap">
 
            <!-- Main page content; in short, everything but the header and footer -->
@@ -897,10 +924,8 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
    
    
    <aside class="ad_300x250">
-      
-         <div class="openx_ad ad_tracking" rel="113477" id="openx_adunit_id__113477"><script type="text/javascript">OX_245a23ec.showAdUnit("113477");</script></div>
-   </aside>
-
+   <div class="openx_ad ad_tracking" rel="113477" id="openx_adunit_id__113477"><script type="text/javascript">OX_b39bfedd.showAdUnit("113477");</script></div>
+</aside>
 
    
 
@@ -908,68 +933,30 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 
 
 <section class="form_newsletter block_secondary">
-      
-      <h4 class="primary">Sign up for FREE email alerts!</h4>
-   
-      <div class="signup">
-         <form id="newsletter_signup_form" action="/reg/newsletter/display" method="get" name="newsletter_signup_form">
-            <input type="email" class="newsletter_signup_email" id="newsletter_signup_form_email" name="email" value="" title="Enter your e-mail address">
-            <input type="submit" class="button_primary button" value="Submit">
-         </form>
-      </div>
+         <a href="/reg/newsletter/display" title="Sign Up for FREE Newsletters">
+<div class="enl_signup">
+   <div class="primary tagline">
+      <h4>
+         Sign Up
+      </h4>
+      for FREE newsletters
+   </div>
+   <!--div class="arrows">
+      &raquo;
+   </div-->
+   <div class="clear"></div>
+</div>
+<div class="clear"></div>
+</a>
+
      
 </section>
 
 
    
-   <div class="grid_9_10 alpha">
-   
-	   <aside class="ad_120x90">
-      
-         <div class="openx_ad ad_tracking" rel="113480" id="openx_adunit_id__113480"><script type="text/javascript">OX_245a23ec.showAdUnit("113480");</script></div>
-   </aside>
-
-   
-	   <div class="block sidebar_links">
-
-   <h3 class="block_title">Featured Links</h3>
-
-   <ul class="featured_links list">
-   		<li class="featured item"><aside class="ad_text">
-   
+   <aside class="ad_300x600">
+   <div class="openx_ad ad_tracking" rel="366398" id="openx_adunit_id__366398"><script type="text/javascript">OX_b39bfedd.showAdUnit("366398");</script></div>
 </aside>
-</li>
-      <li class="item"><a class="name" target="_blank" href="http://www.usfa.fema.gov/">U.S. Fire Administration</a></li>
-      <li class="item"><a class="name" target="_blank" href="http://www.nfpa.org">National Fire Protection Association</a></li>
-      <li class="item"><a class="name" target="_blank" href="http://www.isomitigation.com/">ISO</a></li>
-      <li class="item"><a class="name" target="_blank" href="http://www.ifsta.org">IFSTA</a></li>
-      <li class="item"><a class="name" target="_blank" href="http://www.firehero.org/">National Fallen Firefighters Foundation</a></li>
-      <li class="item"><a class="name" target="_blank" href="http://www.cfsi.org/">Congressional Fire Services Institute</a></li>
-      <li class="item"><a class="name" target="_blank" href="http://www.femsa.org/">FEMSA</a></li>
-      <li class="item"><a class="name" target="_blank" href="http://www.fama.org/">FAMA</a></li>
-      <li class="item"><a class="name" target="_blank" href="http://www.cdc.gov/niosh/fire/">NIOSH</a></li>
-      <li class="item"><a class="name" target="_blank" href="http://www.ffcsn.org/index.cfm">FF Cancer Support </a></li>
-   </ul>
-   
-</div>
-   
-	   <aside class="ad_120x90">
-      
-         <div class="openx_ad ad_tracking" rel="113481" id="openx_adunit_id__113481"><script type="text/javascript">OX_245a23ec.showAdUnit("113481");</script></div>
-   </aside>
-
-       
-   </div>
-   
-   <div class="grid_11_12 omega">
-      
-	   <aside class="ad_160x600">
-      
-         <div class="openx_ad ad_tracking" rel="113479" id="openx_adunit_id__113479"><script type="text/javascript">OX_245a23ec.showAdUnit("113479");</script></div>
-   </aside>
-
-   
-   </div>
    
    <div class="clear"></div>
    
@@ -1002,17 +989,14 @@ var params = {
 </div>
 
 
-        
+
            <!-- Page footer -->
            <footer id="footer">
     <div class="ad_container">
         
         <aside class="ad_728x90">
-      
-         <div class="openx_ad ad_tracking" rel="113476" id="openx_adunit_id__113476"><script type="text/javascript">OX_245a23ec.showAdUnit("113476");</script></div>
-      
+   <div class="openx_ad ad_tracking" rel="113476" id="openx_adunit_id__113476"><script type="text/javascript">OX_b39bfedd.showAdUnit("113476");</script></div>
 </aside>
-
 
     </div>
 
@@ -1061,21 +1045,21 @@ var params = {
 	<div class="links">
 	   <ul class="primary">
 	      <li class="secondary"><a href="http://www.firehouse.com/sitemap">Sitemap</a></li>
-	      <li class="secondary"><a href="/advertise">Advertise</a></li>
-	      <li class="secondary"><a href="/contact_us">Contact Us</a></li>
-	      <li class="secondary"><a href="/subscribe" title="Subscribe to Firehouse">Subscribe</a></li>
+	      <li class="secondary"><a href="http://www.firehouse.com/advertise">Advertise</a></li>
+	      <li class="secondary"><a href="http://www.firehouse.com/contact_us">Contact Us</a></li>
+	      <li class="secondary"><a href="http://www.firehouse.com/subscribe" title="Subscribe to Firehouse">Subscribe</a></li>
 	      <li class="secondary"><a class="jqbookmark" title="Privacy Policy - Firehouse" href="http://www.firehouse.com/privacy-policy">Bookmark</a></li>
-	      <li class="secondary"><a href="/privacy-policy">Privacy Policy</a></li>
-	      <li class="secondary"><a href="/terms-conditions">Terms of Use</a></li>
+	      <li class="secondary"><a href="http://www.firehouse.com/privacy-policy">Privacy Policy</a></li>
+	      <li class="secondary"><a href="http://www.firehouse.com/terms-conditions">Terms of Use</a></li>
 	   </ul>
-	   <p class="secondary">Copyright ©  2012  Cygnus Business Media. All rights reserved.</p>
+	   <p class="secondary">Copyright ©  2013  Cygnus Business Media. All rights reserved.</p>
 	</div> 
 </footer>
 
 
-       
+
        </div>
-   
+
    </div>
 
 </div>
@@ -1088,11 +1072,11 @@ var params = {
    <a class="close display_close"></a>
    <div id="modal_container" class="modal_container">
       <!--div class="modal_header">
-         
+
       </div-->
-      
+
       <div id="modal_body" class="modal_body">
-         
+
       </div>
       <div id="modal_loading" class="loading">Loading...<br><img src="http://r3.cygnuspub.com/files/media/www.firehouse.com/orion/ajax-loader-fb.gif" alt="Loading..."></div>
    </div>
@@ -1100,36 +1084,86 @@ var params = {
 </div>
 
 
+<div class="container reg-prompt-container">
+	<div class="reg-prompt message">
+		<div class="reg-prompt-header">
+		   <img src="http://r3.cygnuspub.com/files/media/www.firehouse.com/orion/site_logo.png" alt="" width="125px;">
+			<a class="reg-prompt accept button_secondary button" href="/reg/register/display">Register</a>
+			<a class="reg-prompt login  button_primary button" href="/reg/login/display">Log in</a>
+		</div>
+		<div class="reg-prompt-body">
+
+						<div class="reg-prompt-intro">
+		   	
+		   </div>
+		   
+		   
+		</div>
+		<div class="reg-prompt-footer">
+		   <div class="left">
+		      Click here to <a class="accept" href="/reg/register/display">Register</a> for Firehouse.com
+		   </div>
+		   <div class="right">
+		      <a class="reg-prompt decline" href="">No Thanks</a>
+		   </div>
+		   <div class="clear"></div>
+		</div>
+	</div>
+</div>
 
 
-<!-- OAS code -->
+         <!--[if gte IE 6 ]> <iframe src="/welcomead.html?env=live&pathname=%2Fprivacy-policy" align="middle" scrolling="no" frameborder="0" id="welcome_frame" style="left:25%;right:25%;width:640px;height:0px;margin:0 auto;"></iframe><![endif]-->
+      <!--[if (gt IE 9)|!(IE)]><!-->
+         <aside class="ad_flexible">
+   <div class="openx_ad ad_tracking" rel="113483" id="openx_adunit_id__113483"><script type="text/javascript">OX_b39bfedd.showAdUnit("113483");</script></div>
+</aside>
+      <!--[endif]---->
 
+            <aside class="ad_flexible">
+   <div class="openx_ad ad_tracking" rel="113484" id="openx_adunit_id__113484"><script type="text/javascript">OX_b39bfedd.showAdUnit("113484");</script></div>
+</aside>
+            <aside class="ad_flexible">
+   <div class="openx_ad ad_tracking" rel="113485" id="openx_adunit_id__113485"><script type="text/javascript">OX_b39bfedd.showAdUnit("113485");</script></div>
+</aside>
+      
 
-                  <!--[if gte IE 6 ]> <iframe src="/welcomead.html?env=live&pathname=%2Fprivacy-policy" align="middle" scrolling="no" frameborder="0" id="welcome_frame" style="left:25%;right:25%;width:640px;height:0px;margin:0 auto;"></iframe><![endif]-->
-         <!--[if (gt IE 9)|!(IE)]><!-->
-            <script type="text/javascript">OX_245a23ec.showAdUnit("113483");</script>
-         <!--[endif]---->
-                        <script type="text/javascript">OX_245a23ec.showAdUnit("113484");</script>
-                        <script type="text/javascript">OX_245a23ec.showAdUnit("113485");</script>
-            
+      <aside class="ad_flexible">
+   <!-- Unable to obtain an ad_unit_id -->
+</aside>
+
+	   <script>
+
+      $(function()
+      {
+      	var view = $( window );
+      	var main = $( '#container' );
+      	var viewW = view.width();
+      	var mainW = main.width();
+
+      	var left = ( viewW / 2 ) - ( mainW / 2 );
+
+      	var style =  $( '<style>.ad_flexible + .prWrap ,.ad_flexible .prWrap { left: '+left+'px !important; position : fixed !important; }</style>' );
+
+      	style.appendTo( 'head' );
+
+      } )
+
+      </script>
+
    
 
 
 
-   <script type="text/javascript" src="http://www.firehouse.com/app/merrick/files/www.firehouse.com/js/945b267cd669e474d83d2143cd422ce8.js"></script>
+
+
+
+   <script type="text/javascript" src="http://srv.admailtiser.com/pix/asyncPixelLoader.js?url=http%3A%2F%2Fconvusmp.admailtiser.com%2Fst%3Fcias%3D1%26cipid%3D89000%26ttype%3D0%26pix%3D31118986"></script>
+<script type="text/javascript" src="http://www.firehouse.com/app/merrick/files/www.firehouse.com/js/5810c50d493c5601bb0c89c00e5b993b.js"></script>
 
 
    
 <script type="text/javascript">
 //<![CDATA[
-
-   // Fake it till you make it, IE8-style.
-   if (!window.console) {
-      console = {
-         log: function() { }
-      }
-   }
-
 
    
       var _qevents = _qevents || [];
