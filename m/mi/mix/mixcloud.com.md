@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mixcloud.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231151936id_/http%3A//www.mixcloud.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixcloud.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630201139id_/http%3A//www.mixcloud.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Mixcloud
 
