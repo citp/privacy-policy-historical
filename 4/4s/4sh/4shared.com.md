@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the 4shared.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229205156id_/http%3A//www.4shared.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4shared.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630144034id_/http%3A//www.4shared.com/privacy.jsp) for the most accurate reproduction.*
 
 # 4shared.com - free file sharing and storage - Privacy Policy
 
-This privacy policy (" **Policy** ") explains how personally identifiable information is collected, used and disclosed by New IT, Ltd. (" **we** " or " **us** ") with respect to your access and use of 4shared's online file storage and sharing service located at [www.4shared.com](http://www.4shared.com/), (the " **Service** ") and our mobile applications 4shared Photo, 4shared Music and 4shared ("Apps" or "App"), so you can make an informed decision about using the Service. 
+This privacy policy (" **Policy** ") explains how personally identifiable information is collected, used and disclosed by New IT Solutions Ltd. (" **we** " or " **us** ") with respect to your access and use of 4shared's online file storage and sharing service located at [www.4shared.com](http://www.4shared.com/), (the " **Service** ") and our mobile applications 4shared Photo, 4shared Music and 4shared ("Apps" or "App"), so you can make an informed decision about using the Service. 
 
 We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made by indicating on this Policy the date it was last updated. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to review this Policy from time-to-time to make sure that you understand how any personally identifiable information you provide to us or collected about you will be used. 
 
-New IT, Ltd. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [support@4shared.com](mailto:support@4shared.com) or 4shared.com, 745 Distel Dr., Los Altos, CA 94022. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). The TRUSTe certification does not cover information that may be collected through software downloaded from the site. 
+New IT Solutions Ltd. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [support@4shared.com](mailto:support@4shared.com) or 4shared.com, 745 Distel Dr., Los Altos, CA 94022. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). The TRUSTe certification does not cover information that may be collected through software downloaded from the site. 
 
 **What Is Personal Information?**
 
@@ -50,9 +50,9 @@ We will not knowingly share the personally identifiable information we collect f
   * when you give us your consent to do so, including if we notify you on the Service or Apps that the information you provide will be shared in a particular manner and you provide such information;
   * in an aggregated or anonymized form that does not directly identify you;
   * when we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to comply with the law or legal processes or to respond to lawful requests or legal authorities including, but not limited to, responding to lawful subpoenas, warrants, or court orders;
-  * when we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to protect the rights, property, or safety of New IT, Ltd., our users, our employees, copyright owners, third-parties or the public including, but not limited to, protecting New IT, Ltd. or our users from fraudulent, abusive, inappropriate, or unlawful use of the Service or Apps;
+  * when we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to protect the rights, property, or safety of New IT Solutions Ltd., our users, our employees, copyright owners, third-parties or the public including, but not limited to, protecting New IT Solutions Ltd. or our users from fraudulent, abusive, inappropriate, or unlawful use of the Service or Apps;
   * to enforce or apply this Policy, the Terms, or our other policies or agreements;
-  * and in connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition, or in any other situation where personally identifiable information may be disclosed or transferred as one of the business assets of New IT, Ltd.
+  * and in connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition, or in any other situation where personally identifiable information may be disclosed or transferred as one of the business assets of New IT Solutions Ltd.
 
 
 
@@ -70,7 +70,7 @@ We will retain your information for as long as your account is active or as need
 
 **Tell-A-Friend**
 
-If you choose to use our referral service to tell a friend about our Service, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. New IT, Ltd. stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. 
+If you choose to use our referral service to tell a friend about our Service, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. New IT Solutions Ltd. stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. 
 
 **Open Blogs**
 
