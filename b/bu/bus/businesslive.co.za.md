@@ -1,91 +1,52 @@
-> *The following text is extracted and transformed from the businesslive.co.za privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623172029id_/http%3A//www.businesslive.co.za/%3Ffilter%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businesslive.co.za privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630124343id_/http%3A//www.bdlive.co.za/privacypolicy) for the most accurate reproduction.*
 
-# Privacy - Business LIVE
+# Privacy Policy | BDlive
 
-    
+## BDFM: Publishers: Privacy Policy
 
-1.1  This privacy policy ("this Privacy Policy") must be read together with the Terms and Condition. Unless defined elsewhere, terms in this Privacy Policy shall bear the meaning ascribed to them in the Terms and Conditions.
+We are committed to protecting your privacy. We promise to use your personal information only in ways that are compatible with this privacy policy, which is in effect for the web pages, newsletters, applications and opt-in announcement lists owned and operated by the BDFM network, which includes Business Day, BDlive, Financial Mail and Summit TV.
 
-    
+#### What information do you collect and how are you collecting it?
 
-1.2  The Owner is committed to bringing You information tailored to Your individual needs and recognises the importance of protecting the privacy of personally identifiable information collected about our users.
+Every computer connected to the internet is given a domain name and a set of numbers that serve as its IP address. When you visit a page on any website within our network, our web servers recognise your domain name and IP address. We use this information to examine our traffic in aggregate, but do not collect and evaluate the data for individuals. Our servers do not record your email address. 
 
-    
+#### What are cookies?
 
-1.3  In adopting this Privacy Policy, the Owner wishes to balance its legitimate business interests when collecting and using your personal information and Your reasonable expectation of privacy. In this respect, the Owner will take reasonable steps to prevent unauthorised access to, or disclosure of your personal information. However, the Owner does not guarantee that Your personal information shall at all times be 100% secure.
+From time to time, BDFM or its advertisers may send a "cookie" to your computer. A cookie is a small piece of data sent to your browser from a web server and stored on your computer's hard drive. It cannot read data from your hard disk or read cookie files created by other sites. Cookies do not damage your system. We use them to identify which areas of BDFM’s network of websites you have visited or customised, so the next time you visit, those pages are easily accessible. 
 
-    
+Our advertisers may also use cookies to ascertain how many times you've seen an advertisement. We and our advertisers may use this information to personalise the content, banners and promotions that you see on our sites. You can choose whether to accept cookies by changing the settings of your browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our site and other websites may be diminished and some features may not work as intended. 
 
-1.4  By continuing to use this Web Site, You agree to the terms and conditions of this Privacy Policy. If You do not agree with this Privacy Policy, please do not continue to Use the Web Site.
+#### What other information do you request?
 
-    
+We may request your email or postal address or phone number for the purpose of conducting a survey or to provide additional services (for example, subscriptions to email newsletters and SMS alerts after you have registered as a user of BDlive). Whenever we request your identity, we will indicate the purpose of the enquiry before the information is requested. 
 
-1.5  You agree that the Owner may collect, collate, process and/or store Your personal information (as this phrase is defined in the ECT Act) provided by You during the registration process referred to in clause 8 of the Web Site Terms and Conditions ("Collect") for, amongst other things, the purposes of (i) verifying your identity, (ii) providing You with access to the Web Site Content, (ii) customer relations, and (iii) conducting research.
+We maintain a strict "no-spam" policy – we will not give your email address to a third party without your consent. In addition, we will not send you email that you have not agreed to receive, although we may from time to time send you an email announcing new products and services. 
 
-    
+If you choose to supply your postal address in an online form, you may receive mailings from other reputable, third-party companies. If you choose to purchase something online, we need to know your name, email address, mailing address, credit card number and credit card expiry date. This allows us to process and fulfil your order and to notify you of your order status. This information may also be used by us to notify you of related products and services, but will not be shared with or sold to third parties. 
 
-1.6  The Owner reserves the right to vary the terms of this Privacy policy, which will be made available on the Web Site. It is your responsibility to familiarise Yourself with the most recent version of this Privacy Policy.
+When you enter a contest or other promotion, we may ask for your name, address and email address so we can administer the contest and notify winners. 
 
-    
+Wherever we collects information, we make an effort to include a link to this privacy policy on that page. 
 
-4.1  The primary goal in Collecting Your personal information is to provide You with a better online experience, which may include, interactive communications, online shopping and other services.
+#### Will you disclose the information you collect to third parties?
 
-    
+We will disclose personal information when required by law or in the good-faith belief that such action is necessary to:
 
-4.2  Your personal information may be used to:
+  1. conform to the edicts of the law or comply with a legal process served on BDFM;
+  2. protect and defend the rights or property of the BDFM network of sites;
+  3. identify people who may be violating the law, a legal notice or the rights of third parties; and
+  4. co-operate with the investigation of purported unlawful activities. 
 
-    
 
-4.2.1  deliver to You more relevant and targeted content and advertisements, such as banner advertisements;
 
-    
+We use reasonable precautions to keep the information disclosed to us secure. Furthermore, we are not responsible for any breach of security or the actions of any third parties that receive the information. BDFM also links to a variety of other sites and contains advertisements of third parties. We are not responsible for their privacy policies or how they treat information about their users. 
 
-4.2.2  conduct research related to demographics, interests and on line habits;
+#### What else should I know about my privacy when online?
 
-    
+We do not share with any of the sites to which we link any of the individual information you provide to us, although we may share aggregate data with such websites, such as data on how many people use our site. Please check with those sites to determine their privacy policies. 
 
-4.2.3  compile profiles for statistical purposes. You agree that the Owner may trade with those profiles and statistical data. While the Owner will attempt to ensure that the profiles or statistical data cannot be linked to You, the Owner does not guarantee that third parties may not be able to link such profiles and statistical data to You. You hereby indemnify the Owner against any loss, liability, expense, claim, penalty or damage suffered by You, whether direct, indirect, special or consequential, arising from or in relation to any third party being able to link such profiles and statistical data to You;
+Keep in mind that whenever you voluntarily disclose personal information online, that information can be collected and used by others. In short, if you post personal information that is accessible to the public, you may receive unsolicited messages from other parties in return. Ultimately, you are the one responsible for maintaining the secrecy of your personal information. Please be careful and responsible whenever you're online. 
 
-    
+#### Your consent to this agreement
 
-5.1  While the Owner will attempt not to disclose any of Your personal information to third parties, except when we have your permission or in the legitimate business interests of the Owner, the Owner does not guarantee that Your personal information will not be shared with third parties without Your permission.
-
-    
-
-5.2  Your personal information may also be shared under the following circumstances:
-
-    
-
-5.2.1  where the law requires that the Owner disclose Your personal information;
-
-    
-
-5.2.2  to monitor web traffic: web servers serving the Web Site automatically collect information about pages You visit. This information is used for internal review, to tailor information to individual visitors and for traffic audits. This information (as well as information from third-party market researchers), on an aggregated, anonymous basis, is provided to advertisers advertising on the Web Site. Should You provide personal information online as part of an online advertising promotion or in order to access a third party service, such information may be provided directly to the advertiser or the third party concerned;
-
-    
-
-5.2.3  Promotions: many promotions offer opportunities to request additional information from sponsors or third parties. When You request more information about a particular promotion, Your e-mail address may be shared with the sponsor of that promotion;
-
-    
-
-5.2.4  Online shopping: if You make a purchase from an online store or merchant, the information obtained during Your visit to those stores (including tracking information, cookies, credit card number and contact information) is provided to the merchants. This is to enable transactions to take place;
-
-    
-
-5.2.5  Marketing purposes: if You expressly consent to us using your personal information for marketing purposes, You agree that the Owner may, from time to time, share Your personal information with any of its affiliates, subsidiaries, holding companies, partners, or third-party providers for the purposes of sending You marketing-related announcements related to the products, goods and/or services made available by the Owner on the Web Site. You may at any time opt out of receiving such marketing-relating announcements;
-
-    
-
-5.2.6  Third parties: online merchants providing services in association with the Owner have separate privacy and data collection practices. You agree that the Owner has no responsibility or liability for third party policies. For more information regarding the merchant, their store, and their privacy policies, return to that store’s home page and click on the appropriate link;
-
-    
-
-5.2.7   Editorial purposes: Your personal information may be used by the Owner for editorial purposes. For example, this may include information You provide during an online survey conducted by our editors.
-
-    
-
-5.2.8  Legal: the Owner may also disclose Your personal information in special cases, where the Owner has reason to believe that such disclosure is necessary to identify, contact or bring legal action against a party who may be breaching the Terms and Conditions or may be causing injury to or interference with (either intentionally or unintentionally) the Owner's rights or property, other users, or anyone else that could be harmed by such activities; and
-
-    
-
-5.2.9  For statistics and advertisement purposes: the Owner may perform statistical analyses in order to measure interest in the various areas of the Web Site (for product development purposes) and to inform advertisers as to how many consumers have seen or "clicked" on their advertising banners. The Owner also uses demographic information to allow advertising banners on the Web Site to be targeted, in aggregate.
+By using our websites, you consent to the collection and use of information by BDFM as specified above. If we decide to change our privacy policy, we will post those changes so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it.
