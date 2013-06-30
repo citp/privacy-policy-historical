@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the arvixe.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120093856id_/http%3A//www.arvixe.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arvixe.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630143510id_/http%3A//www.arvixe.com//pp.php) for the most accurate reproduction.*
 
 # Arvixe Privacy Policy
 
-Arvixe, LLC ("Arvixe") is committed to upholding the integrity, privacy, and security of customer and/or user ("Customer") information. In addition, Arvixe complies with the U.S.-EU Safe Harbor and the U.S.-Switzerland Safe Harbor Framework as set forth by the United States Department of Commerce, the European Union, and Switzerland (for more information on the Safe Harbor Program please visit [http://export.gov/safeharbor/](http://export.gov/safeharbor)). This Privacy Policy serves to establish our commitment to Customer privacy and security, as well as explain the policies and procedures Arvixe adheres to regarding the collection and use of Customer data. 
+Last Updated:  **April 3rd, 2012**
+
+Arvixe, LLC ("Arvixe") is committed to upholding the integrity, privacy, and security of customer and/or user ("Customer") information. In addition, Arvixe complies with the U.S.-EU Safe Harbor and the U.S.-Switzerland Safe Harbor Framework as set forth by the United States Department of Commerce, the European Union, and Switzerland (for more information on the Safe Harbor Program please visit [http://export.gov/safeharbor/](http://export.gov/safeharbor)). This Privacy Policy serves to establish our commitment to Customer privacy and security, as well as explain the policies and procedures Arvixe adheres to regarding the collection and use of Customer data.
 
 **Privacy:** Arvixe is devoted to creating and nurturing a trusting relationship with its Customers, built on the knowledge that any personal information collected is kept private and secure. In undertaking this commitment, Arvixe will do everything in its capacity to ensure that the integrity of its Customer's privacy is upheld.
 
 **Information Collected:** Arvixe uses various methods of data collection for ordering and support purposes. These methods include voluntary collection methods, such as through online registration forms, online and offline customer communications, and sales transactions, as well as automated collection systems such as communication protocols and cookies.
 
-The personal information collected by Arvixe from Customers varies depending on the method of collection. Personal Identifying Information is collected voluntarily through the use of forms and for the use of the registration and billing of the Customer. This information may include name, title, address, phone number, and e-mail address, as well as information necessary for any financial transactions, such as credit card, CVV, and payment information. Automated means of collection, such as cookies and/or log files, are used to collect information about the use of Arvixe as well as user preferences and privileges. 
+The personal information collected by Arvixe from Customers varies depending on the method of collection. Personal Identifying Information is collected voluntarily through the use of forms and for the use of the registration and billing of the Customer. This information may include name, title, address, phone number, and e-mail address, as well as information necessary for any financial transactions, such as credit card, CVV, and payment information. Automated means of collection, such as cookies and/or log files, are used to collect information about the use of Arvixe as well as user preferences and privileges.
 
 **Automated Information Collection:** Arvixe uses common automated information collection systems such as cookies and log files to facilitate the connection between the Customer's computer and the Arvixe servers. There are two types of cookies (pieces of data stored on the user's computer) used by Arvixe: Session cookies and Persistent cookies. These cookies serve to uniquely identify each user, as well as store session and user-specific settings and preferences in or between user sessions. Cookies do not contain personally identifiable information, and, while Arvixe doesn't offer an option to opt-out of cookies, browsers provide tools to monitor and control the acceptance, duration, and use of cookies.
 
@@ -30,7 +32,7 @@ While Arvixe takes the utmost care in preserving the security of its Customer's 
 
 **Legal Disclaimer:** While Arvixe is dedicated to maintaining the integrity of its Customer's privacy, in the event of suspected or reported fraudulent and/or illegal behavior while using the services of Arvixe resulting in, or probable to result in, a subpoena, court order, or another applicable legal process it may be necessary to disclose personal information. In the case of the aforementioned, Arvixe will notify the Customer of the information request and, if deemed necessary, submission.
 
-It is important to note that the websites linked to by Arvixe are not, nor should they ever be assumed, associated with or regulated under the Privacy Policy held by Arvixe. This Privacy Policy is only to be applied to Customer data collected by Arvixe, and we encourage the further inspection of the Privacy Policies of any website collecting your personal information. 
+It is important to note that the websites linked to by Arvixe are not, nor should they ever be assumed, associated with or regulated under the Privacy Policy held by Arvixe. This Privacy Policy is only to be applied to Customer data collected by Arvixe, and we encourage the further inspection of the Privacy Policies of any website collecting your personal information.
 
 **Customer Responsibility:** It is the responsibility of the Customer to securely store their login information, such as usernames and passwords, or any other information necessary to access their private information maintained within the Arvixe systems.
 
@@ -43,5 +45,3 @@ Arvixe has further committed to refer unresolved privacy complaints under the U.
 **Questions:** Questions regarding the Arvixe Privacy Policy may be directed to **privacy@arvixe.com**.
 
 **Contact Us:** Feel free to contact us by calling our toll free number 1-888-927-8493 or at our physical location at 3801 Calabasas Rd # 2005 Calabasas, CA 91302.
-
-**Updated:** April 3rd, 2012
