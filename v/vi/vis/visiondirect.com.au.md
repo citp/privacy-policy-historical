@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the visiondirect.com.au privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230221322id_/http%3A//www.visiondirect.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visiondirect.com.au privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630110852id_/http%3A//www.visiondirect.com.au/privacy) for the most accurate reproduction.*
 
-# VisionDirect - Privacy Policy
+# Privacy |VisionDirect Australia
 
   * **Vision Direct** is committed to compliance with Privacy regulations. Privacy regulations outline the best practice principles, which set the minimum standards for how private sector businesses should handle your personal information. 
 
