@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yournetbiz.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014195543id_/http%3A//yournetbiz.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D20%26Itemid%3D12) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yournetbiz.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630165206id_/http%3A//www.yournetbiz.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D20%26Itemid%3D12) for the most accurate reproduction.*
 
 # YourNetBiz.com :: A MyInternetBusiness LLC Company - Privacy Policy
 
