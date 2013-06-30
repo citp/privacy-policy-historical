@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fifa.com privacy policy that was archived on 2012-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121001053852id_/http%3A//www.fifa.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fifa.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630215938id_/http%3A//www.fifa.com/legal/privacy.html) for the most accurate reproduction.*
 
-# PRIVACY POLICY - FIFA.com
+# FIFA.com - PRIVACY POLICY
 
 **Fédération Internationale de Football Association (FIFA)  
 FIFA-Strasse 20   
