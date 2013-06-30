@@ -1,38 +1,36 @@
-> *The following text is extracted and transformed from the netins.net privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919232918id_/http%3A//www.netins.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netins.net privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630084803id_/http%3A//netins.net/privacy_policy) for the most accurate reproduction.*
 
-# netINS Privacy Policy
+# Privacy Policy | netINS
 
-**netINS, Inc. Privacy Policy - December 2001**
+IOWA NETWORK SERVICES, INC., Inc. has provided this privacy statement in order to demonstrate our firm commitment to your privacy. The following policy discloses our information gathering and dissemination practices for this website: www.iowanetworkservices.com.
 
-Your privacy is of utmost concern to us as your Internet Service Provider. We strive to make every experience you have on the Internet as enjoyable as possible. We keep the personal information you may have provided us private and unavailable to ANY third party*.
+## Information
 
-This Privacy Policy is a demonstration of our commitment to making the Internet a safe place for you and your family.
+IOWA NETWORK SERVICES, INC., Inc. is the sole owner of the information collected on this website.
 
-**Registration  
-**When registering for service with netINS directly or through one of our Member Independent Telephone Companies (ITCs) we gather certain information of a personal nature. This information could include your Name, Organization, Address, Home Telephone, Work Telephone, Credit Card Information, and Mother’s Maiden Name. We DO NOT share this information with ANY third parties.
+## Viewer Privacy
 
-**Email  
-**Your email address is not a commodity to netINS. At no time and for no reason will netINS ever share your email address with any third party. When necessary netINS will send system maintenance notification to your email address to warn you of planned service disruptions. NetINS will not solicit services to you through your email address at any time. 
+IOWA NETWORK SERVICES, INC., Inc. does not collect personal information such as names, e-mail addresses, postal addresses, or telephone numbers. Since we do not collect any personal information on this Web site, we do not share any personal information with any third parties nor do we use any personal information for any purposes.
 
-**Email Responses  
-**If an inquiry is sent by email to netINS for any reason the return address will be solely used for responding to that message. NetINS will not share the email address with any third party.
+## IP Addresses
 
-**Web Site Requests  
-**Instances may occur when you wish to use a service associated with normal Internet connection service. NetINS may need you to fill out an online request form to activate these services. Information gathered for these services is used strictly to enable your new service. Information submitted to netINS in this scenario will not be shared with any third party. 
+As noted above, we do not collect any personal information on this Web site. We do, however, collect and store information about your Internet connection when you visit our Web site to read or download information, such as reports, news, etc. We use this information to track Web site use, measure site traffic, and improve site navigation and information. We collect information that identifies: · The name of the domain you access the Internet with. · The type of web browsing software you use to view our site. · The date and time of your access. · The platform you are using (i.e. Windows, Macintosh or Unix). This information is never sold, given or disclosed to third parties. This information is used internally to administer our web site, provide better services to the public, and provide aggregate traffic statistics to IOWA NETWORK SERVICES, INC. staff. No personal information is collected
 
-**Use of netINS service on Third Party Web sites  
-**The Internet connectivity netINS provides you can be used to submit personal information to third party Web sites. NetINS has no control over the security of this type of submission.
+## Hyperlinks
 
-**Where to Direct Questions About netINS’ Privacy Policy  
-**NetINS will respond to queries made to the appropriate parties in the quickest fashion possible. Direct queries to:
+Additionally, this site contains links to other sites. IOWA NETWORK SERVICES, INC., Inc. is not responsible for the privacy practices or the content of such Web sites unless operated directly by IOWA NETWORK SERVICES, INC., Inc. We encourage you to note when you leave our website and read the privacy statements of each website that collects personally identifiable information.
 
-netINS Privacy Official  
-netINS, Inc.  
+## Acceptance and Jurisdiction
+
+By using this site, you agree that you have read, understand and will abide, and be bound, by the terms of this Web Site Privacy and Policies ("Terms"). If you do not agree to these Terms, please do not use the IOWA NETWORK SERVICES, INC. web site. These Terms shall be governed in all respects in accordance with the laws of the State of Iowa without regard to the conflict or choice of law rules thereof. Courts sitting in the State of Iowa, federal and state, shall have exclusive jurisdiction over any dispute arising hereunder. IOWA NETWORK SERVICES, INC. reserves the right to change, modify or update this statement at any time without notice.
+
+## Contacting the Website
+
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may contact [webmaster@iowanetworkservices.com](mailto:webmaster@iowanetworkservices.com).
+
+Iowa Network Services, Inc.  
+Information Systems  
 4201 Corporate Drive  
-West Des Moines, IA 50266  
-[privacypolicy@netINS.net ](mailto:privacypolicy@netINS.net%20)
-
-**Revisions  
-**NetINS reserves the right to revise, amend, or modify this policy at any time and in any manner. Notice of any revision, amendment, or modification will be posted.
-
-*netINS will provide requested information when supplied with a valid subpoena from law enforcement agencies.
+West Des Moines, IA 50266-5906  
+PHONE: (515) 830-0110  
+FAX: (515) 830-0123
