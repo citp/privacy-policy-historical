@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the snappytv.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229133805id_/http%3A//www.snappytv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snappytv.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630213420id_/http%3A//www.snappytv.com/privacy) for the most accurate reproduction.*
 
 # SnappyTV - Privacy
+
+### Privacy Policy
 
 Effective Date: February 9, 2011
 
 At Afterlive.tv, DBA SnappyTV, (the "Company"), we respect your right to privacy and we understand that visitors to the Company’s site need to control the uses of their personal information. The privacy policy below details the measures taken by Company to protect your privacy in connection with your use of Snappytv.com and snappy.tv (the "Company Sites") and other related services provided by the Company (collectively, the “Service”).
 
-## A Note About Children
+#### A Note About Children
 
 Children (i.e. those persons under the age of 13) are not eligible to use any of the Company Sites without supervision. We thus ask that children do not submit any information to us. If you are under the age of 13 and want to use any of the Company Sites, you may only do so under the supervision of your legal parents or guardians.
 
