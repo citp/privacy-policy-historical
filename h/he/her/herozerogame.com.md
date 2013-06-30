@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the herozerogame.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224043007id_/http%3A//uk1.herozerogame.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herozerogame.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630114602id_/http%3A//uk1.herozerogame.com/policy) for the most accurate reproduction.*
 
-# Hero Zero - Privacy Policy
+# Hero Zero – The Free Browser Game!
 
 We, Playata GmbH, take the protection of your personal data very seriously and rigorously comply with the rules of data protection laws. Person-related data is only collected on this website to the extent technically necessary for providing the service. Under no circumstances will the collected data be sold or unlawfully provided to third parties for any other reasons. 
 
@@ -45,4 +45,4 @@ You have the right to information regarding your stored personal data, its origi
 
 ## 5.) Further Information
 
-Your trust is important to us. Therefore, we will answer any of your questions regarding the processing of your person-related data. If you have questions that were not addressed in this declaration of data protection, please contact our data protection representative at any time via our contact form [support@herozerogame.com](mailto:support@herozerogame.com). 
+Your trust is important to us. Therefore, we will answer any of your questions regarding the processing of your person-related data. If you have questions that were not addressed in this declaration of data protection, please contact our data protection representative at any time via our contact form [support@herozerogame.com](mailto:support@herozerogame.com?setLanguage=en_GB). 
