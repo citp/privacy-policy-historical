@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freeskier.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231001604id_/http%3A//freeskier.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeskier.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630232415id_/http%3A//freeskier.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Freeskier Magazine
+# Privacy Policy - Freeskier
 
 Your privacy on the Internet is of the utmost importance to us. Because we gather certain types of information about the users of Freeskier.com, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement (this "Statement") discloses the privacy practices for Freeskier.com (the "Website") – what information we gather, how we use it and how to correct or change it. This Statement only addresses our activities from our servers. Other sites may have their own privacy policies and practices, which we do not control. Questions regarding this Statement should be emailed to webmedia@freeskier.com.
 
