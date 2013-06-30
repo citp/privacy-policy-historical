@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wonga.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230183411id_/http%3A//www.wonga.com/money/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wonga.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630163350id_/http%3A//www.wonga.com/money/privacy) for the most accurate reproduction.*
 
 # Our Privacy Policy | Wonga.com® Official Site
 
@@ -110,36 +110,39 @@ When you apply to us for a loan, we will check the following records about you (
 
 Whether or not your application is successful, when CRAs receive a search from us they will place a search footprint on your credit file that may be seen by other lenders. Large numbers of applications within a short time period may affect your ability to obtain credit.
 
-They, and we, may also link your records with those of your financial associate(s) including any previous and subsequent names, these links will remain on your and their files until you or they tell the agency you are no longer financially linked and the agency accepts this.
+They, and we, may also link your records with those of your financial associate(s) including any previous and subsequent names, these links will remain on your and their files until you or they tell the agency you are no longer financially linked and the agency accepts this. This is called a “disassociation”, if you need to request a disassociation, please contact the CRAs directly (contact details are set out below for both Call Credit and Experian). 
 
-They supply to us both public (including the electoral register, county court judgements and bankruptcies) and shared credit and fraud prevention information including information about previous applications and the conduct of your accounts in your and your financial associate(s)’ name(s).
+The CRAs supply us with both public (including the electoral register, county court judgements and bankruptcies) and shared credit and fraud prevention information including information about previous applications and the conduct of your accounts in your and your financial associate(s)’ name(s).
 
-Information on applications will be sent to CRAs and will be recorded by them.
+We may also make periodic searches at CRAs and FPAs to manage our relationship with you.
 
-Information held by CRAs and FPAs will be disclosed to us and to other organisations to, for example:
+Information provided by you on our applications will be sent to CRAs and will be recorded by them. We and other organisations may access and use this information to prevent fraud and money laundering, CRAs and FPAs may use your information for statistical analysis. Information held by CRAs and FPAs will be disclosed to us and to other organisations in order to (for example):
 
-  * prevent fraud and money laundering and to check and assess applications for credit, credit related or other facilities;
-  * recover debts that you owe and trace your whereabouts;
-  * manage credit accounts and other facilities and decide appropriate credit limits;
-  * verify your identity;
-  * make decisions on credit and other facilities for you, your financial associate (s), members of your household or your business.
-  * checking details of job applicants and employees.
+  * prevent fraud and money laundering and to check and assess applications for credit, credit related or other facilities; 
+  * recover debts that you owe and trace your whereabouts; 
+  * manage credit accounts and other facilities and decide appropriate credit limits; 
+  * verify your identity; 
+  * make decisions on credit and other facilities for you, your financial associate (s), members of your household or your business;
+  * check details on proposals and claims for all types of insurance; and
+  * check details of job applicants and employees. 
 
 
 
-CRAs and FPAs will use your information for statistical analysis about credit and other fraud.
+When you borrow from us, we will give details of your loan and how you manage it to the CRAs.  If you borrow and do not repay in full and on time, the CRAs will record the outstanding debt and, in some cases, the length of time that the debt remains outstanding: other organisations may see these updates and this may affect your ability to obtain credit in the future.
 
-When you borrow from us, we will give details of your loan and how you manage it to CRAs. We may make periodic searches at CRAs and FPAs to manage our relationship with you.
+If you fall behind with your payments and a full payment or satisfactory proposals are not received within 28 days of a formal demand being issued, then a default notice may be recorded with the CRAs. Any records shared with CRAs will remain on file for 6 years after your account is closed, whether it has been settled by you or as a result of a default.
 
-If you borrow and do not repay in full and on time, CRAs will record the outstanding debt and, in some cases, the length of time that the debt remains outstanding. This information may be supplied to other organisations by CRAs and FPAs to perform similar checks and to trace your whereabouts and recover debts that you owe. Records remain on file for 6 years after they are closed, whether settled by you or defaulted and may affect your ability to get credit in the future.
+This information may be supplied to other organisations by CRAs and FPAs to perform similar checks and to trace your whereabouts and recover debts that you owe. Records remain on file for 6 years after they are closed, whether settled by you or defaulted.
 
-We will give you prior notice of a default being registered on your credit reference file. However, we may not always give you notice if we plan to take court action.
+If you give us false or inaccurate information and we have reasonable grounds to suspect fraud or we identify fraud we may record this and may also pass this information to FPAs and other organisations involved in crime and fraud prevention, law enforcement agencies may then access this information.
 
-If you give us false or inaccurate information and we have reasonable grounds to suspect fraud or we identify fraud we may record this and may also pass this information to FPAs and other organisations involved in crime and fraud prevention.
-
-We and other organisations may access and use from other countries the information recorded by fraud prevention agencies.
+We and other organisations may access and use, from other countries, the information recorded by fraud prevention agencies.
 
 The Credit Reference Agencies that we use are Callcredit Limited (registration number 03961870) with registered office at One Park Lane, Leeds, West Yorkshire, LS3 1EP; and Experian Limited (registration number 00653331) with registered office at Landmark House, Experian Way, NG2 Business Park, Nottingham, NG80 1ZZ.
+
+The Fraud Prevention Agency that we use is CIFAS, with registered office at 6th Floor Lynton House, 7-12 Tavistock Square, London, WC1H 9LT. You can contact CIFAS at [www.cifas.org.uk/contact_us_form.](http://www.cifas.org.uk/contact_us_form)
+
+If you have any further questions about our use of CRAs or FPAs please email us at [customercare@wonga.com](mailto:customercare@wonga.com).
 
 ### Transfer of Information
 
@@ -181,4 +184,4 @@ Our site offers publicly accessible blogs. You should be aware that any informat
 
 To register with us you must be 18 years of age or older. Minors are strictly forbidden from using the service.
 
-Last updated in September 2012
+Last updated in April 2013
