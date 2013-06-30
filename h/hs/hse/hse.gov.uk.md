@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hse.gov.uk privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110050639id_/http%3A//www.hse.gov.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hse.gov.uk privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630150119id_/http%3A//www.hse.gov.uk/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
@@ -11,7 +11,7 @@ The hse.gov.uk site is managed by the Health and Safety Executive Online Team. T
 
 ## Privacy and the Data Protection Act
 
-HSE’s functions are set out in the Health and Safety at Work Act 1974. In carrying out these functions, we necessarily collect information on businesses and individuals. You might also provide us with information by using this website, for example, by giving us feedback or sending a query or request to us. HSE is registered as a data controller under the Data Protection Act 1998 and a description of how we use personal information is included on [HSE’s entry ](http://www.ico.gov.uk/ESDWebPages/DoSearch.asp?reg=4920647)[1] on the register which is maintained by the [Information Commissioner’s Office ](http://www.ico.gov.uk/)[2].
+HSE’s functions are set out in the Health and Safety at Work Act 1974. In carrying out these functions, we necessarily collect information on businesses and individuals. You might also provide us with information by using this website, for example, by giving us feedback or sending a query or request to us. HSE is registered as a data controller under the Data Protection Act 1998 and a description of how we use personal information is included on [HSE’s entry ](http://www.ico.gov.uk/ESDWebPages/DoSearch.asp?reg=5864902)[1] on the register which is maintained by the [Information Commissioner’s Office ](http://www.ico.gov.uk/)[2].
 
 HSE is under a legal duty to protect any personal information we collect and we will only use that information in accordance with the law, including the Data Protection Act and the Health and Safety at Work Act. We use leading technologies and encryption software to safeguard data and apply strict security standards to prevent any unauthorised access to it. In order to carry out our functions and respond to enquiries effectively, we will sometimes need to share information with other government departments, the emergency services, law enforcement agencies, public authorities (such as local authorities and the Environment Agency) and organisations acting on our behalf. However, we will only do this where it is permitted by law.
 
@@ -19,7 +19,7 @@ HSE is under a legal duty to protect any personal information we collect and we 
 
 From time to time we need to handle personal information about you so that we can provide services for you. Our Information charter shows how we look after that information
 
-  * [Information charter](https://web.archive.org/web/20121110050639id_/http%3A//www.hse.gov.uk/info-charter.htm)[3]
+  * [Information charter](https://web.archive.org/web/20130630150119id_/http%3A//www.hse.gov.uk/info-charter.htm)[3]
 
 
 
@@ -50,7 +50,7 @@ We use our website server log files to identify patterns of website use to enabl
 
 HSE uses small bits of data stored on your computer called 'cookies'. Find out what we use them for, and how you can control their use.
 
-  * [Privacy and how cookies are used by HSE](https://web.archive.org/web/20121110050639id_/http%3A//www.hse.gov.uk/privacy-cookies.htm)[4]
+  * [Privacy and how cookies are used by HSE](https://web.archive.org/web/20130630150119id_/http%3A//www.hse.gov.uk/privacy-cookies.htm)[4]
 
 
 
@@ -67,12 +67,12 @@ If this privacy policy changes in any way, we will place an updated version on t
 Regularly reviewing this page ensures you are always aware of the information we collect, how we use it, and under what circumstances, if any, we will share it with other parties.
 
   1. HSE’s entry  
-http://www.ico.gov.uk/ESDWebPages/DoSearch.asp?reg=4920647
+http://www.ico.gov.uk/ESDWebPages/DoSearch.asp?reg=5864902
   2. Information Commissioner’s Office  
 http://www.ico.gov.uk/
   3. Information charter  
-https://web.archive.org/web/20121110050639id_/http%3A//www.hse.gov.uk/info-charter.htm
+https://web.archive.org/web/20130630150119id_/http%3A//www.hse.gov.uk/info-charter.htm
   4. Privacy and how cookies are used by HSE  
-https://web.archive.org/web/20121110050639id_/http%3A//www.hse.gov.uk/privacy-cookies.htm
+https://web.archive.org/web/20130630150119id_/http%3A//www.hse.gov.uk/privacy-cookies.htm
 
 
