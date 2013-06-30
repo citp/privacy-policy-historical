@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uefa.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630013310id_/http%3A//www.uefa.com/uefa/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uefa.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630032608id_/http%3A//www.uefa.com/uefa/privacypolicy.html) for the most accurate reproduction.*
 
-# UEFA Privacy Policy – UEFA.com
+# UEFA Privacy Policy - UEFA.com
 
 **UEFA Privacy Policy**  
  **UEFA**  
@@ -61,7 +61,7 @@ You may review, correct, update or change your personal information at any time 
  **Privacy compliance**  
 UEFA is subject to Swiss data protection laws when collecting and processing personal identifying information.  
 Questions or suggestions  
-If you have any questions or suggestions regarding this Privacy Policy, please send an email to **info@uefa.com**.  
+If you have any questions or suggestions regarding this Privacy Policy, please ****[click here](http://www.uefa.com/community/feedback/index.html).  
 ©UEFA.com 1998-2012. All rights reserved.
 
-©UEFA.com 1998-2012. All rights reserved.
+©UEFA.com 1998-2013. All rights reserved.
