@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bwinparty.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919203239id_/http%3A//www.bwinparty.com/Company/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bwinparty.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630101534id_/http%3A//bwinparty.com/Company/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # bwinparty.com
 
@@ -21,6 +21,6 @@ We will not sell or rent your personally identifiable information to anyone. We 
 In order to provide the information or services you have requested from us, we may transfer or store your personally identifiable information on computer equipment or in offices that are located outside the European Economic Area, and you are deemed to consent to the same.
 
 **Contacting us**  
-If you have any queries about your personally identifiable information we hold or you wish that information to be updated or deleted, please [send an email ](https://web.archive.org/web/20120919203239id_/http%3A//www.bwinparty.com/Company/~/link.aspx?_id=BBB0667324D444C68A629E5CCC761AF3&_z=z)or write to us at the address below.
+If you have any queries about your personally identifiable information we hold or you wish that information to be updated or deleted, please [send an email ](https://web.archive.org/web/20130630101534id_/http%3A//bwinparty.com/Company/~/link.aspx?_id=BBB0667324D444C68A629E5CCC761AF3&_z=z)or write to us at the address below.
 
 bwin.party digital entertainment plc, is a Gibraltar-registered company with registered address at 711 Europort, Gibraltar.
