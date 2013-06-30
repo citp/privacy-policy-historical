@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the techzene.org privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222101349id_/http%3A//www.techzene.com/2012/04/disclaimer-and-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techzene.org privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630064643id_/http%3A//www.techzene.com/disclaimer-and-privacy/719) for the most accurate reproduction.*
 
 # Disclaimer and Privacy
 
-###  [Disclaimer and Privacy](http://www.techzene.com/2012/04/disclaimer-and-privacy.html)
+[](http://pinterest.com/pin/create/button/?url=http://www.techzene.com/disclaimer-and-privacy/719/&media=&description=Disclaimer+and+Privacy)
 
-Privacy Policy for <http://www.techzene.org/>
+Privacy Policy for <http://www.techzene.com/>
 
-The privacy of our visitors to techzene.org is important to us.
+The privacy of our visitors to techzene.com is important to us.
 
 At Techzene, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit Techzene, and how we safeguard your information. We never sell your personal information to third parties.
 
@@ -18,7 +18,7 @@ As with most other websites, we collect and use the data contained in log files.
 
 We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
 
-We also use third party advertisements on <http://www.techzene.org/> to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+We also use third party advertisements on <http://www.techzene.com/> to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geo-targeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
 **DoubleClick DART cookies**
 
@@ -30,6 +30,10 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 
 **Disclaimer**
 
-The items or Posts available in the site are intended for SAMPLING purposes only. As of yet, they have not been licensed for reproduction in any way, and the user accepts the risk of violating these copyrights when streaming or downloading. The availability of articles and sound recordings on this page are found on the net. The intent of the creators of this page reflects nothing more than a great interest in the promotion of Technology. Thus, they are hereby levied of any liability, legal or otherwise, with respect to the use of these recordings by parties visiting this site.We the blog owners are not responsible for any misuse of the content over here.Any Disclaimer may Contact “ **techzene[at]in.com** ”.The Content will be removed as soon as possible.If You Don’t agree,Please Exit Now.
+The items or Posts available in the site are intended for SAMPLING purposes only. As of yet, they have not been licensed for reproduction in any way, and the user accepts the risk of violating these copyrights when streaming or downloading. The availability of articles and sound recordings on this page are found on the net. The intent of the creators of this page reflects nothing more than a great interest in the promotion of Technology. Thus, they are hereby levied of any liability, legal or otherwise, with respect to the use of these recordings by parties visiting this site.We the blog owners are not responsible for any misuse of the content over here.Any Disclaimer may Contact “ **techzene[at]gmail.com** ”. The Content will be removed as soon as possible.If You Don’t agree,Please Exit Now.
 
-### Related Articles
+#### Get Free Email Alerts
+
+Stay Updated with Useful [How-to Guides](http://www.techzene.com/). Get Free Email Newsletter Updates..
+
+And, Next Confirm Your Email Subcription
