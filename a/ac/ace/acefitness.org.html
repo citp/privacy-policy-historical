@@ -1,98 +1,148 @@
-<!--The following is the downloaded HTML source of the acefitness.org privacy policy that was archived on 2012-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121121231605id_/http%3A//www.acefitness.org/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the acefitness.org privacy policy that was archived on 2013-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130630071907id_/http%3A//www.acefitness.org/privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head id="ctl00_Head1"><meta http-equiv="X-UA-Compatible" content="IE=9"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head id="ctl00_Head1"><meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"><title>
 	Privacy Policy - American Council on Exercise
-</title><meta name="Description" content=""> <meta name="Keywords" content=""> <meta name="robots" content="INDEX, FOLLOW "> <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</title><meta name="viewport" content="width=device-width">
+<meta name="Description" content=""> 
+<meta name="Keywords" content=""> 
+<meta name="robots" content="INDEX, FOLLOW "> <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta property="og:url" content="http://www.acefitness.org/privacy.aspx">
 <meta property="og:site_name" content="ACE Fitness">
-<meta property="og:image" content="http://www.acefitness.org/images/facebook-thum/ACE-Logo.jpg">
+<meta property="og:image" content="http://www.acefitness.org/images/facebook-thum/ACE-Logo-NB.jpg">
             <!-- stylesheets -->
-            <link href="/includes/css/base.css?ace=070212" rel="stylesheet" media="all" type="text/css"><link href="/includes/css/print.css" rel="stylesheet" media="print" type="text/css"><link href="includes/css/plugins.css" rel="stylesheet" media="screen" type="text/css">
+            <link href="includes/css/ACEFonts.css" rel="stylesheet" media="all" type="text/css"><link href="includes/css/base.css" rel="stylesheet" media="all" type="text/css"><link href="includes/css/print.css" rel="stylesheet" media="print" type="text/css"><link href="includes/css/plugins.css" rel="stylesheet" media="screen" type="text/css"><link rel="stylesheet" type="text/css" href="includes/css/colorbox-alt.css">
+
             <!-- browser icons -->
-            <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"><link rel="address bar icon" href="favicon.ico" type="image/x-icon"><link rel="icon" href="favicon.ico" type="image/x-icon"><link rel="apple-touch-icon" href="apple-touch-icon.png"><link rel="apple-touch-icon" sizes="72x72" href="apple-touch-icon-72x72.png"><link rel="apple-touch-icon" sizes="114x114" href="apple-touch-icon-114x114.png">
-            <!-- scripts -->
-            <link rel="stylesheet" type="text/css" href="includes/css/colorbox-alt.css">
-            <script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0012/6249.js?438990" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" src="/includes/scripts/jquery-1.7.1.min.js"></script>
-            <script type="text/javascript" src="/includes/scripts/jquery-ui-1.8.18.custom.min.js"></script>
+            <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"><link rel="address bar icon" href="favicon.ico" type="image/x-icon"><link rel="icon" href="favicon.ico" type="image/x-icon"><link rel="apple-touch-icon-precomposed" href="apple-touch-icon.png"><link rel="apple-touch-icon-precomposed" sizes="72x72" href="apple-touch-icon-72x72.png"><link rel="apple-touch-icon-precomposed" sizes="114x114" href="apple-touch-icon-114x114.png">
+            
+            <!-- Jquery CDN scripts -->
+            <script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0012/6249.js?439482" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script src="//shopsocially.com/js/all.js" type="text/javascript" async=""></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+            <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js"></script>
+            
+            <!-- Non CDN scripts -->
+            <script type="text/javascript" src="/includes/scripts/AllPlugins.js"></script>
             <script type="text/javascript" src="/includes/scripts/ace2011.js"></script>
-            <script type="text/javascript" src="/includes/scripts/jquery.colorbox-min.js"></script>
             <script type="text/javascript" src="/fitnav/js/vcpLibrary.js"> </script>
+            
+            <script type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
+            <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+            <script type="text/javascript" src="//connect.facebook.net/en_US/all.js" async=""></script>
+
             <script type="text/javascript">
+                $(document).ready(function () {
+                    $(".Form13Wrap").delegate("*", "focus blur", function (event) { var elem = $(this); setTimeout(function () { elem.toggleClass("focused", elem.is(":focus")); }, 0); });
 
-				$(document).ready(function () 
-				{
-					if($('#hfIsFormDirty').val() != 1) {
-						var loadTime = new Date().getTime() - new Date(1353539765069.53).getTime();
-						var color = "#FF9999";
+                    window.setTimeout(function () {
+                        $('.skype_pnh_print_container').removeClass('skype_pnh_print_container');
+                        $('.skype_pnh_container').remove();
+                    }, 500);
+                    $("body").on("click", ".ColorBoxMaster", function (e) {
+                    	e.preventDefault();
+                    	$.colorbox({ href: $(this).attr('href'), title: $(this).attr('title'), transition: 'fade', speed: 500, width: 760, height: 625, scrolling: true, iframe: true, overlayClose: true, onOpen: function () { $("body").css("overflow", "hidden"); $("body").css("margin-right", "19px"); }, onClosed: function () { $("body").css("overflow", "auto"); $("body").css("margin-right", "0px"); } });
+                    });
+                    
+                    if ($('.AddToCartMaster').length > 0)
+                        $('.AddToCartMaster').colorbox({ transition: 'fade', speed: 500, overlayClose: true, width: 760, height: 450, scrolling: true, iframe: true, onOpen: function () { $("body").css("overflow", "hidden"); $("body").css("margin-right", "19px"); }, onClosed: function () { $("body").css("overflow", "auto"); $("body").css("margin-right", "0px"); } });
+                });
+            </script>
 
-						if (loadTime < 3000) color = "#00FF00";
-						else if (loadTime >= 3000 && loadTime < 6000) color = "#FFFF00";
-						else if (loadTime >= 6000) color = "#AA1438";
+            <!-- ShopSocially - Owner Marketing-->
+            <script type="text/javascript">
+                SSConfig = {
+                    partner_id: 'd6edd38a0e5435d66b6ca3660c8b50e6' /*REQUIRED: Also known as Account ID */
+                };
+                _ssq = (typeof _ssq === 'undefined') ? [] : _ssq;
+                _ssq.push(['init', SSConfig]);
+                (function () {
+                    var ss = document.createElement('script'); ss.src = '//shopsocially.com/js/all.js';
+                    ss.type = 'text/javascript'; ss.async = 'true';
+                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ss, s);
+                })();
+            </script>
+            
 
-						$('#lblPageLoadTime').text("LT: " + loadTime + " ms");
+            <!-- dynamically add in style sheets by section -->
+            <link id="ctl00_Link32" rel="stylesheet" href="includes/css/aboutace.css" type="text/css" media="screen">
+            
+            <!-- Bing Site Verify Do Not Remove -->
+            <meta name="msvalidate.01" content="627BC7E936C32C0B3A53364DBC7BB78D">
+            <!-- Yahoo Site Verify Do Not Remove -->
+            <meta name="y_key" content="6d2d7777739f1f90">
+            <!-- Google Site Verify Do Not Remove -->
+            <meta name="verify-v1" content="/FLQy75DmZOuhtBXj0FFmIRziBEPMvIJKId5c2mEMmg="><meta name="google-site-verification" content="yuDbP6i2re7GV-2nr3ICtp_Qu_V4X8awmeLHPLsLDO4"> 
+            <!-- Facebook Insights -->
+            <meta property="fb:page_id" content="23814892169">
+<link rel="image_src" href="http://www.acefitness.org/images/facebook-thum/ACE-Logo-NB.jpg">
+            
+            <!--[if IE]><link rel="stylesheet" href="includes/css/ie.css" type="text/css" media="screen" /><![endif]-->
+            <!--[if lt IE 9]>
+                    <script> document.createElement("psanswer"); </script>
+                    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.5.3/modernizr.min.js"></script>
+                    <style type="text/css">canvas { display:none !important; }</style>        
+            <![endif]-->
+            <!--[if gte IE 9]><style type="text/css">.gradient {filter: none;}</style><![endif]-->
+            <!--[if IE 7]><link rel="stylesheet" href="/includes/css/ie7.css" type="text/css" media="screen" /><![endif]-->
 
-						if (loadTime < 6000)
-							$('#lblPageLoadTime').css("color", color);
-						else
-							$('#lblPageLoadTime').parent().css("background-color", color);
-						
-						$('#hfIsFormDirty').val(1);
-					}
-					else {
-						$('#lblPageLoadTime').parent().hide();
-					}
-					
-					if($('.ColorBoxMaster').length > 0)
-						$('.ColorBoxMaster').colorbox({ speed: 300, width: 760, height: 625, scrolling: true, iframe: true, onOpen: function () { $("body").css("overflow", "hidden"); }, onClosed: function () { $("body").css("overflow", "auto"); } });    
-				    });
-			</script>
-
-			<!-- dynamically add in style sheets by section -->
-			
-			
-			<!--[if gte IE 9]><style type="text/css">.gradient {filter: none;}</style><![endif]-->
-			
-			<!--[if IE 7]>
-				<link rel="stylesheet" href="includes/css/ie7.css?ace=070212" type="text/css" media="screen" />
-			<![endif]-->
-			<!-- Bing Site Verify Do Not Remove -->
-			<meta name="msvalidate.01" content="627BC7E936C32C0B3A53364DBC7BB78D">
-			<!-- Yahoo Site Verify Do Not Remove -->
-			<meta name="y_key" content="6d2d7777739f1f90">
-			<!-- Google Site Verify Do Not Remove -->
-			<meta name="verify-v1" content="/FLQy75DmZOuhtBXj0FFmIRziBEPMvIJKId5c2mEMmg="><meta name="google-site-verification" content="VS_nU_8tVQLAf3lm91Q9ucrARvA3RQx6c0INgEw3yH4"> 
-			<!-- Facebook Insights -->
-			<meta property="fb:page_id" content="23814892169"><link rel="image_src" href="http://www.acefitness.org/images/facebook-thum/ACE-Logo.jpg"></head>
-		<body class="">
-			<form name="aspnetForm" method="post" action="/privacy.aspx" id="aspnetForm">
-<div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTcwODg1MTE2Ng9kFgJmD2QWAgIBEGRkFgYCAg9kFggCRw8PZBYCHgpvbmtleXByZXNzBS9yZXR1cm4gQ2xpY2tCdXR0b24oZXZlbnQsJ2N0bDAwX2J0bkNvbkVkTG9naW4nKWQCWw8PZBYCHwAFMHJldHVybiBDbGlja0J1dHRvbihldmVudCwnY3RsMDBfYnRuRml0UHJvTG9naW4nKWQCeA8WAh4EVGV4dAVUPGEgaHJlZj0naHR0cDovL3d3dy5hY2VmaXRuZXNzLm9yZy9teWFjZS9sb2dpbi5hc3B4Jz5TaWduIEluIHRvIFlvdXIgQUNFIEFjY291bnQ8L2E+ZAJ5D2QWAgIDDw9kFgIfAAUzcmV0dXJuIENsaWNrQnV0dG9uKGV2ZW50LCdjdGwwMF9idG5NeUFjY291bnRMb2dpbicpZAIGD2QWAgIDDw9kFgIfAAU2cmV0dXJuIENsaWNrQnV0dG9uKGV2ZW50LCdjdGwwMF9Gb290ZXJfbGJFbWFpbFNpZ251cCcpZAIJD2QWBmYPFgIeB1Zpc2libGVoFgZmDxYCHglpbm5lcmh0bWwFHVBsZWFzZSBnaXZlIHVzIHlvdXIgZmVlZGJhY2shZAIBDxYCHwMFCENhdGVnb3J5ZAICDw8WAh4NT25DbGllbnRDbGljawWZAXJldHVybiBTdWJtaXRGZWVkYmFjaygiY3RsMDBfZlVzZXJGZWVkYmFjayIsICJTaG93SGlkZURpdk92ZXJsb2FkKCdGZWVkYmFja1dyYXAnLCAnY2xvc2UnLCAxOSwgMTAyLCAzNzUsIDMwMCwgMzAwMCkiLCAiIiwgIjExLzIxLzIwMTIgMzoxNjowNSBQTSIsICIxNyIpO2RkAgEPFgIeBXN0eWxlBQ5kaXNwbGF5OmJsb2NrOxYCZg8WAh8DBSBQbGVhc2UgbG9naW4gdG8gc3VibWl0IGZlZWRiYWNrIWQCAg9kFgJmD2QWBmYPFgIfAwUdUGxlYXNlIGxvZ2luIHRvIHNlbmQgZmVlZGJhY2tkAgIPD2QWBB4FdmFsdWVkHglvbmtleWRvd24FRHJldHVybiBDbGlja0J1dHRvbk9uRW50ZXIoZXZlbnQsJ2N0bDAwX2ZVc2VyRmVlZGJhY2tfbExvZ2luX2JMb2dpbicpZAIDDw8WAh8EBStyZXR1cm4gTG9naW4oJ2N0bDAwX2ZVc2VyRmVlZGJhY2tfbExvZ2luJyk7ZBYCZg8WAh8DBQRTZW5kZGQ8eSauEi2d/RgJtn58eGQKhetKbA==">
+        </head>
+        <body class=" ACEMaster">
+        
+            <form method="post" action="/privacy.aspx" id="aspnetForm">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjgPZBYCZg9kFgICARBkZBYGZg9kFgICFg8WBB4EVGV4dAXnATx1bCBjbGFzcz0nbG9nZWRpbic+PGxpIGNsYXNzPSdob3QnPllPVSBBUkUgTk9UIExPR0dFRCBJTjwvbGk+PGxpPjxhIGhyZWY9Jy9hY2Vvbmx5L2NvbnRhY3RzL2RlZmF1bHQuYXNweCc+RmluZCBhbiBBQ0UgQ29udGFjdCBvciBQUk88L2E+PC9saT48bGk+PGEgaHJlZj0nL2FjZW9ubHkvYWNjb3VudHMvZGVmYXVsdC5hc3B4Jz5GaW5kIGFuIEFDRSBBY2NvdW50IG9yIENvbXBhbnk8L2E+PC9saT48L3VsPh4HVmlzaWJsZWdkAgIPZBYKAk0PD2QWAh4Kb25rZXlwcmVzcwUvcmV0dXJuIENsaWNrQnV0dG9uKGV2ZW50LCdjdGwwMF9idG5Db25FZExvZ2luJylkAmwPD2QWAh8CBTByZXR1cm4gQ2xpY2tCdXR0b24oZXZlbnQsJ2N0bDAwX2J0bkZpdFByb0xvZ2luJylkAm8PDxYCHwAFjgE8YSBpZD0iQTQ3IiBydW5hdD0ic2VydmVyIiBocmVmPSIvbXlhY2UvZGVmYXVsdC5hc3B4IiBjbGFzcz0iTWFpbkxpbmsiID48c3BhbiBjbGFzcz0iVG9wIj5NeSBBQ0U8L3NwYW4+PHNwYW4gY2xhc3M9IkJvdHRvbSI+QWNjb3VudDwvc3Bhbj48L2E+ZGQCcA8WAh8ABTs8YSBocmVmPScvbXlhY2UvbG9naW4uYXNweCc+U2lnbiBJbiB0byBZb3VyIEFDRSBBY2NvdW50PC9hPmQCcQ9kFgICAw8PZBYCHwIFM3JldHVybiBDbGlja0J1dHRvbihldmVudCwnY3RsMDBfYnRuTXlBY2NvdW50TG9naW4nKWQCBQ9kFgICLA8PZBYCHwIFNnJldHVybiBDbGlja0J1dHRvbihldmVudCwnY3RsMDBfRm9vdGVyX2xiRW1haWxTaWdudXAnKWRkDNg14cs3xPscWSWUEJ1497Rq5tk=">
 </div>
 
-<div>
+<div class="aspNetHidden">
 
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWEQLv3armBALRnuDpAQLB1ZykCgLd/oKSBgKviOTUDAL85OKADQKsraXLCQKSndX8AwLOiYiWDwLf/qKMBgKHmZvnCgKMyKriDQLA1ryOCQLFs/OGBgKwzKiVCgL9wNXLBwKt3aD3BQ0UtfwaQQofiQN2GgfVG5VOIfto">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAzfghFv9pvkG61O3kMpIYzLSp8Aj/YNUQdRGUi84xWKufZefX2zGVAmCcoM+jxYYjn4FHg2bJJo2EoF8RkVNqSr5G0uNvy7Z1aLae5hJuEzV3vL+EGeXS7s5GWJ5laHcLUuNgco1nr01Di9QMEk/m8BszMC2Sxooof05Z2J3SdcMPwlrrk7F6+P04GfWc5WFyBxuXpET9gCM4MNtIASdb2Ipcbtbti/ExPaMVIbZ/7kgS2CtPnUuV2j5Ajy/I/YVg3p4oPw9pxGdrbutzycL+Qc9I+hqg==">
 </div>
-			   
+                <div id="fb-root"></div>
+                <script type="text/javascript">
+                    window.fbAsyncInit = function () {
+                        // init the FB JS SDK
+                        FB.init({
+                            appId: '101092303305908',
+                            channelUrl: '//www.acefitness.org/channel.html', // Channel File for x-domain communication
+                            status: true, // check the login status upon init?
+                            cookie: true, // set sessions cookies to allow your server to access the session?
+                            xfbml: true  // parse XFBML tags on this page?
+                        });
+                    };
+
+                    (function (d, debug) {
+                        var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+                        if (d.getElementById(id)) { return; }
+                        js = d.createElement('script'); js.id = id; js.async = true;
+                        js.src = "//connect.facebook.net/en_US/all" + (debug ? "/debug" : "") + ".js";
+                        ref.parentNode.insertBefore(js, ref);
+                    } (document, /*debug*/false));
+
+                    (function (d, s, id) {
+                        var js, fjs = d.getElementsByTagName(s)[0];
+                        if (d.getElementById(id)) return;
+                        js = d.createElement(s); js.id = id;
+                        js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+                        fjs.parentNode.insertBefore(js, fjs);
+                    } (document, 'script', 'facebook-jssdk'))
+                    ;
+                </script>
+
 <!-- ACE Only Nav Bar -->            
-				
+                
 <!-- END ACE Only Nav Bar -->
                 
 <!-- ACE Top Bar -->                       
-				<div id="ACEHeaderWrap" class="<% if(AcePeepLoggedIn){ %>AceOnly<%} %>">
-                    <div id="ACEHeaderWrapBG2">
-					    <div id="ACEHeaderInterWrap">
-						<div id="TopTools">
-							<ul class="ULTopTools">
-								<li class="SearchWrap">
-									
+				<div id="ACEHeaderWrap">
+                    <div id="TopTools">
+                        <ul class="ULTopTools">
+                            <li class="SearchWrap">
+                                
 
 <script type="text/javascript">
 	function runsearch()
 	{
 		var sSearchText = document.getElementById("tbSearchString").value;
-		window.location = 'http://www.acefitness.org/search/searchresults.aspx?searchString=' + sSearchText + '&site=default_collection';
+		window.location = '/search/searchresults.aspx?searchString=' + sSearchText + '&site=default_collection';
 	}
 </script>	
 <script type="text/javascript">
@@ -115,511 +165,511 @@ else
 //-->
 </script>
 
-<input type="text" name="tbSearchString" id="tbSearchString" size="9" onkeypress="return submitenter(this,event)" onclick="this.value='';" value="Search">
-<a href="javascript:runsearch();"><img src="/images/layout/2011/blank.png" alt="Search ACE" id="btnSearch"></a>
+<input type="text" name="tbSearchString" id="tbSearchString" size="9" onkeypress="return submitenter(this,event)" onclick="this.value='';" value="Search ACE">
+<a href="javascript:runsearch();" id="btnSearch"></a>
 
 
-								</li>
-								<li><a class="Top aLiveHelp" id="_lpChatBtn" href="javascript: var e = window.open('http://sightmax75R2.sightmaxondemand.com/acefitness/SightMaxAgentInterface/PreChatSurvey.aspx?accountID=225&amp;siteID=255&amp;queueID=548','chatWindow','width=490,height=404,resizable=0,scrollbars=no,menubar=no,status=no');" onmouseout="top.status=''; return true;" onmousedown="top.status='Chat with a company representative';return true;" onmouseover="top.status='Chat with a company representative';return true;" onclick="pageTracker._trackPageview('/internal-links/header/LiveChat');" tooltip="Live Help">Live Help</a></li>
-								<li>(888) 82<!--Sype-->5-3636</li>
-							</ul>
-						</div>
-						<ul id="SiteNav">
-							<li id="Nav1">
-								<a href="default.aspx" class="MainLink"><span>American Council on Exercise (ACE)</span></a>
-								<div class="Drop">
-									<div class="DropHead">
-                                        <a href="aboutace/default.aspx" title="About American Council on Exercise (ACE)">About the American Council on Exercise (ACE)</a>
+                            </li>
+                            <li id="Social">
+                                <a href="#" class="SocialIcons">Share</a>
+                                <div id="SocialWrap13">
+                                    <span class="h4">Share this page</span>
+                                    <div class="SocialInterWrap13">
+                                        
+<div id="socialWrap">
+    
+    <div class="fb">
+        <iframe src="//www.facebook.com/plugins/like.php?href=http://www.acefitness.org/privacy.aspx&amp;send=false&amp;layout=button_count&amp;width=90&amp;show_faces=false&amp;font=trebuchet+ms&amp;colorscheme=light&amp;action=like&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:90px; height:21px;" allowtransparency="true"></iframe>
+    </div>
+    <div class="tb">
+        <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.acefitness.org/privacy.aspx" target="_blank">Tweet</a>
+    </div>
+    <div class="pt">
+        <a href="https://pinterest.com/pin/create/button/?url=http://www.acefitness.org/privacy.aspx&amp;media=http://www.acefitness.org/images/facebook-thum/ACE-Logo-NB.jpg" class="pin-it-button" count-layout="horizontal" target="_blank"><img src="https://assets.pinterest.com/images/PinExt.png" alt="Pin It" title="Pin It"></a>
+    </div>
+    <div class="gp">
+        <!-- Place this tag where you want the +1 button to render. -->
+        <g:plusone size="medium"></g:plusone>
+        <!-- Place this tag after the last +1 button tag. -->
+        <script type="text/javascript">
+            (function () {
+                var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                po.src = 'https://apis.google.com/js/plusone.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+            })();
+        </script>
+    </div>
+    <div class="email">
+        <input type="button" value="Email A Friend" class="EmailButton" onclick="parent.location='mailto:Friends email here?subject=Check It Out - Privacy Policy - American Council on Exercise&amp;Body=I found this on http://www.acefitness.org/ and thought you would like it.%0A%0APrivacy Policy - American Council on Exercise%0A%0ACheck it out: http://www.acefitness.org/privacy.aspx'"> 
+    </div>
+</div>
+
                                     </div>
-									<div class="DropBody">
-										<div style="width:195px" class="main">
-											<a href="aboutace/default.aspx" class="h5" title="About American Council on Exercise (ACE)">About ACE</a>
-											<ul>
-												<li><a href="aboutace/executiveteam.aspx" title="Our Team">Our Team</a></li>
-                                                <li><a href="tradeshows/default.aspx" title="Tradeshows">Tradeshows</a></li>
-												<li><a href="aboutace/PublicOutreach.aspx" title="Public Outreach">Public Outreach</a></li>
-												<li><a href="aboutace/CollaborativeRelationships.aspx" title="Collaborative Relationships">Collaborative Relationships</a></li>
-												<li><a href="aboutace/accreditation.aspx" title="NCCA Accreditation">NCCA Accreditation</a></li>
-												<li><a href="aboutace/financialreport.aspx" title="Financial Reports">Financial Reports</a></li>
-												<li><a href="pressroom/2298/american-council-on/" title="2012 Vision Report">2012 Vision Report</a></li>
-												<li><a href="aboutace/careers.aspx" title="Careers">Careers</a></li>
-											</ul>
-										</div>
-										<div style="width:200px" class="main">
-											<a href="pressroom/default.aspx" class="h5" title="Press Room">Press Room</a>
+                                </div>
+                            </li>
+                            <li><a class="Top aLiveHelp" id="_lpChatBtn" href="javascript: var e = window.open('http://sightmax75R2.sightmaxondemand.com/acefitness/SightMaxAgentInterface/PreChatSurvey.aspx?accountID=225&amp;siteID=255&amp;queueID=548','chatWindow','width=490,height=450,resizable=0,scrollbars=no,menubar=no,status=no');" onmouseout="top.status=''; return true;" onmousedown="top.status='Chat with a company representative';return true;" onmouseover="top.status='Chat with a company representative';return true;" onclick="pageTracker._trackPageview('/internal-links/header/LiveChat');" tooltip="Live Chat">Live Chat</a></li>
+							<li class="last">(888) 825-3636</li>
+                        </ul>
+                    </div>
+                    <div id="RedSignInBar">
+                        <ul id="BreadTools">
+                            
+							<li class="TopLi"><a href="acestore/default.aspx" id="ctl00_A45" class="Top">ACE Store</a></li>
+                            
+                        </ul>
+                    </div>
+					<div id="SiteNavOuterWrap">
+                            <ul id="SiteNav">
+                            <li id="Nav1">
+								<a href="default.aspx" id="ctl00_A1" class="MainLink"><span>American Council on Exercise (ACE)</span></a>
+                                <div class="Drop">
+									<div class="DropHead">
+                                        <a href="aboutace/default.aspx" id="ctl00_A2" title="About American Council on Exercise (ACE)">About the American Council on Exercise (ACE)</a>
+                                    </div>
+                                    <div class="DropBody">
+                                        <div class="main Row1">
+											<a href="aboutace/default.aspx" id="ctl00_A3" class="h5" title="About American Council on Exercise (ACE)">About ACE</a>
                                             <ul>
-                                                <li><a href="pressroom/default-press.aspx" title="Press Releases">Press Releases</a></li>
-												<li><a href="pressroom/default-news.aspx" title="In the News">In the News</a></li>
+												<li><a href="aboutace/executiveteam.aspx" id="ctl00_A4" title="Our Team">Our Team</a></li>
+                                                <li><a href="tradeshows/default.aspx" id="ctl00_A5" title="Tradeshows">Tradeshows</a></li>
+												<li><a href="aboutace/accreditation.aspx" id="ctl00_A6" title="NCCA Accreditation">NCCA Accreditation</a></li>
+												<li><a href="aboutace/financialreport.aspx" id="ctl00_A7" title="Financial Reports">Financial Reports</a></li>
+                                                <li><a href="cp/legislativeac.aspx" id="ctl00_A8" title="Legislative Action Center">Legislative Action Center</a></li>
+												<li><a href="pressroom/2298/american-council-on/" id="ctl00_A9" title="2012 Vision Report">2012 Vision Report</a></li>
+												<li><a href="aboutace/careers.aspx" id="ctl00_A10" title="Careers">Careers</a></li>
+                                            </ul>
+                                        </div>
+                                        <div class="main Row2">
+											<a href="pressroom/default.aspx" id="ctl00_A11" class="h5" title="Press Room">Press Room</a>
+                                            <ul>
+                                                <li><a href="pressroom/default-press.aspx" id="ctl00_A12" title="Press Releases">Press Releases</a></li>
+												<li><a href="pressroom/default-news.aspx" id="ctl00_A13" title="In the News">In the News</a></li>
                                             </ul>
                                             <span class="h5">Social Media</span>
 											<ul>
-												<li><a href="pressroom/default-youtube.aspx" title="ACE YouTube">YouTube</a></li>
+												<li><a href="http://www.youtube.com/acefitness" target="_blank" title="ACE YouTube">YouTube</a></li>
 												<li><a href="http://twitter.com/Acefitness" target="_blank" title="Latest ACE Tweets">Twitter</a></li>
 												<li><a href="http://www.facebook.com/acefitness" target="_blank">Facebook</a></li>
-												<li><a href="rss/default.aspx" title="ACE RSS Feeds">RSS Feeds</a></li>
+												<li><a href="rss/default.aspx" id="ctl00_A14" title="ACE RSS Feeds">RSS Feeds</a></li>
 											</ul>
-										</div>
-										<div style="width:245px" class="main">
-											<a href="partnerwithus/default.aspx" class="h5" title="Partner with Us">Partner with Us</a>
-											<ul>
-												<li><a href="clubs/default.aspx" title="ACE Fitness Club Partnership ">Fitness Club Partnership</a></li>
-												<li><a href="university/default.aspx" title="ACE Educational Partnership">Educational Partnership</a></li>
-												<li><a href="conedproviders/default.aspx" title="Continuing Education Providers">Continuing Education Provider</a></li>
-												<li><a href="advertising/default.aspx" title="Advertising">Advertising</a></li>
-											</ul>
-                                            <a href="acestore/default.aspx" class="h5">ACE Online Store</a>
+                                        </div>
+										<div class="main Row3">
+											<a href="partnerwithus/default.aspx" id="ctl00_A15" class="h5" title="Partner with Us">Partner with Us</a>
+                                            <ul>
+												<li><a href="clubs/default.aspx" id="ctl00_A16" title="ACE Fitness Club Partnership ">Fitness Club Partnership</a></li>
+												<li><a href="university/default.aspx" id="ctl00_A17" title="ACE Educational Partnership">Educational Partnership</a></li>
+												<li><a href="conedproviders/default.aspx" id="ctl00_A18" title="Continuing Education Providers">Continuing Education Provider</a></li>
+                                                <li><a href="affiliate-marketing/default.aspx" id="ctl00_A39" title="Affiliate Marketing">Affiliate Marketing</a></li>
+                                                <li><a href="advertising/default.aspx" id="ctl00_A19" title="Advertising">Advertising</a></li>
+                                            </ul>
+                                            <a href="acestore/default.aspx" id="ctl00_A20" class="h5">ACE Online Store</a>
 											<ul>
                                                 <li><a href="acestore/default.aspx">Fitness Certification Products</a></li>
-												<li><a href="acestore/c-45-consumer-products.aspx">Active Lifestyle</a></li>
+												<li><a href="acefit/shop/">Active Lifestyle</a></li>
 											</ul>
-										</div>
-										<div style="width:195px" class="main Last Store">
-											
+                                        </div>
+										<div class="main Row4 Last Store">
 											<a href="aboutace/contact.aspx" class="h5" title="Contact ACE">Contact ACE</a>
-											<span class="copyLinks">
+                                            <span class="copyLinks">
 												<p>
                                                     <strong>Phone:</strong>  (858) 27<!--Sype-->9-8227<br>
                                                     <strong>Toll-Free:</strong>  (888) 82<!--Sype-->5-3636<br>
                                                     <strong>Fax:</strong> (858) 57<!--Sype-->6-6564<br>
-                                                    <strong>Email:</strong> <a href="mailto:support@acefitness.org">support@acefitness.org</a>
+                                                    <strong>Email:</strong> <a href="mailto:support@acefitness.org">support@acefitness.org</a><br>
                                                     <strong>Live Chat:</strong> <a href="javascript: var e = window.open('http://sightmax75R2.sightmaxondemand.com/acefitness/SightMaxAgentInterface/PreChatSurvey.aspx?accountID=225&amp;siteID=255&amp;queueID=548','chatWindow','width=490,height=404,resizable=0,scrollbars=no,menubar=no,status=no');" onmouseout="top.status=''; return true;" onmousedown="top.status='Chat with a company representative';return true;" onmouseover="top.status='Chat with a company representative';return true;" onclick="pageTracker._trackPageview('/internal-links/header/LiveChat');" tooltip="Contact ACE by Live Chat">Chat Now</a>
                                                 </p>
                                                 <p>American Council on Exercise<br>4851 Paramount Drive<br>San Diego, California 92123</p>
-											</span>
-										</div>
-									</div>
-								</div>
-							</li>
-							<li id="Nav2">
-								<a href="getcertified/default.aspx" class="MainLink"><span>Fitness Certifications</span></a>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li id="Nav2">
+								<a href="fitness-certifications/default.aspx" id="ctl00_A24" class="MainLink"><span class="Top">Fitness</span><span class="Bottom">Certifications</span></a>
 								<div class="Drop">
-									<div class="DropHead"><a href="getcertified/default.aspx" title="Personal Trainer Certification, Health &amp; Fitness Instructor Certifications - American Council on Exercise">Fitness Certifications</a></div>
+									<div class="DropHead"><a href="fitness-certifications/default.aspx" title="Personal Trainer Certification, Health &amp; Fitness Instructor Certifications - American Council on Exercise">Fitness Certifications</a></div>
 									<div class="DropBody">
-										<div style="width:235px" class="main">
-											<a href="getcertified/personal-trainer-certification.aspx" class="h5" style="" title="ACE Personal Trainer Certification">Personal Trainer</a>
+										<div class="main Row1">
+											<a href="fitness-certifications/personal-trainer-certification/default.aspx" class="h5" style="" title="Personal Trainer Certification">Personal Trainer Certification</a>
 											<ul>
-												<li><a href="getcertified/personal-trainer-certification.aspx" title="ACE Personal Trainer Certification Exam Study Materials">Study Materials</a></li>
+												<li><a href="fitness-certifications/personal-trainer-certification/bundles.aspx" title="Personal Trainer Certification Study Bundles">Study Bundles</a></li>
+                                                <li><a href="fitness-certifications/personal-trainer-certification/comparison.aspx" title="Compare Certification Organizations">Compare Certification Organizations</a></li>
+                                                <li><a href="fitness-certifications/personal-trainer-certification/ace-academy-elite.aspx" title="ACE Academy Elite">ACE Academy Elite</a></li>
+												<li><a href="certificationexams/default.aspx?ExamType=PT" title="Certification Exam">Certification Exam</a></li>
+											</ul>
+										</div>
+										<div class="main Row2">
+											<a href="fitness-certifications/group-fitness-certification/default.aspx" class="h5" title="Group Fitness Instructor Certification">Group Fitness Instructor</a>
+											<ul>
+												<li><a href="fitness-certifications/group-fitness-certification/study-bundles.aspx" title="Group Fitness Instructor Certification Study Bundles">Study Bundles</a></li>
+												<li><a href="certificationexams/default.aspx?ExamType=GFI" title="Certification Exam">Certification Exam</a></li>
+											</ul>
+                                            <a href="fitness-certifications/health-coach-certification.aspx" class="h5" title="Health Coach Certification">Health Coach Certification</a>
+											<ul>
+												<li><a href="fitness-certifications/health-coach-certification.aspx" title="Health Coach Certification Study Bundles">Study Bundles</a></li>
+												<li><a href="certificationexams/default.aspx?ExamType=HC" title="Certification Exam">Certification Exam</a></li>
+											</ul>
+										</div>
+										<div class="main Row3">
+                                            <a href="fitness-certifications/advanced-health-and-fitness-specialist/default.aspx" class="h5" title="Advanced Health &amp; Fitness Specialist Certification">Advanced Health &amp; Fitness Specialist</a>
+                                            <ul>
+												<li><a href="fitness-certifications/advanced-health-and-fitness-specialist/study-bundles.aspx" title="Advanced Health &amp; Fitness Specialist Certification Study Bundles">Study Bundles</a></li>
+												<li><a href="certificationexams/default.aspx?ExamType=AHFS" title="Certification Exam">Certification Exam</a></li>
+											</ul>
+                                            <a href="fitness-certifications/specialty-certifications/default.aspx" class="h5 BorderMe" title="Specialty Certifications" style="padding:0 0 8px">Specialty Certifications</a>
+										</div>
+										<div class="main Row4 Last login">
+                                            <span class="h5">Other Resources</span>
+											<ul>
                                                 <li><a href="blogs/2/exam-preparation-blog/" title="Exam Preparation Blog">Exam Preparation Blog</a></li>
-												<li><a href="certificationexams/default.aspx" title="Exam Registration">Exam Registration</a></li>
-                                                <li><a href="getcertified/personal-training-certification-comparison.aspx" title="Personal Trainer Certification Comparison">Personal Trainer Certification Comparison</a></li>
-											</ul>
-										</div>
-										<div style="width:190px" class="main">
-											<a href="getcertified/certification_gfi.aspx" class="h5" title="Group Fitness Instructor Certification">Group Fitness Instructor</a>
-											<ul>
-												<li><a href="getcertified/prepare_gfimaterials.aspx" title="Group Fitness Instructor Certification Exam Study Materials">Study Materials</a></li>
-												<li><a href="blogs/2/exam-preparation-blog/" title="Exam Preparation Blog">Exam Preparation Blog</a></li>
-												<li><a href="certificationexams/default.aspx" title="Exam Registration">Exam Registration</a></li>
-											</ul>
-										</div>
-										<div style="width:200px" class="main">
-                                            <a href="getcertified/health-coach-certification.aspx" class="h5" title="ACE Health Coach Certification">ACE Health Coach</a>
-											<ul>
-												<li><a href="getcertified/health-coach-certification.aspx" title="ACE Health Coach Certification Exam Study Materials">Study Materials</a></li>
-                                                <li><a href="blogs/2/exam-preparation-blog/" title="Exam Preparation Blog">Exam Preparation Blog</a></li>
-												<li><a href="certificationexams/default.aspx" title="Exam Registration">Exam Registration</a></li>
-											</ul>
-                                            <a href="getcertified/certification_ahfs.aspx" class="h5" title="Advanced Health &amp; Fitness Specialist Certification">Advanced Health &amp; Fitness Specialist</a>
-										</div>
-										<div style="width:215px" class="main Last login">
-                                            <span class="h5">Specialty Programs</span>
-											<ul>
-												<li><a href="military/default.aspx" title="G.I. Bill &amp; MyCAA Military Programs">G.I. Bill &amp; MyCAA Military Programs</a></li>
-												<li><a href="getcertified/certification_iaff.aspx" title="IAFF + IAFC Peer Fitness Trainer Certification">Peer Fitness Trainer Certification</a></li>
+												<li><a href="fitness-certifications/pdfs/Certification-Exam-Candidate-Handbook.pdf" title="ACE Certification Handbook">ACE Certification Handbook</a></li>
+                                                <li><a href="military/default.aspx" title="Military Support">Military Support</a></li>
 												<li><a href="aarp/aarpgetcertified.aspx" title="AARP members save on study materials &amp; exams">AARP Member Discount</a></li>
+                                                <li><a href="fitness-certifications/iaff-iafc/peer-fitness-trainer.aspx" title="IAFF + IAFC Peer Fitness Trainer Certification">Peer Fitness Trainer Certification</a></li>
 											</ul>
 										</div>
 									</div>
 								</div>
 							</li>
 							<li id="Nav3">
-								<a href="continuingeducation/default.aspx" class="MainLink"><span>Continuing Education</span></a>
+								<a href="continuingeducation/default.aspx" id="ctl00_A21" class="MainLink"><span class="Top">Continuing</span><span class="Bottom">Education</span></a>
 								<div class="Drop">
-									<div class="DropHead"><a href="continuingeducation/default.aspx" title="Health and Fitness Continuing Education">Health and Fitness Continuing Education</a></div>
+									<div class="DropHead"><a href="continuingeducation/default.aspx" id="ctl00_A22" title="Health and Fitness Continuing Education">Health and Fitness Continuing Education</a></div>
 									<div class="DropBody">
-										<div style="width:195px" class="main">
-											<a href="continuingeducation/fitness-continuing-education-bundles.aspx" class="h5">Continuing Education Bundles</a>
+										<div class="main Row1">
+                                            <a href="fitness-certifications/specialty-certifications/default.aspx" id="ctl00_A23" class="h5" title="Specialty Certifications" style="padding:0 0 8px">Specialty Certifications</a>
 											<ul>
-												<li><a href="continuingeducation/fitness-continuing-education-bundles.aspx?bundle=NWM">Nutrition &amp; Weight Management</a></li>
-												<li><a href="continuingeducation/fitness-continuing-education-bundles.aspx?bundle=SPO">Sports Performance Training</a></li>
-												<li><a href="continuingeducation/fitness-continuing-education-bundles.aspx?bundle=FT">Functional Training</a></li>
-												<li><a href="continuingeducation/fitness-continuing-education-bundles.aspx?bundle=GE">Group Exercise</a></li>
-												<li><a href="continuingeducation/fitness-continuing-education-bundles.aspx">More ACE Course Bundles</a></li>
+                                                <li><a href="fitness-certifications/specialty-certifications/youth-fitness.aspx" id="ctl00_YF" title="Youth Fitness Specialty Certification">Youth Fitness Specialist</a></li>
+                                                <li><a href="fitness-certifications/specialty-certifications/fitness-nutrition.aspx" id="ctl00_FN" title="Fitness Nutrition Specialty Certification">Fitness Nutrition Specialist</a></li>
+												<li><a href="fitness-certifications/specialty-certifications/orthopedic-exercise.aspx" id="ctl00_OE" title="Orthopedic Exercise Specialty Certification">Orthopedic Exercise Specialist</a></li>
+                                                <li><a href="fitness-certifications/specialty-certifications/weight-management.aspx" id="ctl00_WM" title="Weight Management Specialty Certification">Weight Management Specialist</a></li>
+    											<li><a href="fitness-certifications/specialty-certifications/default.aspx">Other Specialty Certifications</a></li>
+											</ul>
+                                            <a href="continuingeducation/fitness-continuing-education-bundles.aspx" id="ctl00_A25" class="h5">Value Bundles</a>
+										</div>
+										<div class="main Row2">
+											<a href="continuingeducation/fitness-workshops-conferences.aspx" id="ctl00_A26" class="h5" title="ACE Workshops">ACE Workshops</a>
+											<ul>
+                                                <li><a href="continuingeducation/course/4a52y3xx/metabolic-training-workshop" id="ctl00_A32" title="Metabolic Training Workshop">Metabolic Training</a></li>
+                                                <li><a href="continuingeducation/course/4a5zxvvz/small-group-training-workshop" id="ctl00_A28" title="Small Group Training Workshop">Small Group Training</a></li>
+												<li><a href="continuingeducation/course/4a5x763y/sports-conditioning-workshop" id="ctl00_A29" title="Sports Conditioning Workshop">Sports Conditioning</a></li>
+                                                <li><a href="continuingeducation/course/4a522y2y/0-8-cecs-movement-based-exercise-workshop" id="ctl00_A30" title="Movement-Based Exercise">Movement-Based Exercise</a></li>
+                                                <li><a href="continuingeducation/course/4a528w3x/effective-strategies-for-training-obese-and-overweight-clients" id="ctl00_A31" title="Effective Strategies for Training Obese and Overweight Clients">Strategies for Training Obese Clients</a></li>
+                                                
+                                                <li><a href="continuingeducation/fitness-workshops-conferences.aspx" id="ctl00_A27" title="More Workshops">More Workshops</a></li>
 											</ul>
 										</div>
-										<div style="width:200px" class="main">
-											<a href="continuingeducation/fitness-workshops-conferences.aspx" class="h5" title="ACE Live Workshops">ACE Live Workshops</a>
+										<div class="main Row3">
+											<a href="continuingeducation/default.aspx" id="ctl00_A34" class="h5">More Continuing Education</a>
 											<ul>
-												<li><a href="continuingeducation/course/4a5w3z87/ace-integrated-fitness-training-workshop-effective-tools-and-techniques" title="ACE IFT Workshop">ACE Integrated Fitness Training</a></li>
-												<li><a href="continuingeducation/course/4a5zxvvz/small-group-training-workshop" title="Small Group Training Workshop">Small Group Training</a></li>
-												<li><a href="continuingeducation/course/4a5x763y/sports-conditioning-workshop" title="Sports Conditioning Workshop">Sports Conditioning</a></li>
-                                                <li><a href="continuingeducation/course/4a522y2y/0-8-cecs-movement-based-exercise-workshop" title="Movement-Based Exercise">Movement-Based Exercise</a></li>
-                                                <li><a href="continuingeducation/course/4a5y687y/group-fitness-workshop-unlocking-the-critical-elements-for-success-demos-drills" title="Group Fitness Workshop: Unlocking the critical elements for success demos drills">Group Fitness</a></li>
-                                                <li><a href="continuingeducation/course/4a52y3xx/metabolic-training-workshop" title="Metabolic Training Workshop">Metabolic Training</a></li>
-                                                <li><a href="continuingeducation/course/4a528w3x/effective-strategies-for-training-obese-and-overweight-clients" title="Effective Strategies for Training Obese &amp; Overweight Clients">Effective Strategies for Training Obese &amp; Overweight Clients</a></li>
+												<li><a href="continuingeducation/fitness-online-webinars.aspx" id="ctl00_A36" title="Continuing Education - Free Webinars">Free Webinars</a></li>
+                                                <li><a href="continuingeducation/fitness-distance-education.aspx" id="ctl00_A37" title="Continuing Education - Online Courses">Online Courses</a></li>
+                                                <li><a href="continuingeducation/ace-fitness-magazine-cecs.aspx" id="ctl00_A38" title="Magazine Quizzes">Magazine Quizzes</a></li>
+                                                <li><a href="symposium/default.aspx" id="ctl00_A33" title="ACE Symposium">ACE Symposium</a></li>
+                                                <li><a href="continuingeducation/second_certification.aspx" id="ctl00_A139" title="Earn 2.0 CECs for a Second Certification">Earn a 2nd Certification</a></li>
+                                                <li><a href="continuingeducation/ace-course-ecredits.aspx" id="ctl00_A35" title="ACE eCredits">ACE eCredits</a></li>
+                                                <li><a href="continuingeducation/fitness-ceu-online-advanced-search.aspx" id="ctl00_A141" title="Search Courses">Search Courses</a></li>
 											</ul>
 										</div>
-										<div style="width:245px" class="main">
-											<a href="continuingeducation/default.aspx" class="h5">More Continuing Education</a>
-											<ul>
-												<li><a href="continuingeducation/fitness-workshops-conferences.aspx" title="Continuing Education - Workshops">ACE Workshops</a></li>
-                                                <li><a href="continuingeducation/fitness-online-webinars.aspx" title="Continuing Education - Webinars">ACE Live Webinars</a></li>
-                                                <li><a href="continuingeducation/fitness-distance-education.aspx" title="Continuing Education - Online Courses">ACE Online Courses</a></li>
-												<li><a href="continuingeducation/ace-fitness-magazine-cecs.aspx" title="ACE Magazine Quizzes">ACE Magazine Quizzes</a></li>
-                                                <li><a href="continuingeducation/second_certification.aspx" title="Earn 2.0 CECs for a Second Certification">Earn a 2nd Certification</a></li>
-                                                <li><a href="continuingeducation/ace-course-ecredits.aspx" title="ACE eCredits">Pre-Pay &amp; Save with eCredits</a></li>
-                                                <li><a href="continuingeducation/fitness-ceu-online-advanced-search.aspx">Search All Courses</a></li>
-											</ul>
-										</div>
-										<div style="width:195px" class="main Last login">
+										<div class="main Row4 Last login">
 										
-												<span class="h5">Sign In to Manage Your Personal Account</span>
+												<span class="h5">Sign In to Your Personal Account</span>
 												<span>Email:</span>
 												<input name="ctl00$tbConedUsername" type="text" id="ctl00_tbConedUsername">
 												<span>Password:</span>
 												<input name="ctl00$tbConedPassword" type="password" id="ctl00_tbConedPassword" onkeypress="return ClickButton(event,'ctl00_btnConEdLogin')">
 												<p><input type="submit" name="ctl00$btnConEdLogin" value="Sign In" id="ctl00_btnConEdLogin" class="RedNB12BTN"></p>
 												<p>
-                                                    <a href="myace/createaccount.aspx">Create a new account</a>
-                                                    <a href="conedproviders/default.aspx" title="ConEd Providers Sign in &amp; Learn More">ConEd Providers Sign in</a>
+                                                    <a href="myace/createaccount.aspx" id="ctl00_A43">Create a new account</a>
+                                                    <a href="conedproviders/default.aspx" id="ctl00_A44" title="ConEd Providers Sign in &amp; Learn More">ConEd Providers Sign in</a>
                                                 </p>
 											
 										</div>
 									</div>
 								</div>
 							</li>
-							<li id="Nav4">
-								<a href="fitness-professionals/default.aspx" class="MainLink"><span>Fitness Professional Resources</span></a>
-								<div class="Drop">
+                            <li id="Nav4">
+								<a href="fitness-professionals/default.aspx" class="MainLink"><span class="Top">Professional</span><span class="Bottom">Resources</span></a>
+                                <div class="Drop">
 									<div class="DropHead"><a href="fitness-professionals/default.aspx" title="Fitness Professional Resources">Fitness Professional Resources</a></div>
-									<div class="DropBody">
-										<div style="width:195px" class="main">
+                                    <div class="DropBody">
+                                        <div class="main Row1">
 											<a href="fitness-professionals/default.aspx" class="h5">Leading the Fitness Industry</a>
-											<ul>
+                                            <ul>
 												<li><a href="fitness-professionals/fitness-expert-profiles.aspx">ACE Fitness Expert Profiles</a></li>
-												<li><a href="pt-reinvented/default-fit-pros.aspx">ACE Integrated Fitness<br>Training® Model</a></li>
 												<li><a href="joiningforces/donation-create.aspx">Joining Forces</a></li>
-											</ul>
-										</div>
-										<div style="width:200px" class="main">
+                                            </ul>
+                                        </div>
+                                        <div class="main Row2">
 											<a href="fitness-professionals/default.aspx" class="h5">More Professional Fitness Tools</a>
-											<ul>
+                                            <ul>
 												<li><a href="blogs/24/" title="Fitnovatives">Fitnovatives™ Blog</a></li>
 												<li><a href="blogs/29/fitness-trends">Fitness Trends Blog</a></li>
-												<li><a href="certifiednews/default.aspx">Certified News eMagazine</a></li>
-											</ul>
-										</div>
-										<div style="width:245px" class="main">
+												<li><a href="ProSource/default.aspx">ProSource™</a></li>
+                                            </ul>
+                                        </div>
+                                        <div class="main Row3">
 											<span class="h5">Exclusive to ACE Pros</span>
-											<ul>
+                                            <ul>
 												<li><a href="professionalbenefits/default.aspx">Professional Benefits</a></li>
 												<li><a href="aarp/default.aspx" title="AARP Fitness &amp; Wellness Program">AARP Fitness &amp; Wellness Program</a></li>
 												<li><a href="insurancecenter">Insurance Center</a></li>
 												<li><a href="continuingeducation/second_certification.aspx" title="Earn 2.0 CEC for a Second Certification">Earn a 2nd Certification</a></li>
 												<li><a href="acestore/c-33-ace-pro-apparel-bus-cards.aspx">Business Cards and Apparel</a></li>
-											</ul>
-										</div>
-										<div style="width:195px" class="main Last login">
-										
-												<span class="h5">Sign In to Manage Your Personal Account</span>
-												<span>Email:</span>
-												<input name="ctl00$tbFitProUsername" type="text" id="ctl00_tbFitProUsername">
-												<span>Password:</span> 
-												<input name="ctl00$tbFitProPassword" type="password" id="ctl00_tbFitProPassword" onkeypress="return ClickButton(event,'ctl00_btnFitProLogin')">
+                                            </ul>
+                                        </div>
+                                        <div class="main Row4 Last login">
+                                        
+												<span class="h5">Sign In to Your Personal Account</span>
+                                                <span>Email:</span>
+                                                <input name="ctl00$tbFitProUsername" type="text" id="ctl00_tbFitProUsername">
+                                                <span>Password:</span> 
+                                                <input name="ctl00$tbFitProPassword" type="password" id="ctl00_tbFitProPassword" onkeypress="return ClickButton(event,'ctl00_btnFitProLogin')">
 												<p><input type="submit" name="ctl00$btnFitProLogin" value="Sign In" id="ctl00_btnFitProLogin" class="RedNB12BTN"></p>
 												<p><a href="myace/createaccount.aspx">Create a new account</a></p>
-											
-										</div>
-									</div>
-								</div>
-							</li>
-							<li id="Nav5">
-								<a href="getfit/default.aspx" class="MainLink"><span>ACE GetFit™</span></a>
-								 <div class="Drop">
-									<div class="DropHead">
-                                        <a href="getfit/default.aspx" title="ACE GetFit™ Your trusted source for safe and reliable fitness information.">ACE GetFit™ — Your trusted source for safe and reliable fitness information.</a>
+                                            
+                                        </div>
                                     </div>
-									<div class="DropBody">
-										<div style="width:195px" class="main">
-											<a href="workouts/default.aspx" class="h5">Workout Programs</a>
-											<ul>
-												<li><a href="workouts/5/">Feature Workout: Core </a></li>
-												<li><a href="workouts/default.aspx">View All Workouts »</a></li>
-											</ul>
-											<a href="exerciselibrary/default.aspx" class="h5">Exercise Library</a>
-											<ul>
-												<li><a href="exerciselibrary/exercises.aspx?bodypart=1">Featured Exercises: Abs &amp; Core </a></li>
-												<li><a href="exerciselibrary/default.aspx">View All Exercises »</a></li>
-											</ul>
-										</div>
-										<div style="width:200px" class="main">
-											<a href="reviews/default.aspx" class="h5" title="Fitness Product Reviews">Fitness Product Reviews</a>
-											<ul>
-												<li><a href="reviews/review-detail.aspx?reviewitemid=88" title="Fitness Product Reviews - P90X® Extreme Home Fitness Training System">Featured Review: P90X</a></li>
-												<li><a href="reviews/default.aspx">View All Product Reviews »</a></li>
-											</ul>
-											<a href="getfit/research.aspx" class="h5" title="ACE-Sponsored Research">Research &amp; Studies</a>
-											<ul>
-												<li><a href="certifiednewsarticle/1261/" title="ACE-Sponsored Research - Power Balance or Power of Persuasion?">Power Balance Bracelets</a></li>
-												<li><a href="getfit/research.aspx">View All Research &amp; Studies »</a></li>
-											</ul>
-										</div>    
-										<div style="width:245px" class="main">
-											<span class="h5">Search for Fitness Pros &amp; Clubs</span>
-											<ul>
-												<li><a href="findanacepro/default.aspx">Find an ACE-certified Fitness Pro</a></li>
-												<li><a href="findanaceclub/default.aspx">Find a Health Club or Fitness Center</a></li>
-												<li><a href="aarpfitness/default.aspx">AARP Discounted Fitness Services</a></li>
-                                                <li><a href="joiningforces/default.aspx">Joining Forces</a></li>
-											</ul>
-										</div>
-										<div style="width:195px" class="main Last">
-											<a href="getfit/default.aspx" class="h5">Health &amp; Fitness Information</a>
-											<ul>
-												<li><a href="blogs/3/ask-the-expert">Ask the Expert Blog</a></li>
-												<li><a href="blogs/29/fitness-trends">Fitness Trends Blog</a></li>
-												<li><a href="fitfacts/default.aspx">ACE Fit Facts</a></li>
-												<li><a href="calculators/default.aspx">Fitness Tools &amp; Calculators</a></li>
-												<li><a href="healthyrecipes/default.aspx">Healthy Recipes</a></li>
-												<li><a href="ofk/default.aspx">Youth Fitness</a></li>
-												
-											</ul>
-										</div>
-									</div>
-								</div>
-							</li>
-							<li id="Nav6">
-								<a href="myace/default.aspx" class="MainLink"><span>My Account</span></a>
-								<div class="Drop TwoRows">
-								<!-- There is CSS for Both TwoRows & ThreeRows in the Dropdown just use Class Drop for standerd 4 Rows -->
-									<div class="DropHead"><a href="http://www.acefitness.org/myace/login.aspx">Sign In to Your ACE Account</a></div>
-									<div class="DropBody">
-										<div id="ctl00_NewNotLogedinDrop" class="NotLogedinDrop">
-											<div style="width:195px" class="main login">
-												<span class="h5">Sign In to Manage Your Account</span>
-												<span>Email:</span>
-												<input name="ctl00$tbMyAccountUsername" type="text" id="ctl00_tbMyAccountUsername">
-												<span>Password:</span> 
-												<input name="ctl00$tbMyAccountPassword" type="password" id="ctl00_tbMyAccountPassword" onkeypress="return ClickButton(event,'ctl00_btnMyAccountLogin')">
+                                </div>
+                            </li>
+                            <li id="Nav6">
+                                <span id="ctl00_lblMyAccountLink"><a id="A47" runat="server" href="/myace/default.aspx" class="MainLink"><span class="Top">My ACE</span><span class="Bottom">Account</span></a></span>
+                                <div class="Drop TwoRows">
+                                <!-- There is CSS for Both TwoRows & ThreeRows in the Dropdown just use Class Drop for standerd 4 Rows -->
+                                    <div class="DropHead">
+                                        <a href="/myace/login.aspx">Sign In to Your ACE Account</a>
+                                    </div>
+                                    <div class="DropBody">
+                                        <div id="ctl00_NewNotLogedinDrop" class="NotLogedinDrop">
+                                            <div class="main Row4 login">
+												<span class="h5">Sign In to Your Personal Account</span>
+                                                <span>Email:</span>
+                                                <input name="ctl00$tbMyAccountUsername" type="text" id="ctl00_tbMyAccountUsername">
+                                                <span>Password:</span> 
+                                                <input name="ctl00$tbMyAccountPassword" type="password" id="ctl00_tbMyAccountPassword" onkeypress="return ClickButton(event,'ctl00_btnMyAccountLogin')">
 												<p><input type="submit" name="ctl00$btnMyAccountLogin" value="Sign In" id="ctl00_btnMyAccountLogin" class="RedNB12BTN"></p>
 												<p><a href="myace/createaccount.aspx">Create a new account</a></p>
-											</div>
-											<div style="width:195px" class="main Last">
+                                            </div>
+                                            <div class="main Row2 Last">
 												<span class="h5">Are you a Business Partner?</span>
-												<ul>
+                                                <ul>
 													<li><a href="conedproviders/default.aspx">ConEd Provider Sign In</a></li>
 													<li><a href="clubs/default.aspx">Club Sign In</a></li>
 													<li><a href="university/default.aspx">Educational Partner Sign In</a></li>
 													<li><a href="btob/login.aspx">Business Partner Sign In</a></li>
 													<li><a href="btob/createaceaccount.aspx">Create a New Partner Account</a></li>
-												</ul>
-											</div>
-										</div>
-										<!-- If ACE Pro -->
-										
-										<!-- If ACE Account -->
-										
-									</div>
-								</div>
-							</li>
-						</ul>
-						<div id="ACEBreadCrumbWrap">
-							<ul id="BreadTools">
-								
-								<li class="TopLi border"><a href="acestore/default.aspx" class="Top">ACE Store</a></li>
-								
-							</ul>
-							<div id="breadcrumbs"><a href="http://www.acefitness.org/default.aspx">ACE</a></div>                   
-						</div>
-					</div>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <!-- If ACE Pro -->
+                                        
+                                        <!-- If ACE Account -->
+                                        
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                        
+                    </div>
+                    <div id="ACEBreadCrumbWrap">
+                        <ul id="breadcrumbs"><li class="first"><a href="#" onclick="history.back();">Back</a></li><li class="dummy">|</li><li class="ACE"><a href="/default.aspx">ACE</a></li><li><a href="/aboutace/default.aspx">About ACE</a></li> <li>Privacy Policy</li></ul>
                     </div>
 				</div>
 <!-- END ACE Top Bar -->                 
 <!-- CONTENT PLACEHOLDER -->
-				<div id="ACEBodyWrap" class="">
-					
-					<div id="ACEBodyWrapBG2">
-						<div id="ACEPaperWrap">
-							<div id="ACEBodyInterWrap">
-								
-    <!-- content goes here no server side forms allowed here! -->
-<div id="container">
-<div id="content">
-<h1>ACE Privacy Policy</h1>
-<br><br>
-<strong>Introduction</strong>
-<br><br>
-Thank you for visiting the American Council on Exercise (“ACE”) web site (the “Site”).  ACE is committed to providing our visitors with content and services characterized by outstanding quality and customer service.  Because the Internet is an evolving medium, ACE reserves the right to change this Privacy Policy at any time.  Please check for updates regularly.  Your continued use of the Site or any of the services offered herein following any such change will constitute your acceptance of all changes.  In addition, by visiting the Site or any of our other web sites, you agree that your visit, and any dispute over privacy, is governed by this Privacy Policy and our Terms and Conditions.  Please read both carefully before using the Site.  
-<br><br>
-<strong>Our Commitment To Privacy</strong>
-<br><br>
-<p>Your privacy is important to us.&nbsp; To better protect your privacy we provide  this notice explaining our online information practices and the choices you can  make about the way your information is collected and used.&nbsp; To make this notice easy to find and we make  it available on every page of our Site. <br>
-  <br>
-  <strong>The Information We Collect:</strong>
-  <br>
-  <br>
-We will request only the information we need in order to provide the highest level of service to you.  On some pages of the Site, you can order products, make requests, enter sweepstakes, and register to receive materials.  The types of personal information collected at these pages include: </p>
-<ul>
-Name <br>
-Address <br>
-Phone number<br>
-Company Information<br>
-Email address <br>
-Credit/Debit Card Information</ul> 
+               
+                    
+                <div id="ACEBodyWrap" class="">
+                    <div id="ACEBodyWrapBG2">
+                       
+                        <div id="ACEPaperWrap">
+                            <div id="ACEBodyInterWrap">
+                                
+    <div id="container">
+        <div id="content">
+            <h1>ACE Privacy Policy</h1>
+       		<div id="Communtiy">
+                <div id="CommunityHeader" style="height:20px; overflow:hidden; margin-bottom:20px;">
+                    	
+                </div>
+                <div style="padding: 0 25px 25px ">
+                    <h3>Introduction</h3>
+                    <p>Thank you for visiting the American Council on Exercise (“ACE”) web site (the “Site”).  ACE is committed to providing our visitors with content and services characterized by outstanding quality and customer service.  Because the Internet is an evolving medium, ACE reserves the right to change this Privacy Policy at any time.  Please check for updates regularly.  Your continued use of the Site or any of the services offered herein following any such change will constitute your acceptance of all changes.  In addition, by visiting the Site or any of our other web sites, you agree that your visit, and any dispute over privacy, is governed by this Privacy Policy and our Terms and Conditions.  Please read both carefully before using the Site.  </p>
+                    
+                    <h3>Our Commitment To Privacy</h3>
+                    <p>Your privacy is important to us.&nbsp; To better protect your privacy we provide  this notice explaining our online information practices and the choices you can  make about the way your information is collected and used.&nbsp; To make this notice easy to find and we make  it available on every page of our Site. </p>
+                      
+                    <h3>The Information We Collect:</h3>
+                    <p>We will request only the information we need in order to provide the highest level of service to you.  On some pages of the Site, you can order products, make requests, enter sweepstakes, and register to receive materials.  The types of personal information collected at these pages include: </p>
+                    <ul>
+                        <li>Name </li>
+                        <li>Address </li>
+                        <li>Phone number</li>
+                        <li>Company Information</li>
+                        <li>Email address </li>
+                        <li>Credit/Debit Card Information</li>
+                    </ul> 
 
-Our Site logs IP addresses and browser types for the purposes of system administration and user functionality.  These logs will be analyzed to improve the value of the materials available on our website.  While user sessions are tracked, users remain anonymous.  We do not link IP addresses to any personally identifiable information.  We use non-identifying and aggregate information to better design our website.
-<br><br>
-<strong>How We Use Information:</strong>
-<br><br>
-We use the information you provide about yourself or someone else when placing an order or making a request only to the extent necessary to complete that order or request.    
-<br><br>
-We will not sell your email address or any other personal information.  From time to time, we may send information about our services to the email or mailing address provided by you.  We may lease your mailing address to organizations that share our mission and meet our criteria and standards of excellence.  As an email recipient, your email address is confidential.  When an email message is sent to you, the sender does not see your name or email address.  The sender of a message however is always identified and the sender's return email address is disclosed.  This policy promotes responsible use of email and directs you to the right source if you feel that you are receiving inappropriate messages.
-<br><br>
-ACE will share and disclose any information posted by certified personal trainers to the ACE database with IDEA Health &amp; Fitness Association and/or other third parties.
-<br><br>
-To be removed from receiving any mailings, you may contact our customer service department at <b><a href="mailto:support@acefitness.org">support@ACEfitness.org</a></b> or (800) 825-3636.  Unless we think that such action is necessary to comply with the law or legal process or to protect the interests of ACE or others, we will not release personal information about you without your consent.    
-<br><br>
-<strong>Rules for Submissions and Messages </strong>
-<br><br>
-Responsibility for what is posted in the discussion groups or other public forums lies with each user--you alone are responsible for the content of your messages, and the consequences of any such messages.  We cannot and do not review every submission a user may make.  We neither endorse nor guarantee the accuracy or propriety of any submission.  We do, however, reserve the right but do not assume the obligation to delete submissions and restrict or prohibit your use of our sites for legal or other reasons.
-<br><br>
-<strong>Our Commitment To Data Security </strong>
-<br><br>
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect.  You are responsible for keeping your password secret.  Never give your password to anyone, even someone claiming to be an ACE employee.    
-<br><br>
-<strong>Web Linking</strong>
-<br><br>
-ACE may link to other web sites.  These sites may collect user information or solicit personal information.  Since we do not control these sites we are not responsible or liable for the privacy practices or content of such sites.
-<br><br>
-<strong>Our Commitment To Children's Privacy:</strong>
-<br><br>
-Protecting the privacy of the very young is especially important.  For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our Site is structured to attract anyone under 13. 
-<br><br>
-<strong>How To Access Or Correct Your Information</strong>
-<br><br>
-You may access or correct your personally identifiable information that we maintain by contacting our customer service department at <b><a href="mailto:support@acefitness.org">support@ACEfitness.org</a></b> or by visiting the ACE store and clicking on My Account.  To better protect your privacy and security, your email address must match the email address used to establish your account.  We use this procedure to better safeguard your information.  If you have any questions you may contact our customer service by phone at (800) 825-3636.
-<br><br>
-<strong>How To Contact Us </strong>
-<br><br>
-Should you have any other questions or concerns about this privacy policy please call us at (800) 825-3636 or send us an email at <b><a href="mailto:support@acefitness.org">support@ACEfitness.org</a></b>.<br><br>
-</div>
-</div>
+                    <p>Our Site logs IP addresses and browser types for the purposes of system administration and user functionality.  These logs will be analyzed to improve the value of the materials available on our website.  While user sessions are tracked, users remain anonymous.  We do not link IP addresses to any personally identifiable information.  We use non-identifying and aggregate information to better design our website.</p>  
+                    
+                    <h3>How We Use Information:</h3>
+                    <p>We use the information you provide about yourself or someone else when placing an order or making a request only to the extent necessary to complete that order or request.    </p>  
+                    <p>We will not sell your email address or any other personal information.  From time to time, we may send information about our services to the email or mailing address provided by you.  We may lease your mailing address to organizations that share our mission and meet our criteria and standards of excellence.  As an email recipient, your email address is confidential.  When an email message is sent to you, the sender does not see your name or email address.  The sender of a message however is always identified and the sender's return email address is disclosed.  This policy promotes responsible use of email and directs you to the right source if you feel that you are receiving inappropriate messages.</p>  
+                    <p>ACE will share and disclose any information posted by certified personal trainers to the ACE database with IDEA Health &amp; Fitness Association and/or other third parties.</p>  
+                    <p>To be removed from receiving any mailings, you may contact our customer service department at <b><a href="mailto:support@acefitness.org">support@ACEfitness.org</a></b> or (800) 825-3636.  Unless we think that such action is necessary to comply with the law or legal process or to protect the interests of ACE or others, we will not release personal information about you without your consent.    </p>  
+                    
+                    <h3>Rules for Submissions and Messages </h3>
+                    <p>Responsibility for what is posted in the discussion groups or other public forums lies with each user--you alone are responsible for the content of your messages, and the consequences of any such messages.  We cannot and do not review every submission a user may make.  We neither endorse nor guarantee the accuracy or propriety of any submission.  We do, however, reserve the right but do not assume the obligation to delete submissions and restrict or prohibit your use of our sites for legal or other reasons.</p>  
+                    
+                    <h3>Our Commitment To Data Security </h3>
+                    <p>To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect.  You are responsible for keeping your password secret.  Never give your password to anyone, even someone claiming to be an ACE employee.    </p>  
+                    
+                    <h3>Web Linking</h3>
+                    <p>ACE may link to other web sites.  These sites may collect user information or solicit personal information.  Since we do not control these sites we are not responsible or liable for the privacy practices or content of such sites.</p>  
+                    
+                    <h3>Our Commitment To Children's Privacy:</h3>
+                    <p>Protecting the privacy of the very young is especially important.  For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our Site is structured to attract anyone under 13. </p>  
+                    
+                    <h3>How To Access Or Correct Your Information</h3>
+                    <p>You may access or correct your personally identifiable information that we maintain by contacting our customer service department at <b><a href="mailto:support@acefitness.org">support@ACEfitness.org</a></b> or by visiting the ACE store and clicking on My Account.  To better protect your privacy and security, your email address must match the email address used to establish your account.  We use this procedure to better safeguard your information.  If you have any questions you may contact our customer service by phone at (800) 825-3636.</p>  
+                    
+                    <h3>How To Contact Us </h3>
+                    <p>Should you have any other questions or concerns about this privacy policy please call us at (800) 825-3636 or send us an email at <b><a href="mailto:support@acefitness.org">support@ACEfitness.org</a></b>.</p>  
+            
+                </div>
+                <div class="ClearFloatLeft"></div>
+                    
+                </div>
+                <div id="CommuntiyBottom"></div>
+       		</div>
+		</div>
+    
     <!-- end content -->
 
-								
-								<!-- ACE STore Footer -->
-								
-							</div>
-						</div>
-					</div>
-					<div id="RedBarBG"></div>
-				</div>
+                                
+                                <!-- ACE STore Footer -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                    <div id="RedBarBG"></div>
+                </div>
 <!-- END CONTENT PLACEHOLDER -->
 <!-- ACE Footer --> 
-				<footer>
-					<div id="ACEFooterWrap" class="">
-						<div id="ACEFooterInterWrap">
-							
+                <footer>
+                    <div class="FooterSpacer"></div>
+                    <div id="ACEFooterWrap" class="">
+                        <div id="ACEFooterInterWrap">
+                            
 <!-- BEGIN FOOTER -->
 
         
-            <div id="newslettersignup">
-                <div id="Etips">
-                    <span id="ctl00_Footer_lblHealthETips">Sign-up to receive Health eTips, ACE's free monthly exercise, health and fitness e-newsletter.</span>
-                    
-                </div>
-                <div id="input">
-                    <input name="ctl00$Footer$tbEmail" type="text" value="Enter Email Address" id="ctl00_Footer_tbEmail" onfocus="this.value='';" onkeypress="return ClickButton(event,'ctl00_Footer_lbEmailSignup')">
-                    <input type="submit" name="ctl00$Footer$lbEmailSignup" value="Submit" id="ctl00_Footer_lbEmailSignup" class="GrayNB12BTN"></div>
-                </div>
+            <div id="ACEInfoWrap">
+                <ul id="ACEInfoInterWrap">
+                    <li>Our hours of operation are Monday-Friday from 7 a.m.-5 p.m. (PST)</li>
+                    <li>(888) 825-3636</li>
+                    <li><a class="Top aLiveHelp" id="_lpChatBtn2" href="javascript: var e = window.open('http://sightmax75R2.sightmaxondemand.com/acefitness/SightMaxAgentInterface/PreChatSurvey.aspx?accountID=225&amp;siteID=255&amp;queueID=548','chatWindow','width=490,height=450,resizable=0,scrollbars=no,menubar=no,status=no');" onmouseout="top.status=''; return true;" onmousedown="top.status='Chat with a company representative';return true;" onmouseover="top.status='Chat with a company representative';return true;" onclick="pageTracker._trackPageview('/internal-links/header/LiveChat');">Live Chat</a></li>
+                    <li><a href="mailto:support@acefitness.org">support@acefitness.org</a></li>
+                </ul>
+            </div>
             <div id="links-box">
                 <div class="Footer AboutUL">      
-                    <a class="h5" href="http://www.acefitness.org/aboutace/default.aspx">About ACE</a>
                     <ul>
-                        <li><a href="http://www.acefitness.org/aboutace/default.aspx">About ACE</a></li>
-                        <li><a href="http://www.acefitness.org/aboutace/executiveteam.aspx">Our Team</a></li>
-                        <li><a href="http://www.acefitness.org/aboutace/PublicOutreach.aspx">Public Outreach</a></li>
-                        <li><a href="http://www.acefitness.org/aboutace/CollaborativeRelationships.aspx">Collaborative Relationships</a></li>
-                        <li><a href="http://www.acefitness.org/aboutace/accreditation.aspx">NCCA Accreditation</a></li>
-                        <li><a href="http://www.acefitness.org/aboutace/careers.aspx">Careers</a></li>
-                        <li><a href="http://www.acefitness.org/pressroom/default.aspx">Press Room</a></li>
-                        <li><a href="http://www.acefitness.org/advertising/default.aspx">Advertising</a></li>
-                        <li><a href="http://www.acefitness.org/acestore/default.aspx">ACE Store</a></li>
-                        <li><a href="http://www.acefitness.org/acestore/popup.aspx?title=Return+Policy+Information&amp;topic=returns&amp;KeepThis=false&amp;TB_iframe=true&amp;height=450&amp;width=600&amp;modal=false" class="thickbox">Return Policy</a></li>
-                        <li><a href="http://www.acefitness.org/aboutace/contact.aspx">Contact ACE</a></li>
+                        <li><a href="aboutace/default.aspx" class="h5">About ACE</a></li>
+                        <li><a href="aboutace/executiveteam.aspx">Our Team</a></li>
+                        <li><a href="aboutace/accreditation.aspx">NCCA Accreditation</a></li>
+                        <li><a href="aboutace/careers.aspx">Careers</a></li>
+                        <li><a href="pressroom/default.aspx">Press Room</a></li>
+                        <li><a href="cp/legislativeac.aspx" title="Legislative Action Center">Legislative Action Center</a></li>
+                        <li><a href="advertising/default.aspx">Advertising</a></li>
+                        <li><a href="acestore/default.aspx">ACE Store</a></li>
+                        <li><a href="acestore/popup.aspx?info=Return" class="ColorBoxMaster">Return Policy</a></li>
+                        <li><a href="affiliate-marketing/default.aspx" title="Affiliate Marketing">Affiliate Marketing</a></li>
+                        <li><a href="aboutace/contact.aspx">Contact ACE</a></li>
                     </ul>
                 </div>
                 <div class="Footer CertUL">
-                    <a class="h5" href="http://www.acefitness.org/getcertified/default.aspx">Fitness Certifications</a>
                     <ul>
-                        <li><a href="http://www.acefitness.org/getcertified/personal-trainer-certification.aspx">Personal Trainer</a></li>
-                        <li><a href="http://www.acefitness.org/getcertified/certification_gfi.aspx">Group Fitness Instructor</a></li>
-                        <li><a href="http://www.acefitness.org/getcertified/health-coach-certification.aspx">ACE Health Coach</a></li>
-                        <li><a href="http://www.acefitness.org/getcertified/certification_ahfs.aspx">Advanced Health &amp; Fitness Specialist</a></li>
-                        <li><a href="http://www.acefitness.org/blogs/2/exam-preparation-blog/">Exam Prep Blog</a></li>
-                        <li><a href="http://www.acefitness.org/getcertified/certification_iaff.aspx">IAFF / IAFC Peer Fitness Trainer</a></li>
-                        <li><a href="http://www.acefitness.org/getcertified/certification_military.aspx">Military Programs</a></li>
-                        <li><a href="http://www.acefitness.org/certificationexams/default.aspx">ACE Exam Registration</a></li>
-                        <li><a href="http://www.acefitness.org/clubs/default.aspx">Health &amp; Fitness Clubs</a></li>
-                        <li><a href="http://www.acefitness.org/university/default.aspx">Universities &amp; Colleges</a></li>
-                        <li><a href="http://www.acefitness.org/getcertified/certified-code.aspx">ACE<sup>®</sup> Code of Ethics</a></li>
+                        <li><a href="fitness-certifications/default.aspx" class="h5">Fitness Certifications</a></li>
+                        <li><a href="fitness-certifications/personal-trainer-certification/default.aspx">Personal Trainer Certification</a></li>
+                        <li><a href="fitness-certifications/group-fitness-certification/default.aspx">Group Fitness Instructor</a></li>
+                        <li><a href="fitness-certifications/health-coach-certification.aspx">ACE Health Coach Certification</a></li>
+                        <li><a href="fitness-certifications/advanced-health-and-fitness-specialist/default.aspx">Advanced Health &amp; Fitness Specialist</a></li>
+                        <li><a href="fitness-certifications/specialty-certifications/default.aspx">Specialty Certifications</a></li>
+                        <li><a href="blogs/2/exam-preparation-blog/">Exam Prep Blog</a></li>
+                        <li><a href="fitness-certifications/iaff-iafc/peer-fitness-trainer.aspx">IAFF / IAFC Peer Fitness Trainer</a></li>
+                        <li><a href="military/default.aspx">Military Programs</a></li>
+                        <li><a href="certificationexams/default.aspx">ACE Exam Registration</a></li>
+                        <li><a href="clubs/default.aspx">Health &amp; Fitness Clubs</a></li>
+                        <li><a href="university/default.aspx">Universities &amp; Colleges</a></li>
+                        <li><a href="fitness-certifications/certified-code.aspx">ACE<sup>®</sup> Code of Ethics</a></li>
                     </ul>
                 </div>
                 <div class="Footer EduUL"> 
-                    <a class="h5" href="http://www.acefitness.org/continuingeducation/default.aspx">Continuing Education</a>
+                    
                     <ul>
-                        <li><a href="http://www.acefitness.org/continuingeducation/fitness-continuing-education-bundles.aspx">Course Bundles</a></li>
-                        <li><a href="http://www.acefitness.org/continuingeducation/ace-fitness-magazine-cecs.aspx">ACE Magazine Quizzes</a></li>
-                        <li><a href="http://www.acefitness.org/continuingeducation/fitness-workshops-conferences.aspx">Workshops / Conferences</a></li>
-                        <li><a href="http://www.acefitness.org/continuingeducation/fitness-distance-education.aspx">Self-Paced / Home Study Courses</a></li>
-                        <li><a href="http://www.acefitness.org/continuingeducation/fitness-online-webinars.aspx">ACE Live Webinars</a></li>
-                        <li><a href="http://www.acefitness.org/continuingeducation/second_certification.aspx">2nd ACE Certification</a></li>
-                        <li><a href="http://www.acefitness.org/symposium/default.aspx">ACE Symposium</a></li>
-                        <li><a href="http://www.acefitness.org/cp/cecmanage.aspx">Manage CECs</a></li>
-                        <li><a href="http://www.acefitness.org/conedproviders/default.aspx">Continuing Education Providers</a></li>
+                        <li><a href="continuingeducation/default.aspx" class="h5">Continuing Education</a></li>
+                        <li><a href="fitness-certifications/specialty-certifications.aspx">Specialty Certifications</a></li>
+                        <li><a href="continuingeducation/fitness-continuing-education-bundles.aspx">Course Bundles</a></li>
+                        <li><a href="continuingeducation/ace-fitness-magazine-cecs.aspx">ACE Magazine Quizzes</a></li>
+                        <li><a href="continuingeducation/fitness-workshops-conferences.aspx">Workshops / Conferences</a></li>
+                        <li><a href="continuingeducation/fitness-distance-education.aspx">Self-Paced / Home Study Courses</a></li>
+                        <li><a href="continuingeducation/fitness-online-webinars.aspx">ACE Live Webinars</a></li>
+                        <li><a href="continuingeducation/second_certification.aspx">2nd ACE Certification</a></li>
+                        <li><a href="symposium/default.aspx">ACE Symposium</a></li>
+                        <li><a href="cp/cecmanage.aspx">Manage CECs</a></li>
+                        <li><a href="conedproviders/default.aspx">Continuing Education Providers</a></li>
                     </ul>
                 </div>
                 <div class="Footer FitProUL">
-                    <a class="h5" href="http://www.acefitness.org/fitness-professionals/default.aspx">Fitness Pro Resources</a>
+                    
                     <ul>
-                        <li><a href="http://www.acefitness.org/blogs/24/">Fitnovatives™ Blog</a></li>
-                        <li><a href="http://www.acefitness.org/certifiednews/default.aspx">Certified News eMagazine</a></li>
-                        <li><a href="http://www.acefitness.org/fitness-professionals/fitness-expert-profiles.aspx">ACE Fitness Expert Profiles</a></li>
-                        <li><a href="http://www.acefitness.org/pt-reinvented/default-fit-pros.aspx">ACE Integrated Fitness Training® Model</a></li>
-                        <li><a href="http://www.facebook.com/acefitness" target="_blank">Facebook</a></li>
-                        <li><a href="http://twitter.com/acefitness" target="_blank">Twitter</a></li>
-                        <li><a href="http://www.youtube.com/acefitness" target="_blank">YouTube</a></li>
-                        <li><a href="http://www.acefitness.org/getfit/personalsuccess.aspx">Success Stories</a></li>
+                        <li><a href="fitness-professionals/default.aspx" class="h5">Fitness Pro Resources</a></li>
+                        <li><a href="blogs/24/">Fitnovatives™ Blog</a></li>
+                        <li><a href="ProSource/default.aspx">ProSource™</a></li>
+                        <li><a href="fitness-professionals/fitness-expert-profiles.aspx">ACE Fitness Expert Profiles</a></li>
+                        <li><a href="pt-reinvented/default-fit-pros.aspx">ACE Integrated Fitness Training® Model</a></li>
+                        
+                        <li><a href="fitness-professionals/personalsuccess.aspx">Success Stories</a></li>
                         <li><a href="http://www.gymjob.com" target="_blank">GymJOB.com</a></li>
                     </ul>
                 </div>
-                
-                <div class="Footer GetUL">      
-                    <a class="h5" href="http://www.acefitness.org/getfit/default.aspx">Get Fit</a>
-                    <ul>
-                        <li><a href="http://www.acefitness.org/exerciselibrary/default.aspx">Exercise Library</a></li>
-                        <li><a href="http://www.acefitness.org/workouts/">Workouts</a></li>
-                        <li><a href="http://www.acefitness.org/reviews/default.aspx">Product Reviews</a></li>
-                        <li><a href="http://www.acefitness.org/healthyrecipes/default.aspx">Healthy Recipes</a></li>
-                        <li><a href="http://www.acefitness.org/calculators/default.aspx">Tools &amp; Calculators</a></li>
-                        <li><a href="http://www.acefitness.org/fitfacts/default.aspx">Fit Facts</a></li>
-                        <li><a href="http://www.acefitness.org/getfit/research.aspx">Research &amp; Studies</a></li>
-                        <li><a href="http://www.acefitness.org/blogs/3/ask-the-expert">Ask the Expert Blog</a></li>
-                        <li><a href="http://www.acefitness.org/blogs/29/fitness-trends">Fitness Trends Blog</a></li>
-                        <li><a href="http://www.acefitness.org/findanacepro/default.aspx">Find an ACE Trainer</a></li>
-                        <li><a href="http://www.acefitness.org/ofk/default.aspx">Youth Fitness</a></li>
-                    </ul>
+                <div class="Footer EmailSignUp" style="overflow:hidden">
+                    <div id="ShareThisBar" class="Size2">
+                            <span class="h5">Follow ACE On...</span>
+                            <ul>
+                                <li><a target="_blank" class="facebook" href="http://www.facebook.com/ACEfitness"><span>Become a friend of ACE on Facebook</span></a></li>
+                                <li><a target="_blank" class="twitter" href="http://twitter.com/acefitness"><span>Follow ACE on Twitter</span></a></li>
+                                <li><a target="_blank" class="youtube" href="http://www.youtube.com/acefitness"><span>Watch ACE Videos on YouTube</span></a></li>
+                                <li><a target="_blank" class="pinterest" href="http://pinterest.com/acefitness/"><span>Follow ACE on Pinterest</span></a></li>
+                                <li><a target="_blank" class="googleplus" href="https://plus.google.com/110925947656756095551/posts"><span>Follow ACE on Google Plus</span></a></li>
+                                <li><a class="rss" href="/rss/default.aspx"><span>Subscript to ACE RSS Feeds</span></a></li>
+                            </ul>
+                        </div>   
+                    <div id="Etips">
+                        <span id="ctl00_Footer_lblHealthETips">Sign-up to receive Health eTips, ACE's free monthly exercise, health and fitness e-newsletter.</span>
+                        
+                        <div id="input">
+                            <input name="ctl00$Footer$tbEmail" type="text" value="Enter Your Email" id="ctl00_Footer_tbEmail" class="TBEtipsSignUp" onfocus="this.value='';" onkeypress="return ClickButton(event,'ctl00_Footer_lbEmailSignup')">
+                            <input type="submit" name="ctl00$Footer$lbEmailSignup" value="Sign Me Up" id="ctl00_Footer_lbEmailSignup" class="RedNB12BTN">
+                        </div>
+                    </div>
                 </div>
-                
-                
                 <div class="clearboth"></div>
             </div>
             
-            
-            
+            <div id="ACEFitFooterWrap">
+                <ul id="ACEFitFooterInterWrap">
+                    <li class="First"><a href="acefit/default.aspx"><span class="Top">ACE FIT HOMEPAGE</span></a></li>
+                    <li><a href="acefit/fitness-programs/"><span class="Top">Fitness</span><span class="Bottom">Programs</span></a></li>
+                    <li><a href="acefit/healthy-living/"><span class="Top">Healthy</span><span class="Bottom">Living</span></a></li>
+                    <li><a href="acefit/expert-insight/"><span class="Top">Expert</span><span class="Bottom">Insight</span></a></li>
+                    <li><a href="acefit/locate-trainer/"><span class="Top">Find an ACE</span><span class="Bottom">Trainer</span></a></li>
+                </ul>
+            </div>
             <div id="legal">
-                 <div class="NCCA" style="float:left;padding:0 10px 0 0;" title="NCCA is the accreditation body of the Institute of Credentialing Excellence (ICE).">
-                    <a target="_blank" href="http://www.acefitness.org/aboutace/accreditation.aspx">
+                 <div class="NCCA" style="float:left;padding:0 10px;" title="NCCA is the accreditation body of the Institute of Credentialing Excellence (ICE).">
+                    <a href="aboutace/accreditation.aspx" target="_blank">
                         <img style="width:50px; height:55px" src="/images/layout/Footer-NCCA-logo.png" alt="American Council on Exercise (ACE) is accredited by the National Commission for Certifying Agencies (NCCA)">
                     </a>
                 </div>
@@ -638,7 +688,7 @@ Should you have any other questions or concerns about this privacy policy please
                     <img style="width:58px; height:55px" src="/images/layout/authorizenet-logo.png" alt="">
                 </div>
                 <div style="float:left;padding:0 10px 0 0;" title="This site chose VeriSign SSL for secure e-commerce and confidential communications.">
-                    <a href="https://trustsealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=www.acefitness.org&amp;lang=en" class="ColorBoxVerisign cboxElement">
+                    <a href="https://trustsealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=www.acefitness.org&amp;lang=en" class="ColorBoxVerisign">
                         <img width="89" height="55" src="/images/layout/verisign-logo.png" alt="">
                     </a>
                 </div>
@@ -647,237 +697,98 @@ Should you have any other questions or concerns about this privacy policy please
                         <img width="115" height="32" border="0" src="//images.scanalert.com/meter/www.acefitness.org/12.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee SECURE is a Trademark of McAfee, Inc.'); return false;">
                     </a>
                 </div>
-                <div id="copyright" style="float:right;">
-                    <a href="http://www.acefitness.org/copyright.aspx">Terms of Use</a> | <a href="http://www.acefitness.org/privacy.aspx">Privacy Policy</a> | <a href="http://www.acefitness.org/sitemap.aspx">Site Map</a> | <a href="http://www.acefitness.org/check-computer-compatibility.aspx">Check Computer Compatibility</a>
-                    <br>
-                    <br>Copyright© 2012 The American Council on Exercise. All Rights Reserved
-                    <br>4851 Paramount Drive, San Diego, California 92123 — 1 (888)-825-3636
+                <div id="copyright">
+                    <ul>
+                        <li><a href="copyright.aspx" id="ctl00_Footer_A1">Terms of Use</a></li>
+                        <li><a href="privacy.aspx" id="ctl00_Footer_A2">Privacy Policy</a></li>
+                        <li><a href="sitemap.aspx" id="ctl00_Footer_A3">Site Map</a></li>
+                    </ul>
+                    <p>Copyright© 2013 The American Council on Exercise. All Rights Reserved</p>
+                    <p>4851 Paramount Drive, San Diego, California 92123 — 1&nbsp;(888)-825-3636</p>
                 </div>
             </div>
 
    <!-- END FOOTER -->
-   <!-- BEGIN CRAZYEGG Tracking Code -->
+
    <script type="text/javascript">
-       setTimeout(function () {
-           var a = document.createElement("script");
-           var b = document.getElementsByTagName('script')[0];
-           a.src = document.location.protocol + "//dnn506yrbagrg.cloudfront.net/pages/scripts/0012/6249.js?" + Math.floor(new Date().getTime() / 3600000);
-           a.async = true; a.type = "text/javascript"; b.parentNode.insertBefore(a, b)
-       }, 1);
-
-
-       $(".ColorBoxVerisign").colorbox({
-           width: 590,
-           height: 530,
-           scrolling: false,
-           speed: 300,
-           iframe: true
-       });
+       $(".ColorBoxVerisign").colorbox({ width: 590, height: 530, scrolling: false, speed: 300, iframe: true});
     </script>
 
-    <!-- END CRAZYEGG Tracking Code -->
-   
-						</div>
-					</div>
-				</footer>
-				<div id="FacebookLike" class="SocialWrap">
-					<div class="Hot">
-						<span id="SpanSocialOpen" onclick="ShowHideDiv('FacebookLike', 'open', 19, 100, 255, 100 )" style="Display:block"></span>
-						<span id="SpanSocialClose" onclick="ShowHideDiv('FacebookLike', 'close', 19, 100, 255, 100 )" style="Display:none"></span>
-					</div>
-					<div class="Form" id="dSocialWrap">
-						
-<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
-<!-- <script type="text/javascript">var twttr = {widgets: {ignoreSSL: true}};</script> -->
-<div id="socialWrap">
-    <div class="Left">
-            <iframe src="http://www.facebook.com/plugins/like.php?href=http://www.acefitness.org/privacy.aspx&amp;layout=box_count&amp;width=40&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;height=90" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:90px;" allowtransparency="true"></iframe>
-    </div>
-    <div class="right">
-        <span class="TweetBtn"><a href="http://twitter.com/share" class="twitter-share-button" data-url="http://www.acefitness.org/privacy.aspx">Tweet</a></span>
-        <span class="PlusOneBtn"><g:plusone size="medium"></g:plusone></span>
-        <span class="AddthisBar">
-            <script type="text/javascript">
-                addthis_pub = 'acefitness'; addthis_logo = 'http://www.acefitness.org/images/layout/logo.jpg'; addthis_logo_background = 'FFFFFF'; addthis_brand = 'ACEfitness.org'; addthis_options = 'email, favorites, stumbleupon, live, delicious, reddit, myweb, more';
-            </script>
-            <a href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://s9.addthis.com/button1-share.gif" width="125" height="16" border="0" alt=""></a>
-            <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js"></script>
-        </span>
-    </div>
-    <script type="text/javascript">
-        (function () {
-            var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-            po.src = 'https://apis.google.com/js/plusone.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-        })();
-    </script>
-</div>
-
-						<span class="CloseWrap">
-							<a onclick="return ShowHideDiv('FacebookLike', 'close', 19, 100, 240, 125);" id="ctl00_bCloseSocialWrap" class="BTN12GraySM" href="javascript:__doPostBack('ctl00$bCloseSocialWrap','')">Close</a>
-						</span>
-					</div>
-				</div>
-				<div id="FeedbackWrap">
-					<div class="Hot">
-						<span id="SpanFeedbackOpen" onclick="ShowHideDiv('FeedbackWrap', 'open', 19, 102, 375, 300 )" style="Display:block"></span>
-						<span id="SpanFeedbackClose" onclick="ShowHideDiv('FeedbackWrap', 'close', 19, 102, 375, 300 )" style="Display:none"></span>
-					</div>
-					<div class="Form" id="dFeedback">
-						
-<script type="text/javascript" src="/fitnav/jquery/js/jquery.client.js"></script>
-<div>
-    <script type="text/javascript">
-        function EnableSubmit(clientId) {
-            var tbFeedback = GetJRefOfControl(clientId, 'tbFeedback');
-            var bSubmit = GetJRefOfControl(clientId, 'bSubmit');
-
-            if (tbFeedback.val().length <= 5) bSubmit.attr('disabled', true);
-            else bSubmit.attr('disabled', false);
-        }
-
-        function CheckAndSubmit(event, clientId, func) {
-            if (CheckIfEnabled(event, clientId))
-                eval(func);
-        }
-
-        function CheckIfEnabled(event, clientId) 
-        {
-            var bSubmit = GetJRefOfControl(clientId, 'bSubmit');
-
-            if (bSubmit.is(':disabled')) {
-                event.preventDefault();
-                return false;
-            }
-
-            return true;
-        }
-    </script>
     
-    <div id="ctl00_fUserFeedback_dStatus" style="display:block;">
-        <ul>
-            <li><h5 id="ctl00_fUserFeedback_lblStatus">Please login to submit feedback!</h5></li>
-            <li><img id="ctl00_fUserFeedback_imgProgress" src="/images/ajax-loader.gif" alt="Sending Feedback" style="display: none"></li>
-        </ul>
-    </div>
-   <div id="ctl00_fUserFeedback_dLogin" style="display: none">
-        <div id="ctl00_fUserFeedback_FeedbackLogin">
-            
-<div id="dLoginControl">
-    <div id="ctl00_fUserFeedback_lLogin_dLoginWrapper">
-        <h5 id="ctl00_fUserFeedback_lLogin_lblLoginTitle">Please login to send feedback</h5>
-        <div>
-            <div id="dEmailAddress">
-                <label>Email Address</label>
-                <input name="ctl00$fUserFeedback$lLogin$tbEmailAddress" id="ctl00_fUserFeedback_lLogin_tbEmailAddress" type="email">
-            </div>
-            <div id="dPassword">
-                <label>Password <span>(Case Sensitive)</span></label>
-                <input name="ctl00$fUserFeedback$lLogin$tbPassword" type="password" id="ctl00_fUserFeedback_lLogin_tbPassword" value="" onkeydown="return ClickButtonOnEnter(event,'ctl00_fUserFeedback_lLogin_bLogin')">
-                <a id="aForgotPassword" href="/myace/emailpw.aspx"><span>Forgot Your Password?</span></a>
-            </div>
-        </div>
-        <div id="dButton">
-            <input type="hidden" id="ctl00_fUserFeedback_lLogin_hfCustnmbr" value="">
-            <input type="hidden" id="ctl00_fUserFeedback_lLogin_hfDoPostBack" value="False">
-            <input type="hidden" id="ctl00_fUserFeedback_lLogin_hfRedirectURL" value="">
-            <input type="hidden" id="ctl00_fUserFeedback_lLogin_hfJavaScriptOnComplete" value="SubmitFeedback(&quot;ctl00_fUserFeedback&quot;, &quot;ShowHideDivOverload('FeedbackWrap', 'close', 19, 102, 375, 300, 3000)&quot;, &quot;&quot;, &quot;11/21/2012 3:16:05 PM&quot;, &quot;17&quot;);">
-            <input type="hidden" id="ctl00_fUserFeedback_lLogin_hfJavaScriptOnFailure" value="">
-            <input type="hidden" id="ctl00_fUserFeedback_lLogin_hfJavaScriptOnLoginInitiated" value="">
-            <a onclick="return Login('ctl00_fUserFeedback_lLogin');" id="ctl00_fUserFeedback_lLogin_bLogin" class="bLogin" href="javascript:__doPostBack('ctl00$fUserFeedback$lLogin$bLogin','')"><span id="ctl00_fUserFeedback_lLogin_sLoginButtonContent">Send</span></a>
-        </div>
-    </div>
-    <h5 id="ctl00_fUserFeedback_lLogin_lblLoginError" class="FormError" style="display: none"></h5>
-    <img id="ctl00_fUserFeedback_lLogin_imgProgress" src="/images/ajax-loader.gif" alt="Please wait..." style="display: none">
-</div>
-        </div>
-    </div>
-</div>
-						<span class="CloseWrap">
-							<a onclick="return ShowHideDiv('FeedbackWrap', 'close', 19, 102, 375, 300);" id="ctl00_bCloseFeedback" class="BTN12GraySM" href="javascript:__doPostBack('ctl00$bCloseFeedback','')"><span>Close</span></a>
-						</span>        
-					</div>
-				</div>
-				<!-- BEGIN GOOGLE TRACKING -->
-				
-					<!-- Start Google Analytics -->
+   
+                        </div>
+                    </div>
+                </footer>
+                
+                
+
+                <!-- BEGIN GOOGLE TRACKING -->
+                
+                    <!-- Start Google Analytics -->
 					<script type="text/javascript">
 					    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 					    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-					</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-					<script type="text/javascript">
-						try {
-							var pageTracker = _gat._getTracker("UA-6044214-1");
-							pageTracker._setAllowLinker(true);
-							pageTracker._setDomainName("none");
-							pageTracker._setVar("");
-							pageTracker._setCustomVar(1,"Certification-V","consumer",1);
+                    </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+                    <script type="text/javascript">
+                        try {
+                            var pageTracker = _gat._getTracker("UA-6044214-1");
+                            pageTracker._setAllowLinker(true);
+                            pageTracker._setDomainName("none");
+                            pageTracker._setVar("");
+                            pageTracker._setCustomVar(1,"Certification-V","consumer",1);
+pageTracker._setCustomVar(2,"SiteSection-P","AboutUs-PrivacyPolicy",3);
 pageTracker._setCustomVar(3,"CustomerGuid-V","none",1);
 pageTracker._setCustomVar(4,"CustomerNumber-V","none",1);
 pageTracker._setCustomVar(5,"Certification-S","consumer",2);
 
-							pageTracker._trackPageview();
-						} catch(err) {}</script> 
+                            pageTracker._trackPageview();
+                        } catch(err) {}</script> 
 
 
-				<script type="text/javascript">
-				    var AlertDropDownTimerCounter = 1;
-				    var AlertIntervalObject;
-				    var AlertDropDownTimer = function () {
-				        if (AlertDropDownTimerCounter <= 1) {
-				            AlertDropDownTimerCounter++;
-				            $('.AlertMessageWrap').animate({ height: "22" }, 500, "easeInQuad", function () { });
-				        } else {
-				            clearInterval(AlertIntervalObject);
-				        }
-				    };
+                <script type="text/javascript">
+                    function ShowHideDivOverload(tabId, state, closeWidth, closeHeight, openWidth, openHeight, timeOut) {
+                        setTimeout("ShowHideDiv('" + tabId + "', '" + state + "', '" + closeWidth + "', '" + closeHeight + "', '" + openWidth + "', '" + openHeight + "', '" + timeOut + "')", timeOut);
+                    }
+                    function ShowHideDiv(tabId, state, closeWidth, closeHeight, openWidth, openHeight) {
+                        var tab = $(RetrieveObjectId(tabId));
 
-				    function CloseAlertMessage() {
-				        clearInterval(AlertIntervalObject);
-				        $('.AlertMessageWrap').animate({ height: "0" }, 500, "easeInQuad", function () { });
-				    }
+                        tab.stop();
 
-				    $(function () { AlertIntervalObject = setInterval(AlertDropDownTimer, 5000); });
-				    $("#CloseAlertMessage").click(function () {
-				        CloseAlertMessage();
-				        return false
-				    });
+                        if (state == 'close') {
+                            tab.animate({ width: closeWidth, height: closeHeight });
+                        }
+                        else {
+                            tab.animate({ width: openWidth, height: openHeight });
+                        }
 
-				    $("#SpanSocialOpen").click(function () {
-				        $("#SpanSocialClose").show();
-				        $(this).hide();
-				    });
-				    $("#SpanSocialClose,#ctl00_bCloseSocialWrap").click(function () {
-				        $("#SpanSocialOpen").show();
-				        $("#SpanSocialClose").hide();
-				    });
-				    $("#SpanFeedbackOpen").click(function () {
-				        $("#SpanFeedbackClose").show();
-				        $(this).hide();
-				    });
-				    $("#SpanFeedbackClose,#ctl00_bCloseFeedback").click(function () {
-				        $("#SpanFeedbackOpen").show();
-				        $("#SpanFeedbackClose").hide();
-				    });
+                        return false;
+                    }
+                    hover = function () {
+                        if (!document.body.currentStyle) return;
+                        var DIVcomments = document.getElementById('Social');
+                        var DIVcomment_wrap = document.getElementById('SocialWrap13');
+                        DIVcomments.onmouseover = function () {
+                            DIVcomment_wrap.style.display = 'block';
+                        }
+                        DIVcomments.onmouseout = function () {
+                            DIVcomment_wrap.style.display = 'none';
+                        }
+                    }
+                    window.onload = hover;
 
-				    function ShowHideDivOverload(tabId, state, closeWidth, closeHeight, openWidth, openHeight, timeOut) {
-				        setTimeout("ShowHideDiv('" + tabId + "', '" + state + "', '" + closeWidth + "', '" + closeHeight + "', '" + openWidth + "', '" + openHeight + "', '" + timeOut + "')", timeOut);
-				    }
-				    function ShowHideDiv(tabId, state, closeWidth, closeHeight, openWidth, openHeight) {
-				        var tab = $(RetrieveObjectId(tabId));
-
-				        tab.stop();
-
-				        if (state == 'close') {
-				            tab.animate({ width: closeWidth, height: closeHeight });
-				        }
-				        else {
-				            tab.animate({ width: openWidth, height: openHeight });
-				        }
-
-				        return false;
-				    }
-				</script>
-			</form><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="display: none; padding-bottom: 50px; padding-right: 50px;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" style="width: 0px; height: 0px; overflow: hidden; float: left;"></div><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><div id="cboxNext" style="float: left;"></div><div id="cboxPrevious" style="float: left;"></div><div id="cboxSlideshow" style="float: left;"></div><div id="cboxClose" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div>            
-		
-	</body></html>
+				   
+                </script>
+                
+                <script type="text/javascript">
+                    //BEGIN CRAZYEGG Tracking Code
+                    setTimeout(function () {
+                        var a = document.createElement("script");
+                        var b = document.getElementsByTagName('script')[0];
+                        a.src = document.location.protocol + "//dnn506yrbagrg.cloudfront.net/pages/scripts/0012/6249.js?" + Math.floor(new Date().getTime() / 3600000);
+                        a.async = true; a.type = "text/javascript"; b.parentNode.insertBefore(a, b)
+                    }, 1);
+                    //END CRAZYEGG Tracking Code                 
+                </script>
+            </form>            
+        
+    </body></html>
