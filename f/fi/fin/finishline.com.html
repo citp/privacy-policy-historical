@@ -1,19 +1,18 @@
-<!--The following is the downloaded HTML source of the finishline.com privacy policy that was archived on 2012-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121221062805id_/http%3A//www.finishline.com/store/customer_service/privacy_policy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the finishline.com privacy policy that was archived on 2013-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130630070156id_/http%3A//www.finishline.com/store/customer_service/privacy_policy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=""><head>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-			<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/gtmp_compiled.js"></script><script type="text/javascript">
+		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/gtmp_compiled.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="hiconversion_head_include" async="" type="text/javascript" src="https://ssl.hiconversion.com/app/update?async=true&amp;external=&amp;version=2.0"></script><script>
 			
 			document.domain="finishline.com";
 		</script>
 
 
-		<script type="text/javascript" src="/store/assets/scripts/tealeaf/TealeafSDKConfig.js"></script>
-	<script type="text/javascript" src="/store/assets/scripts/tealeaf/TealeafSDK.js"></script>
-	
-	
-<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+		<!-- tealeaf interation -->
+			<script type="text/javascript" src="/store/assets/scripts/tealeaf/TealeafSDKConfig.js"></script>
+			<script type="text/javascript" src="/store/assets/scripts/tealeaf/TealeafSDK.js"></script>
+		<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
 <!--  end of Search Results -->
 			<!--  end of Search Results -->
 			<!-- This is for Product Detail Page -->
@@ -34,7 +33,7 @@
 <meta name="y_key" content="e911c07c0a2113dc">
 
 <meta name="robots" content="all, follow">
-	<script type="text/javascript">
+	<script>
 			//DO NOT MOVE THIS TO THE BOTTOM, WILL BREAK IE
 			//This replaces custom HTML 5 elements with... divs? idk... something that makes it work with IE...
 			(function(B,C){B[C]=B[C].replace(/\bno-js\b/,'js');if(!/*@cc_on!@*/0)return;var e = "abbr,article,aside,audio,canvas,datalist,details,dialog,eventsource,figure,footer,header,hgroup,mark,menu,meter,nav,output,progress,red,section,time,video,error,line".split(','),i=e.length;while(i--){document.createElement(e[i])}})(document.documentElement,'className');
@@ -42,122 +41,180 @@
 
 
 
-		<!--  minfified styles -->
-		<link rel="stylesheet" href="/store/assets/yaml/core/base.css" type="text/css">
-		<link rel="stylesheet" href="/store/assets/styles/min/styles.min.css" type="text/css">
+		<link type="text/css" rel="stylesheet" href="/store/assets/styles/css/min/styles.min.css">
+	<link type="text/css" rel="stylesheet" href="/store/assets/yaml/print/print_draft.css">
+	
+	
 	<link rel="stylesheet" href="http://reviews.finishline.com/static/9345/bazaarvoice.css" type="text/css">
+	<style>
+	      </style>
+		<style>
+	      </style>
+
+		<script>
+		window.FL = window.FL || {};
+		FL.setup = FL.setup || {};
+		FL.siteSection = "";
+		FL.specificPage = "";
+	</script>
+
+
 	<script src="/store/assets/scripts/one-offs/console.init.js"></script>
 
-	<script>
-		// use the FL object if it already exists, else start a new object.
-		// hard-coded here first in this page so unnecessary anywhere else below!
-		window.FL = window.FL || {};
 
+
+
+
+	<!-- set up environment -->
+	<script>
+		FL.environment = "production";
+	</script>
+	<script>
+				FL.environment = "www";
+			</script>
+		<script>
 		/* Right now many of these properties are used by the DOTOMI pixel. These
 			can be utilized in any JS. Probably will be used for other tracking pixels */
-		FL.setup = {
-			specificScript: ""
-			, specificPage: ""
-			, doProductDetails: false
-			, customerId: "1427929611"
-			, category: ""
-			, categoryId: ""
-			, subCategory: ""
-			, productId: ""/* n/a since not a product-detail page*/
-			, productImg: ""/* n/a since not a product-detail page*/
-			, brand: ""
-			, sourceId: ""
-			, cid: ""
-			, searchOrBrowse: "browse"
-			, isProduction: true
-		}
 
+		FL.setup.specificScript = "";
+		FL.setup.specificPage = "";
+		FL.setup.doProductDetails = false;
+		FL.setup.customerId = "1674660993";
+		FL.setup.category = "";
+		FL.setup.categoryId = "";
+		FL.setup.subCategory = "";
+		FL.setup.productId = ""/* n/a since not a product-detail page*/;
+		FL.setup.productImg = ""/* n/a since not a product-detail page*/;
+		FL.setup.brand = "";
+		FL.setup.sourceId = "shopping";
+		FL.setup.cid = "40";
+		FL.setup.searchOrBrowse = "browse";
+		FL.setup.isProduction = true;
+		FL.setup.lpDirectoryName = "";
 		for(var i in FL.setup){
 			if(FL.setup[i] === "null"){
 				FL.setup[i] = "";
 			}
 		}
-
-		//console.log("Javascript Included: ? " + "");
-		//console.log("doProductDetails: " + FL.setup.doProductDetails);
 	</script>
 
+
+	<!-- access to the brightcove player API. HTTPS is not supported.  =[ -->
+		<script src="//admin.brightcove.com/js/APIModules_all.js"></script>
 	<script>
-		
-		window.FL = window.FL || {};
-
-		FL.siteSection = "";
-		FL.specificPage = "";
-
 		var scServerCode = 'finishlineprod';
 	</script>
 
+
 	<script type="text/x-jquery-tmpl" id="dynamicCart_tmpl">
-	<div id="dcProducts">
-		{{if data}}
-			{{each(i, product) data.products}}
-				<div id="product{{= i}}" class="product">
-					<div>
-						<div class="thumbnail">
-							<img src="{{= product.thumbnail}}" alt="{{= product.name}}" title="{{= product.name}}"/>
-						</div>
-						<div class="text">
-							{{if i == 0}}
-								{{if message}}
-									{{if message.display}}
-										<div class="justAdded">{{= message.text}}</div>
-									{{/if}}
-								{{/if}}
-							{{/if}}
-
-
-
-							<div class="name">{{= product.name}}</div>
-
-							{{if product.salesText}}
-								<div class="salesText">{{= product.salesText}}</div>
-							{{/if}}
-							
-							<div>{{= product.color}}</div>
-							<div>Size: {{= product.size}}</div>
-							<div>Qty: {{= product.quantity}}</div>
-							<div>Price :
-								{{if product.listPrice == product.originalPrice}}
-									<span class="price">{{= product.listPrice}}</span>
-								{{/if}}
-								{{if product.listPrice < product.originalPrice}}
-									<span class="price sale">{{= product.listPrice}}</span>
-									<span class="original">{{= product.originalPrice}}</span>
-								{{/if}}
-								{{if product.listPrice > product.originalPrice}}
-									<span class="price">{{= product.listPrice}}</span>
-								{{/if}}
+	<div id="dcProductsWrapper">
+		<div id="dynamicCartContentsWrapperShadow">
+		</div>
+		<div id="dcProducts">
+			{{if data}}
+				{{each(i, product) data.products}}
+					<div id="product{{= i}}" class="product">
+						<div class="row-fluid">
+							<div class="span4">
+								<div class="thumbnail">
+									<a href="/store/catalog/product.jsp?productId={{= product.productId}}" title="View {{= product.name}}"><img src="{{= product.thumbnail}}" alt="{{= product.name}}" title="{{= product.name}}"/></a>
+								</div>
 							</div>
-							{{if product.isFreeShipping == 'true'}}
-								<div class="dcClosenessQualifierText">This item is eligible for free shipping!</div>
-							{{/if}}
-							{{if product.isFressShipping == '2w4'}}
-								<div class="dcClosenessQualifierText">This item available for half off shipping!</div>
-							{{/if}}
+							<div class="span8">
+								<div class="dcProductDetailsWrapper">
+									<div class="dcProductDetails">
+										{{if i == 0}}
+											{{if message}}
+												{{if message.display}}
+													<div class="message fade in">{{= message.text}}</div>
+												{{/if}}
+											{{/if}}
+										{{/if}}
+
+
+
+										<a href="/store/catalog/product.jsp?productId={{= product.productId}}" title="View {{= product.name}}">
+											<h4 class="name">{{= product.name}}</h4>
+										</a>
+
+										{{if product.salesText}}
+											<p class="salesText">{{= product.salesText}}</p>
+										{{/if}}
+										
+										<p class="color-description">{{= product.color}}</p>
+										
+										<div class="row-fluid">
+											<div class="span3 attributes">
+												<p>
+													<strong class="label">Size:</strong><span class="value size">{{= product.size}}</span>
+												</p>
+											</div>
+											<div class="span6">
+											</div>
+											<div class="span3 attributes text-right">
+										
+												{{if product.listPrice == product.originalPrice}}
+													<p class="value price"></p>
+												{{/if}}
+												{{if product.listPrice < product.originalPrice}}
+													<p class="value price sale">{{= product.listPrice}}</p>
+												{{/if}}
+												{{if product.listPrice > product.originalPrice}}
+													<p class="value price"></p>
+												{{/if}}
+												
+											</div>
+										</div>
+										<div class="row-fluid">
+											<div class="span3 attributes">
+												<p>
+													<strong class="label">Qty:</strong><span class="value quantity">{{= product.quantity}}</span>
+												</p>
+											</div>
+											<div class="span6 promotion-icons">
+												{{if product.isFreeShipping === true}}
+													<img class="free-shipping-icon messaging-icon" src="/media/images/products/free-shipping-icon.png" alt="This item is eligible for free shipping!">
+												{{/if}}
+												{{if product.isFressShipping == '2w4'}}
+													<p class="dcClosenessQualifierText">This item available for half off shipping!</p>
+												{{/if}}
+											</div>
+											<div class="span3 attributes text-right">
+										
+												{{if product.listPrice == product.originalPrice}}
+													<p class="value price">{{= product.listPrice}}</p>
+												{{/if}}
+												{{if product.listPrice < product.originalPrice}}
+													<p class="value price original">{{= product.originalPrice}}</p>
+												{{/if}}
+												{{if product.listPrice > product.originalPrice}}
+													<p class="value price">{{= product.listPrice}}</p>
+												{{/if}}
+												
+											</div>
+										</div>
+									</div>
+								</div>
+								
+							</div>
 						</div>
 					</div>
-				</div>
-			{{/each}}
-		{{/if}}
-		{{if cart}}
-			<div>{{= cart.number}} {{= cart.plural}} in cart</div>
-		{{/if}}
-	</div>
-
-	<div id="dcEndImage" class="bottom">
-		<div id="dynamicCartCheckoutLink" class="buttonWrapper">
-			<a id="dynamicCartCheckoutButton" class="button ui-state-default ui-priority-primary ui-corner-all viewCartButton">View Cart</a>
+				{{/each}}
+			{{/if}}
 		</div>
-		<div class="finalSubtotal">Subtotal</div>
-		<div class="finalSubtotalAmount">{{= Subtotal}}</div>
-		{{if ClosenessQualifier != ''}}
-			<div id="dcCQ">{{= ClosenessQualifier}}</div>
-		{{/if}}
+		
+	</div>
+	<div id="dcTrailingInfo">
+
+		<p class="finalSubtotal"><strong>Subtotal:</strong> <span class="finalSubtotalAmount">{{= Subtotal}}</span></p>
+		
+		<a href="/store/checkout/cart.jsp" id="dynamicCartCheckoutButton" class="btn btn-primary btn-large btn-block has-arrow right">View Cart and Checkout</a>
+		
+		<div id="dcEndImage" class="bottom">
+			{{if ClosenessQualifier != ''}}
+				<div id="dcCQ">{{= ClosenessQualifier}}</div>
+			{{/if}}
+		</div>
 	</div>
 </script><script type="text/x-jquery-tmpl" id="dialog_tmpl">
 	<div id="{{= id }}"></div>
@@ -165,136 +222,125 @@
 
 <script type="text/x-jquery-tmpl" id="dialog_iframe_tmpl">
 	<iframe src="{{= page }}" scrolling="auto" frameborder="0" name="popupFrame" width="100%" height="98%"></iframe>
-</script><script>
-		FL.environment = "www";
-	</script>
-
-	<!-- env: default -->
-			<script>
-				FL.environment = "www";
-			</script>
-
-			<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-			<script>window.jQuery || document.write('<script src="/store/assets/scripts/library/jquery-1.6.4.min.js"><\/script>')</script><script src="/store/assets/scripts/library/jquery-1.6.4.min.js"></script>
+</script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+			<script>window.jQuery || document.write('<script src="/store/assets/scripts/library/jquery-1.7.2.min.js"><\/script>')</script><script src="/store/assets/scripts/library/jquery-1.7.2.min.js"></script>
 			<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
 			<script>window.jQuery.ui || document.write('<script src="/store/assets/scripts/library/jquery-ui-1.8.15.custom.min.js"><\/script>')</script><script src="/store/assets/scripts/library/jquery-ui-1.8.15.custom.min.js"></script>
-			<script src="/store/assets/scripts/min/e9b67e1d2afd73ed17268e17d5bd144f.alpha.min.js"></script>
-				<script>
-		
-			FL.environment = "";
-			
-			FL.environment = "production";
-			FL.environment = "www";</script>
-
-		<script src="//connect.facebook.net/en_US/all.js#xfbml=1"></script>
+			<script src="/store/assets/scripts/min/33de77a8af09d7962122d4d35ebcd94f.alpha.min.js"></script>
+				<script src="//connect.facebook.net/en_US/all.js#xfbml=1"></script>
 
 
 		<!--[if lte IE 8]>
-			<script src="/store/assets/scripts/patches/if.lte.ie8.adds-first-and-last-child-classes.js"></script>
-		<![endif]-->
+		<script src="/store/assets/scripts/patches/if.lte.ie8.adds-first-and-last-child-classes.js"></script>
+	<![endif]-->
 
-		<!--[if lte IE 7]>
-			<script src="/store/assets/scripts/patches/if.lte.ie7.adds-carat-to-buttons.js"></script>
-			<script src="/store/assets/scripts/patches/if.lte.ie7.adds-depth-under-nav-bar.js"></script>
-		<![endif]-->
+	<!--[if lte IE 7]>
+		<script src="/store/assets/scripts/patches/if.lte.ie7.adds-carat-to-buttons.js"></script>
+		<script src="/store/assets/scripts/patches/if.lte.ie7.adds-depth-under-nav-bar.js"></script>
+	<![endif]-->
+
 	<script src="//cdn.gigya.com/JS/socialize.js?apikey=2_OnD3JG0Zquc6MKvfNAnOEXWTKUptFsUTAeqD2fkRMFd-YKdrjggls0cUKxtUgtmY"></script>
+<script id="hiconversion_head_script" type="text/javascript">
+    var hiconversion_load = new Date();
+    function hiconversion_head_load() {
+        var external ="";
+        var script = document.createElement("script");
+        script.id = "hiconversion_head_include";
+        script.async = "async";
+        script.type = "text/javascript";
+        script.src = (document.location.protocol == "https:" ? "https://ssl" : "http://update") + ".hiconversion.com/app/update?async=true&external=" + external + "&version=2.0";
+        var nodes = document.getElementsByTagName("script");
+        if (nodes.length > 0) {
+            nodes[0].parentNode.insertBefore(script, nodes[0]);
+        }
+    }
+    hiconversion_head_load();
+</script>
 <!--[if lt IE 9]>
-			<link href="/store/assets/styles/full/my_patches/patch_my_layout.ltie9.css" rel="stylesheet" type="text/css" >
+			<link href="/store/assets/styles/css/full/conditional/ie_fixes/iehacks.css" rel="stylesheet" type="text/css" >
 		<![endif]-->
-
-		<!--[if lte IE 7]>
-			<link href="/store/assets/styles/full/my_patches/patch_my_layout.lteie7.css" rel="stylesheet" type="text/css" >
-		<![endif]-->
-
-		<!--[if lte IE 6]>
-			<link href="/store/assets/styles/full/my_patches/patch_my_layout.lteie6.css" rel="stylesheet" type="text/css" >
-		<![endif]-->
-
 
 
 	</head>
 
-	<!--[if lt IE 7 ]>	<body id="" class=" no-landingPage      holiday-2012  debug-off ie ie6 "> <![endif]-->
-<!--[if IE 7 ]>		<body id="" class=" no-landingPage      holiday-2012  debug-off ie ie7 "> <![endif]-->
-<!--[if IE 8 ]>		<body id="" class=" no-landingPage      holiday-2012  debug-off ie ie8 "> <![endif]-->
-<!--[if gt IE 8 ]>	<body id="" class=" no-landingPage      holiday-2012  debug-off ie ie9 "> <![endif]-->
-<!--[if !IE]>-->	<body id="" class=" no-landingPage      holiday-2012  debug-off "> <!--<![endif]-->
 
-		<!-- Maxymiser script start -->
-<script src="//maxymiser.hs.llnwd.net/o36/finishline/js/mmcore.js"></script>
-<!-- Maxymiser script end -->
-<div id="wall-tile-1">
-		<div id="wall-tile-2">
-		<div id="wall-tile-3">
-		<div id="main_table" class="page_margins">
-			<div class="page_borders">
-				<div class="page">
-					<div id="headerWrapper" class="">
-						<div id="mastheadWrapper">
-							<a id="mastheadLogoLink" href="http://www.finishline.com/" title="Go to the FinishLine.com Home Page"><img src="/media/images/logos/finishline.com_logo_235x36_trans.png" width="355" height="104px" alt="FinishLine" style="visibility: hidden;"></a>
-						</div>
-					<div id="topnavWrapper">
-							<div id="topnav" class="nav">
-								<ul>
-										<li><a href="/store/customer_service/faq_index.jsp">Help</a></li>
-									<li><a id="wishList" class="headerLinks" href="/store/gifts/wishlist_landing.jsp">WishList</a></li>
 
-										<li><a id="showOrderInquiry" class="popup_dialog" href="/store/global/fragments/order_inquiry.jsp?orderId=&amp;zip=" data-dialog="{&quot;id&quot; : &quot;order_inquiry&quot;, &quot;height&quot; : 600, &quot;width&quot; : 800, &quot;title&quot; : &quot;Order Inquiry&quot;, &quot;load&quot; : &quot;iframe&quot;}">Order Inquiry</a></li>
-									<li><a href="/store/storelocator/storelocator.jsp" class="headerLinks">Store Locator</a></li>
-										<li><a href="/store/my_account/signin.jsp;jsessionid=804BAD46E2FFEFDDF18B576957F24BDC.FLP10306">My Account (Sign In or Sign-Up)</a></li>
-									<li class="last-child"><a href="/store/" class="headerLinks">Home</a></li>
-									</ul>
-								<ul>
-										<li class="last-child">
-											<div id="minibagWrapper">
-												<div id="minibag">
-													<div id="dynamicCart">
+	<!--[if lt IE 7 ]>	<body id="" class="  no-landingPage      spring-2013 lp-promo-editor-skin  debug-off ie ie6 "> <![endif]-->
+<!--[if IE 7 ]>		<body id="" class="  no-landingPage      spring-2013 lp-promo-editor-skin  debug-off ie ie7 "> <![endif]-->
+<!--[if IE 8 ]>		<body id="" class="  no-landingPage      spring-2013 lp-promo-editor-skin  debug-off ie ie8 "> <![endif]-->
+<!--[if gt IE 8 ]>	<body id="" class="  no-landingPage      spring-2013 lp-promo-editor-skin  debug-off ie ie9 "> <![endif]-->
+<!--[if !IE]>-->	<body id="" class="  no-landingPage      spring-2013 lp-promo-editor-skin  debug-off "> <!--<![endif]-->
+
+
+		<div id="wall-tile-1">
+			<div id="wall-tile-2">
+				<div id="wall-tile-3">
+					<div id="main_table" class="page_margins">
+						<div class="page_borders">
+							<div class="page">
+								<div id="headerWrapper" class="">
+									<div id="mastheadWrapper">
+										<a id="mastheadLogoLink" href="http://www.finishline.com/" title="Go to the FinishLine.com Home Page"><img src="/media/images/logos/finishline.com_logo_235x36_trans.png" width="355" height="104px" alt="FinishLine" style="visibility: hidden;"></a>
+									</div>
+
+									<div id="topnavWrapper">
+										<div id="topnav" class="nav">
+											<ul>
+													<li><a href="/store/customer_service/faq_index.jsp">Help</a></li>
+
+													<li><a id="wishList" class="headerLinks" href="/store/gifts/wishlist_landing.jsp">WishList</a></li>
+															<li><a id="showOrderInquiry" class="popup_dialog" href="/store/global/fragments/order_inquiry.jsp?orderId=&amp;zip=" data-dialog="{&quot;id&quot; : &quot;order_inquiry&quot;, &quot;height&quot; : 600, &quot;width&quot; : 900, &quot;title&quot; : &quot;Order Inquiry&quot;, &quot;load&quot; : &quot;iframe&quot;}">Track Your Order</a></li>
+														<li><a href="/store/storelocator/storelocator.jsp" class="headerLinks">Store Locator</a></li>
+													<li><a href="/store/my_account/signin.jsp">My Account (Sign In or Sign-Up)</a></li>
+
+												<li class="last-child"><a href="/store/" class="headerLinks">Home</a></li>
+												</ul>
+											<ul>
+													<li class="last-child">
+														<div id="minibagWrapper">
+															<div id="minibag">
+																<div id="dynamicCart">
 					<div id="dcTitle">
 						<div id="dynamicCartCheckoutLink" class="buttonWrapper">
-							<a href="/store/checkout/cart.jsp" id="dynamicCartHeaderCheckoutButton" class="button ui-state-default ui-priority-primary ui-corner-all viewCartButton">View Cart</a>
+							
+							<a href="/store/checkout/cart.jsp" id="dynamicCartHeaderCheckoutButton" class="viewCartButton">
+								<span class="itemsIndicatorWrapper">
+									<span class="itemsIndicator">
+										
+												0
+											</span>
+								</span>
+								My Cart
+							</a>
 						</div>
 
-						<c:if test="false">
-							<c:set var="total" value="TBD">
-						</c:set></c:if>
 						<div id="dynamicCartCheckoutTotal">$0.00</div>
 
 
-						<div id="dynamicCartCheckoutText">
-							
-									0 items
-								
-							in <a href="/store/checkout/cart.jsp">your cart</a>
 						</div>
-					</div>
-					<div id="dynamicCartContentsWrapper">
-
-
-
-
+					<div id="dynamicCartContentsWrapper" class="fade">
 					</div>
 				</div>
 			</div>
+														</div>
+													</li>
+												</ul>
 											</div>
-										</li>
-									</ul>
-								</div>
-						</div>
+									</div>
 
-						<div id="navWrapper" class="">
-							<div id="nav" class="nav primaryNav ">
-								<!-- skiplink anchor: navigation -->
-									<a id="navigation" name="navigation"></a>
-									<div class="list horizontal">
-										<!-- main navigation: horizontal list -->
-										<!--  -->
-										<ul id="menu">
+									<div id="navWrapper" class="">
+										<div id="nav" class="nav primaryNav ">
+											<!-- skiplink anchor: navigation -->
+												<a id="navigation" name="navigation"></a>
+												<div class="list horizontal">
+													<!-- main navigation: horizontal list -->
+													<ul id="menu">
 	<li class="" id="mrd-tab-men">
 
 		<a href="/store/results/index.jsp?Ne=3000540&amp;pageTitle=Men's Shoes&amp;N=3000583&amp;categoryId=cat20009"><span>Men’s Shoes</span></a>
 		<ul class="subnav">
 		<li><a href="/store/results/index.jsp?N=3000583+5102589&amp;pageTitle=Men's Shoes&amp;categoryId=cat20081">Men's Baseball Cleats</a></li>
-			<li><a href="/store/results/index.jsp?N=3000583+5102590&amp;pageTitle=Men's Shoes&amp;Ns=P_SalePrice|1&amp;categoryId=cat20083">Men's Basketball Shoes</a></li>
+			<li><a href="/store/results/index.jsp?N=3000583+5102590&amp;pageTitle=Men's Shoes&amp;categoryId=cat20083">Men's Basketball Shoes</a></li>
 			<li><a href="/store/results/index.jsp?N=3000583+5102591&amp;pageTitle=Men's Shoes&amp;categoryId=cat20091">Men's Boots &amp; Trail Shoes</a></li>
 			<li><a href="/store/results/index.jsp?N=3000583+5102592&amp;pageTitle=Men's Shoes&amp;categoryId=cat20085">Men's Casual Shoes</a></li>
 			<li><a href="/store/results/index.jsp?N=3000583+5102593&amp;pageTitle=Men's Shoes&amp;categoryId=cat20087">Men's Cross Training Shoes</a></li>
@@ -313,9 +359,9 @@
 		<ul class="subnav">
 			<li><a href="/store/results/index.jsp?N=3000584+5102609&amp;pageTitle=Women's Shoes&amp;categoryId=cat20133">Women's Boots &amp; Trail Shoes</a></li>
 			<li><a href="/store/results/index.jsp?N=3000584+5102610&amp;pageTitle=Women's Shoes&amp;categoryId=cat20127">Women's Casual Shoes</a></li>
-			<li><a href="/store/results/index.jsp?N=3000584+5102612&amp;pageTitle=Women's Shoes&amp;categoryId=cat20137">Women's Running Shoes</a></li>
+			<li><a href="/store/results/index.jsp?N=3000584+5102612&amp;pageTitle=Women's Shoes&amp;Ns=P_DaysOld&amp;categoryId=cat20137">Women's Running Shoes</a></li>
 			<li><a href="/store/results/index.jsp?N=3000584+5102613&amp;pageTitle=Women's Shoes&amp;categoryId=cat20139">Women's Sandals &amp; Flip Flops</a></li>
-			<li><a href="/store/results/index.jsp?N=3000584+5102611&amp;pageTitle=Women's Shoes&amp;categoryId=cat20131">Women's Training Shoes</a></li>
+			<li><a href="/store/results/index.jsp?N=3000584+5102611&amp;pageTitle=Women's Shoes&amp;Ns=P_DaysOld&amp;categoryId=cat20131">Women's Training Shoes</a></li>
 			</ul>
 		</li>
 	<li class="" id="mrd-tab-kids">
@@ -323,7 +369,7 @@
 		<ul class="subnav multicol">
 			<li class="column">
 				<ul>
-					<li><a href="/store/results/index.jsp?pageTitle=Kids' Shoes&amp;N=5001882&amp;categoryId=cat20161+cat20163+cat20173" target="">Boys'</a></li>
+					<li><a href="/store/results/index.jsp?pageTitle=Kids' Shoes&amp;N=5001882&amp;Ns=P_BestSellers|1&amp;categoryId=cat20161+cat20163+cat20173" target="">Boys'</a></li>
 					<li><a href="/store/results/index.jsp?Ntt=cartoon&amp;pageTitle=Kids' Shoes&amp;N=11&amp;categoryId=cat301198" class="sub">Boys' Cartoon</a></li>
 						<li><a href="/store/results/index.jsp?N=5001884&amp;pageTitle=Kids' Shoes&amp;categoryId=cat20161" class="sub">Boys' Gradeschool (3.5 - 7.0)</a></li>
 						<li><a href="/store/results/index.jsp?N=5001885&amp;pageTitle=Kids' Shoes&amp;categoryId=cat20163" class="sub">Boys' Preschool (10.5 - 3.0)</a></li>
@@ -347,8 +393,7 @@
 			<li class="column">
 				<ul>
 					<li><a href="/store/results/index.jsp?pageTitle=Apparel&amp;N=5001929&amp;categoryId=cat20011" target="">Men’s Apparel</a></li>
-					<li><a href="/store/results/index.jsp?N=5001969&amp;pageTitle=Apparel&amp;categoryId=cat20047" class="sub">Hats &amp; Caps</a></li>
-						<li><a href="/store/results/index.jsp?N=5001934&amp;pageTitle=Apparel&amp;categoryId=cat20113" class="sub">Jackets</a></li>
+					<li><a href="/store/results/index.jsp?N=5001934&amp;pageTitle=Apparel&amp;categoryId=cat20113" class="sub">Jackets</a></li>
 						<li><a href="/store/results/index.jsp?N=5001939&amp;pageTitle=Apparel&amp;categoryId=cat301264" class="sub">Jerseys</a></li>
 						<li><a href="/store/results/index.jsp?N=5102582&amp;pageTitle=Apparel&amp;categoryId=cat301165" class="sub">Livestrong</a></li>
 						<li><a href="/store/results/index.jsp?N=5001935&amp;pageTitle=Apparel&amp;categoryId=cat20115" class="sub">Pants</a></li>
@@ -362,11 +407,11 @@
 
 			<li class="column col2">
 				<ul>
-					<li><a href="/store/results/index.jsp?pageTitle=Apparel&amp;N=5001930&amp;categoryId=cat20015" target="">Women’s Apparel</a></li>
-					<li><a href="/store/results/index.jsp?N=5001974&amp;pageTitle=Apparel&amp;categoryId=cat20047" class="sub">Hats &amp; Caps</a></li>
-						<li><a href="/store/results/index.jsp?N=5001942&amp;pageTitle=Apparel&amp;categoryId=cat20151" class="sub">Jackets</a></li>
+					<li><a href="/store/results/index.jsp?pageTitle=Apparel&amp;N=5001930&amp;Ns=P_DaysOld&amp;categoryId=cat20015" target="">Women’s Apparel</a></li>
+					<li><a href="/store/results/index.jsp?N=5001942&amp;pageTitle=Apparel&amp;categoryId=cat20151" class="sub">Jackets</a></li>
 						<li><a href="/store/results/index.jsp?N=5001975&amp;pageTitle=Apparel&amp;categoryId=cat300482" class="sub">Jerseys</a></li>
 						<li><a href="/store/results/index.jsp?N=5102583&amp;pageTitle=Apparel&amp;categoryId=cat301167" class="sub">Livestrong</a></li>
+						<li><a href="/store/results/index.jsp?N=5001976&amp;pageTitle=Apparel&amp;categoryId=cat300480" class="sub">Long Sleeve</a></li>
 						<li><a href="/store/results/index.jsp?N=5001943&amp;pageTitle=Apparel&amp;categoryId=cat20153" class="sub">Pants</a></li>
 						<li><a href="/store/results/index.jsp?N=5001944&amp;pageTitle=Apparel&amp;categoryId=cat20155" class="sub">Shorts</a></li>
 						<li><a href="/store/results/index.jsp?N=5001977&amp;pageTitle=Apparel&amp;categoryId=cat300486" class="sub">Socks</a></li>
@@ -379,7 +424,7 @@
 
 			<li class="column col3">
 				<ul>
-				<li><a href="/store/results/index.jsp?pageTitle=Apparel&amp;N=5202588&amp;categoryId=cat20019" target="">Kids’ Clothing &amp; Apparel</a></li>
+				<li><a href="/store/results/index.jsp?pageTitle=Apparel&amp;N=5202588&amp;Ns=P_DaysOld&amp;categoryId=cat20019" target="">Kids’ Clothing &amp; Apparel</a></li>
 					<li><a href="/store/results/index.jsp?N=5202589&amp;pageTitle=Apparel&amp;categoryId=cat301435" class="sub">Jackets</a></li>
 						<li><a href="/store/results/index.jsp?N=5202590&amp;pageTitle=Apparel&amp;categoryId=cat301437" class="sub">Pants</a></li>
 						<li><a href="/store/results/index.jsp?N=5202591&amp;pageTitle=Apparel&amp;categoryId=cat301439" class="sub">Shorts</a></li>
@@ -402,10 +447,10 @@
 					<li><a href="/store/results/index.jsp?N=5001994&amp;categoryId=cat300496" class="sub">NBA Basketball Apparel</a></li>
 						<li><a href="/store/results/index.jsp?N=5001997&amp;categoryId=cat300536" class="sub">NBA Basketball Hats &amp; Caps</a></li>
 						<li><a href="/store/results/index.jsp?N=5001996&amp;categoryId=cat300534" class="sub">NBA Basketball Jerseys</a></li>
-						<li class="subheader"><a href="/store/results/index.jsp?N=5002006&amp;categoryId=cat20037" target="">NCAA</a></li>
-					<li><a href="/store/results/index.jsp?N=5001979&amp;categoryId=cat300502+cat301192" class="sub">NCAA Apparel</a></li>
-						<li><a href="/store/results/index.jsp?N=5001982&amp;categoryId=cat300528" class="sub">NCAA Hats &amp; Caps</a></li>
-						<li><a href="/store/results/index.jsp?N=5001981&amp;categoryId=cat300526" class="sub">NCAA Jerseys</a></li>
+						<li class="subheader"><a href="/store/results/index.jsp?N=5002006&amp;categoryId=cat20037" target="">College</a></li>
+					<li><a href="/store/results/index.jsp?N=5001979&amp;categoryId=cat300502+cat301192" class="sub">College Apparel</a></li>
+						<li><a href="/store/results/index.jsp?N=5001982&amp;categoryId=cat300528" class="sub">College Hats &amp; Caps</a></li>
+						<li><a href="/store/results/index.jsp?N=5001981&amp;categoryId=cat300526" class="sub">College Jerseys</a></li>
 						</ul>
 			</li>
 			<li class="column col2">
@@ -442,8 +487,9 @@
 		<a href="/store/results/index.jsp?Ne=3000571&amp;N=3000587&amp;categoryId=cat10017"><span>Accessories</span></a>
 		<ul class="subnav">
 			<li><a href="/store/results/index.jsp?N=3000587+3000579&amp;pageTitle=Accessories&amp;categoryId=cat20059">Athletic Equipment</a></li>
-						<li><a href="/store/results/index.jsp?N=3000587+3000578&amp;pageTitle=Accessories&amp;categoryId=ca20057">Athletic Socks</a></li>
-						<li><a href="/store/results/index.jsp?N=3000587+3000572&amp;pageTitle=Accessories&amp;categoryId=cat20045">Gym Bags &amp; Backpacks</a></li>
+						<li><a href="/store/results/index.jsp?N=3000587+3000578&amp;pageTitle=Accessories&amp;Ns=P_DaysOld&amp;categoryId=ca20057">Athletic Socks</a></li>
+						<li><a href="/store/results/index.jsp?N=3000587+3000572&amp;pageTitle=Accessories&amp;Ns=P_DaysOld&amp;categoryId=cat20045">Gym Bags &amp; Backpacks</a></li>
+						<li><a href="/store/results/index.jsp?N=3000587+5202603&amp;pageTitle=Accessories&amp;categoryId=cat20047">Hats &amp; Caps</a></li>
 						<li><a href="/store/results/index.jsp?N=3000587+3000574&amp;pageTitle=Accessories&amp;categoryId=cat20049">Headbands &amp; Sweatbands</a></li>
 						<li><a href="/store/results/index.jsp?N=3000587+3000576&amp;pageTitle=Accessories&amp;categoryId=cat20053">Shoe Care</a></li>
 						<li><a href="/store/results/index.jsp?N=3000587+3000575&amp;pageTitle=Accessories&amp;categoryId=cat20051">Shoe Insoles &amp; Liners</a></li>
@@ -455,22 +501,54 @@
 	<li class="" id="mrd-tab-brands">
 		<a href="/store/results/index.jsp?N=3000588&amp;Ne=3&amp;categoryId=brands"><span>Brands</span></a>
 		<ul class="subnav">
-			<li><a href="/store/shop/nike/_/N-1z141x6/Ne-5Z1sb8cZ1sb8vZ1sb97Z2/Ns-P_SalePrice%7C1?categoryId=catNike&amp;dim=Brand" target="">Nike Shoes &amp; Apparel</a></li>
-			<li><a href="/store/shop/_/N-/Ns-P_SalePrice%7C1/Ntt-jordan" target="">Jordan Shoes &amp; Apparel</a></li>
-			<li><a href="/reebok-shoes-apparel" target="">Reebok Shoes &amp; Apparel</a></li>
-			<li><a href="/store/shop/puma/_/N-1z141x0/Ne-5Z1sb8cZ1sb8vZ1sb97Z2/Ns-P_BestSellers%7C1/Nf-P_SalePercent%7CLTEQ+30?categoryId=cat300414&amp;dim=Brand" target="">Puma Shoes &amp; Apparel</a></li>
-			<li><a href="/store/shop/adidas/_/N-1z141xk/Ne-5Z1sb8cZ1sb8vZ1sb97Z2/Ns-P_BestSellers%7C1/Nf-P_SalePercent%7CLTEQ+30?categoryId=catAdidas" target="">adidas Shoes &amp; Apparel</a></li>
-			<li><a href="/under-armour-shoes-apparel" target="">Under Armour Shoes &amp; Apparel</a></li>
-			<li><a href="/store/shop/polo-ralph-lauren/_/N-1z141w4/Ns-P_BestSellers%7C1/Nf-P_SalePercent%7CLTEQ+30?categoryId=brands" target="">Polo Ralph Lauren Shoes</a></li>
-			<li><a href="/store/shop/timberland/_/N-1z141yi/Ns-P_BestSellers%7C1/Nf-P_SalePercent%7CLTEQ+30?categoryId=brands">Timberland Shoes</a></li>
-			<li><a href="/store/shop/the-north-face-inc/_/N-1z141vr/Ne-5Z1sb8cZ1sb8vZ1sb97Z2/Ns-P_BestSellers%7C1/Nf-P_SalePercent%7CLTEQ+30?dim=Brand" target="">The North Face Shoes &amp; Apparel</a></li>
-			<li><a href="/store/shop/new-balance/_/N-1z141xi/Ne-5Z1sb8cZ1sb8vZ1sb97Z2/Ns-P_BestSellers%7C1/Nf-P_SalePercent%7CLTEQ+30?dim=Brand" target="">New Balance Shoes</a></li>
-			<li><a href="/store/shop/asics/_/N-1z141vu/Ne-5Z1sb8cZ1sb8vZ1sb97Z2/Ns-P_BestSellers%7C1/Nf-P_SalePercent%7CLTEQ+30?dim=Brand" target="">Asics Shoes</a></li>
-			<li><a href="/store/shop/skechers/_/N-1z141uo/Ns-P_BestSellers%7C1/Nf-P_SalePercent%7CLTEQ+30?categoryId=brands">Skechers Shoes</a></li>
-			<li><a href="/store/shop/converse/_/N-1z141y4/Ne-5Z1sb8cZ1sb8vZ1sb97Z2/Ns-P_BestSellers%7C1/Nf-P_SalePercent%7CLTEQ+30?dim=Brand" target="">Converse Shoes</a></li>
-			<li><a href="/store/shop/lacoste/_/N-1z141wm/Ne-5Z1sb8cZ1sb8vZ1sb97Z2/Ns-P_BestSellers%7C1/Nf-P_SalePercent%7CLTEQ+30?dim=Brand" target="">Lacoste Shoes</a></li>
-			<li><a href="/store/shop/creative-recreation/_/N-1z140u3/Ns-P_BestSellers%7C1/Nf-P_SalePercent%7CLTEQ+30?categoryId=brands" target="">Creative Recreation</a></li>
-			<li><a href="/store/shop/brands/_/N-1sb9o/Ne-3/Ns-P_BestSellers%7C1/Nf-P_SalePercent%7CLTEQ+30?categoryId=brands" target="">View All Brands</a></li>
+			<li>
+				<a href="/store/shop/nike/_/N-1z141x6/Ne-5Z1sb8cZ1sb8vZ1sb97Z2/Ns-P_DaysOld?categoryId=catNike&amp;dim=Brand">Nike Shoes &amp; Apparel</a>
+			</li>
+			<li>
+				<a href="/store/shop/_/N-/Ns-P_SalePrice%7C1/Ntt-jordan?icid=Topnav+Brand+Jordan+01-01-13">Jordan Shoes &amp; Apparel</a>
+			</li>
+			<li>
+				<a href="/store/shop/reebok/_/N-1z141xm/Ns-P_DaysOld/Ntk-all/Ntt-REEBOK?icid=Topnav+Brand+Reebok+01-01-13">Reebok Shoes &amp; Apparel</a>
+			</li>
+			<li>
+				<a href="/store/shop/puma/_/N-1z141x0/Ne-5Z1sb8cZ1sb8vZ1sb97Z2/Ns-P_DaysOld/Nf-P_SalePercent%7CLTEQ+30?categoryId=cat300414&amp;dim=Brand">Puma Shoes &amp; Apparel</a>
+			</li>
+			<li>
+				<a href="/store/shop/adidas/_/N-1z141xk/Ne-5Z1sb8cZ1sb8vZ1sb97Z2/Ns-P_BestSellers%7C1/Nf-P_SalePercent%7CLTEQ+30?categoryId=catAdidas">adidas Shoes &amp; Apparel</a>
+			</li>
+			<li>
+				<a href="/under-armour-shoes-apparel">Under Armour Shoes &amp; Apparel</a>
+			</li>
+			<li>
+				<a href="/store/shop/polo-ralph-lauren/_/N-1z141w4/Ns-P_BestSellers%7C1/Nf-P_SalePercent%7CLTEQ+30?categoryId=brands">Polo Ralph Lauren Shoes</a>
+			</li>
+			<li>
+				<a href="/store/shop/timberland/_/N-1z141yi/Ns-P_BestSellers%7C1/Nf-P_SalePercent%7CLTEQ+30?categoryId=brands">Timberland Shoes</a>
+			</li>
+			<li>
+				<a href="/store/shop/the-north-face-inc/_/N-1z141vr/Ne-5Z1sb8cZ1sb8vZ1sb97Z2/Ns-P_BestSellers%7C1/Nf-P_SalePercent%7CLTEQ+30?dim=Brand">The North Face Shoes &amp; Apparel</a>
+			</li>
+			<li>
+				<a href="/store/shop/new-balance/_/N-1z141xi/Ne-5Z1sb8cZ1sb8vZ1sb97Z2/Ns-P_BestSellers%7C1/Nf-P_SalePercent%7CLTEQ+30?dim=Brand">New Balance Shoes</a>
+			</li>
+			<li>
+				<a href="/store/shop/asics/_/N-1z141vu/Ne-5Z1sb8cZ1sb8vZ1sb97Z2/Ns-P_BestSellers%7C1/Nf-P_SalePercent%7CLTEQ+30?dim=Brand">Asics Shoes</a>
+			</li>
+			<li>
+				<a href="/store/shop/skechers/_/N-1z141uo/Ns-P_BestSellers%7C1/Nf-P_SalePercent%7CLTEQ+30?categoryId=brands">Skechers Shoes</a>
+			</li>
+			<li>
+				<a href="/store/shop/converse/_/N-1z141y4/Ne-5Z1sb8cZ1sb8vZ1sb97Z2/Ns-P_BestSellers%7C1/Nf-P_SalePercent%7CLTEQ+30?dim=Brand">Converse Shoes</a>
+			</li>
+			<li>
+				<a href="/store/shop/lacoste/_/N-1z141wm/Ne-5Z1sb8cZ1sb8vZ1sb97Z2/Ns-P_BestSellers%7C1/Nf-P_SalePercent%7CLTEQ+30?dim=Brand">Lacoste Shoes</a>
+			</li>
+			<li>
+				<a href="/store/shop/creative-recreation/_/N-1z140u3/Ns-P_BestSellers%7C1/Nf-P_SalePercent%7CLTEQ+30?categoryId=brands">Creative Recreation</a>
+			</li>
+			<li>
+				<a href="/store/shop/brands/_/N-1sb9o/Ne-3/Ns-P_BestSellers%7C1/Nf-P_SalePercent%7CLTEQ+30?categoryId=brands">View All Brands</a>
+			</li>
 		</ul>
 	</li>
 	<li class="" id="mrd-tab-clearance">
@@ -501,21 +579,20 @@
 		<a href="/store/shop/_/N-/Nf-P_DaysOld%7CLTEQ+7/Ns-P_DaysOld?pageTitle=New+Arrivals"><span>New Arrivals</span></a>
 	</li>
 	<li class="last-child" id="mrd-tab-winnerscircle">
-		<a href="/store/my_account/wc_main.jsp"><span>Winner’s Circle</span></a>
+		<a href="/store/my_account/wc_main.jsp"><span>Winners Circle</span></a>
 	</li>
 </ul>
 	</div>
-								</div>
-						</div>
-					</div> <!-- end #headerWrapper -->
+											</div>
+									</div>
+
+								</div> <!-- /#headerWrapper -->
 
 
-					<div id="main">
-
-
-						<div id="searchWrapper">
-							<div id="search">
-									<div class="subcolumns">
+								<div id="main">
+									<div id="searchWrapper">
+										<div id="search">
+												<div class="subcolumns">
 	<div id="searchBarFormWrapper">
 		<form action="/store/results/index.jsp" method="get" id="searchBarForm">
 			<input type="hidden" name="N" value="0">
@@ -528,32 +605,28 @@
 	</div>
 </div>
 </div>
-							</div>
+										</div><!-- /#searchWrapper -->
+									<div id="bannerWrapper">
+										<div id="banner">
 
-
-
-
-						<div id="bannerWrapper">
-							<div id="banner">
-
-								<style type="text/css">
+											<style type="text/css">
 #bannerWrapper {
    height: 30px;
 }</style>
 <div style="width:976px; height: 30px; display: inline-block;">
-<!-- <a class="popup_dialog" data-dialog="{&quot;title&quot;:&quot;Shipping Details&quot;, &quot;height&quot;:500, &quot;width&quot;:600, &quot;id&quot;:&quot;dialog_privacy_policy&quot;, &quot;load&quot;:&quot;iframe&quot;}" href="/store/global/promos/shipforfree.jsp"> </a> -->	<a class="popup_dialog" data-dialog="{&quot;title&quot;:&quot;Shipping Details&quot;, &quot;height&quot;:500, &quot;width&quot;:600, &quot;id&quot;:&quot;dialog_privacy_policy&quot;, &quot;load&quot;:&quot;iframe&quot;}" href="/store/global/promos/shipforfree.jsp"> <img alt="Free Shipping on thousands of styles" src="/ca/home/A1 Promo/everydayship_red.jpg" style="width: 976px; height: 30px; " title="Shipping Details"> </a></div>
+<!-- <a class="popup_dialog" data-dialog="{&quot;title&quot;:&quot;Shipping Details&quot;, &quot;height&quot;:500, &quot;width&quot;:600, &quot;id&quot;:&quot;dialog_privacy_policy&quot;, &quot;load&quot;:&quot;iframe&quot;}" href="/store/global/promos/shipforfree.jsp"> </a> -->	<a class="popup_dialog" data-dialog="{&quot;title&quot;:&quot;Shipping Details&quot;, &quot;height&quot;:500, &quot;width&quot;:600, &quot;id&quot;:&quot;dialog_privacy_policy&quot;, &quot;load&quot;:&quot;iframe&quot;}" href="/store/global/promos/shipforfree.jsp"> <img alt="Free Shipping on thousands of styles" src="/ca/landing/free_shipping/freeshipping-green.jpg" style="width: 976px; height: 30px; " title="Shipping Details"> </a></div>
 </div>
-						</div>
+									</div><!-- /#bannerWrapper -->
 
-						<div id="col1" class="aside column">
-							<div id="col1_content" class="clearfix columnContent">
+									<div id="col1" class="aside column">
+												<div id="col1_content" class="clearfix columnContent">
+													<div id="auxNavWrapper">
+														<nav id="auxNav">
+															<c:set var="javascriptForHead" scope="request">
+		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+	</c:set>
 
-								<div id="auxNavWrapper">
-													<nav id="auxNav">
-														<!-- This is set in the template files in each page (register.jsp for example) -->
-																<!-- Left nav for this page generated by: /customer_service/fragments/customer_service_nav.jsp -->
-
-																<div class="sideNavTitleBox">
+<div class="sideNavTitleBox">
 	<h1 class="sideNavHeaderText">Customer Care</h1>
 </div>
 <div class="sideNavBoxContainer">
@@ -562,8 +635,9 @@
 				</div>
 <div class="sideNavLinksBox">
 					<ul>
-			<li class="sideNavLargeLink"><a href="/store/storelocator/storelocator.jsp" class="nav_indent">Store Locator</a></li>
-			<li class="sideNavLargeLink"><a href="/store/customer_service/contact_us.jsp" class="av_indent&quot;">Phone / Email</a></li>
+			<li class="sideNavLargeLink"><a href="https://twitter.com/intent/tweet?screen_name=FinishLineHelp" class="twitter-mention normalLink" data-related="FinishLineHelp" data-dnt="true">@FinishLineHelp</a></li>
+			<li class="sideNavLargeLink"><a href="/store/customer_service/contact_us.jsp" class="nav_indent normalLink">Phone / Email</a></li>
+			<li class="sideNavLargeLink"><a href="/store/storelocator/storelocator.jsp" class="nav_indent normalLink">Store Locator</a></li>
 		</ul>
 	</div>
 </div>
@@ -573,6 +647,7 @@
 				</div>
 <div class="sideNavLinksBox">
 					<ul>
+			<li class="sideNavLargeLink"><a href="/store/customer_service/tracking_order.jsp" class="nav_indent">Tracking an Order</a></li>
 			<li class="sideNavLargeLink"><a href="/store/customer_service/faq_index.jsp" class="nav_indent">Index of FAQ's</a></li>
 			<li class="sideNavLargeLink"><a href="/store/customer_service/shopping_online.jsp" class="nav_indent">Shopping Online</a></li>
 			<li class="sideNavLargeLink"><a href="/store/customer_service/making_purchase.jsp" class="nav_indent">Making a Purchase</a></li>
@@ -580,11 +655,10 @@
 			<li class="sideNavLargeLink"><a href="/store/customer_service/promo_info.jsp" class="nav_indent">Promotions</a></li>
 			<li class="sideNavLargeLink"><a href="/store/customer_service/shipping_info.jsp" class="nav_indent">Shipping Information</a></li>
 			<li class="sideNavLargeLink"><a href="/store/customer_service/instore_info.jsp" class="nav_indent">In-Store Pickup Information</a></li>
-			<li class="sideNavLargeLink"><a href="/store/customer_service/tracking_order.jsp" class="nav_indent">Tracking an Order</a></li>
 			<li class="sideNavLargeLink"><a href="/store/customer_service/change_request.jsp" class="nav_indent">Cancel &amp; Change Requests</a></li>
 			<li class="sideNavLargeLink"><a href="/store/customer_service/returning_purchase.jsp" class="nav_indent">Returning a Purchase</a></li>
 			<li class="sideNavLargeLink"><a href="/store/customer_service/security.jsp" class="nav_indent">Security</a></li>
-			<li class="sideNavLargeLink"><a href="/store/customer_service/winners_circle.jsp" class="nav_indent">Winner's Circle</a></li>
+			<li class="sideNavLargeLink"><a href="/store/customer_service/winners_circle.jsp" class="nav_indent">Winners Circle</a></li>
 			<li class="sideNavLargeLink"><a href="/store/customer_service/registering_online.jsp" class="nav_indent">Registering Online</a></li>
 			<li class="sideNavLargeLink"><a href="/store/customer_service/receiving_emails.jsp" class="nav_indent">Receiving Emails</a></li>
 		</ul>
@@ -645,9 +719,9 @@
 
 			//alert(url);
 			//window.location = url;
-			console.info("#fysGoButton href before: " + $findYourShoe.find('.fysGoButton').attr("href"));
+			//console.info("#fysGoButton href before: " + $findYourShoe.find('.fysGoButton').attr("href"));
 			$findYourShoe.find('.fysGoButton').attr('href', url);
-			console.info("#fysGoButton href after: " + $findYourShoe.find('.fysGoButton').attr("href"));
+			//console.info("#fysGoButton href after: " + $findYourShoe.find('.fysGoButton').attr("href"));
 
 			var valToFind = jQuery("#fysGender").val();
 			var sendToTeaLeafGender = (jQuery('#fysGender').find('option[value="' + valToFind + '"]').text().trim() + " (" + valToFind + ")");
@@ -666,7 +740,7 @@
 			FL.setup.findYourShoeEventSent = true;
 
 		}
-		jQuery('#fysGoButtonHomePage').live('click', findYourShoe);
+		jQuery('#fysGoButton').live('click', findYourShoe);
 
 	</script>
 
@@ -701,28 +775,26 @@
 				<option value="">
 					Select Size
 				</option>
-				<option value="4294967268">3.0</option><option value="4294967249">3.5</option><option value="4294967248">4.0</option><option value="4294967247">4.5</option><option value="4294967246">5.0</option><option value="4294967245">5.5</option><option value="4294967252">6.0</option><option value="4294967244">6.5</option><option value="4294967251">7.0</option><option value="4294967256">7.5</option><option value="4294967255">8.0</option><option value="4294967254">8.5</option><option value="4294967250">9.0</option><option value="4294967243">9.5</option><option value="4294967259">10.0</option><option value="4294967241">10.5</option><option value="4294967258">11.0</option><option value="4294967239">11.5</option><option value="4294967253">12.0</option><option value="4294967223">12.5</option><option value="4294967271">13.0</option><option value="4294967237">14.0</option><option value="4294967234">15.0</option><option value="4294967121">16.0</option><option value="4294967120">17.0</option><option value="4294967119">18.0</option></select>
+				<option value="4294967248">4.0</option><option value="4294967246">5.0</option><option value="4294967245">5.5</option><option value="4294967252">6.0</option><option value="4294967244">6.5</option><option value="4294967251">7.0</option><option value="4294967256">7.5</option><option value="4294967255">8.0</option><option value="4294967254">8.5</option><option value="4294967250">9.0</option><option value="4294967243">9.5</option><option value="4294967259">10.0</option><option value="4294967241">10.5</option><option value="4294967258">11.0</option><option value="4294967239">11.5</option><option value="4294967253">12.0</option><option value="4294967223">12.5</option><option value="4294967271">13.0</option><option value="4294967270">13.5</option><option value="4294967237">14.0</option><option value="4294967234">15.0</option><option value="4294967121">16.0</option><option value="4294967120">17.0</option><option value="4294967119">18.0</option></select>
 			<select name="brand" id="fysBrand">
 				<option value="">
 					Select Brand
 				</option>
-				<option value="4294967099">5th And Ocean Clothing</option><option value="4294967240">adidas</option><option value="4294967042">adidas Accessories</option><option value="4294965186">Ah By Android Homme</option><option value="4294965103">American Needle Inc</option><option value="4294967112">And 1</option><option value="4294967178">Asics</option><option value="4294967192">Brooks</option><option value="4294966825">Cadillac Footwear</option><option value="4294967132">Casio</option><option value="4294965112">Champion Custom Products</option><option value="4294965585">Clinch Gear</option><option value="4294967134">Colosseum</option><option value="4294965683">Coloud</option><option value="4294967147">Columbia</option><option value="4294967260">Converse</option><option value="4294967200">Cowboys Merchandising</option><option value="4294965819">Creative Recreation</option><option value="4294967052">Dr. Martens</option><option value="4294965099">Dynasty</option><option value="4294965538">Eddie Bauer / Eastman</option><option value="4294965554">Ellesse Usa, Inc</option><option value="4294965196">Feetures</option><option value="4294967161">Fila</option><option value="4294967208">Finish Line</option><option value="4294965710">Finish Line</option><option value="4294967197">Finl365</option><option value="4294967235">For Bare Feet</option><option value="4294961982">G-star</option><option value="4294965680">Garmin</option><option value="4294967230">Gift Cards</option><option value="4294967199">Gift Cards/donations</option><option value="4294965066">Gorilla Usa</option><option value="4294967190">Heelys</option><option value="4294965134">Hello Kitty</option><option value="4294961991">Homedics</option><option value="4294965126">Ihome</option><option value="4294965832">Inov-8 Llc</option><option value="4294965675">Invicta</option><option value="4294967149">Jansport</option><option value="4294965543">Jordan</option><option value="4294966833">Jump Usa</option><option value="4294967257">K-swiss</option><option value="4294965056">Kangaroos-shane&amp;shawn</option><option value="4294967019">Keds</option><option value="4294965251">Koar</option><option value="4294967206">Lacoste</option><option value="4294966828">Levi's Footwear</option><option value="4294967201">Lugz</option><option value="4294967176">Majestic</option><option value="4294965165">Marvel</option><option value="4294967166">Merrell</option><option value="4294965540">Mission Skincare</option><option value="4294967169">Mizuno</option><option value="4294965712">Moving Comfort Inc</option><option value="4294967238">New Balance</option><option value="4294967219">New Era</option><option value="4294967177">New Ride</option><option value="4294967226">Nike</option><option value="4294966007">Nike Accessories</option><option value="4294965128">Nike Hs</option><option value="4294966846">Nike Infant</option><option value="4294967221">Nike Team Sports</option><option value="4294965068">Nike Team Youth</option><option value="4294967232">Oakley</option><option value="4294967164">Palladium</option><option value="4294967150">Pastry</option><option value="4294967160">Pf Flyers</option><option value="4294966848">Phiten</option><option value="4294967039">Polar</option><option value="4294965101">Polo Kids</option><option value="4294967188">Polo Ralph Lauren</option><option value="4294967049">Polo Ralph Lauren Kids'</option><option value="4294967032">Power Balance</option><option value="4294967071">Press Box</option><option value="4294967220">Puma</option><option value="4294965537">Recon</option><option value="4294967242">Reebok</option><option value="4294967267">Reebok Onfield</option><option value="4294967124">Rocawear</option><option value="4294965556">Rock &amp; Candy By Zigi Ny</option><option value="4294967075">Rocket Dog</option><option value="4294967020">Rumbatime</option><option value="4294967018">Ryka</option><option value="4294967157">Salomon</option><option value="4294967159">Sanuk</option><option value="4294967168">Saucony</option><option value="4294966841">Saucony Kids</option><option value="4294967136">Skechers</option><option value="4294965541">Sms Audio</option><option value="4294967263">Sof Sole</option><option value="4294965243">Spalding</option><option value="4294965166">Sperry</option><option value="4294966845">Sperry Kids</option><option value="4294967073">Step Ahead</option><option value="4294965204">Sugar</option><option value="4294967209">T-shirt International Inc</option><option value="4294967175">The North Face Inc</option><option value="4294967274">Timberland</option><option value="4294967205">Top Of The World</option><option value="4294965825">Topline</option><option value="4294965822">Twin</option><option value="4294967222">Under Armour</option><option value="4294967036">Under Armour Performance Eyewear</option><option value="4294967180">Under Armour Socks</option><option value="4294967183">Under Armour Team Gear</option><option value="4294967044">Vlado</option><option value="4294965678">Warrior Sports Inc</option><option value="4294965708">Yurbuds</option><option value="4294965835">Zephyr</option></select>
-
+				<option value="4294967240">adidas</option><option value="4294965186">Ah By Android Homme</option><option value="4294967112">And 1</option><option value="4294967178">Asics</option><option value="4294967192">Brooks</option><option value="4294966825">Cadillac Footwear</option><option value="4294967132">Casio</option><option value="4294965821">Champion</option><option value="4294965683">Coloud</option><option value="4294967260">Converse</option><option value="4294965819">Creative Recreation</option><option value="4294965099">Dynasty</option><option value="4294965538">Eddie Bauer / Eastman</option><option value="4294961868">Ektio</option><option value="4294965196">Feetures</option><option value="4294967161">Fila</option><option value="4294967208">Finish Line</option><option value="4294965710">Finish Line</option><option value="4294967197">Finl365</option><option value="4294967235">For Bare Feet</option><option value="4294961982">G-star</option><option value="4294965680">Garmin</option><option value="4294967199">Gift Cards/donations</option><option value="4294965066">Gorilla Usa</option><option value="4294961867">Heaton</option><option value="4294965134">Hello Kitty</option><option value="4294961991">Homedics</option><option value="4294965126">Ihome</option><option value="4294965832">Inov-8 Llc</option><option value="4294965675">Invicta</option><option value="4294967149">Jansport</option><option value="4294965543">Jordan</option><option value="4294966833">Jump Usa</option><option value="4294967257">K-swiss</option><option value="4294965056">Kangaroos-shane&amp;shawn</option><option value="4294967019">Keds</option><option value="4294966165">Klone Lab</option><option value="4294967206">Lacoste</option><option value="4294966828">Levi's Footwear</option><option value="4294961851">Look See</option><option value="4294967201">Lugz</option><option value="4294967198">Majestic</option><option value="4294965165">Marvel</option><option value="4294965540">Mission Skincare</option><option value="4294967169">Mizuno</option><option value="4294965712">Moving Comfort Inc</option><option value="4294967238">New Balance</option><option value="4294967219">New Era</option><option value="4294967177">New Ride</option><option value="4294967226">Nike</option><option value="4294967232">Oakley</option><option value="4294967164">Palladium</option><option value="4294967150">Pastry</option><option value="4294967160">Pf Flyers</option><option value="4294966848">Phiten</option><option value="4294967039">Polar</option><option value="4294967188">Polo Ralph Lauren</option><option value="4294967032">Power Balance</option><option value="4294967071">Press Box</option><option value="4294967220">Puma</option><option value="4294961846">Randa</option><option value="4294965537">Recon</option><option value="4294967242">Reebok</option><option value="4294967124">Rocawear</option><option value="4294967020">Rumbatime</option><option value="4294967018">Ryka</option><option value="4294967159">Sanuk</option><option value="4294967168">Saucony</option><option value="4294967136">Skechers</option><option value="4294965541">Sms Audio</option><option value="4294967263">Sof Sole</option><option value="4294967211">Sperry</option><option value="4294966028">Sportiqe</option><option value="4294965204">Sugar</option><option value="4294967209">T-shirt International Inc</option><option value="4294967175">The North Face Inc</option><option value="4294967274">Timberland</option><option value="4294967205">Top Of The World</option><option value="4294965822">Twin</option><option value="4294967222">Under Armour</option><option value="4294961921">Unk</option><option value="4294967044">Vlado</option><option value="4294965708">Yurbuds</option><option value="4294965835">Zephyr</option></select>
 
 			<div class="buttonWrapper">
-						<a href="http://www.finishline.com/store/results/index.jsp" id="fysGoButton" class="button ui-state-default ui-corner-all ui-priority-secondary goButton fysGoButton">Go</a>
-					</div>
-					
-				</div>
-	</div>
-</nav>
-												</div>
-											</div>
-						</div>
+				<a href="http://www.finishline.com/store/results/index.jsp" id="fysGoButton" class="button ui-state-default ui-corner-all ui-priority-secondary goButton fysGoButton">Go</a>
+			</div>
 
-						<div id="col3" class="section column">
-						<div id="col3_content" class="clearfix columnContent">
-								<div id="main_spacer">
+		</div> 
+	</div> 
+</nav>
+													</div>
+												</div>
+											</div><!-- /#col1 -->
+										<div id="col3" class="section column">
+										<div id="col3_content" class="clearfix columnContent">
+											<div id="main_spacer">
 
 
 <div class="main_subheader">Last Updated: June 25, 2008</div><p></p>
@@ -762,7 +834,7 @@
 	<li><span class="main_subheader">Purchase our products.</span> When you purchase products from us through the Site or any of our store kiosks, we will collect personally identifiable information about you such as your name, mailing address, e-mail address, telephone number, mobile phone number, and credit card number. We use this information to process and communicate with you about your order. When you purchase a product through the Site or one of our store kiosks, you may also choose whether you want us to send you information about our products, services, special promotions or incentives.</li> 
 	<li><span class="main_subheader">Volunteer information.</span> In order to provide you with a better and more personalized service as well as to keep you updated on our and third parties' products and services, we may collect other personally identifiable information that you voluntarily provide us such as information about your personal preferences, survey responses, details on your transactions and interactions with us.</li>
 	<li><span class="main_subheader">Create an account.</span> You have the option to create an account with us on the Site. When you create an account, we collect personally identifiable information such as your name, mailing address, telephone number, mobile number, email address and date of birth. We use this information to manage your account and customize and enhance your online shopping experience. For example, when you create an account on the Site, you will be able to create and maintain a Wish List of items that can be shared with your family and friends, use our "express checkout" feature, and view your entire order history. You may also choose whether you want us to send you information about our products, services, special promotions or incentives. You may choose not to create an account or not to provide us with certain information, but then you might not be able to take advantage of many of the features on the Site.</li> 
-	<li><span class="main_subheader">Join our Winner's Circle.</span> You have the option to join our Winner's Circle program, either on the Site or in our stores (including through our store kiosks), which provides you with rewards for shopping at Finish Line. To join the Winner's Circle, you will be required to provide personally identifiable information such as your name, telephone number, mailing address, and email address. We will also maintain a record of your purchases. We will use this information to manage and communicate with you about your Winner's Circle account. When you sign up for the Winner's Circle, you may also choose whether you want us to let you know about our products, services, special promotions or incentives.</li>
+	<li><span class="main_subheader">Join our Winners Circle.</span> You have the option to join our Winners Circle program, either on the Site or in our stores (including through our store kiosks), which provides you with rewards for shopping at Finish Line. To join the Winners Circle, you will be required to provide personally identifiable information such as your name, telephone number, mailing address, and email address. We will also maintain a record of your purchases. We will use this information to manage and communicate with you about your Winners Circle account. When you sign up for the Winners Circle, you may also choose whether you want us to let you know about our products, services, special promotions or incentives.</li>
 	<li><span class="main_subheader">Opt-in for Mobile Marketing.</span> You may have the option to participate in our mobile marketing program by consenting to communication on your mobile phone or device. If you provide such consent, your mobile number will only be used to communicate information about products, services, sweepstakes, special promotions, incentives, and refunds. If you register for mobile marketing, you will receive special offers, unless you have requested otherwise at the time of registration or as set forth below.</li>
 	<li><span class="main_subheader">Request a catalog and/or email announcements.</span>You may request that we provide you with email announcements and/or our catalog by signing up on the Site or in our stores (including through our store kiosks). In order to fulfill your request, we will collect your name, mailing address, mobile number, and/or your email address.</li>
 	<li><span class="main_subheader">Complete a survey or product review.</span> On occasion, we may request that you complete a survey. Your participation in any survey is completely voluntary. If you complete a survey, we will use the information you provide to help us enhance our stores, the Site, and the products and services we offer. You may also wish to provide us with a review of a product you have purchased. If you provide us with a review, we will use the information to improve the products we offer and we may elect to anonymously post the review to assist other customers with their purchase decisions.</li> 
@@ -855,19 +927,27 @@ We may share your information with third parties in the following circumstances:
 <p></p>
 
 </div>
-<!-- javascriptForHead -->
-								</div>
-						</div>
-					</div>
+</div><!-- /#col3_content -->
+									</div><!-- /#col3 -->
 
 
 
-					<!-- begin: #footer -->
-					<div id="footer">
-								<div id="footerLinksPrimaryWrapper" class="nav">
+								</div><!-- /.main -->
+
+
+
+								<div id="footer">
+											<div id="footerLinksPrimaryWrapper" class="nav">
 		<div id="footerLinksPrimary">
-			<ul style="margin-left:0px;">
-					<li><a href="/store/customer_service/contact_us.jsp">Customer Care</a></li>
+			<ul style="float: left; margin: -4px 0 0 165px; position: absolute">
+					<p style="float: left; margin: 5px -5px 0 0">Connect</p>
+					<li><a style="border-right: none; margin-right: -33px" href="https://www.facebook.com/finishline"><img src="/media/images/footer/social/social_icon_Facebook.png" alt="Facebook"></a></li>
+					<li><a style="border-right: none; margin-right: -33px" href="https://twitter.com/finishline"><img src="/media/images/footer/social/social_icon_Twitter.png" alt="Twitter"></a></li>
+					<li><a style="border-right: none; margin-right: -33px" href="http://pinterest.com/finishlineusa/"><img src="/media/images/footer/social/social_icon_pinterest.png" alt="Pinterest"></a></li>
+					<li><a style="border-right: none" href="https://plus.google.com/+finishline/"><img src="/media/images/footer/social/social_icon_Gplus.png" alt="Google Plus"></a></li>
+				</ul>
+				<ul style="margin-left: 205px;">
+					<li><a style="border-left: 1px dotted #a0a0a0; padding-left: 15px" href="/store/customer_service/contact_us.jsp">Customer Care</a></li>
 					<li><a href="/store/corporate_info/employment.jsp">Careers</a></li>
 					<li><a href="/store/corporate_info/ourcompany.jsp">Our Company</a></li>
 					<li class="last-child"><a href="/store/youthfoundation/youthfoundation.jsp">Youth Foundation</a></li>
@@ -884,24 +964,24 @@ We may share your information with third parties in the following circumstances:
 					<li><a href="/store/corporate_info/terms.jsp">Terms of Use</a></li>
 					<li><a href="http://cli.linksynergy.com/cli/publisher/programs/advertiser_detail.php?oid=265726&amp;mid=37731&amp;offerNid=1&amp;controls=1:1:0:1:1:0">Affiliate Program</a></li>
 					<li><a href="/store/global/site_map.jsp">Site Map</a></li>
-					<li class="last-li copyright">© 2012 The Finish Line, Inc.</li>
+					<li class="last-li copyright">© 2013 The Finish Line, Inc.</li>
 				</ul>
 			</div>
 		</div>
 	</div>
 
 
-</div>
-						</div>
-			</div>
-		</div>
-		</div>
-		</div>
-		</div>
+</div><!-- /#footer -->
+									</div><!-- /.page -->
+						</div><!-- /.page_borders -->
+					</div><!-- /.page_margins -->
+				</div><!-- /.wall-tile-3 -->
+			</div><!-- /.wall-tile-2 -->
+		</div><!-- /.wall-tile-1 -->
 
 		<!-- 
-<link rel="stylesheet" type="text/css" href="/store/global/css/popup-style.css;jsessionid=804BAD46E2FFEFDDF18B576957F24BDC.FLP10306" />
-<link rel="stylesheet" type="text/css" href="/store/global/css/subModal.css;jsessionid=804BAD46E2FFEFDDF18B576957F24BDC.FLP10306" />
+<link rel="stylesheet" type="text/css" href="/store/global/css/popup-style.css" />
+<link rel="stylesheet" type="text/css" href="/store/global/css/subModal.css" />
 -->
 
 <div id="popupMask" onclick="maskClicked();">&nbsp;</div>
@@ -914,281 +994,54 @@ We may share your information with third parties in the following circumstances:
 		<div id="popupFrameHolder"></div>
 	</div>
 </div>
-<!-- full/9xxx -->
-				<script src="/store/assets/scripts/min/omega.min.js"></script>
-
-				<script src="/store/assets/scripts/min/80xx.pixels.min.js"></script>
-				<!-- Resonance code resxclsa.js v3.x Copyright 2004-2011 Certona Corporation www.certona.com -->
-	<script>
-		FL.recommendations.init({
-		host: 'res-x.com'
-			, top2: '100000'
-			, top1: '100000'
-			, appid: 'finishline01'
-			, customerid: '1427929611'
-			
-		});
-
-		var resx = new Object();
-
-		jQuery.each(FL.recommendations.postVars, function(key, value) {
-			//console.info("key; // " + key);
-			//console.info("value; // " + value);
-
-			resx[key] = value;
-
-		});
-
-		//console.dir(resx);
+<!-- scripts.omega -->
 
 
 
-	</script>
-	<!-- Resonance -->
-	<script type="text/javascript" src="/store/assets/scripts/certona/resxclsa.js">
-	</script>
-
-<!--[if lte IE 8]>
-			<script type="text/javascript" src="/store/assets/scripts/patches/if.lte.ie8.adds-first-and-last-child-classes.js"></script>
-			<script type="text/javascript" src="/store/assets/scripts/patches/if.lte.ie8.adds-depth-under-nav-bar.js"></script>
-		<![endif]-->
-		<!-- SiteCatalyst code version: H.15.1.
-			Copyright 1997-2008 Omniture, Inc. More info available at
-			http://www.omniture.com -->
-			<script src="/store/global/omniture/s_code_prod.js"></script>
-			<script type="text/javascript">
-				function invokeOmniEvent(productId) {
-					s.eVar49=productId;
-					var s_code=s.t();if(s_code)document.write(s_code)
-				}
-				</script>
-			<script language="JavaScript" type="text/javascript"><!--
-			/* You may give each page an identifying name, server, and channel on
-			the next lines. */
-			s.pageName="FAQ: Privacy Policy"
-			s.server="www.finishline.com"
-			s.channel="Customer Service"
-			s.pageType=""
-			s.prop1="FAQ: Privacy Policy"
-			s.prop2="FAQ: Privacy Policy"
-			s.prop3="Content Page"
-			s.prop4=""
-			s.prop5=""
-			s.prop13=""
-			/* Conversion Variables */
-			s.campaign=""
-			s.state=""
-			s.zip=""
-			s.events=""
-			s.products=""
-			s.purchaseID=""
-			s.transactionID=""
-			s.eVar1=""
-			s.eVar2=""
-			s.eVar3=""
-			s.eVar4=""
-			s.eVar5=""
-			s.eVar6=""
-			s.eVar24=""
-			s.eVar25=""
-			s.eVar26=""
-			s.eVar28=""
-			s.eVar29=""
-			s.eVar30=""
-			s.eVar31=""
-			s.eVar32=""
-			s.eVar36=""
-
-			/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-			var s_code=s.t();if(s_code)document.write(s_code)//--></script>
-			<script language="JavaScript" type="text/javascript"><!--
-			if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-			//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
-			src="http://finishlinedev.112.2o7.net/b/ss/finishlinedev/1/H.15.1--NS/0"
-			height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
-			<!-- End SiteCatalyst code version: H.15.1. -->
+	<!-- omega -->
+	<script src="/store/assets/scripts/min/040aa5731648d093e1eaa4cf9dda8fbc.omega.min.js"></script>
+				<!-- dynamic cart info -->
 		<script>
-				FL.DynamicCart.pageLoadInfo = {"closenessQualifier":"You can earn 0 Winner's Circle points with this order!  Select Winner's Circle on Checkout.","totals":{"subtotal":"$0.00","totalQuantity":0},"products":[]};
+			FL.DynamicCart.pageLoadInfo = {"closenessQualifier":"You can earn 0 Winners Circle points with this order!  Select Winners Circle on Checkout.","totals":{"subtotal":"$0.00","totalQuantity":0},"products":[]};
 		</script>
-		<script>
-
-
-		// console.log("$('body').hasClass('globalTimer') && $('body').hasClass('bts')", $('body').hasClass('globalTimer') && $('body').hasClass('bts'));
-
-			function omnitureSceneView(sceneID) {
-				var s = s_gi(s_account);
-				 s.linkTrackVars="prop31,eVar33,events"; 
-				 s.linkTrackEvents="event100";
-				 s.prop31="bts:scene view: " + sceneID; s.eVar1="bts:scene view: " + sceneID; s.events="event100";
-				 s.tl(this,'o','bts:scene view: ' + sceneID);
-			}
-			function omnitureBrandView(brandID) {
-				var s = s_gi(s_account);
-				 s.linkTrackVars="prop31,eVar33,events"; 
-				 s.linkTrackEvents="event100";
-				 s.prop31="bts:brand view: " + brandID; s.eVar1="bts:brand view: " + brandID; s.events="event100";
-				 s.tl(this,'o','bts:brand view: ' + brandID);
-			}
-			function omnitureProductView(productID) {
-				var s = s_gi(s_account);
-				 s.linkTrackVars="prop31,eVar33,events"; 
-				 s.linkTrackEvents="event100";
-				 s.prop31="bts:product view: " + productID; s.eVar1="bts:product view: " + productID; s.events="event100";
-				 s.tl(this,'o','bts:product view: ' + productID);
-			}
-
-			function omnitureLookView(lookID) {
-				var s = s_gi(s_account);
-				 s.linkTrackVars="prop31,eVar33,events"; 
-				 s.linkTrackEvents="event100";
-				 s.prop31="bts:look view: " + lookID; s.eVar1="bts:look view: " + lookID; s.events="event100";
-				 s.tl(this,'o','bts:look view: ' + lookID);
-			}
-
-
-
-		if($('body').hasClass('globalTimer') && $('body').hasClass('backtoschool')) {
-
-			var href = window.location.href, targs = [ 'adidas', 'new-balance', 'nike', 'reebok', 'under-armour', 'runtheshow', 'runtheshow-look-1', 'runtheshow-look-2', 'fastfoodrun', 'fastfoodrun-look-1', 'fastfoodrun-look-2', 'runtoclass', 'runtoclass-look-1', 'runtoclass-look-2', 'eatandrun', 'eatandrun-look-1', 'eatandrun-look-2', 'runrampant', 'runrampant-look-1', 'runrampant-look-2', 'testrun', 'testrun-look-1', 'testrun-look-2' ], i;
-		 	FL.hash = window.location.hash;
-
-
-			FL.hashy = function(){
-				// console.log("FL.hashy running...");
-				if (FL.hash.length != 0) {
-					// console.log("FL.hash", FL.hash);
-					for (i = 0; i < targs.length; i++) {
-						// console.log("targs[i]", targs[i]);
-						// console.log("FL.hash.indexOf('#" + targs[i] + "')", FL.hash.indexOf('#' + targs[i]));
-						// console.log($("data-id='" + targs[i] + "'.item"));
-
-						if (FL.hash == '#' + targs[i]) {
-							// console.log("$('[data-id=\"' + targs[i] + '\"].item')", $('[data-id="' + targs[i] + '"].item'));
-							$('[data-id="' + targs[i] + '"].item').trigger('click');
-
-							FL.globalTimer.callbackFunctionRemove("FL.hashy");
-							FL.globalTimer.callbackFunctionAdd("FL.replaceImagesForBTS");
-							break;
-						}
-					}
-					// window.location.hash = "";
-					FL.globalTimer.callbackFunctionRemove("FL.hashy");
-
-				 }
-
-
-
-				
-			};
-
-			FL.replaceImagesForBTS = function(){
-
-				if($('.row.columns-3 ul.products li.product>a.product-link:not(".replaced")').length > 0){
-					$('.row.columns-3 ul.products li.product>a.product-link:not(".replaced")').each(function(index, domElem) {
-					    // console.log($(this).data('id'));
-					    // console.log("$this", $(this));
-					    var productID = $(domElem).data('id');
-					    var thisProduct = $(domElem);
-					    var thisProductImg = $(domElem).find('img');
-
-
-						$.ajax({
-							url: '/store/api/product/?id=' + productID,
-							success: function(data) {
-								if( $(thisProduct).hasClass('replaced')) {
-									// console.log("already replaced");
-								}
-							    $(thisProduct).css({"background-image": "url(" + data.attributes.images.large + ")", "display": "block", "width": "254px", "height": "254px"}).addClass("replaced");
-								// thisProductImg.attr('src', data.attributes.images.large);
-								thisProductImg.fadeOut().remove();
-							}
-						});
-
-
-					});
-					window.setTimeout(FL.globalTimer.callbackFunctionRemove("FL.replaceImagesForBTS"), 8500);
-
-				} else {
-					// console.log("no need to replace");
-					FL.globalTimer.callbackFunctionRemove("FL.replaceImagesForBTS");
-				}
-
-			};
-
-			$(document).ready(function() {
-				FL.globalTimer.init();
-
-				$("body").delegate("a.product-link", "click", function(event) {
-					// $(this).data('id');
-					// console.log("$(this).data('id')", $(this).data('id'));
-				  	omnitureProductView($(this).data('id'));
-				  	// console.log("s", s);
-				  
-				});
-
-				$("body").delegate("#bts .brands .header .nav ul li.item", "mouseup", function(event) {
-					// $(this).data('id');
-					// console.log("$(this).data('id')", $(this).data('id'));
-					FL.globalTimer.callbackFunctionAdd("FL.replaceImagesForBTS");
-
-				  	omnitureBrandView( $(this).data('id'));
-				  
-				});
-
-				$("body").delegate("#bts .scenes .nav ul li.item", "mousedown", function(event) {
-					// $(this).data('id');
-					// console.log("$(this).data('id')", $(this).data('id'));
-				  	omnitureSceneView($(this).data('id'));
-				  	// console.log("s", s);
-				  
-				});
-
-				$("body").delegate("#bts .look-cta", "mousedown", function(event) {
-					// $(this).data('id');
-					// console.log("$(this).data('id')", $(this).data('id'));
-				  	omnitureLookView($(this).data('id'));
-				  	// console.log("s", s);
-				  
-				});
-
-				$('body').ajaxComplete(function(e, xhr, settings) {
-				  if (settings.url == '/store/global/promos/back-to-school/json/brands.json') {
-				    // console.log('Triggered ajaxComplete handler. The xhr is ', xhr);
-				    // console.log('Triggered ajaxComplete handler. The settings is ', settings);
-					window.setTimeout(function(){
-						FL.globalTimer.callbackFunctionAdd("FL.hashy");
-					}, 1500);
-				  }
-				});
-			});
-
-
-		}
-
-
-		</script>
-	<!-- CLEARSALEING MAIN INCLUDE START -->
-<script type="text/javascript" src="//dsa.csdata1.com/data/js/5209267/csgather.js"></script><!-- CLEARSALEING MAIN INCLUDE END --><!-- BEGIN: Google Trusted Store -->
-<script type="text/javascript">
-  var gts = gts || [];
-
-  gts.push([ 'id', '10874']);
-  
-			gts.push([ 'google_base_offer_id', '']);
-		
-  gts.push([ 'google_base_subaccount_id', '10874']);
-
-  (function() {
-    var scheme = (("https:" == document.location.protocol) ? "https://" : "http://");
-
-    var gtscript = document.createElement('script'); gtscript.type = 'text/javascript'; gtscript.async = true;
-    gtscript.src = scheme + "www.googlecommerce.com/trustedstores/gtmp_compiled.js";
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(gtscript, s);
-  })();
+	<!-- pixelsmain -->
+	<script src="/store/assets/scripts/min/1709515bf9fcbe1ec102831192480143.pixelsmain.min.js"></script>
+				<!-- HiConversion e-Optimizer : According to the HiConversion doc, the following script must be added to the content directly before the closing body tag -->
+<script id="hiconversion_body_script" type="text/javascript">
+    function hiconversion_body_run(arg) {
+        var then = new Date();
+        var diff = then - arg.ran;
+        if (diff < arg.wait) {
+            if (typeof hiconversion_body_update == "function") {
+                hiconversion_body_update({async: true, pass: arg.pass, ran: arg.ran, then: then });
+            } else {
+                arg.pass = arg.pass + 1;
+                setTimeout(function() { hiconversion_body_run(arg); }, 100);
+            }
+        }
+    }
+    hiconversion_body_run({ async: true, pass: 0, ran: new Date(), wait: 30000 });
 </script>
-<!-- END: Google Trusted Store -->
+<!-- pixelManager -->
+		<!-- CLEARSALEING MAIN INCLUDE START -->
+	<script type="text/javascript" src="//dsa.csdata1.com/data/js/5209267/csgather.js"></script><!-- CLEARSALEING MAIN INCLUDE END -->
+<!-- BEGIN: Google Trusted Store -->
+	<script type="text/javascript">
+	var gts = gts || [];
 
+	gts.push([ 'id', '10874']);
+	gts.push([ 'google_base_offer_id', '']);
+	gts.push([ 'google_base_subaccount_id', '10874']);
 
+	(function() {
+	  var scheme = (("https:" == document.location.protocol) ? "https://" : "http://");
+
+	  var gtscript = document.createElement('script'); gtscript.type = 'text/javascript'; gtscript.async = true;
+	  gtscript.src = scheme + "www.googlecommerce.com/trustedstores/gtmp_compiled.js";
+	  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(gtscript, s);
+	})();
+	</script>
+	<!-- END: Google Trusted Store -->
 <!-- CHANNEL ADVISOR | BEGIN -->
 <script language="JavaScript">
 	<!--
@@ -1226,22 +1079,174 @@ We may share your information with third parties in the following circumstances:
 
 	<script src="http://tr.smarterremarketer.net/finishline/finishline.js" type="text/javascript"></script>
 
-<!-- Google Code for Main List -->
-<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<br>
+	<!--
+Tag is populated based one your Merchant Center ID (10874) on date 2012-08-15 -->
+<!-- PLEASE INCLUDE THIS COMMENT ON THE WEB PAGE WITH THE TAG Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories.
+-->
+<script type="text/javascript">
+    var google_tag_params = {
+        prodid:     '', // Must match your Google Merchant Center ID. See sample file
+        pagetype:   '', // See guide for values
+        value:      '' // (optional) can be used to segment lists, optimize bids
+    };
+
+/* FINL-added */
+/**
+ *  Feed was updated to include an item_group_id field which is associated with the
+ *  FINL product ID (e.g. prod123456). This groups together all sizes for a
+ *  particular product. Now, instead of passing the Merchant Center ID for the
+ *  prodid param, we can pass the FINL product ID!
+ */
+    // acquire page and product data
+    var bodyId      = $('body').attr('id')
+        , prodids   = ''
+        ;
+
+    switch (bodyId) {
+        case 'productDetails':
+            google_tag_params.pagetype = 'product';
+            prodids = FL.setup.productId;
+            break;
+
+        case 'cart':
+            google_tag_params.pagetype = 'cart';
+            prodids = [];
+            $('tr select[id*=prod]').each(function() {
+                prodids.push($(this).attr('id'));
+            });
+            if (prodids.length == 1) {
+                prodids = prodids[0];
+            }
+            break;
+
+        case 'confirm':
+            google_tag_params.pagetype = 'purchase';
+            prodids = [];
+            $('tr.product[data-prodid]').each(function() {
+                prodids.push($(this).attr('data-prodid'));
+            });
+            if (prodids.length == 1) {
+                prodids = prodids[0];
+            }
+            break;
+    }
+
+    google_tag_params.prodid = prodids;
+
+    //console.log(google_tag_params);
+/* /FINL-added */
+
+</script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var google_conversion_id = 1071171724;
-var google_conversion_label = "XJtFCIaLrAMQjJHj_gM";
+var google_conversion_label = "CCcFCK6yrgMQjJHj_gM";
 var google_custom_params = window.google_tag_params;
 var google_remarketing_only = true;
 /* ]]> */
 </script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"> </script>
 <noscript>
 <div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1071171724/?value=0&amp;label=XJtFCIaLrAMQjJHj_gM&amp;guid=ON&amp;script=0"/>
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1071171724/?value=0&amp;label=CCcFCK6yrgMQjJHj_gM&amp;guid=ON&amp;script=0"/>
 </div>
 </noscript>
+
+<!-- Resonance code resxclsa.js v3.x Copyright 2004-2011 Certona Corporation www.certona.com -->
+	<script>
+		FL.recommendations.init({
+		host: 'res-x.com'
+			, top2: '100000'
+			, top1: '100000'
+			, appid: 'finishline01'
+			, customerid: '1674660993'
+			
+		});
+
+		var resx = new Object();
+
+		jQuery.each(FL.recommendations.postVars, function(key, value) {
+			//console.info("key; // " + key);
+			//console.info("value; // " + value);
+
+			resx[key] = value;
+
+		});
+
+		//console.dir(resx);
+
+
+
+	</script>
+	<!-- Resonance -->
+	<script type="text/javascript" src="/store/assets/scripts/certona/resxclsa.js">
+	</script>
+
+<!-- omniture_tagger -->
+			<!-- SiteCatalyst code version: H.15.1.
+			Copyright 1997-2008 Omniture, Inc. More info available at
+			http://www.omniture.com -->
+			<script src="/store/global/omniture/s_code_prod.js"></script>
+			<script>
+			function invokeOmniEvent(productId) {
+				s.eVar49 = productId;
+				var s_code=s.t();if(s_code)document.write(s_code)
+			}
+			/* You may give each page an identifying name, server, and channel on
+			the next lines. */
+			s.pageName="FAQ: Privacy Policy"
+			s.server="www.finishline.com"
+			s.channel="Customer Service"
+			s.pageType=""
+			s.prop1="FAQ: Privacy Policy"
+			s.prop2="FAQ: Privacy Policy"
+			s.prop3="Content Page"
+			s.prop4=""
+			s.prop5=""
+			s.prop13=""
+			/* Conversion Variables */
+			s.campaign=""
+			s.state=""
+			s.zip=""
+			s.events=""
+			s.products=""
+			s.purchaseID=""
+			s.transactionID=""
+			s.eVar1=""
+			s.eVar2=""
+			s.eVar3=""
+			s.eVar4=""
+			s.eVar5=""
+			s.eVar6=""
+			s.eVar24=""
+			s.eVar25=""
+			s.eVar26=""
+			s.eVar28=""
+			s.eVar29=""
+			s.eVar30=""
+			s.eVar31=""
+			s.eVar32=""
+			s.eVar36=""
+			s.eVar47=""
+			
+			/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+			
+			var s_code=s.t();if(s_code)document.write(s_code);
+			</script>
+			<script language="JavaScript" type="text/javascript"><!--
+			if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+			//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
+			src="http://finishlinedev.112.2o7.net/b/ss/finishlinedev/1/H.15.1--NS/0"
+			height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
+			<!-- End SiteCatalyst code version: H.15.1. -->
+
+			<!-- /omniture_tagger -->
+		<!--[if lte IE 8]>
+		<script type="text/javascript" src="/store/assets/scripts/patches/if.lte.ie8.adds-depth-under-nav-bar.js"></script>
+	<![endif]-->
+
+	<!-- javascriptForHead -->
+		
 
 </body></html>
