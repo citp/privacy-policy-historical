@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oliverbonas.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230055602id_/http%3A//www.oliverbonas.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oliverbonas.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630215244id_/http%3A//www.oliverbonas.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Oliver Bonas
 
@@ -55,4 +55,4 @@ Unit F Davis Road Industrial Estate
 Davis Road Chessington  
 KT9 1TQ
 
-"The fruits of life fall into the hands of those who climb the tree and pick them."  ~ Earl Tupper 
+"It is not the critic who counts, not the man who points out how the strong man stumbled, or where the doer of deeds could have done better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood….. "  ~ Theodore Roosevelt 
