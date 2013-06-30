@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speedyremedies.com privacy policy that was archived on 2012-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121012074513id_/http%3A//www.speedyremedies.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedyremedies.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630093545id_/http%3A//www.speedyremedies.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Natural Home Remedies
 
@@ -22,7 +22,7 @@ Special Note About Google Advertising
 
 Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to opt out of Google’s cookie usage. As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google’s own privacy policies.
 
-About Google advertising: What is the DoubleClick DART cookie? The DoubleClick DART cookie is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher’s website and either view or click on an ad, a cookie may be dropped on that end user’s browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy/ads/).
+About Google advertising: What is the DoubleClick DART cookie? The DoubleClick DART cookie is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisherâ€™s website and either view or click on an ad, a cookie may be dropped on that end userâ€™s browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy/ads/).
 
 Contact Information  
 Concerns or questions about this privacy policy can be directed to info@speedyremedies.com for further clarification.
