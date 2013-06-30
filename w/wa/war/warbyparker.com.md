@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the warbyparker.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218112432id_/http%3A//www.warbyparker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warbyparker.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630062511id_/http%3A//www.warbyparker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Warby Parker
 
-JAND, Inc., d/b/a Warby Parker, operates the website located at [www.warbyparker.com](https://web.archive.org/web/20121218112432id_/http%3A//www.warbyparker.com/www.warbyparker.com). This Privacy Policy describes the information that we collect through our website and how we use that information. If you have any questions about our Privacy Policy, please contact us at [ help@warbyparker.com](mailto:help@warbyparker.com). Thisf Privacy Policy applies to the services and products offered by Warby Parker, as well as any other applications, content or features that we may from time to time offer on our website.
+JAND, Inc., d/b/a Warby Parker, operates the website located at [www.warbyparker.com](https://web.archive.org/web/20130630062511id_/http%3A//www.warbyparker.com/www.warbyparker.com). This Privacy Policy describes the information that we collect through our website and how we use that information. If you have any questions about our Privacy Policy, please contact us at [ help@warbyparker.com](mailto:help@warbyparker.com). Thisf Privacy Policy applies to the services and products offered by Warby Parker, as well as any other applications, content or features that we may from time to time offer on our website.
 
 ## The Types of Information that We Collect
 
