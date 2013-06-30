@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rgemonitor.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230190234id_/http%3A//www.roubini.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rgemonitor.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630032406id_/http%3A//www.roubini.com/privacy) for the most accurate reproduction.*
 
 # Roubini Global Economics
 
@@ -40,6 +40,10 @@ Your personally identifiable information may be provided to a third party if RGE
 RGE, its partners, and each of their contractors and employees may view the content that you upload to the Service in order to provide the Service and otherwise perform the tasks set forth in this Privacy Policy.
 
 Any information that you may reveal in your User profile, in communication with other Users or in other online discussions or forums is intentionally open to the public and is not in any way private. You should think carefully before publicly disclosing any personally identifiable information. What you have written may be seen and/or collected by third parties and may be used by others in ways we are unable to control or predict.
+
+Advertisers and advertising networks use tracking technologies to collect information about users' computers or mobile devices and their online activities (for example, web pages visited and searches made) as well as general geographic location and use that information to display targeted ads to users. We sometimes allow these ad companies to collect such information when you use our sites.
+
+We allow analytics companies to use tracking technologies to collect information about our users' computers or mobile devices and their online activities. These companies analyze this information to help us understand how our sites and apps are being used.
 
 **
 
