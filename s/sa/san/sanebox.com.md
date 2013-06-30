@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the sanebox.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224212334id_/http%3A//www.sanebox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanebox.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630182234id_/http%3A//www.sanebox.com/privacy) for the most accurate reproduction.*
 
 # SaneBox Privacy Policy
 
 Privacy Policy
 
 of SaneBox
-
-(Thank you [Better Business Bureau](http://www.bbbonline.org/privacy/sample_privacy.asp) for the bulk of this privacy policy.)
 
 This policy describes the ways we collect, store, use and protect your personal information. You accepted this policy when you signed up for our Service. We may amend this policy at any time by posting a revised version on our website. The revised version will be effective at the time we post it. Should a revision prove unacceptable to you, please contact us (see below). We last modified this policy on March 2, 2010.
 
@@ -27,13 +25,15 @@ This notice applies to all information collected or submitted on the SaneBox. Th
 
 The Way We Use Information
 
-We use your email address to communicate with you and to authenticate with 3rd party products integrated with our system. We will never sell or rent your email address or ANY personally identifiable information to another company. 
+We use your email address to communicate with you and to authenticate with 3rd party products integrated with our system. We will never sell or rent your email address or ANY personally identifiable or even aggregated information to another company. 
 
 For diagnostic purposes, our engineers may have access to private data (e.g., to fix a problem with the website). Before gaining such access, however, they must get management approval, and we are committed to maintaining the privacy of that data. Regardless, we will not read the bodies of your email messages (we may have to look at the envelopes (To/From/Subject/Date) as part of our diagnosis, but we ignore the bodies of messages). 
 
-We may use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. 
+We may use non-identifying and aggregate information to better design our website. 
 
 A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's computers and stored on your computer's hard drive. We use cookies in order to track authentication and other session information. These cookies are not shared with other sites (unless we explicitly identify that information is being shared with another site). 
+
+From time to time we may also use Remarketing with Google Analytics to show ads on sites across the Internet to people who have visited our site in the past. SaneBox and third-party vendors, including Google, use cookies to inform, optimize, and serve ads based on someone's past visits to your website. 
 
 Of course, all personally identifiable information gathered can be disclosed to judicial or other government agencies subject to warrants, subpoenas or other governmental orders. But absent a legal compulsion, we have no plans to divulge your information. 
 
@@ -55,9 +55,9 @@ You own the data associated with your account. And, at any time, you can securel
 
 We only access the envelope and header information associated with your emails. The actual bodies of your emails are never downloaded or accessed within our computer systems. 
 
-When you cancel your membership, we not only securely delete all information on our servers associated with your mail account but we also delete any labels or flags we might have created - so not only will we no longer have any of your data on our servers, but also your email will look exactly like it did before you signed up with us 
+When you cancel your membership, we not only securely delete all information on our servers associated with your mail account but we also delete any labels or flags we might have created - so not only will we no longer have any of your data on our servers, but also your email will look exactly like it did before you signed up with us. 
 
-If for any reason, SaneBox, Inc. decides to close SaneBox , all users will be contacted by email and their account information will be securely deleted from our servers in a timely manner. 
+If for any reason, SaneBox, Inc. decides to close SaneBox, all users will be contacted by email and their account information will be securely deleted from our servers in a timely manner. 
 
 And remember that we will only backup meta data - never the actual envelopes so once securely deleted there is no possible place to recover them from. 
 
@@ -71,6 +71,6 @@ SaneBox, Inc.
 211 Newbury Street, Unit #3  
 Boston MA 02116 
 
-or by email at: [support@sanebox.com](mailto:support@sanebox.com)
+or by leaving us a note: [http://support.sanebox.com](http://support.sanebox.com/)
 
 [](http://www.etrust.org/cert/897569.html)
