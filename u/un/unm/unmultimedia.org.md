@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unmultimedia.org privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217184812id_/http%3A//www.unmultimedia.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unmultimedia.org privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630200256id_/http%3A//www.unmultimedia.org/privacy.html) for the most accurate reproduction.*
 
 # United Nations Multimedia, Radio, Photo and Television
 
