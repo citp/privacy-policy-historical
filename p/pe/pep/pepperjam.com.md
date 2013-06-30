@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pepperjam.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014040121id_/http%3A//www.pepperjam.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pepperjam.com privacy policy that was archived on 2013-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130702122711id_/http%3A//www.pepperjam.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PepperJam Exchange
 
@@ -14,11 +14,11 @@ Pepperjam Network does not target, and is not intended to be used by anyone unde
 
 ### The Information We Collect
 
- **Information Given to Us by You**
+**Information Given to Us by You**
 
 To use many of the features offered on Pepperjam Network, you will be required to submit certain personally identifiable information such as your name and email address which will be stored by us. We may also obtain information about you in ways other than those specifically described in this policy including any contact with customer care representatives.
 
- **Automatically Gathered Information**
+**Automatically Gathered Information**
 
 Pepperjam Network, like many other sites, uses “cookies” to obtain information when you access our website. Cookies are small data files that are stored on an Internet user’s computer by a web server. One important use of cookies is to help identify you while you are shopping on our site. The information we collect from cookies and web server logs is used to administer our services and create more of a personalized experience to our users.
 
@@ -28,7 +28,7 @@ Pepperjam Network, certain third parties who host portions of our web site, and 
 
 If you have chosen to receive marketing messages from us about our products and services, we may use information from our log files, cookies or web beacons to help us make those communications more useful or interesting to you.
 
- **Use and Sharing of Information**
+**Use and Sharing of Information**
 
 Information you provide Pepperjam Network is used by us to offer the best user experience possible, communicate with our users, and generally operate the website.
 
