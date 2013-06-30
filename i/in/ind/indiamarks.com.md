@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiamarks.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127094444id_/http%3A//www.indiamarks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiamarks.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630170125id_/http%3A//www.indiamarks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Indiamarks
 
@@ -42,7 +42,7 @@ We use reasonable measures to maintain the security of your Personal Information
 
 Should you have any questions or concerns regarding this Privacy Policy, please contact us:
 
- **Indiamarks.com**  
+**Indiamarks.com**  
 Better, Inc.  
 3418 Maroun Place  
 San Jose, CA 95148  
