@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickinmoms.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218013434id_/http%3A//www.clickinmoms.com/forums/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickinmoms.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630022332id_/http%3A//www.clickinmoms.com/forums/privacypolicy.php) for the most accurate reproduction.*
 
 # Clickin Moms | Digital Photography Forum for Women in Photography - Privacy Policy
 
@@ -24,8 +24,6 @@ How We Use the Collected Information
 The information we collect allows us to keep you apprised about vendor deals, workshop announcements, contest announcements, product announcements, events, opportunities, important notices, and more. It also helps us to improve our products, services, content, and advertising. If you prefer not to be included on our mailing list, you can opt out anytime through the unsubscribe link included in every email.
 
 The information collected is also used for statistical purposes. We may use software programs to create summary statistics, which are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.
-
-p>
 
 The information collected is for statistical purposes. Clickin Moms | Digital Photography Forum for Women in Photography may use software programs to create summary statistics, which are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.
 
