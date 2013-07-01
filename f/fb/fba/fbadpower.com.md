@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fbadpower.com privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420035745id_/http%3A//www.fbadpower.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fbadpower.com privacy policy that was archived on 2013-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130702000158id_/http%3A//www.fbadpower.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
