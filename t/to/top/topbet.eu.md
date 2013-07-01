@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the topbet.eu privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529181839id_/http%3A//topbet.eu/privacy.php%23fm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topbet.eu privacy policy that was archived on 2013-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130701050959id_/http%3A//topbet.eu/privacy.php%23fm) for the most accurate reproduction.*
 
-# Top Bet Help & Customer Support
+# Top Bet Online Betting – Privacy Policy
 
 TopBet and TOPBET.EU are committed to protecting your privacy. The Company uses the information collected about you to track your gaming system account and game play and to provide a more personalized game playing experience. Please read on for more details about TopBet's privacy policy. 
 
