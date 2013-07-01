@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainteasers.com privacy policy that was archived on 2013-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130128102212id_/http%3A//www.brainteasers.com/digimedia_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainteasers.com privacy policy that was archived on 2013-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130701025513id_/http%3A//www.brainteasers.com/digimedia_privacy_policy.html) for the most accurate reproduction.*
 
 # None
 
