@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afford.com privacy policy that was archived on 2013-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130204002515id_/http%3A//www.afford.com/TMS/content/pdf/TMS_Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afford.com privacy policy that was archived on 2013-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130701024331id_/https%3A//www.afford.com/TMS/content/pdf/TMS_Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # FACTS
 
