@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cclassiphosting.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502051141id_/http%3A//www.cclassiphosting.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cclassiphosting.com privacy policy that was archived on 2013-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130702190601id_/http%3A//www.cclassiphosting.com/privacy-policy.html) for the most accurate reproduction.*
 
 # SEO Hosting | Privacy Policy
 
