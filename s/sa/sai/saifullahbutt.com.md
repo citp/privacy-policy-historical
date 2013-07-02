@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saifullahbutt.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512114420id_/http%3A//www.saifullahbutt.com/privacy-policies-saifullahbutt-com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saifullahbutt.com privacy policy that was archived on 2013-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130703002936id_/http%3A//www.saifullahbutt.com/privacy-policies-saifullahbutt-com) for the most accurate reproduction.*
 
 # Privacy policy - Saif Ullah Butt
 
