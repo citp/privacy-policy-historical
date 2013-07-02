@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paraguayexpoonline.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530134528id_/http%3A//paraguayexpoonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paraguayexpoonline.com privacy policy that was archived on 2013-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130702083110id_/http%3A//www.paraguayexpoonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Overview
 
