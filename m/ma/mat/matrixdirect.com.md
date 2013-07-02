@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the matrixdirect.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626004601id_/http%3A//www.matrixdirect.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matrixdirect.com privacy policy that was archived on 2013-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130702065615id_/https%3A//www.matrixdirect.com/privacy-policy) for the most accurate reproduction.*
 
 # AIG Direct Privacy Policy
 
