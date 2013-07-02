@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the witmart.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430122337id_/https%3A//privacy-policy.truste.com/verified-policy/www.witmart.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the witmart.com privacy policy that was archived on 2013-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130702232244id_/https%3A//privacy-policy.truste.com/verified-policy/www.witmart.com) for the most accurate reproduction.*
 
 # Privacy Policy for www.witmart.com
 
 Effective on May 17, 2011 
 
-This privacy statement describes how ZBJ Network Inc collects and uses the personal information you provide on our Web site: [www.witmart.com ](http://www.witmart.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy statement describes how ZBJ Network Inc collects and uses the personal information you provide on our Web site: [www.witmart.com ](https://www.witmart.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 **TRUSTe**
 
