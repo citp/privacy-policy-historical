@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diablomedia.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514010300id_/https%3A//diablomedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diablomedia.com privacy policy that was archived on 2013-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130703002412id_/https%3A//diablomedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • Diablo MediaDiablo Media
 
