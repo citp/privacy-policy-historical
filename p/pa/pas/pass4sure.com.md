@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pass4sure.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619012759id_/http%3A//www.pass4sure.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pass4sure.com privacy policy that was archived on 2013-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130702090642id_/http%3A//www.pass4sure.com/privacy.php) for the most accurate reproduction.*
 
 # Pass4sure Privacy Notice
 
