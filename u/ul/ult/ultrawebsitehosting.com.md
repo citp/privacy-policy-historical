@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultrawebsitehosting.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601080431id_/http%3A//www.ultrawebsitehosting.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultrawebsitehosting.com privacy policy that was archived on 2013-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130702175416id_/http%3A//www.ultrawebsitehosting.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy Statement - Ultra Website Hosting - Flux Services, Inc.
 
@@ -9,7 +9,7 @@ Our postal address is
  **P.O. Box 731724  
 Puyallup, WA 98373**
 
-We can be reached via our [contact page](https://web.archive.org/web/20130601080431id_/http%3A//www.ultrawebsitehosting.com/contact.php).
+We can be reached via our [contact page](https://web.archive.org/web/20130702175416id_/http%3A//www.ultrawebsitehosting.com/contact.php).
 
 For each visitor to our website, our web server automatically recognizes only the consumer's domain name, but not the e-mail address (where needed).
 
