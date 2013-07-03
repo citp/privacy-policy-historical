@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stormpulse.com privacy policy that was archived on 2013-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130310073119id_/http%3A//stormpulse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stormpulse.com privacy policy that was archived on 2013-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130703062506id_/http%3A//stormpulse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Stormpulse
 
