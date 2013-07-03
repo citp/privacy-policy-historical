@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the happyplace.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525024258id_/http%3A//www.happyplace.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happyplace.com privacy policy that was archived on 2013-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130703023958id_/http%3A//www.happyplace.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy | Happy Place
 
