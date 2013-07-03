@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comiclink.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424234202id_/http%3A//www.comiclink.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comiclink.com privacy policy that was archived on 2013-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130703235825id_/http%3A//www.comiclink.com/privacy.asp) for the most accurate reproduction.*
 
 # None
 
