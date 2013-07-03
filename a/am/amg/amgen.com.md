@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amgen.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515233557id_/http%3A//www.amgen.com/careers/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amgen.com privacy policy that was archived on 2013-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130703134329id_/http%3A//www.amgen.com/careers/privacy_statement.html) for the most accurate reproduction.*
 
 # Amgen - Careers - Privacy and Terms
 
