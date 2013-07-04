@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bollytime.info privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619020739id_/http%3A//bollytime.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollytime.info privacy policy that was archived on 2013-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130704063000id_/http%3A//www.bollytime.info/privacy-policy) for the most accurate reproduction.*
 
-# Bolly And Holly News ! – Privacy Policy
+# Bolly And Holly News ! | Privacy Policy
 
 **Privacy Policy For Bollytime Networks Of Sites**
 
