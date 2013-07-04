@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talesbeyondbelief.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601083943id_/http%3A//www.talesbeyondbelief.com/privacy-statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talesbeyondbelief.com privacy policy that was archived on 2013-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130704040549id_/http%3A//www.talesbeyondbelief.com/privacy-statement.htm) for the most accurate reproduction.*
 
 # Privacy Statement ***
 
