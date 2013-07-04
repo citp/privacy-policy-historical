@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the austriaexpoonline.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613131704id_/http%3A//austriaexpoonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the austriaexpoonline.com privacy policy that was archived on 2013-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130704235228id_/http%3A//www.austriaexpoonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Overview
 
