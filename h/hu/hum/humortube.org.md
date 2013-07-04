@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the humortube.org privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602051221id_/http%3A//humortube.org/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humortube.org privacy policy that was archived on 2013-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130704231923id_/http%3A//humortube.org/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - We ll make you Laugh out Loud <3
 
