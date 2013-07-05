@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evesaddiction.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510211208id_/https%3A//www.evesaddiction.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evesaddiction.com privacy policy that was archived on 2013-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130706010048id_/http%3A//www.evesaddiction.com/privacypolicy.html) for the most accurate reproduction.*
 
 # privacypolicy.html
 
@@ -16,7 +16,7 @@ At times, EvesAddiction.com uses web beacons alone or in conjunction with cookie
 
 We may provide you the opportunity to opt-in to additional newsletters or promotional communications sent by email. If you have opted in or otherwise qualify to receive these forms of communication, and no longer wish to receive our newsletter or other promotional communications by email, you may opt-out of receiving them by following the instructions included in each communication.
 
-[](https://web.archive.org/web/20130510211208id_/https%3A//www.evesaddiction.com/google_checkout.html) Eve's Addiction has recently partnered with Google to offer a new purchase option called [Google Checkout](https://web.archive.org/web/20130510211208id_/https%3A//www.evesaddiction.com/google_checkout.html). Privacy information from Google can be viewed [Here](https://checkout.google.com/files/privacy.html).
+[](https://web.archive.org/web/20130706010048id_/http%3A//www.evesaddiction.com/google_checkout.html) Eve's Addiction has recently partnered with Google to offer a new purchase option called [Google Checkout](https://web.archive.org/web/20130706010048id_/http%3A//www.evesaddiction.com/google_checkout.html). Privacy information from Google can be viewed [Here](https://checkout.google.com/files/privacy.html).
 
 How do we protect your information? We encrypt order information for your protection. EvesAddiction.com online store uses industry standard [Secure Sockets Layer (SSL)](http://en.wikipedia.org/wiki/Secure_Sockets_Layer "What is SSL?") encryption on areas of our website where personal information is needed. EvesAddiction.com does not accept email registration, nor contest participation from children under the age of 13 due to the [Children’s Online Privacy Protection Act (COPPA)](https://www.coppa.org/coppa.htm "What is COPPA?"). If you are under the age of 13, you must get parental permission to divulge your email address and order-related information before using this site. Our contests are open to users ages 13 and up, however if a sweepstake or contest winner is under 18 years old, we will require a consent from signed by the winner’s parent or guardian in order to award the prize. Our contests and sweepstakes are subject to all federal, state, and local laws and void where prohibited. 
 
@@ -25,6 +25,6 @@ How do we protect your information? We encrypt order information for your protec
 **EvesAddiction.com uses an Extended Validation SSL Certificate  
 **For your security and confidence, EvesAddiction.com uses [Extended Validation Secure Sockets Layer Certificate](http://en.wikipedia.org/wiki/Extended_Validation_Certificate) for confidence and security when using your credit card online.
 
-If you would like further details about EvesAddiction.com, or would like to contact us please visit our front page at [www.EvesAddiction.com](https://web.archive.org/web/20130510211208id_/https%3A//www.evesaddiction.com/www.eveseddiction.com) or email us at [customerservice@EvesAddiction.com](mailto:customerservice@evesaddiction.com). 
+If you would like further details about EvesAddiction.com, or would like to contact us please visit our front page at [www.EvesAddiction.com](https://web.archive.org/) or email us at [customerservice@EvesAddiction.com](mailto:customerservice@evesaddiction.com). 
 
 We reserve the right, at our sole discretion, to change, modify, or otherwise alter these terms and conditions at anytime. Please review the terms and conditions periodically. Your continued use of the site following the posting of changes and/or modifications will constitute your acceptance of the revised terms and conditions.
