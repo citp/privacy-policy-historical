@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vectorarts.net privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503070105id_/http%3A//www.vectorarts.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vectorarts.net privacy policy that was archived on 2013-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130705193811id_/http%3A//www.vectorarts.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Free Vector Graphics
 
