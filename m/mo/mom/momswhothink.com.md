@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the momswhothink.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425043102id_/http%3A//www.momswhothink.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momswhothink.com privacy policy that was archived on 2013-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130706010531id_/http%3A//www.momswhothink.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+[](http://www.momswhothink.com/privacy-policy/print.html "Print")
 
 **MomsWhoThink.com Privacy Policy**
 
