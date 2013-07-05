@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calottery.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115160902id_/http%3A//www.calottery.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calottery.com privacy policy that was archived on 2013-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130705151758id_/http%3A//www.calottery.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
