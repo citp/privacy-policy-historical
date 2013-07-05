@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcdelivery.com.ph privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116181415id_/http%3A//www.mcdelivery.com.ph/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcdelivery.com.ph privacy policy that was archived on 2013-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130705072957id_/http%3A//mcdelivery.com.ph/privacypolicy) for the most accurate reproduction.*
 
 # mcdelivery.com.ph
 
