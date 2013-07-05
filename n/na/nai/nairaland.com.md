@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nairaland.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604201406id_/http%3A//www.nairaland.com/static/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nairaland.com privacy policy that was archived on 2013-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130706002038id_/http%3A//www.nairaland.com/static/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy: Nairaland, Nairalist, Mobile Nigeria Forums
 
