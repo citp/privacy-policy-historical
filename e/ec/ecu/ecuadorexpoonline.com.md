@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecuadorexpoonline.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525101033id_/http%3A//ecuadorexpoonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecuadorexpoonline.com privacy policy that was archived on 2013-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130705224926id_/http%3A//www.ecuadorexpoonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Overview
 
