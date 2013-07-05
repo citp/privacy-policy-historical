@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photoblip.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515231631id_/http%3A//www.photoblip.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photoblip.com privacy policy that was archived on 2013-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130705165543id_/http%3A//www.photoblip.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for www.photoblip.com
 
