@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the car-card.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116152950id_/http%3A//www.car-card.com/%3Fpage_id%3D1140) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the car-card.com privacy policy that was archived on 2013-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130706202902id_/http%3A//www.car-card.com/%3Fpage_id%3D1140) for the most accurate reproduction.*
 
 # Privacy Policy | Car-Card.com
 
