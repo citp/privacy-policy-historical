@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coloring.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519185301id_/http%3A//www.coloring.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coloring.com privacy policy that was archived on 2013-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130706034038id_/http%3A//www.coloring.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Coloring.com
 
