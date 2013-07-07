@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the9gag.net privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507202749id_/http%3A//the9gag.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the9gag.net privacy policy that was archived on 2013-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130707173504id_/http%3A//the9gag.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The 9Gag
 
