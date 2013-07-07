@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tickld.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622034136id_/http%3A//www.tickld.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tickld.com privacy policy that was archived on 2013-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130707023902id_/http%3A//www.tickld.com/privacy) for the most accurate reproduction.*
 
 # Tickld - Privacy Policy
 
