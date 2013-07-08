@@ -1,87 +1,81 @@
-> *The following text is extracted and transformed from the smartautosavings.com privacy policy that was archived on 2007-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070323234801id_/http%3A//www.smartautosavings.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartautosavings.com privacy policy that was archived on 2013-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130709004932id_/http%3A//www.smartautosavings.com/nav/privacy) for the most accurate reproduction.*
 
-# SmartAutoSavings.com - Privacy Policy
+# Privacy Policy
 
-## SmartAutoSavings Privacy Policy
+### SmartAutoSavings Privacy Statement
 
-  
-**SmartAutoSavings PRIVACY POLICY (this "Policy")  
-Effective Date: 1/26/2007  
-**
+Effective Date: November 15, 2012
 
-This privacy statement covers the website www.SmartAutoSavings.com (the "Site") and is applicable to all information about you ("you") collected through the Site ("information").
+**About SmartAutoSavings**
 
-SmartAutoSavings ("SmartAutoSavings", "we", "us" or "our") discloses the information collection and usage practices applicable to the Site in this Policy. This Policy describes the types of information that SmartAutoSavings gathers from you and the other people who visit the Site (the "Users") and how we may use that information. By providing any information, you agree to our use of that information consistent with this Policy.
+Welcome to SmartAutoSavings.com (the "Site"). Because your privacy is important to us, we provide this statement to explain the Site's online information practices. This privacy statement covers the website smartautosavings.com and applies to all information about you collected through the Site. We built this Site to connect consumers like you with auto dealers and other third parties ("Vendors") who can respond to your requests for information about automobiles and related services. To enable this functionality, we allow you to provide us with information about yourself that we pass on to those Vendors. We may use information we learn about you to present you with other offers, improve the Site and other uses we describe in this statement. We encourage you to carefully read this privacy statement so you know how we use the information that we collect through the Site. By using the Site, you agree to our use of your information consistent with this statement.
 
-Please read this Policy carefully before providing us with any information. If you have questions about this Policy, e-mail us at info@SmartAutoSavings.com.
+**Information We Collect and How We Use it**
 
-**Personally Identifiable Information**
+_Information You Submit to Us Through Forms, Etc._
 
-All Users have the option of providing various types of personally identifiable information to us through the Site. For example, you may choose to provide us your personally identifiable information, including, but not limited to, information such as your name, mailing address, telephone number, e-mail address, or age. We collect this personally identifiable information when you, at any point, manually enter it into any online form available on the Site. We may store all or some of that information in a cookie file on your hard drive, so that our systems will recognize you each time you visit the Site. In that way, we can save your preferences from visit to visit and present you with a customized version of the Site, without requiring you to log into the Site every time you visit. We may also store your personally identifiable information in our systems for use in other ways as described in this Policy.
+When you fill out a form on the Site to contact Vendors or communicate with us (a "Request"), we collect all of the information in your Request, which may include your name, address, email, phone number and other personal information. Information contained in a Request may be used or disclosed in the following ways:
 
-In order for you to take full advantage of the Site, we encourage you to provide your personally identifiable information to us. Providing your personally identifiable information is, however, voluntary. You may choose not to provide us with your personally identifiable information by simply not entering it on the Site. While you still will have access to the Site even if you do not provide us with your personally identifiable information, you should understand that you will not be able to use certain of the services or features available through the Site that require you to enter your personally identifiable information in order to function.
+  1. We will pass the information provided in your Request to each Vendor you selected or to an auto manufacturer or other third party that will pass the information along to the Vendor. The Vendor will use the information from your Request, including your personal information, to contact you in connection with your Request. IF YOU SUBMIT A REQUEST ON THE SITE, THE VENDORS YOU SELECT MAY CONTACT YOU DIRECTLY VIA EMAIL, TELEPHONE, AND FAX. YOU MAY ALSO RECEIVE TELEMARKETING CALLS AS A CONSEQUENCE OF SUBMITTING A REQUEST ON THIS SITE, EVEN IF YOU ARE ON THE NATIONAL DO NOT CALL REGISTRY OR ANY OTHER DO NOT CALL REGISTRY. Vendors or others to whom we provide your information may also use the information in your Request to market other products or services to you or in other ways in accordance with their own privacy guidelines. Note that the way Vendors, auto manufacturers, or other third party to which we forward your Request use your information is not under our control and is subject to the privacy policies of those parties.
+  2. We may use the information contained in your Request to contact you, including via email, with marketing offers that may be of interest to you from this Site or others. We may also contact you to thank you for your Request, conduct satisfaction surveys or other administrative purposes.
+  3. We may use the information contained in your Request for our internal purposes unrelated to any transaction, such as to help improve the Site, better understand our customers' needs or to develop new offerings in which you may be interested.
+  4. We may provide your information to our affiliates or to other third parties to contact you, including via email, with marketing offers, to use in connection with their marketing and advertising activities, or to use for their internal business purposes such as statistical analysis and reporting.
+  5. We (or the Vendors that have received your information) may share or use your information in response to or to comply with with legal orders and government requests, as needed to support auditing, compliance, and corporate governance functions, to combat fraud or criminal activity, and to protect our rights or those of our affiliates.
+  6. We may combine the information in your Request with other information, including personal information about you from other sources. We may do this for a number of reasons, including improving the quality of your Request, matching you with the best Vendor, customizing the Site or offers to you, or for internal analysis and research purposes.
 
-If you do not input any of your personally identifiable information, then the information we collect from you is limited. For example, we log your IP address in order to help us to diagnose problems with our server, administer the Site and track usage statistics. Your IP address may vary each time you visit, or it may be the same, depending on whether you access the Site through an always-on type of Internet connection (such as cable or DSL), or through a dial-up connection. Either way, it would be very difficult for us to personally identify you through your IP address. If you reached the Site by clicking on a link or ad from another website, then we may also log that information. This helps us to maximize our Internet exposure and to understand the interests of our Users. All of this information is collected and used only in aggregated form; that is, it is entered into our database, where we can use it to generate overall anonymous reports on our Users.
 
-**Cookies**
 
-We may place a small file known as a "cookie" on your computer's hard drive. A cookie may contain information that allows us to track your path through the Site and to determine whether you have visited us before. However, unless you provide us with personally identifiable information, the cookies will not contain any information that would allow us to personally identify you. Our cookies cannot be used to read data from your hard drive and cannot retrieve information from any other cookies created by other websites. We use cookies in this manner to help us understand how Users use the Site, and to help us to improve the Site. You may refuse to accept a cookie from us by following the procedures for rejecting cookies specific to your web browser. Although you may do so, you may find that your browser reacts strangely when visiting not only the Site, but other websites as well.
+When you make a Request, you expressly consent to such disclosure and use of the information you submit, including your personally identifiable information. If you do not want your personally identifiable information shared as described above, then you should not submit a Request - once your Request has been submitted, you will not have the opportunity to opt out of the disclosure of your information in connection with that Request.
 
-**Clear Gifs**
+_Information We Collect Without Action By You_
 
-We also employ a software technology called "clear gifs," which helps us better manage content on the Site by informing us what content is effective. Clear gifs are tiny graphics with unique identifiers, similar in function to cookies, and are used to track the online movements of web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on websites and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to Users' personally identifiable information.
+In addition to the information about you contained in your Request, there is information we learn about you through your interaction with the Site or other websites, advertisements and emails. This information generally does not identify you personally, but we may associate it with personal information from a request, in which case we will use and disclose the combined information as we would information contained in a Request. The information we collect without any action by you includes:
 
-If you visit this Site by "clicking through" from another website, and you have registered with that other web site, then certain information about you that you provided to that other website, such as the terms you were searching on that led you to the Site, may be transmitted to us and we may use it. You should review the privacy policy of any website from which you reached the Site in order to determine what information was collected by that website and for what purpose(s) you agreed that website could use that information. We may or may not retain that information; if we do, then we will only use it in accordance with this Policy.
+  * Cookies. Cookies are small text files that websites send to your computer or other Internet-connected device to uniquely identify your browser or to store information or settings in your browser. Cookies allow us to recognize you when you return to the Site and help us provide a customized experience. Cookies set on your device though this Site may include our cookies as well as those of third party advertising networks.
+  * Site Usage Details and IP Address. As you navigate to and through this Site, we may collect details of your visit, including navigation data, location data, logs, the resources that you access, and information about your internet access device and connection, including your IP address, operating system and browser type.
+  * Web beacons. Web beacons (also called pixel tags or clear gifs) are electronic images, tags or scripts that allow a website to access cookies and help track general usage patterns of visitors to a website. Web beacons can recognize certain types of information, such as cookies, time and date of a page view, and a description of the page where the web beacon is placed. We use web beacons on this Site as well as other websites and in emails we send and advertisements we present to you. We also allow third party advertisers and advertising networks to place web beacons on this Site, which they may use to track your navigation across the internet.
 
-**SmartAutoSavings' Policy regarding children under the age of 13**
 
-The Site is not intended for children under the age of 13, and SmartAutoSavings does not knowingly collect or use personally identifiable information from children under the age of 13.
 
-**How We Use the Information We Collect**  
-We may use the information that you provide to us to, among other things: 
+We use and disclose the cookie, web beacon and other data we automatically collect in the following ways:
 
-  * Make your next visit to the Site more personalized. 
-  * Compile anonymous statistical information and analysis. 
-  * Provide compiled anonymous information to third parties. 
-  * E-mail information and offers to you. 
-  * Mail information and offers to you. 
-  * Make telephone calls to you with information and offers. 
-  * Contact you regarding administrative issues, such as questions about your specific request. 
-  * Provide your Information to aggregators and automobile dealerships and manufacturers for administrative and advertising purposes. 
-  * Provide, sell or rent your information to third parties for advertising purposes. 
+  1. We may use the information to tailor the advertising we deliver to you. For example, we may use cookie and web beacon information to identify you when you are visiting another site and therefore display advertisements to you.
+  2. We may use automatically collected information to customize your experience on the Site, for example, by tailoring the content of the site to highlight the type of automobiles you searched for during a prior visit.
+  3. We may combine the information with other information you submit through a Request, in which case it may be used or disclosed as described above.
+  4. We may use the information for our internal business purposes or those of our affiliated companies, such as improving the Site, better understanding user interaction with the Site and our services or analyzing traffic sources.
+  5. We may share the information with third parties such as advertisers, advertising networks or others for their use. Once shared with the third party, the use of automatically collected information by the third party is governed by their privacy practices and is outside the scope of this privacy statement.
 
-**Consent to the Use of Third Party Providers.**
 
-Please understand that SmartAutoSavings may contract with other third parties to provide various services to SmartAutoSavings relating to the Site on an outsourced basis rather than performing the services itself. For example, we may contract with an e-mail provider to handle the distribution of e-mail messages to Users of the Site. Likewise, we may contract with a website hosting provider to host the Site for us. By visiting the Site, all Users consent to SmartAutoSavings providing all information (whether or not personally identifiable) received or collected from those Users to such third party providers for the purpose of enabling the third party provider to provide these outsourced services to us. In addition, all Users consent to the collection, maintenance, and processing of their information (whether or not personally identifiable) by SmartAutoSavings and these third party providers.
 
-**Opting Out**
+**YOUR PRIVACY CHOICES**
 
-This privacy statement describes SmartAutoSavings' potential uses of your information. If you do not agree to our potential uses of your personally identifiable information as we have described for you, you are not required to provide that information to us. In addition, if we send e-mails to you, you may opt out of receiving e-mails from us simply by responding to the opt-out link provided on all e-mail communications from SmartAutoSavings.
+The central purpose of this Site is to collect Requests and share them with Vendors and others. Accordingly, your ability to use this Site without the potential use and disclosure of information described above is limited. You always have the option of not visiting the Site or submitting Requests. Your use of the Site and submission of Requests is voluntary. You can, however, exercise the following choices with respect to certain information about you that we collect and use:
 
-**Surveys & Contests.**
+  1. _Cookies_. If you do not wish for cookie information to be collected when you visit the Site, you may set your browser to refuse cookies, or to alert you when cookies are being sent. If you do so, please note that some parts of this Site may then be inaccessible or may not function properly. 
+  2. _Email Offers From Us_. If you do not wish to receive email offers or newsletters from us, you can opt-out of receiving email information from us (other than emails related to the completion of your Request or other transactional communications) by using the unsubscribe process in the email. You can also opt-out of receiving email offers from us at any time by entering your email address on this page—<http://smartautosavings.com/unsubscribe> —or by sending an email (from the address you wish us to opt-out) to info@smartautosavings.com. Please note that if you request to opt-out of receiving emails from us and subsequently submit a Request, we will assume that you wish to reinstate your relationship with us and we will use your information as described in this statement, unless you subsequently request to opt-out. 
+  3. _Email Offers From Others Advertising For Us_. If you receive email offers advertising the Site because of your relationship with another website or entity, then the email you receive should contain an option to opt-out of receiving future emails from that sender. While we ask that any third party that distributes our email advertisements to their users inform us of your opt-out so that we can update our list, to ensure that you are opted out of receiving email offers from us as well as the third party, please enter your email address on this page— <http://smartautosavings.com/unsubscribe> —or send an email (from the address you wish us to opt-out) to info@smartautosavings.com.
+  4. _Online Behavioral Advertising_. Many third-party advertising networks engage in behavioral advertising, that is, delivering advertising based on information gathered about you through cookies and web beacons that track your activities across multiple websites. Some of these advertising networks participate in the Network Advertising Initiative and/or the Digital Advertising Alliance. You can request that participating companies not deliver behavioral advertising to you by visiting http://www.aboutads.info/choices/ and http://www.networkadvertising.org/choices/ and following the directions.
 
-From time-to-time our Site may request information from Users via surveys or contests. Participation in these surveys or contests is completely voluntary and the User therefore has a choice whether or not to disclose personally identifiable information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). Contact information will be shared with the contest or survey sponsors to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of the Site. Though we may use an intermediary to conduct these surveys or contests, these intermediaries will not use the Users' personally identifiable information for any secondary purposes.
 
-**Other Websites; Links.**
 
-Please be aware that SmartAutoSavings' affiliated automobile dealerships and manufacturers, promotional partners, aggregators, advertisers, sponsors, and other third-party websites accessible through the Site may have their own privacy and data collection policies and practices. SmartAutoSavings is not responsible for any actions, content of websites or privacy policies of such third parties. You should check the applicable privacy policies of those third parties when providing personally identifiable information through linked websites.
+**CHILDREN**
 
-**Disclosure of Your Information**
+This Site is targeted at adults that are interested in purchasing an automobile or related services, and we do not knowingly collect, either online or offline, personal information from persons under the age of thirteen.
 
-As you might expect, SmartAutoSavings must cooperate with legal authorities, and may in some circumstances be required to disclose information (including personally identifiable information) in response to requests from law enforcement authorities, or in response to a subpoena or other legal process. We don't expect this to happen, but if it does, we will provide only the information required. We can also turn over information about you if we believe we must in order to prevent a violation of the law, and by accepting this Policy, you consent to our right to do so, in our sole discretion. You also consent to our disclosing information about you in the course of legal proceedings if we believe we are legally required to do so, if we reasonably believe that doing so may mitigate our liability, or if doing so will assist us in enforcing our legal rights.
+**BUSINESS TRANSFERS**
 
-At some point, SmartAutoSavings may establish subsidiaries or other related companies, or merged with or be acquired by another company. When that happens, then we may disclose to them your information, in which case we will request them to abide by this Policy. We may also disclose some information to a potential acquirer, although such disclosure would be subject to normal and customary requirements.
+We specifically and expressly reserve the right to disclose, lease, sell, assign or transfer information we collect about you, including your personally identifiable information collected through this Site to third parties in connection with a contemplated or realized sale, acquisition, merger, consolidation, reorganization, bankruptcy or other corporate change involving us and/or our affiliates.
 
-If we change this Policy, we will post the amended Policy on the Site so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this Policy at any time, so please review the Site frequently for any changes. Amendments to this Policy will be posted on the Site and will be effective when posted. You will be deemed to have been made aware of, will be subject to, and will be deemed to have accepted, the changes to any amended or revised Policy by your continued use of our services or the Site.
+**THIRD-PARTY SITES**
 
-Of course, SmartAutoSavings will take reasonable measures to secure the information Users provide to us, using industry-standard methods. All information is protected by password and accessible only to authorized SmartAutoSavings personnel. However, there is a remote possibility that Internet transmissions containing a User's personally identifiable information may be intercepted by others. There is no way for us to ensure the privacy of User information before it arrives at the Site or after it leaves the Site.
+This Privacy Statement only addresses our use and disclosure of information we collect about you. Other websites that may be accessible through this Site have their own separate privacy policies and business practices governing their collection, use, and disclosure of data. Additionally, as noted above, Vendors and others with whom we may share information about you, including personally identifiable information, have their own privacy policies. We encourage you to familiarize yourself with the privacy statements provided by all third parties prior to providing them with information or taking advantage of an offer or promotion. 
 
-If you have questions specifically about this Policy, or to legal issues pertaining to the practices of the Site or your use of the Site, please contact us.
+**CHANGES**
 
-CONTACT INFORMATION  
-E-mail: info@SmartAutoSavings.com  
-Mailing address:  
-SmartAutoSavings  
-200 F Main Street, #315  
-Stoneham, MA 02180  
+From time to time, we may revise this privacy statement. The effective date noted at the top of this statement is used to alert you to recent changes.
 
+**CONTACTING US**
+
+If you would like to opt-out of receiving email advertisements from us, please enter your email address on our unsubscribe page: [http://smartautosavings.com/unsubscribe](https://web.archive.org/unsubscribe)
+
+Alternatively, you may send an email (from the address you wish us to opt-out) to info@smartautosavings.com. If you have questions specifically about this privacy statement, or otherwise wish to contact us, please contact us at info@smartautosavings.com.
