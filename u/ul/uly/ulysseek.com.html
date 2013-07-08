@@ -1,0 +1,367 @@
+<!--The following is the downloaded HTML source of the ulysseek.com privacy policy that was archived on 2013-07-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130709011912id_/http%3A//www.odyssearch.com/page/privacy-policy-2) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+        
+        <title>Privacy Policy</title>
+        
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+            var DOC_ROOT = 'http://www.odyssearch.com';
+        </script>
+        
+            <link rel="stylesheet" type="text/css" href="/templates/Core/DefaultFrontend/style/phpldstyles/main/css/columns.concat.css">
+        <link rel="stylesheet" type="text/css" href="/templates/Custom/style/yaml_styles.css">
+        <link rel="stylesheet" type="text/css" href="/templates/Custom/style/colors/default-theme.css">
+        <link rel="stylesheet" type="text/css" href="/templates/Custom/style/main_min.css">
+
+        
+        <link rel="stylesheet" type="text/css" href="/templates/Core/DefaultFrontend/style/select2.css">
+        <link rel="stylesheet" type="text/css" href="/templates/Core/DefaultFrontend/style/fg.menu.css">
+        <link rel="stylesheet" type="text/css" href="/templates/Core/DefaultFrontend/style/theme/jquery-ui-1.8.23.custom.css">
+
+
+        
+        
+		            
+        
+        
+                <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+        <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.23/jquery-ui.min.js"></script>
+        
+        
+            <script type="text/javascript">
+             var $ = jQuery.noConflict();
+            </script>
+        
+
+        <script type="text/javascript" src="/javascripts/jquery/jquery.select2.js"></script>
+        <script type="text/javascript" src="/javascripts/jquery/jquery.fg.menu.js"></script>
+
+        <style type="text/css">
+body {
+
+
+}
+</style>
+
+        
+        
+    </head>
+    <body onunload="GUnload()">
+
+            <div class="ym-wbox">
+                <div class="header">
+                    <div class="headerLogo">
+                        <a href="http://www.odyssearch.com/"><img src="/templates/Custom/images/logo.png" border="0" alt="Best Premium Online Web Directory, List Your Site, Submit Your Link, Add Your Url"></a>
+                    </div>
+                    
+<script type="text/javascript">
+
+
+
+var servername = ""+"/Search/ajaxSearchLinks/";
+
+function split( val ) {
+
+    return val.split( /,\s*/ );
+
+}
+
+function extractLast( term ) {
+
+    return split( term ).pop();
+
+}
+
+
+
+function linkFormatResult(link) {
+
+    //<![CDATA[
+
+    var markup = "<div class='listing-list-item ajax-search-result'>";
+
+    markup += "<div class='link-info'><div class='listing-title'><a href='"+link.url+"'><b>" + link.title + "</b></a></div>";
+
+    if (link.description !== undefined) {
+
+        markup += "<div class='description'><a href='"+link.url+"'>" + link.description + "</a></div>";
+
+    }
+
+    markup += "</div></div>"
+
+    return markup;
+
+    //]]>
+
+}
+
+
+
+function linkFormatSelection(link) {
+
+    return link.title;
+
+}
+
+
+
+var currEnteredData = null;
+
+
+
+jQuery(document).ready(function($){
+
+    $("#autoquery").select2({
+
+        placeholder:"Search for a link",
+
+        minimumInputLength:1,
+
+        ajax:{
+
+            url:servername,
+
+            dataType:'json',
+
+            quietMillis:100,
+
+            allowClear:true,
+
+            data:function (term, page) { // page is the one-based page number tracked by Select2
+
+                return {
+
+                    linkQuery: {q: term, loc: $("#autoquery-location").val()}, //search term
+
+                    page_limit:100 // page size
+
+                };
+
+            },
+
+        results:function (data, page) {
+
+            // notice we return the value of more so Select2 knows if more results can be loaded
+
+            for (x in data.result) {
+
+                data.result[x].id = data.result[x].url;
+
+            }
+
+
+
+            data.result.unshift({'id':data.url, 'title':currEnteredData, 'url':'/search?search='+currEnteredData})
+
+            return {results:data.result};
+
+        }
+
+    },
+
+    formatResult:linkFormatResult, // omitted for brevity, see the source of this page
+
+    formatSelection:linkFormatSelection // omitted for brevity, see the source of this page
+
+    }).on('change', function(event){
+
+        document.location.href = $(this).val();
+
+    });
+
+
+
+    jQuery(".select2-search input[type='text']").keyup(function(event){
+        currEnteredData = jQuery(this).val();
+
+    });
+
+	jQuery("#search_form").submit(function(){
+		jQuery("#autoquery").val(currEnteredData);		
+	});	
+
+});
+
+
+
+</script>
+
+
+
+<form class="ym-form headerSearch" action="/search" method="get" id="search_form">
+
+    <div class="ym-columnar ym-equalize" style="overflow: visible">
+
+        <div class="ym-fbox-text float-left" style="margin-top:5px;">
+
+            <input name="search" maxlength="150" id="autoquery" style="width: 400px;" value="">
+
+        </div>
+
+        <div class="ym-fbox-button float-left ">		
+
+            <input class="button ym-searchbutton" type="submit" value="GO">
+
+        </div>
+
+    </div>
+
+</form>
+                </div>
+            </div>
+        
+        
+        <div class="ym-clearfix"></div>
+
+        <div id="nav">
+            <div class="ym-wbox">
+                <div class="ym-hlist">
+                    <ul><li><a href="http://www.odyssearch.com/">Home</a></li><li><a href="http://www.odyssearch.com/submit">Submit Site</a></li><li><a href="http://www.odyssearch.com/top">Top List</a></li><li><a href="http://www.odyssearch.com/latest">What's New</a></li></ul> <div class="userPanel">
+            <a href="/login" class="btn-slide">Login</a>
+        &nbsp;|&nbsp;
+        <a href="/user/register" title="Register new user">Register</a>
+        </div>
+
+               </div>
+            </div>
+        </div>
+
+        <div class="ym-wbox">
+        <div class="ym-clearfix"></div>
+        <div class="content-wrapper"><div class="path">    <div class="breadcrumbs">
+            <span>
+            <a href="http://www.odyssearch.com/">                Web Directory
+            </a>
+                            <span class="divider">/</span>
+                    </span>
+                    <span>
+                            Privacy Policy
+            
+                    </span>
+                </div>
+</div><div class="ym-column linearize-level-1"><div class="ym-col2" style="width:25%"><div class="ym-cbox"><div class="ym-grid ym-full phpld-widget" id="widget_25">
+    <div class="boxTop"></div>
+            <h3>Recently Added</h3>
+        <div class="listingsList">
+    <ul>
+            <li>
+            » <a href="http://www.odyssearch.com/listing/Shopping/Auctions/auction-fire-1057" title="Auction Fire">Auction Fire</a>
+        </li>
+            <li>
+            » <a href="http://www.odyssearch.com/listing/Kids_and_Teens/Directories/internet-schoolhouse-625" title="Internet Schoolhouse">Internet Schoolhouse</a>
+        </li>
+            <li>
+            » <a href="http://www.odyssearch.com/listing/Shopping/Tools/sawhelper-ultrafence-1143" title="Sawhelper UltraFence">Sawhelper UltraFence</a>
+        </li>
+            <li>
+            » <a href="http://www.odyssearch.com/listing/Computers/Robotics/electronics-forum-303" title="Electronics Forum">Electronics Forum</a>
+        </li>
+            <li>
+            » <a href="http://www.odyssearch.com/listing/Reference/Books/isbnorg-865" title="ISBN.org">ISBN.org</a>
+        </li>
+            <li>
+            » <a href="http://www.odyssearch.com/listing/Computers/Parallel_Computing/who-wrote-the-book-of-life-298" title="Who Wrote the Book of Life?">Who Wrote the Book of Life?</a>
+        </li>
+            <li>
+            » <a href="http://www.odyssearch.com/listing/Reference/Quotations/wordz-914" title="Wordz">Wordz</a>
+        </li>
+            <li>
+            » <a href="http://www.odyssearch.com/listing/Science/Conferences/all-conferences-directory-970" title="All Conferences Directory">All Conferences Directory</a>
+        </li>
+            <li>
+            » <a href="http://www.odyssearch.com/listing/Arts/Directories/artnetcom-50" title="Artnet.com">Artnet.com</a>
+        </li>
+            <li>
+            » <a href="http://www.odyssearch.com/listing/Computers/Chats_and_Forums/computingnet-203" title="Computing.Net">Computing.Net</a>
+        </li>
+            <li>
+            » <a href="http://www.odyssearch.com/listing/Business/Food_and_Related_Products/cargill-foods-137" title="Cargill Foods">Cargill Foods</a>
+        </li>
+            <li>
+            » <a href="http://www.odyssearch.com/listing/Sports/Youth_and_High_School/national-council-of-youth-sports-1450" title="National Council of Youth Sports">National Council of Youth Sports</a>
+        </li>
+            <li>
+            » <a href="http://www.odyssearch.com/listing/Regional/national-geographic-travel-and-cultures-932" title="National Geographic: Travel &amp; Cultures">National Geographic: Travel &amp; Cultures</a>
+        </li>
+            <li>
+            » <a href="http://www.odyssearch.com/listing/Recreation/Birding/surfbirder-767" title="Surfbirder">Surfbirder</a>
+        </li>
+            <li>
+            » <a href="http://www.odyssearch.com/listing/Business/Automotive/saab-98" title="Saab">Saab</a>
+        </li>
+            <li>
+            » <a href="http://www.odyssearch.com/listing/Games/Miniatures/shellshock-combat-system-361" title="Shellshock Combat System">Shellshock Combat System</a>
+        </li>
+            <li>
+            » <a href="http://www.odyssearch.com/listing/Arts/Organizations/world-academy-of-art-and-science-80" title="World Academy of Art and Science">World Academy of Art and Science</a>
+        </li>
+            <li>
+            » <a href="http://www.odyssearch.com/listing/Business/Consumer_Goods_and_Services/2020-plastics-ltd-110" title="2020 Plastics, Ltd">2020 Plastics, Ltd</a>
+        </li>
+            <li>
+            » <a href="http://www.odyssearch.com/listing/Recreation/Audio/the-audioholics-762" title="The Audioholics">The Audioholics</a>
+        </li>
+            <li>
+            » <a href="http://www.odyssearch.com/listing/Health/News_and_Media/cbc--health-and-science-news-452" title="CBC - Health and Science News">CBC - Health and Science News</a>
+        </li>
+        </ul>
+</div>
+</div>
+<div class="ym-grid ym-full phpld-widget" id="widget_32">
+    <div class="boxTop"></div>
+            <h3>Category Cloud</h3>
+        <div class="categoryCloud">
+<a style="font-size: 12px" class="tag_cloud" href="http://www.odyssearch.com/World/" title="World">World</a> <a style="font-size: 9px" class="tag_cloud" href="http://www.odyssearch.com/Arts/Cultures_and_Groups/" title="Cultures and Groups">Cultures and Groups</a> <a style="font-size: 12px" class="tag_cloud" href="http://www.odyssearch.com/Kids_and_Teens/" title="Kids and Teens">Kids and Teens</a> <a style="font-size: 8px" class="tag_cloud" href="http://www.odyssearch.com/Arts/Bodyart/" title="Bodyart">Bodyart</a> <a style="font-size: 10px" class="tag_cloud" href="http://www.odyssearch.com/Arts/Costumes/" title="Costumes">Costumes</a> <a style="font-size: 14px" class="tag_cloud" href="http://www.odyssearch.com/Society/" title="Society">Society</a> <a style="font-size: 16px" class="tag_cloud" href="http://www.odyssearch.com/Games/" title="Games">Games</a> <a style="font-size: 18px" class="tag_cloud" href="http://www.odyssearch.com/Shopping/" title="Shopping">Shopping</a> <a style="font-size: 6px" class="tag_cloud" href="http://www.odyssearch.com/Arts/Crafts/" title="Crafts">Crafts</a> <a style="font-size: 13px" class="tag_cloud" href="http://www.odyssearch.com/News/" title="News">News</a> <a style="font-size: 9px" class="tag_cloud" href="http://www.odyssearch.com/Arts/Art_Galleries/" title="Art Galleries">Art Galleries</a> <a style="font-size: 12px" class="tag_cloud" href="http://www.odyssearch.com/Regional/" title="Regional">Regional</a> <a style="font-size: 11px" class="tag_cloud" href="http://www.odyssearch.com/Arts/Dance/" title="Dance">Dance</a> <a style="font-size: 19px" class="tag_cloud" href="http://www.odyssearch.com/Computers/" title="Computers">Computers</a> <a style="font-size: 8px" class="tag_cloud" href="http://www.odyssearch.com/Arts/Architecture/" title="Architecture">Architecture</a> <a style="font-size: 20px" class="tag_cloud" href="http://www.odyssearch.com/Arts/" title="Arts">Arts</a> <a style="font-size: 13px" class="tag_cloud" href="http://www.odyssearch.com/Recreation/" title="Recreation">Recreation</a> <a style="font-size: 9px" class="tag_cloud" href="http://www.odyssearch.com/Arts/Digital/" title="Digital">Digital</a> <a style="font-size: 8px" class="tag_cloud" href="http://www.odyssearch.com/Arts/Chats_and_Forums/" title="Chats and Forums">Chats and Forums</a> <a style="font-size: 12px" class="tag_cloud" href="http://www.odyssearch.com/Reference/" title="Reference">Reference</a> <a style="font-size: 10px" class="tag_cloud" href="http://www.odyssearch.com/Arts/Awards/" title="Awards">Awards</a> <a style="font-size: 32px" class="tag_cloud" href="http://www.odyssearch.com/Business/" title="Business">Business</a> <a style="font-size: 10px" class="tag_cloud" href="http://www.odyssearch.com/Arts/Design/" title="Design">Design</a> <a style="font-size: 15px" class="tag_cloud" href="http://www.odyssearch.com/Sports/" title="Sports">Sports</a> <a style="font-size: 13px" class="tag_cloud" href="http://www.odyssearch.com/Science/" title="Science">Science</a> <a style="font-size: 7px" class="tag_cloud" href="http://www.odyssearch.com/Arts/Comics/" title="Comics">Comics</a> <a style="font-size: 12px" class="tag_cloud" href="http://www.odyssearch.com/Home/" title="Home">Home</a> <a style="font-size: 8px" class="tag_cloud" href="http://www.odyssearch.com/Arts/Classical_Studies/" title="Classical Studies">Classical Studies</a> <a style="font-size: 15px" class="tag_cloud" href="http://www.odyssearch.com/Health/" title="Health">Health</a> <a style="font-size: 10px" class="tag_cloud" href="http://www.odyssearch.com/Arts/Animation/" title="Animation">Animation</a> 
+</div>
+
+</div>
+</div></div><div class="ym-col3" style="margin-left:10px;margin-right:25%;"><div class="ym-cbox"><div class="ym-grid ym-full phpld-widget" id="widget_2">
+    <div class="boxTop"></div>
+        <h1>Privacy Policy</h1>
+<div class="description">
+    Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.<br><br>
+<ul>
+<li>Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.</li>
+<li>We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law.</li>
+<li>We will only retain personal information as long as necessary for the fulfillment of those purposes.</li>
+<li>We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned.</li>
+<li>Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.</li>
+<li>We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.</li>
+<li>We will make readily available to customers information about our policies and practices relating to the management of personal information.</li>
+</ul>
+<p>We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.</p>
+</div>
+</div>
+</div></div></div></div><div class="footer_links"><a href="/">Home</a><a href="/submit"><b>Submit Site</b></a><a href="/contact">Contact us</a><a href="/login">Login</a><a href="/user/register">Register</a></div><div class="footer">© Copyright odyssearch <a href="http://www.odyssearch.com" title="Web Directory">Web Directory</a> 2013. All rights reserved. <a href="/page/terms-and-conditions-of-use-1" rel="nofollow">Terms</a> - <a href="/page/privacy-policy-2" rel="nofollow">Privacy</a></div><script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-39527909-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script><script type="text/javascript">
+    /* <![CDATA[ */
+    var root = '';
+    
+    var a = document.getElementsByTagName("a");
+    for(i = 0; i< a.length; i++)
+        if(a[i].id != '')
+            a[i].onclick = count_link;
+    function count_link(event) {
+        i = new Image();
+        i.src= root+'/cl.php?id='+this.id;
+        return true;
+    }
+
+    
+    /* ]]> */
+</script><div class="addthis_toolbox addthis_floating_style addthis_counter_style" style="left:20px;top:190px;"><a class="addthis_button_facebook_like" fb:like:layout="box_count"></a><a class="addthis_button_tweet" tw:count="vertical"></a><a class="addthis_button_google_plusone" g:plusone:size="tall"></a><a class="addthis_counter"></a></div><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=xa-514842975d7ea7f9"></script>
+</div></body></html>
