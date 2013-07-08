@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gobingoo.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602031241id_/http%3A//gobingoo.com/privacy-policy/listbingo/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gobingoo.com privacy policy that was archived on 2013-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130708034615id_/http%3A//www.gobingoo.com/privacy-policy/listbingo/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Gobingoo
 
@@ -73,7 +73,7 @@ This online privacy policy applies only to information collected through our web
 
 #### Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.gobingoo.com/terms-of-use](http://gobingoo.com/terms-of-use/listbingo/terms-of-use)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.gobingoo.com/terms-of-use](http://www.gobingoo.com/terms-of-use/listbingo/terms-of-use)
 
 #### Your Consent
 
