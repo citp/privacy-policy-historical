@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sixsenses.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520070651id_/http%3A//www.sixsenses.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sixsenses.com privacy policy that was archived on 2013-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130708185106id_/http%3A//www.sixsenses.com/privacy) for the most accurate reproduction.*
 
 # 
 
