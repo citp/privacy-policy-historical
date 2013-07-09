@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezmoneymethod2x.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622042425id_/http%3A//ezmoneymethod2x.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezmoneymethod2x.com privacy policy that was archived on 2013-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130710010358id_/http%3A//ezmoneymethod2x.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
