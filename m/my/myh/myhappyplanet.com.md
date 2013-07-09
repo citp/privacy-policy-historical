@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myhappyplanet.com privacy policy that was archived on 2013-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130226012329id_/http%3A//www.myhappyplanet.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myhappyplanet.com privacy policy that was archived on 2013-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130709185244id_/http%3A//www.myhappyplanet.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy policy @ MyHappyPlanet
 
