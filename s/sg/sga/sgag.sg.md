@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sgag.sg privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506193324id_/http%3A//www.sgag.sg/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sgag.sg privacy policy that was archived on 2013-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130710002504id_/http%3A//www.sgag.sg/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - SGAG Singapore - Funny, current and uniquely Singaporean!
+# Privacy Policy - SGAG - Funny, current and uniquely Singaporean!
 
 **We take your privacy very seriously.**
 
