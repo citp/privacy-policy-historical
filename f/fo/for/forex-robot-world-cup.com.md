@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forex-robot-world-cup.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510011056id_/http%3A//www.forex-robot-world-cup.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forex-robot-world-cup.com privacy policy that was archived on 2013-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130710193331id_/http%3A//forex-robot-world-cup.com/privacy.php) for the most accurate reproduction.*
 
 # The International EA Competition
 
