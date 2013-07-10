@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lampsplus.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517011645id_/http%3A//www.lampsplus.com/info-center/w/help-and-policies/your-privacy-and-security.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lampsplus.com privacy policy that was archived on 2013-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130710054547id_/http%3A//www.lampsplus.com/info-center/w/help-and-policies/your-privacy-and-security.aspx) for the most accurate reproduction.*
 
 # Your Privacy and Security - Help, Policies & FAQ - Community - LampsPlus.com - Information Center
 
