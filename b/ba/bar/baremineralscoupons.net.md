@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baremineralscoupons.net privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525001158id_/http%3A//www.baremineralscoupons.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baremineralscoupons.net privacy policy that was archived on 2013-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130711215326id_/http%3A//www.baremineralscoupons.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bare Minerals Coupons
 
