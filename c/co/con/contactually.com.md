@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contactually.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510211858id_/http%3A//www.contactually.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contactually.com privacy policy that was archived on 2013-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130711204610id_/https%3A//www.contactually.com/legal/privacy) for the most accurate reproduction.*
 
 # Legal Disclaimer | Contactually CRM
 
