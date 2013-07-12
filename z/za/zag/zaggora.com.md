@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zaggora.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530190016id_/http%3A//zaggora.com/pages/PRIVACY-POLICY.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zaggora.com privacy policy that was archived on 2013-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130712113247id_/http%3A//zaggora.com/pages/PRIVACY-POLICY.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
@@ -44,7 +44,7 @@ When you register, you will be given the option to opt-out of subscribing to our
 
 We do not sell or otherwise pass your details to third parties for marketing purposes unless authorized by you at purchase point.
 
-At all times, we will offer you the opportunity to unsubscribe out of any service or update to which you have subscribed, if you change your mind. Any e-mail we send you will contain an easy automated unsubscribe link so that you can opt-out of that particular mailshot. Simply follow the indications in the e-mail. Alternatively you can change your email preferences or opt out of all emails by logging into My Account. To opt out of direct mail service or updates, please contact a www.zaggora.com customer care representative on customers@zaggora.com. 
+At all times, we will offer you the opportunity to unsubscribe out of any service or update to which you have subscribed, if you change your mind. Any e-mail we send you will contain an easy automated unsubscribe link so that you can opt-out of that particular mailshot. Simply follow the indications in the e-mail. Alternatively you can change your email preferences or opt out of all emails by logging into My Account. To opt out of direct mail service or updates, please contact a www.zaggora.com customer care representative on customers@zaggora.com.
 
 **HOW YOU CAN ACCESS AND IF NECESSARY, CHANGE THE PERSONAL INFORMATION ZAGGORA MAINTAINS**
 
