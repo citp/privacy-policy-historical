@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viewsbuzz.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510070628id_/http%3A//www.viewsbuzz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viewsbuzz.com privacy policy that was archived on 2013-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130713065953id_/http%3A//www.viewsbuzz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Views Buzz
 
