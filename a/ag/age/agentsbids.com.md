@@ -1,100 +1,70 @@
-> *The following text is extracted and transformed from the agentsbids.com privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314200414id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agentsbids.com privacy policy that was archived on 2013-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130713050206id_/http%3A//www.agentsbids.com/privacypolicy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+AgentsBids.com created this privacy policy to provide you information about how we collect and use information, including personally identifiable information. As a part of the normal operation of our services we collect and, in some cases, may disclose information about you. By accepting this Privacy Policy and our Terms of Use, you expressly consent to our use and disclosure of your personal information in the manner described in this Privacy Policy. 
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+##  1\. Information We Collect
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+We collect personal information that can identify you such as your name, email address, and Facebook username, Twitter username, and your username, and other information on other social media sites that you link with our site. We also collect other information that does not identify you. When you provide personal information through our website, the information will be sent to servers located in the United States and other countries around the world. We automatically receive your location when you use our Service. The Personal Information you provide is used for such purposes as allowing you to set up a user account and profile that can be used to interact with other users through the Service, improving the content of the Service, customizing the advertising and content you see, and communicating with you about specials and new features. We may also draw upon this Personal Information in order to adapt the Services of our community to your needs, to research the effectiveness of our network and Services, and to develop new tools for the community
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+## 2\. Use of Your Information
 
-**Information Collection and Use**
+We use information in the files and databases we maintain about You, and the other information we obtain from Your current and past activities on the Websites to: 
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+  * Deliver the services and products that You have requested;
+  * Manage Your account and provide You with customer support;
+  * Enforce our terms and conditions;
+  * Manage our business;
+  * Perform functions as otherwise described to You at the time of collection
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+## 3\. Accessing, Reviewing and Changing Your Profile
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+Following registration, You can review and change the information You submitted during registration. For example, if You change Your name or email address we will retain a record of Your old name and email address. Upon Your notification, we will remove Your membership from our active databases as soon as reasonably possible in accordance with our policy and applicable law. We will retain in our files information You have requested be removed from our active databases for certain purposes, such as to resolve disputes, troubleshoot problems and enforce our terms and conditions. Further, such prior information may never be completely removed from our databases due to technical and legal constraints, including stored backup systems.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+## 4\. Disclosure of Your Information
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+Due to the regulatory environment in which we operate, we cannot ensure that all of Your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting any of the foregoing), we may be required to disclose information to the government, law enforcement agencies or third parties. Under certain circumstances, third parties may unlawfully intercept or access transmissions or private communications, or members may abuse or misuse Your information that they collect from our Websites. Accordingly, although we use industry standard practices to protect Your privacy, we do not promise, and You should not expect, that Your personally identifiable information or private communications will always remain private. In certain circumstances we may share your information with third party partners to enable us to provide our services. As a matter of policy, we do not sell or rent any personally identifiable information about You to any third party. However, we reserve a right to post Your personally identifiable information (profile including photos) on one of our partners website to maximize effectiveness of our service. 
 
-**Security**
+## 5\. Financial Information
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+Under some circumstances we may require certain additional information, including but not limited to Your credit card billing information. We use this financial information, including Your name, address, and other information to bill You for use of our Service. By making a purchase, or engaging in any other kind of activity or transaction that uses financial information on the Websites, You consent to our providing of Your financial information to our service providers and to such third parties as we determine necessary to support and process Your activities and transactions, as well as to Your credit card issuer for their purposes. These third parties may include the credit card companies and banking institutions used to process and support Your transaction or activity. By purchasing, or registering for Any of these various third parties may be authorized to use Your financial information in accordance with our contractual arrangements with such third parties and in accordance with their own privacy policies, over which we have no control, and You agree that we are not responsible or liable for any of their actions or omissions. Additionally, You agree that we may use and disclose all information submitted to such third parties in the same manner in which we are entitled to use and disclose any other information that You submit to us.
 
-**Updating Your Information**
+## 6\. Legal Requests
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+We cooperate with law enforcement agencies and other third parties to enforce laws, as well as investigate and prosecute unlawful activities such as frauds and scams. We can (and You authorize us to) disclose any information about You to law enforcement and other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with any investigation of fraud, scam or other activity that is illegal.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+## 7\. Your Use of other Members Information
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+Through regular use of AgentsBids.com, as a member You might have access to another member’s contact or personally identifiable information. By accepting this Privacy Policy, You agree that You may not disclose another member’s personally identifiable information to any third party in any situation unless: 
 
-      iii.      You may call us at: (480) 505-8800
+1) The terms of this Privacy Policy permit disclosure;   
+2) You have obtained permission from the other member;  
+3) You have obtained the permission of AgentsBids.com;   
+4) Law enforcement agencies require disclosure to enforce a law, or otherwise require disclosure to investigate or prosecute unlawful activities such as frauds and scams. 
 
-       iv.      You may fax us at: (480) 505-8844
+## 8\. Cookies
 
-**Sending Emails**
+  * A cookie is a small text file that is stored on a user's computer for record keeping purposes. Cookies can take the form of session cookies or persistent cookies. A session cookie expires when You close Your browser and is used to make it easier for You to navigate our website. A persistent cookie remains on Your hard drive for specified period of time.
+  * Through the use of a cookie, we also may automatically collect information about Your online activity on our site, such as the web pages You visit, the links You click, and the searches You conduct on our site. When You sign in to Your account on our website, we will record Your member ID in the cookie file on Your computer. We also may record Your encrypted password in this cookie file, if You indicated that You would like Your password saved for automatic sign-in.
+  * You may delete or decline cookies by changing Your browser settings. (Click “Help” in the toolbar of most browsers for instructions.) If You do so, some of the features and services of our website may not function properly.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-**Compliance with Laws and Law Enforcement**
+## 9\. Information Others Collect
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+In order to improve the AgentsBids.com site, We utilize web analytics software (“Software”) to collect information about use of AgentsBids.com. This Software collects Users’ information such as visiting frequency, pages visited, and location. The Software also plants a permanent cookie on a user’s Web browser to identify that user as unique. The Software identifies a user solely by IP address, and does not identify a user by name or other personally identifiable information. We do not combine the information collected with other personally identifiable information. If You post information about Yourself or others, or communicate with others using our website, please note that we cannot control who reads Your postings or what they do with the information You provide. We encourage You to use caution in posting personal information.
 
-**Third Party Service Providers**
+## 10\. Security
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+To safeguard the confidentiality of Your personally identifiable information, AgentsBids.com utilizes sophisticated security techniques and procedures, including: daily security and vulnerability scans, software audits, firewalls, and data encryption (Secure Socket Layers). AgentsBids.com treats data as an asset. We make every effort to protect that data against loss and unauthorized access. We employ many different security techniques to protect such data from unauthorized access by others.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+## 11\. Note about Children
 
-**Supplementation of Information**
+Children are not eligible to use our services, and we ask that persons under the age of 13 do not submit any personal information to us.
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+## 12\. Modifications to Privacy Policy
 
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+The Privacy Policy is subject to change by Us at any time based on changes in the law or our need to accurately reflect our data collection and disclosure practices. Changes are effective upon posting on the AgentsBids.com website. 
