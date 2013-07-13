@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the clothingshowroom.com privacy policy that was archived on 2013-05-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130501210049id_/http%3A//www.clothingshowroom.com/Terms_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the clothingshowroom.com privacy policy that was archived on 2013-07-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130713185503id_/http%3A//www.clothingshowroom.com/Terms_privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -31,7 +31,30 @@
     var PageText_843 = "Subtotal";
     var PageText_844 = "items in cart";
 </script>
+<script type="text/javascript" src="/a/j/volusion.js?6.37.5.173"></script>
+<script type="text/javascript">
+    (function ($) {
+        volusion.ready(function () {
+            if (volusion.cart.isObservingCount()) {
+                var ts = new Date().getTime();
 
+                $.getJSON('/ajaxcart.asp?cachebust=' + ts, function (data) {
+                    var quantityTotal = 0;
+                    $.each(data.Products, function (key, val) {
+                        if (val.IsProduct === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        } else if (val.IsAccessory === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        }
+                    });
+                    quantityTotal = quantityTotal || '0';
+                    volusion.cart.itemCount(quantityTotal);
+                });
+
+            }
+        });
+    } (jQuery));
+</script>
 
 
 <script type="text/javascript" src="/a/j/soft_add.js"></script>
@@ -44,7 +67,7 @@
 </script>
 
 <script type="text/javascript" src="/a/j/soft_add_mult.js"></script>
-<script type="text/javascript" src="/a/j/javascripts.js?6_5_currentBuild"></script>
+<script type="text/javascript" src="/a/j/javascripts.js?6_5_6.37.5.173"></script>
 
 <script type="text/javascript">
 	var Config_Search_Auto_Complete = false;
@@ -174,25 +197,34 @@ function mClk1(src, popup)
 </script>
 <ul>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
+	<a href="http://www.clothingshowroom.com/half-packs-s/138.htm" title="half-packs"><span style="color:white">Half-Pack Shop</span></a>
+</li>
+<li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
 	<a href="http://www.clothingshowroom.com/wholesale-clothing-s/106.htm" title="wholesale-clothing"><span style="color:white">Made in USA</span></a>
-</li>
-<li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
-	<a href="http://www.clothingshowroom.com/SwimWear-s/55.htm" title="SwimWear"><span style="font-family:Garamond; font-size:13px; color:white">SwimWear</span></a>
-</li>
-<li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
-	<a href="http://www.clothingshowroom.com/wholesale-clothing-s/1.htm" title="wholesale-clothing"><span style="font-family:Garamond; font-size:15px; color:white">Tops</span></a>
 </li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
 	<a href="http://www.clothingshowroom.com/wholesale-dresses-s/3.htm" title="wholesale_dresses"><span style="font-family:Garamond; font-size:15px; color:white">Dresses</span></a>
 </li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
-	<a href="http://www.clothingshowroom.com/plus-size-clothing-s/6.htm" title="plus_size_clothing"><span style="font-family:Garamond; font-size:15px; color:white">Plus Size</span></a>
-</li>
-<li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
-	<a href="http://www.clothingshowroom.com/Skirts-s/4.htm" title="Skirts"><span style="font-family:Garamond; font-size:15px; color:white">Skirts</span></a>
+	<a href="http://www.clothingshowroom.com/wholesale-clothing-s/1.htm" title="wholesale-clothing"><span style="font-family:Garamond; font-size:15px; color:white">Tops</span></a>
 </li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
 	<a href="http://www.clothingshowroom.com/wholesale-apparel-jeans-s/2.htm" title="wholesale_apparel_jeans"><span style="font-family:Garamond; font-size:15px; color:white">Bottoms/Jeans</span></a>
+</li>
+<li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
+	<a href="http://www.clothingshowroom.com/plus-size-clothing-s/6.htm" title="plus_size_clothing"><span style="font-family:Garamond; font-size:15px; color:white">Plus Size</span></a>
+</li>
+<li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
+	<a href="http://www.clothingshowroom.com/Leggings-s/90.htm" title="Leggings"><span style="font-family:Garamond; font-size:16px; color:white">Leggings</span></a>
+</li>
+<li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
+	<a href="http://www.clothingshowroom.com/SwimWear-s/55.htm" title="SwimWear"><span style="font-family:Garamond; font-size:13px; color:white">SwimWear</span></a>
+</li>
+<li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
+	<a href="http://www.clothingshowroom.com/HandBags-Wallets-s/8.htm" title="HandBags/Wallets"><span style="font-family:Garamond; font-size:15px; color:white">Handbags</span></a>
+</li>
+<li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
+	<a href="http://www.clothingshowroom.com/Skirts-s/4.htm" title="Skirts"><span style="font-family:Garamond; font-size:15px; color:white">Skirts</span></a>
 </li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
 	<a href="http://www.clothingshowroom.com/wholesale-shoes-s/37.htm" title="wholesale_shoes"><span style="font-family:Garamond; font-size:15px; color:white">Shoes</span></a>
@@ -204,19 +236,13 @@ function mClk1(src, popup)
 	<a href="http://www.clothingshowroom.com/ActiveWear-s/5.htm" title="ActiveWear"><span style="font-family:Garamond; font-size:15px; color:white">Active/Basic Wear</span></a>
 </li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
-	<a href="http://www.clothingshowroom.com/Leggings-s/90.htm" title="Leggings"><span style="font-family:Garamond; font-size:16px; color:white">Leggings</span></a>
-</li>
-<li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
-	<a href="http://www.clothingshowroom.com/Intimate-s/47.htm" title="Intimate"><span style="font-family:Garamond; font-size:15px; color:white">Intimate</span></a>
-</li>
-<li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
-	<a href="http://www.clothingshowroom.com/HandBags-Wallets-s/8.htm" title="HandBags/Wallets"><span style="font-family:Garamond; font-size:15px; color:white">Handbags</span></a>
-</li>
-<li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
-	<a href="http://www.clothingshowroom.com/Soy-Candles-Diffusers-s/93.htm" title="Soy Candles-Diffusers"><span style="font-family:Garamond; font-size:15px; color:white">Candles-Diffusers</span></a>
+	<a href="http://www.clothingshowroom.com/Perfumes-s/56.htm" title="Perfumes"><span style="font-family:Garamond; font-size:15px; color:white">Fragrances</span></a>
 </li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
 	<a href="http://www.clothingshowroom.com/wholesale-fashion-jewelry-s/21.htm" title="wholesale-fashion-jewelry"><span style="font-family:Garamond; font-size:15px; color:white">Jewelry</span></a>
+</li>
+<li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
+	<a href="http://www.clothingshowroom.com/Intimate-s/47.htm" title="Intimate"><span style="font-family:Garamond; font-size:15px; color:white">Intimate</span></a>
 </li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
 	<a href="http://www.clothingshowroom.com/Hats-s/38.htm" title="Hats"><span style="font-family:Garamond; font-size:15px; color:white">Hats</span></a>
@@ -229,9 +255,6 @@ function mClk1(src, popup)
 </li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
 	<a href="http://www.clothingshowroom.com/Cosmetics-s/24.htm" title="Cosmetics"><span style="font-family:Garamond; font-size:15px; color:white">Cosmetics</span></a>
-</li>
-<li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
-	<a href="http://www.clothingshowroom.com/Perfumes-s/56.htm" title="Perfumes"><span style="font-family:Garamond; font-size:15px; color:white">Fragrances</span></a>
 </li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
 	<a href="http://www.clothingshowroom.com/Sunglasses-s/22.htm" title="Sunglasses"><span style="font-family:Garamond; font-size:15px; color:white">Sunglasses</span></a>
@@ -250,6 +273,9 @@ function mClk1(src, popup)
 </li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
 	<a href="http://www.clothingshowroom.com/Kids-Apparel-s/67.htm" title="Kids Apparel"><span style="font-family:Garamond; font-size:15px; color:white">Kid's Apparel</span></a>
+</li>
+<li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
+	<a href="http://www.clothingshowroom.com/Soy-Candles-Diffusers-s/93.htm" title="Soy Candles-Diffusers"><span style="font-family:Garamond; font-size:15px; color:white">Candles-Diffusers</span></a>
 </li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
 	<a href="http://www.clothingshowroom.com/Assorted-Deals-s/74.htm" title="Assorted Deals"><span style="font-family:Garamond; font-size:15px; color:white">Assorted Deals</span></a>
@@ -434,12 +460,10 @@ var pageTracker = _gat._getTracker("UA-664512-2");
 pageTracker._trackPageview();
 } catch(err) {}</script>
 
-<!-- Listrak Analytics – Script Source-->
 <script type="text/javascript">
 var biJsHost = (("https:" == document.location.protocol) ? "https://" : "http://");
 document.write(unescape("%3Cscript src='" + biJsHost + "s1.listrakbi.com/scripts/script.js?m=pa0fiXmf2YOy&v=1' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://s1.listrakbi.com/scripts/script.js?m=pa0fiXmf2YOy&amp;v=1" type="text/javascript"></script>
-<!-- Listrak Analytics - Submit Tracking Click-->
 <script type="text/javascript">
 _ltk.Click.Submit();
 </script>
