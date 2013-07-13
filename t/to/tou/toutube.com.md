@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toutube.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513052447id_/http%3A//www.toutube.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toutube.com privacy policy that was archived on 2013-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130714004409id_/http%3A//www.toutube.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Toutube - The Only Universal Tube: Privacy Policy
 
