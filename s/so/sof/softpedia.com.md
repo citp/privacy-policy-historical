@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the softpedia.com privacy policy that was archived on 2010-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100117070952id_/http%3A//www.softpedia.com/user/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softpedia.com privacy policy that was archived on 2013-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130714225440id_/http%3A//www.softpedia.com/user/privacy.shtml) for the most accurate reproduction.*
 
-# Privacy policy - Softpedia
+# Privacy policy
 
 Written in accordance with the provisions of Law 677/2001, regarding individual protection about collecting and free circulation of personal data. 
 
@@ -36,7 +36,7 @@ Softpedia uses the information collected from you for several purposes, dependin
 **How we protect information collected from you**  
 We show great interest in confidentiality. SoftNews NET does not offer your personal data to third parties without your prior express consent. Any statistics that we may offer to our partners or to advertisement networks does not include any personal identifying information about any individual user.
 
-Your access to certain services on the website is protected by a password. We advise you not to unveil this password to anyone. Softpedia will never ask for the password of your accounts through any kind of messages or unsolicited phone calls. We strongly advise you not to unveil your passwords to those who may ask you to. As a plus, if possible, you should remember to click �log off� / �sign out�, at the end of any working session in your account. We also advise you to close your browser window when you quit using the sites or the services provided by SoftNews Net. 
+Your access to certain services on the website is protected by a password. We advise you not to unveil this password to anyone. Softpedia will never ask for the password of your accounts through any kind of messages or unsolicited phone calls. We strongly advise you not to unveil your passwords to those who may ask you to. As a plus, if possible, you should remember to click "log off" / "sign out", at the end of any working session in your account. We also advise you to close your browser window when you quit using the sites or the services provided by SoftNews Net. 
 
 These pieces of advice are meant to restrain the access of unauthorized persons to your personal information or mail, especially when you work in a computer network in a public place (net cafe for example).
 
