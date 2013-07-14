@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coupondunia.in privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625015647id_/http%3A//www.coupondunia.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coupondunia.in privacy policy that was archived on 2013-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130715001830id_/http%3A//www.coupondunia.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
