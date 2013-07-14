@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jseblod-cck.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014211308id_/http%3A//www.seblod.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jseblod-cck.com privacy policy that was archived on 2013-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130714132633id_/http%3A//www.seblod.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - SEBLOD The Ultimate CCK for Joomla!
+# Privacy Policy
 
 Seblod is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Seblod.com Web site and governs data collection and usage. By using the Seblod website, you consent to the data practices described in this statement.
 
@@ -30,4 +30,4 @@ Seblod will occasionally update this Statement of Privacy to reflect company and
 
 ## Contact Information
 
-Seblod welcomes your comments regarding this Statement of Privacy. If you believe that Seblod has not adhered to this Statement, please contact Seblod : [contact form](http://www.seblod.com/contact-us/form/contact.html "Contact Form"). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+Seblod welcomes your comments regarding this Statement of Privacy. If you believe that Seblod has not adhered to this Statement, please contact Seblod : [contact form](http://www.seblod.com/contact/). We will use commercially reasonable efforts to promptly determine and remedy the problem.
