@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the karvy.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510004530id_/http%3A//karvy.com/v2/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karvy.com privacy policy that was archived on 2013-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130714044048id_/http%3A//karvy.com/v2/privacyPolicy.aspx) for the most accurate reproduction.*
 
 # KARVY :: KEEP GROWING
 
