@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashionfling.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620172544id_/http%3A//www.fashionfling.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionfling.com privacy policy that was archived on 2013-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130715001949id_/http%3A//www.fashionfling.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
