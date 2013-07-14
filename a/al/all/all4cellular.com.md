@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the all4cellular.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524223135id_/http%3A//www.all4cellular.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the all4cellular.com privacy policy that was archived on 2013-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130714111639id_/http%3A//www.all4cellular.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - All4Cellular.com we carry Batteries, Cases, Chargers, Headsets and Much More
 
