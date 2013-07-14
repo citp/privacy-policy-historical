@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the a4c.com privacy policy that was archived on 2013-05-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130524223135id_/http%3A//www.all4cellular.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the a4c.com privacy policy that was archived on 2013-07-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130714111639id_/http%3A//www.all4cellular.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Privacy Policy -  All4Cellular.com we carry Batteries, Cases, Chargers, Headsets and Much More</title>
+<meta http-equiv="X-UA-Compatible" content="IE=8">
 <meta name="description" content="All4Cellular is your one stop shop for all your cell phone accessory needs. All4Cellular is a company with customer service in mind, so feel free to contact us with any questions you might have, we would be more than happy to assist you.">
 <meta name="keywords" content="All4Cellular, Privacy, Policy, terms,">
 <meta name="robots" content="INDEX,FOLLOW">
@@ -193,7 +194,7 @@ $jQueryconflict=jQuery;
 
 
 			<div class="bottom_box right ak">
-				
+			<a href="https://www.facebook.com/all4cellular" target="_blank"><img title="Facebook Notice" src="https://www.all4cellular.com/media/facebook4.png" alt="Facebook"></a>	
 			
 			<div class="right"><a href="http://www.all4cellular.com/policies/"><img title="Free Shipping" src="https://www.all4cellular.com/skin/frontend/default/a4c/images/free_shipping.png" alt="Free Shipping"></a></div>	
 			</div>
@@ -208,21 +209,59 @@ $jQueryconflict=jQuery;
 		<style>
 
 .first_level {
-background: url(http://58a57de374705e0d6ed7-ab6ce2297533b373a8d0a45a0a76a339.r1.cf2.rackcdn.com/skin/frontend/default/a4c/images/nav_divider.jpg) no-repeat;
+background: url(/skin/frontend/default/a4c/images/nav_divider.jpg) no-repeat;
 }
 
 </style>
 <div class="left" id="vert_nav">
 
+<script type="text/javascript">
+
+function ismobile() {
+var check = false;
+var agent = navigator.userAgent;
+if (navigator.userAgent.match(/(Tablet)/)) { 
+	check = true;
+} else {
+	check = false;
+}
+return check;
+}
+
+function loadmenu() {
+
+if (ismobile()==true) { 
+	var menu_url="/menu/ajax-mobile.html";
+} else {
+	var menu_url="/menu/ajax.html";
+}
+
+jQuery.ajax({
+    url: menu_url,
+    dataType: "html",
+    success: function(data) {
+            jQuery('#menucontent').html(data);
+    }
+});
+
+
+
+
+}
+
+</script>
+
+<!-- Menu -->
+<span id="menucontent">
 
 <style>
 
 .all4cellular_container {
 clear:both;
-	margin:0;
-	position:relative;
-	float:left;
-	z-index:9999;
+        margin:0;
+        position:relative;
+        float:left;
+        z-index:9999;
 
 background: url(/skin/frontend/default/a4c/images/nav_divider.jpg) no-repeat;
 float: right !important;
@@ -232,1266 +271,45 @@ margin-left:10px;
 
 }
 
-	.all4cellular_container:hover {
-		cursor:default;
- 
-
-	}
-	.all4cellular_container a {
-		text-decoration: none;
-	}
-	.all4cellular_container a:focus {
-			outline:none;
-	}
-
-/* Menu Button */
-.all4cellular {
-	font-family:Helvetica, Arial, sans-serif;
-	list-style:none;
-	padding:0;
-	margin:0;
-	text-shadow:0 0 0 rgba(0,0,0,0);
-}
-
-.all4cellular .top_level {
-	display:inline;
-	border:none;
-	margin:0;
-	padding: 0 0 0 0px;
-}
-
-
-.all4cellular .all4cellular_main{
-	position:absolute;
-	top:-9999em;
-	left:-9999em;
-	width: 215px;
-	padding:0;
-	-webkit-box-shadow: 20px 20px 30px rgba(0,0,0,.2);
-	-moz-box-shadow: 20px 20px 30px rgba(0,0,0,.2);
-	-o-box-shadow: 20px 20px 30px rgba(0,0,0,.2);
-	box-shadow: 20px 20px 30px rgba(0,0,0,.2);
-	
-
-	background:#FFF;
-	opacity:0;
-	margin-left:-1px;
-}
-
-.all4cellular .all4cellular_main ul {
-	position:absolute;
-	top:-9999em; /* Used to avoid scrollbars */
-	left:-9999em;
-	margin:0 0 40px 0px;
-	padding:0;
-	-webkit-box-shadow: 20px 20px 30px rgba(0,0,0,.2);
-	-moz-box-shadow: 20px 20px 30px rgba(0,0,0,.2);
-	-o-box-shadow: 20px 20px 30px rgba(0,0,0,.2);
-	box-shadow: 20px 20px 30px rgba(0,0,0,.2);
-	border:solid 1px #000000;
-	border-left: none;
-	border-top:solid 0px #000000;
-	background:#FFF;
-	opacity:0;
-}
-.all4cellular .all4cellular_main li > .left_dropdown {
-	left:-100%;
-}
-
-.all4cellular > li .main_opened {
-	top:42px;
-	left:0;
-	opacity:1;
-}
-
-.all4cellular_toggle .all4cellular_main {
-	top:37px;
-	 -webkit-transition: opacity 0.4s 0.2s, top 0.3s 0.2s;
-	-moz-transition: opacity 0.4s 0.2s, top 0.3s 0.2s;
-	-o-transition: opacity 0.4s 0.2s, top 0.3s 0.2s;
-	-ms-transition: opacity 0.4s 0.2s, top 0.3s 0.2s;
-	transition: opacity 0.4s 0.2s, top 0.3s 0.2s; 
-
-
-
-	
-}
-
-
-.all4cellular_toggle .all4cellular_main ul {
-	left:90%;
-	-webkit-transition: opacity 0.4s 0.2s, left 0.7s 0.1s;
-	-moz-transition: opacity 0.4s 0.2s, left 0.7s 0.1s;
-	-o-transition: opacity 0.4s 0.2s, left 0.7s 0.1s;
-	-ms-transition: opacity 0.4s 0.2s, left 0.7s 0.1s;
-	transition: opacity 0.4s 0.2s, left 0.7s 0.1s;
-
-}
-
-
-.all4cellular_toggle .all4cellular_main ul {
-opacity:0;
-}
-
-#all4cellular_hover:hover {
-opacity:1;
-}
-
-
-.all4cellular_toggle .all4cellular_main li > .left_dropdown {
-	left:-90%;
-}
-
-
-.all4cellular > li .all4cellular_main a {
-	text-decoration: none;
-	color:#73A52C;
-
-
-}
-
-.all4cellular > li ul {
-	list-style: none;
-	padding:0 0 0 0px;
-	margin:0 0 0px 0;
-
-
-}
-
-/* First Level */
-.all4cellular > li > ul > li {
-	position:static;
-}
-.all4cellular > li > ul > li:hover ul > li > a{
-	color: #333;
-	font-weight: normal;
-
- 
-
-}
-
-.all4cellular .column1 .h5bold {
-	font-size: 15px;
-	cursor: default;
-	line-height:16px;
-	padding: 0;
-	margin-left: 0px;
-	margin-top: 0px;
-	margin-bottom: 0px;
-	padding-bottom:0px;
-	font-weight: bolder !important;
-	position: relative;
-	z-index: 2;
-	color: #255A8E;
-	padding-top:6px;
-	padding-bottom:4px;
-}
-
-.all4cellular .column2 .h5bold {
-	font-size: 15px;
-	cursor: default;
-	line-height:16px;
-	padding: 0;
-	margin-left: 0px;
-	margin-top: 0px;
-	margin-bottom: 0px;
-	padding-bottom:0px;
-	font-weight: bolder !important;
-	position: relative;
-	z-index: 2;
-	color: #255A8E;
-	padding-top:6px;
-	padding-bottom:4px;
-}
-
-.all4cellular .column1 h5 {
-	font-size: 14px;
-	cursor: default;
-	line-height:16px;
-	padding: 0;
-	margin-left: 0px;
-	margin-top: 0px;
-	margin-bottom: 0px;
-	padding-bottom:0px;
-	font-weight: bolder !important;
-	position: relative;
-	z-index: 2;
-	color: #255A8E;
-	padding-top:6px;
-	padding-bottom:4px;
-}
-.all4cellular .column2 h5 {
-	font-size: 14px;
-	cursor: default;
-	line-height:16px;
-	padding: 0;
-	margin-left: 0px;
-	margin-top: 0px;
-	margin-bottom: 0px;
-	padding-bottom:0px;
-	font-weight: bolder !important;
-	position: relative;
-	z-index: 2;
-	color: #255A8E;
-	padding-top:6px;
-	padding-bottom:4px;
-}
-
-.all4cellular .column1 h3{
-	font-size: 14px;
-	cursor: default;
-	line-height:15px;
-	padding: 0;
-	margin-left: 0px;
-	margin-top: 0px;
-	margin-bottom: 0px;
-	font-weight: bolder !important;
-	position: relative;
-	z-index: 2;
-	color: #EF671D;
-	padding-top:4px;
-	padding-bottom:4px;
-
-}
-.all4cellular .column2 h3{
-	font-size: 14px;
-	cursor: default;
-	line-height:15px;
-	padding: 0;
-	margin-left: 0px;
-	margin-top: 0px;
-	margin-bottom: 0px;
-	font-weight: bolder !important;
-	position: relative;
-	z-index: 2;
-	color: #EF671D;
-	padding-top:4px;
-	padding-bottom:4px;
-
-}
-.all4cellular > li > ul > li:hover a{
-	color:#000000;
-	font-weight: normal;
-	
-
-
-
-
-}
-.all4cellular > li > ul > li:hover span{
-	color: #999;
-	font-weight: normal;
-}
-.all4cellular > li > ul > li:hover{
-	cursor: pointer;
-}
-
-/* Second Level */
-.all4cellular .first {
-	padding: 0;
-	height: 39px;
-}
-.all4cellular .first ul li{
-	display: inline-block;
-	position: relative;
-	z-index: 2;
-	cursor: pointer;	
-}
-.all4cellular .first ul li a{
-	display: block;
-	color: #000;
-	font-weight: normal;
-	cursor: pointer;
-	font-size:13px;
-	line-height:18px;
-}
-.all4cellular .first ul li a:hover {
-	color:#73A52C;
-	cursor: pointer;
-}
-
-.all4cellular .title {
-	padding: 0;
-	height: 36px;
-
-}
-.all4cellular .title ul li{
-	display: inline-block;
-	position: relative;
-	z-index: 2;
-	cursor: pointer;	
-}
-.all4cellular .title ul li a{
-	display: block;
-	color: #000;
-	font-weight: normal;
-	cursor: pointer;
-	font-size:13px;
-	line-height:18px;
-}
-.all4cellular .title ul li a:hover{
-	color:#73A52C;
-	cursor: pointer;
-}
-
-.all4cellular > li > ul > li > ul > li {
-	font-size:13px;
-	/* 1 column submenus 
-	display: inline-block;
-	width: 50%;*/
-	
-	padding: 0 0 0 18px;
-	/* 2 column submenus */
-	display: block;
-	
-	
-	padding: 0 0 0 18px;
-	width:80%;
-	font-weight:normal;
-line-height:18px;
-
-}
-
-.all4cellular > li ul .relative_dropdown {
-	position:relative;
-}
-.all4cellular .small{
-display: inline-block;
-font-size: .85em;
-color: #999;
-}
-.all4cellular .flyout {
-	position: absolute;
-	bottom:-12px;
-	right: -20px;
-	z-index: 2;
-	border:0 none;
-	cursor: pointer;
-}
-
 .all4cellular .shop, .shop a {
-	font: 15px Arial, Helvetica, sans-serif;
-	font-weight:bold;
-	height:50px;
-	width:84px;
-	color: #fff;
-	z-index: 1;
-	border:0 none;
-	cursor: pointer;
-	text-align: center;
-	vertical-align: middle;
-	line-height:45px;
+        font: 15px Arial, Helvetica, sans-serif;
+        font-weight:bold;
+        height:50px;
+        width:84px;
+        color: #fff;
+        z-index: 1;
+        border:0 none;
+        cursor: pointer;
+        text-align: center;
+        vertical-align: middle;
+        line-height:45px;
 }
 .all4cellular .shop:hover, shop a:hover {
-	height:50px;
-	width:84px;
-	font: 15px Arial, Helvetica, sans-serif;
-	font-weight:bold;
-	color:#345781;
-	background-color:#F0F0F0;
-	text-align: center;
-	vertical-align: middle;
-	line-height:45px;
+        height:50px;
+        width:84px;
+        font: 15px Arial, Helvetica, sans-serif;
+        font-weight:bold;
+        color:#345781;
+        background-color:#F0F0F0;
+        text-align: center;
+        vertical-align: middle;
+        line-height:45px;
 }
 
-.all4cellular .bluetooth {
-	display: block;
-	width: 215px;
-	height: 39px;
-	background: url('/menu/category-bluetooth.png') bottom;
-	text-indent: -99999px;
-	background-position: 0 39px;
-}
-.all4cellular .bluetooth:hover {
-	background-position: 0 0;
-}
-
-.all4cellular .headsets {
-	display: block;
-	width: 215px;
-	height: 36px;
-	background: url('/menu/category-headsets.png') bottom;
-	text-indent: -99999px;
-	background-position: 0 36px;
-}
-.all4cellular .headsets:hover {
-	background-position: 0 0;
-}
-
-.all4cellular .cases {
-	display: block;
-	width: 215px;
-	height: 36px;
-	background: url('/menu/category-cases.png') bottom;
-	text-indent: -99999px;
-	background-position: 0 36px;
-}
-.all4cellular .cases:hover {
-	background-position: 0 0;
-}
-
-.all4cellular .batteries {
-	display: block;
-	width: 215px;
-	height: 36px;
-	background: url('/menu/category-batteries.png') bottom;
-	text-indent: -99999px;
-	background-position: 0 36px;
-}
-.all4cellular .batteries:hover {
-	background-position: 0 0;
-}
-
-.all4cellular .chargers {
-	display: block;
-	width: 215px;
-	height: 36px;
-	background: url('/menu/category-chargers.png') bottom;
-	text-indent: -99999px;
-	background-position: 0 36px;
-}
-.all4cellular .chargers:hover {
-	background-position: 0 0;
-}
-
-.all4cellular .cables {
-	display: block;
-	width: 215px;
-	height: 36px;
-	background: url('/menu/category-cables.png') bottom;
-	text-indent: -99999px;
-	background-position: 0 36px;
-}
-.all4cellular .cables:hover {
-	background-position: 0 0;
-}
-
-.all4cellular .screen-protectors {
-	display: block;
-	width: 215px;
-	height: 36px;
-	background: url('/menu/category-screen-protectors.png') bottom;
-	text-indent: -99999px;
-	background-position: 0 36px;
-}
-.all4cellular .screen-protectors:hover {
-	background-position: 0 0;
-}
-
-.all4cellular .speaker-systems {
-	display: block;
-	width: 215px;
-	height: 36px;
-	background: url('/menu/category-speaker-systems.png') bottom;
-	text-indent: -99999px;
-	background-position: 0 36px;
-}
-.all4cellular .speaker-systems:hover {
-	background-position: 0 0;
-}
-
-.all4cellular .docks {
-	display: block;
-	width: 215px;
-	height: 36px;
-	background: url('/menu/category-docks.png') bottom;
-	text-indent: -99999px;
-	background-position: 0 36px;	
-}
-.all4cellular .docks:hover {
-	background-position: 0 0;
-}
-
-.all4cellular .parts {
-	display: block;
-	width: 215px;
-	height: 36px;
-	background: url('/menu/category-parts.png') bottom;
-	text-indent: -99999px;
-	background-position: 0 36px;	
-}
-.all4cellular .parts:hover {
-	background-position: 0 0;
-}
-
-.all4cellular .memory {
-	display: block;
-	width: 215px;
-	height: 36px;
-	background: url('/menu/category-memory.png') bottom;
-	text-indent: -99999px;
-	background-position: 0 36px;	
-}
-.all4cellular .memory:hover {
-	background-position: 0 0;
-}
-
-.all4cellular .other {
-	display: block;
-	width: 215px;
-	height: 34px;
-	background: url('/menu/category-other.png') bottom;
-	text-indent: -99999px;
-	background-position: 0 34px;	
-}
-.all4cellular .other:hover {
-	background-position: 0 0;
-}
-
-.all4cellular .column1 {
-	float:left;width:40%;
-}
-.all4cellular .column2 {
-	float:left;width:40%;
-	padding-top:7px;
-}
-.view_more {
-	font-weight: bold !important;
-}
-.all4cellular .shophover, .shophover a {
-	height:50px;
-	width:84px;
-	font: 15px Arial, Helvetica, sans-serif;
-	font-weight:bold;
-	color:#345781;
-	background-color:#F0F0F0;
-	text-align: center;
-	vertical-align: middle;
-	line-height:45px;
-}
-.all4cellular .categoryhover {
-	background-position: 0 0;
-}
-
-.all4cellular .all4cellular_one {
-	top:46px;
-	left:0;
-	opacity:1;
-	border:solid 1px #000000;
-	border-top:solid 0px #000000;
-	z-index:0;
-	display:block;
-}
-
-
-.specials_ul {
-	-webkit-box-shadow: 20px 20px 30px rgba(0,0,0,.2);
-	-moz-box-shadow: 20px 20px 30px rgba(0,0,0,.2);
-	-o-box-shadow: 20px 20px 30px rgba(0,0,0,.2);
-	box-shadow: 20px 20px 30px rgba(0,0,0,.2);
-	margin-left:-1px;
-}
-
-.has_child li {
-	border:solid 1px #000000;
-	border-top:solid 0px #000000;
-}
-
-.block_newsletter {
-	border-bottom:solid 1px #000000;
-}
-
-.shop-by-phone {
-	z-index:2;
-	border:0px;
-}
-.block .block-title {
-	border-bottom:0px;
-}
 </style>
-<script type="text/javascript" src="/menu/jquery.hoverIntent.minified.js"></script>
-
-
-<script type="text/javascript">
-		
-var id="";
-
-
-
-jQuery(document).ready(function(){
-
-var config1 = {    
-    over: showShop, // function = onMouseOver callback (REQUIRED)    
-    timeout: 500, // number = milliseconds delay before onMouseOut    
-    interval: 1, // number = milliseconds delay before trying to call over    
-    out: hideShop // function = onMouseOut callback (REQUIRED)    
-};
-
-jQuery(".top_level").hoverIntent( config1 );
-
-	function showShop() { 
-		//jQuery('#all4cellular_hover').removeClass('all4cellular_main');
-		jQuery('#all4cellular_hover').addClass('all4cellular_one');
-		jQuery('.shop').addClass('shophover');
-
-	}
-	function hideShop() {
-		//jQuery('#all4cellular_hover').removeClass('all4cellular_main');
-		//setTimeout(function(){ jQuery('#all4cellular_hover').removeClass('all4cellular_one') }, 2000);
-		jQuery('#all4cellular_hover').removeClass('all4cellular_one');
-		jQuery('.shop').removeClass('shophover');
-	}
-
-var config = {    
-     over: showMenu, // function = onMouseOver callback (REQUIRED)    
-     timeout: 500, // number = milliseconds delay before onMouseOut    
-     interval: 1, // number = milliseconds delay before trying to call over    
-     out: hideMenu // function = onMouseOut callback (REQUIRED)    
-};
-
-jQuery(".title").hoverIntent( config );
-
-function resetMenu() {
-	document.getElementById('bluetooth1').style.display="none";
-	document.getElementById('headsets1').style.display="none";
-	document.getElementById('cases1').style.display="none";
-	document.getElementById('batteries1').style.display="none";
-	document.getElementById('chargers1').style.display="none";
-	document.getElementById('cables1').style.display="none";
-	document.getElementById('screen-protectors1').style.display="none";
-	document.getElementById('speaker-systems1').style.display="none";
-	document.getElementById('docks1').style.display="none";
-	document.getElementById('parts1').style.display="none";
-	document.getElementById('memory1').style.display="none";
-	document.getElementById('other1').style.display="none";
-}
-
-function resetCategories() {
-
-	jQuery('.bluetooth').removeClass('categoryhover');
-	jQuery('.headsets').removeClass('categoryhover');
-	jQuery('.cases').removeClass('categoryhover');
-	jQuery('.batteries').removeClass('categoryhover');
-	jQuery('.chargers').removeClass('categoryhover');
-	jQuery('.cables').removeClass('categoryhover');
-	jQuery('.screen-protectors').removeClass('categoryhover');
-	jQuery('.speaker-systems').removeClass('categoryhover');
-	jQuery('.docks').removeClass('categoryhover');
-	jQuery('.parts').removeClass('categoryhover');
-	jQuery('.memory').removeClass('categoryhover');
-	jQuery('.other').removeClass('categoryhover');
-}
-
-function showMenu() {
-				resetMenu();
-				
-           		id = (jQuery(this).attr('id'));
-           		document.getElementById(''+id+'1').style.display="block";
-				//jQuery(this).addClass('active');                        
-           		//jQuery('.shop').addClass('shophover');
-				resetCategories();
-				jQuery('.'+id).addClass('categoryhover');
-
-
-}
-
-function hideMenu() { 
-           		id = (jQuery(this).attr('id'));
-				document.getElementById(''+id+'1').style.display="none";
-				
-		        //setTimeout(function(){ document.getElementById(''+id+'1').style.display="none"; }, 2000);
-				//jQuery(this).children('ul').hide();
-				//jQuery('.shop').removeClass('shophover');
-				//jQuery('.'+id).removeClass('categoryhover');
-				jQuery('.'+id).removeClass('categoryhover');
-
-}
-                       
-});             
-
-</script>
-
 
 <div class="all4cellular_container" id="reset_div">
 
 <!-- Menu -->
 
 <ul class="all4cellular all4cellular_toggle">
-	<li class="top_level"><div class="shop" id="shop"><a href="/cellular.html">Shop</a></div>
-		<ul class="all4cellular_main" id="all4cellular_hover">
-
-			<!-- Bluetooth -->
-
-			<li class="title" id="bluetooth" style="height:39px;">
-				<a href="/bluetooth-headsets.html" class="bluetooth"></a>
-					<ul id="bluetooth1" style="	top:0px;
-	left:99.6%;
-	opacity:1;
-	height: 100%;
-	width: 632px;text-align:left;display:none;"><li style="padding-top:10px;">
-
-						<div class="column1">
-
-							<h5><a class="h5bold" href="/bluetooth-headsets.html">Bluetooth</a></h5>
-							<h3>Popular Manufacturers</h3>
-							<a href="/bluetooth-headsets.html?manufacture=4">Motorola</a>
-							<a href="/bluetooth-headsets.html?manufacture=6">Plantronics</a>
-							<a href="/bluetooth-headsets.html?manufacture=3">Aliph</a>
-							<a href="/bluetooth-headsets.html?manufacture=5">Jabra</a>
-							<a href="/bluetooth-headsets.html?manufacture=127">Samsung</a>
-							<a href="/bluetooth-headsets.html?manufacture=183">BlueAnt</a>
-							<a href="/bluetooth-headsets.html?manufacture=120">LG</a>
-							<h3>Popular Colors</h3>
-							<a href="/bluetooth-headsets.html#!/color=23-209&amp;order=name&amp;no_cache=true&amp;p=clear">Black</a>
-							<a href="/bluetooth-headsets.html?color=20">White</a>
-							<a href="/bluetooth-headsets.html?color=25#!/order=name&amp;no_cache=true&amp;color=24-447-726-1497&amp;p=clear">Silver</a>
-							<a href="/bluetooth-headsets.html?color=25#!/color=132-296&amp;order=name&amp;no_cache=true&amp;p=clear">Gray</a>
-							<a href="/bluetooth-headsets.html#!/color=271-277-21&amp;order=name&amp;no_cache=true&amp;p=clear">Red</a>
-							<a href="/bluetooth-headsets.html#!/color=253-211-22&amp;order=name&amp;no_cache=true&amp;p=clear">Purple</a>
-							<a href="/bluetooth-headsets.html?color=25">Blue</a>
-							<h3>Style</h3>
-							<a href="/catalogsearch/advanced/result/?name=&amp;price%5Bfrom%5D=&amp;price%5Bto%5D=&amp;category=3&amp;style%5B%5D=100&amp;processor2=&amp;three_g_support=&amp;flash_support=&amp;screen_type=">Ear Loop</a>
-							<a href="/catalogsearch/advanced/result/?name=&amp;price%5Bfrom%5D=&amp;price%5Bto%5D=&amp;category=3&amp;style%5B%5D=101&amp;processor2=&amp;three_g_support=&amp;flash_support=&amp;screen_type=">In-Ear</a>
-
-						</div><div class="column2">
-						
-							
-							<a class="h5bold" href="/bluetooth-headsets.html#!/bluetooth_compliant=7-585&amp;order=name&amp;no_cache=true&amp;p=clear">Music Enabled</a>
-							<a class="h5bold" href="/catalogsearch/result/?q=Bluetooth+Speaker&amp;cat=&amp;x=0&amp;y=0">Bluetooth Speakers</a>
-							<a class="h5bold" href="/nsearch?cat=&amp;keywords=Bluetooth+Keyboard">Bluetooth Keyboards</a>
-							<a class="view_more" href="/bluetooth-headsets.html">View All...</a>
-
-						</div>
-
-					</li>
-
-						<a href="/nsearch?cat=&amp;keywords=Bluetooth+Speaker"><img src="/menu/flyout-bluetooth.png" class="flyout" border="0" alt="Drive safely and responsibly, use a Bluetooth device."></a>
-					</ul>
-			</li>
-
-			<!-- end of Bluetooth -->
-
-
-			<!-- Headsets -->
-
-			<li class="title" id="headsets">
-				<a href="/wired-headsets.html" class="headsets"></a>
-					<ul id="headsets1" style="	top:0px;
-	left:99.6%;
-	opacity:1;
-	height: 100%;
-	width: 632px;text-align:left;display:none;"><li style="padding-top:10px;">
-
-						<div class="column1">
-
-							<h5><a class="h5bold" href="/wired-headsets.html">Headsets</a></h5>
-							<h3>Popular Manufacturers</h3>
-							<a href="/wired-headsets.html?manufacture=391">Skullcandy</a>
-							<a href="/wired-headsets.html?manufacture=127">Samsung</a>
-							<a href="/wired-headsets.html?manufacture=189">Aftermarket</a>
-							<a href="/wired-headsets.html?manufacture=126">HTC</a>
-							<a href="/wired-headsets.html?manufacture=122">Blackberry</a>
-							<h3>Popular Colors</h3>
-							<a href="/wired-headsets.html?color=23">Black</a>
-							<a href="/wired-headsets.html?color=20">White</a>
-							<a href="/wired-headsets.html?color=24">Silver</a>
-							<a href="/wired-headsets.html?color=25">Blue</a>
-							<a href="/wired-headsets.html?color=21">Red</a>
-							<h3>Connector Types</h3>
-							<a href="/wired-headsets.html?plug=142">3.5mm</a>
-							<a href="/wired-headsets.html?plug=143">2.5mm</a>
-							<a href="/wired-headsets.html?plug=140-541">Micro-USB</a>
-	
-						
-						</div><div class="column2">
-						
-
-
-							<a class="h5bold" href="/nsearch?page=1&amp;cat=&amp;keywords=Hands-Free&amp;Storecategories=Wired+Headsets">Hands-Free Headsets</a>
-							<a class="h5bold" href="/nsearch?cat=&amp;keywords=Audio+Adapter">Audio Adapters</a>
-							<a class="view_more" href="/wired-headsets.html">View All...</a>
-
-						</div>
-
-					</li>
-
-						<a href="/wired-headsets.html"><img src="/menu/flyout-headsets.png" class="flyout" border="0" alt="Feel the music!  Shop now."></a>
-					</ul>
-			</li>
-
-			<!-- end of Headsets -->
-
-			<!-- Cases -->
-
-			<li class="title" id="cases">
-				<a href="/cases.html" class="cases"></a>
-					<ul id="cases1" style="	top:0px;
-	left:99.6%;
-	opacity:1;
-	height: 100%;
-	width: 632px;text-align:left;display:none;"><li style="padding-top:10px;">
-
-						<div class="column1">
-
-							<h5><a class="h5bold" href="/cases.html">Cases</a></h5>
-							<h3>Popular Manufacturers</h3>
-							<a href="/cases.html?manufacture=369">Otterbox</a>
-							<a href="/cases.html?manufacture=189">Aftermarket</a>
-							<a href="/cases.html?manufacture=270">Case-Mate</a>
-							<a href="/cases.html?manufacture=206">Body Glove</a>
-							<a href="/cases.html?manufacture=387">Incipio</a>
-							<h3>Popular Phones</h3>
-							<a href="/root?make=12&amp;model=iPad+2&amp;store_categories=106">iPad 2/3</a>
-							<a href="/root?limit=15&amp;make=12&amp;model=iPhone+4S+%28ATT%29&amp;store_categories=106">iPhone 4/S</a>
-							<a href="/apple-iphone-5-accessories.html?&amp;store_categories=106">iPhone 5</a>
-							<a href="/shopbyphone/index/result/?make=4&amp;carrier=&amp;model=Galaxy+S+III&amp;cat=2#!/make=4&amp;model=Galaxy%20S%20III&amp;cat=2&amp;p=clear&amp;store_categories=106">Galaxy S III</a>
-							<a href="/cases.html">Galaxy S II</a>
-						
-							<h3>Case Types</h3>
-							<a href="/cases.html?case_types=668">Cases with Holsters</a>
-							<a href="/cases.html?case_types=663">Waterproof Cases</a>
-							<a href="/nsearch?page=1&amp;cat=&amp;keywords=Universal+Cases&amp;Storecategories=Cases">Universal Cases</a>
-							<a href="/cases.html?case_types=702">Portfolio Cases</a>
-							<a href="/cases.html?case_types=679">Battery Cases</a>
-							<a class="view_more" href="/cases.html">View All...</a>
-						
-						</div><div class="column2">
-
-						</div>
-
-					</li>
-
-						<a href="/cases.html"><img src="/menu/flyout-cases.png" class="flyout" border="0" alt=""></a>
-					</ul>
-			</li>
-
-			<!-- end of Cases -->
-
-			<!-- Batteries -->
-
-			<li class="title" id="batteries">
-				<a href="/batteries.html" class="batteries"></a>
-					<ul id="batteries1" style="	top:0px;
-	left:99.6%;
-	opacity:1;
-	height: 100%;
-	width: 632px;text-align:left;display:none;"><li style="padding-top:10px;">
-
-
-						<div class="column1">
-
-							<h5><a class="h5bold" href="/batteries.html">Batteries</a></h5>
-							<h3>Popular Manufacturers</h3>
-							<a href="/batteries.html?manufacture=127">Samsung</a>
-							<a href="/batteries.html?manufacture=126">HTC</a>
-							<a href="/batteries.html?manufacture=122">Blackberry</a>
-							<a href="/batteries.html?manufacture=4">Motorola</a>
-							<a href="/batteries.html?manufacture=120">LG</a>
-							<a href="/batteries.html?manufacture=123">Nokia</a>
-							<a href="/batteries.html?manufacture=176">Pantech</a>
-							<a href="/batteries.html?manufacture=189">Aftermarket</a>
-							<a href="/batteries.html?manufacture=306">Huawei</a>
-							<a href="/batteries.html?manufacture=121">Sony Ericsson</a>
-							<a href="/batteries.html?manufacture=494">XPAL</a>
-							<a href="/batteries.html?manufacture=475">Sanyo</a>
-							<a href="/batteries.html?manufacture=575">SaFPWR</a>
-							<a href="/batteries.html?manufacture=131">Palm</a>
-							<a class="h5bold" href="/batteries.html?battery_types=680#!/p=clear&amp;battery_types=680&amp;order=position">Extended Batteries &amp; Doors</a>
-							<a class="h5bold" href="/batteries.html?battery_types=679#!/p=clear&amp;battery_types=679&amp;order=name">Battery Cases</a>
-							
-						</div><div class="column2">
-
-							<a class="h5bold" href="/batteries.html?battery_types=681">Backup Batteries</a>
-							<a class="view_more" href="/batteries.html">View All...</a>
-
-						</div>
-
-					</li>
-
-						<a href="/batteries.html"><img src="/menu/flyout-batteries.png" class="flyout" border="0" alt=""></a>
-					</ul>
-			</li>
-
-			<!-- end of Batteries -->
-
-			<!-- Chargers -->
-
-			<li class="title" id="chargers">
-				<a href="/chargers.html" class="chargers"></a>
-					<ul id="chargers1" style="	top:0px;
-	left:99.6%;
-	opacity:1;
-	height: 100%;
-	width: 632px;text-align:left;display:none;"><li style="padding-top:10px;">
-
-						<div class="column1">
-
-							<h5><a class="h5bold" href="/chargers.html">Chargers</a></h5>
-							<h3>Popular Manufacturers</h3>
-							<a href="/chargers.html?manufacture=124">Samsung</a>
-							<a href="/chargers.html?manufacture=127">HTC</a>
-							<a href="/chargers.html?manufacture=189">Blackberry</a>
-							<a href="/chargers.html?manufacture=4">Motorola</a>
-							<a href="/chargers.html?manufacture=383">LG</a>
-							<h3>Popular Connector Types</h3>
-							<a href="/chargers.html?plug=532">USB</a>
-							<a href="/chargers.html?plug=541">Micro-USB</a>
-							<a href="/chargers.html?plug=530">Apple - 30-Pin</a>
-							<a href="/chargers.html?plug=1319">Apple - Lightning</a>
-							<a href="/chargers.html?plug=540">Mini-USB</a>
-							<a href="/chargers.html?plug=146">Unique</a>
-
-							<h3>Charger Type</h3>
-							<a href="/chargers.html?charger_types=688#!/p=clear&amp;charger_types=688">Wall Charger</a>
-							<a href="/chargers.html?charger_types=687#!/p=clear&amp;charger_types=687&amp;order=name">Car Charger</a>
-							<a href="/chargers.html?charger_types=686#!/p=clear&amp;charger_types=686&amp;order=name">Car and Wall Chargers</a>
-							
-						</div><div class="column2">
-				
-
-							<a class="h5bold" href="/chargers.html#!/p=clear&amp;charger_types=683">International Chargers</a>
-							<a class="view_more" href="chargers.html">View All...</a>						
-
-
-						</div>
-
-					</li>
-
-						<a href="/nsearch?cat=&amp;keywords=Lipstick+Charger"><img src="/menu/flyout-chargers.png" class="flyout" border="0" alt="Keep your old iPhone accessories; get the Lightning adapter.  Shop now"></a>
-					</ul>
-			</li>
-
-			<!-- end of Chargers -->
-
-			<!-- Cables -->
-
-			<li class="title" id="cables">
-				<a href="/usb-cables.html" class="cables"></a>
-					<ul id="cables1" style="	top:0px;
-	left:99.6%;
-	opacity:1;
-	height: 100%;
-	width: 632px;text-align:left;display:none;"><li style="padding-top:10px;">
-
-						<div class="column1">
-
-							<h5><a class="h5bold" href="/usb-cables.html">Cables</a></h5>
-							<h3>Popular Manufacturers</h3>
-							<a href="/usb-cables.html?manufacture=189">Afternarket</a>
-							<a href="/usb-cables.html?manufacture=124">T-Mobile</a>
-							<a href="/usb-cables.html?manufacture=127">Samsung</a>
-							<a href="/usb-cables.html?manufacture=126">HTC</a>
-							<a href="/usb-cables.html?manufacture=4">Motorola</a>
-							<a href="/usb-cables.html?manufacture=376">Apple</a>
-							<a href="/usb-cables.html?manufacture=122">Blackberry</a>
-							<a href="/usb-cables.html?manufacture=123">Nokia </a>
-							<h3>Popular Connector Types</h3>
-							<a href="/usb-cables.html?plug=541#!/plug=541-140&amp;order=name&amp;no_cache=true&amp;p=clear">Micro-USB</a>
-							<a href="/usb-cables.html?plug=530">Apple - 30-Pin</a>
-							<a href="/root?make=12&amp;model=iPhone+5&amp;plug=1319&amp;store_categories=137">Apple - Lightning</a>
-							<a href="/usb-cables.html#!/p=clear&amp;plug=540&amp;order=name">Mini-USB</a>
-							<a href="/usb-cables.html?plug=604#!/plug=604-603&amp;p=clear&amp;order=position">HDMI</a>	
-				
-						</div><div class="column2">
-
-							<h3>Cable Length</h3>
-							<a href="/usb-cables.html?cable_length=768#!/cable_length=768-1375-777&amp;order=name&amp;no_cache=true&amp;p=clear">6 Feet and Up</a>
-							<a href="/usb-cables.html#!/cable_length=1377-1365&amp;order=name&amp;no_cache=true&amp;p=clear">4-5 Feet</a>
-							<a href="/usb-cables.html?cable_length=767#!/cable_length=767-1456&amp;p=clear&amp;order=name">3 Feet and Under</a>
-							<a class="view_more" href="/usb-cables.html">View All...</a>						
-
-						</div>
-
-					</li>
-
-						<img class="flyout" id="Image-Maps_9201305071619392" src="/menu/flyout-cables.png" usemap="#Image-Maps_9201305071619392" border="0" width="550" height="450" alt="">
-						<map id="_Image-Maps_9201305071619392" name="Image-Maps_9201305071619392">
-							<area shape="rect" coords="230,33,481,83" href="/nsearch?cat=&amp;keywords=Organizer" alt="" title="">
-							<area shape="rect" coords="272,408,473,431" href="http://lineartgallery.com/web/Artist/Lohman/artist_bio/index.htm" alt="" title="" target="_blank">
-						</map>
-
-					</ul>
-			</li>
-
-			<!-- end of Cables -->
-
-			<!-- Screen Protectors -->
-
-			<li class="title" id="screen-protectors">
-				<a href="/screen-protectors.html" class="screen-protectors"></a>
-				<ul id="screen-protectors1" style="	top:0px;
-	left:99.6%;
-	opacity:1;
-	height: 100%;
-	width: 632px;text-align:left;display:none;"><li style="padding-top:10px;">
-
-
-						<div class="column1">
-
-							<h5><a class="h5bold" href="/screen-protectors.html">Screen Protectors</a></h5>
-							<h3>Popular Manufacturers</h3>
-							<a href="/screen-protectors.html?manufacture=124">T-Mobile</a>
-							<a href="/screen-protectors.html?manufacture=402">Zagg</a>
-							<a href="/screen-protectors.html?manufacture=189">Aftermarket</a>
-							<a href="/screen-protectors.html?manufacture=446">Moshi</a>
-							<a href="/screen-protectors.html?manufacture=270">Case-Mate</a>
-							<a href="/screen-protectors.html?manufacture=383">AT&amp;T</a>
-							<a href="/screen-protectors.html?manufacture=206">Body Glove</a>
-							<a href="/screen-protectors.html#!/p=clear&amp;manufacture=386&amp;order=name">iFrogz</a>
-							<h3>Screen Protector Type</h3>
-							<a href="/screen-protectors.html?screen_protector_types=678">Privacy</a>
-							<a href="/screen-protectors.html?screen_protector_types=676">Smudge Resistant</a>
-							<a href="/screen-protectors.html?screen_protector_types=675">Glare Resistant</a>
-							<a href="/screen-protectors.html?screen_protector_types=690#!/screen_protector_types=690-677&amp;p=clear&amp;order=name">Full-Coverage</a>	
-							<h3>Popular Phones</h3>
-							<a href="/nsearch?page=1&amp;cat=&amp;keywords=iPhone&amp;Storecategories=Screen+Protectors">iPhone</a>
-							<a class="h5bold" href="/nsearch?page=1&amp;cat=&amp;keywords=3+Pack&amp;Storecategories=Screen+Protectors">3-Pack</a>    							
-							<a class="view_more" href="/screen-protectors.html">View All...</a>						
-							
-						</div><div class="column2">
-
-
-
-						</div>
-
-					</li>
-
-						<a href="/screen-protectors.html?manufacture=402"><img src="/menu/flyout-screen-protectors.png" class="flyout" border="0" alt=""></a>
-					</ul>
-			</li>
-
-			<!-- end of Screen Protectors -->
-
-			<!-- Speaker Systems -->
-
-			<li class="title" id="speaker-systems">
-				<a href="/speaker-systems.html" class="speaker-systems"></a>
-					<ul id="speaker-systems1" style="	top:0px;
-	left:99.6%;
-	opacity:1;
-	height: 100%;
-	width: 632px;text-align:left;display:none;"><li style="padding-top:10px;">
-
-
-						<div class="column1">
-
-							<h5><a class="h5bold" href="/speaker-systems.html">Speaker Systems</a></h5>
-							<h3>Popular Manufacturers</h3>
-							<a href="/speaker-systems.html#!/order=position&amp;no_cache=true&amp;p=clear&amp;manufacture=385">iHome</a>
-							<a href="/speaker-systems.html#!/p=clear&amp;manufacture=3&amp;order=position">Aliph</a>
-							<a href="/speaker-systems.html?manufacture=174">Altec Lansing</a>
-							<a href="/speaker-systems.html#!/order=position&amp;no_cache=true&amp;p=clear&amp;manufacture=5">Jabra</a>
-							<h3>Popular Colors</h3>
-							<a href="/speaker-systems.html#!/order=position&amp;no_cache=true&amp;color=23-726&amp;p=clear">Black</a>
-							<a href="/speaker-systems.html#!/order=position&amp;no_cache=true&amp;color=397-132-24-726&amp;p=clear">Silver </a>
-							<a href="/speaker-systems.html#!/order=position&amp;no_cache=true&amp;p=clear&amp;color=21">Red</a>
-							<a href="/speaker-systems.html#!/order=position&amp;no_cache=true&amp;p=clear&amp;color=25">Blue</a>
-							<a href="/speaker-systems.html#!/p=clear&amp;color=22&amp;order=position">Pink</a>							
-							<h3>Connector Type</h3>
-							<a href="/speaker-systems.html#!/p=clear&amp;plug=142&amp;order=position">3.5mm</a>
-							<a href="/speaker-systems.html#!/p=clear&amp;plug=541&amp;order=position">Micro-USB</a>
-
-
-							<a class="h5bold" href="/nsearch?page=1&amp;cat=&amp;keywords=Speaker&amp;Storecategories=Bluetooth+Headsets">Bluetooth Speakers</a>
-							<a class="h5bold" href="/nsearch?page=1&amp;cat=&amp;keywords=Portable+Speaker&amp;Storecategories=Speaker+systems">Portable Speakers</a>
-							<a class="view_more" href="/speaker-systems.html">View All...</a>						
-						</div><div class="column2">
-
-					
-						</div>
-
-					</li>
-
-						<a href="/nsearch?cat=&amp;keywords=Big+Jambox"><img src="/menu/flyout-speaker-systems.png" class="flyout" border="0" alt=""></a>
-					</ul>
-			</li>
-
-			<!-- end of Speaker Systems -->
-
-			<!-- Docks -->
-
-			<li class="title" id="docks">
-				<a href="/docks.html" class="docks"></a>
-					<ul id="docks1" style="	top:0px;
-	left:99.6%;
-	opacity:1;
-	height: 100%;
-	width: 632px;text-align:left;display:none;"><li style="padding-top:10px;">
-
-
-						<div class="column1">
-
-							<h5><a class="h5bold" href="/docks.html">Docks</a></h5>
-							<h3>Popular Manufacturers</h3>
-							<a href="/docks.html?manufacture=127">Samsung</a>
-							<a href="/docks.html?manufacture=4">Motorola</a>
-							<a href="/docks.html?manufacture=124">T-Mobile</a>
-							<a href="/docks.html?manufacture=126">HTC</a>
-							<a href="/docks.html?manufacture=122">Blackberry</a>
-							<a href="/docks.html?manufacture=385">iHome</a>
-							<a href="/docks.html?manufacture=408">Dexim</a>
-
-							<h3>Popular Colors</h3>
-							<a href="/docks.html?color=23#!/color=23-726&amp;p=clear&amp;order=name">Black</a>
-							<a href="/docks.html?color=20">White</a>
-							<a href="/docks.html?color=24#!/color=24-726-132-397&amp;order=name&amp;no_cache=true&amp;p=clear">Silver</a>
-
-							<a class="h5bold" href="/nsearch?page=1&amp;cat=&amp;keywords=iphone+dock&amp;Storecategories=Other+accessories">iPhone Docks</a>
-							<a class="h5bold" href="/nsearch?page=1&amp;cat=&amp;keywords=Desktop+Dock&amp;Storecategories=Other+accessories">Desktop Docks</a>
-							<a class="h5bold" href="/nsearch?cat=&amp;keywords=keyboard+dock">Keyboard Docks</a>
-							<a class="h5bold" href="/nsearch?cat=&amp;keywords=Vehicle+Dock">Vehicle Docks</a>
-							<a class="view_more" href="/docks.html">View All...</a>
-
-						</div><div class="column2">
-							
-						</div>
-
-					</li>
-
-						<a href="/docks.html"><img src="/menu/flyout-docks.png" class="flyout" border="0" alt=""></a>
-					</ul>
-			</li>
-
-			<!-- end of Docks -->
-
-			<!-- Parts -->
-
-			<li class="title" id="parts">
-				<a href="/battery-doors.html" class="parts"></a>
-					<ul id="parts1" style="	top:0px;
-	left:99.6%;
-	opacity:1;
-	height: 100%;
-	width: 632px;text-align:left;display:none;"><li style="padding-top:10px;">
-
-
-						<div class="column1">
-
-							<h5><a class="h5bold" href="/battery-doors.html">Parts</a></h5>
-							<h3>Battery Doors</h3>
-							<a href="/battery-doors.html#!/order=position&amp;no_cache=true&amp;p=clear&amp;manufacture=122">Blackberry</a>
-							<a href="/battery-doors.html#!/order=position&amp;no_cache=true&amp;p=clear&amp;manufacture=127">Samsung</a>
-							<a href="/battery-doors.html#!/order=position&amp;no_cache=true&amp;p=clear&amp;manufacture=126">HTC</a>
-							<a href="/battery-doors.html#!/order=position&amp;no_cache=true&amp;p=clear&amp;manufacture=4">Motorola</a>
-							<a href="/battery-doors.html#!/order=position&amp;no_cache=true&amp;p=clear&amp;manufacture=123">Nokia</a>
-							<a href="/battery-doors.html#!/order=position&amp;no_cache=true&amp;p=clear&amp;manufacture=120">LG</a>
-							<a href="/battery-doors.html#!/order=position&amp;no_cache=true&amp;p=clear&amp;manufacture=121">Sony Ericsson</a>
-							<a href="/battery-doors.html#!/order=position&amp;no_cache=true&amp;p=clear&amp;manufacture=306">Huawei</a>
-							<a class="view_more" href="/parts.html#!/p=clear&amp;store_categories=148">View All...</a>
-							<h3>Digitizers</h3>
-							<a href="/parts.html#!/cat=38&amp;order=name&amp;no_cache=true&amp;p=clear&amp;manufacture=126">HTC</a>
-							<a href="/parts.html#!/cat=38&amp;order=name&amp;no_cache=true&amp;p=clear&amp;manufacture=127">Samsung</a>
-							<a href="/parts.html#!/cat=38&amp;order=name&amp;no_cache=true&amp;p=clear&amp;manufacture=189">Aftermarket</a>
-							<a href="/parts.html#!/cat=38&amp;order=name&amp;no_cache=true&amp;p=clear&amp;manufacture=4">Motorola</a>
-							<a href="/digitizers.html#!/order=name&amp;no_cache=true&amp;p=clear&amp;manufacture=376">Apple</a>
-							<a href="/parts.html#!/cat=38&amp;order=name&amp;no_cache=true&amp;p=clear&amp;manufacture=122">Blackberry</a>
-							<a href="/digitizers.html#!/order=name&amp;no_cache=true&amp;p=clear&amp;manufacture=120">LG</a>
-							<a class="view_more" href="/digitizers.html">View All...</a>
-
-							
-						</div><div class="column2">
-
-							<a class="h5bold" href="/tools.html">Tools</a>
-							<a class="h5bold" href="/housing.html">Housing</a>
-							<a class="h5bold" href="/trackpads.html">Trackpads</a>
-
-						</div>
-
-					</li>
-
-						<a target="_blank" href="http://www.all4cellularblog.com/2012/08/do-it-yourself-screen-repair/"><img src="/menu/flyout-parts.png" class="flyout" border="0" alt=""></a>
-					</ul>
-			</li>
-
-			<!-- end of Parts -->
-
-			<!-- Memory -->
-
-			<li class="title" id="memory">
-				<a href="/memory-cards.html" class="memory"></a>
-					<ul id="memory1" style="	top:0px;
-	left:99.6%;
-	opacity:1;
-	height: 100%;
-	width: 632px;text-align:left;display:none;"><li style="padding-top:10px;">
-
-
-						<div class="column1">
-
-							<h5><a class="h5bold" href="/memory-cards.html">Memory</a></h5>
-							<h3>Popular Manufacturer</h3>
-							<a href="/memory-cards.html#!/p=clear&amp;manufacture=167&amp;order=position">SanDisk</a>
-							<a href="/memory-cards.html#!/p=clear&amp;manufacture=127&amp;order=position">Samsung</a>
-							<a href="/memory-cards.html#!/p=clear&amp;manufacture=223&amp;order=position">Kingston</a>
-							<a href="/memory-cards.html#!/p=clear&amp;manufacture=189&amp;order=position">Aftermarket</a>
-							<h3>Storage Capacity</h3>
-							<a href="/memory-cards.html#!/storage_capacity=160-1034-156&amp;order=position&amp;no_cache=true&amp;p=clear">1 GB and Under</a>
-							<a href="/memory-cards.html#!/p=clear&amp;storage_capacity=159&amp;order=position">2 GB</a>
-							<a href="/memory-cards.html#!/p=clear&amp;storage_capacity=157&amp;order=position">4 GB</a>
-							<a href="/memory-cards.html#!/p=clear&amp;storage_capacity=273&amp;order=position">8 GB</a>
-							<a href="/memory-cards.html#!/storage_capacity=554-204&amp;order=position&amp;no_cache=true&amp;p=clear">16 GB and Up</a>
-							<h3>Card Type</h3>
-							<a href="/memory-cards.html#!/p=clear&amp;card_type=399&amp;order=position">MicroSDHC</a>
-							<a href="/memory-cards.html#!/card_type=165-161-164-166&amp;order=position&amp;no_cache=true&amp;p=clear">SD</a>
-							<a href="/memory-cards.html#!/p=clear&amp;card_type=168&amp;order=position">MMC</a>
-							<a href="/memory-cards.html#!/p=clear&amp;card_type=205&amp;order=position">M2</a>
-							<a class="h5bold" href="/nsearch?cat=&amp;keywords=flash+drive">Flash Drives</a>
-
-						</div><div class="column2">
-
-							<a class="h5bold" href="/nsearch?cat=&amp;keywords=Memory+Card+Reader">Memory Card Reader</a>
-							<a class="h5bold" href="/nsearch?cat=&amp;keywords=Memory+Card+%26+Adapter&amp;_antispam=antispam_714">Card and Adapter</a>
-							<a class="view_more" href="/memory-cards.html">View All...</a>
-						</div>
-
-					</li>
-
-						<a href="/memory-cards.html"><img src="/menu/flyout-memory.png" class="flyout" border="0" alt=""></a>
-					</ul>
-			</li>
-
-			<!-- end of Memory -->
-
-			<!-- Other -->
-
-			<li class="title" id="other">
-				<a href="/other-accessories.html" class="other"></a>
-					<ul id="other1" style="	top:0px;
-	left:99.6%;
-	opacity:1;
-	height: 100%;
-	width: 632px;text-align:left;display:none;"><li style="padding-top:10px;">
-
-
-						<div class="column1">
-
-							<a class="h5bold" href="/other-accessories.html#!/cat=193&amp;p=clear&amp;order=position">Electronics</a>
-							<a href="/other-accessories.html#!/cat=193&amp;order=position&amp;no_cache=true&amp;p=clear&amp;electronic_type=1593">Tablets</a>
-							<a href="/electronics.html#!/p=clear&amp;electronic_type=1592&amp;order=position">Blu-Ray and DVD Players</a>
-							<a href="/electronics.html#!/p=clear&amp;electronic_type=1591&amp;order=position">eReaders</a>
-							<a href="/other-accessories.html#!/p=clear&amp;electronic_type=1587&amp;order=position">Audio Players</a>
-							<a href="/other-accessories.html#!/p=clear&amp;electronic_type=1590&amp;order=position">Gaming</a>
-							<a href="/other-accessories.html#!/p=clear&amp;electronic_type=1588&amp;order=position">Netbooks</a>
-							<a href="/other-accessories.html#!/p=clear&amp;electronic_type=1589&amp;order=position">Camcorders</a>
-							<a href="/other-accessories.html#!/p=clear&amp;electronic_type=1586&amp;order=position">Networking</a>
-							<a class="h5bold" href="/nsearch?cat=&amp;keywords=Ear">Ear Hooks</a>
-							<a class="h5bold" href="/nsearch?cat=&amp;keywords=Digital+Frame">Digital Photo Frames</a>
-							<a class="h5bold" href="/nsearch?cat=&amp;keywords=Bag">Bags</a>
-							<a class="h5bold" href="/nsearch?cat=&amp;keywords=Stylus+Pen">Stylus Pens</a>
-							<a class="h5bold" href="/sets.html">Bundles</a>
-							<a class="h5bold" href="/other-accessories.html#!/cat=24&amp;p=clear&amp;order=position">Other Accessories</a>
-							<a class="h5bold" href="/car-systems.html">Car Systems</a>
-
-						</div><div class="column2">
-
-
-
-						</div>
-
-					</li>
-
-						<a href="/other-accessories.html"><img src="/menu/flyout-other.png" class="flyout" border="0" alt=""></a>
-					</ul>
-			</li>
-
-			<!-- end of Other -->
-
-		</ul>
-	</li>
+        <li class="top_level"><div class="shop" id="shop" onmouseover="loadmenu();"><a href="javascript:loadmenu();">Shop</a></div>
+</li>
 </ul>
-
-<!-- Finish Container Menu -->
 </div>
+
+</span>
+
 
 </div>
 <div class="vert_nav left" id="vert_nav">    
@@ -1501,14 +319,23 @@ function hideMenu() {
 								
 									<ul class="specials_ul">
 <li><a href="http://www.all4cellular.com/daily-deal"> <img title="The Daily Deal" src="https://www.all4cellular.com/images/Daily-Deal-Mini-Banner2.jpg" alt="The Daily Deal"> </a></li>
+<li><a href="http://www.all4cellular.com/hot-summer-cases.html"> <img title="Summer Cases Sale" src="https://www.all4cellular.com/media/summer_cases_sale_214x102.jpg" alt="Summer Cases Sale"> </a></li>
 <li><a href="http://www.all4cellular.com/phone-of-the-week.html"> <img title="The Phone of the Week" src="https://www.all4cellular.com/images/phone-of-the-week-mini-banner2.jpg" alt="The Phone of the Week"> </a></li>
-<li><a href="http://www.all4cellular.com/specials.html"> <img title="Specials" src="https://www.all4cellular.com/media/spring_banner_214x102.jpg" alt="Specials"> </a></li>
-<li><a href="http://www.all4cellular.com/apple-iphone-5-accessories.html"> <img title="Apple iPhone 5 Accessories" src="https://www.all4cellular.com/images/apple-iphone-5-accessories-mini-banner.jpg" alt="iPhone 5 Accessories"> </a></li>
-<li><div class="block block_newsletter">
+<li><a href="http://www.all4cellular.com/specials.html"> <img title="Specials" src="https://www.all4cellular.com/media/summer_sale_214x102.jpg" alt="Specials"> </a></li>
+<li><script>
+	function newsletter_processing() { 
+                document.getElementById('newsletter-button').style.display = "none";
+		document.getElementById('newsletter-processing-area').style.display = "block";
+	}
+</script><div class="block block_newsletter">
     <div class="block-title">
         <strong><span>Newsletter Sign Up</span></strong>
     </div>
-    <form action="https://www.all4cellular.com/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
+    <!--form action="https://www.all4cellular.com/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail"-->
+<div id="feedback" style="display:none;" class="mini-newsletter">
+    <strong>Thank you for subscribing to our newsletter!</strong><br><br><br>
+</div>
+<form name="newsletter-form" id="newsletter-form" onsubmit="new Ajax.Updater({success:'newsletter-form'}, 'http://www.all4cellular.com/newsletter/subscriber/new/', {asynchronous:true, evalScripts:false, onComplete:function(request, json){Element.hide('newsletter-form');Element.show('feedback');}, onLoading:function(request, json){}, parameters:Form.serialize(this)}); return false;" action="/home/send" method="post">
         <div class="block-content">
             <div class="form-subscribe-header">
                 <label for="newsletter">Sign up for exclusive deals and exclusive special offers:</label>
@@ -1516,8 +343,10 @@ function hideMenu() {
             <div class="input-box">
                <input type="text" name="email" id="newsletter" title="Sign up for our newsletter" class="input-text required-entry validate-email">
             </div>
-            <center>
-                <button type="submit" title="Subscribe" class="button"><span><span>Subscribe</span></span></button>
+            <center><div id="newsletter-processing-area" style="display:none;">
+	<strong>Please wait...</strong>
+	</div>
+	<div id="newsletter-button"><button type="submit" title="Subscribe" class="button" onclick="newsletter_processing()"><span><span>Subscribe</span></span></button></div>
              </center>
         </div>
     </form>
@@ -1526,7 +355,9 @@ function hideMenu() {
         var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
     //]]>
     </script>
-</div></li>
+<br><br>
+</div>
+</li>
 </ul>									
 								
 				</li>
@@ -1601,6 +432,27 @@ var sb_obj='';
 
 
 
+<script type="text/javascript">
+
+function validateForm()
+{
+var x=document.forms["filter"]["phonemake_list"].value;
+if (x==null || x=="")
+  {
+  alert("Please select a phone make from the list.");
+  return false;
+  }
+
+
+var y=document.forms["filter"]["model"].value;
+if (y==null || y=="")
+  {
+  alert("Please select a phone model from the list.");
+  return false;
+  }
+}
+
+</script>
 		
 
 <div class="shop_by_phone_wrapper left">
@@ -1612,7 +464,7 @@ var sb_obj='';
 <div id="shop-by-phone" class="block shop-by-phone">
 
 			<div class="block-content">
-			<form action="http://www.all4cellular.com/shopbyphone/index/result/?" name="filter" id="filter" method="get">
+			<form action="http://www.all4cellular.com/shopbyphone/index/result/?" name="filter" id="filter" method="get" onsubmit="return validateForm()">
 				<select name="make" class="hp-select maker_carrier" id="phonemake_list">
 				  	<option value="">Phone Make</option>						
 														
@@ -1703,13 +555,13 @@ var sb_obj='';
 															</select>
 							
 				<div id="phone_model_box">
-					<select name="model" id="model">
+					<select name="model" id="model" disabled="disabled" style="color:#ccc;">
 						<option value="">Phone Model</option>
 					</select>
 				</div><!-- end phone_model -->
 				
 				<div id="loading_box" style="display:none;">
-					<select id="model_t">
+					<select name="model_t" id="model_t">
 						<option value="">Loading....</option>
 					</select>
 				</div><!-- end loading_box -->
@@ -1772,7 +624,6 @@ jQuery(document).ready(function(){
 
 
 </div><!-- end shop_by_phone_wrapper -->
-		
 <div class="block block-list block-viewed">
     <a class="show_bv" href="#"><img src="http://www.all4cellular.com/skin/frontend/default/a4c/images/history_btn.jpg" alt="History" title="History"></a>
 <div class="block-content">
@@ -1897,14 +748,43 @@ jQuery(document).ready(function() {
 
 	jQuery('#cat_ddl').change(function(){
 		var selectedText = jQuery('#cat_ddl option:selected').text();
+
 		if(selectedText.length <=5) 
 		var dtw=selectedText.length*12;
-		else if(selectedText.length >= 12)
-		var dtw=selectedText.length*8;
 		else
 		var dtw=selectedText.length*12;
-		//alert(dtw);
-		//jQuery('this').css('background-position',dtw-10+' center');
+
+		if (selectedText=="Shop")
+		var dtw=48;
+                if (selectedText=="Cellular")
+                var dtw=67;		
+                if (selectedText=="Bluetooth")
+                var dtw=74;  
+                if (selectedText=="Headsets")
+                var dtw=75;  
+                if (selectedText=="Batteries")
+                var dtw=72;  
+                if (selectedText=="Cases")
+                var dtw=60;  
+                if (selectedText=="Chargers")
+                var dtw=74;  
+                if (selectedText=="Cables")
+                var dtw=62;  
+                if (selectedText=="Screen Protectors")
+                var dtw=121;  
+                if (selectedText=="Speaker Systems")
+                var dtw=119;  
+                if (selectedText=="Docks")
+                var dtw=59;  
+                if (selectedText=="Parts")
+                var dtw=52;  
+                if (selectedText=="Other")
+                var dtw=54;  
+                if (selectedText=="Memory")
+                var dtw=68;  
+                if (selectedText=="Specials")
+                var dtw=73;  
+
 		jQuery('.form_search .category_ddl_content').css('width',dtw);
 		jQuery('.form_search .input_wrapper').css('padding-left',dtw+15);
 	});
@@ -1938,7 +818,7 @@ jQuery(document).ready(function() {
                                         <span>/ </span>
                         </li>
         			
-											
+											<a href="" title=""></a> 				
 			
             <li class="cms_page">
                             <strong>Privacy Policy</strong>
@@ -2005,8 +885,8 @@ jQuery(document).ready(function() {
 								jQuery(document).ready(function() {
 									jQuery('#countdown').countDown({
 										targetDate: {
-											'day': 		25,
-											'month': 	05,
+											'day': 		15,
+											'month': 	07,
 											'year': 	2013,
 											'hour': 	0,
 											'min': 		0,
@@ -2020,11 +900,11 @@ jQuery(document).ready(function() {
 						
 			<div class="left_main">
 				<a class="left" href="http://www.all4cellular.com/daily-deal/">
-				<img src="http://c15201855.r55.cf2.rackcdn.com/catalog/product/cache/1/image/70x/9df78eab33525d08d6e5fb8d27136e95/a/t/att-micro-usb-car-charger-with-usb-port-two-pack-main-view_1.jpg" alt="AT&amp;T Micro-USB Car Charger with USB Port - Two Pack (Refurbished)">
+				<img src="http://www.all4cellular.com/media/catalog/product/cache/1/image/70x/9df78eab33525d08d6e5fb8d27136e95/a/p/apple-iphone-4-4s-bluetooth-keyboard-case-config.jpg" alt="Apple iPhone 4 / 4S Bluetooth Keyboard Case">
 				</a>			
 				<div class="right">
-					<a title="AT&amp;T Micro-USB Car Charger with USB Port - Two Pack (Refurbished)" href="http://www.all4cellular.com/daily-deal/">AT&amp;T Micro-USB Car Charger with USB Port - Two Pack (Refurbished)</a>
-					<label class="price">$3.99</label> 
+					<a title="Apple iPhone 4 / 4S Bluetooth Keyboard Case" href="http://www.all4cellular.com/daily-deal/">Apple iPhone 4 / 4S Bluetooth Keyboard Case</a>
+					<label class="price">$9.99</label> 
 				</div>			
 			</div>
 			
@@ -2193,7 +1073,9 @@ window.width_flag="0";
 window.is_product_page=0;
 window.isHome=0;
 
+window.width_flag=1;
 
+//window.is_product_page=1;
 
 	
 
