@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hovrs.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610005322id_/http%3A//www.purple.us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hovrs.com privacy policy that was archived on 2013-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130715024221id_/http%3A//www.purple.us/privacy) for the most accurate reproduction.*
 
 # Purple Communications
 
