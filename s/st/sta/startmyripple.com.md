@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startmyripple.com privacy policy that was archived on 2013-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130419045846id_/http%3A//rippln.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startmyripple.com privacy policy that was archived on 2013-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130715023413id_/http%3A//docs.rippln.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
