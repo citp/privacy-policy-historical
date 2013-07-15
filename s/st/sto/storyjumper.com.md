@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the storyjumper.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613074742id_/http%3A//www.storyjumper.com/main/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storyjumper.com privacy policy that was archived on 2013-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130715204245id_/http%3A//www.storyjumper.com/main/privacy) for the most accurate reproduction.*
 
 # StoryJumper: publish your own children's book.
 
