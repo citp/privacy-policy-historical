@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the zerochaos.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514160908id_/http%3A//www.zerochaos.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zerochaos.com privacy policy that was archived on 2013-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130715175914id_/http%3A//www.zerochaos.com/privacy.htm) for the most accurate reproduction.*
 
 # ZeroChaos | Privacy Policy
 
 ZeroChaos is committed to maintaining the privacy and integrity of all information gathered for its users. We adhere to the following guidelines in the collection, storage, tracking, usage, and dissemination of your personal information.
 
-ZeroChaos abides by the Safe Harbor framework which dictates policy on the collection, use, and retention of information from the European Union. 
+ZeroChaos abides by the US Department of Commerce [Safe Harbor framework](http://export.gov/safeharbor/) which dictates policy on the collection, use, and retention of information from the European Union. 
 
 You may visit the ZeroChaos web site and not be required to provide any personal information. However for our suppliers, client managers, and client workers we do collect, store, and use personal information for legitimate business purposes only. We limit the information collected to that which we believe is appropriate and necessary to conduct business, provide our services, meet client contractual terms, and comply with applicable law.
 
