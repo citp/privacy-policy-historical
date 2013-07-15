@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the datavalidation.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601190407id_/http%3A//datavalidation.com/terms-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datavalidation.com privacy policy that was archived on 2013-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130715065614id_/http%3A//datavalidation.com/terms-and-privacy) for the most accurate reproduction.*
 
-# Terms and Privacy | DataValidation.comDataValidation.com
+# Terms and Privacy | Real-time Email Validation and Instant Email List VerificationReal-time Email Validation and Instant Email List Verification
 
 **[DataValidation.com](http://datavalidation.com/) does not cache, store, sale or use in any matter its Customers/Partners Data outside of the initial scope of validating it!**
 
