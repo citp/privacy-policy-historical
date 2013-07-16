@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panerabread.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517015048id_/http%3A//www.panerabread.com/legal/privacy.php%3Fref%3Dpbhomefooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panerabread.com privacy policy that was archived on 2013-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130716202410id_/http%3A//www.panerabread.com/legal/privacy.php%3Fref%3Dpbhomefooter) for the most accurate reproduction.*
 
 # Panera Bread® › Your Privacy
 
