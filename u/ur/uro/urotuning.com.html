@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the urotuning.com privacy policy that was archived on 2013-06-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130613145545id_/http%3A//www.urotuning.com/terms_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the urotuning.com privacy policy that was archived on 2013-07-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130716064559id_/http%3A//www.urotuning.com/terms_privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=295901615354"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/a/j/milonic/milonic_src.js"></script>
@@ -39,7 +39,30 @@ var Config_CDN_URL = '/'
     var PageText_843 = "Subtotal";
     var PageText_844 = "items in cart";
 </script>
+<script type="text/javascript" src="/a/j/volusion.js?6.37.5.173"></script>
+<script type="text/javascript">
+    (function ($) {
+        volusion.ready(function () {
+            if (volusion.cart.isObservingCount()) {
+                var ts = new Date().getTime();
 
+                $.getJSON('/ajaxcart.asp?cachebust=' + ts, function (data) {
+                    var quantityTotal = 0;
+                    $.each(data.Products, function (key, val) {
+                        if (val.IsProduct === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        } else if (val.IsAccessory === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        }
+                    });
+                    quantityTotal = quantityTotal || '0';
+                    volusion.cart.itemCount(quantityTotal);
+                });
+
+            }
+        });
+    } (jQuery));
+</script>
 
 
 <script type="text/javascript" src="/a/j/soft_add.js"></script>
@@ -52,7 +75,7 @@ var Config_CDN_URL = '/'
 </script>
 
 <script type="text/javascript" src="/a/j/soft_add_mult.js"></script>
-<script type="text/javascript" src="/a/j/javascripts.js?6_5_6.34.4.92"></script>
+<script type="text/javascript" src="/a/j/javascripts.js?6_5_6.37.5.173"></script>
 
 <script type="text/javascript">
 	var Config_Search_Auto_Complete = false;
@@ -91,6 +114,14 @@ ONLY PUT CSS/JAVSCRIPT INCLUDES IN YOUR HEAD TAG
 
 </script>
 
+<!--4-Tell Recommendations Begin (www.4-tell.com)-->
+<script type="text/javascript">
+    window._4TellBoost = window._4TellBoost || {};
+    //_4TellBoost.loadpath = "//4tcdn.blob.core.windows.net/4tjs/";
+    _4TellBoost.alias = "UroTuni";
+    </script>
+<script type="text/javascript" src="//az416957.vo.msecnd.net/4tjs/4TellLoader.js"></script>
+<!--4-Tell Recommendations End-->
 
 <script type="text/javascript" async="" src="https://upfront.thefind.com/scripts/main/utils-init-ajaxlib/upfront-badgeinit.js">thefind.upfront.init('tf_upfront_badge', '0a62f437c524131ce24a69b9021c9f83')</script></head>
 
@@ -181,7 +212,7 @@ document.write(imagesss[index]);
 
 //done
 
-</script><a href="http://www.urotuning.com/Airbags-s/3027.htm"><img src="https://secure834.websitewelcome.com/~urotuned/airbag_160.jpg"></a><br><br><script type="text/javascript">
+</script><a href="http://www.urotuning.com/SearchResults.asp?Search=emk+intensity"><img src="https://secure834.websitewelcome.com/~urotuned/emk_banner_led.jpg"></a><br><br><script type="text/javascript">
 
 var imagesss = [], 
 index = 0;
@@ -219,7 +250,7 @@ document.write(imagess[index]);
 
 //done
 
-</script><a href="http://www.urotuning.com/SearchResults.asp?Search=New+South+boost+gauge"><img src="https://secure834.websitewelcome.com/~urotuned/boost_gauge.jpg"></a><br><br><br>
+</script><a href="http://www.urotuning.com/SearchResults.asp?Search=New+South+boost+gauge"><img src="https://secure834.websitewelcome.com/~urotuned/boost_gauge.jpg"></a><br><br><a target="_blank" href="http://www.urotuning.com/myrewards.asp"><img src="https://secure834.websitewelcome.com/~urotuned/urotuning_rewards_text_160.jpg" border="0"></a><br><br>
 <a href="http://www.facebook.com/projectmk6gli" target="_blank"><img src="https://secure834.websitewelcome.com/~urotuned/project_mk6_gli_160.jpg" border="0"></a><br><br><img src="https://secure834.websitewelcome.com/~urotuned/cc_logos.png"><br><br><a target="_blank" href="http://www.facebook.com/urotuning"><img src="https://secure834.websitewelcome.com/~urotuned/nav-facebook.jpg" border="0"></a>&nbsp;&nbsp;<a target="_blank" href="http://www.instagram.com/urotuning"><img src="https://secure834.websitewelcome.com/~urotuned/nav-instagram.jpg" border="0"></a>&nbsp;&nbsp;<a target="_blank" href="http://www.twitter.com/urotuning"><img src="https://secure834.websitewelcome.com/~urotuned/nav-twitter.jpg" border="0"></a></div>
 
         </td>
@@ -252,7 +283,7 @@ document.write(imagess[index]);
 
 <!-- ==================== FOOTER =================== -->
 <table bgcolor="#ffffff" width="100%" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr><td><center><img src="https://secure834.websitewelcome.com/~urotuned/cantfind.jpg"></center>
+<tbody><tr><td>
 <table align="center" cellpadding="0" cellspacing="0" width="1000">
     <tbody><tr>
         <td width="200">
