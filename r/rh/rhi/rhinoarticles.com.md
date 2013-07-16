@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rhinoarticles.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629091656id_/http%3A//www.empowernetwork.com/privacy.php%3Fid%3Dpaulmoore) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rhinoarticles.com privacy policy that was archived on 2013-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130716091904id_/http%3A//www.empowernetwork.com/privacy.php%3Fid%3Dpaulmoore) for the most accurate reproduction.*
 
 # Empower Network: Privacy Policy
 
@@ -40,4 +40,4 @@ St. Petersburg, Florida 33701
 Suite 201  
 Effective Date: November 7, 2011 
 
-[Continue to signup page](https://web.archive.org/web/20130629091656id_/http%3A//www.empowernetwork.com/commissionloophole.php?id=paulmoore)
+[Continue to signup page](https://web.archive.org/web/20130716091904id_/http%3A//www.empowernetwork.com/commissionloophole.php?id=paulmoore)
