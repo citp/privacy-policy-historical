@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the therichest.org privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604053647id_/http%3A//www.therichest.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therichest.org privacy policy that was archived on 2013-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130716030437id_/http%3A//www.therichest.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Celebrity Net worth & Richest People in the World
 
