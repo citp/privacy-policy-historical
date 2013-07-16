@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehonestkitchen.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424173642id_/http%3A//www.thehonestkitchen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehonestkitchen.com privacy policy that was archived on 2013-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130716135633id_/http%3A//www.thehonestkitchen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Honest Kitchen
 
