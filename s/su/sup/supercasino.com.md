@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supercasino.com privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420060842id_/http%3A//www.supercasino.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supercasino.com privacy policy that was archived on 2013-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130716020537id_/http%3A//www.supercasino.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SuperCasino.com
 
@@ -17,7 +17,6 @@ We do not collect any sensitive data about you. However, we or our authorized th
   * 1.3 Information about your computer including, where available, your IP address, operating system and browser type.
   * 1.4 Information about your Internet usage obtained using a Cookie file which is stored on the hard drive of your computer. By using this site you agree to the collection and use of this information by us here at SuperCasino. Because we are regulated by the Alderney Gambling Control Commission, they may need to access your information as well. However, this information will only be used within the regulatory rules and guidelines that govern this site.
 
-  
 
 
 ### 2\. USES MADE OF THE INFORMATION
@@ -65,7 +64,8 @@ On our website we have links to other websites - to point you in the direction o
 
 Questions about this Privacy Policy can be addressed to:
 
-NetPlay TV Group Ltd  
-The Old Presbytery  
-Alderney  
-GY9 3TF
+NetPlay TV Group Limited  
+PO Box 356  
+St Peter Port  
+Guernsey  
+GY1 3XQ
