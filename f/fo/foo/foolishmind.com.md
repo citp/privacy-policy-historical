@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foolishmind.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515063714id_/http%3A//foolishmind.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foolishmind.com privacy policy that was archived on 2013-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130716083251id_/http%3A//foolishmind.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Foolish Mind
 
