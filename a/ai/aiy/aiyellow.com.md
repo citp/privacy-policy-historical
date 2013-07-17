@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aiyellow.com privacy policy that was archived on 2013-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130128005524id_/http%3A//www.aiyellow.com/pdf/privacy_en.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aiyellow.com privacy policy that was archived on 2013-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130718013419id_/http%3A//www.aiyellow.com/pdf/privacy_en.pdf) for the most accurate reproduction.*
 
 # 
 
