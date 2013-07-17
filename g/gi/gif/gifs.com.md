@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gifs.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504081043id_/http%3A//www.gifs.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gifs.com privacy policy that was archived on 2013-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130717052804id_/http%3A//www.gifs.com/privacy.php) for the most accurate reproduction.*
 
 # Gifs.com Free Animations, Gif Manager, SoundsPics and CellPhone ScreenSavers - -
 
