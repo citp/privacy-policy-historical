@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the worldenglishinstitute.org privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624024319id_/http%3A//www.worldenglishinstitute.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldenglishinstitute.org privacy policy that was archived on 2013-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130717065510id_/http%3A//www.worldenglishinstitute.org/privacy) for the most accurate reproduction.*
 
 # World English Institute - Free English Lessons
 
-This Privacy Policy governs the manner in which World English Institute collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.worldenglishinstitute.org](https://web.archive.org/web/20130624024319id_/http%3A//www.worldenglishinstitute.org/www.worldenglishinstitute.org) website ("Site"). This privacy policy applies to the Site and all products and services offered by World English Institute.
+This Privacy Policy governs the manner in which World English Institute collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.worldenglishinstitute.org](https://web.archive.org/web/20130717065510id_/http%3A//www.worldenglishinstitute.org/www.worldenglishinstitute.org) website ("Site"). This privacy policy applies to the Site and all products and services offered by World English Institute.
 
 ### Personal identification information
 
@@ -50,8 +50,8 @@ By using this Site, you signify your acceptance of this policy and [terms of ser
 ### Contacting us
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[World English Institute](https://web.archive.org/web/20130624024319id_/http%3A//www.worldenglishinstitute.org/www.worldenglishinstitute.org)  
-[www.worldenglishinstitute.org](https://web.archive.org/web/20130624024319id_/http%3A//www.worldenglishinstitute.org/www.worldenglishinstitute.org)  
+[World English Institute](https://web.archive.org/web/20130717065510id_/http%3A//www.worldenglishinstitute.org/www.worldenglishinstitute.org)  
+[www.worldenglishinstitute.org](https://web.archive.org/web/20130717065510id_/http%3A//www.worldenglishinstitute.org/www.worldenglishinstitute.org)  
 World English Institute 1525 NW Division Gresham, OR 97030  
 help@worldenglishinstitute.org  
 
