@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tallinex.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607042909id_/http%3A//www.tallinex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tallinex.com privacy policy that was archived on 2013-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130717220822id_/https%3A//www.tallinex.com/privacy-policy) for the most accurate reproduction.*
 
 # Tallinex - FX Trading Software
 
