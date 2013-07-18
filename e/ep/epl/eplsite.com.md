@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eplsite.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623012009id_/http%3A//www.eplsite.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eplsite.com privacy policy that was archived on 2013-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130718174925id_/http%3A//www.eplsite.com/pp.html) for the most accurate reproduction.*
 
 # 
 
