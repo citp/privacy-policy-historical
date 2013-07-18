@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneyinc.com privacy policy that was archived on 2013-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130318135152id_/http%3A//moneyinc.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyinc.com privacy policy that was archived on 2013-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130718124744id_/http%3A//www.moneyinc.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # MoneyInc.com
 
