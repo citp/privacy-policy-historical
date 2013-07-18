@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the okij.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518074344id_/http%3A//www.okij.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the okij.com privacy policy that was archived on 2013-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130718094006id_/http%3A//www.okij.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
