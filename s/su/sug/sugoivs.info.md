@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sugoivs.info privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611210523id_/http%3A//taiwanvs.com/sugoivs-privacy-policy-g) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sugoivs.info privacy policy that was archived on 2013-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130718074957id_/http%3A//taiwanvs.com/sugoivs-privacy-policy-g) for the most accurate reproduction.*
 
 # Taiwanvs.com Privacy Policy - Taiwanvs.com - Taiwan Entertainment - Watch Taiwanese Variety Show 台灣綜藝 online!
 
