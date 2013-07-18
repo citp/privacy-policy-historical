@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creativeplanetnetwork.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610181512id_/http%3A//www.nbmedia.com/content/company_information/Privacy_Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativeplanetnetwork.com privacy policy that was archived on 2013-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130718161204id_/http%3A//www.nbmedia.com/content/company_information/Privacy_Policy.php) for the most accurate reproduction.*
 
 # NewBay Media
 
