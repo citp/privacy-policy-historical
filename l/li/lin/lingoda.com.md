@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lingoda.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629140327id_/http%3A//www.lingoda.com/%23modalPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lingoda.com privacy policy that was archived on 2013-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130719082937id_/http%3A//www.lingoda.com/%23modalPrivacy) for the most accurate reproduction.*
 
 # Lingoda >> Learn English online. Live classes, private teachers & video tutorials
 
