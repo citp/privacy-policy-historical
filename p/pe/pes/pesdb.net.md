@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pesdb.net privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617000404id_/http%3A//pesdb.net/pes2013/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pesdb.net privacy policy that was archived on 2013-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130719224815id_/http%3A//pesdb.net/pes2013/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - pesdb.net
 
 **Privacy Policy for pesdb.net**
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by [clicking here](https://web.archive.org/web/20130617000404id_/http%3A//pesdb.net/pes2013/contact.php).
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by [clicking here](https://web.archive.org/web/20130719224815id_/http%3A//pesdb.net/pes2013/contact.php).
 
 At pesdb.net, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by pesdb.net and how it is used.
 
