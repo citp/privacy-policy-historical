@@ -1,48 +1,29 @@
-> *The following text is extracted and transformed from the indiasurfer.com privacy policy that was archived on 2013-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130127100926id_/http%3A//www.indiasurfer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiasurfer.com privacy policy that was archived on 2013-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130719194730id_/http%3A//indiasurfer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy governs the manner in which Indiasurfer collects, uses, maintains and discloses information collected from users (each, a "User") of the <http://www.indiasurfer.com/> website ("Site"). This privacy policy applies to the Site and all products and services offered by Indiasurfer.
+Thank you for visiting our website. This privacy policy tells you how we use personal information collected at this website. Please read this privacy policy before using the website or submitting any personal information. By using the website, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to keep track of the policy changes and make sure that you understand how any personal information you provide will be used. 
 
-**Personal identification information**
+Note: the privacy practices set forth in this privacy policy are for this website only. If you link to other websites, please review the privacy policies posted at those websites. 
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+## Collection of Information
 
-**Non-personal identification information**
+We collect personally identifiable information, like names, email addresses, etc., when voluntarily submitted by our visitors. This information is only used to fulfill your specific request and to sign you up for our service mailing list, unless you give us permission to use it in other manners. 
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+## Cookie/Tracking Technology
 
-**Web browser cookies**
+This website may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the website, and understanding how visitors use the website. Cookies can also help customize the website for visitors. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties. 
 
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+## Distribution of Information
 
-**How we use collected information**
+We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes. 
 
-Indiasurfer may collect and use Users personal information for the following purposes:
+## Commitment to Data Security
 
-  * _\- To personalize user experience_  
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _\- To send periodic emails_  
-We may use the email address to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
+Your personally identifiable information is kept secure. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information. All emails and newsletters from this website allow you to opt out of further mailings. 
 
+## Privacy Contact Information
 
+If you have any questions, concerns, or comments about our privacy policy you may contact us using means provided on this website. 
 
-**How we protect your information**
-
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
-
-**Sharing your personal information**
-
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
-
-**Changes to this privacy policy**
-
-Indiasurfer has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
-
-**Your acceptance of these terms**
-
-By using this Site, you signify your acceptance of this policy and [terms of service](http://www.indiasurfer.com/terms_of_use.php). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
-
-**Contacting us**
-
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](http://www.indiasurfer.com/contact.php). 
+We reserve the right to make changes to this policy. Any changes to this policy will be posted. 
