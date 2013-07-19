@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the porninspector.com privacy policy that was archived on 2008-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080216170901id_/http%3A//www.porninspector.com/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the porninspector.com privacy policy that was archived on 2013-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130719142628id_/http%3A//www.porninspector.com/about/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy » PornInspector.com
-
-[Home](https://web.archive.org/) » **Privacy Policy** »
+# Privacy Policy »
 
 This is the web site of Rich Media SoIutions Inc.
 
