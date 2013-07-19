@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the umano.me privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615223220id_/http%3A//www.umano.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the umano.me privacy policy that was archived on 2013-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130719095742id_/http%3A//www.umano.me/privacy) for the most accurate reproduction.*
 
 # Umano | Privacy
 
@@ -34,7 +34,7 @@ If you use the Service through Facebook or some other third-party service, you m
 
 **HOW THE SERVICE COLLECTS YOUR INFORMATION**
 
-**PERSONAL INFORMATION Collection.** The Service collects Personal Information when you register. In registering with the Service, you will provide information necessary to use the Service, such as an email and password. SoThree, Inc. may also collect Personal Information from you in other ways, such as contacts with our customer-support team.
+**PERSONAL INFORMATION Collection.** The Service collects Personal Information when you register. In registering with the Service, you will provide information necessary to use the Service, such as an email and password. SoThree, Inc. may also collect Personal Information from you in other ways, such as contacts with our customer-support team. The Service may also ask for permission to your contacts. If granted, SoThree, Inc., does not store a copy of your contacts on their servers or sell your contacts to any third-parties.
 
 When you access the Service through Facebook, SoThree, Inc. may obtain information you have shared with Facebook. For example, Facebook may share with the Service your information, including: your gender, your profile picture, your birthday, your user ID, your email address, your profile information, your networks, who your friends are, and your friend’s profile information. You control what information is shared from your Facebook profile by adjusting your Facebook privacy settings.
 
