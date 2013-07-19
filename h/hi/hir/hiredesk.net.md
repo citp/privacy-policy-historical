@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hiredesk.net privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512160051id_/http%3A//www.talenttech.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiredesk.net privacy policy that was archived on 2013-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130719133132id_/http%3A//www.talenttech.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Talemetry Privacy Policy - Talemetry
 
