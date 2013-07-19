@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iwatchitnow.net privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614163050id_/http%3A//www.iwatchitnow.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwatchitnow.net privacy policy that was archived on 2013-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130719172941id_/http%3A//www.iwatchitnow.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | I Watch It Now
 
