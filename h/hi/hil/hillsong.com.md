@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hillsong.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919185118id_/http%3A//www.hillsong.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hillsong.com privacy policy that was archived on 2013-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130720180020id_/http%3A//hillsong.com/privacy) for the most accurate reproduction.*
 
 # Policies | Hillsong.com
 
