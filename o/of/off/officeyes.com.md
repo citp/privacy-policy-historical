@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the officeyes.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118063726id_/http%3A//www.officeyes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officeyes.com privacy policy that was archived on 2013-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130720124750id_/http%3A//www.officeyes.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ### Privacy Policy
 
-We are OfficeYes.com, a service provided by Hank Retail Private Limited from, Gurgaon, Haryana, India - 122009. In this Privacy Policy, references to “you” mean any person submitting any data to us or our agent or the Site.
+We are OfficeYes.com, a service provided by Sagittarius eServices Private Limited, Gurgaon, Haryana, India - 122016. In this Privacy Policy, references to “you” mean any person submitting any data to us or our agent or the Site.
 
 If you have any comments or suggestions, we would be pleased to receive them at our Gurgaon address or by emailing us at [Help@OfficeYes.com](mailto:Help@OfficeYes.com)
 
