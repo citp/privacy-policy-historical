@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the brainstormforce.com privacy policy that was archived on 2013-05-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130519222457id_/http%3A//www.brainstormforce.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the brainstormforce.com privacy policy that was archived on 2013-07-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130720074623id_/http%3A//www.brainstormforce.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head><link rel="icon" href="http://www.brainstormforce.com/wp-content/themes/brainstormforce_child/favicon.ico" type="image/x-ico">
 <!--[if IE 6]>
@@ -32,9 +32,9 @@
 
 <link rel="alternate" type="application/rss+xml" title="Brainstorm Force » Feed" href="http://www.brainstormforce.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="Brainstorm Force » Comments Feed" href="http://www.brainstormforce.com/comments/feed/">
-<link rel="stylesheet" id="testimonials-widget-css" href="http://www.brainstormforce.com/wp-content/plugins/testimonials-widget/testimonials-widget.css?ver=3.5.1" type="text/css" media="all">
-<link rel="stylesheet" id="contact-form-7-css" href="http://www.brainstormforce.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.4.1" type="text/css" media="all">
-<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.brainstormforce.com/wp-includes/js/comment-reply.min.js?ver=3.5.1"></script>
+<link rel="stylesheet" id="testimonials-widget-css" href="http://www.brainstormforce.com/wp-content/plugins/testimonials-widget/testimonials-widget.css?ver=3.5.2" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="http://www.brainstormforce.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.4.2" type="text/css" media="all">
+<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.brainstormforce.com/wp-includes/js/comment-reply.min.js?ver=3.5.2"></script>
 <script type="text/javascript" src="http://www.brainstormforce.com/wp-includes/js/jquery/jquery.js?ver=1.8.3"></script>
 <link rel="prev" title="Disclaimer" href="http://www.brainstormforce.com/disclaimer/">
 <link rel="next" title="Company Culture" href="http://www.brainstormforce.com/career/company-culture/">
@@ -46,7 +46,7 @@
 		}
 	</style>
 	
-<!-- All in One SEO Pack 2.0.1 by Michael Torbert of Semper Fi Web Design[535,575] -->
+<!-- All in One SEO Pack 2.0.2 by Michael Torbert of Semper Fi Web Design[535,575] -->
 <link rel="author" href="admin">
 
 <link rel="canonical" href="http://www.brainstormforce.com/privacy-policy/">
@@ -428,23 +428,37 @@ BRAINSTORM.FORCE</p>
 	</footer><!-- #colophon -->
 </div><!-- #page -->
 
-<script type="text/javascript" src="http://www.brainstormforce.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.32.0-2013.04.03"></script>
+<script type="text/javascript" src="http://www.brainstormforce.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.36.0-2013.06.16"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var _wpcf7 = {"loaderUrl":"http:\/\/www.brainstormforce.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.brainstormforce.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.4.1"></script>
+<script type="text/javascript" src="http://www.brainstormforce.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.4.2"></script>
 <script type="text/javascript">
+if ( 0 ) {
+	var tw_wrapper3 = jQuery('.testimonials-widget-testimonials3');
+	// tw_padding is the difference in height to take into account all styling options
+	var tw_padding3 = tw_wrapper3.height() - jQuery('.testimonials-widget-testimonials3 .testimonials-widget').height();
+	// fixes first animation by defining height to adjust to
+	tw_wrapper3.height( tw_wrapper3.height() );
+}
+
 function nextTestimonial3() {
 	if ( ! jQuery('.testimonials-widget-testimonials3').first().hasClass('hovered') ) {
 		var active = jQuery('.testimonials-widget-testimonials3 .active');
-		var next   = (jQuery('.testimonials-widget-testimonials3 .active').next().length > 0) ? jQuery('.testimonials-widget-testimonials3 .active').next() : jQuery('.testimonials-widget-testimonials3 .testimonials-widget-testimonial:first');
+		var next   = (jQuery('.testimonials-widget-testimonials3 .active').next().length > 0) ? jQuery('.testimonials-widget-testimonials3 .active').next() : jQuery('.testimonials-widget-testimonials3 .testimonials-widget-testimonial:first-child');
+
 		active.fadeOut(1250, function(){
 			active.removeClass('active');
 			next.fadeIn(500);
 			next.removeClass('display-none');
 			next.addClass('active');
+
+			if ( 0 ) {
+				// added padding
+				tw_wrapper3.animate({ height: next.height() + tw_padding3 });
+			}
 		});
 	}
 }
