@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carcraft.co.uk privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116083520id_/http%3A//www.carcraft.co.uk/home/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carcraft.co.uk privacy policy that was archived on 2013-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130720093418id_/http%3A//www.carcraft.co.uk/home/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Carcraft
 
