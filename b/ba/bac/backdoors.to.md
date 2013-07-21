@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backdoors.to privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522080317id_/http%3A//www.backdoors.to/backdoors/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backdoors.to privacy policy that was archived on 2013-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130722004950id_/http%3A//www.backdoors.to/backdoors/privacy.asp) for the most accurate reproduction.*
 
 # Backdoors.To Privacy Policy
 
@@ -8,7 +8,7 @@
 
 At Backdoors.To we recognize that privacy is important. This Policy applies to all the products and services offered by Backdoors.To.
 
-If you have any questions about this Policy, please feel free to [contact us](https://web.archive.org/web/20130522080317id_/http%3A//www.backdoors.to/backdoors/contact.asp).
+If you have any questions about this Policy, please feel free to [contact us](https://web.archive.org/web/20130722004950id_/http%3A//www.backdoors.to/backdoors/contact.asp).
 
 **Information we collect and how we use it:**
 
@@ -89,7 +89,7 @@ Please note that this Privacy Policy may change from time to time. We will not r
   
 | |  | My Favorites Games  
 ---  
-| •  | Visited Games: [Help](https://web.archive.org/backdoors/help.asp#lastvisited)   
+| •  | Visited Games: [Help](https://web.archive.org/backdoors/help-last-visited.asp)   
 [Yahoo Pool](https://web.archive.org/yahoo/pool/)  
 [Pogo Pool](https://web.archive.org/pogo/pool/)  
 [Yahoo Backgammon](https://web.archive.org/yahoo/backgammon/)  
@@ -103,5 +103,5 @@ Gaming Leagues
 • | [Submit your League](https://web.archive.org/backdoors/league-affiliate.asp)  
 • | [Create a League](http://www.leaga.com/)  
 Game Resources  
-| • | [Game Jargon](https://web.archive.org/backdoors/jargon.asp)  
+| • | [Game Jargon](https://web.archive.org/backdoors/help-jargon.asp)  
 ---|---
