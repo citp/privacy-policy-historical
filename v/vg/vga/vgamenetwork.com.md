@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vgamenetwork.com privacy policy that was archived on 2013-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130207095620id_/http%3A//www.vgamenetwork.com/front/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vgamenetwork.com privacy policy that was archived on 2013-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130721195835id_/http%3A//www.vgamenetwork.com/front/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
