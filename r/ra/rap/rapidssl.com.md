@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapidssl.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512064015id_/http%3A//www.rapidssl.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidssl.com privacy policy that was archived on 2013-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130721163244id_/https%3A//www.rapidssl.com/privacy/index.html) for the most accurate reproduction.*
 
 # 
 
