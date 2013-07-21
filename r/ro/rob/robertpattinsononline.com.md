@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the robertpattinsononline.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620141400id_/http%3A//www.robertpattinsononline.com/website/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robertpattinsononline.com privacy policy that was archived on 2013-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130721063033id_/http%3A//www.robertpattinsononline.com/website/privacypolicy) for the most accurate reproduction.*
 
 # ROBERT PATTINSON ONLINE • Your Source for Robert Pattinson! » Privacy Policy
 
