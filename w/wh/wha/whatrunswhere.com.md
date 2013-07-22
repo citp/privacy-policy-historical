@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatrunswhere.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511155000id_/http%3A//www.whatrunswhere.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatrunswhere.com privacy policy that was archived on 2013-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130722192313id_/http%3A//www.whatrunswhere.com/privacy.html) for the most accurate reproduction.*
 
 # Untitled Document
 
