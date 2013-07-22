@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vakilno1.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509071013id_/http%3A//www.vakilno1.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vakilno1.com privacy policy that was archived on 2013-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130722080638id_/http%3A//www.vakilno1.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
