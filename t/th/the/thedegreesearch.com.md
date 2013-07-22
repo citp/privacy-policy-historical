@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedegreesearch.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605121140id_/http%3A//www.thedegreesearch.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedegreesearch.com privacy policy that was archived on 2013-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130722183408id_/http%3A//www.thedegreesearch.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # The Degree Search.com
 
