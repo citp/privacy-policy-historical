@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itsmycareer.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521235609id_/http%3A//www.itsmycareer.com/info.php%3Fpage%3Dprivacy%26q%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itsmycareer.com privacy policy that was archived on 2013-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130722051239id_/http%3A//www.itsmycareer.com/info.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # ItsMyCareer
 
