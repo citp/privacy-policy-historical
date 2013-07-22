@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sidearmsports.com privacy policy that was archived on 2013-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130410051900id_/http%3A//www.sidearmsports.com/contact-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sidearmsports.com privacy policy that was archived on 2013-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130722231726id_/http%3A//www.sidearmsports.com/contact-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SIDEARM Sports – The #1 Provider of College Athletics Websites
 
