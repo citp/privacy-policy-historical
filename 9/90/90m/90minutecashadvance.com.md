@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 90minutecashadvance.com privacy policy that was archived on 2011-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110727035005id_/http%3A//www.listbuilding.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 90minutecashadvance.com privacy policy that was archived on 2013-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130723040504id_/http%3A//www.listbuilding.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
