@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixmule.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524170359id_/http%3A//www.pixmule.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixmule.com privacy policy that was archived on 2013-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130723050152id_/http%3A//www.pixmule.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
