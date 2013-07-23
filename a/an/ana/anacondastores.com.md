@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anacondastores.com privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531165843id_/http%3A//www.anaconda.com.au/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anacondastores.com privacy policy that was archived on 2013-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130723194117id_/http%3A//www.anaconda.com.au/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -31,7 +31,7 @@ Anaconda collects this information in the following ways: when you submit your A
 
 Anaconda may use your information to process your transaction; administer your account; conduct credit and other checks; for Anaconda's own internal purposes (such as risk management, staff training and billing); to help Anaconda develop its website to be more specific to Customers' needs and user friendly; to advise you about upcoming sales, specials, events, trade promotions and Anaconda Adventure Club information; to manage your Anaconda gift card balance; and for any other use which you authorise.
 
-In addition, Anaconda may also use your information to promote and market its products and services, or the products and services of others. However, Anaconda will not do this by email or SMS (except as part of an email which facilitates, completes or confirms a transaction with you) unless we have your consent to do so. These emails and SMS will include an "unsubscribe" facility. Alternatively, if you no longer wish to receive emails or SMS, you can contact us by phoning our Customer Care Centre details of which are available on the [contact us](https://web.archive.org/web/20110531165843id_/http%3A//www.anaconda.com.au/contact.asp) page of our website.
+In addition, Anaconda may also use your information to promote and market its products and services, or the products and services of others. However, Anaconda will not do this by email or SMS (except as part of an email which facilitates, completes or confirms a transaction with you) unless we have your consent to do so. These emails and SMS will include an "unsubscribe" facility. Alternatively, if you no longer wish to receive emails or SMS, you can contact us by phoning our Customer Care Centre details of which are available on the [contact us](https://web.archive.org/web/20130723194117id_/http%3A//www.anaconda.com.au/contact.asp) page of our website.
 
 Additionally, Anaconda's online payment gateway providers, namely eWay and PayPal, may collect, use and store your personal information and credit card details when you transact on Anaconda's online shopping service.
 
@@ -45,13 +45,13 @@ We use industry-standard safeguards to ensure the confidentiality of your person
 
 ## Access to your information
 
-You can gain access to your information by written request. That request or any inquiry about Anaconda's privacy policy should be directed to Anaconda via the [contact us](https://web.archive.org/web/20110531165843id_/http%3A//www.anaconda.com.au/contact.asp) page of our website.
+You can gain access to your information by written request. That request or any inquiry about Anaconda's privacy policy should be directed to Anaconda via the [contact us](https://web.archive.org/web/20130723194117id_/http%3A//www.anaconda.com.au/contact.asp) page of our website.
 
 Anaconda will endeavour to deal with your request or inquiry as soon as is reasonably possible.
 
 ## Updates to your information
 
-If your information changes or you discover that information held by Anaconda is otherwise incorrect, please update your information in your account details section of our website or via the [contact us](https://web.archive.org/web/20110531165843id_/http%3A//www.anaconda.com.au/contact.asp) page of our website and Anaconda will endeavour to update and correct the information. Anaconda may also contact you from time to time to check that your information is still accurate.
+If your information changes or you discover that information held by Anaconda is otherwise incorrect, please update your information in your account details section of our website or via the [contact us](https://web.archive.org/web/20130723194117id_/http%3A//www.anaconda.com.au/contact.asp) page of our website and Anaconda will endeavour to update and correct the information. Anaconda may also contact you from time to time to check that your information is still accurate.
 
 ## Changes to our policy
 
