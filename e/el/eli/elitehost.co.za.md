@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elitehost.co.za privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603172144id_/http%3A//www.elitehost.co.za/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitehost.co.za privacy policy that was archived on 2013-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130723120839id_/http%3A//www.elitehost.co.za/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Elitehost Web Hosting, Reseller Hosting, VPS and Domains by Elitehost
 
