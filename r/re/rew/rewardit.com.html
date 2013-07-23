@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rewardit.com privacy policy that was archived on 2013-05-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130522184032id_/http%3A//rewardit.com/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rewardit.com privacy policy that was archived on 2013-07-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130723060442id_/http%3A//rewardit.com/privacy.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
         <title>RewardIt Promo</title>
@@ -28,7 +28,7 @@
             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
           })(); 
         </script>
-    <script async="true" type="text/javascript" src="https://web.archive.org/web/20130401133012/https://s.adroll.com/j/roundtrip.js"></script><script async="true" type="text/javascript" src="//d.adroll.com/pixel/2NQIGHQEIZH6NJOPQOIXDD/NCGWROJ6SJEAXBBRDCQYMO?pv=87588652085.51659&amp;cookie=&amp;keyw="></script></head>
+    <script async="true" type="text/javascript" src="https://web.archive.org/web/20130401133012/https://s.adroll.com/j/roundtrip.js"></script><script async="true" type="text/javascript" src="//d.adroll.com/pixel/2NQIGHQEIZH6NJOPQOIXDD/NCGWROJ6SJEAXBBRDCQYMO?pv=39460999335.4061&amp;cookie=&amp;keyw="></script></head>
     <body>
         <div id="header">
     <div class="logo">
@@ -36,8 +36,8 @@
             <input id="email_header" type="text" class="email" style="font-size: 14px; font-weight: bold;" onfocus="if (value=='Email') value='';" onblur="if(value=='') value='Email';" value="Email">
             <img id="header_jion_bt" src="/resource/images/enter_to_win_top_bt.png" onclick="join('email_header',1)">
         </div>
-        <div id="logo_bt"><h1 id="logo_1_h1"><a href="/">$1,000 Sweepstakes</a></h1></div>
-        <a href="/"><img id="enter_bt" src="/resource/images/header_btn_enter_no.png" onmousemove="swapImage(this,'header_btn_enter_over')" onmouseout="swapImage(this,'header_btn_enter_no')"></a>
+        <div id="logo_bt"><h1 id="logo_1_h1"><a href="/">$2,000 Sweepstakes</a></h1></div>
+        <a href="/2000.shtml"><img id="enter_bt" src="/resource/images/header_btn_enter_no.png" onmousemove="swapImage(this,'header_btn_enter_over')" onmouseout="swapImage(this,'header_btn_enter_no')"></a>
         <a href="learn.shtml"><img id="learn_bt" src="/resource/images/header_btn_learn_no.png" onmousemove="swapImage(this,'header_btn_learn_over')" onmouseout="swapImage(this,'header_btn_learn_no')"></a>
         <span class="twitter_custom" onclick="shareTweet()"></span>
         <span class="facebook_custom" onclick="shareFacebook()"></span>
@@ -605,6 +605,57 @@ function is_tweet_open_cash(){
 }
 
 </script>
+        <script type="text/javascript" src="/resource/js/form.tojson.js"></script>
+<script type="text/javascript">
+<!--
+var testThankYouPage = false;
+function openThankYouPage(obj,page){
+	var isJson = (typeof obj) == 'string' ? false : true;
+	var url 	= '/application/program/thanksipad.php';
+	var testUrl = '/application/program/thanksipad.php?test=Yes';
+	var mapping = {
+		email:'email',
+		first_name:'fname',
+		last_name:'lname',
+		address1:'address1',
+		address2:'address2',
+		city:'city',
+		country:'country',
+		state:'state',
+		zip_code:'zipcode',
+		selectMonth:'birthmonth',
+		selectDay:'birthday',
+		selectYear:'birthyear',
+	};
+	$('#thanksipad-form').attr('action', testThankYouPage ? testUrl : url);
+	var json = isJson ? obj : formToJson(obj);
+	for(i in json){
+		if(mapping[i] != undefined){
+			$('#thanksipad-form input[name='+mapping[i]+']').val(json[i]);
+		}
+	}
+	$('#thanksipad-form input[name=promopage]').val(page);
+	$('#thanksipad-form').submit();
+}
+//-->
+</script>
+<div id="hidden" style="display:none;">
+	<form id="thanksipad-form" method="post" action="">
+		<input name="promopage" value="">
+		<input name="email" value="">
+		<input name="fname" value="">
+		<input name="lname" value="">
+		<input name="address1" value="">
+		<input name="address2" value="">
+		<input name="city" value="">
+		<input name="country" value="">
+		<input name="state" value="">
+		<input name="zipcode" value="">
+		<input name="birthmonth" value="">
+		<input name="birthday" value="">
+		<input name="birthyear" value="">
+	</form>
+</div>
         <div id="fb-root"></div>
         <script src="http://connect.facebook.net/en_US/all.js"></script>
         <script type="text/javascript">
