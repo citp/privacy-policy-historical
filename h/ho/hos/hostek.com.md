@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostek.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502122832id_/http%3A//hostek.com/web-hosting-privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostek.com privacy policy that was archived on 2013-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130723190600id_/http%3A//hostek.com/web-hosting-privacy.asp) for the most accurate reproduction.*
 
 # Windows Hosting | ColdFusion Hosting - web hosting privacy - hostek.com
 
@@ -24,7 +24,7 @@ We use IP addresses to analyze trends, administer the site, track user's movemen
 
 ## Links
 
-This web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. Other [sites](https://web.archive.org/web/20130502122832id_/http%3A//hostek.com/links.asp) owned operated by Advanced Online Solutions. 
+This web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. Other [sites](https://web.archive.org/web/20130723190600id_/http%3A//hostek.com/links.asp) owned operated by Advanced Online Solutions. 
 
 ## Newsletter
 
