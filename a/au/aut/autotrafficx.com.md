@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autotrafficx.com privacy policy that was archived on 2013-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130306041129id_/http%3A//cbgamechanger.com/ccc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autotrafficx.com privacy policy that was archived on 2013-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130723112649id_/http%3A//cbgamechanger.com/ccc/privacy.html) for the most accurate reproduction.*
 
 # OTO
 
