@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backpack.tf privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115232838id_/http%3A//stats.tf/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backpack.tf privacy policy that was archived on 2013-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130723021259id_/http%3A//stats.tf/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Meet the Stats
 
