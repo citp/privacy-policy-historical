@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the btopenzone.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602161226id_/http%3A//btwifi.co.uk/terms-and-conditions/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the btopenzone.com privacy policy that was archived on 2013-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130723021753id_/http%3A//www.btwifi.co.uk/terms-and-conditions/privacy-policy.jsp) for the most accurate reproduction.*
 
 # BT Websites Privacy & Security Policy | BT Wi-fi
 
@@ -147,7 +147,7 @@ If you want specific information i.e.:-
 
 
 
-then you must contact [Customer Services](https://web.archive.org/web/20130602161226id_/http%3A//btwifi.co.uk/contact/index.jsp "Customer Services").
+then you must contact [Customer Services](https://web.archive.org/web/20130723021753id_/http%3A//www.btwifi.co.uk/contact/index.jsp "Customer Services").
 
 If you are asking for a full subject access request then put your request in writing, enclosing a cheque for £10 made payable to BT plc and send to British Telecommunications PLC, PP M3042 DSAR, Colindale House, The Hyde, Colindale, London NW9 6LB.
 
