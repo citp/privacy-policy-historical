@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manifesteverythingnow.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601032621id_/http%3A//www.livebigmedia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manifesteverythingnow.com privacy policy that was archived on 2013-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130723061443id_/http%3A//www.livebigmedia.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
