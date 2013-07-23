@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hireart.com privacy policy that was archived on 2013-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130106181831id_/https%3A//www.hireart.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hireart.com privacy policy that was archived on 2013-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130723074117id_/https%3A//www.hireart.com/privacy_policy) for the most accurate reproduction.*
 
 # 
 
