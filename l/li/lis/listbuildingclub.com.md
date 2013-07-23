@@ -1,335 +1,135 @@
-> *The following text is extracted and transformed from the listbuildingclub.com privacy policy that was archived on 2009-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090401171403id_/https%3A//www.listbuildingclub.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listbuildingclub.com privacy policy that was archived on 2013-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130723040504id_/http%3A//www.listbuilding.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-LIST BUILDING CLUB PRIVACY POLICY  
-\-- IMPORTANT -- PLEASE READ 
+**PRIVACY POLICY**  
+**\-- IMPORTANT -- PLEASE READ**
 
-LAST UPDATED: February 27, 2009
+This Privacy Policy describes the terms of our commitment to your privacy.
 
-This List Building Club Privacy Policy (“Privacy Policy”) describes the  
-commitment to your privacy on the part of Overcome Everything, Inc. and  
-Mining Gold Corporation (referred to collectively as the “List Building  
-Club,” “we” and “us”). 
+**PERSONS OR PARTIES COVERED    **This Privacy Policy is intended to cover all visitors to this website, all subscribers to lists or newsletters whether paid or unpaid, all members or affiliates whether paid or unpaid, and all customers.  Persons who visit or view this website, whether intentionally or unintentionally, whether solicited or unsolicited, are described herein as "Visitors" and are parties to this Privacy Policy.  Subscribers to lists or Newsletters are referred to herein as "Subscribers" and are parties to the Privacy Policy.  Persons who join an organization or marketing endeavor (e.g. "affiliates") promoted by this website are called "Members" herein and are covered by this Privacy Policy.  Finally, anyone who orders, attempts to order, or receives a product sold (recipients) or advertised on or delivered from this website, even at no cost, is called a "Customer" herein and is subject to this Privacy Policy not only by passive acceptance, but by virtue of the Purchase Agreement contract.  The website, its agents, owners, operators, and employees are referred to collectively herein as "Website," "Site," and/or "Seller".
 
-PERSONS OR PARTIES COVERED
+**PERSONS EXCLUDED FROM THIS WEBSITE ARE STILL COVERED**
 
-This Privacy Policy applies to all visitors to the List Building Club  
-website located at www.listbuildingclub.com (the “Website”), all  
-subscribers to List Building Club-sponsored lists and/or newsletters  
-(whether paid or unpaid), all members and/or affiliates of the List  
-Building Club (whether paid or unpaid) and all customers that purchase  
-products and/or services via the Website or otherwise from the List  
-Building Club.
+In the event that a person excluded from this website because of the Terms of Use or from denial of service by the website, who nonetheless unlawfully views this site, that person remains subject to the terms of this Privacy Policy and is in violation of the Terms of Use.
 
-Persons who visit or view the Website, whether  
-intentionally or unintentionally, whether solicited or unsolicited, are  
-referred to herein as "Visitors" and are subject to this Privacy Policy.  
-Subscribers to List Building Club-sponsored lists and/or newsletters are  
-referred to herein as "Subscribers" and are subject to the Privacy Policy.  
-Persons who join an organization or marketing endeavor (e.g. "affiliates")  
-promoted by and through the Website, or otherwise by the List Building  
-Club, are referred to herein as "Members" and are subject to this Privacy  
-Policy. Individuals that order, attempt to order or receive products  
-and/or services that are sold, advertised on or delivered from the Website,  
-or otherwise by the List Building Club, even at no cost, are referred to  
-herein as "Customers" and are subject to this Privacy Policy.
+**PERSONS UNDER 18 YEARS OF AGE ARE EXCLUDED FROM THIS WEBSITE**
 
-If you are a resident of the State of California and would like to opt-out  
-from the disclosure of your personal information to any third party for  
-marketing purposes, please e-mail us at: Support@ListBuilding.com. Please  
-be advised that where California residents opt-out from permitting their  
-personal information to be shared, such individuals may still receive  
-selected offers directly from us, in accordance with the law.
+_This website is not lawfully accessible to persons under the age of 18 or who are otherwise covered by the provisions of the Child Online Privacy Act of 1998 (COPA).   If you are under the age of 18 you must leave this site immediately.  Fraudulent use of this website may make you subject to civil or criminal sanctions._
 
-MINORS
+**VIEWING AND/OR USE AND/OR COMMUNICATION IS CONSTRUED AS ACCEPTANCE OF THE TERMS OF THIS POLICY**
 
-We do not knowingly collect information from individuals under eighteen  
-(18) years of age, or persons who are otherwise covered by the provisions  
-of the Children’s Online Privacy Protection Act of 1998, as amended  
-(“COPPA”). No information should be submitted to, or posted at, the  
-Website by individuals under eighteen (18) years of age. We encourage  
-parents and guardians to spend time online with their children and to  
-participate and monitor the interactive activities of their children.
+Acceptance of the terms of this Privacy Policy is a portion of the consideration required for your right to visit the website.  If you do not accept these terms, you have no right to visit this site and you are fraudulently using this site.
 
-VIEWING, USE AND/OR COMMUNICATION IS CONSTRUED AS ACCEPTANCE OF THE TERMS  
-OF THIS PRIVACY POLICY
+**A NOTE TO CALIFORNIA RESIDENTS (ONLINE PRIVACY PROTECTION ACT OF 2003 --OPPA)**
 
-Acceptance of the terms of this Privacy Policy is a portion of the  
-consideration required for your right to visit the Website. If you do not  
-accept the terms of this Privacy Policy in their entirety, you have no  
-right to visit the Website.
+It is the intent of the Privacy Policy to comply with the California Act.  Various provisions throughout this Privacy Policy address requirements of the act.  In summary, you must presume that we collect electronic information from all visitors.  This is not usually personally identifiable.  If you purchase a product or service via this website (and thereby become covered by the Act), the purchase agreement you electronically sign prior to purchase allows the website to collect and archive all the personal information you provide and to transmit and/or transfer that personal information to third parties.  There is no way you can modify this information and you have no right to do so.  Under the terms of the purchase agreement, you have no right to view or receive any information about our database.  In the event that the website, under advice of counsel agrees to divulge information, the requesting party must submit whatever information is demanded by the website in order to insure that the website is releasing information to the correct party.  Other provisions of the OPPA may exempt this website from complying.  While we take measures to ensure that outside parties do not have access to any information we have about you, we do not warranty that outside parties will not breach our system and thus have access to your information.  (You should know that merchant service providers do not allow us access to your credit card information.)  This Privacy Policy also is subject to change without notice.  You are required to read it prior to using the website.  By interacting with the website you agree to the terms and conditions of the Privacy Policy.  By using the website or purchasing a product through this website, you waive the right to use state or federal court systems to address complaints and, instead, agree to use the American Arbitration Association located in a city and county specified herein.
 
-ABOUT THE PERSONAL INFORMATION THE LIST BUILDING CLUB COLLECTS AND HOW IT  
-IS USED
+**ABOUT THE PERSONAL INFORMATION THIS WEBSITE COLLECTS AND HOW IT IS USED**
 
-The List Building Club routinely collects information about Visitors,  
-Subscribers, Members and Customers. This information is obtained in  
-various ways, such as:
+This website routinely collects information about its visitors, subscribers, members, and customers.  This information is obtained in various ways, such as:
 
-VISITOR, SUBSCRIBER, MEMBER OR CUSTOMER INFORMATION OBTAINED FROM  
-REGISTRATION
+**VISITOR, SUBSCRIBER, MEMBER, OR CUSTOMER INFORMATION OBTAINED FROM 'REGISTRATION'**
 
-For purposes of this Privacy Policy, “Registration” means that the Visitor,  
-Subscriber, Member or Customer, as applicable, takes active, positive steps  
-to communicate information to the List Building Club. This can include,  
-without limitation, where the individual: (a) registers for a newsletter or  
-subscribe to a mailing list; (b) participates in Visitor surveys; (c)  
-participates in promotions, contests and/or sweepstakes offered by the List  
-Building Club; (d) requests information from the List Building Club via  
-email, mail or courier; (e) joins, or attempts to join, an affiliate  
-program or other membership organization sponsored by the List Building  
-Club; and/or (f) orders a product through the Website or otherwise from the  
-List Building Club.
+Registration means that the Visitor, Subscriber, Member or Customer takes active, positive steps to communicate information to this website.  This can include pages or 'pop ups' where you register for a newsletter or subscribe to a mailing list; it can include your participation in visitor surveys; it can include requesting information from the website via email, mail, or courier; it may be from joining an affiliate program or other membership organization, paid or unpaid; it may be from ordering a product.
 
-The information that you must supply in connection with Registration (as  
-further described below) may include, without limitation, some or all of  
-the following: (i) your full name; (ii) company name; (iii) e-mail address;  
-(iv) mailing address (and billing address if different); (v) home telephone  
-number; (vi) work telephone number; (vii) telecopier number; (viii) credit  
-card information; and/or (ix) any other information requested on the  
-applicable Registration form.
+Occasionally complete credit card information may be provided to the website via fax or a fill-in form rather than regular secure merchant service processing.  This information is kept at the highest level of security and is never divulged to anyone except the merchant service provider or for the purpose of communication with the customer.
 
-VISITOR EMAIL INQUIRIES
+**ONLINE ORDERING**
 
-Website Visitors that wish to communicate with the List Building Club do so  
-under the following conditions: (a) they give their permission to be  
-contacted by the List Building Club; and (b) they are subject to any  
-‘submission’ provisions contained in the List Building Club Terms of Use,  
-List Building Club Purchase Agreement and/or this Privacy Policy. The  
-email address that you use in connection with your inquiry shall be added  
-to the List Building Club database. 
+Online ordering via SSL encrypted communication provided by shopping cart services supporting merchant service companies like Visa and Master Card provides information to the website but does not provide complete credit card numbers.  In the process of online ordering, the customer provides, name, address, city, state, email address, phone number, CVV2 (back of card) number, and, occasionally a member password.  You should consider all this information available to the website.  This information is used to deliver the product, but under the Purchase Agreement you also approve its use for general solicitation purposes.
 
-CUSTOMER EMAIL OR TESTIMONIALS
+**VISITOR EMAIL INQUIRIES**
 
-If you are a Customer and you send an email to the List Building Club, or  
-if you communicate with the List Building Club by phone or U.S. mail, the  
-List Building Club shall collect information about your communication and  
-by communicating with the List Building Club, you give your permission for  
-the List Building Club to collect, archive, retrieve and otherwise use any  
-information collected as the List Building Club sees fit. 
+Website visitors who wish to communicate with the website do so under two conditions:  one, they give their permission for contact by the website; two, they are subject to any ‘submission’ provisions of the Terms of Use, Purchase Agreement, or this Privacy Policy.  While your email address may or may not be used to solicit you, it is added to the website's general solicitation database.
 
-Any communication which, in its sole discretion, the List Building Club  
-deems to be a testimonial, may be publicized for commercial purposes.
+**CUSTOMER EMAIL OR TESTIMONIALS**
 
-INFORMATION OBTAINED FROM VOLUNTARY VISITOR, SUBSCRIBER, MEMBER OR CUSTOMER  
-SURVEYS
+If you are a customer and send an email to the website, or if you communicate with the site by phone or mail, the website collects information about your communication and by communicating with the site you give your permission to collect, archive, retrieve, and otherwise use any information collected as the site sees fit.
 
-Unless otherwise specified in the survey, you must assume that any  
-information provided to the List Building Club as part of a survey in which  
-you participate may be used as set forth hereinbelow.
+Any communication which, in its sole discretion, the site deems to be a testimonial, may be publicized for commercial purposes.
 
-INFORMATION OBTAINED FROM ELECTRONIC MEANS AND COOKIES  
+**INFORMATION OBTAINED FROM VISITOR INTERACTION WITH BANNERS, POPUPS, OR SITE ADVERTISERS**
 
+Visitors clicking on banners or pop-ups or hyperlinked advertising, appearing on this website must assume that information is being collected about them.  This site is not responsible for the use of information collected in such a fashion.  Visitors must assume that (1) information will be collected, (2) that ‘cookies’ will usually be placed on their hard drive, (3) that website does not have any control over what happens with this information, (4) that website takes no responsibility over the accuracy or content of advertisers, (5) that website is not responsible for downloads from third party advertisers that contain viruses or worms or other computer code that causes their computer or software harm, and (6) that website assumes no responsibility for the data that is garnered from the click itself or that the advertiser collects. 
 
-  
-We may collect certain non-personally identifiable information about you  
-when you visit many of the sections of the Website. This non-personally  
-identifiable information includes, without limitation, the type of browser  
-that you use (e.g., Netscape, Internet Explorer), your IP address, the type  
-of operating system that you use (e.g., Windows or Mac OS) and the domain  
-name of your Internet service provider (e.g., America Online, Earthlink).  
-We use the non-personally identifiable information that we collect to  
-improve the design and content of the Website and to enable us to  
-personalize your Internet experience. We also may use this information in  
-the aggregate to analyze Website usage, as well as to offer you products  
-and services. We also reserve the right to use aggregate or group data  
-about our Visitors for any and all lawful purposes. Aggregate or group data  
-is data that describes the demographics, usage and/or characteristics of  
-our visitors as a group. By visiting and/or supplying your personal  
-information at the Website, you agree to allow us to provide such aggregate  
-data to third parties.  
+**INFORMATION OBTAINED FROM REFERRING EMAIL OR REFERRING URLS**
 
+If you send a friend an email from this site or if you send the url or one of our web pages to a friend, you must assume that some data is collected about your IP address or your email address and that of your friend.  You must assume that referred emails or web pages may appear to come from your email.  You must accept fully responsibility for referring pages or email to a friend and agree to indemnify this site for any damage, intentional or unintentional that results from said referrals.
 
-"Cookies" is web jargon for bits of computer code placed on your hard  
-drive. The Website uses cookies to keep you 'logged in,' to keep track of  
-search criteria, to monitor use, to password protect use of the Website  
-and/or to track use of products and/or services sold by and through the  
-Website. Even in the case where a Visitor rejects a cookie, they may still  
-use our Website. The only drawback to this is that the Visitor may be  
-limited in what he/she can access in some areas on our Website. Cookies  
-can also be used to obtain information about your computer configuration or  
-your use of your computer. To find out more about cookies, including how  
-to disable and/or remove cookies, please visit www.cookiecentral.com.  
+**INFORMATION OBTAINED FROM VOLUNTARY VISITOR, SUBSCRIBER, MEMBER OR CUSTOMER SURVEYS**
 
+Unless otherwise specified in the survey, you must assume that any information provided to the website as part of a survey in which you participate may be used for general solicitation for commercial purposes and that such information will be shared with joint venture partners, affiliates, marketing organization or used by the site itself for product design or solicitation purposes.
 
-HOW YOUR INFORMATION MAY BE USED
+**INFORMATION OBTAINED FROM ELECTRONIC MEANS AND 'COOKIES'**
 
-The personal information that you submit to us remains your property, but  
-by submitting such information to us you grant us the right, subject to  
-applicable state and federal law, to use the personal information (other  
-than credit card information) for marketing purposes. Without limiting the  
-generality of the foregoing, we reserve the right to share, sell, rent,  
-lease and/or otherwise distribute any and all personal information with/to  
-any third-party for any and all uses permitted by this Privacy Policy and  
-applicable law. These third parties may include, but shall not be limited  
-to: (a) providers of direct marketing services and applications, including  
-lookup and reference, data enhancement, suppression and validation; (b)  
-e-mail marketers; (c) telemarketers (where permitted by applicable law);  
-(d) SMS text-based marketers (where permitted by applicable law); and (e)  
-direct marketers. We may also use your personal information for any  
-promotion-related purpose, and/or marketing and survey purpose, on our own  
-behalf and on behalf of our affiliates and subsidiaries. We may disclose  
-personal information to third-party agents and independent contractors that  
-help us create and/or operate any promotions, surveys or other offerings.  
-You agree that we may contact you at any time with updates and/or any other  
-information that we may deem appropriate for you to receive in connection  
-with your continued use of the Website and any and all offerings made  
-available therein, or otherwise by the List Building Club.  
+Many websites, including this one, collect information about your computer, your email address, your IP address.  You must assume that your web-viewing or web-use activity is monitored, tracked, and information collected.  This information is not usually of a personal nature, but it may help define your viewing habits and product preferences even though the website may or may not have any idea who you are.
 
+"Cookies" is web jargon for bits of computer code placed on your hard drive.  Websites use this to keep you 'logged in', to keep track of search criteria, to monitor use, to password protect use of the site or use of products sold by the site.  Cookies can also be used to obtain information about your computer configuration or your use of your computer.
 
-We are able to offer our products and services to you, in part, based on  
-your willingness to be reached by our third-party advertisers. Your  
-personal information (other than credit card information) will be shared  
-with advertisers on an aggregate and non-aggregate basis. We also use  
-contact information from your personal information to send you information  
-about us, our products and services and to contact you about your billing  
-account status. Please keep in mind, though, that we do not control, and  
-are not responsible for, the practices of our third-party advertisers. If  
-you wish to stop receiving future communications from us and/or third party  
-advertisers, or if you wish to prevent the transfer and/or sale of your  
-personal information to third parties (subject to restrictions contained in  
-applicable state and federal law), please see the Opt-Out/Unsubscribe  
-section below.
+Cookies can be used to electronically gather information about you.  Again, it may or may not be personal information, but it is information and by using this site you are expressly giving permission to use 'cookies' and to use the information gathered from their use to benefit you.  You also give permission to collect, archive, retrieve, and use any information collected for product design, product offers to you, and general commercial solicitation purposes by this site or joint venture partners, affiliates, and marketing organizations.
 
-You agree that by submitting your personal information to the List Building  
-Club, you agree to receive e-mail marketing from the List Building Club and  
-our third-party advertisers. In addition, you agree that such act  
-constitutes a purchase, an inquiry and/or an application for purposes of  
-the Amended Telemarketing Sales Rule, 16 CFR §310 et seq. (the “ATSR”).  
-With respect to the ATSR, and notwithstanding that your telephone number  
-may be listed on the Federal Trade Commission’s Do-Not-Call List, we retain  
-the right to contact you via telemarketing in accordance with the terms of  
-the ATSR.
+**HOW INFORMATION MAY BE USED**
 
-In addition, by submitting your personal information to the List Building  
-Club, you agree to receive mobile marketing including, but not limited to,  
-text-message based marketing, from us and our third party advertisers and  
-marketers (where, and to the extent that, such marketing is permitted by  
-applicable law). As such, notwithstanding that your mobile telephone  
-number may be listed on state and/or federal Do-Not-Call registries, we  
-retain the right to contact you via text-message based marketing in  
-accordance with applicable state and federal law. Further, you agree that  
-we reserve the right to share, sell, rent, lease and/or otherwise  
-distribute your mobile telephone and other mobile data with/to any  
-third-party for any and all non-marketing uses permitted by this Privacy  
-Policy and applicable law.
+The use of information as described below may or may not be how information that is collected is customarily used by this site.  While actual use of any information collected may be used quite conservatively, you must assume that it is not.  You must assume that information collected is shared with other persons or entities for commercial purposes.  While this is uncommon in practice, you must assume that it is as you make your decision whether or not to view or interact with this website.  This type of shared information may include your name, address, phone number, email address and buying habits, as well as other information.  This information may be used for general commercial solicitation by this website or other persons it is sold to, rented to, or shared with.
 
-We reserve the right to release current or past personal information: (a)  
-in the event that we believe that the Website, and any products, services  
-or other offerings is/are being or has/have been used in violation of this  
-Privacy Policy, the List Building Club Terms of Use, List Building the Club  
-Purchase Agreement, or to commit unlawful acts; (b) if the information is  
-subpoenaed; or (c) if any entity comprising the List Building is sold or  
-acquired. Moreover, you hereby consent to the disclosure of any record or  
-communication to any third-party when we, in our sole discretion, determine  
-the disclosure to be appropriate including, without limitation, sharing  
-your e-mail address with other third-parties for suppression purposes in  
-compliance with the CAN-SPAM Act of 2003, as amended from time to time.  
-Visitors should also be aware that courts of equity, such as U.S.  
-Bankruptcy Courts, might have the authority under certain circumstances to  
-permit personally identifiable information to be shared or transferred to  
-third parties without permission.
+**INFORMATION THAT IS NOT SHARED**
 
-We may also supplement the information we collect with information from  
-other sources to assist us in evaluating and improving the Website, our  
-products and/or services, and to determine your preferences so that we can  
-tailor the Website and our products and/or services to your needs.
+Credit card information or other financial information is not usually known to the website.  However, in the event that it is made known, that information is never revealed to anyone except to processing authorities or law enforcement agencies.  However, the provider of such information gives express permission to use it in fraud investigation or for litigation.
 
-CREDIT CARD INFORMATION  
+**BULLETIN BOARDS AND PUBLIC FORUMS**
 
+Visitors, subscribers, members, or customers who use any site provided bulletin boards or other public forums, such as chat rooms, do so at their own risk.  You may not assume that the site monitors these services or protects you in any manner from information you post publicly or share with anyone else via these services.
 
-  
-Notwithstanding the foregoing, we will not use your credit card information  
-for any marketing purposes, or transfer same to any third party, other than  
-as set forth in this paragraph. The List Building Club may: (a) transfer  
-your credit card information to third party sellers where necessary to  
-effectuate the purchase of products and/or services that you requested on  
-the Website or otherwise from the List Building Club; (b) disclose your  
-credit card information pursuant to a court order, litigation and/or fraud  
-investigation; and (c) share with third parties the fact that we have  
-credit card information on file for specific individuals.  
+**SPAM   **
 
+By providing to this website information that forms the basis of communication with you, such as an email address, you waive all rights to file complaints concerning unsolicited email or spam from this website since, by providing such information, you agree to receive communication from us or other marketing organizations.  However, all email communication with you shall contain an 'unsubscribe' link where you may notify the website that you no longer wish to receive solicitations or information from the website and your name will be removed from the general solicitation database.
 
-INFORMATION OBTAINED FROM VISITOR INTERACTION WITH BANNERS, POPUPS OR  
-WEBSITE ADVERTISERS
+**DATA SECURITY**
 
-The Website may contain third party provided banners, pop-ups, hyperlinked  
-advertising and links to other third-party owned and/or operated websites.  
-The List Building Club is not responsible for the privacy practices  
-associated with such third party advertisers and/or websites. In some  
-cases, you may be required to provide certain information to register or  
-complete a transaction via such advertisers and/or at such websites. These  
-third-party websites and advertisers have separate privacy and data  
-collection practices and the List Building Club has no responsibility or  
-liability relating to them. We do not endorse, nor are we responsible for  
-the accuracy of, the privacy policies and/or terms and conditions of such  
-advertisers and/or websites. These third party entities are independent  
-third parties and are not affiliated with us.
+This website takes measures to protect its data that contains information related to you.  However, as a consideration for viewing this site or interacting with this site in any manner, you waive all claims of any nature against this site concerning the loss, alteration, or misuse of information.  You must assume that it is possible for your personal data to be obtained by others, such as "hackers," and used in an inappropriate manner that may cause you harm and that you agree that the site is not responsible for damages to you.
 
-OPT-OUT/UNSUBSCRIBE
+**QUESTIONS, COMMENTS, OR REPORT OF INCIDENTS**
 
-When you submit personally identifiable information to us at the Website,  
-you have opted-in to the sharing of your personal information with third  
-parties to receive marketing communications. When contacted by any of  
-these companies or third parties, you should notify them directly of your  
-choices regarding their use and sharing of your information. To opt-out of  
-having your information shared with third parties, please Click Here. To  
-stop receiving future e-mail communications from the List Building Club,  
-please Click Here. The List Building Club may maintain separate e-mail  
-lists for different purposes. If e-mail recipients wish to end their  
-e-mail subscription from a particular list, they need to follow the  
-instructions at the end of each e-mail message to unsubscribe from the  
-particular list. To unsubscribe from all List Building Club e-mail lists,  
-please Click Here.
+You may direct questions, comments or reports to:
 
-DATA SECURITY 
-
-All collected information is stored in a technically and physically secure  
-environment. When our registration/application process asks users to enter  
-sensitive information (such as credit card number), and when we store and  
-transmit such sensitive information, it is encrypted and protected with SSL  
-encryption software. While we use SSL encryption to protect sensitive  
-information online, we also do everything in our power to protect sensitive  
-information and other personal information off-line. Unfortunately, no  
-data transmission over the Internet, or otherwise, can be guaranteed to be  
-100% secure. As a result, while we strive to protect your sensitive  
-information and other personal information, we cannot ensure or warrant the  
-security of any information that you transmit to us, and you do so at your  
-own risk.
-
-Once we receive your transmission, we make reasonable efforts to ensure its  
-security on our systems. Access to this personal information is strictly  
-limited, and not accessible to the public. All of our users’ personal  
-information, not just sensitive information, is restricted in our offices.  
-Only employees who need the information to perform a specific job are  
-granted access to personal information. Our employees are dedicated to  
-ensuring the security and privacy of all List Building Club user personal  
-information. Employees not adhering to our written firm policies are  
-subject to disciplinary action. In compliance with applicable federal and  
-state laws, we shall notify you and any applicable regulatory agencies in  
-the event that we learn of an information security breach with respect to  
-your personal information. You will be notified via e-mail in the event of  
-such a breach. Please be advised that notice may be delayed in order to  
-address the needs of law enforcement, determine the scope of network  
-damage, and to engage in remedial measures.
-
-CONTACT US
-
-If you have any questions regarding this Privacy Policy, or would like more  
-information on our privacy practices, please contact us at:
-
-Support@ListBuilding.com  
+[Support@ListBuilding.com](mailto:Support@ListBuilding.com)  
 Overcome Everything Inc.  
-139 Main Street, Suite 606 E  
-Brattleboro, Vermont 05301 Phone: 888-563-1163 
+972 Putney Road  
+Suite 303  
+Brattleboro, Vermont 05301  
+**888-563-1163** ****
 
-REVISIONS TO THIS PRIVACY POLICY WITHOUT NOTICE
+**REVISIONS TO THIS PRIVACY POLICY WITHOUT NOTICE**
 
-We reserve the right, in our sole discretion, to change, modify, add and/or  
-remove portions of this Privacy Policy at any time. All Privacy Policy  
-changes will take effect immediately upon their posting on the Website.  
-Please check the Website periodically for any changes. Your continued use  
-of the Website and/or acceptance of our e-mail communications following the  
-posting of changes to this Privacy Policy will constitute your acceptance  
-of any and all changes.
+This Privacy Policy is dynamic.  It will continually change.  You may not assume that it remains the same and you agree to check the policy each time you visit the site for changes.  Unless, in the sole opinion of the website, this policy changes so drastically as to suggest a posted notification on the site or via email, you will receive no notification of changes to this Privacy Policy nor, under any circumstances, does this site promise notification.  Your continued use of this site always evidences your acceptance of the terms this Privacy Policy or any modifications.
+
+**LATEST UPDATE**
+
+This Privacy Policy was last updated on:  March 10th, 2011
+
+**COPYRIGHT**
+
+This Privacy Policy is used under license.  The copyright is owned by Mining Gold Corporation and Nevada Processing Center, Inc.
+
+**DISPUTES**
+
+As part of the consideration that the Website requires of the Visitor to view, use, or interact with this site, Visitor agrees to use binding arbitration for any claim, dispute, or controversy ("CLAIM") of any kind (whether in contract, tort or otherwise) arising out of or relating to this purchase, this product, including solicitation issues, privacy issues, and terms of use issues.
+
+Arbitration shall be conducted pursuant to the rules of the American Arbitration Association, which are in effect on the date a dispute is submitted to the American Arbitration Association.  Information about the American Arbitration Association, its rules, and its forms are available from the American Arbitration Association, 335 Madison Avenue, Floor 10, New York, New York, 10017-4605.  Hearing will take place in the city or county of the Seller. 
+
+In no case shall the Visitor have the right to go to court or have a jury trial.  Visitor will not have the right to engage in pre-trial discovery except as provided in the rules; you will not have the right to participate as a representative or member of any class of claimants pertaining to any claim subject to arbitration; the arbitrator's decision will be final and binding with limited rights of appeal. 
+
+The prevailing party shall be reimbursed by the other party for any and all costs associated with the dispute arbitration, including attorney fees, collection fees, investigation fees, and travel expenses.
+
+**JURISDICTION AND VENUE**
+
+If any matter concerning this purchase shall be brought before a court of law, pre- or post-arbitration, Visitor agrees to that the sole and proper jurisdiction to be the state and city declared in the contact information of the web owner unless otherwise here specified – Orlando, Florida, U.S.A. In the event that litigation is in a federal court, the proper court shall be the closest federal court to the Seller's address.
+
+**APPLICABLE LAW**
+
+Visitor agrees that the applicable law to be applied shall, in all cases, be that of the state of the Website owner(s).
+
+**COPYRIGHT AND LICENSE  **
+
+This "Privacy Policy" is © 2003-2011 by Overcome Everything Inc and is fully licensed for use by this website.  If you wish to lawfully use this Terms of Use on your website, contact[ support@internetlawcompliance.com](mailto:support@npcinfo.com) or visit [legal documents website.](http://www.internet-law-compliance.com/)
