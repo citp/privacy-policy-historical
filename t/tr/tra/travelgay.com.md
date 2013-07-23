@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelgay.com privacy policy that was archived on 2011-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110512200636id_/http%3A//www.clients-support.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelgay.com privacy policy that was archived on 2013-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130723024102id_/http%3A//www.clients-support.com/privacy.html) for the most accurate reproduction.*
 
 # Clients-Support.com - Servicing Your Needs
 
