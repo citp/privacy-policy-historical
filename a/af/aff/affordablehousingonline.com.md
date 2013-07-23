@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affordablehousingonline.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601034519id_/http%3A//www.affordablehousingonline.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affordablehousingonline.com privacy policy that was archived on 2013-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130723044923id_/http%3A//affordablehousingonline.com/privacy.asp) for the most accurate reproduction.*
 
 # Affordable Housing Online Privacy Policy
 
