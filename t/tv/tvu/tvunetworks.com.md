@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvunetworks.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509140620id_/http%3A//pages.tvunetworks.com/doc/privacy_notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvunetworks.com privacy policy that was archived on 2013-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130723134225id_/http%3A//pages.tvunetworks.com/doc/privacy_notice.html) for the most accurate reproduction.*
 
 # TVU networks | Privacy Notice
 
@@ -6,7 +6,7 @@ TVU networks Privacy Notice
 
 TVU networks, Inc. ("TVU networks") values the privacy of its users, customers, subscribers, members, and others (collectively or individually, "Users") who use its platform, consisting of web sites, services, software applications and networks that allows for the authorized broadcasting and viewing of digital content over the internet (the "TVU networks Platform"). The TVU networks Platform includes software for broadcasting of authorized digital content (the "TVU Broadcasting Application") and receiving broadcasts of authorized digital content (the "TVUPlayer") over the internet (collectively, the "TVU networks Applications").
 
-This Privacy Notice is incorporated into and is subject to the TVU networks **[_Terms of Service_](https://web.archive.org/web/20130509140620id_/http%3A//pages.tvunetworks.com/doc/terms_of_service.html)**. Your use of TVU networks and any personal information you provide on TVU networks remain subject to the terms of this Privacy Notice and our **[_Terms of Service_](https://web.archive.org/web/20130509140620id_/http%3A//pages.tvunetworks.com/doc/terms_of_service.html)**.
+This Privacy Notice is incorporated into and is subject to the TVU networks **[_Terms of Service_](https://web.archive.org/web/20130723134225id_/http%3A//pages.tvunetworks.com/doc/terms_of_service.html)**. Your use of TVU networks and any personal information you provide on TVU networks remain subject to the terms of this Privacy Notice and our **[_Terms of Service_](https://web.archive.org/web/20130723134225id_/http%3A//pages.tvunetworks.com/doc/terms_of_service.html)**.
 
 By using the TVU networks Platform, you expressly consent to the information handling practices described in this notice.
 
