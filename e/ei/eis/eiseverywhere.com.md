@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eiseverywhere.com privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420121428id_/https%3A//www.eiseverywhere.com/docs/3864/etouchesPrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eiseverywhere.com privacy policy that was archived on 2013-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130724090017id_/https%3A//www.eiseverywhere.com/docs/3864/etouchesPrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # etouches, Inc. Privacy Policy
 
