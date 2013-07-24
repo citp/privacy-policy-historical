@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cipl.net.in privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627015502id_/http%3A//www.cipl.net.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cipl.net.in privacy policy that was archived on 2013-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130724101600id_/http%3A//cipl.net.in/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
