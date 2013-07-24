@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the planetwisdom.com privacy policy that was archived on 2013-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130309184608id_/http%3A//planetwisdom.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetwisdom.com privacy policy that was archived on 2013-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130724035345id_/http%3A//planetwisdom.com/privacypolicy) for the most accurate reproduction.*
 
 # Our Commitment To Privacy | PlanetWisdom
+
+"Being surrounded by all these young people that all love Jesus the same way I do is so amazing, and powerful. I had no idea that PlanetWisdom was going to be this life changing but I'm blessed and grateful for this weekend."
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
