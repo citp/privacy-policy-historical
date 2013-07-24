@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audiko.net privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115025755id_/http%3A//audiko.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audiko.net privacy policy that was archived on 2013-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130724090309id_/http%3A//audiko.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Audiko
 
