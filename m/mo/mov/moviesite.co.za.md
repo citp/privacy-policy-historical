@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moviesite.co.za privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420182341id_/http%3A//moviesite.co.za/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviesite.co.za privacy policy that was archived on 2013-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130724191013id_/http%3A//www.moviesite.co.za/privacy.htm) for the most accurate reproduction.*
 
 # The MovieSite — Privacy Policy
 
