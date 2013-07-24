@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the demandware.net privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524055820id_/http%3A//www.demandware.net/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the demandware.net privacy policy that was archived on 2013-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130724100418id_/http%3A//www.demandware.net/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Last Updated April 19, 2013
 
-The following policy describes the privacy practices for Demandware, Inc. ("Demandware").  
+The following policy describes the privacy practices for Demandware, Inc. and its affiliates ("Demandware").  
 [](http://www.export.gov/safeharbor)[](http://privacy.truste.com/privacy-seal/Demandware-Inc-/validation?rid=66ffd56c-16bb-41e6-b3d2-785d6d93dc0d)
 
 Demandware respects the privacy of our customers, partners, employees, Web site visitors, and job applicants. We believe it is important for you to understand the type of information we collect about you and how that information is used. We recognize the need for appropriate safeguards and management of personal information you provide to us ("Personal Information"). This Privacy Policy sets forth the privacy principles Demandware follows with respect to your Personal Information.
