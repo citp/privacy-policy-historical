@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the islandtrends.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623110854id_/http%3A//www.islandtrends.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the islandtrends.com privacy policy that was archived on 2013-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130724210026id_/http%3A//www.islandtrends.com/privacypolicy) for the most accurate reproduction.*
 
 # Island Trends - Robert Graham - FitFlop - FitFlops - Tommy Bahama
 
