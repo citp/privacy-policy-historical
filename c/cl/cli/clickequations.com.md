@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickequations.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511044649id_/http%3A//www.clickequations.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickequations.com privacy policy that was archived on 2013-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130724080259id_/http%3A//www.clickequations.com/privacy-policy) for the most accurate reproduction.*
 
 # ClickEquations Privacy Policy
 
