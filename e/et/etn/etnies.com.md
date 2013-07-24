@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the etnies.com privacy policy that was archived on 2010-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100318052645id_/http%3A//www.soletechnology.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etnies.com privacy policy that was archived on 2013-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130725003618id_/http%3A//www.soletechnology.com/legal/privacy.html) for the most accurate reproduction.*
 
-# Sole Technology Online Privacy Statement.
+# Online Privacy Statement.
 
-Thank you for visiting this website. Sole Technology, Inc. (hereinafter "Sole Technology," "we" or "us") has created this Online Privacy Statement to demonstrate our firm commitment to your privacy. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used by us. This notice discloses our information gathering and dissemination practices for each of the Sole Technology websites (each a "Sole Technology Site" and, collectively, the "Sole Technology Sites"). 
+Thank you for visiting this webpage, which you have reached from any of the affiliated websites of Sole Technology, Inc. (hereinafter "Sole Technology," "we" or "us"), namely [http://etnies.com](http://etnies.com/), [http://emerica.com](http://emerica.com/), [http://esskateboarding.com](http://esskateboarding.com/), [http://thirtytwo.com](http://thirtytwo.com/), [http://altamontapparel.com](http://altamontapparel.com/), [http://soletechnology.com](http://www.soletechnology.com/) or [http://stilab.com](http://stilab.com/) (each a "Sole Technology Site" and, collectively, the "Sole Technology Sites"). We have created this Online Privacy Statement to demonstrate our firm commitment to your privacy. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used by us. This notice discloses our information gathering and dissemination practices for each of the Sole Technology Sites. 
 
 Although our computer systems are currently based in the United States of America, we operate internationally. Your personal data will be processed by us in the United States where data protection and privacy regulations may or may not be to the same level of protection as in other parts of the world, such as in the European Union. By visiting the Sole Technology Sites from outside the United States, you consent to the collection and processing in the United States of your identifiable information.
 
@@ -43,7 +43,7 @@ Sole Technology puts the non-personally identifiable information gathered whenev
 
 ## 4\. WHAT CHOICES DO I HAVE TO CONTROL MY INFORMATION?
 
-You have the opportunity to opt-out of receiving communications from us and/or to opt out of permitting us to share your information with affiliates and third parties sponsors by sending us an email at whyareyoubotheringus@soletechnology.com or sending us a letter at Web Manager, Sole Technology, Inc., 20161 Windrow Dr., Lake Forest, CA 92630 and telling us that you do not want us to send you any communications and/or permit us to share your information with affiliates or sponsors of our contests.
+You have the opportunity to opt-out of receiving communications from us and/or to opt out of permitting us to share your information with affiliates and third parties sponsors by sending us an email at whyareyoubotheringus@soletechnology.com or sending us a letter at Web Manager, Sole Technology, Inc., 26921 Fuerte Drive, Lake Forest, CA 92630 and telling us that you do not want us to send you any communications and/or permit us to share your information with affiliates or sponsors of our contests.
 
 ## 5\. THE PRIVACY OF MINORS
 
@@ -67,4 +67,4 @@ We employ several physical, electronic and managerial safeguards to protect coll
 
 ## 8\. CONTACTING SOLE TECHNOLOGY
 
-If you have any questions about this Online Privacy Statement, the practices of the Sole Technology Sites, or your dealings with any of the Sole Technology Sites, please send an email to whyareyoubotheringus@soletechnology.com or send us a letter at Sole Technology, Inc., 20161 Windrow Dr., Lake Forest, CA 92630, Attention: Web Manager. 
+If you have any questions about this Online Privacy Statement, the practices of the Sole Technology Sites, or your dealings with any of the Sole Technology Sites, please send an email to whyareyoubotheringus@soletechnology.com or send us a letter at Sole Technology, Inc., 26921 Fuerte Drive, Lake Forest, CA 92630, Attention: Web Manager. 
