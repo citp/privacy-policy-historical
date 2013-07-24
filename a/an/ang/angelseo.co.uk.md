@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the angelseo.co.uk privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531221113id_/http%3A//www.angelseo.co.uk/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angelseo.co.uk privacy policy that was archived on 2013-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130724190751id_/http%3A//www.angelseo.co.uk/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Angel SEO
 
