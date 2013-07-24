@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eauthorresources.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531034709id_/http%3A//eauthorresources.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eauthorresources.com privacy policy that was archived on 2013-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130724020946id_/http%3A//eauthorresources.com/Privacy.html) for the most accurate reproduction.*
 
 # 
 
