@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aussie.com.au privacy policy that was archived on 2011-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110406073127id_/http%3A//www.aussie.com.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aussie.com.au privacy policy that was archived on 2013-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130725114423id_/http%3A//www.aussie.com.au/privacy.htm) for the most accurate reproduction.*
 
 # Privacy | Aussie
 
@@ -50,8 +50,7 @@ The information we hold about you is yours to access and correct, and as such we
 
 The Privacy Officer  
 Aussie  
-363 George Street  
-Sydney NSW 2000
+LOCKED BAG 19 ROYAL EXCHANGE NSW 1225
 
 or email the Privacy Officer at [privacy@aussie.com.au](mailto:privacy@aussie.com.au)
 
@@ -77,14 +76,13 @@ At Aussie, we value our customers. We will always aim to be fair and responsive.
 
 The Privacy Officer  
 Aussie  
-363 George Street  
-Sydney NSW 2000
+LOCKED BAG 19 ROYAL EXCHANGE NSW 1225
 
 or email the Privacy Officer at [privacy@aussie.com.au](mailto:privacy@aussie.com.au)
 
-We will make all efforts possible to investigate your complaint, and advise you of the outcome as soon as possible. If the matter is not resolved to your satisfaction, you can then refer your complaint to the Federal Privacy Commissioner, who can be contacted at:
+We will make all efforts possible to investigate your complaint, and advise you of the outcome as soon as possible. If the matter is not resolved to your satisfaction, you can then refer your complaint to the Australian Information Commissioner, who can be contacted at:
 
-Office of the Federal Privacy Commissioner  
+Office of the Australian Information Commissioner  
 Level 8, Piccadilly Tower  
 133 Castlereagh Street  
 Sydney NSW 2000
@@ -95,13 +93,10 @@ You can request further information about the way we manage the personal informa
 
 The Privacy Officer  
 Aussie  
-363 George Street  
-Sydney NSW 2000
+LOCKED BAG 19 ROYAL EXCHANGE NSW 1225
 
 or email the Privacy Officer at [privacy@aussie.com.au](mailto:privacy@aussie.com.au)
 
 ### Direct marketing offers and information
 
 The details you give us may be used to inform you about any special offers we think will be of interest to you, and to update you on new products and services or changes to our website. We may also send you details of offers or services provided by our business partners and related Aussie entities. You may at any time choose not to receive these communications. Doing so will not cost you anything, and we will aim to ensure you stop receiving any unwanted communications as soon as possible.
-
-Feedback
