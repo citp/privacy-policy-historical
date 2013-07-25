@@ -1,23 +1,39 @@
-> *The following text is extracted and transformed from the yardsalesearch.com privacy policy that was archived on 2010-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100130172955id_/http%3A//www.yardsalesearch.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yardsalesearch.com privacy policy that was archived on 2013-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130726003003id_/http%3A//www.yardsalesearch.com/privacy.jsp) for the most accurate reproduction.*
 
-# Privacy Policy
+# Yard Sale Search - Find or advertise garage sales for free!
 
-**Privacy Policy**
+## Privacy Policy Statement
 
-Our site and and its advertisers and affiliates are deeply committed to protecting the privacy of Internet users. Below is information outlining our continued support for the responsible management of consumer information. 
+Here's the short version: we respect your privacy and never release or misuse your personal information except as required by law or with your full permission. We do not spam, sell, rent, or otherwise release any of your information to outside parties unless required to do so by law. Seriously. If you feel there is an issue, please contact us **immediately**. 
 
-**Consumer Information**
+If you're bored, you can read the long version below (yawn....). 
 
-While you visit our site we do not collect any personally identifiable information about you such as name, address, phone number, or e-mail address unless you expicitly provide it via a mailing list signup form or in one of the discussion forums (see below). We do obtain some types of non-personally identifiable information such as the Internet Service Provider you use to connect to the Internet, your browser type, or the type of computer operating system you use (Macintosh or Windows, for example). This information is used for the purpose of targeting ads and measuring ad effectiveness on behalf of our advertisers. 
+This is a web site operated by Bookoo, Inc. 
 
-In some cases, you may voluntarily provide personal information in response to a specific request such as a mailing list signup form or to identify you in a discussion forum. In the case of a discussion forum, your name and/or mailing address are visible to all site visitors if you provide them. It's up to your discretion whether this is acceptable to you and whether you'd prefer not to participate in the public forum. In the case of mailing lists, when you sign up for any list we add your email address to an automated list system. The addresses on that list are used only for the specific types of mailings described and will never be revealed to any advertiser or other party -- including to other members of the list. **While individual mailings may contain ads, we do not rent, sell, or give away our mailing lists for any reason.**
+Our postal address is: 248 Foster Drive Oswego, IL 60543 
 
-**Cookies**
+We can be reached via e-mail at info@bookoo.com. 
 
-Our site, as well as most sites on the Internet, use "cookies" to enhance your experience on the web. We do not use these cookies to personally identify you in any way. What are cookies and why do we use them? A cookie is a unique piece of information that is provided by your web browser which is stored in a cookie file on your computer. This helps us know your preferences like chat room name and favorite color choice when you return next time. You can still disable cookies on your browser at any time. 
+For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible). 
 
-**Opt Out Procedure**
+We collect the domain name and e-mail address (where possible) of visitors to our Web page, the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our chat areas, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations. 
 
-If you would like to "opt out," that is, to prevent any data from being stored by us, simply not signing up for any of our voluntary mailing lists or participating in discussion forums is sufficient. 
+The information we collect is used to improve the content of our Web page, , disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Website and applicable laws or to protect against misuse or unauthorized use of our Website, to a successor entity in connection with a corporate merger, consolidation, sale of assets or other corporate change respecting the Website. 
 
-If you have any additional questions about our site' dedication to consumer privacy, please [contact us](https://web.archive.org/web/20100130172955id_/http%3A//www.yardsalesearch.com/contact.shtml). 
+With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart. 
+
+If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address, writing to us at the above address. 
+
+With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of: http://www.google.com/privacypolicy.html From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will contact you before we use your data for these new purposes to notify you of the policy change and to provide you with the ability to opt out of these new uses. 
+
+Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address, writing to us at the above address. 
+
+Upon request we provide site visitors with access to unique identifier information (e.g., customer number or password) that we maintain about them, transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, communications that the consumer/visitor has directed to our site (e.g., e-mails, customer inquiries), contact information (e.g., name, address, phone number) that we maintain about them . 
+
+Consumers can access this information by writing to us at the above address. 
+
+Upon request we offer visitors the ability to have inaccuracies corrected in contact information. 
+
+Consumers can have this information corrected by sending us e-mail at the above address, writing to us at the above address. 
+
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at http://www.ftc.gov/ftc/complaint.htm. 
