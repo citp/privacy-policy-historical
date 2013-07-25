@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ashlynnbrooke.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529120022id_/http%3A//www.mrbiggz.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashlynnbrooke.com privacy policy that was archived on 2013-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130725031137id_/http%3A//www.mrbiggz.com/privacy.htm) for the most accurate reproduction.*
 
 # MrBiggz.com - Privacy
 
