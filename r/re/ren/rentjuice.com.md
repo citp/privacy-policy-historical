@@ -1,102 +1,110 @@
-> *The following text is extracted and transformed from the rentjuice.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630130440id_/http%3A//rentjuice.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentjuice.com privacy policy that was archived on 2013-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130725151147id_/http%3A//www.zillow.com/corp/Privacy.htm) for the most accurate reproduction.*
 
-# RentJuice - Company Information
+# Privacy Policy - Zillow
 
-_Last Updated: August 4, 2011_
+At Zillow ("Zillow" or "we" or "us" or "our"), we appreciate your use of and contributions to our Web sites (defined to include all properties (mobile, web or otherwise) owned and operated by Zillow) and features (known as the "services"). Zillow respects your privacy and is committed to protecting your personal information.
 
-This Privacy Policy describes how RentJuice Corporation ("We," "Us," or "Our") collects, uses and discloses personal information when you use the Web site located at www.rentjuice.com or any of our widgets or applications (collectively, the "Site").
+This is our privacy policy and we will comply with it, as well as applicable U.S. privacy law, when we gather and use information from users of our services. We encourage you to read this privacy policy to understand what we do with the information we collect from you.
 
-This Privacy Policy applies to personal information collected through the Site. For the purpose of this Privacy Policy, "personal information" means information that specifically identifies an individual (such as a name, address, telephone number, mobile number, e-mail address, or credit card number), or information about that individual that is directly linked to personally identifiable information. Personal information does not include "aggregate" information, which is data we collect about the use of the Site or about a group or category of services or users, from which individual identities or other personal information has been removed. This Policy in no way restricts or limits our collection and use of aggregate information. If you have any questions or concerns regarding this Privacy Policy or our privacy practices, please email us at [privacy@rentjuice.com](mailto:privacy@rentjuice.com?subject=Privacy%20Policy).
+### Advertising-Supported Business Model
 
-## WHAT PERSONAL INFORMATION DO WE COLLECT ON THE SITE AND HOW WE COLLECT IT
+The Zillow Web sites and our extensive set of features are generally funded through advertising dollars.   
+This advertising [revenue](https://web.archive.org/corp/About.htm) helps keep Zillow free of charge for our user community. It also allows us to explore and build new features.
 
-### ACTIVE COLLECTION OF INFORMATION
+We strive to make advertisements relevant and useful to you. Therefore, we may serve advertisements to you based on the information we collect from you or in relation to your interaction on our site.
 
-Personal information may be collected in a number of ways when you visit the Site or use any of the products or services offered via the Site. We collect certain information that you voluntarily provide to us which may contain personal information. For example, we may collect your name, email address, user name, telephone number, or credit card account number when you register, set up an account, fill out a form, request information or contact us by e-mail. We may also collect your social security number if an agent or agency requests a credit report concerning you. However, we will store your social security number in our database for only as long as is reasonably necessary to obtain such credit report. Once we request a credit report from our vendors, we promptly remove your social security number from our database.
+We pledge to be transparent about the information we monitor and collect from you. We keep information private between you and Zillow, except as explained below. 
 
-Personal information may also be collected if you provide such information in connection your participation in interactive areas on the Site, such as creating a profile, participating in forums or posting blog comments, photos or other content on the site. From time to time we may collect personal information you provide in connection with your participation in surveys, sweepstakes, contests, promotional offers, and other activities on the Site.
+### Collection of Information
 
-### PASSIVE COLLECTION OF INFORMATION
+When you use Zillow's Web sites, we collect a variety of information.
 
-We may collect information that is sent to us automatically by your Web browser, such as your IP address, the address of the Web page you were visiting when you accessed the Site or an advertisement hosted by us on a third party Web site, information on your operating system and browser, and the date and time of your visit. The information we receive depends on the settings on your Web browser. . We treat this information as personal information if we combine it with or link it to any of the identifying information mentioned above. Otherwise, it is used in the aggregate only.
+  *  **Information you provide.** When using our Web sites and services, you may provide information about yourself, such as name, address, phone number and e-mail. This may occur when you register on Zillow, claim a home, or complete other forms, such as a loan request. We may combine this information with other information we collect from your activity on our Web sites or from other companies. You may also provide information about a third party on a Zillow Web site, for example, if you share a real estate listing with a recipient via email.
 
-Like many commercial Web sites, we use "cookies," and similar technologies to automatically collect certain information and manage the Site. A cookie is a small text file that is placed on your hard disk by a Web server. Cookies cannot be used to install computer programs or deliver viruses to your computer. Among other things, we use cookies to improve the Site and enhance your browsing experience. If we link cookies to any personally identifying information, we will treat this information as personal information.
+In addition, when you order products or services from Zillow Web sites, Zillow may collect your credit/debit card information. Zillow will use this information solely to complete your order and will not share this information with outside parties, except to the extent necessary to complete the order or comply with applicable law.
 
-You may delete our cookies as soon as you leave the Site. If you wish to block, erase, or be warned of cookies, please refer to your browser manufacturer to learn about these functions. However, if you choose to remove or reject cookies, this could affect certain features or functions on our Site, and you will only be able to log into your account and certain other portions of the Site if the cookies are enabled.
+In the event that a credit report is required to use a Zillow product or service, Zillow may collect your social security number ("SSN"). Zillow restricts access to SSNs to employees, vendors and subcontractors who require SSNs to support certain products and services. Zillow strives to protect SSNs from unlawful disclosure and to keep them confidential by maintaining physical, electronic, and procedural safeguards that comply with applicable state and federal regulations.
 
-We may use Web beacons or similar technologies on the Site and may permit third parties to place them on the Site. A Web beacon is a small, invisible graphic image that may be used on the Site or in emails relating to the Site to collect certain information and monitor user activity, such as to count visits, understand usage and campaign effectiveness and to tell if an email has been opened and acted upon. 
-
-Third party vendors may use cookies or other technologies to serve ads on this or other websites based on your visits to this site and other sites and to collect certain other nonpersonal or anonymized information about such visits, such as your IP address, your ISP, the browser you use to visit our Site and the actions you take. This information may be used, among other things, to deliver advertising targeted to your interests and to better understand the usage and visitation of our Site and the other sites tracked by these third parties.
-
-## HOW DO WE USE YOUR PERSONAL INFORMATION
-
-We use the personal information collected through the Site for the purposes described in this Policy or elsewhere on the Site. For example, we may use the personal information we collect:
-
-  * to communicate with you and provide you with news and information about our or third party events, activities, offers, promotions, products, and services we think will be of interest to you;
-  * to process your requests and transactions and provide the products and services available through the Site;
-  * to contact you on behalf of agents to coordinate on housing rental process tasks or communicate with you about future products;
-  * to monitor and analyze site usage and trends and to personalize and improve the Site, such as providing ads, content, or features that match their profiles or interests, and to increase the Site's functionality and user friendliness;
-  * to perform marketing analysis and to customize and improve the services and/or products we provide to you;
-  * to assist with our product and service development and to request feedback and to otherwise contact you about your use of the Site;
-  * to respond to your emails, submissions, questions, comments, requests, and complaints and provide customer service;
-  * to send you confirmations, updates, security alerts, and support and administrative messages and otherwise facilitate your use of, and our administration and operation of, the Site; and
-  * for the creation of our public directory and for other purposes related to our business. 
+  *  **Cookies and Web beacons.** Cookies are bits of electronic information that can be transferred to a computer to uniquely identify that computer's browser. When you visit our Web sites and use our services, we may place one or more cookies on your computer. The use of cookies helps us improve the quality of our services to you, by identifying information which is most interesting to you, tracking trends, or storing information you may want to retrieve on a regular basis, such as your favorite homes. At any time, you may adjust settings on your browser to refuse cookies. However, if you choose to disable cookies, many of the free features and services on Zillow will not operate properly. Also, the pages of our service may include Web beacons, which are electronic files to count users who have visited that page or to identify certain cookies on the computer accessing that page. Some pages on our Web sites may use third-party Web beacons from Yahoo! In addition to our use of the data to analyze visitor activity on our Web sites, Yahoo! may use anonymous information about your visit in order to improve its products and services and to provide advertisements about goods and services that may be of interest to you.
+  *  **Third-party cookies.** We work with service providers and advertising networks to track and manage cookie information and your activities while you're on Zillow or using our services. You may opt-out of cookie tracking and analysis from any of these ad networks by Opting Out of Collection of Information, which is explained further below.
+  *  **Usage logs.** When you use the services, your computer communicates a variety of information to computer servers, including the existence of cookies, your Internet Protocol address, and information about your browser program. We also create a record of what information you are requesting, such as the page or subject areas you're visiting. 
+  * **Calls.** Calls to Zillow or to third parties through Zillow may be recorded or monitored for quality assurance and customer service purposes. If a call is recorded between you and a third party, it will be deemed private information of both you and the third party, and may be released to either of you. 
 
 
 
-Also, we may use the information we have collected together with information collected by a partner, advertiser or other person/entity with whom you or we do business.
+### Usage and Disclosure
 
-## WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION
+In general, Zillow uses the information collected from you to communicate with you and operate our features and services. Zillow also uses this information to present you with advertising that we believe will be of interest or useful to you.
 
-We will not share the personal information we collect from you through this Site with third parties, except as described in this Policy or on the Site. For example, we may share personal information as follows:
+Your privacy is important and we are committed to protecting information that identifies you personally, where you have chosen to keep it private. We will only share personal information that you provide outside the public areas of our services in the following circumstances:
 
-  * with vendors, consultants, and other service providers ("Service Providers") who are engaged by or working with us in connection with the operation of the Site or the services we provide and who need access to such information to carry out their work for us, such as sharing credit card numbers with our credit payment processing vendor and social security numbers and basic contact information with our credit and background data technology providers;
-  * when we, in good faith, believe that we are lawfully authorized or required to do so or that disclosure is appropriate to: (a) comply with applicable law or a court order, subpoena or other legal process or respond to lawful requests or legal authorities; (b) prevent or investigate a possible crime, such as fraud or identity theft; (c) enforce the Terms of Service of the Site or other agreements that govern your use of the Site and/or our services; (d) to protect the rights, property or safety of us, our users or others, including without limitation to protect us or our users from fraudulent, abusive, inappropriate, or unlawful use of our Site;; or (e) to protect your vital interests;
-  * when you give us your consent to do so, including if you opt-in to sharing such personal information or if we disclose on the Site that the information you provide will be shared in a particular manner and you provide such information;
-  * in an aggregated or anonymized form that does not directly identify you;
-  * to enforce or apply this Policy, our Terms of Use, or our other policies or agreements; and
-  * in connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition, or in any other situation where personal information may be disclosed or transferred as part of our business assets.
+  *  **Consent.** When you consent or direct Zillow to share the information. For example, if you choose to contact a real estate agent or lender through Zillow, your name and e-mail address will appear to the recipient of the message. 
+  * **Service providers to Zillow.** When Zillow hires a service provider to help operate the services or our business, Zillow may give access to personal data only as necessary to perform the service for Zillow, and subject to the terms of this privacy policy. 
+  * **Legal obligation or protection from harm.** When Zillow has a good faith belief that access, use, preservation or disclosure of the personal information is reasonably necessary to (a) satisfy any requirement of law, regulation, legal process, or enforceable governmental request, (b) enforce or investigate a potential violation of the Terms of Use, (c) detect, prevent, or otherwise respond to fraud, security or technical concerns, or (d) protect the rights, property, or safety of Zillow, its users, or the public against harm. 
+  * **Merger or sale.** If and when Zillow is involved in a merger, acquisition, or any form of sale of some or all of its business, personal information may be transferred along with the business
 
 
 
-Personal information submitted to the Site or otherwise collected by us will become part of our normal business records and may be transferred to another company that has acquired our stock or assets, for example, as a result of a sale, merger, reorganization, dissolution or liquidation. If such a transfer occurs, the acquiring company’s use of your personal information will still be subject to this Privacy Policy, and the privacy preferences you have expressed to us.
+When you provide public information without identifying yourself, we will protect your personal identity as described above. If your account profile does not identify you personally, Zillow won't reveal your identity to third parties except in accordance with this policy.
 
-When personal information is shared with Service Providers, such Service Providers are prohibited from using such information for anything other than providing the specific services to us for which such information was provided. However, we are not responsible for the actions of Service Providers or other third parties, nor are we responsible for any additional information you provide directly to any third parties, and we encourage you to become familiar with their privacy practices before disclosing information directly to any such parties.
+When we deliver ads based on data about your use of the services, we keep your identity anonymous. We won't identify you personally to third parties, except in accordance with this privacy policy. Of course, if you choose to respond to an advertised offer with your name and contact information, you will no longer be anonymous to the advertiser. 
 
-You understand that when you join RentJuice, you will be added to the RentJuice Directory, which is available to all users and which may be made publicly available. Such directory information may include certain personal information you provide to us, such as your name, email and other contact information, unless you opt out of including such information in your directory listing by editing your Company Profile settings within the [Edit Directory Profile](http://app.rentjuice.com/account/settings/company) tab on the Site.
+### Some Things are Not Covered
 
-You further understand that when you use the Site, information or content that you post in any profiles, blogs, listings, public or private groups, forums and other interactive areas of the Site that are accessible to others, as well as any information you share with individuals through the Site or share through social network sites, will be available to such other users and in some cases may be publicly available. We recommend you be cautious about giving out personal information to others or sharing personal information through the Site.
+This privacy policy will not apply to the following: 
 
-Nothing herein restricts the sharing of aggregated or anonymized information, which may be shared with third parties without your consent.
+  * **Public posting.** You should keep in mind that the information that you choose to provide in a public area of the services (such as your profile page or the discussion forums) will not be protected by this privacy policy because you have made an active choice to make that information public.
+  *  **Real estate information.** Zillow strives to provide open and transparent information about real estate markets. As a result, we make available past sales prices for homes, and allow any user to post a question or answer about a given home. Many times, this information is already publicly available. As long as discussion surrounds real estate and not individuals, we intend to keep this information freely available on our Web sites. Where a professional participates in the Zillow community, we may also allow users to comment on the professional, such as the lender ratings in the Zillow Mortgage Marketplace.
+  *  **Aggregated non-personal information and other information without personal identification.** While we do not share your personal information with third parties unless permitted above, Zillow may share aggregate anonymous information with third-parties. This information does not personally identify individuals, but instead provides a helpful understanding of the groups of people who prefer certain types of information and services.
 
-## WHAT CHOICES DO YOU HAVE REGARDING THE USE OF YOUR PERSONAL INFORMATION
 
-You may "opt out" of receiving marketing or promotional emails from us by following the instructions in those emails. You may also opt out of such marketing emails by emailing us at [privacy@rentjuice.com](mailto:privacy@rentjuice.com?subject=Privacy%20Policy), by writing us at the address below or, in some instances, by following the instructions on the Site. If you opt out, we may still send you non-promotional emails, such as emails about your accounts or our ongoing business relations.
 
-You may also be given the opportunity to opt-in to our sharing your personal information with select companies that may make available to you products and services that we believe may be of interest to you. However, we will not share any of your personal information with such companies unless you have opted-in or as otherwise disclosed in this Policy.TRANSFER OF DATA ABROAD 
+### E-mail Management
 
-If you are visiting the Site from a country other than the country in which our Web servers are located (currently United States of America) the various communications will necessarily result in the transfer of information across international boundaries. By visiting the Site and communicating electronically with us, you consent to the processing and transfer of your data as set out in this Privacy Policy and you acknowledge that we may store and process personal information in the United States and other countries.
+You may receive e-mail from Zillow for a variety of reasons - for example, if you took an action on the Zillow Web sites, you signed up for a regular report, or you posted your home for sale and a buyer sent you a message. We respect your desire to manage e-mail correspondence. If you have an account with Zillow, you can select your preferences through your [account tools](https://www.zillow.com/myzillow/Account.htm). Also, you can manage your receipt of some types of communication by following the instructions included in the e-mail we send you.
 
-## SECURITY
+### Opting Out of Collection of Information
 
-No data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us. However, we have endeavored to put into place reasonable security measures in an effort to protect personal information while it is under our control.
+Zillow, its third-party ad network providers, and third-party advertisers (the "Zillow Ad Providers") may provide you with advertisements that you may see on the services or on other affiliated Web sites. To improve the relevancy and help measure the effectiveness of such advertisements, the Zillow Ad Providers may use cookies, Web beacons, clear .gifs or similar technologies. These are used to record users' online activity, such as the pages visited, and to learn what types of information are of most interest to the users. 
 
-For example, when you log in, provide credit card numbers, complete credit reports, send information to us during the registration process or access your account information, we use a secure server with Secure Socket Layer ("SSL") encryption software that makes unauthorized access more difficult. In addition, your account information is accessible online only through the use of a password. Please be aware, however, that despite our efforts, no security measures are perfect or impenetrable. To protect the confidentiality of personal information, you must keep your password confidential and not disclose it to any other person. You are responsible for all uses of the Site by any person using your password. Please advise us immediately if you believe your password has been misused. If you have any questions about our security practices, feel free to email us at [privacy@rentjuice.com](mailto:privacy@rentjuice.com?subject=Privacy%20Policy).
+**Third-party ad servers and ad networks.** Use of these technologies by third-party ad servers is subject to their own privacy policies and is not covered by our privacy policy. [Learn more](http://www.networkadvertising.org/) about Zillow Ad Providers participating in the Network Advertising Initiative, and the choices you have about these technologies (such as opting-out). Click here to see a list of such services with links to their Web sites. The Network Advertising Initiative offers some centralized opt-out tools; otherwise you must visit each provider's Web site individually and opt out.
 
-## LINKS TO THIRD PARTY WEBSITES
+ **Zillow marketing service provider.** If you do not want Zillow and its marketing service provider to follow your usage of our services via cookies and Web beacons, you can opt-out of the Web site analysis tools. 
 
-The Site and various advertisements hosted by us, if any, may contain links to Web sites that are not operated by us. These links are provided for your reference and convenience only and do not imply any endorsement of the activities of these third party Web sites nor any association with their operators. We do not control, and this Policy does not apply to, these Web sites, and we are not responsible for such Web sites or their content or data practices. We urge you to review the privacy policy and security practices posted on any Web sites you visit before using the Web sites or providing any personal information about yourself.
+Opting out of these services does not mean you will no longer receive online advertising. It does mean that the service from which you opted out will no longer deliver ads tailored to your Web preferences and usage patterns.
 
-## THIS PRIVACY POLICY MAY CHANGE
+### Location Data
 
-We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made by indicating on the Policy the date it was last updated. We encourage you to review this Policy from time to time to make sure that you understand how any personal information you provide will be used. Your use of the Site following any such change constitutes your agreement to any such changes.
+Zillow can provide you with helpful information based on where you are. If you tell Zillow where you are (eg., by allowing your mobile device to send Zillow your location), Zillow may use that information to provide you with location-based information and advertising. If you wish to deactivate this feature, you can disable location services on your mobile device.
 
-You may access the current version of this Privacy Policy at any time by clicking on the link marked "Privacy Policy" at the bottom of the homepage of the Site.
+### Windows Live® Virtual Earth®
 
-## CONTACTING US
+Windows Live Virtual Earth imagery is supplied by Microsoft Corporation, and use is subject to the [Microsoft MapPoint Privacy Statement.](http://www.microsoft.com/mappoint/webservice/privacy.mspx)
 
-If you have any questions or suggestions regarding the Privacy Policy, please email us at [privacy@rentjuice.com](mailto:privacy@rentjuice.com?subject=Privacy%20Policy) or send us a note to the address below.
+### Third-Party Web Sites
 
-RentJuice Corporation   
-130 Battery St, 6th Floor   
-San Francisco, CA 94111 
+Throughout the services, we may link to the Web sites of other companies and/or individuals. Further, certain functionalities on Zillow may involve the distribution of your listing information to third-party Web Sites. These third-party Web sites may collect personal information about users on those Web sites, and Zillow's privacy policy does not extend to these external Web sites and third parties. Please refer directly to these third parties and Web sites regarding their privacy policies.
+
+### Diverse Solutions Web site
+
+You may access all of your personally identifiable information collected through the Diverse Solutions Web site by emailing us at info@diversesolutions.com. You may also correct factual errors in your personally identifiable information by sending a request to info@diversesolutions.com, demonstrating the error. To protect your privacy and security, we will take reasonable steps to verify your identity prior to granting access or making corrections.
+
+### Zillow Rentals Web site
+
+You understand that when you join Zillow Rentals, you will be added to the Zillow Rentals Directory, which is available to all Zillow Rentals users and which may be made publicly available. The directory information may include certain personal information you provide to us, such as your name, email and other contact information, unless you opt out of including such information in your directory listing by editing the settings in your Zillow Rentals account.
+
+### Children Under the Age of 13
+
+Zillow will not knowingly collect personally identifiable information from any person under the age of 13. Our services are not designed to attract the attention of persons under the age of 13.
+
+### Storage and Security of Information
+
+Personal information will be processed and stored by Zillow in databases hosted in the United States. Zillow has taken reasonable steps to protect the information users share with us, including, but not limited to, setup of processes, equipment and software to avoid unauthorized access or disclosure of this information.
+
+### Contacting Zillow
+
+If you have any questions about this privacy statement, or the privacy practices of Zillow, please e-mail us at [privacy@zillow.com](mailto:privacy@zillow.com). 
+
+Please note that this policy may be amended from time to time. You should check back for the most current version before relying on any of the provisions in this privacy policy. 
+
+_— Updated October 2012_
