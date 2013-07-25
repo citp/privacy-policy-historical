@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aent.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619044852id_/http%3A//aent.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aent.com privacy policy that was archived on 2013-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130725160354id_/http%3A//www.aent.com/Privacy.htm) for the most accurate reproduction.*
 
 # Alliance | About Us
 
