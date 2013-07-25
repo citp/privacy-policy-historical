@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accessdomain.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601221610id_/http%3A//accessdomain.com/company/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accessdomain.com privacy policy that was archived on 2013-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130725073127id_/http%3A//accessdomain.com/company/legal/privacy.php) for the most accurate reproduction.*
 
 # (mt) Media Temple - Company - Legal - Privacy Policy
 
