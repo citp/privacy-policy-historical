@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackhatuniversity.com privacy policy that was archived on 2012-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120101221550id_/http%3A//blackhatuniversity.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackhatuniversity.com privacy policy that was archived on 2013-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130725125219id_/http%3A//blackhatuniversity.com/privacy.htm) for the most accurate reproduction.*
 
 # Terms and Conditions
 
