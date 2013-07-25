@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 4savefile.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011063532id_/http%3A//4savefile.com/pages/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4savefile.com privacy policy that was archived on 2013-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130725060710id_/http%3A//4savefile.com/pages/privacy-policy.html) for the most accurate reproduction.*
 
-# 4SaveFile - Cara mudah untuk membagi file anda
+# 4SaveFile - Online Storage, Online Backup, Cloud Storage
 
 ## 4SaveFile Website Privacy Policy
 
