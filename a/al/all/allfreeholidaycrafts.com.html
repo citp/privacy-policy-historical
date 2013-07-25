@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the allfreeholidaycrafts.com privacy policy that was archived on 2013-05-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130503004643id_/http%3A//www.allfreeholidaycrafts.com/index.php/hct/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the allfreeholidaycrafts.com privacy policy that was archived on 2013-07-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130726003144id_/http%3A//www.allfreeholidaycrafts.com/index.php/hct/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://ogp.me/ns/fb#"><head>
 
@@ -37,7 +37,7 @@
 	
 	
 	<!-- START Bing verification -->
-						<meta name="msvalidate.01" content="2B5463FF31402EED99DC5D397C18CA3E">
+						<meta name="msvalidate.01" content="CF33266DDC4229951386F3A5B3266E55">
 						
 		<!-- END Bing verification -->
 	
@@ -49,24 +49,24 @@
 	<!--<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>-->
 	<!--<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js"></script>-->
 	<!--<script type="text/javascript" src="/javascript/jquery-1.5.min.js"></script>-->
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery-1.5.2.min.js?v=3"></script>
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery-1.5.2.min.js?v=8"></script>
 	
 	<!-- start jquery ui -->
 	<!-- this was installed to get the autocomplete feature, contains: Core, Widget, Position, Autocomplete -->
-	<script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery-ui-1.8.12.custom/js/jquery-ui-1.8.12.custom.min.js?v=3"></script>
-	<link rel="stylesheet" type="text/css" href="/javascript/jquery-ui-1.8.12.custom/css/ui-lightness/jquery-ui-1.8.12.custom.css?v=3" media="screen">
+	<script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery-ui-1.8.12.custom/js/jquery-ui-1.8.12.custom.min.js?v=7"></script>
+	<link rel="stylesheet" type="text/css" href="/javascript/jquery-ui-1.8.12.custom/css/ui-lightness/jquery-ui-1.8.12.custom.css?v=7" media="screen">
 	<!-- end jquery ui -->
 	
 	
 	<!-- jQuery Tools Library (Tabs, Tooltip, Scrollable, Overlay, Expose. No jQuery) --> 
 	<!--<script src="http://cdn.jquerytools.org/1.1.0/tiny/jquery.tools.min.js"></script>-->
-		<script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery.tools.min_v1.1.0.js?v=3"></script>
+		<script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery.tools.min_v1.1.0.js?v=7"></script>
 	
 	
 
-	<script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery.form.js?v=3"></script>
+	<script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery.form.js?v=7"></script>
 	
-	<script type="text/javascript" src="http://cf2.primecp.com/javascript/site_functions.js?v=3"></script>
+	<script type="text/javascript" src="http://cf2.primecp.com/javascript/site_functions.js?v=7"></script>
 	
 	
 	
@@ -90,7 +90,7 @@
 		
 			$(document).ready(
 				function() {
-					//alert('getJavascript_topSocialLinks ready line: 10693');
+					//alert('getJavascript_topSocialLinks ready line: 10085');
 					
 					$('#topSocialLinkMenu .socialButtonTable').show();
 					
@@ -150,7 +150,7 @@
 			
 			$(document).ready(
 				function() {
-					//alert('getJavascript_loginDhtmlContent ready - line: 15929');
+					//alert('getJavascript_loginDhtmlContent ready - line: 15610');
 					/**
 					 *set click handler for all the close boxes in the dhtml
 					 */
@@ -325,6 +325,10 @@
 									if(json.success == 1){
 										//alert('success');
 										feedback_div = 'We sent your password to ' + json.email;
+									}else if(json.is_banned == 1){
+										feedback_div = 'We could not send the password for your account.<br />';
+										feedback_div += '<a href="/index.php/hct/contact_us_page">Please click here to contact customer support.</a>';
+										
 									}else{
 										feedback_div = 'We could not find an account for your email.';
 									}
@@ -495,7 +499,7 @@ var signup_redirect_qry_params = new Array();
 signup_redirect_qry_params['email'] = false;
 
 
-var signup_redirect_url = 'https://www.clear-request.com/oi/display?PID=19222377&EM=[email]&URL=http://www.allfreeholidaycrafts.com/index.php/hct/Latest-Free-Holiday-eBooks';
+var signup_redirect_url = 'http://www.pdapi.com/cs/JSI/v1/prime/?pub=15&email=[email]&ExitURL=http://www.allfreeholidaycrafts.com';
 
 	var nscID = 53;
 	
@@ -1668,18 +1672,18 @@ function triggerWiderFunnel(){
 	
 	
 			<!-- get css for the email signup creative -->
-		<link rel="stylesheet" href="/site_templates/signup_creative/css/nscID_53.css?v=3" type="text/css" media="screen">	
+		<link rel="stylesheet" href="/site_templates/signup_creative/css/nscID_53.css?v=7" type="text/css" media="screen">	
 			
 	
 	
-	<link type="text/css" rel="stylesheet" href="/css/jquery.rating.css?v=3" media="screen">
+	<link type="text/css" rel="stylesheet" href="/css/jquery.rating.css?v=7" media="screen">
 	
 	<!--
 	start css
 	-->
-	<link rel="stylesheet" href="/site_templates/0003/css/main_styles.css?v=3" type="text/css" media="screen">
+	<link rel="stylesheet" href="/site_templates/0003/css/main_styles.css?v=7" type="text/css" media="screen">
 	
-	<link rel="stylesheet" href="/site_templates/0003/css/print_styles.css?v=3" type="text/css" media="print">
+	<link rel="stylesheet" href="/site_templates/0003/css/print_styles.css?v=7" type="text/css" media="print">
 	
 	
 	
@@ -1700,7 +1704,7 @@ function triggerWiderFunnel(){
 
 			window.fbAsyncInit = function() {
 			
-				//console.log('call to window.fbAsyncInit line 15759');
+				//console.log('call to window.fbAsyncInit line 15440');
 			
 				FB.init({
 					appId      : '396109773746900', // App ID Favecrafts
@@ -1852,6 +1856,57 @@ function triggerWiderFunnel(){
 			
 		</script>
 		<!-- END Facebook Javascript SDK js -->
+				<!-- START event tracking - related articles js -->
+		<script type="text/javascript">
+			
+			var eventTracking_outboundLinks = {};
+			eventTracking_outboundLinks.link_class = 'outboundLink';
+			
+			$(document).ready(
+				function() {
+		
+					//alert('getJavascript_eventTracking_outboundLinks ready');
+					//console.log('getJavascript_eventTracking_outboundLinks ready');
+					
+					eventTracking_outboundLinks.initEventTracking();
+					
+					
+				} // end main func
+			); // end ready;
+			
+			
+			eventTracking_outboundLinks.initEventTracking = function(){
+				//console.log('eventTracking_outboundLinks.initEventTracking');
+				
+				$('a.'+ eventTracking_outboundLinks.link_class).click(
+					function(){
+						var link_url = $(this).attr('href');
+						//console.log('link_url: ' + link_url);
+						
+						var page_title_obj = $('head title')[0];
+						//console.log( $(page_title_obj).html() );
+						
+						_gaq.push(
+							[
+								'_trackEvent', 
+								'Click', 
+								'OutboundExternal', 
+								$(page_title_obj).html(),
+								, 
+								false
+							]
+						);
+						
+						
+						//return false;
+					}
+				);
+				
+			}
+			
+			
+		</script>
+		<!-- END event tracking - related articles js -->
 			
 				
 		
@@ -1859,7 +1914,6 @@ function triggerWiderFunnel(){
 <body id="site45" itemscope="" itemtype="http://schema.org/Article">
 
 <div id="fb-root"></div>
-
 
 
 
@@ -1943,7 +1997,7 @@ function triggerWiderFunnel(){
 			<table id="logoTable" border="0">
 				<tbody><tr>
 					<td>
-								<a id="headerLogo" href="/"><img src="http://cf2.primecp.com/site_templates/0003/images/site_logo_internal_sID45.gif?v=3" alt="AllFreeHolidayCrafts.com"></a>
+								<a id="headerLogo" href="/"><img src="http://cf2.primecp.com/site_templates/0003/images/site_logo_internal_sID45.gif?v=7" alt="AllFreeHolidayCrafts.com"></a>
 			<div id="thisPageLinks" class="internal" style="margin-top: 10px;"><a class="firstLink" href="/site-map">Site Map</a><a href="/rss-feed">RSS</a><!--<a href="javascript: alert('Coming Soon');">Shop</a>--><a href="" class="lastLink" onclick="return bookmark('http://www.allfreeholidaycrafts.com/index.php/hct/privacy_policy','');">Bookmark</a><!--<a id="emailPageLink" class="lastLink" href="#">Email This Page</a>--></div>
 						</td>
 					<td class="" style="text-align: right; padding: 5px 5px 0 0; width: 735px;">
@@ -1962,10 +2016,10 @@ function triggerWiderFunnel(){
 					<table id="headerMenu45">
 						<tbody><tr>
 															<td class="firstTD">
-									<a href="http://www.favecraftsblog.com">Blog  </a>
+									<a href="http://www.allfreeholidaycrafts.com/Summer-Ideas">Summer Ideas</a>
 								</td>
 																<td class="">
-									<a href="http://www.allfreeholidaycrafts.com/Mothers-Day-Crafts">Mother's Day Crafts</a>
+									<a href="http://www.favecraftsblog.com">Blog  </a>
 								</td>
 																<td class="">
 									<a href="http://www.allfreeholidaycrafts.com/index.php/hct/Reviews-and-Giveaways">Giveaways &amp; Reviews</a>
@@ -1974,10 +2028,10 @@ function triggerWiderFunnel(){
 									<a href="http://www.allfreeholidaycrafts.com/index.php/hct/Latest-Free-Holiday-eBooks">Latest Holiday eBooks</a>
 								</td>
 																<td class="">
-									<a href="http://www.allfreeholidaycrafts.com/Spring-Crafts">Spring Crafts</a>
+									<a href="http://www.allfreeholidaycrafts.com/Christmas-Ideas">Christmas in July</a>
 								</td>
 																<td class="">
-									<a href="http://www.allfreeholidaycrafts.com/Fathers-Day-Crafts">Father's Day Crafts</a>
+									<a href="http://www.allfreeholidaycrafts.com/Party-Ideas">Party Ideas</a>
 								</td>
 																<td class="">
 									<a href="http://www.cutratecrafts.com/">Holiday Craft Store</a>
@@ -2022,60 +2076,84 @@ function triggerWiderFunnel(){
 			<h3>Categories</h3>
 					
 					<ul>
-									<li class=""><a class="" href="/Birthday-Craft-Projects">Birthday Craft Projects</a>
-											</li>
-										<li class=""><a class="" href="/Christmas-Craft-Projects">Christmas Craft Projects</a>
-											</li>
-										<li class=""><a class="" href="/Cinco-de-Mayo-Crafts">Cinco de Mayo Crafts</a>
-											</li>
+									<li class=""><a class="" href="/Birthday-Party-Ideas">Birthday Party Ideas</a>
+											<!-- </a> -->
+										</li>
+										<li class=""><a class="" href="/Christmas-Ideas">Christmas Ideas</a>
+											<!-- </a> -->
+										</li>
+										<li class=""><a class="" href="/Cinco-de-Mayo-Ideas">Cinco de Mayo Ideas</a>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Craft-Company-Profiles">Craft Company Profiles</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Craft-Designer-Profiles">Craft Designer Profiles</a>
-											</li>
-										<li class=""><a class="" href="/Holiday-Craft-Reviews">Craft Reviews</a>
-											</li>
-										<li class=""><a class="" href="/Earth-Day-Projects">Earth Day Projects</a>
-											</li>
-										<li class=""><a class="" href="/Easter-Crafts">Easter Crafts</a>
-											</li>
+											<!-- </a> -->
+										</li>
+										<li class=""><a class="" href="/Earth-Day-Ideas">Earth Day Ideas</a>
+											<!-- </a> -->
+										</li>
+										<li class=""><a class="" href="/Easter-Ideas">Easter Ideas</a>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Editors-Holiday-Craft-Picks">Editor's Holiday Craft Picks</a>
-											</li>
-										<li class=""><a class="" href="/Fall-Crafts">Fall Crafts</a>
-											</li>
-										<li class=""><a class="" href="/Fathers-Day-Crafts">Father's Day Crafts</a>
-											</li>
-										<li class=""><a class="" href="/Halloween-Craft-Ideas">Halloween Craft Ideas</a>
-											</li>
-										<li class=""><a class="" href="/Jewish-Holiday-Crafts">Jewish Holiday Crafts</a>
-											</li>
-										<li class=""><a class="" href="/Kwanzaa-Crafts">Kwanzaa Crafts</a>
-											</li>
-										<li class=""><a class="" href="/Mothers-Day-Crafts">Mother's Day Crafts</a>
-											</li>
-										<li class=""><a class="" href="/New-Years-Crafts">New Year's Crafts</a>
-											</li>
-										<li class=""><a class="" href="/Party-Craft-Ideas">Party Craft Ideas</a>
-											</li>
-										<li class=""><a class="" href="/Patriotic-Holiday-Crafts">Patriotic Holiday Crafts</a>
-											</li>
+											<!-- </a> -->
+										</li>
+										<li class=""><a class="" href="/Fall-Ideas">Fall Ideas</a>
+											<!-- </a> -->
+										</li>
+										<li class=""><a class="" href="/Fathers-Day-Ideas">Father's Day Ideas</a>
+											<!-- </a> -->
+										</li>
+										<li class=""><a class="" href="/Halloween-Ideas">Halloween Ideas</a>
+											<!-- </a> -->
+										</li>
+										<li class=""><a class="" href="/Jewish-Holiday-Ideas">Jewish Holiday Ideas</a>
+											<!-- </a> -->
+										</li>
+										<li class=""><a class="" href="/Kwanzaa-Projects">Kwanzaa Projects</a>
+											<!-- </a> -->
+										</li>
+										<li class=""><a class="" href="/Mothers-Day-Ideas">Mother's Day Ideas</a>
+											<!-- </a> -->
+										</li>
+										<li class=""><a class="" href="/New-Years-Ideas">New Year's Ideas</a>
+											<!-- </a> -->
+										</li>
+										<li class=""><a class="" href="/Party-Ideas">Party Ideas</a>
+											<!-- </a> -->
+										</li>
+										<li class=""><a class="" href="/Patriotic-Holiday-Ideas">Patriotic Holiday Ideas</a>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Reviews">Reviews</a>
-											</li>
-										<li class=""><a class="" href="/Spring-Crafts">Spring Crafts</a>
-											</li>
-										<li class=""><a class="" href="/St-Patricks-Day-Crafts">St. Patrick's Day Crafts</a>
-											</li>
-										<li class=""><a class="" href="/Summer-Crafts">Summer Crafts</a>
-											</li>
-										<li class=""><a class="" href="/Thanksgiving-Crafts">Thanksgiving Crafts</a>
-											</li>
+											<!-- </a> -->
+										</li>
+										<li class=""><a class="" href="/Spring-Ideas">Spring Ideas</a>
+											<!-- </a> -->
+										</li>
+										<li class=""><a class="" href="/St-Patricks-Day-Ideas">St. Patrick's Day Ideas</a>
+											<!-- </a> -->
+										</li>
+										<li class=""><a class="" href="/Summer-Ideas">Summer Ideas</a>
+											<!-- </a> -->
+										</li>
+										<li class=""><a class="" href="/Thanksgiving-Ideas">Thanksgiving Ideas</a>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Top-Holiday-Projects-of-the-Month">Top Holiday Projects of the Month</a>
-											</li>
-										<li class=""><a class="" href="/Valentines-Day-Crafts">Valentine's Day Crafts</a>
-											</li>
-										<li class=""><a class="" href="/Wedding-Craft-Ideas">Wedding Craft Ideas</a>
-											</li>
-										<li class=""><a class="" href="/Winter-Crafts">Winter Crafts</a>
-											</li>
+											<!-- </a> -->
+										</li>
+										<li class=""><a class="" href="/Valentines-Day-Ideas">Valentine's Day Ideas</a>
+											<!-- </a> -->
+										</li>
+										<li class=""><a class="" href="/Wedding-Ideas">Wedding Ideas</a>
+											<!-- </a> -->
+										</li>
+										<li class=""><a class="" href="/Winter-Ideas">Winter Ideas</a>
+											<!-- </a> -->
+										</li>
 									
 			</ul>	
 					</div><!-- end mainMenuDiv -->
@@ -2251,15 +2329,14 @@ function triggerWiderFunnel(){
 				</td><!-- end col2 -->
 				<td id="col3">
 												<div style="margin: 0 0 10px 0;">
-											
-		<div id="newsletterSignUpDivSiteID45">
-			<h3>Newsletter Signup</h3>
+										<div class="newsletterSignUpDiv" id="newsletterSignUpDivSiteID45">
+						<h3>Newsletter Signup</h3>
 			
 			<div id="newsletterSignUpDiv2">
 		
 				<form id="newsletterSignUpForm" class="contentBoxPadding" action="/newsletter_signup.php" method="post">
 					<input type="hidden" name="task" value="signup">
-					<input type="hidden" name="PHPSESSID" value="g6fcmk1lga3qvmeg7716loltf0">
+					<input type="hidden" name="PHPSESSID" value="kdiagj9n61katq0hmr2tco80t2">
 					
 					<img style="float: right; margin: 0 0 5px 5px;" src="http://cf2.primecp.com/site_templates/0003/images/newsletter_signup_bg_sID45.png" alt="">
 					
@@ -2294,16 +2371,16 @@ function triggerWiderFunnel(){
 				<div class="contentBoxPadding">
 										<h4></h4>
 								<ol>
-									 <li><a href="/DIY-Christmas-Decorations/Fabulous-Wreath-from-Toilet-Paper-Rolls/ct/1">Fabulous Wreath from Toilet Paper Rolls</a></li>
-					 					 <li><a href="/Mothers-Day-Crafts/Mothers-Day-Crafts-9-Gift-Ideas-and-Crafts-for-Mothers-Day-eBook/ct/1">"Mother's Day Crafts: 9 Gift Ideas and Crafts for Mother's Day" eBook</a></li>
-					 					 <li><a href="/Earth-Day-Projects/Toilet-Paper-Roll-Wall-Art/ct/1">Toilet Paper Roll Wall Art</a></li>
-					 					 <li><a href="/Spring-Decorations/Inspiring-Spring-Mason-Jar-Lanterns/ct/1">Inspiring Spring Mason Jar Lanterns</a></li>
-					 					 <li><a href="/Spring-Decorations/Whimsical-Wire-Spring-Wreath/ct/1">Whimsical Wire Spring Wreath</a></li>
-					 					 <li><a href="/Spring-Decorations/Fab-Flower-Tote/ct/1">Fab Flower Tote</a></li>
-					 					 <li><a href="/Spring-Crafts/Simple-Decorated-Clothespins/ct/1">Simple Decorated Clothespins</a></li>
-					 					 <li><a href="/Easy-Christmas-Kids-Crafts/Toilet-Paper-Roll-Star-Ornaments/ct/1">Toilet Paper Roll Star Ornaments</a></li>
-					 					 <li><a href="/Spring-Crafts/Greeting-Card-Binder/ct/1">Greeting Card Binder</a></li>
-					 					 <li><a href="/Wearbale-Summer-Crafts/Very-Simple-Beach-Cover-up/ct/1">Very Simple Beach Cover-up</a></li>
+									 <li><a href="/Fall-Decorations/Farmer-Chic-Flannel-Pumpkins/ct/1">Farmer Chic Flannel Pumpkins</a></li>
+					 					 <li><a href="/Wearable-Fall-Crafts/Cute-Acorn-Knot-Hat/ct/1">Cute Acorn Knot Hat</a></li>
+					 					 <li><a href="/Fall-Decorations/DIY-Fall-PlaceMats/ct/1">DIY Fall Place Mats</a></li>
+					 					 <li><a href="/Fall-Decorations/Ruffled-Leaf-Pattern-Table-Runner/ct/1">Ruffled Leaf Pattern Table Runner</a></li>
+					 					 <li><a href="/Summer-Ideas/Beach-Seashell-Wreath/ct/1">Beach Seashell Wreath</a></li>
+					 					 <li><a href="/Fall-Decorations/SlouchySweaterPumpkins/ct/1">Slouchy Sweater Pumpkins</a></li>
+					 					 <li><a href="/Valentines-Day-Decorations/Ruffles-of-Romance-Wreath/ct/1">Ruffles of Romance Wreath</a></li>
+					 					 <li><a href="/Fall-Decorations/Beginner-Fabric-Pumpkin-Tutorial/ct/1">Beginner Fabric Pumpkin Tutorial</a></li>
+					 					 <li><a href="/Fall-Decorations/Rustic-Burlap-Table-Runner/ct/1">Rustic Burlap Table Runner</a></li>
+					 					 <li><a href="/Wearbale-Summer-Crafts/The-Knot-So-Hard-Flip-Flop-DIY/ct/1">The Knot So Hard Flip Flop DIY</a></li>
 					 			</ol>
 							</div>
 				
@@ -2362,9 +2439,10 @@ function triggerWiderFunnel(){
 							<div class="list">
 				<ul>
 											<li><a href="http://www.allfreeholidaycrafts.com/Spring-Crafts/10-Free-Flower-Tutorials-How-to-Make-Fabric-Flowers-Flowers-from-Paper-and-More-eBook">10 Free Flower Tutorials: How to Make Fabric Flowers, Flowers from Paper, and More</a></li>
+												<li><a href="http://www.allfreeholidaycrafts.com/Fathers-Day-Crafts/Fathers-Day-Crafts-Handmade-Fathers-Day-Gifts-and-Crafts-for-Fathers-Day-eBook">Fathers Day Crafts: 9 Handmade Fathers Day Gifts and Crafts for Fathers Day</a></li>
 												<li><a href="http://www.allfreeholidaycrafts.com/Editors-Picks/Handmade-Wreaths-for-All-Seasons-14-Wreath-Tutorials-eBook">Handmade Wreaths for All Seasons: 14 Wreath Tutorials</a></li>
 												<li><a href="http://www.allfreeholidaycrafts.com/Birthday-Craft-Projects/Happy-Birthday-to-You-Handmade-Birthday-Cards-Birthday-Crafts-and-Birthday-Activities-eBook">Happy Birthday to You: 8 Handmade Birthday Cards, Birthday Crafts, and Birthday</a></li>
-												<li><a href="http://www.allfreeholidaycrafts.com/Mothers-Day-Crafts/Mothers-Day-Crafts-9-Gift-Ideas-and-Crafts-for-Mothers-Day-eBook">Mother's Day Crafts: 9 Gift Ideas and Crafts for Mother's Day</a></li>
+												<li><a href="http://www.allfreeholidaycrafts.com/Fourth-of-July-Crafts/How-to-Make-July-4th-Decorations-8-Patriotic-Craft-Tutorials-eBook">How to Make July 4th Decorations: 8 Patriotic Craft Tutorials</a></li>
 										</ul>
 			</div>
 		</div><!-- end eBooksRightCol -->
@@ -2642,8 +2720,8 @@ function triggerWiderFunnel(){
 
 	
 
-		<div id="viewportGreyout"></div>
-		
+<div id="viewportGreyout"></div>
+
 
 
 	
@@ -2868,8 +2946,7 @@ function triggerWiderFunnel(){
 			</div><!-- end newsletterSignUpDivAnime -->
 
 				<!-- END NL signup div -->
-			
-		
+	
 		
 		<!-- START Vibrant code -->
 						<!-- start Vibrant Media IntelliTXT script section -->
@@ -2877,8 +2954,8 @@ function triggerWiderFunnel(){
 				<!-- end Vibrant Media IntelliTXT script section -->
 						
 		<!-- END Vibrant code -->
-		
-		
+
+
 				
 		
 		<!-- START Google Remarketing code -->
@@ -2886,20 +2963,34 @@ function triggerWiderFunnel(){
 		<!-- END Google Remarketing code -->
 		
 		
-		
-		<!-- START datonics.com -->
-				<!-- END datonics.com -->
-		
-		<!-- START swoop -->
-				<!-- END swoop -->
+				
+				
 
-
-
+					
+			<!-- START comScore Tag -->
+						<!-- END comScore Tag -->
+			
+			<!-- START crazy egg Tag -->
+						<!-- END crazy egg Tag -->
+			
+			<!-- START datonics.com -->
+							<script type="text/javascript" src="http://ads.pro-market.net/ads/scripts/site-132971.js"></script>
+							<!-- END datonics.com -->
+			
+			<!-- START swoop -->
+						<!-- END swoop -->
+					
 		
+		
+
 				
 		
 		
-		..		
+						<div id="multiLoginDiv"></div>
+				<!--
+				<iframe onload="multiSiteLoginCheck('not_logged_in');" src ="http://c.primecp.com/multi_site_login.php?task=not_logged_in&x=1374798705&sid=45&sessid=kdiagj9n61katq0hmr2tco80t2" width="80%" height="600"></iframe>
+				-->
+						
 		
 
 
