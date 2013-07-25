@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the delivery.net privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509154810id_/http%3A//www.acxiomdigital.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delivery.net privacy policy that was archived on 2013-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130725135543id_/http%3A//www.acxiomdigital.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy policy - Acxiom
 
@@ -124,6 +124,6 @@ If at any point we decide to use personally identifiable information in a manner
 
 In the event Acxiom is purchased, data collected on this site will be one of the transferred assets.
 
-[**Acxiom's P3P Privacy Summary**](https://web.archive.org/web/20130509154810id_/http%3A//www.acxiomdigital.com/p3p_privacy.asp) provides descriptions of information collection activities performed by Acxiom on behalf of our clients using our email marketing ASP products. The summary also addresses information collected on client websites by Acxiom on behalf of clients using Acxiom's web page-hosting services and/or website tracking and analysis service.
+[**Acxiom's P3P Privacy Summary**](https://web.archive.org/web/20130725135543id_/http%3A//www.acxiomdigital.com/p3p_privacy.asp) provides descriptions of information collection activities performed by Acxiom on behalf of our clients using our email marketing ASP products. The summary also addresses information collected on client websites by Acxiom on behalf of clients using Acxiom's web page-hosting services and/or website tracking and analysis service.
 
 Effective Date: October 7, 2009
