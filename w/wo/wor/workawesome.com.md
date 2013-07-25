@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workawesome.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424045547id_/http%3A//workawesome.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workawesome.com privacy policy that was archived on 2013-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130725110600id_/http%3A//workawesome.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Work Awesome
 
@@ -60,3 +60,7 @@ By using our site, you consent to our privacy policy.
 ### **Change to our Privacy Policy**
 
 If we decide to change our privacy policy, we will post those changes on this page.
+
+Popular search terms for this article:
+
+[PrivacyPolicy|WorkAwesome](http://workawesome.com/privacy/ "PrivacyPolicy|WorkAwesome")
