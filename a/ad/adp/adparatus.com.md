@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adparatus.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501062833id_/http%3A//www.adparatus.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adparatus.com privacy policy that was archived on 2013-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130725172025id_/http%3A//www.adparatus.com/privacy.php) for the most accurate reproduction.*
 
 # Adparatus :: Privacy Policy
 
