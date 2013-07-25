@@ -1,32 +1,8 @@
-> *The following text is extracted and transformed from the tolunaquick.com privacy policy that was archived on 2012-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120815232332id_/http%3A//www.tolunaquick.com/Content/us/polices/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tolunaquick.com privacy policy that was archived on 2013-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130725062917id_/https%3A//www.quicksurveys.com/Content/policies/privacy-policy.aspx) for the most accurate reproduction.*
 
 # TolunaQuick Online Survey Software Privacy Policy
 
-Privacy Statement
-
-Last updated: November 2, 2010
-
-  
 Toluna SAS has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and underlying practices have been reviewed by TRUSTe for compliance with [ TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organisations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacyna@toluna.com](mailto:privacyna@toluna.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
-
-Toluna adheres to the principles set forth in the Safe Harbour framework as established by the U.S. Department of Commerce regarding the collection, use, and retention of personally identifiable information provided to Toluna from the European Union.
-
-When you visit a website displaying the TRUSTe mark, you can expect to be notified of the following:
-
-What information this site gathers/tracks about you.  
-What this site does with the information it gathers/tracks.  
-With whom this site shares the information it gathers/tracks.  
-This site's opt-out policy.  
-This site's policy on correcting and updating personally identifiable information.  
-This site's policy on deleting or deactivating your name from it's database.  
-Notification of changes.  
-This site's policy regarding security.  
-This site's policy regarding business transfers.  
-This site's policy regarding links to third-party sites.  
-This site's policy regarding legal disclaimers.  
-This site's policy regarding children's privacy.
-
-If you have questions or concerns regarding this statement, you should first contact Privacy Officer at [privacyna@toluna.com](mailto:privacyna@toluna.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 Overall privacy
 
@@ -103,7 +79,7 @@ If you choose to end your membership with Toluna SAS or to require us to cease p
 
 Winners Policy and Privacy Guarantee
 
-Panel members and others who take our surveys are randomly selected to win prizes for participation in surveys, polls, and other promotions. All winners are notified by email of their winnings. Once we deposit winnings in accounts, panelists have the option to request that a check be mailed to them at any time. For more information, please visit our Terms and Conditions page. Cash and other prizes awarded to non-panel members will be awarded directly. Occasionally we ask a prize winner to grant us permission to post his/her name on the Winners page on the Toluna SAS website. We will never post a name on our Winners page without an individual's prior permission.
+Panel members and others who take our surveys are randomly selected to win prizes for participation in surveys, polls, and other promotions. All winners are notified by email of their winnings. Once we deposit winnings in accounts, panelists have the option to request that a check be mailed to them at any time. For more information, please visit our **Terms and Conditions** page. Cash and other prizes awarded to non-panel members will be awarded directly. Occasionally we ask a prize winner to grant us permission to post his/her name on the Winners page on the Toluna SAS website. We will never post a name on our Winners page without an individual's prior permission.
 
 Notification of Changes
 
@@ -113,16 +89,16 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 Security
 
-Toluna SAS takes strict measures to ensure every aspect of your information is kept secure. Access to all personal information is restricted and limited to few key personnel. Our website security is reviewed periodically and can only be accessed via a strict password policy. Toluna SAS will never ask you for private information such as your credit card or social security numbers as a part of our research. We may be required by law to ask for your social security number or other government-issued identifier to comply with reporting laws and regulations if you are the recipient of survey incentives. We use SSL encryption when collecting or transmitting sensitive information. Your profile information is highly confidential and will be used only by Toluna SAS to email you concerning our studies, newsletters, winner notifications, and incentive redemptions, or as otherwise provided for in this privacy policy.
-
+Toluna SAS takes strict measures to ensure every aspect of your information is kept secure. Access to all personal information is restricted and limited to few key personnel. Our website security is reviewed periodically and can only be accessed via a strict password policy. Toluna SAS will never ask you for private information such as your credit card or social security numbers as a part of our research. We may be required by law to ask for your social security number or other government-issued identifier to comply with reporting laws and regulations if you are the recipient of survey incentives. We use SSL encryption when collecting or transmitting sensitive information. Your profile information is highly confidential and will be used only by Toluna SAS to email you concerning our studies, newsletters, winner notifications, and incentive redemptions, or as otherwise provided for in this privacy policy.  
+  
 Business Transfers
 
 As we continue to develop our business, we might sell or buy additional assets. In such transactions, Toluna SAS's right to contact its panel members and the information you have voluntarily provided in your user profile would generally be one of the transferred business assets. Any sale or transfer of Toluna SAS or substantially all of its business assets, which included our panel, would be to an entity that agreed to comply with all of the material terms of our privacy policy.
 
 Links
 
-From time to time we may offer visitors the ability to voluntarily link to other sites. Toluna SAS does not review, and is not responsible for, the content or effect of the privacy policies of these sites.
-
+From time to time we may offer visitors the ability to voluntarily link to other sites. Toluna SAS does not review, and is not responsible for, the content or effect of the privacy policies of these sites.  
+  
 Legal Disclaimer
 
 We may disclose personal information when required by law or in the good-faith belief that such action is necessary to conform to the edicts of the law or to comply with a legal process served on our website.
