@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eastershow.com.au privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512225601id_/http%3A//www.eastershow.com.au/documents/Website_Privacy_Policy_and_Disclaimer_July_2012.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eastershow.com.au privacy policy that was archived on 2013-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130726015447id_/http%3A//www.eastershow.com.au/documents/Website_Privacy_Policy_and_Disclaimer_July_2012.pdf) for the most accurate reproduction.*
 
 # PRIVACY INFORMATION
 
