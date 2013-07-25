@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the playkids.com privacy policy that was archived on 2013-04-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130406195449id_/http%3A//www.playkids.com/terms_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the playkids.com privacy policy that was archived on 2013-07-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130725045050id_/http%3A//www.playkids.com/terms_privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -11,7 +11,7 @@
 <meta name="GOOGLEBOT" content="INDEX, FOLLOW">
 
 
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script src="//paypal.adtag.where.com/merchant.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js"></script>
 <link type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/themes/base/jquery-ui.css" rel="stylesheet">
 
@@ -29,7 +29,30 @@
     var PageText_843 = "Subtotal";
     var PageText_844 = "items in cart";
 </script>
+<script type="text/javascript" src="/a/j/volusion.js?6.37.5.173"></script>
+<script type="text/javascript">
+    (function ($) {
+        volusion.ready(function () {
+            if (volusion.cart.isObservingCount()) {
+                var ts = new Date().getTime();
 
+                $.getJSON('/ajaxcart.asp?cachebust=' + ts, function (data) {
+                    var quantityTotal = 0;
+                    $.each(data.Products, function (key, val) {
+                        if (val.IsProduct === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        } else if (val.IsAccessory === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        }
+                    });
+                    quantityTotal = quantityTotal || '0';
+                    volusion.cart.itemCount(quantityTotal);
+                });
+
+            }
+        });
+    } (jQuery));
+</script>
 
 
 <script type="text/javascript" src="/a/j/soft_add.js"></script>
@@ -42,7 +65,7 @@
 </script>
 
 <script type="text/javascript" src="/a/j/soft_add_mult.js"></script>
-<script type="text/javascript" src="/a/j/javascripts.js?6_5_currentBuild"></script>
+<script type="text/javascript" src="/a/j/javascripts.js?6_5_6.37.5.173"></script>
 
 <script type="text/javascript" src="/a/j/vcompare.js"></script>
 <link type="text/css" rel="stylesheet" href="/a/c/VCompare.css">
@@ -114,9 +137,6 @@ function mClk1(src, popup)
 </script>
 <ul>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
-	<a href="http://www.playkids.com/category_s/1960.htm" title="">Call Monday- Friday 10 to 5 EST 1-800-958-Kids (5437)</a>
-</li>
-<li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
 	<a href="/aboutus.asp" title="">About Us</a>
 </li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
@@ -127,6 +147,9 @@ function mClk1(src, popup)
 </li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
 	<a href="/help.asp" title="">Site Help / FAQ</a>
+</li>
+<li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
+	<a href="http://www.playkids.com/category_s/1960.htm" title="">Call Mon - Fri 10 to 5 EST 1-800-958-Kids (5437)</a>
 </li>
 </ul>
 </div>
@@ -214,7 +237,14 @@ function mClk2(src, popup)
         <!-- #################### CHOOSE LIST ITEM TREE EXPAND OR ROLLOVER COLORS POPOUT #################### -->
         <div id="display_menu_4" class="menu"></div>
        	     
-        <div id="display_promotions_999"><br><br><a href="https://www.safeshoppingnetwork.com/detail.cfm?lstid=9301" target="_blank">	<img alt="Swingset.com is tested for Safety" border="0" height="74" src="http://safeshoppingnetwork.com/images/Safetylogos/safety8.gif" width="121"></a><p></p><br><img src="/v/vspfiles/templates/190/images/logos/cc_logo1.gif" border="0"><br><br><img src="/v/vspfiles/templates/190/images/logos/paypal.gif" border="0"><br><style type="text/css">#volusion_ssl_seal { behavior: url(/a/iepngfix.htc); }</style><br><a href="javascript:void(0);" onclick="window.open('https://www.volusion.com/ssl.asp?url=www.tributewtc.com', 'VolusionSSL', 'top=10,left=10,menubar=0,resizable=0,scrollbars=0,width=467,height=467')"><img id="volusion_ssl_seal" src="/a/i/seal_volusion1.png" border="0" height="113" width="100"></a><br><a href="http://www.seflorida.bbb.org/BusinessReport.aspx?CompanyID=30001719"><img src="http://www.seflorida.bbb.org/images/clickratingsm.gif" width="135" height="52" border="0"></a><br><!-- (c) 2005, 2012. Authorize.Net is a registered trademark of CyberSource Corporation --> <div class="AuthorizeNetSeal"> <script type="text/javascript" language="javascript">var ANS_customer_id="9b3b95b8-925f-421c-ab30-a2305f1bf7a9";</script> <script type="text/javascript" language="javascript" src="//verify.authorize.net/anetseal/seal.js"></script> <a href="http://www.authorize.net/" id="AuthorizeNetText" target="_blank">Internet Payment Gateway</a> </div></div>
+        <div id="display_promotions_999"><a href="http://www.seflorida.bbb.org/BusinessReport.aspx?CompanyID=30001719"><img src="http://www.seflorida.bbb.org/images/clickratingsm.gif" width="135" height="52" border="0"></a><br><br>
+<script type="text/javascript" data-pp-pubid="11e172c243" data-pp-placementtype="120x240"> (function (d, t) {
+ "use strict";
+ var s = d.getElementsByTagName(t)[0], n = d.createElement(t);
+ n.src = "//paypal.adtag.where.com/merchant.js";
+ s.parentNode.insertBefore(n, s);
+ }(document, "script"));
+</script><br><img src="/v/vspfiles/templates/190/images/logos/cc_logo1.gif" border="0"><br><style type="text/css">#volusion_ssl_seal { behavior: url(/a/iepngfix.htc); }</style><br><a href="javascript:void(0);" onclick="window.open('https://www.volusion.com/ssl.asp?url=www.tributewtc.com', 'VolusionSSL', 'top=10,left=10,menubar=0,resizable=0,scrollbars=0,width=467,height=467')"><img id="volusion_ssl_seal" src="/a/i/seal_volusion1.png" border="0" height="113" width="100"></a><br></div>
         
 	</div>
 
