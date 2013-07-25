@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the danscomp.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530052413id_/http%3A//www.danscomp.com/serve/text/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the danscomp.com privacy policy that was archived on 2013-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130725044556id_/http%3A//www.danscomp.com/serve/text/privacy.htm) for the most accurate reproduction.*
 
 # Privacy at Danscomp
 
