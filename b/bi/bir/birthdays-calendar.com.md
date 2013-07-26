@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the birthdays-calendar.com privacy policy that was archived on 2012-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120308082134id_/http%3A//www.birthday-calendar.com/about/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birthdays-calendar.com privacy policy that was archived on 2013-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130726215217id_/http%3A//www.birthday-calendar.com/about/privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - member & reminder information never compromised
 
