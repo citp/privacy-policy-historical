@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashbootstrapmethod.com privacy policy that was archived on 2013-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130124065721id_/http%3A//cashbootstrapmethod.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashbootstrapmethod.com privacy policy that was archived on 2013-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130726122745id_/http%3A//bootstrapmethod.com/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -52,7 +52,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://cashbootstrapmethod.com/terms>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://bootstrapmethod.com/terms>
 
 **Your Consent**
 
@@ -68,7 +68,7 @@ This policy was last modified on 28th January 2011
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://cashbootstrapmethod.com
+http://bootstrapmethod.com
 
 PO Box 520  
 Los Belones, Murcia 30389  
