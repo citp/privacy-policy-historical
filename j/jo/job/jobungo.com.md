@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the jobungo.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526002241id_/http%3A//www.jobungo.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobungo.com privacy policy that was archived on 2013-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130726130348id_/http%3A//www.jobungo.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Jobungo.com
 
 **Updated April 5, 2011**
 
-Jobungo.com (“Jobungo”) takes your privacy very seriously and has created this Privacy Policy in order to disclose its use of consumer data collected about you. You may contact Jobungo at 1700 S. Grand Avenue, Suite 285, Santa Ana, CA 92705 or via our [contact form](https://web.archive.org/web/20130526002241id_/http%3A//www.jobungo.com/contact_us.php). 
+Jobungo.com (“Jobungo”) takes your privacy very seriously and has created this Privacy Policy in order to disclose its use of consumer data collected about you. You may contact Jobungo at 1700 S. Grand Avenue, Suite 285, Santa Ana, CA 92705 or via our [contact form](https://web.archive.org/web/20130726130348id_/http%3A//www.jobungo.com/contact_us.php). 
 
 By using the Jobungo website, or submitting information to us by other means, you are subjecting your information to the practices outlined in this Privacy Policy. This Privacy Policy covers Jobungo’s treatment of personal information that we collect when you are on Jobungo’s website and when you use Jobungo’s services. This policy does not apply to the practices of third parties that Jobungo does not own or control, including websites that we may link to, or to individuals that Jobungo does not employ or manage.
 
@@ -27,7 +27,7 @@ Jobungo may use your IP address to administer our site. Your IP address may also
 Through our use of Facebook products and services, including but not limited to Facebook Connect and Facebook Platform, we may receive personally identifiable information about you and your friends who are registered on Facebook (“Friend”). We may use this information to customize and improve the services that we provide to you. By visiting Jobungo, information that we receive from Facebook about you and your Friends may appear on our site. In addition, if a user visits our site and you are listed as a Friend of that user on Facebook, your information may also appear on our site. You can learn more [here](http://www.facebook.com/privacy/explanation.php).
 
 **Email Communications**  
-Jobungo respects your email preferences and will never provide your email address to a third party without your permission, except as may be prescribed elsewhere in this Privacy Policy. If you provide us your email address, Jobungo may email you job alerts, account notifications, news, offers, surveys, promotions, and other communications. If you do not want to receive particular types of email messages from Jobungo, follow the unsubscribe instructions contained in the email message to notify us of our preferences, or click [here.](https://web.archive.org/web/20130526002241id_/http%3A//www.jobungo.com/unsubscribe.php)
+Jobungo respects your email preferences and will never provide your email address to a third party without your permission, except as may be prescribed elsewhere in this Privacy Policy. If you provide us your email address, Jobungo may email you job alerts, account notifications, news, offers, surveys, promotions, and other communications. If you do not want to receive particular types of email messages from Jobungo, follow the unsubscribe instructions contained in the email message to notify us of our preferences, or click [here.](https://web.archive.org/web/20130726130348id_/http%3A//www.jobungo.com/unsubscribe.php)
 
 **Children’s Privacy**  
 Jobungo’s site is not intended for and may not be used by children under the age of 13. Jobungo is committed to protecting the privacy needs of children and we encourage parents and guardians to take an active role in their children’s online activities. Jobungo does not knowingly collect personally identifiable information from children under the age of 13, nor does Jobungo target its services or site to children under the age of 13. We recommend that minors between the ages of 13 and 17 ask and receive permission from their parent or guardian prior to using Jobungo or sending information about themselves or anyone else over the Internet.
@@ -48,7 +48,7 @@ If there is a change of control in Jobungo’s business (whether by merger, sale
 
 **Conditions of Use**  
 If you decide to use Jobungo’s site or services, your use and any possible dispute over privacy is subject to this Privacy Policy.  
-If you have questions about this Privacy Policy, you can [contact us.](https://web.archive.org/web/20130526002241id_/http%3A//www.jobungo.com/contact_us.php)
+If you have questions about this Privacy Policy, you can [contact us.](https://web.archive.org/web/20130726130348id_/http%3A//www.jobungo.com/contact_us.php)
 
 **Contact Information**  
 Jobungo  
