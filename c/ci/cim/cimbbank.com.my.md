@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cimbbank.com.my privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521210148id_/http%3A//www.cimbbank.com.my/index.php%3Fch%3Dgen_tool%26pg%3Dgen_tool_article%26ac%3D22%26tpt%3Dcimb_bank%26tpt%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cimbbank.com.my privacy policy that was archived on 2013-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130726143303id_/http%3A//www.cimbbank.com.my/index.php%3Fch%3Dgen_tool%26pg%3Dgen_tool_article%26ac%3D22%26tpt%3Dcimb_bank%26tpt%3D) for the most accurate reproduction.*
 
 # Welcome to CIMB
 
