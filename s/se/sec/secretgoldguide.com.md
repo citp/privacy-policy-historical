@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secretgoldguide.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626003026id_/http%3A//www.secretgoldguide.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secretgoldguide.com privacy policy that was archived on 2013-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130726192925id_/http%3A//www.secretgoldguide.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - www.secretgoldguide.com
 
