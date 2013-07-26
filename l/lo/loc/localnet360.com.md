@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localnet360.com privacy policy that was archived on 2013-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130402233657id_/http%3A//www.localnet360.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localnet360.com privacy policy that was archived on 2013-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130726184551id_/http%3A//www.localnet360.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
