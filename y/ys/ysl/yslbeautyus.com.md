@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yslbeautyus.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509172331id_/http%3A//www.yslbeautyus.com/Privacy-Policy/privacy_policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yslbeautyus.com privacy policy that was archived on 2013-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130726082141id_/http%3A//www.yslbeautyus.com/Privacy-Policy/privacy_policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy Policy | YSL Beauty US by Yves Saint Laurent – Official Online Store
 
