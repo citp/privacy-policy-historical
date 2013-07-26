@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bleacherreport.com privacy policy that was archived on 2013-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130416022856id_/http%3A//bleacherreport.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bleacherreport.com privacy policy that was archived on 2013-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130726141206id_/http%3A//bleacherreport.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
