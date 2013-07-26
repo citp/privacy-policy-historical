@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessprintingservices.com.au privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503104127id_/http%3A//www.businessprintingservices.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessprintingservices.com.au privacy policy that was archived on 2013-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130726231134id_/http%3A//www.businessprintingservices.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy | Business Printing Services
 
