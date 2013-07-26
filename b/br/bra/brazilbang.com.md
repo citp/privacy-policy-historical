@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brazilbang.com privacy policy that was archived on 2013-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130216004223id_/http%3A//www.occash.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brazilbang.com privacy policy that was archived on 2013-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130726194126id_/http%3A//www.occash.com/privacy-policy.html) for the most accurate reproduction.*
 
 # OC Cash Privacy Policy
 
