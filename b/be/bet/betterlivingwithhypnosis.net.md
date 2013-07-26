@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the betterlivingwithhypnosis.net privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430153700id_/http%3A//betterlivingwithhypnosis.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betterlivingwithhypnosis.net privacy policy that was archived on 2013-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130726020136id_/http%3A//betterlivingwithhypnosis.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 * * *
 
-[](http://hypnosis4u.paidforpic.hop.clickbank.net/?tid=netbanner)
+[](http://hypnosis4u.refluxgone.hop.clickbank.net/?tid=netbanner)
 
 * * *
 
