@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biginterview.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423132721id_/https%3A//privacy-policy.truste.com/verified-policy/biginterview.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biginterview.com privacy policy that was archived on 2013-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130726173356id_/https%3A//privacy-policy.truste.com/verified-policy/biginterview.com) for the most accurate reproduction.*
 
 # Privacy Policy for biginterview.com
 
