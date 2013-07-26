@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelandofhumor.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115122205id_/http%3A//thelandofhumor.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelandofhumor.com privacy policy that was archived on 2013-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130726044626id_/http%3A//www.thelandofhumor.com/policy.php) for the most accurate reproduction.*
 
 # The Land of Humor
 
