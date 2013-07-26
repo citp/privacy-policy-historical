@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 642weather.com privacy policy that was archived on 2013-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130127050303id_/http%3A//www.642weather.com/weather/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 642weather.com privacy policy that was archived on 2013-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130726052525id_/http%3A//www.642weather.com/weather/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy for Long Beach Weather
 
@@ -54,6 +54,6 @@ If you have any questions, complaints or suggestions (remember, we did say to be
 
 From the Long Beach Weather team, we thank you for using the site. Enjoy! 
 
-Comments, questions or problems? [ Contact Us](https://web.archive.org/web/20130127050303id_/http%3A//www.642weather.com/weather/contact_us.php)
+Comments, questions or problems? [ Contact Us](https://web.archive.org/web/20130726052525id_/http%3A//www.642weather.com/weather/contact_us.php)
 
 Webmaster last modified 29th May 2008
