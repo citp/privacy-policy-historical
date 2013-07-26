@@ -1,56 +1,15 @@
-> *The following text is extracted and transformed from the tigerleech.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519115341id_/http%3A//tigerleech.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigerleech.com privacy policy that was archived on 2013-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130726124053id_/http%3A//tigerleech.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy | TigerLeech Premium Link Generator Bitshare, Uploaded.Net, Rapidshare, Depositfiles etc. |
+# Premium Link Generator - TigerLeech
 
-This privacy policy may be changed at any time.
-
-Agreement relating to confidentiality. 
-
+|   
+* Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.  
+* We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes.  
+* We will only retain personal information as long as necessary for the fulfillment of those purposes.  
+* We will collect personal information by lawful and fair means and where appropriate, with the knowledge or consent of the individual concerned.  
+* We will protect personal information by reasonable security safeguards against loss or theft, unauthorized access, disclosure, copying, use or modification.  
+* We will make readily available to customers information about our policies and practices relating to the management of personal information.  
+  
+---  
   
 
-
-#### IP Addresses Recording
-
-Our servers can detect the IP Address of Users connection through the Internet. These IP addresses are recorded by our servers for internal use only (registration on the site, optimal use of downloads, etc.).
-
-  
-
-
-#### Email Addresses Recording
-
-Our server stores the email addresses of Users during registration for internal purposes only. Under no circumstances, we will rent, sell, or send personal data's to third parties.
-
-  
-
-
-#### Use of Cookies
-
-We use cookies for Users convenience by saving the connection to the site (thus avoiding unnecessary reconnections). We do not use tracking methods.
-
-  
-
-
-#### Payment Informations
-
-All payments made on our website are managed by outside firms. Payments are secure and encrypted, in any case these companies can not save Users banking information.
-
-  
-
-
-#### Exeptional Disclosure of Personal Data
-
-We may be required to disclose Users personal data in order to protect our legal rights or where disclosure of Users personal data's are required of us by the judicial authorities only when legal procedures are followed.
-
-  
-
-
-#### Advertisments
-
-The advertisements on our website are offered by other companies. They can use information about Users visits in order to target content which will potentially interest Users (Name, mailing address, etc. are excluded from these data). 
-
-  
-
-
-#### Datalogging
-
-Files links that Users download are not stored on our server. All the files are stream remotely by our server from the filehosting direct to users pc.
