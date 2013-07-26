@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backlinksninja.com privacy policy that was archived on 2013-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130305153751id_/http%3A//backlinksninja.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backlinksninja.com privacy policy that was archived on 2013-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130726115536id_/http%3A//www.backlinksninja.com/privacy.html) for the most accurate reproduction.*
 
 # Backlinks Ninja Privacy Policy
 
