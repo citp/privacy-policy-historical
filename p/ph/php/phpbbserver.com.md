@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phpbbserver.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513103954id_/http%3A//www.phpbbserver.com/forum-hosting-privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phpbbserver.com privacy policy that was archived on 2013-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130726135145id_/http%3A//www.phpbbserver.com/forum-hosting-privacy-statement.html) for the most accurate reproduction.*
 
 # phpBB Forum Hosting Privacy
 
