@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kaplanaspect.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504200024id_/http%3A//www.kaplaninternational.com/terms/index.aspx%23s6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaplanaspect.com privacy policy that was archived on 2013-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130727182332id_/http%3A//www.kaplaninternational.com/terms/index.aspx%23s6) for the most accurate reproduction.*
 
 # Terms & Conditions
 
@@ -179,7 +179,7 @@ Canada: A refund will be made less all nonrefundable service charges (airport tr
 
 ‘Cancellation’ means cancelling a course before the start date of the first course you are attending. Except as provided below for US, New Zealand and the UK, in all other cases where cancellations are made in writing 7 days or more before the arrival date listed on the booking confirmation form, or on written notification of a visa rejection and receipt of relevant supporting documentation, 100% of the tuition and accommodation fees will be refunded, but in all cases, the courier fee, accommodation placement fee (if utilised), enrolment fee (refundable in New Zealand) and any other service charges are nonrefundable. For cancellations and postponements made less than 7 days before the arrival date listed on the booking confirmation form including failure to show up, tuition and accommodation fees will be refunded less one week’s accommodation fee (two weeks’ accommodation fee for hostels and apartments in Australia) and a tuition fee of EUR150, USD200, CAD200, AUD240. In all cases, the courier fee, enrolment fee, accommodation placement fee, medical insurance and any other service charges are nonrefundable. In all cases where a visa or visa support documentation has been issued, the relevant immigration authorities will be informed. 
 
-US: ‘Cancellation’ refers to the period up to the start date of the first course you are attending. Cancellations must be made in writing and in these cases, providing the student never attends, 100% of the tuition and accommodation fees will be refunded, less any actual housing costs incurred; in all cases, the courier fee, accommodation placement fee (if utilized), enrolment fee and any other service charges (eg. Airport transfer fee, medical insurance, campus fee, programme supplement fee, etc) are non-refundable up to a maximum charge of USD $500. Cancellations made prior to the course start date but after arrival in the US on a Kaplan-issued Form I-20, will result in forfeiture of tuition, and any associated accommodation fees, equal to the first 4 weeks or courses between 1-11 weeks and the first 6 weeks for courses 12 weeks or longer. 
+US: ‘Cancellation’ refers to the period up to the start date of the first course you are attending. Cancellations must be made in writing and in these cases, providing the student never attends, 100% of the tuition and accommodation fees will be refunded, less any actual housing costs incurred; in all cases, the courier fee, accommodation placement fee (if utilized), enrolment fee and any other service charges (eg. Airport transfer fee, medical insurance, campus fee, programme supplement fee, etc) are non-refundable up to a maximum charge of USD $500 ($250 in California). Cancellations made prior to the course start date but after arrival in the US on a Kaplan-issued Form I-20, will result in forfeiture of tuition, and any associated accommodation fees, equal to the first 4 weeks or courses between 1-11 weeks and the first 6 weeks for courses 12 weeks or longer. 
 
 New Zealand: Tuition (in accordance with the NZQA and Kaplan refund policy): 
 
@@ -228,6 +228,8 @@ For all Test Preparation courses, including GRE®, GMAT®, CAE, FCE and TAE, ref
 \- after completing 3 training sessions*, no refund 
 
 *Due to the wide selection of Kaplan training resources offered, a training session is defined as any of the following: 1) one class (teaching session or proctored exam); 2) one visit to the in-centre training library; 3) use of online training resources (workshops, quizzes, online Diagnostic, etc); 4) one tutoring or consulting session; 5) use of the homestudy materials.
+
+Students in California will sign a California State Enrollment & Refund Agreement form. 
 
 New Zealand: The same conditions apply on termination as to cancellations. See cancellation policy above. 
 
