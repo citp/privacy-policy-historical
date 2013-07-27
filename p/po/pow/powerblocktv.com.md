@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerblocktv.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527081047id_/http%3A//www.powerblocktv.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerblocktv.com privacy policy that was archived on 2013-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130727125525id_/http%3A//www.powerblocktv.com/legal/privacy.html) for the most accurate reproduction.*
 
 # RTM PRIVACY POLICY
 
