@@ -1,25 +1,25 @@
-> *The following text is extracted and transformed from the softpile.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106014741id_/http%3A//www.softpile.com/docs/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softpile.com privacy policy that was archived on 2013-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130727035612id_/http%3A//www.softpile.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Softpile, Free Software Downloads
+# Privacy policy – Softpile
 
-Softpile Software respects the privacy of visitors to any Website owned and operated by the network. 
+Privacy policy
 
-When a visitor requests pages from Softpile Software site, our Web servers automatically recognize the browser's domain name, and IP address. Our server do not record e-mail addresses. We collect the domain names and IP addresses in order to aggregate information on the pages users access or visit. This information is collected solely for statistical purposes and is not used to identify individuals. 
+Softpile.com is serious to regard the privacy of Internet users, because our business success depends upon our ability to maintain the trust of our users.
 
-We do not use cookies on this site. But we use an outside ad company to display ads on our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites). 
+If you have any concern about our products or website's privacy policies, please click here to [contact us](mailto:user@softpile.com). We read every message submitted and try to reply to everyone promptly. We may also file your comments to improve the program and site, or review and discard the information.
 
-## DoubleClick DART cookies
+When does Softpile collect personally- identifiable information?   
+Softpile will collect your information if the information is licensed to us, for example new released software subscription comes for users, software submission come from authors or order come from customers. We won't collect any personally- identifiable information about you, such as your name, address, phone number or email address from this web site without your knowledge, and will take measures to protect your privacy.
 
-We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (”interest based targeting”). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses “non personally identifiable information”. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. 
+How does Softpile use the information?   
+Once you licensed us provide a new released software list to you, we could send information to you via email daily, weekly or other post time. And you could easily remove your email address from our mail list.
 
-You can opt-out of this ad serving on all sites using this advertising by visiting <http://www.doubleclick.com/privacy/dart_adserving.aspx>
+Once you submit some software to our download library, we could offer the products information and other available information to the users. Because of complaints about spamming, that email address is no longer included on our web pages and does not go out in New Upload Digests, etc. However we simply MUST have that email address anyway. It is because we will be forwarding messages, complaints, etc. from users and audience to that address.
 
-You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts. 
+And we may need to contact you about upload problems, etc. And you could easily remove your software and information from our library via email.
 
-Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added. 
+Once you purchase products from us, additional information will be needed to fill your order. Any information provided will NOT be sold or given to any third party(ies) by any means, and will only be used for sending the Registration Information and the Free upgrade to you via email. Besides, if you send email to us for requesting help, your email address will only be used to send replies to you.
 
-## Email-Newsletter List Privacy Policy
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies,http://www.networkadvertising.org/managing/opt_out.asp
 
-Softpile Software maintains a strict "no-spam" policy. If you sign up for our free newsletter, your e-mail address will "not" be sold or given to any third party. 
-
-If you have any questions or concerns, please [contact us](http://www.softpile.com/contact.html). 
+If you have any question or concern about this matter, please do not hesitate to [contact us](mailto:user@softpile.com).
