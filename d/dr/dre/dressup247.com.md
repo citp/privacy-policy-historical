@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dressup247.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611065340id_/http%3A//www.dressup247.com/cms/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dressup247.com privacy policy that was archived on 2013-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130727041631id_/http%3A//www.dressup247.com/cms/policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
