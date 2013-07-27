@@ -1,68 +1,104 @@
-> *The following text is extracted and transformed from the applebees.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510100828id_/http%3A//applebees.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applebees.com privacy policy that was archived on 2013-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130727175644id_/http%3A//www.applebees.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Applebee's - See You Tomorrow
 
-### Applebee's Services, Inc.
+### Applebee's Privacy Policy
 
-Effective Date: April 6, 2007
+Last Updated: June 5, 2013
 
-Applebee's International, Inc. (Applebee's) is committed to safeguarding your privacy; we take your privacy seriously. We will not sell, rent or otherwise distribute your personally identifiable information, which we receive through our website or from any other source, to third parties except as explained below. Please read the following policy to understand the care with which Applebee's will treat your information. This policy may change from time to time so please check back periodically.
+Applebee's International, Inc. is committed to safeguarding your privacy. We take your privacy seriously. This Privacy Policy (“ **Policy** ”) describes how Applebee's International, Inc. and its affiliates (“ **Applebee's** ,” “ **us** ,” “ **our** ,” and “ **we** ”) collect, use and disclose personal information of customers who use our services and websites, including [applebees.com](http://www.applebees.com/), our mobile websites, mobile applications, social networking or other interactive media sites, and other online or mobile services that link to this Policy (each, a “Site,” and collectively, the “Sites”). This Policy does not apply to third party websites and services.
 
-If you have concerns, comments or questions concerning this policy, please contact:
+**By using the Site, you agree to the terms of this Policy. If you do not agree with the terms of this Policy, do not use the Site.** Your access of the Site for the limited and exclusive purpose of reviewing this Privacy Notice does not constitute your acceptance of this Notice unless you make any further access or use of our Site.
 
-[privacydesk@applebees.com](mailto:privacydesk@applebees.com)
+Applebee's has operations in many international locations and partners with companies around the world. Applebee's offers many country specific websites; this site is intended for U.S. audiences only. If you are visiting this Site from outside of the U.S., communications with our Sites will necessarily result in the transfer of information across intern ational boundaries. If you are located in the European Economic Area (“EEA”), your data may be transferred from the EEA to countries, including the U.S., which do not have data protection laws comparable to those in the EEA. By visiting this Site and communicating electronically with us, you consent to your data being transferred to and processed by Applebee's and its partners and service providers in the U.S. and other counties outside of the EEA as set out in this Privacy Policy and subject to the laws of the U.S. Please do not use our Sites if it is illegal to do so in your country.
 
-Please note that this Privacy Policy does not apply to (a) employment applications submitted through the Web site, which may be shared with independently-owned franchises which are seeking employees in their market area and (b) information from international franchising prospects which is covered by a separate privacy policy, accessible from the International Franchising portion of the Web site.
+We may update this Policy from time to time, so please check this page periodically for updates. When we update the Policy, we will post the new Policy on this page and change the date at the top of the Policy. We will notify you of any material changes to the Policy.
 
-#### What information does Applebee's collect from me?
+#### WHAT INFORMATION DOES APPLEBEE'S COLLECT?
 
-Applebee's may collect information about you, such as your name, postal address, email address, zip code, phone number and dining preferences through any of the following: online email address submissions, in-restaurant surveys, research surveys, dining frequency cards, online gift card purchases, guest relations communications and online restaurant location searches or other voluntary activities. Additionally, use of the Applebee’s mobile application may also result in the collection of additional information such as your user name and password, your birthday, and information related to an Applebee’s GPS location.
+Applebee's or a third party service provider may collect the following types of personal information:
 
-#### Can I remain anonymous when I provide information to Applebee's?
-
-You can visit our Web site without identifying yourself or giving us any personal information. If you give us your email address, purchase gift cards online, voluntarily provide feedback to Guest Relations or complete a survey, you will no longer be anonymous to Applebee's. We may ask you for additional information from time to time, which you may decide to provide to us or not. If you contact Applebee's through the Web site or otherwise, we may keep a record of that correspondence.
-
-#### How does Applebee's use the information?
-
-Applebee's primary goal in collecting information is to improve customer service by understanding your preferences, communicating Applebee's promotions and services and providing you with the best possible experience. For example, if you visit our Web site and give us your zip code, we are able to provide the location of the Applebee's restaurant closest to you. We may also use your information to notify you of special offers and services available from Applebee's, its affiliated companies and franchisees.
-
-On a blinded, aggregated basis, we may do research on our guests' and Web site users' demographics and behavior based on the information you, other guests and users provide to us. Personally identifiable information would not be used for this type of research. We may disclose such blinded and aggregated data and user statistics to third parties and for other lawful purposes.
-
-#### Does Applebee's share my information?
-
-We will not sell, rent or otherwise distribute your personally identifiable information to third parties, except when we have your permission or under the following circumstances:
-
-  * **As required by law:** We may disclose or access your information when we believe in good faith that the law requires it.
-  * **Gift cards:** We use a third party service provider to facilitate the gift card service. That third party is required to maintain the confidentiality of your gift card information and may only use your information for the purposes of fulfilling and tracking your order, customer service and reporting to us.
-  * **To provide service:** We may share aggregated, non-identifiable information as well as personally identifiable information with our franchisees, affiliated companies and service providers, such as those who provide gift card service or email marketing. All such service providers are under contract with Applebee's to help provide specific services. If you do not want your information to be shared, you can choose not to provide the information.
-  * **Other:** We may disclose user information in special cases when we have reason to believe that disclosing such information is necessary to identify, contact or bring legal action against someone who may be violating [Applebee's Web Site Terms of Use](https://web.archive.org/legal/terms-of-use), or may otherwise be causing injury to or interference with (either intentionally or unintentionally) Applebee's rights or property, other Applebee's Web site users or customers, or anyone else that could be harmed by such activities. We may also need to disclose user information to service providers when necessary to maintain, service or improve our Web site, products and services. As we continue to develop our business, we may buy or sell business assets. In such transactions, confidential customer information generally is one of the transferred business assets. In the event of a sale of some or all of Applebee's business, customer and site visitor information may be one of the transferred assets.
+  * if you use the Sites, you may provide us with your first name, last name, postal address and/or zip code, email address, phone number, date of birth, and gender.
+  * If you choose to access our social network pages, or connect or otherwise link to our Sites with your own social network page, we may collect social network profile information that you have made publically available through your social network account settings.
+  * If you make purchases through the Sites, you may provide us with your financial account information, such as credit card number and other payment information.
+  * If you use our mobile application, information such as your user ID, your location and restaurants near you may be collected.
+  * If you take a survey, apply for a job, contact us, or interact with us in various other ways, demographic information, dining preferences, and other information you choose to provide, such as resume information, may be collected.
 
 
 
-#### How can I control access to my personal information and its use?
+We may automatically collect Site usage information when you visit the Sites, such as your domain name, Internet protocol (IP) address, mobile device model, Internet service provider, Site access times, websites that referred you to us, and web pages within our Sites that you visit. 
 
-You may contact us at the email address above if you wish to view, edit or delete your personal information from our database and we will use commercially reasonable efforts to accommodate your request.
+When you visit our Sites, we may also automatically infer general location information (e.g., city, state) based on your IP address, or when using our mobile app, through GPS information (if you elect to give our app permission to access your location). 
 
-#### How does Applebee's protect financial-related information?
+Our Sites use web beacons, cookies and other similar technologies to store and understand more information about you, such as Site usage, and to monitor Site traffic and usage patterns to improve Site functionality. A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer's hard drive. A web beacon is an object that is embedded in web page or email that allows us to understand whether the web page or email has been viewed. 
 
-Keeping your personal financial information private is vitally important to us. You may provide such information to us when you purchase gift cards online. We do not store credit card numbers or bank account numbers. This information will be kept secure and we will transfer your credit card number, bank account number or other personal information only to the third party gift card service provider, which is bound to keep your information confidential, and to the appropriate credit card company or bank only in order to process any online payments.
+Applebee's or third party service providers may also collect aggregated or anonymous data that does not directly identify you from usage activity on our Sites.
 
-#### What security precautions are in place to protect the loss, misuse or alteration of my information?
+#### HOW DOES APPLEBEE'S USE PERSONAL INFORMATION?
 
-We closely guard your personally identifiable information. We use encryption technology for credit card numbers and bank account numbers. Remember to close your browser window when you have finished your gift card order. This is to ensure that others cannot access your information by using your computer when you are away from it. Because of the global nature of the Internet, when you give us information, that information may be sent electronically to servers outside of the country where you originally entered the information. Though no data transmission over the Internet can be guaranteed to be 100% secure, Applebee's employs security techniques that are designed to protect the privacy of any information you share with us.
+Applebee's may use information collected to:
 
-#### What are cookies and how does Applebee's use them?
+  * Operate, maintain and improve the Sites and our business.
+  * Process and manage purchases made on the Sites and use of Applebee's products and services.
+  * Respond to your customer service inquiries, post your comments related to our products and services on our social network pages, and take other actions in response to your questions, comments or Site activity.
+  * Communicate with you about special offers, services, and promotions for our brand, affiliates or third party partners that may be of interest to you.
+  * Communicate with you about your orders, purchases, and program participation. 
+  * Provide you with personalized services, including directing you to the nearest Applebee's restaurant based on your location, or providing you with specialized offers based on your Site activity or prior visits to our restaurants.
 
-As part of offering personalized service, we sometimes use cookies and beacon tags or web bugs to store and understand more information about you, such as your nearest Applebee's restaurant. A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer's hard drive. Beacon tags and web bugs allow us to understand what users have viewed a page. We may use cookies, tags or bugs to allow faster and easier access to your information and to monitor traffic on the site and measure traffic patterns to improve functionality.
 
-#### How do I opt out?
 
-If you no longer wish to receive ongoing marketing communications from us, we will provide you with simple instructions on each marketing email from Applebee's to enable you to unsubscribe from future emails from Applebee's. You may also contact the Privacy Desk as explained above or opt out here.
+#### DOES APPLEBEE'S SHARE PERSONAL INFORMATION?
 
-#### What else should I know about my privacy?
+Applebee's will not disclose your personal information to third parties, except as provided below. We may share your personal information under the following limited circumstances:
 
-Please keep in mind that whenever you voluntarily disclose information online, that information may be accessible to other online users. Ultimately, you are solely responsible for maintaining the secrecy of your passwords and/or any other personal information. Please be careful and responsible whenever you are online.
+  * We will only share your personal information with third parties for their own marketing purposes with your prior consent.
+  * We may share your personal information with our affiliates.
+  * We may share your personal information with Applebee's franchisees.
+  * We may share your personal information with companies that provide services to us, such as credit card processors, gift card service providers, website hosts, email vendors, and other companies that help us provide services or market our brand; however, such companies may only use that information to provide services on our behalf. 
+  * We may share aggregated or anonymous information that does not identify you with third parties.
+  * We may disclose your personal information in response to legal process, when required to comply with laws, to combat fraudulent or criminal activity, to enforce our agreements, corporate policies, and the terms of use of the Sites, and to protect the rights, property and safety of Applebee's, our employees, agents, customers, or others.
+  * We may share your personal information in the event of a merger, acquisition, financing, sale of assets, liquidation or other similar transaction.
 
-#### How is information from children treated?
 
-Applebee's does not intend to collect any personally identifiable information from children under the age of 13 without verifiable parental consent. In fact, when we request personal information from users of this Web site, we also ask for their birthdate in order to comply with the Children's Online Privacy Protection Act (COPPA) which prohibits the collecting of personal information of anyone under the age of 13. If we learn that such a child has provided us with personally identifiable information, we will immediately delete it. If you learn that such a child has provided us with personally identifiable information, the parent or guardian should contact us at the Privacy Desk above and we will immediately delete it.
+
+#### HOW DOES APPLEBEE'S SECURE PERSONAL INFORMATION?
+
+Applebee's takes reasonable steps to maintain appropriate physical, technical and administrative security to help prevent loss, misuse, unauthorized access, disclosure or modification of personal information. Although no transmission of data over the Internet or other public network can be guaranteed to be 100% secure, Applebee's makes reasonable efforts to protect any information you share with us.
+
+#### HOW DOES APPLEBEE'S TREAT INFORMATION FROM CHILDREN?
+
+Applebee's does not intend for any portion of the Site to be accessed or used by children under the age of thirteen, nor does Applebee's intend to collect any personally identifiable information from children under the age of thirteen. By using the Site, you are representing that you are not under the age of thirteen. If we obtain knowledge that a child under the age of thirteen has provided us with personally identifiable information, we will promptly delete such information.
+
+#### WHAT CHOICES DOES APPLEBEE'S OFFER ABOUT PERSONAL INFORMATION?
+
+You may contact us at the email address or phone number below if you wish to view, edit or delete your personal information from our database, and we will use commercially reasonable efforts to accommodate your request.
+
+If you no longer wish to receive promotional emails from us, you may opt-out from receiving future emails from Applebee's by following the instructions for unsubscribing in the promotional emails we send you or by contacting us at the email address or phone number below. If you no longer wish to receive SMS messages from us, you may opt-out from receiving future SMS messages from Applebee's by texting 22337 or by contacting us at the email address or phone number below.
+
+You may be able to manage how your browser handles cookies by adjusting your browser's privacy or security settings. If you set your browser to reject cookies, please note that you may not be able to access certain features on our Sites. 
+
+When you download our mobile app, you may be able to manage how your mobile device shares certain information with us by adjusting your mobile device's privacy or security settings. In particular, you may elect whether to share location information with our mobile app to access the mobile app's location based services.
+
+Please note that any information you choose to provide in a public setting, such as on Applebee's social network pages, is not only provided to Applebee's but may also be shared publicly. Use caution when posting or sharing information on social networking sites. You may also be able to manage the sharing of certain personal information when you connect with us through social networks by adjusting the privacy or security settings of your social network accounts.
+
+#### YOUR CALIFORNIA PRIVACY RIGHTS
+
+California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits California residents to request annually, free of charge, information about what personal information Applebee's disclosed to third parties, including affiliates, for direct marketing purposes. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which Applebee's shared information in the immediately preceding calendar year. California residents may make such requests in writing to:
+
+**Applebee's International, Inc.**  
+**Attention: Privacy Desk**  
+**8140 Ward Parkway**  
+**Kansas City, MO 64114**  
+**[privacydesk@applebees.com](mailto:privacydesk@applebees.com)**
+
+#### CONTACT US
+
+Please contact us if you have any questions or comments about our privacy practices or this Privacy Policy. You can reach us via email at [privacydesk@applebees.com](mailto:privacydesk@applebees.com). You can reach us via postal mail at the following address:
+
+**Applebee's International, Inc.**  
+**Attention: Privacy Desk**  
+**8140 Ward Parkway**  
+**Kansas City, MO 64114**
+
+  
+**© 2013 Applebee's International, Inc. All rights reserved.**
