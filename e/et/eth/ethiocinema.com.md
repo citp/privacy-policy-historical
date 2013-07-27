@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ethiocinema.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526000539id_/http%3A//www.ethiocinema.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ethiocinema.com privacy policy that was archived on 2013-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130727183632id_/http%3A//www.ethiocinema.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
