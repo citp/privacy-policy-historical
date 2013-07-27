@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankexamportal.com privacy policy that was archived on 2013-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130315022003id_/http%3A//www.climbfirst.org/privacypolicycf.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankexamportal.com privacy policy that was archived on 2013-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130727201344id_/http%3A//www.climbfirst.org/privacypolicycf.html) for the most accurate reproduction.*
 
 # 
 
