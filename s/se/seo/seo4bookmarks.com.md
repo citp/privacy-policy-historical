@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seo4bookmarks.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621075822id_/http%3A//www.seo4bookmarks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seo4bookmarks.com privacy policy that was archived on 2013-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130727065710id_/http%3A//www.seo4bookmarks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy › Seo4Bookmarks.com : Submit Content, SEO Bookmarking & Web Bookmarks | Social Bookmarking Service That Allows You To Submit An Article That Will Be Promoted Based On Popularity
 
