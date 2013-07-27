@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adswr.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602162225id_/http%3A//www.adswr.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adswr.com privacy policy that was archived on 2013-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130727023220id_/http%3A//www.adswr.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
