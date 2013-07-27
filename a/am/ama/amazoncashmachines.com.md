@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amazoncashmachines.com privacy policy that was archived on 2013-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130316072304id_/http%3A//amazoncashmachines.com/%3Fpage_id%3D271) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazoncashmachines.com privacy policy that was archived on 2013-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130727163209id_/http%3A//amazoncashmachines.com/%3Fpage_id%3D271) for the most accurate reproduction.*
 
 # Privacy Policy | Amazon Cash Machines
 
