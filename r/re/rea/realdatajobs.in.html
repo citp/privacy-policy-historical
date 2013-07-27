@@ -1,0 +1,675 @@
+<!--The following is the downloaded HTML source of the realdatajobs.in privacy policy that was archived on 2013-07-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130727135822id_/http%3A//realdatajobs.in/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<meta http-equiv="X-UA-Compatible" content="IE=8">
+
+<title>Real data jobs | Online jobs , Part time jobs , Home based Jobs , online data jobs , Translation work</title>
+
+<link href="http://realdatajobs.in/css/style.css" rel="stylesheet" type="text/css" media="all">
+  
+<link href="http://realdatajobs.in/css/notification.css" rel="stylesheet" type="text/css">
+
+
+
+<link rel="stylesheet" type="text/css" href="http://realdatajobs.in/jquery//demo/css/screen.css">
+
+
+
+<script src="http://realdatajobs.in/jquery//lib/jquery-1.4.2.js" language="javascript" type="text/javascript"></script>
+
+<script src="http://realdatajobs.in/jquery//jquery.validate.js" language="javascript" type="text/javascript"></script>
+
+
+
+<!--Pop up page or sub modal window-->
+
+<script src="http://realdatajobs.in/jquery//lib/jquery.metadata.js" language="javascript" type="text/javascript"></script>
+
+<script src="http://realdatajobs.in/jquery//SimpleModal/scripts/jquery.helper.js" language="javascript" type="text/javascript"></script>
+
+
+
+<link rel="stylesheet" type="text/css" href="http://realdatajobs.in/jquery//SimpleModal/styles/style.css">
+
+   
+
+<script type="text/javascript"> 
+
+$(document).ready(function(){
+
+	$(".pane .btn-delete").click(function(){
+
+		$(this).parents(".pane").animate({ backgroundColor: "#fbc7c7" }, "fast")
+
+		.animate({ opacity: "hide" }, "slow")
+
+		return false;
+
+	});
+
+});
+
+</script>
+
+
+
+<script type="text/javascript">
+
+  $(document).ready(function(){
+
+	  $("#form1").validate({
+
+		  submitHandler: function(form) {
+
+			  // do other stuff for a valid form
+
+			  $.post('register_action.php', $("#form1").serialize(), function(data) {
+
+				  $('#results').html(data);
+
+			  });
+
+		  }
+
+	  });
+
+	  
+
+	  $("#form2").validate({
+
+		  submitHandler: function(form) {
+
+			  // do other stuff for a valid form
+
+			  $.post('member_profile_action.php', $("#form2").serialize(), function(data) {
+
+				  $('#results').html(data);
+
+			  });
+
+		  }
+
+	  });
+
+	  
+
+	 /* $("#form3").validate({
+
+		  submitHandler: function(form) {
+
+			  // do other stuff for a valid form
+
+			  $.post('forgot_pass_action.php', $("#form3").serialize(), function(data) {
+
+				  $('#results').html(data);
+
+			  });
+
+		  }
+
+	  });*/
+
+	  
+
+	  $("#form4").validate({
+
+		  submitHandler: function(form) {
+
+			  // do other stuff for a valid form
+
+			  $.post('member_forgot_pass_action.php', $("#form4").serialize(), function(data) {
+
+				  $('#results').html(data);
+
+			  });
+
+		  }
+
+	  });
+
+	  $("#form5").validate({
+
+		  submitHandler: function(form) {
+
+			  // do other stuff for a valid form
+
+			  $.post('member_contactus_action.php', $("#form5").serialize(), function(data) {
+
+				  $('#results').html(data);
+
+			  });
+
+		  }
+
+	  });
+
+  });
+
+</script>
+
+<script language="javascript" type="text/javascript">
+
+ 
+
+$(document).ready(function() { 
+
+	// validate the comment form when it is submitted 
+
+	$("#form1").validate(); 
+
+	$("#form2").validate();
+
+	$("#form3").validate();
+
+	$("#form4").validate();
+
+	$("#form5").validate();
+
+	
+
+	
+
+	//Mobile
+
+    jQuery.validator.addMethod("mobile", function(phone_number, element) {
+
+	  	return this.optional(element) || phone_number.length == 10 && /^(\+91[\-\s]?)?[0-9]\d{9}$/.test(phone_number);
+
+	}, "Please enter a valid mobile number.");
+
+
+
+ 	//phone
+
+	jQuery.validator.addMethod("phone", function(phone_number, element) {
+
+		return this.optional(element) || phone_number.length >= 6 && phone_number.length <= 15 && /^\d+$/.test(phone_number);
+
+	}, "Please enter a valid phone number.");
+
+	
+
+	//alphabets only 
+
+	jQuery.validator.addMethod("alpha", function(value, element) {
+
+		return this.optional(element) || /^[a-zA-Z.\s]+$/.test(value);
+
+	}, "Please enter alphabets only."); 
+
+	
+
+	//alphanumeric only
+
+	jQuery.validator.addMethod("alphanum", function(value, element) {
+
+		return this.optional(element) || /^[0-9a-zA-Z.\s]+$/.test(value);
+
+	}, "Please enter letters, numbers only.");
+
+	
+
+	//password equal check	
+
+	jQuery.validator.addMethod("passEqual", function(value, element, param) {
+
+		var target = $(param).unbind(".validate-passEqual").bind("blur.validate-passEqual", function() {
+
+		  $(element).valid();
+
+	  });
+
+	  return value == target.val();
+
+	}, "Password Mismatch.");
+
+	
+
+	// Email equal Check
+
+	jQuery.validator.addMethod("emailEqual", function(value, element, param) {
+
+		var target = $(param).unbind(".validate-emailEqual").bind("blur.validate-emailEqual", function() {
+
+		  $(element).valid();
+
+	  });
+
+	  return value == target.val();
+
+	}, "Email ID Mismatch.");
+
+	
+
+	//Maxlength check	
+
+	jQuery.validator.addMethod("maximumlength", function(value, element, param) {
+
+		return this.optional(element) || this.getLength($.trim(value), element) <= param;
+
+	}, $.validator.format('Maximum {0} characters.'));
+
+		
+
+	//date range compare	
+
+	 jQuery.validator.addMethod("daterange", function(value, element, params) {
+
+	  var splitvalue   = value.split("-");
+
+	  var start_dt     = $(params).val();
+
+	  //alert($(params).val());
+
+	  var splitparams  = start_dt.split("-");
+
+	  
+
+	  var V_Date 		=  new Date(splitvalue[2],splitvalue[1]-1,splitvalue[0],0,0,0);
+
+	  var P_Date 		=  new Date(splitparams[2],splitparams[1]-1,splitparams[0],0,0,0);
+
+
+
+	  //alert(V_Date);
+
+	  //alert(P_Date);
+
+		  if (!/Invalid|NaN/ || /^(?:(?:31(\/|-|\.)(?:0?[13578]|1[02]))\1|(?:(?:29|30)(\/|-|\.)(?:0?[1,3-9]|1[0-2])\2))(?:(?:1[6-9]|[2-9]\d)?\d{2})$|^(?:29(\/|-|\.)0?2\3(?:(?:(?:1[6-9]|[2-9]\d)?(?:0[48]|[2468][048]|[13579][26])|(?:(?:16|[2468][048]|[3579][26])00))))$|^(?:0?[1-9]|1\d|2[0-8])(\/|-|\.)(?:(?:0?[1-9])|(?:1[0-2]))\4(?:(?:1[6-9]|[2-9]\d)?\d{2})$/.test(value)) {
+
+		  //alert(params);
+
+			  return V_Date >= P_Date;
+
+		  }
+
+		  return isNaN(value) && isNaN($(params).val()) || (parseFloat(value) >= parseFloat($(params).val())); 
+
+		  
+
+	  },'Invalid Date Range'); 
+
+			
+
+		
+
+		//cant accept future date 
+
+		// just include it in class 
+
+		// ex: class="required future"
+
+		 jQuery.validator.addMethod("future", function(value, element) {
+
+	
+
+			var splitvalue   = value.split("-");
+
+			
+
+			var V_Date 		=  new Date(splitvalue[2],splitvalue[1]-1,splitvalue[0],0,0,0);
+
+			var T_Date 		=  new Date();
+
+	
+
+				/*	alert(V_Date);
+
+					alert(T_Date);*/
+
+			
+
+				if (!/Invalid|NaN/ || /^(?:(?:31(\/|-|\.)(?:0?[13578]|1[02]))\1|(?:(?:29|30)(\/|-|\.)(?:0?[1,3-9]|1[0-2])\2))(?:(?:1[6-9]|[2-9]\d)?\d{2})$|^(?:29(\/|-|\.)0?2\3(?:(?:(?:1[6-9]|[2-9]\d)?(?:0[48]|[2468][048]|[13579][26])|(?:(?:16|[2468][048]|[3579][26])00))))$|^(?:0?[1-9]|1\d|2[0-8])(\/|-|\.)(?:(?:0?[1-9])|(?:1[0-2]))\4(?:(?:1[6-9]|[2-9]\d)?\d{2})$/.test(value)) {
+
+				//alert(params);
+
+					return V_Date <= T_Date;
+
+				}
+
+				 return this.optional(element); 
+
+			},'Date must be less than today.'); 
+
+			
+
+			//cant accept future date 
+
+			// just include it in input 
+
+			// ex: <input id='date' futuredate='01-01-2013' />
+
+			 jQuery.validator.addMethod("futuredate", function(value, element, params) {
+
+	
+
+			var splitvalue   = value.split("-");
+
+			//alert(params);
+
+			var splitparams  = params.split("-");
+
+			
+
+			var V_Date 		=  new Date(splitvalue[2],splitvalue[1]-1,splitvalue[0],0,0,0);
+
+			var P_Date 		=  new Date(splitparams[2],splitparams[1]-1,splitparams[0],0,0,0);
+
+	
+
+			//alert(V_Date);
+
+			//alert(P_Date);
+
+				if (!/Invalid|NaN/ || /^(?:(?:31(\/|-|\.)(?:0?[13578]|1[02]))\1|(?:(?:29|30)(\/|-|\.)(?:0?[1,3-9]|1[0-2])\2))(?:(?:1[6-9]|[2-9]\d)?\d{2})$|^(?:29(\/|-|\.)0?2\3(?:(?:(?:1[6-9]|[2-9]\d)?(?:0[48]|[2468][048]|[13579][26])|(?:(?:16|[2468][048]|[3579][26])00))))$|^(?:0?[1-9]|1\d|2[0-8])(\/|-|\.)(?:(?:0?[1-9])|(?:1[0-2]))\4(?:(?:1[6-9]|[2-9]\d)?\d{2})$/.test(value)) {
+
+				//alert(params);
+
+					return V_Date <= P_Date;
+
+				}
+
+				 return this.optional(element); 
+
+			},$.validator.format('Date must be greater than {0}.')); 
+
+			
+
+			//cant accept past date 
+
+			// just include it in input 
+
+			// ex: <input id='date' pastdate='01-01-1990' />
+
+			 jQuery.validator.addMethod("pastdate", function(value, element, params) {
+
+	
+
+			var splitvalue   = value.split("-");
+
+			//alert(params);
+
+			var splitparams  = params.split("-");
+
+			
+
+			var V_Date 		=  new Date(splitvalue[2],splitvalue[1]-1,splitvalue[0],0,0,0);
+
+			var P_Date 		=  new Date(splitparams[2],splitparams[1]-1,splitparams[0],0,0,0);
+
+			
+
+				if (!/Invalid|NaN/ || /^(?:(?:31(\/|-|\.)(?:0?[13578]|1[02]))\1|(?:(?:29|30)(\/|-|\.)(?:0?[1,3-9]|1[0-2])\2))(?:(?:1[6-9]|[2-9]\d)?\d{2})$|^(?:29(\/|-|\.)0?2\3(?:(?:(?:1[6-9]|[2-9]\d)?(?:0[48]|[2468][048]|[13579][26])|(?:(?:16|[2468][048]|[3579][26])00))))$|^(?:0?[1-9]|1\d|2[0-8])(\/|-|\.)(?:(?:0?[1-9])|(?:1[0-2]))\4(?:(?:1[6-9]|[2-9]\d)?\d{2})$/.test(value)) {
+
+				//alert(params);
+
+					return V_Date >= P_Date;
+
+				}
+
+				 return this.optional(element); 
+
+			},$.validator.format('Date must be less than {0}.')); 
+
+
+
+	$.metadata.setType("attr", "validate");   
+
+});
+
+</script>
+
+
+
+<!--Search Content -->
+
+<script language="javascript">         
+
+  window.onload = function() {
+
+	//start();
+
+	refresh_content();
+
+	
+
+}</script>
+
+
+
+
+
+</head>
+
+
+
+
+
+<body id="home">
+
+
+    
+
+    <!-- Shell -->     
+
+    <div id="shell">
+
+    <div class="member-login">
+
+    <p>Already A Member? <a href="member_login.php">Login</a></p>
+
+    </div>
+
+    
+
+    <div class="shell-t">
+
+    <div class="shell-c">
+
+    <div class="shell-m">
+
+    <!-- Header -->   
+
+    <div id="header">
+
+    <!-- Logo -->
+
+    <h1 id="logo"><a href="index.php">Real Data Jobs</a></h1>
+
+    
+
+    
+
+    <div class="cl">&nbsp;</div>
+
+    </div>
+
+    <!-- /Header -->
+
+    
+
+    <!-- Main -->   
+
+    <div id="main">
+
+    <!-- Content --></div>
+
+    <div class="cl"></div>
+
+              
+
+   
+
+
+
+
+  
+<div style="padding-left:10px; padding-right:20px; padding-bottom:20px; padding-top:0px; height:auto">
+  <table width="850" border="0" cellpadding="0" cellspacing="0" align="center">
+  <tbody><tr>
+  <td valign="top"> 
+  <div class="main_title" style="padding-left:6px;">S7 Consultant - Privacy Policy</div> 
+  <div class="ques_text">PRIVACY POLICY</div>
+  <div class="right_content">
+  S7 Consultant takes your privacy seriously, and has created this Privacy Policy in order to demonstrate our firm commitment to online privacy. Keep reading to learn more about our information gathering and dissemination practices, and our use of personally identifiable information.
+  </div><br>
+  
+  <div class="ques_text">IP Addresses</div>
+  <div class="right_content">
+ we may use your IP address to help diagnose problems with our site or web server, and for the general administration of our website. Your IP address, should you decide to register and/or create a S7 Consultant account, is also used to help prevent you from creating duplicate accounts. 
+  </div><br>
+  
+  <div class="ques_text">Cookies</div>
+  <div class="right_content">
+  Upon your first visit to this web site, a "cookie" is sent to your computer. A cookie is a tiny file that identifies you as a unique user. It stores personal preferences and user data, however, in no way does this tell us who you are. S7 Consultant has two primary uses for its cookies. <br>
+  <br>First, we use cookies to track special offers and promotions that may be presented to you as you navigate our website. This is done so that you are not presented with the same special offers and/or promotions over and over, or after you have indicated you are not interested. <br>
+  <br>
+ While both of these activities depend on the use of a "cookie," visitors to this site always have the option of disabling cookies in their web browser. Most browsers are initially set to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. 
+  </div><br>
+  
+  <div class="ques_text">Information Gathering</div>
+  <div class="right_content">
+  This web site collects online contact information in various ways, including inquiry forms and registration forms. The information collected may be used to send the user information about our company, or to get in touch with the user when necessary. <br>
+  <br>
+  Users may opt-out of receiving future mailings; see the opt-out/modify section below. 
+  </div><br>
+  
+  <div class="ques_text">Information Dissemination</div>
+  <div class="right_content">
+ We may use the personal information that you supply to us and we may work with other third party businesses to bring selected retail opportunities to our members via email. These businesses may include providers of direct marketing services and applications, including lookup and reference, data enhancement, suppression and validation and email marketing. 
+  </div><br>
+  
+  <div class="ques_text">Links to Other Sites</div>
+  <div class="right_content">
+  S7 consultant expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame of content that is actually created or hosted by a third party <br>
+  <br>
+  Also, via our site you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. S7 Consultantis not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party. <br>
+  <br>
+ Please be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of S7 Consultantand this policy. 
+  </div><br>
+  
+  <div class="ques_text">Children Under 13</div>
+  <div class="right_content">
+  S7 Consultantdoes not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe S7 Consultanthas any information from or about anyone under 13, please contact us. 
+  </div><br>
+  
+  <div class="ques_text">Security</div>
+  <div class="right_content">
+  This web site has security measures in place to protect against loss, misuse and/or alteration of the information that you provide. Furthermore, we have taken every precaution technically possible to prevent any unauthorized access to the contents of this web server. 
+  </div><br>
+  
+  <div class="ques_text">Opt-Out/Modify</div>
+  <div class="right_content">
+ S7 Consultantprovides every user with the opportunity to opt-out of receiving future communications from us, change and modify information previously provided, or remove their information from our databases altogether. 
+  <br><br>
+ If you have any questions about this privacy statement, the practices of this web site, or your dealings with this web site, please contact us via Email
+  <br><br>
+ 1. Email: <a href="#">support@realdatajobs.com</a>
+ 
+  </div>
+ 
+  
+  </td>
+  </tr>
+  </tbody></table>
+	</div>  
+
+
+</div>
+
+		</div>
+
+	</div>
+
+	
+
+	<!-- Footer -->  
+
+ 
+    
+
+  <div id="footer">  
+
+		<p class="links"> 
+
+		  <a href="member_contactus.php">Contact Us</a>
+
+			<span>|</span>
+
+		  <a href="faq11.php">FAQ</a>      
+
+			<span>|</span>
+
+		  <a href="terms_con11.php?type1=terms">Terms and Conditions</a>  
+
+			<span>|</span>  
+
+		  <a href="terms_con11.php?type1=privacy">Privacy Policy</a>  
+
+          <span>|</span>
+
+		  <a href="terms_con11.php?type1=dis">Earnings Disclaimer</a>    
+
+			<span>|</span>      
+
+		  <a href="affiliate_login.php" target="_blank">Affiliate Program</a>
+
+          
+
+		</p>
+
+		<p> © by RealDataJobs.in 2012</p>
+
+  </div>
+
+	<!-- /Footer -->
+
+          
+
+    
+  <!--<div id="footer">
+
+		<p class="links">
+
+         <a href="home.php"> Home </a>
+
+         <span>|</span> 
+
+		  <a href="writing_job.php"> Writing Job </a>
+
+			<span>|</span>
+
+		  <a href="premium_job_view.php"> Premium Writing Job </a>
+
+			<span>|</span>
+
+		   <a href="contest_view.php"> Writing Contests </a>
+
+			<span>|</span>
+
+		  <a href="magazine_view.php"> Magazines</a>
+
+	  
+
+		</p>
+
+		<p> &copy; by RealDataJobs.com 2013</p>
+
+  </div>-->
+
+
+
+
+</div>
+
+<!-- /Shell -->
+
+
+
+
+
+  </body></html>
