@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lettercount.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624015015id_/http%3A//www.lettercount.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lettercount.com privacy policy that was archived on 2013-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130727031352id_/http%3A//www.lettercount.com/privacy.html) for the most accurate reproduction.*
 
 # LetterCount Privacy Policy
 
