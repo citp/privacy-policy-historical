@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the getjar.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503235429id_/http%3A//developer.getjar.com/android/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getjar.com privacy policy that was archived on 2013-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130727212958id_/http%3A//developer.getjar.com/android/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Getjar App Commerce
+# Privacy Policy | Getjar Developers
 
 **Updated: April 1, 2012**
 
@@ -132,7 +132,7 @@ This Privacy Policy may be amended at any time in accordance with the section ti
 If you have any questions about this Privacy Policy, you may contact GetJar in the following ways: 
 
 **Web:**  
-[Contact Us](http://www.getjar.com/about/contact)
+[Contact Us](http://developer.getjar.com/android/contactus/)
 
 **Postal:**
 
