@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blinksale.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530051456id_/http%3A//www.blinksale.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blinksale.com privacy policy that was archived on 2013-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130727034553id_/http%3A//www.blinksale.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy « Blinksale | The easiest way to send invoices online
 
