@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hardtofindseminars.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530013608id_/http%3A//www.hardtofindseminars.com/PrivacyPolicyStatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardtofindseminars.com privacy policy that was archived on 2013-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130728005641id_/http%3A//www.hardtofindseminars.com/PrivacyPolicyStatement.htm) for the most accurate reproduction.*
 
 # Privacy Policy Statement LAST UPDATED July 23rd, 2005
 
