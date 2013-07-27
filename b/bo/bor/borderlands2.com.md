@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the borderlands2.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529192547id_/http%3A//www.gearboxsoftware.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the borderlands2.com privacy policy that was archived on 2013-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130727040722id_/http%3A//www.gearboxsoftware.com/privacy.html) for the most accurate reproduction.*
 
 # Gearbox Software Privacy Policy
 
