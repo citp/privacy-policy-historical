@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the automotto.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622151107id_/http%3A//www.automotto.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automotto.com privacy policy that was archived on 2013-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130727123345id_/http%3A//www.automotto.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Automotto - Privacy Policy
 
