@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mywebsearch.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606111635id_/http%3A//home.mywebsearch.com/resources/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mywebsearch.com privacy policy that was archived on 2013-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130727172704id_/http%3A//home.mywebsearch.com/resources/html/privacy.html) for the most accurate reproduction.*
 
 # Mindspark Search Privacy Policy
 
