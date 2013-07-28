@@ -1,141 +1,136 @@
-> *The following text is extracted and transformed from the bluevoda.com privacy policy that was archived on 2010-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100726103332id_/http%3A//www.bluevoda.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluevoda.com privacy policy that was archived on 2013-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130728203250id_/http%3A//www.bluevoda.com/website/privacy-policy) for the most accurate reproduction.*
 
-# Free website builder create a website
+# Privacy Policy | Create Website Builder
 
-This privacy policy (statement) covers all  websites that are operated by BlueVoda including www.BlueVoda.com. Because BlueVoda wants to demonstrate its commitment to our users’ privacy, we have agreed to disclose our information practices.  
- 
+BlueVoda Privacy Policy
 
-1.      What personally identifiable information BlueVoda Website Builder  collects.
+This privacy policy (statement) covers all websites that are operated by BlueVoda including www.BlueVoda.com. Because BlueVoda wants to demonstrate its commitment to our users’ privacy, we have agreed to disclose our information practices.
 
-2.      What personally identifiable information third parties collect  
-  through the BlueVoda Website Builder website.
+  1. What personally identifiable information BlueVoda Website Builder collects.
+  2. What personally identifiable information third parties collect through the BlueVoda Website Builder website.
+  3. What organization collects the information.
+  4. How BlueVoda Website Builder uses the information.
+  5. With whom BlueVoda Website Builder may share user information.
+  6. What choices are available to users regarding collection, use and distribution of the information.
+  7. What types of security procedures are in place to protect the loss, misuse or alteration of information under BlueVoda Website Builder control.
+  8. How users can correct any inaccuracies in the information.
 
-3.      What organization collects the information. 
 
-4.      How BlueVoda Website Builder uses the information.
 
-5.      With whom BlueVoda Website Builder may share user information. 
+If users have questions or concerns regarding this privacy policy, they should first contact our department at [support@vodasupport.com ](mailto:support@vodasupport.com).
 
-6.      What choices are available to users regarding collection, use   
-  and distribution of the information. 
+Information Collection and Use
 
-7.     What types of security procedures are in place to protect the loss, misuse or alteration of information under BlueVoda Website Builder control. 
-
-8.      How users can correct any inaccuracies in the information. 
-
-If users have questions or concerns regarding this privacy policy, they should first contact our department at [ support@vodasupport.com](mailto:support@vodasupport.com) . __ **Information Collection and Use**
-
-** Information Collection**
+Information Collection
 
 BlueVoda Website Builder is the sole owner of the information collected on any website that is owned an operated by BlueVoda Website Builder. BlueVoda Website Builder collects information from our users at several different points on our Web sites.
 
-** Registration**
+Registration
 
-In order to use one of the above Web sites, a user may first complete a registration form. During registration a user is required to] give[s] contact information (such as name and email address). We use this information to contact the user about services on our site for which he has expressed interest.  It is optional for the user to provide demographic information (such as income level and gender), and unique identifiers (such as, username and password), but encouraged so we can provide a more personalized experience on our site. 
+In order to use one of the above Web sites, a user may first complete a registration form. During registration a user is required to] give[s] contact information (such as name and email address). We use this information to contact the user about services on our site for which he has expressed interest. It is optional for the user to provide demographic information (such as income level and gender), and unique identifiers (such as, username and password), but encouraged so we can provide a more personalized experience on our site.
 
-** Orders**
+Orders
 
-We request information from the user on our order or registration form. A user must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date).  This information is used for billing purposes and to fill customer’s orders.  If we have trouble processing an order, the information is used to contact the user.
+We request information from the user on our order or registration form. A user must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date). This information is used for billing purposes and to fill customer’s orders. If we have trouble processing an order, the information is used to contact the user.
 
-** Information Use**
+Information Use
 
-** Profiles**
+Profiles
 
-We store information that we collect through cookies, log files, clear gifs, and/or third parties to create a profile of our users.  A profile is stored information that we keep on individual users that details their viewing preferences.  Consequently, collected information is tied to the users personally identifiable information to provide offers and improve the content of the site for the user. This profile is used to tailor a user’s visit to our Web site, and to direct pertinent marketing promotions to them. Your profile will **NEVER BE SHARED** with any third parties. 
+We store information that we collect through cookies, log files, clear gifs, and/or third parties to create a profile of our users. A profile is stored information that we keep on individual users that details their viewing preferences. Consequently, collected information is tied to the users personally identifiable information to provide offers and improve the content of the site for the user. This profile is used to tailor a user’s visit to our Web site, and to direct pertinent marketing promotions to them. Your profile will NEVER BE SHARED with any third parties.
 
-** Cookies**
+Cookies
 
-A cookie is a piece of data stored on the user’s computer tied to information about the user.  Usage of a cookie is in no way linked to any personally identifiable information while on our site. We use both session ID cookies and persistent cookies.  For the session ID cookie, once users close the browser, the cookie simply terminates.  A persistent cookie is a small text file stored on the user’s hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. 
+A cookie is a piece of data stored on the user’s computer tied to information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. We use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user’s hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions.
 
-**Log Files**
+Log Files
 
-Like most standard Web site servers we use log files.  This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use.  IP addresses, etc. are not linked to personally identifiable information.  We use our in-house tracking utility that uses log files to analyze user movement.  
-. 
+Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. We use our in-house tracking utility that uses log files to analyze user movement.
 
-** Communications from the Site**
+Communications from the Site
 
-** Special Offers and Updates**
+Special Offers and Updates
 
 We send all new members a welcoming email to verify password and username. Established members will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see the Choice and Opt-out sections.
 
-** Newsletters**
+Newsletters
 
-If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address.  Out of respect for our users privacy we provide a way to opt-out of these communications.
+If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address. Out of respect for our users privacy we provide a way to opt-out of these communications.
 
-** Service Announcements**
+Service Announcements
 
-On rare occasions it is necessary to send out a strictly service related announcement.  For instance, if our service is temporarily suspended for maintenance we might send users an email.  Generally, users may not opt-out of these communications, though they can deactivate their account.  However, these communications are not promotional in nature. 
+On rare occasions it is necessary to send out a strictly service related announcement. For instance, if our service is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature.
 
-** Customer Service**
+Customer Service
 
 We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account we reply via email or phone, in accordance with the users wishes.
 
-** Sharing**
+Sharing
 
-** BlueVoda Website Builder Legal Disclaimer**
+BlueVoda Website Builder Legal Disclaimer
 
 Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.
 
-** We DO NOT Share Personal Information with Third Parties **
+We DO NOT Share Personal Information with Third Parties
 
-** Third Party Intermediaries**
+Third Party Intermediaries
 
 We use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes.
 
-** BlueVoda Website Builder Service Providers**
+BlueVoda Website Builder Service Providers
 
-We may from time to time partner with other third parties  to provide specific services.  When the user signs up for these particular services, we may share names, or other contact information that is necessary for the third party to provide these services.  These third parties are not allowed to use personally identifiable information except for the purpose of providing these services.
+We may from time to time partner with other third parties to provide specific services. When the user signs up for these particular services, we may share names, or other contact information that is necessary for the third party to provide these services. These third parties are not allowed to use personally identifiable information except for the purpose of providing these services.
 
-** Business Transitions**
+Business Transitions
 
-In the event BlueVoda [ Website Builder](https://www.bluevoda.com/ "Website Builder") goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users’ personal information will, in most instances, be part of the assets transferred.  Users will be notified via email & prominent notice on our Web site for 30 days prior to a change of ownership or control of their personal information. If as a result of the business transition, the users’ personally identifiable information will be used in a manner different from that stated at the time of collection they will be given choice consistent with our notification of changes section.
+In the event BlueVoda [Website Builder ](https://www.bluevoda.com/)goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users’ personal information will, in most instances, be part of the assets transferred. Users will be notified via email & prominent notice on our Web site for 30 days prior to a change of ownership or control of their personal information. If as a result of the business transition, the users’ personally identifiable information will be used in a manner different from that stated at the time of collection they will be given choice consistent with our notification of changes section.
 
-** Choice/Opt-out**
+Choice/Opt-out
 
-Our users are given the opportunity to ‘opt-out’ of having their information used for purposes not directly related to our site at the point where we ask for information.  For example, our order form has an ‘opt-out’ mechanism so users who buy a product from us, but don’t want any marketing material, can keep their email address off of our lists. 
+Our users are given the opportunity to ‘opt-out’ of having their information used for purposes not directly related to our site at the point where we ask for information. For example, our order form has an ‘opt-out’ mechanism so users who buy a product from us, but don’t want any marketing material, can keep their email address off of our lists.
 
-Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email. 
+Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email.
 
-** Links**
+Links
 
-This Web site contains links to other sites. Please be aware that BlueVoda Website Builder, is not responsible for the privacy practices of such other sites.  We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information.  This privacy statement applies solely to information collected by this Web site. 
+This Web site contains links to other sites. Please be aware that BlueVoda Website Builder, is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
 
-** Tell-A-Friend**
+Tell-A-Friend
 
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and email address. BlueVoda Website Builder will automatically send the friend a one-time email inviting them to visit the site.  BlueVoda Website Builder stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
+If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and email address. BlueVoda Website Builder will automatically send the friend a one-time email inviting them to visit the site. BlueVoda Website Builder stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
 
-** Security**
+Security
 
-BlueVoda Website Builder takes every precaution to protect our users’ information.  When users submit sensitive information via the Web site, their information is protected both online and off-line.
+BlueVoda Website Builder takes every precaution to protect our users’ information. When users submit sensitive information via the Web site, their information is protected both online and off-line.
 
-When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - SSL.  While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just ‘surfing’. 
+When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry – SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just ‘surfing’.
 
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line.  All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices.  Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information.  Our employees must use password-protected screen-savers when they leave their desk.  When they return, they must re-enter their password to re-gain access to user information.  Furthermore, ALL employees are kept up-to-date on our security and privacy practices.  Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our users’ information is protected. 
+While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to user information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our users’ information is protected.
 
-Finally, the servers that store personally identifiable information are in a secure environment, behind a locked cage in a locked facility. 
+Finally, the servers that store personally identifiable information are in a secure environment, behind a locked cage in a locked facility.
 
-** Supplementation of Information **
+Supplementation of Information
 
 In order for BlueVoda Website Builder to properly fulfill its obligation to users it is necessary for us to supplement the information we receive with information from 3rd party sources.
 
-** Credit Check**
+Credit Check
 
-For example, to determine if users qualify for one of our credit cards, we use their name and social security number to request a credit report.  Once we determine a user’s credit-worthiness, this document is destroyed. 
+For example, to determine if users qualify for one of our credit cards, we use their name and social security number to request a credit report. Once we determine a user’s credit-worthiness, this document is destroyed.
 
-** Purchasing History**
+Purchasing History
 
-In order for this Web site to enhance its ability to tailor the site to a user’s preference, we combine information about the purchasing habits of users with similar information from our partners to create a personalized user profile. 
+In order for this Web site to enhance its ability to tailor the site to a user’s preference, we combine information about the purchasing habits of users with similar information from our partners to create a personalized user profile.
 
-** Enhancement of Marketing Profile**
+Enhancement of Marketing Profile
 
-We purchase third party marketing data and add it to our existing user database to better target our advertising and provide pertinent offers we think our users would be interested in.  We use this information to enhance or overlay the ‘profile’ of individual users. This aggregate marketing data is therefore tied to the users’ personally identifiable information.  See also the “Profile.”
+We purchase third party marketing data and add it to our existing user database to better target our advertising and provide pertinent offers we think our users would be interested in. We use this information to enhance or overlay the ‘profile’ of individual users. This aggregate marketing data is therefore tied to the users’ personally identifiable information. See also the “Profile.”
 
-** Correcting/Updating/Deleting/Deactivating Personal Information**
+Correcting/Updating/Deleting/Deactivating Personal Information
 
-If a user’s personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users’ personally identifiable information. This can  be done by the user logging in to his/her personal members area.
+If a user’s personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users’ personally identifiable information. This can be done by the user logging in to his/her personal members area.
 
-  **Notification of Changes**
+Notification of Changes
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.  We will use information in accordance with the privacy policy under which the information was collected. 
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected.
 
- If, however, we are going to use users’ personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner.  However, if users have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner.  In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web site notifying users of the change. In some cases where we post a notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices.
+If, however, we are going to use users’ personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web site notifying users of the change. In some cases where we post a notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices.
