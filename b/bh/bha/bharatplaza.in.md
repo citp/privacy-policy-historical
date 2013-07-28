@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bharatplaza.in privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615195405id_/http%3A//www.bharatplaza.in/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bharatplaza.in privacy policy that was archived on 2013-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130728101708id_/http%3A//www.bharatplaza.in/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy at Bharat Plaza
-
-### Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris risus orci, vestibulum at malesuada et, vulputate consectetur dui.
 
 We respect your privacy and are committed to maintaining it. When you shop on our Web store, we will ask you to input your information and will collect Personal Information from you such as your name, e-mail address, billing address, shipping address, telephone/ mobile number, product selections, credit card or other payment information and password.
 
