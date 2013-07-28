@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the franchisegator.com privacy policy that was archived on 2013-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130603044200id_/http%3A//www.franchisegator.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the franchisegator.com privacy policy that was archived on 2013-07-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130728183129id_/http%3A//www.franchisegator.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title>Privacy Policy | FranchiseGator.com</title>
@@ -10,6 +10,7 @@
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 <link rel="canonical" href="http://www.franchisegator.com/privacy.php">
+<link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.franchisegator.com/privacy.php">
 
 <!-- Open Graph meta tags for FACEBOOK -->
 <meta property="og:title" content="Privacy Policy">
@@ -44,36 +45,37 @@
 	<!-- end: Google Analytics -->
     
 <style type="text/css">
-@import url(/css/styles.css?dt=20130228);
-@import url(/css/colorbox.css);
-@import url(/css/old.css);
-@import url(/css/banner.css);
+	@import url(/css/styles.min.css);
+	@import url(/css/colorbox.css);
+	@import url(/css/old.css);
+	@import url(/css/banner.css);
 </style>
 <!--[if gte IE 7]><link rel="stylesheet" type="text/css" href="/css/styles-ie.css" media="screen" /><![endif]-->
 <!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/css/styles-ie7.css" media="screen" /><![endif]-->
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 <script type="text/javascript" src="/js/jquery/formalize.min.js"></script>
 <script type="text/javascript" src="/js/jquery/colorbox.js"></script>
+		
 <script type="text/javascript" src="/js/shoppingcart.js"></script>
 <script type="text/javascript" src="/js/globallibrary.js"></script>
 <script type="text/javascript">
-			var sponsorSelectionLimit = 20;
-			var franchiseListResults = null;
-			var franchiseListTotalCount = 0
-			
-			// Detect out of date browsers and encourage them to upgrade
-			<!--
-			var browser		= navigator.appName
-			var ver			= navigator.appVersion
-			var thestart	= parseFloat(ver.indexOf("MSIE"))+1 //This finds the start of the MS version string.
-			var brow_ver	= parseFloat(ver.substring(thestart+4,thestart+7)) //This cuts out the bit of string we need.
-			if ((browser=="Microsoft Internet Explorer") && (brow_ver < 7)) //By default the min. IE ver is set to 6. Change as desired.
-				{
-				window.location="/browser.html"; //URL to redirect to.
-				}
-			//-->
-		</script>
-		</head>
+	var sponsorSelectionLimit = 20;
+	var franchiseListResults = null;
+	var franchiseListTotalCount = 0;
+	
+	// Detect out of date browsers and encourage them to upgrade
+	<!--
+	var browser		= navigator.appName
+	var ver			= navigator.appVersion
+	var thestart	= parseFloat(ver.indexOf("MSIE"))+1 //This finds the start of the MS version string.
+	var brow_ver	= parseFloat(ver.substring(thestart+4,thestart+7)) //This cuts out the bit of string we need.
+	if ((browser=="Microsoft Internet Explorer") && (brow_ver < 7)) //By default the min. IE ver is set to 6. Change as desired.
+		{
+		window.location="/browser.html"; //URL to redirect to.
+		}
+	//-->
+</script>
+</head>
 <body>
 
 	<!-- facebook - as close to top as possible -->
@@ -206,9 +208,17 @@
 					</div>
                 </li>
                 <li><a href="/list-of-franchises/">Directory</a></li>
-                <li><a href="/articles/">Resources</a></li>
-                <li><a href="/videos/">Videos</a></li>
-                <li><a href="/blog/">Blog</a></li>
+                <li class="dropdowns"><a href="/articles/">Resources</a>
+                	<div class="dropdown dd130">
+                    	<div class="col_1">
+                        	<ul>
+                            	<li><a href="/articles/">Articles</a></li>
+                                <li><a href="/videos/">Videos</a></li>
+                                <li><a href="/blog/">Blog</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
                 <li id="end"></li>
             </ul>
         </div><!-- end: #nav -->
@@ -345,7 +355,8 @@
 	<li><a href="/events.php">Franchise Events</a></li>
     <li><a href="/testimonials.php">Franchisor &amp; Franchisee Testimonials</a></li>
 </ul>	<div id="selector">
-    	<div id="sleft"><h4>Franchise Selector</h4></div>
+    	<!-- Search Personalize graphic, uses jQuery fade in animation on page load, show only once based on cookie -->
+    	    	<div id="sleft"><h4>Franchise Selector</h4></div>
         <div id="sright">
             <form action="/search.php" method="GET" id="search_form" name="search_form">
                 <select id="search_category" name="category_id">
@@ -470,7 +481,12 @@
         </div><!-- end: #sright -->
         <div class="clear"></div>
     </div><!-- end: #selector -->
-        </div><!-- end: .thinnest -->
+
+<script type="text/javascript">
+$(window).load(function(){	
+	$('#search-personalize-fade').fadeIn('fast');
+});
+</script>        </div><!-- end: .thinnest -->
         
         <div class="clear"></div>
         
@@ -480,8 +496,6 @@
         <div id="toplinks">
         	<a href="/">Home</a>
 			<a href="/search.php">Franchise Selector</a>
-        	<a href="/about.php">About Franchise Gator</a>
-            <a href="/contact.php">Contact Us</a>
                         <a href="/dashboard/" class="dash">Gator Dashboard</a>
                     </div><!-- end: #toplinks -->
         
@@ -511,7 +525,6 @@
                 	<li><a href="/rssfeed/" rel="external" target="_blank"><img src="/images/social-rss32.png" alt="RSS"></a></li>
                 	<li><a href="http://www.facebook.com/pages/Franchise-Gator/113803011845" rel="external" target="_blank"><img src="/images/social-facebook32.png" alt="Facebook"></a></li>
                 	<li><a href="http://www.twitter.com/franchisegator" rel="external" target="_blank"><img src="/images/social-twitter32.png" alt="Twitter"></a></li>
-                	<li><a href="http://www.flickr.com/photos/franchisegator/" rel="external" target="_blank"><img src="/images/social-flickr32.png" alt="Flickr"></a></li>
                 	<li><a href="http://www.youtube.com/franchisegator/" rel="external" target="_blank"><img src="/images/social-youtube32.png" alt="YouTube"></a></li>
                 	<li><a href="http://www.linkedin.com/companies/franchise-gator" rel="external" target="_blank"><img src="/images/social-linkedin32.png" alt="LinkedIn"></a></li>
                 	<li><a href="https://plus.google.com/106150361918194480384?prsrc=3" rel="external" target="_blank"><img src="/images/social-googleplus32.png" alt="Google Plus"></a></li>
@@ -532,11 +545,13 @@
             
             <div id="footlinks">
             	<ul>
+                	<li><a href="/about.php">About Us</a></li>
                 	<li><a href="/contact.php">Advertiser Info</a></li>
                     <li><a href="/privacy.php">Privacy Statement</a></li>
                     <li><a href="/disclaimer.php">Terms of Use</a></li>
                     <li><a href="/sitemap.php">Sitemap</a> </li>
                     <li><a href="/press-releases/">Press</a></li>
+            		<li><a href="/contact.php">Contact Us</a></li>
                 </ul>
             </div><!-- end: #footlinks -->
         </div><!-- end: #foot -->
@@ -705,6 +720,16 @@
 
 	
 <div id="tracking">
+	<!-- Compete CrossPoint Tag for franchisegator.com -->
+	<script type="text/javascript">
+    __compete_code = '947b5b105261b6024c56e866731717e8';
+    /* Set control variables below this line. */
+    </script>
+    <script type="text/javascript" src="//c.compete.com/bootstrap/s/947b5b105261b6024c56e866731717e8/franchisegator-com/bootstrap.js"></script>
+    <noscript>
+        <img width="1" height="1" src="https://ssl-franchisegator-com-947b5b.c-col.com"/>
+    </noscript>
+    
 
     <!-- SiteCatalyst code version: H.24.4.
     Copyright 1996-2012 Adobe, Inc. All Rights Reserved
