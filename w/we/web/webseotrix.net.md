@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the webseotrix.net privacy policy that was archived on 2013-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130227020146id_/http%3A//www.webseotrix.net/p/privacy-policy_20.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webseotrix.net privacy policy that was archived on 2013-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130728183155id_/http%3A//www.webseotrix.net/p/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - WEBSEOTRIX
+# Privacy Policy
+
+[](http://1.bp.blogspot.com/-qKSmhgjgLqc/UTY2GJZnoGI/AAAAAAAAAmM/svfUc340kzU/s1600/oie_oie_animated_frame.gif)
 
 At  **WEBSEOTRIX**  , the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by   **WEBSEOTRIX**  and how it is used.
 
