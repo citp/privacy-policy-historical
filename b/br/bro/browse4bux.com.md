@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the browse4bux.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516062632id_/http%3A//browse4bux.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the browse4bux.com privacy policy that was archived on 2013-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130728115015id_/http%3A//browse4bux.com/privacy-policy) for the most accurate reproduction.*
 
 # Browse4Bux - Share The Bux!
 
