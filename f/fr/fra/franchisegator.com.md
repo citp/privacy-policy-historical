@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the franchisegator.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603044200id_/http%3A//www.franchisegator.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the franchisegator.com privacy policy that was archived on 2013-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130728183129id_/http%3A//www.franchisegator.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | FranchiseGator.com
 
