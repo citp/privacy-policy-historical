@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guardiannews.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630013331id_/http%3A//www.guardian.co.uk/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guardiannews.com privacy policy that was archived on 2013-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130730013311id_/http%3A//www.guardian.co.uk/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Info | guardian.co.uk
 
