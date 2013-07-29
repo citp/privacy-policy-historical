@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beemp3.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517033453id_/http%3A//beemp3.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beemp3.com privacy policy that was archived on 2013-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130729172211id_/http%3A//beemp3.com/privacy.html) for the most accurate reproduction.*
 
 # Beemp3.com - MP3 Download - Privacy Policy
 
