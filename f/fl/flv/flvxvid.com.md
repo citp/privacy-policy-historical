@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flvxvid.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529203656id_/http%3A//flvxvid.com/privacy.html%3FKeepThis%3Dtrue%26TB_iframe%3Dtrue%26height%3D400%26width%3D800) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flvxvid.com privacy policy that was archived on 2013-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130729123943id_/http%3A//flvxvid.com/privacy.html%3FKeepThis%3Dtrue%26TB_iframe%3Dtrue%26height%3D400%26width%3D800) for the most accurate reproduction.*
 
 # FLV Xvid Player -Privacy
 
