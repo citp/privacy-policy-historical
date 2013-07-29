@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fileplay.net privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610181950id_/http%3A//www.multiplay.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fileplay.net privacy policy that was archived on 2013-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130729044139id_/http%3A//www.multiplay.co.uk/privacy) for the most accurate reproduction.*
 
 # Multiplay - Privacy Policy
 
