@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the articlemarketingpal.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115230514id_/http%3A//www.articlemarketingpal.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlemarketingpal.com privacy policy that was archived on 2013-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130729143654id_/http%3A//www.articlemarketingpal.com/privacy.html) for the most accurate reproduction.*
 
 # Article Marketing Service Privacy Policy
 
-[](https://web.archive.org/web/20130115230514id_/http%3A//www.articlemarketingpal.com/index.html#order) |  | 
+[](https://web.archive.org/web/20130729143654id_/http%3A//www.articlemarketingpal.com/index.html#order) |  | 
 
 **Privacy Policy**
 
