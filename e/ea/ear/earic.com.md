@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earic.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529012006id_/http%3A//www.earic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earic.com privacy policy that was archived on 2013-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130729052518id_/http%3A//www.earic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Education
 
