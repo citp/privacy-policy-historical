@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the advisorone.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423103315id_/http%3A//www.advisorone.com/pages/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advisorone.com privacy policy that was archived on 2013-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130729111337id_/http%3A//www.advisorone.com/pages/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy | AdvisorOne
+# Privacy Policy | ThinkAdvisor
+
+Be the first to know of ThinkAdvisor updates and new community features we're launching to help advisors grow their businesses.
+
+Close
 
 This privacy statement explains the procedures followed by Summit Business Media in collecting and using information regarding visitors to this Web site and advises you what information might be shared with third parties. The type of information collected will vary depending upon the portions of the site which you visit and, in certain instances, which you voluntarily disclose.
 
