@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the y8gamesfun.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628113212id_/http%3A//www.y8gamesfun.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the y8gamesfun.com privacy policy that was archived on 2013-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130729041548id_/http%3A//www.y8gamesfun.com/pp.html) for the most accurate reproduction.*
 
 # Privacy Policy - www.bugy.com
 
