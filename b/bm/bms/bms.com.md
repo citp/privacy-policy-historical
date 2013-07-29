@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bms.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613133601id_/http%3A//www.bms.com/legal/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bms.com privacy policy that was archived on 2013-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130729120138id_/http%3A//www.bms.com/legal/Pages/privacy.aspx) for the most accurate reproduction.*
 
 # Bristol-Myers Squibb: Privacy Statement
 
