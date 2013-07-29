@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the npdor.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628072627id_/http%3A//npdor.com/English/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the npdor.com privacy policy that was archived on 2013-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130729025130id_/http%3A//www.npdor.com/English/privacy.asp) for the most accurate reproduction.*
 
 # NPD Online Research - Making your opinions count
 
@@ -57,7 +57,7 @@ Participation is voluntary. You have the option to disable Facebook Connect or o
 
 **Correcting/Updating Your Information**
 
-We encourage our Members to keep their information as up-to-date as possible. To change your e-mail address, Member name, password, or make changes to the demographic and other profile information you provided during the registration process, please visit: http://www.npdor.com and log in. Once you log in, please visit ["Change My Info"](https://web.archive.org/web/20130628072627id_/http%3A//npdor.com/English/memberservices.asp).
+We encourage our Members to keep their information as up-to-date as possible. To change your e-mail address, Member name, password, or make changes to the demographic and other profile information you provided during the registration process, please visit: http://www.npdor.com and log in. Once you log in, please visit ["Change My Info"](https://web.archive.org/web/20130729025130id_/http%3A//www.npdor.com/English/memberservices.asp).
 
 If you are a SweepLand member, you may change your name, mailing address and e-mail preferences by visiting [www.sweepland.com](http://www.sweepland.com/). Then, after logging in, please click on 'My Account'. 
 
