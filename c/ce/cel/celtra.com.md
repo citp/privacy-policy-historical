@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celtra.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607061621id_/http%3A//www.celtra.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celtra.com privacy policy that was archived on 2013-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130730201117id_/http%3A//www.celtra.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Rich media mobile advertising - Celtra
 
@@ -20,7 +20,7 @@ Celtra and third party service providers and partners of Celtra may use "cookies
 
 ## Collection of Information through the Celtra Services
 
-When you interact with our Celtra Services, we may collect non-PII information such as the time spent viewing an ad, pageviews, video views number of ads clicked and other information about your interaction with the ads. We may use the information internally for any lawful purpose. Additionally, we may share this information with various third parties, including our publishers and advertiser partners. It is important to note that the
+When you interact with our Celtra Services, we may collect non-PII information such as the time spent viewing an ad, pageviews, video views number of ads clicked and other information about your interaction with the ads. We may use the information internally for any lawful purpose. Additionally, we may share this information with various third parties, including our publishers and advertiser partners. It is important to note that the PII is only collected through the Celtra Services when you affirmatively elect to provide such information to a publisher/advertiser.
 
 ### How we use your Personal Information
 
