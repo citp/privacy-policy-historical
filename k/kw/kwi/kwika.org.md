@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kwika.org privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627172328id_/http%3A//www.kwika.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kwika.org privacy policy that was archived on 2013-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130730051750id_/http%3A//www.kwika.org/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Web Listings & Resources Directory
 
