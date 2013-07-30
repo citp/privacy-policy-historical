@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mp4converter.net privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424184855id_/http%3A//www.mp4converter.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp4converter.net privacy policy that was archived on 2013-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130730151810id_/http%3A//www.mp4converter.net/privacy-policy.html) for the most accurate reproduction.*
 
 # 4Media Software Studio - Privacy Policy
 
