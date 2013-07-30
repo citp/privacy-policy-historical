@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blissworld.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425220655id_/http%3A//www.blissworld.com/t-customerserviceprivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blissworld.com privacy policy that was archived on 2013-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130730063806id_/http%3A//www.blissworld.com/t-customerserviceprivacy.aspx) for the most accurate reproduction.*
 
 # Customer Service - Privacy and Security - Blissworld
 
@@ -8,7 +8,7 @@ There may be times (such as when you purchase or order a product, subscribe to s
 
 Your e-mail information is not shared with other organizations for commercial purposes. We do not collaborate with or have special relationships with any ad server companies. We use the personally identifiable information you provide for internal purposes, such as confirming and tracking your order, subscription or registration, analyzing tends and statistics, informing you of our new products, services and offers, and providing you with information from and about Bliss brands. To serve you better, we may combine information you give us online, in our spas or through our catalogs.
 
-If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at 888-243-8825, contacting us online at [https://www.blissworld.com/contactus.aspx](https://web.archive.org/contactus.aspx), writing to us at Bliss Direct Inc, 75 Varick Street, New York, NY 10013 Attention: Customer Service, or faxing us at 212-380-4644. 
+If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at 888-243-8825, contacting us online at [http://www.blissworld.com/contactus.aspx](https://web.archive.org/contactus.aspx), writing to us at Bliss Direct Inc, 75 Varick Street, New York, NY 10013 Attention: Customer Service, or faxing us at 212-380-4644. 
 
 Occasionally, we make our mailing list available to carefully selected companies whose products and services maybe of interest to our customers. If you do not wish to receive such mailings, you can, have your name put on our do-not-share list by calling us at the number provided above, writing to us at the below address, or faxing us at 212 931 6376. Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations. Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
 
@@ -20,7 +20,7 @@ By providing your personal information to Bliss, you authorize Bliss, and its pa
 
 If you prefer not to receive information from us, or wish to correct your information, please let us know by: 
 
-Online: [https://www.blissworld.com/contactus.aspx](https://web.archive.org/contactus.aspx)
+Online: [http://www.blissworld.com/contactus.aspx](https://web.archive.org/contactus.aspx)
 
 Phone: 888-243-8825 
 
