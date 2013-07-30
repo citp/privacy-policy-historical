@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seducedmature.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530225315id_/http%3A//www.seducedmature.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seducedmature.com privacy policy that was archived on 2013-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130730100148id_/http%3A//www.seducedmature.com/privacy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
