@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isurveyworld.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629000253id_/http%3A//isurveyworld.com/pol_priv.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isurveyworld.com privacy policy that was archived on 2013-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130730050818id_/http%3A//www.isurveyworld.com/pol_priv.php) for the most accurate reproduction.*
 
 # None
 
