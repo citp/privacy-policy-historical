@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megaup1oad.net privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226055450id_/http%3A//www.megaup1oad.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megaup1oad.net privacy policy that was archived on 2013-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130730113515id_/http%3A//www.megaup1oad.net/privacy.html) for the most accurate reproduction.*
 
 # 
 
