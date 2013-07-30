@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneyforgenius.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530033152id_/http%3A//moneyforgenius.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyforgenius.com privacy policy that was archived on 2013-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130731003328id_/http%3A//moneyforgenius.com/privacy-policy) for the most accurate reproduction.*
 
 # Your Brilliant Way to Manage Money Resource
 
