@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vidshare.ws privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628150928id_/http%3A//vidshare.ws/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidshare.ws privacy policy that was archived on 2013-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130731064745id_/http%3A//vidshare.ws/privacy.php) for the most accurate reproduction.*
 
 # vidshare - Just watch it!
 
