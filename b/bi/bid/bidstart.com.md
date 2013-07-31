@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bidstart.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527061405id_/http%3A//www.bidstart.com/wiki/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidstart.com privacy policy that was archived on 2013-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130731091531id_/http%3A//www.bidstart.com/wiki/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy - StampWantsWiki
 
