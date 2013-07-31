@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostmetro.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425221150id_/http%3A//www.hostmetro.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostmetro.com privacy policy that was archived on 2013-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130731100131id_/http%3A//www.hostmetro.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | HostMetro.com
 
