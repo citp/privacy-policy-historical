@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arzoo.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614011607id_/http%3A//arzoo.com/general/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arzoo.com privacy policy that was archived on 2013-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130731185119id_/http%3A//www.arzoo.com/general/privacypolicy.jsp) for the most accurate reproduction.*
 
 # :: Arzoo::
 
