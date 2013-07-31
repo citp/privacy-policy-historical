@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bringvisitor.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611083931id_/http%3A//bringvisitor.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bringvisitor.com privacy policy that was archived on 2013-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130731181022id_/http%3A//bringvisitor.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - www.bringvisitor.com
 
