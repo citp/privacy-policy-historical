@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jackssmallengines.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628112411id_/http%3A//www.jackssmallengines.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jackssmallengines.com privacy policy that was archived on 2013-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130731044957id_/http%3A//www.jackssmallengines.com/privacy_policy.cfm) for the most accurate reproduction.*
 
 # Jack's Small Engines Privacy Policy and Security Statement
 
