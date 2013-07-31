@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the review-and-bonus.net privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531213504id_/http%3A//review-and-bonus.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the review-and-bonus.net privacy policy that was archived on 2013-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130731180051id_/http%3A//review-and-bonus.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Review And Bonus
 
