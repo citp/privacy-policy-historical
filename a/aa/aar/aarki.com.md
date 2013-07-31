@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aarki.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115155741id_/http%3A//aarki.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aarki.com privacy policy that was archived on 2013-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130731161324id_/http%3A//aarki.com/privacy) for the most accurate reproduction.*
 
-# Aarki | Mobile Advertising | Mobile Ad Network
+# Developers | Aarki
 
 * _PERSONAL INFORMATION_. We will not sell, distribute or rent your Personal Information with any third parties without your consent, except to our trusted business partners for the purpose of providing you with, and operating and maintaining, the Site and Services, to comply with applicable law or as otherwise specified herein. We may use your Personal Information and/or share it with certain third parties to activate and maintain your account, verify your identity, check your qualifications, or follow up or resolve with transactions or queries initiated on the Site, including, but not limited to, processing your credit card payment or other payment, if applicable. We may also use your contact information to inform you of any changes to the Site or Services, respond to your questions, inquiries, comments and instructions, take good faith steps to enforce the terms of use with respect to the Site and Services, maintain the security and integrity of the Site and Services or our systems, or to send you additional information about Aarki.
 
