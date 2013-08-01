@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the signpost.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521161109id_/https%3A//www.signpost.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the signpost.com privacy policy that was archived on 2013-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130801180726id_/http%3A//www.signpost.com/privacy_policy) for the most accurate reproduction.*
 
 # Signpost | Privacy Policy
 
@@ -55,7 +55,7 @@ Our Web site includes Social Media Features, such as the Facebook Like button an
 
 In addition to the information provided automatically by your browser when you visit the Site, you may choose to provide us with personally identifiable information in connection with your visit to the Site or use of the Services, such as your email address, name and your business' name, payment information and postal address. You may also submit information in connection with vouchers, including merchant, business or service name, location, offer descriptions, product names, store information, discounts, conditions of offers, restrictions and exclusions of offers, expiration date, or any other content relating to offers or promotions. If you purchase merchant vouchers via the Site, you may be required to provide sensitive billing information including credit card information and billing address. To use elements of the Services you may need to create a merchant profile. You can create a profile by registering directly through the Site and entering your email address, and creating a user name and a password. By registering, you are authorizing us to collect, store and use your email address in accordance with this Privacy Policy. 
 
-##### No Use of Our Site by Persons uder 13
+##### No Use of Our Site by Persons under 13
 
 The Site is not intended for use by anyone under 18, except with the explicit permission and under the supervision of a parent or guardian who accepts full legal responsibility for the minor's use. No person under 13 should disclose information on this Site. Signpost doesn't knowingly collect or use personally identifiable information from children under 13. If a child under 13 has provided us with personally identifiable information without parental or guardian consent, the parent or guardian should contact us at the email address provided below to remove the information and opt out of promotional opportunities. You may learn more about protecting children's privacy online by visiting www.ftc.gov/kidzprivacy. 
 
