@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joytunes.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630123842id_/http%3A//www.joytunes.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joytunes.com privacy policy that was archived on 2013-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130801202025id_/http%3A//www.joytunes.com/privacy.php) for the most accurate reproduction.*
 
 # JoyTunes | Privacy Policy
 
