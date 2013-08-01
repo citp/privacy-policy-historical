@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the vdopia.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118040044id_/https%3A//mobile.vdopia.com/index.php%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vdopia.com privacy policy that was archived on 2013-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130801181348id_/http%3A//www.vdopia.com/mobile/vdopia-network-privacy-policy) for the most accurate reproduction.*
 
-# iPhone iPad Android BlackBerry Mobile Advertising Solutions, Game Sponsorship & Video Monetization, Promote Your Apps @ Vdopia
+# VDOPIA Network Privacy Policy | Vdopia Inc. - The Leader in Mobile Video Advertising
 
-Vdopia provides an advertising platform for mobile media and related services to connect advertisers that are part of the Vdopia's network (" **Advertisers** ") with publishers of mobile applications and mobile websites (" **Publishers** "), by facilitating the sending of advertisements through such platform (" **Ads** "). This Privacy Policy is made available on our website at <http://www.vdopia.com/> (the " **Site** "), and provides information on our policies and procedures regarding the collection, use and disclosure of personal information we receive from consumers who view and/or interact with Ads (" **Consumers** "). We will notify you of any material changes by posting the new Privacy Policy on the Site. You are advised to consult this Privacy Policy regularly for any changes. 
+Vdopia provides an advertising platform for mobile media and related services to connect advertisers that are part of the Vdopia's network (" **Advertisers** ") with publishers of mobile applications and mobile websites (" **Publishers** "), by facilitating the sending of advertisements through such platform (" **Ads** "). This Privacy Policy is made available on our website at <http://www.vdopia.com/> (the " **Site** "), and provides information on our policies and procedures regarding the collection, use and disclosure of personal information we receive from consumers who view and/or interact with Ads (" **Consumers** "). We will notify you of any material changes by posting the new Privacy Policy on the Site. You are advised to consult this Privacy Policy regularly for any changes.
 
 As used in this Privacy Policy, the terms "using" and "processing" information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization or among our affiliates within the United States or internationally.
 
-Consumer Information: Collection, Use, and Sharing
+## Consumer Information: Collection, Use, and Sharing
 
-This section of the Privacy Policy applies to information that Vdopia may collect, access and/or obtain about Consumers who view Ads while using or accessing a Publisher's mobile application or mobile site (collectively, " **Mobile Media** "). 
+This section of the Privacy Policy applies to information that Vdopia may collect, access and/or obtain about Consumers who view Ads while using or accessing a Publisher's mobile application or mobile site (collectively, " **Mobile Media** ").
 
-Our primary goals in collecting, accessing or obtaining information are to deliver tailored Ads based on the inferred interests of Consumers, and measure their effectiveness with Consumers. We do this by utilizing the non-identifying information that we collect access or obtain through cookies and Pixel Tags (defined below) embedded on a Mobile Media on which you view Ads, in conjunction with the information about you that is provided by you or provided to us by our Publishers, to personalize the content of Ads that you see. You can opt-out of receiving targeted Ads as described below. 
+Our primary goals in collecting, accessing or obtaining information are to deliver tailored Ads based on the inferred interests of Consumers, and measure their effectiveness with Consumers. We do this by utilizing the non-identifying information that we collect access or obtain through cookies and Pixel Tags (defined below) embedded on a Mobile Media on which you view Ads, in conjunction with the information about you that is provided by you or provided to us by our Publishers, to personalize the content of Ads that you see. You can opt-out of receiving targeted Ads as described below.
 
   * Our Publishers allow us to serve Ads on their Mobile Media. We use technology to send, directly to your browser or mobile application, the advertisements and links that appear on the Mobile Media. If you use a Mobile Media, we automatically receive your IP address and mobile device ID when this happens, and we use other technologies (such as cookies and Pixel Tags, as described below) to measure the effectiveness of the Ads and to personalize the advertising content that you see on the Mobile Media. We also collect, access or obtain other non-identifying information in conjunction with your IP address and/or device ID; these non-identifying details include, but are not limited to, the website you are logged onto or the application you are using, the geographic location of the IP address you are using to access the Internet, the type of browser used, which and how many web pages have been viewed by you, which applications you have used, search terms used, referring/exit pages, platform type and date/time information. We do not collect, access or obtain personally identifiable information (such as name, username, address, phone number or email address) from you when you view or interact with Ads.
   * We may also receive from Publishers additional, non-identifying information that they collect about you, such as location information or demographic information. We encourage you to read the privacy policies or statements of the Mobile Media you visit. Vdopia's Privacy Policy does not apply to, and we cannot control the activities of, Advertisers, Publishers or other websites.
@@ -18,40 +18,42 @@ Our primary goals in collecting, accessing or obtaining information are to deliv
 
 
 
-Cookies
+## Cookies
 
 We use cookies in connection with Ads served through our platform. A cookie is a small data file that we transfer to your mobile device's memory for record-keeping purposes when you are served an Ad. Cookies help us better understand the effectiveness of an Ad (for example, by tracking the way in which you respond to, select and interact with an Ad or any content provided therein, or the location and context in which you view an Ad). Our cookies do not contain any personally identifiable information and they can help control the number of times you view an Ad.
 
-Pixel Tags
+## Pixel Tags
 
 We may also use "pixel tags" "web beacons", "clear GIFs" or similar means (individually or collectively " **Pixel Tags** ") to analyze usage patterns of Consumers and to serve Ads to you that are tailored based on our analysis. A Pixel Tag is an electronic image, often a single pixel, which is typically a transparent graphic image (usually 1 pixel x 1 pixel) that is placed on a webpage or in a mobile application and may be associated with cookies on your hard drive. Pixel Tags allow us to count users who have visited certain Mobile Media and pages within Mobile Media, to personalize the Ads, and to help determine the effectiveness of promotional or advertising campaigns.
 
-Opt-Out
+## Opt-Out
 
 If you prefer that Vdopia not use any cookies for the purpose of sending targeting Ads to you, you can click the "Opt Out Now" button at <http://www.vdopia.com/w3c/optout.php?portal=i> Note that the Vdopia opt-out tool is cookie-based. This means that, if you have cookies blocked, you will not be able to use it. Furthermore, if you delete your cookies, the opt-out cookie will also be deleted, and you will need to opt-out again. Finally, note that once the opt-out has been completed, you will still receive Ads, but such Ads will not be targeted.
 
-Advertisement Links
+## Advertisement Links
 
 The Ads may contain links to other websites, including those of Advertisers and Publishers. Such websites may use cookies and/or other data collection tools. Vdopia is not responsible for the privacy practices, policies or the content of such websites. Vdopia encourages you to read the posted privacy policies whenever interacting with any website to learn more about the privacy practices of that website. Vdopia has no control over the use of your personally identifiable information by third party websites, and you should exercise caution when deciding to disclose any personally identifiable information. Additionally, Vdopia does not have access to, or control of, the cookies and/or other data collection tools that may be placed on any advertisement by a third party, including those of our Vdopia Customers, and this Privacy Policy does not cover the use of cookies and/or other data collection tools by any third party.
 
-Information Sharing and Disclosure
+## Information Sharing and Disclosure
 
-**Service Providers :** We may employ third party companies and individuals to facilitate our advertising platform and to provide our advertising platform on our behalf (e.g., without limitation, maintenance services, database management, web analytics and improvement of our advertising platform's features). These third parties have access to information collected under this Privacy Policy, only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose. 
+**Service Providers** : We may employ third party companies and individuals to facilitate our advertising platform and to provide our advertising platform on our behalf (e.g., without limitation, maintenance services, database management, web analytics and improvement of our advertising platform's features). These third parties have access to information collected under this Privacy Policy, only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
 
-**Compliance with Laws and Law Enforcement :** Vdopia cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of Vdopia or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, illegal, unethical or legally actionable activity. 
+**Compliance with Laws and Law Enforcement** : Vdopia cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of Vdopia or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, illegal, unethical or legally actionable activity.
 
-**Business Transfers :** Vdopia may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.
+**Business Transfers** : Vdopia may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.
 
-Security
+## Security
 
 Vdopia is very concerned with safeguarding the information that we collect. We employ reasonable physical, technological, and administrative security measures. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect the information that we collect, we cannot guarantee its absolute security.
 
-International Transfer
+## International Transfer
 
 Your information may be transferred to -- and maintained on -- computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to us, Vdopia transfers personally identifiable information to the United States and processes it there. Your consent to this Privacy Policy followed by your submission of such information, or your submission of such information to us or one of our Publishers represents your agreement to such transfer.
 
-Our Policy Toward Children
+## Our Policy Toward Children
 
-Our services are not directed to children under 13. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should contact us at [mobile-privacy@vdopia.com](mailto:mobile-privacy@vdopia.com) If we become aware that a child under 13 has provided us with personally identifiable information, we will delete such information from our files.
+Our services are not directed to children under 13. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should contact us at mobile-privacy [at] vdopia [dot] com If we become aware that a child under 13 has provided us with personally identifiable information, we will delete such information from our files.
 
-Contacting Us
+## Contacting Us
+
+If you have any questions about this Privacy Policy, please contact us at mobile-privacy [at] vdopia [dot] com
