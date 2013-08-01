@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 19nitten.com privacy policy that was archived on 2010-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100105202352id_/http%3A//www.19nitten.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 19nitten.com privacy policy that was archived on 2013-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130801182532id_/http%3A//www.19nitten.com/privacy.html) for the most accurate reproduction.*
 
 # 19nitten: Privacy Policy
 
