@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viralmailprofits.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621100417id_/http%3A//www.viralmailprofits.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralmailprofits.com privacy policy that was archived on 2013-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130801223846id_/http%3A//www.viralmailprofits.com/privacy.php) for the most accurate reproduction.*
 
 # Viral Mail Profits | Mailing To The Max!
 
@@ -16,4 +16,4 @@ Financial information is used solely to bill the user for products and/or servic
 
 VMP reserves the right to investigate using any and all means necessary, should there be reason to believe unauthorized transactions are processed in your name. We will then take every precaution possible to protect our members from identify theft both here at VMP and elsewhere.
 
-[Home](https://web.archive.org/web/20130621100417id_/http%3A//www.viralmailprofits.com/index.php) | [Join](https://web.archive.org/web/20130621100417id_/http%3A//www.viralmailprofits.com/newuser.php) | [Login](https://web.archive.org/web/20130621100417id_/http%3A//www.viralmailprofits.com/login.php) | [Contact Us](https://web.archive.org/web/20130621100417id_/http%3A//www.viralmailprofits.com/tickets.php) | [Terms](https://web.archive.org/web/20130621100417id_/http%3A//www.viralmailprofits.com/terms.php) | [Privacy](https://web.archive.org/web/20130621100417id_/http%3A//www.viralmailprofits.com/privacy.php)
+[Home](https://web.archive.org/web/20130801223846id_/http%3A//www.viralmailprofits.com/index.php) | [Join](https://web.archive.org/web/20130801223846id_/http%3A//www.viralmailprofits.com/newuser.php) | [Login](https://web.archive.org/web/20130801223846id_/http%3A//www.viralmailprofits.com/login.php) | [Contact Us](https://web.archive.org/web/20130801223846id_/http%3A//www.viralmailprofits.com/tickets.php) | [Terms](https://web.archive.org/web/20130801223846id_/http%3A//www.viralmailprofits.com/terms.php) | [Privacy](https://web.archive.org/web/20130801223846id_/http%3A//www.viralmailprofits.com/privacy.php)
