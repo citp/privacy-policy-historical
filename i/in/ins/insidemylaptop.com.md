@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insidemylaptop.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510050924id_/http%3A//www.insidemylaptop.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidemylaptop.com privacy policy that was archived on 2013-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130801063103id_/http%3A//www.insidemylaptop.com/privacy.html) for the most accurate reproduction.*
 
 # None
 
