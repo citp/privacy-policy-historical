@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tomtest.net privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601093658id_/http%3A//tomtest.net%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomtest.net privacy policy that was archived on 2013-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130801072851id_/http%3A//tomtest.net%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy | TomTest.net | Get Your Premiums Here!
 
