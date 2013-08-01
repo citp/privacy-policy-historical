@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchcriclive.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614231004id_/http%3A//www.watchcriclive.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchcriclive.com privacy policy that was archived on 2013-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130801092856id_/http%3A//www.watchcriclive.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy | WatchCricLive.com
 
