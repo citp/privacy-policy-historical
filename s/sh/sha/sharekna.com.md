@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharekna.com privacy policy that was archived on 2013-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130419022822id_/http%3A//sharekna.com/en/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharekna.com privacy policy that was archived on 2013-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130801211458id_/http%3A//www.sharekna.com/en/pages/privacy) for the most accurate reproduction.*
 
 # Sharekna :: The free online Video and Photo sharing for the Arab world
 
