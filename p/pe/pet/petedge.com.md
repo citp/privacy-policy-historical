@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petedge.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616011121id_/http%3A//www.petedge.com/custserv/custserv.jsp%3FpageName%3Dprivacy_security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petedge.com privacy policy that was archived on 2013-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130801081122id_/http%3A//www.petedge.com/custserv/custserv.jsp%3FpageName%3Dprivacy_security) for the most accurate reproduction.*
 
 # Privacy & Security | PetEdge.com
 
