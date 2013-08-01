@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the osiaffiliate.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630124130id_/http%3A//www.osiaffiliate.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osiaffiliate.com privacy policy that was archived on 2013-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130801231158id_/http%3A//www.osiaffiliate.com/privacy.htm) for the most accurate reproduction.*
 
 # affiliate software - privacy
 
