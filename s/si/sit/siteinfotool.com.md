@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siteinfotool.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518092726id_/http%3A//www.siteinfotool.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siteinfotool.com privacy policy that was archived on 2013-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130802010905id_/http%3A//www.siteinfotool.com/Privacy) for the most accurate reproduction.*
 
 # Privacy
 
