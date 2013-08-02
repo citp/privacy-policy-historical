@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yapaa.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515075917id_/http%3A//www.yapaa.com/content/10-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yapaa.com privacy policy that was archived on 2013-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130802050523id_/http%3A//www.yapaa.com/content/10-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Yapaa.com
 
