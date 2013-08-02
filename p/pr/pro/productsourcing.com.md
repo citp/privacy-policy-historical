@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the productsourcing.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116045058id_/http%3A//www.productsourcing.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the productsourcing.com privacy policy that was archived on 2013-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130802052739id_/http%3A//www.productsourcing.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | ProductSourcing.com
 
@@ -94,7 +94,7 @@ When our registration/order form asks users to enter sensitive information (such
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Finally, the servers that store personally identifiable information are in a secure environment, behind a locked cage in a locked facility.
 
-ProductSourcing.com reserves the right to make any amendments, modifications or changes to this Privacy Policy at any time. If any material change is made to this Privacy Policy, we will notify our users about those changes via email. If you do not agree to such changes, you can modify your notification settings to opt out of certain notices from ProductSourcing.com or its marketing partners. If users have any questions about the security at our website, users can send an email to [support@productsourcing.com](https://web.archive.org/web/20130116045058id_/http%3A//www.productsourcing.com/support@productsourcing.com).
+ProductSourcing.com reserves the right to make any amendments, modifications or changes to this Privacy Policy at any time. If any material change is made to this Privacy Policy, we will notify our users about those changes via email. If you do not agree to such changes, you can modify your notification settings to opt out of certain notices from ProductSourcing.com or its marketing partners. If users have any questions about the security at our website, users can send an email to [support@productsourcing.com](https://web.archive.org/web/20130802052739id_/http%3A//www.productsourcing.com/support@productsourcing.com).
 
 ### Our commitment to children's privacy
 
