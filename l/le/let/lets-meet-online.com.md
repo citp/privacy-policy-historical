@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lets-meet-online.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516171430id_/http%3A//www.lets-meet-online.com/privacy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lets-meet-online.com privacy policy that was archived on 2013-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130802072206id_/http%3A//www.lets-meet-online.com/privacy/privacy_policy.html) for the most accurate reproduction.*
 
-# privacy - Let's Meet Online
+# privacy - Lets Meet Online
 
 ### Privacy Policy
 
