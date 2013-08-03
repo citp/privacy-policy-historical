@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noktadomains.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622161843id_/http%3A//www.noktadomains.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noktadomains.com privacy policy that was archived on 2013-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130803093751id_/http%3A//www.noktadomains.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
