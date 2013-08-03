@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultimatesoftware.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625082710id_/http%3A//www.ultimatesoftware.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimatesoftware.com privacy policy that was archived on 2013-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130803094156id_/http%3A//www.ultimatesoftware.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Ultimate Software Privacy Policy
 
@@ -24,7 +24,7 @@ Ultimate Software collects Personal Information about a visitor to our website o
 
  _Website / Cookies_
 
-In order to improve the content and format of our site, Ultimate Software uses Web site tracking software to automatically capture technical information that is then stored in our server’s log files. This information may include, but is not limited to, user domain, the type of Internet browser being used, which of our Web pages is visited, and the amount of time spent on our site. 
+In order to improve the content and format of our site, Ultimate Software uses website tracking software to automatically capture technical information that is then stored in our server’s log files. This information may include, but is not limited to, user domain, the type of Internet browser being used, which of our Web pages is visited, and the amount of time spent on our site. 
 
 In addition, some of Ultimate Software’s Web pages may contain "cookies." A cookie is a small amount of data which our website stores on your computer, and which we can later retrieve. The cookie cannot be read by a site other than ours. We use cookies for a number of administrative purposes; for example, to store your preferences for certain kinds of information. No cookie will contain information that will allow anyone to contact you via telephone, e-mail, or any other means. You can monitor our use of cookies on your computer by setting your Web browser to inform you when cookies are set, or you can prevent the cookies from being set entirely. The “help” portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Please understand that if you disable the use of cookies on your computer, you may be unable to access certain portions or services on our websites. 
 
@@ -54,7 +54,7 @@ These third parties may have access to your Personal Information only to the ext
 
 ## Links to Non-Ultimate Software websites and Third Parties
 
-Ultimate Software’s websites may contain links to third-party sites for your convenience and/or information. If you access those links, you will leave Ultimate Software’s website and be re-directed to a third-party site. Ultimate Software does not control those sites or the privacy practices of those third-party sites, which may differ from Ultimate Software’s privacy practices. We do not endorse or make any representations about third-party Web sites, and the personal data you choose to provide to third-party websites is not covered by this Privacy Policy. We encourage you to review the privacy policy of any website or company before submitting your Personal Information to them. 
+Ultimate Software’s websites may contain links to third-party sites for your convenience and/or information. If you access those links, you will leave Ultimate Software’s website and be re-directed to a third-party site. Ultimate Software does not control those sites or the privacy practices of those third-party sites, which may differ from Ultimate Software’s privacy practices. We do not endorse or make any representations about third-party websites, and the personal data you choose to provide to third-party websites is not covered by this Privacy Policy. We encourage you to review the privacy policy of any website or company before submitting your Personal Information to them. 
 
 ## Access
 
@@ -91,8 +91,8 @@ Weston, FL 33326
 
 ## Dispute Resolution
 
-Ultimate Software will investigate and attempt to resolve complaints and disputes regarding the use and disclosure of Personal Information in accordance with the principles contained in this Policy. Ultimate Software agrees to cooperate with data protection authorities located in the European Union or authorized representatives for disputes specific to Human Resource information received from the European Union and Switzerland. All other disputes that cannot be resolved between Ultimate Software and the complainant will be handled in accordance with applicable dispute resolution procedures through the American Arbitration Association, which are available for review at [www.adr.org](http://www.adr.org/). We strongly encourage you to raise any complaints you may have with regard to this Privacy Policy and/or our activation of this Policy to us prior to proceeding to the arbitration procedure described in this paragraph. 
+Ultimate Software will investigate and attempt to resolve complaints and disputes regarding the use and disclosure of Personal Information in accordance with the principles contained in this Policy. Ultimate Software agrees to cooperate with data protection authorities located in the European Union or authorized representatives for disputes specific to Human Resource information received from the European Union and Switzerland. All other disputes that cannot be resolved between Ultimate Software and the complainant will be handled in accordance with applicable dispute resolution procedures through the International Centre for Dispute Resolution, the international division of the American Arbitration Association, which are available for review at [www.adr.org](http://www.adr.org/). We strongly encourage you to raise any complaints you may have with regard to this Privacy Policy and/or our activation of this Policy to us prior to proceeding to the arbitration procedure described in this paragraph. 
 
 ## Changes to This Privacy Policy
 
-The practices described in this Policy are the current Personal Information protection policies as of July 18, 2012. Ultimate Software reserves the right to modify or amend this Policy at any time consistent with the requirements of the Safe Harbor Principles. Updates will be posted to this site. 
+The practices described in this Policy are the current Personal Information protection policies as of July 15, 2013. Ultimate Software reserves the right to modify or amend this Policy at any time consistent with the requirements of the Safe Harbor Principles. Updates will be posted to this site. 
