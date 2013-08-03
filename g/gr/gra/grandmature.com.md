@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grandmature.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603101021id_/http%3A//www.maturetube.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grandmature.com privacy policy that was archived on 2013-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130803175249id_/http%3A//www.maturetube.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
