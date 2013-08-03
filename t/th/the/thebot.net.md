@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebot.net privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031002401id_/http%3A//thebot.net/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebot.net privacy policy that was archived on 2013-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130803064816id_/http%3A//thebot.net/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # TheBot.net
 
