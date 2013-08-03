@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seoindiacompany.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607084510id_/http%3A//www.seoindiacompany.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoindiacompany.com privacy policy that was archived on 2013-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130803052352id_/http%3A//www.seoindiacompany.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,7 +32,7 @@ Our site has stringent security measures in place to protect the loss, misuse, a
 
 **6\. Choice/Opt-Out**   
 Profitbysearch.com provides all users with the opportunity to opt-out of receiving non-essential (promotional, marketing-related) communications from us on behalf of our partners, and from us in general, after setting up an account.  
-If you want to remove your contact information from all Profitbysearch.com lists and newsletters, please visit[http://www.profitbysearch.com/unsubscribe.php](http://www.seoindiacompany.com/unsubscribe.php)
+If you want to remove your contact information from all Profitbysearch.com lists and newsletters, please visit<http://www.seoindiacompany.com/unsubscribe.php>
 
 **7\. Advertisements on Profitbysearch.com**   
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
@@ -66,7 +66,7 @@ Our site has stringent security measures in place to protect the loss, misuse, a
 
 **6\. Choice/Opt-Out**   
 Profitbysearch.com provides all users with the opportunity to opt-out of receiving non-essential (promotional, marketing-related) communications from us on behalf of our partners, and from us in general, after setting up an account.  
-If you want to remove your contact information from all Profitbysearch.com lists and newsletters, please visit[http://www.profitbysearch.com/unsubscribe.php](http://www.seoindiacompany.com/unsubscribe.php)
+If you want to remove your contact information from all Profitbysearch.com lists and newsletters, please visit<http://www.seoindiacompany.com/unsubscribe.php>
 
 **7\. Advertisements on Profitbysearch.com**   
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. 
