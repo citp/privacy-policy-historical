@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scot.nhs.uk privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530105808id_/http%3A//scot.nhs.uk/policies/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scot.nhs.uk privacy policy that was archived on 2013-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130804014930id_/http%3A//scot.nhs.uk/policies/Privacy.aspx) for the most accurate reproduction.*
 
 # SHOW - Scotland's Health On the Web
 
@@ -50,7 +50,7 @@ Should you have any concern over the use of cookies in regard to sites which req
 
 **Further Guidance**
 
-This website is compliant with the Information Commissioners Office (ICO) [Guidance on the rules on use of cookies and similar technologies](http://www.ico.gov.uk/for_organisations/privacy_and_electronic_communications/the_guide/~/media/documents/library/Privacy_and_electronic/Practical_application/guidance_on_the_new_cookies_regulations.ashx) and the related [Privacy and Electronic Communications (EC Directive) Regulations 2003](http://www.legislation.gov.uk/uksi/2003/2426/contents/made). Or check on Youtube and download [Youtube video to MP4 converter](http://www.youtubetomp4.biz/)
+This website is compliant with the Information Commissioners Office (ICO) [Guidance on the rules on use of cookies and similar technologies](http://www.ico.gov.uk/for_organisations/privacy_and_electronic_communications/the_guide/~/media/documents/library/Privacy_and_electronic/Practical_application/guidance_on_the_new_cookies_regulations.ashx) and the related [Privacy and Electronic Communications (EC Directive) Regulations 2003](http://www.legislation.gov.uk/uksi/2003/2426/contents/made).
 
 ### Enquiries
 
