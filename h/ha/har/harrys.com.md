@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harrys.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424190309id_/http%3A//www.harrys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harrys.com privacy policy that was archived on 2013-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130803065006id_/http%3A//www.harrys.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Harry's - Great Shave. Fair Price. Simple.
 
