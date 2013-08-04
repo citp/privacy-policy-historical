@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bexar.org privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602080007id_/http%3A//www.bexar.org/Privacy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bexar.org privacy policy that was archived on 2013-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130804094122id_/http%3A//www.bexar.org/Privacy/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
