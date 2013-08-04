@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uploading.to privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604232417id_/http%3A//www.uploading.to/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uploading.to privacy policy that was archived on 2013-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130804134037id_/http%3A//www.uploading.to/privacy) for the most accurate reproduction.*
 
 # Uploading.to - Mirror your files in one click
 
