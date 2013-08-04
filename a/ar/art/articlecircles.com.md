@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlecircles.com privacy policy that was archived on 2013-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130323110425id_/http%3A//www.articlecircles.com/privacy-article-circles) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlecircles.com privacy policy that was archived on 2013-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130804055517id_/http%3A//www.articlecircles.com/privacy-article-circles) for the most accurate reproduction.*
 
 # Privacy | Free Article Directory
 
