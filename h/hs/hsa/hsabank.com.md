@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the hsabank.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508073134id_/http%3A//hsabank.com/%7E/media/Files/privacy_statement.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsabank.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805001105id_/http%3A//www.hsabank.com/%7E/Media/Files/privacy_statement.pdf) for the most accurate reproduction.*
 
 # FACTS
 
 Dear HSA Bank Accountholder:
 HSA Bank is a division of Webster Bank, N.A., and part of a large and diversified financial organization. Webster Bank
-brings HSA Bank significant strengths and resources, which help HSA Bank to improve its services to you.
-We have a strong commitment to safekeeping your information. As a part of Webster Bank, we follow the Webster Bank
+brings significant strengths and resources, which help HSA Bank to improve its services to you.
+We have a strong commitment to safeguarding your information. As a part of Webster Bank, we follow the Webster Bank
 privacy policy. Under this privacy policy, you retain rights concerning the sharing of your nonpublic personal information
 with Webster Bank affiliates.
 You have the right as a HSA Bank accountholder to prevent the sharing of your nonpublic personal information with affiliates
 of Webster Bank. To do so, you can call our Client Assistance Center at 1-800-357-6246. If you have opted out in the past,
 you do not need to opt-out each year. Your opt-out remains in effect unless you notify us you would like to opt-in.
 Sincerely,
-Kirk Hoewisch
-President, HSA Bank
-                                               Privacy and Opt-Out Notice                                                Rev. 3/12
+Charlotte E. Kienbaum
+SVP, Director of Operations and Contact Center
+                                                Privacy and Opt-Out Notice                                               Rev. 3/13
  FACTS                   WHAT DOES WEBSTER BANK DO WITH YOUR PERSONAL INFORMATION?
   Why?                  Financial companies choose how they share your personal information. Federal law gives
                         consumers the right to limit some but not all sharing. Federal law also requires us to tell you
@@ -47,14 +47,14 @@ President, HSA Bank
  your creditworthiness
  For our affiliates to market to you                                                       Yes                       Yes
  For nonaffiliates to market to you                                                         No               We don’t share
- To limit our        •   Call 1-800-357-6246
+ To limit our        •   Call toll free 1-800-357-6246
  sharing             Please note:
                      If you are a new customer, we can begin sharing your information 30 days from the date we sent this
                      notice. When you are no longer our customer, we continue to share your information as described in
                      this notice.
                      However, you can contact us at any time to limit our sharing.
- Questions?          Call 1-800-357-6246
-FN00479
+ Questions?          Call toll free 1-800-357-6246
+FN01009A
 
 
 Page 2
