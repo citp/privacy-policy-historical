@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the taskrabbit.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429212000id_/https%3A//www.taskrabbit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taskrabbit.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805231609id_/https%3A//www.taskrabbit.com/static/privacy) for the most accurate reproduction.*
 
-# TaskRabbit Privacy Policy | TaskRabbit
+# TaskRabbit Privacy Policy
 
 ## Last updated: September 20, 2012
 
