@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wfscorp.com privacy policy that was archived on 2013-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130401195631id_/https%3A//www.wfscorp.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wfscorp.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805094943id_/https%3A//www.wfscorp.com/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | www.wfscorp.com
 
