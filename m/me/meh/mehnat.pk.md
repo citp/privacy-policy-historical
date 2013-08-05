@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mehnat.pk privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620152609id_/http%3A//www.mehnat.pk/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mehnat.pk privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805203814id_/http%3A//www.mehnat.pk/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Daily Jobs in Pakistan, Latest paper pk Jobs, Jang, Dawn, Express Newspaper Jobs - Mehnat.pk
 
