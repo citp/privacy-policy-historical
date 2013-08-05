@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the piarecipes.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507081557id_/http%3A//www.piarecipes.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the piarecipes.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805100158id_/http%3A//www.piarecipes.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Recipes, Dinner Ideas, Healthy Recipes & Food Guide
 
