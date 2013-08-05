@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telestream.net privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515102958id_/http%3A//www.telestream.net/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telestream.net privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805155004id_/https%3A//www.telestream.net/company/privacy.htm) for the most accurate reproduction.*
 
 # Telestream Company - Privacy Policy
 
@@ -8,7 +8,7 @@ Your privacy and security are very important to us at Telestream and we understa
 
 If you choose not to register or provide personal information, you can still visit the Telestream website; however, you will not have access to areas that require personal identification. 
 
-Emails we send you may include a tag that notifies us whether you have received or opened the email, or clicked a link within the email. If you do not want us to collect this information, you can [opt out](https://web.archive.org/web/20130515102958id_/http%3A//www.telestream.net/company/opt-out.htm) of receiving Telestream emails. 
+Emails we send you may include a tag that notifies us whether you have received or opened the email, or clicked a link within the email. If you do not want us to collect this information, you can [opt out](https://web.archive.org/web/20130805155004id_/https%3A//www.telestream.net/company/opt-out.htm) of receiving Telestream emails. 
 
 Telestream is the sole operator of the Telestream Website. However, our website contains links to other sites. _Telestream assumes no responsibility for the content or the privacy policies and practices of such websites._ Telestream encourages you to read the privacy statements of these linked sites since their privacy practices may differ from ours. 
 
@@ -20,4 +20,4 @@ At any time you may contact Telestream with any privacy questions or concerns yo
 
 **e-mail:**         [ info@telestream.net](mailto:info@telestream.net)
 
-If you own a Telestream product, visit our [Support Center](https://web.archive.org/web/20130515102958id_/http%3A//www.telestream.net/telestream-support/overview.htm) for the latest software updates and product information.
+If you own a Telestream product, visit our [Support Center](https://web.archive.org/web/20130805155004id_/https%3A//www.telestream.net/telestream-support/overview.htm) for the latest software updates and product information.
