@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the commonbond.co privacy policy that was archived on 2013-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130302091651id_/http%3A//commonbond.co/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commonbond.co privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805214802id_/https%3A//commonbond.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CommonBond
 
+  
+
+
 ### Introduction
 
-Welcome to CommonBond. This Privacy Statement describes how CommonBond collects and shares information from our website, located at <http://commonbond.co/>.
+Welcome to CommonBond. This Privacy Statement describes how CommonBond collects and shares information from our website, located at [http://commonbond.co/](https://web.archive.org/).
 
 ### How Does CommonBond Work?
 
@@ -21,17 +24,14 @@ Because CommonBond does not issue loans, we do not collect loan application info
 
 We do not collect personally identifiable information from website visitors who do not voluntarily submit such information. However, information collected from prior visits could be associated with personally identifiable information if you later submit such information to us.
 
-_Registered Users_
+### Registered Users
 
 If you create a registered account on our website, we will collect information from you, including:
 
-  * Name;
-  * Email Address; and
-  * Password.
-
-
-
-_Cookies_
+Name;  
+Email Address; and  
+Password.  
+Cookies
 
 We may use cookies and similar technologies such as web beacons to support the functionality of our customer portal, monitor traffic patterns and collect information about your previous visits to our web site.
 
@@ -39,18 +39,18 @@ We may use cookies and similar technologies such as web beacons to support the f
 
 We use information collected from website visitors to improve the content and browsing experience of our website and to provide information regarding our products to you. This information is not sold or disclosed to non-affiliated third parties for marketing purposes.
 
-CommonBond may disclose information collected from website visitors to:
+### CommonBond may disclose information collected from website visitors to:
 
-  * trusted services providers who work on our behalf, who do not have an independent use of the information we disclose to them, and who have agreed to adhere to the rules set forth in the privacy statement;
+  * trusted services providers who work on our behalf, who do not have independent use of the information we disclose to them, and who have agreed to adhere to the rules set forth in the privacy statement;
   * third parties as required by law, such as to comply with a subpoena or similar legal process;
   * third parties as we deem necessary, based on our good faith belief, (i) to protect our rights, your safety or the safety of others, (ii) to investigate fraud, or (iii) to respond to a government request; and
-  * third parties in conjunction with a merger, acquisition or sale of CommonBond. If CommonBond is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our website of any change in ownership or uses of this information, as well as any choices you may have regarding this information. Information obtained about loan applications and decisions from our partner bank may be used to improve our services or offer additional services. Use of information obtained from our partner bank will be used in accordance with the partner bank’s privacy policy.
+  * third parties in conjunction with a merger, acquisition or sale of CommonBond. If CommonBond is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our website of any change in ownership or uses of this information, as well as any choices you may have regarding this information. Information obtained about loan applications and decisions from our partner bank may be used to improve our services or offer additional services. Use of information obtained from our partner bank will be used in accordance with the partner bank's privacy policy.
 
 
 
 ### Opt Out
 
-You may choose to opt-out of receiving unrequested communications by clicking “unsubscribe” of a given communication or by emailing [info@commonbond.co](mailto:info@commonbond.co).
+You may choose to opt-out of receiving unrequested communications by clicking “unsubscribe” of a given communication or by emailing info@commonbond.co.
 
 ### Security
 
@@ -58,7 +58,7 @@ We are concerned about safeguarding the confidentiality of your information. We 
 
 ### Changes
 
-This Privacy Statement may be updated from time to time for any reason. We will notify you of any changes to our Privacy Statement by posting the new Privacy Statement here, <http://commonbond.co/privacy-policy.php>. Please consult this Privacy Statement regularly for any changes.
+This Privacy Statement may be updated from time to time for any reason. We will notify you of any changes to our Privacy Statement by posting the new Privacy Statement here, [http://commonbond.co/privacy-policy](https://web.archive.org/privacy-policy). Please consult this Privacy Statement regularly for any changes.
 
 ### Your Consent
 
@@ -68,9 +68,9 @@ By using our website, you consent to the collection, processing and storage of i
 
 Customers may access, review and/or correct all their personally identifiable information that we collect online by sending an email to [info@commonbond.co](mailto:info@commonbond.co).
 
-www.CommonBond.co  
-229 S. 22nd St, Ste 101  
-Philadelphia, PA 19103  
+CommonBond, LLC  
+183 State Street, 6th Floor  
+Brooklyn, NY, 11201  
 United States of America
 
 ### Contact Us
