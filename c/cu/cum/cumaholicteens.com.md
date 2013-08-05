@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cumaholicteens.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625004137id_/http%3A//cumaholicteens.com/%3Fref%3D%26%26page%3D_free_privacy%26itemcnt%3D%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cumaholicteens.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805171243id_/http%3A//cumaholicteens.com/free_tour/en/support/privacy.html) for the most accurate reproduction.*
 
-# CumaHolicTeens.com
+# Privacy Policy
 
 Replace or add your information in RED, where applicable:  
 Our Commitment To Privacy   
