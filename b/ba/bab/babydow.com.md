@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babydow.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510025056id_/http%3A//www.babydow.com/terms/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babydow.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805213451id_/http%3A//www.babydow.com/terms/privacyPolicy) for the most accurate reproduction.*
 
 # Adopt a virtual baby - Babydow
 
