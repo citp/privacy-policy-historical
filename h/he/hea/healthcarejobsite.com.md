@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthcarejobsite.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507093935id_/http%3A//www.healthcarejobsite.com/mkt/content/js/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthcarejobsite.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805204211id_/http%3A//www.healthcarejobsite.com/mkt/content/js/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
 # Jobs | Healthcare & Medical Job Listings - HealthcareJobsite.com
 
@@ -32,7 +32,7 @@ Additionally, information may be passed on to a third party in the event of a tr
 
 In order to serve you better and more efficiently, we may also share anonymous aggregated information (relevant to the job search) about users with our partners and other third parties relevant to the job search.
 
-We collect information from our users at several different points on our website. When you first register with us, we ask for your email address and a password. At this time, we may subscribe you to various email publications. You can unsubscribe from any or all publications at any time. If you are a registered member, [click here](https://web.archive.org/home/) to access your account and manage your email options. We will delete data on our site that you have provided to us, upon request, through our [Contact Us form](https://web.archive.org/JS/Form/ContactUsForm.asp).
+We collect information from our users at several different points on our website. When you first register with us, we ask for your email address. At this time, we may subscribe you to various email publications. You can unsubscribe from any or all publications at any time. If you are a registered member, [click here](https://web.archive.org/home/) to access your account and manage your email options. We will delete data on our site that you have provided to us, upon request, through our [Contact Us form](https://web.archive.org/JS/Form/ContactUsForm.asp).
 
 We also offer an Associate program, where associate members direct customers to the network through links on their Web sites. We ask associates for their site name (URL), mailing address, primary contact, pay-to address, technical contact, and other site-related information to determine whether a site will be included in our network. The information collected from our affiliates is used strictly for that program; none of this information is used for general marketing purposes. 
 
@@ -128,7 +128,7 @@ Back to top
 
 * * *
 
-Rev. May 2012
+Rev. July 2013
 
 * * *
 
