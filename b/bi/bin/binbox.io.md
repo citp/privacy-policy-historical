@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the binbox.io privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501043657id_/http%3A//binbox.io/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the binbox.io privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806001950id_/http%3A//binbox.io/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Binbox
 
@@ -17,4 +17,10 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
 
-## Your submission is ready!
+## Your paste is ready: #
+
+* * *
+
+The password to unlock this paste is ****.
+
+* * *
