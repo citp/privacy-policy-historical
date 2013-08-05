@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialengineaddons.com privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420054356id_/http%3A//www.socialengineaddons.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialengineaddons.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805092733id_/http%3A//www.socialengineaddons.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | SocialEngineAddOns
 
@@ -8,8 +8,10 @@ The information about the user as collected by SocialEngineAddOns is: (a) inform
 
 To avail certain services on our website, users are required to provide certain information for the registration and checkout processes namely:-
 
-  1. A )  users are required 
-  2. B )  users are required 
+  1. A )  Email
+  2. B )  First Name and Last Name
+  3. C )  Company
+  4. D )  Phone Number
 
 
 
