@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newspaper.li privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602172126id_/http%3A//newspaper.li/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newspaper.li privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805205701id_/http%3A//newspaper.li/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy policy
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at support@newspaper.li. 
 
