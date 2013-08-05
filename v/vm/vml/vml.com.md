@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vml.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522093648id_/https%3A//www.vml.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vml.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805104633id_/http%3A//www.vml.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | VML
 
