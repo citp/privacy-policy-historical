@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aditnetwork.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615075327id_/https%3A//www.aditnetwork.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aditnetwork.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805220346id_/https%3A//aditnetwork.com/privacy) for the most accurate reproduction.*
 
 # ADITnetwork
 
