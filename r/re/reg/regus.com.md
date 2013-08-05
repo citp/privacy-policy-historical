@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the regus.com privacy policy that was archived on 2013-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130228220645id_/http%3A//www.regus.com/images/PrivacyPolicy_tcm8-38647.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regus.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805074807id_/http%3A//www.regus.com/images/PrivacyPolicy_tcm8-38647.pdf) for the most accurate reproduction.*
 
 # 
 
