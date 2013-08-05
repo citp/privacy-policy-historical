@@ -1,13 +1,14 @@
-<!--The following is the downloaded HTML source of the anazana.com privacy policy that was archived on 2013-01-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130115105000id_/https%3A//www.anazana.com/en/anazana/privacy-policy-210801) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the anazana.com privacy policy that was archived on 2013-08-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130805160715id_/https%3A//www.anazana.com/en/anazana/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<title>Privacy Policy / anazana / anaZana - create your online store or website today</title>
-	<meta name="google-site-verification" content="L_9cayoEtDeP-_pCqG1638IcWd3tC2NzQyYpXjrXRZ4">
-<meta name="description" content="anaZana is safe and powerful eCommerce tool to manage your e-shop and sell more online.">
+	<meta name="google-site-verification" content="Q1WOJfGXHpBziV5yz77h5na_sFjlai2KRkLiV6cn80M">
+<meta name="description" content="anazana.com is the fast growing modern ecommerce platform that allows companies ">
+<meta name="keywords" content="create eshop, create website, ecommerce platform, e-commerce, create online store today,">
 <meta property="og:title" content="Privacy Policy">
-<meta property="og:description" content="anaZana is safe and powerful eCommerce tool to manage your e-shop and sell more online.">
+<meta property="og:description" content="anazana.com is the fast growing modern ecommerce platform that allows companies ">
 <meta http-equiv="content-language" content="en">
 <meta name="copyright" content="© 2009 anazana">
 
@@ -18,14 +19,93 @@
 <!--[if lte IE 8]><link href="/css_v2/ie8.css" rel="stylesheet" type="text/css" /><![endif]-->
 <!--[if IE 7]><link href="/css_v2/ie7.css" rel="stylesheet" type="text/css" /><![endif]-->
 
-<script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script type="text/javascript" src="https://st.anazana.com/assets/jquery.js?v=1.8.1"></script><script type="text/javascript">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script type="text/javascript" src="https://st.anazana.com/assets/jquery.js?v=1.8.1"></script><script type="text/javascript">
 /* <![CDATA[ */
 
 	originalTitle = document.title;
 
 	var LANG = "1";
-	//var LANG = "en";
 	var ADMIN_LANGS = "en";
+
+    var zCore = {
+
+        allowedModules : [
+    		'zSliders',
+    		'zSearch',
+    		'zBenchmark',
+    		'ProductsFilter',
+    		'zScrollCart'
+          ],
+        
+    	stack : [], // stack of anaZana modules
+
+    	push : function(module, params)
+    	{
+    		if($.inArray(module, this.allowedModules)==-1) return;
+
+    		var o = { 
+    			module : module,
+    			params : (params != undefined ? params : {}) 
+    		};
+    			
+    		this.stack.push(o);
+
+    		return this;
+    	},
+
+    	get : function(module)
+    	{
+    		for(x in this.stack)
+    		{
+        		if(module != undefined && this.stack[x].module==module && this.stack[x].object != undefined)
+        		{
+        			return this.stack[x].object;
+            	}
+    		}
+    		return;
+        },
+    	
+    	init : function(module)
+    	{
+    		for(x in this.stack)
+    		{
+        		if(module != undefined && this.stack[x].module==module && this.stack[x].object != undefined)
+        		{
+        			this.stack[x].object.init();
+            	}
+        		else if(module == undefined)
+        		{
+	        		if(window[this.stack[x].module])
+		        	{
+			    		var obj = eval('new ' + this.stack[x].module);
+			    		obj.init(this.stack[x].params);
+			    		this.stack[x].object = obj;
+	        		}
+	        		else
+	        		{
+						delete this.stack[x];
+	            	}
+        		}
+    		}
+    		
+    		return this;
+    	},
+    		
+    	reload : function()
+    	{
+    		for(x in this.stack)
+    		{
+    			var o = this.stack[x];
+
+    			if(typeof o.object != 'object' || !o.object.hasOwnProperty('onload')) continue;
+    			
+    			o.object.onload();
+   			}
+    	}
+    };
+
+    $(function(){ setTimeout(function(){ zCore.init().reload(); }, 1); });
+    
 	phrases = new Array();
 
 	phrases['alert'] = "Attention";
@@ -64,7 +144,7 @@
 <!--[if lte IE 7]><link href="/public-css/anazana-landing/ie.css" rel="stylesheet" type="text/css" /><![endif]-->
 <!--[if IE 6]><link href="/public-css/anazana-landing/ie6.css" rel="stylesheet" type="text/css" /><![endif]-->
 
-
+<script async="" src="https://www.google.com/jsapi" type="text/javascript"></script>
 <script type="text/javascript">
 
 	var LOGIN_URL = "https://www.anazana.com/en/common/login-s/"
@@ -74,10 +154,13 @@
 	var LANGS = SITE_LANGS;
     var SITE_HOST = "landing.anazana.com";
     var SITE_LANGUAGES = {"1":"en","2":"lv","3":"ru"};
-    
+    var ADMIN_MODE = false; 
+
+        $(function(){ zCore.push('zSearch', {site : SITE_HOST}); });
+        $(function(){ zCore.push('ProductsFilter'); });
 </script>
 
-<link type="text/css" href="https://st.anazana.com/assets/css/a8e30d9c8dd780e71a4e8898bab7964da1f6453e.css?v=0" rel="stylesheet">	<script type="text/javascript"> if(navigator.appName == 'Microsoft Internet Explorer') $(function() { var i=0; $('#sidebar li').each(function(){ $(this).addClass('menu-' + (++i)); });});</script>
+<script type="text/javascript">$(function(){ zCore.push('zScrollCart'); });</script><link type="text/css" href="https://st.anazana.com/assets/css/7669166c51fdd9f29da08073e1ed9d440ada0944.css?v=0" rel="stylesheet">	<script type="text/javascript"> if(navigator.appName == 'Microsoft Internet Explorer') $(function() { var i=0; $('#sidebar li').each(function(){ $(this).addClass('menu-' + (++i)); });});</script>
 </head>
 <body style="" class="page-intro">    
 <script type="text/javascript">var LANGS = 'en'</script>
@@ -104,9 +187,7 @@
 	</ul>
 	
 	<ul class="bar-nav">
-		<li class="group">
-			</li><li class="group"><a href="https://www.anazana.com/en/common/web/">Websites</a><a href="https://www.anazana.com/en/common/mailbox-list/">Email</a><a href="https://www.anazana.com/en/common/domain/">Domains</a></li><li><a href="/en/common/support">Support</a></li>		
-	</ul>
+		<li class="group"><a href="https://www.anazana.com/en/common/web/">Websites</a><a href="https://www.anazana.com/en/common/mailbox-list/">Email</a><a href="https://www.anazana.com/en/common/domain/">Domains</a></li><li><a href="/en/common/support">Support</a></li>	</ul>
     
     </div>
 </div>
@@ -123,16 +204,26 @@
 	<div class="headerin">
 		
 		<div id="logo" style="right: auto; bottom: auto; left:4px; top:30px">
-			<img style="right: auto; bottom: auto; width:163px; height:35px" src="https://www.anazana.com/site-files/landing.anazana.com/f/logo/logo.png" alt="anaZana - create your online store or website today">
+			<img src="https://www.anazana.com/site-files/landing.anazana.com/f/logo/logo.png" alt="anaZana - create your online store or website today">
 			<div class="ui-icon"><!-- resize icon --></div>
 		</div>
 		
-		<div class="slogan" id="slogan">
-			<div class="text"></div>
+		<div class="slogan" id="slogan" style="right: auto; bottom: auto; left:813px; top:39px; width:181px; height:38px; ">
+			<div class="text"><p>+1.619.729.8386</p></div>
 			<div class="ui-icon"><!-- resize icon --></div>
 		</div>
 		
-		<div style="right: auto; bottom: auto; left:0px; top:-2px; position:absolute;" id="lang-holder"><ul id="languages"><li class="first active en"><a href="/en/anazana/privacy-policy-210801">En</a></li><li class="lv"><a href="/lv/anazana/privacy-policy-210801">Lv</a></li><li class="ru"><a href="/ru/anazana/privacy-policy-210801">Ru</a></li></ul></div>		
+		<div id="search-holder">
+			<form class="search-form" method="post" action="">
+				<fieldset>
+					<legend>Search form</legend>
+					<input type="text" value="">
+					<div class="btn"><a href="#"><span>Search</span></a></div>
+				</fieldset>
+			</form>
+		</div>
+		
+		<div style="right: auto; bottom: auto; left:0px; top:-2px; position:absolute;" id="lang-holder"><ul id="languages"><li class="first active en"><a href="/en/anazana-210771/privacy-policy">En</a></li><li class="lv"><a href="/lv/anazana-210771/privacy-policy">Lv</a></li><li class="ru"><a href="/ru/anazana-210771/privacy-policy">Ru</a></li></ul></div>		
 		<div class="logon-block" id="logon-block">
 							<ul class="logon-list">
 					<li class="label"><span>Login with:</span></li>
@@ -141,23 +232,22 @@
 				</ul>
 					</div>
 		
-		<div id="bc"><ul class="bc"><li class="home"><a href="/en/">Home</a></li><li><a href="/en/anazana-210771">anazana</a></li><li class="active"><a href="/en/anazana/privacy-policy-210801">Privacy Policy</a></li></ul></div>	
-
-<div id="cart">
+		<div id="bc"><ul class="bc"><li class="home"><a href="/en/">Home</a></li><li><a href="/en/anazana-210771">anazana</a></li><li class="active"><a href="/en/anazana-210771/privacy-policy">Privacy Policy</a></li></ul></div><div id="cart" class="cart-br">
     <ul class="cart-list cart"></ul>
 </div>
+
 <div class="hidden" id="top-menu">
 	
 				</div>	
 <div class="menu-block">
-			<div id="menu" style="right : auto;bottom : auto;left:180px; top:23px">
+			<div id="menu" style="left:180px; top:23px; bottom:auto;">
 			<ul>
 				<li class="first menu-1" id="menu_id_205501">
-<a href="/en/features/easy-store-management-262401?registerActiveSite=26761&amp;firstpage"><span>Features</span></a></li>
-<li class="menu-2" id="menu_id_205511">
-<a href="/en/examples-205511?registerActiveSite=26761&amp;firstpage"><span>Examples</span></a></li>
-<li class="menu-3" id="menu_id_205521">
+<a href="/en/features/easy-store-management?registerActiveSite=26761&amp;firstpage"><span>Features</span></a></li>
+<li class="menu-2" id="menu_id_205521">
 <a href="/en/pricing-205521?registerActiveSite=26761&amp;firstpage"><span>Pricing</span></a></li>
+<li class="menu-3" id="menu_id_205511">
+<a href="/en/examples?registerActiveSite=26761&amp;firstpage"><span>Examples</span></a></li>
 			</ul>
 		</div>
 	</div>		
@@ -166,7 +256,7 @@
 	
 </div></div>
 
-<div class="header-image"><!-- header image --></div></div><div id="content-inner"><div id="content" class="clrfix"><div class="boxes box1 clearL"><div class="box1">	
+<div class="header-image"><!-- header image --></div></div><div id="content-inner"><div id="content" class="clrfix"><div class="boxes box1 fLeft"><div class="box1">	
 
 
 		
@@ -175,24 +265,24 @@
 				<div class="inner">
 					<ul>
 						<li>
-<a href="/en/anazana/order-custom-website-213221"><span>Order custom website</span></a></li>
+<a href="/en/anazana-210771/order-custom-website-or-eshop"><span>Order custom website</span></a></li>
 <li>
-<a href="/en/anazana/terms-of-use-210791"><span>Terms of Use</span></a></li>
+<a href="/en/anazana-210771/terms-of-use"><span>Terms of Use</span></a></li>
 <li>
-<a href="/en/anazana/privacy-policy-210801" class="active"><span>Privacy Policy</span></a></li>
+<a href="/en/anazana-210771/privacy-policy" class="active"><span>Privacy Policy</span></a></li>
 <li>
-<a href="/en/anazana/otzyvy-295741"><span>Testimonials</span></a></li>
+<a href="/en/anazana-210771/otzyvy-295741"><span>Testimonials</span></a></li>
 <li>
-<a href="/en/anazana/contact-us-210981"><span>Contact Us</span></a></li>
+<a href="/en/anazana-210771/contact-us"><span>Contact Us</span></a></li>
 <li>
-<a href="/en/anazana/partnerskaja-programma-280531"><span>Affiliate program</span></a></li>
+<a href="/en/anazana-210771/partnerskaja-programma-280531"><span>Affiliate program</span></a></li>
 					</ul>
 				</div>
 			</div>
 		</div>
 				
 		
-</div></div><div class="boxes box3 fRight"><div class="box3"><div class="block-holder">
+</div></div><div class="boxes box3 fRight"><div class="box3"><div class="inner"><div class="block-holder">
 		<div class="top-left"></div>
 	<div class="top-right"></div>
 	<div class="bottom-left"></div>
@@ -246,18 +336,19 @@
 	</div>
 	</div>
 
-</div></div></div></div><div id="footer">
+</div></div></div></div></div><div id="footer">
 	<div class="inner"> 
 		<div class="top-block">
 			<p></p><div class="footer-columns">
 <h5>Features</h5>
 <ul class="footer-menu-list">
-<li><a href="/en/iespeejas/effective-sales-design-206061">Design</a></li>
-<li><a href="/en/iespeejas/droshs-pasuutiijumu-grozs-206071">Shopping Cart</a></li>
-<li><a href="/en/iespeejas/uzticams-hostings-maakonjos-206081">Hosting</a></li>
-<li><a href="/en/iespeejas/eerta-satura-vadiiba-206091">Site Management</a></li>
-<li><a href="/en/iespeejas/seo-and-marketing-tools-206111">SEO and Marketing</a></li>
-<li><a href="/en/features/easy-store-management-262401">Easy Store Management</a></li>
+<li><a href="/en/features/effective-sales-design-206061">Design</a></li>
+<li><a href="/en/features/secure-shopping-cart">Shopping Cart</a></li>
+<li><a href="/en/features/reliable-cloud-hosting">Hosting</a></li>
+<li><a href="/en/features/user-friendly-site-management">Site Management</a></li>
+<li><a href="/en/features/seo-and-marketing-tools">SEO and Marketing</a></li>
+<li><a href="/en/features/easy-store-management">Easy Store Management</a></li>
+<li><a href="/en/features/effective-sales-design">Effective Sales Design</a></li>
 </ul>
 </div>
 <div class="footer-columns">
@@ -275,15 +366,15 @@
 <div class="footer-columns">
 <h5>anazana, Inc.</h5>
 <ul class="footer-menu-list">
-<li><a href="/en/anazana/terms-of-use-210791">Terms of Services</a></li>
-<li><a href="/en/anazana/privacy-policy-210801">Privacy policy</a></li>
-<li><a href="/en/anazana/order-custom-e-shop-213221"> Order custom website </a></li>
+<li><a href="/en/anazana/terms-of-use">Terms of Services</a></li>
+<li><a href="/en/anazana/privacy-policy">Privacy policy</a></li>
+<li><a href="/en/anazana/order-custom-website-or-eshop"> Order custom website </a></li>
 </ul>
 </div>
 <div class="footer-columns">
 <h5>Contacts</h5>
 <ul class="footer-menu-list">
-<li><a href="/en/anazana/contact-us-210981">Contact Us</a></li>
+<li><a href="/en/anazana/contact-us">Contact Us</a></li>
 </ul>
 <h5>Social networks</h5>
 <ul class="footer-social-list">
@@ -300,7 +391,7 @@
 <p class="copy-box">Copyright © 2013 anazana, Inc. All rights reserved.</p>
 <div class="right-block">
 <p><a href="https://www.anazana.com"><img src="/public-i/anazana-landing/anazana.png"></a></p>
-</div><p></p>
+<p></p>
 		</div>
 		<div class="clr"><!-- clear --></div>
 	</div>
@@ -319,5 +410,14 @@ var pageTracker = _gat._getTracker("UA-8273234-8");
 pageTracker._trackPageview();
 } catch(err) {}</script>
 
-	<script type="text/javascript"> var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script> <script type="text/javascript"> try { var pageTracker = _gat._getTracker("UA-8273234-55"); pageTracker._trackPageview(); } catch(err) {}</script>
-<script type="text/javascript" src="https://st.anazana.com/assets/js/edfbfde144952e8648d70723f2cc7babe34efe70.js?v=0"></script></body></html>
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-8273234-55']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+<script type="text/javascript" src="https://st.anazana.com/assets/js/a9d1c6c84ff5bee789d9cf8a480a9afa6b405dbf.js?v=0"></script></div></body></html>
