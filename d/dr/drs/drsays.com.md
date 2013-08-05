@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drsays.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014151910id_/https%3A//www.drsays.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drsays.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805162551id_/https%3A//www.drsays.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | DrSays
 
@@ -6,7 +6,7 @@ Last modified: March 2, 2011
 
 DRSAYS LLC values the privacy rights of its website users. This Privacy Policy for the DRSAYS website, (“Site”) operated by DRSAYS LLC,  describes the information that is collected from you as part of the normal operation of this Site, and how we use and disclose this information.
 
-By using this Site and DRSAYS services, you expressly consent to our collection, use and disclosure of personal information as laid out in this Privacy Policy. Your continued use of the services and site following the posting of any changes to these terms will mean you accept those changes. This Privacy Policy is incorporated into and subject to our [Terms of Use](http://www.drsays.com/node/64). 
+By using this Site and DRSAYS services, you expressly consent to our collection, use and disclosure of personal information as laid out in this Privacy Policy. Your continued use of the services and site following the posting of any changes to these terms will mean you accept those changes. This Privacy Policy is incorporated into and subject to our [Terms of Use](https://web.archive.org/terms). 
 
 In this Privacy Policy, we use the following terms to describe different types of Users on our Site: our customers who use the DRSAYS portal to provide health services are called “Health Professionals”, our customers who elect to create a profile are called DRSAYS "Members". These people are collectively described in this Privacy Policy as “Users” of our Site.
 
@@ -44,4 +44,4 @@ We cooperate with law enforcement inquiries and demands for information that are
 
 **8\. Data Access and Security.  **DRSAYS has developed all systems and manages the data for this site. No data is transferred to users that do not have specific data access keys. Personal information collected by our web site is stored in secure operation environments that are not available to the public. We take every reasonable precaution to protect your personal information including encryption and passwords when appropriate. Only those staff members of DRSAYS with relevant business duties (for example, a customer service representative) may access personal information on the site to perform those specific duties, each having signed confidentiality agreements. Any staff member who violates our privacy or security policies is subject to disciplinary action, including possible termination and civil and/or criminal prosecution. 
 
-DRSAYS welcomes your questions and comments about privacy and this policy. If you have any questions about our policies or our site, please [Contact Us](https://www.drsays.com/contact).
+DRSAYS welcomes your questions and comments about privacy and this policy. If you have any questions about our policies or our site, please [Contact Us](https://web.archive.org/contact).
