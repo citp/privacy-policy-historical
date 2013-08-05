@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cleverstat.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521073338id_/http%3A//www.cleverstat.com/en/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleverstat.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805095823id_/http%3A//www.cleverstat.com/en/privacy.htm) for the most accurate reproduction.*
 
 # CleverStat Privacy Policy, Copyright Notice
 
