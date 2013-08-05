@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hctra.org privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424034709id_/https%3A//www.hctra.org/privacy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hctra.org privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805180859id_/https%3A//www.hctra.org/privacy/privacy_policy.html) for the most accurate reproduction.*
 
 # About HCTRA — Harris County Toll Road Authority
 
