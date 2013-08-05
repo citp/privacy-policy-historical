@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thankyou.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501162618id_/https%3A//www.thankyou.com/privacyStmt.jspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thankyou.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805163629id_/https%3A//www.thankyou.com/privacyStmt.jspx) for the most accurate reproduction.*
 
 # ThankYou - Privacy - Get Rewards with Citi Cards and Citibank
 
