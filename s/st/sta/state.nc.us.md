@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the state.nc.us privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501231848id_/http%3A//state.nc.us/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state.nc.us privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805190347id_/http%3A//www.state.nc.us/privacy.aspx) for the most accurate reproduction.*
 
 # NC.gov: Privacy
 
