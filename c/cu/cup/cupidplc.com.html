@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cupidplc.com privacy policy that was archived on 2013-01-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130127230405id_/http%3A//www.cupidplc.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cupidplc.com privacy policy that was archived on 2013-08-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130805080235id_/http%3A//www.cupidplc.com/en/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -10,12 +10,13 @@
 <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
 
 <title>Cupid plc - Privacy policy</title>
-<link href="/templates/protostar/css/template.css?v=3" rel="stylesheet" type="text/css">
+<link href="/templates/protostar/css/template.css?v=10" rel="stylesheet" type="text/css">
 
 <!--[if IE]>
     <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/templates/protostar/js/1.8.2.jquery.min.js"></script>
+<script type="text/javascript" src="/templates/protostar/js/jquery.cookie.js"></script>
 <script type="text/javascript" src="/templates/protostar/js/jquery.easing.1.2.js"></script>
 <script type="text/javascript" src="/templates/protostar/js/carousel.js"></script>
 </head>
@@ -23,16 +24,79 @@
 <div id="main">
     <header>
        <div>
+       
+
+
+<div class="custom_b-language">
+	<p>
+<script type="text/javascript">// <![CDATA[
+var def_lang        = "en";
+/*var allow_lang_list = ["en","de","fr","ru"];*/
+var allow_lang_list = ["en","de","fr"];
+var cookie_lang     = $.cookie('cookie_lang');
+function get_url_lang()
+{
+    var res = '';
+    for (key in allow_lang_list)
+    {
+        if( document.location.href.indexOf("/"+allow_lang_list[key]+"/")!=-1 )
+        {
+             res = allow_lang_list[key];
+             break;
+        }
+    }
+    return res;
+}
+function set_lang(next_lang)
+{
+    if( next_lang !== cookie_lang)
+    {
+        $.cookie('cookie_lang',next_lang,{ path: '/' });
+        window.location = document.location.href.replace("/"+get_url_lang()+"/", "/"+next_lang+"/");   
+    }
+}
+// ]]></script>
+</p>
+<div id="b-language-current" class="b-language-current">EN</div>
+<ul id="b-language-items" class="b-language-items">
+<li><a class="b-language-i" hreflang="en" href="#" onclick="set_lang('en');return false;">English</a></li>
+<li><a class="b-language-i" hreflang="de" href="#" onclick="set_lang('de');return false;">Deutsch</a></li>
+<!-- <li><a class="b-language-i" hreflang="ru" href="#" onclick="set_lang('ru');return false;">Русский</a></li> -->
+<li><a class="b-language-i" hreflang="fr" href="#" onclick="set_lang('fr');return false;">Français</a></li>
+</ul>
+<p>
+<script type="text/javascript">// <![CDATA[
+function set_lang_label()
+{
+    var curr_label = $("#b-language-current").html().toLowerCase();
+    if( curr_label !== cookie_lang ) $("#b-language-current").html( cookie_lang.toUpperCase() );
+}
+var url_lang = get_url_lang();
+if( url_lang && !cookie_lang )
+{
+    $.cookie('cookie_lang',url_lang,{ path: '/' });
+}
+else if ( (url_lang && cookie_lang) && (url_lang !== cookie_lang) )
+{
+    window.location = document.location.href.replace("/"+url_lang+"/", "/"+cookie_lang+"/");
+}
+cookie_lang = $.cookie('cookie_lang');
+set_lang_label();
+// ]]></script>
+</p></div>
+  
+       
            <h1>
                <a href="/">Cupid.com</a>
            </h1>
            
            
-
-       </div>       
+       
+       </div>
+              
 
 <ul class="nav menu ">
-<li class="item-101"><a href="/">Home</a></li><li class="item-102 deeper parent"><a href="/about-us">About Us</a><ul class="nav-child unstyled small"><li class="item-120"><a class="my_css_red" href="/about-us/company-profile">Company Profile</a></li><li class="item-121"><a class="my_css_red" href="/about-us/meet-our-team">Meet our Team</a></li><li class="item-122"><a class="my_css_red" href="/about-us/press-kit">Press Kit</a></li></ul></li><li class="item-113 deeper parent"><a href="/what-we-do">What we do</a><ul class="nav-child unstyled small"><li class="item-123"><a href="/what-we-do/our_products">Our Products</a></li><li class="item-125"><a href="http://affiliates.cupid.com/" target="_blank">Affiliate Network</a></li></ul></li><li class="item-117 deeper parent"><a href="/investors">Investors</a><ul class="nav-child unstyled small"><li class="item-126"><a href="/investors/regulatory_announcements_2">Regulatory Announcements</a></li><li class="item-127"><a href="http://www.londonstockexchange.com/exchange/prices-and-markets/stocks/summary/company-summary.html?fourWayKey=GB00B4NJ4984GBGBXAMSM" target="_blank">Share Price - AIM</a></li><li class="item-128"><a href="/investors/major_shareholders">Major Shareholders</a></li><li class="item-129"><a href="/investors/board_of_directors">Board of Directors and Management Team</a></li><li class="item-130"><a href="/investors/corporate_governance">Corporate Governance</a></li><li class="item-131"><a href="/investors/investor_relations_and_downloads">Investor Relations and Downloads</a></li><li class="item-132"><a href="/investors/investor_contacts">Contacts</a></li></ul></li><li class="item-115"><a href="/news">News</a></li><li class="item-136"><a href="/advertise_with_us">Advertise with us</a></li><li class="item-114"><a href="/contact-us">Contact Us</a></li></ul>
+<li class="item-101"><a href="/en/">Home</a></li><li class="item-102 deeper parent"><a href="/en/about-us">About Us</a><ul class="nav-child unstyled small"><li class="item-120"><a class="my_css_red" href="/en/about-us/company-profile">Company Profile</a></li><li class="item-265"><a class="my_css_red" href="/en/about-us/cupid-labs">Cupid LABS</a></li><li class="item-121"><a class="my_css_red" href="/en/about-us/meet-our-team">Meet our Team</a></li><li class="item-122"><a class="my_css_red" href="/en/about-us/press-kit">Press Kit</a></li></ul></li><li class="item-113 deeper parent"><a href="/en/what-we-do">What we do</a><ul class="nav-child unstyled small"><li class="item-123"><a href="/en/what-we-do/our_products">Our Products</a></li><li class="item-125"><a href="http://affiliates.cupid.com/" target="_blank">Affiliate Network</a></li></ul></li><li class="item-117 deeper parent"><a href="/en/investors">Investor Relations</a><ul class="nav-child unstyled small"><li class="item-126"><a href="/en/investors/regulatory_announcements_2">Regulatory Announcements</a></li><li class="item-127"><a href="http://www.londonstockexchange.com/exchange/prices-and-markets/stocks/summary/company-summary.html?fourWayKey=GB00B4NJ4984GBGBXASQ1" target="_blank">Share Price - AIM</a></li><li class="item-128"><a href="/en/investors/major_shareholders">Major Shareholders</a></li><li class="item-129"><a href="/en/investors/board_of_directors">Board of Directors and Management Team</a></li><li class="item-130"><a href="/en/investors/corporate_governance">Corporate Governance</a></li><li class="item-131"><a href="/en/investors/investor_relations_and_downloads">Investor Relations and Downloads</a></li><li class="item-132"><a href="/en/investors/investor_contacts">Contacts</a></li></ul></li><li class="item-115"><a href="/en/news">News</a></li><li class="item-136"><a href="/en/advertise_with_us">Advertise with us</a></li><li class="item-114"><a href="/en/contact-us">Contact Us</a></li></ul>
 
       
     </header>
@@ -124,14 +188,14 @@
 
       
 
-<div class="custom_social_links">
-	<a class="facebook" href="http://www.facebook.com/pages/Cupid/133491556706424" target="_blank" title="Facebook"></a> <a class="twitter" href="http://twitter.com/cupidplc" target="_blank" title="Twitter"></a> <a class="in" href="http://www.linkedin.com/company/cupid-plc" target="_blank" title="Linked in"></a></div>
-
-
       <div class="copyright">
-        © 2005–2013 
-        Cupid plc · All Rights Reserved · <a href="/privacy-policy">Privacy Policy</a>
-       
+
+        
+
+<div class="custom_copyright">
+	Cupid plc · All Rights Reserved · <a href="/en/privacy-policy">Privacy Policy</a></div>
+ 
+        <p>© 2005–2013</p>
         
       </div>
     </div>
@@ -139,7 +203,7 @@
 <!-- start bottom menu --> 
     
 <ul class="nav menu ">
-<li class="item-101"><a href="/">Home</a></li><li class="item-102 deeper parent"><a href="/about-us">About Us</a><ul class="nav-child unstyled small"><li class="item-120"><a class="my_css_red" href="/about-us/company-profile">Company Profile</a></li><li class="item-121"><a class="my_css_red" href="/about-us/meet-our-team">Meet our Team</a></li><li class="item-122"><a class="my_css_red" href="/about-us/press-kit">Press Kit</a></li></ul></li><li class="item-113 deeper parent"><a href="/what-we-do">What we do</a><ul class="nav-child unstyled small"><li class="item-123"><a href="/what-we-do/our_products">Our Products</a></li><li class="item-125"><a href="http://affiliates.cupid.com/" target="_blank">Affiliate Network</a></li></ul></li><li class="item-117 deeper parent"><a href="/investors">Investors</a><ul class="nav-child unstyled small"><li class="item-126"><a href="/investors/regulatory_announcements_2">Regulatory Announcements</a></li><li class="item-127"><a href="http://www.londonstockexchange.com/exchange/prices-and-markets/stocks/summary/company-summary.html?fourWayKey=GB00B4NJ4984GBGBXAMSM" target="_blank">Share Price - AIM</a></li><li class="item-128"><a href="/investors/major_shareholders">Major Shareholders</a></li><li class="item-129"><a href="/investors/board_of_directors">Board of Directors and Management Team</a></li><li class="item-130"><a href="/investors/corporate_governance">Corporate Governance</a></li><li class="item-131"><a href="/investors/investor_relations_and_downloads">Investor Relations and Downloads</a></li><li class="item-132"><a href="/investors/investor_contacts">Contacts</a></li></ul></li><li class="item-115"><a href="/news">News</a></li><li class="item-136"><a href="/advertise_with_us">Advertise with us</a></li><li class="item-114"><a href="/contact-us">Contact Us</a></li></ul>
+<li class="item-101"><a href="/en/">Home</a></li><li class="item-102 deeper parent"><a href="/en/about-us">About Us</a><ul class="nav-child unstyled small"><li class="item-120"><a class="my_css_red" href="/en/about-us/company-profile">Company Profile</a></li><li class="item-265"><a class="my_css_red" href="/en/about-us/cupid-labs">Cupid LABS</a></li><li class="item-121"><a class="my_css_red" href="/en/about-us/meet-our-team">Meet our Team</a></li><li class="item-122"><a class="my_css_red" href="/en/about-us/press-kit">Press Kit</a></li></ul></li><li class="item-113 deeper parent"><a href="/en/what-we-do">What we do</a><ul class="nav-child unstyled small"><li class="item-123"><a href="/en/what-we-do/our_products">Our Products</a></li><li class="item-125"><a href="http://affiliates.cupid.com/" target="_blank">Affiliate Network</a></li></ul></li><li class="item-117 deeper parent"><a href="/en/investors">Investor Relations</a><ul class="nav-child unstyled small"><li class="item-126"><a href="/en/investors/regulatory_announcements_2">Regulatory Announcements</a></li><li class="item-127"><a href="http://www.londonstockexchange.com/exchange/prices-and-markets/stocks/summary/company-summary.html?fourWayKey=GB00B4NJ4984GBGBXASQ1" target="_blank">Share Price - AIM</a></li><li class="item-128"><a href="/en/investors/major_shareholders">Major Shareholders</a></li><li class="item-129"><a href="/en/investors/board_of_directors">Board of Directors and Management Team</a></li><li class="item-130"><a href="/en/investors/corporate_governance">Corporate Governance</a></li><li class="item-131"><a href="/en/investors/investor_relations_and_downloads">Investor Relations and Downloads</a></li><li class="item-132"><a href="/en/investors/investor_contacts">Contacts</a></li></ul></li><li class="item-115"><a href="/en/news">News</a></li><li class="item-136"><a href="/en/advertise_with_us">Advertise with us</a></li><li class="item-114"><a href="/en/contact-us">Contact Us</a></li></ul>
 
     
  <!-- finish bottom menu -->   
@@ -156,7 +220,7 @@ $(document).ready(function() {
     });
 });
 </script>  
-
+  
 
 
 <div class="custom">
@@ -173,11 +237,10 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 // ]]></script>
 </p>
 <p>&nbsp;</p></div>
-
-
-
-
   
+  
+
+
 
 
 </body></html>
