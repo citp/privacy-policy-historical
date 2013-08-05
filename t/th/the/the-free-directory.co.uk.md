@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-free-directory.co.uk privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529183939id_/http%3A//the-free-directory.co.uk/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-free-directory.co.uk privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805130111id_/http%3A//www.the-free-directory.co.uk/privacy_policy.html) for the most accurate reproduction.*
 
 # The Free Directory UK free direct links no reciprocal link required - Privacy Policy
 
