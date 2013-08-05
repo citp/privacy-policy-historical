@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homemadeenergy.org privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627160257id_/http%3A//www.homemadeenergy.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homemadeenergy.org privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805154127id_/http%3A//www.homemadeenergy.org/privacy.php) for the most accurate reproduction.*
 
 # Home Made Energy
 
