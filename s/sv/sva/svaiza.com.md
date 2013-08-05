@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the svaiza.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630083918id_/http%3A//www.svaiza.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the svaiza.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805102835id_/http%3A//www.svaiza.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Shopping Online - Shop Online for Mobiles, Cameras, Home Appliances ,Books, Jewellery and more from svaiza.com
 
