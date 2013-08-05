@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the buzzmystat.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504114243id_/http%3A//www.buzzmystat.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzmystat.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806015948id_/http%3A//www.buzzmystat.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Buzz My Stat - Website value estimator
 
-[](https://web.archive.org/web/20130504114243id_/http%3A//www.buzzmystat.com/ "Website value")
+[](https://web.archive.org/web/20130806015948id_/http%3A//www.buzzmystat.com/ "Website value")
 
 ### Privacy Policy for BuzzMyStat.com
 
