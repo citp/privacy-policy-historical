@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunrunhome.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524184214id_/http%3A//www.sunrunhome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunrunhome.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805085247id_/http%3A//sunrunhome.com/privacy-policy) for the most accurate reproduction.*
 
 # Sunrun :: Privacy Policy
 
