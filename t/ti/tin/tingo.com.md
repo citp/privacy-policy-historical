@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tingo.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610171638id_/http%3A//www.tingo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tingo.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805203258id_/http%3A//www.tingo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Tingo
 
