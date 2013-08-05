@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the condos.ca privacy policy that was archived on 2013-05-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130526003803id_/http%3A//condos.ca/info/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the condos.ca privacy policy that was archived on 2013-08-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130806003539id_/http%3A//www.condos.ca/info/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en" dir="ltr"><head>
   <base href="http://condos.ca/">
@@ -30,7 +30,7 @@
 <script type="text/javascript">
     //<![CDATA[
 
-    Date.setServerOffset('Sun, 26 May 2013 0:28:56 +0000');
+    Date.setServerOffset('Tue, 6 Aug 2013 0:35:39 +0000');
 
     en4.orientation = 'ltr';
     en4.core.environment = 'production';
@@ -65,9 +65,7 @@
   <div id="global_header">
     <div class="layout_page_header">
 <div class="generic_layout_container layout_main">
-<div class="generic_layout_container layout_condo_menu_main_m"><div id="condo_logo">
-    
-    
+<div class="generic_layout_container layout_condo_menu_main_m">	<div id="condo_logo">
 <a href="/" title="Toronto Condos for Sale and Rent"><img alt="Toronto Condos for Sale and Rent" src="application/themes/condos/images/logo.png"></a></div>
 <ul class="navigation">
     <li>
@@ -124,7 +122,18 @@
 </script></div>
 </div>
 </div>
+    	<div id="quicksearchlink"><!--a href="#" onclick="showQuickSearch()" -->
+          <a href="javascript:void(0);Smoothbox.open('searchbox?format=smoothbox');" class="greenlink">
+            <img src="application/themes/condos/images/search.png" alt="Quick Search"></a></div>
   </div>
+    
+    <!--div id="quicksearchbar">
+        <form id="condo_search_form" class="global_form" action="/_condos/condos/condominium/search" method="get">
+                <input type="text" name="query2" id="query2" value="Quick Search" class="quicksearchbox" autocomplete="off" 
+                    onfocus="if(this.value=='Quick Search') this.value='';" onblur="if(this.value=='') this.value='Quick Search';" />
+        </form>
+    </div-->
+    
   <div id="global_wrapper">
     <div id="global_content">
             <div class="layout_page_condo_info_privacy">
@@ -207,5 +216,29 @@ Copyright © 2013 Condos.ca All rights reserved.</div>
 </div>
   </div>
 </div>
+    
+<script> /*
+    function showQuickSearch() {
+        event.preventDefault()
+        jQuery("#quicksearchlink").removeAttr("href");
+        jQuery("#quicksearchbar").show("slow");
+        return false;
+    }
+       
+    jQuery(document).ready(function(){
+        jQuery( "#query2" ).catcomplete({
+            source: en4.core.baseUrl +"ajax/autocomplete",
+            delay: 0,
+            minLength: 2,
+            //position: { my : "left-5 top", at: "left bottom" },
+            select: function( event, ui ) {
+                //jQuery('#auto-selected-building').val(ui.item.building_id);
+                this.form.elements["query2"].value = ui.item.value;
+                document.forms["condo_quicksearch_form"].submit();
+            }
+        });
+     }  */
+</script>
+    
 
 </body></html>
