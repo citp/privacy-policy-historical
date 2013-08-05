@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the hqhair.com privacy policy that was archived on 2013-05-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130508020908id_/http%3A//www.hqhair.com/privacy-policy.info) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hqhair.com privacy policy that was archived on 2013-08-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130805181911id_/http%3A//www.hqhair.com/privacy-policy.info) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-gb" dir="ltr" class="js"><head>
 
 
-<!-- Webserver =  || www.hqhair.com || 10.10.1.34 -->
+<!-- Webserver =  || www.hqhair.com || 10.10.1.29 -->
 
 
 
@@ -232,12 +232,8 @@
 
 
 
-
-	
-	
-		<link rel="apple-touch-icon" href="apple-touch-icon.png">
-		<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-	
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 
 
 
@@ -253,6 +249,24 @@
 
 
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+	// detect when we are leaving the page to prevent unnecessary requireJS error messages / confirmation
+	if (typeof window.onbeforeunload != 'undefined'){
+		window.onbeforeunload = function() {
+			window.exitting = true;
+		};
+	}
+
+	// implements Array.indexOf() for MSIE
+	// ... this needs to be included on the page ASAP, which is the reason why it's defined here
+	if (!Array.prototype.indexOf) {
+		Array.prototype.indexOf = function(obj, start) {
+			for (var i = (start || 0), j = this.length; i < j; i++) {
+				if (this[i] === obj) { return i; }
+			}
+			return -1;
+		}
+	}
+
 	document.getElementsByTagName('html')[0].className = 'js';
 
 	var siteObj = {
@@ -264,13 +278,47 @@
 			productImagePrefix: 'http://thehut.pantherssl.com/',
 			siteID: 74,
 			siteURL: '//www.hqhair.com/',
-			serverIP: '10.10.1.34',
+			serverIP: '10.10.1.29',
 			siteDefaultLocale: 'en_GB',
 			subsiteCode: (true ? null : ''),
 			dept: '',
+			sectionName: 'privacy-policy',
+			currencyType: 'GBP',
+			basketTotalValue: '&#163;29.00',
+			type: '',
+			page: 'privacy-policy',
+			section: 'info',
+			tplPrefix: '',
 			
 			
-			date: 'Wed May 08 03:09:07 BST 2013',
+			
+			date: 'Mon Aug 05 19:19:11 BST 2013',
+			social : {
+				addthis : {
+					username : 'hqhair',
+					show: false
+				},
+				facebook : {
+					appid : '156956704378096',
+					locale : 'en_GB',
+					show : false
+				},
+				googleplus : {
+					show : false
+				},
+				twitter : {
+					show : false
+				},
+				addthis : {
+					show : false
+				},
+				hotukdeals : {
+					show : false
+				},
+				all : {
+					show : false
+				}
+			},
 			features: {
 				facets : {
 					rowsize : 3
@@ -298,6 +346,9 @@
 				jsfonts: true
 			},
 			props: {
+				general: {
+					moduleLoadError: "Some assets did not load correctly. Would you like to reload the page?"
+				},
 				product: {
 					viewLargerImageLinkText: "Click to Enlarge",
 					imagePopup: {
@@ -373,7 +424,9 @@
 		flashBannerHeights = [],
 		flashBannerWidths = [],
 		flashBannerSwfs = [],
-		flashBannerLinks = [];
+		flashBannerLinks = [],
+		scriptTimeouts = {},
+		exitting = false;
 
 	
 		
@@ -403,6 +456,7 @@
 	
 	
 	
+	
 
 	
 	    siteObj.mvt.ordernumber = {
@@ -410,12 +464,36 @@
 	        value : ''
 	    };
  	
-	
-		
-		
-		
+
 	
 
+	
+
+	
+		
+		
+		
+	
+	
+	
+		siteObj.social.googleplus.show = 'true';
+	
+	
+	
+		siteObj.social.facebook.show = 'true';
+	
+	
+	
+		siteObj.social.twitter.show = 'true';
+	
+	
+	
+	
+	
+	
+	
+		siteObj.social.all.show = 'true';
+	
 </script>
 
 
@@ -437,7 +515,7 @@
 	use_existing_jquery=false,
 	// DO NOT EDIT BELOW THIS LINE
 	f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
-</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=19978&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20130508020908id_%2Fhttp%253A%2F%2Fwww.hqhair.com%2Fprivacy-policy.info&amp;r=0.903653916979656" type="text/javascript"></script>
+</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=19978&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20130805181911id_%2Fhttp%253A%2F%2Fwww.hqhair.com%2Fprivacy-policy.info&amp;r=0.28411046812500107" type="text/javascript"></script>
 <!-- End Visual Website Optimizer Asynchronous Code -->
 
 
@@ -460,6 +538,7 @@
 
 		var _gaq = _gaq || [];
 		_gaq.push(['_setAccount', 'UA-59323-83']);
+		_gaq.push(['_setSiteSpeedSampleRate', 10]);
 		
 		
 	    
@@ -553,10 +632,16 @@
 
 
 
+
+
+
+
+
 <!--[if lt IE 9]>
 <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
-</head>
+
+<script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="c-scripts/hqhair.js" src="c-scripts/hqhair.js?v=1374251468"></script></head>
 
 
 
@@ -675,8 +760,26 @@
 										(
 										
 											
+												
+													
+												
+												<span class="basket-item-qty">
+													
+														
+															1
+														
+														
+													
+												</span>
+												<span class="basket-item-name">
+													
+														
+															Item
+														
+														
+													
+												</span>
 											
-												<span class="basket-item-qty">0</span> <span class="basket-item-name">Items</span>
 											
 										
 									) </span>
@@ -684,6 +787,7 @@
 							</li>
 						</ul>
 						
+
 						
 						<div class="line header-search">
 							<div class="search-area">
@@ -705,8 +809,15 @@
 			
 				
 				
-					<input type="text" title="Search" name="search" class="search-input input-overlay">
 				
+					
+						
+						
+							<input type="text" title="Search" name="search" class="search-input input-overlay">
+						
+					
+				
+			
 			
 			<button type="submit" class="search icon-search">Search</button>
 		</fieldset>
@@ -733,11 +844,13 @@
 					
 						<option value="http://www.hqhair.com/health-beauty/brands/abi-o.list">Abi O</option>
 					
-						<option value="http://www.hqhair.com/health-beauty/brands/acqua-di-parma.list">Acqua Di Parma</option>
-					
 						<option value="http://www.hqhair.com/health-beauty/brands/alpha-h.list">Alpha H</option>
 					
 						<option value="http://www.hqhair.com/health-beauty/brands/alterna.list">Alterna</option>
+					
+						<option value="http://www.hqhair.com/health-beauty/brands/ambiance.list">Ambiance</option>
+					
+						<option value="http://www.hqhair.com/health-beauty/brands/amie.list">Amie</option>
 					
 						<option value="http://www.hqhair.com/health-beauty/brands/anatomicals.list">Anatomicals</option>
 					
@@ -747,8 +860,6 @@
 					
 						<option value="http://www.hqhair.com/health-beauty/brands/area-h2o.list">Area H2O</option>
 					
-						<option value="http://www.hqhair.com/health-beauty/brands/armani.list">Armani</option>
-					
 						<option value="http://www.hqhair.com/health-beauty/brands/aromatherapy-associates.list">Aromatherapy Associates</option>
 					
 						<option value="http://www.hqhair.com/health-beauty/brands/australian-bodycare.list">Australian Bodycare</option>
@@ -757,31 +868,23 @@
 					
 						<option value="http://www.hqhair.com/health-beauty/brands/bc-hairtherapy.list">BC Hairtherapy</option>
 					
+						<option value="http://www.hqhair.com/health-beauty/brands/bellapierre.list">Bellapierre</option>
+					
 						<option value="http://www.hqhair.com/health-beauty/brands/bio-oil.list">Bio-Oil</option>
 					
 						<option value="http://www.hqhair.com/health-beauty/brands/blax.list">Blax</option>
 					
 						<option value="http://www.hqhair.com/health-beauty/brands/bliss.list">Bliss</option>
 					
-						<option value="http://www.hqhair.com/health-beauty/brands/bloom-and-blossom.list">Bloom and Blossom</option>
-					
 						<option value="http://www.hqhair.com/health-beauty/brands/boo-boo.list">Boo Boo</option>
 					
 						<option value="http://www.hqhair.com/health-beauty/brands/britney-spears.list">Britney Spears</option>
-					
-						<option value="http://www.hqhair.com/health-beauty/brands/burberry.list">Burberry</option>
 					
 						<option value="http://www.hqhair.com/health-beauty/brands/burt-s-bees.list">Burt's Bees</option>
 					
 						<option value="http://www.hqhair.com/health-beauty/brands/butter-london.list">Butter London</option>
 					
-						<option value="http://www.hqhair.com/health-beauty/brands/cacherel.list">Cacherel</option>
-					
-						<option value="http://www.hqhair.com/health-beauty/brands/calvin-klein.list">Calvin Klein</option>
-					
 						<option value="http://www.hqhair.com/health-beauty/brands/caudalie.list">Caudalie</option>
-					
-						<option value="http://www.hqhair.com/health-beauty/brands/cerruti.list">Cerruti</option>
 					
 						<option value="http://www.hqhair.com/health-beauty/brands/chi.list">CHI</option>
 					
@@ -790,6 +893,8 @@
 						<option value="http://www.hqhair.com/health-beauty/brands/cloud-nine.list">Cloud Nine</option>
 					
 						<option value="http://www.hqhair.com/health-beauty/brands/collagen-shots.list">Collagen Shots</option>
+					
+						<option value="http://www.hqhair.com/health-beauty/brands/colorsmash.list">Colorsmash</option>
 					
 						<option value="http://www.hqhair.com/health-beauty/brands/coola.list">Coola</option>
 					
@@ -807,11 +912,11 @@
 					
 						<option value="http://www.hqhair.com/health-beauty/brands/diego-dalla-palma.list">Diego Dalla Palma</option>
 					
-						<option value="http://www.hqhair.com/health-beauty/brands/diesel.list">Diesel</option>
-					
 						<option value="http://www.hqhair.com/health-beauty/brands/diva.list">Diva</option>
 					
 						<option value="http://www.hqhair.com/health-beauty/brands/dove-spa.list">Dove Spa</option>
+					
+						<option value="http://www.hqhair.com/health-beauty/brands/dr-lewinn-s.list">Dr. Lewinn's</option>
 					
 						<option value="http://www.hqhair.com/health-beauty/brands/ds-laboratories.list">DS Laboratories</option>
 					
@@ -822,6 +927,8 @@
 						<option value="http://www.hqhair.com/health-beauty/brands/earthly-body.list">Earthly Body</option>
 					
 						<option value="http://www.hqhair.com/health-beauty/brands/egyptian-magic.list">Egyptian Magic</option>
+					
+						<option value="http://www.hqhair.com/health-beauty/brands/elegant-touch.list">Elegant Touch</option>
 					
 						<option value="http://www.hqhair.com/health-beauty/brands/elemis.list">Elemis</option>
 					
@@ -837,9 +944,9 @@
 					
 						<option value="http://www.hqhair.com/health-beauty/brands/fake-bake.list">Fake Bake</option>
 					
-						<option value="http://www.hqhair.com/health-beauty/brands/fekkai.list">Fekkai</option>
+						<option value="http://www.hqhair.com/health-beauty/brands/famous-dave.list">Famous Dave</option>
 					
-						<option value="http://www.hqhair.com/health-beauty/brands/fhi.list">FHI</option>
+						<option value="http://www.hqhair.com/health-beauty/brands/fekkai.list">Fekkai</option>
 					
 						<option value="http://www.hqhair.com/health-beauty/brands/foltene.list">Foltene</option>
 					
@@ -851,10 +958,6 @@
 					
 						<option value="http://www.hqhair.com/health-beauty/brands/ghd.list">GHD</option>
 					
-						<option value="http://www.hqhair.com/health-beauty/brands/ghost.list">Ghost</option>
-					
-						<option value="http://www.hqhair.com/health-beauty/brands/givenchy.list">Givenchy</option>
-					
 						<option value="http://www.hqhair.com/health-beauty/brands/glamglow.list">GLAMGLOW</option>
 					
 						<option value="http://www.hqhair.com/health-beauty/brands/healgel.list">Heal Gel</option>
@@ -862,6 +965,8 @@
 						<option value="http://www.hqhair.com/health-beauty/brands/hei-poa.list">Hei Poa</option>
 					
 						<option value="http://www.hqhair.com/health-beauty/brands/homedics.list">HoMedics</option>
+					
+						<option value="http://www.hqhair.com/health-beauty/brands/inner-me.list">Inner Me</option>
 					
 						<option value="http://www.hqhair.com/health-beauty/brands/instyler.list">Instyler</option>
 					
@@ -881,19 +986,33 @@
 					
 						<option value="http://www.hqhair.com/health-beauty/brands/kerastase.list">Kérastase </option>
 					
+						<option value="http://www.hqhair.com/health-beauty/brands/kerastase-styling.list">Kerastase Styling</option>
+					
 						<option value="http://www.hqhair.com/health-beauty/brands/kilo-off.list">Kilo Off</option>
 					
 						<option value="http://www.hqhair.com/health-beauty/brands/kms-california.list">KMS California</option>
 					
 						<option value="http://www.hqhair.com/health-beauty/brands/korres.list">Korres</option>
 					
+						<option value="http://www.hqhair.com/health-beauty/brands/label-m.list">label.m</option>
+					
+						<option value="http://www.hqhair.com/health-beauty/brands/laidbare.list">Laidbare</option>
+					
+						<option value="http://www.hqhair.com/health-beauty/brands/lanza.list">Lanza</option>
+					
+						<option value="http://www.hqhair.com/health-beauty/brands/layla-cosmetics.list">Layla Cosmetics</option>
+					
 						<option value="http://www.hqhair.com/health-beauty/brands/ldn-skins.list">LDN: SKINS</option>
 					
 						<option value="http://www.hqhair.com/health-beauty/brands/le-edge.list">Le Edge</option>
 					
+						<option value="http://www.hqhair.com/health-beauty/brands/life-nk.list">Life NK</option>
+					
 						<option value="http://www.hqhair.com/health-beauty/brands/lipstick-queen.list">Lipstick Queen</option>
 					
 						<option value="http://www.hqhair.com/health-beauty/brands/little-white-lie.list">Little White Lie</option>
+					
+						<option value="http://www.hqhair.com/health-beauty/brands/living-nature.list">Living Nature</option>
 					
 						<option value="http://www.hqhair.com/health-beauty/brands/l-occitane.list">L'Occitane</option>
 					
@@ -901,7 +1020,9 @@
 					
 						<option value="http://www.hqhair.com/health-beauty/brands/l-oreal-elnett.list">L'Oreal Elnett</option>
 					
-						<option value="http://www.hqhair.com/health-beauty/brands/l-oreal-professionnel.list">L'Oreal</option>
+						<option value="http://www.hqhair.com/health-beauty/brands/l-oreal-paris.list">L'Oréal Paris</option>
+					
+						<option value="http://www.hqhair.com/health-beauty/brands/l-oreal-professionnel.list">L'Oreal Professionnel</option>
 					
 						<option value="http://www.hqhair.com/health-beauty/brands/macadamia.list">Macadamia</option>
 					
@@ -917,9 +1038,15 @@
 					
 						<option value="http://www.hqhair.com/health-beauty/brands/mavala.list">Mavala</option>
 					
+						<option value="http://www.hqhair.com/health-beauty/brands/maybelline.list">Maybelline</option>
+					
+						<option value="http://www.hqhair.com/health-beauty/brands/michel-mercier.list">Michel Mercier </option>
+					
 						<option value="http://www.hqhair.com/health-beauty/brands/micro-pedi.list">Micro-Pedi</option>
 					
 						<option value="http://www.hqhair.com/health-beauty/brands/miller-harris.list">Miller Harris</option>
+					
+						<option value="http://www.hqhair.com/health-beauty/brands/mizani.list">Mizani</option>
 					
 						<option value="http://www.hqhair.com/health-beauty/brands/mop.list">MOP</option>
 					
@@ -939,21 +1066,25 @@
 					
 						<option value="http://www.hqhair.com/health-beauty/brands/nails-inc.list">Nails Inc</option>
 					
+						<option value="http://www.hqhair.com/health-beauty/brands/nailtiques.list">Nailtiques</option>
+					
 						<option value="http://www.hqhair.com/health-beauty/brands/nanogen.list">Nanogen</option>
 					
 						<option value="http://www.hqhair.com/health-beauty/brands/nars.list">NARS</option>
 					
 						<option value="http://www.hqhair.com/health-beauty/brands/neotantric-fragrances.list">Neotantric Fragrances</option>
 					
+						<option value="http://www.hqhair.com/health-beauty/brands/new-cid-cosmetics.list">New CID Cosmetics</option>
+					
 						<option value="http://www.hqhair.com/health-beauty/brands/nexxus.list">Nexxus</option>
 					
 						<option value="http://www.hqhair.com/health-beauty/brands/nicki-minaj.list">Nicki Minaj</option>
 					
+						<option value="http://www.hqhair.com/health-beauty/brands/nicky-clarke.list">Nicky Clarke</option>
+					
 						<option value="http://www.hqhair.com/health-beauty/brands/nicole-by-opi.list">Nicole by OPI</option>
 					
 						<option value="http://www.hqhair.com/health-beauty/brands/nilaqua.list">Nilaqua</option>
-					
-						<option value="http://www.hqhair.com/health-beauty/brands/nina-ricci.list">Nina Ricci</option>
 					
 						<option value="http://www.hqhair.com/health-beauty/brands/nioxin.list">Nioxin</option>
 					
@@ -961,13 +1092,13 @@
 					
 						<option value="http://www.hqhair.com/health-beauty/brands/nubo.list">Nubo</option>
 					
+						<option value="http://www.hqhair.com/health-beauty/brands/nuxe.list">Nuxe</option>
+					
 						<option value="http://www.hqhair.com/health-beauty/brands/ole-henriksen.list">Ole Henriksen</option>
 					
 						<option value="http://www.hqhair.com/health-beauty/brands/opi.list">OPI</option>
 					
 						<option value="http://www.hqhair.com/health-beauty/brands/orly.list">Orly</option>
-					
-						<option value="http://www.hqhair.com/health-beauty/brands/paco-rabanne.list">Paco Rabanne</option>
 					
 						<option value="http://www.hqhair.com/health-beauty/brands/paperself.list">Paperself</option>
 					
@@ -977,7 +1108,13 @@
 					
 						<option value="http://www.hqhair.com/health-beauty/brands/percy-reed.list">Percy &amp; Reed</option>
 					
+						<option value="http://www.hqhair.com/health-beauty/brands/phb-ethical-beauty.list">PHB Ethical Beauty</option>
+					
 						<option value="http://www.hqhair.com/health-beauty/brands/philip-b.list">Philip B</option>
+					
+						<option value="http://www.hqhair.com/health-beauty/brands/phyto.list">Phyto</option>
+					
+						<option value="http://www.hqhair.com/health-beauty/brands/phytomer.list">Phytomer</option>
 					
 						<option value="http://www.hqhair.com/health-beauty/brands/pixi.list">Pixi</option>
 					
@@ -986,8 +1123,6 @@
 						<option value="http://www.hqhair.com/health-beauty/brands/pure-fiji.list">Pure Fiji</option>
 					
 						<option value="http://www.hqhair.com/health-beauty/brands/pureology.list">Pureology</option>
-					
-						<option value="http://www.hqhair.com/health-beauty/brands/ralph-lauren.list">Ralph Lauren</option>
 					
 						<option value="http://www.hqhair.com/health-beauty/brands/rapidlash.list">RapidLash</option>
 					
@@ -1001,15 +1136,19 @@
 					
 						<option value="http://www.hqhair.com/health-beauty/brands/ren.list">REN</option>
 					
+						<option value="http://www.hqhair.com/health-beauty/brands/riemann-p20.list">Riemann P20</option>
+					
 						<option value="http://www.hqhair.com/health-beauty/brands/rio.list">Rio</option>
 					
 						<option value="http://www.hqhair.com/health-beauty/brands/rococo-nail-apparel.list">Rococo Nail Apparel</option>
+					
+						<option value="http://www.hqhair.com/health-beauty/brands/sai-sei.list">Sai Sei</option>
 					
 						<option value="http://www.hqhair.com/health-beauty/brands/salvatore-ferragamo.list">Salvatore Ferragamo</option>
 					
 						<option value="http://www.hqhair.com/health-beauty/brands/santhilea.list">Santhilea</option>
 					
-						<option value="http://www.hqhair.com/health-beauty/brands/sarah-jessica-parker.list">Sarah Jessica Parker</option>
+						<option value="http://www.hqhair.com/health-beauty/brands/seascape.list">Seascape</option>
 					
 						<option value="http://www.hqhair.com/health-beauty/brands/sebastian-professional.list">Sebastian Professional</option>
 					
@@ -1027,7 +1166,9 @@
 					
 						<option value="http://www.hqhair.com/health-beauty/brands/st-tropez.list">St Tropez</option>
 					
-						<option value="http://www.hqhair.com/health-beauty/brands/steamcream.list">STEAMCREAM</option>
+						<option value="http://www.hqhair.com/health-beauty/brands/striplac.list">Striplac</option>
+					
+						<option value="http://www.hqhair.com/health-beauty/brands/tangle-angel.list">Tangle Angel</option>
 					
 						<option value="http://www.hqhair.com/health-beauty/brands/taylor-swift.list">Taylor Swift</option>
 					
@@ -1055,6 +1196,8 @@
 					
 						<option value="http://www.hqhair.com/health-beauty/brands/violent-lips.list">Violent Lips</option>
 					
+						<option value="http://www.hqhair.com/health-beauty/brands/vita-liberata.list">Vita Liberata</option>
+					
 						<option value="http://www.hqhair.com/health-beauty/brands/viviscal.list">Viviscal</option>
 					
 						<option value="http://www.hqhair.com/health-beauty/brands/wahl.list">WAHL</option>
@@ -1070,10 +1213,6 @@
 						<option value="http://www.hqhair.com/health-beauty/brands/xen-tan.list">Xen-Tan</option>
 					
 						<option value="http://www.hqhair.com/health-beauty/brands/yu-be.list">Yu-Be</option>
-					
-						<option value="http://www.hqhair.com/health-beauty/brands/yves-saint-laurent.list">Yves Saint Laurent</option>
-					
-						<option value="http://www.hqhair.com/health-beauty/brands/zirh.list">ZIRH</option>
 					
 				</select>
 			</label>
@@ -1424,7 +1563,7 @@
 					<li><a href="http://www.hqhair.com/about-us.info" title="About Us">About Us</a></li>
 					<li><a href="http://www.hqhair.com/delivery.info" title="Delivery Information">Delivery Information</a></li>
 					<li><a title="Get in contact with us" href="http://www.hqhair.com/contact-us.info" rel="nofollow">Contact Us</a></li>
-                    <li><a href="http://www.hqhair.com/affiliates.info" title="Affiliates">Affiliates</a></li>
+                    <li><a href="http://www.hqhair.com/affiliates.info" title="Become an Affiliate">Become an Affiliate</a></li>
 					<li><a href="http://www.hqhair.com/site-map.info" title="Go to Sitemap">Sitemap</a></li>
                     <li><a href="http://www.hqhair.com/returns-policy.info" title="Returns Policy">Returns Policy</a></li>
 					<li class="last"><a href="http://www.hqhair.com/cookies-policy.info" title="Cookie Information" rel="nofollow">Cookie Information</a></li>
@@ -1441,15 +1580,19 @@
 						</li>
 					
 						<li>
-							<a title="Acqua Di Parma" href="http://www.hqhair.com/health-beauty/brands/acqua-di-parma.list">Acqua Di Parma</a>
-						</li>
-					
-						<li>
 							<a title="Alpha H" href="http://www.hqhair.com/health-beauty/brands/alpha-h.list">Alpha H</a>
 						</li>
 					
 						<li>
 							<a title="Alterna" href="http://www.hqhair.com/health-beauty/brands/alterna.list">Alterna</a>
+						</li>
+					
+						<li>
+							<a title="Ambiance" href="http://www.hqhair.com/health-beauty/brands/ambiance.list">Ambiance</a>
+						</li>
+					
+						<li>
+							<a title="Amie" href="http://www.hqhair.com/health-beauty/brands/amie.list">Amie</a>
 						</li>
 					
 						<li>
@@ -1469,10 +1612,6 @@
 						</li>
 					
 						<li>
-							<a title="Armani" href="http://www.hqhair.com/health-beauty/brands/armani.list">Armani</a>
-						</li>
-					
-						<li>
 							<a title="Aromatherapy Associates" href="http://www.hqhair.com/health-beauty/brands/aromatherapy-associates.list">Aromatherapy Associates</a>
 						</li>
 					
@@ -1489,6 +1628,10 @@
 						</li>
 					
 						<li>
+							<a title="Bellapierre" href="http://www.hqhair.com/health-beauty/brands/bellapierre.list">Bellapierre</a>
+						</li>
+					
+						<li>
 							<a title="Bio-Oil" href="http://www.hqhair.com/health-beauty/brands/bio-oil.list">Bio-Oil</a>
 						</li>
 					
@@ -1501,19 +1644,11 @@
 						</li>
 					
 						<li>
-							<a title="Bloom and Blossom" href="http://www.hqhair.com/health-beauty/brands/bloom-and-blossom.list">Bloom and Blossom</a>
-						</li>
-					
-						<li>
 							<a title="Boo Boo" href="http://www.hqhair.com/health-beauty/brands/boo-boo.list">Boo Boo</a>
 						</li>
 					
 						<li>
 							<a title="Britney Spears" href="http://www.hqhair.com/health-beauty/brands/britney-spears.list">Britney Spears</a>
-						</li>
-					
-						<li>
-							<a title="Burberry" href="http://www.hqhair.com/health-beauty/brands/burberry.list">Burberry</a>
 						</li>
 					
 						<li>
@@ -1529,15 +1664,19 @@
 						</li>
 					
 						<li>
-							<a title="Cacherel" href="http://www.hqhair.com/health-beauty/brands/cacherel.list">Cacherel</a>
-						</li>
-					
-						<li>
-							<a title="Calvin Klein" href="http://www.hqhair.com/health-beauty/brands/calvin-klein.list">Calvin Klein</a>
-						</li>
-					
-						<li>
 							<a title="Caudalie" href="http://www.hqhair.com/health-beauty/brands/caudalie.list">Caudalie</a>
+						</li>
+					
+						<li>
+							<a title="Chicken Poop" href="http://www.hqhair.com/health-beauty/brands/chicken-poop.list">Chicken Poop</a>
+						</li>
+					
+						<li>
+							<a title="Cloud Nine" href="http://www.hqhair.com/health-beauty/brands/cloud-nine.list">Cloud Nine</a>
+						</li>
+					
+						<li>
+							<a title="Collagen Shots" href="http://www.hqhair.com/health-beauty/brands/collagen-shots.list">Collagen Shots</a>
 						</li>
 					
 				
@@ -1569,23 +1708,183 @@
 
 
 
-	
-	
-		<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
-	
 
 
 
 	
 	
-		<script type="text/javascript" src="/common/scripts/plugins/jquery.swfobject.1-0-9.min.js"></script>
-		<script type="text/javascript" src="/common/scripts/plugins/jquery.hint.js"></script>
-		<script type="text/javascript" src="/common/scripts/common.js?v=1.1"></script>
+
+	<script src="/common/scripts/libs/require/require.js"></script>
+	<script type="text/javascript">
+		// we are using a semi-public interface requirejs.s.contexts._.config.paths to iterate over config values
+		// which might get removed or changed between versions, so we need to check it's still available to us here
+		if (!requirejs.s || !requirejs.s.contexts || !requirejs.s.contexts._ || !requirejs.s.contexts._.config || !requirejs.s.contexts._.config.paths) {
+			alert('requireJS interface "requirejs.s.contexts._.config.paths" is no longer available. This interface is used to determine which modules to load per site configuration.\n\nPlease check for updates on this matter and fix code of ALL site JS files accordingly!');
+		}
+
+		var
+			moduleLoadErorShown = false,
+			path = {
+				nonsecure : '',
+				secure : '/hqhair'
+			},
+			localPath = (window.location.protocol === 'http:' ? path.nonsecure : path.secure),
+			trackVal = ''.slice(0, -3),
+			trackPaths = {},
+			trackShim = {};
+
+		// fill requireJS config for tracking scripts
+		
+		
+
+		requirejs.config({
+			baseUrl: '/common/scripts',
+			waitSeconds: 15,
+			urlArgs: 'v=1374251468',
+			paths: {
+				jquery: '//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min',
+				common: 'common',
+				swfObject: 'plugins/jquery.swfobject.1-1-1.min',
+				hint: 'plugins/jquery.hint',
+				hashchange: 'plugins/jquery.ba-hashchange.min',
+				mtabs: 'plugins/mtabs.2.2.min',
+				easing: 'plugins/jquery.easing.1.3'
+				
+				
+			},
+			shim: {
+				easing: ['jquery']
+				
+				
+			}
+		});
+
+		var ErrorHandling = (function () {
+			// do not log false errors when navigating away
+			if (window.exitting) return true;
+
+			var logToConsole = function (message, url, lineNumber) {
+		
+				// if message is an object, it came from requireJS and should be treated as such
+				if (typeof(message) === 'object') {
+					if (message.message) {
+						message = message.message.split('\n')[0];
+					}
+				}
+		
+				// prepare data
+				var
+					ga_group = 'JavaScript Logs',
+					ga_action = 'Script Loading',
+					ga_message = 'Message: ' + message + (url ? ' / Source: ' + url : '') + (lineNumber ? ' / Line: ' + lineNumber : ''),
+					eventCollection = ['_trackEvent', ga_group, ga_action, ga_message];
+		
+				// try to log error into GA
+				if (siteObj && siteObj.fn && siteObj.fn.gaEventTrack) {
+					siteObj.fn.gaEventTrack(ga_group, ga_action, ga_message);
+				} else {
+					if(typeof _gaq != 'undefined') { // check we've access to the Analytics _gaq object
+						_gaq.push(eventCollection);
+					}
+				}
+		
+				if (typeof console !== 'undefined') {
+					console.log(eventCollection);
+				}
+			};
+		
+			return {
+				logError: function (message, url, lineNumber) {
+					logToConsole(message, url, lineNumber);
+					return false;
+				}
+			};
+		}());
+		
+		window.onerror = ErrorHandling.logError;
+		requirejs.onError = function (err) {
+			// do not log false errors when navigating away
+			if (window.exitting) return;
+
+			var
+				modName = (err.requireModules && err.requireModules.length) ? err.requireModules[0] : 'unknown',
+				paths = {},
+				shim = {},
+				conf = {};
+		
+			paths[modName] = requirejs.s.contexts._.config.paths[modName],
+			shim[modName] = (requirejs.s.contexts._.config.shim ? requirejs.s.contexts._.config.shim[modName] : ''),
+			conf['paths']= paths;
+		
+			if (shim[modName]) {
+				conf['shim'] = shim;
+			}
+		
+			// if we've got a timeout, try to load the same script again (up to 2 additional times)
+			if (err.requireType === 'timeout' && (!scriptTimeouts[modName] || scriptTimeouts[modName] <= 3) ) {
+				scriptTimeouts[modName] = scriptTimeouts[modName] + 1 || 1;
+				requirejs.undef(modName);
+		
+		        requirejs.config(conf);
+		        require([modName], function () {});
+		    }
+
+			ErrorHandling.logError(err);
+			//throw err;
+		};
+
+		// makes a require() call for all the tracking scripts that were defined on the page
+		function requireTrackers() {
+			var
+				hasKeys = false,
+				modules = [];
+
+			for (var i in trackPaths) {
+				hasKeys = true;
+				break;
+			}
+
+			if (!hasKeys) return;
+
+			requirejs.config({
+				paths: trackPaths,
+				shim: trackShim
+			});
+
+			// build list of tracking modules to load
+			if (typeof(Object.keys) === 'function') {
+				modules = Object.keys(trackPaths);
+			} else {
+				for (var i in trackPaths) {
+					modules.push(i);
+				}
+			}
+
+			// now include external scripts
+			require(modules);
+		}
+
+		require(['c-scripts/hqhair.js']);
+	</script>
+	
+	
 	
 
 
 
-	<script type="text/javascript" src="/common/scripts/plugins/mtabs.2.2.min.js"></script>
+
+
+
+
+
+
+
+	
+	
+
+
+
+
 
 
 
@@ -1593,151 +1892,162 @@
 
 	
 
-	
 
 	
 
-	
-		<script type="text/javascript" src="/common/scripts/plugins/jquery.cycle.all.min.js"></script>
 
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+		
+	
+	
+	
+	
+		
+		
+	
+	
+	
+	
+	
+	
+	
+	
+	
 		
 
 		
-		
-		
-		<script type="text/javascript" src="scripts/hqhair.js?v=7"></script>
 	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-	
-    
-	
-	
-	
-
-
-
-
-
-
-
-
-
-	
-
-
-	
-	
-
-
-
-	
-	
-
-
-
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-	
-	
-	
-		
-	
-
-	
-	
-		<script type="text/javascript">
-			var __stormJs = 'js.stormiq.com/sid1799_4.003.js';
+	<!-- Google Code for Master List -->
+	<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+	<script type="text/javascript">
+		var google_tag_params = {
+			
+				
+				
+				
+				
+				
+					ecomm_pagetype: 'other'
+				
+			
+		};
+		/* <![CDATA[ */
+		var google_conversion_id = 997850542;
+		var google_conversion_label = "0wgKCLKUrwUQrvvn2wM";
+		var google_custom_params = window.google_tag_params;
+		var google_remarketing_only = true;
+		/* ]]> */
+	</script>
+	<div style="display:none">
+		<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
 		</script>
+	</div>
+	<noscript>
+		<div style="display:inline;">
+			<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/997850542/?value=0&amp;label=0wgKCLKUrwUQrvvn2wM&amp;guid=ON&amp;script=0"/>
+		</div>
+	</noscript>
+
+
+	
+
+
+	
+	
+
+
+
 		
+		
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+
+	
+		
+			<script type="text/javascript">
+				var __stormJs = 'js.stormiq.com/sid1799_4.003.js';
+			</script>
 			
-				<script type="text/javascript" src="/common/scripts/tracking/dcstorm-track.js"></script>
-			
-			
-		 
+				
+					<script type="text/javascript" src="/common/scripts/tracking/dcstorm-track.js"></script>
+				
+				
+			 
+		
+	
+		
+		
+
+
+
+
+
+
+
+
+ 
+	<script src="/common/scripts/tracking/affiliatewindow-merchant-scripts/3337.js" type="text/javascript" defer="defer"></script>
+
+
 	
 		
 	
