@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quiznos.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426171910id_/http%3A//www.quiznos.com/About/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quiznos.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806003302id_/http%3A//www.quiznos.com/About/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,3 +13,13 @@ Quiznos may also collect non-personal information from our online visitors, such
 If visitors send us any comments, suggestions, information, ideas, concepts, knowledge or techniques, Quiznos is free to use the information worldwide, in perpetuity, without acknowledgement or compensation, for any purpose, including developing, manufacturing or marketing products and/or modifying or improving our web site(s).
 
 This Privacy Policy may be modified by Quiznos at any time by updating this posting. You are responsible for reviewing this Privacy Policy each time you use or access the Quiznos Website.
+
+We partner with SteelHouse to deliver offers that are relevant to your interests based on what  
+you’ve viewed on our site. SteelHouse’s cookies only collect Non-Personally Identifiable Information  
+for online marketing purposes. This information is anonymous and cannot be traced back to any  
+individual. To learn more, please visit SteelHouse’s [Privacy Policy](http://www.steelhouse.com/privacy-policy). To receive less relevant offers and  
+decline to be included in our online offers through SteelHouse, click here. To opt-out of all online  
+marketing provided by members of the Network Advertising Initiative (NAI) of which SteelHouse is a  
+member, [click here.](http://www.steelhouse.com/opt-out)
+
+NETWORK ADVERTISING INITIATIVE: http://www.networkadvertising.org
