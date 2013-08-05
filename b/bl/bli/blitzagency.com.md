@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blitzagency.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515053132id_/http%3A//www.blitzagency.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blitzagency.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805181127id_/http%3A//www.blitzagency.com/privacy-policy) for the most accurate reproduction.*
 
 # BLITZ – Full Service Digital Agency with Social Media Agency Capabilities | Privacy Policy
 
