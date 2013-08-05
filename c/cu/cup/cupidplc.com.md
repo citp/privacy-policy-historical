@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cupidplc.com privacy policy that was archived on 2013-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130127230405id_/http%3A//www.cupidplc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cupidplc.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805080235id_/http%3A//www.cupidplc.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Cupid plc - Privacy policy
 
