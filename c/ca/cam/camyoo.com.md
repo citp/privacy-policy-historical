@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the camyoo.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115173055id_/http%3A//www.camyoo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camyoo.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805103150id_/http%3A//www.camyoo.com/privacy.html) for the most accurate reproduction.*
 
 # CamYoo
 
