@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beprepared.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502125716id_/http%3A//beprepared.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beprepared.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805162723id_/http%3A//beprepared.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,8 +7,6 @@
 We can be reached via e-mail at sales@beprepared.com or by calling toll free at 1-800-999-1863. Our Sales Consulting Staff is available from 8 am to 6 pm M-F MST and 9 am to 5 pm Saturday MST. We can also be reached by regular mail at 653 North 1500 West, Orem, Utah 84057.
 
 We only collect customer navigation information in order to improve the content of our website. The information you provide us, information about your order, and other generic demographic and past purchase information may be shared with third parties who may place anonymous cookies on the browsers of website visitors or the visitor’s own cookie file. This information will solely be used to make our future marketing efforts and website design more pleasing and efficient.
-
-We occasionally make our list available to carefully screened companies whose products may interest you. If you prefer to have your name withheld, please fax (1-801-222-9598) or mail us the address area located on the back cover of your catalog or on a mail piece. In addition, please indicate your preference (see below) so we may do our best to fulfill your request.
 
 #### Preferences
 
@@ -20,8 +18,6 @@ We occasionally make our list available to carefully screened companies whose pr
 
 
 #### E-mail
-
-E-mail information is also sometimes shared with other organizations whose products may interest you. If you prefer not to receive e-mail from us or have your address withheld in the future, please e-mail your full e-mail address in the message field with the word "remove" in the subject field to webmaster@beprepared.com, and we will remove your name from the list we share with other organizations.
 
 Emergency Essentials® respects your privacy and does not condone or participate in the sending of Spam (email that is both unsolicited and is commercial in nature). Unless you opt into one of our special promotions programs, we will only communicate with you regarding your orders and specific inquiries. When you shop on BePrepared.com or send e-mails to us, you are communicating with us electronically, thereby consenting to receive communications from us electronically as part of your online shopping experience and as response to your inquires.
 
