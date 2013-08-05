@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the lazymeal.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117004452id_/http%3A//www.lazymeal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lazymeal.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805164237id_/https%3A//lazymeal.com/about/privacy) for the most accurate reproduction.*
 
-# lazymeal - The Social Food Platform
+# Privacy
+
+lazymeal collects certain personal, psychographic and demographic information for the purpose of enhancing your experience. Because your privacy is important to us, please read the measures below to learn about the information lazymeal collects and how it is used and managed. 
 
 ## What information does lazymeal collect?
 
@@ -55,7 +57,7 @@ lazymeal uses secure protocols that are widely recognized and used. However, laz
 
 ## How Can you Change or Restrict Information Shared with lazymeal?
 
-Log-in to your lazymeal user account to hange your shared Personally Identifiable Information as desired. If you have further concerns regarding your privacy and information, please contact [info@lazymeal](mailto:info@lazymeal) and a lazymeal representative will respond within 48 hours.
+Log-in to your lazymeal user account to hange your shared Personally Identifiable Information as desired. If you have further concerns regarding your privacy and information, please contact [info@lazymeal.com](mailto:info@lazymeal.com) and a lazymeal representative will respond within 48 hours.
 
 ## lazymeal Privacy Policy Terms
 
