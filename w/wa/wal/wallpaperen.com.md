@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallpaperen.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625004731id_/http%3A//wallpaperen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallpaperen.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806012419id_/http%3A//wallpaperen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Download High Definition Wallpapers, High Definition Background
 
