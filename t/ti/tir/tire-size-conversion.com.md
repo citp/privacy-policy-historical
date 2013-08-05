@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tire-size-conversion.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622185859id_/http%3A//tire-size-conversion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tire-size-conversion.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805213249id_/http%3A//tire-size-conversion.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
