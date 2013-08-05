@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lipy.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423111258id_/http%3A//www.lipy.com/cms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lipy.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805172632id_/http%3A//www.lipy.com/cms/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
