@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebook-free-download.net privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529232332id_/http%3A//ebook-free-download.net/policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebook-free-download.net privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805090051id_/http%3A//www.ebook-free-download.net/policy.aspx) for the most accurate reproduction.*
 
 # Ebook : Free Download |
 
