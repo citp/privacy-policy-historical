@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myeecu.org privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016142928id_/https%3A//www.myeecu.org/home/fiFiles/static/documents/EECUPrivacyNotice.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myeecu.org privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805232440id_/https%3A//www.myeecu.org/home/fiFiles/static/documents/EECUPrivacyNotice.pdf) for the most accurate reproduction.*
 
 # 
 
