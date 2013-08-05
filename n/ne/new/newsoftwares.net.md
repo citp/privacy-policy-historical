@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsoftwares.net privacy policy that was archived on 2012-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120728174207id_/http%3A//www.newsoftwares.net/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsoftwares.net privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805105527id_/http%3A//www.newsoftwares.net/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - New Softwares.net Security Products | Online Backup Solutions
 
@@ -40,7 +40,7 @@ Information Collection
 
 Website Cookies and Logs
 
-When you visit [www.New Softwares.net](http://www.newsoftwares.net/) and other [New Softwares.net](http://www.newsoftwares.net/) websites, our servers automatically collect certain information such as your IP address, browser type, page requested, cookies, etc. This information is used to provide a custom experience, keep your session active, or improve the service.
+When you visit [www.newsoftwares.net](http://www.newsoftwares.net/) and other [New Softwares.net](http://www.newsoftwares.net/) websites, our servers automatically collect certain information such as your IP address, browser type, page requested, cookies, etc. This information is used to provide a custom experience, keep your session active, or improve the service.
 
 Information You Provide
 
@@ -76,11 +76,11 @@ From time to time, New Softwares.net will communicate with you via email to info
 
 Updating or Removing Information
 
-Users may update or remove their information by signing in to [www.newsoftwares.net ](http://www.newsoftwares.net/) or contacting [New Softwares.net](https://web.archive.org/web/20120728174207id_/http%3A//www.newsoftwares.net/legal/contact) Support to remove your information, please visit your account and click "Cancel Account." If you cancel your account, some of your data may still be retained in our archives or backups.
+Users may update or remove their information by signing in to [www.newsoftwares.net ](http://www.newsoftwares.net/) or contacting [New Softwares.net](http://www.newsoftwares.net/contact) Support to remove your information, please visit your account and click "Cancel Account." If you cancel your account, some of your data may still be retained in our archives or backups.
 
 Privacy Policy Changes
 
-New Softwares.net may update this Privacy Policy from time to time. We expect these changes to be minor. New policies will be posted to [www.newsoftwares.net/privacy](http://www.newsoftwares.net/privacy) and, for material changes, we will announce more prominently (including potential email notification.) Your continued usage of the Service expressly constitutes consent.
+New Softwares.net may update this Privacy Policy from time to time. We expect these changes to be minor. New policies will be posted on this page [](http://www.newsoftwares.net/privacy) and, for material changes, we will announce more prominently (including potential email notification.) Your continued usage of the Service expressly constitutes consent.
 
 Safe Harbor
 
@@ -88,8 +88,8 @@ New Softwares.net supports the Safe Harbor Privacy Principles as covered in this
 
 Privacy Complaints
 
-New Softwares.net is committed to protecting your privacy. If you have a privacy complaint, please contact us directly first to attempt to resolve any issue by visiting our [Privacy-Policy](http://www.newsoftwares.net/privacy).
+New Softwares.net is committed to protecting your privacy. If you have a privacy complaint, please contact us directly first to attempt to resolve any issue by visiting our Privacy-Policy.
 
 Contacting New Softwares.net
 
-To view the latest version of this Privacy Policy and for any questions, comments, suggestions, or concerns, please [contact us.](https://web.archive.org/web/20120728174207id_/http%3A//www.newsoftwares.net/legal/contact)
+To view the latest version of this Privacy Policy and for any questions, comments, suggestions, or concerns, please [contact us.](http://www.newsoftwares.net/contact)
