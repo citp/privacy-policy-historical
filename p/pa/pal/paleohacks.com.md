@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paleohacks.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529203703id_/http%3A//paleohacks.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paleohacks.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805211232id_/http%3A//paleohacks.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # PrivacyPolicy - PaleoHacks.com
 
