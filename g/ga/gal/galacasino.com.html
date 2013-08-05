@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the galacasino.com privacy policy that was archived on 2013-01-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130115043724id_/http%3A//www.galacasino.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the galacasino.com privacy policy that was archived on 2013-08-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130806011847id_/http%3A//www.galacasino.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <title>Gala Casino Privacy Policy Gala Casino Privacy Policy</title>
-<script type="text/javascript" async="" src="https://owa.petrstetka.com/modules/base/js/owa.tracker-combined-min.js"></script><script async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+<script type="text/javascript" async="" src="https://owa.petrstetka.com/modules/base/js/owa.tracker-combined-min.js"></script><script async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript"> document.ready = function(){ if ( $j('#welcome-message').html() != null) { OWATracker = new OWA.tracker(); OWATracker.trackAction("login",$j('#welcome-message').html().substr(15)); } }; </script> <script type="text/javascript"> var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-29851501-1']); _gaq.push(['_setDomainName', 'galacasino.com']); _gaq.push(['_setAllowLinker', true]); _gaq.push(['_trackPageview']); (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })(); </script> <script type="text/javascript"> function gup(name) { name = name.replace(/[\[]/, "\\\[").replace(/[\]]/, "\\\]"); var regexS = "[\\?&]" + name + "=([^&#]*)"; var regex = new RegExp(regexS); var results = regex.exec(window.location.href); if (results == null) return ""; else return results[1]; } function setCookie(c_name,c_value,c_expiredays) { var exdate=new Date(); exdate.setDate(exdate.getDate()+c_expiredays); document.cookie=c_name+ "=" +escape(c_value)+ ((c_expiredays==null) ? "" : ";expires="+exdate.toGMTString()); } setCookie('__utmz','utmgclid='+gup('gclid')); </script>
+<script type="text/javascript">
 if (window.location.pathname.indexOf('http://wap.galacasino.com') == -1) {
 var mobileRedirectScript = document.createElement("script");
 mobileRedirectScript.type = "text/javascript";
@@ -23,15 +24,15 @@ checkRedirect();
 }
 }
 function checkRedirect() {
+if (''.length == 0 || document.cookie.indexOf('') == -1) {
 playtechRedirectToWebAppsLobbyIfSupportedDevice('http://wap.galacasino.com');
+} else {
+playtechRedirectToWebAppsLobbyIfSupportedDevice('');
+}
 }
 }
 </script><script type="text/javascript" src="https://wap.galacasino.com/en/api.js"></script>
 <meta content="text/html; charset=UTF-8" http-equiv="content-type">
-<meta name="description" content="Gala Casino Privacy Policy
-" lang="en-US">
-<meta name="keywords" content="Gala Casino Privacy Policy
-" lang="en-US">
 <link rel="canonical" href="http://www.galacasino.com/privacy-policy">
 <script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()])</script>
 <link href="http://cachewww.galacasino.com/gala-theme/images/favicon.ico" rel="Shortcut Icon XXXXXX">
@@ -57,36 +58,43 @@ Playtech.User = Playtech.User || {};
 Playtech.Translations = Playtech.Translations || {};
 </script>
 <script type="text/javascript">
-Playtech.gameLaunchInfo = {
-gameClientBaseURL:"http://cache.download.galacasino.com/casinoclient.html",
-params:{skin:"galacasino", 'short':"1G", name:"galacasino", isAdminLoggedIn:"false"},
-backDocument:"",
-gts:{GTSGameClientAS3BaseURL:"http://cache.download.galacasino.com/download/gts/galawrapper.html",
-GTSGameClientAS2BaseURL:"http://cache.download.galacasino.com/download/gts_as2/galawrapper.html",
-GTSGameClientTokenURL:"/delegate/tokenRequest.do?serviceType=GamePlay",
-GTSGameClientEdgeURL:"https://galacasino.gtspt.com/edge/WebEngine",
-GTSGameSystemId:"244",
-domain:"9G",
-clientPlatform:"web",
-clientType:"casino",
-clientVersion:"0.1"},
-ww:{
-WWGameClientBaseURL:"https://platform.gi.rgsgames.com/game.do",
-nscode:"GLGB",
-skincode:"GCXT",
-currencycode:"null",
-uniqueid:"null",
-language:"null",
-countrycode:"null",
-systemId:"244"}
+Playtech.Config.pollUtil = {
+interval: 5000
 }
+;
+Playtech.gameLaunchInfo = {
+gameClientBaseURL: "http://cache.download.galacasino.com/casinoclient.html",
+params: {skin: "galacasino", 'short': "1G", name: "galacasino", isAdminLoggedIn: "false"},
+backDocument: "",
+gts: {GTSGameClientAS3BaseURL: "http://cache.download.galacasino.com/download/gts/galawrapper.html",
+GTSGameClientAS2BaseURL: "http://cache.download.galacasino.com/download/gts_as2/galawrapper.html",
+GTSGameClientTokenURL: "/delegate/tokenRequest.do?serviceType=GamePlay",
+GTSGameClientEdgeURL: "https://galacasino.gtspt.com/edge/WebEngine",
+GTSGameSystemId: "244",
+domain: "9G",
+clientPlatform: "web",
+clientType: "casino",
+clientVersion: "0.1"},
+ww: {
+WWGameClientBaseURL: "https://platform.gi.rgsgames.com/game.do",
+nscode: "GLGB",
+skincode: "GCXT",
+currencycode: "null",
+uniqueid: "null",
+language: "null",
+countrycode: "null",
+systemId: "244"
+},
+bingoGameLaunchUrl: "/delegate/tokenRequest.do?responseType=xml&serviceType=GamePlay&skin=galacasino&short=1G&name=galacasino&systemId=244&"
+};
 Playtech.Variables.layoutTypeName = "CASINO";
 Playtech.Variables.userCurrency = "GBP";
 Playtech.Variables.jackpotTickerUrl = "/games-portlet/tickers/";
 Playtech.Variables.gmapKey = "AIzaSyAQnbQGmbhxumzHp6s9rlIARhwxA79WlY0";
 Playtech.Variables.cdnUrl = "http://cachewww.galacasino.com";
 Playtech.Variables.sessionTimeout = "360";
-Playtech.Variables.guestHomePage = "/home";
+Playtech.Variables.guestHomePage = "";
+Playtech.Variables.pigamesUrl = "https://galacasinobingo.virtuefusion.com/pigames";
 Playtech.Variables.redirectScriptUrl = "";
 Playtech.Translations["playtech.popup.close"] = "Close";
 </script>
@@ -205,10 +213,10 @@ isSignedIn: function() {
 return false;
 },
 getDefaultLanguageId: function() {
-return "en_US";
+return "en_GB";
 },
 getLanguageId: function() {
-return "en_US";
+return "en_GB";
 },
 isFreeformLayout: function() {
 return false;
@@ -244,10 +252,13 @@ getURLHome: function() {
 return "http://www.galacasino.comgalacasino.com";
 },
 getSessionId: function() {
-return "F09EC04ED59C896A2930436A6A107A8E.por01-pub-gc";
+return "A35412A55F7A8DB62279215661D90705.por07-pub-gc";
 },
 getPortletSetupShowBordersDefault: function() {
 return true;
+},
+getCDNHost: function() {
+return "http://cachewww.galacasino.com";
 }
 },
 PropsValues: {
@@ -263,21 +274,22 @@ getCombine: function() {
 return true;
 },
 getComboPath: function() {
-return 'http://cachewww.galacasino.com/combo/?browserId=other&minifierType=&languageId=en_US&t=1357289753000&p=/html/js&';
+return 'http://cachewww.galacasino.com/combo/?browserId=other&minifierType=&languageId=en_GB&t=1373889050000&p=/html/js&';
 },
 getFilter: function() {
 return {
 replaceStr: function(match, fragment, string) {
 return fragment + 'm=' + (match.split('/html/js')[1] || '');
 },
-searchExp: '(\\?|&)/([^&]+)'
+/*searchExp: '(\\?|&)/([^&]+)'*/
+searchExp: '(\\?|&)(/|http://cachewww.galacasino.com/)([^&]+)'
 };
 },
 getJavaScriptRootPath: function() {
 return '/html/js';
 },
 getLangPath: function () {
-return 'aui_lang.jsp?browserId=other&themeId=gala_WAR_galatheme&colorSchemeId=01&minifierType=js&languageId=en_US&t=1357289753000';
+return 'aui_lang.jsp?browserId=other&themeId=gala_WAR_galatheme&colorSchemeId=01&minifierType=js&languageId=en_GB&t=1373889050000';
 },
 getRootPath: function() {
 return '/html/js/aui/';
@@ -301,11 +313,12 @@ Liferay.currentURLEncoded = '%2Fprivacy-policy';
 Liferay.Portlet.list = ['56_INSTANCE_ZI1b'];
 // ]]>
 </script>
-<link class="lfr-css-file" href="http://cachewww.galacasino.com/gala-theme/css/main.css" rel="stylesheet" type="text/css">
+<link class="lfr-css-file" href="http://cachewww.galacasino.com/gala-theme/css/main.css?browserId=other&amp;minifierType=css&amp;languageId=en_GB&amp;t=1373887601000" rel="stylesheet" type="text/css">
+<link class="lfr-css-file" href="/html/js/loader/reveal/reveal.css?browserId=other&amp;minifierType=css&amp;languageId=en_GB&amp;t=1373889049000" rel="stylesheet" type="text/css">
 <style type="text/css">
 /* <![CDATA[ */
 #heading .logo {
-background: url(http://cachewww.galacasino.com/image/layout_set_logo?img_id=12018&amp;t=1358170993432) no-repeat;
+background: url(http://cachewww.galacasino.com/image/layout_set_logo?img_id=12018&amp;t=1375716034156) no-repeat;
 display: block;
 font-size: 0;
 height: 59px;
@@ -332,8 +345,9 @@ var s = document.getElementsByTagName('script')[0];
 s.parentNode.insertBefore(ga, s);
 })();
 </script>
-<script src="//dev.visualwebsiteoptimizer.com/j.php?a=24199&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20130115043724id_%2Fhttp%253A%2F%2Fwww.galacasino.com%2Fprivacy-policy&amp;r=0.3208881263576473" type="text/javascript"></script></head>
+<script src="//dev.visualwebsiteoptimizer.com/j.php?a=24199&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20130806011847id_%2Fhttp%253A%2F%2Fwww.galacasino.com%2Fprivacy-policy&amp;r=0.07617508832962949" type="text/javascript"></script></head>
 <body>
+<style type="text/css"> #nav, .multiview-item-wrap {word-spacing: 0;} </style> <select style="display:none;" name="_88_schedulerStartDateAmPm"> <option selected="selected"></option> </select>
 <div id="wrap" class="globalConfig" data-currency="EUR" data-no-deposit="{&quot;width&quot;: &quot;800&quot;, &quot;height&quot;: &quot;500&quot;}" data-support-chat-location="https://chatweb-galacasino.egalacoral.com/chat_web/conf/galacasino_casino/playtechchat">
 <div id="header">
 <p id="heading">
@@ -373,7 +387,7 @@ s.parentNode.insertBefore(ga, s);
 </a>
 </p>
 <p id="join">
-Not a member? <a href="/register">Register now!</a>
+Not a member? <a class="regbutton" href="/register" data-title="Register Account">Register now!</a>
 </p>
 </div>
 </div>
@@ -393,11 +407,10 @@ Not a member? <a href="/register">Register now!</a>
 <li class=" primary-nav-item" data-item="find casino"><a href="http://www.galacasino.com/casino-finder"><span>find casino</span></a></li>
 </ul>
 </div>
-</div>          <div id="wrap-super-menu">
+</div>    <div id="wrap-super-menu">
 <div id="super-menu">
 <div class="super-menu">
 <ul class="super-menu-1">
-
 
 <li class="super-menu-2 ">
 <div class="super-menu-item" data-item="casino">
@@ -424,11 +437,11 @@ Not a member? <a href="/register">Register now!</a>
 <div class="super-content-block">
 <h3>Most Played</h3>
 <ul>
-<li><a href="#" class="launcher" data-ww-game-config="" data-gts-game-config="" data-gamecode="dt" data-gametype="pt" title="Desert Treasure">Desert Treasure</a></li>
-<li><a href="#" class="launcher" data-ww-game-config="" data-gts-game-config="" data-gamecode="bj_mh5" data-gametype="pt" title="Blackjack">Blackjack</a></li>
-<li><a href="#" class="launcher" data-ww-game-config="" data-gts-game-config="" data-gamecode="ro" data-gametype="pt" title="European Roulette">European Roulette</a></li>
-<li><a href="#" class="launcher" data-ww-game-config="" data-gts-game-config="" data-gamecode="glr" data-gametype="pt" title="Gladiator">Gladiator</a></li>
-<li><a href="#" class="launcher" data-ww-game-config="" data-gts-game-config="" data-gamecode="bjl" data-gametype="pt" title="Blackjack Live">Blackjack Live</a></li>
+<li><a href="#" class="launcher" data-ww-game-config="" data-gts-game-config="" data-vf-launch-code="$topGame.vfLaunchCode" data-gamecode="dt" data-gametype="pt" title="Desert Treasure">Desert Treasure</a></li>
+<li><a href="#" class="launcher" data-ww-game-config="" data-gts-game-config="" data-vf-launch-code="$topGame.vfLaunchCode" data-gamecode="bj_mh5" data-gametype="pt" title="Blackjack">Blackjack</a></li>
+<li><a href="#" class="launcher" data-ww-game-config="" data-gts-game-config="" data-vf-launch-code="$topGame.vfLaunchCode" data-gamecode="ro" data-gametype="pt" title="European Roulette">European Roulette</a></li>
+<li><a href="#" class="launcher" data-ww-game-config="" data-gts-game-config="" data-vf-launch-code="$topGame.vfLaunchCode" data-gamecode="glr" data-gametype="pt" title="Gladiator">Gladiator</a></li>
+<li><a href="#" class="launcher" data-ww-game-config="" data-gts-game-config="" data-vf-launch-code="$topGame.vfLaunchCode" data-gamecode="bjl" data-gametype="pt" title="Blackjack Live">Blackjack Live</a></li>
 <li><a href="" title=""></a></li>
 </ul>
 </div>
@@ -436,11 +449,11 @@ Not a member? <a href="/register">Register now!</a>
 <div class="pt-item-wrap-2">
 <div class="pt-item" style="width:160px">
 <h3 class="game-title">
-Fantastic Four</h3>
+Blackjack Live</h3>
 <p class="pt-img">
-<img alt="" src="http://cachewww.galacasino.com/image/game-pics/Fantastic4.jpg" style="width: 138px; height: 96px;"></p>
+<img alt="" src="http://cachewww.galacasino.com/image/game-pics/liveblackjack138x96.jpg" style="width: 138px; height: 96px;"></p>
 <p class="links1">
-<a class="btn launcher" data-gamecode="fnf" data-gametype="pt" data-gts-game-config="" href="#" title="Fantastic Four"><span><strong>Play</strong></span></a>&nbsp;<a class="btn btn5 demo launcher" data-gamecode="fnf" data-gametype="pt" data-gts-game-config="" href="#" style="font-size: 100%; padding: 1px 6px;" title="Fantastic Four"><span><strong>free play</strong></span></a> <a class="btn btn2 info" href="#" onclick="Playtech.Popup.popupWebContent({articleId: '49803',title:'Fantastic Four', width:'300px', height:'100'}); return false;"><span><strong>i</strong></span></a></p>
+<a class="btn launcher" data-gamecode="bjl" data-gametype="pt" data-gts-game-config="" href="#" title="Blackjack Live"><span><strong>Play</strong></span></a>&nbsp;<a class="btn btn5 demo launcher" data-gamecode="bjl" data-gametype="pt" data-gts-game-config="" href="#" style="font-size: 100%; padding: 1px 6px;" title="Blackjack Live"><span><strong>free play</strong></span></a> <a class="btn btn2 info" href="#" onclick="Playtech.Popup.popupWebContent({articleId: 'bjl',title:'Blackjack Live', width:'500px', height:'220px'}); return false;"><span><strong>i</strong></span></a></p>
 </div>
 </div>
 </div>
@@ -448,11 +461,11 @@ Fantastic Four</h3>
 <div class="pt-item-wrap-2">
 <div class="pt-item" style="width:160px">
 <h3 class="game-title">
-Iron Man</h3>
+Roulette Live</h3>
 <p class="pt-img">
-<img alt="Iron Man 2" src="http://cachewww.galacasino.com/image/game-pics/Iron-Man-2.jpg" style="width: 138px; height: 96px;"></p>
+<img alt="" src="http://cachewww.galacasino.com/image/game-pics/roulette_live.jpg" style="width: 138px; height: 96px;"></p>
 <p class="links1">
-<a class="btn launcher" data-gamecode="irm2" data-gametype="pt" data-gts-game-config="" href="#" title="Iron Man Progressive"><span><strong>Play</strong></span></a>&nbsp;<a class="btn btn5 demo launcher" data-gamecode="irm2" data-gametype="pt" data-gts-game-config="" href="#" style="font-size: 100%; padding: 1px 6px;" title="Iron Man Progressive"><span><strong>free play</strong></span></a> <a class="btn btn2 info" href="#" ;="" onclick:"playtech.popup.popupwebcontent({articleid:="" '49803',title:'iron="" man="" progressive',="" width:'300px',="" height:'100'});="" return="" false;"=""><span><strong>i</strong></span></a></p>
+<a class="btn launcher" data-gamecode="rol" data-gametype="pt" data-gts-game-config="" href="#" title="Roulette Live"><span><strong>Play</strong></span></a>&nbsp;<a class="btn btn5 demo launcher" data-gamecode="rol" data-gametype="pt" data-gts-game-config="" href="#" style="font-size: 100%; padding: 1px 6px;" title="Roulette Live"><span><strong>free play</strong></span></a> <a class="btn btn2 info" href="#" onclick="Playtech.Popup.popupWebContent({articleId: 'rol',title:'Roulette Live', width:'500px', height:'220px'}); return false;"><span><strong>i</strong></span></a></p>
 </div>
 </div>
 </div>
@@ -468,23 +481,32 @@ Iron Man</h3>
 <h3>slots</h3>
 <ul>
 <li><a href="/slots/all" title="All slots">All slots</a></li>
-<li><a href="/slots/3-reel" title="3-reel">3-reel</a></li>
-<li><a href="/slots/5-reel" title="5-reel">5-reel</a></li>
-<li><a href="/slots/bonus-rounds" title="Bonus rounds">Bonus rounds</a></li>
 <li><a href="/slots/top-slots" title="Top slots">Top slots</a></li>
+<li><a href="/slots/recently-released" title="Recently released">Recently released</a></li>
 <li><a href="/slots/jackpots" title="Jackpots">Jackpots</a></li>
-<li><a href="/slots/single-line" title="Single line">Single line</a></li>
+<li><a href="/slots/from-the-big-screen" title="From the big screen">From the big screen</a></li>
+<li><a href="/slots/superheroes" title="Superheroes">Superheroes</a></li>
+<li><a href="/slots/fun-and-games" title="Fun &amp; games">Fun &amp; games</a></li>
+<li><a href="/slots/adventure-and-treasure" title="Adventure &amp; treasure">Adventure &amp; treasure</a></li>
+<li><a href="/slots/magic-and-myth" title="Magic &amp; myth">Magic &amp; myth</a></li>
+<li><a href="/slots/sports" title="Sports">Sports</a></li>
+<li><a href="/slots/animals-and-nature" title="Animals &amp; nature">Animals &amp; nature</a></li>
+<li><a href="/slots/leisure-and-romance" title="Leisure &amp; romance">Leisure &amp; romance</a></li>
+<li><a href="/slots/all-ways-and-multiway" title="All ways &amp; multiway">All ways &amp; multiway</a></li>
+<li><a href="/slots/cartoons-and-animation" title="Cartoons &amp; animation">Cartoons &amp; animation</a></li>
+<li><a href="/slots/food-and-drink" title="Food &amp; drink">Food &amp; drink</a></li>
+<li><a href="/slots/classic" title="Classic">Classic</a></li>
 <li><a href="" title=""></a></li>
 </ul>
 </div>
 <div class="super-content-block">
 <h3>Most Played</h3>
 <ul>
-<li><a href="#" class="launcher" data-ww-game-config="" data-gts-game-config="" data-gamecode="dt" data-gametype="pt" title="Desert Treasure">Desert Treasure</a></li>
-<li><a href="#" class="launcher" data-ww-game-config="" data-gts-game-config="" data-gamecode="glr" data-gametype="pt" title="Gladiator">Gladiator</a></li>
-<li><a href="#" class="launcher" data-ww-game-config="" data-gts-game-config="" data-gamecode="irm3" data-gametype="pt" title="Iron Man 2">Iron Man 2</a></li>
-<li><a href="#" class="launcher" data-ww-game-config="{&quot;gameLaunchURL&quot;: &quot;http://ww2.galacasino.com/wagerworksal/&quot;,&quot;softwareid&quot;: &quot;200-0109-001&quot;,&quot;nscode&quot;: &quot;GALA&quot;,&quot;skincode&quot;: &quot;GCMJ &quot;}" data-gts-game-config="" data-gamecode="gts146" data-gametype="ww" title="MegaCleopatra">MegaCleopatra</a></li>
-<li><a href="#" class="launcher" data-ww-game-config="" data-gts-game-config="{&quot;nativeHeight&quot;: &quot;&quot;,&quot;height&quot;: &quot;580&quot;,&quot;nativeWidth&quot;: &quot;&quot;,&quot;width&quot;: &quot;795&quot;,&quot;configurationStages&quot;: &quot;&quot;,&quot;loadingStages&quot;: &quot;&quot;,&quot;gamePath&quot;: &quot;http://galacasino-static.gtspt.com/games/ag-alice/&quot;,&quot;gameFormat&quot;: &quot;&quot;,&quot;gameTitle&quot;: &quot;AG-Alice&quot;,&quot;gameName&quot;: &quot;gcagalice&quot;,&quot;asVersion&quot;: &quot;2&quot;}" data-gamecode="gts80" data-gametype="gts" title="Adventures in Wonderland">Adventures in Wonderland</a></li>
+<li><a href="#" class="launcher" data-ww-game-config="" data-gts-game-config="" data-vf-launch-code="$topGame.vfLaunchCode" data-gamecode="dt" data-gametype="pt" title="Desert Treasure">Desert Treasure</a></li>
+<li><a href="#" class="launcher" data-ww-game-config="" data-gts-game-config="" data-vf-launch-code="$topGame.vfLaunchCode" data-gamecode="glr" data-gametype="pt" title="Gladiator">Gladiator</a></li>
+<li><a href="#" class="launcher" data-ww-game-config="" data-gts-game-config="" data-vf-launch-code="$topGame.vfLaunchCode" data-gamecode="irm3" data-gametype="pt" title="Iron Man 2">Iron Man 2</a></li>
+<li><a href="#" class="launcher" data-ww-game-config="" data-gts-game-config="" data-vf-launch-code="Megajackpots Cleopatra SA" data-gamecode="gts146" data-gametype="vf-slot" title="MegaCleopatra">MegaCleopatra</a></li>
+<li><a href="#" class="launcher" data-ww-game-config="" data-gts-game-config="" data-vf-launch-code="Alices Wonderland SA" data-gamecode="gts80" data-gametype="vf-slot" title="Alices Wonderland">Alices Wonderland</a></li>
 <li><a href="" title=""></a></li>
 </ul>
 </div>
@@ -492,11 +514,11 @@ Iron Man</h3>
 <div class="pt-item-wrap-2">
 <div class="pt-item" style="width:160px">
 <h3 class="game-title">
-Fantastic Four</h3>
+Gladiator Jackpot</h3>
 <p class="pt-img">
-<img alt="" src="http://cachewww.galacasino.com/image/game-pics/Fantastic4.jpg" style="width: 138px; height: 96px;"></p>
+<img alt="" src="http://cachewww.galacasino.com/image/game-pics/gladiatorjp_138x96.jpg" style="width: 138px; height: 96px;"></p>
 <p class="links1">
-<a class="btn launcher" data-gamecode="fnf" data-gametype="pt" data-gts-game-config="" href="#" title="Fantastic Four"><span><strong>Play</strong></span></a>&nbsp;<a class="btn btn5 demo launcher" data-gamecode="fnf" data-gametype="pt" data-gts-game-config="" href="#" style="font-size: 100%; padding: 1px 6px;" title="Fantastic Four"><span><strong>free play</strong></span></a> <a class="btn btn2 info" href="#" onclick="Playtech.Popup.popupWebContent({articleId: '49803',title:'Fantastic Four', width:'300px', height:'100'}); return false;"><span><strong>i</strong></span></a></p>
+<a class="btn launcher" data-gamecode="glrj" data-gametype="pt" data-gts-game-config="" href="#" title="Gladiator Jackpot"><span><strong>Play</strong></span></a>&nbsp;<a class="btn btn5 demo launcher" data-gamecode="glrj" data-gametype="pt" data-gts-game-config="" href="#" style="font-size: 100%; padding: 1px 6px;" title="Gladiator Jackpot"><span><strong>free play</strong></span></a> <a class="btn btn2 info" href="#" onclick="Playtech.Popup.popupWebContent({articleId: 'glrj',title:'Gladiator Jackpot', width:'500px', height:'220px'}); return false;"><span><strong>i</strong></span></a></p>
 </div>
 </div>
 </div>
@@ -504,11 +526,11 @@ Fantastic Four</h3>
 <div class="pt-item-wrap-2">
 <div class="pt-item" style="width:160px">
 <h3 class="game-title">
-Iron Man</h3>
+Frankie Dettori's Magic Seven</h3>
 <p class="pt-img">
-<img alt="Iron Man 2" src="http://cachewww.galacasino.com/image/game-pics/Iron-Man-2.jpg" style="width: 138px; height: 96px;"></p>
+<img alt="" src="http://cachewww.galacasino.com/image/game-pics/Frankie-Dettori.jpg" style="width: 138px; height: 96px;"></p>
 <p class="links1">
-<a class="btn launcher" data-gamecode="irm2" data-gametype="pt" data-gts-game-config="" href="#" title="Iron Man Progressive"><span><strong>Play</strong></span></a>&nbsp;<a class="btn btn5 demo launcher" data-gamecode="irm2" data-gametype="pt" data-gts-game-config="" href="#" style="font-size: 100%; padding: 1px 6px;" title="Iron Man Progressive"><span><strong>free play</strong></span></a> <a class="btn btn2 info" href="#" ;="" onclick:"playtech.popup.popupwebcontent({articleid:="" '49803',title:'iron="" man="" progressive',="" width:'300px',="" height:'100'});="" return="" false;"=""><span><strong>i</strong></span></a></p>
+<a class="btn launcher" data-gamecode="fdt" data-gametype="pt" data-gts-game-config="" href="#" title="Frankie Dettori's Magic Seven"><span><strong>Play</strong></span></a>&nbsp;<a class="btn btn5 demo launcher" data-gamecode="fdt" data-gametype="pt" data-gts-game-config="" href="#" style="font-size: 100%; padding: 1px 6px;" title="Frankie Dettori's Magic Seven"><span><strong>free play</strong></span></a> <a class="btn btn2 info" href="#" onclick="Playtech.Popup.popupWebContent({articleId: 'fdt',title:'Frankie Dettori\'s Magic Seven', width:'500px', height:'220px'}); return false;"><span><strong>i</strong></span></a></p>
 </div>
 </div>
 </div>
@@ -537,11 +559,11 @@ Iron Man</h3>
 <div class="super-content-block">
 <h3>Most Played</h3>
 <ul>
-<li><a href="#" class="launcher" data-ww-game-config="" data-gts-game-config="{&quot;nativeHeight&quot;: &quot;&quot;,&quot;height&quot;: &quot;580&quot;,&quot;nativeWidth&quot;: &quot;&quot;,&quot;width&quot;: &quot;795&quot;,&quot;configurationStages&quot;: &quot;&quot;,&quot;loadingStages&quot;: &quot;&quot;,&quot;gamePath&quot;: &quot;http://galacasino-static.gtspt.com/games/ag-virtualdogs/&quot;,&quot;gameFormat&quot;: &quot;&quot;,&quot;gameTitle&quot;: &quot;AG-8Dog&quot;,&quot;gameName&quot;: &quot;gcagvirtualdogs&quot;,&quot;asVersion&quot;: &quot;2&quot;}" data-gamecode="gts55" data-gametype="gts" title="Virtual Dog">Virtual Dog</a></li>
-<li><a href="#" class="launcher" data-ww-game-config="" data-gts-game-config="" data-gamecode="kkgsc" data-gametype="pt" title="Kong Scratch">Kong Scratch</a></li>
-<li><a href="#" class="launcher" data-ww-game-config="" data-gts-game-config="" data-gamecode="mro" data-gametype="pt" title="Mini Roulette">Mini Roulette</a></li>
-<li><a href="#" class="launcher" data-ww-game-config="" data-gts-game-config="" data-gamecode="bls" data-gametype="pt" title="Mega Ball">Mega Ball</a></li>
-<li><a href="#" class="launcher" data-ww-game-config="" data-gts-game-config="" data-gamecode="splsc" data-gametype="pt" title="Monty Pythons Spamalot">Monty Pythons Spamalot</a></li>
+<li><a href="#" class="launcher" data-ww-game-config="" data-gts-game-config="{&quot;nativeHeight&quot;: &quot;&quot;,&quot;height&quot;: &quot;580&quot;,&quot;nativeWidth&quot;: &quot;&quot;,&quot;width&quot;: &quot;795&quot;,&quot;configurationStages&quot;: &quot;&quot;,&quot;loadingStages&quot;: &quot;&quot;,&quot;gamePath&quot;: &quot;http://galacasino-static.gtspt.com/games/ag-virtualdogs/&quot;,&quot;gameFormat&quot;: &quot;&quot;,&quot;gameTitle&quot;: &quot;AG-8Dog&quot;,&quot;gameName&quot;: &quot;gcagvirtualdogs&quot;,&quot;asVersion&quot;: &quot;2&quot;}" data-vf-launch-code="$topGame.vfLaunchCode" data-gamecode="gts55" data-gametype="gts" title="Virtual Dog">Virtual Dog</a></li>
+<li><a href="#" class="launcher" data-ww-game-config="" data-gts-game-config="" data-vf-launch-code="$topGame.vfLaunchCode" data-gamecode="kkgsc" data-gametype="pt" title="Kong Scratch">Kong Scratch</a></li>
+<li><a href="#" class="launcher" data-ww-game-config="" data-gts-game-config="" data-vf-launch-code="$topGame.vfLaunchCode" data-gamecode="mro" data-gametype="pt" title="Mini Roulette">Mini Roulette</a></li>
+<li><a href="#" class="launcher" data-ww-game-config="" data-gts-game-config="" data-vf-launch-code="$topGame.vfLaunchCode" data-gamecode="bls" data-gametype="pt" title="Mega Ball">Mega Ball</a></li>
+<li><a href="#" class="launcher" data-ww-game-config="" data-gts-game-config="" data-vf-launch-code="$topGame.vfLaunchCode" data-gamecode="splsc" data-gametype="pt" title="Monty Pythons Spamalot">Monty Pythons Spamalot</a></li>
 <li><a href="" title=""></a></li>
 </ul>
 </div>
@@ -549,11 +571,11 @@ Iron Man</h3>
 <div class="pt-item-wrap-2">
 <div class="pt-item" style="width:160px">
 <h3 class="game-title">
-Fantastic Four</h3>
+Around the World</h3>
 <p class="pt-img">
-<img alt="" src="http://cachewww.galacasino.com/image/game-pics/Fantastic4.jpg" style="width: 138px; height: 96px;"></p>
+<img alt="" src="http://cachewww.galacasino.com/image/game-pics/around_the_world.jpg" style="width: 138px; height: 96px;"></p>
 <p class="links1">
-<a class="btn launcher" data-gamecode="fnf" data-gametype="pt" data-gts-game-config="" href="#" title="Fantastic Four"><span><strong>Play</strong></span></a>&nbsp;<a class="btn btn5 demo launcher" data-gamecode="fnf" data-gametype="pt" data-gts-game-config="" href="#" style="font-size: 100%; padding: 1px 6px;" title="Fantastic Four"><span><strong>free play</strong></span></a> <a class="btn btn2 info" href="#" onclick="Playtech.Popup.popupWebContent({articleId: '49803',title:'Fantastic Four', width:'300px', height:'100'}); return false;"><span><strong>i</strong></span></a></p>
+<a class="btn launcher" data-gamecode="atw" data-gametype="pt" data-gts-game-config="" href="#" title="Around the World"><span><strong>Play</strong></span></a>&nbsp;<a class="btn btn5 demo launcher" data-gamecode="atw" data-gametype="pt" data-gts-game-config="" href="#" style="font-size: 100%; padding: 1px 6px;" title="Around the World"><span><strong>free play</strong></span></a> <a class="btn btn2 info" href="#" onclick="Playtech.Popup.popupWebContent({articleId: 'atw',title:'Around the World', width:'500px', height:'220px'}); return false;"><span><strong>i</strong></span></a></p>
 </div>
 </div>
 </div>
@@ -561,11 +583,11 @@ Fantastic Four</h3>
 <div class="pt-item-wrap-2">
 <div class="pt-item" style="width:160px">
 <h3 class="game-title">
-Iron Man</h3>
+Mini Roulette</h3>
 <p class="pt-img">
-<img alt="Iron Man 2" src="http://cachewww.galacasino.com/image/game-pics/Iron-Man-2.jpg" style="width: 138px; height: 96px;"></p>
+<img alt="" src="http://cachewww.galacasino.com/image/game-pics/mini_roulette.jpg" style="width: 138px; height: 96px;"></p>
 <p class="links1">
-<a class="btn launcher" data-gamecode="irm2" data-gametype="pt" data-gts-game-config="" href="#" title="Iron Man Progressive"><span><strong>Play</strong></span></a>&nbsp;<a class="btn btn5 demo launcher" data-gamecode="irm2" data-gametype="pt" data-gts-game-config="" href="#" style="font-size: 100%; padding: 1px 6px;" title="Iron Man Progressive"><span><strong>free play</strong></span></a> <a class="btn btn2 info" href="#" ;="" onclick:"playtech.popup.popupwebcontent({articleid:="" '49803',title:'iron="" man="" progressive',="" width:'300px',="" height:'100'});="" return="" false;"=""><span><strong>i</strong></span></a></p>
+<a class="btn launcher" data-gamecode="mro" data-gametype="pt" data-gts-game-config="" href="#" title="Mini Roulette"><span><strong>Play</strong></span></a>&nbsp;<a class="btn btn5 demo launcher" data-gamecode="mro" data-gametype="pt" data-gts-game-config="" href="#" style="font-size: 100%; padding: 1px 6px;" title="Mini Roulette"><span><strong>free play</strong></span></a> <a class="btn btn2 info" href="#" onclick="Playtech.Popup.popupWebContent({articleId: 'mro',title:'Mini Roulette', width:'500px', height:'220px'}); return false;"><span><strong>i</strong></span></a></p>
 </div>
 </div>
 </div>
@@ -596,15 +618,11 @@ TOURNAMENTS</h3>
 <li>
 <a href="/Poker/Promotions/fortknox" title="Fort Knox $50k">Fort Knox $50k</a></li>
 <li>
-<a href="/Poker/Promotions/craze-jackpot" title="Craze $50k">Craze $50k</a></li>
-<li>
 <a href="/Poker/Promotions/rio" title="Rio $30k">Rio $30k</a></li>
 <li>
 <a href="/Poker/Promotions/maui" title="Maui $15k">Maui $15k</a></li>
 <li>
 <a href="/Poker/Promotions/dirtydozen" title="Dirty Dozen $2k">Dirty Dozen $2k</a></li>
-<li>
-<a href="/Poker/Promotions/bigGTD" title="Big Guarantees">Big Guarantees</a></li>
 </ul>
 </div>
 <ul>
@@ -619,9 +637,9 @@ PROMOTIONS</h3>
 <li>
 <a href="/Poker/Promotions/Loyalty_Scheme" title="Loyalty Scheme">Loyalty Scheme</a></li>
 <li>
-<a href="/poker/promotions/january-sales">January Sales</a></li>
+<a href="/poker/promotions/august-weekly-races">August Weekly Races</a></li>
 <li>
-<a href="/poker/promotions/january-weekly-races">January Weekly Races</a></li>
+<a href="/poker/promotions/marathon-man">Marathon Man</a></li>
 </ul>
 </div>
 </div>
@@ -970,9 +988,11 @@ Last amended on 24th April 2012, this, our entire and exclusive Privacy Policy, 
 </ul>
 <ul id="footer-links-social">
 <li>
+<a href="https://plus.google.com/111948057671956578994" id="googleplus" target="_blank" title="Gala Casino on Google+">Google+</a></li>
+<li>
 <a href="http://www.facebook.com/galacasinoofficial" id="facebook" target="_blank" title="Gala Casino on Facebook">Facebook</a></li>
 <li>
-<a href="https://twitter.com/#!/GalaInteractive/" id="twitter" target="_blank" title="Gala Casino on Twitter">Twitter</a></li>
+<a href="https://twitter.com/GalaCasinocom" id="twitter" target="_blank" title="Gala Casino on Twitter">Twitter</a></li>
 </ul>
 </div>
 <div class="pad-lr-16">
@@ -1043,9 +1063,13 @@ We are constantly striving to give our members the most professional, exciting a
 <p>
 You will find fantastic welcome bonuses and promotions, plus monthly rewards for playing with Gala Casino. Sign up to receive your free bonus now! You could also win seats to some of the biggest and best poker tournaments in the UK.</p>
 <span class="hidden" id="trending-user">-</span></div>
-<!--<div id="comments-wrapper">
-<a href="https://www.surveymonkey.com/s/J69QL8V" target="_blank" title="Gala Casino Comments"><span class="hidden">Comments</span></a></div>-->
-<!-- web trending --><script type="text/javascript" src="http://cachewww.galacasino.com/documents/Scripts/config-trending.js"></script><noscript><img alt="dcsimg" id="dcsimg" width="1" height="1"
+<div class="feedback-panel">
+<p>
+Take part in our survey.</p>
+<a class="btn play" href="https://www.surveymonkey.com/s/J69QL8V" target="_blank" title="Give feedback"><span><strong>Give feedback</strong></span></a></div>
+<script type="text/javascript">
+$j(document).ready(function(){$j(".feedback-panel").bind("mouseenter",function(){if(!$j(".feedback-panel").hasClass("out")){$j(".feedback-panel").stop(true).animate({right:"0px"});$j(".feedback-panel").addClass("out")}});$j(".feedback-panel").bind("mouseleave",function(){if($j(".feedback-panel").hasClass("out")){$j(".feedback-panel").stop(true).animate({right:"-144px"});$j(".feedback-panel").removeClass("out")}})});
+</script><!-- web trending --><script type="text/javascript" src="http://cachewww.galacasino.com/documents/Scripts/config-trending.js"></script><noscript><img alt="dcsimg" id="dcsimg" width="1" height="1"
 src="//statse.webtrendslive.com/dcshukzqnuz5bdvc01ul2r57m_1u6d/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=10.2.10&amp;dcssip=www.galacasino.com" />
 </noscript><!-- /web trending --><!-- Start Visual Website Optimizer Asynchronous Code --><script type="text/javascript">
 var _vwo_code = (function() {
@@ -1107,6 +1131,7 @@ var owa_cmds = owa_cmds || [];
 owa_cmds.push(['setSiteId', 'd0bc75bb608548243658c5bc079a2929']);
 owa_cmds.push(['trackPageView']);
 owa_cmds.push(['trackClicks']);
+owa_cmds.push(['trackDomStream']);
 (function() {
 var _owa = document.createElement('script'); _owa.type = 'text/javascript'; _owa.async = true;
 owa_baseUrl = ('https:' == document.location.protocol ? window.owa_baseSecUrl || owa_baseUrl.replace(/http:/, 'https:') : owa_baseUrl );
@@ -1115,7 +1140,9 @@ var _owa_s = document.getElementsByTagName('script')[0]; _owa_s.parentNode.inser
 }());
 //]]>
 </script><!-- End Open Web Analytics Code -->
-</div>    </div>
+</div></div>
+<script src="http://cachewww.galacasino.com/common-portlet/js/jquery.numeric.js?browserId=other&amp;minifierType=js&amp;languageId=en_GB&amp;t=1373887573000" type="text/javascript"></script>
+<script src="http://cachewww.galacasino.com/common-portlet/js/playtech.redeemcomppoints.js?browserId=other&amp;minifierType=js&amp;languageId=en_GB&amp;t=1373887573000" type="text/javascript"></script>
 <script type="text/javascript">
 // <![CDATA[
 Liferay.Util.addInputFocus();
@@ -1161,7 +1188,7 @@ Liferay.Notice.prototype.setClosing();
 );
 // ]]>
 </script>
-<script src="http://cachewww.galacasino.com/gala-theme/js/main.js?browserId=other&amp;minifierType=js&amp;languageId=en_US&amp;t=1357289735000" type="text/javascript"></script>
+<script src="http://cachewww.galacasino.com/gala-theme/js/main.js?browserId=other&amp;minifierType=js&amp;languageId=en_GB&amp;t=1373887601000" type="text/javascript"></script>
 <script type="text/javascript">
 // <![CDATA[
 // ]]>
@@ -1179,7 +1206,7 @@ $j("body").append($j('<script>').attr("src", Playtech.globalConfig.supportChatLo
 }
 });
 </script>
-<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" + "d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-3.newrelic.com","a461de1514","1681221","bgcAYEtWCkEFUENRCVdNMUBLQhBBJVBDUQlXTQFbVBkIWwJWRVkfFxINRk1WCBwFUENRCVdMLlVAWBFGJVBDUQlX",0,212,new Date().getTime(),"","","","",""]);</script>
+<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" + "rpm-images.newrelic.com/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-3.newrelic.com","a461de1514","1681221","bgcAYEtWCkEFUENRCVdNMUBLQhBBJVBDUQlXTQFbVBkIWwJWRVkfFxINRk1WCBwFUENRCVdMMmB1Vh1dEUd2WxJQDQw=",0,285,new Date().getTime(),"","","","",""]);</script>
 
 
-<script type="text/javascript" src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js"></script></body></html>
+<script type="text/javascript" src="https://rpm-images.newrelic.com/42/eum/rum.js"></script></body></html>
