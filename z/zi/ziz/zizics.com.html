@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the zizics.com privacy policy that was archived on 2013-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130605092551id_/http%3A//www.zizics.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zizics.com privacy policy that was archived on 2013-08-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130805175152id_/http%3A//www.zizics.com/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><title>
 	About Zizics.com
-</title><link href="Styles/adorins.css?3232323" rel="stylesheet" type="text/css">
+</title><link href="Styles/adorins.css?434423222333" rel="stylesheet" type="text/css">
     <script src="Scripts/adorins.js" type="text/javascript"></script>
     <script src="/Scripts/jquery-1.9.0.min.js" type="text/javascript"></script>
 <link href="/Styles/autosuggest_inquisitor.css?232323" rel="stylesheet" type="text/css"><script src="/Scripts/bsn.AutoSuggest_2.1.3_comp.js?232333" type="text/javascript"></script></head>
@@ -25,60 +25,73 @@
 
 <div class="mainNav">
 
-<div class="home"><a href="/" title="Home"><img src="/images/zizics.png" id="logon_logoHome" alt="Home"></a></div>
-
-
-<div class="navLinks">
-
-<div id="tab_photos"><a href="/photos" id="photoGallery">Photos</a></div>
-
-<div id="tab_search"><a href="/search.aspx" title="Search members">Search</a></div>
-
-<div id="tab_about"><a href="/about.aspx" title="About Zizics.com">About</a></div>
-
-<div id="tab_join"><a href="/join.aspx" id="logon_lnk_join" title="Create an account">Join</a></div>
-
-<div id="logon_tab_signin" class="tab_signin"><a style="border-right: 0px;" href="javascript:signIn()" title="Sign in">Sign in</a></div>
 
 
 
 
 
+<ul id="navLinks">
+    <li><a href="/" title="Home" id="lnk_home"><img src="/images/zizics.png" id="logon_logoHome" alt="Home"></a></li>
+    <li id="logon_li_gallery"><a href="/photos" id="photoGallery">Photos</a>
+			<ul>
+	
+						<li><a href="/photos">The latest images to be uploaded</a></li>
+						<li><a href="/photos/rnd/1">A random selection of images</a></li>
+
+			</ul>
+
+    </li>
+    <li><a href="/search.aspx" title="Search members">Search</a></li>
+    <li><a href="/about.aspx" title="About Zizics.com">About</a></li>
+    <li><a href="/join.aspx" id="logon_lnk_join" title="Create an account">Join</a></li>
+    <li id="logon_tab_signin"><a style="border-right: 0px;" href="javascript:signIn()" title="Sign in" id="lnk_signIn">Sign in</a></li>
+    
+</ul>
 
 
 
 
 
-</div>
 
 
-    <div id="nv_photos">
-        <a href="/photos">The latest to be uploaded</a>
-        <a href="/photos/rnd/1">A random selection</a>
-    </div>
+
 
 
 <div id="dv_logon">
 
+    <div id="logonTitle">Sign In</div>
+
+
+
+
 <form name="frm_header" id="frm_header" action="" method="post">
 
 
-<table><tbody><tr><td>Email:</td><td><input type="text" name="tx_email" id="tx_email" class="dv_txBox"></td></tr>
+<input type="text" name="tx_email" id="tx_email" class="inp_signIn" value="Email">
+     
+<input type="text" id="tx_password" name="tx_password" class="inp_signIn" value="Password">
 
-<tr><td>Password:</td><td><input type="password" id="tx_password" name="tx_password" class="dv_txBox"></td></tr>
+<input type="submit" class="signInButton" value="Sign In">
+  
 
-<tr><td><input type="button" class="zizcsButton" value="Close" onclick="closeMenu('dv_logon')" tabindex="3"></td><td align="right"><input type="submit" class="zizcsButton" value="Sign In" onclick=""></td></tr>
+    <div id="dv_signinBottom">
 
-<tr><td><a id="lnk_loginReminder" href="/reminder.aspx" title="Have your password emailed to you">Login Reminder</a></td><td align="right"><label id="lbl_remember" for="cb_remember">Remember Me</label> <input type="checkbox" id="cb_remember" name="cb_remember"></td></tr>
+<input type="checkbox" id="cb_remember" name="cb_remember"> <label id="lbl_remember" for="cb_remember">Remember me on this computer</label> <br>
 
-</tbody></table>
+<a id="lnk_loginReminder" href="/reminder.aspx" title="Have your password emailed to you">Login Reminder</a>
+
+</div>
+
 
 
    
 
             
                               
-  </form>                  
+  </form> 
+    
+    <span id="spn_close"><a href="javascript:void(null)" onclick="closeMenu('dv_logon')">X</a></span>
+                     
 </div>
 
 
@@ -89,7 +102,7 @@
     </div>
 
 
-        
+
 
 
 </div>
@@ -113,7 +126,7 @@
 
         <form name="form1" method="post" action="/privacy.aspx" id="form1">
 <div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMjgzODAzMDYxD2QWBAIBD2QWAgIBDxYCHgRocmVmBRpTdHlsZXMvYWRvcmlucy5jc3M/MzIzMjMyM2QCAw9kFgICBw8WAh4HVmlzaWJsZWhkZAJFejph02V8NEcr0hxYWh5jT0MR">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMjgzODAzMDYxD2QWBAIBD2QWAgIBDxYCHgRocmVmBR9TdHlsZXMvYWRvcmlucy5jc3M/NDM0NDIzMjIyMzMzZAIDD2QWAgIHDxYCHgdWaXNpYmxlaGRkZBaGrgIjBGMU0YldotUcxuUeMD8=">
 </div>
 
 
@@ -339,7 +352,7 @@
 
 
         <a href="/contact-us">Contact Us</a>
-        <br>
+        
 
 
         <a href="/privacy.aspx">Privacy</a>
@@ -348,6 +361,16 @@
         <a href="/terms.aspx">Terms And Conditions</a>
 
 
+       <div id="socialLinks">
+
+
+        <a href="https://www.facebook.com/xizics" title="Join us on Facebook"><img src="/images/facebook.png" alt="Home"></a>
+
+        <a href="https://twitter.com/zizics" title="Follow us on Twitter"><img src="/images/twitter.png" alt="Home"></a>
+
+        
+        <a href="/images.xml"><img src="/images/rss_med.png" alt="RSS"></a>
+        </div>
 
     </div>
 
