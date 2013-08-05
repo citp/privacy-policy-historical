@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diaroapp.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524145549id_/http%3A//www.diaroapp.com/en/help-support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diaroapp.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805214930id_/http%3A//www.diaroapp.com/en/help-support/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,8 +25,7 @@ Permissions required by Android app are described here <http://www.diaroapp.com/
 
 **Note:** Pixel Crater is committed to complying with all aspects of the Children's Online Privacy Protection Act ("COPPA"). Pixel Crater does not knowingly collect or solicit Personal Information from anyone under the age of 13 or knowingly allow such persons to use our Service. If you are under the age of 13, please do not attempt to use our Service or send any Personal Information about yourself to us. No one under age 13 may provide any Personal Information to Pixel Crater or on the Website. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete all Personal information that we collected.
 
-## 3\. USE OF PERSONAL INFORMATION AND PRIVATE CONTENT  
-
+## 3\. USE OF PERSONAL INFORMATION AND PRIVATE CONTENT
 
 Pixel Crater collects and uses your Personal Information to provide to you and communicate with you about the Service, content, or products you use or request. It also can be used to customize the content or advertisements you receive when you use our Website or our mobile applications, analyze and improve our Service, which may include tracking traffic, usage, and navigation patterns related to your activities on our website and the links we provide to third party sites or advertisements.
 
@@ -38,7 +37,7 @@ Our Service provides the ability to share your Private Content. If you share any
 
 ## 4\. PRIVACY AND SECURITY OF PERSONAL INFORMATION AND PRIVATE CONTENT
 
-Pixel Crater is committed to protect your privacy, Personal Information and Private Content in that way how are mentioned in this policy. We are using 128-bit AES encryption algorithm to encrypt your Private Content in mobile applications backup files and synchronization file except attached photos that are stored in Dropbox account.
+Pixel Crater is committed to protect your privacy, Personal Information and Private Content in that way how are mentioned in this policy. We are using encryption algorithm to encrypt your Private Content in synchronization data file except attached photos that are stored in Dropbox account.
 
 Please remember that you play a valuable part in security as well. You should enable "Security Code" in our mobile applications to protect your Private Content.
 
