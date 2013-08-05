@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uploadstation.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601030404id_/http%3A//www.uploadstation.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uploadstation.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805085656id_/http%3A//www.uploadstation.com/privacy.php) for the most accurate reproduction.*
 
 # Uploadstation - Your #1 Free File Storage Service Made Simple
 
