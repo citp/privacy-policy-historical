@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ilovediscounts.my privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524145814id_/http%3A//www.ilovediscounts.my/pages/privacyilovediscounts) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilovediscounts.my privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805100819id_/http%3A//ilovediscounts.my/pages/privacyilovediscounts) for the most accurate reproduction.*
 
 # Privacy Policy
 
