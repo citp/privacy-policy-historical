@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezdownloadpro.info privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618182314id_/http%3A//ezdownloadpro.info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezdownloadpro.info privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805171837id_/http%3A//ezdownloadpro.info/privacy.html) for the most accurate reproduction.*
 
 # privacy
 
