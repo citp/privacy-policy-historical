@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adultmatchdoctor.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615065722id_/http%3A//www.adultmatchdoctor.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultmatchdoctor.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805215506id_/http%3A//www.adultmatchdoctor.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,7 +13,7 @@ Our site uses software called LiveStats.NET to track web traffic statistics. Dee
 
 Our site uses cookies to keep track of your preferences. We use cookies to deliver content specific to your interests and for other purposes, such as using and placing cookies to help display optimized advertisements. 
 
-Our site's registration form requires users to give us contact information such as email address and date of birth; also, optional information such as demographic information like their zip code, age, or income level. We use customer contact information from the registration form to send the user communications from our web site. We do not share customer contact information with third parties, unless the user authorizes us to. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data are also collected at our site. We use this data for other purposes including: tailoring the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. We may also use the date to display relevant ads to the user. You always have the right to opt-out. Please [contact us](https://web.archive.org/web/20130615065722id_/http%3A//www.adultmatchdoctor.com/contactUs.aspx) if you have any problems at all opting-out or if you fear your email address was abused. Note that your private information may be given out in response to any police-type investigation, subpoena, or other request pending a lawsuit, legal action or billing inquiry. 
+Our site's registration form requires users to give us contact information such as email address and date of birth; also, optional information such as demographic information like their zip code, age, or income level. We use customer contact information from the registration form to send the user communications from our web site. We do not share customer contact information with third parties, unless the user authorizes us to. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data are also collected at our site. We use this data for other purposes including: tailoring the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. We may also use the date to display relevant ads to the user. You always have the right to opt-out. Please [contact us](https://web.archive.org/web/20130805215506id_/http%3A//www.adultmatchdoctor.com/contactUs.aspx) if you have any problems at all opting-out or if you fear your email address was abused. Note that your private information may be given out in response to any police-type investigation, subpoena, or other request pending a lawsuit, legal action or billing inquiry. 
 
 Your profile on AdultMatchdoctor.com will not contain your name, email address, IP address, real world address (but will display city), or password. It may reveal other information about you that you chose to display. Be sure to view your own profile to make sure you are only displaying the information you desire to be displayed. 
 
@@ -30,18 +30,18 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for canceling their profile and to not receive future communications or to no longer receive our service. 
 
-  * You can change your mail preferences by signing into [your settings](https://web.archive.org/web/20130615065722id_/http%3A//www.adultmatchdoctor.com/mySettings.aspx?page=1).
-  * To stop all emails and cancel your account as well, [click here](https://web.archive.org/web/20130615065722id_/http%3A//www.adultmatchdoctor.com/cancelAccount.aspx).
+  * You can change your mail preferences by signing into [your settings](https://web.archive.org/web/20130805215506id_/http%3A//www.adultmatchdoctor.com/mySettings.aspx?page=1).
+  * To stop all emails and cancel your account as well, [click here](https://web.archive.org/web/20130805215506id_/http%3A//www.adultmatchdoctor.com/cancelAccount.aspx).
 
 
 
 **Correct/Update**  
 This site gives users the following options for changing and modifying information previously provided. 
 
-  * Visit your profile details page by [clicking here](https://web.archive.org/web/20130615065722id_/http%3A//www.adultmatchdoctor.com/myProfile.aspx).
-  * LAST OPTION: Submit a [support ticket](https://web.archive.org/web/20130615065722id_/http%3A//www.adultmatchdoctor.com/contactUs.aspx).
+  * Visit your profile details page by [clicking here](https://web.archive.org/web/20130805215506id_/http%3A//www.adultmatchdoctor.com/myProfile.aspx).
+  * LAST OPTION: Submit a [support ticket](https://web.archive.org/web/20130805215506id_/http%3A//www.adultmatchdoctor.com/contactUs.aspx).
 
 
 
 **Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can [contact us](https://web.archive.org/web/20130615065722id_/http%3A//www.adultmatchdoctor.com/contactUs.aspx). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can [contact us](https://web.archive.org/web/20130805215506id_/http%3A//www.adultmatchdoctor.com/contactUs.aspx). 
