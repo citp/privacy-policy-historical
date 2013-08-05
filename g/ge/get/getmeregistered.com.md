@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getmeregistered.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116072141id_/https%3A//secure.getmeregistered.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getmeregistered.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805203033id_/https%3A//secure.getmeregistered.com/privacy_policy.php) for the most accurate reproduction.*
 
 # privacy policy at GetMeRegistered.com
 
