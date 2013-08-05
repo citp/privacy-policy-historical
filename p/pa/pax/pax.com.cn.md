@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pax.com.cn privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530204737id_/http%3A//pax.com.cn/en/help/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pax.com.cn privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805185021id_/http%3A//pax.com.cn/en/help/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | PAX
 
