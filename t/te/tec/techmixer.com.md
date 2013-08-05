@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the techmixer.com privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505193010id_/http%3A//www.techmixer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techmixer.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805160308id_/http%3A//www.techmixer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+Posted on 24. Jul, 2008 by in [Others](http://www.techmixer.com/category/others/ "View all posts in Others")
+
+ADVERTISEMENTS 
 
 TechMixer respect our reader and visitor privacy. However, we do collect and preserve small piece information of any people who visit TechMixer for website statistics and blocking spammers.
 
@@ -17,5 +21,3 @@ TechMixer respect our reader and visitor privacy. However, we do collect and pre
 
 
 **NOTE:** This Policy is subject to change anytime at my sole discretion and any changes made will be effective immediately.
-
-Posted by . Filed in [Others](http://www.techmixer.com/category/others/ "View all posts in Others")
