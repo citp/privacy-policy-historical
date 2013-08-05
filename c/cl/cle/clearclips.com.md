@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clearclips.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601205316id_/http%3A//www.clearclips.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clearclips.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805081856id_/http%3A//www.clearclips.com/info/privacy.html) for the most accurate reproduction.*
 
 # Adult Clips, Free Porn Clips, Free Sex Clips, XXX Clips - Clear Clips
 
