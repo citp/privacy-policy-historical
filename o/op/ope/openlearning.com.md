@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openlearning.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423201927id_/https%3A//www.openlearning.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openlearning.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805175324id_/https%3A//www.openlearning.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy (OpenLearning)
 
