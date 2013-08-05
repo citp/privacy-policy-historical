@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eurocasino.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424102952id_/https%3A//www.eurocasino.com/nl/klantenservice/privacybeleid) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurocasino.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805221225id_/https%3A//www.eurocasino.com/en/customersupport/privacy-policy) for the most accurate reproduction.*
 
-# English Customer Service 24/7 - online casino EuroCasino
+# Our Privacy Policy - online casino EuroCasino
 
 ## Privacy Policy
 
@@ -20,4 +20,4 @@ Your Personal Information may, for the purposes described above, be transferred 
 
 **Consent**
 
-By providing your Personal Information and registering with us or logging on with us when you enter the website, you freely consent to the EuroCasino Group processing and disclosing your Personal Information for the purposes and otherwise in the manner set out in this Policy. If you wish to qualify, vary, modify or limit your consent in any way then please notify us using the details shown on these [Customer Support](https://web.archive.org/nl/klantenservice/contact/) pages of our Website. 
+By providing your Personal Information and registering with us or logging on with us when you enter the website, you freely consent to the EuroCasino Group processing and disclosing your Personal Information for the purposes and otherwise in the manner set out in this Policy. If you wish to qualify, vary, modify or limit your consent in any way then please notify us using the details shown on these [Customer Support](https://web.archive.org/en/customersupport/contact-us/)  pages of our Website. 
