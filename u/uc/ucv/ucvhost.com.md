@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ucvhost.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531134806id_/http%3A//ucvhost.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucvhost.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805174426id_/http%3A//www.ucvhost.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # UcvHost.com :: Cheap Windows Hosting :: Cheap Linux Hosting :: Cheap VPS Hosting :: Affordable Windows WebHosting , Liunx WebHosting, VPS WebHosting :: Shared Hosting
 
