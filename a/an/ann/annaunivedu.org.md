@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the annaunivedu.org privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602173911id_/http%3A//www.annaunivedu.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the annaunivedu.org privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805173038id_/http%3A//www.annaunivedu.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Anna University
+# Privacy Policy - Anna University Updates 2013
 
 Students you have to clearly know that , annaunivedu.org is not an official website in place of Anna University . The official website for Anna University is [www.annauniv.edu](http://www.annauniv.edu/) , that you know already .
 
 We are students like you , alumni of Anna University , we came to this idea of providing usefull informations to our beloved friends , juniors who are studying in Anna University & its Affiliated Colleges across Tamilnadu .
 
- **Disclaimer :**
+**Disclaimer :**
 
 We do not responsible for any wrong informations you got from this website .
 
