@@ -1,8 +1,7 @@
-<!--The following is the downloaded HTML source of the lipy.com privacy policy that was archived on 2013-04-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130423111258id_/http%3A//www.lipy.com/cms/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lipy.com privacy policy that was archived on 2013-08-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130805172632id_/http%3A//www.lipy.com/cms/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-
 <script type="text/javascript">
 window.Settings = window.Settings || {};
 </script>
@@ -10,6 +9,8 @@ window.Settings = window.Settings || {};
 <link type="text/css" rel="stylesheet" id="arrowchat_css" media="all" href="http://www.lipy.com/ac/external.php?type=css" charset="utf-8">
 <script type="text/javascript" src="http://www.lipy.com/ac/includes/js/jquery.js"></script>
 <script type="text/javascript" src="http://www.lipy.com/ac/includes/js/jquery-ui.js"></script>
+<script type="text/javascript" src="http://www.lipy.com/ac/external.php?type=djs" charset="utf-8"></script>
+<script type="text/javascript" src="http://www.lipy.com/ac/external.php?type=js" charset="utf-8"></script>
 
 <!-- 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
@@ -19,7 +20,6 @@ window.Settings = window.Settings || {};
 <title>Privacy Policy</title>
 
 <link href="http://www.lipy.com/public/frontend/images/favicon.ico" rel="icon" type="image/gif">
-<link rel="image_src" href="">
 
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 
@@ -58,6 +58,7 @@ window.onload=function(){
 </script>
 
 <script type="text/javascript">
+<!--
 var ANN=jQuery.noConflict();
 
 function submitForm(form_name){
@@ -118,6 +119,9 @@ function make_approve(friend_id,status){
   ANN("#response_"+friend_id).slideDown('slow');
   slideout1(friend_id);
   ANN("#p_circle_notifi").html(new_value);
+  if(ANN("#respond_req")){ANN("#respond_req").slideUp('slow'); window.parent.location.reload();
+  //ANN('#respond_req_msg').html('Please refresh the page to view changes');
+  }
  });  
 }
 
@@ -157,17 +161,12 @@ function redirect_to_site(){
  window.location="http://quotes.lipy.com/";
  }
 }
-
+-->
 </script> 
 
 
-
-
-<!-- Announcement ---->
-<!--  
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
--->
 <script type="text/javascript">
+<!--
 var show_hide_announcement=1;
 
 function fnchecked(status){
@@ -207,10 +206,7 @@ function nextMsg(){
  else if(l<149){ANN('#message').css('padding-top','9px');ANN('#message').css('font-size','15px')}
  else if(l<168){ANN('#message').css('padding-top','9px');ANN('#message').css('font-size','15px')}
  else{ANN('#announcement').css('min-height','45px');ANN('#message').css('padding-top','5px');ANN('#message').css('font-size','14px')}
-  ANN('#message').html(messages.pop()).fadeIn(500);//.delay(1000).fadeOut(500, nextMsg);
-  //if(messages.length==0){
-   //get_data();
-  //}  
+  ANN('#message').html(messages.pop()).fadeIn(500);
  }
 }
 
@@ -231,17 +227,14 @@ function get_data(){
  })
 }
 
-
+-->
 </script>
     
-<!-- Announcement end---->
  
 <script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
 <body class="items show games-active" data-action="new" data-controller="Items">
 
 
-
-<!-- Announcement ---->
 <input type="hidden" name="session_open_value" id="session_open_value" value="1">
 
 
@@ -258,9 +251,9 @@ function get_data(){
 <input type="button" class="open" id="a_open" onclick="fnchecked(1);">
 </div>
 
-<!-- Announcement end---->
+<!-- Announcement end -->
 
-<!-- header start --->
+<!-- header start -->
 <div class="header">
     <div class="header_section">
         <div class="header_section_left">
@@ -321,7 +314,7 @@ function get_data(){
         
     </div>
 </div>  
-<!-- header start end--->   
+<!-- header start end-->   
 
 
 
@@ -357,6 +350,7 @@ function get_data(){
                                     <li class="has-sub"><a href="http://www.lipy.com/games/tags/coloring"><span>Coloring</span></a></li>
                                     <li class="has-sub"><a href="http://www.lipy.com/games/tags/cooking"><span>Cooking</span></a></li>
                                     <li class="has-sub"><a href="http://www.lipy.com/games/tags/dress-up"><span>Dress UP</span></a></li>
+                                    <li class="has-sub"><a href="http://www.lipy.com/games/tags/driving"><span>Driving</span></a></li>
                                     <li class="has-sub"><a href="http://www.lipy.com/games/tags/fighting"><span>Fighting</span></a></li>
                                     <li class="has-sub"><a href="http://www.lipy.com/games/tags/girl"><span>Girl</span></a></li>
                                     <li class="has-sub"><a href="http://www.lipy.com/games/tags/makeup"><span>Makeup</span></a></li>
@@ -431,9 +425,16 @@ function get_data(){
                               
                 
                 <li class="has-sub men">Categories</li>
-                                  <li class="has-sub"><a href="http://quotes.lipy.com/tags/funny"><span>Funny</span></a></li>
+                                  <li class="has-sub"><a href="http://quotes.lipy.com/tags/bible"><span>Bible</span></a></li>
+                                    <li class="has-sub"><a href="http://quotes.lipy.com/tags/birthday"><span>Birthday</span></a></li>
+                                    <li class="has-sub"><a href="http://quotes.lipy.com/tags/cute"><span>Cute</span></a></li>
+                                    <li class="has-sub"><a href="http://quotes.lipy.com/tags/famous"><span>Famous</span></a></li>
+                                    <li class="has-sub"><a href="http://quotes.lipy.com/tags/friendship"><span>Friendship</span></a></li>
+                                    <li class="has-sub"><a href="http://quotes.lipy.com/tags/funny"><span>Funny</span></a></li>
                                     <li class="has-sub"><a href="http://quotes.lipy.com/tags/happiness"><span>Happiness</span></a></li>
+                                    <li class="has-sub"><a href="http://quotes.lipy.com/tags/humorous"><span>Humorous</span></a></li>
                                     <li class="has-sub"><a href="http://quotes.lipy.com/tags/inspirational"><span>Inspirational</span></a></li>
+                                    <li class="has-sub"><a href="http://quotes.lipy.com/tags/leadership"><span>Leadership</span></a></li>
                                     <li class="has-sub"><a href="http://quotes.lipy.com/tags/love"><span>Love</span></a></li>
                                     <li class="has-sub"><a href="http://quotes.lipy.com/tags/motivational"><span>Motivational</span></a></li>
                                   
@@ -638,9 +639,6 @@ window.fbAsyncInit = function() {
 		</div>
 	</div>
 </div>
-
-<script type="text/javascript" src="http://www.lipy.com/ac/external.php?type=djs" charset="utf-8"></script>
-<script type="text/javascript" src="http://www.lipy.com/ac/external.php?type=js" charset="utf-8"></script>
 
 
 </body></html>
