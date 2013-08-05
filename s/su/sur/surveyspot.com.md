@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveyspot.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521231436id_/http%3A//www.surveyspot.com/en/General/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveyspot.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805091727id_/http%3A//www.surveyspot.com/en/General/Privacy-Policy) for the most accurate reproduction.*
 
 # 
 
@@ -207,25 +207,15 @@ or  _via email to_ : [privacy@surveysampling.com](mailto:privacy@surveysampling
 
 When contacting SSI via regular mail or email, please include your first and last name and specific information regarding your question or complaint.
 
-B.         Privacy Complaints by Citizens of EU Member Countries
+B.         Questions or Complaints By Citizens of EU Member Countries.
 
-In compliance with the Safe Harbor Principles, SSI commits to resolve complaints about privacy and its collection or use of Personal Information. Citizens of EU member countries with inquiries or complaints regarding this Privacy Policy should first contact SSI as set forth in Section 12.A. above.
+In compliance with the Safe Harbor Principles, SSI commits to resolve complaints about privacy and its collection or use of PII. Citizens of EU member countries with inquiries or complaints regarding this Privacy Policy should first contact SSI as set forth above.
 
 Pursuant to the Safe Harbor Principles, SSI has further committed to refer unresolved privacy complaints from Citizens of EU member countries to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus, Inc. If a citizen of an EU member country does not receive timely acknowledgment of his or her complaint from SSI or if such complaint is not satisfactorily addressed by SSI, he or she may contact:
 
-     **Council of Better Business Bureaus, Inc.**
-
-**     BBB EU Safe Harbor**
-
-**     4200 Wilson Boulevard, Suite 800**
-
-**     Arlington, Virginia 22203 USA**
-
-     **Phone** : 703-276-0100
-
-     **Web** : [www.us.bbb.org](http://www.us.bbb.org/)
-
-     **Email** : [eusafeharbor@council.bbb.org](mailto:eusafeharbor@council.bbb.org)
+Council of Better Business Bureaus, Inc.  
+BBB EU Safe Harbor  
+[www.bbb.org/us/safe-harbor-complaints"](http://www.bbb.org/us/safe-harbor-complaints)   
 
 **NOTE** **: The dispute resolution procedure described in Section 12.B. is only available for citizens of EU member countries.**
 
