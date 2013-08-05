@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the islcollective.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123231745id_/http%3A//en.islcollective.com/Your_Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the islcollective.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805234900id_/http%3A//en.islcollective.com/Your_Privacy) for the most accurate reproduction.*
 
-# +20 000 Free ESL worksheets made by teachers for teachers
+# +30 000 Free ESL worksheets made by teachers for teachers
 
 iSLCollective Privacy Policy
 
