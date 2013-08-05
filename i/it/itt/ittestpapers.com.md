@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ittestpapers.com privacy policy that was archived on 2011-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110727174536id_/http%3A//www.ittestpapers.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ittestpapers.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806002457id_/http%3A//www.ittestpapers.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
