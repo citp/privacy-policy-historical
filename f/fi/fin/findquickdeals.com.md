@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findquickdeals.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609181156id_/http%3A//findquickdeals.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findquickdeals.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805113643id_/http%3A//findquickdeals.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Find Quick Deals | Privacy Policy
 
