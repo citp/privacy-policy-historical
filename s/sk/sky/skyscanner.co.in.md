@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyscanner.co.in privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115143926id_/http%3A//www.skyscanner.co.in/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyscanner.co.in privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805201455id_/http%3A//www.skyscanner.co.in/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy and cookie policy - Skyscanner India
 
@@ -126,9 +126,11 @@ If you have any questions about this policy, please contact us by [email](http:/
 
 Or by post via the following address:
 
-Skyscanner  
-10 Waterloo Place  
-Edinburgh EH1 3EG
+Skyscanner Ltd  
+Quartermile One  
+15 Lauriston Place  
+Edinburgh EH3 9EN  
+United Kingdom
 
 Tel: 0131 252 5700
 
