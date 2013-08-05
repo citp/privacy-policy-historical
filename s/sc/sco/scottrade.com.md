@@ -1,91 +1,127 @@
-> *The following text is extracted and transformed from the scottrade.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423221617id_/http%3A//www.scottrade.com/disclosures/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scottrade.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805124051id_/https%3A//www.scottrade.com/documents/alt/PrivacyStatement.pdf) for the most accurate reproduction.*
 
-# Privacy Statement | Scottrade
+# 
 
-The Scottrade Brokerage Privacy Statement describes how we collect and protect your personal information in the course of providing you with financial services...
-
-### Our Privacy Policy  
-
-
-We are very committed to protecting the privacy of your personal information. Scottrade wants you to know that:
-
-  * We do not sell, rent or license your personal information to anyone.
-  * We maintain physical, electronic and procedural safeguards that restrict unauthorized access to your personal information.
-  * We train our employees about privacy and limit access to this information.
-
-
-
-### Personal Information We May Collect  
-
-
-We collect personal information about you, which may include your name, physical address, email address, telephone number, Social Security number and other information as required.
-
-We obtain this information from the following sources:.  
-
-
-  * Information you provide online, on written applications or forms, and other information you may provide;
-  * Information entered online that may be stored even if you do not complete or submit an application;
-  * Information from third parties in order to verify your identity or to prevent fraud;
-  * Information from third parties that you authorize to provide information to us; and
-  * Information about your transactions, account experience, account balance, trading activity and payment history.
-
-
-
-### Personal Information We Use or Disclose  
-
-
-Scottrade does not sell, rent or license your personal information to anyone. This applies to both current and former customers. We use your personal information to provide services you may have requested, to respond to communications from you, and to help you open new or additional accounts. We disclose your personal information, as permitted by law, to affiliated and non-affiliated third parties that help us provide financial services to you. This includes third parties who provide statements of your accounts, transaction confirmations and check printing; or provide custody, depository or recordkeeping services. All affiliated and non-affiliated third parties that accept or receive personal information from us are obligated contractually or by law or regulation to keep this information confidential and to use the information only to provide the services we ask them to perform. We disclose personal information to government and regulatory agencies and to comply with a lawful summons, court order, subpoena, fraud investigation, audit or regulatory examination.
-
-### Security of Your Personal Information  
-
-
-We maintain physical, electronic and procedural safeguards that restrict access to your personal information. We comply with applicable laws and regulations. Our online environment uses industry leading security technologies including layered security and access controls over personal information. These safeguards are reviewed and may be adjusted in response to advances in technology and the latest security threats.
-
-### How We Use Cookies  
-
-
-Scottrade uses first-party and third-party cookies. Cookies are small text files sent by a website server to your Web browser and stored on your computer. The use of cookies helps us understand how you are using our website. They allow us to improve the security, content, navigation and functionality of the website. Additionally, we use cookies on our websites and the sites on which we advertise to track advertising performance and to collect aggregate data on Web page viewing. Cookies are not used to collect or disseminate any personal information. You can manage the placement of cookies on your computer through the features found in most Internet browsers. You can also delete cookies that have already been placed on your computer. Consult the "Help" function of your browser to explore your options.
-
-### Internet Protocol (IP) Address  
+                     WHAT DOES SCOTTRADE DO
+ FACTS               WITH YOUR PERSONAL INFORMATION?
+                     Financial companies choose how they share your personal information. Federal law gives
+                     consumers the right to limit some but not all sharing. Federal law also requires us to tell you
+ Why?                how we collect, share and protect your personal information. Please read this notice carefully
+                     to understand what we do.
+                     The types of personal information we collect and share depend on the product or service you
+                     have with us. This information can include:
+ What?                  • Social Security number and employment information
+                        • Account balances and transaction history
+                        • Credit history and investment experience
+                     All financial companies need to share customers’ personal information to run their everyday
+                     business. In the section below, we list the reasons financial companies can share their
+ How?                customers’ personal information; the reasons Scottrade chooses to share; and whether you
+                     can limit this sharing.
+                                                                        Does Scottrade         Can you limit this
+ Reasons we can share your personal information
+                                                                             share?                 sharing?
+ For our everyday business purposes – such as to process
+ your transactions, maintain your account(s), respond to court                 Yes                      No
+ orders and legal investigations, or report to credit bureaus
+ For our marketing purposes – to offer our products and
+                                                                               Yes                      No
+ services to you
+ For joint marketing with other financial companies                            Yes                      No
+ For our affiliates’ everyday business purposes – information
+                                                                               Yes                      No
+ about your transactions and experiences
+ For our affiliates’ everyday business purposes – information
+                                                                               Yes                     Yes
+ about your creditworthiness
+ For our affiliates to market to you                                           Yes                     Yes
+ For non-affiliates to market to you                                            No               We don’t share
+                     Call (800) 619-SAVE (7283) – our menu will prompt you through your choices.
+                     Please note: If you are a new customer, we can begin sharing your information 30 days from
+ To limit our        the date we sent this notice. When you are no longer our customer, we continue to share
+ sharing             your information as described in this notice.
+                     However, you can contact us at any time to limit our sharing.
+ Questions?          Call 1-800-619-SAVE (7283) or go to www.scottrade.com
+Rev. June 2013                                                                                              Page 1 of 3
 
 
-As you enter our website, we capture and retain the IP address of the device you are using, such as a personal computer or a handheld device. The IP address does not identify you or your personal information and is used for security purposes only.
+ Who we are
+ Who is providing this notice?        Scottrade, Inc.; Scottrade Bank, FSB ; Boulevard Bank
+ What we do
+                                      To protect your personal information from unauthorized access and use, we
+ How does Scottrade protect
+                                      use security measures that comply with federal law. These measures include
+ my personal information?
+                                      computer safeguards and secured files and buildings.
+                                      We collect your personal information, for example, when you:
+                                         • Open an account or perform transactions
+ How does Scottrade collect              • Give us your contact information or make a wire transfer
+ my personal information?                • Make deposits or withdrawals from your account
+                                      We also collect your personal information from others, such as credit bureaus,
+                                      affiliates, or other companies.
+                                      Federal law gives you the right to limit only:
+                                         • sharing for affiliates’ everyday business purposes – information about
+                                              your creditworthiness
+ Why can’t I limit all sharing?          • affiliates from using your information to market to you
+                                         • sharing for non-affiliates to market to you
+                                       State laws and individual companies may give you additional rights to limit
+                                       sharing. See below for more on your rights under state law.
+ What happens when I limit
+ sharing for an account I hold        Your choices will apply to everyone on your account.
+ jointly with someone else?
+ Definitions
+                                      Companies related by common ownership or control. They can be financial
+ Affiliates                           and nonfinancial companies.
+                                      Our affiliates include Boulevard Bank and companies with a Scottrade name.
+                                      Companies not related by common ownership or control. They can be
+ Non-affiliates                       financial and nonfinancial companies.
+                                      Scottrade does not share with non-affiliates so they can market to you.
+                                      A formal agreement between nonaffiliated financial companies that together
+                                      market financial products or services to you.
+ Joint marketing
+                                      Our joint marketing partners include mortgage lenders, credit card companies,
+                                      and other financial service providers.
+ Other important information
+ We will continue to share information to the extent permissible by law. We may further limit information sharing to
+ comply with more restrictive state laws:
+    • For accounts with a Vermont mailing address – we do not share information about your
+        creditworthiness with any of our affiliates without your consent; however, we may share information about
+        transactions and experiences with you without your consent.
+    • For accounts with a California mailing address – California residents are provided an additional notice
+        on the following page describing the privacy choices available under California law.
+Rev. June 2013                                                                                             Page 2 of 3
 
-### Links to Other Websites  
 
-
-We provide links to other third-party websites to provide information that may be of interest to you. When you select a link to a third-party site, you are subject to the privacy and security policies of the third party.
-
-### How to Protect Yourself  
-
-
-We encourage you to protect your personal computers by using the Security Checklist on the Scottrade.com website under the Security Section and ensure your account information is stored securely, transactions are accurately reflected and contact information is up-to-date.
-
-### Steps to Take if You Become an Identity Theft Victim  
-
-
-If you feel you have become the victim of online identity theft, you should take the following steps:
-
-  * If you feel your Scottrade account has been compromised in any way, immediately contact us toll-free at 1-800-619-SAVE (7283).
-  * Contact the fraud department at each major credit bureau and tell them you are an identity theft victim:
-
-
-  1. Equifax - call (800) 525-6285 or visit [www.equifax.com](http://www.equifax.com/home)
-  2. Experian - call (888) 397-3742 or visit [__www.experian.com/](http://www.experian.com/)
-  3. TransUnion - call (800) 680-7289 or visit [www.transunion.com/](http://www.transunion.com/)
-
-
-  * Contact the creditors/companies for any accounts that have been tampered with or opened fraudulently. Speak with someone in the security or fraud area of each creditor/company; follow up with a letter.
-  * File a report with your local police or the police in the community where the online fraud took place. Get a copy of the police report in case you need proof of the crime.
-  * Keep records of everything involved in your efforts to clear up the fraud including copies of written correspondence and records of telephone calls.
-  * File a complaint with the Federal Trade Commission (FTC).
-
-
-
-### Revisions  
-
-
-****Scottrade reserves the right to make changes to the Brokerage Privacy Statement at any time. Any changes or updates become effective immediately upon posting to this site. Please check the "Last Revision" date below to determine if there have been any changes since you have last reviewed our Privacy Statement. Scottrade provides an annual privacy notice to current customers. You may always review our Brokerage Privacy Statement online at _www.scottrade.com_ , or contact us for a copy at 1-800-619-SAVE (7283).
-
-Last Revision 1/2012  
-
+                                  CALIFORNIA PRIVACY NOTICE
+                               Important Privacy Choices for California Residents
+  You have the right to control whether we share some of your personal information. Please
+           read the following information carefully before you make your choices below.
+ Your Rights
+  You have the following rights to restrict the sharing of personal and financial information with our affiliates
+  (companies we own or control) and outside companies with whom we do business. Nothing in this form prohibits
+  the sharing of information necessary for us to follow the law, as permitted by law, or to give you the best service
+  on your accounts with us. This includes sending you information about some other products or services.
+ Your Choices
+  Restrict Information Sharing With Affiliates: Unless you instruct us otherwise, we may share personal and
+  financial information about you with companies we own or control.
+  Restrict Information Sharing With Outside Companies: Unless you instruct us otherwise, we may share
+  personal and financial information about you with outside companies with whom we do business to provide
+  financial products and services.
+ Time-Sensitive Reply
+  You may make your privacy choices at any time; however, if we do not hear from you we may share some of
+  your information with affiliated companies and outside companies as described above.
+ To exercise your choices, do one of the following:
+  1. Complete the form below, then mail to:       Scottrade, Inc.
+                                                  Attn. Privacy Department
+                                                  P.O. Box 31759
+                                                  St. Louis MO
+                                                  63131-0759
+  2. Call (800) 619-SAVE (7283) – our menu will prompt you through your choices.
+  3. Complete the form below, then fax to (855) 339-5128, Attn. Privacy Department
+ -------------------------------------------------------------
+         Scottrade Information Privacy Request – California Residents ONLY
+ (_) Don’t share my personal & financial information with your affiliated companies.
+ (_) Don’t share my personal & financial information with outside companies with whom you do business.
+ Accountholder Name: __________________________________________________________________
+ Account Number:______________________________________________________________________
+ Signature:_____________________________________________________________________________
+Rev. June 2013                                                                                                 Page 3 of 3
