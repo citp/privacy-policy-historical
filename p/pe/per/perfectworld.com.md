@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perfectworld.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518114108id_/http%3A//www.perfectworld.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfectworld.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805225842id_/http%3A//www.perfectworld.com/about/privacy) for the most accurate reproduction.*
 
 # Perfect World
 
