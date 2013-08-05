@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arena.wix.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603145717id_/http%3A//arena.wix.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arena.wix.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806004419id_/http%3A//arena.wix.com/pages/privacy) for the most accurate reproduction.*
 
 # Wix.com Privacy Policy | Wix Arena
 
