@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realmadridwallpapers.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621011512id_/http%3A//realmadridwallpapers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realmadridwallpapers.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805150539id_/http%3A//realmadridwallpapers.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Wallpapers | Real Madrid Wallpapers
 
