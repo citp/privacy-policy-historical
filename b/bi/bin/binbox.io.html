@@ -1,35 +1,32 @@
-<!--The following is the downloaded HTML source of the binbox.io privacy policy that was archived on 2013-05-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130501043657id_/http%3A//binbox.io/help/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the binbox.io privacy policy that was archived on 2013-08-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130806001950id_/http%3A//binbox.io/help/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy Policy | Binbox</title>
 
 <link href="http://fonts.googleapis.com/css?family=Montserrat|Montserrat+Alternates|Varela+Round" rel="stylesheet" type="text/css">
 
-<link rel="SHORTCUT ICON" href="http://binbox.io/public/img/favicon.ico">
+<link rel="SHORTCUT ICON" href="http://binbox.io/favicon.ico">
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 
 <link rel="stylesheet" href="http://binbox.io/public/css/bootstrap.css" type="text/css" media="screen">
 <link rel="stylesheet" href="http://binbox.io/public/css/font-awesome.css" type="text/css" media="screen">
 <link rel="stylesheet" href="http://binbox.io/public/css/global.css" type="text/css" media="screen">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
-<!--
 	var base_url = "http://binbox.io/";
 	var img_url = "http://binbox.io/public/img/";
-	var form_validate_hash = "2b5ecbff95084e1b8d41322f3a21b82e";
-	
-	
+	var form_validate_hash = "ed9ea0d10faf29c4b6de90e33ab12ae7";
+
 		var user = false;
-	
--->
+		
 </script>
 
 <script type="text/javascript" src="http://binbox.io/public/js/jquery.js"></script>
 <script type="text/javascript" src="http://binbox.io/public/js/bootstrap.js"></script>
-<script type="text/javascript" src="http://binbox.io/public/js/global.js"></script>
+<script type="text/javascript" src="http://binbox.io/public/js/global.min.js"></script>
 <script type="text/javascript" src="http://binbox.io/public/js/sjcl.js"></script>
 <script type="text/javascript" src="http://binbox.io/public/js/base64.js"></script>
-<script type="text/javascript" src="http://binbox.io/public/js/zeroclipboard/ZeroClipboard.js"></script>
+<script type="text/javascript" src="http://binbox.io/public/js/zeroclipboard/ZeroClipboard.min.js"></script>
 
 	
 <script type="text/javascript">
@@ -48,23 +45,36 @@
 </head>
 <body id="page-help" class="privacy logged_out">
 
-	
 	<div id="header">
-		<h1 class="brand"> <a href="http://binbox.io/"><img src="http://binbox.io/public/img/logo.png" alt=""> <span>bin</span>box<small>.io</small></a></h1>
+		<h1 class="brand"> <a href="http://binbox.io/"><img src="http://binbox.io/public/img/logo.png" alt=""> Binbox<small>.io</small></a></h1>
 		
 	
 		<nav>
-		<a class="btn btn-success" href="#new" id="new-button"><i class="icon-plus"></i> Paste</a>
-				<a class="btn btn-primary" href="#login">Sign in</a>
-		<a class="btn btn-info" href="#register">Create Account</a>
+				<a class="btn btn-success" href="#new" id="new-button"><i class="icon-file-text"></i> New</a>
+						<div class="btn-group inline">
+			<a class="btn" href="#login">Sign in</a>
+			<a class="btn" href="#register">Create Account</a>
+		</div>
 				</nav>
 		
 	</div>
+	
+	<div id="navigation">
+		<div id="breadcrumb">
+			<a href=""></a>		</div>
+			<nav>
+			<a class="tab" href="http://binbox.io/"><i class="icon-home"></i></a>
+			<a class="tab active" href="http://binbox.io/about">Learn more</a>
+		</nav>
+			
+		<div class="clear"></div>
+	</div>
+
+	
 	<div id="wrapper">
 	
-	       
-
-<div id="legal">
+	       <div class="container">
+<div class="well">
 
 <h2>Privacy Policy</h2>
 
@@ -97,62 +107,97 @@
 <p>
 	We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
 </p>		
-</div>	       	
+</div>
+</div>		   
 		<div id="submission" class="modal hide">
 			<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-			<h2>Your submission is ready!</h2>
-			
+			<h2>Your paste is ready: #<span class="paste-id"></span></h2>
 			<div id="paste-options">
-				<div id="paste-url">
-					<a href="http://binbox.io/"><span>http://binbox.io/</span></a>
+				<div class="viewing-url">
+					<h6>URL (with password)</h6>
+					<a class="paste-url" href="http://binbox.io/"></a>
 					
 					<div class="btn-group right">
-						<button class="btn copy">Copy</button>
-						<button data-dismiss="modal" aria-hidden="true" class="btn">Close</button>
+						<button id="copy-w-pass" class="btn copy">Copy</button>
 						<button class="btn go">Go</button>
 					</div>
 				</div>
+				
+				
+				<div class="viewing-url">
+					<h6>URL (asks for password)</h6>
+					<a class="paste-url-no-password" href="http://binbox.io/"></a>
+					
+					<div class="btn-group right">
+						<button id="copy-no-pass" class="btn copy">Copy</button>
+						<button class="btn go">Go</button>
+					</div>
+				</div>
+			</div>
+			<hr>
+			<p class="alert alert-info">The password to unlock this paste is <strong class="paste-password"></strong>.</p>
+			<hr>
+			
+			<div id="submission-actions">
+				<a class="btn view-paste" href="#">View Paste</a>
+				<a class="btn new-paste" href="#">New Paste</a>
 			</div>
 			
 			<div class="clear"></div>
 		</div>
 
 		<div id="pastebin" class="modal hide">
-			<div class="modal-header">
-				New Paste
-				<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-			</div>
-			<noscript>
-				<p class='alert alert-danger'><i class="icon-exclamation-sign"></i> You must have JavaScript enabled to submit a paste.</p>
-			</noscript>
+			<form class="form-horizontal" action="http://binbox.io/submit" method="post">
+				<div class="modal-header">
+					<input type="text" name="title" placeholder="Add a title to this paste..." value="Untitled">
+					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+				</div>
+				<noscript>
+					<p class='alert alert-danger'><i class="icon-exclamation-sign"></i> You must have JavaScript enabled to submit a paste.</p>
+				</noscript>
 		
-			<form class="form-horizontal" action="http://binbox.io/submit/" method="post">
-				<input type="hidden" name="validate" value="7bd15728f5222ca44a46ffd888716e1a">
+				<input type="hidden" name="validate" value="fc704b830c1331590f79b103b097f3aa">
 				
 				<div id="pastebin-container" class="control-group">
 					<textarea placeholder="Paste your text or links here..." name="text" required=""></textarea>
 				</div>
 				
 				<div class="form-actions">
-					<input type="text" maxlength="40" id="paste-title" name="title" placeholder="Add a title to this paste..."> <button class="btn btn-success btn-large">Submit</button>
+					<button class="btn btn-success btn-large float right">Submit</button>
+					<div class="clear"></div>
 				</div>
 				
 			</form>
-		</div>
-	       
+		</div>	       
 	
 	<footer>
-		<strong>© Binbox</strong>
+		<strong>© Binbox 2013</strong>
 		<nav>
+			<a href="http://binbox.io/about">About</a>
+			<a href="http://binbox.io/api">API</a>
+			<a href="http://binbox.io/help/faq">FAQ</a>
 			<a href="http://binbox.io/help/rates">Rates</a>
-			<a href="http://binbox.io/help/terms">Terms</a>
-			<a href="http://binbox.io/help/privacy">Privacy</a>
 			<a target="_blank" href="http://stats.pingdom.com/juuoo5llg6vc/809993">Status</a>
-			<a href="http://binbox.io/help/contact">Contact</a>
+			<a href="http://binbox.io/help/terms">Terms</a>
+			<a href="http://binbox.io/help/privacy">Privacy Policy</a>
+			<a href="http://binbox.io/help/contact">DMCA Policy</a>
+			<a href="http://binbox.io/help/contact">Contact Us</a>
 		</nav>
 	</footer>
 	
-	</div>
+		</div>
+	
+	
+
+			<noscript>
+				<div class='modal' style='width: 500px;padding: 10px;'>
+					<div class="alert alert-block" style='margin: 0;'>
+						<h4 class="alert-heading">Warning!</h4>
+						<p>You need to have <a href="http://en.wikipedia.org/wiki/JavaScript" target="_blank">JavaScript</a> enabled to use this site.</p>
+					</div>
+				</div>
+			</noscript>
+				
 
 
 </body></html>
