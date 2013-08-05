@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cricwaves.com privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612092413id_/http%3A//www.cricwaves.com/cricket/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cricwaves.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806003417id_/http%3A//www.cricwaves.com/cricket/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Cricwaves: Privacy Policy - Live Cricket and Free Score Widgets
 
