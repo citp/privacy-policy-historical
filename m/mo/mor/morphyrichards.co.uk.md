@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morphyrichards.co.uk privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520074352id_/http%3A//www.morphyrichards.co.uk/support/morphy-richards-support/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morphyrichards.co.uk privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805220704id_/http%3A//www.morphyrichards.co.uk/support/morphy-richards-support/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -83,6 +83,14 @@ Without limitation, any of the following Data may be collected:
 3.3.3 subject to paragraph 4 of this Privacy Policy, transmission by email of promotional materials relating to products / services that may be of interest to you; 
 
 3.3.4 contact for market research purposes which may be done using telephone, fax or mail. You may opt out of being contacted in this way at any time. Such information may be used to customise or update the Web Site. 
+
+3.3.5 Information We Collect
+
+In operating our website we may collect and process the following data about you:
+
+  Details of your visits to our website and the resources that you access, including, but not limited to, traffic data, location data, weblogs and other communication data.
+
+Information that you provide by filling in forms on our website, such as when you registered for information or make a purchase. (Please note that we have the ability to retain your contact details should you input them on our website using VeCapture by Ve Interactive, even if you do not complete your registration/transaction by clicking submit. Such contact details may be used to contact you to assist with your registration/transaction).
 
 #### 4\. Emails
 
