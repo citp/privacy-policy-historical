@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4server.info privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430081837id_/http%3A//4server.info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4server.info privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805133349id_/http%3A//4server.info/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | www.4server.info
 
@@ -46,5 +46,5 @@ If you wish to disable cookies, you may do so through your individual browser op
 this script is sale for only $50000, contact us via neo7team@gmail.com
 
   
-[ ](http://goo.gl/FGnDU)[ ](http://rocketfans.com/)[](http://goo.gl/9a1tH)   
+[ ](http://goo.gl/FGnDU)[ ](http://www.4server.info/advertise/)[](http://goo.gl/9a1tH)   
 
