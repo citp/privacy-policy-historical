@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinesoccermanager.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429161436id_/http%3A//www.onlinesoccermanager.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinesoccermanager.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805091807id_/http%3A//www.onlinesoccermanager.com/Privacy) for the most accurate reproduction.*
 
 # Privacy policy - Online Soccer Manager
 
