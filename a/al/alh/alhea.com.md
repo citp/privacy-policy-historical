@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alhea.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530084320id_/http%3A//alhea.com/support/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alhea.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805160553id_/http%3A//alhea.com/support/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
