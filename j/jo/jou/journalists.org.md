@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the journalists.org privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602213837id_/https%3A//members.journalists.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the journalists.org privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805141319id_/https%3A//members.journalists.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ONA Members
 
