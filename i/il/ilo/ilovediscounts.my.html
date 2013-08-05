@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ilovediscounts.my privacy policy that was archived on 2013-05-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130524145814id_/http%3A//www.ilovediscounts.my/pages/privacyilovediscounts) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ilovediscounts.my privacy policy that was archived on 2013-08-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130805100819id_/http%3A//ilovediscounts.my/pages/privacyilovediscounts) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:fb="http://ogp.me/ns/fb#"><head>
         <meta name="description" content="I LOVE DISCOUNTS is Malaysia's Favourite Discount Website. Join the growing community of Malaysians saving on the best discount deals every day.">
@@ -13,7 +13,7 @@
     <link href="/Images/asset/favicon.ico" type="image/x-icon" rel="icon">
     <link href="/Content/base.css" type="text/css" rel="stylesheet">
     <link href="/Content/font/fontface.css" type="text/css" rel="stylesheet">
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=192238904147102"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=192238904147102"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
     <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery.validate/1.7/jquery.validate.min.js"></script>
     <script type="text/javascript" src="/Scripts/jquery.color.js"></script>
     <script type="text/javascript" src="/Scripts/dm.js"></script>
@@ -63,8 +63,49 @@
                     'user-passwd-menubar': { required: "Password is required" }
                 }
             });
+
+                    
+
+                    var sticky_navigation_offset_top = $('#header_menu_navs').offset().top;
+
+                    // our function that decides weather the navigation bar should have "fixed" css position or not.
+                    var sticky_navigation = function () {
+                        var scroll_top = $(window).scrollTop(); // our current vertical position from the top
+
+                        // if we've scrolled more than the navigation, change its position to fixed to stick to top,
+                        // otherwise change it back to relative
+                        if (scroll_top > sticky_navigation_offset_top) {
+                            $('#header_menu_navs').css({ 'position': 'fixed', 'top': 0, 'left': 0 });
+                        } else {
+                            $('#header_menu_navs').css({ 'position': 'relative' });
+                        }
+                    };
+
+                    // run our function on load
+                    sticky_navigation();
+
+                    // and run it again every time you scroll
+                    $(window).scroll(function () {
+                        sticky_navigation();
+                    });
+
+                    
         });
     </script>
+     <!-- GA Tracking start -->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16900509-3']);
+      _gaq.push(['_trackPageview']);
+
+      (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
+    <!-- GA Tracking end -->
     
    <style>
       .body .content h3 { font-size:1em; }
@@ -145,17 +186,17 @@
             </div>
             ?
             <div id="header_ild_areas_wrapper">
-                View Deals By Location: <span class="currentArea">Klang Valley</span>
+                View Deals By Location: <span class="currentArea">Melaka</span>
                 <span class="dropDownBtn"></span>
                 <div id="header_ild_areas" class="ddMenubar">
                     <ul>
-                            <li><a href="/kuala-lumpur" class="current">Klang Valley</a></li>
+                            <li><a href="/kuala-lumpur" class="">Klang Valley</a></li>
                             <li><a href="/penang" class="">Penang</a></li>
                             <li><a href="/johor-bahru" class="">Johor Bahru</a></li>
                             <li><a href="/ipoh" class="">Ipoh</a></li>
                             <li><a href="/kota-kinabalu" class="">Kota Kinabalu</a></li>
                             <li><a href="/kuching" class="">Kuching</a></li>
-                            <li><a href="/melaka" class="">Melaka</a></li>
+                            <li><a href="/melaka" class="current">Melaka</a></li>
                             <li><a href="/miri" class="">Miri</a></li>
                             <li><a href="/kuantan" class="">Kuantan</a></li>
                             <li><a href="/seremban" class="">Seremban</a></li>
@@ -173,59 +214,81 @@
                 position: absolute; width: 990px; z-index: 9999;">
             </div>
             <div id="header_menu_navs">
-                <table id="header_table" style="margin: 0 auto; position: absolute; z-index: 100;" border="0" cellpadding="0" cellspacing="0">
-                    <tbody><tr>
-                        <td>
-                            <span></span><a href="/kuala-lumpur/deals/all" class="h_link hmn_all ">
-                                <span class="header_label">All Deals</span></a>
-                        </td>
-                        <td>
-                            <a href="/kuala-lumpur/deals/lastcall" class="h_link hmn_lastcall ">
-                                <span class="header_label">Last Call</span></a>
-                        </td>
-                        <td>
-                            <a href="/kuala-lumpur/deals/fashion" class="h_link hmn_fashion ">
-                                <span class="header_label">Fashion</span></a>
-                        </td>
-                        <td>
-                            <a href="/kuala-lumpur/deals/stuff" class="h_link hmn_stuff ">
-                                <span class="header_label">Stuff</span></a>
-                        </td>
-                        <td>
-                            <a href="/kuala-lumpur/deals/beauty" class="h_link hmn_beauty ">
-                                <span class="header_label">Beauty</span></a>
-                        </td>
-                        <td>
-                            <a href="/kuala-lumpur/deals/living" class="h_link hmn_homeliving ">
-                                <span class="header_label">Home &amp; Living</span></a>
-                        </td>
-                        <td>
-                            <a href="/kuala-lumpur/deals/dining" class="h_link hmn_fnb ">
-                                <span class="header_label">F &amp; B</span></a>
-                        </td>
-                        <td>
-                            <a href="/kuala-lumpur/deals/mumsnkids" class="h_link hmn_mumnkids ">
-                                <span class="header_label">Mum &amp; Kids</span></a>
-                        </td>
-                        <td>
-                            <a href="/kuala-lumpur/deals/auto" class="h_link hmn_auto ">
-                                <span class="header_label">Auto</span></a>
-                        </td>
-                        <td>
-                            <a href="/kuala-lumpur/deals/healthcare" class="h_link hmn_healthcare ">
-                                <span class="header_label">Health Care</span></a>
-                        </td>
-                        <td>
-                            <a href="/kuala-lumpur/deals/destination" class="h_link hmn_travel ">
-                                <span class="header_label">Travel</span></a>
-                        </td>
-                        <td>
-                            <a href="/kuala-lumpur/deals/activities" class="h_link hmn_activities ">
-                                <span class="header_label">Activities</span></a>
-                        </td>
-                        
-                    </tr>
-                </tbody></table>
+                <div style="margin: 0 auto; width: 990px; display: table;">
+                    <table id="header_table" style="margin: 0 auto; position: absolute; z-index: 100;" border="0" cellpadding="0" cellspacing="0">
+                        <tbody><tr>
+                            <td>
+                                <span></span><a href="/melaka/deals/all" class="h_link hmn_all ">
+                                    <span class="header_label">All Deals</span></a>
+                            </td>
+                            <td>
+                                <a href="/melaka/deals/lastcall" class="h_link hmn_lastcall ">
+                                    <span class="header_label">Last Call</span></a>
+                            </td>
+                            <td>
+                                <a href="/melaka/deals/fashion" class="h_link hmn_fashion ">
+                                    <span class="header_label">Fashion</span></a>
+                            </td>
+                            <td>
+                                <a href="/melaka/deals/stuff" class="h_link hmn_stuff ">
+                                    <span class="header_label">Stuff</span></a>
+                            </td>
+                            <td>
+                                <a href="/melaka/deals/beauty" class="h_link hmn_beauty ">
+                                    <span class="header_label">Beauty</span></a>
+                            </td>
+                            <td>
+                                <a href="/melaka/deals/living" class="h_link hmn_homeliving ">
+                                    <span class="header_label">Home &amp; Living</span></a>
+                            </td>
+                            <td>
+                                <a href="/melaka/deals/dining" class="h_link hmn_fnb ">
+                                    <span class="header_label">F &amp; B</span></a>
+                            </td>
+                            <td>
+                                <a href="/melaka/deals/mumsnkids" class="h_link hmn_mumnkids ">
+                                    <span class="header_label">Mums &amp; Kids</span></a>
+                            </td>
+                            <td>
+                                <a href="/melaka/deals/auto" class="h_link hmn_auto ">
+                                    <span class="header_label">Auto</span></a>
+                            </td>
+                            <td>
+                                <a href="/melaka/deals/healthcare" class="h_link hmn_healthcare ">
+                                    <span class="header_label">Health Care</span></a>
+                            </td>
+                            <td>
+                                <a href="/melaka/deals/destination" class="h_link hmn_travel ">
+                                    <span class="header_label">Travel</span></a>
+                            </td>
+                            <td>
+                                <a href="/melaka/deals/activities" class="h_link hmn_activities ">
+                                    <span class="header_label">Activities</span></a>
+                            </td>
+                            <td>
+                                <div style="position: relative">
+                                    <div class="header_newcat">
+                                    </div>
+                                    <a href="/melaka/deals/fitness" class="h_link hmn_fitness ">
+                                        <span class="header_label">Fitness</span></a>
+                                </div>
+                            </td>
+                            <td>
+                                <div style="position: relative">
+                                    <div class="header_newcat">
+                                    </div>
+                                    <a href="/melaka/deals/xpress" class="h_link hmn_xpress ">
+                                        <span class="header_label">Xpress</span></a>
+                                </div>
+                            </td>
+                            <td>
+                                <a href="/melaka/deals/raya" class="h_link hmn_raya ">
+                                    <span class="header_label">Raya</span></a>
+                            </td>
+                            
+                        </tr>
+                    </tbody></table>
+                </div>
             </div>
         </div>
     </div>
@@ -331,20 +394,7 @@
 	   } (document, 'script', 'facebook-jssdk'));
     </script>
     <!-- facebook end -->
-    <!-- GA Tracking start -->
-    <script type="text/javascript">
-
-        var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-16900509-3']);
-        _gaq.push(['_trackPageview']);
-
-        (function () {
-            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-        })();
-    </script>
-    <!-- GA Tracking end -->
+   
     <!-- Zendesk start -->
     <script type="text/javascript" src="//assets.zendesk.com/external/zenbox/v2.5/zenbox.js"></script>
     <style type="text/css" media="screen, projection">
