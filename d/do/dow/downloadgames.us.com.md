@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downloadgames.us.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430220000id_/http%3A//downloadgames.us.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadgames.us.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806001147id_/http%3A//downloadgames.us.com/privacy-policy) for the most accurate reproduction.*
 
 # | downloadgames.us.comdownloadgames.us.com
 
