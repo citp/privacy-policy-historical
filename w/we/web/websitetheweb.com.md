@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websitetheweb.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603051715id_/http%3A//websitetheweb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitetheweb.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805161914id_/http%3A//websitetheweb.com/privacy-policy) for the most accurate reproduction.*
 
 # Websitetheweb.com Privacy Policy
 
