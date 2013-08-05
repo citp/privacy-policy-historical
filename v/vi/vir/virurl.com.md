@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virurl.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116054304id_/https%3A//virurl.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virurl.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805204225id_/https%3A//virurl.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | VIRURL
 
