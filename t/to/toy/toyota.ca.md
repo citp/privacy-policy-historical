@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toyota.ca privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429205912id_/http%3A//www.toyota.ca/toyota/en/privacy/toyota) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toyota.ca privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805173643id_/http%3A//www.toyota.ca/toyota/en/privacy/toyota) for the most accurate reproduction.*
 
 # TOYOTA CANADA: Privacy Policy
 
@@ -13,7 +13,7 @@ Toyota Canada Inc. ("TCI"), which includes Toyota, Lexus and Scion brands, respe
 
 In connection with your vehicle purchase, TCI collects the information provided by you that is necessary for your Toyota (Lexus) (Scion) dealership to complete the transaction, including your name, address, telephone number(s), email address, driver's license and insurance information. TCI also records information respecting the vehicle purchased, the purchase price and other transaction information. TCI will also collect personal information from you through customer surveys, inquiries or requests for information and your visits to TCI web sites. You will only be asked to provide personal information in order to enable TCI to provide you with a service (such as sending you a new vehicle brochure, assisting you in contacting a dealership, or enabling you to complete online credit or job applications). 
 
-If you apply for credit with Toyota Credit Canada Inc. ("TCCI"), TCCI will obtain credit approval information from you and third parties. The full TCCI Privacy Policy, which outlines how TCCI's privacy principles protect your privacy as a key part of its ongoing business relationship with you as a valued Toyota (Lexus) (Scion) customer, is available here [TCCI Privacy Policy](https://web.archive.org/web/20130429205912id_/http%3A//www.toyota.ca/toyota/en/privacy/tcci). 
+If you apply for credit with Toyota Credit Canada Inc. ("TCCI"), TCCI will obtain credit approval information from you and third parties. The full TCCI Privacy Policy, which outlines how TCCI's privacy principles protect your privacy as a key part of its ongoing business relationship with you as a valued Toyota (Lexus) (Scion) customer, is available here [TCCI Privacy Policy](https://web.archive.org/web/20130805173643id_/http%3A//www.toyota.ca/toyota/en/privacy/tcci). 
 
 TCI will collect information relating to your service transactions with authorized Toyota (Lexus) (Scion) dealerships.
 
