@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anazana.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115105000id_/https%3A//www.anazana.com/en/anazana/privacy-policy-210801) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anazana.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805160715id_/https%3A//www.anazana.com/en/anazana/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy / anazana / anaZana - create your online store or website today
 
