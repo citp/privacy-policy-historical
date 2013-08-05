@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starfinancial.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423115858id_/https%3A//www.starfinancial.com/privacy-notice.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starfinancial.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805131738id_/https%3A//www.starfinancial.com/privacy-notice.pdf) for the most accurate reproduction.*
 
 # FACTS
 
