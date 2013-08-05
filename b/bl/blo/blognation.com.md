@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blognation.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507063211id_/http%3A//www.blognation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blognation.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805235025id_/http%3A//www.blognation.com/privacy-policy) for the most accurate reproduction.*
 
-# BlogNation: Privacy Policy
+# Privacy Policy - Blog Nation
 
 **Effective Date: 12-09-12**
 
@@ -54,7 +54,7 @@ Generally, you may not opt-out of these communications, whic hare not promotiona
 
 ### INFORMATION SHARING AND DISCLOSURE
 
-Blog Nation may share your personal information, as well as a record of any transactions you conduct on the Site or offline with us through a third-party advertising partner and its service providers such as Google Mail, Outlook, Mad Mimi, Tumblr, Twitter, and Facebook, which will merge that information with information gathered from other sources in order to deliver to you advertising tailored to your interests when you visit certain websites. Our advertising partner will make the data we provide it anonymous and will only use the data in its anonymized form. Only the intermediary data provider which anonymizes the data comes into contact with any personal information. To choose not to have this information used by our third-party advertising partner, contact us [here](https://web.archive.org/contact). Please not, this does not opt you out of being served advertising. You will continue to receive generic ads.
+Blog Nation may share your personal information, as well as a record of any transactions you conduct on the Site or offline with us through a third-party advertising partner and its service providers such as Google Mail, Outlook, Mad Mimi, Tumblr, Twitter, and Facebook, which will merge that information with information gathered from other sources in order to deliver to you advertising tailored to your interests when you visit certain websites. Our advertising partner will make the data we provide it anonymous and will only use the data in its anonymized form. Only the intermediary data provider which anonymizes the data comes into contact with any personal information. To choose not to have this information used by our third-party advertising partner, contact us [here](http://www.blognation.com/contact). Please not, this does not opt you out of being served advertising. You will continue to receive generic ads.
 
 Blog Nation will not sell or rent your personal information to anyone without your consent, except as expressly disclosed in this privacy policy. Third party advertising partners may use anonymized user information for purposes of publishing Blog Nation advertisements as well as for their own purposes.  
 
