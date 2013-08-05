@@ -1,62 +1,52 @@
-> *The following text is extracted and transformed from the myblackcard.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605083309id_/https%3A//www.myblackcard.com/app/ccsite/legal/privacyDynamic.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myblackcard.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806002327id_/https%3A//www.myblackcard.com/servicing/footerLinks%3FhandlePrivacy%3D) for the most accurate reproduction.*
 
-# My Black Card - Privacy and Security
+# Privacy Policy
 
-## Privacy Policy Overview—Revised as of December 2010
+Revised as of December 2011
 
-At Barclays Bank Delaware ("Barclays") we respect your right to personal privacy, online and off. Our Privacy Policy is designed to provide you with protection and value. And it's written in "plain English." Here are the highlights: 
+At Barclays Bank Delaware ("Barclaycard") we respect your right to personal privacy, online and off. Our Privacy Policy is designed to provide you with protection and value. And it's written in "plain English." Here are the highlights:
 
-  * We do not sell information about you or your Accounts. 
-  * When we share information, it is only according to the guidelines described in our Privacy Policy. 
-  * We do not share information with third party marketers unless you expressly authorize us to share the information. 
-  * You control how we contact you. As described in our Privacy Policy, credit card customers may exercise your options online, by mail or by phone.
-  * We have developed industry standard security to protect against the misuse of your information. 
+  * We do not sell information about you, your Accounts or your transactions.
+  * When we share information, it is only according to the guidelines described in our Privacy Policy.
+  * We do not share information with third party marketers unless you expressly authorize us to share the information.
+  * You control how we contact you. As described in our Privacy Policy, credit card customers may exercise their options online, by mail or by phone.
+  * We have developed industry standard security to protect against the misuse of your information.
 
 
 
-This Privacy Policy applies to personally identifiable information about a consumer or a consumer's current or former customer relationship with us. Our Privacy Policy will evolve to meet the changing world in which we operate and we will promptly advise you of any changes to it as required by applicable law. 
+This Privacy Policy applies to personally identifiable information about a consumer or a consumer's current or former customer relationship with us. Our Privacy Policy will evolve to meet the changing world in which we operate and we will promptly advise you of any changes to it as required by applicable law.
 
-I invite you to read our Privacy Policy below. If you have any questions or if anything is unclear, credit card customers can email us at [privacy@BarclaycardUS.com](mailto:privacy@barclaycardus.com) or contact a Customer Care Representative at 1-877-523-0478. 
+I invite you to read our Privacy Policy. If you have any questions or if anything is unclear, credit card customers can email us at [privacy@BarclaycardUS.com](mailto:privacy@BarclaycardUS.com) . If you would like to modify your privacy options, log in and select account settings or call 1-866-698-0236. 
 
 Larry Drexler  
-Good Counsel  
-Barclays
+Chief Privacy Officer, Barclays Bank Delaware
 
-## Privacy Is Important to Us
+**Privacy Is Important to Us**
 
-We believe that Privacy is a cornerstone of our customer relationship. In designing our business, we strive to find methods to guard your privacy while affording you opportunities to save time and money. 
+We believe that Privacy is a cornerstone of our customer relationship. In designing our business, we strive to find methods to guard your privacy while affording you opportunities to save time and money.
 
-  * We do not sell information about our customers, their Accounts, or transactions to others for their use. We do share information as described in this Privacy Policy. 
-  * We do not share information about you, except in the limited circumstances described in our Privacy Policy. 
-  * When we do share information it is limited to the information necessary for the particular circumstance. 
-  * We restrict access to the information we obtain about you, only to appropriate employees and service providers for business purposes only. 
+  * We do not sell information about our customers, their Accounts, or transactions to others for their use. 
+  * We do not share information about you, except in the limited circumstances described in our Privacy Policy.
+  * When we do share information it is limited to the information necessary for the particular circumstance.
+  * We restrict access to the information we obtain about you, only to appropriate employees and service providers for business purposes only.
   * We maintain physical, electronic, and procedural safeguards that comply with federal regulations to guard against misuse of the information we obtain.
 
 
 
-## Cookies
+**Cookies**
 
-"Cookies" are small computer files that are automatically placed on your computer's hard drive when you are connected to a website or remote server so that the website can recognize you upon your return to the website and tailor your experience based on your earlier use of the site and, in some cases, your earlier use of other sites. Our cookie does not collect information from your hard drive; rather, it allows us to recognize you and know how you navigated through our site. It is also part of our effort to detect and stop fraud. "Action tags" (also known as Web Beacons, Trackers, or Bugs) are invisible pixel .gif files placed on web pages that are used to track web navigation to those pages. 
+"Cookies" are small computer files that are automatically placed on your computer's hard drive when you are connected to a website or remote server so that the website can recognize you upon your return to the website and tailor your experience based on your earlier use of the site and, in some cases, your earlier use of other sites. Our cookie does not collect information from your hard drive; rather, it allows us to recognize you and know how you navigated through our site. It is also part of our effort to detect and stop fraud. "Action tags" (also known as Web Beacons, Trackers, or Bugs) are invisible pixel .gif files placed on web pages that are used to track web navigation to those pages.
 
-We use a cookie for each computer that visits our site. The cookie is integral to the customer experience and is necessary to use our online services. It allows us to customize the website presentation based on your Accounts. While cookies, including ours, can be disabled, if you disable our cookie you will not be able to use our website. 
+We use a cookie for each computer that visits our site. The cookie is integral to the customer experience and is necessary to use our online services. It allows us to customize the website presentation based on your Accounts. While cookies, including ours, can be disabled, if you disable our cookie you will not be able to use our website.
 
-Cookies may also be used by our partners who have links on our website. These cookies allow those partners to recognize you and monitor your use of the site. The partners will not get personal information about you unless, and until, you provide your information to them when visiting the partner's site. For more information about partners' use of cookies see their privacy policies, links to which are available below. 
+Cookies may also be used by our partners who have links on our website. These cookies allow those partners to recognize you and monitor your use of the site. The partners will not get personal information about you unless, and until, you provide your information to them when visiting the partner's site. For more information about partners' use of cookies see their privacy policies.
 
-Companies that place our banner ads on other websites ("ad servers") also use action tags to understand how a person navigates on our site after responding to one of our banner ads. Any information collected is never linked to an individual and is only used in aggregate with other information generated by visitors to our site. You have the right to elect not to participate in this anonymous tracking of information, which is used to select which ads to display when you visit certain websites. In order to determine your comfort level with these companies' information practices you should review their privacy policies. Click on the advertiser name below to go to its website to learn more about that agency's privacy policy, its use of cookies and action tags, and the options available to you in relation to those cookies. 
+Companies that place our banner ads on other websites ("ad servers") also use action tags to understand how a person navigates on our site after responding to one of our banner ads. Any information collected is never linked to an individual and is only used in aggregate with other information generated by visitors to our site. You have the right to elect not to participate in this anonymous tracking of information, which is used to select which ads to display when you visit certain websites. In order to determine your comfort level with these companies' information practices you should review their privacy policies. Click on the advertiser name below to go to its website to learn more about that agency's privacy policy, its use of cookies and action tags, and the options available to you in relation to those cookies.
 
-[Hertz](http://www.hertz.com/)  
-[Insurance.com](http://www.insurance.com/privacypolicy.aspx)  
-[Teleflora](http://www.teleflora.com/TFprivacy.asp?VID=2230)  
-[Time](http://cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/time?dnp_source=E)
+[Time](https://subscription.timeinc.com/storefront/privacy/time/generic_privacy_new.html?dnp-source=E)  
+[CompleteHome](http://www.completehome.com/Content.aspx?content=help%2fprivacy)  
+[Great Fun](https://www.greatfunonline.com/store/common/privacypolicy.jsp?title=privacypolicy)  
+[Shoppers Advantage](https://www.shoppersadvantage.com/store/common/privacypolicy.jsp?title=privacypolicy)  
+[Google](http://wallet.google.com/files/privacy.html)
 
-_Trilegiant Corporation Offers:_  
-[CompleteHome](http://www.completehome.com/global/scripts/promo.asp?ref=hmeJNPR20loB01)  
-[Great Fun](http://www.greatfunonline.com/global/scripts/promo.asp?ref=gfJUNIPERob2001)  
-[Shoppers Advantage](http://www.shoppersadvantage.com/global/scripts/promo.asp?ref=saJUNIPERodbc01)
-
-At present, we do not allow third-party serving of advertising on our website. If we do allow such activities in the future, we will post a link from our online Privacy Policy to the privacy policy of the company or partner that is associated with each advertisement. We recommend that you review each company or partner's privacy policy including their use of cookies to understand their information handling practices and your options. 
-
-Back to top
-
-  
- 
+At present, we do not allow third-party serving of advertising on our website. If we do allow such activities in the future, we will post a link from our Online Privacy Statement to the privacy policy of the company or partner that is associated with each advertisement. We recommend that you review each company or partner's privacy policy including their use of cookies to understand their information handling practices and your options.
