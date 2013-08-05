@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supersentai.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530104250id_/http%3A//supersentai.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supersentai.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805091535id_/http%3A//www.supersentai.com/privacy) for the most accurate reproduction.*
 
 # Power Rangers Central / Privacy Policy
 
