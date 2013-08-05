@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businesstrack.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511132331id_/https%3A//www.myclientline.net/PrivacyStatement.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businesstrack.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805234226id_/https%3A//www.myclientline.net/PrivacyStatement.pdf) for the most accurate reproduction.*
 
 # ClientLine Online Reporting Tool Online Privacy Statement
 
