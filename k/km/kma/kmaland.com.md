@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kmaland.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502160629id_/http%3A//kmaland.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kmaland.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805191315id_/http%3A//www.kmaland.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | KMA Radio
 
