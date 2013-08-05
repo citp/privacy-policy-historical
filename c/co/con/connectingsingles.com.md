@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the connectingsingles.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621020854id_/http%3A//www.connectingsingles.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectingsingles.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805152056id_/http%3A//www.connectingsingles.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -8,7 +8,7 @@ ConnectingSingles.com is an online dating service that provides a pleasant, conv
 
 ##### Information Collection
 
-In order to use this website, you must be an adult at least 18 years of age (or older if the lawful age in your state, nation, or locality, is higher than 18); you must read and agree to the [Terms and Conditions of Use Agreement](https://web.archive.org/web/20130621020854id_/http%3A//www.connectingsingles.com/terms.aspx); and you must complete a registration form. When you register with ConnectingSingles.com, you are required to provide contact information (such as email address), unique identifiers (such as username and password), and demographic information (such as birth date, gender, postal code, income level, occupation, ethnicity, etc.). You also tell us something about your personal preferences and interests. You may [change your registration information](http://www.connectingsingles.com/requirelogin.aspx) by using the [Edit Profile](http://www.connectingsingles.com/requirelogin.aspx) link on your top navigation bar or by [contacting us](https://web.archive.org/web/20130621020854id_/http%3A//www.connectingsingles.com/ContactUs.aspx). You may cancel your membership at any time by using our [cancel page](http://www.connectingsingles.com/requirelogin.aspx).
+In order to use this website, you must be an adult at least 18 years of age (or older if the lawful age in your state, nation, or locality, is higher than 18); you must read and agree to the [Terms and Conditions of Use Agreement](https://web.archive.org/web/20130805152056id_/http%3A//www.connectingsingles.com/terms.aspx); and you must complete a registration form. When you register with ConnectingSingles.com, you are required to provide contact information (such as email address), unique identifiers (such as username and password), and demographic information (such as birth date, gender, postal code, income level, occupation, ethnicity, etc.). You also tell us something about your personal preferences and interests. You may [change your registration information](http://www.connectingsingles.com/requirelogin.aspx) by using the [Edit Profile](http://www.connectingsingles.com/requirelogin.aspx) link on your top navigation bar or by [contacting us](https://web.archive.org/web/20130805152056id_/http%3A//www.connectingsingles.com/ContactUs.aspx). You may cancel your membership at any time by using our [cancel page](http://www.connectingsingles.com/requirelogin.aspx).
 
 ##### Information Use
 
@@ -16,7 +16,7 @@ We use information you submit to help you create a personal profile and to help 
 
 ##### Public Information
 
-Public information you submit (such as gender, age, height, location, photo, etc.) is displayed in your profile and is meant to be viewed by the public. We monitor submissions to public areas and reserve the right to monitor private areas if we suspect violation of the [Terms and Conditions of Use Agreement](https://web.archive.org/web/20130621020854id_/http%3A//www.connectingsingles.com/terms.aspx). We reserve the right to remove, edit, delete or refuse any submission to a public or private area of the site without notice.
+Public information you submit (such as gender, age, height, location, photo, etc.) is displayed in your profile and is meant to be viewed by the public. We monitor submissions to public areas and reserve the right to monitor private areas if we suspect violation of the [Terms and Conditions of Use Agreement](https://web.archive.org/web/20130805152056id_/http%3A//www.connectingsingles.com/terms.aspx). We reserve the right to remove, edit, delete or refuse any submission to a public or private area of the site without notice.
 
 We reserve the right to post reports of scam or deception received about those who have violated the Terms and Conditions of Use Agreement or the law or misused this website or other dating services for illegal or unethical purpose or monetary gain.
 
@@ -54,13 +54,13 @@ This website may be viewed from many locations. Nonetheless, you agree that Conn
 
 ##### Legal Disclaimer
 
-ConnectingSingles.com will disclose your personal information, without notice, if required to do so by law, if necessary to protect the personal safety of users or the public, to protect and defend the rights or property of ConnectingSingles.com, or if we find that your actions on our website violate the ConnectingSingles.com [Terms and Conditions of Use Agreement](https://web.archive.org/web/20130621020854id_/http%3A//www.connectingsingles.com/terms.aspx). We are not responsible for death, personal injury, pain and suffering, loss of work or any other loss suffered by your use of this site.
+ConnectingSingles.com will disclose your personal information, without notice, if required to do so by law, if necessary to protect the personal safety of users or the public, to protect and defend the rights or property of ConnectingSingles.com, or if we find that your actions on our website violate the ConnectingSingles.com [Terms and Conditions of Use Agreement](https://web.archive.org/web/20130805152056id_/http%3A//www.connectingsingles.com/terms.aspx). We are not responsible for death, personal injury, pain and suffering, loss of work or any other loss suffered by your use of this site.
 
 ##### General
 
-By using the ConnectingSingles.com site, you agree to this Statement and the [Terms and Conditions of Use Agreement](https://web.archive.org/web/20130621020854id_/http%3A//www.connectingsingles.com/terms.aspx). We may change this Statement by posting a new version on our site. We encourage you to periodically review this Statement in order to be informed of how ConnectingSingles.com is protecting your information. You agree to sign a non-electronic version of this document upon our request.
+By using the ConnectingSingles.com site, you agree to this Statement and the [Terms and Conditions of Use Agreement](https://web.archive.org/web/20130805152056id_/http%3A//www.connectingsingles.com/terms.aspx). We may change this Statement by posting a new version on our site. We encourage you to periodically review this Statement in order to be informed of how ConnectingSingles.com is protecting your information. You agree to sign a non-electronic version of this document upon our request.
 
-If you have a privacy question about our site, please [contact us](https://web.archive.org/web/20130621020854id_/http%3A//www.connectingsingles.com/ContactUs.aspx). or write to us at:
+If you have a privacy question about our site, please [contact us](https://web.archive.org/web/20130805152056id_/http%3A//www.connectingsingles.com/ContactUs.aspx). or write to us at:
 
 ConnectingSingles.com  
 PO Box 10743  
