@@ -1,80 +1,66 @@
-> *The following text is extracted and transformed from the datapostingjobs.com privacy policy that was archived on 2009-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090511122639id_/http%3A//www.datapostingjobs.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datapostingjobs.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805170240id_/http%3A//www.datapostingjobs.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - www.online-home-jobs.com
+# Data Posting Jobs
 
- 
+**Privacy Policy :**
 
-The Internet is an amazing tool. It has the power to change the way we live, and we're starting to see that potential today. With only a few mouse-clicks, you can follow the news, look up facts, buy goods and services, and communicate with others from around the world. It's important to Online Home Jobs Inc. to help our customers retain their privacy when they take advantage of all the Internet has to offer. 
+ This Privacy Policy governs the manner in which Neon Digital Marketing collects, uses, maintains and discloses information collected from users (each, a "User") of the http://www.datapostingjobs.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Neon Digital Marketing.
 
-We believe your business is no one else's. Your privacy is important to you and to us. So we'll protect the information you share with us. To protect your privacy, Online Home Jobs Inc. follows different principles in accordance with worldwide practices for customer privacy and data protection.
+Personal identification information
 
- We won’t sell or give away our site visitors, our clients name, mail address, phone number, email address or any other information to anyone.   
- We’ll use state-of-the-art security measures to protect your information from unauthorized users. 
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-**NOTICE**
+Non-personal identification information
 
-We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. Generally, this information is requested when you create a Registration ID on the site or when you download free software, enter a contest, order email newsletters or join a limited-access premium site. We use your Personal Information for four primary purposes:
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
- To make the site easier for you to use by not having to enter information more than once.   
- To help you quickly find software, services or information.   
- To help us create content most relevant to you.   
- To alert you to product upgrades, special offers, updated information and other new services from Online Home Jobs Inc.. 
+Web browser cookies
 
-**CONSENT**
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-If you choose not to register or provide personal information, you can still use most of www.online-home-jobs.com . But you will not be able to access areas that require registration. 
+How we use collected information
 
-If you decide to register, you will be able to select the kinds of information you want to receive from us by subscribing to various services, like our electronic newsletters. If you do not want us to communicate with you about other offers regarding Online Home Jobs Inc. products, programs, events, or services by email, postal mail, or telephone, you may select the option stating that you do not wish to receive marketing messages from Online Home Jobs Inc.. 
+Neon Digital Marketing may collect and use Users personal information for the following purposes:
 
-Online Home Jobs Inc. occasionally allows other companies to offer our registered customers information about their products and services, using postal mail only. If you do not want to receive these offers, you may select the option stating that you do not wish to receive marketing materials from third parties. 
+\- To improve customer service  
+Information you provide helps us respond to your customer service requests and support needs more efficiently.  
+\- To personalize user experience  
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.  
+\- To improve our Site  
+We may use feedback you provide to improve our products and services.  
+\- To send periodic emails  
+We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
-**ACCESS**
+How we protect your information
 
-We will provide you with the means to ensure that your personal information is correct and current. You may review and update this information at any time at the Visitor Center. There, you can:
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
- View and edit personal information you have already given us.   
- Tell us whether you want us to send you marketing information, or whether you want third parties to send you their offers by postal mail.   
- Sign up for electronic newsletters about our services and products.   
- Register. Once you register, you won't need to do it again. Wherever you go on www.online-home-jobs.com, your information stays with you. 
+Sharing your personal information
 
-**SECURITY**
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
-Online Home Jobs Inc. has taken strong measures to protect the security of your personal information and to ensure that your choices for its intended use are honoured. We take strong precautions to protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. 
+Compliance with children's online privacy protection act
 
-We guarantee your e-commerce transactions to be 100% safe and secure. When you place orders or access your personal account information, you're utilizing secure server software SSL, which encrypts your personal information before it's sent over the Internet. SSL is one of the safest encryption technologies available.
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
-In addition, your transactions are guaranteed under the Fair Credit Billing Act. This Act states that your bank cannot hold you liable for more than $50.00 in fraudulent credit card charges. If your bank does hold you liable for $50.00 or less, we'll cover your liability provided the unauthorized, fraudulent use of your credit card resulted through no fault of your own and from purchases made from us over our secure server. In the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures.
+Changes to this privacy policy
 
-Online Home Jobs Inc. strictly protects the security of your personal information and honours your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. 
+Neon Digital Marketing has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-Your personal information is never shared outside the company without your permission, except under conditions explained above. Inside the company, data is stored in password-controlled servers with limited access. Your information may be stored and processed in India or any other country where Online Home Jobs Inc., its subsidiaries, affiliates or agents are located.
+Your acceptance of these terms
 
-You also have a significant role in protecting your information. No one can see or edit your personal information without knowing your user name and password, so do not share these with others.
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-**NOTICE TO PARENTS  
-**  
-Parents or guardians: we want to help you guard your children's privacy. We encourage you to talk to your children about safe and responsible use of their Personal Information while using the Internet. 
+Contacting us
 
-The Online Home Jobs Inc. site does not publish content that is targeted to children. However, if you are concerned about your children providing Online Home Jobs Inc. any personal information without your consent, Online Home Jobs Inc. offers a Kids account. It allows parents to give parental consent for the collection, use and sharing of children’s (ages 12 and under) personal information online. 
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
+Neon Digital Marketing  
+http://www.datapostingjobs.com  
+Neon Digital Marketing,  
+2/159, Taj Complex,   
+Kannandhal Main Road,  
+Iyerbanglow, Madurai - 625014  
+9047054449   
+info@datapostingjobs.com
 
-**ENFORCEMENT  
-**  
-If for some reason you believe Online Home Jobs Inc. has not adhered to these principles, please notify us by email at privacy@online-home-jobs.com, and we will do our best to determine and correct the problem promptly. Be certain the words Privacy Policy are in the Subject line.
-
-**ELECTRONIC PRODUCT REGISTRATION**
-
-When you buy and install a new product, we may ask you to register your purchase electronically. When you do, we merge your registration information with any information you've already left with us (we call that information your personal profile). If you haven't previously registered with us, we create a personal profile for you from your product registration information. If you ever want to review or update that information, you can visit the Profile Center, click on Update Profile, and edit any of the Personal Information in your profile. If you haven't already created a Registration ID, we will ask you to do so. This ensures that only you can access your information.
-
-**CUSTOMER PROFILES**
-
-As mentioned above, every registered customer has a unique personal profile. Each profile is assigned a unique personal identification number, which helps us ensure that only you can access your profile.
-
-When you register, we create your profile, assign a personal identification number, then send this personal identification number back to your hard drive in the form of a cookie, which is a very small bit of code. This code is uniquely yours. It is your passport to seamless travel across www.online-home-jobs.com, allowing you to download free software, order free newsletters, and visit premium sites without having to fill out registration forms with information you've already provided. Even if you switch computers, you won't have to re-register – just use your Registration ID to identify yourself. 
-
-**WHAT WE DO WITH THE INFORMATION YOU SHARE**
-
-When you join us, you provide us with your contact information, including your name and email address. We use this information to send you updates about your order, questionnaires to measure your satisfaction with our service and announcements about new and exciting services that we offer. When you order from us, we ask for your credit card number and billing address. We use this information only to bill you for the service(s) you order at that time. For your convenience, we do save billing information in case you want to order from us again, but we don't use this information again without your permission.
-
-We occasionally hire other companies to provide limited services on our behalf, including packaging, mailing and delivering purchases, answering customer questions about products or services, sending postal mail and processing event registration. We will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose.
-
-Online Home Jobs Inc. will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Online Home Jobs Inc. or the site; (b) protect and defend the rights or property of Online Home Jobs Inc. and its family of Websites, and, (c) act in urgent circumstances to protect the personal safety of users of Online Home Jobs Inc., its Websites, or the public.
+This Privacy Policy was last updated on June 20, 2013
