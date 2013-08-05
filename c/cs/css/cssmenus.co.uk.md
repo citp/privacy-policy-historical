@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cssmenus.co.uk privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603031151id_/http%3A//www.cssmenus.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cssmenus.co.uk privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805185955id_/http%3A//www.cssmenus.co.uk/privacy.html) for the most accurate reproduction.*
 
 # CSS Menus | Privacy Policy
 
@@ -86,8 +86,7 @@ If you would like more information about this practice and to know your choices 
 
 Contact stu{at}cssmenus.co.uk for details
 
-  * [Buy Domain Name](http://www.uk-cheapest.co.uk/domain.php)
-
+  * 
   
 
 
