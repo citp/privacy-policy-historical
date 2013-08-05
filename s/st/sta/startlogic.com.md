@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startlogic.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429171943id_/http%3A//www.startlogic.com/legal/legal_privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startlogic.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805222828id_/http%3A//www.startlogic.com/legal/legal_privacy.bml) for the most accurate reproduction.*
 
 # StartLogic's Privacy Policy
 
@@ -80,4 +80,4 @@ Please note: StartLogic reserves the right to send you email communications that
 
 
 
-This file was last modified December 10, 2012. [View comparison version.](https://web.archive.org/web/20130429171943id_/http%3A//www.startlogic.com/legal/legal_privacy.bml?showchanges=1)
+This file was last modified June 21, 2013. [View comparison version.](https://web.archive.org/web/20130805222828id_/http%3A//www.startlogic.com/legal/legal_privacy.bml?showchanges=1)
