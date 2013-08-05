@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the narrpr.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115212337id_/https%3A//www.narrpr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the narrpr.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805232704id_/https%3A//www.narrpr.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Realtors Property Resource
 
