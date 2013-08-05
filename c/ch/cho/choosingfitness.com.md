@@ -1,100 +1,65 @@
-> *The following text is extracted and transformed from the choosingfitness.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the choosingfitness.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805212845id_/http%3A//choosingfitness.com/%3Fpage_id%3D639) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy | Choosing Fitness
 
-**Go Daddy Respects Your Privacy**
+We will not share any lists of e-mail addresses or other personal information with any third party. In any such e-mail from us, we will provide a way for you to “opt out” or choose to decline to receive promotional e-mail from us. We may occasionally find a third-party offer in which we believe you might be interested and may send you information, but we will not provide your e-mail address to the third party.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+We may also offer various surveys on the site. If the survey is a news survey or about service satisfaction, we will not share that information. Certain other surveys and contests are promotional in nature, and are often sponsored by or hosted and run by our advertisers.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+In such cases, we disclose that we collect and may share the information you provide to enter the contest or complete the survey with the advertiser. Of course, you will always have the choice of whether to enter the contest or complete such a survey, and therefore you will control the decision about sharing your information.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+Note to parents and children:
 
-**Information Collection and Use**
+We fully support the intent of the Children’s Online Privacy Protection Act, which forbids the collection of personally identifiable information about children under the age of thirteen without the express written permission of their parents. We ask that children do not submit any information about themselves. Anyone using this Site or the Services warrants and promises that they are 13 years of age or older.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+Some of the content on our site, including advertising, is provided directly from web servers owned and operated by third parties, and we do not control, and cannot be held responsible for, their use of any information they may collect.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+We do not routinely disclose any of our individual reader information to third parties. We may disclose this information in special cases when we have reason to believe that doing so is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) the rights or property of Choosingfitness.com or anyone else that could be harmed by such activities. We may also disclose information to third parties when we believe in good faith that we are required by law to do so, or as otherwise provided in the Site’s Terms of Use.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+You can learn more about privacy on the Internet from the following resources: Electronic Frontier Foundation – a civil liberties organization working to protect your rights online. Electronic Privacy Information Center – established to focus public attention on emerging civil liberties issues relating to the National Information Infrastructure. Privacy Issues Page – from the Center for Democracy and Technology (CDT). Cookie Central — dedicated to provide full information upon Internet Cookies. The EPIC Cookies Page – links, news, and explanations.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+A last word on internet privacy:
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+Please keep in mind that whenever you voluntarily disclose personal information online – for example in the forums, through email, or in chat areas – that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+Ultimately, you are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you’re online.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+We use third-party advertising companies to serve ads and collect data when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site, other sites, and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see:http://www.networkadvertising.org/managing/opt_out.asp
 
-**Security**
+Choosingfitness.com comment forum rules of conduct
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+Choosingfitness.com welcomes your participation in our discussion forums. These forums offer you the chance to interact with leaders and experts in our community, along with the journalists, editors and management of Choosingfitness.com, and with other Choosingfitness.com users.
 
-**Updating Your Information**
+We ask that you post with respect for all players people in the news, journalists, fellow forum participants, etc. This is a community. So, when you post, we encourage you to tell your fellow community members a little about who you are not just a screen name or an E-mail address, but a bit of a bio. It enriches the discussion to know who behind the post.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+In order to keep these forums enjoyable and interesting for all of our users, we ask that you follow these simple rules. By participating in the discussion forums, you are consenting to these rules. Violators may be warned, suspended from posting, or banned from the forums or chats, at the sole discretion of the Choosingfitness.com staff.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+In order to keep these forums enjoyable and interesting for all of our users, we ask that you follow these simple rules. By participating in the discussion forums, you are consenting to these rules. Violators may be warned, suspended from posting, or banned from the forums or chats, at the sole discretion of the Choosingfitness.com staff.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+1\. Exercise common sense and be considerate toward your fellow users. Diversity of opinion and intelligent civil discourse is encouraged; by the same token, insults and flaming will not be tolerated. Disagreeing with an idea of another community member is different from attacking that individual.
 
-      iii.      You may call us at: (480) 505-8800
+2\. Do not post off-topic. Please keep your comments consistent with the subject and purpose of the conversation thread. Deliberate disruption such as consistent off-topic or frivolous commentary â€œ will not be tolerated such posts will be deleted. Choosingfitness.com and its moderators reserve the right to delete posts and/or whole conversations we determine are of an irrelevant, abusive or disruptive nature. This is your community. Let us or your fellow posters know if you feel things are getting off-topic or inappropriate.
 
-       iv.      You may fax us at: (480) 505-8844
+3\. No all-caps (FOR EXAMPLE, LIKE THIS) or all-bolds please. It is extremely hard to read. Posts submitted in all-caps or all-bolds will be deleted automatically.
 
-**Sending Emails**
+4\. Although we love the extra information and sources you bring to this ‘micro blog sphere’ due to copyright and space issues, please do not quote entire news articles from other sources; small excerpts and/or a link keeps things legal. Please provide a link. Cutting and pasting of outside content is limited to three sentences. Any more than three, the whole post will be deleted. Also, to keep the discussion and dialogue moving, please keep posts to a reasonable length. Excessively long posts will be deleted. If you have that much to say, talk to us about a blog piece.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+5\. You must use your real full name when posting and provide an e-mail address where we may contact you, if necessary, during the registration process. Your e-mail address will not be published on the site, except by you actively choosing to do so. You are limited to one user account on the system. Under no circumstances may you create alternate names, assume secondary identities or use someone else’s name for your name.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+6\. You alone are responsible for the material you post. You will not knowingly post content or links to content that violates the copyright, trademark, patent or other intellectual property right of any third party and that you will remove the same should you discover that you have violated this provision. Likewise, you may not post content or links to content that is libelous, defamatory, offensive, obscene, racist, abusive, that violates a third party’s right to privacy, that otherwise violates any applicable local, state, national or international law, or that is otherwise inappropriate. You will indemnify Choosingfitness.com, its employees, agents, and affiliates from any and all claims and/or damages (including but not limited to reasonable attorneys fees) resulting from any claim brought by any third party relating to content you have posted. We shall have the right, but not the obligation, to monitor the content of the forums to determine compliance with all sections of this Agreement and any other operating rules established by us. We shall have the right in our sole discretion to edit, refuse to post, remove, or otherwise alter any material submitted to or posted on the chats or forums. Without limiting the foregoing, we shall have the right to remove any material that we, in our sole discretion, find to be in violation of this agreement or inappropriate for any reason whatever without consent. Notwithstanding all of the foregoing, users remain solely responsible for the content of their messages.
 
-**Compliance with Laws and Law Enforcement**
+7\. We further reserve the right, in our sole discretion, to remove a users privilege to post content in our discussion forums. Suspended members who re-register with new accounts will have those accounts deactivated without notice. Repeated attempts will result in our contacting your ISP with a complaint.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+8\. You understand and agree that Choosingfitness.com is not responsible for any content posted by third parties. We are a distributor of content supplied by third parties and users of the chats and forums. Any opinions, advice, statements, services, offers, or other information or content expressed or made available by third parties, or any other user of the forums, are those of the respective author(s) or distributor(s) and not of us.
 
-**Third Party Service Providers**
+9\. You acknowledge and agree that you use and/or rely on any information obtained through the discussion forums at your own risk. Choosingfitness.com is not in any manner endorsing the content of the discussion groups and cannot and will not vouch for its reliability. The disclaimer of liability contained in this section applies to any damages or injury caused by any failure of performance, error, omission, interruption, deletion, defect, delay in operation or transmission, computer virus, communication line failure, theft or destruction or unauthorized access to, alteration of, or use of record, whether for breach of contract, tortuous behavior, negligence, or under any other cause of action. Each user specifically acknowledges that we are not liable for the defamatory, offensive or illegal conduct of third parties, subscribers, members or other users of the forums and that the risk of injury from the foregoing rests entirely with each user.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+10\. You understand and agree that these discussion forums are to be used only for non-commercial purposes. You may not solicit funds, promote commercial entities or otherwise engage in commercial activity in the chats or forums. You may not contact other participants privately by any means without their express prior permission.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+11\. The discussion forums are for text only. Use of graphics and audio in the forums is not appropriate. For details on submitting this kind of content, contact the Web editor.
 
-**Supplementation of Information**
+12\. For any content that you post, you hereby grant to Choosingfitness.com the royalty-free, irrevocable, perpetual, exclusive and fully sub-licensable license to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, perform and display such content in whole or in part, world-wide and to incorporate it in other works, in any form, media or technology now known or later developed.
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+13\. Commenting on student sports – no comment may identify a player by name at any time. This is to keep student from being targeted for unfair criticism. Comments may be edited or deleted.
 
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+14\. Comments to communicate off-topic messages to other users or to the Choosingfitness.com staff will be deleted.
