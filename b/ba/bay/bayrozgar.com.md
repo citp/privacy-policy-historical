@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bayrozgar.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529093405id_/http%3A//www.bayrozgar.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bayrozgar.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805174942id_/http%3A//www.bayrozgar.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
