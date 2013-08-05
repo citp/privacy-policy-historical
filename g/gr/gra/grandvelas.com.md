@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grandvelas.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517123243id_/http%3A//www.grandvelas.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grandvelas.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806004451id_/http%3A//www.grandvelas.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Velas Resorts- Mexico Luxury Resorts & Hotels
 
