@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the gamesumo.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601011713id_/http%3A//www.gamesumo.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesumo.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805234410id_/http%3A//www.gamesumo.com/page/privacy-policy) for the most accurate reproduction.*
 
 # GameSumo - Free online flash games
-
-[](https://web.archive.org/)
 
 Gamesumo.com is committed to providing an entertaining, fun and educational service. gamesumo.com is a property of gamesumo.com Limited "gamesumo.com". gamesumo.com respects the privacy concerns of visitors to gamesumo.com. gamesumo.com does not target its website or services to under 13 year olds, but does take measures to help protect those that happen to be under 13. We take measures to help children protect their privacy while online. For example, we do not ask children to disclose more personal information than is necessary for them to participate in a particular activity.
 
