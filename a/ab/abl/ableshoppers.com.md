@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ableshoppers.com privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210213553id_/http%3A//www.ableshoppers.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ableshoppers.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805232253id_/http%3A//www.ableshoppers.com/privacy.html) for the most accurate reproduction.*
 
 # NoPay Mall
 
