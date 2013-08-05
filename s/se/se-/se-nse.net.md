@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the se-nse.net privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423180509id_/http%3A//forums.se-nse.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the se-nse.net privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805212100id_/http%3A//forums.se-nse.net/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - SE-NSE Forums
 
