@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcanalysis.net privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614221242id_/http%3A//www.pcanalysis.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcanalysis.net privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805104510id_/http%3A//www.pcanalysis.net/privacy.php) for the most accurate reproduction.*
 
 # PCAnalysis.net | Privacy Policy
 
