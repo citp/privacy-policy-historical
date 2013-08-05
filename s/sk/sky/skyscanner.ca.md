@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyscanner.ca privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616062650id_/http%3A//www.skyscanner.ca/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyscanner.ca privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805215513id_/http%3A//www.skyscanner.ca/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy and cookie policy - Skyscanner Canada
 
