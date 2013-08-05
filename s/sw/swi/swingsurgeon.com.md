@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the swingsurgeon.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523171128id_/http%3A//swingsurgeon.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swingsurgeon.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805223730id_/http%3A//www.swingsurgeon.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Swing Surgeon
+
+**Last Updated: 5 August 2013**
+
+Your information is safe with SwingSurgeon.com.  We value your infomation and your privacy greatly.  We will _**never**_ sale, rent, trade, loan, or in any way give your information out (unless legally compelled).  Now for the details if you care to read them...
 
 **What information do we collect?**
 
@@ -10,7 +14,7 @@ When ordering or registering on our site, as appropriate, you may be asked to en
 
 **What do we use your information for?**
 
-Any of the information we collect from you may be used in one of the following ways: 
+Any of the information we collect from you may be used in one of the following ways:
 
   * To personalize your experience (your information helps us to better respond to your individual needs)
   * To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)
