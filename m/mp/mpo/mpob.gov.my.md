@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mpob.gov.my privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530222527id_/http%3A//www.mpob.gov.my/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mpob.gov.my privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805161415id_/http%3A//mpob.gov.my/en/privacy-policy) for the most accurate reproduction.*
 
 # The Official Portal Of Malaysian Palm Oil Board
 
