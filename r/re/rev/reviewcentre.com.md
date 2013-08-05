@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reviewcentre.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622134522id_/http%3A//www.reviewcentre.com/ct634.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviewcentre.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805215104id_/http%3A//www.reviewcentre.com/ct634.html) for the most accurate reproduction.*
 
 # Privacy Policy - Review Centre
 
