@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the realmaturesingles.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602104602id_/http%3A//realmaturesingles.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realmaturesingles.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805051655id_/http%3A//www.realmaturesingles.com/privacy.htm) for the most accurate reproduction.*
 
 # 
 
-Privacy Policy [Terms of Use](https://web.archive.org/web/20130602104602id_/http%3A//realmaturesingles.com/terms.htm)
+Privacy Policy [Terms of Use](https://web.archive.org/web/20130805051655id_/http%3A//www.realmaturesingles.com/terms.htm)
 
 ** ONLINE PRIVACY POLICY  **
 
@@ -12,7 +12,7 @@ This privacy policy (the “Privacy Policy”) outlines important information re
 
 PLEASE NOTE: OUR PRIVACY POLICY CHANGES FROM TIME TO TIME AND CHANGES ARE EFFECTIVE UPON POSTING.    We may change or supplement this Privacy Policy; we may also undergo a change of ownership.  Changes to the Privacy Policy will apply to the information collected from the date we post the revised Privacy Policy on our Website, as well as to existing information held by us.    If we decide to materially change our personal information handling policies or practices in a material way, and if we seek to collect, use or disclose personal information for purposes other than those for which consent has been obtained, we will obtain the necessary consents that might be required by law. We will also notify you by means of a notice on our Website before the material change becomes effective. If any proposed change is unacceptable to you, you may request that we close your account, as described in the **How to Contact Us section ** **** .    Your continued use of the Website, or your continued interaction with us (in correspondence and the like) after we have notified you of a material change to this Privacy Policy will be deemed an acceptance of these new terms. 
 
-This Privacy Policy applies to the Company's collection, use, storage and disclosure of information by us on (a) the Website, (b) on various third party websites, and (c) to our other information collection, including the purchase of customer lists from third parties. We are not responsible for the information collection or privacy practices of third party websites or applications. By reference, this Privacy Policy is incorporated into and is subject to the Website [Terms of Use](https://web.archive.org/web/20130602104602id_/http%3A//realmaturesingles.com/terms.htm) **** .    Your use of the Website and any personal information you provide via the Website or through other official contact with us remains subject to this Privacy Policy, as well as the Terms of Use and/or other stated policies. 
+This Privacy Policy applies to the Company's collection, use, storage and disclosure of information by us on (a) the Website, (b) on various third party websites, and (c) to our other information collection, including the purchase of customer lists from third parties. We are not responsible for the information collection or privacy practices of third party websites or applications. By reference, this Privacy Policy is incorporated into and is subject to the Website [Terms of Use](https://web.archive.org/web/20130805051655id_/http%3A//www.realmaturesingles.com/terms.htm) **** .    Your use of the Website and any personal information you provide via the Website or through other official contact with us remains subject to this Privacy Policy, as well as the Terms of Use and/or other stated policies. 
 
 This Privacy Policy applies to the information that we collect or receive from you and other individuals who use the Website, register on the Website or participate in the promotions or offers available on the Website; or with whom we communicate through email or other means.   
 
@@ -84,7 +84,7 @@ This Privacy Policy applies to the information that we collect or receive from y
 
 ·          Where the information is public; or 
 
-·          To protect the Website and our rights under our the **[Terms of Use](https://web.archive.org/web/20130602104602id_/http%3A//realmaturesingles.com/terms.htm); **
+·          To protect the Website and our rights under our the **[Terms of Use](https://web.archive.org/web/20130805051655id_/http%3A//www.realmaturesingles.com/terms.htm); **
 
 ·          To protect ourselves against liability or prevent fraudulent activity; 
 
@@ -134,7 +134,7 @@ If your complaint or dispute cannot be resolved through our internal process, or
 
 ** 9\. Additional Terms.    **
 
-9.1 This Privacy Policy is attached to, and made as part of the [Terms of Use](https://web.archive.org/web/20130602104602id_/http%3A//realmaturesingles.com/terms.htm) of the Website. As a result, the provisions relating to Governing Law, Venue, Limitation of Liability and the other provisions of the [Terms of Use](https://web.archive.org/web/20130602104602id_/http%3A//realmaturesingles.com/terms.htm) shall apply in their integrality, supplement the terms of this Privacy Policy, and are deemed to be incorporated into this Privacy Policy.    If any of the language in the [Terms of Use](https://web.archive.org/web/20130602104602id_/http%3A//realmaturesingles.com/terms.htm) should not be consistent with the language in this Privacy Policy, the language in the [Terms of Use](https://web.archive.org/web/20130602104602id_/http%3A//realmaturesingles.com/terms.htm) shall control. 
+9.1 This Privacy Policy is attached to, and made as part of the [Terms of Use](https://web.archive.org/web/20130805051655id_/http%3A//www.realmaturesingles.com/terms.htm) of the Website. As a result, the provisions relating to Governing Law, Venue, Limitation of Liability and the other provisions of the [Terms of Use](https://web.archive.org/web/20130805051655id_/http%3A//www.realmaturesingles.com/terms.htm) shall apply in their integrality, supplement the terms of this Privacy Policy, and are deemed to be incorporated into this Privacy Policy.    If any of the language in the [Terms of Use](https://web.archive.org/web/20130805051655id_/http%3A//www.realmaturesingles.com/terms.htm) should not be consistent with the language in this Privacy Policy, the language in the [Terms of Use](https://web.archive.org/web/20130805051655id_/http%3A//www.realmaturesingles.com/terms.htm) shall control. 
 
 9.2 . California User Consumer Rights. In accordance with California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with the California Department of Consumer Affairs, 400 R Street, STE 1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210; or by email to [dca@dca.ca.gov](mailto:dca@dca.ca.gov).    To exercise your rights, you may make one request each year by contacting us at  **[privacy@realmaturesingles.com](mailto:privacy@realmaturesingles.com). ** ****   Sec. 1798.83 of the California Civil Code, grants residents of the State of California the right to request from a business with whom the California resident has an established business relationship, once a year, certain information with respect to the types of personal information that the business shares with third parties for those third parties’ direct marketing purposes and the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year. To exercise your rights, you may make one request each year by contacting us as set forth in the **How to Contact Us section. **
 
@@ -142,4 +142,4 @@ If your complaint or dispute cannot be resolved through our internal process, or
 
 You may reach us by email at [privacy@realmaturesingles.com](mailto:privacy@realmaturesingles.com). 
 
-For matters related to your terms of use, please see our [Terms of Use](https://web.archive.org/web/20130602104602id_/http%3A//realmaturesingles.com/terms.htm). 
+For matters related to your terms of use, please see our [Terms of Use](https://web.archive.org/web/20130805051655id_/http%3A//www.realmaturesingles.com/terms.htm). 
