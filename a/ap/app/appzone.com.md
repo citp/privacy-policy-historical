@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appzone.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501083539id_/http%3A//appzone.com/TermsPrivacy/PrivacyPolicy/tabid/257/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appzone.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805123050id_/http%3A//www.appzone.com/TermsPrivacy/PrivacyPolicy/tabid/257/Default.aspx) for the most accurate reproduction.*
 
 # AppZone > Terms&Privacy > Privacy Policy
 
