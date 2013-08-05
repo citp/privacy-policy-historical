@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payusatax.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424085403id_/https%3A//payusatax.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payusatax.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805180021id_/https%3A//payusatax.com/privacy.aspx) for the most accurate reproduction.*
 
 # payUSAtax™ - IRS Authorized Payment Service: Privacy
 
@@ -6,7 +6,7 @@
 
 * * *
 
-[Authorized Provider](https://web.archive.org/web/20130424085403id_/https%3A//payusatax.com/authorizedprovider.aspx) | [Benefits](https://web.archive.org/web/20130424085403id_/https%3A//payusatax.com/benefits.aspx) | [Security](https://web.archive.org/web/20130424085403id_/https%3A//payusatax.com/security.aspx) | **Privacy Policy** | [Pay By Phone](https://web.archive.org/web/20130424085403id_/https%3A//payusatax.com/PayByPhone.aspx) | [In The News](https://web.archive.org/web/20130424085403id_/https%3A//payusatax.com/inthenews.aspx) payUSAtax is committed to your privacy. When we collect information from you, we want you to know how it is used. To demonstrate our commitment to fair information practices, we have adopted leading industry privacy guidelines. 
+[Authorized Provider](https://web.archive.org/web/20130805180021id_/https%3A//payusatax.com/authorizedprovider.aspx) | [Benefits](https://web.archive.org/web/20130805180021id_/https%3A//payusatax.com/benefits.aspx) | [Security](https://web.archive.org/web/20130805180021id_/https%3A//payusatax.com/security.aspx) | **Privacy Policy** | [Pay By Phone](https://web.archive.org/web/20130805180021id_/https%3A//payusatax.com/PayByPhone.aspx) | [In The News](https://web.archive.org/web/20130805180021id_/https%3A//payusatax.com/inthenews.aspx) payUSAtax is committed to your privacy. When we collect information from you, we want you to know how it is used. To demonstrate our commitment to fair information practices, we have adopted leading industry privacy guidelines. 
 
 This Privacy Policy defines privacy aspects specific to this Web site and affiliated Web servers (referred to as the "Value Payment Systems Web sites"). 
 
