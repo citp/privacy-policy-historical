@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scandinaviandesigncenter.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501194449id_/http%3A//www.scandinaviandesigncenter.com/CustomerService/SecurityPolicy/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scandinaviandesigncenter.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805164008id_/http%3A//www.scandinaviandesigncenter.com/CustomerService/SecurityPolicy/Privacy) for the most accurate reproduction.*
 
 # Security and privacy policy at scandinaviandesigncenter.com
 
@@ -29,7 +29,7 @@ SE-392 39 KALMAR
 SWEDEN
 
 E-mail: [customerservice@designonline.se](mailto:customerservice@designonline.se)  
-Tel: +46 (0) 480-449920, weekdays 12.30-15.30pm CET.
+Tel: +46 (0) 480-449920, Monday - Thursday 12.30-15.30pm CET.
 
 Thank you, for signing up to our Newsletter.  
 
