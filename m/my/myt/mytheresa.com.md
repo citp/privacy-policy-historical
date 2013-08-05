@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mytheresa.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622035053id_/http%3A//www.mytheresa.com/en-de/service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytheresa.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805115429id_/http%3A//www.mytheresa.com/en-de/service/privacy-policy) for the most accurate reproduction.*
 
-# mytheresa.com - privacy policy - Luxury Fashion for Women / Designer clothing, shoes, bags
+# Privacy policy, data protection and security - mytheresa.com
 
 **Privacy policy**
 
