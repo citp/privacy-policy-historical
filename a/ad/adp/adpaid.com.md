@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adpaid.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116130230id_/http%3A//adpaid.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adpaid.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806000151id_/http%3A//adpaid.com/privacy.php) for the most accurate reproduction.*
 
 # AdPaid.com Privacy Statement
 
@@ -22,12 +22,12 @@ AdPaid.com has security measures in place to protect against the loss, misuse an
 We do not collect online contact information without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond directly to the child's request and will not be used for other purposes without prior parental consent. We do not collect personally identifiable off-line contact information without prior parental consent. We do not distribute to third parties any personally identifiable information. We do not give the ability to publicly post or otherwise distribute personally identifiable contact information. We do not entice by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in the activity.
 
 **Choice/Opt-Out:**  
-AdPaid.com provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. AdPaid.com gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. Log in to your account and click the "User Account Info." Link. At the bottom of the page you will find the option to "Cancel Account". You may also [Contact Us](http://adpaid.com/pages/contact.php) and request your membership to be canceled at anytime. 
+AdPaid.com provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. AdPaid.com gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. Log in to your account and click the "User Account Info." Link. At the bottom of the page you will find the option to "Cancel Account". You may also [Contact Us](http://adpaid.com/contact.php) and request your membership to be canceled at anytime. 
 
 **Correct/Update:**  
-AdPaid.com gives users the following options for changing and modifying information previously provided. Members Area - login and change your personal information. Contacting the Web Site If you have any questions about this privacy statement, the practices of this site, or your dealings with AdPaid.com, you can [Contact Us](http://adpaid.com/pages/contact.php).
+AdPaid.com gives users the following options for changing and modifying information previously provided. Members Area - login and change your personal information. Contacting the Web Site If you have any questions about this privacy statement, the practices of this site, or your dealings with AdPaid.com, you can [Contact Us](http://adpaid.com/contact.php).
 
 ## **Sponsor Ads**
 
-[](http://adpaid.com/scripts/runner.php?BA=3043&hash=4f88c7877dbd024ff1f809290dd9c620&url=http%3A%2F%2Fwww.fantaz.com%3Fzbo%3DFA3B4A435F21545)  
+[](http://adpaid.com/scripts/runner.php?BA=3159&hash=6a856f6db8376db48b5749db5031fbce&url=http%3A%2F%2Fwww.greensmoke.com%2Fearn%2Fearn1.php%3Fid%3D3935%26url%3Dhttp%3A%2F%2Fwww.greensmoke.com%2Ftrivia)  
 
