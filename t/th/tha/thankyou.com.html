@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thankyou.com privacy policy that was archived on 2013-05-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130501162618id_/https%3A//www.thankyou.com/privacyStmt.jspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thankyou.com privacy policy that was archived on 2013-08-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130805163629id_/https%3A//www.thankyou.com/privacyStmt.jspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html style="display: block;"><head>
     
@@ -115,7 +115,7 @@ function submitSearchUSM() {
     var returnStatus = 1;
     
 	    
-	if (document.getElementById('category').value == "" || document.getElementById('searchTerm').value == "") {
+/* 	if (document.getElementById('category').value == "" || document.getElementById('searchTerm').value == "") {
 		if (document.getElementById('category').value == "") {
 		
 	           alert("Please select a category");
@@ -125,15 +125,17 @@ function submitSearchUSM() {
 		              returnStatus = 0;
 		              document.getElementById('searchTerm').focus();
 	              }
-	}
-    
+	} */
     if (returnStatus) {
     var usmSearchAction = 'https://rewards.thankyou.com/b2r/rewardsSubCategory.do';
     var usmAllSearchAction = 'https://rewards.thankyou.com/b2r/merchandise/allRewardsSearch.do';
     var tyTravelSearchAction =  '';
     var herfaction = '';
- 
-    if(document.getElementById('category').selectedIndex == 0 
+	
+	usmSearchAction = usmAllSearchAction + "?keyword=" + encodeURIComponent(document.getElementById('searchTerm').value);
+	herfaction = usmSearchAction;
+	
+/*     if(document.getElementById('category').selectedIndex == 0 
             || document.getElementById('category').selectedIndex == 1)
     {
     	usmSearchAction = usmAllSearchAction + "?keyword=" + document.getElementById('searchTerm').value;
@@ -163,7 +165,7 @@ function submitSearchUSM() {
     {
     	tyTravelSearchAction = tyTravelSearchAction+"/travelRewardsCategory.jspx?categoryName=Travel+%26+Experiences";
     	herfaction = tyTravelSearchAction;
-    }
+    } */
    
     window.location.href = herfaction;
     }
@@ -194,25 +196,25 @@ function submitSearchUSM() {
 	                <a class="primary-nav">Get Rewards</a>
 	                <div class="citi-sub-menu clearfix">
 	                    <ul class="citi-sub-menu-section">
-	                        <li> <h3><a href="https://rewards.thankyou.com/b2r/rewardsSubCategory.do?categoryName=allBrands" class="title-link">SHOP BY BRAND<span class="divider">|</span>See All</a></h3></li>
-	                        <li><a href="https://rewards.thankyou.com/b2r/rewardsSubCategory.do?categoryName=brandApple">Apple</a></li>
-	                        <li><a href="https://rewards.thankyou.com/b2r/rewardsSubCategory.do?categoryName=brandCanon">Canon</a></li>
-	                        <li><a href="https://rewards.thankyou.com/b2r/rewardsSubCategory.do?categoryName=brandCuisinart">Cuisinart</a></li>
-	                        <li><a href="https://rewards.thankyou.com/b2r/merchandise/browseCategory.do?browseNodeId=-1&amp;sort=1%2b1&amp;brandKeyword=&amp;categoryName=Products&amp;rangeMinPoints=&amp;rangeMaxPoints=&amp;keyword=Bose">Bose</a></li>
-	                        <li><a href="https://rewards.thankyou.com/b2r/rewardsSubCategory.do?categoryName=brandKitchenAid">KitchenAid</a></li>
-	                        <li><a href="https://rewards.thankyou.com/b2r/merchandise/browseCategory.do?browseNodeId=-1&amp;brandKeyword=Microsoft">Microsoft</a></li>
-	                        <li><a href="https://rewards.thankyou.com/b2r/merchandise/browseCategory.do?browseNodeId=-1&amp;brandKeyword=Nikon">Nikon</a></li>
-	                        <li><a href="https://rewards.thankyou.com/b2r/merchandise/browseCategory.do?browseNodeId=-1&amp;brandKeyword=Sony">Sony</a></li>
+	                        <li> <h3><a href="https://rewards.thankyou.com/b2r/rewardsSubCategory.do?categoryName=allBrands&amp;CMP=NAV&amp;LID=header|rewards|brand|see-all" class="title-link">SHOP BY BRAND<span class="divider">|</span>See All</a></h3></li>
+	                        <li><a href="https://rewards.thankyou.com/b2r/rewardsSubCategory.do?categoryName=brandApple&amp;CMP=NAV&amp;LID=header|rewards|brand|apple">Apple</a></li>
+	                        <li><a href="https://rewards.thankyou.com/b2r/rewardsSubCategory.do?categoryName=brandCanon&amp;CMP=NAV&amp;LID=header|rewards|brand|canon">Canon</a></li>
+	                        <li><a href="https://rewards.thankyou.com/b2r/rewardsSubCategory.do?categoryName=brandCuisinart&amp;CMP=NAV&amp;LID=header|rewards|brand|cuisinart">Cuisinart</a></li>
+	                        <li><a href="https://rewards.thankyou.com/b2r/rewardsSubCategory.do?categoryName=bose&amp;CMP=NAV&amp;LID=header|rewards|brand|bose">Bose</a></li>
+	                        <li><a href="https://rewards.thankyou.com/b2r/rewardsSubCategory.do?categoryName=brandKitchenAid&amp;CMP=NAV&amp;LID=header|rewards|brand|kitchenaid">KitchenAid</a></li>
+	                        <li><a href="https://rewards.thankyou.com/b2r/merchandise/browseCategory.do?browseNodeId=-1&amp;brandKeyword=Microsoft&amp;CMP=NAV&amp;LID=header|rewards|brand|microsoft">Microsoft</a></li>
+	                        <li><a href="https://rewards.thankyou.com/b2r/merchandise/browseCategory.do?browseNodeId=-1&amp;brandKeyword=Nikon&amp;CMP=NAV&amp;LID=header|rewards|brand|nikon">Nikon</a></li>
+	                        <li><a href="https://rewards.thankyou.com/b2r/merchandise/browseCategory.do?browseNodeId=-1&amp;brandKeyword=Sony&amp;CMP=NAV&amp;LID=header|rewards|brand|sony">Sony</a></li>
 	                    </ul>
 	                    <ul class="citi-sub-menu-section">
-	                        <li><h3><a href="https://rewards.thankyou.com/b2r/rewardsSubCategory.do?categoryName=allCategories" class="title-link"> SHOP BY CATEGORY<span class="divider">|</span>See All</a></h3></li>
-	                        <li><a href="https://rewards.thankyou.com/b2r/rewardsSubCategory.do?categoryName=categoryGC">Gift Cards</a></li>
-	                        <li><a href="https://rewards.thankyou.com/b2r/rewardsSubCategory.do?categoryName=categoryElectronics">Electronics</a></li>
-	                        <li><a href="https://rewards.thankyou.com/b2r/rewardsSubCategory.do?categoryName=categoryHomeGarden">Home &amp; Garden</a></li>
-	                        <li><a href="https://rewards.thankyou.com/b2r/rewardsSubCategory.do?categoryName=categoryRewardsOnSale">Rewards on Sale</a></li>
-	                        <li><a href="https://rewards.thankyou.com/b2r/rewardsSubCategory.do?categoryName=springcatalog">Spring Catalog</a></li>	                        
+	                        <li><h3><a href="https://rewards.thankyou.com/b2r/rewardsSubCategory.do?categoryName=allCategories&amp;CMP=NAV&amp;LID=header|rewards|category|see-all" class="title-link"> SHOP BY CATEGORY<span class="divider">|</span>See All</a></h3></li>
+	                        <li><a href="https://rewards.thankyou.com/b2r/rewardsSubCategory.do?categoryName=categoryGC&amp;CMP=NAV&amp;LID=header|rewards|category|gift-cards">Gift Cards</a></li>
+	                        <li><a href="https://rewards.thankyou.com/b2r/rewardsSubCategory.do?categoryName=categoryElectronics&amp;CMP=NAV&amp;LID=header|rewards|category|electronics">Electronics</a></li>
+	                        <li><a href="https://rewards.thankyou.com/b2r/rewardsSubCategory.do?categoryName=categoryHomeGarden&amp;CMP=NAV&amp;LID=header|rewards|category|home-and-garden">Home &amp; Garden</a></li>
+	                        <li><a href="https://rewards.thankyou.com/b2r/rewardsSubCategory.do?categoryName=categoryRewardsOnSale&amp;CMP=NAV&amp;LID=header|rewards|category|rewards-on-sale">Rewards on Sale</a></li>
+	                        <li><a href="https://rewards.thankyou.com/b2r/rewardsSubCategory.do?categoryName=summercatalog&amp;CMP=NAV&amp;LID=header|rewards|category|summer-catalog">Summer Catalog</a></li>	                        
 
- 						<li> <h3 class="spacer"><a href="https://rewards.thankyou.com/b2r/merchandise/shopWithPoints.do" class="title-link">Shop With Points<span class="divider">|</span>See All</a></h3></li>
+ 						<li> <h3 class="spacer"><a href="https://rewards.thankyou.com/b2r/merchandise/shopWithPoints.do?CMP=NAV&amp;LID=header|rewards|swp|see-all" class="title-link">Shop With Points<span class="divider">|</span>See All</a></h3></li>
 	                    
 						</ul>
 	                    <div class="citi-sub-menu-section last">
@@ -223,12 +225,12 @@ function submitSearchUSM() {
 	                                <p class="max-range-value"><strong>100,000+</strong> pts</p>
 	                            </div>
 	                            <ul class="clearfix">
-	                                <li><a href="https://rewards.thankyou.com/b2r/rewardsSubCategory.do?categoryName=pointsRange1" class="ir range1 pointsTip" title="">0 to 10,000+ pts</a></li>
-	                                <li><a href="https://rewards.thankyou.com/b2r/rewardsSubCategory.do?categoryName=pointsRange2" class="ir range2 pointsTip" title="">10,000 to 20,000 pts</a></li>
-	                                <li><a href="https://rewards.thankyou.com/b2r/rewardsSubCategory.do?categoryName=pointsRange3" class="ir range3 pointsTip" title="">20,000 to  40,000 pts</a></li>
-	                                <li><a href="https://rewards.thankyou.com/b2r/rewardsSubCategory.do?categoryName=pointsRange4" class="ir range4 pointsTip" title="">40,000 to  60,000 pts</a></li>
-	                                <li><a href="https://rewards.thankyou.com/b2r/rewardsSubCategory.do?categoryName=pointsRange5" class="ir range5 pointsTip" title="">60,000 to 100,000 pts</a></li>
-	                                <li><a href="https://rewards.thankyou.com/b2r/rewardsSubCategory.do?categoryName=pointsRange6" class="ir range6 pointsTip" title="">100,000+ pts</a></li>
+	                                <li><a href="https://rewards.thankyou.com/b2r/rewardsSubCategory.do?categoryName=pointsRange1&amp;CMP=NAV&amp;LID=header|rewards|points-range|0-10" class="ir range1 pointsTip" title="">0 to 10,000+ pts</a></li>
+	                                <li><a href="https://rewards.thankyou.com/b2r/rewardsSubCategory.do?categoryName=pointsRange2&amp;CMP=NAV&amp;LID=header|rewards|points-range|10-20" class="ir range2 pointsTip" title="">10,000 to 20,000 pts</a></li>
+	                                <li><a href="https://rewards.thankyou.com/b2r/rewardsSubCategory.do?categoryName=pointsRange3&amp;CMP=NAV&amp;LID=header|rewards|points-range|20-40" class="ir range3 pointsTip" title="">20,000 to  40,000 pts</a></li>
+	                                <li><a href="https://rewards.thankyou.com/b2r/rewardsSubCategory.do?categoryName=pointsRange4&amp;CMP=NAV&amp;LID=header|rewards|points-range|40-60" class="ir range4 pointsTip" title="">40,000 to  60,000 pts</a></li>
+	                                <li><a href="https://rewards.thankyou.com/b2r/rewardsSubCategory.do?categoryName=pointsRange5&amp;CMP=NAV&amp;LID=header|rewards|points-range|60-100" class="ir range5 pointsTip" title="">60,000 to 100,000 pts</a></li>
+	                                <li><a href="https://rewards.thankyou.com/b2r/rewardsSubCategory.do?categoryName=pointsRange6&amp;CMP=NAV&amp;LID=header|rewards|points-range|100-plus" class="ir range6 pointsTip" title="">100,000+ pts</a></li>
 	                            </ul>
 	
 	                        </div>
@@ -236,13 +238,12 @@ function submitSearchUSM() {
 	                         
 	                        
 	                        
-	                        <p><a href="/transferPoints.jspx" class="title-link">TRANSFER POINTS</a></p>
-	                        <p><a href="/rewardsYWFMain.jspx" class="title-link">YOUR WISH FULFILLED</a></p>
+	                        <p><a href="/transferPoints.jspx?CMP=NAV&amp;LID=header|rewards|transfer-points" class="title-link">TRANSFER POINTS</a></p>
+	                        <p><a href="/rewardsYWFMain.jspx?CMP=NAV&amp;LID=header|rewards|your-wish" class="title-link">YOUR WISH FULFILLED</a></p>
 	                    </div>
 	                    <div class="citi-sub-menu-section promo" id="featuredOffer1">
 		                     
-								<h4>Featured Offer</h4><a style="BACKGROUND-POSITION: 0px 1px" class="promo-link" href="https://tyecho.epsilon.com/WebServices/EchoEngine/T.aspx?l=C_0_23071_15222_379018951">Mother's Day gift ideas</a> <img style="PADDING-LEFT: 0px; MARGIN-LEFT: 0px" alt="Mother" src="https://www.thankyou.com/images/smart/hsr01/hsr01_WES0090001_01.jpg"> 
-<p class="title">View the Collection</p><!-- ECHO:BEGIN_IMPRESSION --><img src="https://tyecho.epsilon.com/WebServices/EchoEngine/imp_C_23071_0_379018951.jpg" border="0" width="1" height="1"><!-- ECHO:END_IMPRESSION -->
+								<h4>Featured Offer</h4><a style="PADDING-TOP: 2px" class="promo-link" href="https://tyecho.epsilon.com/WebServices/EchoEngine/T.aspx?l=C_0_23618_15467_441173764">The Home Depot<sup>®</sup> Gift Card</a> <img alt="The Home DepotÂ® Gift Card" src="https://www.thankyou.com/images/smart/hsr01/hsr01_WRC0040010_01.jpg"><!-- ECHO:BEGIN_IMPRESSION --><img src="https://tyecho.epsilon.com/WebServices/EchoEngine/imp_C_23618_0_441173764.jpg" border="0" width="1" height="1"><!-- ECHO:END_IMPRESSION -->
 							 
 	                    </div>
 	                </div>
@@ -253,27 +254,28 @@ function submitSearchUSM() {
 	                <a class="primary-nav">Book Travel</a>
 	                <div class="citi-sub-menu clearfix" style="">
 	                    <ul class="citi-sub-menu-section">
-	                        <li> <h3><a href="/travelRewardsCategory.jspx?categoryName=Travel+%26+Experiences&amp;LID=travelExperiences&amp;LPOS=tyGblHeader" class="title-link">TRAVEL CENTER</a></h3></li>
-	                        <li><a href="https://www.orxrdr.com/ReceptionGateway/Q2l0aQ/ReceptionDesk.aspx">Flights</a></li>
-	                        <li><a href="https://www.orxrdr.com/ReceptionGateway/Q2l0aQ/ReceptionDesk.aspx">Hotels</a></li>
-	                        <li><a href="https://www.orxrdr.com/ReceptionGateway/Q2l0aQ/ReceptionDesk.aspx">Cars</a></li>
-	                        <li><a href="https://www.orxrdr.com/ReceptionGateway/Q2l0aQ/ReceptionDesk.aspx">Activities</a></li>
-	                        <li><a href="https://www.orxrdr.com/ReceptionGateway/Q2l0aQ/ReceptionDesk.aspx">Cruises</a></li>
-	                        <li><a href="https://www.orxrdr.com/ReceptionGateway/Q2l0aQ/ReceptionDesk.aspx">Vacations</a></li>
+	                        <li> <h3><a href="/travelRewardsCategory.jspx?categoryName=Travel+%26+Experiences&amp;LID=travelExperiences&amp;LPOS=tyGblHeader&amp;CMP=NAV&amp;LID=header|travel|travel-center" class="title-link">TRAVEL CENTER</a></h3></li>
+	                        <li><a href="https://www.orxrdr.com/ReceptionGateway/Q2l0aQ/ReceptionDesk.aspx?page=landingpage&amp;landingpage=air&amp;CMP=NAV&amp;LID=header|travel|flights">Flights</a></li>
+	                        <li><a href="https://www.orxrdr.com/ReceptionGateway/Q2l0aQ/ReceptionDesk.aspx?page=landingpage&amp;landingpage=hotel&amp;CMP=NAV&amp;LID=header|travel|hotels">Hotels</a></li>
+	                        <li><a href="https://www.orxrdr.com/ReceptionGateway/Q2l0aQ/ReceptionDesk.aspx?page=landingpage&amp;landingpage=car&amp;CMP=NAV&amp;LID=header|travel|cars">Cars</a></li>
+	                        <li><a href="https://www.orxrdr.com/ReceptionGateway/Q2l0aQ/ReceptionDesk.aspx?page=landingpage&amp;landingpage=activity&amp;CMP=NAV&amp;LID=header|travel|activities">Activities</a></li>
+	                        <li><a href="https://www.orxrdr.com/ReceptionGateway/Q2l0aQ/ReceptionDesk.aspx?page=landingpage&amp;landingpage=cruise&amp;CMP=NAV&amp;LID=header|travel|cruises">Cruises</a></li>
+	                        <li><a href="https://www.orxrdr.com/ReceptionGateway/Q2l0aQ/ReceptionDesk.aspx?page=landingpage&amp;landingpage=deals&amp;CMP=NAV&amp;LID=header|travel|deals">Deals</a></li>
 	                    </ul>
 	                    <ul class="citi-sub-menu-section last">
-	                        <li> <h3><a href="https://rewards.thankyou.com/b2r/rewardsSubCategory.do?categoryName=allTravelCertificates" class="title-link">TRAVEL CERTIFICATES</a></h3></li>
-	                        <li><a href="https://rewards.thankyou.com/b2r/rewardsSubCategory.do?categoryName=certificatesCarRental">Car Rental Certificates</a></li>
-	                        <li><a href="https://rewards.thankyou.com/b2r/rewardsSubCategory.do?categoryName=certificatesCruise">Cruise Certificates</a></li>
-	                        <li><a href="https://rewards.thankyou.com/b2r/rewardsSubCategory.do?categoryName=certificatesLodging">Lodging Certificates</a></li>
+	                        <li> <h3><a href="https://rewards.thankyou.com/b2r/rewardsSubCategory.do?categoryName=allTravelCertificates&amp;CMP=NAV&amp;LID=header|travel|travel-certificates" class="title-link">TRAVEL CERTIFICATES</a></h3></li>
+	                        <li><a href="https://rewards.thankyou.com/b2r/rewardsSubCategory.do?categoryName=certificatesCarRental&amp;CMP=NAV&amp;LID=header|travel|car-certificates">Car Rental Certificates</a></li>
+	                        <li><a href="https://rewards.thankyou.com/b2r/rewardsSubCategory.do?categoryName=certificatesCruise&amp;CMP=NAV&amp;LID=header|travel|cruise-certificates">Cruise Certificates</a></li>
+	                        <li><a href="https://rewards.thankyou.com/b2r/rewardsSubCategory.do?categoryName=certificatesLodging&amp;CMP=NAV&amp;LID=header|travel|lodging-certificates">Lodging Certificates</a></li>
 	                    </ul>
 	
 	                    <div class="citi-sub-menu-section promo double" id="featuredOffer2">
 	                    
-							<h4>Featured Travel</h4><img alt="Free night in Orlando" src="https://www.thankyou.com/images/smart/hbt01/hbt01_WRT0040007_01.jpg"> 
-<p class="title"><strong>1 free night in Orlando</strong></p>
-<p>Get your 5th night free at Wyndham Grand Resort Bonnet Creek in Orlando, Florida when you book before May 1, 2013.</p>
-<p><a class="promo-link" href="https://tyecho.epsilon.com/WebServices/EchoEngine/T.aspx?l=C_0_22633_15145_379018951">Book Now</a></p><!-- ECHO:BEGIN_IMPRESSION --><img src="https://tyecho.epsilon.com/WebServices/EchoEngine/imp_C_22633_0_379018951.jpg" border="0" width="1" height="1"><!-- ECHO:END_IMPRESSION -->
+							<h4>Featured Travel</h4><img alt="Save 40% at the Radisson Blu Resort Marina &amp; Spa, St. Martin" src="https://www.thankyou.com/images/smart/hbt01/hbt01_WRT0030033_01.jpg"> 
+<p class="title"><strong>Save 40% at the Radisson Blu Resort Marina &amp; Spa, St. Martin</strong></p>
+<p>Use your ThankYou<sup>®</sup> Points and book through the Travel Center by March 31, 2013 to enjoy 40% savings on your stay.</p>
+<p><a class="promo-link" href="https://www.orxrdr.com/ReceptionGateway/Q2l0aQ/ReceptionDesk.aspx?cmp=ILC-WRT003&amp;MID=WRT0030033.01&amp;ZID=&amp;OID=M99999999&amp;mbr=&amp;LID=HBT01_Radisson Blu Resort">Book Now</a></p>
+
 						 
 	                </div>
 	            </div></li>
@@ -281,34 +283,35 @@ function submitSearchUSM() {
 	                <a class="primary-nav">Get Points</a>
 	                <div class="citi-sub-menu clearfix" style="">
 	                    <ul class="citi-sub-menu-section">
-	                        <li> <h3><a href="https://shopping.thankyou.com/" class="title-link">BONUS CENTER</a></h3></li>
+	                        <li> <h3><a href="https://shopping.thankyou.com/?CMP=NAV&amp;LID=header|points|bonus-center" class="title-link">BONUS CENTER</a></h3></li>
 	                        
-							<li><a href="https://shopping.thankyou.com/h____.htm">Shop Online</a></li>
-							<li><a href="https://shopping.thankyou.com/ih____.htm">Shop In-Store</a></li>
-							<li><a href="https://shopping.thankyou.com/ihiw____.htm">How Bonus Center Works</a></li>                        
+							<li><a href="https://shopping.thankyou.com/h____.htm?CMP=NAV&amp;LID=header|points|shop-online">Shop Online</a></li>
+							
+							<li><a href="https://shopping.thankyou.com/hiw____.htm?CMP=NAV&amp;LID=header|points|how-it-works">How Bonus Center Works</a></li>                        
 	                        
-	                        <li><h3 class="spacer"><a href="/getPoints.jspx" class="title-link">WAYS TO GET POINTS</a></h3></li>
-	                        <li><a href="/buyPoints.jspx">Buy Points</a></li>
-	                        <li><a href="/getPoints.jspx">Get a ThankYou<sup>® </sup>Product</a></li>
+	                        <li><h3 class="spacer"><a href="/getPoints.jspx?CMP=NAV&amp;LID=header|points|way-to-get" class="title-link">WAYS TO GET POINTS</a></h3></li>
+	                        <li><a href="/buyPoints.jspx?CMP=NAV&amp;LID=header|points|buy-points">Buy Points</a></li>
+	                        <li><a href="/getPoints.jspx?CMP=NAV&amp;LID=header|points|get-product">Get a ThankYou<sup>® </sup>Product</a></li>
 	                    </ul>
 	                    <ul class="citi-sub-menu-section last">
-	                        <li> <h3><a href="/offersPoints.jspx" class="title-link">SPECIAL OFFERS | See All</a></h3></li>
-							<li><a href="https://shopping.thankyou.com/sr____.htm?keywords=apple&amp;chan=c&amp;med=lk&amp;cont=apple&amp;source=thankyouhome&amp;dum=dum">Apple</a></li>
-							<li><a href="https://shopping.thankyou.com/sr____.htm?keywords=bestbuy&amp;chan=c&amp;med=lk&amp;cont=bestbuy&amp;source=thankyouhome&amp;dum=dum">Best Buy</a></li>
-							<li><a href="https://shopping.thankyou.com/sr____.htm?keywords=expedia&amp;chan=c&amp;med=lk&amp;cont=expedia&amp;source=thankyouhome&amp;dum=dum">Expedia</a></li>
-							<li><a href="https://shopping.thankyou.com/sr____.htm?keywords=homedepot&amp;chan=c&amp;med=lk&amp;cont=homedepot&amp;source=thankyouhome&amp;dum=dum">Home Depot</a></li>
-							<li><a href="https://shopping.thankyou.com/sr____.htm?keywords=macys&amp;chan=c&amp;med=lk&amp;cont=macys&amp;source=thankyouhome&amp;dum=dum">Macys</a></li>
-							<li><a href="https://shopping.thankyou.com/sr____.htm?keywords=sears&amp;chan=c&amp;med=lk&amp;cont=sears&amp;source=thankyouhome&amp;dum=dum">Sears</a></li>
-							<li><a href="https://shopping.thankyou.com/sr____.htm?keywords=travelocity&amp;chan=c&amp;med=lk&amp;cont=travelocity&amp;source=thankyouhome&amp;dum=dum">Travelocity</a></li>
-							<li><a href="https://shopping.thankyou.com/sr____.htm?keywords=walmart&amp;chan=c&amp;med=lk&amp;cont=walmart&amp;source=thankyouhome&amp;dum=dum">Walmart</a></li>                   
+	                        <li> <h3><a href="/offersPoints.jspx?CMP=NAV&amp;LID=header|points|special-offers|see-all" class="title-link">SPECIAL OFFERS | See All</a></h3></li>
+							<li><a href="https://shopping.thankyou.com/sr____.htm?keywords=apple&amp;chan=c&amp;med=lk&amp;cont=apple&amp;source=thankyouhome&amp;dum=dum&amp;CMP=NAV&amp;LID=header|points|apple">Apple</a></li>
+							<li><a href="https://shopping.thankyou.com/sr____.htm?keywords=bestbuy&amp;chan=c&amp;med=lk&amp;cont=bestbuy&amp;source=thankyouhome&amp;dum=dum&amp;CMP=NAV&amp;LID=header|points|best-buy">Best Buy</a></li>
+							<li><a href="https://shopping.thankyou.com/sr____.htm?keywords=expedia&amp;chan=c&amp;med=lk&amp;cont=expedia&amp;source=thankyouhome&amp;dum=dum&amp;CMP=NAV&amp;LID=header|points|expedia">Expedia</a></li>
+							<li><a href="https://shopping.thankyou.com/sr____.htm?keywords=homedepot&amp;chan=c&amp;med=lk&amp;cont=homedepot&amp;source=thankyouhome&amp;dum=dum&amp;CMP=NAV&amp;LID=header|points|home-depot">Home Depot</a></li>
+							<li><a href="https://shopping.thankyou.com/sr____.htm?keywords=macys&amp;chan=c&amp;med=lk&amp;cont=macys&amp;source=thankyouhome&amp;dum=dum&amp;CMP=NAV&amp;LID=header|points|macys">Macys</a></li>
+							<li><a href="https://shopping.thankyou.com/sr____.htm?keywords=sears&amp;chan=c&amp;med=lk&amp;cont=sears&amp;source=thankyouhome&amp;dum=dum&amp;CMP=NAV&amp;LID=header|points|sears">Sears</a></li>
+							<li><a href="https://shopping.thankyou.com/sr____.htm?keywords=travelocity&amp;chan=c&amp;med=lk&amp;cont=travelocity&amp;source=thankyouhome&amp;dum=dum&amp;CMP=NAV&amp;LID=header|points|travelocity">Travelocity</a></li>
+							<li><a href="https://shopping.thankyou.com/sr____.htm?keywords=walmart&amp;chan=c&amp;med=lk&amp;cont=walmart&amp;source=thankyouhome&amp;dum=dum&amp;CMP=NAV&amp;LID=header|points|walmart">Walmart</a></li>                   
 							 </ul>
 	
 	                    <div class="citi-sub-menu-section promo double" id="featuredOffer3">
 	                   
-							<h4>Featured Offer</h4><img alt="Shop flowers for mom" src="https://www.thankyou.com/images/smart/hgp01/hgp01_WES0090002_01.jpg"> 
-<p style="FONT-SIZE: 15px" class="title"><strong>Shop for mom <br>and earn extra points</strong></p>
-<p>Earn 10 ThankYou Points per $1 spent when you shop ProFlowers through the ThankYou Bonus Center.</p>
-<p><a class="promo-link" href="https://tyecho.epsilon.com/WebServices/EchoEngine/T.aspx?l=C_0_23070_15234_379018951">Shop ProFlowers</a></p><!-- ECHO:BEGIN_IMPRESSION --><img src="https://tyecho.epsilon.com/WebServices/EchoEngine/imp_C_23070_0_379018951.jpg" border="0" width="1" height="1"><!-- ECHO:END_IMPRESSION -->
+							<h4>Featured Offer</h4><img alt="Sephora.com" src="https://www.thankyou.com/images/smart/hgp01/hgp01_WES070024_01.jpg"> 
+<p class="title"><strong>Earn more with Sephora.com</strong></p>
+<p>Get 5 ThankYou<sup>®</sup> Points with every $1 you spend on Sephora.com's fabulous range of beauty products through the Bonus Center.</p>
+<p><a class="promo-link" href="https://shopping.thankyou.com/me____.htm?mids=1667&amp;cmp=ILC-WES007&amp;MID=WES0070024.01&amp;ZID=HPO01&amp;OID=M99999999&amp;mbr=&amp;LID=ShopNow">Shop Now</a></p>
+
 						 
 	                    </div>
 	                </div>
@@ -320,11 +323,7 @@ function submitSearchUSM() {
 	            <div id="ID-bar-container" class="solid logged-off">
 	            <div id="ID-bar">
 	
-					<div id="ID-my-account-button">
-						  <a href="/accountIndex.jspx" title="" class="myaccount">
-	                            My Account	
-	                        </a>
-					</div>
+					
 	
 	                    <div id="ID-my-account-text">
 	               		 	<p><em>Welcome to</em> ThankYou<sup>®</sup> Rewards</p>
@@ -335,14 +334,14 @@ function submitSearchUSM() {
 	                        <div id="ID-search">
 					            <div id="ID-search-form">
 		                               <input type="submit" value="" class="search">
-									<select name="category" id="category">
+									<!-- <select name="category" id="category">
 										<option value="" selected="selected">Select Category</option>
 										<option value="All">All</option>
 										<option value="Merchandise">Merchandise</option>
 										<option value="Travel &amp; Experiences">Travel &amp; Experiences</option>
 										<option value="Gift Cards/Prepaid Cards">Gift Cards/Prepaid Cards</option>
-										<option value="Cash &amp; Charity">Cash &amp; Charity</option>					
-									</select>
+										<option value="Cash &amp; Charity">Cash & Charity</option>					
+									</select> -->
 		                               <div id="ID-search-field">
 								       <input type="text" name="searchTerm" value="Search Rewards" onblur="if (this.value==''){this.value='Search Rewards'};" onfocus="if(this.value=='Search Rewards'){this.value=''};" id="searchTerm">
 		                               </div>
