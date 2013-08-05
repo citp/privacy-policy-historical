@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comeon.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115014307id_/https%3A//www.comeon.com/privacypolicyXX) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comeon.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805181035id_/https%3A//www.comeon.com/privacy-policy) for the most accurate reproduction.*
 
 # ComeOn! Privacy Policy
 
