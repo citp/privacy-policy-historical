@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ctuonline.edu privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227162818id_/http%3A//www.coloradotech.edu/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ctuonline.edu privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805162132id_/http%3A//www.coloradotech.edu/%7E/link.aspx%3F_id%3D1C2BD394E5194945B6E767E7BC584755%26_z%3Dz) for the most accurate reproduction.*
 
 # Colorado Technical University - CTU
 
@@ -35,6 +35,8 @@ We log all connections to our web servers. Those log files include your IP addre
 
 "Cookies" are small pieces of information stored in a user's browser that give that user a unique identification. The Sites may insert cookies into your browser that identify you as a previous user of the Sites and contain non-personally identifying information regarding you and your navigation of the Sites. In some instances, these cookies may be used by us or other web sites during your future navigation of the internet to target specific advertisements to you based on your previous use of the Sites. The Sites may also read cookies already stored within your browser to identify non-personal information about you and communicate this information to other advertisers. All cookies are established on a per session basis, and are not permanently stored on your machine. For more information about cookies, please visit [www.AboutCookies.org](http://www.aboutcookies.org/).
 
+U.K. website users can learn more about the AIU London site cookies [here](https://web.archive.org/uk-cookies).
+
 ### CONTACT OR REGISTRATION FORM
 
 Most information contained on the Sites is available without registering or supplying personal information. In the event you affirmatively act to register with one of the Sites or request additional information via the Sites, you agree to the following terms regarding your contact and personal information in addition to the general terms of this privacy policy tied to use of the Sites. The Sites' contact and/or registration forms request that users provide contact and other personal information (such as their name, mailing address, telephone number, e-mail address, education level, educational interests, age, income and marital status). We use this contact and personal information to send the user additional information about our schools and partners. A user's contact and personal information may also be used by us to contact the user directly. We reserve the right to compile and sell the user's contact and personal information to a third party, including the information identified above or other information the user provides to the Sites during the use of the Sites. We will also disclose your contact and personal information when required by law or in response to a request from a law enforcement agency or authority.
@@ -59,12 +61,11 @@ This privacy policy describes the types of information we currently collect, and
 
 To remove or change your contact information in our database, or to not receive future mailings or other communications, as well as for all other inquiries, please contact us at any time using one of the options below: 
 
-1\. Email webmaster at [webmaster](mailto:privacymatters@careered.com).
+1\. Email webmaster at [privacymatters@careered.com](mailto:privacymatters@careered.com).
 
 2\. Contact us at:
 
 Career Education Corporation  
-2895 Greenspoint Parkway  
-Suite 600  
-Hoffman Estates, Illinois 60195  
+231 N. Martingale Road  
+Schaumburg, IL 60173  
 Phone: 847-781-3600
