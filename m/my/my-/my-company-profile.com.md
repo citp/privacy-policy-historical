@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the my-company-profile.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601151258id_/http%3A//www.my-company-profile.com/p/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the my-company-profile.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805120858id_/http%3A//my-company-profile.com/policy.html) for the most accurate reproduction.*
 
-# Privacy Policy , Submit Company Profile Free
+# Privacy Policy :: Company Profiles
 
 This privacy statement discloses the privacy practices for My-Company-Profile.com.
 
@@ -10,15 +10,15 @@ This Privacy Policy lets you know how your personal information is processed and
 
 **Collecting Information**
 
-Every computer connected to the Internet is given a domain name and a set of numbers that serve as that computer’s “Internet Protocol” IP address. When a visitor requests a page from any Web site within the My-Company-Profile.com Network, our Web servers automatically recognize that visitor’s domain name and IP address. The domain name and IP address reveal nothing personal about you other than the IP address from which you have accessed our site. We use this information to examine our traffic in aggregate, but do not collect and evaluate this information for individuals. Our Web servers do not record e-mail addresses of the visitors.  
-**  
-Use of Cookies**
+Every computer connected to the Internet is given a domain name and a set of numbers that serve as that computer’s “Internet Protocol” IP address. When a visitor requests a page from any Web site within the My-Company-Profile.com Network, our Web servers automatically recognize that visitor’s domain name and IP address. The domain name and IP address reveal nothing personal about you other than the IP address from which you have accessed our site. We use this information to examine our traffic in aggregate, but do not collect and evaluate this information for individuals. Our Web servers do not record e-mail addresses of the visitors.
+
+**Use of Cookies**
 
 From time to time, My-Company-Profile.com or its advertisers may send a “cookie” to your computer. A cookie is a small piece of data that is sent to your browser from a web server and stored on your computer’s hard drive. A cookie can not read data off your hard disk or read cookie files created by other sites. Cookies do not damage your system. We use cookies to identify which areas of My-Company-Profile.com Network of Web pages you have visited, so the next time you visit, those pages may be readily accessible. Our advertisers may also use cookies to ascertain how many times you have seen an advertisement. We and our advertisers may use this information to better personalize the content, banners, and promotions that you see on our site.
 
-You can choose whether to accept cookies by changing the settings of your browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our site and other Web sites may be diminished and some features may not work as intended.  
-**  
-Information Request**
+You can choose whether to accept cookies by changing the settings of your browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our site and other Web sites may be diminished and some features may not work as intended.
+
+**Information Request**
 
 We may also request your e-mail address or mailing address for the purposes of conducting a survey or to provide additional services (for example, subscriptions to e-mail newsletters, announcement lists or information about seminars) Whenever we request the identity of a visitor, we will clearly indicate the purpose of the inquiry before the information is requested. We maintain a strict “No-Spam” policy, that means that we do not intend to sell, rent, or otherwise give your e-mail address to a third-party, without your consent.
 
