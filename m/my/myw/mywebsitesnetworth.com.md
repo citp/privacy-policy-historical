@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mywebsitesnetworth.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607152317id_/http%3A//mywebsitesnetworth.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mywebsitesnetworth.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805223539id_/http%3A//mywebsitesnetworth.com/privacy.html) for the most accurate reproduction.*
 
-# MyWebsitesNetworth.com - Privacy Policy
+# Privacy Policy
 
 **Privacy Policy for www.mywebsitesnetworth.com**
 
