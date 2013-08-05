@@ -1,40 +1,25 @@
-> *The following text is extracted and transformed from the games4king.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530231634id_/http%3A//www.games4king.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the games4king.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805234202id_/http%3A//www.games4king.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Play free online games on Games4king
+# Privacy Policy | Escape Games - Play treasure Games for Games4king.com.
 
-## Privacy Policy
+#### Privacy Policy
 
-This privacy policy describes how we treat personal information when you visit or use Games4king.com (also referred to as the site, the website). If you have any questions or concerns regarding this privacy policy, please do not hesitate to contact us. 
+Wondering how my information given in website is gonna to be safe? Read more….
 
-  
+This privacy policy applies to the Site and all games and services offered by **www.Games4King.com**. Our goal is clear that the information we collect is kept confidential and for internal purpose only. The personal information we gather is to improve our services, delivery and to notify u for any new games, programs and services. And, it also helps to improvise the design and content of our website, to personalize our game freaker’s experience. 
 
+**Security**
 
-### Cookies
+We have implemented appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. For registered users non personal information may be collected related to use of the website and website services and activities such as high scores, game rankings, best players, themes etc. We use cookies to enhance your online experience. The information in cookies enables us to run our affiliate programs and provides you with personalized **Games4King** advertisements on other Web sites; enables you to automatically sign in when you access our offerings; and offers other operational site activities.
 
-www.Games4king.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
+**Disclaimer**
 
-Policy Modifications We may change this Privacy Policy from time to time. If Games4king.com makes changes to this privacy statement, we will highlight the changes on our homepage and email users who have given us permission to do so. We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent. 
+All content provided on this Site, such as text, graphics, images, etc., as well as collection, arrangement and assembly of all content on this Site is exclusive property and is protected by copyright laws. Except as stated herein, no material from the Site may be copied, reproduced, republished, uploaded, posted, transmitted or distributed in any way. Any unauthorized use of any material contained in this Site is strictly prohibited.
 
-  
+**Agreement with Games4King Policies**
 
+By accessing and/or using any of the Games4King Offerings, you signify your understanding of agreement with this Privacy Policy, and to our Terms of Use. If you do not agree with our policies, please do not access or use any Games4King site. **Changes to Privacy Policy**
 
-### Links
+We may modify this Privacy Policy from time to time. When we post changes to this Privacy Policy, we will revise the "last modified" date at our homepage. You will be notified in the event of any such change and you will be offered an opportunity to opt-out. We encourage you to periodically review this Privacy Policy to be informed of how we protect your information. By using this Site, you signify your approval of this policy. After the changes posted in policy of the website, your persistent use of the site deems your acceptance of changes in privacy policy.
 
-We may present internal links or external links in a format that allows us to track statistics like the number of clicks a link gets. These statistics will only be used to help us improve the website. We are not responsible for the privacy practices or the content of websites that are being linked to from our website or newsletter. 
-
-  
-
-
-### Security
-
-We protect personal information against such risks as loss or theft, unauthorized access, disclosure, copying, use, modification or destruction, through appropriate security measures. 
-
-  
-
-
-### Contact
-
-When you contact us through e-mail, by using a contact form or any of the e-mail addresses listed on our website, you're providing us with personal information such as your name and e-mail address. Such information is used only for the purpose of assisting you with, and validating, your inquiry or submission. 
-
-  
-
+If you have any questions/ comments about privacy, about the practices of this site, feel free to contact us. 
