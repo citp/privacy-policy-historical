@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onceamonthmom.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531090721id_/http%3A//onceamonthmom.com/extras/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onceamonthmom.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805172853id_/http%3A//onceamonthmom.com/extras/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Once A Month Cooking tips from Once A Month Mom
 
