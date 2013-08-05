@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ithemesky.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509010750id_/http%3A//www.ithemesky.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ithemesky.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806002400id_/http%3A//www.ithemesky.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - iThemeSky.com
 
