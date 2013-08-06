@@ -1,78 +1,622 @@
-<!--The following is the downloaded HTML source of the apeasternpower.com privacy policy that was archived on 2013-02-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130224003216id_/http%3A//apeasternpower.com/privacypolicynew.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the apeasternpower.com privacy policy that was archived on 2013-08-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130806041753id_/https%3A//www.apeasternpower.com/EPDCL_Home.portal%3F_nfpb%3Dtrue%26_pageLabel%3DEPDCL_Home_portal_page_702) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
+
+
+<title>::APEPDCL::</title><link rel="stylesheet" type="text/css" href="/framework/skins/EPDCL_SKIN/css/body.css"><link rel="stylesheet" type="text/css" href="/framework/skins/EPDCL_SKIN/css/book.css"><link rel="stylesheet" type="text/css" href="/framework/skins/EPDCL_SKIN/css/button.css"><link rel="stylesheet" type="text/css" href="/framework/skins/EPDCL_SKIN/css/form.css"><link rel="stylesheet" type="text/css" href="/framework/skins/EPDCL_SKIN/css/layout.css"><link rel="stylesheet" type="text/css" href="/framework/skins/EPDCL_SKIN/css/portlet.css"><link rel="stylesheet" type="text/css" href="/framework/skins/EPDCL_SKIN/css/window.css"><link rel="stylesheet" type="text/css" href="/framework/skins/EPDCL_SKIN/alert/css/window-alert.css"><link rel="stylesheet" type="text/css" href="/framework/skins/EPDCL_SKIN/borderless/css/window-borderless.css"><link rel="stylesheet" type="text/css" href="/framework/skins/EPDCL_SKIN/plain/css/window-plain.css"><script src="/framework/skins/shared/js/console.js" type="text/javascript"></script><script src="/framework/skins/shared/js/cookies.js" type="text/javascript"></script><script src="/framework/skins/shared/js/state.js" type="text/javascript"></script><script src="/framework/skins/EPDCL_SKIN/js/util.js" type="text/javascript"></script><script src="/framework/skins/EPDCL_SKIN/js/skin.js" type="text/javascript"></script><script src="/framework/skins/EPDCL_SKIN/js/delete.js" type="text/javascript"></script><script src="/framework/skins/EPDCL_SKIN/js/float.js" type="text/javascript"></script><script src="/framework/skins/EPDCL_SKIN/js/menu.js" type="text/javascript"></script><script src="/framework/skins/EPDCL_SKIN/js/menufx.js" type="text/javascript"></script><script src="/framework/skins/EPDCL_SKIN/js/calender.js" type="text/javascript"></script>
+
+
+
+	</head>
+
+
+
+
+
+
+<body class="bea-portal-body" onload="initSkin();"><div class="bea-portal-body-content">
+
+
+
+
+
+
+
+
+
+    
+    <div class="bea-portal-body-header">
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+	
+
+ 
+ 
+ 
+     
+ <title>Eastern Power Distribution Company of Andhra Pradesh Limited</title>
+ 
+
+<link rel="stylesheet" type="text/css" href="/framework/NewTemplate_tcs/css/main.css">
+
+
+
+<script type="text/javascript">
+
+function go()
+{
+var uname = document.getElementById("uname1").value;
+var password = document.getElementById("pwd1").value;
+if(uname=="" )
+	{
+	alert("Enter userid");
+	document.getElementById("uname1").value="";
+	document.getElementById("uname1").focus();
+	return false;
+	}
+	else if( password=="")
+	{
+	alert("Enter Password");
+	password="";
+	document.getElementById("pwd1").focus();
+	return false;
+	}
+	else
+	{
+		document.forms[0].method="post";
+		document.forms[0].action='http://117.240.234.135:9001/epdcl/jsp/Login_frm.jsp';
+		document.forms[0].submit();
+     }
+}
+
+
+
+function validateLgn()
+{
+//alert("Ok..");
+wait.style.display="block";
+var xmlhttp=false;
+		if (!xmlhttp && typeof XMLHttpRequest!='undefined')
+		{
+			xmlhttp = new XMLHttpRequest();
+		}
+		else
+		{
+			xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+		}
+//alert(xmlhttp);
+if (xmlhttp) 
+		{ 
+
+		if(document.f1.uname1.value!="" && document.f1.pwd1.value!="")		
+		{
+			logincampaign_query = "&usrnm="+document.f1.uname1.value+"&pass="+document.f1.pwd1.value;
+			
+			xmlhttp.open('POST','egur6');
+			xmlhttp.setRequestHeader('Content-Type','application/x-www-form-urlencoded; charset=UTF-8');
+			xmlhttp.send(logincampaign_query);
+			xmlhttp.onreadystatechange = function() {
+				//alert("******************************************"+xmlhttp.readyState);
+				if (xmlhttp.readyState==4 && xmlhttp.status == 200 ) {
+//alert("******************************************"+xmlhttp.readyState);
+				//alert("response"+xmlhttp.responseText);
+				eval(xmlhttp.responseText);
+				//alert(document.f1.respval.value);
+if(document.f1.respval.value=="true") {
+	//alert("call pg");
+	callpg();
+}
+			}
+			
+		}
+		delete xmlhttp;
+		//alert("xmlhttp.onreadystatechange after :::"+xmlhttp.onreadystatechange);
+		//xmlhttp.setRequestHeader('Accept','message/x-jl-formresult');
+			
+		}
+		}
+return false;
+}
+
+function callpg()
+{
+//alert("Call redirect");
+//	var uname=document.f1.uname1.value;
+//  var pwd=document.f1.pwd1.value;
+document.f1.uname.value=document.f1.uname1.value;
+document.f1.pwd.value=document.f1.pwd1.value;
+
+document.f1.method="post";
+document.f1.action="http://10.150.1.22:9001/epdcl/jsp/prlogin.jsp";
+document.f1.submit();
+}
+
+
+
+function fnMouseOver(){
+ 	document.getElementById("logout").src ="/images/loginSuccess/Logout_btn2.png";
+ }
+ 
+ function fnMouseOut(){
+ 	document.getElementById("logout").src ="/images/loginSuccess/Logout_btn.png";
+	}
+
+function showUrl() {
+     
+     var url2 = document.location.href;
+     
+     var url7 = "https://www.apeasternpower.com/EPDCL_Home.portal";
+     var url8 = "https://www.apeasternpower.com/EPDCL_Home.portal?_nfpb=true&_pageLabel=EPDCL_Home_portal_page_429";
+     var url9 = "https://www.apeasternpower.com/";
+     var url10 = "https://www.apeasternpower.com/Logout.do";
+     var url11 = "https://www.apeasternpower.com/EPDCL_Home.portal?_nfpb=true&_pageLabel=EPDCL_Home_portal_page_429#";        
+     var url12 = "https://www.apeasternpower.com/Logout.do#";
+     var url13 = "https://www.apeasternpower.com/#";
+     
+    
+     if( (url7 == url2) || (url8 == url2)|| (url9 == url2)|| (url10 == url2)|| (url11 == url2)|| (url12 == url2)|| (url13 == url2))
+     {
+     	document.getElementById('news').style.display = 'none';
+     }
+     else
+     {
+     	document.getElementById('news').style.display = '';
+     }
+  }
+ window.onload = showUrl;
+
+</script>
+
+
+<script type="text/javascript" src="/framework/NewTemplate_tcs/js/AC_RunActiveContentNew.js"></script>
+<script language="javascript" src="/framework/NewTemplate_tcs/js/menuNew.js"></script><style type="text/css">.qm-is{border-style:none;display:block;}</style><style type="text/css">.qm-is{border-style:none;display:block;}</style>
+<link rel="stylesheet" type="text/css" href="/framework/NewTemplate_tcs/css/ddlevelsmenu-base.css">
+<link rel="stylesheet" type="text/css" href="/framework/NewTemplate_tcs/css/ddlevelsmenu-topbar.css">
+
+<script type="text/javascript" src="/framework/NewTemplate_tcs/js/ddlevelsmenuNew.js">
+
+/***********************************************
+* All Levels Navigational Menu- (c) Dynamic Drive DHTML code library (http://www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+</script>
+
+
+	<script type="text/javascript" src="/framework/NewTemplate_tcs/js/jquery_002New.js"></script>
+		<script type="text/javascript" src="/framework/NewTemplate_tcs/js/jqueryNew.js"></script>
+		<script type="text/javascript">
+	   $(document).ready(
+				function(){
+					$('#news').innerfade({
+						animationtype: 'slide',
+						speed: 750,
+						timeout: 2000,
+						type: 'random',
+						containerheight: '1em'
+					});
+					
+					$('ul#portfolio').innerfade({
+						speed: 1000,
+						timeout: 5000,
+						type: 'sequence',
+						containerheight: '220px'
+					});
+					
+					$('.fade').innerfade({
+						speed: 1000,
+						timeout: 6000,
+						type: 'random_start',
+						containerheight: '1.5em'
+					});
+					
+					$('.adi').innerfade({
+						speed: 'slow',
+						timeout: 5000,
+						type: 'random',
+						containerheight: '150px'
+					});
+
+			});
+  	</script>
+
+		<link rel="stylesheet" href="/framework/NewTemplate_tcs/css/reset.css" type="text/css" media="all">
+		<style type="text/css" media="screen, projection">
+					@import url(css/jq_fade.css);
+		</style>
+
+
+ 
+
+
+<form name="f1">
+   <table align="center" border="0" cellpadding="0" cellspacing="0" width="941px">
+	<tbody>
+		<tr>
+			<td>
+				<table border="0" cellpadding="0" cellspacing="0" width="939px">
+					<tbody>
+					<tr>
+						<td style="background-color:#c7deed;" width="110"><img src="/framework/NewTemplate_tcs/images/logo.png"></td>
+					  	<td width="632">
+							<table border="0" cellpadding="0" cellspacing="0" width="657">
+								<tbody>
+								<tr height="25px">
+									<td style="font-size:18px; color:#000080; font-weight:bold; text-decoration:underline;" align="center" width="657">Eastern Power Distribution Company of A.P. Ltd.</td>
+								</tr>
+								<tr height="20px">
+									<td style="font-size:11px; color:#333333;">(A Govt. of A.P. Enterprise &amp; An ISO 9001-2008 &amp; ISO 27001:2005 Certified Company)</td>
+								</tr>
+								<tr height="20px">
+									<td align="center">
+										<table border="0" cellpadding="0" cellspacing="0">
+											<tbody>
+											<tr>
+												<td width="77">&nbsp;</td>
+											  	<td width="463"><div style="font-size:14px; color:#c02000; font-weight:bold;">Electricity Problems Call TOLL FREE 180042555333</div></td>
+												<td width="89">&nbsp;</td>
+											</tr>
+									  		</tbody>
+									    </table>
+									</td>
+								</tr>
+								<tr>
+									<td style="font-size:12px; color:#000080; padding-left:10px;">											
+										<div id="news" style="">
+											<table width="647">
+												<tbody>
+												<tr>
+													<td width="37"><strong>NEWS:</strong></td>
+													<td width="593">
+														<marquee behavior="scroll" onmouseover="this.stop()" onmouseout="this.start()" scrollamount="3" align="left" style="color:#000080; font-size:12px;">
+														APEPDCL has been awarded National Award for E-Governance for the year 2012-13&nbsp;&nbsp;::&nbsp;&nbsp;APEPDCL has introduced "Employee Charter" to improve services for its employees
+														&nbsp;&nbsp;::&nbsp;&nbsp;Ex-gratia payment: Electrical accidents 2010-11&nbsp;&nbsp;::&nbsp;&nbsp;
+														List of Power Trades for Open Access&nbsp;&nbsp;::&nbsp;&nbsp;Integrated Service Particulars of Diploma Engineers&nbsp;&nbsp;::&nbsp;&nbsp;Baby care center for Employees Childeren&nbsp;&nbsp;::&nbsp;&nbsp;APEPDCL got Gold &amp; Bronze Shields in the category of best rural distribution franchisee&nbsp;&nbsp;::&nbsp;&nbsp;
+														APEPDCL got Silver shield in the category of Best performing Distribution Company
+														</marquee>
+													</td>
+												</tr>
+										  		</tbody>
+										    </table>
+									    </div>	
+									  </td>
+						     	</tr>
+					  			</tbody>
+					  		</table>
+					  	</td>
+					  	
+					  	
+						
+						<td style="background-color:#c7deed;" height="89" width="197">
+							<table align="center">
+								<tbody>
+								<tr>
+									<td colspan="4" style="color:#015daf; font-size:12px; font-weight:bold;">Employee Login
+									  <table>
+                                        <tbody>
+	                                        <tr>
+	                                          <td><div id="wait" style="display:none"><img src="index.jsp_files/wait16.gif"></div></td>
+	                                        </tr>
+							        	</tbody>
+							           </table>
+							        </td>
+								</tr>
+								<tr>
+									<td colspan="4"><input name="uname1" id="uname1" align="centre" height="18" type="text" width="20"></td>
+								</tr>
+								<tr>
+									<td colspan="4"><input name="pwd1" id="pwd1" align="centre" height="18" type="password" width="20"></td>
+								</tr>
+								
+					
+								<tr>
+                        			<td>
+										<table>
+										<tbody>
+											<tr>
+												<td width="39"><input value="Go" onclick="go()" type="button"></td>
+												<td style="padding-left:2px;" width="114">
+												 	<a href="http://10.150.1.22:9001/epdcl/jsp/pforgot.jsp" target="_blank"><u>Forgot Password</u> </a>
+												</td>										  
+											</tr>
+										</tbody>
+										</table>
+						 			</td>
+							   </tr>
+					  		   </tbody>
+					  		</table>
+						</td>
+						
+						
+					</tr>
+			  	</tbody>
+			  </table>
+			</td>
+		</tr>
+		
+			
+		<tr>
+			<td style="background-image:url(/framework/NewTemplate_tcs/images/linkbg.jpg); width:941px; height:39px;">
+				<table border="0" cellpadding="0" cellspacing="0" width="941">
+					<tbody>
+					<tr>
+						<td>
+
+							<div id="ddtopmenubar" class="mattblackmenu">
+								<ul>
+									<li>
+										
+										<a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_429">Home</a>
+									</li>
+									<li><a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_429" rel="ddsubmenu">Company Info<img src="ddlevelsfiles/arrow-down.gif" class="downarrowpointer" style="width: 11px; height: 7px;"></a></li>
+									<li><a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_429" rel="ddsubmenu1">Customer Services<img src="ddlevelsfiles/arrow-down.gif" class="downarrowpointer" style="width: 11px; height: 7px;"></a></li>
+									<li><a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_429" rel="ddsubmenu2">Information Center<img src="ddlevelsfiles/arrow-down.gif" class="downarrowpointer" style="width: 11px; height: 7px;"></a></li>
+									<li><a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_429" rel="ddsubmenu3">Consumer Forum<img src="ddlevelsfiles/arrow-down.gif" class="downarrowpointer" style="width: 11px; height: 7px;"></a></li>
+									<li><a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_429" rel="ddsubmenu4">Media Center<img src="ddlevelsfiles/arrow-down.gif" class="downarrowpointer" style="width: 11px; height: 7px;"></a></li>
+									<li>
+									<a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_214">Recruitment</a></li>
+									<li>
+									<a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EP_Home_portal_page_133_page_134">Sitemap</a></li>
+									<li> 
+									<a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_162_page_163">Contact</a></li>
+								</ul>
+							</div>
+
+							<script type="text/javascript">
+							ddlevelsmenu.setup("ddtopmenubar", "topbar") //ddlevelsmenu.setup("mainmenuid", "topbar|sidebar")
+							</script> 
+							 
+										
+						</td>
+					</tr>
+			  		</tbody>
+			  </table>			  
+			</td>
+		</tr>
+   </tbody>
+</table>
+
+
+	<div style="z-index: 2000; left: 0px; top: 0px; visibility: hidden;" class="ddsubmenustyle">
+	
+		
+			
+		
+	
+		
+  	
+		
+	
+		
+	</div>
+	</form>									      
+    
+
+
+
+
+
+
+
+    </div>
+
+    
+
+<span class="bea-portal-theme-borderless">
+
+
+
+
+
+
+
+    
+    <div class="bea-portal-book-primary">
+        
+        
+        <div class="bea-portal-book-primary-content">
+
+
+<span class="bea-portal-theme-borderless">
+</span>
+<span class="bea-portal-theme-borderless">
+</span>
+<span class="bea-portal-theme-borderless">
+
+
+
+
+
+
+
+    
+    <div class="bea-portal-book-invisible">
+        
+        
+        <div class="bea-portal-book-content">
+
+
+<span class="bea-portal-theme-borderless">
+</span>
+<span class="bea-portal-theme-borderless">
+</span>
+<span class="bea-portal-theme-borderless">
+</span>
+<span class="bea-portal-theme-borderless">
+</span>
+<span class="bea-portal-theme-borderless">
+</span>
+<span class="bea-portal-theme-borderless">
+</span>
+<span class="bea-portal-theme-borderless">
+</span>
+<span class="bea-portal-theme-borderless">
+</span>
+<span class="bea-portal-theme-borderless">
+</span>
+<span class="bea-portal-theme-borderless">
+</span>
+<span class="bea-portal-theme-borderless">
+</span>
+<span class="bea-portal-theme-borderless">
+</span>
+<span class="bea-portal-theme-borderless">
+</span>
+<span class="bea-portal-theme-borderless">
+</span>
+<span class="bea-portal-theme-borderless">
+
+
+
+
+
+
+
+    
+    <div class="bea-portal-book-page">
+
+
+
+
+
+
+
+
+
+    
+    <table class="bea-portal-layout-grid" cellspacing="0">
+    
+        <tbody><tr>
+    
+            
+            <td class="bea-portal-layout-placeholder-container" width="816px">
+
+<div class="bea-portal-layout-placeholder">
+
+
+
+
+
+
+
+    
+    <table class="bea-portal-layout-flow" cellspacing="0">
+        <tbody><tr>
+    
+            
+            <td class="bea-portal-layout-placeholder-container" width="100%">
+
+<div class="bea-portal-layout-placeholder">
+
+
+
+
+
+
+
+
+    
+    <div class="bea-portal-borderless-window" width="100%">
+        
+
+
+
+
+
+
+    
+    <div class="bea-portal-borderless-window-titlebar">
+        <div class="bea-portal-ie-table-buffer-div">
+            <table class="bea-portal-window-titlebar-container" cellspacing="0">
+                <tbody><tr>
+
+                    <td class="bea-portal-window-titlebar-title" nowrap="nowrap">Privacypolicy</td>
+                    <td class="bea-portal-window-titlebar-buttons" nowrap="nowrap">
+
+
+
+
+
+
+</td>
+                </tr>
+            </tbody></table>
+        </div>
+    </div>
+    
+
+
+        
+<div class="bea-portal-window-content">
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Privacy POlicy</title>
+<link href="/framework/NewTemplate_tcs/css/APDRPStyle.css" rel="stylesheet" type="text/css">
+
+
+
+<table width="100%" style="background-color:#cbefff;">
+ <tbody><tr>
+	<td width="20%" valign="top" style="background-color:#B3E7FF;">
+		<table width="95%" align="center">					
+			<tbody><tr>
+				<td>
+					
+
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>APEPDCL</title>
-<link rel="stylesheet" type="text/css" href="main.css">
+
+<link rel="stylesheet" type="text/css" href="/framework/NewTemplate_tcs/css/main.css">
+
+
+
 <!--<LINK rel="stylesheet" type="text/css" href="css/style.css"> -->
 
-<style type="text/css">
-.sidebarmenu UL {
-	BORDER-BOTTOM: white 1px solid;
-	PADDING-BOTTOM: 0px;
-	LIST-STYLE-TYPE: none;
-	MARGIN: 0px;
-	PADDING-LEFT: 0px;
-	WIDTH: 220px;
-	PADDING-RIGHT: 0px;
-	FONT: 12px;
-	font-weight:bold;
-	PADDING-TOP: 0px
-}
-.sidebarmenu UL LI {
-	POSITION: relative
-}
-.sidebarmenu UL LI A {
-	BORDER-BOTTOM: white 1px solid;
-	PADDING-BOTTOM: 4px;
-	PADDING-LEFT: 4px;
-	PADDING-RIGHT: 4px;
-	DISPLAY: block;
-	COLOR: white;
-	OVERFLOW: auto;
-	TEXT-DECORATION: none;
-	PADDING-TOP: 4px;
-}
-.sidebarmenu UL LI A:link {
-	BACKGROUND-COLOR: #0c5881;
 
-}
-.sidebarmenu UL LI A:visited {
-	BACKGROUND-COLOR: #0c5881
-	
-}
-.sidebarmenu UL LI A:active {
-	BACKGROUND-COLOR: #0c5881
-}
-.sidebarmenu UL LI A:visited {
-	COLOR: white
-}
-.sidebarmenu UL LI A:hover {
-		text-decoration:underline;
-}
-.sidebarmenu UL LI UL {
-	POSITION: absolute; WIDTH: 200px; VISIBILITY: hidden; TOP: 0px
-}
-.sidebarmenu A.subfolderstyle {
-	BACKGROUND: url(../right.gif) no-repeat 97% 50%
-}
-* HTML .sidebarmenu UL LI {
-	FLOAT: left; HEIGHT: 1%
-}
-* HTML .sidebarmenu UL LI A {
-	HEIGHT: 1%
-}
-</style>
+
 
 <script type="text/javascript">
 
 //Nested Side Bar Menu (Mar 20th, 09)
 //By Dynamic Drive: http://www.dynamicdrive.com/style/
 
-var menuids=["sidebarmenu1"] //Enter id(s) of each Side Bar Menu's main UL, separated by commas
+var menuids=["sidebarmenuInclude"] //Enter id(s) of each Side Bar Menu's main UL, separated by commas
 
-function initsidebarmenu(){
+function initsidebarmenuInclude(){
 for (var i=0; i<menuids.length; i++){
   var ultags=document.getElementById(menuids[i]).getElementsByTagName("ul")
     for (var t=0; t<ultags.length; t++){
@@ -96,20 +640,26 @@ for (var i=0; i<menuids.length; i++){
 }
 
 if (window.addEventListener)
-window.addEventListener("load", initsidebarmenu, false)
+window.addEventListener("load", initsidebarmenuInclude, false)
 else if (window.attachEvent)
-window.attachEvent("onload", initsidebarmenu)
+window.attachEvent("onload", initsidebarmenuInclude)
+
+
+
 
 </script>
 
 
 
-<script type="text/javascript" src="js/AC_RunActiveContent.js"></script>
-<script language="javascript" src="js/menu.js"></script><style type="text/css">.qm-is{border-style:none;display:block;}</style>
-<link rel="stylesheet" type="text/css" href="ddlevelsfiles/ddlevelsmenu-base.css">
-<link rel="stylesheet" type="text/css" href="ddlevelsfiles/ddlevelsmenu-topbar.css">
 
-<script type="text/javascript" src="ddlevelsfiles/ddlevelsmenu.js">
+
+
+  <script type="text/javascript" src="/framework/NewTemplate_tcs/js/AC_RunActiveContent.js"></script>
+<script language="javascript" src="/framework/NewTemplate_tcs/js/menu.js"></script><style type="text/css">.qm-is{border-style:none;display:block;}</style><style type="text/css">.qm-is{border-style:none;display:block;}</style>
+<link rel="stylesheet" type="text/css" href="/framework/NewTemplate_tcs/css/ddlevelsmenu-base.css">
+<link rel="stylesheet" type="text/css" href="/framework/NewTemplate_tcs/css/ddlevelsmenu-topbar.css">
+
+<script type="text/javascript" src="/framework/NewTemplate_tcs/js/ddlevelsmenu.js">
 
 /***********************************************
 * All Levels Navigational Menu- (c) Dynamic Drive DHTML code library (http://www.dynamicdrive.com)
@@ -120,489 +670,690 @@ window.attachEvent("onload", initsidebarmenu)
 </script>
 
 
-<script type="text/javascript" src="javascript/jquery.js"></script>
 
-<script type="text/javascript" src="javascript/jquery.innerfade.js"></script>
 
+<table>
+<tbody><tr>
+<td width="40px" align="left" valign="top" style="padding:2px;">
 	
-	<script src="js/jquery.min.js"></script>
-	<script src="js/slides.min.jquery.js"></script>
-	<script>
-		$(function(){
-			$('#slides').slides({
-				preload: true,
-				preloadImage: 'img/loading.gif',
-				play: 2500,
-				pause: 1250,
-				hoverPause: true,
-				animationStart: function(current){
-					$('.caption').animate({
-						bottom:-35
-					},100);
-					if (window.console && console.log) {
-						// example return of current slide number
-						console.log('animationStart on slide: ', current);
-					};
-				},
-				animationComplete: function(current){
-					$('.caption').animate({
-						bottom:0
-					},200);
-					if (window.console && console.log) {
-						// example return of current slide number
-						console.log('animationComplete on slide: ', current);
-					};
-				},
-				slidesLoaded: function() {
-					$('.caption').animate({
-						bottom:0
-					},200);
-				}
-			});
-		});
-	</script>
-</head>
-<body>
-	<table width="980" border="0" align="center" cellpadding="0" cellspacing="0">
+	<div class="sidebarmenu">
+         <ul id="sidebarmenuInclude">
+           <li><a class=" subfolderstyle subfolderstyle" href="#">Tenders &amp; Business Opportunities</a>
+               <ul style="left: 210px; visibility: visible; display: none;">
+                   <li>
+                   	
+                   	<a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_206">Tenders</a>
+                   </li>
+                   <li>
+                   	
+                   	<a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_115">Allotted Tenders</a>
+                   </li>
+                   <li>
+                   	
+                   	<a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_107">Archived Tenders</a>
+                   </li>
+                   <li><a href="http://www.eprocurement.gov.in/" target="_blank">EProcurement</a> </li>
+                   <li>
+                   	
+                   	<a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_255">Vendor Registration</a>
+                   </li>
+                   <li>
+                   	
+                   	<a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_110_page_111">List of Vendors</a>
+                   </li>
+                   <li>
+                   	
+                   	<a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_111_page_112">List of Contractors</a>
+                   </li>
+                   <li>
+                   	
+                   	<a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_112">Blacklisted Firms</a>
+                   </li>
+                   <li>
+                   	
+                   	<a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_109">Procedure : Contract Registration</a>
+                   </li>
+                   <li>
+                   	
+                   	<a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_110">Suppliers Information</a>
+                   </li>
+               </ul>
+           </li>
+           <li><a class=" subfolderstyle subfolderstyle" href="https://www.apeasternpower.com/index.jsp#">Employees Related</a>
+               <ul style="left: 210px; visibility: visible; display: none;">
+	               <li>
+                   	   	<a href="http://117.240.234.135:9001/epdcl/customercare/eoomain.jsp">EOO's</a>
+                   </li>
+                   <li>
+                   	
+                   	<a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_100_page_101">Memo's &amp; Circulars</a>
+                   </li>
+                   <li>
+                   	
+                   	<a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_101">Grading of Operation Sections</a>
+                   </li>
+                   <li>
+                   	
+                   	<a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_102">Employees charter</a>
+                   </li>
+                   <li>                                      	
+                   	<a href="http://dcproxy.apdiscoms.in/epdcl" target="_blank">RAPDRP Login</a>
+                   </li>
+                   <li>
+                   	
+                   	<a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_225">...More</a>
+                   </li>
+               </ul>
+           </li>
+           <li><a class="subfolderstyle subfolderstyle" href="#">Intranet Links</a>
+               <ul style="left: 210px; visibility: visible; display: none;">
+               <!-- Commented as per Client Request -->
+                 <!-- <li><a href="http://mail.apeasternpower.com/" target="_blank">APEPDCL Old Mail</a> -->
+                 <li><a class="subfolderstyle subfolderstyle" href="http://webmail.apeasternpower.com/" target="_blank">New Mail</a>
+                     <ul style="right: 1000px; visibility: visible; display: none; left: 160px;">
+                       <li><a href="/framework/skins/EPDCL_SKIN/images/pdf/Using APDRP webmail.pdf" target="_blank">Guidelines</a></li>
+                       <li><a href="/framework/skins/EPDCL_SKIN/images/pdf/Sending Mail in Lotus notes.pdf" target="_blank">Sending Mail in Lotus notes</a></li>
+                     </ul>
+                 
+                 </li>
+                 <li><a href="http://117.240.234.132/instaxx" target="_blank">Send SMS</a>
+                     <!--<li><a href="http://117.240.234.135:9001/epdcl/jsp/thinkandthan_login.jsp" target="_blank" >Think Tank</a></li>-->
+                 </li>
+                 <li><a class="cclink" href="http://117.240.234.137/iamrepdcl/">IAMR Login</a> </li>
+                 <li><a href="http://117.240.234.135/AmcComplaints/amc_login.jsp" target="_blank">CORP AMC-COMPLAINTS</a></li>
+                 <li><a href="http://59.90.98.187:8180/" target="_blank">Mini Scada</a></li>
+               </ul>
+           </li>
+           <li><a class=" subfolderstyle subfolderstyle" href="https://www.apeasternpower.com/index.jsp#">Quick Links</a>
+               <ul style="left: 210px; visibility: visible; display: none;">
+	               <li>
+                   	
+                   	<a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_242">Downloads</a>
+                   </li>
+                   <li>
+                   	
+                   	<a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_234">Projects</a></li>
+                   <li>
+                   	<a target="_blank" href="http://nrega.ap.gov.in/IJP/Redirect.jsp?link=transco">Energisation Status Report under CLDP/IJP </a></li>
+                   <li>
+                   	<a target="_blank" href="/framework/skins/EPDCL_SKIN/Pdfs/hotlinks/Purchase%20of%20power%20from%20State%20Generators.pdf">Purchase of power from State Generators</a>
+                   </li>
+                   <li><a target="_blank" href="/framework/skins/EPDCL_SKIN/Pdfs/hotlinks/Power supply position as on date-13.05.pdf">Power Supply Position</a> </li>
+                   <li>
+                   	
+                   	<a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_523">Consumer's Rights</a>
+                   </li>
+               </ul>
+           </li>
+           <li>
+           	
+           	<a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_186">FAQ's</a>
+           </li>
+
+           <li><a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_156_page_157">Feedback</a></li>
+         </ul>
+     </div>
+	
+	
+</td></tr>
+</tbody></table>
+
+
+				</td>
+			</tr>
+		</tbody></table>
+	</td>
+	<td width="80%">			
+	
+		<table width="95%" align="center" class="innertextNew">
+		
+			<tbody><tr><td>&nbsp;</td></tr> 
+			<tr height="20px">
+				<td align="left" style="background-image: url('/images/loginSuccess/PageTitle_bg.png'); background-repeat: no-repeat; background-position: left;" valign="middle"><b><font style="text-align: justify" color="#ffffff">&nbsp;&nbsp;Privacy Policy</font></b></td>
+			
+			</tr>
+			<tr><td>&nbsp;</td></tr>
+		</tbody></table>
+ 		
+ 		
+ 		
+		
+		
+		
+		<font style="text-align: justify;" class="innertextNew"><p></p>
+<p style="WIDOWS: 0; ORPHANS: 0; MARGIN-BOTTOM: 0in" align="justify"><font color="#333333"><font size="2"><b>Privacy Policy</b></font></font></p>
+<p style="WIDOWS: 0; ORPHANS: 0; MARGIN-BOTTOM: 0in" align="justify"><font color="#333333"><font size="2">We at EPDCL respect the privacy of everyone who visits this website and are committed to maintain the privacy and security of the personal information of all visitors to this website but does not promise or guarantee the same. Our policy on the collection and use of personal information and other information is outlined below.</font></font></p>
+<p style="WIDOWS: 0; ORPHANS: 0; MARGIN-BOTTOM: 0in" align="justify"><font color="#333333"><font size="2"><b><br>Personal Information :</b></font></font></p>
+<p style="WIDOWS: 0; ORPHANS: 0; MARGIN-BOTTOM: 0in" align="justify"><font color="#333333"><font size="2">We do not require personal information to obtain access to most of our website. We collect personal information from our visitors on a voluntary basis. Personal information may include name, title, company, address, phone number, email address, and other relevant data. Questions or comments submitted by visitors may also include in personal information. We collect and use personal information for business purposes in order <br></font></font></p>
+<li>
+<p style="WIDOWS: 0; ORPHANS: 0; MARGIN-BOTTOM: 0in" align="justify"><font color="#333333"><font size="2">To provide tender downloads, information, grievance, etc and take advantage of certain other features of our website.</font></font></p></li>
+<li>
+<p style="WIDOWS: 0; ORPHANS: 0; MARGIN-BOTTOM: 0in" align="justify"><font color="#333333"><font size="2">To provide information or interactive services through this website, to your e-mail address </font></font></p></li>
+<li>
+<p style="WIDOWS: 0; ORPHANS: 0; MARGIN-BOTTOM: 0in" align="justify"><font color="#333333"><font size="2">To seek your feedback or to contact you in relation to those services offered on our website.</font></font></p></li>
+<li>
+<p style="WIDOWS: 0; ORPHANS: 0; MARGIN-BOTTOM: 0in" align="justify"><font color="#333333"><font size="2">To process and respond to requests, improve our operations, and communicate with visitors about our services.</font></font></p></li>
+<li>
+<p style="WIDOWS: 0; ORPHANS: 0; MARGIN-BOTTOM: 0in" align="justify"><font color="#333333"><font size="2">To allow you to access certain contents of our website.</font></font></p></li>
+<p style="WIDOWS: 0; TEXT-INDENT: -0.5in; ORPHANS: 0; MARGIN-BOTTOM: 0in; MARGIN-LEFT: 0.5in" align="justify"><font color="#333333"></font></p>
+<p style="WIDOWS: 0; ORPHANS: 0; MARGIN-BOTTOM: 0in" align="justify"><font color="#333333"><font size="2"><br>We will not use or share, either within EPDCL or with a third party, any information collected at this page for direct marketing purposes. </font></font></p>
+<p style="WIDOWS: 0; ORPHANS: 0; MARGIN-BOTTOM: 0in" align="justify"><font color="#333333"><font size="2"><br>To the extent required or permitted by law, we may also collect, use and disclose personal information in connection with security related or law enforcement investigations or in the course of cooperating with authorities or complying with legal requirements.</font></font></p>
+<p style="WIDOWS: 0; ORPHANS: 0; MARGIN-BOTTOM: 0in" align="justify"><font color="#333333"><font size="2"><b><br>Non personal information : </b></font></font></p>
+<p style="WIDOWS: 0; ORPHANS: 0; MARGIN-BOTTOM: 0in" align="justify"><font color="#333333"><font size="2">At this web site, information sent by your web browser, may be automatically collected. This information typically includes your domain name . It may also contain your user name . Other examples of information may be collected by our server include the Internet protocol (IP) address used to connect the visitor's computer to the Internet, operating system and platform, the average time spent on our website, pages viewed, information searched for, access times, websites visited before and a visitor visits our website, and other relevant statistics. </font></font></p>
+<p style="WIDOWS: 0; ORPHANS: 0; MARGIN-BOTTOM: 0in" align="justify"><font color="#333333"><font size="2"><br>We use the information we automatically receive from your web browser to see which pages you visit within our website, which website you visited before coming to ours, and where you go after you leave. We at EPDCL develop statistics that are helpful to understand how our visitors can use this website. We use this information in the aggregate to measure the use of our website and to administer and improve our website. </font></font></p>
+<p style="WIDOWS: 0; ORPHANS: 0; MARGIN-BOTTOM: 0in" align="justify"><font color="#333333"><font size="2"><b><br>Information placed on your computer</b></font></font></p>
+<p style="WIDOWS: 0; ORPHANS: 0; MARGIN-BOTTOM: 0in" align="justify"><font color="#333333"><font size="2">We may store some information such as cookies on your computer when you look at our website. Cookies are pieces of information that a website transfers to the hard drive of a visitor's computer for record-keeping purposes. This information facilitates your use of our website and ensures that you do not need to re-enter your details every time you visit it. You can erase or choose to block this information from your computer if you want to. Erasing or blocking such information may limit the range of features available to the visitor on our website. </font></font></p>
+<p style="WIDOWS: 0; ORPHANS: 0; MARGIN-BOTTOM: 0in" align="justify"><font color="#333333"><font size="2"><b><br>Security</b></font></font></p>
+<p style="WIDOWS: 0; ORPHANS: 0; MARGIN-BOTTOM: 0in" align="justify"><font color="#333333"><font size="2">We have implemented technology and policies, with the objective of protecting your privacy from unauthorized access and improper use but does not promise or guarantee the same. SPDCL does not make any warranty that the contents of the Site are free from infection by viruses or anything else which has contaminating or destructive properties.</font></font></p>
+<p style="LINE-HEIGHT: 0.31in; WIDOWS: 0; ORPHANS: 0; MARGIN-BOTTOM: 0in"><font color="#333333"><font size="2"><b><br>Service Providers</b></font></font></p>
+<p style="WIDOWS: 0; ORPHANS: 0; MARGIN-BOTTOM: 0in" align="justify"><font color="#333333"><font size="2">We give your information to the people and companies that help us provide the services we offer. For example, we may use outside vendors to help host our website, serve photos and videos, process payments, or provide search results. In some cases we provide the service jointly with another, such as the APonline. In all of these cases our partners must agree to only use your information consistent with the agreement we enter into with them, as well as this privacy policy.</font></font></p>
+<p style="WIDOWS: 0; ORPHANS: 0; MARGIN-BOTTOM: 0in" align="justify"><font color="#333333"><font size="2"><b><br>Third Parties</b></font></font></p>
+<p style="WIDOWS: 0; ORPHANS: 0; MARGIN-BOTTOM: 0in" align="justify"><font color="#333333"><font size="2">For your convenience, this page may contain certain hyperlinks to other DISCOMS pages as well as to websites outside EPDCL such as APGENCO,APTRANSCO etc. We are not responsible for the privacy policies and practices of other websites, even if you access those using links from our website. We can make no promises or guarantees regarding data collection on the hyper-linked pages and on websites that are not owned by EPDCL. We recommend that you check the policy of each website you visit, or link from, and contact the owners or operators of such websites if you have any concerns or questions.</font></font></p>
+<p style="WIDOWS: 0; ORPHANS: 0; MARGIN-BOTTOM: 0in" align="justify"><font color="#333333"><font size="2"><b><br>Contacting Us</b></font></font></p>
+<p style="WIDOWS: 0; ORPHANS: 0; MARGIN-BOTTOM: 0in" align="justify"><font color="#333333"><font size="2">We aim to keep our information about you as accurate as possible. If you would like to review or change the details you have supplied us with, please contact us. If you wish to change or delete any of the personal information you have entered whilst visiting our website or if you have any questions about our privacy statement. Privacy policy is subject to change at the discretion of EPDCL.</font></font></p>
+		</font><table width="90%" align="center" class="innertextNew">
+		</table><font style="text-align: justify;" class="innertextNew">
+		
+		
+		
+
+	<table>
+
 		<tbody><tr>
-			<td>
-				<table width="886" border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-						<td width="110"><img src="images/logo.png"></td>
-						<td width="775">
-							<table width="731" border="0" cellpadding="0" cellspacing="0">
-								<tbody><tr>
-									<td width="731" align="center" style="font-size:25px; color:#000080; font-weight:bold">Eastern Power Distribution Company of A.P. Ltd.</td>
-								</tr>
-								<tr>
-									<td style="font-sze:6px; color:#333333;">(A Govt. of A.P. Enterprise &amp; An ISO 9001-2008 &amp; ISO 27001:2005 Certified Company)</td>
-								</tr>
-								<tr>
-									<td align="center" style="font-size:18px; color:#c02000; font-weight:bold;">Electricity Problems Call TOLL FREE 180042555333</td>
-								</tr>
-								<tr>
-									<td style="font-size:12px; color:#000080; padding-left:10px;">
-											
-											<table>
-												<tbody><tr>
-													<td width="38"><strong>NEWS:</strong></td>
-													<td width="626"><marquee behavior="scroll" scrollamount="3" align="left" style="color:#000080; font-size:13px;">APEPDCL has introduced "Employee Charter" to improve services for its employees
-&nbsp;&nbsp;::&nbsp;&nbsp;Ex-gratia payment: Electrical accidents 2010-11&nbsp;&nbsp;::&nbsp;&nbsp;
-List of Power Trades for Open Access&nbsp;&nbsp;::&nbsp;&nbsp;Integrated Service Particulars of Diploma Engineers&nbsp;&nbsp;::&nbsp;&nbsp;Baby care center for Employees Childeren&nbsp;&nbsp;::&nbsp;&nbsp;APEPDCL got Gold &amp; Bronz Shields in the category of best rural distribution franchisee&nbsp;&nbsp;::&nbsp;&nbsp;
-APEPDCL got Silver shield in the category of Best performing Distribution Company</marquee></td>
-												</tr>
-											</tbody></table>								</td>
-								</tr>
-					  </tbody></table>
-					  </td>
-						<td height="89" width="1">
-							<!--<table>
-								<tr>
-									<td width="116" style="color:#015daf; font-size:12px; font-weight:bold;">Employee Login</td>
-								</tr>
-								<tr>
-									<td><img src="images/userid.png" /></td>
-								</tr>
-								<tr>
-									<td><img src="images/password.png" /></td>
-								</tr>
-								<tr>
-									<td align="right" style="color:#015daf; font-size:12px; font-weight:bold;">Login</td>
-								</tr>
-							</table> style="background-color:#c7deed;" -->					  </td>
-					</tr>
-			  </tbody></table>
-			</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-image:url(images/linkbg.jpg); width:941px; height:39px;" width="1020">
-				<table width="941" border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-						<td>
-
-							<div id="ddtopmenubar" class="mattblackmenu">
-								<ul>
-									<li><a href="index.jsp">Home</a></li>
-									<li><a href="aboutusnew.html">About Us</a> </li>
-									<li><a href="#" rel="ddsubmenu1">Customer Services<img src="ddlevelsfiles/arrow-down.gif" class="downarrowpointer" style="width: 11px; height: 7px;"></a></li>
-									<li><a href="#" rel="ddsubmenu2">Information Center<img src="ddlevelsfiles/arrow-down.gif" class="downarrowpointer" style="width: 11px; height: 7px;"></a></li>
-									<li><a href="#" rel="ddsubmenu3">Consumer Forum<img src="ddlevelsfiles/arrow-down.gif" class="downarrowpointer" style="width: 11px; height: 7px;"></a></li>
-									<li><a href="#" rel="ddsubmenu4">Media Center<img src="ddlevelsfiles/arrow-down.gif" class="downarrowpointer" style="width: 11px; height: 7px;"></a></li>
-									<li><a href="careersnew.html">Recruitment</a></li>
-									<li><a href="sitemapnew.html">Sitemap</a></li>
-									<li><a href="contactusnew.jsp">Contact</a></li>
-								</ul>
-							</div>
-
-							<script type="text/javascript">
-							ddlevelsmenu.setup("ddtopmenubar", "topbar") //ddlevelsmenu.setup("mainmenuid", "topbar|sidebar")
-							</script>
-
-									
+			<td>&nbsp;</td>
+		</tr>
+	</tbody></table>
+    </font></td>
+  </tr>
+</tbody></table>     
 
 
-							<!--Top Drop Down Menu 2 HTML-->
+
+
+
+
+
+
+
+</div>
+        
+    </div>
+    
+
+
+
+</div>
+</td>
+            
+    
+        </tr>
+    </tbody></table>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+</td>
+            
+    
+        </tr>
+    
+    </tbody></table>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+</span>
+<span class="bea-portal-theme-borderless">
+</span>
+
+
+
+
+
+
+
+        </div>
+        
+    </div>
+    
+
+</span>
+<span class="bea-portal-theme-borderless">
+</span>
+<span class="bea-portal-theme-borderless">
+</span>
+<span class="bea-portal-theme-borderless">
+</span>
+<span class="bea-portal-theme-borderless">
+</span>
+<span class="bea-portal-theme-borderless">
+</span>
+
+
+
+
+
+
+
+        </div>
+        
+    </div>
+    
+
+</span>
+
+
+
+
+
+
+
+    
+    <div class="bea-portal-body-footer">
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <link href="/framework/NewTemplate_tcs/css/APDRPStyle.css" rel="stylesheet" type="text/css">
+  
+  	         
+       	<table align="center" border="0" cellpadding="0" cellspacing="0">
+			<tbody>
+				<tr>
+					<td align="center" width="928">
+						
+						<a class="bl-lnk" href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_429">Home</a> | 
+						
+						
+						<a class="bl-lnk" href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_214">Careers</a> | 
+						
+						
+						<a class="bl-lnk" href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_162_page_163">Contact</a> | 
+						
+						
+						<a class="bl-lnk" href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_156_page_157">Feedback</a> | 
+						
+						
+						<a class="bl-lnk" href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EP_Home_portal_page_133_page_134">Sitemap</a> | 
+						
+						
+						<a class="bl-lnk" href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_702">Privacy Policy</a>
+					</td>
+				</tr>
+				<tr>
+					<td style="color:#4187c4;" align="center">
+                       	<table border="0" cellpadding="0" cellspacing="0">
+                            <tbody>
+                            	<tr height="30px">
+                                	<td width="410px">© 2008 Eastern Power Distribution Company of Andhra Pradesh Limited.</td>
+                                    <td width="160"></td>
+                                    <td width="340">Developed by <img src="/framework/NewTemplate_tcs/images/TCS-Logo.gif" width="185" height="11" alt="TATA Consultancy Services logo"></td>
+                                </tr>
+                      		</tbody>
+                     		</table>
+                     	</td>
+				</tr>
+	  		</tbody>
+	 	</table>
+    
+    
+    
+
+
+
+
+
+
+
+    </div>
+    
+
+
+
+
+
+
+        </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ddsubmenustyle" style="z-index: 2000; left: 0px; top: 0px; visibility: hidden;"><ul style="visibility: hidden;" id="ddsubmenu">
+			 
+		     <li><a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_156_page_157_page_158">About Us </a></li>
+			 <li><a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_136">Vision</a></li>
+			 
+			 <li><a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_141">Organizational Structure</a> </li>
+			 <li><a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_135">Achievements</a> </li>
+			 <li><a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_116">Annual Reports</a> </li>
+		</ul></div><div class="ddsubmenustyle" style="z-index: 2000; left: 0px; top: 0px; visibility: hidden;"><ul style="visibility: hidden;" id="ddsubmenu1">
+			
+			<li>
+				
+				<a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_95">Citizen Charter</a>
+			</li>		  
+		  
+		  	<li><a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_429"><img src="ddlevelsfiles/arrow-right.gif" class="rightarrowpointer" style="width: 12px; height: 12px; left: 206px;"><img class="rightarrowpointer" style="width: 12px; height: 12px; left: 206px;" src="index.jsp_files/arrow-right.htm">Accounts</a>  									 			
+			
+		  <div style="left: 0px; top: 0px; visibility: hidden;"><ul style="visibility: hidden;">
+			
+				<li><a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_58">My Accounts</a></li>
+			  
+			 
+				<li><a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_58">Manage Accounts</a></li>
+			    
+			 
+				<li><a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_58">Add Service Number</a></li>
+			  
+			 
+				<li><a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_58">Delete Service Number</a></li>
+			    
+			</ul></div></li>
+		  <li><a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_429"><img src="ddlevelsfiles/arrow-right.gif" class="rightarrowpointer" style="width: 12px; height: 12px; left: 206px;"><img class="rightarrowpointer" style="width: 12px; height: 12px; left: 206px;" src="index.jsp_files/arrow-right.htm">Complaints</a>  									 			
+			
+		  <div style="left: 0px; top: 0px; visibility: hidden;"><ul style="visibility: hidden;">
+			     
+				<li><a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_58">Register Complaint</a></li>
+			  
+				 
+				<li><a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_58">Complaint Status</a></li>
+			  
+				 
+				<li><a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_58">Complaint History</a></li>
+			  
+			</ul></div></li>		  
+		  <li><a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_91">Customer Care Centers</a></li>
+		  <li><a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_124_page_125_page_126">Agriculture Consumers </a></li>
+		  <li><a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_429"><img src="ddlevelsfiles/arrow-right.gif" class="rightarrowpointer" style="width: 12px; height: 12px; left: 206px;">Service Requests</a>
+		  	
+		  <div style="left: 0px; top: 0px; visibility: hidden;"><ul style="visibility: hidden;">
+			     <li><a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_152">New Service Connection</a></li>
+				 <li><a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_153">Dis Connection</a></li>
+				 <li><a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_154_page_155">Dis Mantling</a> </li>
+				 <li><a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_155">Name Change</a> </li>
+				 <li><a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_156">Load Change</a> </li>
+				 <li><a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_159">Category Change</a> </li>
+				 <li><a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_158">Location Change</a> </li>
+			</ul></div></li>
+		  <li><a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_2369">ATP Machines</a> </li>
+		  <li><a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_429"><img src="ddlevelsfiles/arrow-right.gif" class="rightarrowpointer" style="width: 12px; height: 12px; left: 206px;"><img class="rightarrowpointer" style="width: 12px; height: 12px; left: 206px;" src="index.jsp_files/arrow-right.htm">Bill</a>  									 			
+			
+		  <div style="left: 0px; top: 0px; visibility: hidden;"><ul style="visibility: hidden;">
+			
+				<li><a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_58">Online Bill Payment</a></li>
+			 
+				   
+				 <li><a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_149">Offline Bill Payment </a></li>
+				 
+				  
+				 <li><a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_150">Guide to your Bill</a> </li>
+				
+				   
+				 <li><a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_151">View Your Bill</a> </li>
+				 
+			</ul></div></li>
+		  <li><a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_133_page_134">Power Outages</a> </li>
+		  <li><a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_122_page_123">ECS Facility</a> </li>
+		  
+		  <li><a target="_blank" href="/framework/skins/EPDCL_SKIN/Pdfs/Customer's guide to EBPP Service.pdf">EBPP Facility</a> </li>
+		  
+		  <li><a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_134_page_135">HT Bill View</a> </li>
+		  <!--
+		  <li><a target="_blank" href="http://117.240.234.135/onlinebill/HTLogin.jsp">HT Bill View</a> </li>
+		 -->
+		  <li><a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EP_Home_portal_page_123_page_124">Visit our Customer Service Centers</a></li>
+		  <!--<li><a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_134_page_135_page_876">HT Application Status</a> </li>
+		  -->
+		  
+		  <li><a target="_blank" href="http://117.240.234.134:9009/Epimrs-new/HT_RegStatus.jsp">HT Application Status</a> </li>
+		  <li><a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_125_page_302">Customer Service Application Forms</a> </li>
+		  <li><a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_133_page_134_page_135">Charges payable for New Connection</a> </li>
+		  
+		</ul></div><div class="ddsubmenustyle" style="z-index: 2000; left: 0px; top: 0px; visibility: hidden;"><ul style="visibility: hidden;" id="ddsubmenu2">
+			<li><a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_90">Electricity Tariff </a></li>
+			<li>
+				
+					
+					
+						<a href="/ShowProperty/EP_CM_REPO/Pages/CustomerInformation/Electricity Act/Electricity Act" target="_blank" style="text-decoration:none">
+						Electricity Act 2003</a>
+					
+
+					
+			</li>
+			<li><a target="_blank" href="/pages/CustomerInformation/Righttoinformationact2005.jsp">Right to Information Act </a></li>
+			<li><a target="_blank" href="/pages/CustomerInformation/RTIManual1.jsp"><img src="ddlevelsfiles/arrow-right.gif" class="rightarrowpointer" style="width: 12px; height: 12px; left: 206px;">RTI Manual</a>	
+								
+			<div style="left: 0px; top: 0px; visibility: hidden;"><ul style="visibility: hidden;">
+					
+								
+						
+							<li>
+								<a href="/ShowProperty/EP_CM_REPO/Pages/CustomerInformation/RTI Manual/RTI Manual_Srikakulam" target="_blank" style="text-decoration:none">
+								Srikakulam
+								</a>
+							</li>
+						
+
+							<li>
+								<a href="/ShowProperty/EP_CM_REPO/Pages/CustomerInformation/RTI Manual/RTI Manual_RAJAHMUNDRY" target="_blank" style="text-decoration:none">
+								Rajahmundry - East Godavari
+								</a>
+							</li>
+						
+
+							<li>
+								<a href="/ShowProperty/EP_CM_REPO/Pages/CustomerInformation/RTI Manual/RTI Manual_Eluru" target="_blank" style="text-decoration:none">
+								Eluru - West Godavari
+								</a>
+							</li>
+						
+
+							<li>
+								<a href="/ShowProperty/EP_CM_REPO/Pages/CustomerInformation/RTI Manual/RTI Manual VZM circle" target="_blank" style="text-decoration:none">
+								Vizianagaram
+								</a>
+							</li>
+						
+
+							<li>
+								<a href="/ShowProperty/EP_CM_REPO/Pages/CustomerInformation/RTI Manual/RTI vsp manual" target="_blank" style="text-decoration:none">
+								Visakhapatnam
+								</a>
+							</li>
+						
+
+						
+				</ul></div></li>									
+			<li>
+				
+						
+				
+					</li><li>
+						<a href="/ShowProperty/EP_CM_REPO/Pages/CustomerInformation/RTI Manual/RTI Telugu" target="_blank" style="text-decoration:none">
+						RTI Telugu
+						</a>
+					</li>
+				
+
+				
+			
+			<li>
+				
+						
+				
+					</li><li>
+						<a href="/ShowProperty/EP_CM_REPO/Pages/CustomerInformation/RTI Manual/RTI Rules" target="_blank" style="text-decoration:none">
+						RTI Rules
+						</a>
+					</li>
+				
+
+				
+			
+			<li><a target="_blank" href="/framework/skins/EPDCL_SKIN/Pdfs/NEWS%20Lr.FINAL.pdf">About DPE </a></li>
+			<li><a href="http://aptransco.gov.in/merit-order.html" target="_blank">Merit Order Reports</a></li> 
+			<li>
+				
+				<a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_132">Related Websites</a>
+			</li>
+			
+			<li><a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_139_page_140_page_141">Conservation Tips</a> </li>
+		  	<li><a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_518">Power Safety Tips</a> </li>
+			<li><a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_96">Green Tips</a> </li>
+			<li><a href="/framework/skins/EPDCL_SKIN/Pdfs/CustomerInfo/Status%20of%20accidents%20upto%2031.12.2011.pdf" target="_blank">Status of Electrical accidents upto 31.12.2011</a></li>
+			<li><a href="/framework/skins/EPDCL_SKIN/Pdfs/CustomerInfo/List%20of%20Open%20access%20consumers.pdf" target="_blank">List of Power Traders for Open Access Consumers</a></li>
+  		</ul></div><div class="ddsubmenustyle" style="z-index: 2000; left: 0px; top: 0px; visibility: hidden;"><ul style="visibility: hidden;" id="ddsubmenu3">
+			<li><a href="/pages/Reports/Aboutcgrf.jsp" target="_blank">About CGRF</a></li>
+			<li><a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_429"><img src="ddlevelsfiles/arrow-right.gif" class="rightarrowpointer" style="width: 12px; height: 12px; left: 206px;"><img class="rightarrowpointer" style="width: 12px; height: 12px; left: 206px;" src="index.jsp_files/arrow-right.htm">CGRF Orders</a>			
+				
+			<div style="left: 0px; top: 0px; visibility: hidden;"><ul style="visibility: hidden;">
+				
+					
+						
+						
+							<li>
+								<a href="/ShowProperty/EP_CM_REPO/Pages/Consumer Forum/CGRF Orders/Cgrf orders/Cgrf orders 2012-13" target="_blank" style="text-decoration: none">CGRF Orders 2012-13</a>
+							</li>
+						
+
+							<li>
+								<a href="/ShowProperty/EP_CM_REPO/Pages/Consumer Forum/CGRF Orders/Cgrf orders/Cgrf orders 2011-12" target="_blank" style="text-decoration: none">CGRF Orders 2011-12</a>
+							</li>
+						
+
+						
+					
+				</ul></div></li>
+			<li><a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_429"><img src="ddlevelsfiles/arrow-right.gif" class="rightarrowpointer" style="width: 12px; height: 12px; left: 206px;"><img class="rightarrowpointer" style="width: 12px; height: 12px; left: 206px;" src="index.jsp_files/arrow-right.htm">Compliance on CGRF Orders</a>													
+				
+			<div style="left: 0px; top: 0px; visibility: hidden;"><ul style="background-color: rgb(12, 88, 129); color: rgb(255, 255, 255); width: 80px; visibility: hidden;">
+					<li style="border-bottom:1px solid #000; height:20px;"><a href="#"><img src="ddlevelsfiles/arrow-right.gif" class="rightarrowpointer" style="width: 12px; height: 12px; left: 206px;">2011-12</a>					
+						
+					<div style="left: 0px; top: 0px; visibility: hidden;"><ul style="visibility: hidden;">
 							
 								
-
-										<!--Top Drop Down Menu 3 HTML-->
-										
-										
-										<!--Top Drop Down Menu 4 HTML-->
-										
-										
-</td>
-					</tr>
-			  </tbody></table>
-			</td>
-		</tr>
-		<!--<tr>
-			<td>
-			<div id="container">
-		<div id="example">
-			
-			<div id="slides">
-				<div class="slides_container">
-					<div class="slide">
-						<a href="#"><img src="img/1.jpg" width="941" height="241" alt="Slide 1" border="0"></a>					</div>
-					<div class="slide">
-						<a href="#"><img src="img/2.jpg" width="941" height="241" alt="Slide 2" border="0"></a>					</div>
-					<div class="slide">
-						<a href="#"><img src="img/3.jpg" width="941" height="241" alt="Slide 3" border="0"></a>					</div>
-					<div class="slide">
-						<a href="#"><img src="img/4.jpg" width="941" height="241" alt="Slide 4" border="0"></a>					</div>
-					<div class="slide">
-						<a href="#"><img src="img/5.jpg" width="941" height="241" alt="Slide 5" border="0"></a>					</div>
-					<div class="slide">
-						<a href="#"><img src="img/6.jpg" width="941" height="241" alt="Slide 6" border="0"></a>					</div>
-					<div class="slide">
-						<a href="#"><img src="img/7.jpg" width="941" height="241" alt="Slide 7" border="0"></a>					</div>
-					<div class="slide">
-						<a href="#"><img src="img/8.jpg" width="941" height="241" alt="Slide 7" border="0"></a>					</div>
-				</div>
-			<!--<a href="#" class="prev"><img src="img/arrow-prev.png" width="24" height="43" alt="Arrow Prev" border="0"></a>
-				<a href="#" class="next"><img src="img/arrow-next.png" width="24" height="43" alt="Arrow Next" border="0"></a> 	 -->		
-			<!--<img src="img/example-frame2.png" width="941" height="400" alt="Example Frame" id="frame"> -->
-	  <!-- </div>
-	</div>	
-			</td>
-		</tr> -->
-		<!--<tr>
-			<td>
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tr>
-						<td><img src="images/apepdcl1_10.png" width="313" height="133" /></td>
-						<td width="316" height="133" style="border-right:1px solid #FFFFFF; border-left:1px solid #FFFFFF; background-image:url(images/centerbg.jpg); height:133px; line-height:18px; color:#FFFFFF; text-align:left; padding-left:10px;">
-							<marquee behavior="scroll" direction="up" height="133" scrollamount="3">
-								<TABLE border=0 cellSpacing=0 cellPadding=0 width="100%" 
-                  height=139>
-                    <TBODY>
-                    <TR>
-                      <TD height=7 width=5>&nbsp;</TD>
-                      <TD>
-					  	<A href="https://www.apeasternpower.com/misc/APERC1.pdf">
-							<STRONG><FONT id=blink1 color=green>APERC appreciate APEPDCL</FONT></STRONG>
-						</A>&nbsp;<IMG alt=img src="APEPDCL_files/new_n1.gif"></TD>
-                      <TD>&nbsp;</TD></TR>
-                    <TR>
-                      <TD height=7 width=5>&nbsp;</TD>
-                      <TD>
-					  	<A href="https://www.apeasternpower.com/misc/Retail%20Supply%20Tariff%20Order%20FY%202012-13.pdf">
-							<STRONG><FONT id=blink1 color=green>Retail Supply Tariff Order FY 2012-13</FONT></STRONG></A>&nbsp;<IMG alt=img 
-                        src="APEPDCL_files/new_n1.gif"></TD>
-                      <TD>&nbsp;</TD></TR>
-                    <TR>
-                      <TD height=7 width=5>&nbsp;</TD>
-                      <TD>
-					  	<A href="https://www.apeasternpower.com/misc/Purchase%20of%20power%20from%20State%20Generators.pdf">
-							<STRONG><FONT id=blink1 color=green>Purchase of power from State Generators</FONT></STRONG></A>&nbsp;
-							<IMG alt=img src="APEPDCL_files/new_n1.gif"></TD>
-                      <TD>&nbsp;</TD></TR>
-                    <TR>
-                      <TD height=7 width=5>&nbsp;</TD>
-                      <TD><A 
-                        href="misc/corrigendum-4.pdf"><STRONG><FONT 
-                        id=blink1 color=green>Corrigendum-IV for AMR 
-                        System</FONT></STRONG></A>&nbsp;<IMG alt=img 
-                        src="APEPDCL_files/new_n1.gif"></TD>
-                      <TD>&nbsp;</TD></TR>
-                    <TR>
-                      <TD height=7 width=5>&nbsp;</TD>
-                      <TD>
-					  	<A href="https://www.apeasternpower.com/misc/corrigendum-new.pdf">
-							<STRONG><FONT id=blink1 color=green>Corrigendum-II for AMC</FONT></STRONG></A>&nbsp;
-							<IMG alt=img src="APEPDCL_files/new_n1.gif"></TD>
-                      <TD>&nbsp;</TD></TR>
-                    <TR>
-                      <TD height=7 width=5>&nbsp;</TD>
-                      <TD>
-					  	<A href="https://www.apeasternpower.com/misc/Proposal%20on%20R&amp;C%20Measures.pdf">
-						<STRONG><FONT color=green>Proposal on R&amp;C Measures</FONT></STRONG></A>&nbsp;
-						<IMG alt=img src="APEPDCL_files/new_n1.gif"></TD>
-                      <TD>&nbsp;</TD></TR><!--<tr>
-                  <td width="5" height="7">&nbsp;</td>
-                  <td ><a href="../misc/retail%20tariffs-publicnotice-2011-12v1.pdf"><strong><font color="blue">Retail Supply Tariff Schedule : FY 2011-12</strong></a></td>
-                  <td>&nbsp;</td>
-                </tr>
-                    <TR>
-                      <TD height=7 width=5>&nbsp;</TD>
-                      <TD>
-					  	<A href="https://www.apeasternpower.com/misc/EPDCL%20FSA%20FILINGS%202008-09%20&amp;%202009-10.zip">
-							<STRONG><FONT color=green>EPDCL FSA Filings : 2008-09 &amp; 2009-10 </FONT></STRONG></A></TD>
-                      <TD>&nbsp;</TD></TR><!-- <tr>
-                  <td width="5" height="7">&nbsp;</td>
-                  <td><a  href="../misc/Replies%20to%20public%20objections%20on%20FSA%20filings%20for%20FYs%202008-09%20&%202009-10.pdf"><strong><font color="blue">Replies to Pubic Objections on FSA filings</font></strong></a></td>
-                 <td>&nbsp;</td>
-                </tr> 
-                    <TR>
-                      <TD height=7 width=5>&nbsp;</TD>
-                      <TD><A 
-                        href="https://www.apeasternpower.com/misc/agriculture.jsp"><STRONG><FONT 
-                        color=green>Agriculture Power Supply 
-                        Information</FONT></STRONG></A></TD>
-                      <TD>&nbsp;</TD></TR>
-                    <TR>
-                      <TD height=7 width=5>&nbsp;</TD>
-                      <TD><A 
-                        href="https://www.apeasternpower.com/misc/dtrfailure.jsp"><STRONG><FONT 
-                        color=#1f5647>DTR Exception 
-                      Reports</FONT></STRONG></A></TD>
-                      <TD>&nbsp;</TD></TR>
-                    <TR><!--<td width="5" height="7">&nbsp;</td>
-                  <td><a href="../misc/consumptionsaving.jsp"><strong><font color="blue">Energy Savings Calculator</strong></a></td>
-                 <td>&nbsp;</td>
-                </tr>--><!-- <tr>
-                  <td width="5" height="7">&nbsp;</td>
-                  <td><a href="http://117.240.234.135:9001/epdcl/accidents/paccident.jsp"><strong><font color="blue">Accident Pending Report</strong></a></td>
-                 <td>&nbsp;</td>
-                </tr>
-                    <TR>
-                      <TD height=7 width=5>&nbsp;</TD>
-                      <TD>&nbsp;</TD>
-                      <TD>&nbsp;</TD></TR></TBODY></TABLE>
-							</marquee>
-						</td>
-						<td><a href="userlogin/oluserlogin2.jsp"><img src="images/apepdcl1_12.png" border="0" /></a></td>
-					</tr>
-			  </table>
-			</td>
-		</tr> -->
-		<tr>
-			<td style="background-color:#B3E7FF;">
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-						<td width="160" height="307" align="left" valign="top" style="padding:2px;">
-								<div class="sidebarmenu">
-								  <ul id="sidebarmenu1">
-									<li><a href="#" class=" subfolderstyle">Tenders &amp; Business Opportunities</a> 
-										<ul style="left: 220px; visibility: visible; display: none;">
-										  <li><a href="tenders/opentender.jsp">Tenders</a></li>
-										  <li><a href="tenders/allottedtender.jsp">Allotted Tenders</a> </li>
-										  <li><a href="tenders/viewtenders.jsp?typ=archived">Archived Tenders</a> </li>
-										  <li><a href="http://www.eprocurement.gov.in/" target="_blank">EProcurement</a> </li>
-										  <li><a href="vendor/vendor_instructions.jsp">Vendor Registration</a> </li>
-										  <li><a href="vendor/vendorslist.htm">List of Vendors</a> </li>
-										  <li><a href="misc/contract_details.jsp">List of Contractors</a> </li>
-										  <li><a href="vendor/vendor_blacklist.jsp">Blacklisted Firms</a> </li>
-										  <li><a href="tenders/Contract%20Registration.htm">Procedure : Contract Registration</a> </li>
-										  <li><a href="docs/suppliers%20related.htm">Suppliers Information</a> </li></ul>
+								
+									<li>
+										<a href="/ShowProperty/EP_CM_REPO/Pages/Consumer Forum/Complaince on cgrf orders/2011-12/First Quarter" target="_blank" style="text-decoration: none"> First Quarter</a>
 									</li>
-									<li><a href="index.jsp#" class=" subfolderstyle">Employees Related</a> 
-									<ul style="left: 220px; visibility: visible; display: none;">
-									  <li><a href="customercare/eoomain.jsp">EOO's</a></li>
-									  <li><a href="customercare/Memos.htm">Memo's &amp; Circulars</a> </li>
-									  <li><a href="misc/Grading%20of%20Sections.jsp">Grading of Operation Sections</a> </li>
-									  <li><a href="careers/charter.jsp">Employees charter</a> </li>
-									  <li><a href="careers/employees%20related%20archive.htm">...More</a>                      </li></ul></li>
-								  <!--  <LI><A 
-									href="careers/careers.jsp">Recruitment 
-									&nbsp;<IMG alt=img src="APEPDCL_files/new_n1.gif"></A> </LI> -->
-									<li><a href="index.jsp#" class=" subfolderstyle">Intranet Links</a> 
-									<ul style="left: 220px; visibility: visible; display: none;">
-									  <!--<LI><A  href="http://117.240.234.135:9001/epdcl/jsp/prlogin_bt.jsp"target=_blank>Bill Track Login</A> </LI> -->
-									  <li><a href="http://10.150.0.22/src/login.php" target="_blank">APEPDCL Mail</a> </li>
-									  <li><a href="http://117.240.234.132/instaxx" target="_blank">Send SMS</a> <!--<li><a href="http://117.240.234.135:9001/epdcl/jsp/thinkandthan_login.jsp" target="_blank" >Think Tank</a></li>--></li>
-									  <li><a class="cclink" href="http://117.240.234.137/iamrepdcl/">IAMR Login</a>                      </li>
-									  <li><a href="http://117.240.234.135/AmcComplaints/amc_login.jsp" target="_blank">CORP AMC-COMPLAINTS</a></li></ul></li>
-									<li><a href="index.jsp#" class=" subfolderstyle">Quick Links</a> 
-										<ul style="left: 220px; visibility: visible; display: none;">
-										  <li><a href="misc/download.jsp">Downloads</a></li>
-										  <li><a href="gallery/pics/photo%20gallery/photogallerymain.jsp">PhotoGallery</a> <!--<a href="/news/shutdown.jsp"></a>--></li>
-										  <li><a href="projects/HVDS.htm">Projects</a></li>
-										  <li><a href="http://aptransco.gov.in/discom.html">Power Supply Position</a> </li>
-										  <li><a href="misc/Consumers%20Rights.htm">Consumer's Rights</a> </li></ul></li>
-										  <li><a href="misc/FAQ.html">FAQ's</a></li>
-										  <li><a href="contactus/feedback.jsp">Feedback</a></li>
-						  </ul></div>
-							<!--<p>
-								<a href="#" class="leftlinks">Tenders &amp; Business Opportunities</a><br />
+								
 
-							<a href="#" class="leftlinks">Employess Related</a><br />
-							
-							<a href="#" class="leftlinks">Intranet Links</a><br />
-							
-							<a href="#" class="leftlinks">Quick Links</a><br />
-							
-							<a href="#" class="leftlinks">FAQs</a><br />
-							
-							<a href="#" class="leftlinks">Feedback</a>
-							</p> -->
-							<p>
-						  </p><table width="135" border="0" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose VeriSign SSL for secure e-commerce and confidential communications.">
-<tbody><tr>
-<td width="135" align="center" valign="top"><script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.apeasternpower.com&amp;size=M&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script><br>
-</td>
-</tr>
-</tbody></table>
-							<p></p>
-					  </td>
-						<td width="780" style="background-color:#cbefff;">
-							<table width="100%">
-  <tbody><tr>
-    <td width="100%">
-    <div align="center" style="padding:10px; font-size:12px;">
-      <center>
-      <table border="0" cellpadding="0" cellspacing="3" style="border-collapse: collapse; float:left;" bordercolor="#111111" width="100%" align="left">
-        <tbody><tr>
-			<td align="left" style="font-size:16px; color:#004080; font-weight:bold; padding:5px;">Privacy Policy</td>
-		</tr>
-        <tr>
-          <td width="100%" valign="top">
-          	<table border="0" cellpadding="0" cellspacing="3" style="border-collapse: collapse" bordercolor="#111111" width="100%">
-      
-        <tbody><tr>
-          <td width="100%" valign="top">
-            <hr>
-          </td>
-        </tr>
-         <tr>
-          <td width="100%" valign="bottom" align="left" style="color: #075275; text-align:justify;">
-         	
-			  <p align="left">We at EPDCL respect the privacy of everyone who visits  this website and are committed to maintain the privacy and security of the  personal information of all visitors to this website but does not promise or  guarantee the same. Our policy on the collection and use of personal  information and other information is outlined below.<br><br><strong>Personal Information :</strong><br><br>
-			  We do not require personal information to obtain access  to most of our website. We collect personal information from our visitors on a  voluntary basis. Personal information may include name, title, company,  address, phone number, email address, and other relevant data. Questions or  comments submitted by visitors may also include in personal information. We  collect and use personal information for business purposes in order <br><br>
-			  </p><ul>
-			    <li>To provide tender downloads, information, grievance, etc  and take advantage of&nbsp; certain other  features of our website.</li>
-		        <li>To provide information or interactive services through  this website, to your e-mail address </li>
-		        <li>To seek your feedback or to contact you in relation to  those services offered on our website.</li>
-		      <li>To process and respond to requests, improve our  operations, and communicate with visitors about our services.</li>
-		     <li>To allow you to access certain contents of our website.</li>
-		      </ul>
-			 <br><br>
-			    We will not use or share, either within EPDCL or with a  third party, any information collected at this page for direct marketing  purposes.
-			 <br><br>To the extent required or permitted by law, we may also  collect, use and disclose personal information in connection with security  related or law enforcement investigations or in the course of cooperating with  authorities or complying with legal requirements.<br><br>
-			  <strong>Non personal information : </strong><br><br>
-			  At this web site, information sent by your web browser,  may be automatically collected. This information typically includes your domain  name . It may also contain your user name . Other examples of information may  be collected by our server include the Internet protocol (IP) address used to  connect the visitor's computer to the Internet, operating system and platform,  the average time spent on our website, pages viewed, information searched for,  access times, websites visited before and a visitor visits our website, and  other relevant statistics. <br><br>
-			 We use the information we automatically receive from your  web browser to see which pages you visit within our website, which website you  visited before coming to ours, and where you go after you leave. We at EPDCL  develop statistics that are helpful to understand how our visitors can use this  website. We use this information in the aggregate to measure the use of our  website and to administer and improve our website. <br><br>
-			 <strong>Information placed on your computer</strong>
-			  <br><br>We may store some information such as cookies on your  computer when you look at our website. Cookies are pieces of information that a  website transfers to the hard drive of a visitor's computer for record-keeping  purposes. This information facilitates your use of our website and ensures that  you do not need to re-enter your details every time you visit it. You can erase  or choose to block this information from your computer if you want to. Erasing  or blocking such information may limit the range of features available to the  visitor on our website. <br><br>
-			 <strong>Security</strong><br><br>
-			We have implemented technology and policies, with the  objective of protecting your privacy from unauthorized access and improper use  but does not promise or guarantee the same. EPDCL does not make any warranty  that the contents of the Site are free from infection by viruses or anything  else which has contaminating or destructive properties.<br><br>
-			  <strong>Service Providers</strong><br><br>
-			  We give your information to the people and  companies that help us provide the services we offer. For example, we may use  outside vendors to help host our website, serve photos and videos, process  payments, or provide search results. In some cases we provide the service  jointly with another, such as the APonline. In all of these cases our partners  must agree to only use your information consistent with the agreement we enter  into with them, as well as this privacy policy.<br><br>
-			  <strong>Third Parties</strong><br><br>
-			  For your convenience, this page may contain certain  hyperlinks to other DISCOMS pages as well as to websites outside EPDCL such as  APGENCO,APTRANSCO etc. We are not responsible for the privacy policies and  practices of other websites, even if you access those using links from our  website. We can make no promises or guarantees regarding data collection on the  hyper-linked pages and on websites that are not owned by EPDCL. We recommend  that you check the policy of each website you visit, or link from, and contact  the owners or operators of such websites if you have any concerns or questions.<br><br>
-			 <strong>Contacting Us</strong><br><br>
-		    We aim to keep our information about  you as accurate as possible. If you would like to review or change the details  you have supplied us with, please contact us. If you wish to change or delete  any of the personal information you have entered whilst visiting our website or  if you have any questions about our privacy statement. Privacy policy is subject  to change at the discretion of EPDCL.<br><br>
-         
-         </td>
-        </tr>
-	</tbody></table>
-          </td>
-        </tr>
-       
-		
-          </tbody></table>
-      </center>
-    </div>
-    </td>
-  </tr>
-</tbody></table>
-					  </td>
-		  </tr></tbody></table>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-top:1px solid #4187c4;">
-				<table border="0" align="center" cellpadding="0" cellspacing="00">
-					<tbody><tr>
-						<td width="928" align="center"><a href="index.jsp" class="leftlinks">Home</a> | <a href="careersnew.html" class="leftlinks">Careers</a> | <a href="contactusnew.html" class="leftlinks">Contact</a> | <a href="contactus/feedback.jsp" class="leftlinks">Feedback</a> | <a href="sitemapnew.html" class="leftlinks">Site Map</a> | <a href="privacypolicynew.html" class="leftlinks">Privacy Policy</a></td>
-					</tr>
-					<tr>
-						<td style="color:#4187c4;" align="center">
-                        	<table border="0" cellpadding="0" cellspacing="0">
-                            	<tbody><tr>
-                                	<td width="398">© 2008 Eastern Power Distribution Company of Andhra Pradesh Limited.</td>
-                                    <td width="228"></td>
-                                    <td width="282">Developed by IT-Team &amp; Maintained by APEPDCL</td>
-                                </tr>
-                      </tbody></table></td>
-					</tr>
-			  </tbody></table>
-			</td>
-		</tr>
-</tbody></table>
+									<li>
+										<a href="/ShowProperty/EP_CM_REPO/Pages/Consumer Forum/Complaince on cgrf orders/2011-12/Second Quarter" target="_blank" style="text-decoration: none"> Second Quarter</a>
+									</li>
+								
 
+									<li>
+										<a href="/ShowProperty/EP_CM_REPO/Pages/Consumer Forum/Complaince on cgrf orders/2011-12/Third Quarter" target="_blank" style="text-decoration: none"> Third Quarter</a>
+									</li>
+								
 
-<iframe class="ddiframeshim" src="blank.htm" frameborder="0"></iframe><iframe class="ddiframeshim" src="blank.htm" frameborder="0"></iframe><div class="ddsubmenustyle" style="z-index: 2000; left: 0px; top: 0px; visibility: hidden;"><ul id="ddsubmenu1" style="visibility: hidden;">
-										  <li><a href="customer_care.html">Customer Care Centers </a></li>
-										  <li><a href="agl_consumers.html">Agriculture Consumers </a></li>
-										  <li><a href="customercare/new_service.jsp">New Service Connection</a> </li>
-										  <li><a href="atpm.html">ATP Machines</a> </li>
-										  <li><a href="#"><img src="ddlevelsfiles/arrow-right.gif" class="rightarrowpointer" style="width: 12px; height: 12px; left: 206px;">Bill</a>
-  									 			
-									  <div style="left: 0px; top: 0px; visibility: hidden;"><ul style="visibility: hidden;">
-												     <li><a href="userlogin/oluserlogin2.jsp">Online Bill Payment </a></li>
-													 <li><a href="customercare/offlinebillpay.jsp">Offline Bill Payment </a></li>
-													 <li><a href="guidetoyourbill.html">Guide to your Bill</a> </li>
-													 <li><a href="userlogin/know_urbill.jsp">View Your Bill</a> </li>
-												</ul></div></li>
-										  <li><a href="customercare/poweroutages.jsp">Power Outages</a> </li>
-										  <li><a href="misc/ECS Facility.htm">ECS Facility</a> </li>
-										  <li><a href="onlinebill/HTLogin.jsp">HT Bill View</a> </li>
-										  <li><a href="customercare/customer_care.jsp" target="_window">Visit our Customer Service Centers</a></li>
-										  <li><a href="Epimrs-new/HT_RegStatus.jsp?reqno=1&amp;title=Applications status" target="_blank">HT Application Status</a> </li>
-										  <li><a href="docs/application forms.htm">Customer Service Application Forms</a> </li>
-										  <li><a href="customercare/New LT Conn Charges.htm">Charges payable for New Connection</a> </li>
-									
-									</ul></div><div class="ddsubmenustyle" style="z-index: 2000; left: 0px; top: 0px; visibility: hidden;"><ul id="ddsubmenu2" style="visibility: hidden;">
-									<li><a href="tariffmenu.html">Electricity Tariff </a></li>
-									<li><a href="javascript:dothis('downloads/elecact2003.pdf')" target="_blank">Electricity Act 2003 </a></li>
-									<li><a href="downloads/forRTI1.htm">Right to Information Act </a></li>
-									<li><a href="downloads/manual.htm"><img src="ddlevelsfiles/arrow-right.gif" class="rightarrowpointer" style="width: 12px; height: 12px; left: 206px;">RTI Manual</a>
-										
-									<div style="left: 0px; top: 0px; visibility: hidden;"><ul style="visibility: hidden;">
-											<li><a href="downloads/RTI%20Consolidated%20book%202010-11.pdf" target="_blank">RTI VSP-Manual</a> </li>
-										</ul></div></li>									
-									  <li><a href="javascript:dothis('/downloads/TELUGU-RighttoInformationAct.pdf')" target="_blank">RTI Telugu</a></li>
-									  <li><a href="javascript:dothis('/downloads/RTIRules.pdf')" target="_blank">RTI Rules </a></li>
-									  <li><a href="javascript:dothis('/downloads/NEWS Lr.FINAL..pdf')">About DPE </a></li>
-									  <li><a href="http://aptransco.gov.in/merit-order.html" target="_blank">Merit Order Reports</a></li> 
-									  <li><a href="misc/related.jsp">Related Websites</a></li>
-									  <li><a href="customercare/citizencharter.jsp">Citizen Charter</a></li>
-									  <li><a href="misc/Status%20of%20accidents%20upto%2031.12.2011.pdf" target="_blank">Status of Electrical accidents upto 31.12.2011</a></li>
-									  <li><a href="misc/List%20of%20Open%20access%20consumers.pdf" target="_blank">List of Power Traders for Open Access Consumers</a></li>
-						  </ul></div><div class="ddsubmenustyle" style="z-index: 2000; left: 0px; top: 0px; visibility: hidden;"><ul id="ddsubmenu3" style="visibility: hidden;">
-											<li><a href="customercare/aboutcgrf1.htm">About CGRF</a></li>
-											<li><a href="#"><img src="ddlevelsfiles/arrow-right.gif" class="rightarrowpointer" style="width: 12px; height: 12px; left: 206px;">CGRF Orders</a>
-												
-											<div style="left: 0px; top: 0px; visibility: hidden;"><ul style="visibility: hidden;">
-													<li><a href="downloads/CGRF_ORDERS_2011-2012.zip">CGRF Orders : 2011-12</a></li>
-													<li><a href="downloads/CGRF_ORDERS_2012-2013.zip">CGRF Orders : 2012-13</a></li>
-												</ul></div></li>
-											<li><a href="index.jsp#"><img src="ddlevelsfiles/arrow-right.gif" class="rightarrowpointer" style="width: 12px; height: 12px; left: 206px;">Compliance on CGRF Orders:2011-12</a>
-												
-											<div style="left: 0px; top: 0px; visibility: hidden;"><ul style="visibility: hidden;">
-													<li><a href="downloads/Compliance%20on%20CGRF%20Orders%20%20%20%201st%20Quarter%20FY%202011-12%20final.pdf" target="_blank">1st Qtr</a> </li>
-													<li><a href="downloads/Compliance%20on%20CGRF%20Orders%202nd%20Quarter%20FY%202011-12%20final.pdf" target="_blank">2nd Qtr</a></li>
-													<li><a href="downloads/3rd%20Qtr.pdf" target="_blank">3rd Qtr</a> </li>
-												</ul></div></li>
-										</ul></div><div class="ddsubmenustyle" style="z-index: 2000; left: 0px; top: 0px; visibility: hidden;"><ul id="ddsubmenu4" style="visibility: hidden;">
-											<li><a href="javascript:dothis('http://117.240.234.135:9001/epdcl/dtr.jsp?lmc_typ=high')" target="_blank">News &amp; Announcements </a></li>
-											<li><a href="customercare/PressReleases.htm">Press Releases</a></li>
-											<li><a href="news/shutdown.jsp">Power Shutdown</a></li>	
-											<li><a href="gallery/pics/photo%20gallery/photogallerymain.jsp">Photo Gallery</a></li>
-											<li><a href="news/advertisements.jsp">Advertisements</a></li>
-											<li><a href="news/newsletter.jsp">News Letter</a> </li>
-											<li><a href="news/APEPDCL%202010%20News%20Letter.pdf" target="_blank">e-News Letter</a></li>
-											<li><a href="news/what%27s_new_archive.htm"><strong>Archive</strong></a></li>
-										</ul></div></body></html>
+									<li>
+										<a href="/ShowProperty/EP_CM_REPO/Pages/Consumer Forum/Complaince on cgrf orders/2011-12/Fourth Quarter" target="_blank" style="text-decoration: none"> Fourth Quarter</a>
+									</li>
+								
+
+								
+						</ul></div></li>
+					<li style="border-bottom:1px solid #000; height:20px;"><a href="#"><img src="ddlevelsfiles/arrow-right.gif" class="rightarrowpointer" style="width: 12px; height: 12px; left: 206px;">2012-13</a>
+						
+					<div style="left: 0px; top: 0px; visibility: hidden;"><ul style="visibility: hidden;">
+							
+								
+								
+									<li>
+										<a href="/ShowProperty/EP_CM_REPO/Pages/Consumer Forum/Complaince on cgrf orders/2012-13/First Quarter" target="_blank" style="text-decoration: none"> First Quarter</a>
+									</li>
+								
+
+									<li>
+										<a href="/ShowProperty/EP_CM_REPO/Pages/Consumer Forum/Complaince on cgrf orders/2012-13/Second Quarter" target="_blank" style="text-decoration: none"> Second Quarter</a>
+									</li>
+								
+
+									<li>
+										<a href="/ShowProperty/EP_CM_REPO/Pages/Consumer Forum/Complaince on cgrf orders/2012-13/Third Quarter" target="_blank" style="text-decoration: none"> Third Quarter</a>
+									</li>
+								
+
+									<li>
+										<a href="/ShowProperty/EP_CM_REPO/Pages/Consumer Forum/Complaince on cgrf orders/2012-13/Fourth Quarter" target="_blank" style="text-decoration: none"> Fourth Quarter</a>
+									</li>
+								
+
+								
+							<!--<LI><A href="#" target="_blank">3rd Qtr</A> </LI> -->
+						</ul></div></li>
+				</ul></div></li>
+		</ul></div><div class="ddsubmenustyle" style="z-index: 2000; left: 0px; top: 0px; visibility: hidden;"><ul style="visibility: hidden;" id="ddsubmenu4">
+			<li><a target="_blank" href="http://117.240.234.135:9001/epdcl/dtr.jsp?lmc_typ=high">News &amp; Announcements </a></li>											
+			
+			<li><a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_119">Press Releases</a></li>
+			
+			<li><a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_701">Power Shutdown</a></li>	
+			
+			<li><a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_122">Photo Gallery</a></li>
+			
+			<li><a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_730">Advertisements</a></li>
+			
+			<li><a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_120">News Letter</a> </li>
+			<li><a href="/framework/skins/EPDCL_SKIN/Pdfs/APEPDCL 2010 News Letter.pdf" target="_blank">e-News Letter</a></li>
+			
+			<li><a href="https://www.apeasternpower.com:443/EPDCL_Home.portal?_nfpb=true&amp;_pageLabel=EPDCL_Home_portal_page_408"><strong>Archive</strong></a></li>
+		</ul></div></body></html>
