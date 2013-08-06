@@ -1,0 +1,995 @@
+<!--The following is the downloaded HTML source of the viabox.com privacy policy that was archived on 2013-08-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130806072955id_/http%3A//www.viabox.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+  <title>Viabox : The Global Leader in Package Forwarding</title>
+  <link media="all" rel="stylesheet" type="text/css" href="css/all.css">
+  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+  <script type="text/javascript">window.jQuery || document.write('<script src="js/jquery-1.8.3.min.js"><\/script>')</script><script src="js/jquery-1.8.3.min.js"></script>
+  <script type="text/javascript" src="js/jquery.main.js"></script>
+  <!--[if lt IE 9]>
+    <script type="text/javascript" src="js/ie.js"></script>
+    <link media="all" rel="stylesheet" type="text/css" href="css/ie.css" />
+  <![endif]-->
+<script language="javascript">AC_FL_RunContent = 0;</script><script src="AC_RunActiveContent.js" language="javascript"></script><script type="text/javascript">
+// Index It Image Slideshow script- By JavaScriptKit.com
+// For this and over 400+ free scripts, visit JavaScript Kit- http://www.javascriptkit.com/
+// This notice must intact for use
+
+//Specify images for slideshow:
+//["Image Path", "Optional Image link"]
+
+var numberslide=new Array()
+numberslide[0]=["images/test1.jpg", "http://www.google.com"]
+numberslide[1]=["images/test.jpg", ""]
+numberslide[2]=["images/test1.jpg", ""]
+numberslide[3]=["images/test1.jpg", ""]
+numberslide[4]=["images/test1.jpg", ""]
+
+var mylinktarget="" //specify optional link target
+var mylinkcolor="navy" //specify default color of number links
+var mylinkcolorSelected="red" //specify color of selected links
+
+var imgborderwidth=0 //specify border of image slideshow
+
+/////Stop customizing here////////////////
+
+var preloadit=new Array()
+for (i=0;i<numberslide.length;i++){
+preloadit[i]=new Image()
+preloadit[i].src=numberslide[i][0]
+}
+
+var currentindex=""
+
+function changeslides(which){
+var imghtml=""
+currentindex=(which=="initial")? 0 : parseInt(which)
+var mode=(which=="initial")? "initial" : ""
+var which=(mode=="initial")? numberslide[0] : numberslide[which]
+if (which[1]!="")
+imghtml='<a href="'+which[1]+'" target="'+mylinktarget+'">'
+imghtml+='<img src="'+which[0]+'" border="'+imgborderwidth+'">'
+if (which[1]!="")
+imghtml+='</a>'
+
+if (mode=="initial")
+document.write('<div>'+imghtml+'</div>')
+else{
+document.getElementById("imagecontainer").innerHTML=imghtml
+changecolors()
+}
+}
+
+function createnumbers(){
+document.write('<a href="javascript:changeslides(0)" style="color:'+mylinkcolorSelected+'">0</a> ')
+for (i=1; i< numberslide.length; i++)
+document.write('<a href="javascript:changeslides(\''+i+'\')">'+i+'</a> ')
+}
+
+function changecolors(){
+var numberobj=document.getElementById("numberDiv")
+numberlinks=numberobj.getElementsByTagName("A")
+for (i=0; i<=currentindex; i++)
+numberlinks[i].style.color=mylinkcolorSelected
+for (i=currentindex+1; i<numberslide.length; i++)
+numberlinks[i].style.color=mylinkcolor
+}
+
+function goforward(){
+if (currentindex<numberslide.length-1)
+changeslides(currentindex+1)
+}
+
+function goback(){
+if (currentindex!=0)
+changeslides(currentindex-1)
+}
+</script><script src="slide-js/mootools-1-11-v2.js" type="text/javascript"></script><script src="slide-js/carrousel-c.htm" type="text/javascript"></script><script src="slide-js/home.htm" type="text/javascript"></script><script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script><script language="JavaScript" type="text/javascript" charset="utf-8" src="Scripts/default_1239286914.js"></script><script>
+
+var timeout  = 500;
+
+var closetimer  = 0;
+
+var ddmenuitem  = 0;
+
+
+
+// open hidden layer
+
+function mopen(id)
+
+{  
+
+  // cancel close timer
+
+  mcancelclosetime();
+
+
+
+  // close old layer
+
+  if(ddmenuitem) ddmenuitem.style.visibility = 'hidden';
+
+
+
+  // get new layer and show it
+
+  ddmenuitem = document.getElementById(id);
+
+  ddmenuitem.style.visibility = 'visible';
+
+
+
+}
+
+// close showed layer
+
+function mclose()
+
+{
+
+  if(ddmenuitem) ddmenuitem.style.visibility = 'hidden';
+
+}
+
+
+
+// go close timer
+
+function mclosetime()
+
+{
+
+  closetimer = window.setTimeout(mclose, timeout);
+
+}
+
+
+
+// cancel close timer
+
+function mcancelclosetime()
+
+{
+
+  if(closetimer)
+
+  {
+
+    window.clearTimeout(closetimer);
+
+    closetimer = null;
+
+  }
+
+}
+
+
+
+// close layer when click-out
+
+document.onclick = mclose; 
+
+
+
+</script><style>
+
+#sddm{
+
+  font-family:Arial, Helvetica, sans-serif;
+
+  margin: 0;
+
+  padding: 0;
+
+
+
+}
+
+
+
+#sddm li
+
+{  margin: 0;
+
+  padding: 0;
+
+  list-style: none;
+
+  float: left;
+
+  font-size:10px;
+
+  font-weight:bold;
+
+  text-align:left;
+
+  
+
+}
+
+#sddm li b{
+
+  font-size:17px;
+
+  text-align:left;
+
+  padding-bottom:10px;
+
+}
+
+
+
+#sddm li a
+
+{  display: block;
+
+  margin: 0 1px 0 0;
+
+
+
+  color: #d6d6d6;
+
+  text-decoration: none}
+
+
+
+#sddm li a:hover{
+
+  color:#8d8d8d;
+
+  text-decoration:none;
+
+  
+
+}
+
+
+
+#sddm div
+
+{  position: absolute;
+
+  visibility: hidden;
+
+  margin: 0;
+
+  width:181px;
+
+  margin-left:-90px;
+
+  background:url(images/country_select_bg.gif) repeat-x bottom;
+
+  border:1px solid #fed009;
+
+  z-index:999;
+
+  }
+
+
+
+  #sddm div a
+
+  {  position: relative;
+
+    display: block;
+
+    margin: 20;
+
+    padding: 5px 10px;
+
+    width: auto;
+
+    white-space: nowrap;
+
+    text-align: left;
+
+    text-decoration: none;
+
+    border-bottom:1px #c9c9c9 dashed;
+
+    color: #a6a6a6;
+
+    font: 11px arial
+
+    }
+
+
+
+  #sddm div a:hover{
+
+    color: #FFF;
+
+    background:#fee002;
+
+    }
+
+
+
+.top_menus{
+
+  font-size:17px;
+
+  font-weight:normal;
+
+  border-left:2px solid #CCC;
+
+  font-weight:bold;
+
+  height:30px;
+
+  
+
+}
+
+.top_menus a{
+
+  color: #d6d6d6;
+
+  
+
+  text-decoration:none;
+
+  
+
+}
+
+.top_menus a:hover{
+
+  color:#8d8d8d;
+
+}
+
+</style><style type="text/css">.jcf-unselectable{-moz-user-select:none;-webkit-tap-highlight-color:rgba(255,255,255,0);-webkit-user-select:none;user-select:none;}</style></head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<body>
+<div id="header">
+    <span class="top-line">&nbsp;</span>
+    <div class="holder">
+      <div class="country-selector">
+        <div class="country-holder"><a href="#"><img src="images/country_selector.png" alt="country_selector"></a>
+        <div class="drop" id="country">
+          <a href="#">Afghanistan</a>
+          <a href="#">Albania</a>
+          <a href="#">Algeria</a>
+          <a href="#">American Samoa</a>
+          <a href="#">Andorra</a>
+          <a href="#">Angola</a>
+          <a href="#">Anguilla</a>
+          <a href="#">Antigua and Barbuda</a>
+          <a href="#">Argentina</a>
+          <a href="#">Armenia</a>
+          <a href="#">Aruba</a>
+          <a href="#">Australia</a>
+          <a href="#">Austria</a>
+          <a href="#">Azerbaijan</a>
+          <a href="#">Bahamas</a>
+          <a href="#">Bahrain</a>
+          <a href="#">Bangladesh</a>
+          <a href="#">Barbados</a>
+          <a href="#">Belarus</a>
+          <a href="#">Belgium</a>
+          <a href="#">Belize</a>
+          <a href="#">Benin</a>
+          <a href="#">Bermuda</a>
+          <a href="#">Bhutan</a>
+          <a href="#">Bolivia</a>
+          <a href="#">Bosnia-Herzegovina</a>
+          <a href="#">Botswana</a>
+          <a href="#">Bouvet Island</a>
+          <a href="#">Brazil</a>
+          <a href="#">Brunei</a>
+          <a href="#">Bulgaria</a>
+          <a href="#">Burkina Faso</a>
+          <a href="#">Burundi</a>
+          <a href="#">Cambodia</a>
+          <a href="#">Cameroon</a>
+          <a href="#">Canada</a>
+          <a href="#">Cape Verde</a>
+          <a href="#">Cayman Islands</a>
+          <a href="#">Central African Republic</a>
+          <a href="#">Chad</a>
+          <a href="#">Chile</a>
+          <a href="#">China</a>
+          <a href="#">Christmas Island</a>
+          <a href="#">Cocos (Keeling) Islands</a>
+          <a href="#">Colombia</a>
+          <a href="#">Comoros</a>
+          <a href="#">Congo, DR of (Zaire)</a>
+          <a href="#">Congo, Republic of</a>
+          <a href="#">Cook Islands</a>
+          <a href="#">Costa Rica</a>
+          <a href="#">Croatia</a>
+          <a href="#">Cyprus</a>
+          <a href="#">Czech Republic</a>
+          <a href="#">Denmark</a>
+          <a href="#">Djibouti</a>
+          <a href="#">Dominica</a>
+          <a href="#">Dominican Republic</a>
+          <a href="#">Ecuador</a>
+          <a href="#">Egypt</a>
+          <a href="#">El Salvador</a>
+          <a href="#">Equatorial Guinea</a>
+          <a href="#">Eritrea</a>
+          <a href="#">Estonia</a>
+          <a href="#">Ethiopia</a>
+          <a href="#">Falkland Islands</a>
+          <a href="#">Faroe Islands</a>
+          <a href="#">Fiji</a>
+          <a href="#">Finland</a>
+          <a href="#">France</a>
+          <a href="#">French Guiana</a>
+          <a href="#">Gabon</a>
+          <a href="#">Gambia</a>
+          <a href="#">Georgia</a>
+          <a href="#">Germany</a>
+          <a href="#">Ghana</a>
+          <a href="#">Gibraltar</a>
+          <a href="#">Greece</a>
+          <a href="#">Greenland</a>
+          <a href="#">Grenada</a>
+          <a href="#">Guadeloupe (French)</a>
+          <a href="#">Guam (USA)</a>
+          <a href="#">Guatemala</a>
+          <a href="#">Guinea</a>
+          <a href="#">Guinea Bissau</a>
+          <a href="#">Guyana</a>
+          <a href="#">Haiti</a>
+          <a href="#">Holy See</a>
+          <a href="#">Honduras</a>
+          <a href="#">Hong Kong</a>
+          <a href="#">Hungary</a>
+          <a href="#">Iceland</a>
+          <a href="#">India</a>
+          <a href="#">Indonesia</a>
+          <a href="#">Iraq</a>
+          <a href="#">Ireland</a>
+          <a href="#">Israel</a>
+          <a href="#">Italy</a>
+          <a href="#">Ivory Coast (Cote D'Ivoire)</a>
+          <a href="#">Jamaica</a>
+          <a href="#">Japan</a>
+          <a href="#">Jordan</a>
+          <a href="#">Kazakhstan</a>
+          <a href="#">Kenya</a>
+          <a href="#">Kiribati</a>
+          <a href="#">Kuwait</a>
+          <a href="#">Kyrgyzstan</a>
+          <a href="#">Laos</a>
+          <a href="#">Latvia</a>
+          <a href="#">Lebanon</a>
+          <a href="#">Lesotho</a>
+          <a href="#">Liberia</a>
+          <a href="#">Liechtenstein</a>
+          <a href="#">Lithuania</a>
+          <a href="#">Luxembourg</a>
+          <a href="#">Macau</a>
+          <a href="#">Macedonia</a>
+          <a href="#">Madagascar</a>
+          <a href="#">Malawi</a>
+          <a href="#">Malaysia</a>
+          <a href="#">Maldives</a>
+          <a href="#">Mali</a>
+          <a href="#">Malta</a>
+          <a href="#">Marshall Islands</a>
+          <a href="#">Martinique (French)</a>
+          <a href="#">Mauritania</a>
+          <a href="#">Mauritius</a>
+          <a href="#">Mayotte</a>
+          <a href="#">Mexico</a>
+          <a href="#">Micronesia</a>
+          <a href="#">Moldova</a>
+          <a href="#">Monaco</a>
+          <a href="#">Mongolia</a>
+          <a href="#">Montenegro</a>
+          <a href="#">Montserrat</a>
+          <a href="#">Morocco</a>
+          <a href="#">Mozambique</a>
+          <a href="#">Myanmar</a>
+          <a href="#">Namibia</a>
+          <a href="#">Nauru</a>
+          <a href="#">Nepal</a>
+          <a href="#">Netherlands</a>
+          <a href="#">Netherlands Antilles</a>
+          <a href="#">New Caledonia (French)</a>
+          <a href="#">New Zealand</a>
+          <a href="#">Nicaragua</a>
+          <a href="#">Niger</a>
+          <a href="#">Niue</a>
+          <a href="#">Norfolk Island</a>
+          <a href="#">Northern Mariana Islands</a>
+          <a href="#">Norway</a>
+          <a href="#">Oman</a>
+          <a href="#">Pakistan</a>
+          <a href="#">Palau</a>
+          <a href="#">Panama</a>
+          <a href="#">Papua New Guinea</a>
+          <a href="#">Paraguay</a>
+          <a href="#">Peru</a>
+          <a href="#">Philippines</a>
+          <a href="#">Pitcairn Island</a>
+          <a href="#">Poland</a>
+          <a href="#">Polynesia (French)</a>
+          <a href="#">Portugal</a>
+          <a href="#">Puerto Rico</a>
+          <a href="#">Qatar</a>
+          <a href="#">Reunion</a>
+          <a href="#">Romania</a>
+          <a href="#">Russia</a>
+          <a href="#">Rwanda</a>
+          <a href="#">Saint Helena</a>
+          <a href="#">Saint Kitts and Nevis</a>
+          <a href="#">Saint Lucia</a>
+          <a href="#">Saint Pierre and Miquelon</a>
+          <a href="#">Saint Vincent and Grenadines</a>
+          <a href="#">Samoa</a>
+          <a href="#">San Marino</a>
+          <a href="#">Sao Tome and Principe</a>
+          <a href="#">Saudi Arabia</a>
+          <a href="#">Senegal</a>
+          <a href="#">Seychelles</a>
+          <a href="#">Sierra Leone</a>
+          <a href="#">Singapore</a>
+          <a href="#">Slovakia</a>
+          <a href="#">Slovenia</a>
+          <a href="#">Solomon Islands</a>
+          <a href="#">Somalia</a>
+          <a href="#">South Africa</a>
+          <a href="#">South Georgia</a>
+          <a href="#">Sandwich Islands</a>
+          <a href="#">South Korea</a>
+          <a href="#">Spain</a>
+          <a href="#">Sri Lanka</a>
+          <a href="#">Suriname</a>
+          <a href="#">Swaziland</a>
+          <a href="#">Sweden</a>
+          <a href="#">Switzerland</a>
+          <a href="#">Taiwan</a>
+          <a href="#">Tajikistan</a>
+          <a href="#">Tanzania</a>
+          <a href="#">Thailand</a>
+          <a href="#">Timor-Leste (East Timor)</a>
+          <a href="#">Togo</a>
+          <a href="#">Tokelau</a>
+          <a href="#">Tonga</a>
+          <a href="#">Trinidad and Tobago</a>
+          <a href="#">Tunisia</a>
+          <a href="#">Turkey</a>
+          <a href="#">Turkmenistan</a>
+          <a href="#">Turks and Caicos Islands</a>
+          <a href="#">Tuvalu</a>
+          <a href="#">Uganda</a>
+          <a href="#">Ukraine</a>
+          <a href="#">United Arab Emirates</a>
+          <a href="#">United Kingdom</a>
+          <a href="#">United States</a>
+          <a href="#">Uruguay</a>
+          <a href="#">Uzbekistan</a>
+          <a href="#">Vanuatu</a>
+          <a href="#">Venezuela</a>
+          <a href="#">Vietnam</a>
+          <a href="#">Virgin Islands</a>
+          <a href="#">Wallis and Futuna Islands</a>
+          <a href="#">Yemen</a>
+          <a href="#">Zambia</a>
+          <a href="#">Zimbabwe</a>
+        </div>
+        </div>
+      </div>
+      <div class="top-row">
+        <strong class="logo"><a href="http://www.viabox.com">viabox</a></strong>
+                <a href="register" class="signup">Sign Up Free</a>
+        <a href="login" class="login">Login</a>
+                
+        <div class="open-close">
+          <a href="#" class="opener">Menu</a>
+          <div class="slide js-slide-hidden">
+            <ul id="nav">
+              <li><a href="shoppers">Shoppers</a></li>
+              <li><a href="retailers">Retailers</a></li>
+              <li><a href="calculator">Shipping Calculator</a></li>
+              <li><a href="faq">FAQ</a></li>
+              <li><a href="support">Support</a></li>
+            </ul>
+            <div class="btns-control">
+              <a href="register" class="btn">Sign Up Free</a>
+              <a href="login" class="btn">Login</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <h1>Privacy Policy</h1>
+    </div>
+  </div>  
+  
+<script language="javascript" type="text/javascript" src="validator/frm_validator.js">
+</script>
+<script language="javascript" type="text/javascript">
+function validate1()
+{
+   
+  if(frmValidate('frm1','username','User Name','YES',' ')==false)
+  {
+    return false;
+  }
+  
+  if(frmValidate('frm1','password','Password','YES',' ')==false)
+  {
+    return false;
+  }
+  
+ } 
+    </script>
+  <script>
+  //====================================================================================================
+  //  Function Name  :  change_msg_click()
+  //  Purpose      :  This function will executed when user click on question textarea default msg blank
+  //----------------------------------------------------------------------------------------------------
+
+  function on_msg_click(v,vl){
+    var val = document.getElementById(v).value;
+    if(val == 'UserName' || val == 'Password')
+      document.getElementById(v).value = '';
+    
+  }
+  //====================================================================================================
+  //  Function Name  :  change_msg_blur()
+  //  Purpose      :  This function will executed when user without enter a any msg out the textarea
+  //            then dispaly a default msg
+  //----------------------------------------------------------------------------------------------------
+  function on_msg_blur(vl,v){
+    
+    //var msg_val = document.getElementById('msg_val_1').value;  
+    
+    if(vl == ''){
+      if(v == 'username')
+      {
+        document.getElementById(v).value = "UserName";  
+      }
+      else
+      {
+        document.getElementById(v).value = "Password";  
+      }
+    return true;
+    }
+  }
+  
+  function change_type(element,type)
+  {
+    if(element.value == 'Password')
+    {
+      element.type = 'text';
+    }
+    else if(element.value == '')
+    {
+      element.type = 'password';
+    }
+    else
+    {
+      element.type = 'password';
+    }
+  }
+</script>
+
+
+<style>
+.login_top{
+  background:url(images/login-bg.gif) no-repeat 0px 0px;
+  height:27px;
+  float:left;
+  padding:0px 10px; 
+  line-height:22px;
+  position:relative;
+  font-weight:bold; 
+  font-size:13px;
+  font-family:Arial, Helvetica, sans-serif;
+  color:#3C3C3C;
+}
+.login_top strong{
+  padding:0;
+  margin:0; 
+  color:#0281C8;
+}
+.login_top span{
+  background:url(images/login-bg.gif) no-repeat -390px -45px;
+  width:10px;
+  height:27px;
+  position:absolute;
+  top:0;
+  right:0;  }
+  
+.gplusbox div
+{
+  width:80px !important;
+}  
+</style>
+
+  
+  <div id="main">
+    <div class="main-holder">
+      <div class="main-frame">
+        <div id="content">
+          <div class="shoppers-info">
+            <div style="padding:10px">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="72%" valign="top">
+                      
+
+
+<p>At Viabox we are dedicated to safeguarding and preserving your privacy 
+when visiting our site or communicating electronically with us. <br>
+This Privacy Policy, together with our terms of use, provides an explanation as 
+to what happens to any personal data that you provide to us, or that we collect 
+from you.<br>
+We do update this Policy from time to time so please do review this Policy 
+regularly.<br>
+<br>
+<b>Information We Collect </b></p>
+<p>In operating our website we may collect and process the following data about 
+you:</p>
+<ul>
+  <li>Details of your visits to our website and the resources that you access, 
+  including, but not limited to, traffic data, location data, weblogs and 
+  other communication data.</li>
+  <li>Information that you provide by filling in forms on our website, such as 
+  when you registered for information or make a purchase. </li>
+  <li>formation provided to us when you communicate with us for any reason.</li>
+</ul>
+<p><b>Use of Cookies</b></p>
+<p>On occasion, we may gather information about your computer for our services 
+and to provide statistical information regarding the use of our website to our 
+advertisers. <br>
+Such information will not identify you personally it is statistical data about 
+our visitors and their use of our site. This statistical data does not identify 
+any personal details whatsoever.<br>
+Similarly to the above, we may gather information about your general internet 
+use by using a cookie file. Where used, these cookies are downloaded to your 
+computer automatically. This cookie file is stored on the hard drive of your 
+computer as cookies contain information that is transferred to your computer's 
+hard drive. They help us to improve our website and the service that we provide 
+to you. <br>
+All computers have the ability to decline cookies. This can be done by 
+activating the setting on your browser which enables you to decline the cookies. 
+Please note that should you choose to decline cookies, you may be unable to 
+access particular parts of our website.<br>
+Our advertisers may also use cookies, over which we have no control. Such 
+cookies (if used) would be downloaded once you click on advertisements on our 
+website.<br>
+<br>
+<b>Use of Your Information</b></p>
+<p>The information that we collect and store relating to you is primarily used 
+to enable us to provide our services to you. In addition, we may use the 
+information for the following purposes:</p>
+<ul>
+  <li>To provide you with information requested from us, relating to our 
+  products or services. </li>
+  <li>To provide information on other products which we feel may be of 
+  interest to you, where you have consented to receive such information.</li>
+  <li>To meet our contractual commitments to you.</li>
+  <li>To notify you about any changes to our website, such as improvements or 
+  service/product changes, that may affect our service.</li>
+</ul>
+<p>If you are an existing customer, we may contact you with information about 
+goods and services similar to those which were the subject of a previous sale to 
+you.<br>
+Further, we may use your data, or permit selected third parties to use your 
+data, so that you can be provided with information about unrelated goods and 
+services which we consider may be of interest to you. We or they may contact you 
+about these goods and services by any of the methods that you consented at the 
+time your information was collected.<br>
+Please be advised that we do not reveal information about identifiable 
+individuals to our advertisers but we may, on occasion, provide them with 
+aggregate statistical information about our visitors.<br>
+<br>
+<b>Storing Your Personal Data</b></p>
+<p>Data that is provided to us is stored on our secure servers. Details relating 
+to any transactions entered into on our site will be encrypted to ensure its 
+safety.<br>
+The transmission of information via the internet is not completely secure and 
+therefore we cannot guarantee the security of data sent to us electronically and 
+transmission of such data is therefore entirely at your own risk. Where we have 
+given you (or where you have chosen) a password so that you can access certain 
+parts of our site, you are responsible for keeping this password confidential.<br>
+<br>
+<b>Disclosing Your Information</b></p>
+<p>Where applicable, we may disclose your personal information to any member of 
+our group. This includes, where applicable, our subsidiaries, our holding 
+company and its other subsidiaries (if any).<br>
+We may also disclose your personal information to third parties:<br>
+Where we sell any or all of our business and/or our assets to a third party.<br>
+Where we are legally required to disclose your information.<br>
+To assist fraud protection and minimize credit risk.<br>
+<br>
+<b>Third Party Links</b></p>
+<p>You mind find links to third party websites on our website. These websites 
+should have their own privacy policies which you should check. We do not accept 
+any responsibility or liability for their policies whatsoever as we have no 
+control over them.</p>
+<p>As you would expect of us, we will take all reasonable measures to ensure 
+that the personal information you provide through our website is held and 
+managed securely. However, there is not a lot that you can do to help keep your 
+personal information safe – not just on our website, but whenever you provide 
+information online.<br>
+Here are some simple ways you can improve the security of you information:</p>
+<ul>
+  <li>Use a secure browser</li>
+  <li>Encryption is the process through which sensitive information is 
+  scrambled before it is transmitted so that it remains private even if it is 
+  intercepted. 128-bit versions support it.</li>
+  <li>Security upgrades for some older browser versions are available. We 
+  recommend that you contact your preferred browser provider for further 
+  information.</li>
+</ul>
+<p>Viabox.com is fully PCI Compliant and runs on a full secure https 
+platform.<br>
+Viabox also use enterprise strength security devices to protect 
+your information.<br>
+&nbsp;</p>                      </td></tr>
+                  </tbody></table>            
+            </div>
+          
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="statistic">
+    <div class="holder">
+      <div class="stat-container">
+        <span class="title">What people are buying</span>
+        <div class="man">
+          <ul>
+            <li><span class="btn" style="width:84%;">Electronics &amp; Computers</span> 77%</li>
+						<li><span class="btn" style="width:71%;">Clothes</span> 68%</li>
+						<li><span class="btn" style="width:58%;">Shoes &amp; Accesories</span> 59%</li>
+						<li><span class="btn" style="width:51%;">Books, Movies &amp; Music</span> 52%</li>
+						<li><span class="btn" style="width:43%;">Sports &amp; Outdoors</span> 44%</li>
+						<li><span class="btn" style="width:38%;">Office Supplies</span> 39%</li>
+						<li><span class="btn" style="width:34%;">Toys &amp; Games</span> 35%</li>
+						<li><span class="btn" style="width:31%;"><span style="font-size:9px;">Auto Parts &amp; Industrial</span></span> 31%</li>
+						<li><span class="btn" style="width:24%;">Collectibles</span> 26%</li>
+						<li><span class="btn" style="width:22%;"><span style="font-size:9px;">Home &amp; Garden</span></span> 18%</li>
+          </ul>
+        </div>
+        <div class="woman">
+          <ul>
+            <li><span class="btn" style="width:84%;">Electronics &amp; Computers</span> 77%</li>
+            <li><span class="btn" style="width:71%;">Clothes</span> 68%</li>
+            <li><span class="btn" style="width:58%;">Shoes &amp; Accesories</span> 59%</li>
+            <li><span class="btn" style="width:51%;">Books, Movies &amp; Music</span> 52%</li>
+            <li><span class="btn" style="width:43%;">Sports &amp; Outdoors</span> 44%</li>
+            <li><span class="btn" style="width:38%;">Office Supplies</span> 39%</li>
+            <li><span class="btn" style="width:34%;">Toys &amp; Games</span> 35%</li>
+            <li><span class="btn" style="width:31%;"><span style="font-size:9px;">Auto Parts &amp; Industrial</span></span> 31%</li>
+            <li><span class="btn" style="width:24%;">Collectibles</span> 26%</li>
+            <li><span class="btn" style="width:22%;"><span style="font-size:9px;">Home &amp; Garden</span></span> 18%</li>
+          </ul>
+        </div>
+      </div>
+      <div class="col">
+        <div class="members"><strong>100,000</strong>members</div>
+        <div class="customers"><span class="txt">Customers in</span><strong>220</strong>countries</div>
+      </div>
+    </div>
+  </div>
+  <div id="footer">
+
+  <script type="">
+    $(document).ready(function() {
+  
+        setTimeout(function() {
+          $.get("get_tweets.php", function(data) {
+            $('#tweets-box').html(data);
+          });           
+        }
+        , 1000);
+    });
+    
+  </script>  
+
+    <div class="top-row">      <strong class="ttl">SHOP ANY US ONLINE STORE:</strong>
+      <div class="logos">
+        <div class="scrollable-area-wrapper noscroll-horizontal" style="width: 913px; height: 76px;"><div class="scrollable-area hscrollable" style="position: relative; overflow: hidden; width: 913px; height: 68px;">        <ul>          <li><a href="#"><img src="images/amazon2-logo.png" alt="amazon"><img class="over" src="images/amazon2-logo-over.png" alt="amazon"></a></li>          <li><a href="#"><img src="images/walmart2-logo.png" alt="walmart"><img class="over" src="images/walmart2-logo-over.png" alt="walmart"></a></li>          <li><a href="#"><img src="images/kohls-logo.png" alt="kohl's"><img class="over" src="images/kohls-logo-over.png" alt="kohl's"></a></li>          <li><a href="#"><img src="images/ebay2-logo.png" alt="ebay"><img class="over" src="images/ebay2-logo-over.png" alt="ebay"></a></li>          <li><a href="#"><img src="images/best-buy-logo.png" alt="best buy"><img class="over" src="images/best-buy-logo-over.png" alt="best buy"></a></li>                  </ul>
+        </div><div class="hscrollbar" style="width: 913px; display: none;"><div class="hscroll-left btn-disabled"></div><div class="hscroll-line" style="position: relative; width: 320px;"><div class="hscroll-slider" style="position: absolute; width: 0px; left: 0px;"><div class="scroll-bar-left"></div><div class="scroll-bar-right"></div></div></div><div class="hscroll-right btn-disabled"></div></div></div>      </div>    </div>
+    <div class="middle-row">
+      <div class="holder">
+        <div class="left-col">
+          <span class="ttl">PAYMENT OPTIONS:</span>
+          <ul class="cards">            <li><a href="#"><img src="images/visa-ico.png" alt="visa"><img class="over" src="images/visa-ico-over.png" alt="visa"></a></li>            <li><a href="#"><img src="images/am-ex-ico.png" alt="american express"><img class="over" src="images/am-ex-ico-over.png" alt="american express"></a></li>            <li><a href="#"><img src="images/master-ico.png" alt="master card"><img class="over" src="images/master-ico-over.png" alt="master card"></a></li>            <li><a href="#"><img src="images/paypal-ico.png" alt="paypal"><img class="over" src="images/paypal-ico-over.png" alt="paypal"></a></li>          </ul>
+          <a href="#" class="norton-logo-static">norton secured</a>
+          <span class="ttl">PARTNERS:</span>
+          <ul class="partners">            <li><a href="#"><img src="images/fedex-ico.png" alt="fedex"><img class="over" src="images/fedex-ico-over.png" alt="fedex"></a></li>            <li><a href="#"><img src="images/usps-ico.png" alt="us postal service"><img class="over" src="images/usps-ico-over.png" alt="us postal service"></a></li>            <li><a href="#"><img src="images/dhl-ico.png" alt="dhl"><img class="over" src="images/dhl-ico-over.png" alt="dhl"></a></li>            <li><a href="#"><img src="images/ups-ico.png" alt="ups"><img class="over" src="images/ups-ico-over.png" alt="ups"></a></li>          </ul>
+        </div>
+        <a href="" class="norton-logo">norton secured</a>
+        <div class="twitter-box">
+          <ul id="tweets-box">
+            <p>loading...</p>
+          </ul>
+
+          <a href="https://twitter.com/viaddress" class="twitter-follow-button" data-show-count="true" data-dnt="true"></a>
+<script language="JavaScript" type="text/javascript">
+
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+
+</script>
+          
+        </div>        
+        
+      </div>
+    </div>
+    <div class="bottom-row">      
+      <div class="box">
+        <div class="c1">
+          <ul>
+            <li><a href="http://www.viabox.com">Home</a></li>
+            <li><a href="about-us">About Us</a></li>
+            <li><a href="support">Contact Us</a></li>
+            <li><a href="http://www.viaddressreviews.com" target="_blank">Reviews</a></li>
+            <li><a href="terms_conditions">Terms &amp; Conditions</a></li>
+            <li><a href="privacy">Privacy Policy</a></li>
+          </ul>
+          <span class="copy">© 2013 Viabox. All Rights Reserved.</span>
+        </div>
+      </div>
+      <div class="logo-box">
+        <a href="" class="footer-logo"><img src="images/logo02.png" alt="viabox"></a>
+        <span class="txt">The Global Leader in Package Forwarding </span>
+      </div>
+      <ul class="social">        
+        <li><a href="http://www.facebook.com/viabox" target="_blank" class="facebook">facebook</a></li>        
+        <li><a href="http://www.linkedin.com/company/viabox" target="_blank" class="linkedin">linkedin</a></li>        
+        <li><a href="http://www.twitter.com/viabox" target="_blank" class="twitter">twitter</a></li>        
+        <li><a href="http://www.twitter.com/statuses/user_timeline/42590669.rss" target="_blank" class="rss">rss</a></li>        
+        <li><a href="http://www.pinterest.com/viabox" target="_blank" class="twitter2">pinterest</a></li>        
+        <li><a href="http://www.vimeo.com/user3204844" target="_blank" class="vimeo">vimeo</a></li>        
+        <li><a href="http://www.youtube.com/viaddress" target="_blank" class="youtube">youtube</a></li>        
+        <li><a href="http://www.instagram.com/viabox" target="_blank" class="amazon">instagram</a></li>      
+      </ul>
+    </div>
+  </div>
+  
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-17839786-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+    
+
+</body></html>
