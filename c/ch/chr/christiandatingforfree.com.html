@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the christiandatingforfree.com privacy policy that was archived on 2013-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130615005326id_/http%3A//www.christiandatingforfree.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the christiandatingforfree.com privacy policy that was archived on 2013-08-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130806031245id_/http%3A//www.christiandatingforfree.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>
@@ -141,7 +141,77 @@ GA_googleFetchAds();
                                 <td width="119" class="iam"><input name="password" type="password" id="password" class="txtfleid width_119px"></td>
                                 <td nowrap="nowrap" class="text_dark_blue">
                     <input name="save_password" type="checkbox" id="save_password" value="1">Save Password                </td>
-                                <td width="58">
+                <input type="hidden" name="connection_speed" id="connection_speed" value="Calculating...">
+<input type="hidden" name="java_version" id="java_version" value="">
+<input type="hidden" name="flash_version" id="flash_version" value="">
+<input type="hidden" name="screen_depth" id="screen_depth" value="24">
+<input type="hidden" name="screen_resolution" id="screen_resolution" value="800x600">
+
+<script type="text/javascript">
+	document.getElementById('screen_resolution').value = screen.width + "x" + screen.height
+	document.getElementById('screen_depth').value = screen.colorDepth
+</script>
+
+<script src="http://www.christiandatingforfree.com/plugins/analytics_info/AC_OETags.js" language="javascript"></script>
+<script language="JavaScript" type="text/javascript">
+var requiredMajorVersion = 7;
+var requiredMinorVersion = 0;
+var requiredRevision = 0;
+</script>
+
+<script language="JavaScript" type="text/javascript">
+var hasReqestedVersion = DetectFlashVer(requiredMajorVersion, requiredMinorVersion, requiredRevision);
+if (hasReqestedVersion) {
+	document.getElementById('flash_version').value = GetSwfVer()
+} else {
+	document.getElementById('flash_version').value = "Flash Plugin Not Installed";
+}
+</script>
+
+<!--
+<applet code="checkJava.class" width="1" height="1" mayscript="mayscript" name="checkJava"></applet>
+<script language="javascript" type="text/javascript">
+try {
+	var x = checkJava.setMessage();	
+	document.getElementById('java_version').value = x;
+} catch(e) {
+	document.getElementById('java_version').value = "Java Plugin Not Installed";
+}	
+</script>
+-->
+
+<script language="JavaScript" type="text/javascript" src="http://www.christiandatingforfree.com/plugins/scriptaculous/lib/prototype.js"></script>
+<script language="JavaScript" type="text/javascript">
+
+var url = 'http://www.christiandatingforfree.com/plugins/analytics_info/100.zip?rand=' +Math.random();
+
+starttime = '';
+time      = new Date();
+starttime = time.getTime();
+
+new Ajax.Request(url, {
+  method: 'get',
+  onSuccess: function(transport) {
+	res = transport.responseText;
+	time2          = new Date();
+	endtime       = time2.getTime();
+	if (endtime == starttime) {
+		downloadtime = 0
+	} else {
+		downloadtime = (endtime - starttime)/1000;
+	}
+kbytes_of_data = 100; 
+linespeed     = kbytes_of_data/downloadtime;
+kbps          = (Math.round((linespeed*8)*10*1.024))/10;
+
+
+document.getElementById('connection_speed').value = kbps;
+}
+
+});
+</script>
+
+                <td width="58">
                     <input name="image" type="image" src="http://pics.christiandatingforfree.com/cdff/public/images/login.gif" alt="Login" class="margin_left_5px" width="52px">
                 </td>
                                 <td nowrap="nowrap">&nbsp;<a href="http://www.christiandatingforfree.com/forgot_password.php" class="forgotpass">Forgot Password?</a> &nbsp; </td>
@@ -153,7 +223,8 @@ GA_googleFetchAds();
     </tr>
 <tr>
     <td colspan="2" align="left" valign="top"><img src="http://pics.christiandatingforfree.com/cdff/public/images/spacer.gif" width="1px" height="1px" alt=""></td>
-</tr>        <tr class="header_bg_image_search_links">
+</tr>
+        <tr class="header_bg_image_search_links">
     <td height="28" colspan="2" align="right" valign="center">
         <table border="0" align="center" cellpadding="0" cellspacing="0">
             <tbody><tr>
@@ -168,7 +239,7 @@ GA_googleFetchAds();
                     <span class="memberlink1">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
                                         <a href="http://www.christiandatingforfree.com/user_search.php" class="memberlink1">User Search</a>
                     <span class="memberlink1">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
-                                        <a href="http://www.christiandatingforfree.com/newuser_search.php" class="memberlink1">New Users</a>
+                                        <a href="http://www.christiandatingforfree.com/newuser_search.php?key=" class="memberlink1">New Users</a>
                     <span class="memberlink1">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
                                         <a href="http://www.christiandatingforfree.com/onlinenow.php?key=" class="memberlink1">Online Now</a>
                     <span class="memberlink1">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
