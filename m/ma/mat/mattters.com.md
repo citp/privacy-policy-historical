@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mattters.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920011639id_/http%3A//mattters.com/-/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mattters.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806053659id_/http%3A//mattters.com/help/privacy) for the most accurate reproduction.*
 
-# Mattters - Follow Your Interests
+# Privacy - Mattters: Start enjoying the news...
 
-[ ](http://mattters.com/)
+## Mattters Privacy Policy
 
 Mattters is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Mattters Web site and governs data collection and usage. By using the Mattters website, you consent to the data practices described in this statement. Unauthorized use of this system is prohibited. Usage may be subject to security testing and monitoring. Misuse is subject to criminal prosecution; and no expectation of privacy except as otherwise provided by applicable privacy laws.
 
@@ -28,7 +28,7 @@ Mattters Web sites will disclose your personal information, without notice, only
 
 Use of Cookies
 
-The Mattters Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+The Mattters website uses "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
 One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Mattters pages, or register with Mattters site or services, a cookie helps Mattters to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, favorite pages, and so on. When you return to the same Mattters Web site, the information you previously provided can be retrieved, so you can easily use the Mattters features that you customized.
 
