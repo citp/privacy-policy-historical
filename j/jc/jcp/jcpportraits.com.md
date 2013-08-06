@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jcpportraits.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430233724id_/http%3A//www.jcpportraits.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jcpportraits.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806104644id_/http%3A//www.jcpportraits.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy | jcpenney portrait studios
 
@@ -31,13 +31,13 @@ A "cookie" is a small data file stored by your web browser on your computer's ha
 
 **If you do not wish to receive promotional information as a result of using the jcpportraits.com Website, what should you do?**
 
-Our goal is to inform you about our products and services, including special promotions and coupons. We may contact you by mail or e-mail or telephone to inform you of offers. However, if you are contacted and do not wish to receive further information or contacts please contact us as follows:
+Our goal is to inform you about our products and services, including special promotions and coupons. We may contact you by mail or e-mail or telephone to inform you of offers. However, if you are contacted and do not wish to receive further information , you may contact us at the phone number listed below or for email: select the unsubscribe at the bottom of the email.
 
-  * Call us at 1-800-59-76453
+  * jcp portraits 1-800-597-6453
 
 
 
-We will act promptly to honor your request. However, even if we remove your information from use in our marketing programs, you may still receive offers and other promotional materials from Affiliated Companies, or from outside vendors or service providers who obtained your information before we received your request or from a source other than jcpportraits.com.
+We will act promptly to honor your request. Please allow 7-10 business days for your record to update in our system. However, even if we remove your information from use in our marketing programs, you may still receive offers and other promotional materials from Affiliated Companies, or from outside vendors or service providers who obtained your information before we received your request or from a source other than jcpportraits.com.
 
 ### **Email Communications**
 
