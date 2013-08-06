@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adjector.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602043037id_/http%3A//adjector.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adjector.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806071726id_/http%3A//adjector.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # AD Jector - Home
 
