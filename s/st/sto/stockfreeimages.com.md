@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stockfreeimages.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621083644id_/http%3A//www.stockfreeimages.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockfreeimages.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806175820id_/http%3A//www.stockfreeimages.com/privacy.html) for the most accurate reproduction.*
 
 # Free Stock Photos & Images | StockFreeImages.com
 
