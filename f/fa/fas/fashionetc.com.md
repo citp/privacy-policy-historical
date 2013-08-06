@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashionetc.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608022601id_/http%3A//www.fashionetc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionetc.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806171538id_/http%3A//fashionetc.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - FashionEtc.com
 
@@ -47,9 +47,10 @@ If you would like to contact Fashion Etc for any reason regarding our privacy pr
 
 Fashion Etc LLC  
 Information Privacy Manager  
-155 East 55th St., Ste. 6H  
-New York, NY 10022   
-e-mail: [ ](mailto:%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'mailto:';%20var%20suffix%20=%20'';%20var%20attribs%20=%20'';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy8978%20=%20'privacy'%20+%20'@';%20addy8978%20=%20addy8978%20+%20'fashionetc'%20+%20'.'%20+%20'com';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20addy8978%20+%20suffix%20+%20'\\''%20+%20attribs%20+%20'%3E'%20\);%20document.write\(%20addy8978%20\);%20document.write\(%20'%3C\\/a%3E'%20\);%20//--%3E%20%3C/script%3E%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3Cspan%20style=\\'display:%20none;\\'%3E'%20\);%20//--%3E%20%3C/script%3EThis%20e-mail%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3C/'%20\);%20document.write\(%20'span%3E'%20\);%20//--%3E%20%3C/script%3E "Privacy")[privacy@fashionetc.com](mailto:privacy@fashionetc.com)
+1489 Marine Dr., Ste. 804  
+West Vancouver, BC V7T 1B8  
+e-mail: [ ](mailto:%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'mailto:';%20var%20suffix%20=%20'';%20var%20attribs%20=%20'';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy65706%20=%20'privacy'%20+%20'@';%20addy65706%20=%20addy65706%20+%20'fashionetc'%20+%20'.'%20+%20'com';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20addy65706%20+%20suffix%20+%20'\\''%20+%20attribs%20+%20'%3E'%20\);%20document.write\(%20addy65706%20\);%20document.write\(%20'%3C\\/a%3E'%20\);%20//--%3E%20%3C/script%3E%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3Cspan%20style=\\'display:%20none;\\'%3E'%20\);%20//--%3E%20%3C/script%3EThis%20e-mail%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3C/'%20\);%20document.write\(%20'span%3E'%20\);%20//--%3E%20%3C/script%3E "Privacy")[privacy@fashionetc.com](mailto:privacy@fashionetc.com)  
+
 
 Changes To The Privacy Policy  
 This Privacy Policy is effective as of December 15, 2010. We reserve the right to change this Privacy Policy at any time by notifying users. We may notify you by posting a notice on the Site or by contacting you through electronic mail or other means. Your continued use of the Site following the posting of changes to this Privacy Policy means you accept those changes.
