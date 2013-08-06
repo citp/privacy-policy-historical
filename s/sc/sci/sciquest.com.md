@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sciquest.com privacy policy that was archived on 2013-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130122095112id_/http%3A//www.sciquest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciquest.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806134611id_/http%3A//www.sciquest.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | SciQuest
 
@@ -14,10 +14,12 @@ SciQuest does not share personal information with third-parties and does not sto
 
 SciQuest reserves the right to edit or delete any comments submitted to the [Open Kitchen blog](https://web.archive.org/blog/ "Open Kitchen") without notice that it determines to be inappropriate, including the following:
 
-1\. Comments deemed to be spam or questionable spam  
-2\. Comments including profanity  
-3\. Comments containing language or concepts that could be deemed offensive  
-4\. Comments that attack a person individually
+  1. Comments deemed to be spam or questionable spam
+  2. Comments including profanity
+  3. Comments containing language or concepts that could be deemed offensive
+  4. Comments that attack a person individually
+
+
 
 **Terms and Conditions**
 
