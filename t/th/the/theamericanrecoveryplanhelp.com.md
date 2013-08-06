@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theamericanrecoveryplanhelp.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117231958id_/http%3A//www.theamericanrecoveryplanhelp.com/Privacy-Policy/1_186_menu%3D1_object%3D354.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theamericanrecoveryplanhelp.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806222509id_/http%3A//www.theamericanrecoveryplanhelp.com/Privacy-Policy/1_186_menu%3D1_object%3D354.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - The American Recovery Plan Help
 
