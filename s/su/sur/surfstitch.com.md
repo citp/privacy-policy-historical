@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surfstitch.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429153043id_/http%3A//www.surfstitch.com/info/footer_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surfstitch.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806202613id_/http%3A//www.surfstitch.com/info/footer_privacy_policy) for the most accurate reproduction.*
 
 # SURFSTITCH - AUSTRALIA'S #1 FOR SURF & FASHION | Boardshorts, Bikinis, Tees, Dresses & Surfing Gear
 
@@ -36,6 +36,8 @@ Please be careful and responsible whenever you are online.
 All of the information SurfStitch collects, both what you tell us and what we collect through the use of cookies, is "aggregated" \-- meaning that the information from many users is grouped together in a way that does not disclose the personal information of any particular user. We may use this aggregated information to evaluate which products and services are successful and which ones are not, and in order to evaluate which new services we should make available on SurfStitch. We may use only the anonymous click stream data to help our advertisers deliver better-targeted advertisements.
 
 SurfStitch will not disclose any information about any individual without the individual's consent, except to comply with applicable law or valid legal process. There may be cases in which some of your personal information may be used by SurfStitch to target e-commerce promotions and telemarketing activities. In addition, it may be shared with third parties who assist SurfStitch in producing its Web sites or provide a service to SurfStitch.com's users.
+
+When you register as a user or check out as a guest on SurfStitch's main and/or partner websites, we may also use your personal information to send you marketing and/or promotional materials from time to time. You can unsubscribe from marketing information at any time by using the unsubscribe function within the electronic marketing material.
 
 ### Contacting This Website
 
@@ -88,15 +90,3 @@ SurfStitch's technology department conducts frequent site security audits and em
 SurfStitch actively seeks to comply with Australia's privacy laws. We aim to ensure that our privacy policy continually meets all legal requirements in order to maintain and honour your privacy.
 
 For more information about the National Privacy Principles, see the Federal Privacy Commissioner's website: [http://www.privacy.gov.au](http://www.privacy.gov.au/)
-
-WHAT'S IN STORE | SHIPPING & RETURNS | HOW CAN WE HELP? | FURTHER INFORMATION  
----|---|---|---  
-[Mens Clothing](https://web.archive.org/category/mens-clothing) | [Footwear](https://web.archive.org/category/footwear) | [Gift Wrapping](https://web.archive.org/info/Gift_Wrapping) | [Help / Contact Us](https://web.archive.org/info/help) | [Promotions](https://web.archive.org/info/footer_promotions) | [Testimonials](https://web.archive.org/info/Testimonials)  
----|---|---|---|---|---  
-[Womens Clothing](https://web.archive.org/category/womens-clothing) | [Bags](https://web.archive.org/category/bags) | [Free Australian Shipping](https://web.archive.org/info/Australian_Delivery) | [My Account](https://www.surfstitch.com/myAccount/myAccountLogin.jsp) | [Gift Card](https://web.archive.org/gift/buyGiftCertificate.jsp) | [Affiliate Program](https://web.archive.org/info/Affiliate_Program)  
-[Kids Clothing](https://web.archive.org/category/kids-clothing) | [Watches](https://web.archive.org/category/watches-online) | [Express New Zealand Shipping](https://web.archive.org/info/New_Zealand_Delivery) | [About Us](https://web.archive.org/info/footer_about_us) | [Student Discount](https://web.archive.org/info/uni_days) | [Partners](https://web.archive.org/info/Partners)  
-[Accessories](https://web.archive.org/category/accessories) | [Wetsuits](https://web.archive.org/category/wetsuits) | [Express International Shipping](https://web.archive.org/info/International_Delivery) | [Privacy Policy](https://web.archive.org/info/footer_privacy_policy) | [Facebook](http://www.facebook.com/surfstitchcom?sk=app_208195102528120&app_data=dlt) | [Site Map](https://web.archive.org/info/footer_site_map)  
-[Sale](https://web.archive.org/category/sale) | [Surf Gear](https://web.archive.org/category/surf) | [Australian Returns](https://web.archive.org/info/Australian_Returns) | [Terms and Conditions](https://web.archive.org/info/footer_terms_and_conditions) | [Twitter](https://twitter.com/#!/surfstitch) | [Look Book](https://web.archive.org/info/swim_city)  
-[Brands A-Z](https://web.archive.org/brand) | [Snow Gear](https://web.archive.org/category/snow) | [International Returns](https://web.archive.org/info/International_Returns) | [Careers](http://careers.surfstitch.com/) | [Google +](https://plus.google.com/107277084782174639798/posts) | [This and That Fashion Blog](http://blog.surfstitch.com/)  
-  
-© Copyright SurfStitch 2013 All rights reserved
