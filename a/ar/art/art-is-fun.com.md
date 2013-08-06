@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the art-is-fun.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509140640id_/http%3A//www.art-is-fun.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the art-is-fun.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806125404id_/http%3A//www.art-is-fun.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: Art is fun
 
@@ -58,6 +58,17 @@ Your use of this site indicates acceptance of this privacy policy.
 **Cheers!**
 
   
+
+
+[](http://www.amazon.com/gp/product/1440322163/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1440322163&linkCode=as2&tag=arisfu-20)
+
+You can pre-order **Draw Groovy** from these booksellers:
+
+  * **United States:** [Amazon](http://www.amazon.com/gp/product/1440322163/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1440322163&linkCode=as2&tag=arisfu-20) \- Prime or FREE Super Saver Shipping
+  * **International:** [Book Depository](http://www.bookdepository.com/Draw-Groovy-Thaneeya-Mcardle/9781440322167/?a_aid=Artisfun) \- FREE Worldwide Shipping!
+
+
+
 [](http://www.art-is-fun.com/Blick-Art-Materials)   
   
 [](http://community.art-is-fun.com/) [](http://www.art-is-fun.com/learn-to-draw.html)
