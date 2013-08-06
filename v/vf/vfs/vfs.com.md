@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vfs.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602050122id_/http%3A//vfs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vfs.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806114246id_/http%3A//vfs.com/privacy) for the most accurate reproduction.*
 
 # Vancouver Film School: Production, Animation, Game Design, Acting and more
 
