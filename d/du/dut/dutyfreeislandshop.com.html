@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dutyfreeislandshop.com privacy policy that was archived on 2013-01-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130121112330id_/http%3A//www.dutyfreeislandshop.com/Terms_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dutyfreeislandshop.com privacy policy that was archived on 2013-08-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130806174136id_/http%3A//www.dutyfreeislandshop.com/Terms_privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -29,6 +29,7 @@
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js"></script>
 <link type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/themes/base/jquery-ui.css" rel="stylesheet">
+<link type="text/css" href="/a/c/default.css" rel="stylesheet">
 
 
 <script type="text/javascript">
@@ -44,8 +45,31 @@
     var PageText_843 = "Subtotal";
     var PageText_844 = "items in cart";
 </script>
+<script type="text/javascript" src="/a/j/volusion.js?6.40.5.219"></script>
+<script type="text/javascript">
+    (function ($) {
+        volusion.ready(function () {
+            if (volusion.cart.isObservingCount()) {
+                var ts = new Date().getTime();
 
-<script type="text/javascript" src="/a/j/javascripts.js?6_5_196"></script>
+                $.getJSON('/ajaxcart.asp?cachebust=' + ts, function (data) {
+                    var quantityTotal = 0;
+                    $.each(data.Products, function (key, val) {
+                        if (val.IsProduct === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        } else if (val.IsAccessory === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        }
+                    });
+                    quantityTotal = quantityTotal || '0';
+                    volusion.cart.itemCount(quantityTotal);
+                });
+
+            }
+        });
+    } (jQuery));
+</script>
+<script type="text/javascript" src="/a/j/javascripts.js?6_5_6.40.5.219"></script>
 
 <script type="text/javascript">
 	var Config_Search_Auto_Complete = false;
@@ -131,11 +155,16 @@ function googleTranslateElementInit() {
       <td valign="top" id="left_nav">        
 
       <div class="newest_link">
-           <a target="_blank" href="http://www.facebook.com/thedutyfreeisland">
+           <a target="_blank" href="http://www.facebook.com/dutyfreeisland">
                 <img src="http://www.thedutyfreeisland.com/imgs/newest_models.jpg" height="60' width=" 180"="">
            </a>
       </div>
 
+      <div class="on_sale">
+           <a href="http://www.dutyfreeislandshop.com/SearchResults.asp?Cat=535">
+                <img src="http://www.thedutyfreeisland.com/imgs/on_sale.jpg" height="60' width=" 180"="">
+           </a>
+      </div>
 <!---------------------- UL LAYOUT ---------------------->
         <h3 id="Menu1_Title">Citizen</h3>
         <div class="menu" id="display_menu_1">
@@ -208,6 +237,9 @@ function mClk1(src, popup)
 </li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
 	<a href="/SearchResults.asp?Cat=131" title="">Other Citizen Watches</a>
+</li>
+<li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
+	<a href="/SearchResults.asp?Cat=537" title="">Citizen Divers</a>
 </li>
 </ul>
 </div>
@@ -314,7 +346,7 @@ function mClk4(src, popup)
 </ul>
 </div>
 
-        <h3 id="Menu5_Title">Ed Hardy</h3>
+        <h3 id="Menu5_Title">Oakley</h3>
         <div class="menu" id="display_menu_5">
 <script type="text/javascript">var breadCrumb="||";</script>
 <script type="text/javascript">
@@ -327,13 +359,7 @@ function mClk5(src, popup)
 </script>
 <ul>
 <li class="nav" onmouseover="mOvr5(this);" onmouseout="mOut5(this);" onclick="mClk5(this);">
-	<a href="/SearchResults.asp?Cat=169" title="">All Ed Hardy Watches</a>
-</li>
-<li class="nav" onmouseover="mOvr5(this);" onmouseout="mOut5(this);" onclick="mClk5(this);">
-	<a href="/SearchResults.asp?Cat=164" title="">Ed Hardy Gents Watches</a>
-</li>
-<li class="nav" onmouseover="mOvr5(this);" onmouseout="mOut5(this);" onclick="mClk5(this);">
-	<a href="/SearchResults.asp?Cat=163" title="">Ed Hardy Ladies Watches</a>
+	<a href="/SearchResults.asp?Cat=722" title="">All Oakley</a>
 </li>
 </ul>
 </div>
@@ -362,7 +388,7 @@ function mClk6(src, popup)
 </ul>
 </div>
 
-        <h3 id="Menu7_Title">Fossil</h3>
+        <h3 id="Menu7_Title">Ray-Ban</h3>
         <div class="menu" id="display_menu_7">
 <script type="text/javascript">var breadCrumb="||";</script>
 <script type="text/javascript">
@@ -375,13 +401,70 @@ function mClk7(src, popup)
 </script>
 <ul>
 <li class="nav" onmouseover="mOvr7(this);" onmouseout="mOut7(this);" onclick="mClk7(this);">
-	<a href="/SearchResults.asp?Cat=167" title="">All Fossil Watches</a>
+	<a href="/SearchResults.asp?Cat=698" title="">All Ray-Ban</a>
 </li>
 <li class="nav" onmouseover="mOvr7(this);" onmouseout="mOut7(this);" onclick="mClk7(this);">
-	<a href="/SearchResults.asp?Cat=162" title="">Fossil Gents Watches</a>
+	<a href="/SearchResults.asp?Cat=697" title="">New Wayfarers RB2132</a>
 </li>
 <li class="nav" onmouseover="mOvr7(this);" onmouseout="mOut7(this);" onclick="mClk7(this);">
-	<a href="/SearchResults.asp?Cat=161" title="">Fossil Ladies Watches</a>
+	<a href="/SearchResults.asp?Cat=700" title="">Original Wayfarers RB2140</a>
+</li>
+<li class="nav" onmouseover="mOvr7(this);" onmouseout="mOut7(this);" onclick="mClk7(this);">
+	<a href="/SearchResults.asp?Cat=702" title="">Aviator Large Metal RB3025</a>
+</li>
+<li class="nav" onmouseover="mOvr7(this);" onmouseout="mOut7(this);" onclick="mClk7(this);">
+	<a href="/SearchResults.asp?Cat=703" title="">Aviator Large Metal II RB3026</a>
+</li>
+<li class="nav" onmouseover="mOvr7(this);" onmouseout="mOut7(this);" onclick="mClk7(this);">
+	<a href="/SearchResults.asp?Cat=704" title="">Aviator RB3386</a>
+</li>
+<li class="nav" onmouseover="mOvr7(this);" onmouseout="mOut7(this);" onclick="mClk7(this);">
+	<a href="/SearchResults.asp?Cat=705" title="">Aviator RB3445</a>
+</li>
+<li class="nav" onmouseover="mOvr7(this);" onmouseout="mOut7(this);" onclick="mClk7(this);">
+	<a href="/SearchResults.asp?Cat=706" title="">Aviator RB3449</a>
+</li>
+<li class="nav" onmouseover="mOvr7(this);" onmouseout="mOut7(this);" onclick="mClk7(this);">
+	<a href="/SearchResults.asp?Cat=707" title="">Aviator RB3467</a>
+</li>
+<li class="nav" onmouseover="mOvr7(this);" onmouseout="mOut7(this);" onclick="mClk7(this);">
+	<a href="/SearchResults.asp?Cat=708" title="">Folding Aviator RB3479</a>
+</li>
+<li class="nav" onmouseover="mOvr7(this);" onmouseout="mOut7(this);" onclick="mClk7(this);">
+	<a href="/SearchResults.asp?Cat=709" title="">Collection Sun RB3483</a>
+</li>
+<li class="nav" onmouseover="mOvr7(this);" onmouseout="mOut7(this);" onclick="mClk7(this);">
+	<a href="/SearchResults.asp?Cat=711" title="">Square Aviator RB3497</a>
+</li>
+<li class="nav" onmouseover="mOvr7(this);" onmouseout="mOut7(this);" onclick="mClk7(this);">
+	<a href="/SearchResults.asp?Cat=712" title="">Wrap RB4057</a>
+</li>
+<li class="nav" onmouseover="mOvr7(this);" onmouseout="mOut7(this);" onclick="mClk7(this);">
+	<a href="/SearchResults.asp?Cat=713" title="">Rectangular RB4068</a>
+</li>
+<li class="nav" onmouseover="mOvr7(this);" onmouseout="mOut7(this);" onclick="mClk7(this);">
+	<a href="/SearchResults.asp?Cat=714" title="">Jackie Ohh RB4098</a>
+</li>
+<li class="nav" onmouseover="mOvr7(this);" onmouseout="mOut7(this);" onclick="mClk7(this);">
+	<a href="/SearchResults.asp?Cat=715" title="">Cathy Clubmaster RB4132</a>
+</li>
+<li class="nav" onmouseover="mOvr7(this);" onmouseout="mOut7(this);" onclick="mClk7(this);">
+	<a href="/SearchResults.asp?Cat=716" title="">Oversize RB4147</a>
+</li>
+<li class="nav" onmouseover="mOvr7(this);" onmouseout="mOut7(this);" onclick="mClk7(this);">
+	<a href="/SearchResults.asp?Cat=717" title="">Justin RB4165</a>
+</li>
+<li class="nav" onmouseover="mOvr7(this);" onmouseout="mOut7(this);" onclick="mClk7(this);">
+	<a href="/SearchResults.asp?Cat=718" title="">Wrap RB4173</a>
+</li>
+<li class="nav" onmouseover="mOvr7(this);" onmouseout="mOut7(this);" onclick="mClk7(this);">
+	<a href="/SearchResults.asp?Cat=719" title="">Liteforce RB4179</a>
+</li>
+<li class="nav" onmouseover="mOvr7(this);" onmouseout="mOut7(this);" onclick="mClk7(this);">
+	<a href="/SearchResults.asp?Cat=720" title="">Liteforce Aviator RB4180</a>
+</li>
+<li class="nav" onmouseover="mOvr7(this);" onmouseout="mOut7(this);" onclick="mClk7(this);">
+	<a href="/SearchResults.asp?Cat=721" title="">Square RB4181</a>
 </li>
 </ul>
 </div>
@@ -399,13 +482,7 @@ function mClk8(src, popup)
 </script>
 <ul>
 <li class="nav" onmouseover="mOvr8(this);" onmouseout="mOut8(this);" onclick="mClk8(this);">
-	<a href="/SearchResults.asp?Cat=535" title="">Items on SALE!</a>
-</li>
-<li class="nav" onmouseover="mOvr8(this);" onmouseout="mOut8(this);" onclick="mClk8(this);">
 	<a href="/SearchResults.asp?Cat=185" title="">All Alcatel Phones</a>
-</li>
-<li class="nav" onmouseover="mOvr8(this);" onmouseout="mOut8(this);" onclick="mClk8(this);">
-	<a href="/SearchResults.asp?Cat=181" title="">All Ray-Bans</a>
 </li>
 </ul>
 </div>
@@ -467,7 +544,7 @@ function mClk8(src, popup)
         <li><a href="mailto:orders@thedutyfreeisland.com?subject=Contact Us">Contact Us</a></li>
 		</ul>
 <div class="social_media">
-<div class="fb-like" data-href="http://www.facebook.com/thedutyfreeisland" data-send="true" data-layout="box_count" data-width="75" data-show-faces="false" data-font="trebuchet ms"></div>
+<div class="fb-like" data-href="http://www.facebook.com/dutyfreeisland" data-send="true" data-layout="box_count" data-width="75" data-show-faces="false" data-font="trebuchet ms"></div>
 <!-- Place this tag where you want the +1 button to render -->
 <g:plusone size="tall"></g:plusone>
 
