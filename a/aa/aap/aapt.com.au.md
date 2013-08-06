@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the aapt.com.au privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515073430id_/https%3A//aapt.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aapt.com.au privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807010926id_/https%3A//aapt.com.au/privacy) for the most accurate reproduction.*
 
-# Privacy | AAPT
-
-## AAPT Privacy Awareness Policy
+# AAPT Privacy Awareness Policy | AAPT
 
 AAPT and its related bodies corporate (AAPT) are committed to the privacy of its customer's records and for your information we have documented AAPT's information handling practices below. Please contact AAPT on 135 005 if you wish to discuss any aspect of AAPT's information handling practices.
 
-## Is AAPT bound by the National Privacy Principles or an approved Privacy Code?
+### Is AAPT bound by the National Privacy Principles or an approved Privacy Code?
 
 Companies in the private sector, including AAPT are bound by the Privacy Act 1988. Under the Act, AAPT, or the telecommunications industry, can choose to develop and be bound by a Privacy Code or choose to comply with the National Privacy Principles in the Privacy Act 1988. AAPT has chosen to be bound by the National Privacy Principles.
 
@@ -29,7 +27,7 @@ Companies in the private sector, including AAPT are bound by the Privacy Act 198
 
 
 
-## The kinds of personal information held by AAPT and how it is collected
+### The kinds of personal information held by AAPT and how it is collected
 
 AAPT only collects personal information from you that is necessary for it to perform its functions. The personal information AAPT holds about you will depend on the services you request from AAPT and the use that you make of those services.  
 However, the information may include:
@@ -43,11 +41,11 @@ However, the information may include:
 
 
 
-## What are the consequences of not providing Personal Information
+### What are the consequences of not providing Personal Information
 
 In some cases, AAPT may not be able to provide you with telecommunications services if you refuse to provide AAPT with the Personal Information AAPT needs to perform the service.
 
-## Use of your personal information
+### Use of your personal information
 
 AAPT respects your privacy. As a result, AAPT does not trade, rent or sell your personal information.
 
@@ -69,7 +67,7 @@ In the course of providing a telecommunications service to you, we may also use 
 
 
 
-## Direct marketing
+### Direct marketing
 
 We may also use your information to tell you about our other products and services or bundled offerings, provided by AAPT.
 
@@ -89,7 +87,7 @@ Unless you tell us that you do not want to receive telemarketing calls from us, 
 
 We may do this during the period you are a customer for AAPT and for a reasonable period after you leave us. **Business and wholesale customers can opt out of receiving direct marketing by emailing[information@aapt.com.au](mailto:information@aapt.com.au) and placing "OPT OUT" in the subject line and placing their contact information in the body of the email.**
 
-## How AAPT collects personal information
+### How AAPT collects personal information
 
 For corporate customers, AAPT collects some personal information from company employees, principals or directors of the company in order to provide services to the company.
 
@@ -106,7 +104,7 @@ For individual customers, AAPT collects personal information directly from you w
 
 
 
-## Contracting out services and disclosures
+### Contracting out services and disclosures
 
 AAPT contracts out some services such as mailing, credit checking, provisioning, verification of sales and fault fixing to external providers. AAPT may disclose your personal information to these organisations but only so that they can provide you with the services AAPT has contracted out.
 
@@ -134,7 +132,7 @@ AAPT may disclose your personal information if required to by law.
 
 At all times, parties to which we contract services or disclose your personal information are either covered by contracts which protect your personal information or are subject to obligations which are substantially similar to the National Privacy Principles.
 
-## Access to personal information
+### Access to personal information
 
 Generally, you have the right to see or obtain a copy of personal information about you that we may hold.
 
@@ -158,15 +156,15 @@ The circumstances in which we may refuse to give you access to personal informat
 
 If you believe that we hold personal information about you that you consider to be inaccurate, incomplete or out of date you should tell us by calling 135 005. In most cases, we will amend any inaccurate, incomplete or out of date information. In some cases it is necessary for us to keep a record of what we know or understand to be correct at a particular time. However, in those circumstances, if you request, we will take reasonable steps to associate with the relevant record of your personal information a statement to the effect that you claim the information is inaccurate, incomplete or out of date. We would ask that you discuss your request with us by calling 135 005.
 
-## Security of your personal information
+### Security of your personal information
 
 AAPT is committed to protecting your privacy and recognises its obligations to take all reasonable steps to protect your personal information from misuse and loss and from unauthorised access, modifications or disclosure both under the Privacy Act 1988 and the Telecommunications Act 1997.
 
-## Security of your information while online
+### Security of your information while online
 
 Our web server is capable of up to 128bit SSL encryption. Note however, that our web server can only chose the highest common level with your browser. If you use older browsers, you may find that it only supports 40bit or 56bit encryption.
 
-## Cookies
+### Cookies
 
 Cookies are small text files that our web server may ask your web browser to store on your machine.
 
@@ -174,27 +172,27 @@ The cookie cannot tell who you are, or determine your personal details, and is n
 
 We do not make use of 3rd party cookies on our website.
 
-## Security of stored information
+### Security of stored information
 
 We take physical and electronic measures to secure your information. We store your personal information in password-protected servers that are in a restricted and monitored area. Access to this information is limited.
 
 You also have a role in security of your personal information in some cases. For example, if you have been given access to our "Your Account", where you may pay your bill, look up call information and so on, it is your responsibility to protect your own personal access password.
 
-## Other websites
+### Other websites
 
 Some of our websites contain links to other, external websites. The AAPT group of companies are not responsible for content or privacy policies websites that we do not want to operate.
 
-## Website access logs
+### Website access logs
 
 All accesses to pages on our websites are "logged". The sort of information contained in these logs cannot easily identify you personally, but instead contains such things as a list of the pages accessed, and the sort of browser used.
 
 The information is used to check for attempts at "hacking", or other fraudulent activity, to indicate missing pages or other web server problems. It is periodically summarised to provide general statistics such as the number of people viewing particular parts of the site.
 
-## Changes to this Privacy Awareness Policy
+### Changes to this Privacy Awareness Policy
 
 From time to time, it may be necessary for us to review our Privacy Awareness Policy. We reserve the right to amend our Privacy Awareness Policy at any time and to notify you by posting an updated version on the AAPT website aapt.com.au
 
-## Privacy Complaints
+### Privacy Complaints
 
 You can raise any privacy related concern or complaint about breaches of your Privacy in writing or by phone to:
 
@@ -203,7 +201,7 @@ AAPT Limited
 GPO Box 7041  
 Sydney NSW 2001
 
-## Organisational Details
+### Organisational Details
 
 **Name:**  
 AAPT Limited  
@@ -216,8 +214,7 @@ Sydney NSW 2000
 
 **Postal Address:**  
 GPO Box 7041  
-Sydney NSW 2001  
- 
+Sydney NSW 2001
 
 **Telephone Numbers:**  
 Telephone: (02) 9009 9009  
