@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the allthedeals.com.au privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509060831id_/http%3A//www.allthedeals.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allthedeals.com.au privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806170028id_/http%3A//www.allthedeals.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy governs the manner in which All The Deals PTY LTD collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.allthedeals.com.au](http://www.allthedeals.com.au/) website ("Site"). This privacy policy applies to the Site and all products and services offered by All The Deals PTY LTD.
+This Privacy Policy governs the manner in which All The Deals PTY LTD collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.allthedeals.com.au]() website ("Site"). This privacy policy applies to the Site and all products and services offered by All The Deals PTY LTD.
 
 **Personal identification information**
 
@@ -31,7 +31,7 @@ The email address Users provide will only be used to respond to their inquiries,
 
 
 
-**How we protect your information**
+ **How we protect your information**
 
 We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
@@ -57,15 +57,13 @@ All The Deals PTY LTD has the discretion to update this privacy policy at any ti
 
 **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy and [terms of service](http://www.allthedeals.com.au/terms-and-conditions). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](https://web.archive.org/terms-and-conditions). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[All The Deals PTY LTD](http://www.allthedeals.com.au/)  
-[http://www.allthedeals.com.au](http://www.allthedeals.com.au/)  
-6/69 Reservoir Street, Surry Hills, NSW, 2010.  
-02 8218 2111  
+[All The Deals PTY LTD]()  
+[http://www.allthedeals.com.au]()  
 info@allthedeals.com.au
 
-This document was last updated on November 15, 2011
+This document was last updated on 28th May, 2013
