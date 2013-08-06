@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the russian-girls.tv privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920090639id_/http%3A//russian-girls.tv/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the russian-girls.tv privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806233758id_/http%3A//www.russian-girls.tv/privacy-policy.html) for the most accurate reproduction.*
 
-# Anastasia Date: Protecting your Privacy
+# AnastasiaDate: Protecting your Privacy
 
 We highly value your personal information on Anastasia-Date.com, which is part of AnastasiaDate.com, and would like to bring your attention to the Privacy Policy below. You will find an explanation of what data we collect and how we protect your private details when you register and log into Anastasia-Date.com and use all related features and services on AnastasiaDate.com (“Services”). For purposes of this Privacy Policy, “Anastasia-Date.com” and “AnastasiaDate.com” refer to one and the same entity and may be used interchangeably.
 
