@@ -1,32 +1,35 @@
-> *The following text is extracted and transformed from the techconsumer.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106111044id_/http%3A//www.techconsumer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techconsumer.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806031718id_/http%3A//www.techconsumer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TechConsumer
 
-Privacy Policy for techconsumer.com
+Our team here at Tech Consumer is fully committed to protecting all our users privacy online. By continuing to use this site, you acknowledge that you have read and agree to all terms stated in this policy.
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at techconsumer@gmail.com.
+**General**  
+Our users are free to visit and enjoy our content at no personal obligation; users can exit the site whenever they so choose and do not need to reveal any personal information about themselves. There are some services offered that users may want to take advantage of, and it’s possible they will be required to disclose some personal information, including but not limited to, their first and last name, home address, email address, telephone numbers and birthday. It is also possible that other information will be collected on other applicable pages within our sites. If any users do choose to submit information to us directly or to a third party via our site, they can be assured that we will never sell or lease their personal information except;
 
-At techconsumer.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by techconsumer.com and how it is used.
+  1. for special promotions which may be offered on occasion on our sites in conjunction with a third party service provider in order to fullfill any deals or promotions that the user signed up for
 
-Log Files  
-Like many other Web sites, techconsumer.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-Cookies and Web Beacons  
-techconsumer.com does not use cookies.
+  1. to third party service providers we have partnered with so we may provide services our users requested
 
-DoubleClick DART Cookie  
-.:: Google, as a third party vendor, uses cookies to serve ads on techconsumer.com.  
-.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to techconsumer.com and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
-Google Adsense  
-Amazon
+  1. following a notice posted on a relevant page on our site that collects personal information following a transaction that notifies the user and discloses the purchase
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on techconsumer.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
-techconsumer.com has no access to or control over these cookies that are used by third-party advertisers.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. techconsumer.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+**Cookies**  
+To make our content and site as a whole as relevant as possible, we will collect information that identifies your browser type, user agent, IP address or other information. We will never track and store any personally identifiable information. We are able to do this by placing small files or cookies on your computer when you browser through our sites. Cookies are simply small pieces of data that include an anonymous unique identifier that travels to your browser and is stored on your hard drive. Users have the ability to delete and/or clear cookies whenever they so choose, and cookies in no way cause any damage to a computer. They simply enable a more efficient, relevant browsing experience.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+**Disclosure of User Information for Legal Purposes**  
+Federal and state laws requires that from time to time we may be obligated to share personal user information (review Cookies section) that are pursuant to judicial subpoenas or warrants. We also reserve the right to use and share personal information we collect in order to investigate and prevent any activity deemed illegal, fraudulent or may cause physical harm to another person.
+
+**External Links**  
+Our site’s pages will contain links to third party websites that be be unrelated to the content we have created and own. Please understand that we are not responsible for the privacy practices of any and all third party companies and websites. It is always recommended to review the privacy policies of all websites you enter to ensure you are fully protected under the law.
+
+**Children**  
+Federal law mandates that we cannot collect any personally identifiable information that originates from a child under the age of thirteen without full consent from that child’s parent of guardian. Therefore we will never collect any information if we know or deem the user to be under the age of thirteen.
+
+**Advertising**
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <http://www.networkadvertising.org/managing/opt_out.asp>  
+ 
