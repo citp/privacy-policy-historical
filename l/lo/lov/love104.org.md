@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the love104.org privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111050242id_/http%3A//www.love104.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the love104.org privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806224644id_/http%3A//www.love104.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hindi SMS Shayari - Dil Ki Baat SMS Ke Saath
+
+March 14, 2009
 
 The privacy of our visitors to www.love104.org is important to us.
 
@@ -16,12 +18,4 @@ We also use third party advertisements on www.love104.org to support our site. S
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
-* * *
-
-  
-
-
-> This SMS Shayari was posted by in following Categories: 
-
-  
-
+Comments are closed.
