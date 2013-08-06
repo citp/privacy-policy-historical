@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dartscorner.co.uk privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624170913id_/http%3A//www.dartscorner.co.uk/i3/Privacy/information.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dartscorner.co.uk privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806113951id_/http%3A//www.dartscorner.co.uk/i3/Privacy/information.html) for the most accurate reproduction.*
 
 # Darts Corner - The UK Darts Superstore
 
@@ -105,7 +105,7 @@ Bolton, Lancashire BL1 2TE
 United Kingdom   
 www.dartscorner.co.uk  
 sales@dartscorner.co.uk  
-+(44) 1204 811000
++(44) 1204 384400
 
 If at any time you have a cause that needs to be disputed please fill out the 
 
