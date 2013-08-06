@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumerincentiverewards.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506051848id_/http%3A//consumerincentiverewards.com/info.htm%3Ftp%3Dprivacy%26promo_name%3D2809name%26catalog_id%3D14880%26gift%3D71) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumerincentiverewards.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806050214id_/http%3A//consumerincentiverewards.com/info.htm%3Ftp%3Dprivacy%26promo_name%3D2809name%26catalog_id%3D14880%26gift%3D71) for the most accurate reproduction.*
 
 # Consumerincentiverewards
 
