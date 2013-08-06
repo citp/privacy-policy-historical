@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mattycollector.com privacy policy that was archived on 2013-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130328091326id_/http%3A//store.digitalriver.com/store/defaults/en_US/DisplayDRPrivacyPolicyPage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mattycollector.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806060250id_/http%3A//store.digitalriver.com/store/defaults/en_US/DisplayDRPrivacyPolicyPage) for the most accurate reproduction.*
 
 # Digital River Online Store - Privacy Policy
 
