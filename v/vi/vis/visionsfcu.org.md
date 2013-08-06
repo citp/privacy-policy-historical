@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the visionsfcu.org privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107124307id_/https%3A//www.visionsfcu.org/about_visions/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visionsfcu.org privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806205428id_/https%3A//www.visionsfcu.org/Privacy) for the most accurate reproduction.*
 
 # Visions Federal Credit Union
 
-**You are leaving the Visions Federal Credit Union web site. This site's privacy and security policies may differ from ours. For details of our policy on linked web sites,click here.**
+ 
 
 ### Privacy Notice
 
@@ -26,7 +26,7 @@ What? |  The types of personal information we collect and share depend on the pr
 
 When you are _no longer_ our member, we continue to share your information as described in this notice.   
    
-How? |  All financial companies need to share members’ personal information to run their everyday business. In the section below, we list the reasons financial companies share their members’ personal information; the reasons Visions Federal Credit Union chooses to share; and whether you can limit this sharing.   
+How? |  All financial companies need to share members' personal information to run their everyday business. In the section below, we list the reasons financial companies share their members' personal information; the reasons Visions Federal Credit Union chooses to share; and whether you can limit this sharing.   
 Reasons we can share your personal information | Can you limit this sharing?  
 ---|---  
 **For our everyday business purposes-**  
@@ -34,9 +34,9 @@ such as to process your transactions, maintain your account(s), respond to court
 **For our marketing purposes-**  
 to offer our products and services to you  | Yes | No  
 **For joint marketing with other financial companies** | Yes | No  
-**For our affiliates’ everyday business purposes-**  
+**For our affiliates' everyday business purposes-**  
 information about your transactions and experiences  | No | We don't share  
-**For our affiliates’ everyday business purposes-**  
+**For our affiliates' everyday business purposes-**  
 information about your creditworthiness  | No | We don't share  
 **For nonaffiliates to market to you** | No | We don't share  
   
@@ -55,12 +55,12 @@ protect my personal information?** |  To protect your personal information from 
 
   * Open an account or apply for a loan
   * Pay your bills or use your credit or debit card
-  * Show your driver’s license
+  * Show your driver's license
 
 We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.   
-**Why can’t I limit all sharing?** |  Federal law gives you the right to limit only 
+**Why can't I limit all sharing?** |  Federal law gives you the right to limit only 
 
-  * sharing for affiliates’ everyday business purposes- information  
+  * sharing for affiliates' everyday business purposes- information  
 about your creditworthiness
   * affiliates from using your information to market to you
   * sharing for nonaffiliates to market to you
