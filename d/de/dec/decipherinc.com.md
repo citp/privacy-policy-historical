@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the decipherinc.com privacy policy that was archived on 2013-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130427050334id_/http%3A//www.decipherinc.com/n/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the decipherinc.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806030539id_/http%3A//www.decipherinc.com/n/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Decipher
 
