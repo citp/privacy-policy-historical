@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the punjabimatrimony.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118210433id_/http%3A//www.punjabimatrimony.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the punjabimatrimony.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806150803id_/http%3A//www.punjabimatrimony.com/privacy-policy.php) for the most accurate reproduction.*
 
 # www.punjabimatrimony.com
 
