@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeindex.co.uk privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429181841id_/http%3A//www.freeindex.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeindex.co.uk privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806224019id_/http%3A//www.freeindex.co.uk/privacy.htm) for the most accurate reproduction.*
 
 # FreeIndex.co.uk - Privacy Policy
 
