@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bookingbuddy.co.uk privacy policy that was archived on 2013-01-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130116095333id_/http%3A//www.bookingbuddy.co.uk/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bookingbuddy.co.uk privacy policy that was archived on 2013-08-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130806204154id_/http%3A//www.bookingbuddy.co.uk/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -24,12 +24,12 @@ function getUserSubstate() { return false; }
 /* ]]> */
 </script>
 
-<link rel="stylesheet" href="http://c.slimg.com/css/site/bb_affiliate/bookingbuddy_co_uk.css?nano=1&amp;v=20130115093052" media="screen, projection" type="text/css"><script type="text/javascript" src="http://j.slimg.com/js/site/bookingbuddy-uk.js?nano=1&amp;v=20130115093052"></script>
+<link rel="stylesheet" href="http://c.slimg.com/css/site/bb_affiliate/bookingbuddy_co_uk.css?nano=1&amp;v=20130806114424" media="screen, projection" type="text/css"><script type="text/javascript" src="http://j.slimg.com/js/site/bookingbuddy-uk.js?nano=1&amp;v=20130806114424"></script>
 <script type="text/javascript">/* <![CDATA[*/
-BookingBuddy.Strings.ServerTime = "Wed, 16 Jan 2013 04:53:34 -0500";
+BookingBuddy.Strings.ServerTime = "Tue, 06 Aug 2013 16:41:54 -0400";
 /* ]]>*/</script>
 <script type="text/javascript">/* <![CDATA[*/
-stm.affiliateOptions = {"withTabBrowsingBbLogo":["onetravel","cheapoair_com"],"disabledTabBrowsingLogo":["uk_holiday_weather","holidayweatherguide"],"tabBrowsingBlackLabel":["flightnetwork","budgetair_com","usnews","cruise_deals","destination360_com","flightstats","dealbase","airticketsdirect","onetravel","webjet","cheapoair_com","vayama_com","ifly_com","travelmath","skyauction","bootsnall","tripzen","flighthub","jetcost","huno","airfaresflights_blacklabel","uk_airfaresflights_blacklabel","easytobook","easytobook_uk","independent_traveler","top_rated_travel","bargain_travel_4_u","fodors_com"]};
+stm.affiliateOptions = {"withTabBrowsingBbLogo":["onetravel","cheapoair_com"],"traqAffiliates":["bookingbuddy_com","vayama_com","cheapoair_com","onetravel","dealbase","ifly_com","webjet","airticketsdirect","flightstats","destination360_com","cruise_deals","usnews","budgetair_com","flightnetwork","flighthub","easytobook","huno","jetcost","independent_traveler","airfaresflights_blacklabel","fodors_com","onetime"],"traqExitWindowAffiliates":["bookingbuddy_com","vayama_com","cheapoair_com","onetravel","dealbase","budgetair_com","flightnetwork","flighthub","easytobook","huno","jetcost","independent_traveler","airfaresflights_blacklabel","fodors_com","onetime"],"tabBrowsingBlackLabel":["flightnetwork","budgetair_com","usnews","cruise_deals","destination360_com","flightstats","dealbase","airticketsdirect","onetravel","webjet","cheapoair_com","vayama_com","ifly_com","travelmath","skyauction","bootsnall","tripzen","flighthub","jetcost","huno","airfaresflights_blacklabel","uk_airfaresflights_blacklabel","easytobook","easytobook_uk","independent_traveler","top_rated_travel","bargain_travel_4_u","fodors_com"],"tabBrowsingAlertOnClose":["bargain_travel_4_u","top_rated_travel"]};
 /* ]]>*/</script>
 <script type="text/javascript">/* <![CDATA[*/
 BookingBuddy.queryString = {};
@@ -85,7 +85,7 @@ $j(window).load(function() {
 </div>
 <!-- BEGIN PAGETOP -->
 
-<!-- Rendered at 2013-01-16T09:53:34+00:00 -->
+<!-- Rendered at 2013-08-06T20:41:54+00:00 -->
 <div id="pagetop">
 	<div id="billboard">
         <div id="dhtmlsignup_uk_marker"></div>
@@ -116,7 +116,7 @@ $j(window).load(function() {
 		</form>
 
 		<div id="signup_terms">
-			<a href="#" class="terms" id="signup_link_terms">Terms of Use</a> | 
+			<a href="#" class="terms" id="signup_link_terms">Terms of Use</a> |
 			<a href="#" class="privacy" id="signup_link_privacy">Privacy Policy</a>
 		</div>
 	</div>
@@ -148,7 +148,7 @@ function get_bg_image(shape) {
 var signupForm = $j('#dhtmlsignup_uk');
 var dropdowns = ['air_num_travelers', 'air_departureTime', 'air_returnTime', 'hotel_num_rooms', 'hotel_num_travelers'];
 
-signupForm.bind('dhtmlpopup:sub:step1', function() {
+signupForm.on('dhtmlpopup:sub:step1', function() {
 	// For IE6, hide the dropdowns that would be covered by the popup
 	if (!window.XMLHttpRequest) {
 		$j.each(dropdowns, function(index, id) {
@@ -166,7 +166,7 @@ signupForm.bind('dhtmlpopup:sub:step1', function() {
 	});
 });
 
-signupForm.bind('dhtmlpopup:sub:step2', function() {
+signupForm.on('dhtmlpopup:sub:step2', function() {
 	signupForm.css({
 		width: '255px',
 		height: '155px',
@@ -174,7 +174,7 @@ signupForm.bind('dhtmlpopup:sub:step2', function() {
 	});
 });
 
-signupForm.bind('dhtmlpopup:sub:closed', function() {
+signupForm.on('dhtmlpopup:sub:closed', function() {
 	// On close, unhide the dropdowns
 	if (!window.XMLHttpRequest) {
 		$j.each(dropdowns, function(index, id) {
@@ -347,7 +347,7 @@ signupForm.bind('dhtmlpopup:sub:closed', function() {
 <span class="hide" id="affiliateName">bookingbuddy_co_uk</span>
 <span class="hide" id="searchModeName"></span>
 <span class="hide" id="siteDomainBase">bookingbuddy.co.uk</span>
-<span class="hide" id="siteRedirectUrl">http://rd.BookingBuddy.co.uk/?&amp;ucid=32849&amp;ad_user_tracking=%5Bsource%3D%2Ctaparam%3D%2Csupmt%3D%5D&amp;</span>
+<span class="hide" id="siteRedirectUrl">http://rd.BookingBuddy.co.uk/?&amp;ucid=33020&amp;ad_user_tracking=%5Bsource%3D%2Ctaparam%3D%2Csupmt%3D%5D&amp;</span>
 <span class="hide" id="TACheckRatesMCID">13305</span>
 <span class="hide" id="TAHotelPhotosMCID">13306</span>
 <span class="hide" id="allow_framed"></span>
