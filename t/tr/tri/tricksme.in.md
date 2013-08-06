@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tricksme.in privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513203905id_/http%3A//tricksme.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tricksme.in privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806064707id_/http%3A//tricksme.in/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy-Tricksme.in
 
@@ -33,7 +33,7 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.triksme.in/terms-conditions/](https://web.archive.org/web/20130513203905id_/http%3A//tricksme.in/www.triksme.in/terms-conditions/)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.triksme.in/terms-conditions/](https://web.archive.org/web/20130806064707id_/http://tricksme.in/privacy-policy/www.triksme.in/terms-conditions/)
 
 **Your Consent**
 
