@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hmfusa.com privacy policy that was archived on 2013-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130416010652id_/https%3A//www.hmfusa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hmfusa.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806191419id_/https%3A//www.hmfusa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
