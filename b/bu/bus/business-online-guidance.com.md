@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the business-online-guidance.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618222540id_/http%3A//www.business-online-guidance.com/privacy-policy-disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the business-online-guidance.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806022946id_/http%3A//www.business-online-guidance.com/privacy-policy-disclaimer.html) for the most accurate reproduction.*
 
 # Privacy Policy Disclaimer For Business Online Guidance
 
-We recognize that your privacy is important.This document outlines the types of personal information we receive and collect when you use www.business-online-guidance.com, as well as some of the steps we take to safeguard information.We hope this will help you make an informed decision about sharing personal information with us.
+We recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use www.business-online-guidance.com, as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us.
 
 www.business-online-guidance.com strives to maintain the highest standards of decency, fairness and integrity in all our operations. Likewise, we are dedicated to protecting our customers', consumers' and online visitors' privacy on our website.
 
@@ -24,7 +24,9 @@ A web beacon is a transparent image file used to monitor your journey around a s
 
 We may serve third-party advertisements that use cookies and web beacons in the course of ads being served on our web site to ascertain how many times you've seen an advertisement. No personally identifiable information you give us is provided to them for cookie or web beacon use, so they cannot personally identify you with that information on our web site.
 
-Some third-party advertisements may be provided by Google, which uses cookies to serve ads on this site. Google uses the DART cookie, which enables it to serve ads to our users based on their visits to this site and other sites on the Web. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy
+Some third-party advertisements may be provided by Google, which uses cookies to serve ads on this site. Google uses the DART cookie, which enables it to serve ads to our users based on their visits to this site and other sites on the Web. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+The search box on this web site ("Search Box") is powered by Google Inc. ("Google"). You acknowledge and agree that Google's privacy policy (located at http://www.google.com/intl/en/privacy/) shall apply to your use of the Search Box and by using the Search Box you consent to Google using your personal data in accordance with its privacy policy.
 
 Browsers can be set to accept or reject cookies or notify you when a cookie is being sent. Privacy software can be used to override web beacons. Taking either of these actions shouldn't cause a problem with our site, should you so choose.
 
@@ -42,7 +44,7 @@ If www.business-online-guidance.com is sold, the information we have obtained fr
 
  **How You Can Correct or Remove Information**
 
-We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through our website and would like that information deleted from our records or would like to update or correct that information, please click on this link and/or use our [Contact Us Page](https://web.archive.org/web/20120618222540id_/http%3A//www.business-online-guidance.com/contact-us.html).
+We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through our website and would like that information deleted from our records or would like to update or correct that information, please use our [Contact Page](http://www.business-online-guidance.com/contact.html).
 
  **Updates and Effective Date**
 
@@ -54,7 +56,7 @@ If you do not agree to www.business-online-guidance.com Privacy Policy as posted
 
  **Disclaimer**
 
-www.business-online-guidance.com provides this website as a service.While the information contained within the site is periodically updated, no guarantee is given that the information provided in this website is correct, complete, and/or up-to-date.
+www.business-online-guidance.com provides this website as a service. While the information contained within the site is periodically updated, no guarantee is given that the information provided in this website is correct, complete, and/or up-to-date.
 
 The materials contained on this website are provided for general information purposes only and do not constitute legal or other professional advice on any subject matter. 
 
@@ -64,4 +66,6 @@ Permission is given for the downloading and temporary storage of one or more of 
 
 Some links within this website may lead to other websites, including those operated and maintained by third parties. www.business-online-guidance.com includes these links solely as a convenience to you, and the presence of such a link does not imply a responsibility for the linked site or an endorsement of the linked site, its operator, or its contents (exceptions may apply). 
 
-This website and its contents are provided "AS IS" without warranty of any kind, either express or implied, including, but not limited to, the implied warranties of merchantability, fitness for a particular purpose, or non-infringement. Reproduction, distribution, republication, and/or retransmission of material contained within this website are prohibited unless the prior written permission of www.business-online-guidance.com has been obtained. 
+This website and its contents are provided "AS IS" without warranty of any kind, either express or implied, including, but not limited to, the implied warranties of merchantability, fitness for a particular purpose, or non-infringement. 
+
+Reproduction, distribution, republication, and/or retransmission of material contained within this website are prohibited unless the prior written permission of www.business-online-guidance.com has been obtained. 
