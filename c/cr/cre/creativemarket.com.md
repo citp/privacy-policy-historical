@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the creativemarket.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503050045id_/https%3A//creativemarket.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativemarket.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806203952id_/https%3A//creativemarket.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy ~ Creative Market
+
+* * *
 
 This Privacy Policy was last modified on Jan 9, 2012 and was first published and made effective on Jan 9, 2012.
 
