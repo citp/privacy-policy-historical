@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rediker.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617104120id_/http%3A//www.rediker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rediker.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806094044id_/http%3A//www.rediker.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Rediker Software, Inc.
 
@@ -6,7 +6,7 @@
 
 We collect information from you when you register on our site or fill out a form. 
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or basic school information. You may, however, visit our site anonymously. 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, email address, mailing address, phone number or basic school information. You may, however, visit our site anonymously. 
 
 ##### What do we use your information for?
 
