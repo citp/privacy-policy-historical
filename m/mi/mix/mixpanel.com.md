@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mixpanel.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424012822id_/https%3A//mixpanel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixpanel.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806201700id_/https%3A//mixpanel.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Mixpanel | Mobile Analytics
 
