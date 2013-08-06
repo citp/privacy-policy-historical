@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialscanner.com privacy policy that was archived on 2012-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120116195922id_/http%3A//family.socialscanner.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialscanner.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806104812id_/https%3A//family.socialscanner.com/privacy_policy) for the most accurate reproduction.*
 
 # SocialScanner | Social Media Monitoring for the Rest of Us
 
@@ -46,13 +46,13 @@ Because we value your privacy we have taken the necessary precautions to be in c
 
 As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the "Edit Profile" page.
 
-**Childrens Online Privacy Protection Act Compliance**
+**Children's Online Privacy Protection Act Compliance**
 
 We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), our policy is located at.
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://family.socialscanner.com/privacy_policy>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [Privacy Policy](https://family.socialscanner.com/privacy_policy)
 
 **Your Consent**
 
@@ -68,15 +68,15 @@ This policy was last modified on April 6, 2011
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-[SocialScanner](http://family.socialscanner.com/)  
+[SocialScanner](https://family.socialscanner.com/)  
 128 West Hastings  
 Suite 210  
 Vancouver, BC V6B 1G8  
-Tel: 1-866-930-3592
+Tel: 1-888-747-6242
 
-55 Broad Street  
+920 Santa Monica Boulevard Santa Monica  
 13F  
-NY NY 10004  
-Tel: +1 (917) 720-3503
+CA 90401  
+Tel: +1 323-929-2289
 
 [contact@socialscanner.com](mailto:contact@socialscanner.com)
