@@ -1,0 +1,10 @@
+> *The following text is extracted and transformed from the waframedia.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806233813id_/http%3A//www.waframedia.com/Privacy-Policy) for the most accurate reproduction.*
+
+# wafra, Privacy-Policy
+
+## Wafra Media
+
+**Privacy policy is a statement or a legal document (privacy law) that discloses some or all of the ways a party gathers, uses, discloses and manages a customer or client's data.**
+
+Personal information can be anything that can be used to identify an individual, not limited to but including; name, address, date of birth, marital status, contact information, ID issue and expiry date, financial records, credit information, medical history, where you travel, and intentions to acquire goods and services.[1] In the case of a business it is often a statement that declares a party's policy on how it collects, stores, and releases personal information it collects. It informs the client what specific information is collected, and whether it is kept confidential, shared with partners, or sold to other firms or enterprises. [2]  
+Privacy policy is important to the modern state, because grounded in it is the individual's physical and moral autonomy. For this reason, it is worthy of constitutional protection.[3] The exact contents of a privacy policy will depend upon the applicable law and may need to address requirements across geographical boundaries and legal jurisdictions. Most countries have their own legislation and guidelines of who is covered, what information can be collected, and what it can be used for. In general, data protection laws in Europe cover the private sector as well as the public sector. Their privacy laws apply not only to government operations but also to private enterprises and commercial transactions. In North America, privacy laws (except in Quebec) apply only to the public sector, not to the private sector. However, most private sector organizations in North America have taken the initiative to develop their own privacy policies and codes of conduct.[4]
