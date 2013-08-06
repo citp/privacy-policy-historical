@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sosonlinebackup.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509005346id_/http%3A//www.sosonlinebackup.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sosonlinebackup.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806213700id_/http%3A//www.sosonlinebackup.com/privacy.htm) for the most accurate reproduction.*
 
 # Computer Backup Software | Online Data Storage Backup > Privacy Policy
 
