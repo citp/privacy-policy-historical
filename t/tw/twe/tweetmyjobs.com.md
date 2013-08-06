@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tweetmyjobs.com privacy policy that was archived on 2013-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130302171855id_/http%3A//www.tweetmyjobs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tweetmyjobs.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806195241id_/http%3A//www.tweetmyjobs.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TweetMyJobs
 
