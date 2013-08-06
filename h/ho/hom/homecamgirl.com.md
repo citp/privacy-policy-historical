@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homecamgirl.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629174253id_/http%3A//www.homecamgirl.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homecamgirl.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806115548id_/http%3A//www.homecamgirl.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - www.homecamgirl
 
