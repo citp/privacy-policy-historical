@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optify.net privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606220850id_/http%3A//www.optify.net/about-our-b2b-inbound-marketing-solutions/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optify.net privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806215920id_/http%3A//www.optify.net/about-our-b2b-inbound-marketing-solutions/privacy) for the most accurate reproduction.*
 
 # Optfiy's Privacy Policy | Optify
 
@@ -121,7 +121,7 @@ Updating or correcting information can usually be done by logging onto [www.opti
 
 ### Acceptance of Privacy Policy
 
-Your use of our Site, including any dispute concerning privacy, is subject to this Privacy Policy and the Terms of Use available at www.optify.net/legal. BY USING OUR SITE, YOU ARE ACCEPTING THE PRACTICES SET OUT IN THIS PRIVACY POLICY. We reserve the right to modify this Privacy Policy at any time by posting the changes on this page. Please check the revision date at the bottom of this page to determine if the Privacy Policy has been modified since you last reviewed it. Your continued use of any portion of our Site following posting of the updated Privacy Policy will constitute your acceptance of the changes.
+Your use of our Site, including any dispute concerning privacy, is subject to this Privacy Policy and the Terms of Use available on our [Legal](http://www.optify.net/about-our-b2b-inbound-marketing-solutions/legal) page. BY USING OUR SITE, YOU ARE ACCEPTING THE PRACTICES SET OUT IN THIS PRIVACY POLICY. We reserve the right to modify this Privacy Policy at any time by posting the changes on this page. Please check the revision date at the bottom of this page to determine if the Privacy Policy has been modified since you last reviewed it. Your continued use of any portion of our Site following posting of the updated Privacy Policy will constitute your acceptance of the changes.
 
 ### Effective Date
 
