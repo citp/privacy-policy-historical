@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the birthdayinabox.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006073354id_/http%3A//www.birthdayinabox.com/privacy-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birthdayinabox.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806185133id_/http%3A//www.birthdayinabox.com/privacy-security.html) for the most accurate reproduction.*
 
 # None
 
@@ -15,6 +15,18 @@ When you shop on our site, we collect personal information from you such as your
 ### How Information is Used
 
 We do not sell or rent your personal information to others. We use customer information we collect only for the purposes of filling orders, contacting purchasers to inform them of their order status, sending promotional information, enhancing the operation of our site, statistical purposes and to administer our systems. 
+
+### Opt Out of Email Savings Promotions
+
+When checking out, you can opt out of email promotions. Also, every email will have a link to unsubscribe from future email offers.
+
+### Company Address
+
+**Birthday In A Box**  
+45 Fernwood Ave  
+Edison, NJ 08837  
+855-268-8008  
+[customerservice@birthdayinabox.com](mailto:customerservice@birthdayinabox.com)
 
 ### Cookies
 
