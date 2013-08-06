@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hardwarestore.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115025016id_/http%3A//www.hardwarestore.com/corporate.aspx%3Fc%3D19) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardwarestore.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806020115id_/http%3A//www.hardwarestore.com/corporate.aspx%3Fc%3D19) for the most accurate reproduction.*
 
-# Privacy Policy at Aubuchon Hardware
+# Aubuchon Hardware Privacy Policy
 
 Aubuchon Hardware is committed to protecting your privacy online. This policy explains how we collect, use, and safeguard your personal information. If you have any questions, please call toll-free **800-282-4393** or email us at [help@aubuchon.com](mailto:help@aubuchon.com). 
 
