@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the abcsignup.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601112824id_/http%3A//abcsignup.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcsignup.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806055126id_/http%3A//www.abcsignup.com/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy With Registration Software | ABC Signup
 
-"ABC Signup saved us more time than our previous software. It’s so easy to access the information and provide it to people who want it. I love that it’s so automated that we don’t have to worry about many steps. It does our thinking for us."  
- **Jeff, Metropolitan Chicago Synod, Evangelical Lutheran Church in America**
+"ABC Signup provides a fast and easy online registration solution for all-sized groups. Principal Wellness Company has approximately 10 clients that utilize this tool, and having the option of giving each contact administrative rights dramatically cuts down on administrative work, and it puts the client in control of monitoring their registrations... Each group that uses it, continues to use it in the following years and comments how much easier it is than signing people up on paper!"  **Julie, Principal (Financial) Wellness Company**
 
 [](https://web.archive.org/customers.html)
 
