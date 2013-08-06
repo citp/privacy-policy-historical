@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the masterymindfuse.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116182640id_/http%3A//www.outrageousmastery.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masterymindfuse.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806061109id_/http%3A//www.outrageousmastery.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Outrageous Mastery
 
