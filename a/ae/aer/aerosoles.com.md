@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aerosoles.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115141656id_/http%3A//www.aerosoles.com/eng/aboutus/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aerosoles.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806053948id_/http%3A//www.aerosoles.com/eng/aboutus/privacy.cfm) for the most accurate reproduction.*
 
 # Aerosoles - Privacy Policy
 
