@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eastanime.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512082815id_/http%3A//eastanime.com/%3Fpage_id%3D31138) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eastanime.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806082613id_/http%3A//eastanime.com/%3Fpage_id%3D31138) for the most accurate reproduction.*
 
 # East Anime – Watch anime online for free! » Privacy Policy
 
