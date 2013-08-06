@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the casinoeuro.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117024026id_/https%3A//www.casinoeuro.com/en/customersupport/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casinoeuro.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806144349id_/https%3A//www.casinoeuro.com/en/customersupport/privacy-policy) for the most accurate reproduction.*
 
-# CasinoEuro - Europes online casino, Play casino games here
+# CasinoEuro - Europe's online casino - Play casino games here
 
 ## Privacy Policy
 
