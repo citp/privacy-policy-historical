@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bustnow.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521092856id_/http%3A//www.bustnow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bustnow.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806190804id_/http%3A//www.bustnow.com/privacy) for the most accurate reproduction.*
 
 # BustNow
 
