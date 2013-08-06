@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smsbag.com privacy policy that was archived on 2013-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130315024953id_/http%3A//www.smsbag.com/sms/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smsbag.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806112046id_/http%3A//www.smsbag.com/sms/policy.php) for the most accurate reproduction.*
 
 # smsBAG - SMS Gateway...your No1 SMS link to the World
 
