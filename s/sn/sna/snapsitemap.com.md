@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snapsitemap.com privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420050555id_/https%3A//www.snapsitemap.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapsitemap.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806161055id_/https%3A//www.snapsitemap.com/privacy) for the most accurate reproduction.*
 
 # SnapSitemap - Free XML Sitemap
 
