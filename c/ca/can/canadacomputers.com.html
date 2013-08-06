@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the canadacomputers.com privacy policy that was archived on 2013-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130617053937id_/http%3A//www.canadacomputers.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the canadacomputers.com privacy policy that was archived on 2013-08-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130806124732id_/http%3A//www.canadacomputers.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta http-equiv="X-UA-Compatible" content="IE=6;FF=3;OtherUA=4">
@@ -31,11 +31,11 @@ function CheckKeywords() {
     words=search.keywords.value;
     words=words.replace(/(^\s*)|(\s*$)/g, "");
 	
-	if (words.length <=0) {
+	if (words.length <=0 || words == 'Search Products') {
 		alert("Please enter keyword to search");
 		return false; }
 		
-	if (words.length <3) {
+	if (words.length <3 || words == 'Search Products') {
 		alert("One or more of your search terms were shorter than the minimum length. The minimum search term length is 3 characters.");
 		return false; }
 	return true; }
@@ -94,7 +94,7 @@ body {max-width:none;}
                             <!--<span style="float:left;"><a href="#" onclick="return errorBlock()">Login</a></span>-->
                                             
                         <span style="float:left;">&nbsp;|&nbsp;</span>
-                        <span style="float:left;"><a href="http://www.canadacomputers.com/create_account.php"><font color="#FFDF01">Register</font></a></span>
+                        <span style="float:left;"><a href="http://www.canadacomputers.com/create_account.php"><font color="#FFDF01">Become a Member</font></a></span>
                         <!--<span style="float:left;"><a href="#" onclick="return errorBlock()"><font color="#FFDF01">Register</font></a></span>-->
                         <span style="float:left;">&nbsp;|&nbsp;</span>
                         <span style="float:left;"><a href="shopping_cart.php">Shopping Cart</a></span>
@@ -107,10 +107,10 @@ body {max-width:none;}
 				</tr>
 				<tr><td align="right" nowrap="nowrap" bgcolor="#003366" style="height:19px;width:100%; text-align:right">
      
-                    <table width="345" border="0" cellpadding="0" cellspacing="0" align="right">
+                    <table width="350" border="0" cellpadding="0" cellspacing="0" align="right">
                         <tbody><tr><td height="24" style="background:#FFF;">
                         <div id="jquery-live-search-example">
-							<form name="quick_find" action="advanced_search_result.php" method="get">                            <input name="keywords" size="25" style="padding-top:3px; width:
+							<form name="quick_find" action="advanced_search_result.php" method="get">                            <input onfocus="if(this.value=='Search Products') this.value='';" onblur="if(this.value=='') this.value='Search Products';" value="Search Products" name="keywords" size="25" style="padding: 3px 0px 0px 3px; width:
                                 320px; font-size: 13px;display:block; background-repeat:no-repeat; border:none; margin-left:0px; color:#666;float:left;">
                                                             <input type="image" src="pictures/buttons/Search_Nav5.jpg" alt="Quick Search" title=" Quick Search " onclick="return CheckKeywords();">
                             </form>
@@ -144,7 +144,7 @@ body {max-width:none;}
  <div class="sub">
    <div class="row">
       <ul><li><a href="../index.php?cPath=6">Cases/Chassis</a></li></ul>
-	  <ul><li><a href="../index.php?cPath=15">Hard Drives</a></li></ul>
+	  <ul><li><a href="../index.php?cPath=15_1086">Hard Drives</a></li></ul>
       <ul><li><a href="../index.php?cPath=33">Power Supplies</a></li></ul>
    </div>
    <div class="row">         
@@ -153,7 +153,7 @@ body {max-width:none;}
      <ul><li><a href="../index.php?cPath=34_1170">Printers &amp; Scanners</a></li></ul>
    </div>
    <div class="row"> 
-     <ul><li><a href="../index.php?cPath=4">CPUs/Processors</a></li></ul>
+     <ul><li><a href="../index.php?cPath=4_1210">CPUs/Processors</a></li></ul>
      <ul><li><a href="../index.php?cPath=20">Ink Cartridge/Toners</a></li></ul> 
      <ul><li><a href="../index.php?cPath=40">Sound Cards</a></li></ul>
    </div>
@@ -162,26 +162,29 @@ body {max-width:none;}
      <ul><li><a href="../index.php?cPath=21">Keyboards, Mice, Tablets, Digital WhiteBoard</a></li></ul>
      <ul><li><a href="../index.php?cPath=41">Speakers</a></li></ul>
    </div>
-   <div class="row"><ul><li><a href="../index.php?cPath=24">Computer Memory</a></li></ul>
+   <div class="row"><ul><li><a href="../index.php?cPath=24_311">Computer Memory</a></li></ul>
      <ul><li><a href="../index.php?cPath=22_1195">Monitors</a></li></ul>
      <ul><li><a href="../index.php?cPath=179">Solid State Drives</a></li></ul>
    </div>
-   <div class="row"> <ul><li><a href="../index.php?cPath=11">Flash Memory/Drives</a></li></ul>
-     <ul><li><a href="../index.php?cPath=26">Motherboards</a></li></ul>
+   <div class="row"> <ul><li><a href="../index.php?cPath=11_1216">Flash Memory/Drives</a></li></ul>
+     <ul><li><a href="../index.php?cPath=26_1207">Motherboards</a></li></ul>
      <ul><li><a href="../index.php?cPath=42">Storage Media</a></li></ul>
    </div>
    <div class="row">
      <ul><li><a href="../index.php?cPath=13">Gaming</a></li></ul>
      <ul><li><a href="../index.php?cPath=27">Networking</a></li></ul>
-     <ul><li><a href="../index.php?cPath=43">Video Cards</a></li></ul>
+     <ul><li><a href="../index.php?cPath=43_1200">Video Cards</a></li></ul>      
    </div>
    <div class="row">
-     <ul><li><a href="../index.php?cPath=14">Hard Drive Enclosures</a></li></ul>
+     <ul><li><a href="../index.php?cPath=1211">Gaming &amp; PC Headphone/<br>Headset/Microphone</a></li></ul>     
      <ul><li><a href="../index.php?cPath=32">Power Protection</a></li></ul>
-     <ul><li><a href="../index.php?cPath=44">Video Devices</a></li></ul>
+     <ul><li><a href="../index.php?cPath=44">Video Devices</a></li></ul>    
    </div>
-   <div class="row">   
+   <div class="row">
+      <ul><li><a href="../index.php?cPath=14">Hard Drive Enclosures</a></li></ul>      
       <ul><li><a href="../index.php?cPath=45">WebCams</a></li></ul>
+      <ul><li><a href="../index.php?cPath=1085">Floppy Drives</a></li></ul>
+
    </div>
    <div class="row">   
    </div>
@@ -200,8 +203,8 @@ body {max-width:none;}
 <li><a href="#" class="products2">Home Theatres</a>
  <div class="sub">
   <ul>
-   <li><a href="../index.php?cPath=238">Televisions</a></li>
-   <li><a href="../index.php?cPath=36">Projectors</a></li>
+   <li><a href="../index.php?cPath=238_1209">Televisions</a></li>
+   <li><a href="../index.php?cPath=36_1208">Projectors</a></li>
    <li><a href="../index.php?cPath=231">Home Theatre In A Box</a></li>
    <li><a href="../index.php?cPath=232">Speakers</a></li>
    <li><a href="../index.php?cPath=1135">Audio/Video Components</a></li>
@@ -209,7 +212,7 @@ body {max-width:none;}
    <li><a href="../index.php?cPath=1146">Video Cables &amp; Connectors</a></li>
    <!--<li><a href="../index.php?cPath=234">DVD & Blu-ray Players</a></li>
    <li><a href="../index.php?cPath=243">Video Recorders</a></li>-->
-   <li><a href="../index.php?cPath=164">Satellite/FTA</a></li>
+   <li><a href="../index.php?cPath=164">Satellite/OTA</a></li>
    <li><a href="../index.php?cPath=242">Universal Remotes</a></li>
    <!--<li><a href="../index.php?cPath=230">A/V Receivers</a></li>
    <li><a href="../index.php?cPath=132">Internet Radio</a></li>-->
@@ -342,6 +345,7 @@ body {max-width:none;}
     <li><a href="../index.php?cPath=31">Point-Of-Sales</a></li>
     <li><a href="../index.php?cPath=755">Digital Signage</a></li>
     <li><a href="../index.php?cPath=29">Office Equipment</a></li>
+    <li><a href="../index.php?cPath=584">Backup Solutions</a></li>
   </ul>
  </div>
 </li>
@@ -522,7 +526,7 @@ Last modified: 07/30/04<br><br>
 
   <!-- Ck general for css -->
 <div id="footerContainer">  
-   	<div id="footerBanners"><div style="width:506px;float:left;margin-bottom:4px;margin-top:10px;"><a href="/product_info.php?cPath=1095_539&amp;item_id=044124"><img src="http://www.canadacomputers.com/home/wowslider/data/EN/features/9a.jpg" width="506" height="50"></a></div><div style="width:506px;float:right;margin-bottom:4px;margin-top:10px;"><a href="/product_info.php?cPath=558&amp;item_id=059124"><img src="http://www.canadacomputers.com/home/wowslider/data/EN/features/9b.jpg" width="506" height="50"></a></div></div>    
+   	<div id="footerBanners"><div style="width:506px;float:left;margin-bottom:4px;margin-top:10px;"><a href="/advanced_search_itemcode.php?keywords=MTSS002018,MTSS002026,MTSS002044,MTSS002035,MTLG001143,MTLG001161,MTLG001042,MTBE000628,MTBE000605,MTAS000500,MTAS000490,MTAS000480"><img src="http://www.canadacomputers.com/home/wowslider/data/EN/features/9a.jpg" width="506" height="50"></a></div><div style="width:506px;float:right;margin-bottom:4px;margin-top:10px;"><a href="/product_info.php?cPath=30_749_976&amp;item_id=059870"><img src="http://www.canadacomputers.com/home/wowslider/data/EN/features/9b.jpg" width="506" height="50"></a></div></div>    
     <br>
 
 <div id="partnerfooterBox">
@@ -561,6 +565,7 @@ Last modified: 07/30/04<br><br>
 <a href="/samsung/" class="f_partner"><img src="../partners/logo/logo_samsung.jpg" alt="samsungyes!" height="40"></a>
 <a href="/sapphire/" class="f_partner"><img src="../partners/logo/logo_sapphire.jpg" alt="sapphireyes!" height="40"></a>
 <a href="/seagate/" class="f_partner"><img src="../partners/logo/logo_seagate.jpg" alt="seagateyes!" height="40"></a>
+<a href="#" class="f_partner"><img src="../partners/logo/logo_sony.jpg" alt="sony" height="40"></a>
 <a href="/tp-link/" class="f_partner"><img src="../partners/logo/logo_tp-link.jpg" alt="tp-linkyes!" height="40"></a>
 <a href="/wacom/" class="f_partner"><img src="../partners/logo/logo_wacom.jpg" alt="wacomyes!" height="40"></a>
 <a href="/WD/" class="f_partner"><img src="../partners/logo/logo_wd.jpg" alt="wd" height="40"></a>
@@ -579,20 +584,20 @@ Last modified: 07/30/04<br><br>
 <li class="f_partner"><img src="../partners/logo/logo_fannywangs.jpg" alt="fannywangsyes!" height="40"></li>
 </ul><ul id="slide"><li class="f_partner"><img src="../partners/logo/logo_fender.jpg" alt="fenderyes!" height="40"></li>
 <li class="f_partner"><img src="../partners/logo/logo_jbl.jpg" alt="jblyes!" height="40"></li>
+<li class="f_partner"><img src="../partners/logo/logo_jvc.jpg" alt="jvcyes!" height="40"></li>
 <li class="f_partner"><img src="../partners/logo/logo_numark.jpg" alt="numarkyes!" height="40"></li>
 <li class="f_partner"><img src="../partners/logo/logo_nzxt.jpg" alt="nzxtyes!" height="40"></li>
 <li class="f_partner"><img src="../partners/logo/logo_odyssey.jpg" alt="odysseyyes!" height="40"></li>
 <li class="f_partner"><img src="../partners/logo/logo_panasonic.jpg" alt="panasonicyes!" height="40"></li>
 <li class="f_partner"><img src="../partners/logo/logo_philips.jpg" alt="philipsyes!" height="40"></li>
-<li class="f_partner"><img src="../partners/logo/logo_pioneer.jpg" alt="pioneeryes!" height="40"></li>
-</ul><ul id="slide"><li class="f_partner"><img src="../partners/logo/logo_razer.jpg" alt="razeryes!" height="40"></li>
+</ul><ul id="slide"><li class="f_partner"><img src="../partners/logo/logo_pioneer.jpg" alt="pioneeryes!" height="40"></li>
+<li class="f_partner"><img src="../partners/logo/logo_razer.jpg" alt="razeryes!" height="40"></li>
 <li class="f_partner"><img src="../partners/logo/logo_sharp.jpg" alt="sharpyes!" height="40"></li>
 <li class="f_partner"><img src="../partners/logo/logo_sierra.jpg" alt="sierrayes!" height="40"></li>
 <li class="f_partner"><img src="../partners/logo/logo_tiger.jpg" alt="tigeryes!" height="40"></li>
 <li class="f_partner"><img src="../partners/logo/logo_tripplite.jpg" alt="trippliteyes!" height="40"></li>
 <li class="f_partner"><img src="../partners/logo/logo_xerox.jpg" alt="xeroxyes!" height="40"></li>
 <li class="f_partner"><img src="../partners/logo/logo_zotac.jpg" alt="zotacyes!" height="40"></li>
-<li class="f_partner"><img src="../partners/logo/logo_.jpg" alt="yes!" height="40"></li>
 </ul>&nbsp;</div></div>
     
     <script type="text/javascript" src="http://www.canadacomputers.com/js/jquery.cycle.lite.js"></script>
@@ -650,9 +655,9 @@ Last modified: 07/30/04<br><br>
         </li><li>
           <a href="/rss.xml" class="f_item">
           <img src="../buttons/cc_icon_RSS.jpg" width="20" height="20" class="f_item_icon"><span>&nbsp;RSS Feed</span></a>
-        </li><li><a href="/top20.php" class="f_item">
-                    <img src="../buttons/cc_icon_TD.jpg" width="20" height="20" class="f_item_icon">
-                    <span> Top Deals</span></a></li><li><a href="/specials.php" class="f_item">
+        </li><li><a href="/dailydeal.php" class="f_item">
+                    <img src="../buttons/cc_icon_DD.jpg" width="20" height="20" class="f_item_icon">
+                    <span> Daily Deals</span></a></li><li><a href="/specials.php" class="f_item">
                     <img src="../buttons/cc_icon_WK.jpg" width="20" height="20" class="f_item_icon">
                     <span> Weekly Specials</span></a></li><li>
           <a href="/bundle.php" class="f_item">
