@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luckygunner.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622220531id_/http%3A//www.luckygunner.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luckygunner.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806214046id_/http%3A//www.luckygunner.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
