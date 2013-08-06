@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elevationscu.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116031804id_/https%3A//www.elevationscu.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elevationscu.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806032711id_/https%3A//www.elevationscu.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice
 
