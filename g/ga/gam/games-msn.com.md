@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the games-msn.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116220826id_/http%3A//www.games-msn.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the games-msn.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806190905id_/http%3A//www.games-msn.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy-Download Free Games-Free pc games download full version|games-msn.com
 
