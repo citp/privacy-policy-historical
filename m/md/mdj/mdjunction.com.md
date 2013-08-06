@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mdjunction.com privacy policy that was archived on 2013-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130113220136id_/http%3A//www.mdjunction.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mdjunction.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806164500id_/http%3A//www.mdjunction.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ When browsing any website on the internet (MDJunction.com included) – it is st
 Registered members must provide their personal email address (as well as account username and password that we store for your convenience).  
 Your email address is required for administrative purposes and to retrieve your password and username in case those are lost. As described in our FAQs you may opt not to receive administrative and other notification emails. We also collect non-personal information such as your IP address and URLs (web pages) you arrived from and visit on while on our site. 
 
-Information you fill out via your account page (Member Profile Information) is optional and can be viewed by other visitors to MDJunction.com. Any information you post (including but not limited to photos, hugs, forum posts, diary entries, doctor reviews, ribbon descriptions and articles) on public sections of the site can be viewed by anyone. You should think carefully before disclosing any Personal Information in any Public Area. 
+Information you fill out via your account page (Member Profile Information) is optional and can be viewed by other visitors to MDJunction.com. Any information you post (including but not limited to photos, hugs, forum posts, diary entries, ribbon descriptions and articles) on public sections of the site can be viewed by anyone. You should think carefully before disclosing any Personal Information in any Public Area. 
 
 **We strongly believe in your right to privacy. We will NOT sell, distribute or otherwise abuse your personal information. ** 
 
@@ -49,6 +49,6 @@ This policy may be amended from time to time and in our sole discretion, upon po
 
  
 
-**Please feel free to[contact us](http://www.mdjunction.com/contact) with any questions. **
+**Please feel free to[contact us](http://mdj/contact) with any questions. **
 
-Privacy page was updated on May 2012. 
+Privacy page was updated on Apr 2013. 
