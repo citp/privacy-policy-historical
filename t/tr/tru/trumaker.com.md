@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trumaker.com privacy policy that was archived on 2013-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130318182127id_/https%3A//trumaker.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trumaker.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806233623id_/https%3A//www.trumaker.com/privacy_policy) for the most accurate reproduction.*
 
 # Trumaker
 
