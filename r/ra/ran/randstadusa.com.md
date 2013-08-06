@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the randstadusa.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519022107id_/http%3A//www.randstadusa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the randstadusa.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806081114id_/http%3A//www.randstadusa.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy
 
