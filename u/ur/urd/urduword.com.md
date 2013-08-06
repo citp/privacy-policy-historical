@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urduword.com privacy policy that was archived on 2013-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130403072001id_/http%3A//www.urduword.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urduword.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806020802id_/http%3A//www.urduword.com/privacy.php) for the most accurate reproduction.*
 
 # UrduWord.com - Privacy Policy
 
