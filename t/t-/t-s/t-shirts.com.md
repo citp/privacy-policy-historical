@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the t-shirts.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502015430id_/http%3A//www.t-shirts.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the t-shirts.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806192656id_/http%3A//www.t-shirts.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,7 +9,7 @@ and certified by the BBB.[](https://www.mcafeesecure.com/RatingVerify?ref=www.t-
 
 [](http://privacy.truste.com/privacy-seal/HalloweenCostumes-com/validation?rid=405fc52f-0986-42cd-88c6-ac0fe2f9cdcf "TRUSTe online privacy certification")
 
-Effective on date 02/08/2013
+Effective on date 06/04/2013
 
 This privacy statement describes how T-Shirts.com collects and uses the personal information you provide on our Web site [www.T-Shirts.com](http://www.t-shirts.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
@@ -85,6 +85,8 @@ Our shopping cart is hosted by our e-commerce solutions provider. They host our 
 
 We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information.
 
+Our partners also use cookies in order for you to use the shopping cart. The use of cookies by our partners is not covered by our privacy policy. We do not have access or control over these cookies.
+
  _Web beacons_
 
 Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
@@ -123,13 +125,11 @@ We may update this privacy statement to reflect changes to our information pract
 
 You can contact us by phone, mail or email:
 
-T-Shirts.com
-
-2080 Lookout Drive
-
+T-Shirts.com  
+2080 Lookout Drive  
 North Mankato, MN 56003
 
-Phone: 507-386-8388 Mon-Fri from 7am-6pm CST.
+Phone: 507-386-8388 (Mon-Fri from 7am-6pm CST.)
 
 [Contact Form](http://www.t-shirts.com/contact-us.asp)
 
