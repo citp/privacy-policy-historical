@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onside.in privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602230558id_/http%3A//www.onside.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onside.in privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806185118id_/http%3A//www.onside.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | OnSide - Technology Blog
+# Privacy Policy - OnSide.In
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at rohithvr2009@gmail.com.
 
