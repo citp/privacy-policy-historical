@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the venus.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010210204id_/http%3A//www.venus.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the venus.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806195131id_/http%3A//www.venus.com/privacy.aspx) for the most accurate reproduction.*
 
 # Venus.com Privacy Policy - Terms of Use
 
@@ -12,11 +12,11 @@ Tell me more.
 BACK TO TOP
 
 How we use your information  
-Venus uses your personal information only for the purpose of responding to and fulfilling your requests for Venus products and services.   
+Venus uses your personal information only for the purpose of responding to and fulfilling your requests for Venus products and services, and to provide online display advertising tailored to your interests.   
 Tell me more.   
 BACK TO TOP
 
-Who we share your information with  
+Who we share your information with for direct mail  
 On occasion we make our mailing list (name and address only) available to select companies whose products might be of interest to you. If you do not wish to receive those mailings or do not wish to receive our catalog we are happy to comply with your request. Simply send the mailing label from your catalog along with your preference to: Circulation, [Venus, 11711 Marco Beach Drive, Jacksonville, FL 32224](http://www.venus.com/contact.aspx).   
 Tell me more.   
 BACK TO TOP
@@ -80,13 +80,22 @@ BACK TO TOP
 
 Other information we collect
 
-    Some information is collected automatically every time you visit Venus. Venus collects information about your computer and assigns you a "cookie" (a small, unique identifier text file) when you visit Venus. You do not provide this information—it is collected automatically as a means of supporting your visit to our site. This cookie does not contain any personal information.  
+    Some information is collected automatically every time you visit Venus. Venus and our third party marketing partner collect information about your computer and assign you "cookies" (small, unique identifier text files) when you visit Venus. You do not provide this information—it is collected automatically as a means of supporting your visit to our site. Cookies do not contain any personal information. This anonymous information may be used by our marketing partner to deliver advertisements for products and services tailored to your interests on this site or other sites that you visit. To learn more about this advertising, or to opt-out of receiving these ads, click here.  
 BACK TO TOP
 
 **Cookies and other web site technologies**   
-As a visitor to Venus you will be assigned a permanent cookie file on your computer's hard drive. You can always choose to not receive a cookie file by enabling your web browser to refuse cookies or prompt you before accepting a cookie. Be advised that, by refusing to accept a cookie, you will not be able to access the full benefits of the Venus Online Store.
+As a visitor to Venus you will be assigned a permanent Venus cookie file on your computer's hard drive. You can always choose to not receive a cookie file by enabling your web browser to refuse cookies or prompt you before accepting a cookie. Be advised that, by refusing to accept a cookie, you will not be able to access the full benefits of the Venus Online Store. This Venus cookie may be used to provide enhanced online display advertising tailored to your interests. To opt out of this advertising provided directly by Venus, click here.
 
 When you access the [My Account](https://www.venus.com/secure/myaccount.aspx) area of the Venus web site, Venus requires you to sign in using your e-mail address and password. Once you sign in we record the e-mail address in the cookie file on your computer. We may also record your password in this cookie file. Permanent cookie files remain on your computer's hard drive until you manually delete the file.   
+BACK TO TOP
+
+**How Venus Uses Online Remarketing Campaigns**   
+Venus uses remarketing programs allowing us to reach people who previously visited the venus.com website, and match those people with the appropriate message. If you want to opt out of the display of our online advertising, which appears on other Web sites, and which is based on online interactions with venus.com, then please click the preference icon that may appear on such advertising. 
+
+Customers can also opt-out of Google use of cookies for remarketing campaigns by visiting the following page and changing Google’s Ad Settings. 
+
+Alternatively, Venus.com customers can also choose to opt out of a third-party vendor's use of cookies by visiting the   
+Network Advertising Initiative opt-out page.   
 BACK TO TOP
 
 **Computer information**   
@@ -101,6 +110,7 @@ Information collected on Venus may be used to:
   * Send e-mail notifications for special promotions
   * Respond to your questions or suggestions
   * Improve the quality of your visit to our site
+  * Provide you with advertising that is tailored to your interests
 
 
 
@@ -110,6 +120,10 @@ BACK TO TOP
 
 **E-mail notifications**   
 If you choose to receive communications from Venus about special promotions when registering at Venus, we may use your e-mail address to send you communications about surveys, contests and marketing information on Venus. We may use your e-mail address or telephone number to contact you about your purchase and availability.   
+BACK TO TOP
+
+**Email Opt-out**   
+If you decide to opt-out of receiving promotional and/or marketing e-mails from Venus you may do so by accessing the [ My Account](https://www.venus.com/secure/myaccount.aspx) area of the Venus web site and then updating your [Mail Options](https://www.venus.com/secure/mailoptions.aspx) or, by clicking on the  Unsubscribe from mailings link that is at the top of each email you receive.   
 BACK TO TOP
 
 **Responses to your questions or suggestions**   
@@ -129,7 +143,9 @@ BACK TO TOP
 
 Sharing your information
 
-While Venus will never release your e-mail address, on occasion we make our mailing list (name and address only) available to select companies whose products might be of interest to you. If you do not wish to receive those mailings or do not wish to receive our catalog we are happy to comply with your request. Simply send the mailing label from your catalog along with your preference to: Circulation, Venus, 11711 Marco Beach Drive, Jacksonville, FL 32224.
+Venus will, on occasion make our mailing list (name and address only) available to select companies whose products might be of interest to you. If you do not wish to receive those mailings or do not wish to receive our catalog we are happy to comply with your request. Simply send the mailing label from your catalog along with your preference to: Circulation, Venus, 11711 Marco Beach Drive, Jacksonville, FL 32224.
+
+Information shared with our marketing partner to deliver online display advertisements tailored to your interests will be made anonymous by a third party. 
 
 **Our legal obligations**   
 Venus may also disclose information against someone who poses a threat to Venus' interests (such as customer fraud) or whose activities could bring harm to others.   
@@ -201,5 +217,4 @@ We want to make sure you have control over your online experience as a Venus cus
 Venus customer service agents are ready to help with your Venus concerns 24 hours a day, seven days a week. When you need help, call 1-888-782-2224. All e-mails receive a response within 24 hours. You may also call 1-800-366-SWIM [1-800-366-7946] or International 1-904-645-6000 around the clock to speak to a representative personally. Agents will address any questions or concerns you may have about your Venus purchases. We will do our best to respond to your request for assistance or other questions about Venus within 24 hours.   
 BACK TO TOP
 
-  
-
+Venus Fashion is located at 11711 Marco Beach Drive, Jacksonville, Florida, 32224. You may phone us at 1-888-782-2224 or you are welcome to e-mail us at [email@venususa.com](mailto:email@venususa.com). 
