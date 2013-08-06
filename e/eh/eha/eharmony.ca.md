@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eharmony.ca privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023204739id_/http%3A//www.eharmony.ca/privacy/statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eharmony.ca privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806131132id_/http%3A//www.eharmony.ca/privacy/statement) for the most accurate reproduction.*
 
 # eHarmony - Go Beyond "Traditional" Online Dating
 
