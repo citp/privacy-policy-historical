@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safetytechnology.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116073702id_/http%3A//www.safetytechnology.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safetytechnology.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806145716id_/http%3A//www.safetytechnology.com/privacy.htm) for the most accurate reproduction.*
 
 # Safety Technology's Privacy Policy
 
