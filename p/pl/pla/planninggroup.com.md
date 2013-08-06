@@ -1,57 +1,66 @@
-> *The following text is extracted and transformed from the planninggroup.com privacy policy that was archived on 2010-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100323140037id_/http%3A//www.sapient.com/en-us/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planninggroup.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806061348id_/http%3A//domainnamesales.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Sapient
+# DomainNameSales.com
 
-Sapient Corporation ("Sapient" or "we") is committed to protecting the privacy of the personally-identifiable information that we collect from you as you use this Web site (the "Site"). The scope of Sapient's commitment is detailed in this Privacy Policy. By submitting information, you agree to Sapient's use of such information as described herein. Please see our Terms of Use for more information about our on-line policies in general.
+This Privacy Policy governs the manner in which Domain Name Sales Corp. collects, uses, maintains and discloses information collected from users (each, a "User") of the DomainNameSales.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Domain Name Sales Corp. via DomainNameSales.com.
 
-  **What personally-identifiable information is collected?**
+## Personal identification information
 
-  Sapient collects personally-identifiable information ("Personal Info") on certain areas of the Site when users register, request information or a response, sign up for events, apply for jobs, and participate in user posting areas, such as bulletin boards, discussion forums, and surveys. The personally-identifiable information collected may include, without limitation, your access ID/password, company or school affiliations, and contact information (names, mailing and e-mail addresses, phone/ fax numbers).
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, phone number. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-  **How may my Personal Info be used?**
+## Non-personal identification information
 
-  Sapient uses your Personal Info to fulfill your requests for information, to process your requests to participate in events, and to review and consider any employment-related inquiries that you may submit. We may keep any of your Personal Info on file and use it to contact you for recruiting purposes. Sapient may also use Personal Info in analyzing Site user behavior in order to measure interest in specific items posted on our Site. The e-mail addresses provided at registration allow Sapient to send e-mail to individuals based on the areas of interest that they indicate during the registration process. If you do not wish to receive e-mailed advance notice of items posted on the Site, simply do not check off any of the subject boxes on the registration page. Sapient uses Personal Info collected from cookies and IP addresses as described below. Sapient may provide your Personal Info to any of its affiliates worldwide for such purposes.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-  **Are cookies and IP addresses used?**
+## Web browser cookies
 
-  The Site uses cookies to identify you and your interests and to track usage of the Site. Cookies are small pieces of text stored on your computer that help us know which browser you are using and where you have been on the Site and on Web sites to which you may link in order to use some of our features. Cookies also let us know whether you have registered with us and otherwise enable us to relate your current usage of the Site to prior usage of this or other Sites of Sapient or its affiliates. By accepting our cookie, you will be permitted access to certain pages of the Site without having to log in each time you visit. A user who does not accept the cookie from the Site may not be able to access certain areas of the Site. Sapient also logs IP addresses, or the location of computers on the Internet, to help diagnose problems with our server and to administer the Site.
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-  **Is personally-identifiable information disclosed to third parties?**
+## How we use collected information
 
-  Sapient will not intentionally disclose (and will take commercially reasonable steps to prevent the accidental disclosure of) your Personal Info to third parties (i.e., persons or entities that are not affiliates of Sapient), whether for such third parties' marketing purposes or otherwise, subject only to the following four exceptions:
+DomainNameSales.com collects and uses Users personal information for the following purposes:
 
-  1\. Sapient may disclose your Personal Info to third parties as required or permitted by the laws, rules, and regulations of any nation, state, or other applicable jurisdiction;  
-2\. Sapient may disclose your Personal Info to third parties who deliver information from us to you for the purpose of performing such delivery;  
-3\. Sapient may disclose your Personal Info if, in connection with submitting the information, you consent to such disclosure;  
-4\. Sapient may disclose contact information for you in response to inquiries by bona-fide rights owners in connection with allegations of infringement of copyright or other proprietary rights arising from information you have posted on the Site or otherwise provided to Sapient;  
-5\. If Sapient and/or any of its affiliates merges with or sells substantially all of its assets or a majority of its equity to a third party, information collected by Sapient or such affiliates on their Web sites may be disclosed to and owned by the merged entity or third party.
+  * _To personalize user experience_  
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site. 
+  * _To improve our Site_  
+We continually strive to improve our website offerings based on the information and feedback we receive from you. 
+  * _To improve customer service_  
+Your information helps us to more effectively respond to your customer service requests and support needs. 
+  * _To process transactions_  
+We may use the information Users provide about themselves when listing domain names for brokerage and in receiving offers or inquiries about listed domain names. This information may be shared with other listing services and brokers for the purpose of acting on your inquiry. 
+  * _To share your information with third parties_  
+We may share information with third parties for marketing or other purposes.
+  * _To send periodic emails_  
+The email address Users provide to us will only be used to send them information and updates pertaining to their listings and/or inquiries. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site. 
 
-  **Links to third-party sites**
 
-  We may provide links to third-party Web sites as a service to our users. In addition, some of the content appearing to be on this Site is in fact supplied by third parties, for example, in instances of framing of third- party Web sites or incorporation through framesets of content supplied by third-party servers. We cannot control and are not responsible for the information collection and privacy practices of such third-party Web sites, which may differ from those of this Site.
 
-  **How can I access, change, and/or delete information?**
+## How we protect your information
 
-  You may access, correct, update, and/or delete any Personal Info that you submitted to the Site. You may also unsubscribe from mailing lists or any registrations on the Site. To do so, please either follow instructions on the page of the Site on which you have provided such information or subscribed or registered, or send us an e-mail at privacy@Sapient.com.
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-  **Security**
+## Sharing your personal information
 
-  Sapient has implemented generally accepted standards of technology and operational security in order to protect Personal Info from loss, misuse, alteration, or destruction. Only authorized Sapient personnel are provided access to Personal Info, and these employees are required to treat this information as confidential. Despite these precautions, Sapient cannot guarantee that unauthorized persons will not obtain access to your Personal Info.
+We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
 
-  **Transborder hosting and transfer of information**
+## Third party websites
 
-  Personal Info collected on the Site may be transferred from time to time to Sapient offices located throughout the world, including offices located outside the European Economic Area (EEA), and the Site may be viewed and hosted anywhere in the world, including countries (such as the United States) that may not have laws regulating the use and transfer of personally-identifiable data. By using the Site and submitting such information on it, you voluntarily consent to such transborder transfer and hosting of such information.
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
 
-  **Children's on-line privacy protection**
+## Advertising
 
-  Sapient understands the importance of protecting children's privacy, especially in an on-line environment. The Site is not intentionally designed for or directed at children 13 years of age or younger, and Sapient will not intentionally collect or maintain information about anyone under the age of 13.
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
-  **Consent**
+## Changes to this privacy policy
 
-  By using the Site, you consent to the collection, use, and storage of your information by us in the manner described in this Privacy Policy and elsewhere on the Site. We reserve the right to make changes to this Privacy Policy from time to time. We will alert you to any such changes by updating this Privacy Policy.
+DomainNameSales.com has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-  **Contact our Privacy Department**
+## Your acceptance of these terms
 
-  If you have any questions about our Privacy Policy, please e-mail us at www@sapient.com.
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-  The effective date of the privacy policy. This policy has been in effect since July 1, 2004.
+## Contacting us
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](https://web.archive.org/contact)
+
+This document was last updated on April 03, 2012
