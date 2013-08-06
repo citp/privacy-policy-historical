@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopatron.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021072714id_/http%3A//ecommerce.shopatron.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopatron.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806154937id_/http%3A//ecommerce.shopatron.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Shopatron eCommerce
 
