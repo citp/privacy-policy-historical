@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tredosoft.com privacy policy that was archived on 2013-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130212093307id_/http%3A//tredosoft.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tredosoft.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806024012id_/http%3A//tredosoft.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TredoSoft
 
