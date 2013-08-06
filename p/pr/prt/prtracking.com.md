@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prtracking.com privacy policy that was archived on 2013-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130122200007id_/http%3A//www.prtracking.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prtracking.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806143122id_/http%3A//www.prtracking.com/privacy) for the most accurate reproduction.*
 
 # PR Tracking - Privacy Policy
 
