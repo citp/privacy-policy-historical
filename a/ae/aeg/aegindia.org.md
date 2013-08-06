@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aegindia.org privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531022013id_/http%3A//www.aegindia.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aegindia.org privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806161553id_/http%3A//www.aegindia.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AEG India
 
