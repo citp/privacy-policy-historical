@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asiahotels.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115190344id_/http%3A//www.asiahotels.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiahotels.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807005257id_/http%3A//www.asiahotels.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Asia-Hotels
 
