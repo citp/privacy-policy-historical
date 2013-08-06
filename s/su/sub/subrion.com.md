@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the subrion.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621125013id_/http%3A//www.subrion.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subrion.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806205115id_/http%3A//www.subrion.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: Open Source CMS
 
