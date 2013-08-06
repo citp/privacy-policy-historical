@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the branchout.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225031411id_/http%3A//branchout.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the branchout.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806204919id_/https%3A//branchout.com/about/privacy) for the most accurate reproduction.*
 
-# BranchOut
+# BranchOut - Chat for Teams
 
 ## 1\. Introduction
 
