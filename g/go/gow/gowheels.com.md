@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gowheels.com privacy policy that was archived on 2013-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130214041913id_/http%3A//www.gowheels.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gowheels.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807003537id_/http%3A//www.gowheels.com/policy) for the most accurate reproduction.*
 
-# 
+# Gowheels.com (Deals in Wheel) Privacy Policy - Gowheels (Deals in Wheels) Privacy, Gowheels Policy
 
 The Privacy Policy (hereinafter "the policy") provided below is with respect to our use and protection of any personal information you provide to us through the www.gowheels.com website. Goinfoway is the sole owner of the website www.gowheels.com (hereinafter "website"). The Policy is applicable to the website. It may also be applicable generally to our other related websites provided it appears at the footer of the page therein. You may be required to provide personally identifiable information at several different points on our website. By accepting the policy at the time of registration, you expressly approve and consent to our collection, storage, use and disclosure of your personal information as described in this Policy. 
 
