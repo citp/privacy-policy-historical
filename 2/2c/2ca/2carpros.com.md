@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2carpros.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423142035id_/http%3A//www.2carpros.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2carpros.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806152258id_/http%3A//www.2carpros.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,7 @@ We use your IP address to help diagnose problems with our server, and to adminis
 
 **Information we collect from you**
 
-Our site's registration form requires users to give us contact information (their name and e-mail address). This information enables us to provide information to you about products or services for your car as our website is developed.
+Our site's registration form requires users to give us contact information (their name and e-mail address).  This information is never available for anyone outside of 2CarPros.com
 
 **Our web partners**
 
@@ -26,7 +26,7 @@ This site has security measures in place to protect the loss, misuse and alterat
 
 **Disclaimer**
 
-The information found in the Professional Mechanics Online website is not intended to replace the advice of your automobile mechanic and is not a substitute for a thorough diagnostic inspection by a qualified professional mechanic. No vehicle repair should be attempted without a thorough knowledge of the mechanics of the repair and the risks involved. The purpose of this website is to educate and inform. No claim or guarantee is intended to the accuracy of the information on this site although every attempt has been made to verify the accuracy of all information with the exception of the pubic forum.
+The information found in the 2Carpros.com website is not intended to replace the advice of your automobile mechanic and is not a substitute for a thorough diagnostic inspection by a qualified professional mechanic. No vehicle repair should be attempted without a thorough knowledge of the mechanics of the repair and the risks involved. The purpose of this website is to educate and inform. No claim or guarantee is intended to the accuracy of the information on this site although every attempt has been made to verify the accuracy of all information with the exception of the pubic forum.
 
 **Cookies and Similar Technology:**
 
@@ -39,21 +39,10 @@ We use 'cookie' technology to collect data regarding your visits to the 2CarPros
 
 
 
-Although we may track the numbers of visitors to inform us on how best to improve and update the 2CarPros Network and enhance the experience for all visitors, Personal Information is not extracted in this process. We use tracking information on an aggregated basis to help us operate the 2CarPros Network, enhance and improve our service, improve the look of the 2CarPros Network and display advertising and marketing information.
+Although we may track the numbers of visitors to inform us on how best to improve and update the 2CarPros Network and enhance the experience for all visitors, Personal information is not extracted in this process. We use tracking information on an aggregated basis to help us operate the 2CarPros Network, enhance and improve our service, improve the look of the 2CarPros Network and display advertising and marketing information.
 
 We may also use third parties to display or serve advertising on the 2CarPros Network and our web-based newsletters or other communications which you may choose to receive. Often these third party Advertisers employ cookie and web bug technologies to measure advertising effectiveness. You should be aware that different rules might apply to the collection, use or disclosure of your information by third parties in connection with their advertisements, promotions and other websites you encounter on the Internet. The use of such technology by these third parties is within their control and not ours. Even if we have a relationship with the third party, we do not control those sites or their policies and practices regarding your information. This Privacy Policy does not cover any use of Personal Information that an Advertiser or ad server may collect from you. We encourage you to investigate and ask questions directly of them in this regard.
 
-Privacy of Your Postings: We respect the privacy of the contents of users' e-mail and Postings. However, we reserve the right to monitor, edit, and disclose your use of the 2CarPros Network, information pertaining to any e-mail or Posting or its contents to a third party, if we believe such action is required by law or is necessary to protect and defend our rights, to enforce this Privacy Policy or our Terms of Use, or to protect the interests of our users, Affiliates, Advertisers, suppliers, service providers and others.
-
-Disclosure to Third Parties: We do not sell, rent, lease or disclose your Personal Information to unaffiliated entities or entities that are not our Advertisers, except in the limited circumstances listed below. When we plan to disclose your Personal Information to Advertisers, we ask you to opt-in to do so, in which case their use of your information is subject to the Advertisers' own privacy policies. We may disclose Personal Information to Affiliates for marketing or administrative purposes. You can opt-out of these procedures if desired by disabling your cookie feature from your browser.
+Privacy of Your Postings: We respect the privacy of the contents of users' e-mail and Postings. However, we reserve the right to monitor or edit information pertaining to any e-mail or Posting or its contents to a third party, if we believe such action is required by law or is necessary to protect and defend our rights, to enforce this Privacy Policy or our Terms of Use, or to protect the interests of our users, Affiliates, Advertisers, suppliers, service providers and others.
 
 If you have any question or comments about 2CarPros please [contact us](http://www.2carpros.com/contacts/new)
-
-**Main Information Sections**
-
-  * [Repair Answers](https://web.archive.org/topics)
-  * [Repair Instructions](https://web.archive.org/section/how-to-repair-or-service)
-  * [Repair Troubleshooting](https://web.archive.org/section/troubleshooting-problems)
-  * [How Does it Work](https://web.archive.org/section/how-does-it-work)
-
-
