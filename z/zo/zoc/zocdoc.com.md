@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zocdoc.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506103920id_/http%3A//www.zocdoc.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zocdoc.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807003227id_/http%3A//www.zocdoc.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - ZocDoc
 
