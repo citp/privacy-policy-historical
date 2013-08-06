@@ -1,14 +1,20 @@
-> *The following text is extracted and transformed from the postable.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115040146id_/https%3A//www.postable.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postable.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806111016id_/https%3A//www.postable.com/privacy) for the most accurate reproduction.*
 
-# Postable - The easiest way to get people's mailing addresses
+# Postable - Thank you cards made easy
 
-Postable is committed to protecting your privacy. This Privacy Policy describes the information we collect through our Site, how we use it, and how you can make choices about use of that information. By using our Site, you consent to our collection and use of information about you in accordance with the Terms, including this Privacy Policy.
+Postable is committed to protecting your privacy. This Privacy Policy describes the information we collect through our Site, how we use it, and how you can make choices about use of that information. By using our Site you agree to this Privacy Policy. 
+
+We strive to treat our users the way we want to be treated online. In short, we do the following. 
+
+(1) We collect information to facilitate the basic functionality of, and to improve, our Site.
+
+(2) We share information (a) as you direct us; (b) with service providers (such as our hosting and email providers), like many websites you use daily; and (c) to protect our users, artists, and ourselves from general bad-doing (such as illegal activities). 
+
+Please read on for details about how we collect and use information, and your privacy. 
 
 ### Collection of Information
 
-When you register for an Account and submit information for a user’s Address Book or otherwise on our Site, we collect personally identifiable information about you ("Personal Information"), which may include such information as your name, physical address, zip code, telephone number(s), e-mail address(es), birth month and day, marital status, name of spouse. If you provide information about anyone other than yourself, you represent and warrant that you have the permission and right to provide the information.
-
-If you submit your information in response to a registered user’s invitation, your Personal Information will be used only for that user’s Address Book. If you register for an Account, your Personal Information will be used to maintain your Account and Address Book, and we may also send you emails from time to time with information about new features or other news that we think will be of interest to you. If you no longer wish to receive this information from us, you can follow the “unsubscribe” instructions in the messages or you can opt out by contacting us at [info@postable.com](mailto:info@postable.com).
+When you register for an Account and submit information for a user’s Address Book or otherwise on our Site, we collect personally identifiable information about you ("Personal Information"), which may include such information as your name, physical address, zip code, telephone number(s), e-mail address(es), birth month and day, marital status, name of spouse. If you provide information about anyone other than yourself, you represent and warrant that you have the permission and right to provide the information. If you submit your information in response to a registered user’s invitation, your Personal Information will be used only for that user’s Address Book. If you register for an Account, your Personal Information will be used to maintain your Account and Address Book, and we may also send you emails from time to time with information about new features or other news that we think will be of interest to you. If you no longer wish to receive this information from us, you can follow the “unsubscribe” instructions in the messages or you can opt out by contacting us at [info@postable.com](mailto:info@postable.com).
 
 To help us improve our services, we may also collect information to analyze how visitors use our Site, including the time and date of visits to our Site, the referring website, the length of the visit to our Site, the web pages viewed during a visit, time spent on a particular web page, the links followed, the type of web browser used, the web site visited before and after our Site, and the visitor’s IP address (which is the number assigned to the visitor’s computer to identify its location on the Internet). While we do not use this information to identify visitors individually, we reserve the right to do so in circumstances where we determine in our reasonable judgment it may be appropriate to comply with legal process or law enforcement or to protect our rights or the rights of any third party.
 
@@ -18,9 +24,8 @@ Our Site uses cookies, which are small data files placed on your computer. For e
 
 ### Protection and Sharing of Information
 
-We will share your Personal Information only with the registered user to whom you submitted it for use in his or her Address Book and with service providers who help us operate our Site (such as hosting and email service providers). We reserve the right to disclose and use Personal Information and other information collected on our Site in special circumstances (including to enforce this Privacy Policy or any other part of our Terms, to comply with legal process, law enforcement, or law, to protect our property or rights or the rights or safety of any third party, to address suspected illegal activity, and for similar reasons we determine in good faith are appropriate). If we enter into a business transition, such as a merger, consolidation, acquisition, or sale of all or part of our assets that includes our Site, your Personal Information will likely be transferred along with our other assets.
+We will share your Personal Information only with the registered user to whom you submitted it for use in his or her Address Book and with service providers who help us operate our Site (such as hosting and email service providers). We reserve the right to disclose and use Personal Information and other information collected on our Site in special circumstances (including to enforce this Privacy Policy or any other part of our Terms, to comply with legal process, law enforcement, or law, to protect our property or rights or the rights or safety of any third party, to address suspected illegal activity, and for similar reasons we determine in good faith are appropriate). If we enter into a business transition, such as a merger, consolidation, acquisition, or sale of all or part of our assets that includes our Site, your Personal Information will likely be transferred along with our other assets.  
 
- 
 
 ### Review and Update Your Personal Information
 
@@ -36,8 +41,12 @@ Our servers are located in the United States. If you are located outside of the 
 
 ### Children Under Age 13
 
-Our Site is designed for use solely by individuals 13 years and older. By using our Site, you represent to us that you are at least 13 years old. If you are not at least 13 years old, you may not use our Site.  You may not use our Site to request information from anyone under the age of 13 and we do not knowingly collect personally identifiable information from children under the age of 13. If we learn that any personally identifiable information has been collected from a child under the age of 13 without verification of parental consent, we will delete that information. If you are a parent or legal guardian and you believe that your child under age 13 may have provided personally identifiable information through our Site, please contact us at [info@postable.com](mailto:info@postable.com).
+Our Site is designed for use solely by individuals 13 years and older. By using our Site, you represent to us that you are at least 13 years old. If you are not at least 13 years old, you may not use our Site. You may not use our Site to request information from anyone under the age of 13 and we do not knowingly collect personally identifiable information from children under the age of 13. If we learn that any personally identifiable information has been collected from a child under the age of 13 without verification of parental consent, we will delete that information. If you are a parent or legal guardian and you believe that your child under age 13 may have provided personally identifiable information through our Site, please contact us at [info@postable.com](mailto:info@postable.com).
+
+### Changes to this Privacy Policy
+
+We may modify this Privacy Policy from time to time by displaying updated Terms on the Site. Your continued use of the Site after the updated Privacy Policy is displayed indicates your agreement to the modified Privacy Policy.
 
 ### Questions
 
-For any questions or comments you may have about this Privacy Policy, please contact us at: [info@postable.com.](https://web.archive.org/web/20130115040146id_/https%3A//www.postable.com/info@postable.com)
+For any questions or comments you may have about this Privacy Policy, please contact us at: [info@postable.com](mailto:info@postable.com).
