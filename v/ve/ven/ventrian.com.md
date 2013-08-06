@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ventrian.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214181522id_/http%3A//www.ventrian.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ventrian.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807004305id_/http%3A//www.ventrian.com/privacy) for the most accurate reproduction.*
 
-# Ventrian Systems - DotNetNuke Modules, Skins & Skin Objects
+# DotNetNuke Modules & Extensions
 
 Ventrian Systems is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Ventrian Systems Web site and governs data collection and usage. By using the Ventrian Systems website, you consent to the data practices described in this statement.
 
@@ -44,4 +44,4 @@ Ventrian Systems will occasionally update this Statement of Privacy to reflect c
 
 Contact Information
 
-Ventrian Systems welcomes your comments regarding this Statement of Privacy. If you believe that Ventrian Systems has not adhered to this Statement, please contact Ventrian Systems at [support@ventrian.com](mailto:support@ventrian.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+Ventrian Systems welcomes your comments regarding this Statement of Privacy. If you believe that Ventrian Systems has not adhered to this Statement, please contact Ventrian Systems at [support@ventrian.com](mailto:support@ventrian.com). We will use commercially reasonable efforts to promptly determine and remedy the problem.
