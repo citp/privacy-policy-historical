@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the puravidabracelets.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605222915id_/http%3A//puravidabracelets.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puravidabracelets.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806205244id_/https%3A//puravidabracelets.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Pura Vida Bracelets Privacy Policy
 
