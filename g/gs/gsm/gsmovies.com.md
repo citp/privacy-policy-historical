@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gsmovies.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509232634id_/http%3A//www.gsmovies.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gsmovies.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806100544id_/http%3A//www.gsmovies.com/privacy.php) for the most accurate reproduction.*
 
-# www.gsmovies.com - Privacy Policy
+# gsmovies.com - Privacy Policy
 
 This privacy policy is intended to inform you about the types of information gathered by GS Movies when you visit GSMovies.com and/or purchase a GSMovies.com membership, how we use and safeguard that information, and the degree to which you may control the maintenance and sharing of your information.
 
