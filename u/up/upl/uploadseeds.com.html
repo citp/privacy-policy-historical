@@ -1,31 +1,25 @@
-<!--The following is the downloaded HTML source of the uploadseeds.com privacy policy that was archived on 2013-02-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130208013748id_/http%3A//www.uploadseeds.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the uploadseeds.com privacy policy that was archived on 2013-08-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130806233516id_/http%3A//www.uploadseeds.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
 
-  <link href="style.css" rel="stylesheet" type="text/css">
-
-  <link rel="stylesheet" href="screensmall.css" type="text/css" media="screen">
 
 
-
+  <link href="/style.css" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="/screensmall.css" type="text/css" media="screen">
   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-
+  <meta name="wot-verification" content="7f2baedd9fb2cbd3ee1d">
   <meta http-equiv="pragma" content="no-cache">
-
   <meta http-equiv="cache-control" content="no-cache">
   <meta name="ROBOTS" content="INDEX,FOLLOW">
   <meta name="GOOGLEBOT" content="INDEX,FOLLOW">
   <meta name="SLURP" content="INDEX,FOLLOW"> 
   <meta name="keywords" content="rapidshare,file hosting,file upload, file mirror, mass mirror,file backup, multiple file backup,multi upload, multiupload, file upload, file mirror, mass mirror,upload service, upload, file, mirroring, free file upload, file upload service, file hosting sites, free, web service, service, file hosting, hosting sites, free file upload service, service upload to multiple, multiple free file hosting, free file hosting sites, mirroring service">
-  
-  
-  
- <!-- <script type="text/javascript" src="http://advertising.uploadseeds.com/public/javascripts/jquery.js"></script> -->
-  <!-- <script type="text/javascript" src="http://advertising.uploadseeds.com/public/javascripts/simpleadvert/"></script> -->
 
-	
+  
+<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script id="jquery" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
+
 
   <meta http-equiv="expires" content="-1">
 
@@ -229,7 +223,17 @@ body {
 
 -->
 </style>
-
+<script language="JavaScript">
+ 
+<!-- Begin
+function popUp(URL) {
+day = new Date();
+id = day.getTime();
+eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,location=1,statusbar=1,menubar=0,resizable=1,width=800,height=500,left = 112,top = 84');");
+window.focus();
+}
+// End -->
+</script>
 </head>
 
 
@@ -243,9 +247,7 @@ body {
       <div id="left_banner"><a href="http://www.uploadseeds.com"><img src="../images/main-logo.png" alt="File Mirror Hosting" width="368" height="138" border="0" align="middle"></a></div>
 
 	 
-
-
-     	 
+	 
 	 <style>
 	 
 #login_form_header {
@@ -313,12 +315,12 @@ padding: 2px;
 <![endif]-->
 	 
 	 <div id="login_form_header">
-		<form method="post" action="account.php">
+		<form method="post" action="login">
 			<label>Username :</label>
-			<input type="text" name="logname" value="" placeholder="Username"><br>
+			<input type="text" name="username" value="" placeholder="Username"><br>
 			<label>Password :</label>
 			<input type="password" name="logpass" value="" placeholder="Password"><br>
-			<a href="account.php?forgotpass=1" title="forgot password ?" id="forgetpass">Forgot password ?</a> <input id="login_btn" type="submit" name="login" value="Log in">
+			<a href="password_recovery" title="forgot password ?" id="forgetpass">Forgot password ?</a> <input id="login_btn" type="submit" name="login" value="Log in">
 		</form>
 	 </div>
 	 
@@ -335,16 +337,15 @@ padding: 2px;
 	
 	<form action="account.php" method="post"> 
 	
-	<a href="index.php">PC UPLOAD</a> | <a href="remote.php">REMOTE UPLOAD</a>  | <a href="premium.php">PREMIUM</a> | 
-	<a href="faq.php">FAQ</a> | <a href="contact.php">CONTACT</a> | <a href="advertising.php" target="_self">ADVERTISE</a> | 
-	<a href="http://uploadseeds.com/affiliates/">AFFILIATES</a> |
+	<a href="/">PC UPLOAD</a> | <a href="/remote_upload">REMOTE UPLOAD</a>  | <a href="/premium">PREMIUM</a> | 
+	<a href="/faq">FAQ</a> | <a href="/news">NEWS</a> | <a href="/contact_us">CONTACT</a> | <a href="/advertising" target="_self">ADVERTISE</a> | 
+	<a href="/store" title="Uploadseeds Store">STORE</a> |
 	
 
+<a style="margin-right: 0px;padding-right: 0px;" href="/register">REGISTER</a>
 
- 
-<a style="margin-right: 0px;padding-right: 0px;" href="account.php">REGISTER</a>
-		 	
-	 		 	</form>
+		
+	 	</form>
 	 	</div>
 </div>
 <script type="text/javascript" language="JavaScript">
@@ -447,46 +448,6 @@ padding: 2px;
 
 </div>
 
-<script src="http://code.jquery.com/jquery-1.7.0.min.js"></script>
-<script>
-jQuery(document).ready(function(){
-	// use jquery 1.7
-	jq170 = jQuery.noConflict(true);
-	
-	// init 
-	jq170('label input[type=checkbox]').each(function(){
-		var checkboxLabel = $(this).parent();
-		// ignore IE6
-		if ($.browser.msie && $.browser.version.substr(0,1)<7) {
-		}else{
-		
-			if($(this).is(':checked')){
-				checkboxLabel.attr('class' , 'checked');
-			}else{
-				checkboxLabel.attr('class' , 'unchecked');
-			}
-			$(this).css({'left':'-9999px','position':'absolute'});
-		
-		}
-	});
-	// check , uncheck
-	jq170('label input[type=checkbox]').live('click',function(){
-		// ignore IE6
-		if ($.browser.msie && $.browser.version.substr(0,1)<7) {
-		}else{
-	
-			var checkboxLabel = $(this).parent();
-			if($(this).is(':checked')){
-				checkboxLabel.attr('class' , 'checked');
-			}else{
-				checkboxLabel.attr('class' , 'unchecked');
-			}
-		
-		}
-	});
-
-});
-</script>
 
 <style type="text/css">
 <!--
@@ -505,8 +466,8 @@ jQuery(document).ready(function(){
 -->
 </style>
 
-<div id="footer">
-<table width="600" border="0" align="center">
+<div id="footer"> 
+<table id="global_tbl" width="600" border="0" align="center">
     <tbody><tr>
       <td width="12%" align="right">&nbsp;</td>
       <td align="center"><div align="center"><span class="foothead style4"><strong>WHY UPLOADSEEDS</strong></span></div></td>
@@ -517,17 +478,27 @@ jQuery(document).ready(function(){
     </tr>
     <tr>
       <td height="103">&nbsp;</td>
-      <td valign="top"><a href="about.php">If you are looking for an immediate way to share files in a way as   widespread as possible and with little effort, then this service is for   you.</a></td>
+      <td valign="top"><a href="about_us">If you are looking for an immediate way to share files in a way as   widespread as possible and with little effort, then this service is for   you.</a></td>
       <td width="18%" valign="top"><div align="right"><a href="https://s3.amazonaws.com/com.alexa.toolbar/atbp/W27qLK/download/index.htm" target="_blank">Our ToolBar</a><br>
-          <a href="about.php">About Us</a><br>
-        <a href="advertising.php" target="_self">Advertise with us</a></div></td>
-      <td width="16%" valign="top"><div align="right"><a href="dmca.php" target="_self">Abuse/DMCA</a><br>
-          <a href="terms.php">Terms of service</a><br>
-        <a href="privacy.php">Privacy policy<br>
+          <a href="about_us">About Us</a><br>
+        <a href="advertising" target="_self">Advertise with us</a></div></td>
+      <td width="16%" valign="top"><div align="right"><a href="dmca" target="_self">Abuse/DMCA</a><br>
+          <a href="terms">Terms of service</a><br>
+        <a href="privacy_policy">Privacy policy<br>
       </a></div>        </td>
-      <td width="15%" valign="top"><div align="right"><a href="http://twitter.com/uploadseeds" target="_blank">Follow us on Twitter</a><a href="links.php" target="_blank"></a><a href="links.php"><br>
-Link to us </a><a href="http://uploadseeds.com/affiliates" target="_self"><br>
-Affiliates</a></div></td>
+      <td width="15%" valign="top"><div align="right"><a href="http://twitter.com/uploadseeds" target="_blank">Follow us on Twitter</a><a href="links" target="_blank"></a><a href="links"><br>
+Link to us </a></div></td>
+
+
+<!--<td width="15%" valign="top"><div align="right"><fb:login-button show-faces="true" width="200" max-rows="1"></fb:login-button>
+</td>-->
+
+ 
+
+      <!--<td width="15%" valign="top"><div align="right"><a href="https://www.facebook.com/dialog/oauth?client_id=469766536432598&redirect_uri=http://www.uploadseeds.com/fblogin.php&scope=email,user_birthday,user_hometown,user_likes">
+<img border=0 src="FBlogin.png">fb</a>
+</td>-->
+        
       <td width="12%" valign="top">&nbsp;</td>
     </tr>
   </tbody></table>
@@ -535,6 +506,106 @@ Affiliates</a></div></td>
 
 </div>
 </div>
+
+
+
+
+
+<div id="fb-root"></div>
+<script>
+  // Additional JS functions here
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '469766536432598', // App ID
+      channelUrl : '//www.uploadseeds.com/channel.html', // Channel File
+      status     : true, // check login status
+      cookie     : true, // enable cookies to allow the server to access the session
+      xfbml      : true  // parse XFBML
+    });
+
+    // Additional init code here
+
+  };
+
+  // Load the SDK asynchronously
+  (function(d){
+     var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement('script'); js.id = id; js.async = true;
+     js.src = "//connect.facebook.net/en_US/all.js";
+     ref.parentNode.insertBefore(js, ref);
+   }(document));
+</script>
+
+
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+  FB.init({
+    appId      : '469766536432598', // App ID
+    channelUrl : '//WWW.uploadseeds.com/channel.html', // Channel File
+    status     : true, // check login status
+    cookie     : true, // enable cookies to allow the server to access the session
+    xfbml      : true  // parse XFBML
+  });
+
+  // Here we subscribe to the auth.authResponseChange JavaScript event. This event is fired
+  // for any authentication related change, such as login, logout or session refresh. This means that
+  // whenever someone who was previously logged out tries to log in again, the correct case below 
+  // will be handled. 
+  FB.Event.subscribe('auth.authResponseChange', function(response) {
+    // Here we specify what we do with the response anytime this event occurs. 
+    if (response.status === 'connected') {
+      // The response object is returned with a status field that lets the app know the current
+      // login status of the person. In this case, we're handling the situation where they 
+      // have logged in to the app.
+      testAPI();
+    } else if (response.status === 'not_authorized') {
+      // In this case, the person is logged into Facebook, but not into the app, so we call
+      // FB.login() to prompt them to do so. 
+      // In real-life usage, you wouldn't want to immediately prompt someone to login 
+      // like this, for two reasons:
+      // (1) JavaScript created popup windows are blocked by most browsers unless they 
+      // result from direct interaction from people using the app (such as a mouse click)
+      // (2) it is a bad experience to be continually prompted to login upon page load.
+      FB.login();
+    } else {
+      // In this case, the person is not logged into Facebook, so we call the login() 
+      // function to prompt them to do so. Note that at this stage there is no indication
+      // of whether they are logged into the app. If they aren't then they'll see the Login
+      // dialog right after they log in to Facebook. 
+      // The same caveats as above apply to the FB.login() call here.
+      FB.login();
+    }
+  });
+  };
+
+  // Load the SDK asynchronously
+  (function(d){
+   var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+   if (d.getElementById(id)) {return;}
+   js = d.createElement('script'); js.id = id; js.async = true;
+   js.src = "//connect.facebook.net/en_US/all.js";
+   ref.parentNode.insertBefore(js, ref);
+  }(document));
+
+  // Here we run a very simple test of the Graph API after login is successful. 
+  // This testAPI() function is only called in those cases. 
+  function testAPI() {
+    console.log('Welcome!  Fetching your information.... ');
+    FB.api('/me', function(response) {
+      console.log('Good to see you, ' + response.name + '.');
+    });
+  }
+</script>
+
+<!--
+  Below we include the Login Button social plugin. This button uses the JavaScript SDK to
+  present a graphical Login button that triggers the FB.login() function when clicked.
+
+  Learn more about options for the login button plugin:
+  /docs/reference/plugins/login/ -->
 
 
 
