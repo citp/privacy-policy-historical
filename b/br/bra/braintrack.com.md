@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the braintrack.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501180710id_/http%3A//www.braintrack.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the braintrack.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806130925id_/http%3A//www.braintrack.com/privacy.htm) for the most accurate reproduction.*
 
 # BrainTrack Privacy Policy
 
