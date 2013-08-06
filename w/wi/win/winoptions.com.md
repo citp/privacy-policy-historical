@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winoptions.com privacy policy that was archived on 2013-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130114140837id_/http%3A//www.winoptions.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winoptions.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806051730id_/http%3A//www.winoptions.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy that Ensures your Details are Confidential and Secure | Winoptions.com
 
