@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dressale.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506162716id_/http%3A//www.dressale.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dressale.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806173946id_/http%3A//www.dressale.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice - Dressale.com
 
@@ -48,7 +48,7 @@ Cookies are small pieces of information that your Internet browser stores as tex
 
 This Site also uses web beacons (also known as clear GIF technology or "action tags") to:   
 * help deliver cookies   
-* track views of a web page
+* track viewed of a web page
 
 Any electronic image on the Site, such as an ad banner, can function as a web beacon. We may use content or ads from third-party advertising companies that may use cookies and web beacons to measure web page visits or amount of products purchased. 
 
@@ -115,6 +115,10 @@ As Dressale.com collects most information through our Site, this Privacy Policy 
 We also protect all personal information that is collected from you offline, such as through phone calls. If we contact you by telephone regarding an order or payment, we will ask only for the personal information needed to place your order or resolve your issue. When we need to store information related to an order, we enter it into our database through SSL encryption (See the Data Security section above for more information).
 
 This Policy does not attempt to cover all possible offline methods of collecting or using personal information, however, we will treat any offline collection, use, or disclosure of personal information in a manner consistent with our online practices.
+
+**What’s your policy for Facebook connect?**
+
+You may provide personal information (e.g. Your public profile, friends list, email address) to Dressale by connecting your facebook account with Dressale. We may also ask for other information at other times but at no time will you be required to share any personal information to gain complete access to our site. By no means will we post on your behalf without your permission. 100% safety is guaranteed when connecting your Facebook account with Dressale.
 
 **Where can I find updates to this policy?**
 
