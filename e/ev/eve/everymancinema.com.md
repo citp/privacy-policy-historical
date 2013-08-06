@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everymancinema.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424023517id_/http%3A//www.everymancinema.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everymancinema.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806140404id_/http%3A//www.everymancinema.com/privacy) for the most accurate reproduction.*
 
 # Everyman Cinemas - Privacy Policy
 
