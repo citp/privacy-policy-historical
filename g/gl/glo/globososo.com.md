@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globososo.com privacy policy that was archived on 2013-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130419021111id_/http%3A//www.globososo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globososo.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806022518id_/http%3A//www.globososo.com/privacy.html) for the most accurate reproduction.*
 
 # Globososo.com
 
