@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the sheinside.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621060637id_/http%3A//www.sheinside.com/Privacy-Security-Policy-a-282.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheinside.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806141804id_/http%3A//www.sheinside.com/Privacy-Security-Policy-a-282.html) for the most accurate reproduction.*
 
 # Privacy&Security Policy
+
+[Home](http://www.sheinside.com/) »  Privacy&Security Policy
 
 For users logging on to the site to stay personally identifiable information.  
 The content of the information collected When you register on our website, or using other companies products or services, visit the company website, I have that station will collect your personal information,Including name, phone number, zip code, address.
@@ -26,3 +28,21 @@ The revised privacy policy privacy policy website reserves the right to make cha
 
 **Choice and Opt-Out**  
 If you no longer wish to receive the Company's promotional communications, you may "opt-out" of receiving them by following the instructions included in each communication or by e-mailing the Company at **service@sheinside.com**.
+
+Or contact us:UNIT 04,7/F,BRIGHT WAY TOWER, NO.33 MONG KOK ROAD, KOWLOON,HK
+
+Get discounts and special offers to win gifts and cash prizes!
+
+  * [](https://www.facebook.com/Sheinside?ref=tn_tnmn "facebook")
+  * [](http://vk.com/sheinsider "vk")
+  * [](http://pinterest.com/sheinside/ "pinterest")
+  * [](https://twitter.com/SheInsider "twitter")
+  * [](http://sheinsideofficialblog.blogspot.com/ "blog")
+  * [](http://www.youtube.com/user/sheinsidevideo "youtube")
+
+
+
+  
+
+
+©sheinside.com. All rights reserved 
