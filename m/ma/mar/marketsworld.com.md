@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the marketsworld.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117003442id_/https%3A//marketsworld.com/help/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketsworld.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806162427id_/https%3A//www.marketsworld.com/help/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Licensed Binary Options Trading | Markets World
-
-##  Markets World Website Privacy Policy 
+# Privacy Policy
 
 Markets World takes the utmost measures to protect your privacy. This privacy policy sets out the data processing practices we carry out through the use of the Internet and any other electronic communications networks. 
 
