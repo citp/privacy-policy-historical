@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uhostall.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503221946id_/http%3A//uhostall.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uhostall.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806070640id_/http%3A//uhostall.com/privacy.php) for the most accurate reproduction.*
 
 # U Host All | Privacy Policy
 
@@ -27,7 +27,7 @@ When we receive email, we use return email addresses to reply with the informati
 
 **Choice/Opt-out**
 
-We provide you the opportunity to opt-out of having your personally identifiable information used for certain purposes, when we ask for this information. We offer an opportunity to opt-out of certain communications on our member profile page, or you may contact us at [privacy@uhostall.com](mailto:privacy@uhostall.tk) to opt-out. Generally, you may not opt-out of service related communications (such as replying to your emails, order confirmation emails, etc.) which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account by contacting us at [privacy@uhostall.com](mailto:privacy@uhostall.tk)[](mailto:privacy@uhostall.tk).
+We provide you the opportunity to opt-out of having your personally identifiable information used for certain purposes, when we ask for this information. We offer an opportunity to opt-out of certain communications on our member profile page, or you may contact us at [privacy@uhostall.com](mailto:privacy@uhostall.com) to opt-out. Generally, you may not opt-out of service related communications (such as replying to your emails, order confirmation emails, etc.) which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account by contacting us at [privacy@uhostall.com](mailto:privacy@uhostall.com)[](mailto:privacy@uhostall.com).
 
 **Information Sharing and Disclosure**
 
@@ -51,7 +51,7 @@ We reserve the right to disclose your personally identifiable information as req
 
 **Security**
 
-The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can send email us at [privacy@uhostall.com](mailto:privacy@uhostall.tk).
+The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can send email us at [privacy@uhostall.com](mailto:privacy@uhostall.com).
 
 **Links to Other Sites**
 
