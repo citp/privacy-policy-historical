@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the electronicspoint.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507063008id_/http%3A//www.electronicspoint.com/faq.php%3Ffaq%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electronicspoint.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806102614id_/http%3A//www.electronicspoint.com/faq.php%3Ffaq%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Electronics Forums - FAQ: Privacy Policy
 
