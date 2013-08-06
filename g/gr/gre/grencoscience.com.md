@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the grencoscience.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520093457id_/http%3A//www.grencoscience.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grencoscience.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806091205id_/http%3A//www.grencoscience.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY | Buy discrete and portable personal vaporisers: the G Pen and microG from Grenco Science
+# PRIVACY POLICY | Grenco Science | G Pen Personal Vaporizer
 
 At Grenco Science, Inc. we respect the the privacy of our Independent Distributors and the privacy of our customers. This document provides information regarding our policy as it relates to the collection, use, and disclosure of personal information. It also outlines our customer’s rights to limit the collection, use, or disclosure of personal information. We at Grenco Science hold this personal information seriously and we maintain this information in the strictest of confidence. We do not sell any information to any third party. We also maintain a secured website on all pages that require any personal information.
 
