@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the millsandboon.co.uk privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607223613id_/http%3A//millsandboon.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millsandboon.co.uk privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806062752id_/http%3A//millsandboon.co.uk/privacy.asp) for the most accurate reproduction.*
 
 # Romance, fiction books and ebooks from Mills & Boon
 
@@ -69,4 +69,4 @@ UK residents only: 020 8288 2800
 Non-UK residents: +44 20 8288 2898  
 UK residents only: 020 8288 2898Vat. Reg. Nos. GB 232433496
 
-[Back to help menu](https://web.archive.org/web/20130607223613id_/http%3A//millsandboon.co.uk/faqs.asp)
+[Back to help menu](https://web.archive.org/web/20130806062752id_/http%3A//millsandboon.co.uk/faqs.asp)
