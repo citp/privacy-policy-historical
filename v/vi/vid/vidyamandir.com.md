@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vidyamandir.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502131658id_/http%3A//www.vidyamandir.com/vmcPrivatePolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidyamandir.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806132033id_/http%3A//www.vidyamandir.com/vmcPrivatePolicy.jsp) for the most accurate reproduction.*
 
 # IITJEE Coaching Institute in Delhi for IITJEE Preparation: Vidyamandir Classes
 
