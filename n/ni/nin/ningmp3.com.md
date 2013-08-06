@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ningmp3.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430083732id_/http%3A//ningmp3.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ningmp3.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806044135id_/http%3A//ningmp3.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
