@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holdemmanager.net privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424013803id_/http%3A//www.holdemmanager.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holdemmanager.net privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806123728id_/http%3A//www.holdemmanager.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Hold'Em Manager
 
