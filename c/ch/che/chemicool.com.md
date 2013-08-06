@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chemicool.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626040725id_/http%3A//www.chemicool.com/about.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chemicool.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806144406id_/http%3A//www.chemicool.com/about.html%23privacy) for the most accurate reproduction.*
 
 # About Chemicool
 
