@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the fullslate.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515205830id_/http%3A//www.fullslate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fullslate.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806153925id_/http%3A//www.fullslate.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy by Full Slate
-
-Effective Date: August 6, 2008
 
 At **Full Slate** , we respect your right to privacy and we understand that users need to control the uses of their personal information. Full Slate, Inc. (“Full Slate”, “we”, “us” or “our”) owns and operates various websites and internet-based applications that facilitate appointment scheduling, customer relationship management, marketing, promotions, and resource management (collectively, the “Services”) for service providers and their clients. This privacy policy describes our policies with respect to personal information we receive from businesses and individuals who provide services (“Service Providers”), from individuals who use the Services to schedule appointments and otherwise interact with Service Providers (“Clients”), and from visitors to our websites.
 
@@ -22,7 +20,7 @@ We will not share your schedule with anyone except as necessary for Clients to b
 
 From time to time, we may provide you the opportunity to participate in surveys about the Services. If you participate, we will request certain personally identifiable information from you. Participation in these surveys is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and email address), and demographic information (such as zip code). We use this information to improve or optimize the Services and to provide Service Providers with aggregate information that may help them better operate their business. We may use a third party service provider to conduct these surveys; that company will be prohibited from using our users’ personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a survey with other third parties unless we give you prior notice and choice.
 
-## Communications from THE SERVICES
+## Communications from the Services
 
 ### Clients
 
@@ -50,7 +48,7 @@ We will share your information with Clients to the extent it is necessary to sch
 
 We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on the Services.
 
-## Choice AND Opt-out
+## Choice and Opt-out
 
 We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you are a Client, when you register for the Services, we will ask if you wish to receive marketing materials from Service Providers and us. If you are a Service Provider, we will ask if you wish to receive marketing materials from us. If you no longer wish to receive promotional communications, you may opt-out of receiving them by following the instructions included in each communication or by emailing us at support@fullslate.com.
 
@@ -82,7 +80,7 @@ The security of your personal information is important to us. When you enter sen
 
 In the event Full Slate goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via notice on the Services of any such change in ownership or control of your personal information.
 
-## PROTECTING THE PRIVACY OF CHILDREN
+## Protecting the privacy of children
 
 We do not direct the Services to children under the age of 13. We respect the privacy of parents and children and are committed to complying with the Children’s Online Privacy Protection Act. As such, we will promptly delete any information and cancel any account we believe to be from children under the age of 13.
 
