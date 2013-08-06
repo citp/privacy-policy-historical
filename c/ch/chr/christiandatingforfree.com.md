@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christiandatingforfree.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615005326id_/http%3A//www.christiandatingforfree.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christiandatingforfree.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806031245id_/http%3A//www.christiandatingforfree.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Christian Dating For Free | Online Community of Single Christians
 
