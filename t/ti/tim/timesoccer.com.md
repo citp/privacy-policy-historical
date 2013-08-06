@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timesoccer.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118231051id_/http%3A//www.timesoccer.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timesoccer.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806185115id_/http%3A//www.timesoccer.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Time Soccer - More information about our privacy policy
 
