@@ -1,33 +1,6 @@
-> *The following text is extracted and transformed from the couponcodes4u.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525043240id_/http%3A//www.couponcodes4u.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponcodes4u.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806055012id_/http%3A//www.couponcodes4u.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-  * [Home](http://www.couponcodes4u.com/)
-  * [Categories](https://web.archive.org/categories)
-    * [ __Business & Home Office](https://web.archive.org/business-home-office)
-    * [ __Fashion](https://web.archive.org/fashion)
-    * [ __Finance & Insurance](https://web.archive.org/finance-insurance)
-    * [ __Gifts & Occasions](https://web.archive.org/gifts-occasions)
-    * [ __Health & Beauty](https://web.archive.org/health-beauty)
-    * [ __Home & Garden](https://web.archive.org/home-garden)
-    * [ __Kids, Babies & Toys](https://web.archive.org/kids-babies-toys)
-    * [ __Misc.](https://web.archive.org/misc.)
-    * [ __Mobile, TV & Broadband](https://web.archive.org/mobile-tv-broadband)
-    * [ __Motoring](https://web.archive.org/motoring)
-    * [ __Music, Books, Games & Movies](https://web.archive.org/music-books-games-movies)
-    * [ __Online Services](https://web.archive.org/online-services)
-    * [ __Pets](https://web.archive.org/pets)
-    * [ __Sports, Fitness & Outdoors](https://web.archive.org/sports-fitness-outdoors)
-    * [ __Technology & Electrical](https://web.archive.org/technology-electrical)
-    * [ __Travel](https://web.archive.org/travel)
-  * [Top 50](https://web.archive.org/top50-discounts)
-  * [ __Exclusives __](https://web.archive.org/exclusive)
-  * [Printable Coupons](https://web.archive.org/printable-coupons)
-  * [Grocery Coupons](https://web.archive.org/grocery-coupons)
-  * [Free Shipping](https://web.archive.org/free-shipping)
-  * [Tax Returns](https://web.archive.org/web/20130525043240id_/http%3A//www.couponcodes4u.com/occasions/taxes)
-
-
 
 CouponCodes4u.com knows that you may have concerns about your privacy while shopping or surfing on the Internet. Our Privacy Policy describes how we use and do not use information provided to us at CouponCodes4u.com , and the steps we take to protect it.
 
