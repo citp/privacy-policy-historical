@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pennyauctionscanada.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615111817id_/http%3A//pennyauctionscanada.com/content/index/view/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pennyauctionscanada.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806021944id_/http%3A//pennyauctionscanada.com/content/index/view/privacy_policy) for the most accurate reproduction.*
 
 # Penny Auctions Canada
 
@@ -82,7 +82,7 @@ When you purchase a Penny Auctions Canada product or service, you may need to pr
 
 ### Returns and Exchanges
 
-Our goal is to ensure that you are completely satisfied with your purchase and to this end, Penny Auctions Canada offers a Return Policy inside our [Purchase Terms and Conditions](https://web.archive.org/web/20130615111817id_/http%3A//pennyauctionscanada.com/content/index/view/purchase_terms_and_conditions). For Penny Auctions Canada to continue to offer our Return Policy, we ask for personal information such as your name, address, and telephone number for the purposes of detecting and preventing fraud. You may also be asked to produce photo ID for verification purposes only.
+Our goal is to ensure that you are completely satisfied with your purchase and to this end, Penny Auctions Canada offers a Return Policy inside our [Purchase Terms and Conditions](https://web.archive.org/web/20130806021944id_/http%3A//pennyauctionscanada.com/content/index/view/purchase_terms_and_conditions). For Penny Auctions Canada to continue to offer our Return Policy, we ask for personal information such as your name, address, and telephone number for the purposes of detecting and preventing fraud. You may also be asked to produce photo ID for verification purposes only.
 
 ### Our Web Site
 
