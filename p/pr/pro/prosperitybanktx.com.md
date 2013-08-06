@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prosperitybanktx.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117174705id_/https%3A//www.prosperitybanktx.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prosperitybanktx.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806221618id_/https%3A//www.prosperitybanktx.com/privacy.aspx) for the most accurate reproduction.*
 
 # Prosperity Bank - Privacy Notice
 
@@ -6,11 +6,11 @@ This notice applies to individuals (and their legal representatives) who obtain 
 
 ## PRIVACY POLICY
 
-Click [here](https://web.archive.org/web/20130117174705id_/https%3A//www.prosperitybanktx.com/ContentDocumentHandler.ashx?documentId=10924 "here") for the Prosperity Bank Privacy Notice.
+Click [here](https://web.archive.org/web/20130806221618id_/https%3A//www.prosperitybanktx.com/ContentDocumentHandler.ashx?documentId=20372 "here") for the Prosperity Bank Privacy Notice.
 
 ## INTERNET PRIVACY POLICY
 
-When you visit our website at [www.prosperitybanktx.com](http://www.prosperitybanktx.com/), to view any pages, read product information, or use our online calculators and other tools, you do so without telling us who you are or revealing any personal information. While we do not collect identifying information about visitors to our site, we do use software to collect information for the strict purpose of tracking activity on our site. This allows us to better understand how many people visit us and which pages and features are most popular. The information we collect and store is:
+When you visit our website at [www.prosperitybankusa.com](http://www.prosperitybankusa.com/), to view any pages, read product information, or use our online calculators and other tools, you do so without telling us who you are or revealing any personal information. While we do not collect identifying information about visitors to our site, we do use software to collect information for the strict purpose of tracking activity on our site. This allows us to better understand how many people visit us and which pages and features are most popular. The information we collect and store is:
 
   * The name of your internet service provider
   * The website that referred you to us (if any)
