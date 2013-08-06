@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backlinksnatcher2.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423210050id_/http%3A//backlinksnatcher2.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backlinksnatcher2.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806192259id_/http%3A//backlinksnatcher2.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Backlink Snatcher 2.0
 
