@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nailthedeal.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515101000id_/http%3A//www.nailthedeal.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nailthedeal.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806105043id_/http%3A//www.nailthedeal.com/about/privacy.php) for the most accurate reproduction.*
 
 # Privacy statement |Dubai GroupBuy|Nail the Deal - Nail the Deal |DubaiVoucher|Dubai Discount
 
