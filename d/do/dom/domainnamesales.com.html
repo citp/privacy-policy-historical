@@ -1,127 +1,213 @@
-<!--The following is the downloaded HTML source of the domainnamesales.com privacy policy that was archived on 2009-03-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090302224508id_/http%3A//www.iregistry.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the domainnamesales.com privacy policy that was archived on 2013-08-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130806061348id_/http%3A//domainnamesales.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-	<title>Privacy Policy - iRegistry.com</title>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <meta name="Description" content="">
-	<meta name="Keywords" content="">
-	<link href="iregistrystyles.css" rel="stylesheet" type="text/css">
+<!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
+<link rel="shortcut icon" type="image/png" href="/bin/img/fav-dns.png?1370728413">
+
+<meta charset="utf-8">
+
+<title>DomainNameSales.com</title>
+
+<link rel="stylesheet" href="/bin/css/globalStyles.css?1375228742" type="text/css" media="all">
+<link rel="stylesheet" href="/bin/css/DNSMain.css?1372888292" type="text/css" media="all">
+<link rel="stylesheet" href="/bin/type/typestyle.css?1370728414" type="text/css" media="all">
+<link rel="stylesheet" href="/bin/js/poshytip-1.2/tip-yellowsimple/tip-yellowsimple.css?1370728414" type="text/css" media="all">
+<link rel="stylesheet" href="/bin/js/jquery/themes/base/jquery-ui.css?1370728414" type="text/css" media="all">
+
+
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/bin/js/jquery/jquery-1.9.1.min.js?1370728414"></script>
+<script src="/bin/js/jquery/jquery.animate-enhanced.min.js?1370728414"></script>
+<script src="/bin/js/jquery/ui/jquery-ui.js?1370728414"></script>
+<script src="/bin/js/poshytip-1.2/jquery.poshytip.min.js?1370728414" charset="utf-8"></script>
+<script src="/bin/js/dns-helper.js?1375228742"></script>
+
+
+<script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-26002024-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+</script>
+
+<script type="text/javascript">    
+$( function(){
+    if ($('.splash > video').length){
+        $('.splash > video').get(0).play();
+    }
+    var clearHeight = $('div.splash').outerHeight()+$('div.quote-container').outerHeight(),
+        topHeight   = $('#page-header').outerHeight(),
+        setTop      = $('.splash img').css("top");
+
+    $('#fixed-spacer').css('height',topHeight+'px');
+
+    $(window).scroll( function() {
+        if ($('.splash img').height() > 350) {
+            $('.splash img').css("top",-($(this).scrollTop() / 5) - 130 + "%");
+        }
+        else {
+            $('.splash img').css("top", setTop);
+        }
+        if (($(this).scrollTop())>clearHeight) {
+            $('div.fixWrap').addClass('fixed').css('top', topHeight);
+            var fixHeight = $('div.fixWrap').outerHeight();
+            $('#fixed-spacer').css('height',fixHeight+topHeight+'px');
+        }
+        else {
+            $('div.fixWrap').removeClass('fixed').css('top', 0);
+            $('#fixed-spacer').css('height',topHeight);
+        }
+    });
+
+});
+</script>
+
+
 </head>
 
-<body>
+<body class="mpf">    
+    <div id="page-header" class="header">
+        <div class="member-container">      
+                <div>            
+            <a href="/login">Sign in</a>
+            <span>//</span>
+            <a href="/signup">Join</a>                
+        </div>
+            </div>
+        <div class="nav-container">
+        <a href="/"><img src="/bin/img/dns-logo-t.png?1370728413"></a>
+        <div class="link-container">
+            <a class="rounded-corner" href="/brokerage">Brokerage</a>
+            <a class="rounded-corner" href="/about-us">About DNS</a>
+            <a class="rounded-corner" href="/buyers-guide">Buyer's Guide</a>
+            <a class="rounded-corner" href="/contact">Contact</a>
+        </div>
+    </div>
+</div><!-- End header -->
+    
+    <div id="wrapper">
+        <div id="fixed-spacer" class="mpf" style="height: 54px;"></div>
+        
+        <div class="sec-container splash small full">
+            <h1 class="page-name">Privacy Policy</h1>
+            <img src="/bin/img/photos/couple-beach.jpg?1370728414">
+        </div>
+        
+        <div class="sec-container full">
+    <div class="content main text">
 
-<div id="container">
-	<div id="mainContent">
-   		<!-- Start Banner Section -->
-        <div id="bannersection">
-           	<h1>iRegistry.com - Privacy Policy</h1>
-        	<img src="http://images.15x.net/iregistry/banner.jpg" width="780px" height="100px" alt="iRegistry.com">
+
+        <p>This Privacy Policy governs the manner in which Domain Name Sales Corp. collects, uses, maintains and discloses information collected from users (each, a "User") of the DomainNameSales.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Domain Name Sales Corp. via DomainNameSales.com.</p>
+        
+        <h2>Personal identification information</h2>
+        <p>We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, phone number. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.</p>
+        
+        <h2>Non-personal identification information</h2>
+        <p>We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.</p>
+        
+        <h2>Web browser cookies</h2>
+        <p>Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.</p>
+        
+        <h2>How we use collected information</h2>
+        <p>DomainNameSales.com collects and uses Users personal information for the following purposes:</p>
+        <ul>
+        <li>
+            <i> To personalize user experience</i><br>
+            We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+        </li>
+        <li>
+            <i> To improve our Site</i><br>
+            We continually strive to improve our website offerings based on the information and feedback we receive from you.
+        </li>
+        <li>
+            <i> To improve customer service</i><br>
+            Your information helps us to more effectively respond to your customer service requests and support needs.
+        </li>
+        <li>
+            <i> To process transactions</i><br>
+            We may use the information Users provide about themselves when listing domain names for brokerage and in receiving offers or inquiries about listed domain names.   This information may be shared with other listing services and brokers for the purpose of acting on your inquiry.
+        </li>
+        <li><i> To share your information with third parties</i><br>
+            We may share information with third parties for marketing or other purposes.</li>
+        <li>
+            <i> To send periodic emails</i><br>
+            The email address Users provide to us will only be used to send them information and updates pertaining to their listings and/or inquiries. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
+        </li>
+        </ul>
+        
+        <h2>How we protect your information</h2>
+        <p>We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.</p>
+        
+        <h2>Sharing your personal information</h2>
+        <p>We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.</p>
+        
+        <h2>Third party websites</h2>
+        <p>Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.</p>
+        
+        <h2>Advertising</h2>
+        <p>Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.</p>
+        
+        <h2>Changes to this privacy policy</h2>
+        <p>DomainNameSales.com has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.</p>
+        
+        <h2>Your acceptance of these terms</h2>
+        <p>By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.</p>
+        
+        <h2>Contacting us</h2>
+        <p>If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please <a href="/contact">contact us</a></p>
+        <p>This document was last updated on April 03, 2012</p>
+
+    </div>
+</div>                            <div class="footer-push"></div>
+                </div>
+    <div class="page-footer">
+    <div>
+        <div>
+            <img src="/bin/img/dns-logo-bare.png?1370728413">
         </div>
-        <!-- End Banner Section -->
-        <!-- Start Main Menu Section -->
-        <div id="mainmenusection">
-        	<!-- Start "tabs" section -->
-            <div id="tabs">
-				<ul>
-      				<li><a href="index.html"><span>Home</span></a></li>
-      				<li><a href="our-services.html"><span>Our Services</span></a></li>
-                    <li><a href="what-is-a-domain.html"><span>What is a Domain?</span></a></li>
-      				<li><a href="whois.php"><span>WHOIS</span></a></li>
-                    <li><a href="contact.php"><span>Contact Us</span></a></li>
-    			</ul>
-			</div>
-            <!-- End "tabs" section -->
+        <div class="even-space">
+            <ul class="even-space-child">
+                <li><a href="/brokerage">Brokerage</a></li>
+                <li><a href="/brokerage#section=team">The Brokers</a></li>
+                <li><a href="/brokerage#section=sell">Sell your names</a></li>
+            </ul>
+            <ul class="even-space-child">
+                <li><a href="/about-us">About DNS</a></li>
+                <li><a href="/about-us#section=history">Our History</a></li>
+                <li><a href="/about-us#section=team">Our Team</a></li>
+                <li><a href="/privacy-policy">Privacy Policy</a></li>
+                <li><a href="/sales-terms">Sales Terms</a></li>
+            </ul>
+            <ul class="even-space-child">
+                <li><a href="/buyers-guide">Buyer's Guide</a></li>
+                <li><a href="/buyers-guide#section=buying">Buying A Domain Name</a></li>
+                <li><a href="/buyers-guide#section=inquiry">Step 1: Submit an Inquiry</a></li>
+                <li><a href="/buyers-guide#section=negotiation">Step 2: Negotiate a Price</a></li>
+                <li><a href="/buyers-guide#section=completion">Step 3: Completion</a></li>
+            </ul>
+            <ul class="even-space-child">
+                <li><a href="/domains-101">Learn</a></li>
+                <li><a href="/domains-101">Domains 101</a></li>
+                <li><a href="/why-a-premium-domain-name">Why A Premium Domain?</a></li>
+            </ul>
+            <ul class="even-space-child">
+                <li><a href="/contact">Contact Us</a></li>
+                <li><a href="/contact#section=mail-us">Mail Us</a></li>
+                <li><a href="/contact#section=phone-us">Phone Us</a></li>
+                <li><a href="/contact#section=email-us">Email Us</a></li>   
+                <li><a href="/sales/login">Sign in</a></li>
+                <li><a href="/signup">Join</a></li>    
+            </ul>
         </div>
-        <!-- End Main Menu Section -->
-        <!-- Start Main Contents Section -->
-        <div id="maincontentssection">
-			<table>
-            	<tbody><tr>
-                	<td class="mainleftcolumn">
-                    	<h2>Privacy Policy</h2>
-                    </td>
-                    <td class="mainrightcolumn">                  		
-                    </td>
-				</tr>
-                <tr>
-                	<td class="mainleftcolumn">
-                    	<div class="ican">
-                        	<p><a href="http://www.icann.org/"><img src="http://images.15x.net/iregistry/icannlogo.gif" width="60" height="61" alt="ICANN logo" border="0"></a></p>
-                    	
-            			</div>
-                    </td>
-                    <td class="mainrightcolumn">
-                        <p class="regulartext">iRegistry.com has created this privacy 
-                        statement to show our firm commitment to the protection of your 
-                        private information. The following discloses our information 
-                        gathering and dissemination practices.</p>
-                        <p class="regulartext">We use your IP address 
-                        to help diagnose problems with our server, and to administer our web 
-                        site.</p>
-                        <p class="regulartext">Our site's contact request forms require users to give 
-                        us contact information. The customers contact information is used to 
-                        contact the visitor when necessary. We will never ask for more 
-                        information that that which is required to complete a service or 
-                        sale which you requested.</p>
-                        <p class="regulartext">We will never ask you for 
-                        demographic information, including your age, gender, date of birth, 
-                        personal information or family members etc., unless such information 
-                        is specifically required to complete the fulfillment of one of your 
-                        requests.</p>
-                        <p class="regulartext">We will never share your personal information with 
-                        any third party at any time.</p>
-                        <p class="regulartext">If we receive a court order 
-                        requiring a divulging of your private information, we will notify 
-                        you via the email address you provide us to advise that we are in 
-                        receipt of said order, within 48 hours. We will not release 
-                        information until 7 days after receipt of such order, unless 
-                        required by the order or search warrant to do so. You may request a 
-                        copy of the order received so that you may obtain legal help should 
-                        you decide to do so.</p>
-                        <p class="regulartext">The hardware and software that stores 
-                        your private information are kept in a secure environment.</p>
-                        <p class="regulartext">If 
-                        there are any changes to this Privacy Policy, they will be entered 
-                        here and highlighted for your attention for 90 days after such 
-                        changes.</p>
-                        <p class="regulartext">This site contains links to other sites. 
-                        iRegistry.com is not responsible for the privacy practices or 
-                        the content of those web sites.</p>
-                        <p class="regulartext">If you have any questions 
-                        about this privacy statement, the practices of this site, or your 
-                        dealings with this web site, click on our contact link to contact us 
-                        directly.</p> 
-                    </td>
-                </tr>
-            </tbody></table>
-        </div>
-        <!-- End Main Contents Section -->
-        <!-- Start BOP Menu Section -->
-        <div id="bopmenusection">
-			<a href="index.html" class="bopnav">Home</a> |
-            <a href="whois.php" class="bopnav">WHOIS</a> |
-            <a href="our-services.html" class="bopnav">Our Services</a> |
-            <a href="what-is-a-domain.html" class="bopnav">What is a Domain?</a> |
-            <a href="terms-and-conditions.html" class="bopnav">Terms and Conditions</a> |
-            <a href="contact.php" class="bopnav">Contact Us</a> |
-            <a href="privacy-policy.html" class="bopnav">Privacy Policy</a>
-        </div>
-        <!-- End BOP Menu Section -->
-        <!-- Start Footer Section -->
-        <div id="footersection">
-        	<!-- Start Copyright Section -->
-			<div id="copyright"> 
-        		© Copyright 2008 iRegistry, Corp™. 
-        		All rights reserved. 
-			</div>
-			<!-- End Copyright Section -->
-        </div>
-        <!-- End Footer Section -->
-	</div>
-    <!-- end #mainContent -->
-</div>
-<!-- end #container -->
+        <p>All content © 2013 DomainNameSales.com™. All rights reserved.</p>
+    </div>
+</div>    
 
 
 </body></html>
