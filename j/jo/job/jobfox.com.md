@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobfox.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513220738id_/http%3A//www.jobfox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobfox.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806165413id_/http%3A//www.jobfox.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
