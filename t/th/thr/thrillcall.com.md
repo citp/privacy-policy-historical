@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thrillcall.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605040214id_/http%3A//thrillcall.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thrillcall.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806031528id_/http%3A//thrillcall.com/privacy) for the most accurate reproduction.*
 
-# 
+# Privacy Statement | Thrillcall
 
 The Thrillcall music discovery, concert listing and social networking service allows a User (together the "User", "they" and "you") to discover, listen and see different forms of music related media, including music, video, photos and text while enabling Users to interact and express their opinions with other Users (the "Service"). 316 Ventures, Inc. operates the Thrillcall service and the Thrillcall.com website (together the "Service", "We", the "Company" and "Thrillcall"). We understand that your privacy is very important. Our privacy policy explains how we gather and use information while safeguarding your privacy.
 
