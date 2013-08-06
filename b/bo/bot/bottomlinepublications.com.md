@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bottomlinepublications.com privacy policy that was archived on 2013-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130320143817id_/http%3A//www.bottomlinepublications.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bottomlinepublications.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806183014id_/http%3A//www.bottomlinepublications.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bottom Line Publications
 
