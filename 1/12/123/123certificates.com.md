@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123certificates.com privacy policy that was archived on 2013-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130323003551id_/http%3A//www.mes-english.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123certificates.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806122005id_/http%3A//www.mes-english.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
