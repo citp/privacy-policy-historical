@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the costco.com.au privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512231148id_/http%3A//costco.com.au/Common/Privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costco.com.au privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806235638id_/http%3A//www.costco.com.au/Common/Privacy.shtml) for the most accurate reproduction.*
 
 # Costco Wholesale Corporation - Privacy Statement
 
 ##  (Australia)  
-Last Updated October 2010 
+
 
 This privacy statement (also referred to as Costco's Privacy Policy) explains our privacy practices for our members who: (1) shop in our Australian or international warehouses or (2) use our Australian Web site, **www.costco.com.au**. Costco may include Costco's affiliate companies. 
 
