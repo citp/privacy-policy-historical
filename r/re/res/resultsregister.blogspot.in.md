@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resultsregister.blogspot.in privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609043239id_/http%3A//resultsregister.blogspot.in/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resultsregister.blogspot.in privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807013837id_/http%3A//www.resultsregister.blogspot.in/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy ~ Indian Results Page - Board University SSC UPSC Exam Results 2013
 
