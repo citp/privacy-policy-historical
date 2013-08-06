@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joomladesigns.co.uk privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530162931id_/http%3A//joomladesigns.co.uk/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomladesigns.co.uk privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806083414id_/http%3A//www.joomladesigns.co.uk/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -57,4 +57,4 @@ We may update this privacy policy from time-to-time by posting a new version on 
 
 ### Contact Us
 
-If you have any questions about this privacy policy outlined at this web site please [contact us](http://www.joomladesigns.co.uk/contactus.html)
+If you have any questions about this privacy policy outlined at this web site please [contact us](http://joomladesigns.co.uk/contactus.html)
