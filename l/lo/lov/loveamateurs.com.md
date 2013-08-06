@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loveamateurs.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528074909id_/http%3A//loveamateurs.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loveamateurs.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806042612id_/http%3A//loveamateurs.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - LoveAmateurs.com
 
