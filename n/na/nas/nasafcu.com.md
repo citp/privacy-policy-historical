@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nasafcu.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423123442id_/https%3A//www.nasafcu.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nasafcu.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806204025id_/https%3A//www.nasafcu.com/privacy) for the most accurate reproduction.*
 
 # NASA Federal Credit Union | Maryland, Virginia, DC | Privacy Policy
 
@@ -40,6 +40,10 @@ account(s).
 Our website may use cookies (small pieces of information sent by our web server to a visitor's web browser that reminds our site about the user the next time he or she visits). We do not store confidential or sensitive information in cookies. We use cookies only to enhance a member's online banking session and ease navigation through our website.
 
 For certain applications, such as online banking, cookies are required to help protect the privacy of a member's transactions by, for example, automatically terminating the online session if the member forgets to log out. Cookies cannot be used to capture a user's email address, obtain data from the user's hard drive or gain confidential or sensitive information about the user. Additionally, cookies cannot be read by a website other than the one that set the cookie. Some websites, however, use cookies to obtain information from the user's browser. The user has the option to set his or her browser to notify before accepting a cookie to control whether a cookie is accepted or rejected.
+
+It's important to note that the information we use about you helps us provide you with products, services and experiences that benefit you. You have the ability to control how your non-personal information is collected and used online. 
+
+Some websites may belong to ad networks that use your browsing history across websites to choose which ads to display on their sites; the displayed ads may include advertising for NASA FCU. To learn more, and to opt out of seeing interest-based advertisements on these sites, visit the [Network Advertising Initiative](https://web.archive.org/nai/) home page. Please note that even if you choose to remove your information (opt out), you will still see advertisements while you're browsing online. However the advertisements you see may be less relevant to you and your interests. 
 
 ###  Online Forms
 
