@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tranny.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506194407id_/http%3A//www.tranny.com/cimages/legal/privacy.html%3Fsite%3Dtranny) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tranny.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806031718id_/http%3A//www.tranny.com/cimages/legal/privacy.html%3Fsite%3Dtranny) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
