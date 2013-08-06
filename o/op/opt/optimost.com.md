@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optimost.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528045544id_/http%3A//www.autonomy.com/content/Legal/PrivacyPolicy.en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optimost.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806154025id_/http%3A//www.autonomy.com/content/Legal/PrivacyPolicy.en.html) for the most accurate reproduction.*
 
 # General Privacy Policy
 
@@ -18,7 +18,7 @@ This site recognizes the home server of visitors, but not their e-mail addresses
 
 The names and contact information of persons who request information about Autonomy, its subsidiaries, its products and/or its services are added to our data base in Cambridge, England and San Francisco, US, so that they may be contacted in the future regarding Autonomy's products, services or future opportunities. This contact may occur by e-mail, telephone or mail, as Autonomy deems appropriate. We do not sell or rent any information about our visitors, and we have no plans to do so in the future.
 
-If you give Autonomy your contact information over this Web site, and you wish to have your name removed from Autonomy's database, please write Autonomy at our offices in Cambridge, England, call +44 (0) 1223 448000, or email [webmaster@autonomy.com](mailto:webmaster@autonomy.com).
+If you give Autonomy your contact information over this Web site, and you wish to have your name removed from Autonomy's database, please write Autonomy at our offices in Cambridge, England, call +44 (0) 1223 448000, or email [the Webmaster](mailto:hp-autonomy-webmaster@hp.com).
 
 We may on occasion disclose your personally identifiable information to third parties that wish to inform you of or provide to you certain products and services related to Autonomy solutions. You should understand that personally identifiable information disclosed by us to third parties as well as personally identifiable information disclosed by you to third parties will be used according to such third parties' privacy policies, and that Autonomy can have little control over this information.
 
@@ -28,7 +28,7 @@ Autonomy complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe
 
 You acknowledge that acceptance of this privacy policy, as updated from time to time at this location, is a condition to your use of our website and you agree to be bound by all of its terms and conditions.
 
-If you have any questions regarding our policies please e-mail Autonomy's webmaster at [webmaster@autonomy.com](mailto:webmaster@autonomy.com).
+If you have any questions regarding our policies please e-mail the [Webmaster](mailto:hp-autonomy-webmaster@hp.com).
 
 ## Unsubscribe from Autonomy Emails
 
