@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visiondirect.com privacy policy that was archived on 2013-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130217063815id_/http%3A//www.visiondirect.com/la/help/default.asp%3Fcatid%3D148605%26atrx%3Ddps-16%26atrxp1%3D282487%26atrxp2%3D4%26atrxp3%3Dhttp%253A%252F%252Fwww%252Evisiondirect%252Ecom%252Fla%252Fhelp%252Fdefault%252Easp%253Fcatid%253D148605%26atrxp4%3D27087) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visiondirect.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806021535id_/http%3A//www.visiondirect.com/la/help/default.asp%3Fcatid%3D148605%26atrx%3Ddps-16%26atrxp1%3D282487%26atrxp2%3D4%26atrxp3%3Dhttp%253A%252F%252Fwww%252Evisiondirect%252Ecom%252Fla%252Fhelp%252Fdefault%252Easp%253Fcatid%253D148605%26atrxp4%3D27087) for the most accurate reproduction.*
 
 # Vision Direct - Contact Lenses: Order Discount Contact Lenses Acuvue, Acuvue 2, Focus, Freshlook Online
 
