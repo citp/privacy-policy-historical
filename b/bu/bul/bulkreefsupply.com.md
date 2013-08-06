@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bulkreefsupply.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508112717id_/http%3A//www.bulkreefsupply.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulkreefsupply.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806050437id_/http%3A//www.bulkreefsupply.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Bulk Reef Supply
 
 All information collected on the site is used solely by BulkReefSupply.com and will never ever be shared with any other entity. This includes your email address. We hate spam just as much as you do. Bulk Reef Supply has always been committed to maintaining the accuracy, confidentiality, and security of your personal and corporate information. We have established Privacy Principles to govern our use of customer information.
 
-Bulk Reef Supply does not sell, share or distribute Customer Information to any third party organization.
+Bulk Reef Supply does not sell, share or distribute Customer information to any third party organization.
 
   
 
@@ -23,7 +23,7 @@ The knowledge and consent of the customer are required for the collection, use o
 
 ## Limiting Collection
 
-The customer information collected must be limited to those details necessary for the purposes identified by Bulk Reef Supply Information must be collected by fair and lawful means.
+The customer information collected must be limited to those details necessary for the purposes identified by Bulk Reef Supply. Information must be collected by fair and lawful means.
 
 ## Limiting Use, Disclosure and Retention
 
@@ -55,4 +55,4 @@ If you do not want to receive further communication from Bulkreefsupply.com you 
 
 674 Mendelssohn Ave N Golden Valley, MN 55427 USA
 
-customerservice@bulkreefsupply.com
+[support@bulkreefsupply.com](mailto:support@bulkreefsupply.com)
