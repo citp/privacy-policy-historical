@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webcreationuk.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424173014id_/http%3A//www.webcreationuk.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcreationuk.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806062343id_/http%3A//www.webcreationuk.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Website Design - Web Creation UK, Privacy Policy
 
