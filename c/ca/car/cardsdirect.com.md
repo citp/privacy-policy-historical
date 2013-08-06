@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cardsdirect.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502042533id_/http%3A//www.cardsdirect.com/about_us/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardsdirect.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806144257id_/http%3A//www.cardsdirect.com/about_us/privacypolicy.aspx) for the most accurate reproduction.*
 
 # About Us: Privacy Policy
 
