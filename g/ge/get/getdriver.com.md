@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getdriver.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116165352id_/http%3A//www.getdriver.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getdriver.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806194312id_/http%3A//www.getdriver.com/privacy) for the most accurate reproduction.*
 
 # Privacy | GetDriver
 
