@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orbs.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530194702id_/http%3A//orbs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orbs.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806131819id_/http%3A//orbs.com/privacy) for the most accurate reproduction.*
 
 # Orbs.com Website Builder
 
