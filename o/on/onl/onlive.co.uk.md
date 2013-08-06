@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlive.co.uk privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604092135id_/http%3A//www.onlive.co.uk/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlive.co.uk privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806164455id_/http%3A//www.onlive.co.uk/legal/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
