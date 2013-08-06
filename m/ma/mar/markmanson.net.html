@@ -1,0 +1,670 @@
+<!--The following is the downloaded HTML source of the markmanson.net privacy policy that was archived on 2013-08-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130806041539id_/http%3A//markmanson.net/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"><head><link rel="stylesheet" type="text/css" href="http://s1.pmimg.com/wp-content/cache/minify/000000/760cf/default.include.951b6d.css" media="all">
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" src="http://s2.pmimg.com/wp-content/cache/minify/000000/760cf/default.include.d7fb12.js"></script>
+
+  <title>Privacy Policy - Mark Manson</title>
+
+  <meta name="viewport" content="width=device-width">
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+ 
+  <link rel="dns-prefetch" href="//fonts.googleapis.com">
+  <link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
+
+  <meta name="generator" content="Proxy 1.0.9">
+  <meta name="generator" content="StagFramework 1.0.2.1">
+
+  
+<script>
+var ua = navigator.userAgent.toLowerCase();
+var isAndroid = ua.indexOf("android") > -1; //&& ua.indexOf("mobile");
+if(isAndroid) {
+	document.write('<link rel="stylesheet" href="http://s1.pmimg.com/wp-content/themes/proxy-child/assets/fonts/android-style.css" type="text/css" />');
+}
+</script>
+
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.4.13 - http://yoast.com/wordpress/seo/ -->
+<link rel="canonical" href="http://markmanson.net/privacy-policy">
+<link rel="publisher" href="https://plus.google.com/101121409119865429067">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy - Mark Manson">
+<meta property="og:description" content="Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy. Before or at the time of collecting personal information, we will identify [Read More...]">
+<meta property="og:url" content="http://markmanson.net/privacy-policy">
+<meta property="og:site_name" content="Mark Manson">
+<meta property="article:publisher" content="http://www.facebook.com/markmansonnet">
+<meta property="fb:admins" content="912184">
+<meta property="og:image" content="http://markmanson.net/images/new-headshot2.png">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@IAmMarkManson">
+<meta name="twitter:domain" content="Mark Manson">
+<meta name="twitter:creator" content="@IAmMarkManson">
+<meta name="twitter:image:src" content="http://markmanson.net/images/new-headshot2.png">
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Mark Manson » Feed" href="http://markmanson.net/feed">
+<link rel="alternate" type="application/rss+xml" title="Mark Manson » Comments Feed" href="http://markmanson.net/comments/feed">
+<link rel="alternate" type="application/rss+xml" title="Mark Manson » Privacy Policy Comments Feed" href="http://markmanson.net/privacy-policy/feed">
+
+
+
+
+
+<link rel="stylesheet" id="user-style-css" href="http://markmanson.net/wp-content/themes/proxy/assets/css/user-styles.php?ver=3.6" type="text/css" media="all">
+
+<script type="text/javascript" src="http://s2.pmimg.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
+
+
+
+
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://markmanson.net/xmlrpc.php?rsd">
+	
+	
+	
+	
+	
+	<script type="text/javascript">
+		
+		//An array containing the id's of all mp3 players
+		var ca_myPlayers = new Array();
+		//An array containing the Volume State of each mp3 player
+		var ca_volumeStates = new Array();
+		var ca_position = 0;
+		
+		var $codeart = jQuery.noConflict();
+		$codeart(document).ready(function() {
+		});
+		
+		//Function that checks whether or not an audio format is supported
+		function supports_media(mimetype, container) {
+			var elem = document.createElement(container);
+			if(typeof elem.canPlayType == 'function'){
+				var playable = elem.canPlayType(mimetype);
+				if((playable.toLowerCase() == 'maybe')||(playable.toLowerCase() == 'probably')){
+					return true;
+				}
+			}	
+			return false;
+		};
+		
+		function ca_stopAllAudio(except){
+			$codeart('audio').each(function(){
+				if(this.id!=except){
+					this.pause(); // Stop playing
+				}
+			});
+			$codeart('.playpause').removeClass('play');
+			$codeart('.playpause').addClass('pause');
+		}
+		
+		//Function that toogles play/pause functions of the audio element
+		function ca_tooglePlayPause(el,sender){
+			var btn = document.getElementById(sender.id);
+			if(document.getElementById(el).paused){
+				ca_stopAllAudio(el);
+				document.getElementById(el).play();	
+				btn.className = "playpause play";
+			}
+			else{
+				document.getElementById(el).pause();
+				btn.className = "playpause pause";
+			}
+		}
+		
+		//Funtion to stop the audio playing
+		function ca_stop(el,id){
+			document.getElementById(el).pause();
+			document.getElementById(el).currentTime = 0;
+			document.getElementById("playpause"+id).className = "playpause pause";
+		}
+		
+		//timeupdate media event handler
+		function ca_timeUpdate(el, sender, id){
+			//update span id current_time
+			var sec = sender.currentTime;
+			sec = sec % 3600;
+			var min = Math.floor(sec / 60);
+			sec = Math.floor(sec % 60);
+			if (sec.toString().length < 2) sec = "0" + sec;
+			if (min.toString().length < 2) min = "0" + min;
+			document.getElementById('currentTime'+id).innerHTML = min + ":" + sec + " / ";
+			
+			//update span id duration
+			var sec2 = sender.duration;
+			sec2 = sec2 % 3600;
+			var min2 = Math.floor(sec2 / 60);
+			sec2 = Math.floor(sec2 % 60);
+			if (sec2.toString().length < 2) sec2 = "0" + sec2;
+			if (min2.toString().length < 2) min2 = "0" + min2;
+			document.getElementById('duration'+id).innerHTML = min2 + ":" + sec2;
+			
+			//update seekbar attributes: start time, end time, and current time
+			var seekbar = document.getElementById(el);
+			seekbar.min = sender.startTime;
+			seekbar.max = sender.duration;
+			seekbar.value = sender.currentTime;
+			
+			$codeart( "#"+el ).slider( "value", sender.currentTime);
+			$codeart( "#"+el ).slider( "option", "max", sender.duration );
+			
+			//update buffered percent of the audio file
+			var width = $codeart('#seek'+id).width();
+			var parentWidth = $codeart('#seek'+id).offsetParent().width();
+			var percent = 100*width/parentWidth;
+			var res = (sender.buffered.end(0)/sender.duration)*percent+"%";
+			$codeart("#gutter"+id).css("width", res);
+		}
+		
+		//Toogle muted property of the audio
+		function ca_toogleMuted(el,sender){
+			var btn = document.getElementById(sender.id);
+			if(document.getElementById(el).muted==true){
+				document.getElementById(el).muted=false;
+				var i=ca_myPlayers.indexOf(el);
+				var classVolume = ca_volumeStates[i];
+				btn.className = "muteButton "+classVolume;
+			}
+			else{
+				document.getElementById(el).muted=true;
+				btn.className = "muteButton noVolume";
+			}
+		}
+		
+		//When the audio ends make the pause button look like a play button
+		function ca_audioEnded(el){
+			btn = document.getElementById(el);
+			btn.className = "playpause pause";
+		}
+		
+		//loadedmetadata Media event handler to update span id=duration of the audio player
+		function ca_metaLoaded(id){
+			var sender = document.getElementById("audio_with_controls"+id);
+			var sec = sender.duration;
+			sec = sec % 3600;
+			var min = Math.floor(sec / 60);
+			sec = Math.floor(sec % 60);
+			if (sec.toString().length < 2) sec = "0" + sec;
+			if (min.toString().length < 2) min = "0" + min;
+			document.getElementById('duration'+id).innerHTML = min + ":" + sec;
+		}
+		
+		//function to create the volume bar of the audio player
+		function ca_createVolumeBar(id){
+			$codeart("#volume"+id).slider({
+				value  : 75,
+				step   : 1,
+				range  : "min",
+				min    : 0,
+				max    : 100,
+				change : function(){
+					var value = $codeart("#volume"+id).slider("value");
+					var player = document.getElementById("audio_with_controls"+id);
+					player.volume = (value / 100);
+					
+					var classVolume = "";
+					if(value>55){
+						classVolume = "fullVolume";
+					} else if(value>10 && value<=55){
+						classVolume = "middleVolume";
+					} else{
+						classVolume = "noVolume";
+					}
+					var i=ca_myPlayers.indexOf("audio_with_controls"+id);
+					ca_volumeStates[i] = classVolume;
+					if(player.muted==true){
+						player.muted=false;
+					}
+					document.getElementById("muteButton"+id).className = "muteButton "+classVolume;
+				}
+			});
+		}
+		
+		//function to create the seek bar of the audio player
+		function ca_createSeekBar(id){
+			var seek = $codeart("#seek"+id).slider({
+				value  : 0,
+				step   : 0.00000001,
+				range  : "min",
+				min    : 0,
+				max    : document.getElementById("audio_with_controls"+id).duration,
+				slide  : function( event, ui ) {
+					var player = document.getElementById("audio_with_controls"+id);
+					player.currentTime = ui.value;
+				}
+			});
+		}
+		
+		//Initialize the volume state of the audio player when page is loaded
+		function ca_initMuteButtonClass(id){
+			ca_myPlayers[ca_position] = "audio_with_controls"+id;
+			if($codeart("#muteButton"+id).hasClass("fullVolume")) 
+			{
+				ca_volumeStates[ca_position] = "fullVolume";
+			} else if($codeart("#muteButton"+id).hasClass("middleVolume")){
+				ca_volumeStates[ca_position] = "middleVolume";
+			} else{
+				ca_volumeStates[ca_position] = "noVolume";
+			}
+			ca_position++;
+		}
+		
+		//Make the audio player responsive
+		function ca_responsiveAudioPlayer(id,skin,download){
+			var playerH = $codeart("#controls"+id).height();
+			var playerW = $codeart("#controls"+id).width();
+			
+			//Verticaly center playpause button
+			var playpauseH = $codeart("#playpause"+id).height();
+			var fplaypauseH = (playerH-playpauseH)/2;
+			$codeart("#playpause"+id).css("top",fplaypauseH);
+			
+			//Verticaly center seekbar
+			var seekH = $codeart("#seek"+id).height();
+			var fseekH = (playerH-seekH)/2;
+			$codeart("#seek"+id).css("top",fseekH);
+			
+			//Verticaly center gutter
+			var gutterH = $codeart("#gutter"+id).height();
+			var fgutterH = (playerH-gutterH)/2;
+			$codeart("#gutter"+id).css("top",fgutterH);
+			
+			//Verticaly adjust timer span to be above the seekbar
+			var timerH = 27;
+			var ftimerH = ((playerH-timerH)/2)-(gutterH);
+			$codeart("#timer"+id).css("top",ftimerH);
+			//Verticaly center volumebar
+			var volumeH = $codeart("#volume"+id).height();
+			var fvolumeH = (playerH-volumeH)/2;
+			$codeart("#volume"+id).css("top",fvolumeH);
+			//Verticaly center mute button
+			var muteH = $codeart("#muteButton"+id).height()+2;
+			var fmuteH = (playerH-muteH)/2;
+			$codeart("#muteButton"+id).css("top",fmuteH);
+			var stopminiH = $codeart("#stop"+id).height();
+			if(skin==="small"){
+				//Available space for the seekbar & volumebar within audio player
+				//The seekbar's volumebar's width attribute changes, other elements remain the same
+				var available = playerW-95;
+				if(download==="true"){
+					available = playerW-110;
+				}
+				//Verticaly center stop button
+				var fstopminiH = (playerH-stopminiH)/2;
+				var pomMuteR = 7;
+				var pomTimerR = 27;
+				if(download==="true"){
+					pomMuteR = 35;
+					pomTimerR = 50;
+				}
+			} else{
+				//Available space for the seekbar & volumebar within audio player
+				//The seekbar's volumebar's width attribute changes, other elements remain the same
+				var available = playerW-100;
+				//Align stop button with playpause button
+				var fstopminiH = (playpauseH+fplaypauseH-stopminiH);
+				var pomMuteR = 12;
+				var pomTimerR = 35;
+			}
+			//The seekbar and the gutter are 3/4 of the available space
+			var seekW = (available*75)/100;
+			$codeart("#seek"+id).css("width",seekW);
+			$codeart("#gutter"+id).css("width",seekW);
+			
+			//The volumebar is 1/4 of the available space
+			var volumeW = (available*25)/100;
+			if(download==="true" && skin==="small"){
+				volumeW = (available*20)/100;
+				$codeart("#volume"+id).css("right","34px");	
+				
+			}
+			$codeart("#volume"+id).css("width",volumeW);
+			
+			var muteR = volumeW+pomMuteR;
+			$codeart("#muteButton"+id).css("right",muteR);
+			var timerR = volumeW+pomTimerR;
+			$codeart("#timer"+id).css("right",timerR);
+			$codeart("#stop"+id).css("top",fstopminiH);
+			
+			if(download==="true")
+				$codeart("#downloadButton"+id).css("top",fstopminiH);
+		}
+		
+		function ca_appendDownloadButton(id,mp3){
+			$codeart('#default_player_fallback'+id).after('<a id="downloadButton'+id+'" class="download-flash" href="'+mp3+'"></a>');
+		}
+	</script>
+	
+	<style type="text/css">
+	.codeart-google-mp3-player .download-link{
+		display:block;
+		padding: 0 5px 0 5px;
+		float: left;
+	}
+	.codeart-google-mp3-player embed{
+		float: left;
+	}
+	.codeart-google-mp3-player{
+		overflow: hidden;
+	}
+	.codeart-google-mp3-player object{
+		float: left;
+	}
+	</style>
+	<!--[if gte IE 9]>
+		<style type="text/css">
+			.gradient {
+				filter: none;
+			}
+		</style>
+	<![endif]-->
+<script type="text/javascript">
+				pippity_globals = function(jQuery){
+				window.$j = jQuery;
+				window.PTY_URL = "http://markmanson.net/wp-content/plugins/pippity";
+				window.PTY_DOM = "markmanson.net";
+				window.PTY_AJAX = "http://markmanson.net/wp-admin/admin-ajax.php";
+				window.PTY_ADM = "http://markmanson.net/wp-admin/admin.php?page=";
+				window.PTY_PAGE = "";
+				window.PTY_ISPOST = false;
+				window.PTY_KEY = "Zjk5YmY2MjQ2MjFlMDVhNzU5NzIzZWQzYWE4MzA0ZDlhMDA1MjM0NmIwNjIxYzk2OTk3YTMzMmY0OTA4MzFkZDdkZjc4ZjViZDY1NjI4NzI=";
+				window.PTY_AFFLINK = "";
+				window.PTY_AFFTEXT = "";
+				window.PTY_NEWPOPUP = "false";
+				
+				}(jQuery)
+			</script> <link rel="shortcut icon" href="http://s1.pmimg.com/wp-content/themes/proxy/assets/img/favicon.ico" type="image/x-icon"><style type="text/css">
+.content-section .sub-title,
+#about .sub-title,
+#contact .sub-title, #team .sub-title,
+a,
+.hentry .pubdate,
+.stag-toggle .ui-state-active,
+.stag-tabs ul.stag-nav .ui-state-active a
+{ color:#1c93c5; }
+
+.button,
+button,
+input[type=submit],
+blockquote,
+#slideshow .slider-content h3,
+#primary-nav li.sfHover > a, #primary-nav li.current-menu-item > a, #primary-nav li.active > a,
+#team .member-pic .member-links a,
+#portfolio-slider .portfolio-content .icon-open,
+#primary-nav ul ul
+{ background-color:#1c93c5 !important; }
+
+.button:hover,
+button:hover,
+input[type=submit]:hover,
+#primary-nav li a:hover
+{ background-color:#1c93c5 !important; }
+}
+</style>
+    <link rel="stylesheet" href="http://markmanson.net/stag-custom-styles.css?1375762540" type="text/css" media="screen">
+
+  
+</head>
+
+<!-- BEGIN body -->
+<body class="page page-id-13305 page-template-default">
+
+
+  		<div id="fb-root"></div>
+		<script>
+		  window.fbAsyncInit = function() {
+			// init the FB JS SDK
+			FB.init({
+			  appId      : '308502612619041',                        
+			  channelUrl : '//markmanson.net/channel.php', 
+			  status     : true,                                 
+			  xfbml      : true                                  
+			});
+
+			// Additional initialization code such as adding Event Listeners goes here
+		  };
+
+		(function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+		  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+		  fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+	
+
+  
+  <!-- BEGIN #header -->
+  <header id="header" role="banner">
+
+    
+      <!-- BEGIN .header-inner -->
+      <div class="header-inner clearfix">
+
+        <!-- BEGIN #logo -->
+        <div id="logo">
+                      <a href="http://markmanson.net" title="Mark Manson"><img src="http://s4.pmimg.com/wp-content/uploads/2013/07/logo10.png" alt="Mark Manson"></a>
+                    <!-- END #logo -->
+        </div>
+
+        <!-- BEGIN #primary-nav -->
+        <nav id="navigation" role="navigation">
+
+          <div id="primary-nav" class="primary-menu"><ul id="menu-nav" class="menu"><li id="menu-item-11629" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11629"><a href="http://markmanson.net/articles">Articles</a>
+<ul class="sub-menu">
+	<li id="menu-item-13651" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13651"><a href="http://markmanson.net/articles">Best Posts (Start Here)</a></li>
+	<li id="menu-item-13650" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13650"><a href="http://markmanson.net/archive">Complete Archive</a></li>
+	<li id="menu-item-13652" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13652"><a href="http://markmanson.net/about">About Mark Manson</a></li>
+</ul>
+</li>
+<li id="menu-item-11615" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11615"><a href="http://markmanson.net/books">Books</a></li>
+<li id="menu-item-11625" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11625"><a href="http://markmanson.net/courses">Courses</a></li>
+<li id="menu-item-11626" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11626"><a href="http://markmanson.net/forum">Forum</a></li>
+<li id="menu-item-11628" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11628"><a href="#contact">Contact</a>
+<ul class="sub-menu">
+	<li id="menu-item-13662" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-13662"><a href="http://markmanson.net/#contact">Email</a></li>
+	<li id="menu-item-13660" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13660"><a href="http://www.facebook.com/markmansonnet">Facebook</a></li>
+	<li id="menu-item-13661" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13661"><a href="http://twitter.com/IAmMarkManson">Twitter</a></li>
+</ul>
+</li>
+</ul></div>
+          <!-- END #primary-nav -->
+        </nav>
+
+        <!-- END .header-inner -->
+      </div>
+
+    
+    <!-- END .header -->
+  </header>
+
+  
+  <!-- BEGIN #container -->
+  <div id="container">
+  
+
+<div class="hfeed">
+
+    <article id="post-13305" class="post-13305 page type-page status-publish hentry">
+        <p class="pubdate"></p>
+
+        <h2 class="entry-title">Privacy Policy</h2>
+
+        <div class="entry-content clearfix">
+            <p>
+	Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
+</p>
+<ul>
+<li>
+		Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.
+	</li>
+<li>
+		We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law.
+	</li>
+<li>
+		We will only retain personal information as long as necessary for the fulfillment of those purposes.
+	</li>
+<li>
+		We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned.
+	</li>
+<li>
+		Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.
+	</li>
+<li>
+		We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
+	</li>
+<li>
+		We will make readily available to customers information about our policies and practices relating to the management of personal information.
+	</li>
+</ul>
+<p>
+	We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.</p>
+<span id="pty_trigger"></span>        </div>
+    </article>
+</div>
+
+
+            <!-- END #container -->
+    </div>
+
+    
+      <!-- BEGIN .footer -->
+      <footer class="footer" role="contentinfo">
+        
+        <div class="inner-section">
+
+            <div class="grids">
+              <div class="grid-3">
+                <ul class="social-links">
+                  <li><a href="//facebook.com/markmansonnet" title="Mark Manson on facebook" class="facebook"></a></li><li><a href="//twitter.com/iammarkmanson" title="Mark Manson on twitter" class="twitter"></a></li><li><a href="http://feeds.feedburner.com/MarkManson" title="Mark Manson's feed" class="feed"></a></li>                </ul>
+              </div>			  <div class="grid-5 terms">					<a href="http://markmanson.net/terms-and-conditions" title="Terms and Conditions">Terms &amp; Conditions</a> | <a href="http://markmanson.net/privacy-policy" title="Privacy Policy">Privacy Policy</a> | <a href="http://markmanson.net/affiliates/" title="Afiliates Signup and Login">Affiliates</a>              </div>			  
+              <div class="grid-4 copyright">
+                <span>Copyright © 2013 <a href="http://markmanson.net">Mark Manson</a>
+</span>                <a href="#" id="backToTop"></a>
+              </div>
+            </div>
+
+        </div>
+
+                <!-- END .footer -->
+      </footer>
+
+      
+    
+      <script type="text/javascript">
+      jQuery(document).ready(function($){
+        $('#navigation a').each(function(){
+          var re = /^#/g,
+              that = $(this),
+              url = 'http://markmanson.net',
+              attr = $(this).attr('href');
+          if(re.test(attr) === true){
+            that.attr('href', url+"/"+attr);
+          }
+        });
+      });
+    </script>
+      <script>
+
+  jQuery(document).ready(function($){
+    $('[data-bg]').each(function(){
+      $(this).css('background-color', $(this).data('bg'));
+      $(".portfolio-content h3",this).css('background-color', $(this).data('bg'));
+    });
+    $('[data-color]').each(function(){
+      $(this).css('color', $(this).data('color'));
+      $("h1,h2,h3,h4,h5,h6,.pubdate", this).css('color', $(this).data('color'));
+    });
+    $('[data-link]').each(function(){
+      $("a", this).css('color', $(this).data('link'));
+    });
+  });
+
+  </script>
+  <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-42186413-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+<script type="text/javascript">
+jQuery(document).ready(function(){
+	/* Moves Getsocial box to the left when it reaches the comments section */
+	jQuery('#comment-wrap ').waypoint(function(direction) {
+		if ( direction == 'down' ) {
+			$opt_box_left = $opt_box_left + 59;
+		} else if ( direction == 'up' ) {
+			$opt_box_left = $opt_box_left - 59;
+		}
+	}, { offset: 320 });
+
+		/* All the code for the social buttons */
+	jQuery('#fb_button').click(function(e){
+	e.preventDefault();
+	var image = jQuery(".entry-content p img").first().attr('src');
+	FB.ui(
+	{
+	method: 'feed',
+	name: 'Privacy Policy',
+	link: 'http://markmanson.net/privacy-policy',
+	picture: image,
+	caption: 'http://markmanson.net/privacy-policy',
+	description: '  	Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.        	  		Before or at the time of collecting personal...',
+	message: ''
+	});
+	});
+
+	function tweet() {
+		var url = encodeURIComponent('http://markmanson.net/privacy-policy');
+		var text = encodeURIComponent('Privacy Policy');
+		var tLink = "https://twitter.com/share?original_referer=" + url + "&text=" + text + "&url=" + url + "&via=IAmMarkManson";
+		window.open(tLink, 'sharer','toolbar=0,status=0,width=548,height=325');
+	}
+	jQuery('#tweet_button').click(tweet);
+	
+	function googleplus() {
+		var permalink = encodeURIComponent('http://markmanson.net/privacy-policy');
+		var gplusLink = 'https://plus.google.com/share?url=' + permalink;
+		window.open(gplusLink, 'sharer','toolbar=0,status=0,width=548,height=325');
+	}
+	jQuery('#gplus_button').click(googleplus);
+	
+	function linkedin() {
+		var permalink = encodeURIComponent('http://markmanson.net/privacy-policy');
+		var title = encodeURIComponent('Privacy Policy');
+		var summary = encodeURIComponent('  	Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.        	  		Before or at the time of collecting personal...');
+		var linkedinLink = 'http://www.linkedin.com/shareArticle?mini=true&url=' + permalink + '&title=' + title + '&summary=' + summary + '&source=MarkManson.net';
+		window.open(linkedinLink, 'sharer','toolbar=0,status=0,width=520,height=570');
+	}
+	jQuery('#linkedin_button').click(linkedin);
+});
+</script>
+
+    <script type="text/javascript" src="http://s4.pmimg.com/wp-content/cache/minify/000000/760cf/default.include-footer.46f693.js"></script>
+
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Minified using disk
+Page Caching using disk: enhanced
+Content Delivery Network via s1.pmimg.com
+
+ Served from: markmanson.net @ 2013-08-06 04:15:40 by W3 Total Cache --></body></html>
