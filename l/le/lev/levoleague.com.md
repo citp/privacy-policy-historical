@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the levoleague.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601150937id_/http%3A//www.levoleague.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the levoleague.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806173930id_/http%3A//www.levoleague.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy ~ Levo League
 
