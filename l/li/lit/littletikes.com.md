@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the littletikes.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602000713id_/http%3A//www.littletikes.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littletikes.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806075429id_/http%3A//www.littletikes.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # privacypolicy
 
