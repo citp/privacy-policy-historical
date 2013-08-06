@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyauction.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510093928id_/http%3A//www.skyauction.com/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyauction.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806193316id_/http%3A//www.skyauction.com/privacy.do) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -73,7 +73,8 @@ CONTACTING THE WEB SITE
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may [contact SkyAuction Customer Support via email](https://web.archive.org/action/custCare) or write to:   
 SkyAuction.com   
 Attn:Internet Development   
-501 Madison Avenue   
-New York, NY 10022
+241 North Ave. West  
+Westfield, NJ 07090  
+
 
 Last Updated Feb. 21, 2002
