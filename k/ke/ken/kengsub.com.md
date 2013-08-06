@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kengsub.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517155330id_/http%3A//kengsub.com/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kengsub.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806083458id_/http%3A//kengsub.com/%23privacy) for the most accurate reproduction.*
 
 # KEngSub.com
 
