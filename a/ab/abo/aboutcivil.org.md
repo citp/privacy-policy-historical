@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aboutcivil.org privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622080049id_/http%3A//www.aboutcivil.org/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aboutcivil.org privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806031541id_/http%3A//www.aboutcivil.org/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Notice
 
@@ -30,7 +30,7 @@ We respect your privacy and appreciate your business. At no time do we ever prov
 
 ## Conditions of Use, Notices, and Revisions
 
-If you choose to visit **aboutcivil.org** , your visit and any dispute over privacy is subject to this Notice and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of our local state. If you have any concern about privacy of your personal information as used and collected within our website, please send us a thorough description by clicking on the "[Contact Us](https://web.archive.org/web/20130622080049id_/http%3A//www.aboutcivil.org/contact-us.html)" link on the side menu, and we will try to resolve it.
+If you choose to visit **aboutcivil.org** , your visit and any dispute over privacy is subject to this Notice and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of our local state. If you have any concern about privacy of your personal information as used and collected within our website, please send us a thorough description by clicking on the "[Contact Us](https://web.archive.org/web/20130806031541id_/http%3A//www.aboutcivil.org/contact-us.html)" link on the side menu, and we will try to resolve it.
 
 Our business changes constantly, and our Privacy Notice and the Conditions of Use will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers. 
 
@@ -41,6 +41,6 @@ For security purposes **aboutcivil.org** sometimes collects and analyzes the Int
 
 ## Questions
 
-Questions regarding our Conditions of Usage, Privacy Policy, or other policy related material can be directed to our support staff by clicking on the "[Contact Us](https://web.archive.org/web/20130622080049id_/http%3A//www.aboutcivil.org/contact-us.html)" link in the side menu. Or you can email us at: [haseebjamal_stn@yahoo.com](mailto:haseebjamal_stn@yahoo.com)
+Questions regarding our Conditions of Usage, Privacy Policy, or other policy related material can be directed to our support staff by clicking on the "[Contact Us](https://web.archive.org/web/20130806031541id_/http%3A//www.aboutcivil.org/contact-us.html)" link in the side menu. Or you can email us at: [haseebjamal_stn@yahoo.com](mailto:haseebjamal_stn@yahoo.com)
 
 Thank you for you Understanding and Support. 
