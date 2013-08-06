@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the justonlinegames.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201044935id_/http%3A//www.justonlinegames.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justonlinegames.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806154004id_/http%3A//www.justonlinegames.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Just Online Games
-
-**Privacy Policy**
+# Privacy Policy
 
 We are committed to the privacy of our visitors while they browse justonlinegames.com. 
 
@@ -10,12 +8,11 @@ For each visitor to our Web page, our Web server automatically recognizes only t
 
 We do not collect any information about our visitor's email or referring domain. For visitors on our website we collect Aggregate (General Tracking) information about pages that users visit on our site. 
 
-To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, third parties may be placing and reading cookies on your browser, or using web beacons to collect information. For further information, consult the privacy policies of:   
-  \- [Google](http://www.google.com/privacy.html) \- [Value Click Media](http://www.valueclickmedia.com/member_privacy.shtml)
+To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, third parties may be placing and reading cookies on your browser, or using web beacons to collect information. 
 
 *Google, as a third party vendor, uses cookies to serve ads on justonlinegames.com.   
 *Google's use of the DART cookie enables it to serve ads to you based on your visit to justonlinegames.com and other sites on the Internet.   
-*You may opt out of the use of the DART cookie by visiting the [Google](http://www.google.com/privacy_ads.html) \- [Value Click Media](http://www.valueclickmedia.com/member_privacy.shtml)
+*You may opt out of the use of the DART cookie by visiting the [Google](http://www.google.com/privacy_ads.html). 
 
 Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some features and services may not function properly if your cookies are disabled. 
 
