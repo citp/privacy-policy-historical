@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelearningodyssey.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627223834id_/https%3A//www.thelearningodyssey.com/LoginContent/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelearningodyssey.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806104100id_/https%3A//www.thelearningodyssey.com/LoginContent/privacypolicy.html) for the most accurate reproduction.*
 
 # CompassLearning Odyssey
 
@@ -6,7 +6,7 @@ Commitment to Privacy and Security
 
 CompassLearning® respects your privacy. Therefore, we have established the following Privacy and Security policies to protect our customers’ interests. 
 
-This Privacy Policy is governed by and is a part of the [ Terms and Conditions of Use Policy](https://web.archive.org/web/20130627223834id_/https%3A//www.thelearningodyssey.com/LoginContent/termsandconditions.html). You are encouraged to read both policies together. CompassLearning reserves the right in its sole discretion to modify this Privacy Policy at any time. We encourage you to refer to this Privacy Policy and the Terms and Conditions of Use Policy on a frequent basis so that you understand our policies then in effect. 
+This Privacy Policy is governed by and is a part of the [ Terms and Conditions of Use Policy](https://web.archive.org/web/20130806104100id_/https%3A//www.thelearningodyssey.com/LoginContent/termsandconditions.html). You are encouraged to read both policies together. CompassLearning reserves the right in its sole discretion to modify this Privacy Policy at any time. We encourage you to refer to this Privacy Policy and the Terms and Conditions of Use Policy on a frequent basis so that you understand our policies then in effect. 
 
 Privacy Policy 
 
@@ -75,7 +75,7 @@ Fax: (512) 492-6193
 
 Security Policy 
 
-The CompassLearning security supplier is Intensive Hosting. They have established a number of procedures and security checks designed to preserve the confidentiality of your personal information. Security requires your cooperation, too. You should never share any password with anyone, and you should be sure to log off and exit your browser so no one can access your information, or corrupt your data. For a more detailed description of the security measures that are being employed in the CompassLearning Odyssey Web site, see [Security Measures](https://web.archive.org/web/20130627223834id_/https%3A//www.thelearningodyssey.com/LoginContent/securitymeasures.html). No method is 100% secure. Therefore, we cannot guarantee complete security of your information and other content you post to CompassLearning Odyssey Web site. COMPASSLEARNING MAKES NO WARRANTIES, EITHER EXPRESS OR IMPLIED, AS TO THE SECURITY OF YOUR DATA COMMUNICATIONS, CONTENT OR POSTINGS, OR THAT THIRD PARTIES WILL NOT GAIN UNAUTHORIZED ACCESS TO OR MONITOR YOUR COMPUTER(S) OR YOUR ONLINE COMMUNICATIONS. YOU AGREE THAT COMPASSLEARNING WILL NOT BE LIABLE FOR ANY SUCH UNAUTHORIZED ACCESS OR USE OR ANY DAMAGES INCLUDING WITHOUT LIMITATION DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR OTHER DAMAGES THAT MAY RESULT THEREFROM. 
+The CompassLearning security supplier is Intensive Hosting. They have established a number of procedures and security checks designed to preserve the confidentiality of your personal information. Security requires your cooperation, too. You should never share any password with anyone, and you should be sure to log off and exit your browser so no one can access your information, or corrupt your data. For a more detailed description of the security measures that are being employed in the CompassLearning Odyssey Web site, see [Security Measures](https://web.archive.org/web/20130806104100id_/https%3A//www.thelearningodyssey.com/LoginContent/securitymeasures.html). No method is 100% secure. Therefore, we cannot guarantee complete security of your information and other content you post to CompassLearning Odyssey Web site. COMPASSLEARNING MAKES NO WARRANTIES, EITHER EXPRESS OR IMPLIED, AS TO THE SECURITY OF YOUR DATA COMMUNICATIONS, CONTENT OR POSTINGS, OR THAT THIRD PARTIES WILL NOT GAIN UNAUTHORIZED ACCESS TO OR MONITOR YOUR COMPUTER(S) OR YOUR ONLINE COMMUNICATIONS. YOU AGREE THAT COMPASSLEARNING WILL NOT BE LIABLE FOR ANY SUCH UNAUTHORIZED ACCESS OR USE OR ANY DAMAGES INCLUDING WITHOUT LIMITATION DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR OTHER DAMAGES THAT MAY RESULT THEREFROM. 
 
 Transactions 
 
