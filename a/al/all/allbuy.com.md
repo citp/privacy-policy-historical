@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the allbuy.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116003224id_/http%3A//www.allbuy.com/doc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allbuy.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806193743id_/http%3A//www.allbuy.com/doc/privacy) for the most accurate reproduction.*
 
 # AllBuy丨Offer You Home, Electronics, Outdoor Products and Tools in High Quality
-
-#### Privacy Policy
 
 We are glad that you (referred to herein as "the customer", "you" "your(s)" or "user") have chosen to shop at AllBuy.com. We are committed to protecting your privacy online. This page explains how we collect, use and protect the information that you provide to us. We respect your privacy and intend to give you as much control as possible over your personal information.
 
