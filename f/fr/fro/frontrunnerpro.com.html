@@ -1,38 +1,940 @@
-<!--The following is the downloaded HTML source of the frontrunnerpro.com privacy policy that was archived on 2001-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010607004919id_/http%3A//www.frontrunnerpro.com/html/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the frontrunnerpro.com privacy policy that was archived on 2013-08-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130807183302id_/http%3A//www.frontrunnerpro.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
-	<title>Untitled</title>
-</head>
-<body bgcolor="White" link="Blue" vlink="Blue" alink="Red">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<!-- Load jQuery, jQuery Validation package -->
+<script id="hs-analytics" src="//js.hubspot.com/analytics/1580456700000/145811.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/jquery-1.6.2.min.js"></script>
+<script type="text/javascript" src="/js/jquery.validate.min.js"></script>
+
+<!-- Load Validation, Submission Response for forms -->
+<script type="text/javascript" src="/js/GeneralController.js"></script> 
+<script type="text/javascript" src="/js/passwordController.js"></script>
+
+<!-- top tab show and hide  -->
+<script type="text/javascript">	
+$(document).ready(function(){
+	$(".loginBtn img").click(function(){
+		$("#login_tab_bg").toggle();
+	});
+	
+	$(".switchBtn img").click(function(){
+		$("#switch_tab_bg").toggle();
+	});
+	
+	$(".demoBtn img").click(function(){
+		$("#demo_tab_bg").toggle();
+	});
+	
+	$(".searchBtn img").click(function(){
+		$("#search_tab_bg").toggle();
+	});
+	
+	if (typeof(failedLogin) !== "undefined"){
+		if(failedLogin == 1){
+			$("#login_tab_bg").toggle();
+		}
+	}
+});
+</script>
+
+
+<link href="/css/frpsite.css" rel="stylesheet" type="text/css">
+<link href="/css/newnav.css" rel="stylesheet" type="text/css">
+
+<!--[if IE 7]>
+        <link rel="stylesheet" type="text/css" href="/css/ie7.css">
+<![endif]-->
+
+<!--[if IE 6]>
+        <link rel="stylesheet" type="text/css" href="/css/ie6.css" />
+<![endif]-->
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-10416486-1']);
+  _gaq.push(['_setDomainName', 'none']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<script type="text/javascript">
+adroll_adv_id = "KGGNNEDTWRFKHBLCWIIJMC";
+adroll_pix_id = "KHORFB7FAFDHDHOJDFE7AB";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script>
+
+<!--<script src="js/jquery.js" type="text/javascript" charset="utf-8"></script>-->
+<link rel="stylesheet" href="/css/prettyPhoto.css" type="text/css" media="screen" charset="utf-8">
+<script src="/js/jquery.prettyPhoto.js" type="text/javascript" charset="utf-8"></script>
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+		<link rel="image_src" href="http://www.frontrunnerpro.com/images/privacy.png">
+	<meta name="description" content="FrontRunner Professional Privacy Policy">
+        <title>FrontRunner Professional Privacy Policy</title>
+        <meta name="description" content="FrontRunner Professional Privacy Policy">
+        
+    <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script><script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=31138623"></script></head>
+
+<body>
+    <div id="header-bg"></div>
+
+    <div id="wrapper">
+        <div id="login_tab_bg" class="hide">
+<div class="top_tab_content">
+<div id="Tab_sized_content">
+<div class="column_6">
+	<center>
+		<h3>Connect With FrontRunner</h3>Coming to the FrontRunner Website to login provides you an opportunity to keep up to speed on the latest enhancements and releases.
+	</center>
+</div>
+
+<div class="column_6">
+    <h4>Client Log-in</h4> 
+    <form id="ClientLoginForm" method="post" novalidate="novalidate">
+		<p><label>Customer ID:</label> 
+		<a href="../shoppingcart/whatsthis.php" style="color: white;text-decoration: underline;">What's this?</a><br>
+		<input class="text" type="text" name="clientID"><br>
+		</p><p><label>Username:</label> <br><input class="text" type="text" name="clientUser"><br>
+        </p><p><label>Password:</label> <br><input class="text" type="password" name="clientPass"><br>
+        <input class="btn" id="ClientLoginFormSubmit" type="button" value="Sign In" disabled="">
+        <input class="btn" id="ClientLoginFormClear" type="reset" value="Clear" disabled="">
+        	</p></form>
+</div>
+
+<div class="column_6"><h4>Sales Rep Log-in</h4> <p style="font-size:11px;">This section is for the exclusive use of Matthews Sales Representatives.</p>
+<form class="sales_rep" id="SalesRepLoginForm" novalidate="novalidate">
+<p><label>Email Address:</label> <br><input class="text" type="text" name="salesRepLoginEmail"><br>
+</p><p><label>Password:</label> <br><input class="text" type="password" name="salesRepLoginPassword"><input class="btn" type="submit" id="SalesRepLoginSubmit" value="Sign In">
+<input class="btn" type="reset" id="SalesRepLoginClear" value="Clear">
+</p></form></div>
+
+<div class="column_6">
+<a href="/client-referral-program"><img src="/images/login-ad-client-ref.png"></a>    
+    
+</div>
+
+</div><!-- Tab_sized_content -->
+ <a class="loginBtn"><img width="960px" class="tab_bottom_btn" src="../images/loging_tab_btn_bottom.png"></a>
+</div><!--content-->
+</div><!--login_tab_bg-->
+
+
+<div id="switch_tab_bg" class="hide">
+<div class="top_tab_content">
+<div id="Tab_sized_content">
+<div class="column_6"><center><h3>Switch To FrontRunner Today!</h3>Switching to the system you really need has never been easier. Contact one of our IMS specialists and
+we'll take it from there.</center></div> 
+<div class="column_12">
+<h4>Get The Solution You Really Wanted </h4>
+<div class="column_6">
+If all you have today is a website, you're already missing out and losing market share to forces working
+against you. Let us show you the power that an all encompassing, totally integrated solution can do for
+your firm. 
+</div>
+<div class="column_6">
+The heritage of funeral service will be won or lost on the internet. Switch to a company that
+is working hard to provide all the solutions you need to successfully win in this changing market.
+</div>
+</div><!-- column 12-->
+<div class="column_6">
+	
+<form action="http://info.frontrunnerpro.com/Default.aspx?app=iframeform&amp;hidemenu=true&amp;ContactFormID=60141" method="post">
+<input type="hidden" name="FormSubmitRedirectURL" id="FormSubmitRedirectURL" value="http://info.frontrunnerpro.com/thank-you-switch-today/"><input type="hidden" name="Lead_Src" id="LeadSrc" value="Switch Today!"><script type="text/javascript" language="javascript">/* <![CDATA[ */
+   HubSpotFormSpamCheck_LeadGen_ContactForm_60141_m0 = function() {
+       var key = document.getElementById('LeadGen_ContactForm_60141_m0spam_check_key').value;
+       var sig = '';
+       for (var x = 0; x< key.length; x++ ) {
+                sig += key.charCodeAt(x)+13;
+       }
+       document.getElementById('LeadGen_ContactForm_60141_m0spam_check_sig').value = sig; 
+       /* Set the hidden field to contain the user token */
+       var results = document.cookie.match ( '(^|;) ?hubspotutk=([^;]*)(;|$)' );
+        if (results && results[2]) {
+            document.getElementById('LeadGen_ContactForm_60141_m0submitter_user_token').value =  results[2];
+        } else if (window['hsut']) {
+            document.getElementById('LeadGen_ContactForm_60141_m0submitter_user_token').value = window['hsut'];
+        }
+        return true;
+   };
+/*]]>*/
+</script>
+<br>
+<input type="hidden" id="LeadGen_ContactForm_60141_m0submitter_user_token" name="LeadGen_ContactForm_60141_m0submitter_user_token" value=""><input type="hidden" name="ContactFormId" value="60141"><input type="hidden" id="LeadGen_ContactForm_60141_m0spam_check_key" name="LeadGen_ContactForm_60141_m0spam_check_key" value="egmiqnjmqpdqsqhdpiknjddfkjjsepfjlmkssldgsufgpmvrqcfkdphmemqq"><input type="hidden" id="LeadGen_ContactForm_60141_m0spam_check_sig" name="LeadGen_ContactForm_60141_m0spam_check_sig" value=""><div class="ContactFormItems FormClassID_60141 DDformTest"> 
+<span>
+<input type="Text" name="LeadGen_ContactForm_60141_m0:FirstName" class="StandardI AutoFormInput LeadGen_ContactForm_60141_m0_AutoForm text" id="LeadGen_ContactForm_60141_m0_FirstName" onclick="SelectAll('LeadGen_ContactForm_60141_m0_FirstName');" value="First Name *"><br></span>
+<span>
+<input type="Text" name="LeadGen_ContactForm_60141_m0:LastName" class="StandardI AutoFormInput LeadGen_ContactForm_60141_m0_AutoForm text" id="LeadGen_ContactForm_60141_m0_LastName" onclick="SelectAll('LeadGen_ContactForm_60141_m0_LastName');" value="Last Name *"><br></span>
+<span>
+<input type="Text" name="LeadGen_ContactForm_60141_m0:Company" class="StandardI AutoFormInput LeadGen_ContactForm_60141_m0_AutoForm text" id="LeadGen_ContactForm_60141_m0_Company" onclick="SelectAll('LeadGen_ContactForm_60141_m0_Company');" value="Company *"><br></span>
+<span>
+<input type="Text" name="LeadGen_ContactForm_60141_m0:Phone" class="StandardI AutoFormInput LeadGen_ContactForm_60141_m0_AutoForm text" id="LeadGen_ContactForm_60141_m0_Phone" onclick="SelectAll('LeadGen_ContactForm_60141_m0_Phone');" value="Phone *"><br></span>
+<span>
+<input type="Text" name="LeadGen_ContactForm_60141_m0:Email" class="StandardI AutoFormInput LeadGen_ContactForm_60141_m0_AutoForm text" id="LeadGen_ContactForm_60141_m0_Email" onclick="SelectAll('LeadGen_ContactForm_60141_m0_Email');" value="Email *"><br></span>
+<span><label>Contact Me By: </label><br>
+<select class="wide StandardI" name="LeadGen_ContactForm_60141_m0:Contact_Us_by__c" id="LeadGen_ContactForm_60141_m0_Contact_Us_by__c">
+<option value="Telephone">Telephone</option>
+<option value="Email">Email</option>
+</select></span>
+<input onclick="return HubSpotFormSpamCheck_LeadGen_ContactForm_60141_m0();" class="FormSubmitButton btn" type="submit" name="LeadGen_ContactForm_Submit_LeadGen_ContactForm_60141_m0" value="Send"></div>
+</form>
+
+</div>
+</div><!-- Tab_sized_content -->
+<a class="switchBtn" id="switchBtnClose"><img width="960px" class="tab_bottom_btn" src="../images/switch_tab_btn_bottom.png"></a>
+</div><!--content-->
+</div><!--switch_tab_bg-->
 
 
 
+
+
+<div id="demo_tab_bg" class="hide">
+<div class="top_tab_content">
+<div id="Tab_sized_content">
+<div class="column_12 push_1">
+<h3>Request a Personal Demo <br>For Your Company</h3>
+Our solutions are 10 times better than what you are using today. Give us a few minutes and we'll prove
+it. FrontRunner is setting a higher standard of online service for funeral professionals.
+</div><!-- column 12-->
+<div class="column_12">
+	
+<form action="http://info.frontrunnerpro.com/Default.aspx?app=iframeform&amp;hidemenu=true&amp;ContactFormID=146919" method="post">
+<input type="hidden" name="FormSubRedirectURL" id="FormSubmitRedirectURL" value="http://info.frontrunnerpro.com/thank-you-book-a-demo/"><input type="hidden" name="L_Src" id="LeadSrc" value="Book a Free Demo Today!">
+<script type="text/javascript" language="javascript">/* <![CDATA[ */
+   HubSpotFormSpamCheck_LeadGen_ContactForm_146919_m0 = function() {
+       var key = document.getElementById('LeadGen_ContactForm_146919_m0spam_check_key').value;
+       var sig = '';
+       for (var x = 0; x< key.length; x++ ) {
+                sig += key.charCodeAt(x)+13;
+       }
+       document.getElementById('LeadGen_ContactForm_146919_m0spam_check_sig').value = sig; 
+       /* Set the hidden field to contain the user token */
+       var results = document.cookie.match ( '(^|;) ?hubspotutk=([^;]*)(;|$)' );
+        if (results && results[2]) {
+            document.getElementById('LeadGen_ContactForm_146919_m0submitter_user_token').value =  results[2];
+        } else if (window['hsut']) {
+            document.getElementById('LeadGen_ContactForm_146919_m0submitter_user_token').value = window['hsut'];
+        }
+        return true;
+   };
+/*]]>*/</script>
+<input type="hidden" id="LeadGen_ContactForm_146919_m0submitter_user_token" name="LeadGen_ContactForm_146919_m0submitter_user_token" value=""><input type="hidden" name="ContactFId" value="146919"><input type="hidden" id="LeadGen_ContactForm_146919_m0spam_check_key" name="LeadGen_ContactForm_146919_m0spam_check_key" value="qsopmpesmonhfekqpkomerkpdqlppslhrgsjreepfhghfrqimkemvccicfpp"><input type="hidden" id="LeadGen_ContactForm_146919_m0spam_check_sig" name="LeadGen_ContactForm_146919_m0spam_check_sig" value=""><div class="ContactFormItems FormClassID_146919">
+
+
+
+<div class="column_6 push_1">
+<fieldset class="sales_rep">
+<span><label>First Name: *</label> <br>
+<input type="Text" name="LeadGen_ContactForm_146919_m0:FirstName" class="StandardI AutoFormInput LeadGen_ContactForm_146919_m0_AutoForm text" id="LeadGen_ContactForm_146919_m0_FirstName" value=""><br></span>
+<span><label>Company: *</label><br>
+<input type="Text" name="LeadGen_ContactForm_146919_m0:Company" class="StandardI AutoFormInput LeadGen_ContactForm_146919_m0_AutoForm text" id="LeadGen_ContactForm_146919_m0_Company" value=""><br></span>
+<span><label>Phone: *</label><br>
+<input type="Text" name="LeadGen_ContactForm_146919_m0:Phone" class="StandardI AutoFormInput LeadGen_ContactForm_146919_m0_AutoForm text" id="LeadGen_ContactForm_146919_m0_Phone" value=""><br></span>
+<span><label>Preferred Contact Date:</label> <br>
+<input type="Text" name="LeadGen_ContactForm_146919_m0:Contact_Date__c" class="StandardI AutoFormInput LeadGen_ContactForm_146919_m0_AutoForm text" id="LeadGen_ContactForm_146919_m0_Contact_Date__c" value=""></span>
+
+</fieldset>
+</div>
+
+<div class="column_6">
+<fieldset class="sales_rep">
+<span><label>Last Name: *</label><br>
+<input type="Text" name="LeadGen_ContactForm_146919_m0:LastName" class="StandardI AutoFormInput LeadGen_ContactForm_146919_m0_AutoForm text" id="LeadGen_ContactForm_146919_m0_LastName" value="">	<br></span>
+<span><label>State:</label> <br>
+<input type="Text" name="LeadGen_ContactForm_146919_m0:State" class="StandardI AutoFormInput LeadGen_ContactForm_146919_m0_AutoForm text" id="LeadGen_ContactForm_146919_m0_State" value="">	<br> </span>
+<span><label>Email: *</label><br>
+<input type="Text" name="LeadGen_ContactForm_146919_m0:Email" class="StandardI AutoFormInput LeadGen_ContactForm_146919_m0_AutoForm text" id="LeadGen_ContactForm_146919_m0_Email" value="">	<br></span>
+<span><label>Contact Me By: </label><br>
+<select class="wide StandardI" name="LeadGen_ContactForm_146919_m0:Contact_Us_by__c" id="LeadGen_ContactForm_146919_m0_Contact_Us_by__c">
+	<option value="Telephone">Telephone</option>
+	<option value="Email">Email</option>
+</select></span>
+
+<input onclick="return HubSpotFormSpamCheck_LeadGen_ContactForm_146919_m0();" class="FormSubmitButton btn" type="submit" name="LeadGen_ContactForm_Submit_LeadGen_ContactForm_146919_m0" value="Submit" style="margin-left: 10px;"></fieldset>
+</div>
+</div>
+
+</form>
+</div><!-- column 12-->
+</div><!-- Tab_sized_content -->
+<a class="demoBtn" id="demoBtnClose"><img width="960px" class="tab_bottom_btn" src="../images/demo_tab_btn_bottom.png"></a>
+</div><!--content-->
+</div><!--demo_tab_bg-->
+
+
+
+
+
+
+<div id="search_tab_bg" class="hide">
+<div class="top_tab_content">
+<div id="Tab_sized_content">
+<div class="column_12">
+<div class="column_10 push_1">
+<h3>Site Search</h3>
+Use our convenient total site search to find the information you are looking for quickly and easily.
+If you still have questions after your search, call us at <span style="color:blue">1-866-748-3625</span>.
+
+<br>
+    <br>
+    <form id="headerSiteSearch" method="get" action="/search/search.php">
+    <input class="text" type="text" id="headersearch" name="query" style="width:300px;" value=" Search..."> &nbsp;&nbsp;
+    <input type="hidden" value="1" name="search">    <input type="hidden" value="www.frontrunnerprofessional.com" name="domain">    <input class="btn" type="submit" value="Search">
+    </form>
+
+</div><!-- column 12-->
+</div>
+<div class="column_12">
+<div class="column_10 push_1">
+    <img style="float:right;" src="../images/search-tab-add.png">
+</div>
+<div class="column_6"><h4></h4><br>
+</div>
+</div><!-- column 12-->
+</div><!-- Tab_sized_content -->
+<a class="searchBtn"><img width="960px" class="tab_bottom_btn" src="../images/search_tab_btn_bottom.png"></a>
+</div><!--content-->
+</div><!--demo_tab_bg-->
+
+
+<div id="header">
+
+<div id="header-tabs">
+<a class="blogBtn" href="http://blog.frontrunnerpro.com"><img class="top-tabs" src="../images/blog_tab.png"></a> 
+<a class="searchBtn"><img class="top-tabs" src="../images/search_tab.png"></a>    
+<a class="demoBtn"><img class="top-tabs" src="../images/demo_tab.png"></a>
+<a class="switchBtn"><img class="top-tabs" src="../images/switch_tab.png"></a>
+<a class="loginBtn"><img class="top-tabs" src="/images/login_tab.png"></a>
+
+</div> 
+
+
+<div id="logo">
+<a href="/index.php"></a>
+</div><!--LOGO-->
+
+<!--
+<div  id="store_button">
+<div class="header_blog">
+<a id="blogBtn" href="http://blog.frontrunnerpro.com/"> <h2>Visit the FrontRunner blog</h2></a> 
+</div>
+</div>-->
+
+<div id="store_button">
+<div class="header_rep-chat">
+<a id="_lpChatBtn" href="https://server.iad.liveperson.net/hc/31138623/?cmd=file&amp;file=visitorWantsToChat&amp;site=31138623&amp;byhref=1&amp;SESSIONVAR!skill=Sales&amp;imageUrl=https://server.iad.liveperson.nethttp://frontrunnerpro.com/images/" target="chat31138623" onclick="javascript:window.open('https://server.iad.liveperson.net/hc/31138623/?cmd=file&amp;file=visitorWantsToChat&amp;site=31138623&amp;SESSIONVAR!skill=Sales&amp;imageUrl=https://server.iad.liveperson.nethttp://frontrunnerpro.com/images/&amp;referrer='+escape(document.location),'chat31138623','width=475,height=400,resizable=yes');return false;"> <h2>Chat With a Sales Rep</h2></a> 
+
+</div>
+</div>
+
+<div id="clear">
+</div><!--clear-->
+
+<ul id="newnavul">
+    <div style="margin: -10px 0;" id="full_sep">
+    </div><!--Sep-->	
+	
+<li> <a class="home_roll-over" href="/index.php">HOME</a> </li>|
+
+<li>  <a class="new-nav-top-lvl" href="/about-frontrunner">ABOUT FRONTRUNNER</a>
+  <ul>
+	<div class="column_8 push_1">
+		<br>
+		<h2><a href="/about-frontrunner">Learn A Little More About FrontRunner</a></h2>
+		<br>
+		<p class="nav-info-text" style="margin:0 0 0 20px;">
+		FrontRunner Professional, a family-owned company led by Kevin Montroy, a funeral director with over
+30 years of experience, is one of the best kept secrets in the funeral profession. His experience, insights,
+and understanding are the driving forces behind our technology solutions tailored to funeral service.
+		<br>
+		</p>
+		<br>
+		</div>
+		
+		<div class="newnav3column push_2">
+		<br><br><br>
+		<center><a href="/about-frontrunner"><img class="new-nav-section-image" src="../images/new-nav-serv-frpteam.png"></a></center>
+		<br><br>
+		</div>
+		
+		<div class="newnav3column">
+		<br><br><br>
+		<li><a href="/about-frontrunner/#about-difference">| <span style="color:#fff;">FrontRunner Difference</span></a></li>
+		<li><a href="/closer-look-at-frontrunner">| <span style="color:#fff;">A Closer Look</span></a></li>
+		<li><a href="/partners">| <span style="color:#fff;">Partners</span></a></li>
+		<li><a href="/frontrunner-news">| <span style="color:#fff;">In The News</span></a></li>
+		<li><a href="/frontrunner-workshops">| <span style="color:#fff;">Workshops</span></a></li>
+		<li><a href="/frontrunner-employment">| <span style="color:#fff;">Employment With FrontRunner</span></a></li>
+		<li><a href="/faq">| <span style="color:#fff;">Our Frequently Asked Questions</span></a></li>
+		<br>
+		<br>
+		</div>
+  </ul>
+</li>|
+
+<li> <a class="new-nav-top-lvl" href="/solutions">SOLUTIONS</a>
+	<ul>
+		<!--<div class="newnav3column">
+			<br><br>
+		<a href="/book-of-memories-memorial-websites/"><img class="new-nav-section-image" src="../images/new-nav-BOM.jpg"/></a>
+		<h2><a href="/book-of-memories-memorial-websites/"><span style="font-size: 15px;">Book of Memories<span class="trademark">&trade;</span></span></a></h2>
+		<li><a href="/book-of-memories-memorial-websites/#at-web-based">Memorial Donation Handler</a></li>
+		<li><a href="/book-of-memories-memorial-websites/#at-one-write">Family Interactive Platform</a></li>
+		<li><a href="/book-of-memories-memorial-websites/#at-bundled">Reminder Service</a></li>
+		<li><a href="/book-of-memories-memorial-websites/#at-tech-costs">Online Flower Ordering</a></li>
+		<li><a href="/book-of-memories-memorial-websites/#at-customer-controlled">Memorial Candle Program</a></li>
+		<li><a href="/book-of-memories-memorial-websites/#at-revenue-generators">Photographic Memories Slideshow</a></li>
+		<br>
+		<br>
+		</div>-->
+		
+		<div class="newnav4column">
+			<br><br>
+		<a href="/tributesuite"><img class="new-nav-section-image" src="../images/new-nav-TS.jpg"></a>
+		<h2><a href="/tributesuite"><span style="font-size: 15px;">Tribute Suite™</span></a></h2>
+		<li><a href="/tributesuite/#TS-singledata">Single-Data Entry</a></li>
+		<li><a href="/tributesuite/#TS-tributesites">Tribute Sites</a></li>
+		<li><a href="/tributesuite/#TS-personalization">Personalization</a></li>
+		<li><a href="/tributesuite/#TS-revenuegenerators">Revenue Generators</a></li>
+		<li><a href="/tributesuite/#TS-matrix">Lead Generation</a></li>
+		<li><a href="/tributesuite/#TS-marketing">The Marketing Center</a></li>
+		<br>
+		<br>
+		</div>
+		
+		<div class="newnav4column">
+			<br><br>
+		<a href="/perfectwebsite/"><img class="new-nav-section-image" src="../images/new-nav-FHW.jpg"></a>
+		<h2><a href="/perfectwebsite/"><span style="font-size: 15px;">Perfect Website™</span></a></h2>
+		<li><a href="/perfectwebsite/#PW-singledata">Single-Data Entry</a></li>
+		<li><a href="/perfectwebsite/#PW-website">Funeral Firm Website</a></li>
+		<li><a href="/perfectwebsite/#PW-tributesites">Tribute Sites</a></li>
+		<li><a href="/perfectwebsite/#PW-personalization">Personalization</a></li>
+		<li><a href="/perfectwebsite/#PW-revenuegenerators">Revenue Generators</a></li>
+		<li><a href="/perfectwebsite/#PW-APP">App-based Customization</a></li>
+		<li><a href="/perfectwebsite/#PW-matrix">Lead Generation</a></li>
+		<li><a href="/perfectwebsite/#PW-marketing">The Marketing Center</a></li>
+		<br>
+		<br>
+		</div>
+		
+		<div class="newnav4column">
+			<br><br>
+		<a href="/websuite"><img class="new-nav-section-image" src="../images/new-nav-websuite.jpg"></a>
+		<h2><a href="/websuite/"><span style="font-size: 15px;">WebSuite™</span></a></h2>
+		<li><a href="/websuite/#WS-singledata">Single-Data Entry</a></li>
+		<li><a href="/websuite/#WS-website">Funeral Firm Website</a></li>
+		<li><a href="/websuite/#WS-tributesites">Tribute Sites</a></li>
+		<li><a href="/websuite/#WS-personalization">Personalization</a></li>
+		<li><a href="/websuite/#WS-revenuegenerators">Revenue Generators</a></li>
+		<li><a href="/websuite/#WS-APP">App-based Customization</a></li>
+		<li><a href="/websuite/#WS-matrix">Lead Generation</a></li>
+		<li><a href="/websuite/#WS-marketing">The Marketing Center</a></li>		
+		<li><a href="/websuite/#WS-forms">Forms Printing</a></li>
+		<li><a href="/websuite/#WS-notice">Notice Compiler</a></li>
+		<br>
+		<br>
+		</div>
+
+		
+		<div class="newnav4column">
+			<br><br>
+		<a href="/total-business-solution"><img class="new-nav-section-image" src="../images/new-nav-TBS.jpg"></a>
+		<h2><a href="/total-business-solution"><span style="font-size: 15px;">Total Business Solution</span></a></h2>
+		<li><a href="/total-business-solution/#TBS-singledata">Single-Data Entry</a></li>
+		<li><a href="/total-business-solution/#TBS-funeral-websites">Funeral Firm Website</a></li>
+		<li><a href="/total-business-solution/#TBS-memorialization">Tribute Sites</a></li>
+		<li><a href="/total-business-solution/#TBS-personalization">Personalization</a></li>
+		<li><a href="/total-business-solution/#TBS-revenue">Revenue Generators</a></li>
+		<li><a href="/total-business-solution/#TBS-management">Case Management</a></li>
+		<li><a href="/total-business-solution/#TBS-accounting">Accounting &amp; Reporting</a></li>
+		<li><a href="/total-business-solution/#TBS-APP">App-based Customization</a></li>
+		<li><a href="/total-business-solution/#TBS-matrix">Lead Generation</a></li>
+		<li><a href="/total-business-solution/#TBS-marketing">The Marketing Center</a></li>
+		<li><a href="/total-business-solution/#TBS-forms">Forms Printing</a></li>
+		<li><a href="/total-business-solution/#TBS-notice">Notice Compiler</a></li>
+		<br>
+		<br>
+		</div>
+		
+		
+	</ul>
+</li>|
+
+<li> <a class="new-nav-top-lvl" href="/market-drivers">MARKET DRIVERS</a>
+  <ul>
+		<div class="column_8 push_1">
+		<br>
+		<h2><a href="/market-drivers">Increase Call Volume</a></h2>
+		<p class="nav-info-text">
+		<br>
+		One of our goals is to effectively harness the power of the Internet to grow your business. These
+		consumer-focused "market driver" websites attract families, capture their interest, and lead them<br> to your
+		funeral firm.<br>
+		</p><li><a href="/market-drivers"> Click To Learn More &gt;&gt;</a></li>
+		<p></p>
+		</div>
+		
+		<div class="newnav3column push_1">
+		<br><br><br>
+		<a href="/market-drivers/#bookofmemories"><center><img class="new-nav-section-image" src="../images/new-nav-MD-BOM.png"></center></a>
+		<br><br>
+		</div>
+		
+		<div class="newnav3column">
+		<br><br><br>
+		<a href="/market-drivers/#obitsforlife"><center><img class="new-nav-section-image" src="../images/new-nav-obitsforlife.png"></center></a>
+		<br><br>
+		</div>
+  </ul>
+</li>|
+
+<li><a class="new-nav-top-lvl" href="/services">SERVICES</a>
+<ul>
+		<div class="newnav3column">
+		<br><br>
+		<a href="/frontrunner-studios"><img class="new-nav-section-image" src="../images/new-nav-serv-frpstudios.png"></a>
+		<h2><a href="/frontrunner-studios">Creativity at Work</a></h2>
+		<p class="nav-info-text">
+		<br>
+		Our award-winning artists, designers, and writers will see your business in new way, find hidden
+		qualities, make connections, and enhance your reputation as trusted funeral professionals.
+		<br><br>
+		</p><br>
+		</div>
+		
+		<div class="newnav3column">
+		<br><br>
+		<a href="/solutions"><center><img class="new-nav-section-image" src="../images/new-nav-serv-tech.png"></center></a>
+		<h2><a href="/solutions">Funeral Technology Solutions</a></h2>
+		<p class="nav-info-text">
+		<br>
+		We don't offer promises, we offer proven solutions. Ours are the only completely integrated systems,
+		with built-in flexibility and scalability, designed to work on tablet and smartphone devices.
+		<br><br>
+		</p><br>
+		</div>
+		
+		<div class="newnav3column">
+		<br><br>
+		<a href="/market-drivers"><center><img class="new-nav-section-image" src="../images/new-nav-serv-fam.png"></center></a>
+		<h2><a href="/market-drivers">Market Drivers</a></h2>
+		<p class="nav-info-text">
+		<br>
+		Our market drivers leverage the promise of new technology to grow your business. They capture the
+		interest of your families, and lead them directly to your firm.
+		<br><br>
+		</p><br>
+		</div>
+		
+		<br>
+		<br>
+</ul>
+</li>&nbsp;
+<li style="display: none;"></li>
+<img id="new-nav-sep-img" src="../images/new-nav-sep.png">
+<span id="sub-nav-dd">
+<li class="newnavsub"><a href="/searchapps">APP SHOP</a>
+<ul>
+
+	<div class="column_5">
+	<br>	<br>
+	<h2><a href="/searchapps">AppShop Categories </a></h2>
+	<li><a href="/searchapps">Marketing Apps</a></li>
+        <li><a href="/searchapps">Revenue Apps</a></li>
+	<li><a href="/searchapps">Efficiency Apps</a></li>
+	<li><a href="/searchapps">Memorialization &amp; Personalization Apps</a></li>
+	<li><a href="/searchapps">Search Engine Optimization (SEO) Apps</a></li>
+	<li><a href="/searchapps">Community Connection Apps</a></li>
+	<br>	<br>
+	</div>
+</ul>
+</li>|
+</span>
+<li class="newnavsub"> <a href="http://info.frontrunnerpro.com/contact-frontrunner-today">CONTACT US</a> </li>|
+
+<!--<li class="newnavsub"> <a href="http://blog.frontrunnerpro.com">BLOG</a> </li>|-->
+<li class="newnavsub"><a href="http://info.frontrunnerpro.com/switch-to-frontrunner-today">ORDER NOW</a></li>
+</ul>
+
+<!--
+<div id="header-nav-top">
+<a class="home_roll-over" href="/index.php">HOME</a>
+<a href="/solutions">SOLUTIONS</a>
+<a href="/market-drivers">MARKET DRIVERS</a>
+<a href="/searchapps">APP SHOP</a>
+<a href="/#">ORDER NOW</a>
+</div>
+
+<div id="header-nav-bottom">
+<a href="/about-frontrunner">ABOUT FRONTRUNNER</a>
+<a href="/#">SERVICES</a>
+<a href="http://blog.frontrunnerpro.com">BLOG</a>
+<a href="#">CONTACT US</a>  
+</div>
+-->
+
+<div id="clear">
+</div><!--clear-->
+
+</div>
+
+    <!-- <div id="header-nav-bottom" style="float: right; margin:0 0 0 0; text-align: right; width:235px; height:15px;">
+ <a style="text-align: right" href="http://info.frontrunnerpro.com/contact-frontrunner-today"> Contact Us </a><a href="#"> |</a> <a href="http://info.frontrunnerpro.com/contact-frontrunner-today">  Call Us: 1-866-748-3625 </a>
+</div>  -->
+
+
+<div class="steaksCTA"><a href="/steaks">Steaks on us</a></div>
+
+
+
+
+        <!--HEADER-->
+        <br>
+        <div id="clear">
+        </div><!--clear-->
+        <div></div>
+        <br>
+        <div id="content">
+          <div class="column_12">
+            <div class="page_header_title">Privacy Policy</div>
+        <h1 class="slider_title black column_21 push_1">
+        FrontRunner Professional Privacy Policy
+        </h1>
+
+    </div><!-- column 12-->
+    <div id="clear"></div>
+    <div id="full_sep">
+    </div><!--Sep-->
+    <br>
+    <div id="full_text" class="">    
+<div class="privacypolicy">           
+            <div class="column_21 push_1">
+	    <h2><center>CONSUMER PERSONAL INFORMATION 2012</center></h2>
+            <br><br>
+	    <h3 class="orange">We Take Privacy Seriously</h3>
+        <p>FrontRunner Professional is the funeral profession's leading technology solutions provider. We highly value our relationship with our
+	funeral home clients and the public they serve, and respect their privacy and yours. To that end, all personal information will always be
+	protected and will never be sold to third parties. </p><br>
+        <strong>What We Collect</strong> <br>We may collect the following information:
+	<ul style="list-style: disc; padding:0 0 10px 30px;">
+            <li>Name and job title</li>
+            <li>Contact information including email address</li>
+            <li>Demographic information such as postcode, preferences and interests</li>
+            <li>Other information relevant to customer surveys and/or offers</li>
+        </ul><br>
+         <p><strong>What We Do with this Information</strong><br>We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:</p>
+	 <ul style="list-style: disc; padding:0 0 10px 30px;">
+            <li>Internal record keeping.</li>
+            <li>We may use the information to improve our products and services.</li>
+            <li>We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.</li>
+            <li>From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail.
+	    We may use the information to customize the website according to your interests.</li>
+        </ul><br>
+	<p><strong>Security</strong><br>
+	We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure we have put in place suitable physical,
+	electronic and managerial procedures to safeguard and secure the information we collect online.</p><br>
+	<p><strong>How We Use Cookies</strong><br>
+	A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyze web
+	traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor
+	its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. We use traffic log cookies to identify which
+	pages are being used. This helps us analyze data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information
+	for statistical analysis purposes and then the data is removed from the system. Overall, cookies help us provide you with a better website, by enabling us to monitor
+	which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to
+	share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline
+	cookies if you prefer. This may prevent you from taking full advantage of the website.</p><br>
+	
+	<p><strong>Links to other Websites</strong><br>
+	Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control
+	over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such
+	sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.</p><br>
+	
+	<p><strong>How We Use Service and Obituary Information</strong><br>
+	We allow service and obituary information to be shared across our trusted networks and affiliated websites such as <a href="http://obitsforlife.com/">ObitsforLife.com</a> to help reach further in helping extended
+	family and friends to be notified. Our goal is to enhance your searching, information and fulfillment experience with us through convenient and timely services. By submitting
+	this personal information to us, you are consenting to its use and disclosure for the following purposes:</p>
+	<ul style="list-style: disc; padding:0 0 10px 30px;">
+            <li>Extend your comments, condolences and tributes to the families being served.</li>
+            <li>Meeting safety, security, legal and regulatory requirements;</li>
+	    <li>Providing you with general service and business partner information.</li>
+            <li>Conducting market analysis to better serve you in the future.</li>
+	    <li>Maintaining the accuracy of our records, in order to facilitate customer service requests and support general client communications. </li>
+        </ul>
+	<p>If these intended uses are not reasonably obvious from the circumstances in which personal information is collected, we will provide you with an opportunity
+	to withhold your consent to the collection, use or disclosure of the information. For example, we will give you an opportunity to tell us not to use for marketing
+	purposes the contact information that you provide us when registering for a service. Keep in mind, however, that there are limited situations in which applicable
+	laws require or allow us, our affiliates, suppliers, business partners and our dealers to collect, use/disclose personal information without consent. They include,
+	for example, safety and law enforcement or compliance activities.</p>
+            </div>            
+    <div id="clear"></div>
 <br><br>
 
+    
+</div>
+   </div><!-- full text Column -->
 
-<table cellspacing="2" cellpadding="2" align="center" border="0">
-  
-  <tbody><tr>
-    <td>
-      <p align="center"><font face="Arial"><font size="+2"><font color="blue">  Privacy Statement</font></font></font></p>
-      <hr>
+    </div><!-- CONTENT -->
 
-      <p><font face="Arial" size="2">Our policy is to respect 
-      and protect the privacy of our users. We will not willfully disclose 
-      individually identifiable information about our customers to any third 
-      party without first receiving that user's permission. <br><br><b></b></font></p><font face="Arial" size="2"><b>
-      
-      <p><font size="2"><font face="Arial"><b>What else should I know about my privacy? </b><br>Please beware that whenever you voluntarily 
-     transmit any information online - for example through email, that information can be extracted and 
-      used by others. We strive to protect the security of information transmitted to us, however,
-      DHS cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. 
-	  
-      </font></font></p><p><font size="2"><font face="Arial"><a href="../default.htm"><font face="Arial" size="2"><strong>Home</strong></font></a>&nbsp;<br>&nbsp;</font></font></p><font size="2"><font face="Arial">
-	  
-	  </font></font></b></font></td></tr></tbody></table>
+     
+    
+    
+<!-- Start Footer Import Section -->
+
+    <div id="footer">
+        <div id="footer_wrapper">
+	<script type="text/javascript">
+function SelectAll(id)
+{
+    document.getElementById(id).focus();
+    document.getElementById(id).select();
+}
+</script>
+         
+<div class="column_6 ">
+<h3>Join FrontRunner <br>Professional Online </h3>
+<a href="https://twitter.com/#!/FrontRunnerPro"> 
+<img alt="Follow FrontRunner On Twitter" src="/images/social_media_Twitter.jpg"></a> 
+<a href="http://www.facebook.com/frontrunnerpro"> 
+<img alt="Connect With FrontRunner On LinkedIn" src="/images/social_media_Facebook.jpg"></a> 
+<a href="http://www.linkedin.com/groups/FrontRunner-Professional-4282806">
+<img alt="Find FrontRunner On FaceBook" src="/images/social_media_In.jpg"></a> 
+</div>
+
+        
+<div class="column_5 pull_1">
+<h3>Get the Website  <br>you Really Wanted.</h3>When your image on the web is as <br>important as that in your community. <br>
+<br>  <a class="home_vid_text_link" href="/imsthemes">Get A FrontRunner Website  &gt;&gt;</a>
+
+</div>
+
+        
+<div class="column_6 pull_1"><h3>Subscribe to Our Newsletter</h3>
+	<ul class="newsletterul">
+		<li>Published FrontRunner Blog Posts</li>
+		<li>Funeral Industry News and Trends</li>
+		<li>FrontRunner Releases</li>
+		<li>Tips on Successful Technology Practices</li>
+		<li>How-to Guides and Case Studies on New Trends</li>
+	</ul>
+
+</div>
+        
+<div id="footer_form" class="column_7 pull_1">
+	
+<form action="http://info.frontrunnerpro.com/Default.aspx?app=iframeform&amp;hidemenu=true&amp;ContactFormID=155762" method="post">
+
+<input type="hidden" name="FormSubmitRedirectURL" id="FormSubmitRedirectURL" value="http://info.frontrunnerpro.com/thank-you-newsletter-signup"><input type="hidden" name="Lead_Src" id="LeadSrc" value="Newsletter Sign Up">
+    
+<script type="text/javascript" language="javascript">/* <![CDATA[ */
+   HubSpotFormSpamCheck_LeadGen_ContactForm_155762_m0 = function() {
+       var key = document.getElementById('LeadGen_ContactForm_155762_m0spam_check_key').value;
+       var sig = '';
+       for (var x = 0; x< key.length; x++ ) {
+                sig += key.charCodeAt(x)+13;
+       }
+       document.getElementById('LeadGen_ContactForm_155762_m0spam_check_sig').value = sig; 
+       /* Set the hidden field to contain the user token */
+       var results = document.cookie.match ( '(^|;) ?hubspotutk=([^;]*)(;|$)' );
+        if (results && results[2]) {
+            document.getElementById('LeadGen_ContactForm_155762_m0submitter_user_token').value =  results[2];
+        } else if (window['hsut']) {
+            document.getElementById('LeadGen_ContactForm_155762_m0submitter_user_token').value = window['hsut'];
+        }
+        return true;
+   };
+/*]]>*/</script>
+
+<input type="hidden" id="LeadGen_ContactForm_155762_m0submitter_user_token" name="LeadGen_ContactForm_155762_m0submitter_user_token" value=""><input type="hidden" name="ContactFormId" value="155762"><input type="hidden" id="LeadGen_ContactForm_155762_m0spam_check_key" name="LeadGen_ContactForm_155762_m0spam_check_key" value="glhpkdgjdrforenhknhhlejohsdqmoogfpjgrhljhedunpicjcvefmrwtspf"><input type="hidden" id="LeadGen_ContactForm_155762_m0spam_check_sig" name="LeadGen_ContactForm_155762_m0spam_check_sig" value="">
+<div class="ContactFormItems FormClassID_155762 newnewsletterform">
+
+<input type="Text" name="LeadGen_ContactForm_155762_m0:FirstName" class="StandardI AutoFormInput LeadGen_ContactForm_155762_m0_AutoForm text" id="LeadGen_ContactForm_155762_m0_FirstName" onclick="SelectAll('LeadGen_ContactForm_155762_m0_FirstName');" value="First Name"><div class="fieldclear"></div>
+
+<input type="Text" name="LeadGen_ContactForm_155762_m0:LastName" class="StandardI AutoFormInput LeadGen_ContactForm_155762_m0_AutoForm text" id="LeadGen_ContactForm_155762_m0_LastName" onclick="SelectAll('LeadGen_ContactForm_155762_m0_LastName');" value="Last Name"><div class="fieldclear"></div>
+
+<input type="Text" name="LeadGen_ContactForm_155762_m0:Company" class="StandardI AutoFormInput LeadGen_ContactForm_155762_m0_AutoForm text" id="LeadGen_ContactForm_155762_m0_Company" onclick="SelectAll('LeadGen_ContactForm_155762_m0_Company');" value="Company"><div class="fieldclear"></div>
+<input type="Text" name="LeadGen_ContactForm_155762_m0:Email" class="StandardI AutoFormInput LeadGen_ContactForm_155762_m0_AutoForm text" id="LeadGen_ContactForm_155762_m0_Email" onclick="SelectAll('LeadGen_ContactForm_155762_m0_Email');" value="Email (Will be kept completely private)"><div class="fieldclear"></div>
+<input onclick="return HubSpotFormSpamCheck_LeadGen_ContactForm_155762_m0();" class="FormSubmitButton newsubmitbtn" type="submit" name="LeadGen_ContactForm_Submit_LeadGen_ContactForm_155762_m0" value="Subscribe Now!"></div>
+</form>
+       
+       <!-- <form id="newsletterForm">
+	<span><label>Business  Name:</label> <br /><input  class="text" type="text" name="newsletterBusiness" /><br /></span>
+        <span><label>Email  Address:</label> <br /><input class="text" type="text" name="newsletterEmail" /></span>
+        <input class="sign_up" id="newsletterSubmit" type="submit" value="Sign Up" /></span>
+        <input class="clear" id="newsletterClear" type="reset" value="Clear" />
+        </form>-->
+	
+</div><!--footer_form-->
+
+        <br>
+        <div id="clear"></div>
+        <br>
+
+         <div id="full_sep"></div><!--Sep-->
+
+            <div class="column_6 footer_provider"><h3>What does FrontRunner<br>offer Funeral Providers? </h3></div>
+            <div class="column_6 pull_1"><h5>World Class Memorial Products</h5><a href="/tributesuite">Tribute Suite™ &gt;&gt;</a></div>
+            <div class="column_6 pull_1"><h5>One-Write Data Entry</h5><a href="/websuite">WebSuite™   &gt;&gt;</a></div>
+	    <div class="column_6 pull_1"><h5>Full Service Management Tools</h5><a href="/total-business-solution">Total Business Solution &gt;&gt;</a></div>
+            
+        <br><br><br>
+
+        <div id="clear"></div>
+
+                <hr width="95%" align="center" size="1">
 
 
+        <div id="clear"></div>
+            <div class="column_6 footer_provider"><h3>Being A Frontrunner<br>Client Offers More. </h3></div>
+            <div class="column_6 pull_1"><h5>Creative Design Services </h5><a href="/services/#services-FRP-studios">More About FrontRunner Studios  &gt;&gt;</a></div>
+            <div class="column_6 pull_1"><h5>Most Sought After Tools</h5><a href="/services/#services-funeral-tech">Funeral Technology Solutions  &gt;&gt;</a></div>
+            <div class="column_6 pull_1"><h5>Marketing Strategies</h5><a href="/services/#services-market-drivers">Attracting More Families  &gt;&gt;</a>
+</div>
+	<br>	<div id="footer_sitemap">
+            <div id="sitemap_top">
+   
+<div class="column_5"> 
+   <a href="/index.php">HOME</a>
+   <ul>
+   <li><a href="/solutions">Solutions</a></li>
+   <li><a href="/market-drivers">Market Drivers</a></li>
+   <li><a href="/services">Services</a></li>
+   <li><a href="/about-frontrunner">About FrontRunner</a></li>
+   <li><a href="/faq">FAQ</a></li>
+   </ul>
+</div>
+
+<div class="column_5"><a href="/about-frontrunner">ABOUT FRONTRUNNER</a>
+   <ul>
+   <li><a href="/about-frontrunner/#about-difference">FrontRunner Difference</a></li>
+   <li><a href="/closer-look-at-frontrunner">A Closer Look At Us</a></li>
+   <li><a href="/partners">Our Partners</a></li>
+   <li><a href="/frontrunner-news">In The News</a></li>
+   <li><a href="/frontrunner-workshops">Workshops</a></li>
+   <li><a href="/privacy">Privacy Policy</a></li>
+   </ul>
+</div>
+
+<div class="column_5"><a href="/solutions">SOLUTIONS</a>
+   <ul>
+   <li style="line-height: 13px; margin-top: 4px;"><a href="/tributesuite">Tribute Suite™</a></li>
+   <li style="margin-top: 4px;"><a href="/perfectwebsite/">Perfect Website™</a></li>
+   <li style="margin-top: 4px;"><a href="/websuite">WebSuite™</a></li>
+   <li style="margin-top: 4px;"><a href="/total-business-solution">Total Business Solution</a></li>
+   </ul>
+</div>
+
+<div class="column_5 "><a href="/market-drivers">MARKET DRIVERS</a>
+   <ul style="margin-bottom: 10px;">
+   <li><a href="/market-drivers/#bookofmemories">BookofMemories.com</a></li>
+   <li class="new-nav-footer-adjust"><a href="/market-drivers/#obitsforlife">ObitsforLife.com </a></li>
+   </ul>
+<a href="/market-drivers">SERVICES</a>
+   <ul>
+   <li class="new-nav-footer-adjust"><a href="/frontrunner-studios">FrontRunner Studios</a></li>
+   <li class="new-nav-footer-adjust"><a href="/solutions">Technology Solutions </a></li>
+   <li class="new-nav-footer-adjust"><a href="/market-drivers">Attracting Families </a></li>
+   </ul>
+</div>
+
+
+</div><!-- SITEMAP TOP -->
+
+
+<div class="column_4"><a class="footer-theme-call" href="/imsthemes">FrontRunner Website Themes</a>
+</div>
+
+
+<div id="sitemap_bottom">
+
+<div class="column_5"><a href="http://info.frontrunnerpro.com/contact-frontrunner-today">CONTACT US</a> 
+</div>
+
+<div class="column_5"><a href="/searchapps">APP SHOP</a>
+</div>
+
+<div class="column_5"><a href="http://info.frontrunnerpro.com/switch-to-frontrunner-today">ORDER NOW</a>
+</div>
+
+<div class="column_5"><a href="/support">SUPPORT</a>
+
+    </div>
+</div> <!-- Sitemap bottom -->
+	    <div id="clear">
+</div>
+
+<div id="footer_contact">
+© 2012 FrontRunner    |    Phone: 1-866-748-3625    |    Fax: 613-547-4015    |    
+<a href="http://info.frontrunnerpro.com/contact-frontrunner-today">Contact Us</a>    |    
+<a href="http://info.frontrunnerpro.com/switch-to-frontrunner-today">Order Now</a> &nbsp; &nbsp; &nbsp; 
+    <form id="footerSiteSearch" method="get" action="/search/search.php">
+    <input class="text" type="text" id="footersearch" name="query" onfocus="this.select();" style="width:160px;" value=" Search..."> &nbsp;&nbsp;
+    <input type="hidden" value="1" name="search">    <input type="hidden" value="www.frontrunnerprofessional.com" name="domain">    <input class="btn" type="submit" value="Search">
+    </form>
+<a href="https://www.gotomeeting.com/join" target="_blank"><img src="../images/GOTOmeeting-btn.png" border="0" style="margin-bottom:-15px"></a>
+</div>
+
+<script type="text/javascript" charset="utf-8">
+  $(document).ready(function(){
+    $("a[rel^='prettyPhoto']").prettyPhoto({
+        slideshow: 5000, /* false OR interval time in ms */
+        wmode: 'opaque',
+        deeplinking: false,
+        allow_resize: true, /* Resize the photos bigger than viewport. true/false */
+        });
+  });
+</script>
+
+<!-- Start of Async HubSpot Analytics Code -->
+    <script type="text/javascript">
+        (function(d,s,i,r) {
+            if (d.getElementById(i)){return;}
+            var n=d.createElement(s),e=d.getElementsByTagName(s)[0];
+            n.id=i;n.src='//js.hubspot.com/analytics/'+(Math.ceil(new Date()/r)*r)+'/145811.js';
+            e.parentNode.insertBefore(n, e);
+        })(document,"script","hs-analytics",300000);
+    </script>
+<!-- End of Async HubSpot Analytics Code -->
+
+<!-- BEGIN LivePerson Monitor. --><script language="javascript"> var lpMTagConfig = {'lpServer' : "server.iad.liveperson.net",'lpNumber' : "31138623",'lpProtocol' : "https"}; function lpAddMonitorTag(src){if(typeof(src)=='undefined'||typeof(src)=='object'){src=lpMTagConfig.lpMTagSrc?lpMTagConfig.lpMTagSrc:'/hcp/html/mTag.js';}if(src.indexOf('http')!=0){src=lpMTagConfig.lpProtocol+"://"+lpMTagConfig.lpServer+src+'?site='+lpMTagConfig.lpNumber;}else{if(src.indexOf('site=')<0){if(src.indexOf('?')<0)src=src+'?';else src=src+'&';src=src+'site='+lpMTagConfig.lpNumber;}};var s=document.createElement('script');s.setAttribute('type','text/javascript');s.setAttribute('charset','iso-8859-1');s.setAttribute('src',src);document.getElementsByTagName('head').item(0).appendChild(s);} if (window.attachEvent) window.attachEvent('onload',lpAddMonitorTag); else window.addEventListener("load",lpAddMonitorTag,false);</script><!-- END LivePerson Monitor. -->
+<!-- BEGIN Monitor Tracking Variables  -->
+<script language="JavaScript1.2">
+if (typeof(lpMTagConfig.sessionVar) == "undefined"){ lpMTagConfig.sessionVar = new Array();}
+lpMTagConfig.sessionVar[lpMTagConfig.sessionVar.length] = 'skill=Sales';
+</script>
+<!-- End Monitor Tracking Variables  -->
+
+	 </div> <!--Footer Sitemap-->
+	 </div> <!--Footer wrapper-->
+    </div><!--FOOTER-->
+
+    <!-- End Footer Import Section -->
+    
+    
+    
+    
+</div> <!-- WRAPPER -->
+<div id="footer-dark-bg"></div>
 
 
 </body></html>
