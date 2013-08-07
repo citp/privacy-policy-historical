@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mrcoolworld4u.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604234203id_/http%3A//www.mrcoolworld4u.com/p/privacy-policy-www.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrcoolworld4u.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807123504id_/http%3A//www.mrcoolworld4u.com/p/privacy-policy-www.html) for the most accurate reproduction.*
 
 # Privacy Policy | Free Download of Computer Software, Games, Tools and Utilities - Freeware, Shareware
-
-##  Privacy Policy 
 
 **Privacy Policy for www.mrcoolworld4u.com/**
 
