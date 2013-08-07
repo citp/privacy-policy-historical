@@ -1,15 +1,12 @@
-> *The following text is extracted and transformed from the duo.com privacy policy that was archived on 2013-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130123061641id_/http%3A//www.duoboots.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duo.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807154147id_/http%3A//www.duoboots.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DUO
-
-## PRIVACY AND COOKIE POLICIES
 
   
 
 
 ###  1\. PRIVACY OF YOUR INFORMATION
 
-  
 DUO is committed to protecting any personal information that you may provide to us and we believe it is important for you to know how we treat information about you that we may receive from this website.  Please read this Privacy Policy carefully as it explains what information DUO collects from you and how we use this information, including setting out the circumstances where we could provide it to third parties. You should also read the separate Terms and Conditions of Sale [here](http://www.duoboots.com/terms-and-conditions/) (opens a new window).
 
 **What information do we collect?**
@@ -20,6 +17,8 @@ DUO is committed to protecting any personal information that you may provide to 
   * Should you provide a friend’s email address via our ‘Tell a Friend’ feature, we will collect your name and email address, and the addresses and message that you input, solely to deliver this information to the intended recipients. This information will not be used for any other purpose.
   * Even if you do not register or buy with us, we may also collect, and our third party providers of advertisements and content may collect, information about where you are on the internet (e.g. the website address you came from, IP address, domain types) and technical information such as your browser type and the pages of the DUO website you viewed during your visit.
   * Like most websites, our servers automatically record the page requests made when you visit our sites. These “server logs” typically include your web request, IP address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
+
+
 
 **What do we do with the information we collect?**
 
@@ -35,6 +34,8 @@ DUO is committed to protecting any personal information that you may provide to 
   * When providing a friend’s email address via our ‘Tell a Friend’ feature, we will collect your name and email address, and the addresses and message that you input, solely to deliver this information to the intended recipients. This information will not be used for any other purpose.
   * As DUO is an international company, there may be occasions where information may be transferred from one country to another.
 
+
+
 **Your consent**
 
 By using the DUO website you acknowledge and agree that:
@@ -47,6 +48,8 @@ By using the DUO website you acknowledge and agree that:
   * If you do not want to accept cookies you will be unable to use some of this website’s features, as they depend technically on the use of cookie technology. Find out more about how to block cookies in our cookie policy [here](http://www.duoboots.com/cookie-policy/) (opens in a new window).
   * If you'd like to opt out of behavioural advertising cookies, please go to the Network Advertising Initiative website - <http://www.networkadvertising.org/managing/opt_out.asp> – opens in new window. Please note that we're not responsible for the content of external websites).
 
+
+
 **Accessing your information**
 
 If you want to access or update any of your personal information held by DUO, you can amend or update your profile online in the My Account section of the website [here](https://www.duoboots.com/myaccount/). To completely remove your details from our database, or to request cessation of contact from DUO, or for any enquiries relating to your personal information or profile with DUO, please contact us at [enquiries@duoboots.com](mailto:enquiries@duoboots.com).
@@ -55,7 +58,6 @@ DUO reserves the right to access and disclose personal information to comply wit
 
 ###  2\. TRANSACTION SECURITY
 
-  
 DUO respects the privacy of its customers and is committed to complying with all laws relating to the protection of personal data.
 
 To prevent unauthorised access, we follow appropriate security procedures in the storage and disclosure of personal information which you have given to us.
@@ -74,7 +76,6 @@ Your payment details are held in an encrypted format until we process your order
 
 ###  3\. COOKIES
 
-  
 **How DUO uses cookies**
 
 Our website, as with many others, attempts to place a small data file (known as a “cookie”) onto your computer for several purposes, including in order to expedite your navigation throughout the website or to enable you to return to a purchase if disconnected, to record user preferences, to record your usage of our website in order to improve the site, or to serve content tailored specifically for you. We may use cookies to store your personal information for promotional or marketing purposes. We use cookies to improve the quality of our service.
@@ -103,7 +104,6 @@ For more detail about what cookies are, DUO’s own cookie policy, what cookies 
 
 ###  4\. CHANGES TO THIS PRIVACY POLICY
 
-  
 We reserve the right to add to or change the terms of this privacy policy at our sole discretion, without prior notice to you. If we change this privacy policy, we will post the new policy on our website, and it will become effective from the time of posting to our website. Please visit our website on a regular basis to make sure you have read the latest version of our privacy policy and you understand what we do with your personal information. Whenever possible, we will give you notice of any changes prior to their implementation. Your continued use of our website following the posting of changes to these terms means that you consent to those changes.
 
 Questions regarding this policy should be directed as follows:  
