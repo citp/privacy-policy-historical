@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefrugaltoad.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509163916id_/http%3A//www.thefrugaltoad.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefrugaltoad.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807211556id_/http%3A//www.thefrugaltoad.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy PolicyThe Frugal Toad
 
@@ -24,3 +24,5 @@ The contents of this statement may be altered at any time, at our discretion.
 If you have any questions regarding the privacy policy of The Frugal Toad then you may contact us at thefrugaltoad at gmail dot com
 
 Last updated Thu, 15 Mar 2012 06:45
+
+[](http://track.flexlinks.com/a.aspx?foid=16056809&fot=9999&foc=2&foc2=562920 "Personal Capital's free financial software helps you see all of your wealth in one place. www.personalcapital.com")
