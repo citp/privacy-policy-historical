@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dateacougar.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424042854id_/http%3A//www.dateacougar.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dateacougar.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808003948id_/http%3A//www.dateacougar.com/privacyPolicy) for the most accurate reproduction.*
 
 # .: Privacy Policy
 
@@ -17,7 +17,8 @@ dateacougar.com (the "Site") is licensed to **Elite Marketing Solutions Inc.**
 Our USA postal address is   
 312 West Fourth Street  
 Carson City, NV 89703  
-USA 
+USA  
+1-866-294-5787 
 
 [Contact us](https://web.archive.org/contact)
 
@@ -75,7 +76,7 @@ IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY STATE
 
 **"OPT-OUT" Revocation Procedure.**
 
-> The Site also offers all subscribers a procedure for "Opting-Out" if the subscriber subsequently chooses to revoke any consent to receive Offers by [clicking here](https://web.archive.org/web/20130424042854id_/http%3A//www.dateacougar.com/settings/2) and deselecting "I want to be informed of promotional offers". 
+> The Site also offers all subscribers a procedure for "Opting-Out" if the subscriber subsequently chooses to revoke any consent to receive Offers by [clicking here](https://web.archive.org/web/20130808003948id_/http%3A//www.dateacougar.com/settings/2) and deselecting "I want to be informed of promotional offers". 
 
 **Terms and Conditions of Membership.**
 
