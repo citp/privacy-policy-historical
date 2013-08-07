@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the template4all.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424125027id_/http%3A//www.template4all.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the template4all.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807103107id_/http%3A//www.template4all.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy of Template4all.com
 
