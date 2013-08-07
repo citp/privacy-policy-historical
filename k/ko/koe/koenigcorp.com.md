@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koenigcorp.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504051254id_/http%3A//www.koenigcorp.com/Support/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koenigcorp.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808003935id_/http%3A//www.koenigcorp.com/Support/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Koenig Corporation Privacy Statement
 
@@ -39,3 +39,21 @@ You are entitled to know whether we hold information about you and, if we do, to
 We take appropriate steps to maintain the security of your data on Koenig Corporation’s website. You should understand that the open nature of the Internet is such that data may flow over networks without security measures and may be accessed and used by people other than those for whom the data is intended.
 
 That's it in a nutshell. The short of it is—we are interested in maintaining your privacy and creating a valuable resource for you to use. If you have any questions now or during your visit, please contact us.
+
+Featured
+
+[](http://www.discountasp.net/a/mlrctm_b_14 "Discountasp.NET, the global leader in ASP.NET Hosting Services")
+
+What's Online Today!
+
+Private Investors: 1,518
+
+Partner Opportunities: 632,573
+
+Venture Capital Companies: 2,118
+
+Companies Seeking Capital: 23,388
+
+Jobs & Projects 13,748
+
+Thursday, August 08, 2013
