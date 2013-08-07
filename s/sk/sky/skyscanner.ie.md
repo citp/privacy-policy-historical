@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyscanner.ie privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512111917id_/http%3A//www.skyscanner.ie/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyscanner.ie privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807082234id_/http%3A//www.skyscanner.ie/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy and cookie policy - Skyscanner Ireland
 
