@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epubebooks.net privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608001340id_/http%3A//www.epubebooks.net/p/we-have-established-this-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epubebooks.net privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808013115id_/http%3A//www.epubebooks.net/p/we-have-established-this-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy ~ ePUBeBOOKS
 
