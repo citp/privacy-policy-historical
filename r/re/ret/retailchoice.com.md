@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the retailchoice.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116104048id_/http%3A//www.retailchoice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retailchoice.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807041056id_/http%3A//www.retailchoice.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
