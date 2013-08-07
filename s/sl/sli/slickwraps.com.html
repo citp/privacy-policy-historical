@@ -1,11 +1,12 @@
-<!--The following is the downloaded HTML source of the slickwraps.com privacy policy that was archived on 2013-01-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130117122526id_/http%3A//www.slickwraps.com/terms_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the slickwraps.com privacy policy that was archived on 2013-08-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130807182956id_/http%3A//www.slickwraps.com/terms_privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="robots" content="noodp,noydir">
 <meta name="google-site-verification" content="Xi52PbDS_ep0uZk6583qgUaFZNvIbD0ofjZYt8NQnpM">
 <meta name="google-site-verification" content="N4NOlybAOM9C4L_6Un-LSCytdQHHMX_txPxOVJa3uGQ">
+<meta name="p:domain_verify" content="03e97a505dd838d4d6382878a31b606f">
 <meta name="description" content="SlickWraps is your premier source for quality consumer electronics protection, accessories and the new iPhone 5.  Our products have been featured in many of the top online electronics magazines and techno blogs.  Specializing in smart phones and other small electronics we strive to outclass the competition by selling the highest quality materials at the lowest prices possible.  We also constantly search for new materials and ideas to expand our product line.  We provide consumers worldwide with new, one-of-a-kind products.  We pride ourselves at often being the first to come out with new ideas and custom materials such as the hugely popular iGlowPhone.
 
 ">
@@ -17,9 +18,10 @@
 <link rel="canonical" href="http://www.slickwraps.com/terms_privacy.asp">
 		
 
-<script type="text/javascript" async="" src="https://d1chfpa9hnx6ug.cloudfront.net/userreport.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://web.archive.org/web/20121017052400/https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://web.archive.org/web/20121017052400/https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js"></script>
 <link type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/themes/base/jquery-ui.css" rel="stylesheet">
+<link type="text/css" href="/a/c/default.css" rel="stylesheet">
 
 
 <script type="text/javascript">
@@ -35,7 +37,30 @@
     var PageText_843 = "Subtotal";
     var PageText_844 = "items in cart";
 </script>
+<script type="text/javascript" src="/a/j/volusion.js?6.40.5.219"></script>
+<script type="text/javascript">
+    (function ($) {
+        volusion.ready(function () {
+            if (volusion.cart.isObservingCount()) {
+                var ts = new Date().getTime();
 
+                $.getJSON('/ajaxcart.asp?cachebust=' + ts, function (data) {
+                    var quantityTotal = 0;
+                    $.each(data.Products, function (key, val) {
+                        if (val.IsProduct === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        } else if (val.IsAccessory === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        }
+                    });
+                    quantityTotal = quantityTotal || '0';
+                    volusion.cart.itemCount(quantityTotal);
+                });
+
+            }
+        });
+    } (jQuery));
+</script>
 
 
 <script type="text/javascript" src="/a/j/soft_add.js"></script>
@@ -48,7 +73,7 @@
 </script>
 
 <script type="text/javascript" src="/a/j/soft_add_mult.js"></script>
-<script type="text/javascript" src="/a/j/javascripts.js?6_5_196"></script>
+<script type="text/javascript" src="/a/j/javascripts.js?6_5_6.40.5.219"></script>
 
 <script type="text/javascript">
 	var Config_Search_Auto_Complete = false;
@@ -56,6 +81,8 @@
 
 
 <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<!-----Optimizely----->
+<script src="//cdn.optimizely.com/js/78543006.js"></script>
 <!-- 
 DYNAMIC PAGE-SPECIFIC META TAGS WILL BE PLACED HERE
 DO NOT ADD YOUR OWN META TAGS
@@ -72,8 +99,12 @@ ONLY PUT CSS/JAVSCRIPT INCLUDES IN YOUR HEAD TAG
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
   })();
 </script>
+<link rel="stylesheet" href="http://code.jquery.com/ui/1.10.1/themes/base/jquery-ui.css">
 <link href="/v/vspfiles/templates/slick12/css/Imports.css" rel="stylesheet" type="text/css">
 <link href="/v/vspfiles/assets/custom_css/shadowbox.css" rel="stylesheet" type="text/css">
+
+
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.8.1.min.js"></script>
 
 <script src="/v/vspfiles/assets/js/slideshow.js" type="text/javascript"></script>
 <script src="/v/vspfiles/assets/js/shadowbox.js" type="text/javascript"></script>
@@ -107,9 +138,489 @@ Shadowbox.init({
 
 <script src="/v/vspfiles/templates/slick12/js/eventTracking.js" type="text/javascript"></script>
 
-</head>
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+$(document).ready(function() {
+//<![CDATA[ 
+if (location.pathname == "/product-p/iphone5-wrap-for-customization.htm") {
+    $( document ).tooltip();
+
+    $("#options_table").hide();
+
+    var firstTdparent= $("#product_photo").parent().parent().parent().parent().parent().parent();
+    $("#product_photo").remove();
+    var cartHtml = $("#listOfErrorsSpan").parent().html();
+    
+
+    firstTdparent.replaceWith("<tr><td align='center' valign='top' colspan='2'><div style='position: relative;'><table width='100%' border='0' cellspacing='0' cellpadding='8'><tbody><tr><td><table width='60%' height='430px' border='0' cellspacing='0' cellpadding='0' class='v65-productDisplay' style='margin:0 auto;'><tbody><tr class='v65-productDisplay-row'><td valign='top' class='v65-productDisplay-cell v65-productPhoto' width='40%' align='center' style='position: relative;'><div style='position:relative' class='front_wrapper'><img src='/v/vspfiles/assets/images/carbon_black_front.png' border='0' alt='Front' width='195px' height='423px' class='front' style='z-index:10;display:none;' location='front'><img src='/v/vspfiles/assets/images/carbon_black_front.png' border='0' alt='Front' width='195px' height='423px' class='front hidden' style='z-index:9;' location='front'></div><div style='position:relative' class='button_wrapper'><img src='/v/vspfiles/assets/images/carbon_black.png' border='0' alt='Button' width='39px' height='40px' class='button' style='z-index:10;display:none;' location='button'><img src='/v/vspfiles/assets/images/carbon_black.png' border='0' alt='Button' width='39px' height='40px' class='button hidden' style='z-index:9;' location='button'></div></td><td valign='top' class='v65-productDisplay-cell v65-productPhoto' width='40%' align='center'><div class='back_wrapper'><img src='/v/vspfiles/assets/images/direct_front.png' class='direct direct_front'><img src='/v/vspfiles/assets/images/direct_button.png' class='direct direct_button'><img src='/v/vspfiles/assets/images/direct_top.png' class='direct direct_top'><img src='/v/vspfiles/assets/images/direct_body.png' class='direct direct_body'><img src='/v/vspfiles/assets/images/direct_bottom.png' class='direct direct_bottom'><img src='/v/vspfiles/assets/images/direct_side.png' class='direct direct_side'><div class='back_top_wrapper'><div style='position:relative'><img src='/v/vspfiles/assets/images/carbon_black_top_back.png' border='0' alt='Back Top' width='202px' height='39px' class='back_top' location='top' style='z-index:10;display:none;'><img src='/v/vspfiles/assets/images/carbon_black_top_back.png' border='0' alt='Back Top' width='202px' height='39px' class='back_top hidden' location='top' style='z-index:9;'></div></div><div class='back_body_wrapper'><div style='position:relative'><img src='/v/vspfiles/assets/images/carbon_black_back.png' border='0' alt='Back Body' width='202px' height='356px' class='back_body' location='body' style='z-index:10;display:none;'><img src='/v/vspfiles/assets/images/carbon_black_back.png' border='0' alt='Back Body' width='202px' height='356px' class='back_body hidden' location='body' style='z-index:9;'></div></div><div class='back_bottom_wrapper'><div style='position:relative'><img src='/v/vspfiles/assets/images/carbon_black_bottom_back.png' border='0' alt='Back Bottom' width='202px' height='39px' class='back_bottom' location='bottom' style='z-index:10;display:none;'><img src='/v/vspfiles/assets/images/carbon_black_bottom_back.png' border='0' alt='Back Bottom' width='202px' height='39px' class='back_bottom hidden' location='bottom' style='z-index:9;'></div></div></div></td><td valign='top' class='v65-productDisplay-cell v65-productPhoto' width='20%' align='center' style='position: relative;'><div style='position:relative' class='side_wrapper'><img src='/v/vspfiles/assets/images/carbon_black_side.png' border='0' alt='Side' width='19px' height='434px' class='side' style='z-index:10;display:none;' location='side'><img src='/v/vspfiles/assets/images/carbon_black_side.png' border='0' alt='Side' width='19px' height='434px' class='side hidden' style='z-index:9;' location='side'></div></td>  </tr></tbody></table> </td></tr></tbody></table><div class='front_cover' location='front'></div><div class='button_cover' location='button'></div><div class='side_cover' location='side'></div><div class='back_top_cover' location='back_top'></div><div class='back_body_cover' location='back_body'></div><div class='back_bottom_cover' location='back_bottom'></div></div><div class='swatch_wrapper'><div class='iphones'><img src='/v/vspfiles/assets/images/iphone5_black_back.png' width='30px' height='55px' class='iphone_swatch iphone_black'><img src='/v/vspfiles/assets/images/iphone5_white_back.png' width='30px' height='55px' style='margin-left:10px;' class='iphone_swatch iphone_white'></div><div class='series'><div class='series_selected' val='carbon'>Carbon Series</div><ul class='dropdown_series' id='dropdown_series' style='display:none;'><li val='carbon'>Carbon Series</li><li val='color'>Color Series</li><li val='glow'>Glow Series</li><li val='metal'>Metal Series</li><li val='wood'>Wood Series</li></ul></div><div class='swatches'><div><img src='/v/vspfiles/assets/images/carbon_black_swatch.png' classes='black' title='Carbon Black'><img src='/v/vspfiles/assets/images/carbon_blue_swatch.png' classes='blue' title='Carbon Blue'><img src='/v/vspfiles/assets/images/carbon_green_swatch.png' classes='green' title='Carbon Green'><img src='/v/vspfiles/assets/images/carbon_gunmetal_swatch.png' classes='gunmetal' title='Carbon Gunmetal'><img src='/v/vspfiles/assets/images/carbon_pink_swatch.png' classes='pink' title='Carbon Pink'><img src='/v/vspfiles/assets/images/carbon_purple_swatch.png' classes='purple' title='Carbon Purple'><img src='/v/vspfiles/assets/images/carbon_red_swatch.png' classes='red' title='Carbon Red'><img src='/v/vspfiles/assets/images/carbon_silver_swatch.png' classes='silver' title='Carbon Silver'><img src='/v/vspfiles/assets/images/carbon_white_swatch.png' classes='white' title='Carbon White'></div></div><div class='clearfix'></div><div style='width: 240px;'>"+cartHtml +"</div><div><div class='inspiration'><div class='insp_title'>START WITH AN INSPIRATION </div><img src='/v/vspfiles/assets/images/wood_customizer.jpg'><img src='/v/vspfiles/assets/images/customizer_2.jpg'><img src='/v/vspfiles/assets/images/customizer_1.jpg'></td></tr><tr>" +firstTdparent.html() + "</tr>");
+
+$("#v65-share-buttons-cell").parent().parent().parent().parent().parent().parent().parent().parent().parent().remove();
+$(".v65-productdetail-cartqty").parent().html("<b>" + $(".pricecolor").parent().html() + "</b>");
+$("#listOfErrorsSpan").next().remove();
+$("#v65-product-parent").next().remove();
+}
+//]]> 
+});
+</script>
+
+<script src="http://code.jquery.com/ui/1.10.1/jquery-ui.js"></script>
+
+<script type="text/javascript">
+	var series = new Array();
+	series["carbon"] = new Array("black",  "blue",   "green",	"gunmetal", "pink",   "purple",  "red",  "silver", "white");
+	series["color"] =  new Array("black",  "blue",   "green", "orange",	"pink",   "purple",  "red",  "white",  "yellow");
+	series["glow"] =   new Array("blue",   "green",  "orange","purple",   "yellow");
+	series["metal"] =  new Array("copper", "gold",   "light");
+	series["wood"] =   new Array("goldflake_ebony",  "ebony", "mahogany", "maple",  "zebra");
+
+	var bunch = new Array();
+	bunch["black"] = new Array("carbon", "color");
+	bunch["blue"] =  new Array("carbon", "color", "glow");
+	bunch["green"] = new Array("carbon", "color", "glow");
+	bunch["orange"] =new Array("color", "glow");
+	bunch["pink"] = new Array("carbon", "color");
+	bunch["purple"] = new Array("carbon", "color", "glow");
+	bunch["red"] = new Array("carbon", "color");
+	bunch["white"] = new Array("carbon", "color");
+	bunch["yellow"] = new Array("color", "glow");
+        
+
+	$(document).ready(function() {
+                
+		$(".dropdown_series li").click(function() {
+			$(".series_selected").html($(this).html());
+                        $(".series_selected").attr("val", $(this).attr("val"));
+			$(".dropdown_series").fadeOut("fast");
+			$(".swatches div").hide();
+			$(".swatches div").html("");
+			for (var i=0; i<series[$(this).attr("val")].length; i++)
+			{
+				var swatch = series[$(this).attr("val")][i];
+				$(".swatches div").html($(".swatches div").html() + "<img src='/v/vspfiles/assets/images/" + $(this).attr("val") + "_" + swatch + "_swatch.png' classes='" + swatch + "' title='" + $(this).attr("val").toLowerCase().replace(/\b[a-z]/g, function(letter) {return letter.toUpperCase();}) + " " + swatch.toLowerCase().replace(/_/, " ").replace(/_/, " ").replace(/\b[a-z]/g, function(letter) { return letter.toUpperCase();}) + "'>");
+			}
+			$(".swatches div").fadeIn();
+		});
+		$(".swatches img").live("click", function() {
+			if ($(".is_selected") == null || !$(".is_selected").hasClass("is_selected"))
+			{
+				var series = $(".series_selected").attr("val");
+				var bunch = $(this).attr("classes");
+				all_image_exchange(series, bunch);				
+			}else {
+				var loc = "";
+				if ($(".is_selected").attr("location") != "body")
+				{
+					loc = "_" + $(".is_selected").attr("location");
+				}
+				if ($(".is_selected").hasClass("front")) {
+                                        var color = $(this).attr("classes");
+					$(".is_selected").parent().find(".hidden").attr("src", "/v/vspfiles/assets/images/" + $(".series_selected").attr("val") + "_" + color  + loc + ".png");
+
+                                         $("select[name=SELECT___IPHONE5-WRAP-FOR-CUSTOMIZATION___78] option").each(function() {
+                                                   if ($(this).html().replace(/ /g, "").replace(/_/, "").toLowerCase().indexOf($(".series_selected").attr("val").replace(/ /g, "").replace(/_/, "").toLowerCase() + color.replace(/ /g, "").replace(/_/, "").toLowerCase()) > -1 ) {
+                                                           $(this).attr("selected", "selected");
+                                                   }
+                                          });
+
+                                }
+				else if ($(".is_selected").hasClass("button")) {
+                                        var color = $(this).attr("classes");
+					$(".is_selected").parent().find(".hidden").attr("src", "/v/vspfiles/assets/images/" + $(".series_selected").attr("val")+ "_" + $(this).attr("classes") + ".png");
+                                        $("select[name=SELECT___IPHONE5-WRAP-FOR-CUSTOMIZATION___79] option").each(function() {
+                                                   if ($(this).html().replace(/ /g, "").replace(/_/, "").toLowerCase().indexOf($(".series_selected").attr("val").replace(/ /g, "").replace(/_/, "").toLowerCase() + color.replace(/ /g, "").replace(/_/, "").toLowerCase()) > -1 ) {
+                                                           $(this).attr("selected", "selected");
+                                                   }
+                                          });
+                                }
+				else if ($(".is_selected").hasClass("back_top") || $(".is_selected").hasClass("back_body") || $(".is_selected").hasClass("back_bottom")) {
+                                        var color = $(this).attr("classes");
+					$(".is_selected").parent().find(".hidden").attr("src", "/v/vspfiles/assets/images/" + $(".series_selected").attr("val") + "_" + $(this).attr("classes") + loc + "_back.png");
+                                         if ($(".is_selected").hasClass("back_top")) {
+                                                 $("select[name=SELECT___IPHONE5-WRAP-FOR-CUSTOMIZATION___80] option").each(function() {
+                                                           if ($(this).html().replace(/ /g, "").replace(/_/, "").toLowerCase().indexOf($(".series_selected").attr("val").replace(/ /g, "").replace(/_/, "").toLowerCase() + color.replace(/ /g, "").replace(/_/, "").toLowerCase()) > -1 ) {
+                                                                   $(this).attr("selected", "selected");
+                                                           }
+                                                  });
+                                         }else  if ($(".is_selected").hasClass("back_body")) {
+                                                 var color = $(this).attr("classes");
+                                                 $("select[name=SELECT___IPHONE5-WRAP-FOR-CUSTOMIZATION___81] option").each(function() {
+                                                           if ($(this).html().replace(/ /g, "").replace(/_/, "").toLowerCase().indexOf($(".series_selected").attr("val").replace(/ /g, "").replace(/_/, "").toLowerCase() + color.replace(/ /g, "").replace(/_/, "").toLowerCase()) > -1 ) {
+                                                                   $(this).attr("selected", "selected");
+                                                           }
+                                                  });
+                                         }else  if ($(".is_selected").hasClass("back_bottom")) {
+                                                 var color = $(this).attr("classes");
+                                                 $("select[name=SELECT___IPHONE5-WRAP-FOR-CUSTOMIZATION___82] option").each(function() {
+                                                           if ($(this).html().replace(/ /g, "").replace(/_/, "").toLowerCase().indexOf($(".series_selected").attr("val").replace(/ /g, "").replace(/_/, "").toLowerCase() + color.replace(/ /g, "").replace(/_/, "").toLowerCase()) > -1 ) {
+                                                                   $(this).attr("selected", "selected");
+                                                           }
+                                                  });
+                                         }
+                                         
+                                }
+				else if ($(".is_selected").hasClass("side")) {
+                                        var color = $(this).attr("classes");
+					$(".is_selected").parent().find(".hidden").attr("src", "/v/vspfiles/assets/images/" + $(".series_selected").attr("val") + "_" + $(this).attr("classes") + loc + ".png");
+                                         $("select[name=SELECT___IPHONE5-WRAP-FOR-CUSTOMIZATION___83] option").each(function() {
+                                                  if ($(this).html().replace(/ /g, "").replace(/_/, "").toLowerCase().indexOf($(".series_selected").attr("val").replace(/ /g, "").replace(/_/, "").toLowerCase() + color.replace(/ /g, "").replace(/_/, "").toLowerCase()) > -1 ) {
+                                                           $(this).attr("selected", "selected");
+                                                  }
+                                         });                                         
+                                }
+
+				prev_hidden_image = $(".is_selected").parent().find(".hidden");
+				prev_hidden_image.removeClass("hidden");
+				prev_hidden_image.show();
+				
+				if (prev_hidden_image.next().attr("class") != null )
+				{
+					prev_hidden_image.next().fadeOut("slow", function() {$(this).addClass("hidden");$(this).attr("style", "z-index:9");prev_hidden_image.attr("style", "z-index:10");});
+				}else if (prev_hidden_image.prev().attr("class") != null )
+				{
+					prev_hidden_image.prev().fadeOut("slow", function() {$(this).addClass("hidden");$(this).attr("style", "z-index:9");prev_hidden_image.attr("style", "z-index:10");});
+				}
+			}			
+		});
+		
+		$(".front_cover").hover(function() {
+			$(".direct_front").show();
+		}, function() {
+			if (!$("." + $(this).attr("location")).hasClass("is_selected"))
+				$(".direct_front").hide();
+		});
+		$(".button_cover").hover(function() {
+			$(".direct_button").show();
+		}, function() {
+			if (!$("." + $(this).attr("location")).hasClass("is_selected"))
+				$(".direct_button").hide();
+		});
+		$(".back_top_cover").hover(function() {
+			$(".direct_top").show();
+		}, function() {
+			if (!$("." + $(this).attr("location")).hasClass("is_selected"))
+				$(".direct_top").hide();
+		});
+		$(".back_body_cover").hover(function() {
+			$(".direct_body").show();
+		}, function() {
+			if (!$("." + $(this).attr("location")).hasClass("is_selected"))
+				$(".direct_body").hide();
+		});
+		$(".back_bottom_cover").hover(function() {
+			$(".direct_bottom").show();
+		}, function() {
+			if (!$("." + $(this).attr("location")).hasClass("is_selected"))
+				$(".direct_bottom").hide();
+		});
+		$(".side_cover").hover(function() {
+			$(".direct_side").show();
+		}, function() {
+			if (!$("." + $(this).attr("location")).hasClass("is_selected"))
+				$(".direct_side").hide();
+		});
+
+
+		$(".front_cover").click(function() {
+			if (!$("." + $(this).attr("location")).hasClass("is_selected"))
+			{
+				$(".direct").hide();
+				$(".direct_front").show();
+				$(".is_selected").removeClass("is_selected");
+				$("." + $(this).attr("location")).parent().find("img").addClass("is_selected");
+			}else {
+				$(".direct_front").hide();
+				$("." + $(this).attr("location")).parent().find("img").removeClass("is_selected");
+			}
+		});
+		$(".button_cover").click(function() {
+			if (!$("." + $(this).attr("location")).hasClass("is_selected"))
+			{
+				$(".direct").hide();
+				$(".direct_button").show();
+				$(".is_selected").removeClass("is_selected");
+				$("." + $(this).attr("location")).parent().find("img").addClass("is_selected");
+			}else {
+				$(".direct_button").hide();
+				$("." + $(this).attr("location")).parent().find("img").removeClass("is_selected");
+			}
+		});
+		$(".back_top_cover").click(function() {
+			if (!$("." + $(this).attr("location")).hasClass("is_selected"))
+			{
+				$(".direct").hide();
+				$(".direct_top").show();
+				$(".is_selected").removeClass("is_selected");
+				$("." + $(this).attr("location")).parent().find("img").addClass("is_selected");
+			}else {
+				$(".direct_top").hide();
+				$("." + $(this).attr("location")).parent().find("img").removeClass("is_selected");
+			}
+		});
+		$(".back_body_cover").click(function() {
+			if (!$("." + $(this).attr("location")).hasClass("is_selected"))
+			{
+				$(".direct").hide();
+				$(".direct_body").show();
+				$(".is_selected").removeClass("is_selected");
+				$("." + $(this).attr("location")).parent().find("img").addClass("is_selected");
+			}else {
+				$(".direct_body").hide();
+				$("." + $(this).attr("location")).parent().find("img").removeClass("is_selected");
+			}
+		});
+		$(".back_bottom_cover").click(function() {
+			if (!$("." + $(this).attr("location")).hasClass("is_selected"))
+			{
+				$(".direct").hide();
+				$(".direct_bottom").show();
+				$(".is_selected").removeClass("is_selected");
+				$("." + $(this).attr("location")).parent().find("img").addClass("is_selected");
+			}else {
+				$(".direct_bottom").hide();
+				$("." + $(this).attr("location")).parent().find("img").removeClass("is_selected");
+			}
+		});
+		$(".side_cover").click(function() {
+			if (!$("." + $(this).attr("location")).hasClass("is_selected"))
+			{
+				$(".direct").hide();
+				$(".direct_side").show();
+				$(".is_selected").removeClass("is_selected");
+				$("." + $(this).attr("location")).parent().find("img").addClass("is_selected");
+			}else {
+				$(".direct_side").hide();
+				$("." + $(this).attr("location")).parent().find("img").removeClass("is_selected");
+			}
+		});
+		$(".iphone_swatch").click(function() {
+			if ($(this).hasClass("iphone_black"))
+			{
+				$(".front_wrapper").css("background", "url(/v/vspfiles/assets/images/iphone5_black_front.png) no-repeat");
+				$(".side_wrapper").css("background", "url(/v/vspfiles/assets/images/iphone5_black_side.png) no-repeat");
+				$(".back_wrapper").css("background", "url(/v/vspfiles/assets/images/iphone5_black_back.png) no-repeat 68px");
+			}else {
+				$(".front_wrapper").css("background", "url(/v/vspfiles/assets/images/iphone5_white_front.png) no-repeat");
+				$(".side_wrapper").css("background", "url(/v/vspfiles/assets/images/iphone5_white_side.png) no-repeat");
+				$(".back_wrapper").css("background", "url(/v/vspfiles/assets/images/iphone5_white_back.png) no-repeat 68px");
+			}
+		});
+		$(".series_selected").hover(function() {
+			$(".dropdown_series").show();
+		}, function() {
+			$(".dropdown_series").hide();
+		});
+		$(".dropdown_series").mouseenter(function(){
+			$(".dropdown_series").show();
+		}).mouseleave(function(){
+			$(".dropdown_series").hide();
+		});
+
+		$(".front_cover").hover(function() {
+			$(".front_wrapper").css("opacity","0.8");
+		}, function() {
+			$(".front_wrapper").css("opacity","1");
+		});
+		$(".button_cover").hover(function() {
+			$(".button_wrapper").css("opacity","0.8");
+		}, function() {
+			$(".button_wrapper").css("opacity","1");
+		});
+		$(".side_cover").hover(function() {
+			$(".side_wrapper").css("opacity","0.8");
+		}, function() {
+			$(".side_wrapper").css("opacity","1");
+		});
+		$(".back_top_cover").hover(function() {
+			$(".back_top_wrapper").css("opacity","0.8");
+		}, function() {
+			$(".back_top_wrapper").css("opacity","1");
+		});
+		$(".back_body_cover").hover(function() {
+			$(".back_body_wrapper").css("opacity","0.8");
+		}, function() {
+			$(".back_body_wrapper").css("opacity","1");
+		});
+		$(".back_bottom_cover").hover(function() {
+			$(".back_bottom_wrapper").css("opacity","0.8");
+		}, function() {
+			$(".back_bottom_wrapper").css("opacity","1");
+		});
+
+		$(".bunch img").click(function() {
+			if ($(".models").css("display") != "none")
+			{
+				var cur_obj = $(this);
+				$(".models").slideUp("fast", function() {
+					$(".models").html("");
+					for (var i=0; i<bunch[cur_obj.attr("bunch")].length; i++)
+					{
+						$(".models").html($(".models").html() + "<div class='item'><img src='/v/vspfiles/assets/images/iphone5_black_front.png' width='50px' /><img class='wrapper' src='/v/vspfiles/assets/images/" + bunch[cur_obj.attr("bunch")][i] +"_" + cur_obj.attr("bunch") + "_front.png' series='" + bunch[cur_obj.attr("bunch")][i] + "' bunch='" + cur_obj.attr("bunch")  + "' title='" + bunch[cur_obj.attr("bunch")][i].toLowerCase().replace(/\b[a-z]/g, function(letter) {return letter.toUpperCase();})  + " " + cur_obj.attr("bunch").toLowerCase().replace(/_/, " ").replace(/_/, " ").replace(/\b[a-z]/g, function(letter) {return letter.toUpperCase();}) + "'/></div>");
+					}
+					$(".models").slideDown();
+				});				
+			}else {
+				$(".models").html("");
+				for (var i=0; i<bunch[$(this).attr("bunch")].length; i++)
+				{
+					$(".models").html($(".models").html() + "<div class='item'><img src='/v/vspfiles/assets/images/iphone5_black_front.png' width='50px' /><img class='wrapper' src='/v/vspfiles/assets/images/" + bunch[$(this).attr("bunch")][i] +"_" + $(this).attr("bunch") + "_front.png' series='" + bunch[$(this).attr("bunch")][i] + "' bunch='" + $(this).attr("bunch")  + "' title='" + bunch[$(this).attr("bunch")][i].toLowerCase().replace(/\b[a-z]/g, function(letter) {return letter.toUpperCase();})  + " " + $(this).attr("bunch").toLowerCase().replace(/_/, " ").replace(/_/, " ").replace(/\b[a-z]/g, function(letter) {return letter.toUpperCase();}) + "'/></div>");
+				}
+				$(".models").slideDown();
+			}
+		});
+		
+		$(".models .item img").live("click", function() {
+			all_image_exchange($(this).attr("series"), $(this).attr("bunch"));
+		});
+	});
+
+	function all_image_exchange(series, bunch) {
+		//  front image exchange
+		$("img.front").parent().find(".hidden").attr("src", "/v/vspfiles/assets/images/" + series + "_" + bunch + "_front.png");
+		var prev_hidden_image_front = $("img.front").parent().find(".hidden");
+		prev_hidden_image_front.removeClass("hidden");
+		prev_hidden_image_front.show();
+		
+		if (prev_hidden_image_front.next().attr("class") != null )
+		{
+			prev_hidden_image_front.next().fadeOut("slow", function() {$(this).addClass("hidden");$(this).attr("style", "z-index:9");prev_hidden_image_front.attr("style", "z-index:10");});
+		}else if (prev_hidden_image_front.prev().attr("class") != null )
+		{
+			prev_hidden_image_front.prev().fadeOut("slow", function() {$(this).addClass("hidden");$(this).attr("style", "z-index:9");prev_hidden_image_front.attr("style", "z-index:10");});
+		}
+		
+		//  button image exchange
+		$("img.button").parent().find(".hidden").attr("src", "/v/vspfiles/assets/images/" + series + "_" + bunch + ".png");
+		var prev_hidden_image_button = $("img.button").parent().find(".hidden");
+		prev_hidden_image_button.removeClass("hidden");
+		prev_hidden_image_button.show();
+		
+		if (prev_hidden_image_button.next().attr("class") != null )
+		{
+			prev_hidden_image_button.next().fadeOut("slow", function() {$(this).addClass("hidden");$(this).attr("style", "z-index:9");prev_hidden_image_button.attr("style", "z-index:10");});
+		}else if (prev_hidden_image_button.prev().attr("class") != null )
+		{
+			prev_hidden_image_button.prev().fadeOut("slow", function() {$(this).addClass("hidden");$(this).attr("style", "z-index:9");prev_hidden_image_button.attr("style", "z-index:10");});
+		}
+
+		//  back top image exchange
+		$("img.back_top").parent().find(".hidden").attr("src", "/v/vspfiles/assets/images/" + series + "_" + bunch + "_top_back.png");
+		var prev_hidden_image_back_top = $("img.back_top").parent().find(".hidden");
+		prev_hidden_image_back_top.removeClass("hidden");
+		prev_hidden_image_back_top.show();
+		
+		if (prev_hidden_image_back_top.next().attr("class") != null )
+		{
+			prev_hidden_image_back_top.next().fadeOut("slow", function() {$(this).addClass("hidden");$(this).attr("style", "z-index:9");prev_hidden_image_back_top.attr("style", "z-index:10");});
+		}else if (prev_hidden_image_back_top.prev().attr("class") != null )
+		{
+			prev_hidden_image_back_top.prev().fadeOut("slow", function() {$(this).addClass("hidden");$(this).attr("style", "z-index:9");prev_hidden_image_back_top.attr("style", "z-index:10");});
+		}
+		
+		//  back body image exchange
+		$("img.back_body").parent().find(".hidden").attr("src", "/v/vspfiles/assets/images/" + series + "_" + bunch + "_back.png");
+		var prev_hidden_image_body = $("img.back_body").parent().find(".hidden");
+		prev_hidden_image_body.removeClass("hidden");
+		prev_hidden_image_body.show();
+		
+		if (prev_hidden_image_body.next().attr("class") != null )
+		{
+			prev_hidden_image_body.next().fadeOut("slow", function() {$(this).addClass("hidden");$(this).attr("style", "z-index:9");prev_hidden_image_body.attr("style", "z-index:10");});
+		}else if (prev_hidden_image_body.prev().attr("class") != null )
+		{
+			prev_hidden_image_body.prev().fadeOut("slow", function() {$(this).addClass("hidden");$(this).attr("style", "z-index:9");prev_hidden_image_body.attr("style", "z-index:10");});
+		}
+
+		//  back bottom image exchange
+		$("img.back_bottom").parent().find(".hidden").attr("src", "/v/vspfiles/assets/images/" + series + "_" + bunch + "_bottom_back.png");
+		var prev_hidden_image_bottom = $("img.back_bottom").parent().find(".hidden");
+		prev_hidden_image_bottom.removeClass("hidden");
+		prev_hidden_image_bottom.show();
+		
+		if (prev_hidden_image_bottom.next().attr("class") != null )
+		{
+			prev_hidden_image_bottom.next().fadeOut("slow", function() {$(this).addClass("hidden");$(this).attr("style", "z-index:9");prev_hidden_image_bottom.attr("style", "z-index:10");});
+		}else if (prev_hidden_image_bottom.prev().attr("class") != null )
+		{
+			prev_hidden_image_bottom.prev().fadeOut("slow", function() {$(this).addClass("hidden");$(this).attr("style", "z-index:9");prev_hidden_image_bottom.attr("style", "z-index:10");});
+		}
+
+		//  side image exchange
+		$("img.side").parent().find(".hidden").attr("src", "/v/vspfiles/assets/images/" + series + "_" + bunch + "_side.png");
+		var prev_hidden_image_side = $("img.side").parent().find(".hidden");
+		prev_hidden_image_side.removeClass("hidden");
+		prev_hidden_image_side.show();
+		
+		if (prev_hidden_image_side.next().attr("class") != null )
+		{
+			prev_hidden_image_side.next().fadeOut("slow", function() {$(this).addClass("hidden");$(this).attr("style", "z-index:9");prev_hidden_image_side.attr("style", "z-index:10");});
+		}else if (prev_hidden_image_side.prev().attr("class") != null )
+		{
+			prev_hidden_image_side.prev().fadeOut("slow", function() {$(this).addClass("hidden");$(this).attr("style", "z-index:9");prev_hidden_image_side.attr("style", "z-index:10");});
+		}
+
+                $("select[name=SELECT___IPHONE5-WRAP-FOR-CUSTOMIZATION___78] option").each(function() {
+                        if ($(this).html().replace(/ /g, "").replace(/_/, "").toLowerCase().indexOf(series.replace(/ /g, "").replace(/_/, "").toLowerCase() + bunch.replace(/ /g, "").replace(/_/, "").toLowerCase()) > -1 ) {
+                                 $(this).attr("selected", "selected");
+                        }
+                });
+                $("select[name=SELECT___IPHONE5-WRAP-FOR-CUSTOMIZATION___79] option").each(function() {
+                        if ($(this).html().replace(/ /g, "").replace(/_/, "").toLowerCase().indexOf(series.replace(/ /g, "").replace(/_/, "").toLowerCase() + bunch.replace(/ /g, "").replace(/_/, "").toLowerCase()) > -1 ) {
+                                 $(this).attr("selected", "selected");
+                        }
+                });
+                $("select[name=SELECT___IPHONE5-WRAP-FOR-CUSTOMIZATION___80] option").each(function() {
+                        if ($(this).html().replace(/ /g, "").replace(/_/, "").toLowerCase().indexOf(series.replace(/ /g, "").replace(/_/, "").toLowerCase() + bunch.replace(/ /g, "").replace(/_/, "").toLowerCase()) > -1 ) {
+                                 $(this).attr("selected", "selected");
+                        }
+                });
+                $("select[name=SELECT___IPHONE5-WRAP-FOR-CUSTOMIZATION___81] option").each(function() {
+                        if ($(this).html().replace(/ /g, "").replace(/_/, "").toLowerCase().indexOf(series.replace(/ /g, "").replace(/_/, "").toLowerCase() + bunch.replace(/ /g, "").replace(/_/, "").toLowerCase()) > -1 ) {
+                                 $(this).attr("selected", "selected");
+                        }
+                });
+                $("select[name=SELECT___IPHONE5-WRAP-FOR-CUSTOMIZATION___82] option").each(function() {
+                        if ($(this).html().replace(/ /g, "").replace(/_/, "").toLowerCase().indexOf(series.replace(/ /g, "").replace(/_/, "").toLowerCase() + bunch.replace(/ /g, "").replace(/_/, "").toLowerCase()) > -1 ) {
+                                 $(this).attr("selected", "selected");
+                        }
+                });
+                $("select[name=SELECT___IPHONE5-WRAP-FOR-CUSTOMIZATION___83] option").each(function() {
+                        if ($(this).html().replace(/ /g, "").replace(/_/, "").toLowerCase().indexOf(series.replace(/ /g, "").replace(/_/, "").toLowerCase() + bunch.replace(/ /g, "").replace(/_/, "").toLowerCase()) > -1 ) {
+                                 $(this).attr("selected", "selected");
+                        }
+                });
+
+	}
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
 <body id="body">
+<!-- ClickTale Top part -->
+<script type="text/javascript">
+var WRInitTime=(new Date()).getTime();
+</script>
+<!-- ClickTale end of Top part -->
+
 
 <script type="text/javascript" src="//www.hellobar.com/hellobar.js"></script>
 <script type="text/javascript">
@@ -135,7 +646,6 @@ Shadowbox.init({
 
 						
 			<ul id="site_links">
-
 				<li class="account"><a href="/myaccount.asp">My Account</a></li>
 				<li class="wishlist"><a href="/wishlist.asp">My Wishlist</a></li>
 				<li class="help"><a href="https://chat2g.livechatinc.com/licence/1090361/open_chat.cgi" onclick="NewWindow(this.href,'chat','500','400','no','center');return false" onfocus="this.blur()">Chat</a></li>
@@ -167,10 +677,23 @@ Shadowbox.init({
 						<hr>
 						<ul class="sub">
 							<li class="hasdrop"><a href="http://www.slickwraps.com/mobile-phone-skins-wraps-s/150.htm">Phones</a>
-								<ul class="fly">
+
+<ul class="fly">
+
+ <li><a href="http://www.slickwraps.com/thecase-s/614.htm">the Case</a></li>
+
                                                              <li><a href="http://www.slickwraps.com/iPhone-5-Skins-s/359.htm">iPhone 5</a></li>
 									<li><a href="http://www.slickwraps.com/iPhone-4S-Skins-s/372.htm">iPhone 4S</a></li>
 									<li><a href="http://www.slickwraps.com/iPhone-4-Skins-s/208.htm">iPhone 4</a></li>
+
+   <li><a href="http://www.slickwraps.com/HTC-One-Wraps-Skins-s/562.htm">HTC One</a></li>
+
+								
+   <li><a href="http://www.slickwraps.com/Samsung-Galaxy-S4-Wraps-Skins-s/557.htm">Galaxy S4</a></li>
+
+
+									<li><a href="http://www.slickwraps.com/Samsung-Note-II-Wraps-Skins-s/546.htm">Galaxy Note II</a></li>
+
                                                                         <li><a href="http://www.slickwraps.com/Galaxy-S3-Skins-and-Wraps-s/416.htm">Galaxy S III</a></li>
                                                                   
 	
@@ -204,32 +727,43 @@ Shadowbox.init({
 								</ul>
 							
 							</li>
-<li class="hasdrop"><a href="http://www.slickwraps.com/Apple-MacBook-Skins-s/328.htm">Computers</a>
+<li class="hasdrop"><a href="http://www.slickwraps.com/Computers-s/589.htm">Computers</a>
 								<ul class="fly">
 									<li><a href="http://www.slickwraps.com/Apple-MacBook-Skins-s/328.htm">13" MacBook Retina</a></li>
-									<li><a href="http://www.slickwraps.com/Apple-MacBook-Skins-s/328.htm">15" Macbook Retina</a></li>
-									<li><a href="http://www.slickwraps.com/Apple-MacBook-Skins-s/328.htm">13" Macbook Pro</a></li>
-									<li><a href="http://www.slickwraps.com/Apple-MacBook-Skins-s/328.htm">15" Macbook Pro</a></li>
-									<li><a href="http://www.slickwraps.com/Apple-MacBook-Skins-s/328.htm">17" Macbook Pro</a></li>
-									<li class="all"><a href="http://www.slickwraps.com/Apple-MacBook-Skins-s/328.htm">See all</a></li>
+									<li><a href="http://www.slickwraps.com/Apple-MacBook-Skins-s/328.htm">15" MacBook Retina</a></li>
+									<li><a href="http://www.slickwraps.com/Apple-MacBook-Skins-s/328.htm">13" MacBook Pro</a></li>
+									<li><a href="http://www.slickwraps.com/Apple-MacBook-Skins-s/328.htm">15" MacBook Pro</a></li>
+									<li><a href="http://www.slickwraps.com/Apple-iMac-21-5-Wraps-Skins-s/584.htm">21.5" iMac</a></li>
+									<li class="all"><a href="http://www.slickwraps.com/Computers-s/589.htm">See all</a></li>
 								</ul>
 							
 							</li>
 							<li class="hasdrop"><a href="http://www.slickwraps.com/Gaming-Systems-Skins-s/148.htm">Gaming</a>
 								<ul class="fly">
+                                                                       <li><a href="/Sony-Playstation-3-Controller-Wraps-Skins-s/490.htm">PS3 Controllers</a></li>
+<li><a href="/Xbox-360-Controller-Wraps-Skins-s/498.htm">Xbox Controllers</a></li>
 									<li><a href="http://www.slickwraps.com/Sony-Playstation-Vita-Skins-s/388.htm">Sony Vita</a></li>
-									<!-- <li><a href="#">Nintendo 3DS</a></li> -->
-									<!-- <li><a href="#">PS3 Slim</a></li> -->
+									
 									<!-- <li><a href="http://www.slickwraps.com/X-Box-360-Skins-s/158.htm">Xbox 360 S</a></li>
 									<!-- <li><a href="#">Xbox Kinect</a></li> -->
 									<li class="all"><a href="http://www.slickwraps.com/Gaming-Systems-Skins-s/148.htm">See all</a></li>
 								</ul>
-							</li>
-							<li class="hasdrop"><a href="http://www.slickwraps.com/Roku-Apple-TV-Skins-s/333.htm">Other Cool Devices</a>
+</li>
+<li class="hasdrop"><a href="http://www.slickwraps.com/Pebble-Watch-Wraps-Skins-s/537.htm">Pebble, Smart Watches</a>
+<ul class="fly">
+	<li><a href="http://www.slickwraps.com/Pebble-Watch-Wraps-Skins-s/537.htm">Pebble</a></li>
+</ul>
+							
+	
+							</li><li class="hasdrop"><a href="http://www.slickwraps.com/Roku-Apple-TV-Skins-s/333.htm">Other Cool Stuff</a>
 								<ul class="fly">
+<li><a href="http://www.slickwraps.com/GoPro-Hero-Skins-Wraps-s/603.htm">GoPro</a></li>
 <li><a href="http://www.slickwraps.com/Beats-by-Dr-Dre-s/390.htm">Beats by Dre</a></li>
-									<li><a href="http://www.slickwraps.com/category-s/335.htm">Apple TV 2</a></li>
-									<li><a href="http://www.slickwraps.com/Roku-Skins-s/334.htm">Roku</a></li>
+									<li><a href="http://www.slickwraps.com/category-s/335.htm">Apple TV</a></li>
+<li><a href="http://www.slickwraps.com/Mophie-Juice-Pack-Helium-Wraps-Skins-s/568.htm">Mophie Helium</a></li>
+<li><a href="http://www.slickwraps.com/Otter-Box-Defender-Skins-for-iPhone-5-s/512.htm">OtterBox Defender</a></li>
+<li><a href="http://www.slickwraps.com/Lifeproof-fre-Skins-for-iPhone-5-s/487.htm">LifeProof Fre</a></li>
+					
 									<li class="all"><a href="http://www.slickwraps.com/Roku-Apple-TV-Skins-s/333.htm">See all</a></li>
 								</ul>
 							</li>
@@ -240,20 +774,16 @@ Shadowbox.init({
 					</div><!-- .dropdown -->
 				</li>
 				<li><a href="http://www.slickwraps.com/New-Wraps-Skin-from-Slickwraps-s/398.htm">Latest Wraps</a></li>
-				<li><a href="http://www.slickwraps.com/product-p/gft.htm">Gift Cards</a></li>
-				<li><a href="http://www.slickwraps.com/Articles.asp?ID=46">Support</a></li>
+				<li><a href="http://www.slickwraps.com/customizer">SlickLabs</a></li>
+				<li><a href="http://slickwraps.desk.com">Support</a></li>
 				<li><a href="https://www.slickwraps.com/Articles.asp?ID=6">Sell Slickwraps</a></li>
 			</ul><!-- #menu -->
 			
 		</div><!-- #navbar -->
 		
 		<div class="middle">
-				
-			<div class="content_wrapper">
-				
-				<div class="content">
-				
-					<div id="content_area">
+
+<div id="content_area">
     <table width="100%" border="0" cellspacing="5" cellpadding="5" align="center">
         <tbody><tr> 
           <td>
@@ -270,12 +800,9 @@ Shadowbox.init({
 </tbody></table>
 
  
-</div><!-- END OF "CONTENT_AREA" -->
-				
-				</div><!-- END OF "CONTENT" -->
-			
-			</div><!-- END OF "CONTENT_WRAPPER" -->
-			
+</div>
+
+
 			<div class="clearfix"></div>
 			
 		</div><!-- END OF "MIDDLE" -->
@@ -303,9 +830,9 @@ Shadowbox.init({
 					
 					<ul class="footerNavList">
 						<li class="heading">Customer Service</li>
-						<li><a href="http://www.slickwraps.com/help.asp">Help</a></li>
-						<li><a href="http://www.slickwraps.com/Returns.asp">Returns</a></li>
-						<li><a href="http://www.slickwraps.com/Articles.asp?ID=46">Contact Us</a></li>
+						<li><a href="http://slickwraps.desk.com">Help</a></li>
+						<li><a href="http://slickwraps.desk.com">Returns</a></li>
+						<li><a href="http://slickwraps.desk.com">Contact Us</a></li>
 						<li><a href="http://www.slickwraps.com/Articles.asp?ID=240">Install Videos</a></li>
 					</ul>
 					
@@ -319,7 +846,7 @@ Shadowbox.init({
 					
 					<ul class="footerNavList">
 						<li class="heading">Sell SlickWraps</li>
-						<li><a href="/Articles.asp?ID=266">Become an Affiliate</a></li>					
+						<li><a href="/Articles.asp?ID=8">Become an Affiliate</a></li>					
 						<li><a href="/Articles.asp?ID=6">Become a Reseller</a></li>
 						<li><a href="http://media.slickwraps.com">Media Resources</a></li>
 					</ul>
@@ -328,23 +855,22 @@ Shadowbox.init({
 						<li class="heading">How to Contact Us</li>
 						<li>M-F 9am-5pm CST</li>
 						<li>(866) 660-5173</li>
-						<li><a href="mailto:support@slickwraps.com">support@slickwraps.com</a></li><a href="mailto:support@slickwraps.com">
-					</a></ul><a href="mailto:support@slickwraps.com">
+					</ul>
 				
-				</a></div><!-- END OF "FOOTER_LEFT" --><a href="mailto:support@slickwraps.com">
+				</div><!-- END OF "FOOTER_LEFT" -->
 				
 				<div class="footer_right"></div><!-- END OF "FOOTER_RIGHT" -->
 	
 													
 				<div class="clearfix"></div>
 
-			</a></div><!-- END OF "FOOTER" --><a href="mailto:support@slickwraps.com">
+			</div><!-- END OF "FOOTER" -->
 			
-			</a><div class="subfooter"><a href="mailto:support@slickwraps.com">
+			<div class="subfooter">
 			
-				</a><div class="seals"><a href="mailto:support@slickwraps.com">
-</a><div class="cc_logos"><a href="mailto:support@slickwraps.com">
-</a><a title="Click for the Business Review of Slickwraps, a Mobile Telephone Equipment &amp; Supplies in Andover KS" href="http://www.bbb.org/wichita/business-reviews/mobile-telephone-equipment-and-supplies/slickwraps-in-andover-ks-89726#sealclick"><img alt="Click for the BBB Business Review of this Mobile Telephone Equipment &amp; Supplies in Andover KS" style="border: 0;" src="http://seal-kansasplains.bbb.org/seals/blue-seal-96-50-slickwraps-89726.png"></a>
+				<div class="seals">
+<div class="cc_logos">
+<a title="Click for the Business Review of Slickwraps, a Mobile Telephone Equipment &amp; Supplies in Andover KS" href="http://www.bbb.org/wichita/business-reviews/mobile-telephone-equipment-and-supplies/slickwraps-in-andover-ks-89726#sealclick" target="_blank"><img alt="Click for the BBB Business Review of this Mobile Telephone Equipment &amp; Supplies in Andover KS" style="border: 0;" src="https://seal-kansasplains.bbb.org/seals/blue-seal-96-50-slickwraps-89726.png"></a>
 </div>
 				
 					<div class="facebook">
@@ -356,11 +882,11 @@ Shadowbox.init({
 					</div>
 					
 					<div class="paypal">
-						<!-- Begin Official PayPal Seal --><a href="https://www.paypal.com/us/verified/pal=amazon%40slickwraps%2ecom" target="_blank"><img style="height:50px;" src="https://www.paypal.com/en_US/i/icon/verification_seal.gif" border="0" alt="Official PayPal Seal"></a><!-- End Official PayPal Seal -->
+						<!-- Begin Official PayPal Seal --><a href="#" target="_blank"><img style="height:50px;" src="https://www.paypal.com/en_US/i/icon/verification_seal.gif" border="0" alt="Official PayPal Seal"></a><!-- End Official PayPal Seal -->
 					</div>
 					
 					<div class="authnet">
-						<!-- (c) 2005, 2011. Authorize.Net is a registered trademark of CyberSource Corporation --> <div class="AuthorizeNetSeal"> <script type="text/javascript" language="javascript">var ANS_customer_id="694d0c54-76b0-46db-af69-23c39b90227d";</script> <script type="text/javascript" language="javascript" src="//verify.authorize.net/anetseal/seal.js"></script></div>
+						<!-- (c) 2005, 2011. Authorize.Net is a registered trademark of CyberSource Corporation --> <div class="AuthorizeNetSeal"> <script type="text/javascript" language="javascript">var ANS_customer_id="dd04a3bb-c555-41c2-ae14-161f8a53e22c";</script> <script type="text/javascript" language="javascript" src="//verify.authorize.net/anetseal/seal.js"></script> </div>
 					</div>
 					
 					<div class="verisign">
@@ -387,9 +913,9 @@ Shadowbox.init({
 
 <!-- FLOATING LINKS -->
 <div id="floating-links">
-	<a href="http://www.facebook.com/SlickWraps" target="_blank"><img src="/v/vspfiles/assets/images/slickwraps.png" alt="Facebook"></a>
-<a href="https://www.slickwraps.com/dealoftheday.asp"><img src="/v/vspfiles/assets/images/dailydeal.png" alt="Daily Deal"></a>
-	<a href="https://www.slickwraps.com/Articles.asp?ID=272"><img src="/v/vspfiles/assets/images/sub.png" alt="Subscribe"></a>
+	<a href="http://www.facebook.com/SlickWraps" target="_blank"><img src="/v/vspfiles/assets/images/facebook_.png" alt="Facebook"></a>
+<a href="https://www.slickwraps.com/dealoftheday.asp"><img src="/v/vspfiles/assets/images/dailydeal_.png" alt="Daily Deal"></a>
+	<a href="http://www.slickwraps.com/Articles.asp?ID=272"><img src="/v/vspfiles/assets/images/subscribe_-2.png" alt="Subscribe"></a>
 </div>
 <!-- END FLOATING LINKS -->
 
@@ -428,38 +954,45 @@ google analytics code
 <!--
 google analytics code
 -->
+
+
+
+
+
+<!-----Adroll------>
 <script type="text/javascript">
-  var _sf_async_config = { uid: 42477, domain: 'slickwraps.com' };
-  (function() {
-    function loadChartbeat() {
-      window._sf_endpt = (new Date()).getTime();
-      var e = document.createElement('script');
-      e.setAttribute('language', 'javascript');
-      e.setAttribute('type', 'text/javascript');
-      e.setAttribute('src',
-        (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
-        "js/chartbeat.js");
-      document.body.appendChild(e);
-    };
-    var oldonload = window.onload;
-    window.onload = (typeof window.onload != 'function') ?
-      loadChartbeat : function() { oldonload(); loadChartbeat(); };
-  })();
+adroll_adv_id = "TV2RKLV6QFAXFHFNZHI2MV";
+adroll_pix_id = "YSQLYO43SRA6PEFNYLS5RB";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
 </script>
 
-<!-- GoDataFeed code for product details pages -->
-<script language="javascript" type="text/javascript" src="//tracking.godatafeed.com/gdf_click.js"></script>
-<script type="text/javascript"> 
-var _urq = _urq || []; 
-_urq.push(['setGACode', 'UA-19200902-1']); 
-_urq.push(['initSite', '8d6cabf2-c56e-4245-be26-9e68222404b6']); 
+<!-----Clicktale------>
+<!-- ClickTale Bottom part -->
+<div id="ClickTaleDiv" style="display: none;"></div>
+<script type="text/javascript">
+if(document.location.protocol!='https:')
+  document.write(unescape("%3Cscript%20src='http://s.clicktale.net/WRe0.js'%20type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+if(typeof ClickTale=='function') ClickTale(5315,0.09,"www08");
+</script>
+<!-- ClickTale end of Bottom part -->
 
-(function() { 
-var ur = document.createElement('script'); ur.type = 'text/javascript'; ur.async = true; 
-ur.src = ('https:' == document.location.protocol ? 'https://d1chfpa9hnx6ug.cloudfront.net/userreport.js' : 'http://sdscdn.userreport.com/userreport.js'); 
-var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ur, s); 
-})(); 
-</script> 
+
+
+
 
 
 
@@ -479,4 +1012,4 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ur
 </script>
 
 
-<script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
+</body></html>
