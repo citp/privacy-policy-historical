@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the millets.co.uk privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603022906id_/http%3A//www.millets.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millets.co.uk privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807140543id_/http%3A//www.millets.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ### Privacy Policy
 
-The Outdoor Retail Limited ("Outdoor Group", "we", "us" or "our") respects the privacy of all individuals who use our site www.millets.co.uk ("Website"). This privacy policy, together with our Terms of Website Use, Supply Terms and any other documents referred to in them, explains what information we gather from you, how we use it and how you may control our use of your personal information. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+Millets Retail Limited ("Millets", "we", "us" or "our") respects the privacy of all individuals who use our site www.millets.co.uk ("Website"). This privacy policy, together with our Terms of Website Use, Supply Terms and any other documents referred to in them, explains what information we gather from you, how we use it and how you may control our use of your personal information. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-For the purposes of the Data Protection Act 1998 (the "Act"), the data controller is The Outdoor Retail Limited of 440-450 Cob Drive, Swan Valley, Northampton, NN4 9BB, registered in England and Wales with company number 7795258. 
+For the purposes of the Data Protection Act 1998 (the "Act"), the data controller is Millets Retail Limited of Hollinsbrook Way, Pilsworth, Bury BL9 8RR. Registered in England and Wales with company number: 7924256. 
 
 ## 1\. Information we may collect from you
 
