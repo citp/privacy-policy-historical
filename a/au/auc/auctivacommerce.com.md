@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auctivacommerce.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601204337id_/http%3A//auctivacommerce.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auctivacommerce.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807145659id_/http%3A//www.auctivacommerce.com/privacy.aspx) for the most accurate reproduction.*
 
 # Auctiva Commerce Privacy Policy
 
