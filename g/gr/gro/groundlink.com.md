@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groundlink.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624172146id_/http%3A//www.groundlink.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groundlink.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807162803id_/http%3A//www.groundlink.com/privacy-policy) for the most accurate reproduction.*
 
 # Groundlink Privacy Policy
 
