@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodlife.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621081510id_/http%3A//www.goodlife.com/sppolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodlife.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807070112id_/http%3A//www.goodlife.com/sppolicy.aspx) for the most accurate reproduction.*
 
 # Untitled Page
 
