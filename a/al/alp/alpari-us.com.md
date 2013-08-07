@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alpari-us.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530082510id_/http%3A//www.alpari-us.com/en/regulation/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alpari-us.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807211843id_/http%3A//www.alpari-us.com/en/regulation/privacy-policy.html) for the most accurate reproduction.*
 
 # Alpari (US) Privacy Policy Information - Alpari (US)
 
