@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dclottery.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106093311id_/http%3A//dclottery.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dclottery.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807170719id_/http%3A//dclottery.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Website Privacy and Security Policy
+# DC Lottery - Privacy Policy
 
 The District of Columbia Lottery and Charitable Games Control Board ("D.C. Lottery") is committed to protecting the rights of all our visitors. We recognize our obligation to keep sensitive information secure and have created this privacy statement to share our information-gathering and dissemination practices for this website.
 
