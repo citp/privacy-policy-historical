@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azstateparks.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501052301id_/http%3A//azstateparks.com/find/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azstateparks.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807235202id_/http%3A//azstateparks.com/find/privacy.html) for the most accurate reproduction.*
 
 # Arizona State Parks: Privacy Policy
 
@@ -14,21 +14,13 @@ Arizona State Parks offers many of the services online that you might otherwise 
 
   When a visitor elects to receive information his or her contact information is used for the sole purpose of sending the requested materials. This contact information is not shared, sold, or otherwise disseminated by Arizona State Parks. 
 
-**_Subscribing to the Arizona State Parks mailing list_**
-
-  Using a comment form, Arizona State Parks requires the name and mailing address of visitors who wish to receive through the mail a quarterly printed calendar of events. All other form fields are optional.
-
-  **_Unsubscribing to the Arizona State Parks mailing list_**
-
-  You may opt out of the mailings at any time by visiting the following web page <http://azstateparks.com/subscription.html>. Please fill out the form, select "Please remove me from all future mailings" and press "Send Info." Your request will be honored as soon as possible.
-
-**_Subscribing to the monthly Parks eNewsletter  
+**_Subscribing to the monthly Parks Newsletter  
  _**  
-Using a comment form, Arizona State Parks requires the name and email address of visitors who wish to receive by email our monthly Parks eNewsletter and Calendar of Events. All other form fields are optional.
+Using a comment form, Arizona State Parks requires the name and email address of visitors who wish to receive by email our monthly Parks Newsletter and Calendar of Events. All other form fields are optional.
 
-  **_Unsubscribing to the Parks eNewsletter_**
+  **_Unsubscribing to the Parks Newsletter_**
 
-  You may opt out of the Parks eNewsletter at any time by clicking on "Unsubscribe" which is located at the bottom of every issue of the newsletter.
+  You may opt out of the Parks Newsletter at any time by clicking on "Unsubscribe" which is located at the bottom of every issue of the newsletter.
 
 _**Subscribing to the Volunteer eNewsletter**_
 
@@ -37,6 +29,14 @@ _**Subscribing to the Volunteer eNewsletter**_
   _**Unsubscribing to the Volunteer eNewsletter**_
 
   You may opt out of the Volunteer eNewsletter at any time by clicking on "Unsubscribe" which is located at the bottom of every issue of the newsletter.
+
+_**Subscribing to the OHV Monthly Newsletter**_
+
+  Using a comment form, Arizona State Parks requires the name and email address of visitors who wish to receive by email our monthly OHV Monthly Newsletter. All other form fields are optional.
+
+  _**Unsubscribing to the OHV Monthly Newsletter**_
+
+  You may opt out of the OHV Monthly Newsletter at any time by clicking on "Unsubscribe" which is located at the bottom of every issue of the newsletter.
 
 **Information Collected and Stored Automatically**
 
@@ -129,4 +129,4 @@ If you choose to provide us with personal information — by submitting an onlin
 ##   
 Privacy Policy Statement Is Subject To Change 
 
-This Privacy Policy Statement is subject to change _._ Last updated June 2009.
+This Privacy Policy Statement is subject to change _._ Last updated December 2012.
