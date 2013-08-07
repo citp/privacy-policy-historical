@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the bookbaby.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509012640id_/http%3A//www.bookbaby.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookbaby.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807054003id_/http%3A//www.bookbaby.com/privacy-policy) for the most accurate reproduction.*
 
 # BookBaby Privacy Policy
+
+We care about how your personal information is used and shared. We take your privacy seriously.
 
 Please read the following to learn more about our privacy policy. By visiting the BookBaby managed domains (including, but not limited to, www.bookbaby.com) and websites or domain name, or any other linked pages, features, content, or application services offered from time to time by BookBaby in connection therewith (collectively, the "Website"), submitting information, or using any of our services, you acknowledge that you accept the practices and policies outlined in this privacy policy (the "Privacy Policy").
 
@@ -78,7 +80,7 @@ BookBaby may allow you to access certain information about you through the membe
 
 ### CHANGES TO THIS PRIVACY POLICY
 
-BookBaby may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your Information and will always be available at <http://www.bookbaby.com/Privacy>. If we make a change to this policy that, in our sole discretion, is material, we will notify you via an e-mail notice to the e-mail address associated with your account. You and all consumers and customers are bound by any changes to the Privacy Policy when you or they use the Website after such changes have been first posted.
+BookBaby may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your Information and will always be available at <http://www.bookbaby.com/privacy>. If we make a change to this policy that, in our sole discretion, is material, we will notify you via an e-mail notice to the e-mail address associated with your account. You and all consumers and customers are bound by any changes to the Privacy Policy when you or they use the Website after such changes have been first posted.
 
 ### THIRD PARTY ADVERTISERS; LINKS TO OTHER SITES
 
