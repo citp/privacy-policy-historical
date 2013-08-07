@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ichitect.com privacy policy that was archived on 2013-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130104194324id_/http%3A//ichitect.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ichitect.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807150125id_/http%3A//ichitect.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ichitect
 
@@ -75,7 +75,7 @@ Please also visit our Terms and Conditions section establishing the use, disclai
 
 **Your Consent**
 
-By using our site, you consent to our [web site privacy policy](http://www.freeprivacypolicy.com/).
+By using our site, you consent to our web site privacy policy.
 
 **Changes to our Privacy Policy**
 
