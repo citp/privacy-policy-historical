@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airportparkingreservations.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429054935id_/http%3A//www.airportparkingreservations.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airportparkingreservations.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807215424id_/http%3A//www.airportparkingreservations.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,7 +18,7 @@ AirportParkingReservations.com, Inc. knows that you care about how your personal
 
 ###  Simply Stated:
 
-AirportParkingReservations.com, Inc. will not collect personally identifiable information like your name, e-mail, mailing address and telephone number without your knowledge and permission; and we will take reasonable steps to protect the security of the Personal Information we collect from you.
+AirportParkingReservations.com, Inc. will not collect personally identifiable information like your name, e-mail, mailing address and telephone number without your knowledge and permission; and we will take reasonable steps to protect the security of the personal information we collect from you.
 
 ###  Information Collection:
 
@@ -26,7 +26,7 @@ AirportParkingReservations.com, Inc. collects general, non-personally identifiab
 
 We may share aggregate, non-personally identifiable information about our visitors with our parking vendors, advertisers, travel partners and other third parties.
 
-When you decide to conduct a transaction with AirportParkingReservations.com, Inc., we will collect Personal Information about you that you voluntarily share with us. We collect Personal Information that is necessary for us to provide you with the services offered on our site. This Personal Information may include your name, e-mail and mailing address, telephone number and credit card information. If you decide to become a registered user of this site, you will provide an e-mail address, and select a password that will be required to gain access to portions of our site.
+When you decide to conduct a transaction with AirportParkingReservations.com, Inc., we will collect personal information about you that you voluntarily share with us. We collect personal information that is necessary for us to provide you with the services offered on our site. This personal information may include your name, e-mail and mailing address, telephone number and credit card information. If you decide to become a registered user of this site, you will provide an e-mail address, and select a password that will be required to gain access to portions of our site.
 
 ###  Use of Cookies:
 
@@ -36,9 +36,9 @@ You can refuse cookies by turning them off in your browser. However, if you do s
 
 ###  Use and Sharing of Information:
 
-We share the following personal information with the parking vendor(s) you have chosen to conduct business with: Your name, travel departure & return dates & times, and survey data if you have chosen to participate in our post-trip customer satisfaction survey. We do not share your email address, mailing address, phone number, or credit card information with our parking vendors unless it is necessary to resolve a customer service issue. We contract with other companies to perform various functions necessary to operate our business - for example, to process credit cards. We will share with these other companies only that Personal Information they require to fulfill their contractual obligations to us. These companies agree that they will not use or disclose that Personal Information for any other purpose.
+We share the following personal information with the parking vendor(s) you have chosen to conduct business with: Your name, travel departure & return dates & times, and survey data if you have chosen to participate in our post-trip customer satisfaction survey. We do not share your email address, mailing address, phone number, or credit card information with our parking vendors unless it is necessary to resolve a customer service issue. We contract with other companies to perform various functions necessary to operate our business - for example, to process credit cards. We will share with these other companies only that personal Information they require to fulfill their contractual obligations to us. These companies agree that they will not use or disclose that personal information for any other purpose.
 
-We may have third party advertisers ("advertisers") on our site. These advertisers may use cookies to track general, non-personally identifiable information about the ads you have seen and types of things that you appear interested in. We do not share any Personal Information about you with these advertisers or other third party partners unless you give us permission to do so separate from any permission you provide during the registration process. However, these advertisers may have other sources of information and their own privacy practices. These advertisers may also use combined information about your visits to our site and other sites in order to provide advertisements about related goods and services that you may be interested in. When you visit a site that we advertise on, we may place a cookie on your personal computer.
+We may have third party advertisers ("advertisers") on our site. These advertisers may use cookies to track general, non-personally identifiable information about the ads you have seen and types of things that you appear interested in. We do not share any Personal information about you with these advertisers or other third party partners unless you give us permission to do so separate from any permission you provide during the registration process. However, these advertisers may have other sources of information and their own privacy practices. These advertisers may also use combined information about your visits to our site and other sites in order to provide advertisements about related goods and services that you may be interested in. When you visit a site that we advertise on, we may place a cookie on your personal computer.
 
 AirportParkingReservations.com, Inc. sends the following transaction related emails: a receipt whenever you conduct a transaction on our web site, a 'customer rewards' email waiving our transaction fee on a future reservation, a second copy of your receipt a few days before your departure, and a quality of service survey invitation when you return from your trip.
 
