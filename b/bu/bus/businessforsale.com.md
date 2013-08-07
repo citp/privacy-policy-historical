@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessforsale.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615123308id_/http%3A//www.businessforsale.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessforsale.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807061603id_/http%3A//www.businessforsale.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | BusinessForSale.Com
 
