@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebay.ph privacy policy that was archived on 2012-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120113191114id_/http%3A//pages.ebay.ph/help/policies/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebay.ph privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807055933id_/http%3A//pages.ebay.ph/help/policies/privacy-policy.html) for the most accurate reproduction.*
 
 # eBay Privacy Policy
 
