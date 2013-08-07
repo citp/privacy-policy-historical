@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the hoistseo.com privacy policy that was archived on 2013-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130218060557id_/http%3A//www.hoistseo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoistseo.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808003121id_/http%3A//www.hoistseo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Hoist | An SEO Link Building Service For Everyone
+# Privacy Policy - HoistSEO | Advanced Search Engine Optimization
+
+## Privacy Policy
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
