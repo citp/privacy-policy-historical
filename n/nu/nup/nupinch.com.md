@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nupinch.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425045509id_/http%3A//www.nupinch.com/Privacy_Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nupinch.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807043803id_/http%3A//www.nupinch.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Apparels: Men's and Women's apparel products from your favorite stores at Best Prices in India @NuPinch.com, your personal shopping assistant
 
