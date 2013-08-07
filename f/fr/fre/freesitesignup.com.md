@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freesitesignup.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620165555id_/http%3A//www.freesitesignup.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freesitesignup.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807230118id_/http%3A//www.freesitesignup.com/privacy.php) for the most accurate reproduction.*
 
-# Free Cash-Pulling Websites Company - Privacy Policy
+# Newer Concepts - Privacy Policy
 
 Privacy Policy
 
@@ -48,7 +48,7 @@ The minimum age for use of this This website is 18 years old. If you are not at 
 
 You can contact the company by mail at: 
 
-Free Cash-Pulling Websites Company Websites c/o Top Tier Solutions  
+Newer Concepts Websites c/o Top Tier Solutions  
 701 North Green Valley Parkway Suite 200  
 Henderson, NV 89074 
 
