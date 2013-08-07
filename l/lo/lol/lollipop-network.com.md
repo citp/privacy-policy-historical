@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lollipop-network.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512065410id_/http%3A//www.lollipop-network.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lollipop-network.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807044501id_/http%3A//www.lollipop-network.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy and cookies
 
-**Lollipop’s Privacy Policy**
+**Lollipop’s Privacy Policy and Cookies**
 
 **1\. The inclusion of personal data in the files of LOLLIPOP NETWORK, S.L.:**
 
@@ -26,7 +26,7 @@ Before providing personal information belonging to third parties, the User must 
 
 **6\. Red Online Marketing Group, L.P.**
 
-By using the Lollipop software, you acknowledge and accept that Red Online Marketing Group, L.P. can gather your personal data. In this sense, the data that can be processed is indicated in its privacy policy and for the purposes stated in the Red Online Marketing Group, L.P. privacy policy: <http://50onred.com/privacy-policy>.
+By using the Lollipop software, you acknowledge and accept that Red Online Marketing Group, L.P. can gather your personal data, which are detailed in the Red Online Marketing Group, L.P. Privacy Policy which can be viewed here: <http://50onred.com/privacy-policy>.
 
 Also, the User expressly acknowledges and agrees that Red Online Marketing Group L.P. can gather his/her personal data by using cookies or other storage devices and data recovery in their terminal equipment.
 
@@ -38,4 +38,4 @@ LOLLIPOP may use cookies either directly or through third parties contracted for
 
 **8\. Lollipop’s cookies:**
 
-By using the Lollipop application, the User acknowledges and accepts that the software can install LOLLIPOP’s cookies. The cookies which Lollipop uses serve their purpose to personalize the offers and ads which the User receives, based on the URL which he/she visits, as well as the search terms used. The User can configure their browser so as not to accept cookies. Further information regarding the use of cookies is available at [ http://www.youronlinechoices.com/ ](http://www.youronlinechoices.com/).
+By using the Website and the Lollipop application, the User acknowledges and accepts that the software can install LOLLIPOP’s cookies, as well as cookies from the companies Lotame Solutions, Inc., Exelate UK Ltd and Eyeota Ltd and Google Inc. The User can check the Privacy Policy of Lotame Solutions, Inc. at the following link: <http://www.lotame.com/legal>, the Exelate UK Ltd. Privacy Policy: <http://exelate.com/consumer-opt-out/website-privacy-policy/> and the Eyeota Ltd. Privacy Policy: <http://www.eyeota.com/privacy/privacy> and Google Inc.: [https://www.google.com/policies/privacy/](http://www.eyeota.com/privacy/privacy). The cookies which Lollipop uses serve their purpose to personalize the offers and ads which the User receives, based on the URL which he/she visits, as well as the search terms used. The User can configure their browser so as not to accept cookies. Further information regarding the use of cookies is available at [ http://www.youronlinechoices.com/](http://www.youronlinechoices.com/) and <http://www.networkadvertising.org/managing/opt_out.asp>.
