@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sifterapp.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116040517id_/https%3A//sifterapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sifterapp.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807163312id_/https%3A//sifterapp.com/privacy) for the most accurate reproduction.*
 
-# Sifter - Privacy Policy
+# Privacy Policy | Sifter
 
   1. Privacy Statement. Next Update LLC, a Texas limited liability company, operates this web site. We regard the privacy and security of subscriber and user information as a critical component of our Services. The following information explains our information collection, dissemination and security processes.
   2. Registration. When you access our web site, we may ask you to give us information about yourself (“Registration Data”).
