@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ogilvypr.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530112732id_/http%3A//ogilvypr.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ogilvypr.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807225849id_/http%3A//www.ogilvypr.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Ogilvy Public Relations Worldwide
 
@@ -8,7 +8,7 @@ We respect the privacy of all individuals and our Privacy Policy is in place to 
 
 **What Organization is Collecting the Information**
 
-Ogilvy Public Relations Worldwide is a global marketing communications firm, with offices in more than 60 cities around the world. Entering its 24th year providing public relations solutions, Ogilvy Public Relations Worldwide has specialties in consumer marketing, corporate (B2B), health & medical, technology, public affairs, social marketing and entertainment. 
+Ogilvy Public Relations Worldwide is a global marketing communications firm, with offices in more than 60 cities around the world. Entering its 24th year providing public relations solutions, Ogilvy Public Relations Worldwide has specialties in brand marketing, corporate (B2B), health & medical, technology, public affairs, social marketing and entertainment. 
 
 **Personal Information**
 
