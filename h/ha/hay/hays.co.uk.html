@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hays.co.uk privacy policy that was archived on 2013-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130602060719id_/http%3A//hays.co.uk/PrivacyPolicy/index.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hays.co.uk privacy policy that was archived on 2013-08-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130808002208id_/http%3A//hays.co.uk/PrivacyPolicy/index.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 		
@@ -129,10 +129,11 @@
 						
 					</script>
 				
-			
+						
 					<meta name="description" content="How we look after your personal data at Hays.">
-
-	
+		
+			
+		
 
 	    	
     					
@@ -160,12 +161,14 @@
 <body id="pg_3col" class="js">
 	
 	<div class="access"><a href="#pl_main">Skip to content</a></div>
-	<div id="pl_header" class="container_24">
+	<div id="pl_header" class="container_24 NormalTopPadding">
 	
 	  	<!--Start O and G Changes  isoCountryCode like "OG"  added Gaurav-->
 	<!--End O and G Changes isoCountryCode like "OG"  added Gaurav-->
 		  			
-		<div id="banner" class="banner-hidden" onload="javasrcipt:HAYSCookieBannerHideonLoad()">	This site uses cookies. If you continue you consent to this but you may change your cookie settings at any time by following <u><a href="http://www.hays.co.uk/general-content/HAYS_006054">this link</a></u>.  
+		<div id="banner" class="banner-unhidden cookieheight uk_width" onload="javasrcipt:HAYSCookieBannerHideonLoad()">
+		
+		This site uses cookies. If you continue you consent to this but you may change your cookie settings at any time by following <u><a href="http://www.hays.co.uk/general-content/HAYS_006054">this link</a></u>.  
 				<button type="button" class="banner-button" onclick="javascript:HAYSCookieBannerHideOnClick()">CONTINUE</button>
 		</div>
 		
@@ -190,7 +193,17 @@
 						if(banner_display == null || banner_display === '') 
 						{
 							var bannercode = document.getElementById("banner");
-							bannercode.className=(bannercode.className=='banner-hidden')?'banner-unhidden':'banner-hidden';
+							//bannercode.className=(bannercode.className=='banner-hidden')?'banner-unhidden cookieheight':'banner-hidden';
+							if (g_CountryCode == "OG"){
+							bannercode.className=(bannercode.className=='banner-hidden')?'banner-unhidden cookieheight':'banner-hidden';
+							}
+							else if (g_CountryCode == "GB" ){
+							bannercode.className=(bannercode.className=='banner-hidden')?'banner-unhidden cookieheight uk_width':'banner-hidden';
+							}
+							else {
+								bannercode.className=(bannercode.className=='banner-hidden')?'banner-unhidden cookieheight others_width':'banner-hidden';
+							}
+							
 						}
 						$.cookie('bannercookie', 'Y',options);
 					}
@@ -203,6 +216,39 @@
 	
 		</script>
 	<div class="grid_7">
+	
+<script type="text/javascript">
+		function HAYSCookieBannerImageonLoad(){ 
+		
+			if	(window.jQuery && jQuery.ui && jQuery.isReady) 
+					{
+			
+				var img_div = document.getElementById("pl_header");
+				if (document.getElementById("banner") != null){
+					var bannercode = document.getElementById("banner");
+						if(bannercode.className=='banner-hidden'){
+								img_div.className='container_24 NormalTopPadding';
+						}
+						else{
+							if (g_strLanguageId == "pl-PL"){
+								img_div.className='container_24 increseTopPadding';
+							}
+							else {
+								img_div.className='container_24 NormalTopPadding';
+							}
+						}
+					}
+				else {
+					img_div.className='container_24 NormalTopPadding';
+				}
+			}
+				else 
+					{
+						window.setTimeout(HAYSCookieBannerImageonLoad, 100);
+					}
+				}
+		HAYSCookieBannerImageonLoad();
+		</script>
 		<a href="/index.htm"><img width="235" height="30" alt="Hays - Recruiting experts worldwide" src="/haysassets/groups/hays_ta/documents/sitestudio/img_logo_hays.gif"></a>
 	</div>
 	<div class="grid_17">
@@ -336,7 +382,7 @@ $("#accountOpen").dialog({
 			<li><a target="" href="/hays-connect/index.htm">Hays Connect</a></li>
 			<li><a href="/jobs-search/index.htm" target="">Find jobs</a></li>
 			<li><a target="" href="/recruitment/index.htm">Find candidates</a></li>
-			<li><a href="http://www.hays-careers.com" target="_blank">Hays careers</a></li>
+			<li><a href="/work-at-hays/index.htm" target="">Hays careers</a></li>
 			<li><a href="/media-centre/index.htm" target="">Press</a></li>
 			<li><a target="" href="/site-search/index.htm">Site search</a></li>
 			
@@ -364,15 +410,14 @@ $("#accountOpen").dialog({
 								<li><a target="_blank" href="http://www.hays.de">Germany</a></li>
 								<li><a href="http://www.hays.com.hk" target="_blank">Hong Kong</a></li>
 								<li><a target="_blank" href="http://www.hays.hu">Hungary</a></li>
-								<li><a target="_blank" href="http://www.hays.in">India</a></li>
 								<li><a target="_blank" href="http://www.hays.ie">Ireland</a></li>
 								<li><a target="_blank" href="http://www.hays.it">Italy</a></li>
 								<li><a target="_blank" href="http://www.hays.co.jp">Japan</a></li>
+								<li><a target="_blank" href="http://www.hays.lu">Luxembourg</a></li>
 								</ul>
 								</div>
 								<div class="worldcol">
 								<ul>
-								<li><a target="_blank" href="http://www.hays.lu">Luxembourg</a></li>
 								<li><a href="http://www.hays.com.my" target="_blank">Malaysia</a></li>
 								<li><a target="_blank" href="http://www.hays.com.mx">Mexico</a></li>
 								<li><a target="_blank" href="http://www.hays.nl">Netherlands</a></li>
@@ -381,11 +426,11 @@ $("#accountOpen").dialog({
 								<li><a target="_blank" href="http://www.hays.pt">Portugal</a></li>
 								<li><a target="_blank" href="http://www.hays.ru">Russia</a></li>
 								<li><a href="http://www.hays.com.sg" target="_blank">Singapore</a></li>
+								<li><a target="_blank" href="http://www.hays.sk">Slovakia</a></li>
 								</ul>
 								</div>
 								<div class="worldcol">
 								<ul>
-								<li><a target="_blank" href="http://www.hays.sk">Slovakia</a></li>
 								<li><a target="_blank" href="http://www.hays.es">Spain</a></li>
 								<li><a target="_blank" href="http://www.hays.se">Sweden</a></li>
 								<li><a target="_blank" href="http://www.hays.ch">Switzerland</a></li>
@@ -428,7 +473,7 @@ $("#accountOpen").dialog({
  
 			</div>
 			<!--include include_header_sub-->
-			
+			 
 			
       			<div class="grid_17">
 	
@@ -443,7 +488,7 @@ $("#accountOpen").dialog({
  
     
       			<div class="grid_7">
-      							<div class="basket">	
+      								<div class="basket">	
 	 	 
 			<a class="" href="/jobs-search/jobs-shortlist/index.htm" onclick="return Hays_gaq_push(this.href)">
 				<span>0</span> jobs in your shortlist
@@ -467,10 +512,8 @@ $("#accountOpen").dialog({
  			<div class="ls_inner">
       		<!--sidebar -->
       		 
-       
-
-        
-        				<div class="left_nav">
+      
+        					<div class="left_nav">
 		<div class="cnr"></div>
 		<div class="ln_inner">
 		
@@ -486,7 +529,7 @@ $("#accountOpen").dialog({
 	
 	
 	
-		<li class="popout"><a href="/job/accountancy-finance-jobs/index.htm">Accounting &amp; Finance</a> 
+		<li class="popout"><a href="/job/accountancy-finance-jobs/index.htm">Accountancy &amp; Finance</a> 
 	<ul class="grid_50">
 				<li class="first-half"><a href="/job/accountancy-finance-jobs/senior-finance-qualified/index.htm" style="min-height: 15px;">Senior Finance - Qualified jobs</a></li>
 				<li class="first-half"><a href="/job/accountancy-finance-jobs/corporate-governance/index.htm" style="min-height: 15px;">Corporate Governance jobs</a></li>
@@ -588,15 +631,22 @@ $("#accountOpen").dialog({
 		</li>
 	
 		<li class="popout"><a href="/job/engineering-jobs/index.htm">Engineering &amp; Manufacturing</a> 
-	<ul class="grid_50">
-				<li class="first-half"><a href="/job/engineering-jobs/automotive/index.htm" style="min-height: 15px;">Automotive jobs</a></li>
-				<li class="first-half"><a href="/job/engineering-jobs/chemical-petrochemical/index.htm" style="min-height: 15px;">Chemical &amp; Petrochemical jobs</a></li>
-				<li class="first-half"><a href="/job/engineering-jobs/civil-engineering/index.htm" style="min-height: 15px; height: 28px;">Civil Engineering jobs</a></li>
-				<li class="first-half"><a href="/job/engineering-jobs/electrical-engineering/index.htm" style="min-height: 15px;">Electrical Engineering jobs</a></li>
-				<li class="second-half"><a href="/job/engineering-jobs/manufacturing/index.htm" style="min-height: 15px;">Manufacturing jobs</a></li>
-				<li class="second-half"><a href="/job/engineering-jobs/marine-engineering/index.htm" style="min-height: 15px; height: 28px;">Marine Engineering jobs</a></li>
-				<li class="second-half"><a href="/job/engineering-jobs/mechanical-engineering/index.htm" style="min-height: 15px;">Mechanical Engineering jobs</a></li>
-				<li class="second-half"><a href="/job/engineering-jobs/structural-engineering/index.htm" style="min-height: 15px;">Structural Engineering jobs</a></li>
+	<ul class="grid_33">
+				<li><a href="/job/engineering-jobs/automotive/index.htm" style="min-height: 28px;">Automotive jobs</a></li>
+				<li><a href="/job/engineering-jobs/chemical-petrochemical/index.htm" style="min-height: 28px;">Chemical &amp; Petrochemical jobs</a></li>
+				<li><a href="/job/engineering-jobs/civil-engineering/index.htm" style="min-height: 28px;">Civil Engineering jobs</a></li>
+				<li><a href="/job/engineering-jobs/defence-jobs/index.htm" style="min-height: 28px;">Defence  jobs</a></li>
+				<li><a href="/job/engineering-jobs/electrical-engineering/index.htm" style="min-height: 28px;">Electrical Engineering jobs</a></li>
+				<li><a href="/job/engineering-jobs/energy-oil-gas-jobs/index.htm" style="min-height: 28px;">Energy, Oil &amp; Gas jobs</a></li>
+				<li><a href="/job/engineering-jobs/highways-transport/index.htm" style="min-height: 28px;">Highways &amp; Transport jobs</a></li>
+				<li><a href="/job/engineering-jobs/manufacturing/index.htm" style="min-height: 28px;">Manufacturing jobs</a></li>
+				<li><a href="/job/engineering-jobs/marine-engineering/index.htm" style="min-height: 28px;">Marine Engineering jobs</a></li>
+				<li><a href="/job/engineering-jobs/mechanical-engineering/index.htm" style="min-height: 28px;">Mechanical Engineering jobs</a></li>
+				<li><a href="/job/engineering-jobs/nuclear/index.htm" style="min-height: 28px;">Nuclear jobs</a></li>
+				<li><a href="/job/engineering-jobs/power-generation/index.htm" style="min-height: 28px;">Power Generation jobs</a></li>
+				<li><a href="/job/engineering-jobs/rail-infrastructure/index.htm" style="min-height: 28px;">Rail &amp; Infrastructure jobs</a></li>
+				<li><a href="/job/engineering-jobs/structural-engineering/index.htm" style="min-height: 28px;">Structural Engineering jobs</a></li>
+				<li><a href="/job/engineering-jobs/water-utilities/index.htm" style="min-height: 28px;">Water &amp; Utilities jobs</a></li>
 	</ul>
 		</li>
 	
@@ -632,7 +682,6 @@ $("#accountOpen").dialog({
 				<li><a href="/job/hr-jobs/hr-management-jobs/index.htm" style="min-height: 15px;">Management jobs</a></li>
 				<li><a href="/job/hr-jobs/in-house-recruitment/index.htm" style="min-height: 15px;">In-house Recruitment jobs</a></li>
 				<li><a href="/job/hr-jobs/learning-development-jobs/index.htm" style="min-height: 15px;">Learning &amp; Development jobs</a></li>
-				<li><a href="/job/hr-jobs/human-resources-events/index.htm" style="min-height: 15px;">Human Resources Events jobs</a></li>
 	</ul>
 		</li>
 	
@@ -732,7 +781,6 @@ $("#accountOpen").dialog({
 				<li><a href="/job/procurement-supply-chain-jobs/logistics/index.htm" style="min-height: 15px;">Logistics jobs</a></li>
 				<li><a href="/job/procurement-supply-chain-jobs/manufacturing-operations/index.htm" style="min-height: 15px;">Manufacturing &amp; Operations jobs</a></li>
 				<li><a href="/job/procurement-supply-chain-jobs/procurement/index.htm" style="min-height: 15px;">Procurement jobs</a></li>
-				<li><a href="/job/procurement-supply-chain-jobs/procurement-supply-chain-events/index.htm" style="min-height: 15px;">Procurement &amp; Supply Chain Events jobs</a></li>
 	</ul>
 		</li>
 	
@@ -809,13 +857,14 @@ $("#accountOpen").dialog({
 		</li>
 </ul>
 	<div class="clear"></div>
-	<div id="timeout" class="msg back">&lt; <a href="javascript: history.go(-1)">Back<span class="access"> to all areas of expertise</span></a></div>
+	
+	
+<div id="timeout" class="msg back">&lt; <a href="javascript: history.go(-1)">Back<span class="access"> to all areas of expertise</span></a></div>
 
 		</div>
 	</div>
    
 	
-        	
        	
         
         
@@ -1028,7 +1077,7 @@ $("#accountOpen").dialog({
 					<h2>Cookie Settings</h2>
 					<ol>
 					<h3>Performance Cookies</h3>
-						<li class="grid_2 alpha">
+						<li class="grid_2 alpha cookie">
 							<div class="select_row">
 								<input type="radio" name="radio_1CS" id="option_1CS" value="1">
 								<label for="option_1">On</label>
@@ -1044,7 +1093,7 @@ $("#accountOpen").dialog({
 						<img src="/haysassets/HaysGeneralComponent/assets/img/Black_line1.GIF">
 
 						<h3>Personalization Cookies</h3>
-						<li class="grid_2 alpha">
+						<li class="grid_2 alpha cookie">
 							<div class="select_row">
 								<input type="radio" name="radio_2CS" id="option_3CS" value="1">
 								<label for="option_3">On</label>
@@ -1059,7 +1108,7 @@ $("#accountOpen").dialog({
 						<img src="/haysassets/HaysGeneralComponent/assets/img/Black_line1.GIF">
 
 						<h3>Functionality Cookies</h3>
-						<li class="grid_2 alpha">
+						<li class="grid_2 alpha cookie">
 							<div class="select_row">
 								<input type="radio" name="radio_3CS" id="option_5CS" value="1">
 								<label for="option_5">On</label>
@@ -1138,10 +1187,6 @@ ______________________</li>
 			</li>
 			
 			<li>
-				<a href="http://testsg.hays.co.uk/uklocaljobs/" target="">Local Jobs</a>
-			</li>
-			
-			<li>
 				<a target="" href="/about-hays/index.htm">About Hays</a>
 			</li>
 			
@@ -1172,11 +1217,12 @@ ______________________</li>
 			<li>
 				<a href="/features/HAYS_008297" target="">Help</a>
 			</li>
+		</ul>
 			
 	
 	
 	
-		</ul>
+		
 		<!--added for Add This Toolbar on 11 Sept 2012 -->	
 		 
 <!-- end -->	
