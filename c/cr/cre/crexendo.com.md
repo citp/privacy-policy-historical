@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crexendo.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031160739id_/http%3A//www.crexendo.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crexendo.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807142405id_/http%3A//www.crexendo.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
