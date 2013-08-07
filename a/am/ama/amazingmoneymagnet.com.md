@@ -1,24 +1,66 @@
-> *The following text is extracted and transformed from the amazingmoneymagnet.com privacy policy that was archived on 2013-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130327092953id_/https%3A//www.amazingmoneymagnet.com/themes/common/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazingmoneymagnet.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807104325id_/https%3A//www.amazingmoneymagnet.com/themes/common/privacy_policy.php) for the most accurate reproduction.*
 
 # AmazingMoneyMagnet-Privacy Policy
 
 Text Ads
 
-  * Join Private Grp Earn $
+  * Learn as You Earn
 
-Put LadyNicci as Upline
-
-* * *
-
-  * 4% Daily for 130Days
-
-Referral Comm. 10%
+Paid on 4 matrix at onc
 
 * * *
 
-  * get 10usd just by joini
+  * AddWallet is exploding 
 
-comission every day
+AddWallet is exploding 
+
+* * *
+
+  * Earning as U view 7ads 
+
+Paying NOW
+
+* * *
+
+  * Unlimited Banner and
+
+Text Advertising
+
+* * *
+
+  * Everyone get paid
+
+Every day
+
+* * *
+
+  * Get Paid Daily
+
+No Sponsoring
+
+* * *
+
+  * Many Sources Of Income
+
+Built To Last Long Term
+
+* * *
+
+  * FINALLY ITS HERE
+
+SECURE SPOT NOW
+
+* * *
+
+  * Make Money Right Now
+
+And Be Part Of Team
+
+* * *
+
+  * Its NEW!
+
+Its just LAUNCHED!
 
 
 
