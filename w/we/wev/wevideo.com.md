@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wevideo.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614031218id_/http%3A//www.wevideo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wevideo.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808003317id_/http%3A//www.wevideo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | WeVideo
 
 _Revised: September 13, 2011_
 
-  Your privacy is very important to us.  We have prepared this Privacy Policy to explain how we collect, use protect, and disclose information and data when you use the (www.wevideo.com) website (" ** _Site_** ") or WeVideo services (" ** _Services_** ").  This Privacy Policy also explains your choices for managing your information preferences, including opting out of certain uses of your Personal Information.  By using the Site or Services you consent to this Privacy Policy. 
+Your privacy is very important to us.  We have prepared this Privacy Policy to explain how we collect, use protect, and disclose information and data when you use the (www.wevideo.com) website (" ** _Site_** ") or WeVideo services (" ** _Services_** ").  This Privacy Policy also explains your choices for managing your information preferences, including opting out of certain uses of your Personal Information.  By using the Site or Services you consent to this Privacy Policy. 
 
 ### Managing Your Information Preferences
 
