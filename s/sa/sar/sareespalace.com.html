@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sareespalace.com privacy policy that was archived on 2013-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130531050909id_/http%3A//www.sareespalace.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sareespalace.com privacy policy that was archived on 2013-08-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130807060033id_/http%3A//www.sareespalace.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" xml:lang="en"><head>
 <title>Privacy Policy</title>
@@ -15,7 +15,7 @@
 
 <link rel="stylesheet" href="catalog/view/theme/default/stylesheet/coda-slider.css" type="text/css" media="screen" title="no title" charset="utf-8">
 
-<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script async="" charset="utf-8" src="//cdn.zopim.com/?1DM4fNgEfiAvwmTvPdFXcpePlECATsEi" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="catalog/view/javascript/jquery/jquery-1.7.1.min.js"></script>
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script async="" charset="utf-8" src="//v2.zopim.com/?1DM4fNgEfiAvwmTvPdFXcpePlECATsEi" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="catalog/view/javascript/jquery/jquery-1.7.1.min.js"></script>
 <script type="text/javascript" src="catalog/view/javascript/jquery/ui/jquery-ui-1.8.16.custom.min.js"></script>
 <link rel="stylesheet" type="text/css" href="catalog/view/javascript/jquery/ui/themes/ui-lightness/jquery-ui-1.8.16.custom.css">
 <script type="text/javascript" src="catalog/view/javascript/jquery/ui/external/jquery.cookie.js"></script>
@@ -87,7 +87,7 @@ DD_belatedPNG.fix('#logo img');
 window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
 d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
 _.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
-$.src='//cdn.zopim.com/?1DM4fNgEfiAvwmTvPdFXcpePlECATsEi';z.t=+new Date;$.
+$.src='//v2.zopim.com/?1DM4fNgEfiAvwmTvPdFXcpePlECATsEi';z.t=+new Date;$.
 type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
 </script>
 <!--End of Zopim Live Chat Script--></head><body><div id="fb-root"></div>
@@ -104,10 +104,63 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
 <script type="text/javascript" src="catalog/view/javascript/jquery/jquery.lazyload.min.js"></script>
 <script type="text/javascript" src="catalog/view/javascript/script.js"></script>
 
+<script type="text/javascript">
+
+function preload(arrayOfImages) {
+    $(arrayOfImages).each(function(){
+        (new Image()).src = this;
+    });
+}
+preload([
+    'catalog/view/theme/default/image/subscribe_popup.jpg',
+	'catalog/view/javascript/jquery/colorbox/images/border.png',
+	'catalog/view/javascript/jquery/colorbox/images/controls.png',
+	'catalog/view/javascript/jquery/colorbox/images/overlay.png'
+]);
+</script>
+
 
 
 <a href="#" class="scrollup" title="Scroll To Top">Scroll</a>
 
+<div style="display:none">
+        <div id="subscribe">
+        
+        <div id="subs-container" class="clearfix">
+        <h4>Sign Up for Free Email Updates</h4>
+        <div class="sub_descr">Get our updates direct in your inbox. Just enter your email address below...<br><br>Your privacy and email are safe with us!</div>
+            <input type="text" name="subscribe" class="popup_subscribe_field" placeholder="Enter your email address..."><span><input type="submit" value="Submit" class="popup_subscribe_btn">
+            <div class="sub_msg"></div>
+        </span></div>
+        </div>
+</div>
+<script type="text/javascript">
+$('.popup_subscribe_btn').click(function() {
+		if($('.popup_subscribe_field').val())
+		{
+			//alert($('.footer_subscribe_field').val());
+			$.ajax({
+			  url: 'index.php?route=common/footer/addsubscription&email='+$('.popup_subscribe_field').val(),
+			  success: function(data) {
+				  $('.popup_subscribe_field').attr("value","");
+					if(data == 'You have already Subscribed!' || data == 'Successfully Subscribed!')
+					{
+						$('.sub_msg').html(data);
+						$.colorbox.close();
+					}
+					else
+					{
+						$('.sub_msg').html(data);
+					}
+			  }
+			});
+		}
+		else
+		{
+			$('.sub_msg').html('Please enter your email address!');
+		}
+	});
+</script>
 
 <div class="toppest_block">
 	<div class="toppest_center row">
@@ -137,7 +190,7 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
 	<div class="header_highlight1"></div>
 
   <div class="links">
-      <a class="quick_login" title="Customers Login" href="http://www.sareespalace.com/quick-login?category_id=0">Login</a> <a class="quick_register" title="Customer Registration" href="http://www.sareespalace.com/quick-register?category_id=0">Register</a>      <a href="http://www.sareespalace.com/my-account">My Account</a>
+      <!--<a class="quick_login" title="Customers Login" href="http://www.sareespalace.com/quick-login?category_id=0">Login</a> --><a class="quick_register" title="Customer Registration" href="http://www.sareespalace.com/quick-register?category_id=0">Login or Register</a>      <a href="http://www.sareespalace.com/my-account">My Account</a>
 </div>
 
 <script type="text/javascript">
@@ -148,7 +201,7 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
 		width:"650", height:'280',scrolling:false
 	});	
 	$(".quick_register").colorbox({
-		width:"750", height:'500',scrolling:false
+		width:"830", height:'400',scrolling:false
 	});	
 </script>
       
@@ -189,38 +242,38 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
                                                                                                         <li><a href="http://www.sareespalace.com/saree/lehenga-sarees">Lehenga Sarees</a></li>
                                                                                                         <li><a href="http://www.sareespalace.com/saree/party-wear-sarees">Party Wear Sarees</a></li>
                                                                                                         <li><a href="http://www.sareespalace.com/saree/casual-sarees">Casual Sarees</a></li>
-                                                                                                        <li><a href="http://www.sareespalace.com/saree/bollywood-saree">Bollywood Saree</a></li>
+                                                                                                        <li><a href="http://www.sareespalace.com/saree/bollywood-sarees">Bollywood Sarees</a></li>
                                                                             </ul>
                 	</div>
                     
                                                     <div class="mega_menu_image span140px">
-                                    <a title="Cream Embroidered Net Saree" href="http://www.sareespalace.com/cream-embroidered-net-saree"><img alt="Cream Embroidered Net Saree" src="http://www.sareespalace.com/image/cache/data/cream-embroidered-net-saree-135x186.jpg" border="0"></a>
+                                    <a title="Alluring Green Faux Crepe Saree" href="http://www.sareespalace.com/alluring-green-faux-crepe-saree"><img alt="Alluring Green Faux Crepe Saree" src="http://www.sareespalace.com/image/cache/data/alluring-green-faux-crepe-saree-135x186.jpg" border="0"></a>
                                     <div class="mega_menu_item_desc">
-                                        <div>Cream Embroidered Net Saree</div>
+                                        <div>Alluring Green Faux Crepe Sare...</div>
                                     </div>
                                 </div>
                                                            <div class="mega_menu_image span140px">
-                                    <a title="Amazing Resham Enhanced Half And Half Saree" href="http://www.sareespalace.com/amazing-resham-enhanced-half-and-half-saree"><img alt="Amazing Resham Enhanced Half And Half Saree" src="http://www.sareespalace.com/image/cache/data/amazing-resham-enhanced-half-and-half-saree-135x186.jpg" border="0"></a>
+                                    <a title="Gorgeous Black Faux Crepe Saree" href="http://www.sareespalace.com/gorgeous-black-faux-crepe-saree"><img alt="Gorgeous Black Faux Crepe Saree" src="http://www.sareespalace.com/image/cache/data/gorgeous-black-faux-crepe-saree-135x186.jpg" border="0"></a>
                                     <div class="mega_menu_item_desc">
-                                        <div>Amazing Resham Enhanced Half A...</div>
+                                        <div>Gorgeous Black Faux Crepe Sare...</div>
                                     </div>
                                 </div>
                                                            <div class="mega_menu_image span140px">
-                                    <a title="Plushy Deep Blue Georgette Embroidered Saree" href="http://www.sareespalace.com/plushy-deep-blue-georgette-embroidered-saree"><img alt="Plushy Deep Blue Georgette Embroidered Saree" src="http://www.sareespalace.com/image/cache/data/plushy-deep-blue-georgette-embroidered-saree-135x186.jpg" border="0"></a>
+                                    <a title="Charming Red Faux Crepe Saree" href="http://www.sareespalace.com/charming-red-faux-crepe-saree"><img alt="Charming Red Faux Crepe Saree" src="http://www.sareespalace.com/image/cache/data/charming-red-faux-crepe-saree-135x186.jpg" border="0"></a>
                                     <div class="mega_menu_item_desc">
-                                        <div>Plushy Deep Blue Georgette Emb...</div>
+                                        <div>Charming Red Faux Crepe Saree</div>
                                     </div>
                                 </div>
                                                            <div class="mega_menu_image span140px">
-                                    <a title="Gleaming Pink Georgette Embroidered Saree" href="http://www.sareespalace.com/gleaming-pink-georgette-embroidered-saree"><img alt="Gleaming Pink Georgette Embroidered Saree" src="http://www.sareespalace.com/image/cache/data/gleaming-pink-georgette-embroidered-saree-135x186.jpg" border="0"></a>
+                                    <a title="Latest Yellow Art Silk Saree" href="http://www.sareespalace.com/latest-yellow-art-silk-saree"><img alt="Latest Yellow Art Silk Saree" src="http://www.sareespalace.com/image/cache/data/latest-yellow-art-silk-saree-135x186.jpg" border="0"></a>
                                     <div class="mega_menu_item_desc">
-                                        <div>Gleaming Pink Georgette Embroi...</div>
+                                        <div>Latest Yellow Art Silk Saree</div>
                                     </div>
                                 </div>
                                                            <div class="mega_menu_image span140px">
-                                    <a title="Splendorous Bluish Purple Bottle Green Chiffon Embroidered Saree" href="http://www.sareespalace.com/splendorous-bluish-purple-bottle-green-chiffon-embroidered-saree"><img alt="Splendorous Bluish Purple Bottle Green Chiffon Embroidered Saree" src="http://www.sareespalace.com/image/cache/data/splendorous-bluish-purple-bottle-green-chiffon-embroidered-saree-135x186.jpg" border="0"></a>
+                                    <a title="Desirable Blue Art Silk Saree" href="http://www.sareespalace.com/desirable-blue-art-silk-saree"><img alt="Desirable Blue Art Silk Saree" src="http://www.sareespalace.com/image/cache/data/desirable-blue-art-silk-saree-135x186.jpg" border="0"></a>
                                     <div class="mega_menu_item_desc">
-                                        <div>Splendorous Bluish Purple Bott...</div>
+                                        <div>Desirable Blue Art Silk Saree</div>
                                     </div>
                                 </div>
                                           	</div>
@@ -235,42 +288,43 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
                         <ul>
                                                                                                         <li><a href="http://www.sareespalace.com/salwar-kameez/anarkali-suits">Anarkali Suits</a></li>
                                                                                                         <li><a href="http://www.sareespalace.com/salwar-kameez/designer-salwar">Designer Salwar </a></li>
-                                                                                                        <li><a href="http://www.sareespalace.com/salwar-kameez/punjabi-suits">Punjabi Suits</a></li>
+                                                                                                        <li><a href="http://www.sareespalace.com/salwar-kameez/party-wear-suits">Party Wear Suits</a></li>
                                                                                                         <li><a href="http://www.sareespalace.com/salwar-kameez/wedding-suits">Wedding Suits</a></li>
+                                                                                                        <li><a href="http://www.sareespalace.com/salwar-kameez/punjabi-suits">Punjabi Suits</a></li>
                                                                                                         <li><a href="http://www.sareespalace.com/salwar-kameez/pakistani-suits ">Pakistani Suits </a></li>
                                                                                                         <li><a href="http://www.sareespalace.com/salwar-kameez/churidar-suits">Churidar Suits</a></li>
-                                                                                                        <li><a href="http://www.sareespalace.com/salwar-kameez/bollywood-salwar">Bollywood Salwar</a></li>
+                                                                                                        <li><a href="http://www.sareespalace.com/salwar-kameez/bollywood-salwars">Bollywood Salwars</a></li>
                                                                             </ul>
                 	</div>
                     
                                                     <div class="mega_menu_image span140px">
-                                    <a title="Enchanting Black Faux Georgette Churidar Suit" href="http://www.sareespalace.com/enchanting-black-faux-georgette-churidar-suit"><img alt="Enchanting Black Faux Georgette Churidar Suit" src="http://www.sareespalace.com/image/cache/data/enchanting-black-faux-georgette-churidar-suit-135x186.jpg" border="0"></a>
+                                    <a title="Dazzling Green Resham Anarkali Suit" href="http://www.sareespalace.com/dazzling-green-resham-anarkali-suit"><img alt="Dazzling Green Resham Anarkali Suit" src="http://www.sareespalace.com/image/cache/data/dazzling-green-resham-anarkali-suit-135x186.jpg" border="0"></a>
                                     <div class="mega_menu_item_desc">
-                                        <div>Enchanting Black Faux Georgett...</div>
+                                        <div>Dazzling Green Resham Anarkali...</div>
                                     </div>
                                 </div>
                                                            <div class="mega_menu_image span140px">
-                                    <a title="Yellow Color Net Anarkali Churidar Suit" href="http://www.sareespalace.com/yellow-color-net-anarkali-churidar-suit"><img alt="Yellow Color Net Anarkali Churidar Suit" src="http://www.sareespalace.com/image/cache/data/yellow-color-net-anarkali-churidar-suit-135x186.jpg" border="0"></a>
+                                    <a title="Charming Orange Net Anarkali Suit" href="http://www.sareespalace.com/charming-orange-net-anarkali-suit"><img alt="Charming Orange Net Anarkali Suit" src="http://www.sareespalace.com/image/cache/data/charming-orange-net-anarkali-suit-135x186.jpg" border="0"></a>
                                     <div class="mega_menu_item_desc">
-                                        <div>Yellow Color Net Anarkali Chur...</div>
+                                        <div>Charming Orange Net Anarkali S...</div>
                                     </div>
                                 </div>
                                                            <div class="mega_menu_image span140px">
-                                    <a title="Pink Color Faux Georgette Churidar Suit" href="http://www.sareespalace.com/pink-color-faux-georgette-churidar-suit"><img alt="Pink Color Faux Georgette Churidar Suit" src="http://www.sareespalace.com/image/cache/data/pink-color-faux-georgette-churidar-suit-135x186.jpg" border="0"></a>
+                                    <a title="Elite Red Embroidered Anarkali Suit" href="http://www.sareespalace.com/elite-red-embroidered-anarkali-suit"><img alt="Elite Red Embroidered Anarkali Suit" src="http://www.sareespalace.com/image/cache/data/elite-red-embroidered-anarkali-suit-135x186.jpg" border="0"></a>
                                     <div class="mega_menu_item_desc">
-                                        <div>Pink Color Faux Georgette Chur...</div>
+                                        <div>Elite Red Embroidered Anarkali...</div>
                                     </div>
                                 </div>
                                                            <div class="mega_menu_image span140px">
-                                    <a title="Stunning Faux Georgette Churidar Suit" href="http://www.sareespalace.com/stunning-faux-georgette-churidar-suit"><img alt="Stunning Faux Georgette Churidar Suit" src="http://www.sareespalace.com/image/cache/data/stunning-faux-georgette-churidar-suit-135x186.jpg" border="0"></a>
+                                    <a title="Desirable Off White Net Anarkali Suit" href="http://www.sareespalace.com/desirable-off-white-net-anarkali-suit"><img alt="Desirable Off White Net Anarkali Suit" src="http://www.sareespalace.com/image/cache/data/desirable-off-white-net-anarkali-suit-135x186.jpg" border="0"></a>
                                     <div class="mega_menu_item_desc">
-                                        <div>Stunning Faux Georgette Churid...</div>
+                                        <div>Desirable Off White Net Anarka...</div>
                                     </div>
                                 </div>
                                                            <div class="mega_menu_image span140px">
-                                    <a title="Pleasing Faux Georgette Churidar Suit" href="http://www.sareespalace.com/pleasing-faux-georgette-churidar-suit"><img alt="Pleasing Faux Georgette Churidar Suit" src="http://www.sareespalace.com/image/cache/data/pleasing-faux-georgette-churidar-suit-135x186.jpg" border="0"></a>
+                                    <a title="Amazing Pink Faux Georgette Anarkali Suit" href="http://www.sareespalace.com/amazing-pink-faux-georgette-anarkali-suit"><img alt="Amazing Pink Faux Georgette Anarkali Suit" src="http://www.sareespalace.com/image/cache/data/amazing-pink-faux-georgette-anarkali-suit-135x186.jpg" border="0"></a>
                                     <div class="mega_menu_item_desc">
-                                        <div>Pleasing Faux Georgette Churid...</div>
+                                        <div>Amazing Pink Faux Georgette An...</div>
                                     </div>
                                 </div>
                                           	</div>
@@ -286,44 +340,47 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
                                                                                                         <li><a href="http://www.sareespalace.com/lehenga-choli/designer-lehenga-choli">Designer Lehenga Choli</a></li>
                                                                                                         <li><a href="http://www.sareespalace.com/lehenga-choli/bridal-lehenga-choli">Bridal Lehenga Choli</a></li>
                                                                                                         <li><a href="http://www.sareespalace.com/lehenga-choli/wedding-lehenga-choli">Wedding Lehenga Choli</a></li>
+                                                                                                        <li><a href="http://www.sareespalace.com/lehenga-choli/Bollywood-Lehenga-Choli">Bollywood Lehenga Choli</a></li>
                                                                             </ul>
                 	</div>
                     
                                                     <div class="mega_menu_image span140px">
-                                    <a title="Dark Pink And Orange Net Lehenga Choli" href="http://www.sareespalace.com/dark-pink-and-orange-net-lehenga-choli"><img alt="Dark Pink And Orange Net Lehenga Choli" src="http://www.sareespalace.com/image/cache/data/dark-pink-and-orange-net-lehenga-choli-135x186.jpg" border="0"></a>
+                                    <a title="Yamla Pagla Deewana 2 Pink Net Lehenga Choli" href="http://www.sareespalace.com/yamla-pagla-deewana-2-pink-net-lehenga-choli"><img alt="Yamla Pagla Deewana 2 Pink Net Lehenga Choli" src="http://www.sareespalace.com/image/cache/data/yamla-pagla-deewana-2-pink-net-lehenga-choli-135x186.jpg" border="0"></a>
                                     <div class="mega_menu_item_desc">
-                                        <div>Dark Pink And Orange Net Lehen...</div>
+                                        <div>Yamla Pagla Deewana 2 Pink Net...</div>
                                     </div>
                                 </div>
                                                            <div class="mega_menu_image span140px">
-                                    <a title="Splendid Maroon And Green Lehenga Choli" href="http://www.sareespalace.com/splendid-maroon-and-green-lehenga-choli"><img alt="Splendid Maroon And Green Lehenga Choli" src="http://www.sareespalace.com/image/cache/data/splendid-maroon-and-green-lehenga-choli-135x186.jpg" border="0"></a>
+                                    <a title="Celina Jaitley Mijwan Show Net Lehenga Choli" href="http://www.sareespalace.com/celina-jaitley-mijwan-show-net-lehenga-choli"><img alt="Celina Jaitley Mijwan Show Net Lehenga Choli" src="http://www.sareespalace.com/image/cache/data/celina-jaitley-mijwan-show-net-lehenga-choli-135x186.jpg" border="0"></a>
                                     <div class="mega_menu_item_desc">
-                                        <div>Splendid Maroon And Green Lehe...</div>
+                                        <div>Celina Jaitley Mijwan Show Net...</div>
                                     </div>
                                 </div>
                                                            <div class="mega_menu_image span140px">
-                                    <a title="Magenta And Purple Net A Line Lehenga Choli" href="http://www.sareespalace.com/magenta-and-purple-net-a-line-lehenga-choli"><img alt="Magenta And Purple Net A Line Lehenga Choli" src="http://www.sareespalace.com/image/cache/data/magenta-and-purple-net-a-line-lehenga-choli-135x186.jpg" border="0"></a>
+                                    <a title="Alia Bhatt Style 58 Filmfare Awards Lehenga Choli  " href="http://www.sareespalace.com/alia-bhatt-style-58-filmfare-awards-lehenga-choli"><img alt="Alia Bhatt Style 58 Filmfare Awards Lehenga Choli  " src="http://www.sareespalace.com/image/cache/data/alia-bhatt-style-58-filmfare-awards-lehenga-choli-135x186.jpg" border="0"></a>
                                     <div class="mega_menu_item_desc">
-                                        <div>Magenta And Purple Net A Line ...</div>
+                                        <div>Alia Bhatt Style 58 Filmfare A...</div>
                                     </div>
                                 </div>
                                                            <div class="mega_menu_image span140px">
-                                    <a title="Off White Net A Line Lehenga Choli" href="http://www.sareespalace.com/off-white-net-a-line-lehenga-choli"><img alt="Off White Net A Line Lehenga Choli" src="http://www.sareespalace.com/image/cache/data/off-white-net-a-line-lehenga-choli-135x186.jpg" border="0"></a>
+                                    <a title="Sridevi Jhalak Dikhlaja Pink Lehenga Choli" href="http://www.sareespalace.com/sridevi-jhalak-dikhlaja-pink-lehenga-choli"><img alt="Sridevi Jhalak Dikhlaja Pink Lehenga Choli" src="http://www.sareespalace.com/image/cache/data/sridevi-jhalak-dikhlaja-pink-lehenga-choli-135x186.jpg" border="0"></a>
                                     <div class="mega_menu_item_desc">
-                                        <div>Off White Net A Line Lehenga C...</div>
+                                        <div>Sridevi Jhalak Dikhlaja Pink L...</div>
                                     </div>
                                 </div>
                                                            <div class="mega_menu_image span140px">
-                                    <a title="Dark Fawn Net A Line Lehenga Choli" href="http://www.sareespalace.com/dark-fawn-net-a-line-lehenga-choli"><img alt="Dark Fawn Net A Line Lehenga Choli" src="http://www.sareespalace.com/image/cache/data/dark-fawn-net-a-line-lehenga-choli-135x186.jpg" border="0"></a>
+                                    <a title="Priyanka Chopra Orange Crepe Silk Lehenga Choli" href="http://www.sareespalace.com/priyanka-chopra-orange-crepe-silk-lehenga-choli"><img alt="Priyanka Chopra Orange Crepe Silk Lehenga Choli" src="http://www.sareespalace.com/image/cache/data/priyanka-chopra-orange-crepe-silk-lehenga-choli-135x186.jpg" border="0"></a>
                                     <div class="mega_menu_item_desc">
-                                        <div>Dark Fawn Net A Line Lehenga C...</div>
+                                        <div>Priyanka Chopra Orange Crepe S...</div>
                                     </div>
                                 </div>
                                           	</div>
             </div>
                       </div>
                   </li>
-                    <li><a href="popular">Most Popular</a></li>
+                
+            <li><a href="exclusive-collection">Exclusive Collection</a></li>
+            <li><a href="popular">Most Popular</a></li>
             <li><a href="ready-to-ship?sort_by=readytoship">Ready To Ship</a></li>
             <li><a href="sale?sort_by=sale">Sale</a></li>
     </ul>
@@ -397,6 +454,7 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
         <li><a href="http://www.sareespalace.com/contact-us&amp;type=wholesale">Wholesale Inquiry</a></li>
         <li><a href="http://www.sareespalace.com/contact-us">Contact Us</a></li>
     </ul>
+    
     </td>
     <td valign="top">
     <h3>SHOPPING POLICY</h3>
@@ -410,29 +468,27 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
     </td>    
     <td valign="top" width="250">
         
-        <h3>CUSTOMER SERVICE</h3>
-        <ul>
-        	<li>+91-8141744744</li>
-            <li>support@sareespalace.com</li>
-       	</ul>
-        <div class="space6px"></div>
         <h3>KNOWLEDGE BASE</h3>
         <ul>
         	<li><a href="http://www.sareespalace.com/how-to-wear-saree">How to Wear Saree</a></li>
             <li><a href="http://www.sareespalace.com/saree-drapping-styles">Saree Drapping Styles</a></li>
+            <li><a href="http://www.sareespalace.com/lehenga-style-saree">Lehenga Style Saree</a></li>
         </ul>
+
     </td>
     
     <td valign="top" width="320">
+    	
+       
         <div class="footer_newslatter_box">
             <h3>Subscribe Newsletter</h3>
             <div>Subscibe for latest offers and deals!</div>
             <div><input type="text" name="subscribe" class="footer_subscribe_field" placeholder="Enter your email address"><span><input type="submit" value=">" class="footer_subscribe_btn"></span></div>
-            
-            <div class="we_accept_box">
-                <h3>We Accept</h3>
-                <div class="payment_footer"></div>
-            </div>
+        </div>
+         
+         <div class="we_accept_box">
+            <h3>We Accept</h3>
+            <div class="payment_footer"></div>
         </div>
     </td>
   </tr>
@@ -449,8 +505,8 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
 
 <div id="powered">
 	<div id="container">
-	<div class="power_left" style="line-height:18px;">Copyright © 2013, SareePalace.com. All rights reserved.<br>
-	</div>
+	<div class="power_left" style="line-height:18px;">© 2013, Saree Palace. All rights reserved.<br>
+	Design &amp; Developed By <a target="_blank" title="+91.9825278089" href="http://www.3fusion.in">3Fusion</a></div>
     <div class="power_right"></div>
     </div>
 </div>
@@ -458,6 +514,14 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
 
 
 <script type="text/javascript">
+jQuery(document).ready(function(){
+    if (document.cookie.indexOf('visited=true') == -1) {
+        var fifteenDays = 1000*60*60*24*1;
+        var expires = new Date((new Date()).valueOf() +  fifteenDays);
+        document.cookie = "visited=true;expires=" +  expires.toUTCString();
+		$.colorbox({width:"830px",height:"400px", href:"quick-register?category_id=0"});
+        }
+});
 
 $(window).scroll(function(){
         if ($(this).scrollTop() > 100) {
