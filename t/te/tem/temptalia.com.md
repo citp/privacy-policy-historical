@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the temptalia.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425185858id_/http%3A//www.temptalia.com/temptaliacom-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the temptalia.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807140545id_/http%3A//www.temptalia.com/temptaliacom-privacy-policy) for the most accurate reproduction.*
 
 # Temptalia.com Privacy Policy
 
@@ -22,5 +22,3 @@
 **Privacy Contact Information**
 
 If you have any questions, concerns, or comments about our privacy policy you may contact us by e-mailing [christine@temptalia.com](mailto:christine@temptalia.com).
-
-## Disclosure
