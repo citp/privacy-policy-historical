@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sitevelocitytest.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611065434id_/http%3A//sitevelocitytest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitevelocitytest.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807031038id_/http%3A//sitevelocitytest.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
