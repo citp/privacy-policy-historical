@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the ppvplaybook.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509210215id_/http%3A//affplaybook.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ppvplaybook.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808004342id_/http%3A//www.affplaybook.com/privacy.html) for the most accurate reproduction.*
 
-# PPV Playbook Privacy Policy
+# Aff Playbook - Affiliate Marketing Forum
 
-Privacy Policy
-
-This privacy policy applies to the use of ppvplaybook.com and roiplaybook.com 
+This privacy policy applies to the use of affplaybook.com
 
 We highly value your privacy and make this policy easily available throughout our site to assist you in understanding the handling of information in the course of using this site.
 
@@ -31,7 +29,7 @@ If you do register, and in the process provide us with personally identifiable i
 Please note that if you post comments or articles to any forum, blog or message board on this site, any personally identifiable information you provide in those comments or articles may be read, collated and used by anyone viewing them. As such, we are not responsible for personally identifiable information you may choose to make available through these channels.  
 
 
-We also provide visitors to our website the opportunity to opt-in to receive communications from us. In this case, we ask the visitor for his or her email address and name. These communications will include our regular newsletter, product promotions and any other information that we feel may be pertinent to the visitor. You may opt out of receiving any, or all, of these communications by emailing us at david ATY ppvplaybook.com, by clicking on the unsubscribe link in any email we send to you, by replying to any email we send you and entering the word UNSUBSCRIBE in the subject line.
+We also provide visitors to our website the opportunity to opt-in to receive communications from us. In this case, we ask the visitor for his or her email address and name. These communications will include our regular newsletter, product promotions and any other information that we feel may be pertinent to the visitor. You may opt out of receiving any, or all, of these communications by emailing us at david ATY affplaybook.com, by clicking on the unsubscribe link in any email we send to you, by replying to any email we send you and entering the word UNSUBSCRIBE in the subject line.
 
 Again, if you provide us with your email address and/or name for the purposes of receiving communications from us, this information will not be shared with any third-party organization except with your express consent.
 
@@ -39,7 +37,7 @@ Security
 
 We follow accepted industry standards to protect any personal information you have provided to us. However, please be aware that no method of electronic storage can ever be 100% secure. Therefore â€“ as is the case with any organization - we are not in a position to guarantee the absolute security of your information.
 
-You may submit any questions you may have about our security procedures by emailing us at david AT ppvplaybook.com
+You may submit any questions you may have about our security procedures by emailing us at david AT affplaybook.com
 
 Links to Other Websites
 
@@ -53,6 +51,6 @@ Contact Details
 
 If you have any questions or concerns regarding this privacy policy, or you wish to contact us by phone or email our contact information is as follows:
 
-david AT ppvplaybook.com
+david AT affplaybook.com
 
 This privacy policy was last updated on November 18 2009.
