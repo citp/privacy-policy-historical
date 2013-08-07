@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blueapron.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513122934id_/http%3A//www.blueapron.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blueapron.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807222714id_/http%3A//www.blueapron.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy - Blue Apron
 
