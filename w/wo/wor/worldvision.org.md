@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldvision.org privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624015509id_/http%3A//www.worldvision.org/content.nsf/pages/privacy-policy%3FOpen%26lpos%3Dbot_txt_PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldvision.org privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807071710id_/http%3A//www.worldvision.org/content.nsf/pages/privacy-policy%3FOpen%26lpos%3Dbot_txt_PrivacyPolicy) for the most accurate reproduction.*
 
 # World Vision - World Vision Privacy Policy
 
