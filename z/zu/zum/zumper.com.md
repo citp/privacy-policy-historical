@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zumper.com privacy policy that was archived on 2013-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130404024102id_/https%3A//www.zumper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zumper.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807224554id_/https%3A//www.zumper.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Zumper
 
