@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pussybook.org privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522114700id_/http%3A//www.pussybook.org/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pussybook.org privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807040651id_/http%3A//www.pussybook.org/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
