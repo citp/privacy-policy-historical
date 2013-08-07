@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixiemarket.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628072852id_/http%3A//www.pixiemarket.com/privacy_notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixiemarket.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807095201id_/http%3A//www.pixiemarket.com/privacy_notice) for the most accurate reproduction.*
 
 # Privacy notice - Shop the latest Fashion Trends
 
