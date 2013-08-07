@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the precisionroller.com privacy policy that was archived on 2013-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130415043645id_/https%3A//secure.precisionroller.com/policies.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the precisionroller.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807160639id_/https%3A//secure.precisionroller.com/policies.php) for the most accurate reproduction.*
 
 # Security And Privacy Policies | Precision Roller
 
-|  |  | [](https://server.iad.liveperson.net/hc/46343922/?cmd=file&file=visitorWantsToChat&site=46343922&byhref=1&SESSIONVAR!skill=Assistance&imageUrl=https://secure.precisionroller.com/images/liveperson)  
+|  |  |   
 ---  
   
 [**Browse Our Catalog** Parts and Supplies](https://web.archive.org/catalog_display.php)  
@@ -11,16 +11,17 @@
 [ **Customer Reviews** Read Google Reviews ](http://www.google.com/products/seller?cmi=62981090506440704&zmi=precisionroller.com&hl=en)  
 [ **100% Guaranteed!** Up to 1 Year! ](http://www.precisionroller.com/30-day-guarantee.php)  
 [ **Free Shipping!** On Orders Over $75 ](http://www.precisionroller.com/faq-shipping.php)  
-[ **Dealer Pricing** 2013 Dealer Catalog ](http://www.precisionroller.com/qualified-customer-pricing.php)  
+[ **Closeout Specials** Last Chance Corner NEW! ](http://www.precisionroller.com/last-chance.php)  
 [ **Se Habla Español** Presione Aqui... ](http://www.precisionroller.com/se-habla-espanol.php)  
 [ ](https://web.archive.org/security-trust.php)  
+[ ](https://www.resellerratings.com/)  
 [ **C.O.D. Available** Click Here For Details ](http://www.precisionroller.com/faq-cod-payment.php)  
 ---  
 [
 
 ##### Toner Cartridges
 
-](http://www.precisionroller.com/category/toner_cartridges.htm)  
+](http://www.precisionroller.com/category/toner-cartridges.htm)  
 [
 
 ##### Ink Cartridges
@@ -30,12 +31,12 @@
 
 ##### Maintenance Kits
 
-](http://www.precisionroller.com/category/maintenance_kits.htm)  
+](http://www.precisionroller.com/category/maintenance-kits.htm)  
 [
 
 ##### Print Heads
 
-](http://www.precisionroller.com/category/print_heads.htm)  
+](http://www.precisionroller.com/category/print-heads.htm)  
 [
 
 ##### Cables
