@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotnewsonglyrics.co privacy policy that was archived on 2013-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130125203745id_/http%3A//www.hotnewsonglyrics.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotnewsonglyrics.co privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807173718id_/http%3A//www.hotnewsonglyrics.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy @ HotNewSongLyrics.co
 
@@ -36,4 +36,6 @@ If you have any questions about this privacy statement, the practices of this si
 
 All lyrics are property and copyright of their owners and provided for educational purposes only.
 
-Rating: 0.0/ **10** (0 votes cast)
+Rating: 4.0/ **10** (1 vote cast)
+
+Privacy Policy, 4.0 out of 10 based on 1 rating 
