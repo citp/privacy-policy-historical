@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extreme-seo.net privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524095723id_/http%3A//www.extreme-seo.net/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extreme-seo.net privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807045549id_/http%3A//www.extreme-seo.net/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Extreme Seo Internet Solution Privacy Policy
 
@@ -61,22 +61,20 @@ The privacy online policy is applicable only to the information that are collect
 
 Kindly please visit our section of Terms and Conditions where there is mentioned the disclaimers, use and the limitations of responsibility regarding the usage of our web site <http://www.extreme-seo.net/terms-of-service.php>.
 
-**Your Consent**
-
+**Your Consent**  :  
 If you use our web site, you are consenting to the privacy online policy.
 
-**Changes to our Privacy Policy**
+**Changes to our Privacy Policy:**
 
-If there is any changes made to our privacy policies, we would be updating the date of the modification of the privacy policy at the end of the page.
+** ** If there is any changes made to our privacy policies, we would be updating the date of the modification of the privacy policy at the end of the page.
 
-This Privacy Policy was last modified on 29-May-2011
+**Contacting Us**  :  
+If there are any questions regarding this (our ) Privacy Policy you may contact us using the information below.
 
- **Contacting Us**
-
-If there are any questions regarding this (our ) Privacy Policy you may contact us using the information below. 
-
-Shree Vengadeshwara Networks (P) LTD  
+ **Shree Vengadeshwara Networks (P) LTD**  
 196,1st Lane,Goodshed Road  
 Vavuniya, NP 43000,Srilanka.  
 Email : support@extreme-seo.net  
-Ph: 0094242225992 
+Ph: 0094242225992 Fax : 0094242226671
+
+This Privacy Policy was last modified on 29-May-2011
