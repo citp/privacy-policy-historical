@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the massagem4m.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501083050id_/http%3A//www.massagem4m.com/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massagem4m.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807023028id_/http%3A//www.massagem4m.com/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy | MassageM4M.com
 
@@ -19,6 +19,13 @@ Share:
 
 
 ### Most Popular Private Photos
+
+**Ricardo**  
+Orlando
+
+[](http://www.massagem4m.com/privatephotos/?display=random&ppselect=14973)
+
+[](http://www.massagem4m.com/masseur_viewlockphotos.cfm?id=14973 "Private Photos")
 
 [](http://www.massagem4m.com/male-massage-maps/all.cfm)
 
@@ -120,6 +127,32 @@ Customer Care - Privacy Policy Issues
 Suite 978  
 Beverly Hills, CA 90212  
 
+
+### You recently viewed these masseurs
+
+Nikko
+
+[](http://www.massagem4m.com/ny/new-york-city/13796/)
+
+Carlo
+
+[](http://www.massagem4m.com/ga/atlanta/16731/)
+
+Eric
+
+[](http://www.massagem4m.com/ny/new-york-city/13823/)
+
+Jacob
+
+[](http://www.massagem4m.com/tx/houston/15751/)
+
+Valentim
+
+[](http://www.massagem4m.com/ny/new-york-city/16776/)
+
+Edin Sol
+
+[](http://www.massagem4m.com/ny/new-york-city/13674/)
 
 ### Important Notice: You must be 18 years or older to use this website. If you are under 18 years old, please close this window.
 
