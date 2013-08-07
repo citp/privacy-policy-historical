@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getpocketbook.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528095935id_/https%3A//getpocketbook.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getpocketbook.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808011406id_/https%3A//getpocketbook.com/privacy) for the most accurate reproduction.*
 
 # Privacy and Security - Pocketbook | getpocketbook.com
 
