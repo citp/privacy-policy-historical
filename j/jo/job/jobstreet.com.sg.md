@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobstreet.com.sg privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530172302id_/http%3A//www.jobstreet.com.sg/aboutus/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobstreet.com.sg privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807044641id_/http%3A//www.jobstreet.com.sg/aboutus/privacy_policy.htm) for the most accurate reproduction.*
 
 # JobStreet.com - Privacy Policy
 
