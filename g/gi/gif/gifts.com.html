@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gifts.com privacy policy that was archived on 2013-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130630141624id_/http%3A//www.gifts.com/company/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gifts.com privacy policy that was archived on 2013-08-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130807021451id_/http%3A//www.gifts.com/company/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
@@ -24,7 +24,7 @@
 
     <link rel="alternate" type="text/xml" title="Gifts.com RSS .92" href="http://blog.gifts.com/feed/rss/">
 	<link rel="alternate" type="application/rss+xml" title="Gifts.com RSS 2.0" href="http://blog.gifts.com/feed/">
-	
+
     <meta id="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=10.0">
     
     <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-55NF"></script><script>
@@ -32,12 +32,14 @@ var surveyUrl='/surveys/NPS1';
 var enableCTMSurvey=1;
 var enableExitSurvey=1;
 </script>
-<link rel="stylesheet" href="http://webcache.gifts.com/html/css/global.csx?346">
-    <script src="http://webcache.gifts.com/html/js/consolidate.jsx?script=jquery-latest.js|modernizr.custom.js|jquery.elastislide.js|jquery-cookie.js|global.js?346"></script>
+<link rel="stylesheet" href="http://webcache.gifts.com/html/css/global.csx?353">
+    <script src="http://webcache.gifts.com/html/js/consolidate.jsx?script=jquery-latest.js|modernizr.custom.js|jquery.elastislide.js|jquery-cookie.js|global.js?353"></script>
     
     <!--[if lte IE 9]><script src="http://webcache.gifts.com/html/js/jquery.columnizer.js"></script> <![endif]--> 
     <!--[if lt IE 9]><script src="http://webcache.gifts.com/html/js/respond.src.js"></script><![endif]--> 
-    
+  
+<script src="http://webcache.gifts.com/html/js/jquery.fancybox.pack.js?353"></script>
+<link rel="stylesheet" href="http://webcache.gifts.com/html/css/fancyboxBeta.csx?353">  
                  
     <script type="text/javascript">
         $.cookie("non_hp_cook", "googs", { path: '/', expires: 30});
@@ -53,21 +55,11 @@ var enableExitSurvey=1;
          $('#fbUserFriends').slideToggle();
 
        }
-      
-    $(function(){        
-        
-        $('.es-carousel-wrapper').elastislide();
-        
-        $('.ppSection').find('.es-carousel-wrapper').elastislide({
-            imageW: 140
-        
-        });
-        
-        $('.doorwayPage section').find('.es-carousel-wrapper').elastislide({
-            margin: 22
-        });
-        
-        
+    
+    $(function(){   
+    
+        $('.es-carousel-wrapper').elastislide();      
+                                      
         $('.hdrPromo').hover(
             function(){
                 $('#hdrPromoPrizes').show('fast',function(){
@@ -87,7 +79,8 @@ var enableExitSurvey=1;
                             
                         
     });
-      
+   
+
    
     var mobile_timer = false;
     if(navigator.userAgent.match(/iPhone/i)) {
@@ -100,13 +93,293 @@ var enableExitSurvey=1;
             mobile_timer = setTimeout(function () {
                 $('#viewport').attr('content','width=device-width,minimum-scale=1.0,maximum-scale=1.0,initial-scale=1.0');
             },1000);
+            
         });
     }
-                
-   
     
-       
+    $.fn.highlight = function (str, className) {
+        var regex = new RegExp("\\b"+str+"\\b", "gi");
 
+        return this.each(function () {
+            this.innerHTML = this.innerHTML.replace(regex, function(matched) {return "<span class=\"" + className + "\">" + matched + "</span>";});
+        });
+    };
+     
+             
+    
+    function autoSuggest(val) {
+    	
+        
+    	if(val.length < 3){
+    		$('.sasiCont').hide();
+    		return;
+    	}
+    	
+        $.get('/autosuggest', {
+            key : val
+        }, function(data) {
+            var jsonData = JSON.parse(data);
+            var jsonDataInnerGlist = jsonData["autoGlistSuggest"]; 
+            var jsonDataInnerSkey = jsonData["autoSkeySuggest"]; 
+            var jsonDataInner = jsonData["results"];  
+            $('.sasiResultsSkey').empty();
+            $('.sasiResultsGlist').empty();
+            $('.sasiCont').hide();
+            
+            if(jsonDataInner.length > 0) {
+            	$('.sasiCont').show();
+	            if(jsonDataInnerSkey.length >0){
+
+		                $.each(jsonDataInnerSkey, function(i){
+		                    $('.sasiCont .sasiContSkey .sasiResultsSkey').append('<a href="'+jsonDataInnerSkey[i].url+'" onclick="linkCode(this,\''+jsonDataInnerSkey[i].title+ ': autosuggest\')">'+jsonDataInnerSkey[i].title+'</a>');                                 
+		                });
+
+		                $('.sasiContSkey').show();
+
+	            }
+	            else{
+	                $('.sasiContSkey').hide();
+	            }
+
+	            if(jsonDataInnerGlist.length >0){
+
+		                $.each(jsonDataInnerGlist, function(i){
+		                    $('.sasiCont .sasiContGlist .sasiResultsGlist').append('<a href="'+jsonDataInnerGlist[i].url+'" onclick="linkCode(this,\''+jsonDataInnerGlist[i].title+ ': autosuggest\')">'+jsonDataInnerGlist[i].title+'</a>');                                 
+		                });
+
+		                $('.sasiContGlist').show();
+
+	            }
+	            else{
+	                $('.sasiContGlist').hide();
+	            }
+
+	            // Code for highlighting below (comment out if you don't want)
+
+	            $('div.sasiResultsSkey a').highlight(val, "sasiHighLight");
+	            $('div.sasiResultsGlist a').highlight(val, "sasiHighLight");
+
+            }else {
+            	$('.sasiCont').hide();
+            }
+        });
+        
+    }
+    
+    
+    // TEST WISH LIST ACTIONS
+    function reloadPage(){
+    	window.location.reload();
+    }
+    
+    function connect(){
+    	 width = '580';
+         height= '280';
+         leftPosition = (window.screen.width / 2) - ((width / 2) + 10);
+         topPosition = (window.screen.height / 2) - ((height / 2) + 50);
+         window.showModalDialog('/facebook?redirect=/facebook/success','fblwin', 'dialogwidth: '+width+'; dialogheight: '+height+'; dialogleft:'+leftPosition+'; dialogtop:'+topPosition+'; resizable: no;'); 
+    }
+    
+    function connectMe(){
+        connect();
+        reloadPage();
+    }
+    
+    function connectAndSave(thisProd){
+    	connect(); 
+    	wishListSave(thisProd,'saveProd');
+    }
+    
+    $(function(){
+                   
+        //FB Login
+        $('.btnFB').hover(function(e){
+            e.preventPropagation();
+            $(this).next('#fbLoginCont').toggle();
+        });
+ 
+        $('.btnFB').click(function(){
+            connectMe();  
+        });
+        
+        $('#header .search #fbUserCont').hover(function(){
+            $(this).find('#acctOptions').toggle();
+            if($('#acctOptions').is(':visible')){
+                $(this).css('background-color','#fff');
+            }
+            else {
+                 $(this).css('background-color','');
+            }    
+        });
+        
+        $('.saveProdOff, .saveProdOn').hover(function(){
+            
+           //if(!$(this).parents('#srpOrg')){ 
+                var $ul = $('#srpTable #srpProd');
+                var $ulW = $ul.width();
+                var $liW = $ul.find('li').outerWidth(true);
+                var $lastItem = parseInt($ulW / $liW);
+                
+                $ul.find('li').each(function(index) { 
+                    $(this).find('.wishlistCont').removeClass('wishlistContRev');
+                    
+                    if(index%$lastItem==0){
+                        
+                        $(this).find('.wishlistCont').addClass('wishlistContRev');
+               
+                    }
+                   
+                }); 
+           // } 
+            $(this).next('.wishlistCont').toggle();
+            $('.saveProdOff').next('.wishlistCont').html('<b>Add</b> to<br/>My Gift List');    
+            $('.saveProdOn').next('.wishlistCont').html('<b>Remove</b> from<br/>My Gift List');  
+        
+        });
+                     
+
+         
+                $(document).on("click", ".saveProdOff", function(){ 
+                    var thisProd = $(this).attr('id');
+                    var content =  $('#fbConnect').html();                       
+                    $.fancybox({
+                        width           : '545',
+                        height          : '245',
+                        autoScale       : false,  
+                        padding         : 0,
+                        scrolling       : 'no',
+                        openEffect      : 'elastic',
+                        closeEffect     : 'elastic',
+                        content         : content,
+                        closeBtn        : false,
+                        afterShow       :function(){
+                            
+                            this.inner.find('#btnFBConnect').on('click',function(){                
+                                connectAndSave(thisProd);
+                            });
+                            
+                        }
+                    });
+                                                
+                });
+                
+                $('.privateWishList #btnFBConnect').on('click',function(){
+                    connectMe();
+                    window.location.href='/secure/userwishlist/view';   
+                })
+              
+          
+         
+         
+         $(document).on("click", ".saveProdOn", function(){ 
+                var $this = $(this);
+                var thisProd = $this.attr('id');
+                wishList(thisProd,'deleteProd');                
+           });
+        
+    });
+    
+    function wishListSave(prodID,action, refresh) {
+        //to save a product	
+        if(action == "saveProd"){
+              $.post('/secure/userwishlist/save/default', {
+                productId : prodID
+               // wishListNames: ['test3']
+            }, function(data) {
+            	
+            	if(data == "SUCCESS") {
+            	
+            		 //console.log('TEST:' + data);
+                    $('#'+prodID).removeClass().addClass('saveProdOn'); 
+                    if($('#'+prodID).next('div').hasClass('wishlistContRev')){               
+                        $('#'+prodID).next('.wishlistCont').addClass('wishlistContOn wishlistContRevOn').empty().html('<span class="check"></span><span class="txt"><b>Added</b> to<br/>My Gift List</span>');
+                    }
+                    else{
+                        $('#'+prodID).next('.wishlistCont').addClass('wishlistContOn').empty().html('<span class="check"></span><span class="txt"><b>Added</b> to<br/>My Gift List</span>');
+                    }
+                    
+                    if($('#'+prodID).next('.wishlistContOn').not(':visible')){
+                        $('#'+prodID).next('.wishlistContOn').show();
+                        setTimeout(function() {                       
+                            $('#'+prodID).next('.wishlistCont').removeClass('wishlistContOn').hide();
+                         },1000);
+                     }
+                    reloadPage();
+            	}
+
+            }); 
+             
+           
+        } 
+    }
+    
+    function wishList(prodID,action) {
+        //to save a product	
+        if(action == "saveProd"){
+              $.post('/secure/userwishlist/save/default', {
+                productId : prodID
+               // wishListNames: ['test3']
+            }, function(data) {
+
+            	if(data == "SUCCESS") {
+            	
+            		 //console.log('TEST:' + data);
+                    $('#'+prodID).removeClass().addClass('saveProdOn'); 
+                    if($('#'+prodID).next('div').hasClass('wishlistContRev')){               
+                        $('#'+prodID).next('.wishlistCont').addClass('wishlistContOn wishlistContRevOn').empty().html('<span class="check"></span><span class="txt"><b>Added</b> to<br/>My Gift List</span>');
+                    }
+                    else{
+                        $('#'+prodID).next('.wishlistCont').addClass('wishlistContOn').empty().html('<span class="check"></span><span class="txt"><b>Added</b> to<br/>My Gift List</span>');
+                    }
+                    
+                    if($('#'+prodID).next('.wishlistContOn').not(':visible')){
+                        $('#'+prodID).next('.wishlistContOn').show();
+                        setTimeout(function() {                       
+                            $('#'+prodID).next('.wishlistCont').removeClass('wishlistContOn').hide();
+                         },1000);
+                     }   
+                
+            	}
+
+            }); 
+           
+        }     
+              
+       //to delete a product
+       if(action == "deleteProd"){     
+            // to delete a product
+            $.post('/secure/userwishlist/delete/product/default', {
+                productId : prodID
+               // wishListNames: ['test3']
+            }, function(data) {
+               
+            	if(data == "SUCCESS") {
+            		
+	                $('#'+prodID).removeClass().addClass('saveProdOff');
+	                $('#'+prodID).next('.wishlistCont').empty().html('<b>Add</b> to<br/>My Gift List');
+	                
+            	}
+            }); 
+            
+        }
+         
+       //view wishlist page 
+        $.get('/secure/userwishlist/view', {
+        }, function(data) {
+            //console.log('TEST:' + data);
+        }); 
+     
+    }
+    
+    
+     
+    $(document).click(function() {
+          $('.sasiCont').hide();
+    });
+    
+    $('.sasiCont').click(function(e){
+          e.stopPropagation();
+    });           
    </script>
 
                                 
@@ -127,10 +400,18 @@ var enableExitSurvey=1;
         })(window,document,'script','dataLayer','GTM-55NF');</script>
     <!-- End Google Tag Manager -->
 	<div id="fb-root"></div>
+
+<div id="fbConnect" style="position:absolute;display:none;">
+    <div style="position:relative;width:545px;height:245px;border:1px solid #8a8a8a">
+        <div style="font-weight:bold;font-size:18px;font-size:1.125rem;color:#444;height:50px;line-height:50px;background-color:#f4f3f3;text-align:center;">Create an account<div style="position:absolute;top:0;right:20px;font-size:20px;font-weight:normal"><a href="javascript:parent.$.fancybox.close();" style="color:#898989;text-decoration:none;">X</a></div></div>
+        <div style="font-size:16px;font-size:1.0rem;color:#444;padding:30px;">You're about to become a gift-giving wiz capable of making your own Private Gift Lists.</div>
+        <button id="btnFBConnect" style="display:block;margin:0 auto;box-shadow:none;width:340px;height:53px;background:url('http://images.gifts.com/images/fbConnect.png') no-repeat top left;"></button>  
+    </div>
+</div>
     
     <div id="outerWrap">
         <div id="leaderboard" align="center">
-                <iframe src="http://ad.doubleclick.net/N5480/adi/5480.iac.gifts/company;sz=728x90;tile=1;pos=topleader;s=gi;ord=42039933?" width="728" height="90" name="adcall" class="adCallIframe" hspace="0" vspace="0" frameborder="0" allowtransparency="true" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+                <iframe src="http://ad.doubleclick.net/N5480/adi/5480.iac.gifts/company;sz=728x90;tile=1;pos=topleader;s=gi;ord=39987244?" width="728" height="90" name="adcall" class="adCallIframe" hspace="0" vspace="0" frameborder="0" allowtransparency="true" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 </div>
         <div class="pageWrap">            
             <div class="pageWrapInner">                                
@@ -400,11 +681,31 @@ var enableExitSurvey=1;
                     <td>        
                        <form name="keyword_site_search" id="keyword_site_search" action="http://search.gifts.com/find" method="GET" onsubmit="javascript:linkCode(this,'HD: Search Box');">
                             <span>Search for Gifts</span>
-                            <input type="text" name="keyword" onclick="this.value='';">                            
+                                    <input type="text" name="keyword" id="keyword" onclick="this.value='';" onkeyup="autoSuggest(this.value);" autocomplete="off">
+                                    <div class="sasiCont">
+                                        <div class="sasiContSkey">
+                                            <div class="sasiTitleSkey">Suggested Categories</div>
+                                            <div class="sasiResultsSkey"></div>
+                                        </div>
+                                        <div class="sasiContGlist">
+                                            <div class="sasiTitleGlist">Related Gift Lists</div>
+                                            <div class="sasiResultsGlist"></div>
+                                        </div>
+                                    </div>
                             <button type="submit" value="" class="btnFind">FIND NOW</button>                                           
                         </form>
                     </td>
-                    <td style="border-left:1px solid #d9d9d9;"><div class="icnFB" title="Like Us on Facebook"><a href="http://www.facebook.com/pages/Giftscom/5730173887" target="_blank" onclick="linkCode(this,'HD: Facebook: Icon')"></a></div></td>
+                    
+                   
+                    <!--  	<td style="border-left:1px solid #d9d9d9;"><div class="icnFB" title="Like Us on Facebook"><a href="http://www.facebook.com/pages/Giftscom/5730173887" target="_blank" onclick="linkCode(this,'HD: Facebook: Icon')"></a></div></td> --> 
+ 
+                    <td style="border-left:1px solid #d9d9d9;">
+	                        <form action="/reg/public/login_reg" method="POST">
+	                                <input type="button" class="btnFB" value="">
+	                                <input type="hidden" name="scope" value="email,publish_stream,offline_access">
+	                                <div id="fbLoginCont">Login to your Gifts.com account to view your Gift List.</div>		    
+	                            </form>
+							</td>
                     </tr>
             </tbody></table>
             <div class="clear"></div> 
@@ -426,35 +727,41 @@ var enableExitSurvey=1;
                         <div class="navDropInner">
                             
                             <div class="col">  
-                                <div class="hdr">Occasion</div>
-                                                                                                                                                                                 
-                                <a href="/birthday/man/NwxRkV" onclick="linkCode(this,'HD: Men: Occasion - Birthday')">Birthday</a>                                                       
-                                <a href="/ideas/graduation" onclick="linkCode(this,'HD: Men: Occasion - Graduation')">Graduation</a>                                                       
-                                <a href="/anniversary/man/ob6RkV" onclick="linkCode(this,'HD: Men: Occasion - Anniversary')">Anniversary</a>                                                       
-                                <a href="/ideas/wedding" onclick="linkCode(this,'HD: Men: Occasion - Wedding')">Wedding</a>                                                       
-                                <a href="/categories/groomsmen-gifts/bmz" onclick="linkCode(this,'HD: Men: Occasion - Groomsmen')">Groomsmen</a>                                                       
-                                </div>
-                            
+                                    <div class="hdr">Occasion</div>
+                                                                                                                                                                                     
+                                    <a href="/giftlists/gifts-for-leo-men?glid=21655" onclick="linkCode(this,'HD: Men: Occasion - Birthday Gifts for Leo')">Birthday Gifts for Leo</a>                                                       
+                                    <a href="/birthday/man/NwxRkV" onclick="linkCode(this,'HD: Men: Occasion - Birthday')">Birthday</a>                                                       
+                                    <a href="/ideas/graduation" onclick="linkCode(this,'HD: Men: Occasion - Graduation')">Graduation</a>                                                       
+                                    <a href="/anniversary/man/ob6RkV" onclick="linkCode(this,'HD: Men: Occasion - Anniversary')">Anniversary</a>                                                       
+                                    <a href="/ideas/wedding" onclick="linkCode(this,'HD: Men: Occasion - Wedding')">Wedding</a>                                                       
+                                    <a href="/categories/groomsmen-gifts/bmz" onclick="linkCode(this,'HD: Men: Occasion - Groomsmen')">Groomsmen</a>                                                       
+                                    </div>
                             <div class="col">
-                                <div class="hdr">Relationship</div>
-                                                                          
-                                <a href="/categories/gifts-for-dad/3hV" onclick="linkCode(this,'HD: Men: Relationship - Dad')">Dad</a>                                                      
-                                <a href="/categories/for-your-husband/p47" onclick="linkCode(this,'HD: Men: Relationship - Husband')">Husband</a>                                                      
-                                <a href="/categories/boyfriend-gifts/man/XDMRkV" onclick="linkCode(this,'HD: Men: Relationship - Boyfriend')">Boyfriend</a>                                                      
-                                </div>
-                                                                        
+                                    <div class="hdr">Relationship</div>
+                                                                              
+                                    <a href="/categories/gifts-for-dad/3hV" onclick="linkCode(this,'HD: Men: Relationship - Dad')">Dad</a>                                                      
+                                    <a href="/categories/for-your-husband/p47" onclick="linkCode(this,'HD: Men: Relationship - Husband')">Husband</a>                                                      
+                                    <a href="/categories/boyfriend-gifts/man/XDMRkV" onclick="linkCode(this,'HD: Men: Relationship - Boyfriend')">Boyfriend</a>                                                      
+                                    </div>
                             <div class="col">
-                                <div class="hdr">Personality</div>
-
-                                <a href="/recipient/man/fitness-health-nut/RkVBkJ" onclick="linkCode(this,'HD: Men: Personality - Fitness and Health Nut')">Fitness and Health Nut</a>                                                      
-                                <a href="/recipient/man/geek/RkVW1p" onclick="linkCode(this,'HD: Men: Personality - Geek')">Geek</a>                                                      
-                                <a href="/recipient/man/sports-fan/RkV6jn" onclick="linkCode(this,'HD: Men: Personality - Sports Fan')">Sports Fan</a>                                                      
-                                <a href="/recipient/man/creative-thinker/RkVWcJ" onclick="linkCode(this,'HD: Men: Personality - Creative thinker')">Creative thinker</a>                                                      
-                                <a href="/recipient/man/do-it-yourselfer/RkVq33" onclick="linkCode(this,'HD: Men: Personality - Do-it-yourselfer')">Do-it-yourselfer</a>                                                      
-                                <a href="/recipient/man/guys-guy/RkV6nI" onclick="linkCode(this,'HD: Men: Personality - Guys Guy')">Guy’s Guy</a>                                                      
-                                <a href="/personality/men" onclick="linkCode(this,'HD: Men: Personality - See All »')">See All »</a>                                                      
-                                </div>
-                           
+                                    <div class="hdr">Personality</div>
+    
+                                    <a href="/recipient/man/fitness-health-nut/RkVBkJ" onclick="linkCode(this,'HD: Men: Personality - Fitness and Health Nut')">Fitness and Health Nut</a>                                                      
+                                    <a href="/recipient/man/geek/RkVW1p" onclick="linkCode(this,'HD: Men: Personality - Geek')">Geek</a>                                                      
+                                    <a href="/recipient/man/sports-fan/RkV6jn" onclick="linkCode(this,'HD: Men: Personality - Sports Fan')">Sports Fan</a>                                                      
+                                    <a href="/recipient/man/creative-thinker/RkVWcJ" onclick="linkCode(this,'HD: Men: Personality - Creative thinker')">Creative thinker</a>                                                      
+                                    <a href="/recipient/man/do-it-yourselfer/RkVq33" onclick="linkCode(this,'HD: Men: Personality - Do-it-yourselfer')">Do-it-yourselfer</a>                                                      
+                                    <a href="/recipient/man/guys-guy/RkV6nI" onclick="linkCode(this,'HD: Men: Personality - Guys Guy')">Guy’s Guy</a>                                                      
+                                    <a href="/personality/men" onclick="linkCode(this,'HD: Men: Personality - See All »')">See All »</a>                                                      
+                                    </div>
+                            <div class="col">
+                                    <div class="hdr">Expert Gift Lists</div>
+    
+                                    <a href="/giftlists/our-top-10-gifts-for-him?glid=21611" onclick="linkCode(this,'HD: Men: Expert Gift Lists - Top 10 Gifts for Men')">Top 10 Gifts for Men</a>                                                      
+                                    <a href="/giftlists/top-gifts-for-your-husband?glid=21865" onclick="linkCode(this,'HD: Men: Expert Gift Lists - Top Husband Gifts')">Top Husband Gifts</a>                                                      
+                                    <a href="/giftlists/dan-tower-favorite-gift-picks?glid=24363" onclick="linkCode(this,'HD: Men: Expert Gift Lists - Dan Tower's Favorite Things')">Dan Tower's Favorite Things</a>                                                      
+                                    <a href="/giftlists/7-gifts-dad-does-not-have?glid=24225" onclick="linkCode(this,'HD: Men: Expert Gift Lists - 7 Gifts Dad Doesn't Have')">7 Gifts Dad Doesn't Have</a>                                                      
+                                    </div>
                             <div class="clear"></div>                           
                             <div class="hor"></div>
                                                       
@@ -467,36 +774,43 @@ var enableExitSurvey=1;
                     <a href="/ideas/her" onclick="linkCode(this,'HD: Women: Button')" class="label ">Women</a>
                     <div class="navDrop">
                         <div class="navDropInner">
+                        
                             <div class="col">
-                                <div class="hdr">Occasion</div>                                                                                                                                                    
-                                 
-                                <a href="/birthday/woman/NwxyuP" onclick="linkCode(this,'HD: Women: Occasion - Birthday')">Birthday</a>                                                       
-                                <a href="/ideas/graduation" onclick="linkCode(this,'HD: Women: Occasion - Graduation')">Graduation</a>                                                       
-                                <a href="/anniversary/woman/ob6yuP" onclick="linkCode(this,'HD: Women: Occasion - Anniversary')">Anniversary</a>                                                       
-                                <a href="/ideas/wedding" onclick="linkCode(this,'HD: Women: Occasion - Wedding')">Wedding</a>                                                       
-                                <a href="/occasion/bridal-shower/woman/RxpyuP" onclick="linkCode(this,'HD: Women: Occasion - Bridal Shower')">Bridal Shower</a>                                                       
-                                </div>                                            
-                            
+                                    <div class="hdr">Occasion</div>                                                                                                                                                    
+                                     
+                                    <a href="/giftlists/gifts-for-leo-women?glid=21653" onclick="linkCode(this,'HD: Women: Occasion - Birthday Gifts for Leo')">Birthday Gifts for Leo</a>                                                       
+                                    <a href="/birthday/woman/NwxyuP" onclick="linkCode(this,'HD: Women: Occasion - Birthday')">Birthday</a>                                                       
+                                    <a href="/ideas/graduation" onclick="linkCode(this,'HD: Women: Occasion - Graduation')">Graduation</a>                                                       
+                                    <a href="/anniversary/woman/ob6yuP" onclick="linkCode(this,'HD: Women: Occasion - Anniversary')">Anniversary</a>                                                       
+                                    <a href="/ideas/wedding" onclick="linkCode(this,'HD: Women: Occasion - Wedding')">Wedding</a>                                                       
+                                    <a href="/occasion/bridal-shower/woman/RxpyuP" onclick="linkCode(this,'HD: Women: Occasion - Bridal Shower')">Bridal Shower</a>                                                       
+                                    </div>                                            
                             <div class="col">
-                                <div class="hdr">Relationship</div>
-                                 
-                                <a href="/categories/gifts-for-mom/t0N" onclick="linkCode(this,'HD: Women: Relationship - Mom')">Mom</a>                                                       
-                                <a href="/categories/for-your-wife/pxW" onclick="linkCode(this,'HD: Women: Relationship - Wife')">Wife</a>                                                       
-                                <a href="/categories/girlfriend-gifts/woman/s1qyuP" onclick="linkCode(this,'HD: Women: Relationship - Girlfriend')">Girlfriend</a>                                                       
-                                </div>
-                                                                
+                                    <div class="hdr">Relationship</div>
+                                     
+                                    <a href="/categories/gifts-for-mom/t0N" onclick="linkCode(this,'HD: Women: Relationship - Mom')">Mom</a>                                                       
+                                    <a href="/categories/for-your-wife/pxW" onclick="linkCode(this,'HD: Women: Relationship - Wife')">Wife</a>                                                       
+                                    <a href="/categories/girlfriend-gifts/woman/s1qyuP" onclick="linkCode(this,'HD: Women: Relationship - Girlfriend')">Girlfriend</a>                                                       
+                                    </div>
                             <div class="col">                                            
-                                <div class="hdr">Personality</div>
-                                 
-                                <a href="/recipient/woman/creative-thinker/yuPWcJ" onclick="linkCode(this,'HD: Women: Personality - Creative Thinker')">Creative Thinker</a>                                                       
-                                <a href="/recipient/woman/do-it-yourselfer/yuPq33" onclick="linkCode(this,'HD: Women: Personality - Do-it-Yourselfer')">Do-it-Yourselfer</a>                                                       
-                                <a href="/recipient/woman/hostess/yuP1MU" onclick="linkCode(this,'HD: Women: Personality - Hostess')">Hostess</a>                                                       
-                                <a href="/recipient/woman/fitness-health-nut/yuPBkJ" onclick="linkCode(this,'HD: Women: Personality - Fitness and Health Nut')">Fitness and Health Nut</a>                                                       
-                                <a href="/recipient/woman/trendanista/yuPNZO" onclick="linkCode(this,'HD: Women: Personality - Trendanista')">Trendanista</a>                                                       
-                                <a href="/recipient/woman/professional/yuP1xH" onclick="linkCode(this,'HD: Women: Personality - Professional')">Professional</a>                                                       
-                                <a href="/personality/women" onclick="linkCode(this,'HD: Women: Personality - See All »')">See All »</a>                                                       
-                                </div>
-                            
+                                    <div class="hdr">Personality</div>
+                                     
+                                    <a href="/recipient/woman/creative-thinker/yuPWcJ" onclick="linkCode(this,'HD: Women: Personality - Creative Thinker')">Creative Thinker</a>                                                       
+                                    <a href="/recipient/woman/do-it-yourselfer/yuPq33" onclick="linkCode(this,'HD: Women: Personality - Do-it-Yourselfer')">Do-it-Yourselfer</a>                                                       
+                                    <a href="/recipient/woman/hostess/yuP1MU" onclick="linkCode(this,'HD: Women: Personality - Hostess')">Hostess</a>                                                       
+                                    <a href="/recipient/woman/fitness-health-nut/yuPBkJ" onclick="linkCode(this,'HD: Women: Personality - Fitness and Health Nut')">Fitness and Health Nut</a>                                                       
+                                    <a href="/recipient/woman/trendanista/yuPNZO" onclick="linkCode(this,'HD: Women: Personality - Trendanista')">Trendanista</a>                                                       
+                                    <a href="/recipient/woman/professional/yuP1xH" onclick="linkCode(this,'HD: Women: Personality - Professional')">Professional</a>                                                       
+                                    <a href="/personality/women" onclick="linkCode(this,'HD: Women: Personality - See All »')">See All »</a>                                                       
+                                    </div>
+                            <div class="col">                                            
+                                    <div class="hdr">Expert Gift Lists</div>
+                                     
+                                    <a href="/giftlists/our-favorite-gifts-for-her?glid=21607" onclick="linkCode(this,'HD: Women: Expert Gift Lists - Top 10 Gifts for Women')">Top 10 Gifts for Women</a>                                                       
+                                    <a href="/giftlists/birthday-favorites-for-women?glid=23959" onclick="linkCode(this,'HD: Women: Expert Gift Lists - Birthday Favorites For Women')">Birthday Favorites For Women</a>                                                       
+                                    <a href="/giftlists/celebrity-gifts-that-give-back?glid=23817" onclick="linkCode(this,'HD: Women: Expert Gift Lists - Celebrity Gifts that Give Back')">Celebrity Gifts that Give Back</a>                                                       
+                                    <a href="/giftlists/top-gifts-for-your-wife?glid=21861" onclick="linkCode(this,'HD: Women: Expert Gift Lists - Top Gifts for Your Wife')">Top Gifts for Your Wife</a>                                                       
+                                    </div>
                             <div class="clear"></div>                                            
                             <div class="hor"></div>
                             
@@ -509,37 +823,35 @@ var enableExitSurvey=1;
                     <a href="/ideas/teens" onclick="linkCode(this,'HD: Teens: Button')" class="label ">Teens</a>
                     <div class="navDrop">
                         <div class="navDropInner">
-                            <div class="col">
-                                <div class="hdr">Relationship</div>
-                               
-                                <a href="/categories/gifts-for-sons/teen-guy/7tzw7z" onclick="linkCode(this,'HD: Teens: Relationship - Son')">Son</a>                                                    
-                                <a href="/categories/gifts-for-daughters/teen-girl/37WBQW" onclick="linkCode(this,'HD: Teens: Relationship - Daughter')">Daughter</a>                                                    
-                                </div>
-                           
-                            <div class="col">
-                                <div class="hdr">Personality: Teen Guys</div>
-                               
-                                <a href="/recipient/teen-guy/geek/w7zW1p" onclick="linkCode(this,'HD: Teens: Personality: Teen Guys - Geek')">Geek</a>                                                     
-                                <a href="/recipient/teen-guy/trend-setter/w7zNZO" onclick="linkCode(this,'HD: Teens: Personality: Teen Guys - Trend Setter')">Trend Setter</a>                                                     
-                                <a href="/recipient/teen-guy/x-treme-dude/w7zSR7" onclick="linkCode(this,'HD: Teens: Personality: Teen Guys - X-treme Dude')">X-treme Dude</a>                                                     
-                                <a href="/recipient/teen-guy/all-star-athlete/w7zqhU" onclick="linkCode(this,'HD: Teens: Personality: Teen Guys - All-Star Athlete')">All-Star Athlete</a>                                                     
-                                <a href="/recipient/teen-guy/creative-thinker/w7zWcJ" onclick="linkCode(this,'HD: Teens: Personality: Teen Guys - Creative Thinker')">Creative Thinker</a>                                                     
-                                <a href="/recipient/teen-guy/achiever/w7z0HJ" onclick="linkCode(this,'HD: Teens: Personality: Teen Guys - Achiever')">Achiever</a>                                                     
-                                <a href="/personality/teen-guys" onclick="linkCode(this,'HD: Teens: Personality: Teen Guys - See All »')">See All »</a>                                                     
-                                </div>
                             
                             <div class="col">
-                                <div class="hdr">Personality: Teen Girls</div>
-                               
-                                <a href="/recipient/teen-girl/trendanista/BQWNZO" onclick="linkCode(this,'HD: Teens: Personality: Teen Girls - Trendanista')">Trendanista</a>                                                     
-                                <a href="/recipient/teen-girl/creative-thinker/BQWWcJ" onclick="linkCode(this,'HD: Teens: Personality: Teen Girls - Creative Thinker')">Creative Thinker</a>                                                     
-                                <a href="/recipient/teen-girl/all-star-athlete/BQWqhU" onclick="linkCode(this,'HD: Teens: Personality: Teen Girls - All Star Athlete')">All Star Athlete</a>                                                     
-                                <a href="/recipient/teen-girl/achiever/BQW0HJ" onclick="linkCode(this,'HD: Teens: Personality: Teen Girls - Achiever')">Achiever</a>                                                     
-                                <a href="/recipient/teen-girl/geek/BQWW1p" onclick="linkCode(this,'HD: Teens: Personality: Teen Girls - Geek')">Geek</a>                                                     
-                                <a href="/recipient/teen-girl/x-treme-dudette/BQWSR7" onclick="linkCode(this,'HD: Teens: Personality: Teen Girls - X-treme Dudette')">X-treme Dudette</a>                                                     
-                                <a href="/personality/teen-girls" onclick="linkCode(this,'HD: Teens: Personality: Teen Girls - See All »')">See All »</a>                                                     
-                                </div>
-                            
+                                    <div class="hdr">Relationship</div>
+                                   
+                                    <a href="/categories/gifts-for-sons/teen-guy/7tzw7z" onclick="linkCode(this,'HD: Teens: Relationship - Son')">Son</a>                                                    
+                                    <a href="/categories/gifts-for-daughters/teen-girl/37WBQW" onclick="linkCode(this,'HD: Teens: Relationship - Daughter')">Daughter</a>                                                    
+                                    </div>
+                            <div class="col">
+                                    <div class="hdr">Personality: Teen Guys</div>
+                                   
+                                    <a href="/recipient/teen-guy/geek/w7zW1p" onclick="linkCode(this,'HD: Teens: Personality: Teen Guys - Geek')">Geek</a>                                                     
+                                    <a href="/recipient/teen-guy/trend-setter/w7zNZO" onclick="linkCode(this,'HD: Teens: Personality: Teen Guys - Trend Setter')">Trend Setter</a>                                                     
+                                    <a href="/recipient/teen-guy/x-treme-dude/w7zSR7" onclick="linkCode(this,'HD: Teens: Personality: Teen Guys - X-treme Dude')">X-treme Dude</a>                                                     
+                                    <a href="/recipient/teen-guy/all-star-athlete/w7zqhU" onclick="linkCode(this,'HD: Teens: Personality: Teen Guys - All-Star Athlete')">All-Star Athlete</a>                                                     
+                                    <a href="/recipient/teen-guy/creative-thinker/w7zWcJ" onclick="linkCode(this,'HD: Teens: Personality: Teen Guys - Creative Thinker')">Creative Thinker</a>                                                     
+                                    <a href="/recipient/teen-guy/achiever/w7z0HJ" onclick="linkCode(this,'HD: Teens: Personality: Teen Guys - Achiever')">Achiever</a>                                                     
+                                    <a href="/personality/teen-guys" onclick="linkCode(this,'HD: Teens: Personality: Teen Guys - See All »')">See All »</a>                                                     
+                                    </div>
+                            <div class="col">
+                                    <div class="hdr">Personality: Teen Girls</div>
+                                   
+                                    <a href="/recipient/teen-girl/trendanista/BQWNZO" onclick="linkCode(this,'HD: Teens: Personality: Teen Girls - Trendanista')">Trendanista</a>                                                     
+                                    <a href="/recipient/teen-girl/creative-thinker/BQWWcJ" onclick="linkCode(this,'HD: Teens: Personality: Teen Girls - Creative Thinker')">Creative Thinker</a>                                                     
+                                    <a href="/recipient/teen-girl/all-star-athlete/BQWqhU" onclick="linkCode(this,'HD: Teens: Personality: Teen Girls - All Star Athlete')">All Star Athlete</a>                                                     
+                                    <a href="/recipient/teen-girl/achiever/BQW0HJ" onclick="linkCode(this,'HD: Teens: Personality: Teen Girls - Achiever')">Achiever</a>                                                     
+                                    <a href="/recipient/teen-girl/geek/BQWW1p" onclick="linkCode(this,'HD: Teens: Personality: Teen Girls - Geek')">Geek</a>                                                     
+                                    <a href="/recipient/teen-girl/x-treme-dudette/BQWSR7" onclick="linkCode(this,'HD: Teens: Personality: Teen Girls - X-treme Dudette')">X-treme Dudette</a>                                                     
+                                    <a href="/personality/teen-girls" onclick="linkCode(this,'HD: Teens: Personality: Teen Girls - See All »')">See All »</a>                                                     
+                                    </div>
                             <div class="clear"></div>                                            
                             <div class="hor"></div>                                    
                             
@@ -552,45 +864,42 @@ var enableExitSurvey=1;
                     <a href="/ideas/children" onclick="linkCode(this,'HD: Kids: Button')" class="label ">Kids</a>
                     <div class="navDrop">
                         <div class="navDropInner">
-                            <div class="col">
-                                <div class="hdr">Age</div>                                            
-                                 
-                                <a href="/recipient/pre-school-2-5-girl/ZL0" onclick="linkCode(this,'HD: Kids: Age - Pre-School Girl')">Pre-School Girl</a>                                                      
-                                <a href="/recipient/pre-school-2-5-boy/pk3" onclick="linkCode(this,'HD: Kids: Age - Pre-School Boy')">Pre-School Boy</a>                                                      
-                                <a href="/recipient/grade-school-6-9-girl/dK9" onclick="linkCode(this,'HD: Kids: Age - Grade School Girl')">Grade School Girl</a>                                                      
-                                <a href="/recipient/grade-school-6-9-boy/pAe" onclick="linkCode(this,'HD: Kids: Age - Grade School Boy')">Grade School Boy</a>                                                      
-                                <a href="/recipient/tween-10-12-girl/xq4" onclick="linkCode(this,'HD: Kids: Age - Tween Girl')">Tween Girl</a>                                                      
-                                <a href="/recipient/tween-10-12-boy/raX" onclick="linkCode(this,'HD: Kids: Age - Tween Boy')">Tween Boy</a>                                                      
-                                </div>
-                           
-                            <div class="col">    
-                                <div class="hdr">Occasion</div>
                         
-                                <a href="/birthday/child/NwxhwX" onclick="linkCode(this,'HD: Kids: Occasion - Birthday')">Birthday</a>                                                      
-                                <a href="/ideas/graduation" onclick="linkCode(this,'HD: Kids: Occasion - Graduation')">Graduation</a>                                                      
-                                <a href="/occasion/communion/pfY" onclick="linkCode(this,'HD: Kids: Occasion - Communion')">Communion</a>                                                      
-                                </div>
-                                
-                            <div class="col">                                             
-                                <div class="hdr">Personality: Boys</div>                                            
-                                 
-                                <a href="/recipient/boy/wild-child/SAZkx1" onclick="linkCode(this,'HD: Kids: Personality: Boys - Wild Child')">Wild Child</a>                                                        
-                                <a href="/recipient/boy/wiz-kid/SAZ17i" onclick="linkCode(this,'HD: Kids: Personality: Boys - Wiz Kid')">Wiz Kid</a>                                                        
-                                <a href="/recipient/boy/creative-thinker/SAZWcJ" onclick="linkCode(this,'HD: Kids: Personality: Boys - Creative Thinker')">Creative Thinker</a>                                                        
-                                <a href="/recipient/boy/all-star-athlete/SAZqhU" onclick="linkCode(this,'HD: Kids: Personality: Boys - All-Star Athlete')">All-Star Athlete</a>                                                        
-                                <a href="/personality/boys" onclick="linkCode(this,'HD: Kids: Personality: Boys - See All »')">See All »</a>                                                        
-                                </div>
-                           
                             <div class="col">
-                                <div class="hdr">Personality: Girls</div>
+                                    <div class="hdr">Age</div>                                            
+                                     
+                                    <a href="/recipient/pre-school-2-5-girl/ZL0" onclick="linkCode(this,'HD: Kids: Age - Pre-School Girl')">Pre-School Girl</a>                                                      
+                                    <a href="/recipient/pre-school-2-5-boy/pk3" onclick="linkCode(this,'HD: Kids: Age - Pre-School Boy')">Pre-School Boy</a>                                                      
+                                    <a href="/recipient/grade-school-6-9-girl/dK9" onclick="linkCode(this,'HD: Kids: Age - Grade School Girl')">Grade School Girl</a>                                                      
+                                    <a href="/recipient/grade-school-6-9-boy/pAe" onclick="linkCode(this,'HD: Kids: Age - Grade School Boy')">Grade School Boy</a>                                                      
+                                    <a href="/recipient/tween-10-12-girl/xq4" onclick="linkCode(this,'HD: Kids: Age - Tween Girl')">Tween Girl</a>                                                      
+                                    <a href="/recipient/tween-10-12-boy/raX" onclick="linkCode(this,'HD: Kids: Age - Tween Boy')">Tween Boy</a>                                                      
+                                    </div>
+                            <div class="col">    
+                                    <div class="hdr">Occasion</div>
                             
-                                <a href="/recipient/girl/girly-girl/uJrIyt" onclick="linkCode(this,'HD: Kids: Personality: Girls - Girly Girl')">Girly Girl</a>                                                     
-                                <a href="/recipient/girl/creative-thinker/uJrWcJ" onclick="linkCode(this,'HD: Kids: Personality: Girls - Creative Thinker')">Creative Thinker</a>                                                     
-                                <a href="/recipient/girl/wild-child/uJrkx1" onclick="linkCode(this,'HD: Kids: Personality: Girls - Wild Child')">Wild Child</a>                                                     
-                                <a href="/recipient/girl/wiz-kid/uJr17i" onclick="linkCode(this,'HD: Kids: Personality: Girls - Wiz Kid')">Wiz Kid</a>                                                     
-                                <a href="/personality/girls" onclick="linkCode(this,'HD: Kids: Personality: Girls - See All »')">See All »</a>                                                     
-                                </div>
-                            
+                                    <a href="/birthday/child/NwxhwX" onclick="linkCode(this,'HD: Kids: Occasion - Birthday')">Birthday</a>                                                      
+                                    <a href="/ideas/graduation" onclick="linkCode(this,'HD: Kids: Occasion - Graduation')">Graduation</a>                                                      
+                                    <a href="/occasion/communion/pfY" onclick="linkCode(this,'HD: Kids: Occasion - Communion')">Communion</a>                                                      
+                                    </div>
+                            <div class="col">                                             
+                                    <div class="hdr">Personality: Boys</div>                                            
+                                     
+                                    <a href="/recipient/boy/wild-child/SAZkx1" onclick="linkCode(this,'HD: Kids: Personality: Boys - Wild Child')">Wild Child</a>                                                        
+                                    <a href="/recipient/boy/wiz-kid/SAZ17i" onclick="linkCode(this,'HD: Kids: Personality: Boys - Wiz Kid')">Wiz Kid</a>                                                        
+                                    <a href="/recipient/boy/creative-thinker/SAZWcJ" onclick="linkCode(this,'HD: Kids: Personality: Boys - Creative Thinker')">Creative Thinker</a>                                                        
+                                    <a href="/recipient/boy/all-star-athlete/SAZqhU" onclick="linkCode(this,'HD: Kids: Personality: Boys - All-Star Athlete')">All-Star Athlete</a>                                                        
+                                    <a href="/personality/boys" onclick="linkCode(this,'HD: Kids: Personality: Boys - See All »')">See All »</a>                                                        
+                                    </div>
+                            <div class="col">
+                                    <div class="hdr">Personality: Girls</div>
+                                
+                                    <a href="/recipient/girl/girly-girl/uJrIyt" onclick="linkCode(this,'HD: Kids: Personality: Girls - Girly Girl')">Girly Girl</a>                                                     
+                                    <a href="/recipient/girl/creative-thinker/uJrWcJ" onclick="linkCode(this,'HD: Kids: Personality: Girls - Creative Thinker')">Creative Thinker</a>                                                     
+                                    <a href="/recipient/girl/wild-child/uJrkx1" onclick="linkCode(this,'HD: Kids: Personality: Girls - Wild Child')">Wild Child</a>                                                     
+                                    <a href="/recipient/girl/wiz-kid/uJr17i" onclick="linkCode(this,'HD: Kids: Personality: Girls - Wiz Kid')">Wiz Kid</a>                                                     
+                                    <a href="/personality/girls" onclick="linkCode(this,'HD: Kids: Personality: Girls - See All »')">See All »</a>                                                     
+                                    </div>
                             <div class="clear"></div>                                            
                             <div class="hor"></div>                                    
                             
@@ -603,33 +912,31 @@ var enableExitSurvey=1;
                     <a href="/ideas/baby" onclick="linkCode(this,'HD: Baby: Button')" class="label ">Babies</a>
                     <div class="navDrop">
                         <div class="navDropInner">
+                        
                             <div class="col">
-                                <div class="hdr">Gender</div>
-                            
-                                <a href="/recipient/baby-girl/Jab" onclick="linkCode(this,'HD: Baby: Gender - Baby Girl')">Baby Girl</a>                                                       
-                                <a href="/recipient/baby-boy/ECA" onclick="linkCode(this,'HD: Baby: Gender - Baby Boy')">Baby Boy</a>                                                       
-                                <a href="/recipient/baby-unisex/DAr" onclick="linkCode(this,'HD: Baby: Gender - Unisex Gifts')">Unisex Gifts</a>                                                       
-                                </div>
-                                                                     
-                            <div class="col">
-                                <div class="hdr">Special Occasions</div>                                                   
+                                    <div class="hdr">Gender</div>
                                 
-                                <a href="/occasion/new-baby/yL9" onclick="linkCode(this,'HD: Baby: Special Occasions - New Baby')">New Baby</a>                                                        
-                                <a href="/occasion/christening-baptism/S0D" onclick="linkCode(this,'HD: Baby: Special Occasions - Christening/Baptism')">Christening/Baptism</a>                                                        
-                                <a href="/birthday/1st-birthday-gifts/baby/NwxXmferp" onclick="linkCode(this,'HD: Baby: Special Occasions - 1st Birthday ')">1st Birthday </a>                                                        
-                                </div>
-                            
+                                    <a href="/recipient/baby-girl/Jab" onclick="linkCode(this,'HD: Baby: Gender - Baby Girl')">Baby Girl</a>                                                       
+                                    <a href="/recipient/baby-boy/ECA" onclick="linkCode(this,'HD: Baby: Gender - Baby Boy')">Baby Boy</a>                                                       
+                                    <a href="/recipient/baby-unisex/DAr" onclick="linkCode(this,'HD: Baby: Gender - Unisex Gifts')">Unisex Gifts</a>                                                       
+                                    </div>
+                            <div class="col">
+                                    <div class="hdr">Special Occasions</div>                                                   
+                                    
+                                    <a href="/occasion/new-baby/yL9" onclick="linkCode(this,'HD: Baby: Special Occasions - New Baby')">New Baby</a>                                                        
+                                    <a href="/occasion/christening-baptism/S0D" onclick="linkCode(this,'HD: Baby: Special Occasions - Christening/Baptism')">Christening/Baptism</a>                                                        
+                                    <a href="/birthday/1st-birthday-gifts/baby/NwxXmferp" onclick="linkCode(this,'HD: Baby: Special Occasions - 1st Birthday ')">1st Birthday </a>                                                        
+                                    </div>
                             <div class="col">                                            
-                                <div class="hdr">Category</div>       
-                                
-                                <a href="/recipient/baby/baby-gift-baskets/Xmf8RHfhI" onclick="linkCode(this,'HD: Baby: Category - Baby Gift Baskets')">Baby Gift Baskets</a>                                                     
-                                <a href="/recipient/baby/baby-keepsakes/Xmf8RH0Vp" onclick="linkCode(this,'HD: Baby: Category - Baby Keepsakes')">Baby Keepsakes</a>                                                     
-                                <a href="/recipient/baby/baby-wearables/Xmf8RHtti" onclick="linkCode(this,'HD: Baby: Category - Baby Wearables')">Baby Wearables</a>                                                     
-                                <a href="/recipient/baby/baby-nursery-gifts/Xmf8RHqbC" onclick="linkCode(this,'HD: Baby: Category - Nursery')">Nursery</a>                                                     
-                                <a href="/recipient/baby/travel-gear/Xmf8RHp0r" onclick="linkCode(this,'HD: Baby: Category - Baby Travel Gear')">Baby Travel Gear</a>                                                     
-                                <a href="/categories/baby-toys/8RH5ok" onclick="linkCode(this,'HD: Baby: Category - Baby Toys')">Baby Toys</a>                                                     
-                                </div>
-                            
+                                    <div class="hdr">Category</div>       
+                                    
+                                    <a href="/recipient/baby/baby-gift-baskets/Xmf8RHfhI" onclick="linkCode(this,'HD: Baby: Category - Baby Gift Baskets')">Baby Gift Baskets</a>                                                     
+                                    <a href="/recipient/baby/baby-keepsakes/Xmf8RH0Vp" onclick="linkCode(this,'HD: Baby: Category - Baby Keepsakes')">Baby Keepsakes</a>                                                     
+                                    <a href="/recipient/baby/baby-wearables/Xmf8RHtti" onclick="linkCode(this,'HD: Baby: Category - Baby Wearables')">Baby Wearables</a>                                                     
+                                    <a href="/recipient/baby/baby-nursery-gifts/Xmf8RHqbC" onclick="linkCode(this,'HD: Baby: Category - Nursery')">Nursery</a>                                                     
+                                    <a href="/recipient/baby/travel-gear/Xmf8RHp0r" onclick="linkCode(this,'HD: Baby: Category - Baby Travel Gear')">Baby Travel Gear</a>                                                     
+                                    <a href="/categories/baby-toys/8RH5ok" onclick="linkCode(this,'HD: Baby: Category - Baby Toys')">Baby Toys</a>                                                     
+                                    </div>
                             <div class="clear"></div>                                            
                             <div class="hor"></div>                                    
                             
@@ -643,39 +950,46 @@ var enableExitSurvey=1;
                     <a href="/search/occasions" onclick="linkCode(this,'HD: Occasions: Button')" class="label ">Occasion</a>
                     <div class="navDrop">
                         <div class="navDropInner">
+                        
                             <div class="col">
-                                <div class="hdr">Upcoming</div>
-                            
-                                <a href="/ideas/graduation" onclick="linkCode(this,'HD: Occasions: Upcoming')">Graduation</a>                                                    
-                                <a href="/occasion/fourth-of-july/3rs" onclick="linkCode(this,'HD: Occasions: Upcoming')">Independence Day (7/4)</a>                                                    
-                                </div>
-                            
-                            <div class="col">
-                                <div class="hdr">Top Occasions</div>                                                                                                                                            
+                                    <div class="hdr">Upcoming</div>
                                 
-                                <div class="col_alt">  
+                                    <a href="/occasion/back-to-school/WGP" onclick="linkCode(this,'HD: Occasions: Upcoming')">Back To School</a>                                                    
+                                    <a href="/categories/friendship-day-gifts/t4g" onclick="linkCode(this,'HD: Occasions: Upcoming')">Friendship Day (8/4)</a>                                                    
+                                    </div>
+                            <div class="col">
+                                    <div class="hdr">Top Occasions</div>                                                                                                                                            
                                     
-                                    <a href="/anniversary" onclick="linkCode(this,'HD: Occasions: Top Occasions')">Anniversary</a> 
-                                        <a href="/occasion/baby-shower/nVa" onclick="linkCode(this,'HD: Occasions: Top Occasions')">Baby Shower</a> 
-                                        <a href="/birthday" onclick="linkCode(this,'HD: Occasions: Top Occasions')"><b>Birthday</b></a> 
-                                        <a href="/occasion/bridal-shower/Rxp" onclick="linkCode(this,'HD: Occasions: Top Occasions')">Bridal Shower</a> 
-                                        <a href="/categories/bridesmaids-gifts/mvO" onclick="linkCode(this,'HD: Occasions: Top Occasions')">Bridesmaids</a> 
-                                        <a href="/occasion/engagement/GeY" onclick="linkCode(this,'HD: Occasions: Top Occasions')">Engagement</a> 
-                                        <a href="/occasion/get-well-soon/zFk" onclick="linkCode(this,'HD: Occasions: Top Occasions')">Get Well Soon</a> 
-                                        <a href="/categories/groomsmen-gifts/bmz" onclick="linkCode(this,'HD: Occasions: Top Occasions')">Groomsmen</a> 
-                                        </div>                        
-                                            <div class="col_alt">
-                                        <a href="/occasion/housewarming/st8" onclick="linkCode(this,'HD: Occasions: Top Occasions')">Housewarming</a> 
-                                        <a href="/occasion/new-baby/yL9" onclick="linkCode(this,'HD: Occasions: Top Occasions')">New Baby</a> 
-                                        <a href="/occasion/retirement/VQ0" onclick="linkCode(this,'HD: Occasions: Top Occasions')">Retirement</a> 
-                                        <a href="/occasion/sympathy/0Xz" onclick="linkCode(this,'HD: Occasions: Top Occasions')">Sympathy</a> 
-                                        <a href="/categories/tailgating/NW1" onclick="linkCode(this,'HD: Occasions: Top Occasions')">Tailgating</a> 
-                                        <a href="/categories/thank-you-gifts/hwS" onclick="linkCode(this,'HD: Occasions: Top Occasions')">Thank You!</a> 
-                                        <a href="/ideas/wedding" onclick="linkCode(this,'HD: Occasions: Top Occasions')"><b>Wedding</b></a> 
-                                        <div class="clear"></div>
-                                </div>
-                            </div>                                                                                       
-                            
+                                    <div class="col_alt">  
+                                        
+                                        <a href="/anniversary" onclick="linkCode(this,'HD: Occasions: Top Occasions')">Anniversary</a> 
+                                            <a href="/occasion/baby-shower/nVa" onclick="linkCode(this,'HD: Occasions: Top Occasions')">Baby Shower</a> 
+                                            <a href="/birthday" onclick="linkCode(this,'HD: Occasions: Top Occasions')"><b>Birthday</b></a> 
+                                            <a href="/occasion/bridal-shower/Rxp" onclick="linkCode(this,'HD: Occasions: Top Occasions')">Bridal Shower</a> 
+                                            <a href="/categories/bridesmaids-gifts/mvO" onclick="linkCode(this,'HD: Occasions: Top Occasions')">Bridesmaids</a> 
+                                            <a href="/occasion/engagement/GeY" onclick="linkCode(this,'HD: Occasions: Top Occasions')">Engagement</a> 
+                                            <a href="/occasion/get-well-soon/zFk" onclick="linkCode(this,'HD: Occasions: Top Occasions')">Get Well Soon</a> 
+                                            <a href="/categories/groomsmen-gifts/bmz" onclick="linkCode(this,'HD: Occasions: Top Occasions')">Groomsmen</a> 
+                                            </div>                        
+                                                <div class="col_alt">
+                                            <a href="/occasion/housewarming/st8" onclick="linkCode(this,'HD: Occasions: Top Occasions')">Housewarming</a> 
+                                            <a href="/occasion/new-baby/yL9" onclick="linkCode(this,'HD: Occasions: Top Occasions')">New Baby</a> 
+                                            <a href="/occasion/retirement/VQ0" onclick="linkCode(this,'HD: Occasions: Top Occasions')">Retirement</a> 
+                                            <a href="/occasion/sympathy/0Xz" onclick="linkCode(this,'HD: Occasions: Top Occasions')">Sympathy</a> 
+                                            <a href="/categories/tailgating/NW1" onclick="linkCode(this,'HD: Occasions: Top Occasions')">Tailgating</a> 
+                                            <a href="/categories/thank-you-gifts/hwS" onclick="linkCode(this,'HD: Occasions: Top Occasions')">Thank You!</a> 
+                                            <a href="/ideas/wedding" onclick="linkCode(this,'HD: Occasions: Top Occasions')"><b>Wedding</b></a> 
+                                            <div class="clear"></div>
+                                    </div>
+                                </div>                                                                                       
+                            <div class="col">            
+                                    <div class="hdr">Expert Gift Lists</div>                                                
+                                
+                                    <a href="/giftlists/gifts-for-leo-men?glid=21655" onclick="linkCode(this,'HD: Occasions: Guides')">Gifts for Leo Men</a>                                                        
+                                    <a href="/giftlists/gifts-for-leo-women?glid=21653" onclick="linkCode(this,'HD: Occasions: Guides')">Gifts for Leo Women</a>                                                        
+                                    <a href="/giftlists/gifts-for-virgo-men?glid=21659" onclick="linkCode(this,'HD: Occasions: Guides')">Gifts for Virgo Men</a>                                                        
+                                    <a href="/giftlists/gifts-for-virgo-women?glid=21657" onclick="linkCode(this,'HD: Occasions: Guides')">Gifts for Virgo Women</a>                                                        
+                                    </div>  
                             <div class="clear"></div>
                             <div class="hor"></div>
                             
@@ -688,34 +1002,41 @@ var enableExitSurvey=1;
                     <a href="/search/categories" onclick="linkCode(this,'HD: Category: Button')" class="label ">Category</a>
                     <div class="navDrop">
                         <div class="navDropInner">
+                        
                             <div class="col">
-                                <div class="hdr">Trend</div>                                            
-                                
-                                <a href="/ideas/experiential" onclick="linkCode(this,'HD: Category: Top Categories')">Experiential Gifts</a>                                                    
-                                <a href="/categories/gag-gifts/qkA" onclick="linkCode(this,'HD: Category: Top Categories')">Gag Gifts</a>                                                    
-                                <a href="/categories/eco-friendly-gifts/Ads" onclick="linkCode(this,'HD: Category: Top Categories')">Eco-Friendly Gifts</a>                                                    
-                                <a href="/categories/computers-electronics/KIF" onclick="linkCode(this,'HD: Category: Top Categories')">Gadget Gifts</a>                                                    
-                                <a href="/categories/business-and-executive-gifts/Y1E" onclick="linkCode(this,'HD: Category: Top Categories')">Business &amp; Executive</a>                                                    
-                                <a href="/categories/romantic-gifts/fIk" onclick="linkCode(this,'HD: Category: Top Categories')">Romantic Gifts</a>                                                    
-                                <a href="/categories/gifts-made-in-the-usa/qWu" onclick="linkCode(this,'HD: Category: Top Categories')">Made in the USA</a>                                                    
-                                <a href="/categories/jewelry-watches/TiW" onclick="linkCode(this,'HD: Category: Top Categories')">Jewelry</a>                                                    
-                                <a href="/categories/beauty-spa-gifts/JXy" onclick="linkCode(this,'HD: Category: Top Categories')">Beauty &amp; Spa</a>                                                    
-                                </div>                                                                                                                            
-                            
+                                    <div class="hdr">Trend</div>                                            
+                                    
+                                    <a href="/ideas/experiential" onclick="linkCode(this,'HD: Category: Top Categories')">Experiential Gifts</a>                                                    
+                                    <a href="/categories/gag-gifts/qkA" onclick="linkCode(this,'HD: Category: Top Categories')">Gag Gifts</a>                                                    
+                                    <a href="/categories/eco-friendly-gifts/Ads" onclick="linkCode(this,'HD: Category: Top Categories')">Eco-Friendly Gifts</a>                                                    
+                                    <a href="/categories/computers-electronics/KIF" onclick="linkCode(this,'HD: Category: Top Categories')">Gadget Gifts</a>                                                    
+                                    <a href="/categories/business-and-executive-gifts/Y1E" onclick="linkCode(this,'HD: Category: Top Categories')">Business &amp; Executive</a>                                                    
+                                    <a href="/categories/romantic-gifts/fIk" onclick="linkCode(this,'HD: Category: Top Categories')">Romantic Gifts</a>                                                    
+                                    <a href="/categories/gifts-made-in-the-usa/qWu" onclick="linkCode(this,'HD: Category: Top Categories')">Made in the USA</a>                                                    
+                                    <a href="/categories/jewelry-watches/TiW" onclick="linkCode(this,'HD: Category: Top Categories')">Jewelry</a>                                                    
+                                    <a href="/categories/beauty-spa-gifts/JXy" onclick="linkCode(this,'HD: Category: Top Categories')">Beauty &amp; Spa</a>                                                    
+                                    </div>                                                                                                                            
                             <div class="col">
-                                <div class="hdr">Top Categories</div>                                                                                            
-                                
-                                <a href="/categories/baby-keepsakes/8RH0Vp" onclick="linkCode(this,'HD: Category: Top Categories')">Baby Keepsakes</a>                                                   
-                                <a href="/categories/home-furnishings/MN4a3r" onclick="linkCode(this,'HD: Category: Top Categories')">Home Decor</a>                                                   
-                                <a href="/search/all?sdd=true" onclick="linkCode(this,'HD: Category: Top Categories')">Same Day Delivery</a>                                                   
-                                <a href="/search/all?nts=true" onclick="linkCode(this,'HD: Category: Top Categories')">Our Newest Gifts</a>                                                   
-                                <a href="/ideas/pets" onclick="linkCode(this,'HD: Category: Top Categories')">Pets</a>                                                   
-                                <a href="/categories/toys-games/RKq" onclick="linkCode(this,'HD: Category: Top Categories')">Toys &amp; Games</a>                                                   
-                                <a href="/categories/gift-baskets/Jcb" onclick="linkCode(this,'HD: Category: Top Categories')"><b>Gift Baskets</b></a>                                                   
-                                <a href="/categories/personalized-gifts/1vV" onclick="linkCode(this,'HD: Category: Top Categories')">Personalized Gifts</a>                                                   
-                                <a href="/categories/unique-gifts/Yw1" onclick="linkCode(this,'HD: Category: Top Categories')">Unique Gifts</a>                                                   
-                                </div>
-                            
+                                    <div class="hdr">Top Categories</div>                                                                                            
+                                    
+                                    <a href="/categories/baby-keepsakes/8RH0Vp" onclick="linkCode(this,'HD: Category: Top Categories')">Baby Keepsakes</a>                                                   
+                                    <a href="/categories/home-furnishings/MN4a3r" onclick="linkCode(this,'HD: Category: Top Categories')">Home Decor</a>                                                   
+                                    <a href="/search/all?sdd=true" onclick="linkCode(this,'HD: Category: Top Categories')">Same Day Delivery</a>                                                   
+                                    <a href="/search/all?nts=true" onclick="linkCode(this,'HD: Category: Top Categories')">Our Newest Gifts</a>                                                   
+                                    <a href="/ideas/pets" onclick="linkCode(this,'HD: Category: Top Categories')">Pets</a>                                                   
+                                    <a href="/categories/toys-games/RKq" onclick="linkCode(this,'HD: Category: Top Categories')">Toys &amp; Games</a>                                                   
+                                    <a href="/categories/gift-baskets/Jcb" onclick="linkCode(this,'HD: Category: Top Categories')"><b>Gift Baskets</b></a>                                                   
+                                    <a href="/categories/personalized-gifts/1vV" onclick="linkCode(this,'HD: Category: Top Categories')">Personalized Gifts</a>                                                   
+                                    <a href="/categories/unique-gifts/Yw1" onclick="linkCode(this,'HD: Category: Top Categories')">Unique Gifts</a>                                                   
+                                    </div>
+                            <div class="col">
+                                    <div class="hdr">Expert Gift Lists</div>                                                                                            
+                                    
+                                    <a href="/giftlists/macho-eco-gear?glid=24295" onclick="linkCode(this,'HD: Category: Top Categories')">Macho-Eco Gear</a>                                                   
+                                    <a href="/giftlists/the-coffee-lovers-holiday-gift-list?glid=21825" onclick="linkCode(this,'HD: Category: Top Categories')">Coffee-Lovers Gift List</a>                                                   
+                                    <a href="/giftlists/amazing-app-toys-for-mobile-and-ipad-devices?glid=23385" onclick="linkCode(this,'HD: Category: Top Categories')">App Toys for Mobile &amp; iPad Devices</a>                                                   
+                                    <a href="/giftlists/travel-gifts-for-long-flights?glid=24663" onclick="linkCode(this,'HD: Category: Top Categories')">Travel Gifts for Long Flights</a>                                                   
+                                    </div>
                             <div class="clear"></div>
                             <div class="hor"></div>
                             
@@ -729,10 +1050,10 @@ var enableExitSurvey=1;
                     <div class="navDrop">
                         <div class="navDropInner">
                             <div class="col">
-                                <div class="hdr">Not Sure Which Personality?</div>
-                                Try our fun &amp; easy Personality Profiler:
+                                <div class="hdr">Need help finding the perfect gift?</div>
+                                Use our handy Personality Finder tool.
                                 <form action="/finder" onclick="linkCode(this,'HD: Personality: Quiz')">
-                                    <button onclick="window.location.href='/finder';"><nobr>TRY OUR PERSONALITY PROFILER</nobr></button>
+                                    <button onclick="window.location.href='/finder';"><nobr>Click To Get Started</nobr></button>
                                 </form>
                              </div>
                              <div class="clear"></div>
@@ -782,7 +1103,6 @@ var enableExitSurvey=1;
                         <a href="/press" onclick="linkCode(this,'Footer: General: Press Center')">Press Center</a>
                         <a href="/company/privacy-policy" onclick="linkCode(this,'Footer: General: Privacy Policy')">Privacy Policy</a>
                         <a href="/company/terms-of-service" onclick="linkCode(this,'Footer: General: Terms of Service')">Terms of Service</a>
-                        <a href="http://libertyadvertising.com/Sites/Gifts/" onclick="linkCode(this,'Footer: General: Advertise with Us')">Advertise with Us</a>
                         <a href="/public/sitemap" onclick="linkCode(this,'Footer: General: Site Map')">Site Map</a>
                         <a href="http://libertyadvertising.com/Sites/Gifts/" onclick="linkCode(this,'Footer: General: Advertise with Us')">Advertise with Us</a>
                         </div>
@@ -802,15 +1122,12 @@ var enableExitSurvey=1;
                         </div>
 
                     <div class="footerLinks">
-                        <div class="hdr">Partner Sites</div>
+                        <div class="hdr">Related Sites</div>
 
                         <a href="http://www.expedia.com/" onclick="linkCode(this,'Footer: General: Expedia')">Expedia</a>
-                        <a href="http://www.hotels.com/" onclick="linkCode(this,'Footer: General: Hotels')">Hotels</a>
-                        <a href="http://www.hotwire.com/" onclick="linkCode(this,'Footer: General: Hotwire')">Hotwire</a>
                         <a href="http://www.hsn.com/" onclick="linkCode(this,'Footer: General: Online Shopping')">Online Shopping</a>
                         <a href="http://www.pronto.com/" onclick="linkCode(this,'Footer: General: Pronto')">Pronto</a>
                         <a href="http://www.shoebuy.com/" onclick="linkCode(this,'Footer: General: Shoebuy')">Shoebuy</a>
-                        <a href="http://www.Ticketmaster.com/" onclick="linkCode(this,'Footer: General: Ticketmaster')">Ticketmaster</a>
                         </div>
                     <div class="clear"></div>
                 </td>
@@ -829,45 +1146,7 @@ var enableExitSurvey=1;
                         </map>
                         </div>
                 </td>
-                <td class="signup">
-                   <style type="text/css">
-#emailSignupbetaFooterSignup {}
-#emailSignupbetaFooterSignup .thanks {font-size:13px;font-size:0.8125rem;font-weight:bold;color:#333;}
-#emailSignupbetaFooterSignup .thanks span {font-size:13px;font-size:0.8125rem;font-weight:bold; color:#666;}
-#emailSignupbetaFooterSignup #betaFooterSignupErrorDiv {font-size:12px;font-size:0.8125rem;color:#b81226;}
-#emailSignupbetaFooterSignup input#inputEmailSignupbetaFooterSignup {width:98%;padding:8px 0; margin:0 0 8px 0;font-size:16px;font-size:1.0rem;}    
-#emailSignupbetaFooterSignup button {float:left; margin-left:2px;}
-#emailSignupbetaFooterSignup .privPol {float:left;margin:5px 0 0 8px;}
-#emailSignupbetaFooterSignup .privPol a {font-size:13px;font-size:0.8125rem;}    
-</style>
-
-<div id="emailSignupbetaFooterSignup">
-	<script type="text/javascript">
-                $(function() {
-                    $('#newsSignUp').submit(function() {
-                        submitRegisterUser('betaFooterSignup', '4');
-                        linkCode(this, 'Footer: Email: Submit');
-                        return false;
-                    })
-
-                })
-            </script>
-
-			<div id="betaFooterSignupErrorDiv">
-				</div>
-			<div class="hdr">Newsletter Sign Up</div>
-			<div class="emailTxt">Find the perfect gifts for your friends &amp; family.</div>
-			<div style="margin-top:5px;">
-                <form id="newsSignUp">
-                    <input id="inputEmailSignupbetaFooterSignup" type="text" name="email" placeholder="enter your email" required="">
-                    <button type="submit">SUBMIT</button>
-                </form>
-			</div>
-		<div class="privPol"><a href="/company/privacy-policy" onclick="linkCode(this,'Footer: Email: Privacy Policy')">Privacy Policy</a></div>
-	<div class="clear"></div>
-</div>
-</td>
-            </tr>
+                </tr>
         </tbody></table>
         <div id="contLinks">
             <div>Gift ideas for anyone and every occasion. Gifts.com — The easy way to find great gifts!</div>
@@ -905,7 +1184,7 @@ var enableExitSurvey=1;
     height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
     <!-- End SiteCatalyst code version: H.23.3. -->
 
-    <!--web02-->
+    <!--web06-->
 
     <!-- Exelate Tag -->
         <script type="text/javascript" src="http://loadus.exelator.com/load/?p=102&amp;g=002&amp;c=20210"></script>
