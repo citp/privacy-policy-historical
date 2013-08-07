@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articleunderground.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118202926id_/http%3A//www.articleunderground.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleunderground.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807184057id_/http%3A//www.articleunderground.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Article Underground Privacy Policy
 
@@ -45,6 +45,6 @@ Studio City, CA 91604
 
 Questions??? email: [articles@articleunderground.com](mailto:articles@articleunderground.com)
 
-Get traffic fast! [Announce Your Search Engines Articles to the world at Announced!](http://www.announced.us/category/search-engines/)
+[Articles](http://www.primarticle.com/)
 
 Article Underground is a member of the [HQ Ads Net](http://www.hqtextads.com/)
