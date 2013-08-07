@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beautybrands.com privacy policy that was archived on 2013-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130401051942id_/http%3A//www.beautybrands.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautybrands.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807042835id_/http%3A//www.beautybrands.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
 
 # Privacy and Security | Beauty Brands
 
@@ -65,3 +65,7 @@ When you buy something on **beautybrands.com** , you have to supply your billing
 **beautybrands.com** has implemented Secure Socket Layer (SSL) technology — one of the most robust encryption platforms available.
 
 Your credit card or debit card information will be encrypted from the moment you enter it. A browser in secure mode will display a URL beginning “https://” rather than the standard “http://.” The “s” stands for “secure.”
+
+#### License Information
+
+All **beauty brands** locations are licensed for all services in each respective state. Current license information is available at each store location and on **beautybrands.com**. [View license information](https://web.archive.org/text/pdf/CustomerService/Privacy/StoreLicenseInfo.pdf).
