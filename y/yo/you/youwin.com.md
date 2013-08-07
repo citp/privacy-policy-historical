@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the youwin.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514005615id_/http%3A//www.youwin.com/en/help/general/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youwin.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807051141id_/http%3A//www.youwin.com/en/help/general/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy - best online betting odds | Youwin.com
 
 _Version: 1.1_
 
