@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the malleries.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603143541id_/http%3A//www.malleries.com/security-privacy-p-4.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the malleries.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807143246id_/http%3A//www.malleries.com/security-privacy-p-4.html) for the most accurate reproduction.*
 
 # Security & Privacy Guarantee
 
 SHOP BY DESIGNER
 
 **Customer Testimonials**  
-I just purchased my first chanel 2.55 bag and its awesome! very nice services and the seller was great too! Fmasarovic thank you very much!
+Aboltuley wonderful to work with. The Chanel briefcase I purchased was also of the highest quality. I give him 10 stars!!! 
 
- _Dimitri, Greece_
+_Pam_
 
-[](https://web.archive.org/web/20130603143541id_/http%3A//www.malleries.com/contact.php)
+[](https://web.archive.org/web/20130807143246id_/http%3A//www.malleries.com/contact.php)
 
 [](http://www.malleries.com/)
 
