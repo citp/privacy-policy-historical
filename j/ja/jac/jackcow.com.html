@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the jackcow.com privacy policy that was archived on 2013-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130605120820id_/http%3A//www.jackcow.com/jackcow_2012/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jackcow.com privacy policy that was archived on 2013-08-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130808003117id_/http%3A//www.jackcow.com/jackcow_2012/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -148,7 +148,7 @@ var mygallery=new fadeSlideShow({
 	dimensions: [260, 211], //width/height of gallery in pixels. Should reflect dimensions of largest image
 	imagearray: [
 		["/jackcow_2012/images/umc_banner.jpg", "http://www.jackcow.com/jackcow_2012/promotions_u_mobile.php", "", ""],//<--no trailing comma after very last image element!
-		["/jackcow_2012/images/high_five.jpg", "", "", ""]
+		//["/jackcow_2012/images/high_five.jpg", "", "", ""]
 	],
 	displaymode: {type:'auto', pause:4500, cycles:0, wraparound:false},
 	persist: false, //remember last viewed slide and recall within same session?
@@ -156,7 +156,6 @@ var mygallery=new fadeSlideShow({
 	descreveal: "ondemand",
 	togglerid: ""
 })
-
 </script>
 <script type="text/javascript">
 
@@ -175,24 +174,61 @@ $(function() {
 	});
 });
 
-function validateumobile()
-{
-var mobile_no=document.forms["umobile"]["mobile_no"].value;
-if(isNaN(mobile_no)||mobile_no.indexOf(" ")!=-1)
-           {
-              alert("Enter Mobile Number")
-              return false; 
-           }
-if (mobile_no.length==10 || mobile_no.length==11)
-           {
-                return true;
-           }else{
-				alert("Enter Valid Mobile Number");
-                return false;
-		   }
+function validateumobile(){
+	var mobile_no=document.forms["umobile"]["mobile_no"].value;
+	var amount=document.forms["umobile"]["amount"].value;
+	var creditAvailable = false;
+	var checkUrl = "../umobile/api_check_amount.php?amount=";
+	if(isNaN(amount)||amount.indexOf(" ")!=-1){
+		alert("Please Enter Reload Amount")
+		return false; 
+	}else if(amount < 10){
+		alert("Minimun Reload Amount is RM 10");
+		return false;
+	}
 
+	if(isNaN(mobile_no)||mobile_no.indexOf(" ")!=-1)
+	{
+		alert("Enter Mobile Number")
+		return false; 
+	}
+	
+	//[CHECK CREDIT AVAILABLE]
+	document.getElementById('loading').style.display = "block"; 
+	document.getElementById('available').style.display = "none"; 
+	document.getElementById('unavailable').style.display = "none"; 
+	
+	$.get(checkUrl, {
+		amount: amount, 
+		rd: Math.random()
+	},function(data){
+		if(data=='available'){
+			document.getElementById('loading').style.display = "none"; 
+			document.getElementById('available').style.display = "block"; 
+			creditAvailable = true;
+			if (mobile_no.length==10 || mobile_no.length==11)
+			{
+			   var answer1 = confirm("Mobile Number : " + mobile_no + " \n\nAmount : " + amount + " \n\nAre You Sure the Mobile Number and Top up amount?\n\nDear Customer,\n"+
+									 "Please take note that we have upgraded to pinless reload system. The amount will be directly credited to your phone. Thank You.");				
+				if (answer1){
+					$("#mobileform").submit();
+					return true;
+				}else{
+					return false;
+				}
+			}else{
+				alert("Enter Valid Mobile Number");
+				return false;
+			}
+		}else{
+			document.getElementById('loading').style.display = "none"; 
+			document.getElementById('unavailable').style.display = "block";
+			return false;
+		}
+	});
 }
 
+/*
 function checkavailable(){
 	document.getElementById('loading').style.display = "block"; 
 	document.getElementById('available').style.display = "none"; 
@@ -238,6 +274,14 @@ function checkavailable(){
 		xmlhttp.open("GET","http://www.jackcow.com/umobile/check.php?amount="+stramount,true);
 		xmlhttp.send();
 	  }	
+}*/
+function isNumberKey(evt)
+{
+	 var charCode = (evt.which) ? evt.which : event.keyCode
+	 if (charCode > 31 && (charCode < 48 || charCode > 57))
+		return false;
+
+	 return true;
 }
 </script>
 
@@ -294,11 +338,9 @@ function checkavailable(){
 		<div id="ads1content" style="position: relative; visibility: visible; background: black; overflow: hidden; width: 260px; height: 211px;"><div class="gallerylayer" style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; background: black;"><a href="http://www.jackcow.com/jackcow_2012/promotions_u_mobile.php" target="">
 <img src="/jackcow_2012/images/umc_banner.jpg" style="border-width: 0px; display: none;">
 </a>
-<img src="/jackcow_2012/images/high_five.jpg" style="border-width: 0px; display: none;">
 </div><div class="gallerylayer" style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; background: black;"><a href="http://www.jackcow.com/jackcow_2012/promotions_u_mobile.php" target="">
 <img src="/jackcow_2012/images/umc_banner.jpg" style="border-width: 0px; display: none;">
 </a>
-<img src="/jackcow_2012/images/high_five.jpg" style="border-width: 0px; display: none;">
 </div><img src="images/loop/packages1_01.jpg" style="position: absolute; left: 103px; top: 50.5px; display: none;"></div>
 	</div><br>
 </div>
@@ -308,22 +350,16 @@ function checkavailable(){
 
 		<div class="boxBottom">
         	<p class="textOne"><strong>Please select your reload value:</strong></p>
-			<form action="../team/buy.php" method="get" name="umobile" onsubmit="return validateumobile()">
+			<form action="../team/buy_umobile.php" id="mobileform" method="post" name="umobile">
 			<input type="hidden" name="id" value="1264">
-			<input size="12" type="text" maxlength="11" name="mobile_no" id="mobile_no" value="Enter Mobile No" onblur="if (this.value == '') {this.value = 'Enter Mobile No';}" onfocus="if (this.value == 'Enter Mobile No') {this.value = '';}">
-	        	<select name="amount" id="amount" style="margin-bottom: 8px;" onchange="checkavailable()">
-	        		<option value="">Select Amount</option>
-	            	<option value="10">RM10</option>
-	                <option value="30">RM30</option>
-	                <option value="50">RM50</option>
-	                <option value="100">RM100</option>
-	            </select>
-				
-				
+				<input size="12" type="text" maxlength="15" name="mobile_no" id="mobile_no" value="Enter Mobile No" onblur="if (this.value == '') {this.value = 'Enter Mobile No';}" onfocus="if (this.value == 'Enter Mobile No') {this.value = '';}">
+				<input type="text" size="10" maxlength="4" onkeypress="return isNumberKey(event)" id="amount" name="amount" value="Enter Amount" onblur="if (this.value == '') {this.value = 'Enter Amount';}" onfocus="if (this.value == 'Enter Amount') {this.value = '';}">
+		
 				<br class="clearBoth">
 
 				<div class="boxBar">
-					<input type="submit" class="umobile-button" name="umobile_submit" id="umobile_submit" value="Proceed" disabled="disabled">
+					<!--<input type="submit" class="umobile-button" name="umobile_submit" id="umobile_submit"  value="Proceed" disabled="disabled" />--><br>
+					<input type="submit" class="umobile-button" id="umobile-bt" name="umobile_submit" onclick="validateumobile(); return false;" value="Proceed">
             	</div>
             	<div id="loading" style="display: none"><img src="../jackcow_2012/images/ajax-loader.gif"></div>
 				<div id="available" style="display: none"><p class="textOne"><font color="green"><strong>Available</strong></font></p></div>
