@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pushover.net privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502163353id_/https%3A//pushover.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pushover.net privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807024302id_/https%3A//pushover.net/privacy) for the most accurate reproduction.*
 
 # Pushover: Privacy Policy
 
