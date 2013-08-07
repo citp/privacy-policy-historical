@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the webplatform.org privacy policy that was archived on 2013-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130308033357id_/http%3A//docs.webplatform.org/wiki/WPD%3APrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webplatform.org privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807031304id_/http%3A//docs.webplatform.org/wiki/WPD%3APrivacy) for the most accurate reproduction.*
 
 # WPD:Privacy · WPD:Privacy · WPD · WebPlatform.org
 
-##  Privacy Policy for WebPlatform.org 
+## Privacy Policy for WebPlatform.org
 
-###  Non-Logged-in Usage 
+### Non-Logged-in Usage
 
 The following applies to non-logged-in interactions with the WebPlatform.org Web site: 
 
@@ -20,7 +20,7 @@ Logged information may be kept indefinitely as administrative, diagnostic, and r
 
 If you set the Do-Not-Track header, which is an option in the preferences of many browsers, we do not collect any information about your visit, other than the fact that a particular page was visited. 
 
-###  Logged-in Usage: 
+### Logged-in Usage:
 
 When you create a user account, you are asked for a username, email, and optional real name. This information is stored in the database and displayed on your public profile page; your email is not displayed publicly unless you choose to do so. Any additional information you provide on your profile page, such as a photo, links to your sites, and other text, is also displayed publicly. 
 
@@ -30,10 +30,10 @@ You may delete your account at any time. At your request, we will make reasonabl
 
 You may request that your username be changed, though we will ask for a rationale, in order to limit the number of requests; we will try to respond to reasonable requests for username change, but offer no guarantees. 
 
-###  Mailing Lists 
+### Mailing Lists
 
 Mailing lists associated with WebPlatform.org are publicly archived. On your first submission to one of these lists, you will be asked to [approve the public posting](http://www.w3.org/2002/09/aa/) of your message. We [do not remove](http://www.w3.org/Mail/ArchiveEditingPolicy) postings from archived lists. 
 
-###  Law enforcement and other compelled disclosures: 
+### Law enforcement and other compelled disclosures:
 
 In the event that we are required by law (including a court order) to disclose the information you submit, we will make an effort to provide you with notice (unless we are prohibited) that a request for your information has been made and give you an opportunity to object to the disclosure. We will attempt to provide this notice by email, if you have given us an email address. We will independently object to over-broad requests for access to information about users of our site. If you do not challenge the disclosure request we may be legally required to turn over information. 
