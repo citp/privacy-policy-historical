@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobtestprep.co.uk privacy policy that was archived on 2013-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130122225130id_/http%3A//www.jobtestprep.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobtestprep.co.uk privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807064025id_/http%3A//www.jobtestprep.co.uk/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - JobTestPrep
 
@@ -15,7 +15,7 @@ Job Test Prep generally collects personally identifiable information such as a n
   
 visitors to our Website that are willing to use JobTestPrep's services are asked to supply certain personally identifying information, which is then retained by Job Test Prep . For example, we ask you for certain information if you choose purchase our on-line preparation course. If you choose to give us personally identifying information at such time, such information will be retained by us and used only to provide you with products or services you have requested, or with additional information from JobTestPrep about JobTestPrep , its affiliates, or selected outside companies whose products or services we feel may be of use to you. Any information from selected outside companies will be transmitted by JobTestPrep so that such companies will not have access either to your E-mail address or to your other personally identifying information. Moreover, we will not sell or rent any personally identifying information obtained through the Web site to any other company or organisation.
 
-If, at some point after giving JobTestPrep your personally identifying information, you do not wish to continue to receive additional information from JobTestPrep about JobTestPrep , its affiliates, or selected outside companies, in general, you may opt out by E-mailing [info@JobTestPrep.co.uk](mailto://info@jobtestprep.co.uk) and put the words "remove my name" in the subject line of your E-mail; in the case of our E-mail newsletters, you also may follow the procedures at our E-mail newsletter registration page.
+If, at some point after giving JobTestPrep your personally identifying information, you do not wish to continue to receive additional information from JobTestPrep about JobTestPrep , its affiliates, or selected outside companies, in general, you may opt out by E-mailing [info@jobtestprep.co.uk](mailto://info@jobtestprep.co.uk) and put the words "remove my name" in the subject line of your E-mail; in the case of our E-mail newsletters, you also may follow the procedures at our E-mail newsletter registration page.
 
 While your individual information is protected as discussed above, Job Test Prep reserves the right to use such individual information to create aggregated, anonymous data about users in order to develop statistics about activity on and visitors to the Web site. In addition, Job Test Prep may disclose personal information if we in good faith believe that such action is necessary to (1) comply with the law or with legal process; (2) protect and defend our rights and property; (3) protect against misuse or unauthorized use of the Web site; or (4) protect the personal safety, property, or rights of our users or the public.
 
@@ -37,9 +37,9 @@ No one under the age of 13 should provide any personal information. In general, 
 Top Products  
 
 
-Online personality testAptitude Practice Packs £49 In Tray Exercise  £29Interview Preparation £39Psychometric Tests from £79CV Builder £14.99GMAT Practice Tests Numerical Reasoning £29   
+In Tray Exercise  £29Skype Interview £90Aptitude Practice Packs £49 Interview Preparation £39Online personality testPsychometric Tests from £79CV Builder £14.99GMAT Practice Tests Numerical Reasoning £29   
 
 
 In partnership with:
 
-[](http://blog.jobtestprep.co.uk/)[](https://web.archive.org/web/20130122225130id_/http%3A//www.jobtestprep.co.uk/face2face_practice)
+[](http://blog.jobtestprep.co.uk/)[](https://web.archive.org/web/20130807064025id_/http%3A//www.jobtestprep.co.uk/face2face_practice)
