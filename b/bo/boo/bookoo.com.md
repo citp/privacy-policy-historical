@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the bookoo.com privacy policy that was archived on 2013-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130406015539id_/http%3A//www.bookoo.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookoo.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807100536id_/http%3A//www.bookoo.com/privacy.jsp) for the most accurate reproduction.*
 
-# bookoo - yard sales and classifieds in bookoo, US
+# bookoo! the world's funnest darn tootin' yard sales!
+
+[ ](https://web.archive.org/)
+
+The giant online yard sale in your community 
 
 ## Privacy Policy Statement
 
