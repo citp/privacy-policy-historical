@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paxforex.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430205647id_/http%3A//www.paxforex.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paxforex.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807092803id_/http%3A//www.paxforex.com/privacy_policy) for the most accurate reproduction.*
 
 # USDCHF Falling Wedge - PaxForex
 
