@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the menulog.com.au privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503175250id_/http%3A//www.menulog.com.au/menulog_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the menulog.com.au privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807025818id_/http%3A//www.menulog.com.au/menulog_privacy) for the most accurate reproduction.*
 
 # Privacy - Menulog
 
@@ -17,6 +17,7 @@ We may disclose your information to various third parties for the following purp
 
   * for such other purposes as we shall in our discretion determine, including for our commercial advantage 
 
+  
 
 
 It is a condition of your use of the Menulog website that you agree to allow your data to be disclosed to these third parties and for them to establish contact with you. If at any point in time you would like your saved data to be deleted from our system, please contact us and we will arrange to have your records deleted from our database. 
@@ -25,9 +26,9 @@ As a user of our service, You may occasionally receive email or SMS updates from
 
 Unless otherwise prohibited by law or our contractual obligations, we may disclose personal information if required to do so by law, court order, or as requested by a governmental or law enforcement authority, or in the good faith belief that disclosure is otherwise necessary or advisable. Such situations may include: to perform, maintain or enforce contracts with our users or suppliers; to protect the rights or properties of Menulog, our business affiliates, our users, or others; or when we have reason to believe that disclosing the information is necessary to identify, contact, or bring legal action against someone who may be causing, or who may be threatening to cause, interference with or damage to our rights or properties, whether intentionally or otherwise; or when anyone else could be harmed by such activities. 
 
-Like most websites, there is certain information we automatically track, including the URL that You just came from, the browser You are using and your IP address. This data is utilised to improve the services of Menulog and does not include any personally identifying information. 
+Like most websites, there is certain information we automatically track, including the URL that You just came from, the browser You are using and your IP address. This data is utilised to improve the services of Menulog and does not include any personally identifying information.
 
-**O ur commitment to data security**  
+ **Our commitment to data security**  
 All user details captured by Menulog are stored securely at all times and will never be provided to any unauthorised third parties. While being transmitted over the Internet, all credit card details are protected using SSL (Secure Socket Layer) encryption. Menulog has been verified for security and compliance to SSL standards by Comodo, an independent third party. Credit card details are handled by a 3rd party Payment Gateway called Direct Payment Solutions(DPS), a leading PCI Compliant Provider of secure credit card processing solutions. Menulog will never save your actual credit card details. We will simply save a reference to your card, which is called a token.  This token is provided to us by our Payment Gateway.  Saving the token means that for future credit card transactions we can give you the option to  charge the same card you used previously without having to re-enter the card details. You will still need to enter your Menulog password to use this credit card. If, at any time, you wish the token to be removed please email us at enquiries@menulog.com and we will have these removed.  In that case you would need to re-enter your card details on the next order.  For the avoidance of doubt, Menulog will not in any circumstances be liable to You, or third parties, for loss or damage arising from credit card fraud or identity theft.
 
  **Cookies**  
