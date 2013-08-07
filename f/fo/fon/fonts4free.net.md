@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fonts4free.net privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518164105id_/http%3A//www.fonts4free.net/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fonts4free.net privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808003230id_/http%3A//www.fonts4free.net/privacy-policy.php) for the most accurate reproduction.*
 
 # www.fonts4free.net Privacy Policy & Contact Form
 
