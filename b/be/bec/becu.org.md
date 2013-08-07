@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the becu.org privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511202614id_/https%3A//www.becu.org/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the becu.org privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807211657id_/https%3A//www.becu.org/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ BECU never initiates requests for sensitive information by email or text messagi
 
 ### Personal Information – Collection and Use
 
-BECU and its affiliates, BECU Trust Company and BECU Financial Services, Inc., ("We") believe that you are our most important asset. We work very hard to earn and maintain your trust. Consequently, we protect your personal information by taking steps to keep it secure and confidential. We have not and will not sell your account information.
+BECU and its affiliates, BECU Trust Services and BECU Financial Services, Inc., ("We") believe that you are our most important asset. We work very hard to earn and maintain your trust. Consequently, we protect your personal information by taking steps to keep it secure and confidential. We have not and will not sell your account information.
 
 Although perfect security is not possible, we have policies and procedures in place to protect the safety of your personal and financial information.
 
@@ -20,7 +20,7 @@ Consumer Opt-out
 
 [Learn more about what we do with your personal information](https://web.archive.org/pdfsource/GeneralPrivacyStatement.pdf). 
 
-[Learn more about what BECU Trust Company does with our clients' information](https://web.archive.org/pdfsource/6983.pdf). 
+[Learn more about what BECU Trust Services does with our clients' information](https://web.archive.org/pdfsource/6983.pdf). 
 
 ### Security
 
