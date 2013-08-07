@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hays.co.uk privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602060719id_/http%3A//hays.co.uk/PrivacyPolicy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hays.co.uk privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808002208id_/http%3A//hays.co.uk/PrivacyPolicy/index.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Hays - Recruiting experts worldwide
 
