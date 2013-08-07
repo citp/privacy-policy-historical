@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bloggermint.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522040514id_/http%3A//www.bloggermint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggermint.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807173539id_/http%3A//www.bloggermint.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Bloggermint
+# Privacy Policy
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at bloggermint@gmail.com.
 
