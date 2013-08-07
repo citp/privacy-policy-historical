@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webmaster-tips.net privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502042213id_/http%3A//www.webmaster-tips.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmaster-tips.net privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807114503id_/http%3A//www.webmaster-tips.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Authentic Joomla Extensions. Tips and resources for webmasters.
 
