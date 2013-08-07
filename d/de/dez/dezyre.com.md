@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dezyre.com privacy policy that was archived on 2013-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130122062032id_/http%3A//www.dezyre.com/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dezyre.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807183925id_/http%3A//www.dezyre.com/index/privacy) for the most accurate reproduction.*
 
-# DeZyre.com: Privacy Policy
+# Privacy Policy
 
 Dezyre.com is committed to protecting the privacy of our customer's personal information. This statement applies with respect to the information that we collect from the Company Web site, located at www.dezyre.com. Amendments to this statement will be posted at this URL and will be effective when posted. Your continued use of this site following the posting of any amendment, modification or change shall constitute your acceptance thereof. 
 
