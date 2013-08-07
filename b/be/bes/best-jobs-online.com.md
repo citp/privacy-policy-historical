@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the best-jobs-online.com privacy policy that was archived on 2012-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120315004944id_/http%3A//best-jobs-online.com/common/advertise/ob/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the best-jobs-online.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807090421id_/http%3A//best-jobs-online.com/common/advertise/custom/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
