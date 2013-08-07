@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopkeep.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426003508id_/http%3A//www.shopkeep.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopkeep.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807022910id_/http%3A//www.shopkeep.com/privacy) for the most accurate reproduction.*
 
 # iPad POS | Privacy Policy | ShopKeep POS
 
@@ -66,4 +66,4 @@ If our information practices change in a significant way, we will post the polic
 
 ## Shopkeep Contact Information
 
-We have an internal privacy policy ombudsman, who can be contacted with any complaints or comments at [privacy@shopkeep.com](mailto:privacy@shopkeep.com). Shopkeep.com, Inc. 55 Broad St, 9th Fl, New York, NY 10004.
+We have an internal privacy policy ombudsman, who can be contacted with any complaints or comments at [privacy@shopkeep.com](mailto:privacy@shopkeep.com). Shopkeep.com, Inc. 143 Varick Street, New York, NY 10013.
