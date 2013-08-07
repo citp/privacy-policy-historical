@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adzerk.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530202858id_/http%3A//help.adzerk.com/Privacy_Policy_for_Ad_Serving) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adzerk.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807160542id_/http%3A//help.adzerk.com/Privacy_Policy_for_Ad_Serving) for the most accurate reproduction.*
 
 # Privacy Policy for Ad Serving - Adzerk Knowledge Base
 
