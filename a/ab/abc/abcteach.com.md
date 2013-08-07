@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the abcteach.com privacy policy that was archived on 2013-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130404124227id_/http%3A//www.abcteach.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcteach.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807064311id_/http%3A//www.abcteach.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# abcteach -- Free Printables, Interactives, Custom Documents, Clip Art, and Games
 
 This privacy statement discloses the privacy practices for **a** **b** **c** **teach** , both our free site ([www.abcteach.com](http://www.abcteach.com/)) and our member site (members.abcteach.com).
 
