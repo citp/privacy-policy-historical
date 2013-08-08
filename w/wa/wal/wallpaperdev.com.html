@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wallpaperdev.com privacy policy that was archived on 2013-04-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130423212721id_/http%3A//wallpaperdev.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wallpaperdev.com privacy policy that was archived on 2013-08-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130808065233id_/http%3A//www.wallpaperdev.com/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
@@ -96,7 +96,18 @@
             </div>
           </form>
           <ul class="nav">
-            <li><a href="/browse/" title="Show All Categories">Browse</a></li>
+            <li class="dropdown">
+				<a href="/browse/" class="dropdown-toggle" data-toggle="dropdown" title="Show All Categories">Browse<b class="caret"></b></a>
+				<ul class="dropdown-menu">
+				<br>
+<b>Warning</b>:  mysql_query() [<a href="function.mysql-query">function.mysql-query</a>]: Access denied for user 'wallpap'@'localhost' (using password: NO) in <b>/home/wallpap/public_html/header.php</b> on line <b>80</b><br>
+<br>
+<b>Warning</b>:  mysql_query() [<a href="function.mysql-query">function.mysql-query</a>]: A link to the server could not be established in <b>/home/wallpap/public_html/header.php</b> on line <b>80</b><br>
+<br>
+<b>Warning</b>:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in <b>/home/wallpap/public_html/header.php</b> on line <b>81</b><br>
+	
+				</ul>
+			</li>
             <li><a href="/colors/" title="Browse Wallpapers by Colors">Colors</a></li>
             <li><a href="/fresh/" title="Latest Wallpapers">Fresh</a></li>
             <li class="dropdown">
