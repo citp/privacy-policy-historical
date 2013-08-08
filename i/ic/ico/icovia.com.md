@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icovia.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527174248id_/http%3A//www.icovia.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icovia.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808182400id_/http%3A//www.icovia.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
