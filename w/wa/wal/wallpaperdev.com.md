@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallpaperdev.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423212721id_/http%3A//wallpaperdev.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallpaperdev.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808065233id_/http%3A//www.wallpaperdev.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy @ WallpaperDev
 
