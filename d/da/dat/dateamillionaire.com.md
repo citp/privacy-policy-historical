@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dateamillionaire.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506160436id_/http%3A//www.dateamillionaire.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dateamillionaire.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808024040id_/http%3A//www.dateamillionaire.com/privacyPolicy) for the most accurate reproduction.*
 
 # .: Privacy Policy
 
@@ -12,14 +12,15 @@ Joining only takes a minute. Joining our community will allow us to better match
 
 Search by nickname
 
-dateamillionaire.com (the "Site") is licensed to **Dating Media LTD.**
+dateamillionaire.com (the "Site") is licensed to **First Beat Media**
 
 Our USA postal address is   
-Dating Media LTD  
-Amory Building, Suite #4757, Victoria Road  
-Basseterre, SAINT KITTS AND NEVIS 
+5722 S. Flamingo Rd. #246  
+Cooper City, FL 33330  
+USA  
+1-866-294-5787 
 
-We can be reached via e-mail at legal@datingmedialtd.com
+[Contact us](https://web.archive.org/contact)
 
 This Privacy Policy Statement sets forth the policies and practices with respect to information or data gathered regarding subscriber and members of this Site. This is an online Site that expressly and strictly limits its membership to adults. All persons under the age of 18 are strictly prohibited from accessing or viewing the contents of this Site.
 
@@ -75,7 +76,7 @@ IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY STATE
 
 **"OPT-OUT" Revocation Procedure.**
 
-> The Site also offers all subscribers a procedure for "Opting-Out" if the subscriber subsequently chooses to revoke any consent to receive Offers by [clicking here](https://web.archive.org/web/20130506160436id_/http%3A//www.dateamillionaire.com/settings/2) and deselecting "I want to be informed of promotional offers". 
+> The Site also offers all subscribers a procedure for "Opting-Out" if the subscriber subsequently chooses to revoke any consent to receive Offers by [clicking here](https://web.archive.org/web/20130808024040id_/http%3A//www.dateamillionaire.com/settings/2) and deselecting "I want to be informed of promotional offers". 
 
 **Terms and Conditions of Membership.**
 
