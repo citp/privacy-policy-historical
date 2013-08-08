@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pureromance.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028145537id_/http%3A//pureromance.com/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pureromance.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808143245id_/http%3A//pureromance.com/privacy-security) for the most accurate reproduction.*
 
 # Pure Romance - Privacy & Security
 
