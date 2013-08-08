@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the afbank.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424012310id_/https%3A//www.afbank.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afbank.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808165425id_/https%3A//www.afbank.com/privacy) for the most accurate reproduction.*
 
 # Privacy » Armed Forces Bank
 
-Privay Policy 
+Privacy Policy 
 
 Protecting your financial and personal privacy is important to us. 
 
@@ -69,7 +69,7 @@ We also collect your personal information from others, such as credit bureaus, a
   
 Why can't I limit all sharing? | Federal law gives you the right to limit only 
 
-  * Sharing for affiliates' everyday business purposes – information about your creditworthiness
+  * Sharing for affiliates' everyday business purposes â€“ information about your creditworthiness
   * Affiliates from using your information to market to you
   * Sharing for nonaffiliates to market to you
 
