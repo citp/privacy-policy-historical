@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the architecturaldepot.com privacy policy that was archived on 2013-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130318021203id_/http%3A//www.architecturaldepot.com/help-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the architecturaldepot.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808024749id_/http%3A//www.architecturaldepot.com/help-privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy: ArchitecturalDepot.com -- Your Privacy & Rights -- by Architectural Depot - Call us today at: 888-573-3768
 
@@ -117,4 +117,18 @@ If at anytime you have a cause that needs to be disputed please fill out the [Tr
 Respectfully, 
 
 James Morris Team Member  
-www.architecturaldepot.com 
+www.architecturaldepot.com
+
+### Return Policy
+
+You may return most items purchased from ArchitecturalDepot.com for partial refund within 30 days from purchase date. All returns are subject to a 20% restocking fee. All returns must accompanied by an RMA or RGA and be in resalable condition and received within 14 business days from authorized return date. You can obtain an RMA or RGA by contacting customer service at 888-573-3768.
+
+Custom Products: We are pleased to offer architectural products that are custom-manufactured to your specifications, and we encourage you to review your order carefully. Since the product is built to your specifications, the order cannot be changed, modified, or canceled once your order is in production.
+
+Custom products include, but are not limited to: Custom vinyl shutters, custom wood shutters, custom crossheads, custom pediments, and other custom products. If you have a question of whether or not the item you would like to order is custom, please contact us prior to ordering.
+
+WE CANNOT ACCEPT RETURNS FOR CUSTOM PRODUCTS
+
+Important Information About Your Shipment: Upon receiving your shipment, please inspect the items carefully for damaged or missing items. All shipping claims must be handled within 72 hours of receiving your order. Claims made after 72 hours will not be honored. If you received your order damaged, defective, or an incorrect item please contact our customer service department at 888-573-3768.
+
+If you have any questions regarding our returns policy, please feel free to contact us at 888-573-3768 or 714-706-4370. Thank you, ArchitecturalDepot.com 
