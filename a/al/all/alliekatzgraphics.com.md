@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alliekatzgraphics.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518191815id_/http%3A//www.alliekatzgraphics.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alliekatzgraphics.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808064040id_/http%3A//www.alliekatzgraphics.com/privacypolicy.php) for the most accurate reproduction.*
 
 # AllieKatzGraphics.com - Privacy Policy
 
