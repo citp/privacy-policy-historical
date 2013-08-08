@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lyricsera.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116094252id_/http%3A//www.lyricsera.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyricsera.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808154133id_/http%3A//www.lyricsera.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy statement
 
