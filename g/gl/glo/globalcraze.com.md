@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the globalcraze.com privacy policy that was archived on 2013-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130311161518id_/http%3A//www.globalcraze.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalcraze.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808062415id_/http%3A//www.globalcraze.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - globalcraze.com
+# Privacy Policy
 
 This Privacy Policy governs the manner in which [Globalcraze.com](http://www.globalcraze.com/ "Globalcraze.com") collects, uses, maintains and discloses information collected from users (each, a “User”) of the [Globalcraze.com](http://www.globalcraze.com/ "Globalcraze.com"). This privacy policy applies to the Site and all products and content offered by [Globalcraze.com](http://www.globalcraze.com/ "Globalcraze.com") .
 
@@ -36,3 +36,10 @@ Globalcraze has the discretion to update this privacy policy at any time. When w
 By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 Feel free to contact the blog Author using the [contact page](http://www.globalcraze.com/contact-us/ "Contacting us") for any other query / information. 
+
+  * Bio
+  * Latest Posts
+
+
+
+[GlobalCraze](http://www.globalcraze.com/) is a based on Top lists, Blogging tips, seo, social media and wordpress tutorials by Chetan Gupta which covers useful articles for awesome knowledge and lots more you can find on this site. Chetan Gupta started Globalcraze in January 2013 with the welcome post Hello World!. Chetan Gupta is a Web Developer by profession and resides in New Delhi, India. He is a WordPress and Internet enthusiast. Apart from developing websites and blogging, he takes delight in reading, traveling, surfing internet and he loves to playing chess.
