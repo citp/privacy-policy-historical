@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoptab.net privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623020942id_/http%3A//www.shoptab.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoptab.net privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808083954id_/http%3A//www.shoptab.net/privacypolicy) for the most accurate reproduction.*
 
 # Facebook Store & Shop App | Facebook eCommerce| ShopTab
 
