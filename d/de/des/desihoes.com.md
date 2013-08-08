@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the desihoes.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424214909id_/http%3A//www.desihoes.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desihoes.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808204653id_/http%3A//www.desihoes.com/static/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Desi Hoes Indian Porn Videos
+# Privacy Policy - Desi Sex Indian Fuck Porn Tube
 
 DesiHoes respects your privacy. This policy explains how DesiHoes will treat information that it may obtain from you as you make use of the DesiHoes.com site. The owners and operators of DesiHoes.com ("DesiHoes") provide the DesiHoes.com site ("Site") subject to the terms of this Privacy Policy. By using the Site, you accept and agree to this Privacy Policy. The Privacy Policy may change from time to time, without notice other than appearing on the Site. The Revision Date below will show you when the Privacy Policy was last revised.
 
