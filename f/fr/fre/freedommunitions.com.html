@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the freedommunitions.com privacy policy that was archived on 2013-05-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130508092515id_/http%3A//www.freedommunitions.com/terms_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the freedommunitions.com privacy policy that was archived on 2013-08-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130808170631id_/http%3A//www.freedommunitions.com/terms_privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -16,6 +16,7 @@
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js"></script>
 <link type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/themes/base/jquery-ui.css" rel="stylesheet">
+<link type="text/css" href="/a/c/default.css" rel="stylesheet">
 
 
 <script type="text/javascript">
@@ -31,7 +32,30 @@
     var PageText_843 = "Subtotal";
     var PageText_844 = "items in cart";
 </script>
+<script type="text/javascript" src="/a/j/volusion.js?6.40.5.219"></script>
+<script type="text/javascript">
+    (function ($) {
+        volusion.ready(function () {
+            if (volusion.cart.isObservingCount()) {
+                var ts = new Date().getTime();
 
+                $.getJSON('/ajaxcart.asp?cachebust=' + ts, function (data) {
+                    var quantityTotal = 0;
+                    $.each(data.Products, function (key, val) {
+                        if (val.IsProduct === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        } else if (val.IsAccessory === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        }
+                    });
+                    quantityTotal = quantityTotal || '0';
+                    volusion.cart.itemCount(quantityTotal);
+                });
+
+            }
+        });
+    } (jQuery));
+</script>
 
 
 <script type="text/javascript" src="/a/j/soft_add.js"></script>
@@ -44,7 +68,7 @@
 </script>
 
 <script type="text/javascript" src="/a/j/soft_add_mult.js"></script>
-<script type="text/javascript" src="/a/j/javascripts.js?6_5_currentBuild"></script>
+<script type="text/javascript" src="/a/j/javascripts.js?6_5_6.40.5.219"></script>
 
 <script type="text/javascript">
 	var Config_Search_Auto_Complete = false;
@@ -194,6 +218,9 @@ function mClk2(src, popup)
 	<a href="http://www.freedommunitions.com/Brass-Credit-Program-s/48072.htm" title="Brass Credit Program"><span style="color:red; font-size: 10pt;">Brass Credit Program</span></a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
+	<a href="http://www.freedommunitions.com/category-s/2896.htm" title="">X-Treme Bullets</a>
+</li>
+<li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
 	<a href="http://www.freedommunitions.com/category-s/1824.htm" title="">380-Auto</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
@@ -239,9 +266,6 @@ function mClk2(src, popup)
 	<a href="http://www.freedommunitions.com/category-s/1912.htm" title="">Blaster:Training Ammo</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="http://www.freedommunitions.com/category-s/2896.htm" title="">X-Treme Bullets</a>
-</li>
-<li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
 	<a href="http://www.freedommunitions.com/category-s/50687.htm" title="">Exploding Target</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
@@ -257,7 +281,7 @@ function mClk2(src, popup)
 	<a href="http://www.freedommunitions.com/category-s/44117.htm" title="">Customer Reviews</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="http://www.freedommunitions.com/category-s/53969.htm" title="">Military Discount</a>
+	<a href="http://www.freedommunitions.com/category-s/53969.htm" title="">Military/ LEO Discount</a>
 </li>
 </ul>
 </div><!-- end display_menu_2 -->
