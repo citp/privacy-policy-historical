@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the friskies.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523012346id_/http%3A//www.purina.com/General/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friskies.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808213930id_/http%3A//www.purina.com/General/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Purina®
 
