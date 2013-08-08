@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gapyear.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424041439id_/http%3A//www.gapyear.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gapyear.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808055940id_/http%3A//www.gapyear.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Gap Year
 
 ###  **Introduction**
 
-This Privacy Policy ("Policy") explains in general terms how The Gap Year Company Ltd, UK Company Registration No. 3597000, ("Gap Year", "we", "our", or "us") and its parent company, Flight Centre (UK) Limited, UK Company Registration No. 2937210, ("Flight Centre") protect the privacy of your personal information provided in connection with your access and use of [www.gapyear.com](http://www.gapyear.com/) ("Site"). Gap Year and Flight Centre are collectively referred to in this Policy as "we", "our" or "us".
+This Privacy Policy ("Policy") explains in general terms how Flight Centre (UK) Limited trading as Gapyear, UK Company Registration No. 2937210, ("Gap Year" or "Flight Centre", "we", "our", or "us") protect the privacy of your personal information provided in connection with your access and use of www.gapyear.com <http://www.gapyear.com> ("Site"). Gap Year and Flight Centre are collectively referred to in this Policy as "we", "our" or "us".
 
 Gap Year and Flight Centre are firmly committed to protecting the privacy and confidentiality of your personal information and maintain robust physical, electronic and procedural safeguards to protect personal information in our care.
 
