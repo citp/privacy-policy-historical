@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sammydress.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629225927id_/http%3A//www.sammydress.com/m-article-id-27.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sammydress.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808152828id_/http%3A//www.sammydress.com/m-article-id-27.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Sammydress.com
 
