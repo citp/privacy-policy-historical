@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iphonelife.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423173716id_/http%3A//www.iphonelife.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iphonelife.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808050538id_/http%3A//www.iphonelife.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | iPhone Life
 
@@ -23,7 +23,7 @@ Below is our current policy regarding usage of information collected by _iPhone 
 
 
 
-On occasion we may send you relevant email concerning our products or services. There is an opt-out notice on any such email we send you. We will do our best to honor your intentions if you didn't opt-in when signing up for our forum or email newsletters, or if you explicitly opted out. However, we may have received your email address in several ways, or you may have multiple email addresses, so please excuse any unintentional additional email. Please opt-out again, or you may contact us at newsletters[](https://web.archive.org/sites/all/modules/spamspan/image.gif)iphonelife [dot] com or call 800-373-6114, with concerns or problems.
+On occasion we may send you relevant email concerning our products or services. There is an opt-out notice on any such email we send you. We will do our best to honor your intentions if you didn't opt-in when signing up for our forum or email newsletters, or if you explicitly opted out. However, we may have received your email address in several ways, or you may have multiple email addresses, so please excuse any unintentional additional email. Please opt-out again, or you may contact us at newsletters@iphonelife.com or call 800-373-6114, with concerns or problems.
 
   1. With your permission, when you opt-in, we will on occasion send you email about iPhone-related products. We will not abuse this privilege. You will always have the opportunity to opt-out. You will always know that we are the source with any such email.
 
@@ -35,9 +35,9 @@ On occasion we may send you relevant email concerning our products or services. 
 
   5. We use traffic pattern information from our Web sites, collected demographics, and Web survey information to provide better, more appropriate editorial products, and to encourage vendors to advertise. We may share collective information internally and among potential advertisers, but we never share data about specific individuals.
 
-  6. If you have complaints or concerns, you may e-mail the Publisher, david[](https://web.archive.org/sites/all/modules/spamspan/image.gif)iphonelife [dot] com (David Averbach).
+  6. If you have complaints or concerns, you may e-mail the Publisher, [David Averbach](mailto:david@iphonelife.com).
 
-  7. If you wish to unsubscribe from any of our newsletters, use the Unsubscribe link that you'll find at the bottom of each newsletter we send you. Otherwise, send an e-mail to newsletters[](https://web.archive.org/sites/all/modules/spamspan/image.gif)iphonelife [dot] com with the word "Unsubscribe" in the subject line and let us know which newsletter you wish to be unsubscribed from.
+  7. If you wish to unsubscribe from any of our newsletters, use the Unsubscribe link that you'll find at the bottom of each newsletter we send you. Otherwise, send an e-mail to newsletters@iphonelife.com with the word "Unsubscribe" in the subject line and let us know which newsletter you wish to be unsubscribed from.
 
 
 
