@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the aviationjobsearch.com privacy policy that was archived on 2013-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130404013716id_/http%3A//www.aviationjobsearch.com/staticpages/40/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aviationjobsearch.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809012014id_/http%3A//www.aviationjobsearch.com/privacy-policy) for the most accurate reproduction.*
 
-# Aviationjobsearch.com Privacy Policy
-
-**General**
+# Privacy Policy | Aviation Job Search
 
 We make every effort to comply with our obligations under the 1998 Data Protection Act. Additionally, we understand the importance of maintaining the confidentiality of your CV and other information stored about you while using the website.
 
@@ -38,7 +36,7 @@ Please note that AviationJobSearch.com reserves the right to remove from our dat
 
 In submitting the registration form to us, you acknowledge that you have read, understood and accepted the terms of this Privacy Statement.
 
-**Updating Your Information**
+ **Updating Your Information**
 
 You are solely responsible for the information you provide and for keeping that information updated. You can remove any of the information that the Website stores about you, at any time, by logging on to your account.
 
@@ -66,11 +64,11 @@ If you require copies of any personal data held about you by the Website, you ma
 
 We reserve the right to access and disclose any information to comply with applicable laws and lawful requests by any appropriate authorities.
 
-**  
+ **  
 Security and protecting your Information**
 
-The Website servers are sited in a secure location and access is by authorised personnel only. The Website is protected against unauthorised access using the latest security devices and 'firewalls'. 
+The Website servers are sited in a secure location and access is by authorised personnel only. The Website is protected against unauthorised access using the latest security devices and 'firewalls'. 
 
-**Statistical Information**
+ **Statistical Information**
 
 We provide aggregate statistical information about site visitors and users to recruiters (such as the number of CVs on the database, or the number of visitors to the site) and for other lawful purposes. We provide this information to customers, advertisers, suppliers and other reputable third parties. This will not include any information that enables them to identify individuals. The Website will also use the aggregate data to identify employment trends across different industries, such as salary averages.
