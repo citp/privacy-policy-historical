@@ -1,18 +1,12 @@
-> *The following text is extracted and transformed from the keen.io privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502203118id_/https%3A//keen.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keen.io privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808113541id_/https%3A//keen.io/privacy-policy) for the most accurate reproduction.*
 
-# Keen IO - Analytics Backend as a Service
-
-## Keen Privacy Policy Abstract
+# Keen IO - The API for Custom Analytics
 
 Privacy matters, so we try to keep it simple. The true, legal privacy policy is below, but in an effort to push plain-language communication, we wanted to include an abstract. Like most websites and web services, we directly and indirectly collect some information about you. We do so in order to communicate with you and to try to make our service the best it can be. We respect your privacy and only share your information when the business requires it (e.g. payment processing). Your personal information is not a monetization channel for us. We may aggregate lots of user information and use it to learn and share what we’ve learned about analytics, but all personally identifiable information will be stripped from that dataset. Cool? Again, this is just an abstract. The nitty gritty is listed below. If you think our abstract is inconsistent with our policy, let us know. We really want to be on the up and up. 
 
-## Keen Privacy Policy
-
-##### Last updated: September 25, 2012
-
 This Privacy Policy explains how our practices regarding the information we collect through our website and related services (collectively, the “Service”). By submitting information through our website or services, you agree to the terms of this Privacy Policy and you expressly consent to the processing of your information according to this Privacy Policy. Your Information may be processed by us in the country where it was collected as well as other countries (including the United States) where laws regarding processing of information may be less stringent than the laws in your country. 
 
-### What Information Keen Collects
+### What Information Keen IO Collects
 
 We collect Personal Data and Anonymous Data from you when you visit our site, when you send us information or communications, and/or when you use our Service. “Personal Data” means data that allows someone to identify or contact you, including, for example, your name, telephone number, e-mail address, as well as any other non-public information about you that is associated with or linked to any of the foregoing data. “Anonymous Data” means data that is not associated with or linked to your Personal Data; Anonymous Data does not permit the identification of individual persons. 
 
@@ -20,7 +14,7 @@ We collect Personal Data and Anonymous Data from you when you visit our site, wh
   * If you send us feedback, send us an email or contact us via the Service, we will collect any Personal Data in that feedback, email or contact. 
   * If you participate in one of our surveys, we may collect additional Personal Data from you. 
   * We may combine Personal Data submitted by you with information obtained from other sources. 
-  * Like most websites, Keen collects certain information from you automatically, such as your Internet protocol address, browser type, operating system, and access time. 
+  * Like most websites, Keen IO collects certain information from you automatically, such as your Internet protocol address, browser type, operating system, and access time. 
 
 
 
@@ -28,17 +22,17 @@ We also use cookies and navigational data like Uniform Resource Locators (URL) t
 
 Our customers may use our Service to collect information from you. We are not responsible for any information you submit to our customers, each of which may have its own policies regarding the collection and use of your information. We recommend that you review the policies of our customers through whom your information may be collected and submitted to us. 
 
-### How Keen Uses Your Information
+### How Keen IO Uses Your Information
 
 In general, we use your Personal Data to respond to requests from you or to aid us in serving you better. We may use your Personal Data, including information tracking your use of our Service, to improve our website and Service. 
 
 We may use your Personal Data to periodically send you newsletters, administrative notices, updates regarding the Service and communications promoting the use of our Service. You may “opt-out” of such communications as set forth below. 
 
-### How Keen Shares Your Information
+### How Keen IO Shares Your Information
 
-Keen respects the privacy of our users and their data. We will not share the data you send us with any third-parties except in accordance with this Privacy Policy. 
+Keen IO respects the privacy of our users and their data. We will not share the data you send us with any third-parties except in accordance with this Privacy Policy. 
 
-We may use your Personal Data to create Anonymous Data by removing any information personally identifiable to you. We reserve the right to share Anonymous Data in our discretion. 
+We will NOT use or share the data recorded in Keen IO in raw or aggregate form for any purposes other than internal metrics. We will not sell or distribute any data recorded in raw or aggregate form to any third parties or partners. 
 
 If another company acquires us or our assets, that company will possess the Personal Data collected by it and us and will assume the rights and obligations described in this Privacy Policy. Your expressly consent to our transfer of Personal Data to such acquirer in connection with such acquisition. 
 
@@ -58,7 +52,7 @@ Our provision of a link to any other website or location is for your convenience
 
 ### Security
 
-Keen is committed to protecting the security of your information. We use a variety of industry-standard security technologies and procedures to help protect your information from unauthorized access, use, or disclosure, including limiting access to the data within Keen. Despite these measures, you should know that Keen cannot fully eliminate security risks associated with your information and mistakes may happen. 
+Keen IO is committed to protecting the security of your information. We use a variety of industry-standard security technologies and procedures to help protect your information from unauthorized access, use, or disclosure, including limiting access to the data within Keen IO. Despite these measures, you should know that Keen IO cannot fully eliminate security risks associated with your information and mistakes may happen. 
 
 ### Changes to this Policy
 
