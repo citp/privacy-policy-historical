@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fundersclub.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118095133id_/https%3A//thefundersclub.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fundersclub.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808081959id_/https%3A//fundersclub.com/site/privacy) for the most accurate reproduction.*
 
 # FundersClub | Privacy Policy
 
