@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silverlotto.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603002815id_/http%3A//www.silverlotto.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silverlotto.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808184924id_/http%3A//www.silverlotto.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -26,6 +26,10 @@ If you think I'm not sticking by my statements here, let me know by emailing me:
 **Information Collection and Use**
 
 Ken Silver Publishing is the sole owner of the information collected on this site. I collect information from you at several different points on my website But **note this** : I WILL NOT sell, share, or rent this information to others in ways different from those talked about here. 
+
+**VeriPurchase**
+
+VeriPurchase uses information collected from our customers through ClickBank in order to display in the VeriPurchase Customer Widget. This includes first name, first initial of last name, and country. To opt-out go to http://www.veripurchase.com/optout.php
 
 **Order Form detail**
 
