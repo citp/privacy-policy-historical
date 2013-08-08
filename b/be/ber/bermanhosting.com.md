@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bermanhosting.com privacy policy that was archived on 2013-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130120021814id_/https%3A//bermanhosting.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bermanhosting.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808211126id_/https%3A//bermanhosting.com/privacy.php) for the most accurate reproduction.*
 
 # BermanHosting.com - Privacy Policy
 
