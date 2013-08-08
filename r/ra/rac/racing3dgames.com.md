@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the racing3dgames.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605000908id_/http%3A//www.racing3dgames.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racing3dgames.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808154733id_/http%3A//www.racing3dgames.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 3D Racing Games
 
