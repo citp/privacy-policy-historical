@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the article-niche.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430174412id_/http%3A//article-niche.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the article-niche.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808184617id_/http%3A//article-niche.com/privacy.php) for the most accurate reproduction.*
 
 # The Article Niche Project | Privacy - Article Niche
 
@@ -7,7 +7,7 @@ Article Niche Project Privacy Policy |
   
 * * *  
   
-[Last Updated **April 2013** ] 
+[Last Updated **August 2013** ] 
 
 **The basics of our privacy statement**
 
