@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globallshare.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518225629id_/http%3A//www.globallshare.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globallshare.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808224714id_/http%3A//www.globallshare.com/privacy.html) for the most accurate reproduction.*
 
 # GlobAllShare™ World Wide
 
