@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the iphone4jailbreak.org privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612201150id_/http%3A//www.iphone4jailbreak.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iphone4jailbreak.org privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808124037id_/http%3A//www.iphone4jailbreak.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | iPhone 4 Jailbreak.org
+# Privacy Policy
 
-## [Privacy Policy](http://www.iphone4jailbreak.org/privacy-policy)
-
- **Privacy Policy for www.iphone4jailbreak.org**
+**Privacy Policy for www.iphone4jailbreak.org**
 
 If you require any more information or have any questions about our privacy policy, please feel free to [contact](http://www.iphone4jailbreak.org/contact "contact") us by email at onetrickaday@gmail.com.
 
