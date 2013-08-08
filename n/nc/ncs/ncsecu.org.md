@@ -1,27 +1,76 @@
-> *The following text is extracted and transformed from the ncsecu.org privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423223741id_/https%3A//www.ncsecu.org/Home/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncsecu.org privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808103046id_/https%3A//www.ncsecu.org/Home/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # State Employees' Credit Union - Privacy Policy
 
-State Employees' Credit Union is committed to keeping our members' financial and personal information secure and confidential. Member information will not be sold for any reason and remains confidential even after termination of membership. 
+FACTS | WHAT DOES STATE EMPLOYEES’ CREDIT UNION (SECU) DO WITH YOUR  
+PERSONAL INFORMATION?  
+---|---  
+  
+Why? | Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.   
+---|---  
+  
+What? | The types of personal information we collect and share depend on the product or services you have with us. This information can include: 
 
-## Collection
+  * Social Security number and income
+  * Account balances and payment history
+  * Account transactions and mortgage rates and payments
 
-Information is collected to provide members with requested services only. Information such as name, address, and social security number is collected upon applying for membership, a new account, or additional services. Credit and payment history information may be obtained when a member applies for a credit card or loan. Members will never be required by SECU employees to provide their Online Member Access password information. 
+When you are no longer our member, we continue to share your information as described in this notice.   
+---|---  
+  
+How? | All financial companies need to share members’ personal information to run their everyday business. In the section below, we list the reasons financial companies can share their members’ personal information; the reasons State Employees’ Credit Union chooses to share; and whether you can limit this sharing.   
+---|---  
+  
+Reasons we can share your personal information | Does SECU  
+share? | Can you limit  
+this sharing?  
+---|---|---  
+**For our everyday business purposes –** such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus | Yes | No  
+**For our marketing purposes –** to offer our products and services to you | Yes | No  
+**For joint marketing with other financial companies** | Yes | No  
+**For our affiliates’ everyday business purposes –** information about your transactions and experiences | Yes | No  
+**For our affiliates’ everyday business purposes –** information about your creditworthiness | No | We don’t share  
+**For nonaffiliates to market to you** | No | We don’t share  
+  
+Questions? | Call 888-732-8562 or go to www.ncsecu.org  
+---|---  
+  
+Who we are |   
+---|---  
+**Who is providing this notice?** | State Employees’ Credit Union; SECU*RE, Inc.; and SECU Life Insurance Co.  
+  
+What we do |   
+---|---  
+**How does SECU protect my personal information?** | To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings.  
+**How does SECU collect my personal information?** | We collect your personal information, for example, when you: 
 
-## Disclosure
+  * open an account or deposit money
+  * pay your bills or apply for a loan
+  * use your credit or debit card
 
-Financial information is disclosed within State Employees' Credit Union to provide competitive products and superior service. SECU employees have limited access to select member information necessary to perform daily operations including, but not limited to: 
+We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.   
+**Why can’t I limit all sharing?** | Federal law gives you the right to limit only: 
 
-  * transaction completion
-  * account maintenance
-  * additional service provisions, as requested by the member
+  * sharing for affiliates’ everyday business purposes – information about your creditworthiness
+  * affiliates from using your information to market to you
+  * sharing for nonaffiliates to market to you
+
+State laws and individual companies may give you additional rights to limit sharing.   
+  
+Definitions |   
+---|---  
+**Affiliates** | Companies related by common ownership or control. They can be financial and nonfinancial companies. 
+
+  * _Our affiliates include: SECU*RE, Inc.; SECU Life Insurance Co.; Credit Union Investment Services; and SECU Brokerage Services_
+
+  
+**Nonaffiliates** | Companies not related by common ownership or control. They can be financial and nonfinancial companies. 
+
+  * _SECU does not share with nonaffiliates so they can market to you._
+
+  
+**Joint marketing** | A formal agreement between nonaffiliated financial companies that together market financial products or services to you. 
+
+  * _Our joint marketing partners include insurance and financial services companies._
 
 
-
-Information is provided, on a limited basis, to external service providers that assist in delivering products to our membership. These service providers are required to agree, in writing, to confidentiality and privacy standards established by State Employees' Credit Union. 
-
-Occasionally, SECU may be required, by law, to disclose nonpublic personal information for governmental or judicial purposes. 
-
-## Methods
-
-Member information is kept secure and confidential through physical, electronic, and procedural safeguards that comply with Federal regulations and industry standards. Questions or concerns regarding our privacy commitment should be directed to a local branch or the Contact Center. 
