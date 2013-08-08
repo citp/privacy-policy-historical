@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the noeman.org privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511180006id_/http%3A//www.noeman.org/gsm/content/94-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noeman.org privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808121137id_/http%3A//www.noeman.org/gsm/content/94-privacy-policy.html) for the most accurate reproduction.*
 
-# Noeman GSM - Privacy Policy
+# GSM News - Privacy Policy
 
 Noeman GSM is committed to providing a safe and secure web site. We are dedicated to safeguarding all personal information collected online and to helping our users learn how to exercise control over personal information while exploring the Internet. To help ensure a rewarding online experience for all users, we provide this summary of our information practices. This privacy notice governs the collection and use of information at Noeman.org.
 
