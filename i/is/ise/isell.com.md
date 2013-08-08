@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the isell.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512233046id_/http%3A//www.isell.com/modules.php%3Fmod%3DExtra_Pages%26pg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isell.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808204549id_/http%3A//www.isell.com/privacy) for the most accurate reproduction.*
 
-# iSell.com Privacy Policy
-
-**Privacy Policy**
+# Free Classifieds - Post Free Ads at iSell.com for cars, boats, real estate, jobs and more!
 
 Personally identifiable information you provide iSell.com when you sign up will not be sold or given to outside sources without your permission. iSell.com uses the information we collect in order to provide you with personalized services, such as the Selling and Buying Center, Saved Searches, member ratings/reviews, and account information. 
 
 **Sign-up Information** In order to post, buy, or make an offer for item(s) and service(s) on iSell.com, you must become a iSell.com member. The member registration process requires that you provide your full name, city, state, country and email address. If you were referred to iSell.com from another web site, that web site may send us information that you provided to them. The information they provide is considered private, as if you provided it directly to us. 
 
-**Credit Cards** If you decide to add additional features to your ad such as Featured, Priority Sort, Bold or Highlighting you will be able to enter a credit card for billing convenience through our credit card partner PayPal. In order for the payment process to work propery we must confirm that sign-up information is valid. Members' credit cards will only be charged in accordance with our Fees and Payments Policy. Entering your credit card information on iSell.com is safe; we do not store any credit card information in our system or database and paypal uses industry-standard SSL-encryption to protect sensitive data transmissions. 
+**Credit Cards** If you decide to add additional features to your ad such as Featured, Priority Sort, Bold or Highlighting you will be able to enter a credit card for billing convenience through our credit card partner PayPal. In order for the payment process to work properly we must confirm that sign-up information is valid. Members' credit cards will only be charged in accordance with our Fees and Payments Policy. Entering your credit card information on iSell.com is safe; we do not store any credit card information in our system or database and PayPal uses industry-standard SSL-encryption to protect sensitive data transmissions. 
 
 **Personal Descriptions & Photos** In an effort to facilitate a trusting buying and selling community, we provide you with the option to submit pictures and/or a description of your item or service. When you post your classified ad on iSell.com, the ad description and pictures are displayed on the site and accessible to visitors on iSell.com. We will not allow lewd, nude, or semi-nude photos, so please do not upload them. Classifieds and photos are subject to approval and must meet the Classified Ad Guidelines. 
 
