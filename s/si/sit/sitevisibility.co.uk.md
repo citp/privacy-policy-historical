@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sitevisibility.co.uk privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423214816id_/http%3A//www.sitevisibility.co.uk/cookie-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitevisibility.co.uk privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808060138id_/http%3A//www.sitevisibility.co.uk/cookie-and-privacy-policy) for the most accurate reproduction.*
 
 # Cookie and Privacy Policy - SiteVisibility | SiteVisibility
 
@@ -15,7 +15,7 @@ The information collected from visitors to the website is anonymous and is used 
 
 Once a visitor completes the contact form, participates in a competition, accesses information behind a ‘wall’ (where the user must provide their personal details such as an email address) or contacts the company by email or phone, any data coming from that exchange will be recorded and kept in our database.
 
-The collected information can include your name, company and job title, address and contact details.
+The collected information can include your name, company and job title, address and contact details. Sitevisibility does not store credit card details.
 
 ## How SiteVisibility Uses the Collected Information
 
@@ -27,7 +27,7 @@ By completing any of the contact forms and submitting your information, you enab
 
 ## Sharing Your Information
 
-We will not sell your information, trade it with any other company, or use it for any other purpose other than to communicate to you offers about the Company’s own service offerings, or closely related events or opportunities we would reasonably consider you to have an interest in based on your initial or any subsequent requests.
+We will not sell your information, trade it with any other third party, or use it for any other purpose other than to communicate to you offers about the Company’s own service offerings, or closely related events or opportunities we would reasonably consider you to have an interest in based on your initial or any subsequent requests.
 
 ## How Long Will We Keep Your Data
 
@@ -130,8 +130,8 @@ The commenter cookies are set to expire a little less than one year from the tim
 
 ## Call Beacon (AdInsight) Cookies
 
-AdInsight is a phone call analytics tool, used by companies to understand the customer interaction between the website and calling the company. Three cookies are used by AdInsight to help demonstrate this journey so the business can improve their customer experience.  
-  
+AdInsight is a phone call analytics tool, used by companies to understand the customer interaction between the website and calling the company. Three cookies are used by AdInsight to help demonstrate this journey so the business can improve their customer experience.
+
 **Name**
 
 | 
@@ -142,9 +142,10 @@ AdInsight is a phone call analytics tool, used by companies to understand the cu
 
 **Expiration**  
   
+---|---|---  
 adiV | The adiV cookie contains an identifier which is used by AdInsight to track a visitor over time. This allows AdInsight to show multiple visits made by a customer over time from the same browser. | This cookie is set to expire 1 year after the visitor leaves the website.  
-adiVi  | The adiVi cookie contains an identifier which is used by AdInsight to help track a visitor’s path while they are on the website.  | This cookie is set to expire 30 minutes after the visitor leaves the website.  
-adiLP  | The adiLP cookie is used to help track visitors who have multiple tabs open in the same browser to prevent errors in tracking.  |    
+adiVi  | The adiVi cookie contains an identifier which is used by AdInsight to help track a visitor’s path while they are on the website.  | This cookie is set to expire 30 minutes after the visitor leaves the website.  
+adiLP  | The adiLP cookie is used to help track visitors who have multiple tabs open in the same browser to prevent errors in tracking.  |   
   
 ## Third Party Cookies
 
