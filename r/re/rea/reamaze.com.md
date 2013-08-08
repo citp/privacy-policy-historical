@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the reamaze.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010094302id_/http%3A//www.reamaze.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reamaze.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808055625id_/http%3A//www.reamaze.com/privacy) for the most accurate reproduction.*
 
-# Reamaze | Customer Lifecycle Management
+# Reamaze | Privacy Policy
 
 We understand that the security, privacy, and safety of your business data is one of the most important concerns. We've put together this privacy policy to communicate how serious we are about privacy and how we treat the information collected and received by your use of our website, [http://www.reamaze.com](http://www.reamaze.com/) ("Website", "us", "we", "our") and the customer lifecycle management services we provide. By visiting Reamaze’s website, or using any of our services or products, you acknowledge that you accept the policies and practices outlined here.
 
@@ -55,7 +55,7 @@ We reserve the right to make changes to this Privacy Policy at any given time. C
 If you have any questions, concerns, feedback, or comments about this Privacy Policy or our Website/service, please contacts us:
 
 Reamaze   
-920 Saratoga Ave Suite 250   
+920 Saratoga Ave Suite 213   
 San Jose, CA 95125   
 Email: [support@reamaze.com](mailto:support@%72e%61%6Daze%2Ecom)   
 
