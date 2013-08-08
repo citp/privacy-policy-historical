@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dmarcian.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502185955id_/http%3A//dmarcian.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dmarcian.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808144913id_/https%3A//dmarcian.com/privacy) for the most accurate reproduction.*
 
 # dmarcian - DMARC Tools For Humans
 
