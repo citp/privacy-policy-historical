@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the favequilts.com privacy policy that was archived on 2013-05-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130520073617id_/http%3A//www.favequilts.com/index.php/hct/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the favequilts.com privacy policy that was archived on 2013-08-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130808065740id_/http%3A//www.favequilts.com/index.php/hct/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://ogp.me/ns/fb#"><head>
 
@@ -38,7 +38,7 @@
 	
 	
 	<!-- START Bing verification -->
-						<meta name="msvalidate.01" content="8AC9DF1016A2AE6A9AF13929D3192FD8">
+						<meta name="msvalidate.01" content="CF33266DDC4229951386F3A5B3266E55">
 						
 		<!-- END Bing verification -->
 	
@@ -50,24 +50,24 @@
 	<!--<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>-->
 	<!--<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js"></script>-->
 	<!--<script type="text/javascript" src="/javascript/jquery-1.5.min.js"></script>-->
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery-1.5.2.min.js?v=3"></script>
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery-1.5.2.min.js?v=9"></script>
 	
 	<!-- start jquery ui -->
 	<!-- this was installed to get the autocomplete feature, contains: Core, Widget, Position, Autocomplete -->
-	<script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery-ui-1.8.12.custom/js/jquery-ui-1.8.12.custom.min.js?v=3"></script>
-	<link rel="stylesheet" type="text/css" href="/javascript/jquery-ui-1.8.12.custom/css/ui-lightness/jquery-ui-1.8.12.custom.css?v=3" media="screen">
+	<script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery-ui-1.8.12.custom/js/jquery-ui-1.8.12.custom.min.js?v=9"></script>
+	<link rel="stylesheet" type="text/css" href="/javascript/jquery-ui-1.8.12.custom/css/ui-lightness/jquery-ui-1.8.12.custom.css?v=9" media="screen">
 	<!-- end jquery ui -->
 	
 	
 	<!-- jQuery Tools Library (Tabs, Tooltip, Scrollable, Overlay, Expose. No jQuery) --> 
 	<!--<script src="http://cdn.jquerytools.org/1.1.0/tiny/jquery.tools.min.js"></script>-->
-		<script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery.tools.min_v1.1.0.js?v=3"></script>
+		<script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery.tools.min_v1.1.0.js?v=9"></script>
 	
 	
 
-	<script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery.form.js?v=3"></script>
+	<script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery.form.js?v=9"></script>
 	
-	<script type="text/javascript" src="http://cf2.primecp.com/javascript/site_functions.js?v=3"></script>
+	<script type="text/javascript" src="http://cf2.primecp.com/javascript/site_functions.js?v=9"></script>
 	
 	
 	
@@ -85,13 +85,13 @@
 			
 	
 			<!-- START getPageJavascript -->
-					<!-- array count: 3 -->
+					<!-- array count: 4 -->
 					<!-- START titter js -->
 		<script type="text/javascript">
 		
 			$(document).ready(
 				function() {
-					//alert('getJavascript_topSocialLinks ready line: 10706');
+					//alert('getJavascript_topSocialLinks ready line: 10769');
 					
 					$('#topSocialLinkMenu .socialButtonTable').show();
 					
@@ -151,7 +151,7 @@
 			
 			$(document).ready(
 				function() {
-					//alert('getJavascript_loginDhtmlContent ready - line: 15993');
+					//alert('getJavascript_loginDhtmlContent ready - line: 16294');
 					/**
 					 *set click handler for all the close boxes in the dhtml
 					 */
@@ -485,6 +485,32 @@
 		
 		</script>
 		<!-- END login dhtml js -->
+				<!-- START header search form js -->
+		<script type="text/javascript">
+			
+			var header_search_obj = {};
+			header_search_obj.form_id = 'headerSearchForm';
+			
+			$(document).ready(
+				function() {
+					//alert('getJavascript_headerSearchForm');
+					
+					$('#' + header_search_obj.form_id).submit(
+						function(){
+							//console.log('form submitted');
+							$(this).css(
+								{
+									'opacity': 0.2
+								}
+							);
+						}
+					);
+					
+				}
+			);
+			
+		</script>
+		<!-- END header search form js -->
 		<script type="text/javascript">
 
 
@@ -568,6 +594,10 @@ $(document).ready(
 			{
 				beforeSubmit: ajaxFormPreSubmit,
 				success: function(response) {
+					
+					// log all submits, passing something about the success/new user
+					post_newsletter_signup.logRightRailSubmit(response.is_new_signup, $('#newsletterSignUpForm :input[name=rriID]').val());
+					
 					
 					//alert('result = ' + response.result);
 					
@@ -1460,6 +1490,34 @@ function triggerWiderFunnel(){
 
 //------------------------------------------------------------------------------------------------------------
 
+post_newsletter_signup.logRightRailSubmit = function(isNewSignup, rriID){
+	//console.log('post_newsletter_signup.logRightRailSubmit');
+	//console.log('is_new_signup: ' + is_new_signup);
+	//console.log('rriID: ' + rriID);
+	
+	if(isNewSignup == 1 || isNewSignup == true){
+		isNewSignup = 1;
+	}else{
+		isNewSignup = 0;
+	}
+	
+	$.ajax(
+		{
+			type: "POST",
+			dataType: "json",
+			timeout: '10000',
+			url: "/ajax_process.php",
+			data: {
+				task: 'log_right_rail_submit',
+				rriID: rriID,
+				isNewSignup: isNewSignup
+			},
+			success: function(json) {
+			
+			}
+		}
+	);
+}
 
 
 
@@ -1673,18 +1731,18 @@ function triggerWiderFunnel(){
 	
 	
 			<!-- get css for the email signup creative -->
-		<link rel="stylesheet" href="/site_templates/signup_creative/css/nscID_54.css?v=3" type="text/css" media="screen">	
+		<link rel="stylesheet" href="/site_templates/signup_creative/css/nscID_54.css?v=9" type="text/css" media="screen">	
 			
 	
 	
-	<link type="text/css" rel="stylesheet" href="/css/jquery.rating.css?v=3" media="screen">
+	<link type="text/css" rel="stylesheet" href="/css/jquery.rating.css?v=9" media="screen">
 	
 	<!--
 	start css
 	-->
-	<link rel="stylesheet" href="/site_templates/0003/css/main_styles.css?v=3" type="text/css" media="screen">
+	<link rel="stylesheet" href="/site_templates/0003/css/main_styles.css?v=9" type="text/css" media="screen">
 	
-	<link rel="stylesheet" href="/site_templates/0003/css/print_styles.css?v=3" type="text/css" media="print">
+	<link rel="stylesheet" href="/site_templates/0003/css/print_styles.css?v=9" type="text/css" media="print">
 	
 	
 	
@@ -1705,7 +1763,7 @@ function triggerWiderFunnel(){
 
 			window.fbAsyncInit = function() {
 			
-				//console.log('call to window.fbAsyncInit line 15823');
+				//console.log('call to window.fbAsyncInit line 16124');
 			
 				FB.init({
 					appId      : '332445243477824', // App ID Favecrafts
@@ -1857,6 +1915,57 @@ function triggerWiderFunnel(){
 			
 		</script>
 		<!-- END Facebook Javascript SDK js -->
+				<!-- START event tracking - related articles js -->
+		<script type="text/javascript">
+			
+			var eventTracking_outboundLinks = {};
+			eventTracking_outboundLinks.link_class = 'outboundLink';
+			
+			$(document).ready(
+				function() {
+		
+					//alert('getJavascript_eventTracking_outboundLinks ready');
+					//console.log('getJavascript_eventTracking_outboundLinks ready');
+					
+					eventTracking_outboundLinks.initEventTracking();
+					
+					
+				} // end main func
+			); // end ready;
+			
+			
+			eventTracking_outboundLinks.initEventTracking = function(){
+				//console.log('eventTracking_outboundLinks.initEventTracking');
+				
+				$('a.'+ eventTracking_outboundLinks.link_class).click(
+					function(){
+						var link_url = $(this).attr('href');
+						//console.log('link_url: ' + link_url);
+						
+						var page_title_obj = $('head title')[0];
+						//console.log( $(page_title_obj).html() );
+						
+						_gaq.push(
+							[
+								'_trackEvent', 
+								'Click', 
+								'OutboundExternal', 
+								$(page_title_obj).html(),
+								, 
+								false
+							]
+						);
+						
+						
+						//return false;
+					}
+				);
+				
+			}
+			
+			
+		</script>
+		<!-- END event tracking - related articles js -->
 			
 				
 		
@@ -1864,7 +1973,6 @@ function triggerWiderFunnel(){
 <body id="site39" itemscope="" itemtype="http://schema.org/Article">
 
 <div id="fb-root"></div>
-
 
 
 
@@ -1948,7 +2056,7 @@ function triggerWiderFunnel(){
 			<table id="logoTable" border="0">
 				<tbody><tr>
 					<td>
-								<a id="headerLogo" href="/"><img src="http://cf2.primecp.com/site_templates/0003/images/site_logo_internal_sID39.gif?v=3" alt="FaveQuilts.com"></a>
+								<a id="headerLogo" href="/"><img src="http://cf2.primecp.com/site_templates/0003/images/site_logo_internal_sID39.gif?v=9" alt="FaveQuilts.com"></a>
 			<div id="thisPageLinks" class="internal" style="margin-top: 10px;"><a class="firstLink" href="/site-map">Site Map</a><a href="/rss-feed">RSS</a><!--<a href="javascript: alert('Coming Soon');">Shop</a>--><a href="" class="lastLink" onclick="return bookmark('http://www.favequilts.com/index.php/hct/privacy_policy','');">Bookmark</a><!--<a id="emailPageLink" class="lastLink" href="#">Email This Page</a>--></div>
 						</td>
 					<td class="" style="text-align: right; padding: 5px 5px 0 0; width: 735px;">
@@ -2025,59 +2133,86 @@ function triggerWiderFunnel(){
 					
 					<ul>
 									<li class=""><a class="" href="/Applique">Applique</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Art-Quilts">Art Quilts</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Bags-Purses-Totes">Bags, Purses and Totes</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Bed-Size-Quilts">Bed Size Quilts</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Block-Patterns">Block Patterns</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Books-and-Products">Books &amp; Products</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Christmas-Projects">Christmas Projects</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Holiday-Quilting">Holiday Quilting</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Kids-Quilts">Kids Quilts</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Mini-Quilts-and-Doll-Quilts">Mini Quilts and Doll Quilts</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Miscellaneous-Quilt-Projects">Miscellaneous Quilt Projects</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Monthly-Quilting-Favorites">Monthly Quilting Favorites</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Paper-Piecing">Paper Piecing</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Patterns-for-Quilting">Patterns for Quilting</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Quilt-Companies">Quilt Companies</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Quilt-Designers">Quilt Designers</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Quilt-for-Charity">Quilt for Charity</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Quilted-Gifts">Quilted Gifts</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Quilted-Home-Dec">Quilted Home Dec</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Quilted-Wearables">Quilted Wearables</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Quilting-For-Baby">Quilting For Baby</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Seasonal-Quilts">Seasonal Quilts</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Special-Occasion-Quilts">Special Occasion Quilts</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/T-Shirt-Quilts">T-Shirt Quilts</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Techniques-and-Videos">Techniques &amp; Videos</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Throws-and-Lap-Quilts">Throws and Lap Quilts</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Wall-Quilts">Wall Quilts</a>
-											</li>
+											<!-- </a> -->
+										</li>
 									
 			</ul>	
 					</div><!-- end mainMenuDiv -->
@@ -2258,15 +2393,16 @@ function triggerWiderFunnel(){
 				</td><!-- end col2 -->
 				<td id="col3">
 												<div style="margin: 0 0 10px 0;">
-											
-		<div id="newsletterSignUpDivSiteID39">
-			<h3>Newsletter Signup</h3>
+										<div class="newsletterSignUpDiv" id="newsletterSignUpDivSiteID39">
+						<h3>Newsletter Signup</h3>
 			
 			<div id="newsletterSignUpDiv2">
 		
 				<form id="newsletterSignUpForm" class="contentBoxPadding" action="/newsletter_signup.php" method="post">
 					<input type="hidden" name="task" value="signup">
-					<input type="hidden" name="PHPSESSID" value="bht2nfvbv6jaon9fasquvp7pb0">
+					<input type="hidden" name="PHPSESSID" value="8osfkoeu0jmv8ovdrp0n3fqjf6">
+					<input type="hidden" name="rriID" value="0">
+					
 					
 					<img style="float: right; margin: 0 0 5px 5px;" src="http://cf2.primecp.com/site_templates/0003/images/newsletter_signup_bg_sID39.png" alt="">
 					
@@ -2301,16 +2437,16 @@ function triggerWiderFunnel(){
 				<div class="contentBoxPadding">
 										<h4></h4>
 								<ol>
-									 <li><a href="/Quilts-For-Baby/Blooming-Tied-Quilt/ct/1">Blooming Tied Quilt</a></li>
-					 					 <li><a href="/Throws-and-Lap-Quilts/Stripe-Power-Quilt-from-AccuQuilt/ct/1">Stripe Power Quilt</a></li>
-					 					 <li><a href="/Table-and-Placemats/Modern-Dresden-Quilt-Table-Runner/ct/1">Modern Dresden Quilt Table Runner</a></li>
-					 					 <li><a href="/Throws-and-Lap-Quilts/Two-by-Two-Stripe-Quilt-Pattern-from-Michael-Miller-Fabrics/ct/1">Two by Two Stripe Quilt Pattern</a></li>
-					 					 <li><a href="/Throws-and-Lap-Quilts/Windmills-at-Night-Quilt/ct/1">Windmills at Night Quilt</a></li>
-					 					 <li><a href="/Block-Patterns/Bejeweled-Quilt-Block-Pattern/ct/1">Bejeweled Quilt Block Pattern</a></li>
-					 					 <li><a href="/Throws-and-Lap-Quilts/Homemade-Blessings-Patchwork-Quilt/ct/1">Homemade Blessings Patchwork Quilt</a></li>
-					 					 <li><a href="/Quilts-For-Baby/Abacus-Baby-Quilt/ct/1">Abacus Baby Quilt</a></li>
-					 					 <li><a href="/Paper-Piecing/Twists-and-Turns-Block/ct/1">Twists and Turns Block</a></li>
-					 					 <li><a href="/Quilts-For-Baby/Lil-Twister-Quilt/ct/1">Lil' Twister Quilt</a></li>
+									 <li><a href="/Quilts-For-Baby/A-Hundred-Hugs-Baby-Quilt/ct/1">A Hundred Hugs Baby Quilt</a></li>
+					 					 <li><a href="/Miscellaneous-Quilt-Projects/Free-Jelly-Roll-Quilt-Patterns/ct/1">15 Free Jelly Roll Quilt Patterns</a></li>
+					 					 <li><a href="/Quilts-For-Baby/Magic-Jelly-Roll-Quilt/ct/1">Magic Jelly Roll Quilt</a></li>
+					 					 <li><a href="/Throws-and-Lap-Quilts/Jelly-Roll-Braid-Quilt/ct/1">Jelly Roll Braid Quilt</a></li>
+					 					 <li><a href="/String-Quilt-Patterns/Super-String-Quilts-13-Paper-Piecing-and-Scrap-Quilt-Patterns/ct/1">Super String Quilts: 13 Paper Piecing and Scrap Quilt Patterns</a></li>
+					 					 <li><a href="/Quilts-For-Baby/Buzz-Stars-Baby-Quilt/ct/1">Buzz Stars Baby Quilt</a></li>
+					 					 <li><a href="/Summer-Quilts/Rail-Fence-Picnic-Quilt-from-Martingale/ct/1">Rail Fence Picnic Quilt</a></li>
+					 					 <li><a href="/Throws-and-Lap-Quilts/The-Incredible-Scrappy-Bargello/ct/1">The Incredible Scrappy Bargello</a></li>
+					 					 <li><a href="/Twin/Loose-Change-Quilt/ct/1">Loose Change Quilt</a></li>
+					 					 <li><a href="/Throws-and-Lap-Quilts/Beginners-First-Quilt/ct/1">Beginner's First Quilt</a></li>
 					 			</ol>
 							</div>
 				
@@ -2438,10 +2574,7 @@ function triggerWiderFunnel(){
 										<a href="/index.php/hct/terms_service">Terms of Service</a>
 										<a href="/section/subctr/">Unsubscribe</a>
 								</p>
-					<!--
-		<p id="footerMenu">bb<a style="border: 0;" href="/index.php/hct/about_us">About Us</a><a href="/index.php/hct/advertise">Advertise</a><a href="/index.php/hct/privacy_policy">Privacy Policy</a><a href="/index.php/hct/contact_us_page">Contact Us</a><a href="/index.php/hct/terms_service">Terms of Service</a><a class="contestRulesLink" href="">Rules</a>mm</p>
-		-->
-							</div>
+								</div>
 									<div style="margin: 0; ">
 								
 		<table style="margin: 0 auto;">
@@ -2880,8 +3013,7 @@ function triggerWiderFunnel(){
 			</div><!-- end newsletterSignUpDivAnime -->
 
 				<!-- END NL signup div -->
-			
-		
+	
 		
 		<!-- START Vibrant code -->
 						<!-- start Vibrant Media IntelliTXT script section -->
@@ -2889,8 +3021,8 @@ function triggerWiderFunnel(){
 				<!-- end Vibrant Media IntelliTXT script section -->
 						
 		<!-- END Vibrant code -->
-		
-		
+
+
 				
 		
 		<!-- START Google Remarketing code -->
@@ -2898,25 +3030,30 @@ function triggerWiderFunnel(){
 		<!-- END Google Remarketing code -->
 		
 		
-		
-		<!-- START datonics.com -->
-						<script type="text/javascript" src="http://ads.pro-market.net/ads/scripts/site-132971.js"></script>
-						<!-- END datonics.com -->
-		
-		<!-- START swoop -->
-				<!-- END swoop -->
+				
+				
 
-
-
+					
+			<!-- START comScore Tag -->
+						<!-- END comScore Tag -->
+			
+			<!-- START crazy egg Tag -->
+						<!-- END crazy egg Tag -->
+			
+			<!-- START datonics.com -->
+							<script type="text/javascript" src="http://ads.pro-market.net/ads/scripts/site-132971.js"></script>
+							<!-- END datonics.com -->
+			
+			<!-- START swoop -->
+						<!-- END swoop -->
+					
 		
+		
+
 				
 		
 		
-						<div id="multiLoginDiv"></div>
-				<!--
-				<iframe onload="multiSiteLoginCheck('not_logged_in');" src ="http://c.primecp.com/multi_site_login.php?task=not_logged_in&x=1369035376&sid=39&sessid=bht2nfvbv6jaon9fasquvp7pb0" width="80%" height="600"></iframe>
-				-->
-						
+		...		
 		
 
 
