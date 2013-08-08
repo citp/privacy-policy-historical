@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mydonedone.com privacy policy that was archived on 2013-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130124093208id_/http%3A//www.getdonedone.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydonedone.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808232737id_/http%3A//www.getdonedone.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - DoneDone
 
 ## Information Gathering and Usage
 
-We Are Mammoth may collect data from you that you provide to us voluntarily, such as your name, postal address, e-mail address, telephone number, and other personal information. The information we collect is used to improve the content of our Web site, productions, services, and programs to the public, suppliers, and our clients, and may be used to contact you via e-mail or by regular mail, and to provide you with information that we believe to be of interest to you. The information you share with We Are Mammoth through the Service or any other services provided by We Are Mammoth is not shared with or sold to other people or organizations for commercial purposes, except when you have permitted us to do so in order to provide products or services you've requested.
+We Are Mammoth may collect data from you that you provide to us voluntarily, such as your name, postal address, e-mail address, telephone number, and other personal information. The information we collect is used to improve the content of our Web site, productions, services, and programs to the public, suppliers, and our clients, and may be used to contact you via e-mail or by regular mail, and to provide you with information that we believe to be of interest to you. The information you share with We Are Mammoth through the Service or any other services provided by We Are Mammoth is not shared with or sold to other people or organizations for commercial purposes, except when you have permitted us to do so in order to provide products or services you’ve requested.
 
 ## Transfer of Information Outside We Are Mammoth
 
@@ -16,7 +16,7 @@ We Are Mammoth uses third party vendors and hosting partners to provide the nece
 
 ## Cookies
 
-A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's computers and stored on your computer's hard drive. Cookies are required to use the DoneDone service. We use cookies to record current session information, but do not use permanent cookies. You are required to log-in to your DoneDone Site after a certain period of time has elapsed to protect you against others accidentally accessing your account contents.
+A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site’s computers and stored on your computer’s hard drive. Cookies are required to use the DoneDone service. We use cookies to record current session information, but do not use permanent cookies. You are required to log-in to your DoneDone Site after a certain period of time has elapsed to protect you against others accidentally accessing your account contents.
 
 ## Disclosure
 
