@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the digitalcinema.com.au privacy policy that was archived on 2013-05-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130505222232id_/http%3A//www.digitalcinema.com.au/terms_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the digitalcinema.com.au privacy policy that was archived on 2013-08-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130809015300id_/http%3A//www.digitalcinema.com.au/terms_privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -15,6 +15,7 @@
 <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js"></script>
 <link type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/themes/base/jquery-ui.css" rel="stylesheet">
+<link type="text/css" href="/a/c/default.css" rel="stylesheet">
 
 
 <script type="text/javascript">
@@ -30,8 +31,31 @@
     var PageText_843 = "Subtotal";
     var PageText_844 = "items in cart";
 </script>
+<script type="text/javascript" src="/a/j/volusion.js?6.40.5.219"></script>
+<script type="text/javascript">
+    (function ($) {
+        volusion.ready(function () {
+            if (volusion.cart.isObservingCount()) {
+                var ts = new Date().getTime();
 
-<script type="text/javascript" src="/a/j/javascripts.js?6_5_currentBuild"></script>
+                $.getJSON('/ajaxcart.asp?cachebust=' + ts, function (data) {
+                    var quantityTotal = 0;
+                    $.each(data.Products, function (key, val) {
+                        if (val.IsProduct === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        } else if (val.IsAccessory === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        }
+                    });
+                    quantityTotal = quantityTotal || '0';
+                    volusion.cart.itemCount(quantityTotal);
+                });
+
+            }
+        });
+    } (jQuery));
+</script>
+<script type="text/javascript" src="/a/j/javascripts.js?6_5_6.40.5.219"></script>
 
 <script type="text/javascript">
 	var Config_Search_Auto_Complete = true;
@@ -55,6 +79,15 @@ ONLY PUT CSS/JAVSCRIPT INCLUDES IN YOUR HEAD TAG
 <meta itemprop="currency" content="AUD">
 <base target="_top">
 
+
+
+
+
+
+
+
+
+
 <!-- stylesheets -->
   	<link rel="stylesheet" href="//www.digitalcinema.com.au/v/vspfiles/assets/scripts/sliding-panel/css/style.css" type="text/css" media="screen">
   	<link rel="stylesheet" href="//www.digitalcinema.com.au/v/vspfiles/assets/scripts/sliding-panel/css/slide.css" type="text/css" media="screen">
@@ -65,7 +98,103 @@ ONLY PUT CSS/JAVSCRIPT INCLUDES IN YOUR HEAD TAG
 <link type='text/css' href='//www.digitalcinema.com.au/v/vspfiles/assets/scripts/simple-modal/basic_ie.css' rel='stylesheet' media='screen' />
 <![endif]-->
 
+
 <style type="text/css">
+<!-- promotional banner slider style -->
+/* http://www.menucool.com */
+
+#sliderFrame {position:relative;width:960px; height:75px; margin: 0 auto;} /*remove the "margin:0 auto;" if you want to align the whole slider to the left side*/
+        
+#slider {
+    width:960px;height:75px;/* Make it the same size as your images */
+	background:#fff url(//www.digitalcinema.com.au/v/vspfiles/assets/scripts/sliding-panel/images/loading.gif) no-repeat 50% 50%;
+	position:relative;
+	margin:0 auto;/*make the image slider center-aligned */
+    box-shadow: 0px 1px 5px #999999;
+}
+#slider img {
+	position:absolute;
+	border:none;
+	display:none;
+}
+
+/* the link style (if an image is wrapped in a link) */
+#slider a.imgLink {
+	z-index:2;
+	display:none;position:absolute;
+	top:0px;left:0px;border:0;padding:0;margin:0;
+	width:100%;height:100%;
+}
+
+/* Caption styles 
+div.mc-caption-bg, div.mc-caption-bg2 {
+	position:absolute;
+	width:100%;
+	height:auto;
+	padding:0;
+	left:0px; /*if the caption needs to be aligned from right, specify by right instead of left. i.e. right:20px;
+	bottom:0px;/*if the caption needs to be aligned from top, specify by top instead of bottom. i.e. top:150px;*
+	z-index:3;
+	overflow:hidden;
+	font-size: 0;
+}
+div.mc-caption-bg {
+	background-color:black;
+}
+div.mc-caption {
+	font: bold 14px/20px Arial;
+	color:#EEE;
+	z-index:4;
+	padding:10px 0;/*Adding a padding-left or padding-right here will make the caption area wider than its background. Sometimes you may need to define its width again here to keep it the same width as its background area (div.mc-caption-bg).*
+	text-align:center;
+}
+div.mc-caption a {
+	color:#FB0;
+}
+div.mc-caption a:hover {
+	color:#DA0;
+}
+
+
+/* ------ built-in navigation bullets wrapper ------*/
+div.navBulletsWrapper  {
+	top:60px; left:830px;/* Its position is relative to the #slider */
+	width:150px;
+	background:none;
+	padding-left:20px;
+	position:relative;
+	z-index:5;
+	cursor:pointer;
+        text-align:right;
+}
+
+/* each bullet */
+div.navBulletsWrapper div 
+{
+    width:11px; height:11px;
+    background:transparent url(//www.digitalcinema.com.au/v/vspfiles/assets/scripts/sliding-panel/images/bullet.png) no-repeat 0 0;
+    float:left;overflow:hidden;vertical-align:middle;cursor:pointer;
+    margin-right:11px;/* distance between each bullet*/
+    _position:relative;/*IE6 hack*/
+}
+
+div.navBulletsWrapper div.active {background-position:0 -11px;}
+
+
+/* --------- Others ------- */
+#slider 
+{
+	transform: translate3d(0,0,0);
+    -ms-transform:translate3d(0,0,0);
+    -moz-transform:translate3d(0,0,0);
+    -o-transform:translate3d(0,0,0);
+}
+
+<!-- end of promotional banner style-->
+
+
+
+
 #wrapper {
     width:575px;
 }
@@ -103,9 +232,26 @@ ul.tabs li a {
     border: 1px solid #0C215A;
     height:100px;
 }
+
+
 </style>
 
+
+ 
+
+
+
+
+
 <script src="/v/vspfiles/templates/digitalcinem/js/fadeslideshow.js" type="text/javascript"></script>
+
+
+<!-- 
+=====================
+*********************************
+=====================
+-->  
+<script type="text/javascript" src="//www.digitalcinema.com.au/v/vspfiles/assets/scripts/jquery-1.3.2.min.js"></script>
 
  <!-- Load jQuery, SimpleModal and Basic JS files -->
 <script type="text/javascript" src="//www.digitalcinema.com.au/v/vspfiles/assets/scripts/simple-modal/jquery.simplemodal.js"></script>
@@ -121,81 +267,8 @@ ul.tabs li a {
 	<![endif]-->
 	 
 
-        <!--promotion Banner Slider effect - added on 2-05-2013 by Adarsh Khatri 
-        <script src="//www.digitalcinema.com.au/v/vspfiles/assets/scripts/sliding-panel/js/promotionBannerSlider.js" type="text/javascript"></script>-->
-
-<!-- promotion banner slider pannel -->
-<script>
-
-$(document).ready(function() {
-
-	//Set Default State of each portfolio piece
-	$(".paging").show();
-	$(".paging a:first").addClass("active");
-		
-	//Get size of images, how many there are, then determin the size of the image reel.
-	var imageWidth = $(".window").width();
-	var imageSum = $(".image_reel img").size();
-	var imageReelWidth = imageWidth * imageSum;
-	
-	//Adjust the image reel to its new size
-	$(".image_reel").css({'width' : imageReelWidth});
-	
-	//Paging + Slider Function
-	rotate = function(){    
-		var triggerID = $active.attr("rel") - 1; //Get number of times to slide
-		var image_reelPosition = triggerID * imageWidth; //Determines the distance the image reel needs to slide
-
-		$(".paging a").removeClass('active'); //Remove all active class
-		$active.addClass('active'); //Add active class (the $active is declared in the rotateSwitch function)
-		
-		//Slider Animation
-		$(".image_reel").animate({ 
-			left: -image_reelPosition
-		}, 1000 );
-		
-	}; 
-	
-	//Rotation + Timing Event
-	rotateSwitch = function(){        
-		play = setInterval(function(){ //Set timer - this will repeat itself every 3 seconds
-			$active = $('.paging a.active').next();
-			if ( $active.length === 0) { //If paging reaches the end...
-				$active = $('.paging a:first'); //go back to first
-			}
-			rotate(); //Trigger the paging and slider function
-		}, 3000); //Timer speed in milliseconds (3 seconds)
-	};
-	
-	rotateSwitch(); //Run function on launch
-	
-	//On Hover
-	$(".image_reel a").hover(function() {
-		clearInterval(play); //Stop the rotation
-	}, function() {
-		rotateSwitch(); //Resume rotation
-	});    
-	
-	//slide up and down when hover over heading 2
-	$(".window").hover(function(){
-		// slide toggle effect set to slow you can set it to fast too.
-		$(".desc").eq( $('.paging a.active').attr("rel") - 1 ).slideToggle("slow");
-		return true;
-	});
-	
-	//On Click
-	$(".paging a").click(function() {    
-		$active = $(this); //Activate the clicked paging
-		//Reset Timer
-		clearInterval(play); //Stop the rotation
-		rotate(); //Trigger rotation immediately
-		rotateSwitch(); // Resume rotation
-		return false; //Prevent browser jump to link anchor
-	});    
-
-});
-
-</script>
+        <!--promotion Banner Slider effect - added on 07-05-2013 by Adarsh Khatri -->
+        <script src="//www.digitalcinema.com.au/v/vspfiles/assets/scripts/sliding-panel/js/promotionBannerSlider1.js" type="text/javascript"></script>
 
 
 
@@ -264,6 +337,14 @@ function MM_swapImage() { //v3.0
 
 
 
+
+
+
+
+
+
+
+
 </head>
 
 <body id="body" onload="MM_preloadImages('https://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/homepage/vbanner2-hover_01.jpg, https://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/homepage/vbanner2-hover_02.jpg, https://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/homepage/vbanner2-hover_03.jpg, https://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/homepage/vbanner2-hover_04.jpg, https://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/homepage/vbanner2-hover_05.jpg, https://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/homepage/vbanner2-hover_06.jpg, https://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/homepage/vbanner2-hover_07.jpg, https://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/homepage/vbanner2-hover_08.jpg, https://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/homepage/vbanner2-hover_09.jpg, https://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/homepage/vbanner2-hover_10.jpg, https://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/homepage/vbanner2-hover_11.jpg, https://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/homepage/vbanner2-hover_12.jpg,
@@ -272,6 +353,12 @@ https://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/templa
 https://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/template/nav_bar_hover_03.png,
 https://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/template/nav_bar_hover_04.png,
 https://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/template/nav_bar_hover_05.png')">
+
+
+
+
+
+
 <div id="container">
 	<div id="content">
 		<!-- modal content -->
@@ -359,7 +446,7 @@ vertical-align: middle;box-shadow: 3px 0 5px #000;">&nbsp;&nbsp;EASTER WEEKEND: 
         </div>
     	</div>
 
-<div style="position:absolute;top:0;right:-14px;"><a href="https://www.digitalcinema.com.au/Latest-Promotions-Digital-Cinema-s/461.htm"><img src="/v/vspfiles/templates/digitalcinem/images/template/header-promotion-klipsch-rf.png" border="0"></a>
+<div style="position:absolute;top:0;right:-14px;"><a href="https://www.digitalcinema.com.au/Latest-Promotions-Digital-Cinema-s/461.htm"><img src="/v/vspfiles/templates/digitalcinem/images/template/Wharfedale10-6.png" border="0"></a>
 
 </div>
 
@@ -381,11 +468,13 @@ vertical-align: middle;box-shadow: 3px 0 5px #000;">&nbsp;&nbsp;EASTER WEEKEND: 
 			<a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image23','','http://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/template/nav_bar_hover_04.png',23)"><img src="http://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/template/nav_bar_04.png" width="88" height="36" style="display:block" id="Image23"></a>
             
 <ul style="padding:0; margin:0;">
-<div style="background-color: #0166da; padding:10px; margin-top:1px; border-radius:8px; height:465px; width:700px;">
+<div style="background-color: #0166da; padding:10px; margin-top:1px; border-radius:8px; height:480px; width:700px;">
             <li><div style="float:left;width:140px;">
             <a href="https://www.digitalcinema.com.au/SearchResults.asp?mfg=Acer" style="padding:4px 10px 4px 10px">Acer</a>
+            <a href="https://www.digitalcinema.com.au/SearchResults.asp?mfg=Acurus" style="padding:4px 10px 4px 10px">Acurus</a>
             <a href="https://www.digitalcinema.com.au/SearchResults.asp?mfg=AIX+Records" style="padding:4px 10px 4px 10px;">AIX Records</a>
             <a href="https://www.digitalcinema.com.au/SearchResults.asp?mfg=AKG" style="padding:4px 10px 4px 10px;">AKG</a>
+            <a href="https://www.digitalcinema.com.au/SearchResults.asp?mfg=Aragon" style="padding:4px 10px 4px 10px">Aragon</a>
             <a href="https://www.digitalcinema.com.au/SearchResults.asp?mfg=Arcam" style="padding:4px 10px 4px 10px;">Arcam</a>
             <a href="https://www.digitalcinema.com.au/SearchResults.asp?mfg=Audio+Dimension" style="padding:4px 10px 4px 10px;">Audio Dimension</a>
             <a href="https://www.digitalcinema.com.au/SearchResults.asp?mfg=Audiolab" style="padding:4px 10px 4px 10px;">Audiolab</a>
@@ -399,16 +488,18 @@ vertical-align: middle;box-shadow: 3px 0 5px #000;">&nbsp;&nbsp;EASTER WEEKEND: 
             <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Carson" style="padding:4px 10px 4px 10px;">Carson</a>
             <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Carson+Screens" style="padding:4px 10px 4px 10px;">Carson Screens</a>
             <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Casio" style="padding:4px 10px 4px 10px;">Casio</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Chief" style="padding:4px 10px 4px 10px;">Chief</a>
             <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=ClearAudio" style="padding:4px 10px 4px 10px;">ClearAudio</a>
             <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Conran+Audio" style="padding:4px 10px 4px 10px;">Conran Audio</a>
+</div>
+
+            <div style="float:left;width:140px;">
             <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Creek" style="padding:4px 10px 4px 10px;">Creek</a>
             <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=DALI" style="padding:4px 10px 4px 10px;">DALI</a>
-</div>
-            <div style="float:left;width:140px;">
             <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Definitive+Technology" style="padding:4px 10px 4px 10px;">Definitive Technology</a>
             <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Denon" style="padding:4px 10px 4px 10px;">Denon</a>
             <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Dune+HD" style="padding:4px 10px 4px 10px;">Dune HD</a>
-                        <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=ELAN" style="padding:4px 10px 4px 10px">ELAN</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=ELAN" style="padding:4px 10px 4px 10px">ELAN</a>
             <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Elegance+Screens" style="padding:4px 10px 4px 10px;">Elegance Screens</a>
             <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Energy" style="padding:4px 10px 4px 10px;">Energy</a>
             <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Epos" style="padding:4px 10px 4px 10px;">Epos</a>
@@ -419,48 +510,52 @@ vertical-align: middle;box-shadow: 3px 0 5px #000;">&nbsp;&nbsp;EASTER WEEKEND: 
             <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Harman+Kardon" style="padding:4px 10px 4px 10px;">Harmon Kardon</a>
             <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=HiVi+Swan" style="padding:4px 10px 4px 10px;">HiVi Swan</a>
             <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Infocus" style="padding:4px 10px 4px 10px;">Infocus</a>
-                        <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Jamo" style="padding:4px 10px 4px 10px;">Jamo</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Jamo" style="padding:4px 10px 4px 10px;">Jamo</a>
             <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=JBL" style="padding:4px 10px 4px 10px;">JBL</a>
             <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Jenson" style="padding:4px 10px 4px 10px;">Jenson</a>
-                        <a href="http://www.digitalcinema.com.au/JVC-Home-Cinema-Projectors-and-Packages-s/52.htm" style="padding:4px 10px 4px 10px;">JVC</a>
+            <a href="http://www.digitalcinema.com.au/JVC-Home-Cinema-Projectors-and-Packages-s/52.htm" style="padding:4px 10px 4px 10px;">JVC</a>
             <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=KEF" style="padding:4px 10px 4px 10px;">KEF</a>
-            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Kenwood" style="padding:4px 10px 4px 10px;">Kenwood</a>
             </div>
-                        <div style="float:left;width:140px;">
-                        <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Klipsch" style="padding:4px 10px 4px 10px;">Klipsch</a>
-                        <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Koss" style="padding:4px 10px 4px 10px;">Koss</a>
+
+            <div style="float:left;width:140px;">
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Kenwood" style="padding:4px 10px 4px 10px;">Kenwood</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Klipsch" style="padding:4px 10px 4px 10px;">Klipsch</a>
+           <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Koss" style="padding:4px 10px 4px 10px;">Koss</a>
             <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Lehmann+Audio" style="padding:4px 10px 4px 10px;">Lehmann Audio</a>
             <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Lenehan+Audio" style="padding:4px 10px 4px 10px;">Lelehan Audio</a>
-                        <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Logic3" style="padding:4px 10px 4px 10px;">Logic3</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Logic3" style="padding:4px 10px 4px 10px;">Logic3</a>
             <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=LP+Morgan" style="padding:4px 10px 4px 10px;">LP Morgan</a>
-                        <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Magnat" style="padding:4px 10px 4px 10px">Magnat</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Magnat" style="padding:4px 10px 4px 10px">Magnat</a>
             <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Marantz" style="padding:4px 10px 4px 10px;">Marantz</a>
             <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=MartinLogan" style="padding:4px 10px 4px 10px;">Martin Logan</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=MISSION" style="padding:4px 10px 4px 10px;">Mission</a>
             <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=MIT" style="padding:4px 10px 4px 10px;">MIT</a>
             <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Mitsubishi" style="padding:4px 10px 4px 10px;">Mitsubishi</a>
             <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=MK+Sound" style="padding:4px 10px 4px 10px;">MK Sound</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=MORDAUNT-SHORT" style="padding:4px 10px 4px 10px;">MORDAUNT-SHORT</a>
             <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=NAD" style="padding:4px 10px 4px 10px;">NAD</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=NEC" style="padding:4px 10px 4px 10px;">NEC</a>
             <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Niles" style="padding:4px 10px 4px 10px;">Niles</a>
             <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=NuForce" style="padding:4px 10px 4px 10px;">NU Force</a>
             <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=onkyo" style="padding:4px 10px 4px 10px;">Onkyo</a>
             <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Optoma" style="padding:4px 10px 4px 10px;">Optoma</a>
-            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Panasonic" style="padding:4px 10px 4px 10px;">Panasonic</a>
-                        <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Pioneer" style="padding:4px 10px 4px 10px;">Pioneer</a>
-            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=PolkAudio" style="padding:4px 10px 4px 10px;">PolkAudio</a>
-                        
             </div>
+
             <div style="float:left;width:140px;">
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Panasonic" style="padding:4px 10px 4px 10px;">Panasonic</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Pioneer" style="padding:4px 10px 4px 10px;">Pioneer</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=PolkAudio" style="padding:4px 10px 4px 10px;">PolkAudio</a>
             <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=PRO+AV" style="padding:4px 10px 4px 10px;">Pro AV</a>
             <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=PSB" style="padding:4px 10px 4px 10px;">PSB Speakers</a>
             <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Pure+Acoustics" style="padding:4px 10px 4px 10px;">Pure Acoustics</a>
             <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Python" style="padding:4px 10px 4px 10px;">Python</a>
             <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Q+Acoustics" style="padding:4px 10px 4px 10px;">Q Acoustics</a>
-                        <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=REVEL" style="padding:4px 10px 4px 10px;">REVEL</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=REVEL" style="padding:4px 10px 4px 10px;">REVEL</a>
             <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Runco" style="padding:4px 10px 4px 10px;">Runco</a>
             <a href="http://www.digitalcinema.com.au/SAMSUNG-Television-s/501.htm" style="padding:4px 10px 4px 10px;">Samsung</a>
-                        <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Sangean" style="padding:4px 10px 4px 10px;">Sangean</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Sangean" style="padding:4px 10px 4px 10px;">Sangean</a>
             <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Sanyo" style="padding:4px 10px 4px 10px;">Sanyo</a>
-                        <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Scansonic" style="padding:4px 10px 4px 10px">Scansonic</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Scansonic" style="padding:4px 10px 4px 10px">Scansonic</a>
             <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Screen+Technics" style="padding:4px 10px 4px 10px;">Screen Technics</a>
             <a href="https://www.digitalcinema.com.au/SENNHEISER-Headphones-s/1866.htm" style="padding:4px 10px 4px 10px;">Sennheiser</a>
             <a href="https://www.digitalcinema.com.au/SearchResults.asp?mfg=Sharp" style="padding:4px 10px 4px 10px;">Sharp</a>
@@ -468,23 +563,24 @@ vertical-align: middle;box-shadow: 3px 0 5px #000;">&nbsp;&nbsp;EASTER WEEKEND: 
             <a href="https://www.digitalcinema.com.au/SearchResults.asp?mfg=Sonorous" style="padding:4px 10px 4px 10px;">Sonorous</a>
             <a href="http://www.digitalcinema.com.au/Home-Automation-Multi-Room-Sound-Systems-Sonos-s/224.htm" style="padding:4px 10px 4px 10px;">Sonos</a>
             <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Sony" style="padding:4px 10px 4px 10px;">Sony</a>
-            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Soundcast" style="padding:4px 10px 4px 10px;">Soundcast</a>
-            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Speakercraft" style="padding:4px 10px 4px 10px;">Speakercraft</a>        
+
             </div>
             
             <div style="float:left;width:140px;">
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Soundcast" style="padding:4px 10px 4px 10px;">Soundcast</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Speakercraft" style="padding:4px 10px 4px 10px;">Speakercraft</a>
             <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Sunfire" style="padding:4px 10px 4px 10px;">Sunfire</a>   
             <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Tangent" style="padding:4px 10px 4px 10px;">Tangent</a>
             <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Tannoy" style="padding:4px 10px 4px 10px;">Tannoy</a>
             <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Tauris" style="padding:4px 10px 4px 10px;">Tauris</a>
-                        <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=TCL" style="padding:4px 10px 4px 10px;">TCL</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=TCL" style="padding:4px 10px 4px 10px;">TCL</a>
             <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Ultralift" style="padding:4px 10px 4px 10px;">Ultralift</a>
             <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Usher+Audio" style="padding:4px 10px 4px 10px;">Usher Audio</a>
             <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Velodyne" style="padding:4px 10px 4px 10px;">Velodyne</a>
-                        <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Venturi" style="padding:4px 10px 4px 10px;">Venturi</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Venturi" style="padding:4px 10px 4px 10px;">Venturi</a>
             <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Vision+One" style="padding:4px 10px 4px 10px;">Vision One</a>
             <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Vivitek" style="padding:4px 10px 4px 10px;">Vivitek</a>
-                        <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Vogel" style="padding:4px 10px 4px 10px;">Vogel</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Vogel" style="padding:4px 10px 4px 10px;">Vogel</a>
             <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Wharfedale" style="padding:4px 10px 4px 10px;">Wharfedale</a>
             <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Wireworld" style="padding:4px 10px 4px 10px;">Wireworld</a>
             <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Xantech" style="padding:4px 10px 4px 10px;">Xantech</a></div>
@@ -550,7 +646,33 @@ vertical-align: middle;box-shadow: 3px 0 5px #000;">&nbsp;&nbsp;EASTER WEEKEND: 
 
 
 
-<div style="display:block;margin:0 auto;padding:0;"><a href="https://www.digitalcinema.com.au/Articles.asp?ID=274" style="text-decoration:none;"><img src="/v/vspfiles/templates/digitalcinem/images/homepage/boston-red-hot-sale.jpg" alt="Boston Red Hot Sale"></a></div>
+<!-- promotional banner slider -->
+
+<div style="width:960px; height:75px; margin:0 auto;padding:0; padding-bottom:5px;">
+
+<div id="sliderFrame">
+        <div id="ribbon"></div>
+        <div id="slider">
+            <a href="#"><img src="/v/vspfiles/templates/digitalcinem/images/homepage/ThursdayOpen_banner.jpg"></a>
+            <a href="https://www.digitalcinema.com.au/Articles.asp?ID=276"><img src="/v/vspfiles/templates/digitalcinem/images/homepage/Web-banner-sale.jpg"></a>
+            <a href="https://www.digitalcinema.com.au/Articles.asp?ID=274" style="text-decoration:none;"><img src="/v/vspfiles/templates/digitalcinem/images/homepage/boston-red-hot-sale.jpg"></a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Epson"><img src="/v/vspfiles/templates/digitalcinem/images/homepage/Epson_banner.jpg"></a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Klipsch"><img src="/v/vspfiles/templates/digitalcinem/images/homepage/Klipsch_banner.jpg"></a>
+        </div>
+        <div id="htmlcaption" style="display: none;">
+            <em>HTML</em> caption. Link to <a href="http://www.google.com/">Google</a>.
+        </div>
+    </div><!-- sliderFrame closing-->
+
+
+<!--<div style="clear:both;"</div>-->
+
+</div>
+
+
+
+
+
 
 
 <!--<div class="clear"></div>-->
@@ -591,8 +713,10 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <select name="mfg" onchange="DropDown_ShopBy_Manufacturer_onChange(this.options[mfg.selectedIndex].value)">
 <option value="" selected="">Shop By Brand</option>
 <option value="Acer">Acer</option>
+<option value="Acurus">Acurus</option>
 <option value="AIX+Records">AIX Records</option>
 <option value="AKG">AKG</option>
+<option value="Aragon">Aragon</option>
 <option value="Arcam">Arcam</option>
 <option value="Audio+Dimension">Audio Dimension</option>
 <option value="Audiolab">Audiolab</option>
@@ -600,18 +724,26 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <option value="Bello">Bello</option>
 <option value="BenQ">BenQ</option>
 <option value="Boston+Acoustics">Boston Acoustics</option>
+<option value="Boston+Acoustics%2C+Marantz">Boston Acoustics, Marantz</option>
+<option value="Boston+Acoustics%2C+Onkyo">Boston Acoustics, Onkyo</option>
 <option value="Bowers+and+Wilkins">Bowers and Wilkins</option>
+<option value="Bowers+and+Wilkins+and+Denon">Bowers and Wilkins and Denon</option>
 <option value="Canon">Canon</option>
 <option value="Canton">Canton</option>
 <option value="Carson">Carson</option>
 <option value="Carson+Screens">Carson Screens</option>
 <option value="Casio">Casio</option>
 <option value="Chief">Chief</option>
+<option value="ClearAudio">ClearAudio</option>
 <option value="Conran+Audio">Conran Audio</option>
 <option value="Creek">Creek</option>
 <option value="DALI">DALI</option>
 <option value="Definitive+Technology">Definitive Technology</option>
 <option value="Denon">Denon</option>
+<option value="Denon%2C+Bowers+and+Wilkins">Denon, Bowers and Wilkins</option>
+<option value="Denon%2C+Jamo">Denon, Jamo</option>
+<option value="Denon%2C+KEF">Denon, KEF</option>
+<option value="Denon%2C+Q+Acoustics">Denon, Q Acoustics</option>
 <option value="Dune+HD">Dune HD</option>
 <option value="DVDO">DVDO</option>
 <option value="ELAN">ELAN</option>
@@ -626,31 +758,39 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <option value="HDMI">HDMI</option>
 <option value="Infocus">Infocus</option>
 <option value="Jamo">Jamo</option>
+<option value="Jamo%2C+Denon">Jamo, Denon</option>
 <option value="JBL">JBL</option>
 <option value="Jenson">Jenson</option>
 <option value="JVC">JVC</option>
 <option value="KEF">KEF</option>
 <option value="Kenwood">Kenwood</option>
 <option value="Klipsch">Klipsch</option>
+<option value="Klipsch%2C+Marantz">Klipsch, Marantz</option>
 <option value="Koss">Koss</option>
 <option value="Lehmann+Audio">Lehmann Audio</option>
 <option value="Lenehan+Audio">Lenehan Audio</option>
+<option value="LG">LG</option>
 <option value="Logic3">Logic3</option>
 <option value="LP+Morgan">LP Morgan</option>
 <option value="Magnat">Magnat</option>
 <option value="Marantz">Marantz</option>
+<option value="Martin+Logan">Martin Logan</option>
 <option value="MartinLogan">MartinLogan</option>
 <option value="Mission">Mission</option>
 <option value="MIT">MIT</option>
 <option value="Mitsubishi">Mitsubishi</option>
 <option value="MK+Sound">MK Sound</option>
+<option value="Mordaunt%2Dshort">Mordaunt-short</option>
 <option value="NAD">NAD</option>
+<option value="NEC">NEC</option>
 <option value="Niles">Niles</option>
 <option value="NuForce">NuForce</option>
 <option value="Onkyo">Onkyo</option>
+<option value="Onkyo%2C+KEF">Onkyo, KEF</option>
+<option value="Onkyo%2C+Mission">Onkyo, Mission</option>
+<option value="Onkyo%2C+MK">Onkyo, MK</option>
 <option value="Optoma">Optoma</option>
 <option value="Panasonic">Panasonic</option>
-<option value="Pioneer">Pioneer</option>
 <option value="PolkAudio">PolkAudio</option>
 <option value="PRO+AV">PRO AV</option>
 <option value="PROJECTOR+LAMPS">PROJECTOR LAMPS</option>
@@ -659,8 +799,13 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <option value="Python">Python</option>
 <option value="Q+Acoustics">Q Acoustics</option>
 <option value="REVEL">REVEL</option>
+<option value="Revtek">Revtek</option>
 <option value="Runco">Runco</option>
-<option value="Samsung">Samsung</option>
+<option value="SAMSUNG">SAMSUNG</option>
+<option value="Samsung%2C+Boston+Acoustics">Samsung, Boston Acoustics</option>
+<option value="Samsung%2C+Bower+%26+Wilkins%2C+Marantz">Samsung, Bower &amp; Wilkins, Marantz</option>
+<option value="Samsung%2C+Denon%2C+Klipsch">Samsung, Denon, Klipsch</option>
+<option value="Samsung%2C+Klipsch">Samsung, Klipsch</option>
 <option value="Sangean">Sangean</option>
 <option value="Sanyo">Sanyo</option>
 <option value="Scansonic">Scansonic</option>
@@ -670,6 +815,7 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <option value="SIM2">SIM2</option>
 <option value="Sonorous">Sonorous</option>
 <option value="Sonos">Sonos</option>
+<option value="Sonos%2C+Marantz%2C+Q+Acoustic">Sonos, Marantz, Q Acoustic</option>
 <option value="Sony">Sony</option>
 <option value="Soundcast">Soundcast</option>
 <option value="Sunfire">Sunfire</option>
@@ -681,6 +827,7 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <option value="Universal+Remote+Control">Universal Remote Control</option>
 <option value="Usher+Audio">Usher Audio</option>
 <option value="Velodyne">Velodyne</option>
+<option value="Velodyne%2C+Denon%2C+Boston">Velodyne, Denon, Boston</option>
 <option value="Venturi">Venturi</option>
 <option value="Vivitek">Vivitek</option>
 <option value="Vogel">Vogel</option>
@@ -820,6 +967,8 @@ function mClk2(src, popup)
 </div>
 <div align="center">
 <img src="http://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/homepage/thursday-open.png" alt="Thursday Open">
+<br><br>
+<a href="https://www.digitalcinema.com.au/Articles.asp?ID=276"><img src="/v/vspfiles/templates/digitalcinem/images/homepage/sofySale.png"></a>
 <br><br>
 <a href="http://www.digitalcinema.com.au/Denon-Receivers-Amplifiers-s/59.htm"><img src="http://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/homepage/denon-sale.png" alt="Home Theatre"></a>
 <br><br>
@@ -1547,6 +1696,13 @@ pageTracker._trackPageview();
 <a href="http://www.alexa.com/siteinfo/www.digitalcinema.com.au"><script type="text/javascript" language="JavaScript" src="http://xslt.alexa.com/site_stats/js/t/a?url=www.digitalcinema.com.au"></script></a>
 <a href="http://www.volusion.com" title="Shopping Cart Software" class="footer colors_background2_text" target="_blank">Shopping Cart Software</a> by Volusion
 </div>
+
+
+
+
+
+
+
 
 
 
