@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partrequest.com privacy policy that was archived on 2013-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130404003223id_/http%3A//www.partrequest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partrequest.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808141217id_/http%3A//www.partrequest.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for Used Auto Parts Online
 
