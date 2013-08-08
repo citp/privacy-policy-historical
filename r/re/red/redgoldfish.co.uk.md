@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redgoldfish.co.uk privacy policy that was archived on 2013-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130326221438id_/http%3A//www.redgoldfish.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redgoldfish.co.uk privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808130044id_/http%3A//www.redgoldfish.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Our Privacy Policy - Redgoldfish
 
