@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the personalcapital.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618203559id_/https%3A//www.personalcapital.com/content/docs/Personal_Capital_Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the personalcapital.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808091613id_/https%3A//www.personalcapital.com/static/content/docs/Personal_Capital_Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # Personal Capital Privacy & Security Policy
 
