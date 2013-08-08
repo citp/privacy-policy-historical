@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theadbusters.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508042747id_/http%3A//www.theadbusters.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theadbusters.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808095530id_/http%3A//www.theadbusters.com/privacy.php) for the most accurate reproduction.*
 
 # The Ad Busters : Advertise For Free : Free Advertising
 
@@ -32,7 +32,7 @@ What happens if the Privacy Policy Changes? We will let our Visitors and Authori
 Links: This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. 
 
   
-[](http://www.theadbusters.com/banclick.php?code=dfc6aa246e88ab3e32caeaaecf433550)   
+[](http://www.theadbusters.com/banclick.php?code=866c7ee013c58f01fa153a8d32c9ed57)   
 Copyright (c) 2009 - 2013 The Ad Busters All Rights Reserved 
 
 [Member Login](https://web.archive.org/memberlogin.php) | [How It Works](https://web.archive.org/members/how.php) | [Terms and Conditions](https://web.archive.org/terms.php) | [Earnings Disclaimer](https://web.archive.org/earnings.php) | [Spam Policy](https://web.archive.org/spam.php) | [Privacy Policy](https://web.archive.org/privacy.php)   
