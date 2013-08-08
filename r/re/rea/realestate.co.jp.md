@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the realestate.co.jp privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502003430id_/http%3A//www.realestate.co.jp/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realestate.co.jp privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809012949id_/http%3A//www.realestate.co.jp/privacy) for the most accurate reproduction.*
 
-# Privacy Policy « Real Estate Japan | Tokyo, Osaka, Nagoya Properties For Rent & Sale
-
-## Privacy Policy
+# Real Estate Japan
 
 Fundamental Principles Regarding the Protection of Personal Information Real Estate Japan K.K. (hereafter referred to as “this Company”) complies with the laws and regulations regarding the protection of personal information, and is dedicated to paying strict attention to the protection of customers important personal information.
 
