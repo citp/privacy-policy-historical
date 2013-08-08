@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the officeteam.com privacy policy that was archived on 2013-01-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130115072754id_/http%3A//www.officeteam.com/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the officeteam.com privacy policy that was archived on 2013-08-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130808103315id_/http%3A//www.officeteam.com/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
  <title>
@@ -20,7 +20,10 @@ OfficeTeam - Privacy Policy</title>
   <link rel="alternate stylesheet" type="text/css" href="/External_Sites/content/Shared/font_medium.css" title="A+">
   <link rel="alternate stylesheet" type="text/css" href="/External_Sites/content/Shared/font_small.css" title="A">
 
-<script id="hs-analytics" src="//js.hubspot.com/analytics/1580483100000/207142.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/External_Sites/content/Shared/Scripts/anylinkcssmenu.js"></script>
+<script id="hs-analytics" src="//js.hubspot.com/analytics/15804831000000/207142.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/External_Sites/content/Shared/Scripts/anylinkcssmenu.js"></script>
+
+<link rel="stylesheet" type="text/css" href="/External_Sites/content/Shared/Styles/flags.css">
+
 <script type="text/javascript" language="JavaScript" src="/External_Sites/shared/headerutils.js"></script>
 <script type="text/javascript" language="JavaScript" src="/External_Sites/shared/displayDIV.js"></script>
 <script type="text/javascript" language="JavaScript" src="/External_Sites/shared/paging.js"></script>
@@ -63,13 +66,19 @@ OfficeTeam - Privacy Policy</title>
 
  <script type="text/javascript" language="JavaScript">
    window.onerror = null;
-
+   function fillJobKeywords(keyword) {
+	     // Fill the keywords box on the page with the requested text
+	     document.getElementById('txtkeywords').value = keyword;
+	     // Submit form   
+	     submitJobsearch();
+	    }
    function submitJobsearch(){
 
 	var test;
+	//test 8/1/13
 	var url = '/JobListings?locations=&';
 	var zipcode = document.getElementById('zip').value;
-	if(zipcode != "" && (zipcode != "zip/postal code")){
+	if(zipcode != "" && (zipcode != "zip/postal code") && (zipcode != 'Zip or Postal Code')){
 
 		zipcode = escape(zipcode).replace(new RegExp( "\\+", "g" ),"%2B");
 		url = url + "zipcode="+zipcode;
@@ -77,7 +86,7 @@ OfficeTeam - Privacy Policy</title>
 		url = url + "zipcode=";
 	}
 	var keywords = document.getElementById('txtkeywords').value;
-	if(keywords != "" && (keywords != "keywords")){
+	if(keywords != "" && (keywords != "keywords") && (keywords != 'Keywords')){
 		keywords = escape(keywords).replace(new RegExp( "\\+", "g" ),"%2B");
 		url = url + "&keywords="+keywords+"&jobtypes=";
 	}else{
@@ -96,6 +105,7 @@ OfficeTeam - Privacy Policy</title>
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-36207416-1']);
+  _gaq.push(['_setDomainName', 'officeteam.com']);
   _gaq.push(['_trackPageview']);
 
   (function() {
@@ -110,6 +120,7 @@ OfficeTeam - Privacy Policy</title>
 </head>
 
 <body onload="Load()" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" bottommargin="0">
+<script src="/External_Sites/content/RHALF-UDS/Shared/scripts/rhalf-uds-gatc.js" type="text/javascript"></script> 
 <div id="channel_name" style="display: none;">
 
 
@@ -142,6 +153,7 @@ Privacy Policy
 
 <link rel="stylesheet" type="text/css" href="/External_Sites/content/OT-2009/Shared/Styles/ot_anylinkcssmenu.css">
 
+<link rel="stylesheet" type="text/css" href="/External_Sites/content/Shared/Styles/flags.css">
 <script type="text/javascript" src="/External_Sites/content/Shared/Scripts/anylinkcssmenu.js"> </script>
 
 <script type="text/javascript">
@@ -161,7 +173,7 @@ Creation Date: 11/26/2012
 var axel = Math.random() + "";
 var a = axel * 10000000000000;
 document.write('<iframe src="//3320060.fls.doubleclick.net/activityi;src=3320060;type=offic161;cat=offic648;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
-</script><iframe src="//3320060.fls.doubleclick.net/activityi;src=3320060;type=offic161;cat=offic648;ord=6896262830152.153?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+</script><iframe src="//3320060.fls.doubleclick.net/activityi;src=3320060;type=offic161;cat=offic648;ord=6889718527055.355?" width="1" height="1" frameborder="0" style="display:none"></iframe>
 <noscript>
 <iframe src="//3320060.fls.doubleclick.net/activityi;src=3320060;type=offic161;cat=offic648;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
 </noscript>
@@ -187,33 +199,30 @@ North America<span id="countryanchor" font="" style="size:auto" class="anchorcla
 <div class="column">
 	
 	<ul>
-	<li><a href="http://www.officeteam.com.au"><img src="/External_Sites/content/Shared/images/flags/AU_flag.gif" border="0">  Australia</a></li>
-	<li><a href="http://www.officeteam.be"><img src="/External_Sites/content/Shared/images/flags/BE_flag.gif" style="border-width:0"> Belgium</a></li>
-	<li><a href="http://www.officeteam.com/"><img src="/External_Sites/content/Shared/images/flags/CA_flag.gif" style="border-width:0"> Canada</a></li>
-    <li><a href="http://www.roberthalf.cz/"><img src="/External_Sites/content/Shared/images/flags/CZ_flag.gif" style="border-width:0"> Czech Republic</a></li>
+	<li><a href="http://www.officeteam.com.au"><span class="country AU"></span> Australia</a></li>
+	<li><a href="http://www.officeteam.be"><span class="country BE"></span> Belgium</a></li>
+	<li><a href="http://www.officeteam.com/"><span class="country CA"></span> Canada</a></li>	
+	
 	</ul>
 </div>
 
 <div class="column">
 	
 	<ul>
-	<li><a href="http://www.officeteam.fr/"><img src="/External_Sites/content/Shared/images/flags/FR_flag.gif" style="border-width:0"> France</a></li>
-	<li><a href="http://www.officeteam-interim.de/"><img src="/External_Sites/content/Shared/images/flags/DE_flag.gif" style="border-width:0"> Germany</a></li>
-	<li><a href="http://www.officeteam-interim.nl/"><img src="/External_Sites/content/Shared/images/flags/NL_flag.gif" style="border-width:0"> Netherlands</a></li>
-    <li><a href="http://www.officeteam.ch/"><img src="/External_Sites/content/Shared/images/flags/CH_flag.gif" style="border-width:0"> Switzerland</a></li>
+	<li><a href="http://www.officeteam.fr/"><span class="country FR"></span> France</a></li>
+	<li><a href="http://www.officeteam-interim.de/"><span class="country DE"></span> Germany</a></li>
+	<li><a href="http://www.officeteam-interim.nl/"><span class="country NL"></span> Netherlands</a></li>
+    </ul>
+    </div>
+    <div class="column">
+    <ul>
+    <li><a href="http://www.officeteam.ch/"><span class="country CH"></span> Switzerland</a></li>
 
-
+    <li><a href="http://www.officeteamuk.com/"><span class="country UK"></span> United Kingdom</a></li>
+    <li><a href="http://www.officeteam.com/"><span class="country US"></span> United States</a></li>
 	</ul>
 </div>
 
-<div class="column">
-	
-	<ul>
-    <li><a href="http://www.officeteamuk.com/"><img src="/External_Sites/content/Shared/images/flags/UK_flag.gif" style="border-width:0"> United Kingdom</a></li>
-    <li><a href="http://www.officeteam.com/"><img src="/External_Sites/content/Shared/images/flags/US_flag.gif" style="border-width:0"> United States</a></li>
-    
-	</ul>
-</div>
 </div>
 
 <div style="clear:both; border-top:1px solid #E0E0E0; max-width:390px; padding-top:6px; margin-top:6px;">
@@ -223,13 +232,13 @@ North America<span id="countryanchor" font="" style="size:auto" class="anchorcla
 <div class="column">
 	
 	<ul>
-	<li><a href="http://www.roberthalf.com.au/"><img src="/External_Sites/content/Shared/images/flags/AU_flag.gif" border="0">  Australia</a></li>
-	<li><a href="http://www.roberthalf.at/"><img src="/External_Sites/content/Shared/images/flags/AT_flag.gif" style="border-width:0"> Austria</a></li>
-	<li><a href="http://www.roberthalf.be/"><img src="/External_Sites/content/Shared/images/flags/BE_flag.gif" style="border-width:0"> Belgium</a></li>
-	<li><a href="http://www.roberthalf.com.br/"><img src="/External_Sites/content/Shared/images/flags/BR_flag.gif" style="border-width:0"> Brazil</a></li>
-	<li><a href="http://www.roberthalf.ca/"><img src="/External_Sites/content/Shared/images/flags/CA_flag.gif" style="border-width:0"> Canada</a></li>
-    <li><a href="http://www.roberthalf.cl/"><img src="/External_Sites/content/Shared/images/flags/CL_flag.gif" style="border-width:0"> Chile</a></li>
-    <li><a href="http://www.roberthalf.cn/"><img src="/External_Sites/content/Shared/images/flags/CN_flag.gif" style="border-width:0"> China</a></li>
+	<li><a href="http://www.roberthalf.com.au/"><span class="country AU"></span> Australia</a></li>
+	<li><a href="http://www.roberthalf.at/"><span class="country AT"></span> Austria</a></li>
+	<li><a href="http://www.roberthalf.be/"><span class="country BE"></span> Belgium</a></li>
+	<li><a href="http://www.roberthalf.com.br/"><span class="country BR"></span> Brazil</a></li>
+	<li><a href="http://www.roberthalf.ca/"><span class="country CA"></span> Canada</a></li>
+    <li><a href="http://www.roberthalf.cl/"><span class="country CL"></span> Chile</a></li>
+    <li><a href="http://www.roberthalf.cn/"><span class="country CN"></span> China</a></li>
 	</ul>
 </div>
 
@@ -237,13 +246,14 @@ North America<span id="countryanchor" font="" style="size:auto" class="anchorcla
 	
 	<ul>
 	
-    <li><a href="http://www.roberthalf.cz/"><img src="/External_Sites/content/Shared/images/flags/CZ_flag.gif" style="border-width:0"> Czech Republic</a></li>
-   <li><a href="http://www.roberthalf.fr/"><img src="/External_Sites/content/Shared/images/flags/FR_flag.gif" style="border-width:0"> France</a></li>
-	<li><a href="http://www.roberthalf.de/"><img src="/External_Sites/content/Shared/images/flags/DE_flag.gif" style="border-width:0"> Germany</a></li>
-	<li><a href="http://www.roberthalf.com.hk/"><img src="/External_Sites/content/Shared/images/flags/HK_flag.gif" style="border-width:0"> Hong Kong</a></li>
-	<li><a href="http://www.roberthalf.it/"><img src="/External_Sites/content/Shared/images/flags/IT_flag.gif" style="border-width:0"> Italy</a></li>
-    <li><a href="http://www.roberthalf.jp/"><img src="/External_Sites/content/Shared/images/flags/JP_flag.gif" style="border-width:0"> Japan</a></li>
-    <li><a href="http://www.roberthalf.lu/"><img src="/External_Sites/content/Shared/images/flags/LU_flag.gif" style="border-width:0"> Luxembourg</a></li>
+   <li><a href="http://www.roberthalf.fr/"><span class="country FR"></span> France</a></li>
+	<li><a href="http://www.roberthalf.de/"><span class="country DE"></span> Germany</a></li>
+	<li><a href="http://www.roberthalf.com.hk/"><span class="country HK"></span> Hong Kong</a></li>
+	<li><a href="http://www.roberthalf.it/"><span class="country IT"></span> Italy</a></li>
+    <li><a href="http://www.roberthalf.jp/"><span class="country JP"></span> Japan</a></li>
+    <li><a href="http://www.roberthalf.lu/"><span class="country LU"></span> Luxembourg</a></li>
+    
+	<li><a href="http://www.roberthalf.nl/"><span class="country NL"></span> Netherlands</a></li>
 	</ul>
 </div>
 
@@ -251,13 +261,12 @@ North America<span id="countryanchor" font="" style="size:auto" class="anchorcla
 	
 	<ul>
 	
-	<li><a href="http://www.roberthalf.nl/"><img src="/External_Sites/content/Shared/images/flags/NL_flag.gif" style="border-width:0"> Netherlands</a></li>
-	<li><a href="http://www.roberthalf.co.nz/"><img src="/External_Sites/content/Shared/images/flags/NZ_flag.gif" style="border-width:0"> New Zealand</a></li>
-	<li><a href="http://www.roberthalf.com.sg/"><img src="/External_Sites/content/Shared/images/flags/SG_flag.gif" style="border-width:0"> Singapore</a></li>
-	<li><a href="http://www.roberthalf.ch/"><img src="/External_Sites/content/Shared/images/flags/CH_flag.gif" style="border-width:0"> Switzerland</a></li>
-        <li><a href="http://www.roberthalf.ae"><img src="/External_Sites/content/Shared/images/flags/AE_flag.gif" style="border-width:0"> UAE</a></li>
-	<li><a href="http://www.roberthalf.co.uk/"><img src="/External_Sites/content/Shared/images/flags/UK_flag.gif" style="border-width:0"> United Kingdom</a></li>
-    <li><a href="http://www.roberthalf.com/"><img src="/External_Sites/content/Shared/images/flags/US_flag.gif" style="border-width:0"> United States</a></li>
+	<li><a href="http://www.roberthalf.co.nz/"><span class="country NZ"></span> New Zealand</a></li>
+	<li><a href="http://www.roberthalf.com.sg/"><span class="country SG"></span> Singapore</a></li>
+	<li><a href="http://www.roberthalf.ch/"><span class="country CH"></span> Switzerland</a></li>
+    <li><a href="http://www.roberthalf.ae"><span class="country AE"></span> UAE</a></li>
+	<li><a href="http://www.roberthalf.co.uk/"><span class="country UK"></span> United Kingdom</a></li>
+    <li><a href="http://www.roberthalf.com/"><span class="country US"></span> United States</a></li>
 	</ul>
 </div>
 		</div>
@@ -292,7 +301,7 @@ North America<span id="countryanchor" font="" style="size:auto" class="anchorcla
 
 	
 		<ul>
-			<li id="menuitem_JobSeekers" class="secondaryChannel first"><a href="/Administrative-Jobs">Job Seekers</a></li><li id="menuitem_Employers" class="secondaryChannel "><a href="/Administrative-Staffing">Employers</a></li><li id="menuitem_SmallBusinessCenter" class="secondaryChannel "><a href="/smallbusinesscenter ">Small Business Center</a></li><li id="menuitem_SalaryCenter" class="secondaryChannel "><a href="/Administrative-Salaries">Salary Center</a></li><li id="menuitem_AboutUs" class="secondaryChannel "><a href="/AboutUs">About Us</a></li>
+			<li id="menuitem_JobSeekers" class="secondaryChannel first"><a href="/office-temps-job-search">Job Seekers</a></li><li id="menuitem_Employers" class="secondaryChannel "><a href="/professional-office-staffing">Employers</a></li><li id="menuitem_SmallBusinessCenter" class="secondaryChannel "><a href="/smallbusinesscenter ">Small Business Center</a></li><li id="menuitem_SalaryCenter" class="secondaryChannel "><a href="/administrative-salary-center">Salary Center</a></li><li id="menuitem_AboutUs" class="secondaryChannel "><a href="/about-us">About Us</a></li>
 		</ul>
 
 
@@ -654,7 +663,7 @@ Mobile Site</a></div>
 	<a href="http://www.rhi.com" target="_blank">RHI.com</a>
 
     	</div> 
-     <div class="footercopyright"> © 2013 OfficeTeam, An Equal Opportunity Employer.<br>A <a href="http://www.roberthalf.com" target="_blank">Robert Half International Company</a>. All Rights Reserved.</div>
+     <div class="footercopyright"> © 2013 OfficeTeam. A <a href="http://www.roberthalf.com" target="_blank">Robert Half Company</a>.<br>An Equal Opportunity Employer.</div>
 </div>
 
 
@@ -680,7 +689,7 @@ Mobile Site</a></div>
         (function(d,s,i,r) {
             if (d.getElementById(i)){return;}
             var n=d.createElement(s),e=d.getElementsByTagName(s)[0];
-            n.id=i;n.src='//js.hubspot.com/analytics/'+(Math.ceil(new Date()/r)*r)+'/207142.js';
+            n.id=i;n.src='//js.hubspot.com/analytics/'+(Math.ceil(new Date()/r)*r)+'0/207142.js';
             e.parentNode.insertBefore(n, e);
         })(document,"script","hs-analytics",300000);
     </script>
