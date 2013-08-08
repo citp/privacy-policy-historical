@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wooddashexperts.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423234954id_/http%3A//www.carid.com/help-zone/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wooddashexperts.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808040145id_/http%3A//www.carid.com/help-zone/privacy) for the most accurate reproduction.*
 
 # CARiD.com - PRIVACY STATEMENT
 
