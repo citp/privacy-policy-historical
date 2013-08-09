@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gagatrends.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609073610id_/http%3A//www.gagatrends.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gagatrends.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809085011id_/http%3A//www.gagatrends.com/content/privacy-policy) for the most accurate reproduction.*
 
 # 
 
