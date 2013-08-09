@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savingstar.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424191822id_/https%3A//savingstar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savingstar.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809195227id_/https%3A//savingstar.com/privacy) for the most accurate reproduction.*
 
 # SavingStar Grocery eCoupons | Privacy Policy
 
@@ -151,3 +151,12 @@ In connection with your participation in a Rewards Program, you may provide us, 
 ## Cookies
 
 A “cookie” is a small file containing a string of characters that is sent to your computer when you visit a website. When you visit the website again, the cookie allows that site to recognize your browser. Cookies may store user preferences and other information.
+
+## Unsubscribe
+
+To unsubscribe from all future email, click the unsubscribe link in the welcome email or any subsequent email from SavingStar. You may also [contact SavingStar by email](https://savingstar.com/contact/new), or write or call SavingStar at:
+
+SavingStar   
+400 Totten Pond Rd Suite 300   
+Waltham, MA 02451   
+800.618.3893
