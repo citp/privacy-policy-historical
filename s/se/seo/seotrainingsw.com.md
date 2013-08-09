@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seotrainingsw.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508172348id_/https%3A//www.seotrainingsw.com/faq/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seotrainingsw.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809072733id_/http%3A//www.seotrainingsw.com/faq/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SEO Training Workshops | Search Engine Academy SW
 
