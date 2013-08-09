@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jamfsoftware.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520111437id_/http%3A//www.jamfsoftware.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamfsoftware.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809122807id_/http%3A//www.jamfsoftware.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY | JAMF Software
+# Privacy Policy | JAMF Software
 
 #### Privacy Policy
 
