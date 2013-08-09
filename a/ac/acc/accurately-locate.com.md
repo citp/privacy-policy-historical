@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accurately-locate.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519173615id_/http%3A//accurately-locate.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accurately-locate.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809144320id_/http%3A//accurately-locate.com/privacy.html) for the most accurate reproduction.*
 
 # Accurately-Locate.com
 
