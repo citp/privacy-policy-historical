@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adometry.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601151626id_/http%3A//adometry.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adometry.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809223548id_/http%3A//www.adometry.com/privacy.php) for the most accurate reproduction.*
 
 # Customer Login :: Adometry
 
@@ -31,7 +31,9 @@ You have the ability to accept or decline cookies. Most web browsers automatical
 
 You may raise your complaint with TRUSTe by [clicking here](https://feedback-form.truste.com/watchdog/request), fax to 415-520-3420, or mail to TRUSTe Safe Harbor Compliance Dept., [click for mailing address](http://www.truste.com/about-TRUSTe/contact_us). If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, [click here](https://feedback-form.truste.com/watchdog/request) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English. For human resources data we have agreed to cooperate with Data Protection Authorities. 
 
-Adometry complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Adometry has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.
+### Safe Harbor
+
+Adometry complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland, and has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Adometry's certification, please visit <http://www.export.gov/safeharbor/>
 
 ### Clear Gifs
 
