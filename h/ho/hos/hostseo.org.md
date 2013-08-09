@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostseo.org privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606062144id_/http%3A//www.hostseo.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostseo.org privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809110529id_/http%3A//www.hostseo.org/privacy.html) for the most accurate reproduction.*
 
 # SEO Hosting Terms of Service - HostSEO.org
 
