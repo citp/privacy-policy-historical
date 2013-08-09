@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinoyliterotica.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609110533id_/http%3A//pinoyliterotica.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinoyliterotica.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809061955id_/http%3A//pinoyliterotica.com/privacy.html) for the most accurate reproduction.*
 
 # Pinoyliterotica - Privacy Policy
 
