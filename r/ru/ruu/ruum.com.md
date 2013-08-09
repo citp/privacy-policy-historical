@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ruum.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629222741id_/http%3A//www.ruum.com/ruum/customer-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ruum.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809123525id_/http%3A//www.ruum.com/ruum/customer-service/privacy-policy) for the most accurate reproduction.*
 
 # RUUM
 
@@ -36,7 +36,7 @@ BACK TO TOP
 
 **Within RUUM**
 
-Information we collect from you may be shared between all points of contact within RUUM and its affiliates. We use this information to offer you special promotions, new products, and services and may share your information with affiliated companies. In addition, RUUM may use such information to: 
+Information we collect from you may be shared between all points of contact within RUUM and its affiliates, including, without limitation, Delman and Nina Shoes. We use this information to offer you special promotions, new products, and services and may share your information with affiliated companies. In addition, RUUM may use such information to: 
 
   * Provide you with timely and reliable fulfillment of requests
   * Do all things necessary to administer those services
@@ -58,8 +58,6 @@ Information we collect from you may be shared between all points of contact with
 We do not share with others any personal information that you provide to us through our Website, except with your consent or as described in this Privacy Policy. 
 
 Certain business services are performed on behalf of RUUM by other companies at our request. We may share your information with selected vendors that perform services for RUUM or for other marketing and fulfillment purposes. To perform these services, these companies may, at times, utilize some of the information you have provided RUUM. This information is used solely for the purposes RUUM has requested such as administering our Website, maintaining our database, administering and monitoring e-mails, payment processing and authorization, fraud protection and credit risk reduction, marketing and contest administration, data analysis, data cleansing or for any other requested purposes. These service providers are authorized to use your personal information only in connection with the services they are engaged to perform. 
-
-We may also share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when (1) permitted or required by law, or (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions, or (3) investigating fraud that has already taken place. In addition, RUUM reserves the right to disclose personal information to a third party if a law, regulation, search warrant, subpoena or court order legally requires or authorizes us to do so. In all cases, this information is not provided to these entities for purposes of marketing to a RUUM customer. 
 
 We may also share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when (1) permitted or required by law, or (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions, or (3) investigating fraud that has already taken place. In addition, RUUM reserves the right to disclose personal information to a third party if a law, regulation, search warrant, subpoena or court order legally requires or authorizes us to do so. In all cases, this information is not provided to these entities for purposes of marketing to a RUUM customer. 
 
