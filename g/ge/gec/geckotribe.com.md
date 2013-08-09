@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geckotribe.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116042855id_/http%3A//www.geckotribe.com/info/policy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geckotribe.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809230922id_/http%3A//www.geckotribe.com/info/policy.php3) for the most accurate reproduction.*
 
 # Gecko Tribe, LLC Privacy & Content Policies
 
@@ -26,4 +26,5 @@ Cookies may also be placed by other services (such as Google AdSense ads) that a
   
 Gecko Tribe, LLC  
 PO Box 5835  
-Grand Island, NE 68802 
+Grand Island, NE 68802  
+Voice Mail: 308-646-0543 
