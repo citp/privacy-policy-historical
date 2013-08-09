@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchkart.com privacy policy that was archived on 2013-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130403112227id_/http%3A//www.watchkart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchkart.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809233933id_/http%3A//www.watchkart.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
