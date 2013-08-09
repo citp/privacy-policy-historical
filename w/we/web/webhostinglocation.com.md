@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webhostinglocation.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620215508id_/http%3A//www.webhostinglocation.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webhostinglocation.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809210813id_/http%3A//www.webhostinglocation.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
