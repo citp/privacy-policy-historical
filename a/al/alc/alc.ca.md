@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alc.ca privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607201322id_/http%3A//corp.alc.ca/LegalPrivacy.aspx%3Frdr%3Dtrue%26LangType%3D1033%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alc.ca privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809190143id_/http%3A//corp.alc.ca/LegalPrivacy.aspx%3Frdr%3Dtrue%26LangType%3D1033%23privacy) for the most accurate reproduction.*
 
 # Atlantic Lottery – Richer Moments / Loto Atlantique – Moments plus Riches
 
@@ -206,8 +206,6 @@ When you connect with us though social media platforms, including Facebook, we a
 • to contact you to respond to a request you make; and  
 • to operate and improve our sites and services;  
 As a registered Facebook user, you are also subject to Facebook’s privacy policy.  Please check your Facebook account privacy settings for further information.
-
-When you create an account in our Geosweep game, you will need to create a unique nickname that will become publicly visible.  When you disclose your determined nickname, other players will be able to search it and view your Geos, how many friends you have and how long you have been friends.  This information can be sensitive if you chose your residence as a Geo, and if you give your Geo a name that reveals it is your residence. 
 
 ## Communications from the Sites 
 
