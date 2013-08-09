@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rag-bone.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429135639id_/http%3A//rag-bone.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rag-bone.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809175329id_/http%3A//www.rag-bone.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - rag & bone Official Store
+# rag & bone Official Store
 
   
 **Effective Date 2010**  
