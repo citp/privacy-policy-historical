@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the bfads.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611211618id_/http%3A//bfads.net/Legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bfads.net privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809021810id_/http%3A//bfads.net/Legal) for the most accurate reproduction.*
 
-# Black Friday Ads - Black Friday Ads - Legal Information and Privacy Policy - The Official Black Friday 2009 Website
+# Black Friday Ads - Legal Information and Privacy Policy
+
+  
+
 
 ## Internet User Privacy
 
