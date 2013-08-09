@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propertygenie.co.za privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529214954id_/http%3A//www.propertygenie.co.za/security-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertygenie.co.za privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810002125id_/http%3A//www.propertygenie.co.za/security-privacy) for the most accurate reproduction.*
 
 # security-privacy
 
