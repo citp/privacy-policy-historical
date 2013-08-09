@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestbloggertemplates.net privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513105049id_/http%3A//www.bestbloggertemplates.net/2010/03/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestbloggertemplates.net privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809065430id_/http%3A//www.bestbloggertemplates.net/2010/03/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | BestBloggerTemplates.Net
 
