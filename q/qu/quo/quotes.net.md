@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quotes.net privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616100122id_/http%3A//www.quotes.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quotes.net privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809171928id_/http%3A//www.quotes.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
