@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caravancampingsales.com.au privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531111943id_/http%3A//www.caravancampingsales.com.au/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caravancampingsales.com.au privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809184439id_/http%3A//www.caravancampingsales.com.au/privacy-policy.aspx) for the most accurate reproduction.*
 
 # New and Used Caravans
 
