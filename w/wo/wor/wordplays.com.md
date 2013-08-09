@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wordplays.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627091513id_/http%3A//www.wordplays.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordplays.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809195457id_/http%3A//www.wordplays.com/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
