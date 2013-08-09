@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stelladot.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531021346id_/http%3A//www.stelladot.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stelladot.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809204526id_/http%3A//www.stelladot.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Stella & Dot
 
@@ -80,20 +80,16 @@ Stella & Dot adheres to the seven privacy principles dictated by the Safe Harbor
 
 This Policy may be amended, from time to time, if Stella & Dot decides to change its Policy, we will post those changes and revise the "Last Updated" date at the bottom on the Policy.
 
-If you have questions about this Policy, please contact us at [privacy@stelladot.com ](mailto:privacy@stelladot.com)or by mail, Attn: Privacy Administrator, 1000 Cherry Avenue, Suite 300, San Bruno, CA 94066.
+If you have questions about this Policy, please contact us at [privacy@stelladot.com ](mailto:privacy@stelladot.com)or by mail, Attn: Privacy Administrator, 1111 Bayhill Drive, Suite 375, San Bruno, CA 94066.
 
 _Privacy Inquiries by EU Citizens_
 
-In compliance with the Safe Harbor Principles, Stella & Dot commits to resolve complaints about your privacy and our collection or use of your personal information. EU citizens with inquiries or complaints regarding this privacy policy should contact Stella & Dot at [privacy@stelladot.com](mailto:privacy@stelladot.com) or by post, Attn: Privacy Administrator,1000 Cherry Avenue, Suite 300, San Bruno, CA 94066
+In compliance with the Safe Harbor Principles, Stella & Dot commits to resolve complaints about your privacy and our collection or use of your personal information. EU citizens with inquiries or complaints regarding this privacy policy should contact Stella & Dot at [privacy@stelladot.com](mailto:privacy@stelladot.com) or by post, Attn: Privacy Administrator, 1111 Bayhill Drive, Suite 375, San Bruno, CA 94066
 
 Stella & Dot has further committed to refer unresolved complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgement of your inquiry or complaint, or if your inquiry or complaint is not satisfactorily addressed by Stella & Dot, you may contact:
 
-Council of Better Business Bureaus, Inc.   
-BBB EU Safe Harbor 4200 Wilson Boulevard, Suite 800   
-Arlington, VA 22203  
-Phone: +1.703.276.0100   
-Web: [www.bbb.org/us ](http://www.bbb.org/us)  
-Email: [eusafeharbor@council.bbb.org](mailto:eusafeharbor@council.bbb.org)  
+Council of Better Business Bureaus, Inc.  
+<http://www.bbb.org/us/safe-harbor-complaints>   
 
 
 Effective May 2011
