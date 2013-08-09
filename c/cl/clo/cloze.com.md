@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloze.com privacy policy that was archived on 2013-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130401141807id_/https%3A//www.cloze.com/app/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloze.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809051431id_/https%3A//www.cloze.com/app/legal/privacy) for the most accurate reproduction.*
 
 # Privacy | Cloze
 
