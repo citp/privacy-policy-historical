@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gptmill.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609103526id_/http%3A//www.gptmill.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gptmill.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809170034id_/http%3A//www.gptmill.com/privacy-policy) for the most accurate reproduction.*
 
 # GPTmill.com - The Best Earning Network
 
