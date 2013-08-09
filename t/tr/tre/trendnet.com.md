@@ -1,45 +1,51 @@
-> *The following text is extracted and transformed from the trendnet.com privacy policy that was archived on 2003-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031229231917id_/http%3A//trendnet.com/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trendnet.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809191711id_/http%3A//www.trendnet.com/company/default.asp%3Fcompany%3Dprivacy_policy) for the most accurate reproduction.*
 
-# TRENDware Online Privacy Policy
+# TRENDnet | Company Profile
 
-At TRENDware, we value our customers' trust and are commited to the responsible management, use and protection of personal information. That's why, when you visit trendware.com, we help you maintain control over your personal data on the Internet. The following is TRENDware Interntional Inc.'s Privacy Policy and Practices, describing the company's policy on disclosure of its customers' personal information. 
+TRENDnet values our customers’ trust and is committed to the responsible management, use and protection of personal information. When you visit [www.trendnet.com](http://www.trendnet.com/) and share personal information, you can be assured that we are committed to your personal privacy. The following is TRENDnet's Privacy Policy. We encourage you to read this Policy carefully before providing any personal information on our Website. Should you have any questions or concerns regarding this policy, please contact us at webmaster@trendnet.com. 
 
-TRENDware only asks for specific types of personal information  
-We collect personal information to support our normal business operations to improve the experiences of our customers while visiting trendware.com. In a few areas on our website we ask you to provide information that will enable us to enhance your site visit, to assist you with technical support issues or to follow up with you after your visit. It is completely optional for you to participate. 
+**Requested Personal Information**   
+TRENDnet collects personal information to support normal business operations and to improve your experience while visiting trendnet.com. Providing information including, but not limited to, your name, e-mail address, phone number, address, type of business, and customer preference is optional. 
 
 For example, we request information from you when you: 
 
-  1. Register for our Reseller Program. 
-  2. Register a product for Product Warranty. 
-  3. Provide feedback on our Feedback form. 
-  4. Subscribe to a newsletter or a mailing list. 
-  5. Participate in promotional offers. 
+  1. Register for a Partner Program 
+  2. Register products for warranty
+  3. Provide feedback
+  4. Subscribe to a newsletter or a mailing list! 
+  5. Participate in promotional offers
 
 
 
-In each of the instances above, we may ask for your name, e-mail address, phone number, address, type of business, customer preference information, as well as other similar personal information that is needed to register or subscribe you to services or offers. If we ever ask for significantly different information we will inform you. In the case of newsletters or mailing lists, you will be able to "unsubscribe" to these mailings at any time. 
+TRENDnet does not intend, nor design our Website, to collect personal information from children under the age of 13. If we learn that we have obtained such information, it will be deleted.
 
-TRENDware only uses your personal information for specific purposes   
-The information you provide will be kept confidential and used to support your customer relationship with TRENDware. Among other things, we want to help you quickly find information on trendwarel.com and alert you to product upgrades, special offers, updated information and other new products and services from TRENDware. Agents or contractors of TRENDware who have access to your personal information and prospect information are required to keep the information confidential and not use it for any other purpose than to carry out the services they are performing for TRENDware. TRENDware may enhance or merge your information collected at its site with data from third parties for purposes of marketing products or services to you. 
+You may make corrections and updates to your personal information by contacting [webmaster@trendnet.com](mailto:webmaster@trendnet.com). 
 
-You can opt-out of receiving further marketing from TRENDware at any time   
-We will send you information about our various products and services, or other products and services we feel may be of interest to you. Only TRENDware (or agents working on behalf of TRENDware and under confidentiality agreements) will send you these direct mailings. If you do not want to receive such mailings, simply tell us when you give us your personal information. Or, at any time you can easily opt-out of receiving further marketing fron TRENDware by sending an email to [webmaster@trendware.com ](mailto:webmaster@trendware.com)
+**Your Right to Decline Communications**   
+TRENDnet provides users with the ability to choose whether to receive communications from us or our partners. Only TRENDnet (or agents working on behalf of TRENDnet and under confidentiality agreements) will send you information on our various products and services. TRENDnet provides users with the ability to choose whether to receive such mailings, when you provide your personal information. You may also opt-out of receiving further marketing communications by sending an email to [webmaster@trendnet.com. ](mailto:webmaster@trendnet.com.%20)
 
-TRENDware will not disclose your personal information to any outside organization for its use in marketing without your consent   
-Information regarding you (such as name, address and phone number) will not sold be sold to any outside organization for its use in marketing or solicitation without your consent. Your information may be shared with agents or contractors of TRENDware for the purpose of performing services for TRENDware. **** TRENDware wants to help you keep your personal information accurate  
-You can request the individual information that TRENDware has collected about you via the Internet at [webmaster@trendware.com](mailto:webmaster@trendware.com). You can have factual inaccuracies in this information corrected by contacting [webmaster@trendware.com](mailto:webmaster@trendware.com). 
+**Personal Information Disclosure**  
+TRENDnet will not disclose your personal information to any outside organization without your consent. Your information may be shared with agents or contractors of TRENDnet for the purpose of performing services for TRENDnet. TRENDnet will take reasonable steps to protect user privacy consistent with the guidelines set forth in this policy and the applicable laws.
 
-Third-Party Sites   
-Please be aware that other web sites that may be accessed through our site may collect personally identifiable information about you. The information practices of those third-party web sites linked to TRENDware.com are not covered by this privacy statement. 
+**TRENDnet follows generally accepted industry standards to protect the personal information submitted to us, both during transmission and once it is received. However, no method of transmission over the Internet is 100% secure.** You are responsible for maintaining the secrecy of your passwords or any account information. While we strive to protect your personal information, TRENDnet cannot guarantee protection of all information you transmit to us, and you do so at your own risk.
 
-You are solely responsible for maintaining the secrecy of your passwords or any account information. Please be careful and responsible whenever you're online. If you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. While we strive to protect your personal information, TRENDware cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. 
+**Cookies and Tracking Technologies**   
+“Cookies” are text files created by websites and stored on your hard drive. The purpose of cookies is to identify user preferences and thereby provide an easier, more personal Website experience. When using a public computer, most browsers will allow you to delete cookies after use.
 
-Contact TRENDware   
-TRENDware International Inc. is the sole operator of the TRENDware website. If you would like to contact us for any reason regarding our online privacy practices, please write or email us at the following address: 
+**Third Party Websites**  
+Agents or contractors of TRENDnet who have access to personal information are required to keep the information confidential and use it only to carry out TRENDnet business. Please be aware that other Websites that may be accessed through our site may collect personally identifiable information about you. The information practices of those third-party web sites linked to trendnet.com are not covered by this privacy statement. 
 
-Jonathan Yip  
-TRENDware International Inc.  
-3135 Kashiwa Street  
-Torrance, CA 90505   
-[webmaster@trendware.com](mailto:webmaster@trendware.com)  
+**California Privacy Rights**   
+In accordance to California Civil Code Section 1798.83, residents from the State of California who have provided personal information to TRENDnet are entitled to request information about whether their personal details have been disclosed to any third parties for the third parties’ direct marketing purposes. Upon receipt of a request by a California customer, TRENDnet will provide any such disclosure details from the preceding year. If you would like to make such a request, please send an email to [webmaster@trendnet.com](mailto:webmaster@trendnet.com).
 
+**Changes to This Privacy Policy**  
+TRENDnet may periodically amend our Privacy Policy; amendments made shall supersede any earlier version. By using this Website, you agree to TRENDnet’s Privacy Policy. 
+
+**Contact TRENDne** t   
+TRENDnet is the sole operator of the www.trendnet.com Website. If you would like to contact us for any reason regarding our Privacy Policy, please write or email us at the following address:
+
+Privacy Policy  
+TRENDnet  
+20675 Manhattan Place  
+Torrance, CA, USA 90501  
+[webmaster@trendnet.com](mailto:webmaster@trendnet.com)
