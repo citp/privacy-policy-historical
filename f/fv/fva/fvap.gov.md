@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fvap.gov privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510090332id_/http%3A//www.fvap.gov/global/disclaimers.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fvap.gov privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809160407id_/http%3A//www.fvap.gov/global/disclaimers.html) for the most accurate reproduction.*
 
 # Federal Voting Assistance Program - Disclaimers
 
@@ -22,7 +22,7 @@
   
 
 
-[Click here to view sample information that is collected](https://web.archive.org/web/20130510090332id_/http%3A//www.fvap.gov/global/disclaimers2.html)
+[Click here to view sample information that is collected](https://web.archive.org/web/20130809160407id_/http%3A//www.fvap.gov/global/disclaimers2.html)
 
 We use this information to help us make our site more useful to visitors - to learn about the number of visitors to our site and the types of technology our visitors use. We do not track or record information about individuals.
 
@@ -69,7 +69,7 @@ Only government works prepared by officers and employees of the U.S. Government 
 
 Contractors and grantees are not considered Government employees; generally they hold copyright to works they produce for the Government. The Government is granted a nonexclusive, irrevocable, paid-up royalty-free worldwide license to use, modify, reproduce, release, perform, display or disclose these works by or on behalf of the Government. 
 
-If you have any questions or comments about the information presented here, please forward them to us using the [Contact Us](https://web.archive.org/web/20130510090332id_/http%3A//www.fvap.gov/contact/index.html) page.
+If you have any questions or comments about the information presented here, please forward them to us using the [Contact Us](https://web.archive.org/web/20130809160407id_/http%3A//www.fvap.gov/contact/index.html) page.
 
 ## Cookie Disclaimer
 
@@ -118,7 +118,7 @@ The Federal Voting Assistance Program encourages links to our web pages. No perm
 
 This site provides external links as a convenience to our users and all links provided are consistent with the mission of the Federal Voting Assistance Program. The appearance of external hyperlinks on the Federal Voting Assistance Program website does not constitute endorsement by the Federal Voting Assistance Program or the Department of Defense of the linked websites, or the information, products or services contained therein. The Federal Voting Assistance Program does not exercise any editorial control over the information you may find at these locations.
 
-Please let us know about existing external links which you believe are inappropriate by [contacting us](https://web.archive.org/web/20130510090332id_/http%3A//www.fvap.gov/contact/index.html).
+Please let us know about existing external links which you believe are inappropriate by [contacting us](https://web.archive.org/web/20130809160407id_/http%3A//www.fvap.gov/contact/index.html).
 
 ## Links to Government Websites
 
