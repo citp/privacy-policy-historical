@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articleclick.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527045740id_/http%3A//www.articleclick.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleclick.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809061724id_/http%3A//www.articleclick.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Article Click | About Us Page
 
