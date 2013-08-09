@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yooker.com privacy policy that was archived on 2013-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130228214106id_/http%3A//www.yooker.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yooker.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809204537id_/http%3A//www.yooker.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - Webmaster's Market Place
+# Privacy Policy - Yooker.com Webmaster Market
 
 Welcome to Yooker.com  (the "Site").
 
