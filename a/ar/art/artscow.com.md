@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the artscow.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611233852id_/http%3A//www.artscow.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artscow.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809072130id_/http%3A//www.artscow.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Father’s Day Gifts Ideas, Personalized Photo Gifts l ArtsCow
+# Privacy Policy - Back to School Sale 2013, School Products & Office Supplies at ArtsCow
 
 Effective Date January 01, 2006 
 
