@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the karmasandhan.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117161215id_/http%3A//www.karmasandhan.com/p/privacy-policy_7572.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karmasandhan.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809054024id_/http%3A//www.karmasandhan.com/p/privacy-policy_7572.html) for the most accurate reproduction.*
 
 # West Bengal and Central Government Jobs and Recruitment News: Privacy policy.
-
-Karmasandhan.com is an online employment news site which brings you latest going-on jobs and recruitments news of West Bengal and Central Governments. Please note: we do not claim our site to be error free, before using our information please read our [ Disclaimer.](http://www.karmasandhan.com/p/disclaimer-and-terms-of-use.html)
 
 ##  Privacy policy. 
 
