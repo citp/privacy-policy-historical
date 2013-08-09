@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the freshupnow.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604081832id_/http%3A//www.freshupnow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshupnow.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809042311id_/http%3A//www.freshupnow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[](https://web.archive.org/home) [](https://web.archive.org/advertise-with-us)
+[](https://web.archive.org/home) [](http://www.unewstv.com/)
 
 Advertisement
 
