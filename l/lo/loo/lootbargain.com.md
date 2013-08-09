@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lootbargain.com privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420060307id_/http%3A//www.lootbargain.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lootbargain.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809150816id_/http%3A//www.lootbargain.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Loot Bargain
 
-Lootbargain.com strives to protect your (the “user”) personal information. Maintaining your online privacy is important for us. Thus, Lootbargain.com safeguards it through this Privacy Policy that applies to all the information collected or received by the Website (“we”, “us” or “our”). Our Privacy Policy regulates our practices of collecting, using and sharing your personal identifiable information. Abiding to the Canadian laws, we will not use your personal data for any commercial gain. We will also not release your personal identifiable information without your consent at any point in time. 
+Lootbargain.com strives to protect your (the “user”) personal information. Maintaining your online privacy is important for us. Thus, Lootbargain.com safeguards it through this Privacy Policy that applies to all the information collected or received by the Website (“we”, “us” or “our”). Our Privacy Policy regulates our practices of collecting, using and sharing your personal identifiable information. Abiding to the Indian laws, we will not use your personal data for any commercial gain. We will also not release your personal identifiable information without your consent at any point in time. 
 
 **PLEASE READ ALL THE TERMS OF THIS PRIVACY POLICY CAREFULLY BEFORE USING THIS WEBSITE. BY USING OR ACCESSING THIS SITE, YOU ACKNOWLEDGE YOUR APPROVAL TO ALL THE CONDITIONS OF OUR PRIVACY POLICY. YOU MUST WITHDRAW FROM THIS SITE IMMEDIATELY, IF YOU DO NOT AGREE TO THE FOLLOWING TERMS.**
 
