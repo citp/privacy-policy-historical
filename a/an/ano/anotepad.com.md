@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anotepad.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529173940id_/http%3A//anotepad.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anotepad.com privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810004210id_/http%3A//www.anotepad.com/privacy) for the most accurate reproduction.*
 
 # anotepad.com - Free Online Editor. Save notes , share and access them from anywhere
 
