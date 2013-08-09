@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savoo.co.uk privacy policy that was archived on 2013-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130302175023id_/http%3A//www.savoo.co.uk/info/uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savoo.co.uk privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809161308id_/http%3A//www.savoo.co.uk/info/uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -76,11 +76,11 @@ If you want to access or update the personal information you submitted to Savoo,
 **Questions and Suggestions**
 
 If you have any questions, concerns or suggestions about our Privacy Policy, you may contact [Customer Service](http://savings.zendesk.com/home), or you can send a letter to:  
-  Savoo, Inc.  
-  Attn: Customer Service  
-  85 Tottenham Court Road  
-  London  
-  W1T 4TQ
+Savoo UK Ltd,  
+Attn: Customer Service  
+First Floor  
+77 St John Street  
+Clerkenwell, London EC1M 4NN
 
 **Retention of Information**
 
