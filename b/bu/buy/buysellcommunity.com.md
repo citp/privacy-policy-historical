@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buysellcommunity.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117204823id_/http%3A//www.buysellcommunity.com/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buysellcommunity.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809220448id_/http%3A//www.buysellcommunity.com/privacy_policy.jsp) for the most accurate reproduction.*
 
-# Calgary Classifieds - Privacy Policy
+# Austin Classifieds - Privacy Policy
 
 **Our Commitment to Privacy**
 
