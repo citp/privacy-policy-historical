@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the counselling-directory.org.uk privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525090756id_/http%3A//www.counselling-directory.org.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the counselling-directory.org.uk privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809023726id_/http%3A//www.counselling-directory.org.uk/privacy.html) for the most accurate reproduction.*
 
 # Counselling Directory Privacy Policy and Cookies
 
