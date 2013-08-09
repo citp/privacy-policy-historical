@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the best-prepaid-cell-phone-plans.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616084730id_/http%3A//www.best-prepaid-cell-phone-plans.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the best-prepaid-cell-phone-plans.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809232644id_/http%3A//www.best-prepaid-cell-phone-plans.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-**Search This Site:**
 
 COMMITMENT TO YOUR PRIVACY  
 Your privacy on the Internet is of the utmost importance to us. We want to make your experience online satisfying and safe.  
