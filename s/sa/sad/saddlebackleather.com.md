@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the saddlebackleather.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231173412id_/http%3A//www.saddlebackleather.com/s.nl/c.1265306/it.I/id.13/.f) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saddlebackleather.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809022725id_/http%3A//www.saddlebackleather.com/Our-Privacy-Statement) for the most accurate reproduction.*
 
 # Privacy
 
-Nobody ever sees your email or physical addresses except for Saddleback.  We don't sell or share your info.  We also do not store your credit card information in any way, shape or form.  Whatever personal information you give us, is safe, secure and private.
+Nobody ever sees your email or physical addresses except for Saddleback. We don't sell or share your info. We also do not store your credit card information in any way, shape or form. Whatever personal information you give us, is safe, secure and private.
 
 We can be reached by telephone at 210.858.5210
 
-To request our postal address, please [contact us](https://web.archive.org/Contact-Us.html).
+To request our postal address, please [contact us](https://web.archive.org/Contact-Us).
 
 Information we collect and how it's used:
 
 **Other Information We Collect**  
-When you purchase a leather piece on our website, we ask you for the following information: name, address, phone number, e-mail address, and credit card. This information is used to process your order and if necessary, to contact you for help when we are processing your order. All information we collect is stored in a secure database except for your credit card information which is not disclosed to Saddleback Leather Company but processed through a secure Credit Card Merchant.
+When you purchase a leather piece on our website, we ask you for the following information: name, address, phone number, e-mail address, and credit card. This information is used to process your order and if necessary, to contact you for help when we are processing your order. All information we collect is stored in a secure database except for your credit card information which is not disclosed to Saddleback Leather Company but processed through a secure Credit Card Merchant.
 
 Saddleback also collects e-mail addresses voluntarily to inform our customers that we received the order and update the order status as necessary.
 
@@ -22,4 +22,4 @@ For their protection, we ask that children do not submit information to us witho
 We use VeriSign as our SSL (Secure Socket Layer) digital certificate provider, providing our customers the strongest certificate services available. Your credit card information is encrypted while traveling the Internet.
 
 **Need to make a change?**  
-If you would like to change any of your transactional information in our database please feel free to [contact us](https://web.archive.org/Contact-Us.html).
+If you would like to change any of your transactional information in our database please feel free to [contact us](https://web.archive.org/Contact-Us).
