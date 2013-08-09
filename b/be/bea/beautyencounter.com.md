@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beautyencounter.com privacy policy that was archived on 2013-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130123045437id_/http%3A//www.beautyencounter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautyencounter.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809053929id_/http%3A//www.beautyencounter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Beauty Encounter
 
@@ -38,7 +38,7 @@ Email Submissions
 Our email list is intended to keep users informed of new products, gifts and special features. Our policy is to send our email announcements or newsletters only to those who request this when registering or opting-in to our email list (see how we use the information we collect above). If you receive an email and want to be removed from our email list, you can do so by the following: 
 
   * Email [privacy@beautyencounter.com](mailto:privacy@beautyencounter.com) to be removed from the email list 
-  * Login to My Account and uncheck the option to receive promotional e-emails 
+  * Login to My Account and uncheck the option to receive promotional emails 
 
 
 
