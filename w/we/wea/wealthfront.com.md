@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wealthfront.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430102250id_/https%3A//www.wealthfront.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wealthfront.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809140943id_/https%3A//www.wealthfront.com/legal/privacy) for the most accurate reproduction.*
 
 # Wealthfront Privacy Policy
 
@@ -60,5 +60,11 @@ Wealthfront Inc. (“ **Wealthfront** ”) operates an online financial advisor 
 
   * This document constitutes Wealthfront’s complete Privacy Policy for Wealthfront, The Upfront Blog, and the Site.
   * If you have questions or comments about this Privacy Policy, please email us at [support@wealthfront.com](mailto:support@wealthfront.com).
+  * You can also contact Wealthfront by phone at 650.249.4258 or via physical mail at:
+
+Wealthfront Inc.  
+203 Forest Ave  
+Palo Alto, CA 94301 
+
 
 
