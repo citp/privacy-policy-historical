@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pricegong.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521072906id_/http%3A//www.pricegong.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricegong.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809112906id_/http%3A//www.pricegong.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Comparison Shopping – PriceGong Add-on - Privacy Policy
 
