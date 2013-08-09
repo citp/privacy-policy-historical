@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keeko.com privacy policy that was archived on 2013-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130313191508id_/http%3A//www.keeko.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keeko.com privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810011909id_/http%3A//www.keeko.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Keeko
 
