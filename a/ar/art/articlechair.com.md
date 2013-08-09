@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the articlechair.com privacy policy that was archived on 2013-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130322023041id_/http%3A//www.articlechair.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlechair.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809050635id_/http%3A//www.articlechair.com/privacy) for the most accurate reproduction.*
 
 # Article Chair
 
 [Article Chair](https://web.archive.org/) » 
+
+  
+
 
 * * *
 
