@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1000memories.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626005503id_/http%3A//1000memories.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1000memories.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809165714id_/http%3A//1000memories.com/privacy) for the most accurate reproduction.*
 
 # Privacy | 1000memories
 
@@ -26,8 +26,8 @@ This policy contains nine sections:
 
 Questions. If you have any questions or concerns about our privacy policy, contact our privacy team through one of the following:
 
-  * \- by email at questions@1000memories.com
-  * \- by mail at 879 Hampshire St, San Francisco, CA 94110 USA.
+  * \- by email at ancestrywrsupport@mailmw.custhelp.com
+  * \- by mail at 153 Townsend St, Suite 800, San Francisco, CA 94025 USA.
 
 
 
@@ -134,7 +134,7 @@ Limitations on removal. Even after you remove information from your profile or d
 
 Backup copies. Removed and deleted information may persist in backup copies, but will not be available to others.
 
-Non-user contact information. If a user provides your email address to us, and you are not a 1000memories user but you want us to delete your address, you can do so by emailing questions@1000memories.com. However, that request will only apply to addresses we have at the time of the request and not to any addresses that users provide to us later.
+Non-user contact information. If a user provides your email address to us, and you are not a 1000memories user but you want us to delete your address, you can do so by emailing ancestrywrsupport@mailmw.custhelp.com. However, that request will only apply to addresses we have at the time of the request and not to any addresses that users provide to us later.
 
 ### 8\. How We Protect Information
 
@@ -144,7 +144,7 @@ Steps we take to keep your information secure. We keep your account information 
 
 Risks inherent in sharing information. Although we allow you to set privacy options that limit access to your information, please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other users with whom you share your information. We cannot guarantee that only authorized persons will view your information. We cannot ensure that information you share on 1000memories will not become publicly available. We are not responsible for third party circumvention of any privacy settings or security measures on 1000memories. You can reduce these risks by using common sense security practices such as choosing a strong password, using different passwords for different services, and using up to date antivirus software.
 
-Report Violations. You should report any security violations to us at questions@1000memories.com.
+Report Violations. You should report any security violations to us at ancestrywrsupport@mailmw.custhelp.com.
 
 ### 9\. Other Terms
 
@@ -152,4 +152,4 @@ Changes. We may change this Privacy Policy pursuant to the procedures outlined i
 
 Consent to Collection and Processing in the United States. By using 1000memories, you consent to having your personal data transferred to and processed in the United States.
 
-We are always looking for ways to work with our users to make our privacy clearer, fairer and better. Please get in touch if you have any comments or suggestions: questions@1000memories.com
+We are always looking for ways to work with our users to make our privacy clearer, fairer and better. Please get in touch if you have any comments or suggestions: ancestrywrsupport@mailmw.custhelp.com
