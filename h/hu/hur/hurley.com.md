@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hurley.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424062032id_/https%3A//shop.hurley.com/content/privacy-policy-1001.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hurley.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809060302id_/https%3A//shop.hurley.com/content/privacy-policy-1001.cfm) for the most accurate reproduction.*
 
 # Privacy Policy - Hurley
 
