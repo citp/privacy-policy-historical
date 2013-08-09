@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the shopping-cart-reviews.com privacy policy that was archived on 2013-04-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130402203836id_/http%3A//www.shopping-cart-reviews.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shopping-cart-reviews.com privacy policy that was archived on 2013-08-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130809022843id_/http%3A//www.shopping-cart-reviews.com/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head id="_ctl0_Head1"><title>
 	Privacy Policy
@@ -12,9 +12,9 @@ GS_googleEnableAllServices();
 </script>
 
 <!-- up next -->
-<link type="text/css" href="http://cdn.shopping-cart-reviews.com/jquery/css/ui-lightness/jquery-ui-1.8.16.custom.css" rel="Stylesheet">	
-<script type="text/javascript" src="http://cdn.shopping-cart-reviews.com/jquery/js/jquery-1.6.2.min.js"></script>
-<script type="text/javascript" src="http://cdn.shopping-cart-reviews.com/jquery/js/jquery-ui-1.8.16.custom.min.js"></script>
+<link type="text/css" href="http://cdn.ecommercespot.com/jquery/css/ui-lightness/jquery-ui-1.8.16.custom.css" rel="Stylesheet">	
+<script type="text/javascript" src="http://cdn.ecommercespot.com/jquery/js/jquery-1.6.2.min.js"></script>
+<script type="text/javascript" src="http://cdn.ecommercespot.com/jquery/js/jquery-ui-1.8.16.custom.min.js"></script>
 
 
 <script type="text/javascript">
@@ -76,7 +76,7 @@ GA_googleFetchAds();
 </ul></div>
 
 <div id="top2">
-	<a href="/" id="logoTop"><span></span>Shopping Cart Reviews</a>
+	<a href="/" id="logoTop"><span></span>Ecommerce Spot</a>
 
   <form id="searchbox_012233088847465414495:fr8duvgbugg" action="/search/">
     <input type="hidden" name="cx" value="012233088847465414495:fr8duvgbugg">
@@ -88,7 +88,7 @@ GA_googleFetchAds();
         
        </div>
         <form name="aspnetForm" method="post" action="privacy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjEwNDQyMTMxM2Rkj7AqGwtshkJoAPn1jRn1pK/4nFcMrv8jANmFuKsdj5k=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjEwNDQyMTMxM2Rkuv4YHUuqDIJPFnjR/tWvBIOqSOG/OcjWV8SFf+V5Z5w=">
 
         <div align="center">
             
@@ -151,9 +151,26 @@ http://www.google.com/intl/en/privacy.html</p><p>If you feel that this site is n
         ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
     })();
+	
+//ranking	
+if (document.referrer.match(/google\.com/gi) && document.referrer.match(/cd/gi)) {
+  var myString = document.referrer;
+  var r        = myString.match(/cd=(.*?)&/);
+  var rank     = parseInt(r[1]);
+  var kw       = myString.match(/q=(.*?)&/);
+  
+  if (kw[1].length > 0) {
+    var keyWord  = decodeURI(kw[1]);
+  } else {
+    keyWord = "(not provided)";
+  }
+
+  var p        = document.location.pathname;
+  _gaq.push(['_trackEvent', 'RankTracker', keyWord, p, rank, true]);
+}	
 </script>
 
-<!-- Google Code for Shopping Cart Reviews all of site list Remarketing List -->
+<!-- Google Code for Ecommerce Spot all of site list Remarketing List -->
 <script type="text/javascript">
 /* <![CDATA[ */
 var google_conversion_id = 1067845965;
