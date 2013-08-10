@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the o2online.ie privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523015213id_/http%3A//www.o2online.ie/o2/legal/consumer/index.php%3Fcid%3D148) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the o2online.ie privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810143613id_/http%3A//www.o2online.ie/o2/legal/consumer/index.php%3Fcid%3D148) for the most accurate reproduction.*
 
 # Privacy & Cookies<br /> Policy
 
