@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jaguar.co.uk privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615055136id_/http%3A//www.jaguar.co.uk/privacy-legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaguar.co.uk privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810090930id_/http%3A//www.jaguar.co.uk/privacy-legal) for the most accurate reproduction.*
 
 # COOKIES & PRIVACY POLICY
 
