@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpromote.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619235024id_/http%3A//www.wpromote.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpromote.com privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810233614id_/http%3A//www.wpromote.com/privacy) for the most accurate reproduction.*
 
 # Wpromote's Privacy Policy | Wpromote
 
