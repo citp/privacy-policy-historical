@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the locanto.ph privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117214215id_/http%3A//www.locanto.ph/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the locanto.ph privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810060849id_/http%3A//www.locanto.ph/info/privacy) for the most accurate reproduction.*
 
 # Locanto Info pages
 
