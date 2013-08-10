@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vitaminshoppe.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524155008id_/http%3A//www.vitaminshoppe.com/content/en/support/help/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitaminshoppe.com privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810161104id_/http%3A//www.vitaminshoppe.com/content/en/support/help/privacy.jsp) for the most accurate reproduction.*
 
-# Privacy & Security Policy the Vitamin Shoppe
+# Privacy & Security Policy the vitamin shoppe
 
 The Vitamin Shoppe has not and will not sell or rent your Personal Information to third parties for their direct marketing purposes. Except as disclosed below, you should never receive solicitaions (i.e. "junk mail") from unaffiliated third parties as a result of shopping or visiting The Vitamin Shoppe.
 
