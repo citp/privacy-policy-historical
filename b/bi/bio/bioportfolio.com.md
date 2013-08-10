@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bioportfolio.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607214356id_/http%3A//www.bioportfolio.com/info/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bioportfolio.com privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810221106id_/http%3A//www.bioportfolio.com/info/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # BioPortfolio Privacy and Cookie Policy
 
