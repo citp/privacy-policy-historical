@@ -1,20 +1,16 @@
-> *The following text is extracted and transformed from the beelinetv.com privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414151300id_/http%3A//www.beelinetv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beelinetv.com privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810130447id_/http%3A//www.beelinetv.com/privacy) for the most accurate reproduction.*
 
-# Beeline Software Express Privacy Policy
+# Beeline Software Express - Privacy Policy
 
-|  _Beeline TV is a subsidiary of Beeline Software Express_| 
+_Beeline TV is a subsidiary of Beeline Software Express._    Print
 
- Print  
-  
----|---|---  
-  
 **_Protecting the privacy of our customers is important to Beeline Software Express._**
 
 ## BROWSING
 
 When you browse the Beeline Software Express websites, you are able to do so anonymously. Generally, no personal information is collected when you browse. However your browser does automatically give us information about your system, such as the preferred browser language, the type of computer- and operating system you are using and your IP number. An IP number is similar to a telephone number or street address; it is identifiable information that is automatically captured by computers when communication links are made over the Internet. 
 
-Like many other websites, the Beeline Software Express websites use the so called “cookie” technology. A cookie is a temporary and unique identifier that a web server places on your computer: a serial number for you personally that can be used to retrieve records from our databases, show webpages using personal preferences and help us to study traffic patterns on our sites. The cookies we use do not store any private information about you. 
+Like many other websites, the Beeline Software Express websites use the so called “cookie” technology. A cookie is a temporary and unique identifier that a web server places on your computer: a small data-file that can be used to retrieve records from our databases, show webpages using personal preferences and help us to study traffic patterns on our sites. The cookies we use do not store any private information about you. 
 
 The Beeline Software Express websites contain links to other websites. Beeline Software Express does not share any information about you with those websites and is not responsible for their privacy practices. 
 
@@ -24,7 +20,7 @@ Most ads appearing on the Beeline Software Express websites are delivered to you
 
 ## PURCHASES
 
-To make purchases on the Beeline Software Express websites, you must use an SSL-enabled browser such as Internet Explorer, Firefox, Safari, Chrome or Opera. This protects the confidentiality of your personal and credit card information while it is transmitted over the Internet.
+To make purchases on the Beeline Software Express websites, you must use an SSL-enabled browser such as Internet Explorer, Firefox, Safari, Chrome or Opera. This protects the confidentiality of your personal information while it is transmitted over the Internet.
 
 ## PERSONAL INFORMATION
 
@@ -32,4 +28,4 @@ Personal information collected from customers or from subscribers to free servic
 
 Beeline Software Express works with other companies to provide products and services to you, and thus may provide some personal information to these companies. For example, a shipping company may receive your address information so that they can deliver the ordered products. Beeline Software Express requires that these companies safeguard your personal information in accordance with Beeline Software Express's own privacy policies. 
 
-The Beeline Software Express privacy policy is subject to change at any time. You are encouraged to review this page regularly for any changes. Last updated january 9, 2010 Beeline Software Express, All Rights Reserved. 
+The Beeline Software Express privacy policy is subject to change at any time. You are encouraged to review this page regularly for any changes. Last updated december 12, 2011. Beeline Software Express, All Rights Reserved. 
