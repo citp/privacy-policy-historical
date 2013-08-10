@@ -1,66 +1,141 @@
-> *The following text is extracted and transformed from the kidzui.com privacy policy that was archived on 2013-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130427050259id_/http%3A//www.kidzui.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidzui.com privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810082119id_/http%3A//www.kidzui.com/privacy_policy) for the most accurate reproduction.*
 
 # KidZui Privacy Policy
 
-Effective January 5, 2011
+Effective July 1, 2013
 
-Information gathered by KidZui - This is KidZui’s online privacy Policy This Policy applies only to activities KidZui.com engages in on its website and does not apply to KidZui activities that are “offline” or unrelated to the website (such as the KidZui browser).
+Welcome to www.kidzui.com (“we,” “our” or “us”). This Privacy Policy (the “Policy”) is provided to help ensure a rewarding online experience for all visitors to our website (the “Website”).
 
-KidZui.com collects certain anonymous data regarding the usage of the website. This information does not personally identify users, by itself or in combination with other information, and is gathered to improve the performance of the website. The anonymous data collected by the KidZui.com website can include information such as the type of browser you are using, your IP address and the length of the visit to the website.
+At www.kidzui.com, we take the privacy of every child seriously. We treat your information with care and are committed to providing a fun, safe and secure Website for visitors (hereafter "you", "visitors" or "users") to the Website. This Policy describes our online information practices, including the type of information collected on the Website, how such information is used and stored and the choices you can make about the way your information is collected and used. By using this Website, you and, if applicable, your parent or legal guardian, agree to be bound by this Policy.
 
-When you sign up for KidZui, we ask you for personal information (such as your name, email address and an account password). For certain services, we also request credit card or other payment account information, which we maintain in encrypted form on secure servers. This information can be gathered when feedback or e-mails are sent to KidZui, when you register for services, or make purchases via the website. In all such cases you have the option of providing us with personally identifiable information.
+We reserve the right to change our Policy, and if we do, we will post the changes here. If we make any material changes to our Policy (for example, we significantly change the way we handle information previously collected, if any, or we change the type of information we collect), we will notify you and if necessary obtain permission of your parent or guardian.
 
-Cookies - When you visit KidZui.com, we send one or more cookies - a small file containing a string of characters - to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service by storing user preferences such as passwords, eliminating the need to constantly reenter data. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent.
+This Policy applies only to the Website and does not apply to any other website operated by us or any affiliated company.
 
-Cookies are small bits of data that are deposited on a user’s hard drive. Cookies permit users to store their password and other user information without having to constantly re-enter this data.
+The Website enables users who register (as described more fully below) to download the Kidzui browser which has been designed to provide kids with a safe and secure Internet browsing experience. The vast majority of users downloading the Kidzui browser are parents seeking a safe way for their children to explore the Internet. The Kidzui browser responds to this need by permitting users to access only pre-screened websites with child appropriate content.
 
-Use and disclosure of information - KidZui does not sell personally identifiable information, such as your name or e-mail address to advertisers. However, non-personal “aggregated data” may be used to enhance the operation of our website, or analyze interest in the areas of our website. Moreover, we may in some circumstances disclose personally identifiable information to third parties but not advertisers to enhance your experience on our website. Additionally, if you provide KidZui.com with content for publishing or feedback, we may publish your user name or other identifying data.
+## I. THE INFORMATION WE COLLECT
 
-KidZui may disclose personally identifiable information in order to respond to a subpoena, court order or other such request. KidZui may also provide such personally identifiable information in response to a law enforcement agency’s request or as otherwise required by law. Your personally identifiable information may be provided to a third party if KidZui files for bankruptcy, or there is a transfer of the assets or ownership of KidZui in connection with proposed or consummated corporate reorganizations, such as mergers or acquisitions.
+There are three general categories of information collected from Website visitors:
 
-Except as otherwise stated in this Policy, we do not sell, trade or rent your personally identifiable information collected on the site to others. The information collected by our site is used to process orders, to keep you informed about your order status, to notify you of products or special offers that may be of interest to you, and for statistical purposes for improving our site. We will disclose your personally identifiable information to third parties for tracking purposes, to charge your credit card (or process your check or money order, as appropriate), fill your order, improve the functionality of our site, perform statistical and data analyses, deliver your order and deliver promotional emails to you from us. For example, we must release your credit card number to confirm payment; and release your mailing address information to the delivery service to deliver products that you ordered. Moreover, KidZui uses Wells Fargo and Cybersource to process and accept orders and payments. Please review their respective policies if you have questions.
+(a) user information requested by the Website ("User Information"),
 
-Other Websites - KidZui is not responsible for the privacy policies of websites to which it links. If you provide any information to such third parties different rules regarding the collection and use of your personal information may apply. We strongly suggest you review such third party’s privacy policies before providing any data to them. We are not responsible for the policies or practices of third parties. Please be aware that our sites may contain links to other sites on the Internet that are owned and operated by third parties. The information practices of those Web sites linked to our site is not covered by this Policy. These other sites may send their own cookies or clear GIFs to users, collect data or solicit personally identifiable information. Additionally, other companies which place advertising on our site may collect information about you when you view or click on their advertising through the use of cookies or clear GIFs. We cannot control this collection of information. You should contact these entities directly if you have any questions about their use of the information that they collect.
+(b) information collected by the Website from the electronic device (e.g., computer, laptop, tablet, smart phone) and Internet browser which the visitor is using to access the Website ("Computer Information"), and
 
-Security - KidZui takes appropriate steps to ensure data privacy and security including through various hardware and software methodologies. However, KidZui cannot guarantee the security of any information that is disclosed online.
+(c) information collected by third-party advertisers, website analytics providers and other partners ("Third-Party Information") to whom we have granted access to the Website.
 
-Children - KidZui does not knowingly collect personal information from children under the age of 13. KidZui requests that children under the age of 13 not submit any personal information to the KidZui.com website. Since information regarding children under the age of 13 is not collected, KidZui does not knowingly distribute personal information regarding children under the age of 13. For more information, please see the [Children’s Privacy Policy.](http://www.coppa.org/comply.htm)
+(a) User Information
 
-Corrections and updates - If you wish to modify or update any information KidZui.com has received, please contact [support@kidzui.com.](mailto:support@kidzui.com)
+1\. Do we collect information from you to use or register on our site?
 
-Modifications of the privacy policy - KidZui reserves the rights to modify its privacy policy at any time and will notify you by posting an amendment to the privacy policy on the website. Such modifications will become effective on the day they are posted. KidZui encourages you to frequently review the privacy policy for any modifications.
+Registration for kidzui.com is not required. Kids can use and enjoy the site anonymously without registration. However, in order to download and use the KidZui browser, the user must register and provide the following information: a screen name, gender, date of birth and first name as well as the email address of a parent or guardian.
 
-Questions? - If you have any additional questions or concerns about this Policy, please feel free to contact us any time.
+We do not collect or store any Personal Information (1) about visitors to our Website until we receive consent from the parent or guardian. At the time a child 12 or under registers with KidZui.com and downloads the KidZui browser, we send an email to the child’s parent or guardian. We require that such parent or guardian give express permission in writing before we will permit the child to use any feature on KidZui.com, including the KidZui browser. If KidZui does not receive written permission from the parent or guardian of the child 12 or under, we will assume that the parent or guardian has not consented to the child being registered with the Website. We will then delete all information we have received from the child. Once the parent or guardian consents in writing to the child's registration, the child will be permitted to use any registration-based features on the Website..
 
-## KidZui Children's Privacy Policy
+2\. What types of community or social features do we offer you on our site and how do we keep these areas safe?
 
-### Types of Information Collected by KidZui
+The Website does not allow for open messaging between its users, nor does it allow for the use of third party social networks. While the Website does allow its users to “rate” content, we do not currently provide users the ability to upload user- generated content to the site.
 
-Information gathered by KidZui - Children can visit the KidZui.com site without any personally identifiable information being collected from them. However, if they download and use the KidZui browser, some personally identifiable information must be collected from children, but no personally identifiable information is collected by the application until you provide your consent, as set forth below.
+3\. Do we offer other features on our site that ask you to provide information?
 
-At registration, KidZui collects a screen name, gender, date of birth and first name from your child, as well as a parent or guardian’s email address. KidZui also gathers usage data regarding your child’s Internet activity via the KidZui browser, including what web pages they visit or share, what pictures and videos they view or share, searches (and results of such searches), content they rate, tag and select as their favorites, as well as time spent online including time online, number of sessions per day, date, etc. KidZui believes in not collecting more personally identifiable information from children than is necessary to use its services. In addition, users should be aware that sites that are targeted to children 12 or under are prohibited by law from collecting more information than they need.
+On occasion, we may run contests or polls created by us or by third-party partners and/or advertisers. If we conduct a contest or sweepstakes on our Website, we will collect email addresses from entrants so that we may contact the winners of the contest or sweepstakes. Any email addresses collected from entrants to a contest or sweepstakes will be used on a one-time basis. After the contest or sweepstakes prizing has been awarded, we will remove the email addresses collected with respect to the contest or sweepstakes from the applicable Website database. If we collect and store any other Personal Information in addition to the user's contact information as part of these activities, we will first ask for parental permission.
 
-As a parent, you may request at any time that the information collected about your child be removed from the KidZui database. In addition, the service itself permits you to monitor and review information regarding your child, including your child’s Internet activity, what web pages they visit, what pictures and videos they view, rate or share, as well as time spent online, searches and search results, their friends and categories visited. If you are a parent and wish to deactivate your KidZui account, please send an email message to [support@kidzui.com](mailto:support@kidzui.com) from your registered email account, requesting that the account be cancelled. When we receive your cancellation request, we will permanently delete all information associated with your account. 
+(b) Computer Information.
 
-Use and disclosure of children’s personally identifiable information – No personally identifiable information from users 12 or under is used for any promotional or marketing purposes whatsoever inside or outside KidZui.com. We ask for your child’s date of birth to validate their age. We track what all children of the same age look at and enjoy online to tailor and improve our services, without sharing personally-identifiable information about any individual child. We do not share personally identifiable information from users 12 or under with any third party. However, when your child visits other websites using the KidZui browser, their information may be collected by third parties in the manner identified on those websites, and their practices may be different from ours. You should review these websites’ privacy policies to ensure you are aware of their privacy practices because KidZui.com is not responsible for these websites’ information practices.
+4\. Do we collect information from you using cookies or other web technologies?
 
-Notification to parents - At the time a child 12 or under registers with KidZui.com and downloads the KidZui browser, an email is sent to the child’s parent or guardian. We require parents to give express permission before we will permit their child to use any feature on KidZui.com where personally identifiable information can be made public to the Internet and shared with other users.
+The Website uses technologies, including cookies, to help make the site faster and easier for kids to use. For example, we may use cookies to “cache” (i.e., remember) content for users and store user preferences such as passwords thereby eliminating the need to constantly re-enter data. "Cookies" may also assist us in saving your online game settings and your media player settings for facilitating future viewing of streaming content. Section II below on "Cookies and Web Beacons" will provide further information on how Computer Information may be collected from your electronic device and Internet browser and how you can use your browser settings to limit the effectiveness of Website cookies.
 
-You can refuse any registrations that your children make in order to use any feature on KidZui.com and the KidZui browser where personally identifiable information can be made public to the Internet and shared with other users. If KidZui does not hear back from you, we will assume you have not consented to your child being registered with us and we will delete all information we have received from your child, within a reasonable time. Once a child is registered, he or she will be permitted to use any future registration-based features and parents are not notified again. In these circumstances, we use the information collected only to permit children to use the functions of KidZui.com and the KidZui browser, and not for any other purpose.
+We also use cookies to track the activity of our users of the Website. The information regarding the activities of users on our Website is collected on an aggregate, anonymous basis and does not personally identify users, by itself or in combination with other information. Such non-personally identifiable information assists us in the internal operation of our Website and helps us improve the design and content of our Website to provide visitors with a better experience.
 
-Security - KidZui understands the importance of protecting the personally identifiable information associated with our users. KidZui takes a variety of security steps to protect all users’ information, including administrative, technical and contractual steps. When credit card information is provided we use secure socket layer (SSL) encryption to protect it. Users should also take steps to protect their security including never giving out their password. Parents should never provide their parent login password to their child.
+The Website uses third-party analytics software to provide us with information regarding the usage of the Website. The information we receive from such third-party analytic software is not Personal Information attributable to any user but rather information that is aggregated by the software so that we can track such things as how many users we have of the Website on a daily, weekly or monthly basis, what Website content or features our users are frequenting and the general geographic locations of our users.
 
-Parent access to information - Parents can review information that has been collected about children who are 12 or under in the following 2 methods:
+We also gather usage data regarding your child’s Internet activity via the KidZui browser, including what web pages they visit or share, what pictures and videos they view or share, searches (and results of such searches), content they rate, tag and select as their favorites, as well as time spent online. We make this information available to parents so that parents can monitor the Internet activity of their child.
 
-  1. Parents can review their child’s personally identifiable information by logging into the parental account that is created once the registration is approved by going to http://www.KidZui.com. You will need to have your e-mail address that you used to sign-up and the password you selected at sign-up.
-  2. You can also contact KidZui Customer Support to view the information that has been collected from or about your child by sending an email to [support@kidzui.com.](mailto:support@kidzui.com) You will need to have your parent login information (e-mail address) as well as your child’s user name and password to enable us to answer your questions. 
+The Website does not use cookies or other technologies to track user activity for behavioral advertising (2) purposes.
 
+(c) Third-Party Information.
 
+5\. Do we have advertisements or e-commerce on our site?
 
-Zuigames Copyright - We believe we have taken the necessary steps to obtain licensing for all the games posted. If you believe that your copyrightable work is being displayed on this site and is violating copyright regulations – please advise us immediately at [support@kidzui.com](mailto:support@kidzui.com) and the game will be immediately removed. 
+Our Website contains advertisements which we review to make certain that such advertisements are appropriate for our audience. We explicitly label all advertising on the Website so that it will be clear to Website visitors that they are viewing advertisements. We do not permit behavioral advertising on the Website. We do not currently offer e-commerce on the Website.
 
-Modifications to this policy - If KidZui makes modifications or changes to this privacy policy, we will post an amendment to the privacy policy on the website.
+Third-party advertising networks and business partners may also place advertisements on the Website and may track the responses to these advertisements. These third- parties may view, edit or place cookies, web beacons or similar technologies to help present advertisements, and to help measure and research the advertisements' effectiveness. We do not permit any third party advertisers to collect Personal Information from our site. We do, however, permit third-party advertisers to track the source of users who click on the third party advertisements and go to the advertiser 's site.
 
-Questions? - If you have any other questions or require any additional assistance please send an email to [support@kidzui.com](mailto:support@kidzui.com) , or write us at KidZui, Inc., attention CFO, 4350 Executive Drive, Suite 300, San Diego CA 92121. 
+6\. How does the Kidzui browser work?
 
-Effective: January 5, 2011.
+The Kidzui browser enables children to navigate the Internet using a search engine that is specially adapted to only permit the child to visit carefully pre–screened websites ("third-party websites") containing child appropriate content. Please understand that our Policy does not apply to those third party websites accessed by means of the Kidzui browser. The third-party websites reached using the Kidzui browser may follow different practices and procedures with respect to the collection, use and disclosure of Personal Information from those persons visiting their websites. The Kidzui browser does not pre-screen third-party websites for compliance with COPPA. We, therefore, encourage you to review the privacy policies of such third-party websites.
+
+We also provide access to our Website to third party analytics providers. These third parties assist us in measuring, analyzing and improving the internal operations of the Website. These third parties gather information in the aggregate with respect to visitors to the Website, the pages of the Website and advertisements which are viewed by the visitors, and other information with respect to the Internet activities of visitors. These analytics providers do not collect Personal Information.
+
+## II. COOKIES AND WEB BEACONS
+
+To enhance your online experience, our Website uses a software technology called "cookies" which are small text files placed in visitors' computer browsers to store their preferences. As noted earlier, we use cookies to improve the user's experience on our Website and to assist us in the internal operations of our Website. Our third party service providers and/or our partners also may use cookies to manage and measure the performance of advertisements displayed on or delivered by or through the Website. The cookies used on our Website do not contain or collect any Personal Information.
+
+We and our third party service providers and/or partners may also use other tracking technologies such as "Web beacons" or clear .gifs. These are small pieces of computer code placed on a web page to monitor the behavior and collect data about the visitors viewing a web page. For example, web beacons can be used to count the users who visit a web page or to deliver cookies to the browsers of visitors viewing that page. We, our third party service providers and/or our partners may use web beacons on our Website from time to time to help present advertisements and measure their effectiveness.
+
+By visiting our Website, you acknowledge, and agree that you are giving us your consent to track your activities using cookies, web beacons and related technologies. We do not, however, use tracking technologies to collect Personal Information from visitors to our Website.
+
+You can change your privacy preferences regarding the use of cookies and similar tracking technologies through your browser. You may set your browser to accept all cookies, block certain cookies, require your consent before a cookie is placed in your browser, or block all cookies. Blocking all cookies will affect your online experience and may prevent you from enjoying the full features offered at our Website and other websites. Please consult the "Help" section of your browser for more information on how to change the settings of your browser to limit or block the use of cookies and other tracking technology by our Website or other websites.
+
+## III. HOW WE USE THE INFORMATION
+
+7\. With whom do we share your information?
+
+We do not share or sell any Personal Information on specific users with independent third parties, including advertisers. We use the information collected only to permit children to use the functions of KidZui.com and the KidZui browser, and not for any other purpose. We may, however, share information about our users in the aggregate, as necessary, with third party service providers that help us run the site or perform certain functions on our behalf. These providers are prohibited from using any information we share with them for their own benefit.
+
+We may also share non-personal information about our users with third parties for advertising purposes. Such data is also only shared in the aggregate to provide advertisers with basic information related to our total user base in the aggregate.
+
+Finally, the Website may disclose user information, including Personal Information, if any, that we may have collected, in order to respond to a subpoena, court order, law enforcement request, user safety issue, or as otherwise required by law. Your information may also be transferred to a third party in the event that we file for bankruptcy or are involved in an acquisition, merger, sale, corporate reorganization or other similar event.
+
+## IV. SECURITY
+
+We have put in place appropriate physical, electronic, and managerial procedures in an effort to safeguard and help prevent unauthorized access to information supplied by or obtained from visitors to our Website. For example, we limit the number of people who have physical access to our database servers and use electronic security systems and password protections to guard against unauthorized access. We also take reasonable steps to help make sure that third-parties having access to information collected on our Website keep such information confidential and use it solely in compliance with this Policy. Information collected at the Websites will not be stored for longer than is necessary for the purposes described in this Policy, or to otherwise meet legal requirements.
+
+Despite these measures, no method of security is 100 percent secure and, therefore, we cannot guarantee the absolute security of your data.
+
+V. PARENTAL REVIEW OF INFORMATION
+
+Parents always have the option to review their child’s Website account ("Account"), disable or cancel the Account , correct factual errors in any information contained in the Account or request the deletion of any information contained in the Account. Parents may also request that we discontinue further collection or use of your child’s Personal Information (if we have any on file).
+
+Parents interested in accessing the Account for the purposes outlined above should use the contact information in the Section VII below. Parents can review information that has been collected about children who are 12 or under using either of the following 2 methods:
+
+Parents can review their child’s information by logging into the parental account that is created once the registration is approved by going to http://www.KidZui.com. You will need to have your e-mail address that you used to sign-up and the password you selected at sign-up.
+
+You can also contact KidZui Customer Support to view the information that has been collected from or about your child by sending an email to support@kidzui.com. You will need to have your parent login information (e-mail address) as well as your child’s user name and password to enable us to answer your questions.
+
+When we receive your cancellation request, we will permanently delete all information associated with the Account from our database. Please note that if you deactivate the Account, this action may result in the permanent termination of the Account, as well as any points or achievements earned under that Account.
+
+We also offer a version of the Kidzui browser which enables the parent or guardian to act as an "administrator" and monitor and review information regarding the child’s Internet activity (e.g., what web pages they have visited, what pictures and videos they have viewed, and how much time the child has spent online).
+
+## VI.  YOUR CALIFORNIA PRIVACY RIGHTS.
+
+California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to or write us at the address set forth in Section VII below.
+
+## VII. CONTACT US
+
+If you have any questions, comments or concerns regarding our Policy and/or practices, please contact us at the following e-mail and mailing addresses:
+
+Email: support@kidzui.com
+
+Mailing Address:
+
+Privacy Manager
+
+KidZui, Inc.,
+
+4350 Executive Drive, Suite 300,
+
+San Diego CA 92121.
+
+VIII. UPDATES & EFFECTIVE DATE
+
+From time to time, we may update this Policy. We encourage you to periodically check back and review this Policy so that you always will know what information we collect, how we use it, and to whom we disclose it. Except as otherwise provided, such modifications will become effective on the day they are posted.
+
+IX. GOVERNING LAW
+
+Our Website is governed by and operated in accordance with the laws of the U.S. We make no representation that the Website is operated in accordance with the laws of any other jurisdiction. Your continued use of the Website indicates that you are agreeing to the collection, use, disclosure, management and storage of your Personal Information will as described in this Policy. If you do not agree to the terms of the Policy, you should promptly discontinue using the Website. You should also contact us to advise how you would like us to handle any Personal Information that we may have previously collected from you. 
+
+(1) Personal information as defined by the Children's Online Privacy Protection Act ("COPPA") means individually identifiable information about an individual collected online, including: (i) a first and last name; (ii) a home or other physical address including street name and name of a city or town; (iii) online contact information; (iv) a screen or user name where it functions in the same manner as online contact information; (v) a telephone number; (vi) a Social Security number; (vii) a persistent identifier that can be used to recognize a user over time and across different websites or online services. Such persistent identifier includes, but is not limited to, a customer number held in a cookie, an Internet Protocol (IP) address, a processor or device serial number, or unique device identifier; (viii) a photograph, video, or audio file where such file contains a child’s image or voice; (ix) geo-location information sufficient to identify street name and name of a city or town; or (x) information concerning the child or the parents of that child that the operator collects online from the child and combines with an identifier described in this definition.
+
+(2) Behavioral advertising is advertising that is specifically targeted to an individual based upon the individual's browsing activities on the website or on the web in general.
