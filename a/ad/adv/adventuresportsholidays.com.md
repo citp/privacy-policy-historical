@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adventuresportsholidays.com privacy policy that was archived on 2013-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130412011158id_/http%3A//www.adventuresportsholidays.com/about/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adventuresportsholidays.com privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810222244id_/http%3A//www.adventuresportsholidays.com/about/privacy-policy.php) for the most accurate reproduction.*
 
 # Adventure Holidays - Privacy Policy
 
