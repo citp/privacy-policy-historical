@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the livepages.com.au privacy policy that was archived on 2009-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091017011235id_/http%3A//www.livepages.com.au/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livepages.com.au privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810044233id_/http%3A//www.livepages.com.au/privacy_policy.php) for the most accurate reproduction.*
 
-# LivePages Privacy Policy
+# PRIVACY POLICY
 
 Welcome to Live Pages.com.au Pty Ltd ("Live Pages") Privacy Policy. Your privacy is very important to us. You must read and agree to the terms of this Privacy Policy before accessing or using livepages.com.au ("Website"). This Privacy Policy governs the information we collect about you, the use and disclosure of information. By accepting this Privacy Policy, you expressly consent to our use and disclosure of your personal information in the manner prescribed in this Privacy Policy.
 
@@ -26,7 +26,7 @@ Generally the collected information is to provide you with a tailored, efficient
 
 As part of the normal operation of our services, we may share certain information about you with selected business partners from time to time, including those who may offer services that complement those provided by us or which we believe may be of interest to you. For example, we may engage third parties to make improvements on our Website, and to assist us in improving our products and services and to offer new products and services. If we do this we generally require these parties to protect your information in the same way we do.
 
-If you request us not to use personal information in a particular manner or at all, we will adopt all reasonable measures to observe your request but we may still use or disclose that information if: 
+If you request us not to use personal information in a particular manner or at all, we will adopt all reasonable measures to observe your request but we may still use or disclose that information if:
 
 we subsequently notify you of the intended use or disclosure and you do not object to that use or disclosure;
 
