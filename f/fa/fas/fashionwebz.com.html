@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fashionwebz.com privacy policy that was archived on 2013-05-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130530130008id_/http%3A//www.fashionwebz.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fashionwebz.com privacy policy that was archived on 2013-08-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130810095638id_/http%3A//www.fashionwebz.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" xml:lang="en"><head>
 <title>Privacy Policy</title>
@@ -108,6 +108,22 @@ $(document).ready(function() {
   //]]>
 </script>
 
+<script type="text/javascript">
+
+function preload(arrayOfImages) {
+    $(arrayOfImages).each(function(){
+        (new Image()).src = this;
+    });
+}
+preload([
+    'catalog/view/theme/default/image/subscribe_popup.jpg',
+	'catalog/view/javascript/jquery/colorbox/images/border.png',
+	'catalog/view/javascript/jquery/colorbox/images/controls.png',
+	'catalog/view/javascript/jquery/colorbox/images/overlay.png'
+]);
+</script>
+
+
 
 
 
@@ -118,7 +134,10 @@ $(document).ready(function() {
         <div id="subscribe">
         
         <div id="subs-container" class="clearfix">
-            <input type="text" name="subscribe" class="popup_subscribe_field" placeholder="Please enter your email address..."><span><input type="submit" value="Submit" class="popup_subscribe_btn">
+        <h4>Sign Up &amp; Avail 10% off on your first order</h4>
+        <div class="sub_descr">Subscribe &amp; Get Best Offers! <br><br>Receive exclusive offers. Please enter your email address...</div>
+            <input type="text" name="subscribe" class="popup_subscribe_field" placeholder="Enter your email address..."><span><input type="submit" value="Submit" class="popup_subscribe_btn">
+            <div class="sub_msg"></div>
         </span></div>
         </div>
 </div>
@@ -131,24 +150,27 @@ $('.popup_subscribe_btn').click(function() {
 			  url: 'index.php?route=common/footer/addsubscription&email='+$('.popup_subscribe_field').val(),
 			  success: function(data) {
 				  $('.popup_subscribe_field').attr("value","");
-					if(data == 'You have already subscribed!' || data == 'Successfully subscribed!')
+					if(data == 'You have already Subscribed!' || data == 'Successfully Subscribed!')
 					{
+						$('.sub_msg').html(data);
 						alert(data);
 						$.colorbox.close();
 					}
 					else
 					{
-						alert(data);
+						$('.sub_msg').html(data);
 					}
 			  }
 			});
 		}
 		else
 		{
-			alert('Please Enter Your Email ID!');
+			$('.sub_msg').html('Please enter your email address!');
 		}
 	});
 </script>
+
+
 <div id="container">
 <div id="header">
     <div id="logo"><a href="http://www.fashionwebz.com/"><img src="http://www.fashionwebz.com/image/data/logo.png" title="Fashion Webz Private Limited" alt="Fashion Webz Private Limited"></a></div>
@@ -341,6 +363,7 @@ $('.popup_subscribe_btn').click(function() {
             	                        <div class="sub_menu">
                         	<ul>
                             	                                    	<li><a href="http://www.fashionwebz.com/readymade-lehenga-choli/bridal-readymade-lehenga-choli">Bridal</a></li>
+                                    	                                    	<li><a href="http://www.fashionwebz.com/readymade-lehenga-choli/long-anarkal_1194">Long Anarkali</a></li>
                                     	                                    	<li><a href="http://www.fashionwebz.com/readymade-lehenga-choli/party-wear-readymade-lehenga-choli">Party Wear</a></li>
                                     	                                    	<li><a href="http://www.fashionwebz.com/readymade-lehenga-choli/wedding-readymade-lehenga-choli">Wedding</a></li>
                                     	                            </ul>
@@ -494,7 +517,7 @@ $('.popup_subscribe_btn').click(function() {
     <h3>FOLLOW US</h3>
             <a href="http://www.youtube.com" target="_blank"><img src="catalog/view/theme/default/image/youtube.png" border="0" title="Youtube" alt="Youtube"></a>
             
-            <a href="http://www.facebook.com" target="_blank"><img src="catalog/view/theme/default/image/facebook.png" border="0" title="Facebook" alt="Facebook"></a>
+            <a href="http://www.facebook.com/fashionwebz" target="_blank"><img src="catalog/view/theme/default/image/facebook.png" border="0" title="Facebook" alt="Facebook"></a>
             
             <a href="http://www.twitter.com" target="_blank"><img src="catalog/view/theme/default/image/twitter.png" border="0" title="Twitter" alt="Twitter"></a>
             
@@ -502,7 +525,7 @@ $('.popup_subscribe_btn').click(function() {
             
             <a href="http://plus.google.com" target="_blank"><img src="catalog/view/theme/default/image/googleplus.png" border="0" title="Google+" alt="Google+"></a>
             
-      <div class="footer_contacts"><b>CALL US: </b>+91-9825568804</div>
+      <div class="footer_contacts"><b>CALL US: </b>+91-8469140406</div>
       <div class="footer_contacts"><b>EMAIL: </b>support@fashionwebz.com</div>
       
       </div>
@@ -524,7 +547,14 @@ $('.popup_subscribe_btn').click(function() {
 </div>
 </div>
 <script type="text/javascript">
-
+jQuery(document).ready(function(){
+    if (document.cookie.indexOf('visited=true') == -1) {
+        var fifteenDays = 1000*60*60*24*1;
+        var expires = new Date((new Date()).valueOf() +  fifteenDays);
+        document.cookie = "visited=true;expires=" +  expires.toUTCString();
+    	$.colorbox({width:"550px",height:"250px", inline:true, href:"#subscribe"});
+        }
+});
 $(window).scroll(function(){
         if ($(this).scrollTop() > 100) {
             $('.scrollup').fadeIn();
