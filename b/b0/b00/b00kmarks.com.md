@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the b00kmarks.com privacy policy that was archived on 2013-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130128103955id_/http%3A//b00kmarks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the b00kmarks.com privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810040005id_/http%3A//b00kmarks.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -53,10 +53,10 @@ We may need to disclose your data to appropriate persons where required or permi
 
 You can update or amend your contact details at any time from within the b00kmarks Portal. If you have any questions about the use of your personal data or if you wish to know how you can inspect or correct other personal data we may hold please contact us at: 
 
-Link Active   
-31/F The center   
-99 Queen's Road Central   
-Hong Kong 
+Populis Ireland Limited,   
+Grand Mill Quay, Block 2 Barrow Street Dublin 4 (Ireland)   
+Phone Number: +353 (0)1 4912050   
+Vat Number IE 9573107U 
 
 ### Changes to the Policy
 
