@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the setlktv.info privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424080414id_/http%3A//setlktv.info/%3Fnav%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the setlktv.info privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810105600id_/http%3A//www.setlktv.co/%3Fnav%3Dprivacy) for the most accurate reproduction.*
 
-# Well Come To My Channel
+# Well Come To SETLKTV
 
 **What information do we collect?**
 
@@ -58,4 +58,4 @@ htttp://www.setlktv.com
 
 SriLanka  
 setlktv[at]gmail.com  
-0082-10-2087-7782
+082-10-6868-4080
