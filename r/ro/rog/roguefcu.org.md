@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roguefcu.org privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116174741id_/https%3A//roguefcu.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roguefcu.org privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810054251id_/https%3A//roguefcu.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rogue Federal Credit Union
 
