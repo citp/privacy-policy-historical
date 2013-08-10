@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iliketoquote.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626042133id_/http%3A//www.iliketoquote.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iliketoquote.com privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810104808id_/http%3A//www.iliketoquote.com/privacy.php) for the most accurate reproduction.*
 
 # iLiketoquote - Facebook Quotes, Love Quotes, Status Quotes, Funny Quotes, Life Quotes
 
