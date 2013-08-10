@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azendoo.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630061248id_/http%3A//en.azendoo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azendoo.com privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810081415id_/https%3A//en.azendoo.com/privacy) for the most accurate reproduction.*
 
 # Azendoo | Privacy policy
 
@@ -16,7 +16,7 @@ You can visit Azendoo website without identifying yourself or revealing any pers
 
 However, in case of request for information or registration to Azendoo services, we may ask you to provide basic contact information and details about your company / your professional interests as well as information about the expected use of our services. 
 
-We collect and store [ personal information ](https://web.archive.org/web/20130630061248id_/http%3A//en.azendoo.com/terms) such as your name or email, which are retained only if deliberately submit them: 
+We collect and store [ personal information ](https://web.archive.org/web/20130810081415id_/https%3A//en.azendoo.com/terms) such as your name or email, which are retained only if deliberately submit them: 
 
   * via a registration forms, a survey and other online forms; 
   * in order to get support; 
