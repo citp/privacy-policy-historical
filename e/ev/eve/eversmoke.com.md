@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eversmoke.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515223129id_/http%3A//www.eversmoke.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eversmoke.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811002042id_/http%3A//www.eversmoke.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Electronic Cigarettes - Buy Electronic Cigarettes Online
 
@@ -6,14 +6,13 @@ Effective June 1, 2011
 
 #### Website Privacy Policy & Terms of Use
 
-Click here for our [Terms of Use](http://www.southbeachsmoke.com/terms.aspx)
+Click here for our [Terms of Use](https://web.archive.org/terms/)
 
 The EverSmoke Electronic Cigarette is intended for use by adult smokers and not intended for pregnant women or those who are sensitive to nicotine. Nicotine is highly addictive and may be dangerous to your health. EverSmoke E Cigarette is not intended as a smoking cessation device. The EverSmoke Electronic Cigarette offers smokers a tar-free way to enjoy smoking.
 
 #### SURGEON GENERAL'S WARNING:
 
-Smoking Causes Lung Cancer, Heart Disease, Emphysema, And May Complicate Pregnancy.  
-
+Smoking Causes Lung Cancer, Heart Disease, Emphysema, And May Complicate Pregnancy.
 
 #### Warning:
 
@@ -39,7 +38,7 @@ This site is restricted to users from the United States. Users from other countr
 
 The kinds of information we collect from you will vary, depending on how you use our website. It's possible to browse our site without submitting any personal information at all. In order to take part in certain services on our website, you will be required to provide certain personal information (e.g., your name, address, e-mail address, etc.).
 
-In addition to the information you choose to submit, our systems are set up to gather certain anonymous data to help us better understand how our site is being used and how we can improve it. This automatically gathered data includes any content you view on our website.Â 
+In addition to the information you choose to submit, our systems are set up to gather certain anonymous data to help us better understand how our site is being used and how we can improve it. This automatically gathered data includes any content you view on our website.
 
 #### How your information is used.
 
@@ -59,8 +58,7 @@ We may link information collected from you through various means, including info
 
 * You can always choose not to provide personal information, even though it might be needed to take advantage of EverSmoke offers or website features.  
 * You can add or update certain information that you send to us. When you update information, we usually keep a copy of the prior version for our records.  
-* If you do not want to receive e-mail or other mail from us or if you wish to check your personal information, please contact us by email at service@eversmoke.com  
-
+* If you do not want to receive e-mail or other mail from us or if you wish to check your personal information, please contact us by email at [service@eversmoke.com](mailto:service@eversmoke.com)
 
 #### Access to Your Personal Information.
 
@@ -72,16 +70,14 @@ If EverSmoke is requested by law enforcement officials or judicial authorities t
 
 #### Will Your Personal Information Be Secure?
 
-EverSmoke recognizes you may be concerned about the security of your personal information, and we are committed to employing reasonable technology in order to protect the security of our website. Even with such technology, no website is 100% secure. We will take reasonable measures that we believe are appropriate to protect your information from loss, misuse, alteration or destruction, and, where possible, will ask that any third parties to whom we may transfer your information take comparable steps to protect that security.  
-
+EverSmoke recognizes you may be concerned about the security of your personal information, and we are committed to employing reasonable technology in order to protect the security of our website. Even with such technology, no website is 100% secure. We will take reasonable measures that we believe are appropriate to protect your information from loss, misuse, alteration or destruction, and, where possible, will ask that any third parties to whom we may transfer your information take comparable steps to protect that security.
 
 #### Our Privacy Policy and Outside Links.
 
-Our Privacy Policy only applies to this website. Our website contains links to sites outside our control. Please be aware that these sites may collect personal information about you, and operate according to their own privacy practices that may differ from our Privacy Policy. Remember to consult that website's own privacy policy, as once you're outside this website, any information you submit is no longer in our control.  
-
+Our Privacy Policy only applies to this website. Our website contains links to sites outside our control. Please be aware that these sites may collect personal information about you, and operate according to their own privacy practices that may differ from our Privacy Policy. Remember to consult that website's own privacy policy, as once you're outside this website, any information you submit is no longer in our control.
 
 #### Questions Regarding Our Privacy Policy.
 
-If you have questions or comments regarding our privacy practices, please e-mail us at service@EverSmoke.com
+If you have questions or comments regarding our privacy practices, please e-mail us at [service@eversmoke.com](mailto:service@eversmoke.com)
 
-This policy was last updated on June 1, 2011 
+This policy was last updated on June 1, 2011
