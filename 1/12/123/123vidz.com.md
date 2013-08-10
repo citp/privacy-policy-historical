@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123vidz.com privacy policy that was archived on 2013-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130411230204id_/https%3A//123vidz.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123vidz.com privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810072930id_/https%3A//123vidz.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy
 
