@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the auction123.com privacy policy that was archived on 2008-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080425232924id_/http%3A//www.auction123.com/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auction123.com privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810104812id_/http%3A//www.auction123.com/privacypolicy) for the most accurate reproduction.*
 
-# Auction123 - Inventory Management and Online Marketing for Automotive Dealerships - Privacy Policy
+# Privacy Policy - Auction123.com
+
+This policy covers how Auction123 treats personal information that Auction123 collects and receives, including information related to your past use of Auction123 products/software and services. Personal and business information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available.
+
+This policy does not apply to the practices of companies that Auction123 does not own or control, or to people that Auction123 does not employ or manage. In addition, certain companies associated with Auction123, such as eBay, have their own privacy statements that we do not control.
+
+#### Information Collection and Use
 
 Auction123 collects personal and business information when you register with Auction123, when you use Auction123 product/software and services, when you visit Auction 123 pages or the pages of certain Auction123 partners, and when you enter promotions or sweepstakes. Auction123 may combine information about you that we have with information we obtain from business partners or other companies.
 
@@ -33,3 +39,21 @@ Auction123.com may share some or all of your personal information with another b
 Auction123 may display targeted advertisements based on personal information. Advertisers may assume that people who interact with, view, or click on targeted ads meet the targeting criteria - for example, women ages 18-24 from a particular geographic area.
 
 Auction123 does not provide any personal information to the advertiser when you interact with or view a targeted ad. By interacting with or viewing an ad, however, you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad.
+
+#### Cookies
+
+Certain pages of our Site may employ or access "Cookies" as a tracking mechanism of our promotion and marketing efforts, to analyze the flow of our website, and conduct other analysis as needed. Certain features on our website may require the use of a cookie.
+
+Auction123 may let other companies that show advertisements on some of our pages set and access their cookies on your computer. Other company's use of their cookies is subject to their ownprivacy policies, not Auction123's. Advertisers or other companies do not have access to Auction123's cookies.
+
+Auction123 may use web beacons to access Auction123 cookies inside and outside our network of web sites and in connection with Auction123 product and services.
+
+#### Confidentiality and Security
+
+We limit access to personal information about you to employees and independent contractors who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. Your information is stored on Auction123.com servers located in the United States. We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you. Fool-proof security on the Internet, however, cannot be guaranteed, nor does it exist.
+
+#### Changes to this Privacy Policy
+
+Auction123 may update this policy. We may notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Auction123 account or by placing a prominent notice on our site. Changes to the privacy policy will be automatically effective when posted on the site or notification has been sent.
+
+#### Questions and Suggestions
