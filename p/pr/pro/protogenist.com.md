@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the protogenist.com privacy policy that was archived on 2013-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130119001901id_/http%3A//www.protogenist.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protogenist.com privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810072332id_/http%3A//www.protogenist.com/privacy) for the most accurate reproduction.*
 
 # Protogenist Info Systems Private Limited | Privacy Statement |Software Consulting | Enterprise Application Development | Integrated Business Solutions | Technology touches Excellence
 
@@ -12,8 +12,12 @@ We use your IP address to help diagnose problems with our server and/or to admin
 
 This site contains links to other sites. Protogenist Info Systems Private Limited is not responsible for the privacy practices or the content of such Web sites.
 
-### Security
+##### Security
 
 We take necessary steps to protect your personal information on our website. You should understand that the open nature of the Internet is such that data may flow over networks without security measures and may be accessed and used by people other than those for whom the data is intended. But Protogenist technical safeguards help us protect your personal information from unauthorized access, use and disclosure.
 
 If you have any queries or feedback regarding this Privacy Statement then you can contact Protogenist Info Systems Private Limited. [Contact us](https://web.archive.org/contact-us)
+
+### Contact Us
+
+Easy ways to get your Answer
