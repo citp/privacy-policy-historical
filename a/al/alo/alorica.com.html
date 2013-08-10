@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the alorica.com privacy policy that was archived on 2013-05-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130502070850id_/http%3A//alorica.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the alorica.com privacy policy that was archived on 2013-08-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130810091946id_/http%3A//www.alorica.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head><title>
 	Privacy Policy
@@ -51,7 +51,9 @@
 			$(".external1").colorbox({ iframe: false, innerWidth: "920", innerHeight: "500", scrolling: false });
 			$(".external2").colorbox({ iframe: false, innerWidth: "854", innerHeight: "480", scrolling: false });
 			$(".externalMap").colorbox({ iframe: true, innerWidth: "800", innerHeight: "480", scrolling: false });
-		}
+			
+        }
+
 
       /*  NAVIGATION  */
       var overWhatWeDo = false;
@@ -98,6 +100,9 @@
         $('#nav li ul.who-we-are').fadeOut('fast');
       });
 
+    //move the collateral links from the main content to the right column
+    $('div.scrollholder.RightCol').appendTo('.RightColCollateral');
+
     });
   </script>
   <script type="text/javascript">
@@ -129,7 +134,12 @@
     
     <script type="text/javascript">
         $("document").ready(function () {
-            $('.accordion h3 a').click(function (e) { e.stopPropagation(); });
+
+            
+
+            $('.accordion h3 a').click(function (e) {
+                e.stopPropagation(); 
+             });
 
             $('#list').accordion({
                 autoheight: false,
@@ -137,7 +147,7 @@
                 active: false,
                 alwaysOpen: false
             });
-
+            
             $('#list2').accordion({
                 autoheight: false,
                 fillSpace: false,
@@ -145,14 +155,25 @@
                 alwaysOpen: false
             });
 
+            $('#BioList').accordion({
+          autoheight: false,
+          fillSpace: false,
+          active: false,
+          alwaysOpen: false
+      });
+
             $('#list h3.selected').click();
             $('#list2 h3.selected').click();
+            $('#BioList h3.top').click();
 
             $('.accordion h3').each(function (index) {
                 if ($(this).next().children().length < 1) {
                     $(this).css('background-image', 'none');
                 }
             });
+
+            $(".externalMapNav").colorbox({ iframe: true, innerWidth: "800", innerHeight: "480", scrolling: false });
+            
         });
     </script>
   
@@ -168,7 +189,7 @@
   <form method="post" action="/PrivacyPolicy.aspx" id="aspnetForm">
 <div class="aspNetHidden">
 <input type="hidden" name="EktronClientManager" id="EktronClientManager" value="-1759591071,-1028352248,1948574407,-1388997516,2009761168,27274999,1979897163,-422906301,-1818005853,-1357665627,1808714324,646986939,1338359439,1628691364,-1008700845">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTQxNjQ0NzAxNw9kFgJmD2QWAgIBEGRkFgICAw9kFgRmD2QWAgIDDxYCHgdWaXNpYmxlaBYGAgEPFgIfAGgWAgIBDxYCHwBoZAIDDxYCHwBoFgICAQ8WAh8AaGQCBQ8WAh8AaBYCAgEPFgIfAGhkAgEPZBYCZg8WAh8AaGQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFJmN0bDAwJENwaEhlYWRlciR1eEhlYWRlciRjbWRTaXRlU2VhcmNoWTK8FuwSJcVFf1Tq4WgsqMJ+V+9VmLmLgi7beMp7STw=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTQxNjQ0NzAxNw9kFgJmD2QWAgIBEGRkFgQCAw9kFgRmD2QWAgIDDxYCHgdWaXNpYmxlaBYGAgEPFgIfAGgWAgIBDxYCHwBoZAIDDxYCHwBoFgICAQ8WAh8AaGQCBQ8WAh8AaBYCAgEPFgIfAGhkAgEPZBYCZg8WAh8AaGQCBA9kFgICAQ9kFgICAQ8WAh4EVGV4dAUEMjAxM2QYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFJmN0bDAwJENwaEhlYWRlciR1eEhlYWRlciRjbWRTaXRlU2VhcmNobnmbJW+dRwkTKKkd0er+ZPEgcYDHJm4qDEe2DDHA5DU=">
 </div>
 
 
@@ -179,7 +200,7 @@ __$BubbleCloseIconPath='/WorkArea/';//]]>
 
 <div class="aspNetHidden">
 
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwK/yPCNCALKgt7rDAKB19DtDSLETuQ1gF33Ku+Gyld6nsWRg3cUpnO7YUD+oM8Z7tQ9">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwKY8Yy+BALKgt7rDAKB19DtDWxDx9QvZy4H8U02aqHAmnAkUCeg8I1f8zlFlm2Yt74M">
 </div>
   <div class="container">
     
@@ -189,7 +210,7 @@ __$BubbleCloseIconPath='/WorkArea/';//]]>
     <a href="/">
       <img class="logo" src="/images/shell/logo.png" width="149" height="59" alt=""></a>
     <div class="utility">
-      <a href="/NewsAndResources.aspx">News &amp; Resources</a> <a href="/Contact-Us.aspx">
+      <a href="/News.aspx">News</a> <a href="/Resources.aspx">Resources</a><a href="/Contact-Us.aspx">
         Contact Us</a> <a href="/Careers/Careers_Overview.aspx " class="careersUtility">Careers</a>
       <!-- /utility -->
     </div>
@@ -229,10 +250,10 @@ __$BubbleCloseIconPath='/WorkArea/';//]]>
     </script>
     <div id="listmenu">
       <ul id="nav">
-        <li class="what-we-do"><a href="#">What We Do</a><span><ul class="what-we-do"><div class="superNavItems"><div class="thirds"><h2><a href="/What_We_Do/Services.aspx" style="color: #fff!important">Services</a></h2></div><div class="thirds"><h2><a href="/What_We_Do/Methodology.aspx" style="color: #fff!important">Methodology</a></h2></div><div class="thirds"><h2><a href="/What_We_Do/Industries.aspx" style="color: #fff!important">Industries</a></h2></div></div><div class="thirds"><h3>Customer Experience Management Solutions</h3><div><a href="/Customer_Care.aspx" style="color: #666!important">Customer Care</a></div><div><a href="/Revenue_Generation_Solutions.aspx" style="color: #666!important">Revenue Generation Solutions</a></div><div><a href="/Technical_Support_Solutions.aspx" style="color: #666!important">Technical Support</a></div><h3>Supply Chain Management Solutions</h3><div><a href="/Back_Office_Solutions.aspx" style="color: #666!important">Back Office Solutions</a></div><div><a href="/Fullfillment_Solutions.aspx" style="color: #666!important">Fullfillment Solutions</a></div><div><a href="/Reverse_Logistics.aspx" style="color: #666!important">Reverse Logistics</a></div><h3>Business Solutions</h3><div><a href="/Business-to-Business_Solutions.aspx" style="color: #666!important">Business-to-Business (B2B) Solutions</a></div><h3>Hosted Solutions</h3><div><a href="/Customer_Relationship_Management_Solutions.aspx" style="color: #666!important">Customer Relationship Management Solutions</a></div><div><a href="/Hosted_Contact_Center_Solutions.aspx" style="color: #666!important">Hosted Contact Center Solutions</a></div><h3>Social Customer Relationship Management Solutions</h3><div><a href="/Social_Media.aspx" style="color: #666!important">Social Media</a></div></div><div class="thirds"><div><a href="/What_We_Do/Methodology/Security_and_Privacy.aspx" style="color: #666!important">Security and Privacy</a></div><div><a href="/What_We_Do/Methodology/Converged_(Multi-Channel)_Communications.aspx" style="color: #666!important">Converged (Multi-Channel) Communications</a></div><div><a href="/What_We_Do/Methodology/Domestic,_Offshore,_Near-shore.aspx" style="color: #666!important">Domestic, Offshore, Near-shore</a></div><div><a href="/What_We_Do/Methodology/Engagement_Models.aspx" style="color: #666!important">Engagement Models</a></div><div><a href="/What_We_Do/Methodology/AloriCares_Home_Agent_Program.aspx" style="color: #666!important">AloriCares Home Agent Program</a></div><div><a href="/What_We_Do/Methodology/Analytics.aspx" style="color: #666!important">Analytics</a></div></div><div class="thirds"><div><a href="/What_We_Do/Industries/Automotive.aspx" style="color: #666!important">Automotive</a></div><div><a href="/What_We_Do/Industries/Consumer_Products_and_Retail.aspx" style="color: #666!important">Consumer Products and Retail</a></div><div><a href="/What_We_Do/Industries/Energy_and_Utilities.aspx" style="color: #666!important">Energy and Utilities</a></div><div><a href="/What_We_Do/Industries/Financial_Services.aspx" style="color: #666!important">Financial Services</a></div><div><a href="/What_We_Do/Industries/Health_Care.aspx" style="color: #666!important">Health Care</a></div><div><a href="/What_We_Do/Industries/Media_and_Entertainment.aspx" style="color: #666!important">Media and Entertainment</a></div><div><a href="/What_We_Do/Industries/Technology.aspx" style="color: #666!important">Technology</a></div><div><a href="/What_We_Do/Industries/Telecommunications.aspx" style="color: #666!important">Telecommunications</a></div><div><a href="/What_We_Do/Industries/Travel_and_Tourism.aspx" style="color: #666!important">Travel and Tourism</a></div></div></ul></span></li>
+        <li class="what-we-do"><a href="#">What We Do</a><span><ul class="what-we-do"><div class="superNavItems"><div class="thirds"><h2><a href="/What_We_Do/Services.aspx" style="color: #fff!important">Services</a></h2></div><div class="thirds"><h2><a href="/What_We_Do/Methodology.aspx" style="color: #fff!important">Methodology</a></h2></div><div class="thirds"><h2><a href="/What_We_Do/Industries.aspx" style="color: #fff!important">Industries</a></h2></div></div><div class="thirds"><h3>Customer Experience Management Solutions</h3><div><a href="/Customer_Care.aspx" style="color: #666!important">Customer Care</a></div><div><a href="/Revenue_Generation_Solutions.aspx" style="color: #666!important">Revenue Generation Solutions</a></div><div><a href="/Technical_Support_Solutions.aspx" style="color: #666!important">Technical Support</a></div><h3>Supply Chain Management Solutions</h3><div><a href="/Back_Office_Solutions.aspx" style="color: #666!important">Back Office Solutions</a></div><div><a href="/Fullfillment_Solutions.aspx" style="color: #666!important">Fullfillment Solutions</a></div><div><a href="/Reverse_Logistics.aspx" style="color: #666!important">Reverse Logistics</a></div><h3>Business Solutions</h3><div><a href="/Business-to-Business_Solutions.aspx" style="color: #666!important">Business-to-Business (B2B) Solutions</a></div><h3>Hosted Solutions</h3><div><a href="/Customer_Relationship_Management_Solutions.aspx" style="color: #666!important">Customer Relationship Management Solutions</a></div><div><a href="/Hosted_Contact_Center_Solutions.aspx" style="color: #666!important">Hosted Contact Center Solutions</a></div><h3>Social Customer Relationship Management Solutions</h3><div><a href="/Social_Media.aspx" style="color: #666!important">Social Media</a></div></div><div class="thirds"><div><a href="/What_We_Do/Methodology/Security_and_Privacy.aspx" style="color: #666!important">Security and Privacy</a></div><div><a href="/What_We_Do/Methodology/Converged_(Multi-Channel)_Communications.aspx" style="color: #666!important">Converged (Multi-Channel) Communications</a></div><div><a href="/_templates/LocationsModal.aspx" style="color: #666!important" class="externalMapNav cboxElement">Domestic, Offshore, Near-shore</a></div><div><a href="/What_We_Do/Methodology/Engagement_Models.aspx" style="color: #666!important">Engagement Models</a></div><div><a href="/What_We_Do/Methodology/AloriCares_Home_Agent_Program.aspx" style="color: #666!important">AloriCares Home Agent Program</a></div><div><a href="/What_We_Do/Methodology/Analytics.aspx" style="color: #666!important">Analytics</a></div></div><div class="thirds"><div><a href="/What_We_Do/Industries/Automotive.aspx" style="color: #666!important">Automotive</a></div><div><a href="/What_We_Do/Industries/Consumer_Products_and_Retail.aspx" style="color: #666!important">Consumer Products and Retail</a></div><div><a href="/What_We_Do/Industries/Energy_and_Utilities.aspx" style="color: #666!important">Energy and Utilities</a></div><div><a href="/What_We_Do/Industries/Financial_Services.aspx" style="color: #666!important">Financial Services</a></div><div><a href="/What_We_Do/Industries/Health_Care.aspx" style="color: #666!important">Health Care</a></div><div><a href="/What_We_Do/Industries/Media_and_Entertainment.aspx" style="color: #666!important">Media and Entertainment</a></div><div><a href="/What_We_Do/Industries/Technology.aspx" style="color: #666!important">Technology</a></div><div><a href="/What_We_Do/Industries/Telecommunications.aspx" style="color: #666!important">Telecommunications</a></div><div><a href="/What_We_Do/Industries/Travel_and_Tourism.aspx" style="color: #666!important">Travel and Tourism</a></div></div></ul></span></li>
         <li class="who-we-are"><a href="#">Who We Are</a><span><ul class="who-we-are"><div class="superNavItems"><div class="thirds"><h2><a href="/Who_We_Are.aspx" style="color: #fff!important">
                     About Us
-                  </a></h2></div></div><div class="thirds"><div><a href="/Who_We_Are/Our_Beliefs.aspx" style="color: #666!important">Our Beliefs</a></div><div><a href="/Who_We_Are/Leadership.aspx" style="color: #666!important">Leadership</a></div><div><a href="/Who_We_Are/Locations.aspx" style="color: #666!important">Locations</a></div><div><a href="/Who_We_Are/Awards.aspx" style="color: #666!important">Awards</a></div><div><a href="/Who_We_Are/Diversity.aspx" style="color: #666!important">Diversity</a></div><div><a href="/NewsAndResources.aspx" style="color: #666!important">News and Resources</a></div></div><div class="thirds"></div><div class="thirds"></div></ul></span></li>
+                  </a></h2></div></div><div class="thirds"><div><a href="/Who_We_Are/Our_Beliefs.aspx" style="color: #666!important">Our Beliefs</a></div><div><a href="/Who_We_Are/Leadership.aspx" style="color: #666!important">Leadership</a></div><div><a href="/_templates/LocationsModal.aspx" style="color: #666!important" class="externalMapNav cboxElement">Locations</a></div><div><a href="/Who_We_Are/Awards.aspx" style="color: #666!important">Awards</a></div><div><a href="/Who_We_Are/Diversity.aspx" style="color: #666!important">Diversity</a></div><div><a href="/News.aspx" style="color: #666!important">News</a></div><div><a href="/Resources.aspx" style="color: #666!important">Resources</a></div></div><div class="thirds"></div><div class="thirds"></div></ul></span></li>
       </ul>
     </div>
     <!-- /header -->
@@ -282,8 +303,7 @@ __$BubbleCloseIconPath='/WorkArea/';//]]>
     <div class="subPage">
       <div class="subPageHolder">
         
-  <div class="leftChannel"><div id="list" class="accordion"><h3><a href="/NewsAndResources.aspx">News and Resources</a></h3><ul class="revealed" style="display: none;"><li><a href="/NewsAndResources/PressReleases.aspx">Press Releases</a></li><li><a href="/NewsAndResources/Knowledge_Center.aspx">Knowledge Center</a></li><li><a href="/NewsAndResources/SuccessStudies.aspx">Success Stories</a></li><li><a href="http://business-process-outsourcing.tmcnet.com" target="_blank">BPO Community News</a></li><li><a href="">Alorica Voices</a></li></ul><h3><a href="/Contact-Us.aspx">Contact Us</a></h3><ul class="revealed" style="display: none;"></ul><h3><a href="/ContactUs/Locations.aspx">Locations</a></h3><ul class="revealed" style="display: none;"></ul></div></div>
-
+  <div class="leftChannel"><div id="list" class="accordion"><h3><a href="/News.aspx">News</a></h3><ul class="revealed" style="display: none;"></ul><h3><a href="/Resources.aspx">Resources</a></h3><ul class="revealed" style="display: none;"></ul><h3><a href="/Contact-Us.aspx">Contact Us</a></h3><ul class="revealed" style="display: none;"></ul><h3><a href="/_templates/LocationsModal.aspx" class="externalMapNav cboxElement">Locations</a></h3><ul class="revealed" style="display: none;"></ul></div></div>
 
         <div class="centerChannel">
           <h1 class="pageHeader">
@@ -383,6 +403,10 @@ __$BubbleCloseIconPath='/WorkArea/';//]]>
 <span></span>
 
 
+
+            <div class="RightColCollateral">
+            </div>
+
             
 
             <!-- /rightChannel -->
@@ -398,7 +422,8 @@ __$BubbleCloseIconPath='/WorkArea/';//]]>
 <div class="footerHolder">
   <div class="footer">
     <div class="footerLeft">
-      Alorica ©2012. All Rights Reserved</div>
+      Alorica ©2013. All Rights Reserved</div>
+      
           <div class="footerRight">
       <b>Alorica on:</b> 
 	  <a href="https://twitter.com/#!/OfficialAlorica" target="_blank">Twitter</a> | 
@@ -417,16 +442,113 @@ __$BubbleCloseIconPath='/WorkArea/';//]]>
   </div>
   </form>
   <script type="text/javascript">
-    $("document").ready(function () {
-      $("div.scrollable").scrollable({
-        size: 2,
-        items: '#thumbs',
-        hoverClass: 'hover',
-        loop: true,
-        speed: 600,
-        autopause: true
-      })/*  .autoscroll(10000).navigator()  */;
-    });
+      $("document").ready(function () {
+          $("div.scrollable").scrollable({
+              size: 2,
+              items: '#thumbs',
+              hoverClass: 'hover',
+              loop: true,
+              speed: 600,
+              autopause: true
+          })/*  .autoscroll(10000).navigator()  */;
+
+          $(".scrollableVertical").scrollable({
+              vertical: true,
+              items: '#thumbsVertical',
+              hoverClass: 'hover',
+              loop: false,
+              speed: 600,
+              autopause: true,
+              mousewheel: false
+          });
+
+          $("div#list2.ui-accordion h3 a").mouseover(function () {
+              if ($('div.scrollholder.RightCol').height() < 50) {
+                  $("div.scrollholder.RightCol").animate({ 'height': 290 }, 500).delay(500);
+              }
+          });
+
+          $("div#list2.ui-accordion h3").mouseover(function () {
+              if ($('div.scrollholder.RightCol').height() < 50) {
+                  $("div.scrollholder.RightCol").animate({ 'height': 290 }, 500);
+              }
+          });
+
+          $(function () {
+              $("div#list2.ui-accordion h3 a").accordion({
+                  event: "click hoverintent"
+              });
+              $("div#list2.ui-accordion h3").accordion({
+                  event: "click hoverintent"
+              });
+          });
+
+
+          /*
+          * hoverIntent | Copyright 2011 Brian Cherne
+          * http://cherne.net/brian/resources/jquery.hoverIntent.html
+          * modified by the jQuery UI team
+          */
+          $.event.special.hoverintent = {
+              setup: function () {
+                  $(this).bind("mouseover", jQuery.event.special.hoverintent.handler);
+              },
+              teardown: function () {
+                  $(this).unbind("mouseover", jQuery.event.special.hoverintent.handler);
+              },
+              handler: function (event) {
+                  var currentX, currentY, timeout,
+args = arguments,
+target = $(event.target),
+previousX = event.pageX,
+previousY = event.pageY;
+                  function track(event) {
+                      currentX = event.pageX;
+                      currentY = event.pageY;
+                  };
+                  function clear() {
+                      target
+.unbind("mousemove", track)
+.unbind("mouseout", clear);
+                      clearTimeout(timeout);
+                  }
+                  function handler() {
+
+                      var prop, orig = event;
+                      if ((Math.abs(previousX - currentX) + Math.abs(previousY - currentY)) < 7) {
+                          clear();
+                          event = $.Event("hoverintent");
+                          for (prop in orig) {
+                              if (!(prop in event)) {
+                                  event[prop] = orig[prop];
+                              }
+                          }
+                          // Prevent accessing the original event since the new event
+                          // is fired asynchronously and the old event is no longer
+                          // usable (#6028)
+                          delete event.originalEvent;
+                          target.trigger(event);
+                      } else {
+                          previousX = currentX;
+                          previousY = currentY;
+                          timeout = setTimeout(handler, 100);
+                      }
+                  }
+                  timeout = setTimeout(handler, 100);
+                  target.bind({
+                      mousemove: track,
+                      mouseout: clear
+                  });
+
+
+              }
+
+
+          };
+
+
+      });
+
   </script>
   <script type="text/javascript">
     try {
