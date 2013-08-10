@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lpwebhosting.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629050304id_/http%3A//www.lpwebhosting.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lpwebhosting.com privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810230142id_/http%3A//www.lpwebhosting.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Lunarpages Web Hosting
 
