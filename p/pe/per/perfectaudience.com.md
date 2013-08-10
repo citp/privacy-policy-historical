@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the perfectaudience.com privacy policy that was archived on 2013-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130215102538id_/https%3A//www.perfectaudience.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfectaudience.com privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810054237id_/http%3A//www.perfectaudience.com/privacy) for the most accurate reproduction.*
 
-# Perfect Audience - Privacy
+# Privacy | Perfect Audience
 
 (Last updated July 27, 2012) 
 
@@ -52,4 +52,4 @@ Perfect Audience may find it necessary to update this privacy policy from time t
 
 ### How do I contact Perfect Audience?
 
-To inquire about privacy concerns, please contact Perfect Audience by mail at the address below or email us at info at Perfect Audience.com. 
+To inquire about privacy concerns, please contact Perfect Audience by mail at the address below or email us at info at Perfect Audience.com.
