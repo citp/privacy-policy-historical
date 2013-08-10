@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gavick.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602032031id_/http%3A//www.gavick.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gavick.com privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810210601id_/http%3A//www.gavick.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
