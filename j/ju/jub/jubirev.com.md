@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jubirev.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426005239id_/https%3A//www.jubirev.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jubirev.com privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810203906id_/https%3A//www.jubirev.com/privacy.php) for the most accurate reproduction.*
 
 # JubiRev
 
