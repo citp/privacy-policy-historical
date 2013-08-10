@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the connect.me privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525003820id_/https%3A//connect.me/c/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connect.me privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810074244id_/https%3A//connect.me/c/privacy) for the most accurate reproduction.*
 
 # Connect.Me
 
