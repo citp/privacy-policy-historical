@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the braintreepaymentsolutions.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503001633id_/https%3A//braintreepayments.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the braintreepaymentsolutions.com privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810052908id_/https%3A//www.braintreepayments.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Braintree
 
@@ -67,8 +67,8 @@ If we decide to change our privacy policy, we will post those changes to this pr
 If users have any questions or suggestions regarding our privacy policy, please contact us at:
 
 **Braintree Payment Solutions, LLC**  
-Chicago, IL 60607  
-privacy@braintreepayments.com
+Chicago, IL 60606  
+privacy@braintreepayments.com 
 
 Braintree has committed to refer unresolved privacy complaints under the Safe Harbor Principles to the DMA, an independent dispute resolution mechanism. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Braintree you may contact: 
 
@@ -76,4 +76,4 @@ Direct Marketing Association
 Attn: Safe Harbor Program  
 1615 L St, NW Ste 1100  
 Washington, DC 20036-5624  
-safeharbor@the-dma.org
+safeharbor@the-dma.org 
