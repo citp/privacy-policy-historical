@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zyma.com privacy policy that was archived on 2013-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130326030646id_/http%3A//www.zyma.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zyma.com privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810064050id_/http%3A//www.zyma.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Professional & Affordable Web Hosting
 
