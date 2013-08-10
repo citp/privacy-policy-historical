@@ -1,54 +1,88 @@
-> *The following text is extracted and transformed from the tutorcircle.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605142638id_/http%3A//www.tutorcircle.com/privacy-policy-pg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutorcircle.com privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810234819id_/http%3A//www.tutorcircle.com/privacy-policy-pg.html) for the most accurate reproduction.*
 
 # Privacy Policy | TutorCircle
 
-TUTORCIRCLE PRIVACY POLICY 
+##  ONLINE PRIVACY STATEMENT
 
-The TutorCircle.com is intended to provide tutoring and academic support to students from K-12 to College over the age of 5. The TutorCircle Privacy Policy details the commitment of TutorCircle to our users' privacy. Please review the following policy to understand how the information you provide TutorCircle, will be treated.
+##  PLEASE READ THE FOLLOWING CAREFULLY.
 
-I. Who We Are and How to Reach Us 
+GENERAL INFORMATION ABOUT THE POLICY OF THIS WEBSITE IN ITS COLLECTION, PROTECTION, USE AND DISCLOSURE OF THE PERSONAL INFORMATION GATHERED ON THIS SITE. IF YOU ARE UNDER 18 YEARS OF AGE, PLEASE BE SURE TO READ THIS PRIVACY STATEMENT WITH YOUR PARENTS OR GUARDIAN AND ASK THEM QUESTIONS ABOUT WHAT YOU DON'T UNDERSTAND.
 
-TutorCircle is the sole provider of this website. You may contact us directly if you have any questions regarding the content and material on this website, or the collection, use, correction or deletion of any personal or non-personal information provided over this website. Please contact us at cs@TutorCircle.com
+This website, including all services offered hereon (collectively, the "Site"), is owned and operated by NCS Pearson Inc., and its affiliates (collectively, "Pearson” or “We"). Online tutoring through this Site can be accessed from any computer by a user from the convenience of their home or school and live tutoring is available as further provided on the Site.  Pearson recognizes the importance of explaining our privacy policies to users of our Site and protecting the privacy of Personally Identifiable Information we obtain through the Site. Please note that this Privacy Statement may be revised by Pearson from time to time, particularly to address changes in our business, the law or technology. If that happens, we will post the revised policy here. Revisions are effective upon posting and your continued use of this Site after the posting will be subject to the changed terms of the revisions.
 
-II. Usage Eligibility 
+##  LINKS TO OTHER SITES
 
-The TutorCircle service is intended for students over the age of 5 Years. For website activities that request personal information, you agree to provide accurate and current information about yourself. Your membership and/or participation in our website services will be canceled without notice if at any time we discover that you provide false information, or violate any term of this Privacy Policy or our Terms of Usage Use Agreement. If necessary, and in accordance with applicable law, TUTORCIRCLE will cooperate with local, state and/or federal authorities to protect its users, parents, partners, affiliates, subsidiaries and operational providers or to prevent unauthorized use of the site.
+Links from this site can take you to the sites of several divisions of Pearson, as well as to third party websites or resources. The information practices of third party websites are not covered by this Privacy Statement or any other policies or terms of this Site. The sites of each of our divisions may also have a different privacy policy and terms of use. Be sure that you know the terms of use and privacy policy of any linked website before using it. 
 
-III. Personal Information 
+##    
+WHAT PERSONAL INFORMATION DO WE COLLECT AND USE
 
-The only personal information this website obtains about you is information voluntarily provided by you.
+We consider the following to be examples of Personally Identifiable Information but there may be others: your first and last name, email address, home address, phone number, date of birth, credit card information, and certain other information, such as a Social Security Number, if it is linked with your Personally Identifiable Information. If you are in grades K through 12, then we strongly recommend that you not use ANY PERSONAL INFORMATION as a user ID.  We also strongly recommend that you do not use ANY PERSONAL INFORMATION as a password for this Site or others.
 
-As per the Children's Online Privacy Protection Act (COPPA), if you are under the age of 13, we must have a parent's permission before we may collect and use your Personal Information. We will need this permission before we are able to create an account for you or provide you with any tutoring.
+Pearson does not collect Personally Identifiable Information about a user, unless it is voluntarily provided to our Company and so that we can serve the user's needs and our legitimate business purposes as stated in this privacy policy. For example, when the user sends us a message or makes an online purchase, we need to retain certain Personally Identifiable Information on this Site in order to respond or process a purchase. A user's Personally Identifiable Information may also be used by our company to help us improve this Site, and for our company's marketing and promotional purposes. The information will be treated confidentially within our company, as we protect other confidential information. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features or use the Site.
 
-You are free to visit TutorCircle and based on the tutor availability you can even opt to experience the demonstration of the services; however, if you would like to use the TutorCircle regular services, you must register. When you register with us, we will request certain personal information including - e-mail, phone number, zip code, country and, if your school does not provide the TutorCircle service to you, credit card information. Response to our surveys is entirely voluntary and not required for receipt of services.
+##  PUBLIC POSTINGS
 
-This information is used by TutorCircle for (1) billing and account purposes; (2) demographic assessments of and provision of services to the user population; (3) empirical research; (4) communication with you; and (5) internal auditing purposes. Only strictly authorized TutorCircle employees have access to this personal information. It may be given to an institutional administrator or a professor if the service is provided through your school or by a textbook publisher.
+Users should be reminded that any Personally Identifiable Information that is voluntarily posted by a user to a public area of a Pearson website (for example, a posting to a bulletin board or chat room) might be collected and used by others. We cannot prevent such uses.
 
-In addition to registration information, all electronic text-based conversations between you and TutorCircle's tutors are digitally captured and stored in TutorCircle's databases. It may be given to your school administrator, professor and empirical researchers. TutorCircle may request personal information at other times to better serve your individual needs. As stated above, TutorCircle will not collect any personally identifiable information that you do not voluntarily provide. TutorCircle will not disclose any of your personal information, except when we have your permission or under special circumstances, such as when we believe in good faith that disclosure is reasonably necessary to (i) comply with legal process, (ii) enforce the Registration Agreement or the Terms of Use, (iii) respond to claims that any content on TutorCircle violates the rights of third parties, (iv) protect the rights, property, or personal safety of TutorCircle, its users or the public, or (v) respond to the request of your institutional administrators if the service is paid for by them. Your schools' administrators are within their rights to request access to your personal information and electronic conversations with TutorCircle tutors. Your school, in turn, is subject to the Family Education Rights and Privacy Acts of 1974 (FERPA) restrictions on further disclosure. For further information on FERPA rules and responsibilities, contact your school.
+##  INFORMATION SHARING AND DISCLOSURE
 
-TutorCircle also reserves the right to replicate written comments about the service sent to its representatives on our website and/or in promotional materials and/or in business development materials, along with your name and institution. Your email address and any personal information besides your name and institution will not be used at any time without your agreement. If you do not want your name to accompany your comments, please state this in your written correspondence with TutorCircle, Inc. and its representatives.
+Except as specifically stated in this statement, our policy is not to share the Personally Identifiable Information collected through this Site with third parties, but we may share this Personally Identifiable Information with affiliates of Pearson, and other companies and organizations who perform work for us under contract or sell products or services that complement our products and services. We also may disclose Personally Identifiable Information (a) in response to a subpoena, court order or legal process, to the extent permitted and required by law; (b) to protect user security or the security of other persons, consistent with applicable laws; (c) in connection with a sale, joint venture or other transfer to some or all of Pearson or the assets of Pearson; or (d) in order to enforce the Site's Terms of Use. We exercise commercially reasonable care otherwise not to share, disclose or sell the Personally Identifiable Information of users to third-parties, except with the prior approval of the user.  
+Pearson may use a third party service to collect anonymous visitor information like IP addresses, browser types (such as Internet Explorer or Mozilla Firefox), referring pages, pages visited and time spent on a particular site. Pearson collects this information (1) for statistical analysis of the Site such as web page traffic patterns or usage; (2) to administer our Site and servers; (3) to allow for auditing of our services by some third parties who have that right; and (4) for internal purposes to make marketing decisions.
 
-TutorCircle contains links to other sites and some features of the TutorCircle Service may be offered in conjunction with a partner company. TutorCircle is not responsible for the privacy practices or the content of such websites and companies.
+##  SPECIAL NOTICE TO PARENTS, TEACHERS AND CHILDREN
 
-In order to provide partner company features, it may be necessary for either you or TutorCircle to share your voluntarily provided personal information with this company. If you do not want your data to be shared, you can choose not to allow the transfer by not using that particular service.
+PARENTS AND TEACHERS: We encourage parents, guardians and teachers to spend time with their Children (Children 12 and under) when their Children engage in the on-line activities on this Site. We will never request Personally Identifiable Information from a Child through Pearson. We do not require anyone to disclose more Personally Identifiable Information, than is reasonably necessary to participate in the on-line activity.  No Personally Identifiable Information of children should be submitted to or posted on this Site by Children without the consent of their parent or guardian. We encourage parents to help us protect their Children's privacy by instructing them never to provide Personally Identifiable Information on this Site or any other website without parental permission.
 
-IV. Non - Personal Information 
+CHILDREN: Please do not give your full name, email address, home address, telephone number or any other Personally Identifiable Information that would enable someone to contact you either on-line or off-line, without first asking your parent or guardian and teacher for permission.
 
-Certain non-personal information of visitors is also recorded by the standard operation of TutorCircle's Internet servers. This information is primarily used to provide visitors to TutorCircle with an enhanced online experience. Information tracked includes the type of browser being used by the visitor, the type of operating system, and the domain name of the visitor's Internet service provider. TutorCircle may disclose aggregated user statistics in order to describe the TutorCircle service to prospective partners, advertisers, and other third parties, and for other lawful purposes.
+We do not knowingly collect Personally Identifiable Information from Children on this Site either directly or passively except when a Child may voluntarily submit such information through a "Contact Us" link on the Site or a public posting area on the Site, if such feature is available. If a Child e-mails us via a "Contact Us" link on any child-directed area of this Site and we can identify the sender as a Child, any Personally Identifiable Information submitted will only be used to respond on a one-time basis to such Child.  In addition, if we have actual knowledge that a Child is sending or posting Personally Identifiable Information on any area of this Site, we will use commercially reasonable efforts to delete such Personally Identifiable Information before it is made public. Please note that any online store that may be accessed from the Site is intended for parents, teachers and other adult purchasers over the age of 18 and requires the submission of Personally Identifiable Information to fulfill and service any transactions.  
+We may disclose a Child's Personally Identifiable Information if we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, other users, or anyone else that could be harmed by such activities. We may also disclose a Child's Personally Identifiable Information when we believe in good faith that the law requires it.
 
-V. How to Add, Change, or Delete Personal Information 
+##  SAFETY AND SECURITY
 
-You have access to your membership profile collected and maintained by our website. We strive to ensure that the information we obtain and use about our members and visitors is accurate. Therefore, you may add, change or delete personal information on your profile or registration for other activities. Certain information fields are required and cannot be deleted for security purposes or in accordance with various laws. We encourage you to keep us informed about any changes in your membership information and e-mail address. You may change, update or delete certain information in your membership file through the TutorCircle web page: Simply log in to your account, enter the "Profile" page, and change your information as necessary.
+As part of the Pearson we take the following steps to ensure the safety and security of all students accessing online tutoring through Pearson: Online tutors will never have any physical or audible interaction with a student.  Online tutoring services are provided only through streaming online chat provided by the Pearson online interface. All Online tutoring chat sessions are recorded on video and schools have access to video playback of these sessions for up to six months from the date of recording. Online tutors do not have any personal information about the students, including any information that could be used to contact the student either online or offline such as email address, physical address or phone numbers. Only students can initiate the online tutoring chat sessions through registration and login at the Pearson website.  Online tutors can not initiate tutor services or otherwise initiate any contact with students. Students logging in are assigned an online tutor at random for each online tutoring session.  Students are not paired with any specific tutor. Schools will be provided access to a web based dashboard platform providing the school with information on the tutoring services and their students’ access of the tutoring services. Online tutors are all trained and follow a defined code of conduct in appropriate online conduct strictly related to the academic tutoring of the student.   Pearson conducts spot monitoring of online tutoring to ensure quality and safety.   Customer Service is available for any issues or complaints on the quality or nature of the online tutoring.    
 
-VI. Use of Cookies 
+##  Cookies
 
-This site requires cookies. TutorCircle uses cookies to establish a session. We do not use cookies for tracking purposes. Cookies do not allow the website to access personal information that you haven't already provided.
+Pearson uses software tags called "cookies" to identify customers when they visit our site. Cookies are used to remember user preferences and maximize performance of our services. The information we collect with cookies is not sold, rented, or shared with any outside parties. Users who disable their Web browser's ability to accept cookies will be able to browse our Website but will not be able to successfully use our Service.  
+We use both session ID cookies and persistent cookies. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. Persistent cookies enable us to track and target the interests of our users to enhance the experience on our site.
 
-VII. Our Security Procedures 
+Third Party Cookies: We may from time to time engage third parties to track and analyze non-personally identifiable usage and volume statistical information from visitors to our website to help us administer our website and improve its quality. Such third parties may use cookies to help track visitor behavior. Such cookies will not be used to associate individual website visitors to any personally identifiable information. All data collected by such third parties on behalf of Pearson is used only to provide us with information on site usage and is not shared with any other third parties.
 
-We are committed to safeguarding the privacy of all users. We require our employees to protect the privacy of all information collected over our website. Only employees and supervisors with specific authorization have access to databases containing visitors' personal information. The databases are protected in a secure facility. We have a digital certificate that is signed by a recognized certificate authority.
+##  Web Beacons
 
-Please be advised that once you leave our website, your use of the Internet will be governed by the privacy policies, if any, of the particular website that you are accessing. TutorCircle is not responsible for the content, activities or privacy practices on the other sites.
+Web pages may contain an electronic file called a web beacon, pixel tag or clear gif, among other terms, which allows a web site to count users who have visited that page or to access certain cookies. Pearson uses web beacons in the following ways:
 
-  
+Pearson uses web beacons within the Site to count users and to recognize users by accessing Pearson cookies. Being able to access Pearson cookies allows us to personalize your experience when you visit Pearson web sites that are located both on and off of the Pearson domain.
+
+##  HTML eMail
+
+Pearson's practice is to include web beacons in HTML-formatted email messages (messages that include graphics) that Pearson, or its agents, sends in order to determine which email messages were opened and to note whether a message was acted upon.
+
+##  Log Files
+
+Pearson maintains log files of the traffic that visits our site. We do not link any information gathered in these log files to personally identifying information. Log files are used to manage traffic loads and information technology requirements for providing reliable service. Information collected includes IP addresses and browser types.
+
+##  Information Security
+
+The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.  
+All information gathered on the site is stored and maintained in secure facilities that limit access to authorized personnel only.
+
+##  Retention of Information
+
+Pearson will keep personal information of its users for as long as they are registered subscribers or users of our products and services, and for a reasonable time thereafter.
+
+##  Legal Disclaimer
+
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site.
+
+##  Changes in this Privacy Statement
+
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.  
+We reserve the right to modify this privacy statement at any time, so please review it frequently.
+
+##  Contact Us
+
+If you have questions or concerns regarding this statement, you should contact Pearson by emailing cs@tutorcircle.com.   
 
