@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homefinder.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611015325id_/http%3A//www.homefinder.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homefinder.com privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810220123id_/http%3A//www.homefinder.com/company/privacy) for the most accurate reproduction.*
 
 # HomeFinder.com :: Company :: Privacy Policy
 
