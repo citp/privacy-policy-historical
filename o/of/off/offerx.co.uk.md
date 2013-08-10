@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the offerx.co.uk privacy policy that was archived on 2013-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130428092113id_/http%3A//www.offerx.co.uk/documents/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offerx.co.uk privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810034552id_/http%3A//www.offerx.co.uk/documents/privacy) for the most accurate reproduction.*
 
 # Win free prizes and competitions online | OfferX
 
@@ -14,7 +14,7 @@ This statement discloses how Marketing Punch helps to protect your personal info
 
 ##  Collected Data
 
-Marketing Punch collects, store and uses data about you and answers to specific questions asked by sponsors. Marketing Punch and its clients or sponsors may contact you with offers and information which they feel will be of interest to you through mail, telephone or email. We may also use the personal information you provide for the purposes of: identity verification, credit and risk management, revenue collection, database verification and enhancement. If you would prefer your information not to be used in these ways, please [unsubscribe here](https://web.archive.org/web/20130428092113id_/http%3A//www.offerx.co.uk/email-preferences?l=2).
+Marketing Punch collects, store and uses data about you and answers to specific questions asked by sponsors. Marketing Punch and its clients or sponsors may contact you with offers and information which they feel will be of interest to you through mail, telephone or email. We may also use the personal information you provide for the purposes of: identity verification, credit and risk management, revenue collection, database verification and enhancement. If you would prefer your information not to be used in these ways, please [unsubscribe here](https://web.archive.org/web/20130810034552id_/http%3A//www.offerx.co.uk/email-preferences?l=2).
 
 Sponsors of the OfferX website have their own privacy policies and some have their own opt-in statements, it is strongly recommended that you read and understand this information.
 
@@ -154,9 +154,9 @@ GL2 2AT
 
 The next prize will be won in:
 
-####  Win a HD Pocket Camcorder!
+####  Win a multimedia Speaker system!
 
-[ Enter Competition](https://web.archive.org/web/20130428092113id_/http%3A//www.offerx.co.uk/documents/daily-prize)
+[ Enter Competition](https://web.archive.org/web/20130810034552id_/http%3A//www.offerx.co.uk/documents/daily-prize)
 
 ###  Free Competitions
 
@@ -164,22 +164,30 @@ The next prize will be won in:
 
 ##### Win £15,000 cash
 
-Get your hands on £15,000 cash! Win a lump of cash to spend on whatever you like; pay off your mortgage, go on an amazing holiday, buy a new car...
+Get your hands on £15,000 cash!
 
-[Enter Competition](https://web.archive.org/web/20130428092113id_/http%3A//www.offerx.co.uk/money-competitions/18521-win-15000-cash)
+[Enter Competition](https://web.archive.org/web/20130810034552id_/http%3A//www.offerx.co.uk/money-competitions/18521-15000-cash)
 
-#### Lifestyle Competitions
+#### Motor & Travel Competitions
 
-##### Win unlimited cinema passes!
+##### Win a Trip to Las Vegas
 
-Don’t miss your chance to watch the latest movie releases on the big screen for free! Your prize includes two unlimited cinema passes valid for 12...
+Win a trip to Las Vegas; the city in the desert that never sleeps!
 
-[Enter Competition](https://web.archive.org/web/20130428092113id_/http%3A//www.offerx.co.uk/lifestyle-competitions/19941-win-unlimited-cinema-passes)
+[Enter Competition](https://web.archive.org/web/20130810034552id_/http%3A//www.offerx.co.uk/travel-competitions/21391-3781-trip-to-las-vegas)
+
+#### Home & Lifestyle Competitions
+
+##### Win a gym membership!
+
+Get fit for free in your local gym!
+
+[Enter Competition](https://web.archive.org/web/20130810034552id_/http%3A//www.offerx.co.uk/lifestyle-competitions/21151-gym_membership2)
 
 #### Electronic & Gadgets Competitions
 
-##### Win a HP TouchSmart Desktop PC
+##### Win a Bose Home Cinema System + TV
 
-Win an HP TouchSmart desktop computer! With amazing touch technology and a sleek design the HP TouchSmart 520 is lighter...
+Recreate that cinematic magic in your own home with the Bose Lifestyle Home Cinema System.
 
-[Enter Competition](https://web.archive.org/web/20130428092113id_/http%3A//www.offerx.co.uk/electronic-and-gadgets-competitions/18821-win-a-hp-touchsmart-desktop-pc)
+[Enter Competition](https://web.archive.org/web/20130810034552id_/http%3A//www.offerx.co.uk/electronic-and-gadgets-competitions/21401-3741-bose-home-cinema-system--tv)
