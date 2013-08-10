@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the axparis.co.uk privacy policy that was archived on 2013-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130314055212id_/http%3A//www.axparis.co.uk/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axparis.co.uk privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810090642id_/http%3A//www.axparis.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -42,7 +42,7 @@ Our Site gives you the following options for removing your information from our 
 
 1\. You may send an email to
 
-[unsubscribe@axparis.co.uk](mailto:unsubscribe@axparis.co.uk)
+[unsubscribe@axparis.com](mailto:unsubscribe@axparis.com)
 
 **Protection of Personal Information**
 
