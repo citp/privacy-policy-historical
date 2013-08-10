@@ -1,24 +1,12 @@
-> *The following text is extracted and transformed from the balancedpayments.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426131009id_/https%3A//www.balancedpayments.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the balancedpayments.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811014857id_/https%3A//www.balancedpayments.com/privacy) for the most accurate reproduction.*
 
-# Balanced - Payments for Marketplaces
+# Balanced - Payments processing, escrow, and payouts in one simple API | Privacy policy
 
-  * [transaction flow](https://web.archive.org/flow)
-  * [docs](https://web.archive.org/docs)
-  * [example](https://www.rentmybike.co/)
-  * [help & support](https://web.archive.org/help)
-  * [sign in](https://web.archive.org/login)
-
-
-
-* * *
-
-[](https://web.archive.org/)
-
-## Privacy Policy
+## Privacy policy
 
 #### Last Updated: 4/09/2012
 
-This Privacy Policy ("Policy") explains how your personal information is collected, used and disclosed by Balanced and its subsidiaries and affiliated companies ("Balanced"). This Policy applies to the websites of Balanced, including [https://balancedpayments.com](https://balancedpayments.com/) ("Sites") and Balanced's other products, services or any other features, technologies or functionalities offered by us on our Sites or through any other means (collectively, "Services"). This Policy does not apply to information you provide directly to third party websites or third party applications that use Balanced's Services. We do not control the activities of such third parties and advise you to consult their privacy policies before you share your personal information.
+This Privacy Policy ("Policy") explains how your personal information is collected, used and disclosed by Balanced and its subsidiaries and affiliated companies ("Balanced"). This Policy applies to the websites of Balanced, including [](https://balancedpayments.com/)[https://balancedpayments.com](https://balancedpayments.com/) ("Sites") and Balanced's other products, services or any other features, technologies or functionalities offered by us on our Sites or through any other means (collectively, "Services"). This Policy does not apply to information you provide directly to third party websites or third party applications that use Balanced's Services. We do not control the activities of such third parties and advise you to consult their privacy policies before you share your personal information.
 
 ### PERSONAL INFORMATION COLLECTED
 
@@ -78,5 +66,3 @@ Balanced may change this Policy from time to time. If we make any changes to the
 ### QUESTIONS
 
 If you have any questions about this Policy, please contact us at support@balancedpayments.com.
-
-[Get started ](https://web.archive.org/marketplaces/start)
