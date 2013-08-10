@@ -1,94 +1,70 @@
-> *The following text is extracted and transformed from the adsupply.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207033618id_/http%3A//www.canadadrugs.com/policies/Privacy/82) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsupply.com privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810062502id_/http%3A//adsupply.com/privacy.html) for the most accurate reproduction.*
 
-# CanadaDrugs.com
+# AdSupply - Privacy Policy
 
-## Our Policies
+This Privacy Policy discloses the privacy practices for AdSupply. AdSupply is committed to protecting your privacy online. Please read the information below to learn the following regarding your use of this site.
 
-**Q. What is CanadaDrugs.com Privacy Policy?**
+**What information do we collect?**
 
-**Introduction**
+Our primary goal in collecting information from our users is to provide them with a smooth, efficient, and customized experience while using member sites. In order to better protect our users’ privacy online, we collect only one type of information about our users: Non-Personally Identifiable Information; we do not collect any Personally Identifiable Information about you, nor do we collect or identify your browsing habits. Non-Personally Identifiable Information refers to information that does not by itself identify a specific individual. We gather certain information about our users based upon where they visit on member sites in several ways. This information is compiled and analyzed on both a personal and an aggregated basis. 
 
-At Canadadrugs.com Ltd. (carrying on business as “CanadaDrugs.com”), safeguarding your confidentiality and protecting your personal information is a primary concern. We are committed to meeting or exceeding the privacy standards established by Canada’s Personal Information Protection and Electronic Documents Act. As part of this commitment, we have followed the Ten Privacy Principles described in the Personal Information Protection and Electronic Documents Act to govern our actions as they relate to the use of personal information. The Ten Privacy Principles are as follows:
+**What do we use your information for?**
 
-**Principle 1 – Accountability.** We are responsible for maintaining and protecting any personal information under our control. In fulfilling this mandate, we have designated an individual who is accountable for CanadaDrug.com's compliance with the Ten Privacy Principles.
+We do not sell, trade, rent or otherwise transfer to outside parties your Personally Identifiable Information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We actively encourage our service partners to adopt and post privacy policies. However, the use of your Personally Identifiable Information by our service partners is governed by the privacy policies of those service partners, and is not subject to our control. Non-Personally Identifiable Information may be provided to other parties for, among other uses, marketing and/or advertising.
 
-**Principle 2 - Identifying Purposes.** The purposes for which personal information is collected shall be identified before or at the time the information is collected.
+Occasionally we may be required by law enforcement or judicial authorities to provide Personally Identifiable Information to the appropriate governmental authorities. We will disclose Personally Identifiable Information upon receipt of a court order, subpoena, or to cooperate with a law enforcement investigation. We fully cooperate with law enforcement agencies in identifying those who use our services for illegal activities. We reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful.
 
-**Principle 3 – Consent.** The knowledge and consent of the customer are required for the collection, use or disclosure of personal information except where required or permitted by law.
+We may also provide Non-Personally Identifiable Information about our customers to third party advertisers, but these statistics do not include any Personally Identifiable Information.
 
-**Principle 4 - Limiting Collection.** The personal information collected must be limited to those details necessary for the purposes identified by CanadaDrugs.com. Information must be collected by fair and lawful means.
+**Do we use cookies?**
 
-**Principle 5 - Limiting Use, Disclosure and Retention.** Personal information may only be used or disclosed for the purpose for which it was collected unless the customer has otherwise consented, or when it is required or permitted by law. Personal information may only be retained for the period of time required to fulfill the purpose for which it was collected.
+Yes. As a third party vendor, AdSupply participates in passive information collection, and may store cookies to facilitate and customize your user experience on member sites. A cookie is a small data text file that a site or its service provider transfers to your computer’s hard drive through your web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. Our cookies store randomly assigned user identification numbers and the country where you are located. No Personally Identifiable Information is collected. All information shared with advertisers is anonymous. These cookies makes a user experience on the site easier, makes the site run more smoothly and helps us to maintain a secure site. 
 
-**Principle 6 – Accuracy.** Personal information must be maintained in as accurate, complete and up-to-date form as is necessary to fulfill the purposes for which it is to be used.
+AdSupply’s cookies enable AdSupply to serve advertisements to users based on their visits to these sites utilizing our technology. AdSupply uses cookies to keep track of advertisements and to report to the advertiser if you have seen a particular advertisement and clicked or acted on that advertisement only. These cookies are used to control how many advertisements are seen during a user’s time on this site. AdSupply does not track activity across multiple sites. Blocking or removing these cookies may cause more advertisements than the partner site intended. 
 
-**Principle 7 - Safeguarding Personal information.** Personal information must be protected by security safeguards that are appropriate to the sensitivity level of the information.
+**Security of Information**
 
-**Principle 8 – Openness.** CanadaDrugs.com is required to make information available to customers concerning the policies and practices that apply to the management of their information.
+We maintain physical, electronic, and procedural safeguards to guard your personally identifiable information. We allow access to personal information only to persons engaging in activity provided for by this Privacy Policy. We use secure socket layer technology, among other technologies, to protect any credit card information provided to us.
 
-**Principle 9 - Customer Access.** Upon request, a customer shall be informed of the existence, use and disclosure of their information, and shall be given access to it. Customers may verify the accuracy and completeness of their information, and may request that it be amended, if appropriate.
+Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your Personally Identifiable Information, you acknowledge that: (a) there are security and privacy limitations of the Internet which are beyond our control; (b) the security, integrity and privacy of any and all information and data exchanged between you and us through this site cannot be guaranteed; and (c) any such information and data may be viewed or tampered with in transit by a third party.
 
-**Principle 10 - Handling Customer Complaints and Suggestions.** Customers may direct any questions or enquires with respect to the privacy principles outlined above or about our practices by contacting the designated person accountable for privacy at CanadaDrugs.com.  
-The guidelines below set forth the principles we use in gathering, using, maintaining and protection personal information you provide us.
+**User Choices on Collection and Use of Information**
 
-**The Types of Personal Information We Collect**
+You also have choices with respect to cookies, as described above. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject all cookies, some parts of our site and/or member sites may not work properly in your case.
 
-CanadaDrugs.com gathers and uses any information that is necessary for fulfilling your orders for our products and services. It typically includes the following personal information:
+**California Online Privacy Protection Act Compliance**
 
-  
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your Personally Identifiable Information to outside parties without your express consent.
 
-  * name, mailing address, e-mail address, telephone numbers, occupation, employment status, referral source, the name of your primary physician and his or her contact information, age, height, weight, sex, date of birth, the existence and types of drug allergies, medications requested, family medical history information, you personal medical history information, details of your existing medications, credit card information, including card type and number, expiry date and name of card holder, prescription information;  
+**Children’s Online Privacy Protection Act Compliance**
 
+AdSupply is in complete compliance with the requirements of the Children's Online Privacy Protection Act (COPPA) and the compliance Rule adopted by the FTC with respect thereto. AdSupply does not collect any information from anyone under thirteen (13) years of age. Our website, products and services are all directed to people who are at least thirteen (13) years old or older. You must be at least thirteen (13) years old to have our permission to use this site.
 
-  
-The choice to provide us with personal information is always yours. However, your decision to withhold particular details may limit the products and services we are able to provide and make it more difficult for us to advise you or suggest appropriate alternatives. If we are unable to accommodate your request based on the information that has been provided, we may ask for additional details in order to identify other ways to be of assistance. We may also maintain a file containing contact history that is used for customer inquiry purposes.
+**Third-Party Sites**
 
-We may collect anonymous/non-personal information. Anonymous/non-personal information is information that cannot be associated with or traced back to a specific individual or business entity.
+Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. Other sites accessible through our site have their own privacy policies and data collection, use and disclosure practices. Please consult each site's privacy policy. We are not responsible for the policies or practices of third parties. Additionally, other companies which place advertising on our site may collect information about you when you view or click on their advertising through the use of cookies. We cannot control this collection of information. You should contact these advertisers directly if you have any questions about their use of the information that they collect. This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-**The Purposes for which we use Personal Information**
+**Terms and Conditions**
 
-We use your personal information to communicate with you, enhance your visit to our site, process orders and effectively provide the products and services you have requested. We provide your personal information to a Canadian physician to review and approve your prescription.
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website. Our Terms and Conditions can be found at http://adsupply.com/AdvertisersTerms.pdf.
 
-We may use personal information to offer additional products and services sold by CanadaDrugs.com. In the event of a sale of all or substantially all of the assets of CanadaDrugs.com, records containing personal information may be transferred to the purchaser. We will not furnish personal information to an outside organization for its use in marketing or solicitation, without your prior consent.
+**Your Consent**
 
-We only use personal information for the purposes that we have disclosed to you. If for any reason your information is required to fulfill a different purpose, we will notify you and ask you for your consent before we proceed.
+You acknowledge that this Privacy Policy is part of our Site Terms of Use, and by accessing or using our site, you agree to be bound by all of its terms and conditions. If you do not agree to these terms, please do not access or use this site.
 
-In some instances such as a legal proceeding or court order, we may also be required to disclose certain information to authorities. Only the information specifically requested is disclosed and we take precautions to satisfy ourselves that the authorities who are making the request have legitimate grounds to do so.
+**Changes to our Privacy Policy**
 
-There are some situations where we are legally permitted to disclose personal information such as employing reasonable and legal methods to collect a delinquent account, a medical emergency or suspicion of illegal activities.
+We reserve the right to change this Privacy Policy at any time. Such changes, modifications, additions or deletions shall be effective immediately upon notice thereof, which may be given by means including, but not limited to, issuing an email and/or posting the revised Policy on this page. You acknowledge and agree that it is your responsibility to review this site and this Policy periodically and to be aware of any modifications. Your continued use of the site after such modifications will constitute your: (a) acknowledgment of the modified Policy; and (b) agreement to abide and be bound by the modified Policy.
 
-We sometimes contract outside organizations to perform specialized services. Our trusted service suppliers may at times be responsible for processing and handling some of the information we receive from you.
+_This policy was last modified on April 24, 2013._
 
-When you visit our web site, information is not collected that could identify you personally unless you choose to provide it voluntarily. You are welcome to browse the web site at any time anonymously and privately without revealing any personal information about yourself.
+**Contacting Us**
 
-**Security Measures**
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us by sending a letter to:
 
-We use current technologies and maintain security standards to ensure that your personal information is protected against unauthorized access, disclosure, inappropriate alteration or misuse. All safety and security measures are also appropriate to the sensitivity level of your information. Electronic client files are kept in a secured environment with restricted access. Paper-based files are stored in restricted access areas.
+**10811 Washington Blvd, Suite 400  
+Culver City, CA 90232  
+info@adsupply.com  
+**
 
-We manage our server environment appropriately and our firewall infrastructure is strictly adhered to. Our security practices are reviewed periodically and we employ current technologies to assist us in protecting the confidentiality and privacy of your information.
-
-In the course of daily operations, we attempt to restrict access to personal information to authorized employees who have a legitimate business purpose and reason for accessing it. As a condition of their employment, all employees of CanadaDrugs.com are required to abide by the privacy standards we have established and to follow all applicable laws and regulations. Unauthorized access to and/or disclosure of client information by an employee of CanadaDrugs.com is strictly prohibited. All employees are expected to maintain the confidentiality of personal information at all times and failing to do so will result in appropriate disciplinary measures, which may include dismissal.
-
-**Accessing and Amending Your Information**
-
-Decisions are often made based on the information we have. Therefore, it is important that your personal information is accurate and complete. As a customer, you have the right to access, verify and amend the information held in your personal and financial files.
-
-To help us keep your personal information up-to-date, we encourage you to amend inaccuracies and make corrections as often as necessary. Despite our efforts, errors sometimes do occur. Should you identify any incorrect or out-of-date information in your file(s), we will make the proper changes and provide you with a copy of the corrected information. Where appropriate, we will communicate these changes to other parties who may have unintentionally received incorrect information from us.
-
-**Privacy Officer**
-
-Customers may direct any questions or enquires with respect to our practices or your personal information by contacting our privacy officer, as follows:  
-CanadaDrugs.com  
-24 Terracon Place  
-Winnipeg, Manitoba  
-R2J 4G7  
-Attention: Troy Harwood-Jones
-
-Facsimile No. 1-877-525-8539  
-E-Mail: Troy.Harwood-Jones@canadadrugs.com
-
-**Updating this Policy**  
-Any changes to our privacy policy and information handling practices shall be acknowledged in this policy in a timely manner. We may add, modify or remove portions of this policy when we feel it is appropriate to do so. You may determine when this policy was last updated by referring to the modification date found at the bottom of each CanadaDrug.com privacy policy web page.  
-last updated: January 16, 2004
-
-[Return to Our Policies Listing](http://www.canadadrugs.com/patient_services/index.php?category=22)
+_This Privacy Policy is powered by Trust Guard PCI compliance._
