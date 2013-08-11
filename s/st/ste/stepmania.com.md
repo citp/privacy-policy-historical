@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stepmania.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622012745id_/http%3A//www.stepmania.com/wiki/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stepmania.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811182745id_/http%3A//www.stepmania.com/wiki/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
