@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the erento.co.uk privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429132306id_/http%3A//www.erento.co.uk/hire/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erento.co.uk privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811050621id_/http%3A//www.erento.co.uk/hire/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - erento.co.uk
 
