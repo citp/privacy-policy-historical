@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reachmail.net privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515194942id_/http%3A//www.reachmail.net/pages/privacy_policy/13.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reachmail.net privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811211524id_/http%3A//www.reachmail.net/pages/privacy_policy/13.php) for the most accurate reproduction.*
 
 # ReachMail - Privacy Policy
 
@@ -32,10 +32,10 @@ Your recipient lists are stored on a secure ReachMail server. We do not, under a
   1. To help enforce compliance with our Terms of Use and applicable law including, but not limited to, helping to create white lists and black lists, to develop and test algorithms, heuristics and other methods and tools for detecting violations, and to apply those methods and tools.
   2. To bill and collect sums owed to us.
   3. To protect the rights and safety of us and our employees, Members, owners, officers and others.
-  4. To meet legal requirementssuch as complying with court orders and valid subpoenas.
+  4. To meet legal requirements such as complying with court orders and valid subpoenas.
   5. To prosecute and defend a court, arbitration or similar proceeding.
   6. To support and improve the services we offer including adding features and providing benchmarking and other comparison information based on aggregating and analyzing data.
-  7. To transfer your informationin the event of the sale of all, or substantially all, of the assets of our business to a third-party or in the event of a merger, consolidation or acquisition. However, in such event, any acquirer will be subject to our obligations under this Privacy Policy.
+  7. To transfer your information in the event of the sale of all, or substantially all, of the assets of our business to a third-party or in the event of a merger, consolidation or acquisition. However, in such event, any acquirer will be subject to our obligations under this Privacy Policy.
   8. To provide information received hereunder to representatives and advisors such as attorneys and accountants to help us comply with legal and other requirements.
   9. To provide customer support and obtain feedback about our Services, but only for and from the Member whose Personal Information and User Data are being used.
 
