@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compojoom.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429201244id_/https%3A//compojoom.com/privacy-policy-imprint) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compojoom.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811221310id_/https%3A//compojoom.com/privacy-policy-imprint) for the most accurate reproduction.*
 
 # Privacy Policy/Imprint
 
@@ -75,6 +75,16 @@ Protecting the privacy of the very young is especially important. None of of our
 ## Future changes
 
 From time to time, we may use user information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
+
+## Images & rights
+
+© Alex Manchev http://www.alexmanchev.com/  
+© Mary1507 - Fotolia.com  
+© Andrey Kiselev - Fotolia.com  
+© sdecoret - Fotolia.com  
+© XtravaganT - Fotolia.com  
+© Andy - Fotolia.com  
+© white - Fotolia.com
 
 ## Questions or comments
 
