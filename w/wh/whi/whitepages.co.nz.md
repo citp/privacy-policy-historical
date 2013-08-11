@@ -1,60 +1,86 @@
-> *The following text is extracted and transformed from the whitepages.co.nz privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602072925id_/http%3A//yellow.co.nz/privacypolicy.ds) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitepages.co.nz privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811062410id_/http%3A//help.yellow.co.nz/yellow/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - YELLOW™ New Zealand
+# Privacy Policy - Yellow® New Zealand
 
-## Privacy policy
+We are committed to protecting the privacy of personal information you might provide via any of our websites. This policy explains how we manage your information. For the purposes of this policy, “we”, “us” or “our” means Yellow Pages Group Limited (having its registered office at 604 Great South Road, Ellerslie, Auckland) together with its related companies.
 
-### Introduction
+## Your information
 
-Yellow™ is committed to protecting the privacy of personal information you might provide via any Yellow™ website. This policy explains how we manage personal information.
+You acknowledge and agree that we may collect information about you. This may be:
 
-### Your personal information
-
-You acknowledge and agree that we may collect information about you. The information may be obtained from;
-
-  * Personal information provided voluntarily when registering
-  * Website usage information through tracking your click behaviour
-  * Aggregated data, measuring traffic to Yellow™ Websites but not relating to you personally
+  * provided voluntarily by you;
+  * obtained or derived from website usage information (whether through tracking your click behaviour or otherwise);;
+  * obtained or derived from aggregated data not relating to you personally, such as the measuring of traffic to our websites; and/or
+  * provided by third parties.
 
 
 
 You may decide whether to provide any information we seek from you. However, if you do not provide it, we may not be able to provide services to you.
 
-### Access to, disclosure and correction of your information
+## Use and sharing information
 
-You may ask to seek information we hold about you, so long as we can readily retrieve it, and ask for any details that are wrong to be corrected. We may hold the information and share it with other Yellow Pages Group companies, but we will not disclose it to third parties without your consent or where we are required by law to disclose the information.
+We collect and use your information to:
 
-### Use of cookies
-
-To assist us in providing the best possible results from Yellow™ online for both users and advertisers, we occasionally need to gather information about how people use the site. The information collected by cookies will;
-
-  * Display content more relevant to you
-  * Enable you to use more advanced features on our websites
-
-
-
-The information is collected on an entirely confidential basis via online cookies which requests details such as:
-
-  * How many PC's connect to the site
-  * Which pages are viewed
-  * Which browsers people use when visiting e.g. Internet Explorer
+  * generally operate our business;
+  * provide you with, and improve, our products and services;
+  * inform you of our products and services, including any changes thereof;
+  * administer our contests, promotions, surveys and other services;
+  * obtain your feedback or views about our products and services;
+  * respond to any queries, feedback or other correspondence from you;
+  * gain an understanding of your needs;
+  * prevent and detect any misuse of, or fraudulent activities involving, any Yellow website, product or service; and/or
+  * maintain and develop our business systems and infrastructure, including testing and upgrading of these systems.
 
 
 
-Online cookies will be sent to your computer the first time you visit Yellow™ online. A cookie is a message given to a Web browser by a Web server. The browser stores the message in a text file. The message is then sent back to the server each time the browser requests a page from the server. It identifies your computer as a unique computer but in no way identifies you nor harms your computer.
+Personal information may be shared with our officers, employees, contractors, agents, professional advisors and joint ventures or third parties in relation to the purposes described above. We take reasonable steps to ensure that any third parties are bound by confidentiality and privacy obligations in relation to the protection of your personal information.
 
-Yellow™ online uses two types of cookies. The first type is used for reporting on the use of the site, the other is used to provide you with key site functionality, such as retaining search queries.
+We may share your personal information as required by law, court order, regulatory authority or the listing rules of any stock exchange, to exercise our legal rights, or to defend against legal claims. We may share your personal information with our customers or suppliers where you provide us with your consent to do so.
 
-If you do not wish to have a cookie placed on your computer for reporting purposes, please visit <http://info.yellow.co.nz/optout.html>. Alternatively you can choose to disable all cookies by managing your browser preferences. For most browsers this can be done via "Options" or "Preferences" under one of your browser menus.
+We will generally collect and use non-personal information to:
 
-### Serving online advertisements
+  * provide our customers or suppliers with marketing or promotional materials regarding our products, programs and services; and/or
+  * assist our staff in providing tailored sales offers to our customers.
 
-We use a third-party advertising company to serve ads when you visit our Web site. This company may use information (not including your name, address, email address or telephone number) about your visit to this site in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. If you would like more information about this practice and to know your choices about not having this information used by this company, please visit <http://www.doubleclick.net/us/corporate/privacy>.
 
-### Changes to this policy
 
-We may change this policy, by adding, changing or removing content, at any time. Any change applies from the time it is published on our web site at [www.yellow.co.nz](http://www.yellow.co.nz/).
 
-### Contact Details
+## Holding and correcting personal information
 
-If you have any questions about the privacy of your personal information please [contact us](http://content.yellow.co.nz/iyp/privacy/displaycontact.ds).
+Under the Privacy Act 1993 you have rights of access to and correction of personal information that we hold, where such information can readily be retrieved. We reserve the right to require payment of our reasonable costs in relation to the access to and correction of certain information.
+
+To protect your privacy and the privacy of others, we may have to verify your identity before we can give you access to, or change, information about you.
+
+## Link to other websites
+
+Our websites provide links to other websites. Please note that these websites may have different security and privacy policies. We do not accept any responsibility or liability for any information that you divulge to these websites or how those websites or the organisations that own and manage those websites collect, use or disclose such information.
+
+## Use of cookies
+
+Information about the use of our websites is of commercial value to us. To help us provide the best possible results on our websites, advertising services for users and advertisers, and other services for our customers, we may collect and store information about the way our websites are used (such as how many computers connect to each website, which pages are viewed, and which browsers are being used) and the products and services advertised on the websites. This may include sending a "cookie" to your computer. A cookie is a message given to an internet browser by a web server. The browser stores the message in a text file. The message is then sent back to the server each time the browser requests a page from the server. This identifies your computer uniquely but does not harm your computer and does not identify you.
+
+Our websites use one type of cookie for reporting on the use of the website, and another type of cookie to provide you with certain website functionality (such as displaying content more relevant to you, or enabling you to retain search queries). Cookies will be sent to your computer the first time you visit one of our websites. If you do not wish to have a cookie placed on your computer, please visit <http://info.yellow.co.nz/optout.html>. Alternatively you may be able to disable all cookies via your browser’s "Options" or "Preferences" menu.
+
+## Online advertisements
+
+We may use a third-party advertising company to serve ads when you visit our websites. This company may use information (not including your name, address, email address or telephone number) about your visit to our websites in order to provide advertisements about goods and services that may be of interest to you. In the course of serving such advertisements, our third-party advertiser may place or recognise a unique cookie on your computer. If you would like more information about this practice and to know your choices about not having this information used by this company, please visit <http://www.doubleclick.net/us/corporate/privacy>.
+
+## Nielsen//NetRatings - NZ internet statistics
+
+We use the Nielsen//NetRatings counting system to help us improve our service by tracking common entry and exit points for our websites, compiling anonymous information about visits to our websites, and randomly and anonymously surveying users of our websites. To do this, our websites have a small piece of code on each page which accumulates these statistics. For more information and to view Nielson//Net Ratings’ privacy policy, please visit <http://www.nielsen-online.com/corp.jsp?section=leg_prs>.
+
+## Security
+
+Although we use safeguards to protect your personal information against theft, loss or unauthorised access, use, modification, disclosure or disposal, as no data transmission over the internet can be guaranteed to be completely secure, we cannot ensure and do not warrant the security of information you transmit or receive through our websites. These activities are conducted at your own risk.
+
+## Emails
+
+By registering an account with us via any of our websites, you consent to the receipt of commercial emails from us or on our behalf, or from our related companies and/or certain third parties (unless you expressly deny such consent at the time of registration). You may opt-out of receiving commercial emails at any time. We may always send you non-commercial emails.
+
+## Changes to this policy
+
+We may change this policy, by adding, changing or removing terms at any time. Any change applies from the time it is published on one of our websites. You should check from time to time to see if this policy has changed.
+
+## Contact Details
+
+If you have any questions about the privacy of your personal information please [contact us](http://help.yellow.co.nz/contact-us/).
