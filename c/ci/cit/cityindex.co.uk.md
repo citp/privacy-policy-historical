@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cityindex.co.uk privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522153354id_/http%3A//www.cityindex.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityindex.co.uk privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811094504id_/http%3A//www.cityindex.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Spread Betting | CFD Trading | CFDs | City Index
 
