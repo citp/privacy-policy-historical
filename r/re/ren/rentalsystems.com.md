@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rentalsystems.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502205126id_/https%3A//www.rentalsystems.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentalsystems.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811065344id_/https%3A//www.rentalsystems.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rentalsystems
 
