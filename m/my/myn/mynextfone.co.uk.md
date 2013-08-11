@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mynextfone.co.uk privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221005555id_/http%3A//www.mynextfone.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynextfone.co.uk privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811164840id_/http%3A//www.mynextfone.co.uk/privacy) for the most accurate reproduction.*
 
 # MyNextFone
 
