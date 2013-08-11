@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the unlockthegame.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222181331id_/http%3A//www.unlockthegame.com/utility/showArticle%3FobjectID%3D16) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unlockthegame.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811190242id_/http%3A//www.unlockthegame.com/UTG/ServicePages/PrivacyStatement/index.cfm) for the most accurate reproduction.*
 
-# Free Cold Calling Tips and Sales Techniques – Ari Galper’s Unlock The Game
+# Privacy Statement - Unlock The Game
 
 _**Privacy Policy**_
 
@@ -46,6 +46,14 @@ Unlock The Game reserves the right to change this policy at any time. By using w
 
 If you have any questions about this privacy statement or the practices of this Web site, you may write to us at the following postal address:
 
-Unlock The Game   
-24112 Park Casino  
-Calabasas, CA 91302
+Unlock The Game  
+2620 S. Maryland Parkway, Suite #14-801  
+Las Vegas, NV 89109  
+USA
+
+or
+
+Unlock The Game  
+Suite 223, 25 Oxford Street  
+Sydney, NSW 2022   
+Australia
