@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asianetdataline.com privacy policy that was archived on 2013-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130404173203id_/http%3A//asianetdataline.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asianetdataline.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811093148id_/http%3A//www.asianetdataline.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Asianet DataLine
 
@@ -11,7 +11,7 @@ Mr.Cleetez B. Fernandez.
 
 Quote : " We are the resident of Canada and of course we did not find any difference in your service between the services we do receive in Canada. Congratulations to ASIANET Team members. Keep it on."  
   
-[ ](https://web.archive.org/web/20130404173203id_/http%3A//asianetdataline.com/IP%20Video%20Phone.pps)  
+[ ](https://web.archive.org/web/20130811093148id_/http%3A//www.asianetdataline.com/IP%20Video%20Phone.pps)  
 [ ](http://asianetglobaltalk.com/)  
 [ ](https://myaccount.adlkerala.com/)  
 Trivandrum prepaid renewal  
