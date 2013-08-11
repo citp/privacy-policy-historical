@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sportalink.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613063610id_/http%3A//www.sportalink.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportalink.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812004357id_/http%3A//www.sportalink.com/privacy_policy) for the most accurate reproduction.*
 
-# Sportalink
+# Welcome to Sportalink
 
 ## _Privacy Policy_
 
