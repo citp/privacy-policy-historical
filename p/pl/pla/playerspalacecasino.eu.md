@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the playerspalacecasino.eu privacy policy that was archived on 2013-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130331155112id_/http%3A//www.playerspalacecasino.eu/security/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playerspalacecasino.eu privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811033139id_/http%3A//www.playerspalacecasino.eu/privacy) for the most accurate reproduction.*
 
 # Security : Players Palace Casino Privacy Policy
+
+[HOME](https://web.archive.org/) »  **Privacy Policy**
 
   1. **Recording of Communications**  
 To improve our services and protect the interests of our Players, all telephone calls are recorded for security purposes.
