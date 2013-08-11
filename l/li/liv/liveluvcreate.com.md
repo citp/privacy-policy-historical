@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the liveluvcreate.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523111743id_/http%3A//www.liveluvcreate.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveluvcreate.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811172132id_/http%3A//www.liveluvcreate.com/privacy.html) for the most accurate reproduction.*
 
-# Create Beautiful Quote Photos - LiveLuvCreate.com
+# Create Fanfiction & Beautiful Quote Photos - LiveLuvCreate.com
 
 Privacy Policy for www.liveluvcreate.com 
 
