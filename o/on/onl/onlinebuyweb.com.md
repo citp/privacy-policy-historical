@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinebuyweb.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624074026id_/http%3A//www.onlinebuyweb.com/%3Fpage_id%3D742) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinebuyweb.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811070727id_/http%3A//www.onlinebuyweb.com/%3Fpage_id%3D742) for the most accurate reproduction.*
 
 # Privacy Policy | OnlineBuyWeb.com
 
