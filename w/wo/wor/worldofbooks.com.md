@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the worldofbooks.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504184206id_/http%3A//www.worldofbooks.com/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldofbooks.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811123014id_/http%3A//www.worldofbooks.com/policies) for the most accurate reproduction.*
 
 # Policies | World of Books.com
 
-We sell over  2 Million used books a year           We recycle over  30 Million used books a year
+We sell over  5 Million used books a year           We recycle over  40 Million used books a year
 
 Detailed below are the World of Books.com policies, including our **Privacy Policy  **and our **Terms and Conditions**  
 
