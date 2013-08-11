@@ -1,30 +1,40 @@
-> *The following text is extracted and transformed from the gothscene.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201155040id_/http%3A//www.gothscene.com/%3Fs%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gothscene.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811082231id_/http%3A//www.gothscene.com/privacyPolicy) for the most accurate reproduction.*
 
-# .: Gothic Singles, Dating, and Personals @ GothScene.com
+# .: Privacy Policy
 
-**Privacy Policy**   
+#### Join for free!
 
+Join for free and search through thousands of profiles 
 
-gothscene (the "Site") is licensed to **Dating Media LTD.**
+Joining only takes a minute. Joining our community will allow us to better match you with other members. 
 
-Our postal address is   
-Dating Media LTD  
-Amory Building, Suite #4757, Victoria Road  
-Basseterre, SAINT KITTS AND NEVIS
+#### Find a member
 
-We can be reached via e-mail at legal@datingmedialtd.com
+Search by nickname
 
-This Privacy Policy Statement sets forth the policies and practices with respect to information or data gathered regarding subscriber and members of this Site. This is an online Site that expressly and strictly limits its membership to adults. All persons under the age of 18 are strictly prohibited from accessing or viewing the contents of this Site. 
+gothscene.com (the "Site") is licensed to **First Beat Media**
 
-This Site does not knowingly seek or collect any personal information or data from persons under the age of 18. 
+Our USA postal address is   
+5722 S. Flamingo Rd. #246  
+Cooper City, FL 33330  
+USA  
+1-866-294-5787 
+
+[Contact us](https://web.archive.org/contact)
+
+This Privacy Policy Statement sets forth the policies and practices with respect to information or data gathered regarding subscriber and members of this Site. This is an online Site that expressly and strictly limits its membership to adults. All persons under the age of 18 are strictly prohibited from accessing or viewing the contents of this Site.
+
+This Site does not knowingly seek or collect any personal information or data from persons under the age of 18.
 
 Notice - Use of Website by the Subscriber Constitutes the Subscriber's Express Assent to the Use of Personal Information Collected by Site. 
 
-**CAREFULLY READ THIS PRIVACY POLICY STATEMENT BECAUSE BY YOUR SUBSCRIPTION TO AND USE OF THIS SITE YOU WILL BE EXPRESSLY SIGNIFYING THAT YOU AGREE TO THIS POLICY STATEMENT AND THAT YOU ASSENT TO THE USE OF ANY PERSONAL INFORMATION THAT YOU SUPPLY OR THAT IS COLLECTED ABOUT YOU AS DETAILED IN THIS POLICY STATEMENT.**
+**CAREFULLY READ THIS PRIVACY POLICY STATEMENT BECAUSE BY YOUR SUBSCRIPTION TO AND USE OF THIS SITE YOU WILL BE EXPRESSLY SIGNIFYING THAT YOU AGREE TO THIS POLICY STATEMENT AND THAT YOU ASSENT TO THE USE OF ANY PERSONAL INFORMATION THAT YOU SUPPLY OR THAT IS COLLECTED ABOUT YOU AS DETAILED IN THIS POLICY STATEMENT.
 
-**IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY STATEMENT YOU SHOULD NOT SUBSCRIBE TO OR USE THIS SITE**
+IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY STATEMENT YOU SHOULD NOT SUBSCRIBE TO OR USE THIS SITE 
 
-**_What Information About Subscribers is Collected?_**
+**
+
+**What Information About Subscribers is Collected?**
 
 > When any consumer signs-on as a member or subscriber of this Site that consumer will be required to provide certain personal as well as demographic information which may include, but is not necessarily limited to, the subscriber's name, address, birthday, e-mail address, gender, marital status, occupation, education, credit card number and expiration date of the credit card, username and password, and special interests or affiliations. This Site collects any and all such information and includes it in its customer database. 
 > 
@@ -36,9 +46,9 @@ Notice - Use of Website by the Subscriber Constitutes the Subscriber's Express A
 > 
 > The Site may also automatically collect traffic and click-through data as well as information regarding the online behavior of subscribers by the use of "cookies" or other programming means - any information about subscribers collected by the Site through the use of cookies or other programming means may be included in its customer database. 
 > 
-> You may obtain further information about "cookies" and how they function at: <http://www.cookiecentral.com/>.
+> You may obtain further information about "cookies" and how they function at: <http://www.cookiecentral.com/>. 
 
-**_Use of Personal Subscriber Information._**
+**Use of Personal Subscriber Information.**
 
 > The subscriber expressly agrees that the Site may use any personal information that has been provided by the subscriber or that has been collected by the Site about the subscriber for any purpose, including without limitation, technical, administration, research and development, customer administration, marketing, age verification, promotional and advertising use by the Site or third parties authorized to use the information by the Site. We do not rent, sell, or share your email address with outside parties. 
 > 
@@ -54,23 +64,22 @@ Notice - Use of Website by the Subscriber Constitutes the Subscriber's Express A
 > 
 > Consistent with the Policies set forth in this Privacy Statement, the Site has adopted and implemented reasonable and technologically feasible procedures for maintaining the security, accuracy and integrity of all personal information relating to subscribers that is collected by the Site. 
 > 
-> All subscribers should consider any information provided to or collected by the Site as non-confidential, and consequently the Site assumes no liability or responsibility if any information relating to any subscriber is intercepted and/or used by an unintended recipient.
+> All subscribers should consider any information provided to or collected by the Site as non-confidential, and consequently the Site assumes no liability or responsibility if any information relating to any subscriber is intercepted and/or used by an unintended recipient. 
 
-**_"OPT-IN" and "OPT-OUT" Provisions._**
+**"OPT-IN" and "OPT-OUT" Provisions.**
 
 > There may be occasions when a subscriber will be presented with special offers either from the operators of the Site or from third-party service or content providers, which may include consent to receive e-mail solicitations, communications, newsletters, commercial advertising, or other promotional or special event materials (collectively referred to as "Offers"). 
 > 
-> **" OPT-IN"** \-- Some Offers may be presented to the subscriber with the option to express the subscriber's preference by either clicking or entering "accept" (alternatively "yes") or "decline" (alternatively "no"). By selecting or clicking the "accept" or "yes" the subscriber indicates that the subscriber "OPTS-IN" to that Offer and thereby agrees and assents that the subscriber's personal information and data may be disclosed to third-parties. 
+> **"OPT-IN"** \-- Some Offers may be presented to the subscriber with the option to express the subscriber's preference by either clicking or entering "accept" (alternatively "yes") or "decline" (alternatively "no"). By selecting or clicking the "accept" or "yes" the subscriber indicates that the subscriber "OPTS-IN" to that Offer and thereby agrees and assents that the subscriber's personal information and data may be disclosed to third-parties. 
 > 
-> **" OPT-OUT"** \-- Other Offers may be presented with a pre-selected preference or choice. If the subscriber does not deselect the pre-selected preference of choice (i.e. "OPT-OUT" of the Offer) then the Site may transfer the subscriber's personal profile information to the third-party service or content provider making the Offer. If the subscriber deselects the pre-selected preference then no personal information about the subscriber may be disclosed to any third-party service or content provider.
+> **"OPT-OUT"** \-- Other Offers may be presented with a pre-selected preference or choice. If the subscriber does not deselect the pre-selected preference of choice (i.e. "OPT-OUT" of the Offer) then the Site may transfer the subscriber's personal profile information to the third-party service or content provider making the Offer. If the subscriber deselects the pre-selected preference then no personal information about the subscriber may be disclosed to any third-party service or content provider. 
 
-_**"OPT-OUT" Revocation Procedure.**_
+**"OPT-OUT" Revocation Procedure.**
 
-> The Site also offers all subscribers a procedure for "Opting-Out" if the subscriber subsequently chooses to revoke any consent to receive Offers by [clicking here](http://www.gothscene.com/?s=settings&p=2) and deselecting "I want to be informed of promotional offers".
+> The Site also offers all subscribers a procedure for "Opting-Out" if the subscriber subsequently chooses to revoke any consent to receive Offers by [clicking here](https://web.archive.org/web/20130811082231id_/http%3A//www.gothscene.com/settings/2) and deselecting "I want to be informed of promotional offers". 
 
-_**Terms and Conditions of Membership.**_
+**Terms and Conditions of Membership.**
 
 > Each subscriber should carefully read each of the terms and conditions of Membership of this Site. By accepting membership to this Site you are unconditionally accepting all of those terms and conditions. Some of those terms and conditions may also affect the right of this Site to use information that it has gathered from subscribers.
 > 
-> In the event of any conflicts between the [Membership Terms the Conditions](http://www.gothscene.com/?s=termsofservice) and this Privacy Policy Statement, the provisions of this Privacy Policy shall control.  
-> 
+> In the event of any conflicts between the [Membership Terms the Conditions](https://web.archive.org/termsOfService) and this Privacy Policy Statement, the provisions of this Privacy Policy shall control. 
