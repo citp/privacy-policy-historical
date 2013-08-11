@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mobile88.com.sg privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502040513id_/http%3A//www.mobile88.com.sg/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobile88.com.sg privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811143549id_/http%3A//www.mobile88.com.sg/privacy.asp) for the most accurate reproduction.*
 
-# Mobile88: Privacy Policy
+# Privacy Policy | Mobile88 Singapore
 
 We at Mobile88 take your privacy very seriously. We believe that electronic privacy is crucial for the ongoing success of the Internet. 
 
