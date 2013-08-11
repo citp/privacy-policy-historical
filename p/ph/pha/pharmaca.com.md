@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pharmaca.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504013034id_/http%3A//www.pharmaca.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pharmaca.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811034449id_/http%3A//www.pharmaca.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Pharmaca Integrative Pharmacy
 
