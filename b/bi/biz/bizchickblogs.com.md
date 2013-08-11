@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizchickblogs.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423203326id_/http%3A//www.bizchickblogs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizchickblogs.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811080905id_/http%3A//www.bizchickblogs.com/privacy-policy) for the most accurate reproduction.*
 
 # Biz Chick Blogs Privacy Policy
 
@@ -13,8 +13,6 @@ Like many other Web sites, www.bizchickblogs.com makes use of log files. The inf
 
 **Cookies and Web Beacons**  
 www.bizchickblogs.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
-
-[](http://pointclicktrack.com/click/track/p/10065/c/45434/s1/bizchick300x250/)
 
 **DoubleClick DART Cookie**  
 .:: Google, as a third party vendor, uses cookies to serve ads on www.bizchickblogs.com.  
