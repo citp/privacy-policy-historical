@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pitneybowessmallbusiness.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622074442id_/http%3A//www.pitneybowessmallbusiness.com/about-us/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pitneybowessmallbusiness.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812015459id_/http%3A//www.pitneybowessmallbusiness.com/about-us/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement for Pitney Bowes Small Business
 
