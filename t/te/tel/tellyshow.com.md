@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tellyshow.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128193138id_/http%3A//www.tellyshow.com/2011/11/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tellyshow.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811142023id_/http%3A//www.tellymoon.com/2011/11/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This privacy policy is applicable to any personal information which is given by you to TellyShow via the TellyShow website located at www.tellyshow.com.
+This privacy policy is applicable to any personal information which is given by you to TellyShow via the TellyShow website located at www.tellymoon.com.
 
 When using the TellyShow website you will encounter areas such as polls, newsletter sign-ups, chatbox or comment areas where you may be asked to enter user information.
 
