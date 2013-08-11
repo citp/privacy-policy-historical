@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desura.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502135812id_/http%3A//www.desura.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desura.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812014212id_/http%3A//www.desura.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Desura | Desura
 
@@ -6,7 +6,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 ## The Information We Collect
 
-This notice applies to all information collected or submitted on any Desura page. On some pages you can purchase content, purchase advertising, make requests and register / win competitions to receive materials. The types of personal information collected at these pages are:
+This notice applies to all information collected or submitted on any [Desura Pty Ltd](http://www.desura.com/) ("Desura") run website. On some pages you can purchase content, purchase advertising, make requests and register / win competitions to receive materials. The types of personal information collected at these pages are:
 
   * Name
   * Address
@@ -19,7 +19,9 @@ This notice applies to all information collected or submitted on any Desura page
 
 ## The Way We Use Information
 
-We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order. We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order. We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. You can register with our website if you would like to receive our catalog as well as updates on our new products and services.
+We use the information you provide about yourself when placing an order only to complete that order. We do not (subject to the exception relating to DBolical Pty Ltd outlined below) share this information with outside parties except to the extent necessary to complete that order. We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order. We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. You can register with our website if you would like to receive our catalog as well as updates on our new products and services.
+
+Personal information you provide to us (excluding any credit/debit card information) is provided to DBolical Pty Ltd ACN 122 053 276 ("DBolical"), which owns and operates community based websites relating to the online gaming community, for the purpose of DBolical being able to provide you with updates and information relating to its activities.
 
 ## Disclosing Information
 
@@ -53,4 +55,4 @@ You can [contact us](http://www.desura.com/contact) if you would like your accou
 
 Should you have other questions or concerns about these privacy policies, please contact Desura at [contact us](http://www.desura.com/contact).
 
-Last Updated: June 22, 2010, our [privacy policy](https://web.archive.org/terms-of-use) can be found here.
+Last Updated: June 27, 2013, our [terms of use](https://web.archive.org/terms-of-use) can be found here.
