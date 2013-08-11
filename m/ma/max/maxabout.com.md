@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxabout.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622005836id_/http%3A//www.maxabout.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxabout.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811154700id_/http%3A//www.maxabout.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # MaxAbout.com Privacy Policy
 
@@ -22,6 +22,22 @@ MaxAbout.com collects information about your transactions with us and with some 
 MaxAbout.com automatically receives and records information on our server logs from your browser, including your IP address, MaxAbout.com cookie information, and the page you request. 
 
 MaxAbout.com uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients. 
+
+**Information Collected About You**
+
+We may collect “Non-Personal Information” – information that cannot be used to identify you – via Cookies, even if you have not registered with or provided any Personal Information to Publisher Name. 
+
+**What Choices Do I Have?**
+
+Most browser software can be set to reject Cookies, and you can opt out of Cookies for several Ad Servers by visiting the Network Advertising Initiative gateway opt-out site. 
+
+**How Information Collected About You Is Used?**
+
+Third parties may use Non-Personal Information in order to display advertising that reflects the interests and preferences of our user community.
+
+**Use of Site Browsing History**
+
+By using Maxabout.com you consent to collection, storage, and use of your browsing history on this website. We share this information with trusted 3rd parties that use it to show you marketing communications of interest only. While no Personally Identifiable Information is shared, we respect your right to privacy hence this transparent disclosure. In addition, we respect your right to opt out. If you want to opt out from this program, please click on the link below and select the appropriate option on the destination page – [Opt Out Page](http://www.adobe.com/in/privacy/opt-out.html?button=Opt-Out). In addition, most setup your browser software to reject 3rd party cookies. In addition, you can opt out of several similar programs by visiting the [Network Advertising Initiative](http://www.networkadvertising.org/choices/) gateway opt-out site.
 
 **Children**
 
