@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optimizely.com privacy policy that was archived on 2013-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130428022232id_/https%3A//www.optimizely.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optimizely.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811214933id_/https%3A//www.optimizely.com/privacy) for the most accurate reproduction.*
 
 # Optimizely: Privacy Policy
 
@@ -49,7 +49,14 @@ We use cookies, clear gifs, and log file information to: (a) monitor the effecti
 
 **What happens in the event of a change of control:** We may buy or sell/divest/transfer the company (including any shares in the company), or any combination of its products, services, assets and/or businesses. Your information such as customer names and email addresses, and other User information related to the Service may be among the items sold or otherwise transferred in these types of transactions. We may also sell, assign or otherwise transfer such information in the course of corporate divestitures, mergers, acquisitions, bankruptcies, dissolutions, reorganizations, liquidations, similar transactions or proceedings involving all or a portion of the company.
 
-**Ads:** We use Remarketing with Google Analytics to advertise online. In connection with this advertising, we, along with third-party business partners, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) to allow our third-party business partners, including Google, ad servers, and ad networks, to serve you advertisements (“ads”) based on your prior visits to our Service. These ads are delivered to you on third-party websites and services across the Internet. These third-party business partners use technology to send, directly to your browser or mobile device, the ads and ad links that appear on third-party sites, and will automatically receive your IP address when they do so. Along with cookies, they may also use other technologies (such as JavaScript, device identifiers, location data, and clear gifs, see above) to compile information about your browser’s or device’s visits and usage patterns on the Service, and to measure the effectiveness of their ads and to optimize and personalize the advertising content. Optimizely does not sell, rent, or share the information we collect directly from you or about you from third parties with these third-party business partners for such parties’ own marketing purposes. You may opt out of the DoubleClick cookie by visiting the Google advertising opt-out page or you may opt out of Google Analytics by visiting the Google Analytics opt-out page. Google has additional information available about their Remarketing Privacy Guidelines, Policies, and Restrictions.
+**Ads:** We use Remarketing with Google Analytics to advertise online. In connection with this advertising, we, along with third-party business partners, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) to allow our third-party business partners, including Google, ad servers, and ad networks, to serve you advertisements (“ads”) based on your prior visits to our Service. These ads are delivered to you on third-party websites and services across the Internet. These third-party business partners use technology to send, directly to your browser or mobile device, the ads and ad links that appear on third-party sites, and will automatically receive your IP address when they do so. Along with cookies, they may also use other technologies (such as JavaScript, device identifiers, location data, and clear gifs, see above) to compile information about your browser’s or device’s visits and usage patterns on the Service, and to measure the effectiveness of their ads and to optimize and personalize the advertising content. Optimizely does not sell, rent, or share the information we collect directly from you or about you from third parties with these third-party business partners for such parties’ own marketing purposes. You may opt out of the DoubleClick cookie by visiting the [Google advertising opt-out page](https://www.google.com/settings/ads/onweb/) or you may opt out of Google Analytics by visiting the Google Analytics opt-out page. Google has additional information available about their Remarketing Privacy Guidelines, Policies, and Restrictions.
+
+#### Opt out of Optimizely remarketing
+
+Optimizely's remarketing opt-out tool uses cookies and will only opt out the specific computer you are on.
+
+You are opted out of Optimizely's remarketing campaigns.  
+[Click here to opt out of all Google remarketing.](https://www.google.com/settings/ads/onweb/)
 
 The Optimizely Privacy Policy does not apply to, and we cannot control the activities of, third-party ad servers and ad networks. Please contact or consult the respective privacy policies of such ad servers or ad networks for more information.
 
@@ -90,5 +97,5 @@ If we change our privacy policies and procedures materially, we will post those 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this website, please contact us at [support@optimizely.com](mailto:support@optimizely.com), or send mail to:
 
 Optimizely, Inc.   
-55 New Montgomery Street, 8th floor   
+631 Howard Street, Suite 100  
 San Francisco, CA 94105
