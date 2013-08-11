@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostica.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425140925id_/https%3A//www.hostica.com/support/Knowledgebase/Article/View/274/62/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostica.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811075143id_/https%3A//www.hostica.com/support/Knowledgebase/Article/View/274/62/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Powered by Kayako Fusion Help Desk Software
 
