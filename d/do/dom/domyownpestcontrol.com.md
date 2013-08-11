@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domyownpestcontrol.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605102400id_/http%3A//www.domyownpestcontrol.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domyownpestcontrol.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811095735id_/http%3A//www.domyownpestcontrol.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - DoMyOwnPestControl.com
 
@@ -7,12 +7,12 @@
 
 ### Testimonial
 
-**10/28/2011**
+**04/10/2012**
 
-"I discovered DoMyOwnPestControl.com just at the perfect time to deal with some brown recluse spiders. The sticky traps arrived very quickly and now I have them all over the house. The traps were very well protected for shipping and no wasteful packaging either. The whole transaction to order what I ..."
+"I was very impressed with the website and suggested products after you add to the cart. I purchased a $57.00 sprayer that I would have forgotten about, an add on sale for you and a satisfied customer, can't beat that!"
 
-**Jonathan Garcia**  
-Guerneville, CA 
+**Bryan**  
+Kiel, WI 
 
 [More Testimonials](http://www.domyownpestcontrol.com/testimonials.php) »
 
