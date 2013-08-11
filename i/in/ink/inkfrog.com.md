@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inkfrog.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511041409id_/http%3A//www.inkfrog.com/index.php/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inkfrog.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811203031id_/https%3A//inkfrog.com/index.php/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | About Us | inkFrog
+# Free eBay lister and manager - eBay templates, scheduling, automation, shipping, and more
 
 When you use inkFrog's services we track your activity on our website. Your personal information is used to identify you in our system allowing inkFrog to interact with eBay on your behalf. We also track your Internet Protocol (IP) address, domain name (if applicable), browser type, and utilize cookies with a duration. inkFrog uses this information to administer the site and to further improve the service to better suit you.
 
