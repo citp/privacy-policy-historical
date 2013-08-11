@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herrschners.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601064228id_/http%3A//www.herrschners.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herrschners.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811235607id_/http%3A//www.herrschners.com/privacy.aspx) for the most accurate reproduction.*
 
 # Herrschners - Quality Crafts Since 1899
 
