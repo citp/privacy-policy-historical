@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ewedding.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116041423id_/http%3A//www.ewedding.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ewedding.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811061633id_/http%3A//www.ewedding.com/privacy.php) for the most accurate reproduction.*
 
 # eWedding.com | Privacy Policy
 
@@ -8,7 +8,7 @@ Our Privacy Policy was developed as an extension of our commitment to combine qu
 
 This privacy statement applies to the website of eWedding.com:
 
-Launchpad Web Development  
+Swing Industries, Inc.  
 eWedding.com  
 Box 158  
 Wyoming, ON  
@@ -19,7 +19,7 @@ support@ewedding.com
 
 ### Registration and Setup Forms
 
-eWedding.com registration and website setup forms may require users to give us contact information, such as name and email address. Contact information from the registration and setup forms is used to setup your wedding website services or provide technical support. The customer's contact information is also used to get in touch with the customer when necessary. We do not share names or e-mail address' outside Launchpad Web Development.
+eWedding.com registration and website setup forms may require users to give us contact information, such as name and email address. Contact information from the registration and setup forms is used to setup your wedding website services or provide technical support. The customer's contact information is also used to get in touch with the customer when necessary. We do not share names or e-mail address' outside Swing Industries, Inc.
 
 ### Billing and Credit Card Information
 
@@ -29,7 +29,7 @@ We trust the privacy and security of our payment processor Chase Paymentech. [Vi
 
 ### Access to Your Information
 
-Launchpad Web Development is the sole entity with access to any information collected during signup and the formation of your wedding website. Of the information we do collect, users have access to it via their wedding website's [control panel](https://web.archive.org/setup).
+Swing Industries, Inc. is the sole entity with access to any information collected during signup and the formation of your wedding website. Of the information we do collect, users have access to it via their wedding website's [control panel](https://web.archive.org/setup).
 
 ### What is a 'Cookie'?
 
@@ -45,22 +45,22 @@ You may be able to access other websites through our site. When you do so you ar
 
 ### Sharing Information with Advertisers or Other Third Parties
 
-We do not share any personal information with any parties outside Launchpad Web Development. Including names and e-mail address'. While we may contact you if you have opted to receive news and updates, all correspondance is sent through eWedding.com and no others.
+We do not share any personal information with any parties outside Swing Industries, Inc. Including names and e-mail address'. While we may contact you if you have opted to receive news and updates, all correspondence is sent through eWedding.com and no others.
 
 ### Sharing Information with the Government or As Otherwise Required by Law
 
 You agree that You have the needed and required rights and permissions on all content uploaded to Your wedding website. Files such as music, photos, videos and other, must be accompanied by permission in writing from current copyright or license holder(s). Upon notification and proof of copyright infringement, Your account and or website may be suspended or terminated.
 
-You may opt out of any eWedding.com e-mails containg newly added features, news and Sponsor offers by unchecking the 'Site Updates' checkbox in the [Control Panel](https://web.archive.org/setup).
+You may opt out of any eWedding.com e-mails containing newly added features, news and Sponsor offers by unchecking the 'Site Updates' checkbox in the [Control Panel](https://web.archive.org/setup).
 
 ### Questions, Comments, Contact
 
-If you have any questions, comments or concerns with the privacy of your information collected by Launchpad Web Development, please contact us with the info at the top of this page.
+If you have any questions, comments or concerns with the privacy of your information collected by Swing Industries, Inc., please contact us with the info at the top of this page.
 
-> eWedding.com is AWESOME! We were able to communicate our wedding plans with our family and friends by creating a centralized website with loads of information. I am definitely ordering a keepsake cd after the wedding to keep as a souvenir! 
+> As someone who does web design for a living this is by far the perfect solution to not only organizing your wedding for your guest but also sharing your story. 
 > 
-> Mina and Robert  
-> NJ, USA
+> Julie & Christopher  
+> Atlanta, Georgia
 
   
 [Start your free wedding website](https://web.archive.org/setup/signup.php)
