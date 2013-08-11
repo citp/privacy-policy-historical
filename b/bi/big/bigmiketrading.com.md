@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigmiketrading.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510130922id_/http%3A//www.bigmiketrading.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigmiketrading.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811033908id_/https%3A//www.bigmiketrading.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Big Mike Trading Forum
 
@@ -58,4 +58,4 @@ Should our privacy policy change, notification will be posted on our Website. If
 
 If you have any questions in regard to this Agreement, please contact us:
 
-By using this site, you are agreeing to the [Disclaimers, Terms of Use and Terms and Conditions](http://www.bigmiketrading.com/disclaimer/) as well as our [Privacy Policy](http://www.bigmiketrading.com/privacy/).
+By using this site, you are agreeing to the [Disclaimers, Terms of Use and Terms and Conditions](https://www.bigmiketrading.com/disclaimer/) as well as our [Privacy Policy](https://www.bigmiketrading.com/privacy/).
