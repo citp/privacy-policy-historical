@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the rollip.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509200222id_/http%3A//www.rollip.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rollip.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811085433id_/http%3A//www.rollip.com/privacy) for the most accurate reproduction.*
 
 # Rollip - Online Photo Effects
 
 For users who might be concerned about losing rights on the images uploaded to our site: **You retain ownership of all images uploaded to Rollip**. We do not 'grab' the ownership from you; what is yours will stay yours. 
 
+All processed photos are private by default and not visible to anyone else except yourself.
+
 Rollip respects your privacy and works hard to protect your personal information. We want you to understand how we may collect, store, use and protect any personal information. We will not share your information with anyone except as described in this Privacy Policy. When you downloaded our software in order to use our services you agreed to accept this policy. We may change this policy at any time. We will post notifications of revised versions of our policy on our website, and revised policies will be immediately effective. Throughout this Privacy Policy, we will refer to our website, software, and services collectively as the “Service.” Please note, this Privacy Policy does not apply to information we collect by other means than your use of the Service (including offline) or from other sources.
 
 ### What information do we collect?
 
-Nyana ("Rollip", "we," "us," "our") collects information from you when you register on our site or place an order.
+Monon B.V. ("Rollip", "we," "us," "our") collects information from you when you register on our site or place an order.
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or credit card information. You may, however, visit our site anonymously.
 
