@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestyoutubeproxy.info privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611122531id_/http%3A//bestyoutubeproxy.info/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestyoutubeproxy.info privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812023454id_/http%3A//bestyoutubeproxy.info/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy For Bestyoutubeproxy.info
 
