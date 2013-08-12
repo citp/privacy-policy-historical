@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ddiworld.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531133547id_/http%3A//www.ddiworld.com/privacy/default%3Fid%3Den-us) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ddiworld.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812131415id_/http%3A//www.ddiworld.com/privacy/default%3Fid%3Den-us) for the most accurate reproduction.*
 
 # Development Dimensions International's Privacy Statement in English | DDI
 
