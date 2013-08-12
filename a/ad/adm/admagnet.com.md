@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the admagnet.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502101329id_/http%3A//admagnet.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the admagnet.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812224711id_/http%3A//admagnet.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | AD MAGNET
 
