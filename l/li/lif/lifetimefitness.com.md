@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifetimefitness.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501070805id_/http%3A//www.lifetimefitness.com/security_and_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifetimefitness.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812023614id_/http%3A//www.lifetimefitness.com/security_and_privacy) for the most accurate reproduction.*
 
 # Life Time Fitness - The Healthy Way of Life Company
 
