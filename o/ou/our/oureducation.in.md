@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oureducation.in privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010232719id_/http%3A//www.oureducation.in/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oureducation.in privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812071105id_/http%3A//www.oureducation.in/privacy_policy.php) for the most accurate reproduction.*
 
-# Our Education || About Us
+# Our Education || Privacy policy
 
 ## Privacy Policy 
 
