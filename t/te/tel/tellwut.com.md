@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tellwut.com privacy policy that was archived on 2013-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130124093425id_/http%3A//www.tellwut.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tellwut.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812153128id_/http%3A//www.tellwut.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tellwut.com
 
@@ -6,7 +6,7 @@
 
 Tellwut Corp. (“TW”) is a Canadian company and the owner of [www.tellwut.com](http://www.tellwut.com/), a social networking  site (the “Site”), which allows users to post surveys, answer surveys, refer friends to the Site to similarly post and answer surveys, and provide certain personal information about themselves all while earning rewards that can be redeemed for merchandise.  It also allows businesses to participate in a variety of fee-based programs regarding the posting of surveys and the collection of survey data.
 
-This **_Privacy Policy_** (“Policy”) and the **_Terms and Conditions_** contain important details about registration and participation in the Site and the TW Rewards Program. Please read them carefully.  This Policy was last modified on: December 6, 2011.  
+This **_Privacy Policy_** (“Policy”) and the **_Terms and Conditions_** contain important details about registration and participation in the Site and the TW Rewards Program. Please read them carefully.  This Policy was last modified on: March 19, 2013.  
 
 Any modifications to the Policy will be posted on the Site, so you should check the "last modified" date of the Policy periodically. The online version of the Policy is the governing version.
 
@@ -49,7 +49,7 @@ TW may use your personal information in the following ways:
   * For TW’s internal purposes, such as to identify website usage trends, for audits, to enhance our website and address problems, to track compliance with the Site’s Terms and Conditions, and to protect the security and integrity of the Site.
   * To contact you regarding your transactions with us, such as survey approval or disapproval, billing problems associated with Business Member accounts or shipping problems associated with rewards for Voter Members.
   * To send you emails related to the Program that are administrative, for example, emails about your account (“Program Emails”).
-  * With your consent, to send you promotional emails about the products and services available as part of the Program and surveys from our Business Members (“Surveys and Promotional Emails”).
+  * With your consent, to send you promotional emails about the products and services available as part of the Program, surveys from our Business Members and Third Party Surveys (“Surveys and Promotional Emails”).
   * Voter Members may also send surveys from the Site to email addresses in their possession.  On sending these surveys, the recipient of the survey will see the Voter Member’s name and email address.
 
 
@@ -62,13 +62,13 @@ No. Your Account Information is not disclosed to Business Members who send you s
 
 TW does not sell, trade, or otherwise transfer outside the Site personal information that Members provide in ways different from what is disclosed in this Policy. The Site would include any successor in title or a future owner of the business. 
 
-TW may allow authorized third party service providers access to personal information collected though the Site to perform services on our behalf. TW’s service providers are required to provide appropriate protection for all personal information and to limit their use of such information to providing services on TW’s behalf. These service providers may be in another country, such as the United States, and the personal information may be subject to disclosure in accordance with the applicable laws of that jurisdiction, which may create a different privacy regime from your country of residence.
+TW may allow authorized third party service providers access to personal information collected though the Site to perform services on our behalf, including personal information required for reward redemption. TW’s service providers are required to provide appropriate protection for all personal information and to limit their use of such information to providing services on TW’s behalf. These service providers may be in another country, such as the United States, and the personal information may be subject to disclosure in accordance with the applicable laws of that jurisdiction, which may create a different privacy regime from your country of residence.
 
 In addition, TW may be required to disclose personal information collected through the Site to: (1) satisfy or comply with any law, regulation or other governmental or law enforcement request; (2) protect our or any other person’s rights, privacy or safety; (3) protect against fraud or other illegal activity; (4) allow us to pursue remedies or limit damages that we may sustain in a legal action; or (5) enforce the Terms.
 
 **What information will other visitors to the Site be able to see?**
 
-Remember, your responsesto a survey will not be individually identifiable or publicly disclosed (see “Do Business Members receive my personal information connected with my survey responses?” above). However, any Voter Member’s User Names and Business Members names are associated with any surveys or comments that they post on the Siteand can be seen by visitors to the site. 
+Remember, your responses to a survey will not be individually identifiable or publicly disclosed (see “Do Business Members receive my personal information connected with my survey responses?” above). However, any Voter Member’s User Names and Business Members names are associated with any surveys or comments that they post on the Site and can be seen by visitors to the site. 
 
 Voter Members within the Site will be able to see another Voter Member’s country along with state/province if the Voter Member has provided the Site with this information.  Voter Members will also be able to see another Voter Member’s User Name or Business Member’s name associated with any surveys or comments, as well as their profile pictures
 
