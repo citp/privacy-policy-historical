@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coastal24.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015205516id_/https%3A//www.coastal24.com/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coastal24.com privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813005927id_/https%3A//www.coastal24.com/privacy/index.htm) for the most accurate reproduction.*
 
 # COASTAL - Privacy Form
 
