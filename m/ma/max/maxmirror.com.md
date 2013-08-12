@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxmirror.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508212348id_/http%3A//www.maxmirror.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxmirror.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812145102id_/http%3A//www.maxmirror.com/privacy_policy.php) for the most accurate reproduction.*
 
 # maxmirror.com - Upload Files,Games,Video,Music,Mp3,Film to multiple hosts
 
