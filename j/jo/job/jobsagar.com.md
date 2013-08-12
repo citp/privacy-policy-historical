@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsagar.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613083734id_/http%3A//jobs.jobsagar.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsagar.com privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813001257id_/http%3A//jobs.jobsagar.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Jobsagar.com - Privacy Policy
 
