@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intertrader.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512210932id_/http%3A//www.londoncapitalgroup.com/sites/default/files/legal/Data_Protection_and_Privacy_Policy_October_2011.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intertrader.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812214540id_/http%3A//www.londoncapitalgroup.com/sites/default/files/legal/Data_Protection_and_Privacy_Policy_October_2011.pdf) for the most accurate reproduction.*
 
 # Data Protection and Privacy Policy
 
