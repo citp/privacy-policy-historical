@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the johnlewis.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627060830id_/http%3A//www.johnlewis.com/customer-services/security-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the johnlewis.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812104400id_/http%3A//www.johnlewis.com/customer-services/security-privacy) for the most accurate reproduction.*
 
 # Security & privacy
 
