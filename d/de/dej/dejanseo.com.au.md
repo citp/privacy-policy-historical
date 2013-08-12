@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dejanseo.com.au privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501220900id_/http%3A//privacy-policy.truste.com/verified-policy/dejanseo.com.au) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dejanseo.com.au privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812162140id_/http%3A//privacy-policy.truste.com/verified-policy/dejanseo.com.au) for the most accurate reproduction.*
 
 # Privacy Policy for dejanseo.com.au
 
