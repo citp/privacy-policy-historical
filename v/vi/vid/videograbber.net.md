@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videograbber.net privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509073050id_/http%3A//www.videograbber.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videograbber.net privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812131030id_/http%3A//www.videograbber.net/privacy-policy) for the most accurate reproduction.*
 
 # Video Grabber Privacy Policy
 
