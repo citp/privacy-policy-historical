@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scottsbasslessons.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601001700id_/http%3A//scottsbasslessons.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scottsbasslessons.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812110701id_/http%3A//scottsbasslessons.com/privacy) for the most accurate reproduction.*
 
 # Terms & Conditions - Privacy & Delivery Policies
 
