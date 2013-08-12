@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the meetpenny.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619160443id_/http%3A//www.meetpenny.com/about-penny/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meetpenny.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812063024id_/http%3A//www.meetpenny.com/about-penny/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+###### Posts on this website may contain affiliate links. For more information, please read [my disclosure policy](http://wp.me/P23eWw-1L2). Thank you for your support of this website and our family.
 
 [](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.meetpenny.com%2Fabout-penny%2Fprivacy-policy%2F&media=&description=Privacy%20Policy) |   
 ---|---  
