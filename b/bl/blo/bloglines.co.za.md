@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloglines.co.za privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602040918id_/http%3A//bloglines.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloglines.co.za privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812170227id_/http%3A//bloglines.co.za/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BlogLines Africa
 
