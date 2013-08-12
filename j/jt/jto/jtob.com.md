@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jtob.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508033211id_/http%3A//directory.jtob.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jtob.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812055046id_/http%3A//directory.jtob.com/privacy.html) for the most accurate reproduction.*
 
 # Free Web Directory - JTOB.com
 
