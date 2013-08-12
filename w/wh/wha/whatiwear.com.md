@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatiwear.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503185410id_/http%3A//www.whatiwear.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatiwear.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812105608id_/http%3A//www.whatiwear.com/privacy) for the most accurate reproduction.*
 
 # PRIVACY | WhatIWear.com
 
@@ -22,36 +22,3 @@ WhatIWear.com (hereafter "WhatIWear") has developed this Privacy Policy ("Policy
 
 
 
-
-  * PEOPLE SEARCH
-    * __   Location
-    * __   Gender
-  * LOOK SEARCH
-    * __   Category
-    * __   Brand
-    * __   Color
-  * TREND SEARCH
-    * __   Season
-    * __   Year
-
-
-
-KEYWORD/
-
-LOCATION/
-
-GENDER/
-
-CATEGORY/
-
-BRAND/
-
-COLOR/
-
-SEASON/
-
-RELATION/
-
-YEAR/
-
-SEARCH
