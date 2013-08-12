@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thatagency.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507092710id_/http%3A//www.thatagency.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thatagency.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812133829id_/http%3A//www.thatagency.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - THAT Agency
 
