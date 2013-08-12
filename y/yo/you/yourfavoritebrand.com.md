@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourfavoritebrand.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606102045id_/http%3A//yourfavoritebrand.com/info.htm%3Ftp%3Dprivacy%26promo_name%3D2808name%26catalog_id%3D19890%26gift%3D71) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourfavoritebrand.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812170455id_/http%3A//yourfavoritebrand.com/info.htm%3Ftp%3Dprivacy%26promo_name%3D2808name%26catalog_id%3D19890%26gift%3D71) for the most accurate reproduction.*
 
 # Yourfavoritebrand
 
