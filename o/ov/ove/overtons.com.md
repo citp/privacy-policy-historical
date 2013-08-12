@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the overtons.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614225326id_/http%3A//www.overtons.com/customer-service/policies/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the overtons.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812133726id_/http%3A//www.overtons.com/customer-service/policies/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy | Customer Service | Overton’s - Free Shipping Over $50 | Guaranteed Lowest Prices.
 
