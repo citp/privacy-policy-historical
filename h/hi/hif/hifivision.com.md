@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hifivision.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423203837id_/http%3A//www.hifivision.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hifivision.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812135953id_/http%3A//www.hifivision.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - HiFiVision.com - Audio Video Hi-Fi Forum
 
@@ -13,17 +13,12 @@ Hello and Welcome to **www.HiFiVision.com** \- an online discussion forum for th
 
 The objective of this forum is to provide a platform for all audio and video enthusiasts to share, discuss and express their views, opinions and experience in Audio Video Home Threate Consumer Electronics and Hi-Fi with one another. It does not matter if you are novice or a veteran, enjoy music or movies, swear by horn speakers or tube amplifiers, LCD or Plasma, at HiFiVision.com we all share one common goal and that is to enhance our audio/visual and/or listening/viewing experience.
 
-If this is your first time here please register yourself. Registration is fast, simple and absolutely **free** so please, [**join our community today**](https://web.archive.org/web/20130423203837id_/http%3A//www.hifivision.com/register.php)! 
+If this is your first time here please register yourself. Registration is fast, simple and absolutely **free** so please, [**join our community today**](https://web.archive.org/web/20130812135953id_/http%3A//www.hifivision.com/register.php)! 
 
 If you have any problems with the registration process or your account login, please read the [FAQ](http://www.hifivision.com/faq.php?faq=vb_faq#faq_help_for_new_users).  
   
   
-
-
-  
-[Advertise Here](http://www.hifivision.com/ads/index.php?loc=view_adrates&uid=100000)
-
-Privacy Policy  
+[Advertise Here](http://www.hifivision.com/ads/index.php?loc=view_adrates&uid=100000) Privacy Policy  
 ---  
   
   * www.HiFiVision.com recognizes that you care about the personal information that is held about you and how that is used.
@@ -39,5 +34,10 @@ Privacy Policy
 
   
   
+  
+[Advertise Here](http://www.hifivision.com/ads/index.php?loc=view_adrates&uid=100000)
+
+All times are GMT +5.5. The time now is 07:29 PM.
+
   
 
