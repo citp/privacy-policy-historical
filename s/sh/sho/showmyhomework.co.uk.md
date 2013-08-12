@@ -1,11 +1,15 @@
-> *The following text is extracted and transformed from the showmyhomework.co.uk privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213140719id_/http%3A//www.showmyhomework.co.uk/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showmyhomework.co.uk privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812222920id_/https%3A//beta.showmyhomework.co.uk/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Show My Homework (Free Online School Homework Calendar)
+# Privacy Policy - Homework Calendar To Track Homework, Monitor Homework from Show My Homework
+
+## Privacy Policy
+
+## Privacy Policy
 
 We collect e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). We only use the information we collect about you lawfully (in accordance with the Data Protection Act 1988). We aim to safeguard the privacy of all our users while providing a high quality of personal customer service. The information we collect is used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or under the following circumstances:
 
   * It is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Terms of Service, or as otherwise required by law.
-  * We transfer information about you if Teacher Centric or Show My Homework is acquired by or merged with another company. In this event, Teacher Centric will notify you before information about you is transferred and becomes subject to a different privacy policy.
+  * We transfer information about you if Teacher Centric is acquired by or merged with another company. In this event, Teacher Centric will notify you before information about you is transferred and becomes subject to a different privacy policy.
 
 
 
@@ -42,4 +46,4 @@ Teacher Centric may periodically update this policy. We will notify you about si
 
 ## QUESTIONS
 
-Any questions about this Privacy Policy should be addressed to [help@showmyhomework.co.uk](mailto:help@showmyhomework.co.uk?subject=Questions%20about%20Privacy%20Policy) or by writing to us at: Teacher Centric Ltd, Holywell House, Wanstead, London E11 2AL.
+Any questions about this Privacy Policy should be addressed to help@showmyhomework.co.uk or by writing to us at: TeacherCentric Ltd, 152 Sheerstock, Haddenham, Aylesbury Bucks, HP17 8EX
