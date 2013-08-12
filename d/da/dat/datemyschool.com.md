@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datemyschool.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116193946id_/https%3A//datemyschool.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datemyschool.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812045940id_/https%3A//datemyschool.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy * DMS
 
@@ -105,7 +105,7 @@ If you have an online account with us, you have the ability to review and update
 
 **How we protect your personal information**
 
-We take appropriate security measures (including physical, electronic and procedural measures) to help safeguard your personal information from unauthorized access and disclosure. We want you to feel confident using our website to transact business. However, no system can be completely secure. Therefore, although we take steps to secure your information, we do not promise, and you should not expect, that your personal information, searches, or other communications will always remain secure. Users should also take care with how they handle and disclose their personal information and should avoid sending personal information through insecure email. Please refer to the Federal Trade Commission's website at [_https://www.ftc.gov/bcp/menus/consumer/data.shtm_](https://www.ftc.gov/bcp/menus/consumer/data.shtm)  for information about how to protect yourself against identity theft.
+We take appropriate security measures (including physical, electronic and procedural measures) to help safeguard your personal information from unauthorized access and disclosure. We want you to feel confident using our website to transact business. However, no system can be completely secure. Therefore, although we take steps to secure your information, we do not promise, and you should not expect, that your personal information, searches, or other communications will always remain secure. Users should also take care with how they handle and disclose their personal information and should avoid sending personal information through insecure email. Please refer to the Federal Trade Commission's website at [_http://www.ftc.gov/bcp/menus/consumer/data.shtm_](http://www.ftc.gov/bcp/menus/consumer/data.shtm)  for information about how to protect yourself against identity theft.
 
 **Information you provide about yourself while using our service**
 
