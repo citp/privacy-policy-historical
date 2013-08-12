@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sawaal.com privacy policy that was archived on 2013-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130120003022id_/http%3A//www.sawaal.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sawaal.com privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813005939id_/http%3A//www.sawaal.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - Interview Questions and Answers
+# Privacy Policy
 
 ### What information do we collect?
 
@@ -8,7 +8,7 @@ We collect information from you when you register on our site.
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: email address. You may, however, visit our site anonymously. 
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.. 
+Google, as a third party vendor, uses cookies to serve ads on the site. Google's use of the DART cookie enables it to serve ads to users based on their visit to the sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.. 
 
 ### What do we use your information for?
 
@@ -22,13 +22,13 @@ Note: If at any time you would like to unsubscribe from receiving future notific
 
 ### How do we protect your information?
 
-We implement a variety of security measures to maintain the safety of your personal information when you access your personal information. 
+We implement a variety of security measures to maintain the safety of your personal information when you access our site. 
 
 ### Do we use cookies?
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. 
 
-We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction, so that we can offer better site experiences and tools in the future. 
 
 ### Do we disclose any information to outside parties?
 
@@ -40,7 +40,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 ### Your Consent
 
-By using our site, you consent to our websites privacy policy. 
+By using our site, you consent to our websites' privacy policy. 
 
 ### Changes to our Privacy Policy
 
