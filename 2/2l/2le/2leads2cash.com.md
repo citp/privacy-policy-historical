@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2leads2cash.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603154141id_/http%3A//2leads2cash.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2leads2cash.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812174046id_/http%3A//www.2leads2cash.com/privacy.php) for the most accurate reproduction.*
 
 # 2Leads2Cash-
 
@@ -108,7 +108,7 @@ Any updates or changes to the terms of this Privacy Statement will be posted on 
 **YOUR USE OF OUR SITE MEANS THAT YOU ACCEPT THE PRACTICES SET FORTH IN THIS POLICY.** **YOUR CONTINUED USE INDICATES YOUR AGREEMENT TO THE CHANGES.**
 
   
-[](http://www.2leads2cash.com/trr.php?id=505)  
-[](http://www.2leads2cash.com/trr.php?id=293)  
+[](http://www.2leads2cash.com/trr.php?id=641)  
+[](http://www.2leads2cash.com/trr.php?id=297)  
   
 
