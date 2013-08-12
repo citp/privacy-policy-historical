@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dynamiclevels.com privacy policy that was archived on 2013-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130119054321id_/https%3A//www.dynamiclevels.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dynamiclevels.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812110821id_/https%3A//www.dynamiclevels.com/privacy-policy) for the most accurate reproduction.*
 
 # Share Analysis Tool, Technical Analysis of Stocks, Online Stock Market
 
