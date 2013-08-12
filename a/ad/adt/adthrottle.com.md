@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adthrottle.com privacy policy that was archived on 2013-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130110030517id_/http%3A//adthrottle.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adthrottle.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812145315id_/http%3A//www.adthrottle.com/page/privacy) for the most accurate reproduction.*
 
 # Deed Or Greed - Privacy Policy
 
