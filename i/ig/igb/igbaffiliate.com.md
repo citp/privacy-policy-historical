@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igbaffiliate.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525093559id_/http%3A//www.igbaffiliate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igbaffiliate.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812132939id_/http%3A//www.igbaffiliate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | iGBAffiliate
 
