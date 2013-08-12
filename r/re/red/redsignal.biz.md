@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redsignal.biz privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118130514id_/http%3A//www.redsignal.biz/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redsignal.biz privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812023228id_/http%3A//www.redsignal.biz/privacy-policy.php) for the most accurate reproduction.*
 
 # Offshore Outsourcing - Hire Offshore Programmers, Offshore Graphic Designers and Other Offshore Staff
 
