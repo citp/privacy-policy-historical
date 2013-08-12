@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the experts.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603060236id_/http%3A//www.experts.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experts.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812024001id_/http%3A//www.experts.com/Privacy) for the most accurate reproduction.*
 
 # Privacy
 
-[](https://web.archive.org/Resources/Detail?ID=172)
+[](https://web.archive.org/Resources/Detail?ID=8)
 
-[](https://web.archive.org/Resources/Detail?ID=432)
+[](https://web.archive.org/Resources/Detail?ID=454)
 
-J. Gregory Sidak
+Esam Z. Dajani, N.M. Agrawal
 
-[](https://web.archive.org/Resources/Detail?ID=236)
+[](https://web.archive.org/Resources/Detail?ID=429)
 
-Jean Seawright
+Erik Laykin
 
 ### Our Commitment To Privacy
 
