@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alldayout.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005145508id_/http%3A//alldayout.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alldayout.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812052909id_/http%3A//alldayout.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AllDayOut.com - AllDayOut, Video and full entertainment portal
 
