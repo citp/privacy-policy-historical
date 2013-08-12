@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solitaireparadise.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625051054id_/http%3A//www.solitaireparadise.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solitaireparadise.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812174641id_/http%3A//www.solitaireparadise.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Solitaire Paradise Privacy Policy
 
