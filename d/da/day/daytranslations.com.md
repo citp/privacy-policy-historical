@@ -1,47 +1,35 @@
-> *The following text is extracted and transformed from the daytranslations.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116103001id_/http%3A//daytranslations.com/Documents/Day_Translations_Privacy_policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daytranslations.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812020435id_/http%3A//www.daytranslations.com/Documents/Day_Translations_Privacy_policy.pdf) for the most accurate reproduction.*
 
 # Security & Privacy Policy
 
-                        Security & Privacy Policy
+                 Security & Privacy Policy
 Day Translations, Inc. Privacy Policy for Customers and Clients
-At Day Translations, Inc. we pledge to maintain the utmost respect and confidentiality for
-all of our client’s documents. Accordingly, Day Translations and all affiliates will use your
-personal information only for the following purposes:
+At Day Translations, Inc. we pledge to maintain the utmost respect and confidentiality for all of our
+client’s documents. Accordingly, Day Translations and all affiliates will use your personal information
+only for the following purposes:
 Our purpose in collecting personal information.
-We collect your personal information only for the purpose of invoicing you on your
-translation and sending you the final document. We do not store any of your personal
-information or redistribute it to any outside parties. We only use personal information to:
-     Contact you;
-     Deliver the services you request;
-     Develop and communicate special offers;
-     Provide customer service;
+We collect your personal information only for the purpose of invoicing you on your translation and
+sending you the final document. We do not store any of your personal information or redistribute it to
+any outside parties. We only use personal information to:
 What information we collect and how we collect it.
 The information we collect may include:
-     Contact information, phone numbers, service preferences, billing information, and
-        other information you provide when you do business with us.
-     Your location and industry.
+you provide when you do business with us.
 How we use personal information.
-     We do not sell or rent personal information to others.
-     We do not use cookies on your website.
-     We do not disclose personal information to non-Affiliates except in the instance
-        that you request us to do so.
+We do not sell or rent personal information to others.
+We do not use cookies on your website
+We do not disclose personal information to non-Affiliates except in the instance that you request us to
+do so.
 
 
 We take reasonable steps to protect your personal information.
-We maintain a database of only your contact information and your original documents
-and translated documents solely for the purpose of saving your files in case your need to
-refer back to them and for our accounting purposes.
+We maintain a database of only your contact information and your original documents and translated
+documents solely for the purpose of saving your files in case your need to refer back to them and for
+our accounting purposes.
 Modifications to our privacy policies.
-We reserve the right to change our privacy policies at any time, except as may be
-prohibited by law. We will post revisions online. Use of our services after posted changes
-means that you consent to the privacy policies as changed.
+We reserve the right to change our privacy policies at any time, except as may be prohibited by law.
+We will post revisions online. Use of our services after posted changes means that you consent to the
+privacy policies as changed.
 Contact us for more information about our privacy policies.
-If you have questions about our privacy policies, contact us at
-Contact@daytranslations.com
-Day Translations, Inc.,
-415 Madison Avenue
-New York City, NY 10017
-(212) 537-6123
-
-
-Revised Effective January 27, 2009
+If you have questions about our privacy policies, contact us at contact@daytranslations.com
+Day Translations, Inc., 415 Madison Avenue - 15th Floor New York, NY 10017
+Revised Effective July 24, 2013
