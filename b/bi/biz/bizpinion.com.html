@@ -1,60 +1,79 @@
-<!--The following is the downloaded HTML source of the bizpinion.com privacy policy that was archived on 2013-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130601092208id_/http%3A//bizpinion.com/pages/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bizpinion.com privacy policy that was archived on 2013-08-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130812060643id_/http%3A//bizpinion.com/pages/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US" class="no-js"><head>
-<title> Bizpinion</title>
-<meta name="keywords" content="">
-<meta name="description" content="">
-<base href="http://bizpinion.com/">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-<link rel="icon" href="favicon.ico" type="image/x-icon">
-<script type="text/javascript" src="js/jquery.js"></script>
-<script type="text/javascript" src="js/modernizr.prodesignz.js"></script>
-<!--[if lt IE 9]>	<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>	<![endif]-->	
-<link href="css/stylesheet.css" rel="stylesheet" type="text/css">
-<link href="css/shortcodes.css" rel="stylesheet" type="text/css">
-<link type="text/css" href="css/ui-lightness/jquery-ui-1.8.21.custom.css" rel="stylesheet">
-<script type="text/JavaScript" src="js/jquery-ui-1.8.21.custom.min.js"></script>
+<!DOCTYPE html><html lang="en-US"><head>
+        <title> Bizpinion</title>
+        <meta name="keywords" content="">
+        <meta name="description" content="">
+        <base href="http://bizpinion.com/">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <script type="text/javascript" src="js/jquery.js"></script>
+        <!--[if lt IE 9]><script src="js/html5shiv.js"></script>	<![endif]-->
+        <link href="css/stylesheet.css" rel="stylesheet" type="text/css">
+        <link href="css/shortcodes.css" rel="stylesheet" type="text/css">
+        <link type="text/css" href="css/ui-lightness/jquery-ui-1.8.21.custom.css" rel="stylesheet">
+        <script type="text/JavaScript" src="js/jquery-ui-1.8.21.custom.min.js"></script>
+        <script type="text/JavaScript" src="js/init_jq.js"></script>
+        <script type="text/JavaScript" src="js/ajax.js"></script>
+        <script type="text/javascript" src="js/thickbox.js"></script>
+        <link rel="stylesheet" href="css/thickbox.css" type="text/css" media="screen">
+    </head>
+    <body>
+                <header>
+            <div id="wrapper">
+    <a href="index.php" title="Bizpinion.com"><img src="images/logo.png" title="Bizpinion.com" alt="Bizpinion.com"></a>    
+            <div class="header_right"><table><tbody><tr><td>
 
-<link rel="stylesheet" href="css/validationEngine.jquery.css" type="text/css">
-<script src="js/jquery.validationEngine-en.js" type="text/javascript" charset="utf-8"></script>
-<script src="js/jquery.validationEngine.js" type="text/javascript" charset="utf-8"></script>
+            <form action="login.php?action=process" method="post" id="loginfrm">
+                <label>Member Login</label>
+                <input type="text" value="" placeholder="Email Address" class="textbox" id="login_email" name="login_email">
+                <input type="password" value="" placeholder="Password" class="textbox" id="login_pwd" name="login_pwd">
+                <input type="submit" class="button" value="Login">
+                <!--<img src="images/icon_fconnect.png" class="right" />-->
+            </form>
+            <a href="forgot_pwd.php" class="fpwd" title="Forgot Your Password">Forgot Your Password ?</a> 
+</td><td>
+            <div style="margin-top: -20px;">
+                <style type="text/css">
+    .styled-select select {
+        width: 140px;
+        font-size: 13px;
+        line-height: 1;
+        border: 0;
+        border-radius: 0;
+        height: 25px;
+        /*-webkit-appearance: none;padding: 5px;*/
+    }
+    .styled-select {
+        width: 140px;
+        height: 25px;
+        overflow: hidden;
+        border: 1px solid #ccc;
+    }
+</style>
 
-<script type="text/JavaScript" src="js/init_jq.js"></script>
-<script type="text/JavaScript" src="js/ajax.js"></script>
-
-<script type="text/javascript" src="js/thickbox.js"></script>
-<link rel="stylesheet" href="css/thickbox.css" type="text/css" media="screen">
-
-</head>
-<body>
-<header>
-	<script type="text/javascript">
-$(document).ready(function() {
-	jQuery("#loginfrm").validationEngine('attach', {promptPosition : "bottomLeft", scroll: false});
-});
+<script type="text/javascript">
+    $(document).ready(function() {
+        $('#languageid').change(function() {
+            this.form.submit();
+        });
+    });
 </script>
-	<div id="wrapper">
-		<a href="index.php" title="Bizpinion.com"><img src="images/logo.png" title="Bizpinion.com" alt="Bizpinion.com"></a>
-				<div class="header_right">
-			<form action="login.php?action=process" method="post" id="loginfrm">
-				<label>Member Login</label>
-				<input type="email" value="" placeholder="Email Address" class="validate[required,custom[email]] textbox" id="login_email" name="login_email" tabindex="100">
-				<input type="password" value="" placeholder="Enter Password" class="validate[required] textbox" id="login_pwd" name="login_pwd" tabindex="101">
-				<input type="submit" class="button" value="Login">
-				<!-- <img src="images/icon_fconnect.png" class="right" /> -->
-			</form>
-			<span id="lresponse"></span>
-			<a href="forgot_pwd.php" class="fpwd" title="Forgot Password ?">Forgot Your Password?</a>
-		</div>
-			</div>
-</header>
-<div id="wrapper">
-		<!-- Left Col BOF -->
-	<div class="home_left">
-		<h1>Privacy Policy</h1>
-		<p>&nbsp;</p>
+<form nam="languageselection" method="post" action="setcookie.php">
+    <div class="styled-select">
+        <select name="languageid" id="languageid" style="background: transparent;" class="" required=""><option value="1">English</option></select>        <input type="hidden" value="0" name="logincookie">
+        <input type="hidden" value="http://bizpinion.com/pages/privacy-policy/" name="curpage" id="curpage">
+    </div>
+</form>            </div></td>
+</tr></tbody></table>
+        </div>
+            
+</div>        </header>
+        <div id="wrapper">
+            <!-- Left Col BOF -->
+            <div class="home_left">
+                <h1>Privacy Policy</h1>
+                <p>&nbsp;</p>
 <p>&nbsp;</p>
 <h1 style="text-align: center;"><span style="color: #000000;"><span style="text-decoration: underline;"><span class="style2" style="font-size: medium;">PRIVACY POLICY</span></span></span></h1>
 <p align="center"><span style="color: #000000;"><strong><span style="font-size: small;">Last Modified 8/24/2012</span></strong></span></p>
@@ -138,19 +157,20 @@ $(document).ready(function() {
 </table>
 <p><span style="color: #000000;"><strong><br></strong></span></p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>	</div>
-	<!-- Left Col EOF -->
-	<!-- Right Col BOF -->
-		<div class="home_right">
-	<script type="text/javascript" src="js/ajax.js"></script>
+<p>&nbsp;</p>            </div>
+            <!-- Left Col EOF -->
+            <!-- Right Col BOF -->
+                            <div class="home_right">
+                    <script type="text/javascript" src="js/ajax.js"></script>
+<script type="text/javascript" src="js/jquery.validate.js"></script>
 
 <script type="text/javascript">
-$(document).ready(function() {
+    $(document).ready(function() {
 	$("#6").datepicker({ 
-		dateFormat: "yy-mm-dd",
-		defaultDate: "1970-01-01",		
+		dateFormat: "mm-dd-yy",
+		defaultDate: "01-01-1970",		
 		altField: "#adate",
-        altFormat: "yy-mm-dd",
+        altFormat: "mm-dd-yy",
 		showOn: "both", 
 		buttonImage: "js/calendar.gif", 
 		minDate: "-90y",
@@ -161,118 +181,509 @@ $(document).ready(function() {
 		buttonImageOnly: true
 	});
 	
-	jQuery("#register").validationEngine('attach', {promptPosition : "bottomLeft", scroll: false},
-	{'custom_error_messages' : {
-			'#emailvalidate' : {
-				'custom[min]': {	'message': "Please use valid email address, email address you provided is already in our database."	}
-			}
-		}
-	}
-	);
-	
-	$("#email_address").blur(function() {
-		var fldValue = $("#email_address").val();
-		chk_value("#email_address",fldValue,"email","panelist_master");
-	});
-});
-function chk_value(fldID, fldValue, fldName, tblName){
-	var url, retValue, errormsg;
-	$("label.error").remove();
-	url = "validate-field.php?fldValue="+fldValue+"&fldName="+fldName+"&tblName="+tblName;
-	retValue = callAjaxContent(url);
-	$("#email_address > label.error").hide();
-	if(retValue != 'Correct'){
-		//$(fldID).focus();
-		errormsg = '<label class="error" for="email_address" generated="true">'+retValue+'</label>';
-		$(errormsg).insertAfter($(fldID));
-		$('#emailvalidate').val("");
-	}else{
-		$('#emailvalidate').val("1");
-	}
-}
+        $("#email_address").blur(function() {
+            var fldValue = $("#email_address").val();
+            if(fldValue.length > 0){
+                chk_value("#email_address",fldValue,"email","panelist_master");
+            }
+        });
+
+        $("#register").validate({
+            rules: {
+                email_address: "required",
+                remail_address: {
+                    equalTo: "#email_address"
+                }
+            }
+        });
+    });
+    function chk_value(fldID, fldValue, fldName, tblName){
+        var url, retValue, errormsg;
+        $("label.error").remove();
+        url = "validate-field.php?fldValue="+fldValue+"&fldName="+fldName+"&tblName="+tblName;
+        retValue = callAjaxContent(url);
+        if(retValue != 'Correct'){
+            //$(fldID).focus();
+            errormsg = '<label class="error" for="email_address" id="error-email-address" generated="true">'+retValue+'</label>';
+            $(errormsg).insertAfter($(fldID));
+            return false;
+        }
+        var filter = /^[a-zA-Z0-9]+[a-zA-Z0-9_.-]+[a-zA-Z0-9_-]+@[a-zA-Z0-9]+[a-zA-Z0-9.-]+[a-zA-Z0-9]+.[a-z]{2,4}$/;
+       
+        if(!filter.test(fldValue)){
+            //$(fldID).focus();
+            errormsg = '<label class="error" for="email_address" id="error-email-address" generated="true">Invalid email address</label>';
+            $(errormsg).insertAfter($(fldID));
+            return false;
+        }
+        return true;
+    }
 </script>
-
-<script type="text/javascript">
-function clickgender(valgender){
-	if(valgender == 'Male'){
-		document.getElementById('1').value = 'Male';
-		$("#malelink").addClass("actmale");
-		$("#femalelink").addClass("female");
-		$("#femalelink").removeClass("actfemale");
-	} else {
-		document.getElementById('1').value = 'Female';
-		$("#femalelink").addClass("actfemale");
-		$("#malelink").addClass("male");
-		$("#malelink").removeClass("actmale");
-	}
-}
-
-</script>
-
 
 <h3>Get Started</h3>
-<form action="registration/pre-process/" method="post" id="register">
-	<input type="hidden" name="track_id" value="">
-	<!-- <img src="images/icon_fconnectwithfacebook.png" /> -->
-	<label>Email Address:</label>
-	<input type="text" value="" placeholder="Email Address" class="validate[required,custom[email]] textbox_big" id="email_address" name="email_address" autocomplete="off" tabindex="1">
-	<div style="height: 1px; margin-left: 233px; margin-top: -56px; position: absolute;">
-	<input type="text" name="emailvalidate" id="emailvalidate" value="1" style="height:1px; border:1px;" class="validate[required]" data-errormessage-value-missing="Please use valid email address." data-errormessage-custom-error="Please use valid email address." size="4" tabindex="200">
-	</div>
-	<label>Re-Enter Email Address:</label>
-	<input type="text" value="" placeholder="Re-Enter Email Address" class="validate[required,equals[email_address]] textbox_big" id="remail_address" name="remail_address" autocomplete="off" tabindex="3">
-	<label>Password:</label>
-	<input type="password" placeholder="Password" value="" class="validate[required] textbox_big" id="pwd" name="pwd" autocomplete="off" tabindex="4">
-	<input type="text" value="" placeholder="First Name" class="validate[required] textbox_medium" id="fname" name="fname" tabindex="5">
-	
-	<input type="text" value="" placeholder="Last Name" class="validate[required] textbox_medium last" id="lname" name="lname" tabindex="6">
-			<input type="text" name="6" id="6" class="textbox_medium" placeholder="Date of Birth" value="" readonly="" tabindex="7">
-		<div style="height: 1px; margin-left: 150px; margin-top: -25px; position: absolute;">
-		<input type="text" name="altdate" id="adate" value="" class="validate[required]" style="height:1px; border:1px; width:10px;" data-errormessage-value-missing="Please specify your birthday." data-errormessage-custom-error="Please specify your birthday."></div>
-	<br>
-   
-	<a href="javascript:void(0)" class="male" id="malelink" onclick="clickgender('Male');"></a><a href="javascript:void(0)" class="female" id="femalelink" onclick="clickgender('Female');"></a>	<div style="clear:both; position:relative; top: -60px; height:1px;"><input type="text" name="1" id="1" value="" style="clear:both;width:50%; height:0px; border:1px;" class="validate[required]" data-errormessage-value-missing="Please select your gender by clicking on the appropriate icon." data-errormessage-custom-error="Please select your gender, by clicking on the appropriate icon." tabindex="8"></div>
-		<input type="text" value="" placeholder="Zip/Postal Code" class="validate[required,minSize[5]] textbox_big" id="2" name="2" tabindex="9"><br>
-	<select name="CountryID" class="select_big" required="" tabindex="10"><option value="1">Afghanistan</option><option value="2">Albania</option><option value="3">Algeria</option><option value="4">American Samoa</option><option value="5">Andorra</option><option value="6">Angola</option><option value="7">Anguilla</option><option value="8">Antarctica</option><option value="9">Antigua and Barbuda</option><option value="10">Argentina</option><option value="11">Armenia</option><option value="12">Aruba</option><option value="13">Australia</option><option value="14">Austria</option><option value="15">Azerbaijan</option><option value="16">Bahamas</option><option value="17">Bahrain</option><option value="18">Bangladesh</option><option value="19">Barbados</option><option value="20">Belarus</option><option value="21">Belgium</option><option value="22">Belize</option><option value="23">Benin</option><option value="24">Bermuda</option><option value="25">Bhutan</option><option value="26">Bolivia</option><option value="27">Bosnia and Herzegowina</option><option value="28">Botswana</option><option value="29">Bouvet Island</option><option value="30">Brazil</option><option value="31">British Indian Ocean Territory</option><option value="32">Brunei Darussalam</option><option value="33">Bulgaria</option><option value="34">Burkina Faso</option><option value="35">Burundi</option><option value="36">Cambodia</option><option value="37">Cameroon</option><option value="38">Canada</option><option value="39">Cape Verde</option><option value="40">Cayman Islands</option><option value="41">Central African Republic</option><option value="42">Chad</option><option value="43">Chile</option><option value="44">China</option><option value="45">Christmas Island</option><option value="46">Cocos (Keeling) Islands</option><option value="47">Colombia</option><option value="48">Comoros</option><option value="49">Congo</option><option value="50">Cook Islands</option><option value="51">Costa Rica</option><option value="52">Cote DIvoire</option><option value="53">Croatia</option><option value="54">Cuba</option><option value="55">Cyprus</option><option value="56">Czech Republic</option><option value="57">Denmark</option><option value="58">Djibouti</option><option value="59">Dominica</option><option value="60">Dominican Republic</option><option value="61">East Timor</option><option value="62">Ecuador</option><option value="63">Egypt</option><option value="64">El Salvador</option><option value="65">Equatorial Guinea</option><option value="66">Eritrea</option><option value="67">Estonia</option><option value="68">Ethiopia</option><option value="69">Falkland Islands (Malvinas)</option><option value="70">Faroe Islands</option><option value="71">Fiji</option><option value="72">Finland</option><option value="73">France</option><option value="74">France, Metropolitan</option><option value="75">French Guiana</option><option value="76">French Polynesia</option><option value="77">French Southern Territories</option><option value="78">Gabon</option><option value="79">Gambia</option><option value="80">Georgia</option><option value="81">Germany</option><option value="82">Ghana</option><option value="83">Gibraltar</option><option value="84">Greece</option><option value="85">Greenland</option><option value="86">Grenada</option><option value="87">Guadeloupe</option><option value="88">Guam</option><option value="89">Guatemala</option><option value="90">Guinea</option><option value="91">Guinea-bissau</option><option value="92">Guyana</option><option value="93">Haiti</option><option value="94">Heard and Mc Donald Islands</option><option value="95">Honduras</option><option value="96">Hong Kong</option><option value="97">Hungary</option><option value="98">Iceland</option><option value="99">India</option><option value="100">Indonesia</option><option value="101">Iran (Islamic Republic of)</option><option value="102">Iraq</option><option value="103">Ireland</option><option value="104">Israel</option><option value="105">Italy</option><option value="106">Jamaica</option><option value="107">Japan</option><option value="108">Jordan</option><option value="109">Kazakhstan</option><option value="110">Kenya</option><option value="111">Kiribati</option><option value="112">Korea, Democratic People Republic</option><option value="113">Korea, Republic of</option><option value="114">Kuwait</option><option value="115">Kyrgyzstan</option><option value="116">Lao People Democratic Republic</option><option value="117">Latvia</option><option value="118">Lebanon</option><option value="119">Lesotho</option><option value="120">Liberia</option><option value="121">Libyan Arab Jamahiriya</option><option value="122">Liechtenstein</option><option value="123">Lithuania</option><option value="124">Luxembourg</option><option value="125">Macau</option><option value="126">Macedonia, The Former Yugoslav Republic of</option><option value="127">Madagascar</option><option value="128">Malawi</option><option value="129">Malaysia</option><option value="130">Maldives</option><option value="131">Mali</option><option value="132">Malta</option><option value="133">Marshall Islands</option><option value="134">Martinique</option><option value="135">Mauritania</option><option value="136">Mauritius</option><option value="137">Mayotte</option><option value="138">Mexico</option><option value="139">Micronesia, Federated States of</option><option value="140">Moldova, Republic of</option><option value="141">Monaco</option><option value="142">Mongolia</option><option value="143">Montserrat</option><option value="144">Morocco</option><option value="145">Mozambique</option><option value="146">Myanmar</option><option value="147">Namibia</option><option value="148">Nauru</option><option value="149">Nepal</option><option value="150">Netherlands</option><option value="151">Netherlands Antilles</option><option value="152">New Caledonia</option><option value="153">New Zealand</option><option value="154">Nicaragua</option><option value="155">Niger</option><option value="156">Nigeria</option><option value="157">Niue</option><option value="158">Norfolk Island</option><option value="159">Northern Mariana Islands</option><option value="160">Norway</option><option value="161">Oman</option><option value="162">Pakistan</option><option value="163">Palau</option><option value="164">Panama</option><option value="165">Papua New Guinea</option><option value="166">Paraguay</option><option value="167">Peru</option><option value="168">Philippines</option><option value="169">Pitcairn</option><option value="170">Poland</option><option value="171">Portugal</option><option value="172">Puerto Rico</option><option value="173">Qatar</option><option value="174">Reunion</option><option value="175">Romania</option><option value="176">Russian Federation</option><option value="177">Rwanda</option><option value="178">Saint Kitts and Nevis</option><option value="179">Saint Lucia</option><option value="180">Saint Vincent and the Grenadines</option><option value="181">Samoa</option><option value="182">San Marino</option><option value="183">Sao Tome and Principe</option><option value="184">Saudi Arabia</option><option value="185">Senegal</option><option value="186">Seychelles</option><option value="187">Sierra Leone</option><option value="188">Singapore</option><option value="189">Slovakia (Slovak Republic)</option><option value="190">Slovenia</option><option value="191">Solomon Islands</option><option value="192">Somalia</option><option value="193">South Africa</option><option value="194">South Georgia and the South Sandwich Islands</option><option value="195">Spain</option><option value="196">Sri Lanka</option><option value="197">St. Helena</option><option value="198">St. Pierre and Miquelon</option><option value="199">Sudan</option><option value="200">Suriname</option><option value="201">Svalbard and Jan Mayen Islands</option><option value="202">Swaziland</option><option value="203">Sweden</option><option value="204">Switzerland</option><option value="205">Syrian Arab Republic</option><option value="206">Taiwan</option><option value="207">Tajikistan</option><option value="208">Tanzania, United Republic of</option><option value="209">Thailand</option><option value="210">Togo</option><option value="211">Tokelau</option><option value="212">Tonga</option><option value="213">Trinidad and Tobago</option><option value="214">Tunisia</option><option value="215">Turkey</option><option value="216">Turkmenistan</option><option value="217">Turks and Caicos Islands</option><option value="218">Tuvalu</option><option value="219">Uganda</option><option value="220">Ukraine</option><option value="221">United Arab Emirates</option><option value="222">United Kingdom</option><option value="223" selected="">United States</option><option value="224">United States Minor Outlying Islands</option><option value="225">Uruguay</option><option value="226">Uzbekistan</option><option value="227">Vanuatu</option><option value="228">Vatican City State (Holy See)</option><option value="229">Venezuela</option><option value="230">Viet Nam</option><option value="231">Virgin Islands (British)</option><option value="232">Virgin Islands (U.S.)</option><option value="233">Wallis and Futuna Islands</option><option value="234">Western Sahara</option><option value="235">Yemen</option><option value="236">Yugoslavia</option><option value="237">Zaire</option><option value="238">Zambia</option><option value="239">Zimbabwe</option></select>Which best describes your company's primary industry?<br>
-		<select name="4" class="validate[required] select_big" tabindex="11">
-		<option value="">Please Provide Answer</option>
-			<option value="13">Accounting</option><option value="14">Advertising</option><option value="15">Aerospace / Defense</option><option value="16">Agriculture / Forestry</option><option value="17">Airlines</option><option value="18">Architecture</option><option value="19">Art</option><option value="20">Automotive</option><option value="21">Banking</option><option value="22">Beauty / Cosmetics</option><option value="23">Business / Professional Services</option><option value="24">Casino</option><option value="25">Catering</option><option value="26">Chemical</option><option value="27">Caregiver (Adult, Child, Senior)</option><option value="28">Computer - Hardware</option><option value="29">Computer - Software</option><option value="30">Computer - Reseller / VAR</option><option value="31">Construction</option><option value="32">Consulting</option><option value="33">Consumer Packaged Goods</option><option value="34">Dental</option><option value="35">Education</option><option value="36">Electronics</option><option value="37">Energy</option><option value="38">Engineering</option><option value="39">Emergency Services (EMT, Fire, Police)</option><option value="40">Entertainment / Media (TV/Film)</option><option value="41">Fashion / Apparel</option><option value="42">Financial Services (Non-Banking)</option><option value="43">Food / Beverage</option><option value="44">Government - Local</option><option value="45">Government - State</option><option value="46">Government - Federal</option><option value="47">Healthcare</option><option value="48">Hotel / Hospitality</option><option value="49">Human Resources</option><option value="50">Import / Export</option><option value="51">Information Technology</option><option value="52">Insurance</option><option value="53">Legal</option><option value="54">Manufacturing</option><option value="55">Marketing </option><option value="56">Market Research</option><option value="57">Medical</option><option value="58">Military</option><option value="59">Mortgage</option><option value="273">Music</option><option value="274">Non-Profit</option><option value="275">Pet / Animal Care</option><option value="276">Pharmaceutical</option><option value="277">Photography</option><option value="278">Politics</option><option value="279">Public Relations</option><option value="280">Publishing / Printing</option><option value="281">Real Estate</option><option value="282">Religion</option><option value="283">Restaurant</option><option value="284">Retail</option><option value="285">Shipping / Distribution</option><option value="286">Skilled Trade</option><option value="287">Social Services</option><option value="288">Technology</option><option value="289">Telecommunications / Communications</option><option value="290">Transportation</option><option value="291">Travel</option><option value="292">Utilities</option><option value="293">Wholesale</option><option value="294">Unemployed</option><option value="302">Other</option>		</select>
-		<br>
-	Which best describes your title or position?<br>
-	<select name="5" class="validate[required] select_big" tabindex="12">
-	<option value="">Please Provide Answer</option>
-		<option value="60">Business Owner</option><option value="61">Partner / Principle</option><option value="62">President</option><option value="63">C-Level Executive (CEO, CIO, etc.)</option><option value="64">Senior Vice President</option><option value="65">Vice President    </option><option value="66">Controller / Comptroller</option><option value="67">Director</option><option value="68">Senior Manager</option><option value="69">Manager</option><option value="70">Supervisor</option><option value="71">Technical Staff - IT Administrator</option><option value="72">Technical Staff - IT Developer</option><option value="73">Technical Staff - IT Manager / Director</option><option value="74">Technical Staff - Help Desk / Other IT Support</option><option value="75">Craftsman / Foreman</option><option value="76">Faculty Staff</option><option value="77">Sales</option><option value="78">Administrative / Clerical</option><option value="264">Non-Management Staff</option><option value="295">Unemployed</option><option value="272">Other</option>	</select>
-	<br>
-	Approximately how many employees work for your company (all locations)?<br>
-	<select name="3" class="validate[required] select_big" tabindex="13">
-	<option value="">Please Provide Answer</option>
-		<option value="262">1 employee</option><option value="3">2 - 5 employees</option><option value="4">6 - 9 employees</option><option value="298">10 - 19 employees</option><option value="299">20 - 49 employees</option><option value="6">50 - 99 employees</option><option value="7">100 - 249 employees</option><option value="8">250 - 499 employees</option><option value="9">500 - 999 employees</option><option value="10">1,000 - 2,499 employees</option><option value="11">2,500 - 4,999 employees</option><option value="12">5,000 - 9,999 employees</option><option value="179">10,000+ employees</option><option value="263">Unknown / Unemployed</option>	</select>
-	<br> 
-	<input type="checkbox" id="agree" name="agree" class="validate[required]" data-errormessage-value-missing="Your acceptance is required." data-errormessage-custom-error="Your acceptance is required." data-errormessage="Your acceptance is required." tabindex="14"> I agree to the <a href="info.php?page=3&amp;height=600&amp;width=700" title="Terms and Conditions" class="thickbox"> terms and conditions</a> and <a href="info.php?page=2&amp;height=600&amp;width=700" title="Privacy Policy" class="thickbox"> privacy policy</a><br><br>
-	<input type="submit" class="sign_up" value="Sign Up" id="submit" tabindex="15">
-</form>	</div>
-		<!-- Right Col EOF -->
-</div>
-<footer>
-	<div id="wrapper">
-		<div class="footer_link">
-			Copyright © Bizpinion. All Rights Reserved.
-		</div>
-		<div class="right">
-			<div class="footer_link">
-							<a href="pages/about-us/" title="About Us">About Us</a>&nbsp;|&nbsp;
-							<a href="pages/privacy-policy/" title="Privacy Policy">Privacy Policy</a>&nbsp;|&nbsp;
-				<a href="pages/terms/" title="Terms &amp; Conditions">Terms &amp; Conditions</a>&nbsp;|&nbsp;
-								<a href="contact-us/" title="Contact Us">Contact Us</a>&nbsp;|&nbsp;
-								<a href="pages/frequently-asked-questions-faq-/" title="FAQ">FAQ</a>&nbsp;
-			</div>
-			<div class="social_media">
-				&nbsp;&nbsp; <a href="http://www.facebook.com/pages/Bizpinioncom/387584171298184" title="Facebook" target="_blank"><img src="images/icon_facebook.png" class="i_facebook"></a> &nbsp;&nbsp;
-				<a href="https://twitter.com/Bizpinioncom" title="Twitter" target="_blank"><img src="images/icon_twitter.png" class="i_twitter"></a>
-			</div>
-		</div>
-	</div></footer>
-<script type="text/javascript" src="js/validation.js"></script>
 
+<form action="registration/pre-process/" method="post" id="register">
+    <input type="hidden" name="track_id" value="">
+    <!--<img src="images/icon_fconnectwithfacebook.png" />-->
+    <input type="email" value="" placeholder="Email Address" class="textbox_big required" id="email_address" name="email_address"><span id="emailInfo"></span>
+    <input type="email" value="" placeholder="Re-Enter Email Address" class="textbox_big required" id="remail_address" name="remail_address"><span id="emailInfo"></span>
+    <input type="password" placeholder="Password" value="" class="textbox_big required" id="pwd" name="pwd">
+    <input type="text" value="" placeholder="First Name" class="textbox_medium required" id="fname" name="fname">
+    <input type="text" value="" placeholder="Last Name" class="textbox_medium last required" id="lname" name="lname">
+            <input type="text" name="6" id="6" class="textbox_street required" placeholder="Date of Birth" value="" readonly="readonly">
+        <input type="hidden" name="alt" id="alt" class="select">
+        <br>
+        <a href="javascript:void(0)" class="male" id="malelink" onclick="clickgender('Male');"></a><a href="javascript:void(0)" class="female" id="femalelink" onclick="clickgender('Female');"></a>        <input type="hidden" name="1" id="1" value=""><span id="genderInfo"></span>
+                <input type="text" value="" placeholder="Zip/Postal Code" class="textbox_big required" id="2" name="2"><br>
+               <select name="CountryID" class="select_big" required=""><option value="1">Afghanistan</option><option value="2">Albania</option><option value="3">Algeria</option><option value="4">American Samoa</option><option value="5">Andorra</option><option value="6">Angola</option><option value="7">Anguilla</option><option value="8">Antarctica</option><option value="9">Antigua and Barbuda</option><option value="10">Argentina</option><option value="11">Armenia</option><option value="12">Aruba</option><option value="13">Australia</option><option value="14">Austria</option><option value="15">Azerbaijan</option><option value="16">Bahamas</option><option value="17">Bahrain</option><option value="18">Bangladesh</option><option value="19">Barbados</option><option value="20">Belarus</option><option value="21">Belgium</option><option value="22">Belize</option><option value="23">Benin</option><option value="24">Bermuda</option><option value="25">Bhutan</option><option value="26">Bolivia</option><option value="27">Bosnia and Herzegowina</option><option value="28">Botswana</option><option value="29">Bouvet Island</option><option value="30">Brazil</option><option value="31">British Indian Ocean Territory</option><option value="32">Brunei Darussalam</option><option value="33">Bulgaria</option><option value="34">Burkina Faso</option><option value="35">Burundi</option><option value="36">Cambodia</option><option value="37">Cameroon</option><option value="38">Canada</option><option value="39">Cape Verde</option><option value="40">Cayman Islands</option><option value="41">Central African Republic</option><option value="42">Chad</option><option value="43">Chile</option><option value="44">China</option><option value="45">Christmas Island</option><option value="46">Cocos (Keeling) Islands</option><option value="47">Colombia</option><option value="48">Comoros</option><option value="49">Congo</option><option value="50">Cook Islands</option><option value="51">Costa Rica</option><option value="52">Cote DIvoire</option><option value="53">Croatia</option><option value="54">Cuba</option><option value="55">Cyprus</option><option value="56">Czech Republic</option><option value="57">Denmark</option><option value="58">Djibouti</option><option value="59">Dominica</option><option value="60">Dominican Republic</option><option value="61">East Timor</option><option value="62">Ecuador</option><option value="63">Egypt</option><option value="64">El Salvador</option><option value="65">Equatorial Guinea</option><option value="66">Eritrea</option><option value="67">Estonia</option><option value="68">Ethiopia</option><option value="69">Falkland Islands (Malvinas)</option><option value="70">Faroe Islands</option><option value="71">Fiji</option><option value="72">Finland</option><option value="73">France</option><option value="74">France, Metropolitan</option><option value="75">French Guiana</option><option value="76">French Polynesia</option><option value="77">French Southern Territories</option><option value="78">Gabon</option><option value="79">Gambia</option><option value="80">Georgia</option><option value="81">Germany</option><option value="82">Ghana</option><option value="83">Gibraltar</option><option value="84">Greece</option><option value="85">Greenland</option><option value="86">Grenada</option><option value="87">Guadeloupe</option><option value="88">Guam</option><option value="89">Guatemala</option><option value="90">Guinea</option><option value="91">Guinea-bissau</option><option value="92">Guyana</option><option value="93">Haiti</option><option value="94">Heard and Mc Donald Islands</option><option value="95">Honduras</option><option value="96">Hong Kong</option><option value="97">Hungary</option><option value="98">Iceland</option><option value="99">India</option><option value="100">Indonesia</option><option value="101">Iran (Islamic Republic of)</option><option value="102">Iraq</option><option value="103">Ireland</option><option value="104">Israel</option><option value="105">Italy</option><option value="106">Jamaica</option><option value="107">Japan</option><option value="108">Jordan</option><option value="109">Kazakhstan</option><option value="110">Kenya</option><option value="111">Kiribati</option><option value="112">Korea, Democratic People Republic</option><option value="113">Korea, Republic of</option><option value="114">Kuwait</option><option value="115">Kyrgyzstan</option><option value="116">Lao People Democratic Republic</option><option value="117">Latvia</option><option value="118">Lebanon</option><option value="119">Lesotho</option><option value="120">Liberia</option><option value="121">Libyan Arab Jamahiriya</option><option value="122">Liechtenstein</option><option value="123">Lithuania</option><option value="124">Luxembourg</option><option value="125">Macau</option><option value="126">Macedonia, The Former Yugoslav Republic of</option><option value="127">Madagascar</option><option value="128">Malawi</option><option value="129">Malaysia</option><option value="130">Maldives</option><option value="131">Mali</option><option value="132">Malta</option><option value="133">Marshall Islands</option><option value="134">Martinique</option><option value="135">Mauritania</option><option value="136">Mauritius</option><option value="137">Mayotte</option><option value="138">Mexico</option><option value="139">Micronesia, Federated States of</option><option value="140">Moldova, Republic of</option><option value="141">Monaco</option><option value="142">Mongolia</option><option value="143">Montserrat</option><option value="144">Morocco</option><option value="145">Mozambique</option><option value="146">Myanmar</option><option value="147">Namibia</option><option value="148">Nauru</option><option value="149">Nepal</option><option value="150">Netherlands</option><option value="151">Netherlands Antilles</option><option value="152">New Caledonia</option><option value="153">New Zealand</option><option value="154">Nicaragua</option><option value="155">Niger</option><option value="156">Nigeria</option><option value="157">Niue</option><option value="158">Norfolk Island</option><option value="159">Northern Mariana Islands</option><option value="160">Norway</option><option value="161">Oman</option><option value="162">Pakistan</option><option value="163">Palau</option><option value="164">Panama</option><option value="165">Papua New Guinea</option><option value="166">Paraguay</option><option value="167">Peru</option><option value="168">Philippines</option><option value="169">Pitcairn</option><option value="170">Poland</option><option value="171">Portugal</option><option value="172">Puerto Rico</option><option value="173">Qatar</option><option value="174">Reunion</option><option value="175">Romania</option><option value="176">Russian Federation</option><option value="177">Rwanda</option><option value="178">Saint Kitts and Nevis</option><option value="179">Saint Lucia</option><option value="180">Saint Vincent and the Grenadines</option><option value="181">Samoa</option><option value="182">San Marino</option><option value="183">Sao Tome and Principe</option><option value="184">Saudi Arabia</option><option value="185">Senegal</option><option value="186">Seychelles</option><option value="187">Sierra Leone</option><option value="188">Singapore</option><option value="189">Slovakia (Slovak Republic)</option><option value="190">Slovenia</option><option value="191">Solomon Islands</option><option value="192">Somalia</option><option value="193">South Africa</option><option value="194">South Georgia and the South Sandwich Islands</option><option value="195">Spain</option><option value="196">Sri Lanka</option><option value="197">St. Helena</option><option value="198">St. Pierre and Miquelon</option><option value="199">Sudan</option><option value="200">Suriname</option><option value="201">Svalbard and Jan Mayen Islands</option><option value="202">Swaziland</option><option value="203">Sweden</option><option value="204">Switzerland</option><option value="205">Syrian Arab Republic</option><option value="206">Taiwan</option><option value="207">Tajikistan</option><option value="208">Tanzania, United Republic of</option><option value="209">Thailand</option><option value="210">Togo</option><option value="211">Tokelau</option><option value="212">Tonga</option><option value="213">Trinidad and Tobago</option><option value="214">Tunisia</option><option value="215">Turkey</option><option value="216">Turkmenistan</option><option value="217">Turks and Caicos Islands</option><option value="218">Tuvalu</option><option value="219">Uganda</option><option value="220">Ukraine</option><option value="221">United Arab Emirates</option><option value="222">United Kingdom</option><option value="223" selected="">United States</option><option value="224">United States Minor Outlying Islands</option><option value="225">Uruguay</option><option value="226">Uzbekistan</option><option value="227">Vanuatu</option><option value="228">Vatican City State (Holy See)</option><option value="229">Venezuela</option><option value="230">Viet Nam</option><option value="231">Virgin Islands (British)</option><option value="232">Virgin Islands (U.S.)</option><option value="233">Wallis and Futuna Islands</option><option value="234">Western Sahara</option><option value="235">Yemen</option><option value="236">Yugoslavia</option><option value="237">Zaire</option><option value="238">Zambia</option><option value="239">Zimbabwe</option></select>           <span title="This is the primary language in which you will receive all Bizpinion-related communications.">Primary Communication Language Preference</span>        <br>
+        <select name="25" id="25" class="select_big required"><option value="">Please Provide Answer</option><option value="1">English</option></select>    
+        <br>
+        Which best describes your company's primary industry?<br>
+        <select name="4" class="select_big required">
+            <option value="">Please Provide Answer</option>
+            <option value="13">Accounting</option><option value="14">Advertising</option><option value="15">Aerospace / Defense</option><option value="16">Agriculture / Forestry</option><option value="17">Airlines</option><option value="18">Architecture</option><option value="19">Art</option><option value="20">Automotive</option><option value="21">Banking</option><option value="22">Beauty / Cosmetics</option><option value="23">Business / Professional Services</option><option value="24">Casino</option><option value="25">Catering</option><option value="26">Chemical</option><option value="27">Caregiver (Adult, Child, Senior)</option><option value="28">Computer - Hardware</option><option value="29">Computer - Software</option><option value="30">Computer - Reseller / VAR</option><option value="31">Construction</option><option value="32">Consulting</option><option value="33">Consumer Packaged Goods</option><option value="34">Dental</option><option value="35">Education</option><option value="36">Electronics</option><option value="37">Energy</option><option value="38">Engineering</option><option value="39">Emergency Services (EMT, Fire, Police)</option><option value="40">Entertainment / Media (TV/Film)</option><option value="41">Fashion / Apparel</option><option value="42">Financial Services (Non-Banking)</option><option value="43">Food / Beverage</option><option value="44">Government - Local</option><option value="45">Government - State</option><option value="46">Government - Federal</option><option value="47">Healthcare</option><option value="48">Hotel / Hospitality</option><option value="49">Human Resources</option><option value="50">Import / Export</option><option value="51">Information Technology</option><option value="52">Insurance</option><option value="53">Legal</option><option value="54">Manufacturing</option><option value="55">Marketing</option><option value="56">Market Research</option><option value="57">Medical</option><option value="58">Military</option><option value="59">Mortgage</option><option value="273">Music</option><option value="274">Non-Profit</option><option value="275">Pet / Animal Care</option><option value="276">Pharmaceutical</option><option value="277">Photography</option><option value="278">Politics</option><option value="279">Public Relations</option><option value="280">Publishing / Printing</option><option value="281">Real Estate</option><option value="282">Religion</option><option value="283">Restaurant</option><option value="284">Retail</option><option value="285">Shipping / Distribution</option><option value="286">Skilled Trade</option><option value="287">Social Services</option><option value="288">Technology</option><option value="289">Telecommunications / Communications</option><option value="290">Transportation</option><option value="291">Travel</option><option value="292">Utilities</option><option value="293">Wholesale</option><option value="294">Unemployed</option><option value="302">Other</option>        </select>
+        <br>
+        Which best describes your title or position?<br>
+        <select name="5" class="select_big required">
+            <option value="">Please Provide Answer</option>
+            <option value="60">Business Owner</option><option value="61">Partner / Principle</option><option value="62">President</option><option value="63">C-Level Executive (CEO, CIO, etc.)</option><option value="64">Senior Vice President</option><option value="65">Vice President</option><option value="66">Controller / Comptroller</option><option value="67">Director</option><option value="68">Senior Manager</option><option value="69">Manager</option><option value="70">Supervisor</option><option value="71">Technical Staff - IT Administrator</option><option value="72">Technical Staff - IT Developer</option><option value="73">Technical Staff - IT Manager / Director</option><option value="74">Technical Staff - Help Desk / Other IT Support</option><option value="75">Craftsman / Foreman</option><option value="76">Faculty Staff</option><option value="77">Sales</option><option value="78">Administrative / Clerical</option><option value="264">Non-Management Staff</option><option value="295">Unemployed</option><option value="272">Other</option>        </select>
+        <br>
+
+        Approximately how many employees work for your company (all locations)?<br>
+        <select name="3" class="select_big required">
+            <option value="">Please Provide Answer</option>
+            <option value="262">1 employee</option><option value="3">2 - 5 employees</option><option value="4">6 - 9 employees</option><option value="298">10 - 19 employees</option><option value="299">20 - 49 employees</option><option value="6">50 - 99 employees</option><option value="7">100 - 249 employees</option><option value="8">250 - 499 employees</option><option value="9">500 - 999 employees</option><option value="10">1,000 - 2,499 employees</option><option value="11">2,500 - 4,999 employees</option><option value="12">5,000 - 9,999 employees</option><option value="179">10,000+ employees</option><option value="263">Unknown / Unemployed</option>        </select>
+        <br>
+
+    <input type="checkbox" id="agree" name="agree" class="required">    I agree to the    <a href="info.php?page=3&amp;TB_iframe=true&amp;height=600&amp;width=800" title="Terms and Conditions" class="thickbox"> Terms &amp; Conditions</a> 
+    and    <a href="info.php?page=2&amp;TB_iframe=true&amp;height=600&amp;width=800" title="Privacy Policy" class="thickbox">Privacy Policy</a>
+    <input type="submit" class="sign_up" value="Sign Up">
+    <script type="text/javascript">
+        function clickgender(valgender){
+            if(valgender == 'Male'){
+                document.getElementById('1').value = 'Male';
+                $("#malelink").addClass("actmale");
+                $("#femalelink").addClass("female");
+                $("#femalelink").removeClass("actfemale");
+            } else {
+                document.getElementById('1').value = 'Female';
+                $("#femalelink").addClass("actfemale");
+                $("#malelink").addClass("male");
+                $("#malelink").removeClass("actmale");
+            }
+        }
+    </script>
+</form>                </div>
+                        <!-- Right Col EOF -->
+        </div>
+        <footer>
+            <div id="wrapper">
+    <div class="footer_link">        
+        Copyright © Bizpinion. All Rights Reserved.    </div>
+    <div class="right">
+        <div class="footer_link">
+                        <a href="pages/about-us/" title="About Us">About Us</a>&nbsp;|&nbsp;
+                        <a href="pages/privacy-policy/" title="Privacy Policy">Privacy Policy</a>&nbsp;|&nbsp;
+            <a href="pages/terms/" title="Terms &amp; Conditions">Terms &amp; Conditions</a>&nbsp;|&nbsp;
+                            <a href="contact-us/" title="Contact Us">Contact Us</a>&nbsp;|&nbsp;
+                        <a href="pages/frequently-asked-questions-faq-/" title="FAQ">FAQ</a>&nbsp;
+        </div>
+
+        <div class="social_media">
+            <a href="http://www.facebook.com/pages/Bizpinioncom/387584171298184" title="Facebook" target="_blank"><img src="images/icon_facebook.png" class="i_facebook"></a> &nbsp;&nbsp;
+            <a href="https://twitter.com/Bizpinioncom" title="Twitter" target="_blank"><img src="images/icon_twitter.png" class="i_twitter"></a>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+/* <![CDATA[ */
+$(function() {
+	var input = document.createElement("input");
+    if(('placeholder' in input)==false) { 
+		$('[placeholder]').focus(function() {
+			var i = $(this);
+			if(i.val() == i.attr('placeholder')) {
+				i.val('').removeClass('placeholder');
+				if(i.hasClass('password')) {
+					i.removeClass('password');
+					this.type='password';
+				}			
+			}
+		}).blur(function() {
+			var i = $(this);	
+			if(i.val() == '' || i.val() == i.attr('placeholder')) {
+				if(this.type=='password') {
+					i.addClass('password');
+					this.type='text';
+				}
+				i.addClass('placeholder').val(i.attr('placeholder'));
+			}
+		}).blur().parents('form').submit(function() {
+			$(this).find('[placeholder]').each(function() {
+				var i = $(this);
+				if(i.val() == i.attr('placeholder'))
+					i.val('');
+			})
+		});
+	}
+});
+/* ]]> */
+</script>        </footer>
+<!--        <script type="text/javascript" src="js/validation.js"></script>-->
+        <!--validation code-->
+<script type="text/javascript">
+    $(document).ready(function() {
+        var form = $("#register");
+        var fname = $("#fname");
+        var lname = $("#lname");
+        var email = $("#email_address");
+        var emailInfo = $("#emailInfo");
+        var password = $("#pwd");
+        var street = $("#street");
+        var apt = $("#apt");
+        var zip = $("#19");
+        var house = $("#house");
+        var bmonth = $("#17");
+
+
+        var full_address = $("#full_address");
+        var gender = $("#1");
+        var genderInfo = $("#genderInfo");
+
+        //On blur
+        fname.blur(validatefname);
+        bmonth.blur(validatebmonth);
+        email.blur(validateemail_address);
+        lname.blur(validatelname);
+        street.blur(validatestreet);
+        apt.blur(validateapt);
+        password.blur(validatepassword);
+        zip.blur(validatezip);
+        street.focus(validategender);
+        house.blur(validatehouse);
+        full_address.blur(validatefull_address);
+
+        //On key press
+        fname.keyup(validatefname);
+        bmonth.keyup(validatebmonth);
+        email.keyup(validateemail_address);
+        lname.keyup(validatelname);
+        street.keyup(validatestreet);
+        apt.keyup(validateapt);
+        password.keyup(validatepassword);
+        zip.keyup(validatezip);
+        house.keyup(validatehouse);
+        full_address.keyup(validatefull_address);
+
+
+        //On Submitting
+        form.submit(function(){
+            if(validateemail_address() & validatefname() & validatelname() & validatestreet() & validateapt() & validatepassword() & validatezip() & validategender() & validatebmonth() & validatehouse() & validatefull_address()){
+                var fldValue = $("#email_address").val();
+                if(fldValue.length > 0){
+                    return chk_value("#email_address",fldValue,"email","panelist_master");
+                }                
+            }else{                
+                return false;
+            }                
+        });
+
+        //validation functions
+        function validatebmonth(){
+            //if it's NOT valid
+            if(bmonth.val() == ""){
+                bmonth.addClass("error");
+                return false;
+            }            
+            else{
+                bmonth.removeClass("error");
+                return true;
+            }
+        }
+
+        function retypeemail(){
+            var a = $("#email_address").val();
+            var a1 = $("#remail_address").val();
+            if(a == a1) {
+                return true;
+            }else{
+                a1.addClass("error");
+                a1.attr('placeholder', 'Re-Enter valid e-mail address');
+                return false;
+            }
+        }
+        function validateemail_address(){
+            //testing regular expression
+            var a = $("#email_address").val();
+            var filter = /^[a-zA-Z0-9]+[a-zA-Z0-9_.-]+[a-zA-Z0-9_-]+@[a-zA-Z0-9]+[a-zA-Z0-9.-]+[a-zA-Z0-9]+.[a-z]{2,4}$/;
+            //if it's valid email
+            if(filter.test(a)){
+                /*$.ajax({
+                          type: "GET",
+                          url: "inc/check_mail_exists.php",
+                          data: { email: a}
+                        }).done(function() {
+                                emailInfo.text("");
+                                emailInfo.removeClass("error");
+                                email.removeClass("error");
+                                return true;
+                        }).fail(function(){
+                                emailInfo.text("Email address already exists");
+                                emailInfo.addClass("error");
+                                email.addClass("error");
+                                return false;
+                        });*/
+                email.removeClass("error");
+                return true;
+            }
+            //if it's NOT valid
+            else{
+                email.addClass("error");
+                email.attr('placeholder', 'Enter Email Address');
+                return false;
+            }
+        }
+        function validategender(){
+            //if it's NOT valid
+            if(gender.val() == ""){
+                gender.addClass("error");
+                genderInfo.text("Please select your gender");
+                genderInfo.addClass("error");
+                return false;
+            }            
+            else{
+                gender.removeClass("error");
+                genderInfo.text("");
+                genderInfo.removeClass("error");
+                return true;
+            }
+        }
+        function validatefname(){
+            //if it's NOT valid
+            if(fname.val() == ""){
+                fname.addClass("error");
+                fname.attr('placeholder', 'Enter first name');
+                return false;
+            }            
+            else{
+                fname.removeClass("error");
+                return true;
+            }
+        }
+        function validateapt(){
+            //if it's NOT valid
+            if(apt.val() == ""){
+                apt.addClass("error");
+                apt.attr('placeholder', 'Enter Apt.');
+                return false;
+            }            
+            else{
+                apt.removeClass("error");
+                return true;
+            }
+        }
+        function validatefull_address(){
+            //if it's NOT valid
+            if(full_address.val() == ""){
+                full_address.addClass("error");
+                full_address.attr('placeholder', 'Enter Your Full Address');
+                return false;
+            }            
+            else{
+                full_address.removeClass("error");
+                return true;
+            }
+        }
+        function validatestreet(){
+            //if it's NOT valid
+            if(street.val() == ""){
+                street.addClass("error");
+                street.attr('placeholder', 'Enter Street Address');
+                return false;
+            }
+            else{
+                street.removeClass("error");
+                return true;
+            }
+        }
+        function validatehouse(){
+            //if it's NOT valid
+            if(house.val() == ""){
+                house.addClass("error");
+                house.attr('placeholder', 'Enter House No.');
+                return false;
+            }            
+            else{
+                house.removeClass("error");
+                return true;
+            }
+        }
+        function validatezip(){
+            //if it's NOT valid
+            if(zip.val() == ""){
+                zip.addClass("error");
+                zip.attr('placeholder', 'EnterZipCode');
+                return false;
+            }else{
+                zip.removeClass("error");
+                return true;
+            }
+        }
+        function validatelname(){
+            //if it's NOT valid
+            if(lname.val() == ""){
+                lname.addClass("error");
+                lname.attr('placeholder', 'Enter last name');
+                return false;
+            }            
+            else{
+                lname.removeClass("error");
+                return true;
+            }
+        }
+        function validatepassword(){
+            //it's NOT valid
+            if(password.val() == ""){
+                password.addClass("error");
+                password.attr('placeholder', 'Enter Password');
+                return false;
+            }
+            //it's valid
+            else{
+                password.removeClass("error");
+                return true;
+            }
+        }
+        function validateemailindb(email){
+            var url, result;
+            url = "inc/check_mail_exists.php?email="+email;
+            result = callAjax("emailInfo",url);
+            console.log("This is return result: "+result);
+            if(result == 'Correct'){
+                return true;
+            } else {
+                return false;
+            }
+        }
+        //global vars
+        var loginform = $("#loginfrm");
+        var loginforminner = $("#loginforminner");
+        var login_email = $("#login_email");
+        var login_pwd = $("#login_pwd");
+        var login_email_i = $("#login_email_i");
+        var login_pwd_i = $("#login_pwd_i");
+
+        //On blur
+        login_email.blur(validatelogin_email);
+        login_pwd.blur(validatelogin_pwd);
+
+        //On key press
+        login_email.keyup(validatelogin_email);
+        login_pwd.keyup(validatelogin_pwd);
+        //On Submitting
+        loginform.submit(function(){
+            if(validatelogin_email() & validatelogin_pwd() )
+                return true
+            else
+                return false;
+        });
+        //On blur
+        login_email_i.blur(validatelogin_email_inner);
+        login_pwd_i.blur(validatelogin_pwd_inner);
+
+        //On key press
+        login_email_i.keyup(validatelogin_email_inner);
+        login_pwd_i.keyup(validatelogin_pwd_inner);
+        //On Submitting
+        //BRAIN
+        loginforminner.submit(function(){
+            if(validatelogin_email_inner() & validatelogin_pwd_inner() )
+                return true
+            else
+                return false;
+        });
+        function validatelogin_email_inner(){
+            //testing regular expression
+            var filter = /^[a-zA-Z0-9]+[a-zA-Z0-9_.-]+[a-zA-Z0-9_-]+@[a-zA-Z0-9]+[a-zA-Z0-9.-]+[a-zA-Z0-9]+.[a-z]{2,4}$/;
+            //if it's valid email
+            if(filter.test(login_email_i.val())){
+                login_email_i.removeClass("error");
+                return true;
+            }
+            //if it's NOT valid
+            else{
+                login_email_i.addClass("error");
+                login_email_i.attr('placeholder', 'Enter Email Address');
+                return false;
+            }
+        }
+        function validatelogin_pwd_inner(){
+            //it's NOT valid
+            if(login_pwd_i.val() == ""){
+                login_pwd_i.addClass("error");
+                login_pwd_i.attr('placeholder', 'Enter Password');
+                return false;
+            }
+            //it's valid
+            else{
+                login_pwd_i.removeClass("error");
+                return true;
+            }
+        }
+        //END
+
+        //validation functions
+        function validatelogin_email(){
+            //testing regular expression
+            var filter = /^[a-zA-Z0-9]+[a-zA-Z0-9_.-]+[a-zA-Z0-9_-]+@[a-zA-Z0-9]+[a-zA-Z0-9.-]+[a-zA-Z0-9]+.[a-z]{2,4}$/;
+            //if it's valid email
+            if(filter.test(login_email.val())){
+                login_email.removeClass("error");
+                return true;
+            }
+            //if it's NOT valid
+            else{
+                login_email.addClass("error");
+                login_email.attr('placeholder', 'Enter Email Address');
+                return false;
+            }
+        }
+        function validatelogin_pwd(){
+            //it's NOT valid
+            if(login_pwd.val() == ""){
+                login_pwd.addClass("error");
+                login_pwd.attr('placeholder', 'Enter Password');
+                return false;
+            }
+            //it's valid
+            else{
+                login_pwd.removeClass("error");
+                return true;
+            }
+        }
+    });
+</script>        <script type="text/javascript">
+            $(document).ready(function() {
+                jQuery.extend(jQuery.validator.messages, {
+                    required: "This field is required.",
+                    remote: "Please fix this field.",
+                    email: "Invalid email address.",
+                    url: "Please enter a valid URL.",
+                    date: "Please enter a valid date.",
+                    dateISO: "Please enter a valid date (ISO).",
+                    number: "Please enter a valid number.",
+                    digits: "Please enter only digits.",
+                    creditcard: "Please enter a valid credit card number.",
+                    equalTo: "Fields do not match.",
+                    accept: "Please enter a value with a valid extension.",
+                    maxlength: jQuery.validator.format("Please enter no more than {0} characters."),
+                    minlength: jQuery.validator.format("Please enter at least {0} characters."),
+                    rangelength: jQuery.validator.format("Please enter a value between {0} and {1} characters long."),
+                    range: jQuery.validator.format("Please enter a value between {0} and {1}."),
+                    max: jQuery.validator.format("Please enter a value less than or equal to {0}."),
+                    min: jQuery.validator.format("Please enter a value greater than or equal to {0}.")
+                })});            
+        </script>
+    
 
 </body></html>
