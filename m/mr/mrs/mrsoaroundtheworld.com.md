@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrsoaroundtheworld.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611095056id_/http%3A//mrsoaroundtheworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrsoaroundtheworld.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812134558id_/http%3A//mrsoaroundtheworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -84,5 +84,3 @@ If there are any questions regarding this privacy policy you may contact us usin
 http://mrsoaroundtheworld.com
 
 anasilvaoreilly (at) yahoo.com
-
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fmrsoaroundtheworld.com%2Fprivacy-policy%2F&media=http%3A%2F%2Fmrsoaroundtheworld.com%2Fwp-content%2Fplugins%2Fseo-automatic-wp-core-tweaks%2Fimages%2Ffreeprivacy.jpg&description=Privacy%20Policy)
