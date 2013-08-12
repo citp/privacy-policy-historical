@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exoplanetwar.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116103125id_/http%3A//www.exoplanetwar.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exoplanetwar.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812123352id_/http%3A//www.exoplanetwar.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Exoplanet War
 
