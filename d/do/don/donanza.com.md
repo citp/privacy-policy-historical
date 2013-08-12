@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the donanza.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116050758id_/http%3A//www.donanza.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donanza.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812164722id_/http%3A//www.donanza.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | DoNanza
 
@@ -77,6 +77,8 @@ Donanza.com uses a third-party service provider to manage credit card processing
 Donanza.com reserves the right to use or disclose information provided if required by law or if the Company reasonably believes that use or disclosure is necessary to protect the Company’s rights and/or to comply with a judicial proceeding, court order, or legal process Additionally, the Company may share account or other information when DoNanza believes it is necessary to comply with law, to protect its interests or property, to prevent fraud or other illegal activity perpetrated through the Company's Websites or using the DoNanza's name, or to prevent imminent bodily harm. This may include sharing information with other companies, lawyers, agents or governmental agencies as required.
 
 In any case in which the ownership of DoNanza's business shall change, your user information may be transferred to the new owner.
+
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
 To facilitate donanza.com’s global operations, the Company may transfer and access Data About donanza.com Customers from around the world, including the United States. This Privacy Policy shall apply even if donanza.com transfers Data About donanza.com Customers to other countries.
 
