@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valuedopinions.com.au privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630114738id_/http%3A//www.valuedopinions.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valuedopinions.com.au privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813004013id_/http%3A//www.valuedopinions.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Online Surveys, Paid Surveys & Reward Surveys | Valued Opinions AUS
 
