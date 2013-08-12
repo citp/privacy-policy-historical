@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigtextrailerworld.com privacy policy that was archived on 2012-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120803125056id_/http%3A//www.bigtextrailerworld.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigtextrailerworld.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812020110id_/http%3A//bigtextrailerworld.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Big Tex Trailer World Privacy Policy
 
