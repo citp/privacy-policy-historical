@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dominos.co.in privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117081444id_/http%3A//www.dominos.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dominos.co.in privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812033310id_/http%3A//www.dominos.co.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -44,13 +44,13 @@ Use and Disclosure
 
 Except as otherwise stated, we may use information collected via this site to improve the content of our site, to customize the site to your preferences, to communicate information to you (if you have requested it), and for any other purpose specified.
 
-Domino's may use the personal information that you submit to store and process that information in order to provide goods and services. Generally, we may use your personal information in the ways in which you would expect, including but not limited, to any of the following purposes:
+Domino's may use the personal information that you submit to restaurant and process that information in order to provide goods and services. Generally, we may use your personal information in the ways in which you would expect, including but not limited, to any of the following purposes:
 
 To allow you to participate as WOW Club member.
 
 To process any job application you may submit.
 
-To provide you with any store or promotion information you may request.
+To provide you with any restaurant or promotion information you may request.
 
 To process any online ordering.
 
@@ -81,7 +81,7 @@ Domino's may share statistics and personal information between themselves and wi
   * If you have provided your express consent to share the information.
   * If Domino's are required or authorized by law to disclose the information.
   * If your personal information is collected in connection with a joint promoter, to that joint promoter for marketing and research purposes.
-  * If Domino's feel you might like to know about a third party's goods and services we may supply that personal information to that third party. (We know that many of our customers enjoy receiving these excellent offers).
+  * If Domino's feel you might like to know about a third party's goods and services we may supply that personal information to that third party. (We know that many of our guests enjoy receiving these excellent offers).
   * Or if you place an order via our internet order system, your details will be passed on to Verisign, who receive your credit card details for internet order payment. Verisign is a secure internet payment gateway that secures your credit card number during transmission. See: www.verisign.com for further details.
 
 
