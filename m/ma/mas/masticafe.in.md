@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the masticafe.in privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521032839id_/http%3A//www.masticafe.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masticafe.in privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812141143id_/http%3A//www.masticafe.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | www.MastiCafe.In
 
