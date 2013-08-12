@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itgovernance.co.uk privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529183433id_/http%3A//www.itgovernance.co.uk/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itgovernance.co.uk privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812172247id_/http%3A//www.itgovernance.co.uk/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
