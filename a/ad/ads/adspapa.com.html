@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the adspapa.com privacy policy that was archived on 2013-05-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130527094346id_/http%3A//www.adspapa.com/page/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adspapa.com privacy policy that was archived on 2013-08-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130812025115id_/http%3A//www.adspapa.com/page/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <title>India Classifieds | AdsPapa.com</title>
@@ -33,6 +33,26 @@
   </script>
   <script type="text/javascript" src="http://www.adspapa.com/easybox/easybox.min.js"></script>
   <link rel="stylesheet" href="http://www.adspapa.com/easybox/easybox.min.css" type="text/css" media="screen">
+  <script type="text/javascript">
+  $(function () {
+   var msie6 = $.browser == 'msie' && $.browser.version < 7;
+   if (!msie6) {
+    var top = $('#sbarscroll').offset().top - parseFloat($('#sbarscroll').css('margin-top').replace(/auto/, 0));
+    $(window).scroll(function (event) {
+      // what the y position of the scroll is
+      var y = $(this).scrollTop();
+      // whether that's below the form
+      if (y >= top) {
+        // if so, ad the fixed class
+        $('#sbarscroll').addClass('fixed');
+      } else {
+        // otherwise remove it
+        $('#sbarscroll').removeClass('fixed');
+      }
+    });
+   }
+  });
+  </script>
 <script type="text/javascript" src="http://www.adspapa.com/js/functions_cust.js"></script>
     
 <script type="text/javascript">
@@ -258,13 +278,13 @@ $(function() {
     <table class="wrapper">
     <tbody><tr>
     <td>
-    <table width="990" border="0" cellspacing="0" cellpadding="0" align="center" bgcolor="white">
+    <table width="1030" border="0" cellspacing="0" cellpadding="0" align="center" bgcolor="white">
     
     	<tbody><tr>
     		    
     		<td valign="top" id="contentcell">
-    	      		<img src="http://static.adspapa.com/contentcelltop.png" width="735" height="13" alt="Free Online Classifieds">	
-    
+    	      		<img src="http://static.adspapa.com/contentcelltop.png" width="735" height="13" alt="Free Online Classifieds">
+
     		<table width="735" cellspacing="0" cellpadding="0">
     				<tbody><tr>
     					<td id="content">
@@ -285,26 +305,24 @@ $(function() {
     				</tr>
     			</tbody></table>
     		</td>
-    
-    			
-    		    					<td width="250" valign="top" id="sidebar_right" bgcolor="white">
-    						<script type="text/javascript"><!--
-google_ad_client = "ca-pub-5534155751070271";
-/* AdsPapa-250x250 */
-google_ad_slot = "8492859902";
-google_ad_width = 250;
-google_ad_height = 250;
-//-->
+    		    		    					<td width="300" valign="top" id="sidebar_right" bgcolor="white">
+    						<div id="sbarscrollwrap"><div id="sbarscroll"><script async="" src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- AdsPapa_300x250_Images -->
+<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-5534155751070271" data-ad-slot="6258578107"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+<script async="" src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- AdsPapa_300x250 -->
+<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-5534155751070271" data-ad-slot="1688777705"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+</div></div>
                  
     					</td>
     		    	</tr>
-    
     </tbody></table>
-    
-    
     </td>
     </tr>
     </tbody></table>
@@ -322,8 +340,7 @@ Copyright © 2012 AdsPapa.com - Free India Classifieds Website!. All Rights Rese
 </center>
 </td></tr>
 </tbody></table>
-     
-<input type="hidden" name="servetime" value="0.010442972183228 seconds">
+    <input type="hidden" name="servetime" value="0.0064461231231689 seconds">
 
 
 </body></html>
