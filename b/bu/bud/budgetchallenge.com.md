@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the budgetchallenge.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525092205id_/http%3A//www.budgetchallenge.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budgetchallenge.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812112942id_/http%3A//www.budgetchallenge.com/privacy.aspx) for the most accurate reproduction.*
 
 # Budget Challenge > Home
 
