@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jasonnyback.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118000916id_/http%3A//jasonnyback.com/legal/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jasonnyback.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812121439id_/http%3A//jasonnyback.com/legal/privacypolicy.php) for the most accurate reproduction.*
 
 # Untitled Document
 
