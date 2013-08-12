@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the recipelion.com privacy policy that was archived on 2013-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130610203132id_/http%3A//www.recipelion.com/index.php/hct/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the recipelion.com privacy policy that was archived on 2013-08-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130812153954id_/http%3A//www.recipelion.com/index.php/hct/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://ogp.me/ns/fb#"><head>
 
@@ -37,7 +37,7 @@
 	
 	
 	<!-- START Bing verification -->
-						<meta name="msvalidate.01" content="8AC9DF1016A2AE6A9AF13929D3192FD8">
+						<meta name="msvalidate.01" content="CF33266DDC4229951386F3A5B3266E55">
 						
 		<!-- END Bing verification -->
 	
@@ -49,24 +49,24 @@
 	<!--<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>-->
 	<!--<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js"></script>-->
 	<!--<script type="text/javascript" src="/javascript/jquery-1.5.min.js"></script>-->
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery-1.5.2.min.js?v=5"></script>
+	<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery-1.5.2.min.js?v=11"></script>
 	
 	<!-- start jquery ui -->
 	<!-- this was installed to get the autocomplete feature, contains: Core, Widget, Position, Autocomplete -->
-	<script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery-ui-1.8.12.custom/js/jquery-ui-1.8.12.custom.min.js?v=5"></script>
-	<link rel="stylesheet" type="text/css" href="/javascript/jquery-ui-1.8.12.custom/css/ui-lightness/jquery-ui-1.8.12.custom.css?v=5" media="screen">
+	<script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery-ui-1.8.12.custom/js/jquery-ui-1.8.12.custom.min.js?v=11"></script>
+	<link rel="stylesheet" type="text/css" href="/javascript/jquery-ui-1.8.12.custom/css/ui-lightness/jquery-ui-1.8.12.custom.css?v=11" media="screen">
 	<!-- end jquery ui -->
 	
 	
 	<!-- jQuery Tools Library (Tabs, Tooltip, Scrollable, Overlay, Expose. No jQuery) --> 
 	<!--<script src="http://cdn.jquerytools.org/1.1.0/tiny/jquery.tools.min.js"></script>-->
-		<script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery.tools.min_v1.1.0.js?v=5"></script>
+		<script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery.tools.min_v1.1.0.js?v=11"></script>
 	
 	
 
-	<script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery.form.js?v=5"></script>
+	<script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery.form.js?v=11"></script>
 	
-	<script type="text/javascript" src="http://cf2.primecp.com/javascript/site_functions.js?v=5"></script>
+	<script type="text/javascript" src="http://cf2.primecp.com/javascript/site_functions.js?v=11"></script>
 	
 	
 	
@@ -84,13 +84,13 @@
 			
 	
 			<!-- START getPageJavascript -->
-					<!-- array count: 3 -->
+					<!-- array count: 4 -->
 					<!-- START titter js -->
 		<script type="text/javascript">
 		
 			$(document).ready(
 				function() {
-					//alert('getJavascript_topSocialLinks ready line: 10706');
+					//alert('getJavascript_topSocialLinks ready line: 10769');
 					
 					$('#topSocialLinkMenu .socialButtonTable').show();
 					
@@ -150,7 +150,7 @@
 			
 			$(document).ready(
 				function() {
-					//alert('getJavascript_loginDhtmlContent ready - line: 15993');
+					//alert('getJavascript_loginDhtmlContent ready - line: 16294');
 					/**
 					 *set click handler for all the close boxes in the dhtml
 					 */
@@ -484,6 +484,32 @@
 		
 		</script>
 		<!-- END login dhtml js -->
+				<!-- START header search form js -->
+		<script type="text/javascript">
+			
+			var header_search_obj = {};
+			header_search_obj.form_id = 'headerSearchForm';
+			
+			$(document).ready(
+				function() {
+					//alert('getJavascript_headerSearchForm');
+					
+					$('#' + header_search_obj.form_id).submit(
+						function(){
+							//console.log('form submitted');
+							$(this).css(
+								{
+									'opacity': 0.2
+								}
+							);
+						}
+					);
+					
+				}
+			);
+			
+		</script>
+		<!-- END header search form js -->
 		<script type="text/javascript">
 
 
@@ -567,6 +593,10 @@ $(document).ready(
 			{
 				beforeSubmit: ajaxFormPreSubmit,
 				success: function(response) {
+					
+					// log all submits, passing something about the success/new user
+					post_newsletter_signup.logRightRailSubmit(response.is_new_signup, $('#newsletterSignUpForm :input[name=rriID]').val());
+					
 					
 					//alert('result = ' + response.result);
 					
@@ -1459,6 +1489,34 @@ function triggerWiderFunnel(){
 
 //------------------------------------------------------------------------------------------------------------
 
+post_newsletter_signup.logRightRailSubmit = function(isNewSignup, rriID){
+	//console.log('post_newsletter_signup.logRightRailSubmit');
+	//console.log('is_new_signup: ' + is_new_signup);
+	//console.log('rriID: ' + rriID);
+	
+	if(isNewSignup == 1 || isNewSignup == true){
+		isNewSignup = 1;
+	}else{
+		isNewSignup = 0;
+	}
+	
+	$.ajax(
+		{
+			type: "POST",
+			dataType: "json",
+			timeout: '10000',
+			url: "/ajax_process.php",
+			data: {
+				task: 'log_right_rail_submit',
+				rriID: rriID,
+				isNewSignup: isNewSignup
+			},
+			success: function(json) {
+			
+			}
+		}
+	);
+}
 
 
 
@@ -1672,18 +1730,18 @@ function triggerWiderFunnel(){
 	
 	
 			<!-- get css for the email signup creative -->
-		<link rel="stylesheet" href="/site_templates/signup_creative/css/nscID_10.css?v=5" type="text/css" media="screen">	
+		<link rel="stylesheet" href="/site_templates/signup_creative/css/nscID_10.css?v=11" type="text/css" media="screen">	
 			
 	
 	
-	<link type="text/css" rel="stylesheet" href="/css/jquery.rating.css?v=5" media="screen">
+	<link type="text/css" rel="stylesheet" href="/css/jquery.rating.css?v=11" media="screen">
 	
 	<!--
 	start css
 	-->
-	<link rel="stylesheet" href="/site_templates/0003/css/main_styles.css?v=5" type="text/css" media="screen">
+	<link rel="stylesheet" href="/site_templates/0003/css/main_styles.css?v=11" type="text/css" media="screen">
 	
-	<link rel="stylesheet" href="/site_templates/0003/css/print_styles.css?v=5" type="text/css" media="print">
+	<link rel="stylesheet" href="/site_templates/0003/css/print_styles.css?v=11" type="text/css" media="print">
 	
 	
 	
@@ -1704,7 +1762,7 @@ function triggerWiderFunnel(){
 
 			window.fbAsyncInit = function() {
 			
-				//console.log('call to window.fbAsyncInit line 15823');
+				//console.log('call to window.fbAsyncInit line 16124');
 			
 				FB.init({
 					appId      : '214538311983530', // App ID Favecrafts
@@ -1856,6 +1914,57 @@ function triggerWiderFunnel(){
 			
 		</script>
 		<!-- END Facebook Javascript SDK js -->
+				<!-- START event tracking - related articles js -->
+		<script type="text/javascript">
+			
+			var eventTracking_outboundLinks = {};
+			eventTracking_outboundLinks.link_class = 'outboundLink';
+			
+			$(document).ready(
+				function() {
+		
+					//alert('getJavascript_eventTracking_outboundLinks ready');
+					//console.log('getJavascript_eventTracking_outboundLinks ready');
+					
+					eventTracking_outboundLinks.initEventTracking();
+					
+					
+				} // end main func
+			); // end ready;
+			
+			
+			eventTracking_outboundLinks.initEventTracking = function(){
+				//console.log('eventTracking_outboundLinks.initEventTracking');
+				
+				$('a.'+ eventTracking_outboundLinks.link_class).click(
+					function(){
+						var link_url = $(this).attr('href');
+						//console.log('link_url: ' + link_url);
+						
+						var page_title_obj = $('head title')[0];
+						//console.log( $(page_title_obj).html() );
+						
+						_gaq.push(
+							[
+								'_trackEvent', 
+								'Click', 
+								'OutboundExternal', 
+								$(page_title_obj).html(),
+								, 
+								false
+							]
+						);
+						
+						
+						//return false;
+					}
+				);
+				
+			}
+			
+			
+		</script>
+		<!-- END event tracking - related articles js -->
 			
 				
 		
@@ -1946,7 +2055,7 @@ function triggerWiderFunnel(){
 			<table id="logoTable" border="0">
 				<tbody><tr>
 					<td>
-								<a id="headerLogo" href="/"><img src="http://cf2.primecp.com/site_templates/0003/images/site_logo_internal_sID27.gif?v=5" alt="RecipeLion.com"></a>
+								<a id="headerLogo" href="/"><img src="http://cf2.primecp.com/site_templates/0003/images/site_logo_internal_sID27.gif?v=11" alt="RecipeLion.com"></a>
 			<div id="thisPageLinks" class="internal whiteLinks" style="margin-top: 20px;"><a class="firstLink" href="/site-map">Site Map</a><a href="/rss-feed">RSS</a><!--<a href="javascript: alert('Coming Soon');">Shop</a>--><a href="" class="lastLink" onclick="return bookmark('http://www.recipelion.com/index.php/hct/privacy_policy','');">Bookmark</a><!--<a id="emailPageLink" class="lastLink" href="#">Email This Page</a>--></div>
 						</td>
 					<td class="" style="text-align: right; padding: 5px 5px 0 0; width: 735px;">
@@ -2028,101 +2137,149 @@ function triggerWiderFunnel(){
 					
 					<ul>
 									<li class=""><a class="" href="/Appetizers">Appetizers</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Beans">Beans</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Beef-Recipes">Beef Recipes</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Bread-Recipes">Bread</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Breakfast-Recipes">Breakfast Recipes</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Budget-Friendly-Recipes">Budget Friendly Recipes</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Cake-Recipes">Cake</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Candy-Recipes">Candy Recipes</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Casserole-Recipes">Casserole Recipes</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Chicken-Recipes">Chicken Recipes</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Cookies-and-Bars">Cookies &amp; Bars</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Cooking-Tips">Cooking Tips</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Dairy">Dairy</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Dessert">Dessert</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Drink-Recipes">Drink Recipes</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Dry-Mixes">Dry Mixes</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Editors-Picks">Editor's Picks</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Ethnic-Food">Ethnic Food</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Featured-Foodies">Featured Foodies</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Food-Companies">Food Companies</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Foodie-Reviews">Foodie Reviews</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Fruit-Recipes">Fruit</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Grilling">Grilling</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Holidays">Holidays</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Meat">Meat Recipes</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Microwave">Microwave</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Modified-Diet">Modified Diet</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Pasta">Pasta</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Pies">Pie Recipes</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Pizza">Pizza</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Pork-Recipes">Pork Recipes</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Preserving">Preserving</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Pressure-Cooker-Recipes">Pressure Cooker</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Restaurant-Recipes">Restaurant Recipes</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Rice">Rice</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Salad">Salad</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Sandwiches">Sandwiches</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Sauces">Sauces</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/FishandSeafood">Seafood</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Side-Dishes">Side Dishes</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Crock-Pot-Recipes">Slow Cooker</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Snacks">Snacks</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Soups">Soups, Stews, Chili</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Substitutions">Substitutions</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Turkey-Recipes">Turkey</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Vegetables">Vegetables</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Vegetarian">Vegetarian</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Your-Favorite-Brands">Your Favorite Brands</a>
-											</li>
+											<!-- </a> -->
+										</li>
 									
 			</ul>	
 					</div><!-- end mainMenuDiv -->
@@ -2307,7 +2464,9 @@ function triggerWiderFunnel(){
 		
 				<form id="newsletterSignUpForm" class="contentBoxPadding" action="/newsletter_signup.php" method="post">
 					<input type="hidden" name="task" value="signup">
-					<input type="hidden" name="PHPSESSID" value="ubdoq86ht15b65r70gg66f3ll2">
+					<input type="hidden" name="PHPSESSID" value="6qidqepq311ni9svs1ji5d84u3">
+					<input type="hidden" name="rriID" value="0">
+					
 					
 					<img style="float: right; margin: 0 0 5px 5px;" src="http://cf2.primecp.com/site_templates/0003/images/newsletter_signup_bg_sID27.png" alt="">
 					
@@ -2342,16 +2501,16 @@ function triggerWiderFunnel(){
 				<div class="contentBoxPadding">
 										<h4>Top Recipes </h4>
 								<ol>
-									 <li><a href="/Free-Quick-and-Easy-Jello-Recipes/Strawberry-Cloud-Jello-Dessert/ct/1">Strawberry Cloud Jello Dessert</a></li>
-					 					 <li><a href="/Salad/Old-Fashioned-Macaroni-Salad/ct/1">Old Fashioned Macaroni Salad</a></li>
-					 					 <li><a href="/Salad/Terrific-Toasted-Quinoa-Salad/ct/1">Terrific Toasted Quinoa Salad</a></li>
-					 					 <li><a href="/Deli-Salads/Easy-Kitchen-Sink-Macaroni-Salad/ct/1">Easy Kitchen Sink Macaroni Salad</a></li>
-					 					 <li><a href="/Deli-Salads/Summertime-Pasta-Salad/ct/1">Summertime Pasta Salad</a></li>
-					 					 <li><a href="/Potato-Salad/Grandma-Frances-Wisconsin-German-Potato-Salad/ct/1">Grandma Frances' Wisconsin German Potato Salad</a></li>
-					 					 <li><a href="/Salad/Ramen-Noodle-Summer-Salad/ct/1">Ramen Noodle Summer Salad</a></li>
-					 					 <li><a href="/Mexican-Recipes/Stacked-Black-Bean-Enchilada-Pie/ct/1">Stacked Black Bean Enchilada Pie</a></li>
-					 					 <li><a href="/Deli-Salads/Coleslaw-Just-Like-KFC/ct/1">Coleslaw Just Like KFC</a></li>
-					 					 <li><a href="/Deli-Salads/Summertime-Macaroni-Salad/ct/1">Summertime Macaroni Salad</a></li>
+									 <li><a href="/Cake-Recipes/Grandmas-Magic-Cake/ct/1">Grandma's Magic Cake</a></li>
+					 					 <li><a href="/Dessert/Guilty-Pleasure-Pie/ct/1">Guilty Pleasure Pie</a></li>
+					 					 <li><a href="/Casserole-Recipes/11-Simple-Zucchini-Casserole-Recipes/ct/1">11 Simple Zucchini Casserole Recipes</a></li>
+					 					 <li><a href="/Crock-Pot-Recipes/12-Awesome-All-Day-Slow-Cooker-Recipes/ct/1">12 Awesome All Day Slow Cooker Recipes</a></li>
+					 					 <li><a href="/Deli-Salads/Old-Standby-Amish-Macaroni-Salad/ct/1">Old Standby Amish Macaroni Salad</a></li>
+					 					 <li><a href="/Cookies/5-Minute-No-Bake-Cookies/ct/1">5 Minute No Bake Cookies</a></li>
+					 					 <li><a href="/Deli-Salads/10-Minute-Creamy-Cucumber-Salad/ct/1">10-Minute Creamy Cucumber Salad</a></li>
+					 					 <li><a href="/Cake-Recipes/3-Ingredient-Creamy-Coconut-Cake/ct/1">3 Ingredient Creamy Coconut Cake</a></li>
+					 					 <li><a href="/Pies/Best-Cool-Whip-Pudding-Pie/ct/1">Best Cool Whip Pudding Pie</a></li>
+					 					 <li><a href="/Cake-Recipes/3-Minute-Cinnamon-Roll-Mug-Cake/ct/1">3 Minute Cinnamon Roll Mug Cake</a></li>
 					 			</ol>
 							</div>
 				
@@ -2485,10 +2644,7 @@ function triggerWiderFunnel(){
 										<a href="/index.php/hct/terms_service">Terms of Service</a>
 										<a href="/section/subctr/">Unsubscribe</a>
 								</p>
-					<!--
-		<p id="footerMenu">bb<a style="border: 0;" href="/index.php/hct/about_us">About Us</a><a href="/index.php/hct/advertise">Advertise</a><a href="/index.php/hct/privacy_policy">Privacy Policy</a><a href="/index.php/hct/contact_us_page">Contact Us</a><a href="/index.php/hct/terms_service">Terms of Service</a><a class="contestRulesLink" href="">Rules</a>mm</p>
-		-->
-							</div>
+								</div>
 									<div style="margin: 0; ">
 								
 		<table style="margin: 0 auto;">
@@ -2926,8 +3082,7 @@ function triggerWiderFunnel(){
 			</div><!-- end newsletterSignUpDivAnime -->
 
 				<!-- END NL signup div -->
-			
-		
+	
 		
 		<!-- START Vibrant code -->
 						<!-- start Vibrant Media IntelliTXT script section -->
@@ -2935,8 +3090,8 @@ function triggerWiderFunnel(){
 				<!-- end Vibrant Media IntelliTXT script section -->
 						
 		<!-- END Vibrant code -->
-		
-		
+
+
 				
 		
 		<!-- START Google Remarketing code -->
@@ -2944,22 +3099,43 @@ function triggerWiderFunnel(){
 		<!-- END Google Remarketing code -->
 		
 		
-		
-		<!-- START datonics.com -->
-						<script type="text/javascript" src="http://ads.pro-market.net/ads/scripts/site-132970.js"></script>
-						<!-- END datonics.com -->
-		
-		<!-- START swoop -->
-						<script type="text/javascript" id="spxw_script" src="http://ardrone.swoop.com/js/spxw.js" data-domain="SW-57430661-2" data-serverbase="http://ardrone.swoop.com/"></script>
-						<!-- END swoop -->
+				
+				
 
-
-
+					
+			<!-- START comScore Tag -->
+							<script>
+					var _comscore = _comscore || [];
+					_comscore.push({ c1: "2", c2: "6036340" });
+					(function() {
+						var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+						s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+						el.parentNode.insertBefore(s, el);
+					})();
+				</script>
+				<noscript>
+					<img src="http://b.scorecardresearch.com/p?c1=2&c2=6036340&cv=2.0&cj=1" />
+				</noscript>
+							<!-- END comScore Tag -->
+			
+			<!-- START crazy egg Tag -->
+						<!-- END crazy egg Tag -->
+			
+			<!-- START datonics.com -->
+							<script type="text/javascript" src="http://ads.pro-market.net/ads/scripts/site-132970.js"></script>
+							<!-- END datonics.com -->
+			
+			<!-- START swoop -->
+							<script type="text/javascript" id="spxw_script" src="http://ardrone.swoop.com/js/spxw.js" data-domain="SW-57430661-2" data-serverbase="http://ardrone.swoop.com/"></script>
+							<!-- END swoop -->
+					
 		
+		
+
 				
 		
 		
-		...		
+		..		
 		
 
 
