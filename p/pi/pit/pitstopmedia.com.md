@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pitstopmedia.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429210323id_/http%3A//www.pitstopmedia.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pitstopmedia.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812053621id_/http%3A//www.pitstopmedia.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Pitstop Media Inc - Privacy Policy
 
