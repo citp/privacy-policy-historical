@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanis.net privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116084650id_/http%3A//www.americanis.net/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanis.net privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813170234id_/http%3A//www.americanis.net/home/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AIS
 
@@ -22,4 +22,4 @@ Cookies are small files placed on your computer that contain only a unique numbe
 This privacy policy only addresses the use and disclosure of information we collect from you. Although you may interact with hosting companies as a result of visiting our site, or link to other sites or third parties via our website, AIS is not responsible for the privacy practices of third parties or the content of linked sites. We encourage you to read the posted privacy policy whenever interacting with any website.
 
 **How will I know about changes in the Privacy Policy?**  
-AIS reserves the right to update this privacy policy from date and time to time. Please visit this page periodically so that you will be apprised of any changes. However, we will only use Personally Identifiable Information in accordance with the Privacy Policy that was in effect at the date and time the information was collected. If at any point we should decide to use that information differently, we will notify users by way of e-mail so that users can approve or disapprove of such use. 
+AIS reserves the right to update this privacy policy from date and time to time. Please visit this page periodically so that you will be apprised of any changes. However, we will only use Personally Identifiable Information in accordance with the Privacy Policy that was in effect at the date and time the information was collected. If at any point we should decide to use that information differently, we will notify users by way of e-mail so that users can approve or disapprove of such use.
