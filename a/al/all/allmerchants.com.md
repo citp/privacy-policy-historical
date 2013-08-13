@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allmerchants.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425074731id_/http%3A//www.allmerchants.com/site/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allmerchants.com privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813082140id_/http%3A//www.allmerchants.com/site/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
