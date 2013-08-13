@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theunlocker.co.uk privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605100140id_/http%3A//www.theunlocker.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theunlocker.co.uk privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813072827id_/http%3A//www.theunlocker.co.uk/privacy.php) for the most accurate reproduction.*
 
 # The Unlocker - Privacy Policy
 
@@ -22,6 +22,8 @@ UNSUBSCRIBE. When sending our members our newsletter we give the option to unsub
 ACCOUNT TERMINATION. TheUnlocker offers its members the ability to terminate their own account for what ever reason and at any time, this can be done by logging into your account and going to the Account Settings Section.
 
 NO SPYWARE / ADWARE. TheUnlocker operates a Zero Tolerance policy regarding spyware and adware across our network, if any members profile is found to use spyware or adware on their account then the account will be terminated without warning.
+
+ADVERTISERS. We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. Third party vendors use cookies to serve ads on our site. The use of the cookie enables them to serve ads to our users based on their visit to our site and other sites on the internet. These advertisers may be placing and reading cookies on your user browser, or using web beacons to collect information, in the course of generating the most relevant and useful ads for you. 
 
 YOUR CONSENT. By using this site and its services, you consent to the collection and use of this information by TheUnlocker. If any changes to our privacy policy are made, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
