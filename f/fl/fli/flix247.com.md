@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flix247.com privacy policy that was archived on 2013-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130403033112id_/https%3A//flix247.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flix247.com privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813101215id_/https%3A//flix247.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy
 
