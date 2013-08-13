@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serverbeach.com privacy policy that was archived on 2013-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130219151343id_/http%3A//www.serverbeach.com/about-server-beach/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serverbeach.com privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813044455id_/http%3A//www.serverbeach.com/about-server-beach/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ServerBeach
 
@@ -22,6 +22,6 @@ Users may direct questions concerning this Privacy Policy by email to [privacy@p
 
 SERVERBEACH may modify this privacy policy at any time without prior notice to SERVERBEACH's Customers or the public. Persons wishing to remain appraised of SERVERBEACH's privacy policy should check this page for occasional updates.
 
-Users may elect not to receive solicitations from SERVERBEACH or from trusted affiliates, independent contractors and business partners by completing the opt-out request form here.
+Users may elect not to receive solicitations from SERVERBEACH or from trusted affiliates, independent contractors and business partners by completing the opt-out request form [here](http://go.peer1.com/ServerBeachEmailUnsubscribe.html).
 
 This Privacy Policy is effective as of February 10, 2009.
