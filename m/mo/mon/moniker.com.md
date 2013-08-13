@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moniker.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116145400id_/https%3A//www.moniker.com/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moniker.com privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813191329id_/https%3A//www.moniker.com/privacypolicy.jsp) for the most accurate reproduction.*
 
-# Domain Names Auction Privacy - Moniker SnapNames
+# Moniker Privacy Policy | Moniker.com
 
 **December 17, 2010**
 
