@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfourmonkeys.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614011752id_/http%3A//www.myfourmonkeys.com/terms-of-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfourmonkeys.com privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813212730id_/http%3A//www.myfourmonkeys.com/terms-of-service/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
