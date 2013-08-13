@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the allgirlarcade.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510165854id_/http%3A//www.allgirlarcade.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allgirlarcade.com privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813061000id_/http%3A//www.allgirlarcade.com/privacypolicy) for the most accurate reproduction.*
 
 # SparkCityWorld.com - Privacy Policy
 
-This privacy policy was last updated on **March 4, 2011**.
+This privacy policy was last updated on **August 7, 2013**.
 
 ### Table of Contents:
 
@@ -14,17 +14,18 @@ This privacy policy was last updated on **March 4, 2011**.
   * Interactive Forums, E-mails and "Chats" with Friends 
   * Newsletters and Updates
   * Ability to Review, Edit and Delete Personal Information
+  * Data Retention
   * Security
   * Amendments to Privacy Policy
   * Contact Us
 
 
 
-SparkCityWorld.com is owned by Fuel Industries Inc. ( **"Fuel Industries"** , **"we"** , **"us"** or **"our"** on which this privacy policy ( **"Privacy Policy"** ) is posted and we are committed to protecting the privacy of our users. The use of the term SparkCityWorld.com below includes a reference to Fuel Industries. This privacy policy ( **"Privacy Policy"** ) applies to the collection and use of personal information by means of a Fuel Site. Your use of SparkCityWorld.com is also governed by the [Terms of Use](http://www.allgirlarcade.com/termsofuse/) into which this Privacy Policy is incorporated by reference.
+SparkCityWorld.com is owned by Fuel Industries Inc. ( **"Fuel Industries"** , **"we"** , **"us"** or **"our"** on which this privacy policy ( **"Privacy Policy"** ) is posted and we are committed to protecting the privacy of our users. The use of the term SparkCityWorld.com below includes a reference to Fuel Industries. This privacy policy ( **"Privacy Policy"** ) applies to the collection and use of personal information by means of a Fuel Site. Your use of SparkCityWorld.com is also governed by the [Terms of Use](https://web.archive.org/web/20130813061000id_/http://www.allgirlarcade.com/privacypolicy/%3C?=URL_TERMS?%3E) into which this Privacy Policy is incorporated by reference.
 
-[](http://privacy-policy.truste.com/click-with-confidence/ctv-coppa/en/www.allgirlarcade.com/seal_l "Validate TRUSTe children privacy certification")
+[](https://privacy.truste.com/privacy-seal/Fuel-Industries/validation?rid=7a23f20f-8bb7-400f-82f1-c715460aa6c7 "TRUSTe Children privacy certification")
 
-Fuel Industries has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at support@SparkCityWorld.com. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+Fuel Industries has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this Web site, www.sparkcityworld.com and does not cover information that may be collected through our mobile applications. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at support@SparkCityWorld.com. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 ### Children Under the Age of 13
 
@@ -86,6 +87,16 @@ As described above, we use third parties to provide services for us such as a cr
 
 In addition, we are entitled to disclose and transfer personal information as part of a sale or transfer of substantially all of its assets, or the assets related to a particular line of business, to a third party, whether by way of asset sale, merger, amalgamation, share purchase or any other form transaction, provided that such third party agrees to protect the personal information with no less a degree of care as set out within this policy. 
 
+Name of Third Party Partner | What info is shared with or collected by this partner | Partner’s purpose | Link to Partner’s privacy policy  
+---|---|---|---  
+[static.pbc.com](http://static.pbc.com/) (Playpsan) | None | Static Content (Images, CSS Styles) for Playspan lightbox | <http://www.playspan.com/privacy>  
+Google Inc. (Analytics) | IP Address | Analytics | <http://www.google.com/intl/en/analytics/privacyoverview.html>  
+[playspan.com](http://playspan.com/) | Billing Information (Address, Credit Card), Player ID | Membership Billing | <http://www.playspan.com/privacy>  
+cdn.sparkcityworld.com | None | Static Content (Images, CSS, Flash content) for Spark City World | <http://www.sparkcityworld.com/privacypolicy/>  
+TRUSTe | IP address | Privacy verification | <http://www.truste.com/privacy-policy>  
+  
+If you have any inquiries regarding our partner’s privacy practices or how they use your child’s personal information, please contact us directly at [support@SparkCityWorld.com](mailto:support@SparkCityWorld.com) [see contact section below]
+
 Back to Top
 
 ### Interactive Forums, E-mails and "Chats" with Friends
@@ -112,6 +123,12 @@ Registered users (or parents or legal guardians of kids under 13 who are registe
 
 Back to Top
 
+### Data Retention
+
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+
+Back to Top
+
 ### Security
 
 The security of your personal information is important to us. When you enter sensitive information (such as credit card number) on our order forms, we encrypt that information using secure socket layer technology (SSL). 
@@ -122,9 +139,9 @@ Back to Top
 
 ### Amendments to Privacy Policy
 
-We reserve the right to change this privacy policy at any time by notifying you of the existence of a new privacy policy However, if we make material changes to our privacy practices, such changes, modifications, additions or deletions shall be effective immediately upon notice thereof, which may be given by means including, but not limited to, posting on the applicable Fuel Site, or by any other means by which you obtain notice thereof. Your continued use of the applicable Fuel Site after such modifications will constitute your: (a) acknowledgement of the modified privacy policy; and (b) agreement to abide and be bound by the modified privacy policy. 
+We reserve the right to change this privacy policy at any time by notifying you of the existence of a new privacy policy However, if we make material changes to our privacy practices, such changes, modifications, additions or deletions shall be effective immediately upon notice thereof, which may be given by means including, but not limited to, posting on the applicable Fuel Site, or by any other means by which you obtain notice thereof prior to the change becoming effective. Your continued use of the applicable Fuel Site after such modifications will constitute your: (a) acknowledgement of the modified privacy policy; and (b) agreement to abide and be bound by the modified privacy policy. 
 
-If we make material changes to how we use Personal Information collected from children under age 13, we will notify parents by email in order to obtain verifiable parental consent for the new uses of the child's Personal Information. 
+If we make material changes to how we use Personal Information collected from children under age 13, we will notify parents by email in order to obtain verifiable parental consent for the new uses of the child's Personal Information prior to the change becoming effective. 
 
 Back to Top
 
