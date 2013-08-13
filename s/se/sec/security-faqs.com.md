@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the security-faqs.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627001648id_/http%3A//www.security-faqs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the security-faqs.com privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813173915id_/http%3A//www.security-faqs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
