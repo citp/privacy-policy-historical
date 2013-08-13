@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brainiacdating.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525043223id_/http%3A//brainiacdating.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainiacdating.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814012007id_/http%3A//brainiacdating.com/privacy.php) for the most accurate reproduction.*
 
-# Find smart singles at BrainiacDating.com.
+# Smarter dating for brainiacs and geeks at Brainiacdating.com
 
 ## Social Universe, LLC, BrainiacDating.com and Brainiac Match Website Privacy Statement
 
