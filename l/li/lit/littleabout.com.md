@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the littleabout.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116152833id_/http%3A//www.littleabout.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littleabout.com privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813040820id_/http%3A//www.littleabout.com/privacy-policy) for the most accurate reproduction.*
 
 # Little About - Privacy Policy
 
