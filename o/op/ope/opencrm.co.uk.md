@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opencrm.co.uk privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607102631id_/http%3A//opencrm.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opencrm.co.uk privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813104236id_/http%3A//www.opencrm.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy & Delivery Policy
 
@@ -10,7 +10,7 @@ We at OpenCRM and Software Add-ons Limited ("Software Add-ons") are constantly s
 
 When you visit our Web sites, you may be providing us with information about your visit in two ways:
 
-* Statistics collected as you browse ([Cookies](http://www.opencrm.co.uk/privacy-policy.html#Cookies)).  
+* Statistics collected as you browse ([Cookies](http://opencrm.co.uk/privacy-policy.html#Cookies)).  
 * Organisational and personal information you knowingly give us.
 
 Because we respect your right to privacy, we want you to be aware of how we handle this information.
