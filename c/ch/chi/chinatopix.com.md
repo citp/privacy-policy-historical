@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chinatopix.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621062606id_/http%3A//www.chinatopix.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinatopix.com privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813185533id_/http%3A//www.chinatopix.com/privacypolicy) for the most accurate reproduction.*
 
 # ChinaTopix.com
 
