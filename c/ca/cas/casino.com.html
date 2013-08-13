@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the casino.com privacy policy that was archived on 2013-04-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130429193910id_/http%3A//www.casino.com/about/security-privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the casino.com privacy policy that was archived on 2013-08-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130813171939id_/http%3A//www.casino.com/about/security-privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US" itemscope="" itemtype="http://schema.org/Product"><head>
 
@@ -63,7 +63,7 @@
 
 	
 <!--
-/* Malformed test condition in IF element:  language!=''language='ch/fr' || language!='ch/fr' || language!='ca/fr' || language!='ca/fr' *///-->
+/* Malformed test condition in IF element:  language!=''language='ch/fr' || language!='ch/fr' || language!='ca/fr' || language!='ca/fr'  *///-->
 
 		
 
@@ -178,7 +178,14 @@ if(typeof(_vis_opt_MTS_track) == "function") { _vis_opt_MTS_track(); }
 <!--[ Header Start ]-->
 <div id="header">
     <!--[ Logo Start ]-->
-    <div id="logo"><a href="/"><img src="http://cacheimg.casino.com/images/www/general/trans.gif" alt="Online Casino" height="1" width="1"></a></div>
+    <div id="logo">
+    
+        
+    <a href="/">
+        
+        
+    
+    <img src="http://cacheimg.casino.com/images/www/general/trans.gif" alt="Online Casino" height="1" width="1"></a></div>
     <!--[ Logo End ]-->
 
     <!--[ Accessabilty Start ]-->
@@ -329,7 +336,13 @@ if(typeof(_vis_opt_MTS_track) == "function") { _vis_opt_MTS_track(); }
                                 <!--[ Breadcrumb Start ]-->
                 <div id="breadcrumb">
                     <ul>
-						<li class="first home"><strong>You are here: </strong><a href="/">Casino Home</a></li>
+                    	<li class="first home"><strong>You are here: </strong>
+                    	
+                    		
+							
+						</li>
+							
+						
 						<li class="last">&gt; <a href="/about/">About</a> &gt; Security &amp; Privacy</li>
                     </ul>
                 </div>
@@ -719,12 +732,14 @@ if(typeof(_vis_opt_MTS_track) == "function") { _vis_opt_MTS_track(); }
 
                 <!--[ Page Content Start ]-->
                 <div id="page-content">
-                    
+                    <div id="page-picture">
                         
+                            
+                            
                         
+                            
                         
-                        
-                    
+                    </div>
 
                     
                         
@@ -1021,6 +1036,7 @@ if(typeof(_vis_opt_MTS_track) == "function") { _vis_opt_MTS_track(); }
                 		<li><a href="/visa-casino/"><span>Visa Casino</span></a></li>
                 		<li><a href="/moneybookers-casino/"><span>Moneybookers Casino</span></a></li>
                 		<li><a href="/neteller-casino/"><span>Neteller Casino</span></a></li>
+                          <li><a href="/skrill-moneybookers/"><span>Skrill Casino</span></a></li>
                 	</ul>
 
                 </li>
@@ -1228,6 +1244,10 @@ Only players <a href="/about/responsible-gaming.html">above the age of 18</a> ar
 
     <script type="text/javascript">
         $(document).ready(function () {
+            
+                
+            
+
             $('#sideBanner').show();
         });
 
@@ -1236,7 +1256,7 @@ Only players <a href="/about/responsible-gaming.html">above the age of 18</a> ar
         var attributes = {};
         params.wmode = "transparent";
         params.allowscriptaccess = "always";
-        swfobject.embedSWF("http://cacheimg.casino.com/images/www/sidebox.swf?xml=http://www.casino.com/" + CONSTANTS.language_directory + "images/targeted/welcome_banner.xml", "sideBanner", "190", "100", "9.0.0", "expressInstall.swf", flashvars, params, attributes);
+        swfobject.embedSWF("http://cacheimg.casino.com/images/www/sidebox.swf?xml=http://" + document.domain + "/" + CONSTANTS.language_directory + "images/targeted/welcome_banner.xml", "sideBanner", "190", "100", "9.0.0", "expressInstall.swf", flashvars, params, attributes);
 
         if (swfobject.hasFlashPlayerVersion("1")) {
             $('#sideBanner').removeAttr('onclick');
