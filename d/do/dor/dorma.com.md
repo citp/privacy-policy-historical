@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the dorma.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231063432id_/http%3A//www.dorma.com/us/en/privacy-statement/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dorma.com privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813164958id_/http%3A//www.dorma.com/us/en/privacy-statement/index.html) for the most accurate reproduction.*
 
 # DORMA Legals & Privacy | Privacy Statement
 
-Privacy Statement 
-
-DORMA Americas ("DORMA" including Modernfold, Inc., Crane Revolving Doors, DORMA-Carolina Door Controls) is committed to protecting your privacy.  This Privacy Policy discloses how we collect, share, and use information about you that DORMA collects through the [www.dorma-usa.com](http://www.dorma-usa.com/) | [www.dorma.com/us/]() (also www.modernfold.com, www.cranedoor.com, www.carolinadoor.com) website and our use of and your ability to correct the information collected.  The www.dorma-usa.com | www.dorma.com/us/ Website provides visitors with information about DORMA and our products.  In using and viewing the www.dorma-usa.com | www.dorma.com/us/ website, you understand that DORMA may use your “Personally Identifiable Information” (such as name, email address, street address, or telephone number) subject to the terms of this Privacy Policy.
+DORMA ("DORMA" including Modernfold, Inc., Rutherford Int'l Corp.) is committed to protecting your privacy.  This Privacy Policy discloses how we collect, share, and use information about you that DORMA collects through the [www.dorma-usa.com](http://www.dorma-usa.com/) | [www.dorma.com/us](http://www.dorma.com/us) (also [www.modernfold.com](http://www.modernfold.com/), [www.rutherfordcontrols.com](http://www.rutherfordcontrols.com/)) website and our use of and your ability to correct the information collected. The www.dorma-usa.com | www.dorma.com/us/ Website provides visitors with information about DORMA and our products.  In using and viewing the www.dorma-usa.com | www.dorma.com/us/ website, you understand that DORMA may use your “Personally Identifiable Information” (such as name, email address, street address, or telephone number) subject to the terms of this Privacy Policy.
 
 ##### Information Collected on the www.dorma-usa.com | www.dorma.com/us/ Website
 
@@ -79,7 +77,7 @@ This Website has industry-standard security measures in place to protect the los
 
 Please feel free to share any comments and concerns with us. If you have any questions about this Privacy Policy or the practices of the www.dorma-usa.com | www.dorma.com/us/ Website, please contact us at:
 
-DORMA Americas  
+DORMA USA, Inc.  
 Dorma Drive, Drawer AC  
 Reamstown, PA 17567-0411  
 Attention:  Privacy Manager
