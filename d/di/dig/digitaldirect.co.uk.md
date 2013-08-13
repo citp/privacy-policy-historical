@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the digitaldirect.co.uk privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429141025id_/http%3A//www.digitaldirect.co.uk/guide/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitaldirect.co.uk privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813211523id_/http%3A//www.digitaldirect.co.uk/guide/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Digital Direct
+
+[ ](https://web.archive.org/spring-sale-deals-sales-special-offers-deal-offer-bargain)
 
 Digital Direct take your privacy rights as a customer seriously. This policy outlines the data we collect from our visitors and how we use it.
 
