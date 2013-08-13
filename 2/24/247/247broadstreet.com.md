@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 247broadstreet.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620131943id_/http%3A//247broadstreet.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 247broadstreet.com privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813133745id_/http%3A//247broadstreet.com/privacy_policy.php) for the most accurate reproduction.*
 
 # 
 
