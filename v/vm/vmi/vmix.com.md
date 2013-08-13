@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vmix.com privacy policy that was archived on 2013-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130307174526id_/http%3A//www.vmix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vmix.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814014511id_/http%3A//www.vmix.com/privacy-policy) for the most accurate reproduction.*
 
 # VMIX Privacy Policy
 
