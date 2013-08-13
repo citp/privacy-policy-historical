@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jv-extensions.com privacy policy that was archived on 2013-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130126152942id_/https%3A//www.jv-extensions.com/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jv-extensions.com privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813051927id_/https%3A//www.jv-extensions.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Policies
+# Privacy Policy - JV-Extensions
 
 The email address you provide for order processing, may be used to send you information and updates pertaining to your order or request, in addition to receiving occasional company news, updates, promotions, related product or service information, etc.  
 Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
