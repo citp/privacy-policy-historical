@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1mobile.com privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420055117id_/http%3A//1mobile.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1mobile.com privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813045534id_/http%3A//www.1mobile.com/info/privacy.html) for the most accurate reproduction.*
 
 # About Us
 
