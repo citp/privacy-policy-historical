@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the missouriquiltco.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514181816id_/http%3A//missouriquiltco.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the missouriquiltco.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814011711id_/http%3A//www.missouriquiltco.com/content/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Missouri Star Quilt Co.
 
