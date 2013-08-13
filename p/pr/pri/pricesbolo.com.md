@@ -1,31 +1,16 @@
-> *The following text is extracted and transformed from the pricesbolo.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218033812id_/http%3A//www.pricesbolo.com/WebUI/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricesbolo.com privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813221213id_/http%3A//pricesbolo.com/online/Privacy_Policy) for the most accurate reproduction.*
 
-# Privacy Policy of Pricesbolo.com - Online Shopping and Price Comparison in india
+# Privacy Policy
 
 At Pricesbolo.com we value your privacy. Our Privacy policy explains the information collected from you, when you use Pricesbolo.com services and also the steps taken by us in safeguarding your information. We hope this will make you comfortable in sharing your personal information with us.
 
-  
-
-
 ### Personal data we collect from you.
 
-Pricesbolo.com collects personal information when you register for a Pricesbolo.com or otherwise voluntarily provide such information. We use this information to provide a better user experience, including customizing content for you.
-
-The types of personal information collected from you are Name, Email, Address, Phone Number 
-
-Pricesbolo.com uses cookies and other technologies to enhance your online experience and to learn about how you use Pricesbolo.com in order to improve the quality of our services.
-
-  
-
+Pricesbolo.com collects personal information when you register for a Pricesbolo.com or otherwise voluntarily provide such information. We use this information to provide a better user experience, including customizing content for you. The types of personal information collected from you are Name, Email, Address, Phone Number Pricesbolo.com uses cookies and other technologies to enhance your online experience and to learn about how you use Pricesbolo.com in order to improve the quality of our services.
 
 ### The Way we use your personal information
 
-We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties
-
-Pricesbolo.com servers automatically record information like URL, IP address, browser type and language, and the date and time of your request when you visit our website.
-
-  
-
+We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties Pricesbolo.com servers automatically record information like URL, IP address, browser type and language, and the date and time of your request when you visit our website.
 
 ### Contact us :
 
