@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bellaradar.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610063504id_/http%3A//bellaradar.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bellaradar.com privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813202242id_/http%3A//bellaradar.com/terms) for the most accurate reproduction.*
 
-# Terms of Use & Privacy Policy | bellaRadar.com
+# Terms of Use & Privacy Policy | BellaRadar.com – All About The Clothes, Shoes & Style!
 
 **Terms of Use**
 
