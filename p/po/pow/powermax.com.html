@@ -1,499 +1,183 @@
-<!--The following is the downloaded HTML source of the powermax.com privacy policy that was archived on 2013-04-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130420091851id_/http%3A//www.powermax.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the powermax.com privacy policy that was archived on 2013-08-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130814014133id_/http%3A//www.powermax.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-	<title>Privacy Policy | PowerMax</title>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<meta name="google-site-verification" content="TEDb-n0-41wOYvBx8LFrB6KeCPEYd-Swc9rgPih4F98">
-	<meta name="msvalidate.01" content="11D6EEF239478BEEE0C91D4847FFE64E">
-  <meta name="Author" content="PowerMax.">
-  <meta name="copyright" content="Copyright © 2012 PowerMax. All rights reserved"> 
-	<meta name="y_key" content="c29be21de6ae8f31">
-	<meta http-equiv="X-UA-Compatible" content="IE=8"> 
-		<meta name="description" content="The used Apple computer experts. Quality new, used &amp; refurbished Macintosh computers all TAX FREE and FREE SHIPPING on most orders over $100.">
-	
-	  
-  <link href="/css/master.css" rel="stylesheet" type="text/css">
-  
-  <!--[if IE 7]>
-        <link href="/css/ie7.css" rel="stylesheet" type="text/css" />
-  <![endif]-->
-  
-  <!-- JavaScript -->
-  <!--[if IE 8]>
-        <link href="/css/ie8.css" rel="stylesheet" type="text/css" />
-  <![endif]-->
-  <!-- JavaScript -->
-  
-  <!--[if IE 9]>
-        <link href="/css/ie9.css" rel="stylesheet" type="text/css" />
-  <![endif]-->
-  <!-- JavaScript --> 
-   	
-
-  <!-- Load Libraries -->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
-<script>!window.jQuery && document.write(unescape('%3Cscript src="/js/jquery-1.6.4.min.js"%3E%3C/script%3E'))</script><script src="/js/jquery-1.6.4.min.js"></script>
-	<script type="text/javascript" src="/js/jquery.tweet.js"></script>
-	<script type="text/javascript" src="/js/jquery.cycle.all.min.js"></script>
-	<script type="text/javascript" src="/js/floating-1.7.js"></script>
-	<script type="text/javascript" src="/js/jquery.colorbox.js"></script>
-
-
-<!-- Navigation Drop-Down Menu -->
-<script type="text/javascript">
-  function changeBackground(oEl, iMode) {
-    var sId = oEl.id;
-    if (sId == null) alert("Your Element Does Not Have An ID!");
-    
-    if ((sId == 'menuAllProducts') || (sId == 'sub-menuAllProducts')) {
-      if (iMode == 1) {
-        document.getElementById('menuAllProducts').style.backgroundPosition='0px -35px';
-        document.getElementById('menuAllProducts').style.height = "46px";
-      } else if (iMode == 2) {
-        document.getElementById('menuAllProducts').style.backgroundPosition='0px 0px';
-        document.getElementById('menuAllProducts').style.height = "35px";
-      }
-    } else if ((sId == 'menuCustomerResources') || (sId == 'sub-menuCustomerResources' ))  {
-      if (iMode == 1) {
-        document.getElementById('menuCustomerResources').style.backgroundPosition='0px -35px';
-        document.getElementById('menuCustomerResources').style.height = "46px";
-      } else if (iMode == 2) {
-        document.getElementById('menuCustomerResources').style.backgroundPosition='0px 0px';
-        document.getElementById('menuCustomerResources').style.height = "35px";
-      }
-    } else if ((sId == 'menuPowerMaxAttitude') || (sId == 'sub-menuPowerMaxAttitude' )) {
-      if (iMode == 1) {
-        document.getElementById('menuPowerMaxAttitude').style.backgroundPosition='0px -35px';
-        document.getElementById('menuPowerMaxAttitude').style.height = "46px";
-      } else if (iMode == 2) {
-        document.getElementById('menuPowerMaxAttitude').style.backgroundPosition='0px 0px';
-        document.getElementById('menuPowerMaxAttitude').style.height = "35px";
-      }
-    } else if ((sId == 'menuShippingPayment') || (sId == 'sub-menuShippingPayment' ))  {
-      if (iMode == 1) {
-        document.getElementById('menuShippingPayment').style.backgroundPosition='0px -35px';
-        document.getElementById('menuShippingPayment').style.height = "46px";
-      } else if (iMode == 2) {
-        document.getElementById('menuShippingPayment').style.backgroundPosition='0px 0px';
-        document.getElementById('menuShippingPayment').style.height = "35px";
-      }
-    } 
-  }
-
-
-</script>
-  
-  <script type="text/javascript">
-  $(document).ready(function(){
-  	//--Rotating Banner 
-          $("#banner").cycle({ 
-              fx:     'fade', 
-              speed: 2000,
-              timeout: 7000,
-              pager:  '#bannerNav' 
-          });
-  
-  	//--Tweeting 
-          $(".tweet").tweet({
-              username: "powermax_news",
-              join_text: "auto",
-              //avatar_size: 32,
-              count: 1,
-              auto_join_text_default: "", 
-              auto_join_text_ed: "",
-              auto_join_text_ing: "",
-              auto_join_text_reply: "",
-              auto_join_text_url: "",
-              loading_text: "loading tweets..."
-          });
-
-     //--Feedback Form
-     	function validEmail(email) {
-			var emailReg = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/;
-			return emailReg.test( email );
-		}
-     	
-     
-          $('#submit_feedback').click(function(){
-            //cleanup prev validation
-            $('#feedback_email').removeClass('error');
-            $('#feedback_comments').removeClass('error');
-              
-              var email = $('#feedback_email').val();
-        	  if(email =='' || !validEmail(email) ){
-            	  $('#feedback_email').addClass('error');
-
-        	  }else if($('#feedback_comments').val() ==''){
-            	  $('#feedback_comments').addClass('error');
-
-              }else{
-        	  	$.post('/ajax/send_feedback', $("#feedback_form").serialize(), function(data) {
-        		    $("#feedbackform").html('<b>Thanks for your feedback!</b>'); // Hello World!
-        		});
-              }
-
-          });
-  });
-  </script>
-  
-  
-  
-  
-  <!-- ColorBox -->
-  <link rel="stylesheet" href="/css/colorbox.css">  
-     <script>
-        $(document).ready(function(){
-          //Examples of how to assign the ColorBox event to elements
-          $(".wheresMax").colorbox({rel:'wheresMax'});
-          $(".group2").colorbox({rel:'group2', transition:"fade"});
-          $(".group3").colorbox({rel:'group3', transition:"none", width:"75%", height:"75%"});
-          $(".group4").colorbox({rel:'group4', slideshow:true});
-          $(".ajax").colorbox();
-          $(".youtube").colorbox({iframe:true, innerWidth:425, innerHeight:344});
-          $(".maxvids").colorbox({iframe:true, innerWidth:640, innerHeight:360});
-          $(".iframe").colorbox({iframe:true, width:"80%", height:"80%"});
-					//Mac Trade-In - Used for the "Learn More"
-					$(".modifier").colorbox({inline:true, width:"600"});
-					$(".processor").colorbox({inline:true, width:"600"});
-					$(".memory").colorbox({inline:true, width:"600"});
-					$(".driveCapacity").colorbox({inline:true, width:"600"});
-					//End
-          $(".feedback").colorbox({inline:true, width:"500"});
-          $(".callbacks").colorbox({
-            onOpen:function(){ alert('onOpen: colorbox is about to open'); },
-            onLoad:function(){ alert('onLoad: colorbox has started to load the targeted content'); },
-            onComplete:function(){ alert('onComplete: colorbox has displayed the loaded content'); },
-            onCleanup:function(){ alert('onCleanup: colorbox has begun the close process'); },
-            onClosed:function(){ alert('onClosed: colorbox has completely closed'); }
-          });
-
-          var $gallery = $("a.proimage").colorbox({rel:'pro1'});
-          $("#viewmore").click(function(e){
-              e.preventDefault();
-              $gallery.eq(0).click();
-          });
-          
-
-	   });
-    </script>  
-		    
-
-	
-	<script type="text/javascript" src="https://use.typekit.com/dyz1hic.js"></script>
-	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-	<script type="text/javascript" src="/js/scripts.js"></script>
-	<script type="text/javascript" src="/js/fsmenu.js"></script>
-	<script type="text/javascript">
-	//<![CDATA[
-
-	var divMenu = new FSMenu('divMenu', false, 'visibility', 'visible', 'hidden');
-	divMenu.cssLitClass = 'highlighted';
-	divMenu.animInSpeed = 1;
-	divMenu.animOutSpeed = 1;
-
-	var csnw_cart_exists = false;
-	//]]>
-	</script>	
-  
-	
-</head>
-
-
-<body id="privacy" class="privacy">
-<div id="wrapper">
-		<div id="objectsBkg">
-    	<div id="navTop">
-      	<div class="column1">
-      		<a href="http://www.powermax.com">Home</a>&nbsp;|&nbsp;<a href="http://www.powermax.com/about/">About</a>&nbsp;|&nbsp;<a href="http://www.powermax.com/about/contact/">Contact</a>&nbsp;|&nbsp;<a href="http://www.powermax.com/help/">Help</a> 
-      	</div>
-        <div class="column2">
-          
-        </div>
-        <div class="column3">
-        	<form action="http://search.powermax.com/search" method="get">
-            <ul>
-            	<li style="visibility:hidden;"><label for="search_input">Search</label></li>
-              <li><input class="valueInputName" type="text" name="search" value="Type Keyword/Item #" id="search_input" onfocus="(this.value=''), (this.style.color='#555454'), (this.style.fontStyle='normal')">	</li>
-              <li><span><input type="image" src="/images/buttons/search.png" name="submit" id="search_button" class="inputButton" alt="Search"></span></li>
-            </ul>
-          </form>	
-        </div>
-     	</div>
-      <div class="clear">&nbsp;</div>
-            <div id="shoppingCart">
-      	<span class="cartitems">Cart: <span><a href="https://www.powermax.com/carts/update?requested_step=checkout_cart">0 items</a></span></span></div><!-- end #cart -->
-			      
-      <div id="pmHotspot"><img src="/images/background/pm_hotspot_360x200.gif" usemap="#pmHotspotLink" alt="">
-        <map title="PowerMax Link" name="pmHotspotLink" id="pmHotspotLink">
-          <area alt="" shape="poly" coords="7,195,347,158,355,6,7,3" href="http://www.powermax.com">
-        </map>
-      </div>
-    	<div id="freeShipping"><a href="http://www.powermax.com/free_shipping/"><img src="/images/background/freeshipping.png" alt="Free Shipping on new Macintosh computers"></a></div>
-      <div id="callToday"><img src="/images/background/calltoday.png" usemap="#gruntledLink" alt="Call Today"></div>
-       	<map title="Gruntled Link" name="gruntledLink" id="gruntledLink">
-          <area alt="Gruntled" shape="poly" coords="272,97,263,122,317,147,338,120,273,97" href="http://www.powermax.com/keeping_you_gruntled/">
-        </map>
-
-      <!--<div id="infoSign"><img src="images/background/infosign.png" /></div>-->
-    </div><!--end objectsBkg-->  
-    <div id="pageBkg">
-    	<div id="autorizedReseller"></div>
-    	<div id="page">
-		 		<div id="header">   
-				  
-
-<div id="nav">
-  <ul id="menu">
-    <li class="menu-item">
-      <div id="menuAllProducts" onmouseover="changeBackground(this, 1);" onmouseout="changeBackground(this, 2);">  
-        <a href="#">All Products</a>
-      </div>
-      <ul class="sub-menu" id="sub-menuAllProducts" onmouseover="changeBackground(this, 1);" onmouseout="changeBackground(this, 2);">
-        <li class="sub-item" onmouseover="document.getElementById('menuNewMacs').style.color= '#FFFFFF'; document.getElementById('third-menuNewMacs').style.display= 'block'" onmouseout="document.getElementById('menuNewMacs').style.color = '#FF8E04'; document.getElementById('third-menuNewMacs').style.display= 'none'">
-          <a href="/new_macs" id="menuNewMacs">New Macs</a>
-          <div id="third-menuNewMacs" class="third-menu">
-            <div class="bkg"></div>
-            <div class="arrow"><img src="/images/nav/arrow_head.png" alt=""></div>          
-            <div class="newMacsOptions">
-              <ul class="menuMacBookPro">
-                <li><img src="/images/nav/icons/macbook_pro.png" alt="MacBook Pro"></li>
-                <li><a href="/parts/code/PM_CN_MB_13">MacBook Pro: 13"</a></li>
-                <li><a href="/parts/code/PM_CN_MB_15">MacBook Pro: 15"</a></li>
-               <!-- <li><a href="/parts/code/PM_CN_MB_17">Macbook Pro: 17"</a></li>-->
-              </ul>
-              <ul class="menuMacBookAir">
-                <li><img src="/images/nav/icons/macbook_air.png" alt="MacBook Air"></li>
-                <li><a href="/parts/code/PM_CN_MA">MacBook Air: 11"</a></li>
-                <li><a href="/parts/code/PM_CN_M3">MacBook Air: 13"</a></li>
-              </ul>
-              <ul class="menuIMac">
-                <li><img src="/images/nav/icons/imac.png" alt="iMac"></li>
-                <li><a href="/parts/code/PM_CN_I4">iMac: 21.5"</a></li>
-                <li><a href="/parts/code/PM_CN_I0">iMac: 27"</a></li>
-              </ul>
-              <ul class="menuMacMini">
-                <li><img src="/images/nav/icons/mac_mini.png" alt="Mac mini"></li>
-                <li><a href="/parts/code/PM_CN_MM">Mac mini</a></li>
-                <li><a href="/parts/code/PM_CN_MM">Servers</a></li>
-              </ul>
-              <ul class="menuMacPro">
-                <li><img src="/images/nav/icons/mac_pro.png" alt="Mac Pro"></li>
-                <li><a href="/parts/code/PM_CN_MP">Mac Pro</a></li>
-              </ul>
-            </div>
-          </div>
-        </li>
-        <li class="sub-item" onmouseover="document.getElementById('menuUsedMacs').style.color= '#FFFFFF'; document.getElementById('third-menuUsedMacs').style.display= 'block'" onmouseout="document.getElementById('menuUsedMacs').style.color = '#FF8E04'; document.getElementById('third-menuUsedMacs').style.display= 'none'">
-          <a href="/preowned_macs" id="menuUsedMacs">Used Macs</a>
-          <div id="third-menuUsedMacs" class="third-menu">
-            <div class="bkg"></div>
-            <div class="arrow"><img src="/images/nav/arrow_head.png" alt=""></div>
-			<ul><li><h5>Desktops/Xserve</h5></li><li><a href="/parts/code/PM_CU_MP">Mac Pro</a></li><li><a href="/parts/code/PM_CU_G5_PE">G5 Power Mac - PCI-E</a></li><li><a href="/parts/code/PM_CU_G5_PX">G5 Power Mac - PCI-X</a></li><li><a href="/parts/code/PM_CU_G5_PI">G5 Power Mac - PCI</a></li><li><a href="/parts/code/PM_CU_G4_AL">G4 Power Mac Towers</a></li><li><a href="/parts/code/PM_CU_MM_IN">Mac mini - Intel</a></li><li><a href="/parts/code/PM_CU_MM_G4">Mac mini - G4</a></li><li><a href="/parts/code/PM_CU_XS">XServe - Intel</a></li><li><a href="/parts/code/PM_CU_X5">XServe - G5</a></li><li><a href="/parts/code/PM_CU_X4">XServe - G4</a></li></ul><ul><li><h5>iMacs / eMac</h5></li><li><a href="/parts/code/PM_CU_IM_I8">Intel iMac: 27-inch</a></li><li><a href="/parts/code/PM_CU_IM_I1">Intel iMac: 21.5-inch</a></li><li><a href="/parts/code/PM_CU_IM_I4">Intel iMac: 24-inch</a></li><li><a href="/parts/code/PM_CU_IM_IN">Intel iMac: 20-inch</a></li><li><a href="/parts/code/PM_CU_IM_I7">Intel iMac: 17-inch</a></li><li><a href="/parts/code/PM_CU_IM_G5_20">G5 iMac: 20-inch</a></li><li><a href="/parts/code/PM_CU_IM_G5_17">G5 iMac: 17-inch</a></li><li><a href="/parts/code/PM_CU_IM_TF_17">G4 iMac: 17-inch</a></li><li><a href="/parts/code/PM_CU_IM_TF_15">G4 iMac: 15-inch</a></li><li><a href="/parts/code/PM_CU_IM_C3">G3 iMac</a></li><li><a href="/parts/code/PM_CU_EM">eMac</a></li></ul><ul><li><h5>MacBook / MacBook Pro</h5></li><li><a href="/parts/code/PM_CU_MB_17">MacBook Pro: 17-inch</a></li><li><a href="/parts/code/PM_CU_MB_5U">MacBook Pro: 15-inch (Unibody)</a></li><li><a href="/parts/code/PM_CU_MB_15">MacBook Pro: 15-inch (Non-Unibody)</a></li><li><a href="/parts/code/PM_CU_MB_13">MacBook Pro: 13-inch</a></li><li><a href="/parts/code/PM_CU_MK">MacBook: 13-inch</a></li><li><a href="/parts/code/PM_CU_MA">MacBook Air: 13-inch</a></li><li><a href="/parts/code/PM_CU_M1">MacBook Air: 11-inch</a></li></ul><ul><li><h5>iBooks / PowerBooks</h5></li><li><a href="/parts/code/PM_CU_PB_17">G4 PowerBook: 17-inch</a></li><li><a href="/parts/code/PM_CU_PB_15">G4 PowerBook: 15-inch</a></li><li><a href="/parts/code/PM_CU_PB_12">G4 PowerBook: 12-inch</a></li><li><a href="/parts/code/PM_CU_IB_14">G4 iBook: 14-inch</a></li><li><a href="/parts/code/PM_CU_IB_12">G4 iBook: 12-inch</a></li></ul>            <div class="clear">&nbsp;</div>
-          </div>
-        </li>
-        <li class="sub-item" onmouseover="document.getElementById('menuSpecialValueMacs').style.color= '#FFFFFF'; document.getElementById('third-menuSpecialValueMacs').style.display= 'block'" onmouseout="document.getElementById('menuSpecialValueMacs').style.color = '#FF8E04'; document.getElementById('third-menuSpecialValueMacs').style.display= 'none'">
-          <a href="/cats/disp/special_value_macs" id="menuSpecialValueMacs">Special Value Macs</a>
-           <div id="third-menuSpecialValueMacs" class="third-menu">
-            <div class="bkg"></div>
-            <div class="arrow"><img src="/images/nav/arrow_head.png" alt=""></div>
-			<ul><li><h5>Special Value Macs</h5></li><li><a href="/parts/code/PM_SV_LA">Special Value Laptops</a></li><li><a href="/parts/code/PM_SV_IM">Special Value Desktops</a></li></ul>            <div class="clear">&nbsp;</div>
-          </div>
-        </li>
-        <li class="sub-item" onmouseover="document.getElementById('menuCustomMacs').style.color= '#FFFFFF'; document.getElementById('third-menuCustomMacs').style.display= 'block'" onmouseout="document.getElementById('menuCustomMacs').style.color = '#FF8E04'; document.getElementById('third-menuCustomMacs').style.display= 'none'">
-          <a href="/cto" id="menuCustomMacs">Configure-To-Order Macs</a>
-           <div id="third-menuCustomMacs" class="third-menu">
-            <div class="bkg"></div>
-            <div class="arrow"><img src="/images/nav/arrow_head.png" alt=""></div>
-            <ul>
-              <li><h5>Configure-To-Order Macs</h5></li>
-              <li><a href="/cto/choose/mac_mini/">Mac mini</a></li>
-              <li><a href="/cto/choose/imac/">iMac</a></li>              
-              <li><a href="/cto/choose/mac_pro/">Mac Pro</a></li>
-              <li><a href="/cto/choose/macbook_air">Macbook Air</a></li>
-              <li><a href="/cto/choose/macbook_pro/">Macbook Pro</a></li>
-            </ul>
-            <div class="clear">&nbsp;</div>
-          </div>
-        </li>
-        <li class="sub-item" onmouseover="document.getElementById('menuiPods').style.color= '#FFFFFF'; document.getElementById('third-menuiPods').style.display= 'block'" onmouseout="document.getElementById('menuiPods').style.color = '#FF8E04'; document.getElementById('third-menuiPods').style.display= 'none'">
-          <a href="/cats/disp/ipods" id="menuiPods">iPods</a>
-           <div id="third-menuiPods" class="third-menu">
-            <div class="bkg"></div>
-            <div class="arrow"><img src="/images/nav/arrow_head.png" alt=""></div>
-			<ul><li><h5>iPods</h5></li><li><a href="/parts/code/PM_MP_TO">iPod touch</a></li><li><a href="/parts/code/PM_MP_VP">iPod classic</a></li><li><a href="/parts/code/PM_MP_IN">iPod nano</a></li><li><a href="/parts/code/PM_MP_IS">iPod shuffle</a></li><li>&nbsp;</li><li><h5>iPod Deals</h5></li><li><a href="/parts/code/PM_BO_IP">Pre-Owned iPods</a></li><li><a href="/parts/code/PM_BO_IT">Used IPhones</a></li><li><a href="/parts/code/PM_MP_TP">Other MP3/Video Players</a></li></ul><ul><li><h5>iPod &amp; iPhone Accessories</h5></li><li><a href="/parts/code/PM_BO_IA">Accessory Deals for iPod &amp; iPhone</a></li><li><a href="/cats/sub/iphoneacc">iPhone Accessories</a></li><li><a href="/parts/code/PM_IP_P5">Protective Cases for the iPhone 5</a></li><li><a href="/parts/code/PM_IC_AG">Car &amp; Plane Chargers</a></li><li><a href="/cats/sub/ipodcat">Cases &amp; Protectors for iPods</a></li><li><a href="/parts/code/PM_IC_FM">FM Transmitters &amp; Remotes</a></li><li><a href="/cats/sub/headphones">Headphones and Earbuds</a></li><li><a href="/parts/code/PM_IC_TR">Home Stereos for iPod</a></li><li><a href="/parts/code/PM_IC_MI">Misc. iPod Accessories</a></li><li><a href="/parts/code/PM_IC_PD">Power, Docks &amp; Cables</a></li><li><a href="/cats/sub/idocks">Speakers and Docks for iPod • iPhone • iPad</a></li><li><a href="/parts/code/PM_MA_HA">Speaker &amp; Headphone Cables</a></li><li><a href="/parts/code/PM_IC_CT">Travel Accessories</a></li></ul>            <div class="clear">&nbsp;</div>
-          </div>
-        </li>
-        <li class="sub-item" onmouseover="document.getElementById('menuiPads').style.color= '#FFFFFF'; document.getElementById('third-menuiPads').style.display= 'block'" onmouseout="document.getElementById('menuiPads').style.color = '#FF8E04'; document.getElementById('third-menuiPads').style.display= 'none'">
-          <a href="/ipad2012" id="menuiPads">iPads</a>
-           <div id="third-menuiPads" class="third-menu">
-            <div class="bkg"></div>
-            <div class="arrow"><img src="/images/nav/arrow_head.png" alt=""></div>
-			 <ul><li><a href="/ipad-retina-2012">iPad with Retina display</a></li><li><a href="/ipad-mini-2012">iPad mini</a></li><li><a href="/ipad2">iPad 2</a></li><li><a href="/parts/code/PM_IP_U1">Used and Refurbished iPads</a></li></ul>            <div class="clear">&nbsp;</div>
-          </div>
-        </li>
-        <li class="sub-item" onmouseover="document.getElementById('menuStorage').style.color= '#FFFFFF'; document.getElementById('third-menuStorage').style.display= 'block'" onmouseout="document.getElementById('menuStorage').style.color = '#FF8E04'; document.getElementById('third-menuStorage').style.display= 'none'">
-          <a href="/cats/disp/storage" id="menuStorage">Storage</a>
-           <div id="third-menuStorage" class="third-menu">
-            <div class="bkg"></div>
-            <div class="arrow"><img src="/images/nav/arrow_head.png" alt=""></div>
-			<ul><li><h5>Storage Deals</h5></li><li><a href="/parts/code/PM_ST_BS">Best-selling Drives</a></li><li><a href="/cats/sub/serverstorage">High-End Storage</a></li><li><a href="/parts/code/PM_BO_SX">Storage Blowouts</a></li><li>&nbsp;</li><li><h5>Storage Brands</h5></li><li><a href="/parts/code/PM_ST_TC">Apple Time Capsule</a></li><li><a href="/cats/sub/caldigit">CalDigit</a></li><li><a href="/cats/sub/CMS">CMS Products</a></li><li><a href="/parts/code/PM_ST_WI">CRU/Wiebetech</a></li><li><a href="/cats/sub/micronet">Micronet/Fantom</a></li><li><a href="/parts/code/PM_ST_DR">Data Robotics (Drobo)</a></li><li><a href="/parts/code/PM_ST_GT">G-Tech</a></li><li><a href="/cats/sub/lacie">LaCie Drives</a></li><li><a href="/parts/code/PM_ST_NT">Newer Technology</a></li><li><a href="/parts/code/PM_ST_PA">Proavio</a></li><li><a href="/parts/code/PM_ST_PR">Promise</a></li><li><a href="/cats/sub/rocstor">Rocstor Drives</a></li><li><a href="/cats/sub/sonnet">Sonnet Technologies</a></li><li><a href="/parts/code/PM_ST_ST">Stardom</a></li></ul><ul><li><h5>Additional Storage</h5></li><li><a href="/parts/code/PM_ST_BR">Blu-Ray</a></li><li><a href="/cats/sub/controllers">Controllers</a></li><li><a href="/parts/code/PM_ST_DP">Duplicators</a></li><li><a href="/parts/code/PM_ST_EE">External Enclosures</a></li><li><a href="/parts/code/PM_ST_EX_FW_BU">External FireWire Back Up Systems</a></li><li><a href="/parts/code/PM_ST_EX_FW_HD">External FireWire Hard Drives</a></li><li><a href="/parts/code/PM_ST_EX_UP">External Portable Drives</a></li><li><a href="/parts/code/PM_ST_EX_US">External USB Drives</a></li><li><a href="/parts/code/PM_ST_FW">FireWire Adapters and Hubs</a></li><li><a href="/cats/sub/flash">Flash Drives</a></li><li><a href="/parts/code/PM_ST_DM">Flash &amp; Memory Card Readers</a></li><li><a href="/cats/sub/internalhd">Internal Hard Drives</a></li><li><a href="/cats/sub/media">Media</a></li><li><a href="/parts/code/PM_ST_RS">Rackmounts, Server Racks &amp; high-end enclosures</a></li><li><a href="/parts/code/PM_ST_TA_EX">Tape Drive Listings</a></li><li><a href="/parts/code/PM_ST_TH">ThunderBolt Drives</a></li><li><a href="/parts/code/PM_ST_XR">XServe and RAID Accessories</a></li></ul>            <div class="clear">&nbsp;</div>
-          </div>
-        </li>
-        <li class="sub-item" onmouseover="document.getElementById('menuDisplays').style.color= '#FFFFFF'; document.getElementById('third-menuDisplays').style.display= 'block'" onmouseout="document.getElementById('menuDisplays').style.color = '#FF8E04'; document.getElementById('third-menuDisplays').style.display= 'none'">
-          <a href="/cats/disp/displays" id="menuDisplays">Displays</a>
-         	<div id="third-menuDisplays" class="third-menu">
-            <div class="bkg"></div>
-            <div class="arrow"><img src="/images/nav/arrow_head.png" alt=""></div>
-			<ul><li><h5>Apple Displays &amp; Deals</h5></li><li><a href="/parts/code/PM_DI_AP">Apple Cinema Displays </a></li><li><a href="/parts/code/PM_DI_BS">Best-Selling Displays</a></li><li><a href="/parts/code/PM_BO_DI">Used Displays &amp; Deals</a></li><li>&nbsp;</li><li><h5>Displays By Size</h5></li><li><a href="/cats/sub/25_lcd">25"+ LCD Displays</a></li><li><a href="/cats/sub/20_lcd">20-24" LCD Displays</a></li><li><a href="/cats/sub/19_lcd">19" LCD Displays</a></li><li><a href="/cats/sub/17_lcd">17" LCD Displays</a></li><li><a href="/parts/code/PM_DI_LC_15_AM">15-inch Displays</a></li></ul><ul><li><h5>Other Displays &amp; TVs</h5></li><li><a href="/parts/code/PM_DI_LT">LCD TVs</a></li><li><a href="/parts/code/PM_DI_PS">Plasma Displays</a></li><li><a href="/parts/code/PM_DI_TS">Touch Screen Displays</a></li><li><a href="/parts/code/PM_DI_NT">NTSC &amp; Broadcast Displays</a></li><li><a href="/parts/code/PM_VI">Video Cards</a></li></ul><ul><li><h5>Display accessories</h5></li><li><a href="/parts/code/PM_DI_AC_DA">Display Adapters</a></li><li><a href="/parts/code/PM_DI_AC_CB">Display Calibrators</a></li><li><a href="/parts/code/PM_DI_AC_CC">Display Covers and Cleaners</a></li><li><a href="/parts/code/PM_DI_EX">Display Extenders</a></li><li><a href="/parts/code/PM_DI_AC_FI">Display Screen Filters</a></li><li><a href="/parts/code/PM_DI_AC_SM">Display Stands and Mounts</a></li><li><a href="/parts/code/PM_DI_AC_MO">Multiple Screen Options</a></li></ul>            <div class="clear">&nbsp;</div>
-          </div>          
-        </li>
-        <li class="sub-item" onmouseover="document.getElementById('menuVideoAudio').style.color= '#FFFFFF'; document.getElementById('third-menuVideoAudio').style.display= 'block'" onmouseout="document.getElementById('menuVideoAudio').style.color = '#FF8E04'; document.getElementById('third-menuVideoAudio').style.display= 'none'">
-          <a href="/cats/disp/pro_video" id="menuVideoAudio">Video+Audio</a>
-          <div id="third-menuVideoAudio" class="third-menu">
-            <div class="bkg"></div>
-            <div class="arrow"><img src="/images/nav/arrow_head.png" alt=""></div>
-			<ul><li><h5>Gear</h5></li><li><a href="/cats/sub/pdv_audio">Audio: Speakers, Mics, &amp; Headphones</a></li><li><a href="/parts/code/PM_DV_PN_AJ">AJA Video Capture Cards</a></li><li><a href="/cats/sub/pdv_camcorders">Camcorders</a></li><li><a href="/parts/code/PM_DV_DE">Decks and duplicators</a></li><li><a href="/parts/code/PM_DV_CA_DR">Digital Video Recorders</a></li><li><a href="/parts/code/PM_IN_KB_NL">Editing Keyboards</a></li><li><a href="/cats/sub/mediaconverters">Editing, Mixing and Titling Hardware</a></li><li><a href="/cats/sub/pdv_lighting">Lighting</a></li><li><a href="/parts/code/PM_DV_LT_LA">Lastolite</a></li><li><a href="/cats/sub/pdv_software">Pro Video &amp; Audio Software</a></li><li><a href="/parts/code/PM_DV_SS">Startech Switches and Hubs</a></li><li><a href="/cats/sub/serverstorage">Storage</a></li><li><a href="/cats/sub/pdv_teleprompters">Teleprompters</a></li><li><a href="/parts/code/PM_DV_VS">Video Switchers</a></li><li>&nbsp;</li><li><h5>Accessories</h5></li><li><a href="/cats/sub/pdv_camcorder_acc">Camcorder Accessories</a></li><li><a href="/parts/code/PM_BO_DV">Digital Video and Photo Specials</a></li><li><a href="/cats/sub/dvdisplays">Displays and Accessories</a></li><li><a href="/cats/sub/media">Media</a></li></ul>            <div class="clear">&nbsp;</div>
-          </div>          
-        </li>
-        <li class="sub-item" onmouseover="document.getElementById('menuAccessories').style.color= '#FFFFFF'; document.getElementById('third-menuAccessories').style.display= 'block'" onmouseout="document.getElementById('menuAccessories').style.color = '#FF8E04'; document.getElementById('third-menuAccessories').style.display= 'none'">
-          <a href="/cats/disp/accessories" id="menuAccessories">Accessories</a>
-	 				<div id="third-menuAccessories" class="third-menu">
-            <div class="bkg"></div>
-            <div class="arrow"><img src="/images/nav/arrow_head.png" alt=""></div>
-			<ul><li><h5>Accessory Deals</h5></li><li><a href="/cats/sub/blowouts">The PowerMax Bargain Basement</a></li><li>&nbsp;</li><li><h5>Mac Accessories</h5></li><li><a href="/parts/code/PM_AC">AppleCare</a></li><li><a href="/cats/sub/audio">Audio Hardware</a></li><li><a href="/cats/sub/cables">Cables</a></li><li><a href="/cats/sub/headphones">Headphones and Earbuds</a></li><li><a href="/cats/sub/keyboards">Keyboards</a></li><li><a href="/parts/code/PM_AS_BA">MacBook Air Accessories</a></li><li><a href="/cats/sub/pbook_acc">Laptop Accessories</a></li><li><a href="/cats/sub/input_mice">Mice &amp;  Joysticks</a></li><li><a href="/cats/sub/printers">Printers</a></li><li><a href="/cats/sub/scanners">Scanners</a></li><li><a href="/cats/sub/speakers">Speakers</a></li><li><a href="/cats/sub/upgrades">Upgrades</a></li><li><a href="/parts/code/PM_VI">Video Cards</a></li></ul><ul><li><h5>Product Accessories</h5></li><li><a href="/cats/sub/ipadcat">iPad Accessories</a></li><li><a href="/parts/code/PM_PM_CA">Cases and Skins for the iPad Mini</a></li><li><a href="/cats/sub/iphoneacc">iPhone Accessories</a></li><li><a href="/cats/sub/ipodcat">iPod Accessories</a></li><li><a href="/parts/code/PM_AS_TV">Apple TV &amp; TV Accessories</a></li><li><a href="/parts/code/PM_IN_DA">Desk Accessories</a></li><li><a href="/cats/sub/accessories">Display Accessories</a></li><li><a href="/parts/code/PM_AS_MI">Misc. Accessories</a></li><li><a href="/cats/sub/phoneacc">Portable Phone Accessories</a></li><li><a href="/cats/sub/printeraccessories">Printer Accessories</a></li><li><a href="/parts/code/PM_AC_SP">Solar-Powered Accessories</a></li></ul><ul><li><h5>Hardware Accessories</h5></li><li><a href="/cats/sub/digitalphotography">Digital Photography</a></li><li><a href="/parts/code/PM_DF">Digital Photo Frames</a></li><li><a href="/cats/sub/media">Media</a></li><li><a href="/parts/code/PM_MP_TP">MP3 and Video Players</a></li><li><a href="/cats/sub/webcams">Network Cameras</a></li><li><a href="/parts/code/PM_AS_PQ">Pointers and Remotes</a></li><li><a href="/cats/sub/pp">Power Protection</a></li><li><a href="/cats/sub/projectors">Projectors &amp; Accessories</a></li><li><a href="/parts/code/PM_SS_KI">The ProScope</a></li><li><a href="/parts/code/PM_TK">Tool Kits</a></li><li><a href="/cats/sub/graphicstablets">Wacom Products</a></li><li><a href="/parts/code/PM_IN_GT_OT">Other Tablets</a></li></ul>            <div class="clear">&nbsp;</div>
-          </div>        
-        </li>
-        <li class="sub-item" onmouseover="document.getElementById('menuNetworking').style.color= '#FFFFFF'; document.getElementById('third-menuNetworking').style.display= 'block'" onmouseout="document.getElementById('menuNetworking').style.color = '#FF8E04'; document.getElementById('third-menuNetworking').style.display= 'none'">
-          <a href="/cats/disp/networking" id="menuNetworking">Networking</a>
-          <div id="third-menuNetworking" class="third-menu">
-            <div class="bkg"></div>
-            <div class="arrow"><img src="/images/nav/arrow_head.png" alt=""></div>
-			<ul><li><h5>Networking Hardware</h5></li><li><a href="/parts/code/PM_AI">Airport Base Stations</a></li><li><a href="/parts/code/PM_NT_WL_BA">Bluetooth Adapters</a></li><li><a href="/parts/code/PM_MO">Modems</a></li><li><a href="/cats/sub/switch">Network Switches</a></li><li><a href="/parts/code/PM_NT_AD">Other Network Adapters</a></li><li><a href="/parts/code/PM_NT_PI">PCI Cards</a></li><li><a href="/parts/code/PM_NT_PR">Printer Networking</a></li><li><a href="/parts/code/PM_NT_RT">Routers</a></li><li><a href="/parts/code/PM_NT_SC">SonicWall Security</a></li><li><a href="/cats/sub/usbhubs">USB Hubs</a></li><li><a href="/parts/code/PM_NT_WL_PI">Wireless Cards</a></li><li><a href="/cats/sub/wireless">Wireless Hardware</a></li><li>&nbsp;</li><li><h5>Networking Deals</h5></li><li><a href="/parts/code/PM_BO_NT">Networking Blowouts</a></li></ul>            <div class="clear">&nbsp;</div>
-          </div>        
-        </li>
-        <li class="sub-item" onmouseover="document.getElementById('menuSoftware').style.color= '#FFFFFF'; document.getElementById('third-menuSoftware').style.display= 'block'" onmouseout="document.getElementById('menuSoftware').style.color = '#FF8E04'; document.getElementById('third-menuSoftware').style.display= 'none'">
-          <a href="/cats/disp/software" id="menuSoftware">Software</a>
-	 				<div id="third-menuSoftware" class="third-menu">
-            <div class="bkg"></div>
-            <div class="arrow"><img src="/images/nav/arrow_head.png" alt=""></div>
-            <ul><li><h5>Software Deals</h5></li><li><a href="/parts/code/PM_SO_BS">Best-selling Software</a></li><li><a href="/parts/code/PM_BO_SO">Software Blowouts</a></li><li>&nbsp;</li><li><h5>Multimedia Software</h5></li><li><a href="/cats/sub/adobe">Adobe Software</a></li><li><a href="/parts/code/PM_SO_AO">Audio Editing</a></li><li><a href="/parts/code/PM_SO_CD">Authoring and Recording</a></li><li><a href="/parts/code/PM_SO_GI">Clip Art and Images</a></li><li><a href="/parts/code/PM_SO_UF">Font Utilities</a></li><li><a href="/parts/code/PM_SO_GC">Graphic Creation</a></li><li><a href="/parts/code/PM_SO_GR">Graphic Editing</a></li><li><a href="/parts/code/PM_SO_DC">Professional Digital Video</a></li><li><a href="/parts/code/PM_SO_PB">Publishing Software</a></li><li><a href="/parts/code/PM_SO_DS">Special Effects</a></li><li><a href="/parts/code/PM_SO_SF">Sound Effects and Music</a></li></ul><ul><li><h5>Professional Software</h5></li><li><a href="/parts/code/PM_SO_AP">Apple Software</a></li><li><a href="/parts/code/PM_SO_AC">Accounting &amp; Financial</a></li><li><a href="/parts/code/PM_SO_DB">Database Software</a></li><li><a href="/parts/code/PM_SO_UT">Disk Utility and Back-up</a></li><li><a href="/parts/code/PM_SO_US">Efficiency Software</a></li><li><a href="/parts/code/PM_SO_NT">Networking Software</a></li><li><a href="/parts/code/PM_SO_OF">Office and Word Processing</a></li><li><a href="/parts/code/PM_SO_OS">Operating Systems</a></li><li><a href="/cats/sub/presentation">Presentation Software and Accessories</a></li><li><a href="/parts/code/PM_SO_SV">Server Software</a></li><li><a href="/parts/code/PM_SO_VI">Virus Protection</a></li><li><a href="/pages/final_cut_pro_x">Final Cut Pro X</a></li></ul><ul><li><h5>Other Software</h5></li><li><a href="/cats/sub/books_training">Books and Training</a></li><li><a href="/cats/sub/games">Games</a></li><li><a href="/parts/code/PM_SO_DH">Home and Hobby</a></li><li><a href="/cats/sub/homelearning">Home Learning</a></li><li><a href="/parts/code/PM_SO_JK">Just for Kids</a></li></ul>            <div class="clear">&nbsp;</div>
-          </div>            
-        </li>
-        <li class="sub-item" onmouseover="document.getElementById('menuBlowouts').style.color= '#FFFFFF'" onmouseout="document.getElementById('menuBlowouts').style.color = '#FF8E04'">
-          <a href="/cats/sub/blowouts" id="menuBlowouts">Bargain Basement</a>
-        </li>
-      </ul>
-    </li>
-    <li class="menu-item">
-      <div id="menuCustomerResources" onclick="document.location.href='/customer_resources'" onmouseover="changeBackground(this, 1);" onmouseout="changeBackground(this, 2);">
-        <a href="#">Customer Resources</a>
-      </div>
-      <ul class="sub-menu" id="sub-menuCustomerResources" onmouseover="changeBackground(this, 1);" onmouseout="changeBackground(this, 2);">
-        <li class="sub-item" onmouseover="document.getElementById('menuPersonalShopper').style.color= '#FFFFFF'" onmouseout="document.getElementById('menuPersonalShopper').style.color = '#6a6a6a'">
-          <a href="/shopper/" id="menuPersonalShopper">Personal Shopper</a>
-        </li>
-        <li class="sub-item" onmouseover="document.getElementById('menuAskJacob').style.color= '#FFFFFF'" onmouseout="document.getElementById('menuAskJacob').style.color = '#6a6a6a'">
-          <a href="/askjacob/" id="menuAskJacob">Ask Jacob</a>
-        </li>
-       	<li class="sub-item" onmouseover="document.getElementById('menuFAQ').style.color= '#FFFFFF'" onmouseout="document.getElementById('menuFAQ').style.color = '#6a6a6a'">
-          <a href="/customer_resources/faq/" id="menuFAQ">Frequently Asked Questions</a>
-        </li>
-        <li class="sub-item" onmouseover="document.getElementById('menuUsedMacFAQ').style.color= '#FFFFFF'" onmouseout="document.getElementById('menuUsedMacFAQ').style.color = '#6a6a6a'">
-          <a href="/customer_resources/faq_used" id="menuUsedMacFAQ">Used Mac FAQs</a>
-        </li>
-        <li class="sub-item" onmouseover="document.getElementById('menuWarrantyInfo').style.color= '#FFFFFF'" onmouseout="document.getElementById('menuWarrantyInfo').style.color = '#6a6a6a'">
-          <a href="/customer_resources/warranty/" id="menuWarrantyInfo">Warranty Information</a>
-        </li>
-        <li class="sub-item" onmouseover="document.getElementById('menuReturnsErrors').style.color= '#FFFFFF'" onmouseout="document.getElementById('menuReturnsErrors').style.color = '#6a6a6a'">
-          <a href="/help/return_policy/" id="menuReturnsErrors">Returns &amp; Errors</a>
-        </li>
-        <li class="sub-item" onmouseover="document.getElementById('menuStolenDatabase').style.color= '#FFFFFF'" onmouseout="document.getElementById('menuStolenDatabase').style.color = '#6a6a6a'">
-          <a href="/stolen/" id="menuStolenDatabase">Stolen Inventory Database</a>
-        </li>
-        <li class="sub-item" onmouseover="document.getElementById('menuWindowsResources').style.color= '#FFFFFF'" onmouseout="document.getElementById('menuWindowsResources').style.color = '#6a6a6a'">
-          <a href="/customer_resources/windows/" id="menuWindowsResources">Windows Users? Resources</a>
-        </li>
-        <li class="sub-item" onmouseover="document.getElementById('menuTopTen').style.color= '#FFFFFF'" onmouseout="document.getElementById('menuTopTen').style.color = '#6a6a6a'">
-          <a href="/customer_resources/top_ten" id="menuTopTen">The Top Ten Reasons Macs...</a>
-        </li>
-        <li class="sub-item" onmouseover="document.getElementById('menuTechTips').style.color= '#FFFFFF'" onmouseout="document.getElementById('menuTechTips').style.color = '#6a6a6a'">
-          <a href="/techtips/" id="menuTechTips">Tech Tips</a>
-        </li>
-        <li class="sub-item" onmouseover="document.getElementById('menuIntelPowerPC').style.color= '#FFFFFF'" onmouseout="document.getElementById('menuIntelPowerPC').style.color = '#6a6a6a'">
-          <a href="/customer_resources/intel_vs_powerpc" id="menuIntelPowerPC">On Intel Vs. PowerPC</a>
-        </li>
-      	<li class="sub-item" onmouseover="document.getElementById('menuWhyBeyFromUs').style.color= '#FFFFFF'" onmouseout="document.getElementById('menuWhyBeyFromUs').style.color = '#6a6a6a'">
-          <a href="/customer_resources/why_buy/" id="menuWhyBeyFromUs">Why Buy From Us</a>
-        </li>
-      </ul>
-    </li>
-    <li class="menu-item">
-      <div id="menuPowerMaxAttitude" onclick="document.location.href='/attitude_fun'" onmouseover="changeBackground(this, 1);" onmouseout="changeBackground(this, 2);">
-        <a href="#">PowerMax Attitude &amp; Fun</a>
-      </div>
-      <ul class="sub-menu" id="sub-menuPowerMaxAttitude" onmouseover="changeBackground(this, 1);" onmouseout="changeBackground(this, 2);">
-        <li class="sub-item" onmouseover="document.getElementById('menuMaxSasquatch').style.color= '#FFFFFF'" onmouseout="document.getElementById('menuMaxSasquatch').style.color = '#6a6a6a'">
-          <a href="/max/" id="menuMaxSasquatch">Max the Sasquatch</a>
-        </li>
-        <li class="sub-item" onmouseover="document.getElementById('menuCommentary').style.color= '#FFFFFF'" onmouseout="document.getElementById('menuCommentary').style.color = '#6a6a6a'">
-          <a href="/articles/" id="menuCommentary">Articles</a>
-        </li>
-        <li class="sub-item" onmouseover="document.getElementById('menuWhereIsMax').style.color= '#FFFFFF'" onmouseout="document.getElementById('menuWhereIsMax').style.color = '#6a6a6a'">
-          <a href="/where_is_max/" id="menuWhereIsMax">Where is Max?</a>
-        </li>
-        <li class="sub-item" onmouseover="document.getElementById('menuPhilosophies').style.color= '#FFFFFF'" onmouseout="document.getElementById('menuPhilosophies').style.color = '#6a6a6a'">
-          <a href="/attitude_fun/philosophy/" id="menuPhilosophies">The Philosophies of PowerMax</a>
-        </li>
-        <li class="sub-item" onmouseover="document.getElementById('menuGruntled').style.color= '#FFFFFF'" onmouseout="document.getElementById('menuGruntled').style.color = '#6a6a6a'">
-          <a href="/keeping_you_gruntled/" id="menuGruntled">Keeping You Gruntled</a>
-        </li>
-        <li class="sub-item" onmouseover="document.getElementById('menuHowPowerMaxWorks').style.color= '#FFFFFF'" onmouseout="document.getElementById('menuHowPowerMaxWorks').style.color = '#6a6a6a'">
-          <a href="/attitude_fun/how_powermax_works/" id="menuHowPowerMaxWorks">How PowerMax Works</a>
-        </li>
-        <li class="sub-item" onmouseover="document.getElementById('menuHereForYou').style.color= '#FFFFFF'" onmouseout="document.getElementById('menuHereForYou').style.color = '#6a6a6a'">
-          <a href="/attitude_fun/here_for_you/" id="menuHereForYou">PowerMax is Here For You!</a>
-        </li>
-        <li class="sub-item" onmouseover="document.getElementById('menuDidYouKnow').style.color= '#FFFFFF'" onmouseout="document.getElementById('menuDidYouKnow').style.color = '#6a6a6a'">
-          <a href="/attitude_fun/did_you_know/" id="menuDidYouKnow">Did You Know?</a>
-        </li>
-        <li class="sub-item" onmouseover="document.getElementById('menuOregon').style.color= '#FFFFFF'" onmouseout="document.getElementById('menuOregon').style.color = '#6a6a6a'">
-          <a href="/attitude_fun/why_oregon/" id="menuOregon">Why We Like Being from Oregon</a>
-        </li>
-      </ul>
-    </li>
-      <li class="menu-item">
-      <div id="menuShippingPayment" onclick="document.location.href='/shipping_payment'" onmouseover="changeBackground(this, 1);" onmouseout="changeBackground(this, 2);">
-        <a href="#">Info On Shipping &amp; Payment</a>
-      </div>
-      <ul class="sub-menu" id="sub-menuShippingPayment" onmouseover="changeBackground(this, 1);" onmouseout="changeBackground(this, 2);">
-        <li class="sub-item" onmouseover="document.getElementById('menuFreeShipping').style.color= '#FFFFFF'" onmouseout="document.getElementById('menuFreeShipping').style.color = '#6a6a6a'">
-          <a href="/free_shipping/" id="menuFreeShipping">Free Shipping</a>
-        </li>
-        <li class="sub-item" onmouseover="document.getElementById('menuOrderTracking').style.color= '#FFFFFF'" onmouseout="document.getElementById('menuOrderTracking').style.color = '#6a6a6a'">
-          <a href="/tracking/" id="menuOrderTracking">Order Tracking</a>
-        </li>
-        <li class="sub-item" onmouseover="document.getElementById('menuShippingDelivery').style.color= '#FFFFFF'" onmouseout="document.getElementById('menuShippingDelivery').style.color = '#6a6a6a'">
-          <a href="/shipping_payment/shipping_delivery/" id="menuShippingDelivery">Shipping &amp; Delivery FAQs</a>
-        </li>
-        <li class="sub-item" onmouseover="document.getElementById('menuAPO-FPOShipping').style.color= '#FFFFFF'" onmouseout="document.getElementById('menuAPO-FPOShipping').style.color = '#6a6a6a'">
-          <a href="/shipping_payment/military/" id="menuAPO-FPOShipping">APO/FPO Shipping</a>
-        </li>
-        <li class="sub-item" onmouseover="document.getElementById('menuInterShipping').style.color= '#FFFFFF'" onmouseout="document.getElementById('menuInterShipping').style.color = '#6a6a6a'">
-          <a href="/shipping_payment/international/" id="menuInterShipping">International Shipping</a>
-        </li>
-        <li class="sub-item" onmouseover="document.getElementById('menuPaymentInfo').style.color= '#FFFFFF'" onmouseout="document.getElementById('menuPaymentInfo').style.color = '#6a6a6a'">
-          <a href="/shipping_payment/payment/" id="menuPaymentInfo">Payment Method &amp; Information</a>
-        </li>
-      </ul>
-    </li>
-    <li>
-      <a href="/chat/"><img src="/images/nav/click_to_chat.png" alt="Click to Chat"></a>
-    </li>
-  </ul>
-</div><!-- end nav -->        	</div><!-- end header -->
+        <title>Privacy Policy | PowerMax</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta name="google-site-verification" content="TEDb-n0-41wOYvBx8LFrB6KeCPEYd-Swc9rgPih4F98">
+        <meta name="msvalidate.01" content="11D6EEF239478BEEE0C91D4847FFE64E">
+        <meta name="Author" content="PowerMax.">
+        <meta name="copyright" content="Copyright © 2012 PowerMax. All rights reserved"> 
+        <meta name="y_key" content="c29be21de6ae8f31">
+        <meta http-equiv="X-UA-Compatible" content="IE=8"> 
+        <meta name="description" content="The used Apple computer experts. Quality new, used &amp; refurbished Macintosh computers all TAX FREE and FREE SHIPPING on most orders over $100.">
+        <link href="/css/master.css?v=2" rel="stylesheet" type="text/css" media="screen">
+        <link href="/css/nav.css?v=2" rel="stylesheet">
+        <link href="/css/pages.css?v=3" rel="stylesheet">
+        <link href="/css/cart.css" rel="stylesheet">
+        <link href="/css/colorbox.css" rel="stylesheet">
         
-       
+        <!--[if IE 7]><link href="/css/ie7.css" rel="stylesheet" type="text/css" /><![endif]-->
+        <!--[if IE 8]><link href="/css/ie8.css" rel="stylesheet" type="text/css" /><![endif]-->
+        <!--[if IE 9]><link href="/css/ie9.css" rel="stylesheet" type="text/css" /><![endif]-->
+        
+        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//use.typekit.com/dyz1hic.js"></script>
+        <script>try{Typekit.load();}catch(e){}</script>
+        
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+        <script>!window.jQuery && document.write(unescape('%3Cscript src="/js/jquery-1.6.4.min.js"%3E%3C/script%3E'))</script><script src="/js/jquery-1.6.4.min.js"></script>
+        
+        <script src="/js/jquery.cycle.all.min.js"></script>
+        <script src="/js/floating-1.7.js"></script>
+        <script src="/js/jquery.colorbox.js"></script>
+        <script>
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-374536-1']);
+            _gaq.push(['_trackPageview']);
+        </script>
+    </head>
+    <body id="privacy" class="privacy">
+        <div id="wrapper">
+            <div id="objectsBkg">
+                <div id="navTop">
+                    <div class="column1">
+                        <a href="http://www.powermax.com">Home</a>&nbsp;|&nbsp;<a href="http://www.powermax.com/about">About</a>&nbsp;|&nbsp;<a href="http://www.powermax.com/about/contact">Contact</a>&nbsp;|&nbsp;<a href="http://www.powermax.com/help">Help</a>                    </div>
+                    <div class="column3">
+                        <form action="http://sitesearch.powermax.com/search" method="get">
+                            <ul>
+                                <li style="visibility:hidden;">
+                                    <label for="search_input">Search</label>
+                                </li>
+                                <li>
+                                    <input class="valueInputName" type="text" name="search" placeholder="Type Keyword/Item #" id="search_input">
+                                </li>
+                                <li>
+                                    <input type="image" src="/images/buttons/search.png" name="submit" id="search_button" class="inputButton" alt="Search">
+                                </li>
+                            </ul>
+                        </form>	
+                    </div>
+                </div>
+                                <a id="hotspot" href="http://www.powermax.com"></a>
+                <a id="freeShipping" href="http://www.powermax.com/free_shipping"></a>
+                <a id="callToday" href="http://www.powermax.com/keeping_you_gruntled"></a>
+            </div>
+            <div id="pageBkg">
+                <div id="page">
+                    <div id="header">   
+                        
+<div id="nav">
+    <ul id="menu">
+        <li class="menu-item">
+            <div id="menuAllProducts" class="menu-header">
+                <span class="small_emphasized">All</span> Products
+            </div>
+            <ul class="sub-menu" id="sub-menuAllProducts">
+                <li class="sub-item">
+                    <a href="/new_macs" id="menuNewMacs">New Macs</a>
+                    <div id="third-menuNewMacs" class="third-menu">
+                        <div class="bkg"></div>
+                        <div class="arrow"><img src="/images/nav/arrow_head.png" alt=""></div>          
+                        <div class="newMacsOptions">
+                            <ul class="menuMacBookPro">
+                                <li><img src="/images/nav/icons/macbook_pro.png" alt="MacBook Pro"></li>
+                                <li><a href="/parts/code/PM_CN_MB_13">MacBook Pro: 13"</a></li>
+                                <li><a href="/parts/code/PM_CN_MB_15">MacBook Pro: 15"</a></li>
+                            </ul>
+                            <ul class="menuMacBookAir">
+                                <li><img src="/images/nav/icons/macbook_air.png" alt="MacBook Air"></li>
+                                <li><a href="/parts/code/PM_CN_MA">MacBook Air: 11"</a></li>
+                                <li><a href="/parts/code/PM_CN_M3">MacBook Air: 13"</a></li>
+                            </ul>
+                            <ul class="menuIMac">
+                                <li><img src="/images/nav/icons/imac.png" alt="iMac"></li>
+                                <li><a href="/parts/code/PM_CN_I4">iMac: 21.5"</a></li>
+                                <li><a href="/parts/code/PM_CN_I0">iMac: 27"</a></li>
+                            </ul>
+                            <ul class="menuMacMini">
+                                <li><img src="/images/nav/icons/mac_mini.png" alt="Mac mini"></li>
+                                <li><a href="/parts/code/PM_CN_MM">Mac mini</a></li>
+                            </ul>
+                            <ul class="menuMacPro">
+                                <li><img src="/images/nav/icons/mac_pro.png" alt="Mac Pro"></li>
+                                <li><a href="/parts/code/PM_CN_MP">Mac Pro</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                <li class="sub-item"><a href="/preowned_macs" id="menuUsedMacs">Used Macs</a><div id="third-menuUsedMacs" class="third-menu"><div class="bkg"></div><div class="arrow"><img src="/images/nav/arrow_head.png"></div><ul><li><h5>Desktops/Xserve</h5></li><li><a href="/parts/code/PM_CU_MP">Mac Pro</a></li><li><a href="/parts/code/PM_CU_G5_PE">G5 Power Mac - PCI-E</a></li><li><a href="/parts/code/PM_CU_G5_PX">G5 Power Mac - PCI-X</a></li><li><a href="/parts/code/PM_CU_G5_PI">G5 Power Mac - PCI</a></li><li><a href="/parts/code/PM_CU_G4_AL">G4 Power Mac Towers</a></li><li><a href="/parts/code/PM_CU_MM_IN">Mac mini - Intel</a></li><li><a href="/parts/code/PM_CU_MM_G4">Mac mini - G4</a></li><li><a href="/parts/code/PM_CU_XS">XServe - Intel</a></li><li><a href="/parts/code/PM_CU_X5">XServe - G5</a></li><li><a href="/parts/code/PM_CU_X4">XServe - G4</a></li></ul><ul><li><h5>iMacs / eMac</h5></li><li><a href="/parts/code/PM_CU_IM_I8">Intel iMac: 27-inch</a></li><li><a href="/parts/code/PM_CU_IM_I1">Intel iMac: 21.5-inch</a></li><li><a href="/parts/code/PM_CU_IM_I4">Intel iMac: 24-inch</a></li><li><a href="/parts/code/PM_CU_IM_IN">Intel iMac: 20-inch</a></li><li><a href="/parts/code/PM_CU_IM_I7">Intel iMac: 17-inch</a></li><li><a href="/parts/code/PM_CU_IM_G5_20">G5 iMac: 20-inch</a></li><li><a href="/parts/code/PM_CU_IM_G5_17">G5 iMac: 17-inch</a></li><li><a href="/parts/code/PM_CU_IM_TF_17">G4 iMac: 17-inch</a></li><li><a href="/parts/code/PM_CU_IM_TF_15">G4 iMac: 15-inch</a></li><li><a href="/parts/code/PM_CU_IM_C3">G3 iMac</a></li><li><a href="/parts/code/PM_CU_EM">eMac</a></li></ul><ul><li><h5>MacBook / MacBook Pro</h5></li><li><a href="/parts/code/PM_CU_MB_17">MacBook Pro: 17-inch</a></li><li><a href="/parts/code/PM_CU_MB_5U">MacBook Pro: 15-inch (Unibody)</a></li><li><a href="/parts/code/PM_CU_MB_15">MacBook Pro: 15-inch (Non-Unibody)</a></li><li><a href="/parts/code/PM_CU_MB_13">MacBook Pro: 13-inch</a></li><li><a href="/parts/code/PM_CU_MK">MacBook: 13-inch</a></li><li><a href="/parts/code/PM_CU_MA">MacBook Air: 13-inch</a></li><li><a href="/parts/code/PM_CU_M1">MacBook Air: 11-inch</a></li></ul><ul><li><h5>iBooks / PowerBooks</h5></li><li><a href="/parts/code/PM_CU_PB_17">G4 PowerBook: 17-inch</a></li><li><a href="/parts/code/PM_CU_PB_15">G4 PowerBook: 15-inch</a></li><li><a href="/parts/code/PM_CU_PB_12">G4 PowerBook: 12-inch</a></li><li><a href="/parts/code/PM_CU_IB_14">G4 iBook: 14-inch</a></li><li><a href="/parts/code/PM_CU_IB_12">G4 iBook: 12-inch</a></li></ul><div class="clear">&nbsp;</div></div></li>                <li class="sub-item"><a href="/cats/disp/special_value_macs" id="menuSpecialValueMacs">Special Value Macs</a><div id="third-menuSpecialValueMacs" class="third-menu"><div class="bkg"></div><div class="arrow"><img src="/images/nav/arrow_head.png"></div><ul><li><h5>Special Value Macs</h5></li><li><a href="/parts/code/PM_SV_LA">Special Value Laptops</a></li><li><a href="/parts/code/PM_SV_IM">Special Value Desktops</a></li></ul><div class="clear">&nbsp;</div></div></li>                <li class="sub-item">
+                    <a href="/cto" id="menuCustomMacs">Configure-To-Order Macs</a>
+                    <div id="third-menuCustomMacs" class="third-menu">
+                        <div class="bkg"></div>
+                        <div class="arrow"><img src="/images/nav/arrow_head.png" alt=""></div>
+                        <ul>
+                            <li><h5>Configure-To-Order Macs</h5></li>
+                            <li><a href="/cto/choose/mac_mini/">Mac mini</a></li>
+                            <li><a href="/cto/choose/imac/">iMac</a></li>              
+                            <li><a href="/cto/choose/mac_pro/">Mac Pro</a></li>
+                            <li><a href="/cto/choose/macbook_air">Macbook Air</a></li>
+                            <li><a href="/cto/choose/macbook_pro/">Macbook Pro</a></li>
+                        </ul>
+                        <div class="clear">&nbsp;</div>
+                    </div>
+                </li>
+                <li class="sub-item"><a href="/cats/disp/ipods" id="menuiPods">iPods / iPhones</a><div id="third-menuiPods" class="third-menu"><div class="bkg"></div><div class="arrow"><img src="/images/nav/arrow_head.png"></div><ul><li><h5>iPods</h5></li><li><a href="/parts/code/PM_MP_TO">iPod touch</a></li><li><a href="/parts/code/PM_MP_VP">iPod classic</a></li><li><a href="/parts/code/PM_MP_IN">iPod nano</a></li><li><a href="/parts/code/PM_MP_IS">iPod shuffle</a></li><li>&nbsp;</li><li><h5>iPod Deals</h5></li><li><a href="/parts/code/PM_BO_IP">Pre-Owned iPods</a></li><li><a href="/parts/code/PM_BO_IT">Used IPhones</a></li><li><a href="/parts/code/PM_MP_TP">Other MP3/Video Players</a></li></ul><ul><li><h5>iPod &amp; iPhone Accessories</h5></li><li><a href="/parts/code/PM_BO_IA">Accessory Deals for iPod &amp; iPhone</a></li><li><a href="/cats/sub/iphoneacc">iPhone Accessories</a></li><li><a href="/parts/code/PM_IP_P5">Protective Cases for the iPhone 5</a></li><li><a href="/parts/code/PM_IC_AG">Car &amp; Plane Chargers</a></li><li><a href="/cats/sub/ipodcat">Cases &amp; Protectors for iPods</a></li><li><a href="/parts/code/PM_IC_FM">FM Transmitters &amp; Remotes</a></li><li><a href="/cats/sub/headphones">Headphones and Earbuds</a></li><li><a href="/parts/code/PM_IC_TR">Home Stereos for iPod</a></li><li><a href="/parts/code/PM_IC_MI">Misc. iPod Accessories</a></li><li><a href="/parts/code/PM_IC_PD">Power, Docks &amp; Cables</a></li><li><a href="/cats/sub/idocks">Speakers and Docks for iPod • iPhone • iPad</a></li><li><a href="/parts/code/PM_MA_HA">Speaker &amp; Headphone Cables</a></li><li><a href="/parts/code/PM_IC_CT">Travel Accessories</a></li></ul><div class="clear">&nbsp;</div></div></li>                <li class="sub-item"><a href="/ipad2013" id="menuiPads">iPads</a><div id="third-menuiPads" class="third-menu"><div class="bkg"></div><div class="arrow"><img src="/images/nav/arrow_head.png"></div><ul><li><a href="/ipad-retina-2013">iPad with Retina display</a></li><li><a href="/ipad-mini-2013">iPad mini</a></li><li><a href="/ipad2">iPad 2</a></li><li><a href="/parts/code/PM_IP_U1">Used and Refurbished iPads</a></li></ul><div class="clear">&nbsp;</div></div></li>                <li class="sub-item"><a href="/cats/disp/storage" id="menuStorage">Storage</a><div id="third-menuStorage" class="third-menu"><div class="bkg"></div><div class="arrow"><img src="/images/nav/arrow_head.png"></div><ul><li><h5>Storage Deals</h5></li><li><a href="/parts/code/PM_ST_BS">Best-selling Drives</a></li><li><a href="/cats/sub/serverstorage">High-End Storage</a></li><li><a href="/parts/code/PM_BO_SX">Storage Blowouts</a></li><li>&nbsp;</li><li><h5>Storage Brands</h5></li><li><a href="/parts/code/PM_ST_TC">Apple Time Capsule</a></li><li><a href="/cats/sub/caldigit">CalDigit</a></li><li><a href="/cats/sub/CMS">CMS Products</a></li><li><a href="/parts/code/PM_ST_WI">CRU/Wiebetech</a></li><li><a href="/cats/sub/micronet">Micronet/Fantom</a></li><li><a href="/parts/code/PM_ST_DR">Data Robotics (Drobo)</a></li><li><a href="/parts/code/PM_ST_GT">G-Tech</a></li><li><a href="/cats/sub/lacie">LaCie Drives</a></li><li><a href="/parts/code/PM_ST_NT">Newer Technology</a></li><li><a href="/parts/code/PM_ST_PA">Proavio</a></li><li><a href="/parts/code/PM_ST_PR">Promise</a></li><li><a href="/cats/sub/rocstor">Rocstor Drives</a></li><li><a href="/cats/sub/sonnet">Sonnet Technologies</a></li></ul><ul><li><h5>Additional Storage</h5></li><li><a href="/parts/code/PM_ST_BR">Blu-Ray</a></li><li><a href="/cats/sub/controllers">Controllers</a></li><li><a href="/parts/code/PM_ST_DP">Duplicators</a></li><li><a href="/parts/code/PM_ST_EE">External Enclosures</a></li><li><a href="/parts/code/PM_ST_EX_FW_BU">External FireWire Back Up Systems</a></li><li><a href="/parts/code/PM_ST_EX_FW_HD">External FireWire Hard Drives</a></li><li><a href="/parts/code/PM_ST_EX_UP">External Portable Drives</a></li><li><a href="/parts/code/PM_ST_EX_US">External USB Drives</a></li><li><a href="/parts/code/PM_ST_FW">FireWire Adapters and Hubs</a></li><li><a href="/cats/sub/flash">Flash Drives</a></li><li><a href="/parts/code/PM_ST_DM">Flash &amp; Memory Card Readers</a></li><li><a href="/cats/sub/internalhd">Internal Hard Drives</a></li><li><a href="/cats/sub/media">Media</a></li><li><a href="/parts/code/PM_ST_RS">Rackmounts, Server Racks &amp; high-end enclosures</a></li><li><a href="/parts/code/PM_ST_TA_EX">Tape Drive Listings</a></li><li><a href="/parts/code/PM_ST_TH">ThunderBolt Drives</a></li><li><a href="/parts/code/PM_ST_XR">XServe and RAID Accessories</a></li></ul><div class="clear">&nbsp;</div></div></li>                <li class="sub-item"><a href="/cats/disp/displays" id="menuDisplays">Displays</a><div id="third-menuDisplays" class="third-menu"><div class="bkg"></div><div class="arrow"><img src="/images/nav/arrow_head.png"></div><ul><li><h5>Apple Displays &amp; Deals</h5></li><li><a href="/parts/code/PM_DI_AP">Apple Cinema Displays </a></li><li><a href="/parts/code/PM_DI_BS">Best-Selling Displays</a></li><li><a href="/parts/code/PM_BO_DI">Used Displays &amp; Deals</a></li><li>&nbsp;</li><li><h5>Displays By Size</h5></li><li><a href="/cats/sub/25_lcd">25"+ LCD Displays</a></li><li><a href="/cats/sub/20_lcd">20-24" LCD Displays</a></li><li><a href="/cats/sub/19_lcd">19" LCD Displays</a></li><li><a href="/cats/sub/17_lcd">17" LCD Displays</a></li><li><a href="/parts/code/PM_DI_LC_15_AM">15-inch Displays</a></li></ul><ul><li><h5>Other Displays &amp; TVs</h5></li><li><a href="/parts/code/PM_DI_LT">LCD TVs</a></li><li><a href="/parts/code/PM_DI_PS">Plasma Displays</a></li><li><a href="/parts/code/PM_DI_TS">Touch Screen Displays</a></li><li><a href="/parts/code/PM_DI_NT">NTSC &amp; Broadcast Displays</a></li><li><a href="/parts/code/PM_VI">Video Cards</a></li></ul><ul><li><h5>Display accessories</h5></li><li><a href="/parts/code/PM_DI_AC_DA">Display Adapters</a></li><li><a href="/parts/code/PM_DI_AC_CB">Display Calibrators</a></li><li><a href="/parts/code/PM_DI_AC_CC">Display Covers and Cleaners</a></li><li><a href="/parts/code/PM_DI_EX">Display Extenders</a></li><li><a href="/parts/code/PM_DI_AC_FI">Display Screen Filters</a></li><li><a href="/parts/code/PM_DI_AC_SM">Display Stands and Mounts</a></li><li><a href="/parts/code/PM_DI_AC_MO">Multiple Screen Options</a></li></ul><div class="clear">&nbsp;</div></div></li>         
+                <li class="sub-item"><a href="/cats/disp/pro_video" id="menuProVideo+Audio">Video+Audio</a><div id="third-menuVideoAudio" class="third-menu"><div class="bkg"></div><div class="arrow"><img src="/images/nav/arrow_head.png"></div><ul><li><h5>Gear</h5></li><li><a href="/cats/sub/pdv_audio">Audio: Speakers, Mics, &amp; Headphones</a></li><li><a href="/parts/code/PM_DV_PN_AJ">AJA Video Capture Cards</a></li><li><a href="/cats/sub/pdv_camcorders">Camcorders</a></li><li><a href="/parts/code/PM_DV_DE">Decks and duplicators</a></li><li><a href="/parts/code/PM_DV_CA_DR">Digital Video Recorders</a></li><li><a href="/parts/code/PM_IN_KB_NL">Editing Keyboards</a></li><li><a href="/cats/sub/mediaconverters">Editing, Mixing and Titling Hardware</a></li><li><a href="/cats/sub/pdv_lighting">Lighting</a></li><li><a href="/parts/code/PM_DV_LT_LA">Lastolite</a></li><li><a href="/cats/sub/pdv_software">Pro Video &amp; Audio Software</a></li><li><a href="/parts/code/PM_DV_SS">Startech Switches and Hubs</a></li><li><a href="/cats/sub/serverstorage">Storage</a></li><li><a href="/cats/sub/pdv_teleprompters">Teleprompters</a></li><li><a href="/parts/code/PM_DV_VS">Video Switchers</a></li><li>&nbsp;</li><li><h5>Accessories</h5></li><li><a href="/cats/sub/pdv_camcorder_acc">Camcorder Accessories</a></li><li><a href="/parts/code/PM_BO_DV">Digital Video and Photo Specials</a></li><li><a href="/cats/sub/dvdisplays">Displays and Accessories</a></li><li><a href="/cats/sub/media">Media</a></li></ul><div class="clear">&nbsp;</div></div></li>                <li class="sub-item"><a href="/cats/disp/accessories" id="menuAccessories+AppleCare">Accessories</a><div id="third-menuAccessories" class="third-menu"><div class="bkg"></div><div class="arrow"><img src="/images/nav/arrow_head.png"></div><ul><li><h5>Accessory Deals</h5></li><li><a href="/cats/sub/blowouts">The PowerMax Bargain Basement</a></li><li>&nbsp;</li><li><h5>Mac Accessories</h5></li><li><a href="/parts/code/PM_AC">AppleCare</a></li><li><a href="/cats/sub/audio">Audio Hardware</a></li><li><a href="/cats/sub/cables">Cables</a></li><li><a href="/cats/sub/headphones">Headphones and Earbuds</a></li><li><a href="/cats/sub/keyboards">Keyboards</a></li><li><a href="/parts/code/PM_AS_BA">MacBook Air Accessories</a></li><li><a href="/cats/sub/pbook_acc">Laptop Accessories</a></li><li><a href="/cats/sub/input_mice">Mice &amp;  Joysticks</a></li><li><a href="/cats/sub/printers">Printers</a></li><li><a href="/cats/sub/scanners">Scanners</a></li><li><a href="/cats/sub/speakers">Speakers</a></li><li><a href="/cats/sub/upgrades">Upgrades</a></li><li><a href="/parts/code/PM_VI">Video Cards</a></li></ul><ul><li><h5>Product Accessories</h5></li><li><a href="/cats/sub/ipadcat">iPad Accessories</a></li><li><a href="/parts/code/PM_PM_CA">Cases and Skins for the iPad Mini</a></li><li><a href="/cats/sub/iphoneacc">iPhone Accessories</a></li><li><a href="/cats/sub/ipodcat">iPod Accessories</a></li><li><a href="/parts/code/PM_AS_TV">Apple TV &amp; TV Accessories</a></li><li><a href="/parts/code/PM_IN_DA">Desk Accessories</a></li><li><a href="/cats/sub/accessories">Display Accessories</a></li><li><a href="/parts/code/PM_AS_MI">Misc. Accessories</a></li><li><a href="/cats/sub/phoneacc">Portable Phone Accessories</a></li><li><a href="/cats/sub/printeraccessories">Printer Accessories</a></li><li><a href="/parts/code/PM_AC_SP">Solar-Powered Accessories</a></li></ul><ul><li><h5>Hardware Accessories</h5></li><li><a href="/cats/sub/digitalphotography">Digital Photography</a></li><li><a href="/parts/code/PM_DF">Digital Photo Frames</a></li><li><a href="/cats/sub/media">Media</a></li><li><a href="/parts/code/PM_MP_TP">MP3 and Video Players</a></li><li><a href="/cats/sub/webcams">Network Cameras</a></li><li><a href="/parts/code/PM_AS_PQ">Pointers and Remotes</a></li><li><a href="/cats/sub/pp">Power Protection</a></li><li><a href="/cats/sub/projectors">Projectors &amp; Accessories</a></li><li><a href="/parts/code/PM_SS_KI">The ProScope</a></li><li><a href="/parts/code/PM_TK">Tool Kits</a></li><li><a href="/cats/sub/graphicstablets">Wacom Products</a></li><li><a href="/parts/code/PM_IN_GT_OT">Other Tablets</a></li></ul><div class="clear">&nbsp;</div></div></li>                <li class="sub-item"><a href="/cats/disp/networking" id="menuNetworking">Networking</a><div id="third-menuNetworking" class="third-menu"><div class="bkg"></div><div class="arrow"><img src="/images/nav/arrow_head.png"></div><ul><li><h5>Networking Hardware</h5></li><li><a href="/parts/code/PM_AI">Airport Base Stations</a></li><li><a href="/parts/code/PM_NT_WL_BA">Bluetooth Adapters</a></li><li><a href="/parts/code/PM_MO">Modems</a></li><li><a href="/cats/sub/switch">Network Switches</a></li><li><a href="/parts/code/PM_NT_AD">Other Network Adapters</a></li><li><a href="/parts/code/PM_NT_PI">PCI Cards</a></li><li><a href="/parts/code/PM_NT_PR">Printer Networking</a></li><li><a href="/parts/code/PM_NT_RT">Routers</a></li><li><a href="/parts/code/PM_NT_SC">SonicWall Security</a></li><li><a href="/cats/sub/usbhubs">USB Hubs</a></li><li><a href="/parts/code/PM_NT_WL_PI">Wireless Cards</a></li><li><a href="/cats/sub/wireless">Wireless Hardware</a></li><li>&nbsp;</li><li><h5>Networking Deals</h5></li><li><a href="/parts/code/PM_BO_NT">Networking Blowouts</a></li></ul><div class="clear">&nbsp;</div></div></li>                <li class="sub-item"><a href="/cats/disp/software" id="menuSoftware">Software</a><div id="third-menuSoftware" class="third-menu"><div class="bkg"></div><div class="arrow"><img src="/images/nav/arrow_head.png"></div><ul><li><h5>Software Deals</h5></li><li><a href="/parts/code/PM_SO_BS">Best-selling Software</a></li><li><a href="/parts/code/PM_BO_SO">Software Blowouts</a></li><li>&nbsp;</li><li><h5>Multimedia Software</h5></li><li><a href="/cats/sub/adobe">Adobe Software</a></li><li><a href="/parts/code/PM_SO_AO">Audio Editing</a></li><li><a href="/parts/code/PM_SO_CD">Authoring and Recording</a></li><li><a href="/parts/code/PM_SO_GI">Clip Art and Images</a></li><li><a href="/parts/code/PM_SO_UF">Font Utilities</a></li><li><a href="/parts/code/PM_SO_GC">Graphic Creation</a></li><li><a href="/parts/code/PM_SO_GR">Graphic Editing</a></li><li><a href="/parts/code/PM_SO_DC">Professional Digital Video</a></li><li><a href="/parts/code/PM_SO_PB">Publishing Software</a></li><li><a href="/parts/code/PM_SO_DS">Special Effects</a></li><li><a href="/parts/code/PM_SO_SF">Sound Effects and Music</a></li></ul><ul><li><h5>Professional Software</h5></li><li><a href="/parts/code/PM_SO_AP">Apple Software</a></li><li><a href="/parts/code/PM_SO_AC">Accounting &amp; Financial</a></li><li><a href="/parts/code/PM_SO_DB">Database Software</a></li><li><a href="/parts/code/PM_SO_UT">Disk Utility and Back-up</a></li><li><a href="/parts/code/PM_SO_US">Efficiency Software</a></li><li><a href="/parts/code/PM_SO_NT">Networking Software</a></li><li><a href="/parts/code/PM_SO_OF">Office and Word Processing</a></li><li><a href="/parts/code/PM_SO_OS">Operating Systems</a></li><li><a href="/cats/sub/presentation">Presentation Software and Accessories</a></li><li><a href="/parts/code/PM_SO_SV">Server Software</a></li><li><a href="/parts/code/PM_SO_VI">Virus Protection</a></li><li><a href="/pages/final_cut_pro_x">Final Cut Pro X</a></li></ul><ul><li><h5>Other Software</h5></li><li><a href="/cats/sub/books_training">Books and Training</a></li><li><a href="/cats/sub/games">Games</a></li><li><a href="/parts/code/PM_SO_DH">Home and Hobby</a></li><li><a href="/cats/sub/homelearning">Home Learning</a></li><li><a href="/parts/code/PM_SO_JK">Just for Kids</a></li></ul><div class="clear">&nbsp;</div></div></li>                <li class="sub-item">
+                    <a href="/cats/sub/blowouts" id="menuBlowouts">Bargain Basement</a>
+                </li>
+            </ul>
+        </li>
+        <li class="menu-item">
+            <div id="menuCustomerResources" class="menu-header">
+                <span class="small_emphasized">Customer</span> Resources
+            </div>
+            <ul class="sub-menu" id="sub-menuCustomerResources">
+                <li class="sub-item"><a href="/customer_resources/faq/">Frequently Asked Questions</a></li>
+                <li class="sub-item"><a href="/help/return_policy/">Returns &amp; Errors</a></li>
+                <li class="sub-item"><a href="/stolen/">Stolen Inventory Database</a></li>
+                <li class="sub-item"><a href="/askjacob/">Ask Jacob</a></li>
+                <li class="sub-item"><a href="/shopper/">Personal Shopper</a></li>
+                <li class="sub-item"><a href="/customer_resources">More...</a></li>
+            </ul>
+        </li>
+        <li class="menu-item">
+            <div id="menuPowerMaxAttitude" class="menu-header">
+                <span class="small_emphasized">PowerMax</span> Attitude &amp; Fun
+            </div>
+            <ul class="sub-menu" id="sub-menuPowerMaxAttitude">
+                <li class="sub-item"><a href="/attitude_fun/how_powermax_works/">How PowerMax Works</a></li>
+                <li class="sub-item"><a href="/attitude_fun/philosophy/">The Philosophies of PowerMax</a></li>
+                <li class="sub-item"><a href="/keeping_you_gruntled/">Keeping You Gruntled</a></li>
+                <li class="sub-item"><a href="/where_is_max/">Where is Max?</a></li>
+                <li class="sub-item"><a href="/articles/">Articles</a></li>
+                <li class="sub-item"><a href="/attitude_fun">More...</a></li>
+            </ul>
+        </li>
+        <li class="menu-item">
+            <div id="menuShippingPayment" class="menu-header">
+                <span class="small_emphasized">Info On</span> Shipping &amp; Payment
+            </div>
+            <ul class="sub-menu" id="sub-menuShippingPayment">
+                <li class="sub-item"><a href="/free_shipping/">Free Shipping</a></li>
+                <li class="sub-item"><a href="/shipping_payment/shipping_delivery/">Shipping &amp; Delivery FAQs</a></li>
+                <li class="sub-item"><a href="/shipping_payment/military/">APO/FPO Shipping</a></li>
+                <li class="sub-item"><a href="/shipping_payment/international/">International Shipping</a></li>
+                <li class="sub-item"><a href="/shipping_payment/payment/">Payment Method &amp; Information</a></li>
+            </ul>
+        </li>
+        <li>
+        </li><li class="menu-item">
+            <div id="menuChatWithUs" class="menu-header">
+                <a href="/chat/">
+                    <span class="small_emphasized">Monday - Friday 6:30AM - 5:30PM PST</span>
+                    Click here to chat online with a Mac expert
+                </a>
+            </div>
+        </li>
+        
+    </ul>
+</div>                    </div>
+                    
 <div id="content">
 <div class="crumbs"><span><a href="/">Home</a></span><img src="/images/background/breadcrumbs_section.png" width="9px" height="14px" alt="Bread Crumbs Divider">
 <span><a href="/about/">About</a></span><img src="/images/background/breadcrumbs_section.png" width="9px" height="14px" alt="Bread Crumbs Divider"> 
@@ -536,196 +220,147 @@
     </div>
   </div><!-- end #col2 -->
 	
-</div><!-- end #content -->       <div class="clear">&nbsp;</div>
-			</div><!-- end page -->      
-		</div><!-- end pageBkg -->
-		<div class="clear">&nbsp;</div>
+</div><!-- end #content -->                    <div class="clear"></div>
+                </div>    
+            </div>
+            <div class="clear">&nbsp;</div>
 <div id="footerTop"></div>
-    <div id="footer">
-    	<div class="footerContent">	
-      	<ul>
-        	<li><h6>Customer Resources</h6></li>
-          <li><a href="/shopper/" rel="nofollow">Personal Shopper</a></li>
-          <li><a href="/askjacob/" rel="nofollow">Ask Jacob</a></li>
-          <li><a href="/customer_resources/faq/" rel="nofollow">Frequently Asked Questions</a></li>
-          <li><a href="/customer_resources/faq_used" rel="nofollow">Used Mac FAQs</a></li>
-          <li><a href="/customer_resources/warranty/" rel="nofollow">Warranty Information</a></li>
-          <li><a href="/stolen/" rel="nofollow">Stolen Inventory Database</a></li>
-          <li><a href="/customer_resources/windows/" rel="nofollow">Windows Users' Resources</a></li>
-          <li><a href="/customer_resources/top_ten" rel="nofollow">The Top Ten Reasons Macs Are Better Than PCs</a></li>
-          <li><a href="/techtips/" rel="nofollow">Tech Tips</a></li>
-          <li><a href="/customer_resources/intel_vs_powerpc" rel="nofollow">On Intel Vs. PowerPC</a></li>
-          <li><a href="/customer_resources/why_buy/" rel="nofollow">Why Buy From Us?</a></li>
-     		</ul>
-        <ul>   
-          <li><h6>Attitude &amp; Fun</h6></li>
-          <li><a href="/max/" rel="nofollow">Max the Sasquatch</a></li>
-          <li><a href="/articles/" rel="nofollow">Commentary</a></li>
-          <li><a href="/where_is_max/" rel="nofollow">Where is Max?</a></li>
-          <li><a href="/attitude_fun/philosophy/" rel="nofollow">The Philosophies of PowerMax</a></li>
-          <li><a href="/keeping_you_gruntled/" rel="nofollow">Keeping You Gruntled</a></li>
-          <li><a href="/attitude_fun/how_powermax_works/" rel="nofollow">How PowerMax Works</a></li>
-          <li><a href="/attitude_fun/here_for_you/" rel="nofollow">PowerMax is Here For You!</a></li>
-          <li><a href="/attitude_fun/did_you_know/" rel="nofollow">Did You Know?</a></li>
-          <li><a href="/attitude_fun/why_oregon/" rel="nofollow">Why We Like Being from Oregon</a></li>
-        </ul>
-        <ul>  
-          <li><h6>Shipping &amp; Payment</h6></li>
-          <li><a href="/free_shipping/" rel="nofollow">Free Shipping</a></li>
-          <li><a href="/tracking/" rel="nofollow">Order Tracking</a></li>
-          <li><a href="/shipping_payment/shipping_delivery/" rel="nofollow">Shipping &amp; Delivery FAQs</a></li>
-          <li><a href="/shipping_payment/military/" rel="nofollow">APO/FPO Shipping</a></li>
-          <li><a href="/shipping_payment/international/" rel="nofollow">International Shipping</a></li>
-          <li><a href="/shipping_payment/payment/" rel="nofollow">Payment Method &amp; Information</a></li>
-          <li>&nbsp;</li>
-          <li><h6>Help</h6></li>
-          <li><a href="/help/cancel_order/" rel="nofollow">Order Cancellations</a></li>
-          <li><a href="/help/return_policy/" rel="nofollow">Returns &amp; Errors</a></li>
-        </ul>
-				<ul>
-        	<li><h6>About Us</h6></li>
-          <li><a href="/about/business/" rel="nofollow">Business Customers</a></li>
-          <li><a href="/about/fraud/" rel="nofollow">Fraud Prevention</a></li>
-          <li><a href="/about/newsletter/" rel="nofollow">Newsletter</a></li>
-          <li><a href="/about/testimonials/" rel="nofollow">Testimonials</a></li>
-          <li><a href="/about/gift_certificates/" rel="nofollow">Gift Certificates</a></li>
-          <li><a href="/about/privacy/" rel="nofollow">Privacy Policy</a></li>
-          <li><a href="/about/contact/" rel="nofollow">Contact Us</a></li>
-          <li><a href="http://www.facebook.com/PowerMaxOnFB" rel="nofollow">Facebook</a></li>
-          <li><a href="http://twitter.com/powermax_news" rel="nofollow">Twitter</a></li>
-        </ul> 
-        <ul class="newsletter">
-          <form onsubmit="return submitIt(this)" name="subsForm" action="http://app.subscribermail.com/add_mail.cfm" method="post">
-          <input type="hidden" name="ppid" value="POWEAC2984F5">
-          <input type="hidden" name="version" value="v3">
-          <input type="hidden" value="ONLIBDB1101A" name="interest_group">
-          <input type="hidden" name="optinparam" value="redirectwelcome">
-          <input type="hidden" name="ovr_redirection_url" value="http://www.powermax.com/everything_else/newsletter_thanks">
-          <li><img src="/images/icons/max_boltnewsletter.png" alt="Max Thumbs Up"></li>
-          <li><span>Join the Bolt &amp; Save $10 Now!</span></li>
-          <li><div class="clear">&nbsp;</div></li>
-          <li><p><label for="nlemail-ft">Would you like to be the first to hear about PowerMax deals, specials, 
-          and product releases? How about saving $10 off your next order of $100 or more?</label></p></li>
-          
-          <li class="column1"><input type="text" style="width:140px;" value="Email Address" id="nlemail-ft" maxlength="90" name="email" class="field valueInputName" onfocus="(this.value=''), (this.style.color='#555454'), (this.style.fontStyle='normal')"></li>
-          <li class="column2"><input type="image" name="Submit" src="/images/buttons/sign_me_up.png" class="inputButton" alt="Submit"></li>
-					</form>
-        </ul>
-        <div class="clear">&nbsp;</div>
-      </div><!-- end #footerContent-->
-  	</div><!-- end #footer-->
-    <div id="footerBottom">
-      <div class="footerContent">
-        <div class="column1">
-        	<ul>
-          	<li><a href="/">Home</a>&nbsp;|&nbsp;<a href="/about/" rel="nofollow">About</a>&nbsp;|&nbsp;<a href="/about/contact/" rel="nofollow">Contact</a>&nbsp;|&nbsp;<a href="/help/" rel="nofollow">Help</a> &nbsp;|&nbsp;<a href="/site_map/">Site Map</a></li>
-            <li>Copyright © 2013 PowerMax Computers. All rights reserved</li>
-            <li>6077A Lakeview Blvd., Lake Oswego, OR 97035</li>
-            <li>
-               <ul class="appleSpecialist">
-                <li><img src="/images/icons/apple_gray.png" alt="Apple Icon"></li>
-                <li><span>Authorized Apple Specialist</span></li>
-          		</ul>
-            </li>
-          </ul>
+<div id="footer">
+    <div class="footerContent">
+        <div style="float: left;">
+            <div>
+                <ul>
+                    <li><h6>About Us</h6></li>
+                    <li><a href="/about/business/" rel="nofollow">Business Customers</a></li>
+                    <li><a href="/about/fraud/" rel="nofollow">Fraud Prevention</a></li>
+                    <li><a href="/about/gift_certificates/" rel="nofollow">Gift Certificates</a></li>
+                </ul>
+                <ul>
+                    <li>&nbsp;</li>
+                    <li><a href="/about/privacy/" rel="nofollow">Privacy Policy</a></li>
+                    <li><a href="/about/testimonials/" rel="nofollow">Testimonials</a></li>
+                    <li><a href="/about/newsletter/" rel="nofollow">Newsletter</a></li>
+                </ul>
+                <ul>
+                    <li>&nbsp;</li>
+                    <li><a href="/about/contact/" rel="nofollow">Contact Us</a></li>
+                    <li><a href="http://www.facebook.com/PowerMaxOnFB" rel="nofollow">Facebook</a></li>
+                    <li><a href="http://twitter.com/powermax_news" rel="nofollow">Twitter</a></li>
+                </ul>
+                <ul>
+                    <li><h6>Help</h6></li>
+                    <li><a href="/help/cancel_order/" rel="nofollow">Order Cancellations</a></li>
+                    <li><a href="/help/return_policy/" rel="nofollow">Returns &amp; Errors</a></li>
+                    <li><a href="/site_map/">Site Map</a></li>
+                </ul>
+            </div>
+            <div style="width: 450px; color: white; font-size: 1.1em;">
+                <ul itemscope="" itemtype="http://schema.org/Organization" style="width: 100%; padding-top: 20px;">
+                    <li itemprop="name" style="padding-bottom: 0;">PowerMax</li>
+                    <li itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress" style="padding-bottom: 0;">
+                        <span itemprop="streetAddress">6077A Lakeview Blvd.</span>,
+                        <span itemprop="addressLocality">Lake Oswego</span>,
+                        <span itemprop="addressRegion">OR</span>
+                        <span itemprop="postalCode">97035</span>
+                    </li>
+                    <li itemprop="telephone">1-888-769-7629</li>
+                    <li style="padding-top: 5px;">Copyright © 2013 PowerMax Computers. All rights reserved</li>
+                    <li><img src="/images/icons/apple_white.png" alt="Apple Icon" style="vertical-align: middle;"><span> Authorized Apple Specialist</span></li>
+                </ul>
+            </div>
         </div>
-        <div class="column2">
-          <ul class="col1">
-            <li class="xserveIcon"><a href="http://www.apple.com/xserve/" rel="external "><img src="/images/icons/xserve20050720.gif" width="57" height="33" alt="Powered by Xserve from Apple" class="top_logo"></a></li>
-            <li class="adobeIcon"><img src="/images/icons/logo_adobe.gif" width="71" height="33" alt="Adobe Authorized Dealer" class="top_logo"></li>
-            <li class="kerioIcon"><img src="/images/icons/logo_kerio.gif" alt="Powered by Kerio MailServer 6" class="bottom"></li>
-            <!--<li class="apple_spIcon"><img src="/images/icons/logo_apple_specialist.gif" alt="Apple Specialist" class="last bottom" /></li>-->
-          </ul>
-          <ul class="col2">
-            <li class="resellerrateIcon"><a href="https://www.resellerratings.com" onclick="window.open('https://seals.resellerratings.com/landing.php?seller=2183','name','height=760,width=780,scrollbars=1'); return false;"><img style="border:none;" src="https://seals.resellerratings.com/seal.php?seller=2183" oncontextmenu="alert('Copying Prohibited by Law - ResellerRatings seal is a Trademark of All Enthusiast, Inc.'); return false;" class="first" alt="ResellerRatings "></a></li>
-          </ul>
+        <ul class="newsletter" style="float: left; margin-right: 2em;">
+            <form onsubmit="return submitIt(this)" name="subsForm" action="http://app.subscribermail.com/add_mail.cfm" method="post">
+                <input type="hidden" name="ppid" value="POWEAC2984F5">
+                <input type="hidden" name="version" value="v3">
+                <input type="hidden" value="ONLIBDB1101A" name="interest_group">
+                <input type="hidden" name="optinparam" value="redirectwelcome">
+                <input type="hidden" name="ovr_redirection_url" value="http://www.powermax.com/everything_else/newsletter_thanks">
+                <li><img src="/images/icons/max_boltnewsletter.png" alt="Max Thumbs Up"></li>
+                <li><span>Join the Bolt &amp; Save $10 Now!</span></li>
+                <li><div class="clear">&nbsp;</div></li>
+                <li>
+                    <p>
+                        <label for="nlemail-ft">
+                            Would you like to be the first to hear about PowerMax deals, specials, 
+                            and product releases? How about saving $10 off your next order of $100 or more?
+                        </label>
+                    </p>
+                </li>
+                <li class="column1">
+                    <input type="text" style="width:140px;" placeholder="Your Email Address" id="nlemail-ft" maxlength="90" name="email" class="field valueInputName">
+                </li>
+                <li class="column2">
+                    <input type="image" name="Submit" src="/images/buttons/sign_me_up.png" class="inputButton twinkie" alt="Submit">
+                </li>
+            </form>
+        </ul>
+        <div style="clear: left; padding-top: 10px;">
+            <a href="https://www.resellerratings.com" onclick="window.open('https://seals.resellerratings.com/landing.php?seller=2183', 'name', 'height=760,width=780,scrollbars=1'); return false;">
+                <img style="border: none; margin-right: 20px; vertical-align: middle;" src="https://seals.resellerratings.com/seal.php?seller=2183" class="first" alt="PowerMax is a ResellerRatings Elite Member" width="132" height="52">
+            </a>
+            <img src="/images/icons/logo_adobe.gif" width="90" height="41" alt="PowerMax is an Adobe Platinum Reseller" class="top_logo" style="margin-right: 20px; vertical-align: middle;">
+            <img src="/images/icons/logo_kerio.png" width="" height="" alt="PowerMax uses Kerio MailServer 6 for email" class="bottom" style="vertical-align: middle;">
         </div>
-      </div>
-  	</div><!-- end footerBottom -->	</div><!-- end wrapper -->
-	<div id="floatdiv">  
-    <ul>
-      <li><a class="feedback" href="#feedbackform"><img src="/images/buttons/feedbackV.png" alt="Feedback Form"></a></li>
-      <li><a href="http://www.facebook.com/PowerMaxOnFB" rel="external" target="_blank"><img src="/images/buttons/facebookV.png" alt="Facebook Link"></a></li>
-      <li><a href="http://twitter.com/powermax_news" rel="external" target="_blank"><img src="/images/buttons/twitterV.png" alt="Twitter Link"></a></li>
-    </ul> 
-  </div>    
-  
-  <div style="display:none">
-    <div id="feedbackform" style="padding:10px; background:#fff;">
-    <h3>Give us some feedback!</h3>
-    <p><strong>Please Fill out the Form Below</strong></p>
-    <div>
-    	<form id="feedback_form" onclick="return false;" method="post">
-    	<div class="column1">Name:<br> <input name="name" type="text" style="width:190px" id="feedback_name"></div>
-    	<div class="column2">Email:<br> <input name="email" id="feedback_email" type="text" style="width:190px"></div>
-    	<div class="clear"></div>
-      <div>Comments:<br>
-    	<textarea name="comments" id="feedback_comments" cols="30" rows="6" style="width:400px;max-width:400px;"></textarea></div>
-    	<p><input type="image" src="/images/buttons/submit2.png" id="submit_feedback" href="#" class="inputButton" alt="Submit"></p>
-    	</form>
     </div>
-    </div>
-  </div>
-  
-  
-  
-<script type="text/javascript">
+    <div class="clear"></div>
+</div>
+        </div>
+        <div id="floatdiv">  
+            <ul>
+                <li><a class="feedback" href="#feedbackform"><img src="/images/buttons/feedbackV.png" alt="Feedback Form"></a></li>
+                <li><a href="http://www.facebook.com/PowerMaxOnFB" rel="external" target="_blank"><img src="/images/buttons/facebookV.png" alt="Facebook Link"></a></li>
+                <li><a href="http://twitter.com/powermax_news" rel="external" target="_blank"><img src="/images/buttons/twitterV.png" alt="Twitter Link"></a></li>
+            </ul> 
+        </div>
+        <img id="paypal-flyout" src="/images/paypal/paypal-flyout.png" alt="Powermax and PayPal, now working together!">
 
-	var _gaq = _gaq || [];
-	_gaq.push(['_setAccount', 'UA-374536-1']);
-	_gaq.push(['_trackPageview']);
-	if( csnw_cart_exists ){
-		_gaq.push(['_addTrans',
-			csnw_cart_id,
-			'',
-			csnw_cart_subtotal,
-			'',
-			csnw_cart_shipping,
-			csnw_cart_city,
-			csnw_cart_state,
-			csnw_cart_state
-		]);
-		for( var i=0;i<csnw_cart_items.length; i++ ){
-			var item = csnw_cart_items[i];
-			_gaq.push(['_addItem',
-				csnw_cart_id,
-				item['prod_num'],
-				item['prod_desc'],
-				item['prod_cat'],
-				item['prod_price'],
-				item['prod_qty']
-			]);
-		}
-		_gaq.push(['_trackTrans']);
-	}
+        <div style="display:none">
+            <div id="feedbackform" style="padding:10px; background:#fff;">
+                <h3>Give us some feedback!</h3>
+                <p><strong>Please Fill out the Form Below</strong></p>
+                <div>
+                    <form id="feedback_form" onclick="return false;" method="post">
+                        <div class="column1">Name:<br> <input name="name" type="text" style="width:190px" id="feedback_name"></div>
+                        <div class="column2">Email:<br> <input name="email" id="feedback_email" type="text" style="width:190px"></div>
+                        <div class="clear"></div>
+                        <div>Comments:<br>
+                            <textarea name="comments" id="feedback_comments" cols="30" rows="6" style="width:400px;max-width:400px;"></textarea></div>
+                        <p><input type="image" src="/images/buttons/submit2.png" id="submit_feedback" href="#" class="inputButton" alt="Submit"></p>
+                    </form>
+                </div>
+            </div>
+        </div>
+        
+        <noscript>
+            <div style="display:inline;">
+                <img height="1" width="1" style="border-style:none;" alt="" src="https://www.googleadservices.com/pagead/conversion/1056440750/?label=j-btCPb8yAEQroPg9wM&guid=ON&script=0"/>
+            </div>
+        </noscript>
+        
+        
+                <script type="text/javascript" src="/js/scripts.js"></script>
+        <script type="text/javascript">
+        //<![CDATA[
+            (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        // ]]>
+        </script>
 
-	(function() {
-		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	})();
-
-</script>
-	
-	<!-- Google Code for PowerMax/com Visitors Remarketing List -->
-	<script type="text/javascript">
-	<!--
-	var google_conversion_id = 1056440750;
-	var google_conversion_language = "en";
-	var google_conversion_format = "3";
-	var google_conversion_color = "666666";
-	var google_conversion_label = "j-btCPb8yAEQroPg9wM";
-	var google_conversion_value = 0;
-	//-->
-	</script>
-	<script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js">
-	</script>
-	<noscript>
-	<div style="display:inline;">
-	<img height="1" width="1" style="border-style:none;" alt="" src="https://www.googleadservices.com/pagead/conversion/1056440750/?label=j-btCPb8yAEQroPg9wM&guid=ON&script=0"/>
-	</div>
-	</noscript>
-	
-	
+        <script type="text/javascript">
+        /* <![CDATA[ */
+            var google_conversion_id = 1056440750;
+            var google_conversion_language = "en";
+            var google_conversion_format = "3";
+            var google_conversion_color = "666666";
+            var google_conversion_label = "j-btCPb8yAEQroPg9wM";
+            var google_conversion_value = 0;
+        /* ]]> */
+        </script>
+        <script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js"></script>
+    
 
 </body></html>
