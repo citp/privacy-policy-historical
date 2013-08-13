@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leadshot.net privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604222951id_/http%3A//www.leadshot.net/corporate/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadshot.net privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813072833id_/http%3A//leadshot.net/corporate/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Leadshot
 
