@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the crowdflower.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610180959id_/http%3A//crowdflower.com/general/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdflower.com privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813181220id_/http%3A//crowdflower.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy — CrowdFlower
+# CrowdFlower |
 
 Last Revised: January 2012
 
