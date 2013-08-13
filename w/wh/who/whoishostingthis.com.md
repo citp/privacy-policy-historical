@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the whoishostingthis.com privacy policy that was archived on 2013-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130428184926id_/http%3A//www.whoishostingthis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whoishostingthis.com privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813175258id_/http%3A//www.whoishostingthis.com/privacy-policy) for the most accurate reproduction.*
 
 # WhoIsHostingThis.com Privacy Policy
 
-**WhoIsHostingThis.com is operated by Quality Nonsense Ltd. Learn more about[the team](https://web.archive.org/the-team/) behind the site, how to [contact us](https://web.archive.org/contact/) & more in our ['about'](https://web.archive.org/about/) section.**
+**WhoIsHostingThis.com is operated by Quality Nonsense Ltd. Learn more about[the team](https://web.archive.org/meet-the-team/) behind the site, how to [contact us](https://web.archive.org/contact/) & more in our ['about'](https://web.archive.org/about/) section.**
 
 Your privacy is extremely important to us. This policy sets out how WhoIsHostingThis.com uses and protects any information collected when you use this website. It’s worth a read, but if you’re short of time, here’s the most important stuff:
 
