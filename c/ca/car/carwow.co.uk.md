@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carwow.co.uk privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609035449id_/http%3A//www.carwow.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carwow.co.uk privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813204426id_/http%3A//www.carwow.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | carwow.co.uk
 
