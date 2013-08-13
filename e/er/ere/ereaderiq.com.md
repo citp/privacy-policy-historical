@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the ereaderiq.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527094056id_/http%3A//www.ereaderiq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ereaderiq.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814014345id_/http%3A//www.ereaderiq.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | eReaderIQ.com
+# Privacy Policy | eReaderIQ
 
 Updated: 2013-04-18
 
 ### Consent
 
-By accessing eReaderIQ.com ("eReaderIQ", "Website", "we", "our"), you are consenting to our Privacy Policy.
+By accessing eReaderIQ ("eReaderIQ", "Website", "we", "our"), you are consenting to our Privacy Policy.
 
 ### Information We Collect
 
@@ -30,7 +30,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 ### Affiliate Disclosure
 
-Some of the links posted on eReaderIQ.com are “affiliate links.” This means if you click on a link and purchase an item, we may receive an affiliate commission. Clicking on these links does not affect the price you pay for an item.
+Some of the links posted on eReaderIQ are “affiliate links.” This means if you click on a link and purchase an item, we may receive an affiliate commission. Clicking on these links does not affect the price you pay for an item.
 
 ### Privacy Policy Modifications
 
