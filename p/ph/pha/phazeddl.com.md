@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phazeddl.com privacy policy that was archived on 2012-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120711091835id_/http%3A//www.downloadpost.com/pg_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phazeddl.com privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813223658id_/http%3A//www.downloadpost.com/pg_privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
