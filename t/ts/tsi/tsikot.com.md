@@ -1,55 +1,58 @@
-> *The following text is extracted and transformed from the tsikot.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627093105id_/http%3A//www.tsikot.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tsikot.com privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813115358id_/http%3A//tsikot.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Tsikot.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: **Tsikot.com** and **Tsikot.Yehey.com**.
+##  **Tsikot Car Finder Philippines Web Site Privacy Policy**
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. We use cookies to deliver content specific to your interests and to save your password so you don’t have to re-enter it each time you visit our site.
+At **Tsikot Car Finder Philippines (Tsikot.Com)** , we are committed to protecting your privacy. This Policy explains how **Tsikot Car Finder Philippines** collects, uses, and discloses the personal information you may provide while using the **Tsikot Car Finder Philippines** **s** Web site (the "Web Site"). It is always your choice whether or not to provide personal information through the Web site. Any personal information you provide will be treated with care, and subject to this Policy will not be used or disclosed in ways to which you have not consented. Also, you may opt-out certain uses and disclosures of your personal information, as explained in this Policy.
 
-Our site’s registration form requires users to give us a valid email address. They are used for notifying our members of news/announcements on the site. The email addresses are kept at strict confidentiality and are never sold, rented, or given to any third party. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
+YOUR CONSENT
 
-This site contains links to other sites. **Tsikot.com** is not responsible for the privacy practices or the content of such Web sites. 
+1\. By using the Web Site, you signify your consent to **Tsikot Car Finder Philippines** ' collection, use, and disclosure of your personal information in accordance with this Policy.
 
-### Portal, Public Forums, Classifieds and Galleries  
+INFORMATION AUTOMATICALLY COLLECTED
 
+2\. _Non-Identifiable Information_ \- Like many other Web sites, the Web Site automatically collects certain non-identifiable information regarding Web Site users, such as the Internet Protocol (IP) address of your computer, the IP address of your Internet Service Provider, the date and time you access the Web Site, the Internet address of the Web site from which you linked directly to the Web Site, the operating system you are using, the sections of the Web Site you visit, the Web Site pages read and images viewed, and the content you download from the Web Site. This non-identifiable information is used for Web Site and system administration purposes and to improve the Web Site. **Tsikot Car Finder Philippines** may also use non-identifiable information to initiate interactive, real-time discussions with users. Your non-identifiable information may be disclosed to others and permanently archived for future use.
 
-This site makes the **Portal** (http://www.tsikot.com) **Forums** (http://tsikot.yehey.com/forums), **Auto Classifieds** (http://tsikot.yehey.com/classifieds) and **Galleries** (http://tsikot.yehey.com/gallery) available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+3\. _Cookies_ \- The Web Site uses "cookies", a technology that installs a small amount of information on a Web Site user's computer to permit the Web Site to recognize future visits using that computer. Cookies enhance the convenience and use of the Web Site. For example, the information provided through cookies is used to recognize you as a previous user of the Web Site (so you do not have to enter your personal information every time), offer personalized Web page content and information for your use, track your activity at the Web Site to respond to your needs, and otherwise facilitate your Web Site experience. Advertisements displayed on the Web Site may also contain cookies or other technologies. Those advertisements may be provided by third party advertising companies, and **Tsikot Car Finder Philippines** does not have any control over, or any responsibility or liability for, the use and disclosure of information collected through advertisement cookies. You may choose to decline cookies if your browser permits, but doing so may affect your use of the Web Site and your ability to access certain features of the Web Site or engage in transactions through the Web Site.
 
-### Security
+4\. _Tracking Information_ \- **Tsikot Car Finder Philippines** may use non-personal information to create aggregate tracking information reports regarding Web Site user demographics, Web Site traffic patterns, and Web Site purchases, and then provide those reports to advertisers and others. None of the tracking information in the reports can be connected to the identities or other personal information of individual users. **Tsikot Car Finder Philippines** also may link tracking information with personal information voluntarily provided by Web Site users. Once such a link is made, all of the linked information is treated as personal information and will be used and disclosed only in accordance with this Policy.
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Data is protected both through physical means and by use of encryption and firewall technology.
+PERSONAL INFORMATION YOU SPECIFICALLY PROVIDE
 
-### Third Party Advertising
+5\. _Your Personal Information_ \- During your use of the Web Site, you may be asked to voluntarily provide certain personal information (such as your email address) for purposes such as facilitating communications with you, applying for access to certain special features of the Web Site, or carrying out transactions. It is always your choice whether or not to provide personal information. If you choose not to provide requested personal information, you will not be able to use certain features of the Web Site and you will not be able to engage in transactions through the Web Site.
 
-We use Google Adsense, Adsdaq, Kontera and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to and searches at this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
+6\. _Use of Your Personal Information_ \- **Tsikot Car Finder Philippines** may use your personal information to contact and correspond with you, to respond to your inquiries, to process transactions and payments, and to facilitate and enhance your use of the Web Site. **Tsikot Car Finder Philippines** may develop a confidential customer profile for you, which will be used to provide the very best service to you.
 
-### Third Party Cookies
+7\. _Email from_ **Tsikot Car Finder Philippines** \- **Tsikot Car Finder Philippines** may send to you, from time to time, email or other communications containing information about **Tsikot Car Finder Philippines** , and other matters **Tsikot Car Finder Philippines** believes will interest you. At any time you may ask **Tsikot Car Finder Philippines** to stop sending you email and other information by contacting tsikot at gmail dot com. Also, each unsolicited email **Tsikot Car Finder Philippines** sends to you will tell you how to decline further unsolicited email. From time to time **Tsikot Car Finder Philippines** may also send to you email containing important information regarding the Web Site, which you may not opt out of receiving.
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
+8\. _Disclosure of Your Personal Information_ \- **Tsikot Car Finder Philippines** may disclose your personal information in the following circumstances:
 
-### Supplementation Information
-
-This site supplements the information that you provide with information that is received from third parties.
-
-### Choice/Opt-Out
-
-Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. 
-
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
-
-  1. You can send email to tsikot-at-gmail.com[](mailto:privacy@automotiveforums.com)
-  2. You can visit the following URL: [http://](http://tsikot.yehey.com/forums/member.php?action=editoptions)[tsikot.yehey.com/forums/member.php?action=editoptions](http://tsikot.yehey.com/forums/member.php?action=editoptions)
+(i) Disclosure to Service Providers - In order to process transactions, the website must disclose some of your personal information to certain service providers, such as your credit card issuer, a third party credit verification company, the product handler. Before personal information is disclosed, the service provider will agree with Tsikot Car Finder Philippines to protect the privacy of your personal information in a manner that is consistent with this Policy. A list of  service providers to whom personal information may be disclosed, as amended from time to time, may be found here. If you do not wish 
 
 
+**Tsikot Car Finder Philippines**
 
-### Correct/Update
-
-This site gives users the following options for changing and modifying information previously provided. 
-
-  * visit <http://www.tsikot.yehey.com/forums/usercp.php>
+to provide your personal information to those service providers, you may not use the Web Site for transactions. 
+(ii) Law Enforcement and Legal Disclosure - 
 
 
+**Tsikot Car Finder Philippines** may disclose your personal information to a government institution that has asserted its lawful authority to obtain the information or where **Buy and Sell Philippines** has reasonable grounds to believe the information could be useful in the investigation of unlawful activity, or to comply with a subpoena or warrant or an order made by a court, person or body with jurisdiction to compel the production of information, or to comply with court rules regarding the production of records and information, or to  **Tsikot Car Finder Philippines** ' legal counsel.
 
-### Contacting the Web Site
+9\. _Accessing Your Personal Information_ \- You may request access to your personal information and information about **Buy and Sell Tsikot** **Philippines** ' collection, use and disclosure of that information by contacting **Buy and Sell Tsikot** **Philippines** at _tsikot at gmail.com_. Subject to certain exceptions prescribed by law, you will be given reasonable access to your personal information, and will be entitled to challenge the accuracy and completeness of the information and to have it amended as appropriate. You can help **Tsikot Car Finder Philippines** maintain the accuracy of your information by notifying **Tsikot Car Finder Philippines** of any changes to your personal information.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](http://www.tsikot.com/contact-us/ "Contact Us") .
+OTHER MATTERS
+
+10\. _Interactive Web Pages_ \- Certain pages of the Web Site facilitate real-time interactive discussions between users and **Tsikot Car Finder Philippines** employees regarding products available for purchase through the Web Site. Those discussions are initiated by **Tsikot Car Finder Philippines** employees based upon non-identifiable information automatically collected about Web Site users. You are not obliged to engage in interactive discussions with **Tsikot Car Finder Philippines** employees or provide any personal information during those discussions. Personal information you provide during interactive discussions through the Web Site will be used and disclosed in accordance with this Policy.
+
+11\. _Contests and Promotions_ \- If contests or promotions are made available through the Web Site, the applicable contest or promotion rules may include rules regarding the collection, use and disclosure of personal information. To the extent that those specific rules conflict with this Policy, the particular contest or promotion rules will govern regarding personal information collected in connection with the contest or promotion.
+
+12\. _Other Web Sites_ \- The Web Site may contain links to other Web sites or Internet resources. When you click on one of those links you are contacting another Web site or Internet resource. **Tsikot Car Finder Philippines** has no responsibility or liability for or control over those other Web sites or Internet resources or their collection, use and disclosure of your personal information.
+
+13\. _Web Site Use Agreement and Web Site Transaction Agreement_ \- The Web Site Use Agreement governing your use of the Web Site (which may be viewed by clicking here) contains important provisions, including provisions disclaiming, limiting or excluding **Tsikot Car Finder Philippines** ' liability for your use of the Web Site and provisions determining the applicable law and exclusive jurisdiction for the resolution of any disputes regarding your use of the Web Site. Each of those provisions applies to any disputes that may arise in relation to this Policy and **Tsikot Car Finder Philippines** ' collection, use and disclosure of your personal information, and are of the same force and effect as if they had been reproduced directly in this Policy.
+
+14\. _Former Users_ \- If you stop using the Web Site or your permission to use the Web Site is terminated, **Tsikot Car Finder Philippines** may continue to use and disclose your personal information in accordance with this Policy as amended from time to time. However, if you want **Tsikot Car Finder Philippines** to stop sending you unsolicited email and other information, or you do not wish **Tsikot Car Finder Philippines** to disclose your personal information please notify **Tsikot Car Finder Philippines** at tsikot at gmail dot com.
+
+15\. _Policy Changes_ \- To accommodate changes in the Web Site, changing technology, and legal developments, this Policy may be changed from time to time in **Tsikot Car Finder Philippines** ' sole discretion and without any prior notice or liability to you or any other person. New versions of this Policy will be posted here. **Tsikot Car Finder Philippines** ' collection, use and disclosure of your personal information will be governed by the version of this Policy in effect at that time. Accordingly, when you use the Web Site you should check the date of this Policy and review any changes since the last version.
+
+16\. _Your Comments_ \- If you have any comments or questions about this Policy or your personal information, please contact **Tsikot Car Finder Philippines** at _tsikot at gmail.com_.
