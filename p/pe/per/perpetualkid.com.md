@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perpetualkid.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423210724id_/http%3A//www.perpetualkid.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perpetualkid.com privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813043146id_/http%3A//www.perpetualkid.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Perpetual Kid - Unique Gifts to Entertain Your Inner Child - Privacy Policy
 
