@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exbyte.net privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526005735id_/http%3A//www.exbyte.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exbyte.net privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813171832id_/http%3A//www.exbyte.net/privacy.php) for the most accurate reproduction.*
 
 # Humor, Funny Videos, Sexy Videos, Funny Pictures, Pics
 
