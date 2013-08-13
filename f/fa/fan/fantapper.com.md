@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fantapper.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626063333id_/http%3A//web.brandaffinity.net/terms/PrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantapper.com privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813034534id_/http%3A//web.brandaffinity.net/terms/PrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # Brand Affinity Technologies, Inc. Privacy Policy
 
