@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mobiles.co.uk privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228183422id_/http%3A//www.mobiles.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobiles.co.uk privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813172644id_/http%3A//www.mobiles.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Mobiles.co.uk privacy policy
-
-Deals to make your Christmas. Click here
 
 ## Privacy Policy Summary
 
@@ -10,7 +8,7 @@ Mobiles.co.uk, a trading division of The Carphone Warehouse ("we", ''us'', ''our
 
 This summary, together with our full privacy policy and terms of use (which can be found [ here](https://web.archive.org/t_and_c.html)) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-For the purpose of the Data Protection Act 1998 (the ''Act''), the data controller is The Carphone Warehouse Limited (company number 0214673) of 1 Portal Way, London, W3 6RS.
+For the purpose of the Data Protection Act 1998 (the ''Act''), the data controller is The Carphone Warehouse Limited (company number 02142673) of 1 Portal Way, London, W3 6RS.
 
 **Information we may collect from you.**
 
@@ -106,7 +104,7 @@ You will also have the opportunity to consent to us contacting you by post, e-ma
 
 If you are an existing customer, we may also contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you.
 
-If you do not want us to use your data in this way please call us on 0844 5430441. Alternatively, you can write to us at us c/o The Data Protection Office, The Carphone Warehouse Limited at PO Box 375, Southampton, SO30 2PU. Please note that it may take up to 28 days for such changes to take effect.
+If you do not want us to use your data in this way please call us on 0871 220 3581. Alternatively, you can write to us at us c/o The Data Protection Office, The Carphone Warehouse Limited at PO Box 375, Southampton, SO30 2PU. Please note that it may take up to 28 days for such changes to take effect.
 
 **Disclosure of your information**
 
