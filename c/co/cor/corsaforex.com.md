@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the corsaforex.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920174056id_/http%3A//corsaforex.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corsaforex.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814042514id_/https%3A//corsaforex.com/privacy) for the most accurate reproduction.*
 
 # Corsa Capital
 
@@ -47,52 +47,158 @@ Tortola, British Virgin Islands
 
 FOREX quotes
 
-EURUSD 1.2947 -0.83%  
+EURUSD 1.3264 0.00%  
   
 ---  
   
-GBPUSD 1.6194 -0.23%  
+GBPUSD 1.5445 -0.01%  
   
-USDJPY 78.29 -0.13%  
+USDJPY 97.88 -0.24%  
   
-USDCHF 0.9343 0.87%  
+USDCHF 0.9327 -0.01%  
   
-USDCAD 0.9778 0.29%  
+USDCAD 1.0347 0.02%  
   
-EURJPY 101.37 -0.96%  
+EURJPY 129.82 -0.25%  
   
-EURCHF 1.2097 0.02%  
+EURCHF 1.2372 0.00%  
   
-GBPJPY 126.73 -0.35%  
+GBPJPY 151.14 -0.26%  
   
-GBPCHF 1.5128 0.63%  
+GBPCHF 1.4407 0.00%  
   
-GOLD 1766.00 -0.25%  
+GOLD 1322.25 0.11%  
   
-AUDJPY 81.50 -0.63%  
+SILVER 21.38 -0.12%  
   
-CADJPY 80.04 -0.41%  
+#GOOG 880.96 -0.48%  
   
-SILVER 34.59 -0.09%  
+#MRK 48.42 -0.06%  
   
-CADCHF 0.9550 0.59%  
+#EBAY 54.10 1.53%  
   
-AUDCHF 0.9730 0.32%  
+CHFJPY 104.85 -0.25%  
   
-NZDCHF 0.7726 0.56%  
+AUDCHF 0.8486 0.04%  
   
-EURAUD 1.2435 -0.32%  
+#MDLZ 32.08 0.69%  
   
-EURGBP 0.7994 -0.60%  
+#CAT 86.54 0.28%  
   
-AUDCAD 1.0182 -0.24%  
+#AMZN 293.97 -0.90%  
   
-AUDUSD 1.0416 -0.51%  
+#MSFT 32.22 -2.05%  
   
-NZDCAD 0.8086 -0.02%  
+#NG 3.295 -0.18%  
   
-CRSIDX 10448.6 -0.10%  
+#HPQ 27.29 2.05%  
   
-CHFJPY 83.72 -0.96%  
+AUDUSD 0.9101 0.05%  
   
-NZDJPY 64.75 -0.43%
+NZDJPY 78.09 -0.21%  
+  
+#KRFT 56.03 0.89%  
+  
+#IP 48.11 -0.23%  
+  
+#JNJ 93.02 1.12%  
+  
+#JPM 54.28 0.37%  
+  
+#S 6.98 -1.29%  
+  
+#VZ 49.14 -1.02%  
+  
+#C 51.76 1.72%  
+  
+#NOK 4.15 -0.48%  
+  
+#BAC 14.50 0.69%  
+  
+#MCD 96.44 -0.62%  
+  
+#MO 35.21 0.20%  
+  
+#FTE 9.46 0.00%  
+  
+#DD 59.71 -0.25%  
+  
+#WMT 76.84 -0.29%  
+  
+CRSIDX 9978.3 0.10%  
+  
+#DIS 63.96 0.06%  
+  
+#BK 30.74 0.03%  
+  
+#SNE 20.12 0.70%  
+  
+#XOM 89.42 -0.50%  
+  
+#DELL 13.71 0.00%  
+  
+#CL 106.36 -0.12%  
+  
+#AAPL 489.57 4.59%  
+  
+AUDJPY 89.06 -0.20%  
+  
+EURAUD 1.4577 -0.05%  
+  
+#HD 79.43 0.30%  
+  
+#AIG 48.28 1.14%  
+  
+NZDCAD 0.8257 0.07%  
+  
+#CSCO 26.31 -0.08%  
+  
+#KO 39.64 -0.45%  
+  
+#F 17.04 -0.12%  
+  
+#QQQ 77.07 0.53%  
+  
+AUDCAD 0.9416 0.08%  
+  
+#PG 81.64 0.04%  
+  
+CADJPY 94.55 -0.26%  
+  
+#SPY 169.61 0.30%  
+  
+#BA 106.21 1.87%  
+  
+#ADBE 47.12 -0.15%  
+  
+#AXP 76.21 0.91%  
+  
+CADCHF 0.9009 -0.03%  
+  
+#UTX 106.78 1.18%  
+  
+#GE 24.19 -0.25%  
+  
+#HON 83.69 0.32%  
+  
+#AMD 3.67 0.82%  
+  
+NZDCHF 0.7442 0.03%  
+  
+#INTC 22.50 -0.58%  
+  
+#PFE 29.26 0.31%  
+  
+#IBM 188.39 -0.35%  
+  
+EURGBP 0.8585 0.01%  
+  
+#MMM 118.67 0.26%  
+  
+#UL 40.51 0.81%  
+  
+#AA 8.13 -1.35%  
+  
+#T 34.71 -0.55%  
+  
+Powered by CorsaCapital
