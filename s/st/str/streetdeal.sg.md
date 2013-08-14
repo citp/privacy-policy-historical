@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streetdeal.sg privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611003333id_/http%3A//www.streetdeal.sg/home/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streetdeal.sg privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814201853id_/http%3A//www.streetdeal.sg/home/info/privacy) for the most accurate reproduction.*
 
 # Deals, Discounts Singapore | StreetDeal.sg
 
