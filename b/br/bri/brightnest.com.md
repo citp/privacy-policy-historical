@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the brightnest.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509215950id_/https%3A//brightnest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightnest.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814114757id_/https%3A//brightnest.com/privacy) for the most accurate reproduction.*
 
 # BrightNest | Privacy Policy
 
-BrightNest, Inc. (“BrightNest,” “we,” “our” or “us”) is committed to respecting the privacy and security of your personal information. The following U.S. online privacy policy (“Privacy Policy”) describes the information we collect and how we use it. By using this website, you consent to our Privacy Policy.
+SmartHabitat, Inc. d/b/a BrightNest (“BrightNest,” “we,” “our” or “us”) is committed to respecting the privacy and security of your personal information. The following U.S. online privacy policy (“Privacy Policy”) describes the information we collect and how we use it. By using this website, you consent to our Privacy Policy.
 
 We may periodically update this Privacy Policy to reflect material changes in how we collect, use, share or store your personal information. We encourage you to refer to this Privacy Policy on an ongoing basis so that you understand our current Privacy Policy. You consent to any changes we make to this Privacy Policy if you continue to use the BrightNest service after receiving a notice of the change or upon our posting of the new Privacy Policy on this website. 
 
@@ -117,7 +117,7 @@ If you request your registration information be deleted or if you unsubscribe fr
 
 We welcome your questions, comments, complaints or concerns about privacy. Please contact us by mail or email at: 
 
-**Company Name:** BrightNest, Inc.
+**Company Name:** SmartHabitat, Inc. d/b/a BrightNest
 
 **Contact Name:** Allen Shulman
 
