@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the assamcareer.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622035835id_/http%3A//www.assamcareer.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the assamcareer.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814174656id_/http%3A//www.assamcareer.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | AssamCareer.com :: Government Jobs In Assam and North East India
+
+###  Privacy Policy 
+
+  
+
 
 At [www.AssamCareer.com](http://www.assamcareer.com/), we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit [www.AssamCareer.com](http://www.assamcareer.com/), and how we safeguard your information. We never sell your personal information to third parties.
 
