@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cirrusinsight.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506114450id_/http%3A//www.cirrusinsight.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cirrusinsight.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814091450id_/http%3A//www.cirrusinsight.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Cirrus Insight
 
@@ -37,5 +37,3 @@ Cirruspath, LLC may periodically update this policy. We will notify you about si
 #### Questions
 
 Any questions about this Privacy Policy should be addressed to [customersupport@cirruspath.com](mailto:customersupport@cirruspath.com?subject=Privacy%20Policy).
-
-Last updated by at January 23, 2013.
