@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dunnesstores.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618041134id_/http%3A//www.dunnesstores.com/privacy-policy/content/fcp-content) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dunnesstores.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814083109id_/http%3A//www.dunnesstores.com/privacy-policy/content/fcp-content) for the most accurate reproduction.*
 
 # Privacy Policy | Dunnes Stores | Dunnes Stores
 
