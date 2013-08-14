@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thenaturalstore.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430190446id_/http%3A//www.drugstore.com/category.asp%3Fcatid%3D148674) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenaturalstore.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814043809id_/http%3A//www.drugstore.com/category.asp%3Fcatid%3D148674) for the most accurate reproduction.*
 
-# Buy drugstore online
+# Drugstore Products Online | drugstore.com
 
 | 
 
@@ -8,9 +8,11 @@
 
 **TRUSTe Licensee**
 
-**TRUSTe Licensee** [drugstore.com](http://www.drugstore.com/?atrx=dps-16&atrxp1=148677&atrxp2=0&atrxp3=http%3A%2F%2Fwww%2Edrugstore%2Ecom&atrxp4=148674), inc. wants you to feel secure when visiting [www.drugstore.com](http://www.drugstore.com/?atrx=dps-16&atrxp1=148677&atrxp2=1&atrxp3=http%3A%2F%2Fwww%2Edrugstore%2Ecom&atrxp4=148674) and is committed to maintaining your privacy when you do so. This privacy policy explains our policies and practices regarding the collection, use, storage, and disclosure of your personal information by drugstore.com, inc. ("drugstore.com", "we", "us"). 
+[ ](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.drugstore.com&sealid=101)
 
-We have been awarded TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. This statement discloses the privacy practices for [www.drugstore.com](http://www.drugstore.com/?atrx=dps-16&atrxp1=148677&atrxp2=3&atrxp3=http%3A%2F%2Fwww%2Edrugstore%2Ecom&atrxp4=148674). TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. 
+**TRUSTe Licensee** [drugstore.com](http://www.drugstore.com/?atrx=dps-16&atrxp1=148677&atrxp2=1&atrxp3=http%3A%2F%2Fwww%2Edrugstore%2Ecom&atrxp4=148674), inc. wants you to feel secure when visiting [www.drugstore.com](http://www.drugstore.com/?atrx=dps-16&atrxp1=148677&atrxp2=2&atrxp3=http%3A%2F%2Fwww%2Edrugstore%2Ecom&atrxp4=148674) and is committed to maintaining your privacy when you do so. This privacy policy explains our policies and practices regarding the collection, use, storage, and disclosure of your personal information by drugstore.com, inc. ("drugstore.com", "we", "us"). 
+
+We have been awarded TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. This statement discloses the privacy practices for [www.drugstore.com](http://www.drugstore.com/?atrx=dps-16&atrxp1=148677&atrxp2=4&atrxp3=http%3A%2F%2Fwww%2Edrugstore%2Ecom&atrxp4=148674). TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. 
 
 If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@drugstore.com](mailto:privacy@drugstore.com). If you are not satisfied with our response you can contact TRUSTe [here](http://www.truste.org/consumers/watchdog_complaint.php).
 
@@ -22,7 +24,7 @@ When you place an order, we will ask you to set up "your account," which include
 
 If you would like to review or revise the information we have in your account, you may access such information by clicking on the "your account" link below or on any screen of our site.
 
-[http://www.drugstore.com/user/modify_account.asp](http://www.drugstore.com/user/modify_account.asp?atrx=dps-16&atrxp1=148677&atrxp2=7&atrxp3=http%3A%2F%2Fwww%2Edrugstore%2Ecom%2Fuser%2Fmodify%5Faccount%2Easp&atrxp4=148674)
+[http://www.drugstore.com/user/modify_account.asp](http://www.drugstore.com/user/modify_account.asp?atrx=dps-16&atrxp1=148677&atrxp2=8&atrxp3=http%3A%2F%2Fwww%2Edrugstore%2Ecom%2Fuser%2Fmodify%5Faccount%2Easp&atrxp4=148674)
 
 **Gift Certificates**   
 If you wish to send a gift certificate to a friend, we will ask for your friend’s name and e-mail address. We will use this information to send your friend a one-time e-mail with the gift certificate attached. We store this information for the sole purpose of sending this e-mail and to track the success of our gift certificate exchange. Gift certificate recipients who wish to have their information removed from our database may contact us at [privacy@drugstore.com](mailto:privacy@drugstore.com).
