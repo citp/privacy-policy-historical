@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exness.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501051548id_/https%3A//www.exness.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exness.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814230425id_/https%3A//www.exness.com/privacy_policy) for the most accurate reproduction.*
 
 # EXNESS - Privacy policy
 
