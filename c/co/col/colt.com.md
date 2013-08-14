@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colt.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625071713id_/http%3A//www.colt.com/Home/tabid/41/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colt.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814162504id_/http%3A//www.colt.com/Home/tabid/41/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # Colt Firearms > Home
 
