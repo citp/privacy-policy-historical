@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the hometrainingtools.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429173942id_/https%3A//www.hometrainingtools.com/privacy-policy/a/7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hometrainingtools.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814130547id_/https%3A//www.hometrainingtools.com/privacy-policy/a/7) for the most accurate reproduction.*
 
 # Privacy Policy - Home Science Tools
 
 [](https://www.hometrainingtools.com/articles/a/7062/)
-
-  
-Call us 24/7 at **800-860-6272**   
-or [email us](mailto:service@homesciencetools.com)
 
 Popular Searches:  
 [egg incubators](https://www.hometrainingtools.com/quail-eggs-incubators/c/161/), [chemistry sets](https://www.hometrainingtools.com/chemistry-kits/c/11/), [compound microscopes](https://www.hometrainingtools.com/compound-microscopes/c/17/), [butterfly net](https://www.hometrainingtools.com/deluxe-insect-butterfly-net/p/BE-NETDLX2/), [apologia science](https://www.hometrainingtools.com/apologia-curriculum/c/37/), [wind turbine kit](https://www.hometrainingtools.com/wind-turbine-study-kit/p/KT-WINTURB/), [beakers](https://www.hometrainingtools.com/beakers-flasks/c/124/), [glo germ](https://www.hometrainingtools.com/glo-germ-kits/c/198/), [blood type test](https://www.hometrainingtools.com/blood-test-kit/p/BE-BLDTEST/), [microscope slides](https://www.hometrainingtools.com/microscope-slides/c/127/), [microscope camera](https://www.hometrainingtools.com/digital-microscopes-and-cameras/c/129/), [kids microscope](https://www.hometrainingtools.com/student-microscopes/c/168/), [rock tumblers](https://www.hometrainingtools.com/rock-tumblers/c/199/), [distillation equipment](https://www.hometrainingtools.com/lab-distillation-equipment/c/2056/)
