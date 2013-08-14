@@ -1,119 +1,97 @@
-> *The following text is extracted and transformed from the channelintelligence.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214180128id_/http%3A//channelintelligence.com/corporate/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the channelintelligence.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814212357id_/http%3A//www.ciboost.com/privacy) for the most accurate reproduction.*
 
-# Channel Intelligence | Privacy Policy
+# Privacy Policy - CIBoost
 
-Channel Intelligence, Inc. (“Channel Intelligence”) provides services and technology to companies (“Channel Intelligence Clients”) to enable web-initiated commerce solutions that make it easy for online shoppers to find and buy products whether they start at retailer sites, manufacturer sites, destination shopping sites, or mobile shopping applications. Channel Intelligence accepts and processes data from many sources, including information from retailers, manufacturers and other market sources. Channel intelligence may collect your information because of your use of our web site or, if you have linked here from another web site, as a service to the entity that controls such other web site, or as a service to a Channel Intelligence Client whose web site you use. This Channel Intelligence Privacy Policy will apply to the collection of your personal information. 
+**Marketing Products & Services**
 
-If you visit or use a service of Channel Intelligence Inc. you accept these Privacy Policy provisions. Please read them carefully.
+_Last modified and effective as of May 18, 2011._
 
-**PRIVACY**  
+Channel Intelligence, Inc. (“CI” or “We”) provides services and technology to companies (“CI Clients”) that make it easier for online shoppers to find and buy products. CI performs most of its services behind the scenes on the websites of CI Clients and on other websites that direct web traffic to or receive web traffic from CI Clients. In the course of performing its services, CI may collect user information, on an anonymous basis, when a user views or interacts with a CI Client webpage or the product offerings or advertisements of a CI Client presented through a third party’s webpage (collectively, “CI Collection Points”). This Privacy Policy will apply to the collection and treatment of user information in connection with CI’s Marketing Products & Services .
 
+### COLLECTION OF INFORMATION
 
-Use of the Channel Intelligence web site and services, whether through our web site or a Channel Intelligence Client site, may require personal user information to be stored on our servers. If you submit your e-mail address or send an e-mail when using our services, we will collect your e-mail address. Channel Intelligence may provide your e-mail address to the Channel Intelligence Client who uses the Channel Intelligence service, but Channel Intelligence does not resell any information that is collected to outside parties. Channel Intelligence Clients, manufacturers, and retailers each have their own privacy policies. We encourage you to read these policies before doing business with a site. Channel Intelligence makes every effort to ensure the security of your information while the information is stored with Channel Intelligence. We believe that all of our partner companies are just as concerned with security of information, however, it is your responsibility to ascertain the security and privacy policies of each company since Channel Intelligence cannot speak for those companies on privacy and security issues. If you would like to know more or have a question, please e-mail _privacy@channelintelligence.com_. Channel Intelligence reserves the right to alter our Privacy Policy as necessary and/or required. Any alterations to this Privacy Policy will be posted on our Web site in a timely manner.
+**What types of user information does CI collect?**
 
-**What information does Channel Intelligence collect?**  
+CI receives and stores certain types of information whenever you interact with us through a CI Collection Point. The information collected by CI though a CI Collection Point in the course of providing services to CI Clients is Non-Personally Identifiable Information (“Non-PII”). Non-PII is information that cannot by itself be used to identify a particular person or entity, and may include a user’s IP host address, pages viewed, browser type, Internet browsing and usage habits, Internet Service Provider, domain name, the time/date of site visit, the referring URL and computer operating system. In other words, the user remains anonymous throughout CI’s collection, use and storage of the user’s information.
 
+**What types of user information is not collected by CI?**
 
-Channel Intelligence wants to make it easy for consumers to shop online and to find the products they are looking for. This requires the collection of information to tell you if products are available in your local area. 
+CI does not collect Personally Identifiable Information (“PII”) through any CI Collection Point or other means. PII is any information that can be used to identify or locate a particular person or entity, such as name, address, telephone number, mobile number, or email address. CI Collection Points may operate in the context of websites, and CI’s services may direct users to third party websites, that do collect PII, though CI does not collect PII.
 
-Channel Intelligence collects two kinds of information: anonymous and personally identifiable. Anonymous information is not associated with specific individuals. For instance, Channel Intelligence may know how many unique browsers view this Privacy Policy today, but we don't know the names or addresses of the individuals at that browser. Personally identifiable information reveals who you are and/or how you can be contacted. It includes your zip code and email address. Personally identifiable information is stored temporarily by Channel Intelligence as it is transferred from a shopping engine to the seller. 
+**Why does CI collect user information?**
 
-The information we learn from customers helps us personalize and continually improve your experience with Channel Intelligence. Here are the types of information we gather. 
+CI wants to make it easy for consumers to shop online for the products they are looking for. This requires the collection of information to help us identify and present purchasing opportunities for products that might be of interest to you.
 
-  * Information You Provide: We may receive and store information you provide while using our services, including services we provide to Channel Intelligence Clients, or in any other way. We use the information that you provide for such purposes as responding to your requests, improving our contacts, and communicating with you. 
+**How does CI collect user information?**
 
+CI collects anonymous information from visitors to the websites on which it operates CI Collection Points in the following ways:
 
-  * Automatic Information: We receive and store certain types of information whenever you interact with us. For example, like many web sites, we use “cookies,” and we obtain certain types of information when your web browser accesses Channel Intelligence. 
+  * **Information You Provide Directly**  We collect the information, if any, you knowingly and voluntarily provide (excluding PII) when you use a website on which a CI Collection Point is in operation.
+  * **Information You Provide Through Your Browser**  We collect information that is made visible to one of the CI Collection Points automatically by your web browser. The information provided by your web browser does not identify you personally. This information typically includes your IP address, the address of the web page you were visiting when you interacted with a CI Collection Point, the name of your computer operating system, the name and version of your Internet browser, and the date and time of your visit. The information may also include information concerning your interaction with the website. The information we receive depends on the settings on your web browser. Please check your browser if you want to learn what information your browser sends or how to change your settings.
+  * **Information Collected Through Cookies**  We use “cookies,” and similar technologies, such as web beacons (also referred to as “tracking pixels,” or “action tags”), to collect user information and support the functionality of our services and the CI Collection Points. For more information about our use of cookies and web beacons, see below.
 
 
-  * E-mail Communications: We may receive your e-mail address if you provide one to us or a Channel Intelligence Client when using our services. 
 
+**What are “cookies” and “web beacons” and how does CI use them to collect user information?**
 
-  * Information from Other Sources: We also might receive information about you from other sources and add it to our information, however, Channel Intelligence does not resell this information. 
+CI collects anonymous information through “cookies.” A cookie is a small piece of data containing a unique identification number that is sent to your browser from a web server and is stored on your computer’s hard drive. The unique ID number identifies your browser to CI’s computers whenever you interact with a CI Collection Point. Cookies do not enable anyone to access personally identifiable information that you have not already given them. CI primarily uses cookies to identify selling opportunities. A selling opportunity represents a unique user, product or service, and date combination. The selling opportunity information helps CI Clients better present selling opportunities to prospective customers.
 
+If you choose to not accept cookies, you will not be able to make use of the services we provide.
 
-  * A Unique Machine ID: We may receive information that ties the machine that the user is on to ANY activity that is done on that machine that uses a CI service.
+In operating the CI Collection Points, we sometimes employ a software technology called clear gifs (a.k.a. web beacons). Clear gifs are tiny graphics with a unique identifier, similar in function to cookies. These clear gifs are invisible on the page and about the size of the period at the end of this sentence.
 
+### USE OF INFORMATION
 
+**How does CI use user information?**
 
-**What are cookies, and how does Channel Intelligence use them?**  
+We use the anonymous information collected through the CI Collection Points to improve the experience of visitors to CI Clients’ websites, to identify and present purchase opportunities, offers and coupons tailored to individual users and for security and fraud prevention purposes. In addition, we may review server logs from time to time for security purposes, such as detecting intrusions into our network. If we suspect criminal activity, we might share our server logs — which contain visitors’ IP addresses — with the appropriate investigative authorities who might be able to use that information to trace and identify individuals.
 
+**Who has access to the user information that CI collects?**
 
-Channel Intelligence collects anonymous information through “cookies.” A cookie is a small piece of data containing a unique identification number that is sent to your browser from a web server, and is stored on your computer's hard drive. The unique ID number identifies your browser to Channel Intelligence's computers whenever you use a Channel Intelligence service. Cookies do not enable anyone to access personally identifiable information that you have not already given them. Channel Intelligence primarily uses cookies to identify selling opportunities. A selling opportunity represents a unique customer, product, and date combination. When a customer opens a Channel Buy Link page, we expect him to click through to several of the listed retailers. However, we also recognize that the customer typically isn't going to buy from each of these retailers. The selling opportunity information helps manufacturers who purchase Channel Intelligence's services to better understand how their products are selling.
+When you submit information to CI, it is generally collected, processed and maintained solely by CI. Sometimes, CI will provide anonymous information about a website visitor to the owner of the website or to the CI Client for whom CI deployed a CI Collection Point on such website with the permission of the owner of the website. CI shares user information only as described below. CI does not resell the collected information.
 
-Cookies are part of the technology implemented by your browser. Most browsers are initially set up to accept cookies. You can reset your browser to either notify you when you have received a cookie, or to refuse them all together. To find out more about cookies, visit the Microsoft or Netscape websites. 
+  * **CI Clients and Website Owners**  We perform services for the benefit of CI Clients and share user information collected in the course of performing such services with CI Clients and with the owners of the websites visited by the user, if a CI Collection Point is in operation.
+  * **Third-Party Service Providers**  We and CI Clients employ other companies and individuals to perform functions on our and their behalf. Examples include analyzing data and providing marketing assistance. Such third party service providers have limited access to user information needed to perform their functions, but may not use it for other purposes.
+  * **Business Transfers**  As we continue to develop our business, we might sell or buy certain products or business units. In such transactions, user information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Policy.
+  * **Protection of CI and Others**  We release user information when we believe release is appropriate to comply with the law; enforce or apply our Terms of Service and other agreements; or protect the rights, property, or safety of CI, CI Clients, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. However, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from users for commercial purposes in violation of the commitments set forth in this Privacy Policy.
+  * **With Your Consent**  Other than as set out in this Privacy Policy, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information
 
-Channel Intelligence uses both static and temporary cookies. Static cookies stay with your browser, whereas temporary cookies go away after you close your browser. Channel Intelligence uses static cookies in order to recognize you between visits. Channel Intelligence uses temporary cookies to store information about your current visit to the site. That information goes away when you close your browser or shut down your computer. If you choose to not accept cookies, you cannot participate as a registered, signed-in member. 
 
-The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the Website of its manufacturer. However, cookies allow you to take full advantage of some of Channel Intelligence's most important features, and we recommend that you leave them turned on. 
 
-We sometimes employ a software technology called clear gifs (a.k.a. Web Beacons) that help us track sales through to the purchase. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies. The main difference between the two is that clear gifs are invisible on the page and are much smaller, about the size of the period at the end of this sentence. This allows us to gauge the effectiveness of our services. The clear gifs are not used in conjunction with other information that is stored by Channel Intelligence.
+**Is the user information collected by CI maintained securely?**
 
-**What information does Channel Intelligence log?**
+CI stores the information it collects from users securely. To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, CI uses physical, electronic, and managerial procedures to safeguard and secure the information it collects. However, you should consider any communication that you transmit over the Internet as non-confidential, and you agree that CI will not be liable or responsible if information that belongs to you is intercepted and used by an unintended recipient.
 
-When you surf the Internet, your browser automatically transmits information to the web sites you visit, including Channel Intelligence. Such information includes referral data (URL of the web page you were on before coming to Channel Intelligence), IP address and your browser version. Channel Intelligence collects this information to help improve services. All the information that is automatically submitted by your browser is considered anonymous. 
+**How long does CI keep user information?**
 
-**What is Channel Intelligence's information retention policy?**  
+CI keeps behavioral advertising information for 2 years and to preserve the  
+integrity of its databases, CI retains the anonymized information it  
+collects for 10 years.
 
+**How is user information protected at third party websites and services to which users are directed by CI services?**
 
-To preserve the integrity of our databases, standard procedure calls for us to retain information for an indefinite length of time. We nullify personally identifiable information upon (1) written customer requests, and (2) in order to be in compliance with applicable laws. If you wish to make such a request, which requires that we verify your identity, or if you have any questions regarding this policy, contact Channel Intelligence's policy manager at _privacy@channelintelligence.com_. 
+CI services operate from within and links to third party websites and services, including those operated by CI Clients. We do not have access to or control over cookies or other features that they may use, and the information practices of those services and third-party websites are not covered by this Privacy Policy. Please contact them directly for more information about their privacy practices.
 
-**With whom does Channel Intelligence share information?**  
+### POLICY CHOICES AND CHANGES
 
+**How can I opt out of the use of my information for behavioral advertising?**
 
-When you submit information to Channel Intelligence, it is generally collected, processed and maintained solely by us. Sometimes we may allow partner companies to collect information about customers from us or directly from you via their web site. When Channel Intelligence is the source, it is usually so that we can provide a service for a partner. We work with upstanding companies that will treat your information responsibly. But, since we don't own these companies, we can't speak for them on privacy issues. Channel Intelligence shares customer information only as described below and with partners who follow practices at least as protective as those described in this Privacy Policy. Channel Intelligence does not resell the collected information.
+The Networking Advertising Initiative (NAI) offers useful information about Internet advertising companies, including information about how to opt out of their information collection. You may opt out of receiving behavioral targeted advertisements controlled by CI by clicking [here](http://www.networkadvertising.org/managing/opt_out.asp). Opting out does not prohibit CI or its advertisers from serving advertisement to you, but it does eliminate our ability to display relevant ads, offers and coupons based on your personal interests. If you delete or restrict cookies, you will need to re-register your opt out preferences.
 
-  * Affiliated Businesses We Do Not Control: We work closely with Channel Intelligence Clients and affiliated businesses that we do not control. You can tell when a third party is involved in your transactions, and we share customer information related to those transactions with that third party. 
+**Will this policy change?**
 
+Our business changes constantly, and our Privacy Policy will change also. You should check our Website frequently to see recent changes. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you. We will never materially change our policies and practices to make them less protective of user information collected in the past without the consent of affected users.
 
-  * Third-Party Service Providers: We may employ other companies and individuals to perform functions on our behalf. Examples include analyzing data and providing marketing assistance. Such third party service providers have access to personal information needed to perform their functions, but may not use it for other purposes. 
+**What should I do if I have concerns about CI’s privacy practices?**
 
+If you have any concern about privacy at CI, please contact us at[privacy@channelintelligence.com](mailto:privacy@channelintelligence.com) with a thorough description, and we will try to resolve it.
 
-  * Business Transfers: As we continue to develop our business, we might sell or buy certain products or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Policy. Also, in the event that Channel Intelligence or substantially all of its assets are acquired, customer information will be one of the transferred assets. 
+### EU/US Safe Harbor
 
+The company complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. The company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the company’s certification, please visit <http://www.export.gov/safeharbor/>
 
-  * Protection of Channel Intelligence and Others: We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our Terms of Service and other agreements; or protect the rights, property, or safety of Channel Intelligence, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Policy. 
+Channel Intelligence, Inc. participates in the EU Safe Harbor Privacy Framework as set forth by the United States Department of Commerce. As part of our participation in safe harbor, we have agreed to the [TRUSTe Dispute Resolution Requirements](http://www.truste.com/why_TRUSTe_privacy_services/online-privacy-watchdog.html) for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have complaints regarding our compliance with the Safe Harbor you should first contact us at Privacy@channelintelligence.com. If contacting us does not resolve your complaint, you may raise your complaint by contacting TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint), by fax at 415-520-3420, or mail at Watchdog Complaints, TRUSTe, 55 2nd Street, 2nd Floor, San Francisco, CA, USA 94105. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaints shared with the company. For information about TRUSTe or the operation of TRUSTe’s dispute resolution process, please [visit TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.
 
+For human resources data we have agreed to cooperate with Data Protection Authorities. Any questions, comments or complaints about the data practices (including without limitation compliance with data privacy principles of notice, choice, onward transfer, access, security, data integrity, or enforcement) of a CI customer or partner for whom CI processes data should be addressed to that customer or partner.
 
-  * With Your Consent: Other than as set out in this Privacy Policy, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information. 
-
-
-
-**Security**
-
-Channel Intelligence stores your personal information securely. To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, Channel Intelligence uses physical, electronic, and managerial procedures to safeguard and secure the information it collects. However, you should consider any communication that you transmit over the internet as non-confidential, and you agree that Channel Intelligence will not be liable or responsible if information that belongs to you is intercepted and used by an unintended recipient. 
-
-**Links to Third Party Web Sites and Services**
-
-Channel Intelligence sites and services link to third party web sites and services. We do not provide any personally identifiable information to these advertisers or third-party websites other than as provided in this Privacy Policy. The linked web sites and services are not under the control of Channel Intelligence and Channel Intelligence is not responsible for the contents, services, or availability of any linked web site or service or any further link contained in a linked third party web site or service. Channel Intelligence provides these links as a convenience, and the inclusion of any link does not imply that Channel Intelligence is specifically authorized to provide such link, nor is it an endorsement by Channel Intelligence of any third party, their web site, service or their products or services. 
-
-These third party websites and advertisers, or Internet advertising companies working on their behalf, sometimes use technology to send (or “serve”) the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize advertising content. We do not have access to or control over cookies or other features that they may use, and the information practices of these advertisers and third-party websites are not covered by this Privacy Policy. Please contact them directly for more information about their privacy practices. In addition, the Networking Advertising Initiative offers useful information about Internet advertising companies (also called "ad networks" or "network advertisers"), including information about how to opt-out of their information collection. 
-
-**What Choices Do You Have?**
-
-  * The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the Website of its manufacturer. However, cookies allow you to take full advantage of some of Channel Intelligence's useful features, and we recommend that you leave them turned on. 
-  * There are products that offer anonymous browsing. In addition, the Federal Trade Commission provides useful information about online privacy on its own Web site. 
-  * You can always choose not to take advantage of certain Channel Intelligence services. 
-
-
-
-**Opt-Out**
-
-At any time, you may Opt-Out of receiving behavioral targeted display advertisements from advertisers using marketing services from Channel Intelligence. Opting-Out does not prohibit Channel Intelligence or its advertisers from serving display advertisements to you, but it does eliminate our ability to display relevant ads based on your personal interests. If you delete or restrict cookies, you may need to re-register your Opt-Out preferences.
-
-Click here to Opt-Out of receiving behavioral targeted display advertisements served by Channel Intelligence.
-
-**Conditions of Use, Notices, and Revisions**
-
-If you use Channel Intelligence services, your use and any dispute over privacy is subject to this Privacy Policy and our Terms of Service, including limitations on damages, arbitration of disputes, and application of the law of the state of Florida. If you have any concern about privacy at Channel Intelligence, please contact us with a thorough description, and we will try to resolve it. 
-
-Our business changes constantly, and our Privacy Policy and the Terms of Service will change also. You should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you. We will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers. 
-
-**Trademarks/Patents***
-
-Channel Intelligence, CDI, SellPath, SellCast, SellCore, Product Links, Product Pinpointer, Product Links Coverage Reports, Product Pinpointer Coverage Reports, Store Locator, VAR Pinpointer, MyList, Dealer Links, Bundle Links, Associate Links, TrueTag, Channel Reports, Channel BuyLinks, BrandPath, You Know Best, CommerceIQ, AttributeIQ, CateoryIQ, KeywordIQ, FeedIQ, ImageIQ, ItemNameIQ, TaxonomyIQ, UnificationIQ, UPCIQ and ModelIQ are trademarks and service marks of Channel Intelligence. All other company, product, and brand names or logos are trademarks or service marks of their respective owners. Any rights not expressly granted herein are reserved by Channel Intelligence.
-
-**COPYRIGHT NOTICE**  
-Copyright © 1999-2008 Channel Intelligence, Inc.
-
-*Channel Intelligence is the owner of U.S. Patent No. 6,917,941 entitled, “Method and Apparatus for Creation and Maintenance of Database Structure.”
+Are you using the dispute resolution for HR data? If you are please keep this section of the disclosure.
