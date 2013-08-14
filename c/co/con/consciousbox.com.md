@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consciousbox.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609144948id_/http%3A//www.consciousbox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consciousbox.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814115346id_/http%3A//www.consciousbox.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Conscious Box
 
@@ -54,7 +54,7 @@ Glob Natural Paint Set (set of 4)
 
 ](https://web.archive.org/glob-it-on-natural-non-toxic-paint-kit)
     * [Rate Products, Earn Points](http://www.consciousbox.com/rate/)
-  *   *   *   * 
+  *   *   *   *   * 
 
 
 ### What information do we collect?
