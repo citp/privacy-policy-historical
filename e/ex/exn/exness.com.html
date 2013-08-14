@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the exness.com privacy policy that was archived on 2013-05-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130501051548id_/https%3A//www.exness.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the exness.com privacy policy that was archived on 2013-08-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130814230425id_/https%3A//www.exness.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" id="exness" xmlns:fb="http://ogp.me/ns/fb#"><head>
 	<title>EXNESS - Privacy policy</title>
@@ -10,8 +10,8 @@
 	<meta name="webmoney.attestation.label" content="webmoney attestation label#4B578A7F-5B89-496D-B84C-35FB6A68BEBD"> 
 	<meta name="verify-v1" content="pa8bP+fZoxpOXddHpxTsgUZrUx0RlHyY7uMSyKTms/w=">
 	<meta name="yandex-verification" content="517b7e578d1cc2a1">
+	
 	<meta name="google-site-verification" content="HlktxS8y8rNfeI_aGJy0NcAG3kwRBWJwYnW4nAnWfPw">
-
 	
 	<meta property="og:title" content="EXNESS - Privacy policy">
 	<meta property="og:type" content="website">
@@ -23,15 +23,14 @@
 
 	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 	<link rel="icon" href="/favicon.ico" type="image/x-icon">
-	<link rel="stylesheet" type="text/css" href="/style.css?v=1">
+	<link rel="stylesheet" type="text/css" href="/style.css?v=1.1">
 	<link rel="stylesheet" type="text/css" href="/selectbox.css">
 	<link rel="stylesheet" type="text/css" href="/jquery/datepicker/datePicker.css">
 	<link rel="stylesheet" href="/jquery/treeview/jquery.treeview.css">
 	<link href="/servicedesk/style.css?v=1.1" type="text/css" rel="stylesheet">
 	<link rel="stylesheet" type="text/css" href="/jquery.lightbox-0.5.css">
-	
-	
-
+	<link rel="stylesheet" type="text/css" href="/styles/style_lang_conv.css?v=1.0">
+	<link rel="stylesheet" href="/styles/jquery-ui-1.10.3.css">
 	<!--[if IE]>
           <script type="text/javascript">
              
@@ -50,7 +49,7 @@
        <![endif]-->
 
 
-	<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="/jquery/jquery-1.4.2.min.js"></script>
+	<script type="text/javascript" async="" src="https://autocontext.begun.ru/analytics.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/jquery/jquery-1.4.2.min.js"></script>
 	<script type="text/javascript" src="/jquery/jtip.js"></script>
 	<script type="text/javascript" src="/jquery/selectbox/jquery.selectbox-0.6-beta1.js"></script>
 	<script type="text/javascript" src="/jquery/datepicker/jquery.datePicker.js"></script>
@@ -64,11 +63,9 @@
 	<script type="text/javascript" src="/jquery/jquery.cookie.js"></script>
 	<script type="text/javascript" src="/jquery/jquery.lightbox-0.5.pack.js"></script>
 	<script type="text/javascript" src="/jquery/jquery.easing.js"></script>
-	
-	
-
+	<script type="text/javascript" src="/jquery/jquery-ui-1.8.7.js"></script>
+	<script type="text/javascript" src="/script/popup.js"></script>
 	<script type="text/javascript">
-	
 	var canRedirect = true;
 	var canExpandMenu = false;
 	var tid;
@@ -101,14 +98,19 @@
 			if ( $("div", $(this).parent()).size() > 0 ) { event.preventDefault(); }
 		});
 
-		$(".menuContainer > ul > li").not(".mt").hover(
+
+
+   $(".menuContainer > ul > li").not(".mt").hover(
 			function(){
 				clearTimeout(tid);
 				canExpandMenu = true;
 				handle = this;
+				$(this).attr('aria-haspopup', 'true');
+				$(this).children(".subMenuContainer").attr('aria-haspopup', 'true');
 				tid = setTimeout(function(){
 						$(handle).addClass("hover");
 						$("a:first", handle).addClass("hover_link");
+
 				}, 130);
 
 			},
@@ -117,9 +119,13 @@
 				$("a:first", this).removeClass("hover_link");
 				canExpandMenu = false;
 				clearTimeout(tid);
-				
+				$(this)(".subMenuContainer").attr('aria-haspopup', 'false');
+				$(this).children(".subMenuContainer").attr('aria-haspopup', 'false');
 			}
 		);
+
+
+		
 		
 		$("#loginLink").click(function(event){
 			$(".loginLayer").toggleClass("loginLayerShow");
@@ -132,6 +138,7 @@
 		});
 		
 		$('a.lightbox').lightBox({imageLoading:'/images/lightbox-ico-loading.gif',imageBtnPrev:'/images/lightbox-btn-prev.gif',imageBtnNext:'/images/lightbox-btn-next.gif',imageBtnClose:'/images/lightbox-btn-close.gif',imageBlank:'/images/lightbox-blank.gif'});
+	
 	});
 	
 	function languageChange() {
@@ -200,22 +207,21 @@
 
          <script src="/servicedesk/script.js?v=1.1" type="text/javascript"></script>
 
-
 	<script type="text/javascript">
 
-	    var _gaq = _gaq || [];
-	    _gaq.push(['_setAccount', 'UA-8651572-1']);
-	    _gaq.push(['_setCustomVar',1,'Agent','35428',2]);
-            _gaq.push(['_trackPageview']);
-      
-            (function() {
-		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-	        ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	    })();
-		      
-	</script>
-	
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-8651572-1']);
+  _gaq.push(['_setCustomVar',1,'Agent','110593',2]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
 <script type="text/javascript" src="//vk.com/js/api/openapi.js?75"></script>
 
 <script type="text/javascript">
@@ -234,14 +240,34 @@ offer_id: w.begun_offer_id
 });
 a = document.createElement('script'); a.type = 'text/javascript'; a.async = true;
 a.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'autocontext.begun.ru/analytics.js';
-s = document.getElementsByTagName('script')[0]; s[removed].insertBefore(a, s);
+s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(a, s);
 })(window, 'begun_analytics_params');
 </script>
+<script type="text/javascript" src="/jquery/style_lang_conv.js?v=1" charset="utf-8"></script>
 
-</head>
+
+<script type="text/javascript" async="" defer="" src="https://my.nanorep.com/widget/scripts/float.js"></script></head>
 
 
 <body id="top">
+
+
+<!-- nanoRep -->
+<!-- nanoRep -->
+
+<div class="nanorep_loadingData" id="nanoRepProxyContainer" style="position:absolute;top:-500px;left:0px;"><span>Loading nanoRep <a href="http://www.nanorep.com/Why-nanoRep" style="color:#000;">Website Conversion Solution</a></span></div>
+<script type="text/javascript">var _nRepData = _nRepData || []; _nRepData['kb'] = '10895619'; _nRepData['float'] = {account: 'exness', cdcVersion: 3, cdcFrame: 'https://www.exness.com/cdc.html', scriptVersion: '2.4.2.4'}
+/* API here */
+_nRepData["context"] = {"Geographic_location" : "other", "Geographic_location" : "CENT" };
+(function(){var windowLoadFunc = function(){var _nRepData = window._nRepData || [];_nRepData['windowLoaded'] = true;if (typeof(_nRepData['windowOnload']) === 'function') _nRepData['windowOnload']();};if (window.attachEvent)window.attachEvent('onload', windowLoadFunc);else if (window.addEventListener)window.addEventListener('load', windowLoadFunc, false);var sc = document.createElement('script');sc.type = 'text/javascript';sc.async = true;sc.defer = true;sc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'my.nanorep.com/widget/scripts/float.js';var _head = document.getElementsByTagName('head')[0];_head.appendChild(sc);})();
+</script>
+
+
+
+<!-- nanorep END -->
+<!-- nanorep END -->
+
+
 
 
 
@@ -376,7 +402,7 @@ s = document.getElementsByTagName('script')[0]; s[removed].insertBefore(a, s);
 			});
 			
 			function closeUsaAlert(){
-				$.cookie('close_usa_alert', '1');
+				$.cookie('close_usa_alert', '1',{expires:1});
 				$('#usa_alert_overlay').remove();
 				$('#usa_alert').remove();			
 			}
@@ -395,6 +421,95 @@ s = document.getElementsByTagName('script')[0]; s[removed].insertBefore(a, s);
 </script>
 
 
+<script>
+	function setCookie(name, value, expires, path, domain, secure) {
+      var curCookie = name + "=" + escape(value) +
+              ((expires) ? "; expires=" + (new Date(expires)) : "") +
+              ((path) ? "; path=" + path : "") +
+              ((domain) ? "; domain=" + domain : "") +
+              ((secure) ? "; secure" : "");
+     // if (!caution || (name + "=" + escape(value)).length <= 4000)
+              document.cookie = curCookie;
+     /* else
+              if (confirm("Cookie превышает 4KB и будет вырезан !"))
+                      document.cookie = curCookie;*/
+	}
+	
+	function getCookie(name) {
+        var prefix = name + "=";
+        var cookieStartIndex = document.cookie.indexOf(prefix);
+        if (cookieStartIndex == -1)
+                return null;
+        var cookieEndIndex = document.cookie.indexOf(";", cookieStartIndex + prefix.length);
+        if (cookieEndIndex == -1)
+                cookieEndIndex = document.cookie.length;
+        return unescape(document.cookie.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie(name, path, domain) {
+        if (getCookie(name)) {
+                document.cookie = name + "=" + 
+                ((path) ? "; path=" + path : "") +
+                ((domain) ? "; domain=" + domain : "") +
+                "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+        }
+     }
+</script>
+
+<style>
+.ui-widget-overlay{opacity: 0.8; filter: Alpha(Opacity=80);}
+</style>
+
+
+  
+		
+<style>
+	.ui-dialog .popup_main.ui-dialog-content {padding: 25px;}
+	.ui-widget-content{border: none;}
+	.ui-dialog-titlebar {display: none;}
+	.popup_main h1{font-size: 32px; font-weight: bold; margin-top: 0; color: #000; margin-bottom: 15px; text-transform: uppercase;}
+	.popup_main p{font-size: 18px; color: black;}
+	.popup_main .ui-dialog .ui-dialog-titlebar-close{position: static;}
+	.popup_main .ui-button-icon-only .ui-button-text, .popup_main .ui-button-icons-only .ui-button-text{text-indent: 0;}
+	.popup_main .ui-state-default, .popup_main .ui-widget-content .ui-state-default, .popup_main .ui-widget-header .ui-state-default{background: none; width: auto; height: auto;;}
+	.popup_main .close-button{cursor: pointer; width: auto; height: auto; color: #000; background: #f7c518; text-transform: uppercase; font-weight: normal; font-size: 10px;
+padding: 15px 40px; margin: 0 15px 0 0;  border-radius: 5px; -webkit-border-radius:5px; -moz-border-radius: 5px; }
+	.popup_main .buttons a{padding: 12px 10px; border: 1px dashed #999; border-radius: 5px; -webkit-border-radius:5px; -moz-border-radius: 5px; color: #0363eb;}
+	.popup_main .buttons{margin: 35px 0 20px 0;}
+	body.ar .popup_main .close-button{margin: 0 0 0 15px;}
+</style>
+
+	
+	<script>
+	var exLocal = getCookie('exness_location');	
+	if(exLocal == null) {
+  	$(document).ready(function() {
+	  	$('#popup_europa_nz').dialog({
+				autoOpen: true,
+				position: 'center', 
+				modal: true,
+				width: 560,
+				dialogClass: "no-close"
+			});}
+		);
+	}
+	</script>	
+	<div id="popup_europa_nz" class="popup_main" style="display: none;">
+	<h1>Thank you for choosing EXNESS.</h1> 
+	<p>If you would like to continue working with EXNESS NZ 
+	(<a href="http://exness.com" target="_blank">exness.com</a>), close this window. 
+	If you would like to work with EXNESS CY, a broker with a European license, please go to 
+	<a href="http://exness.eu" target="_blank">exness.eu</a>.</p>
+	<div class="buttons">
+		<span class="close-button" onclick="$('#popup_europa_nz').dialog('close'); setCookie('exness_location', '1', (new Date).getTime() + (90 * 24 * 60 * 60 * 1000), '/');">Close the window</span>
+		<a href="http://exness.eu">Go to the website www.exness.eu</a>
+	</div>
+</div>
+  <!-- popup window for Europa enter in NZ -->
+  
+
+
+
 
 
 
@@ -406,80 +521,191 @@ s = document.getElementsByTagName('script')[0]; s[removed].insertBefore(a, s);
 
  	<div class="selectLanguage">
 
- 	  <form name="LanguageForm" action="/i18n/setlang/" method="post">
-	  <input id="myselectbox_input" type="text" class="selectbox" autocomplete="off" readonly="" tabindex="2"><div id="myselectbox_container" class="selectbox-wrapper" style="display: none; width: 112px;"><ul><li id="myselectbox_input_en" class="selected">English</li><li id="myselectbox_input_ru">Русский</li><li id="myselectbox_input_zh">简体中文</li><li id="myselectbox_input_id">Bahasa Indonesia</li><li id="myselectbox_input_ms">Bahasa Malaysia</li><li id="myselectbox_input_es">Español</li><li id="myselectbox_input_th">ไทย</li><li id="myselectbox_input_hi">हिंदी</li><li id="myselectbox_input_ar">العربيّة</li><li id="myselectbox_input_de">Deutsch</li><li id="myselectbox_input_fa">فارسی</li><li id="myselectbox_input_fr">Français</li><li id="myselectbox_input_it">Italiano</li><li id="myselectbox_input_vi">Tiếng Việt</li><li id="myselectbox_input_pt">Português</li><li id="myselectbox_input_pt-br">Português brasileiro</li><li id="myselectbox_input_ko">한국어</li></ul></div><select id="myselectbox" name="language" tabindex="2" onchange="languageChange();" style="display: none;">
-	      
-	      
-		    <option value="en" selected="">English</option>
-	      
-	      
-	      
-		    <option value="ru">Русский</option>
-	      
-	      
-	      
-		    <option value="zh">简体中文</option>
-	      
-	      
-	      
-		    <option value="id">Bahasa Indonesia</option>
-	      
-	      
-	      
-		    <option value="ms">Bahasa Malaysia</option>
-	      
-	      
-	      
-		    <option value="es">Español</option>
-	      
-	      
-	      
-		    <option value="th">ไทย</option>
-	      
-	      
-	      
-		    <option value="hi">हिंदी</option>
-	      
-	      
-	      
-		    <option value="ar">العربيّة</option>
-	      
-	      
-	      
-		    <option value="de">Deutsch</option>
-	      
-	      
-	      
-		    <option value="fa">فارسی</option>
-	      
-	      
-	      
-		    <option value="fr">Français</option>
-	      
-	      
-	      
-		    <option value="it">Italiano</option>
-	      
-	      
-	      
-		    <option value="vi">Tiếng Việt</option>
-	      
-	      
-	      
-		    <option value="pt">Português</option>
-	      
-	      
-	      
-		    <option value="pt-br">Português brasileiro</option>
-	      
-	      
-	      
-		    <option value="ko">한국어</option>
-	      
-	      
-	  </select>
-	  
-	  </form>
+
+	<div data-parent="1" class="b-langs">
+		<form method="post" action="/i18n/setlang/" name="LanguageForm">
+		 <!-- <input value="en" id="myselectbox" name="language" tabindex="2" onchange="languageChange();"> -->
+	   <div style="display:none;">
+	   
+	   <input type="hidden" tabindex="2" id="myselectbox_new" name="language" autocomplete="off" value="en">
+	   
+	   
+	   </div>
+	   
+	   
+	   <input type="text" tabindex="2" readonly="" autocomplete="off" class="b-langs__select-lang" value="English" data-popup="1">
+	
+		<div class="b-popup b-popup_lang" style="display: none;">
+			<div class="b-conv__top">
+				<div class="b-conv-input">
+					Select language
+					<input type="text" value="" autocomplete="off">
+				</div>
+			</div>
+			<div class="b-popup__columns">
+		<div class="b-popup__column lang_columns">
+		   <div class="b-conv-head">Europe</div>
+			<ul class="b-conv-list">
+		
+		 
+			   <li><a id="en"><span class="b-conv-list-value">English</span></a></li>
+		 
+  	    
+		 
+			   <li><a id="ru"><span class="b-conv-list-value">Русский</span></a></li>
+		 
+  	    
+		 
+  	    
+		 
+  	    
+		 
+  	    
+		 
+			   <li><a id="es"><span class="b-conv-list-value">Español</span></a></li>
+		 
+  	    
+		 
+  	    
+		 
+  	    
+		 
+  	    
+		 
+			   <li><a id="de"><span class="b-conv-list-value">Deutsch</span></a></li>
+		 
+  	    
+		 
+  	    
+		 
+			   <li><a id="fr"><span class="b-conv-list-value">Français</span></a></li>
+		 
+  	    
+		 
+			   <li><a id="it"><span class="b-conv-list-value">Italiano</span></a></li>
+		 
+  	    
+		 
+  	    
+		 
+			   <li><a id="pt"><span class="b-conv-list-value">Português</span></a></li>
+		 
+  	    
+		 
+			   <li><a id="pt-br"><span class="b-conv-list-value">Português brasileiro</span></a></li>
+		 
+  	    
+		 
+  	    
+			</ul>
+		</div>	
+		<div class="b-popup__column b-popup__column_ml lang_columns">
+			<div class="b-conv-head">Asia and Africa</div>
+			<ul class="b-conv-list">
+			  
+			
+			
+			
+			
+			
+			     <li><a id="zh"><span class="b-conv-list-value">简体中文</span></a></li>
+			
+			
+			
+			     <li><a id="id"><span class="b-conv-list-value">Bahasa Indonesia</span></a></li>
+			
+			
+			
+			     <li><a id="ms"><span class="b-conv-list-value">Bahasa Malaysia</span></a></li>
+			
+			
+			
+			
+			
+			     <li><a id="th"><span class="b-conv-list-value">ไทย</span></a></li>
+			
+			
+			
+			     <li><a id="hi"><span class="b-conv-list-value">हिंदी</span></a></li>
+			
+			
+			
+			     <li><a id="ar"><span class="b-conv-list-value">العربيّة</span></a></li>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			     <li><a id="vi"><span class="b-conv-list-value">Tiếng Việt</span></a></li>
+			
+			
+			
+			
+			
+			
+			
+			     <li><a id="ko"><span class="b-conv-list-value">한국어</span></a></li>
+			
+			
+			
+			  
+			
+			  
+			
+			  
+			
+			  
+			
+			  
+			
+			  
+			
+			  
+			
+			  
+			
+			  
+			
+			  
+			
+			  
+			
+			  
+			
+			  
+			
+			  
+			
+			  
+			
+			  
+			
+			  
+			
+			
+			    
+
+			</ul>
+		</div>
+			</div>	
+			<div class="b-popup__arrow"></div>
+			<a class="b-popup__close"></a>
+		</div>
+		
+	</form>		
+	</div>
+	
+			  
+
+	 
+
+		  	 
 	</div>
 	
 
@@ -518,8 +744,9 @@ s = document.getElementsByTagName('script')[0]; s[removed].insertBefore(a, s);
 
 
 
-
-	<div class="logo"><a href="https://www.exness.com"><img src="/images/logo.gif" height="141" width="141"></a></div>
+ 
+ 
+	<div class="logo" id="logoss"><a href="https://www.exness.com"><img src="/images/logo.gif" height="141" width="141"></a></div>
 
 
 	
@@ -534,8 +761,10 @@ s = document.getElementsByTagName('script')[0]; s[removed].insertBefore(a, s);
 		
 	</div>
  	<div class="phone">
-
+	
 		
+		
+			
 		
 		
 		
@@ -561,7 +790,11 @@ s = document.getElementsByTagName('script')[0]; s[removed].insertBefore(a, s);
 		
 		
 		
-		<h3>+7&nbsp;812&nbsp;<b>45&nbsp;48</b>&nbsp;812</h3>
+		 
+			<h3>+7&nbsp;812&nbsp;<b>45&nbsp;48</b>&nbsp;812</h3>
+		 
+		
+		
 		
 		
 		
@@ -587,7 +820,8 @@ s = document.getElementsByTagName('script')[0]; s[removed].insertBefore(a, s);
 		
 		
 
-		
+		 	
+	
 
 		
 
@@ -604,7 +838,7 @@ s = document.getElementsByTagName('script')[0]; s[removed].insertBefore(a, s);
 
 <ul style="">
 		<li><a href="">About Us</a><br>
-			<div class="subMenuContainer" id="m1">
+			<div class="subMenuContainer" id="m1" aria-haspopup="p">
 				<div class="wrapper">
 					<table border="0" cellpadding="0" cellspacing="0" width="100%">
 						<tbody><tr>
@@ -625,14 +859,21 @@ s = document.getElementsByTagName('script')[0]; s[removed].insertBefore(a, s);
 									<p>Board of directors</p>
 								</div>
 								
+
+
 								<div class="block">
 									<a href="/about_us/profit">Why EXNESS?</a>
 									<p>Three reasons to choose EXNESS</p>
 								</div>
+
+
+
+
 								<div class="block">
 									<a href="/about_us/legal_information">Legal information</a>
 									<p>Client agreement and registration information</p>
 								</div>
+
 								
 								<div class="block">
 									<a href="/about_us/iso_certificate">Quality Management</a>
@@ -716,12 +957,12 @@ s = document.getElementsByTagName('script')[0]; s[removed].insertBefore(a, s);
 								<a href="/history_quotes">Quotes history</a>
 								<p>Download the quotes archives of currency pairs and financial instruments and use them in MetaTrader to test strategies and do technical analysis</p>
 							</div>						
-						
 							
 							<div class="block">
 								<a href="/monitor">Account monitoring</a>
 								<p>Real and demo account statistics. Basic indicators (balance, equity, profit) and expanded indicators</p>
 							</div>
+
 		
 							<div class="block">
 								<a href="/metatrader_4" id="mt4">MetaTrader 4</a> <a href="/metatrader_5" id="mt5">MetaTrader 5</a>
@@ -775,12 +1016,15 @@ s = document.getElementsByTagName('script')[0]; s[removed].insertBefore(a, s);
 									<a href="/execution/market_maker_hedging">Hedging client positions</a>
 									<p>Techniques for hedging Client positions: matching and entry to the inter-bank market</p>
 								</div>
+								
 								<div class="block">
 									<a href="/execution/market_maker_controls">Criteria for selecting a FOREX marketmaker</a>
 									<p>Things a client should look for when choosing a broker</p>
 								</div>
+								
 							
 						</td>
+
 						<td class="splitter"><img src="/images/ms_splitter.gif"></td>
 						<td width="50%" valign="top">
 							<div class="caption">ECN</div>
@@ -814,9 +1058,10 @@ s = document.getElementsByTagName('script')[0]; s[removed].insertBefore(a, s);
 									<a href="/execution/ecn_liquidity_providers">ECN liquidity providers</a>
 									<p>Who provides liquidity for EXNESS</p>
 								</div>
-								
+							
 							
 						</td>
+	
 					</tr>
 					</tbody></table>
 				</div>
@@ -845,6 +1090,8 @@ s = document.getElementsByTagName('script')[0]; s[removed].insertBefore(a, s);
 								<a href="/monitor">Account monitoring</a>
 								<p>Real and demo account statistics. Basic indicators (balance, equity, profit) and expanded indicators</p>
 							</div>
+
+
 
 							<div class="block">
 								<a href="/forex/specifications">Contract specifications</a>
@@ -1038,7 +1285,8 @@ s = document.getElementsByTagName('script')[0]; s[removed].insertBefore(a, s);
 
 	<br>
 
-	<span style="display: block; margin-top: 24px; margin-bottom: 14px; font-size: 18px; font-weight: normal; line-height: 22px; border-bottom: 2px solid #FEB001; padding-top: 0px; padding-bottom: 10px;">Start trading</span>
+	<span style="display: block; margin-top: 24px;margin-bottom: 14px; font-size: 18px; font-weight: normal; line-height: 22px; border-bottom: 2px solid #FEB001; padding-top: 0px; padding-bottom: 10px;">Start trading</span>
+	
 	<a class="btnPattern" href="/register">
 		<div class="btnPattern-top"><div class="btnPattern-top-bg"></div></div>
 			<div class="btnPattern-middle">
@@ -1179,6 +1427,8 @@ s = document.getElementsByTagName('script')[0]; s[removed].insertBefore(a, s);
 
 
 
+
+
 <!-- Yandex.Metrika counter -->
 <script src="//mc.yandex.ru/metrika/watch.js" type="text/javascript"></script>
 <script type="text/javascript">
@@ -1195,6 +1445,7 @@ accurateTrackBounce:true});
 
 
 <!-- NZ site -->
+<!-- weekend: False -->
 
 
 </body></html>
