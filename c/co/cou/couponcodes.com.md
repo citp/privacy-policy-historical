@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the couponcodes.com privacy policy that was archived on 2013-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130331090429id_/http%3A//www.couponcodes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponcodes.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814063415id_/http%3A//www.couponcodes.com/privacy) for the most accurate reproduction.*
 
-# CouponCodes.com Privacy Policy | CouponCodes.com
+# CouponCodes.com Privacy Policy - CouponCodes.com
 
 Bottom line, CouponCodes.com is committed to respecting your privacy. Our lawyers, however, want us to give you a little more information just in case.
 
