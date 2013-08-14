@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nicolesnickels.com privacy policy that was archived on 2013-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130318053724id_/http%3A//www.nicolesnickels.com/disclaimerdisclosureprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nicolesnickels.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814040022id_/http%3A//www.nicolesnickels.com/disclaimerdisclosureprivacy-policy) for the most accurate reproduction.*
 
 # Disclaimer/Disclosure/Privacy Policy
 
@@ -12,7 +12,7 @@ This site gives no warranties (whether expressed or implied), and is not respons
 
 Please be advised that when you sign up for offers or freebies you may begin to get many emails for additional offers, freebies, etc. These emails are not spam as you likely requested these emails in your sign-up for the service and are the company’s way to promote their products. If they become bothersome to you, you should check with the service on how to unsubscribe
 
- **Disclosure**
+**Disclosure**
 
 This blog is a personal blog written and edited by me. For questions about this blog, please contact nicolesnickels at gmail dot com.
 
