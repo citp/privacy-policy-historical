@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adoori.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601153907id_/http%3A//www.adoori.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adoori.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814171110id_/http%3A//www.adoori.com/privacy) for the most accurate reproduction.*
 
 # Adoori - Reinvent Your Advertising | Terms and Conditions
 
