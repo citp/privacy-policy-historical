@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medmutual.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609133824id_/https%3A//www.medmutual.com/About-Medical-Mutual/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medmutual.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814161712id_/https%3A//www.medmutual.com/About-Medical-Mutual/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy & Confidentiality | Medical Mutual
 
@@ -24,7 +24,6 @@ Username: Password:
 
 
 
-  * [Home](https://web.archive.org/)
   * [For Individuals & Families](https://web.archive.org/For-Individuals-and-Families.aspx "For Individuals & Families")
   * [For Employers](https://web.archive.org/For-Employers.aspx "For Employers")
   * [For Brokers](https://web.archive.org/For-Brokers.aspx "For Brokers")
