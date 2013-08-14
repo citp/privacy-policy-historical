@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flintstonesvitamins.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424013600id_/http%3A//bayercare.com/privacy_statement.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flintstonesvitamins.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814093847id_/http%3A//bayercare.com/privacy_statement.cfm) for the most accurate reproduction.*
 
 # Bayer Consumer Care Products
 
