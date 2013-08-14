@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exterminate-it.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526102214id_/http%3A//www.exterminate-it.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exterminate-it.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814131548id_/http%3A//www.exterminate-it.com/privacy-policy) for the most accurate reproduction.*
 
 # Exterminate It!: Privacy Policy
 
@@ -20,11 +20,11 @@ The Site includes a number of links to our business partners, with whom we have 
 
 ## Online Payment Processing
 
-The ordering process is secure since the orders are processed by RegNow.com, an industry leader in providing e-commerce processing and online credit card processing services.
+The ordering process is secure since the orders are processed by MyCommerce.com (former RegNow.com), an industry leader in providing e-commerce processing and online credit card processing services.
 
 We do not store any credit card information; we collect only your personal information such as your name and email address. We use this information to supply the activation information to you.
 
-Credit card processing is performed solely by RegNow.com—never by Exterminate It! itself.
+Credit card processing is performed solely by MyCommerce.com – never by Exterminate It! itself.
 
 ## Exterminate It! Software
 
@@ -35,7 +35,7 @@ Only the following information is sent to the Site:
   * Activation code generated during the activation process
   * A list of malware found during a virus scanning process (sent for statistical purposes)
   * A system snapshot during the uninstall process (sent for detection improving purposes)
-  * A system snapshot when the “Submit State” feature was used   
+  * A system snapshot when the “Submit State” feature was used  
 Please note that a system snapshot includes NO private information.
 
 
@@ -44,12 +44,12 @@ Please note that a system snapshot includes NO private information.
 
 We do not disclose your e-mail address to business partners or to anyone other than our employees. CurioLab may contact you by e-mail to respond to comments, feedback, and customer service inquiries you submitted.
 
-CurioLab can send informational emails and notifications to your email address. We guarantee that these messages are 100% safe and contain only information related to our products. If you don’t want to receive these emails you can disable them with a special option.
+CurioLab can send informational emails and notifications to your email address. We guarantee that these messages are 100% safe and contain only information related to our products. If you donтАЩt want to receive these emails you can disable them with a special option.
 
-We send e-mails using the following addresses: 
+We send e-mails using the following domain names:
 
-  * @exterminate-it.com
-  * @curiolab.net
+  * exterminate-it.com
+  * curiolab.net
 
 
 
