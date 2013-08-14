@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acculynx.com privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420062623id_/http%3A//www.acculynx.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acculynx.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814120824id_/http%3A//www.acculynx.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | AccuLynx.com
 
