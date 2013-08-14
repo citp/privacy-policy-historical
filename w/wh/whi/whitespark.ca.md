@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whitespark.ca privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527173728id_/http%3A//www.whitespark.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitespark.ca privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814164201id_/http%3A//www.whitespark.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy, Whitespark
 
