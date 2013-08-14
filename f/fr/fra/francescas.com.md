@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the francescas.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527190839id_/http%3A//www.francescas.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the francescas.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814181213id_/http%3A//www.francescas.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
 
 # Privacy and Security - Francescas
-
-## Privacy And Security
 
 Thank you for shopping at francesca's® online boutique. francesca's® is committed to respecting the privacy rights of online visitors to our Site. We also recognize the importance of protecting information collected about you. 
 
@@ -16,4 +14,4 @@ Unless otherwise required by law, francesca's® does not disclose any personal i
 
 ### Secure Shopping
 
-Orders placed on our site are encrypted using SSL technology, the industry-standard authentication and encryption technology, to ensure your transactions are protected. With SSL implemented on both the client and server, information transmitted over the internet will remain unaltered and secure. In order for SSL security to work, you must use an SSL enabled browser. Most Netscape and Explorer browsers, version 3.x and later, support SSL. If you have any concerns, please place your order by phone by calling 1.800.980.1180.
+Orders placed on our site are encrypted using SSL technology, the industry-standard authentication and encryption technology, to ensure your transactions are protected. With SSL implemented on both the client and server, information transmitted over the internet will remain unaltered and secure. In order for SSL security to work, you must use an SSL enabled browser. Most Netscape and Explorer browsers, version 3.x and later, support SSL. If you have any concerns, please place your order by phone by calling 1.800.980.1180, Monday through Friday, 7:00 a.m. to 9:00 p.m. CST.
