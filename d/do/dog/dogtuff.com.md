@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dogtuff.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116181231id_/http%3A//www.dogtuff.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogtuff.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814213614id_/http%3A//www.dogtuff.com/privacy) for the most accurate reproduction.*
 
 # DogTuff.com - Privacy Policy
 
