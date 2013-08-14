@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hobbs.co.uk privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425084822id_/http%3A//www.hobbs.co.uk/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hobbs.co.uk privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814144504id_/http%3A//www.hobbs.co.uk/information/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Hobbs
 
-Hobbs takes your right to privacy very seriously. Here are some things you should know about how we protect information which you provide when communicating with us, including when you visit our website located at [http://www.hobbs.co.uk](http://www.hobbs.co.uk/). By communicating with us, including when you access and use our Website, you are accepting and agreeing to the information practices described in this Privacy and Cookies Policy.
+We treat your right to privacy very seriously. Here are some things you should know about how we protect any information you provide when communicating with us, including when you visit our website at http://www.hobbs.co.uk. By communicating with us, including when you access and use our website, you are accepting and agreeing to the information practices described in this Privacy and Cookies Policy, below.
 
-As part of our initiative to comply with recent legislation, full information on how we use and store cookies can be found in our _[cookies policy](https://web.archive.org/information/cookies-policy)_ , which forms part of this overall privacy policy.
+As part of our initiative to comply with recent legislation, full information on how we use and store cookies can be found in our [cookies policy](https://web.archive.org/information/cookies-policy), which forms part of this overall privacy policy.
 
 Who We Are
     
