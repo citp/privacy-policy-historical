@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autowallpapers.net privacy policy that was archived on 2013-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130309103815id_/http%3A//autowallpapers.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autowallpapers.net privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814163134id_/http%3A//autowallpapers.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy for AUTOWALLPAPERS.NET
 
