@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 1iota.com privacy policy that was archived on 2013-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130624124943id_/http%3A//1iota.com/Company/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 1iota.com privacy policy that was archived on 2013-08-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130814063632id_/http%3A//1iota.com/Company/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -10,61 +10,12 @@
     </title>
     
 <link rel="icon" type="image/ico" href="/Content/images/favicon.ico">
-<link rel="stylesheet" href="/Content/stylesheets/global.css" type="text/css" media="screen" charset="utf-8">
-<link rel="stylesheet" href="/Content/stylesheets/base.css" type="text/css" media="screen" charset="utf-8">
-<link rel="stylesheet" href="/Content/stylesheets/jquery.Jcrop.css" type="text/css" media="screen" charset="utf-8">
- <link rel="stylesheet" type="text/css" media="screen" charset="utf-8" href="/Content/stylesheets/jquery-ui-1.8.22.custom.css">
+<link rel="stylesheet" type="text/css" href="/combres.axd/oldCss/2069906921/">
 
-
-<script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
-<script src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js" type="text/javascript" charset="utf-8"></script>
-
-<script type="text/javascript" src="/combres.axd/preloadJs/820777381/"></script>
-
-
-<script src="/Content/javascripts/jquery.uploadify.js" type="text/javascript" charset="utf-8"></script>
-<script src="/Content/javascripts/innerXHTML.js" type="text/javascript" charset="utf-8"></script>
-<script src="/Content/javascripts/jquery.textPlaceholder.js" type="text/javascript" charset="utf-8"></script>
-<script src="/Content/javascripts/date.js" type="text/javascript" charset="utf-8"></script>
-
-<script src="/Content/javascripts/amplify.js" type="text/javascript"></script>
-
-
-
-
-
-
-
-
-
-
-
-<!--[if IE]><link rel="stylesheet" href="/Content/stylesheets/ie-base.css" type="text/css" media="screen" charset="utf-8" /><![endif]-->
-
-<script type="text/javascript" charset="utf-8">
-    // <![CDATA[
-//    Cufon.replace('h2');
-//    Cufon.replace('.gotham');
-//    Cufon.replace(".text_xlarge");
-//    Cufon.replace(".text_large");
-//    Cufon.replace(".text_medium");
-//    Cufon.replace(".text_lsmall");
-//    Cufon.replace(".text_small");
-//    Cufon.replace(".text_xsmall");
-    // ]]>
-    $(document).ready(function () {
-        $.ajaxSetup({
-            cache: false
-        });
-    });
-</script>
-
-
-
-<script type="text/javascript" src="/combres.axd/blobJs/-965694810/"></script>
+<script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script><script type="text/javascript" src="/combres.axd/blobJs/124231910/"></script>
 <script type="text/javascript">
 
-    var jsonBlobVersion = '5174';
+    var jsonBlobVersion = '6623';
     var jsonBlobUrl = 'https://s3.amazonaws.com/JsonBlobs/';
     $(document).ready(function () {
         io.blob.initialize(jsonBlobVersion, jsonBlobUrl);
@@ -101,7 +52,7 @@
                 wrapValue = '<div id="TicketingUI" class="wrapper module"></div>';
             }
             var currentDate = new Date();
-            ShowDialog(1000, 675, "", '/event/GetTicketsBlob/' + $.fn.eventSettings.eventId + '?' + currentDate.getTime().toString(), null);
+            ShowDialog(1000, 645, "", '/event/GetTicketsBlob/' + $.fn.eventSettings.eventId + '?' + currentDate.getTime().toString(), null);
         };
         $.fn.eventSettings = {
             eventId: null,
@@ -128,6 +79,10 @@
             e.preventDefault();
             triggerUI(this); // $(this).closest('.event').attr('id'));
         });
+        //$('.comingSoon').click(function (e) {
+        //    e.preventDefault();
+        //    io.showComingSoon(this);
+        //});
 
         if ($('.TicketSort').length > 0) {
             // initialize sorting for each 'sorted' module on the page
@@ -160,6 +115,11 @@
                 _gaq.push(['_trackEvent', 'Ticket', 'CalendarGetTicketsClick', performance.Title]);
             } else if ($(event).hasClass('guestListItem')) {
                 _gaq.push(['_trackEvent', 'Guests', 'GuestClick', guest.Name + ':' + window.location.pathname]);
+            }
+
+            if (eventId == -1 && guest != undefined) {
+                window.location = "/Fanbase/View/" + guest.MemberId.toString();
+                return;
             }
         }
 
@@ -208,7 +168,7 @@
         $(event).iotaWait();
         $(event).trigger('startWaiting');
 
-        ShowDialog(1000, 675, "", url, null);
+        ShowDialog(1000, 645, "", url, null);
 
         $(event).trigger('stopWaiting');
     }
@@ -216,7 +176,7 @@
 // ]]>
 </script>
 
-</head>
+<script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script></head>
 <body>
     <div class="bodyBackground"></div>
     <div id="dialogOverlay" style=""></div>
@@ -475,7 +435,7 @@
             
        
 <div class="left">
-    <a href="http://1iota.com/"><img src="/Content/images/1iota_logo.png" alt="Free Tickets And Shows" title="Free Tickets And Shows"></a>
+    <a href="/"><img src="/Content/images/1iota_logo.png" alt="Free Tickets And Shows" title="Free Tickets And Shows"></a>
 </div>
 <div class="right">
     <ul>
@@ -660,7 +620,7 @@
     <p>Facebook Connect allows you to log onto 1iota.com with your Facebook identity.</p>
 </div>
 <div id="facebookConnectOverlay" style="background-color: #F2F3F3;position: absolute;right:18px;top:11px;height:242px;width:370px;opacity:.9;display: none;">
-    <img src="/content/images/ajaxLoader.gif" alt="Loading..." class="ajaxLoader" style="position: relative;left:167px;top:99px;">
+    <img src="/Content/images/ajaxLoader.gif" alt="Loading..." class="ajaxLoader" style="position: relative;left:167px;top:99px;">
 </div>
 
 <script type="text/javascript" charset="utf-8">
@@ -679,7 +639,7 @@
         $('#ForgotPassword').click(function (e) {
             e.preventDefault();
             CloseDialog();
-            ShowDialog(360, 210, "Forgot Password", '/Member/ForgotPassword', null);
+            ShowDialog(360, 180, "Forgot Password", '/Member/ForgotPassword', null);
         });
     });
 
@@ -737,17 +697,26 @@
     </div>
         
     
+    
+    <script src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js" type="text/javascript" charset="utf-8"></script>
+
+    <script type="text/javascript" src="/combres.axd/preloadJs/1772037085/"></script>
+    <script type="text/javascript" src="/combres.axd/siteJs/-2138209675/"></script>
+
     <script type="text/javascript">
         checkMobileRedirect();
         $(document).ready(function () {
+            $.ajaxSetup({
+                cache: false
+            });
             $('#LogIn').click(function (e) {
                 e.preventDefault();
-                DisplayDialog(800, 305, 'Log In', '#loginModalDiv');
+                DisplayDialog(800, 275, 'Log In', '#loginModalDiv');
             });
 
             initTooltips();
         });
     </script>
+<script type="text/javascript"> if (!NREUMQ.f) {NREUMQ.f=function() {NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script"); e.type="text/javascript"; e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" + "js-agent.newrelic.com/nr-100.js"; document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-2.newrelic.com","593603549c","2507358","bgFbMUNSVkQAUE1cDVdLfQpFfV1DIlxXQRBWCFUAQxx7WAxDWFsbFjRLDEdSW04=",0,15,new Date().getTime(),"555ABBE24158D52B","","","",""]);</script>
 
-
-</body></html>
+<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
