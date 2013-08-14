@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the imoviewindows.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609084744id_/http%3A//www.imoviewindows.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imoviewindows.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814170715id_/http%3A//www.imoviewindows.com/privacy.html) for the most accurate reproduction.*
 
-# Page Not Found | iMovieWindows
+# Our Privacy Policy | iMovieWindows
 
 At iMovieWindows site, your security and privacy important to us. We take the following producers to protect your personal information. 
 
