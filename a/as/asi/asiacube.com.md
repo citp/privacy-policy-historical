@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asiacube.com privacy policy that was archived on 2013-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130331083123id_/http%3A//www.asiacube.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiacube.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814214631id_/http%3A//asiacube.com/privacy-policy.php) for the most accurate reproduction.*
 
 # AsiaCube - The Best Free Social Exchange Site!
 
@@ -36,4 +36,4 @@ AsiaCube.com does not rent, sell, or share personal information about you with o
 We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activies, suspected fraud, situations involving potential threats to the physical safety of any person, violations of AsiaCube.com's Terms of Service, or as otherwise required by law.
 
 **Contacting Us:**  
-If you have any questions about this privacy policy, the practices of this site, or your dealings with this Web site, please contact us at: hello@asiacube.com 
+If you have any questions about this privacy policy, the practices of this site, or your dealings with this Web site, please [**contact us**](http://asiacube.com/contact.php "Contact Us"). 
