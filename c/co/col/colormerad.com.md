@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the colormerad.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507134841id_/http%3A//www.colormerad.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colormerad.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814030420id_/http%3A//www.colormerad.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Color Me Rad - The run that's been ruining all other 5Ks since 2012!
+# Privacy Policy - Color Me Rad - The run that's been ruining all other 5Ks since 2012
 
 ###  Our Commitment to Privacy
 
@@ -30,13 +30,13 @@ The online privacy policy applies only to information collected through our webs
 
 By using our site and submitting your registration you hereby consent to the online privacy policy, as stated.
 
-By submitting, posting or displaying any content, pictures and other materials on our facebook page, you grant to us a worldwide, non-exclusive, royalty-ree license (with the right to sublicense) to use, copy, reproduce, process, adapt, modify, publish, transmit, disply and distribute such content, pictures or other materials in any and all media, advertising, marketing or other distribution methods whether now known or later developed.
+By submitting, posting or displaying any content, pictures and other materials on our facebook page, you grant to us a worldwide, non-exclusive, royalty-ree license (with the right to sublicense) to use, copy, reproduce, process, adapt, modify, publish, transmit, display and distribute such content, pictures or other materials in any and all media, advertising, marketing or other distribution methods whether now known or later developed.
 
 ###  Changes to Privacy Policy
 
 Any changes made to this privacy policy will be noted on this page.
 
-This policy was last modified on 02/13/2012.
+This policy was last modified on 08/12/2013.
 
 ###  Contact
 
