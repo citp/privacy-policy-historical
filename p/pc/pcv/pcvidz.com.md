@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcvidz.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429145745id_/https%3A//pcvidz.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcvidz.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814121138id_/https%3A//pcvidz.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy
 
