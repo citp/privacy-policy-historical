@@ -1,20 +1,35 @@
-<!--The following is the downloaded HTML source of the daveandbusters.com privacy policy that was archived on 2013-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130610190328id_/http%3A//www.daveandbusters.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the daveandbusters.com privacy policy that was archived on 2013-08-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130815003654id_/http%3A//www.daveandbusters.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><link rel="stylesheet" type="text/css" href="/WorkArea/FrameworkUI/css/ektron.stylesheet.ashx?id=1336402157+528614635"><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/WorkArea/FrameworkUI/js/ektron.javascript.ashx?id=1362446410+-907017858+1858396078+2080800137+1987009490+787524041+-423436955+-814855039+861986600+-1634385506+100443009+-386229961"></script><link rel="Shortcut Icon" href="../favicon.ico" type="image/x-icon"><title>Dave &amp; Busters  Eat, Drink, Play  Privacy Policy</title>
 <meta charset="utf-8"><link rel="icon" href="../html/favicon.ico" type="image/x-icon"><link rel="shortcut icon" href="../html/favicon.ico" type="image/x-icon"><meta http-equiv="X-UA-Compatible" content="IE=edge"><title>
 	Dave &amp; Busters Restaurant, Bar and Arcade for Fun, Parties, Meetings and More!
-</title><link href="/css/style.common.css" rel="stylesheet" type="text/css"><link href="/css/style.dnb.main.css" rel="stylesheet" type="text/css"><link rel="stylesheet" href="/css/modalstyles.css">
-<script type="text/javascript" src="/js/jquery.js"></script>
-<!-- do we need to load jquery.js and jquery.min.js ??? !-->
+</title><meta name="description" content="Dave And Busters! The most fun you can have under one roof! "><meta property="og:title" content="Dave &amp; Busters Restaurant, Bar and Arcade for Fun, Parties, Meetings and More!"><meta property="go:description" content="Find the New Mix of Fun at the all-new http://www.daveandbusters.com. Log on and find your nearest Dave and Busters or view the new menu and drinks! Plus you can check your Power Card balance and join Rewards to start receiving awesome offers. "><meta property="og:url" content="http://www.daveandbusters.com/"><meta property="og:type" content="website"><meta property="og:image" content="http://www.daveandbusters.com/images/11001_thumb_DnB-logo.png">
+
+ 
+<!-- I want to test using normalize first before adding it to the site.
+        Waiting on a cross browser issue to arrise that could be solved with normalize /-->
+<!-- link href="/css/normalize.css" rel="stylesheet" type="text/css" /-->
+<link href="/css/style.common.css" rel="stylesheet" type="text/css"><link href="/css/style.dnb.main.css" rel="stylesheet" type="text/css"><link rel="stylesheet" href="/css/modalstyles.css"><link rel="stylesheet" href="/css/fantacyfb.css">
+<!-- script type="text/javascript" src="/js/jquery.js"></script>
+<!-- do we need to load jquery.js and jquery.min.js ??? /-->
 <script type="text/javascript" src="/js/jquery.min.js"></script>
 <script type="text/javascript" src="/js/jquery.ui.min.js"></script>
 <script type="text/javascript" src="/js/jquery.slides.min.js"></script>
 <script type="text/javascript" src="/js/jquery.tinyscrollbar.min.js"></script>
 <script type="text/javascript">
+
+
+
+    if (!window.console) window.console = {};
+    if (!window.console.log) window.console.log = function () { };
+
+
+
     // Set this value to set pre-activated submenu for sections.
     // Accepetable Values: "daves-games", "busters-menu", "rewards". If no menu needs to be active, always set this to "none".
     var subActiveMenu = "none";
+
 
     $(document).ready(function () {
 
@@ -323,17 +338,9 @@
 	<script type="text/javascript">
 	    $(document).ready(function () {
 	        //	    if the user comes for the first time,set the cookies and save it.
-	        //	        debugger;
+	       //debugger;
+            //alert("hi")
 	        SetUserSurveyCookie();
-	        //	    	        $('#button').click(function (e) { // Button which will activate our modal
-	        //	    	            $('#modal').reveal({ // The item which will be opened with reveal
-	        //	    	                animation: 'fade',                   // fade, fadeAndPop, none
-	        //	    	                animationspeed: 600,                       // how fast animtions are
-	        //	    	                closeonbackgroundclick: true,              // if you click background will modal close?
-	        //	    	                dismissmodalclass: 'close'    // the class of a button or element that will close an open modal
-	        //	    	            });
-	        //	    	            return false;
-	        //	    	        });
 	    });
 
 	    function SetUserSurveyCookie() {
@@ -343,17 +350,20 @@
 //	        alert(window.location.href);
 	        // debugger;
 	        //get the cookie and check if exist
-//	        var dnbusersurveycookieVar = getCookie("dnbusersurveycookie");
-//	        //	        alert(dnbusersurveycookieVar);
-//	        if (dnbusersurveycookieVar == undefined || dnbusersurveycookieVar == "") {
+       var dnbusersurveycookieVar = getCookie("dnbusersurveycookie");
+              // alert(dnbusersurveycookieVar);
+        if (dnbusersurveycookieVar == undefined || dnbusersurveycookieVar == "") {
 //	            //if first time ,create cookie
 //	           // createCookie("dnbusersurveycookie", "userfirsttimeclicked", 365)
-//	        }
-//	        else {
-//	            
-//	            //if the user denied survey,do not show the popup.
-//	            if (dnbusersurveycookieVar == "userfirsttimeclicked" && dnbusersurveycookieVar != "surveydenied") {
-//	                
+	        //}
+        //else {
+            var url = window.location.pathname;
+            var myPageName = url.substring(url.lastIndexOf('/') + 1);
+
+	            //if the user denied survey,do not show the popup.
+            //if (dnbusersurveycookieVar == "userfirsttimeclicked" && dnbusersurveycookieVar != "surveydenied" && myPageName.toLowerCase() == "storeinformation.aspx") {
+            if (dnbusersurveycookieVar != "surveydenied") { //&& myPageName.toLowerCase() == "storeinformation.aspx"
+
 //	                if (window.location.href != "") {
 //	                //if first time ,create cookie
 //	                $('#modal').reveal({ // The item which will be opened with reveal
@@ -362,11 +372,10 @@
 //	                    closeonbackgroundclick: true,              // if you click background will modal close?
 //	                    dismissmodalclass: 'close'    // the class of a button or element that will close an open modal
 //	                });
-//	            }
-//	            }
-//	        }
+	            }
+             }
+    }
 
-	    }
 	    function SurveyYesClick() {
 	        createCookie("dnbusersurveycookie", "surveydenied", "365");
 	        openNewWindow();
@@ -377,7 +386,7 @@
 
 	    }
 	    function openNewWindow() {
-	        popupWin = window.open('https://www.surveymonkey.com/s/WSZZG62',
+	        popupWin = window.open('https://www.surveymonkey.com/s/5TF7JQ5',
  'open_window',
  'menubar, toolbar, location, directories, status, scrollbars, resizable, dependent, width=640, height=480, left=0, top=0')
 	    }
@@ -664,6 +673,12 @@ width:135px;
 
             /* Days Since Last Visit - persist session value and assign eVar - ADDED KMH 20130116 */
             s.eVar10 = s.prop35 = s.getDaysSinceLastVisit('s_prop35');
+
+            //Sitecatalyst and Sales force Integration
+            s.evar17 = s.prop37 = s.getQueryParam('cid');
+            //CreateCookie
+            if (s.evar17 != '' && s.evar17 != '')
+                createCookie("s_prop37", s.evar17, 30);
 
             /* Store Location - updated KMH 20130405 */
             if (!s.prop20)
@@ -1101,14 +1116,14 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
     <form method="post" action="/privacy/" id="aspnetForm">
 <div class="aspNetHidden">
 <input type="hidden" name="EktronClientManager" id="EktronClientManager" value="1336402157,1362446410,-907017858,1858396078,2080800137,1987009490,787524041,-423436955,-814855039,861986600,528614635,-1634385506,100443009,-386229961">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTkzNTc2NzEwMA9kFgJmD2QWAgIDEGRkFgQCAQ9kFghmDxYCHgVzdHlsZQUOZGlzcGxheTpibG9jazsWAgIBDw9kFgIeCm9uS2V5UHJlc3MFPWphdmFzY3JpcHQ6Y2xpY2ttYWluQnV0dG9uKGV2ZW50LCdjdGwwMF91Y0hlYWRlcl9idG5Hb01haW4nKTtkAgEPFgIfAAUmZGlzcGxheTpub25lO2NvbG9yOlJlZDtmb250LXNpemU6MTJweDtkAgMPFgIeBFRleHQF7xk8dWw+PGxpPjxhIGNsYXNzPSJsb2NhdGlvbiBla2ZsZXhtZW51X2J1dHRvbiIgaHJlZj0iL2xvY2F0aW9ucy9hbGxsb2NhdGlvbnMuYXNweCI+TG9jYXRpb25zPC9hPjwvbGk+PGxpPjxhIGNsYXNzPSJzcGVjaWFscyBla2ZsZXhtZW51X2J1dHRvbiIgaHJlZj0iL01lbnUvIj5FYXQ8L2E+PHVsIGNsYXNzPSJla2ZsZXhtZW51X3N1Ym1lbnVfaXRlbXNfaGlkZGVuIHN1Yi1zcGVjaWFscyBzdWJNZW51Ij48bGk+PGEgY2xhc3M9ImVrZmxleG1lbnVfYnV0dG9uIiBocmVmPSIvbWVudS9vbmx5LWF0LWQtYW5kLWIvIj5Pbmx5IGF0IEQmYW1wO0I8L2E+PC9saT48bGk+PGEgY2xhc3M9ImVrZmxleG1lbnVfYnV0dG9uIiBocmVmPSIvbWVudS9FYXROUGxheUNvbWJvLyI+RWF0LCBQbGF5LCBXaW4gQ29tYm88L2E+PC9saT48bGk+PGEgY2xhc3M9ImVrZmxleG1lbnVfYnV0dG9uIiBocmVmPSIvbWVudS9zdGFydGVycy1zbmFja3Mtc291cHMtc2FsYWRzLyI+U3RhcnRlcnMsIFNuYWNrcywgU291cHMgJmFtcDsgU2FsYWRzPC9hPjwvbGk+PGxpPjxhIGNsYXNzPSJla2ZsZXhtZW51X2J1dHRvbiIgaHJlZj0iL21lbnUvZW50cmVlcy8iPkVudHJlZXM8L2E+PC9saT48bGk+PGEgY2xhc3M9ImVrZmxleG1lbnVfYnV0dG9uIiBocmVmPSIvbWVudS9idXJnZXJzLWFuZC1zYW5kd2ljaGVzLyI+QnVyZ2VycyAmYW1wOyBTYW5kd2ljaGVzPC9hPjwvbGk+PGxpPjxhIGNsYXNzPSJla2ZsZXhtZW51X2J1dHRvbiIgaHJlZj0iL21lbnUvdW5kZXItNjAwLyI+VW5kZXIgNjAwPC9hPjwvbGk+PGxpPjxhIGNsYXNzPSJla2ZsZXhtZW51X2J1dHRvbiIgaHJlZj0iL21lbnUva2lkcy1tZW51LyI+S2lkcyBNZW51PC9hPjwvbGk+PGxpPjxhIGNsYXNzPSJla2ZsZXhtZW51X2J1dHRvbiIgaHJlZj0iL21lbnUvZGVzc2VydHMvIj5EZXNzZXJ0PC9hPjwvbGk+PC91bD48L2xpPjxsaT48YSBjbGFzcz0iZGF2ZXMtZ2FtZXMgZWtmbGV4bWVudV9idXR0b24iIGhyZWY9Ii9tZW51L2RyaW5rcy8iPkRyaW5rPC9hPjwvbGk+PGxpPjxhIGNsYXNzPSJidXN0ZXJzLW1lbnUgZWtmbGV4bWVudV9idXR0b24iIGhyZWY9Ii9nYW1lcy9nYW1lcy8iPlBsYXk8L2E+PHVsIGNsYXNzPSJla2ZsZXhtZW51X3N1Ym1lbnVfaXRlbXNfaGlkZGVuIHN1Yi1idXN0ZXJzLW1lbnUgc3ViTWVudSI+PGxpPjxhIGNsYXNzPSJla2ZsZXhtZW51X2J1dHRvbiIgaHJlZj0iL2dhbWVzL25ldy1nYW1lcy8iPk91ciBHYW1lczwvYT48L2xpPjxsaT48YSBjbGFzcz0iZWtmbGV4bWVudV9idXR0b24iIGhyZWY9Ii9nYW1lcy93aW5uZXJzLWNpcmNsZS8iPldpbm5lcuKAmXMgQ2lyY2xlPC9hPjwvbGk+PGxpPjxhIGNsYXNzPSJla2ZsZXhtZW51X2J1dHRvbiIgaHJlZj0iL2dhbWVzL3NodWZmbGUtYmlsbGlhcmRzLWxhbmVzLyI+Qm93bGluZywgQmlsbGlhcmRzLCBTaHVmZmxlYm9hcmQ8L2E+PC9saT48L3VsPjwvbGk+PGxpPjxhIGNsYXNzPSJzcG9ydHNCYXIgZWtmbGV4bWVudV9idXR0b24iIGhyZWY9Ii9zcG9ydHNiYXIvIj5TcG9ydHM8L2E+PC9saT48bGk+PGEgY2xhc3M9InNwb3J0c0JhciBla2ZsZXhtZW51X2J1dHRvbiIgaHJlZj0iL29mZmVycy8iPlByb21vczwvYT48L2xpPjxsaT48YSBjbGFzcz0icGxhbllvdXJFdmVudCBla2ZsZXhtZW51X2J1dHRvbiIgaHJlZj0iL2V2ZW50cy9wbGFuLXlvdXItZXZlbnQvIj5QYXJ0aWVzICZhbXA7IEV2ZW50czwvYT48dWwgY2xhc3M9ImVrZmxleG1lbnVfc3VibWVudV9pdGVtc19oaWRkZW4gc3ViLXBsYW5Zb3VyRXZlbnQgc3ViTWVudSI+PGxpPjxhIGNsYXNzPSJla2ZsZXhtZW51X2J1dHRvbiIgaHJlZj0iL2V2ZW50cy9wbGFuLXlvdXItZXZlbnQvIj5QbGFuIHlvdXIgZXZlbnQ8L2E+PC9saT48bGk+PGEgY2xhc3M9ImVrZmxleG1lbnVfYnV0dG9uIiBocmVmPSIvQ29udGFjdFBsYW5uZXIuYXNweCI+Q29udGFjdCBhIHBsYW5uZXI8L2E+PC9saT48bGk+PGEgY2xhc3M9ImVrZmxleG1lbnVfYnV0dG9uIiBocmVmPSIvZXZlbnRzL3BsYW4teW91ci1ldmVudC9TcGVjaWFsLU9mZmVycy8iPlNwZWNpYWwgb2ZmZXJzPC9hPjwvbGk+PGxpPjxhIGNsYXNzPSJla2ZsZXhtZW51X2J1dHRvbiIgaHJlZj0iL3ZlbnVlLWluZm9ybWF0aW9uLmFzcHgiPlZlbnVlIGluZm9ybWF0aW9uPC9hPjwvbGk+PGxpPjxhIGNsYXNzPSJla2ZsZXhtZW51X2J1dHRvbiIgaHJlZj0iL2V2ZW50cy9wbGFuLXlvdXItZXZlbnQvYnVmZmV0LWFuZC1kcmluay1vcHRpb25zLyI+QnVmZmV0IGFuZCBkcmluayBvcHRpb25zPC9hPjwvbGk+PGxpPjxhIGNsYXNzPSJla2ZsZXhtZW51X2J1dHRvbiIgaHJlZj0iL2V2ZW50cy9zZW5kLWFuLWV2aXRlLyI+U2VuZCBhbiBFdml0ZTwvYT48L2xpPjwvdWw+PC9saT48bGk+PGEgY2xhc3M9InJld2FyZHNab25lIGVrZmxleG1lbnVfYnV0dG9uIiBocmVmPSIvcmV3YXJkcy8iPlJld2FyZHM8L2E+PHVsIGNsYXNzPSJla2ZsZXhtZW51X3N1Ym1lbnVfaXRlbXNfaGlkZGVuIHN1Yi1yZXdhcmRzWm9uZSBzdWJNZW51Ij48bGkgY2xhc3M9Im5vbG9naW5wYWdlIj48YSBjbGFzcz0ibm9sb2dpbnBhZ2UgZWtmbGV4bWVudV9idXR0b24iIGhyZWY9Ii9qb2luLXJld2FyZHMvYWJvdXRyZXdhcmRzLyI+QWJvdXQgUmV3YXJkczwvYT48L2xpPjxsaSBjbGFzcz0ibm9sb2dpbnBhZ2UiPjxhIGNsYXNzPSJub2xvZ2lucGFnZSBla2ZsZXhtZW51X2J1dHRvbiIgaHJlZj0iL2pvaW4tcmV3YXJkcy9mYXEvIj5GQVFTPC9hPjwvbGk+PGxpIGNsYXNzPSJub2xvZ2lucGFnZSI+PGEgY2xhc3M9Im5vbG9naW5wYWdlIGVrZmxleG1lbnVfYnV0dG9uIiBocmVmPSIvam9pbi1yZXdhcmRzL3J1bGVzLWFuZC1wb2xpY2llcy8iPlJ1bGVzICZhbXA7IFBvbGljaWVzPC9hPjwvbGk+PGxpIGNsYXNzPSJsb2dpbnBhZ2VzIiBzdHlsZT0iZGlzcGxheTpub25lOyI+PGEgY2xhc3M9ImxvZ2lucGFnZXMgZWtmbGV4bWVudV9idXR0b24iIGhyZWY9Ii9wb3dlci1jYXJkcy9Qb2ludHNCYWxhbmNlc1Jlc3VsdHMvIj5Qb2ludHMgJmFtcDsgQmFsYW5jZXM8L2E+PC9saT48bGkgY2xhc3M9ImxvZ2lucGFnZXMiIHN0eWxlPSJkaXNwbGF5Om5vbmU7Ij48YSBjbGFzcz0ibG9naW5wYWdlcyBla2ZsZXhtZW51X2J1dHRvbiIgaHJlZj0iL3Jld2FyZHMtem9uZS9teS1wcm9maWxlLyI+TXkgUHJvZmlsZTwvYT48L2xpPjxsaSBjbGFzcz0ibG9naW5wYWdlcyIgc3R5bGU9ImRpc3BsYXk6bm9uZTsiPjxhIGNsYXNzPSJsb2dpbnBhZ2VzIGVrZmxleG1lbnVfYnV0dG9uIiBocmVmPSIvcmV3cmRzLXpvbmUvbXktcHJlZmVyZW5jZXMvIj5NeSBQcmVmZXJlbmNlczwvYT48L2xpPjwvdWw+PC9saT48L3VsPmQCBg8PFgYeCENzc0NsYXNzBQdzaWduT3V0HwIFB1NJR04gSU4eBF8hU0ICAmRkAgUPZBYEAgEPZBYCAgIPZBYCZg9kFgICAQ8WAh4FY2xhc3MFEGRyb3B6b25lIFBCQ2xlYXIWAgIDDxYCHgtfIUl0ZW1Db3VudAIBFgJmD2QWAgIBDxYEHwUFCVBCVmlld2luZx8ABQt3aWR0aDoxMDAlOxYCAgEPZBYCAgMPFgIfBgIBZAIDD2QWAgICD2QWAmYPZBYCAgEPFgIfBQUQZHJvcHpvbmUgUEJDbGVhchYCAgMPFgIfBgIBFgJmD2QWAgIBDxYEHwUFCVBCVmlld2luZx8ABQt3aWR0aDoxMDAlOxYCAgEPZBYCAgMPFgIfBgIBZBgDBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAgUYY3RsMDAkdWNIZWFkZXIkYnRuR29NYWluBRtjdGwwMCR1Y0hlYWRlciRJbWFnZUJ1dHRvbjEFamN0bDAwJHV4Q29udGVudEJvZHkkRHJvcFpvbmU0JGNvbHVtbkRpc3BsYXkkY3RsMDAkY29udHJvbGNvbHVtbiRjdGwwMCRXaWRnZXRIb3N0JFdpZGdldEhvc3Rfd2lkZ2V0JFZpZXdTZXQPD2RmZAVqY3RsMDAkdXhDb250ZW50Qm9keSREcm9wWm9uZTIkY29sdW1uRGlzcGxheSRjdGwwMCRjb250cm9sY29sdW1uJGN0bDAwJFdpZGdldEhvc3QkV2lkZ2V0SG9zdF93aWRnZXQkVmlld1NldA8PZGZkBlEfLERCYnhCqRxzmkOiPieVYKFscVru7431sNUtf30=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTkzNTc2NzEwMA9kFgJmD2QWAgIDEGRkFgQCAQ9kFghmDxYCHgVzdHlsZQUOZGlzcGxheTpibG9jazsWAgIBDw9kFgIeCm9uS2V5UHJlc3MFPWphdmFzY3JpcHQ6Y2xpY2ttYWluQnV0dG9uKGV2ZW50LCdjdGwwMF91Y0hlYWRlcl9idG5Hb01haW4nKTtkAgEPFgIfAAUmZGlzcGxheTpub25lO2NvbG9yOlJlZDtmb250LXNpemU6MTJweDtkAgMPFgIeBFRleHQFmhk8dWw+PGxpPjxhIGNsYXNzPSJsb2NhdGlvbiBla2ZsZXhtZW51X2J1dHRvbiIgaHJlZj0iL2xvY2F0aW9ucy9hbGxsb2NhdGlvbnMuYXNweCI+TG9jYXRpb25zPC9hPjwvbGk+PGxpPjxhIGNsYXNzPSJzcGVjaWFscyBla2ZsZXhtZW51X2J1dHRvbiIgaHJlZj0iL01lbnUvIj5FYXQ8L2E+PHVsIGNsYXNzPSJla2ZsZXhtZW51X3N1Ym1lbnVfaXRlbXNfaGlkZGVuIHN1Yi1zcGVjaWFscyBzdWJNZW51Ij48bGk+PGEgY2xhc3M9ImVrZmxleG1lbnVfYnV0dG9uIiBocmVmPSIvbWVudS9vbmx5LWF0LWQtYW5kLWIvIj5Pbmx5IGF0IEQmYW1wO0I8L2E+PC9saT48bGk+PGEgY2xhc3M9ImVrZmxleG1lbnVfYnV0dG9uIiBocmVmPSIvbWVudS9FYXROUGxheUNvbWJvLyI+RWF0LCBQbGF5LCBXaW4gQ29tYm88L2E+PC9saT48bGk+PGEgY2xhc3M9ImVrZmxleG1lbnVfYnV0dG9uIiBocmVmPSIvbWVudS9zdGFydGVycy1zbmFja3Mtc291cHMtc2FsYWRzLyI+U3RhcnRlcnMsIFNuYWNrcywgU291cHMgJmFtcDsgU2FsYWRzPC9hPjwvbGk+PGxpPjxhIGNsYXNzPSJla2ZsZXhtZW51X2J1dHRvbiIgaHJlZj0iL21lbnUvZW50cmVlcy8iPkVudHJlZXM8L2E+PC9saT48bGk+PGEgY2xhc3M9ImVrZmxleG1lbnVfYnV0dG9uIiBocmVmPSIvbWVudS9idXJnZXJzLWFuZC1zYW5kd2ljaGVzLyI+QnVyZ2VycyAmYW1wOyBTYW5kd2ljaGVzPC9hPjwvbGk+PGxpPjxhIGNsYXNzPSJla2ZsZXhtZW51X2J1dHRvbiIgaHJlZj0iL21lbnUvdW5kZXItNjAwLyI+VW5kZXIgNjAwPC9hPjwvbGk+PGxpPjxhIGNsYXNzPSJla2ZsZXhtZW51X2J1dHRvbiIgaHJlZj0iL21lbnUva2lkcy1tZW51LyI+S2lkcyBNZW51PC9hPjwvbGk+PGxpPjxhIGNsYXNzPSJla2ZsZXhtZW51X2J1dHRvbiIgaHJlZj0iL21lbnUvZGVzc2VydHMvIj5EZXNzZXJ0PC9hPjwvbGk+PC91bD48L2xpPjxsaT48YSBjbGFzcz0iZGF2ZXMtZ2FtZXMgZWtmbGV4bWVudV9idXR0b24iIGhyZWY9Ii9tZW51L2RyaW5rcy8iPkRyaW5rPC9hPjwvbGk+PGxpPjxhIGNsYXNzPSJidXN0ZXJzLW1lbnUgZWtmbGV4bWVudV9idXR0b24iIGhyZWY9Ii9nYW1lcy9nYW1lcy8iPlBsYXk8L2E+PHVsIGNsYXNzPSJla2ZsZXhtZW51X3N1Ym1lbnVfaXRlbXNfaGlkZGVuIHN1Yi1idXN0ZXJzLW1lbnUgc3ViTWVudSI+PGxpPjxhIGNsYXNzPSJla2ZsZXhtZW51X2J1dHRvbiIgaHJlZj0iL2dhbWVzL25ldy1nYW1lcy8iPk91ciBHYW1lczwvYT48L2xpPjxsaT48YSBjbGFzcz0iZWtmbGV4bWVudV9idXR0b24iIGhyZWY9Ii9nYW1lcy93aW5uZXJzLWNpcmNsZS8iPldpbm5lcuKAmXMgQ2lyY2xlPC9hPjwvbGk+PGxpPjxhIGNsYXNzPSJla2ZsZXhtZW51X2J1dHRvbiIgaHJlZj0iL2dhbWVzL3NodWZmbGUtYmlsbGlhcmRzLWxhbmVzLyI+Qm93bGluZywgQmlsbGlhcmRzLCBTaHVmZmxlYm9hcmQ8L2E+PC9saT48L3VsPjwvbGk+PGxpPjxhIGNsYXNzPSJzcG9ydHNCYXIgZWtmbGV4bWVudV9idXR0b24iIGhyZWY9Ii9zcG9ydHNiYXIvIj5TcG9ydHM8L2E+PC9saT48bGk+PGEgY2xhc3M9InNwb3J0c0JhciBla2ZsZXhtZW51X2J1dHRvbiIgaHJlZj0iL29mZmVycy8iPlByb21vczwvYT48L2xpPjxsaT48YSBjbGFzcz0icGxhbllvdXJFdmVudCBla2ZsZXhtZW51X2J1dHRvbiIgaHJlZj0iL2V2ZW50cy9wbGFuLXlvdXItZXZlbnQvIj5QYXJ0aWVzICZhbXA7IEV2ZW50czwvYT48dWwgY2xhc3M9ImVrZmxleG1lbnVfc3VibWVudV9pdGVtc19oaWRkZW4gc3ViLXBsYW5Zb3VyRXZlbnQgc3ViTWVudSI+PGxpPjxhIGNsYXNzPSJla2ZsZXhtZW51X2J1dHRvbiIgaHJlZj0iL2V2ZW50cy9wbGFuLXlvdXItZXZlbnQvIj5QbGFuIHlvdXIgZXZlbnQ8L2E+PC9saT48bGk+PGEgY2xhc3M9ImVrZmxleG1lbnVfYnV0dG9uIiBocmVmPSIvQ29udGFjdFBsYW5uZXIuYXNweCI+Q29udGFjdCBhIHBsYW5uZXI8L2E+PC9saT48bGk+PGEgY2xhc3M9ImVrZmxleG1lbnVfYnV0dG9uIiBocmVmPSIvZXZlbnRzL3BsYW4teW91ci1ldmVudC9TcGVjaWFsLU9mZmVycy8iPlNwZWNpYWwgb2ZmZXJzPC9hPjwvbGk+PGxpPjxhIGNsYXNzPSJla2ZsZXhtZW51X2J1dHRvbiIgaHJlZj0iL3ZlbnVlLWluZm9ybWF0aW9uLmFzcHgiPlZlbnVlIGluZm9ybWF0aW9uPC9hPjwvbGk+PGxpPjxhIGNsYXNzPSJla2ZsZXhtZW51X2J1dHRvbiIgaHJlZj0iL2V2ZW50cy9wbGFuLXlvdXItZXZlbnQvYnVmZmV0LWFuZC1kcmluay1vcHRpb25zLyI+QnVmZmV0IGFuZCBkcmluayBvcHRpb25zPC9hPjwvbGk+PC91bD48L2xpPjxsaT48YSBjbGFzcz0icmV3YXJkc1pvbmUgZWtmbGV4bWVudV9idXR0b24iIGhyZWY9Ii9yZXdhcmRzLyI+UmV3YXJkczwvYT48dWwgY2xhc3M9ImVrZmxleG1lbnVfc3VibWVudV9pdGVtc19oaWRkZW4gc3ViLXJld2FyZHNab25lIHN1Yk1lbnUiPjxsaSBjbGFzcz0ibm9sb2dpbnBhZ2UiPjxhIGNsYXNzPSJub2xvZ2lucGFnZSBla2ZsZXhtZW51X2J1dHRvbiIgaHJlZj0iL2pvaW4tcmV3YXJkcy9hYm91dHJld2FyZHMvIj5BYm91dCBSZXdhcmRzPC9hPjwvbGk+PGxpIGNsYXNzPSJub2xvZ2lucGFnZSI+PGEgY2xhc3M9Im5vbG9naW5wYWdlIGVrZmxleG1lbnVfYnV0dG9uIiBocmVmPSIvam9pbi1yZXdhcmRzL2ZhcS8iPkZBUVM8L2E+PC9saT48bGkgY2xhc3M9Im5vbG9naW5wYWdlIj48YSBjbGFzcz0ibm9sb2dpbnBhZ2UgZWtmbGV4bWVudV9idXR0b24iIGhyZWY9Ii9qb2luLXJld2FyZHMvcnVsZXMtYW5kLXBvbGljaWVzLyI+UnVsZXMgJmFtcDsgUG9saWNpZXM8L2E+PC9saT48bGkgY2xhc3M9ImxvZ2lucGFnZXMiIHN0eWxlPSJkaXNwbGF5Om5vbmU7Ij48YSBjbGFzcz0ibG9naW5wYWdlcyBla2ZsZXhtZW51X2J1dHRvbiIgaHJlZj0iL3Bvd2VyLWNhcmRzL1BvaW50c0JhbGFuY2VzUmVzdWx0cy8iPlBvaW50cyAmYW1wOyBCYWxhbmNlczwvYT48L2xpPjxsaSBjbGFzcz0ibG9naW5wYWdlcyIgc3R5bGU9ImRpc3BsYXk6bm9uZTsiPjxhIGNsYXNzPSJsb2dpbnBhZ2VzIGVrZmxleG1lbnVfYnV0dG9uIiBocmVmPSIvcmV3YXJkcy16b25lL215LXByb2ZpbGUvIj5NeSBQcm9maWxlPC9hPjwvbGk+PGxpIGNsYXNzPSJsb2dpbnBhZ2VzIiBzdHlsZT0iZGlzcGxheTpub25lOyI+PGEgY2xhc3M9ImxvZ2lucGFnZXMgZWtmbGV4bWVudV9idXR0b24iIGhyZWY9Ii9yZXdyZHMtem9uZS9teS1wcmVmZXJlbmNlcy8iPk15IFByZWZlcmVuY2VzPC9hPjwvbGk+PC91bD48L2xpPjwvdWw+ZAIGDw8WBh4IQ3NzQ2xhc3MFB3NpZ25PdXQfAgUHU0lHTiBJTh4EXyFTQgICZGQCBQ9kFgQCAQ9kFgICAg9kFgJmD2QWAgIBDxYCHgVjbGFzcwUQZHJvcHpvbmUgUEJDbGVhchYCAgMPFgIeC18hSXRlbUNvdW50AgEWAmYPZBYCAgEPFgQfBQUJUEJWaWV3aW5nHwAFC3dpZHRoOjEwMCU7FgICAQ9kFgICAw8WAh8GAgFkAgMPZBYCAgIPZBYCZg9kFgICAQ8WAh8FBRBkcm9wem9uZSBQQkNsZWFyFgICAw8WAh8GAgEWAmYPZBYCAgEPFgQfBQUJUEJWaWV3aW5nHwAFC3dpZHRoOjEwMCU7FgICAQ9kFgICAw8WAh8GAgFkGAMFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYCBRhjdGwwMCR1Y0hlYWRlciRidG5Hb01haW4FG2N0bDAwJHVjSGVhZGVyJEltYWdlQnV0dG9uMQVqY3RsMDAkdXhDb250ZW50Qm9keSREcm9wWm9uZTQkY29sdW1uRGlzcGxheSRjdGwwMCRjb250cm9sY29sdW1uJGN0bDAwJFdpZGdldEhvc3QkV2lkZ2V0SG9zdF93aWRnZXQkVmlld1NldA8PZGZkBWpjdGwwMCR1eENvbnRlbnRCb2R5JERyb3Bab25lMiRjb2x1bW5EaXNwbGF5JGN0bDAwJGNvbnRyb2xjb2x1bW4kY3RsMDAkV2lkZ2V0SG9zdCRXaWRnZXRIb3N0X3dpZGdldCRWaWV3U2V0Dw9kZmSYj8kQNr4pY443R7N0XqRoO5P20zUnO3DotwcWPVPcbw==">
 </div>
 
 
 <script src="/ScriptResource.axd?d=FmjPfNCozjYl4B0dcs52AY_V-BiiSjIxis19Kh_2UKfJA9xMcTZH5Xq2TIjAEmdXF_UZJfGfZ4SY7n0Uku0dNp2HzTGiGDO_JueNEs4Oz4ESn_3JN5rMlqw6mKkqr8kUw-gWK7MA8oOfZLVg0Q2eAkKm9Ft4l4W8z0CustmQ-Yw1&amp;t=ffffffff940d030f" type="text/javascript"></script>
 <div class="aspNetHidden">
 
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBQLJjrmoCwLPiqziCwLdi+3TDAL0t46kCwK5tvHOD4G5U5UFT3Xpq9heaEeZoHGEAlcWxV5A5DJwBD5yNzzp">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBQLnyPONDgLPiqziCwLdi+3TDAL0t46kCwK5tvHODyp6qvPDZSPF558UjESznTMZ2CvIHwlzhVhjmPp3Rx07">
 </div>
    <div id="modal">
 	<div id="surveyheading">
@@ -1261,7 +1276,7 @@ We are conducting a quick survey to help us better <br> understand what our site
 			
 			<div class="selectLocation">
     <div id="ctl00_ucHeader_nocurrentStore" class="search nocurrentStore" style="display:block;">
-        <input name="ctl00$ucHeader$textsearchfield" type="text" value="City, state, or zip" id="ctl00_ucHeader_textsearchfield" class="textLocation locationSearch searchinput" onfocus="locationSearchText(this,'City, state, or zip');" onkeypress="javascript:clickmainButton(event,'ctl00_ucHeader_btnGoMain');">
+        <input name="ctl00$ucHeader$textsearchfield" type="text" value="City, state, or zip" id="ctl00_ucHeader_textsearchfield" class="textLocation locationSearch searchinput ui-autocomplete-input" onfocus="locationSearchText(this,'City, state, or zip');" onkeypress="javascript:clickmainButton(event,'ctl00_ucHeader_btnGoMain');" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
         &nbsp;
         <input type="image" name="ctl00$ucHeader$btnGoMain" id="ctl00_ucHeader_btnGoMain" src="/images/dave/search-submit.gif" onclick="return CheckIfTextBoxisNull1();" style="border-width:0px;height:24px;width:64px;">
     </div>
@@ -1272,21 +1287,21 @@ We are conducting a quick survey to help us better <br> understand what our site
         &nbsp;<div style="float:left">  
          <input type="image" name="ctl00$ucHeader$ImageButton1" id="ctl00_ucHeader_ImageButton1" src="/images/change.gif" style="border-width:0px;height:24px;width:64px;">
       </div>   </div>
-</div>			<div id="locationBox">
-				<a href="javascript:;" class="closeLocBox">×</a>
-<div id="locBoxGraphic"><img src="../../../../images/location-poll-dnb.png" width="296" height="198" border="0"></div>
-				<div id="locBoxWrapper" class="clear">
+</div>			<div id="locationBox" style="display: none;">
+				<a href="javascript:;" class="closeLocBox" style="opacity: 0;">×</a>
+<div id="locBoxGraphic" style="opacity: 0;"><img src="../../../../images/location-poll-dnb.png" width="296" height="198" border="0"></div>
+				<div id="locBoxWrapper" class="clear" style="opacity: 0;">
 					<div id="locBox01" class="locBoxContainer floatLeft">
 						<img src="../../../../images/home-locbox-header-at-glance.png" width="185" height="40" border="0" class="clear">
-						<div class="scrollbar">
-							<div class="track">
-								<div class="thumb">
+						<div class="scrollbar" style="height: 260px;">
+							<div class="track" style="height: 260px;">
+								<div class="thumb" style="height: 60px;">
 									<div class="end"></div>
 								</div>
 							</div>
 						</div>
 						<div class="viewport">
-							<div class="locBoxContent overview">								
+							<div class="locBoxContent overview" style="top: 0px;">								
 								<div>
 									<p>
 										<strong>Hours</strong><br>
@@ -1307,15 +1322,15 @@ We are conducting a quick survey to help us better <br> understand what our site
 					<div class="locBoxSep floatLeft"></div>
 					<div id="locBox02" class="locBoxContainer floatLeft">
 						<img src="../../../../images/home-locbox-header-specials.png" width="185" height="40" border="0" class="clear">
-						<div class="scrollbar">
-							<div class="track">
-								<div class="thumb">
+						<div class="scrollbar" style="height: 260px;">
+							<div class="track" style="height: 260px;">
+								<div class="thumb" style="height: 60px;">
 									<div class="end"></div>
 								</div>
 							</div>
 						</div>
 						<div class="viewport">
-							<div class="locBoxContent overview">
+							<div class="locBoxContent overview" style="top: 0px;">
 								<div>
 									<p>
 										<strong>Happy Hour</strong><br>
@@ -1340,15 +1355,15 @@ We are conducting a quick survey to help us better <br> understand what our site
 					<div class="locBoxSep floatLeft"></div>
 					<div id="locBox03" class="locBoxContainer floatLeft">
 						<img src="../../../../images/home-locbox-header-events.png" width="185" height="40" border="0" class="clear">
-						<div class="scrollbar">
-							<div class="track">
-								<div class="thumb">
+						<div class="scrollbar" style="height: 260px;">
+							<div class="track" style="height: 260px;">
+								<div class="thumb" style="height: 60px;">
 									<div class="end"></div>
 								</div>
 							</div>
 						</div>
 						<div class="viewport">
-							<div class="locBoxContent overview">
+							<div class="locBoxContent overview" style="top: 0px;">
 								<div>
 									<p>
 										<strong class="textunderline">Dallas Mavericks vs Houston</strong><br>
@@ -1368,18 +1383,18 @@ We are conducting a quick survey to help us better <br> understand what our site
 						</div>
 					</div>
 				</div>
-				<div class="changelocation clear">
+				<div class="changelocation clear" style="opacity: 0;">
         <div class="labelText floatLeft">
             <span class="textunderline">8021 Walnut Hill Lane</span> | Dallas , TX 75231 | 214-361-5553</div>
         <input name="textLocation" type="text" class="floatLeft" id="textLocation" placeholder="City,state, or zip">
         <input name="cmdLocation" type="image" id="cmdLocation" src="/images/dave/ui-button-change-location.png" alt="CHANGE LOCATION" align="left" style="boder:0">
     </div>
-<br clear="all">
+<br clear="all" style="opacity: 0;">
 			</div>
 			<div id="navContainer">
 				<div class="main-menu">
                 
-            <ul><li><a class="location ekflexmenu_button" href="/locations/alllocations.aspx">Locations</a></li><li><a class="specials ekflexmenu_button" href="/Menu/">Eat</a><ul class="ekflexmenu_submenu_items_hidden sub-specials subMenu"><li><a class="ekflexmenu_button" href="/menu/only-at-d-and-b/">Only at D&amp;B</a></li><li><a class="ekflexmenu_button" href="/menu/EatNPlayCombo/">Eat, Play, Win Combo</a></li><li><a class="ekflexmenu_button" href="/menu/starters-snacks-soups-salads/">Starters, Snacks, Soups &amp; Salads</a></li><li><a class="ekflexmenu_button" href="/menu/entrees/">Entrees</a></li><li><a class="ekflexmenu_button" href="/menu/burgers-and-sandwiches/">Burgers &amp; Sandwiches</a></li><li><a class="ekflexmenu_button" href="/menu/under-600/">Under 600</a></li><li><a class="ekflexmenu_button" href="/menu/kids-menu/">Kids Menu</a></li><li><a class="ekflexmenu_button" href="/menu/desserts/">Dessert</a></li></ul></li><li><a class="daves-games ekflexmenu_button" href="/menu/drinks/">Drink</a></li><li><a class="busters-menu ekflexmenu_button" href="/games/games/">Play</a><ul class="ekflexmenu_submenu_items_hidden sub-busters-menu subMenu"><li><a class="ekflexmenu_button" href="/games/new-games/">Our Games</a></li><li><a class="ekflexmenu_button" href="/games/winners-circle/">Winner’s Circle</a></li><li><a class="ekflexmenu_button" href="/games/shuffle-billiards-lanes/">Bowling, Billiards, Shuffleboard</a></li></ul></li><li><a class="sportsBar ekflexmenu_button" href="/sportsbar/">Sports</a></li><li><a class="sportsBar ekflexmenu_button" href="/offers/">Promos</a></li><li><a class="planYourEvent ekflexmenu_button" href="/events/plan-your-event/">Parties &amp; Events</a><ul class="ekflexmenu_submenu_items_hidden sub-planYourEvent subMenu"><li><a class="ekflexmenu_button" href="/events/plan-your-event/">Plan your event</a></li><li><a class="ekflexmenu_button" href="/ContactPlanner.aspx">Contact a planner</a></li><li><a class="ekflexmenu_button" href="/events/plan-your-event/Special-Offers/">Special offers</a></li><li><a class="ekflexmenu_button" href="/venue-information.aspx">Venue information</a></li><li><a class="ekflexmenu_button" href="/events/plan-your-event/buffet-and-drink-options/">Buffet and drink options</a></li><li><a class="ekflexmenu_button" href="/events/send-an-evite/">Send an Evite</a></li></ul></li><li><a class="rewardsZone ekflexmenu_button" href="/rewards/">Rewards</a><ul class="ekflexmenu_submenu_items_hidden sub-rewardsZone subMenu"><li class="nologinpage"><a class="nologinpage ekflexmenu_button" href="/join-rewards/aboutrewards/">About Rewards</a></li><li class="nologinpage"><a class="nologinpage ekflexmenu_button" href="/join-rewards/faq/">FAQS</a></li><li class="nologinpage"><a class="nologinpage ekflexmenu_button" href="/join-rewards/rules-and-policies/">Rules &amp; Policies</a></li><li class="loginpages" style="display:none;"><a class="loginpages ekflexmenu_button" href="/power-cards/PointsBalancesResults/">Points &amp; Balances</a></li><li class="loginpages" style="display:none;"><a class="loginpages ekflexmenu_button" href="/rewards-zone/my-profile/">My Profile</a></li><li class="loginpages" style="display:none;"><a class="loginpages ekflexmenu_button" href="/rewrds-zone/my-preferences/">My Preferences</a></li></ul></li></ul>
+            <ul><li><a class="location ekflexmenu_button" href="/locations/alllocations.aspx">Locations</a></li><li><a class="specials ekflexmenu_button" href="/Menu/">Eat</a><ul class="ekflexmenu_submenu_items_hidden sub-specials subMenu"><li><a class="ekflexmenu_button" href="/menu/only-at-d-and-b/">Only at D&amp;B</a></li><li><a class="ekflexmenu_button" href="/menu/EatNPlayCombo/">Eat, Play, Win Combo</a></li><li><a class="ekflexmenu_button" href="/menu/starters-snacks-soups-salads/">Starters, Snacks, Soups &amp; Salads</a></li><li><a class="ekflexmenu_button" href="/menu/entrees/">Entrees</a></li><li><a class="ekflexmenu_button" href="/menu/burgers-and-sandwiches/">Burgers &amp; Sandwiches</a></li><li><a class="ekflexmenu_button" href="/menu/under-600/">Under 600</a></li><li><a class="ekflexmenu_button" href="/menu/kids-menu/">Kids Menu</a></li><li><a class="ekflexmenu_button" href="/menu/desserts/">Dessert</a></li></ul></li><li><a class="daves-games ekflexmenu_button" href="/menu/drinks/">Drink</a></li><li><a class="busters-menu ekflexmenu_button" href="/games/games/">Play</a><ul class="ekflexmenu_submenu_items_hidden sub-busters-menu subMenu"><li><a class="ekflexmenu_button" href="/games/new-games/">Our Games</a></li><li><a class="ekflexmenu_button" href="/games/winners-circle/">Winner’s Circle</a></li><li><a class="ekflexmenu_button" href="/games/shuffle-billiards-lanes/">Bowling, Billiards, Shuffleboard</a></li></ul></li><li><a class="sportsBar ekflexmenu_button" href="/sportsbar/">Sports</a></li><li><a class="sportsBar ekflexmenu_button" href="/offers/">Promos</a></li><li><a class="planYourEvent ekflexmenu_button" href="/events/plan-your-event/">Parties &amp; Events</a><ul class="ekflexmenu_submenu_items_hidden sub-planYourEvent subMenu"><li><a class="ekflexmenu_button" href="/events/plan-your-event/">Plan your event</a></li><li><a class="ekflexmenu_button" href="/ContactPlanner.aspx">Contact a planner</a></li><li><a class="ekflexmenu_button" href="/events/plan-your-event/Special-Offers/">Special offers</a></li><li><a class="ekflexmenu_button" href="/venue-information.aspx">Venue information</a></li><li><a class="ekflexmenu_button" href="/events/plan-your-event/buffet-and-drink-options/">Buffet and drink options</a></li></ul></li><li><a class="rewardsZone ekflexmenu_button" href="/rewards/">Rewards</a><ul class="ekflexmenu_submenu_items_hidden sub-rewardsZone subMenu"><li class="nologinpage"><a class="nologinpage ekflexmenu_button" href="/join-rewards/aboutrewards/">About Rewards</a></li><li class="nologinpage"><a class="nologinpage ekflexmenu_button" href="/join-rewards/faq/">FAQS</a></li><li class="nologinpage"><a class="nologinpage ekflexmenu_button" href="/join-rewards/rules-and-policies/">Rules &amp; Policies</a></li><li class="loginpages" style="display:none;"><a class="loginpages ekflexmenu_button" href="/power-cards/PointsBalancesResults/">Points &amp; Balances</a></li><li class="loginpages" style="display:none;"><a class="loginpages ekflexmenu_button" href="/rewards-zone/my-profile/">My Profile</a></li><li class="loginpages" style="display:none;"><a class="loginpages ekflexmenu_button" href="/rewrds-zone/my-preferences/">My Preferences</a></li></ul></li></ul>
 			  </div>
 			</div>
 			<div class="utilityNav">
@@ -1583,7 +1598,7 @@ Statement. </div>
         m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
 
-       ga('create', 'UA-41010993-1', 'daveandbusters.com');
+       ga('create', 'UA-41468245-1', 'daveandbusters.com');
        ga('send', 'pageview');
 
     </script>
@@ -1593,7 +1608,7 @@ Statement. </div>
 <div id="footerContainer">
 	<div id="footer">
 		<div id="footerSlides" class="whatsNew">
-			<div class="slides_container"> 
+			<div class="slides_container" style="overflow: hidden; position: relative; display: block;"> 
 				<!--Facebook -->
 				
 				<!--Twitter -->
@@ -1602,52 +1617,52 @@ Statement. </div>
                  
                     
         
-        <div class="slider">
+        <div class="slides_control" style="position: relative; width: 2400px; height: 24px; left: -800px;"><div class="slider" style="position: absolute; top: 0px; left: 800px; z-index: 0;">
 					<div class="icon"><img src="/images/dave/slider-twitter-icon.gif" width="51" height="24" alt=""></div>
 					<div class="Content">
-                    DaveandBusters: Who was a winner at D&amp;B this weekend? Share your photos with us #dandbwin! We would love to see! -  11:31  AM Jun 10</div>
+                    DaveandBusters: @yunghazel251 You can browse all of our openings here: http://t.co/N3WdEObOtj Thanks.!. -  4:06  PM Feb 28</div>
 					<div class="curve"><img src="/images/dave/slider-curve-icon.gif" width="11" height="24" alt=""></div>
-				</div>
-    
-        
-    
-        
-        <div class="slider">
+				</div><div class="slider" style="position: absolute; top: 0px; left: 800px; z-index: 0; display: none;">
 					<div class="icon"><img src="/images/dave/slider-twitter-icon.gif" width="51" height="24" alt=""></div>
 					<div class="Content">
-                    DaveandBusters: @trayce Open rain or shine! Hope you have a great time! #eatplaywin -  11:11  AM Jun 10</div>
+                    DaveandBusters: @luchhydoll_ Then come over and get one! And maybe play a few games, as well! -  4:06  PM Feb 28</div>
 					<div class="curve"><img src="/images/dave/slider-curve-icon.gif" width="11" height="24" alt=""></div>
-				</div>
-    
-        
-    
-        
-        <div class="slider">
+				</div><div class="slider" style="position: absolute; top: 0px; left: 800px; z-index: 0; display: none;">
 					<div class="icon"><img src="/images/dave/slider-twitter-icon.gif" width="51" height="24" alt=""></div>
 					<div class="Content">
-                    DaveandBusters: @JoshGray72 Hi Josh! We cannot confirm any new location announcements at this time but we appreciate the suggestion! -  10:06  AM Jun 7</div>
+                    DaveandBusters: @adambags Awesome! We can’t wait to see everyone, especially the winner of the Bobble Head Trophy! -  4:06  PM Feb 28</div>
 					<div class="curve"><img src="/images/dave/slider-curve-icon.gif" width="11" height="24" alt=""></div>
-				</div>
-    
-        
-    
-        
-        <div class="slider">
+				</div><div class="slider" style="position: absolute; top: 0px; left: 800px; z-index: 0; display: none;">
 					<div class="icon"><img src="/images/dave/slider-twitter-icon.gif" width="51" height="24" alt=""></div>
 					<div class="Content">
-                    DaveandBusters: @B3thanyyyy Hi Bethany - Please give our Guest Services team a call at 888-300-1515 to let them know more about it so we can make it right! -  4:33  PM Jun 6</div>
+                    DaveandBusters: Let’s hear your best one-liners to describe the takedown delivered by Douglas Lima in this @BellatorMMA fight: http://t.co/F6oKQ4IknT -  4:01  PM Feb 28</div>
 					<div class="curve"><img src="/images/dave/slider-curve-icon.gif" width="11" height="24" alt=""></div>
-				</div>
-    
-        
-    
-        
-        <div class="slider">
+				</div><div class="slider" style="position: absolute; top: 0px; left: 800px; z-index: 0; display: none;">
 					<div class="icon"><img src="/images/dave/slider-twitter-icon.gif" width="51" height="24" alt=""></div>
 					<div class="Content">
-                    DaveandBusters: @ThelennaK Sounds like a great way to bring people together! -  3:37  PM Jun 6</div>
+                    DaveandBusters: Restaurant, Midway and Winner's circle. The trifecta of magic also known as our NEW Eat, Play, Win combo:&nbsp;http://t.co/BbtBAizn0K -  11:20  AM Feb 28</div>
 					<div class="curve"><img src="/images/dave/slider-curve-icon.gif" width="11" height="24" alt=""></div>
-				</div>
+				</div></div>
+    
+        
+    
+        
+        
+    
+        
+    
+        
+        
+    
+        
+    
+        
+        
+    
+        
+    
+        
+        
     
     
 
@@ -1683,4 +1698,4 @@ Statement. </div>
 
 
 
-</body></html>
+<ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" role="listbox" aria-activedescendant="ui-active-menuitem" style="z-index: 40; top: 0px; left: 0px; display: none;"></ul></body></html>
