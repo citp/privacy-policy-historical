@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bkmag.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615000525id_/http%3A//www.bkmag.com/brooklyn/PrivacyPolicyBKMag/Page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bkmag.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814215119id_/http%3A//www.bkmag.com/brooklyn/PrivacyPolicyBKMag/Page) for the most accurate reproduction.*
 
 # Privacy Policy (BKMag) | Brooklyn Magazine
 
