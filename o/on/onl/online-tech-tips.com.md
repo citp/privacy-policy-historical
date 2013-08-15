@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the online-tech-tips.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607162339id_/http%3A//www.online-tech-tips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the online-tech-tips.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815124049id_/http%3A//www.online-tech-tips.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Posted on September 4, 2008 at 2:57 pm 
 
 **Privacy Policy for Online-Tech-Tips.com**
 
@@ -35,5 +33,3 @@ Spam in any form will not be accepted.
 **Copyrights**
 
 Supreme caution has been taken to make sure that there are no copyright infringements in terms of the multimedia content and the subject matter that is posted in this blog. If you find anything that could be considered a violation of the copyright norms, please [contact m](http://www.online-tech-tips.com/contact-me/)e immediately.
-
-» Filed Under | [Leave a Comment](http://www.online-tech-tips.com/privacy-policy/#respond "Comment on Privacy Policy")
