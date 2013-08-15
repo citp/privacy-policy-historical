@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the divachix.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116144927id_/http%3A//www.divachix.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divachix.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815231033id_/http%3A//www.divachix.com/privacy.shtml) for the most accurate reproduction.*
 
-# Dress Up Games| Diva Chix: The Fashionista's Playground
+# Dress Up Games | Diva Chix: The Fashionista's Playground
 
 ## Privacy Policy
 
