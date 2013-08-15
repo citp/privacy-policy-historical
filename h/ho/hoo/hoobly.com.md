@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hoobly.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425015340id_/http%3A//www.hoobly.com/m/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoobly.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815205521id_/http%3A//www.hoobly.com/m/privacy) for the most accurate reproduction.*
 
-# Hoobly: Privacy Policy
+# Privacy Policy - Hoobly Classifieds
 
 The privacy of our visitors to Hoobly is important to us.
 
