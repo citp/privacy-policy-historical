@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metservice.co.nz privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616090634id_/http%3A//about.metservice.com/about/about-this-site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metservice.co.nz privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816004819id_/http%3A//about.metservice.com/about/about-this-site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » MetService About Section
 
