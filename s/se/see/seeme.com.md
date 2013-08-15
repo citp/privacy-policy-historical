@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seeme.com privacy policy that was archived on 2013-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130125195513id_/http%3A//www.seeme.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seeme.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815143306id_/http%3A//www.seeme.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SeeMe.com
 
