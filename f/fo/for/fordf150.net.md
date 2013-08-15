@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fordf150.net privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429201822id_/http%3A//www.fordf150.net/misc/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fordf150.net privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815035809id_/http%3A//www.fordf150.net/misc/privacy-policy.php) for the most accurate reproduction.*
 
 # FordF150.net Privacy Policy
 
