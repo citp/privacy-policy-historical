@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the web-view.net privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626002957id_/http%3A//www.activetrail.com/about_us/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web-view.net privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815113202id_/http%3A//www.activetrail.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Business Email Marketing Software & Solutions - Activetrail.com
-
-[](https://web.archive.org/support/request-a-demo/)  [](https://web.archive.org/support/contact-us/)
+# Privacy Policy « Business Email Marketing Software & Solutions – Activetrail.com
 
 ## Activetrail – Privacy Policy
 
- **ActiveTrail email marketing solutions is committed to personal privacy and the ethical use of email business and marketing communications.**
+**ActiveTrail email marketing solutions is committed to personal privacy and the ethical use of email business and marketing communications.**
 
 This statement discloses the privacy practices of ActiveTrail™ under the auspices of The CommerceAge Group.
 
@@ -37,5 +35,3 @@ The name “ActiveTrail” is a registered trademark owned by ActiveTrail™ and
 We may change our privacy policy in the future. Any changes to our privacy policy will be made available online. If you have any questions about our privacy policy, the practices of this website, or your dealings with our company, please [click here](https://web.archive.org/support/contact-us/?to=Info) to email us. Please see our [Spam Policy](https://web.archive.org/about-us/anti-spam/).
 
 Are you still reading? Request a demo from Activetrail today and start sending!
-
-[](https://web.archive.org/support/request-a-demo/) [](https://web.archive.org/support/contact-us/)
