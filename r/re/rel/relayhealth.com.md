@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the relayhealth.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423213234id_/http%3A//www.relayhealth.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relayhealth.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815032005id_/http%3A//www.relayhealth.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | RelayHealth
 
