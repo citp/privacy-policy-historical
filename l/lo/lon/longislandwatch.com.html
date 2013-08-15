@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the longislandwatch.com privacy policy that was archived on 2013-06-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130612011519id_/http%3A//www.longislandwatch.com/Terms_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the longislandwatch.com privacy policy that was archived on 2013-08-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130815093647id_/http%3A//www.longislandwatch.com/Terms_privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -13,6 +13,7 @@
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/gtmp_compiled.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js"></script>
 <link type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/themes/base/jquery-ui.css" rel="stylesheet">
+<link type="text/css" href="/a/c/default.css" rel="stylesheet">
 
 
 <script type="text/javascript">
@@ -28,7 +29,30 @@
     var PageText_843 = "Subtotal";
     var PageText_844 = "items in cart";
 </script>
+<script type="text/javascript" src="/a/j/volusion.js?6.41.0.221"></script>
+<script type="text/javascript">
+    (function ($) {
+        volusion.ready(function () {
+            if (volusion.cart.isObservingCount()) {
+                var ts = new Date().getTime();
 
+                $.getJSON('/ajaxcart.asp?cachebust=' + ts, function (data) {
+                    var quantityTotal = 0;
+                    $.each(data.Products, function (key, val) {
+                        if (val.IsProduct === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        } else if (val.IsAccessory === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        }
+                    });
+                    quantityTotal = quantityTotal || '0';
+                    volusion.cart.itemCount(quantityTotal);
+                });
+
+            }
+        });
+    } (jQuery));
+</script>
 
 
 <script type="text/javascript" src="/a/j/soft_add.js"></script>
@@ -41,7 +65,7 @@
 </script>
 
 <script type="text/javascript" src="/a/j/soft_add_mult.js"></script>
-<script type="text/javascript" src="/a/j/javascripts.js?6_5_6.34.4.92"></script>
+<script type="text/javascript" src="/a/j/javascripts.js?6_5_6.41.0.221"></script>
 
 <script type="text/javascript" src="/a/j/vcompare.js"></script>
 <link type="text/css" rel="stylesheet" href="/a/c/VCompare.css">
@@ -84,7 +108,6 @@
     })();
 </script>
 <!-- END: Google Trusted Store --> 
-
 
 
 
@@ -164,7 +187,7 @@ function MM_swapImage() { //v3.0
         <li><a href="http://www.longislandwatch.com/default.asp">Home</a></li>
         <li><a href="http://www.longislandwatch.com/AboutUs.asp">About Us</a></li>
         <li><a href="help.asp">Ordering FAQ</a></li>
-        <li><a href="Articles.asp?ID=253">Watch FAQ</a></li>
+        <li><a href="Articles.asp?ID=256">100% Authentic Watches</a></li>
         <li><a href="Terms_privacy.asp">Privacy/Security</a></li>
       <li><a href="mailto:sales@longislandwatch.com?subject=Contact%20Us">Contact Us</a></li>
 	<li><a href="http://www.facebook.com/IslandWatch" id="horznav_end" target="_blank"><img src="/v/vspfiles/assets/images/facebook-f.png" border="0" style="vertical-align: middle;"></a></li>
@@ -208,6 +231,9 @@ function mClk1(src, popup)
 	<a href="http://www.longislandwatch.com/Bertucci_Performance_Field_Watches_s/1820.htm" title="Bertucci Performance Field Watches">Bertucci</a>
 </li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
+	<a href="http://www.longislandwatch.com/Casio_Watches_s/1898.htm" title="Casio Watches">Casio</a>
+</li>
+<li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
 	<a href="http://www.longislandwatch.com/Charles_Hubert_s/1821.htm" title="Charles Hubert">Charles Hubert</a>
 </li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
@@ -223,16 +249,19 @@ function mClk1(src, popup)
 	<a href="http://www.longislandwatch.com/Hirsch_Watch_Bands_s/1888.htm" title="Hirsch Watch Bands">Hirsch</a>
 </li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
+	<a href="http://www.longislandwatch.com/Jacques_Lemans_Watches_s/1902.htm" title="Jacques Lemans Watches">Jacques Lemans</a>
+</li>
+<li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
 	<a href="http://www.longislandwatch.com/Junkers_German_Made_Watches_s/1825.htm" title="Junkers German Made Watches">Junkers</a>
 </li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
 	<a href="http://www.longislandwatch.com/Laco_Legendary_German_Pilot_Watches_s/1826.htm" title="Laco Legendary German Pilot Watches">Laco</a>
 </li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
-	<a href="http://www.longislandwatch.com/Maximilian_Atomic_Watches_s/1827.htm" title="Maximilian Atomic Watches">Maximilian Atomic</a>
+	<a href="http://www.longislandwatch.com/Messerschmitt_German_Pilot_Watches_s/1831.htm" title="Messerschmitt German Pilot Watches">Messerschmitt</a>
 </li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
-	<a href="http://www.longislandwatch.com/Messerschmitt_German_Pilot_Watches_s/1831.htm" title="Messerschmitt German Pilot Watches">Messerschmitt</a>
+	<a href="http://www.longislandwatch.com/Mondaine_Railway_Watches_Swiss_Made_s/1899.htm" title="Mondaine Railway Watches-Swiss Made">Mondaine</a>
 </li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
 	<a href="http://www.longislandwatch.com/Mondia_Italian_Designed_Watches_s/1832.htm" title="Mondia Italian Designed Watches">Mondia</a>
@@ -379,6 +408,9 @@ function mClk3(src, popup)
 	<a href="http://www.longislandwatch.com/category_s/1853.htm" title="">Deployant Clasp</a>
 </li>
 <li class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
+	<a href="http://www.longislandwatch.com/category_s/1901.htm" title="">Spring Bars</a>
+</li>
+<li class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
 	<a href="http://www.longislandwatch.com/Watch_Bands_s/1852.htm" title="Watch Bands">Watch Bands</a>
 </li>
 <li class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
@@ -420,11 +452,14 @@ function mClk8(src, popup)
 <li class="nav" onmouseover="mOvr8(this);" onmouseout="mOut8(this);" onclick="mClk8(this);">
 	<a href="/Articles.asp?ID=250" title="">Watch Care</a>
 </li>
+<li class="nav" onmouseover="mOvr8(this);" onmouseout="mOut8(this);" onclick="mClk8(this);">
+	<a href="/Articles.asp?ID=253" title="">Watch FAQ</a>
+</li>
 </ul>
 </div>
 
             <div id="display_promotions_999"><div id="VolusionVerified"></div>
-                                <script type="text/javascript" src="https://verify.volusion.com/verification/www.longislandwatches.com" defer="defer"></script><style type="text/css">#volusion_ssl_seal { behavior: url(/a/iepngfix.htc); }</style><br><a href="javascript:void(0);" onclick="window.open('https://www.volusion.com/ssl.asp?url=www.longislandwatch.com', 'VolusionSSL', 'top=10,left=10,menubar=0,resizable=0,scrollbars=0,width=467,height=467')"><img id="volusion_ssl_seal" src="/a/i/seal_volusion2.png" border="0" height="58" width="137"></a><br><br>
+                                <script type="text/javascript" src="https://verify.volusion.com/verification/www.longislandwatches.com" defer="defer"></script><br>
 <a href="http://www.facebook.com/pages/Island-Watch/171600369544116" target="_blank">
 <img src="/v/vspfiles/assets/images/facebook_01.gif" border="0">
 </a>
@@ -435,7 +470,7 @@ function mClk8(src, popup)
 <br>
 <a href="http://www.timetechtalk.com" target="_blank">
 <img src="/v/vspfiles/assets/images/timetechtalk_01.gif" border="0">
-</a></div>
+</a><style type="text/css">#volusion_ssl_seal { behavior: url(/a/iepngfix.htc); }</style><br><a href="javascript:void(0);" onclick="window.open('https://www.volusion.com/ssl.asp?url=www.longislandwatch.com', 'VolusionSSL', 'top=10,left=10,menubar=0,resizable=0,scrollbars=0,width=467,height=467')"><img id="volusion_ssl_seal" src="/a/i/seal_volusion2.png" border="0" height="58" width="137"></a><br></div>
           </td>
           <td id="content_area" valign="top">
     <table width="100%" border="0" cellspacing="5" cellpadding="5" align="center">
@@ -511,13 +546,13 @@ function mClk8(src, popup)
       </div>
 
       <div id="copyright">
-        <p><a href="http://www.longislandwatch.com/terms.asp">Copyright © <script type="text/javascript">document.write((new Date()).getFullYear());</script>2020  &nbsp;Island Watch. All Rights Reserved.</a> Site design by <a href="http://www.vortexgraphics.com" target="_blank">Vortex Graphics, Inc.</a></p><a href="http://www.vortexgraphics.com" target="_blank">
+        <p><a href="http://www.longislandwatch.com/terms.asp">Copyright © <script type="text/javascript">document.write((new Date()).getFullYear());</script>2020  &nbsp;Island Watch. All Rights Reserved.</a> Site design by <a href="http://www.vortexgraphics.com" target="_blank">Vortex Graphics, Inc. </a><a href="http://www.volusion.com" title="Shopping Cart Software" class="footer colors_background2_text" target="_blank">Shopping Cart Software</a> by Volusion</p>
 
 
-      </a></div><a href="http://www.vortexgraphics.com" target="_blank">
-    </a></div><a href="http://www.vortexgraphics.com" target="_blank">
-  </a></div><a href="http://www.vortexgraphics.com" target="_blank">
-</a></div><a href="http://www.vortexgraphics.com" target="_blank">
+      </div>
+    </div>
+  </div>
+</div>
 
 <script type="text/javascript">
 
@@ -563,4 +598,4 @@ window.onload = function(){
 </script>
 
 
-</a></body></html>
+</body></html>
