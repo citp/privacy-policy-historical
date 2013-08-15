@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the digitalchalk.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118065043id_/http%3A//www.digitalchalk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalchalk.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815224203id_/http%3A//www.digitalchalk.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | DigitalChalk
+# Privacy Policy | Online Training Software & Learning Management System
 
 Digitalchalk.com is committed to protecting your personal information. As a reminder, Digitalchalk.com does not request personal information via e-mail or telemarketing. If someone contacts you in this manner and requests personal information on behalf of DigitalChalk.com, DO NOT RESPOND! Delete, disregard or hang up. These questions are not from us. We want your personal information to remain private. If you have questions about Digitalchalk.com’s privacy practices, contact us at 1-828-665-8292.
 
@@ -94,7 +94,7 @@ Digitalchalk.com is an opt-out organization. Once we receive your information, w
 
 To opt-out of or opt-in to receiving marketing communications from Digitalchalk.com, please take one of the following actions:
 
-1) Follow the directions on a marketing e-mail or direct mail marketing communication from us. All marketing communications from Digitalchalk.com will tell you how to stop receiving them.   
+1) Follow the directions on a marketing e-mail or direct mail marketing communication from us. All marketing communications from Digitalchalk.com will tell you how to stop receiving them.  
 2) Call 1-828-665-8292 and provide your current contact information.  
 3) Send an e-mail with your current contact information and the subject “Opt-Out” to info@digitalchalk.com  
 4) You may also send a request with your current contact information to:
