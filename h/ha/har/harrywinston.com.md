@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harrywinston.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425084403id_/http%3A//www.harrywinston.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harrywinston.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815205251id_/http%3A//www.harrywinston.com/privacy) for the most accurate reproduction.*
 
 # privacy
 
