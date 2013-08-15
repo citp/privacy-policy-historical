@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the natashaclub.com privacy policy that was archived on 2013-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130331000754id_/http%3A//www.natashaclub.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the natashaclub.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815135537id_/http%3A//www.natashaclub.com/privacy.html) for the most accurate reproduction.*
 
 # Natasha Club privacy statement
 
