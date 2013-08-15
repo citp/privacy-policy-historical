@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tabfusion.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528172400id_/http%3A//www.tabfusion.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tabfusion.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815211705id_/http%3A//www.tabfusion.com/privacy.php) for the most accurate reproduction.*
 
 # Tabfusion - Tab Applications for your Facebook Fan Pages
 
