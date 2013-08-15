@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geekculture.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426193523id_/http%3A//www.geekculture.com/culture/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekculture.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815030103id_/http%3A//www.geekculture.com/culture/privacy.html) for the most accurate reproduction.*
 
 # Privacy @ Geek Culture
 
