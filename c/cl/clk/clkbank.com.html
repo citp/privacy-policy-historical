@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the clkbank.com privacy policy that was archived on 2011-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110623192348id_/https%3A//www.clickbank.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the clkbank.com privacy policy that was archived on 2013-08-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130815030434id_/https%3A//www.clkbank.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <!-- Copyright should show -->
@@ -7,53 +7,40 @@
     <meta http-equiv="Pragma" content="no-cache">
     <meta http-equiv="Expires" content="0">
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <meta name="copyright" content="2011 ClickBank All Rights Reserved">
+    <meta name="copyright" content="2013 ClickBank All Rights Reserved">
 
-    <link rel="icon" href="/images/mkweb20/clickbank_logo.ico" type="image/x-icon">
+    <link rel="icon" href="/images/favicon.ico" type="image/x-icon">
 
     <title>Privacy Policy - ClickBank</title>
-    <script type="text/javascript" src="/scripts/jquery/jquery-1.3.2.min.js"></script>
+
+    <script type="text/javascript" src="/scripts/jquery/jquery-1.7.1.min.js"></script>
     <script type="text/javascript" src="/scripts/cbcommon.js"></script>
-    
+
+    <link rel="stylesheet" type="text/css" media="all" href="/styles/mkweb20/header.css?20130801-113805">
+    <link rel="stylesheet" type="text/css" media="all" href="/styles/mkweb20/main.css?20130801-113805">
+    <link rel="stylesheet" type="text/css" media="all" href="/styles/mkweb20/footer.css?20130801-113805">
+    <link rel="stylesheet" type="text/css" media="all" href="/styles/cssButton.css?20130801-113805">
+    <link rel="stylesheet" type="text/css" media="all" href="/styles/support.css?20130801-113805">
 
     
 
     
-
-    <link rel="stylesheet" type="text/css" media="all" href="/styles/mkweb20/header.css">
-
-    
-    <link rel="stylesheet" type="text/css" media="all" href="/styles/mkweb20/main.css">
-    <link rel="stylesheet" type="text/css" media="all" href="/styles/mkweb20/main_en.css">
-    <link rel="stylesheet" type="text/css" media="all" href="/styles/mkweb20/footer.css">
-    <link rel="stylesheet" type="text/css" media="all" href="/styles/roundedCorners2.css">
-
-    
-
-    
-        <script type="text/javascript" src="/scripts/jquery/jquery-ui-1.7.1.custom.min.js"></script>
+        <script type="text/javascript" src="/scripts/jquery/jquery-ui-1.8.16.custom.min.js"></script>
         
-        <link rel="stylesheet" type="text/css" media="all" href="/styles/mkweb20/jqueryui/jquery-ui-1.7.1.custom.css">
+        <link rel="stylesheet" type="text/css" media="all" href="/styles/jquery/jquery-ui-1.8.16.custom.css?20130801-113805">
     
-
-    <script type="text/javascript">
-        
-        <!--
-    	function openJMAP(m, pct){
-            window.open('/info/jmap.htm?vendor='+m,'link','resizable,scrollbars=no,width=800,height=390');
-        }
-        -->
-    </script>
-
     
 	
     <meta name="keywords" content="Affiliate Program, Affiliate Network, Promote Products, Sell eBook Online, Sell Download Online, Sell Software Online, Sell Digital Products Online, Merchant Account, Affiliates">
     <meta name="description" content="ClickBank is the Internet's leading retailer of digital products. Whether you're looking to sell, promote, or shop for digital goods, ClickBank is for you.">
-    <style>
+    <script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script><style>
         .truste_content a img {
             border: none;
             margin: 3px 10px;
             vertical-align: middle;
+        }
+        .truste_content div {
+            text-align: center;
         }
     </style>
 
@@ -75,7 +62,7 @@
         }
 
         #body {
-            padding-bottom: 125px;
+            padding-bottom: 50px;
             width: 800px;
             margin: 0 auto;
             text-align: left;
@@ -86,8 +73,8 @@
             position: absolute;
             bottom: 0;
             width: 100%;
-            background: #f4eeeb;
-            height: 125px;
+            background: #e6e6e6;
+            height: 50px;
         }
     </style>
     <!--[if lt IE 7]>
@@ -102,249 +89,70 @@
 <div id="container">
     <div id="header">
 
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
- 
-
-
-
     
     
-    
-    
-    
-        
-    
-    
-    
-    
-    
-    
-    
+
+
 
 
 <script type="text/javascript">
-    $(document).ready(function() {
-        $("#searchQueryField").focus(function() { 
-            if($(this).val() == "Search") {
-                $(this).attr("value", "");
-                $(this).css("color", "#000000");
-            }
+    $(document).ready(function () {
+        $(".main_navigation").find("li").each(function () {
+            $(this).click(function () {
+                var link = $(this).find('a');
+                if(undefined == link.attr("target") || link.attr("target") == "") {
+                    window.location = $(this).find('a').attr("href");
+                } else {
+                    window.open(link.attr("href"), link.attr("target"));
+                }
+            });
         });
-        
-        $("#searchQueryField").blur(function() { 
-            if($(this).val() == "") {
-                $(this).attr("value", "Search");
-                $(this).css("color", "#9b8579");
-            }
-        });
-    
-        $("#topSearch").submit(function() {
-            var value = $("#searchQueryField").attr("value");
-            if(value != "" && value != "Search") {
-                submit();
-            } else {
-                return false;
-            }  
-        });
-        
-        $("#searchQueryField").css("color", "#9b8579");
     });
 </script>
 
-    
-    
-        
-    
-
 <div class="header" align="center">
     <div class="topheader" width="100%">
-        <table cellpadding="0" cellspacing="0" width="800">
+        <table cellpadding="0" cellspacing="0" style="width: 970px;">
             <tbody><tr>
                 <td rowspan="2" valign="middle">
                     <script type="text/javascript">
-                        document.write('<a href="/index.html"><img src="/images/mkweb20/header/logo.gif?j=1" alt="ClickBank" border="0"/></a>');
-                    </script><a href="/index.html"><img src="/images/mkweb20/header/logo.gif?j=1" alt="ClickBank" border="0"></a>
+                        document.write('<a href="http://www.clickbank.com/index.html"><img src="/images/mkweb20/header/cb-logo-200x65.gif?j=1" alt="ClickBank" border="0"/></a>');
+                    </script><a href="http://www.clickbank.com/index.html"><img src="/images/mkweb20/header/cb-logo-200x65.gif?j=1" alt="ClickBank" border="0"></a>
                     <noscript>
-                        <a href="/index.html"><img src="/images/mkweb20/header/logo.gif?j=0" alt="ClickBank" border="0"/></a>
+                        <a href="/index.html"><img
+                            src="/images/mkweb20/header/cb-logo-200x65.gif?j=0" alt="ClickBank"
+                            border="0"/></a>
                     </noscript>
                 </td>
-                <td class="static_header" valign="middle">
+                <td class="static_header" valign="middle" align="right">
                     
-                        <form name="search" id="topSearch" action="/search.html" method="get" style="padding:0px;margin:0px;">
-                            <table align="right" cellpadding="0" cellspacing="0">
-                                <tbody><tr>
-                                    <td class="static_header_links">
-                                        <a href="/index.html">Home</a> |
-                                        <a href="/accountSignup.htm">Sign Up</a> |
-                                        <a href="/marketplace.htm">Marketplace</a> |
-                                        <a href="/orderDetail.htm?clear=true">Order Help</a> |
-                                        <a href="/blog">Blog</a> |
-                                        
-                                            
-                                            
-                                                <a href="/account/mainMenu.htm">Log In</a>
-                                            
-                                        
-                                    </td>
-                                    <td class="search_header_search">
-                                        <input type="text" class="text" value="Search" name="query" id="searchQueryField" style="color: rgb(155, 133, 121);">
-                                    </td>
-                                    <td valign="middle">
-                                        <input type="image" src="/images/mkweb20/search_button.png" alt="search" style="padding: 0; border: none; height: 18px; width: 18px;" onclick="$('#topSearch').submit();">
-                                    </td>
-                                </tr>
-                            </tbody></table>
-
-                        </form>
-                    
-                </td>
-            </tr>
-            <tr>
-                <td valign="bottom" class="navigation_table" align="right">
-                    <div id="navigation_tabs">
                         
-                            <table cellpadding="0" cellspacing="0" align="right" class="navigation_tabs">
-                                <tbody><tr>
-                                    <td class="navigation_tab navigation_tab_inactive" onclick="window.location='/sell_products.html'"><a href="/sell_products.html" onclick="return false;">Sell Products</a></td>
-                                    <td class="navigation_tab navigation_tab_inactive" onclick="window.location='/promote_products.html'"><a href="/promote_products.html" onclick="return false;">Promote Products</a>
-                                    </td>
-                                    <td class="navigation_tab navigation_tab_inactive" onclick="window.location='/buy_products.htm'"><a href="/buy_products.htm" onclick="return false;">Buy Products</a></td>
-                                    <td class="navigation_tab navigation_tab_active" onclick="window.location='/about_us.html'"><a href="/about_us.html" onclick="return false;">About Us</a></td>
-                                    <td class="navigation_tab navigation_last navigation_tab_inactive" onclick="window.location='/help/en'"><a href="/help/en" onclick="return false;">Help Center</a>
-                                    </td>
-                                </tr>
-                            </tbody></table>
-                        
-                    </div>
-                </td>
-            </tr>
-        </tbody></table>
-    </div>
-    <div class="sub_nav_row">
-        <table cellpadding="0" cellspacing="0" width="800px">
-            <tbody><tr>
-                
-                    
-                    
-                        <td class="subnavigation">
                             
-                            <div>
-                                
-                                    
-                                    
-                                    
-                                    
-                                        
-
-<span style="height:20px;overflow:visible;">
 
     
-        <a href="/about_us.html">About Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     
-</span>
-                                        
-                                            
-
-<span style="height:20px;overflow:visible;">
-
-    
-        <a href="/client_testimonials.html">Client Testimonials</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    
-</span>
-                                        
-                                        
-
-<span style="height:20px;overflow:visible;">
-
-    
-        <a href="/legal.html">Legal &amp; Policies</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    
-</span>
-                                        
-
-<span style="height:20px;overflow:visible;">
-
-    
-        <a href="/businessdevelopment.html">Business Development</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    
-</span>
-                                        
-
-<span style="height:20px;overflow:visible;">
-
-    
-        <a href="/press_room.html">Press</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    
-</span>
-                                        
-
-<span style="height:20px;overflow:visible;">
-
-    
-        <a href="/careers.htm">Careers</a>
-    
-</span>
-                                    
-                                
-                            </div>
-                        </td>
-                    
-                
-            </tr>
-        </tbody></table>
-    </div>
-</div></div>
-    <div id="body">
 
 
-
-
-
-
-
- 
-
-<div class="page_content">
-    <div>
-
-
-
-
-
- 
 
 
 <script type="text/javascript" src="/scripts/cookies.js"></script>
-<script type="text/javascript" language="JavaScript1.2">
+<script type="text/javascript">
     $(document).ready(function () {
         $(".localeChangeBox").change(function() {
             var origSearch = location.href.split("?")[1];
-    
+
             if(origSearch != null && origSearch.length > 0){
                 var search = origSearch.split("&");
                 var newSearch = "";
-    
+
                 for(i = 0; i < search.length; ++i){
                     if(search[i].substring(0, 7) == "locale="){
                         newSearch += "locale=" + $(this).val();
-                        if(i < search.length - 1) 
+                        if(i < search.length - 1)
                         	newSearch += '&';
                     } else if(search[i].length > 0) {
                         newSearch += search[i];
-                        if(i < search.length - 1) 
+                        if(i < search.length - 1)
                         	newSearch += '&';
                     }
                 }
@@ -358,122 +166,154 @@
         });
     });
 </script>
-<div style="padding:1px 0 0;position:relative;text-align:right;width:100%;">
+<div style="display:inline;">
      
-        <form name="localeChange">
+        <form name="localeChange" style="display: inline;">
     
-        <select name="locale" class="localeChangeBox" style="width:160px;">
+        <select name="locale" class="localeChangeBox">
             
-                <option value="DE">Deutsch (German)</option>
-            
-                <option value="EN" selected="selected">English</option>
-            
-                <option value="ES">Español (Spanish)</option>
-            
-                <option value="FR">Français (French)</option>
+                
+                    
+                        <option value="DE">Deutsch&nbsp;&nbsp;</option>
+                    
+                        <option value="EN" selected="selected">English&nbsp;&nbsp;</option>
+                    
+                        <option value="ES">Español&nbsp;&nbsp;</option>
+                    
+                        <option value="FR">Français&nbsp;&nbsp;</option>
+                    
+                        <option value="IT">Italiano&nbsp;&nbsp;</option>
+                    
+                        <option value="PT">Português&nbsp;&nbsp;</option>
+                    
+                
+                
             
         </select>
     
         </form>
     
-</div></div>
+</div>
+
+                        
+                        
+                    
+                </td>
+            </tr>
+            <tr>
+                <td valign="bottom" align="right">
+
+                </td>
+            </tr>
+        </tbody></table>
+    </div>
+    <div class="sub_nav_row"></div>
+</div>
+</div>
+    <div id="body">
+
+
+
+    
+    
+
+
+
+
+<div class="page_content">
     <div><h1>Privacy Policies</h1></div>
     <div>
         The following privacy statements address our information collection practices with respect to certain types of information that we receive:
         <ul>
-            <li><a href="/client_privacy.html">The Client Privacy Policy</a> addresses the types of information gathered through this website, <a href="http://www.clickbank.com">www.clickbank.com</a>, from vendors and affiliates. It also addresses how we collect, use, and disclose personally identifiable information.<br><br></li>
-            <li><a href="/customer_privacy.html">The Customer Privacy Policy</a> addresses the types of information gathered through this website, <a href="http://www.clickbank.com">www.clickbank.com</a> and www.clickbank.net (where the order form resides), from customers when a purchase is made. It also addresses how we collect, use, and disclose personally identifiable information.</li>
+            <li><a href="/client_privacy.html">The Client Privacy Policy</a> addresses the types of information gathered through this website, <a href="http://www.clickbank.com" target="_blank">www.clickbank.com</a>, from vendors and affiliates. It also addresses how we collect, use, and disclose personally identifiable information.
+                <br><br>
+            </li>
+            <li>
+                <a href="/customer_privacy.html">The Customer Privacy Policy</a> addresses the types of information gathered through this website, <a href="http://www.clickbank.com" target="_blank">www.clickbank.com</a> and www.clickbank.net (where the order form resides), from customers when a purchase is made. It also addresses how we collect, use, and disclose personally identifiable information.
+            </li>
         </ul>
     </div>
-    <div class="truste_content">
-        <a href="http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.clickbank.com/seal_l" title="Validate TRUSTe privacy certification" target="_blank">
-        <img src="http://privacy-policy.truste.com/certified-seal/ctv/en/www.clickbank.com/seal_l.png" alt="Validate TRUSTe privacy certification"></a>
-        <a href="http://privacy-policy.truste.com/click-with-confidence/wps/en/www.clickbank.com/seal_l" title="TRUSTe online privacy certification" target="_blank">
-        <img src="http://privacy-policy.truste.com/certified-seal/wps/en/www.clickbank.com/seal_l.png" alt="TRUSTe online privacy certification"></a>
-        <a href="http://privacy-policy.truste.com/click-with-confidence/eusafe/en/www.clickbank.com/seal_l" title="TRUSTe European Safe Harbor certification" target="_blank">
-        <img src="http://privacy-policy.truste.com/certified-seal/eusafe/en/www.clickbank.com/seal_l.png" alt="TRUSTe European Safe Harbor certification"></a>
+    
+    
+    <div class="truste_content" style="text-align: center;">
+        
+        
+            
+            
+                <a href="https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.clickbank.com/seal_l" title="Validate TRUSTe privacy certification" target="_blank">
+                <img src="https://privacy-policy.truste.com/certified-seal/ctv/en/www.clickbank.com/seal_l.png" alt="Validate TRUSTe privacy certification"></a>
+                <a href="https://privacy-policy.truste.com/click-with-confidence/wps/en/www.clickbank.com/seal_l" title="TRUSTe online privacy certification" target="_blank">
+                <img src="https://privacy-policy.truste.com/certified-seal/wps/en/www.clickbank.com/seal_l.png" alt="TRUSTe online privacy certification"></a>
+                <a href="https://privacy-policy.truste.com/click-with-confidence/eusafe/en/www.clickbank.com/seal_l" title="TRUSTe European Safe Harbor certification" target="_blank">
+                <img src="https://privacy-policy.truste.com/certified-seal/eusafe/en/www.clickbank.com/seal_l.png" alt="TRUSTe European Safe Harbor certification"></a>
+            
+        
     </div>
-
 </div>
 <br><br><br></div>
     <div id="footer">
 
+    
+    
 
 
 
 
- 
 
 
 
 <div id="footer" align="center">
-    
+    <div id="footerNav">
+        <a target="_blank" href="/legal.html">© 2013 ClickBank</a>
+        | <a target="_blank" href="http://www.clickbank.com/contact-us/">Contact Us</a>
+        | <a target="_blank" href="/legal.html">Legal &amp; Policies</a>
+        | <a target="_blank" href="/privacy.html">Privacy</a>
+        
+        | <a target="_blank" href="http://www.clickbank.com/team">Team</a>
+    </div>
 
-    <table border="0" cellpadding="0" cellspacing="0" id="footerNavTable">
-        <tbody><tr>
-            <td width="9"><img src="/images/mkweb20/footer/nav_left.png"></td>
-            <td nowrap="nowrap">
-                <div id="footerNav">
-                    <a href="/legal.html">© 2011 ClickBank</a> ::
-                    <a href="/contact_us.html">Contact Us</a> ::
-                    <a href="/legal.html">Legal &amp; Policies</a> ::
-                    <a href="/privacy.html">Privacy</a> ::
-                    <a href="/press_room.html">Press</a> ::
-                    <a href="/help/account-help/account-tools/clickbank-referral-program/">Referral Program</a> ::
-                    <a href="/team">Team</a> ::
-                    <a href="/sitemap.html">Sitemap</a>
-                    
-                </div>
-            </td>
-            <td width="9"><img src="/images/mkweb20/footer/nav_right.png"></td>
-        </tr>
-    </tbody></table>
-    
+    <div id="footerDisclaimerText">ClickBank is not a chartered bank or trust company, or depository institution. ClickBank is not authorized to accept<br>deposits or trust accounts and is not licensed or regulated by any state or federal banking authority.</div>
+
     
     
         
-        <table cellspacing="0" cellpadding="0" border="0" style="padding-top:10px">
-            <tbody><tr>
-                <td align="left" valign="top"><div id="footerDisclaimerText">ClickBank is not a chartered bank or trust company, or depository institution. ClickBank is not authorized to accept<br>deposits or trust accounts and is not licensed or regulated by any state or federal banking authority.</div></td>
-                
-            </tr>
-        </tbody></table>
-    
+        
     
 </div>
-<!-- privacy.html --></div>
+<!-- privacy.html -->
+</div>
 </div>
 
-<!-- SiteCatalyst code version: H.23.2.
-Copyright 1996-2011 Adobe, Inc. All Rights Reserved
-More info available at http://www.omniture.com -->
-<script language="JavaScript" type="text/javascript" src="/scripts/omniture/s_code.js"></script>
-<script language="JavaScript" type="text/javascript"><!--
-/* You may give each page an identifying name, server, and channel on
-the next lines. */
-var idx = document.title.indexOf("| ");
-if(idx > 0 && idx <= 10) {
-    s.pageName = document.location.pathname + " | " + document.title.substring(idx + 2);
-}
-s.server="";  //If your site has more than one domain serving the same content, the server variable may be used to track which of those domains visitors are using. The following JavaScript will populate the domain of the page into the server variable.
-s.channel="";  //A channel, or site section, uses the channel variable to group similar traffic-related content, e.g. pages. You can use a channel to report visits, visitors, etc.
-s.pageType="";  //The pageType variable is used only to designate a 404 Page Not Found Error Page. It only has one possible value, which is "errorPage."
+    <!-- SiteCatalyst code version: H.23.2.
+    Copyright 1996-2011 Adobe, Inc. All Rights Reserved
+    More info available at http://www.omniture.com -->
+    <script language="JavaScript" type="text/javascript" src="/scripts/omniture/s_code.js"></script>
+    <script language="JavaScript" type="text/javascript"><!--
+    /* You may give each page an identifying name, server, and channel on
+     the next lines. */
+    var idx = document.title.indexOf("| ");
+    if(idx > 0 && idx <= 11) {
+        s.pageName = document.location.pathname + " | " + document.title.substring(idx + 2);
+    }
+    s.server="";  //If your site has more than one domain serving the same content, the server variable may be used to track which of those domains visitors are using. The following JavaScript will populate the domain of the page into the server variable.
+    s.channel="";  //A channel, or site section, uses the channel variable to group similar traffic-related content, e.g. pages. You can use a channel to report visits, visitors, etc.
+    s.pageType="";  //The pageType variable is used only to designate a 404 Page Not Found Error Page. It only has one possible value, which is "errorPage."
+    
+    s.prop14="";
+    s.prop20="";
+    s.prop21="";
+    /* Conversion Variables */
+    s.events="";
+    s.eVar1="";
+    s.eVar8="";
+    s.eVar12="";
+    /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+    var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+    <script language="JavaScript" type="text/javascript"><!--
+    if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+    //--></script>
+    <!-- End SiteCatalyst code version: H.23.2. -->
 
-s.prop14="";
-s.prop20="";
-s.prop21="";
-/* Conversion Variables */
-s.events="";
-s.eVar1="";
-s.eVar8="";
-s.eVar12="";
-/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-var s_code=s.t();if(s_code)document.write(s_code)//--></script>
-<script language="JavaScript" type="text/javascript"><!--
-if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-//--></script>
-<!-- End SiteCatalyst code version: H.23.2. -->
+<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" + "js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-4.newrelic.com","606a52f423","2209801","Z1UBZBYCCkRRWkNZV14fKWM0TDNychR+fn4fQAJXARBLVlNaWEVWRB8TQg0VBVRJF11DSA==",0,16,new Date().getTime(),"","","","",""]);</script>
 
-
-
-</body></html>
+<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
