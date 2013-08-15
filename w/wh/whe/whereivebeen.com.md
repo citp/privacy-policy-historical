@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whereivebeen.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116070448id_/http%3A//www.whereivebeen.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whereivebeen.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816002456id_/http%3A//www.whereivebeen.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Where I've Been
 
