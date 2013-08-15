@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onarchitecturesite.com privacy policy that was archived on 2013-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130403131726id_/http%3A//www.onarchitecturesite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onarchitecturesite.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815205733id_/http%3A//www.onarchitecturesite.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – OnArchitectureSite.Com
 
