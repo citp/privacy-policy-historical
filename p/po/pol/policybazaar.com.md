@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the policybazaar.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616110519id_/http%3A//www.policybazaar.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the policybazaar.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815200133id_/http%3A//www.policybazaar.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy – Compare Health Insurance Online, Insurance Broker India
 
