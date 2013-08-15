@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mommieswithcents.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623113906id_/http%3A//www.mommieswithcents.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mommieswithcents.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815212136id_/http%3A//www.mommieswithcents.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy
 
