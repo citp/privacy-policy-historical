@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the houseplans.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621104418id_/http%3A//www.houseplans.com/legal-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houseplans.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816015452id_/http%3A//www.houseplans.com/legal-and-privacy) for the most accurate reproduction.*
 
-# Legal & Privacy
+# Legal & Privacy : Houseplans.com
 
 ## Copyright Notice
 
@@ -98,7 +98,7 @@ Our Sites include links to other websites whose privacy practices may differ fro
 
 ##### 9\. Our Commitment to Accountability
 
-We are committed to adhering to our Privacy Policy and applicable laws and to making your online experience secure and useful. If you have a question, request, complaint, dispute or concern related to this Privacy Policy, you may send a message by email to PrivacyManager@Houseplans.com or write to us at: Houseplans LLC, Attention: Privacy Manager, 504 Redwood Blvd, Suite 310, Novato, CA 94947. We will work with you to obtain a prompt resolution of any issues you may have. 
+We are committed to adhering to our Privacy Policy and applicable laws and to making your online experience secure and useful. If you have a question, request, complaint, dispute or concern related to this Privacy Policy, you may send a message by email to PrivacyManager@Houseplans.com or write to us at: Houseplans LLC, Attention: Privacy Manager, 617a 2nd St, Petaluma, CA 94952. We will work with you to obtain a prompt resolution of any issues you may have. 
 
 ## Currency
 
