@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ronhazelton.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614061420id_/http%3A//www.ronhazelton.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ronhazelton.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815122154id_/http%3A//www.ronhazelton.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy • Ron Hazelton Online • DIY Ideas & Projects
 
