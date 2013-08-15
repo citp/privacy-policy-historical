@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the shopmarriott.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623115257id_/http%3A//www.shopmarriott.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopmarriott.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815094240id_/http%3A//www.shopmarriott.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Buy Luxury Hotel Bedding from Marriott Hotels
+# Buy Luxury Hotel Bedding from Marriott Hotels - Privacy Policy
 
-This Web site is operated on behalf of Marriott by a third party. Marriott has a strong commitment to providing excellent service to all of our customers and visitors of this Web site, including respecting your concerns about privacy. We understand that you may have questions about how this Web site collects and uses the information that you provide to us. We have prepared this statement to inform you of the privacy principles that govern this Web site.
+This Web site is operated on behalf of Marriott by a third party; Hotels at Home, Inc. Marriott has a strong commitment to providing excellent service to all of our customers and visitors of this Web site, including respecting your concerns about privacy. We understand that you may have questions about how this Web site collects and uses the information that you provide to us. We have prepared this statement to inform you of the privacy principles that govern this Web site.
 
 This Statement contains numerous general and technical details about the steps we take to respect your privacy concerns. We have organized the Statement by major processes and areas so that you can quickly link to the information of most interest to you.
 
