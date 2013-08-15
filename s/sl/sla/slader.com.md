@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slader.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511073109id_/http%3A//www.slader.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slader.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815194736id_/http%3A//www.slader.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy :: Homework Help and Answers :: Slader
 
