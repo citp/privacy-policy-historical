@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mortgage-calc.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624151337id_/http%3A//www.mortgage-calc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mortgage-calc.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815122954id_/http%3A//www.mortgage-calc.com/privacy) for the most accurate reproduction.*
 
 # Mortgage - Mortgage-calc.com
 
