@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the organicliaison.com privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420084440id_/http%3A//www.organicliaison.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the organicliaison.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815022210id_/http%3A//www.organicliaison.com/about/privacy) for the most accurate reproduction.*
 
 # Organic Liaison
 
