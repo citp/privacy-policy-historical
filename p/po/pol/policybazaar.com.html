@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the policybazaar.com privacy policy that was archived on 2013-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130616110519id_/http%3A//www.policybazaar.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the policybazaar.com privacy policy that was archived on 2013-08-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130815200133id_/http%3A//www.policybazaar.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript">
     function exitwindow()
@@ -21,7 +21,7 @@
 function GetFlashClickCounter(sBannerName, sCompanyName, sURLLnk)
     {
          var sURL=document.location;
-         getLocation('ffufvq14jbcinhg4qn5daxof',sURL,sCompanyName,sBannerName);
+         getLocation('j0yivem42yo4ryrxkskea0y0',sURL,sCompanyName,sBannerName);
          window.open(sURLLnk);
     }
  </script>  
@@ -67,47 +67,68 @@ function GetFlashClickCounter(sBannerName, sCompanyName, sURLLnk)
     <table width="100%" border="0" cellpadding="0" cellspacing="0" class="maincontent" align="center">
         <tbody><tr>
 	        <td>
-				
-    <link href="/Application_Masters/IN/EN-US/Scripts/style_v3.css" rel="stylesheet" type="text/css">
+				   
+ <link href="/Application_Masters/IN/EN-US/Scripts/style_v3.css" rel="stylesheet" type="text/css">
    <link href="/Application_Masters/IN/EN-US/Scripts/ddcolortabs.css" rel="stylesheet" type="text/css">
- <link href="/Application_Masters/IN/EN-US/Customer/Css/cust_profile.css" rel="stylesheet" type="text/css">
- <link href="/Application_Masters/IN/EN-US/Customer/Css/cust_profile.css" rel="stylesheet" type="text/css">
+ <link href="/Application_Masters/IN/EN-US/Customer/Css/cust_profile.css?t=635122130583132792" rel="stylesheet" type="text/css">
+
   <script src="/Application_Masters/IN/EN-US/Customer/Js/JqMyAccountt.js" type="text/javascript"></script>
     <link href="/Application_Masters/IN/EN-US/Scripts/style_v3.css" rel="stylesheet" type="text/css">
    <link href="/Application_Masters/IN/EN-US/Scripts/ddcolortabs.css" rel="stylesheet" type="text/css">
      <script type="text/javascript">
 
          $(document).ready(function () {
-             //debugger;
-			 
-             var custSignOutStatus = fnsGetSignOutStatus();             
+           
+             var pathname = window.location.pathname;
+             var custSignOutStatus = fnsGetSignOutStatus();
+                     
              var customerStatus = ''
              var CustomerLogName = ''
+	     if (custSignOutStatus == undefined) {
+                 if (customerStatus == "True") {
+                     custSignOutStatus = "True";
+                 }
+             }
              //alert('header1.4 : ' + customerStatus + ' : ' + CustomerLogName)
              if (customerStatus == "True" && custSignOutStatus == "True") {
-                 $('#lnkmyaccount').attr("style", "display: block;");
-                 $("#ctl00_ctl00_HeaderSub_HeaderTabs_lblCustname").html(CustomerLogName);
+                 $("#AddClsSignIn").html("Sign Out");
+                $("#ctl00_ctl00_HeaderSub_HeaderTabs_lblCustname").html(CustomerLogName);
+		 if (pathname.toLowerCase().indexOf('customer/customermyprofile.aspx') != -1) {
+                     $("#lnkmyaccount").attr("style", "display: none;");
+                 }
+                 else { $('#lnkmyaccount').attr("style", "display: block;"); }
              }
              else {
+		if (pathname.toLowerCase().indexOf('customer/customermyprofile.aspx') != -1) {
+                     fnSetTimeOutFinal("http://www.policybazaar.com");
+                 }
+		 $("#AddClsSignIn").html("Sign In");
                  $("#ctl00_ctl00_HeaderSub_HeaderTabs_lblCustname").html("Guest");
                  $("#lnkmyaccount").attr("style", "display: none;");
 
              }
              $("#spnMy_acc").click(function () {
-                 debugger;
-                 var mobilno = '';
-                 instMYProfileTrackClick(mobilno);
-                 var redirect = "http://" + document.location.host + "/" + "Customer/CustomerMyProfile.aspx";
-                 window.open(redirect);
+                 var pathname = window.location.pathname;
+                 if (pathname.toLowerCase().indexOf('customer/customermyprofile.aspx') != -1) {
+                     $.post("http://" + document.location.host + "/" + "Customer/CustomerMyProfile.aspx");
+                 }
+                 else {
+                     var mobilno = '';
+                     instMYProfileTrackClick(mobilno);
+                     var redirect = "http://" + document.location.host + "/" + "Customer/CustomerMyProfile.aspx";
+                     window.open(redirect);
+                 }
              });
-             $("#signOut").click(function () {
-                 debugger;
-                 fnsSignOutCustomer();
-                 //                window.location.href = window.location;
-                 //                return false;
+             $("#AddClsSignIn").click(function () {
+                 //debugger;
+                 var txtSignIn = $("#AddClsSignIn").html();
+                 if (txtSignIn == "Sign Out") {                    
+                     var LeadID = 0;
+                     fnsSignOutCustomer(LeadID);
+                 }
+                
              });
          });
-      
  </script>
 <link href="/Application_Masters/IN/EN-US/Customer/Css/cust_profile.css" rel="stylesheet" type="text/css">
 <div id="holder1">
@@ -120,8 +141,8 @@ function GetFlashClickCounter(sBannerName, sCompanyName, sURLLnk)
         	<img src="/Application_Masters/IN/Images/WebSiteImagesVersion1.4/naukri.gif" alt="Insurance" title="Insurance">
         </div>
         <div id="top_links">
-            <a href="/careers.aspx">Hiring</a> | <a href="/agentregister.aspx">Agents</a>
-            | <a href="http://speak.policybazaar.com/">Complaints</a> | <a href="http://knowledge.policybazaar.com/" target="_blank">
+            <a href="/careers.aspx">Hiring</a> | <!-- <a href="/agentregister.aspx">Agents</a>
+            |--> <a href="http://speak.policybazaar.com/">Complaints</a> | <a href="http://knowledge.policybazaar.com/" target="_blank">
                 Knowledge</a> | <a href="http://ask.policybazaar.com/" target="_blank">Ask</a>
             | <a href="/ContactUs.aspx">Contact Us</a> |<a href="/FAQ.aspx">FAQs</a>
         </div> 
@@ -149,16 +170,122 @@ function GetFlashClickCounter(sBannerName, sCompanyName, sURLLnk)
     <!--top navigation ends here-->
    <div id="header">
    <!--hearder starts here-->
+<div class="userloginbox">
+        <ul>
+            <li><strong>
+              <!-- Customer journey start here.Sachin --> 
+                <div id="mainCustDiv" class="cust_login_panel">
+                <div id="dvname" class="cust_login_details">
+                	<span class="cust_welcome">Hi&nbsp;<span id="ctl00_ctl00_HeaderSub_HeaderTabs_lblCustname"></span>
+                </span>
+                </div><span id="lnkmyaccount" style="display:none;" class="arrow_up">[ <span id="spnMy_acc" class="my_acc">My Account</span> <span id="signOut" style="display:none" class="my_acc">Sign Out</span> ]</span> </div>
+    <!-- Customer journey end here -->
+           </strong><br>
+            </li>
+        </ul>
+    </div>
+
     	<div id="logo"> <a href="http://www.policybazaar.com"><img src="/Application_Masters/IN/Images/WebSiteImagesVersion1.4/logo.gif" alt="PolicyBazaar.com"></a>
         </div>
-        <div id="adv">
-        	<div id="adv_spacing1">
-            <strong class="call-book"><span>Call &amp; Book Now 18001033999</span></strong>        	    
+               	    
 				
-            </div>
+           
+   
+	
+	 
+ <script src="/Application_Masters/IN/EN-US/Scripts/json2.js" type="text/javascript"></script>
+<script type="text/javascript">
+    $(document).ready(function () {
+       // var Trackcount = 0;
+       // $("#SignInDtl").hide();
+       // $("#TrakDtl").hide();
+        var clsignHidecount=0;
+    });
+
+  
+   </script>
+
+
+<div id="mainheaderSignIn" class="headerright">
+                  
+        <div class="signintrack">
+                  	
+        <ul>
+            <li id="signIn"><span><img src="/Application_Masters/IN/EN-US/Customer/Image/userlock.png" width="12" height="19"></span><a id="AddClsSignIn" class="signin">Sign In</a>
+         
+            </li>
+            <li id="trackIn"><a id="AddClsTrack">Track Booking</a></li>
+        </ul>                 
         </div>
+                    
+       
+          <div class="application" id="SignInDtl" style="display:none; min-width:auto!important;">                             
+      
+        <label>
+
+        <input type="text" id="txtMobilenoSn" autocomplete="off" onkeypress="return fnNotAlphabet(event);" maxlength="10" value="Mobile Number">
+        <span><a id="imgSnClose"><img src="/Application_Masters/IN/EN-US/Customer/Image/inputclose.png" width="19" height="17"></a></span>
+       
+        </label>
+        <label class="wid" id="SignPWD"><input id="txtSMScodeSn" autocomplete="off" maxlength="4" onkeypress="return fnNotAlphabet(event);" type="text" value="4 digit sms code">
+        <span><a id="imgPwdClose"><img src="/Application_Masters/IN/EN-US/Customer/Image/inputclose.png" width="19" height="17"></a></span></label>
+        <input name="Submit" type="button" id="SignINSubmit" value="Login">
+          <div class="help_mess">Your mobile no.</div>
+          <div class="resend_sms1">Resend SMS</div>
+       
+        </div>
+          
+        <div class="application" id="TrakDtl" style="display:none;">
+ <div><label><input id="trackOrderId" autocomplete="off" onkeypress="return fnNotAlphabet(event);" maxlength="10" type="text" value="Order Number">
+                    <span id="trackOrderIdIMG"><a><img src="/Application_Masters/IN/EN-US/Customer/Image/inputclose.png" width="19" height="17"></a></span></label>
+                    </div>
+                    
+                        <div class="or">OR</div>               
+                   <div class="wid01"><label><input id="trackMobileNo" autocomplete="off" type="text" onkeypress="return fnNotAlphabet(event);" maxlength="10" value="Mobile Number">
+                    <span id="trackMobileNoIMG"><a><img src="/Application_Masters/IN/EN-US/Customer/Image/inputclose.png" width="19" height="17"></a></span></label></div>
+                     <label id="TrackOrderPWD"><input id="txtSMScodeTrackOrder" autocomplete="off" onkeypress="return fnNotAlphabet(event);" maxlength="4" type="text" value="4 digit sms code">
+        <span id="TrackOrderPwdImg"><a><img src="/Application_Masters/IN/EN-US/Customer/Image/inputclose.png" width="19" height="17"></a></span></label>
+                        <div style="float:left;"><input name="TrackOrder" id="trackOrderSubmit" type="button" value="Submit" class="submit333"></div>
+
+ <div class="help_mess">As on confirmation mail</div>
+ <div class="track_order"></div>
+
+
+<div class="help_mess2">Your mobile no.</div>
+<div class="resend_sms2">Resend SMS</div>
+
+</div>
+ <div class="cust_pop" style="display:none;">
+                <div class="cust_pop_close"></div>
+                <!--Open Middle Wrap-->
+                <!--Open Left Panel-->
+                <div id="cust_pop_left_panel">
+                <!--data plans starts here-->
+               
+                <!--plan content panel ends-->
+                </div>
+                <!--Cloese Left Panel-->
+                <div class="clear"></div>
+		</div>
+<div id="divfadedBG" clientidmode="Static" class="black_overlay"></div>
+
+
+
+
+
+        <input type="hidden" name="ctl00$ctl00$HeaderSub$HeaderTabs$TrackingID$hdnSignInMobNo" id="hdnSignInMobNo">  
+        <input type="hidden" name="ctl00$ctl00$HeaderSub$HeaderTabs$TrackingID$hdnTrackBookingMobNo" id="hdnTrackBookingMobNo"> 
+        <input type="hidden" name="ctl00$ctl00$HeaderSub$HeaderTabs$TrackingID$hdnOrderNo" id="hdnOrderNo">  
+         <input type="hidden" name="ctl00$ctl00$HeaderSub$HeaderTabs$TrackingID$hdnOrderNumber" id="hdnOrderNumber">  
+        <input type="hidden" name="ctl00$ctl00$HeaderSub$HeaderTabs$TrackingID$hdnPolicyststus" id="hdnPolicyststus"> 
+        <input type="hidden" name="ctl00$ctl00$HeaderSub$HeaderTabs$TrackingID$hdnNextStep" id="hdnNextStep">          
+
+</div>
+
+
+     
     </div>
-    <!--hearder ends here-->
+ 	 <!--hearder ends here-->
  	
   <div class="wrap-nav">
 <div id="colortab" class="ddcolortabs">
@@ -251,13 +378,9 @@ function GetFlashClickCounter(sBannerName, sCompanyName, sURLLnk)
   })();
 </script>-->
 
-  <!-- Customer journey start here.Sachin --> 
-      <div id="mainCustDiv" class="cust_login_panel">
-         <div id="dvname" class="cust_login_details"><span class="cust_welcome">Welcome&nbsp;<span id="ctl00_ctl00_HeaderSub_HeaderTabs_lblCustname"></span></span>
-      </div><span id="lnkmyaccount" style="display:none;" class="arrow_up">[ <span id="spnMy_acc" class="my_acc">My Account</span><font>|</font><span id="signOut" class="my_acc">Sign Out</span> ]</span> </div>
-    <!-- Customer journey end here -->
-<!--<a href="http://www.facebook.com/PolicyBazaarIndia" rel="nofollow"  target="_blank" class="face-icon"><img title="Follow Us" alt="Follow Us" src="/Application_Masters/IN/Images/WebSiteImagesVersion1.4/face-book.png"></a>-->
-</div> 
+ <!-- Sachintollfreeno 13May2013 -->
+       <div class="tollfreeno"></div>
+</div>
 <script type="text/javascript">
     tabdropdown.init("colortab", 3)
 </script>
