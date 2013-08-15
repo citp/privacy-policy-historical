@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dealsdirect.com.au privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521040603id_/http%3A//www.dealsdirect.com.au/s/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealsdirect.com.au privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815034816id_/http%3A//www.dealsdirect.com.au/s/privacy) for the most accurate reproduction.*
 
 # Online Shopping | Shop Online @ Deals Direct Australia's #1 Online Store
-
-[](https://web.archive.org/)
 
   * [Privacy and Security](https://web.archive.org/s/dd-privacy.html/#privacy)
   * [The National Privacy Principles](https://web.archive.org/s/dd-privacy.html/#nationalprivacy)
@@ -19,7 +17,7 @@
 
 
 
-Deals Direct Pty Ltd ABN 64 096 509 134 trading as DealsDirect.com.au ( **“DealsDirect”** ) is an online retailer and is committed to protecting your privacy and developing a website that gives you an enjoyable and secure online experience.
+DealsDirect Pty Ltd ABN 64 096 509 134 trading as DealsDirect.com.au ( **“DealsDirect”** ) is an online retailer and is committed to protecting your privacy and developing a website that gives you an enjoyable and secure online experience.
 
 ###  Privacy and Security
 
@@ -127,9 +125,3 @@ If you would like more information about the way we manage personal information 
 From time to time it may be necessary for us to revise our privacy policy. Any changes will be in accordance with the Privacy Act and the National Privacy Principles. We may notify you about changes to this privacy policy by posting an updated version on our website [www.dealsdirect.com.au](https://web.archive.org/).
 
 If you require any further information about the Privacy Act and the National Privacy Principles, you can visit the Federal Privacy Commissioners website at [_www.privacy.gov.au_](http://www.privacy.gov.au/).
-
-[](https://web.archive.org/)
-
-  *   * [](https://www.mcafeesecure.com/RatingVerify?ref=www.dealsdirect.com.au)
-
-
