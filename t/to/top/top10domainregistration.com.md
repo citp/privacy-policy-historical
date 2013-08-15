@@ -1,23 +1,70 @@
-> *The following text is extracted and transformed from the top10domainregistration.com privacy policy that was archived on 2009-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090829143330id_/http%3A//www.top10domainregistration.com/html/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top10domainregistration.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816015932id_/http%3A//www.top10domainregistration.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**PRIVACY POLICY**
+This Privacy Policy details the way in which top10domainregistration.com collects, uses, maintains and discloses information collected from users (each, a "User") of the top10domainregistration.com website ("Site"). This privacy policy applies to the Site and all services offered by top10domainregistration.com.
 
-We rate protecting our user's privacy very important. Protecting your privacy and the personal information you provide us is a top priority. We do not collect any information from persons visiting our site. We may collect information necessary from anyone registering for site updates and news releases or other services offered, which require your personal information. We will never share your information with anyone other than our associated staff. We will not contact you unless you request information or services.
+**Personal Identification Information**
 
-We will not use your personal information for  any other purposes, other than what you agreed upon when (or if) you registered for an account with us. We value your privacy and are dedicated to protecting your personal information. 
+This site may collect personal identification information from Users in several ways, including, but not limited to, through visits to our site, registration on the site, placement of an order, and in connection with other activities, services, features or resources we make available on our Site. Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personal information. However, this may prevent them from participating in certain Site related activities.
 
-We will not sell, trade, or give away your personal information. We may share your information only with our staff or with third parties that provide services directly to us.
+**Non-personal Identification Information**
 
-We may share your information with law enforcement or other government agencies as required by law. 
+top10domainregistration.com may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-We will not release your personal information to third parties for marketing purposes. 
+**Web Browser Cookies**
 
-**DISPUTES  
-** If you choose to visit this Site, your visit and any dispute over privacy is subject to this Privacy Policy and our Terms of Use including limitations on damages, arbitration of disputes, and application of the law of the State of Tennessee, USA.
+Our Site may use "cookies" to enhance User experience. The user's web browser places cookies on their hard drive for record-keeping purposes and for tracking information. Users may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, some parts of the Site may not function properly.
 
-**CHANGES TO TO THE PRIVACY POLICY  
-** To accommodate changes to our web site design, and possible legal requirements, We reserve the right to change this privacy policy at any time.
+**How We Use Collected Information**
 
-Updated June 10, 2008
+top10domainregistration.com may collect and use Users' personal information:
+
+  * To improve customer service
+
+Information you provide helps us respond to your customer service requests and support needs more efficiently.
+
+  * To personalize user experience
+
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+
+  * To improve our Site
+
+We may use feedback you provide to improve our products and services.
+
+  * To share your information with third parties
+
+We may share information with third parties for marketing or other purposes.
+
+  * To run a promotion, contest, survey or other Site feature
+  * To send Users information they agreed to receive about topics we think will be of interest to them.
+
+
+
+**How We Protect Your Information**
+
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information and data stored on our Site.
+
+Third Party Websites
+
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
+
+**Advertising**
+
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+
+**Changes to This Privacy Policy**
+
+This site has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+**Your Acceptance Of These Terms**
+
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+**Contacting Us**
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+
+[privacy@top10domainregistration.com](mailto:privacy@top10domainregistration.com)
+
+This document was last updated on July 4, 2012
