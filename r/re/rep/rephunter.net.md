@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rephunter.net privacy policy that was archived on 2013-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130314002913id_/http%3A//www.rephunter.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rephunter.net privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815114933id_/http%3A//www.rephunter.net/privacy.php) for the most accurate reproduction.*
 
-# RepHunter Privacy Notice, Manufacturers Reps, Independent Sales Rep, Sales Agency, Sales Force, Manufacturer Agent
+# RepHunter Privacy Policy
 
-##  RepHunter Privacy Notice | Manufacturers Reps | Independent Sales Rep | Sales Agency | Sales Force | Manufacturer Agent
+##  RepHunter Privacy Policy | Manufacturers Reps | Independent Sales Rep | Sales Agency | Sales Force | Manufacturer Agent
 
 ## What this Privacy Policy Covers
 
@@ -20,7 +20,9 @@ When you subscribe to RepHunter, we ask for additional billing information which
 
 RepHunter uses information for three general purposes: to customize the advertising and content you see, to fulfill your requests for certain products and services, and to contact you about specials and new products.
 
-RepHunter will not sell or rent your personally identifiable information to anyone. RepHunter may send personally identifiable information about you to other companies or people when: 
+## Information Sharing and Disclosure
+
+RepHunter will not sell or rent your personally identifiable information to anyone. RepHunter may send personally identifiable information about you to other companies or people when:
 
   * We have your consent to share the information. You are deemed to have consented to sharing your information with our other members when you submit your profile; 
   * We need to share your information to provide the product or service you have requested; 
