@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the isango.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502210004id_/http%3A//www.isango.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isango.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815213100id_/http%3A//www.isango.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Privacy Policy
 
-This is the privacy policy of isango! Limited, a company incorporated in England and Wales, with registered offices at Suite 3, Level 5, Berkeley Square House, Berkeley Square, London, W1Y 6BY. Isango! Limited is a member of the TUI Travel PLC group of companies
+This is the privacy policy of isango! Limited, a company incorporated in England and Wales, with registered offices at TUI Travel PLC, TUI Travel House, Crawley Business Quarter, Fleming Way, Crawley, West Sussex RH10 9QL. Isango! Limited is a member of the TUI Travel PLC group of companies.
 
 isango! understands and respects the importance of your privacy and visitors to our websites can be assured that the protection of privacy is given the highest possible priority. All personal information that we collect is used and held to comply in every way possible with the Data Protection Act 1998. isango! only obtains personal information from you if we ask for it and you provide it to us. Please read on to understand how we use the information you give us before using the isango! web pages. Please note use of the isango! web pages and services is conditional upon you agreeing to be bound by this privacy policy.
 
