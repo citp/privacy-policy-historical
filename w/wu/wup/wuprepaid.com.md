@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the wuprepaid.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615121511id_/http%3A//www.westernunion.com/us/privacy-policy%3Flang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wuprepaid.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815074734id_/http%3A//www.westernunion.com/us/privacy-policy%3Flang%3Den) for the most accurate reproduction.*
 
 # Privacy Statement
 
 Western Union Financial Services, Inc. - Privacy Statement (United States)
+
+For information about interest-based advertising, [click here](https://web.archive.org/us/interest-based-adv).
 
 **FACTS** | **WHAT DOES WESTERN UNION FINANCIAL SERVICES, INC. DO WITH YOUR PERSONAL INFORMATION?**  
 ---|---  
@@ -44,8 +46,8 @@ Western Union Financial Services, Inc.
 Western Union Privacy Office  
 12500 East Belford Avenue  
 Englewood, CO 80112  
-**   
-**VERMONT AND CALIFORNIA CONSUMERS**  
+**  
+ **VERMONT AND CALIFORNIA CONSUMERS**  
 Western Union will disclose Information about consumers with a Vermont or California mailing address only with your written authorization (“consent’), unless otherwise permitted by law. Written authorizations from Vermont consumers may be delivered to us at the address above or by email at privacy@westernunion.com and must contain your name, address and signature and your consent. You may revoke your consent at any time by calling us at 1-800-562-2598, or by writing or emailing us at the addresses provided above. California consumers should contact us at the addresses above for instructions on how to deliver their consent. 
 
 **Note: Disclosures not subject to an opt-out choice include: disclosures necessary to effect, administer or enforce a transaction you request; disclosures to our authorized service providers (including Western Union Agents); disclosures permitted or required by law or disclosures to prevent fraud or other illegal activities.**
@@ -79,7 +81,7 @@ We also collect information about you from a variety of sources, including witho
 
 State laws and individual companies may give you additional rights to limit sharing. For details, see the “To limit our sharing” section.  
 **What happens when I limit sharing for an account I hold jointly with someone else?** | Your choices will apply to everyone on your account.  
-**Definitons**  
+**Definitions**  
 ---  
 Affiliates | Companies related by common ownership or control. They can be financial and nonfinancial companies.  
 Non affiliates | Companies not related by common ownership or control. They can be financial and nonfinancial companies.   
