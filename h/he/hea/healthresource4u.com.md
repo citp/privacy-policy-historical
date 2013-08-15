@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthresource4u.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118203856id_/http%3A//www.healthresource4u.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthresource4u.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815214128id_/http%3A//www.healthresource4u.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
