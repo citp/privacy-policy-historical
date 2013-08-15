@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forhertube.com privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612142206id_/http%3A//www.forhertube.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forhertube.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815175825id_/http%3A//www.forhertube.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
