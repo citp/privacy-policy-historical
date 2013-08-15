@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newunblocker.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231020341id_/http%3A//www.newunblocker.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newunblocker.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815203200id_/http%3A//www.newunblocker.com/privacy-policy.php) for the most accurate reproduction.*
 
 # New Unblocker - Privacy Policy
 
@@ -6,9 +6,9 @@
 
 ### Introduction
 
-Thank you for taking the time to review our Privacy Policy. We respect your privacy and we are committed to safeguarding your privacy while online at our web site http://www.NewUnblocker.com. This document discloses the information gathering and dissemination practices we maintain at our web site.
+Thank you for taking the time to review our Privacy Policy. We respect your privacy and we are committed to safeguarding your privacy while online at our web site NewUnblocker.com. This document discloses the information gathering and dissemination practices we maintain at our web site.
 
-At times, http://www.NewUnblocker.com henceforth referred to as New Unblocker/We will collect certain personal information about visitors who access our web site. Such information will include non-identifiable personal information. Non-identifiable information is gathered automatically when you visit our web site or those web sites accessed through us, and stored for use in our system. Except where the law requires otherwise, we undertake to protect the confidentiality of such data. In most cases, we collect this information to ensure network integrity and that we continue to provide you with the most relevant content and best possible service that suits your needs. In some cases, we are required by law to collect personal information about users.
+At times, NewUnblocker.com henceforth referred to as New Unblocker/We will collect certain personal information about visitors who access our web site. Such information will include non-identifiable personal information. Non-identifiable information is gathered automatically when you visit our web site or those web sites accessed through us, and stored for use in our system. Except where the law requires otherwise, we undertake to protect the confidentiality of such data. In most cases, we collect this information to ensure network integrity and that we continue to provide you with the most relevant content and best possible service that suits your needs. In some cases, we are required by law to collect personal information about users.
 
 The purpose of this privacy policy is to explain to users what types of information we will collect and how that information is used.
 
@@ -24,11 +24,11 @@ We collect personal information from you (through the use of cookie technology) 
 
 #### Log Files
 
-Like many other web sites, New Unblocker makes use of log files. This includes internet protocol (IP) addresses, browser type & version information, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. This data however will not be used to identify individual users who will at all times remain anonymous. IP addresses and other such information are not linked to any information that is personally identifiable.
+Like many other web sites, New Unblocker makes use of log files. This includes internet protocol (IP) addresses, browser type & version information, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track userâ€™s movement in the aggregate, and gather broad demographic information for aggregate use. This data however will not be used to identify individual users who will at all times remain anonymous. IP addresses and other such information are not linked to any information that is personally identifiable.
 
 #### Cookies and Web Beacons
 
-A cookie is a piece of data stored on the user’s computer tied to information about the user. New Unblocker does use cookies to store information about our visitor’s preferences, record user-specific information on which pages the user access or visit, customize web page content based on visitor's browser type or other information that the visitor sends via his/her browser.
+A cookie is a piece of data stored on the user's computer tied to information about the user. New Unblocker does use cookies to store information about our visitorâ€™s preferences, record user-specific information on which pages the user access or visit, customize web page content based on visitor's browser type or other information that the visitor sends via his/her browser.
 
 More about http cookies - <http://en.wikipedia.org/wiki/HTTP_cookie>
 
@@ -42,13 +42,13 @@ Any information New Unblocker collects from you through correspondence with us, 
 
 We use outside advertising companies to display advertisements on our web site. Some of our advertising partners may use cookies and/or web beacons on our site, to collect data in the advertisement serving process. Our advertising partners include Google AdSense (<https://www.google.com/adsense/>), AdBrite ([http://www.adbrite.com](http://www.adbrite.com/)) and CPALead, LLC ([http://www.cpalead.com](http://www.cpalead.com/)).
 
-These third party advertisement servers or advertisement networks use technology to send, directly to your browser, the advertisements and links that appear on http://www.NewUnblocker.com. They automatically receive your Internet Protocol (IP) address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by the third-party advertisement networks to measure the effectiveness of their advertisements and/or to personalize the advertising content that you see.
+These third party advertisement servers or advertisement networks use technology to send, directly to your browser, the advertisements and links that appear on NewUnblocker.com. They automatically receive your Internet Protocol (IP) address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by the third-party advertisement networks to measure the effectiveness of their advertisements and/or to personalize the advertising content that you see.
 
 Please note that New Unblocker has no access to or control over these cookies that are used by third party advertisers, once they are granted permission to use cookies for advertising within our web site.
 
 You should consult the respective privacy policies of these third party advertisement servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. This privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-Please check our advertisers’ web sites for respective privacy policies;
+Please check our advertisersâ€™ web sites for respective privacy policies;
 
   * Google's Privacy Policy which applies to all of the products, services, and web sites offered by Google - <http://www.google.com/privacypolicy.html>
   * AdBrite's Privacy Policy - <http://www.adbrite.com/mb/privacy.php>
@@ -58,7 +58,7 @@ Please check our advertisers’ web sites for respective privacy policies;
 
 #### Google advertising and DoubleClick DART cookies for Interest based advertising
 
-Google's use of the DART cookie enables it to serve ads to users based on their visited websites. We may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a website using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests ("interest based targeting"). The DART cookie does NOT gather personal information but the browsing history in order to support Google’s Interest based advertising. The ads served will be targeted based on your previous online browsing history.
+Google's use of the DART cookie enables it to serve ads to users based on their visited websites. We may use DART cookies for ad serving through Googleâ€™s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a website using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests ("interest based targeting"). The DART cookie does NOT gather personal information but the browsing history in order to support Googleâ€™s Interest based advertising. The ads served will be targeted based on your previous online browsing history.
 
 More information on the DoubleClick DART cookie which is used by Google in the ads served on publisher websites displaying AdSense for content ads can be found at <http://www.doubleclick.com/privacy/faq.aspx>
 
