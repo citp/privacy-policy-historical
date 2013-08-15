@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dream11.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425032026id_/https%3A//fantasycricket.dream11.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dream11.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815042345id_/https%3A//fantasycricket.dream11.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Fantasy Cricket Portal | Privacy Policy | Dream11.com
 
