@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astahost.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919194029id_/http%3A//www.astahost.com/info.php/privacy-policy_t2283.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astahost.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815145747id_/http%3A//www.astahost.com/info.php/privacy-policy_t2283.html) for the most accurate reproduction.*
 
 # Privacy Policy - AstaHost
 
@@ -14,4 +14,4 @@ If you do not want to receive email from us in the future, please let us know by
 
 Xisto Corporation reserves the right to change this policy at any time by notifying users of the existance of a new privacy statement.
 
-The policies described herein are effective as of the year 2005.
+The policies described herein are effective as of the year 2005. 
