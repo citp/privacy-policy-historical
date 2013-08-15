@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the standardchartered.co.in privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527194859id_/http%3A//www.standardchartered.co.in/website-privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standardchartered.co.in privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815055700id_/http%3A//www.standardchartered.co.in/website-privacy-statement.html) for the most accurate reproduction.*
 
 # Website Privacy Statement – Standard Chartered Bank India
 
