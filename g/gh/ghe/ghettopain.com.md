@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ghettopain.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614044436id_/http%3A//www.ghettopain.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghettopain.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815051147id_/http%3A//ghettopain.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
