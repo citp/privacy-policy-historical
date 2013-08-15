@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roomkey.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118083911id_/http%3A//www.roomkey.com/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roomkey.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815154223id_/http%3A//www.roomkey.com/privacystatement.html) for the most accurate reproduction.*
 
 # Room Key - Privacy Statement
 
