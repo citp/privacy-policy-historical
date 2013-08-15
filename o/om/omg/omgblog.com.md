@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omgblog.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502031853id_/http%3A//www.omgblog.com/2003/07/_omg_blog_privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omgblog.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815132346id_/http%3A//www.omgblog.com/2003/07/_omg_blog_privacy_policy.php) for the most accurate reproduction.*
 
 # !! omg blog !! Privacy Policy [!! omg blog !!]
 
@@ -20,9 +20,9 @@ If you have questions or comments regarding !! omg blog !! privacy practices, yo
 **» READ THESE RELATED ENTRIES:**  
 [OMG you've got mail!](http://www.omgblog.com/2005/07/omg_youve_got_mail.php)  
 [OMG, it's our submission policy](http://www.omgblog.com/2003/07/omg_its_our_submission_policy.php)  
+[OMG, a contest: Jessie Ware 'Devotion'](http://www.omgblog.com/2013/04/omg_a_contest_jessie_ware_devo.php)  
 [OMG, how unoriginal: Yahoo!](http://www.omgblog.com/2007/06/omg_how_unoriginal_yahoo.php)  
 [PerfectGuyz contest winner](http://www.omgblog.com/2008/03/perfectguyz_contest_winner.php)  
-[OMG, they're changing: Our email notifications](http://www.omgblog.com/2010/12/omg_theyre_changing_our_email.php)  
 
 
 _ _ _ _ _
