@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dinstudio.com privacy policy that was archived on 2013-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130121105636id_/http%3A//www.dinstudio.com/support/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dinstudio.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815212026id_/http%3A//www.dinstudio.com/support/privacypolicy) for the most accurate reproduction.*
 
 # Privacy policy
 
