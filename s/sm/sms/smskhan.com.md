@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smskhan.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615013551id_/http%3A//www.smskhan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smskhan.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815033731id_/http%3A//www.smskhan.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SMSKHAN.COM
 
