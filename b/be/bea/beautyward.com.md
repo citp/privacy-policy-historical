@@ -1,27 +1,58 @@
-> *The following text is extracted and transformed from the beautyward.com privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608183201id_/http%3A//www.beautyward.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautyward.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815103211id_/http%3A//www.beautyward.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Beautyward.com** sees great importance in protecting your privacy. This Privacy Policy is designed to explain the manner in which Beautyward.com collects, uses, and discloses the personal information provided by you as a result of the use of Beautyward.com's Web Site and the content, information and services provided through the Web Site by Beautyward.com.
+**Introduction:**
 
-**Users' Consent.** By accessing this web site, The web sit located at the url www.Beautyward.com and/or any other site provided by Beautyward.com (collectively,the"site"), You are signifying, Expressing and providing your consent to the information collection,information usage, and other procedures described in the privacy policy below. Beautyward.com reserves the right to change this policy at any time, without notice, by posting a new privacy policy at this location. The collection, use and disclosure of your personal information by Beautyward.com will be governed by the version of this Policy in effect at that time. Please check this page periodically for any changes.
+At THP, Inc. we realize the importance of feeling safe online and are fully committed to ensuring that your privacy is respected and protected. Our Privacy Policy below outlines the type of information we collect and receive from you while you are within the THP Network, as well as ways in which we process and, sometimes, share such information and how you can correct or change such information. The THP Network is defined as the network of websites and services that are owned and operated by THP, Inc. and its subsidiaries. Each site included within the THP Network is governed by this Privacy Policy unless otherwise noted on such site.
 
-**Collection and Use of Information.** In order for you to access certain materials or pages (i.e. author signup, tell a friend, and the like) to register as a user on this Site, this Site requires that you provide certain personal information, including, but not limited to, your name, phone number and e-mail address. We use this information in order to contact you to provide you with further information about our company and services, as well as for other commercial and/or internal purposes such as market research in order to better understand the demographics of our Site visitors and potential customers and partners. We may share this information with our authorized partners and/or with third parties who act for or on behalf of us, but we do not otherwise provide or sell any information gathered on this Site to outside vendors.
+PLEASE REVIEW THIS PRIVACY POLICY AND THE TERMS OF SERVICE FOR THE THP NETWORK CAREFULLY. YOUR USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO SUCH PRIVACY POLICY AND TERMS OF SERVICE.SUCH PRIVACY POLICY AND TERMS OF SERVICE.
 
-**User Tracking.** This Site implements a user tracking feature, whereby the activities of each unique visitor to the Site are monitored. This is done regardless of whether the visitor has registered on the Site or is visiting the Site anonymously, but if you do not register on this Site or fill in your personal details on any forms, you do remain anonymous and we do not discover your identity. If you do register on this Site, our use of user tracking enables us to identify your future and prior activity on the Site, including your activity before you registered. This includes pages on our Site that you visited. User tracking also allows us to determine through which means you have reached our Site (i.e. which search engines or links) up to one web page back. The purpose of our user tracking is to analyze our visitors' actions in order to improve the user experience of visitors to our Site, as well as to better understand the priorities and interests of our potential customers and partners in order to better suit their needs and increase the efficiency of our sales and marketing processes.
+How THP Collects Information Personal Data you provide Information THP collects Our Use of Your Information Disclosure of Personally Identifiable Information to Third Parties THP Opt-in/Opt-out Policy Third Party Advertising and Links to other Sites. Access and Correction Guidelines regarding children Public forums/chat rooms/message boards/bulletin boards/social networking How we protect and secure your information Applicable Law Changes to this Privacy Policy Contact Information
 
-**Use of Cookies.** A "cookie" is a small text file transferred by a Web Site to a computer that is browsing the Web Site. Even if you do not register on this Site, upon your first visit to this Site (or subsequent visits if you delete the cookie), a cookie is stored on your computer, which automatically identifies you to the Site. This is done several technical reasons, including enabling the "User Tracking" described above. In addition, for your convenience, the cookie can "autofill" information on forms on the Site, precluding the need for you to fill out the same information on our registration forms each time you want to access information that requires registration. However, cookies by themselves cannot be used to discover the identity of the user; the only personal information we learn about you is that which you provide to us, as described above If you would prefer not to receive cookies, you can change the configuration of your browser to refuse cookies. In addition, you can delete any cookies that have already been placed on your computer.
+1\. How THP Collects Information
 
-**Internet Protocol Addresses.** We collect the IP addresses of all visitors to our Site. We use your IP address in order to administer the Site, help diagnose problems with our server, to gather broad demographic information, and for the "User Tracking" described above.  
-Hyperlinks. This Site contains hyperlinks to other web sites. This privacy policy applies only to this Site and not to any other sites, including sites accessed by hyperlink from this Site. Beautyward.com has no responsibility, liability for, or control over those other web sites or Internet resources or their collection, use and disclosure of your personal information, nor has it any control over, the privacy policies of any of these sites. When you leave our Site, including by linking from the Site to another site, you should read the privacy policy, if any, provided by such site.
+A. Personal Data you provide to THP
 
-The applicable law and exclusive jurisdiction for settling any disputes in connection with the use of the Site shall be the laws and jurisdiction of the state of Israel according to the provisions of the then policy in effect.
+Personally Identifiable Information is any information that can be used to identify a specific individual such as your name, email address, home address, and phone number. THP asks you to provide Personally Identifiable Information in various places throughout the THP Network. Some of these areas where the collection of such information takes place are listed below:
 
-**Beautyward.com** will accumulate and process your personal information in the USA, Israel or, from time to time, in other locations at it's discretion in order to provide you with competent and effective service. 
+Member Registration
 
-**In order** to assist in protecting the confidentiality of your personal information, Beautyward.com applies security safeguards appropriate to the sensitivity of the information. However, in light of the nature of Internet technologies, security and privacy risks cannot be eliminated and, therefore, Beautyward.com cannot guarantee that your personal information will not be disclosed in ways not otherwise described in this Policy.
+In order to use many of THP's features, tools and services, we ask you to register to become a member. During this member registration process, we will ask you for Personally Identifiable Information. In addition, you may choose to provide THP with additional information including marital status, household income, education and employment status. Email Newsletters
 
-If you have questions please send an e-mail to: [webmaster@Beautyward.com](mailto:webmaster@Beautyward.com)
+THP offers electronic newsletters on a variety of topics. If you subscribe to any of these newsletters, you will be required to provide a valid email address as well as any other information that is relevant to the delivery of the newsletter (e.g., certain Astrology.com newsletters require you to provide your birthday). 
+
+Surveys and Polls
+
+THP offers online surveys and questionnaires that ask users for opinions on various issues and/or other information. Occasionally, we may request demographic information (like zip code, age or gender) when you answer a survey. Such surveys are completely voluntary.
+
+Sweepstakes and Contests
+
+We regularly operate sweepstakes, contests and giveaways throughout the THP Network. We typically ask you for your email address and/or phone number (to notify you if you've won, or not). We also ask for first and last names, and sometimes post office addresses in order to verify the entrant's identity. In some situations, we need additional information as part of the entry process, such as a prize selection choice. 
+
+ECommerce Transactions
+
+When you engage in an ecommerce transaction on the THP Network you may be asked to provide credit card information and other Personally Identifiable Information in order to complete the transaction. 
+
+Health Information
+
+In order to use some of the tools and services on the THP Total Health pages you may be asked to provide information about your health. When you provide this information, in certain circumstances THP will associate it with Personally Identifiable Information.
+
+B. Information gathered by THP and its third party service providers
+
+When you visit the THP Network and interact with the services and tools that reside there, THP and third parties with whom THP has contracted to provide services to THP may collect information on your actions. This type of information is generally collected from two sources. One is from the server log files and the other is from cookies. 
+
+IP Address
+
+Your IP address is a number that is assigned by your ISP (Internet Service Provider) to your computer to identify its location. We use your IP address to help diagnose problems with our server and to administer our website. We also sometimes use IP addresses to communicate with members and subscribers and possibly even ban those members who are not complying with our Terms of Service. 
+
+Cookies
+
+Our site uses a feature of your browser to set a "cookie" on your computer. Cookies are small packets of information that a site's computer stores on your computer. The THP Network can then read the cookies whenever you visit the THP websites. We use cookies to save your password so you don't have to re-enter it each time you visit our site, to deliver content specific to your interests, to track the pages you've visited and to make sure you don't see the same ads repeatedly. These cookies allow us to use the information we collect to customize your THP experience so that your visit to THP is as relevant and as valuable to you as possible. 
+
+You may modify your browser preference to provide you with choices relating to cookies. You have the choice to accept all cookies, to be notified when a cookie is set or to reject all cookies. If you choose to reject cookies you may be unable to use those THP services that require registration in order to participate or will have to sign in each time you visit the THP Network. 
+
+Our advertising is currently served by third party advertising companies which deliver a cookie to you so the ads you see can be tracked and ensure that you are not shown the same ad too many times. Since the third party advertising company only tags your computer with a number, they know nothing about who you are. THP does not provide these third party advertising companies with any personally identifiable information. However, these companies may use non-personally identifiable information about your visits to the THP Network and other sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, 
 
   
 
