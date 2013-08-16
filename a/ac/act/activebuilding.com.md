@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activebuilding.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603115444id_/http%3A//activebuilding.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activebuilding.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817001241id_/http%3A//activebuilding.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ActiveBuilding
 
