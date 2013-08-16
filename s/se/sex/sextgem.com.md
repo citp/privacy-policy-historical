@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sextgem.com privacy policy that was archived on 2013-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130403023553id_/http%3A//sextgem.com/privacy%3Fsessid%3Dvpk2lc7nd236p2b34902vr3qu6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sextgem.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816205418id_/http%3A//sextgem.com/privacy) for the most accurate reproduction.*
 
-# Datenschutzrichtlinien - Visuelles, mobiles Seiten Building Tool / wap Kreator
+# Politique de confidentialité - Outil visuel de la création des sites mobiles
 
 XTGEM Service Provider aims to ensure the protection of XTGEM website visitors’ and service users’ privacy. This privacy policy is applied only to XTGEM website.
 
