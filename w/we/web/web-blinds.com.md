@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the web-blinds.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501041540id_/http%3A//www.web-blinds.com/about-web-blinds/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web-blinds.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816220711id_/http%3A//www.web-blinds.com/about-web-blinds/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
