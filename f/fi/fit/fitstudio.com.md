@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fitstudio.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118123722id_/http%3A//www.fitstudio.com/welcome/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitstudio.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816051603id_/http%3A//www.fitstudio.com/welcome/privacy_policy) for the most accurate reproduction.*
 
-# FitStudio - Privacy Policy
+# FitStudio - Privacy Policy | FitStudio by Sears
 
 This web site is owned and operated by a Sears Holdings Corporation entity (“Sears Holdings”). At Sears Holdings, we want to ensure that you understand what information we gather about you, how we use it, and the safeguards we have in place in order to protect it. If you have additional questions or would like further information on this topic, please feel free to write to our Webmaster at [webmaster@customerservice.sears.com](mailto:webmaster@customerservice.sears.com). This Privacy Policy applies to information collected through this web site. **Please note that our subsidiary Lands’ End will continue to maintain its own privacy policy. You may view Lands’ End’s privacy policy by clicking[here:](http://www.landsend.com/customerservice/services_policies/PS_privacy)**
 
