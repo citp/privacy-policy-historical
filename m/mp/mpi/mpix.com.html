@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mpix.com privacy policy that was archived on 2013-04-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130430101225id_/http%3A//www.mpix.com/about/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mpix.com privacy policy that was archived on 2013-08-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130816074020id_/http%3A//www.mpix.com/about/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
 	<meta charset="utf-8">
@@ -10,13 +10,13 @@
     <meta name="viewport" content="width=1024">
 	<meta name="apple-itunes-app" content="app-id=568155066">
     
-	<link href="/content/css/fonts.css?2.5.4863.17891" rel="stylesheet">
-    <link href="/content/css/style.min.css?2.5.4863.17891" rel="stylesheet" media="screen, projection, print">        
+	<link href="/content/css/fonts.css?2.5.4975.13851" rel="stylesheet">
+    <link href="/content/css/style.min.css?2.5.4975.13851" rel="stylesheet" media="screen, projection, print">        
     
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/content/js/modernizr-2.0.min.js?2.5.4863.17891"></script>
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/content/js/modernizr-2.0.min.js?2.5.4975.13851"></script>
 	
 
-    <script type="text/javascript" src="/content/js/script.min.js?2.5.4863.17891"></script>
+    <script type="text/javascript" src="/content/js/script.min.js?2.5.4975.13851"></script>
     
 
     <script src="/content/js/dynamicjs.ashx"></script>    
@@ -34,11 +34,32 @@
         _gaq.push(['_addIgnoredRef', 'mpix.com']);
         _gaq.push(['_trackPageview']);
 
+        // from  http://www.blindfiveyearold.com/new-ways-to-track-keyword-rank -- send analytics google rank info when possible
+        try {
+            if (document.referrer.match(/google\.com/gi) && document.referrer.match(/cd/gi)) {
+                var myString = document.referrer;
+                var r = myString.match(/cd=(.*?)&/);
+                var rank = parseInt(r[1]);
+                var kw = myString.match(/q=(.*?)&/);
+
+                if (kw[1].length > 0) {
+                    var keyWord = decodeURI(kw[1]);
+                } else {
+                    keyWord = "(not provided)";
+                }
+
+                var p = document.location.pathname;
+                _gaq.push(['_trackEvent', 'RankTracker', keyWord, p, rank, true]);
+            }
+        } catch (exc) { }
+
+
         (function () {
             var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
             ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
         })();
+
 
     </script>
     
@@ -290,14 +311,6 @@
         
             
                 <li class="u-1-7 ">
-                    <a class="grid-content" href="/products/mothersday">
-                        <img src="http://images.mpix.com/ver/m2.5.0/121x0/public/nav/mothersday.mpng" alt="Mother's Day">                
-                        <span>Mother's Day</span>
-                    </a>
-                    <span class="li-bottom"></span>                
-                 </li>    
-            
-                <li class="u-1-7 ">
                     <a class="grid-content" href="/products/weddings">
                         <img src="http://images.mpix.com/ver/m2.5.0/121x0/public/nav/Wedding-ICON.mpng" alt="Weddings">                
                         <span>Weddings</span>
@@ -352,8 +365,36 @@
         
             
                 <li class="u-1-7 ">
+                    <a class="grid-content" href="http://www.mpix.com/-/cards/baby-birth-announcements">           
+                        <span>Birth Announcements, Personalized Birth Announcement Cards</span>
+                    </a>
+                    <span class="li-bottom"></span>                
+                 </li>    
+            
+                <li class="u-1-7 ">
+                    <a class="grid-content" href="http://www.mpix.com/-/cards/bridal-shower-invitations">           
+                        <span>Bridal Shower Invitations, Personalized Photo Bridal Shower Invitations</span>
+                    </a>
+                    <span class="li-bottom"></span>                
+                 </li>    
+            
+                <li class="u-1-7 ">
+                    <a class="grid-content" href="http://www.mpix.com/-/cards/birthday-party-invitations">           
+                        <span>Custom Photo Birthday Party Invitations, Birthday Invitation Photo Cards</span>
+                    </a>
+                    <span class="li-bottom"></span>                
+                 </li>    
+            
+                <li class="u-1-7 ">
                     <a class="grid-content" href="http://www.mpix.com/-/cards/graduation-invitations-announcements">           
                         <span>Graduation Cards, Graduation Announcements, Graduation Invitations</span>
+                    </a>
+                    <span class="li-bottom"></span>                
+                 </li>    
+            
+                <li class="u-1-7 ">
+                    <a class="grid-content" href="http://www.mpix.com/-/cards/holiday-photo-greeting">           
+                        <span>Holiday Cards, Custom Holiday Greeting Cards, Holiday Photo Cards</span>
                     </a>
                     <span class="li-bottom"></span>                
                  </li>    
@@ -365,9 +406,44 @@
                     <span class="li-bottom"></span>                
                  </li>    
             
+                <li class="u-1-7 ">
+                    <a class="grid-content" href="http://www.mpix.com/-/cards/wedding-thank-you">           
+                        <span>Personalized Wedding Thank You Cards</span>
+                    </a>
+                    <span class="li-bottom"></span>                
+                 </li>    
+            
+                <li class="u-1-7 ">
+                    <a class="grid-content" href="http://www.mpix.com/-/cards/wedding-save-the-date">           
+                        <span>Save the Date Cards, Custom Photo Save the Date Wedding Cards</span>
+                    </a>
+                    <span class="li-bottom"></span>                
+                 </li>    
+            
+                <li class="u-1-7 ">
+                    <a class="grid-content" href="http://www.mpix.com/-/cards/thank-you-custom">           
+                        <span>Thank You Cards, Order Personalized Thank You Photo Cards Online</span>
+                    </a>
+                    <span class="li-bottom"></span>                
+                 </li>    
+            
+                <li class="u-1-7 ">
+                    <a class="grid-content" href="http://www.mpix.com/-/cards/wedding-invitations-announcements">           
+                        <span>Wedding Invitation Flat Cards, Folded Cards and Photo Cards</span>
+                    </a>
+                    <span class="li-bottom"></span>                
+                 </li>    
+            
+                <li class="u-1-7 ">
+                    <a class="grid-content" href="http://www.mpix.com/-/cards/wedding-reception-invitation">           
+                        <span>Wedding Reception Invitation Flat Cards</span>
+                    </a>
+                    <span class="li-bottom"></span>                
+                 </li>    
+            
                 <li class="u-1-7 last">
-                    <a class="grid-content" href="http://www.mpix.com/-/cards/holiday-photo-greeting">           
-                        <span>Personalized Holiday Photo Greeting Cards</span>
+                    <a class="grid-content" href="http://www.mpix.com/-/cards/wedding-custom-rsvp">           
+                        <span>Wedding RSVP Flat Cards</span>
                     </a>
                     <span class="li-bottom"></span>                
                  </li>    
@@ -658,8 +734,6 @@
                        <h3>Occasions</h3>   
                        <ul>
                        
-                                <li><a class="" href="/products/mothersday">Mother's Day</a></li>
-                           
                                 <li><a class="" href="/products/weddings">Weddings</a></li>
                            
                                 <li><a class="" href="/products/babyandkids">Baby &amp; Kids</a></li>
@@ -682,11 +756,29 @@
 
                        <ul class="visuallyhidden">
                             
+                                <li><a href="http://www.mpix.com/-/cards/baby-birth-announcements">Birth Announcements, Personalized Birth Announcement Cards</a></li>
+                            
+                                <li><a href="http://www.mpix.com/-/cards/bridal-shower-invitations">Bridal Shower Invitations, Personalized Photo Bridal Shower Invitations</a></li>
+                            
+                                <li><a href="http://www.mpix.com/-/cards/birthday-party-invitations">Custom Photo Birthday Party Invitations, Birthday Invitation Photo Cards</a></li>
+                            
                                 <li><a href="http://www.mpix.com/-/cards/graduation-invitations-announcements">Graduation Cards, Graduation Announcements, Graduation Invitations</a></li>
+                            
+                                <li><a href="http://www.mpix.com/-/cards/holiday-photo-greeting">Holiday Cards, Custom Holiday Greeting Cards, Holiday Photo Cards</a></li>
                             
                                 <li><a href="http://www.mpix.com/-/cards/christmas-photo-greeting">Personalized Christmas Photo Greeting Cards</a></li>
                             
-                                <li><a href="http://www.mpix.com/-/cards/holiday-photo-greeting">Personalized Holiday Photo Greeting Cards</a></li>
+                                <li><a href="http://www.mpix.com/-/cards/wedding-thank-you">Personalized Wedding Thank You Cards</a></li>
+                            
+                                <li><a href="http://www.mpix.com/-/cards/wedding-save-the-date">Save the Date Cards, Custom Photo Save the Date Wedding Cards</a></li>
+                            
+                                <li><a href="http://www.mpix.com/-/cards/thank-you-custom">Thank You Cards, Order Personalized Thank You Photo Cards Online</a></li>
+                            
+                                <li><a href="http://www.mpix.com/-/cards/wedding-invitations-announcements">Wedding Invitation Flat Cards, Folded Cards and Photo Cards</a></li>
+                            
+                                <li><a href="http://www.mpix.com/-/cards/wedding-reception-invitation">Wedding Reception Invitation Flat Cards</a></li>
+                            
+                                <li><a href="http://www.mpix.com/-/cards/wedding-custom-rsvp">Wedding RSVP Flat Cards</a></li>
                             
                        </ul>
                 </div>
@@ -732,14 +824,31 @@
 </div>
 <!--/NOTINDEXED-->
     
-<script>
+<script type="text/javascript">
     var carttextid = "cartLink";
     var loginBubble;
 
     $(function(){
         new mpix.ui.menu($("#header-container, #logo-container"));       
-        loginBubble = new mpix.ui.login(); 
+        loginBubble = new mpix.ui.login();
     });
+
+    adroll_adv_id = "NRHQEUPYSJDSZFQDXTJK64";
+    adroll_pix_id = "RNNDX5SSQZHE3DWZETX4U3";
+    (function () {
+        var oldonload = window.onload;
+        window.onload = function () {
+            __adroll_loaded = true;
+            var scr = document.createElement("script");
+            var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+            scr.setAttribute('async', 'true');
+            scr.type = "text/javascript";
+            scr.src = host + "/j/roundtrip.js";
+            ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+            if (oldonload) { oldonload() } 
+        };
+    } ()); 
 </script>
 
 <!--NOTINDEXED-->
