@@ -1,8 +1,9 @@
-<!--The following is the downloaded HTML source of the freeoneslive.com privacy policy that was archived on 2013-05-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130507085932id_/http%3A//www.freeoneslive.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the freeoneslive.com privacy policy that was archived on 2013-08-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130816215730id_/http%3A//www.freeoneslive.com/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge;chrome=1">
+	
 		
 
 	
@@ -15,14 +16,15 @@
 <meta name="description" content="">
 <meta name="keywords" content="">	
 	
-	
-	<link rel="stylesheet" type="text/css" href="http://ecsm.vs.com/css/whitelabel/basic_02.css" media="all">
+			
 
+<link rel="stylesheet" type="text/css" href="http://lvlt.vs3.com/min/css/group/css_live_basic_02_20130501.css" media="all">
+	
 	<!--[if IE ]><style> .ratingTab span { width:40px; } </style><![endif]-->
 	
 	
 		
-	<link rel="stylesheet" type="text/css" href="/css/whitelabel/whitelabel.css?domain=freeoneslive.com" media="all">
+		<link rel="stylesheet" type="text/css" href="/css/whitelabel/whitelabel.css?domain=freeoneslive.com" media="all">
 	
 	
 	<link rel="canonical" href="http://www.flirt4free.com/privacy.php">	
@@ -35,18 +37,25 @@
 	
 		
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge;chrome=1">
+	
 	
 	<meta name="RATING" content="RTA-5042-1996-1400-1577-RTA">
 	
 	
-          
-    
-	<script type="text/javascript" src="http://ecsm.vs.com/javascript/jquery/jquery-1.4.2.min.js"></script>
-
-	<script type="text/javascript" src="/javascript/overlay.js"></script>
+    	
+	    
+    <script type="text/javascript">
 	
+							var reg_overlay_template_set	= "wlb2_overlay_1";
+			
+	</script>
+    
+			
+		<script type="text/javascript" src="http://lvlt.vs3.com/min/javascript/group/js_live_basic_02_20130501.js"></script>
 		
+				
+		
+	
 	<script type="text/javascript">
 	
 		
@@ -71,15 +80,18 @@
 		<div class="header pageWidth clearfix">
 			
 					
-										<a href="javascript:popRegistration('header_free_120_credits_badge');" class="freeCredits" title="Get 120 FREE credits when you register. Click here!"></a><!-- Free Credits Link -->
-					
+															
+						<a href="javascript:popRegistration('header_free_120_credits_badge');" class="freeCredits" title="Get 120 FREE credits when you register. Click here!"></a><!-- Free Credits Link -->
+						
+										
 		
 			<div class="login">
 				<form action="/my-account/?a=login" method="post">
 					<input type="hidden" name="acctCheck" value="1">
 					<input type="hidden" name="send_to_page" value="/privacy.php">
 					<input type="hidden" name="login[remember_me]" value="1">
-					
+											<input type="hidden" name="key" value="f75d98f01363baf">
+										
 					<span class="loginText">Username:</span>
 					<input type="text" name="login[username]" autocapitalize="off">
 					<span class="loginText">Password:</span>
@@ -88,7 +100,7 @@
 				</form>
 			</div>
 			
-			<a href="/" class="logo"><img src="http://logos.videosecrets.com/logos/girls/bbc3.jpg" width="285" height="65" alt="FreeOnes Live Free Cams"></a>
+			<a href="/" class="logo"><img src="http://logos.videosecrets.com/logos/girls/bbc3.jpg" width="285" height="65" alt="FreeOnes Live Free Cams Logo"></a>
 			<div class="topLinks">
 				
 				<div>
@@ -98,13 +110,15 @@
 				
 					
 							<a href="#" id="loginSwitch">Login</a>
-							| 
-							<a href="/lookup.php">Forgot Password?</a> | 
-							<span><a rel="nofollow" href="javascript:popRegistration('header_free_signup_link');">Start Chatting FREE</a></span>
-							
+							 | 
+							<a href="/lookup.php">Forgot Password?</a>
 							
 														
-							
+								
+																	 | 
+									<span><a rel="nofollow" href="javascript:popRegistration('wl02_header_start_chatting_free_link',reg_overlay_template_set);">Start Chatting FREE</a></span>
+																
+																									
 <script type="text/javascript" src="/javascript/jquery/jquery.validate.js"></script>
 <script type="text/javascript">
 
@@ -142,9 +156,37 @@ var NEW_PWD		= {	invalid_characters: {	verdict:	'Invalid characters!',
 	$(document).ready(function(){
 		$("#registration_form").validate();			
 	});
+	
+	//
+	//	IOVATION
+	//
+	
+	//
+	//	Subscriber supplied variables for snare 
+	//	Snare operation to perform
+	//
+	var io_operation	= 'ioBegin';
+	
+	//
+	//	Define BB Element
+	//
+	var io_bbout_element_id		= 'iobb';
+	
+	var io_install_stm			= false; 	// do not try to download activex control
+	var io_exclude_stm			= 12;  		// do not attempt to instantiate an activex control, installed by another customer
+	var io_install_flash		= false; 	// do not force installation of Flash Player
+	var io_install_rip			= true; 	// do attempt to collect real ip
+	
+	//
+	//	Uncomment any of the below to signal an error when ActiveX or Flash is not present
+	//
+	//var io_install_stm_error_handler = "redirectActiveX();";
+	var io_flash_needs_update_handler	= "";
+	var io_install_flash_error_handler	= "";
 
 </script>
 
+<script language="javascript" src="https://ci-mpsnare.iovation.com/snare.js"></script>
 <script type="text/javascript" src="/javascript/jquery/jquery.password.js"></script>
 
 
@@ -165,10 +207,10 @@ var NEW_PWD		= {	invalid_characters: {	verdict:	'Invalid characters!',
 			<form class="cmxform" id="registration_form" name="registration_form" action="/register/" method="post">
 			<input type="hidden" name="a" value="process">
 			<input type="hidden" name="SIGNUP[model_id]" value="">
-			<input type="hidden" name="SIGNUP[reg_template]" value="">
-			
-						
+			<input type="hidden" name="SIGNUP[reg_template]" value="wlb2_overlay_1">
 			<input type="hidden" name="SIGNUP[form_ref]" value="" id="registerOverlay_formRef">
+			<input type="hidden" name="SIGNUP[form_source]" value="overlay">
+			<input type="hidden" name="SIGNUP[iobb]" id="iobb">
 				
 			<div class="clearfix">
 				<label>Chat Nickname:</label>
@@ -202,7 +244,7 @@ var NEW_PWD		= {	invalid_characters: {	verdict:	'Invalid characters!',
 						
 	</div>				
 
-</div>							
+</div>																							
 											
 										
 					
@@ -217,11 +259,11 @@ var NEW_PWD		= {	invalid_characters: {	verdict:	'Invalid characters!',
 			
 			<!-- Navigation -->
 			<ul class="navigation">
-				<li class="homepage"><a href="/">Live Chat</a></li>
+				<li class="homepage"><a href="/rooms/">Live Chat</a></li>
 				<li class="sep"></li>
 				<li><a href="/vod/">Videos</a></li>
 				<li class="sep"></li>
-				<li><a href="/models/?letter=a&amp;pg=1">Profiles</a></li>
+				<li><a href="/models/bios/?letter=a&amp;pg=1">Profiles</a></li>
 				<li class="sep"></li>
 				<li>
 											<a href="/vip/member-benefits.php">VIP</a>
@@ -234,12 +276,13 @@ var NEW_PWD		= {	invalid_characters: {	verdict:	'Invalid characters!',
 				
 						
 						<li><a href="/support.php">Support</a>
-						</li><li class="sep"></li>
-						<li class="join"><a href="javascript:popRegistration('topnav_free_signup_tab');">Join FREE</a></li>
-						
+															</li><li class="sep"></li>
+																	<li class="join"><a href="javascript:popRegistration('topnav_free_signup_tab',reg_overlay_template_set);">Join FREE</a></li>
+																								
+								
 			</ul>
+
 						
-			
 			
 							
 		
@@ -539,7 +582,31 @@ var NEW_PWD		= {	invalid_characters: {	verdict:	'Invalid characters!',
 
 
 	
+				<div align="center" class="adBanner">
+			
+
 	
+											
+	
+					
+		
+ 
+
+
+	<script type="text/javascript"><!--//<![CDATA[
+	var vsad_url = (location.protocol=='https:'?'https://www.vs4.com/req.php':'http://www.vs4.com/req.php');
+	var vsad_ran = Math.floor(Math.random()*99999999999);
+	document.write("<scr"+"ipt type='text/javascript' src='"+vsad_url);
+	document.write("?z=197");
+	document.write("&h=freeoneslive.com");
+	document.write("&r="+vsad_ran);
+	document.write("'></scr"+"ipt>");
+	//]]>--></script><script type="text/javascript" src="https://www.vs4.com/req.php?z=197&amp;h=freeoneslive.com&amp;r=98987392021"></script>
+	<noscript><a href='http://www.vs4.com/clk.php?z=197&r=131702' target='_top'><img src='http://www.vs4.com/img.php?z=197&r=131702' border='0' alt='' /></a></noscript>
+
+		</div>
+	<br>
+
 <div class="footerWrap">
 	<div class="footer">
 	
@@ -553,6 +620,7 @@ var NEW_PWD		= {	invalid_characters: {	verdict:	'Invalid characters!',
 						<a href="/my-account/?a=login">Login</a><br>
 						<a href="/faq.php">Cam to Cam Chat</a><br>
 			<a href="http://www.freeoneslive.com/click-track.php?product=live&amp;dhd_page=&amp;model_id=&amp;sitekey=whitelabel&amp;wl_domain=freeoneslive.com">Buy Credits</a><br>
+
 		</div>
 		
 		<div class="footCol">
@@ -563,6 +631,8 @@ var NEW_PWD		= {	invalid_characters: {	verdict:	'Invalid characters!',
 			<a href="/features/girls/">Adult Feature Shows</a><br>
 			<a href="/fanclubs/girls">Fan Clubs</a><br>
 			<a href="/super-voyeur/">Super Voyeur</a><br>
+			<a href="/promos/">Promotion Contests</a><br>
+			<a href="/spotlight/show-offers.php">Show Offers</a><br>
 		</div>
 		
 		<div class="footCol">
@@ -579,16 +649,21 @@ var NEW_PWD		= {	invalid_characters: {	verdict:	'Invalid characters!',
 			<a href="/support.php">Support</a><br>
 			<a href="/support.php">Contact Us</a><br>
 			<a href="/newsletters.php">Newsletters</a><br>
+			
 
 		</div>
 		
+		
+		
 		<div class="footCol">
+		
+				
 			<h3>Extras</h3>
+			
 			<a href="http://www.freeoneslive.com/click-track.php?product=live&amp;dhd_page=new_cust&amp;model_id=&amp;sitekey=whitelabel&amp;wl_domain=freeoneslive.com">Get 120 Free Credits</a><br>
-			<a href="/promos/">Promotion Contests</a><br>
 			<a href="javascript:if(document.all)window.external.AddFavorite(location.href,document.title); else if(window.sidebar)window.sidebar.addPanel (document.title,location.href,'');">Bookmark Us</a>
-			<br><br><br>
-			<a href="http://www.freeones.com" target="_blank">FreeOnes Pornstars</a>			
+		
+					
 		</div>
 		
 		
