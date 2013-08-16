@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mojohelpdesk.com privacy policy that was archived on 2013-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130403060507id_/http%3A//www.mojohelpdesk.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mojohelpdesk.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816113237id_/http%3A//www.mojohelpdesk.com/privacy.php) for the most accurate reproduction.*
 
 # Mojo Helpdesk Privacy Statement
 
