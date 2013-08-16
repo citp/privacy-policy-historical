@@ -1,21 +1,28 @@
-<!--The following is the downloaded HTML source of the proptiger.com privacy policy that was archived on 2013-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130620222218id_/http%3A//www.proptiger.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the proptiger.com privacy policy that was archived on 2013-08-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130816094213id_/http%3A//www.proptiger.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-    <script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/9928.js?438999" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" async="" src="https://ssl.vizury.com/analyze/pixel.php?account_id=VIZVRM949"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
-<title>Privacy Policy - Proptiger.com</title>
+    <title>Privacy Policy - Proptiger.com</title>
     <meta name="description" content="Proptiger Privacy policy is subject to the terms of the Site Policy (User agreement) of this website.">
     <meta name="keywords" content="">
-    	<link href="http://cdn.proptiger.com/css/combine-common-min.css?v=110" rel="stylesheet" type="text/css">
-	<link href="http://cdn.proptiger.com/scripts/fancybox/fancybox/jquery.fancybox-1.3.4.css?v=110" rel="stylesheet" type="text/css" media="screen">
-<script type="text/javascript">
-	var expandedPageName;
-	expandedPageName = 'PRIVACY POLICY';
-	pgName = 'PRIVACY POLICY';
+    	<link href="http://cdn.proptiger.com/css/combine-common-min.css?v=081313" rel="stylesheet" type="text/css">
+	<link href="http://cdn.proptiger.com/scripts/fancybox/fancybox/jquery.fancybox-1.3.4.css?v=112" rel="stylesheet" type="text/css" media="screen">
+<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/9928.js?438999" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.vizury.com/analyze/pixel.php?account_id=VIZVRM949"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">
+  var expandedPageName;
+  expandedPageName = 'PRIVACY POLICY';
+  pgName = 'PRIVACY POLICY';
+  userid="";
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-22638191-1']);
   _gaq.push(['_setSiteSpeedSampleRate', 100]);
+
+  if(userid!='')
+    _gaq.push(["_setCustomVar", 2, "UserType", "Member", 2]);
+  else
+    _gaq.push(["_setCustomVar", 2, "UserType", "Visitor", 2]);
+
+  _gaq.push(['_setCustomVar', 1, 'expandedPageName', expandedPageName, 3]);
   _gaq.push(['_trackPageview']);
 </script>
 </head>
@@ -24,8 +31,6 @@
 	var WRInitTime=(new Date()).getTime();
 </script> -->
 <!-- Header includes -->
-<link rel="stylesheet" href="http://cdn.proptiger.com/site_header/assets/css/pt-bootstrap.css?v=110">
-<link rel="stylesheet" href="http://cdn.proptiger.com/site_header/assets/css/site_header.css?v=110">
 <script>
     window.GOOGLE_CLIENT_ID = '215178817618.apps.googleusercontent.com';
     window.GOOGLE_REDIRECT_URL = 'http://www.proptiger.com/forum/User_Login_Form.php';
@@ -124,19 +129,17 @@
                     </div>
                 </form>
             </div>
-            <div id="signin-right" class="span3">
+            <div id="signin-right" class="span4">
                 <span><b>Sign in with</b></span>
                 <div class="clearfix" style="margin-top:20px;">
                     <div id="fb-root"></div>
                     <div id="user-info"></div>
-                    <img src="http://cdn.proptiger.com/images/fb_sign_icon.gif" width="134px" height="34px" id="fb-auth" style="display:none;border:none;" alt="Facebook">
+                    <div id="fb-auth" class="list_sprite btn_fb" title="Facebook"></div>
                 </div>
 
                 <div class="clearfix" style="margin-top:20px;">
                     <div>
-                        <a href="#" onclick="login();" id="loginText">
-                            <img src="http://cdn.proptiger.com/images/google_sign_ico.gif" width="134px" height="34px" style="border:none;" alt="Google">
-                        </a>
+                        <a href="#" onclick="login();" id="loginText" class="list_sprite btn_google" title="Google"></a>
                     </div>
                 </div>
             </div>
@@ -173,7 +176,11 @@
                         <span style="margin-bottom: 5px;">E-mail<font style="color:#FF0000;">*</font>:</span>
                         <input class="medium" id="auth_register_email_id" name="auth_register_email_id" type="text" placeholder="E-mail" title="Please enter your email id." onkeypress="sendSignFillEvent();" style="padding:4px;font-size:14px;">
                     </div>
-
+                    <div class="pull-right">
+                        <span style="margin-bottom: 5px;">Phone Number<font style="color:#FF0000;"></font>:</span>
+                        <input class="medium" id="auth_register_phone_number" name="auth_register_phone_number" type="text" placeholder="Phone Number" title="" onkeypress="sendSignFillEvent();" style="padding:4px;font-size:14px;">
+                    </div>
+                    <font color="red" class="formright" style="padding-top:2px;padding-left:144px;font-size:10px;display:none;" id="error_phone"></font>
                     <div class="pull-right">
                         <span style="margin-bottom: 5px;">Password<font style="color:#FF0000;">*</font>:</span>
                         <input class="medium" id="auth_register_password" name="auth_register_password" type="password" placeholder="Password" title="Please enter the password." style="padding:4px;font-size:14px;">
@@ -296,7 +303,7 @@
     <!-- ############################### Hidden div for Search Strip ############################### -->
     <div class="row-fluid titlebar">
         <!-- span2 -->
-        <a class="span2" href="/"><img src="http://cdn.proptiger.com/images/logo.png" width="151" height="38" alt="PropTiger"></a>
+        <a class="span2" href="/"><span class="list_sprite logo_pt" title="PROPTIGER"></span></a>
         <!-- span4 -->
         <div class="span4 input-append offset1">
           <form id="hiddenLocalityForm" method="POST" action="property-in-city-real-estate.php" style="margin:0;"><input type="hidden" name="localityId" value=""></form>
@@ -316,13 +323,13 @@
                     </a>
                     <ul class="dropdown-menu">
                         <li rel="+91-92788-92788" class="active">
-                            <a href="#" onclick="sendGAEvent('phoneNumber', 'selected', 'India');"><img src="http://cdn.proptiger.com/images/icn-falg.gif" alt="" width="18" height="11"> IND</a>
+                            <span href="#" onclick="sendGAEvent('phoneNumber', 'selected', 'India');" class="list_sprite flag_in">IND</span>
                         </li>
                         <li rel="+1-347-468-9428">
-                            <a href="#" onclick="sendGAEvent('phoneNumber', 'selected', 'USA');"><img src="http://cdn.proptiger.com/images/icn-falg1.jpg" alt="" width="18" height="11"> USA</a>
+                            <span href="#" onclick="sendGAEvent('phoneNumber', 'selected', 'USA');" class="list_sprite flag_usa">USA</span>
                         </li>
                         <li rel="+44-208-099-1659">
-                            <a href="#" onclick="sendGAEvent('phoneNumber', 'selected', 'UK');"><img src="http://cdn.proptiger.com/images/icn-falg2.jpg" alt="" width="18" height="11"> UK</a>
+                            <span href="#" onclick="sendGAEvent('phoneNumber', 'selected', 'UK');" class="list_sprite flag_uk">UK</span>
                         </li>
                     </ul>
                 </div>
@@ -353,14 +360,14 @@
 <a href="nri.php" onclick="sendGAEvent('linkClicked', 'clicked', 'nri');">NRI Services </a>
 </div>
 <div class="spacer10">&nbsp;</div>
-<div><a href="http://www.proptiger.com/p-pacifica-aurum-omr-road-chennai.php?utm_source=banner_ad&amp;utm_medium=banner&amp;utm_term=chennai&amp;utm_campaign=website"><img src="http://cdn.proptiger.com/images/banners/Pacifica-Insite-leaft165x310-new.gif?v=1" width="165" height="310" border="0" alt="Pacifica Aurum"></a></div>
+<div><a href="http://www.proptiger.com/p-sai-proviso-county-panvel-mumbai.php?utm_source=banner_ad&amp;utm_medium=banner&amp;utm_term=mumbai&amp;utm_campaign=website"><img src="http://cdn.proptiger.com/images/banners/Inside-Left-Proviso-corner.gif?v=1" width="165" height="310" border="0" alt="Sai Proviso County"></a></div>
 <div class="spacer10">&nbsp;</div>
 <div class="project_lefthead">Client Testimonials</div>
 <div class="spacer3">&nbsp;</div>
-<div>Buying a house through PropTiger has been a refreshing experience. The whole process was very transparent. All my questions were patiently answered. At no time was I put under any pressure to rush into my deal. <br>
+<div>I would personally like to thank your PropTiger team for being very professional in handling my deal with Ramprastha Rise project. I would like to have a word of praise for your Gurgaon team for their preseverense and showing utmost care in dealing with me.<br>
   <br>
-  Chandra Prakash Gupta<br>
-  <strong>Geometric Limited - Pune </strong></div>
+  Paras Sharma<br>
+  <strong>Jindal Steel &amp; Power Limited </strong></div>
   <div class="flr"><a href="testimonials.php">More</a></div>
   <div class="spacer10">&nbsp;</div>
  </div>
@@ -416,7 +423,17 @@ google_ad_height = 250;
 <!--a href="homeloan.php" ><img border = "0" src="http://cdn.proptiger.com/images/home_loan.gif" width="248" height="209" /></a -->
 </div>
 <div class="spacer15">&nbsp;</div>
-<div><a href="javascript:void(0);" onclick="showEnqFormGeneric(); return false;"><img border="0" src="http://cdn.proptiger.com/images/post.gif" width="248" height="114"></a></div>
+<div class="postRequirement-wrap">
+    <div class="lftCol">
+        <span class="icon_mail"> &nbsp;</span>
+    </div>
+    <div class="rghtCol">
+        <h5>Post your Requirement</h5>
+        <p>Not able to find your preferred property or location?<br>Register your requirement here.</p>
+        <a class="btn_post" href="javascript:void(0);" onclick="showEnqFormGeneric(); return false;">POST NOW</a><br>
+    </div>
+    <div class="clearfix" style="clear:both;"></div>
+</div>
 <div class="spacer10">&nbsp;</div>
 </div>
 </div>
@@ -558,7 +575,7 @@ google_ad_height = 250;
                 </div>
             </div>
         </div>
-        <div class="row req min_len_6">
+        <div class="row req">
             <div class="col label">
                 Phone<span class="star">*</span>:
             </div>
@@ -584,7 +601,7 @@ google_ad_height = 250;
                 </div>
             </div>
         </div>
-
+        
        
                             <!-- ################ City Starts ################# -->
                 <div class="row req">
@@ -733,12 +750,12 @@ google_ad_height = 250;
                                     
                                                                                                                                                                          <option value="Gurgaon">Gurgaon</option>
                                     
-                                                                                                                                                                         <option value="Mumbai">Mumbai</option>
-                                    
+                                                                                                                                                                        <option value="Mumbai" selected="selected">Mumbai</option>
+                                     
                                                                                                                                                                          <option value="Pune">Pune</option>
                                     
-                                                                                                                                                                        <option value="Bangalore" selected="selected">Bangalore</option>
-                                     
+                                                                                                                                                                         <option value="Bangalore">Bangalore</option>
+                                    
                                                                                                                                                                          <option value="Chennai">Chennai</option>
                                     
                                                                                                                                                                          <option value="Kolkata">Kolkata</option>
@@ -768,7 +785,7 @@ google_ad_height = 250;
                     </div>
                 </div>
                 <!-- ################## City Ends ################## -->
-            
+                        
                             <!-- ################ Locality Starts ################# -->
                 <div class="row req">
                     <div class="col label">
@@ -796,6 +813,7 @@ google_ad_height = 250;
             </div>
         </div>
                 <div class="row">
+             <div style="margin-left:80px;padding-top:7px;display:none;" id="lead_loader"><img src="/images/ajax-loader.gif" width="25px" height="25px"></div>
             <div class="col submit">
                 <input name="submit" type="button" value="Submit" onclick="var lead_form=$(this).parents('form:first'); lead_submit(lead_form, submitSubReqForm);">
             </div>
@@ -817,24 +835,27 @@ google_ad_height = 250;
         <input type="hidden" name="lead_extra_bedrooms" value="">
         <input type="hidden" name="lead_extra_propertyType" value="">
         <input type="hidden" name="lead_ui_typeid" value="">
-        <input type="hidden" name="lead_session_loc" value="188">
-    	    </form>
+        <input type="hidden" name="lead_session_loc" value="">
+    	        <input type="hidden" name="resaleNlaunchFlg" value=""> 
+    </form>
 </div>
 <script type="text/javascript">
-var pgName;
 var gblPageName;
 var pageCityId;
 var pageCityName;
 var pageProjectId;
 var pageProjectName;
+var pageLocalityId;
 var postLeadRedirect;
+var leadFormId;
 
 gblPageName = 'PRIVACY POLICY';
-pgName = 'PRIVACY POLICY';
 pageCityId = '';
 pageCityName = '';
 pageProjectId = '';
 pageProjectName = '';
+pageLocalityId = '';
+leadFormId = 'lead_form_footer'; 
 
 function GEBCN(cn){
     if(document.getElementsByClassName) // Returns NodeList here
@@ -886,8 +907,7 @@ var list = GEBCN("country_select");
 for (var i = 0; i < list.length; i++) {
     appendCountryDropDown(country, list[i]);
 }
-</script>
-				<a href="javascript:void(0)" onclick="$('#subsReqForm').dialog('destroy');" style="font-size:12px;">Close</a></div>
+</script>				<a href="javascript:void(0)" onclick="$('#subsReqForm').dialog('destroy');" style="font-size:12px;">Close</a></div>
 				<div class="spacer10">&nbsp;</div>
 			</div>
 		</div>
@@ -897,22 +917,18 @@ for (var i = 0; i < list.length; i++) {
 
 
 
-<script src="http://cdn.proptiger.com/scripts/jquery/jquery-1.8.1.min.js?v=110" type="text/javascript"></script>
-<script src="http://cdn.proptiger.com/js/combine-common-min.js?v=110" type="text/javascript"></script>
+
+<script src="http://cdn.proptiger.com/scripts/jquery/jquery-1.8.1.min.js?v=112" type="text/javascript"></script>
+<script src="http://cdn.proptiger.com/js/combine-common-min.js?v=081313" type="text/javascript"></script>
+
 <script type="text/javascript">    
 $('#auth_register_country').append('<option value="0">India</option><option value="1">Australia</option><option value="2">Canada</option><option value="3">Pakistan</option><option value="4">United Arab Emirates</option><option value="5">United Kingdom</option><option value="6">United States</option><option value="7">----------</option><option value="8">Afghanistan</option><option value="9">Albania</option><option value="10">Algeria</option><option value="11">American Samoa</option><option value="12">Andorra</option><option value="13">Angola</option><option value="14">Anguilla</option><option value="15">Antigua and Barbuda</option><option value="16">Argentina</option><option value="17">Armenia</option><option value="18">Austria</option><option value="19">Azerbaijan</option><option value="20">Bahamas</option><option value="21">Bahrain</option><option value="22">Bangladesh</option><option value="23">Barbados</option><option value="24">Belarus</option><option value="25">Belgium</option><option value="26">Belize</option><option value="27">Benin</option><option value="28">Bermuda</option><option value="29">Bhutan</option><option value="30">Bosnia and Herzegovina</option><option value="31">Botswana</option><option value="32">Brazil</option><option value="33">British Virgin Islands</option><option value="34">Brunei</option><option value="35">Bulgaria</option><option value="36">Burkina Faso</option><option value="37">Burundi</option><option value="38">Cambodia</option><option value="39">Cameroon</option><option value="40">Canary Islands</option><option value="41">Cape Verde</option><option value="42">Cayman Islands</option><option value="43">Central African Republic</option><option value="44">Chad</option><option value="45">Chile</option><option value="46">China</option><option value="47">Colombia</option><option value="48">Comoros</option><option value="49">Congo</option><option value="50">Cook Islands</option><option value="51">Costa Rica</option><option value="52">Cote dIvoire</option><option value="53">Croatia</option><option value="54">Cuba</option><option value="55">Cyprus</option><option value="56">Czech Republic</option><option value="57">Denmark</option><option value="58">Dominica</option><option value="59">Dominican Republic</option><option value="60">East Timor</option><option value="61">Ecuador</option><option value="62">Egypt</option><option value="63">El Salvador</option><option value="64">Equatorial Guinea</option><option value="65">Eritrea</option><option value="66">Estonia</option><option value="67">Ethiopia</option><option value="68">Faeroe Islands</option><option value="69">Fiji</option><option value="70">Finland</option><option value="71">France</option><option value="72">French Guiana</option><option value="73">French Polynesia</option><option value="74">Gambia</option><option value="75">Georgia</option><option value="76">Germany</option><option value="77">Ghana</option><option value="78">Gibraltar</option><option value="79">Greece</option><option value="80">Greenland</option><option value="81">Grenada</option><option value="82">Guadeloupe</option><option value="83">Guam</option><option value="84">Guatemala</option><option value="85">Guinea</option><option value="86">Guinea-Bissau</option><option value="87">Guyana</option><option value="88">Haiti</option><option value="89">Holland</option><option value="90">Honduras</option><option value="91">Hong Kong</option><option value="92">Hungary</option><option value="93">Iceland</option><option value="94">Indonesia</option><option value="95">Iran</option><option value="96">Iraq</option><option value="97">Ireland</option><option value="98">Isle of Man</option><option value="99">Israel</option><option value="100">Italy</option><option value="101">Jamaica</option><option value="102">Japan</option><option value="103">Jordan</option><option value="104">Kazakhstan</option><option value="105">Kenya</option><option value="106">Kiribati</option><option value="107">Kuwait</option><option value="108">Kyrgyzstan</option><option value="109">Laos</option><option value="110">Latvia</option><option value="111">Lebanon</option><option value="112">Lesotho</option><option value="113">Liberia</option><option value="114">Libya</option><option value="115">Liechtenstein</option><option value="116">Lithuania</option><option value="117">Luxembourg</option><option value="118">Macau</option><option value="119">Macedonia</option><option value="120">Madagascar</option><option value="121">Malawi</option><option value="122">Malaysia</option><option value="123">Maldives</option><option value="124">Mali</option><option value="125">Malta</option><option value="126">Martinique</option><option value="127">Mauritius</option><option value="128">Mexico</option><option value="129">Moldova</option><option value="130">Monaco</option><option value="131">Mongolia</option><option value="132">Montenegro</option><option value="133">Montserrat</option><option value="134">Morocco</option><option value="135">Mozambique</option><option value="136">Myanmar</option><option value="137">Namibia</option><option value="138">Nepal</option><option value="139">Netherlands</option><option value="140">Netherlands Antilles</option><option value="141">New Caledonia</option><option value="142">New Zealand</option><option value="143">Nicaragua</option><option value="144">Niger</option><option value="145">Nigeria</option><option value="146">North Korea</option><option value="147">Norway</option><option value="148">Oman</option><option value="149">Others</option><option value="150">Panama</option><option value="151">Papua New Guinea</option><option value="152">Paraguay</option><option value="153">Peru</option><option value="154">Philippines</option><option value="155">Poland</option><option value="156">Portugal</option><option value="157">Puerto Rico</option><option value="158">Qatar</option><option value="159">Reunion</option><option value="160">Romania</option><option value="161">Russia</option><option value="162">Rwanda</option><option value="163">Saint Kitts and Nevis</option><option value="164">Saint Lucia</option><option value="165">San Marino</option><option value="166">Sao Tome and Principe</option><option value="167">Saudi Arabia</option><option value="168">Senegal</option><option value="169">Serbia</option><option value="170">Seychelles</option><option value="171">Sierra Leone</option><option value="172">Singapore</option><option value="173">Slovakia</option><option value="174">Slovenia</option><option value="175">Solomon Islands</option><option value="176">Somalia</option><option value="177">South Africa</option><option value="178">South Korea</option><option value="179">Spain</option><option value="180">Sri Lanka</option><option value="181">Sudan</option><option value="182">Suriname</option><option value="183">Swaziland</option><option value="184">Sweden</option><option value="185">Switzerland</option><option value="186">Syrian Arab Republic</option><option value="187">Tahiti</option><option value="188">Taiwan</option><option value="189">Tajikistan</option><option value="190">Tanzania</option><option value="191">Thailand</option><option value="192">Togo</option><option value="193">Trinidad and Tobago</option><option value="194">Tunisia</option><option value="195">Turkey</option><option value="196">Turkmenistan</option><option value="197">Uganda</option><option value="198">Ukraine</option><option value="199">Uruguay</option><option value="200">Uzbekistan</option><option value="201">Vanuatu</option><option value="202">Vatican City State</option><option value="203">Venezuela</option><option value="204">Vietnam</option><option value="205">Wallis and Futuna</option><option value="206">Yemen</option><option value="207">Yugoslavia</option><option value="208">Zambia</option><option value="209">Zimbabwe</option>');
 </script>
-<script type="text/javascript" src="http://cdn.proptiger.com/site_header/assets/js/bootstrap-2.3.1.min.js"></script>
-<script type="text/javascript" src="http://cdn.proptiger.com/site_header/assets/js/jquery.placeholder.min.js"></script>
-<script type="text/javascript" src="http://cdn.proptiger.com/site_header/assets/js/header.js?v=110"></script>
-<script type="text/javascript" src="/scripts/jquery/jquery-validate.js"></script>
 <!--[If IE]>
     <script src="http://cdn.proptiger.com/js/Placeholders.min.js"></script>
 <![endif]-->
 
 <script type="text/javascript">
-
-
     $(document).ready(function ()
 {
        $(".changePh").click(function() {
@@ -934,98 +950,6 @@ $('#auth_register_country').append('<option value="0">India</option><option valu
           });
 
 </script>
-<script type="text/javascript">
-(function() {
-    try {
-        var viz = document.createElement("script");
-        viz.type = "text/javascript";
-        viz.async = true;
-        viz.src = ("https:" == document.location.protocol ?"https://ssl.vizury.com" : "http://www.vizury.com")+ "/analyze/pixel.php?account_id=VIZVRM949";
-
-        var s = document.getElementsByTagName("script")[0];
-        s.parentNode.insertBefore(viz, s);
-        viz.onload = function() {
-            try {
-                pixel.parse();
-            } catch (i) {
-            }
-        };
-        viz.onreadystatechange = function() {
-            if (viz.readyState == "complete" || viz.readyState == "loaded") {
-                try {
-                    pixel.parse();
-                } catch (i) {
-                }
-            }
-        };
-    } catch (i) {
-    }
-})();
-</script>
-
-
-<!-- added by siddharth for login / register -->
-<script type="text/javascript">
-$(document).ready(function(){
-/*
-    $('#signin').click(function(event, fromWhere){
-        var action;
-        if(fromWhere == undefined){
-            action = 'clicked';
-            fromWhere = 'header';
-        }
-        else{
-            action = 'triggered';
-        }
-		$.fancybox({
-			//'autoScale'         : false,
-			//'autoDimensions'  : true,
-			'width'                :746,
-			'height'               :400,
-                        'fitToView'            : false,
-                        'autoSize'             : false,
-
-			'scrolling'            : 'no',
-			'href'                 : '/forum/User_Login_Form.php?from='+fromWhere, 
-			'type'                : 'iframe'
-		})
-        sendGAEvent('signIn', action, fromWhere);
-	});
-
-	$('#signup').click(function(){
-       
-		$.fancybox({
-			//'autoScale'         : false,
-			//'autoDimensions'  : true,
-			'width'                :746,
-			'height'               :400,
-                        'fitToView'            : false,
-                        'autoSize'             : false,
-
-			'scrolling'            : 'no',
-			'href'                 : '/forum/User_Register_Form.php',
-			'type'                : 'iframe'
-		})
-	});
-
-	$('#shortListsignup').click(function(){
-		$.fancybox({
-			//'autoScale'         : false,
-			//'autoDimensions'  : true,
-			'width'                :410,
-			'height'               :424,
-			//'hideOnContentClick': true,
-			//'transitionIn'       : 'fade',
-			//'transitionOut'     : 'none',
-			'scrolling'            : 'no',
-			'href'                 : '/forum/User_Login_Form.php',
-			'type'                : 'iframe'
-		})
-	});
-  */
-});
-</script>
-<!-- added by siddharth for login / register-->
 
 <script type="text/javascript">
 	$(document).ready(function() {
@@ -1074,8 +998,9 @@ function mout()
 
 
 </script>
+
+
 <script type="text/javascript"> (function() {
-	_gaq.push(['_setCustomVar', 1, 'expandedPageName', expandedPageName, 3]);
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
@@ -1111,14 +1036,46 @@ var google_remarketing_only = true;
 	   b1.parentNode.insertBefore(a1,b1);
 	},1);
 </script>
-<!--- start: simplefeedback.com --->
+	<div id="ClickTaleDiv" style="display: none;"></div>
+	<script type="text/javascript">
+	if(document.location.protocol!='https:')
+	document.write(unescape("%3Cscript%20src='http://s.clicktale.net/WRd.js'%20type='text/javascript'%3E%3C/script%3E"));
+	</script>
+
+	<script type="text/javascript">
+	if(typeof ClickTale=='function') ClickTale(2873,0.02,"www14");
+	</script>
+
 <script type="text/javascript">
-var sfb_params = { "host": (("https:" == document.location.protocol) ? "https://" : "http://"), "site": "84582C1DBE026475319DF14C19967D1DD0BF751F", "id": "704" };
-document.write(unescape("%3Cscript src='" + sfb_params.host + "dalit6msb4eer.cloudfront.net/scripts/feedback/sfb_init.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://dalit6msb4eer.cloudfront.net/scripts/feedback/sfb_init.js" type="text/javascript"></script>
-<!--- end: simplefeedback.com --->
+(function() {
+    try {
+        var viz = document.createElement("script");
+        viz.type = "text/javascript";
+        viz.async = true;
+        viz.src = ("https:" == document.location.protocol ?"https://ssl.vizury.com" : "http://www.vizury.com")+ "/analyze/pixel.php?account_id=VIZVRM949";
 
-<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"rpm-images.newrelic.com/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-1.newrelic.com","2cc11519c4","426810","NQQBYRNZXRYAAEIMCQxONkcIF0MXCBVXBh89EQxZCFtKSxELRg==",0,87,new Date().getTime(),"","","","",""]);</script>
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(viz, s);
+        viz.onload = function() {
+            try {
+                pixel.parse();
+            } catch (i) {
+            }
+        };
+        viz.onreadystatechange = function() {
+            if (viz.readyState == "complete" || viz.readyState == "loaded") {
+                try {
+                    pixel.parse();
+                } catch (i) {
+                }
+            }
+        };
+    } catch (i) {
+    }
+})();
+</script>
 
 
-<script type="text/javascript" src="https://rpm-images.newrelic.com/42/eum/rum.js"></script></body></html>
+
+
+</body></html>
