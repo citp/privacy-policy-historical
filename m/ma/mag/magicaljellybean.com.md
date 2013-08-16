@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magicaljellybean.com privacy policy that was archived on 2013-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130228172700id_/http%3A//www.magicaljellybean.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magicaljellybean.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816121119id_/http%3A//www.magicaljellybean.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
