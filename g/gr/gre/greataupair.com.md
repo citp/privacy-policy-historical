@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greataupair.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615174510id_/http%3A//www.greataupair.com/support.cfm/topic/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greataupair.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816184921id_/http%3A//www.greataupair.com/support.cfm/topic/privacy) for the most accurate reproduction.*
 
 # Nanny Agency Au Pair Work Child Care Jobs Babysitter Service
 
@@ -102,6 +102,6 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 ### Contact Us
 
-If you have any questions or suggestions regarding our privacy policy, please contact our [support team](https://web.archive.org/support.cfm/topic/contact) via the support ticketing system or via U.S. Mail at 100 Congress Avenue, Suite 2000, Austin, TX 78701.
+If you have any questions or suggestions regarding our privacy policy, please contact our [support team](https://web.archive.org/support.cfm/topic/contact) via the support ticketing system or via U.S. Mail at 6836 Bee Caves Road, Suite 222, Austin, TX 78746.
 
 GreatAuPair may change its Privacy Policy from time to time, so please check back periodically. Last updated April 2, 2012.
