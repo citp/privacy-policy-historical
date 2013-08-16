@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firsttennessee.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501005908id_/https%3A//www.firsttennessee.com/global/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firsttennessee.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816082240id_/https%3A//www.firsttennessee.com/global/Privacy) for the most accurate reproduction.*
 
 # Privacy Notice: First Tennessee Bank
 
@@ -40,7 +40,7 @@ Can you limit this sharing?
 Call 877-242-9880 - our menu will prompt you through your choice(s)
 
 **Please note:**  
-If you are a _new_ customer, we can begin sharing your information 30 days from the date we sent this notice. When you are _no longer_ our customer, we continue to share your information as described in this notice.
+If you are a _new customer_ , we can begin sharing your information 30 days from the date we sent this notice. When you are _no longer_ our customer, we continue to share your information as described in this notice.
 
 However, you can contact us at any time to limit our sharing. 
 
@@ -86,23 +86,23 @@ Your choices will apply to everyone on your account.
 ### Definitions
 
 **Affiliates**  
-Companies related by common ownership or control. They can be financial and nonfinancial companies. 
+Companies related by common ownership or control. They can be financial and nonfinancial companies 
 
-  * _Our affiliates include companies with a First Horizon/First Tennessee name; financial companies such as First Tennessee Bank; and others such as First Horizon Insurance Services, Inc._  
+  * _Our affiliates include companies with a First Horizon/First Tennessee name; financial companies such as First Tennessee Bank; and others such as FTB Advisors Insurance Services, Inc._
 
 
 
 **Nonaffiliates**  
-Companies not related by common ownership or control. They can be financial and nonfinancial companies. 
+Companies not related by common ownership or control. They can be financial and nonfinancial companies.
 
-  * _The First Horizon and First Tennessee family of companies does not share with nonaffiliates so they can market to you._  
+  * _The First Horizon and First Tennessee family of companies does not share with nonaffiliates so they can market to you._
 
 
 
 **Joint marketing**  
-A formal agreement between nonaffiliated financial companies that together market financial products or services to you. 
+A formal agreement between nonaffiliated financial companies that together market financial products or services to you.
 
-  * _Our joint marketing partners include insurance and investment companies._  
+  * _Our joint marketing partners include insurance and investment companies._
 
 
 
@@ -110,9 +110,9 @@ A formal agreement between nonaffiliated financial companies that together marke
 
 **For California Residents:** You will receive information concerning additional choices provided to you under state law.
 
-**For Vermont Residents:** We will not share your personal information with another company in our family of companies nor use your personal information to market affiliates' products and services to you. We may provide your name, contact information, and transaction information to companies that perform marketing services for us or to financial institutions with which we have joint marketing agreements.
+**For Vermont Residents:** You will receive information concerning additional choices provided to you under state law.
 
-**For Illinois and North Dakota Residents** We do not share your personal information for joint marketing with other financial companies.
+**For Illinois and North Dakota Residents** We do not share your personal information for joint marketing with other financial institutions.
 
 **For Insurance (Including Annuity) Customers:** Residents of certain states may receive additional information concerning use and sharing of your personal information.
 
@@ -126,6 +126,8 @@ First Horizon Insurance Services, Inc.
 First Tennessee Advisory Services, Inc.  
 First Tennessee Bank National Association  
 First Tennessee Brokerage, Inc.  
+FTB Advisors, Inc.  
+FTB Advisors Insurance Services, Inc  
 First Tennessee Home Loans¹  
 First Tennessee Insurance Services, Inc.  
 FTN Financial Capital Markets¹  
@@ -137,4 +139,4 @@ FTN Financial Securities Corp.
 
 [Click here](https://web.archive.org/global/Privacy/CaliforniaNotice/ "Click here") for important privacy choices for California consumers.
 
-Rev 4/2012
+Rev 4/2013
