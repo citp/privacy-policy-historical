@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aaa-logo.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501113320id_/http%3A//www.aaa-logo.com/ppolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aaa-logo.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816055318id_/http%3A//www.aaa-logo.com/ppolicy.php) for the most accurate reproduction.*
 
 # Privacy statement - www.AAA-Logo.com
 
