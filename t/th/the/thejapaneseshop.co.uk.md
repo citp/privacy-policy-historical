@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thejapaneseshop.co.uk privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430140911id_/http%3A//www.thejapaneseshop.co.uk/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thejapaneseshop.co.uk privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816152410id_/http%3A//www.thejapaneseshop.co.uk/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Japanese Gift Ideas | Privacy Policy from The Japanese Shop
 
