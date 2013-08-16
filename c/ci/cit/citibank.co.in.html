@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the citibank.co.in privacy policy that was archived on 2013-05-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130518034033id_/https%3A//www.online.citibank.co.in/privacy/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the citibank.co.in privacy policy that was archived on 2013-08-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130816162356id_/https%3A//www.online.citibank.co.in/privacy/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Citibank</title>
@@ -18,7 +18,7 @@
 <meta name="robots" content="index, follow">
 <link rel="stylesheet" type="text/css" href="privacy-css/privacy.css">
 <script type="text/javascript" src="privacy-js/pr.js"></script>
-<script type="text/javascript" src="/portal/newgen/hbx/sc-hbx_common.js"></script>
+ <script type="text/javascript" src="/portal/newgen/js/sc-login.js"></script> 
 <link rel="stylesheet" type="text/css" href="/portal/opt-logpanel/logright.css">
 <script type="text/javascript" src="/portal/opt-logpanel/logright.js"></script>
 <script type="text/javascript">
@@ -26,6 +26,33 @@ function logright3()
 {
 	document.write('<div id="login-section" style="display:none; position:absolute; margin-top:-32px; padding:0; margin-left:680px; z-index: 9999;" onClick="ids=0;lopen(\'login-section\',event)"  onmouseover="ids=0;lopen(\'login-section\',event)" ><div class="login-info"><h1>New! User ID based Login</h1><p class="loginbtn"><a href="javascript:login();"><img src="/products-services/prdserimg/getuserid.gif" alt="Get User ID Now" title="Get User ID Now" border="0" /></a></p><p class="loginbtn"><a href="javascript:login1();"><img src="/products-services/prdserimg/login.gif" alt="Login to Citibank Online" title="Login to Citibank Online" border="0" /></a></p><p class="link1"><a href="https://www.citibank.co.in/ssjsps/retrievelogin.jsp" target="_blank" title="Forgot your user ID / IPIN?">Forgot your user ID / IPIN?</a></p><p class="link2"><a href="https://www.citibank.co.in/ssjsps/firsttimeuser.jsp" target="_blank" title="First Time User? Register">First Time User? Register</a></p></div></div>');
 	}	
+</script>
+<script type="text/javascript">
+function getParameter(parmeter)
+{
+ var sli=""
+ var a=top.window.location;
+ str=new String(a)
+ var index = str.indexOf(parmeter);
+ if(index!=-1)
+ {
+  var str1 = str.substring(index);
+  var index1 = str1.indexOf("&");
+  if (index1 == -1)
+   {
+    var index = str1.indexOf("=");
+    var sli = str1.slice(index+1);
+   }
+  else
+   {
+    var index = str1.indexOf("=");
+    var sli = str1.slice(index+1,index1);
+   }
+ }
+ if(sli==""&&parmeter=="eOfferCode")
+  var sli="eNoref"
+ return sli;
+} 
 </script>
 </head>
 <body onclick="dropdownmenuhide(event);">
@@ -309,11 +336,11 @@ function logright3()
               </div>
               
               <div class="plusminusholder-no-border" style="padding-bottom:0px; background-image: none;">
-                <div class="plsheadtxt"><a href="javascript:showhide11('d10','imgd10')" class="txt11"><img border="0" src="/privacy/privacy-images/plus.gif" alt="" id="imgd10">Grievance Officer</a></div>
+                <div class="plsheadtxt"><a href="javascript:showhide11('d10','imgd10')" class="txt11"><img border="0" src="/privacy/privacy-images/plus.gif" alt="" id="imgd10">Principal Nodal officer</a></div>
                 <div class="plshideholder" id="d10" style="display:none;">
                 <p class="txt11">Request for access to Sensitive Personal Data or correction of Sensitive Personal Data or for information regarding policies and practices and kinds of data held should be addressed to:</p>
                   <p class="height4"></p>
-                  <p class="txt11">Ms. Nisha Shriram on <a href="mailto:India.Grievance.Redressal.Officer@Citi.com" title="India.Grievance.Redressal.Officer@Citi.com">India.Grievance.Redressal.Officer@Citi.com</a></p>
+                  <p class="txt11">Ms. Nisha Shriram on <a href="mailto:principal.nodal.officer@citi.com" title="principal.nodal.officer@citi.com">principal.nodal.officer@citi.com</a></p>
                   
                   
 
