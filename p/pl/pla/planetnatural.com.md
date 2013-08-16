@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetnatural.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514220637id_/http%3A//www.planetnatural.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetnatural.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816220206id_/http%3A//www.planetnatural.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Planet Natural
 
