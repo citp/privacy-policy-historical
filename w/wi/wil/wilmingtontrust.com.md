@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the wilmingtontrust.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502000357id_/https%3A//www.wilmingtontrust.com/wtcom/index.jsp%3Fsection%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wilmingtontrust.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816220215id_/https%3A//www.wilmingtontrust.com/wtcom/index.jsp%3Fsection%3DPrivacy) for the most accurate reproduction.*
 
 # Security and Privacy Statement
-
-Security and Privacy Statement
 
 **Your Privacy Is Important To Us**  
 At Wilmington Trust, we know how important personal privacy is to you. We recognize that whether you are an existing client or are considering a relationship with us, you have an interest in how we collect, retain, and use information about you and your financial relationship with us. Our systems and policies have been engineered to provide maximum protection against unauthorized access to sensitive customer information. The following information details what we have done to answer your financial privacy concerns: 
