@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valuedopinions.co.uk privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502172303id_/http%3A//www.valuedopinions.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valuedopinions.co.uk privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817015516id_/https%3A//www.valuedopinions.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Online Surveys, Paid Surveys & Reward Surveys | Valued Opinions UK
 
