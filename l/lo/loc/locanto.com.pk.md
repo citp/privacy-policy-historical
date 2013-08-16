@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the locanto.com.pk privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117194744id_/http%3A//www.locanto.com.pk/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the locanto.com.pk privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816083254id_/http%3A//www.locanto.com.pk/info/privacy) for the most accurate reproduction.*
 
 # Locanto Info pages
 
@@ -82,4 +82,4 @@ Personal information provided to Locanto may be requested for deletion at any ti
 
 ### Responsible authority
 
-Questions regarding data privacy and protection should be addressed to Sorry, you need JavaScript ON to see the email address (spam protection).
+Questions regarding data privacy and protection should be addressed to [privacy@locanto.com.pk](mailto:privacy@locanto.com.pk)
