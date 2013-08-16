@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bengalimatrimony.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423230746id_/http%3A//www.bengalimatrimony.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bengalimatrimony.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817004823id_/http%3A//www.bengalimatrimony.com/privacy-policy.php) for the most accurate reproduction.*
 
 # www.bengalimatrimony.com
 
