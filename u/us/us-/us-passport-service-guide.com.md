@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the us-passport-service-guide.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509214639id_/http%3A//www.us-passport-service-guide.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the us-passport-service-guide.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816182413id_/http%3A//www.us-passport-service-guide.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - US Passport Service Guide
 
@@ -60,4 +60,6 @@ We have included links on this website for your use and reference. We are not re
 
 **Share this page:  **| | | |   
 ---|---|---|---|---  
-| | | 
+| | |   
+  
+Enjoy this page? Please pay it forward. Here's how...
