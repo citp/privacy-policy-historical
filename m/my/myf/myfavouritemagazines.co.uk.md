@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfavouritemagazines.co.uk privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502205118id_/http%3A//www.myfavouritemagazines.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfavouritemagazines.co.uk privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816094456id_/http%3A//www.myfavouritemagazines.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | My Favourite Magazines | Future Publishing
 
