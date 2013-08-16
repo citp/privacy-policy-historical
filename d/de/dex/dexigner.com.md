@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dexigner.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014212732id_/http%3A//www.dexigner.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dexigner.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816233509id_/http%3A//www.dexigner.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
