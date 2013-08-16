@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the planetnatural.com privacy policy that was archived on 2013-05-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130514220637id_/http%3A//www.planetnatural.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the planetnatural.com privacy policy that was archived on 2013-08-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130816220206id_/http%3A//www.planetnatural.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head>
 
@@ -19,8 +19,6 @@
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:600italic" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Crimson+Text:400,700italic" rel="stylesheet" type="text/css">
  	
-	<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0017/1388.js" async="" type="text/javascript"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://www.google.com/jsapi"></script>
-   
 		
 
     
@@ -33,18 +31,19 @@
 	</style>
 
 	
-<!-- This site is optimized with the Yoast WordPress SEO plugin v1.4.7 - http://yoast.com/wordpress/seo/ -->
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.4.13 - http://yoast.com/wordpress/seo/ -->
 <meta name="description" content="Planet Natural respects your privacy and recognizes your need for appropriate protection and management of your personal information such as your name, add...">
 <link rel="canonical" href="http://www.planetnatural.com/privacy-policy/">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Privacy Policy - Planet Natural">
+<meta property="og:title" content="Privacy Policy | Planet Natural">
+<meta property="og:description" content="Planet Natural respects your privacy and recognizes your need for appropriate protection and management of your personal information such as your name, add...">
 <meta property="og:url" content="http://www.planetnatural.com/privacy-policy/">
 <meta property="og:site_name" content="Planet Natural">
 <!-- / Yoast WordPress SEO plugin. -->
 
 
-            <script type="text/javascript">//<![CDATA[
+            <script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0017/1388.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">//<![CDATA[
             // Google Analytics for WordPress by Yoast v4.3.3 | http://yoast.com/wordpress/google-analytics/
             var _gaq = _gaq || [];
             _gaq.push(['_setAccount', 'UA-226411-3']);
@@ -61,8 +60,8 @@
             //]]></script>
 			<link rel="alternate" type="application/rss+xml" title="Planet Natural » Privacy Policy Comments Feed" href="http://www.planetnatural.com/privacy-policy/feed/">
 <link rel="stylesheet" id="woocommerce_frontend_styles-css" href="http://www.planetnatural.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=3.5.1" type="text/css" media="all">
-<link rel="stylesheet" id="theme-my-login-css" href="http://www.planetnatural.com/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.3.5" type="text/css" media="all">
-<link rel="stylesheet" id="bbp-child-bbpress-css" href="http://www.planetnatural.com/wp-content/themes/planet-natural/css/bbpress.css?ver=2.3" type="text/css" media="screen">
+<link rel="stylesheet" id="theme-my-login-css" href="http://www.planetnatural.com/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.3.8" type="text/css" media="all">
+<link rel="stylesheet" id="bbp-child-bbpress-css" href="http://www.planetnatural.com/wp-content/themes/planet-natural/css/bbpress.css?ver=2.3.2" type="text/css" media="screen">
 <link rel="stylesheet" id="fancybox-css" href="http://www.planetnatural.com/wp-content/plugins/fancybox-for-wordpress/fancybox/fancybox.css?ver=3.5.1" type="text/css" media="all">
 <link rel="stylesheet" id="wp-pagenavi-css" href="http://www.planetnatural.com/wp-content/themes/planet-natural/pagenavi-css.css?ver=2.70" type="text/css" media="all">
 <script type="text/javascript" src="http://www.planetnatural.com/wp-includes/js/jquery/jquery.js?ver=1.8.3"></script>
@@ -75,13 +74,19 @@
 			
 						jQuery(document).ready( function() {
 
+				/* Use backticks instead of <code> for the Code button in the editor */
+				if ( typeof( edButtons ) !== 'undefined' ) {
+					edButtons[110] = new QTags.TagButton( 'code', 'code', '`', '`', 'c' );
+					QTags._buttonsInit();
+				}
+
 				/* Tab from topic title */
 				jQuery( '#bbp_topic_title' ).bind( 'keydown.editor-focus', function(e) {
-					if ( e.which != 9 )
+					if ( e.which !== 9 )
 						return;
 
 					if ( !e.ctrlKey && !e.altKey && !e.shiftKey ) {
-						if ( typeof( tinymce ) != 'undefined' ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
 							if ( ! tinymce.activeEditor.isHidden() ) {
 								var editor = tinymce.activeEditor.editorContainer;
 								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
@@ -98,11 +103,11 @@
 
 				/* Shift + tab from topic tags */
 				jQuery( '#bbp_topic_tags' ).bind( 'keydown.editor-focus', function(e) {
-					if ( e.which != 9 )
+					if ( e.which !== 9 )
 						return;
 
 					if ( e.shiftKey && !e.ctrlKey && !e.altKey ) {
-						if ( typeof( tinymce ) != 'undefined' ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
 							if ( ! tinymce.activeEditor.isHidden() ) {
 								var editor = tinymce.activeEditor.editorContainer;
 								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
@@ -171,6 +176,18 @@ jQuery("a.fancybox").fancybox({
 <!-- WooCommerce Version -->
 <meta name="generator" content="WooCommerce 1.6.6">
 
+<!-- Vipers Video Quicktags v6.4.5 | http://www.viper007bond.com/wordpress-plugins/vipers-video-quicktags/ -->
+<style type="text/css">
+.vvqbox { display: block; max-width: 100%; visibility: visible !important; margin: 10px auto; } .vvqbox img { max-width: 100%; height: 100%; } .vvqbox object { max-width: 100%; } 
+</style>
+<script type="text/javascript">
+// <![CDATA[
+	var vvqflashvars = {};
+	var vvqparams = { wmode: "opaque", allowfullscreen: "true", allowscriptaccess: "always" };
+	var vvqattributes = {};
+	var vvqexpressinstall = "http://www.planetnatural.com/wp-content/plugins/vipers-video-quicktags/resources/expressinstall.swf";
+// ]]>
+</script>
 
     <script type="text/javascript" src="http://www.planetnatural.com/wp-content/themes/planet-natural/js/scripts.js"></script>
     
@@ -295,7 +312,9 @@ jQuery("a.fancybox").fancybox({
 Copyright © 2004-2013<br>
 All rights reserved.
 
-<div class="fb-like" data-href="https://www.facebook.com/PlanetNatural" data-send="false" data-layout="button_count" data-width="450" data-show-faces="true"></div></div>
+<div class="fb-like" data-href="https://www.facebook.com/PlanetNatural" data-send="false" data-layout="button_count" data-width="450" data-show-faces="true" style="margin-right: 3px !important;"></div>
+
+<div class="g-plusone" data-size="medium" data-href="https://plus.google.com/113780796515649535784" data-rel="publisher"></div></div>
 		</div></div>
                 <div class="footer-sidebar sidebar-2"><div id="nav_menu-2" class="widget-container widget_nav_menu"><h3 class="widget-title">Company</h3><div class="menu-company-container"><ul id="menu-company" class="menu"><li id="menu-item-369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-369"><a href="http://www.planetnatural.com/about/">About</a></li>
 <li id="menu-item-374" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-374"><a href="http://www.planetnatural.com/why-shop-planetnatural-com/">Why shop with us?</a></li>
@@ -329,6 +348,14 @@ All rights reserved.
 	</div>
 
 	<script type="text/javascript">
+	  (function() {
+		var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+		po.src = 'https://apis.google.com/js/plusone.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+	  })();
+	</script>
+
+	<script type="text/javascript">
 setTimeout(function(){var a=document.createElement("script");
 var b=document.getElementsByTagName('script')[0];
 a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0017/1388.js";
@@ -337,7 +364,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 <script type="text/javascript" src="http://www.planetnatural.com/wp-content/plugins/woocommerce/assets/js/jquery-plugins.min.js?ver=1.6.6"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var woocommerce_params = {"countries":"{\"US\":{\"AL\":\"Alabama\",\"AK\":\"Alaska\",\"AZ\":\"Arizona\",\"AR\":\"Arkansas\",\"CA\":\"California\",\"CO\":\"Colorado\",\"CT\":\"Connecticut\",\"DE\":\"Delaware\",\"DC\":\"District Of Columbia\",\"FL\":\"Florida\",\"GA\":\"Georgia\",\"HI\":\"Hawaii\",\"ID\":\"Idaho\",\"IL\":\"Illinois\",\"IN\":\"Indiana\",\"IA\":\"Iowa\",\"KS\":\"Kansas\",\"KY\":\"Kentucky\",\"LA\":\"Louisiana\",\"ME\":\"Maine\",\"MD\":\"Maryland\",\"MA\":\"Massachusetts\",\"MI\":\"Michigan\",\"MN\":\"Minnesota\",\"MS\":\"Mississippi\",\"MO\":\"Missouri\",\"MT\":\"Montana\",\"NE\":\"Nebraska\",\"NV\":\"Nevada\",\"NH\":\"New Hampshire\",\"NJ\":\"New Jersey\",\"NM\":\"New Mexico\",\"NY\":\"New York\",\"NC\":\"North Carolina\",\"ND\":\"North Dakota\",\"OH\":\"Ohio\",\"OK\":\"Oklahoma\",\"OR\":\"Oregon\",\"PA\":\"Pennsylvania\",\"RI\":\"Rhode Island\",\"SC\":\"South Carolina\",\"SD\":\"South Dakota\",\"TN\":\"Tennessee\",\"TX\":\"Texas\",\"UT\":\"Utah\",\"VT\":\"Vermont\",\"VA\":\"Virginia\",\"WA\":\"Washington\",\"WV\":\"West Virginia\",\"WI\":\"Wisconsin\",\"WY\":\"Wyoming\"}}","select_state_text":"Select an option\u2026","plugin_url":"http:\/\/www.planetnatural.com\/wp-content\/plugins\/woocommerce","ajax_url":"\/\/www.planetnatural.com\/wp-admin\/admin-ajax.php","ajax_loader_url":"http:\/\/www.planetnatural.com\/wp-content\/plugins\/woocommerce\/assets\/images\/ajax-loader.gif","required_rating_text":"Please select a rating","review_rating_required":"yes","required_text":"required","update_order_review_nonce":"f845b31819","apply_coupon_nonce":"9fce2f5f8b","option_guest_checkout":"yes","checkout_url":"\/\/www.planetnatural.com\/wp-admin\/admin-ajax.php?action=woocommerce-checkout","is_checkout":"0","update_shipping_method_nonce":"40d6bce936","add_to_cart_nonce":"41488600cb"};
+var woocommerce_params = {"countries":"{\"US\":{\"AL\":\"Alabama\",\"AK\":\"Alaska\",\"AZ\":\"Arizona\",\"AR\":\"Arkansas\",\"CA\":\"California\",\"CO\":\"Colorado\",\"CT\":\"Connecticut\",\"DE\":\"Delaware\",\"DC\":\"District Of Columbia\",\"FL\":\"Florida\",\"GA\":\"Georgia\",\"HI\":\"Hawaii\",\"ID\":\"Idaho\",\"IL\":\"Illinois\",\"IN\":\"Indiana\",\"IA\":\"Iowa\",\"KS\":\"Kansas\",\"KY\":\"Kentucky\",\"LA\":\"Louisiana\",\"ME\":\"Maine\",\"MD\":\"Maryland\",\"MA\":\"Massachusetts\",\"MI\":\"Michigan\",\"MN\":\"Minnesota\",\"MS\":\"Mississippi\",\"MO\":\"Missouri\",\"MT\":\"Montana\",\"NE\":\"Nebraska\",\"NV\":\"Nevada\",\"NH\":\"New Hampshire\",\"NJ\":\"New Jersey\",\"NM\":\"New Mexico\",\"NY\":\"New York\",\"NC\":\"North Carolina\",\"ND\":\"North Dakota\",\"OH\":\"Ohio\",\"OK\":\"Oklahoma\",\"OR\":\"Oregon\",\"PA\":\"Pennsylvania\",\"RI\":\"Rhode Island\",\"SC\":\"South Carolina\",\"SD\":\"South Dakota\",\"TN\":\"Tennessee\",\"TX\":\"Texas\",\"UT\":\"Utah\",\"VT\":\"Vermont\",\"VA\":\"Virginia\",\"WA\":\"Washington\",\"WV\":\"West Virginia\",\"WI\":\"Wisconsin\",\"WY\":\"Wyoming\"}}","select_state_text":"Select an option\u2026","plugin_url":"http:\/\/www.planetnatural.com\/wp-content\/plugins\/woocommerce","ajax_url":"\/\/www.planetnatural.com\/wp-admin\/admin-ajax.php","ajax_loader_url":"http:\/\/www.planetnatural.com\/wp-content\/plugins\/woocommerce\/assets\/images\/ajax-loader.gif","required_rating_text":"Please select a rating","review_rating_required":"yes","required_text":"required","update_order_review_nonce":"98adb2632b","apply_coupon_nonce":"9ea5aaf0f5","option_guest_checkout":"yes","checkout_url":"\/\/www.planetnatural.com\/wp-admin\/admin-ajax.php?action=woocommerce-checkout","is_checkout":"0","update_shipping_method_nonce":"0241f66354","add_to_cart_nonce":"4967effda8"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://www.planetnatural.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=1.6.6"></script>
