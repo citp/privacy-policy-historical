@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the reqcloud.com privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202130917id_/http%3A//www.reqcloud.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reqcloud.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816021906id_/http%3A//www.reqcloud.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Post Jobs to Social Networks (Facebook, LinkedIn, Google Plus)
+# Privacy | Social Recruiting and Employer Branding
 
 * * *
 
@@ -14,7 +14,7 @@ User Consent
 
 By submitting or making available Job Data or Personal Data through our website, Products, or related services, you agree to the terms of this Privacy Policy and you expressly consent to the processing of your Job Data and Personal Data in accordance with this Privacy Policy. Your Personal Data may be processed in the country in which it was collected and in other countries, including the United States, where laws regarding processing of Personal Data may be less stringent than the laws in your country.
 
-Information we Collect About You
+Information We Collect About You
 
 Types of Data We Collect
 
