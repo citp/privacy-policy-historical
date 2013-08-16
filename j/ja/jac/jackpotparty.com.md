@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jackpotparty.com privacy policy that was archived on 2013-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130327053858id_/http%3A//www.jackpotparty.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jackpotparty.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816090733id_/http%3A//www.jackpotparty.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Jackpot Party - Exclusive Slots & Casino Games Online - JackpotParty.com
 
