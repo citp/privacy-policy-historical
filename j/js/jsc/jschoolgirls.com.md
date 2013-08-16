@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jschoolgirls.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630115617id_/http%3A//www.supportidols.com/support_faq/jschoolgirls-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jschoolgirls.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816041453id_/http%3A//www.supportidols.com/support_faq/jschoolgirls-privacy.html) for the most accurate reproduction.*
 
 # JSchoolGirls.com - Privacy Statement
 
