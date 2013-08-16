@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swiftcover.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116035119id_/http%3A//www.swiftcover.com/security/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swiftcover.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817015807id_/http%3A//www.swiftcover.com/security/privacy) for the most accurate reproduction.*
 
 # Cheap Car Insurance, Online Car Insurance, Travel Insurance Quotes UK. Privacy | swiftcover.com
 
@@ -90,12 +90,6 @@ For more information about the agencies with which we share your data, including
 
 If you would like a copy of the information we hold about you, please write to:  
 Underwriting Director, 74 Portsmouth Road, Cobham, Surrey KT11 1HY quoting your policy number. A fee may be payable.
-
-Back to top
-
-##  Protecting your Personal Information
-
-The Site is operated by Swiftcover Insurance Services Ltd ("swiftcover.com") a wholly owned subsidiary of AXA UK plc; part of the AXA Group. Further details of swiftcover.com are set out in our Web terms of use . In this privacy statement, "our", "we" and "us" refer to swiftcover.com. 
 
 Back to top
 
@@ -244,6 +238,6 @@ Back to top
 
 You should be aware that any telephone calls made to us may be recorded for monitoring and training purposes and to assist us in preventing and detecting fraud. Therefore, your use of this means of communication means that you accept and consent to this.
 
-You are entitled to request a copy of the personal information we hold about you for a fee of £10. If so, please contact the Data Protection Officer by email at [info@swiftcover.com](mailto:info@swiftcover.com) or in writing to Data Protection, Swiftcover, Swift Court, Fudan Way, Teesdale, Stockton on Tees,TS17 6EN.
+You are entitled to request a copy of the personal information we hold about you for a fee of £10. If so, please contact the Data Protection Officer by email at [info@swiftcover.com](mailto:info@swiftcover.com) or in writing to Data Protection, AXA Insurance, Civic Drive, Ipswich, IP1 2AN. 
 
 Back to top
