@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the creditcardguide.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531055610id_/http%3A//www.creditcardguide.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditcardguide.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816184823id_/http%3A//www.creditcardguide.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - CreditCardGuide.com
 
   | 
 
-**Last updated: November 21, 2011**
+**Last updated: July 17 th, 2013**
 
 We respect your privacy and are committed to protecting it through our compliance with this privacy policy (this "Privacy Policy"). For purposes of this Privacy Policy, each of the terms "we," "us," or "our" means Bankrate, Inc., a Delaware corporation, and the term this "Site," means, collectively, this website and portions of other Web pages and Web content through which you have accessed this Privacy Policy.
 
@@ -14,11 +14,9 @@ This Privacy Policy does not apply to information collected through any other me
 
 Please read this Privacy Policy and the Terms of Use carefully to understand our policies and practices regarding your personal information and how we will treat it. By accessing, using or submitting information to this Site, you agree to this Privacy Policy and our Terms of Use. This Privacy Policy may change from time to time and your continued use of this Site is deemed to be acceptance of such changes, so please check periodically for updates (see _Changes to our Privacy Policy_ below).
 
-Bankrate has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this Web site, www.creditcardguide.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us via email _webmaster@bankrate.com_. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint)
-
 **_Children's Information_**
 
-If you are under 13 years of age, please do not send any information about yourself to us or on this Site, including your name, address, telephone number or e-mail address. In the event that we learn that we have collected personal information from a child, we will delete that information and otherwise comply with the requirements of the Children's Online Privacy Protection Act and applicable law. If you believe that we might have any information from or about a child, please contact us at _webmaster@bankrate.com_.
+If you are under 13 years of age, please do not send any information about yourself to us or on this Site, including your name, address, telephone number or e-mail address. In the event that we learn that we have collected personal information from a child, we will delete that information and otherwise comply with the requirements of the Children's Online Privacy Protection Act and applicable law. If you believe that we might have any information from or about a child, please contact us at _privacy@creditcardguide.com_.
 
 You must be at least 13 years of age to register with or use certain portions of this Site. This Site is not intended for children under 13 years of age. No one under 13 years of age may provide any personal information to or on this Site. We do not knowingly collect personal information from children under 13.
 
@@ -57,7 +55,7 @@ We may collect non-personally identifiable information about you through a varie
 
 The information collected through these technical methods, standing alone, cannot be used to determine your identity. Such information may, however, be combined in a way that makes it become personally identifiable information. If this happens, we will treat the combined information as personally identifiable information.
 
-**_How We Use Your Information_**
+_**How We Use Your Information**_
 
 We use your information, including any personally identifiable information, to:
 
@@ -79,7 +77,7 @@ We use your information, including any personally identifiable information, to:
 
 
 
-**_Disclosure of Personally Identifiable Information_**
+_**Disclosure of Personally Identifiable Information**_
 
 _Typical Disclosure_
 
@@ -89,7 +87,7 @@ We may disclose personally identifiable information:
   * To our third party vendors so that they may provide support for our internal and business operations, including for the handling of data processing, data storage, surveys, research, internal marketing, delivery of promotional and transaction materials, and this Site's maintenance and security;
   * To third parties when you (i) engage in certain activities on this Site that are sponsored by them, such as purchasing products or services offered by a third party, electing to receive information or communications from a third party, or electing to participate in contests, sweepstakes, games or other programs sponsored in whole or in part by a third party, and/or (ii) respond to promotional materials from us and you authorize a third party to use your personally identifiable information to, for example, send you additional promotional materials, provide you a product or service, or enter you into a sweepstakes. When we disclose your personally identifiable information to these third parties, your personally identifiable information will become permanently subject to the information use and sharing practices of the third party, and the third party will not be restricted by this Privacy Policy with respect to its use and further sharing of your personally identifiable information;
   * As required by law or ordered by a court, regulatory, or administrative agency;
-  * As we deem necessary, in our sole discretion, if we believe that you are violating any applicable law, rule or regulation, or are otherwise interfering with another's rights or property, including, without limitation, our rights or property;If requested by authorities in the event of any act of terrorism or instance of local, regional or national emergency;
+  * As we deem necessary, in our sole discretion, if we believe that you are violating any applicable law, rule or regulation, or are otherwise interfering with another's rights or property, including, without limitation, our rights or property; If requested by authorities in the event of any act of terrorism or instance of local, regional or national emergency;
   * To enforce our [Terms of Use](https://web.archive.org/disclaimer.html), this Privacy Policy, and any other applicable agreements and policies;
   * To enforce or protect our rights;
   * In connection with a Business Transfer, as defined below (see _Business Transfers_ below); and
@@ -102,7 +100,7 @@ We may take your personally identifiable information and make it non-personally 
   
 _Requests for Quotes and Services from Requested Service Providers_
 
-Certain portions of this Site may allow you to request a quote, services or information from one or more third parties, such as insurance providers ("Requested Service Providers"). If you provide your personally identifiable information on the Site and request a quote, services or information from Requested Service Providers (e.g., by clicking "Submit" or "get your quotes") (a "Request"), we may share, loan, rent or sell your personally identifiable information to our affiliates, Requested Service Providers that we match with your Request, your current provider, or to other third parties that may match you with a Requested Service Provider. In addition, the Requested Service Providers and such third may further disclose, share and use any personally identifiable information provided by you in connection with your Request. If you make a Request, you expressly consent to such disclosure and use of your personally identifiable information. **If you do not want your personally identifiable information shared as described above, then you should not submit a Request.**
+Certain portions of this Site may allow you to request a quote, services or information from one or more third parties, such as insurance providers ("Requested Service Providers"). If you provide your personally identifiable information on the Site and request a quote, services or information from Requested Service Providers (e.g., by clicking "Submit" or "get your quotes") (a "Request"), we may share, loan, rent or sell your personally identifiable information to our affiliates, Requested Service Providers that we match with your Request, your current provider, or to other third parties that may match you with a Requested Service Provider. In addition, the Requested Service Providers and such third may further disclose, share and use any personally identifiable information provided by you in connection with your Request. If you make a Request, you expressly consent to such disclosure and use of your personally identifiable information. **If you do not want your personally identifiable information shared as described above, then you should not submit a Request**.
 
 **IF YOU SUBMIT A REQUEST, REQUESTED SERVICE PROVIDERS MAY CONTACT YOU DIRECTLY WITH QUOTES VIA TELEPHONE, FAX, AND EMAIL. YOU MAY RECEIVE TELEMARKETING CALLS AS A CONSEQUENCE OF SUBMITTING A REQUEST ON THIS SITE, EVEN IF YOU ARE ON THE NATIONAL DO NOT CALL REGISTRY OR ANY OTHER DO NOT CALL REGISTRY.**
 
@@ -125,65 +123,65 @@ _Business Transfers_
 
 We specifically and expressly reserve the right to disclose, lease, sell, assign or transfer your personally identifiable information collected through this Site, and any of its databases, together with any personally identifiable information contained in such data bases, to third parties in connection with a Business Transfer. A "Business Transfer" means a sale, acquisition, merger, consolidation, reorganization, bankruptcy or other corporate change involving us and/or our affiliates, even if the Business Transfer is only being contemplated and regardless of whether the Business Transfer relates to a part or a whole of our business. Nothing in this Privacy Policy is intended to interfere with our ability to transfer all or part of our business, equity, and/or assets (including this Site) to an affiliate or independent third party at any time, for any purpose, without any limitation, without notice, any without any compensation to you, whatsoever.
 
-**_Network Advertising_**
+_**Network Advertising**_
 
 From time to time, we may participate in or use advertising networks, such as third party advertising servers, advertising agencies, technology vendors and research firms. We may use these third-party advertising networks for marketing, advertising and promotional purposes, as well as to serve advertisements to you. Advertising networks often gather data about consumers who view advertisements to make inferences about a consumer's interests and preferences, which enables their computers to deliver advertisements directly targeted to the consumer's specific interests. This practice is often referred to as "online behavioral advertising." For example, a third-party advertising network might collect the type of Internet browser you use, the type of computer operating system you use, the domain name of a website you visit, whether or not you visit specific pages of this Site and other websites, the location of your Internet service provider's presence, the date and time of a visit to a website and other interactions between you and website. Please see the "Online Behavioral Advertising" subsection of Choices About How We Use and Collect Your Information below to read about how you can prevent certain third-party advertising networks from collecting information about you.
 
-**_User Generated Content_**
+_**User Generated Content**_
 
-You are responsible for any content, including personal information, that you contribute to be published or displayed ("posted") on this Site, or that you transmit to other users of this Site (collectively, "User Generated Content"). Your User Generated Content is posted on and transmitted to other users of this Site at your own risk. We cannot control the actions of other users of this Site with whom you may choose to share your User Generated Content. We can also not responsible for circumvention of any privacy settings or security measures contained on this Site. As a result, we cannot and do not guarantee that your User Generated Content will not be viewed by unauthorized persons. You understand and acknowledge that, even after removal, copies of your User Generated Content may remain viewable in cached and archived pages, or might have been copied or stored by other Site users. Proper access and use of information provided on this Site, including User Generated Content, is governed by our [Terms of Use](https://web.archive.org/disclaimer.html).
+You are responsible for any content, including personal information, that you contribute to be published or displayed ("posted") on this Site, or that you transmit to other users of this Site (collectively, "User Generated Content"). Your User Generated Content is posted on and transmitted to other users of this Site at your own risk. We cannot control the actions of other users of this Site with whom you may choose to share your User Generated Content. We can also not be responsible for circumvention of any privacy settings or security measures contained on this Site. As a result, we cannot and do not guarantee that your User Generated Content will not be viewed by unauthorized persons. To request removal of your personal information posted on this Site, contact us at privacy@creditcardguide.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. You understand and acknowledge that, even after removal, copies of your User Generated Content may remain viewable in cached and archived pages, or might have been copied or stored by other Site users. Proper access and use of information provided on this Site, including User Generated Content, is governed by our [Terms of Use](https://web.archive.org/disclaimer.html).
 
-**_Choices About How We Use and Disclose Your Information_** 
+_**Choices About How We Use and Disclose Your Information**_ 
 
 We strive to provide you with choices regarding the personal information you provide to us. Below are some mechanisms that provide you with control over certain information:
 
   * _Cookies_. If you do not wish us to collect cookies, you may set your browser to refuse cookies, or to alert you when cookies are being sent. If you do so, please note that some parts of this Site may then be inaccessible or may not function properly.
-  * _Email Offers from Us._ If you do not wish to receive email offers or newsletters from us, you can opt-out of receiving email information from us (other than emails related to the completion of your registration, correction of user data, change of password and other similar communications essential to your transactions on this Site) by using the unsubscribe process at the bottom of the email.
+  * _Email Offers from Us_. If you do not wish to receive email offers or newsletters from us, you can opt-out of receiving email information from us (other than emails related to the completion of your registration, correction of user data, change of password and other similar communications essential to your transactions on this Site) by using the unsubscribe process at the bottom of the email.
   * _Accessing and Correcting Personal Information_. If this Site allows you to create an account with us, then you can review, delete and update your personal information by logging into this Site, visiting your account profile page and making changes.
-  * _Online Behavioral Advertising_. Certain third-party advertising networks that deliver behavioral advertising are members of the Network Advertising Initiative ("NAI"). You can prevent NAI member companies from collecting preference data about you by clicking [here](http://www.networkadvertising.org/managing/opt_out.asp) and following the NAI's directions. _Note that if you opt out through the NAI, you will still receive advertising. In addition, if you opt out through the NAI and later delete your cookies, use a different browser or buy a new computer, you will need to renew your opt-out choice._
+  * _Online Behavioral Advertising_. Certain third-party advertising networks that deliver behavioral advertising are members of the Network Advertising Initiative ("NAI"). You can prevent NAI member companies from collecting preference data about you by clicking [here](http://www.networkadvertising.org/choices/#completed) and following the NAI's directions. Note that if you opt out through the NAI, you will still receive advertising. In addition, if you opt out through the NAI and later delete your cookies, use a different browser or buy a new computer, you will need to renew your opt-out choice.
 
 
 
-**_Information You Disclose to Third Parties_**
+_**Information You Disclose to Third Parties**_
 
 You may be presented with an opportunity to receive information and/or marketing offers from third parties in connection with this Site. All information you disclose to such third parties will be subject to the privacy policy and practices of such third parties. We are not responsible for the privacy policies and practices of such third parties and, therefore, you should review the privacy policies and practices of such third parties prior to disclosing information to them. If you later decide that you no longer want to receive communications from a third party, you will need to contact that third party directly.
 
-**_Links to Third-Party Websites_**
+_**Links to Third-Party Websites**_
 
 This Site, as well as the e-mail messages sent with respect to this Site, may contain links to websites operated by third parties that are beyond our control. For example, if you click to apply for a product such as a credit card, on this Site, you may be linked to a third-party website to complete an application. Links to third parties from this Site are not an endorsement by us of such third parties, their websites, their products, their services, or their practices. We are not responsible for the privacy policy, terms and conditions, practices or the content of such third parties or third-party websites. These third-party websites may send their own cookies to you and independently collect data. If you visit a website that is linked from this Site or our emails, we encourage you to read any privacy statements and terms and conditions of that third party's website before providing any personally identifiable information. If you have a question about the terms and conditions, privacy policy, practices or contents of a third party or a third party website, please contact the third party directly.
 
-**Data Retention**
+_**Data Retention**_
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at _webmaster@bankrate.com_. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at _privacy@creditcardguide.com_. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-**_Operation of this Site in the United States_**
+_**Operation of this Site in the United States**_
 
 This Site is operated in the United States. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By using this Site or providing us with your information, you consent to this transfer.
 
-**_Changes to this Privacy Policy_** 
+_**Changes to this Privacy Policy**_ 
 
 We may amend this Privacy Policy at any time. Amendments will take effect immediately upon us posting the updated Privacy Policy on this Site. You are encouraged to revisit this Privacy Policy from time to time in order to review any changes that have been made. The date on which this Privacy Policy was last updated will be noted immediately above this Privacy Policy.
 
-**_Contacting Us_**
+_**Contacting Us**_
 
 If you have questions or concerns about our privacy practices or wish to make a request regarding your personally identifiable information, please contact us at any of the following:
 
   * Via telephone: (561) 630-2400
   * Via fax: (561) 625-4540
   * Via mail: Bankrate, Inc., 11760 US HWY 1 Suite 200, North Palm Beach, FL 33408
-  * Via email: _webmaster@bankrate.com_
+  * Via email: _privacy@creditcardguide.com_
 
 
 
 **_Special Notification for California Residents — Your California Privacy Rights_**
 
-Individuals who are residents of California and have provided their personally identifiable information to us may request information regarding our disclosures, if any, of their personally identifiable information to third parties for direct marketing purposes. Such requests must be submitted to us at _webmaster@bankrate.com_ or in writing at:
+Individuals who are residents of California and have provided their personally identifiable information to us may request information regarding our disclosures, if any, of their personally identifiable information to third parties for direct marketing purposes. Such requests must be submitted to us at _privacy@creditcardguide.com_ or in writing at:
 
 Bankrate, Inc.  
 11760 US HWY 1, Suite 200  
 North Palm Beach, FL 33405   
 Attention: VP, Customer Service  
-Fax Number: (561)625-4540
+Fax Number: (561) 625-4540
 
 California privacy rights requests must include the reference "Request for California Privacy Information" on the subject line and in the body of the message and must include the e-mail address or mailing address, as applicable, for us to send our response. This request may be made no more than once per calendar year. We reserve the right not to respond to requests submitted other than to the address specified in this paragraph.
 
