@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ableton.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509080007id_/https%3A//www.ableton.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ableton.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816083826id_/https%3A//www.ableton.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Our Privacy Policy | Ableton
+# Ableton Privacy Policy | Ableton
 
 The personal data of our customers shall be treated with utmost confidentiality. Only data to the extent technically necessary shall be collected. Under no circumstance shall collected data be passed on to third parties for unauthorized reasons.
 
