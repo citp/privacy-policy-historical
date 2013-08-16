@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ageofwushu.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518205814id_/http%3A//www.ageofwushu.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ageofwushu.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816190225id_/http%3A//www.ageofwushu.com/privacy) for the most accurate reproduction.*
 
 # Age of Wushu : Free To Play MMORPG - Coming Soon
 
