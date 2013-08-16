@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proptiger.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620222218id_/http%3A//www.proptiger.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proptiger.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816094213id_/http%3A//www.proptiger.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Proptiger.com
 
