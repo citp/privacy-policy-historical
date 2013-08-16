@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the resume-resource.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423223721id_/http%3A//www.resume-resource.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resume-resource.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816054400id_/http%3A//www.resume-resource.com/privacy.html) for the most accurate reproduction.*
 
 # Resume-Resource.com Privacy Policy
 
-updated 3/20/2013   
+updated 7/30/2013   
 
 
 **Our Commitment To Privacy**
@@ -13,7 +13,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 **Log Files**
 
-Like many other Web sites, Resume-Resource.com uses log files to learn about our visitors.. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, geographic location, clicks, page views. We use this information to analyze trends, administer the site, track use behavior and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+Like many other Web sites, Resume-Resource.com uses log files to learn about our visitors. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, geographic location, clicks, page views. We use this information to analyze trends, administer the site, track use behavior and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
 **Cookies**
 
@@ -42,7 +42,13 @@ Some of our advertising partners may use cookies and web beacons on our site. Ou
 
 
 
-These 3rd party networks, ad servers or ad networks may use technology within their advertisements and links that appear on Resume-Resource.com, which may be sent directly to your browses. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+**Pixel Tracking**
+
+Resume-Resource.com or our third party advertising partners may engage in pixel tracking, which is a widely used technique that helps track user activity on a site for the purposes of improving advertisements. A pixel tag is a small pixel with software code that is not visible to the user but helps track user activity. Some of our pages may include pixel tracking for the purposes of re-targeting advertisements to the same user. . If you visit our website then visit other sites that include our advertising partners ads, they may choose to show re-targeted ads. 
+
+**Other Third Party Advertisers**
+
+These third party networks, ad partners, ad servers or ad networks may use technology within their advertisements and links that appear on Resume-Resource.com, which may be sent directly to your browses. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, Pixel Targeting, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
 Resume-Resource.com has no access to or control over these cookies that are used by third-party advertisers.
 
