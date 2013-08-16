@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycornerstoneloan.org privacy policy that was archived on 2013-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130405041004id_/https%3A//www.mycornerstoneloan.org/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycornerstoneloan.org privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816170642id_/https%3A//www.mycornerstoneloan.org/privacy.aspx) for the most accurate reproduction.*
 
 # CornerStone | Privacy
 
@@ -79,7 +79,7 @@ If you visit our site to read or download information, we collect and store the 
 
 ##  How To Contact CornerStone
 
-###  If you have questions, concerns, or if you would like additional information regarding the CornerStone privacy policy, please contact us by clicking "Contact Customer Service" at the top of the page or visit the [contact](https://web.archive.org/web/20130405041004id_/https%3A//www.mycornerstoneloan.org/contactus.aspx) page for CornerStone's contact information.
+###  If you have questions, concerns, or if you would like additional information regarding the CornerStone privacy policy, please contact us by clicking "Contact Customer Service" at the top of the page or visit the [contact](https://web.archive.org/web/20130816170642id_/https%3A//www.mycornerstoneloan.org/contactus.aspx) page for CornerStone's contact information.
 
 ##  Changes To Our Privacy Policy
 
