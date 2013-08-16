@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the surepayroll.com privacy policy that was archived on 2013-05-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130514100832id_/http%3A//www.surepayroll.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the surepayroll.com privacy policy that was archived on 2013-08-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130816054616id_/http%3A//www.surepayroll.com/privacy.asp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US"><head><script type="text/javascript" async="" src="/elqNow/elqCfg.min.js"></script><script type="text/javascript" async="" src="https://secure.adnxs.com/seg?t=1&amp;add=296852" id="nowspots-retargeting"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://web.archive.org/web/20121011115300/https://apis.google.com/js/plusone.js"></script><script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US"><head><script type="text/javascript" async="" src="/elqNow/elqCfg.min.js"></script><script type="text/javascript" async="" src="https://secure.adnxs.com/seg?t=1&amp;add=296852" id="nowspots-retargeting"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://web.archive.org/web/20121011115300/https://apis.google.com/js/plusone.js"></script><script src="https://static.woopra.com/js/woopra.js" type="text/javascript" async=""></script><script>
   try 
   {
 	if (top.location.hostname != self.location.hostname) throw 1;
@@ -16,14 +16,67 @@
 
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <title>SurePayroll Privacy Policy | SurePayroll</title>
-    <meta name="description" content="">
+    <meta name="description" content="Privacy Policy - SurePayroll Inc.">
     <meta name="keywords" content="">
+    <meta name="linkstant" content="8598357">
     
     <link href="https://plus.google.com/105150294496439757264" rel="publisher">
     
 	<link rel="stylesheet" href="/skins/surepayroll/sp_960_v3.css">
     
     <script type="text/javascript" src="/skins/surepayroll/nav-menu-960.js"></script>
+    <script type="text/javascript">
+    function woopraReady() {
+        woopraTracker.setDomain('surepayroll.com');
+        woopraTracker.setIdleTimeout(1800000);
+        var _qp = (function () {
+            var result = {};
+            if (window.location.search) {
+                var params = window.location.search.slice(1).split("&");
+                for (var i = 0; i < params.length; i++) {
+                    var tmp = params[i].split("=");
+                    result[tmp[0]] = unescape(tmp[1]);
+                }
+            }
+            return result;
+        } ());
+
+        // Track form submission
+        if (window.location.pathname.indexOf('/quote/instant_quote_results.asp') == 0 || window.location.pathname.indexOf('/mobile/quote-results.asp') == 0) {
+            woopraTracker.addVisitorProperty('name', _qp.email);
+            woopraTracker.addVisitorProperty('email', _qp.email);
+            woopraTracker.addVisitorProperty('employees', _qp.NumberOfEmployees);
+            woopraTracker.addVisitorProperty('frequency', _qp.Freq);
+
+            woopraTracker.pushEvent({
+                name: 'request_quote',
+                employees: _qp.NumberOfEmployees,
+                frequency: _qp.Freq,
+                email: _qp.email
+            });
+        }
+
+        // Track searches
+        if (window.location.pathname.indexOf('/query') == 0) {
+            woopraTracker.pushEvent({
+                name: 'search',
+                query: _qp.query
+            });
+        }
+
+        // Track pageview
+        woopraTracker.track();
+        return false;
+    }
+    (function () {
+        var wsc = document.createElement('script');
+        wsc.src = document.location.protocol + '//static.woopra.com/js/woopra.js';
+        wsc.type = 'text/javascript';
+        wsc.async = true;
+        var ssc = document.getElementsByTagName('script')[0];
+        ssc.parentNode.insertBefore(wsc, ssc);
+    })();
+    </script>
     
     <script type="text/javascript" src="/skins/surepayroll/jquery-1.7.2.min.js"></script>
 	<script type="text/javascript" src="/skins/surepayroll/jquery.validate.js"></script>
@@ -46,7 +99,6 @@
 	    <link rel="stylesheet" href="/skins/surepayroll/widget.ie9.css" />
 	<![endif]-->
     
-
 </head>
 
 
@@ -59,7 +111,7 @@
 <div class="grid_12_full">
 <div class="header-top-container">
 
-<a href="http://www.surepayroll.com/" title="Online payroll for small business by SurePayroll" onclick="recordOutboundLink(this, 'inbound link', 'header/sp-logo');return false;"><img src="/images/960/global/surepayroll-online-payroll-service.png" border="0" alt="SurePayroll" class="floatleft lpadding15"></a>
+<a href="http://www.surepayroll.com/" title="Online payroll for small business by SurePayroll" onclick="recordOutboundLink(this, 'inbound link', 'header/sp-logo');return false;"><img src="/images/960/global/surepayroll-online-payroll-service.png" border="0" alt="SurePayroll" class="floatleft lpadding15"></a> 
 
 <div class="sp-questions">
 <div class="fontsize14"><strong>Questions?</strong></div>
@@ -67,7 +119,7 @@
 </div>
 
 <div class="sp-login">
-<a href="/login/auth.asp" class="btn login" title="SurePayroll Customer Login" rel="nofollow" onclick="recordOutboundLink(this, 'inbound link', 'header/login');return false;">Customer Login</a><br>
+<a href="/login/auth.asp" class="btn login" title="SurePayroll Customer Login" rel="nofollow" onclick="woopraTracker.pushEvent({name: 'login'});">Customer Login</a><br>
 <a href="http://www.surepayroll.com/quote/instant_price_quote.asp?pn=" class="btn instant-quote" rel="nofollow" title="Free Payroll Quote" onclick="recordOutboundLink(this, 'inbound link', 'header/free-quote');return false;">Instant Quote</a>
 <a href="http://www.surepayroll.com/enroll/CreateAccount.asp?" class="btn enroll" title="Enroll Now" rel="nofollow" onclick="recordOutboundLink(this, 'inbound link', 'header/enroll-now');return false;">Enroll Now</a>
 </div>
@@ -302,7 +354,7 @@ Sales: <strong>877.954.7873</strong>
 
 <div class="footer-right">
 <div class="footer-payroll">
-<div class="footer-title"><a href="http://www.surepayroll.com/product/payroll/" title="Payroll for Small Business" onclick="recordOutboundLink(this, 'inbound link', 'bottom-navigation/payroll');return false;">Payroll</a></div>
+<div class="footer-title"><a href="http://www.surepayroll.com/product/payroll/" title="Payroll for Small Business" onclick="recordOutboundLink(this, 'inbound link', 'bottom-navigation/payroll');return false;">Payroll</a></div> 
 <a href="http://www.surepayroll.com/quote/instant_price_quote.asp?pn=" title="Free Payroll Quote - Easy &amp; Personalized" onclick="recordOutboundLink(this, 'inbound link', 'bottom-navigation/payroll-price');return false;">Payroll Price</a><br>
 <a href="http://www.surepayroll.com/product/payroll/payroll-services.asp" title="Payroll Services for Small Business" onclick="recordOutboundLink(this, 'inbound link', 'bottom-navigation/payroll-services');return false;">Payroll Services</a><br>
 <a href="http://www.surepayroll.com/product/payroll/payroll-features.asp" title="Payroll Service Additional Features" onclick="recordOutboundLink(this, 'inbound link', 'bottom-navigation/payroll-features');return false;">Payroll Features</a><br>
@@ -320,7 +372,8 @@ Sales: <strong>877.954.7873</strong>
 <a href="http://www.surepayroll.com/articles/" title="Articles" onclick="recordOutboundLink(this, 'inbound link', 'bottom-navigation/articles');return false;">Articles</a><br>
 <a href="http://www.surepayroll.com/online-payroll/" title="Terms" onclick="recordOutboundLink(this, 'inbound link', 'bottom-navigation/terms');return false;">Terms</a><br>
 <a href="http://www.surepayroll.com/video/" title="Videos" onclick="recordOutboundLink(this, 'inbound link', 'bottom-navigation/videos');return false;">Videos</a><br>
-<a href="http://blog.surepayroll.com/" title="Payroll Blog" target="_blank" onclick="recordOutboundLink(this, 'inbound link', 'bottom-navigation/blog');return false;">Payroll Blog</a>
+<a href="http://blog.surepayroll.com/" title="Payroll Blog" target="_blank" onclick="recordOutboundLink(this, 'inbound link', 'bottom-navigation/blog');return false;">Payroll Blog</a><br>
+<a href="http://www.surepayroll.com/faq.asp" title="FAQs" onclick="recordOutboundLink(this, 'inbound link', 'bottom-navigation/faqs');return false;">FAQs</a>
 </div>
 
 <div class="footer-about">
@@ -338,7 +391,7 @@ Sales: <strong>877.954.7873</strong>
 
 <div class="clear20"></div>
 
-<div class="fontsize10">Copyright © 2013<img src="/images/960/global/footer-sp11.png"><a href="http://www.paychex.com/" title="Paychex" target="_blank" onclick="recordOutboundLink(this, 'inbound link', 'bottom-navigation/paychex');return false;">A Paychex Company.</a> All rights reserved. <a href="http://www.surepayroll.com/privacy.asp" title="SurePayroll Privacy Policy" rel="nofollow" onclick="recordOutboundLink(this, 'inbound link', 'bottom-navigation/privacy');return false;">Privacy Policy.</a></div>
+<div class="fontsize10">Copyright © 2013<img src="/images/960/global/footer-sp11.png"><a href="http://www.paychex.com/" title="Paychex" target="_blank" rel="nofollow" onclick="recordOutboundLink(this, 'inbound link', 'bottom-navigation/paychex');return false;">A Paychex Company.</a> All rights reserved. <a href="http://www.surepayroll.com/privacy.asp" title="SurePayroll Privacy Policy" rel="nofollow" onclick="recordOutboundLink(this, 'inbound link', 'bottom-navigation/privacy');return false;">Privacy Policy.</a></div>
 
 </div>
 
@@ -426,6 +479,25 @@ Sales: <strong>877.954.7873</strong>
 
 </script>
 
+<script type="text/javascript">
+    if (document.referrer.match(/google\.com/gi) && document.referrer.match(/cd/gi)) {
+        var myString = document.referrer;
+        var r = myString.match(/cd=(.*?)&/);
+        var rank = parseInt(r[1]);
+        var kw = myString.match(/q=(.*?)&/);
+
+        if (kw[1].length > 0) {
+            var keyWord = decodeURI(kw[1]);
+        } else {
+            keyWord = "(not provided)";
+        }
+
+        var p = document.location.pathname;
+        _gaq.push(['_trackEvent', 'GoogleRankings', keyWord, p, rank, true]);
+    }
+</script>
+
+
 
 <script type="text/javascript">
     (function () {
@@ -454,6 +526,7 @@ Sales: <strong>877.954.7873</strong>
         var ClickTaleSSL = 1;
         if (typeof ClickTale == 'function') ClickTale(24911, 0.16, "www02");
     </script>
+<script src="http://www.linkstant.com/linkstant.js" type="text/javascript"></script>
 
 
 </body></html>
