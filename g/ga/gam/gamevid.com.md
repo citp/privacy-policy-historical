@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamevid.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629213930id_/http%3A//www.gamevid.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamevid.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816041659id_/http%3A//www.gamevid.com/policy) for the most accurate reproduction.*
 
 # GameVid
 
@@ -26,4 +26,4 @@ Gamevid.com may share non-personal and non-personally identifiable information a
 
 By using our site, you consent to the collection and use of your information as we have outlined in this privacy statement and to our Terms of Service. Gamevid.com may decide to change this privacy statement from time to time. When we do, we will post the changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](https://web.archive.org/web/20130629213930id_/http%3A//www.gamevid.com/www.networkadvertising.org/choices/). 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/choices/). 
