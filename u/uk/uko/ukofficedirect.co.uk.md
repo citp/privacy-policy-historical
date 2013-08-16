@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ukofficedirect.co.uk privacy policy that was archived on 2013-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130403113213id_/http%3A//ukofficedirect.co.uk/helpsection.aspx%3Fsection%3D6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukofficedirect.co.uk privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817003809id_/http%3A//www.ukofficedirect.co.uk/helpsection.aspx%3Fsection%3D6) for the most accurate reproduction.*
 
-# Privacy and Cookies - UK Office Direct
+# Privacy and Cookies
 
 Visiting the UK Office Direct website with your browser settings adjusted to accept cookies tells us that you want to use our products and services and that you consent to our use of cookies and other technologies as described below.
 
