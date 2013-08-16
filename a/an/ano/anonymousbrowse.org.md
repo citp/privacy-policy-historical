@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anonymousbrowse.org privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516092857id_/http%3A//www.anonymousbrowse.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anonymousbrowse.org privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817010756id_/http%3A//www.abrowse.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Anonymous Browse
 
