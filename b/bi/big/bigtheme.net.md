@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bigtheme.net privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530155101id_/http%3A//bigtheme.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigtheme.net privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816023244id_/http%3A//bigtheme.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-(3 votes, average 4.67 out of 5)
+(4 votes, average 4.75 out of 5)
 
-Privacy Policy4.67 out of 51 based on 3 voters.
+Privacy Policy4.75 out of 51 based on 4 voters.
 
 ## The following is an outline of BIGTheme's Privacy Policy.
 
