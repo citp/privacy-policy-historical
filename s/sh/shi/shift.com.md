@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shift.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502052404id_/https%3A//shift.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shift.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816222147id_/https%3A//shift.com/privacy) for the most accurate reproduction.*
 
-# SHIFT - Marketing Better, Together
+# SHIFT - Real-Time Marketing Platform
 
 ## Version 1.0
 
