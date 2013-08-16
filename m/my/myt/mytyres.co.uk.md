@@ -1,9 +1,23 @@
-> *The following text is extracted and transformed from the mytyres.co.uk privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430172724id_/http%3A//www.mytyres.co.uk/datenschutz.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytyres.co.uk privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816231553id_/http%3A//www.mytyres.co.uk/datenschutz.html) for the most accurate reproduction.*
 
 # Delticom Privacy Policy - Tyres online @ mytyres.co.uk
 
-### Delticom Privacy Policy 
+[](https://web.archive.org/web/20130816231553id_/http%3A//www.mytyres.co.uk/index.html)
 
+ADVICE 
+
+0808 1891233   
+freephone  
+  
+---  
+  
+| 
+
+[](https://www.trustedshops.co.uk/shop/certificate.php?shop_id=X00F08393D989000AE4736C0DE7753F66)
+
+|  |   
+---  
+  
 Data protection as per: 7th of March 2007 
 
 We know that our careful handling of your personal details is important to you. Therefore, we appreciate your trust that Delticom handles this information conscientiously. In the events that personal data (and user data) are collated beyond the contractual purpose you as user must actively agree for your data to be used in such a way. This consent may be revoked at any time with future effect. Simply send us an email to mytyres@delti.com.
@@ -103,7 +117,7 @@ If you have any questions regarding Delticom's data protection, please, write - 
 
 #### Related topics
 
-[General Terms and Conditions](https://web.archive.org/web/20130430172724id_/http%3A//www.mytyres.co.uk/AGBs.html)
+[General Terms and Conditions](https://web.archive.org/web/20130816231553id_/http%3A//www.mytyres.co.uk/AGBs.html)
 
 #### Information you provide us with 
 
@@ -127,6 +141,6 @@ Examples for details, which we obtain from other sources, include updated detail
 
 #### Information, which you may access
 
-Examples for information which you can easily access at Delticom: This includes information about past orders, personal details (including name, email address, password), Delticom newsletter, notification about special offers, including your order history and your consumer reports e.g. at http://www.tyretest.com/ or http://www.mytyres.co.uk. 
-
+Examples for information which you can easily access at Delticom: This includes information about past orders, personal details (including name, email address, password), Delticom newsletter, notification about special offers, including your order history and your consumer reports e.g. at http://www.tyretest.com/ or http://www.mytyres.co.uk.   
+  
 #### Data privacy settings for web analysis
