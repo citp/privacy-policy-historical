@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldwideinterweb.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524172920id_/http%3A//worldwideinterweb.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldwideinterweb.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817090451id_/http%3A//www.worldwideinterweb.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
