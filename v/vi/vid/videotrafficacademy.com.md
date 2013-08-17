@@ -1,12 +1,11 @@
-> *The following text is extracted and transformed from the videotrafficacademy.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601175246id_/http%3A//videotrafficacademy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videotrafficacademy.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817030252id_/http%3A//videotrafficacademy.com/privacy) for the most accurate reproduction.*
 
 # Terms of Service | Video Traffic Academy | Video & Youtube Marketing
 
 Our mailing address is:
 
-868 n park st  
-Columbus Ohio 43215  
-Suite #204
+430 Carrillo st   
+Santa Barbara , CA 93105
 
 We can be reached via e-mail at support@videotrafficacademy.com
 
