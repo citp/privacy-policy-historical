@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shell.com.ng privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621021029id_/http%3A//www.shell.com.ng/about-our-website/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shell.com.ng privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817123256id_/http%3A//www.shell.com.ng/about-our-website/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Nigeria
 
@@ -58,7 +58,13 @@ We may automatically collect non-personal information about you such as the type
 
 ###  Interaction between you and us 
 
-We are interested in your views, and we value feedback from our clients and visitors, we therefore have set up notice boards, newsgroups, feedback, email, forum facilities and/ or chat rooms. If at any time this website offers any chat rooms, notice board facilities, newsgroups etc we may collect the personal information that you disclose. Such information will be used in accordance with this privacy policy. However, we can of course not control and be responsible for other parties' use of the personal information which you make available to them through this website. We encourage you to be careful about what personal information you disclose in this way.
+We are interested in your views, and we value feedback from our clients and visitors, we therefore have set up notice boards, newsgroups, feedback, email, forum facilities and/ or chat rooms. 
+
+If at any time this website offers any chat rooms, notice board facilities, newsgroups etc we may collect the personal information that you disclose. 
+
+Such information will be used in accordance with this privacy policy. However, we can of course not control and be responsible for other parties' use of the personal information which you make available to them through this website. 
+
+We encourage you to be careful about what personal information you disclose in this way.
 
 ###  Keeping our records accurate 
 
