@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biggamesgroup.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627100937id_/http%3A//www.biggamesgroup.com/%3Fpage_id%3D2412) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biggamesgroup.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817022829id_/http%3A//www.biggamesgroup.com/%3Fpage_id%3D2412) for the most accurate reproduction.*
 
 # Privacy Policy | BigGamesGroup.com
 
