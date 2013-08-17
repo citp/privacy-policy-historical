@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doggyloot.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501112418id_/https%3A//doggyloot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doggyloot.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817085230id_/https%3A//doggyloot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - doggyloot
 
