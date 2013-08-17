@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ucanapply.com privacy policy that was archived on 2013-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130319003346id_/http%3A//ucanapply.com/ucanapplyaboutus/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucanapply.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817144907id_/http%3A//ucanapply.com/ucanapplyaboutus/privacypolicy.php) for the most accurate reproduction.*
 
 # UCanApply | Terms & Privacy | Privacy Policy
 
