@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the replicon.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115113147id_/http%3A//www.replicon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the replicon.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817144650id_/http%3A//www.replicon.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Replicon
 
@@ -16,7 +16,7 @@ Definitions
 In this Policy, the following terms have the meanings below:
 
   * Personal information means information about an identifiable individual, which does not include information of an aggregate or anonymous nature where a specific individual or individuals cannot be identified. Personal Information also does not include business contact information, as long as business contact information is used to contact an individual in their capacity as an employee or official of an organization, and for no other purpose. Information about a corporation, firm, trust, union or other non-individual entity is not personal information.
-  * Business contact informationmeans an individual's name and position or title as an official or employee of an organization, as well as their business telephone number, business address, business e-mail, business fax number and other business contact information.
+  * Business contact information means an individual's name and position or title as an official or employee of an organization, as well as their business telephone number, business address, business e-mail, business fax number and other business contact information.
 
 
 
@@ -24,7 +24,7 @@ Privacy and our Website
 
 We do not collect any personal information from individuals who simply visit our website. However, individuals should be aware that most web servers do collect some information about visitors, such as the browser and version being used, the operating system, and the "IP" or internet address of the visitor, which may identify the individual's Internet Service Provider or computer but not necessarily the individual using it.
 
-Replicon's website server also use cookies, which are small text files containing information sent to the computer of a visitor to our website. Cookies are used to help our web server track such things as user preferences that the user may submit in order to make the website more interactive with the user and more responsive to their preferences. Information stored in cookies is used to pre-populate form fields and to remember user preference. This is done for user convenience as well as to provide us with information on which parts of our website are being viewed and by how many visitors. The tracking process is anonymous and no personal information is used.
+Replicon's website server also uses cookies, which are small text files containing information sent to the computer of a visitor to our website. Cookies are used to help our web server track such things as user preferences that the user may submit in order to make the website more interactive with the user and more responsive to their preferences. Information stored in cookies is used to pre-populate form fields and to remember user preference. This is done for user convenience as well as to provide us with information on which parts of our website are being viewed and by how many visitors. The tracking process is anonymous and no personal information is used.
 
 E-mail
 
