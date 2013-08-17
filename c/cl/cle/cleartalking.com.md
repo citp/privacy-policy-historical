@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cleartalking.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117013614id_/http%3A//cleartalking.com/content/%3Fpage_id%3D58) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleartalking.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817070449id_/http%3A//cleartalking.com/content/%3Fpage_id%3D58) for the most accurate reproduction.*
 
-# Privacy Policy « cleartalking.com
+# Privacy Policy « Cleartalking.com
 
 Cleartalking.com takes your privacy very seriously. We know that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you online when using our services at cleartalking.com.
 
