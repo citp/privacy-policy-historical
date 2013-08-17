@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ipchecking.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116021327id_/http%3A//www.ipchecking.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipchecking.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817051854id_/http%3A//www.ipchecking.com/privacy) for the most accurate reproduction.*
 
-# IP Address Lookup, Reverse IP Lookup and Blocklist Lookup
-
-## Privacy Policy
+# Privacy Policy
 
 **What information do we collect?**
 
