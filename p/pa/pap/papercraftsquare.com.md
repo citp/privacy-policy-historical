@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the papercraftsquare.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430210212id_/http%3A//www.papercraftsquare.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the papercraftsquare.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817172257id_/http%3A//www.papercraftsquare.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PaperCraftSquare.com
 
@@ -32,7 +32,7 @@ By e-mail: Papercraftsquare@gmail.com
 We reserve the right to make changes to this policy.   
 Any changes to this policy will be posted.
 
-For this paper model, we recommend that you use [the material](http://www.tkqlhce.com/click-5703839-10935756) (Paper, Paint, Glue, etc.) to make. Here are [Great Deals](http://www.jdoqocy.com/click-5703839-10283473), and here is [Coupon Corner](http://www.anrdoezrs.net/click-5703839-10366180). There is [FREE sewing patterns](http://www.tkqlhce.com/click-5703839-10881953) that you may need.
+For this paper model, we recommend that you use [the material](http://www.tkqlhce.com/click-5703839-10935756) ([Paper](http://www.amazon.com/s/?_encoding=UTF8&camp=1789&creative=390957&field-keywords=craft%20paper&linkCode=ur2&rh=i%3Aaps%2Ck%3Acraft%20paper&sepatfbtf=true&sprefix=craft%20pa%2Caps&tag=papercrafts07-20&tc=1367841412399&url=search-alias%3Daps), Paint, [Glue](http://www.amazon.com/s/?_encoding=UTF8&camp=1789&creative=390957&field-keywords=glue&linkCode=ur2&rh=i%3Aaps%2Ck%3Aglue&tag=papercrafts07-20&url=search-alias%3Daps), etc.) to make. Here are [Great Deals](http://www.dpbolvw.net/click-5703839-11192295), and here are [**100s of card making ideas**](http://www.dpbolvw.net/click-5703839-11044815). There is [FREE sewing patterns](http://www.tkqlhce.com/click-5703839-10881953) that you may need.
 
  **If you like this papercraft, please share it to others, thanks!**
 
