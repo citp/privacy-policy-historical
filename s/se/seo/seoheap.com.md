@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seoheap.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116033346id_/http%3A//www.seoheap.com/inc/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoheap.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817223815id_/http%3A//www.seoheap.com/inc/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,6 +22,8 @@ For example, we may log the name of your Internet Service Provider or use cookie
 Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. 
 
 As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site’s features according to your preferences.
+
+We do not store credit card details nor do we share customer details with any 3rd parties
 
 **What we do with the information we collect**
 
