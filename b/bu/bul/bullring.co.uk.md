@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bullring.co.uk privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502144554id_/http%3A//www.bullring.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bullring.co.uk privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817230139id_/http%3A//www.bullring.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Bullring Birmingham - Privacy Policy
 
