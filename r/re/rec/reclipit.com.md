@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reclipit.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617141740id_/http%3A//reclipit.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reclipit.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817075135id_/http%3A//reclipit.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ReclipIt
 
