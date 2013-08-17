@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbwsexchatcity.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502170942id_/http%3A//www.bbwsexchatcity.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbwsexchatcity.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817231502id_/http%3A//www.bbwsexchatcity.com/pages/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy, BBW Sex Chat City
 
@@ -9,15 +9,10 @@
 
 This website is owned and operated by Infinite Connections Inc/Chat Connections LTD  
 Our postal address is   
-**International Offices - Infinite Connections Inc.  
-Amory Building, Suite #4757, Victoria Road   
-Basseterre, SAINT KITTS AND NEVIS. 
-
-Domestic Offices - Infinite Connections Inc.   
+**Domestic Offices - Infinite Connections Inc.  
 865 SW 78th Ave A100   
-Plantation, FL 33324 
-
-**
+Plantation, FL 33324  
+954-944-9054 **
 
 **UK Offices - Chat Connections LTD  
 OVERSEAS HOUSE   
@@ -30,7 +25,7 @@ WD23 1GG
 
   1. **General**
     1. The operative parties referred to in this policy are COMPANY and You, the User of this SITE. 
-      1. Infinite Connections, Inc., is the Publisher and operator of the Web Site [www.www.bbwsexchatcity.com](http://www.www.bbwsexchatcity.com/). Hereinafter, Infinite Connections, Inc., will be referred to as the "COMPANY". When first-person pronouns are used in this Policy, (Us, We, Our, Ours, etc.) these provisions are referring to Infinite Connections, Inc., d/b/a [www.www.bbwsexchatcity.com](http://www.www.bbwsexchatcity.com/). Additionally, when the terms including, but not limited to, "the SITE" or "this SITE" or "our SITE" or "SITE" are used, these terms refer to [www.www.bbwsexchatcity.com](http://www.www.bbwsexchatcity.com/). 
+      1. Infinite Connections, Inc., is the Publisher and operator of the Web Site [www.bbwsexchatcity.com](http://www.bbwsexchatcity.com/). Hereinafter, Infinite Connections, Inc., will be referred to as the "COMPANY". When first-person pronouns are used in this Policy, (Us, We, Our, Ours, etc.) these provisions are referring to Infinite Connections, Inc., d/b/a [www.bbwsexchatcity.com](http://www.bbwsexchatcity.com/). Additionally, when the terms including, but not limited to, "the SITE" or "this SITE" or "our SITE" or "SITE" are used, these terms refer to [www.bbwsexchatcity.com](http://www.bbwsexchatcity.com/). 
       2. **You, the User** \- As the User of this SITE, this policy will refer to the User as "You" or through any second-person pronouns, such as "Yours," etc. Hereinafter, the User of the SITE shall be referred to in applicable second-person pronouns. 
     2. This Privacy Policy describes how We use information received about You when you visit Our SITE or when You subscribe to, or otherwise use Our online services. This Policy does not cover any information that We may receive from or about You through channels other than through the use of the SITE. 
   2. **Revisions to This Policy**
@@ -46,7 +41,7 @@ Visitors to Our SITE and services will have multiple manners of interactivity wi
     3. **Posters** \- Posters are composed jointly of both Members and Non-Members to Our SITE. Both sets of Users to Our SITE have voluntarily registered for SITE access, and possess the ability, subject to the terms of both this Policy and the SITE's Terms of Service, to post information in our forums. Any information entered voluntarily by the Poster should be considered to be considered public information or information that is publicly available. If You do not wish for information to be made public, You should not enter it into Your User profile when registering as a Member or Non-Member, i.e., a Poster. 
   4. **How We Collect Information From You**
     1. **Passive Collection** \- We use cookies to collect information about You in order to enhance Your experience on the SITE. The information collected in Our cookies includes, but is not limited to, Your user IP address, browser information, Your geographic location and other session data. 
-    2. **Active Collection** \- We collect information from You when You complete registration forms to sign up for User access on our SITE. Locations for such collection are registration pages, such as [www.www.bbwsexchatcity.com](http://www.www.bbwsexchatcity.com/) but we reserve the right to add additional information collection portals. 
+    2. **Active Collection** \- We collect information from You when You complete registration forms to sign up for User access on our SITE. Locations for such collection are registration pages, such as [www.bbwsexchatcity.com](http://www.bbwsexchatcity.com/) but we reserve the right to add additional information collection portals. 
   5. **How We Use Your Information**
 
 The primary use for Your information is to provide You with services You have requested and/or paid for. We also use Your information to deliver customized services to You; for Member support purposes; and for efforts to monitor and ensure against fraud. Non-personal and aggregate information, such as that collected passively, is used in order to customize Our marketing efforts or to customize the use of Our SITE for an aggregate group of customers. We will not use the personal information of Users whose membership have expired or have been cancelled in order to market Our services to such individuals in the future. Rather, all such personal information will be retained indefinitely in the SITE's protected database. 
