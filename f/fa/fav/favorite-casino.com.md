@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the favorite-casino.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017190116id_/http%3A//www.favorite-casino.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the favorite-casino.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817092605id_/http%3A//www.favorite-casino.com/privacy.html) for the most accurate reproduction.*
 
 # Favorite Casino - LR - PM - Visa/Master - Privacy Policy
 
