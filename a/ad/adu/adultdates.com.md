@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adultdates.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626233554id_/http%3A//www.adultdates.com/data/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultdates.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817123818id_/http%3A//www.adultdates.com/data/privacy.php) for the most accurate reproduction.*
 
 # 
 
