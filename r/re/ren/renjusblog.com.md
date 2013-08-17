@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the renjusblog.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623161045id_/http%3A//www.renjusblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the renjusblog.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817083620id_/http%3A//www.renjusblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Renjus Blog
 
