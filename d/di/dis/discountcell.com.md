@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discountcell.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117140436id_/http%3A//www.discountcell.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountcell.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817102848id_/http%3A//www.discountcell.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement for Discountcell.com
 
@@ -144,10 +144,13 @@ The compact policy is sent by the Web server along with the cookies it describes
 
 * * *
 
+| [Discount Cell](http://pinterest.com/source/discountcell.com/) |  |  |   |  | [Follow @discountcell](https://twitter.com/discountcell) |   
+---|---|---|---|---|---|---|---  
+  
 We keep your device running with only authentic, top quality **[cell phone accessories](http://www.discountcell.com/ "cell phone accessories")**.  Buy with confidence knowing every item we offer is covered by our satisfaction guarantee and the manufacturers warranty.
 
 [Apple Accessories ](http://www.discountcell.com/cellular/apple.htm "Apple Accessories") |  [Audiovox Accessories](http://www.discountcell.com/cellular/cavx.htm "Audiovox Accessories") |  [Blackberry Accessories](http://www.discountcell.com/blackberry-accessories.htm "Blackberry Accessories")  |  [Boost Mobile Accessories](http://www.discountcell.com/cellular/cboost.htm "Boost Mobile Accessories")  |  [HTC Accessories](http://www.discountcell.com/cellular/htc.htm "HTC Accessories")  |  [Kyocera Accessories](http://www.discountcell.com/cellular/ckyocera.htm "Kyocera Accessories")  |  [LG Accessories](http://www.discountcell.com/cellular/clgic.htm "LG Accessories")  |  [Motorola Accessories](http://www.discountcell.com/cellular/cmotoh2.asp "Motorola Accessories")  |  [Nextel Accessories](http://www.discountcell.com/cellular/cnext.htm "Nextel Accessories")   
-[Nokia Accessories](http://www.discountcell.com/cellular/cnokia.htm "Nokia Accessories")  |  [Palm Treo Accessories](http://www.discountcell.com/cellular/ctreo.htm "Palm Treo Accessories")  |  [Pantech Accessories](http://www.discountcell.com/cellular/pantech.htm "Pantech Accessories")  |  [Samsung Accessories](http://www.discountcell.com/cellular/csam.htm "Samsung Accessories")  |  [Sanyo Accessories](http://www.discountcell.com/sanyo-accessories.htm "Sanyo Accessories")  |  [Siemens Accessories](http://www.discountcell.com/cellular/csiemens.htm "Siemens Accessories")  |  [Sony Ericsson Accessories](http://www.discountcell.com/cellular/ceric.htm "Sony Ericsson Accessories")  |  [UTStarcom Accessories](http://www.discountcell.com/cellular/UTStarcom.htm "UTStarcom Accessories")
+[Nokia Accessories](http://www.discountcell.com/cellular/cnokia.htm "Nokia Accessories")  |  [Palm Treo Accessories](http://www.discountcell.com/cellular/ctreo.htm "Palm Treo Accessories")  |  [Pantech Accessories](http://www.discountcell.com/cellular/pantech.htm "Pantech Accessories")  |  [Samsung Accessories](http://www.discountcell.com/cellular/csam.htm "Samsung Accessories")  |  [Sanyo Accessories](http://www.discountcell.com/sanyo-accessories.htm "Sanyo Accessories")  |  [Siemens Accessories](http://www.discountcell.com/cellular/csiemens.htm "Siemens Accessories")  |  [Sony Ericsson Accessories](http://www.discountcell.com/cellular/ceric.htm "Sony Ericsson Accessories")  |  [UTStarcom Accessories](http://www.discountcell.com/cellular/utstarcom.htm "UTStarcom Accessories")
 
 [Cell Phone Antennas and Signal Boosters](http://www.discountcell.com/cellular/cell-phone-antennas.htm "Cell Phone Antennas and Signal Boosters")  |  [Cell Phone Batteries](http://www.discountcell.com/cellular/cell-phone-batteries.htm "Cell Phone Batteries")  |  [Cell Phone Bluetooth](http://www.discountcell.com/cellular/cell-phone-bluetooth.htm "Cell Phone Bluetooth")  |  [Cell Phone Cases](http://www.discountcell.com/cellular/cell-phone-cases.htm "Cell Phone Cases")  |  [Cell Phone Chargers](http://www.discountcell.com/cellular/cell-phone-chargers.htm "Cell Phone Chargers")  |  [Cell Phone Covers and Gels](http://www.discountcell.com/cellular/phonemakecat/12 "Cell Phone Covers and Gels")  |  [Cell Phone Data Accessories](http://www.discountcell.com/cellular/phonemakecat/5 "Cell Phone Data Accessories")  |  [Cell Phone Holsters](http://www.discountcell.com/cellular/cell-phone-holsters.htm "Cell Phone Holsters")
 
@@ -158,8 +161,8 @@ We keep your device running with only authentic, top quality **[cell phone acces
 [Discountcell](http://www.discountcell.com/) is a certified woman owned company through the WBENC.
 
 For questions or comments please contact Info@DiscountCell.com.  
-Copyright 1997-2012 Discountcell all Rights Reserved.   Discountcell is a trademark of Discountcell Inc.  
+Copyright 1997-2013 Discountcell all Rights Reserved.   Discountcell is a trademark of Discountcell Inc.  
 350 West 500 South, Provo UT 84601  
  
 
-[ ](https://www.bbb.org/online/consumer/cks.aspx?id=1061117125131937)      [ ](http://www.facebook.com/pages/Provo-UT/Discountcell-Inc/78113404390)  [ ](http://twitter.com/discountcell)  [ ](https://secure.trust-guard.com/certificates/www.discountcell.com)  [ ](https://secure.trust-guard.com/certificates/www.discountcell.com)  [ ](https://secure.trust-guard.com/certificates/www.discountcell.com) 
+[ ](https://www.bbb.org/online/consumer/cks.aspx?id=1061117125131937)      [ ](https://secure.trust-guard.com/certificates/www.discountcell.com)  [ ](https://secure.trust-guard.com/certificates/www.discountcell.com)  [ ](https://secure.trust-guard.com/certificates/www.discountcell.com) 
