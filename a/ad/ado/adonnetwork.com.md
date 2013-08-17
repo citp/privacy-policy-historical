@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adonnetwork.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501141648id_/http%3A//adonnetwork.com/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adonnetwork.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817231908id_/http%3A//www.adonnetwork.com/privacy-statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
