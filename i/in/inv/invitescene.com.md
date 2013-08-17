@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the invitescene.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509075743id_/http%3A//www.invitescene.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invitescene.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817220613id_/http%3A//www.invitescene.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - Invite Scene | .::IS::. A Premium Torrent Invitation Community !
+# Privacy Policy - Invite Scene | .::IS::. Your Ultimate Premium Source for Torrent Invites and Guides !
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available in our footer and at every point where personally identifiable information may be requested.
 
