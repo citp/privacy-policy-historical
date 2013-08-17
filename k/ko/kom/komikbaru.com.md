@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the komikbaru.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622002440id_/http%3A//www.komikbaru.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the komikbaru.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817234235id_/http%3A//komikbaru.com/privacy.php) for the most accurate reproduction.*
 
 # Baca Manga Terbaru Server Lokal
 
