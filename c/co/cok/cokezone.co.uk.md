@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cokezone.co.uk privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430122046id_/http%3A//cokezone.co.uk/pages/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cokezone.co.uk privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817083618id_/http%3A//www.cokezone.co.uk/pages/policy) for the most accurate reproduction.*
 
 # Coke Zone privacy policy
 
