@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gethired.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117124738id_/https%3A//gethired.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gethired.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817220137id_/https%3A//gethired.com/privacy-policy) for the most accurate reproduction.*
 
 # Get Hired: The Best Way to Hire and Get Hired | GetHired.com
 
@@ -6,7 +6,7 @@ GetHired values the privacy of the users, employers, job seekers, and others who
 
 By using the Service, you expressly consent to the information handling practices described in this Privacy Policy.
 
-This Privacy Policy is incorporated into and is subject to the GetHired [Terms of Service](https://gethired.com/terms-of-service). Your use of the Service and any personal information you provide through the Service are subject at all times to this Privacy Policy and the [Terms of Service](https://gethired.com/terms-of-service).
+This Privacy Policy is incorporated into and is subject to the GetHired [Terms of Service](https://web.archive.org/terms-of-service). Your use of the Service and any personal information you provide through the Service are subject at all times to this Privacy Policy and the [Terms of Service](https://web.archive.org/terms-of-service).
 
 **TABLE OF CONTENTS**
 
