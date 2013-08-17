@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videocollector.co.uk privacy policy that was archived on 2012-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120118221952id_/http%3A//www.videocollector.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videocollector.co.uk privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817183821id_/http%3A//www.videocollector.co.uk/privacy.php) for the most accurate reproduction.*
 
 # VideoCollector.co.uk Privacy Policy
 
@@ -22,11 +22,11 @@ We do not sell, rent or exchange your personal information with any third party 
 
 We follow strict security procedures in the storage and disclosure of information which you have given us, to prevent unauthorised access in accordance with the UK data protection legislation.
 
-We do not collect sensitive information about you except when you specifically knowingly provide it. In order to maintain the accuracy of our database, you can check, update or remove your personal details by [contacting us](http://www.videocollector.co.uk/contact.php).
+We do not collect sensitive information about you except when you specifically knowingly provide it. In order to maintain the accuracy of our database, you can check, update or remove your personal details by [contacting us](http://videocollector.co.uk/contact.php).
 
 **6 Any Questions?**
 
-If you have any questions about privacy please [contact us](http://www.videocollector.co.uk/contact.php).
+If you have any questions about privacy please [contact us](http://videocollector.co.uk/contact.php).
 
 **7 Third Party Advertising**
 
@@ -36,5 +36,14 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 
 <http://www.google.com/privacypolicy.html>
 
-Random item  [](http://www.videocollector.co.uk/bustin-loose/14254 "Bustin' Loose")| [](http://www.videocollector.co.uk/tom--jerry-cartoon-festival/14133 "Tom & Jerry: Cartoon Festival")| [](http://www.videocollector.co.uk/underground-terror/13096 "Underground Terror")| [](http://www.videocollector.co.uk/rad/15523 "Rad")  
----|---|---|---
+* * *
+
+[](http://videocollector.co.uk/exorcist-the/13075 "Exorcist, The")
+
+[](http://videocollector.co.uk/formula-the/13450 "Formula, The")
+
+[](http://videocollector.co.uk/commando/14669 "Commando")
+
+[](http://videocollector.co.uk/hitcher-the-the-big-picture/15306 "Hitcher, The \(The Big Picture\)")
+
+[](http://videocollector.co.uk/rocketeer/15123 "Rocketeer")
