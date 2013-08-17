@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pagewiz.com privacy policy that was archived on 2013-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130204092512id_/http%3A//www.pagewiz.com/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pagewiz.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817053602id_/http%3A//www.pagewiz.com/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pagewiz
 
