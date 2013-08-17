@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yalwa.in privacy policy that was archived on 2013-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130403192157id_/http%3A//www.yalwa.in/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yalwa.in privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817063508id_/http%3A//www.yalwa.in/info/privacy) for the most accurate reproduction.*
 
 # Yalwa Info pages
 
@@ -80,4 +80,4 @@ Personal information provided to Yalwa may be requested for deletion at any time
 
 * ### Responsible authority
 
-Questions regarding data privacy and protection should be addressed to Sorry, you need Javascript ON to see the email address (spam protection).
+Questions regarding data privacy and protection should be addressed to [privacy@yalwa.in](mailto:privacy@yalwa.in)
