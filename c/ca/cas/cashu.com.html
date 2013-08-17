@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cashu.com privacy policy that was archived on 2013-01-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130118055330id_/https%3A//www.cashu.com/site/en/privacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cashu.com privacy policy that was archived on 2013-08-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130817080849id_/https%3A//www.cashu.com/site/en/privacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -25,9 +25,23 @@
 <body class="bdy_sub" id="mainBody">
 <div class="container">
 
+			<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+			
 <script src="https://www.cashu.com/images/js/jquery-1.js" type="text/javascript" charset="utf-8"></script>
 <script src="https://www.cashu.com/images/js/jquery.js" type="text/javascript" charset="utf-8"></script>
 <script type="text/javascript">
+
+	function doToggle(){
+		if($('#ChangeLoginType').text() == 'User Login'){
+			$('.toggleUserName').show();
+			$('#UsrIDTxt').text('Merchant ID');
+			$('#ChangeLoginType').text('Merchant Login');
+		}else{
+			$('.toggleUserName').hide();
+			$('#UsrIDTxt').text('Username');
+			$('#ChangeLoginType').text('User Login');
+		}
+	}
 
 
 
@@ -60,6 +74,7 @@ jQuery.fn.isChildOf = function(parent){
 
 	return false;
 };
+	
 	
 	function toggle(theDiv) {
 		var elem = document.getElementById(theDiv);
@@ -110,11 +125,15 @@ jQuery.fn.isChildOf = function(parent){
 	}
 	
 	function setLinks2(actionURLP){
+	document.loginDivForm.MerchantUsernameHdn.value = trimString(document.loginDivForm.MerchantUsername.value) ;
 	document.loginDivForm.username.value = trimString(document.loginDivForm.username.value);
 	document.loginDivForm.password.value = trimString(document.loginDivForm.password.value);
 	document.loginDivForm.merchant_id.value = trimString(document.loginDivForm.username.value) ;
 
 		if(actionURLP == 'payment'){
+			$('#ChangeLoginType').css('display','none');
+			$('#UsrIDTxt').text('Username');
+			$('.toggleUserName').css('display','none');
 			document.loginDivForm.action = 'https://www.cashu.com/CLogin/loginNext';
 			document.loginDivForm.userNickName.value = trimString(document.loginDivForm.username.value);
 			document.loginDivForm.userPassword.value = trimString(document.loginDivForm.password.value);
@@ -123,13 +142,18 @@ jQuery.fn.isChildOf = function(parent){
 		}
 		else{
 			if(actionURLP == 'reseller'){
+				$('#ChangeLoginType').css('display','none');
+				$('.toggleUserName').css('display','none');
 				document.loginDivForm.action = 'https://www.cashu.com/resellers/en/login/login';
 				document.loginDivForm.userNickName.value = trimString(document.loginDivForm.username.value) ;
 				document.loginDivForm.userPassword.value = trimString(document.loginDivForm.password.value) ;
 				document.getElementById('forgetPassLink').href="https://www.cashu.com/resellers/en/forgetPassword";
 			}
 			else{
+				$('#ChangeLoginType').text('User Login');
+				$('#ChangeLoginType').css('display','block');
 				document.loginDivForm.action = 'https://www.cashu.com/Merchants/en/login/login';
+				document.loginDivForm.MerchantUsernameHdn.value = trimString(document.loginDivForm.MerchantUsername.value) ;
 				document.loginDivForm.merchant_id.value = trimString(document.loginDivForm.username.value) ;
 				document.getElementById('forgetPassLink').href="https://www.cashu.com/Merchants/en/forgetPassword";
 			}
@@ -155,17 +179,27 @@ jQuery.fn.isChildOf = function(parent){
 
 <form name="loginDivForm" action="https://www.cashu.com/CLogin/loginNext" method="POST">
 <input type="hidden" name="lang" value="en">
+<input type="hidden" name="MerchantUsernameHdn" value="">
 <input type="hidden" name="userNickName" value="">
 <input type="hidden" name="userPassword" value="">
 <input type="hidden" name="merchant_id" value="">
 
 <div class="logn_dropdown" id="loginDiv" style="display: none;">
+				<div class="upLogin"></div>
+				<div class="midLogin">
 				<table>
-				  <tbody><tr>
+				  <tbody>
+				  <tr>
 				    <td align="left" style="color: rgb(1, 1, 1); padding: 5px 0px 2px;" id="UsrIDTxt">Username</td>
 				  </tr>
 				  <tr>
 				    <td align="left"><input type="text" name="username" class="filed_log" id="UsrIDVal" style="direction:ltr"></td>
+				  </tr>
+				   <tr class="toggleUserName" style="display:none;">
+					<td align="left" style="color: rgb(1, 1, 1); padding: 5px 0px 2px;" id="MchIDTxt">Username</td>
+				  </tr>
+				  <tr class="toggleUserName" style="display:none;">
+					<td align="left"><input type="text" name="MerchantUsername" class="filed_log" id="MchIDVal" style="direction:ltr"></td>
 				  </tr>
 				  <tr>
 				    <td align="left" style="color: rgb(1, 1, 1); padding: 5px 0px 2px;" id="PassTxt">Password</td>
@@ -184,11 +218,13 @@ jQuery.fn.isChildOf = function(parent){
 				  </tr>
 				  <tr>
 				    <td align="right" style="padding: 5px;" id="ForgtTD">
+					<a href="javascript:doToggle()" id="ChangeLoginType" style="font-size: 11px;display: none;">User Login</a>
 					<a href="https://www.cashu.com/CLogin/forgetPassword" id="forgetPassLink" style="font-size: 11px;">Forget Password ?</a>
 					</td>
 				  </tr>
 				</tbody></table>
-				
+				</div>
+				<div class="fotLogin"></div>
 				
 				
 </div>
@@ -345,7 +381,7 @@ jQuery.fn.isChildOf = function(parent){
 	<div class="fl pad5"><img alt="" src="https://images.cashu.com/images/en/footer_cashu_live4.jpg?240" title="Ukash , globalcollect , smart2pay, ogone, adyen, keycollect, envoy, wallet one"></div>
 	<br clear="all">
 	<div class="fl pad5"><p>
-	cashU is a member of <a href="http://www.jabbar.com/" target="_blank" title="Jabbar Internet Group">Souq Group Ltd.</a></p>
+	cashU is a member of <a href="http://www.souq.com/" target="_blank" title="Souq Group">Souq Group Ltd.</a></p>
 </div>
 
 
@@ -377,7 +413,26 @@ jQuery.fn.isChildOf = function(parent){
 	pageTracker._trackPageview();
 	} catch(err) {}
 	</script>
-
+	
+	
+				<script type="text/javascript">
+				var _sf_async_config = { uid: 16343, domain: 'cashu.com', useCanonical: true };
+				(function() {
+				function loadChartbeat() {
+				window._sf_endpt = (new Date()).getTime();
+				var e = document.createElement('script');
+				e.setAttribute('language', 'javascript');
+				e.setAttribute('type', 'text/javascript');
+				e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js');
+				document.body.appendChild(e);
+				};
+				var oldonload = window.onload;
+				window.onload = (typeof window.onload != 'function') ?
+				loadChartbeat : function() { oldonload(); loadChartbeat(); };
+				})();
+				</script>
+			
+	
 	</div>
 
 	<!--footer--> 
@@ -386,4 +441,4 @@ jQuery.fn.isChildOf = function(parent){
 
 
 
-</body></html>
+<script language="javascript" type="text/javascript" src="//static.chartbeat.com/js/chartbeat.js"></script></body></html>
