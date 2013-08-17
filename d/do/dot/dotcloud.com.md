@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dotcloud.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425043549id_/https%3A//www.dotcloud.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotcloud.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817121728id_/https%3A//www.dotcloud.com/privacy.html) for the most accurate reproduction.*
 
 # dotCloud - Privacy
 
