@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the admarketplace.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603010134id_/http%3A//www.admarketplace.com/privacy-statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the admarketplace.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818014906id_/http%3A//www.admarketplace.com/privacy-statement.php) for the most accurate reproduction.*
 
 # adMarketplace.com: Privacy Statement
 
@@ -147,6 +147,6 @@ As our company and services evolve, this Privacy Policy may be revised to reflec
 
 ### Questions?
 
-Please [contact us](http://admarketplace.com/contact.php) at adMarketplace, 3 Park Avenue, 27th Floor, New York, NY 10016 with any questions about this website Privacy Policy.
+Please [contact us](http://www.admarketplace.com/contact.php) at adMarketplace, 3 Park Avenue, 27th Floor, New York, NY 10016 with any questions about this website Privacy Policy.
 
 [IP Address Opt-Out Request Form](http://www.admarketplace.com/opt-out/optout.php)
