@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveymoneymachines.com privacy policy that was archived on 2013-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130127021615id_/http%3A//www.surveymoneymachines.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveymoneymachines.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817163017id_/http%3A//www.surveymoneymachines.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
