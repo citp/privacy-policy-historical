@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stbaldricks.org privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514040110id_/http%3A//www.stbaldricks.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stbaldricks.org privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818013018id_/http%3A//www.stbaldricks.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | St. Baldrick's Foundation
 
