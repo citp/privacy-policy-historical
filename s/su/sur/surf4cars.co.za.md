@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the surf4cars.co.za privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423111802id_/http%3A//www.surf4cars.co.za/useful_tools/Private_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surf4cars.co.za privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817114754id_/http%3A//www.surf4cars.co.za/useful_tools/Private_Policy.aspx) for the most accurate reproduction.*
 
-# 
-
-## Surf4cars Privacy Policy
+# Privacy Policy | Surf4cars
 
 **Why do we ask for personal information?**
 
