@@ -1,115 +1,1038 @@
-<!--The following is the downloaded HTML source of the zeromotorcycles.com privacy policy that was archived on 2007-10-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071012074227id_/http%3A//www.zeromotorcycles.com/privacypolicy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zeromotorcycles.com privacy policy that was archived on 2013-08-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130817204022id_/http%3A//www.zeromotorcycles.com/legal/privacy-policy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/Zero Template.dwt" codeOutsideHTMLIsLocked="false" --><head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<!-- InstanceBeginEditable name="doctitle" -->
-<title>Privacy Policy</title>
-<!-- InstanceEndEditable -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+
+<link href="/css/zero.css?m=50c93a80" rel="stylesheet" type="text/css">
+<link href="/css/zero-common.css?m=51a68183" rel="stylesheet" type="text/css">
+
 <style type="text/css">
-<!--
-body {
-	background-image: url();
-	margin-left: 4px;
-	margin-top: 4px;
-	margin-right: 4px;
-	margin-bottom: 4px;
-}
-a {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
-	font-size: small;
-	color: #339933;
-}
-.style1 {font-size: x-small}
-.style2 {font-size: small}
-body,td,th {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
-	font-size: small;
-	color: #333333;
-}
-a:visited {
-	color: #000000;
-}
-a:hover {
-	color: #33FF00;
-}
-a:active {
-	color: #0033FF;
-}
-h1 {
-	font-size: large;
-}
-h2 {
-	font-size: medium;
-}
-h3 {
-	font-size: small;
-}
-a:link {
-	color: #000000;
-}
-h1,h2,h3,h4,h5,h6 {
-	font-family: Arial, Helvetica, sans-serif;
-}
--->
+	.js .hide-if-js,.no-js .hide-if-no-js{display:none;}
+	h1.maintitle {padding-top:20px;}
+.standard-content {margin: 0 0 20px 0;}
+.standard-content h2 {margin: 2em 0 0 0; padding:0;}
+.standard-content ul {margin:0; padding:0 0 0 1.2em;}
+.standard-content p {margin:1em 0 0 0;}
+.standard-content p.first {margin-top:0;}
+.back-link {display: block;}
 </style>
-<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
-<script language="JavaScript" type="text/JavaScript">
-<!--
+<!--[if lte IE 8]>
+<style type="text/css">
+#menu-wrapper .sliding-menu {background: url(/images/menu/slider-background-shadow.png) left bottom repeat-x; padding:0 0 6px 0;}
+</style>
+<![endif]-->
 
 
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+<script type="text/javascript" src="/js/jquery.min.js?m=50aa9cac"></script>
+<script type="text/javascript" src="/js/zero-common.js?m=519aba74"></script>
+<script type="text/javascript" src="/js/jquery.hoverIntent.min.js?m=519aba74"></script>
+<script type="text/javascript" src="/js/dropdown-menu.js?m=519aba74"></script>
+<script type="text/javascript" src="/js/jquery.popupwindow.js?m=4de68d53"></script>
+<script type="text/javascript" src="/js/jquery.cookie.js?m=4de68d53"></script>
+<script type="text/javascript" src="/js/jquery.validate.min.js?m=5109cf50"></script>
+<script type="text/javascript" src="/js/inquiry-form-validate.js?m=520ea536"></script>
+<script type="text/javascript" src="/js/countrydata-js.php"></script>
+			
+<script type="text/javascript">
+/* <![CDATA[ */
+function countryChangeEvent(action,label) {
+	if(typeof pageTracker == 'undefined') return;
+	pageTracker._trackEvent('country_change',action,label);
 }
-//-->
+
+(function($){
+inquiry_form_options={
+		validator_options:{
+		groups:{
+			footercb:'cb_newsletter cb_demo cb_buy cb_other'
+		},
+		errorPlacement:function(error,elem) {
+			if($(elem).hasClass('footer-checkbox')) {
+				var e=$('<div>').append(error);
+				$('#footer-newsletter input[name="cb_other"]').parent().append(e);
+			} else {
+				error.insertAfter(elem);
+			}
+		}
+	}
+};
+$.validator.addMethod('footer-checkbox',
+	function() {
+		return $('#footer-newsletter .footer-checkbox:checked').length > 0;
+	},
+	"Please specify a request"
+);
+
+initializeFooterForm = function() {
+	var inquiry_controls=["phone","city","00N7000000215xx","description","00N7000000215rM"];
+	var showControls = function() {
+		$('#footer-newsletter .address-form tr').not('.inquiry-detail').slice(1).show();
+		updateInquiryTypeFast();
+		$('#footer-newsletter .privacy').show();
+	};
+	var hideControls = function() {
+		$('#footer-newsletter .address-form tr').slice(1).hide();
+		$('#footer-newsletter .privacy').hide();
+	};
+	var openForm = function() {
+		$('#footer-newsletter .initial-prompt').fadeOut();
+		if($(this).hasClass('open')) {
+			return;
+		}
+		showControls();
+		var h = $('#footer-newsletter-content').outerHeight();
+		$(this).animate({
+			height:h
+		},{
+			duration:1000,
+			complete:function() {
+				$(this).addClass('open');
+				$(this).css({height:'auto'});
+			}
+		});
+	};
+	var closeForm = function() {
+		$('#footer-newsletter').css({height:$('#footer-newsletter-content').innerHeight()});
+		$('#footer-newsletter').animate({
+			height:42
+		},{
+			duration:1000,
+			complete:function() {
+				$('#footer-newsletter').removeClass('open');
+				hideControls();
+			}
+		});
+		return false;
+	};
+	var updateInquiryTypeFast = function() {
+		if($('.inquiry-toggle:checked').length == 0) {
+			$('#footer-newsletter .address-form tr.inquiry-detail div').hide();
+			$('#footer-newsletter .address-form tr.inquiry-detail').hide();
+		} else {
+			$('#footer-newsletter .address-form tr.inquiry-detail').show();
+			$('#footer-newsletter .address-form tr.inquiry-detail div').show();
+		}
+	}
+	var updateInquiryType = function() {
+		if($('.inquiry-toggle:checked').length == 0) {
+			$('#footer-newsletter .address-form tr.inquiry-detail div').slideUp({
+				duration:500,
+				complete:function() {
+					$('#footer-newsletter .address-form tr.inquiry-detail').hide();
+				}
+			});
+		} else {
+			$('#footer-newsletter .address-form tr.inquiry-detail').show();
+			$('#footer-newsletter .address-form tr.inquiry-detail div').slideDown({
+				duration:500
+			});
+		}
+	}
+	var p;
+	if($('#footer-newsletter input[name="email"]').val() == '') {
+		p=$('#footer-newsletter input[name="email"]').parent();
+		p.css({position:'relative'});
+		p.append('<div class="initial-prompt">-- Start Here --<\/div>');
+	}
+	$('#footer-newsletter').append('<a class="close-link" href="#"><\/a>');
+	$('#footer-newsletter .inquiry-toggle').change(updateInquiryType);
+	$('#footer-newsletter .close-link').click(closeForm);
+	$('#address_formfooter').append('<input type="hidden" name="jstatus" value="-1" />');
+	$('#address_formfooter').submit(function() {
+		$('#address_formfooter input[name="jstatus"]').val($('#address_formfooter .footer-checkbox:checked').length);
+	});
+	for(i=0;i<inquiry_controls.length;i++) {
+		$('#footer-newsletter [name="'+inquiry_controls[i]+'"]').parentsUntil('tr').last().parent().addClass('inquiry-detail');
+	}
+	if(!$('#footer-newsletter .process-ok').length) {
+		$('#footer-newsletter').click(openForm);
+		$('#footer-newsletter .initial-prompt').click(function(){
+				$('#footer-newsletter input[name="email"]').focus()
+		});
+		$('#footer-newsletter').focusin(openForm);
+	}
+	if($('#footer-newsletter .process-error').length) {
+		showControls();
+		$('#footer-newsletter').addClass('open');
+		$('#footer-newsletter').css({height:'auto'});
+	} else {
+		hideControls();
+	}
+}
+})(jQuery);
+
+(function($){
+$(document).ready(function() {
+	var windowProfiles={
+		cfWindow:{center:1,width:1010,height:740,status:0,scrollbars:1,toolbar:0,resizable:1},
+		productInfoWindow:{center:1,width:500,height:550,status:0,scrollbars:1,toolbar:0,resizable:1},
+		internationalContactWindow:{center:1,width:950,height:700,status:0,scrollbars:1,toolbar:0,resizable:1},
+		inquiryWindow:{center:1,width:580,height:750,status:0,scrollbars:1,toolbar:0,resizable:1} // no comma for the last one! IE7 problems!!
+	};
+		$('.footer-country-link').click(function(e){
+		countryChangeEvent("bottom_flag_link",'us => '+$('img',this).attr('src'));
+		$.cookie('zm_ipcountry', $(this).attr('rel'), { expires: 30, path: '/' });
+	});
+	initializeFooterForm();
+	$('.popupwindow').popupwindow(windowProfiles);
+	var $menuWrapper=$('#menu-wrapper');
+	if (zmc.isMobile()){
+		$('.ddmGalleryVideo',$menuWrapper).each(function(){
+			var href=$(this).attr('href');
+			var parts=href.split('-');
+			if (parts.length>1){
+				$(this).attr('href',href.replace(/(gallery\/)?album(\.php)?/,'zero-'+parts[1]));
+			}
+		});
+	}
+	$('.ddm-menu',$menuWrapper).dropdownMenu({menuWrapper:'menu-wrapper',hoverDelay:0});
+
+	var toggleCountryMenu=function() {
+		$('#footer-country-menu1').slideToggle(750);
+		return false;
+	}
+	$('#footer-country-menu1').append('<a class="close-link" href="#"><\/a>');
+	$('#footer-country-menu1 .close-link').click(toggleCountryMenu);
+	$('#footer-country-select a.flag').click(toggleCountryMenu);
+});
+})(jQuery);
+/* ]]> */
 </script>
-<!-- InstanceParam name="AltNavBar" type="boolean" value="true" -->
-</head>
 
-<body onload="MM_preloadImages('aup.jpg')">
-<p align="left"><span class="style2"><a href="index.htm" target="_self"><img src="Zero/Zero-Logo-gif-transparent.gif" alt="Zero Home" width="180" height="53" hspace="0" border="0" align="middle"></a> <span class="style1"><a href="index.htm" target="_self"> Home</a> | <a href="electricexperience.htm" target="_self">Technology</a>   | <a href="photos.htm" target="_self">Photos</a> | <a href="videos.htm">Videos</a> | <a href="http://community.zeromotorcycles.com" target="_blank">Community</a> | <a href="news.htm">News</a> | <a href="http://store.zeromotorcycles.com" target="_self">Zero Store</a></span></span></p>
-<p align="right">&nbsp;</p>
-<!-- InstanceBeginEditable name="InternalNavBar" --><!-- InstanceEndEditable --><!-- InstanceBeginEditable name="EditRegion3" -->
-<h1>Zero Motorcycles, Inc. Privacy Policy </h1>
-<p>  We want you to get the most out of our Zero Motorcycles, Inc. site. We recognize that privacy is an important issue, so we design and operate our services with the protection of your privacy in mind. This Privacy Policy outlines the types of personal information we gather when you use our web services, as well as some of the steps we take to safeguard it. </p>
-<h2>Data collection</h2>
-<p>  Zero collects limited non-personally identifying information your browser makes available whenever you visit a website. Examples of this type of data are the name of your Internet service provider, the site that referred you to us, any pages you request, and the time and date of those requests. </p>
-<p>There are instances where Zero requests personally identifiable information to provide site visitors with a service. This information, such as name, mailing address, email address, and type of request, is collected and stored in a manner appropriate to the nature of the request, as determined by Zero Motorcycles, Inc. to fulfill your needs. </p>
-<p>For some services, we may request credit card or other payment information. Zero maintains this information in encrypted form on secure servers. </p>
-<h2>Cookies</h2>
-<p>  Zero may send your browser a “cookie” that uniquely identifies your browser. Your browser will store the cookie as a string of characters that will be sent back to our website to improve the user experience of our website. Many websites will not work without the use of cookies. It is possible to set your browser to reject cookies, but be aware that some web services or features of our site may not function properly. </p>
-<h2>Information sharing</h2>
-<p>  Personally identifiable Information collected on our website is never provided or sold to any other company for that company's independent use without your consent. </p>
-<p>However, we may share such information in any of the following circumstances: </p>
-<p>We have your consent. <br>
-  We provide such information to trusted businesses or persons for the sole purpose of processing personally identifying information on our behalf. When this is done, it is subject to agreements that oblige those parties to process such information only on our instructions and in compliance with this Privacy Policy and appropriate confidentiality and security measures. <br>
-  We conclude that we are required by law or have a good faith belief that access, preservation or disclosure of such information is reasonably necessary to protect the rights, property or safety of Zero, its users or the public. <br>
-  Zero may choose to process and store personal information at any of our facilities in the United States or any other country in which Zero or its agents have facilities. By providing your information, you consent to the transfer of your information among these facilities. </p>
-<p>In the event of a change of ownership of Zero Motorcycles, Inc. such as a merger or acquisition with another company, we will provide notice before any personally identifying information becomes subject to a privacy policy not in compliance with this policy. </p>
-<p>We may share aggregated information without personally identifying information, such as the number of hits on a page, with other entities. </p>
-<h2>Information security</h2>
-<p>We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. </p>
-<p>We restrict access to your personally identifying information to employees who need to know that information in order to operate, develop or improve our services. </p>
-<h2>Links</h2>
-<p>Our site may link to other company sites. When you follow a link for our site, we advise you to check the privacy statements of any site before providing any personally identifiable information. </p>
-<h2>Changes to this Policy</h2>
-<p>  Privacy Policy will change from time to time. We do not intend to make any major revisions, but the new policy will be available on the website 7 days before it takes effect. </p>
-<p>If you have any additional questions, please feel free to contact us any time at webmaster@zeromotorcycles.com. </p>
-<h2>Copyrights and Trademarks</h2>
-<p>  This site and all associated materials are protected by worldwide copyright laws and international treaty provisions. This applies whether or not a copyright notice is present on the materials. You agree to comply with all copyright laws in your use of this site and to prevent unauthorized copying of the materials. Zero Motorcycles, Inc. does not grant any express or implied rights to you under any copyrights, trademarks or patents.<br>
+<meta name="revisit-after" content="14 days">
+<title>Privacy Policy || ZERO MOTORCYCLES</title>
+<meta name="description" content="Zero Motorcycles respects your privacy and we value your trust in us. We developed this Privacy Policy to offer transparency. It covers how we collect, use, transfer and store your information. If you have any questions or concerns about Zero’s Privacy Policy, please %scontact us%s.">
+<meta name="keywords" content="Zero Motorcycles Privacy Policy, Zero Motorcycles Company Information, Privacy Policy, Electric motorcycle, electric motorcycles, zero motorcycles, electric bike, motorcycle, zero, electric vehicle, ev, plug in">
+
+
+
+
+</head><body>
+<div id="js-no-js" class="js">
+<script type="text/javascript">
+(function(){
+	var d=document.getElementById("js-no-js");
+	var c = d.className;
+	c = c.replace(/no-js/, 'js');
+	d.className = c;
+})();
+</script>
+
+<div id="menu-wrapper" class="en">
+	<div id="menu">
+	<table>
+	<tbody><tr>
+	<td style="width:200px;"><div style="margin: 10px 0 10px 20px;"><a href="http://www.zeromotorcycles.com/"><img src="/images/blank.gif" alt="" style="background: url(/images/menu/logo.png) no-repeat; width:138px; height:42px;"></a></div></td>
+
+	<td style="width:478px;">
+	<table>
+	<tbody><tr>		
+	<td id="motorcycles-menu" class="ddm-menu">
+		<a class="rollover-menu" href="http://www.zeromotorcycles.com/2013/">Motorcycles</a>
+		<div class="sliding-menu">
+			<ul>
+			<li class="l-1"><a class="lower" href="http://www.zeromotorcycles.com/zero-s/">Zero S</a></li>
+			<li class="l-2"><a class="lower" href="http://www.zeromotorcycles.com/zero-ds/">Zero DS</a></li>
+			<li class="l-3"><a class="lower" href="http://www.zeromotorcycles.com/zero-fx/">Zero FX</a></li>
+			<li class="l-4"><a class="lower" href="http://www.zeromotorcycles.com/zero-xu/">Zero XU</a></li>
+			<li class="l-5"><a class="lower" href="http://www.zeromotorcycles.com/zero-mx/">Zero MX</a></li>
+			<li class="l-6"><a class="lower" href="http://www.zeromotorcycles.com/2012/">2012 Models</a></li>
+			</ul>
+		</div>
+	</td>
+
+	<td id="experience-menu" class="ddm-menu">
+		<a class="rollover-menu" href="http://www.zeromotorcycles.com/customers/">Experience</a>
+		<div class="sliding-menu">
+			<ul>
+			<li class="l-1" style="padding-left:125px;"><a class="lower" href="http://www.zeromotorcycles.com/demo-rides/">Demo Rides</a></li>
+			<li class="l-2"><a class="lower" href="http://www.zeromotorcycles.com/the-thrill/">The Thrill</a></li>
+			<li class="l-3"><a class="lower" href="http://www.zeromotorcycles.com/customers/">Customer Videos</a></li>
+			<li class="l-4"><a class="lower" href="http://www.zeromotorcycles.com/gallery/">Gallery</a></li>
+			<li class="l-5"><a class="lower" href="http://www.zeromotorcycles.com/news.php">News</a></li>
+			<li class="l-6"><a class="lower" href="http://www.zeromotorcycles.com/events.php">Events</a></li>
+			</ul>
+		</div>
+	</td>
+
+	<td id="going-electric-menu" class="ddm-menu">
+		<a class="rollover-menu" href="http://www.zeromotorcycles.com/advantages/">Going Electric</a>
+		<div class="sliding-menu">
+			<ul>
+			<li class="l-1" style="padding-left:205px;"><a class="lower" href="http://www.zeromotorcycles.com/charging/">Charging</a></li>
+			<li class="l-2"><a class="lower" href="http://www.zeromotorcycles.com/incentives/">Incentives</a></li>
+			<li class="l-3"><a class="lower" href="http://www.zeromotorcycles.com/advantages/">Advantages</a></li>
+			<li class="l-4"><a class="lower" href="http://www.zeromotorcycles.com/technology/">Technology</a></li>
+			<li class="l-5"><a class="lower" href="http://www.zeromotorcycles.com/environment/">Environment</a></li>
+			<li class="l-6"><a class="lower" href="http://www.zeromotorcycles.com/range/">Range</a></li>
+			</ul>
+		</div>
+	</td>
+
+	<td id="buy-menu" class="ddm-menu">
+		<a class="rollover-menu" href="http://www.zeromotorcycles.com/shop/index.php?main_page=index&amp;myCountry=223">Buy</a>
+		<div class="sliding-menu">
+			<ul>
+			<li class="l-1" style="padding-left:357px;"><a class="lower" href="http://www.zeromotorcycles.com/locator/">Dealers</a></li>
+			<li class="l-2"><a class="lower" href="http://www.zeromotorcycles.com/consumer_financing.php">Financing</a></li>
+			<li class="l-3"><a class="lower" href="http://www.zeromotorcycles.com/incentives/">Incentives</a></li>
+			<li class="l-4"><a class="lower" href="http://www.zeromotorcycles.com/shop/index.php?main_page=index&amp;myCountry=223">Accessories/Apparel</a></li>
+			<li class="l-5"><a class="lower" href="http://www.zeromotorcycles.com/shop/index.php?&amp;cPath=1&amp;myCountry=223">Motorcycles</a></li>
+			</ul>
+		</div>
+	</td>
+	</tr>
+	</tbody></table>
+	</td>
+
+	<td valign="middle" style="width:300px;text-align:right;">
+	<div id="menu-links">
+	<a href="http://www.zeromotorcycles.com/locator/">Find a Dealer</a>
+	<a href="http://www.zeromotorcycles.com/newsletter_form.php" rel="inquiryWindow" target="_blank" class="popupwindow">Newsletter Sign-up</a>
+	</div>
+	</td>
+	</tr>
+	</tbody></table>
+	</div>
+</div>
+
+<div id="outer-wrapper">
+<div id="outer-wrapper-overlay">
+<div id="border-wrapper">
+<div id="content-wrapper">
+<div id="inner-wrapper">
+
+<div class="main-content" id="top-of-page">          
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td align="left" valign="top" width="220"><br><br><br><a class="bodylink" href="/legal/privacy-policy.php">Privacy Policy</a>
+<br>
+<br><a class="bodylink" href="/legal/terms-of-service.php">Terms of Service</a>
+<br>
+<br><a class="bodylink" href="/legal/terms-of-sale.php">Terms of Sale</a>
+<br>
+<br><a class="bodylink" href="terms-and-conditions.php">UK Terms and Conditions</a>
+<br>
+<br>
+<a class="bodylink" href="french-terms-and-conditions.php">French Terms and Conditions</a>
+<br>
+<br>
+<a class="bodylink" href="spanish-terms-and-conditions.php">Spanish Terms and Conditions</a>
+<br>
+<br>
+<a class="bodylink" href="german-terms-and-conditions.php">German Terms and Conditions</a>
+<br>
+<br>
+<a class="bodylink" href="italian-terms-and-conditions.php">Italian Terms and Conditions</a>
+<br>
+<br>
+</td>
+<td width="10"></td>
+<td align="left" valign="top">
+
+
+<div class="standard-content">
+
+<h1 class="maintitle">Privacy Policy</h1>
+<p>
+Zero Motorcycles respects your privacy and we value your trust in us. We developed this Privacy Policy to offer transparency. It covers how we collect, use, transfer and store your information.
 </p>
-<!-- InstanceEndEditable -->
-<table width="760" border="0" cellspacing="2" cellpadding="2">
-  <tbody><tr>
-    <td><div align="left"><span class="style1"><a href="termsofuse.htm" target="_self">Terms of Use </a> | <a href="privacypolicy.htm" target="_self">Privacy Policy </a> | <a href="employment.htm" target="_self">Employment</a> | <a href="company.htm" target="_self">Company</a> | <a href="contact.htm" target="_self">Contact</a></span></div></td>
-  </tr>
-</tbody></table>
-<p class="style1">&nbsp;</p>
-<p class="style1">&nbsp;</p>
-<!-- InstanceBeginEditable name="EditRegion5" --><!-- InstanceEndEditable -->
-<p>&nbsp;</p>
+<p>
+If you have any questions or concerns about Zero’s Privacy Policy, please <a href="#contact">contact us</a>.
+</p>
 
-<!-- InstanceEnd -->
+<h2>Privacy Policy</h2>
+<ul>
+<li><a href="#info-type">What kind of information does Zero collect?</a></li>
+<li><a href="#info-duration">How long does Zero keep my information?</a></li>
+<li><a href="#info-review">Reviewing or removing personal information</a></li>
+<li><a href="#security">Zero’s security measures to protect personal information</a></li>
+<li><a href="#info-use">How does Zero use my information?</a></li>
+<li><a href="#cookies">What about cookies?</a></li>
+<li><a href="#share">Does Zero share my information?</a></li>
+<li><a href="#receive-stop">How can I stop receiving information from Zero?</a></li>
+<li><a href="#children">Children’s privacy</a></li>
+<li><a href="#contact">How do I contact you?</a></li>
+</ul>
+
+<div class="policy-section" id="info-type" name="info-type">
+<h2>What kind of information does Zero collect?</h2>
+<p class="first">
+When you signup for our newsletter or a demo ride, purchase items at a dealer, request a quote in our online store, contact us with a question or concern, send diagnostic information using the Zero app, or participate in a contest, promotion or survey, we may collect information such as your name, mailing address, phone number, email address and contact preferences.
+</p>
+<p>
+When you visit our website, we collect information sent to us by your computer. This information includes standard web log information, including your IP address, browser type, and the pages you accessed on our site with the time and date.
+</p>
+<p>
+We collect personal information you choose to enter when you submit a form, including your first name, last name, email address, phone number, street, city, state, country, postal code, product interest, questions and whether or not you want to subscribe to our newsletter. Additionally, when you submit a form, we record how you got to our site (e.g. email link, search terms, ad campaign, referral site, etc.).
+</p>
+<p>
+The Zero Motorcycles App gives you the ability to email diagnostic information to the Zero Motorcycles Customer Service Group. This will include the motorcycle’s settings (VIN, model, etc.) along with information from your motorcycle’s event and error logs, which may include time/date of rides along with the motorcycle state during these rides: speeds, temperatures, charging events and other measures of performance significance. Statistical data about your ride and usage of the app, including but not limited to distance travelled, average speed and energy consumption may also be submitted. If you choose to email the bike log information to Zero Motorcycles, it will be associated with your name and email address and may be shared with dealers, distributors and Zero Motorcycles personnel. We use this diagnostic information to resolve issues with your motorcycle and to help us improve product quality.
+</p>
+<p>
+The Zero Motorcycles App includes technology from Flurry Analytics which provides us with information about usage patterns and helps us determine the best areas for improvement. Flurry also records the types of devices and operating systems used, general geographic information, as well as events that occur within the Zero App, such as how often it is used and other anonymous data. This information helps us determine which mobile devices and languages we should support. For more information about Flurry, its privacy policy and how to opt out of this service, please go to <a href="http://www.flurry.com/user-opt-out.html" target="_blank">www.flurry.com/user-opt-out.html</a>.
+</p>
+<span class="back-link">
+<a href="#top-of-page">Back to top</a>
+</span>
+</div>
+
+<div class="policy-section" id="info-duration" name="info-duration">
+<h2>How long does Zero keep my information?</h2>
+<p class="first">
+Our web log information is retained for six months. Your personal information is retained for an indefinite period of time off our public web server.
+</p>
+<span class="back-link">
+<a href="#top-of-page">Back to top</a>
+</span>
+</div>
+
+<div class="policy-section" id="info-review" name="info-review">
+<h2>Reviewing or removing personal information</h2>
+<p class="first">
+We do not store your personal information on our public web server. If you need to update, review or remove your personal information please <a href="#contact">contact us</a>.
+</p>
+<span class="back-link">
+<a href="#top-of-page">Back to top</a>
+</span>
+</div>
+
+<div class="policy-section" id="security" name="security">
+<h2>Zero’s security measures to protect personal information</h2>
+<p class="first">
+Your personal information is not stored on our public web server. In a very few cases an error log entry may be made when your personal information is submitted. Log information is removed every six months.
+</p>
+<span class="back-link">
+<a href="#top-of-page">Back to top</a>
+</span>
+</div>
+
+<div class="policy-section" id="info-use" name="info-use">
+<h2>How does Zero use my information?</h2>
+<div>We may use your personal information in the following ways:</div>
+<ul>
+<li>To communicate with you. Upon your request, we send you information about Zero’s latest products, services, upcoming events and special promotions. You may opt out from our mailing list by selecting the “One-Click Unsubscribe” link located at the bottom of each Zero newsletter.</li>
+<li>To answer any questions or concerns you may have about our products, services, and website.</li>
+<li>To connect you with a nearby Zero Motorcycles dealer if you are interested in signing up for a demo ride or making a purchase. If you have selected a specific dealer, you will be connected with that dealer; otherwise you will be connected with the dealer who is located nearest to you.</li>
+<li>For internal purposes such as data analysis and research to improve our products, services and customer communications. When you request information from Zero or one of our dealers or partners, you will be asked to participate in a follow-up survey. We want to make sure you are receiving good service.</li>
+<li>To run a promotion or contest. Entering Zero promotions and contests involves either submitting a form on our website, mailing an entry form to Zero, or giving an entry form to a Zero dealer. For select promotions and contests Zero Motorcycles may share your entry information with a third party.</li>
+<li>To send you important updates about products that you have purchased. These updates are for your benefit only and are not marketing related.</li>
+<li>To resolve issues with your motorcycle and to help us improve product quality.  The Zero Motorcycles App gives you the ability to email diagnostic information to the Zero Motorcycles Customer Service Group.</li>
+</ul>
+<span class="back-link">
+<a href="#top-of-page">Back to top</a>
+</span>
+</div>
+
+<div class="policy-section" id="cookies" name="cookies">
+<h2>What about cookies?</h2>
+<p class="first">
+The Zero Motorcycles website uses cookies and other technologies such as pixel tags or web beacons. Cookies are bits of non-personal data – information about your use of our website, preferences, shopping cart items – that are stored on your browser. This allows for a more convenient, efficient and personalized user experience and is standard practice on the Internet.
+</p>
+<p>
+Cookies are used in our online behavioral advertising campaigns with Google AdWords which help determine which ads are displayed to you when you visit other websites that belong to our advertising partners’ display networks. (See the <a href="#share">Does Zero share my information?</a> section.) For email and ad campaigns, we may also set a cookie to record that you have arrived at our site via that campaign.
+</p>
+<p>
+Most browsers allow you to disable cookies in the “Preferences” section. Your browser may also have options to block new cookies or notify you when you receive a request for a new cookie. If you disable cookies some sections of our website may not function fully.
+</p>
+<p>
+Web beacons or pixel tags are small pieces of code placed in a web page or email message. They help us track web page visits and notify us when emails are received.
+</p>
+<span class="back-link">
+<a href="#top-of-page">Back to top</a>
+</span>
+</div>
+
+<div class="policy-section" id="share" name="share">
+<h2>Does Zero share my information?</h2>
+<p class="first">
+Zero shares your personal information within our domestic and international branches, company contractors, and partnering dealerships and distributors. This is necessary to honor quote, demo ride and newsletter requests. Zero does not monitor, control or restrict third party use of this information in any manner.
+</p>
+<p>
+Zero may make limited personal information available to third parties in order to send promotional or communication materials.
+</p>
+<p>
+The Zero Motorcycles App gives you the ability to email diagnostic information to the Zero Motorcycles Customer Service Group. If you choose to email the bike log information to Zero Motorcycles, it will be associated with your name and email address and may be shared with dealers, distributors and Zero Motorcycles personnel. We use this diagnostic information to resolve issues with your motorcycle and to help us improve product quality.
+</p>
+<p>
+Zero uses cookies, which share your browsing activity on our website with Google. Google Analytics cookies measure website activity and general statistics and allow us to improve our service. This information will include your IP address and is transmitted to and stored on Google servers. Google AdWords uses cookies to add our website visitors to our remarketing ad campaign. Remarketing cookies allow Google AdWords to display informed and optimized ads to past website visitors as they visit other sites. The information shared with Google does not contain your name, address, telephone number, or e-mail address.
+</p>
+<p>
+Most browsers allow you to disable cookies in the “Preferences” section. Your browser may also have options to block new cookies or notify you when you receive a request for a new cookie. If you disable cookies some sections of our website may not function fully.
+</p>
+<p>
+As an alternative to disabling cookies, to disable remarketing advertising, you can visit the <a href="http://www.networkadvertising.org/" target="_blank">Network Advertising Initiative</a> website and <a href="http://www.networkadvertising.org/choices/" target="_blank">opt out of online behavioral advertising</a>. Just select the ad company: in this case, Google. The number of ads you view will be the same but the ads may not be as relevant. You will need to opt out of online advertising for each web browser that you use.
+</p>
+<span class="back-link">
+<a href="#top-of-page">Back to top</a>
+</span>
+</div>
+
+<div class="policy-section" id="receive-stop" name="receive-stop">
+<h2>How can I stop receiving information from Zero?</h2>
+<p class="first">
+If you would like to stop receiving newsletters, select the “One-Click Unsubscribe” link located at the bottom of each Zero newsletter.
+</p>
+<span class="back-link">
+<a href="#top-of-page">Back to top</a>
+</span>
+</div>
+
+<div class="policy-section" id="children" name="children">
+<h2>Children’s privacy</h2>
+<p class="first">
+Zero’s website and app are not designed for or directed to children under the age of 13.  We never knowingly collect personal information from anyone under the age of 13 without parental consent. If we learn that we have collected personal information from a child under 13 without parental consent, we will delete the information as soon as possible.
+</p>
+<span class="back-link">
+<a href="#top-of-page">Back to top</a>
+</span>
+</div>
+
+<div class="policy-section" id="contact" name="contact">
+<h2>How do I contact you?</h2>
+<p class="first">
+If you have any questions or concerns about Zero’s Privacy Policy, please contact us.
+</p>
+<p style="margin-bottom:1em;">
+380 El Pueblo Road<br>
+Scotts Valley, CA 95066<br>
+USA<br>
+(888)786-9376<br>
+<a href="mailto:info@zeromotorcycles.com">info@zeromotorcycles.com</a><br>
+</p>
+<span class="back-link">
+<a href="#top-of-page">Back to top</a>
+</span>
+</div>
+
+<div class="policy-section" id="changes" name="changes">
+<h2>Changes to Zero Motorcycle’s Privacy Policy</h2>
+<p class="first">
+Last revised: August, 2013
+<br>
+This page describes the most recent updates to our Privacy Policy. We will update our privacy policy from time to time and encourage you to review it periodically.
+</p>
+</div>
+
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+<div id="footer-links-outer">
+	<table id="footer-links" class="footer-4-col" cellspacing="0" cellpadding="0" border="0">
+		<tbody><tr>
+
+<td valign="top" class="footer-links">
+	<h3>About</h3>
+	<a class="bottom-link" href="http://www.zeromotorcycles.com/company/">Who We Are</a>
+	<a class="bottom-link" href="http://www.zeromotorcycles.com/press/">Press</a>
+	<a class="bottom-link" href="http://www.zeromotorcycles.com/news.php">News</a>
+	<a class="bottom-link" href="http://www.zeromotorcycles.com/high-res-photos/">High Res Images</a>
+</td>
+
+<td valign="top" class="footer-links">
+	<h3>Interact</h3>
+	<a class="bottom-link" href="http://www.zeromotorcycles.com/contact.php">Contact Us</a>
+	<a class="bottom-link" href="http://www.zeromotorcycles.com/locator/">Find a Dealer</a>
+	<a class="bottom-link" href="http://www.zeromotorcycles.com/events.php">Events</a>
+	<a class="bottom-link" href="http://www.zeromotorcycles.com/owner-resources/">Owners</a>
+</td>
+
+<td valign="top" class="footer-links">
+	<h3>Commercial</h3>
+	<a class="bottom-link" href="http://www.zeromotorcycles.com/fleet/">Fleet Programs</a>
+	<a class="bottom-link" href="http://www.zeromotorcycles.com/powertrains/" target="_blank">Powertrain Solutions</a>
+	<a class="bottom-link" href="http://www.zeromotorcycles.com/company/dealer/">Become a Dealer</a>
+</td>
+
+<td valign="top" class="footer-links">
+	<h3>Purchase</h3>
+	<a class="bottom-link" href="http://www.zeromotorcycles.com/consumer_financing.php">Financing</a>
+	<a class="bottom-link" href="http://www.zeromotorcycles.com/incentives/">Incentives</a>
+	<a class="bottom-link" href="http://www.zeromotorcycles.com/shop/index.php?main_page=index&amp;myCountry=223">Shop</a>
+</td>
+			<td valign="top">
+				<div class="footer-right">
+					<div id="footer-newsletter"><div id="footer-newsletter-content" class="hide-if-no-js">
+<div class="signup-title">Newsletter / Demo ride</div>
+<div class="">
+<div class="inquiry-main">
+
+<div class="top-text">
+
+</div>
+
+<form id="address_formfooter" class="popup address-form" name="address_formfooter" action="/legal/privacy-policy.php" method="post">
+<input type="hidden" name="posted" value="true">
+<input type="hidden" name="jscv" value="15934">
+
+<table width="100%" border="0">
+<tbody><tr>
+	<td align="left" valign="top"><div class="inquiry-label-column"><label>Email<span class="heads-up">*</span>:</label></div></td>
+	<td align="left" valign="top">	<div class="inquiry-input-column" style="position: relative;"><input maxlength="100" name="email" size="20" type="text" value="" class="required email"><div class="initial-prompt">-- Start Here --</div></div>
+</td>
+</tr>
+<tr style="display: none;">
+	<td align="left" valign="top"><div class="inquiry-label-column"><label>First Name<span class="heads-up">*</span>:</label></div></td>
+	<td align="left" valign="top">	<div class="inquiry-input-column"><input maxlength="40" name="first_name" size="20" type="text" value="" class="required text"></div>
+</td>
+</tr>
+<tr style="display: none;">
+	<td align="left" valign="top"><div class="inquiry-label-column"><label>Last Name:</label></div></td>
+	<td align="left" valign="top">	<div class="inquiry-input-column"><input maxlength="80" name="last_name" size="20" type="text" value="" class="text"></div>
+</td>
+</tr>
+<tr style="display: none;">
+	<td align="left" valign="top"><div class="inquiry-label-column"><label>Country<span class="heads-up">*</span>:</label></div></td>
+	<td align="left" valign="top"><div class="inquiry-input-column">
+	<select name="country" class="required country select">
+		<option value="">-- Select --</option>
+				<option value="AX">Aaland Islands</option>
+		<option value="AF">Afghanistan</option>
+		<option value="AL">Albania</option>
+		<option value="DZ">Algeria</option>
+		<option value="AS">American Samoa</option>
+		<option value="AD">Andorra</option>
+		<option value="AO">Angola</option>
+		<option value="AI">Anguilla</option>
+		<option value="AQ">Antarctica</option>
+		<option value="AG">Antigua and Barbuda</option>
+		<option value="AR">Argentina</option>
+		<option value="AM">Armenia</option>
+		<option value="AW">Aruba</option>
+		<option value="AU">Australia</option>
+		<option value="AT">Austria</option>
+		<option value="AZ">Azerbaijan</option>
+		<option value="BS">Bahamas</option>
+		<option value="BH">Bahrain</option>
+		<option value="BD">Bangladesh</option>
+		<option value="BB">Barbados</option>
+		<option value="BY">Belarus</option>
+		<option value="BE">Belgium</option>
+		<option value="BZ">Belize</option>
+		<option value="BJ">Benin</option>
+		<option value="BM">Bermuda</option>
+		<option value="BT">Bhutan</option>
+		<option value="BO">Bolivia</option>
+		<option value="BA">Bosnia and Herzegowina</option>
+		<option value="BW">Botswana</option>
+		<option value="BV">Bouvet Island</option>
+		<option value="BR">Brazil</option>
+		<option value="IO">British Indian Ocean Territory</option>
+		<option value="BN">Brunei Darussalam</option>
+		<option value="BG">Bulgaria</option>
+		<option value="BF">Burkina Faso</option>
+		<option value="BI">Burundi</option>
+		<option value="KH">Cambodia</option>
+		<option value="CM">Cameroon</option>
+		<option value="CA">Canada</option>
+		<option value="CV">Cape Verde</option>
+		<option value="KY">Cayman Islands</option>
+		<option value="CF">Central African Republic</option>
+		<option value="TD">Chad</option>
+		<option value="CL">Chile</option>
+		<option value="CN">China</option>
+		<option value="CX">Christmas Island</option>
+		<option value="CC">Cocos Islands</option>
+		<option value="CO">Colombia</option>
+		<option value="KM">Comoros</option>
+		<option value="CG">Congo</option>
+		<option value="CK">Cook Islands</option>
+		<option value="CR">Costa Rica</option>
+		<option value="CI">Cote D'Ivoire</option>
+		<option value="HR">Croatia</option>
+		<option value="CU">Cuba</option>
+		<option value="CY">Cyprus</option>
+		<option value="CZ">Czech Republic</option>
+		<option value="DK">Denmark</option>
+		<option value="DJ">Djibouti</option>
+		<option value="DM">Dominica</option>
+		<option value="DO">Dominican Republic</option>
+		<option value="TP">East Timor</option>
+		<option value="EC">Ecuador</option>
+		<option value="EG">Egypt</option>
+		<option value="SV">El Salvador</option>
+		<option value="GQ">Equatorial Guinea</option>
+		<option value="ER">Eritrea</option>
+		<option value="EE">Estonia</option>
+		<option value="ET">Ethiopia</option>
+		<option value="FK">Falkland Islands</option>
+		<option value="FO">Faroe Islands</option>
+		<option value="FJ">Fiji</option>
+		<option value="FI">Finland</option>
+		<option value="FR">France</option>
+		<option value="GF">French Guiana</option>
+		<option value="PF">French Polynesia</option>
+		<option value="TF">French Southern Territories</option>
+		<option value="GA">Gabon</option>
+		<option value="GM">Gambia</option>
+		<option value="GE">Georgia</option>
+		<option value="DE">Germany</option>
+		<option value="GH">Ghana</option>
+		<option value="GI">Gibraltar</option>
+		<option value="GR">Greece</option>
+		<option value="GL">Greenland</option>
+		<option value="GD">Grenada</option>
+		<option value="GP">Guadeloupe</option>
+		<option value="GU">Guam</option>
+		<option value="GT">Guatemala</option>
+		<option value="GN">Guinea</option>
+		<option value="GW">Guinea-bissau</option>
+		<option value="GY">Guyana</option>
+		<option value="HT">Haiti</option>
+		<option value="HM">Heard and Mc Donald Islands</option>
+		<option value="HN">Honduras</option>
+		<option value="HK">Hong Kong</option>
+		<option value="HU">Hungary</option>
+		<option value="IS">Iceland</option>
+		<option value="IN">India</option>
+		<option value="ID">Indonesia</option>
+		<option value="IR">Iran</option>
+		<option value="IQ">Iraq</option>
+		<option value="IE">Ireland</option>
+		<option value="IL">Israel</option>
+		<option value="IT">Italy</option>
+		<option value="JM">Jamaica</option>
+		<option value="JP">Japan</option>
+		<option value="JO">Jordan</option>
+		<option value="KZ">Kazakhstan</option>
+		<option value="KE">Kenya</option>
+		<option value="KI">Kiribati</option>
+		<option value="KP">North Korea</option>
+		<option value="KR">Republic of Korea</option>
+		<option value="KW">Kuwait</option>
+		<option value="KG">Kyrgyzstan</option>
+		<option value="LA">Laos</option>
+		<option value="LV">Latvia</option>
+		<option value="LB">Lebanon</option>
+		<option value="LS">Lesotho</option>
+		<option value="LR">Liberia</option>
+		<option value="LY">Libya</option>
+		<option value="LI">Liechtenstein</option>
+		<option value="LT">Lithuania</option>
+		<option value="LU">Luxembourg</option>
+		<option value="MO">Macau</option>
+		<option value="MK">Macedonia</option>
+		<option value="MG">Madagascar</option>
+		<option value="MW">Malawi</option>
+		<option value="MY">Malaysia</option>
+		<option value="MV">Maldives</option>
+		<option value="ML">Mali</option>
+		<option value="MT">Malta</option>
+		<option value="MH">Marshall Islands</option>
+		<option value="MQ">Martinique</option>
+		<option value="MR">Mauritania</option>
+		<option value="MU">Mauritius</option>
+		<option value="YT">Mayotte</option>
+		<option value="MX">Mexico</option>
+		<option value="FM">Micronesia</option>
+		<option value="MD">Moldova</option>
+		<option value="MC">Monaco</option>
+		<option value="MN">Mongolia</option>
+		<option value="MS">Montserrat</option>
+		<option value="MA">Morocco</option>
+		<option value="MZ">Mozambique</option>
+		<option value="MM">Myanmar</option>
+		<option value="NA">Namibia</option>
+		<option value="NR">Nauru</option>
+		<option value="NP">Nepal</option>
+		<option value="NL">Netherlands</option>
+		<option value="AN">Netherlands Antilles</option>
+		<option value="NC">New Caledonia</option>
+		<option value="NZ">New Zealand</option>
+		<option value="NI">Nicaragua</option>
+		<option value="NE">Niger</option>
+		<option value="NG">Nigeria</option>
+		<option value="NU">Niue</option>
+		<option value="NF">Norfolk Island</option>
+		<option value="MP">Northern Mariana Islands</option>
+		<option value="NO">Norway</option>
+		<option value="OM">Oman</option>
+		<option value="PK">Pakistan</option>
+		<option value="PW">Palau</option>
+		<option value="PA">Panama</option>
+		<option value="PG">Papua New Guinea</option>
+		<option value="PY">Paraguay</option>
+		<option value="PE">Peru</option>
+		<option value="PH">Philippines</option>
+		<option value="PN">Pitcairn</option>
+		<option value="PL">Poland</option>
+		<option value="PT">Portugal</option>
+		<option value="PR">Puerto Rico</option>
+		<option value="QA">Qatar</option>
+		<option value="RE">Reunion</option>
+		<option value="RO">Romania</option>
+		<option value="RU">Russian Federation</option>
+		<option value="RW">Rwanda</option>
+		<option value="KN">Saint Kitts and Nevis</option>
+		<option value="LC">Saint Lucia</option>
+		<option value="VC">Saint Vincent and the Grenadines</option>
+		<option value="WS">Samoa</option>
+		<option value="SM">San Marino</option>
+		<option value="ST">Sao Tome and Principe</option>
+		<option value="SA">Saudi Arabia</option>
+		<option value="SN">Senegal</option>
+		<option value="SC">Seychelles</option>
+		<option value="SL">Sierra Leone</option>
+		<option value="SG">Singapore</option>
+		<option value="SK">Slovakia</option>
+		<option value="SI">Slovenia</option>
+		<option value="SB">Solomon Islands</option>
+		<option value="SO">Somalia</option>
+		<option value="ZA">South Africa</option>
+		<option value="GS">South Georgia and the South Sandwich Islands</option>
+		<option value="ES">Spain</option>
+		<option value="LK">Sri Lanka</option>
+		<option value="SH">St. Helena</option>
+		<option value="PM">St. Pierre and Miquelon</option>
+		<option value="SD">Sudan</option>
+		<option value="SR">Suriname</option>
+		<option value="SJ">Svalbard and Jan Mayen Islands</option>
+		<option value="SZ">Swaziland</option>
+		<option value="SE">Sweden</option>
+		<option value="CH">Switzerland</option>
+		<option value="SY">Syrian Arab Republic</option>
+		<option value="TW">Taiwan</option>
+		<option value="TJ">Tajikistan</option>
+		<option value="TZ">Tanzania</option>
+		<option value="TH">Thailand</option>
+		<option value="TG">Togo</option>
+		<option value="TK">Tokelau</option>
+		<option value="TO">Tonga</option>
+		<option value="TT">Trinidad and Tobago</option>
+		<option value="TN">Tunisia</option>
+		<option value="TR">Turkey</option>
+		<option value="TM">Turkmenistan</option>
+		<option value="TC">Turks and Caicos Islands</option>
+		<option value="TV">Tuvalu</option>
+		<option value="UG">Uganda</option>
+		<option value="UA">Ukraine</option>
+		<option value="AE">United Arab Emirates</option>
+		<option value="GB">United Kingdom</option>
+		<option value="US" selected="selected">United States</option>
+		<option value="UM">United States Minor Outlying Islands</option>
+		<option value="UY">Uruguay</option>
+		<option value="UZ">Uzbekistan</option>
+		<option value="VU">Vanuatu</option>
+		<option value="VA">Vatican City</option>
+		<option value="VE">Venezuela</option>
+		<option value="VN">Viet Nam</option>
+		<option value="VG">British Virgin Islands</option>
+		<option value="VI">U.S. Virgin Islands</option>
+		<option value="WF">Wallis and Futuna Islands</option>
+		<option value="EH">Western Sahara</option>
+		<option value="YE">Yemen</option>
+		<option value="ZR">Zaire</option>
+		<option value="ZM">Zambia</option>
+		<option value="ZW">Zimbabwe</option>
+	</select>
+	<div style="margin-top: .5em;" class="update_country">
+	<input name="update_country" class="submit" type="submit" value="Update">
+	</div>
+	</div></td>
+</tr>
+<tr style="display: none;">
+	<td align="left" valign="top"><div class="inquiry-label-column"><label>State<span class="heads-up state-field state-list-display">*</span>:</label></div></td>
+	<td align="left" valign="top"><div class="state_area inquiry-input-column">
+		<input maxlength="100" name="state" size="20" type="text" value="" class="state-field state-display hidden">
+		<select name="state_list" class="state-field state-list-display required">
+		<option value="">-- Select --</option>
+		<option value="AK">Alaska</option>
+		<option value="AL">Alabama</option>
+		<option value="AR">Arkansas</option>
+		<option value="AZ">Arizona</option>
+		<option value="CA">California</option>
+		<option value="CO">Colorado</option>
+		<option value="CT">Connecticut</option>
+		<option value="DC">District of Columbia</option>
+		<option value="DE">Delaware</option>
+		<option value="FL">Florida</option>
+		<option value="GA">Georgia</option>
+		<option value="HI">Hawaii</option>
+		<option value="IA">Iowa</option>
+		<option value="ID">Idaho</option>
+		<option value="IL">Illinois</option>
+		<option value="IN">Indiana</option>
+		<option value="KS">Kansas</option>
+		<option value="KY">Kentucky</option>
+		<option value="LA">Louisiana</option>
+		<option value="MA">Massachusetts</option>
+		<option value="MD">Maryland</option>
+		<option value="ME">Maine</option>
+		<option value="MI">Michigan</option>
+		<option value="MN">Minnesota</option>
+		<option value="MO">Missouri</option>
+		<option value="MS">Mississippi</option>
+		<option value="MT">Montana</option>
+		<option value="NC">North Carolina</option>
+		<option value="ND">North Dakota</option>
+		<option value="NE">Nebraska</option>
+		<option value="NH">New Hampshire</option>
+		<option value="NJ">New Jersey</option>
+		<option value="NM">New Mexico</option>
+		<option value="NV">Nevada</option>
+		<option value="NY">New York</option>
+		<option value="OH">Ohio</option>
+		<option value="OK">Oklahoma</option>
+		<option value="OR">Oregon</option>
+		<option value="PA">Pennsylvania</option>
+		<option value="RI">Rhode Island</option>
+		<option value="SC">South Carolina</option>
+		<option value="SD">South Dakota</option>
+		<option value="TN">Tennessee</option>
+		<option value="TX">Texas</option>
+		<option value="UT">Utah</option>
+		<option value="VA">Virginia</option>
+		<option value="VT">Vermont</option>
+		<option value="WA">Washington</option>
+		<option value="WI">Wisconsin</option>
+		<option value="WV">West Virginia</option>
+		<option value="WY">Wyoming</option>
+		</select>
+    </div></td>
+</tr>
+<tr style="display: none;">
+	<td align="left" valign="top"><div class="inquiry-label-column"><label>Postal Code<span class="heads-up">*</span>:</label></div></td>
+	<td align="left" valign="top">	<div class="inquiry-input-column"><input maxlength="40" name="zip" size="20" type="text" value="" class="required text"></div>
+</td>
+</tr>
+<tr class="footer-checkbox" style="display: none;">
+	<td align="left" valign="top" colspan="2"><div class="inquiry-input-column"><input type="checkbox" name="cb_newsletter" value="1" checked="" class="footer-checkbox"> Sign me up for the newsletter</div></td>
+</tr>
+<tr class="footer-checkbox" style="display: none;">
+	<td align="left" valign="top" colspan="2"><div class="inquiry-input-column"><input type="checkbox" name="cb_demo" value="1" class="footer-checkbox inquiry-toggle"> I would like a demo ride</div></td>
+</tr>
+<tr class="footer-checkbox" style="display: none;">
+	<td align="left" valign="top" colspan="2"><div class="inquiry-input-column"><input type="checkbox" name="cb_buy" value="1" class="footer-checkbox inquiry-toggle"> I would like to purchase a motorcycle</div></td>
+</tr>
+<tr style="display: none;">
+	<td align="left" valign="top" colspan="2"><div class="inquiry-input-column"><input type="checkbox" name="cb_other" value="1" class="footer-checkbox inquiry-toggle"> I have other questions</div></td>
+</tr>
+<tr class="inquiry-detail" style="display: none;">
+	<td align="left" valign="top"><div class="inquiry-label-column"><label>Phone:</label></div></td>
+	<td align="left" valign="top">	<div class="inquiry-input-column"><input maxlength="20" name="phone" size="20" type="text" value="" class="text"></div>
+</td>
+</tr>
+<tr class="inquiry-detail" style="display: none;">
+	<td align="left" valign="top"><div class="inquiry-label-column"><label>City:</label></div></td>
+	<td align="left" valign="top">	<div class="inquiry-input-column"><input maxlength="100" name="city" size="20" type="text" value="" class="text"></div>
+</td>
+</tr>
+<tr class="inquiry-detail" style="display: none;">
+	<td align="left" valign="top"><div class="inquiry-label-column">Product Interest:</div></td>
+	<td align="left" valign="top"><div class="inquiry-input-column">
+		<select name="00N7000000215xx" title="Product Interest">
+		<option value="All Products">All Products</option>
+		<option value="Zero S">Zero S</option>
+		<option value="Zero DS">Zero DS</option>
+		<option value="Zero FX">Zero FX</option>
+		<option value="Zero XU">Zero XU</option>
+		<option value="Zero MX">Zero MX</option>
+		<option value="Zero X">Zero X</option>
+	    </select>
+</div></td>
+</tr>
+<tr class="inquiry-detail" style="display: none;">
+	<td align="left" valign="top"><div class="inquiry-label-column"><label>Do you have any additional questions or requests?:</label></div></td>
+	<td align="left" valign="top"><div class="inquiry-input-column"><textarea cols="30" rows="3" name="description"></textarea></div></td>
+</tr>
+<tr style="display: none;">
+	<td align="left" valign="top"><div class="inquiry-label-column">How did you hear about us? (optional):</div></td>
+	<td align="left" valign="top"><div class="inquiry-input-column">
+		<select name="00N70000002IdJJ" title="How did you hear about us? (optional)">
+		<option value="None"></option>
+		<option value="Online">Online</option>
+		<option value="Magazine / Newspaper">Magazine / Newspaper</option>
+		<option value="Event">Event</option>
+		<option value="Friend">Friend</option>
+		<option value="Television">Television</option>
+		<option value="Other">Other</option>
+	    </select>
+</div></td>
+</tr>
+<tr style="display: none;">
+	<td><div class="inquiry-label-column"></div></td>
+	<td><div class="inquiry-input-column">
+	
+
+<input type="hidden" name="formfooter" value="true">
+    <input name="submit" class="submit" type="submit" value="Submit">
+    </div></td>
+</tr>
+	
+</tbody></table>
+<input type="hidden" name="jstatus" value="-1"></form>
+
+
+
+</div>
+<div class="privacy" style="display: none;">If you enter a question in the form above, your information will be shared with the nearest authorized Zero Motorcycles dealer to ensure a quick and informative answer.</div>
+</div>
+</div>
+<div class="hide-if-js"><div class="signup-button">&nbsp;<span style="color:#EE0000">»</span>&nbsp;<a href="/newsletter_form.php" class="bottom-link popupwindow" target="_blank" rel="inquiryWindow">Sign-up for the Newsletter</a></div>
+<div class="signup-button">&nbsp;<span style="color:#EE0000">»</span>&nbsp;<a href="/inquiries.php" class="bottom-link popupwindow" target="_blank" rel="inquiryWindow">Schedule a Demo</a></div></div><a class="close-link" href="#"></a></div>
+					<div id="footer-addthis-area">						<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=zeromotorcycles"></script>
+						<script type="text/javascript">var addthis_pub="zeromotorcycles"; var addthis_config = {"data_track_clickback":false};</script>
+						<div class="addthis_toolbox addthis_default_style addthis_32x32_style">
+						<a class="addthis_button_email"></a>
+						<a class="addthis_button_facebook"></a>
+						<a class="addthis_button_twitter"></a>
+						<a class="addthis_button_compact"></a>
+						</div>					</div>
+				</div>
+			</td>
+		</tr>
+	</tbody></table>
+</div>
+<div id="footer-outer">
+	<div id="footer-content">	<div id="footer-country-select">
+		<a class="flag bottom-link" href="#"><img src="/images/flags/usa.jpg"> Select Country</a>
+		<div id="footer-country-menu1">
+		<div id="footer-country-menu2"><div class="footer-region">North America</div>
+<a class="footer-country-link" href="http://www.zeromotorcycles.com/ca/" rel="CA"><img src="/images/flags/canada.jpg">Canada (English)</a>
+<a class="footer-country-link" href="http://www.zeromotorcycles.com/qc/" rel="CA"><img src="/images/flags/canada.jpg">Canada (Français)</a>
+<a class="footer-country-link" href="http://www.zeromotorcycles.com/" rel="US"><img src="/images/flags/usa.jpg">United States</a>
+<div class="footer-region-sep"></div>
+<div class="footer-region">Europe</div>
+<a class="footer-country-link" href="http://www.zeromotorcycles.com/de/" rel="DE"><img src="/images/flags/germany.jpg">Deutschland</a>
+<a class="footer-country-link" href="http://www.zeromotorcycles.com/es/" rel="ES"><img src="/images/flags/spain.jpg">España</a>
+<a class="footer-country-link" href="http://www.zeromotorcycles.com/fr/" rel="FR"><img src="/images/flags/france.jpg">France</a>
+<a class="footer-country-link" href="http://www.zeromotorcycles.com/uk/" rel="GB"><img src="/images/flags/uk.jpg">United Kingdom</a>
+<div class="footer-region-sep"></div>
+<div class="footer-region">Pacific</div>
+<a class="footer-country-link" href="http://www.zeromotorcycles.com/au/" rel="AU"><img src="/images/flags/australia.jpg">Australia</a>
+		</div>
+		<a class="close-link" href="#"></a></div>
+	</div><a class="bottom-link" href="http://www.zeromotorcycles.com/contact.php">Contact</a>:
+888-RUN-ZERO
+&nbsp;&nbsp;|&nbsp;&nbsp;<a class="bottom-link" href="http://www.zeromotorcycles.com/company/employment.php">Employment</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;<a class="bottom-link" href="http://www.zeromotorcycles.com/legal/privacy-policy.php">Privacy Policy - Terms of Service</a>
+&nbsp;&nbsp;|&nbsp;&nbsp; ©2013 Copyright Zero Motorcycles, Inc. All rights reserved	</div>
+</div>
+</div>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3489419-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+
+
+
 </body></html>
