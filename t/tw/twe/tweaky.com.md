@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tweaky.com privacy policy that was archived on 2013-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130217185859id_/https%3A//www.tweaky.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tweaky.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817074728id_/https%3A//www.tweaky.com/privacy) for the most accurate reproduction.*
 
 # The #1 marketplace for website, wordpress customization | Tweaky
 
