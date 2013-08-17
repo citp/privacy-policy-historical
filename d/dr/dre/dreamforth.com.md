@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dreamforth.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029151359id_/http%3A//www.dreamforth.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamforth.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817104736id_/http%3A//www.dreamforth.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Dream Interpretation | Meaning of Dreams | Free Dream Dictionary
+# Privacy Policy - Dream Interpretation - Find Dream Meanings at Dreamforth.com
 
 We can be reached via e-mail at [privacy@dreamforth.com](mailto:privacy@dreamforth.com)
 
