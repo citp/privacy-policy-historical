@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the onlinemlmsecrets.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605101212id_/http%3A//onlinemlmsecrets.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinemlmsecrets.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817140029id_/http%3A//onlinemlmsecrets.com/privacy.htm) for the most accurate reproduction.*
 
 # privacy policy
-
-[MLM Business](http://onlinemlmsecrets.com/mlm-business/)
 
 **Privacy Policy**
 
