@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desertops.co.uk privacy policy that was archived on 2013-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130209194134id_/http%3A//www.looki.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desertops.co.uk privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817055931id_/http%3A//www.looki.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
