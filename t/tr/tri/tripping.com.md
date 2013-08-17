@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tripping.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507112608id_/https%3A//www.tripping.com/about/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripping.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817190942id_/https%3A//www.tripping.com/about/legal/privacy) for the most accurate reproduction.*
 
 # Tripping Privacy Policy | Tripping.com
 
-Last Updated: 16 August 2011
+Last Updated: May 20, 2013
 
 At Tripping, we believe that you have the right to control all of the information and content that you share, post and submit on the site.
 
@@ -16,4 +16,4 @@ Third party vendors may use cookies to serve ads based on prior visits to this w
 
 In the event that you delete your Tripping account and have not shared your content with other members who still have it in their accounts, we will likewise delete all of your information and content.
 
-We promise to do our best to take good care of you, your information and everything you share on Tripping. For more information, please refer to the [Tripping Terms of Service](https://web.archive.org/about/legal/tos). 
+We promise to do our best to take good care of you, your information and everything you share on Tripping. For more information, please refer to Tripping's [ Terms of Service](https://web.archive.org/about/legal/tcs) and the [Community Terms of Use](https://web.archive.org/about/legal/tos). 
