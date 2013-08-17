@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timeatlas.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611024353id_/http%3A//www.timeatlas.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeatlas.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818003713id_/http%3A//www.timeatlas.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
