@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onetime.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530061455id_/http%3A//www.onetime.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onetime.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817233953id_/http%3A//www.onetime.com/privacy_policy.php) for the most accurate reproduction.*
 
 # OneTime Privacy Policy - OneTime.com
 
