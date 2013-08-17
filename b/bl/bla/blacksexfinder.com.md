@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blacksexfinder.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116172350id_/http%3A//www.blacksexfinder.com/page_static/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blacksexfinder.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817235138id_/http%3A//www.blacksexfinder.com/page_static/privacy.html) for the most accurate reproduction.*
 
-# Your Privacy at BlackSexfinder.com
+# Your Privacy at Black Sex finder
 
   * **Information Obtained**
 
