@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tokyowebdesigns.com privacy policy that was archived on 2013-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130119120544id_/http%3A//www.tokyowebdesigns.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tokyowebdesigns.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817191555id_/http%3A//www.tokyowebdesigns.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Tokyo Web Designs
 
@@ -42,4 +42,4 @@ The Site may contain links to other sites. With the exception of other sites ope
 
 ### Further queries
 
-If we become aware of any ongoing concerns or problems with the Site, we will take the issue seriously and work to address your concerns. If you have any queries about this Privacy Policy, or have a problem or complaint, then you should contact us via our [contact page](http://www.tokyowebdesigns.com/privacy#).
+If we become aware of any ongoing concerns or problems with the Site, we will take the issue seriously and work to address your concerns. If you have any queries about this Privacy Policy, or have a problem or complaint, then you should contact us via our contact page.
