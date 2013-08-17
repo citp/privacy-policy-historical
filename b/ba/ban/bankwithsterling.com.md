@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bankwithsterling.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117043954id_/https%3A//www.bankwithsterling.com/PrivacyandSecurity/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankwithsterling.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818005034id_/https%3A//www.bankwithsterling.com/PrivacyandSecurity/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Sterling Bank | Privacy and Security | Privacy Policy
 
 ## Privacy Policy
 
-[Click here](https://web.archive.org/docs/PrivacyPolicy.pdf) for a print friendly version (PDF) for your records
+[Click here](https://web.archive.org/docs/PrivacyPolicy.pdf) for a print-friendly version (PDF) for your records.
 
 ### FACTS
 
@@ -74,14 +74,14 @@ No
 
 |  We don't share  
 **For non-affiliates to market to you** | No | We don't share  
-**Questions?** | Call toll-free 1-800-650-7141 or visit [**www.bankwithsterling.com**](https://www.bankwithsterling.com/)  
+**Questions?** | Call toll-free 800-650-7141 or visit [**www.bankwithsterling.com**](https://www.bankwithsterling.com/)  
   
 Who we are  
 ---  
   
 ### Who is providing this notice?
 
-| Sterling Savings Bank and its affiliates including Intervest-Mortgage Investment Company and Mason-McDuffie Financial Corporation. Sterling Savings Bank operates under the following registered trade names: Sterling Bank and Sonoma Bank. Sterling Savings Bank operates as Sonoma Bank only in the State of California..  
+| Sterling Savings Bank and its affiliates. For more information, see Sterling Savings Bank and its Affiliates below.  
   
 What we do  
 ---  
@@ -90,7 +90,7 @@ What we do
 
 | 
 
-To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings. We restrict access to customer information to employees requiring that information to provide products or services to you. We educate our employees about the importance of confidentiality and customer privacy.  
+To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings. We restrict access to customer information to employees requiring that information to provide products or services to you. We educate our employees about the importance of confidentiality and customer privacy, and data security.  
   
 ### How does Sterling Savings Bank collect my personal information?
 
@@ -111,28 +111,19 @@ Federal law gives you the right to limit only
 \- affiliates from using your information to market to you  
 \- sharing for non-affiliates to market to you  
 State laws and individual companies may give you additional rights to limit sharing.  
-**See below for more on your rights under state law.**  
+_**See below for more on your rights under state law.**_  
   
 Definitions  
 ---  
   
 ### Affiliates
 
-| Companies related by common ownership or control. They can be financial and nonfinancial companies.  
-\- _Sterling Savings Bank does not share with our affiliates._  
+| Companies related by common ownership or control. They can be financial and nonfinancial companies.  _Sterling Savings Bank does not share with our affiliates._  
   
 ### Non-affiliates
 
-| Companies not related by common ownership or control. They can be financial and non-financial companies.  
-  _\- Sterling Savings Bank does not share with non-affiliates so they can market to you._  
+| Companies not related by common ownership or control. They can be financial and non-financial companies.  _Sterling Savings Bank does not share with non-affiliates so they can market to you._  
   
 ### Joint marketing
 
-| A formal agreement between non-affiliated financial companies that together market financial products or services to you.  
-_  \- Our joint marketing partners include issuer of Sterling's credit card and credit life insurance provider._  
-  
-### Other Important Information
-
-For California residents only: California law places additional limits on sharing information about California residents. In accordance with California law, we will not share information we collect about California residents with outside companies, except as permitted by law, such as with the consent of the customer or to service the customer's accounts.
-
-For Sterling Savings Bank insurance product customers: Pursuant to certain state privacy laws, you may have the right to learn the substance of customer information collected about you and to learn whether the customer information has been disclosed to our affiliates and nonaffiliated third parties within the last two years. If you would like this information, please send your request in writing to: Sterling Savings Bank , 111 N. Wall St., Spokane, WA 99201.
+| A formal agreement between non-affiliated financial companies that together market financial products or services to you.  _Our joint marketing partners include issuer of Sterling's credit card and credit life insurance provider._
