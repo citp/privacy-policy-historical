@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the askia.com privacy policy that was archived on 2013-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130404022450id_/http%3A//www.askia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askia.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817142535id_/http%3A//www.askia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Askia - software for surveys
 
@@ -37,12 +37,12 @@ You can correct factual errors in your personally identifiable information by se
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
 **How To Contact Us**  
-Should you have other questions or concerns about these privacy policies, please call us at +33 1 44 836 832 or send us an email at [contact@askia.com](https://web.archive.org/web/20130404022450id_/http%3A//www.askia.com/contact@askia.com).
+Should you have other questions or concerns about these privacy policies, please call us at +33 1 44 836 832 or send us an email at [contact@askia.com](https://web.archive.org/web/20130817142535id_/http%3A//www.askia.com/contact@askia.com).
 
 ### Latest news
 
 [Subscribe](https://web.archive.org/news/feed)
 
-#### [Askia expands US operations](https://web.archive.org/news/askia-expands-usa)
+#### [Askia newsletter #3](https://web.archive.org/news/askia-newsletter-062013)
 
-We are delighted to announce the appointment of Robert 'Bert' Goyne as an Account Executive. Bert brings a wealth of market research experience having spent over 20 years in the industry, most notably in enterprise software sales at SPSS/IBM. 
+We’ve finished analysing the results of our User **Survey** and want to share them with you. We’re also going to be at the Insight **show** in a couple of weeks and we’ve got some people we’d like you to meet. And finally, we’ve been building new controls for askia **face** for iPad and Android so that you can show more engaging **screens** using Javascript and HTML. 
