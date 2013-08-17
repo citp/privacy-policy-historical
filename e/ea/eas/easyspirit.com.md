@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easyspirit.com privacy policy that was archived on 2013-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130403215220id_/http%3A//www.easyspirit.com/Privacy/PRIVACY%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyspirit.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817180309id_/http%3A//www.easyspirit.com/Privacy/PRIVACY%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Easy Spirit: Comfortable Shoes & Handbags for Women
 
