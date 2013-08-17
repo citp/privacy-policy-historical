@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lindtusa.com privacy policy that was archived on 2013-05-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130529223522id_/http%3A//www.lindtusa.com/info-exec/display/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lindtusa.com privacy policy that was archived on 2013-08-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130817165934id_/http%3A//www.lindtusa.com/info-exec/display/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<base href="http://www.lindtusa.com/">
@@ -48,11 +48,11 @@
 	}
 	
 			document.write("<img src=http://tracking.searchmarketing.com/welcome.asp?SMCID=52000694&x="+escape(document.referrer)+" width=1 height=1>");
-		
-	//-->
+		//-->
 	</script></head><body><img src="http://tracking.searchmarketing.com/welcome.asp?SMCID=52000694&amp;x=" width="1" height="1">
 	
-		<meta name="robots" content="ALL">
+		
+	<meta name="robots" content="ALL">
 	<meta name="distribution" content="Global">
 	<meta name="rating" content="Family">
 	<meta name="language" content="English">
@@ -92,6 +92,57 @@
 
         <script type="text/javascript" src="http://www.lindtusa.com/javascript/jquery-ui-1.8.2.custom.min.js"></script>
 <!-- Custom Global Header Content - End -->
+	<script language="JavaScript">
+	<!--
+	function getSummary(productid)
+	{
+		document.getElementById('product_id').value = productid;
+		var_form_data = $("#product_form").serialize();
+		$('#productListing').hide();
+		$('#lb-overlay').show();
+		$('#loading').show();
+		$('#loading').center();
+		$('#lb-overlay').after($('#loading'));
+
+		$.ajax({
+			async: "false",
+			type: "POST",
+			url: 'ajax_targets/add_to_bag.php',
+			data: var_form_data,
+			success: function(data) {
+				var json_obj = jQuery.parseJSON(data);
+				if(json_obj.success == "1") {
+					$('#productListing').show();
+					$.getJSON("ajax_targets/update_mini_cart.php","",function(json){
+						$('#cartCount').html(json.html);
+					});
+					launchLB($('#add_to_bag_popup').val() + "/qty/1/product_id/"+productid);
+				} else {
+					$('#productListing').show();
+					$('#loading').hide();
+					alert("Unable to add product : " + json_obj.error);
+					$('#product_add_to_bag').attr("href", "#");
+				}
+
+				return false;
+			},
+			complete: function() {
+				setTimeout('$("#loading").hide()', 1500);
+				setTimeout('$("#lb-content").center()',1700);
+			}
+		});
+	}
+
+	jQuery.fn.center = function () {
+    	this.css("position","absolute");
+    	this.css("top", Math.max(0, (($(window).height() - this.outerHeight()) / 2) +
+                                                $(window).scrollTop()) + "px");
+    	this.css("left", Math.max(0, (($(window).width() - this.outerWidth()) / 2) +
+                                                $(window).scrollLeft()) + "px");
+    	return this;
+	}
+	//-->
+	</script>
 <!-- Custom Additional Header Content - Start -->
 <!-- Content - Custom Header 1-->
 <!-- careers.html, donations-sponsorships.html, our-company.html, return-policy.html, shipping policy, and terms-privacy.html -->
@@ -129,15 +180,17 @@
 		<div id="headerUtilities">
 			
 			<!-- // start global promo -->
-			
-			
+
+
 			<div id="global-promo" style="position: absolute; top: -58px; left: 12px;  width: 437px;" height:="" 53px;="">
-					<a href="info-exec/display/shipping">
-					<img src="/img/home/Headerpromo_Free-Shipping-over-75_v1.png" width="437" height="53" alt="Free Shipping on Orders over $75" title="Free Shipping on Orders over $75">
+					<a href="http://www.lindtusa.com/category-exec/category_id/18/view_all/1">
+					<img src="/img/home/Headerpromo_LindorFest-weekend-sale.png" width="437" height="53" alt="15% Off LINDOR - use code LINDOR15 at checkout">
 				</a>
 			
 			</div>
-						
+
+
+
 			<!-- // end global promo -->
 			
 			<ul>
@@ -169,8 +222,12 @@
 
 <li class="subheading">Seasonal Gifts:</li>
 
+
+<!--
+<li><a href="category-exec/category_id/60/nm/Christmas_In_July"><span style="color:#ff0000">Christmas In July</span></a></li>	
+-->
+
 <li><a href="category-exec/category_id/50/nm/Summer_Chocolate_Gifts">Summer Chocolate Gifts</a></li>	
-		
 
 <li class="subheading">Featured Indulgences:</li>			
 
@@ -195,9 +252,11 @@
 <li><a href="category-exec/category_id/18/view_all/1">LINDOR Truffles</a></li>			
 <li><a href="category-exec/category_id/19/nm/Excellence/refine/1/sort_by/best_sellers">EXCELLENCE</a></li>
 <li><a href="category-exec/category_id/37/nm/HELLO/refine/1/sort_by/best_sellers">Lindt HELLO</a></li>			
-<li><a href="category-exec/category_id/21/nm/Bars/refine/1/sort_by/best_sellers">Bars</a></li>				
+<!-- 6/24/13 AMM: replaced sort by Best Sellers with non-sorted, so it follows 'position' order in Coresense -->
+<!-- <li><a href="category-exec/category_id/21/nm/Bars/refine/1/sort_by/best_sellers">Bars</a></li> -->
+<li><a href="category-exec/category_id/21/nm/Bars">Bars</a></li>
 <li><a href="category-exec/category_id/20/view_all/1/refine/1/sort_by/best_sellers">Boxed Chocolates</a></li>				
-<li><a href="category-exec/category_id/13/nm/European_Specialties/refine/1/sort_by/best_sellers">European Specialties</a></li>
+<li><a href="category-exec/category_id/13/nm/European_Specialties">European Specialties</a></li>
 
 
 <li class="subheading">By Price:</li>			
@@ -255,16 +314,17 @@
 <li><a href="info-exec/display/return_policy">Return Policy</a></li>					
 <li><a href="info-exec/display/donations">Donations &amp; Sponsorship</a></li>				
 <li><a href="info-exec/display/customer_service">Contact Us</a></li>				
+
 </ul>			
 </li>
 			
 <li class="buttonlocator">
 <a href="locate-exec/" class="mainbutton">Store Locator</a></li>		
-</ul>
-		
+</ul>		
 	</div><!-- #header -->
 	
-</div><!-- #headercontainer -->		<div id="content" class="clearfix">
+</div><!-- #headercontainer -->
+		<div id="content" class="clearfix">
 			<div id="contentWrap" class="homepagecontentwrap">
 <table width="100%" style="height: 200px;"><tbody><tr><td align="left">				<div>
 															
@@ -375,7 +435,7 @@ Service Providers and Advertisers</h3>
 			<li><a href="info-exec/display/privacy_policy">Privacy Policy</a> </li>
 						
 <li><a href="info-exec/display/terms_conditions_privacy_polic">Terms &amp; Conditions</a></li>
-						<li><a href="info-exec/display/careers">Careers At Lindt</a></li>
+						<li><a href="info-exec/display/careersatlindt">Careers At Lindt</a></li>
 					
 </ul>
 				</dd>
@@ -407,6 +467,7 @@ Service Providers and Advertisers</h3>
 					<ul>
 						<li><a href="info-exec/display/customer_service">Customer Service</a></li>
 						<li><a href="customer_account-exec/display/account_info">Track your Order</a></li>
+						<li><a href="https://www.lindtusa.com/gc_balance_page-exec/">Check Gift Card Balance</a></li>
 						<li><a href="info-exec/display/shipping">Shipping Information</a></li>
 						<li><a href="info-exec/display/return_policy">Return Policy</a></li>
 					</ul>
