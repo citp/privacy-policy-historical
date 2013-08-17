@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brightermonday.com privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612122645id_/http%3A//www.brightermonday.co.ke/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightermonday.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817160951id_/http%3A//www.brightermonday.co.ke/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BrighterMonday #1 job site in East Africa
 
