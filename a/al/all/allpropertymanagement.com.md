@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allpropertymanagement.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605213012id_/http%3A//www.allpropertymanagement.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allpropertymanagement.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817232640id_/http%3A//www.allpropertymanagement.com/terms) for the most accurate reproduction.*
 
 # AllPropertyManagement.com - Rental and Association Management Companies
 
