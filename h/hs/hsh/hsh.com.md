@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hsh.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606061137id_/http%3A//www.hsh.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsh.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817185749id_/http%3A//www.hsh.com/privacy.html) for the most accurate reproduction.*
 
 # HSH Associates: Disclaimers and our Privacy Policy
 
