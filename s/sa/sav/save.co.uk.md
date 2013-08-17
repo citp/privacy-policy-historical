@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the save.co.uk privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116071544id_/http%3A//www.save.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the save.co.uk privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817084843id_/http%3A//www.save.co.uk/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Save.co.uk
 
