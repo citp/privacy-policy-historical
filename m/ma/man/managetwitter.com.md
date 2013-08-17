@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the managetwitter.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603031002id_/http%3A//manageflitter.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the managetwitter.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817080249id_/http%3A//manageflitter.com/content/privacy) for the most accurate reproduction.*
 
 # Privacy - ManageFlitter
 
