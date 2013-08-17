@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hosting365.ie privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508000527id_/http%3A//www.register365.com/company-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hosting365.ie privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818002400id_/http%3A//www.register365.com/company-privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Register365
 
