@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optimalprint.co.uk privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519142422id_/http%3A//www.optimalprint.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optimalprint.co.uk privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818092227id_/http%3A//www.optimalprint.co.uk/privacy) for the most accurate reproduction.*
 
 # Cookies & Privacy
 
