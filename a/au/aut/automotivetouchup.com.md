@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the automotivetouchup.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512234340id_/http%3A//www.automotivetouchup.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automotivetouchup.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818094844id_/http%3A//www.automotivetouchup.com/privacy_policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy Statement | Touch Up Paint | AutomotiveTouchup | 888-710-5192
+# Privacy Policy Statement | Touch Up Paint | AutomotiveTouchup
 
 Automotivetouchup.com belongs to Microfinish LLC. 
 
