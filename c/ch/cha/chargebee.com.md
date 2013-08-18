@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chargebee.com privacy policy that was archived on 2013-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130122153635id_/http%3A//www.chargebee.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chargebee.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818173321id_/http%3A//www.chargebee.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - ChargeBee
 
@@ -60,7 +60,7 @@ Please also visit our Terms and Conditions section establishing the use, disclai
 
 ## Your Consent
 
-By using our site, you consent to our online [privacy policy](https://web.archive.org/web/20130122153635id_/http%3A//www.chargebee.com/privacy.html). 
+By using our site, you consent to our online [privacy policy](https://web.archive.org/web/20130818173321id_/http%3A//www.chargebee.com/privacy.html). 
 
 ## Changes to our Privacy Policy
 
