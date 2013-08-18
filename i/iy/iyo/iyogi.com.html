@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the iyogi.com privacy policy that was archived on 2013-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130610182651id_/http%3A//www.iyogi.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the iyogi.com privacy policy that was archived on 2013-08-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130818185956id_/http%3A//www.iyogi.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head>
 <script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
@@ -24,7 +24,10 @@ $(document).ready(function(){
 <meta name="description" content="iYogi privacy policy explains how the company collects, uses, &amp; discloses information it receives while providing support services. Dial 1- 800-237-3901 to get iYogi tech support.
 ">
 <meta name="keywords" content="privacy, privacy policy, company policy">
-
+<meta name="google-site-verification" content="PAhjzJI5luoJrUFQ4HRj1iLhr608PZ7x0Gk8NenhMFI">
+<meta name="google-site-verification" content="BdcmwryKdPLsYSeZ0AS60Ph6wxbWEn8KjGABsJx1Duc">
+<meta name="google-site-verification" content="CCbGdlz-4_Ek4rTjQ9IjOm-BXQ1jBDz063gAq488-m0"> 
+<meta name="google-site-verification" content="YQ2inOkjgS9wugt8TP9Cle2YYJbXCmTQSnmqiRYGl44">
 <meta name="msvalidate.01" content="A881FCF9C0EC2CEC04980D86E45C41DE">
 <meta name="wot-verification" content="745bf46bf2bd5b71abb4">
 <link rel="shortcut icon" type="image/x-icon" href="http://www.iyogi.net/common_content/favicon/favicon.ico">
@@ -34,6 +37,7 @@ $(document).ready(function(){
 <link rel="stylesheet" type="text/css" media="all" href="http://www.iyogi.com/wp-content/themes/iyogicom/style.css">
 <link rel="pingback" href="http://www.iyogi.com/xmlrpc.php">
 <script type="text/javascript" src="http://www.iyogi.net/common_content/tracking/pagetracking.js"></script>
+<script type="text/javascript" src="http://www.iyogi.com/wp-content/themes/iyogicom/js/lightboxscript.js"></script>
 
 <!--[if lt IE 9]>
  <script src="/js/html5.js" type="text/javascript"></script>
@@ -68,34 +72,23 @@ function eraseCookie(name) {
 // For GEO 
 function showHint()
 {
-
-if (window.XMLHttpRequest)
-  {// code for IE7+, Firefox, Chrome, Opera, Safari
-  xmlhttp=new XMLHttpRequest();
-  }
-else
-  {// code for IE6, IE5
-  xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
-  }
-xmlhttp.onreadystatechange=function()
-  {
-  if (xmlhttp.readyState==4 && xmlhttp.status==200)
-    {
-		var text = xmlhttp.responseText;
+		dataString = "";
+		$(document).ready(function(){  		
+		$.get("http://www.iyogi.com/wp-content/themes/iyogicom/gethint.php",function(data,status){
+		var text = data;
 		if(text != 'http://www.iyogi.com') {
-			document.location = text;
-		}
-    //document.getElementById("txtHint").innerHTML=xmlhttp.responseText;
-    }
-  }
-xmlhttp.open("GET","http://www.iyogi.com/wp-content/themes/iyogicom/gethint.php",true);
-xmlhttp.send();
+				document.location = text;
+			}
+		});
+	});
 }
+
 var URL = document.URL;
 if(URL == 'http://www.iyogi.com/?ref=USA') {
 		createCookie('USA','USA','1');
 }
 var reff = readCookie('USA');
+
 if(reff == null) {
 showHint();
 }
@@ -107,22 +100,27 @@ document.location.href = CJ;
 }
 </script>
 <!-- Function to apply mobile the according to the screen resolution-->
-<!--<script type="text/javascript">
-function formobile() {
+<script type="text/javascript">
+/*function formobile() {
 	dataString = "";
-	if (screen.width <= 699) {
+	//if (screen.width <= 699) {
 		$(document).ready(function(){  		
-			$.get("/trackMobile.php",function(data,status){
-			if (data !='computer') {
-				document.location='http://m.iyogi.com';
-			}
+			$.get("http://www.iyogi.com/wp-content/themes/iyogicom/gethint.php",function(data,status){
+			var text = data;
+			alert(text);
+			return false;
+				if(text != 'http://www.iyogi.com') {
+					document.location = text;
+				}
+			
+			
 			});
 		});
-	}
+	//}
 }
 
-formobile();
-</script>-->
+formobile();*/
+</script>
 
 <link rel="alternate" type="application/rss+xml" title="iYogi.com » Privacy Policy Comments Feed" href="http://www.iyogi.com/privacy.html/feed">
 <link rel="stylesheet" id="wp-customer-reviews-css" href="http://www.iyogi.com/wp-content/plugins/wp-customer-reviews/wp-customer-reviews.css?ver=2.4.5" type="text/css" media="all">
@@ -182,26 +180,33 @@ $(document).ready(function() {
   js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
-<!--<span id="pk_pop_up" style="display:none;">
 
+<span id="pk_pop_up" style="display:none;">
 <div class="lightboxpanel">
 <div class="popimg">
-<div class="lightboxcosed"><img src="/images/light_box_clsoe.gif" alt="closed"  border="0"/></div>
+<div class="lightboxcosed"><img src="http://www.iyogi.com/wp-content/themes/iyogicom/images/light_box_clsoe.gif" alt="closed" border="0"></div>
+ <a href="https://services.iyogi.net/register/subscription/" target="_blank" onclick="_gaq.push(['_trackEvent', 'Unlimited Tech Support', 'Unlimited Tech Support', 'iyogi.com']);"><img class="poppic" src="http://www.techgenie.com/imagemanager/plog-content/images/windows-xp/general/free-pc-diagnostics.jpg" alt="" border="0"></a>
 </div>
-</div>
-<div class="lightboxpanel">
-<div class="popimg">
-<div class="lightboxcosed"><img src="/images/light_box_clsoe.gif" alt="closed"  border="0"/></div>
- <a href=" http://download.cnet.com/iYogi-PC-Optimizer/3000-18512_4-75758769.html" target="_blank" class="lightboxcosedhref" onClick="_gaq.push(['_trackEvent', 'PC Optimizer', 'PC Optimizer', '']);"><img class="poppic" src="http://techgenie.com/imagemanager/plog-content/images/windows-xp/ads/pc-optimizer-banner.png"  alt="" border="0" /></a></div>
 </div>
 </span>
--->
-<script language="JavaScript">
 
+<script language="JavaScript">
 var visit=readCookie("pkcookie");
 if (visit==null){
-document.getElementById("pk_pop_up").style.display='';
-createCookie('pkcookie','1','1');
+$(document).ready(function(){  		
+		$.get("http://www.iyogi.com/wp-content/themes/iyogicom/getcountry.php",function(data,status){
+		var text = data;
+		if(text=="US")
+			{
+				document.getElementById("pk_pop_up").style.display='';
+				createCookie('pkcookie','1','1');
+			}
+		else
+			{
+				document.getElementById("pk_pop_up").style.display='none';
+			}	
+		});
+	});
 
 }
 
@@ -222,7 +227,6 @@ createCookie('pkcookie','1','1');
 	<li id="menu-item-131" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-131"><a href="http://www.iyogi.com/services/speed-up-optimization/">Speed-up &amp; Optimization</a></li>
 	<li id="menu-item-134" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134"><a href="http://www.iyogi.com/services/diagnosis-repair/">Diagnosis &amp; Repair</a></li>
 	<li id="menu-item-133" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-133"><a href="http://www.iyogi.com/services/setup-installation/">Setup &amp; installation</a></li>
-	<li id="menu-item-1894" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1894"><a href="http://www.iyogi.com/apple-support">Support for Apple Product</a></li>
 </ul>
 </li>
 <li id="menu-item-88" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-88"><a href="http://www.iyogi.com/local-us/">Onsite Support</a>
@@ -307,7 +311,7 @@ jQuery(window).scroll(function(){
              </div>
                <span class="l_spacing"><img src="http://www.iyogi.com/wp-content/themes/iyogicom/images/2million.png" alt="two million"></span> <span class="left_spacing">Call for Great			   				<span class="h_text h_text1">Tech Support</span>
 								<span class="tfn_text tfn_text_smaller">1- 800 237 3901</span></span>
-            
+            	
             </div>
             
         </div>
@@ -385,20 +389,28 @@ jQuery(window).scroll(function(){
             </div>
             
         </div>
-        <!-- banner end -->
-        <!-- featured start -->
+         
+
+
+<!-- featured start -->
         <div class="featuredBox">
         
         	<div class="centerCntr">
             	
-                <img src="http://www.iyogi.com/wp-content/themes/iyogicom/images/featured.jpg" alt="featured">
+                <img src="http://www.iyogi.com/wp-content/themes/iyogicom/images/featured.jpg" alt="featured" usemap="#Map">
+<map name="Map" id="Map"><area shape="rect" coords="0,0,72,25" href="http://money.cnn.com/galleries/2012/news/international/1204/gallery.asia-hottest-businesspeople.fortune/19.html" target="_blank">
+<area shape="rect" coords="87,1,267,27" href="http://online.wsj.com/article/PR-CO-20130502-910658.html" target="_blank">
+<area shape="rect" coords="282,0,467,26" href="http://www.ft.com/cms/s/0/c2c2c658-0acf-11df-b35f-00144feabdc0.html#axzz2VEMnfd6g" target="_blank">
+<area shape="rect" coords="480,0,588,25" href="http://www.inc.com/magazine/20100501/3-remote-tech-support-services.html" target="_blank">
+<area shape="rect" coords="599,0,710,28" href="http://www.fastcompany.com/1647021/iyogi-supportcom-geek-squad-battle-tech-support-title" target="_blank">
+<area shape="rect" coords="737,0,918,25" href="http://www.washingtonpost.com/wp-dyn/content/article/2010/01/06/AR2010010601441.html" target="_blank">
+<area shape="rect" coords="931,-1,988,25" href="http://content.usatoday.com/communities/technologylive/post/2010/01/iyogi-gets-15-million-to-expand-pc-help/1#.Ud1qwqzUhTJ" target="_blank">
+</map>
             
             </div>
             
-        </div>
-        <!-- featured end -->          
-
-          
+        </div>       
+	<!-- featured EnD -->	   
     </header>
     <!-- header end -->    
 
@@ -574,40 +586,40 @@ error tracking files.</li>
 
  <div class="homeBox inner"><div class="heading3"><a href="http://www.iyogi.com/category/editors-pick">Editor's Pick</a></div><ul>
 		<li class="cat-post-item">
-			<!--<a class="post-title" href="http://www.iyogi.com/editors-pick/3-common-computer-problems-you-can-fix.html" rel="bookmark" title="Permanent link to 3 common computer problems you can fix">3 common computer problems you can fix</a>-->
-			<a class="post-title" href="http://www.iyogi.com/editors-pick/3-common-computer-problems-you-can-fix.html" rel="bookmark" title="3 common computer problems you can fix">3 common computer problems you can fix</a>
+			<!--<a class="post-title" href="http://www.iyogi.com/editors-pick/useful-pragmatic-innovative-the-opera15-is-here-to-stay.html" rel="bookmark" title="Permanent link to Useful, pragmatic &amp; innovative – The Opera15 is here to stay">Useful, pragmatic &#038; innovative – The Opera15 is here to stay</a>-->
+			<a class="post-title" href="http://www.iyogi.com/editors-pick/useful-pragmatic-innovative-the-opera15-is-here-to-stay.html" rel="bookmark" title="Useful, pragmatic &amp; innovative – The Opera15 is here to stay">Useful, pragmatic &amp; innovative – The Opera15 is here to stay</a>
 			
 			
 						
 						
 					</li>
 			<li class="cat-post-item">
-			<!--<a class="post-title" href="http://www.iyogi.com/editors-pick/you-leave-early-this-friday-10-time-saving-computer-tips-to-help-you.html" rel="bookmark" title="Permanent link to You leave early this Friday! 10 Time saving computer tips to help you">You leave early this Friday! 10 Time saving computer tips to help you</a>-->
-			<a class="post-title" href="http://www.iyogi.com/editors-pick/you-leave-early-this-friday-10-time-saving-computer-tips-to-help-you.html" rel="bookmark" title="You leave early this Friday! 10 Time saving computer tips to help you">You leave early this Friday! 10 Time saving computer tips to help you</a>
+			<!--<a class="post-title" href="http://www.iyogi.com/editors-pick/lock-down-your-smartphone.html" rel="bookmark" title="Permanent link to Lock down your Smartphone before your kids grab it!">Lock down your Smartphone before your kids grab it!</a>-->
+			<a class="post-title" href="http://www.iyogi.com/editors-pick/lock-down-your-smartphone.html" rel="bookmark" title="Lock down your Smartphone before your kids grab it!">Lock down your Smartphone before your kids grab it!</a>
 			
 			
 						
 						
 					</li>
 			<li class="cat-post-item">
-			<!--<a class="post-title" href="http://www.iyogi.com/editors-pick/5-business-laptops-to-power-pack-your-production.html" rel="bookmark" title="Permanent link to 5 Business laptops to power pack your production">5 Business laptops to power pack your production</a>-->
-			<a class="post-title" href="http://www.iyogi.com/editors-pick/5-business-laptops-to-power-pack-your-production.html" rel="bookmark" title="5 Business laptops to power pack your production">5 Business laptops to power pack your production</a>
+			<!--<a class="post-title" href="http://www.iyogi.com/editors-pick/5-websites-that-help-you-relax.html" rel="bookmark" title="Permanent link to 5 Websites that help you relax….even between your work!">5 Websites that help you relax….even between your work!</a>-->
+			<a class="post-title" href="http://www.iyogi.com/editors-pick/5-websites-that-help-you-relax.html" rel="bookmark" title="5 Websites that help you relax….even between your work!">5 Websites that help you relax….even between your work!</a>
 			
 			
 						
 						
 					</li>
 			<li class="cat-post-item">
-			<!--<a class="post-title" href="http://www.iyogi.com/editors-pick/top-5-tech-graduation-gifts.html" rel="bookmark" title="Permanent link to Top 5 Tech Graduation Gifts">Top 5 Tech Graduation Gifts</a>-->
-			<a class="post-title" href="http://www.iyogi.com/editors-pick/top-5-tech-graduation-gifts.html" rel="bookmark" title="Top 5 Tech Graduation Gifts">Top 5 Tech Graduation Gifts</a>
+			<!--<a class="post-title" href="http://www.iyogi.com/editors-pick/7-new-blackberry-q10-features.html" rel="bookmark" title="Permanent link to 7 New BlackBerry Q10 Features that Make You Go Wow!">7 New BlackBerry Q10 Features that Make You Go Wow!</a>-->
+			<a class="post-title" href="http://www.iyogi.com/editors-pick/7-new-blackberry-q10-features.html" rel="bookmark" title="7 New BlackBerry Q10 Features that Make You Go Wow!">7 New BlackBerry Q10 Features that Make You Go Wow!</a>
 			
 			
 						
 						
 					</li>
 			<li class="cat-post-item">
-			<!--<a class="post-title" href="http://www.iyogi.com/editors-pick/the-swift-move-from-iphone-to-android-without-losing-your-data.html" rel="bookmark" title="Permanent link to The swift move from iPhone to Android without losing your data">The swift move from iPhone to Android without losing your data</a>-->
-			<a class="post-title" href="http://www.iyogi.com/editors-pick/the-swift-move-from-iphone-to-android-without-losing-your-data.html" rel="bookmark" title="The swift move from iPhone to Android without losing your data">The swift move from iPhone to Android without losing your data</a>
+			<!--<a class="post-title" href="http://www.iyogi.com/editors-pick/3-android-first-aid-apps.html" rel="bookmark" title="Permanent link to 3 Awesome Android First Aid Apps—Putting Help in your Hands">3 Awesome Android First Aid Apps—Putting Help in your Hands</a>-->
+			<a class="post-title" href="http://www.iyogi.com/editors-pick/3-android-first-aid-apps.html" rel="bookmark" title="3 Awesome Android First Aid Apps—Putting Help in your Hands">3 Awesome Android First Aid Apps—Putting Help in your Hands</a>
 			
 			
 						
@@ -696,11 +708,11 @@ error tracking files.</li>
                   <div class="flexcroll"><div class="title">Discover iYogi</div><div class="menu-discover-iyogi-container"><ul id="menu-discover-iyogi" class="menu"><li id="menu-item-271" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-271"><a href="http://www.iyogi.com/dell-support.html">Dell® Tech Support</a></li>
 <li id="menu-item-273" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-273"><a href="http://www.iyogi.com/hp-support.html">HP Tech Support</a></li>
 <li id="menu-item-274" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-274"><a href="http://www.iyogi.com/microsoft-support.html">Support for Microsoft</a></li>
-<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="http://www.iyogi.com/support-for-apple.html">Tech Support for Apple</a></li>
+<li id="menu-item-3330" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3330"><a href="http://www.iyogi.com/apple-support">Support for Apple</a></li>
 <li id="menu-item-277" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-277"><a href="http://www.iyogi.com/virus-removal-support.html">Virus Removal Support</a></li>
 <li id="menu-item-272" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-272"><a href="http://www.iyogi.com/digital-home/">Digital Home Plan</a></li>
 <li id="menu-item-745" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-745"><a href="http://search.iyogi.com">iYogi Search</a></li>
-<li id="menu-item-2332" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2332"><a href="http://www.iyogi.com/category/skype">Skype Support</a></li>
+<li id="menu-item-3332" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3332"><a href="http://www.iyogi.com/skype">Skype Support</a></li>
 </ul></div></div>                </div>
               </div>
               <div class="box">
@@ -712,7 +724,6 @@ error tracking files.</li>
 <li id="menu-item-305" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-305"><a href="http://www.iyogi.com/disclaimer.html">Disclaimer</a></li>
 <li id="menu-item-307" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-307"><a href="http://www.iyogi.com/terms.html">Terms of Use</a></li>
 <li id="menu-item-1637" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1637"><a href="#">Offices :</a></li>
-<li id="menu-item-1636" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1636"><a href="https://plus.google.com/106687112537106533684/about">iYogi Noida</a></li>
 <li id="menu-item-1638" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1638"><a href="https://plus.google.com/112507292832066956041/about">iYogi Gurgaon</a></li>
 </ul></div></div>                  
                 </div>
@@ -721,9 +732,9 @@ error tracking files.</li>
                 <div class="toggle_col">
                   <div class="flexcroll"><div class="title">More iYogi Site</div>
 	<ul class="xoxo blogroll">
-<li><a href="http://antivirus.iyogi.com" target="_blank">Antivirus Support</a></li>
 <li><a href="http://supportforasus.iyogi.com" target="_blank">ASUS® Support</a></li>
 <li><a href="http://browser.iyogi.com" target="_blank">Browser Support</a></li>
+<li><a href="http://security.iyogi.com" target="_blank">Computer Security</a></li>
 <li><a href="http://supportfordell.iyogi.com" target="_blank">Dell® Support</a></li>
 <li><a href="http://driver.iyogi.com/" target="_blank">Driver support</a></li>
 <li><a href="http://supportforhp.iyogi.com" target="_blank">HP Support</a></li>
@@ -778,14 +789,13 @@ error tracking files.</li>
           <p>FEATURED IN:</p>
           <div class="featured_scroll">
             <div id="mycrawler2">
-              <img src="http://www.iyogi.com/wp-content/themes/iyogicom/images/featured_logo_01.gif" alt="">
-              <img src="http://www.iyogi.com/wp-content/themes/iyogicom/images/featured_logo_02.gif" alt="">
-              <img src="http://www.iyogi.com/wp-content/themes/iyogicom/images/featured_logo_03.gif" alt="">
-              <img src="http://www.iyogi.com/wp-content/themes/iyogicom/images/featured_logo_04.gif" alt="">
-              <img src="http://www.iyogi.com/wp-content/themes/iyogicom/images/featured_logo_05.gif" alt="">
-              <img src="http://www.iyogi.com/wp-content/themes/iyogicom/images/featured_logo_06.gif" alt="">
-              <img src="http://www.iyogi.com/wp-content/themes/iyogicom/images/featured_logo_07.gif" alt="">
-              <img src="http://www.iyogi.com/wp-content/themes/iyogicom/images/featured_logo_09.gif" alt="">
+              <a href="http://money.cnn.com/galleries/2012/news/international/1204/gallery.asia-hottest-businesspeople.fortune/19.html" target="_blank"><img src="http://www.iyogi.com/wp-content/themes/iyogicom/images/featured_logo_01.gif" alt=""></a>
+              <a href="http://online.wsj.com/article/PR-CO-20130502-910658.html" target="_blank"><img src="http://www.iyogi.com/wp-content/themes/iyogicom/images/featured_logo_02.gif" alt=""></a>
+              <a href="http://www.washingtonpost.com/wp-dyn/content/article/2010/01/06/AR2010010601441.html" target="_blank"><img src="http://www.iyogi.com/wp-content/themes/iyogicom/images/featured_logo_04.gif" alt=""></a>
+              <a href="http://content.usatoday.com/communities/technologylive/post/2010/01/iyogi-gets-15-million-to-expand-pc-help/1#.T7NmxsVrNOU" target="_blank"><img src="http://www.iyogi.com/wp-content/themes/iyogicom/images/featured_logo_05.gif" alt=""></a>
+              <a href="http://www.ft.com/cms/s/0/c2c2c658-0acf-11df-b35f-00144feabdc0.html#axzz2VEMnfd6g" target="_blank"><img src="http://www.iyogi.com/wp-content/themes/iyogicom/images/featured_logo_06.gif" alt=""></a>
+              <a href="http://www.fastcompany.com/1647021/iyogi-supportcom-geek-squad-battle-tech-support-title" target="_blank"><img src="http://www.iyogi.com/wp-content/themes/iyogicom/images/featured_logo_07.gif" alt=""></a>
+              <a href="http://www.inc.com/magazine/20100501/3-remote-tech-support-services.html" target="_blank"><img src="http://www.iyogi.com/wp-content/themes/iyogicom/images/featured_logo_09.gif" alt=""></a>
             </div>
           </div>
         </div>
@@ -832,7 +842,7 @@ error tracking files.</li>
     <div class="btns"><a href="#" class="min_btn"><img src="http://www.iyogi.net/whoson_chat/images/min_btn.png" alt=""></a><a href="#" class="close_btn"><img src="http://www.iyogi.net/whoson_chat/images/close_btn.png" alt=""></a></div>
   </div>
   <div class="mid_sec">
-    <iframe src="https://services.iyogi.net/iyogichat/whosonchat.aspx?domain=www.seo.iyogi.com&amp;source=www.iyogi.com&amp;description=You are not supporting a device, you are supporting people" frameborder="0" width="100%" height="320" scrolling="no"></iframe>
+    <iframe src="https://services.iyogi.net/iyogichat/whosonchat.aspx?domain=www.seo.iyogi.com&amp;source=www.iyogi.com&amp;description=Privacy Policy" frameborder="0" width="100%" height="320" scrolling="no"></iframe>
   </div>
   <div class="bot_sec"></div>
 </div>
@@ -858,11 +868,15 @@ var slideDeck2URLPath = "http://www.iyogi.com/wp-content/plugins/slidedeck2-pro"
 	</object>
 </div>-->
 <!-- Panda Chat End Here -->
-<div id="overlayFBX">
+
+<!--<div id="overlayFBX">
   <div id="container">
     
-      <iframe id="ModalFrame" style="background-color:transparent;" allowtransparency="true" width="600" height="240" scrolling="no" frameborder="0"></iframe>
-         <div class="closeFrame"><a href="javascript:void(0)"><img src="http://www.iyogi.com/wp-content/themes/iyogicom/images/light_box_clsoe.gif" onclick="closeModal()"></a></div>     
+      <iframe id="ModalFrame"
+          style="background-color:transparent;"
+              allowTransparency="true" width="600" height="240"
+              scrolling="no" frameborder="0"></iframe>
+         <div class="closeFrame" ><a href="javascript:void(0)"><img src="/images/light_box_clsoe.gif" onClick="closeModal()"></a></div>     
     
   </div>
 </div>
@@ -878,7 +892,7 @@ var slideDeck2URLPath = "http://www.iyogi.com/wp-content/plugins/slidedeck2-pro"
         height:100%;
         text-align:center;
         z-index: 1000;
-      background-image: url(http://www.iyogi.com/wp-content/themes/iyogicom/images/transparent_blackbg1.png);   
+      background-image: url(/images/transparent_blackbg1.png);   
     }
     #container
     {
@@ -907,7 +921,7 @@ var slideDeck2URLPath = "http://www.iyogi.com/wp-content/plugins/slidedeck2-pro"
         if(cookeName == null || cookeName == "" )
         {
             frm = document.getElementById("ModalFrame");
-            frm.src = "http://www.iyogi.com/wp-content/themes/iyogicom/fb.php";
+            frm.src = "/fb.php";
             el = document.getElementById("overlayFBX");
             el.style.visibility = "visible";
             setCookie("overlayFBX" , 1 , 3)
@@ -972,7 +986,7 @@ var slideDeck2URLPath = "http://www.iyogi.com/wp-content/plugins/slidedeck2-pro"
     document.cookie=c_name + "=" + c_value;
   }  
     
-    
 </script>
+-->
 
 </body></html>
