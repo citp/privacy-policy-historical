@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bsg-online.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117060650id_/http%3A//www.bsg-online.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bsg-online.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818142343id_/http%3A//www.bsg-online.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Business Strategy Game Simulation
 
