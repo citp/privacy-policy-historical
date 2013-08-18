@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mohawkcollege.ca privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502121434id_/http%3A//www.mohawkcollege.ca/Legal.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mohawkcollege.ca privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818185358id_/http%3A//www.mohawkcollege.ca/Legal.html) for the most accurate reproduction.*
 
 # Privacy and Legal Statements for the Mohawk College Website
 
@@ -10,6 +10,21 @@ The information collected by Mohawk College may be used, among other things, to 
 >  (b) used for statistical and research purposes by the College,  
 >  (c) where it is necessary and proper in the discharge of the college’s functions, or  
 >  (d) as required under law. 
+
+Without limiting the generality of the foregoing, Mohawk College is required to report student-level enrolment-related data to the Ministry of Training, Colleges and Universities under the authority of the Ontario Colleges of Applied Arts and Technology Act, 2002. The Ministry collects this data, which includes limited personal information such as Ontario Education Numbers, student characteristics and educational outcomes, in order to administer government postsecondary funding, policies and programs, including planning, evaluation and monitoring activities.
+
+In addition, the federal Statistics Act provides the legal authority for Statistics Canada to obtain access to personal information held by educational institutions. The information may be used for statistical purposes only, and the confidentiality provisions of the Statistics Act prevent the information from being released in any way that would identify a student. Students who do not wish to have their information used can ask Statistics Canada to remove their identifying information from the national database. On request by a student, Statistics Canada will delete an individual's contact information (name, address, or other personal identifiers) from the PSIS database. To make such a request, please contact us:
+
+Via telephone:  
+Monday to Friday  
+8:30 A.M. to 4:30 P.M. EST/EDST  
+1-800-307-3382 or 1-613-951-7608
+
+Via mail:  
+Institutional Surveys Section   
+Centre for Education Statistics  
+Statistics Canada, Main Building, SC 2100-K  
+Tunney's Pasture, Ottawa, Ontario, K1A 0T6
 
 The names of alumni, their School and program, award information, degrees, diplomas and certificates awarded and date of graduation is considered public information and may be published by Mohawk College. In addition, student photographs posted by the College in the form of individual pictures or class pictures may be publicly displayed. 
 
