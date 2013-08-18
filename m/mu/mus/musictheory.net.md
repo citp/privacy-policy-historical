@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musictheory.net privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501203644id_/http%3A//www.musictheory.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musictheory.net privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818121728id_/http%3A//www.musictheory.net/privacy) for the most accurate reproduction.*
 
 # musictheory.net - Privacy
 
