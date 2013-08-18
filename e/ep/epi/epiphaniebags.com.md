@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epiphaniebags.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626040321id_/http%3A//www.epiphaniebags.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epiphaniebags.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818100448id_/http%3A//www.epiphaniebags.com/terms_privacy.asp) for the most accurate reproduction.*
 
 # Terms: Privacy
 
@@ -65,7 +65,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20130626040321id_/http%3A//www.epiphaniebags.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20130818100448id_/http%3A//www.epiphaniebags.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your consent**
 
