@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tastecard.co.uk privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014204700id_/http%3A//www.tastecard.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tastecard.co.uk privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818141949id_/http%3A//www.tastecard.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Tastecard - The UK's largest diners club - 2 for 1 or 50% off at thousands of restaurants nationwide
 
@@ -33,7 +33,7 @@ You have the ability to accept or decline cookies. Most web browsers automatical
 
 Cookie Name | Purpose | Expires  
 ---|---|---  
-PHPSESSID | The cookie is used to collect information about how you use and personalise our site. | When you close your web browser  
+sess | The cookie is used to collect information about how you use and personalise our site. | When you close your web browser  
 usr | The cookie is used to work out if you are a returning user and associates you with your past activity on our site | 2 years after creation  
   
 **Google Analytics:**
@@ -78,8 +78,6 @@ If you are an existing customer, we will only contact you by electronic means (e
 
 If you are a new customer, and where we permit selected third parties, such as participating restaurants or Bookatable, to use your data, we (or they) will contact you by electronic means only if you have consented to this.
 
-If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please let us know by checking the relevant boxes on the forms we, or such third parties, use to collect your data (i.e. on the registration form).
-
 ## DISCLOSURE OF YOUR INFORMATION
 
 We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
@@ -94,7 +92,7 @@ We may disclose your personal information to third parties:
 
 ## YOUR RIGHTS
 
-You have the right to ask us, or our selected third parties, not to process your personal data for marketing purposes. We, or such third parties, will usually inform you (before collecting your data) if we intend to use your data for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we (or they) use to collect your data. You can also exercise the right at any time by contacting us at [enquiries@tastecard.co.uk](mailto:enquiries@tastecard.co.uk).
+You have the right to ask us, or our selected third parties, not to process your personal data for marketing purposes. We, or such third parties, will usually inform you (before collecting your data) if we intend to use your data for such purposes. You can also exercise the right at any time by contacting us at [enquiries@tastecard.co.uk](mailto:enquiries@tastecard.co.uk).
 
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
