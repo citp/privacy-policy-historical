@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oto.my privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117195322id_/http%3A//www.oto.my/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oto.my privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818044613id_/http%3A//www.oto.my/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - oto.my
 
