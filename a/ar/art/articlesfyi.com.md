@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlesfyi.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604060443id_/http%3A//articlesfyi.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesfyi.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818222850id_/http%3A//articlesfyi.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
