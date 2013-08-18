@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stockfresh.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601143402id_/http%3A//privacy-policy.truste.com/verified-policy/stockfresh.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockfresh.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818020709id_/http%3A//privacy-policy.truste.com/verified-policy/stockfresh.com) for the most accurate reproduction.*
 
 # Privacy Policy for stockfresh.com
 
