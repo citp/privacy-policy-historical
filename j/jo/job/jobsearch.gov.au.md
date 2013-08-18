@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsearch.gov.au privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516134057id_/http%3A//jobsearch.gov.au/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsearch.gov.au privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818063007id_/http%3A//jobsearch.gov.au/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - Australian JobSearch
 
@@ -44,7 +44,7 @@ Job seekers’ personal information may be disclosed by DEEWR to:
   * Centrelink
   * employment service providers - to assist them provide employment services
   * recruitment organisations (whether contracted to the Commonwealth or not)
-  * Telstra and Salmat/SalesForce (under contract to DEEWR) – limited information to enable Telstra/Salmat/SalesForce to re-issue passwords and assist job seekers
+  * Serco Global Services (under contract to DEEWR) – limited information to enable Serco Global Services to assist job seekers
   * employers.
 
 
@@ -114,7 +114,7 @@ JobSearch contains links to external sites. DEEWR is not responsible for the pri
 
 Australian JobSearch advises job seekers to protect their privacy by ensuring they do not provide personal information, including bank account details to anyone they do not know.  Job seekers are urged not to provide bank account details to any prospective employer until you have signed a contract of employment and/or you are satisfied with the bona fides of that employer. 
 
-Job seekers should also visit [www.scamwatch.gov.au](http://www.scamwatch.gov.au/) for more information on protecting your privacy.
+Job seekers should also visit [www.scamwatch.gov.au External link. Opens in a new window. ](http://www.scamwatch.gov.au/) for more information on protecting your privacy.
 
 ##  Your privacy concerns
 
