@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the my-thank-you-site.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118072211id_/http%3A//www.my-thank-you-site.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the my-thank-you-site.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818210300id_/http%3A//www.my-thank-you-site.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,14 +14,3 @@ We thought you ought to know the following information about the [DoubleClick DA
 Thank you for coming!
 
 [ **Thank You Notes**](http://www.my-thank-you-site.com/thank-you-notes.html)
-
-**Share this page:  **  
-
-
-What's This?
-
-| | | |   
----|---|---|---|---  
-| | |   
-  
-If you want to thank us even more! Link to us by clicking here!
