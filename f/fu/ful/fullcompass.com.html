@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fullcompass.com privacy policy that was archived on 2013-04-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130425073053id_/http%3A//www.fullcompass.com/news/88.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fullcompass.com privacy policy that was archived on 2013-08-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130818020633id_/http%3A//www.fullcompass.com/news/88.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://ogp.me/ns/fb#"><head>
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
@@ -19,7 +19,7 @@ Audio, Video and Lighting equipment for all your AV needs. Our catalog has over 
 <meta property="og:url" content="http://www.fullcompass.com/news/88.html">
 <meta property="og:site_name" content="Full Compass">
 <meta property="og:image" content="http://www.fullcompass.com/fullcompass/images/logo_fcs-fb.jpg">
-<meta property="og:image" content="http://www.fullcompass.com/images/publications/icon_pub-fw11.gif">
+<meta property="og:image" content="http://www.fullcompass.com/images/publications/cat_cover.jpg">
 		<meta property="fb:admins" content="100001921701445">
 		<meta property="fb:page_id" content="184868114869272">
 		
@@ -65,12 +65,15 @@ function Blank_TextField_Validator()
 	{
 	   
 	  // If null display and alert box
-	   alert("Please fill in the text field.");
+	   alert("Please enter keyword(s) or part number. ");
 	  // return false to stop further processing
 	   return (false);
 	}
 }
 </script>
+
+
+
 <script type="text/javascript">
 function GetSourceFromUTMZCookie() 
 {
@@ -142,6 +145,8 @@ _gaq.push(['_trackPageview']);
 }
 )();
 </script>
+
+
 	<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
 	<body>
 	<div class="adModule">
@@ -156,13 +161,21 @@ _gaq.push(['_trackPageview']);
 			<table class="mastContent" width="100%" cellpadding="0" cellspacing="0">
 				<tbody><tr valign="bottom">
 					<td class="mastheadSpaceLeft">&nbsp;</td>			
-					<td align="center"><div id="callPro">
-						<span class="sales">Call a Sales Pro! <span class="salesNo">800-356-5844</span></span><br>
-						<span class="oper">Quick Order <span class="operNo">800-476-9886</span></span> | <span class="local">Local <span class="localNo">608-831-7330</span></span><br>
-						<span class="spanish">Para asistencia en Español llame al <strong>800-356-5844 x1164 y x1178</strong></span>
-						</div></td>
+					<td align="center">
+						<div class="callProWrapper">
+							<div class="callProInner">
+								<span class="callProSales">Call a Sales Pro!</span><br><span class="callProSalesNo">800-476-9886</span><br>
+							<span class="callProHours">M-F 9:00am - 5:30pm Central</span>
+							</div>
+							<div class="callProAltNos">
+								<span>Operator</span> <span class="callProAltNosColor" style="color:#660099;">800-356-5844</span><br>
+								<span>Local:</span> <span class="callProAltNosColor">608-831-7330</span><br>
+								<span>Español:</span> <span class="callProAltNosColor">x1164 y x1178</span>
+							</div>
+						</div>
+					</td>
 						
-					<td width="320">
+					<td width="300">
 						<div id="cartTabBlock">	
 							<!--[if IE]><iframe id="cart" name="cart"  src="http://www.fullcompass.com/fullcompass/includes/customerBox.php?parent=%2Fnews%2F88.html" width="100%" height="36" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowtransparency="true" >
 								<p>Your browser does not support iframes.</p>
@@ -187,12 +200,22 @@ _gaq.push(['_trackPageview']);
 						<li class="last"><a id="rightCorner" href="http://www.fullcompass.com/specials.php" title="Clearance">Clearance</a></li>
 					</ul>
 				</div>
-				<table id="searchBar" cellpadding="0" cellspacing="0" border="0">
-					<tbody><tr>
-						<td id="searchBarLeft">
-						<form action="http://www.fullcompass.com/search.php" method="GET" id="searchForm" onsubmit="return Blank_TextField_Validator();">
-							<select name="parent">
-							  <option value="471">All Categories</option>
+				<div class="mainSearchBar">
+					<form action="http://www.fullcompass.com/search.php" method="GET" id="searchForm" onsubmit="return Blank_TextField_Validator();">
+						<script language="javascript" type="text/javascript">
+							function changeSearchColor()
+							{
+								var str = "";
+								var optionList = document.getElementById('parent').options;
+								var selected = document.getElementById('parent').selectedIndex;
+								str = optionList[selected].text;
+								document.getElementById('out').innerHTML = str;
+							}
+						</script>							
+						<div class="mainSearchDropDown">
+							<select class="mainSearchDropDownList" id="parent" name="parent" onchange="this.blur();changeSearchColor();">
+							  <option value="471">Search All</option>
+							  <option value="9999">Clearance</option>
 							  <option value="1309">Accessories</option>
 							  <option value="473">Audio &amp; Sound</option>
 							  <option value="476">Video, TV &amp; Cameras</option>
@@ -201,68 +224,62 @@ _gaq.push(['_trackPageview']);
 							  <option value="990">Musical Instruments</option>
 							  <option value="1665">Replacement Parts</option>
 							</select>
-							
-							<input type="hidden" name="search_simple" value="true">
-							<input style="height:18px;" type="text" name="txtAll" id="input-search" placeholder="Keyword(s) or Part #" size="25" autocomplete="off">
-							<input type="submit" value="Go" class="featureBox_button">
-						</form>
+							<div id="out" class="out">Search All</div>
+						</div>
 						
-						<script type="text/javascript">
-						  var cx = '009205099740233335274:4f0nrv3owia';
-						  var key = 'AIzaSyBsVC-6BjLPg0qmCtkJ9DglRBzLxk146XY';
+		
+						<div class="mainSearchBox">
+							<input type="hidden" name="search_simple" value="true"><input type="text" name="txtAll" id="input-search" placeholder="Keyword(s) or Part #" title="Keyword(s) or Part #" size="25" autocomplete="off">
+						</div>
+						<div class="mainSearchButton">
+							<input type="submit" value="GO">
+						</div>
+						<div class="shopByBrand">
+							<input type="button" onclick="javascript:document.location='http://www.fullcompass.com/brands_show_all.php'" value="Shop by Brand">
+						</div>
+					</form>
+					
+					<script type="text/javascript">
+					  var cx = '009205099740233335274:4f0nrv3owia';
+					  var key = 'AIzaSyBsVC-6BjLPg0qmCtkJ9DglRBzLxk146XY';
 
-						  var saytParams = {
-							country: 'us',
-							language: 'en',
-							sayt_description_config: 'null',
-							sayt_use_max_thumb_style: 'true',
-							extra_params: {
-							  safe: false
-							}
-						  };
-						
-						var style_options = {
-							xAlign: 'center',
-							fixedWidth: 400
-						 };
-						  
-						  var autoCompletionOptions = {
-							'maxCompletions' : 5,
-							'styleOptions': style_options
-						  };
-						  
-
-
-						  var setSaytCallback = function(sayt) {
-							if (sayt != null) {
-							  window['__gcs_sayt'] = sayt;
-							  completionObject = sayt['completionController'];
-
-							} else {							  
-
-							  // SAYT is disabled, initialize your current autocompletions code.
-							}
-						  };
-
-						  setupSayt(cx, key, 'input-search', 'searchForm',
-							  setSaytCallback, autoCompletionOptions, saytParams);
-						</script>
+					  var saytParams = {
+						country: 'us',
+						language: 'en',
+						sayt_description_config: 'null',
+						sayt_use_max_thumb_style: 'true',
+						extra_params: {
+						  safe: false
+						}
+					  };
+					
+					var style_options = {
+						xAlign: 'center',
+						fixedWidth: 450
+					 };
+					  
+					  var autoCompletionOptions = {
+						'maxCompletions' : 5,
+						'styleOptions': style_options
+					  };
+					  
 
 
+					  var setSaytCallback = function(sayt) {
+						if (sayt != null) {
+						  window['__gcs_sayt'] = sayt;
+						  completionObject = sayt['completionController'];
 
-							
-							
-							
-							
-							<!--a class="btnAdvncSrch" href="http://www.fullcompass.com/search.php?advanced_search=true" title="Advanced Search"><img style="padding-left:5px;" src="http://www.fullcompass.com/fullcompass/images/btn_advsearch.png" border="0" alt="Advanced Search" /></a-->	<a class="btnBrandSrch" href="http://www.fullcompass.com/brands_show_all.php" title="Search by Brand"><img src="http://www.fullcompass.com/fullcompass/images/btn_searchbrand.png" border="0" alt="Search by Brand"></a>
-						</td>
-						<td id="searchBarRight" align="right">
-							<a class="ntcFreeShipping" href="http://www.fullcompass.com/news/147.html" title="Free Shipping on Thousands of Items! Click for Details!">
-								<img src="http://www.fullcompass.com/fullcompass/images/freeshipping.png" border="0" alt="Free Shipping on Thousands of Items! Click for Details!">
-							</a>
-						</td>
-					</tr>
-				</tbody></table>
+						} else {							  
+
+						  // SAYT is disabled, initialize your current autocompletions code.
+						}
+					  };
+
+					  setupSayt(cx, key, 'input-search', 'searchForm',
+						  setSaytCallback, autoCompletionOptions, saytParams);
+					</script>
+				</div>
 			</div> 		
 				
 		</div> 
@@ -289,6 +306,11 @@ _gaq.push(['_trackPageview']);
 		<strong>Follow Us Today!</strong>-->
 	</p>
 </div>		
+				<div class="adModule">
+			<noscript><iframe src="http://www.fullcompass.com/craigx/serve.php?zones[0]=featured_events&amp;unique[0]=featured_events&amp;frm=1" scrolling="no" frameborder="0" width="160" height="125"></iframe></noscript>
+			<div id="featured_events" class="ad_class"><!-- --></div>
+		</div>
+				
 		
 	<div class="adModule">
 		<noscript><iframe src="http://www.fullcompass.com/craigx/serve.php?zones[0]=gearcast_sidebar&amp;unique[0]=gearcast_sidebar&amp;frm=1" scrolling="no" frameborder="0" width="160" height="177"></iframe></noscript>
@@ -299,18 +321,20 @@ _gaq.push(['_trackPageview']);
 <h6>Popular Searches</h6>
 <div class="featureBox">
 	<ul>
-		<li><a href="http://www.fullcompass.com/product/295185.html">Shure SM58</a></li>
-		<li><a href="http://www.fullcompass.com/product/331878.html">Yamaha LS9-32</a></li>
-		<li><a href="http://www.fullcompass.com/search.php?txtAll=yamaha+cl&amp;sortOrder=&amp;itemsPerPage=20&amp;txtLowRange=&amp;txtHighRange=&amp;category[]=1161">Yamaha CL Series</a></li>
-		<li><a href="http://www.fullcompass.com/search.php?txtAll=Fender+american+Standard&amp;txtBrand=&amp;sortOrder">Fender American<br>Standard Series Guitars</a></li>
-		<li><a href="http://www.fullcompass.com/search.php?txtAll=Avid+Pro+tools+10&amp;sortOrder=&amp;itemsPerPage=20&amp;txtLowRange=&amp;txtHighRange=&amp;brand[]=AVD">Avid Pro Tools 10</a></li>
-		<li><a href="http://www.fullcompass.com/brand/IFS.html">InFocus Projectors</a></li>
-		<li><a href="http://www.fullcompass.com/search.php?search_simple=true&amp;txtAll=elx">Electro-Voice LIVE-X<br>Series</a></li>
-		<li><a href="http://www.fullcompass.com/product/287249.html">JBL CONTROL-24CT</a></li>
-		<li><a href="http://www.fullcompass.com/brand.php?brand_id=AT&amp;rewrite_name=Microphones-DI-Boxes&amp;query=atw-3">Audio-Technica 3000<br>Series Wireless</a></li>
-		<li><a href="http://www.fullcompass.com/category/Wireless-Microphones.html?query=ulxd">Shure ULX-D Series</a></li>
-		<li><a href="http://www.fullcompass.com/product/411141.html">Zoom H2N</a></li>
-		<li><a href="http://www.fullcompass.com/category/Wireless-Microphones.html?query=xs">Sennheiser XS Series</a></li>
+		<li><a href="http://www.fullcompass.com/category/PA-Reinforcement-Speakers.html">PA Speakers</a></li>
+		<li><a href="http://www.fullcompass.com/category/Wireless-Microphones.html">Wireless Microphones</a></li>
+		<li><a href="http://www.fullcompass.com/category/Mixers-Consoles-General-Purpose.html">Mixers</a></li>
+		<li><a href="http://www.fullcompass.com/category/Power-Amplifiers.html">Power Amplifiers</a></li>
+		<li><a href="http://www.fullcompass.com/category/Cameras-Remote-Controlled-With-Pan-Tilt.html">PTZ Cameras</a></li>
+		<li><a href="http://www.fullcompass.com/category/Camcorders-Professional.html">Professional<br>Camcorders</a></li>
+		<li><a href="http://www.fullcompass.com/category/Theatrical-Stage-Touring-Lighting-Fixtures.html">Stage Lighting</a></li>
+		<li><a href="http://www.fullcompass.com/category/Hard-Wired-Microphones.html">Wired Microphones</a></li>
+		<li><a href="http://www.fullcompass.com/category/Guitars-Electric.html">Electric Guitars</a></li>
+		<li><a href="http://www.fullcompass.com/category/Drums-Percussion.html">Drums</a></li>
+		<li><a href="http://www.fullcompass.com/category/DJ-Software.html">DJ Software</a></li>
+		<li><a href="http://www.fullcompass.com/category/Projectors-Video-Data.html">Projectors</a></li>
+		<li><a href="http://www.fullcompass.com/category/Pedals-Pedalboards.html">Guitar Pedals</a></li>
+		<li><a href="http://www.fullcompass.com/category/Microphone-Stands-Booms.html">Microphone Stands</a></li>
 	</ul>
 </div>
 		</div>
@@ -477,8 +501,8 @@ _gaq.push(['_trackPageview']);
 					<tbody><tr>
 						<td>
 							<p><img src="http://www.fullcompass.com/fullcompass/images/logo_fcs-footer.png" width="150" height="58" border="0" alt="Full Compass Logo"></p>
-							<p style="margin-top:8px;"><strong style="font-size:1.2em;">CALL A SALES PRO!</strong><br><span class="footerBoxNo">800-356-5844</span><br>Mon-Fri 9:00am-5:30pm CST</p>
-							<div class="footerBoxOper"><p><strong>Quick Order<br><span class="footerBoxNoAlt">800-476-9886</span></strong></p></div>
+							<p style="margin-top:8px;"><strong style="font-size:1.2em;">CALL A SALES PRO!</strong><br><span class="footerBoxNo">800-476-9886</span><br>Mon-Fri 9:00am-5:30pm CST</p>
+							<div class="footerBoxOper"><p><strong>Operator<br><span class="footerBoxNoAlt">800-356-5844</span></strong></p></div>
 							<div class="footerBoxLocal"><p><strong>Local<br><span class="footerBoxNoAlt">608-831-7330</span></strong></p></div>
 							<div style="clear:both;"><span class="footerBoxSpanish">Expertos que hablan Español disponibles <strong>800-356-5844 x1178 y x1164</strong>.</span></div>
 						</td>
@@ -528,7 +552,7 @@ _gaq.push(['_trackPageview']);
 		</tr>
 	</tbody></table>
 </div> 
-<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-1.newrelic.com","547eab191b","389622","NVJVYxYAVhEEBhVRWgwYYkUNTlYHEhZPSF0S",0,10,new Date().getTime(),"","","","",""]);</script>
+<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-1.newrelic.com","547eab191b","389622","NVJVYxYAVhEEBhVRWgwYYkUNTlYHEhZPSF0S",0,7,new Date().getTime(),"","","","",""]);</script>
   
 <script type="text/javascript">
 	//setTimeout('location.reload(true);', 10000);
@@ -561,4 +585,4 @@ var google_remarketing_only = true;
 	
 
 
-<script type="text/javascript" src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js"></script></body></html>
+<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
