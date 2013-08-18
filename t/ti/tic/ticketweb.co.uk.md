@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ticketweb.co.uk privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423113613id_/http%3A//www.ticketweb.co.uk/help/helpdesk/privacypolicy.html%3Fl%3Den-us%26tm_link%3Dtm_i_6%26language%3Den-us) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketweb.co.uk privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818185913id_/http%3A//www.ticketweb.co.uk/help/helpdesk/privacypolicy.html%3Fl%3Den-us%26tm_link%3Dtm_i_6%26language%3Den-us) for the most accurate reproduction.*
 
 # privacypolicy.html
 
@@ -88,7 +88,7 @@ TicketWeb and its Event Partners will not share your data with any third parties
 
 \- if we sell or buy any business or assets, we may disclose your personal data to the prospective seller or buyer but only where we have taken reasonable steps to ensure the security and confidentiality of your information;
 
-\- in order to enforce or apply our [Terms of Use](http://www.ticketweb.co.uk/help/terms.html), [Purchase Policy](https://web.archive.org/web/20130423113613id_/http%3A//www.ticketweb.co.uk/help/helpdesk/purchasepolicy.html) or any other applicable TicketWeb terms and conditions;
+\- in order to enforce or apply our [Terms of Use](http://www.ticketweb.co.uk/help/terms.html), [Purchase Policy](https://web.archive.org/web/20130818185913id_/http%3A//www.ticketweb.co.uk/help/helpdesk/purchasepolicy.html) or any other applicable TicketWeb terms and conditions;
 
 \- if you enter a competition, promotion or a prize draw, and TicketWeb is not the operator, the information you provide will be shared with the operator of the promotion, competition or prize draw;
 
@@ -118,7 +118,7 @@ For more information about:
 
 \- this type of online behavioural advertising, please visit [www.youronlinechoices.com](http://www.youronlinechoices.com/); and
 
-\- how to disable cookies, please read the [TicketWeb Cookie Policy](https://web.archive.org/web/20130423113613id_/http%3A//www.ticketweb.co.uk/help/helpdesk/cookiespolicy.html).
+\- how to disable cookies, please read the [TicketWeb Cookie Policy](https://web.archive.org/web/20130818185913id_/http%3A//www.ticketweb.co.uk/help/helpdesk/cookiespolicy.html).
 
 ## Other Sites/Third Party Vendors and their Privacy Policies
 
@@ -134,14 +134,14 @@ We do make some changes and adjustments to this privacy policy from time to time
 
 ## Your Rights
 
-You can use your [MyTicketWeb account](https://www.ticketweb.co.uk/myAccount/login.php?language=en_us) to edit and view the information about you that you've provided to us. You also have the right to obtain a copy of the personal data we hold about you to correct any inaccuracies in such data. If you wish to exercise any of these rights, please contact Customer Services via our [Helpdesk](https://web.archive.org/web/20130423113613id_/http%3A//www.ticketweb.co.uk/help/helpdesk/helpdesk.html). For some requests we may ask you to provide: proof of identity, further information to enable us to locate the information you have requested, and/or a payment of £10 to cover our costs. Your request will be dealt with as soon as possible and will not take more than 40 days to process.
+You can use your [MyTicketWeb account](https://www.ticketweb.co.uk/myAccount/login.php?language=en_us) to edit and view the information about you that you've provided to us. You also have the right to obtain a copy of the personal data we hold about you to correct any inaccuracies in such data. If you wish to exercise any of these rights, please contact Customer Services via our [Helpdesk](https://web.archive.org/web/20130818185913id_/http%3A//www.ticketweb.co.uk/help/helpdesk/helpdesk.html). For some requests we may ask you to provide: proof of identity, further information to enable us to locate the information you have requested, and/or a payment of £10 to cover our costs. Your request will be dealt with as soon as possible and will not take more than 40 days to process.
 
 ## TicketWeb Cookie Policy
 
-For information about the cookies on this Site and how to disable cookies, please read the [TicketWeb Cookie Policy](https://web.archive.org/web/20130423113613id_/http%3A//www.ticketweb.co.uk/help/helpdesk/cookiespolicy.html)
+For information about the cookies on this Site and how to disable cookies, please read the [TicketWeb Cookie Policy](https://web.archive.org/web/20130818185913id_/http%3A//www.ticketweb.co.uk/help/helpdesk/cookiespolicy.html)
 
 If you have any questions or concerns about this privacy statement, you can contact us at [feedback@ticketweb.co.uk](mailto:feedback@ticketweb.co.uk)
 
-Please note that any customer query regarding a current or past booking cannot be dealt with through this link. Please use the [Helpdesk](https://web.archive.org/web/20130423113613id_/http%3A//www.ticketweb.co.uk/help/helpdesk/helpdesk.html).
+Please note that any customer query regarding a current or past booking cannot be dealt with through this link. Please use the [Helpdesk](https://web.archive.org/web/20130818185913id_/http%3A//www.ticketweb.co.uk/help/helpdesk/helpdesk.html).
 
 Version date: 07 November 2012.
