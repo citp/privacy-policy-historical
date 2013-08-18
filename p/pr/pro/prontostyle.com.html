@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the prontostyle.com privacy policy that was archived on 2013-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130603070322id_/http%3A//www.prontostyle.com/help/legal/policy.do) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the prontostyle.com privacy policy that was archived on 2013-08-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130818082648id_/http%3A//www.prontostyle.com/help/legal/policy.do) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
     
@@ -17,15 +17,15 @@
 
 
 
-    <link rel="stylesheet" href="http://cache-www.pronto.com/css-local/main/pronto3/combined/style/combined.ProntoV4_2_0.2013-05-30_10-39.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="http://cache-www.pronto.com/css-local/main/pronto3/combined/style/combined.ProntoV4_7_4.2013-08-13_12-18.css" type="text/css" charset="utf-8">
 
-<link rel="stylesheet" href="http://cache-www.pronto.com/css-local/main/pronto3/combined/combined.ProntoV4_2_0.2013-05-30_10-39.css" type="text/css" charset="utf-8">
-
-
+<link rel="stylesheet" href="http://cache-www.pronto.com/css-local/main/pronto3/combined/combined.ProntoV4_7_4.2013-08-13_12-18.css" type="text/css" charset="utf-8">
 
 
 
-<script type="text/javascript" src="http://cache-www.pronto.com/js/main/pronto3/common_NC/jquery-cookie-ga-lightbox.ProntoV4_2_0.2013-05-30_10-39.js"></script>
+
+
+<script type="text/javascript" src="http://cache-www.pronto.com/js/main/pronto3/common_NC/jquery-cookie-ga-lightbox.ProntoV4_7_4.2013-08-13_12-18.js"></script>
         
       <script type="text/javascript">
      try {
@@ -105,6 +105,19 @@
     
 
     
+        
+            
+                
+                
+                
+            
+            
+                
+                
+                
+            
+        
+    
 
      
     
@@ -152,6 +165,8 @@
 </head>
 
 <body id="style">
+
+
 
 
 
@@ -234,7 +249,7 @@
 				<label for="headerSearchField">Search our site</label>
                 
 				<input class="textField" name="query" type="text" size="50" maxlength="256" value="" id="headerSearchField">
-				<input type="submit" value="Submit" onclick="$.cookie('isSBoxQ', true)" class="button headerSearchButton" title="Submit Search">
+				<input type="submit" value="Submit" class="button headerSearchButton" title="Submit Search">
 			</form>
 		</div>
         
@@ -267,16 +282,17 @@
     <div class="loginOptions js_login" style="display:block;">
         
                                                   
-        <a href="/account/signUpForm.do" onclick="lightboxifyLink('/account/signUpForm.do',true,format1,true);return false;" id="hdr_logout"><span>Sign Up</span></a>&nbsp;|&nbsp; <a href="/account/loginForm.do" onclick="lightboxifyLink('/account/loginForm.do',true,format1,true);return false;" id="hdr_logout"><span>Login</span></a>
+        <a href="/account/signUpForm.do" onclick="lightboxifyLink('/account/signUpForm.do',true,format1,true);return false;" id="hdr_logout" class="logger" data-logger="headerSignUp"><span>Sign Up</span></a>&nbsp;|&nbsp; <a href="/account/loginForm.do" onclick="lightboxifyLink('/account/loginForm.do',true,format1,true);return false;" id="hdr_logout" class="logger" data-logger="headerLogin"><span>Login</span></a>
     </div>
     
 
     <div class="logoutOptions js_logout" style="display:none;" data-exiturl="/" data-modal="" data-homepage="/" data-account="true">
         
-            <a href="/account/editSettingsFormInit.do" id="hdr_logout"><span>Account</span></a>&nbsp;|&nbsp; <span id="hdr_logout" class="logout" onclick="$('#logoutForm').submit(); return false;">Logout</span>
+            <a href="/account/editSettingsFormInit.do?pageLocation=headerAccount" id="hdr_logout"><span>Account</span></a>&nbsp;|&nbsp; <span id="hdr_logout" class="logout" onclick="$('#logoutForm').submit(); return false;">Logout</span>
             <form name="logoutForm" method="post" action="/account/logout.do" id="logoutForm">
                 
                 <input type="hidden" name="micrositeId" value="pronto_style">
+                <input type="hidden" name="pageLocation" value="headerLogout">
             </form>
 
     </div>
@@ -557,7 +573,21 @@
     
 </ul>
 
+    
+        
+    
 
+
+    
+        
+            
+    
+
+
+    
+        
+            
+    
 
 
 
@@ -922,16 +952,19 @@
     <ul>
 
         <li>
-    				   <a href="/help/legal/policy.do" rel="nofollow">Privacy Policy</a>
+    				   
+            <a href="/help/legal/policy.do" class="logger" data-logger="footerLinkPrivacyPolicy">Privacy Policy</a>
     				</li>
     				<li>
-    					<a href="/help/legal/terms.do" rel="nofollow">Terms of Service</a>
+    					
+                        <a href="/help/legal/terms.do" class="logger" data-logger="footerLinkTOS">Terms of Service</a>
     				</li>
     				<li>
-    					<a href="/help/faq/general_faq.do" rel="nofollow">Help</a>
+    					
+                        <a href="/help/faq/general_faq.do" class="logger" data-logger="footerFAQHelpLink">Help</a>
     				</li>
     				<li>
-    					<a href="/site-map">Site Map</a>
+    					<a href="/site-map?pageLocation=footerLinkSiteMap">Site Map</a>
     				</li>
 
     </ul>
@@ -963,7 +996,7 @@
 
 
 
-<script type="text/javascript" src="http://cache-www.pronto.com/js/main/pronto3/combined/combined.ProntoV4_2_0.2013-05-30_10-39.js"></script>
+<script type="text/javascript" src="http://cache-www.pronto.com/js/main/pronto3/combined/combined.ProntoV4_7_4.2013-08-13_12-18.js"></script>
 
 
 
@@ -980,26 +1013,8 @@
         var loggedIn = "";
         var registered = "";
 
-var shopConfig = {
-    debugUrl:"/registerAskSEMPixelFire.do?",
-    url: "http://pronto.tracking.asksemtools.com/sp.gif?",
-    ldid: "1.395_0",
-    o: "100028",
-    qsrc: "",
-    ipaddress: "ae81ed9d",
-    askid: "EMPTY",
-    dqi: encodeURI(""),
-    prontoAdId: "",
-    useragent: encodeURI(navigator.userAgent),
-    parentId: ""
-};
 
 		//]]></script>
-
-
-<script type="text/javascript">
-       $.cookie('isSBoxQ', null);
-   </script>
 
 
 
@@ -1012,10 +1027,9 @@ var shopConfig = {
                 $('#inputQuery').focus();  //for regular pronto
             }
 
-            $('#fullPageContainer').delegate('a.shopPixel',  'mousedown', function(e){
-
-
-                SHOP.firePixel(e, this, shopConfig , true );
+            $('.logger').live('mousedown', function(){
+                var pl = ($(this).data('logger') ? $(this).data('logger'): 'footerLinkSiteMap');
+                $.post('/ajaxLinkTracking.do', {pageLocation:pl});
             });
         });
 
@@ -1148,12 +1162,8 @@ var shopConfig = {
 
 //        GOOGLE RETARGETTING
         
-            
-        
 
 //        GOOGLE RETARGETTING FOR PRONTO
-        
-            
         
 
 //       GOOGLE RETARGETTING FOR MICROSITES
@@ -1162,8 +1172,6 @@ var shopConfig = {
 
 
 
-
-    
 
 
 
