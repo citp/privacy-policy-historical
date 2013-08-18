@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolzipextractorapp.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617043012id_/http%3A//www.coolzipextractorapp.com/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolzipextractorapp.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818151413id_/http%3A//www.coolzipextractorapp.com/privacyPolicy.php) for the most accurate reproduction.*
 
 # 
 
