@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the troweprice.com privacy policy that was archived on 2013-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130618004249id_/http%3A//corporate.troweprice.com/ccw/home/privacyPolicy.do) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the troweprice.com privacy policy that was archived on 2013-08-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130818073335id_/http%3A//corporate.troweprice.com/ccw/home/privacyPolicy.do) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -58,6 +58,7 @@
 		
 			var imageTagList = new Array();
 			var vsLinkList = new Array();
+			var wtaPageTitle = " T. Rowe Price investment management  ";
 			
 			function vsLinkObject(element, linktext, linkplmt)
 			{
@@ -130,9 +131,27 @@
 					AttachScript("/ccw/js/oo_engine.js", "windows-1252");
 				}
 				catch (err) {}
+
+				window.setTimeout(initMetrics, 1000);
+				window.setTimeout(sendVSLinks, 350);
 				
-				window.setTimeout(sendVSLinks, 100);
+			}
+
+			function initMetrics()
+			{
+				if (typeof WTA === 'undefined')
+				{
+					window.setTimeout(initMetrics, 1000);
+					return;
+				}
 				
+				
+				
+					WTA.utils.tags.initializesite("CORP");
+				
+
+				WTA.utils.tags.addPageData("pageTitle=" + wtaPageTitle);
+				WTA.utils.tags.flush2();
 			}
 					
 			function sendVSLinks()
@@ -180,6 +199,24 @@
 					{
 						WTA.utils.tags.sendcorpexiturl(element, 'Privacy Policy', linktext, linkplmt);
 					}
+				
+			}
+
+			
+			function trackExitNewWindow(element, linktext, linkplmt)
+			{
+				
+				
+					WTA.utils.tags.sendcorpexiturl(element, 'Privacy Policy', linktext, linkplmt);
+				
+			}
+
+			
+			function trackJSClick(element, linktext)
+			{
+				
+				
+					WTA.utils.tags.sendmclink(element, 'Privacy Policy', linktext, "CORP");
 				
 			}
 			
@@ -1020,6 +1057,8 @@
 	<script type="text/javascript">
 		removeClassName('fontUtilityDiv', 'fontUtility');
 		addClassName('fontUtilityDiv', 'fontUtilityT5');
+		
+		wtaPageTitle = "Privacy Policy";
 	</script>
 <!--  END /jsp/components/content/includes/home/privacyPolicy/privacyPolicy.jsp--> 
 
