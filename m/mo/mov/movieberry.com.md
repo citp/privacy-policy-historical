@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movieberry.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624051115id_/http%3A//movieberry.com/publication/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movieberry.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818210658id_/http%3A//www.movieberry.com/publication/privacypolicy) for the most accurate reproduction.*
 
 # Download movies online. Watch online movies. Movies HD, DVD, DivX quality.
 
