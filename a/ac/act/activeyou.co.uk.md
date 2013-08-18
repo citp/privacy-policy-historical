@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activeyou.co.uk privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511185445id_/http%3A//new.activeyou.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activeyou.co.uk privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818183750id_/http%3A//new.activeyou.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Active You - Play.Win.Save
 
@@ -10,7 +10,7 @@ ActiveYou.co.uk is owned and operated by digitalbox Limited, 15 Gay Street Bath,
 
 YOUR PERSONAL INFORMATION
 
-When you participate in a competition or offer we typically collect your name, address, telephone number, email address and date of birth. Sometimes other information may be collected which usually relates to the offer in which you participate. The information is collected so that we can fulfill the service we are providing to you which includes passing your information to the Partner providing the information and/or competition in which you are interested. Also you are giving your permission for us to share your information with third parties who provide products or services which we think will be of interest to you, which may be unrelated to the offerings on this Site.
+When you participate in a competition or offer we typically collect your name, address, telephone number, email address and date of birth. Sometimes other information may be collected which usually relates to the offer in which you participate. The information is collected so that we can fulfill the service we are providing to you which includes passing your information to the Partner providing the information and/or competition in which you are interested. Also you are giving your permission for us to share your information with third parties including Optical Express (Westfield) Limited who provide products or services which we think will be of interest to you, which may be unrelated to the offerings on this Site.
 
   
 
