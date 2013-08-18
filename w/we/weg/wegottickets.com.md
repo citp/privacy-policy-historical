@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wegottickets.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605093635id_/http%3A//www.wegottickets.com/ppl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wegottickets.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818070218id_/http%3A//www.wegottickets.com/ppl) for the most accurate reproduction.*
 
 # WeGotTickets - Your Online Box Office - Our privacy policy
 
