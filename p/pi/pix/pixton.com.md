@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixton.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425142304id_/http%3A//www.pixton.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixton.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818022350id_/http%3A//www.pixton.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Pixton for Fun
 
@@ -92,9 +92,13 @@ You may instruct us to refrain from using or sharing your personal information i
 
 If we want to use your personal information for a new purpose, we will disclose this to you and ask for your consent unless the new use is already authorized or required by law.
 
-### Cookies
+### Cookies & 3rd Party Advertisements
 
 Cookies are small pieces of data which are stored on your computer to allow your web browser to remember something about our web site. We use cookies to improve functionality and to provide a customized online experience, for example, to list the contents of a virtual shopping cart or to remember other information so that you do not need to enter it every time you log onto our site. Cookies may also enable us to track and target your interests to enhance your experience on our site. If you don't allow your web browser to use cookies, our site might not function correctly.
+
+Google, as a third party vendor, uses cookies to serve ads on our web site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 ### Storage in the United States
 
@@ -118,7 +122,7 @@ Consent may be provided orally, in writing, electronically, through inaction (su
 
 You may withdraw consent at any time, subject to legal, contractual and other restrictions, provided that you give reasonable notice of withdrawal of consent to us. On receipt of notice of withdrawal of consent, we will inform you of the likely consequences of the withdrawal of consent, which may include the inability of us to provide certain services for which that information is necessary.
 
-### Limites on Collection of Personal Information
+### Limits on Collection of Personal Information
 
 We will not collect personal information indiscriminately but will limit collection of personal information to that which is reasonable and necessary. We will also collect personal information as authorized by law.
 
