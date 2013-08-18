@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the getinthemix.co.uk privacy policy that was archived on 2013-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130323111108id_/http%3A//www.getinthemix.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getinthemix.co.uk privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818025738id_/http%3A//www.getinthemix.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy & Security - GetInTheMix.co.uk
+# Privacy & Security | GetInTheMix
 
 getinthemix.co.uk takes your privacy rights as a customer seriously. This policy outlines the data we collect from our visitors and how we use it.
 
