@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dtdns.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117053715id_/http%3A//www.dtdns.com/dtsite/legalprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dtdns.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818155202id_/http%3A//www.dtdns.com/dtsite/legalprivacy) for the most accurate reproduction.*
 
 # DtDNS :: Privacy Policy
 
