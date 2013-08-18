@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iyogi.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610182651id_/http%3A//www.iyogi.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iyogi.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818185956id_/http%3A//www.iyogi.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy: iYogi
 
