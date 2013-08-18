@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schools.org privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115162408id_/https%3A//schools.org/pdfs/Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schools.org privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818112933id_/https%3A//schools.org/pdfs/Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
