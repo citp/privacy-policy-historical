@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dragonblogger.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426084045id_/http%3A//www.dragonblogger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dragonblogger.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818085127id_/http%3A//www.dragonblogger.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » Dragon Blogger
+# Privacy Policy » Dragon Blogger Technology, Gaming and Entertainment Blog
 
 Privacy Policy for dragonblogger.com
 
@@ -24,7 +24,7 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 
 If you have any questions please contact me and I will be happy to answer.
 
-AdSense Privacy Policy Provided by [JenSense](https://web.archive.org/web/20130426084045id_/http://www.dragonblogger.com/privacy-policy/%E2%80%9Dhttp://www.JenSense.com%E2%80%9D)
+AdSense Privacy Policy Provided by [JenSense](https://web.archive.org/web/20130818085127id_/http://www.dragonblogger.com/privacy-policy/%E2%80%9Dhttp://www.JenSense.com%E2%80%9D)
 
   * Bio
   * Twitter
@@ -36,5 +36,3 @@ AdSense Privacy Policy Provided by [JenSense](https://web.archive.org/web/201304
 
 
 Working in the IT Industry for over 13 years and specializing in web based technologies. Dragon Blogger has unique insights and opinions to how the internet and web technology works. An Avid movie fan, video game fan and fan of trying anything and everything new.
-
-a plugin that adds a great Author Bio Box for Wordpress with social media fields? <http://t.co/geMxxypy8M> Fanciest Author Box is only $10 \- 2 hours ago
