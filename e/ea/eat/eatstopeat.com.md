@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eatstopeat.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530001615id_/http%3A//www.eatstopeat.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eatstopeat.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818194638id_/http%3A//www.eatstopeat.com/privacy.html) for the most accurate reproduction.*
 
 # Fasting for weight loss, Lose weight quickly and easily with the Eat Stop Eat method of Flexible Intermittent Fasting and Weight Training
 
