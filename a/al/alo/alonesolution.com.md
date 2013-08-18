@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alonesolution.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606064013id_/http%3A//www.alonesolution.com%3Fentry%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alonesolution.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818034100id_/http%3A//www.alonesolution.com%3Fentry%3Dpolicy) for the most accurate reproduction.*
 
 # Alone Solution - Privacy Policy
 
