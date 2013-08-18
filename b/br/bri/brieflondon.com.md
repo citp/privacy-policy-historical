@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brieflondon.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531203155id_/http%3A//brieflondon.com/11-privacy-policy/content.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brieflondon.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818045518id_/http%3A//www.brieflondon.com/11-privacy-policy/content.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
