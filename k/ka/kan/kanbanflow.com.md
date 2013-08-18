@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kanbanflow.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502220214id_/https%3A//kanbanflow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kanbanflow.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818020544id_/https%3A//kanbanflow.com/privacy-policy) for the most accurate reproduction.*
 
 # KanbanFlow - Lean project management, simplified
 
