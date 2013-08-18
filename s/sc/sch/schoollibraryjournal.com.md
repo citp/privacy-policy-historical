@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schoollibraryjournal.com privacy policy that was archived on 2013-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130328053330id_/https%3A//shop.mediasourceinc.com/policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoollibraryjournal.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818143502id_/https%3A//shop.mediasourceinc.com/policy.aspx) for the most accurate reproduction.*
 
 # Policy
 
