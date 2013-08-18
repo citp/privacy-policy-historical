@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the northlight-images.co.uk privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430122051id_/http%3A//www.northlight-images.co.uk/gallery/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northlight-images.co.uk privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818173049id_/http%3A//www.northlight-images.co.uk/gallery/privacy.html) for the most accurate reproduction.*
 
-# Northlight images Privacy Policy
+# Northlight images Cookies and Privacy Policy
 
 ## For web site visitors, on-line print sales and the Northlight Images Newsletter
 
@@ -11,18 +11,18 @@ Our UK VAT registration number is 715 6562 29
 
 ### Contact details :
 
-Northlight Images, 86 Harrow Road Leicester, Leicestershire, UK. LE3 0JW ([Maps](https://web.archive.org/web/20130430122051id_/http%3A//www.northlight-images.co.uk/contact/contact_us.php "Where we are and how best to contact us about our professional commercial photography")) Telephone +44 116 291 9092   
+Northlight Images, 86 Harrow Road Leicester, Leicestershire, UK. LE3 0JW ([Maps](https://web.archive.org/web/20130818173049id_/http%3A//www.northlight-images.co.uk/contact/contact_us.php "Where we are and how best to contact us about our professional commercial photography")) Telephone (Mon-Fri. 9am-5pm) +44 (0)116 291 9092    
 
 
-More details [**About our Business**](https://web.archive.org/web/20130430122051id_/http%3A//www.northlight-images.co.uk/about.html)
+More details [**About our Business**](https://web.archive.org/web/20130818173049id_/http%3A//www.northlight-images.co.uk/about.html)
 
-We have a separate set of[ **terms and conditions**](https://web.archive.org/web/20130430122051id_/http%3A//www.northlight-images.co.uk/commercial-photo-terms.html) relating to all our commercial photography, training and consultancy services.
+We have a separate set of[ **terms and conditions**](https://web.archive.org/web/20130818173049id_/http%3A//www.northlight-images.co.uk/commercial-photo-terms.html) relating to all our commercial photography, training and consultancy services.
 
 Northlight Images is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
 Northlight Images may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
-This policy last updated and is effective from May 4, 2011.
+This policy last updated and is effective from July 5, 2013.
 
 #### What we collect
 
@@ -55,7 +55,7 @@ For surveys and newsletters we will only contact people who have indicated that 
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect on-line.
 
-#### How we use cookies
+## How we use cookies
 
 A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
@@ -65,17 +65,17 @@ Overall, cookies help us provide you with a better website, by enabling us to mo
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the web site.
 
-#### Advertising content
+#### Advertising content and third party cookies
 
 Advertising helps us defray the running costs of the Northlight Images web site - the content of some adverts is dependent on where you are viewing the site from. All advertising from third parties is offered for your information, without any recommendation or endorsement from Northlight Images.
 
-Please be aware that some of the advertisers on our site may use cookies and or web tracking technologies in connection with advertisements placed on our site through our participation in the Google AdSense program.
+**Please be aware that some of the advertisers on our site may use cookies and or web tracking technologies in connection with advertisements placed on our site through our participation in the Google AdSense program.**
 
 In particular, Google uses cookies such as the [DART](http://www.doubleclick.com/privacy/faq.aspx) cookie to enable it to serve ads to users based on their visit to this site and other sites on the Internet.
 
 Users may opt out of the use of the DART cookie by visiting the Google ad and content network [privacy policy](http://www.google.co.uk/privacy_ads.html). There is more information about this available from [Google.](http://www.google.com/intl/en-GB/privacy.html "Google UK privacy policy")
 
-You can usually alter your browser's behaviour with regard to cookies, such as accepting cookies from sites visited, but declining 3rd party (advertiser's) cookies.
+**You can usually alter your browser's behaviour with regard to cookies, such as accepting cookies from sites visited, but declining 3rd party (advertiser's) cookies.**
 
 This site is a participant in the Amazon Europe S.à r.l. Associates Programme, an affiliate advertising programme designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon .co.uk , .fr and .de sites.
 
@@ -95,18 +95,18 @@ If you believe that any information we are holding on you is incorrect or incomp
 
 ### Contact details :
 
-Northlight Images, 86 Harrow Road Leicester, Leicestershire, UK. LE3 0JW ([Maps](https://web.archive.org/web/20130430122051id_/http%3A//www.northlight-images.co.uk/contact/contact_us.php "Where we are and how best to contact us about our professional commercial photography")) Telephone +44 116 291 9092   
+Northlight Images, 86 Harrow Road Leicester, Leicestershire, UK. LE3 0JW ([Maps](https://web.archive.org/web/20130818173049id_/http%3A//www.northlight-images.co.uk/contact/contact_us.php "Where we are and how best to contact us about our professional commercial photography")) Telephone (Mon-Fri. 9am-5pm) +44 (0)116 291 9092    
 
 
 * * *
 
 **You can search all the hundreds of articles on the site for more information**
 
-**_Have you found an article on the site useful or helpful?_** If so, please consider sharing a link to the article or mentioning it on a forum - Thanks to everyone who's helped the site become better known. _**Explore our site...** _[Digital Black and White photography and printing](https://web.archive.org/web/20130430122051id_/http%3A//www.northlight-images.co.uk/digital_black_white.html) \- some of Keiths thoughts, techniques and tips for those interested in a digital approach to black and white. New site content appears on the [News, articles and reviews](https://web.archive.org/web/20130430122051id_/http%3A//www.northlight-images.co.uk/articles.php "all the latest pphotography articles, news and reviews on the site") page. We've lots of original [Photography Articles](https://web.archive.org/web/20130430122051id_/http%3A//www.northlight-images.co.uk/features.html "Articles about photography") and [Photography Reviews](https://web.archive.org/web/20130430122051id_/http%3A//www.northlight-images.co.uk/reviews.html "Reviews of photography related equipment and software") on the site to help anyone interested in photography. 
+**_Have you found an article on the site useful or helpful?_** If so, please consider sharing a link to the article or mentioning it on a forum - Thanks to everyone who's helped the site become better known. _**Explore our site...** _[Digital Black and White photography and printing](https://web.archive.org/web/20130818173049id_/http%3A//www.northlight-images.co.uk/digital_black_white.html) \- some of Keiths thoughts, techniques and tips for those interested in a digital approach to black and white. New site content appears on the [News, articles and reviews](https://web.archive.org/web/20130818173049id_/http%3A//www.northlight-images.co.uk/articles.php "all the latest pphotography articles, news and reviews on the site") page. We've lots of original [Photography Articles](https://web.archive.org/web/20130818173049id_/http%3A//www.northlight-images.co.uk/features.html "Articles about photography") and [Photography Reviews](https://web.archive.org/web/20130818173049id_/http%3A//www.northlight-images.co.uk/reviews.html "Reviews of photography related equipment and software") on the site to help anyone interested in photography. 
 
 __**Thanks to the visitors** who've made Amazon purchases (any kinds of items whatosever)  
 via: [Amazon UK](http://www.amazon.co.uk/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.co.uk%2FPhotography-Accessories-Bundles-Scopes%2Fb%3Fie%3DUTF8%26node%3D560834%26ref%255F%3Dsa%255Fmenu%255Fp2&tag=northlightima-21&linkCode=ur2&camp=1634&creative=19450)/[Amazon France](http://www.amazon.fr/b?%5Fencoding=UTF8&site-redirect=&node=13921051&tag=northimage01-21&linkCode=ur2&camp=1642&creative=6746)/[Amazon Germany](http://www.amazon.de/b?%5Fencoding=UTF8&site-redirect=de&node=562066&tag=northimage05-21&linkCode=ur2&camp=1638&creative=6742)/[Amazon USA](http://www.amazon.com/b?%5Fencoding=UTF8&site-redirect=&node=13900861&tag=northligimage-20&linkCode=ur2&camp=1789&creative=9325)/[Amazon Canada  
 ](http://www.amazon.ca/b?%5Fencoding=UTF8&site-redirect=&node=677230011&tag=northimage-20&linkCode=ur2&camp=15121&creative=330641)It won't save extra money we're afraid, but it does help in the running of the site, and we really appreciate it...__
 
-Northlight Images is based in Leicester in the UK and supplies [Commercial Photography](https://web.archive.org/web/20130430122051id_/http%3A//www.northlight-images.co.uk/commercial_photo_services.html "Commercial photography services in the UK from Northlight Images") services  
-Visiting Leicester or wondering where it is? We have [views from the Leicester traffic cameras](https://web.archive.org/web/20130430122051id_/http%3A//www.northlight-images.co.uk/cameras.html "Leicester Traffic camera views").
+Northlight Images is based in Leicester in the UK and supplies [Commercial Photography](https://web.archive.org/web/20130818173049id_/http%3A//www.northlight-images.co.uk/commercial_photo_services.html "Commercial photography services in the UK from Northlight Images") services  
+Visiting Leicester or wondering where it is? We have [views from the Leicester traffic cameras](https://web.archive.org/web/20130818173049id_/http%3A//www.northlight-images.co.uk/cameras.html "Leicester Traffic camera views").
