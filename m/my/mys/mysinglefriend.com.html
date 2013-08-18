@@ -1,15 +1,15 @@
-<!--The following is the downloaded HTML source of the mysinglefriend.com privacy policy that was archived on 2013-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130602193317id_/http%3A//mysinglefriend.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mysinglefriend.com privacy policy that was archived on 2013-08-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130819012641id_/http%3A//www.mysinglefriend.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Mysinglefriend Privacy Policy for Online Dating</title>
-<meta name="description" content="Privacy Policy, mysinglefriend"><meta name="keywords" content="Privacy, Online Dating, Mysinglefriend"><meta name="robots" content="follow"><link rel="stylesheet" href="/styles/20130530/msf.css" type="text/css"> 
+<meta name="description" content="Privacy Policy, mysinglefriend"><meta name="keywords" content="Privacy, Online Dating, Mysinglefriend"><meta name="robots" content="follow"><link rel="stylesheet" href="/styles/20130816/msf.css" type="text/css"> 
 <link rel="alternate" href="/blog/rss.xml" type="application/rss+xml" title="MSF blog">
     <!--[if lt IE 7]>
-<link rel="stylesheet" href="/styles/20130530/msf_ie6.css" type="text/css"> 
+<link rel="stylesheet" href="/styles/20130816/msf_ie6.css" type="text/css"> 
 <![endif]-->
-<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript"> userArray = new Array(); </script>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript"> userArray = new Array(); </script>
 <noscript><meta http-equiv="refresh" content="0;url=/homepage/no_javascript" /></noscript>
 
 	<script type="text/javascript">
@@ -19,6 +19,34 @@
 	  _gaq.push(['_setDomainName', 'mysinglefriend.com']);
 	  _gaq.push(['_setAllowLinker', true]);
 	
+		// lifetime value of a traffic source
+		var strCurrentURL = String(window.location);
+		var strReferralURL = document.referrer;
+		if (strCurrentURL.match("https?://([\w|\.|\-]+)")[1] == "www.mysinglefriend.com") {
+		    if (strReferralURL) {	
+		            if (strReferralURL.match("https?://([\w|\.|\-]+)")[1] != "www.mysinglefriend.com") {
+			        if (isNewVisitor()) {
+				        var strSource = strReferralURL.match("https?://([\w|\.|\-]+)")[1];
+			        }
+		        }
+		    }
+		}
+		
+		function isNewVisitor() {
+			var strCookie = document.cookie;
+			var pos = strCookie.indexOf('utma');
+			if (pos == -1) {
+				return true;
+			}
+			else {
+				return false;
+			}
+		}
+		
+		if (strSource) {
+			_gaq.push(['_setCustomVar', 4, 'Traffic Source', strSource, 1]);
+		}
+		
 	  _gaq.push(['_trackPageview']);
 	
 	  (function() {
@@ -27,7 +55,17 @@
 	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 	  })();
 	
+	
+	// universal analytics
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	
+	ga('create', 'UA-2728455-3', 'mysinglefriend.com');
+	ga('send', 'pageview');
 	</script>
+	
 	</head>
 <body onunload="msf.nothing();">
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
@@ -77,7 +115,7 @@
 			<div id="options">
 				<form action="http://www.mysinglefriend.com/search/basic" method="post" accept-charset="utf-8" id="searchForm">
 <div class="hidden">
-<input type="hidden" name="ci_csrf_token" value="9d6c6de2bd9b3fbb366b81595d610b1f">
+<input type="hidden" name="ci_csrf_token" value="81e80169fa3aa49c41acb4e88ec6d3f4">
 </div>
 	<label for="gender">I am a</label>
 	<select id="gender" name="gender">
@@ -353,93 +391,33 @@
 		<div id="copyright">
 			mysinglefriend® and mysinglefriend logo™ are trade marks proprietary to My Single Friend Limited. All rights reserved.<br>
 			mysinglefriend® is not responsible for the content of external internet sites.
-					</div>
+		</div>
 	</div>
 </div>
 
-	<style type="text/css">
-		#cookie_ico { position: fixed; width: 100%; bottom: 0; z-index: 1000;  }
-		#cookie_ico_disclaimer { background: #999; padding: 5px 8px 5px 8px; width: 934px; line-height: 13px; margin: 0 auto 0 auto; font-size: 11px; color: #FFF; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=95)"; filter: alpha(opacity=95); -moz-opacity:0.95; -khtml-opacity: 0.95; opacity: 0.95; }
-		#cookie_ico_disclaimer #cookie_ico_info { float: left; width: 850px; }
-		#cookie_ico_disclaimer a { color: #FFF; text-decoration: underline; }
-		a#cookie_ico_ok { float: right; font-weight: bold; margin-top: 7px; text-decoration: none; font-size: 13px; }
-		#ico_break { clear: both; }
-	</style>
-	<br><br><br>
-	<div id="cookie_ico">
-		<div id="cookie_ico_disclaimer">
-			<div id="cookie_ico_info">
-				We use cookies to give you the best possible experience on our website and to provide a better service. Continue browsing the site as normal if you're happy with this, or to find out how to manage cookies <a href="/cookies">click here</a>.
-			</div>
-			<a href="javascript:;" id="cookie_ico_ok" onclick="cookie_ico()">OK</a>
-			<div id="ico_break"></div>
-		</div>
-	</div>
-	<script type="text/javascript">
-	function cookie_ico(){
-		document.getElementById('cookie_ico').style.display = 'none';
-		/*
-		var exdate = new Date();
-		exdate.setDate(exdate.getDate() + 365);
-		document.cookie = "msfico=" + new Date() + ";domain=.mysinglefriend.com;path=/;expires=" + exdate.toUTCString();
-		*/
-	}
-</script>	<script type="text/javascript" src="/javascript/20130530/jquery.colorbox.js"></script>
-    <script type="text/javascript" src="/javascript/20130530/msf.general.js"></script>
-    <script type="text/javascript" src="/javascript/20130530/msf.events.js"></script>
-	<script type="text/javascript" src="/javascript/20130530/jquery.tipsy.js"></script>
+	<script type="text/javascript" src="/javascript/20130816/jquery.colorbox.js"></script>
+    <script type="text/javascript" src="/javascript/20130816/msf.general.js"></script>
+    <script type="text/javascript" src="/javascript/20130816/msf.events.js"></script>
+	<script type="text/javascript" src="/javascript/20130816/jquery.tipsy.js"></script>
 		    <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js"></script>
-	        	    <script type="text/javascript" src="/javascript/20130530/json_data/gb_county.json"></script>
+	        	    <script type="text/javascript" src="/javascript/20130816/json_data/gb_county.json"></script>
 <script type="text/javascript">
     msf.country_code = 'gb';
 </script>
-	    <script type="text/javascript">
-
-
-
-// lifetime value of a traffic source
-var strCurrentURL = String(window.location);
-var strReferralURL = document.referrer;
-if (strCurrentURL.match("https?://([\\w|\\.|\\-]+)")[1] == "http://www.mysinglefriend.com") {
-    if (strReferralURL) {	
-            if (strReferralURL.match("https?://([\\w|\\.|\\-]+)")[1] != "http://www.mysinglefriend.com") {
-	        if (isNewVisitor()) {
-		        var strSource = strReferralURL.match("https?://([\\w|\\.|\\-]+)")[1];
-	        }
-        }
-    }
-}
-
-function isNewVisitor() {
-	var strCookie = document.cookie;
-	var pos = strCookie.indexOf('utma');
-	if (pos == -1) {
-		return true;
-	}
-	else {
-		return false;
-	}
-}
-
- _gaq.push(['._setCustomVar', 4, 'Traffic Source', strSource, 1]);
- 
- </script>    
-		    <script type="text/javascript">
-    /* <![CDATA[ */
-    var google_conversion_id = 1068613636;
-    var google_conversion_language = "en";
-    var google_conversion_format = "3";
-    var google_conversion_color = "666666";
-    var google_conversion_label = "pNNBCMiTzQEQhIDH_QM";
-    var google_conversion_value = 0;
-    /* ]]> */
-    </script>
-    <script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
-    </script>
-    <noscript>
-    <div style="display:inline;">
-    <img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1068613636/?value=0&amp;label=pNNBCMiTzQEQhIDH_QM&amp;guid=ON&amp;script=0"/>
-    </div>
-    </noscript>
-	
+	    	
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1068613636;
+var google_conversion_label = "fPwsCIij9wUQhIDH_QM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1068613636/?value=0&amp;label=fPwsCIij9wUQhIDH_QM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>	
 </body></html>
