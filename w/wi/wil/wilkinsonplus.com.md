@@ -1,13 +1,17 @@
-> *The following text is extracted and transformed from the wilkinsonplus.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214011613id_/https%3A//www.wilkinsonplus.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wilkinsonplus.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818185603id_/http%3A//reporting.wilko.com/cgi-bin/rr/nobook%3A184837/http%3A//www.wilko.com/generic/privacy-policy/page/privacy-policy) for the most accurate reproduction.*
 
-# Help & Information Guide WilkinsonPlus
+# Privacy Policy at wilko.com
+
+Help & information guide
+
+We hope that you find the Wilko.com service both easy to use, and easy to navigate. If you think that we can improve our website then contact us by completing our [feedback form](http://www.wilko.com/helpguide/returns-enquiries/page/returns_generalenquiry). If you require help in a specific section then please have a look at our help guides below. 
 
   
 
 
 **1: Your Privacy**
 
-  * 1.1 Wilkinson Hardware Stores Limited (the "Company", "We" or "Us") is committed to protecting and respecting the privacy of the users of this website www.wilkinsonplus.com (the "Website"). This privacy policy explains how we collect, store, use and otherwise process any personal data that we collect from you, or that you provide to us. 
+  * 1.1 Wilkinson Hardware Stores Limited (the "Company", "We" or "Us") is committed to protecting and respecting the privacy of the users of this website www.wilko.com (the "Website"). This privacy policy explains how we collect, store, use and otherwise process any personal data that we collect from you, or that you provide to us. 
   * 1.2 You must read this privacy policy carefully. By accessing and continuing to use the Website you confirm that you have read, understood and agree to the terms of this privacy policy. 
 
 
@@ -79,4 +83,4 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 [ Back to top ]
 
-[](http://www.wilkinsonplus.com/page/help_index/)
+[](http://www.wilko.com/page/help_index)
