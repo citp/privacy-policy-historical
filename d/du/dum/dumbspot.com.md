@@ -1,26 +1,26 @@
-> *The following text is extracted and transformed from the dumbspot.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516022415id_/http%3A//www.dumbspot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dumbspot.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818210337id_/http%3A//www.dumbspot.com/privacy) for the most accurate reproduction.*
 
 # Dumb Spot - Privacy Policy
 
 At Dumb Spot, we are committed to protecting your privacy. We use the information we collect from you to personalize your experience in accordance with your preferences. We only sell, trade or rent your personal information to other parties in accordance with this Privacy Policy and your preferences. 
 
-Please read the following details of our Privacy Policy. This Privacy Policy applies to users of the Dumb Spot network of web sites, and applies to all sites on the domain dumbspot.com. Information collection, use and protection of personally identifiable information (referred to hereafter as "PII") and the choices you have concerning PII are described in this policy. Dumb Spot is controlled by Miva AK, Inc, 4600 Madison, 10th Floor, Kansas City, MO 64112. 
+Please read the following details of our Privacy Policy. This Privacy Policy applies to users of the Dumb Spot network of web sites, and applies to all sites on the domain dumbspot.com. Information collection, use and protection of personally identifiable information (referred to hereafter as "PII") and the choices you have concerning PII are described in this policy. Dumb Spot is controlled by Adknowledge EN, Inc., 4600 Madison, 10th Floor, Kansas City, MO 64112. 
 
 **By using Dumb Spot you agree to the terms of this Privacy Policy. This Privacy Policy also applies to users that have agreed to receive e-mail marketing from Dumb Spot and joint marketing advertisers ("Advertisers") that collaborate with Dumb Spot, whether at Dumb Spot, via email, on third party websites, via co-registration or otherwise.**
 
-  * [I. Collected Information](https://web.archive.org/web/20130516022415id_/http%3A//www.dumbspot.com/privacy#collected_information)
-  * [II. Use Of Collected Information](https://web.archive.org/web/20130516022415id_/http%3A//www.dumbspot.com/privacy#use_of_collected_information)
-  * [III. Information Sharing and Disclosure](https://web.archive.org/web/20130516022415id_/http%3A//www.dumbspot.com/privacy#information_sharing_and_disclosure)
-  * [IV. Preferences/Opt-Out](https://web.archive.org/web/20130516022415id_/http%3A//www.dumbspot.com/privacy#preferences_optout)
-  * [V. Third Parties](https://web.archive.org/web/20130516022415id_/http%3A//www.dumbspot.com/privacy#third_parties)
-  * [VI. Security](https://web.archive.org/web/20130516022415id_/http%3A//www.dumbspot.com/privacy#security)
-  * [VII. Accessing and Updating Personal Information](https://web.archive.org/web/20130516022415id_/http%3A//www.dumbspot.com/privacy#accessing_and_updating_personal_information)
-  * [VIII. Data Integrity](https://web.archive.org/web/20130516022415id_/http%3A//www.dumbspot.com/privacy#data_integrity)
-  * [IX. Children ](https://web.archive.org/web/20130516022415id_/http%3A//www.dumbspot.com/privacy#children)
+  * [I. Collected Information](https://web.archive.org/web/20130818210337id_/http%3A//www.dumbspot.com/privacy#collected_information)
+  * [II. Use Of Collected Information](https://web.archive.org/web/20130818210337id_/http%3A//www.dumbspot.com/privacy#use_of_collected_information)
+  * [III. Information Sharing and Disclosure](https://web.archive.org/web/20130818210337id_/http%3A//www.dumbspot.com/privacy#information_sharing_and_disclosure)
+  * [IV. Preferences/Opt-Out](https://web.archive.org/web/20130818210337id_/http%3A//www.dumbspot.com/privacy#preferences_optout)
+  * [V. Third Parties](https://web.archive.org/web/20130818210337id_/http%3A//www.dumbspot.com/privacy#third_parties)
+  * [VI. Security](https://web.archive.org/web/20130818210337id_/http%3A//www.dumbspot.com/privacy#security)
+  * [VII. Accessing and Updating Personal Information](https://web.archive.org/web/20130818210337id_/http%3A//www.dumbspot.com/privacy#accessing_and_updating_personal_information)
+  * [VIII. Data Integrity](https://web.archive.org/web/20130818210337id_/http%3A//www.dumbspot.com/privacy#data_integrity)
+  * [IX. Children ](https://web.archive.org/web/20130818210337id_/http%3A//www.dumbspot.com/privacy#children)
 
 
 
-We regularly review our compliance with this Policy. Dumb Spot may edit this Policy from time to time. When we make substantial changes to uses of PII, we will notify you by posting a prominent notice on our privacy policy, as well as an indicator on the home page of Dumb Spot. Please feel free to direct any questions or concerns regarding this Policy via postal mail to Miva AK, Inc, 4600 Madison, 10th Floor, Kansas City, MO 64112. When we receive formal written complaints at this address, it is our policy to contact the complaining user regarding his or her concerns. 
+We regularly review our compliance with this Policy. Dumb Spot may edit this Policy from time to time. When we make substantial changes to uses of PII, we will notify you by posting a prominent notice on our privacy policy, as well as an indicator on the home page of Dumb Spot. Please feel free to direct any questions or concerns regarding this Policy via postal mail to Adknowledge EN, Inc., 4600 Madison, 10th Floor, Kansas City, MO 64112. When we receive formal written complaints at this address, it is our policy to contact the complaining user regarding his or her concerns. 
 
 ## I. Collected Information
 
@@ -63,7 +63,7 @@ Your PII is used in a variety of other ways, including:
 
 ## III.Information Sharing and Disclosure
 
-We only share PII with other companies or individuals outside of Miva AK, Inc in the following limited circumstances: 
+We only share PII with other companies or individuals outside of Adknowledge EN, Inc. in the following limited circumstances: 
 
 **Third Party Service-Providers:** Dumb Spot may from time to time share email addresses and other PII with third parties to perform functions on our behalf, such as sending informational emails about our products and services. In these cases, Dumb Spot uses only trusted partners who have entered into non-disclosure agreements prohibiting use or dissemination of PII and that meet the requirements set out in the Security section below. 
 
@@ -71,25 +71,25 @@ We only share PII with other companies or individuals outside of Miva AK, Inc in
 
 **Other Third Parties:** We may sell PII you supply to us to other selected third parties, including providers of applications, including lookup and reference, data enhancement, suppression and validation. 
 
-**Protection of Miva AK, Inc. and others:** We reserve the right to access, use, preserve or disclose PII: as required by law , regulation, legal process or governmental request and when we believe that access, use, preservation or disclosure is necessary to protect our or our users' rights, property or safety and / or comply with a judicial proceeding, court order, legal process or governmental request served upon our company; enforce the [terms and conditions](https://web.archive.org/terms) of Dumb Spot, including investigation of potential violations; and to detect, prevent, or otherwise address fraud, security or technical issues. 
+**Protection of Adknowledge EN, Inc. and others:** We reserve the right to access, use, preserve or disclose PII: as required by law , regulation, legal process or governmental request and when we believe that access, use, preservation or disclosure is necessary to protect our or our users' rights, property or safety and / or comply with a judicial proceeding, court order, legal process or governmental request served upon our company; enforce the [terms and conditions](https://web.archive.org/terms) of Dumb Spot, including investigation of potential violations; and to detect, prevent, or otherwise address fraud, security or technical issues. 
 
 **Non-Personally Identifiable Information:** We may share aggregated, non-personally identifiable information about our user base with partners and advertisers, and to run promotions [in accordance with your preferences], and this may include demographics, usage, or characteristics of Dumb Spot participants as a group. We may also share with Advertisers usage information about users who have received targeted promotional campaigns, for the purpose of formatting future campaigns and upgrading user information used in reporting statistics in accordance with your preferences. This information is collected by tracking some of the pages you visit on Dumb Spot through the use of pixel tags (also called clear gifs). 
 
-**Merger/Acquisitions:** If Miva AK, Inc. becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will provide notice before PII is transferred and becomes subject to a different privacy policy. 
+**Merger/Acquisitions:** If Adknowledge EN, Inc. becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will provide notice before PII is transferred and becomes subject to a different privacy policy. 
 
 ## IV. Preferences/Opt Out
 
-If you provide us with your address, telephone number and/or email, you may receive occasional mailings, phone calls, or emailings from us or our agents with information on Miva AK, Inc, new products, industry news, product features, and upcoming events. We send promotional email to our users, including users who have not opted out after having received promotional email from us. 
+If you provide us with your address, telephone number and/or email, you may receive occasional mailings, phone calls, or emailings from us or our agents with information on Adknowledge EN, Inc., new products, industry news, product features, and upcoming events. We send promotional email to our users, including users who have not opted out after having received promotional email from us. 
 
 To the extent we use PII to email you about our products and services, our email practices are in compliance with the U.S. SPAM laws. 
 
-If you do not wish to receive promotional communications from us, please [unsubscribe here](https://web.archive.org/web/20130516022415id_/http%3A//www.dumbspot.com/unsubscribe), or the bottom of promotional emails you may receive from us or you can also contact us by writing to Privacy, Miva AK, Inc, 4600 Madison, 10th Floor, Kansas City, MO 64112. 
+If you do not wish to receive promotional communications from us, please [unsubscribe here](https://web.archive.org/web/20130818210337id_/http%3A//www.dumbspot.com/unsubscribe), or the bottom of promotional emails you may receive from us or you can also contact us by writing to Privacy, Adknowledge EN, Inc., 4600 Madison, 10th Floor, Kansas City, MO 64112. 
 
 If you do opt out from receiving promotional communications from us, this does not prohibit us from sharing PII for non-marketing purposes listed above. 
 
 Dumb Spot also displays personalized third party advertising based on your PII. Advertisers may assume that users who interact with or click on a personalized advertisement meet their criteria to personalize the advertisement (e.g. all female users in California). If you do not want us to use your PII to allow third party advertisements to be personalized, please follow the opt out process below. 
 
-If you do not wish to receive personalized advertising from us, please contact us in writing to Privacy, Miva AK, Inc, 4600 Madison, 10th Floor, Kansas City, MO 64112. 
+If you do not wish to receive personalized advertising from us, please contact us in writing to Privacy, Adknowledge EN, Inc., 4600 Madison, 10th Floor, Kansas City, MO 64112. 
 
 **SMS Offering and Opt-out rights:** Some of our advertisers' offers may allow you to register for content to be delivered by SMS. By completing or submitting a registration form or partial registration form to these offers, you are consenting to receive SMS, wireless or other mobile offering to your cell phone. You understand that your wireless carrier's standard charges and rates apply to these messages. For SMS text messages, you may remove your information by replying "STOP", "END", or "QUIT" to the SMS text message you have received and we will remove your personal information within 10 days of receiving such request.
 
@@ -107,11 +107,11 @@ Dumb Spot has security measures in place to protect information against unauthor
 
 Dumb Spot also ensures that all third parties who receive PII have in place reasonable security procedures and practices appropriate to the nature of the information, to protect it from unauthorized access, destruction, use, modification or disclosure and that third party service providers maintain information security practices and programs in accordance with applicable law. 
 
-We restrict access to PII to: key executives of Miva AK, Inc. and members of the development team (including employees, contractors and agents of Miva AK, Inc.) who have direct access to information under our control, who need to know that information in order to operate, develop or improve our products and services; or persons who need to comply with record retention requirements by law. These individuals are bound by confidentiality obligations. 
+We restrict access to PII to: key executives of Adknowledge EN, Inc. and members of the development team (including employees, contractors and agents of Adknowledge EN, Inc.) who have direct access to information under our control, who need to know that information in order to operate, develop or improve our products and services; or persons who need to comply with record retention requirements by law. These individuals are bound by confidentiality obligations. 
 
 ## VII. Accessing and updating personal information 
 
-Please contact us in writing to Privacy, Miva AK, Inc, 4600 Madison, 10th Floor, Kansas City, MO 64112 if you would like to access PII we have collected about you. We will make good faith efforts to provide you with access to your PII and either correct this data if it is inaccurate or delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask that you identify yourself and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. 
+Please contact us in writing to Privacy, Adknowledge EN, Inc., 4600 Madison, 10th Floor, Kansas City, MO 64112 if you would like to access PII we have collected about you. We will make good faith efforts to provide you with access to your PII and either correct this data if it is inaccurate or delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask that you identify yourself and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. 
 
 ## VIII. Data integrity
 
@@ -128,9 +128,9 @@ Dumb Spot is not responsible for information obtained from underage users who ha
 If you do not agree to the terms of this Privacy Policy, do not use this website and do not provide any information.   
 
 
-Alternatively, you may send postal mail to the following address: Dumb Spot attn Privacy / Miva AK, Inc.  
+Alternatively, you may send postal mail to the following address: Dumb Spot attn Privacy / Adknowledge EN, Inc.  
 4600 Madison, 10th Floor  
 Kansas City, MO 64112  
 
 
-Last updated 11/06/2012 
+Last updated 06/13/2013 
