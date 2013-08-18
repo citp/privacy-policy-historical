@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ahrn.com privacy policy that was archived on 2013-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130408084448id_/http%3A//www.ahrn.com/ahrs_shell.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahrn.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818061704id_/http%3A//www.ahrn.com/ahrs_shell.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # AHRN - The Automated Housing Referral Network
 
