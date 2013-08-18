@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blish.us privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605000815id_/http%3A//blish.us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blish.us privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818081358id_/http%3A//blish.us/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Publish Us - Publish your articles, blogs or poetry and make money!
 
