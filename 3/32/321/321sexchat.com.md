@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 321sexchat.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623024632id_/http%3A//www.321chat.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 321sexchat.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818152031id_/http%3A//www.321chat.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - 321Chat.Com
 
