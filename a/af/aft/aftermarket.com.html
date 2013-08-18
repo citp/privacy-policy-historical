@@ -1,10 +1,12 @@
-<!--The following is the downloaded HTML source of the aftermarket.com privacy policy that was archived on 2013-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130627172509id_/http%3A//www.aftermarket.com/legal/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aftermarket.com privacy policy that was archived on 2013-08-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130818163809id_/http%3A//www.aftermarket.com/legal/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en"><head>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/7940.js?439030" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 //<![CDATA[
+
+	var IS_PREVIEW = false;
 	var IS_LOGGED_IN = false;
 	var LOGIN_URL = '/login';
 	var CHECK_SESSION_URL = '/check-session-status';
@@ -33,9 +35,11 @@
 
 <title>Privacy Policy | We Respect Your Privacy | Aftermarket.com</title>
 
+<meta name="alexaVerifyID" content="*Yi-JGDD5_LayRptllVtKMU5QD8A*">
+
 <link rel="shortcut icon" href="/favicon.ico">
 
-<script type="text/javascript" src="/js/optimized.js?1372212382"></script>
+<script type="text/javascript" src="/js/optimized.js?1376627377"></script>
 <link rel="stylesheet" type="text/css" media="screen" href="/css/menu_black.css">
 <link rel="stylesheet" type="text/css" media="screen" href="/css/grid.css">
 <link rel="stylesheet" type="text/css" media="screen" href="/css/overlay.css">
@@ -87,6 +91,8 @@ body .info-table .title {
 	  analyticsPush('_setCampContentKey', 'utm_content');
 	  analyticsPush('_setCampTermKey', 'utm_keyword');
 	  analyticsPush('_setCampNameKey', 'utm_campaign');
+
+	  analyticsPush('_setDomainName', 'aftermarket.com');
 		
 			  analyticsPush('_trackPageview');
 			
@@ -99,7 +105,6 @@ body .info-table .title {
 			<script src="//cdn.optimizely.com/js/173014402.js"></script>
 	</head>
 <body id="page_legal_privacy-policy">
-		
 
 	<div><hr id="page-separator"></div>
 	
@@ -144,13 +149,16 @@ body .info-table .title {
 <div class="main-menu right">
   <table class="rootVoices" cellspacing="0" cellpadding="0" border="0"><tbody><tr>
   
-        <td class="rootVoice" menu="menu_login"><span class="menu-separator">│</span><span class="menu-arrow">▼</span> <span class="menu-text">Sign in / Register</span></td>
-    
+        <td class="rootVoice" menu="menu_login"><span class="menu-separator">│</span><span class="menu-arrow">▼</span> <span class="menu-text"><a href="/login">Sign in / Register</a></span></td>
+	
+    <td class="rootVoice" menu="menu_buy_domains"><span class="menu-separator">│</span><span class="menu-arrow">▼</span> <span class="menu-text"><a href="/buy-domains">Buy Domains</a></span></td>
+	<td class="rootVoice" menu="menu_sell_domains"><span class="menu-separator">│</span><span class="menu-arrow">▼</span> <span class="menu-text"><a href="/sell-domains">Sell Domains</a></span></td>
+    <td class="rootVoice" menu="menu_park_domains"><span class="menu-arrow">▼</span> <span class="menu-text"><a href="/park-domains">Park Domains</a></span></td>
+	
       
     
-    <td class="rootVoice" menu="menu_buy_domains"><span class="menu-separator">│</span><span class="menu-arrow">▼</span> <span class="menu-text">Buy Domains</span></td>
-	<td class="rootVoice" menu="menu_sell_domains"><span class="menu-separator">│</span><span class="menu-arrow">▼</span> <span class="menu-text">Sell Domains</span></td>
-    <td class="rootVoice" menu="menu_park_domains"><span class="menu-arrow">▼</span> <span class="menu-text">Park Domains</span></td>
+
+	
   </tr></tbody></table>		
 </div>	
 
@@ -184,7 +192,7 @@ body .info-table .title {
 		<!-- The plugin will be embedded into this div //-->
 		<div id="social_login_container_nav"></div>
 		<script type="text/javascript">oneall.api.plugins.social_login.build("social_login_container_nav", {
-					'providers' :  ['facebook', 'google'], 
+					'providers' :  ['facebook', 'google', 'yahoo', 'linkedin'], 
 					'callback_uri': 'http://www.aftermarket.com/login/oneallCallbackHandler'
 				});</script>        	</td>
         </tr>
@@ -229,6 +237,7 @@ body .info-table .title {
 <!-- Park Domains -->            
 <div id="menu_park_domains" class="mbmenu">
 		<a href="/park-domains" img="menu_icon_parking_overview.png">Start Parking</a>
+	<a href="/affiliate-program" img="menu_icon_affiliate.png">Affiliate Program</a>
 	</div>
 		</div>
 		
@@ -540,28 +549,29 @@ body .info-table .title {
 	
 			var id = $(this).attr('id').replace(/watchListAddLink_/, '');
 			
-			if (IS_LOGGED_IN) {
+			if (IS_LOGGED_IN ) {
 			
-				var tempThis = this;
-				
-				$.ajax({
-					url: '/listing/ajaxAddListingToUserWatchList',
-					data: 'id=' + id + '&t=' + new Date().getTime(),
-					async: false,
-					success: function(data){
-						if (data.status == 'success') {
-							$(tempThis).removeClass('pin_to_watchlist_link');
-							$(tempThis).addClass('unpin_from_watchlist_link');
-							$(tempThis).attr('title', 'Unpin from Watchlist');
-							if ($(tempThis).hasClass('show-label')) {
-								$(tempThis).html('Unpin from Watchlist');
+				if(!IS_PREVIEW){ 				
+					var tempThis = this;
+					
+					$.ajax({
+						url: '/listing/ajaxAddListingToUserWatchList',
+						data: 'id=' + id + '&t=' + new Date().getTime(),
+						async: false,
+						success: function(data){
+							if (data.status == 'success') {
+								$(tempThis).removeClass('pin_to_watchlist_link');
+								$(tempThis).addClass('unpin_from_watchlist_link');
+								$(tempThis).attr('title', 'Unpin from Watchlist');
+								if ($(tempThis).hasClass('show-label')) {
+									$(tempThis).html('Unpin from Watchlist');
+								}
 							}
 						}
-					}
-				});
-				
-				analyticsPush('_trackEvent', 'Listing', 'Add watchlist', id);
-				
+					});
+					
+					analyticsPush('_trackEvent', 'Listing', 'Add watchlist', id);
+				}
 				return false;
 				
 			} else {
@@ -578,25 +588,27 @@ body .info-table .title {
 			
 			if (IS_LOGGED_IN) {
 			
-				var tempThis = this;
-			
-				$.ajax({
-					url: '/listing/ajaxRemoveListingFromUserWatchList',
-					data: 'id=' + id + '&t=' + new Date().getTime(),
-					async: false,
-					success: function(data){
-						if (data.status == 'success') {
-							$(tempThis).removeClass('unpin_from_watchlist_link');
-							$(tempThis).addClass('pin_to_watchlist_link');
-							$(tempThis).attr('title', 'Pin to Watchlist');
-							if ($(tempThis).hasClass('show-label')) {
-								$(tempThis).html('Pin to Watchlist');
+				if(!IS_PREVIEW){ 				
+					var tempThis = this;
+				
+					$.ajax({
+						url: '/listing/ajaxRemoveListingFromUserWatchList',
+						data: 'id=' + id + '&t=' + new Date().getTime(),
+						async: false,
+						success: function(data){
+							if (data.status == 'success') {
+								$(tempThis).removeClass('unpin_from_watchlist_link');
+								$(tempThis).addClass('pin_to_watchlist_link');
+								$(tempThis).attr('title', 'Pin to Watchlist');
+								if ($(tempThis).hasClass('show-label')) {
+									$(tempThis).html('Pin to Watchlist');
+								}
 							}
 						}
-					}
-				});
-				
-				analyticsPush('_trackEvent', 'Listing', 'Remove watchlist', id);
+					});
+					
+					analyticsPush('_trackEvent', 'Listing', 'Remove watchlist', id);
+				}
 		
 				return false;
 				
@@ -737,7 +749,7 @@ body .info-table .title {
 </script>
 
 
-<!-- web02.lax | revision: b22cd9c0bf4e45bddf7cbfd795071906804becec -->
+<!-- web01.lax | revision: fcbc7cb7c73362bc1f1f9b2beacfe2f33679e41e -->
 
 	<script type="text/javascript">
 	setTimeout(function(){var a=document.createElement("script");
