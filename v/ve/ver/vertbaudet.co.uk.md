@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the vertbaudet.co.uk privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603063130id_/http%3A//www.vertbaudet.co.uk/page/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vertbaudet.co.uk privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818155428id_/http%3A//www.vertbaudet.co.uk/page/privacy-policy.htm) for the most accurate reproduction.*
 
 # Vertbaudet Privacy Policy
 
 ## Introduction
 
-The Vertbaudet brand is an international retail brand owned by the Redcats Group based in France. Merchandise is offered for sale in the UK (including Northern Ireland), Channel Isles, Isle of Man and BFPO Germany by Redcats (Brands) Limited which is part of the Redcats Group. Vertbaudet is a trading name of Redcats (Brands) Limited. The Redcats Group also includes Movitex (UK) Limited which trades as Daxon in the same territories and operates using generally the same facilities and resources as Redcats (Brands) Limited including information technology. Redcats (Brands) Limited also currently trades as La Redoute and and looks to launch new brands to expand the range of products available to customers. This information should help you to understand relevant parts of this Policy including those relating to sharing of your details within Redcats Group, e.g. for marketing purposes.
+The Vertbaudet brand is an international retail brand owned by the Cyrillus Vertbaudet Group based in France. The Cyrillus Vertbaudet Group was set up in 2013 to buy the Cyrillus and Vertbaudet brands, which were then owned by Redcats Group. Cyrillus Vertbaudet Group set up a new company, Vertbaudet UK Limited, to buy Redcats’ Vertbaudet business in the UK, Channel Isles, Isle of Man and BFPO Germany (British Forces Posted Overseas) from Redcats (Brands) Limited. As part of that business purchase, Vertbaudet UK Limited acquired existing customer accounts and data relating to Vertbaudet from Redcats (Brands) Limited. 
 
-Where we use the words "we" or "us" in this Policy we are referring to Redcats (Brands) Limited.
+Merchandise is now offered for sale in the UK (including Northern Ireland), Channel Isles, Isle of Man and BFPO Germany by Vertbaudet UK Limited which, as is explained above, is part of the Cyrillus Vertbaudet Group. 
+
+Cyrillus Vertbaudet Group and Vertbaudet UK Limited may look to launch new brands to expand the range of products available to customers from time to time. This information should help you to understand relevant parts of this Policy including those relating to sharing of your details within Cyrillus Vertbaudet Group, e.g. for marketing purposes. 
+
+Where we use the words "we" or "us" in this Policy we are referring to Vertbaudet UK Limited.
 
   * Your confidentiality and privacy
   * Information we might need from you
@@ -52,30 +56,30 @@ We may also use the information you provide to perform a credit search. Before p
 
 
 
-If we perform a credit search, we will search the files of credit reference agencies who record the search whether or not credit is granted. This search may also include people with whom you are "financially linked" or your "associates". You are financially linked or associated with someone if you have applied for or hold joint credit agreements or accounts with that person. The search will be seen by other lenders who use the information to make credit decisions about you. We will use this information along with credit scoring methods to assess your application and to verify your identity. To prevent or detect fraud or to assist in verifying your identity we may also make searches of the records of other companies in the Redcats Group.
+If we perform a credit search, we will search the files of credit reference agencies who record the search whether or not credit is granted. This search may also include people with whom you are "financially linked" or your "associates". You are financially linked or associated with someone if you have applied for or hold joint credit agreements or accounts with that person. The search will be seen by other lenders who use the information to make credit decisions about you. We will use this information along with credit scoring methods to assess your application and to verify your identity. To prevent or detect fraud or to assist in verifying your identity we may also make searches of the records of other companies in the Cyrillus Vertbaudet Group. As part of the sale referred to in the first section of this policy, we have agreed with Redcats Group that they will continue to manage Vertbaudet credit agreements and accounts on our behalf for a period of time. Searches may also be made by Redcats Group on our behalf against records held by companies within Redcats Group, e.g. if you already have a credit agreement with another Redcats brand, such as La Redoute or Daxon. 
 
 If we enter into a credit agreement with you, we will supply details of that agreement to the credit reference agencies as well as ongoing details of your account and how you manage it. If you do not repay on time or in full we will tell the credit reference agencies who will record details of the debt. All of that information will be seen by other organisations carrying out later searches and may be used by them to make decisions about whether or not to lend to you or those individuals who are financially linked or associated with you. The information may also be used for debt tracing and the prevention of money laundering.
 
 We, credit reference agencies and fraud prevention agencies may also use the records for statistical analysis about credit, insurance and fraud. We may pass information to financial and other organisations involved in fraud prevention to protect ourselves and our customers from theft and fraud. If you give us false or inaccurate information and we suspect fraud, we will record this.
 
-We may use your information held within Redcats Group, including shopping habits, to run your Credit Account if you have one. We may make periodic searches of the records of Redcats Group companies, credit reference agencies and fraud prevention agencies to manage your account with us, to take decisions regarding credit (including whether to make credit available or to continue or extend existing credit). Those searches will not be available to other lenders for credit assessment purposes. If you require details of the credit reference agencies from whom we obtain and with whom we record information about you please [write to us](https://web.archive.org/contact.htm "contact us") at our Head Office address below or telephone our [Customer Care Team](https://web.archive.org/contact.htm "contact us") on the number given below.
+We may use your information held within Cyrillus Vertbaudet Group, including shopping habits, to run your Credit Account if you have one. We may make periodic searches of the records of Cyrillus Vertbaudet Group and Redcats Group companies, credit reference agencies and fraud prevention agencies to manage your account with us, to take decisions regarding credit (including whether to make credit available or to continue or extend existing credit). Those searches will not be available to other lenders for credit assessment purposes. If you require details of the credit reference agencies from whom we obtain and with whom we record information about you please [write to us](https://web.archive.org/contact.htm "contact us") at our Head Office address below or telephone our [Customer Care Team](https://web.archive.org/contact.htm "contact us") on the number given below.
 
 #### Marketing
 
-We may also use your information, including shopping habits, for marketing as set out below. If you do not wish to be contacted for marketing purposes, please see the section below headed “How to unsubscribe from marketing”.
+We may also use your information, including shopping habits, for marketing as set out below. If you do not wish to be contacted for marketing purposes, please see the section below headed ”How to unsubscribe from marketing”.
 
   * We may contact you by mail, telephone, email or any other reasonable method in relation to products we offer for sale whether as Vertbaudet or as other brands we operate, e.g. Vertbaudet.
-  * We may contact you by mail, telephone, email or any other reasonable method to introduce products offered for sale by other Redcats Group members and carefully selected third parties.
-  * We may share your details with other members of the Redcats Group and those members may contact you by mail, telephone, email or any other reasonable method.
+  * We may contact you by mail, telephone, email or any other reasonable method to introduce products offered for sale by other Cyrillus Vertbaudet Group members and carefully selected third parties.
+  * We may share your details with other members of the Cyrillus Vertbaudet Group and those members may contact you by mail, telephone, email or any other reasonable method.
   * We may share your details with carefully selected third parties and those organisations may contact you by mail. We will not allow such organisations to contact you by email or telephone unless you have given us express permission for us to do so.
 
 
 
 ## How to unsubscribe from marketing
 
-If you decide at any time that you do not wish to be contacted for marketing purposes by Vertbaudet or you decide that you do not wish Vertbaudet to share information for marketing purposes with other brands we operate from time to time (e.g. La Redoute), with other members of the Redcats Group or with carefully selected third parties, you can unsubscribe easily by following the instructions below.
+If you decide at any time that you do not wish to be contacted for marketing purposes by Vertbaudet or you decide that you do not wish Vertbaudet to share information for marketing purposes with other brands we operate from time to time, with other members of the Cyrillus Vertbaudet Group or with carefully selected third parties, you can unsubscribe easily by following the instructions below.
 
-  * #### Marketing from Vertbaudet, our other brands or other Redcats Group members
+  * #### • Marketing from Vertbaudet, our other brands or other Cyrillus Vertbaudet Group members
 
     * Name of brand from which you no longer wish to receive marketing contact (e.g. Vertbaudet) or that you no longer wish us to share information with our other brands or other Group members for marketing purposes.
     * Type of communication you no longer wish to receive (e.g. mail, telephone, email).
@@ -99,7 +103,7 @@ To provide you with specially tailored information from our website and to track
 
 This information helps us to improve the overall level of service we provide to you. Most web browsers automatically accept cookies. You do not have to accept cookies and can set up your web browser to automatically notify you when you receive a cookie, this will give you the opportunity to decide whether to accept it. Please remember that, if you disable cookies, this will affect our ability to deliver a service through our website that is more tailored to you.
 
-You can obtain further information about cookies from [www.aboutcookies.org](http://www.aboutcookies.org/) and [www.allaboutcookies.org](http://www.allaboutcookies.org/). Please note, however, that those sites are operated by third parties and are not owned or operated by Redcats Group and the Redcats Group has no control over content.
+You can obtain further information about cookies from [www.aboutcookies.org](http://www.aboutcookies.org/) and [www.allaboutcookies.org](http://www.allaboutcookies.org/). Please note, however, that those sites are operated by third parties and are not owned or operated by Cyrillus Vertbaudet Group and the Cyrillus Vertbaudet Group has no control over content.
 
 ## How we keep this information secure
 
@@ -111,12 +115,12 @@ We are required by the Data Protection Act 1998 to follow strict security proced
 
 ## Changes to our Privacy Policy
 
-We keep our Policy under regular review and we will place any updates on this webpage. This Policy was last updated on 11 July 2010.
+We keep our Policy under regular review and we will place any updates on this webpage. This Policy was last updated on 4 July 2013.
 
 ## Head Office Contact Details
 
 Data Protection Officer  
-Redcats (UK) plc  
+Vertbaudet UK Limited  
 2 Holdsworth Street  
 Bradford  
 West Yorkshire  
