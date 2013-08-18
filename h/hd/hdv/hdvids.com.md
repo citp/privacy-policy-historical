@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdvids.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430180936id_/http%3A//www.hdvids.com/cimages/legal/privacy.html%3Fsite%3Dhdvids) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdvids.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818190740id_/http%3A//www.hdvids.com/cimages/legal/privacy.html%3Fsite%3Dhdvids) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
