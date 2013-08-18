@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 4everproxy.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611093019id_/http%3A//4everproxy.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4everproxy.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818145843id_/http%3A//4everproxy.com/privacy.php) for the most accurate reproduction.*
 
-# 4everproxy Network - Unblock Youtube, Twitter, Facebook and More
+# 4everproxy Network - Unblock Youtube Proxy | SSL Secure
 
 ## Privacy Policy
 
@@ -19,12 +19,3 @@ The service provided on this website allows access to external, third-party webs
 Our website stores a cookie on your computer, if allowed by your browser's privacy settings *. The cookie used by our service uniquely identifies you to the server and allows our website to remember your preferences.
 
 We may also use third-party advertising partners on our website. Advertisers may send you cookies or use web beacons. We have no control over cookies, web beacons or the information collected by our advertisers. Consult the third-party advertiser's privacy policy for more information on their practices.
-
-  * [Home](https://web.archive.org/web/20130611093019id_/http%3A//4everproxy.com/index.php)
-  * [Edit Browser](https://web.archive.org/web/20130611093019id_/http%3A//4everproxy.com/edit-browser.php)
-  * [Manage Cookies](https://web.archive.org/web/20130611093019id_/http%3A//4everproxy.com/cookies.php)
-  * [Privacy Policy](https://web.archive.org/web/20130611093019id_/http%3A//4everproxy.com/privacy.php)
-  * [Disclaimer](https://web.archive.org/web/20130611093019id_/http%3A//4everproxy.com/disclaimer.php)
-  * [Terms of Use](https://web.archive.org/web/20130611093019id_/http%3A//4everproxy.com/tou.php)
-
-
