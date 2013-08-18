@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yoplait.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530031657id_/http%3A//generalmills.com/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoplait.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819002300id_/http%3A//generalmills.com/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # General Mills: Privacy policy
 
