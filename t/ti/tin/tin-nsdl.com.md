@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tin-nsdl.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625051123id_/https%3A//www.tin-nsdl.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tin-nsdl.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818080812id_/https%3A//www.tin-nsdl.com/privacy-policy.php) for the most accurate reproduction.*
 
 # TIN
 
-NSDL is sensitive to privacy issues on the Internet. It is therefore important for you to know how the information we receive from you on the Internet is treated.
+NSDL e-Governance Infrastructure Limited (NSDL) is sensitive to privacy issues on the Internet. It is therefore important for you to know how the information we receive from you on the Internet is treated.
 
 You can visit our website on the World Wide Web without declaring who you are or revealing any information about yourself. Our Web servers collect the domain names of visitors. We use this information to assemble aggregate information about the visitors to our website, and assist with our systems administration and problem resolution activities. Your accessing our site signifies your unconditional consent to allow the collection of your domain names.
 
