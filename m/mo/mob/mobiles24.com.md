@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mobiles24.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017090606id_/http%3A//www.mobiles24.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobiles24.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818120531id_/http%3A//www.mobiles24.com/privacy) for the most accurate reproduction.*
 
-# Free Ringtones - Free Mobile Downloads - Mobiles24.com
+# Privacy Policy - Mobiles24.com
 
 **1\. Information collection and use**  
 From time to time, you will be asked to submit personal information about yourself (e.g. name and email address etc) in order to receive or use services at Mobiles24. Such services include newsletters, competitions, "Alert Email", live chats, message boards and Mobiles24 membership.
