@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creativeboom.co.uk privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605143205id_/http%3A//creativeboom.co.uk/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativeboom.co.uk privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818175943id_/http%3A//creativeboom.co.uk/page/privacy-policy/%23cookies) for the most accurate reproduction.*
 
 # Privacy Policy Creative Industries | Creative Boom Blog | Art, Design, Creativity
 
@@ -6,7 +6,7 @@ Creative Boom Ltd (“Creative Boom”) is committed to ensuring that your priva
 
 By registering as a user and/ or by using our website, you are indicating that you have read this privacy policy and understand that your personal information may be used as described below.
 
-If you have any comments or queries in connection with our privacy policy please contact us by email at [hello@creativeboom.co.uk](mailto:hello@creativeboom.co.uk) or write to us at Creative Boom Ltd, Office 135, 111 Piccadilly, Manchester, M1 2HX.
+If you have any comments or queries in connection with our privacy policy please contact us by email at [hello@creativeboom.co.uk](mailto:hello@creativeboom.co.uk) or write to us at Creative Boom Ltd, 3B Third Floor, 22 Lever Street, Manchester, M1 1EA.
 
 ## What we collect
 
@@ -82,4 +82,4 @@ We may change this policy from time to time by updating this page. You should ch
 
 ## Your rights to access personal information
 
-You have the right, under the Data Protection Act 1998, to receive information about the personal information which we hold about you upon making a written request and payment of a fee, which covers our administration costs in providing such information. If you would like a copy of the information held on you please write to us at Creative Boom Ltd, Office 135, 111 Piccadilly, Manchester, M1 2HX. If you believe that any information we are holding on you is incorrect or incomplete, please contact us via email [hello@creativeboom.co.uk](mailto:hello@creativeboom.co.uk) or write to Creative Boom Ltd, Office 135, 111 Piccadilly, Manchester, M1 2HX.
+You have the right, under the Data Protection Act 1998, to receive information about the personal information which we hold about you upon making a written request and payment of a fee, which covers our administration costs in providing such information. If you would like a copy of the information held on you please write to us at Creative Boom Ltd, 3B Third Floor, 22 Lever Street, Manchester, M1 1EA. If you believe that any information we are holding on you is incorrect or incomplete, please contact us via email [hello@creativeboom.co.uk](mailto:hello@creativeboom.co.uk) or write to Creative Boom Ltd, 3B Third Floor, 22 Lever Street, Manchester, M1 1EA.
