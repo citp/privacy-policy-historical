@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afrointroductions.com privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612033347id_/http%3A//www.afrointroductions.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afrointroductions.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818064744id_/http%3A//www.afrointroductions.com/privacy.cfm) for the most accurate reproduction.*
 
 # AfroIntroductions.com | Privacy Policy
 
