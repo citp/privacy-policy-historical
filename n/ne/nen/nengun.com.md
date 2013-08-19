@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nengun.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507134832id_/http%3A//www.nengun.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nengun.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819161229id_/http%3A//www.nengun.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Nengun Performance
 
