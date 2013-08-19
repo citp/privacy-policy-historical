@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fishisfast.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531103923id_/http%3A//fishisfast.com/%3Fpage_id%3D151) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fishisfast.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819224805id_/http%3A//fishisfast.com/%3Fpage_id%3D151) for the most accurate reproduction.*
 
 # fishisfast
 
