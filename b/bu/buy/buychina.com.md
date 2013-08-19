@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buychina.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509233732id_/http%3A//www.buychina.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buychina.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819182942id_/http%3A//www.buychina.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Buy China Products from Taobao Agent with Free Shipping - BuyChina.com
 
