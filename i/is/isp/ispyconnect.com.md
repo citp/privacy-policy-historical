@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ispyconnect.com privacy policy that was archived on 2013-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130405135441id_/http%3A//www.ispyconnect.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ispyconnect.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819073241id_/http%3A//www.ispyconnect.com/privacy.aspx) for the most accurate reproduction.*
 
 # iSpy Privacy Policy
 
@@ -75,9 +75,11 @@ By using our site, you consent to our websites privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page. 
 
-This policy was last modified on 1/3/2011
+**Data Storage and Transmission**
 
- **Contacting Us**
+Information you enter on this website will be transmitted to and may be stored on servers hosted in the Northern and Southern United States. Sensitive data will be transmitted securely using HTTPS. Password information is one-way encrypted before storing. 
+
+**Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
@@ -86,3 +88,5 @@ http://www.ispyconnect.com
 Margaret River, WA 6285  
 Australia  
 sean[ @ ]ispyconnect.com
+
+This policy was last modified on 6/5/2013 
