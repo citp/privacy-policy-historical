@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiaflowergiftshop.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116052157id_/http%3A//www.indiaflowergiftshop.com/information/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiaflowergiftshop.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819025625id_/http%3A//www.indiaflowergiftshop.com/information/privacy-policy.htm) for the most accurate reproduction.*
 
 # 
 
@@ -28,4 +28,4 @@ We welcomes feedback concerning this Privacy Policy. Please send your comments a
   
 
 
-    Free Shipping Over 150 Cities, Door Step Delivery Services over 300 Cities Indiawide ||    || 100% Guaranteed Delivery ||    Over " 2000 Products " To Choose for Express Delivery All India ||    Send Flowers, Cakes, Eggless Cakes, Chocolates, Sweets, Combo Gifts    Fresh Fruits, Dry Fruits, Cards, Addon Gifts, Gift Vouchers, All Occasion Gifts.    II Same Day Delivery Accepted till 5 PM IST || Crossed 5 PM IST? Call Now on +91 9836364260
+    Send Flowers, Cakes, Eggless Cakes, Chocolates, Sweets, Combo Gifts    Free Shipping Over 150 Cities, Door Step Delivery Services over 300 Cities Indiawide ||    || 100% Guaranteed Delivery ||    Fresh Fruits, Dry Fruits, Cards, Addon Gifts, Gift Vouchers, All Occasion Gifts.    II Same Day Delivery Accepted till 5 PM IST || Crossed 5 PM IST? Call Now on +91 9836364260
