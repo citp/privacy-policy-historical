@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyfreepsd.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621154627id_/http%3A//www.dailyfreepsd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyfreepsd.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819032139id_/http%3A//www.dailyfreepsd.com/privacy-policy) for the most accurate reproduction.*
 
 # » Privacy PolicyFree PSD,Vector,Icons,Graphics
 
@@ -31,10 +31,8 @@ The operators of this web site do not participate in the practice of spamming. S
 
 Contacting dailyfreepsd.com
 
-If you have any questions or concerns about this privacy statement or the practices of this web site, you can contact us:support@dailyfreepsd.com.
+If you have any questions or concerns about this privacy statement or the practices of this web site, you can contact us.
 
 _We reserve the right to change this policy at any time by notifying visitors of the existence of the new privacy policy._
 
-No tags for this post. 
-
-The design resources of this site are gathered by users and public sources on the internet. Not all of the resources are allowed for commercial use please contact the author for detail.If resources have violated your copyright, please contact us so that we can delete a timely manner to protect your copyright!
+The design resources of this site are gathered by users and public sources on the internet.Not all of the resources are allowed for commercial use please contact the author for detail.If resources have violated your copyright,please contact us so that we can delete a timely manner to protect your copyright.
