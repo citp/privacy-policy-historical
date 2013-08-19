@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the simplilearn.com privacy policy that was archived on 2013-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130128041555id_/http%3A//www.simplilearn.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplilearn.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819085627id_/http%3A//www.simplilearn.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | Simplilearn
+# Privacy Policy | Simplilearn
 
 **Overview**
 
-We take your privacy seriously and are committed to protect your right to privacy as a user of our website. We have made every effort to ensure your information is secure. This privacy policy information covers what information is collected, what we do with it, and what you can do about it. You can use this information to make your decisions about your privacy. 
+We take your privacy seriously and are committed to protect your right to privacy as a user of our website. We have made every effort to ensure your information is secure. This privacy policy information covers what information is collected, what we do with it, and what you can do about it. You can use this information to make your decisions about your privacy.
 
 **About us and the website**
 
@@ -36,7 +36,7 @@ In order to enhance your online experience and track website performance, our we
 
 **Ecommerce tracking**
 
-To provide superior online shopping experience, our shopping cart may use cookies to temporarily store name and email address. Cookies will never store credit card information as they're processed using Secure SSL using payment gateways. 
+To provide superior online shopping experience, our shopping cart may use cookies to temporarily store name and email address. Cookies will never store credit card information as they're processed using Secure SSL using payment gateways.
 
 **External Links**
 
@@ -50,9 +50,7 @@ Course content for all the study programs both online and blended programs, it i
 
 You can electronically copy or take print of the website pages, if it is being used for personal use only. Simplilearn holds the copyright to all thematerial on this website, unless otherwise indicated. A written permission of the copyright holder must be obtained for any use of this material other than for purposes permitted by law.
 
-**Personal Information Policy**
-
-**Image and Video Capture**
+**Personal Information Policy** **Image and Video Capture**
 
 Any images captured during events organized and hosted by Simplilearn should not be misused. That includes pictures of Simplilearn staff and training participants. If you enroll in a Simplilearn course your picture may also be featured in photos or videos of the Simplilearn classes.
 
@@ -60,11 +58,11 @@ Any images captured during events organized and hosted by Simplilearn should not
 
 If you have purchased a Simplilearn course, we may ask you for testimonial and if you authorize us, we will display your testimonial on our website, photos and videos or in our social media channels such as Facebook, YouTube or Flickr. You should be aware that your publicly identifiable information could be used to send you promotional, unsolicited messages. We are not responsible for your personal information which you have chosen to display.
 
-If you don't want us to feature your pictures/testimonials on our website or on our social media channels, you can write a mail to [ support@simplilearn.com](mailto:support@simplilearn.com)
+If you don't want us to feature your pictures/testimonials on our website or on our social media channels, you can write a mail to [ support@simplilearn.com ](mailto:support@simplilearn.com)
 
 **Personal Information Corrections**
 
-You can contact us if you notice that the information we are holding is incorrect or incomplete. Please send us a mail to [support@simplilearn.com ](mailto:support@simplilearn.com)
+You can contact us if you notice that the information we are holding is incorrect or incomplete. Please send us a mail to [support@simplilearn.com](mailto:support@simplilearn.com)
 
 **Changes to Privacy Policy**
 
@@ -72,11 +70,8 @@ This privacy policy terms may change time to time and we reserve the right to ch
 
 **Deleting Personal Information**
 
-If you would like to delete your account, write to [ support@simplilearn.com ](mailto:support@simplilearn.com)
+If you would like to delete your account, write to [support@simplilearn.com](mailto:support@simplilearn.com)
 
 **Privacy Policy Questions?**
 
-If you have any questions regarding Simplilearn Privacy Policy, Please write to [ support@simplilearn.com ](mailto:support@simplilearn.com)
-
-  
-
+If you have any questions regarding Simplilearn Privacy Policy, Please write to [support@simplilearn.com](mailto:support@simplilearn.com)
