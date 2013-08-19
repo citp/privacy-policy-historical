@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the textbroker.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621124629id_/http%3A//www.textbroker.com/us/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the textbroker.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819231820id_/http%3A//www.textbroker.com/us/privacy.php) for the most accurate reproduction.*
 
 # Unique content - Textbroker.com
 
