@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1tube.my privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529161454id_/http%3A//1tube.my/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1tube.my privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819170455id_/http%3A//www.1tube.my/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - 1tube.my
 
