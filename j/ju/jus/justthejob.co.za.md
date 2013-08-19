@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justthejob.co.za privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430204425id_/http%3A//justthejob.co.za/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justthejob.co.za privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820004354id_/http%3A//www.justthejob.co.za/privacy.php) for the most accurate reproduction.*
 
 # privacy policy
 
@@ -90,14 +90,8 @@ justthejob.co.za welcomes your comments regarding the Statement of Privacy. If y
 
 Email:                                    info@justthejob.co.za
 
-Postal Address:                      PO Box 1360, Jukskei Park, 2153
+Postal Address:                   66A stiglingh Road, Rivonia
 
-Physical Address:                  66A Stiglingh Road, Rivonia
+Physical Address:                 66A Stiglingh Road, Rivonia
 
-Telephone Number:                011 807 2233
-
-Fax Number:                           011 803 8920
-
-_This Privacy Statement is effective from ....._
-
-_This document was updated on ....._
+Telephone Number:              011 234 4190
