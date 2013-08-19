@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the customvideoplayer.net privacy policy that was archived on 2013-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130309090655id_/http%3A//www.customvideoplayer.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customvideoplayer.net privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819070950id_/http%3A//www.customvideoplayer.net/privacy) for the most accurate reproduction.*
 
 # Custom Video Player
 
