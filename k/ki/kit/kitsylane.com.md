@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kitsylane.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118000025id_/https%3A//www.kitsylane.com/about/privacy%3Freturn%3Dshopping) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kitsylane.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819194854id_/https%3A//www.kitsylane.com/about/privacy%3Freturn%3Dshopping) for the most accurate reproduction.*
 
 # Kitsy Lane
 
@@ -71,5 +71,7 @@ Our site may contain links to other sites for your convenience and information. 
 
 You may contact us regarding this Privacy Policy by any of the following methods:
 
-**MAIL:** Kitsy Lane, Inc., 2 Clock Tower Place, Suite 210, Maynard, MA 01754  
+**MAIL:** Kitsy Lane, Inc., 115 Kingston St, 3rd Floor, Boston, MA 02111  
 **EMAIL:** [legal@kitsylane.com](mailto:legal@kitsylane.com?subject=Kitsy%20Lane%20Terms%20of%20Use)
+
+If you would like to unsubscribe, please send email to: [unsubscribe@kitsylane.com](mailto:unsubscribe@kitsylane.com)
