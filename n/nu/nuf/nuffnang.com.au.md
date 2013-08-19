@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nuffnang.com.au privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509093319id_/http%3A//www.nuffnang.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuffnang.com.au privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819154205id_/http%3A//www.nuffnang.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Nuffnang Australia | Asia Pacific's First Blog Advertising Community » Privacy Policy
+# Nuffnang Australia | The World's Leading Blog Advertising Community » Privacy Policy
 
 Nuffnang Australia Pty Ltd (hereinafter referred as " **We** " or " **Us** " or " **Our** "), either itself or through its subsidiaries or licencees, provides online advertising sale and display services (" **Services** ") in electronic portals such as Nuffnang and ChurpChurp (" **Portals** "),for publishers(" **Publisher(s)** ").
 
