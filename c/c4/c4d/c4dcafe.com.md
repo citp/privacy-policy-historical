@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the c4dcafe.com privacy policy that was archived on 2013-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130413092306id_/http%3A//www.c4dcafe.com/ipb/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the c4dcafe.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819203836id_/http%3A//www.c4dcafe.com/ipb/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - C4D Cafe
 
-  
   
 
 
