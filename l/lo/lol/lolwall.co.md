@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lolwall.co privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515020639id_/http%3A//www.lolwall.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lolwall.co privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819153801id_/http%3A//www.lolwall.co/privacy) for the most accurate reproduction.*
 
 # Privacy policy - LOL Wall
 
