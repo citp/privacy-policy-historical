@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the rxpgonline.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511133618id_/http%3A//www.rxpgonline.com/docs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rxpgonline.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819094158id_/http%3A//www.rxpgonline.com/docs/privacy) for the most accurate reproduction.*
 
 # privacy [RxPG]
+
+Writing /home/jrxpgaco/public_html/rxpgonline/docs/data/cache/d/d8ee9044a46619995582567e57bad6bd.i failed
+
+Unable to save cache file. Hint: disk full; file permissions; safe_mode setting.
+
+Writing /home/jrxpgaco/public_html/rxpgonline/docs/data/cache/d/d8ee9044a46619995582567e57bad6bd.xhtml failed
 
 The following privacy policy applies to the usage of rxpgonline.com. The term “RxPG” used in this document refers to “RxPG Medical Solutions Private Limited, India” 
 
