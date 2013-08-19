@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netrider.net.au privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503175812id_/http%3A//www.netrider.net.au/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netrider.net.au privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819023803id_/http%3A//www.netrider.net.au/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Netrider - connecting riders!
 
