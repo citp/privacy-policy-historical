@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dsw.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501001957id_/http%3A//www.dsw.com/dsw_shoes/customer_service/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dsw.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819052909id_/http%3A//www.dsw.com/dsw_shoes/customer_service/privacy_policy.jsp) for the most accurate reproduction.*
 
 # dsw.com Privacy Policy
 
@@ -22,7 +22,7 @@ dsw.com gathers navigational information during each visitor’s use of our webs
 
 2\. Personal Information
 
-DSW may ask you to provide personal information when you establish or update a dsw.com account, sign up for the DSW Rewards program or manage your Rewards account, sign up for or manage your text alerts, place an in-store order, enter a contest, participate in a survey, shop online, check the status of an order or review order history, provide a review about our products, purchase and send a gift card or eGift Card, search for products on our site or provide information about your shoe preferences.
+DSW may ask you to provide personal information when you establish or update a dsw.com account, sign up for the DSW Rewards program or manage your Rewards account, create a wish list, sign up for or manage your text alerts, place an in-store order, enter a contest or sweepstakes, participate in a survey, shop online, check the status of an order or review order history, provide a review about our products, purchase and send a gift card or eGift Card, search for products on our site or provide information about your shoe preferences.
 
 Categories of information collected include name, address, email address, recipient’s name and email address, DSW Rewards number (which can be associated with the personal information you provided when you signed up for DSW Rewards or when you update the account), order information, telephone number, credit card information, birth month and day, your review of our products, saved searches, preferred brands, messages or reminders you create. 
 
@@ -44,14 +44,14 @@ DSW uses the personal information we collect from you in stores or online at dsw
 
 If you create or modify a dsw.com account you may save personal information in that account, such as name, shipping and billing addresses, and credit card information, and we will access this saved information to make your shopping quicker and easier. We also require you to create and/or access your account to use various services on the website, including creating a product review. Because you must create or access your dsw.com account prior to creating a review, it is possible that we could associate you with the review you provide. Information you include in a product review may be used by us to enhance and personalize our product offerings to you.
 
-If at any time you would like to stop future delivery of promotional email (including DSW Rewards), please follow the removal instructions located at the bottom of each message. Asking us to stop delivery of future promotional email will not prevent you from receiving email communications relating to any online order you place at dsw.com, requests to participate in surveys about our products  other operational email communications or emails forwarded to you by a friend that tell you about our products.
+If at any time you would like to stop future delivery of promotional email (including DSW Rewards and wish list), please follow the removal instructions located at the bottom of each message. Asking us to stop delivery of future promotional email will not prevent you from receiving email communications relating to any online order you place at dsw.com, requests to participate in surveys about our products  other operational email communications or emails forwarded to you by a friend that tell you about our products.
 
   
 
 
 We use third parties to help us provide services to you such as fulfilling orders, processing payments, monitoring online activity at dsw.com, conducting surveys, maintaining our database, taking and processing gift card and eGift Card orders, administering emails, and administering drawings or contests. Third parties also provide aggregate, comparative information on the performance of our site to us and a select group.
 
-If, after making a purchase at dsw.com, you choose to participate in a survey or review you will be providing it to a third party whom we use to process the product reviews. Product reviews that comply with the review rules noted may be published on this website, and some may be published through other communciation channels, including, but not limited to emails, television and catalogs. Published reviews may identify the author’s review nickname and location or designate the reviewer as a Rewards member or rate the reviewer. 
+If, after making a purchase at dsw.com, you choose to participate in a survey or review you will be providing it to a third party whom we use to process the product reviews. Product reviews that comply with the review rules noted may be published on this website, and some may be published through other communication channels, including, but not limited to emails, television and catalogs. Published reviews may identify the author’s review nickname and location or designate the reviewer as a Rewards member or rate the reviewer. 
 
 If you make a purchase on our website, create or modify an account, sign up for DSW Rewards or modify your Rewards account after 4/7/2008, your name, mailing address, phone number or purchase information may be made available to other companies who may provide you with information about their products or services. 
 
@@ -103,7 +103,7 @@ While we implement the above security measures on this site, you should be aware
 **NOTICE TO CALIFORNIA RESIDENTS - YOUR CALIFORNIA PRIVACY RIGHTS** DSW, Inc. collects various types of personal information about you both online (at dsw.com) and offline during the course of our customer relationship. Under California law, if you are a resident of California, you may make a written request to DSW, Inc. to request how we have shared your information with third parties for their direct marketing purposes. In response to your written request, DSW, Inc. is allowed to provide you with a notice describing the cost-free means to opt-out of our sharing your information with third parties with whom we do not share the same brand name, if the third party will use it for their direct marketing purposes. 
 
 DSW, Inc. has chosen to provide you with a cost-free means to opt-out of such sharing, which you can accomplish by completing our Third Party Direct Marketing Opt-Out Form. If you would like to instruct us to no longer share your personal information with third parties who will use it for direct marketing purposes, please click on the following link:  
-[California Rights Form](https://web.archive.org/web/20130501001957id_/http%3A//www.dsw.com/dsw_shoes/customer_service/california_privacy.pdf), print and complete the Third Party Direct Marketing Opt-Out Form and mail it to the following address: 
+[California Rights Form](https://web.archive.org/web/20130819052909id_/http%3A//www.dsw.com/dsw_shoes/customer_service/california_privacy.pdf), print and complete the Third Party Direct Marketing Opt-Out Form and mail it to the following address: 
 
 **POSTAL ADDRESS:**  
 DSW Inc.  
@@ -123,7 +123,7 @@ Attn: Legal Dept
 810 DSW Drive  
 Columbus, OH 43219
 
-This Privacy Statement was last revised February 13, 2013.
+This Privacy Statement was last revised May 21, 2013.
 
   
 
