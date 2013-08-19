@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetrecruit.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510015055id_/http%3A//www.planetrecruit.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetrecruit.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819152301id_/http%3A//www.planetrecruit.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # PlanetRecruit - Privacy Policy
 
@@ -70,13 +70,3 @@ If you have any questions, concerns or comments regarding PlanetRecruit or this 
   3. Tel: 0207 348 5010
 
 
-
-## Use another account What does this mean?
-
-If you already have a login with any of these services, you can use it on PlanetRecruit.
-
-Please enter a personal, not work, email address.
-
-Thanks for registering.
-
-This email address was used to apply for a role without registering on the site. To confirm it is your email account we have sent you an email. Please click on the link in the email when you receive it. 
