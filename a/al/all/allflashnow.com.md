@@ -1,38 +1,56 @@
-> *The following text is extracted and transformed from the allflashnow.com privacy policy that was archived on 2010-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100410135701id_/http%3A//www.allflashnow.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allflashnow.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819131700id_/http%3A//www.allflashnow.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: AllFlashNow
 
 |   
 ---  
-  
-|   
+|  |   
 ---  
+  
+Click on 'Add to favorites' button below a game to add it to your favorite games list.  
+  
+[](http://blog.allflashnow.com/)  
 | 
 
-|   
+[](http://blog.allflashnow.com/Dressup+Games.html)
+
+_For Passionate Stylists and Fashionistas!_
+
+Dress-up games offer you an opportunity to try yourself as a talented and creative stylist, dressing up practically whoever she wants to - from an average 'girl next door' to a model, celebrity or even a cartoon character.  
+  
 ---  
-Games played today: [**14020**](http://www.allflashnow.com/games-played-today.html)  
+  
+[](http://blog.allflashnow.com/Cooking+Games.html)
+
+_Become A Cooking Professional With Online Games!_
+
+Cooking food online is both interesting and useful: the young ladies are able to learn lots of new recipes, try being experienced cooks, cafeteria owners and attentive waiters.  
+  
+[](http://blog.allflashnow.com/Ben+10.html)
+
+_The Games About A Superhero Kid_
+
+There are many popular flash games about Ben 10, but some of us can hardly remember the origin of this superhero kid - so let us remember who he is!  
+  
+[](http://blog.allflashnow.com/Sonic+the+Hedgehog.html)
+
+_The New Games About The Old Hero_
+
+What do we know about Sonic the hedgehog, where did he get his name from, why is he of a blue colour? Read on to know more!  
+  
+[](http://blog.allflashnow.com/Naruto+games.html)
+
+_Enjoy Games With Your Favourite Anime Character_
+
+Play various computer games to learn more about one of the world's most favourited anime characters - Naruto!  
+  
+• [More Flash Games Reviews](http://blog.allflashnow.com/)  
+  
+---  
+Games played today: [**2162**](http://www.allflashnow.com/games-played-today.html)  
 |  | 
 
-[](http://www.allflashnow.com/online_games/play/GTA+Vice+City+Jigsaw.html)
-
-| 
-
-A funny colorful jigsaw puzzle with Tommy Vercetti from the computer game GTA Vice City. Drag and dr...  
-  
----|---  
-| 
-
-[](http://www.allflashnow.com/online_games/play/GTA+San+Andreas+Jigsaw.html)
-
-| 
-
-New jigsaw puzzle with 91 colorful pieces of a picture from the famous PC game GTA San Andreas. Drag...  
-  
----|---  
-| 
-
-[](http://www.allflashnow.com/online_games/play/GTA+3.html)
+[ ](http://www.allflashnow.com/online_games/play/GTA+3.html)
 
 | 
 
@@ -41,7 +59,25 @@ New jigsaw puzzle with 56 colorful pieces of a picture from the famous PC game G
 ---|---  
 | 
 
-[](http://www.allflashnow.com/online_games/play/GTA+San+Andreas+Jigsaw+2.html)
+[ ](http://www.allflashnow.com/online_games/play/GTA+San+Andreas+Jigsaw.html)
+
+| 
+
+New jigsaw puzzle with 91 colorful pieces of a picture from the famous PC game GTA San Andreas. Drag...  
+  
+---|---  
+| 
+
+[ ](http://www.allflashnow.com/online_games/play/GTA+IV+Online.html)
+
+| 
+
+After super successful games GTA Vice City and GTA San Adreas here comes GTA IV or GTA 4. Drag and d...  
+  
+---|---  
+| 
+
+[ ](http://www.allflashnow.com/online_games/play/GTA+San+Andreas+Jigsaw+2.html)
 
 | 
 
@@ -50,62 +86,59 @@ New installment of the GTA San Andreas jigsaw series. In this game you have to d
 ---|---  
 | 
 
-[](http://www.allflashnow.com/online_games/play/GTA+Gangster+Life.html)
+[ ](http://www.allflashnow.com/online_games/play/GTA+Vice+City+Jigsaw+2.html)
+
+| 
+
+Jigsaw puzzle fun with 49 pieces of a scene from GTA Vice City. Drag and drop the pieces to fit them...  
+  
+---|---  
+| 
+
+[ ](http://www.allflashnow.com/online_games/play/GTA+Vice+City+Jigsaw.html)
+
+| 
+
+A funny colorful jigsaw puzzle with Tommy Vercetti from the computer game GTA Vice City. Drag and dr...  
+  
+---|---  
+| 
+
+[ ](http://www.allflashnow.com/online_games/play/Zuma.html)
+
+| 
+
+Match the balls and get rid of them before they reach the center of the circle.  
+  
+---|---  
+| 
+
+[ ](http://www.allflashnow.com/online_games/play/Dinosaur+Bike+Stunt.html)
+
+| 
+
+Use your driving skills to help the little dinosaur to overcome very difficult track. Collect the s...  
+  
+---|---  
+| 
+
+[ ](http://www.allflashnow.com/online_games/play/Beach+Kiss.html)
+
+| 
+
+You and your girlfriend are trying to kiss on beach without getting noticed by other people. Hold do...  
+  
+---|---  
+| 
+
+[ ](http://www.allflashnow.com/online_games/play/GTA+Gangster+Life.html)
 
 | 
 
 GTA-inspired flash online game where you can be one of the bad guys and rule the streets.  
   
 ---|---  
-|  | 
-
-[](http://www.fullpcgames.eu/full_pc_games/view/Super+Mario+Bros%3A+Shine+Pursuit-2102-8206ab.html)
-
-| 
-
-Cool Super Mario platform game where you have to collect shines. The game includes many fun & challe...  
   
----|---  
-| 
-
-[](http://www.fullpcgames.eu/full_pc_games/view/Luigi%27s+Big+Adventure-2101-d77429.html)
-
-| 
-
-Luigi's Big Adventure is nice small game with Mario's best friend, Luigi. The game includes 6 levels...  
-  
----|---  
-| 
-
-[](http://www.fullpcgames.eu/full_pc_games/view/SUAVE%3A+Sport-Utility+Assault+Vehicle+Extreme-2100-c58e62.html)
-
-| 
-
-S.U.A.V.E. is cool and addictive 3D tank shooting game with a map editor. The game has fast and inte...  
-  
----|---  
-| 
-
-[](http://www.fullpcgames.eu/full_pc_games/view/Verlet+Viper-2099-e131d9.html)
-
-| 
-
-Verlet Viper is a simple driving simulator game created for experimental purposes using Blitz3D. The...  
-  
----|---  
-| 
-
-[](http://www.fullpcgames.eu/full_pc_games/view/Ultimate+Mortal+Kombat+3-2098-8825a9.html)
-
-| 
-
-The fight for control of the Earth continues in Ultimate Mortal Kombat 3. There are many worlds besi...  
-  
----|---  
-• [More Full PC Games](http://www.fullpcgames.eu/)  
-  
-| 
-
 | 
 
 |   
@@ -116,19 +149,4 @@ We use third-party advertising companies to serve ads when you visit our website
 • Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
 • Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
-We supply free online browser based games for free. The games on this website are property of their respective owners. If we are hosting one of your games and you wish to have it removed please [contact us](https://web.archive.org/web/20100410135701id_/http%3A//www.allflashnow.com/contactus.php) and we will remove it.   
-  
-| Welcome to allflashnow.com - your source for [**new online games**](http://www.allflashnow.com/ "new online games") We [**play online games**](http://www.allflashnow.com/ "new online games") as much as you and we are trying to choose the [**best online games**](http://www.allflashnow.com/ "best online games") for you to play online now. Choose your game and play it for free instantly - you don't need to download anything to play it. |  |   
----|---|---  
-| [](http://www.allflashnow.com/ogames1/Iron+Man+Fight.html)  
-[Iron Man Fight](http://www.allflashnow.com/ogames1/Iron+Man+Fight.html "Play Iron Man Fight now") |  | [](http://www.allflashnow.com/ogames1/Super+Sonic.html)  
-[Super Sonic](http://www.allflashnow.com/ogames1/Super+Sonic.html "Play Super Sonic now") |  | [](http://www.allflashnow.com/ogames1/Robo+Slug+2.html)  
-[Robo Slug 2](http://www.allflashnow.com/ogames1/Robo+Slug+2.html "Play Robo Slug 2 now") |  | [](http://www.allflashnow.com/ogames1/Mario+Racing+Tournament.html)  
-[Mario Racing Tournament](http://www.allflashnow.com/ogames1/Mario+Racing+Tournament.html "Play Mario Racing Tournament now") |  | [](http://www.allflashnow.com/ogames1/Sonic+in+Mario+World+2.html)  
-[Sonic in Mario World 2](http://www.allflashnow.com/ogames1/Sonic+in+Mario+World+2.html "Play Sonic in Mario World 2 now") |  | [](http://www.allflashnow.com/ogames1/Peach%27s+Pitch.html)  
-[Peach's Pitch](http://www.allflashnow.com/ogames1/Peach%27s+Pitch.html "Play Peach's Pitch now") |  | [](http://www.allflashnow.com/ogames1/Death+Row.html)  
-[Death Row](http://www.allflashnow.com/ogames1/Death+Row.html "Play Death Row now") |  | [](http://www.allflashnow.com/ogames1/Beautiful+Dresses.html)  
-[Beautiful Dresses](http://www.allflashnow.com/ogames1/Beautiful+Dresses.html "Play Beautiful Dresses now") |  | [](http://www.allflashnow.com/ogames1/Blitzkreig.html)  
-[Blitzkreig](http://www.allflashnow.com/ogames1/Blitzkreig.html "Play Blitzkreig now") |  | [](http://www.allflashnow.com/ogames1/Mario+Jump.html)  
-[Mario Jump](http://www.allflashnow.com/ogames1/Mario+Jump.html "Play Mario Jump now") |   
----|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---
+We supply free online browser based games for free. The games on this website are property of their respective owners. If we are hosting one of your games and you wish to have it removed please [contact us](http://www.allflashnow.com/contact-us.html) and we will remove it. 
