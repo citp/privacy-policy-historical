@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tutoringhut.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619132251id_/http%3A//www.tutoringhut.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutoringhut.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820005617id_/http%3A//www.tutoringhut.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Tutoring Hut - Privacy Policy
 
