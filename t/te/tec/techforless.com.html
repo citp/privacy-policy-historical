@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the techforless.com privacy policy that was archived on 2013-05-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130529210604id_/http%3A//www.techforless.com/cgi-bin/tech4less/privacy_new) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the techforless.com privacy policy that was archived on 2013-08-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130819035123id_/http%3A//www.techforless.com/cgi-bin/tech4less/privacy_new) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head><title>Our Policy in Summary - Tech for Less</title>
 <meta name="Description" content="Cheap prices &amp;  great deals on refurbished or new computers, laptops, monitors, electronics &amp; more since 2001. Satisfaction Guaranteed . Buy from one of the Web's highest rated sites for customer service.">
@@ -9,20 +9,6 @@
 
 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-
-
-<!-- ---------start ROIRevolution code--------- -->
-<script type="text/javascript" async="" src="https://px.owneriq.net/stas/s/cxw6dx.js"></script><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/gtmp_compiled.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
-(function(d) {
-       var h = ('https:' == d.location.protocol ?
-'https://c15174487.ssl.cf2.rackcdn.com/gascript.js' :
-'http://c15174487.r87.cf2.rackcdn.com/gascript.js');
-       d.write(unescape("%3Cscript src='" + h + "' type='text/javascript'%3E%3C/script%3E"));
-})(document);
-</script><script src="https://c15174487.ssl.cf2.rackcdn.com/gascript.js" type="text/javascript"></script>
-<!-- -------end ------------ -->
-
-
 
 <link rel="stylesheet" href="/css/jquery-ui-1.8.24.custom.css" type="text/css">
 
@@ -35,13 +21,13 @@
 
 
 
-<link href="/css/tfl_common.css?nc=23" rel="stylesheet" type="text/css">
+<link href="/css/tfl_common.css?nc=22" rel="stylesheet" type="text/css">
 <link href="/css/tfl_subcopy.css" rel="stylesheet" type="text/css">
 
 
 
 
-<script type="text/javascript">
+<script type="text/javascript" async="" src="https://px.owneriq.net/stas/s/cxw6dx.js"></script><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/gtmp_compiled.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 
 function ccid(num,cat,session_id) {
 	url = 'http://www.techforless.com/cgi-bin/definitions2.cgi?ccid=' + num + '&cat=' + cat + ( session_id == undefined ? '' : '&session_id=' + session_id );
@@ -174,8 +160,13 @@ function doTooltip(evt,imgId,folder,adtext) {
 	}
 	tipOn = true;
 	if (ie4||ie5||ns5) {
-		var tip = startStr + "http://www.techforless.com/" + folder + "/" + imgId + ".JPG" + midStr;
-		var tip = tip + '&nbsp;&nbsp;<br><br><font color="red" size="3">' + adtext + '</font>';
+		if(isNaN(imgId)) {
+			var tip = startStr + imgId + midStr;
+		}
+		else {
+			var tip = startStr + "http://www.techforless.com/" + folder + "/" + imgId + ".JPG" + midStr;
+		}
+		tip = tip + '&nbsp;&nbsp;<br><br><font color="red" size="3">' + adtext + '</font>';
 		// alert('setting tip to: ' + tip);
 	 	tooltip.innerHTML = tip;
 	}
@@ -287,7 +278,7 @@ document.write('<div id="tipDiv" style="position:absolute; visibility:hidden; z-
 }
 </style>
 
-<script type="text/javascript" src="/jquery/jquery-1.7.2.min.js?nc=23"></script>
+<script type="text/javascript" src="/jquery/jquery-1.7.2.min.js?nc=22"></script>
 <script type="text/javascript" src="/jquery/jquery-ui-1.8.24.custom.min.js"></script>
 
 
@@ -405,7 +396,7 @@ function emptyonclick_dls(srchelement) {
 
 
 
-var _dealSeconds=60537;
+var _dealSeconds=36217;
 
 function pad2(number) {	   
 	 return (number < 10 ? '0' : '') + number	   
@@ -574,11 +565,15 @@ _gaq.push(['_trackPageview', '/cgi-bin/tech4less/privacy_new?visitor=new']);
 			</div>
 			<div id="tabnav">
 			<ul>
-				<li><a href="http://www.techforless.com/cgi-bin/tech4less/volume_buying"><span style="color: black">Volume Buying</span></a></li>
-				<li><a href="http://www.techforless.com/cgi-bin/tech4less/specials_page"><span style="color: black">Specials</span></a></li>
-				<li><a href="http://www.techforless.com/cgi-bin/tech4less/brand_cats"><span>Shop By Brand</span></a></li>
-				<li id="current"><a href="http://www.techforless.com/cgi-bin/tech4less/process?mv_doit=return&amp;mv_nextpage=index&amp;top_tab_nav=most_popular"><span>Most Popular</span></a></li>
-			</ul>
+	
+	<li><div style="float:right; position:relative;"><a style="text-align:left;" href="http://www.techforless.com/cgi-bin/tech4less/specials_page"><div style="position:absolute; top:3px;overflow:hidden"><img src="/newimages/backtoschooltab.gif"></div></a></div></li>
+	<li><a href="http://www.techforless.com/cgi-bin/tech4less/specials_page"><span>&nbsp;</span></a></li>
+
+	<li><a href="http://www.techforless.com/cgi-bin/tech4less/volume_buying"><span style="color: black">Volume Buying</span></a></li>
+
+	<li><a href="http://www.techforless.com/cgi-bin/tech4less/brand_cats"><span>Shop By Brand</span></a></li>
+	<li id="current"><a href="http://www.techforless.com/cgi-bin/tech4less/process?mv_doit=return&amp;mv_nextpage=index&amp;top_tab_nav=most_popular"><span>Most Popular</span></a></li>
+</ul>
 			</div>
 		</div>
 		<div id="blubarnav">
@@ -586,20 +581,25 @@ _gaq.push(['_trackPageview', '/cgi-bin/tech4less/privacy_new?visitor=new']);
 
 				<li class="multicol allcat">
 					<a href="http://www.techforless.com/cgi-bin/tech4less/allcat"><b>All Categories</b></a>
-					<ul class="col1">
+					<ul class="col1" style="height: 480px;">
 						
 						
 						
-							<li><a href="http://www.techforless.com/category/Audio-Components-NA.html">Audio Components</a>
+							<li><a href="http://www.techforless.com/category/Apparel-PR.html">Apparel</a>
+							<ul>
+							<li><a href="http://www.techforless.com/category/Costumes-PR.AB.html">Costumes</a></li>
+						
+							<li><a href="http://www.techforless.com/category/Miscellaneous-PR.HX.html">Miscellaneous</a></li>
+						
+							</ul></li>
 
+							<li><a href="http://www.techforless.com/category/Audio-Components-NA.html">Audio Components</a>
 							<ul>
 							<li><a href="http://www.techforless.com/category/Audio-Accessories-NA.PP.html">Audio Accessories</a></li>
 						
 							<li><a href="http://www.techforless.com/category/Audio-Cables-NA.PA.html">Audio Cables</a></li>
 						
 							<li><a href="http://www.techforless.com/category/Audio-Media-Storage-NA.QP.html">Audio Media &amp; Storage</a></li>
-						
-							<li><a href="http://www.techforless.com/category/CD-Players-NA.PD.html">CD Players</a></li>
 						
 							<li><a href="http://www.techforless.com/category/Furniture-NA.FN.html">Furniture</a></li>
 						
@@ -619,8 +619,41 @@ _gaq.push(['_trackPageview', '/cgi-bin/tech4less/privacy_new?visitor=new']);
 						
 							</ul></li>
 
-							<li><a href="http://www.techforless.com/category/Blank-Media-AB.html">Blank Media</a>
+							<li><a href="http://www.techforless.com/category/Automotive-AZ.html">Automotive</a>
+							<ul>
+							<li><a href="http://www.techforless.com/category/Accessories-AZ.AA.html">Accessories</a></li>
+						
+							<li><a href="http://www.techforless.com/category/Performace-Parts-AZ.IH.html">Performace Parts</a></li>
+						
+							<li><a href="http://www.techforless.com/category/Powersports-Marine-Rv-AZ.MR.html">Powersports - Marine - Rv</a></li>
+						
+							<li><a href="http://www.techforless.com/category/Replacement-Parts-AZ.IJ.html">Replacement Parts</a></li>
+						
+							</ul></li>
 
+							<li><a href="http://www.techforless.com/category/Baby-BB.html">Baby</a>
+							<ul>
+							<li><a href="http://www.techforless.com/category/Activity-Gear-BB.AG.html">Activity - Gear</a></li>
+						
+							<li><a href="http://www.techforless.com/category/Care-Safety-BB.CY.html">Care - Safety</a></li>
+						
+							<li><a href="http://www.techforless.com/category/Furniture-BB.FN.html">Furniture</a></li>
+						
+							<li><a href="http://www.techforless.com/category/Toys-BB.TY.html">Toys</a></li>
+						
+							</ul></li>
+
+							<li><a href="http://www.techforless.com/category/Beauty-BT.html">Beauty</a>
+							<ul>
+							<li><a href="http://www.techforless.com/category/Appliances-BT.AO.html">Appliances</a></li>
+						
+							<li><a href="http://www.techforless.com/category/Haircare-BT.GN.html">Haircare</a></li>
+						
+							<li><a href="http://www.techforless.com/category/Healthwelness-Medical-BT.HM.html">Healthwelness - Medical</a></li>
+						
+							</ul></li>
+
+							<li><a href="http://www.techforless.com/category/Blank-Media-AB.html">Blank Media</a>
 							<ul>
 							<li><a href="http://www.techforless.com/category/Blu-Ray-R-RE-AB.BR.html">Blu-Ray/-R/-RE</a></li>
 						
@@ -637,7 +670,6 @@ _gaq.push(['_trackPageview', '/cgi-bin/tech4less/privacy_new?visitor=new']);
 							</ul></li>
 
 							<li><a href="http://www.techforless.com/category/Books-Movies-AC.html">Books &amp; Movies</a>
-
 							<ul>
 							<li><a href="http://www.techforless.com/category/Blue-Ray-DVD-AC.MB.html">Blue-Ray DVD</a></li>
 						
@@ -650,7 +682,6 @@ _gaq.push(['_trackPageview', '/cgi-bin/tech4less/privacy_new?visitor=new']);
 							</ul></li>
 
 							<li><a href="http://www.techforless.com/category/Cables-Connectors-AD.html">Cables &amp; Connectors</a>
-
 							<ul>
 							<li><a href="http://www.techforless.com/category/Coax-Cables-AD.CX.html">Coax Cables</a></li>
 						
@@ -697,24 +728,24 @@ _gaq.push(['_trackPageview', '/cgi-bin/tech4less/privacy_new?visitor=new']);
 							</ul></li>
 
 							<li><a href="http://www.techforless.com/category/Camcorders-OO.html">Camcorders</a>
-
 							<ul>
+							<li><a href="http://www.techforless.com/category/8mm-Hi-8-Camcorders-OO.RE.html">8mm/Hi-8 Camcorders</a></li>
+						
 							<li><a href="http://www.techforless.com/category/Camcorder-Accessories-OO.RH.html">Camcorder Accessories</a></li>
 						
 							<li><a href="http://www.techforless.com/category/Camcorder-Batteries-OO.RG.html">Camcorder Batteries</a></li>
 						
+							<li><a href="http://www.techforless.com/category/DVD-Camcorders-OO.RC.html">DVD Camcorders</a></li>
+						
+							<li><a href="http://www.techforless.com/category/Flash-Memory-OO.FM.html">Flash Memory</a></li>
+						
 							<li><a href="http://www.techforless.com/category/Hard-Drive-Camcorders-OO.RD.html">Hard Drive Camcorders</a></li>
 						
-							<li><a href="http://www.techforless.com/category/MicroMV-Camcorders-OO.RA.html">MicroMV Camcorders</a></li>
-						
 							<li><a href="http://www.techforless.com/category/Mini-DV-Camcorders-OO.RB.html">Mini DV Camcorders</a></li>
-						
-							<li><a href="http://www.techforless.com/category/Other-OO.GK.html">Other</a></li>
 						
 							</ul></li>
 
 							<li><a href="http://www.techforless.com/category/Cameras-AE.html">Cameras</a>
-
 							<ul>
 							<li><a href="http://www.techforless.com/category/35mm-SLR-Cameras-AE.QQ.html">35mm &amp; SLR Cameras</a></li>
 						
@@ -723,6 +754,8 @@ _gaq.push(['_trackPageview', '/cgi-bin/tech4less/privacy_new?visitor=new']);
 							<li><a href="http://www.techforless.com/category/Digital-Cameras-AE.QT.html">Digital Cameras</a></li>
 						
 							<li><a href="http://www.techforless.com/category/Digital-Picture-Frames-AE.DF.html">Digital Picture Frames</a></li>
+						
+							<li><a href="http://www.techforless.com/category/Instant-Cameras-AE.QU.html">Instant Cameras</a></li>
 						
 							<li><a href="http://www.techforless.com/category/Specialty-Cameras-AE.QX.html">Specialty Cameras</a></li>
 						
@@ -733,13 +766,14 @@ _gaq.push(['_trackPageview', '/cgi-bin/tech4less/privacy_new?visitor=new']);
 							</ul></li>
 
 							<li><a href="http://www.techforless.com/category/Car-Audio-Video-CA.html">Car Audio &amp; Video</a>
-
 							<ul>
 							<li><a href="http://www.techforless.com/category/Amplifiers-CA.TE.html">Amplifiers</a></li>
 						
 							<li><a href="http://www.techforless.com/category/Automotive-Security-CA.TL.html">Automotive Security</a></li>
 						
 							<li><a href="http://www.techforless.com/category/Car-Audio-Accessories-CA.TJ.html">Car Audio Accessories</a></li>
+						
+							<li><a href="http://www.techforless.com/category/Car-Lighting-CA.TM.html">Car Lighting</a></li>
 						
 							<li><a href="http://www.techforless.com/category/Car-Speakers-CA.TG.html">Car Speakers</a></li>
 						
@@ -751,10 +785,11 @@ _gaq.push(['_trackPageview', '/cgi-bin/tech4less/privacy_new?visitor=new']);
 						
 							<li><a href="http://www.techforless.com/category/Radar-Detectors-CA.TK.html">Radar Detectors</a></li>
 						
+							<li><a href="http://www.techforless.com/category/Satellite-Tuners-and-Accessories-CA.TI.html">Satellite Tuners and Accessories</a></li>
+						
 							</ul></li>
 
 							<li><a href="http://www.techforless.com/cgi-bin/tech4less/cell_phones">Cell Phones</a>
-
 							<ul>
 							<li><a href="http://www.techforless.com/category/AT-T-Cingular-Wireless-CL.BC.html">AT&amp;T/Cingular Wireless</a></li>
 						
@@ -766,6 +801,8 @@ _gaq.push(['_trackPageview', '/cgi-bin/tech4less/privacy_new?visitor=new']);
 						
 							<li><a href="http://www.techforless.com/category/T-Mobile-CL.BI.html">T-Mobile</a></li>
 						
+							<li><a href="http://www.techforless.com/category/TracFone-CL.BJ.html">TracFone</a></li>
+						
 							<li><a href="http://www.techforless.com/category/Unlocked-CL.BL.html">Unlocked</a></li>
 						
 							<li><a href="http://www.techforless.com/category/Verizon-Wireless-CL.BM.html">Verizon Wireless</a></li>
@@ -775,7 +812,6 @@ _gaq.push(['_trackPageview', '/cgi-bin/tech4less/privacy_new?visitor=new']);
 							</ul></li>
 
 							<li><a href="http://www.techforless.com/category/Components-AG.html">Components</a>
-
 							<ul>
 							<li><a href="http://www.techforless.com/category/Chassis-AG.GV.html">Chassis</a></li>
 						
@@ -789,10 +825,8 @@ _gaq.push(['_trackPageview', '/cgi-bin/tech4less/privacy_new?visitor=new']);
 						
 							<li><a href="http://www.techforless.com/category/Power-Supplies-AG.GW.html">Power Supplies</a></li>
 						
-							</ul></li>
-
+						</ul></li></ul><ul class="col2" style="height: 480px;">
 							<li><a href="http://www.techforless.com/category/Computers-AH.html">Computers</a>
-
 							<ul>
 							<li><a href="http://www.techforless.com/category/Accessories-AH.AA.html">Accessories</a></li>
 						
@@ -809,7 +843,6 @@ _gaq.push(['_trackPageview', '/cgi-bin/tech4less/privacy_new?visitor=new']);
 							</ul></li>
 
 							<li><a href="http://www.techforless.com/category/Drives-Storage-AI.html">Drives &amp; Storage</a>
-
 							<ul>
 							<li><a href="http://www.techforless.com/category/ATA-SATA-Storage-Controllers-AI.JJ.html">ATA / SATA Storage Controllers</a></li>
 						
@@ -828,8 +861,6 @@ _gaq.push(['_trackPageview', '/cgi-bin/tech4less/privacy_new?visitor=new']);
 							<li><a href="http://www.techforless.com/category/Flash-ROM-Cards-AI.EO.html">Flash / ROM Cards</a></li>
 						
 							<li><a href="http://www.techforless.com/category/Flash-ROM-Readers-AI.EI.html">Flash / ROM Readers</a></li>
-						
-							<li><a href="http://www.techforless.com/category/Floppy-ZIP-Drives-AI.EC.html">Floppy &amp; ZIP Drives</a></li>
 						
 							<li><a href="http://www.techforless.com/category/I-O-Cards-AI.CH.html">I/O Cards</a></li>
 						
@@ -858,7 +889,6 @@ _gaq.push(['_trackPageview', '/cgi-bin/tech4less/privacy_new?visitor=new']);
 							</ul></li>
 
 							<li><a href="http://www.techforless.com/category/Electronics-EA.html">Electronics</a>
-
 							<ul>
 							<li><a href="http://www.techforless.com/category/Antennas-EA.SA.html">Antennas</a></li>
 						
@@ -893,15 +923,52 @@ _gaq.push(['_trackPageview', '/cgi-bin/tech4less/privacy_new?visitor=new']);
 							</ul></li>
 
 							<li><a href="http://www.techforless.com/category/Handhelds-AJ.html">Handhelds</a>
-
 							<ul>
 							<li><a href="http://www.techforless.com/category/Accessories-AJ.AA.html">Accessories</a></li>
 						
 							<li><a href="http://www.techforless.com/category/Handhelds-PDAs-AJ.AJ.html">Handhelds / PDAs</a></li>
 						
-						</ul></li></ul><ul class="col2">
-							<li><a href="http://www.techforless.com/category/Input-Devices-AK.html">Input Devices</a>
+							</ul></li>
 
+							<li><a href="http://www.techforless.com/category/Home-Improvement-HI.html">Home Improvement</a>
+							<ul>
+							<li><a href="http://www.techforless.com/category/Electrical-Heating-HI.DD.html">Electrical - Heating</a></li>
+						
+							<li><a href="http://www.techforless.com/category/Hardware-HI.GY.html">Hardware</a></li>
+						
+							<li><a href="http://www.techforless.com/category/Plumbing-HI.HV.html">Plumbing</a></li>
+						
+							<li><a href="http://www.techforless.com/category/Power-Tools-HI.YA.html">Power Tools</a></li>
+						
+							<li><a href="http://www.techforless.com/category/Security-HI.IG.html">Security</a></li>
+						
+							</ul></li>
+
+							<li><a href="http://www.techforless.com/category/Household-HH.html">Household</a>
+							<ul>
+							<li><a href="http://www.techforless.com/category/Bedding-HH.BW.html">Bedding</a></li>
+						
+							<li><a href="http://www.techforless.com/category/Enviornmental-HH.DE.html">Enviornmental</a></li>
+						
+							<li><a href="http://www.techforless.com/category/Furniture-HH.FN.html">Furniture</a></li>
+						
+							<li><a href="http://www.techforless.com/category/Kitchen-HH.HJ.html">Kitchen</a></li>
+						
+							<li><a href="http://www.techforless.com/category/Laundry-HH.LD.html">Laundry</a></li>
+						
+							<li><a href="http://www.techforless.com/category/Miscellaneous-HH.HX.html">Miscellaneous</a></li>
+						
+							<li><a href="http://www.techforless.com/category/Stands-Mounts-Storage-HH.RQ.html">Stands, Mounts &amp; Storage</a></li>
+						
+							</ul></li>
+
+							<li><a href="http://www.techforless.com/category/Industrial-ID.html">Industrial</a>
+							<ul>
+							<li><a href="http://www.techforless.com/category/Miscellaneous-ID.HX.html">Miscellaneous</a></li>
+						
+							</ul></li>
+
+							<li><a href="http://www.techforless.com/category/Input-Devices-AK.html">Input Devices</a>
 							<ul>
 							<li><a href="http://www.techforless.com/category/Digitizer-Tablets-AK.DW.html">Digitizer / Tablets</a></li>
 						
@@ -916,11 +983,8 @@ _gaq.push(['_trackPageview', '/cgi-bin/tech4less/privacy_new?visitor=new']);
 							</ul></li>
 
 							<li><a href="http://www.techforless.com/category/Laptops-AL.html">Laptops</a>
-
 							<ul>
 							<li><a href="http://www.techforless.com/category/Accessories-AL.AA.html">Accessories</a></li>
-						
-							<li><a href="http://www.techforless.com/category/Apple-Laptops-AL.ML.html">Apple Laptops</a></li>
 						
 							<li><a href="http://www.techforless.com/category/Communications-AL.AF.html">Communications</a></li>
 						
@@ -935,7 +999,6 @@ _gaq.push(['_trackPageview', '/cgi-bin/tech4less/privacy_new?visitor=new']);
 							</ul></li>
 
 							<li><a href="http://www.techforless.com/category/Memory-AM.html">Memory</a>
-
 							<ul>
 							<li><a href="http://www.techforless.com/category/Cache-AM.EM.html">Cache</a></li>
 						
@@ -947,21 +1010,23 @@ _gaq.push(['_trackPageview', '/cgi-bin/tech4less/privacy_new?visitor=new']);
 						
 							<li><a href="http://www.techforless.com/category/RAM-Server-Workstation-AM.IN.html">RAM - Server/Workstation</a></li>
 						
+							<li><a href="http://www.techforless.com/category/Video-AM.JO.html">Video</a></li>
+						
 							</ul></li>
 
 							<li><a href="http://www.techforless.com/category/Modems-AF.html">Modems</a>
-
 							<ul>
 							<li><a href="http://www.techforless.com/category/Fax-Modems-AF.DS.html">Fax / Modems</a></li>
 						
 							</ul></li>
 
 							<li><a href="http://www.techforless.com/category/Monitors-AN.html">Monitors</a>
-
 							<ul>
 							<li><a href="http://www.techforless.com/category/Accessories-AN.AA.html">Accessories</a></li>
 						
 							<li><a href="http://www.techforless.com/category/Audio-Visual-Equipment-AN.IB.html">Audio Visual Equipment</a></li>
+						
+							<li><a href="http://www.techforless.com/category/Digital-Signage-Products-AN.JP.html">Digital Signage Products</a></li>
 						
 							<li><a href="http://www.techforless.com/category/Flat-Panel-Monitors-LCD--AN.EQ.html">Flat Panel Monitors (LCD)</a></li>
 						
@@ -971,6 +1036,8 @@ _gaq.push(['_trackPageview', '/cgi-bin/tech4less/privacy_new?visitor=new']);
 						
 							<li><a href="http://www.techforless.com/category/Multiple-Monitors-AN.WB.html">Multiple Monitors</a></li>
 						
+							<li><a href="http://www.techforless.com/category/Plasma-AN.ER.html">Plasma</a></li>
+						
 							<li><a href="http://www.techforless.com/category/Rack-Mount-AN.HN.html">Rack Mount</a></li>
 						
 							<li><a href="http://www.techforless.com/category/Touch-Screens-Monitors-AN.EJ.html">Touch Screens Monitors</a></li>
@@ -978,7 +1045,6 @@ _gaq.push(['_trackPageview', '/cgi-bin/tech4less/privacy_new?visitor=new']);
 							</ul></li>
 
 							<li><a href="http://www.techforless.com/category/Multimedia-AO.html">Multimedia</a>
-
 							<ul>
 							<li><a href="http://www.techforless.com/category/Head-Phones-AO.ES.html">Head Phones</a></li>
 						
@@ -992,10 +1058,8 @@ _gaq.push(['_trackPageview', '/cgi-bin/tech4less/privacy_new?visitor=new']);
 						
 							<li><a href="http://www.techforless.com/category/Video-Cards-AO.EW.html">Video Cards</a></li>
 						
-							</ul></li>
-
+						</ul></li></ul><ul class="col3" style="height: 480px;">
 							<li><a href="http://www.techforless.com/category/Networking-AP.html">Networking</a>
-
 							<ul>
 							<li><a href="http://www.techforless.com/category/Accessories-AP.AA.html">Accessories</a></li>
 						
@@ -1041,8 +1105,29 @@ _gaq.push(['_trackPageview', '/cgi-bin/tech4less/privacy_new?visitor=new']);
 						
 							</ul></li>
 
-							<li><a href="http://www.techforless.com/category/Phones-NF.html">Phones</a>
+							<li><a href="http://www.techforless.com/category/Outdoor-OL.html">Outdoor</a>
+							<ul>
+							<li><a href="http://www.techforless.com/category/Furniture-OL.FN.html">Furniture</a></li>
+						
+							<li><a href="http://www.techforless.com/category/Garden-OL.FO.html">Garden</a></li>
+						
+							<li><a href="http://www.techforless.com/category/Grilling-OL.GA.html">Grilling</a></li>
+						
+							<li><a href="http://www.techforless.com/category/Miscellaneous-OL.HX.html">Miscellaneous</a></li>
+						
+							</ul></li>
 
+							<li><a href="http://www.techforless.com/category/Pet-Supply-PS.html">Pet Supply</a>
+							<ul>
+							<li><a href="http://www.techforless.com/category/Food-PS.FJ.html">Food</a></li>
+						
+							<li><a href="http://www.techforless.com/category/Miscellaneous-PS.HX.html">Miscellaneous</a></li>
+						
+							<li><a href="http://www.techforless.com/category/Toys-PS.TY.html">Toys</a></li>
+						
+							</ul></li>
+
+							<li><a href="http://www.techforless.com/category/Phones-NF.html">Phones</a>
 							<ul>
 							<li><a href="http://www.techforless.com/category/Corded-NF.PQ.html">Corded</a></li>
 						
@@ -1059,7 +1144,6 @@ _gaq.push(['_trackPageview', '/cgi-bin/tech4less/privacy_new?visitor=new']);
 							</ul></li>
 
 							<li><a href="http://www.techforless.com/category/Portable-Audio-NP.html">Portable Audio</a>
-
 							<ul>
 							<li><a href="http://www.techforless.com/category/AM-FM-Players-NP.PT.html">AM/FM Players</a></li>
 						
@@ -1076,7 +1160,6 @@ _gaq.push(['_trackPageview', '/cgi-bin/tech4less/privacy_new?visitor=new']);
 							</ul></li>
 
 							<li><a href="http://www.techforless.com/category/POS-Equipment-VB.html">POS Equipment</a>
-
 							<ul>
 							<li><a href="http://www.techforless.com/category/Barcode-Scanner-Accessories-VB.WJ.html">Barcode Scanner Accessories</a></li>
 						
@@ -1101,7 +1184,6 @@ _gaq.push(['_trackPageview', '/cgi-bin/tech4less/privacy_new?visitor=new']);
 							</ul></li>
 
 							<li><a href="http://www.techforless.com/category/Printers-AQ.html">Printers</a>
-
 							<ul>
 							<li><a href="http://www.techforless.com/category/Accessories-AQ.AA.html">Accessories</a></li>
 						
@@ -1144,7 +1226,6 @@ _gaq.push(['_trackPageview', '/cgi-bin/tech4less/privacy_new?visitor=new']);
 							</ul></li>
 
 							<li><a href="http://www.techforless.com/category/Projectors-AV-Equipment-AR.html">Projectors/AV Equipment</a>
-
 							<ul>
 							<li><a href="http://www.techforless.com/category/AV-Equipment-Accessories-AR.RN.html">AV Equipment &amp; Accessories</a></li>
 						
@@ -1163,7 +1244,6 @@ _gaq.push(['_trackPageview', '/cgi-bin/tech4less/privacy_new?visitor=new']);
 							</ul></li>
 
 							<li><a href="http://www.techforless.com/category/Scanners-AS.html">Scanners</a>
-
 							<ul>
 							<li><a href="http://www.techforless.com/category/Accessories-AS.AA.html">Accessories</a></li>
 						
@@ -1175,9 +1255,9 @@ _gaq.push(['_trackPageview', '/cgi-bin/tech4less/privacy_new?visitor=new']);
 						
 							<li><a href="http://www.techforless.com/category/Sheetfed-Specialty-AS.AS.html">Sheetfed &amp; Specialty</a></li>
 						
-						</ul></li></ul><ul class="col3">
-							<li><a href="http://www.techforless.com/category/Security-Surveillance-SC.html">Security &amp; Surveillance</a>
+							</ul></li>
 
+							<li><a href="http://www.techforless.com/category/Security-Surveillance-SC.html">Security &amp; Surveillance</a>
 							<ul>
 							<li><a href="http://www.techforless.com/category/Accessories-SC.AA.html">Accessories</a></li>
 						
@@ -1188,8 +1268,9 @@ _gaq.push(['_trackPageview', '/cgi-bin/tech4less/privacy_new?visitor=new']);
 							</ul></li>
 
 							<li><a href="http://www.techforless.com/category/Servers-AT.html">Servers</a>
-
 							<ul>
+							<li><a href="http://www.techforless.com/category/Accessories-AT.AA.html">Accessories</a></li>
+						
 							<li><a href="http://www.techforless.com/category/Blade-Server-Chassis-AT.KP.html">Blade Server Chassis</a></li>
 						
 							<li><a href="http://www.techforless.com/category/Blade-Server-Options-AT.KQ.html">Blade Server Options</a></li>
@@ -1212,12 +1293,9 @@ _gaq.push(['_trackPageview', '/cgi-bin/tech4less/privacy_new?visitor=new']);
 						
 							<li><a href="http://www.techforless.com/category/Software-AT.AW.html">Software</a></li>
 						
-							<li><a href="http://www.techforless.com/category/UPS-Power-AT.AX.html">UPS &amp; Power</a></li>
-						
 							</ul></li>
 
 							<li><a href="http://www.techforless.com/category/Software-AW.html">Software</a>
-
 							<ul>
 							<li><a href="http://www.techforless.com/category/Applications-AW.FR.html">Applications</a></li>
 						
@@ -1234,7 +1312,6 @@ _gaq.push(['_trackPageview', '/cgi-bin/tech4less/privacy_new?visitor=new']);
 							</ul></li>
 
 							<li><a href="http://www.techforless.com/category/Speakers-NS.html">Speakers</a>
-
 							<ul>
 							<li><a href="http://www.techforless.com/category/Bookshelf-NS.PX.html">Bookshelf</a></li>
 						
@@ -1248,6 +1325,8 @@ _gaq.push(['_trackPageview', '/cgi-bin/tech4less/privacy_new?visitor=new']);
 						
 							<li><a href="http://www.techforless.com/category/Outdoor-NS.QA.html">Outdoor</a></li>
 						
+							<li><a href="http://www.techforless.com/category/Satellite-NS.QB.html">Satellite</a></li>
+						
 							<li><a href="http://www.techforless.com/category/Speaker-Stand-Accessories-NS.QC.html">Speaker Stand &amp; Accessories</a></li>
 						
 							<li><a href="http://www.techforless.com/category/Subwoofer-NS.QD.html">Subwoofer</a></li>
@@ -1259,7 +1338,6 @@ _gaq.push(['_trackPageview', '/cgi-bin/tech4less/privacy_new?visitor=new']);
 							</ul></li>
 
 							<li><a href="http://www.techforless.com/category/Special-Buys-SP.html">Special Buys</a>
-
 							<ul>
 							<li><a href="http://www.techforless.com/category/-SP.XX.html"></a></li>
 						
@@ -1279,12 +1357,31 @@ _gaq.push(['_trackPageview', '/cgi-bin/tech4less/privacy_new?visitor=new']);
 						
 							</ul></li>
 
-							<li><a href="http://www.techforless.com/category/Televisions-NT.html">Televisions</a>
+							<li><a href="http://www.techforless.com/category/Sport-OR.html">Sport</a>
+							<ul>
+							<li><a href="http://www.techforless.com/category/Camping-OR.DA.html">Camping</a></li>
+						
+							<li><a href="http://www.techforless.com/category/Exercise-Fitness-OR.DC.html">Exercise - Fitness</a></li>
+						
+							<li><a href="http://www.techforless.com/category/Hunting-OR.HG.html">Hunting</a></li>
+						
+							<li><a href="http://www.techforless.com/category/Leisure-OR.LS.html">Leisure</a></li>
+						
+							<li><a href="http://www.techforless.com/category/Licensed-Gear-Sports-Apparel-OR.IK.html">Licensed Gear - Sports Apparel</a></li>
+						
+							<li><a href="http://www.techforless.com/category/Miscellaneous-OR.HX.html">Miscellaneous</a></li>
+						
+							<li><a href="http://www.techforless.com/category/Team-Sports-OR.SP.html">Team Sports</a></li>
+						
+							</ul></li>
 
+							<li><a href="http://www.techforless.com/category/Televisions-NT.html">Televisions</a>
 							<ul>
 							<li><a href="http://www.techforless.com/category/Accessories-NT.AA.html">Accessories</a></li>
 						
-							<li><a href="http://www.techforless.com/category/LCD-TVs-NT.RP.html">LCD TVs</a></li>
+							<li><a href="http://www.techforless.com/category/Components-NT.CT.html">Components</a></li>
+						
+							<li><a href="http://www.techforless.com/category/LCD-LED-TVs-NT.RP.html">LCD/LED TVs</a></li>
 						
 							<li><a href="http://www.techforless.com/category/Plasma-TVs-NT.QH.html">Plasma TVs</a></li>
 						
@@ -1295,7 +1392,6 @@ _gaq.push(['_trackPageview', '/cgi-bin/tech4less/privacy_new?visitor=new']);
 							</ul></li>
 
 							<li><a href="http://www.techforless.com/category/Tools-Hardware-PB.html">Tools &amp; Hardware</a>
-
 							<ul>
 							<li><a href="http://www.techforless.com/category/Hand-Tools-PB.YB.html">Hand Tools</a></li>
 						
@@ -1303,10 +1399,33 @@ _gaq.push(['_trackPageview', '/cgi-bin/tech4less/privacy_new?visitor=new']);
 						
 							<li><a href="http://www.techforless.com/category/Other-PB.GK.html">Other</a></li>
 						
+							<li><a href="http://www.techforless.com/category/Power-Tools-PB.YA.html">Power Tools</a></li>
+						
+							</ul></li>
+
+							<li><a href="http://www.techforless.com/category/Toys-TY.html">Toys</a>
+							<ul>
+							<li><a href="http://www.techforless.com/category/Arts-Crafts-Hobby-TY.BV.html">Arts - Crafts - Hobby</a></li>
+						
+							<li><a href="http://www.techforless.com/category/Boys-TY.BY.html">Boys</a></li>
+						
+							<li><a href="http://www.techforless.com/category/Games-TY.FQ.html">Games</a></li>
+						
+							<li><a href="http://www.techforless.com/category/Learning-TY.LR.html">Learning</a></li>
+						
+							<li><a href="http://www.techforless.com/category/Miscellaneous-TY.HX.html">Miscellaneous</a></li>
+						
+							</ul></li>
+
+							<li><a href="http://www.techforless.com/category/Travel-TV.html">Travel</a>
+							<ul>
+							<li><a href="http://www.techforless.com/category/Luggage-TV.HK.html">Luggage</a></li>
+						
+							<li><a href="http://www.techforless.com/category/Miscellaneous-TV.HX.html">Miscellaneous</a></li>
+						
 							</ul></li>
 
 							<li><a href="http://www.techforless.com/category/UPS-Power-AX.html">UPS &amp; Power</a>
-
 							<ul>
 							<li><a href="http://www.techforless.com/category/AC-Adapters-Transformers-AX.KT.html">AC Adapters / Transformers</a></li>
 						
@@ -1317,8 +1436,6 @@ _gaq.push(['_trackPageview', '/cgi-bin/tech4less/privacy_new?visitor=new']);
 							<li><a href="http://www.techforless.com/category/Inverters-AX.KU.html">Inverters</a></li>
 						
 							<li><a href="http://www.techforless.com/category/PDUs-AX.IE.html">PDUs</a></li>
-						
-							<li><a href="http://www.techforless.com/category/Power-Conditioners-AX.KV.html">Power Conditioners</a></li>
 						
 							<li><a href="http://www.techforless.com/category/Rackmount-UPS-AX.KX.html">Rackmount UPS</a></li>
 						
@@ -1331,7 +1448,6 @@ _gaq.push(['_trackPageview', '/cgi-bin/tech4less/privacy_new?visitor=new']);
 							</ul></li>
 
 							<li><a href="http://www.techforless.com/category/Video-Components-NV.html">Video Components</a>
-
 							<ul>
 							<li><a href="http://www.techforless.com/category/Accessories-and-Cables-NV.PO.html">Accessories and Cables</a></li>
 						
@@ -1340,6 +1456,8 @@ _gaq.push(['_trackPageview', '/cgi-bin/tech4less/privacy_new?visitor=new']);
 							<li><a href="http://www.techforless.com/category/Digital-Video-Recorders-NV.PM.html">Digital Video Recorders</a></li>
 						
 							<li><a href="http://www.techforless.com/category/DVD-Players-Recorders-NV.PJ.html">DVD Players &amp; Recorders</a></li>
+						
+							<li><a href="http://www.techforless.com/category/DVD-VCR-Combos-NV.RS.html">DVD-VCR Combos</a></li>
 						
 							<li><a href="http://www.techforless.com/category/Portable-DVD-Players-NV.RR.html">Portable DVD Players</a></li>
 						
@@ -1354,7 +1472,6 @@ _gaq.push(['_trackPageview', '/cgi-bin/tech4less/privacy_new?visitor=new']);
 							</ul></li>
 
 							<li><a href="http://www.techforless.com/category/Video-Game-Consoles-VC.html">Video Game Consoles</a>
-
 							<ul>
 							<li><a href="http://www.techforless.com/category/Nintendo-DS-VC.YG.html">Nintendo DS</a></li>
 						
@@ -1362,15 +1479,16 @@ _gaq.push(['_trackPageview', '/cgi-bin/tech4less/privacy_new?visitor=new']);
 						
 							<li><a href="http://www.techforless.com/category/Playstation-VC.VB.html">Playstation</a></li>
 						
-							<li><a href="http://www.techforless.com/category/PSP-VC.VL.html">PSP</a></li>
+							<li><a href="http://www.techforless.com/category/PSP-Vita-VC.VL.html">PSP/Vita</a></li>
 						
 							<li><a href="http://www.techforless.com/category/Xbox-VC.VC.html">Xbox</a></li>
 						
 							</ul></li>
 
 							<li><a href="http://www.techforless.com/category/Video-Games-VG.html">Video Games</a>
-
 							<ul>
+							<li><a href="http://www.techforless.com/category/cattext-Kid-s-Electronics--catcode='VG.VK'.html">Kid's Electronics</a></li>
+						
 							<li><a href="http://www.techforless.com/category/Nintendo-DS-VG.YG.html">Nintendo DS</a></li>
 						
 							<li><a href="http://www.techforless.com/category/Nintendo-Wii-VG.VI.html">Nintendo Wii</a></li>
@@ -1379,14 +1497,13 @@ _gaq.push(['_trackPageview', '/cgi-bin/tech4less/privacy_new?visitor=new']);
 						
 							<li><a href="http://www.techforless.com/category/Playstation-3-VG.YH.html">Playstation 3</a></li>
 						
-							<li><a href="http://www.techforless.com/category/PSP-VG.VL.html">PSP</a></li>
+							<li><a href="http://www.techforless.com/category/PSP-Vita-VG.VL.html">PSP/Vita</a></li>
 						
 							<li><a href="http://www.techforless.com/category/Xbox-VG.VC.html">Xbox</a></li>
 						
 							</ul></li>
 
 							<li><a href="http://www.techforless.com/category/Warranty-Service-AA.html">Warranty / Service</a>
-
 							<ul>
 							<li><a href="http://www.techforless.com/category/Warranty-Service-AA.HO.html">Warranty / Service</a></li>
 						
@@ -1410,6 +1527,7 @@ _gaq.push(['_trackPageview', '/cgi-bin/tech4less/privacy_new?visitor=new']);
 						<li><a href="http://www.techforless.com/category/Camera-Accessories-AE.QZ.html">Camera Accessories</a></li>
 						<li><a href="http://www.techforless.com/category/Web-Cameras-AE.WN.html">Web Cameras</a></li>
 						<li><a href="http://www.techforless.com/category/35mm-SLR-Cameras-AE.QQ.html">35mm &amp; SLR Cameras</a></li>
+						<li><a href="http://www.techforless.com/category/Instant-Cameras-AE.QU.html">Instant Cameras</a></li>
 						<li><a href="http://www.techforless.com/category/Underwater-Cameras-AE.QY.html">Underwater Cameras</a></li>
 
 						</ul>
@@ -1438,7 +1556,6 @@ _gaq.push(['_trackPageview', '/cgi-bin/tech4less/privacy_new?visitor=new']);
 						<li><a href="http://www.techforless.com/category/Fibre-Infiniband-Storage-Controllers-AI.JK.html">Fibre / Infiniband Storage Controllers</a></li>
 						<li><a href="http://www.techforless.com/category/Flash-ROM-Cards-AI.EO.html">Flash / ROM Cards</a></li>
 						<li><a href="http://www.techforless.com/category/Flash-ROM-Readers-AI.EI.html">Flash / ROM Readers</a></li>
-						<li><a href="http://www.techforless.com/category/Floppy-ZIP-Drives-AI.EC.html">Floppy &amp; ZIP Drives</a></li>
 						<li><a href="http://www.techforless.com/category/I-O-Cards-AI.CH.html">I/O Cards</a></li>
 						<li><a href="http://www.techforless.com/category/Internal-Hard-Drives-AI.CI.html">Internal Hard Drives</a></li>
 						<li><a href="http://www.techforless.com/category/Jump-Drive-Flash-Memory-AI.CJ.html">Jump Drive/Flash Memory</a></li>
@@ -1459,7 +1576,6 @@ _gaq.push(['_trackPageview', '/cgi-bin/tech4less/privacy_new?visitor=new']);
 					<ul>
 						<li><a href="http://www.techforless.com/category/Laptops-Notebooks-AL.AL.html">Laptops / Notebooks</a></li>
 						<li><a href="http://www.techforless.com/category/Netbooks-AL.NB.html">Netbooks</a></li>
-						<li><a href="http://www.techforless.com/category/Apple-Laptops-AL.ML.html">Apple Laptops</a></li>
 						<li><a href="http://www.techforless.com/category/Tablets-AL.YF.html">Tablets</a></li>
 						<li><a href="http://www.techforless.com/category/Drives-Storage-AL.AI.html">Drives &amp; Storage</a></li>
 						<li><a href="http://www.techforless.com/category/Communications-AL.AF.html">Communications</a></li>
@@ -1473,9 +1589,11 @@ _gaq.push(['_trackPageview', '/cgi-bin/tech4less/privacy_new?visitor=new']);
 						<li><a href="http://www.techforless.com/category/Flat-Panel-Monitors-LCD--AN.EQ.html">Flat Panel Monitors (LCD)</a></li>
 						<li><a href="http://www.techforless.com/category/Medical-Grade-Monitors-AN.MG.html">Medical Grade Monitors</a></li>
 						<li><a href="http://www.techforless.com/category/Touch-Screens-Monitors-AN.EJ.html">Touch Screens Monitors</a></li>
+						<li><a href="http://www.techforless.com/category/Plasma-AN.ER.html">Plasma</a></li>
 						<li><a href="http://www.techforless.com/category/Rack-Mount-AN.HN.html">Rack Mount</a></li>
 						<li><a href="http://www.techforless.com/category/Accessories-AN.AA.html">Accessories</a></li>
 						<li><a href="http://www.techforless.com/category/Audio-Visual-Equipment-AN.IB.html">Audio Visual Equipment</a></li>
+						<li><a href="http://www.techforless.com/category/Digital-Signage-Products-AN.JP.html">Digital Signage Products</a></li>
 						<li><a href="http://www.techforless.com/category/Mounts-Stands-AN.ZB.html">Mounts &amp; Stands</a></li>
 						<li><a href="http://www.techforless.com/category/Multiple-Monitors-AN.WB.html">Multiple Monitors</a></li>
 
@@ -1485,8 +1603,8 @@ _gaq.push(['_trackPageview', '/cgi-bin/tech4less/privacy_new?visitor=new']);
 					<li><a href="/category/Tablets-Android-AL.YF.AD.html"> Android</a></li>
 					<li><a href="/category/Tablets-Ipad-AL.YF.IP.html"> Apple Ipads</a></li>
 					<li><a href="/category/Tablets-Windows-AL.YF.WI.html"> Windows</a></li>
-					<li><a href="/category/Tablets-Windows-AL.YF.ER.html"> eReaders</a></li>
-					<li><a href="/category/Tablets-Windows-AL.YF.WB.html"> Other</a></li>
+					<li><a href="/category/Tablets-eReaders-AL.YF.ER.html"> eReaders</a></li>
+					<li><a href="/category/Tablets-Other-AL.YF.WB.html"> Other</a></li>
 					<li><a href="/category/Tablets-Accessories-AL.YF.TK.html"> Accessories</a></li>
 					</ul>
 					</li>
@@ -1533,6 +1651,7 @@ _gaq.push(['_trackPageview', '/cgi-bin/tech4less/privacy_new?visitor=new']);
 						<li><a href="http://www.techforless.com/category/Blade-Servers-AT.KO.html">Blade Servers</a></li>
 						<li><a href="http://www.techforless.com/category/Rackmount-Servers-AT.KN.html">Rackmount Servers</a></li>
 						<li><a href="http://www.techforless.com/category/Servers-AT.AT.html">Servers</a></li>
+						<li><a href="http://www.techforless.com/category/Accessories-AT.AA.html">Accessories</a></li>
 						<li><a href="http://www.techforless.com/category/Blade-Server-Chassis-AT.KP.html">Blade Server Chassis</a></li>
 						<li><a href="http://www.techforless.com/category/Blade-Server-Options-AT.KQ.html">Blade Server Options</a></li>
 						<li><a href="http://www.techforless.com/category/Communications-AT.AF.html">Communications</a></li>
@@ -1541,17 +1660,17 @@ _gaq.push(['_trackPageview', '/cgi-bin/tech4less/privacy_new?visitor=new']);
 						<li><a href="http://www.techforless.com/category/Remote-Access-Servers-AT.AY.html">Remote Access Servers</a></li>
 						<li><a href="http://www.techforless.com/category/Server-Options-AT.AU.html">Server Options</a></li>
 						<li><a href="http://www.techforless.com/category/Software-AT.AW.html">Software</a></li>
-						<li><a href="http://www.techforless.com/category/UPS-Power-AT.AX.html">UPS &amp; Power</a></li>
 
 						</ul>
 					</li>
 					<li>
 					<a href="http://www.techforless.com/category/Televisions-NT.html">Televisions</a>
 					<ul>
-						<li><a href="http://www.techforless.com/category/LCD-TVs-NT.RP.html">LCD TVs</a></li>
+						<li><a href="http://www.techforless.com/category/LCD-LED-TVs-NT.RP.html">LCD/LED TVs</a></li>
 						<li><a href="http://www.techforless.com/category/Plasma-TVs-NT.QH.html">Plasma TVs</a></li>
 						<li><a href="http://www.techforless.com/category/Portable-Handheld-under-16-in--NT.QI.html">Portable/Handheld (under 16 in.)</a></li>
 						<li><a href="http://www.techforless.com/category/Stands-Mounts-Storage-NT.RQ.html">Stands, Mounts &amp; Storage</a></li>
+						<li><a href="http://www.techforless.com/category/Components-NT.CT.html">Components</a></li>
 						<li><a href="http://www.techforless.com/category/Accessories-NT.AA.html">Accessories</a></li>
 
 
@@ -1567,7 +1686,7 @@ _gaq.push(['_trackPageview', '/cgi-bin/tech4less/privacy_new?visitor=new']);
 			<input type="hidden" name="mv_doit" value="return">
 			<input type="hidden" name="mv_nextpage" value="split_search">
 			<input type="hidden" name="new_search" value="1">
-			<input type="text" name="q_phrase" value="Search" class="search text" size="34" id="user_search" onclick="emptyonclick_dls(this);">			<input name="searchbutton" type="image" class="#" value="Go" src="/newimages/searchgo.png" alt="GO">
+			<input type="text" name="q_phrase" value="Search" class="search text ui-autocomplete-input" size="34" id="user_search" onclick="emptyonclick_dls(this);" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">			<input name="searchbutton" type="image" class="#" value="Go" src="/newimages/searchgo.png" alt="GO">
 			&nbsp;
 
 			</form>
@@ -1679,23 +1798,25 @@ _gaq.push(['_trackPageview', '/cgi-bin/tech4less/privacy_new?visitor=new']);
 </a>
 </div>
 <div id="hot_compare_at" style="border: 2px solid #FCB676; background-color: #FF9822; color: white; text-align: center; width: 143px; height: 32px; margin-left: auto; margin-right: auto;">
-<span style="font-size: 10px; line-height: 14px;">Compare at:<strike>$10.92</strike></span><br>
-<span style="font-size: 13px;">Today Only! $9.49</span>
+<span style="font-size: 10px; line-height: 14px;">Compare at:
+<strike>$79.75</strike>
+</span><br>
+<span style="font-size: 13px;">Today Only! $44.97</span>
 </div>
 <div style="float: left; width: 80px; text-align: center; margin-top: 10px;">
 <a href="http://www.techforless.com/cgi-bin/tech4less/hot_deal.html">
-	<img src="https://www.techforless.com/cimages/156065.JPG" width="62" style="max-height: 120px">
+	<img src="https://www.techforless.com/cimages/180949.JPG" width="62" style="max-height: 120px">
 </a>
 </div>
 <div style="float: left; margin-top: 10px;color: #5c5c5c; font-size: 11px;">
 
 Time<br>Remaining:<br>
-<b><span id="time_left" style="color: #FF9822; font-size: 12px;"></span></b>
+<b><span id="time_left" style="color: #FF9822; font-size: 12px;">10:03:36</span></b>
 
 </div>
 <div style="font-size: 10px; margin-bottom: 3px; margin-left: auto; margin-right: auto; clear: both;">
 	<a href="http://www.techforless.com/cgi-bin/tech4less/hot_deal.html" style="color: #5c5c5c">
-		Maxell Noise Cancel Headset
+		Sony Blu Ray Player Black
 	</a>
 </div>
 <div id="deal_of_day">
@@ -1969,8 +2090,12 @@ To read more about the industry standards and practices at NAI (Network Advertis
 				<div id="sat_tripletwrap" class="clearfix">
 					<div id="satisfactionwrap" class="clearfix">
 						<div id="satisfactioncopy">
-							<p class="leadbold">Your satisfaction is 100% guaranteed</p>
-							<p>All products shown are in stock and carry a warranty – so you can buy with confidence! The quantity listed is all we have in stock... so don't delay, buy today! Join the thousands of satisfied customers we've been serving since 2001.</p>
+							<p class="leadbold">Your satisfaction is guaranteed!</p>
+							<p>Join the over 1 million satisfied customers we've been serving since 2001.
+							We inspect and test all of our products to ensure it meets the manufacturer
+							quality standards. We have a 30 Day Return Policy and every product has at
+							least a 90 Day Tech For Less Product Warranty against defects. If there does
+							happen to be an issue, we will work with you to make it right!</p>
 							<p class="orlinks"><img src="/newimages/readmoreindicator.gif" alt="Read More Indicator" width="11" height="7"><a href="http://www.techforless.com/cgi-bin/tech4less/returns">Read full terms of guarantee</a></p>
 						</div>
 						<div id="moneyback"><img src="/newimages/45day_sml_B.gif" alt="30 Day Moneyback"></div>
@@ -2007,8 +2132,7 @@ To read more about the industry standards and practices at NAI (Network Advertis
 				<p class="leadbold" style="height: 20px;">Testimonials</p>
 				<div id="testimonialwrap2" class="clearfix" style="padding-top: 15px;">
 					<div class="testimonialcap"><img src="/newimages/testimonialcap_2.png" alt="Testimonial Area Cap" width="220" height="12"></div>
-					<div class="testimonialbody"><i>Dear Tech4Less, this will be the fourth open box laptop that I have ordered from your company. As 
- usual I plan to be </i>...<br>Bill M. - <nobr></nobr><br>Apr 18th 2013</div>
+					<div class="testimonialbody"><i>I have been buying electronics, laptops, computers, etc. from you for many years and have been completely satisfied </i>...<br>Joseph P. - <nobr></nobr><br>Jul 6th 2013</div>
 					<div class="testimonialbot"><img src="/newimages/testimonialbot_2.png" alt="Testimonial Area Bottom" width="220" height="24"></div>
 					<span class="testimonialreadmore"><img src="/newimages/readmoreindicator.gif" alt="Read More Indicator" width="11" height="7"><span class="orlinks"><a href="http://www.techforless.com/cgi-bin/tech4less/testimonials_all">Read more</a></span></span>
 				</div>
@@ -2021,7 +2145,9 @@ To read more about the industry standards and practices at NAI (Network Advertis
 			</div>
 			<div id="commercepartners_row1" class="clearfix">
 				<div id="bbb"><a title="Click for the Business Review of Tech for Less LLC, a Computers - Dealers in Colorado Springs CO" target="_blank" href="http://www.bbb.org/southern-colorado/business-reviews/computers-dealers/tech-for-less-in-colorado-springs-co-23002518#sealclick"><img alt="Click for the BBB Business Review of this Computers - Dealers in Colorado Springs CO" style="border: 0;" src="http://seal-southerncolorado.bbb.org/seals/blue-seal-96-50-techforlessllc-23002518.png"></a></div>
-				<div id="nextag"><a href="http://www.nextag.com/TechForLess~159144zzzreviewsz1zzzzzmainz17-htm" target="_blank"><img src="http://www.nextag.com/seller/NextagLogo.jsp?seller=159144" alt="Customer Reviews"></a></div>
+				<div id="stella">
+				<script type="text/javascript">var seal_host = (("https:" == document.location.protocol) ? "https://" : "http://");document.write(unescape("%3Ca target='_blank' href='http://www.stellaservice.com/profile/243'%3E%3Cimg src='" + seal_host + "seal.stellaservice.com/seals/stellaservice_excellent.png?c=243' height='73' width='115' border='0' title='Techforless.com is top rated for customer service' /%3E%3C/a%3E"));</script><a target="_blank" href="http://www.stellaservice.com/profile/243"><img src="https://seal.stellaservice.com/seals/stellaservice_excellent.png?c=243" height="73" width="115" border="0" title="Techforless.com is top rated for customer service"></a>
+				</div>
 				<div id="microsoft"><img src="/newimages/ms-Registered-Refurb_cL.png" alt="Microsoft Certified Refurbisher" width="100"></div>
 				<div id="cnet"><img src="/images/cnet_certified_logo_100.gif" alt="cnet certified logo" width="100" height="45"></div>
 				<div id="verisign"><script src="https://seal.verisign.com/getseal?host_name=www.techforless.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=YES&amp;lang=en"></script></div>
@@ -2041,11 +2167,12 @@ To read more about the industry standards and practices at NAI (Network Advertis
 	<div id="bottomnav">
 	<ul>
 	<li><a href="http://m.techforless.com" target="_blank">Compare Prices via TFL Mobile</a>&nbsp; |</li>		
-	<li><a href="http://www.techforless.com/cgi-bin/tech4less/returns">100% Satisfaction Guarantee</a>&nbsp; |</li>
+	<li><a href="http://www.techforless.com/cgi-bin/tech4less/returns">Your Satisfaction is Guaranteed</a>&nbsp; |</li>
 	<li><a href="http://www.techforless.com/cgi-bin/tech4less/faq#what_are_conditions">Frequently Asked Questions</a>&nbsp; |</li>		
 	<li><a href="http://www.techforless.com/cgi-bin/tech4less/what-is-refurbished">What is refurbished?</a>&nbsp; |</li>	
 	<li><a href="http://techforless.manualsonline.com" target="_blank">Product Manuals</a>&nbsp; |</li>
-	<li><a href="http://www.techforless.com/cgi-bin/tech4less/faq#what_are_tflrewards">TFL Rewards Points</a></li>		
+	<li><a href="http://www.techforless.com/cgi-bin/tech4less/faq#what_are_tflrewards">TFL Rewards Points</a>&nbsp; |</li>		
+	<li><a href="http://items.techforless.com/products.php">Products</a></li>
 	</ul>
 	<ul>
 	<li><a href="http://www.techforless.com/cgi-bin/tech4less/privacy_new">Privacy Policy</a>&nbsp; |</li>		
@@ -2113,29 +2240,6 @@ All trademarks and copyrights mentioned herein are the property of their respect
 
 
 
-<!-- Google Code for All Visitors Remarketing List -->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 1072643070;
-var google_conversion_language = "en";
-var google_conversion_format = "3";
-var google_conversion_color = "666666";
-var google_conversion_label = "ThNeCJXP4wEQ_ve8_wM";
-var google_conversion_value = 0;
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1072643070/?label=ThNeCJXP4wEQ_ve8_wM&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
-
-
-
-
-
 
 
 <!-- Resonance code resxclsa.js v2.x Copyright 2004-2006 Certona Corporation www.certona.com -->
@@ -2168,7 +2272,7 @@ resx.top2=100000;
 
 //-->
 </script>
-<script language="JavaScript1.3" src="/certona/resxclsa1.js"></script><script type="text/javascript" src="https://www.res-x.com/ws/r2/Resonance.aspx?appid=techforless01&amp;tk=820114760169950&amp;ss=877620322482417&amp;sg=1&amp;pg=361652793612667&amp;bx=false&amp;vr=2.69&amp;ur=https%3A//web.archive.org/web/20130529210604id_/http%253A//www.techforless.com/cgi-bin/tech4less/privacy_new&amp;plk=&amp;rf="></script>
+<script language="JavaScript1.3" src="/certona/resxclsa1.js"></script><script type="text/javascript" src="https://www.res-x.com/ws/r2/Resonance.aspx?appid=techforless01&amp;tk=172177966660153&amp;ss=625374340414753&amp;sg=1&amp;pg=728194273402755&amp;bx=false&amp;vr=2.69&amp;ur=https%3A//web.archive.org/web/20130819035123id_/http%253A//www.techforless.com/cgi-bin/tech4less/privacy_new&amp;plk=&amp;rf="></script>
 <!-- Resonance -->
 
 <!-- privacy_new   -->
@@ -2192,7 +2296,7 @@ document.write(track_url);
 
 
 
-
+<script type="text/javascript" src="//tags.mediaforge.com/js/1641"></script>
 
 <!-- OwnerIQ Analytics tag -->
 <script type="text/javascript">
@@ -2269,4 +2373,4 @@ mybuys.initPage();
 
 
 
-</body></html>
+<ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" role="listbox" aria-activedescendant="ui-active-menuitem" style="z-index: 1; top: 0px; left: 0px; display: none;"></ul><div id="blubarnavpop"></div></body></html>
