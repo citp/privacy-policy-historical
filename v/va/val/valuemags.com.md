@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valuemags.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502183112id_/http%3A//www.valuemags.com/home/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valuemags.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819102224id_/http%3A//www.valuemags.com/home/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -7,7 +7,7 @@
 BY ACCESSING THIS SITE YOU ARE ACCEPTING THE TERMS OF THIS PRIVACY STATEMENT. 
 
 **Email Communications**  
-When you register or order at ValueMags we send you a courtesy confirmation. You also agree to receive the ValueMags Free Newsletter and Daily Promotions where we offer great offers on products from ValueMags and its partners. ValueMags will share personally identifiable information with third party marketers in order to provide additional products and promotions. Your email address will be shared with our mailing partners such as All Inbox, LLC and others. 
+When you register or order at ValueMags we send you a courtesy confirmation. You also agree to receive the ValueMags Free Newsletter and Daily Promotions where we offer great offers on products from ValueMags and its partners. ValueMags will share personally identifiable information with third party marketers in order to provide additional products and promotions. 
 
 All communications will contain simple removal instructions. 
 
