@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siterobot.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509195908id_/https%3A//siterobot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siterobot.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819133143id_/https%3A//siterobot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Siterobot the Winnovator
 
