@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caratlane.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510045831id_/http%3A//www.caratlane.com/about-us/%3Ftab%3Dpp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caratlane.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819200945id_/http%3A//www.caratlane.com/about-us/%3Ftab%3Dpp) for the most accurate reproduction.*
 
 # About Us – India’s Trusted Online Jeweller | Caratlane.com
 
@@ -46,8 +46,8 @@ Monday to Saturday
 
 #### Our Customer Say It Best [More ](http://www.caratlane.com/customertestimonials/index/indexall/)
 
-### It's turned out even better than I'd imagined!
+### Your staff are very courteous and excellent at their service!
 
-"Hi Divya, I absolutely LOVE it!!! It's turned out even better than I'd imagined! Many many thanks to you for all your help with this- it's truly appreciated! . .."
+"Dear Sir, First of all I really want to Thank You for this very kind gesture on your part and I feel truly honoured for being one of the choosen customers from your list. . .."
 
--Shaista Desai ,Mumbai
+-Salwa Mascaernhas.,Goa
