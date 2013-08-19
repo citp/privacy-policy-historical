@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizzartic.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513014607id_/http%3A//bizzartic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizzartic.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819173226id_/http%3A//bizzartic.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | BizzArtic
 
