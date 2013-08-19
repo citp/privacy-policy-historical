@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the u-file.net privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630205641id_/http%3A//www.u-file.net/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the u-file.net privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819141232id_/http%3A//www.u-file.net/privacypolicy.php) for the most accurate reproduction.*
 
 # Your Sharing Park - ufile upload for free (U-fiLe 2013)
 
