@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the minecraftmaps.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512092330id_/http%3A//www.minecraftmaps.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minecraftmaps.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819074652id_/http%3A//www.minecraftmaps.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Our Privacy Policy**  
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by using the [contact form](http://www.minecraftmaps.com/info/contact-us) on our site.
 
 At MinecraftMaps.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by MinecraftMaps.com and how it is used. 
