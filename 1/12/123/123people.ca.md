@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123people.ca privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507114531id_/http%3A//www.123people.ca/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123people.ca privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819131408id_/http%3A//www.123people.ca/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 123people.ca
 
