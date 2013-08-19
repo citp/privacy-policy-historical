@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lazaruslabs.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613042051id_/http%3A//www.lazaruslabs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lazaruslabs.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819021035id_/http%3A//www.lazaruslabs.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Lazarus Labs
+# Lazarus Labs | Privacy Statement
 
 Lazarus Labs recognizes your need for protection of your privacy and for responsible management of personally identifiable information that you share with us, including information by which you can be identified. We have established this Privacy Policy in order to demonstrate our respect for, and commitment to, protecting your privacy.
 
@@ -28,6 +28,6 @@ Regardless of how this policy may change and evolve over time, Lazarus Labs will
 Lazarus Labs, however, does reserve the right to disclose your personal information, if, required to do so by law, or in the good faith belief that such action is reasonably necessary to comply with legal process, respond to claims, or to protect the rights, property or safety of our company, it's employees, customers, or the public.
 
 **Children's privacy**  
-We are committed to protecting the privacy of children. This Site is not intended or designed to attract children. As a manufacturer of Weight Loss Supplements, Lazarus Labs does not knowingly or willingly collect personal identifiable information from children under the age of 18.
+We are committed to protecting the privacy of children. This Site is not intended or designed to attract children. Lazarus Labs does not knowingly or willingly collect personal identifiable information from children under the age of 18.
 
 This Privacy Policy forms a legal agreement between you and Lazarus Labs. Your use of this website indicates your agreement to the terms of this Privacy Policy. The Electronic Communications Privacy Act (ECPA) shall not apply to any communications with Lazarus Labs. Lazarus Labs reserves the right to make revisions to this agreement at any time without notice and will post changes and updates to the Privacy Policy by posting to this website.
