@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the i-dressup.com privacy policy that was archived on 2013-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130531080451id_/http%3A//www.i-dressup.com/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the i-dressup.com privacy policy that was archived on 2013-08-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130819065710id_/http%3A//www.i-dressup.com/privacypolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -8,6 +8,7 @@
     <meta name="description" content="dress up games, fashion dress up games online,inspiration in your own shopping for goodies">
     <meta name="keywords" content="fashion, designer labels,dress up games, dress, up, games,designer,fashion shopping, style shopping">
     <title>Privacy policy - i-Dressup Dress up Games</title>
+
 <script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
     <script type="text/javascript" src="http://api.conduit.com/ToolbarApi.js"></script>
     <script type="text/javascript" src="http://cdn.i-dressup.com/cdn/assets/static/js/jquery.min.1.4.2.js"></script>
@@ -16,6 +17,25 @@
     <script type="text/javascript" src="http://cdn.i-dressup.com/cdn/assets/static/js/jquery.tooltip.min.js"></script>
     <script type="text/javascript" src="http://cdn.i-dressup.com/cdn/assets/static/js/jquery.emptyTip.js"></script>
     <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+<script type="text/javascript">
+
+    function fBrowserRedirect(){
+        var sUserAgent = navigator.userAgent.toLowerCase();
+        var bIsIpad = sUserAgent.match(/ipad/i) == "ipad";
+        var bIsIphoneOs = sUserAgent.match(/iphone os/i) == "iphone os";
+        var bIsMidp = sUserAgent.match(/midp/i) == "midp";
+        var bIsUc7 = sUserAgent.match(/rv:1.2.3.4/i) == "rv:1.2.3.4";
+        var bIsUc = sUserAgent.match(/ucweb/i) == "ucweb";
+        var bIsAndroid = sUserAgent.match(/android/i) == "android";
+        var bIsCE = sUserAgent.match(/windows ce/i) == "windows ce";
+        var bIsWM = sUserAgent.match(/windows mobile/i) == "windows mobile";
+        if(bIsIpad || bIsIphoneOs || bIsAndroid || bIsMidp || bIsUc7 || bIsUc || bIsCE || bIsWM){
+        	window.location.href = "http://m.i-dressup.com";
+        }
+    }
+    fBrowserRedirect();
+
+</script>
     <script type="text/javascript">
 
 	  var _gaq = _gaq || [];
@@ -151,7 +171,7 @@ googletag.enableServices();
 	$('#link-close-tour').click(function () {
 		$.unblockUI();
 	});
-	
+
 	$('a.__club_active_chk').click(function() {
 	    if (__CURRENT_USER_IS_ACTIVATED) return true;
 	    $.idressup.showActive(__CURRENT_USER, __CURRENT_USER_EMAIL);
