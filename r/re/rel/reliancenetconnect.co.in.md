@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reliancenetconnect.co.in privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530191106id_/http%3A//www.reliancenetconnect.co.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reliancenetconnect.co.in privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820014725id_/http%3A//www.reliancenetconnect.co.in/privacy-policy.html) for the most accurate reproduction.*
 
 # Reliance Netconnect::Privacy Policy
 
@@ -85,7 +85,11 @@ We have implemented technology and policies, with the objective of protecting yo
 
 **1.** For your convenience, this page may contain certain hyperlinks to other Reliance Communications pages as well as to websites outside Reliance Communications. In addition, you may have linked to our website from another website. We cannot be responsible for the privacy policies and practices of other websites, even if you access them using links from our website. We can make no promises or guarantees regarding data collection on the hyper-linked pages and on websites that are not owned by Reliance Communications. We recommend that you check the policy of each website you visit, or link from, and contact the owners or operators of such websites if you have any concerns or questions. 
 
-**Contacting us**
+**Advertising**
+
+When you visit this website, you may view advertisements on the site by third parties such as Google or other advertisers. These advertisers may use cookies to serve ads to you based on your visit to our site and other sites on the Internet. They may use this data to show you advertisements on this website and elsewhere on the Internet about products and services you might like. You can choose to opt out of Google™ use of cookies by visiting the [Google Ad and content network privacy policy](http://www.google.co.in/policies/technologies/ads/).
+
+ **Contacting us**
 
 **1.** We aim to keep our information about you as accurate as possible. If you would like to review or change the details you have supplied us with, please contact us as set out below. If you wish to change or delete any of the personal information you have entered while visiting our website or if you have any questions about our privacy statement, e-mail the Data Manager at customercare@relianceada.com
 
