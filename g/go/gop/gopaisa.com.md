@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gopaisa.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508162858id_/http%3A//www.gopaisa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gopaisa.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820001527id_/http%3A//www.gopaisa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Gopaisa.com
 
