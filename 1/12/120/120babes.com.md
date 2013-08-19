@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 120babes.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530183044id_/http%3A//www.120babes.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 120babes.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819185753id_/http%3A//www.120babes.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
