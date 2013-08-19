@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flixya.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426175139id_/http%3A//www.flixya.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flixya.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819145134id_/http%3A//www.flixya.com/privacy-policy) for the most accurate reproduction.*
 
 # Flixya - Share Videos, Photos, Blogs
 
