@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the presto-changeo.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509103201id_/http%3A//www.presto-changeo.com/en/content/18-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the presto-changeo.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819133344id_/http%3A//www.presto-changeo.com/en/content/18-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Presto-Changeo - Prestashop Modules and Website Development
 
@@ -65,7 +65,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 http://www.presto-changeo.com/  
-359 E19th St Suite 4A  
-New York, NY 10003  
+347 Manhattan Ave Suite 4R  
+Brooklyn, NY 11211  
 USA  
 privacy@presto-changeo.com
