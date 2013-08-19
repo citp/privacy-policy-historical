@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trademart.in privacy policy that was archived on 2012-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120825172533id_/http%3A//about.trademart.in/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trademart.in privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819033209id_/http%3A//about.trademart.in/privacy_policy.html) for the most accurate reproduction.*
 
 # Trademart Privacy Policy, Trademart.in Privacy Policy India
 
