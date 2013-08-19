@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weddingdressonlineshop.co.uk privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509010756id_/http%3A//www.weddingdressonlineshop.co.uk/content/19-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingdressonlineshop.co.uk privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819192652id_/http%3A//www.weddingdressonlineshop.co.uk/content/19-privacy-policy) for the most accurate reproduction.*
 
 # Wedding dress online shop - Privacy Policy
 
