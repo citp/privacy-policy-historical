@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 360technosoft.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509131424id_/http%3A//www.360technosoft.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 360technosoft.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819141239id_/http%3A//www.360technosoft.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for 360 Degree Technosoft - Mobile Apps Development Company India
 
