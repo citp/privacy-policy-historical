@@ -1,83 +1,18 @@
-<!--The following is the downloaded HTML source of the alawar.com privacy policy that was archived on 2013-05-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130509182400id_/http%3A//www.alawar.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the alawar.com privacy policy that was archived on 2013-08-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130819132801id_/http%3A//www.alawar.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=""><!--<![endif]--><head>
 	<meta charset="utf-8">
 <!--[if lt IE 9]><script defer src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 
-<title>Alawar Online Privacy Policy</title>
+<title data-default-partner-id="24436">Alawar Online Privacy Policy</title>
 <meta name="description" content="">
-<link rel="stylesheet" type="text/css" href="http://s3.al.s.ru.a7.ala.bz/themes/alawar7/css/www.alawar.com/36abf5b0b7131ab3db1862331f8865a3.css">
-<script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://s6.al.s.ru.a7.ala.bz/themes/alawar7/js/www.alawar.com/27b935f5204df0f0b8377a30772b4524.js"></script>
 
-<link rel="stylesheet" href="/themes/alawar7/bem/blocks/b-icon-font/b-icon-font.css">
 
-<!--Автокомплит для поиска-->
-<script type="text/javascript">
-//Делаем переход при клике на подгруженный вариант
-$.widget( "custom.clickcomplete", $.ui.autocomplete, {
-	/*Формируем группы*/
-	_renderMenu: function( ul, items ) {
-		var self = this,
-			currentCategory = "";
-		$.each( items, function( index, item ) {
-			if ( item.category != currentCategory ) {
-				ul.append( "<li class='ui-menu-item_cat'>" + item.category + "</li>" );
-				currentCategory = item.category;
-			}
-			self._renderItem( ul, item );
-		});
-	},
-	/*Если есть ссылка, добавляем*/
-	_renderItem: function( ul, item ) {
-		return $( "<li></li>" )
-			.data( "item.autocomplete", item )
-			.append( '<a href="' + (item.url != "undefined" ? item.url : '') + '">' + item.label + '</a>' )
-			.appendTo( ul );
-	}
-});
+<link rel="stylesheet" type="text/css" href="/themes/alawar7/css/www.alawar.com/131b53fb959d9c9139376d741e11eba2.css">
+<script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/themes/alawar7/js/www.alawar.com/e43c9c6d684006d741e74fa4da9612f1.js"></script>
 
-$(function() {
-	$( ".b-search__input" ).clickcomplete({
-		delay: 100
-		,source: function( request, response ) {
-			var platform = $('[name=platform]', this.element.parent('form')).val();
-			var device = $('[name=device]', this.element.parent('form')).val();
-			$.ajax({
-				url: "/search/autocomplete?q=" + encodeURIComponent(request.term)
-					+ (platform != undefined ? '&platform=' + platform : '' )
-					+ (device != undefined ? '&device=' + device : '' ),
-				success: function( data ) {
-					response( data );
-				}
-			});
-		}
-		,minLength: 2
-		//При ширине вып. списка > поля ввода, расширяем влево
-		,position: {my : "right top", at: "right bottom" }
-		/*Если есть ссылка, по нажатию переходим*/
-		,select: function(event, ui) {
-			if ( ui.item.url != "" ) {
-				window.location.href =  ui.item.url;
-			}
-		}
-	}).clickcomplete("widget").addClass("b-autocomplete");
-});
-</script>
-
-<script type="text/javascript">
-	$(function() {
-		$('.game__raiting').rater({ postHref: '/stars/rate/', units: 5, step: 0.7 });
-	});
-
-	var defaultAlawar7PartnerId = 24436;
-	var onloadTrackerPID = A7.getPid();
-	A7.setPartnerIdForUser(defaultAlawar7PartnerId);
-	SetCookieSubPartnerID();
-	SetGateway4AffiliatesUIDCookie();
-
-	A7.setTimezoneOffset();
-</script>
+<link rel="stylesheet" href="/themes/alawar7/bem/blocks/b-icon-font/b-icon-font_font.css?131b53fb959d9c9139376d741e11eba2.css">
 
 <!-- GoogleAnalitics begin -->
 <script type="text/javascript">
@@ -86,12 +21,12 @@ var PageTracker = {
 	init: function() {
                 //по умолчанию трэкаем события в Новый дизайн alawar.com [DEFAULT] (UA-32854758-1)
 		_gaq.push(['_setAccount', 'UA-32854758-1']);
-		_gaq.push(['_trackPageview']);		
+		_gaq.push(['_trackPageview']);
 	},
 	push: function (event, pagename, eventtype, eventlabel)
 	{
                 eventlabel = eventlabel || '';
-		_gaq.push([event, pagename, eventtype]);		
+		_gaq.push([event, pagename, eventtype]);
 	}
 }
 
@@ -107,153 +42,89 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 }
 </script>
 <!-- GoogleAnalitics end -->
-<script type="text/javascript">
-// newbies at a7
-var cookieName = "ALAWAR_DESIGN";
-var cookieExp = 365;
-var cookieVal = getCookie(cookieName);
-
-if (cookieVal)
-{
-	setCookie(cookieName, cookieVal, cookieExp);
-}
-else
-{
-	setCookie(cookieName, 10, cookieExp);
-}
-
-// from a7 to a6
-function changeDesignToA6()
-{
-	PageTracker.push('_trackEvent', '/design/to-a6/click', 'clicked');
-	setCookie("ALAWAR_DESIGN", 12, 365);
-	window.location = "/?refresh=2"
-	return true;
-}
-
-</script>
 
 
-<meta name="application-name" content="Alawar games">
-<meta name="msapplication-navbutton-color" content="#3480C0">
-<meta name="msapplication-tooltip" content="Alawar games">
-
-<meta name="msapplication-task" content="name=Hit games; action-uri=http://www.alawar.ru/; icon-uri=/favicon.ico">
-<meta name="msapplication-task" content="name=New games; action-uri=http://www.alawar.ru/new-games/; icon-uri=/favicon.ico">
-<meta name="msapplication-task" content="name=Top 50; action-uri=http://www.alawar.ru/top50/; icon-uri=/favicon.ico">
-<meta name="msapplication-task" content="name=Online games; action-uri=http://www.alawar.ru/online/; icon-uri=/favicon.ico">
-
-<meta name="yandex-verification" content="67fa56065045b11a">
 <script type="text/javascript">if (window.location.hash == '#_=_')window.location.hash = '';</script>
 <!--  Ссылка на лого для VK -->
-<link rel="image_src" href="http://s7.al.s.ru.a7.ala.bz/themes/alawar7/bem/blocks/b-logo/logo.png"></head>
+<link rel="image_src" href="http://s4.al.s.en.a7.ala.bz/themes/alawar7/bem/blocks/b-skin/_13_atarata/logo-128.png">
+</head>
 <body class="b-skin">
   <div class="b-skin__wrap">
     <div class="b-skin__push">
-
-<!--b-bar_alawar_toold Уведомляющий бар _АЛАВАР-В-СТАРЫЙ начало-->
-<div class="b-bar b-bar_alw_toold" style="display: none;" id="alawar-top-bar-change-design">
-	<div class="b-bar__shadow">
-		<div class="b-bar__wrap">
-			<div class="b-bar__close b-bar__close_btn"></div>
-			<a href="#" onclick="return changeDesignToA6()">← I prefer the old design.</a> Let me use it instead.		</div>
-	</div>
-</div>
-
-
-<div class="b-header">
-
-
+			<div class="b-skin__container">
+					<div class="b-header">
+				
 <!--b-hmenu_alw-top Горизонтальное меню _Алавар-Верхнее начало-->
 <div id="b-hmenu_alw-top" class="b-hmenu_alw-top-panel">
 	<ul class="b-hmenu b-block b-hmenu_alw-top">
 		<li class="b-hmenu__item_right">
 			<ul class="b-hmenu_alw-top__tools">
-								<li class="b-hmenu__item" style="display: none;" id="alawar-top-hmenu-change-design"><a href="#" onclick="return changeDesignToA6()">Use the old site</a></li>
-								<li class="b-hmenu__item"><div class="b-drdown b-drdown_lang"><span id="text-language">Language:</span>
+				<li class="b-hmenu__item"><div class="b-drdown b-drdown_lang i-declarative" onclick="return { bDrDown: { selectable: false, animation: true} }"><span class="i-lang-translate">Language:</span>
 					<div class="b-drdown__options b-drdown_lang__options">
-						<a href="http://id.alawar.com/?rd=1" class="b-drdown__options__item" title="Indonesian">Bahasa Indonesia</a>
-						<a href="http://www.alawarhry.cz/?rd=1" class="b-drdown__options__item" title="Czech">Česky</a>
-						<a href="http://www.alawar.de/?rd=1" class="b-drdown__options__item" title="German">Deutsch</a>
-						<a href="http://alawar.co.ee/?rd=1" class="b-drdown__options__item" title="Estonian">Eesti</a>
-						<a href="http://www.alawar.com/?rd=1" class="b-drdown__options__item b-drdown__options__item_active" title="English">English</a>
-						<a href="http://www.alawar.es/?rd=1" class="b-drdown__options__item" title="Spanish">Español</a>
-						<a href="http://www.alawar.fr/?rd=1" class="b-drdown__options__item" title="French (Canada)">Français (Canada)</a>
-						<a href="http://www.alawar.fr/?rd=1" class="b-drdown__options__item" title="French (France)">Français (France)</a>
-						<a href="http://www.alawar.kr/?rd=1" class="b-drdown__options__item" title="Korean">한국어</a>
-						<a href="http://alawar.com.hr/?rd=1" class="b-drdown__options__item" title="Croatian">Hrvatski</a>
-						<a href="http://www.alawar.it/?rd=1" class="b-drdown__options__item" title="Italian">Italiano</a>
-						<a href="http://www.alawar.hu/?rd=1" class="b-drdown__options__item" title="Hungarian">Magyar</a>
-						<a href="http://www.alawar.nl/?rd=1" class="b-drdown__options__item" title="Dutch">Nederlands</a>
-						<a href="http://www.alawar.jp/?rd=1" class="b-drdown__options__item" title="Japanese">日本語</a>
-						<a href="http://www.alawar.pl/?rd=1" class="b-drdown__options__item" title="Polish">Polski</a>
-						<a href="http://alawar.com.br/?rd=1" class="b-drdown__options__item" title="Portuguese (Brazil)">Português (Brasil)</a>
-						<a href="http://alawar.com.pt/?rd=1" class="b-drdown__options__item" title="Portuguese (Portugal)">Português (Portugal)</a>
-						<a href="http://www.alawar.md/?rd=1" class="b-drdown__options__item" title="Romanian (Moldova)">Română (Moldova)</a>
-						<a href="http://www.alawar.ro/?rd=1" class="b-drdown__options__item" title="Romanian (Romania)">Română (Romania)</a>
-						<a href="http://www.alawar.ru/?rd=1" class="b-drdown__options__item" title="Russian">Русский</a>
-						<a href="http://www.alawar.si/?rd=1" class="b-drdown__options__item" title="Slovene">Slovenščina</a>
-						<a href="http://www.alawar.se/?rd=1" class="b-drdown__options__item" title="Swedish">Svenska</a>
-						<a href="http://alawar.com.tr/?rd=1" class="b-drdown__options__item" title="Turkish">Türkçe</a>
-						<a href="http://www.alawar.cn/?rd=1" class="b-drdown__options__item" title="Chinese">中文</a>
-						<a href="http://www.alawar.gr/?rd=1" class="b-drdown__options__item" title="Greek">ελληνικά</a>
-						<a href="http://www.alawar.mn/?rd=1" class="b-drdown__options__item" title="Mongolian">Монгол</a>
-						<a href="http://www.alawar.rs/?rd=1" class="b-drdown__options__item" title="Serbian">Српски</a>
-						<a href="http://www.alawar.ua/?rd=1" class="b-drdown__options__item" title="Ukrainian">Українською</a>
-						<a href="http://alawar.co.il/?rd=1" class="b-drdown__options__item" title="Hebrew">עברית</a>
-					</div>
-					<a class="b-drdown__trigger" href="#">English<ins class="b-drdown__icon"></ins></a>
+<span class="b-drdown__options__item i-seo-hide" title="Czech" data-href="http://www.alawarhry.cz/?rd=1">Česky</span><span class="b-drdown__options__item i-seo-hide" title="German" data-href="http://www.alawar.de/?rd=1">Deutsch</span><span class="b-drdown__options__item b-drdown__options__item_active i-seo-hide" title="English" data-href="http://www.alawar.com/?rd=1">English</span><span class="b-drdown__options__item i-seo-hide" title="Spanish" data-href="http://www.alawar.es/?rd=1">Español</span><span class="b-drdown__options__item i-seo-hide" title="French (France)" data-href="http://www.alawar.fr/?rd=1">Français (France)</span><span class="b-drdown__options__item i-seo-hide" title="Italian" data-href="http://www.alawar.it/?rd=1">Italiano</span><span class="b-drdown__options__item i-seo-hide" title="Dutch" data-href="http://www.alawar.nl/?rd=1">Nederlands</span><span class="b-drdown__options__item i-seo-hide" title="Polish" data-href="http://www.alawar.pl/?rd=1">Polski</span><span class="b-drdown__options__item i-seo-hide" title="Russian" data-href="http://www.alawar.ru/?rd=1">Русский</span>					</div>
+					<a class="b-drdown__trigger" href="#"><span class="b-hmenu_alw-top__decoration">English</span><ins class="b-drdown__icon"></ins></a>
 				</div></li>
-				<li class="b-hmenu__item b-hmenu__item_sep">&nbsp;</li>
-						
-						
-				<li class="b-hmenu__item">	<a href="#b-login" class="b-popup-tr b-modal i-declarative" onclick="return {
+												<li class="b-hmenu__item">	<a href="#b-login" class="b-popup-tr b-modal i-declarative" onclick="return {
       bModal: {
         target: '#b-login',
         modifiers: ['nopadding']
       }
-    }"><ins class="b-icon b-icon_login"><ins></ins></ins>Login or register</a>
+    }"><span class="b-icon-font b-icon-font_enter" aria-hidden="true"></span><span class="b-hmenu_alw-top__decoration">Login or register</span></a>
 </li>
 			</ul>
-		</li><li class="b-hmenu__item b-hmenu_alw-top__nav b-hmenu__item_active">Windows</li><li class="b-hmenu__item b-hmenu_alw-top__nav"><a href="/mac/" title="Games for Mac">Mac</a></li><li class="b-hmenu__item b-hmenu_alw-top__nav"><a href="/iphone/" title="Games for iPhone">iPhone</a></li><li class="b-hmenu__item b-hmenu_alw-top__nav"><a href="/ipad/" title="Games for iPad">iPad</a></li><li class="b-hmenu__item b-hmenu_alw-top__nav"><a href="/promo/android/" title="Games for Android">Android</a></li>	</ul>
+		</li><li class="b-hmenu__item b-hmenu_alw-top__nav b-hmenu__item_active">Windows</li><li class="b-hmenu__item b-hmenu_alw-top__nav"><a href="/mac/" title="Games for Mac" class="b-hmenu_alw-top__decoration">Mac</a></li><li class="b-hmenu__item b-hmenu_alw-top__nav"><a href="/android/" title="Games for Android" class="b-hmenu_alw-top__decoration">Android</a></li>		<li class="b-hmenu__item">
+			<form action="/search/search" class="b-search b-form i-declarative" onclick="return { bForm: {} }">
+				<span class="b-form__field b-form__field_text b-form__field_append b-search__field">
+					<span class="b-form__field__wrap">
+						<input type="text" placeholder="Search" name="q" class="b-form__field__control i-declarative" autocomplete="off" id="minisearch" onclick="return {
+							bAutocomplete: {
+								url: '/search/autocomplete'
+							},
+							attr: {
+								'x-webkit-speech': 'x-webkit-speech'
+							}
+						}">
+						<button class="b-search__submit b-form__field__addon b-icon-font b-icon-font_search" type="submit"></button>
+					</span>
+				</span>
+			</form>
+		</li>
+	</ul>
 </div>
-
-<script type="text/javascript">
-lang = getBrowserLanguage()
-window.document.getElementById('text-language').innerHTML = translateLang( lang )
-</script>
 
 <!--b-hmenu_alw-top Горизонтальное меню _Алавар-Верхнее конец-->
-<!--Шапка начало-->
-	<div class="b-block b-head_tbl">
-		<table class="b-head_tbl__table">
+			</div>
+				<div class="b-skin__content">
+		<!--Шапка начало-->
+<div class="b-block b-head_tbl">
+	<a href="/" class="b-logo b-logo_mod b-head__logo"><img class="b-logo__img" src="http://s7.al.s.en.a7.ala.bz/themes/alawar7/bem/blocks/b-logo/logo.png" alt="Alawar Entertainment"></a>
+	<nav class="b-head__nav">
+		<table class="b-head__menu">
 			<tbody><tr>
-				<td class="b-head_tbl__table__logo">
-					<a href="/" class="b-logo b-logo_mod"><img class="b-logo__img" src="http://s7.al.s.ru.a7.ala.bz/themes/alawar7/bem/blocks/b-logo/logo.png" alt="Alawar Entertainment"></a>
-				</td>
-				<td class="b-head_tbl__table_center">
-					<ul class="b-hmenu b-hmenu_alw-main i-declarative" onclick="return { bHmenu: {} }">
-							<li class="b-hmenu__item b-hmenu_alw-main__item_new"><a href="/new-games/" title="Novelties from Alawar">New games</a></li><li class="b-hmenu__item b-hmenu_alw-main__item_hit"><a href="/top50/" title="Hit games">Top 50</a></li><li class="b-hmenu__item"><a href="/catalog/hidden-object/" title="Games of genre Hidden Object">Hidden Object</a></li><li class="b-hmenu__item"><a href="/catalog/arkanoid/" title="Games of genre Arkanoid">Arkanoid</a></li><li class="b-hmenu__item"><a href="/catalog/puzzle/" title="Games of genre Puzzle">Puzzle</a></li><li class="b-hmenu__item"><a href="/catalog/arcade/" title="Games of genre Arcade">Arcade</a></li><li class="b-hmenu__item"><a href="/catalog/shooter/" title="Games of genre Shooter">Shooter</a></li><li class="b-hmenu__item"><a href="/catalog/match-3/" title="Games of genre Match 3">Match 3</a></li><li class="b-hmenu__item"><a href="/online/" title="Online games">Online games</a></li>
-
-					</ul>
-				</td>
-				<td class="b-head_tbl__table__search">
-					<form action="/search/search" class="b-search b-search_opacity line" id="b-search-1">
-						<input type="text" placeholder="Search" name="q" class="b-search__input b-search_opacity__input i-declarative" onclick="return {
-						placeholderFunction: 'input-focus'
-					}" id="minisearch"><button class="b-search__submit b-search_opacity__submit" type="submit"></button>
-					<script>if($.browser.webkit) $('#minisearch').attr('x-webkit-speech', 'x-webkit-speech');</script>
-					</form>
-				</td>
+				<td class="b-head__menu__group">
+					<a href="/new-games/" class="b-head__menu__item b-head__menu__item_new" title="Novelties from Alawar">						<span class="b-icon-font b-icon-font_arrow-right" aria-hidden="true"></span>
+						New games					</a>					<a href="/top50/" class="b-head__menu__item b-head__menu__item_hit" title="Hit games">						<span class="b-icon-font b-icon-font_arrow-right" aria-hidden="true"></span>
+						Top 50					</a>				</td>
+				<td class="b-head__menu__group">
+										<a href="/online/" class="b-head__menu__item" title="Online games">						<span class="b-icon-font b-icon-font_arrow-right" aria-hidden="true"></span>
+						Online games					</a>				</td>
+				<td class="b-head__menu__group">
+					<a href="/catalog/hidden_object" class="b-head__menu__item b-head__menu__item_genre" title="Games of genre Hidden Object">						<span class="b-icon-font b-icon-font_tag" aria-hidden="true"></span>
+						Hidden Object					</a>					<a href="/catalog/arkanoid_games" class="b-head__menu__item b-head__menu__item_genre" title="Games of genre Arkanoid">						<span class="b-icon-font b-icon-font_tag" aria-hidden="true"></span>
+						Arkanoid					</a>					<a href="/catalog/puzzle" class="b-head__menu__item b-head__menu__item_genre" title="Games of genre Puzzle">						<span class="b-icon-font b-icon-font_tag" aria-hidden="true"></span>
+						Puzzle					</a></td><td class="b-head__menu__group">					<a href="/catalog/arcade_games" class="b-head__menu__item b-head__menu__item_genre" title="Games of genre Arcade">						<span class="b-icon-font b-icon-font_tag" aria-hidden="true"></span>
+						Arcade					</a>					<a href="/catalog/shooter_action" class="b-head__menu__item b-head__menu__item_genre" title="Games of genre Shooter">						<span class="b-icon-font b-icon-font_tag" aria-hidden="true"></span>
+						Shooter					</a>					<a href="/catalog/match-3" class="b-head__menu__item b-head__menu__item_genre" title="Games of genre Match 3">						<span class="b-icon-font b-icon-font_tag" aria-hidden="true"></span>
+						Match 3					</a>				</td>
 			</tr>
 		</tbody></table>
-					</div>
-
-<!--Шапка конец-->
+	</nav>
 
 </div>
+<!--Шапка конец-->
 
-<!--Информационные разделы начало-->
+
+		<!--Информационные разделы начало-->
     <div class="b-block b-info">
 <div class="unit b-block__leftcol">
 	<ul class="b-submenu_vertical">
@@ -401,60 +272,9 @@ window.document.getElementById('text-language').innerHTML = translateLang( lang 
 
 	</div>
 <!--Информационные разделы конец-->
-<!-- Нужно здесь передать адрес страницы загрузки на А7 -->
-<div class="b-fastinstall" style="display:none">
-	<div class="b-fastinstall__close"></div>
-	<div class="b-fastinstall__wrapper">
-		<div class="b-fastinstall__game">
-			<span class="b-fastinstall__game__wrap">
-				<span class="b-fastinstall__game__thumbnail__wrap">
-					<img src="data:image/png," class="b-fastinstall__game__thumbnail" alt="">
-				</span>
-				<span class="b-fastinstall__title"></span>
-			</span>
 		</div>
-		<div class="b-fastinstall__license">
-			Fastinstall licence text		</div>
-		<div class="b-fastinstall__right">
-			<a href="#" class="b-button-a b-fastinstall__download b-fastinstall__download_type_fast">
-				<span class="b-button b-button_block b-button_green b-button_big">
-					<span class="b-button__wrap">Download and play</span>
-				</span>
-			</a>
-			<a href="#" class="b-button-a b-fastinstall__download b-fastinstall__download_type_slow">
-				<span class="b-button b-button_block b-button_green b-button_big">
-					<span class="b-button__wrap">Download and play</span>
-				</span>
-			</a>
-			<div class="b-fastinstall__agree">
-				Pressing this button you confirm licence			</div>
-		</div>
-		<div class="b-fastinstall__left">
-			<label class="b-fastinstall__toggle">
-				<input type="checkbox" checked="checked" name="type" class="b-fastinstall__toggle__checkbox">
-				Fastinstall without questions			</label>
-			<div class="b-fastinstall__bonus">
-					Bonus:
-					<div class="b-pseudo-link b-fastinstall__bonus__link">
-						Yandex services						<div class="b-fastinstall__tooltip">
-							<div class="b-fastinstall__tooltip__arrow"></div>
-							<ul class="b-fastinstall__bonus__list">
-								<li>
-									Install Yandex.Browser								</li>
-								<li>
-									Install Yandex Elements								</li>
-								<li>
-									Make homepage								</li>
-								<li>
-									Make yandex as default search								</li>
-							</ul>
-						</div>
-					</div>
-			</div>
-		</div>
-	</div>
 </div>
-<!--PopUp --></div>
+<div class="b-skin__footer-decoration"></div>
 
 <!--Подвал начало-->
 <div class="b-footer">
@@ -477,38 +297,46 @@ window.document.getElementById('text-language').innerHTML = translateLang( lang 
 					<div class="b-subscribe__success_message">You are now subscribed!</div>
 				</div>
 				<ul class="b-footer__link-list">
-					<li class="b-footer__link-list__item"><a href="http://company.alawar.com/activity/publisher.php" target="_blank" class="b-footer__link">Game publishing</a></li>
-					<li class="b-footer__link-list__item"><a href="http://affiliate.alawar.com/" target="_blank" class="b-footer__link">Games catalog on your website</a></li>
-					<li class="b-footer__link-list__item"><a href="http://company.alawar.com/#contacts" target="_blank" class="b-footer__link">Your game on this website</a></li>
-					<li class="b-footer__link-list__item"><a href="http://affiliate.alawar.com/" target="_blank" class="b-footer__link">Games for your website</a></li>
+					<li class="b-footer__link-list__item">
+						<span class="b-footer__link i-seo-hide" target="_blank" data-href="http://company.alawar.com/activity/publisher.php">Game publishing</span>					</li>
+					<li class="b-footer__link-list__item">
+						<span class="b-footer__link i-seo-hide" target="_blank" data-href="http://affiliate.alawar.com/">Games catalog on your website</span>					</li>
+					<li class="b-footer__link-list__item">
+						<span class="b-footer__link i-seo-hide" target="_blank" data-href="http://company.alawar.com/#contacts">Your game on this website</span>					</li>
+					<li class="b-footer__link-list__item">
+						<span class="b-footer__link i-seo-hide" target="_blank" data-href="http://affiliate.alawar.com/">Games for your website</span>					</li>
 				</ul>
 			</li>
 			<li class="b-footer__columns__column">
 				<div class="b-footer__social">
 					<span class="b-footer__social__wrapper b-social b-social_24 b-social_white">
-						<a target="_blank" href="http://twitter.com/AlawarGames" class="b-social__item b-icon-font b-icon-font_twitter" title="twitter.com"></a>
-						<a target="_blank" href="http://www.facebook.com/AlawarEntertainment" class="b-social__item b-icon-font b-icon-font_facebook" title="facebook.com"></a>
-					</span>
+<span class="b-social__item b-icon-font b-icon-font_twitter i-seo-hide" target="_blank" title="twitter.com" data-href="http://twitter.com/AlawarGames"></span><span class="b-social__item b-icon-font b-icon-font_facebook i-seo-hide" target="_blank" title="facebook.com" data-href="http://www.facebook.com/AlawarEntertainment"></span>					</span>
 				</div>
 				<ul class="b-footer__link-list">
-					<li class="b-footer__link-list__item"><a href="http://company.alawar.com/#about" target="_blank" class="b-footer__link">About the company</a></li>
-					<li class="b-footer__link-list__item"><a href="http://company.alawar.com/#contacts" target="_blank" class="b-footer__link">Game distribution</a></li>
-					<li class="b-footer__link-list__item"><a href="http://affiliate.alawar.com/" target="_blank" class="b-footer__link">Affiliate Program</a></li>
-					<li class="b-footer__link-list__item"><a href="http://company.alawar.com/#contacts" target="_blank" class="b-footer__link">Contacts</a></li>
+					<li class="b-footer__link-list__item">
+						<span class="b-footer__link i-seo-hide" target="_blank" data-href="http://company.alawar.com/#about">About the company</span>					</li>
+					<li class="b-footer__link-list__item">
+						<span class="b-footer__link i-seo-hide" target="_blank" data-href="http://company.alawar.com/#contacts">Game distribution</span>					</li>
+					<li class="b-footer__link-list__item">
+						<span class="b-footer__link i-seo-hide" target="_blank" data-href="http://affiliate.alawar.com/">Affiliate Program</span>					</li>
+					<li class="b-footer__link-list__item">
+						<span class="b-footer__link i-seo-hide" target="_blank" data-href="http://company.alawar.com/#contacts">Contacts</span>					</li>
 				</ul>
 			</li>
-			<li class="b-footer__columns__column">
+			<li class="b-footer__columns__column b-footer__columns__column_main">
 				<div class="b-footer__support">
-					<a href="/feedback.php" class="b-footer__link b-footer__link_support"><span class="b-footer__icon b-footer__icon_support"></span>Customer Support Team</a>
+
+<span class="b-footer__link b-footer__link_support i-seo-hide" target="_blank" data-href="/feedback.php">			<span class="b-footer__icon b-footer__icon_support"></span>Customer Support Team</span>
 				</div>
 				<ul class="b-footer__link-list">
-					<li class="b-footer__link-list__item"><a href="/privacy_policy.php" class="b-footer__link">Privacy policy</a></li>
-					<li class="b-footer__link-list__item"><a href="/terms_of_use.php" class="b-footer__link">Terms of use</a></li>
+
+					<li class="b-footer__link-list__item">
+						<span class="b-footer__link i-seo-hide" target="_blank" data-href="/privacy_policy.php">Privacy policy</span>					</li>
+					<li class="b-footer__link-list__item">
+						<span class="b-footer__link i-seo-hide" target="_blank" data-href="/terms_of_use.php">Terms of use</span>					</li>
 				</ul>
-				<a href="http://alawardigital.com" class="b-footer__digital" title="Alawar Digital">
-					Powered by <span class="b-footer__digital__logo" title="Alawar Digital"></span>
-				</a>
-			</li>
+				<span class="b-footer__digital i-seo-hide" target="_blank" title="Alawar Digital" data-href="http://alawardigital.com">					Powered by <span class="b-footer__digital__logo" title="Alawar Digital"></span>
+				</span>			</li>
 			<li class="b-footer__columns__column b-footer__copyright">
 				© Alawar, 2003–2013. All trademarks are the property of their respective owners. 			</li>
 		</ul>
@@ -516,10 +344,8 @@ window.document.getElementById('text-language').innerHTML = translateLang( lang 
 </div>
 <!--Подвал конец-->
 <!--PopUp Вход, регистрация начало-->
-<div id="b-login" class="b-auth-composite  b-modal__target b-tabs i-declarative" onclick="return {
-	bAuthComposite: {}, bTabs: { defaultTab: 1 }
-}">
-<!-- recovery begin -->
+<div id="b-login" class="b-auth-composite  b-modal__target b-tabs i-declarative" onclick="return { bAuthComposite: {}, bTabs: { defaultTab: 1 } }">
+	<!-- recovery begin -->
 <div class="b-tabs__content-item">
 	<div class="b-auth-recover i-declarative" onclick="return { bAuthRecover: {} }">
 		<div class="b-auth-recover__title">Recover password</div>
@@ -533,7 +359,7 @@ window.document.getElementById('text-language').innerHTML = translateLang( lang 
 			forwardGlobalErrorsToField: 'login',
 			ajax: true
 		} }">
-			<div class="b-auth-recover__line">
+									<div class="b-auth-recover__line">
 				<span class="b-auth-recover__field b-form__field b-form__field_text">
 					<span class="b-form__field__wrap">
 						<input type="text" placeholder="Email or phone number" name="login" class="b-form__field__control b-account-link__input">
@@ -554,7 +380,7 @@ window.document.getElementById('text-language').innerHTML = translateLang( lang 
 <div class="b-tabs__content-item">
 	<div class="b-auth-login i-declarative" onclick="return {
 		bAuthLogin: {
-			refreshPageOnSuccess: true		}
+			refreshPageOnSuccess: 'http://www.alawar.com/widget/AuthCrossdomain/Sendsid/'		}
 	}">
 		<div class="b-auth-login__title">Login</div>
 		<form action="/widget/authLogin/login/" method="post" class="b-form b-auth-login__form i-declarative" onclick="return { bForm: {
@@ -569,7 +395,7 @@ window.document.getElementById('text-language').innerHTML = translateLang( lang 
 			forwardGlobalErrorsToField: 'password',
 			ajax: true
 		} }">
-			<div class="b-auth-login__line">
+						<div class="b-auth-login__line">
 				<span class="b-auth-login__field b-form__field b-form__field_text">
 					<span class="b-form__field__wrap">
 						<input type="text" placeholder="Email or phone number" name="login" class="b-form__field__control b-account-link__input">
@@ -603,7 +429,7 @@ window.document.getElementById('text-language').innerHTML = translateLang( lang 
 		<div class="b-auth-login__social">
 	<div class="b-auth-login__subtitle">Login via social network</div>
 	<span class="b-social b-social_32 b-social_colorized">
-		<a href="/widget/AuthSocial/SocialLogin/?service=facebook" aria-hidden="true" title="Facebook" class="b-icon-font b-icon-font_facebook b-social__item b-social__item_facebook"></a><a href="/widget/AuthSocial/SocialLogin/?service=google" aria-hidden="true" title="Google" class="b-icon-font b-icon-font_google b-social__item b-social__item_google"></a><a href="/widget/AuthSocial/SocialLogin/?service=twitter" aria-hidden="true" title="Twitter" class="b-icon-font b-icon-font_twitter b-social__item b-social__item_twitter"></a>	</span>
+		<a href="/widget/AuthSocial/SocialLoginViaApi/?service=google&amp;loginReturnUrl=http://www.alawar.com/widget/AuthCrossdomain/Sendsid/" aria-hidden="true" title="Google" class="b-icon-font b-icon-font_google b-social__item b-social__item_google"></a><a href="/widget/AuthSocial/SocialLoginViaApi/?service=twitter&amp;loginReturnUrl=http://www.alawar.com/widget/AuthCrossdomain/Sendsid/" aria-hidden="true" title="Twitter" class="b-icon-font b-icon-font_twitter b-social__item b-social__item_twitter"></a>	</span>
 </div>		<!--Вход через внешние системы конец-->
 	</div>
 	<div class="b-auth-composite__footer">
@@ -640,7 +466,7 @@ window.document.getElementById('text-language').innerHTML = translateLang( lang 
 		</div>
 		<div class="b-tabs__content-item">
 			<div class="b-auth-composite__register b-auth-register b-auth-register_phone b-auth-register_step_add i-declarative" onclick="return { bAuthRegister: {
-				refreshPageOnSuccess: true			} }">
+				refreshPageOnSuccess: 'http://www.alawar.com/widget/AuthCrossdomain/Sendsid/'			} }">
 				<div class="b-auth-register__add">
 					<div class="b-auth-login__subtitle">Enter phone number</div>
 					<form action="/widget/authReg/register/" method="post" class="b-form b-auth-register__form-add i-declarative" onclick="return { bForm: {
@@ -924,7 +750,7 @@ window.document.getElementById('text-language').innerHTML = translateLang( lang 
 						forwardGlobalErrorsToField: 'password',
 						ajax: true
 					} }">
-						<div class="b-auth-register__line">
+												<div class="b-auth-register__line">
 							<span class="b-form__field b-form__field_text">
 								<span class="b-form__field__wrap">
 									<input type="text" name="login" readonly="" class="b-form__field__control b-auth-register__input b-auth-register__confirm__login">
@@ -988,8 +814,9 @@ window.document.getElementById('text-language').innerHTML = translateLang( lang 
 							</span>
 						</div>
 						<input type="hidden" name="type" value="email">
-												<div class="b-auth-register__line">
-						    <label class="b-form__label b-auth-login__not-my-device" to="subscribe">
+												<input type="hidden" name="loginReturnUrl" value="http://www.alawar.com/widget/AuthCrossdomain/Sendsid/">
+						<div class="b-auth-register__line">
+						    <label class="b-form__label b-auth-login__not-my-device">
 						        <span class="b-form__field b-form__field_checkbox">
 						            <span class="b-form__field__wrap">
 						                <input type="checkbox" name="subscribe" class="b-form__field__control" checked="">
@@ -1013,9 +840,6 @@ window.document.getElementById('text-language').innerHTML = translateLang( lang 
 </div>
 <!-- register end --></div>
 <!--PopUp Вход, регистрация конец-->
-
-<!-- CrossDomain Auth BEGIN -->
-<!-- CrossDomain Auth END -->
 
 <script type="text/javascript">
 // anchors support
@@ -1063,6 +887,7 @@ $(document).ready(function(){
 <noscript><div><img src="//mc.yandex.ru/watch/15547795" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter --><script type="text/javascript" src="http://en.data.counter.services.alawar.com/gcounter_alawar.js"></script>
 <!-- Counters end --></div>
+</div>
 <!-- monitor OK -->
 
 </body></html>
