@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the simtropolis.com privacy policy that was archived on 2013-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130403160421id_/http%3A//community.simtropolis.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simtropolis.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819155853id_/http%3A//community.simtropolis.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Simtropolis Forums
 
 **Welcome to Simtropolis!**  
-Simtropolis is a fansite community dedicated to SimCity. To enable all the features of the site, and gain additional access, please [sign in](http://community.simtropolis.com/index.php?app=core&module=global&section=login) or [register](http://community.simtropolis.com/index.php?app=core&module=global&section=register) a new account. 
+Simtropolis is a fansite community dedicated to SimCity. Sign in or register a new account to enable all the features of the site, remove download restrictions and gain additional access. 
 
   
 
