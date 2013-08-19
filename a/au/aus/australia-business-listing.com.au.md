@@ -1,188 +1,188 @@
-> *The following text is extracted and transformed from the australia-business-listing.com.au privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529155508id_/http%3A//www.australia-business-listing.com.au/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the australia-business-listing.com.au privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819092842id_/http%3A//www.australia-business-listing.com.au/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Free business listings directories for Australian businesses
 
 Just Listed 
 
-[Double-Take Cover](http://www.australia-business-listing.com.au/Shopping/Double-Take-Cover-l23032.html)
+[Online document management](http://www.australia-business-listing.com.au/Business/Online-document-management-l23338.html)
 
-May 29, 2013
+Aug 18, 2013
 
-[Blinds Sydney](http://www.australia-business-listing.com.au/Home-Improvement/Blinds-Sydney-l23031.html)
+[EmbroidMe Malaga](http://www.australia-business-listing.com.au/Advertising/EmbroidMe-Malaga-l23337.html)
 
-May 29, 2013
+Aug 16, 2013
 
-[STONE POLISHING SYDNEY](http://www.australia-business-listing.com.au/Other/STONE-POLISHING-SYDNEY-l23030.html)
+[Conveyancing Sydney](http://www.australia-business-listing.com.au/Legal/Conveyancing-Sydney-l23336.html)
 
-May 29, 2013
+Aug 16, 2013
 
-[ELECTRICIAN BRISBANE](http://www.australia-business-listing.com.au/Electrical/ELECTRICIAN-BRISBANE-l23029.html)
+[Gift Ideas](http://www.australia-business-listing.com.au/Giftware/Gift-Ideas-l23334.html)
 
-May 29, 2013
+Aug 15, 2013
 
-[daystarselfsecurity](http://www.australia-business-listing.com.au/Weddings/daystarselfsecurity-l23028.html)
+[Zen Promotional](http://www.australia-business-listing.com.au/Manufacturers/Zen-Promotional-l23335.html)
 
-May 29, 2013
+Aug 15, 2013
 
-[Vista Eyes](http://www.australia-business-listing.com.au/Health/Vista-Eyes-l23027.html)
+[Business Brokers HQ](http://www.australia-business-listing.com.au/Business/Business-Brokers-HQ-l23333.html)
 
-May 28, 2013
+Aug 14, 2013
 
-[Buy followers on twitter](http://www.australia-business-listing.com.au/Business/Buy-followers-on-twitter-l23026.html)
+[Mobile text marketing](http://www.australia-business-listing.com.au/Business-Opportunity/Mobile-text-marketing-l23331.html)
 
-May 28, 2013
+Aug 13, 2013
 
-[Mobile massage Sydney](http://www.australia-business-listing.com.au/Health/Mobile-massage-Sydney-l23025.html)
+[Car Valuation](http://www.australia-business-listing.com.au/Business/Car-Valuation-l23330.html)
 
-May 28, 2013
+Aug 13, 2013
 
-[Get followers on twitter](http://www.australia-business-listing.com.au/Business/Get-followers-on-twitter-l23024.html)
+[Vehicle tents](http://www.australia-business-listing.com.au/Business/Vehicle-tents-l23329.html)
 
-May 28, 2013
+Aug 13, 2013
 
-[corporate uniforms](http://www.australia-business-listing.com.au/Shopping/corporate-uniforms-l23023.html)
+[Text message marketing](http://www.australia-business-listing.com.au/Business/Text-message-marketing-l23328.html)
 
-May 28, 2013
+Aug 13, 2013
 
-[Raz Wedding Photography Perth](http://www.australia-business-listing.com.au/Photography/Raz-Wedding-Photography-Perth-l23022.html)
+[Shipping Containers For Sale](http://www.australia-business-listing.com.au/Advertising/Shipping-Containers-For-Sale-l23327.html)
 
-May 28, 2013
+Aug 13, 2013
 
-[Web Design Melbourne - Powerful Mobile Friendly Website comes in Affordable Price](http://www.australia-business-listing.com.au/Web-Design/Web-Design-Melbourne-Powerful-Mobile-Friendly-Website-comes-in-Affordable-Price-l23021.html)
+[Locksmith Perth](http://www.australia-business-listing.com.au/Locks-Locksmith/Locksmith-Perth-l23326.html)
 
-May 28, 2013
+Aug 13, 2013
 
-[Electrician To The Rescue](http://www.australia-business-listing.com.au/Electrical/Electrician-To-The-Rescue-l23020.html)
+[business coaches](http://www.australia-business-listing.com.au/Business-Opportunity/business-coaches-l23325.html)
 
-May 28, 2013
+Aug 13, 2013
 
-[Dig It](http://www.australia-business-listing.com.au/Marketing/Dig-It-l23019.html)
+[CPAP Victoria](http://www.australia-business-listing.com.au/Medical/CPAP-Victoria-l23324.html)
 
-May 27, 2013
+Aug 12, 2013
 
-[Nopalea TrIVita Australia](http://www.australia-business-listing.com.au/Health/Nopalea-TrIVita-Australia-l23018.html)
+[Single Divan Bed](http://www.australia-business-listing.com.au/Business/Single-Divan-Bed-l23323.html)
 
-May 27, 2013
+Aug 12, 2013
 
-[Top Dollar Mobile](http://www.australia-business-listing.com.au/Telecommunications/Top-Dollar-Mobile-l23017.html)
+[Jacksonville houses for rent](http://www.australia-business-listing.com.au/Business/Jacksonville-houses-for-rent-l23322.html)
 
-May 27, 2013
+Aug 12, 2013
 
-[Nanu Bhai Property](http://www.australia-business-listing.com.au/Real-Estate/Nanu-Bhai-Property-l23015.html)
+[Houses for rent in jacksonville fl](http://www.australia-business-listing.com.au/Business/Houses-for-rent-in-jacksonville-fl-l23321.html)
 
-May 26, 2013
+Aug 12, 2013
 
-[WikiKlix: An independent Search Engine and Web Directory](http://www.australia-business-listing.com.au/Directories/WikiKlix-An-independent-Search-Engine-and-Web-Directory-l23014.html)
+[Mastercraft Roofing and Guttering](http://www.australia-business-listing.com.au/Home-Renovation/Mastercraft-Roofing-and-Guttering-l23320.html)
 
-May 26, 2013
+Aug 12, 2013
 
-[Real Estate - Next Place](http://www.australia-business-listing.com.au/Real-Estate/Real-Estate-Next-Place-l23016.html)
+[IC Markets](http://www.australia-business-listing.com.au/Finance/IC-Markets-l23319.html)
 
-May 26, 2013
+Aug 11, 2013
 
-[Susan Toohey Natural Medicine](http://www.australia-business-listing.com.au/Health/Susan-Toohey-Natural-Medicine-l23013.html)
+[Personal injury attorney bronx](http://www.australia-business-listing.com.au/Buy-Business/Personal-injury-attorney-bronx-l23318.html)
 
-May 25, 2013
+Aug 10, 2013
 
-[landscaping ideas perth](http://www.australia-business-listing.com.au/Building-Construction/landscaping-ideas-perth-l23012.html)
+[Bronx personal injury lawyer](http://www.australia-business-listing.com.au/Business/Bronx-personal-injury-lawyer-l23317.html)
 
-May 25, 2013
+Aug 10, 2013
 
-[Lifestyle Essentials](http://www.australia-business-listing.com.au/Health/Lifestyle-Essentials-l23011.html)
+[Buy Youtube Views](http://www.australia-business-listing.com.au/Business/Buy-Youtube-Views-l23316.html)
 
-May 25, 2013
+Aug 9, 2013
 
-[Best wordpress themes](http://www.australia-business-listing.com.au/Business/Best-wordpress-themes-l23010.html)
+[Std testing center](http://www.australia-business-listing.com.au/Business/Std-testing-center-l23315.html)
 
-May 25, 2013
+Aug 9, 2013
 
-[South Pacific Resort and Spa Noosa](http://www.australia-business-listing.com.au/Accommodation/South-Pacific-Resort-and-Spa-Noosa-l23009.html)
+[Adelaide Fencing](http://www.australia-business-listing.com.au/Business/Adelaide-Fencing-l23314.html)
 
-May 25, 2013
+Aug 9, 2013
 
-[Weddings Perth](http://www.australia-business-listing.com.au/Weddings/Weddings-Perth-l23008.html)
+[Cheap hotels london](http://www.australia-business-listing.com.au/Business/Cheap-hotels-london-l23313.html)
 
-May 24, 2013
+Aug 9, 2013
 
-[The Guardian of Genghis Khan's Tomb](http://www.australia-business-listing.com.au/Books/The-Guardian-of-Genghis-Khan-s-Tomb-l23007.html)
+[Hostels in london](http://www.australia-business-listing.com.au/Business/Hostels-in-london-l23312.html)
 
-May 24, 2013
+Aug 9, 2013
 
-[Professional wordpress themes](http://www.australia-business-listing.com.au/Business/Professional-wordpress-themes-l23006.html)
+[Visa Answer](http://www.australia-business-listing.com.au/Immigration/Visa-Answer-l23311.html)
 
-May 24, 2013
+Aug 9, 2013
 
-[Tactica Partners](http://www.australia-business-listing.com.au/Accountant/Tactica-Partners-l23005.html)
+[" Commercial Fitout"](http://www.australia-business-listing.com.au/Furniture/quot-Commercial-Fitout-quot-l23310.html)
 
-May 24, 2013
+Aug 9, 2013
 
-[Optam Building Group](http://www.australia-business-listing.com.au/Building-Construction/Optam-Building-Group-l23004.html)
+[Web Development India](http://www.australia-business-listing.com.au/Web-Design/Web-Development-India-l23309.html)
 
-May 23, 2013
+Aug 8, 2013
 
-[Komic Plant and Machinery Hire WA](http://www.australia-business-listing.com.au/Building-Construction/Komic-Plant-and-Machinery-Hire-WA-l23003.html)
+[Clip in Hair Extensions Melbourne](http://www.australia-business-listing.com.au/Beauty/Clip-in-Hair-Extensions-Melbourne-l23308.html)
 
-May 23, 2013
+Aug 8, 2013
 
-[Rainy Day Business Solutions](http://www.australia-business-listing.com.au/Marketing/Rainy-Day-Business-Solutions-l23002.html)
+[Pet Insurance](http://www.australia-business-listing.com.au/Finance/Pet-Insurance-l23307.html)
 
-May 23, 2013
+Aug 8, 2013
 
-[Flix Cams](http://www.australia-business-listing.com.au/Adult-only-18/Flix-Cams-l23001.html)
+[Basement Waterproofing](http://www.australia-business-listing.com.au/Services/Basement-Waterproofing-l23306.html)
 
-May 23, 2013
+Aug 7, 2013
 
-[Rockstars and angels fashion](http://www.australia-business-listing.com.au/Fashion/Rockstars-and-angels-fashion-l23000.html)
+[AdultSmart - Best Adult Store Australia](http://www.australia-business-listing.com.au/Adult-only-18/AdultSmart-Best-Adult-Store-Australia-l23305.html)
 
-May 23, 2013
+Aug 6, 2013
 
-[Garage door repair](http://www.australia-business-listing.com.au/Home-Improvement/Garage-door-repair-l22999.html)
+[Play Mobile Roulette Australia](http://www.australia-business-listing.com.au/Entertainment/Play-Mobile-Roulette-Australia-l23304.html)
 
-May 23, 2013
+Aug 6, 2013
 
-[Tax deprciation schedules from $225](http://www.australia-business-listing.com.au/Finance/Tax-deprciation-schedules-from-225-l22998.html)
+[OZ SEO Services](http://www.australia-business-listing.com.au/Business/OZ-SEO-Services-l23303.html)
 
-May 23, 2013
+Aug 6, 2013
 
-[King Furniture Northmead](http://www.australia-business-listing.com.au/Furniture/King-Furniture-Northmead-l22997.html)
+[Tenix Career Opportunities](http://www.australia-business-listing.com.au/Jobs/Tenix-Career-Opportunities-l23302.html)
 
-May 23, 2013
+Aug 6, 2013
 
-[Massage Wodonga](http://www.australia-business-listing.com.au/Health/Massage-Wodonga-l22996.html)
+[Bizibrush](http://www.australia-business-listing.com.au/Home-Improvement/Bizibrush-l23301.html)
 
-May 23, 2013
+Aug 6, 2013
 
-[Modular Kit Homes and Granny Flats for Sale](http://www.australia-business-listing.com.au/Home-Improvement/Modular-Kit-Homes-and-Granny-Flats-for-Sale-l22995.html)
+[Crystal Faces](http://www.australia-business-listing.com.au/Entertainment/Crystal-Faces-l23300.html)
 
-May 22, 2013
+Aug 5, 2013
 
-[Relationship and Couples Counselling Sydney](http://www.australia-business-listing.com.au/Health/Relationship-and-Couples-Counselling-Sydney-l22994.html)
+[Ashley Furniture HomeStore](http://www.australia-business-listing.com.au/Home-Design/Ashley-Furniture-HomeStore-l23299.html)
 
-May 22, 2013
+Aug 5, 2013
 
-[Stylish Outback Australia](http://www.australia-business-listing.com.au/Shopping/Stylish-Outback-Australia-l22993.html)
+[Yoga Pants](http://www.australia-business-listing.com.au/Business/Yoga-Pants-l23298.html)
 
-May 22, 2013
+Aug 5, 2013
 
-[Mediterranean Resorts](http://www.australia-business-listing.com.au/Accommodation/Mediterranean-Resorts-l22992.html)
+[Victoria Plumbing & Maintenance](http://www.australia-business-listing.com.au/Arts-and-Culture/Victoria-Plumbing-amp-Maintenance-l23297.html)
 
-May 22, 2013
+Aug 5, 2013
 
-[Carbon Impacts](http://www.australia-business-listing.com.au/Business/Carbon-Impacts-l22991.html)
+[Forest Lodge Motor Inn & Restaurant](http://www.australia-business-listing.com.au/Accommodation/Forest-Lodge-Motor-Inn-amp-Restaurant-l23296.html)
 
-May 22, 2013
+Aug 5, 2013
 
-[Goomburra Forest Retreat](http://www.australia-business-listing.com.au/Accommodation/Goomburra-Forest-Retreat-l22990.html)
+[Forrest Hotel and Apartments](http://www.australia-business-listing.com.au/Accommodation/Forrest-Hotel-and-Apartments-l23295.html)
 
-May 21, 2013
+Aug 5, 2013
 
-[The Billi Resort](http://www.australia-business-listing.com.au/Accommodation/The-Billi-Resort-l22989.html)
+[Cash Train](http://www.australia-business-listing.com.au/Finance/Cash-Train-l23294.html)
 
-May 21, 2013
+Aug 4, 2013
 
-[Auction Designs eBay template Design Australia](http://www.australia-business-listing.com.au/Web-Design/Auction-Designs-eBay-template-Design-Australia-l22988.html)
+[BRISBANE EXECUTIVE LIMOUSINES](http://www.australia-business-listing.com.au/Cars/BRISBANE-EXECUTIVE-LIMOUSINES-l23293.html)
 
-May 21, 2013
+Aug 3, 2013
 
 | 
 
@@ -245,3 +245,7 @@ If you reasonably believe that there has been an unauthorised disclosure of your
 We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
 | 
+
+Premium Businesses 
+
+**1 year - SALES $55 was $300**
