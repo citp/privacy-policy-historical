@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stfucollege.com privacy policy that was archived on 2013-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130123170728id_/http%3A//www.stfucollege.com/stfucollege/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stfucollege.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819124815id_/http%3A//www.stfucollege.com/stfucollege/privacy.html) for the most accurate reproduction.*
 
 # 
 
