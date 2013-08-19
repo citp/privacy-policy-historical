@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the becker.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530141415id_/http%3A//becker.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the becker.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819041321id_/http%3A//www.becker.com/privacy_policy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy - Becker Professional Development Corporation Web Sites - Becker CPA Exam Review
 
