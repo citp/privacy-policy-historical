@@ -1,680 +1,2432 @@
-<!--The following is the downloaded HTML source of the hamaramall.com privacy policy that was archived on 2005-02-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050221183845id_/http%3A//www.hamaramall.com/newsrc/spg/asp/pp.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hamaramall.com privacy policy that was archived on 2013-08-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130819184659id_/http%3A//www.hamaramall.com/privacypolicy/12) for the most accurate reproduction.-->
 
-<html><head>
-<style>
-a {color:;text-decoration:underline;}
-a:active {color:#ff0000; text-decoration:underline;}
-a:hover {color:#ff0000;text-decoration:underline;} 
-</style>
+<!DOCTYPE html><html dir="ltr" lang="en-US"><head><title>Privacy Policy</title>
+<meta name="verify-v1" content="Verification Code">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="keywords" content="men shopping, men online shopping, Online men shopping, online shopping for men, online shop for men">
+<meta name="description" content="Hamaramall-one stop shop for all your shopping concerns. Find an exclusive range of Men &amp; Womens clothing, jewelleries, laptops, accessories  &amp; more @ affordable price">
+<meta name="google-site-verification" content="">
+<meta name="msvalidate.01" content="">
+<meta name="alexaVerifyID" content="Qci9pysxGJPsWILtJLdEGsWYAgo">
 
-<meta name="GENERATOR" content="Microsoft Visual Studio 6.0">
-</head>
 
-<body bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" rightmargin="0">
-<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
-<tbody><tr>
-<td align="center">
-<script language="javascript">
-function check_username(tmp_username)
+<link href="http://www.hamaramall.com/templates/template2/css/agile_carousel.css" rel="stylesheet" type="text/css"><link href="http://www.hamaramall.com/templates/template2/css/custom.css" rel="stylesheet" type="text/css">
+<link rel="shortcut icon" title="Title" href="http://www.hamaramall.com/admin/logo/HM-31152-acdhiklmvw.png">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-37279908-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script></head>
+
+
+<body>
+
+<script type="text/javascript" src="http://www.hamaramall.com/js/jquery.all.min.js"></script>
+<script type="text/javascript" src="http://www.hamaramall.com/js/general_js.js"></script>
+<script type="text/javascript" src="http://www.hamaramall.com/includes/tiny_mce/tiny_mce.js"></script>
+<script type="text/javascript" src="http://www.hamaramall.com/js/jquery.reveal.js"></script>
+
+<script>
+
+
+
+tinyMCE.init({
+mode : "textareas",
+theme : "simple",
+editor_selector : "tinymce_simple", });
+tinyMCE.init({
+mode : "textareas",
+theme : "advanced",
+editor_selector : "tinymce_adv", });
+
+$(function() {
+for(var i=0;i < $('form').length; i++) {
+var idd=$('form')[i].id;
+if(idd!='top_search') {
+var elements=$('#'+idd).find(':text');
+if(elements.length != 0) {
+elements[0].select(); } } } });
+
+function change_ajax(div_id,values) {
+if(values.indexOf(' ')>0) { values=values.replace(/ /g,'%c_space%'); }
+$(document).ready(function() {
+$.ajaxSetup({ cache: false });
+$('#'+div_id).load('http://www.hamaramall.com/class/ajax.php?'+values);  
+}); }
+
+
+
+
+function validate_ship_addrs() {
+
+var div_id=document.getElementById("notification");
+var not_div=document.getElementById("notifi_hide");
+
+if(document.getElementById("addr_contact_name").value=="") { 
+div_id.innerHTML="Please Enter User Shipping Name";
+document.getElementById("addr_contact_name").focus();
+not_div.style.display='';
+return false; }
+
+if(document.getElementById("addr_mobile_number").value==''){
+div_id.innerHTML="Please Enter Shipping Mobile Number";
+document.getElementById("addr_mobile_number").focus();
+not_div.style.display='';
+return false; }
+
+if(document.getElementById("addr_address").value=="") { 
+div_id.innerHTML="Please Enter Shipping Address";
+document.getElementById("addr_address").focus();
+not_div.style.display='';
+return false; }
+
+if(document.getElementById("user_country").value=="") { 
+div_id.innerHTML="Please Select Your Shipping Country";
+document.getElementById("user_country").focus();
+not_div.style.display='';
+return false; }
+
+if(document.getElementById("user_state").value=="") { 
+div_id.innerHTML="Please Select Shipping State";
+document.getElementById("user_state").focus();
+not_div.style.display='';
+return false; }
+
+if(document.getElementById("user_city").value=="") { 
+div_id.innerHTML="Please Select Shipping City";
+document.getElementById("user_city").focus();
+not_div.style.display='';
+return false; }
+
+if(document.getElementById("addr_zipcode").value==''){
+div_id.innerHTML="Please Enter Shipping Zipcode";
+document.getElementById("addr_zipcode").focus();
+not_div.style.display='';
+return false; }
+ 
+
+if(document.getElementById("user_vercode").value=="") { 
+div_id.innerHTML="Please Enter Verification Code";
+document.getElementById("user_vercode").focus();
+not_div.style.display='';
+return false; }
+
+if(document.getElementById("user_vercode").value!=document.getElementById("user_vercheck").value) {
+div_id.innerHTML="Incorrect!!! Please Re-Enter Verification Code";
+document.getElementById("user_vercode").value="";
+document.getElementById("user_vercode").focus();
+not_div.style.display='';
+return false; }
+
+ }
+
+function add_price_now(retPrc,buyPrc,getId)
 {
-		tmp_username = tmp_username.toLowerCase();
-	
-			if(tmp_username == "" ) 
-			{
-				alert("User Name left blank");
-				return false;
-			}
-			
-			// check for first character should only be alphabet
-			else if((tmp_username.charCodeAt(0) < 97) || (tmp_username.charCodeAt(0) > 122))
-			{
-				alert("Invalid first character in User Name,\nFirst character should be an alphabet");
-				return false;
-			}
-			
-			// check for min characters ie 3
-			else if(tmp_username.length < 3)
-			{
-				alert("User Name requires min. 3 characters");
-				return false;
-			}
-			
-			// check that last character should not be an underscore(_)
-			else if((tmp_username.charCodeAt((tmp_username.length)-1)) == 95)
-			{
-				alert("Invalid last character in User Name");
-				return false;
-			}
-			
-			// else check for invalid characters in the user name
-			else
-			{
-				for(count=0; count < tmp_username.length;count++)
-				{
-					if(((tmp_username.charCodeAt(count) < 97) || (tmp_username.charCodeAt(count) > 122)) && (tmp_username.charCodeAt(count) != 95) && ((tmp_username.charCodeAt(count) < 48) || (tmp_username.charCodeAt(count) > 57)))
-					{
-						if((tmp_username.charCodeAt(count) == 32))
-							{alert("Spaces not allowed in User Name");} // Message for spaces
-						else
-							{alert("Invalid characters in User Name,\nOnly alphanumeric or (_)underscore allowed");} // Message for other invalid characters
-						return false;
-						break;
-					}
-				}
-			}
-
-}
-
-function check_password(tmp_password,tmp_username)
-{
-	tmp_password = tmp_password.toLowerCase();
-	tmp_username = tmp_username.toLowerCase();
-	
-	//check for user name not null
-	if(tmp_password == "" ) 
+	var check_id=document.getElementById(getId);
+	var deft_buy=parseFloat(document.getElementById("hid_buy_prc").value);
+	var deft_ret=parseFloat(document.getElementById("hid_ret_prc").value);
+	var newRPrc=0; var newBPrc=0;
+	var retPrc=parseFloat(retPrc);
+	var buyPrc=parseFloat(buyPrc);
+	if(check_id.checked==true)
 	{
-		alert("Password left blank");
-		return false;
-	}
-	else if(tmp_password.length < 6)
-	{
-		alert("Password requires min. 6 characters");
-		return false;
-	}
-	else if(tmp_password == tmp_username)
-	{
-		alert("User Name & Password cannot be same");
-		return false;
+		newRPrc=deft_ret+retPrc;
+		newBPrc=deft_buy+buyPrc;
 	}
 	else
 	{
-		for(count=0; count < tmp_password.length;count++)
+		newRPrc=deft_ret-retPrc;
+		newBPrc=deft_buy-buyPrc;
+	}
+	document.getElementById("hid_buy_prc").value=newBPrc;
+	document.getElementById("hid_ret_prc").value=newRPrc;
+	document.getElementById("retail_prc").innerHTML="Rs. "+addCommas(newRPrc.toFixed(2));
+	document.getElementById("buynow_prc").innerHTML="Rs. "+addCommas(newBPrc.toFixed(2));
+}
+
+function show_prices(retail,buynow)
+{
+	var newBPrc=parseFloat(buynow);
+	var newRPrc=parseFloat(retail);
+	document.getElementById("hid_buy_prc").value=newBPrc;
+	document.getElementById("hid_ret_prc").value=newRPrc;
+	document.getElementById("retail_prc").innerHTML="Rs. "+addCommas(parseFloat(newRPrc).toFixed(2));
+	document.getElementById("buynow_prc").innerHTML="Rs. "+addCommas(parseFloat(newBPrc).toFixed(2));
+}
+
+function validate_otherpay()
+{
+	var div_id=document.getElementById("notification");
+	var not_div=document.getElementById("notifi_hide");
+	
+	if(document.getElementById("so_bank_name").value=="")
+	{
+		div_id.innerHTML="Please Enter Bank Name";
+		document.getElementById("so_bank_name").focus();
+		not_div.style.display='';
+		return false;
+	}
+	if(document.getElementById("so_cheque_no").value=="")
+	{
+		div_id.innerHTML="Please Enter Cheque Number";
+		document.getElementById("so_cheque_no").focus();
+		not_div.style.display='';
+		return false;
+	}
+	if(document.getElementById("so_slip_no").value=="")
+	{
+		div_id.innerHTML="Please Enter Reciept Number";
+		document.getElementById("so_slip_no").focus();
+		not_div.style.display='';
+		return false;
+	}
+	if(document.getElementById("so_pay_comments").value=="")
+	{
+		div_id.innerHTML="Please Enter A Short Note";
+		document.getElementById("so_pay_comments").focus();
+		not_div.style.display='';
+		return false;
+	}
+	
+if(document.getElementById("other_ver_code").value=="") { 
+div_id.innerHTML="Please Enter Verification Code";
+document.getElementById("other_ver_code").focus();
+not_div.style.display='';
+return false; }
+
+if(document.getElementById("other_ver_code").value!=document.getElementById("other_vercheck").value) {
+div_id.innerHTML="Incorrect!!! Please Re-Enter Verification Code";
+document.getElementById("other_ver_code").value="";
+document.getElementById("other_ver_code").focus();
+not_div.style.display='';
+return false; }
+
+}
+
+
+
+function direct_to_file(div_id,values)
+{
+	if(values.indexOf(' ')>0) { values=values.replace(/ /g,''); }
+	$(document).ready(function() {
+	$.ajaxSetup({ cache: false });
+	$('#'+div_id).load('http://www.hamaramall.com/'+values);  
+	});
+}
+
+function ajax_to_file(div_id,type_select,count_now,variable) {
+var str="";
+var values="";
+for(var i=0; i<count_now; i++) {
+var check=document.getElementById(type_select+i);
+if(check.checked==true) { str+=check.value+','; } }
+values=variable+'='+str;
+$(document).ready(function() {
+$.ajaxSetup({ cache: false });
+$('#'+div_id).load('http://www.hamaramall.com/inc_results.php?cat=&&cat_id=&&'+values);
+}); }
+
+function get_all_values(noValId,divid,values)
+{
+	var getNow=document.getElementById(noValId);
+	var str="";
+	for(var i=0;i<getNow.options.length;i++)
+	{
+		getVal=getNow.options[i].value;
+		if(getVal!='')
 		{
-			if((tmp_password.charCodeAt(count) == 32))
+			str+=getVal+",";
+		}
+	}
+	change_ajax(divid,values+"&&noval="+str);
+}
+
+function multi_updateqty(i,id,count)
+{
+	var div_id="stk_row"+i;
+	var str="";
+	for(var m=1;m<=parseInt(count);m++)
+	{
+		var valnow=document.getElementById("multiqty"+i+m).value;
+		if(valnow=='')
+		{
+			valnow=0;
+		}
+		str+=valnow+",";
+	}
+	change_ajax(div_id,'send=multiqty_update&&l='+i+'&&id='+id+'&&val='+str);
+}
+
+function validate_multiqty(i,count,id)
+{
+	for(var m=1;m<=parseInt(count);m++)
+	{
+		if(document.getElementById("multiqty"+i+m).value=="")
+		{
+			alert("Field Cannot Be Blank");
+			document.getElementById("multiqty"+i+m).focus();
+			return false;
+		}
+	}
+	multi_updateqty(i,id,count);
+}
+
+function send_values(name,size,reader,i)
+{
+	var div_id="div_id_"+i;
+	document.getElementById("images").innerHTML="";
+	reader.onload = function(e)
+	{
+				var strr="<tr><td class='vmiddle center' colspan='2'><label><input type='radio' name='defaultimage' value='"+i+"' checked='checked' />Default </label></td></tr>";
+				document.getElementById("images").innerHTML+="<div class='rel_prd_pnl' id='"+div_id+"'><table width='100%' border='0' cellpadding='0' cellspacing='0'><tr><td class='vmiddle center' colspan='2'><img onclick=preview_image('"+e.target.result+"'); src='"+e.target.result+"' width='100' height='130' style='float:left; cursor:pointer; padding:5px;'></td></tr>"+strr+"</table></div>";
+	}
+}
+
+function validate_userpayment()
+{
+	var div_id=document.getElementById("notification");
+	var not_div=document.getElementById("notifi_hide");
+	var pay_type=document.getElementById("pay_name").value;
+	
+	if(pay_type=="Paypal")
+	{ 
+		if(document.getElementById("paypal_email").value=="")
+		{ 
+			div_id.innerHTML="Please Enter Paypal Email-id";
+			document.getElementById("paypal_email").focus();
+			not_div.style.display='';
+			return false;
+		}
+	}
+	else if(pay_type=="Ccavenue")
+	{
+		if(document.getElementById("ccavenue_mer_id").value=="")
+		{ 
+			div_id.innerHTML="Please Enter ccavenue id";
+			document.getElementById("ccavenue_mer_id").focus();
+			not_div.style.display='';
+			return false;
+		}
+		if(document.getElementById("ccavenue_work_key").value=="")
+		{ 
+			div_id.innerHTML="Please Enter ccavenue key";
+			document.getElementById("ccavenue_work_key").focus();
+			not_div.style.display='';
+			return false;
+		}
+	}
+	else if(pay_type=="Through Bank")
+	{
+		if(document.getElementById("oth_bank_details").value=="")
+		{ 
+			div_id.innerHTML="Please Enter Your Bank Details";
+			document.getElementById("oth_bank_details").focus();
+			not_div.style.display='';
+			return false;
+		}
+	}
+	
+	
+if(document.getElementById("user_vercode").value=="") { 
+div_id.innerHTML="Please Enter Verification Code";
+document.getElementById("user_vercode").focus();
+not_div.style.display='';
+return false; }
+
+if(document.getElementById("user_vercode").value!=document.getElementById("user_vercheck").value) {
+div_id.innerHTML="Incorrect!!! Please Re-Enter Verification Code";
+document.getElementById("user_vercode").value="";
+document.getElementById("user_vercode").focus();
+not_div.style.display='';
+return false; }
+
+}
+
+function get_specific_products(getVal,getId,eqVal)
+{
+	if(getVal==eqVal)
+	{
+		document.getElementById(getId).style.display="";
+	}
+	else
+	{
+		document.getElementById(getId).style.display="none";
+	}
+}
+
+function get_discount_type(getVal)
+{
+	if(getVal=="by_free")
+	{
+		document.getElementById("prod_type").style.display="";
+		document.getElementById("val_type").style.display="none";
+	}
+	else
+	{
+		document.getElementById("prod_type").style.display="none";
+		document.getElementById("val_type").style.display=""
+	}
+}
+
+function do_scroll_click(condition)
+{
+	document.getElementById("scroll_pagination").innerHTML="";
+	$('#scroll_pagination').scrollPagination({
+
+		nop     : 10,
+		offset  : 0,
+		error   : 'No More Products!',
+		delay   : 1000,
+		scroll  : true,
+		inc_file : 'http://www.hamaramall.com/member/inc_spec_prods.php?'+condition,
+		
+});
+}
+
+function get_field(type)
+{
+	var value_now="";
+	var return_val="";
+	var val_return="";
+	if(document.getElementById("main_category").value!='')
+	{
+		value_now="prod_cat_id";
+		val_return=document.getElementById("main_category").value;
+	}
+	if(document.getElementById("sub_category1").value!='')
+	{
+		value_now="prod_subcategory_1";
+		val_return=document.getElementById("sub_category1").value;
+	}
+	if(document.getElementById("sub_category2").value!='')
+	{
+		value_now="prod_subcategory_2";
+		val_return=document.getElementById("sub_category2").value;
+	}
+	if(type=="fld")
+	{
+		return_val=value_now;
+	}
+	else
+	{
+		return_val=val_return;
+	}
+	return return_val;
+}
+
+function offer_validation()
+{
+	var div_id=document.getElementById("notification");
+	var not_div=document.getElementById("notifi_hide");
+	
+	if(document.getElementById("po_offer_name").value=="")
+	{
+		div_id.innerHTML="Please Enter Offer Name";
+		document.getElementById("po_offer_name").focus();
+		not_div.style.display='';
+		return false;
+	}
+	if(document.getElementById("po_start_date").value=="")
+	{
+		div_id.innerHTML="Please Select Offer Start Date";
+		document.getElementById("po_start_date").focus();
+		not_div.style.display='';
+		return false;
+	}
+	if(document.getElementById("po_end_date").value=="")
+	{
+		div_id.innerHTML="Please Select Offer End Date";
+		document.getElementById("po_end_date").focus();
+		not_div.style.display='';
+		return false;
+	}
+	if(document.getElementById("po_offer_det").value=="")
+	{
+		div_id.innerHTML="Please Enter Offer Details";
+		document.getElementById("po_offer_det").focus();
+		not_div.style.display='';
+		return false;
+	}
+	if(document.getElementById("po_promo_type").value=="promo")
+	{
+		if(document.getElementById("main_category").value=="")
+		{
+			div_id.innerHTML="Please Select A Category";
+			document.getElementById("main_category").focus();
+			not_div.style.display='';
+			return false;
+		}
+		if(document.getElementById("po_disc_type").value=="by_val")
+		{
+			if(document.getElementById("po_discount").value=="")
 			{
-				alert("Spaces not allowed in Password"); // Message for spaces
+				div_id.innerHTML="Please Enter The Discount";
+				document.getElementById("po_discount").focus();
+				not_div.style.display='';
 				return false;
-				break;
 			}
 		}
 	}
-}
-</script>	
-<script language="javascript">
-function forgot_password()
-{
-	var username_status = check_username(document.frmLogin.usrName.value);
-	if(username_status == false)
+	else
 	{
-		document.frmLogin.usrName.focus();
-		return;
+		if(document.getElementById("po_banner_url").value=="")
+		{
+			div_id.innerHTML="Please Enter The Banner URL";
+			document.getElementById("po_banner_url").focus();
+			not_div.style.display='';
+			return false;
+		}
 	}
 	
-	document.frmForgotPassword.usrName.value = document.frmLogin.usrName.value;
-	document.frmForgotPassword.submit();
-}
+if(document.getElementById("user_vercode").value=="") { 
+div_id.innerHTML="Please Enter Verification Code";
+document.getElementById("user_vercode").focus();
+not_div.style.display='';
+return false; }
 
-function ChkKey()
-{
-	if (window.event.keyCode==13)
-	{
-		javascript:login_user()
-	}
-}
-
-function login_user()
-{
-	
-	var username_status = check_username(document.frmLogin.usrName.value);
-	if(username_status == false)
-	{
-		document.frmLogin.usrName.focus();
-		return;
-	}
-	
-	var password_status = check_password(document.frmLogin.usrPassWord.value,document.frmLogin.usrName.value);
-	if(password_status == false)
-	{
-		document.frmLogin.usrPassWord.focus();
-		return;
-	}
-	document.frmLogin.submit();
+if(document.getElementById("user_vercode").value!=document.getElementById("user_vercheck").value) {
+div_id.innerHTML="Incorrect!!! Please Re-Enter Verification Code";
+document.getElementById("user_vercode").value="";
+document.getElementById("user_vercode").focus();
+not_div.style.display='';
+return false; }
 
 }
-</script>
 
-<table border="0" width="765" cellpadding="0" cellspacing="0" align="center">
-	<form name="frmLogin" action="../../../newsrc/hsban/asp/l1.asp" method="post"></form>
-	<tbody><tr bgcolor="#ffffff"> 
-		<td width="420">			
-			<a href="http://www.hamarashop.net/">
-			<img src="../../hsban/img/ban.gif" border="0"></a>
-		</td>
-		
-		<td valign="bottom" width="50" align="center">
-			<a href="../../reg/asp/r1.asp"><img src="../../topband/nu.gif" border="0"></a>
-		</td>
-		<td width="15">&nbsp;</td>
-		<td valign="bottom" width="50" align="right">
-			<a href="javascript:forgot_password();"><img src="../../topband/fpa.gif" border="0"></a>
-		</td>
-		<td valign="middle" align="right" width="200">
-			<table width="100%" border="0" cellpadding="0" cellspacing="0">
-			<tbody><tr>
-				<td align="right">
-					<img src="../../topband/un.gif">
-					<input type="text" name="usrName" size="10" maxlength="15">
-				</td>
-			</tr>
-			<tr>
-				<td align="right">
-					<img src="../../topband/pas.gif">&nbsp;
-					<input type="password" name="usrPassWord" size="10" maxlength="15" onkeypress="javascript:ChkKey()">
-				</td>
-			</tr>
-			</tbody></table>
-			
-		</td>
-		
-		<td valign="middle" width="30" align="center">
-			<a href="javascript:login_user()"><img src="../../topband/g19.gif" border="0"></a>
-		</td>
-			
-				<input type="hidden" value="/newsrc/spg/asp/pp.asp" name="from_page">						
-			
-			
-		
-		<form name="frmForgotPassword" action="../../../newsrc/hsban/asp/l1.asp" method="post"></form>
-			<input type="hidden" name="usrName">
-		
-	</tr>	
-</tbody></table>
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<!-- Table for Service Band  and Green band-->
-
-
-<table width="765" border="0" cellspacing="0" cellpadding="0" align="center">
-	<tbody><tr>
-		<td width="100%">
-			<table width="765" border="0" cellspacing="0" cellpadding="0" align="center">
-				 <tbody><tr bgcolor="#663399" width="765"> 
-					<td height="20" bgcolor="#663399" align="center" width="165">  
-					<a href="../../spg/asp/ep.asp" style="Text-decoration:none"><font face=" Arial,Verdana, Helvetica, sans-serif" size="1" style="color:#ffffff; text-decoration:none">Earn Hamara Points</font></a>
-					</td>
-					<td height="20" bgcolor="#663399" align="center" width="147"> 
-					<a href="../../spg/asp/sp.asp" style="Text-decoration:none"><font face=" Arial,Verdana, Helvetica, sans-serif" size="1" style="color:#ffffff; text-decoration:none">Shipping Policy</font></a>
-					</td>
-					<td height="20" bgcolor="#663399" align="center" width="101"> 
-					 <a href="../../newden/asp/den.asp" style="Text-decoration:none"><font face=" Arial,Verdana, Helvetica, sans-serif" size="1" style="color:#ffffff; text-decoration:none">Deals Den</font></a>
-					
-					</td>
-					<td height="20" bgcolor="#663399" align="center" style="Text-decoration:none" width="97"> 
-						 <a href="../../myp/asp/myf.asp" style="Text-decoration:none"><font face=" Arial,Verdana, Helvetica, sans-serif" size="1" style="color:#ffffff; text-decoration:none">My Page</font></a>
-					</td>
-					<td height="20" bgcolor="#663399" align="center" width="120"> 
-					<a href="../../myp/asp/ad2.asp" style="Text-decoration:none"><font face=" Arial,Verdana, Helvetica, sans-serif" size="1" style="color:#ffffff; text-decoration:none">Address Book</font></a>
-					</td>
-					<td height="20" bgcolor="#663399" align="center" width="135"> 
-					<a href="../../shp/asp/newbasket.asp" style="Text-decoration:none"><font face=" Arial,Verdana, Helvetica, sans-serif" size="1" style="color:#ffffff; text-decoration:none">Shopping Cart</font></a>
-					 </td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-</tbody></table>
-	
-					
-					
-					 
-					 
-</td>
-</tr>
-<tr>
-<td>
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
- 
-<table width="765" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr> 
-<td bgcolor="#339933"> 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tbody><tr> 
-<td bgcolor="#000000" width="132"><font face="verdana" size="2" color="#ffffff"><b>&nbsp;Privacy Policy 
-</b></font></td>
-<td width="480" align="right"><font face="arial" size="2" color="#0010ff">&nbsp;</font><font face="arial" size="2"> 
-</font>
-</td>
-<td align="center" width="159">
-<a href="http://www.hamarashop.net/"><font size="1" face="verdana,Arial, Helvetica, sans-serif" color="#FFFFFF">
-<b>Category</b></font></a><font size="1" face="verdana,Arial, Helvetica, sans-serif" color="#FFFFFF">|
-</font><a href="../../../newsrc/str/asp/s1.asp"><font face="verdana,Arial, Helvetica, sans-serif" color="#FFFFFF" size="1">
-<b>Stores</b></font></a><font face="verdana,Arial, Helvetica, sans-serif" color="#FFFFFF" size="1">| 
-</font><a href="../../../newsrc/brn/asp/b1.asp"><font face="verdana,Arial, Helvetica, sans-serif" color="#FFFFFF" size="1">
-<b>Brands</b></font></a>
-</td>
-</tr>
-</tbody></table>
-</td>
-</tr>
-<tr> 
-<td bgcolor="#000000"><img src="../../../btn/b.gif" width="5" height="1"></td>
-</tr>
-<tr> 
-<td height="5"><img src="../../../btn/b.gif" width="5" height="5"></td>
-</tr>
-</tbody></table>
-
-</td>
-</tr>
-
-<tr>
-<td align="center" valign="top">
-<!--  inner table starts here   -->
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="765">
-<tbody><tr>
-<td>
-<!--  table for text  -->
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="640">
-<tbody><tr>
-<td>   
-
-<script language="Javascript">
-function srch()
+function validate_preorder(getVal)
 {
-	if (document.frmSrch.txtSrch.value.length==0)
+	var div_id=document.getElementById("notification");
+	var not_div=document.getElementById("notifi_hide");
+	if(getVal=='notify')
 	{
-		alert("Please Enter the Keyword");
+		if(document.getElementById("notify_text").value=="")
+		{
+			div_id.innerHTML="Please Enter The Notification Text";
+			document.getElementById("notify_text").focus();
+			not_div.style.display='';
+			return false;
+		}
+		
+if(document.getElementById("pre_note_vercode").value=="") { 
+div_id.innerHTML="Please Enter Verification Code";
+document.getElementById("pre_note_vercode").focus();
+not_div.style.display='';
+return false; }
+
+if(document.getElementById("pre_note_vercode").value!=document.getElementById("pre_note_capcha").value) {
+div_id.innerHTML="Incorrect!!! Please Re-Enter Verification Code";
+document.getElementById("pre_note_vercode").value="";
+document.getElementById("pre_note_vercode").focus();
+not_div.style.display='';
+return false; }
+
 	}
 	else
 	{
-			document.frmSrch.submit();
+		if(document.getElementById("ppo_quantity").value=="")
+		{
+			div_id.innerHTML="Please Enter The Quantity You Required!!!";
+			document.getElementById("ppo_quantity").focus();
+			not_div.style.display='';
+			return false;
+		}
+		
+if(document.getElementById("pre_ord_vercode").value=="") { 
+div_id.innerHTML="Please Enter Verification Code";
+document.getElementById("pre_ord_vercode").focus();
+not_div.style.display='';
+return false; }
+
+if(document.getElementById("pre_ord_vercode").value!=document.getElementById("pre_ord_capcha").value) {
+div_id.innerHTML="Incorrect!!! Please Re-Enter Verification Code";
+document.getElementById("pre_ord_vercode").value="";
+document.getElementById("pre_ord_vercode").focus();
+not_div.style.display='';
+return false; }
+
 	}
 }
-</script>
- 
-<table width="765" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr> 
-<td valign="top"> 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr valign="top"> 
-<td height="89"><img src="../../../img/pp.gif" width="640" height="73"></td>
-</tr>
-<tr align="left" valign="top"> 
-<td> 
-<table width="640" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr> 
-<td width="90" valign="top"><img src="../../../btn/b.gif" width="90" height="8"></td>
-<td valign="top">
-<font face="Arial, Helvetica, sans-serif" size="2" color="#666600">
-This 
-privacy statement discloses the privacy practices for www.hamarashop. <br>
-</font> 
-<p><font face="Arial, Helvetica, sans-serif" size="2" color="#666600"><b>If you 
-feel that this company is not abiding by its posted privacy policy, you should 
-first contact [Ms. Ritu Soni, Product Manager] by phone on 91-22-8311849/8200832, by 
-mail at <a href="#">ritu@hamarashop</a> or write to hamarashop at B-3,Lunic Industries,
-Opp.State Bank Of India, M.I.D.C Cross Rd No-6, M.I.D.C,Mumbai-400093,Maharashtra,India.</b><br>
-<br>
-<b>Information Collection and Use </b><br>
-hamarashop is the sole owner of the information collected on this site. We 
-will not sell, share, or rent this information to others in ways different from 
-what is disclosed in this statement. hamarashop collects information from 
-our users at several different points on our website. <font face="Arial, Helvetica, sans-serif" size="2"><br>
-</font><br>
-<b>Registration</b> <br>
-In order to purchase products/services on this website, a user must first complete 
-the registration form. During registration a user is required to give their contact 
-information (such as name and e-mail address). This information is used to contact 
-the user about the services on our site for which they have expressed interest. 
-<br>
-<br>
-<b>Check Out</b><br>
-We request the user for personal information (like name and shipping address) 
-and financial information (like credit card number, expiry date etc.). This information 
-is used for billing purposes and to fill customer's orders. If we have trouble 
-processing an order, this contact information is used to get in touch with the 
-user. <br>
-<br>
-<b>Cookies</b> <br>
-A cookie is a piece of data stored on the user's hard drive containing information 
-about the user. Usage of a cookie is in no way linked to any personally identifiable 
-information while on our site. Once the user closes their browser, the cookie 
-simply terminates. For instance, by setting a cookie on our site, the user would 
-not have to log in a password more than once, thereby saving time while on our 
-site. If a user rejects the cookie, they may still use our site. The only drawback 
-to this is that the user will be limited in some areas of our site. For example, 
-the user will not be able to participate in any of our Sweepstakes, Contests or 
-monthly Drawings that take place. Cookies can also enable us to track and target 
-the interests of our users to enhance the experience on our site.<br>
-<br>
-Some of our business partners use cookies on our site (for example, advertisers). 
-However, we have no access to or control over these cookies. <br>
-<br>
-<b>Log Files</b> <br>
-We use IP addresses to analyze trends, administer the site, track user's movement, 
-and gather broad demographic information for aggregate use. IP addresses are not 
-linked to personally identifiable information. <br>
-<br>
-<b>Sharing </b><br>
-We will share aggregated demographic information with our partners and advertisers. 
-This is not linked to any personal information that can identify any individual 
-person. <br>
-<br>
-We use our inhouse logistic department to ship orders,within mumbai and a credit card processing 
-company to bill users for goods and services. These companies do not retain, share, 
-store or use personally identifiable information for any secondary purposes. <br>
-<br>
-We partner with another party to provide specific services. When the user signs 
-up for these services, we will share names, or other contact information that 
-is necessary for the third party to provide these services. <br>
-<br>
-These parties are not allowed to use personally identifiable information except 
-for the purpose of providing these services. <br>
-<br>
-<b>Links </b><br>
-This web site contains links to other sites. Please be aware that we [hamarashop] 
-are<b> not responsible</b> for the privacy practices of such other sites. We encourage 
-our users to be aware when they leave our site and to read the privacy statements 
-of each and every web site that collects personally identifiable information. 
-This privacy statement applies solely to information collected by this web site. 
-<br>
-<br>
-<b>Surveys &amp; Contests </b><br>
-From time-to-time our site requests information from users via surveys or contests. 
-Participation in these surveys or contests is completely voluntary and the user 
-therefore has a choice whether or not to disclose this information. Information 
-requested may include contact information (such as name and shipping address), 
-and demographic information (such as zip code, age level). Contact information 
-will be used to notify the winners and award prizes. Survey information will be 
-used for purposes of monitoring or improving the use and satisfaction of this 
-site. <br>
-<br>
-<b>Tell-A-Friend </b><br>
-If a user elects to use our referral service for informing a friend about our 
-site, we require the friend's name and e-mail address. hamarashop will automatically 
-send the friend a one-time e-mail inviting them to visit the site. hamarashop 
-stores this information for the sole purpose of sending this one-time e-mail The 
-friend may contact hamarashop at feedback@hamarashop to request the removal 
-of this information from their database. <br>
-<br>
-<b>Security</b> <br>
-This website takes every precaution to protect our users' information. When users 
-submit sensitive information via the website, your information is protected both 
-online and off-line. <br>
-<br>
-When our registration/order form asks users to enter sensitive information (such 
-as credit card number and/or social security number), that information is encrypted 
-and is protected with the best encryption software in the industry - SSL. While 
-on a secure page, such as our order form, the lock icon on the bottom of Web browsers 
-such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as 
-opposed to unlocked, or open, when you are just 'surfing'. To learn more about 
-SSL, follow this link [www.hamarashop/securetrans.asp]. <br>
-<br>
-While we use SSL encryption to protect sensitive information online, we also do 
-everything in our power to protect user-information off-line. All of our users' 
-information, not just the sensitive information mentioned above, is restricted 
-in our offices. Only employees who need the information to perform a specific 
-job (for example, our billing clerk or a customer service representative) are 
-granted access to personally identifiable information. Our employees must use 
-password-protected screen-savers when they leave their desk. When they return, 
-they must re-enter their password to regain access to your information. Furthermore, 
-ALL employees are kept up-to-date on our security and privacy practices. Every 
-quarter, as well as any time new policies are added, our employees are notified 
-and/or reminded about the importance we place on privacy, and what they can do 
-to ensure our customers' information is protected. Finally, the servers that we 
-store personally identifiable information on are kept in a secure environment, 
-behind a locked cage. <br>
-<br>
-If you have any questions about the security at our website, you can send an e-mail 
-to <a href="#">kiran@hamarashop </a> <br>
-<br>
-<b>Supplementation of Information </b><br>
-In order for this website to properly fulfill its obligation to our customers, 
-it is necessary for us to supplement the information we receive with information 
-from 3rd party sources. <br>
-<br>
-For example, to determine if our customers qualify for cash transactions, we use 
-their name and bank details to request a credit report. Once we determine a user's 
-credit worthiness, this document is destroyed. <br>
-<br>
-In order for this website to enhance its ability to tailor the site to an individual's 
-preference, we combine information about the purchasing habits of users with similar 
-information from our partners, Company Y &amp; Company Z, to create a personalized 
-user profile. When a user makes a purchase from either of these two companies, 
-the companies collect and share that purchase information with us so we can tailor 
-the site to our users' preferences. <br>
-<br>
-<b>Special Offers </b><br>
-We send all new members a welcoming e-mail to verify password and username. Established 
-members will occasionally receive information on products, services, special deals, 
-and a newsletter. Out of respect for the privacy of our users we present the option 
-to not receive these types of communications. Please see our choice and opt-out 
-below. <br>
-<br>
-<b>Site and Service Updates</b> <br>
-We also send the user site and service announcement updates. Members are not able 
-to unsubscribe from service announcements, which contain important information 
-about the service. We communicate with the user to provide requested services 
-and in regards to issues relating to their account via e-mail or phone. <br>
-<br>
-<b>Correction/Updating Personal Information</b> <br>
-If a user's personally identifiable information changes (such as your zip code), 
-or if a user no longer desires our service, we will endeavor to provide a way 
-to correct, update or remove that user's personal data provided to us. This can 
-usually be done at My Page or by emailing our Customer Support Cell at 
-feedback@hamarashop. <br>
-<br>
-<b>Choice / Opt-out </b><br>
-Our users are given the opportunity to 'opt-out' of having their information used 
-for purposes not directly related to our site at the point where we ask for the 
-information. For example, our order form has an 'opt-out' mechanism so users who 
-buy a product from us, but don't want any marketing material, can keep their e-mail 
-address off of our lists. <br>
-<br>
-Users who no longer wish to receive our newsletter or promotional materials from 
-our partners may opt-out of receiving these communications by replying to unsubscribe 
-in the subject line in the e-mail or e-mail us at <a href="#">feedback@hamarashop</a>. 
-Users of our site are always notified when their information is being collected 
-by any outside parties. We do this so our users can make an informed choice as 
-to whether they should proceed with services that require an outside party, or 
-not. <br>
-<br>
-<b>Notification of Changes </b><br>
-If we decide to change our privacy policy, we will post those changes on our Homepage 
-so our users are always aware of what information we collect, how we use it, and 
-under circumstances, if any, we disclose it. If at any point we decide to use 
-personally identifiable information in a manner different from that stated at 
-the time it was collected, we will notify users by way of an e-mail. Users will 
-have a choice as to whether or not we use their information in this different 
-manner. We will use information in accordance with the privacy policy under which 
-the information was collected.</font> </p></td><td><img src="../../../btn/b.gif" width="5" height="5"></td>
-</tr>
-</tbody></table>
-<p>&nbsp; </p>
-</td>
-</tr>
-</tbody></table>
-</td>
-<td bgcolor="#333399" width="1"><img src="../../../btn/b.gif" width="1" height="5"></td>
-<td width="4"><img src="../../../btn/b.gif" width="4" height="5"></td>
-<td width="120" valign="top"> 
-<table width="120" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr> 
-          <td> 
-<table width="120" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff">
-<tbody><tr> 
-<td bgcolor="#000000" colspan="2"><font face="arial" size="2" color="#ffffff"><b>Search</b></font></td>
-</tr>
-					<form name="frmSrch" method="post" action="../../sch/asp/srch.asp"></form>
-					<tr bgcolor="#DADADA" valign="top"> 
-					<td colspan="2" align="center"> 
-					<input type="text" name="txtSrch" size="10">
-					<a href="javascript:srch()"><img src="../inc/go.jpg" height="18" border="0">
-					</a>
-					</td>
-					</tr>
-</tbody></table>
-          </td>
-</tr>
-<tr> 
-<td height="5"><img src="../../../btn/b.gif" width="5" height="5"></td>
-</tr>
-<tr valign="top"> 
-<td><img src="../../../img/hp7.gif" width="120" height="38"></td>
-</tr>
-<tr valign="top"> 
-<td>&nbsp;</td>
-</tr>
-</tbody></table>
-</td>
-</tr>
-</tbody></table>
 
-
-</td>
-</tr>
-</tbody></table>
-<!-- END OF TABLE  -->
-</td>
-
-</tr>
-</tbody></table>
-<!--  inner table ends here  -->
-</td>
-</tr>
-
-<tr>
-<td height="5">
-<img src="../../../btn/b.gif" border="0" height="5">
-</td>
-</tr>
-
-<tr>
-<td align="center" bgcolor="#afd3a3"> 
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="765">
-<tbody><tr>
-<td align="center">
- 
-<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="afd3a3" align="center">
-<tbody><tr> 
-<td colspan="6" bgcolor="#000000"><img src="../../../btn/b.gif" width="5" height="1" vspace="0" hspace="0" border="0"></td>
-</tr>
-<tr> 
-<td height="20" width="25"><img src="../../../btn/b.gif" width="19" height="8" vspace="0" hspace="0" border="0"></td>
-<td height="20" width="145">
-<a href="../../../newsrc/spg/asp/ep.asp"> <font face="Verdana" size="1" style="color:#000000; text-decoration:none">Earn 
-hamara points</font></a></td>
-<td height="20" width="135">
-<a href="../../../newsrc/spg/asp/hd.asp"><font face="Verdana" size="1" style="color:#000000; text-decoration:none">Help 
-Desk </font></a></td>
-<td height="20" width="137">
-<a href="../../../newsrc/spg/asp/ret.asp"><font face="Verdana" size="1" style="color:#000000; text-decoration:none">Returns 
-Policy </font></a></td>
-<td height="20" width="156">
-<a href="../../../newsrc/spg/asp/sp.asp"><font face="Verdana" size="1" style="color:#000000; text-decoration:none">Shipping 
-Policy</font></a></td>
-<td height="20" width="167">
-<a href="../../../newsrc/spg/asp/pvc.asp"><font face="Verdana" size="1" style="color:#000000; text-decoration:none">Privacy 
-Policy</font></a></td>
-</tr>
-<tr> 
-<td colspan="6" bgcolor="#000000"><img src="../../../btn/b.gif" width="5" height="1" vspace="0" hspace="0" border="0"></td>
-</tr>
-</tbody></table>
- 
-</td>
-</tr>
-</tbody></table>
-</td>
-</tr>
-
-<tr>
-<td align="center" bgcolor="#dbcedf"> 
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="765">
-<tbody><tr>
-<td align="center">
-  
-<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="dbcedf" align="center">
-<tbody><tr> 
-<td height="20" width="21">&nbsp;</td>
-<td height="20" width="143">
-<a href="../../../newsrc/spg/asp/adv.asp"><font face="Verdana" size="1" style="color:#000000; text-decoration:none">Advertise 
-With Us</font></a> </td>
-<td height="20" width="136">
-<a href="../../../newsrc/spg/asp/jus.asp">
-<font face="Verdana" size="1" style="color:#000000; text-decoration:none">Join 
-Us</font></a>
-</td>
-<td height="20" width="138">
-<a href="../../../newsrc/spg/asp/aus.asp"><font face="Verdana" size="1" style="color:#000000; text-decoration:none"> 
-About Us</font></a></td>
-<td height="20" width="157">
-<a href="../../../newsrc/spg/asp/rtl.asp"><font face="Verdana" size="1" style="color:#000000; text-decoration:none">Retailer 
-Associate Program</font></a></td>
-<td height="20" width="165">
-<a href="../../../newsrc/spg/asp/trm.asp"><font face="Verdana" size="1" style="color:#000000; text-decoration:none">Terms 
-and Conditions</font></a></td>
-</tr>
-<tr> 
-<td colspan="6" bgcolor="#000000"><img src="../../../btn/b.gif" width="5" height="1" vspace="0" hspace="0" border="0"></td>
-</tr>
-</tbody></table>
- 
-</td>
-</tr>
-</tbody></table>
-</td>
-</tr>
-
-<tr>
-<td align="center" bgcolor="#ffffff"> 
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="765">
-<tbody><tr>
-<td align="center">
- <script language="JavaScript">
-function popUp(url) 
+function add_sizecolor_now()
 {
- sealWin=window.open(url,"win",'toolbar=0,location=0,directories=0,status=1,menubar=1,scrollbars=1,resizable=1,width=500,height=450'); self.name = "mainWin";
+	var size=document.getElementById("all_sizes");
+	var color=document.getElementById("color");
+	var msg=document.getElementById("sizecolor_msg");
+	var addcolor=document.getElementById("add_sizecolor");
+	var sc_num=document.getElementById("sizecolor_num");
+	var returning=0;
+	var num = (sc_num.value -1)+ 2;
+	var test = (sc_num.value -1)+ 1;
+	var nummm=test-1;
+	sc_num.value = num;
+	var newdiv = document.createElement('table');
+	var divIdName = 'myDivCat'+num;
+	newdiv.setAttribute('id',divIdName);
+	newdiv.setAttribute('width',"100%");
+	
+	if(size.value=="")
+	{
+		msg.innerHTML="Please Select A Size";
+		returning=1;
+	}
+	if(color.value=="")
+	{
+		msg.innerHTML="Please Select A Color";
+		returning=1;
+	}
+	if(returning==0)
+	{	
+		document.getElementById("do_none").style.display="none";
+		var styling="style=\"background-color:#"+color.value+";\"";
+		var onclicknow="onclick=\"remove_sizecolor('"+divIdName+"');\"";
+		var combine_now=size.value+" - #"+color.value;
+		newdiv.innerHTML = '<tr><td width="102" '+styling+' class="center">'+size.value+' / #'+color.value+'<input id="sc_ids'+test+'" value="'+combine_now+'" name="sc_ids[]" type="hidden" /></td><td width="103" class="center"><input id="sc_item_code'+test+'" value="" name="sc_item_code[]" type="text" class="input-mini" /></td><td width="103" class="center"><input id="sc_ret_price'+test+'" value="" name="sc_ret_price[]" type="text" class="input-mini" /></td><td class="center" width="103"><input id="sc_buynow_price'+test+'" value="" name="sc_buynow_price[]" type="text" class="input-mini" /></td><td class="center" width="103"><input id="sc_stk_quantity'+test+'" value="" name="sc_stk_quantity[]" type="text" class="input-mini" /></td><td width="103" class="center"><select id="sc_stk_stat'+test+'" name="sc_stk_stat[]" class="span8"><option value="active">Active</option><option value="inactive">In-Active</option></select></td><td width="40" class="center"><input id="sc_default" name="sc_default" value="'+test+'" type="radio" checked /></td><td class="center" width="40"><a href="javascript:void(0);" '+onclicknow+'><i class="icon-trash"></i></td></tr>';
+		addcolor.appendChild(newdiv);
+	}
 }
-</script> 
+
+function remove_sizecolor(getId)
+{
+	var elem=document.getElementById(getId);
+	elem.parentNode.removeChild(elem);
+	var num=parseInt(document.getElementById("sizecolor_num").value);
+	var numb=num-1;
+	document.getElementById("sizecolor_num").value=numb;
+	if(numb==0)
+	{
+		document.getElementById("do_none").style.display="";
+	}
+	else
+	{
+		document.getElementById("do_none").style.display="none";
+	}
+}
+
+function add_color_now()
+{
+	var color=document.getElementById("only_color");
+	var addcolor=document.getElementById("add_colors");
+	var sc_num=document.getElementById("color_num");
+	var returning=0;
+	var num = (sc_num.value -1)+ 2;
+	var test = (sc_num.value -1)+ 1;
+	var nummm=test-1;
+	sc_num.value = num;
+	var newdiv = document.createElement('table');
+	var divIdName = 'myDivCat_col'+num;
+	newdiv.setAttribute('id',divIdName);
+	newdiv.setAttribute('width',"100%");
+
+	if(returning==0)
+	{	
+		document.getElementById("do_none_col").style.display="none";
+		var styling="style=\"background-color:#"+color.value+";\"";
+		var onclicknow="onclick=\"remove_sizecolor('"+divIdName+"');\"";
+		newdiv.innerHTML = '<tr><td width="102" '+styling+' class="center"> #'+color.value+'<input id="cl_ids'+test+'" value="#'+color.value+'" name="cl_ids[]" type="hidden" /></td><td width="103" class="center"><input id="cl_item_code'+test+'" value="" name="cl_item_code[]" type="text" class="input-mini" /></td><td width="103" class="center"><input id="cl_ret_price'+test+'" value="" name="cl_ret_price[]" type="text" class="input-mini" /></td><td class="center" width="103"><input id="cl_buynow_price'+test+'" value="" name="cl_buynow_price[]" type="text" class="input-mini" /></td><td class="center" width="103"><input id="cl_stk_quantity'+test+'" value="" name="cl_stk_quantity[]" type="text" class="input-mini" /></td><td width="103" class="center"><select id="cl_stk_stat'+test+'" name="cl_stk_stat[]" class="span8"><option value="active">Active</option><option value="inactive">In-Active</option></select></td><td width="40" class="center"><input id="cl_default" name="cl_default" value="'+test+'" type="radio" checked /></td><td class="center" width="40"><a href="javascript:void(0);" '+onclicknow+'><i class="icon-trash"></i></td></tr>';
+		addcolor.appendChild(newdiv);
+	}
+}
+
+
+function coupon_validation()
+{
+	var div_id=document.getElementById("notification");
+	var not_div=document.getElementById("notifi_hide");
+	
+	if(document.getElementById("co_offer_name").value=="")
+	{
+		div_id.innerHTML="Please Enter Coupon Name";
+		document.getElementById("co_offer_name").focus();
+		not_div.style.display='';
+		return false;
+	}
+	if(document.getElementById("co_start_date").value=="")
+	{
+		div_id.innerHTML="Please Select Coupon Start Date";
+		document.getElementById("co_start_date").focus();
+		not_div.style.display='';
+		return false;
+	}
+	if(document.getElementById("co_end_date").value=="")
+	{
+		div_id.innerHTML="Please Select Coupon End Date";
+		document.getElementById("co_end_date").focus();
+		not_div.style.display='';
+		return false;
+	}
+
+	if(document.getElementById("co_discount").value=="")
+	{
+	div_id.innerHTML="Please Enter The Discount";
+	document.getElementById("co_discount").focus();
+	not_div.style.display='';
+	return false;
+	}
+	
+	if(document.getElementById("co_no_coupon").value=="")
+	{
+	div_id.innerHTML="Please Enter No. Of Coupons";
+	document.getElementById("co_no_coupon").focus();
+	not_div.style.display='';
+	return false;
+	}
+	
+	if(document.getElementById("co_prefix").value=="")
+	{
+	div_id.innerHTML="Please Enter Coupons Prefix";
+	document.getElementById("co_prefix").focus();
+	not_div.style.display='';
+	return false;
+	}
+	
+	if(document.getElementById("co_status").value=="")
+	{
+	div_id.innerHTML="Please Select Coupons Status";
+	document.getElementById("co_status").focus();
+	not_div.style.display='';
+	return false;
+	}	
+if(document.getElementById("user_vercode").value=="") { 
+div_id.innerHTML="Please Enter Verification Code";
+document.getElementById("user_vercode").focus();
+not_div.style.display='';
+return false; }
+
+if(document.getElementById("user_vercode").value!=document.getElementById("user_vercheck").value) {
+div_id.innerHTML="Incorrect!!! Please Re-Enter Verification Code";
+document.getElementById("user_vercode").value="";
+document.getElementById("user_vercode").focus();
+not_div.style.display='';
+return false; }
+
+}
+
+function flytocart(product_id)
+{
+	change_ajax('divprod_'+product_id,"send=addtocart&&type=addcart&&prod_id="+product_id);
+	change_ajax('top_cart','type=&&send=cart_update&&qty=&&othtype=yes');
+        var cart = $('#cart');
+        var imgtodrag = $('#imageid_'+product_id);
+        if (imgtodrag) {
+            var imgclone = imgtodrag.clone()
+                .offset({
+                top: imgtodrag.offset().top,
+                left: imgtodrag.offset().left
+            })
+                .css({
+                'opacity': '0.5',
+                    'position': 'absolute',
+                    'height': '170px',
+                    'width': '150px',
+                    'z-index': '100'
+            })
+                .appendTo($('body'))
+                .animate({
+                'top': cart.offset().top + 10,
+                    'left': cart.offset().left + 10,
+                    'width': 75,
+                    'height': 75
+            }, 1000, 'easeInOutExpo');
+            
+            setTimeout(function () {
+                cart.effect("none", {
+                    times: 2
+                }, 200);
+            }, 1500);
+
+            imgclone.animate({
+                'width': 0,
+                    'height': 0
+            }, function () {
+                $(this).detach()
+            });
+        }
+}
+
+function select_class(getId)
+{
+	var className=$('#'+getId).attr('class').replace('stock_in','');
+	className=className.replace('stock_out','');
+	className=className.replace(' ','');
+	if(className!='clrslt') $('#'+getId).addClass('clrslt'); else $('#'+getId).removeClass('clrslt');
+}
+
+function addPricings(className)
+{
+	var classElem=document.getElementsByClassName(className);
+	var bPrice=""; var rPrice="";
+	for(var i=0; i<classElem.length; i++)
+	{
+		var checked_true=classElem[i].checked;
+		if(checked_true==true)
+		{
+			bPrice=eval(bPrice+parseFloat(classElem[i].accept));
+			rPrice=eval(rPrice+parseFloat(classElem[i].alt));
+		}
+		else
+		{
+			bPrice=eval(bPrice+0);
+			rPrice=eval(rPrice+0);
+		}
+	}
+	document.getElementById("hid_buy_prc").value=bPrice;
+	document.getElementById("hid_ret_prc").value=rPrice;
+	document.getElementById("retail_prc").innerHTML="Rs. "+addCommas(rPrice.toFixed(2));
+	document.getElementById("buynow_prc").innerHTML="Rs. "+addCommas(bPrice.toFixed(2));
+}
+
+function removeChecked2in()
+{
+	var classElem=document.getElementsByClassName("in_check");
+	for(var i=0; i<classElem.length; i++)
+	{
+		classElem[i].checked=false;
+	}
+}
+
+function removeChecked2out()
+{
+	var classElem=document.getElementsByClassName("out_check");
+	for(var i=0; i<classElem.length; i++)
+	{
+		classElem[i].checked=false;
+	}
+}
+
+function validate_image_upload()
+{
+	if(document.getElementById("user_vercode").value=="")
+	{ 
+		alert("Please Enter Verification Code");
+		document.getElementById("user_vercode").focus();
+		return false;
+	}
+	
+	if(document.getElementById("user_vercode").value!=document.getElementById("user_vercheck").value)
+	{
+		alert("Incorrect!!! Please Re-Enter Verification Code");
+		document.getElementById("user_vercode").value="";
+		document.getElementById("user_vercode").focus();
+		return false;
+	}
+}
+
+</script><script src="http://www.hamaramall.com/js/jquery.js"></script><script>
+if(!window.jQuery)
+{
+	document.write("<script type='text/javascript' src='http://www.hamaramall.com/js/jquery.all.min.js'>");
+	document.write('<\/script>');
+}
+</script><script type="text/javascript" src="http://www.hamaramall.com/js/jquery.all.min.js"></script>
+
+<header class="close_iframe">
+
+<span class="close_iframe"><div id="topbar">
+<div class="container">
+<div class="row-fluid">
+<div class="span4">
+</div>
+<div class="span8">
+
+
+<div style="float:right; display:block; ">
+<ul style="margin-left:0px;">
+<li onmouseover="document.getElementById('con_no').style.display=''" onmouseout="document.getElementById('con_no').style.display='none'"> <a href="javascript:void(0)" id="" class="unone bold">&nbsp;<i class="icon-phone-sign fs14"></i>Customer Support</a>
+<div id="con_no" style="display:none; position:absolute;">
+<div class="popover fade bottom in" style="display: block;">
+<div class="arrow pull-right" style="left:10%;"></div>
+<h3 class="popover-title bold">For Customer Support Call</h3>
+<div class="popover-content"><p class="customer_sprt">+91 999 53 15777</p>
+</div>
+
+</div>
+</div>
+</li>
+<li><a target="_self" href=" http://www.hamaramall.com">Home</a></li><li><a target="_self" href="http://www.hamaramall.com/register?us=aff">Affiliate</a></li><li><a target="_self" href="http://www.hamaramall.com/register ">Sign-up</a></li><li><a target="_self" href=" http://www.hamaramall.com/login">Login</a></li></ul>
+</div>
+
+<div style="width:70px; float:right; ">
+<a data-toggle="toggle" href="javascript:void(0);" onclick="click_display('closeid');">Track Order</a>
+<div id="closeid" style="display:none; position:absolute; ">
+<div class="popover fade bottom in" style="display: block;">
+<div class="arrow pull-left" style="left:10%;"></div>
+<h3 class="popover-title">Enter Your Tracking Order Number</h3>
+
+<form action="http://www.hamaramall.com/order_track" name="track_form" id="track_form" method="post">
+<div class="popover-content"><input type="text" name="ord_number" placeholder="Enter Your Order Number" id="ord_number" value="">
+<input type="submit" class="btn btn-info" name="track_submit" onclick="return not_null('ord_number','Please Enter Your Order Number To Track');" id="track_submit" value="Track Order">
+</div>
+</form>
+</div></div>
+</div>
+<div class="clearfix"></div>
+</div>
+
+</div></div></div>
+		
+<div class="container">
+<div class="row-fluid">
+<div class="span4" style="margin:-35px 0 0 0; width:295px;"><a href="http://www.hamaramall.com"><img src="http://www.hamaramall.com/admin/logo/HM-66191-aijmnopqtv.png"></a></div>
+<div class="span8" style="width:700px;margin-left:0px;">
+<!--<div class="banner_top"></div>-->
+<div class="pull-left mr10" style="margin-left:10px"><span class="topmenu_img freeship"></span><p class="topmenu_p"><strong>Free</strong><br>Shipping</p></div>
+<div class="pull-left mr10"><span class="topmenu_img creditship"></span><p class="topmenu_p"><strong>Special Price &amp;</strong><br>Discount For Corporates</p></div>
+<div class="pull-left mr10"><span class="topmenu_img return"></span><p class="topmenu_p"><strong>14 Days</strong> [<a href="http://www.hamaramall.com/freereturn/19" target="_blank" class="red">?</a>]<br>Free return </p></div>
+<div class="pull-left mr10"><span class="topmenu_img chatwith"></span><p class="topmenu_p"><strong>Mail Us</strong><br>contact@hamaramall.com</p></div>
+
+
+<!--cart start here-->
+<div style="float:right; margin:3px 0px; width:120px; margin-top:10px; ">
+<ul id="cartul"><li style="width:100px; margin-left:-15px;"><span id="cart"><a href="javascript:void(0);"><i class="icon-shopping-cart"></i> My Cart (<span id="cart_count">0</span>)</a></span>
+<div id="top_cart" style="max-height:300px; width:300px;">
+<div class="cartshow">
+<div class="cart_noprd red">Sorry, No Product(s) Added In Cart...</div>
+</div>
 
 
 
-<table width="741" border="0" cellspacing="0" cellpadding="0" align="center">
-<tbody><tr> 
-<td valign="top" width="436"><font size="1" color="#000000" face="Verdana"><b>Copyrights 
-hamarashop.net. All rights reserved. </b><br>
-Designed and Maintained by <a href="http://www.geodesiconline.com">Geodesic Information 
-Systems Ltd.</a></font><br>
-<font color="#ff3333" size="1" face="Verdana">Best viewed with Netscape 4.0 and 
-IE 4.0 or higher</font> <font color="#ff3333" size="1" face="Verdana">in 800 X 
-600 pixels</font> <br>
-<font face="Verdana, Arial, Helvetica, sans-serif" size="1">All Copyrights and 
-Trademarks acknowledged</font><br>
-</td>
-<td valign="top" width="305" align="center"><a href="javascript:popUp('https://servicecenter.verisign.com/cgi-bin/Xquery.exe?Template=authCertByIssuer&amp;remote_host=https://digitalid.safescrypt.com/server/cgi-bin/haydn.exe&amp;form_file=../fdf/authCertByIssuer.fdf&amp;issuerSerial=192fd9a2f668395a2ad4713d6f06dd75')"><img src="../../../newsrc/img/SSL.gif" width="85" height="103" border="0"></a> 
-</td>
-</tr>
-</tbody></table>
+
+
+
+</div></li></ul>
+</div>
+
+<!--
+<span id="cart"><div onmouseover="if($('#shopping').show()==false) $('#shopping').show();"><i class="icon-shopping-cart ml5"></i><a href="javascript:void(0);">Cart (<span id="cart_count"></span>)
+<div onmouseout="$(this).hide();" id="shopping" style="display:none; margin-left:-200px; position:absolute;">
+</div>
+</a> </div>
+</span>-->
+
+<!--cart end here-->
+
+</div></div></div></span>
+
+</header>
+
+<script>  if(window.self===window.top) { $('.close_iframe').show(); $('.show_iframe').hide(); } else {
+$('.close_iframe').hide();
+$('.show_iframe').show(); } </script>	
+<div id="navigation">
+<div class="container">
+<div class="row-fluid">
+<div class="span12 nav_bg">
+
+<form action="http://www.hamaramall.com/searching" name="search_form" id="top_search" method="post">
+<input type="hidden" id="cat" name="cat" value="0">
+
+<div id="search_bar">
+
+<div id="cate_show" class="shop_by_category h_primary pull-left" style="width:180px;">Shop By Category  <i class="icon-chevron-down"></i></div>
+
+<div class="srchpnllft">
+
+<select class="topset pull-left font-arial w240" name="cat_id" id="cat_id"><option value="">All Categories</option><option value="16">Baby and Mother Care</option><option value="22">Bags and Accessories</option><option value="14">Beauty and Health Care</option><option value="1">Books and Magazines</option><option value="20">Cakes &amp; Confectionery </option><option value="3">Clothing &amp; Accessories</option><option value="4">Diamond and Jewellery</option><option value="25">Festive &amp; Seasonal</option><option value="9">Gifts and Mementos</option><option value="5">Go Spiritual</option><option value="2">Home and Living</option><option value="6">Kids Gallery</option><option value="10">Mobiles &amp; Accessories</option><option value="19">Paintings &amp; Art Work</option><option value="17">Shoes and Footwear</option><option value="21">Sporting Accessories</option><option value="7">Stationary</option><option value="8">Toys and Fun</option><option value="15">Watches &amp; Glasses</option></select>
+
+<div class="input-append" style="margin:5px 3px 0 0;">
+<span style="position:relative;"><input class="input-xlarge" id="appendedInputButton" onkeyup="change_ajax('autosuggestions','send=autosuggest&amp;&amp;val='+this.value); if(this.value!='') { $('#autosuggestions').show(); } else { $('#autosuggestions').hide(); }" autocomplete="off" name="search_keyword" size="16" type="text" placeholder="Search for product, brand or specific items" style="width:320px;">
+
+<div id="autosuggestions" class="popover well" style="display:none; margin-top:20px; position:absolute; min-width:320px;"></div></span>
+
+<button class="btn"><i class="icon-search"></i></button></div>
+
+<button type="button" onclick="window.location='http://www.hamaramall.com/search'" class="h_primary btn_advance_srch">Advanced Search</button>
+
+
+
+
+
+<!--<span id="cart"><div onmouseover="if($('#shopping').show()==false) $('#shopping').show();"><i class="icon-shopping-cart ml5"></i><a href="javascript:void(0);">Cart (<span id="cart_count"></span>)
+<div onmouseout="$(this).hide();" id="shopping" style="display:none; margin-left:-200px; position:absolute;">
+</div>
+</a> </div>
+</span>-->
+
+
  
-</td>
-</tr>
-</tbody></table>
-</td>
-</tr>
+</div>
+
+</div>
+</form>
+
+</div></div></div></div>
+<div class="container">
+<div class="row-fluid">
+<!--left panel start-->
+<div class="span3" style="width:205px;">
+
+<style>
+.vert_lft{width:170px;height:auto!important; }
+.vert_rgt{width:170px;height:auto; float:right;}
+.categories2{width:200px; height:auto; background:#fafafa;border-left:solid 1px #6c0b05; border-bottom:solid 2px #6c0b05; border-right:solid 1px #6c0b05; font-family:Arial, tahoma, verdana, sans-serif; font-size:12px;}
+#category { margin-left:0; position:relative; margin-bottom:0px; }
+#category li{list-style:none; border-bottom:dotted 1px #565656;  background:#fafafa; border-right:solid 1px #6c0b05; width:100%; position:relative;}
+#category li span{width:100%; z-index:995 !important; border-right:solid 1px #6c0b05; position:relative; display:block;padding:2px 0px;}
+#category li i { color:#565656; padding-top:2px;}
+#category li:hover i { color:#6c0b05 !important;}
+#category li:hover span{ border-right:solid 1px #fff;  }
+#category li .divholder{ display:none;}
+#category li:hover{background:#fff; border-right:solid 1px #fff; }
+#category li:hover .divholder{background:#fff; border:solid 1px #6c0b05; min-height:200px; height:auto; width:600px; margin-left:200px; top:-1px; display:block;position:absolute; z-index:994 !important;padding-bottom:5px; box-shadow:1px 1px 2px rgb(200, 200, 200, 0.01); }
+#category li:hover a{ color:#565656;}
+#category li:last-child{border-bottom:none;}
+#category li a{ color:#565656; text-decoration:none; margin-left:5px; font-size:13px;}
+#category li a:hover{ color:#565656; }
+.cate_frstpnl{ width:180px;min-height:200px; height:auto; float:left; margin:5px 10px 0px 10px;}
+.cate_scdpnl{ width:190px;min-height:200px; height:auto; float:left; margin:5px 10px 0 0; border-left:solid 1px #e6e9ef; border-right:solid 1px #e6e9ef;  padding-left:10px; }
+.cate_thrdpnl{ width:180px;min-height:200px; height:auto; float:left; margin:5px 0 0 0;}
+.m_label{border-bottom:solid 1px #e6e9ef; display:block; margin:5px 0px 6px 0px; padding-bottom:6px; width:175px; color:#6c0b05 !important; font-weight:bold; text-transform:uppercase !important; font-size:12px !important; font-family:Arial, tahoma, verdana, sans-serif; }
+.s_label{color:#6c0b05 !important; width:175px; display:block;font-weight:bold; margin:5px 0; font-family:Arial, tahoma, verdana, sans-serif; text-transform:capitalize !important; }
+.n_label{width:175px; display:block; color:#565656 !important; background:#fff; padding:6px 0 2px 6px; /*line-height:130%;*/ font-family:Arial, tahoma, verdana, sans-serif; text-transform:capitalize !important; }
+.n_label:hover{color:#2271b2 !important;background:#fafafa !important; }
+.label_img{width:180px; height:100px; border:solid 1px #e6e9ef; margin:2px auto;overflow:hidden;}
+</style>
+
+<div id="" style=" display:block; z-index:9999;">
+
+<div class="categories2">
+<ul id="category">
+<li><span><a href="http://www.hamaramall.com/new_arrivals">New Arrivals <i class="icon-double-angle-right pull-right p0 m0"></i></a></span></li>
+
+		<li onmouseover="if(parseInt($(this).position().top)!=0) { $('#contain_holder1').css({'top':'-'+parseInt($(this).position().top)/(2.5)+'px'}); } if(parseInt($(window).scrollTop())>=250) { $('#contain_holder1').css({'position':'fixed','top':'-'+(parseInt($(this).scrollTop())*2)+'px'}); }" onmouseout="$('#contain_holder1').css({'position':'absolute'});"><span><a href="http://www.hamaramall.com/searching-books_and_magazines-0/1">Books &amp; Magazines  <i class="icon-double-angle-right pull-right p0 m0"></i></a></span><div id="contain_holder1" class="divholder">
+		
+				
+		<div class="cate_frstpnl">
+				
+		<a href="http://www.hamaramall.com/searching-fiction_and_non_fiction-1/56" class="m_label">fiction &amp; non fiction</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-non_fiction-2/170" class="n_label">non fiction</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-novel-2/781" class="n_label">novel</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-literature-2/172" class="n_label">literature</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-biographies-2/178" class="n_label">biographies</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-teen_books-2/174" class="n_label">teen books</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-stories-2/784" class="n_label">stories</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-biographies-2/178" class="n_label">biographies</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-fiction_and_non_fiction-1/56" class="n_label">view more&gt;&gt;</a>
+		
+				
+		<a href="http://www.hamaramall.com/search_result.php?type=best" class="m_label">best selling</a>
+		
+				
+		<a href="http://www.hamaramall.com/product-4993-aleph_dc_books" class="n_label">aleph dc books</a>
+		
+				
+		<a href="http://www.hamaramall.com/product-4857-passport_dc_books" class="n_label">passport dc books</a>
+		
+				
+		<a href="http://www.hamaramall.com/product-5421-ben_hur_dc_books" class="n_label">ben hur dc books</a>
+		
+				
+		<a href="http://www.hamaramall.com/search_result.php?type=best" class="n_label">view more&gt;&gt;</a>
+		
+				</div>
+
+		
+		<div class="cate_scdpnl">
+				
+		<a href="http://www.hamaramall.com/searching-academic_professional-1/57" class="m_label">academic &amp; professional</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-computer_science_and_engineering-2/312" class="n_label">computer science and engineering</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-management-2/606" class="n_label">management</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-networking_and_communication-2/699" class="n_label">networking &amp; communication</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-architecture-2/716" class="n_label">architecture</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-aviation-2/717" class="n_label">aviation</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-humanities_and_religion-2/807" class="n_label">humanities &amp; religion</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-fiction_and_non_fiction-1/56" class="n_label">view more&gt;&gt;</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-medical-1/100" class="m_label">medical</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-homeopathy-2/864" class="n_label">homeopathy</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-health-2/871" class="n_label">health</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-alternate_therapy-2/872" class="n_label">alternate therapy</a>
+		
+				</div>
+
+		
+		<div class="cate_thrdpnl">
+				
+		<a href="http://www.hamaramall.com/searching-computer_and_internet-1/181" class="m_label">computers &amp; internet</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-computer_programming_languages-2/809" class="n_label">computer programming languages</a>
+		
+				
+		<a style="cursor:text;" class="m_label">other books</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-health_fitness-1/106" class="n_label">health &amp; fitness</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-travelogue-1/105" class="n_label">travelogue</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-agriculture_and_gardening-2/789" class="n_label">agriculture &amp; gardening</a>
+		
+				
+		<a style="cursor:text;" class="m_label">hot products</a>
+		
+				
+		<a href="www.hamaramall.com/product-12091-karimarunnu_current_books" class="n_label">karimarunnu current books</a>
+		
+				
+		<a href="http://www.hamaramall.com/product-5050-bioinformatics_dc_books" class="n_label">bioinformatics dc books</a>
+		
+				
+		<a href="http://www.hamaramall.com/product-12082-an_introduction_to_money" class="n_label">an introduction to money</a>
+		
+				
+		<a href="http://www.hamaramall.com/product-12086-wealth_management" class="n_label">wealth management</a>
+		
+				
+		<a href="http://www.hamaramall.com/product-12089-finance_sense" class="n_label">finance sense</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-books_and_magazines-0/1" class="n_label">view more&gt;&gt;</a>
+		
+				</div>
+
+
+		</div></li>
+		
+
+		<li onmouseover="if(parseInt($(this).position().top)!=0) { $('#contain_holder2').css({'top':'-'+parseInt($(this).position().top)/(2.5)+'px'}); } if(parseInt($(window).scrollTop())>=250) { $('#contain_holder2').css({'position':'fixed','top':'-'+(parseInt($(this).scrollTop())*2)+'px'}); }" onmouseout="$('#contain_holder2').css({'position':'absolute'});"><span><a href="http://www.hamaramall.com/searching-home_and_living-0/2">Home &amp; Living  <i class="icon-double-angle-right pull-right p0 m0"></i></a></span><div id="contain_holder2" class="divholder">
+		
+				
+		<div class="cate_frstpnl">
+				
+		<a href="http://www.hamaramall.com/searching-decors-1/8" class="m_label">decors</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-handicrafts-2/16" class="n_label">handicrafts</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-nettipattam-2/798" class="n_label">nettipattam</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-umbrella-1/153" class="m_label">umbrella</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-fan_umbrella-2/465" class="n_label">fan umbrella</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-home_appliances-1/178" class="m_label">home appliances</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-vaccum_cleaners-2/751" class="n_label">vaccum cleaners </a>
+		
+				
+		<a style="cursor:text;" class="m_label">featured products</a>
+		
+				
+		<a href="http://www.hamaramall.com/product-2541-wooden_elephant" class="n_label">wooden elephant</a>
+		
+				
+		<a href="http://www.hamaramall.com/product-2455-vasco_ship_rosewood" class="n_label">vasco ship rosewood</a>
+		
+				
+		<a href="http://www.hamaramall.com/product-2463-car_hanging_nettipattam__7_inches" class="n_label">car hanging nettipattam</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-home_and_living-0/2" class="n_label">view more&gt;&gt;</a>
+		
+				</div>
+
+		
+		<div class="cate_scdpnl">
+				
+		<a href="http://www.hamaramall.com/searching-home_fragrances_-1/28" class="m_label">home fragrances</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-aromatic_candles-2/39" class="n_label">aromatic candles</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-diffusers-2/102" class="n_label">diffusers</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-vaporizer_oil-2/105" class="n_label">vaporizer oil </a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-reed_diffusers-2/128" class="n_label">reed diffusers</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-flower_diffusers-2/129" class="n_label">flower diffusers</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-fragrance_vaporizer-2/130" class="n_label">fragrance vaporizer</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-home_fragrances_-1/28" class="n_label">view more&gt;&gt;</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-steelware-1/190" class="m_label">steelware</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-tableware-2/848" class="n_label">tableware</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-kitchenware-2/852" class="n_label">kitchenware</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-giftware-2/853" class="n_label">giftware</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-steelware-1/190" class="n_label">view more&gt;&gt;</a>
+		
+				</div>
+
+		
+		<div class="cate_thrdpnl">
+				
+		<a style="cursor:text;" class="m_label">brands</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-MLD-135" class="n_label">mld</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-Milagrow-127" class="n_label">milagrow</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-handicrafts-4" class="n_label">handicrafts</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-iris-5" class="n_label">iris</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-Karigaari-9" class="n_label">karigaari</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-tricon-141" class="n_label">tricon</a>
+		
+				
+		<a style="cursor:text;" class="m_label">hot products</a>
+		
+				
+		<a href="http://www.hamaramall.com/product-2540-shree_krishna" class="n_label">shree krishna</a>
+		
+				
+		<a href="http://www.hamaramall.com/product-2493-set_of_3_men_rajasthani_troup" class="n_label">set of 3 men rajasthani troup</a>
+		
+				
+		<a href="http://www.hamaramall.com/product-12112-fan_umbrella__nylon_cloth" class="n_label">fan umbrella - nylon cloth</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-home_and_living-0/2" class="n_label">view more&gt;&gt;</a>
+		
+				</div>
+
+
+		</div></li>
+		
+
+		<li onmouseover="if(parseInt($(this).position().top)!=0) { $('#contain_holder3').css({'top':'-'+parseInt($(this).position().top)/(2.5)+'px'}); } if(parseInt($(window).scrollTop())>=250) { $('#contain_holder3').css({'position':'fixed','top':'-'+(parseInt($(this).scrollTop())*2)+'px'}); }" onmouseout="$('#contain_holder3').css({'position':'absolute'});"><span><a href="http://www.hamaramall.com/searching-clothing_accessories-0/3">Clothing &amp; Accessories  <i class="icon-double-angle-right pull-right p0 m0"></i></a></span><div id="contain_holder3" class="divholder">
+		
+				
+		<div class="cate_frstpnl">
+				
+		<a href="http://www.hamaramall.com/searching-mens_clothing-1/9" class="m_label">mens clothing</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-dhoti-2/354" class="n_label">dhoti</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-shirts-2/769" class="n_label">shirts</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-sweat_shirts-2/770" class="n_label">sweat shirts</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-sweat_jacket-2/816" class="n_label">sweat jacket</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-jacket-2/771" class="n_label">jacket</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-pants-2/767" class="n_label">pants</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-t_shirt_casual_wear-2/865" class="n_label">t shirt casual wear</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-mens_clothing-1/9" class="n_label">view more&gt;&gt;</a>
+		
+				</div>
+
+		
+		<div class="cate_scdpnl">
+				
+		<a href="http://www.hamaramall.com/searching-women_clothing-1/10" class="m_label">women clothing</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-handloom_sarees-2/155" class="n_label">handloom sarees</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-saree-2/590" class="n_label">saree</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-traditional_outfit-2/108" class="n_label">traditional outfit</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-t_shirts_casual_wear-2/772" class="n_label">t shirts casual wear</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-tops-2/778" class="n_label">tops</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-scarf_and_stole-2/439" class="n_label">scarf &amp; stole</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-women_clothing-1/10" class="n_label">view more&gt;&gt;</a>
+		
+				</div>
+
+		
+		<div class="cate_thrdpnl">
+				
+		<a href="http://www.hamaramall.com/searching-nightwear-1/119" class="m_label">nightwear</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-couple_wear-2/321" class="n_label">couple wear</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-mens_nightwear-2/406" class="n_label">mens nightwear </a>
+		
+				
+		<a style="cursor:text;" class="m_label">brands</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-Chhabra-38" class="n_label">chhabra 555</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-kuthampully_kerala_kasavu-13" class="n_label">kuthampully kerala kasavu</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-Puma-134" class="n_label">puma</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-Ramsons-33" class="n_label">ramsons</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-Tatwam-27" class="n_label">tatwam</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-ThaYam-53" class="n_label">thayam</a>
+		
+				</div>
+
+
+		</div></li>
+		
+
+		<li onmouseover="if(parseInt($(this).position().top)!=0) { $('#contain_holder4').css({'top':'-'+parseInt($(this).position().top)/(2.5)+'px'}); } if(parseInt($(window).scrollTop())>=250) { $('#contain_holder4').css({'position':'fixed','top':'-'+(parseInt($(this).scrollTop())*2)+'px'}); }" onmouseout="$('#contain_holder4').css({'position':'absolute'});"><span><a href="http://www.hamaramall.com/searching-diamond_and_jewellery-0/4">Diamond &amp; Jewellery  <i class="icon-double-angle-right pull-right p0 m0"></i></a></span><div id="contain_holder4" class="divholder">
+		
+				
+		<div class="cate_frstpnl">
+				
+		<a href="http://www.hamaramall.com/searching-artificial_jewellery-1/49" class="m_label">artificial jewellery</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-necklace_set-2/350" class="n_label">necklace set </a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-earring-2/351" class="n_label">earring </a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-bracelet-2/352" class="n_label">bracelet </a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-bangle-2/353" class="n_label">bangle </a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-necklace-2/427" class="n_label">necklace</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-silver_pendants-1/59" class="m_label">silver jewellery</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-silver_pendants-1/59" class="n_label">pendants</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-silver_earrings-1/87" class="n_label">earrings</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-silver_necklaces-1/135" class="n_label">necklaces</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-valentines_collection-2/191" class="n_label">valentines collection </a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-rudraksha_silver_pendant-2/338" class="n_label">rudraksha silver pendant</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-rudraksha_silver_mala-2/346" class="n_label">rudraksha silver mala</a>
+		
+				</div>
+
+		
+		<div class="cate_scdpnl">
+				
+		<a href="http://www.hamaramall.com/searching-pearl-1/46" class="m_label">pearl</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-black_pearl-2/113" class="n_label">black pearl </a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-golden_pearl-2/114" class="n_label">golden pearl </a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-round_pearl-2/115" class="n_label">round pearl </a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-green_pearl-2/116" class="n_label">green pearl </a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-drop_pearl-2/117" class="n_label">drop pearl </a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-rice_pearl-2/127" class="n_label">rice pearl</a>
+		
+				</div>
+
+		
+		<div class="cate_thrdpnl">
+				
+		<a href="http://www.hamaramall.com/searching-rings-1/152" class="m_label">rings</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-precious_and_semi_precious_stones-2/533" class="n_label">precious &amp; semi precious stones</a>
+		
+				
+		<a style="cursor:text;" class="m_label">brands</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-grandezza-7" class="n_label">grandezza</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-Jewels-107" class="n_label">karigari fashion jewels</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-Jewels-32" class="n_label">karigari jewels</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-Tara-23" class="n_label">tara</a>
+		
+				</div>
+
+
+		</div></li>
+		
+
+		<li onmouseover="if(parseInt($(this).position().top)!=0) { $('#contain_holder5').css({'top':'-'+parseInt($(this).position().top)/(2.5)+'px'}); } if(parseInt($(window).scrollTop())>=250) { $('#contain_holder5').css({'position':'fixed','top':'-'+(parseInt($(this).scrollTop())*2)+'px'}); }" onmouseout="$('#contain_holder5').css({'position':'absolute'});"><span><a href="http://www.hamaramall.com/searching-go_spiritual-0/5">Go Spiritual  <i class="icon-double-angle-right pull-right p0 m0"></i></a></span><div id="contain_holder5" class="divholder">
+		
+				
+		<div class="cate_frstpnl">
+				
+		<a href="http://www.hamaramall.com/searching-idols-1/2" class="m_label">idols </a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-fiber-2/124" class="n_label">fiber</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-ceremonial_-1/41" class="m_label">ceremonial </a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-vastuvilakku-2/332" class="n_label">vastuvilakku</a>
+		
+				
+		<a style="cursor:text;" class="m_label">featured products</a>
+		
+				
+		<a href="http://www.hamaramall.com/product-5555-crystal_ganesh__150_grms" class="n_label">crystal ganesh 150 grms</a>
+		
+				
+		<a href="http://www.hamaramall.com/product-5497-ganpati_playing_cricket" class="n_label">ganpati playing cricket</a>
+		
+				
+		<a href="http://www.hamaramall.com/product-5529-ganesh_rudraksha" class="n_label">ganesh rudraksha </a>
+		
+				
+		<a href="www.hamaramall.com/product-5508-pandit_ganesha" class="n_label">pandit ganesha</a>
+		
+				
+		<a href="http://www.hamaramall.com/product-5475-tree_bark_buddha_wall_hanging" class="n_label">tree bark buddha wall hanging</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-go_spiritual-0/5" class="n_label">view more&gt;&gt;</a>
+		
+				</div>
+
+		
+		<div class="cate_scdpnl">
+				
+		<a href="http://www.hamaramall.com/searching-rudraksha-1/43" class="m_label">rudraksha</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-beads-2/96" class="n_label">beads</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-mala-2/97" class="n_label">mala</a>
+		
+				
+		<a style="cursor:text;" class="m_label">hot products</a>
+		
+				
+		<a href="http://www.hamaramall.com/product-11696-vastuvilakku" class="n_label">vastuvilakku</a>
+		
+				
+		<a href="http://www.hamaramall.com/product-5499-waknan_ganpati" class="n_label">waknan ganpati</a>
+		
+				
+		<a href="http://www.hamaramall.com/product-5478-ganesha_playing_flute" class="n_label">ganesha playing flute</a>
+		
+				
+		<a href="http://www.hamaramall.com/product-5546-shivalings_75_gms" class="n_label">shivalings 75 gms</a>
+		
+				
+		<a href="http://www.hamaramall.com/product-5536-indonasian_rudraksha_mala" class="n_label">indonasian rudraksha mala</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-go_spiritual-0/5" class="n_label">view more&gt;&gt;</a>
+		
+				</div>
+
+		
+		<div class="cate_thrdpnl">
+				
+		<a style="cursor:text;" class="m_label">brands</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-Rudraksha-16" class="n_label">rudraksha</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-PRM-46" class="n_label">prm</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-Karigaari-144" class="n_label">karigaari</a>
+		
+				</div>
+
+
+		</div></li>
+		
+
+		<li onmouseover="if(parseInt($(this).position().top)!=0) { $('#contain_holder7').css({'top':'-'+parseInt($(this).position().top)/(2.5)+'px'}); } if(parseInt($(window).scrollTop())>=250) { $('#contain_holder7').css({'position':'fixed','top':'-'+(parseInt($(this).scrollTop())*2)+'px'}); }" onmouseout="$('#contain_holder7').css({'position':'absolute'});"><span><a href="http://www.hamaramall.com/searching-stationary-0/7">Stationary  <i class="icon-double-angle-right pull-right p0 m0"></i></a></span><div id="contain_holder7" class="divholder">
+		
+				
+		<div class="cate_frstpnl">
+				
+		<a href="http://www.hamaramall.com/searching-school_art_supplies-1/7" class="m_label">school &amp; art supply</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-kids_craft_items-2/192" class="n_label">kids craft item</a>
+		
+				
+		<a style="cursor:text;" class="m_label">featured products</a>
+		
+				
+		<a href="http://www.hamaramall.com/product-852-quilling_kit_floral_1pk_ib" class="n_label">quilling kit floral 1pk ib</a>
+		
+				
+		<a href="http://www.hamaramall.com/product-820-glitter_frames_26_heart_3pk_pbhc_be_lb" class="n_label">glitter frames &amp; heart 3pk</a>
+		
+				
+		<a href="http://www.hamaramall.com/product-811-3d_glitter_alpha_stickers_lower_case_soft_touch_2pk_pbci_be_lb" class="n_label">3d glitter alpha stickers</a>
+		
+				
+		<a href="http://www.hamaramall.com/product-736-pony_hair_round_brush_asst_4pk_pbhc_ib" class="n_label">pony hair round brush</a>
+		
+				
+		<a href="http://www.hamaramall.com/product-775-foam_stamp_20mm_4pk_ib" class="n_label">foam stamp 20mm 4pk ib</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-stationary-0/7" class="n_label">view more&gt;&gt;</a>
+		
+				</div>
+
+		
+		<div class="cate_scdpnl">
+				
+		<a style="cursor:text;" class="m_label">brands</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-ITSY-15" class="n_label">itsy bitsy</a>
+		
+				
+		<a style="cursor:text;" class="m_label">hot products</a>
+		
+				
+		<a href="http://www.hamaramall.com/product-858-cartoon_clay_pickles_giraffe_mmcc3006_1pk_box_mm" class="n_label">cartoon clay pickles giraffe</a>
+		
+				
+		<a href="http://www.hamaramall.com/product-754-diy_kit_2pk_phci_ib" class="n_label">diy kit 2pk phci ib</a>
+		
+				
+		<a href="http://www.hamaramall.com/product-765-foil_board_a4_sliver_3pk_pbci_ib" class="n_label">foil board a4 sliver 3pk</a>
+		
+				
+		<a href="http://www.hamaramall.com/product-743-ice_cream_sticks_asst_2pk_pbhc_ib" class="n_label">ice cream sticks</a>
+		
+				
+		<a href="http://www.hamaramall.com/product-769-quilling_strips_6mm_4pk_pbhc_ib" class="n_label">quilling strips 6mm</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-stationary-0/7" class="n_label">view more&gt;&gt;</a>
+		
+				</div>
+
+
+		</div></li>
+		
+
+		<li onmouseover="if(parseInt($(this).position().top)!=0) { $('#contain_holder8').css({'top':'-'+parseInt($(this).position().top)/(2.5)+'px'}); } if(parseInt($(window).scrollTop())>=250) { $('#contain_holder8').css({'position':'fixed','top':'-'+(parseInt($(this).scrollTop())*2)+'px'}); }" onmouseout="$('#contain_holder8').css({'position':'absolute'});"><span><a href="http://www.hamaramall.com/searching-toys_and_fun-0/8">Toys &amp; Fun  <i class="icon-double-angle-right pull-right p0 m0"></i></a></span><div id="contain_holder8" class="divholder">
+		
+				
+		<div class="cate_frstpnl">
+				
+		<a href="http://www.hamaramall.com/searching-soft_toys-1/45" class="m_label">soft toys</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-teddy_bear_soft_toys-2/109" class="n_label">teddy bear soft toys</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-hand_puppets-2/150" class="n_label">hand puppets</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-pet_soft_toys-2/151" class="n_label">pet soft toys</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-wild_animals_soft_toys-2/152" class="n_label">wild animals soft toys</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-sea_animals_soft_toys-2/153" class="n_label">sea animals soft toys</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-science_kits-1/76" class="m_label">science kits</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-4m-2/257" class="n_label">4m</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-beywheelz-1/166" class="m_label">beywheelz</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-tops-2/611" class="n_label">tops</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-stadium-2/612" class="n_label">stadium</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-play_to_learn-2/613" class="n_label">play to learn</a>
+		
+				</div>
+
+		
+		<div class="cate_scdpnl">
+				
+		<a href="http://www.hamaramall.com/searching-puzzles-1/77" class="m_label">puzzles</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-play_and_learn-2/258" class="n_label">play &amp; learn</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-fun_puzzles-2/262" class="n_label">fun puzzles</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-3d_puzzles-2/263" class="n_label">3d puzzles</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-disney_puzzles-2/264" class="n_label">disney puzzles </a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-wooden_puzzles-2/266" class="n_label">wooden puzzles</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-shore_point_toys-1/172" class="m_label">shore point toys</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-mattel_toys-2/653" class="n_label">mattel toys</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-wooden_toys-1/83" class="m_label">wooden toys</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-learning_toys-2/275" class="n_label">learning toys</a>
+		
+				</div>
+
+		
+		<div class="cate_thrdpnl">
+				
+		<a href="http://www.hamaramall.com/searching-furby_toys-1/167" class="m_label">furby toys</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-furby-2/614" class="n_label">furby</a>
+		
+				
+		<a style="cursor:text;" class="m_label">brands</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-Action-110" class="n_label">action fig</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-Angry-129" class="n_label">angry birds</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-Baby-92" class="n_label">baby alive</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-Barbie-112" class="n_label">barbie</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-toys_and_fun-0/8" class="n_label">view more&gt;&gt;</a>
+		
+				
+		<a style="cursor:text;" class="m_label">hot products</a>
+		
+				
+		<a href="http://www.hamaramall.com/product-12062-birthday_wishes_barbie_doll_x9189" class="n_label">birthday wishes barbie doll</a>
+		
+				
+		<a href="http://www.hamaramall.com/product-6953-lego_spider_man_28tm_29_daily_bugle_showdown" class="n_label">lego spider-man</a>
+		
+				
+		<a href="http://www.hamaramall.com/product-6947-lego_the_batcave" class="n_label">lego the batcave</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-toys_and_fun-0/8" class="n_label">view more&gt;&gt;</a>
+		
+				</div>
+
+
+		</div></li>
+		
+
+		<li onmouseover="if(parseInt($(this).position().top)!=0) { $('#contain_holder9').css({'top':'-'+parseInt($(this).position().top)/(2.5)+'px'}); } if(parseInt($(window).scrollTop())>=250) { $('#contain_holder9').css({'position':'fixed','top':'-'+(parseInt($(this).scrollTop())*2)+'px'}); }" onmouseout="$('#contain_holder9').css({'position':'absolute'});"><span><a href="http://www.hamaramall.com/searching-gifts_and_mementos-0/9">Gifts &amp; Mementos  <i class="icon-double-angle-right pull-right p0 m0"></i></a></span><div id="contain_holder9" class="divholder">
+		
+				
+		<div class="cate_frstpnl">
+				
+		<a href="http://www.hamaramall.com/searching-personalised_gifts-1/13" class="m_label">personalised gifts</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-festive_combo_gifts-2/169" class="n_label">festive combo gifts</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-other_gifts-1/53" class="m_label">other gifts</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-spanish_saffron-2/157" class="n_label">spanish saffron</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-gift_hampers-2/224" class="n_label">gift hampers</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-cakes_flowers-2/378" class="n_label">cakes &amp; flowers</a>
+		
+				</div>
+
+		
+		<div class="cate_scdpnl">
+				
+		<a href="http://www.hamaramall.com/searching-flowers_and_bouquet-1/33" class="m_label">flowers &amp; bouquet</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-flowers-2/752" class="n_label">flowers</a>
+		
+				</div>
+
+		
+		<div class="cate_thrdpnl">
+				
+		<a style="cursor:text;" class="m_label">brands</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-monginis-149" class="n_label">monginis</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-Sapnish-47" class="n_label">sapnish saffron</a>
+		
+				</div>
+
+
+		</div></li>
+		
+
+		<li onmouseover="if(parseInt($(this).position().top)!=0) { $('#contain_holder10').css({'top':'-'+parseInt($(this).position().top)/(2.5)+'px'}); } if(parseInt($(window).scrollTop())>=250) { $('#contain_holder10').css({'position':'fixed','top':'-'+(parseInt($(this).scrollTop())*2)+'px'}); }" onmouseout="$('#contain_holder10').css({'position':'absolute'});"><span><a href="http://www.hamaramall.com/searching-mobiles_accessories-0/10">Mobiles &amp; Accessories  <i class="icon-double-angle-right pull-right p0 m0"></i></a></span><div id="contain_holder10" class="divholder">
+		
+				
+		<div class="cate_frstpnl">
+				
+		<a href="http://www.hamaramall.com/searching-mobiles-1/14" class="m_label">mobiles</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-smart_phones-2/38" class="n_label">smart phones</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-samsung_mobiles-2/343" class="n_label">samsung mobiles</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-byond_mobiles-2/358" class="n_label">byond mobiles</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-karbonn_mobiles-2/529" class="n_label">karbonn mobiles</a>
+		
+				</div>
+
+		
+		<div class="cate_scdpnl">
+				
+		<a href="http://www.hamaramall.com/searching-tablets-1/142" class="m_label"> tablets</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-byond_tablets-2/357" class="n_label">byond tablets</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-karbonn_tablets-2/530" class="n_label">karbonn tablets</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-samsung_tablets-2/531" class="n_label">samsung tablets</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-milagrow_tablets-2/659" class="n_label">milagrow tablets</a>
+		
+				</div>
+
+		
+		<div class="cate_thrdpnl">
+				
+		<a href="http://www.hamaramall.com/searching-phablet-1/143" class="m_label">phablet</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-byond_phablet-2/359" class="n_label">byond phablet</a>
+		
+				
+		<a style="cursor:text;" class="m_label">brands</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-byond-34" class="n_label">byond</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-Milagrow-118" class="n_label">milagrow</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-samsung-2" class="n_label">samsung</a>
+		
+				</div>
+
+
+		</div></li>
+		
+
+		<li onmouseover="if(parseInt($(this).position().top)!=0) { $('#contain_holder14').css({'top':'-'+parseInt($(this).position().top)/(2.5)+'px'}); } if(parseInt($(window).scrollTop())>=250) { $('#contain_holder14').css({'position':'fixed','top':'-'+(parseInt($(this).scrollTop())*2)+'px'}); }" onmouseout="$('#contain_holder14').css({'position':'absolute'});"><span><a href="http://www.hamaramall.com/searching-beauty_and_health_care-0/14">Beauty &amp; Health Care  <i class="icon-double-angle-right pull-right p0 m0"></i></a></span><div id="contain_holder14" class="divholder">
+		
+				
+		<div class="cate_frstpnl">
+				
+		<a href="http://www.hamaramall.com/searching-men_care-1/63" class="m_label">men care</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-deodorants-2/793" class="n_label">deodorants</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-perfumes-2/796" class="n_label">perfumes</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-extra_care-1/40" class="m_label">extra care</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-self_defence-2/824" class="n_label">self defence</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-perfume_giftsets-2/76" class="n_label">perfume giftsets</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-personal_care-1/199" class="m_label">personal care</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-ayurvedic_suppliments-2/884" class="n_label">ayurvedic suppliments</a>
+		
+				</div>
+
+		
+		<div class="cate_scdpnl">
+				
+		<a href="http://www.hamaramall.com/searching-women_care-1/64" class="m_label">women care</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-deodorants-2/794" class="n_label">deodorants</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-perfumes-2/795" class="n_label">perfumes</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-body_care-1/201" class="m_label">body care</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-professional_kits-2/894" class="n_label">professional kits</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-face_cleansers-2/887" class="n_label">face cleansers</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-hair_care-2/890" class="n_label">hair care</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-sun_care_range-2/893" class="n_label">sun care range</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-world_of_teas-2/897" class="n_label">world of teas</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-body_care-1/201" class="n_label">view more&gt;&gt;</a>
+		
+				</div>
+
+		
+		<div class="cate_thrdpnl">
+				
+		<a href="http://www.hamaramall.com/searching-organic_food-1/198" class="m_label">organic food</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-tea-2/883" class="n_label">tea</a>
+		
+				
+		<a style="cursor:text;" class="m_label">brands</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-swiss_arabian-8" class="n_label">swiss arabian</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-Milagrow-126" class="n_label">milagrow</a>
+		
+				</div>
+
+
+		</div></li>
+		
+
+		<li onmouseover="if(parseInt($(this).position().top)!=0) { $('#contain_holder16').css({'top':'-'+parseInt($(this).position().top)/(2.5)+'px'}); } if(parseInt($(window).scrollTop())>=250) { $('#contain_holder16').css({'position':'fixed','top':'-'+(parseInt($(this).scrollTop())*2)+'px'}); }" onmouseout="$('#contain_holder16').css({'position':'absolute'});"><span><a href="http://www.hamaramall.com/searching-baby_and_mother_care-0/16">Baby &amp; Mother Care  <i class="icon-double-angle-right pull-right p0 m0"></i></a></span><div id="contain_holder16" class="divholder">
+		
+				
+		<div class="cate_frstpnl">
+				
+		<a href="http://www.hamaramall.com/searching-nursing_and_feeding-1/157" class="m_label">nursing &amp; feeding</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-bibs-2/301" class="n_label">bibs</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-bottles_and_accessories-2/524" class="n_label">bottles &amp; accessories</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-dishes_and_utensils-2/526" class="n_label">dishes &amp; utensils</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-feeding_and_accessories-2/551" class="n_label">feeding &amp; accessories</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-tissues_and_wipes-2/573" class="n_label">tissues &amp; wipes</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-mother_care-1/170" class="m_label">mother care</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-mommy_lingerie_products-2/634" class="n_label">mommy lingerie products</a>
+		
+				</div>
+
+		
+		<div class="cate_scdpnl">
+				
+		<a href="http://www.hamaramall.com/searching-baby_care-1/160" class="m_label">baby care</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-baby_care_combos-2/548" class="n_label">baby care combos</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-grooming-2/568" class="n_label">grooming</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-diapering_toilet_training-2/797" class="n_label">diapering &amp; toilet training</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-baby_gear-2/799" class="n_label">baby gear</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-baby_toys-2/800" class="n_label">baby toys</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-bedding-2/801" class="n_label">bedding</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-bathing_and_skincare-2/802" class="n_label">bathing &amp; skincare</a>
+		
+				</div>
+
+		
+		<div class="cate_thrdpnl">
+				
+		<a href="http://www.hamaramall.com/searching-health_and_safety-1/162" class="m_label">health &amp; safety</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-oral_care-2/554" class="n_label">oral care</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-comfort_indicator-2/565" class="n_label">comfort indicator</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-home_safety-2/630" class="n_label">home safety</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-safety_accessories-2/569" class="n_label">safety accessories</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-health_and_safety-1/162" class="n_label">view more&gt;&gt;</a>
+		
+				
+		<a style="cursor:text;" class="m_label">brands</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-pigeon-51" class="n_label">pigeon</a>
+		
+				</div>
+
+
+		</div></li>
+		
+
+		<li onmouseover="if(parseInt($(this).position().top)!=0) { $('#contain_holder17').css({'top':'-'+parseInt($(this).position().top)/(2.5)+'px'}); } if(parseInt($(window).scrollTop())>=250) { $('#contain_holder17').css({'position':'fixed','top':'-'+(parseInt($(this).scrollTop())*2)+'px'}); }" onmouseout="$('#contain_holder17').css({'position':'absolute'});"><span><a href="http://www.hamaramall.com/searching-shoes_and_footwear-0/17">Shoes &amp; Footwear  <i class="icon-double-angle-right pull-right p0 m0"></i></a></span><div id="contain_holder17" class="divholder">
+		
+				
+		<div class="cate_frstpnl">
+				
+		<a href="http://www.hamaramall.com/searching-mens_footwear-1/50" class="m_label">mens footwear</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-formal-2/148" class="n_label">formal</a>
+		
+				</div>
+
+		
+		<div class="cate_scdpnl">
+				
+		<a href="http://www.hamaramall.com/searching-sandals-1/149" class="m_label">sandals</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-unisex-2/453" class="n_label">unisex</a>
+		
+				</div>
+
+		
+		<div class="cate_thrdpnl">
+				
+		<a style="cursor:text;" class="m_label">brands</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-topgrain-143" class="n_label">topgrain</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-PUMA-31" class="n_label">puma</a>
+		
+				</div>
+
+
+		</div></li>
+		
+
+		<li onmouseover="if(parseInt($(this).position().top)!=0) { $('#contain_holder20').css({'top':'-'+parseInt($(this).position().top)/(2.5)+'px'}); } if(parseInt($(window).scrollTop())>=250) { $('#contain_holder20').css({'position':'fixed','top':'-'+(parseInt($(this).scrollTop())*2)+'px'}); }" onmouseout="$('#contain_holder20').css({'position':'absolute'});"><span><a href="http://www.hamaramall.com/searching-cakes_confectionery_-0/20">Cakes &amp; Confectionery   <i class="icon-double-angle-right pull-right p0 m0"></i></a></span><div id="contain_holder20" class="divholder">
+		
+				
+		<div class="cate_frstpnl">
+				
+		<a href="http://www.hamaramall.com/searching-cakes-1/194" class="m_label">cakes</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-premium_cakes-2/168" class="n_label">premium cakes</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-photo_cake-2/371" class="n_label">photo cake</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-popular_cakes-2/876" class="n_label">popular cakes</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-chocolate_cakes-2/877" class="n_label">chocolate cakes</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-cheese_cakes-2/878" class="n_label">cheese cakes</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-wedding_cake-2/879" class="n_label">wedding cake</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-cakes-1/194" class="n_label">view more&gt;&gt;</a>
+		
+				</div>
+
+		
+		<div class="cate_scdpnl">
+				
+		<a style="cursor:text;" class="m_label">brands</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-monginis-35" class="n_label">monginis</a>
+		
+				</div>
+
+
+		</div></li>
+		
+
+		<li onmouseover="if(parseInt($(this).position().top)!=0) { $('#contain_holder25').css({'top':'-'+parseInt($(this).position().top)/(2.5)+'px'}); } if(parseInt($(window).scrollTop())>=250) { $('#contain_holder25').css({'position':'fixed','top':'-'+(parseInt($(this).scrollTop())*2)+'px'}); }" onmouseout="$('#contain_holder25').css({'position':'absolute'});"><span><a href="http://www.hamaramall.com/searching-festive_seasonal-0/25/fest">Festive &amp; Seasonal  <i class="icon-double-angle-right pull-right p0 m0"></i></a></span><div id="contain_holder25" class="divholder">
+		
+				
+		<div class="cate_frstpnl">
+				
+		<a href="http://www.hamaramall.com/searching-raksha_bandhan_-1/196/fest" class="m_label">raksha bandhan</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-_raksha_bandhan_combo-2/881/fest" class="n_label">raksha bandhan combo</a>
+		
+				</div>
+
+		
+		<div class="cate_scdpnl">
+				
+		<a href="http://www.hamaramall.com/searching-end_of_season_sale_-1/197/fest" class="m_label">end of season sale</a>
+		
+				
+		<a href="http://www.hamaramall.com/searching-_women_clothing-2/882/fest" class="n_label">women clothing </a>
+		
+				</div>
+
+		
+		<div class="cate_thrdpnl">
+				
+		<a style="cursor:text;" class="m_label">best wishes</a>
+		
+				<div class="label_img"><a style="cursor:text;" class="p0 m0"><img style="height:100px; width:180px;" src="http://www.hamaramall.com/media/images/HM-22408-cdhilmnoqx.jpg"></a></div>
+				</div>
+
+
+		</div></li>
+		
+
+</ul>
+</div></div>            
+<div style="padding-top:10px;"></div>
+</div>
+<!--right panel start-->
+<div class="span9" style="width:76.8%; margin-top:15px;">
+
+<div class="row1"><fieldset class="close_iframe">
+<legend class="span12">Privacy Policy</legend>
+
+<div class="span11">
+<p></p><div style="text-align:justify;"><p>At hamaramall.com, we strongly believe in protecting the privacy of  your personal information, and in using it only in ways that have been  notified to you. This Privacy Policy is a legal document which  principally sets out what personal information we collect and retain,  how we use it, whom we may disclose it to, the security measures we take  to protect that information, and how you can correct inaccuracies in  the personal information we hold.</p>
+<p>If you have questions or concerns regarding this statement, you can contact Hamaramall.com&amp;rsquo  s customer service</p>
+<p><strong>The full policy is displayed below:</strong></p>
+<p>Hamaramall  respects your privacy and recognizes the need to protect the personally  identifiable information  any information by which you can be  identified, such as name, address, and telephone number   you share with  us. We would like to assure you that we follow appropriate standards  when it comes to protecting your privacy on our web portal.</p>
+<p>In  general, you can visit our portal without telling us who you are or  revealing any personal information about yourself. [We track the  Internet address of the domains from which people visit us and analyze  this data for trends and statistics, but the individual user remains  anonymous.]</p>
+<p>Some of our web pages use "cookies" so that we can  better serve you with customized information when you return to our  site. Cookies are identifiers which a web site can send to your browser  to keep on your computer to facilitate your next visit to our site. You  can set your browser to notify you when you are sent a cookie, giving  you the option to decide whether or not to accept it. The information we  collect and analyze is used to improve our service to you.</p>
+<p>There  are times when we may collect personal information from you such as  name, physical address or telephone number. It is our intent to inform  you before we do that and to tell you what we intend to do with the  information. Generally, you will have the option not to provide the  information, and in the future you will be able to "opt out" of certain  uses of the information. If you choose not to provide the information we  request, you can still visit the Website, but you may be unable to  access certain options, offers and services.</p>
+<p>Hamaramall.com will  not sell, trade or disclose to third parties any information derived  from the registration for, or use of, any online service  including  names and addresses   without the consent of the user or customer   except as required by subpoena, search warrant, or other legal process  or in the case of imminent physical harm to the user or others  .  Hamaramall.com will allow suppliers to access the information for  purposes of confirming your registration and providing you with benefits  you are entitled to.</p>
+<p>Hamaramall.com will take appropriate steps  to protect the information you share with us. We have implemented  technology and security features and strict policy guidelines to  safeguard the privacy of your personally identifiable information from  unauthorized access and improper use or disclosure. Hamaramall.com will  continue to enhance its security procedures as new technology becomes  available.</p>
+<p>By accessing this site the user agrees to let  hamaramall.com and the assistants hired by hamaramall.com store, process  and use the personal data entered by the user to justify and  administrate the business and User relationship, as well as to perform  and execute deals and contracts initiated through the website. This  particularly concerns the User's name, address, telephone number, email  address, sex and date of birth</p>
+<p>Any Personal Information which we  collect and which we may use in an aggregated format is our property. We  may use it in the aggregated format, in our sole discretion and without  any compensation to you, for any legitimate purpose and you hereby  confirm that you have no objection to the aforesaid use of your Personal  Information.<strong>?</strong></p>
+<p><strong>Notice of Grievance:</strong></p>
+<p>In  the event you have any grievance relating to the processing of  information provided by you, you may contact our corporate office at the  following address:</p>
+<p><strong>Hamaramall.com ,</strong><br><strong>Lakshmi,1st Floor,</strong><br><strong>House No.CC 37/1461,Plot No.88,</strong><br><strong>Kumaranasan Nagar, Kadavanthra,</strong><br><strong>Cochin-680020, Ernakulum,</strong><br><strong>Kerala State-India</strong></p>
+<p>For any queries/ issues related to the product, please visit our contact us section and alternatively you can mail us at<strong> </strong><span><strong><span><a href=""><span>customerservice@hamaramall.com</span></a></span></strong></span></p>
+<p>We request you to please provide the following information in your complaint:-</p>
+<ol>
+<li>
+<p>Identification of the information provided by you</p>
+</li>
+<li>
+<p>Clear statement as to whether the information is personal information or sensitive personal information</p>
+</li>
+<li>
+<p>Your address, telephone number or e-mail address</p>
+</li>
+<li>
+<p>A  statement that you have a good-faith belief that the information has  been processed incorrectly or disclosed without authorization, as the  case may be.</p>
+</li>
+<li>
+<p>A statement, under penalty of perjury, that  the information in the notice is accurate, and that the information  being complained about belongs to you</p>
+</li>
+</ol>
+<p><strong><em>This  document is an electronic record in terms of Information Technology Act,  2000 and the amended provisions pertaining to electronic records in  various statutes as amended by the Information Technology Act, 2000.  This electronic record is generated by a computer system and does not  require any physical or digital signatures</em></strong></p></div><p></p></div>
+</fieldset>
+</div>
+<script>  if(window.self===window.top) { $('.close_iframe').show(); $('.show_iframe').hide(); } else {
+$('.close_iframe').hide();
+$('.show_iframe').show(); } </script>
+</div>
+	</div>
+</div>
+
+
+
+<span class="close_iframe">
+<div id="feedback">
+
+<form name="feedbackk" action="http://www.hamaramall.com/action.php?send=feedback" onsubmit="return validate_feedback()" method="post">
+
+<table border="0" style="height:auto; width:100%;">
+
+<tbody><tr><td colspan="3">&nbsp;</td></tr>
+ 
+<tr><td colspan="3" class="bold vmiddle p5">We would Love to hear your feedback on <span class="red">Hamaramall.com</span></td></tr>
+  
+<tr><td colspan="3"><div class="spr3"></div></td></tr>
+  
+<tr><td class="w20 vmiddle p5 rt"><i class="icon-chevron-right red fs10"></i></td>
+<td class="span2 vmiddle">Name :</td>
+<td><input type="text" name="uf_fullname" id="uf_fullname" class="span3" placeholder="Enter Your Name" onfocus="make_black(this.id);"></td></tr>
+  
+<tr><td class="w20 vmiddle p5 rt"><i class="icon-chevron-right red fs10"></i></td>
+<td class="span2 vmiddle">Email ID :</td>
+<td class="vmiddle"><input type="text" id="uf_email" class="span3" onblur="only_email(this.id);" onfocus="make_black(this.id);" name="uf_email" placeholder="Enter Email Address"></td></tr>
+  
+<tr><td class="w20 vmiddle p5 rt"><i class="icon-chevron-right red fs10"></i></td>
+<td class="span2 vmiddle">Contact No. :</td>
+<td class="vmiddle"><input type="text" class="span3" id="uf_mobile" name="uf_mobile" onblur="only_numbers(this.id);" onfocus="make_black(this.id);" placeholder="Enter Contact No."></td></tr>
+  
+<tr><td class="w20 vmiddle p5 rt"><i class="icon-chevron-right red fs10"></i></td>
+<td class="span2 vmiddle">Your Suggestion :</td>
+<td class="vmiddle"><select class="span3" id="uf_suggestion" name="uf_suggestion" onfocus="make_black(this.id);" style="margin-left:0px !important; font-size:11px;">
+<option value="12">Any Other Feedback or suggestions?</option>
+<option value="13">Were you able to find the item(s) you were looking for?</option>
+<option value="14">Did you enjoy your shopping experience?</option>
+</select></td></tr>
+  
+<tr><td class="w20 vtop">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="span2 vtop"><textarea type="text" class="span3" onfocus="make_black(this.id);" name="uf_message" id="uf_message" placeholder="Leave your valuable suggestion"></textarea></td></tr>
+  
+<tr><td class="w20 vmiddle p5 rt"><i class="icon-chevron-right red fs10"></i></td>
+<td class="span2 vmiddle">Verification Code :</td>
+<td class="vtop"><input type="text" class="span2" onfocus="make_black(this.id);" name="vercode" id="vercode"> <input type="text" disabled="disabled" readonly="" class="captcha" id="ver_check" name="ver_check" value="89129"></td></tr>
+ 
+<tr><td class="w20 vmiddle"></td>
+<td class="span2 vmiddle"></td>
+<td class="vmiddle"><input type="submit" class="btn btn-primary span2" name="submit_feedback" value="Submit"></td></tr>      
+ 
+<tr><td colspan="3">&nbsp;</td></tr>
+
+<tr><td colspan="3"><a href="javascript:void(0);" class="sprt_img pull_feedback" title="Click to leave feedback">Feedback</a></td></tr>
 
 </tbody></table>
+</form>
+</div></span>
 
+<div class="show_iframe" style="margin:20px;">
+<div class="prduct_heading">&nbsp;</div>
+<div align="right" style="padding-top:10px;">
+<a href="http://www.hamaramall.com/aboutus/2"><img src="http://www.hamaramall.com/images/logopoweredby.png"></a>
+</div>
+</div>
+
+<div class="ftrbgpnl close_iframe">
+<div class="container"> 
+<div align="center" class="ftrpnl" style="width:230px;">
+<span class="callcontact"></span>
+<p class="callcontap">For Support &amp; Enquiries 9995315777</p>
+</div>
+<div class="ftr_verbg"></div>
+<div class="pull-left">
+
+<div class="ftrpnl">
+<ul id="ftrullist">
+<li><span>Our Links</span></li>
+<li><a href="http://www.hamaramall.com/aboutus/2" target="_self">About Us</a></li>
+<li><a href="http://www.hamaramall.com/contactus/7" target="_blank">Contact Us</a></li>
+<li><a href="http://www.hamaramall.com/privacypolicy/12" target="_blank">Privacy Policy</a></li>
+<li><a href=" http://hamaramall.com/blog/ " target="_blank">Blog</a></li>
+<li><a href="http://www.hamaramall.com/faq/11" target="_self">FAQ</a></li>
+<li><a href="http://www.hamaramall.com/manufactureswarranty/13" target="_blank">Manufactures Warranty</a></li>
+<li><a href="http://www.hamaramall.com/shoppingguide/10" target="_blank">Shopping Guide</a></li>
+<li><a href="http://www.hamaramall.com/bulkorderscorporateservices/3" target="_self">Bulk Orders &amp; Corporate Services </a></li>
+<li><a href="http://www.hamaramall.com/register?us=aff   " target="_blank">Affiliates</a></li>
+<li><a href="http://www.hamaramall.com/termsofuse/9" target="_blank">Terms Of Use</a></li>
+</ul>
+</div>
+
+<div class="ftrpnl">
+<ul id="ftrullist">
+<li><span>Shop On Hamaramall</span></li>
+<li><a href="http://www.hamaramall.com/searching-mobiles_accessories-0/10  " target="_blank">Mobiles</a></li>
+<li><a href="http://www.hamaramall.com/searching-clothing_accessories-0/3 " target="_self">Clothing</a></li>
+<li><a href="http://www.hamaramall.com/searching-diamond_and_jewellery-0/4 " target="_self">Diamond and Jewellery</a></li>
+<li><a href="http://www.hamaramall.com/searching-books_and_magazines-0/1" target="_self">Books and Magazines</a></li>
+<li><a href="http://www.hamaramall.com/searching-home_and_living-0/2" target="_self">Home and Living</a></li>
+<li><a href="http://www.hamaramall.com" target="_self">Stationary</a></li>
+<li><a href="http://www.hamaramall.com/searching-gifts_and_mementos-0/9" target="_self">Gifts and Mementos</a></li>
+<li><a href="http://www.hamaramall.com/search" target="_self">Much More..</a></li>
+</ul>
+</div>
+
+<div class="clearfix"></div>
+
+<div style="width:470px; ">
+<div><p class="ftrhdgp pull-left">Popular Brands on Hamaramall</p>
+<a href="http://www.hamaramall.com/all_brands" class="pull-right" style="color:#fff;">View All »</a>
+<div class="clearfix"></div></div>
+
+<ul id="bradul" class="m0">
+<li><a href="http://www.hamaramall.com/searching-tara-23">Tara</a></li> 
+<li>|</li>
+<li><a href="http://www.hamaramall.com/searching-pigeon-51">Pigeon</a></li> 
+<li>|</li>
+<li><a href="http://www.hamaramall.com/searching-karats-140">Karats</a></li> 
+<li>|</li>
+<li><a href="http://www.hamaramall.com/searching-sapnish_saffron-47">Sapnish Saffron</a></li> 
+<li>|</li>
+<li><a href="http://www.hamaramall.com/searching-karigari_fashion_jewels-107">Karigari Fashion Jewels</a></li> 
+<li>|</li>
+<li><a href="http://www.hamaramall.com/searching-organic_india-153">Organic India</a></li> 
+<li>|</li>
+<li><a href="http://www.hamaramall.com/searching-samsung-2">Samsung</a></li> 
+<li>|</li>
+<li><a href="http://www.hamaramall.com/searching-topgrain-143">Topgrain</a></li> 
+<li>|</li>
+<li><a href="http://www.hamaramall.com/searching-chhabra-151">Chhabra</a></li> 
+<li>|</li>
+<li><a href="http://www.hamaramall.com/searching-stadium-94">Stadium</a></li> 
+<li>|</li>
+</ul>
+<div class="clearfix"></div>
+</div>
+
+</div>
+<div class="ftr_verbg" style="margin-left:0px;"></div>
+<div align="center" class="ftrpnl">
+<p class="ftrhdgp">Sign up for Hamaramall news</p>
+<div class="subscriptimg">
+<form name="footer_subscrip" action="http://www.hamaramall.com/action.php?send=foot" method="post" class="form-search">
+<div class="">
+<input type="text" id="subs_email" name="subs_email" onblur="only_email(this.id);" class="subscbox">
+
+<button type="submit" onclick="return not_null('subs_email','Please Enter Your E-Mail Id');" name="subs_now" class="bntsubsc"></button>
+</div></form>
+
+</div>
+<p class="ftrhdgp mt5">Follow Hamaramall on</p>
+		<a href="http://twitter.com/hamaramall" target="_blank" class="socialimg social_tw"></a>
+			<a href="http://facebook.com/hamaramallglobal" target="_blank" class="socialimg social_fb"></a>
+			<a href="http://plus.google.com/114187552192051703048/posts" target="_blank" class="socialimg social_gp"></a>
+				<a href="http://www.linkedin.com" target="_blank" class="socialimg social_ln"></a>
+	<div class="clearfix"></div>
+	
+
+
+<p class="ftrhdgp mt5">Completely Safe &amp; Secure Payment</p>
+<div class="bankingimg"></div>
+<p style="font-weight:normal; color:#fff;">We accept Net Banking, all major Credit cards, Debit cards, and Cash Cards.&nbsp;</p>
+</div>
+<div class="clearfix"></div>
+<div class="close_iframe">
+<div>
+<div class="ftrabtpnl"><span class="ftrbdrhdg m0">About Hamaramall.com</span><br><p><strong>Save Money and Time,Enjoy Online Shopping In India at  HamaraMall.com</strong><br> Online shopping is the latest trend across  world, and Indians have already taken it in their stride. If you are amongst  those who are undecided about whether or not to dip your feet in the world of  online shopping read on to know more about how online shopping at HamaraMall  can provide you with oodles of bene<span title="Continued">..</span><a href="http://www.hamaramall.com/aboutus/2" class="pull-right bold" style="color:#fff;">Read More »</a>
+</p></div>
+
+<div class="pull-left" style="margin-left:35px;"><p class="ftrhdgp mt5">We are also on </p>
+<span class="shopmania"><a href="javascript:void(0);" onclick="window.open('http://www.mangalam.com/shopping/index.html'); return false;" rel="nofollow" class="manglnk"></a>
+<a href="javascript:void(0);" title="Visit Hamaramall.com on ShopMania" rel="nofollow" onclick="window.open('http://www.shopmania.in/site/hamaramall.com'); return false;" class="shoplnk"></a></span>
+<!--<a href="http://www.teecumar.com" rel="nofollow" target="_blank"><span class="teekumar" ></span></a>-->
+</div>
+<div class="clearfix"></div>
+<div class="m5 center" style="color:#fff !important;">CopyRight@ 2013 All Rights Reserved-Hamaramall.com Powered by : <a target="_blank" style="color:#fff !important;" href="http://www.zeeways.com" rel="nofollow">Zeeways</a></div>
+</div>
+
+</div>
+<script>  if(window.self===window.top) { $('.close_iframe').show(); $('.show_iframe').hide(); } else {
+$('.close_iframe').hide();
+$('.show_iframe').show(); } </script>
+</div></div>
+
+
+<script>  if(window.self===window.top) { $('.close_iframe').show(); $('.show_iframe').hide(); } else {
+$('.close_iframe').hide();
+$('.show_iframe').show(); } </script>
+<script src="http://www.hamaramall.com/templates/template2/js/product.js"></script><script src="http://www.hamaramall.com/js/jquery-ui.js"></script><script src="http://www.hamaramall.com/templates/template2/js/bootstrap.js"></script><script src="http://www.hamaramall.com/js/jscolor.js"></script><script src="http://www.hamaramall.com/templates/template2/js/plugin.js"></script><script src="http://www.hamaramall.com/js/jquery.prettyPhoto.js"></script><script src="http://www.hamaramall.com/js/prettyphoto_inc.js"></script><script src="http://www.hamaramall.com/js/jquery-ui.js"></script><script src="http://www.hamaramall.com/js/scroll_js.js"></script><script src="http://www.hamaramall.com/js/bjqs-1.3.js"></script><script>
+
+jQuery(document).ready(function($){
+	  $('#etalage').etalage({
+	  thumb_image_width: 260,
+	  thumb_image_height: 338,
+	  source_image_width: 600,
+	  source_image_height: 600,
+	  zoom_area_distance: 5,
+	  small_thumbs: 4,
+	  smallthumb_inactive_opacity: 0.3,
+	  });
+});
+
+
+$(document).ready(function(){
+
+$("#cate_show").click(function(){
+$("#cate_pnl").slideToggle();});
+	
+	$('#banner-slide').bjqs({
+            animtype      : 'slide',
+            width         : 198,
+            height        : 210,
+            responsive    : false,
+			usecaptions	  : false,
+			keyboardnav	  : false,
+			showmarkers   : false,	
+            randomstart   : false
+          });
+});
+
+/*addOnload(function(){
+            HAMAR.utils.runOnload();
+                    });
+    addWindowOnload(function(){
+        HAMAR.utils.runWindowOnload();
+    });*/
+</script>
 
 </body></html>
