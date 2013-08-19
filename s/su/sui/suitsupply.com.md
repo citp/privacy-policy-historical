@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suitsupply.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620103420id_/http%3A//us.suitsupply.com/privacy/content-terms-and-conditions-privacy%2Cen_US%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suitsupply.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820003040id_/http%3A//us.suitsupply.com/privacy/content-terms-and-conditions-privacy%2Cen_US%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy Policy | Suitsupply Online Shop
 
@@ -10,7 +10,7 @@ Your personal information is collected in accordance with applicable law and in 
 
 ### Newsletter Subscription
 
-You can sign up for our Suitsupply Newsletter by submitting your e-mail address in the newsletter module. We don’t send newsletters to customers or registered visitors unless you have registered for the newsletter specifically. All newsletters contain an opt-out link in case you want to unsubscribe for our newsletters.
+You can sign up for our Suitsupply Newsletter by submitting your e-mail address in the newsletter module found at the bottom of any page on this site. We don’t send newsletters to customers or registered visitors unless you have registered for the newsletter specifically. All newsletters contain an opt-out link in case you wish to unsubscribe from receivingfurther newsletters at any time.
 
 ### Third Parties
 
@@ -40,4 +40,4 @@ Suitsupply receives and records information from your browser when you use the S
 
 Please contact us at support@suitsupply.com if you have any additional questions on how we use your personal information.
 
-Date: 4 May 2011
+Date: 26 june 2013
