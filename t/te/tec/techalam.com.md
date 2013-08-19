@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the techalam.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521045025id_/http%3A//www.techalam.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techalam.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820002732id_/http%3A//www.techalam.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
+  
 **Privacy Policy for www.techalam.com**
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at techalamblog[at]gmail[dot]com.
