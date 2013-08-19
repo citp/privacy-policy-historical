@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the plink.com privacy policy that was archived on 2013-06-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130612042306id_/https%3A//www.plink.com/index.cfm%3Ffuseaction%3Dmain.privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the plink.com privacy policy that was archived on 2013-08-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130820015743id_/https%3A//www.plink.com/index.cfm%3Ffuseaction%3Dmain.privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 		<meta charset="UTF-8">
@@ -105,13 +105,6 @@
 			});
 
 			
-				FB.getLoginStatus(function(response) {
-					$.get('/xhr/trackUserIsLoggedIntoFacebook.cfm?v=' + Math.random(),
-					{
-						loginStatus:response.status
-					}, function(response){})
-				})
-			
 
 		};
 
@@ -138,9 +131,9 @@
 						+ '&redirect_uri=https%3A%2F%2Fwww%2Eplink%2Ecom%2Findex%2Ecfm%3Ffuseaction%3DfbAuthentication%2Eauthenticate'
 						+ '&scope=email,user_birthday,user_location,user_checkins,publish_actions'
 						+ '&response_type=code'
-						+ '&state=99013ECB9CA8968AB7CD4066433DF997'
+						+ '&state=C6832C8D3CE3AFD03C6F39746197D0F6'
 						+ '&display=popup';
-				fbURL = ' https://www.facebook.com/dialog/oauth?client_id=108539345896102&redirect_uri=https%3A%2F%2Fwww%2Eplink%2Ecom%2Findex%2Ecfm%3Ffuseaction%3DfbAuthentication%2Eauthenticate&scope=email,user_birthday,user_location,user_checkins,publish_actions&response_type=code&state=99013ECB9CA8968AB7CD4066433DF997&display=popup';
+				fbURL = ' https://www.facebook.com/dialog/oauth?client_id=108539345896102&redirect_uri=https%3A%2F%2Fwww%2Eplink%2Ecom%2Findex%2Ecfm%3Ffuseaction%3DfbAuthentication%2Eauthenticate&scope=email,user_birthday,user_location,user_checkins,publish_actions&response_type=code&state=C6832C8D3CE3AFD03C6F39746197D0F6&display=popup';
 				fbConnectWindow = window.open(fbURL, 'fbConnectWindow', 'height=300, width=630,top='+top+',left='+left+'');
 				
 			}
