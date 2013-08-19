@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharewarejunction.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614165733id_/http%3A//www.sharewarejunction.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharewarejunction.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819132756id_/http%3A//www.sharewarejunction.com/privacy.html) for the most accurate reproduction.*
 
 # Welcome to Shareware Junction - Free software downloads!
 
