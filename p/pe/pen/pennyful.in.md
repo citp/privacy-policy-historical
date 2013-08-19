@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pennyful.in privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602001303id_/http%3A//www.pennyful.in/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pennyful.in privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819190647id_/http%3A//www.pennyful.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Pennyful.in
 
