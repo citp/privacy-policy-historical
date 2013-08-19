@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoodamath.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520174458id_/http%3A//hoodamath.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoodamath.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819024128id_/http%3A//www.hoodamath.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,20 +12,14 @@ We use your IP address to help diagnose problems with our server and to administ
 
 #### Advertisers
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here  
+We use third-party advertising companies to serve ads when you visit our Web site. ~~These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.~~ **We no longer allow advertisers to gather information of any kind on our users to coincide with changes to COPPA 2013** If you would like more information about this practice and to know your choices about not having this information used by these companies, click here  
 <http://www.networkadvertising.org/managing/opt_out.asp>
 
 This website may utilize certain services provided by DoubleClick, Inc. (DoubleClick). For further information concerning DoubleClick's privacy practices, including the ability to opt-out from any data collection, reporting and/or targeting activities associated with its services, please go to: <http://www.google.com/intl/en/privacy/privacy-policy.html>
 
 #### Third Party Cookies
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
-
-You can view the privacy policies for each ad company by following the links below:
-
-DoubleClick Ad Exchanges: <http://www.google.com/intl/en/privacy/ads/privacy-policy.html>
-
-Google Adsense: <http://www.google.com/intl/en/privacy/ads/privacy-policy.html>
+**We no longer allow advertisers to gather information of any kind on our users to coincide with changes to COPPA 2013**
 
 #### Our Cookies and other user information gathering
 
@@ -72,4 +66,4 @@ We will encourage children to get their parent's permission before sharing perso
 
 #### Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can click here: [Contact Us](https://web.archive.org/contact/)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can click here: [Contact Us](https://web.archive.org/web/20130819024128id_/http%3A//www.hoodamath.com/contact/index.html)
