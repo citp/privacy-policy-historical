@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winningsurveys.com privacy policy that was archived on 2013-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130410173032id_/http%3A//www.winningsurveys.com/info.htm%3Ftp%3Dprivacy%26promo_name%3D3600namename%26catalog_id%3D18639) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winningsurveys.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819122323id_/http%3A//winningsurveys.com/info.htm%3Ftp%3Dprivacy%26promo_name%3D3600namename%26catalog_id%3D18639) for the most accurate reproduction.*
 
 # Winningsurveys
 
@@ -20,7 +20,7 @@ Your information will be used to improve and personalize the offers Winningsurve
 
 If you do not want us to share contact, postal, e-mail address and demographic information with third party marketers, we can add your name to our "do-not-share" or "do-not-call" list. Please click here to send us a request to be added to this list.
 
-Additionally, you may request to unsubscribe from all Winningsurveys.com related emails by [clicking here](https://web.archive.org/suppress.htm?user_ref_id=&promo_name=3600namename&catalog_id=18639&gift=71&SID=88b8ea9faf2835d1ff59b76444eb3f71c).   
+Additionally, you may request to unsubscribe from all Winningsurveys.com related emails by [clicking here](https://web.archive.org/suppress.htm?user_ref_id=&promo_name=3600namename&catalog_id=18639&gift=71&SID=49ebae5a68b710bbac1c1554401e4f22b).   
 Unsubscribe requests are processed within 72 hours but because of time lags due to scheduling, you may receive one or two additional e-mail messages that are already "in the pipeline." To remove yourself from third-party mailing lists, please follow the unsubscribe instructions provided or contact the third-party directly with your request for removal.
 
 If you supply Winningsurveys.com with your postal address, you may receive periodic postal mailings from us with information on new products and services or upcoming events. You may also receive mailings from other reputable companies. If you do not want to receive postal mail from Winningsurveys.com or other reputable companies, please contact our customer service group. Please provide us with your exact name and address and we will be sure your name is removed from our postal list.
