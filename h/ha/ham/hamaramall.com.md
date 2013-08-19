@@ -1,78 +1,55 @@
-> *The following text is extracted and transformed from the hamaramall.com privacy policy that was archived on 2005-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050221183845id_/http%3A//www.hamaramall.com/newsrc/spg/asp/pp.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hamaramall.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819184659id_/http%3A//www.hamaramall.com/privacypolicy/12) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
-This privacy statement discloses the privacy practices for www.hamarashop.   
+At hamaramall.com, we strongly believe in protecting the privacy of your personal information, and in using it only in ways that have been notified to you. This Privacy Policy is a legal document which principally sets out what personal information we collect and retain, how we use it, whom we may disclose it to, the security measures we take to protect that information, and how you can correct inaccuracies in the personal information we hold.
+
+If you have questions or concerns regarding this statement, you can contact Hamaramall.com&rsquo s customer service
+
+**The full policy is displayed below:**
+
+Hamaramall respects your privacy and recognizes the need to protect the personally identifiable information any information by which you can be identified, such as name, address, and telephone number you share with us. We would like to assure you that we follow appropriate standards when it comes to protecting your privacy on our web portal.
+
+In general, you can visit our portal without telling us who you are or revealing any personal information about yourself. [We track the Internet address of the domains from which people visit us and analyze this data for trends and statistics, but the individual user remains anonymous.]
+
+Some of our web pages use "cookies" so that we can better serve you with customized information when you return to our site. Cookies are identifiers which a web site can send to your browser to keep on your computer to facilitate your next visit to our site. You can set your browser to notify you when you are sent a cookie, giving you the option to decide whether or not to accept it. The information we collect and analyze is used to improve our service to you.
+
+There are times when we may collect personal information from you such as name, physical address or telephone number. It is our intent to inform you before we do that and to tell you what we intend to do with the information. Generally, you will have the option not to provide the information, and in the future you will be able to "opt out" of certain uses of the information. If you choose not to provide the information we request, you can still visit the Website, but you may be unable to access certain options, offers and services.
+
+Hamaramall.com will not sell, trade or disclose to third parties any information derived from the registration for, or use of, any online service including names and addresses without the consent of the user or customer except as required by subpoena, search warrant, or other legal process or in the case of imminent physical harm to the user or others . Hamaramall.com will allow suppliers to access the information for purposes of confirming your registration and providing you with benefits you are entitled to.
+
+Hamaramall.com will take appropriate steps to protect the information you share with us. We have implemented technology and security features and strict policy guidelines to safeguard the privacy of your personally identifiable information from unauthorized access and improper use or disclosure. Hamaramall.com will continue to enhance its security procedures as new technology becomes available.
+
+By accessing this site the user agrees to let hamaramall.com and the assistants hired by hamaramall.com store, process and use the personal data entered by the user to justify and administrate the business and User relationship, as well as to perform and execute deals and contracts initiated through the website. This particularly concerns the User's name, address, telephone number, email address, sex and date of birth
+
+Any Personal Information which we collect and which we may use in an aggregated format is our property. We may use it in the aggregated format, in our sole discretion and without any compensation to you, for any legitimate purpose and you hereby confirm that you have no objection to the aforesaid use of your Personal Information. **?**
+
+**Notice of Grievance:**
+
+In the event you have any grievance relating to the processing of information provided by you, you may contact our corporate office at the following address:
+
+**Hamaramall.com ,**  
+ **Lakshmi,1st Floor,**  
+ **House No.CC 37/1461,Plot No.88,**  
+ **Kumaranasan Nagar, Kadavanthra,**  
+ **Cochin-680020, Ernakulum,**  
+ **Kerala State-India**
+
+For any queries/ issues related to the product, please visit our contact us section and alternatively you can mail us at ******[customerservice@hamaramall.com]()**
+
+We request you to please provide the following information in your complaint:-
+
+  1. Identification of the information provided by you
+
+  2. Clear statement as to whether the information is personal information or sensitive personal information
+
+  3. Your address, telephone number or e-mail address
+
+  4. A statement that you have a good-faith belief that the information has been processed incorrectly or disclosed without authorization, as the case may be.
+
+  5. A statement, under penalty of perjury, that the information in the notice is accurate, and that the information being complained about belongs to you
 
 
-**If you feel that this company is not abiding by its posted privacy policy, you should first contact [Ms. Ritu Soni, Product Manager] by phone on 91-22-8311849/8200832, by mail atritu@hamarashop or write to hamarashop at B-3,Lunic Industries, Opp.State Bank Of India, M.I.D.C Cross Rd No-6, M.I.D.C,Mumbai-400093,Maharashtra,India.**
 
-**Information Collection and Use**  
-hamarashop is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. hamarashop collects information from our users at several different points on our website. 
 
-  
-  
-**Registration**   
-In order to purchase products/services on this website, a user must first complete the registration form. During registration a user is required to give their contact information (such as name and e-mail address). This information is used to contact the user about the services on our site for which they have expressed interest. 
-
-**Check Out**  
-We request the user for personal information (like name and shipping address) and financial information (like credit card number, expiry date etc.). This information is used for billing purposes and to fill customer's orders. If we have trouble processing an order, this contact information is used to get in touch with the user. 
-
-**Cookies**   
-A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. If a user rejects the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site. For example, the user will not be able to participate in any of our Sweepstakes, Contests or monthly Drawings that take place. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site.
-
-Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies. 
-
-**Log Files**   
-We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
-
-**Sharing**  
-We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person. 
-
-We use our inhouse logistic department to ship orders,within mumbai and a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes. 
-
-We partner with another party to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services. 
-
-These parties are not allowed to use personally identifiable information except for the purpose of providing these services. 
-
-**Links**  
-This web site contains links to other sites. Please be aware that we [hamarashop] are **not responsible** for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site. 
-
-**Surveys & Contests **  
-From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. 
-
-**Tell-A-Friend**  
-If a user elects to use our referral service for informing a friend about our site, we require the friend's name and e-mail address. hamarashop will automatically send the friend a one-time e-mail inviting them to visit the site. hamarashop stores this information for the sole purpose of sending this one-time e-mail The friend may contact hamarashop at feedback@hamarashop to request the removal of this information from their database. 
-
-**Security**   
-This website takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line. 
-
-When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to unlocked, or open, when you are just 'surfing'. To learn more about SSL, follow this link [www.hamarashop/securetrans.asp]. 
-
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to regain access to your information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage. 
-
-If you have any questions about the security at our website, you can send an e-mail to kiran@hamarashop 
-
-**Supplementation of Information**  
-In order for this website to properly fulfill its obligation to our customers, it is necessary for us to supplement the information we receive with information from 3rd party sources. 
-
-For example, to determine if our customers qualify for cash transactions, we use their name and bank details to request a credit report. Once we determine a user's credit worthiness, this document is destroyed. 
-
-In order for this website to enhance its ability to tailor the site to an individual's preference, we combine information about the purchasing habits of users with similar information from our partners, Company Y & Company Z, to create a personalized user profile. When a user makes a purchase from either of these two companies, the companies collect and share that purchase information with us so we can tailor the site to our users' preferences. 
-
-**Special Offers**  
-We send all new members a welcoming e-mail to verify password and username. Established members will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see our choice and opt-out below. 
-
-**Site and Service Updates**   
-We also send the user site and service announcement updates. Members are not able to unsubscribe from service announcements, which contain important information about the service. We communicate with the user to provide requested services and in regards to issues relating to their account via e-mail or phone. 
-
-**Correction/Updating Personal Information**   
-If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can usually be done at My Page or by emailing our Customer Support Cell at feedback@hamarashop. 
-
-**Choice / Opt-out**  
-Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our order form has an 'opt-out' mechanism so users who buy a product from us, but don't want any marketing material, can keep their e-mail address off of our lists. 
-
-Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by replying to unsubscribe in the subject line in the e-mail or e-mail us at feedback@hamarashop. Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not. 
-
-**Notification of Changes**  
-If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an e-mail. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
+**_This document is an electronic record in terms of Information Technology Act, 2000 and the amended provisions pertaining to electronic records in various statutes as amended by the Information Technology Act, 2000. This electronic record is generated by a computer system and does not require any physical or digital signatures_**
