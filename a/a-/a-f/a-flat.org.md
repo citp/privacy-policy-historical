@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the a-flat.org privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617223123id_/http%3A//a-flat.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a-flat.org privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819081111id_/http%3A//a-flat.org/privacy_policy.html) for the most accurate reproduction.*
 
 # A-Flat Web Directory - Privacy Policy
 
