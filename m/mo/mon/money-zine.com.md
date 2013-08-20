@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the money-zine.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424164747id_/http%3A//www.money-zine.com/About/Information/Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the money-zine.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820183000id_/http%3A//www.money-zine.com/about/information/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
