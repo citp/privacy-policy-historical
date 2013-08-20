@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ezleadcapture.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507192209id_/http%3A//www.ezleadcapture.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezleadcapture.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820232722id_/http%3A//www.ezleadcapture.com/privacy-policy) for the most accurate reproduction.*
 
-# EZLeadCapture.Com Privacy Policy | Lead Capture Pages
+# EZLeadCapture.Com Privacy Policy
 
 ## PRIVACY POLICY
 
@@ -12,16 +12,16 @@ We understand that privacy online is important to users of our Site, especially 
 refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information not connected to an identified individual.
 
 **What Personally Identifiable Information is collected?**  
-We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: the names, addresses, phone numbers and email addresses of Authorized Customers, the nature and size of the business, and the nature and size of the advertising inventory that the Authorized Customer intends to purchase or sell.
+We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: the names, addresses, phone numbers and email addresses of Authorized Customers, the nature of their business, and the nature and size of the advertising campaigns that the Authorized Customer intends to purchase and direct towards their lead capture pages within our system.
 
 **What organizations are collecting the information?**  
-In addition to our direct collection of information, our third party service vendors (such as credit card companies, clearinghouses and banks) who may provide such services as credit, insurance, and escrow services may collect this information from our Visitors and Authorized Customers. We do not control how these third parties use such information, but we do ask them to disclose how they use personal information provided to them from Visitors and Authorized Customers. Some of these third parties may be intermediaries that act solely as links in the distribution chain, and do not store, retain, or use the information given to them.
+In addition to our direct collection of information, our third party service vendors (such as credit card companies,PayPal and banks) who may provide such services as credit, insurance, and escrow services may collect this information from our Visitors and Authorized Customers. We do not control how these third parties use such information, but we do ask them to disclose how they use personal information provided to them from Visitors and Authorized Customers. Some of these third parties may be intermediaries that act solely as links in the distribution chain, and do not store, retain, or use the information given to them.
 
 **How does the Site use Personally Identifiable Information?**  
-We use Personally Identifiable Information to customize the Site, to make appropriate service offerings, and to fulfill buying and selling requests on the Site. We may email Visitors and Authorized Customers about research or purchase and selling opportunities on the Site or information related to the subject matter of the Site. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information.  [](https://www.weblawgenerator.com/)
+We use Personally Identifiable Information to customize the Site, to make appropriate service offerings, and to fulfill buying and selling requests on the Site. We may email Visitors and Authorized Customers about research or purchase and selling opportunities on the Site or information related to the subject matter of the Site. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information.  
 
 **With whom may the information may be shared?**  
-Personally Identifiable Information about Authorized Customers may be shared with other Authorized Customers who wish to evaluate potential transactions with other Authorized Customers. We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with our affiliated agencies and third party vendors. We also offer the opportunity to “opt out” of receiving information or being contacted by us or by any agency acting on our behalf.
+We do not share any of our customers or visitors personally indentifiable information under any circumstances unless required to do so by a court of law.  We also offer the opportunity for all visitors to “opt out” of receiving information or being contacted by us or by any agency or individual using our system.
 
 **How is Personally Identifiable Information stored?**  
 Personally Identifiable Information collected by www.EZLeadCapture.Com is securely stored and is not accessible to third parties or employees of www.EZLeadCapture.Com except for use as indicated above.
