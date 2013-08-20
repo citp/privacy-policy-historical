@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freesinhalamovie.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608044622id_/http%3A//freesinhalamovie.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freesinhalamovie.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820181257id_/http%3A//www.freesinhalamovie.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -33,8 +33,4 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
 
-Structured settlements  , Mesothelioma , Acne , Life Insurance ,Asbestos ,Bextra , Bankruptcy , Car Insurance , Dental Plans , Private Jets , Debt Consolidation ,Credit Cards , Canadian Pharmacy , Online Trading , Equity Line Credit ,Loans , Mortgages , Pay Day Loans , Cash Advance , Equity Loans , Reduce Debt , Refinance ,Jet Charter , Rehab , Wrongful death , Legal Advice , Taxes , Investing , Bonds ,Vioxx , IRA Rollover , Refinance Quotes ,Adult Education , Distance Learning , Alcohol Treatment , Depression , Drug Rehab , Extra Money , Cell Phone Plans , Calling Cards , VOIP , Weight Loss , Homeowner’s Insurance , Rewards Cards , Spam Filter , Lasik , Facelift , Teeth Whitening , Annuity , Anti Virus Protection , Adult Diaper , Free Credit Report , Credit Score , Satellite , Anti Spam Software , Dedicated Hosting , Domain Name , Need Money , Bachelor Degree , Master Degree , Doctorate Degree , Work at Home , Quick Book , Spyware , Eloan , Malpractice Lawyer , 
-
-Lenox China , Cancer , Payperclick , Personal Injury Attorney , Lexington Law , Video Conferencing , Transfer Money m , Windstar Cruise , Casinos Online , Laptop Computer  , Online Banking , Borrow Money , Low Interest Credit Cards , Personal Domain Name , Cellular Phone Rental , Internet Broker , Term Life  , Cheap Hosting , University Degrees Online , Online Marketing , Consolidate , Business Credit , Web Host ,Death Insurance , Yellow Page Advertising , Travel Insurance , Register Domain , Credit Counseling , Email Hosting , Trans Union , Consumer Credit , Blue Cross , Helpdesk Software
-
-wmg iyh jYfhka by; i|yka weâ ^ oekaùï 3la j;a & lsysmhla  la,sla lrkak'
+[](https://fb.mcent.com/ref/MY9JNN/)
