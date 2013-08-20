@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chromewhois.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601064629id_/http%3A//www.chromewhois.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chromewhois.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820191130id_/http%3A//www.chromewhois.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
