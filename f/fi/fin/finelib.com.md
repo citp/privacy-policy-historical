@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finelib.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530074723id_/http%3A//finelib.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finelib.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820073426id_/http%3A//www.finelib.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Finelib.com - Nigeria Business Directory and Search Engine
 
