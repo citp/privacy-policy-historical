@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scfederal.org privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511043308id_/https%3A//www.scfederal.org/Privacy-Notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scfederal.org privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821005235id_/https%3A//www.scfederal.org/Privacy-Notice) for the most accurate reproduction.*
 
 # South Carolina Federal Credit Union - for all your financial and banking needs
 
