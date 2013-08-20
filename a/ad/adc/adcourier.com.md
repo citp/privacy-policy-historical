@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adcourier.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603004225id_/http%3A//www.broadbean.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adcourier.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820223359id_/http%3A//www.broadbean.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy & Cookies - broadbean.com
 
