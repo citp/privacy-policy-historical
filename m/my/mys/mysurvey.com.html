@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mysurvey.com privacy policy that was archived on 2013-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130607114458id_/https%3A//www.mysurvey.com/index.cfm%3Faction%3DMain.lobbyGeneral%26myContent%3DPRIVACY) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mysurvey.com privacy policy that was archived on 2013-08-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130820113929id_/https%3A//www.mysurvey.com/index.cfm%3Faction%3DMain.lobbyGeneral%26myContent%3DPRIVACY) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" style=""><!--<![endif]--><head>
      <!-- Google Analytics Content Experiment code
@@ -28,18 +28,23 @@
 
   <link href="view/css/1/common-stylesheet2.css" rel="stylesheet" type="text/css">
   <link href="view/css/1/common-stylesheet-reg.css" rel="stylesheet" type="text/css"> 
+  
+  <link href="view/css/1/common-stylesheet-fbconnect.css" rel="stylesheet" type="text/css">
+  
+  
   <link href="view/css/1/jquery-ui-1.8.5.custom.css" rel="stylesheet" type="text/css">
   <!--[if IE 7]>
   <link href="view/css/1/ie7css.css" rel="stylesheet" type="text/css" />
   <![endif]-->
   <link href="view/images/1/favicon.ico" rel="icon">
 
-<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=270873782927365"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="view/css/1/modernizr-2.6.2.min.js"></script>
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=270873782927365"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-N2KH"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="view/css/1/modernizr-2.6.2.min.js"></script>
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="view/css/1/jquery-1.8.3.min.js"><\/script>')</script><script src="view/css/1/jquery-1.8.3.min.js"></script>
 
 <script type="text/javascript" language="javascript" src="view/css/1/plugins.js"></script>
+
 <script type="text/javascript" language="javascript" src="view/css/1/plugins_2.js"></script>
 <script type="text/javascript" language="javascript" src="view/css/1/style.js"></script>
 <!-- css3-mediaqueries.js for IE less than 9 -->
@@ -47,11 +52,22 @@
 	<script src="view/css/1/css3-mediaqueries.js"></script>
 <![endif]-->
 
+<!-- URL Character removal -->
+<script type="text/javascript">
+	if (window.location.href.indexOf('#_=_') > 0) {
+    window.location = window.location.href.replace(/#.*/, '');
+	} 
+</script>
+
 
   <script>
 $(document).ready(function(){
 // hide the article top banner for reskin
-$("div#article img:first").hide( );
+$("div#article img:first").hide();
+$('.closeMessageBox').live('click', function() {
+	$(this).parent().parent().fadeOut();
+	$('.overlay, #learnMySurveyBoxNav').hide();
+});
 });
 </script>
 
@@ -93,6 +109,16 @@ if(str.search(/coreg\=Y/i) != -1 && str.search(/registrationComplete/i) != -1)
     <body class="ms">
   
 
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-N2KH"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N2KH');</script>
+<!-- End Google Tag Manager -->
+
 
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
@@ -128,8 +154,8 @@ if(str.search(/coreg\=Y/i) != -1 && str.search(/registrationComplete/i) != -1)
  <!-- ad hoc url -->
 
 
-<div id="top">
-    <div id="CountryList" class="greyBorder">
+<div id="top" style="position:relative; z-index:10;">
+    <div id="CountryList" class="greyBorder" style="display: none;">
 		<a style="color: black; text-decoration: none;" target="_blank" href="http://www.mysurvey.eu/">Our global sites: <img height="14px" style="position: relative; top: -1px;" src="view/images/1/us-flag.jpg"></a>
     </div>
      
@@ -141,27 +167,50 @@ if(str.search(/coreg\=Y/i) != -1 && str.search(/registrationComplete/i) != -1)
     <div id="logo"><a href="index.cfm?action=Main.home" title="Home"><img src="view/images/1/logo-mysurvey.png" alt="MySurvey - Discover the power of Your Opinion" width="228" height="91"></a></div>
 
     
-    <div id="login">
-    <fieldset class="loginSmall">
-    <form action="index.cfm?action=Main.login" id="formLogin" name="formLogin" method="post" style="display:block;">
+    <div id="login" style="bottom:-42px;padding-left:10px;">
+    	<label style="font-size:11px; font-weight:bold;margin-top:5px;">Sign In With:</label>
+        <div style="margin-top:8px;">
+    	<input type="button" value="Email" style="font-size: 13px;height:28px;padding-left:35px;" class="btnSmall green2" name="loginmsbtn" id="loginmsbtn" onclick="showhidelogin();">
+        <input type="button" value="Facebook" style="margin-left:5px; font-size: 13px;height:28px;padding-left:35px;margin-right:10px;" class="btnSmall blue" name="loginfbbtn" id="loginfbbtn" onclick="_gaq.push(['_trackEvent', 'Engag Assistant', 'EA-FB Login', 'FB login']);location.href='index.cfm?action=Main.loginWithFB';">
+        </div>
+    </div>
+    <div id="loginformfield">
+        <div class="messageBox" style="-moz-border-radius:0;-webkit-border-radius:0;border-radius:0; "><p class="closeMessageBox"></p>
+        <fieldset class="loginSmall">
+        <form action="index.cfm?action=Main.login" id="formLoginSmall" name="formLoginSmall" method="post" style="display:block;" onsubmit="_gaq.push(['_trackEvent', 'Engag Assistant', 'EA-FB Login', 'Normal login']);">
         <ul>
             <li>
-                <label for="username">Username</label>
-                <div><input type="text" name="username" style="width: 147px;" tabindex="1" value=""></div>
+                <label for="username">Email address</label>
+                <div><input type="text" name="username" style="width: 147px;" tabindex="1" value="" id="userName"></div>
                 <div style="font-size: 11px; margin: 2px 1px;"><input type="Checkbox" name="savePassword" value="TRUE" id="savePassword"><label for="savePassword" style="position: relative; top: -2px; left: 2px;">Keep me logged in</label></div>
             </li>
             <li>
                 <label for="userPassword">Password</label>
-                <div><input type="password" name="userPassword" style="width: 147px;" tabindex="2" id="userPassword" value=""><input type="submit" value="Sign In" style="margin-left: 10px; font-size: 13px; width: 63px;" tabindex="3" class="btnSmall green" name="submit" alt="submit"></div>
-                <div style="font-size: 11px; margin: 2px 1px;"><a href="index.cfm?action=Main.lobbyGeneral&amp;myContent=forgot">Forgot Your password?</a></div>
+                <div><input type="password" name="userPassword" style="width: 147px;" tabindex="2" id="userPassword" value=""><input type="submit" value="Sign In" style="margin-left: 10px; font-size: 13px; width: 63px;" tabindex="3" class="btnSmall green" name="formsubmit" id="loginformsubmit"></div>
+                <div style="font-size: 11px; margin: 2px 1px;"><a href="index.cfm?action=Main.lobbyGeneral&amp;myContent=forgot">Forgot your password?</a></div>
             </li>
         </ul>
         <input type="hidden" name="destination" value="Main.activityRouter">
         <input type="hidden" name="formLogin" value="TRUE">
-    </form>
-    </fieldset>
+        </form>
+        </fieldset>
+        <div class="messageBoxArrowU"></div>
+        </div>        
     </div>
-        
+    <script>
+	function showhidelogin(){
+		if($('.loginMessage').is(":visible")) {
+			$('.loginMessage').hide();
+		};
+		if($('#loginformfield').is(":visible")) {
+			$('#loginformfield').fadeOut();
+		} else {
+			$('#loginformfield').fadeIn();
+		};
+	};
+	</script>
+
+	
 
 </div>
 
@@ -197,7 +246,7 @@ return obj;};var parseActiveXVersion=function(str){var versionArray=str.split(",
     <div class="inner_text">
     <h1 class="feature">Our Approach to Privacy &amp; Spam </h1>
     </div>
-    <img src="view/images/1/b_privacy.jpg" height="152" width="536" alt="">
+    <img src="view/images/1/b_privacy.jpg" height="152" width="536" alt="" style="display: none;">
     <div class="inner_text">
     <table>
     <tbody><tr><td>
@@ -222,7 +271,7 @@ return obj;};var parseActiveXVersion=function(str){var versionArray=str.split(",
                 We use phone numbers to notify sweepstakes program winners who have not responded to email. We also call panel members in response to their request for a return call to answer a question or address any concerns. On rare occasions, we call panelists to validate survey responses. Most interactive panel members are never contacted via phone.<br><br>
                 MySurvey.com asks sweepstakes prize winners if we can post their first name and last initial (or just their initials) along with home town location on the Winners' page of this website. We post names only after permission is granted and respect any winners' requests that their names not be publicized.<br><br>
                 MySurvey.com frequently asks panel members for demographic information (such as age, gender, household composition), computer and web access capabilities, and lifestyle information (for example, types of vehicles owned or business/recreational travel). MySurvey.com uses this information to select surveys that are appropriate for the panel member (or a member of the panelist's household). For example, a survey related to satisfaction with stays at various hotel chains might be sent only to those panelists who indicate a certain frequency of travel. We sometimes use birth date information to send birthday greetings to our panel members.<br><br>
-                MySurvey.com asks panel members for their opinions about a variety of products and services by asking them to complete surveys via email or at the MySurvey.com website. Usually, MySurvey.com combines the individual panelist responses and reports on the aggregated (or group) results. Individual level responses are occasionally used, but never associated with any personal identifying information. For surveys offered at the panelist website, panel members are asked for their user name and password (rather than any personal identifying information).<br><br>
+                MySurvey.com asks panel members for their opinions about a variety of products and services by asking them to complete surveys via email or at the MySurvey.com website. Usually, MySurvey.com combines the individual panelist responses and reports on the aggregated (or group) results. Individual level responses are occasionally used, but never associated with any personal identifying information. For surveys offered at the panelist website, panel members are asked for their email address and password (rather than any personal identifying information).<br><br>
                 MySurvey.com may occasionally ask for other personal identifying information as part of a specific survey. In these cases, we will provide an explanation in the survey introduction to allow members to make an informed decision about participation. The explanation will include a description of any new identifying information that will be collected via the survey and with whom it will be shared. As with any survey, members can decline to take the survey or stop at any time during the survey process. Like all other information we collect, any additional information collected for a specific survey will be used for research purposes only.<br><br>
                 MySurvey.com also automatically collects information via log files to administer the site and to aid in technical problem solving. Log file information collected is IP address, time a page was viewed, name of pages viewed within the MySurvey.com site during the specific visit, browser type, URL parameters, and cookies that were set by the MySurvey.com website at the time of the visit. Log files may also include information indicating where a visitor came from. This information is used only to administer the site and to identify and resolve any technical problems related to the site's operation. Log file information is never linked to personal identifying information.<br><br>
                 When you participate in the Refer A Friend program we ask for your friend's first name and email address. The first name is used in the greeting to personalize the message and the email address is needed to deliver it to your friend. Both pieces of information are stored only temporarily, for a long enough time to make sure the email was sent without difficulty and are never used for any other purpose. Participation in the Referral Program, like all aspects of MySurvey.com membership, is completely voluntary.<br><br>
@@ -231,7 +280,7 @@ return obj;};var parseActiveXVersion=function(str){var versionArray=str.split(",
                 As is the case with any information you provide to any business operating in the United States, information provided to MySurvey.com is subject to disclosure pursuant to judicial or other government subpoenas, warrants, or orders.<br><br>
 <strong>Updating Your Personal Information:</strong><br>
                 <i>Policies on Correcting/Updating Personal Information</i><br><br>
-               MySurvey.com relies on panel members themselves to provide any updates to personal identifying information. Members may update email addresses, password, mailing address, phone number as well as name of the person who initially registered by going to the Update Your Info section of this website (available to members only). For changes to any other personal information, including user name, panel members are asked to contact MySurvey.com via <a href="index.cfm?action=Main.lobbyGeneral&amp;myContent=CONTACT" title="Contact Us">email</a> or by phone. The toll-free customer service number is 1-800-537-4097. Customer service hours are 9 AM to 9 PM (Eastern Time) on weekdays and 10 AM to 6 PM on Saturday. Members may also update their email addresses or other information by <a href="index.cfm?action=Main.lobbyGeneral&amp;myContent=CONTACT" title="Contact Us">emailing</a>, by calling, or by mailing in their changes (see postal address at the end of this page), whatever they prefer. (Please note that changes sent via the postal service will take longer to implement due to time needed for mail delivery.) We will respond to your change request within 30 days of receiving it; the response will either be to change your information as requested or to respond to you with more information. (Note: when emailing us with changes to your information, please use the email links provided above.)<br>
+               MySurvey.com relies on panel members themselves to provide any updates to personal identifying information. Members may update email addresses, password, mailing address, phone number as well as name of the person who initially registered by going to the Update Your Info section of this website (available to members only). For changes to any other personal information, including email address, panel members are asked to contact MySurvey.com via <a href="index.cfm?action=Main.lobbyGeneral&amp;myContent=CONTACT" title="Contact Us">email</a> or by phone. The toll-free customer service number is 1-800-537-4097. Customer service hours are 9 AM to 9 PM (Eastern Time) on weekdays and 10 AM to 6 PM on Saturday. Members may also update their email addresses or other information by <a href="index.cfm?action=Main.lobbyGeneral&amp;myContent=CONTACT" title="Contact Us">emailing</a>, by calling, or by mailing in their changes (see postal address at the end of this page), whatever they prefer. (Please note that changes sent via the postal service will take longer to implement due to time needed for mail delivery.) We will respond to your change request within 30 days of receiving it; the response will either be to change your information as requested or to respond to you with more information. (Note: when emailing us with changes to your information, please use the email links provided above.)<br>
                 <br>
                 MySurvey.com may occasionally supplement information obtained from panel members with third party information (such as demographic or ownership information that MySurvey.com doesn't typically collect, e.g. small dog ownership). In order to accomplish this, we may need to share your information with a third party. MySurvey.com may also use third party database applications to provide services (such as customer support or email communications to members). In such cases, we ensure your privacy by having these third parties sign a written, legally binding agreement stipulating that they will not share MySurvey.com data with any outside party and that any individual identifying information is to be used solely for the purpose of matching records or providing the agreed upon database service.<br><br>
                 MySurvey.com may also exchange information with our partner sites for the member's benefit and with the member's knowledge (in accordance with this privacy policy). These benefits include opportunities to earn additional rewards on the partner site and/or to eliminate MySurvey.com advertising to those who are already MySurvey.com members. The information exchanged will be the member ID and/or email address (the minimum information needed to provide the benefit). We ensure your privacy by having our partner sites sign a written, legally binding agreement stipulating they will not share your individual identifying information and that it is to be used solely for the purpose of providing you with additional rewards and to eliminate redundant advertising.<br><br>
@@ -244,7 +293,7 @@ return obj;};var parseActiveXVersion=function(str){var versionArray=str.split(",
                 <strong>Use of Cookies:</strong><br>
                 <i>How We Use Cookies &amp; Other Technologies on Our Website</i><br><br>
                 MySurvey.com uses cookies on our registration and survey forms during the time you are actively completing the forms. These cookies (which may be flash-based cookies or local shared objects) are used solely for technical purposes to allow for accurate transmission of survey information to the MySurvey.com database and to ensure that a member does not take the same survey more than once. For longer surveys, we use cookies to make form completion more convenient for the panelist. They allow for completion of the form in more than one sitting; you take up where you left off rather than starting from the beginning again.<br><br>
-                MySurvey.com also uses cookies on the member area of the site to store user name automatically and password (optionally) so that the user does not have to repeatedly retype the information. For users' convenience, this cookie is stored for subsequent sessions. Member area cookies are also used to identify valid members in order to protect access to their specific member information (such as rewards account information) and to personalize their experience on the site. The web server also creates cookies to uniquely identify each user session when a member visits the site. This latter cookie is automatically deleted at the end of a session.<br><br>
+                MySurvey.com also uses cookies on the member area of the site to store email address automatically and password (optionally) so that the user does not have to repeatedly retype the information. For users' convenience, this cookie is stored for subsequent sessions. Member area cookies are also used to identify valid members in order to protect access to their specific member information (such as rewards account information) and to personalize their experience on the site. The web server also creates cookies to uniquely identify each user session when a member visits the site. This latter cookie is automatically deleted at the end of a session.<br><br>
                 MySurvey.com also uses cookies, including Flash cookies, for advertising research purposes by keeping track of some of the types of online advertisements that you see on the websites that you visit, as well as the number of times that you see those ads.<br><br>
                 No personal identifying information is stored on any cookie nor do we retain any cookied information on our databases.<br><br>
                 Because cookies are used to identify valid members to protect access to their specific member information and to personalize their member experience, users who choose not to allow cookies cannot register nor can they access the member area of the MySurvey.com website with its associated member benefits (such as taking surveys, earning reward points and redeeming rewards). Members may choose, however, not to receive the cookies that we use for advertising research purposes by contacting MySurvey.com via email, postal mail or by toll-free telephone as described below in the How To Reach Us section of this policy.<br><br>
