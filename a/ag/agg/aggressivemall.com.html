@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the aggressivemall.com privacy policy that was archived on 2013-01-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130118120705id_/http%3A//www.aggressivemall.com/terms_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aggressivemall.com privacy policy that was archived on 2013-08-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130820040303id_/http%3A//www.aggressivemall.com/terms_privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <script type="text/javascript" async="" src="https://web.archive.org/web/20130608054542/https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/a/j/milonic/milonic_src.js"></script>
@@ -24,6 +24,7 @@ var Config_CDN_URL = '/'
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js"></script>
 <link type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/themes/base/jquery-ui.css" rel="stylesheet">
+<link type="text/css" href="/a/c/default.css" rel="stylesheet">
 
 
 <script type="text/javascript">
@@ -39,8 +40,31 @@ var Config_CDN_URL = '/'
     var PageText_843 = "Subtotal";
     var PageText_844 = "items in cart";
 </script>
+<script type="text/javascript" src="/a/j/volusion.js?6.41.0.221"></script>
+<script type="text/javascript">
+    (function ($) {
+        volusion.ready(function () {
+            if (volusion.cart.isObservingCount()) {
+                var ts = new Date().getTime();
 
-<script type="text/javascript" src="/a/j/javascripts.js?6_5_196"></script>
+                $.getJSON('/ajaxcart.asp?cachebust=' + ts, function (data) {
+                    var quantityTotal = 0;
+                    $.each(data.Products, function (key, val) {
+                        if (val.IsProduct === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        } else if (val.IsAccessory === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        }
+                    });
+                    quantityTotal = quantityTotal || '0';
+                    volusion.cart.itemCount(quantityTotal);
+                });
+
+            }
+        });
+    } (jQuery));
+</script>
+<script type="text/javascript" src="/a/j/javascripts.js?6_5_6.41.0.221"></script>
 
 <script type="text/javascript">
 	var Config_Search_Auto_Complete = false;
@@ -65,7 +89,7 @@ var Config_CDN_URL = '/'
 		<link href="/v/vspfiles/templates/AggressiMal2/css/Not_Home_Page.css" rel="stylesheet" type="text/css">
 	
    <script type="text/javascript" src="/v/unified.js.asp"></script>
-</head>
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 <body onload="updateHeaderCartSummary();">
 	<div id="header">
 		<div id="page_wrap">
@@ -78,7 +102,7 @@ var Config_CDN_URL = '/'
 						<a href="/Aggressive-Skate-Sizing-Charts-s/13.htm" title="Sizing info">Sizing info </a>
 						<img class="divide" title="" alt="*" src="/v/vspfiles/assets/head/AMall_headdiv.gif">					
 					</div>
-					<div id="phone">Orders <font>&amp;</font> Questions Call Us M-F / 9am-5pm<span>1-866-449-0100</span></div>
+					<div id="phone">Orders <font>&amp;</font> Questions Call Us M-F / 9-5<span>1-866-449-0100</span></div>
 					<!-- search -->
 						<div id="search_wrapper">
 							<div id="display_search_box1">
@@ -187,7 +211,7 @@ function mClk2(src, popup)
 				</div>
 				<div id="display_menu_1">
 <script type="text/javascript">var breadCrumb="||";</script>
-<script type="text/javascript">display_menu_1();</script><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(0)" onselectstart="return 0" id="menu0" style="padding: 0px; z-index: 999; visibility: visible; position: relative; width: 957px;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" id="tbl0"><tbody><tr><td id="el0" onmouseover="h$(0)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl0"><tbody><tr id="td0"><td id="_imgO0"><img onload="_p2(0,this)" border="0" style="display:block;" id="_img0" src="/v/vspfiles/templates/AggressiMal2/images/Template/Menu1_Bullet.gif"></td><td width="100%" nowrap="" style=";"><a onclick="return $K(0)" name="mM1" onfocus="_iF0C(0)" href="http://www.aggressivemall.com/Aggressive-Skates-s/1.htm" class="nav" id="lnk0" style="border:none;background:transparent;display:block;;font-Family:Arial;font-Weight:bold;font-Style:normal;font-Size:11px">Skates</a></td><td width="1" valign="bottom" style="font-size:1px;padding:2px;;"><img id="simg0" onload="_p2(0,this)" src="/v/vspfiles/templates/AggressiMal2/images/Template/Menu1_Bullet_End.gif" style="width:0px;"></td></tr></tbody></table></td><td id="sep0" style="padding:0px;width:1px;;background:#000000;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="1"><tbody><tr><td style="padding:0px;"></td></tr></tbody></table></td><td id="el1" onmouseover="h$(1)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl1"><tbody><tr id="td1"><td id="_imgO1"><img onload="_p2(0,this)" border="0" style="display:block;" id="_img1" src="/v/vspfiles/templates/AggressiMal2/images/Template/Menu1_Bullet.gif"></td><td width="100%" nowrap="" style=";"><a onclick="return $K(1)" name="mM1" onfocus="_iF0C(1)" href="http://www.aggressivemall.com/Custom-Aggressive-Skates-s/2.htm" class="nav" id="lnk1" style="border:none;background:transparent;display:block;;font-Family:Arial;font-Weight:bold;font-Style:normal;font-Size:11px">Custom Skates</a></td><td width="1" valign="bottom" style="font-size:1px;padding:2px;;"><img id="simg1" onload="_p2(0,this)" src="/v/vspfiles/templates/AggressiMal2/images/Template/Menu1_Bullet_End.gif" style="width:0px;"></td></tr></tbody></table></td><td id="sep1" style="padding:0px;width:1px;;background:#000000;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="1"><tbody><tr><td style="padding:0px;"></td></tr></tbody></table></td><td id="el2" onmouseover="h$(2)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl2"><tbody><tr id="td2"><td id="_imgO2"><img onload="_p2(0,this)" border="0" style="display:block;" id="_img2" src="/v/vspfiles/templates/AggressiMal2/images/Template/Menu1_Bullet.gif"></td><td width="100%" nowrap="" style=";"><a onclick="return $K(2)" name="mM1" onfocus="_iF0C(2)" href="http://www.aggressivemall.com/Skate-Frames-s/17710.htm" class="nav" id="lnk2" style="border:none;background:transparent;display:block;;font-Family:Arial;font-Weight:bold;font-Style:normal;font-Size:11px">Frames</a></td><td width="1" valign="bottom" style="font-size:1px;padding:2px;;"><img id="simg2" onload="_p2(0,this)" src="/v/vspfiles/templates/AggressiMal2/images/Template/Menu1_Bullet_End.gif" style="width:0px;"></td></tr></tbody></table></td><td id="sep2" style="padding:0px;width:1px;;background:#000000;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="1"><tbody><tr><td style="padding:0px;"></td></tr></tbody></table></td><td id="el3" onmouseover="h$(3)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl3"><tbody><tr id="td3"><td id="_imgO3"><img onload="_p2(0,this)" border="0" style="display:block;" id="_img3" src="/v/vspfiles/templates/AggressiMal2/images/Template/Menu1_Bullet.gif"></td><td width="100%" nowrap="" style=";"><a onclick="return $K(3)" name="mM1" onfocus="_iF0C(3)" href="http://www.aggressivemall.com/Aggressive-Skate-Parts-and-Liners-s/9.htm" class="nav" id="lnk3" style="border:none;background:transparent;display:block;;font-Family:Arial;font-Weight:bold;font-Style:normal;font-Size:11px">Parts &amp; Liners</a></td><td width="1" valign="bottom" style="font-size:1px;padding:2px;;"><img id="simg3" onload="_p2(0,this)" src="/v/vspfiles/templates/AggressiMal2/images/Template/Menu1_Bullet_End.gif" style="width:0px;"></td></tr></tbody></table></td><td id="sep3" style="padding:0px;width:1px;;background:#000000;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="1"><tbody><tr><td style="padding:0px;"></td></tr></tbody></table></td><td id="el4" onmouseover="h$(4)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl4"><tbody><tr id="td4"><td id="_imgO4"><img onload="_p2(0,this)" border="0" style="display:block;" id="_img4" src="/v/vspfiles/templates/AggressiMal2/images/Template/Menu1_Bullet.gif"></td><td width="100%" nowrap="" style=";"><a onclick="return $K(4)" name="mM1" onfocus="_iF0C(4)" href="http://www.aggressivemall.com/Aggressive-Skate-Wheels-and-Bearings-s/12.htm" class="nav" id="lnk4" style="border:none;background:transparent;display:block;;font-Family:Arial;font-Weight:bold;font-Style:normal;font-Size:11px">Wheels &amp; Bearings</a></td><td width="1" valign="bottom" style="font-size:1px;padding:2px;;"><img id="simg4" onload="_p2(0,this)" src="/v/vspfiles/templates/AggressiMal2/images/Template/Menu1_Bullet_End.gif" style="width:0px;"></td></tr></tbody></table></td><td id="sep4" style="padding:0px;width:1px;;background:#000000;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="1"><tbody><tr><td style="padding:0px;"></td></tr></tbody></table></td><td id="el5" onmouseover="h$(5)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl5"><tbody><tr id="td5"><td id="_imgO5"><img onload="_p2(0,this)" border="0" style="display:block;" id="_img5" src="/v/vspfiles/templates/AggressiMal2/images/Template/Menu1_Bullet.gif"></td><td width="100%" nowrap="" style=";"><a onclick="return $K(5)" name="mM1" onfocus="_iF0C(5)" href="http://www.aggressivemall.com/Clothing-s/3.htm" class="nav" id="lnk5" style="border:none;background:transparent;display:block;;font-Family:Arial;font-Weight:bold;font-Style:normal;font-Size:11px">Clothing</a></td><td width="1" valign="bottom" style="font-size:1px;padding:2px;;"><img id="simg5" onload="_p2(0,this)" src="/v/vspfiles/templates/AggressiMal2/images/Template/Menu1_Bullet_End.gif" style="width:0px;"></td></tr></tbody></table></td><td id="sep5" style="padding:0px;width:1px;;background:#000000;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="1"><tbody><tr><td style="padding:0px;"></td></tr></tbody></table></td><td id="el6" onmouseover="h$(6)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl6"><tbody><tr id="td6"><td id="_imgO6"><img onload="_p2(0,this)" border="0" style="display:block;" id="_img6" src="/v/vspfiles/templates/AggressiMal2/images/Template/Menu1_Bullet.gif"></td><td width="100%" nowrap="" style=";"><a onclick="return $K(6)" name="mM1" onfocus="_iF0C(6)" href="http://www.aggressivemall.com/category-s/17711.htm" class="nav" id="lnk6" style="border:none;background:transparent;display:block;;font-Family:Arial;font-Weight:bold;font-Style:normal;font-Size:11px">Media</a></td><td width="1" valign="bottom" style="font-size:1px;padding:2px;;"><img id="simg6" onload="_p2(0,this)" src="/v/vspfiles/templates/AggressiMal2/images/Template/Menu1_Bullet_End.gif" style="width:0px;"></td></tr></tbody></table></td><td id="sep6" style="padding:0px;width:1px;;background:#000000;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="1"><tbody><tr><td style="padding:0px;"></td></tr></tbody></table></td><td id="el7" onmouseover="h$(7)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl7"><tbody><tr id="td7"><td id="_imgO7"><img onload="_p2(0,this)" border="0" style="display:block;" id="_img7" src="/v/vspfiles/templates/AggressiMal2/images/Template/Menu1_Bullet.gif"></td><td width="100%" nowrap="" style=";"><a onclick="return $K(7)" name="mM1" onfocus="_iF0C(7)" href="http://www.aggressivemall.com/Aggressive-Skate-Accessories-s/5.htm" class="nav" id="lnk7" style="border:none;background:transparent;display:block;;font-Family:Arial;font-Weight:bold;font-Style:normal;font-Size:11px">Accessories</a></td><td width="1" valign="bottom" style="font-size:1px;padding:2px;;"><img id="simg7" onload="_p2(0,this)" src="/v/vspfiles/templates/AggressiMal2/images/Template/Menu1_Bullet_End.gif" style="width:0px;"></td></tr></tbody></table></td><td id="sep7" style="padding:0px;width:1px;;background:#000000;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="1"><tbody><tr><td style="padding:0px;"></td></tr></tbody></table></td><td id="el8" onmouseover="h$(8)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl8"><tbody><tr id="td8"><td id="_imgO8"><img onload="_p2(0,this)" border="0" style="display:block;" id="_img8" src="/v/vspfiles/templates/AggressiMal2/images/Template/Menu1_Bullet.gif"></td><td width="100%" nowrap="" style=";"><a onclick="return $K(8)" name="mM1" onfocus="_iF0C(8)" href="http://www.aggressivemall.com/Clearance-s/3078.htm" class="nav" id="lnk8" style="border:none;background:transparent;display:block;;font-Family:Arial;font-Weight:bold;font-Style:normal;font-Size:11px">Sale</a></td></tr></tbody></table></td></tr></tbody></table> <a name="mM1" id="mmlink0" href="#" onclick="return $K(this._itemRef)" onmouseover="_p1(this);_mot=$P(_mot)" style="outline:none;line-height:normal;background:transparent;text-decoration:none;height:1px;width:1px;overflow:hidden;position:absolute;"></a></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(1)" onselectstart="return 0" id="menu1" style="padding:0px;;border:1px solid #000000;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(2)" onselectstart="return 0" id="menu2" style="padding:0px;;border:1px solid #000000;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(3)" onselectstart="return 0" id="menu3" style="padding:0px;;border:1px solid #000000;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(4)" onselectstart="return 0" id="menu4" style="padding:0px;;border:1px solid #000000;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(5)" onselectstart="return 0" id="menu5" style="padding:0px;;border:1px solid #000000;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(6)" onselectstart="return 0" id="menu6" style="padding:0px;;border:1px solid #000000;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(7)" onselectstart="return 0" id="menu7" style="padding:0px;;border:1px solid #000000;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div>
+<script type="text/javascript">display_menu_1();</script>
 </div>
 			</div><!-- header_wrap -->
 			
@@ -219,9 +243,29 @@ function mClk2(src, popup)
 			<div id="footer_nav">
 				<!-- Newletter -->
 					
-				<div id="logos">
+<div id="logos">
 					<a href="/" title=""><img title="Aggressive Mall" alt="Aggressive Mall" src="/v/vspfiles/assets/foot/AMall_amlogo.jpg"></a>
 					<div id="amlogotext">AGRESSIVEMALL.COM</div>
+
+<script type="text/javascript">
+adroll_adv_id = "73JB37CJFRG2FG674TI37A";
+adroll_pix_id = "JTIAOLXYN5CYZJGYTOOE4R";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script>
+
+
 					<div id="social">
 						<a href="http://www.facebook.com/pages/Aggressivemallcom/127468340622814" title="Facebook" target="_blank"><img title="Facebook" alt="Facebook" src="/v/vspfiles/assets/foot/AMall_facebook.jpg"></a>
 						<a href="http://twitter.com/Aggressivemall" title="Twitter" target="_blank"><img title="Twitter" alt="Twitter" src="/v/vspfiles/assets/foot/AMall_twitter.jpg"></a>
@@ -435,7 +479,9 @@ function mClk7(src, popup)
 				</div>
 				<div id="copyright">
 					<div id="copytext">Copyright (c) 2011 Agressive Mall. All Rights Reserved</div>
-					<div id="powered">Powered by <a target="_blank" title="Shopping Cart Software" href="http://www.volusion.com">Volusion</a>. Designed by <a target="_blank" title="BrandLabs.us" href="http://www.brandlabs.us">Brand Labs</a>						
+					<div id="powered">Powered by <a target="_blank" title="Shopping Cart Software" href="http://www.volusion.com">Volusion</a>. Designed by <a target="_blank" title="BrandLabs.us" href="http://www.brandlabs.us">Brand Labs</a>
+
+						
 					</div>
 				</div>
 			</div>
@@ -446,7 +492,8 @@ function mClk7(src, popup)
 
 
 
-<script type="text/javascript">function store_init(event){} AttachEvent(window, 'load', store_init);</script>
 
+
+<script type="text/javascript">function store_init(event){} AttachEvent(window, 'load', store_init);</script>
 
 </body></html>
