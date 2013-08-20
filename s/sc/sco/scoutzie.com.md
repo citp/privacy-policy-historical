@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scoutzie.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516151202id_/http%3A//www.scoutzie.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scoutzie.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820070022id_/https%3A//www.scoutzie.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Scoutzie
+# Privacy - Scoutzie.com
 
 Your privacy is important to us. At Scoutzie we have a few fundamental principles:
 
