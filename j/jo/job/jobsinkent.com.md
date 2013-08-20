@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the jobsinkent.com privacy policy that was archived on 2013-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130130103616id_/http%3A//www.jobsinkent.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsinkent.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820074607id_/http%3A//www.jobsinkent.com/about/privacy.html) for the most accurate reproduction.*
 
 # JobsInKent.com - Privacy Policy
+
+Hide and don't show again **Cookie Policy:** By using this website you agree to our cookie policy. Find out more about [how we use cookies](https://web.archive.org/about/cookies.html).
 
 JIK Software Limited make every effort to comply with our obligations under the 1998 Data Protection Act.
 
