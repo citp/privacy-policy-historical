@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reportlinker.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423201421id_/http%3A//privacy-policy.truste.com/verified-policy/reportlinker.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reportlinker.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820135555id_/http%3A//privacy-policy.truste.com/verified-policy/reportlinker.com) for the most accurate reproduction.*
 
 # Privacy Policy for reportlinker.com
 
@@ -16,7 +16,6 @@ If you have questions or concerns regarding this policy, you should first contac
 
 We collect the following personal information from you
 
-  * Contact Information such as name, email address, mailing address, phone number
   * Billing Information such as credit card number, and billing address
   * Unique Identifiers such as user name, account number, password
   * Preferences Information such as product wish lists, order history, marketing preferences
@@ -97,8 +96,8 @@ You can contact us about this privacy statement by writing or email us at the ad
 
 UBIQUICK 
 
-16, rue Grenette 
+4, rue Paul Montrochet 
 
 Lyon, , France 69002
 
-Phone: 1-339-368-6001
+Phone: +1 339 368 6001 
