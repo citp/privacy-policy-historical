@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meritnation.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621023444id_/http%3A//www.meritnation.com/htmls/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meritnation.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820102711id_/http%3A//www.meritnation.com/htmls/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy of Meritnation - Confidentiality and Security - Information Sharing and Disclosure
 
