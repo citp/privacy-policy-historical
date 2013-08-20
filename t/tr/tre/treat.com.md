@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the treat.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510002432id_/http%3A//www.treat.com/privacyandsecurity.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the treat.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820234313id_/http%3A//www.treat.com/privacyandsecurity.htm) for the most accurate reproduction.*
 
 # Treat Privacy and Security
 
@@ -78,6 +78,10 @@ We do not target our websites to children, and we will not knowingly collect per
 You have the right and ability to edit your member account information on any of your websites, including your marketing preferences, at any time. You can opt in or out of receiving future communications of special offers and new product information, or you can unsubscribe by following instructions contained in the messages you receive. We do reserve the right to send you certain communications relating to the services Shutterfly, Tiny Prints, Wedding Paper Divas and Treat provide, such as service announcements and administrative messages, that are considered part of your account membership. We do not offer you the opportunity to opt-out of receiving those messages.
 
 We use a secure server (SSL) to encrypt all of your personal information. We also have other physical, electronic and procedural safeguards that comply with federal regulations to protect the security and confidentiality of the personal information we have collected, and to prevent unauthorized access to or disclosure of any of your personal information.
+
+## Confidentiality and Security
+
+We use a secure server (SSL) to encrypt your personal financial information. We use other physical, electronic and procedural safeguards to protect the security and confidentiality of the personal information we have collected, and to prevent unauthorized access to or disclosure of your personal information.
 
 ## Third Party Sites
 
