@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pixelpeeper.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508110842id_/http%3A//www.pixelpeeper.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixelpeeper.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820023553id_/http%3A//www.pixelpeeper.com/privacy-policy) for the most accurate reproduction.*
 
-# camera-bv-1323-com-v4-publish
+# Digital Cameras - Privacy Policy
 
 Privacy Policy
 
-We in Online Camera Resource know that you care how information about you is used and shared, and your privacy is important to us. We thank you for visiting camera-bv-1323-com-v4-publish.vort1.net (the "Web Site") and reviewing our Privacy Policy. This notice describes our privacy policy. **By visiting our website, you are accepting the practices described in this Privacy Notice.** Please note that this Privacy Policy does not describe information collection practices on other sites, including those linked to or from the Web Site.
+We in Generic-1 know that you care how information about you is used and shared, and your privacy is important to us. We thank you for visiting generic-1.mydomainvortal.com (the "Web Site") and reviewing our Privacy Policy. This notice describes our privacy policy. **By visiting our website, you are accepting the practices described in this Privacy Notice.** Please note that this Privacy Policy does not describe information collection practices on other sites, including those linked to or from the Web Site.
 
 Collection of Information **Information You Give Us:** We receive and store any information you voluntarily provided us with on our website. We use the information that you provide for such purposes as responding to your requests, providing our services and communicating with you, unless you give us permission to use it in another manner, for example to add you to one of our mailing lists.   
 **Automatic Information:**  
@@ -36,6 +36,6 @@ You agree to indemnify, defend and hold harmless the Web Site and its members, m
 
 Conditions of Use, Notices, and Revisions
 
-If you choose to visit our web site, your visit and any dispute over privacy is subject to this Notice and our Terms and Conditions, including limitations on damages, arbitration of disputes, and application of the law of United States . If you have any concern about privacy at our web site, please send us a thorough description to camera-bv-1323-com-v4-publish@vort1.net, and we will try to resolve it. Our business changes constantly. This Notice and the Terms and Conditions of use will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use, but you should check our website frequently to see recent changes.
+If you choose to visit our web site, your visit and any dispute over privacy is subject to this Notice and our Terms and Conditions, including limitations on damages, arbitration of disputes, and application of the law of United States . If you have any concern about privacy at our web site, please send us a thorough description to , and we will try to resolve it. Our business changes constantly. This Notice and the Terms and Conditions of use will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use, but you should check our website frequently to see recent changes.
 
-This Privacy Policy was last updated on _   2011/11/13  _.
+This Privacy Policy was last updated on _   2013/05/24  _.
