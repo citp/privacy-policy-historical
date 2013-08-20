@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appsbar.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616112826id_/http%3A//www.appsbar.com/Privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appsbar.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820101447id_/http%3A//www.appsbar.com/Privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - appsbar
 
