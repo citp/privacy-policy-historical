@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adsoftinc.biz privacy policy that was archived on 2012-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120320132243id_/http%3A//www.adsoftinc.biz/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsoftinc.biz privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820081851id_/http%3A//adsoftinc.biz/privacy.html) for the most accurate reproduction.*
 
 # Adsoft
 
