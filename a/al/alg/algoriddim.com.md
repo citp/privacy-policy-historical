@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the algoriddim.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512145948id_/http%3A//www.algoriddim.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the algoriddim.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820214829id_/http%3A//www.algoriddim.com/privacy) for the most accurate reproduction.*
 
 # Algoriddim » Privacy Policy
 
@@ -34,7 +34,7 @@ We do not allow advertising companies to collect data through our service for ad
 
 If you have any questions or concerns about our privacy policies, please contact us:
 
-[info@algoriddim.com](mailto:%69%6e%66%6f@%61%6c%67%6f%72%69%64%64%69%6d.%63%6f%6d)   
+[info@algoriddim.com](mailto:info@algoriddim.com)   
 algoriddim GmbH, Verterinärstr. 2, 80539 Munich, Germany 
 
 If you have given us contact information but do not want us to contact you with promotional or marketing information, you can opt-out here:   
