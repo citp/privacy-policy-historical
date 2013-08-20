@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realclearmarkets.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620101556id_/http%3A//www1.realclearmarkets.com/static/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realclearmarkets.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820064618id_/http%3A//www.realclearmarkets.com/static/privacy_policy.html) for the most accurate reproduction.*
 
 # RealClearMarkets - Static Pages: Privacy Policy
 
