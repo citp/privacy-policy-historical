@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frankie.com.au privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625225853id_/http%3A//frankie.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frankie.com.au privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820062954id_/http%3A//frankie.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy
 
