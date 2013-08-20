@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the testflightapp.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426043233id_/https%3A//testflightapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the testflightapp.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820053756id_/https%3A//www.testflightapp.com/privacy) for the most accurate reproduction.*
 
 # TestFlight » Beta Testing On The Fly
 
@@ -87,7 +87,7 @@ This Website is not directed to children under 18 years of age. We do not knowin
 
 * * *
 
-This User Privacy Policy describes how TestFlight App, Inc. (“FlightPath”) collects, users and discloses information we receive from end users (“users”) of mobile applications (“applications” or “apps”) that incorporate the FlightPath service. We may update this Privacy Policy from time to time, and we will post the new Privacy Policy at www.flightpathapp.com/privacy. 
+This User Privacy Policy describes how TestFlight App, Inc. (“FlightPath”) collects, users and discloses information we receive from end users (“users”) of mobile applications (“applications” or “apps”) that incorporate the FlightPath service. We may update this Privacy Policy from time to time, and we will post the new Privacy Policy at www.testflightapp.com/privacy. 
 
 When we say “you” (or similar pronouns) below, we are referring to users. If you want information about how FlightPath collects, uses and discloses information about developers who use FlightPath, please click here.
 
@@ -130,7 +130,7 @@ Under California Civil Code sections 1798.83-1798.84, also known as the “Shine
 
 * * *
 
-This Privacy Policy describes how TestFlight App Inc. (“FlightPath”) collects, users and discloses information we receive from developers through use of www.flightpathapp.com (the “Website”) and the FlightPath services. We will refer to the Website and the FlightPath services collectively as the “Services”. We may update this Privacy Policy from time to time, and we will notify you of updates by posting the new Privacy Policy at www.flightpathapp.com/privacy. 
+This Privacy Policy describes how TestFlight App Inc. (“FlightPath”) collects, users and discloses information we receive from developers through use of www.flightpathapp.com (the “Website”) and the FlightPath services. We will refer to the Website and the FlightPath services collectively as the “Services”. We may update this Privacy Policy from time to time, and we will notify you of updates by posting the new Privacy Policy at www.testflightapp.com/privacy. 
 
 This Developer Privacy Policy covers “developers”, meaning the application developers who use FlightPath to understand how users interact with their mobile applications (“applications” or “apps”). If you want information about how FlightPath collects, uses and discloses information about end users and their interaction with the mobile apps using FlightPath, please click here. When we say “you” (or similar pronouns) below, we are referring to developers. 
 
