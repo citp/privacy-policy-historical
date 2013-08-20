@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolbuddy.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629050256id_/http%3A//www.coolbuddy.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolbuddy.com privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821005920id_/http%3A//www.coolbuddy.com/privacy.htm) for the most accurate reproduction.*
 
 # CoolBuddy's Website Privacy Policy
 
