@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myincentivetravel.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514073436id_/http%3A//www.myincentivetravel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myincentivetravel.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820090643id_/http%3A//www.myincentivetravel.com/privacy) for the most accurate reproduction.*
 
 # MyIncentiveTravel - Privacy Policy
 
