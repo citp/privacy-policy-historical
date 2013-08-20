@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clips4sale.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222171553id_/http%3A//clips4sale.com/do/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clips4sale.com privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821011922id_/http%3A//www.clips4sale.com/do/PrivacyPolicy) for the most accurate reproduction.*
 
 # Clips4Sale.com
 
@@ -32,8 +32,8 @@ FURTHER QUESTIONS.Further Customer Service questions? Contact us at our email ad
 |  |   
 ---  
    
-[About Us](https://web.archive.org/do/about) | [Title 2257](https://web.archive.org/do/2257) | [Contact Us](http://support.clips4sale.com/) | [Privacy Policy](https://web.archive.org/do/PrivacyPolicy) | [Terms of Service](http://clips4sale.com/do/agree) | [DMCA](https://web.archive.org/do/DMCA)   
+[About Us](https://web.archive.org/do/about) | [Title 2257](https://web.archive.org/do/2257) | [Contact Us](http://support.clips4sale.com/) | [Privacy Policy](https://web.archive.org/do/PrivacyPolicy) | [Terms of Service](http://clips4sale.com/do/agree) | [DMCA](https://web.archive.org/do/DMCA) |[Google+](https://plus.google.com/110590196572337005165)   
 ** PARENTS! USE THESE SITES TO FILTER ADULT CONTENT!**  
-[RSAC](http://www.rsac.org/) | [Cyber Patrol](http://www.cyberpatrol.com/) | [Safesurf](http://www.safesurf.com/) | [NetNanny](http://www.netnanny.com/) | [CyberSitter](http://www.cybersitter.com/) |   
+[RSAC](http://www.rsac.org/) | [Cyber Patrol](http://www.cyberpatrol.com/) | [Safesurf](http://www.safesurf.com/) | [NetNanny](http://www.netnanny.com/) | [CyberSitter](http://www.cybersitter.com/)  
   
-The contents of the site service (Clips4Sale, Videos4Sale, Images4Sale) are intent for the personal non commercial use of its users. All materials published on the site (including, but not limited to news articles, photographs images, illustrations, audio clips ad video clips collectively, 'content') are protected by Copyright (C), Trademark and all other applicable intelligential property laws, and are owned and controlled by Clips4Sale, Videos4Sale, Images4Sale or the party credited as the provider of such content, software or other materials. You shall abide by Copyright (C) or other notices, information and restrictions appearing in conjunction with any content accessed through the service. All models on this site are 18 or older. [Title 2257](https://web.archive.org/do/2257)
+The contents of the site service (Clips4Sale, Videos4Sale, Images4Sale) are intent for the personal non commercial use of its users. All materials published on the site (including, but not limited to news articles, photographs images, illustrations, audio clips and video clips collectively, 'content') are protected by Copyright (C), Trademark and all other applicable intellectual property laws, and are owned and controlled by Clips4Sale, Videos4Sale, Images4Sale or the party credited as the provider of such content, software or other materials. You shall abide by Copyright (C) or other notices, information and restrictions appearing in conjunction with any content accessed through the service. All models on this site are 18 or older. [Title 2257](https://web.archive.org/do/2257)
