@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adultdvdempire.com privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206103330id_/http%3A//www.adultdvdempire.com/help/cs_privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultdvdempire.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820175219id_/http%3A//www.adultdvdempire.com/help/cs_privacypolicy.html) for the most accurate reproduction.*
 
 # Help Pages & Customer Service Info | Adult DVD Empire
 
@@ -14,7 +14,7 @@ Read More About:
 5\. How you can decide what marketing communication you receive from us  
 6\. How we protect the security of your personal information  
 7\. Changes to the Privacy Policy  
-8\. How to contact DVD Empire
+8\. How to contact AdultDVDEmpire
 
  **1\. Personal information collected**
 
@@ -38,7 +38,7 @@ We also collect certain technical information from your computer each time you v
 
 _Other times we may collect personal information_
 
-If you ask for an Adult DVD Empire catalog, DVD Empire collects your name, mailing address, and date of birth when you complete the catalog [Request](https://web.archive.org/catalog/signup#catalogRequest). At the time you request a catalog, you may also choose to receive occasional offers from other quality companies that complement the Adult DVD Empire lifestyle, in which case your name, mailing address and date of birth will be shared with other quality companies who will provide you with the offers you requested. When you make a purchase from an Adult DVD Empire catalog you are automatically opted-in to receive offers from other companies that complement the Adult DVD Empire lifestyle. You may stop receiving the Adult DVD Empire catalog and from receiving offers from other companies, at any time, by requesting removal from the mailing lists [here](https://web.archive.org/catalog/remove). 
+If you ask for an Adult DVD Empire catalog, DVD Empire collects your name, mailing address, and date of birth when you complete the catalog [Request](https://web.archive.org/catalog/signup#catalogRequest). At the time you request a catalog or make a purchase from an AdultDVDEmpire catalog (including mail, fax and phone orders, the online catalog quick order form, and the online interactive version of the catalog), you are automatically opted-in to receive offers from other companies that complement the AdultDVDEmpire lifestyle. You may, however, choose to opt-out of receiving such offers. If you choose to opt-out, your name, mailing address and date of birth will not be shared with those other companies. You may opt-out of receiving the AdultDVDEmpire catalog and from receiving offers from other companies, at any time, by requesting removal from the mailing lists [here](https://web.archive.org/catalog/remove). 
 
 From time to time, DVD Empire may conduct surveys and contests via our Website, email, or other forms of media. If you choose to participate, we may request your name, email address, mailing address and other personal information. We will use your email address to respond to your questions, suggestions, and/or requests for assistance in using our site. 
 
@@ -55,14 +55,17 @@ Information we collect on the Website may be used to enhance your shopping exper
 •   |  Confirm your shopping orders   
 •   |  Respond to your customer service inquiries or requests   
 •   |  Notify you about sales and specials, as well as offers that compliment your shopping experience, unless you choose to opt-out of such communications   
+•   |  Mail you a AdultDVDEmpire catalog and other promotional materials   
 •   |  Find and stock the products you want   
 •   |  Customize your shopping experience   
   
+When you Create an Account, you are automatically opted-in to receive, in the mail and via email, from AdultDVDEmpire, information regarding the various aspects of Your Account, promotional materials and a AdultDVDEmpire catalog. You may opt-out of receiving the emails and promotional materials at any time, by requesting removal from the mailing lists as described in this Privacy Policy. 
+
 [Back to Top]
 
  **3\. With whom we share your personal information**
 
-We never sell or rent your email address to unaffiliated companies. We may use your email address to send you messages that describe new items, sales, specials and other offers that we think will be of interest to you. If you would like to opt-out of receiving these emails from DVD Empire or its affiliates, please click on [Your Account](https://web.archive.org/Account/AccountHomePage) and follow the instructions outlined in the Notification Options section. 
+We never sell or rent your email address to unaffiliated companies. We may use your email address and mailing address to send you messages about Your Account and to send you promotional materials that describe new items, sales, specials and other offers that we think will be of interest to you. If you would like to opt-out of receiving these emails and promotional materials from AdultDVDEmpire or its affiliates, please click on [Your Account](https://web.archive.org/Account/AccountHomePage), log-in, and follow the instructions outlined in the Notification Options section. 
 
 We also do not sell other personal customer information to unaffiliated third-parties. We will share personal customer information that we collect only with DVD Empire affiliates, agents, representatives and trusted service providers for the limited purposes of fulfilling customer orders; offering certain products and services in connection with the Website; offering products or services which we believe you may be interested; communicating to customers; providing customer service; enhancing and improving the customer shopping experience; and providing a personalized shopping experience and completing credit card transactions. We may use or share with our strategic partners and affiliates, aggregated demographic and statistical information. This information is not linked to any personal information that can identify any individual person. DVD Empire may assign or transfer any or all of your personal information to the relevant third-party in the event of a reorganization, merger, or sale of the assets of DVD Empire. 
 
@@ -104,8 +107,8 @@ We reserve the right to change, modify or amend this Privacy Policy at any time,
 
  **8\. How to contact ADE**
 
-If you have comments or questions regarding our privacy policy, please contact [Customer Service](https://web.archive.org/Account/Inquiry). We will address any issue to the best of our abilities. 
+If you have comments or questions regarding our privacy policy, please contact [Customer Service](https://web.archive.org/help/home.html). We will address any issue to the best of our abilities. 
 
 Thank you for your support of our policies. [Back to Top]
 
-Last updated: November 16, 2011 
+Last updated: April 10, 2013 
