@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the verisk.com privacy policy that was archived on 2013-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130125010124id_/http%3A//www.verisk.com/Privacy-Trademarks-Use/Privacy-Trademarks-Use/Verisk-Analytics-Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verisk.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820114440id_/http%3A//www.verisk.com/Privacy-Trademarks-Use/Privacy-Trademarks-Use/Verisk-Analytics-Privacy-Policy.html) for the most accurate reproduction.*
 
 # Verisk Analytics Privacy Policy
 
@@ -6,7 +6,7 @@ The following statement will help you understand how Verisk Analytics collects, 
 
 We define "personally identifying information" as information — such as name, address, telephone number, and e-mail address — that can help to locate or identify individuals. "Personally identifying information" also includes credit card information. Protecting the privacy of personally identifying information is important to us.
 
-Visitors to verisk.com are subject to important limitations. Please review our [Conditions of Use](http://www.verisk.com/Privacy-Trademarks-Use/Privacy-Trademarks-Use/Verisk-Analytics-Conditions-of-Use.html), which govern your visit to this site.
+Visitors to verisk.com are subject to important limitations. Please review our [Conditions of Use](https://web.archive.org/Privacy-Trademarks-Use/Privacy-Trademarks-Use/Verisk-Analytics-Conditions-of-Use.html), which govern your visit to this site.
 
 **Information We Collect**  
 When you browse this website, you browse anonymously, unless you submit a form, respond to an e-mail solicitation from Verisk, submit a question or comment through "Contact Verisk," or send us employment information or e-mail. We do not collect or store any personal information — such as your name, address, phone number, or e-mail address — unless you knowingly and willingly provide it.
