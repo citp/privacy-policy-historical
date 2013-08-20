@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the clips4sale.com privacy policy that was archived on 2012-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121222171553id_/http%3A//clips4sale.com/do/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the clips4sale.com privacy policy that was archived on 2013-08-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130821011922id_/http%3A//www.clips4sale.com/do/PrivacyPolicy) for the most accurate reproduction.-->
 
 <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" lang="en"><head></head><body><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" id="subContent">
   <tbody><tr>
@@ -25,11 +25,36 @@
 		<link href="/new1/css/en/menu.css" rel="stylesheet" type="text/css">
 	<link href="http://imagecdn.clips4sale.com/StaticWebResources/css/c4s/c4s.5.22.12.125.css" rel="stylesheet" type="text/css">
         <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var cat = '';</script>	<script type="text/javascript" src="http://imagecdn.clips4sale.com/StaticWebResources/js/jquery/1.7.1/jquery.min.js"></script>
-	<script type="text/javascript" src="http://imagecdn.clips4sale.com/StaticWebResources/js/c4s/c4s.5.22.12.128.js"></script>
-	
-<script type="text/javascript">
+	<script type="text/javascript" src="http://imagecdn.clips4sale.com/StaticWebResources/js/c4s/c4s.5.21.13.220.js"></script>
+	<script type="text/javascript">
 $(function() {
-first_load("/2010/topstores/_1.html", '#topstores');
+$.when(
+	$.ajax("/2010/topstores/_1.html")
+).then(function(data, textStatus, XHR){
+	var success = false;
+	var errorTimeout = setTimeout(function() {
+	    if (!success){
+        	$('#topstores').html(data);
+	    }
+	}, 5000);
+	
+	$.getJSON('/new1/TopStoresNats.php', function(json){
+		if(json === null){
+			$('#topstores').html(data);
+			return;
+		}
+		clearTimeout(errorTimeout);
+		$.each(json, function(key, val){
+			success = true;
+			var regex = "(/studio/"+val.ProducerID+"/\\S[^#]*)";
+			var pattern = new RegExp(regex);
+						var newLink = "/studio/"+val.ProducerID+"/cid"+val.NatsCode;
+						data = data.replace(pattern, newLink);
+		});
+		$('#topstores').html(data);
+	});
+});
+	
 get_links(".topstoreslink", "#topstores");
 first_load("/2010/topclips/_1.html", '#topclips');
 get_links(".topclipslink", "#topclips");
@@ -39,8 +64,6 @@ get_links(".button_Prev", "#updatedstores");
 get_links(".button_Next", "#updatedstores");get_links(".searchclipslink", "#clip_search_results");
 get_links(".searchstoreslink", "#updatedstores");
 get_links(".newstoreslink", "#newstores");
-first_load("/2010/randomstores/index.html", '#randomstores');
-get_links(".randomstoreslink", "#randomstores");
 });
 </script>
 <script language="JavaScript">
@@ -119,15 +142,16 @@ function resizeFrame(f){
         <span class="mainText">
 		<a href="/do/DMCA">DMCA</a>
 	</span>
+	<span class="BoldText">|</span><a href="https://plus.google.com/110590196572337005165" rel="publisher" target="_blank">Google+</a>
 	<br><strong>
           <span class="BoldText">PARENTS! USE THESE SITES TO FILTER ADULT CONTENT!</span></strong><br>
-          <span class="mainText"><a href="http://www.rsac.org/" target="new" rel="nofollow">RSAC</a></span><span class="BoldText"> | </span><span class="mainText"><a href="http://www.cyberpatrol.com/" target="new" rel="nofollow">Cyber Patrol</a> </span><span class="BoldText">| </span><span class="mainText"><a href="http://www.safesurf.com/" target="new" rel="nofollow">Safesurf</a> </span><span class="BoldText">| </span><span class="mainText"><a href="http://www.netnanny.com/" target="new" rel="nofollow">NetNanny</a> </span><span class="BoldText">|</span><span class="mainText"> <a href="http://www.cybersitter.com/" target="new" rel="nofollow">CyberSitter</a> | </span></td>
+          <span class="mainText"><a href="http://www.rsac.org/" target="new" rel="nofollow">RSAC</a></span><span class="BoldText"> | </span><span class="mainText"><a href="http://www.cyberpatrol.com/" target="new" rel="nofollow">Cyber Patrol</a> </span><span class="BoldText">| </span><span class="mainText"><a href="http://www.safesurf.com/" target="new" rel="nofollow">Safesurf</a> </span><span class="BoldText">| </span><span class="mainText"><a href="http://www.netnanny.com/" target="new" rel="nofollow">NetNanny</a> </span><span class="BoldText">|</span><span class="mainText"> <a href="http://www.cybersitter.com/" target="new" rel="nofollow">CyberSitter</a> </span></td>
       </tr>
       <tr>
         <td colspan="3" valign="top" class="credits"><table width="100%" border="0" cellpadding="5" cellspacing="5">
           <tbody><tr>
             <td class="credits"><span class="credits">
-            The contents of the site service (Clips4Sale, Videos4Sale, Images4Sale) are intent for the personal non commercial use of its users. All materials published on the site (including, but not limited to news articles, photographs images, illustrations, audio clips ad video clips collectively, 'content') are protected by Copyright (C), Trademark and all other applicable intelligential property laws, and are owned and controlled by Clips4Sale, Videos4Sale, Images4Sale or the party credited as the provider of such content, software or other materials. You shall abide by Copyright (C) or other notices, information and restrictions appearing in conjunction with any content accessed through the service. All models on this site are 18 or older.            <a href="/do/2257">Title 2257</a>  </span></td>
+            The contents of the site service (Clips4Sale, Videos4Sale, Images4Sale) are intent for the personal non commercial use of its users. All materials published on the site (including, but not limited to news articles, photographs images, illustrations, audio clips and video clips collectively, 'content') are protected by Copyright (C), Trademark and all other applicable intellectual property laws, and are owned and controlled by Clips4Sale, Videos4Sale, Images4Sale or the party credited as the provider of such content, software or other materials. You shall abide by Copyright (C) or other notices, information and restrictions appearing in conjunction with any content accessed through the service. All models on this site are 18 or older.            <a href="/do/2257">Title 2257</a>  </span></td>
       </tr>
     </tbody></table></td>
   </tr>
