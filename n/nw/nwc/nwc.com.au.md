@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nwc.com.au privacy policy that was archived on 2013-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130409165436id_/http%3A//nwc.com.au/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nwc.com.au privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820094009id_/http%3A//www.nwc.com.au/privacypolicy.html) for the most accurate reproduction.*
 
 # NWC Privacy Policy
 
