@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the trashbilling.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514095841id_/https%3A//www.trashbilling.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trashbilling.com privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821001503id_/https%3A//www.trashbilling.com/privacy.php) for the most accurate reproduction.*
 
 # TrashBilling.com - Privacy Policy
-
-## TRASHBILLING.COM PRIVACY POLICY
 
 This policy describes the ways we collect, store, use and protect your personal information. We may amend this policy at any time by posting a revised version on our website. The revised version will be effective at the time we post it.
 
