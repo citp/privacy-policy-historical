@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tedjob.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528222555id_/http%3A//www.collegegrad.com/privacy/index.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tedjob.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820234731id_/http%3A//www.collegegrad.com/privacy/index.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
