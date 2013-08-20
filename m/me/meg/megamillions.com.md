@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megamillions.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610181657id_/http%3A//www.megamillions.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megamillions.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820113440id_/http%3A//www.megamillions.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Mega Millions Official Home
 
