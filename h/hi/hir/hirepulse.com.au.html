@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hirepulse.com.au privacy policy that was archived on 2013-04-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130410190911id_/http%3A//www.hirepulse.com.au/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hirepulse.com.au privacy policy that was archived on 2013-08-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130820094737id_/http%3A//www.hirepulse.com.au/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" xml:lang="en" lang="en"><head>
     
@@ -21,18 +21,18 @@
 <link href="/Scripts/jquery/themes/base/jquery.ui.all.css" rel="stylesheet" type="text/css">
 
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/Scripts/jquery/jquery-1.7.2.js" type="text/javascript"></script>
-<script src="/Scripts/jquery/ui/jquery-ui.js" type="text/javascript"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/Scripts/jquery/jquery-1.7.2.min.js" type="text/javascript"></script>
+<script src="/Scripts/jquery/ui/minified/jquery-ui.min.js" type="text/javascript"></script>
 <script src="/Scripts/jquery.contractors.js" type="text/javascript"></script>
-<script src="/Scripts/jquery.validate.js" type="text/javascript"></script>
+<script async="" src="/Scripts/jquery.validate.js" type="text/javascript"></script>
 <script src="/Scripts/jquery.cookie.js" type="text/javascript"></script>
 <script src="/Scripts/MicrosoftAjax.js" type="text/javascript"></script>
 <script src="/Scripts/MicrosoftMvcAjax.js" type="text/javascript"></script>
-<script src="/Scripts/MicrosoftMvcValidation.js" type="text/javascript"></script>
-<script src="/Scripts/customvalidation.js" type="text/javascript"></script>
+<script async="" src="/Scripts/MicrosoftMvcValidation.js" type="text/javascript"></script>
+<script async="" src="/Scripts/customvalidation.js" type="text/javascript"></script>
 <script src="/Scripts/Scripts.js" type="text/javascript"></script>
-<script src="/Scripts/messaging.user.js" type="text/javascript"></script>
-<script src="/Scripts/messaging.controlpanel.js" type="text/javascript"></script>
+<script async="" src="/Scripts/messaging.user.js" type="text/javascript"></script>
+<script async="" src="/Scripts/messaging.controlpanel.js" type="text/javascript"></script>
 
 
 <meta http-equiv="content-type" content="text/html;charset=utf-8">
@@ -66,15 +66,10 @@
 	 	$(document).ready(function() {
    			
 
-   			$('.textbox-search').autocomplete({
-                source: '/Tag/FindTags',
-                minLength: 2,
-                delay: 100
-            });
 		});
 	 </script>
 	 
-	 <script type="text/javascript">
+	 <script async="" type="text/javascript">
 
 	     var _gaq = _gaq || [];
 	     _gaq.push(['_setAccount', 'UA-16404069-2']);
@@ -134,7 +129,7 @@
 		</ul>
 		<div class="container-searchbox">
 			<div class="wrapper-search">
-				<form action="/Search/Search" id="form0" method="post"><input class="textbox-search ui-autocomplete-input" id="Keyword" name="Keyword" type="text" value="" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
+				<form action="/Search/Search" id="form0" method="post"><input autocomplete="off" class="textbox-search" id="Keyword" name="Keyword" type="text" value="">
 <input type="submit" class="button-search" value="">
 </form><script type="text/javascript">
 //<![CDATA[
@@ -142,6 +137,51 @@ if (!window.mvcClientValidationMetadata) { window.mvcClientValidationMetadata = 
 window.mvcClientValidationMetadata.push({"Fields":[],"FormId":"form0","ReplaceValidationSummary":false});
 //]]>
 </script>
+<div id="website-search-results" class="search-result-preview" style="display: none;">
+    <div id="individual-search-results" style="clear: both; position: relative; overflow: hidden;">
+        <div style="background-color: #C0C4CB; margin-bottom: 4px; z-index: 995;">
+            <h3 class="website-search-result-subheading">Individuals</h3>
+        </div>
+    </div>
+    <div class="more-results" id="more-individual-results" onclick="MoreIndividualResults();">
+        More individuals...
+    </div>
+    <div id="no-individual-results" class="website-search-no-results">
+        No results.
+    </div>
+    <div id="business-search-results" style="clear: both; position: relative; overflow: hidden;">
+        <div style="background-color: #C0C4CB; margin-bottom: 4px;">
+            <h3 class="website-search-result-subheading">Businesses</h3>
+        </div>
+    </div>
+    <div class="more-results" id="more-business-results" onclick="MoreBusinessResults();">
+        More businesses...
+    </div>
+    <div id="no-business-results" class="website-search-no-results">
+        No results.
+    </div>
+    <div id="individual-search-result-template" style="display: none;">
+        <div class="website-individual-search-result" style="display: none;">
+            <img class="individual-search-image">
+            <h2 class="website-search-name"></h2>
+            <h3 class="website-search-subtext"></h3>
+            <a class="result-url" style="display: none;"></a>
+            <input type="hidden" class="unique-id">
+        </div>
+    </div>
+    <div id="business-search-result-template" style="display: none;">
+        <div class="website-business-search-result" style="display: none;">
+            <img class="business-search-image">
+            <h2 class="website-search-name"></h2>
+            <h3 class="website-search-subtext"></h3>
+            <a class="result-url" style="display: none;"></a>
+            <input type="hidden" class="unique-id">
+        </div>
+    </div>
+</div>
+
+<script src="/Scripts/websitesearch.js" type="text/javascript"></script>
+
 			</div>
 		</div>
 	</div>
@@ -597,4 +637,4 @@ window.mvcClientValidationMetadata.push({"Fields":[],"FormId":"form0","ReplaceVa
 
 
 
-<ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" role="listbox" aria-activedescendant="ui-active-menuitem" style="z-index: 1; top: 0px; left: 0px; display: none;"></ul></body></html>
+</body></html>
