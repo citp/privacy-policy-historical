@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heydemotivate.me privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519084509id_/http%3A//www.heydemotivate.me/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heydemotivate.me privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820224808id_/http%3A//www.heydemotivate.me/privacy.php) for the most accurate reproduction.*
 
 # Hey Demotivate Me - Terms Of Use
 
@@ -75,6 +75,6 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 You can contact us at admin( @ )heydemotivate.me 
 
-Demotivators: 3373 | Popular: 3372 |[Privacy Policy](http://www.heydemotivate.me/privacy.php) | [Terms Of Use](http://www.heydemotivate.me/terms.php)|   
+Demotivators: 3446 | Popular: 3445 |[Privacy Policy](http://www.heydemotivate.me/privacy.php) | [Terms Of Use](http://www.heydemotivate.me/terms.php)|   
 All rights reserved © | [Contact Us](https://web.archive.org/contact-us)| © 2010 - 2011  
 All images are copyrighted by their respective copyright owners. You can contact or send us demotivational images to admin(@)heydemotivate.me 
