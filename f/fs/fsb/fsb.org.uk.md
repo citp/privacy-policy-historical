@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fsb.org.uk privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528084208id_/http%3A//www.fsb.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fsb.org.uk privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820234706id_/http%3A//www.fsb.org.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -19,7 +19,7 @@ Questions about our Privacy Statement can be addressed to the "Data Protection C
 
 #### What we do
 
-The FSB exists to serve the interests of its Members and our core objectives are set out in our Memorandum and Articles of Association. FSB Member Services Ltd is party to a contract with Warren Hill (Insurance Brokers) and NFSE Sales Limited produces the FSB's journal, First Voice. NFSE Sales Limited also acts as a reseller of selected merchandise and products.
+The FSB exists to serve the interests of its Members and our core objectives are set out in our Memorandum and Articles of Association. FSB (Member Services) Ltd contracts with Service Providers, FSB Publications produces the FSB's journal, First Voice, and also acts as reseller or selected merchandise and FSB Recruitment provided Recruitment services. NFSE Sales Limited also acts as a reseller of selected merchandise and products.
 
 #### The Data Protection Act 1998
 
