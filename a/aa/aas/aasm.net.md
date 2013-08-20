@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aasm.net privacy policy that was archived on 2011-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110310072404id_/http%3A//aasm.net/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aasm.net privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820151023id_/http%3A//aasm.net/common/advertise/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
