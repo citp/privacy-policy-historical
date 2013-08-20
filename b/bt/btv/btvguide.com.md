@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the btvguide.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429071901id_/http%3A//www.btvguide.com/staticpage/index/list-type/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the btvguide.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820070509id_/http%3A//www.btvguide.com/staticpage/index/list-type/privacy-policy) for the most accurate reproduction.*
 
 # Watch TV Shows online, Full episodes, Seasons, Series, News - Btvguide
 
