@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geewa.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126134141id_/http%3A//www.geewa.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geewa.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820030247id_/http%3A//www.geewa.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Live Games - Help
 
@@ -12,11 +12,11 @@ Here is our full privacy policy:
 
 ##  Privacy Policy
 
-Geewa s.r.o. (referred to in this Privacy Policy as "Geewa", "we", "us" or "our") is committed to protecting your privacy. This Privacy Policy explains how we use the information we collect about you, how you can instruct us if you prefer to limit the use of that information and procedures that we have in place to safeguard your privacy.
+Geewa a.s.. (referred to in this Privacy Policy as "Geewa", "we", "us" or "our") is committed to protecting your privacy. This Privacy Policy explains how we use the information we collect about you, how you can instruct us if you prefer to limit the use of that information and procedures that we have in place to safeguard your privacy.
 
   1. ####  Contact details
 
-The Geewa website (the "Site") is provided by Geewa s.r.o., a company registered in the Czech Republic with company registration number 256 17 036.
+The Geewa website (the "Site") is provided by Geewa a.s.., a company registered in the Czech Republic with company registration number 256 17 036.
 
 **Registered Office & Contact Address:** Sokolovská 366/84, 186 00, Praha 8, CR   
 **e-mail:** [info@geewa.com](mailto:info@geewa.com)
