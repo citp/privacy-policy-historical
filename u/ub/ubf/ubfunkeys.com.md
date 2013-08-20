@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ubfunkeys.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621193530id_/http%3A//www.ubfunkeys.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubfunkeys.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820074032id_/http%3A//www.ubfunkeys.com/privacy.asp) for the most accurate reproduction.*
 
 # Welcome to www.ubfunkeys.com
 
