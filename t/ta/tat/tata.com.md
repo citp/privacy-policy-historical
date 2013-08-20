@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tata.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529161226id_/http%3A//tata.com/article.aspx%3Fartid%3DJ4Wua3ITkzs%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tata.com privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821010949id_/http%3A//www.tata.com/article.aspx%3Fartid%3DJ4Wua3ITkzs%3D) for the most accurate reproduction.*
 
 # Privacy and cookies policy - Tata group
 
