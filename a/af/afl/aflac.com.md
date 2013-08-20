@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the aflac.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429201833id_/http%3A//www.aflac.com/aboutaflac/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aflac.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820023202id_/http%3A//www.aflac.com/aboutaflac/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Last Updated: 12/28/11 
+Last Updated: 8/16/2013
 
 **Our Commitment to Privacy**
 
@@ -84,7 +84,7 @@ If you are a policyholder of Aflac, Personal Information that you provide at the
 
 If we sell or transfer certain assets or if Aflac or substantially all of its assets are acquired, Personal Information and Nonpersonal Information gathered at these Web Sites may be one of the transferred assets. 
 
-> Please select your resident state:
+> Please select your resident state: 
 
   * [California](http://www.aflac.com/us/en/docs/privacy/A90070_CA.pdf)
   * [Delaware](http://www.aflac.com/us/en/docs/privacy/A90070_DE.pdf)
@@ -103,7 +103,7 @@ The Health Insurance Portability and Accountability Act of 1996 (HIPAA) Privacy 
 
 Aflac is federally mandated to send a notice (Notice of Privacy Practices) to its insureds. You should be aware that your state law may afford additional access and amendment rights to you which differ from those granted by HIPAA. If you would like additional information concerning the collection and disclosure of protected health information and your rights under state law to access and amend such information, it will be furnished upon request. Please e-mail your request to [webmaster@aflac.com](mailto:webmaster@aflac.com). 
 
-> Please select your resident state:
+> Please select your resident state: 
 
   * [Puerto Rico](http://www.aflac.com/us/en/docs/privacy/A90069_PR.pdf "Puerto Rico")
   * [All Other States](http://www.aflac.com/us/en/docs/privacy/A90069.pdf)
@@ -112,7 +112,7 @@ Aflac is federally mandated to send a notice (Notice of Privacy Practices) to 
 
 **5\. Security and protection of your information**
 
-We take the protection of your Personal Information very seriously. We use technology tools and design our business practices to help ensure that the Personal Information of our customers is properly gathered, stored, and processed. We secure your Personal Information submitted by you by using reasonable efforts to prevent unauthorized access or disclosure, or accidental loss or destruction. We also work to maintain the security of, and internal and external access to, the Personal Information of our customers through the use of technology and our business practices. However, there are no guarantees that unauthorized access will not occur. While we strive to protect your Personal Information, we cannot ensure or warrant the security of any Personal Information that you transmit to us. Unless stated otherwise, Aflac cannot guarantee the security of any data submitted through the Internet by e-mail.
+We take the protection of your Personal Information very seriously. We use technology tools and design our business practices to help ensure that the Personal Information of our customers is properly gathered, stored, and processed. We secure your Personal Information submitted by you by using reasonable efforts to prevent unauthorized access or disclosure, or accidental loss or destruction. We also work to maintain the security of, and internal and external access to, the Personal Information of our customers through the use of technology and our business practices. However, there are no guarantees that unauthorized access will not occur. While we strive to protect your Personal Information, we cannot ensure or warrant the security of any Personal Information that you transmit to us. Unless stated otherwise, Aflac cannot guarantee the security of any data submitted through the Internet by e-mail. 
 
 **6\. Children**
 
