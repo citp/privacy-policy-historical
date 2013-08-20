@@ -1,35 +1,28 @@
-> *The following text is extracted and transformed from the compete.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217053844id_/http%3A//www.compete.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compete.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820220835id_/https%3A//www.compete.com/about-compete/privacy) for the most accurate reproduction.*
 
-# Privacy | Compete
+# Privacy Policy | Compete
 
-## Privacy 
-
-### Privacy Policy
-
-Last updated: December 13, 2012
-
-Note: This policy will go into affect on January 15, 2013.  The current Compete corporate privacy policy is located [here](http://www.competeinc.com/privacy/). The current Compete PRO privacy policy is located [here](https://web.archive.org/us/about/privacy/compete-pro-privacy-agreement/).
+Last updated: 28 January 2013
 
 Compete helps the world’s top brands improve their marketing based insights from the online behavior of millions of consumers. Leading advertisers, agencies and publishers rely on research and analysis from Compete to help create engaging online experiences and highly effective advertising campaigns.
 
-This privacy policy applies solely to the Web site pages located at www.compete.com, the Web site pages at success.compete.com, and the Compete PRO Web application located at app.compete.com (collectively the “Site”). It does not apply to any other products or services provided by Compete or any other party, including Compete’s Consumer Input service (to access the Consumer Input Privacy Policy, [click here](http://consumerinput.com/privacy/)). The practices on such other services may vary from the practices on this Site. For the privacy practices of other Compete web sites, products or services, please review the privacy policy available on such other web sites, products or services.
+This privacy policy applies solely to the Web site pages located at www.compete.com, the Web site pages at success.compete.com, and the Compete PRO Web application located at app.compete.com (collectively the “Site”). It does not apply to any other products or services provided by Compete or any other party, including Compete’s Consumer Input service (to access the Consumer Input Privacy Policy, [click here](https://consumerinput.com/privacy/)). The practices on such other services may vary from the practices on this Site. For the privacy practices of other Compete web sites, products or services, please review the privacy policy available on such other web sites, products or services.
 
 **Global Dispute Resolution**
 
-  
+[](https://www.compete.com/wp-content/uploads/2013/05/SafeHarbor.png)
 
+Compete participates in the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce. Compete complies with the U.S.– E.U. Safe Harbor framework and the U.S.- Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Compete has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Compete’s certification, please visit <http://www.export.gov/safeharbor/>.
 
-Compete participates in the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce. Compete complies with the U.S.– E.U. Safe Harbor framework and the U.S.- Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Compete has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Compete’s certification, please visit <http://www.export.gov/safeharbor/>.
+[](http://privacy.truste.com/privacy-seal/Compete,-Inc--%28WPP%29/validation?rid=146c065a-e726-4dd8-a1df-4343264d1e47 "Compete Truste Validation")
 
-[](https://privacy.truste.com/privacy-seal/Compete,-Inc--\(WPP\)/validation?rid=146c065a-e726-4dd8-a1df-4343264d1e47 "TRUSTe European Safe Harbor certification")
+Compete has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information while on www.compete.com. The TRUSTe program does not cover information that may be collected through downloadable software, through our Compete PRO Web App, or within our services on other sites. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [support@compete.com](mailto:support@compete.com). If you are not satisfied with our response you can [contact TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint) here or see the other contact details below.
 
-Compete has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information while on www.compete.com. The TRUSTe program does not cover information that may be collected through downloadable software, through our Compete PRO Web App, or within our services on other sites. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [support@compete.com](mailto:support@compete.com). If you are not satisfied with our response you can [contact TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint) here or see the other contact details below.
-
-As part of our participation in the Safe Harbor program, we have agreed to TRUSTe’s dispute resolution service for disputes relating to our compliance with the Safe Harbor Framework. If you have any complaints regarding our compliance with the Safe Harbor Framework you should first contact us at [support@compete.com](mailto:support@compete.com). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by [clicking here](http://watchdog.truste.com/pvr.php?page=complaint), fax to 415-520-3420, or mail to TRUSTe Safe Harbor Compliance Dept., [click for mailing address](http://www.truste.com/about-TRUSTe/contact-us). If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, [click here](http://www.truste.com/about-TRUSTe/contact-us) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.
+As part of our participation in the Safe Harbor program, we have agreed to TRUSTe’s dispute resolution service for disputes relating to our compliance with the Safe Harbor Framework. If you have any complaints regarding our compliance with the Safe Harbor Framework you should first contact us at [support@compete.com](mailto:support@compete.com). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by [clicking here](http://watchdog.truste.com/pvr.php?page=complaint), fax to 415-520-3420, or mail to TRUSTe Safe Harbor Compliance Dept., [click for mailing address](http://www.truste.com/about-TRUSTe/contact-us). If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe’s dispute resolution process, [click here](http://www.truste.com/about-TRUSTe/contact-us) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.
 
 **Information Collection**
 
-Compete collects personally identifiable information from our users of this Site in certain sections of the Site, such as our Contact Us forms, Webinar sign-up forms, and Whitepaper download forms. We also collect personally identifiable information from users who sign up for and access our Free Site Analytics reports and the Compete PRO service. Typically the information collected is name, company, email address, and phone number.
+Compete collects personally identifiable information from our users of this Site in certain sections of the Site, such as our Contact Us forms, Webinar sign-up forms, and Whitepaper download forms. We also collect personally identifiable information from users who sign up for and access our free Site Analytics reports and the Compete PRO service. Typically the information collected is name, company, email address, and phone number.
 
 If you subscribe to the Compete PRO service, we may also collect your credit card number and billing address for payment purposes.
 
@@ -54,7 +47,7 @@ Personally identifiable information which you voluntarily disclose online in a p
 
 **Opt-Out**
 
-If you no longer wish to receive email communications from Compete as described above, you may opt-out by following the directions that are included in each email communication. You may also contact us at [support@compete.com](mailto:support@compete.com) for assistance.
+If you no longer wish to receive email communications from Compete as described above, you may opt-out by following the directions that are included in each email communication. You may also contact us at [support@compete.com](mailto:support@compete.com) for assistance.
 
 **Links to Other Sites**
 
@@ -84,11 +77,11 @@ We have put in place reasonable administrative, technical, and physical safeguar
 
 **Data Retention**
 
-We will retain the information described above for as long as the information has value to us, or as long as is necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, whichever is longer. If you wish to request that we no longer use your personally identifiable information to provide you services or information, please contact us at [support@compete.com](mailto:support@compete.com).
+We will retain the information described above for as long as the information has value to us, or as long as is necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, whichever is longer. If you wish to request that we no longer use your personally identifiable information to provide you services or information, please contact us at[support@compete.com](mailto:support@compete.com).
 
 **Data Access**
 
-For those users for whom we have email and other personally identifiable information, you may correct, update or remove your contact information by contacting us at [support@compete.com](mailto:support@compete.com). We will respond to all such requests within 30 days.
+For those users for whom we have email and other personally identifiable information, you may correct, update or remove your contact information by contacting us at [support@compete.com](mailto:support@compete.com). We will respond to all such requests within 30 days.
 
 **Changes in this Privacy Policy**
 
@@ -102,9 +95,9 @@ Our servers are maintained in the United States of America. By using the Site, y
 
 **Terms and Conditions**
 
-Use of this Site is governed by, and subject to, the Terms and Conditions contained at <http://www.compete.com/us/about/terms/>. This privacy policy is incorporated into such terms. Your use, or access, of the Site constitutes your agreement to be bound by these provisions. IF YOU DO NOT AGREE TO THESE TERMS AND CONDITIONS YOU MAY NOT ACCESS OR OTHERWISE USE THE SITE.
+Use of this Site is governed by, and subject to, the Terms and Conditions contained at <https://www.compete.com/about-compete/privacy/terms/>. This privacy policy is incorporated into such terms. Your use, or access, of the Site constitutes your agreement to be bound by these provisions. IF YOU DO NOT AGREE TO THESE TERMS AND CONDITIONS YOU MAY NOT ACCESS OR OTHERWISE USE THE SITE.
 
-If you have questions related to privacy, please contact us at [privacy@compete.com](mailto:privacy@compete.com) or write to us at:
+If you have questions related to privacy, please contact us at [privacy@compete.com](mailto:privacy@compete.com) or write to us at:
 
 Privacy Officer  
 Compete, Inc.  
