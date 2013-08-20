@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winvistatips.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510171029id_/http%3A//www.winvistatips.com/faq.php%3Ffaq%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winvistatips.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820193939id_/http%3A//www.winvistatips.com/faq.php%3Ffaq%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Windows Vista Tips - FAQ: Privacy Policy
 
