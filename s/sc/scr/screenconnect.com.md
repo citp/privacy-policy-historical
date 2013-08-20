@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screenconnect.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610072443id_/http%3A//www.screenconnect.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screenconnect.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820081223id_/http%3A//www.screenconnect.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy for ScreenConnect Website
 
@@ -7,8 +7,7 @@ Thank you for your interest in Elsinore Technologies, Inc. ("Elsinore", "we", or
 Elsinore treats your visit to our Site as we would treat any other interaction with our valued customers and prospective customers: as a private matter between you and Elsinore. We want you to know up front how we deal with any personally identifiable information you see fit to provide to us during our interactions with you. Therefore, this Privacy Policy will answer the following questions.
 
   * What personally identifiable information is collected from you and how will it be used?
-  * What cookies are and how they are used?
-  * Who should you contact if you have any questions concerning this Privacy Policy?
+  * What are cookies and how are they used?
 
 
 
@@ -25,7 +24,3 @@ Every month, we e-mail a newsletter to those of you who have requested this serv
 The Site uses information in aggregate form to track the total number of visitors to our Site, the number of visitors to each page of our Site, and the domain names of our visitors’ Internet service providers. No personally identifiable information is revealed to us in this process.
 
 Some pages within the Site may use a technology called "cookies". A cookie is a token that a server gives to your browser when you access an Internet website. Cookies are capable of storing many types of data. Cookies help provide additional functionality to the site or to help us analyze site usage more accurately. In all cases in which cookies are used, the cookie will not collect personally identifiable information except with your explicit permission.
-
-If you would like further information, or to provide feedback about what you like about our Site, this Privacy Policy or how our site could be more useful to you, please contact us at: info@elsitech.com, or call us at: 866-866-0034.
-
-Please enjoy your visit to the Elsinore Technologies, Inc., Internet website.
