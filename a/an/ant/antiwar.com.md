@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the antiwar.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619194051id_/http%3A//antiwar.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the antiwar.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820154737id_/http%3A//antiwar.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Antiwar.com
 
