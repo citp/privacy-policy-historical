@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the massivead.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529173450id_/http%3A//massivead.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massivead.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820064112id_/https%3A//massivead.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Massive Ad
 
@@ -67,7 +67,7 @@ A cookie is a computer code that lets Web servers "identify" visitors to the Web
 
 ## EFFECTIVE DATE
 
-This Privacy Policy is effective as of December 1, 2011. Massive Ad World-Wide reserves the right to change this Privacy Policy at any time by notifying you of the existence of a new Privacy Policy. Such changes, modifications, additions or deletions shall be effective immediately upon notice thereof, which may be given by means including, but not limited to, posting on the Website, or by any other means by which you obtain notice thereof. Your continued use of the Website after such modifications will constitute your: (a) acknowledgment of the modified Privacy Policy; and (b) agreement to abide and be bound by the modified Privacy Policy. 
+This Privacy Policy is effective as of March 12th 2013. Massive Ad World-Wide reserves the right to change this Privacy Policy at any time by notifying you of the existence of a new Privacy Policy. Such changes, modifications, additions or deletions shall be effective immediately upon notice thereof, which may be given by means including, but not limited to, posting on the Website, or by any other means by which you obtain notice thereof. Your continued use of the Website after such modifications will constitute your: (a) acknowledgment of the modified Privacy Policy; and (b) agreement to abide and be bound by the modified Privacy Policy. 
 
 ## SEVERABILITY
 
