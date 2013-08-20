@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ashford.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621042142id_/http%3A//www.ashford.com/info/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashford.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820231804id_/http%3A//www.ashford.com/info/privacy.jsp) for the most accurate reproduction.*
 
 # Luxury Watch Movado, Ebel, Tag Heuer, Concord, Bulova, Breitling, Seiko, ESQ, Cartier, Corum, Kenneth Cole, Citizen, Bulgari, Chopard - Ashford.com
 
