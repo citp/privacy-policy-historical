@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dofactory.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531154509id_/http%3A//www.dofactory.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dofactory.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820130903id_/http%3A//www.dofactory.com/privacy.aspx) for the most accurate reproduction.*
 
 # Design Patterns, AJAX, and .NET training for professional developers| Privacy
 
@@ -6,7 +6,7 @@ Data & Object Factory is committed to protecting your privacy. This Statement of
 
 ## Collection of Information
 
-When you send email, sign up for a reference card, purchase a product, or register for a course, Data & Object Factory collects personally identifiable information, such as your name, address, phone, and e-mail address. This information is used to deliver the services you requested and to conduct normal business communications, such as, confirmation of payments and/or enrollments, mailing requested materials, assisting with travel arrangements, and answering questions you may have. 
+When you send email, sign up for an account, purchase a product, or register for a course, Data & Object Factory collects personally identifiable information, such as your name, address, phone, and e-mail address. This information is used to deliver the services you requested and to conduct normal business communications, such as, confirmation of payments and/or enrollments, mailing requested materials, assisting with travel arrangements, and answering questions you may have. 
 
 Data & Object Factory also gathers anonymous information which can include: your IP address, browser type, pages accessed, access times and referring Web site addresses. This information is used by Data & Object Factory for the operation of the web site, to maintain quality of the service, and to provide general statistics regarding use of the Data & Object Factory Web site. 
 
@@ -14,7 +14,7 @@ Data & Object Factory also gathers anonymous information which can include: your
 
 Data & Object Factory does not sell, rent or lease its customer list to third parties. Data & Object Factory keeps track of the pages our customers visit in order to determine what courses and services are of interest to your customers. This data may be used to deliver customized content within the Data & Object Factory Web site to users whose navigational patterns indicate that they are interested in a particular subject area. 
 
-Data & Object Factory Web may disclose your personal information, without notice, only when (a) responding to subpoenas, court orders or legal process, or when (b) your actions on the Data & Object Factory Web site violate the [_terms of use_](https://web.archive.org/web/20130531154509id_/http%3A//www.dofactory.com/terms.aspx). 
+Data & Object Factory Web may disclose your personal information, without notice, only when (a) responding to subpoenas, court orders or legal process, or when (b) your actions on the Data & Object Factory Web site violate the [_terms of use_](https://web.archive.org/web/20130820130903id_/http%3A//www.dofactory.com/terms.aspx). 
 
 ## Cookies
 
