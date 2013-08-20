@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exitravel.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226045404id_/http%3A//www.exitnow.ca/travel/about/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exitravel.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820042450id_/http%3A//www.exitnow.ca/about/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ exitnow.ca uses the highest-level security features available to ensure your per
 
 Guarantee
 
-We are confident it's secure to book a vacation online on exitnow.ca. In fact, we're so confident that we offer the following garantee.
+We are confident it's secure to book a vacation online on exitnow.ca. In fact, we're so confident that we offer the following guarantee.
 
 Most credit card companies in North America will remove any proven unauthorized charges made on your credit card. Some of them, however, require you to pay the first $50, referred to as a deductible, of any unauthorized charge. If your credit card company holds you liable for a deductible due to a proven unauthorized charge on exitnow.ca, we guarantee that we will pay the entire deductible up to $50. We cover this liability, provided the unauthorized use of your credit card resulted through no fault of your own and was a result of purchases made on exitnow.ca.
 
