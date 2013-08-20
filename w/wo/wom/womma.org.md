@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the womma.org privacy policy that was archived on 2013-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130331132932id_/http%3A//www.womma.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womma.org privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820165006id_/http%3A//www.womma.org/privacy-policy) for the most accurate reproduction.*
 
 # WOMMA - Privacy Policy
 
