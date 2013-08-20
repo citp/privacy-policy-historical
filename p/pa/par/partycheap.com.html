@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the partycheap.com privacy policy that was archived on 2013-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130604171750id_/http%3A//www.partycheap.com/terms_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the partycheap.com privacy policy that was archived on 2013-08-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130820031645id_/http%3A//www.partycheap.com/terms_privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -15,6 +15,7 @@
 <script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/gtmp_compiled.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js"></script>
 <link type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/themes/base/jquery-ui.css" rel="stylesheet">
+<link type="text/css" href="/a/c/default.css" rel="stylesheet">
 
 
 <script type="text/javascript">
@@ -30,7 +31,30 @@
     var PageText_843 = "Subtotal";
     var PageText_844 = "items in cart";
 </script>
+<script type="text/javascript" src="/a/j/volusion.js?6.41.0.221"></script>
+<script type="text/javascript">
+    (function ($) {
+        volusion.ready(function () {
+            if (volusion.cart.isObservingCount()) {
+                var ts = new Date().getTime();
 
+                $.getJSON('/ajaxcart.asp?cachebust=' + ts, function (data) {
+                    var quantityTotal = 0;
+                    $.each(data.Products, function (key, val) {
+                        if (val.IsProduct === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        } else if (val.IsAccessory === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        }
+                    });
+                    quantityTotal = quantityTotal || '0';
+                    volusion.cart.itemCount(quantityTotal);
+                });
+
+            }
+        });
+    } (jQuery));
+</script>
 
 
 <script type="text/javascript" src="/a/j/soft_add.js"></script>
@@ -43,7 +67,7 @@
 </script>
 
 <script type="text/javascript" src="/a/j/soft_add_mult.js"></script>
-<script type="text/javascript" src="/a/j/javascripts.js?6_5_6.34.2"></script>
+<script type="text/javascript" src="/a/j/javascripts.js?6_5_6.41.0.221"></script>
 
 <script type="text/javascript" src="/a/j/vcompare.js"></script>
 <link type="text/css" rel="stylesheet" href="/a/c/VCompare.css">
@@ -88,12 +112,11 @@
 <!-- END: Google Trusted Store --> 
 
 
-
 <!-- 
 DYNAMIC PAGE-SPECIFIC META TAGS WILL BE PLACED HERE
 DO NOT ADD YOUR OWN META TAGS, ONLY PUT CSS/JAVSCRIPT INCLUDES IN YOUR HEAD TAG
 -->
-<link href="/v/vspfiles/templates/buttons/css/Imports.css" rel="stylesheet" type="text/css">
+<link href="/v/vspfiles/templates/buttons_bk/css/Imports.css" rel="stylesheet" type="text/css">
 
 <meta name="google-site-verification" content="dhHsogy1UjNQOG33uyhq98U7QZV6dBoK2AZFysgvWOE">
 
@@ -104,7 +127,7 @@ DO NOT ADD YOUR OWN META TAGS, ONLY PUT CSS/JAVSCRIPT INCLUDES IN YOUR HEAD TAG
 <!-- Mimic Internet Explorer 7 -->
   <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
 
-
+<meta name="p:domain_verify" content="8777ccae4d457ceeb067e071a52b764a">
 </head>
  <body id="body" onload="if(typeof(store_init)=='function')store_init(event);"> 
 <!-- V-Chrome -->
@@ -127,7 +150,7 @@ DO NOT ADD YOUR OWN META TAGS, ONLY PUT CSS/JAVSCRIPT INCLUDES IN YOUR HEAD TAG
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
 <td valign="middle"><input onblur="ProcessFieldUsage(this);" type="text" name="Search" value="" maxlength="50"></td>
-<td valign="middle">&nbsp;<img style="cursor: pointer;" border="0" src="/v/vspfiles/templates/buttons/images/template/btn_go.gif" onclick="document.forms['SearchBoxForm'].submit();"></td>
+<td valign="middle">&nbsp;<img style="cursor: pointer;" border="0" src="/v/vspfiles/templates/buttons_bk/images/template/btn_go.gif" onclick="document.forms['SearchBoxForm'].submit();"></td>
 </tr>
 </tbody></table>
 </form>
@@ -153,6 +176,9 @@ function mClk1(src, popup)
 { if (!popup) {window.location=src.getElementsByTagName('A')[0].getAttribute('href');} else {window.open(src);} }
 </script>
 <ul>
+<li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
+	<a href="http://www.partycheap.com/category_s/1013.htm" title="">Licensed Party Supplies</a>
+</li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
 	<a href="http://www.partycheap.com/Theme_Party_Supplies_s/2.htm" title="Theme Party Supplies">Theme Party</a>
 </li>
@@ -208,13 +234,10 @@ function mClk2(src, popup)
 	<a href="http://www.partycheap.com/Bulk_Discounts_on_Party_Supplies_s/514.htm" title="Bulk Discounts on Party Supplies">Bulk Discounts</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="http://www.partycheap.com/Monthly_Product_Review_Sweepstakes_s/761.htm" title="Monthly Product Review Sweepstakes">Monthly Product Review Sweepstakes</a>
-</li>
-<li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
 	<a href="http://www.partycheap.com/Party_Ideas_s/488.htm" title="Party Ideas">Party Ideas</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="/Help_answer.asp?ID=11#39" title="Shipping Rates">Shipping Rates</a>
+	<a href="/Help_answer.asp?ID=11" title="Shipping Rates">Shipping Rates</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
 	<a href="/help_answer.asp?ID=17#132" title="PartyCheap contact information">Contact Us</a>
@@ -230,7 +253,7 @@ function mClk2(src, popup)
 					<div id="mailing_list">
 					<form name="MailingList" method="post" action="MailingList_subscribe.asp">
 					 <span style="font-weight: bold;"></span><br> <input style="font-size: 12px;" name="emailaddress" size="20" maxlength="50" type="text"> <br>
-					 <input name="Search" id="search_button" src="/v/vspfiles/templates/buttons/images/Template/mailing_list_join_btn.gif" border="0" type="image"> 
+					 <input name="Search" id="search_button" src="/v/vspfiles/templates/buttons_bk/images/Template/mailing_list_join_btn.gif" border="0" type="image"> 
 					 </form>
 					</div>
 					
@@ -239,7 +262,7 @@ function mClk2(src, popup)
 					
 					
 					<div id="navigation_menus">
-				<div id="display_promotions_99999"><br><img src="/v/vspfiles/templates/buttons/images/logos/cc_logo3.gif" border="0"><br><style type="text/css">#volusion_ssl_seal { behavior: url(/a/iepngfix.htc); }</style><br><a href="javascript:void(0);" onclick="window.open('https://www.volusion.com/ssl.asp?url=www.partycheap.com', 'VolusionSSL', 'top=10,left=10,menubar=0,resizable=0,scrollbars=0,width=467,height=467')"><img id="volusion_ssl_seal" src="/a/i/seal_volusion1.png" border="0" height="113" width="100"></a><br></div>
+				<div id="display_promotions_99999"><br><img src="/v/vspfiles/templates/buttons_bk/images/logos/cc_logo3.gif" border="0"><br><style type="text/css">#volusion_ssl_seal { behavior: url(/a/iepngfix.htc); }</style><br><a href="javascript:void(0);" onclick="window.open('https://www.volusion.com/ssl.asp?url=www.partycheap.com', 'VolusionSSL', 'top=10,left=10,menubar=0,resizable=0,scrollbars=0,width=467,height=467')"><img id="volusion_ssl_seal" src="/a/i/seal_volusion1.png" border="0" height="113" width="100"></a><br></div>
 				<br><br>
 			</div>
 					
@@ -339,7 +362,7 @@ function addbookmark()
 		Customer has agreed per Volusionï¿½s Terms of Service (http://www.volusion.com/agreement_monthtomonth.asp)
 		to maintain a text hyperlink to "http://www.volusion.com" in the footer of the website. The link must be standard html, contain no javascript, and be approved by Volusion. Removing this link breaches the Volusion agreement.
 	-->
-		<p><a href="http://www.volusion.com" title="Shopping Cart Software" target="_blank">eCommerce</a> by Volusion.</p>
+		<p><a href="http://www.volusion.com" target="_blank">eCommerce</a> by Volusion.</p>
 
 	<!--
 	===========================================================================================
