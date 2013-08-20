@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windowslivehelp.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614140456id_/http%3A//go.microsoft.com/fwlink/%3Flinkid%3D123161) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windowslivehelp.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820051340id_/http%3A//go.microsoft.com/fwlink/%3Flinkid%3D123161) for the most accurate reproduction.*
 
 # Microsoft.com Privacy Statement
 
@@ -60,11 +60,23 @@ Display of AdvertisingAdvertising
 
 Most of the online advertisements on Microsoft sites and services are displayed by Microsoft Advertising. When we display online advertisements to you, we will place one or more cookies in order to recognize your computer when we display an ad to you. Over time, we may gather information from the sites where we serve ads and use the information to help provide more relevant ads. 
 
-**You may opt out of receiving targeted ads from Microsoft Advertising by visiting our[opt-out page](https://choice.live.com/AdvertisementChoice/ "opt-out page"). **
+**You may opt out of receiving targeted ads from Microsoft Advertising by visiting our[opt-out page](http://go.microsoft.com/fwlink/?LinkID=286759 "opt-out page"). **
 
 Communication PreferencesCommunications
 
 You can stop the delivery of future promotional e-mail from Microsoft sites and services by following the specific instructions in the e-mail you receive. Depending on the respective service, you may also have the option of proactively making choices about the receipt of promotional e-mail, telephone calls, and postal mail for particular Microsoft sites or services. 
+
+Location Based ServicesLocation Based Services
+
+Certain services or features can use information about your location to provide services you request or personalize your experience.  Location information may include data identifying nearby cell towers and Wi-Fi hotspots, as wells as Global Position System (GPS) data.  For more information about location based services, please click on “Learn More.”
+
+Support DataSupport Data
+
+Support Data is the information we collect when you submit a support request or run an automated troubleshooter, including information about hardware, software, and other details related to the support incident, such as: contact or authentication information, chat session personalization, information about the condition of the machine and the application from when the fault occurred and during diagnostics, system and registry data about software installations and hardware configurations, and error-tracking files. We use Support Data as described in this privacy statement, and additionally use it to resolve your support incident and for training purposes.
+
+Payment DataPayment Data
+
+Payment Data is the information that you provide when you make online purchases. This may include your payment instrument number ( _e.g.,_ credit card, PayPal), your name and billing address, and the security code associated with your payment instrument ( _e.g.,_ the CSV or CVV). This section provides additional information regarding the collection and use of your payment information.
 
 Microsoft accountMicrosoft account
 
@@ -80,7 +92,6 @@ Learn more about
   * Protecting the security of personal information 
   * Where we store and process information 
   * Changes to our privacy statements 
-  * TRUSTe certification and enforcing our privacy statements 
   * How to contact us 
 
 
