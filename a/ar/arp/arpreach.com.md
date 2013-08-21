@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arpreach.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606130235id_/http%3A//arpreach.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arpreach.com privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821111137id_/http%3A//arpreach.com/privacy) for the most accurate reproduction.*
 
 # arpReach - autoresponder and email marketing software
 
