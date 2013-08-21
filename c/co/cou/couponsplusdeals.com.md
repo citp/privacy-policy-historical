@@ -1,9 +1,7 @@
-> *The following text is extracted and transformed from the couponsplusdeals.com privacy policy that was archived on 2013-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130305173535id_/http%3A//www.couponsplusdeals.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponsplusdeals.com privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822005446id_/http%3A//www.couponsplusdeals.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # CouponsPlusDeals.com privacy policy
 
-  
-  
   
 
 
@@ -44,4 +42,12 @@ As we continue to develop and grow our web site, we may sell CouponsPlusDeals.co
 If you like to contact the webmaster of this site, please **[contact us](https://web.archive.org/general/ContactUs.aspx)**. We will get back to you as soon as we can.
 
  **SpiderWorks Technologies Pvt Ltd** **  
-Kochi. India**
+Kochi. India**   
+
+
+  
+| 
+
+[](http://s01.flagcounter.com/more/CK0)  
+  
+---|---
