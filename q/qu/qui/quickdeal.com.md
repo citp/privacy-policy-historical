@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the quickdeal.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518192755id_/http%3A//www.quickdeal.com/indexdesktopprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickdeal.com privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821083856id_/http%3A//www.quickdeal.com/indexdesktopprivacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
-
-[](http://www.quickdeal.com/include/functions/redirectad.php?id=Technology%20Guys)
 
   
   
