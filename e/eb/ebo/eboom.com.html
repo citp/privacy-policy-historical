@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the eboom.com privacy policy that was archived on 2012-09-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120920012819id_/http%3A//eboom.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eboom.com privacy policy that was archived on 2013-08-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130821135248id_/http%3A//www.eboom.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head class="default_layout_template">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head class="default_layout_template_la">
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Search eboom</title>
@@ -13,13 +13,35 @@
 <script src="/js/jquery/plugin/jquery.validate.js"></script>
 <script src="/js/jquery/plugin/jquery.qtip-1.0.0-rc3.min.js"></script>
 <script src="/js/jquery/plugin/tinysort/scripts/jquery.tinysort.min.js"></script>
-<script src="/js/main.js"></script>
+<script language="javascript">
+	$j	= jQuery.noConflict();
+</script>
 
 <script src="/js/jquerytools.js" type="text/javascript"></script>
+<script src="/js/main.menu.js" type="text/javascript"></script>
 <script src="/lib/masterdef.js" type="text/javascript"></script>
+<script src="/js/lib/masterdef/console.js" type="text/javascript"></script>
 <link href="/css/style.css" rel="stylesheet" type="text/css">
 <link href="/css/style_mod.css" rel="stylesheet" type="text/css">
 
+<script type="text/javascript">
+    $(document).ready(function () {
+            
+      $('#features').scrollable();
+      $('.specialoffers').scrollable({next: '.spof-next', prev: '.spof-prev'});			     
+      $('.search-input').focus(function () {
+
+			if ($(this).attr('value')=="Shop For ...") 
+				$(this).attr('value','');
+			});
+			
+      $('.search-input').blur(function () {
+        if ($(this).attr('value')=="") 
+          $(this).attr('value',"Shop For ...");
+			});
+			     
+    });
+</script> 
 
 	<!--[if IE 6]>
 	<script type="text/javascript">
@@ -29,6 +51,14 @@
 			function () {$('ul', this).hide(); $(this).removeClass('hover'); });
 		 });
 		 </script> 
+	<![endif]-->
+
+	<!--[if IE 7]>
+  <style>
+    .layout_menu_top {
+      display: none;
+    }
+  </style>
 	<![endif]-->
 
 </head>
@@ -60,8 +90,7 @@
 
 </div><!--header-->
 
-<div class="script_layout_menu">
-<div id="menu" class="">
+<div id="menu">
 	<ul class="menuin">
 		         
         <li><a title="Men">Men</a>
@@ -181,9 +210,8 @@
 				<li><a title="more" href="/categories/">More</a>
 		</li>
     </ul>
-</div>
-</div>
-<!--menu-->
+</div> <!--menu-->
+<div class="layout_menu_top"></div>
 
 
 <div class="margin">
@@ -329,7 +357,7 @@ normal;text-autospace:none"><span style="font-size:10.0pt;font-family:&quot;Aria
             <a href="#" title="About Us">About Us</a> |
             <a href="#" title="Product Guidelines">Product Guidelines</a> |
 			-->
-			© 2012 eboom.com |
+			© 2013 eboom.com |
             <a href="/tou/" title="Terms &amp; Conditions">Terms &amp; Conditions</a> |
             <a href="/privacy/" title="Privacy Policy">Privacy Policy</a> |
             <a href="/contact/post" title="Contact">Contact</a>
