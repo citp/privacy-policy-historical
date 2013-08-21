@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the physicsworld.com privacy policy that was archived on 2013-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130316155438id_/http%3A//ioppublishing.org/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the physicsworld.com privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821115718id_/http%3A//ioppublishing.org/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy & Cookies Policy
 
