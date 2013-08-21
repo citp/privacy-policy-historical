@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stockphotosforfree.com privacy policy that was archived on 2013-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130411140912id_/https%3A//privacy-policy.truste.com/verified-policy/www.stockphotosforfree.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockphotosforfree.com privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821020300id_/https%3A//privacy-policy.truste.com/verified-policy/www.stockphotosforfree.com) for the most accurate reproduction.*
 
 # Privacy Policy for www.stockphotosforfree.com
 
