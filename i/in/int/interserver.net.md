@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interserver.net privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523115950id_/http%3A//www.interserver.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interserver.net privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821224243id_/http%3A//www.interserver.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Interserver Privacy Policy
 
