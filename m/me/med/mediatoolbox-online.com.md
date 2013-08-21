@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediatoolbox-online.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530103339id_/http%3A//mediatoolbox-online.com/page/liability) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediatoolbox-online.com privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821103220id_/http%3A//www.mediatoolbox-online.com/page/liability) for the most accurate reproduction.*
 
 # Media toolbox online - Page
 
