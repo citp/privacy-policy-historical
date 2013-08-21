@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drdrum.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531064937id_/http%3A//www.drdrum.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drdrum.com privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822003942id_/http%3A//www.drdrum.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
