@@ -1,9 +1,19 @@
-> *The following text is extracted and transformed from the tamilmaalai.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602170955id_/http%3A//www.freeservers.com/policies/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamilmaalai.com privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821045331id_/http%3A//www.tamilmaalai.com/privacy) for the most accurate reproduction.*
 
-# Freeservers.com--Free Web Space
+# Tamilmaaali.Com
 
-**** Freeservers collects only aggregate information of visitors to its network of sites, including the domain name, visited pages, referring URLs, and other publicly available information. Freeservers uses this information to help improve its Web site and services, and to customize the content of its pages for each individual consumer. 
+  
 
-Freeservers does not sell or commercially make available specific information about its users or members other than in aggregate form, except in cooperation with law enforcement bodies in regards to content violations or violations of applicable laws. Freeservers maintains a database of member information which is used only for internal purposes, such as advertising, collections efforts, technical support, and notifying members of changes or enhancements to the Freeservers service, new services and products that may be of interest to them, and special discounts available to Freeservers members. 
 
-Any Freeservers member may cancel their membership at any time by going to <http://members.freeservers.com/cgi-bin/util/deleteaccount>. When an account is cancelled, all user information is removed from the Freeservers system related to that account, other than that in aggregate form. Questions or problems regarding this policy may be submitted using our [feedback form](https://web.archive.org/cgi-bin/feedback?option=report_a_violation). 
+  
+Privacy Policy  
+
+
+  
+At Tamilmaalai.Com, all personal information collected by us on this site (for example, on contests/sweepstakes entry forms) will be utilized primarily for internal purposes and/or to enhance visitor enjoyment and experience. We may also use email addresses or other personally identifiable information to contact visitors who directly communicate with, For example, to notify visitors that they have won a contest/sweepstakes or to provide a requested email newsletter. Visitors may voluntarily subscribe to newsletters. We provide visitors with an option to unsubscribe from future email newsletters. Sometimes, personal information submitted by visitors may be used for marketing and promotional purposes relating to the Web site or other entertainment properties. We don't share any personally identifiable information provided by visitors with third parties, unless specified at time of collection. We bear no responsibility for any action or policies of any third parties who collect any information visitors may disclose on the bulletin boards, chat areas or other public forums on this Web site. We request that all visitors to the Web site that are under the age of 18 not disclose or provide any personal information on this Web site unless they provide written authorization to us from their parent or legal guardian. We reserves the right to modify, alter or otherwise update this policy at any time so visitors are encouraged to review this policy from time to time.
+
+We don't share any personally identifiable information provided by visitors with third parties, unless specified at time of collection. All information that is submitted on our site is stored securely and not shared with third parties. We take necessary and precautionary measures to secure our database.
+
+If you disagree with the policies of this site, please terminate your connection / leave the site now.
+
+If you have any questions please email [support@tamilmaalai.com](mailto:support@tamilmaalai.com)
