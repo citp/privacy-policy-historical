@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yarnmarket.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031122026id_/http%3A//www.yarnmarket.com/generate/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yarnmarket.com privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821115720id_/http%3A//www.yarnmarket.com/generate/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,7 +13,8 @@
 Call us toll free:  
   
 **Outside of the USA:**   
-(9AM-5:30PM ET)
+(9AM-5PM ET  
+Monday - Friday)
 
 |  |    
   
