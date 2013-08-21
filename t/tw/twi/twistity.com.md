@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twistity.com privacy policy that was archived on 2013-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130324042550id_/http%3A//twistity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twistity.com privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821100513id_/http%3A//twistity.com/privacy) for the most accurate reproduction.*
 
 # TWISTITY PRIVACY POLICY | A Positive Spin on Your Daily News
 
