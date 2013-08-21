@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the incomeaccess.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115001251id_/http%3A//www.incomeaccess.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incomeaccess.com privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821095458id_/http%3A//www.incomeaccess.com/privacy.asp) for the most accurate reproduction.*
 
 # Income Access Privacy Policy
 
@@ -38,11 +38,11 @@ Income Access is committed to complying with the provisions of the Children's On
 
 ## Spam and Email lists
 
-Income Access does not intentionally send unsolicited email messages that could be construed as spam; Affiliates and Merchants' actions are carefully scrutinized and each Affiliate and Merchant is expected to adhere to Income Access%92 anti-spam policy. 
+Income Access does not intentionally send unsolicited email messages that could be construed as spam Affiliates and Merchants' actions are carefully scrutinized and each Affiliate and Merchant is expected to adhere to Income Access’ anti-spam policy. 
 
 ## Our Maintenance of Accurate Information
 
-This site provides Merchants and Affiliates with options for updating or removing their information from our database to cancel future communications, to no longer receive our service, or to change their information on our database. Each Merchant and Affiliate may view, modify or cancel the information that was provided during sign-up, with the knowledge that modified information may be shared or distributed according to Income Access' Privacy Policy. 
+This site provides Merchants and Affiliates with options for updating or removing their information from our database to cancel future communications, to no longer receive our service, or to change their information on our database. Each Merchant and Affiliate may view, modify or cancel the information that was provided during sign-up, with the knowledge that modified information may be shared or distributed according to Income Access’ Privacy Policy. 
 
 ## Your Consent to This Agreement
 
