@@ -1,30 +1,15 @@
-> *The following text is extracted and transformed from the kashi.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527115910id_/http%3A//www.kashi.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kashi.com privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822003936id_/https%3A//www.kashi.com/privacy-policy) for the most accurate reproduction.*
 
-# Kashi Seven Whole Grain Cereal Snacks Entrees
+# Kashi.com Privacy Policy
 
-#### Kashi.com Privacy Policy
+##### Personally Identifiable Information
 
-The Kashi Company, (the "Company"), has created this privacy policy for www.Kashi.com (the "Site") in order to demonstrate its firm commitment to privacy. (Kashi is a subsidiary of Kellogg Company. “We” or “Us”, as used in this Privacy Policy, may include the Kellogg family of companies.)The following discloses The Kashi Company's information gathering and dissemination practices for the information collected through this Site. We encourage you to read this Policy before using this Site. Your use of this Site signifies that you agree with all terms of this Policy, so please do not use this Site if you disagree with any part of this Policy.
+We will collect personally identifiable information about you, such as your name, postal address, telephone number, e-mail address, when you provide it to us while on this Site. You may provide personally identifiable information when you create an account, enter a sweepstakes on this Site or on a third party site, sign up for email communications, participate in a survey, contact customer service, engage in a promotion online or in-store or otherwise interact with this Site. Your personally identifiable information may be used by us for all legal purposes, which may include, but are not limited to, responding to your requests, processing your transactions, for administrative purposes such as conducting contests, tracking which parts of the Site are of interest to you, and processing prizes. If you choose to opt-in, you may receive certain future information or communications from The Kashi Company, and we may share your personally identifiable information with The Kashi Company’s subsidiaries or affiliated entities ("Affiliated Entities") for purposes of sending you information about the programs of The Kashi Company or its Affiliated Entities and, occasionally, sending you advertising/promotional material from some of their advertising and strategic partners (see the Opt-In/Choice section below). We may also use your personally identifiable information for internal business purposes, such as optimizing Site experiences and analyzing and managing our businesses
 
-#### PRIVACY STATEMENT
-
-#### I. The Kashi Company's Collection and Use of Information
-
-#### A. Personally Identifiable Information
-
-We will collect personally identifiable information about you, such as your name, postal address, telephone number, e-mail address, when you provide it to us while on this Site. You may provide personally identifiable information when you create an account, enter a sweepstakes on this Site or on a third party site, sign up for email communications, participate in a survey, contact customer service, engage in a promotion online or in-store or otherwise interact with this Site. Your personally identifiable information may be used by us for all legal purposes, which may include, but are not limited to, responding to your requests, processing your transactions, for administrative purposes such as conducting contests, tracking which parts of the Site are of interest to you, and processing prizes. If you choose to opt-in, you may receive certain future information or communications from The Kashi Company, and we may share your personally identifiable information with The Kashi Company's subsidiaries or affiliated entities ("Affiliated Entities") for purposes of sending you information about the programs of The Kashi Company or its Affiliated Entities and, occasionally, sending you advertising/promotional material from some of their advertising and strategic partners (see the Opt-In/Choice section below). We may also use your personally identifiable information for internal business purposes, such as optimizing Site experiences and analyzing and managing our businesses.
-
-#### Note Regarding Use of this Site by Children
-
+**Note Regarding Use of this Site by Children**  
 This Site is not directed at children and we request that children do not provide personally identifiable information through the Site.
 
-#### B. Demographic Information
-
-We may also collect demographic data, such as your gender and postcode, when you provide this information to us. Demographic data may be used to tailor your experience at this Site, such as showing you content including special events and advertising that you might be interested in, and displaying the content according to your postcode.
-
-On occasion, aggregate information that does not identify any particular user may be compiled and shared with subsidiaries and affiliates of The Kashi Company, and other third parties as described in Section II below.
-
-#### C. Passive Collection of Non-Personal Information
+##### Passive Collection of Non-Personal Information
 
 This Site often requires the use of encrypted or non-encrypted cookies. Cookies are data that a web server transfers to an individual's computer for recordkeeping purposes. Cookies are an industry standard used by most websites and help facilitate users' ongoing access to and use of a particular website, for example by providing information used to deliver content specific to your interests and for other purposes, such as security and other account administrative functions, and which may track personal identifying information.
 
@@ -32,7 +17,7 @@ Browser cookies do not cause damage to your computer systems or files, and only 
 
 As part of the log-in process, this Site may use persistent cookies when you give us permission to do so. Persistent cookies are cookies stored on your computer. They allow us, with your permission, to remember information about you, such as your log-in information, so that we may enhance your experience the next time you visit the Site. You must give your permission to allow this Site to set persistent cookies. You may opt-out of the use of persistent cookies at any time.
 
-We may also use flash cookies, also known as "local shared objects," on this Site during the log-in process. Flash cookies are small files similar to browser cookies and are used to remember the Site's settings in order to personalize the look and feel of the site. Flash cookies only collect data in the aggregate. This Site's log-in process also may use session cookies, if you choose to register with this Site. Session cookies enable the Site to recognize your log-on credentials, and enhance your browsing of the Site.
+We may also use flash cookies, also known as "local shared objects," on this Site during the log-in process. Flash cookies are small files similar to browser cookies and are used to remember the Site's settings in order to personalize the look and feel of the site. Flash cookies only collect data in the aggregate. This Site’s log-in process also may use session cookies, if you choose to register with this Site. Session cookies enable the Site to recognize your log-on credentials, and enhance your browsing of the Site.
 
 Some uses of cookies in connection with the Site may be under the control of unaffiliated entities that the Company retains for the management of certain programs and fulfillment of specific visitor/customer requests. The Company requires these entities to confine their use of cookies to the uses permitted by this Policy, but the Company cannot be responsible for third party uses of cookies.
 
@@ -42,108 +27,10 @@ The Kashi Company also collects " **referrers** " information, **IP addresses** 
 
   * A "referrer" is information the web browser passes along to our web servers that references the URL from which you came.
   * The "IP address" is a number used by computers on the network to identify your computer so that data can be transmitted to you.
-  * "Environmental variables" include, among other things, the domain from which you access the Internet, the time you accessed this site, type of web browsers and operating system or platform used, the Internet address of the website you left to visit this Site, the names of the pages you visit while at this Site and the Internet address of the website you then visit.
+  * "Environmental variables" include, among other things, the domain from which you access the Internet, the time you accessed this site, type of web browsers and operating system or platform used, the Internet address of the website you left to visit this Site, the names of the pages you visit while at this Site and the Internet address of the website you then visit. 
 
 
 
-This information is collected for The Kashi Company's internal use such as to enhance website security, to detect broad demographic trends, to assist The Kashi Company in providing content tailored to your interests and to otherwise enhance your experience on this Site. This information may also be shared with third parties on an aggregate and non-personally identifiable basis.
+This information is collected for The Kashi Company’s internal use such as to enhance website security, to detect broad demographic trends, to assist The Kashi Company in providing content tailored to your interests and to otherwise enhance your experience on this Site. This information may also be shared with third parties on an aggregate and non-personally identifiable basis.
 
 We may use both personally identifiable information and non-personally identifiable information, individually or together, to improve our marketing and promotional efforts, improve our products and services, better understand customer interests and preferences, and /or provide you relevant information. We may enhance or merge personally identifiable information that you provide with data obtained from third parties.
-
-#### II. Disclosure of Information to Third Parties
-
-The Kashi Company may share personally identifiable information, including information that you provide on the Site, with third parties as described below.
-
-#### A. Affiliated Entities
-
-We may share any information, including personally identifiable information that you provide on the Site, with our subsidiaries and affiliates worldwide, for the purposes described in Section I(A).
-
-#### B. Strategic Partners
-
-From time to time we may enter into a special relationship with another company that is not owned by or affiliated with The Kashi Company to provide additional features on this Site. These special relationships may include business partners, sponsors and co-branded sites (referred to here as "co-branded pages"). Any information, including personally identifiable information that you provide on one of these co-branded pages, may be shared with these third party partners. By participating in activities or providing your information on these co-branded pages, you also consent to our providing your personally identifiable information to those third parties. Since these third parties will use your information in accordance with their own privacy practices, you should check their websites for information regarding their privacy policies. 
-
-#### C. Service Providers
-
-We may use third party service providers to help us operate our business and this Site or administer activities on our behalf, such as sending emails, order fulfillment and sweepstake administration. We may share your information with these third parties for those limited purposes. For instance, if you participate in a sweepstake, game or loyalty program resulting in a prize or award, we will share personally identifiable information about you with our games and merchandise fulfillment and management agencies.
-
-#### D. Ad Networks
-
-We may have relationships with third party service providers known as Ad Networks to serve ads on our behalf across the Internet. Using Cookies and Pixel Tags (also known as Web Beacons), Ad Networks collect anonymous information about your visits to our web site and other web sites in order to deliver advertisements that may be of particular interest to you. This process does not involve the collection of any personally identifiable information. The Ad Networks do not know your name, phone number, address, email address or any personally identifiable information We do not share any personally identifiable information about you with these advertising networks. To find out more about how the networks manage the privacy of information in conjunction with delivering ads online and how to opt-out of information collection by these networks please go to: [http://www.youradchoices.com](http://www.youradchoices.com/) or [http://www.networkadvertising.org](http://www.networkadvertising.org/). We do not operate or control these sites, and are not responsible for the opt-out choices available there.
-
-#### E. Other Disclosures
-
-Personally identifiable information of any individual user may be shared with other companies outside The Kashi Company: (i) as permitted by law, (ii) in the event of a transfer of ownership, assets or a bankruptcy of The Kashi Company, (iii) where we determine that disclosure of specific information is necessary to comply with the request of a law enforcement or regulatory agency or other legal process, or (iv) to protect the interests or safety of The Kashi Company or other visitors to this Site.
-
-#### F. User Generated Content Functions
-
-This Site enables users to submit their own content in “Challenges” and other functions on the Site. Please remember that any information you disclose in connection with a submission becomes public information and you should exercise caution when deciding to disclose your personal, financial or other information in a submission. The Kashi Company cannot prevent such information from being used in a manner that may violate this Privacy Policy, the law or your personal privacy and safety and is not responsible for the results of such postings.
-
-#### G. Sweepstakes, Contests etc.
-
-We may operate sweepstakes, contests, raffles and similar promotions through the Site that may require online registration. We typically ask you for certain personally identifiable information when you enter and, if applicable, win a sweepstake, contest, raffle or similar promotion. We may share this personally identifiable information with third party sponsors of such sweepstakes, contests, raffles and promotions (irrespective of whether it is hosted by us), or otherwise in accordance with the rules applicable to such sweepstakes, contest, raffle or promotion. You should carefully review the rules of each sweepstake, contest, raffle and promotion in which you participate through the Site, as they may contain additional important information about The Kashi Company's or a sponsor's use of your personally identifiable information. Insofar as the terms and conditions of such rules concerning the treatment of your personally identifiable information conflict with this Privacy Statement, the terms and conditions of such rules shall control. 
-
-#### III. LINKS AND THIRD PARTIES' PRIVACY PRACTICES
-
-This Site may contain links to other sites that are not operated by The Kashi Company. **THE KASHI COMPANY IS NOT RESPONSIBLE FOR THE PRIVACY PRACTICES OR THE CONTENT OF SUCH OTHER WEBSITES, INCLUDING WEBSITES OPERATED BY AFFILIATED ENTITIES**. We provide such links only as a convenience and the inclusion of a link on the site does not imply endorsement of the linked site by The Kashi Company. If you provide any personally identifiable information through any such third party website, your transaction will occur on such third party's website (and not on this site) and the personally identifiable information you provide will be collected by and controlled by the privacy policy of that third party. The Kashi Company recommends that you review the privacy policy of third party websites arrived at from links on this Site.
-
-#### IV. SECURITY
-
-This Site has security measures in place to help protect against the loss, misuse and alteration of the personally identifiable information under its control. The Kashi Company employs reasonable security measures consistent with standard industry practice to help protect against public access to personally identifiable and account activity information collected on and used by The Kashi Company at this Site. For instance, access to our databases with personally identifiable information is logged for security purposes and access is limited to key personnel. Personally identifiable information and account activity are also protected through the use of user names and passwords. In order to help maintain the security of your information, you should protect the confidentiality of your user name and password. 
-
-#### V. OPT-IN/CHOICE
-
-This Site may provide you with the opportunity to opt-in to receive marketing communications from The Kashi Company. If you do not opt-in, The Kashi Company will not send you its promotional offers. You may also opt-out of marketing communications at any time by clicking the “unsubscribe” link in the body of the communication. However, regardless of your opt-in preferences, The Kashi Company may still at times need to send program e-mails for administrative reasons. If you opt to receive communications from multiple brands within the Kellogg family of companies and then change your election, you may need to opt-out individually from each of the brands to which you agreed to receive brand-specific communications.
-
-The Kashi Company also gives you convenient methods for removing your information from our database so as not to receive future communications or to close your account. You may:
-
-  * opt-out on the account profile page (e.g., MyAccount, etc.); 
-  * use the contact us form on the website;
-  * call 877-7GRAINS (747-2467) Monday through Friday 5am - 4pm PT
-
-
-
-or you may send mail to the following postal address:
-
-Kashi Consumer Relations  
-PO BOX 8557  
-La Jolla, CA 92038 
-
-This Site gives you several options for reviewing, correcting, updating or otherwise modifying information you have previously provided. You may:
-
-  * make changes and updates on the account profile page (e.g., MyAccount, etc.);
-  * use the contact us form on the website;
-  * call 877-7GRAINS (747-2467) Monday through Friday 5am - 4pm PT;
-
-
-
-Or, you may send mail to the following postal address:
-
-Kashi Consumer Relations  
-PO BOX 8557  
-La Jolla, CA 92038 
-
-Please note, changes may not be effective immediately. In each event, you must clearly indicate the information that you wish to have changed or clearly indicate that you wish to have your personally identifiable information removed from our database. We will endeavor to comply with your request as soon as reasonably possible. Note that despite any request for removal of or change to personally identifiable information, we may need to retain certain information for recordkeeping purposes, and there may also be residual information that will remain within our databases and other records, which will not be removed or changed. We also reserve the right, from time to time, to re-contact former users of the site for important administrative purposes. Finally, we are not responsible for informing third parties (including without limitation our third party service providers or strategic partners) with whom we have already shared your personally identifiable information of any changes requested pursuant to this section, or for removing information from or causing information to be removed from the databases or records of such entities.
-
-#### VI. UPDATES TO THIS PRIVACY POLICY
-
-The Kashi Company reserves the right to make changes -to this Privacy Policy. These changes will take effect immediately upon posting. For your convenience, the last revised date of the current policy will be posted at the top of this page. By continuing to use the Site following such changes, you will be deemed to have agreed to such changes. If you do not agree with the terms of this Privacy Policy, please do not continue using the Site.
-
-#### VII. GOVERNING LAW
-
-This Privacy Policy is governed by the laws of the State of Michigan, USA, without regard to its choice of law provisions.
-
-#### VIII. CONTACTING THE KASHI COMPANY
-
-If you have any questions about this Privacy Policy or the practices of this Site, you may contact:
-
-Kashi Consumer Relations  
-PO BOX 8557  
-La Jolla, CA 92038 
-
-877-7GRAINS (747-2467)
-
-Monday through Friday 5am - 4pm PT 
-
-[Contact Us](https://web.archive.org/meet_us/contact)
-
-Updated January, 2013 
