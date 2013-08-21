@@ -1,50 +1,31 @@
-> *The following text is extracted and transformed from the captcha.com privacy policy that was archived on 2011-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110902151921id_/http%3A//www.captcha.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the captcha.com privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821175305id_/http%3A//captcha.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# captcha.com Privacy Policy | captcha.com
 
-  
-**PRIVACY POLICY**
+We are committed to respecting your privacy and recognize your need for appropriate protection and management of personally identifiable information you share with us (any information by which you can be identified, such as name, address, and e-mail).
 
-Your right to privacy is very important to us. We recognize that providing us with personal information is an act of trust. Therefore, we have created a privacy policy to protect your personal information. 
+That is why Captcha, Inc has established this privacy policy, so that you can understand the care with which we intend to treat your information. Customers are very important to us and we want to know who you are, but not abuse the information you give us.
 
-**Personal Information Collected**
+Most of the captcha.com web site can be visited without telling us who you are or revealing any personal information about yourself. To protect your privacy, we have adopted the following principles: 
 
-When you visit our Web sites and access information you remain anonymous. We do not require you to register or provide personal information to us to view our site. 
+## Choice
 
-There are occasions when we will ask for additional information. We do this to better understand and respond to your needs, and provide you with services that may be valuable to you. For example, personally identifiable information will be collected in order for you to register a domain name or open a hosting account.
+There are times when we collect personal information from you. It is our intent to inform you before we do that and to tell you what we intend to do with the information. You will have the option to "opt out" of certain uses of the information.
 
-**Use of Information**
+If you choose not to provide the information we request, you can still visit most of the captcha.com Web site, but you may be unable to access certain options, offers, and services. 
 
-We will not provide any of your personal information to other organizations or third parties unless required to do so by law. We do not sell our clients' personal information to anyone.
+## Accuracy
 
-**Links to Third Party Sites**
+We do our best to maintain the accuracy of personal information you supply to us. 
 
-We provide links to third party sites. Since we do not control those websites, we encourage you to review the privacy policies posted there.
+## Commitment
 
-**Cookies**
+We are committed to privacy and will only use the information you provide us as you request. Mistakes are possible; miscommunication is possible. If you have any comments or questions regarding our privacy policy, please contact us at [**webmaster@captcha.com**](mailto:webmaster@captcha.com). We will address any issue to the best of our abilities. 
 
-"Cookies" are small files sent from a web server to your computer through your browser program. There are two types of cookies: non-persistent and persistent cookies.
+Thank you for your support of these policies and of Captcha, Inc. 
 
-A non-persistent cookie enables a website to temporarily keep information on your computer as you travel from one page to another on our site. This cookie is automatically deleted from your machine when you close your browser. Because these cookies are necessary to provide some functions, failure to allow such cookies may make some of the functions on our website unavailable to you.
+### Subscribe
 
-A persistent cookie is kept even when you close your browser. You can manually delete these cookies using commands specific to your browser and computer system. These cookies store information that would generally not change from session to session. They also contain information that would need to be reentered by you each time you visit the website. For example, we use persistent cookies to welcome our visitors to our website by displaying the date ad time of their last visit.
+  * BotDetect™ CAPTCHA New Version Releases ([RSS](http://captcha.com/feeds/botdetect_captcha_release_notes.rss "Subscribe to the BotDetect CAPTCHA New Version Releases RSS Feed"), [Atom](http://captcha.com/feeds/botdetect_captcha_release_notes.atom "Subscribe to the BotDetect CAPTCHA New Version Releases Atom Feed"))
 
-**Use of Cookies**
 
-We use cookies for various reasons and only read cookies written by our site. We do not use cookies to obtain information on other websites that you may visit. We may use cookies to store some history about the parts of our sites that you have visited to help you navigate our site more easily or to alert you to related pages on our site that may interest you.
-
-Our third party partners may be placing and reading cookies of users visiting this site to help them serve advertising and offers targeted to your surfing habits when you visit this and other websites.
-
-Our third party partners may be using web beacons or similar technologies to collect information in the course of ads being served on your site.
-
-**Managing Cookies**
-
-You have the ability to manage the use of cookies on your computer using controls in your web-browser. To learn more about how to manage cookies, visit [All About Cookies](http://www.allaboutcookies.org/).
-
-**Email**
-
-You may decide to send us personally identifying information, such as a message containing your domain name or login information for your account. We will only use this information to identify you as a client and to determine how to respond to your message. We will not use this information for any purpose other than to resolve the matter identified in your message.
-
-**Scope**
-
-The information you provide to us will also be covered by this policy. Due to the rapidly evolving technologies on the Internet, we may occasionally update this policy. All revisions will be posted to this site. A revised Privacy Policy will apply only to data collected subsequent to its effective date.
