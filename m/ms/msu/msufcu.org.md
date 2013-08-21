@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the msufcu.org privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511234518id_/https%3A//www.msufcu.org/disclosures/%3Fexpand%3Dprivacy_policy%23privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msufcu.org privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821063533id_/https%3A//www.msufcu.org/disclosures/%3Fexpand%3Dprivacy_policy%23privacy_policy) for the most accurate reproduction.*
 
 # MSU Federal Credit Union | Disclosures | Savings & Checking
 
@@ -8,7 +8,7 @@
 
 | 
 
-REV. 07/10  
+REV. 09/12  
   
 ---|---|---  
   
@@ -26,7 +26,7 @@ REV. 07/10
 
 | 
 
-> Financial companies choose how they share your personal informatiom. Federal law gives consumers the right to limit some, but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.  
+> Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some, but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.  
   
 > **What?**
 
@@ -133,7 +133,8 @@ REV. 07/10
 | 
 
   * Call 517-333-2424 or 800-678-4968 - our member service representatives will assist you in your opt-out preference.
-  * Visit us online: www.msufcu.org, login to your ComputerLine account, select the E-Services Menu and click "eMessage Board" to leave a secure message for our staff. 
+  * Visit us online: www.msufcu.org, login to your account via ComputerLine, select the  
+“Messages” option at the top of your screen and leave a secure message.
 
 **Please note:**
 
