@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the distancelearning.edu.in privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425200159id_/http%3A//distancelearning.edu.in/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the distancelearning.edu.in privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821132926id_/http%3A//www.distancelearning.edu.in/privacy-policy.php) for the most accurate reproduction.*
 
-# Distance Learning Programs - Services
+# Distance Learning India - Privacy Policy
 
 Privacy **Policy**
 
