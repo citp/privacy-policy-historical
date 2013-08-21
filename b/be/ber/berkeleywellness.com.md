@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the berkeleywellness.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511043914id_/http%3A//www.berkeleywellness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the berkeleywellness.com privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821161540id_/http%3A//www.berkeleywellness.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Berkeley Wellness
 
-BerkeleyWellness.com is part of the Remedy Health Media family  The following Privacy Policy applies to all the health sites that Remedy Health Media publishes.
+August 21, 2013
+
+BerkeleyWellness.com is part of the Remedy Health Media family The following Privacy Policy applies to all the health sites that Remedy Health Media publishes.
 
 This Privacy Policy was last modified and is effective as of December 6, 2011. Remedy Health Media, LLC Privacy Policy Remedy Health Media, LLC (“RHM”) operates a network of healthcare and fitness-­‐related websites (individually, a “Site”; collectively, the “Sites”).
 
@@ -12,7 +14,7 @@ This is the official privacy policy for all RHM Sites and this Privacy Policy fo
 
 PLEASE READ THIS PRIVACY POLICY CAREFULLY AS IT DESCRIBES HOW WE COLLECT AND USE INFORMATION COLLECTED ABOUT YOU ONLINE AND UNDER WHAT CIRCUMSTANCES WE SHARE INFORMATION ABOUT YOU. Any terms not defined in this Privacy Policy are defined in the Terms of Use.
 
-**1\. CHANGES TO PRIVACY POLICY.   **We reserve the right, in our sole discretion, to modify, add or delete provisions of this Privacy Policy at any time and from time to time by updating or revising this posting and such revisions shall take effect as of the date of posting. Your use of any of our Sites after the effective date of any such modification, means you accept and agree to be bound by the Privacy Policy, as modified. You should come back to this web page and review this Privacy Policy regularly so that you remain aware of the terms and conditions that apply to you.
+**1\. CHANGES TO PRIVACY POLICY.** We reserve the right, in our sole discretion, to modify, add or delete provisions of this Privacy Policy at any time and from time to time by updating or revising this posting and such revisions shall take effect as of the date of posting. Your use of any of our Sites after the effective date of any such modification, means you accept and agree to be bound by the Privacy Policy, as modified. You should come back to this web page and review this Privacy Policy regularly so that you remain aware of the terms and conditions that apply to you.
 
 **2\. NON-­‐PERSONAL INFORMATION COLLECTED AND HOW COLLECTED.** When you access or visit any of our Sites, we and our operational service providers (as defined in the “Disclosure to Third Parties” section below) and others who host our Sites often use technology that can recognize, collect and/or transmit information that is associated with you, but which do not personally identify you. Although the term "cookie" specifically refers to a small text file that is stored on a user's computer for record-­‐ keeping purposes, for the purposes of this Privacy Policy, we will use the term "cookie" to refer generically to any technology that can recognize, collect and/or transmit information about your visits to our Sites. This type of information includes such data as the Internet or web domain that referred you, the type of operating system and browser you are using, the date and time of your visit, data relating to activities on our Sites (e.g., so-­‐called 'clickstream' data) and other technological attributes about your visit to the Sites. This information is used to analyze trends, administer the Sites, track user movements on the Sites and gather aggregate demographic information about visitors so we can continually improve our Sites.
 
@@ -36,7 +38,7 @@ If we or any of our Sites collect, maintain, use or intend to share your Persona
 
 We always have the right to disclose your Personal Information to any Third Party we engage for the purpose of administering, operating, configuring site design, maintaining and providing internal support for our Sites and Content on the Sites. These Third Parties are called "operational service providers" and provide internal support to operations and activities and for Website design, development, hosting and operations. We always requests that our operational service providers protect your privacy and not disclose your Personal Information to third party marketers that are not associated with our Sites, nor are they permitted to use your Personal Information for their own marketing or promotional purposes.
 
-We also reserve the right to make your Personal Information available to Third Parties:
+We also reserve the right to make your Personal Information available to Third Parties: 
 
   * when compelled by a governmental agency, law, regulation, a court or other legal process;
   * if we believe you are, have or may violate any law, regulation, or our Terms of Use;
@@ -46,7 +48,7 @@ We also reserve the right to make your Personal Information available to Third P
 
 
 
-**9\. REMOVAL OF YOUR INFORMATION/OPTING OUT.   **At your request, RHM will remove Personal Information that you have provided to us. You may do so by emailing [privacy@remedyhealthmedia.com](mailto:privacy@remedyhealthmedia.com). Some of our Sites may permit you to opt-­‐out of certain Voluntary Communications for which you have registered or subscribed to receive (such as newsletters) and promotional Automatic Communications. RHM also provides users the option to opt-­‐out from receiving Voluntary Communications sent by RHM on behalf of third party advertisers. Users may unsubscribe from receiving Voluntary Communications and promotional Automatic Communications from us at any time by following the instructions contained at the end of every email. Note, where RHM has provided your Personal Information to third parties, as permitted in our Privacy Policy, we cannot control the use of that information by such third parties.
+**9\. REMOVAL OF YOUR INFORMATION/OPTING OUT.** At your request, RHM will remove Personal Information that you have provided to us. You may do so by emailing [privacy@remedyhealthmedia.com](mailto:privacy@remedyhealthmedia.com). Some of our Sites may permit you to opt-­‐out of certain Voluntary Communications for which you have registered or subscribed to receive (such as newsletters) and promotional Automatic Communications. RHM also provides users the option to opt-­‐out from receiving Voluntary Communications sent by RHM on behalf of third party advertisers. Users may unsubscribe from receiving Voluntary Communications and promotional Automatic Communications from us at any time by following the instructions contained at the end of every email. Note, where RHM has provided your Personal Information to third parties, as permitted in our Privacy Policy, we cannot control the use of that information by such third parties.
 
 Please note, you might continue to receive emails from us for up to ten (10) days following your unsubscribing. If, after that point, you are still receiving email from us, please contact us at [privacy@remedyhealthmedia.com](mailto:privacy@remedyhealthmedia.com).
 
@@ -58,7 +60,7 @@ Please note, you might continue to receive emails from us for up to ten (10) day
 
 To request such information, either send an email to our designated Privacy Administrator at [privacy@remedyhealthmedia.com](mailto:privacy@remedyhealthmedia.com) or contact us via postal mail, proper postage prepaid, at: Privacy Administrator Remedy Health Media, LLC 500 5th Avenue, 19th Floor New York, NY 10110 Attn: Your California Privacy Rights
 
-All requests sent via postal mail must be labeled "Your California Privacy Rights" on the envelope or post card and clearly stated on the actual request. For all requests, please include your name, street address, city, state, and zip code. (Your street address is optional if you wish to receive a response to your request via email. Please include your zip code for our own recordkeeping.)We will not accept requests via the telephone or by facsimile. We are not responsible for notices that are not labeled or sent properly, or do not have complete information. 
+All requests sent via postal mail must be labeled "Your California Privacy Rights" on the envelope or post card and clearly stated on the actual request. For all requests, please include your name, street address, city, state, and zip code. (Your street address is optional if you wish to receive a response to your request via email. Please include your zip code for our own recordkeeping.)We will not accept requests via the telephone or by facsimile. We are not responsible for notices that are not labeled or sent properly, or do not have complete information.
 
 **13\. CONTACT US.** If you have any questions about this Privacy Policy, please contact us at: [privacy@remedyhealthmedia.com](mailto:privacy@remedyhealthmedia.com).
 
