@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the samlearning.com privacy policy that was archived on 2013-05-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130511002318id_/https%3A//www.samlearning.com/about-us/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the samlearning.com privacy policy that was archived on 2013-08-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130821075747id_/https%3A//www.samlearning.com/about-us/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US" class="no-js"><head profile="http://gmpg.org/xfn/11">
 	<link rel="shortcut icon" href="https://static.samlearning.com/platform/theme/secondary/icons/favicon.ico" type="image/x-icon">
@@ -25,7 +25,7 @@
     window.slGACode="UA-21911009-1";
     //]]>
     </script>
-    <script type="text/javascript" src="https://static.samlearning.com/library/jQuery/jquery.js/31355.jquery.js"></script>
+    <script type="text/javascript" src="https://static.samlearning.com/library/jQuery/jquery.js/32340.jquery.js"></script>
     <script type="text/javascript" src="https://static.samlearning.com/library/jQuery/jquery.validate.js/29701.jquery.validate.js"></script>
     <script type="text/javascript" src="https://static.samlearning.com/platform/application/content/js/flash-preamble.js/21723.flash-preamble.js"></script>
     <script type="text/javascript" src="https://static.samlearning.com/library/jQuery/jquery.corner.js/19148.jquery.corner.js"></script>
@@ -78,8 +78,6 @@
             $(document).ready(function(){
                 $("#login").focus();
 
-                //added fix for IE6 problem with focus
-                setTimeout(function() { document.getElementById('login').focus(); }, 1000);
                 //browser detect
                 var dataBrowser = [
                                    {
@@ -151,6 +149,7 @@
                     if (index == -1) return;
                     return parseFloat(dataString.substring(index+versionSearchString.length+1));
                 }
+
                 function searchString(data) {
                     for (var i=0;i<data.length;i++) {
                         var dataString = data[i].string;
@@ -169,10 +168,26 @@
                     }
                 }
 
+                function is_mobile(){
+                    var agent = navigator.userAgent.toLowerCase();
+                    var agents = ['android', 'webos', 'iphone', 'ipad', 'ipod', 'blackberry', 'opera mini',
+                                    'opera mobi', 'iemobile', 'symbian', 'symbian', 'windows ce', 'series60',
+                                    'series40', 'midp-2.0', 'midp-2.1', 'mmp/2.0', 'tablet', 'mobile'];
+                    for(i in agents) {
+                        if(agent.indexOf(agents[i]) != -1) {
+                            return true;
+                        }
+                    }
+                    return false;
+                }
+
 
                 var browserInfo = searchString(dataBrowser) || "An unknown browser";
                 browserInfo += ', res:' + screen.width + 'x' + screen.height;
-                browserInfo += ', flash:' + FlashDetect.major + '.' + FlashDetect.minor + '.' + FlashDetect.revision;
+
+                //if (!is_mobile()) {
+                   browserInfo += ', flash:' + FlashDetect.major + '.' + FlashDetect.minor + '.' + FlashDetect.revision;
+                //}
 
                 var result,centerIdValue;
                 result = new RegExp("centerCode" + "=[^;]+", "i");
@@ -265,6 +280,7 @@
 
                 var browserVer = jQuery.browser.version;
                 var matchVer = false;
+                var cookieOff = false;
 
                 //added fix to correct detect chrome browser - jQuery thought that Chrome is Safari
                 jQuery.browser = {
@@ -276,7 +292,7 @@
                         mozilla: /mozilla/.test( userAgent ) && !/(compatible|webkit)/.test( userAgent )
                 };
 
-                if (jQuery.browser.msie && (version_compare(browserVer, "7.0") >= 0)) {
+                if (jQuery.browser.msie && (version_compare(browserVer, "8.0") >= 0)) {
                     matchVer = true;
                 }
 
@@ -288,11 +304,21 @@
                     matchVer = true;
                 }
 
-                if (!rightSWFVer || !matchVer || (screen.width < 1024)) {
+                /*if(is_mobile()){
+                    rightSWFVer = true;
+                    matchVer = true;
+                }*/
+
+                document.cookie="testCookie=1";
+                if(document.cookie.indexOf("testCookie") >= 0) {
+                  cookieOff = true;
+                }
+
+                if (!rightSWFVer || !matchVer || (screen.width < 1024) || !cookieOff) {
                     location.href = "/website/incompatible/index/postLoginUri/https%3A%2F%2Fplatform.samlearning.com/browserInfo/" + browserInfo;
                 } else {
                                     
-                    location.href = "https://platform.samlearning.com";
+                    window.location.href = "https://platform.samlearning.com";
 
                                     
                 }
@@ -306,6 +332,7 @@
 
                 var browserVer = jQuery.browser.version;
                 var matchVer = false;
+                var cookieOff = false;
 
                 //added fix to correct detect chrome browser - jQuery thought that Chrome is Safari
                 jQuery.browser = {
@@ -317,7 +344,7 @@
                         mozilla: /mozilla/.test( userAgent ) && !/(compatible|webkit)/.test( userAgent )
                 };
 
-                if (jQuery.browser.msie && (version_compare(browserVer, "7.0") >= 0)) {
+                if (jQuery.browser.msie && (version_compare(browserVer, "8.0") >= 0)) {
                     matchVer = true;
                 }
 
@@ -329,11 +356,21 @@
                     matchVer = true;
                 }
 
-                if (!rightSWFVer || !matchVer || (screen.width < 1024)) {
+                /*if(is_mobile()){
+                    rightSWFVer = true;
+                    matchVer = true;
+                }*/
+
+                document.cookie="testCookie=1";
+                if(document.cookie.indexOf("testCookie") >= 0) {
+                  cookieOff = true;
+                }
+
+                if (!rightSWFVer || !matchVer || (screen.width < 1024) || !cookieOff) {
                     location.href = "/website/incompatible/index/postLoginUri/https%3A%2F%2Fplatform.samlearning.com/browserInfo/" + browserInfo;
                 } else {
                                     
-                    location.href = "https://platform.samlearning.com";
+                    window.location.href = "https://platform.samlearning.com";
 
                                     
                 }
@@ -380,9 +417,9 @@
             }
         </script>
 
-        <div id="divError"></div>
-        <form id="authForm" method="POST" action="/">
-        <div class="divForm">
+        <div id="divError" class="clearfix"></div>
+        <form id="authForm" class="clearfix" method="POST" action="/">
+        <div class="divForm clearfix">
             <div class="formLine" style="margin-bottom:5px">
                 <div class="labelForLogin">Centre ID&nbsp;</div>
                 <div style="float:left;">
@@ -407,15 +444,18 @@
                 <div style="clear:both"></div>
             </div>
 
+            <div class="cantLogin">
+                <div class="labelForLogin">
+                    &nbsp;                </div>
+            <a href="#" onclick="return passwordReminderDialog('/website/password-reminder-wizard/ajax-cant-login-menu',
+                                                           'passwordReminderDiv', null, 550)">
+                Can't log in?            </a>
+            </div>
+
             <div id="submitDiv">
                 <div class="labelForLogin">
                     &nbsp;                </div>
                 <input type="submit" class="buttonMedium" id="submit" name="submit" value="Sign in" tabindex="4">
-            </div>
-            <div class="cantLogin">
-            <a href="#" onclick="return passwordReminderDialog('/website/password-reminder-wizard/ajax-cant-login-menu',
-                                                           'passwordReminderDiv', null, 550)">
-                Can't log in?            </a>
             </div>
         </div>
 
