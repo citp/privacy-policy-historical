@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the motivationalwellbeing.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629050056id_/http%3A//www.motivationalwellbeing.com/legal.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motivationalwellbeing.com privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821153918id_/http%3A//www.motivationalwellbeing.com/legal.html) for the most accurate reproduction.*
 
-# Legal Disclaimer | Privacy Policy | Copyright Info - MotivationalWellBeing.com
+# Legal Disclaimer | Privacy Policy | Copyright Info - MotivationalWellBeing
 
   * Legal Disclaimer
   * User Submitted Content Ownership
