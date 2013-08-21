@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fertilethoughts.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515150332id_/http%3A//www.fertilethoughts.com/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fertilethoughts.com privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821212510id_/http%3A//www.fertilethoughts.com/privacy_policy.shtml) for the most accurate reproduction.*
 
 # FertileThoughts.com - The World's Largest Fertility Community
 
