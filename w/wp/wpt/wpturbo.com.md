@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpturbo.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623010313id_/http%3A//wpturbo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpturbo.com privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822230443id_/http%3A//wpturbo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | WPTurbo
 
@@ -8,7 +8,7 @@ This is the Privacy Policy for WPTurbo.com
 
 #### Who we Are
 
-In this privacy policy references to “we”, “us” and “our” are to Kooc Media Ltd. References to “our Website” or “the Website” are to wpturbo.com
+In this privacy policy references to ?we?, ?us? and ?our? are to CGF Media Ltd. References to ?our Website? or ?the Website? are to wpturbo.com
 
 #### What information we collect and how
 
@@ -22,7 +22,7 @@ The information we collect via the Website may include.
 
 4\. Your IP Address, this is a string of numbers unique to your computer that is recorded by our web server when you request any page or component on the Website. This information is used to monitor your usage of the Website.
 
-5\. Data recorded by the Website which allows us to recognise you and your preferred settings, this saves you from re-entering information on return visits to the site. Such data is recorded locally on you computer through the use of cookies. Most browsers can be programmed to reject, or warn you before downloading cookies, information regarding this may be found in your browsers ‘help’ facility.
+5\. Data recorded by the Website which allows us to recognise you and your preferred settings, this saves you from re-entering information on return visits to the site. Such data is recorded locally on you computer through the use of cookies. Most browsers can be programmed to reject, or warn you before downloading cookies, information regarding this may be found in your browsers ?help? facility.
 
 #### What we do with your information
 
