@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the martjack.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623022441id_/http%3A//martjack.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the martjack.com privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822172058id_/http%3A//martjack.com/privacypolicy.html) for the most accurate reproduction.*
 
 # MartJack Privacy Policy - MartJack.com Multi Channel Retailing Solution Provider
 
