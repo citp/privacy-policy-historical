@@ -1,84 +1,113 @@
-> *The following text is extracted and transformed from the ukash.com privacy policy that was archived on 2008-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081007175356id_/http%3A//www.ukash.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukash.com privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822082410id_/https%3A//www.ukash.com/en-GB/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Our Privacy, Data and Cookie Policy | Ukash | GB
 
-**Ukash Privacy Policy – as at 15 November 2006**
+Smart Voucher Ltd. trading as Ukash ("We") are committed to protecting and respecting your privacy.  
+This policy (together with our terms of use and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.  
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is Smart Voucher Ltd. of The Counting House, 3rd floor, 53 Tooley Street, London, SE1 2QN, UK.
 
-This Privacy Policy applies to the Website of Smart Voucher Ltd. (of which Ukash is a trading name), at [www.ukash.com](http://www.ukash.com/). This privacy policy explains the data processing practices of UK Ukash.com.
+### Information We May Collect from You
 
-Your privacy is important to us. By using Ukash or registering, you expressly consent to our use and disclosure of your personal data in the manner described in this Privacy Policy. If you have any requests concerning your personal data or any queries with regard to these practices, please contact us via email at [privacy-uk@ukash.com](mailto:privacy-uk@ukash.com)
-
-**1\. Notification of Changes**  
-This policy may be updated as new features and benefits are added to Ukash or as we adapt based upon suggestions from our customers. If we are going to use or disclose your personally identifiable information in a manner materially different from that stated at the time we collected the information,[ you will be informed of such a change and] you will have a choice as to whether or not we use or disclose your information in this new manner. The amended Privacy Policy will be posted on this Website at [www.ukash.com](http://www.ukash.com/) so that you can always review what information we gather, how we might use that information, and whether we will disclose it to anyone.
-
-Several pages on the Ukash website include links to third party websites. For instance, if you click on an advertisement or merchant logos on this site. These sites are governed by their own privacy statements, and Ukash is not responsible for their operations, including but not limited to their information practices. Users submitting information to or through these third party Websites should review the privacy statement of these sites before providing them with personally identifiable information.
-
-**2\. A Special Note About Children**  
-If you are under 16 years of age and do not understand the information set out in this Privacy Policy, please ask a responsible adult to explain it to you before you give us your details.
-
-**3\. Information We Collect**
-
-**Personal Data**  
-Personal data is collected when you provide personal data to this site, for example when registering for the newsletter and other Ukash / Smart Voucher Limited services, sending an email to the site through the use of enquiry forms and registering for competitions.
-
- We use this personal data to:
-
-  * improve the content of our site 
-  * unless you have objected, provide you with information about other products and services we offer that may interest you 
-  * provide you with a more personalized service 
-  * conduct market research 
-  * run competitions and promotions 
-  * facilitate communication between yourself and others 
-  * allow us to send you, via e-mail, telephone, SMS and post, special offers and promotions 
-  * share aggregated information with third parties (such as our merchant partners) for both advertising and promotional purposes 
-  * retain your data for security administration, legal and maintenance purposes 
+We may collect and process the following data about you:  
 
 
-
-**Aggregated Information:**   
-Aggregated information is also collected automatically when you visit our site. This information, which includes demographic data and browsing patterns, is collected via the use of cookies (see below). 
-
-**Website Traffic Information:**  
-Because of the way that World Wide Web communication standards work, when you arrive at or leave the Ukash website, we automatically receive the Web address of the site that you came from or are going to. We also collect information on which pages of our Website you visit while you are on the Ukash site, the type of browser you use and the times you access our Website. We use this information only to try to understand our customers' preferences better and to manage the load on our servers, so as to improve our service and your experience with Ukash. We do not track the Websites that you visit before or after you leave the Ukash site.
-
-**Our Use of "Cookies"**  
-A ‘cookie’ is a small file that is stored on your computer and allows us to recognize you as a Ukash customer if you return to the Ukash website using the same computer and browser. We send a ‘session cookie’ to you computer if and when you log in as a customer or merchant. Most browsers will usually allow you to change the setting of your browser so that it does not accept cookies but if you do this please be aware that the site will not operate properly. You may visit [www.allaboutcookies.org ](http://www.allaboutcookies.org/)if you would like to learn more about cookies and how to turn them off.
-
-Overall cookies help us to improve the quality of our web site, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. We know that people have concerns about cookies, but we believe that the benefit we both gain from their proper use is worthwhile and will benefit our end users.
-
-You may set your web browser (Microsoft Internet Explorer or Netscape navigator) to notify you of cookie placement requests or decline cookies completely. You can delete the files that contain cookies - those files are stored as part of your internet browser.
-
-**Customer Service Correspondence**  
-If you send us correspondence, including emails and faxes, we retain such information in our customer records. We will also retain customer service correspondence and other correspondence from Ukash to you. We retain these records in order to measure and improve our customer service, and to investigate potential fraud and violations of our User Agreement. We may, over time, delete these records if permitted by law. 
-
-**Questionnaires, Surveys, Polls and Profile Data**  
-From time to time, we offer optional questionnaires, surveys and polls to our users for such purposes as collecting demographic information or assessing users' interests and needs. The use of the information collected will be explained in detail in the survey itself. If we collect personally identifiable information from our users in these questionnaires and surveys, the users will be given notice of how the information will be used prior to their participation in the survey or questionnaire.
-
-**4\. Our Use and Disclosure of Information Disclosure to Third Parties**  
-Ukash will not sell or rent any of your personally identifiable information to third parties. Ukash will not share any of your personally identifiable information with third parties except in the limited circumstances described below, or with your express permission. These pre-screened third parties are limited by law or by contract from using the information for secondary purposes beyond the purposes for which the information is shared.
-
-  * We disclose the information we collect, as described above in Section 3, to companies that perform marketing services on our behalf. These companies are subject to confidentiality agreements with us and other legal restrictions that prohibit using the information except to market the specified Ukash related products or services, unless you have affirmatively agreed or given your prior permission for other uses. 
-  * With your permission, we may also share personal data collected on the site with pre-screened third parties for marketing or promotional purposes. We will provide users with an opportunity to decline this service when such information is requested from you online. 
-  * Personal data may also be shared only as necessary with third parties who provide technical services to the site, or host proportions of the site, who will not share of otherwise disseminate this information other than as necessary to perform these services. 
-  * We disclose information in response to requirements of civil or criminal legal process. 
-  * When a user signs up for our co-branded merchant partner promotions through links on merchant promotions pages, Ukash will share with the co-branded merchant partner that user's name, email address and physical address in order to provide enhanced integration between Ukash’ services and the services of our co-branded merchant partner. If a user does not want his or her information shared with Ukash's co-branded merchant partner, he or she should not use this aspect of the site. 
-  * We share aggregated statistical data with our business partners or for public relations. For example, we may disclose that a specific percentage of our users live in the UK. However, this aggregated information is not tied to personal data. 
-  * We share your information with our parent, subsidiaries and joint ventures to help coordinate the services we provide to you, enforce our terms and conditions, and promote trust and safety. 
-  * If you are a winner of a competition, your name and town may be posted on this site. 
-
-
-
-**4\. Our Contact with Ukash Customers and Merchants**  
-We communicate with users on a regular basis via email to provide requested services, and we also communicate by phone to resolve customer complaints or enquiries. We may use your email address to send you information about important changes to our products and services, and to send notices and other disclosures required by law. Generally, users cannot opt out of these communications, but they will be primarily informational in nature rather than promotional.
-
-We also use your email address to send you other types of communications that you can control, including a Ukash newsletter, customer surveys and notice of special third-party promotions. You can choose whether to receive some, all or none of these communications when you complete the email registration process, or at any time thereafter, by emailing us at [optout-uk@ukash.com](mailto:optout-uk@ukash.com)
-
-**5\. Data Protection**  
-Smart Voucher Ltd. (of which Ukash is a trading name) is authorised and regulated by the Financial Services Authority in the United Kingdom as an electronic money institution. Smart Voucher Ltd. (trading as Ukash) FSA Register Number: 447811.
-
-USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO THE TERMS OF USE AND PRIVACY POLICY
-
-We reserve the right to change this policy at any time by posting a revised privacy policy here.
+  * Information that you provide by filling in forms on our site www.ukash.com (our site). This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. We may also ask you for information when you report a problem with our site.
+  * If you contact us, we may keep a record of that correspondence.
+  * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
+  * Details of transactions you carry out through our site and of the fulfillment of your orders.
+  * Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
 
   
 
+
+### Website Traffic Information
+
+Because of the way that World Wide Web communication standards work, when you arrive at or leave the Ukash website, we automatically receive the Web address of the site that you came from or are going to. We also collect information on which pages of our Website you visit while you are on the Ukash site, the type of browser you use and the times you access our Website. We use this information only to try to understand our customers' preferences better and to manage the load on our servers, so as to improve our service and your experience with Ukash. 
+
+### Customer Service Correspondence
+
+If you send us correspondence, including emails and faxes, we retain such information in our customer records. We will also retain customer service correspondence and other correspondence from Ukash to you. We retain these records in order to measure and improve our customer service, and to investigate potential fraud and violations of our User Agreement. We may, over time, delete these records if permitted by law.
+
+### IP Addresses and Cookies
+
+  
+We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.  
+For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalised service. They enable us:  
+
+
+  * To estimate our audience size and usage pattern.
+  * To store information about your preferences, and so allow us to customise our site according to your individual interests.
+  * To speed up your searches.
+  * To recognise you when you return to our site.
+  * You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site.
+  * Please note that our advertisers may also use cookies, over which we have no control.
+
+  
+
+
+### Where We Store Your Personal Data
+
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfillment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.  
+All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.  
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+
+### Uses Made of the Information
+
+  
+We use information held about you in the following ways:  
+
+
+  * To ensure that content from our site is presented in the most effective manner for you and for your computer.
+  * To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.
+  * To carry out our obligations arising from any contracts entered into between you and us.
+  * To allow you to participate in interactive features of our service, when you choose to do so.
+  * To notify you about changes to our service.
+  * To conduct market research.
+  * Facilitate communication between yourself and others.
+  * Run competitions and promotions.
+  * Allow us to send you, via e-mail, telephone, SMS and post, the latest news and offers.
+  * Retain your data for security administration, legal and maintenance purposes.
+  * For fraud prevention purposes or to prevent a suspected illegal action.
+
+
+
+We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by post or telephone.  
+If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you.  
+If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this.  
+If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data (the order form or registration form).  
+We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in SW1). We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience.
+
+### Disclosure of Your Information
+
+  
+We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 736 of the UK Companies Act 1985.  
+We may disclose your personal information to third parties:  
+
+
+  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
+  * If Smart Voucher Ltd. or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our Terms and Conditions of supply and other agreements; or to protect the rights, property, or safety of Smart Voucher Ltd., our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+
+  
+
+
+### Your Rights
+
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [privacy@ukash.com](mailto:privacy@ukash.com).  
+Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+
+### Access to Information
+
+The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee to meet our costs in providing you with details of the information we hold about you.
+
+### Changes to Our Privacy Policy
+
+Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
+
+### Contact
+
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [privacy@ukash.com](mailto:privacy@ukash.com).
+
+### Children under 16 years of age
+
+If you are under 16 years of age and do not understand the information set out in this Privacy Policy, please ask a responsible adult to explain it to you before you give us your details.
