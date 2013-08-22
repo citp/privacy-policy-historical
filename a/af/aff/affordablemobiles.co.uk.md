@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affordablemobiles.co.uk privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615041239id_/http%3A//www.affordablemobiles.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affordablemobiles.co.uk privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822093853id_/http%3A//www.affordablemobiles.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Affordable Mobiles Privacy Policy
 
@@ -52,9 +52,7 @@ If you have any comments regarding our website or our privacy policies, then ple
   
 [](https://web.archive.org/about/#/whychooseus) [](https://web.archive.org/about/#/freedelivery) [](https://web.archive.org/about/#/awards)
 
-[](https://web.archive.org/contract-mobile-phones/view-all-3-network.html) [](https://web.archive.org/contract-mobile-phones/view-all-t-mobile-network.html)
-
-[](https://web.archive.org/mobile-phone-upgrades.html)
+[](https://web.archive.org/what-mobile-awards.html) [](https://web.archive.org/mobile-phone-upgrades.html) [](https://web.archive.org/contract-mobile-phones/view-all-3-network.html) [](https://web.archive.org/contract-mobile-phones/view-all-t-mobile-network.html)
 
 ### Testimonials
 
