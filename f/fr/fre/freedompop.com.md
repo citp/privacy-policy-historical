@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freedompop.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605130202id_/http%3A//www.freedompop.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedompop.com privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822171035id_/http%3A//www.freedompop.com/privacy.htm) for the most accurate reproduction.*
 
 # Free Wireless Internet | Free Internet | 4G Wireless Internet - FreedomPop
 
@@ -104,7 +104,7 @@ Our company is located in the United States. You may be located in a country tha
 
   13. ### CONTACTING FREEDOMPOP
 
-If you have questions about this Policy, please contact us at privacy@FreedomPop.com or by writing to us at: FreedomPop, Inc., Attn: Privacy Matters 18757 Burbank Blvd., Ste 116, Tarzana, CA 91356
+If you have questions about this Policy, please contact us at privacy@FreedomPop.com or by writing to us at: FreedomPop, Inc., Attn: Privacy Matters, 11301 W Olympic Blvd Ste 112, Los Angeles, CA 90064-1652 
 
 
 
