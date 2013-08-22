@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the classiccars.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513164943id_/http%3A//classiccars.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classiccars.com privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822055433id_/http%3A//classiccars.com/legal.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Legal
+
+Back to top
 
 **Our Commitment to Your Privacy**  
 Your privacy is important to us. This Privacy Policy explains our online information practices and the choices you can make about the way your information is collected and used. We believe that a full disclosure of our privacy policy is essential to our success and to your ongoing patronage. To make this Privacy Policy easy to find, we make it available on our home page and at every point where personally identifiable information may be voluntarily supplied or requested. 
@@ -129,3 +131,122 @@ We reserve the right to modify this Privacy Policy at any time, so please review
 
 **Contact Us**  
 If you have any questions or suggestions regarding our privacy policy, please contact us using our "Contact Us" page and mention our privacy policy in your inquiry. 
+
+Back to top
+
+Welcome to ClassicCars.com! By accessing this website (the "Site"), you agree to be bound by the Terms and Conditions appearing in this document. Please read the following terms and conditions carefully. Your use of the services provided by the Site or any of its subsidiaries (the "Service") is specifically conditioned upon your agreement to the Terms and Conditions contained in this Terms and Conditions Agreement (the "Agreement"). By using the Service, you are agreeing to all of the terms contained in this Agreement. 
+
+**Definitions**  
+Throughout this Agreement, the words "we," "us," "our", and "ours" refer to Collector Car Network, Inc. an Arizona corporation, its officers, employees, consultants, and subsidiaries. The words "you," "your," and "yours" refer to you, a user of the Service. 
+
+**Modifications to Agreement**  
+We may at any time, and without notice, modify, update, or otherwise change the terms of this Agreement, and you agree to be bound by such changes. Accordingly, we encourage you to visit the Site from time to time to review the current Terms and Conditions. 
+
+**Ownership**  
+Any and all intellectual property rights associated with the Service and the Network and its affiliates—including without limitation any inventive concepts, know-how, publicity rights, trademarks, trade dress, trade secrets, and copyrights—are the sole property of Collector Car Network, Inc., and may not be copied, reproduced, modified, uploaded, transmitted, or distributed in any way without our written permission. Except as provided herein, we do not grant to you any express or implied rights to our intellectual property. Any rights associated with content that is transmitted, downloaded, or otherwise processed by the Service shall be retained by the content owner, if any, and may be protected by applicable copyright, trademark, or other laws. For the purposes of this Agreement, the term "Content" refers to any of the various information, files, data, and media types which can be sent, received, or processed by the Service in accordance with a variety of protocols, including, without limitation, text, graphics, video, audio, streaming media, e-mail, chat, HTML, instant messaging, and the like. This Agreement gives you no rights in and to such Content. To the extent that you own any rights in Content that you provide to us, you hereby grant to us a non-exclusive, irrevocable, royalty-free, paid-up license to use, copy, publish, distribute, publicly perform, publicly display, create derivative works or otherwise exploit any Content that is provided during your use of the Service. 
+
+"Drive Your Dream" is a service mark of Collector Car Network, Inc. "Safe-n-Secure" is a trademark of Collector Car Network, Inc. No license to use or reproduce these marks or other marks on the Service is given or implied. All other brands and product names are the trademarks of their respective owners. 
+
+**Termination**  
+You agree that we, in our sole discretion, may terminate your use of and access to all or a portion of the Service, and remove and discard any Content within the Service, for any reason, including, without limitation, for lack of use, or if we believe that you have violated this Agreement. You agree that any termination of your access to the Service may be effected without prior notice, and acknowledge and agree that we may immediately deactivate or delete your account and all related information, Content, or other files in your account and/or prevent any further access to such files or the Service. Further, you agree that we shall not be liable to you or any third party as a result of our termination of your access to the Service. 
+
+**Acceptable Use**  
+In consideration for your use of the Service, you agree to provide true, current, accurate, and complete information about yourself as requested, and to update such information as may be necessary to keep it true, current, accurate, and complete. You agree that you will use the Service in a manner that complies with all applicable laws, and you acknowledge that you are solely responsible for any Content that you upload, download, transmit or otherwise process using the Service. 
+
+You explicitly agree not to:  
+
+
+  * Transmit any data, text, video, audio, software, or other Content that is offensive, obscene, pornographic, inflammatory, harassing, threatening, tortious, invasive of another's privacy, abusive, hateful, defamatory, harmful to minors, or is otherwise objectionable;
+  * Transmit any Content that infringes any patent, trademark, copyright, rights of publicity, or other intellectual property right;
+  * Transmit any Content that violates any applicable local, state, national, or international law that could give rise to civil or criminal liability;
+  * Transmit any unsolicited promotional Content, advertising materials, "spam," chain letters, unauthorized links to other websites, or other such solicitation;
+  * Use the Service to publicly broadcast, transmit, or display Content for "pay-per-download" or other commercial purposes;
+  * Transmit any Content that solicits purchase of any product or service, unless that solicitation has been paid for by you and explicitly approved in writing by us;
+  * Use the Service to transmit Content that includes any virus, worm, Trojan horse, sniffer, or other code designed to acquire information about other users or disrupt the functionality or availability of any computer program, database, the Service or any other Internet host;
+  * Disguise your identity by spoofing, forging headers, using third-party relayers, or otherwise obscuring the origin of transmitted Content, including impersonating another person or entity;
+  * Use any robot, spider or other automatic or manual device or process to interfere or attempt to interfere with the proper working of the Service, nor act as a conduit for others to affect the same result; or
+  * Use the Service with the intent to defraud us, any user of the Service, or any other party, including, but not limited to, using the Service to solicit sales fraudulently or using the Service to engage another party in a fraudulent transaction.
+
+
+
+**No Liability**  
+We assume no responsibility for Content downloaded, uploaded, stored, or otherwise processed by the Service. Accordingly, if you choose to use the Service, you do so at your own risk. For example, you acknowledge that: 
+
+  * Any Content you transmit will be treated by us as not being confidential to you, except as noted in the Privacy Policy;
+  * You are aware of the limitations of security, authentication, encryption, and privacy measures used in connection with the Internet, including the Service, and that any Content you store or transmit may be damaged, corrupted, "sniffed" and/or accessed by another person without your permission; we cannot and will not guarantee the security of any of the Content stored or transmitted by the Service; and
+  * You may be subjected to email, instant messages, video, and other Content which is pornographic, defamatory, hateful, or otherwise objectionable to you.
+
+
+
+IN NO EVENT SHALL WE BE LIABLE FOR ANY DAMAGES, INCLUDING, WITHOUT LIMITATION, DIRECT, SPECIAL, CONSEQUENTIAL, INDIRECT, EXEMPLARY OR PUNITIVE DAMAGES (INCLUDING, WITHOUT LIMITATION, LOSS OF PROFITS, BUSINESS INTERRUPTION, CORRUPTION OF CONTENT, AND LOSS OR INACCURACY OF INFORMATION), ARISING OUT OF THE USE OR INABILITY TO USE THE SERVICE OR SOFTWARE, WHETHER OR NOT SUCH DAMAGES WERE FORESEEABLE AND EVEN IF WE WERE ADVISED THAT SUCH DAMAGES WERE LIKELY OR POSSIBLE. 
+
+Errors in Content, including, but not limited to, description, photography, or typographical errors, are subject to correction at our sole discretion. 
+
+**Third Parties**  
+Parties other than us and our subsidiaries may operate stores, provide services, or sell product lines on the Service. Additionally, the Service may offer links to the websites of affiliated companies and certain other businesses. We shall not be responsible for examining or evaluating, and do not warrant the offerings of, any of these businesses or individuals or the content of their respective websites. We assume no responsibility or liability for the actions, product, and content of all these and any other third parties. You explicitly agree to carefully review their privacy statements and other conditions of use. 
+
+**Electronic Communications**  
+By using the Service or by communicating with us electronically via email, instant messenger, or by other means, you consent to receive communications from us electronically. You agree that all agreements, notices, disclosures, and other communications that we provide to you electronically satisfy any legal requirement that such communications be in writing. 
+
+**Product and Service Descriptions**  
+We attempt to be as accurate as possible with respect to product and service descriptions. However, we do not warrant that product and service descriptions or other Content of the Service is accurate, complete, reliable, current, or error-free. If a product or service offered by us itself is not as described, your sole remedy is to return it in unused condition subject to the terms of our Refund Policy. 
+
+**No Warranty**  
+THE SERVICE COVERED UNDER THIS AGREEMENT IS PROVIDED "AS-IS" AND "AS-AVAILABLE" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. SOME JURISDICTIONS DO NOT ALLOW OR OTHERWISE GOVERN THE SCOPE OF EXCLUSIONS OF IMPLIED WARRANTIES, SO THE ABOVE EXCLUSIONS MAY NOT APPLY IN FULL. WE AND OUR AFFILIATES DO NOT WARRANT THAT YOUR USE OF THE SERVICE WILL BE UNINTERRUPTED, ERROR-FREE OR VIRUS-FREE. 
+
+**Indemnity**  
+You agree to indemnify and hold us and our vendors, service providers, subsidiaries, affiliates, officers, agents, co-branders or other partners, and employees, harmless from any claim or demand, including reasonable attorneys' fees, made by any third party due to or arising out of your use of the Service, any Content you submit, transmit, or download through the Service, or any violation of this Agreement or the rights of others. 
+
+**Modifications to Service**  
+We reserve the right at any time to modify, correct, or discontinue, temporarily or permanently, the Service (or any part thereof) with or without notice. We may also change your priority of access to the Service with respect to other users. We make no commitment to update the information provided by the Service. 
+
+**Disclosure of Content**  
+Although we have no obligation to monitor the Content of our users, we reserve the right to monitor, retain, delete and/or disclose your Content if required to do so by law or in a good faith belief that such disclosure is reasonably necessary to comply with legal requirements, respond to claims that any Content violates the rights of third parties, or protect our rights, property, or personal safety, or that of our users, or of the public. 
+
+**Privacy Policy**  
+For detailed information regarding our use of registration data and other user information, please read our Privacy Policy. 
+
+**Miscellaneous**  
+This Agreement shall constitute the complete and exclusive agreement between you and us. While we reserve the right to modify this Agreement at any time, the terms and conditions contained in this Agreement may not be modified by you unless both you and a representative authorized by us execute a separate written agreement. If any provision of this Agreement is held to be unenforceable for any reason, such provision shall be reformed only to the extent necessary to make it enforceable, and such decision shall not affect the enforceability of such provision or of the remaining provisions of this Agreement. This Agreement shall be subject to and construed in accordance with the laws of the State of Arizona, without regard to conflicts of law provisions, and you hereby consent to the exclusive jurisdiction of the state and federal courts residing in the State of Arizona. Any and all unresolved disputes arising under this Agreement shall be submitted to arbitration in the State of Arizona. The arbitration shall be conducted under the rules then prevailing of the American Arbitration Association. The arbitrator's award shall be binding and may be entered as a judgment in any court of competent jurisdiction. Notwithstanding the foregoing, we may obtain equitable relief in any court to protect our intellectual property. 
+
+Back to top
+
+By placing an order for a vehicle listing (the “Listing”), you agree to be bound by the terms and conditions appearing in this Listing Agreement. Please read the following terms and conditions carefully. Your use of the services provided by ClassicCars.com (the "Service") is specifically conditioned upon your agreement to the terms and conditions contained in this Listing Agreement (the "Agreement"). By using the Service, you are agreeing to all of the terms contained in this Agreement. 
+
+**Definitions**  
+Throughout this Agreement, the words "we," "us," "our", and "ours" refer to Collector Car Network, Inc., an Arizona corporation, its officers, employees, consultants, and subsidiaries. The words "you," "your," and "yours" refer to you, a user of the Service who has, will have, or has in the past created a Listing on ClassicCars.com. 
+
+**Modifications to Agreement**  
+We may at any time, and without notice, modify, update, or otherwise change the terms of this Agreement, and you agree to be bound by such changes. Accordingly, we encourage you to visit ClassicCars.com from time to time to review the current Listing Agreement. 
+
+**Approval by ClassicCars.com**  
+Your Listing is subject to review and approval by us, and we reserve the right to edit, modify, and/or cancel, at our sole discretion, your Listing, in part or in whole, if we determine that it is in violation of any terms of this Agreement. Availability of your Listing on the Service is not an indicator of approval; only a confirmation email message from us indicating initial approval constitutes evidence of approval. You may change most elements of your listing, such as photos, description, and vehicle details, at any time; however, any changes you make to your Listing are also subject to approval by us. 
+
+**Cancellation of Listing**  
+Your Listing stays online until you notify us that your vehicle has been sold or is otherwise no longer available for sale. However, out of concern for the quality and timeliness of the Service for all users, we reserve the right to cancel your Listing on your behalf if we have reason to believe that you have abandoned your Listing (for example, you have not logged into your account or have failed to respond to repeated requests via email over a period of six [6] months or more). 
+
+**Renewal of Featured Listing**  
+If you purchase a Featured Listing upgrade, you understand that Featured Listing status expires at the end of the purchased term unless you renew it in advance. 
+
+**Private Parties Only**  
+ClassicCars.com Premium Vehicle Listings are intended for use by private parties for the purpose of offering one (1) vehicle for sale. All dealerships must open a dealer account. 
+
+**Acceptable Listing Content**  
+Your Listing must offer one (1) vehicle for sale. Your listing must not contain any inappropriate content as defined herein. You explicitly agree not to: 
+
+  * Use offensive, pornographic, or defamatory language or photographs
+  * Include photographs, graphics, email addresses, website addresses, URLs, hyperlinks, HTML markup, or any other content other than plain text in your Listing, with the sole exception of your Listing's photographs
+  * Offer or make reference to more than one vehicle per listing
+  * Offer parts, accessories, or services individually or separately from the vehicle offered in the Listing
+  * Modify the year, make, or model of the Listing once it has been approved by us
+
+
+
+**Limitations of Responsibility**  
+You explicitly agree that you, the seller, are wholly responsible for the successful sale of your vehicle. There is no guarantee that your vehicle will be sold or that prospective buyers will contact you. Furthermore, it is entirely your responsibility to exercise all due caution in executing transactions with any party; we make no representations as to the identity, trustworthiness, creditworthiness, or truthfulness of any prospective buyers. We are not responsible for email messages lost in transit, nor for those rejected or redirected by spam filters. Messages from member accounts identified by our internal anti-fraud systems as being at high risk for fraud may not be delivered. 
+
+**Refund Policy**  
+Due to the nature of the services we provide, we cannot provide refunds; all sales are final. 
+
+**Applicability of Terms and Conditions**  
+Your Listing is subject to the ClassicCars.com Privacy Policy and to the terms and conditions described in the ClassicCars.com Terms and Conditions Agreement, both of which are hereby incorporated by reference. 
