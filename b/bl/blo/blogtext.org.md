@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogtext.org privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115115812id_/http%3A//blogtext.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogtext.org privacy policy that was archived on 2013-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130823003205id_/http%3A//blogtext.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
