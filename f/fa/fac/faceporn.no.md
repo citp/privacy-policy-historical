@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faceporn.no privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530182012id_/http%3A//www.faceporn.no/legal/docs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faceporn.no privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822041621id_/http%3A//www.faceporn.no/legal/docs/privacy) for the most accurate reproduction.*
 
 # Faceporn.no | Legal
 
