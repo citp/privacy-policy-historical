@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datingadvice.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615141950id_/http%3A//www.datingadvice.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datingadvice.com privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822031642id_/http%3A//www.datingadvice.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | DatingAdvice.com
 
