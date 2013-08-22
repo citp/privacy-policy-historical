@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forex.com.pk privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622233218id_/http%3A//www.forex.com.pk/PrivacyStatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forex.com.pk privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822151030id_/http%3A//www.forex.com.pk/PrivacyStatement.htm) for the most accurate reproduction.*
 
 # Privacy Statement of Forex.com.pk - Online Foreign Exchange Trading & Forex Rates in Pakistan
 
