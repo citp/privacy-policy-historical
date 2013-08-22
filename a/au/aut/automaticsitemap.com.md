@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the automaticsitemap.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512033237id_/https%3A//www.attracta.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automaticsitemap.com privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822092910id_/https%3A//www.attracta.com/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
