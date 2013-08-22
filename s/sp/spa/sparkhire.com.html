@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the sparkhire.com privacy policy that was archived on 2013-05-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130511024712id_/https%3A//www.sparkhire.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sparkhire.com privacy policy that was archived on 2013-08-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130822031420id_/https%3A//www.sparkhire.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
-  	<meta charset="utf-8">
+<!DOCTYPE html><html><!--<![endif]--><head>
+    <meta charset="utf-8">
     <title>Privacy and Security Policy - Spark Hire</title>
 
     <!-- Description -->
@@ -20,7 +20,9 @@
     <!-- Bootstrap -->
     <link href="/theme/css/bootstrap.css" rel="stylesheet" media="screen">
     <!--<link href="/theme/css/bootstrap-responsive.css" rel="stylesheet" media="screen">-->
+    <link href="/theme/css/default.css" rel="stylesheet" media="screen">
     <link href="/theme/css/override.css" rel="stylesheet" media="screen">
+
 
      <!-- Fonts -->
     <link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700,900" rel="stylesheet" type="text/css">
@@ -34,8 +36,8 @@
     <script src="//d15qhc0lu1ghnk.cloudfront.net/beacon.js" async=""></script><script type="text/javascript" async="" src="//commondatastorage.googleapis.com/code.snapengage.com/js/8ff94bb0-4fe5-43c7-8b1d-a97ad4b76483.js"></script><script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 
     <script type="text/javascript">
-      if (typeof jQuery == 'undefined') {
-          document.write(unescape("%3Cscript src='/theme/js/jquery-1.9.1.min.js' type='text/javascript'%3E%3C/script%3E"));
+      if (typeof jQuery === 'undefined') {
+		  document.write(unescape("%3Cscript src='/theme/js/jquery-1.9.1.min.js' type='text/javascript'%3E%3C/script%3E"));
       }
     </script><script src="/theme/js/jquery-1.9.1.min.js" type="text/javascript"></script>
 
@@ -45,10 +47,11 @@
 
     <!--[if lt IE 9]>
     <script src="/theme/js/html5shiv.js"></script>
+    <script src="/theme/js/respond.min.js"></script>
     <![endif]-->
 
     <!--[if IE]>
-    	<link rel="stylesheet" type="text/css" href="/theme/css/if-ie.css" />
+      <link rel="stylesheet" type="text/css" href="/theme/css/if-ie.css" />
     <![endif]-->
 
 
@@ -97,21 +100,34 @@
       a.attachEvent("onload",d)})(window,document);
     </script>
 
-	  <script type="text/javascript" src="/include/template/js/shire.js"></script>
+    <script type="text/javascript" src="/include/template/js/shire.js"></script>
+
+    <script type="text/javascript" src="/include/template/js/flashchromefix.js"></script>
 
   </head>
   <body>
 
-<article class="container-fluid">
-  <nav class="navbar navbar-fixed-top navbar-trans">
+  <noscript>
+	  <div class="alert alert-error" style="padding-top:80px;">Spark Hire requires JavaScript. <a href="https://www.google.com/search?&q=enable+javascript" target="_blank">Click here</a> to learn how to turn on JavaScript.</div>
+  </noscript>
+
+<div id="jsNotificationBar"></div>
+<div id="requestloading"></div>
+<div id="requestloadingbg"></div>
+
+<article>
+  <nav class="navbar navbar-trans" id="staticHeader">
     <div class="navbar-inner">
       <a class="brand logo-blue" href="/"><h1>Spark Hire</h1></a>
-      <ul class="nav pull-right">
+      <ul class="nav pull-right clearfix">
         <li>
           <a href="/employer">Employers</a>
         </li>
         <li>
           <a href="/job-seeker-features">Job Seekers</a>
+        </li>
+        <li>
+        	<a href="/staffing">Staffing</a>
         </li>
         <li>
           <a href="/pricing">Pricing</a>
@@ -160,7 +176,7 @@
 	    		    	<p>2.1.2 PII does not include any information that, by itself, could not identify you as a particular individual or entity. </p>
 	    		    	<p>2.1.3 PII also does not include raw data that becomes aggregated for statistical purposes and cannot, thereafter, be identified with you as a unique individual or entity. </p>
 	    		    	<p>2.1.4 Spark Hire does consider your Internet Protocol (“IP”) address to be PII and will treat it as such. </p>
-	    		    	<p><strong>.2 Information Collected</strong> </p>     
+	    		    	<p><strong>2.2 Information Collected</strong> </p>     
 	    		    	<p>2.2.1 Spark Hire collects information that is considered PII and other information that, by itself, would not be considered personally identifiable information (“Non-PII”). </p>
 	    		    	<p>2.2.2 When you create an account and register for services provided through our Website (“Website Services”) and/or our Apps (“App Services”) (collectively, “Spark Hire Services”), we collect information submitted by you including, but not limited to, your username, your full name, company name (if applicable), email address, zip code, and primary industry.  We use this information to identify our customers and send notifications related to the use of our Website, Website Services, Apps, App Services, and/or Spark Hire Services.  We reserve the right to request additional information from you. </p>
 	    		    	<p><strong>2.3 Collecting and Using Personally Identifiable Information</strong></p>            
@@ -178,21 +194,21 @@
 	    		    	<p>2.3.7 We shall not sell your PII in the normal course of business operations.  Should all or any part of Spark Hire’s business operations be sold, this paragraph shall not restrict the transfer of your PII as part of the Website sold to a third party. </p>
 	    		    	<p>2.3.8 We may also use the PII you provide in registering with and using Spark Hire to inform you by electronic mail, phone, text or other communication method of additional products and services about which you might be interested, which may include our periodic e-newsletters and other promotional communications from Spark Hire. </p>
 	    		    	<p><strong>2.4 Disclosing Personal Information</strong></p>                                                                                                   
-	    		    	<p><strong>2.4.1 We do not share PII we obtain from your use of our Apps, Website, and/or Spark Hire Services with others except as described in this Privacy Policy and the <a href="/terms">Terms of Service.</a></strong></p>
+	    		    	<p><strong>2.4.1 We do not share PII we obtain from your use of our Apps, Website, and/or Spark Hire Services with others except as described in this Privacy Policy and the <a href="/terms">Terms of Use.</a></strong></p>
 	    		    	<p><u>General</u>.</p><p>
 	    		    	</p><p>2.4.2.1 Spark Hire may use PII in the normal course of providing the Spark Hire Services; to operate or improve the Apps, Website and/or Spark Hire Services; to outsource certain services to Strategic Partners; to complete a transaction that has been requested; to develop aggregate information; and/or as otherwise disclosed to you. </p>
 	    		    	<p>2.4.2.2 Spark Hire may provide PII to other persons where (a) we have your consent; (b) the disclosure is necessary to complete a transaction requested; (c) we have obtained information from a third party (presuming that you have previously provided such consent to any such third party from whom Spark Hire obtains such information); (d) we are required or permitted to do so by law; (e) the Apps, Website and/or Spark Hire Services are used in a manner that violates the Terms of Use or uses for purposes other than those for which they were specifically intended; and/or (f) the terms of this Privacy and Security Policy and/or the Terms of Use otherwise permit and/or provide for such disclosure. </p>
 	    		    	<p>2.4.3 <u>Strategic Partners</u>.  Spark Hire may employ, engage or retain certain trusted third parties (“Strategic Partners”) to perform functions and/or provide services on its behalf.  Spark Hire will share PII with these Strategic Partners only to the extent necessary to perform the functions and/or provide the services for which they have been employed, engaged or retained.  Spark Hire shall also secure contractual obligations from our Strategic Partners to maintain the privacy and security of the PII shared with them. </p>
 	    		    	<p>2.4.4 <u>Business Transfers</u>.  Spark Hire reserves the right to sell, transfer or otherwise share some or all of its assets, including PII, in connection with a sale of assets; a merger, acquisition, or reorganization; or, filing for bankruptcy. You will have the opportunity to opt out of any such transfer if the planned processing of your information by the purchaser differs materially from that set forth in this Privacy and Security Policy. </p>
 	    		    	<p>2.4.5 <u>Legal Compliance</u>.  Spark Hire may disclose any information about you and/or Content created by you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to: (1) comply with an order from a court of competent jurisdiction, regulatory agency, and/or other governmental authority; (2) respond to claims, court orders, or other legal process (including subpoenas); (3) to enforce the terms of this and other Spark Hire agreements as well as to protect the property and rights of Spark Hire, its Strategic Partners or other third parties; (4) to protect, in Spark Hire’s sole discretion, the public or any person from harm; (5) to investigate, prevent, stop, or take other action regarding any action perceived to be fraudulent, illegal, unethical, or legally actionable in Spark Hire’s sole discretion; and/or, generally, (6) to comply with the law. </p>
-	    		    	      <p>4.4.6 <u>Notice</u>. Unless restricted from doing so, Spark Hire will attempt to notify you before it releases any of your PII or Content pursuant to (1) and (2) in paragraph 2.4.5 only.  In such cases, Spark Hire will also provide you with general information on how you may seek to block such a release of information and/or direct you to resources that can provide such general information.  The provision of such general information to you is not and should not be construed as providing you with legal advice.  Additionally, Spark Hire is under no other obligation to assist you in challenging or opposing a release of your information </p>
+	    		    	<p>2.4.6 <u>Notice</u>. Unless restricted from doing so, Spark Hire will attempt to notify you before it releases any of your PII or Content pursuant to (1) and (2) in paragraph 2.4.5 only.  In such cases, Spark Hire will also provide you with general information on how you may seek to block such a release of information and/or direct you to resources that can provide such general information.  The provision of such general information to you is not and should not be construed as providing you with legal advice.  Additionally, Spark Hire is under no other obligation to assist you in challenging or opposing a release of your information </p>
 	    		    	<p><strong>2.5 Non-Personally Identifiable Information </strong> </p>
 	    		    	<p>2.5.1 In addition to collecting PII as previously described, Spark Hire also collects other non-PII. </p>
 	    		    		<p>2.5.2 Non-PII collected by Spark Hire may be utilized without restriction. </p>
 	    		    	<p>2.5.3 Although non-PII can be used in a number of ways, you can be assured that the use of the non-PII cannot identify you as a particular individual. </p>
 	    		    	<p>2.5.4 Because non-PII cannot be used to identify you, Spark Hire may in its discretion provide non-PII to other persons or entities. </p>
 	    		    	<p><strong>Information Obtained From Use of Spark Hire’ Websites </strong> </p>
-	    		    	<p>2.6. Cookies</p>
+	    		    	<p><strong>2.6. Cookies</strong></p>
 	    		    	<p>2.6.1. Cookies can be defined as bits of data stored on your computer that allow website(s) to identify your browser and session. </p>
 	    		    	<p>4.6.1.2. If you reject all cookies, you may not be able to use the Website Services or products that require you to “sign in” and you may not be able to take full advantage of all offerings. </p>
 	    		    	<p>2.6.1.3. Most browsers allow you to configure it to accept all cookies, reject all cookies, or notify you when a cookie is set. </p>
@@ -203,23 +219,39 @@
 	    		    	<p>D. Conduct research to improve the content and services provided on the Spark Hire Website. </p>
 	    		    	<p>2.6.1.5. Many of our strategic partners may use Cookies.  Spark Hire maintains no control over the use of Cookies by our strategic partners and third-party advertisers.  For information on how these third parties utilize Cookies collected, you should examine their respective privacy policies. </p>
 	    		    	<p>2.6.1.6. Most web browser’s automatically accept and collect Cookies.  Depending upon your web browser’s security settings, you may have the ability to reject all cookies. </p>
-	    		    	<p>2.6.2. Browser and Session Information</p>
+	    		    	
+	    		    	<p>2.6.2.	Google AdWords Marketing</p>
+	    		    	<p>2.6.2.1.	Spark Hire may use, from time to time, Google Adwords marketing campaigns to promote its products and services.  In particular, Spark Hire intends to use Google AdWords “Remarketing” campaigns.  </p>
+	    		    	<p>2.6.2.2.	In using Google Adwords marketing campaigns, Google will place a cookie on your computer when you visit Spark Hire’s website(s).  As you leave Spark Hire’s website(s), this cookie will later enable banners and other materials to appear through which you can return to Spark Hire’s website(s).</p>
+	    		    	<p>2.6.2.3.	The foregoing being said, through the use of any Google AdWords marketing campaign, Spark Hire:</p>
+	    		    	<p>A.	SHALL NOT run an interest-based advertising campaign that collects PII;</p>
+	    		    	<p>B.	SHALL NOT use or associate PII with remarketing lists, cookies, data feeds, or other anonymous identifiers;</p>
+	    		    	<p>C.	SHALL NOT use or associate targeting information, such as demographics or location, with any PII collected from any Google AdWords ad or landing page associated with it;</p>
+	    		    	<p>D.	SHALL NOT target children under the age of 13 through any Google AdWords campaign;</p>
+	    		    	<p>E.	SHALL NOT share any PII with Google through Spark Hire’s remarketing tag or any product data feeds which might be associated with Spark Hire’s ads;</p>
+	    		    	<p>F.	SHALL NOT, when creating a remarketing list, use any sensitive information (as defined by Google), or products associated with such sensitive information, about visitors to Spark Hire’s Website(s), any of its Webpages, or Apps, whether Spark Hire collected it directly or associated it with a visitor, based on the visitor's profile or behavior on Spark Hire’s website(s), webpages, and/or through its Apps; </p>
+	    		    	<p>G.	SHALL NOT create a remarketing list or ad that seeks to reach people through prohibited methods; and,</p>
+	    		    	<p>H.	SHALL NOT create or produce ad content that implies knowledge of PII or sensitive information.</p>
+	    		    	<p>2.6.2.4.	Spark Hire has no objection to Google providing notice or labels to disclose interest-based advertising to its users.</p>
+	    		    	<p>2.6.2.5.	Spark Hire has no objection to Google displaying to its users the remarketing lists, including those of Spark Hire, upon which they appear.</p>
+	    		    	<p>2.6.2.6.	For your protection, Google will not disclose Spark Hire remarketing lists or other similar audience lists to another advertiser without Spark Hire’s consent.  At this time, Spark Hire shall not permit such disclosures. </p>
+	    		    	<p>2.6.3. Browser and Session Information</p>	
 	    		    	<p>Spark Hire may collect information about your browser and session at the Website and/or using the Website Services. </p>
-	    		    	<p>2.6.3. IP Addresses</p>
-	    		    	<p>2.6.3.1. Spark Hire maintains a log of Internet Protocol (IP) addresses when any corporate owned computers, servers, and/or websites (including, the Website) have been accessed.  An IP address by itself does not allow us to collect additional PII about you. </p>
-	    		    	<p>2.6.3.2. IP addresses may be used for various purposes, including to: </p>
+	    		    	<p>2.6.4. IP Addresses</p>
+	    		    	<p>2.6.4.1. Spark Hire maintains a log of Internet Protocol (IP) addresses when any corporate owned computers, servers, and/or websites (including, the Website) have been accessed.  An IP address by itself does not allow us to collect additional PII about you. </p>
+	    		    	<p>2.6.4.2. IP addresses may be used for various purposes, including to: </p>
 	    		    	<p>A. Diagnose and prevent service or technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP; </p>
 	    		    	<p>B. Estimate the total number of users visiting a Spark Hire computer, server and/or website from specific geographical regions. </p>
 	    		    	<p>C. Help determine which users have access privileges to certain content, services or resources offered; and, </p>
 	    		    	<p>D. Monitor and prevent fraud and abuse. </p>
-	    		    	<p>2.6.3.3. OTHER THAN YOUR IP ADDRESS, SPARK HIRE DOES NOT DIRECTLY COLLECT ANY PERSONALLY IDENTIFIABLE INFORMATION ABOUT YOU UNLESS YOU VOLUNTARILY PROVIDE US WITH THIS INFORMATION. </p>
+	    		    	<p>2.6.4.3. OTHER THAN YOUR IP ADDRESS, SPARK HIRE DOES NOT DIRECTLY COLLECT ANY PERSONALLY IDENTIFIABLE INFORMATION ABOUT YOU UNLESS YOU VOLUNTARILY PROVIDE US WITH THIS INFORMATION. </p>
 	    		    	<p><strong>2.7 Data Retention</strong></p>                                                                                                                        
-	    		    	<p><strong>2.7.1.</strong> Spark Hire shall use commercially reasonable efforts to maintain storage information subject to the terms of this Privacy and Security Policy and the Terms of Use. </p>
-	    		    	<p><strong>2.7.2.</strong> The length of time for which Spark Hire retains PII and other information will vary depending on the nature of the services for which the information has been collected and the nature of the information. </p>
-	    		    	<p><strong>2.7.3.</strong> Although this period may extend beyond the end of your relationship with Spark Hire, it will be retained for only so long as necessary for Spark Hire to respond to any issues arising from your relationship with Spark Hire. </p>
-	    		    	<p><strong>2.7.4.</strong> When Spark Hire no longer needs or requires your personal information, Spark Hire will destroy, delete, erase or convert information to an anonymous form without notice to you. </p>
-	    		    	<p><strong>2.7.5.</strong> Depending on the package of services purchased, Spark Hire may delete information including, but not limited to, stored messages, interviews, videos, audio, other content, and records of your account without notice to you.  Spark Hire recommends that you back up on your own computer any critical and important information prior to allowing your Spark Hire Services to terminate or expire. </p>
-	    		    	<p><strong>2.7.6.</strong> Should your account be terminated, Spark Hire may immediately and permanently delete all stored messages, interviews, videos, audio, other content, and records of your account without notice to you. </p>
+	    		    	<p>2.7.1. Spark Hire shall use commercially reasonable efforts to maintain storage information subject to the terms of this Privacy and Security Policy and the Terms of Use. </p>
+	    		    	<p>2.7.2. The length of time for which Spark Hire retains PII and other information will vary depending on the nature of the services for which the information has been collected and the nature of the information. </p>
+	    		    	<p>2.7.3. Although this period may extend beyond the end of your relationship with Spark Hire, it will be retained for only so long as necessary for Spark Hire to respond to any issues arising from your relationship with Spark Hire. </p>
+	    		    	<p>2.7.4. When Spark Hire no longer needs or requires your personal information, Spark Hire will destroy, delete, erase or convert information to an anonymous form without notice to you. </p>
+	    		    	<p>2.7.5. Depending on the package of services purchased, Spark Hire may delete information including, but not limited to, stored messages, interviews, videos, audio, other content, and records of your account without notice to you.  Spark Hire recommends that you back up on your own computer any critical and important information prior to allowing your Spark Hire Services to terminate or expire. </p>
+	    		    	<p>2.7.6. Should your account be terminated, Spark Hire may immediately and permanently delete all stored messages, interviews, videos, audio, other content, and records of your account without notice to you. </p>
 	    		    	<p><strong>3. CONSENT </strong> </p>
 	    		    	<p><strong>3.1.</strong> Spark Hire may obtain personal information about you through a variety of sources.  For each source or method, the manner of consent may differ. </p>
 	    		    	<p><strong>3.2.</strong> In general, Spark Hire operates on an “Opt-out” basis.  That is, Spark Hire presumes that by using its Apps and/or accessing its Website you have read this <em>Privacy and Security Policy</em> and Spark Hire’s <em>Terms of Use</em>.  Moreover, by providing the personal information requested (both personally identifiable and non-personally identifiable), you have consented to its use by Spark Hire for the stated purposes. </p>
@@ -283,20 +315,20 @@
 	  
 	  
   </section>
-  <section class="row-fluid" id="connected">
-    <div class="sec-inner">
-      <div class="span3"><h3>Stay Connected</h3></div>
-      <div class="span9 connected-list">
-        <a href="http://facebook.com/sparkhire" target="_blank"><img src="/theme/img/footer-fb.png" alt="" target="_blank"><span>Facebook</span></a>
-        <a href="http://twitter.com/sparkhire" target="_blank"><img src="/theme/img/footer-tw.png" alt="" target="_blank"><span>Twitter</span></a>
-        <a href="https://plus.google.com/109817336697746147113" target="_blank"><img src="/theme/img/footer-google.png" alt="" target="_blank"><span>Google +</span></a>
-        <a href="http://youtube.com/sparkhire" target="_blank"><img src="/theme/img/footer-youtube.png" alt="" target="_blank"><span>YouTube</span></a>
-        <a href="http://pinterest.com/sparkhire" target="_blank"><img src="/theme/img/footer-pinterest.png" alt="" target="_blank"><span>Pinterest</span></a>
-      </div>
+<section class="row-fluid" id="connected">
+  <div class="sec-inner  clearfix">
+    <div class="span3"><h3>Stay Connected</h3></div>
+    <div class="span9 connected-list">
+      <a href="http://facebook.com/sparkhire" target="_blank"><img src="/theme/img/footer-fb.png" alt="" target="_blank"><span>Facebook</span></a>
+      <a href="http://twitter.com/sparkhire" target="_blank"><img src="/theme/img/footer-tw.png" alt="" target="_blank"><span>Twitter</span></a>
+      <a href="https://plus.google.com/109817336697746147113" target="_blank"><img src="/theme/img/footer-google.png" alt="" target="_blank"><span>Google +</span></a>
+      <a href="http://youtube.com/sparkhire" target="_blank"><img src="/theme/img/footer-youtube.png" alt="" target="_blank"><span>YouTube</span></a>
+      <a href="http://pinterest.com/sparkhire" target="_blank"><img src="/theme/img/footer-pinterest.png" alt="" target="_blank"><span>Pinterest</span></a>
     </div>
-  </section>
+  </div>
+</section>
 
-  <footer id="mainFooter" class="row-fluid">
+  <footer id="mainFooter">
     <div class="sec-inner">
       <div class="row-fluid">
 
@@ -305,83 +337,100 @@
           <h2>Call Us: 800-219-0480</h2>
         </div>
 
-        <div class="row-fluid">
-          <div class="span6">
-            <div class="row-fluid">
-              <div class="span4 footerSiteMap">
-                <h4>Company</h4>
-                <ul class="unstyled">
-                  <li><a href="/">Home</a></li>
-                  <li><a href="/about">About Us</a></li>
-                  <li><a href="/contact">Contact Us</a></li>
-                  <li><a href="/press">Press</a></li>
-                  <li><a href="/terms">Terms of Service</a></li>
-                  <li><a href="/privacy">Privacy Policy</a></li>
-                </ul>
-              </div>
-              <div class="span4 footerSiteMap">
-                <h4>Site</h4>
-                <ul class="unstyled">
-                  <li><a href="/request-a-demo">Demo</a></li>
-                  <li><a href="/pricing">Pricing</a></li>
-                  <li><a href="/mobile-app">Mobile App</a></li>
-                  <li><a href="/jobs">Featured Jobs</a></li>
-                  <li><a href="/login">Log In</a></li>
-                  <li><a href="/welcome">Sign Up</a></li>
-                </ul>
-              </div>
-              <div class="span4 footerSiteMap">
-                <h4>Resources</h4>
-                <ul class="unstyled">
-                  <li><a href="http://hr.sparkhire.com" target="_blank">Human Resources Blog</a></li>
-                  <li><a href="http://blog.sparkhire.com" target="_blank">Job Seeker Blog</a></li>
-                  <li><a href="http://resources.sparkhire.com/free-video-interviewing-ebook/" target="_blank">Video Interviewing eBook</a></li>
-                  <li><a href="/video-interviews">Video Interviews</a></li>
-                  <li><a href="/video-resumes">Video Resumes</a></li>
-                  <li><a href="http://help.sparkhire.com">Helpdesk</a></li>
-                </ul>
-              </div>
+        <div class="span6">
+          <div class="row-fluid">
+            <div class="span4 footerSiteMap">
+              <h4>Company</h4>
+              <ul class="unstyled">
+                <li><a href="/">Home</a></li>
+                <li><a href="/about">About Us</a></li>
+                <li><a href="/contact">Contact Us</a></li>
+                <li><a href="/press">Press</a></li>
+                <li><a href="/terms">Terms of Use</a></li>
+                <li><a href="/privacy">Privacy Policy</a></li>
+              </ul>
+            </div>
+            <div class="span4 footerSiteMap">
+              <h4>Site</h4>
+              <ul class="unstyled">
+                <li><a href="/request-a-demo">Demo</a></li>
+                <li><a href="/pricing">Pricing</a></li>
+                <li><a href="/mobile-app">Mobile App</a></li>
+                <li><a href="/staffing">Staffing</a></li>
+                <li><a href="/login">Log In</a></li>
+                <li><a href="/welcome">Sign Up</a></li>
+              </ul>
+            </div>
+            <div class="span4 footerSiteMap">
+              <h4>Resources</h4>
+              <ul class="unstyled">
+                <li><a href="http://hr.sparkhire.com" target="_blank">Human Resources Blog</a></li>
+                <li><a href="http://blog.sparkhire.com" target="_blank">Job Seeker Blog</a></li>
+                <li><a href="http://resources.sparkhire.com/free-video-interviewing-ebook/" target="_blank">Video Interviewing eBook</a></li>
+                <li><a href="/video-interviews">Video Interviews</a></li>
+                <li><a href="/video-resumes">Video Resumes</a></li>
+                <li><a href="http://help.sparkhire.com">Helpdesk</a></li>
+              </ul>
             </div>
           </div>
         </div>
-
-
-        <div class="row-fluid footerCopywrite">
-          <div class="span6">© Copyright 2013. Spark Hire, Inc. All rights reserved.</div>
+        <div class="footerCopywrite">
+          <div>© Copyright 2013. Spark Hire, Inc. All rights reserved.</div>
         </div>
       </div>
     </div>
   </footer>
+
 </article>
 
 
   <script src="/theme/js/bootstrap.min.js"></script>
 
-
-  
-
   <!-- begin SnapEngage code -->
   <script type="text/javascript">
-  (function() {
-  var se = document.createElement('script'); se.type = 'text/javascript'; se.async = true;
-  se.src = '//commondatastorage.googleapis.com/code.snapengage.com/js/8ff94bb0-4fe5-43c7-8b1d-a97ad4b76483.js';
-  var done = false;
-  se.onload = se.onreadystatechange = function() {
-  if (!done&&(!this.readyState||this.readyState==='loaded'||this.readyState==='complete')) {
-  done = true;
-  // >>>>>>> Place your SnapEngage API code here <<<<<<<
-  //SnapEngage.openProactiveChat(true, true); // Example: open the proactive chat on load
-  }
-  };
-  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(se, s);
-  })();
+    (function() {
+    var se = document.createElement('script'); se.type = 'text/javascript'; se.async = true;
+    se.src = '//commondatastorage.googleapis.com/code.snapengage.com/js/8ff94bb0-4fe5-43c7-8b1d-a97ad4b76483.js';
+    var done = false;
+    se.onload = se.onreadystatechange = function() {
+    if (!done&&(!this.readyState||this.readyState==='loaded'||this.readyState==='complete')) {
+    done = true;
+    // >>>>>>> Place your SnapEngage API code here <<<<<<<
+    //SnapEngage.openProactiveChat(true, true); // Example: open the proactive chat on load
+    }
+    };
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(se, s);
+    })();
   </script>
   <!-- end SnapEngage code -->
 
   <script src="/include/jquery/jquery.html5-placeholder-shim_external.js"></script>
-  <script>
-	  $(function() {
-		  $.placeholder.shim();
-	  });
-  </script>
+
+<!-- Google Code for Main List -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 954062825;
+var google_conversion_label = "K7ReCIfahAYQ6a_3xgM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<div style="display:none;">
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+</div>
+<noscript>
+<div style="display:none;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/954062825/?value=0&amp;label=K7ReCIfahAYQ6a_3xgM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+
+
+
+
+
+
+
 </body></html>
