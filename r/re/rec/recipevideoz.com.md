@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the recipevideoz.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523132950id_/http%3A//www.recipevideoz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recipevideoz.com privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822121757id_/http%3A//www.recipevideoz.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy at RecipeVideoz
-
-##  Privacy 
 
 This privacy policy sets out how RecipeVideoz; uses and protects any information that you give while using www.RecipeVideoz.com
 
