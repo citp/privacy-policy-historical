@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the degreesforrns.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523031231id_/http%3A//degreesforrns.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the degreesforrns.com privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822111527id_/http%3A//www.degreesforrns.com/privacy_policy.asp) for the most accurate reproduction.*
 
-# DegreesForRNs.com
+# Degrees For RNs
 
 ## Company Practices Regarding Your Privacy
 
