@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lookyoungforever.org privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425121214id_/http%3A//www.lookyoungforever.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lookyoungforever.org privacy policy that was archived on 2013-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130823015009id_/http%3A//www.lookyoungforever.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Looking Young Forever
 
