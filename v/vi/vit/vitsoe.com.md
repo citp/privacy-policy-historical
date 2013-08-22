@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vitsoe.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531054922id_/https%3A//www.vitsoe.com/gb/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitsoe.com privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822091423id_/https%3A//www.vitsoe.com/gb/privacy) for the most accurate reproduction.*
 
 # Vitsœ | Privacy policy
 
