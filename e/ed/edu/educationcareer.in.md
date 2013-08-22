@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the educationcareer.in privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430125919id_/http%3A//educationcareer.in/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educationcareer.in privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822165409id_/http%3A//educationcareer.in/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
