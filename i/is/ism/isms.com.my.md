@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the isms.com.my privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513120612id_/http%3A//www.isms.com.my/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isms.com.my privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822125000id_/http%3A//www.isms.com.my/policy.php) for the most accurate reproduction.*
 
-# Find out more about iSMS detail rates
+# Bulk SMS Malaysia Policy
 
 MobiWeb respects your privacy. Across our business, we will only collect, store or use your personal information for specific purposes. We use your information to support and enhance our relationship with you, for example to process your purchase, provide service and support, and share product, service and company news and offerings with you, or for other legitimate reasons described by law. We do not sell your personal information. We only share your personal data outside MobiWeb with your consent, as required by law, or with companies that help MobiWeb fulfill its obligations with you, and then, only with partners who share MobiWeb's commitment to protecting your privacy and data. At any time you may contact MobiWeb with any questions or concerns you may have with respect to this privacy policy. You may also ask at any time to be informed about the personal data that MobiWeb holds about you and request, as appropriate, correction or deletion. Our goal is to ensure the highest levels of security and confidentiality. 
 
