@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the artfinder.com privacy policy that was archived on 2013-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130615193346id_/https%3A//www.artfinder.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the artfinder.com privacy policy that was archived on 2013-08-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130822135949id_/https%3A//www.artfinder.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-gb" class="no-js" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:artfinder="http://www.artfinder.com/ns/opengraph#"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# artfinder: http://ogp.me/ns/fb/artfinder#">
-        <script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0013/6081.js?439030" async="" type="text/javascript"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//cdn.optimizely.com/js/228740645.js"></script>
+<!DOCTYPE html><html lang="en-gb" class="no-js" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:artfinder="http://www.artfinder.com/ns/opengraph#"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# artfinder: http://ogp.me/ns/fb/artfinder# product: http://ogp.me/ns/product#">
+        <script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//cdn.optimizely.com/js/228740645.js"></script>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <meta property="og:site_name" content="Artfinder">
@@ -21,7 +21,7 @@
 
         <link rel="stylesheet" charset="utf-8" type="text/css" href="https://d2m7ibezl7l5lt.cloudfront.net/static/css/vendor/jquery-ui/jquery-ui.3d3958e7b9ef.css">
         
-    <link rel="stylesheet" charset="utf-8" type="text/css" href="https://d2m7ibezl7l5lt.cloudfront.net/static/css/bootstrap.min.8023c5376447.css">
+    <link rel="stylesheet" charset="utf-8" type="text/css" href="https://d2m7ibezl7l5lt.cloudfront.net/static/css/bootstrap.min.10ec93c534d1.css">
   
 
 
@@ -46,9 +46,689 @@
         
         
         
+
+        
+
+
+    <script type="text/ng-template" id="/angular/directives/notifications/inner.html">
+        <i class="icon-globe icon-large"></i> <span ng-show="!notificationsViewed && notificationCount" class="count">{{notificationCount}}</span>
+    </script>
+
+
+
+
+    <script type="text/ng-template" id="/angular/directives/notifications/popover.html">
+        <div class="notifications scroll-box" af-loading="loading && !problem" spinner="small">
+            <div class="text-center" ng-show="notifications && !notifications.length">
+                <h4>Nothing new for now..</h4>
+            </div>
+            <div class="text-center" ng-show="problem">
+                <h4>Whoops, something went wrong..</h4>
+            </div>
+
+            <ul ng-show="!problem">
+                <li ng-repeat="notification in notifications">
+                    <a href="{{notification.url}}" target="_self" ng-class="{unread: !notification.read}">
+                        <span class="unread-symbol" ng-show="!notification.read"></span>
+                        <span class="content" ng-switch="notification.code">
+                            <span ng-switch-when="artist_followed">
+                                <span class="clearfix">
+                                    <span class="pull-left picture">
+                                        <span class="artist-portrait-picture block tiny" af-profile-avatar="notification.image"></span>
+                                    </span>
+                                    <span class="pull-left description">
+                                        <span class="highlight">{{notification.name}}</span> has started following you
+                                    </span>
+                                </span>
+                            </span>
+                            <span ng-switch-when="autofollowed_friends">
+                                <span class="picture">
+                                    <i class="icon-rss"></i>
+                                </span>
+                                <span class="description">
+                                    <span class="highlight">You've started following your friends on Artfinder.</span>
+                                </span>
+                            </span>
+                            <span ng-switch-when="new_artist_profile_live">
+                                <span class="clearfix">
+                                    <span class="pull-left picture">
+                                        <span class="artist-portrait-picture block tiny" af-profile-avatar="notification.image"></span>
+                                    </span>
+                                    <span class="pull-left description">
+                                        <span class="highlight">{{notification.name}}</span> has published <span class="highlight">{{notification.artist_name}}</span>
+                                    </span>
+                                </span>
+                            </span>
+                            <span ng-switch-when="new_provider_live">
+                                <span class="clearfix">
+                                    <span class="pull-left picture">
+                                        <span class="artist-portrait-picture block tiny" af-profile-avatar="notification.image"></span>
+                                    </span>
+                                    <span class="pull-left description">
+                                        <span class="highlight">{{notification.name}}</span> has been published
+                                    </span>
+                                </span>
+                            </span>
+                            <span ng-switch-when="youve_been_followed">
+                                <span class="clearfix">
+                                    <span class="pull-left picture">
+                                        <span class="artist-portrait-picture block tiny" af-profile-avatar="notification.image"></span>
+                                    </span>
+                                    <span class="pull-left description">
+                                        <span class="highlight">{{notification.name}}</span> has started following you
+                                    </span>
+                                </span>
+                            </span>
+                            <span ng-switch-when="artist_sale_started">
+                                <span class="clearfix">
+                                    <span class="pull-left picture">
+                                        <span class="artist-portrait-picture block tiny" af-profile-avatar="notification.image"></span>
+                                    </span>
+                                    <span class="pull-left description">
+                                        <span class="highlight">{{notification.artist_name}}</span>'s works are now on sale, get them <span class="highlight">{{notification.sale_discount}}% off!</span>
+                                    </span>
+                                </span>
+                            </span>
+                            <span ng-switch-when="artist_sale_ending">
+                                <span class="clearfix">
+                                    <span class="pull-left picture">
+                                        <span class="artist-portrait-picture block tiny" af-profile-avatar="notification.image"></span>
+                                    </span>
+                                    <span class="pull-left description">
+                                        <span class="highlight">Hurry - last chance to <span class="highlight">save {{notification.sale_discount}}%</span> on artworks by {{notification.artist_name}}!</span>
+                                    </span>
+                                </span>
+                            </span>
+                        </span>
+                        <span class="time">{{notification.created_at|timeago}}</span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </script>
+
+
+
+
+
+    <script type="text/ng-template" id="/angular/directives/stream/stream.html">
+        <div class="stream">
+            <div class="grid-container"
+                 infinite-scroll="nextPage()" infinite-scroll-distance="1" infinite-scroll-disabled="!canPaginate()">
+                <div af-wookmark="items" refresh="filterFunctionHash()" class="fluid-grid-container">
+                    <div ng-repeat="item in items|filter:filterFunction" class="item" ng-include="getTemplate(item.template || template)"></div>
+                </div>
+
+
+                <div
+                    class="text-center extra-margin-top extra-margin-bottom small-amount ng-cloak"
+                    ng-show="hasNextPage()"
+                    af-loading="fetchingPage" spinner="small">
+                    <a class="btn btn-primary" ng-click="nextPage()" af-event-catch>Load more</a>
+                </div>
+            </div>
+        </div>
+    </script>
+
+
+
+
+
+    <script type="text/ng-template" id="/angular/directives/stream/product.html">
+        <div class="product">
+            <figure af-attr="style:width=item.images.fluid.width;height=item.images.fluid.height">
+                <a
+                    af-attr="href:item.url" target="_self" class="image background-loader"
+                    title="{{item.name}} by {{item.artist}}">
+                    <img
+                        af-attr="src:item.images.fluid.url"
+                        alt="{{item.name}} by {{item.artist}}"
+                        af-show-on-load>
+                </a>
+                <img class="soldout" af-attr="src:Config.Resources.soldoutImage" alt="Sold out" ng-show="!item.quantity && !item.unique">
+                <img class="soldout" af-attr="src:Config.Resources.soldImage" alt="Sold" ng-show="!item.quantity && item.unique">
+                <img class="sale" af-attr="src:Config.Resources.saleImage" alt="Now on sale!" ng-show="product.in_sale">
+            </figure>
+            <div class="clearfix description">
+                <div class="pull-left">
+                    <p>
+                        <a class="artist"
+                           af-attr="href:item.artist_url"
+                           target="_self">
+                            <span af-attr="text:item.artist|truncate:12"></span>
+                        </a>
+                    </p>
+                    <af-interest object-type="products.Product" object-id="{{item.id}}" interest-count="{{item.interest_count}}"></af-interest>
+                </div>
+                <div class="pull-right text-right">
+                    <h4>
+                        <a af-attr="href:item.url" target="_self">
+                            <span af-attr="text:item.original_price|roundAmount" class="price-was" ng-show="item.original_price"></span>
+                            <span af-attr="text:item.price|roundAmount" ng-class="{'price-now': item.original_price}"></span>
+                        </a>
+                    </h4>
+                    <p><a class="highlight" af-attr="href:item.url" target="_self">Shop this »</a></p>
+                </div>
+            </div>
+        </div>
+    </script>
+
+
+
+
+
+    <script type="text/ng-template" id="/angular/directives/stream/publishedproduct.html">
+        <div class="product published-product">
+            <figure
+                af-attr="style:width=item.object.images.fluid.width;height=item.object.images.fluid.height">
+                <a
+                    af-attr="href:item.object.url" target="_self" class="image background-loader"
+                    title="{{item.object.name}} by {{item.object.artist}}">
+                    <img
+                        af-attr="src:item.object.images.fluid.url"
+                        alt="{{item.object.name}} by {{item.object.artist}}"
+                        af-show-on-load>
+                </a>
+                <img class="soldout" af-attr="src:Config.Resources.soldoutImage" alt="Sold out" ng-show="!item.object.quantity && !item.object.unique">
+                <img class="soldout" af-attr="src:Config.Resources.soldImage" alt="Sold" ng-show="!item.object.quantity && item.object.unique">
+            </figure>
+            <div class="clearfix description">
+                <div class="pull-left">
+                    <p>
+                        <a class="artist"
+                           af-attr="href:item.object.artist_url"
+                           target="_self">
+                            <span af-attr="text:item.object.artist|truncate:12"></span>
+                        </a>
+                    </p>
+                    <af-interest object-type="products.Product" object-id="{{item.object.id}}" interest-count="{{item.object.interest_count}}"></af-interest>
+                </div>
+                <div class="pull-right text-right">
+                    <h4>
+                        <a af-attr="href:item.url" target="_self">
+                            <span af-attr="text:item.object.price|roundAmount"></span>
+                        </a>
+                    </h4>
+                    <p><a class="highlight" af-attr="href:item.object.url" target="_self">Shop this »</a></p>
+                </div>
+            </div>
+            <div class="action">
+                <p>
+                    <a href="{{item.object.artist_url}}" target="_self" af-attr="text:item.object.artist"></a>
+                    published <a href="{{item.object.url}}" target="_self" af-attr="text:item.object.name"></a>
+                </p>
+                <p class="timestamp">{{item.timestamp|timeago}}</p>
+            </div>
+        </div>
+    </script>
+
+
+
+
+
+    <script type="text/ng-template" id="/angular/directives/stream/artist.html">
+        <div
+            af-attr="style:width=item.images.background.width || 220;height=item.images.background.height || 160">
+            <a href="{{item.url}}" target="_self"
+               class="artist-badge background-loader" ng-class="{'no-image': !item.images.background}">
+                    <span class="title-box">
+                        <span class="artist-portrait-picture block portrait"
+                              ng-class="{'no-portrait': !item.images.avatar}"
+                              af-background-image="item.images.avatar.url">
+                        </span>
+
+                        <span class="info">
+                            <h4 af-attr="text:item.name"></h4>
+                        </span>
+                    </span>
+
+                <img
+                    af-attr="src:item.images.background.url"
+                    width="{{item.images.background.width}}" height="{{item.images.background.height}}"
+                    alt="{{item.name}}" ng-show="item.images.background"
+                    af-show-on-load>
+
+                <span class="artist-shadow"></span>
+            </a>
+        </div>
+    </script>
+
+
+
+
+
+    <script type="text/ng-template" id="/angular/directives/stream/productinterest.html">
+        <div class="product productinterest" ng-init="product=item.object.thing">
+            <figure af-attr="style:width=product.images.fluid.width;height=product.images.fluid.height">
+                <a
+                    af-attr="href:product.url" target="_self" class="image background-loader"
+                    title="{{product.name}} by {{product.artist}}">
+                    <img
+                        af-attr="src:product.images.fluid.url"
+                        alt="{{product.name}} by {{product.artist}}"
+                        af-show-on-load>
+                </a>
+                <img class="soldout" af-attr="src:Config.Resources.soldoutImage" alt="Sold out" ng-show="!product.quantity && !product.unique">
+                <img class="soldout" af-attr="src:Config.Resources.soldImage" alt="Sold" ng-show="!product.quantity && product.unique">
+                <img class="sale" af-attr="src:Config.Resources.saleImage" alt="Now on sale!" ng-show="product.in_sale">
+            </figure>
+            <div class="clearfix description">
+                <div class="pull-left">
+                    <p>
+                        <a class="artist"
+                           af-attr="href:product.artist_url"
+                           target="_self">
+                            <span af-attr="text:product.artist|truncate:12"></span>
+                        </a>
+                    </p>
+                    <af-interest object-type="products.Product" object-id="{{product.id}}" interest-count="{{item.object.interest_count}}"></af-interest>
+                </div>
+                <div class="pull-right text-right">
+                    <h4>
+                        <a af-attr="href:product.url" target="_self">
+                            <span af-attr="text:product.original_price|roundAmount" class="price-was" ng-show="product.original_price"></span>
+                            <span af-attr="text:product.price|roundAmount" ng-class="{'price-now': product.original_price}"></span>
+                        </a>
+                    </h4>
+                    <p><a class="highlight" af-attr="href:product.url" target="_self">Shop this »</a></p>
+                </div>
+            </div>
+
+            <div class="seperator"></div>
+
+            <div class="action">
+                <p>
+                    <a href="{{item.profile.url}}" target="_self" af-attr="text:item.profile.first_name"></a>
+                    loved <a href="{{product.url}}" target="_self" af-attr="text:product.name"></a>
+                    by <a href="{{product.artist_url}}" target="_self" af-attr="text:product.artist"></a>
+                </p>
+                <p class="timestamp">{{item.timestamp|timeago}}</p>
+            </div>
+        </div>
+    </script>
+
+
+
+
+
+    <script type="text/ng-template" id="/angular/directives/stream/artistinterest.html">
+        <div ng-init="artist=item.object.thing"
+            af-attr="style:width=artist.images.background.width || 220;height=artist.images.background.height || 160">
+            <a href="{{artist.url}}" target="_self"
+               class="artist-badge background-loader" ng-class="{'no-image': !artist.images.background}"
+                af-attr="style:height=artist.images.background.height || 160">
+                    <span class="title-box">
+                        <span class="artist-portrait-picture block portrait"
+                              ng-class="{'no-portrait': !artist.images.avatar}"
+                              af-background-image="item.object.thing.images.avatar.url">
+                        </span>
+
+                        <span class="info">
+                            <h4 af-attr="text:artist.name"></h4>
+                        </span>
+                    </span>
+
+                <img
+                    af-attr="src:artist.images.background.url"
+                    width="{{artist.images.background.width}}" height="{{artist.images.background.height}}"
+                    alt="{{artist.name}}" ng-show="artist.images.background"
+                    af-show-on-load>
+
+                <span class="artist-shadow"></span>
+            </a>
+        </div>
+        <div class="action">
+            <p>
+                <a href="{{item.profile.url}}" target="_self" af-attr="text:item.profile.first_name"></a>
+                started following <a href="{{item.object.thing.url}}" target="_self" af-attr="text:item.object.thing.name"></a>
+            </p>
+            <p class="timestamp">{{item.timestamp|timeago}}</p>
+        </div>
+    </script>
+
+
+
+
+
+    <script type="text/ng-template" id="/angular/directives/stream/userinterest.html">
+        <div class="userinterest"
+         ng-init="follower=item.profile; followee=item.object.thing.profile; isUser=userProfile.user_id == followee.user_id">
+            <div class="title-box">
+                <a af-attr="href:follower.url" target="_self" class="user-badge small" ng-show="isUser">
+                <span class="clearfix">
+                    <span
+                            class="artist-portrait-picture block portrait"
+                            af-background-image="follower.avatar">
+                    </span>
+
+                    <span class="info">
+                        <span class="name" af-attr="text:follower.display_name|truncate:22"></span>
+                        <span class="highlight see-more" ng-show="follower.url">See more »</span>
+                    </span>
+                </span>
+                </a>
+                <a af-attr="href:followee.url" target="_self" class="user-badge" ng-hide="isUser">
+                <span class="clearfix">
+                    <span
+                            class="artist-portrait-picture block portrait"
+                            af-background-image="followee.avatar">
+                    </span>
+
+                    <span class="info">
+                        <span class="name" af-attr="text:followee.display_name|truncate:22"></span>
+                        <span class="highlight see-more" ng-show="followee.url">See more »</span>
+                    </span>
+                </span>
+                </a>
+            </div>
+
+            <div class="seperator"></div>
+
+            <div class="action">
+                <p>
+                    <a href="{{follower.url}}" target="_self" af-attr="text:follower.first_name"></a>
+                    <span ng-hide="isUser">started following</span><span ng-show="isUser">started following you</span>
+                    <a href="{{followee.url}}" target="_self" af-attr="text:followee.display_name"
+                       ng-hide="isUser">
+                   </a>
+                </p>
+                <p class="timestamp">{{item.timestamp|timeago}} ago</p>
+            </div>
+        </div>
+    </script>
+
+
+
+
+
+    <script type="text/ng-template" id="/angular/directives/stream/storyinterest.html">
+        <div class="storyinterest" ng-init="story=item.object.thing">
+            <figure af-attr="style:width=story.cover.width;height=story.cover.height">
+                <a af-attr="href:story.url" target="_self">
+                    <img af-attr="src:story.cover.url"
+                        af-show-on-load>
+                </a>
+            </figure>
+
+            <div class="details">
+                <h4><a af-attr="href:story.url" target="_self">{{story.name}}</a></h4>
+                <p class="description">
+                    {{story.description|truncate:140}}
+                    <a class="highlight" af-attr="href:story.url" target="_self">Read more »</a>
+                </p>
+            </div>
+
+            <div class="seperator"></div>
+
+            <div class="action">
+                <p>
+                    <a href="{{item.profile.url}}" target="_self" af-attr="text:item.profile.display_name"></a>
+                    loved <a href="{{story.url}}" target="_self" af-attr="text:story.name"></a>
+                </p>
+                <p class="timestamp">{{item.timestamp|timeago}} ago</p>
+            </div>
+        </div>
+    </script>
+
+
+
+
+
+
+
+    <script type="text/ng-template" id="/angular/directives/interest/small_love.html">
+        <div class="interest-controller ng-cloak small-love" ng-class="{'interested': interested, 'not-interested': !interested}">
+            <i class="icon-heart heart-icon" ng-click="toggleInterest()"></i>
+            <span class="users"
+                af-interest-popover
+                ng-show="interestCount > 0">
+                <span class="user-count">{{interestCount}}</span>
+                <span class="notice">
+                    <span ng-show="interestCount == 1">person</span>
+                    <span ng-show="interestCount > 1">people</span>
+                </span>
+            </span>
+        </div>
+    </script>
+    <script type="text/ng-template" id="/angular/directives/interest/follow.html">
+        <div class="interest-controller ng-cloak follow" ng-class="{'interested': interested, 'not-interested': !interested}">
+            <div class="user-list">
+                <a
+                    ng-repeat="profile in profiles"
+                    class="user artist-portrait-picture small"
+                    title="{{profile.display_name}}"
+                    href="{{profile.url}}" target="_self"
+                    af-profile-avatar="profile.avatar"
+                    af-tooltip>
+                </a>
+            </div>
+
+            <div class="view-followers" ng-show="interestCount > 0">
+                <a af-interest-popover>
+                    <i class="icon-angle-down"></i> <span>View all {{interestCount}} followers</span>
+                </a>
+            </div>
+
+            <div class="button-container">
+                <button class="btn btn-primary" ng-click="toggleInterest()" ng-class="{'btn-primary': !interested}">
+                    <i class="icon-rss"></i> <span ng-hide="interested">Follow</span><span ng-show="interested">Following</span>
+                </button>
+            </div>
+        </div>
+    </script>
+    <script type="text/ng-template" id="/angular/directives/interest/follow_subtle.html">
+        <div class="interest-controller ng-cloak follow follow-subtle" ng-class="{'interested': interested, 'not-interested': !interested}">
+            <div class="button-container">
+                <button class="btn btn-primary" ng-click="toggleInterest()" ng-class="{'btn-primary': !interested}">
+                    <i class="icon-rss"></i> <span ng-hide="interested">Follow</span><span ng-show="interested">Following</span>
+                </button>
+            </div>
+
+            <div class="view-followers" ng-show="interestCount > 0">
+                <a af-interest-popover>
+                    <i class="icon-angle-down"></i> <span>View all {{interestCount}} followers</span>
+                </a>
+            </div>
+        </div>
+    </script>
+    <script type="text/ng-template" id="/angular/directives/interest/follow_simple.html">
+        <div class="interest-controller ng-cloak follow follow-simple" ng-class="{'interested': interested, 'not-interested': !interested}">
+            <div class="button-container">
+                <button class="btn btn-flat active" ng-click="toggleInterest()" ng-class="{active: !interested}">
+                    <i class="icon-rss"></i> <span ng-hide="interested">Follow</span><span ng-show="interested">Following</span>
+                </button>
+            </div>
+        </div>
+    </script>
+    <script type="text/ng-template" id="/angular/directives/interest/flat_avatar.html">
+        <div class="interest-controller ng-cloak follow follow-flat-avatar" ng-class="{'interested': interested, 'not-interested': !interested}">
+            <div class="button-container">
+                <button class="btn btn-flat active" ng-click="toggleInterest()" ng-class="{active: !interested}">
+                    <span
+                        ng-show="avatar"
+                        af-profile-avatar="avatar"
+                        class="avatar artist-portrait-picture tiny">
+                    </span>
+                    <i class="icon-rss"></i> <span ng-hide="interested">Follow</span><span ng-show="interested">Following</span>
+                </button>
+            </div>
+        </div>
+    </script>
+
+    <script type="text/ng-template" id="/angular/directives/interest/interestPopover.html">
+        <div class="interest-lovers-popover" af-loading="loading" spinner="small" af-tooltip=".user">
+            <a
+                ng-repeat="profile in profiles"
+                class="user artist-portrait-picture small"
+                title="{{profile.display_name}}"
+                href="{{profile.url}}" target="_self"
+                af-profile-avatar="profile.avatar"
+                af-interest-popover-position>
+            </a>
+
+            <div infinite-scroll="loadNextPage()" infinite-scroll-disabled="!visible || loading && page < totalPages - 1"></div>
+            <div
+                class="load-button-container text-center" ng-show="page < totalPages - 1"
+                af-loading="loadingNextPage" spinner="small">
+                <button class="btn btn-small" ng-click="loadNextPage()">Load More</button>
+            </div>
+        </div>
+    </script>
+
+
+
+
+
+
+    <script type="text/ng-template" id="/angular/directives/recentlyViewed/recentlyViewed.html">
+        <div class="recently-viewed-container" af-event-catch ng-class="{visible: visible}">
+            <div class="title" ng-click="visible = !visible">
+                <i ng-hide="visible" class="icon-angle-down"></i><i ng-show="visible" class="icon-angle-up"></i>
+                Recently Viewed
+            </div>
+            <div class="contents" ng-class="{visible: visible}" af-loading="loading" spinner="small">
+                <div class="inner" ng-show="!error && products.length">
+                    <div ng-repeat="product in products" class="item background-loader"
+                        af-attr="style:width=product.image.width;height=product.image.height">
+                        <a af-attr="href:product.url" target="_self" title="{{product.name}} by {{product.artist}}">
+                            <img af-attr="src:product.image.url" alt="{{product.name}} by {{product.artist}}"
+                            af-show-on-load>
+                        </a>
+                    </div>
+                </div>
+                <div class="error text-center" ng-show="error">
+                    <h4>Whoops, something has gone a little bit wrong..</h4>
+                </div>
+
+                <div class="none" ng-show="!error && !loading && !products.length">
+                    <p>Nothing yet, why don't you checkout <a href="/browse/" target="_self" class="highlight">browse</a></p>
+                </div>
+            </div>
+        </div>
+    </script>
+
+
+
+
+
+<script type="text/ng-template" id="/angular/directives/basket/basket.html">
+    <div class="basket" af-loading="loading" spinner="small" af-event-catch>
+        <div class="scroll-box no-min-height">
+            <ul class="products">
+                <li class="prod"
+                    ng-repeat="product in products">
+                    <a class="link"
+                       af-attr="href:product.url" target="_self">
+                        <span class="image-container">
+                            <img af-attr="src:product.img" class="fadeIn" af-show-on-load>
+                        </span>
+
+                        <span class="description">
+                            <span class="title" af-attr="text:product.artist|truncate:24"></span>
+                            <span class="price" af-attr="text:product.price"></span>
+                        </span>
+                    </a>
+
+                    <form method="POST" action="/basket/remove/" class="remove">
+                        <div style='display:none'><input type='hidden' name='csrfmiddlewaretoken' value='54FWoCrXv4z9cBBoZVzc5xFcE75p1SVk' /></div>
+                        <input type="hidden" name="product" af-attr="value:product.id">
+                        <button class="btn btn-mini btn-unstyled"><i class="icon-remove muted"></i></button>
+                    </form>
+                </li>
+            </ul>
+        </div>
+
+        <div class="info text-center" ng-show="products.length == 0">
+            <h4>You don't have anything in your basket just yet, why don't you checkout browse</h4>
+        </div>
+
+        <div class="buttons">
+            <a target="_self" href="/basket/" ng-show="products">
+                <button class="btn btn-primary full-width">Go to checkout</button>
+            </a>
+            <a target="_self" href="/browse/" ng-hide="products">
+                <button class="btn btn-inverse full-width">Start shopping</button>
+            </a>
+        </div>
+    </div>
+</script>
+
+
+
+
+
+    <script type="text/ng-template" id="/angular/directives/popover/popover.html">
+        <div>
+            <ng-include src="templatePath"></ng-include>
+        </div>
+    </script>
+
+
+
+
+
+
+<script type="text/ng-template" id="/angular/popovers/settings.html">
+    
+</script>
+
+
+
+
+<script type="text/ng-template" id="/angular/popovers/currencies.html">
+    
+
+    <ul class="link-list">
+        
+            <li>
+                <form action="/currency/?next=/privacy-policy" class="change-currency" method="post">
+                    <div style='display:none'><input type='hidden' name='csrfmiddlewaretoken' value='54FWoCrXv4z9cBBoZVzc5xFcE75p1SVk' /></div>
+                    <input type="hidden" name="currency" value="GBP">
+                    <button class="big">£ GBP</button>
+                </form>
+            </li>
+        
+            <li>
+                <form action="/currency/?next=/privacy-policy" class="change-currency" method="post">
+                    <div style='display:none'><input type='hidden' name='csrfmiddlewaretoken' value='54FWoCrXv4z9cBBoZVzc5xFcE75p1SVk' /></div>
+                    <input type="hidden" name="currency" value="USD">
+                    <button class="big">$ USD</button>
+                </form>
+            </li>
+        
+            <li>
+                <form action="/currency/?next=/privacy-policy" class="change-currency" method="post">
+                    <div style='display:none'><input type='hidden' name='csrfmiddlewaretoken' value='54FWoCrXv4z9cBBoZVzc5xFcE75p1SVk' /></div>
+                    <input type="hidden" name="currency" value="EUR">
+                    <button class="big">€ EUR</button>
+                </form>
+            </li>
+        
+    </ul>
+</script>
+
+<script type="text/ng-template" id="/angular/popovers/notifications.html">
+    <af-notifications-popover></af-notifications-popover>
+</script>
+
+
+
+
+    <script type="text/ng-template" id="/angular/popovers/basket.html">
+        <af-basket></af-basket>
+    </script>
+
+
+
+
+
+
+
+        
     <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
-    <body class="flatpage toc privacy">
+    <body class="flatpage toc privacy" af-document-click="">
+        <af-recently-viewed></af-recently-viewed>
         
   
     
@@ -59,10 +739,10 @@
     <div class="navbar navbar-inverse navbar-static-top js-main-header">
         <div class="navbar-inner row-fluid">
             <div class="container nav-container">
-                <a class="brand" href="/">
+                <a target="_self" class="brand" href="/">
                     <img src="https://d2m7ibezl7l5lt.cloudfront.net/static/img/masthead/Logo.82be7d909161.png" alt="Artfinder" width="260" height="40">
                 </a>
-                <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"><i class="icon-reorder icon-2x"></i></a>
+                <a target="_self" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"><i class="icon-reorder icon-2x"></i></a>
                 <div class="nav-collapse navbar-responsive-collapse collapse">
                     
 
@@ -76,25 +756,31 @@
     
         
             <li>
-                <a href="/just-in/" class="js-hover-submenu" data-target="js-5-submenu">Just in</a>
+                <a target="_self" href="/artbeat/" class="js-hover-submenu" data-target="js-6-submenu">Artbeat</a>
             </li>
         
     
         
             <li>
-                <a href="/browse/">Browse</a>
+                <a target="_self" href="/latest/">Just in</a>
             </li>
         
     
         
             <li>
-                <a href="/artists/" class="js-hover-submenu" data-target="js-2-submenu">Artists &amp; Partners</a>
+                <a target="_self" href="/browse/">Browse</a>
+            </li>
+        
+    
+        
+            <li>
+                <a target="_self" href="/artists/" class="js-hover-submenu" data-target="js-2-submenu">Artists</a>
             </li>
         
     
         
             <li class="last">
-                <a href="/stories/all/" class="js-hover-submenu" data-target="js-4-submenu">Magazine</a>
+                <a target="_self" href="/stories/all/" class="js-hover-submenu" data-target="js-4-submenu">Magazine</a>
             </li>
         
     
@@ -134,7 +820,7 @@
 
         
             
-                <div class="hover-submenu js-submenu js-5-submenu">
+                <div class="hover-submenu js-submenu js-6-submenu">
                     
                         
                     
@@ -146,11 +832,23 @@
                             <div class="descriptions">
                                 
                                     
-                                        <h2>JUST IN IS FOR MEMBERS ONLY</h2>
-                                    
-                                    <p>Be the first to discover new art</p>
+                                    <p>The latest from artists and friends you follow</p>
                                 
                             </div>
+                        
+                    
+                </div>
+            
+        
+            
+                <div class="hover-submenu js-submenu js-5-submenu">
+                    
+                        
+                    
+                    
+                        
+                    
+                    
                         
                     
                 </div>
@@ -180,16 +878,20 @@
                                         
                                         <div class="icon ">
                                             
-                                                <a href="https://www.artfinder.com/sandy-dooley"><img src="https://d30dcznuokq8w8.cloudfront.net/thumbnails/w/200/h/100/q/85/menus/7/d/a1895f3a265d17354dd89540a9f83f-Sandy%20Dooley%20Nav%20bar.jpg" alt="Sandy Dooley" width="220" height="100"></a>
-                                                <h4><a href="https://www.artfinder.com/sandy-dooley">Sandy Dooley  <i class="icon-double-angle-right"></i></a></h4>
+                                            
+                                                <a target="_self" href="/artist/juliana-manara/"><img src="https://d30dcznuokq8w8.cloudfront.net/thumbnails/w/200/h/100/q/85/menus/5/b/dcfa942fc358d4e2885167fc3b689a.jpg" alt="Juliana Manara" width="220" height="100"></a>
+                                                <h4><a target="_self" href="/artist/juliana-manara/">Juliana Manara  <i class="icon-double-angle-right"></i></a></h4>
+                                            
                                             
                                         </div>
                                     
                                         
                                         <div class="icon bottom">
                                             
-                                                <a href="https://www.artfinder.com/new-blood-art"><img src="https://d30dcznuokq8w8.cloudfront.net/thumbnails/w/200/h/100/q/85/menus/c/2/6bf3d21981dc8febea26ef398eccb3-nba.jpg" alt="New Blood Art" width="220" height="100"></a>
-                                                <h4><a href="https://www.artfinder.com/new-blood-art">New Blood Art  <i class="icon-double-angle-right"></i></a></h4>
+                                            
+                                                <a target="_self" href="/artist/jacqueline-moore/"><img src="https://d30dcznuokq8w8.cloudfront.net/thumbnails/w/200/h/100/q/85/menus/7/4/9b35b2e2db639927d2efb7f9a4a43b.jpg" alt="Jaqueline Moore" width="220" height="100"></a>
+                                                <h4><a target="_self" href="/artist/jacqueline-moore/">Jaqueline Moore  <i class="icon-double-angle-right"></i></a></h4>
+                                            
                                             
                                         </div>
                                     
@@ -198,16 +900,20 @@
                                         
                                         <div class="icon ">
                                             
-                                                <a href="https://www.artfinder.com/european-bob"><img src="https://d30dcznuokq8w8.cloudfront.net/thumbnails/w/200/h/100/q/85/menus/4/6/da32d95a2f23c63b4151f5fff683b0-european%20bob.jpg" alt="European Bob" width="220" height="100"></a>
-                                                <h4><a href="https://www.artfinder.com/european-bob">European Bob  <i class="icon-double-angle-right"></i></a></h4>
+                                            
+                                                <a target="_self" href="/artist/regina-valluzzi/"><img src="https://d30dcznuokq8w8.cloudfront.net/thumbnails/w/200/h/100/q/85/menus/c/6/0cf56e3582534e283555366d1f1e44.jpg" alt="Regina Valluzzi" width="220" height="100"></a>
+                                                <h4><a target="_self" href="/artist/regina-valluzzi/">Regina Valluzzi  <i class="icon-double-angle-right"></i></a></h4>
+                                            
                                             
                                         </div>
                                     
                                         
                                         <div class="icon bottom">
                                             
-                                                <a href="https://www.artfinder.com/photo-democracy"><img src="https://d30dcznuokq8w8.cloudfront.net/thumbnails/w/200/h/100/q/85/menus/8/6/ffc51be1c2d0315cbac39524fbfc71-photodemocracy.jpg" alt="Photo Democracy" width="220" height="100"></a>
-                                                <h4><a href="https://www.artfinder.com/photo-democracy">Photo Democracy  <i class="icon-double-angle-right"></i></a></h4>
+                                            
+                                                <a target="_self" href="/artist/martin-pettinger/"><img src="https://d30dcznuokq8w8.cloudfront.net/thumbnails/w/200/h/100/q/85/menus/1/3/5d03c6fc215bdf2c223ad07da137af.jpg" alt="Martin Pettinger" width="220" height="100"></a>
+                                                <h4><a target="_self" href="/artist/martin-pettinger/">Martin Pettinger  <i class="icon-double-angle-right"></i></a></h4>
+                                            
                                             
                                         </div>
                                     
@@ -232,7 +938,7 @@
                                             
 
                                             
-                                                <li><a href="/michelle-thompson">Michelle Thompson</a></li>
+                                                <li><a target="_self" href="/artist/magpie-belle/">Magpie Belle</a></li>
                                             
 
                                             
@@ -240,7 +946,7 @@
                                             
 
                                             
-                                                <li><a href="/alex-dipple">Alex Dipple</a></li>
+                                                <li><a target="_self" href="/artist/sue-bradley/">Sue Bradley</a></li>
                                             
 
                                             
@@ -248,7 +954,7 @@
                                             
 
                                             
-                                                <li><a href="/julian-sutherland-beatson">Julian Sutherland-Beatson</a></li>
+                                                <li><a target="_self" href="/artist/terry-pastor/">Terry Pastor</a></li>
                                             
 
                                             
@@ -256,7 +962,7 @@
                                             
 
                                             
-                                                <li><a href="/filippo-minelli">Filippo Minelli</a></li>
+                                                <li><a target="_self" href="/artist/wayne-sleeth/">Wayne Sleeth</a></li>
                                             
 
                                             
@@ -266,7 +972,7 @@
                                             
 
                                             
-                                                <li><a class="highlight-link" href="/artists/#artists">View all artists <i class="icon-double-angle-right"></i></a></li>
+                                                <li><a target="_self" class="highlight-link" href="/artists/#artists">View all artists <i class="icon-double-angle-right"></i></a></li>
                                             
                                         
                                     </ul>
@@ -284,7 +990,7 @@
                                             
 
                                             
-                                                <li><a href="https://www.artfinder.com/rise-art">Rise Art</a></li>
+                                                <li><a target="_self" href="/poseytude-gallery">Poseytude gallery</a></li>
                                             
 
                                             
@@ -292,7 +998,7 @@
                                             
 
                                             
-                                                <li><a href="https://www.artfinder.com/gas-gallery">Gas Gallery</a></li>
+                                                <li><a target="_self" href="/cajeto">Cajeto</a></li>
                                             
 
                                             
@@ -300,7 +1006,7 @@
                                             
 
                                             
-                                                <li><a href="https://www.artfinder.com/printroom">Printroom</a></li>
+                                                <li><a target="_self" href="/clifton-art-house">Clifton Art House</a></li>
                                             
 
                                             
@@ -308,7 +1014,7 @@
                                             
 
                                             
-                                                <li><a href="https://www.artfinder.com/lilk-gallery">LILK Gallery</a></li>
+                                                <li><a target="_self" href="/studio-voltaire">Studio Voltaire</a></li>
                                             
 
                                             
@@ -318,7 +1024,7 @@
                                             
 
                                             
-                                                <li><a class="highlight-link" href="https://www.artfinder.com/artists/#partners">View all partners <i class="icon-double-angle-right"></i></a></li>
+                                                <li><a target="_self" class="highlight-link" href="/artists/#partners">View all partners <i class="icon-double-angle-right"></i></a></li>
                                             
                                         
                                     </ul>
@@ -342,16 +1048,20 @@
                                         
                                         <div class="icon ">
                                             
-                                                <a href="https://www.artfinder.com/stories/art-of-the-day/"><img src="https://d30dcznuokq8w8.cloudfront.net/thumbnails/w/200/h/100/q/85/menus/3/1/ce4b77afe4af2adcd75ccf7310e4f5-Van-Gogh-Starry-Nights.jpg" alt="Art of the Day" width="220" height="100"></a>
-                                                <h4><a href="https://www.artfinder.com/stories/art-of-the-day/">Art of the Day  <i class="icon-double-angle-right"></i></a></h4>
+                                            
+                                                <a target="_self" href="/stories/art-of-the-day/"><img src="https://d30dcznuokq8w8.cloudfront.net/thumbnails/w/200/h/100/q/85/menus/4/f/097ef62f45f2b65727d0cbb599a0a1.jpg" alt="Art of the Day" width="220" height="100"></a>
+                                                <h4><a target="_self" href="/stories/art-of-the-day/">Art of the Day  <i class="icon-double-angle-right"></i></a></h4>
+                                            
                                             
                                         </div>
                                     
                                         
                                         <div class="icon bottom">
                                             
-                                                <a href="https://www.artfinder.com/story/abstract-works/"><img src="https://d30dcznuokq8w8.cloudfront.net/thumbnails/w/200/h/100/q/85/menus/1/9/62ecbe47db21b2faf2e4583b2f0aa1-pink.jpg" alt="Abstract Art" width="220" height="100"></a>
-                                                <h4><a href="https://www.artfinder.com/story/abstract-works/">Abstract Art  <i class="icon-double-angle-right"></i></a></h4>
+                                            
+                                                <a target="_self" href="/story/holiday-vistas/"><img src="https://d30dcznuokq8w8.cloudfront.net/thumbnails/w/200/h/100/q/85/menus/f/c/c79164e480487eccb6fc7385bd17b9.jpg" alt="Summer Travel" width="220" height="100"></a>
+                                                <h4><a target="_self" href="/story/holiday-vistas/">Summer Travel  <i class="icon-double-angle-right"></i></a></h4>
+                                            
                                             
                                         </div>
                                     
@@ -360,16 +1070,20 @@
                                         
                                         <div class="icon ">
                                             
-                                                <a href="https://www.artfinder.com/story/60-second-interview-michelle-thompson/"><img src="https://d30dcznuokq8w8.cloudfront.net/thumbnails/w/200/h/100/q/85/menus/d/f/ae4164b75e1032b78446954ae6035e-mich_watchingBirds.jpg" alt="60-Second Interview: Michelle Thompson" width="220" height="100"></a>
-                                                <h4><a href="https://www.artfinder.com/story/60-second-interview-michelle-thompson/">60-Second Interview: Michelle Thompson  <i class="icon-double-angle-right"></i></a></h4>
+                                            
+                                                <a target="_self" href="/story/nofirstname-aurora/"><img src="https://d30dcznuokq8w8.cloudfront.net/thumbnails/w/200/h/100/q/85/menus/9/2/db6f8bc018799eab259dfa69f92ef3.jpg" alt="60-Second Interview: Nofirstname Aurora" width="220" height="100"></a>
+                                                <h4><a target="_self" href="/story/nofirstname-aurora/">60-Second Interview: Nofirstname Aurora  <i class="icon-double-angle-right"></i></a></h4>
+                                            
                                             
                                         </div>
                                     
                                         
                                         <div class="icon bottom">
                                             
-                                                <a href="https://www.artfinder.com/stories/features/"><img src="https://d30dcznuokq8w8.cloudfront.net/thumbnails/w/200/h/100/q/85/menus/b/2/da8dabd7080667256d1ed3098f10a2-20000lieuesgrande.jpg" alt="Five Artists to Watch in 2013" width="220" height="100"></a>
-                                                <h4><a href="https://www.artfinder.com/stories/features/">Five Artists to Watch in 2013  <i class="icon-double-angle-right"></i></a></h4>
+                                            
+                                                <a target="_self" href="/story/tom-berry/"><img src="https://d30dcznuokq8w8.cloudfront.net/thumbnails/w/200/h/100/q/85/menus/e/0/e926723eb7905c0e1c0fabba4d5d88.jpg" alt="60 second interview: Tom Berry" width="220" height="100"></a>
+                                                <h4><a target="_self" href="/story/tom-berry/">60 second interview: Tom Berry  <i class="icon-double-angle-right"></i></a></h4>
+                                            
                                             
                                         </div>
                                     
@@ -394,7 +1108,7 @@
                                             
 
                                             
-                                                <li><a href="https://www.artfinder.com/story/bestsellers/">Most Loved Artworks</a></li>
+                                                <li><a target="_self" href="/story/new-french-art/">New French Art</a></li>
                                             
 
                                             
@@ -402,7 +1116,7 @@
                                             
 
                                             
-                                                <li><a href="https://www.artfinder.com/story/editors-picks/">Editor's Picks</a></li>
+                                                <li><a target="_self" href="/story/jon-sarkin-the-accidental-artist/">Jon Sarkin</a></li>
                                             
 
                                             
@@ -410,7 +1124,7 @@
                                             
 
                                             
-                                                <li><a href="https://www.artfinder.com/story/travel/">Travel Photography</a></li>
+                                                <li><a target="_self" href="/story/howtobuyartinafair/">How to buy in an art fair</a></li>
                                             
 
                                             
@@ -418,7 +1132,7 @@
                                             
 
                                             
-                                                <li><a href="https://www.artfinder.com/story/london-fashion-week-collection/">Catwalk to Canvas</a></li>
+                                                <li><a target="_self" href="/story/back-to-nature/">Back to nature</a></li>
                                             
 
                                             
@@ -428,7 +1142,7 @@
                                             
 
                                             
-                                                <li><a class="highlight-link" href="https://www.artfinder.com/stories/style-and-trends/">View all Styles &amp; Trends <i class="icon-double-angle-right"></i></a></li>
+                                                <li><a target="_self" class="highlight-link" href="/stories/style-and-trends/">View all Styles &amp; Trends <i class="icon-double-angle-right"></i></a></li>
                                             
                                         
                                     </ul>
@@ -446,7 +1160,7 @@
                                             
 
                                             
-                                                <li><a href="https://www.artfinder.com/story/rob-van-hoek/">Rob van Hoek</a></li>
+                                                <li><a target="_self" href="/story/jeremy-akerman/">Jeremy Akerman</a></li>
                                             
 
                                             
@@ -454,7 +1168,7 @@
                                             
 
                                             
-                                                <li><a href="https://www.artfinder.com/story/60-second-interview-delphine-lebourgeois/">Delphine Lebourgeois</a></li>
+                                                <li><a target="_self" href="/story/damian-golfinopoulos/">Damian Golfinopoulos</a></li>
                                             
 
                                             
@@ -462,7 +1176,7 @@
                                             
 
                                             
-                                                <li><a href="https://www.artfinder.com/story/60-second-interview-lafontaine-contemporary-arts/">Lafontaine Contemporary Arts</a></li>
+                                                <li><a target="_self" href="/story/european-bob/">European Bob</a></li>
                                             
 
                                             
@@ -470,7 +1184,7 @@
                                             
 
                                             
-                                                <li><a href="https://www.artfinder.com/story/60-second-interview-the-blackout-studio/">The Blackout Studio</a></li>
+                                                <li><a target="_self" href="/story/emerson-mayes/">Emerson Mayes</a></li>
                                             
 
                                             
@@ -480,7 +1194,7 @@
                                             
 
                                             
-                                                <li><a class="highlight-link" href="https://www.artfinder.com/stories/focus-on/">View all 60-Second Interviews <i class="icon-double-angle-right"></i></a></li>
+                                                <li><a target="_self" class="highlight-link" href="/stories/focus-on/">View all 60-Second Interviews <i class="icon-double-angle-right"></i></a></li>
                                             
                                         
                                     </ul>
@@ -510,25 +1224,33 @@
 
 
 
+
+
+
+
+
 <li>
-    <a href="/currency/?next=/privacy-policy" class="js-hover-submenu" data-target="js-currency-submenu">$ USD</a>
+    <a target="_self" href="/currency/?next=/privacy-policy" af-popover="currencies">
+        $ USD
+    </a>
 </li>
 
 <li>
-    <a href="/basket/" class="js-hover-submenu js-basket-hover-link" data-target="js-basket-submenu" id="icon-basket">
-        <i class="icon-basket"></i>
-        Basket (<span class="js-basket-count">0</span>)</a>
+    <a target="_self" href="/basket/" id="icon-basket" af-popover="basket">
+        <i class="icon-basket"></i> Basket <span class="badge">0</span>
+    </a>
 </li>
 
-<li>
-    <a href="/sell/">Sell</a>
-</li>
+
+
+
+    <li><a target="_self" href="/sell/">Sell</a></li>
+
 
 <li class="user-links">
     
-    
-        <a href="/signup/" class="js-signup-button">Join</a>
-        <a href="/login/" class="js-login-button">Login</a>
+        <a target="_self" href="/signup/" class="js-signup-button">Join</a>
+        / <a target="_self" href="/login/" class="js-login-button">Login</a>
     
 </li>
 
@@ -536,84 +1258,6 @@
                 </div>
             </div>
         </div>
-        
-
-
-
-
-
-
-
-<div class="navbar navbar-static-top navbar-hover submenu-container submenu-profile js-submenu-container visible-desktop">
-    <div class="arrow-container js-arrow"></div>
-    <div class="container nav-container">
-        <div class="hover-submenu js-submenu js-currency-submenu currency-submenu">
-            <div class="currencies">
-               
-               
-                   <form action="/currency/?next=/privacy-policy" class="change-currency" method="post">
-                     <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="GFgCpH1W6QxCTZNtYvYifCVcomF9JA6q"></div>
-                     <input type="hidden" name="currency" value="GBP">
-                     <button class="btn btn-unstyled"><h4 class="currency-submit">£ GBP</h4></button>
-                   </form>
-               
-                   <form action="/currency/?next=/privacy-policy" class="change-currency" method="post">
-                     <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="GFgCpH1W6QxCTZNtYvYifCVcomF9JA6q"></div>
-                     <input type="hidden" name="currency" value="USD">
-                     <button class="btn btn-unstyled"><h4 class="currency-submit">$ USD</h4></button>
-                   </form>
-               
-                   <form action="/currency/?next=/privacy-policy" class="change-currency" method="post">
-                     <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="GFgCpH1W6QxCTZNtYvYifCVcomF9JA6q"></div>
-                     <input type="hidden" name="currency" value="EUR">
-                     <button class="btn btn-unstyled"><h4 class="currency-submit">€ EUR</h4></button>
-                   </form>
-               
-            </div>
-        </div>
-        <div class="hover-submenu js-submenu js-basket-submenu basket-submenu">
-            <div class="basket js-basket">
-                <h4 data-bind="products" data-hide="">Your basket is empty</h4>
-                <h4 data-bind="products" data-show=""><span class="js-basket-count">0</span> Artworks in your basket</h4>
-                <ul class="products js-products">
-                    <li data-bind="products" data-each="product">
-                        <a class="image" href="#" data-bind="product.url" data-attr="href">
-                            <img src="" data-bind="product.img" data-attr="src">
-                            <div class="description" data-bind="product.id" data-attr="data-id">
-                                <p class="artist" data-bind="product.artist" data-text=""></p>
-                                <p class="medium" data-bind="product.medium" data-text=""></p>
-                                <p data-bind="product.price" data-text=""></p>
-                            </div>
-                        </a>
-                        <div class="remove-button">
-                            <form method="POST" action="/basket/remove/" class="remove-from-basket">
-                                <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="GFgCpH1W6QxCTZNtYvYifCVcomF9JA6q"></div>
-                                <input type="hidden" name="product" data-bind="product.id" data-attr="value">
-                                <button class="btn btn-mini btn-unstyled" data-bind="product.price_in_cents" data-attr="data-cents" onclick="_gaq.push(['_trackEvent', 'Basket', 'removeFromBasketHeader', $(this).data('cents')]);"><i class="icon-remove muted"></i></button>
-                            </form>
-                        </div>
-                    </li>
-                </ul>
-                <div class="buttons">
-                    <a href="/basket/" data-bind="products" data-show="">
-                        <button class="btn btn-primary full-width">Go to checkout</button>
-                    </a>
-                    <a href="/browse/" data-bind="products" data-hide="">
-                        <button class="btn btn-inverse full-width">Start shopping</button>
-                    </a>
-                </div>
-            </div>
-        </div>
-        <div class="hover-submenu js-submenu js-basket-added-submenu">
-            <div class="basket-notification">
-                <img src="" alt="" width="80" height="80" class="js-product-image">
-                <h3 class="js-message">Added to Basket</h3>
-            </div>
-        </div>
-        
-    </div>
-</div>
-
         
     
 </header>
@@ -635,12 +1279,28 @@
                 <span class="pull-right">
                     <a href="/signup/" class="js-signup-button"><button class="btn btn-primary">Join</button></a>
                     <a class="js-login-button" href="/login/"><button class="btn">Login</button></a>
+                    
+
+
+
+<form class="connect-button" name="login" method="post" action="/socialreg/facebook/login/">
+    <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="54FWoCrXv4z9cBBoZVzc5xFcE75p1SVk"></div>
+    
+    
+    
+        <input type="hidden" name="next" value="http://www.artfinder.com/privacy-policy">
+    
+    <button class="btn btn-facebook " onclick="facebookConnect(this.form);return false;"><i class="facebook-f"></i></button>
+</form>
+
                 </span>
             </div>
         </div>
     </div>
 
         
+        
+            
         
 
         
@@ -958,7 +1618,7 @@ Compliance Officer.</p>
 
 
 <form class="connect-button" name="login" method="post" action="/socialreg/facebook/login/">
-    <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="GFgCpH1W6QxCTZNtYvYifCVcomF9JA6q"></div>
+    <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="54FWoCrXv4z9cBBoZVzc5xFcE75p1SVk"></div>
     
     
     
@@ -971,7 +1631,7 @@ Compliance Officer.</p>
     <p class="divider">OR</p>
 
     <form action="/login/" method="POST" class="js-login-form">
-        <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="GFgCpH1W6QxCTZNtYvYifCVcomF9JA6q"></div>
+        <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="54FWoCrXv4z9cBBoZVzc5xFcE75p1SVk"></div>
         <ul class="form-ul">
             <li>
                 <input id="id_email" type="text" name="email" placeholder="Your email">
@@ -1005,44 +1665,22 @@ Compliance Officer.</p>
                 <div class="inner">
                     <div class="justin" data-bind="justin" data-show="">
                         <h2>Just in is for <span class="highlight">members only</span></h2>
-                        <h3>Sign up to be the first to discover new art!</h3>
+                        
+                        
+                            <h3><span class="highlight">602</span> new artworks added this week</h3>
+                        
+                        <h3 class="tagline">Discover the best independent artists and galleries in the world</h3>
+
 
                         <ul class="features">
-                            <li>Member only sales</li>
-                            <li>Priority access to newest artworks</li>
-                            <li>Notifications for artists you follow</li>
+                            <li>Alerts for artists you follow</li>
                             <li>Easy access to artworks you save</li>
-                            <li>10% off your first purchase</li>
+                            <li>Get 10% off your first purchase</li>
                         </ul>
                     </div>
                     <div data-bind="justin" data-hide="">
-                        <div class="variant1" style="display: block;">
-                            <h2>Start</h2>
-                            <h2 class="small">collecting</h2>
-                            <h2>today</h2>
-
-                            <ul class="features">
-                                <li>Member only sales</li>
-                                <li>Priority access to newest artworks</li>
-                                <li>Notifications for artists you follow</li>
-                                <li>Easy access to artworks you save</li>
-                                <li>10% off your first purchase</li>
-                            </ul>
-                        </div>
-                        <div class="variant2" style="display: none;">
-                            <h2>Art Lovers</h2>
-                            <h2><span class="highlight">Unite</span></h2>
-
-                            <ul class="features">
-                                <li>Member only sales</li>
-                                <li>Priority access to newest artworks</li>
-                                <li>Notifications for artists you follow</li>
-                                <li>Easy access to artworks you save</li>
-                                <li>10% off your first purchase</li>
-                            </ul>
-                        </div>
-                        <div class="variant3" style="display: none;">
-                            <h3 class="divider">☓</h3>
+                        <div class="variant3">
+                            <h3 class="divider">o</h3>
                             <h2>
                                 Discover<br>
                                 the best<br>
@@ -1051,7 +1689,7 @@ Compliance Officer.</p>
                                 galleries in<br>
                                 the world
                             </h2>
-                            <h3 class="divider">☓</h3>
+                            <h3 class="divider">o</h3>
                         </div>
                     </div>
                 </div>
@@ -1084,7 +1722,7 @@ Compliance Officer.</p>
 
 
 <form class="connect-button" name="login" method="post" action="/socialreg/facebook/login/">
-    <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="GFgCpH1W6QxCTZNtYvYifCVcomF9JA6q"></div>
+    <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="54FWoCrXv4z9cBBoZVzc5xFcE75p1SVk"></div>
     
     
     
@@ -1098,7 +1736,7 @@ Compliance Officer.</p>
                 </div>
 
                 <form action="/signup/" method="POST" class="no-margin-bottom">
-                    <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="GFgCpH1W6QxCTZNtYvYifCVcomF9JA6q"></div>
+                    <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="54FWoCrXv4z9cBBoZVzc5xFcE75p1SVk"></div>
                     <ul class="form-ul">
                         <li>
                             <input id="id_email" type="text" name="email" placeholder="Enter your email here" class="js-email-input">
@@ -1142,7 +1780,7 @@ Compliance Officer.</p>
     <p>Please enter your email address below. We'll send you a link so that you can choose a new password.</p>
 
     <form action="/login/forgot/" method="POST">
-        <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="GFgCpH1W6QxCTZNtYvYifCVcomF9JA6q"></div>
+        <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="54FWoCrXv4z9cBBoZVzc5xFcE75p1SVk"></div>
         <ul class="form-ul">
             <li>
                 <input id="id_email" type="text" name="email" placeholder="Your email">
@@ -1212,23 +1850,28 @@ Compliance Officer.</p>
 
         <script src="https://d2m7ibezl7l5lt.cloudfront.net/static/js/vendor/jquery-1.8.1.min.a9a0cc296e96.js"></script>
         <script src="https://d2m7ibezl7l5lt.cloudfront.net/static/js/vendor/jquery-ui-1.9.2.min.ba23883b51f5.js"></script>
+        <script src="https://d2m7ibezl7l5lt.cloudfront.net/static/js/vendor/angular.min.75fb813ebaad.js"></script>
         <script src="https://d2m7ibezl7l5lt.cloudfront.net/static/js/bootstrap.min.5cca3030f23e.js"></script>
         <script type="text/javascript" src="//use.typekit.net/cep1giq.js"></script>
         <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 
         
         
-            <script src="https://d2m7ibezl7l5lt.cloudfront.net/static/js/main.min.d3842d279e23.js"></script>
+            <script src="https://d2m7ibezl7l5lt.cloudfront.net/static/js/main.min.83eeefc9a576.js"></script>
             <script>
 
 
 AF.URLs = {
-    facebookPermissionUpgrade: '/account/facebook-permission-upgrade/',
     signIn: '/login/',
     signup: '/signup/',
     placeholderImageWork322: 'https://d2m7ibezl7l5lt.cloudfront.net/static/img/placeholder/work-322.1b18fe2bc0a7.jpg',
     basketProducts: '/basket/',
-    interest: '/interest/'
+    interest: '/interest/',
+    visitTracking: '/t/visit/',
+    productSearch: '/browse/',
+    searchTracking: '/t/search/',
+    notifications: '/notifications/all/',
+    recentlyViewedProducts: '/t/recently-viewed-products/',
 };
 </script>
             
@@ -1246,7 +1889,7 @@ var _gaq=[['_setAccount','UA-21044819-1'],['_setDomainName', '.artfinder.com'],[
 
 _gaq.push(['_setCustomVar',1,'usertype','anonymous',1]);
 _gaq.push(['_setCustomVar',2,'signed_up_via','signup',1]);
-_gaq.push(['_setCustomVar',4,'cohort','unknown',1]);
+_gaq.push(['_setCustomVar',4,'cohort','20130822',1]);
 
 (function() {
   var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -1255,14 +1898,6 @@ _gaq.push(['_setCustomVar',4,'cohort','unknown',1]);
     s.parentNode.insertBefore(ga, s);
 })();
         </script>
-
-        <script type="text/javascript">
-    setTimeout(function(){var a=document.createElement("script");
-        var b=document.getElementsByTagName("script")[0];
-        a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0013/6081.js?"+Math.floor(new Date().getTime()/3600000);
-        a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
-</script>
-
 
         <script>adroll_adv_id = "TWK7447A5JDAHLMIJBZUFT";
 adroll_pix_id = "3W5K7AZIBFACBNBQD45HWD";
@@ -1304,14 +1939,15 @@ var google_remarketing_only = true;
     
 
 
+
 <script>
     (function(){
         window.AF = window.AF || {};
         window.AF.interestData = {};
         
-        window.AF.interestController.start();
     })();
 </script>
+
   <script>window.fbAsyncInit = function() {
     FB.init({
         appId: '172689716102069',
