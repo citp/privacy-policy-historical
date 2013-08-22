@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the automatedprofitsmachine.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615033944id_/http%3A//automatedprofitsmachine.com/form-privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automatedprofitsmachine.com privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822073628id_/http%3A//www.automatedprofitsmachine.com/form-privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
