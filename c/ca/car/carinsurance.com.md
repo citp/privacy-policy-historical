@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carinsurance.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527014755id_/http%3A//www.carinsurance.com/PrivacySecurity.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carinsurance.com privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822172659id_/http%3A//www.carinsurance.com/PrivacySecurity.aspx) for the most accurate reproduction.*
 
 # CarInsurance.com Privacy Policy
 
