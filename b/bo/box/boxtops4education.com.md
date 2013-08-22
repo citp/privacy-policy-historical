@@ -1,8 +1,16 @@
-> *The following text is extracted and transformed from the boxtops4education.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509093254id_/http%3A//www.boxtops4education.com/common/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxtops4education.com privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822025620id_/http%3A//www.boxtops4education.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# BoxTops4Education
 
-**Effective Date:  June 6th, 2012**
+[](https://web.archive.org/)
+
+  * [Coupons](https://web.archive.org/savings-and-promotions/coupons "Coupons")
+  * [Sign Up](https://web.archive.org/consumer-registration?action=HeaderSignUp "Sign Up")
+  * [Log In](https://web.archive.org/login "Log In")
+
+__Search
+
+**Effective Date: July 29th, 2013**
 
 At General Mills, we are very sensitive to the privacy concerns of visitors to all of our websites, including our pages and applications on third-party social-networking services such as Facebook or Twitter and our applications on mobile devices. We know that maintaining your trust requires that we protect your privacy. This Privacy Policy explains our online information practices at this website and the choices that you, as a visitor to this website, can make about the collection and use of your information.
 
@@ -16,12 +24,13 @@ Here are the circumstances in which we might ask for personal information from o
   * You may be asked to provide personal information if you: 
     * register as a user of our website or to post content to our website;
     * agree to receive an online newsletter or other information or material from us;
-    * register for a sweepstakes, contest, or other promotion; 
+    * register for a sweepstakes, contest, or other promotion;
     * register to receive coupons through our website;
     * participate in a survey, a consumer research panel, or similar type of activity; or
-    * ask to receive an online newsletter or other information or material from us; or 
-    * otherwise participate in features of our website that ask for personal information. 
+    * ask to receive an online newsletter or other information or material from us; or
+    * otherwise participate in features of our website that ask for personal information.
   * If you purchase or otherwise request a product, publication, or promotional offering from us or take advantage of a rebate or similar offer, you may be required to provide your contact and/or payment information (such as a credit card number) in order for us to process your request.
+  * If you participate in the Box Tops Marketplace or other Box Tops programs where we will need to access information regarding your product purchases in order to credit your school, we may use that information to credit your school and to improve our marketing.
 
 
 
@@ -53,48 +62,6 @@ Some of these third parties may be involved in administering or supplementing ou
 
 We reserve the right to transfer any information we have about you in the event that we sell or transfer all or a portion of our business or assets to a third party. We also reserve the right to share information within General Mills amongst our various businesses.
 
-We reserve the right to disclose any personal information as needed if such information is requested by law enforcement agencies or if we are required to do so by law, regulation, subpoena, court order, or by a government entity. We also may disclose personal information to third parties if we have reason to believe that disclosing such information is necessary to conduct investigations of possible breaches of law or legal rights, to cooperate in any legal investigation, or to identify, contact, or bring legal action against someone who may be violating the terms of use of our website or any other terms applicable to any activity or feature of our website.
+We reserve the right to disclose any personal information as needed if such information is requested by law enforcement agencies or if we are required to do so by law, regulation, subpoena, court order, or by
 
-### Personal information we may receive from third-party social-networking services
-
-If you choose to access or make use of third-party social-networking services (such as Facebook or Twitter), we may receive personal information about you that you have made available to those services, including information about your contacts on those services. For example, some social-networking services allow you to push content from our website to your contacts or to pull information about your contacts so you can connect with them on our website. Some social-networking services also will facilitate your registration for our website or enhance or personalize your experience on our website. Your decision to use a social-networking service will always be voluntary. However, you should make sure you are comfortable with the information your third-party social-networking services may make available to our website by visiting those services’ privacy policies. Any personal information we receive through third-party social-networking services may be used as described above.
-
-### Security for credit card data and transaction information
-
-At General Mills, we are committed to keeping your online transactions safe and secure. In order to reasonably assure the privacy and security of your credit card and other personal data when making an order, we use Secure Sockets Layer (SSL) technology. SSL uses encryption technology to create a secure connection between your computer and ours. We have also put procedures in place to safeguard the information/data we collect from you. We cannot absolutely guarantee the security of any information you provide online; you provide it at your own risk.
-
-### Links to other sites
-
-Our website may contain links to the websites of our subsidiaries and affiliates, and to websites that are owned and operated by third parties. These other websites may have their own privacy policies and are not be governed by this Privacy Policy. We are not responsible for the privacy practices or the content of websites owned and operated by any such third parties. Other websites may collect and treat information collected differently, so we encourage you to carefully read and review the privacy policy for each website you visit.
-
-### User-generated content and public profile features
-
-This website may, from time to time, contain interactive areas where website users might submit comments or other content (including information about the user that might be displayed in the user’s public profile within an online community) that may be posted on the website or otherwise published. Users who do this should be aware that when they voluntarily disclose personally identifiable information (e.g., name, e-mail address, etc.) in content submitted for posting or publication, the information can be read and used by others. This may result in unsolicited messages from other posters or parties. We make no representations and undertake no obligations as to the security or use of information you voluntarily include when submitting content.
-
-### Send-to-a-friend tools
-
-This website may, from time to time, include a send-to-a-friend application that makes it easy for you to forward information or materials from our website to friends or family by e-mail. In order to address your e-mail message, the application may ask you to input the recipient’s e-mail address and/or similar information (including your e-mail address). This information is only used by the application to address your message so that it can be properly sent. General Mills does not retain any of this information for any purpose.
-
-### Children's privacy
-
-This website is not directed to children and we will not request any information from children under 13 at this website. General Mills does have other websites that are geared in whole or in part to a child audience. Our commitment to the privacy of children is described more fully in the privacy policies of those websites. General Mills and its affiliated companies take special care to protect the privacy of children under the age of 13. We have developed our privacy practices as they relate to children from guidelines established by the Children’s Advertising Review Unit (CARU) and in compliance with the requirements established by the Children’s Online Privacy Protection Act of 1998 (“COPPA”). We also recommend that parents monitor their children’s Internet activities and learn and employ software or other tools which can help their children enjoy the fun and entertainment of an on-line experience without compromising their personal safety or allowing them to use the Internet in a manner inconsistent with their parents’ preferences.
-
-### United States only
-
-This website is intended for use by residents of the United States of America only. All matters relating to this website are governed by the laws of the United States. If you are located outside of the United States and you contact us, please be advised that any information you provide to us will be transferred to the United States and that by submitting information you explicitly authorize this transfer and the processing of this information within the United States.
-
-### Changes in our online privacy policy
-
-We reserve the right to change or replace this Privacy Policy at our sole discretion at any time. Please check back from time to time to ensure that you are aware of any updates or changes in this Privacy Policy. Unless stated otherwise, our current Privacy Policy applies to all information gathered via this website.
-
-### Your consent to the terms of this privacy policy
-
-By using this website, you signify your assent to all of the terms of this Privacy Policy and this website’s Terms of Use. If you do not agree with any term of this Privacy Policy or our Terms of Use, please do not use this website or submit any personally identifiable information.
-
-### Your control over your information
-
-You always have the right to review and update the information that you previously provided to us at this website. You may contact us as described immediately below in order to arrange this or to ask us to remove you from our list of email addresses to which we send email newsletters. All of our email newsletters also contain an “unsubscribe” link that you can click through to unsubscribe from future emails.
-
-### How to contact us
-
-If you have any questions or concerns about this Privacy Policy or about our collection or use of information, please [Contact Us](https://web.archive.org/common/contact.aspx). You may also reach us by telephone at 1-800-248-7310 weekdays from 7:30 a.m. – 5:30 p.m. Central Time.
+**Cookies = good. No cookies = bad.** It's true in life, and it's true here, too. Please enable your computer's cookies in order to view this page.
