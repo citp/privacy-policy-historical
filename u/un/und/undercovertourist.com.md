@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the undercovertourist.com privacy policy that was archived on 2013-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130406004413id_/http%3A//www.undercovertourist.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the undercovertourist.com privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822073239id_/http%3A//www.undercovertourist.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy - Undercover Tourist
 
-**Last Updated 03/18/2013**
+**Last Updated 07/10/2013**
 
 _No spam, just common sense and trust ..._
 
@@ -25,7 +25,11 @@ UndercoverTourist.com has taken great care in providing _Secure Transmission_ of
 **Ordering Information & Contact Information**  
 Our Website uses various order forms for you to request information, products & services.
 
-We collect contact information, such as your name, mailing and or email address and financial information (your credit card number, expiration date, billing address) to process your order. We do not store your credit card number. Contact information from an order form is used for billing purposes and to fill your order. If we have difficulty processing an order, we may use the contact information to communicate with you. If you actively request information from us (an example of a request would be if you actively checked a box to sign up for our mailing list) we will respond to your request. 
+_Non-Personally Identifiable Information:_ When you visit the site, we collect some basic information that does not identify individual users. This includes pages visited, types of products purchased, and feedback from our visitors, as well as location data, logs and other communication data, and information about your computer and internet connection, including your IP address, operating system and browser type.
+
+Third party advertising companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites. These companies typically use a cookie or third party web beacon to collect this information. These third party cookies do not collect personally identifiable information. For more information about cookies and how to opt out of third party data collection, please refer to the section entitled 'Cookies' within this policy.
+
+_Personally Identifiable Information:_ When you make a purchase on this site, we collect contact information, such as your name, mailing and or email address and financial information (your credit card number, expiration date, billing address) to process your order. We do not store your credit card number. Contact information from an order form is used for billing purposes and to fill your order. If we have difficulty processing an order, we may use the contact information to communicate with you. If you actively request information from us (an example of a request would be if you actively checked a box to sign up for our mailing list) we will respond to your request. 
 
 The contact information may be used to contact you when necessary regarding your order. We may send you information about our company if you actively request it. The financial information that is collected to process your request for products & services will not be shared with third parties who are not involved with the transaction.  
 When credit card information is transmitted we use industry standard, SSL (secure socket layer) encryption. 
@@ -39,8 +43,6 @@ Information provided by you, such as your email address, via Email inquiries to 
 **Data Collection**  
 InsiderGuide.com, LC dba UndercoverTourist.com is the sole owner of the information collected on this Website. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. 
 
-Certain non-personal information is recorded by the standard operation of the Internet servers we use to host our Web site. We collect information such as the type of browser being used, its operating system & your IP address in order to enhance your online experience. 
-
 By using this site, you signify your assent to UndercoverTourist.com Privacy Policy. 
 
 If you do not agree with this policy, please do not visit our site. No data transmission over the Internet can be guaranteed to be 100% secure. 
@@ -50,16 +52,11 @@ We will strive to protect your personal information, however InsiderGuide.com, L
 Once we receive your transmission, we make our best effort to ensure its security on our systems. 
 
 **Cookies**  
-Cookies are pieces of information that a Web site transfers to an individual's computer hard drive for record keeping purposes. Cookies make using our Web site easier. 
+We collect non-personal information about our website traffic and usage patterns from technology such as Cookies and Web Beacons. Cookies are small text files that help us to personalize the content of our website. Web Beacons are electronic files used to track your navigation on a website or collection of sites, the completion of transactions, submittal of applications and browsing behavior. 
 
-We use cookies to keep track of your shopping cart when you visit our online store, and help identify you when you return to the Store.  
-These cookies are restricted for use only on our Sites and do not transfer any personal information to any other party. 
+We use cookies and other tracking technology to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, and keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are permitted to use the information collected on our behalf to help us conduct and improve our business.
 
-Most browsers are set up to accept cookies as default. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. 
-
-If you choose to disable your cookies setting or refuse to accept a cookie, some parts of UndercoverTourist.com web site will not function properly or may be considerably slower. We serve Ads supplied by Google.com. Third parties may be placing and reading cookies on your browser to collect information, in the course of ads being served. 
-
-Without cookies, you may have difficulty completing shopping transactions. 
+If you prefer, you can choose to turn off all cookies via your browser settings. However, if you turn your cookies off, some of our services may not function properly. To learn more about the use of this information or to choose not to have this information used by our third-party advertising partner by opting out, please visit the Network Advertising Initiative by clicking [here](http://www.networkadvertising.org/choices/). **If you delete your Cookies, use a different browser, or buy a new computer, you will need to renew your opt-out choice.**
 
 **IP Address**  
 An IP address is a number that's automatically assigned to your computer by your Internet provider whenever you're surfing the Web. 
