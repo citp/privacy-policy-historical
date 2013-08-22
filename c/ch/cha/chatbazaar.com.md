@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chatbazaar.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115090422id_/http%3A//www.chatbazaar.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatbazaar.com privacy policy that was archived on 2013-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130823010242id_/http%3A//www.chatbazaar.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Chat, Free Chat, Free Chat rooms, Chatting, UK US London Dating Chat - Privacy Policy : www.chatbazaar.com
 
