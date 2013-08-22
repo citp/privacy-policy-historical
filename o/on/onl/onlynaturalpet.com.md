@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the onlynaturalpet.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117020139id_/http%3A//www.onlynaturalpet.com/help/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlynaturalpet.com privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822134304id_/http%3A//www.onlynaturalpet.com/help/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Only Natural Pet Store
 
 | 
 
-[](https://privacy.truste.com/privacy-seal/Only-Natural-Pet-Store/validation?rid=ff367646-e289-4b99-9061-7bafb321bb5e "TRUSTe online privacy certification")  
+[](http://privacy.truste.com/privacy-seal/Only-Natural-Pet-Store/validation?rid=ff367646-e289-4b99-9061-7bafb321bb5e "TRUSTe online privacy certification")  
   
 ---|---  
   
@@ -36,7 +36,7 @@ Yes. Cookies are small files that a site or its service provider transfers to yo
 
 Some of our business partners use cookies on our website. We have no access to or control over these cookies. This privacy statement covers the use of cookies by this website only and does not cover the use of cookies by any advertisers.
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Firefox or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting customer service at 888-937-6677. You can delete the cookies we have placed by [clicking here](https://web.archive.org/?cookies=delete).
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Firefox or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting customer service at 888-937-6677. You can delete the cookies we have placed by [clicking here](http://www.onlynaturalpet.com/?cookies=delete).
 
 **Do we disclose the information we collect to outside parties?**
 
@@ -55,9 +55,9 @@ Your email address will not be sold or rented to an outside party. You will not 
 
 **How can you opt-out, deactivate, or modify information you have provided to us?**
 
-To modify your e-mail subscriptions, please [click here](https://web.archive.org/web/20130117020139id_/http%3A//myaccount/secure/catalogpreferences.aspx) to be taken to our email subscription management page. There is also a link at the bottom of each email subscription communication with a link that will take you to this page. Please note that due to email production schedules you may receive any emails already in production.
+To modify your e-mail subscriptions, please [click here](http://www.onlynaturalpet.com/myaccount/secure/catalogpreferences.aspx) to be taken to our email subscription management page. There is also a link at the bottom of each email subscription communication with a link that will take you to this page. Please note that due to email production schedules you may receive any emails already in production.
 
-If your personally identifiable information changes, you may [click here](https://web.archive.org/web/20130117020139id_/http%3A//myaccount/secure/myaccount.aspx) to sign into your account and update it or delete your existing personally identifiable information. You may also update your information, or if you no longer desire our service, deactivate it, by contacting us at [service@onlynaturalpet.com](mailto:service@onlynaturalpet.com) or 888-937-6677. Please note that even if you deactivate your account, we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.
+If your personally identifiable information changes, you may [click here](http://www.onlynaturalpet.com/myaccount/secure/myaccount.aspx) to sign into your account and update it or delete your existing personally identifiable information. You may also update your information, or if you no longer desire our service, deactivate it, by contacting us at [service@onlynaturalpet.com](mailto:service@onlynaturalpet.com) or 888-937-6677. Please note that even if you deactivate your account, we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.
 
 **Security**
 
@@ -83,6 +83,10 @@ Any information that these third parties collect via cookies and action tags is 
 
 If you would like more information about this practice and your choices, including how to opt-out [click here.](http://www.networkadvertising.org/optout_nonppii.asp)
 
+**California Residents**
+
+Orders placed from California comply with California collection and use of personally identifiable information laws. Pursuant to Section 1798.83 of the California Civil Code, residents of California have the right to request from a business, with whom the California resident has an established business relationship, certain information with respect to the types of personal information the business shares with third parties for direct marketing purposes by such third party and the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year. To request a copy of the information disclosure provided by OnlyNaturalPet.com pursuant to Section 1798.83 of the California Civil Code, please contact service@onlynaturalpet.com. **.**
+
 **Changes to our policy**
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by other means. **This policy was last modified on October 30, 2012.**
@@ -97,7 +101,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20130117020139id_/http%3A//www.onlynaturalpet.com/help/termsofuse.aspx) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](http://www.onlynaturalpet.com/help/termsofuse.aspx) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 **Your Consent**
 
