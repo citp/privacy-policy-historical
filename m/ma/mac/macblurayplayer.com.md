@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macblurayplayer.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117131052id_/http%3A//www.macblurayplayer.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macblurayplayer.com privacy policy that was archived on 2013-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130823004152id_/http%3A//www.macblurayplayer.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Macgo Blu-ray player Privacy Policy
 
@@ -50,7 +50,7 @@ In the event that we use third party advertising companies to serve ads on our b
 
 Supplementation of Information 
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources (e.g., information from our strategic partners,service providers, or the United States Postal Service). We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources (e.g., information from our strategic partners, service providers, or the United States Postal Service). We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
 Contests/Surveys
 
