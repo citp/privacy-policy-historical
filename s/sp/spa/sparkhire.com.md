@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sparkhire.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511024712id_/https%3A//www.sparkhire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparkhire.com privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822031420id_/https%3A//www.sparkhire.com/privacy) for the most accurate reproduction.*
 
 # Privacy and Security Policy - Spark Hire
 
@@ -36,7 +36,7 @@ The Website is a professional website directed toward individual job seekers, in
 
 2.1.4 Spark Hire does consider your Internet Protocol (“IP”) address to be PII and will treat it as such. 
 
-**.2 Information Collected**
+**2.2 Information Collected**
 
 2.2.1 Spark Hire collects information that is considered PII and other information that, by itself, would not be considered personally identifiable information (“Non-PII”). 
 
@@ -72,7 +72,7 @@ Additionally, we may use aggregated information derived from PII to improve the 
 
 **2.4 Disclosing Personal Information**
 
-**2.4.1 We do not share PII we obtain from your use of our Apps, Website, and/or Spark Hire Services with others except as described in this Privacy Policy and the[Terms of Service.](https://web.archive.org/terms)**
+**2.4.1 We do not share PII we obtain from your use of our Apps, Website, and/or Spark Hire Services with others except as described in this Privacy Policy and the[Terms of Use.](https://web.archive.org/terms)**
 
 _General_.
 
@@ -86,7 +86,7 @@ _General_.
 
 2.4.5 _Legal Compliance_. Spark Hire may disclose any information about you and/or Content created by you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to: (1) comply with an order from a court of competent jurisdiction, regulatory agency, and/or other governmental authority; (2) respond to claims, court orders, or other legal process (including subpoenas); (3) to enforce the terms of this and other Spark Hire agreements as well as to protect the property and rights of Spark Hire, its Strategic Partners or other third parties; (4) to protect, in Spark Hire’s sole discretion, the public or any person from harm; (5) to investigate, prevent, stop, or take other action regarding any action perceived to be fraudulent, illegal, unethical, or legally actionable in Spark Hire’s sole discretion; and/or, generally, (6) to comply with the law. 
 
-4.4.6 _Notice_. Unless restricted from doing so, Spark Hire will attempt to notify you before it releases any of your PII or Content pursuant to (1) and (2) in paragraph 2.4.5 only. In such cases, Spark Hire will also provide you with general information on how you may seek to block such a release of information and/or direct you to resources that can provide such general information. The provision of such general information to you is not and should not be construed as providing you with legal advice. Additionally, Spark Hire is under no other obligation to assist you in challenging or opposing a release of your information 
+2.4.6 _Notice_. Unless restricted from doing so, Spark Hire will attempt to notify you before it releases any of your PII or Content pursuant to (1) and (2) in paragraph 2.4.5 only. In such cases, Spark Hire will also provide you with general information on how you may seek to block such a release of information and/or direct you to resources that can provide such general information. The provision of such general information to you is not and should not be construed as providing you with legal advice. Additionally, Spark Hire is under no other obligation to assist you in challenging or opposing a release of your information 
 
 **2.5 Non-Personally Identifiable Information**
 
@@ -100,7 +100,7 @@ _General_.
 
 **Information Obtained From Use of Spark Hire’ Websites**
 
-2.6. Cookies
+**2.6. Cookies**
 
 2.6.1. Cookies can be defined as bits of data stored on your computer that allow website(s) to identify your browser and session. 
 
@@ -122,15 +122,45 @@ D. Conduct research to improve the content and services provided on the Spark Hi
 
 2.6.1.6. Most web browser’s automatically accept and collect Cookies. Depending upon your web browser’s security settings, you may have the ability to reject all cookies. 
 
-2.6.2. Browser and Session Information
+2.6.2. Google AdWords Marketing
+
+2.6.2.1. Spark Hire may use, from time to time, Google Adwords marketing campaigns to promote its products and services. In particular, Spark Hire intends to use Google AdWords “Remarketing” campaigns. 
+
+2.6.2.2. In using Google Adwords marketing campaigns, Google will place a cookie on your computer when you visit Spark Hire’s website(s). As you leave Spark Hire’s website(s), this cookie will later enable banners and other materials to appear through which you can return to Spark Hire’s website(s).
+
+2.6.2.3. The foregoing being said, through the use of any Google AdWords marketing campaign, Spark Hire:
+
+A. SHALL NOT run an interest-based advertising campaign that collects PII;
+
+B. SHALL NOT use or associate PII with remarketing lists, cookies, data feeds, or other anonymous identifiers;
+
+C. SHALL NOT use or associate targeting information, such as demographics or location, with any PII collected from any Google AdWords ad or landing page associated with it;
+
+D. SHALL NOT target children under the age of 13 through any Google AdWords campaign;
+
+E. SHALL NOT share any PII with Google through Spark Hire’s remarketing tag or any product data feeds which might be associated with Spark Hire’s ads;
+
+F. SHALL NOT, when creating a remarketing list, use any sensitive information (as defined by Google), or products associated with such sensitive information, about visitors to Spark Hire’s Website(s), any of its Webpages, or Apps, whether Spark Hire collected it directly or associated it with a visitor, based on the visitor's profile or behavior on Spark Hire’s website(s), webpages, and/or through its Apps; 
+
+G. SHALL NOT create a remarketing list or ad that seeks to reach people through prohibited methods; and,
+
+H. SHALL NOT create or produce ad content that implies knowledge of PII or sensitive information.
+
+2.6.2.4. Spark Hire has no objection to Google providing notice or labels to disclose interest-based advertising to its users.
+
+2.6.2.5. Spark Hire has no objection to Google displaying to its users the remarketing lists, including those of Spark Hire, upon which they appear.
+
+2.6.2.6. For your protection, Google will not disclose Spark Hire remarketing lists or other similar audience lists to another advertiser without Spark Hire’s consent. At this time, Spark Hire shall not permit such disclosures. 
+
+2.6.3. Browser and Session Information
 
 Spark Hire may collect information about your browser and session at the Website and/or using the Website Services. 
 
-2.6.3. IP Addresses
+2.6.4. IP Addresses
 
-2.6.3.1. Spark Hire maintains a log of Internet Protocol (IP) addresses when any corporate owned computers, servers, and/or websites (including, the Website) have been accessed. An IP address by itself does not allow us to collect additional PII about you. 
+2.6.4.1. Spark Hire maintains a log of Internet Protocol (IP) addresses when any corporate owned computers, servers, and/or websites (including, the Website) have been accessed. An IP address by itself does not allow us to collect additional PII about you. 
 
-2.6.3.2. IP addresses may be used for various purposes, including to: 
+2.6.4.2. IP addresses may be used for various purposes, including to: 
 
 A. Diagnose and prevent service or technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP; 
 
@@ -140,21 +170,21 @@ C. Help determine which users have access privileges to certain content, service
 
 D. Monitor and prevent fraud and abuse. 
 
-2.6.3.3. OTHER THAN YOUR IP ADDRESS, SPARK HIRE DOES NOT DIRECTLY COLLECT ANY PERSONALLY IDENTIFIABLE INFORMATION ABOUT YOU UNLESS YOU VOLUNTARILY PROVIDE US WITH THIS INFORMATION. 
+2.6.4.3. OTHER THAN YOUR IP ADDRESS, SPARK HIRE DOES NOT DIRECTLY COLLECT ANY PERSONALLY IDENTIFIABLE INFORMATION ABOUT YOU UNLESS YOU VOLUNTARILY PROVIDE US WITH THIS INFORMATION. 
 
 **2.7 Data Retention**
 
-**2.7.1.** Spark Hire shall use commercially reasonable efforts to maintain storage information subject to the terms of this Privacy and Security Policy and the Terms of Use. 
+2.7.1. Spark Hire shall use commercially reasonable efforts to maintain storage information subject to the terms of this Privacy and Security Policy and the Terms of Use. 
 
-**2.7.2.** The length of time for which Spark Hire retains PII and other information will vary depending on the nature of the services for which the information has been collected and the nature of the information. 
+2.7.2. The length of time for which Spark Hire retains PII and other information will vary depending on the nature of the services for which the information has been collected and the nature of the information. 
 
-**2.7.3.** Although this period may extend beyond the end of your relationship with Spark Hire, it will be retained for only so long as necessary for Spark Hire to respond to any issues arising from your relationship with Spark Hire. 
+2.7.3. Although this period may extend beyond the end of your relationship with Spark Hire, it will be retained for only so long as necessary for Spark Hire to respond to any issues arising from your relationship with Spark Hire. 
 
-**2.7.4.** When Spark Hire no longer needs or requires your personal information, Spark Hire will destroy, delete, erase or convert information to an anonymous form without notice to you. 
+2.7.4. When Spark Hire no longer needs or requires your personal information, Spark Hire will destroy, delete, erase or convert information to an anonymous form without notice to you. 
 
-**2.7.5.** Depending on the package of services purchased, Spark Hire may delete information including, but not limited to, stored messages, interviews, videos, audio, other content, and records of your account without notice to you. Spark Hire recommends that you back up on your own computer any critical and important information prior to allowing your Spark Hire Services to terminate or expire. 
+2.7.5. Depending on the package of services purchased, Spark Hire may delete information including, but not limited to, stored messages, interviews, videos, audio, other content, and records of your account without notice to you. Spark Hire recommends that you back up on your own computer any critical and important information prior to allowing your Spark Hire Services to terminate or expire. 
 
-**2.7.6.** Should your account be terminated, Spark Hire may immediately and permanently delete all stored messages, interviews, videos, audio, other content, and records of your account without notice to you. 
+2.7.6. Should your account be terminated, Spark Hire may immediately and permanently delete all stored messages, interviews, videos, audio, other content, and records of your account without notice to you. 
 
 **3\. CONSENT**
 
