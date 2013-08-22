@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clientscommunication.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610151625id_/http%3A//clientscommunication.com/ppp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clientscommunication.com privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822232208id_/http%3A//clientscommunication.com/ppp.php) for the most accurate reproduction.*
 
 # Free worldwide SMS service
 
