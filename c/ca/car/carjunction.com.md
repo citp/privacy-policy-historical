@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carjunction.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616040052id_/http%3A//www.carjunction.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carjunction.com privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822124042id_/http%3A//www.carjunction.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Car Junction Privacy Policy : Import used vehicles directly from Japan
 
