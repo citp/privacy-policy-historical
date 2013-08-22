@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 123newyear.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513025615id_/http%3A//www.123newyear.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123newyear.com privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822061810id_/http%3A//www.123newyear.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - 123newyear.com
 
-We at 123newyear.com a subsidiary of Compare Infobase Ltd are committed to safeguarding your online privacy. Please do read the following policy to understand how your private information will be treated while you make full use of our e-shopping or other offerings. This policy may change from time to time so please come back to check periodically. Compare Infobase Ltd or its subsidiary 123newyear.com may collect the information explained herein under.
+We at 123newyear.com are committed to safeguarding your online privacy. Please do read the following policy to understand how your private information will be treated while you make full use of our e-shopping or other offerings. This policy may change from time to time so please come back to check periodically. 123newyear.com may collect the information explained herein under.
 
 **1\. What identifiable information is collected from me?**
 
@@ -10,13 +10,13 @@ We at 123newyear.com a subsidiary of Compare Infobase Ltd are committed to safeg
 
 **2\. What are cookies and how 123newyear.com uses them?**
 
-As combined part of offering and providing customised and personalised services, 123newyear.com may use cookies to store and track your information. A cookie is a miniscule amount of data that is sent to your browser from a Web server that may be stored on your computer's hard drive. If you choose to have Compare Infobase Ltd. browse map images, routes and trip plans we will require that you accept cookies. 
+As combined part of offering and providing customised and personalised services, 123newyear.com may use cookies to store and track your information. A cookie is a miniscule amount of data that is sent to your browser from a Web server that may be stored on your computer's hard drive.
 
 Cache your personalised settings for items such as route language and default country location.Determine whether you are using a public computer so that any 123newyear.com settings changed while using a public computer do not affect the next user's ability to use 123newyear.com . Roughly Estimate our audience or browsers. Each fresh browser trying to access 123newyear.com may be given a cookie. That maybe used to determine the extent of repeat usage by the user. 
 
 Assist us to track the number of visits to and business activities at the 123newyear.com or 123newyear.com store, and to track and process the items in your shopping basket. 
 
-Track your progress and number of entries or queries in some of our promotions, and contests. When a Compare Infobase-hosted promotion uses cookies, the information written to the cookie may be used to track the entries, submissions made, and status in prize drawings list. 
+Track your progress and number of entries or queries in some of our promotions, and contests. When a same-hosted promotion uses cookies, the information written to the cookie may be used to track the entries, submissions made, and status in prize drawings list. 
 
 Measure certain specific traffic patterns to the site, track the areas of 123newyear.com network of Web sites visited, track the Web site or geographical location through which you came to 123newyear.com and your visiting patterns in average. We use this research to understand our users' visit habits and browsing preferences of if they are similar or different from one another so that we can make each visit by you on 123newyear.com better experience then last one. We may use this information to better the content, banners, and promotions that you and other users will be likely to see on our sites. 
 
