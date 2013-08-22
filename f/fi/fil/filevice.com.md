@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the filevice.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601092636id_/http%3A//filevice.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filevice.com privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822175759id_/http%3A//filevice.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Filevice - Easy way to share your files
 
 **Importance of your Privacy Policy**
 
 This FileVice Website Privacy Policy ("Privacy Policy") covers our treatment of personally identifiable information and other information that we collect when you: (a) access or use the website located at FileVice.com (the "Website"); (b) become a Member (as defined in the FileVice Website Terms and Conditions ("Terms and Conditions"); and/or (c) use the Services (as defined in the Terms and Conditions). The Website is an Internet property of FileVice Ltd. and its affiliated companies (FileVice," "we" or "us"). 
 
-Need help Signing up?
+**Need help Signing up?**
 
-If you have any questions please email us at **support@filevice.com**
+If you have any questions please email us at **support@filevice.com** or submit a support ticket. 
 
 **Personally Identifiable Information Collected**
 
