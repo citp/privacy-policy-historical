@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the gyminee.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619041846id_/http%3A//dailyburn.com/web_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gyminee.com privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822080827id_/http%3A//dailyburn.com/web_privacy) for the most accurate reproduction.*
 
 # DailyBurn — Better Fitness Results in Less Time
-
-Hide You need to sign in or sign up before continuing. 
 
 Daily Burn, Inc. (“Daily Burn”) is a part of the IAC family of businesses (www.iac.com), which includes Ask.com, Zwinky.com, Girlsense.com, Match.com, ServiceMagic, College Humor, and many others. 
 
@@ -96,7 +94,7 @@ Daily Burn, Inc.
 New York, New York 10011  
 [support@dailyburn.com](mailto:support@dailyburn.com)
 
-©2012 Daily Burn, Inc.. All rights reserved. 
+©2013 Daily Burn, Inc.. All rights reserved. 
 
   
 
