@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motoring.com.au privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514071300id_/http%3A//www.motoring.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motoring.com.au privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822055719id_/http%3A//www.motoring.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Car news, reviews & videos - Privacy Policy - motoring.com.au
 
