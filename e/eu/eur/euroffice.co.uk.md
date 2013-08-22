@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the euroffice.co.uk privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426141155id_/http%3A//www.euroffice.co.uk/helptopic.aspx%3Ftopic%3D149%26section%3D42) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the euroffice.co.uk privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822145030id_/http%3A//www.euroffice.co.uk/helptopic.aspx%3Ftopic%3D149%26section%3D42) for the most accurate reproduction.*
 
 # Privacy Policy- Euroffice
 
