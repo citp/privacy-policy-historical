@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the nitrous.io privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621234550id_/http%3A//help.nitrous.io/admin-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nitrous.io privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822055719id_/http%3A//help.nitrous.io/admin-privacy) for the most accurate reproduction.*
 
-# Nitrous | Help
+# Privacy policy
+
+##### Last Updated on: 28 June 2013
 
 _This Privacy Policy is effective April 1, 2013._
 
-Irrational Industries, Inc. the makers and owners of Nitrous.IO ("Nitrous.IO” or the “Company”) is committed to protecting the privacy of your information. This Privacy Statement describes Nitrous.IO Web site and platform privacy practices.
+Irrational Industries, Inc. the makers and owners of Nitrous.IO (“Nitrous.IO” or the “Company”) is committed to protecting the privacy of your information. This Privacy Statement describes Nitrous.IO Web site and platform privacy practices.
 
 ### 1\. Web Site Covered
 
-This Privacy Statement covers the information and practices of [http://nitrous.io](http://nitrous.io/).
+This Privacy Statement covers the information and practices of http://nitrous.io.
 
 ### 2\. Information Collected
 
@@ -92,7 +94,7 @@ Nitrous.IO offers Customers and Visitors who provide contact information a means
 
 ### 9\. Correcting and Updating Your Information
 
-Customers may update or change their registration information by logging in to their accounts at [http://nitrous.io](http://nitrous.io/). Requests to access, change, or delete your information will be handled within 30 days.
+Customers may update or change their registration information by logging in to their accounts at http://nitrous.io. Requests to access, change, or delete your information will be handled within 30 days.
 
 ### 10\. Security
 
