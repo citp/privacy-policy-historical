@@ -1,12 +1,17 @@
-<!--The following is the downloaded HTML source of the readwhere.com privacy policy that was archived on 2013-04-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130423185901id_/https%3A//www.readwhere.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the readwhere.com privacy policy that was archived on 2013-08-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130823155629id_/http%3A//www.readwhere.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-    <meta http-equiv="Content-Type" content="text/html; charset='UTF-8'">
-<meta name="google-site-verification" content="vwHAcY1rPC21wtFuCeF1b7QqMuZeLmtDRBjU-kvgMkk">
-<meta name="apple-itunes-app" content="app-id=544688485, app-argument=http://itunes.apple.com/us/app/readwhere/id544688485?ls=1&amp;mt=8">
+    <link rel="stylesheet" type="text/css" href="/css/rwlayout.css?version=52176a4aad67f">
+<link rel="stylesheet" type="text/css" href="/css/smoothness/jquery-ui-1.8.16.custom.min.css?version=52176a4aad67f">
+<link rel="stylesheet" type="text/css" href="/css/jquery.mCustomScrollbar.css?version=52176a4aad67f">
+<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="/js/jquery-1.8.3.min.js?version=52176a4aad67f"></script>
+<title> Privacy Policy | Read on Web, iPhone, iPad, android &amp; windows 8 - readwhere    </title>
+  <meta http-equiv="Content-Type" content="text/html; charset='UTF-8'">
+  <meta name="google-site-verification" content="vwHAcY1rPC21wtFuCeF1b7QqMuZeLmtDRBjU-kvgMkk">
+  <meta name="apple-itunes-app" content="app-id=544688485, app-argument=http://itunes.apple.com/us/app/readwhere/id544688485?ls=1&amp;mt=8">
 
-    <script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">
+    <script type="text/javascript">
       window.config = {
         'base_url' : 'http://www.readwhere.com/design-elements/',
         'app_base_url' : 'http://www.readwhere.com/',
@@ -21,14 +26,7 @@
         margin: .8em 0 .2em;
         line-height: 1.5;
     }
-    </style>
-    <link rel="stylesheet" type="text/css" href="/css/rwlayout.css?version=5176a4db8b01f">
-<link rel="stylesheet" type="text/css" href="/css/smoothness/jquery-ui-1.8.16.custom.min.css?version=5176a4db8b01f">
-<link rel="stylesheet" type="text/css" href="/css/jquery.mCustomScrollbar.css?version=5176a4db8b01f">
-<script type="text/javascript" src="/js/jquery-1.8.3.min.js?version=5176a4db8b01f"></script>
-<script type="text/javascript" src="/js/jquery.mCustomScrollbar.min.js?version=5176a4db8b01f"></script>
-<script type="text/javascript" src="/js/jquery.mousewheel.min.js?version=5176a4db8b01f"></script>
-<title> Privacy Policy - readwhere	</title>     <script type="text/javascript">
+    </style>     <script type="text/javascript">
       $(document).ready(function() {                       //alert(config.guest);
         if(config.guest === "true") {
           $('#rating').click(function() { });
@@ -37,7 +35,7 @@
         //$('#tab_style1 .viewport').css('height','418px');
         //$('#tab_style1').tinyscrollbar({ size: 415,sizethumb: 75 });
         $("abbr.timeago").timeago();
-
+    $('.ui-autocomplete').addClass('search_suggestions_container');
         $("#my_cart").click( function(e){
           e.stopPropagation();
         });
@@ -104,88 +102,88 @@
             }
 
           });
-					var noti_loading = false;
-					var noti_available = true;
-					var noti_page = 1;
-					var lastScrollTop = 0;
-					var noti_record_count = 5;
+          var noti_loading = false;
+          var noti_available = true;
+          var noti_page = 1;
+          var lastScrollTop = 0;
+          var noti_record_count = 5;
 
-				$(".all_noti_box ul").mCustomScrollbar({
-					horizontalScroll:false,
-					scrollInertia:550,
-					scrollEasing:"easeOutBack",
-					mouseWheel:"pixels",
-					mouseWheelPixels:100,
-					autoDraggerLength:true,
-					scrollButtons:{
-						enable:false,
-						scrollType:"continuous",
-						scrollSpeed:20,
-						scrollAmount:40
-					},
-					advanced:{
-						updateOnBrowserResize:true,
-						updateOnContentResize:true,
-						autoExpandHorizontalScroll:false,
-						autoScrollOnFocus:true
-					},
-					callbacks:{
-						onTotalScroll:function(){
-														  $('#noti_loader').show();
-															var scrollTop = $('all_noti_box ul').scrollTop();
-															if (scrollTop >= lastScrollTop && (noti_loading == false) && (noti_available == true)) {
-																lastScrollTop = scrollTop;
-																noti_loading = true;
-																noti_page = noti_page + 1;
-																noti_req_url = '/ajax/loadMoreNotifications'+'/'+noti_page+'/'+noti_record_count;
-																$.ajax({
-																	url: noti_req_url,
-																	success: function (response) {
-																							if(response) {
-																								$('#noti_loader').before(response);
-																								$("abbr.timeago").timeago();
-																								noti_available = true;
-																							} else {
-																								noti_available = false;
-																							}
-																								noti_loading = false;
-																					},
-																	dataType: 'html'
-																});
-																gaTrackpageview(noti_req_url);
-															} else {
-																$('#noti_loader').hide();
-															}
+        $(".all_noti_box ul").mCustomScrollbar({
+          horizontalScroll:false,
+          scrollInertia:550,
+          scrollEasing:"easeOutBack",
+          mouseWheel:"pixels",
+          mouseWheelPixels:100,
+          autoDraggerLength:true,
+          scrollButtons:{
+            enable:false,
+            scrollType:"continuous",
+            scrollSpeed:20,
+            scrollAmount:40
+          },
+          advanced:{
+            updateOnBrowserResize:true,
+            updateOnContentResize:true,
+            autoExpandHorizontalScroll:false,
+            autoScrollOnFocus:true
+          },
+          callbacks:{
+            onTotalScroll:function(){
+                              $('#noti_loader').show();
+                              var scrollTop = $('all_noti_box ul').scrollTop();
+                              if (scrollTop >= lastScrollTop && (noti_loading == false) && (noti_available == true)) {
+                                lastScrollTop = scrollTop;
+                                noti_loading = true;
+                                noti_page = noti_page + 1;
+                                noti_req_url = '/ajax/loadMoreNotifications'+'/'+noti_page+'/'+noti_record_count;
+                                $.ajax({
+                                  url: noti_req_url,
+                                  success: function (response) {
+                                              if(response) {
+                                                $('#noti_loader').before(response);
+                                                $("abbr.timeago").timeago();
+                                                noti_available = true;
+                                              } else {
+                                                noti_available = false;
+                                              }
+                                                noti_loading = false;
+                                          },
+                                  dataType: 'html'
+                                });
+                                gaTrackpageview(noti_req_url);
+                              } else {
+                                $('#noti_loader').hide();
+                              }
 
-							},
-						onTotalScrollOffset:50
-					}
-				});
+              },
+            onTotalScrollOffset:50
+          }
+        });
 
 
       });
-      function scroll_cart_items(ulclass) {
-        $('.'+ulclass).mCustomScrollbar({
-					set_height: 300,
-					horizontalScroll:false,
-					scrollInertia:550,
-					scrollEasing:"easeOutBack",
-					mouseWheel:"pixels",
-					mouseWheelPixels:100,
-					autoDraggerLength:true,
-					scrollButtons:{
-						enable:false,
-						scrollType:"continuous",
-						scrollSpeed:20,
-						scrollAmount:40
-					},
-					advanced:{
-						updateOnBrowserResize:true,
-						updateOnContentResize:true,
-						autoExpandHorizontalScroll:false,
-						autoScrollOnFocus:true
-					}
-				});
+      function scroll_cart_items(divid) {
+        $(divid).mCustomScrollbar({
+          horizontalScroll:false,
+          scrollInertia:550,
+          scrollEasing:"easeOutBack",
+          mouseWheel:"pixels",
+          mouseWheelPixels:100,
+          autoDraggerLength:true,
+          autoHideScrollbar: true,
+          scrollButtons:{
+            enable:false,
+            scrollType:"continuous",
+            scrollSpeed:20,
+            scrollAmount:40
+          },
+          advanced:{
+            updateOnBrowserResize:true,
+            updateOnContentResize:true,
+            autoExpandHorizontalScroll:false,
+            autoScrollOnFocus:true
+          }
+        });
       }
 
     </script>
@@ -194,18 +192,18 @@
         .iego{right:5px; width:30px;}
     <![endif]-->
   </head>
-  <body><script type="text/javascript" src="/js/jquery-ui-1.9.2.js?version=5176a4db8b01f"></script>
-<script type="text/javascript" src="/js/timeago.js?version=5176a4db8b01f"></script>
+  <body><script type="text/javascript" src="/js/jquery-ui-1.9.2.js?version=52176a4aad67f"></script>
+<script type="text/javascript" src="/js/timeago.js?version=52176a4aad67f"></script>
 
-    <div class="header positionfixed" id="header">
+   <div class="header positionfixed" id="header">
       <div class="wrap">
-        <div class="logo"><a href="/home"><img id="rw_logo" src="/images/logo.png" alt=""></a></div>
-         <div class="nav" id="lib_clip_link">          </div>
+         <div class="logo"><a href="http://www.readwhere.com"><img id="rw_logo" src="/images/logo.png" alt="readwhere"></a></div>
+         <div class="nav" id="lib_clip_link"></div>
           <form id="search-form" method="get" accept-charset="UTF-8" action="/home/search" class="" onsubmit="return searchFormSubmit();">
             <input type="text" placeholder="Search" title="Enter search terms" name="q" value="Search" onfocus="if(this.value=='Search'){this.value='';}" onblur="if(this.value==''){this.value='Search';}" size="15" maxlength="128" id="search-q"><span id="search_loader" style="display:none;"><img src="/images/loader.gif" alt="loading..."></span>
             <a name="o" id="search-submit" onclick="submitSearch()">&nbsp;</a>
           </form>
-          <div class="floatright" id="login_logout_link">             <a href="https://www.readwhere.com/user/login?ru=https://www.readwhere.com/publish/login" class="de-btn-enabled header-publish-btn">Publish</a>               <a href="https://www.readwhere.com/user/login?ru=http://www.readwhere.com/privacy-policy/" class="header-link" id="login_link">Login</a>           </div>
+          <div class="floatright" id="login_logout_link">             <a href="https://www.readwhere.com/user/login?ru=https://www.readwhere.com/publish/login" class="de-btn-enabled header-publish-btn" title="Publish &amp; Sell Your Digital Edition On iPhone, iPad, Android and Windows 8">Publish</a>               <a href="https://www.readwhere.com/user/login?ru=http://www.readwhere.com/privacy-policy" class="header-link" id="login_link">Login</a>           </div>
       </div>
       <script type="text/javascript">
         $.getJSON('/api/checklogin?callback=?', function(response) {
@@ -220,9 +218,9 @@
             } else {
                 header_name = response.firstname + ' ' +response.lastname;
             }
-            display_name = (header_name.length > 20) ? (header_name.substr(0,17) + '...' ): header_name;
+            display_name = (header_name.length > 15) ? (header_name.substr(0,12) + '...' ): header_name;
             $("#lib_clip_link").html('<ul><li><a href="/shelf">Shelf</a> | </li> <li><a href="/myclips">Clips</a> | </li</ul>');
-            var logout_link = '<div class="hover_link"><a alt="'+header_name+'" title="'+header_name+'" class="header-link show-logout" href="/'+response.name+'" id="show-logout">'+display_name+'</a><div class="dropdown_image"></div><ul style="display:none;" class="header_dropdown" id="dropdown3"><li><a href="/settings">Settings</a></li><li><a href="/user/logout?ru=http://www.readwhere.com/privacy-policy/">Logout</a></li></ul><div class="rw_cart" id="rw_cart"><div id="cart_item_count" class="cart_value">0</div></div></div>';
+            var logout_link = '<div class="hover_link"><a alt="'+header_name+'" title="'+header_name+'" class="header-link show-logout" href="/'+response.name+'" id="show-logout">'+display_name+'</a><div class="dropdown_image"></div><ul style="display:none;" class="header_dropdown" id="dropdown3"><li><a href="/settings">Settings</a></li><li><a href="http://www.readwhere.com/mypurchases">My Purchases</a></li><li><a href="/user/logout?ru=http://www.readwhere.com/privacy-policy">Logout</a></li></ul><div class="rw_cart" id="rw_cart"><div id="cart_item_count" class="cart_value">0</div></div></div>';
 
             $("#login_logout_link a#login_link").replaceWith(logout_link);
             $('#lib_clip_link').append('<div class="wishlist_link" id="wishlist_link" style="float:left;position:relative;margin:10px;cursor:pointer;">Wishlist  <span style="padding-left:7px">|</span> </div>');
@@ -230,12 +228,12 @@
             $('#lib_clip_link').append($('.rw_notify'));
             
             $('.rw_cart').append($('.my_cart'));
-						$('.rw_notify').show();
-							noti_req_url = '/ajax/loadInitialNotifications';
-							$.ajax({
-								url: noti_req_url,
-								dataType: 'json',
-								success: function (response) {
+            $('.rw_notify').show();
+              noti_req_url = '/ajax/loadInitialNotifications';
+              $.ajax({
+                url: noti_req_url,
+                dataType: 'json',
+                success: function (response) {
                   if(response.count) {
                     $('.noti_count').addClass('highlight_count');
                   } else {
@@ -250,7 +248,7 @@
                     $('#my_notifications').html('<div id="no_notification_msg" class="centrealign noti_bubble_msg" >No Notifications</div>');
                   }
                 }
-							});
+              });
           }
         });
       </script>
@@ -279,17 +277,17 @@
 
 
       <div class="rw_notify" style="display:none;">
-				<span class="noti_count" alt="notifications" title="notifications" onclick="showNotifications();">0</span>
-				<div class="arrow-up" style="display:none;"></div>
-				<div class="all_notifications all_noti_box" id="my_notifications" style="display:none;">
-					<ul>
-						<span id="noti_loader" class="centrealign" style="display:none;">
-							<img src="/images/loader.gif" alt="loading...">
-						</span>
-					</ul>
-					<div class="see_all_noti centrealign"><a href="http://www.readwhere.com/notifications">See All</a></div>
-				</div>
-			</div>
+        <span class="noti_count" alt="notifications" title="notifications" onclick="showNotifications();">0</span>
+        <div class="arrow-up" style="display:none;"></div>
+        <div class="all_notifications all_noti_box" id="my_notifications" style="display:none;">
+          <ul>
+            <span id="noti_loader" class="centrealign" style="display:none;">
+              <img src="/images/loader.gif" alt="loading...">
+            </span>
+          </ul>
+          <div class="see_all_noti centrealign"><a href="http://www.readwhere.com/notifications">See All</a></div>
+        </div>
+      </div>
       <div class="clear"></div>
     </div><!--/ header -->
     <div class="wrap margintop40 ieWrap" style="min-height:710px" id="wrap">
@@ -314,41 +312,41 @@
       </div>
     </div>
   </div>
-</div>      <div class="clr"></div>
-    </div>
-    <div id="feedback-issue"><span><a href="javascript:;" id="sendfeedback" onclick="showFeedback();">Send Feedback</a></span></div>
-    <div id="de-feedback" style="bottom: 25px;">
-      <div class="title">
-        <span>Send Feedback</span>
-        <div class="close"></div>
-      </div>
-      <div id="feedback_btn">
-        <div class="feedback-response"></div>
-        <div class="ques">
-          <span>How can we improve?</span>
-        </div>
-        <textarea rows="4" class="feedback-text" id="feedback_textarea"></textarea>
-        <p class="feedback_error" id="feedback_empty">Enter feedback.</p>
-        <div>
-          <input type="text" id="feedback_email" onblur="if(this.value==''){this.value='Enter your Email-ID';}" onfocus="if(this.value=='Enter your Email-ID'){this.value='';}" value="Enter your Email-ID" size="20" class="feedback-email">
-          <p class="feedback_error" id="feedback_invalid_email">Enter valid email-id.</p>
-        </div>
-        <button class="btn nofloat feedback-send de-btn-enabled" style="margin-left:8px;">
-          <div>
-            <span class="label">Send</span>
+</div>
+      <div class="clr"></div>
+
+    </div>         <div id="feedback-issue"><span><a href="javascript:;" id="sendfeedback" onclick="showFeedback();">Send Feedback</a></span></div>
+        <div id="de-feedback" style="bottom: 25px;">
+          <div class="title">
+            <span>Send Feedback</span>
+            <div class="close"></div>
           </div>
-        </button>
-        <button class="btn nofloat feedback-cancel de-btn-enabled">
-          <div>
-            <span class="label">Cancel</span>
+          <div id="feedback_btn">
+            <div class="feedback-response"></div>
+            <div class="ques">
+              <span>How can we improve?</span>
+            </div>
+            <textarea rows="4" class="feedback-text" id="feedback_textarea"></textarea>
+            <p class="feedback_error" id="feedback_empty">Enter feedback.</p>
+            <div>
+              <input type="text" id="feedback_email" onblur="if(this.value==''){this.value='Enter your Email-ID';}" onfocus="if(this.value=='Enter your Email-ID'){this.value='';}" value="Enter your Email-ID" size="20" class="feedback-email">
+              <p class="feedback_error" id="feedback_invalid_email">Enter valid email-id.</p>
+            </div>
+            <button class="btn nofloat feedback-send de-btn-enabled" style="margin-left:8px;">
+              <div>
+                <span class="label">Send</span>
+              </div>
+            </button>
+            <button class="btn nofloat feedback-cancel de-btn-enabled">
+              <div>
+                <span class="label">Cancel</span>
+              </div>
+            </button>
           </div>
-        </button>
-      </div>
-	    <div id="feedback_thanks" style="display:none">Thanks for feedback.</div>
-    </div>
-    <div class="footer">
+          <div id="feedback_thanks" style="display:none">Thanks for feedback.</div>
+        </div>     <div class="footer">
       <div class="footer-left">
-          <a href="/home"><img src="/images/footer-logo.png"></a>
+          <a href="/home" title="readwhere"><img src="/images/footer-logo.png" alt="readwhere"></a>
       </div>
       <div class="footer-right">
         <div class="col first">
@@ -391,7 +389,7 @@
         </div>
       </div>
     </div>
-<script type="text/javascript">
+ <script type="text/javascript">
 $("#de-feedback .btn.feedback-send").click(function() {
   if ($.trim($("#de-feedback .feedback-text").val())=='') {
     $('#feedback_empty').show();
@@ -419,23 +417,23 @@ $("#de-feedback .btn.feedback-send").click(function() {
   });
 });
 
-	function showNotifications() {
-		if($('.noti_count').text() != 0) {
-			$.ajax({
-				url: '/ajax/allNotificationsRead',
-				dataType: "json",
-				type: 'POST',
-			})
-		}
-		$('.noti_count').text('0');
+  function showNotifications() {
+    if($('.noti_count').text() != 0) {
+      $.ajax({
+        url: '/ajax/allNotificationsRead',
+        dataType: "json",
+        type: 'POST',
+      })
+    }
+    $('.noti_count').text('0');
     $('.noti_count').removeClass('highlight_count');
-	}
+  }
 
 
 function followUnfollow(field,loggedin_user_id, target_id, type) {
-	button_text = $('#'+field.id).text();
-	$('#'+field.id).removeClass('follwing');
-	$.post("/ajax/checkFollowUnfollow" ,
+  button_text = $('#'+field.id).text();
+  $('#'+field.id).removeClass('follwing');
+  $.post("/ajax/checkFollowUnfollow" ,
   {
     'loggedin_user_id' : loggedin_user_id,
     'target_id'   : target_id,
@@ -443,160 +441,164 @@ function followUnfollow(field,loggedin_user_id, target_id, type) {
     'button_text' : button_text,
   },
   function(response) {
-		var res_arr = response.split('!@#$');
-			if(res_arr[0] == 'failure') {
-				$('#'+field.id).text(res_arr[1]);
-				if(button_text == 'Follow' || button_text == 'Follow All') {
-					$('#'+field.id).addClass('follwing');
-					$('.clipbook_follow_btn').addClass('follwing');
-				} else {
-					$('#'+field.id).removeClass('follwing');
-					$('.clipbook_follow_btn').removeClass('follwing');
-				}
-			} else {
-				$.post("/ajax/followUnfollow" ,
-				{
-					'loggedin_user_id' : loggedin_user_id,
-					'target_id'   : target_id,
-					'type'   : type
-				},
-				function(response) {
-					if(response == 1) {
-						gaTrackEvent ('clipbook', 'click-'+(button_text.toLowerCase())+'', 'clipbook_id',target_id);
-						if(type == 'clipbook') {
-							follow_text = 'Follow';
-							following_text = 'Following';
-						} else {
-							follow_text = 'Follow All';
-							following_text = 'Following All';
-						}
-						if($('#'+field.id).text().trim() == follow_text) {
-							$('#'+field.id).text(following_text);
-							$('#'+field.id).addClass('follwing');
-							if(type == 'user') {
-								$('.clipbook_follow_btn').text('Following');
-								$('.clipbook_follow_btn').addClass('follwing');
-							}
-						} else {
-							$('#'+field.id).text(follow_text);
-							$('#'+field.id).removeClass('follwing');
-							if(type == 'user') {
-								$('.clipbook_follow_btn').text('Follow');
-								$('.clipbook_follow_btn').removeClass('follwing');
-							}
-						}
-					}
-				});
-			}
-	});
+    var res_arr = response.split('!@#$');
+      if(res_arr[0] == 'failure') {
+        $('#'+field.id).text(res_arr[1]);
+        if(button_text == 'Follow' || button_text == 'Follow All') {
+          $('#'+field.id).addClass('follwing');
+          $('.clipbook_follow_btn').addClass('follwing');
+        } else {
+          $('#'+field.id).removeClass('follwing');
+          $('.clipbook_follow_btn').removeClass('follwing');
+        }
+      } else {
+        $.post("/ajax/followUnfollow" ,
+        {
+          'loggedin_user_id' : loggedin_user_id,
+          'target_id'   : target_id,
+          'type'   : type
+        },
+        function(response) {
+          if(response == 1) {
+            gaTrackEvent ('clipbook', 'click-'+(button_text.toLowerCase())+'', 'clipbook_id',target_id);
+            if(type == 'clipbook') {
+              follow_text = 'Follow';
+              following_text = 'Following';
+            } else {
+              follow_text = 'Follow All';
+              following_text = 'Following All';
+            }
+            if($('#'+field.id).text().trim() == follow_text) {
+              $('#'+field.id).text(following_text);
+              $('#'+field.id).addClass('follwing');
+              if(type == 'user') {
+                $('.clipbook_follow_btn').text('Following');
+                $('.clipbook_follow_btn').addClass('follwing');
+              }
+            } else {
+              $('#'+field.id).text(follow_text);
+              $('#'+field.id).removeClass('follwing');
+              if(type == 'user') {
+                $('.clipbook_follow_btn').text('Follow');
+                $('.clipbook_follow_btn').removeClass('follwing');
+              }
+            }
+          }
+        });
+      }
+  });
 }
 
 function gaTrackpageview (url) {
-  //window['ga-disable-UA-30928125-1']==false;
-  if (typeof _gaq !== "undefined" && _gaq !== null) {
-    _gaq.push(['_trackPageview', url]);
-  }
-}
+  //window['ga-disable-UA-30928125-1']==false; 
+      if (typeof _gaq !== "undefined" && _gaq !== null) {
+      _gaq.push(['_trackPageview', url]);
+    } }
 
 function gaTrackEvent (category, action, label, integer_value) {
-  if (typeof _gaq !== "undefined" && _gaq !== null) {
-    _gaq.push(['_trackEvent', category, action,  label, integer_value]);
-  }
-}
+   
+    if (typeof _gaq !== "undefined" && _gaq !== null) {
+      _gaq.push(['_trackEvent', category, action,  label, integer_value]);
+    } }
 
 function changefollowtxt (id) {
   if($('#'+id).text().trim() == 'Following All Clipbooks') {
     $('#'+id).text('Unfollow All Clipbooks');
   }
-	else if($('#'+id).text().trim() == 'Unfollow All Clipbooks') {
-		$('#'+id).text('Following All Clipbooks');
-	}
+  else if($('#'+id).text().trim() == 'Unfollow All Clipbooks') {
+    $('#'+id).text('Following All Clipbooks');
+  }
+}
+
+
+function showRenewSubscription() {
+  $('#renewsubsc').css('right','0px');
 }
 
 </script>
  <script type="text/javascript">
-    $(document).ready(function() {
-		$('.ui-autocomplete').addClass('search_suggestions_container');
-	});
+   /* $(document).ready(function() {
+    $('.ui-autocomplete').addClass('search_suggestions_container');
+  }); */
 
     $.widget( "custom.catcomplete", $.ui.autocomplete, {
        _renderMenu: function( ul, items ) {
-					var that = this,
-					currentCategory = "";
+          var that = this,
+          currentCategory = "";
 
-					$.each( items, function( index, item ) {
-							if ( item.category != currentCategory ) {
-									ul.append( '<li class="ui-autocomplete-category">' + item.category + '</li>');
-									currentCategory = item.category;
-							}
-							renderItemData( ul, item );
-					});
-					$('.search_suggestions_container').append('<li class="ui-autocomplete-item search_more"><a onselect="submitSearch();" onclick="submitSearch();">Search results for "'+$('#search-q').val()+'"</a></li>');
+          $.each( items, function( index, item ) {
+              if ( item.category != currentCategory ) {
+                  ul.append( '<li class="ui-autocomplete-category">' + item.category + '</li>');
+                  currentCategory = item.category;
+              }
+              renderItemData( ul, item );
+          });
+          $('.search_suggestions_container').append('<li class="ui-autocomplete-item search_more"><a onselect="submitSearch();" onclick="submitSearch();">Search results for "'+$('#search-q').val()+'"</a></li>');
         },
     });
 
     function renderItemData( ul, item ) {
-			return renderItem( ul, item ).data( "ui-autocomplete-item", item );
-		}
+      return renderItem( ul, item ).data( "ui-autocomplete-item", item );
+    }
 
-		function renderItem( ul, item ) {
-			var image_tag = '';
-			if(item.thumbpath) {
-				image_url = item.thumbpath;
-			} else {
-				image_url = '/images/footer-logo.png';
-			}
-			var short_label = (item.label.length > 22) ? (item.label.substr(0,19) + '...' ): item.label;
-			return $( '<li class="suggest_label '+item.category+'_'+item.id+'">' ).append( $('<img width="25" height="25" src="'+image_url+'" />'+'<a title="'+item.label+'" alt="'+item.label+'" href="'+item.url+'?utm_source=readwhere&utm_medium=autosuggest&utm_campaign=autosuggest&utm_content='+$('#search-q').val()+'">').text( short_label ) ).appendTo( ul );
-		}
+    function renderItem( ul, item ) {
+      var image_tag = '';
+      if(item.thumbpath) {
+        image_url = item.thumbpath;
+      } else {
+        image_url = '/images/footer-logo.png';
+      }
+      var short_label = (item.label.length > 22) ? (item.label.substr(0,19) + '...' ): item.label;
+      return $( '<li class="suggest_label '+item.category+'_'+item.id+'">' ).append( $('<img width="25" height="25" src="'+image_url+'" />'+'<a title="'+item.label+'" alt="'+item.label+'" href="'+item.url+'?utm_source=readwhere&utm_medium=autosuggest&utm_campaign=autosuggest&utm_content='+$('#search-q').val()+'">').text( short_label ) ).appendTo( ul );
+    }
 
     $("#search-q").catcomplete({
-				delay: 0,
-				source: function(request, response) {
-					$('#search_loader').show();
-					$.ajax({
-					 url: '/api/suggestsearch',
-					 dataType: "json",
-					 data: {
-						q: request.term
-					 },
-					 success: function(ajax_response) {
-						$('#search_loader').hide();
-						response($.map(ajax_response.data, function(item) {
-						 return {
-							label: item.label,
-							id: item.id,
-							category: item.category,
-							url: item.url,
-							thumbpath: item.thumbpath,
-						 }
-						}))
-					 }
-					})
-				},
-				minLength: 3,
-				select: function(event, ui) {
-									event.preventDefault();
-									if(ui.item) {
-										window.location=ui.item.url+'?utm_source=readwhere&utm_medium=autosuggest&utm_campaign=autosuggest&utm_content='+$('#search-q').val();
-									} else {
-										submitSearch();
-									}
-								},
-				focus: function(event, ui) {
-								event.preventDefault();
-								$('.search_suggestions_container li').removeClass('ui-state-focus');
-								if(!ui.item) {
-									$('.search_more a').removeClass('ui-state-focus');
-									$('.search_more').addClass('ui-state-focus');
-									return false;
-								} else {
-									$('.'+ui.item.category+'_'+ui.item.id+' a').removeClass('ui-state-focus');
-									$('.'+ui.item.category+'_'+ui.item.id).addClass('ui-state-focus');
-								}
-							 },
+        delay: 0,
+        source: function(request, response) {
+          $('#search_loader').show();
+          $.ajax({
+           url: '/api/suggestsearch',
+           dataType: "json",
+           data: {
+            q: request.term
+           },
+           success: function(ajax_response) {
+            $('#search_loader').hide();
+            response($.map(ajax_response.data, function(item) {
+             return {
+              label: item.label,
+              id: item.id,
+              category: item.category,
+              url: item.url,
+              thumbpath: item.thumbpath,
+             }
+            }))
+           }
+          })
+        },
+        minLength: 3,
+        select: function(event, ui) {
+                  event.preventDefault();
+                  if(ui.item) {
+                    window.location=ui.item.url+'?utm_source=readwhere&utm_medium=autosuggest&utm_campaign=autosuggest&utm_content='+$('#search-q').val();
+                  } else {
+                    submitSearch();
+                  }
+                },
+        focus: function(event, ui) {
+                event.preventDefault();
+                $('.search_suggestions_container li').removeClass('ui-state-focus');
+                if(!ui.item) {
+                  $('.search_more a').removeClass('ui-state-focus');
+                  $('.search_more').addClass('ui-state-focus');
+                  return false;
+                } else {
+                  $('.'+ui.item.category+'_'+ui.item.id+' a').removeClass('ui-state-focus');
+                  $('.'+ui.item.category+'_'+ui.item.id).addClass('ui-state-focus');
+                }
+               },
 
-		});
+    });
 
 </script>     <script type="text/javascript">
       var _gaq = _gaq || [];
@@ -607,7 +609,9 @@ function changefollowtxt (id) {
         ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
       })();
-    </script> <script type="text/javascript" src="/js/script.js?version=5176a4db8b01f"></script>
+    </script> <script type="text/javascript" src="/js/script.js?version=52176a4aad67f"></script>
+<script type="text/javascript" src="/js/jquery.mCustomScrollbar.min.js?version=52176a4aad67f"></script>
+<script type="text/javascript" src="/js/jquery.mousewheel.min.js?version=52176a4aad67f"></script>
 
 
 
