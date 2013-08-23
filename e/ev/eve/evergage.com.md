@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evergage.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609104237id_/http%3A//www.evergage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evergage.com privacy policy that was archived on 2013-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130823193820id_/http%3A//www.evergage.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Evergage
 
@@ -14,11 +14,11 @@ _**END USER INFORMATION**_
 
 _**What information does Evergage collect regarding End Users?**_
 
-It is at Evergage Clients’ discretion what actions and information they collect from each End User.  However, Evergage requires Evergage Clients to observe all applicable laws and regulations relating to the protection of data privacy and to only collect information that is necessary to improve Client Services and successfully serve their End Users.  A primary use of Evergage is to understand how End Users are using the Evergage Client’s service.  Many Evergage Clients send us, on a per-user basis, a subset of the actions taken by each End User within such Evergage Clients’ services and when such actions were taken.
+  * It is at Evergage Clients’ discretion what actions and information they collect from each End User.  However, Evergage requires Evergage Clients to observe all applicable laws and regulations relating to the protection of data privacy and to only collect information that is necessary to improve Client Services and successfully serve their End Users.  A primary use of Evergage is to understand how End Users are using the Evergage Client’s service.  Many Evergage Clients send us, on a per-user basis, a subset of the actions taken by each End User within such Evergage Clients’ services and when such actions were taken.
+  * For example, suppose John Doe used company XYZ’s document management system to upload a document, edit it, and share it with three friends.  If XYZ was an Evergage Client, XYZ might collect and send to Evergage that John Doe edited a document at a certain time and that he has 5 documents in XYZ’s system.   Later, XYZ might decide to also collect and send to Evergage when John shares a document and into what format he converted the document to share it.  XYZ could use this information to improve their product and to email John Doe with training about better ways to to share a document.
+  * The data that Evergage Clients choose to send us may be personally identifiable information. 
 
-For example, suppose John Doe used company XYZ’s document management system to upload a document, edit it, and share it with three friends.  If XYZ was an Evergage Client, XYZ might collect and send to Evergage that John Doe edited a document at a certain time and that he has 5 documents in XYZ’s system.   Later, XYZ might decide to also collect and send to Evergage when John shares a document and into what format he converted the document to share it.  XYZ could use this information to improve their product and to email John Doe with training about better ways to to share a document.
 
-The data that Evergage Clients choose to send us may be personally identifiable information. 
 
 _**Does Evergage require Evergage Clients to inform the End User about their use of the Evergage Service?**_
 
@@ -26,13 +26,14 @@ We require that all Evergage Clients maintain a truthful and accurate privacy po
 
 _**How does Evergage use the information it collects?**_
 
-The information Evergage collects on End User activities with Client Services is the property of the Evergage Client, not of Evergage.  We store the data in a unique security domain for each Evergage Client.   Our algorithms process and analyze each Evergage Clients’ data separately to give that Evergage Client insight into how their service is being used, how it could be improved, and how to better serve its End Users. 
+  * The information Evergage collects on End User activities with Client Services is the property of the Evergage Client, not of Evergage.  We store the data in a unique security domain for each Evergage Client.   Our algorithms process and analyze each Evergage Clients’ data separately to give that Evergage Client insight into how their service is being used, how it could be improved, and how to better serve its End Users. 
+  * Evergage also aggregates information across Evergage Clients to (i) improve the Evergage Service, (ii) benchmark usage patterns and behavior for a particular Evergage Client and for Evergage Clients generally, (iii) publish interesting analysis of trends or behaviors and (iv) other similar uses.
 
-Evergage also aggregates information across Evergage Clients to (i) improve the Evergage Service, (ii) benchmark usage patterns and behavior for a particular Evergage Client and for Evergage Clients generally, (iii) publish interesting analysis of trends or behaviors and (iv) other similar uses.
+
 
 _**Will Evergage provide information about me to anyone else?**_
 
-Except as provided below in the sections entitled _Information Disclosed Pursuant to Business Transfers_ and _Information Disclosed for Our Protection and the Protection of Others_ , we never divulge End User data in a personally identifiable, unique or non-aggregated manner to anyone other than the Evergage Client on whose behalf we are collecting and analyzing its End User data.
+Except as provided below in the sections entitled  _Information Disclosed Pursuant to Business Transfers_  and  _Information Disclosed for Our Protection and the Protection of Others_ , we never divulge End User data in a personally identifiable, unique or non-aggregated manner to anyone other than the Evergage Client on whose behalf we are collecting and analyzing its End User data.
 
 _**How does Evergage make sure my information is secure?**_
 
@@ -40,9 +41,11 @@ Evergage takes the security and privacy of Evergage Client data and End User dat
 
 _**Does Evergage use cookies?**_
 
-Like many websites we sometimes employ “cookies,” small packets of data, which may include an anonymous unique identifier that are sent to a user’s browser from a website’s computer and stored on the user’s computer’s hard drive.  The website placing the cookie on the user’s computer can then recognize the computer when the user navigates the website at a later time.  For example, this allows us to remember user preferences and measure user behavior, information that Evergage Clients may then use to improve user interaction with their services. 
+  * Like many websites we sometimes employ “cookies,” small packets of data, which may include an anonymous unique identifier that are sent to a user’s browser from a website’s computer and stored on the user’s computer’s hard drive.  The website placing the cookie on the user’s computer can then recognize the computer when the user navigates the website at a later time.  For example, this allows us to remember user preferences and measure user behavior, information that Evergage Clients may then use to improve user interaction with their services. 
+  * Evergage makes use of first party cookies.  
+  * Although most web browsers automatically accept cookies, your browser setting can usually be modified to decline cookies or alert you when a website is attempting to place a cookie on your computer.  Consult the help manual for your browser for detailed information.  For further information about disabling cookies, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) .  If you choose to decline cookies, you may lose some of the functionality associated with certain Evergage Clients’ services that are provided by the use of cookies.  Please refer to the privacy policy of the company that is an Evergage Client for more information about its interactive features that depend on cookies.
 
-Although most web browsers automatically accept cookies, your browser setting can usually be modified to decline cookies or alert you when a website is attempting to place a cookie on your computer.  Consult the help manual for your browser for detailed information.  For further information about disabling cookies, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) .  If you choose to decline cookies, you may lose some of the functionality associated with certain Evergage Clients’ services that are provided by the use of cookies.  Please refer to the privacy policy of the company that is an Evergage Client for more information about its interactive features that depend on cookies.
+
 
 _**Does Evergage use a web tag or javascript beacon?**_
 
@@ -52,37 +55,28 @@ _**Are there ways that I can opt out of allowing an Evergage Client to collect d
 
 Yes.  If you are an End User of an Evergage Client and do not wish for us to collect information about your use of that service, there are several options:
 
-(i)  We respect the “Do Not Track” Settings on most modern browsers.  Set this flag on your browser and we will not collect data from our javascript beacon.  Remember to set this flag on each browser that you use.
+  1. We respect the “Do Not Track” Settings on most modern browsers.  Set this flag on your browser and we will not collect data from our javascript beacon.  Remember to set this flag on each browser that you use.
+  2. Please review the privacy policy of the company that is an Evergage Client and follow that company’s instructions for opting out of data collection.   
+  3. We have provided Evergage Clients with the ability to filter and dispose of usage data related to a particular End User’s userID.  If you would like to opt out of having your data sent to Evergage, please contact the Evergage Client directly to ask for this.  If you feel the Evergage Client is not responding satisfactorily to your request, please contact us [here.](mailto:%73%75p%70ort@%61pp%74%65gi%63.com)
 
-(ii) Please review the privacy policy of the company that is an Evergage Client and follow that company’s instructions for opting out of data collection.   
 
-(iii) We have provided Evergage Clients with the ability to filter and dispose of usage data related to a particular End User’s userID.  If you would like to opt out of having your data sent to Evergage, please contact the Evergage Client directly to ask for this.  If you feel the Evergage Client is not responding satisfactorily to your request, please contact us [here.](mailto:%73%75p%70ort@%61pp%74%65gi%63.com)
 
-**APPTEGIC CLIENT INFORMATION**
+**EVERGAGE CLIENT INFORMATION**
 
 _**What information does Evergage collect on its Clients and how is it used?**_
 
 We collect only data that is necessary to provide optimum service for our Clients.  The information we gather enables us to personalize, improve and continue to operate the Evergage Service.  To explain how we use and safeguard your data, let’s look at the types of information we collect:
 
-Usage Data:
+  * Usage Data:  We make use of our own service to understand how you are using the Evergage Service so as to maximize your success with us and to improve performance of the Evergage Service.  The entire preceding section with respect to End User Information applies to your own use of the Evergage Service. 
+  * Account Information: When you create an Evergage Service account, you will provide us with certain personally identifiable information (“ **Personal Information** ”), such as your name, contact information, and account user name and password.  We recognize that this information is very important to you and we promise we will never divulge any of your Personal Information to anyone without your permission except as described below in the Sections entitled  _Information Disclosed Pursuant to Business Transfers_  and  _Information Disclosed for Our Protection and the Protection of Others_.  Please note that we may use your Personal Information to contact you regarding your account and the Evergage Service. 
+  * Financial Information: If you pay for the use of the Evergage Service by credit card, please be advised that we do not currently collect financial information, such as your payment method (valid credit card number, type, expiration date or other financial information); that information is collected and stored by our third party payment processing company (the “ **Payment Processor** ”), and use and storage of that information is governed by the Payment Processor’s applicable terms of service and privacy statement.  Please note that we may from time to time request and receive some of your financial information from our Payment Processor for the purposes of completing payment transactions or enrolling you in programs in which you elect to participate, protecting against or identifying possible fraudulent transactions, and otherwise as needed to manage our business.
+  * Email Communications: We may receive a confirmation when you open an email from us.  We use this confirmation to improve our customer service.
 
-We make use of our own service to understand how you are using the Evergage Service so as to maximize your success with us and to improve performance of the Evergage Service.  The entire preceding section with respect to End User Information applies to your own use of the Evergage Service. 
 
-Account Information:
-
-When you create an Evergage Service account, you will provide us with certain personally identifiable information (“ **Personal Information** ”), such as your name, contact information, and account user name and password.  We recognize that this information is very important to you and we promise we will never divulge any of your Personal Information to anyone without your permission except as described below in the Sections entitled _Information Disclosed Pursuant to Business Transfers_ and _Information Disclosed for Our Protection and the Protection of Others_.  Please note that we may use your Personal Information to contact you regarding your account and the Evergage Service. 
-
-Financial Information:
-
-If you pay for the use of the Evergage Service by credit card, please be advised that we do not currently collect financial information, such as your payment method (valid credit card number, type, expiration date or other financial information); that information is collected and stored by our third party payment processing company (the “ **Payment Processor** ”), and use and storage of that information is governed by the Payment Processor’s applicable terms of service and privacy statement.  Please note that we may from time to time request and receive some of your financial information from our Payment Processor for the purposes of completing payment transactions or enrolling you in programs in which you elect to participate, protecting against or identifying possible fraudulent transactions, and otherwise as needed to manage our business.
-
-Email Communications:
-
-We may receive a confirmation when you open an email from us.  We use this confirmation to improve our customer service.
 
 _**Changing or Deleting your Information:**_
 
-If you are an Evergage Client, you may review, update, correct or delete the personally identifiable information in your Evergage account where it is inaccurate by contacting us.  If you would like us to delete your Evergage account in our system, please contact us [here](mailto:%73%75p%70ort@%61pp%74%65gi%63.com) with a request that we delete your personally identifiable information from our database.  We will use commercially reasonable efforts to honor your request.  If you request that your personally identifiable information be deleted from our records, there may be a brief delay in our processing that request, while verify that the request is valid and originates from you as opposed to an unauthorized third party.  If you request that your information be deleted, we reserve the right to terminate and/or limit your access to the Service.  We may retain an archived copy of your records as required by law or for legitimate business purposes. 
+If you are an Evergage Client, you may review, update, correct or delete the personally identifiable information in your Evergage account where it is inaccurate by contacting us.  If you would like us to delete your Evergage account in our system, please contact us [here](mailto:%73%75p%70ort@%61pp%74%65gi%63.com) with a request that we delete your personally identifiable information from our database.  We will use commercially reasonable efforts to honor your request.  If you request that your personally identifiable information be deleted from our records, there may be a brief delay in our processing that request, while verify that the request is valid and originates from you as opposed to an unauthorized third party.  If you request that your information be deleted, we reserve the right to terminate and/or limit your access to the Service.  We may retain an archived copy of your records as required by law or for legitimate business purposes. 
 
 _**Phishing:**_
 
@@ -112,7 +106,7 @@ Please be advised that we do not control and are not responsible for the privacy
 
 _**Children**_
 
-Our Service is not directed to children under the age of 13.  We do not knowingly collect personally identifiable information from children under the age of 13.  If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should contact us [here.](mailto:%73%75p%70ort@%61pp%74%65gi%63.com)   If we become aware that a child under the age of 13 has provided us with personally identifiable information, we will delete such information
+Our Service is not directed to children under the age of 13.  We do not knowingly collect personally identifiable information from children under the age of 13.  If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should contact us [here.](mailto:%73%75p%70ort@%61pp%74%65gi%63.com)   If we become aware that a child under the age of 13 has provided us with personally identifiable information, we will delete such information
 
 _**What happens when there are changes to this Privacy Statement?**_
 
@@ -120,6 +114,6 @@ We may amend our Privacy Statement from time to time.  Use of information we co
 
 _**What if I have questions or concerns?**_
 
-If you have any questions or concerns regarding privacy using the Evergage Service, please send us a detailed message to us [here.](mailto:%73%75p%70ort@%61pp%74%65gi%63.com)   We will make every effort to resolve your concerns.
+If you have any questions or concerns regarding privacy using the Evergage Service, please send us a detailed message to us [here.](mailto:%73%75p%70ort@%61pp%74%65gi%63.com)   We will make every effort to resolve your concerns.
 
 _**Effective Date:**_  February 27, 2012
