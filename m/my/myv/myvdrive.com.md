@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myvdrive.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117063935id_/http%3A//www.myvdrive.com/Public/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myvdrive.com privacy policy that was archived on 2013-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130823115940id_/http%3A//www.myvdrive.com/Public/privacy) for the most accurate reproduction.*
 
 # Free Cloud Storage and Unlimited Access
 
