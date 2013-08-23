@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teachingsells.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623081643id_/http%3A//www.teachingsells.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachingsells.com privacy policy that was archived on 2013-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130823223811id_/http%3A//www.teachingsells.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
