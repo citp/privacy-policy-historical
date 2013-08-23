@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopping-bargains.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623010037id_/http%3A//www.shopping-bargains.com/articles/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopping-bargains.com privacy policy that was archived on 2013-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130823112310id_/http%3A//www.shopping-bargains.com/articles/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Shopping-Bargains.com
 
