@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 5hippos.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621065226id_/http%3A//www.5hippos.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 5hippos.com privacy policy that was archived on 2013-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130823110517id_/http%3A//www.5hippos.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
