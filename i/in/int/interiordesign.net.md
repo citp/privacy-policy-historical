@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the interiordesign.net privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624013505id_/http%3A//www.interiordesign.net/info/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interiordesign.net privacy policy that was archived on 2013-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130823182202id_/http%3A//www.interiordesign.net/info/privacy_policy.php) for the most accurate reproduction.*
 
-# Interior Design
+# Privacy Policy | Interior Design
 
 **_Your privacy is important to us and we undertake to respect and honor your concerns about maintaining strict privacy._**
 
@@ -110,7 +110,7 @@ Email: [privacy@sandow.com](mailto:privacy@sandow.com)
 
 **L. NOTICE TO CALIFORNIA RESIDENTS**
 
-If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by Sandow to third parties for the third parties' direct marketing purposes. With respect to these [entities](https://web.archive.org/common/jumplink.php?target=http%3A//corporate.disney.go.com/corporate/pp_california.html), this privacy policy applies only to their activities within the State of California. To make such a request, please send an email to [privacy@sandow.com](mailto:caprivacy.wdig@twdc.com) or write us: 
+If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by Sandow to third parties for the third parties' direct marketing purposes. With respect to these [entities](http://corporate.disney.go.com/corporate/pp_california.html), this privacy policy applies only to their activities within the State of California. To make such a request, please send an email to [privacy@sandow.com](mailto:caprivacy.wdig@twdc.com) or write us: 
 
 Sandow Media, LLC  
 3651 NW 8th Avenue  
