@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the joomla-monster.com privacy policy that was archived on 2013-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130405080203id_/http%3A//www.joomla-monster.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomla-monster.com privacy policy that was archived on 2013-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130823104520id_/http%3A//www.joomla-monster.com/uncategorised/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy ● Joomla-Monster ● Joomla Templates Shop
 
-##  [ Privacy Policy](http://www.joomla-monster.com/privacy-policy)
+##  [ Privacy Policy](http://www.joomla-monster.com/uncategorised/privacy-policy)
+
+Details
 
 **What information do we collect?**
 
@@ -33,6 +35,7 @@ The email address you provide for order processing, may be used to send you info
 
   * Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
   * We use cookies to help us remember and process the items in your shopping cart and understand and save your preferences for future visits.
+  * We use cookies to ensure that we give you the best experience on our website. If you continue without changing your settings, we'll assume that you are happy to receive all cookies on the Joomla-Monster website.
 
 
 
