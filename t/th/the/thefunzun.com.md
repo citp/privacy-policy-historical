@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thefunzun.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425082409id_/http%3A//www.thefunzun.com/2012/08/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefunzun.com privacy policy that was archived on 2013-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130823035129id_/http%3A//www.thefunzun.com/2012/08/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Love quotes,funny joke pictures & famous quotes
+# Privacy Policy
 
 ###  **Your privacy**
 
