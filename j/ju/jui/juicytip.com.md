@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the juicytip.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625111858id_/http%3A//juicytip.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juicytip.com privacy policy that was archived on 2013-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130823182225id_/http%3A//juicytip.com/privacy) for the most accurate reproduction.*
 
 # 
 
