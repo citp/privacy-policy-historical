@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gohigheris.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423080431id_/https%3A//www.gohigheris.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gohigheris.com privacy policy that was archived on 2013-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130823155229id_/https%3A//www.gohigheris.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -78,5 +78,3 @@ Go Higher will take reasonable steps to correct the information upon being put o
 ### YOUR ACCEPTANCE OF THESE TERMS
 
 By using this website or our affiliated websites, you signify your assent to the terms and conditions contained herein (as amended from time to time). If you do not agree to be bound by its terms, we request you to close your browsing session and not to use our our website in the future.
-
-More than 2000 members use our products and services on their website!   [Register Now!](https://www.gohigheris.com/component/users/?task=registration)
