@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geekstoy.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625105752id_/http%3A//www.geekstoy.com/forum/showpost.php%3Fp%3D74607%26postcount%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekstoy.com privacy policy that was archived on 2013-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130823021853id_/http%3A//www.geekstoy.com/forum/showpost.php%3Fp%3D74607%26postcount%3D1) for the most accurate reproduction.*
 
 # Betfair Trading and Sports Betting Forum - View Single Post - Privacy Policy
 
