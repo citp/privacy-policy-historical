@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the luulla.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610181909id_/http%3A//www.luulla.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luulla.com privacy policy that was archived on 2013-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130823203138id_/http%3A//www.luulla.com/static/privacy) for the most accurate reproduction.*
 
-# Luulla - an online marketplace to buy and sell handmade, supplies and vintage.
+# Luulla - an online marketplace to buy and sell unique products, fashion, handmade and supplies
 
 protecting personal information
 
