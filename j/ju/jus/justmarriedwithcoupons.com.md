@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the justmarriedwithcoupons.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030032141id_/http%3A//www.justmarriedwithcoupons.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justmarriedwithcoupons.com privacy policy that was archived on 2013-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130823183738id_/http%3A//www.justmarriedwithcoupons.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy governs the manner in which Just Married Media collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.justmarriedwithcoupons.com](https://web.archive.org/web/20121030032141id_/http%3A//) website (“Site”). This privacy policy applies to the Site and all products and services offered by Just Married Media.
+This Privacy Policy governs the manner in which Just Married Media collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.justmarriedwithcoupons.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Just Married Media.
 
 **Personal identification information**
 
@@ -41,7 +41,7 @@ We do not sell, trade, or rent Users personal identification information to othe
 
 Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp
 
 **Advertising**
 
@@ -49,7 +49,7 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 **Google Adsense**
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html
 
 **Changes to this privacy policy**
 
@@ -62,10 +62,12 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Just Married Media](https://web.archive.org/web/20121030032141id_/http%3A//)  
-[http://www.justmarriedwithcoupons.com](https://web.archive.org/web/20121030032141id_/http%3A//)  
+Just Married Media
+
+http://www.justmarriedwithcoupons.com
+
 info@justmarriedwithcoupons.com
 
 This document was last updated on April 10, 2012
 
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.justmarriedwithcoupons.com%2Fprivacy-policy&&description=Privacy+Policy)
+Privacy policy created by Generate Privacy Policy
