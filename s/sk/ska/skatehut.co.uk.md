@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skatehut.co.uk privacy policy that was archived on 2013-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130328043735id_/http%3A//www.skatehut.co.uk/customer/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skatehut.co.uk privacy policy that was archived on 2013-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130823194557id_/http%3A//www.skatehut.co.uk/customer/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Skatehut
 
@@ -47,6 +47,14 @@ Yes (Cookies are small files that a site or its service provider transfers to yo
 We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
 If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone.
+
+**This Website uses cookies by the following third parties:**
+
+Google Analytics: This cookie allows us to monitor user interaction with this Website including, but not limited to page views, source and time spent on Website. The information is depersonalised and is displayed as numbers, meaning it cannot be tracked back to individuals. This will help to protect your privacy. Using Google Analytics we can see what content is popular on our Website, and strive to provide you with a better user experience.
+
+Google AdWords: Using Google AdWords code we are able to see which adverts helped lead to a purchase. This allows us to make better use of our paid search budget. This information is not personally identifiable.
+
+DoubleClick: We use remarketing codes to log when users view specific pages, allowing us to provide targeted advertising in the future.
 
 **Do we disclose any information to outside parties?**
 
