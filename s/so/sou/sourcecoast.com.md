@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sourcecoast.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116204103id_/http%3A//www.sourcecoast.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sourcecoast.com privacy policy that was archived on 2013-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130823073942id_/http%3A//www.sourcecoast.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy | SourceCoast
 
-SourceCoast, Inc (“SourceCoast”) values the privacy and security of the information that you share with us through www.sourcecoast.com (the “Web Site”). It is important that you understand how we collect, use, and maintain your information. This Privacy Statement explains our online information practices, the choices you may make about how we collect and use your information at this Web Site, and the ways you may contact us.
+SourceCoast, Inc (“SourceCoast”) values the privacy and security of the information that you share with us through www.sourcecoast.com (the “Web Site”). It is important that you understand how we collect, use, and maintain your information. This Privacy Statement explains our online information practices, the choices you may make about how we collect and use your information at this Web Site, and the ways you may contact us. 
 
 We may change this Privacy Statement from time to time. Changes to this Privacy Statement are effective upon posting. Please check back periodically for updates. 
 
@@ -36,7 +36,7 @@ SourceCoast does not sell products for purchase by children. We do not knowingly
 
 SourceCoast may use and disclose Personal Information or Prospect Information as described in this document. In addition to the uses described in this document, we may use Personal Information or Prospect Information for purposes that include maintaining the Web Site, order fulfillment and administration, and product surveys, administrative and analytical purposes like accounting, billing and audits, and information system management, and other, similar uses. We may also use Personal Information or Prospect Information to provide current and potential customers and suppliers with information about our services.
 
-We only collect, use, and disclose Personal Information or Prospect Information for purposes that are reasonable in the circumstances. We use only fair and lawful means to collect Personal Information or Prospect Information.
+We only collect, use, and disclose Personal Information or Prospect Information for purposes that are reasonable in the circumstances. We use only fair and lawful means to collect Personal Information or Prospect Information. 
 
 We reserve the right to use or disclose Aggregated Information and Business Contact Information in ways that we think are appropriate.
 
@@ -44,7 +44,7 @@ Periodically, we may send you information about our various products and service
 
 ## Agents
 
-We disclose Personal Information or Prospect Information to other companies and individuals to perform functions for us under confidentiality agreements. These types of agents include mailing and delivery companies, marketing service providers, database managers, customer service representatives, and other agents who perform functions for or on our behalf. These agents may perform functions such as analyzing data, supplying marketing assistance, providing search results and links (including paid listings and links), fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, processing credit card payments, and providing customer service. Where we disclose Personal Information or Prospect Information to organizations that perform services on our behalf, we will require those organizations to use such information solely for the purposes of providing services to us and to protect the Personal Information or Prospect Information with appropriate safeguards.
+We disclose Personal Information or Prospect Information to other companies and individuals to perform functions for us under confidentiality agreements. These types of agents include mailing and delivery companies, marketing service providers, database managers, customer service representatives, and other agents who perform functions for or on our behalf. These agents may perform functions such as analyzing data, supplying marketing assistance, providing search results and links (including paid listings and links), fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, processing credit card payments, and providing customer service. Where we disclose Personal Information or Prospect Information to organizations that perform services on our behalf, we will require those organizations to use such information solely for the purposes of providing services to us and to protect the Personal Information or Prospect Information with appropriate safeguards. 
 
 ## Business Transfers
 
@@ -68,11 +68,11 @@ When we are required or permitted to disclose information without consent, we wi
 
 ## Consent
 
-We will obtain your consent to the collection, use, and disclosure of that information as described in this Privacy Statement. If you do not consent to our collection, use, or disclosure of your Personal Information as described in this Privacy Statement, then do not share Personal Information with us. However, we are unable to offer some services, like processing purchases, without Personal Information.
+We will obtain your consent to the collection, use, and disclosure of that information as described in this Privacy Statement. If you do not consent to our collection, use, or disclosure of your Personal Information as described in this Privacy Statement, then do not share Personal Information with us. However, we are unable to offer some services, like processing purchases, without Personal Information. 
 
 You may withdraw your consent at any time, subject to reasonable notice and legal or contractual obligations. To withdraw your consent, simply tell us of the Personal Information that you no longer wish us to collect, use, or disclose through the Contact Information listed below. However, we are unable to offer some services, like processing purchases, without Personal Information.
 
-There are limited situations in which applicable laws require or allow us to collect, use, or disclose Personal Information without your consent or after you withdraw your consent. We describe these situations under “Protection of SourceCoast  and Others” in the section on Use of Personal Information or Prospect Information in this Privacy Statement.
+There are limited situations in which applicable laws require or allow us to collect, use, or disclose Personal Information without your consent or after you withdraw your consent. We describe these situations under “Protection of SourceCoast  and Others” in the section on Use of Personal Information or Prospect Information in this Privacy Statement. 
 
 ## Retention and Access
 
@@ -86,7 +86,11 @@ At your request, we will provide you with reasonable access to your Personal Inf
 
 SourceCoast combines technical and physical safeguards with employee policies and procedures to protect your information. We work to protect your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts the information that you provide online at our Web Site. We will use commercially reasonable efforts to protect your information, continue to assess new technology for protecting information, and when appropriate, upgrade our information security systems.
 
-Further, we permit only authorized SourceCoast employees and third parties to access any Personal Information or Prospect Information that you supply to us. If an employee misuses Personal Information or Prospect Information, we will take disciplinary action, up to and including termination of employment. If any third party individual or organization misuses Personal Information or Prospect Information, we will take action, up to and including termination of any agreement between SourceCoast and that individual or organization.
+Further, we permit only authorized SourceCoast employees and third parties to access any Personal Information or Prospect Information that you supply to us. If an employee misuses Personal Information or Prospect Information, we will take disciplinary action, up to and including termination of employment. If any third party individual or organization misuses Personal Information or Prospect Information, we will take action, up to and including termination of any agreement between SourceCoast and that individual or organization. 
+
+## Advertising and Remarketing
+
+Our site uses remarketing with Google Analytics to advertise online. Third party vendors, including Google, show ads for SourceCoast.com on sites across the internet. We use first-party cookies and third-party cookies to inform, optimize and serve ads based on a user's past visit to our website.
 
 ## Links to Other Web Sites
 
@@ -94,13 +98,13 @@ When you click on a link on this Web Site that takes you to a web site operated 
 
 ## Dispute Resolution
 
-Please direct any questions or concerns regarding the use or disclosure of Personal Information or Prospect Information to us by using the Contact Information given below. We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of personal information in accordance with the principles contained in this Privacy Statement. 
+Please direct any questions or concerns regarding the use or disclosure of Personal Information or Prospect Information to us by using the Contact Information given below. We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of personal information in accordance with the principles contained in this Privacy Statement.  
 
 ## Contact Information
 
 In the event of questions about access to your Personal Information or Prospect Information; our collection, use, management, or disclosure of Personal Information or Prospect Information; or this Privacy Statement, contact us at:
 
-[support@sourcecoast.com](mailto:support@sourcecoast.com)
+[support@sourcecoast.com](mailto:support@sourcecoast.com) 
 
 Privacy Officer  
 SourceCoast, Inc.   
