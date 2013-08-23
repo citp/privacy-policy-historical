@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the readwhere.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423185901id_/https%3A//www.readwhere.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readwhere.com privacy policy that was archived on 2013-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130823155629id_/http%3A//www.readwhere.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - readwhere
+# Privacy Policy | Read on Web, iPhone, iPad, android & windows 8 - readwhere
 
 **Date Modified: 2nd April 2012**
 
