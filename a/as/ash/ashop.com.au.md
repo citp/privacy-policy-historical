@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ashop.com.au privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502230142id_/http%3A//www.ashop.com.au/g/2615/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashop.com.au privacy policy that was archived on 2013-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130823142330id_/http%3A//www.ashop.com.au/g/2615/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Shopping Cart Software | Hosted Ecommerce by Ashop®
 
@@ -6,7 +6,7 @@
 
 ###### Information Collection and Use 
 
-Ashop Commerce is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Ashop Commerce collects information from our users at several different points on our web site. 
+Ashop is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Ashop collects information from our users at several different points on our web site. 
 
 ###### Registration
 
@@ -30,7 +30,7 @@ We will share aggregated demographic information with our partners and advertise
 
 ###### Links
 
-This web site contains links to other sites. Please be aware that we [Ashop Commerce] are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+This web site contains links to other sites. Please be aware that we [Ashop] are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
 
 ###### Newsletter
 
