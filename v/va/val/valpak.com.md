@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the valpak.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522213554id_/http%3A//www.valpak.com/coupons/show/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valpak.com privacy policy that was archived on 2013-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130823125140id_/http%3A//www.valpak.com/coupons/show/privacyPolicy) for the most accurate reproduction.*
 
 # Free Printable Coupons, Local Deals and Online Promo Codes - Valpak.com
 
-Effective on 9/21/2010
+Effective on 7/22/2013
 
-We at Valpak.com, owned by Valpak Direct Marketing Systems, Inc. (" **Valpak** "), respect your privacy and value the relationship we have with you. Your visit to this website is subject to this Privacy Policy and its Terms and Conditions
+We at Valpak.com, owned by Valpak Direct Marketing Systems, Inc. (" **Valpak** "), respect your privacy and value the relationship we have with you. Your visit to this website is subject to this Privacy Policy and its Terms and Conditions.
 
 This Privacy Policy describes the types of personal information we collect at Valpak.com, (the " **Site** "), how we may use that information and with whom we may share it. Our Privacy Policy also describes the measures we take to protect the security of this information as well as how you may reach us to update your contact information, remove your name from our mailing list or ask us any questions you may have about our use of your personal information. It also explains how you may elect to stop receiving communications about our products and services.
 
@@ -34,6 +34,10 @@ If you have elected to provide us with your contact information, we may provide 
 
 On occasion, Valpak.com may sponsor special events (such as contests, sweepstakes or other offerings), questionnaires and surveys. There may be specific rules applicable to these promotions that explain how any personal information you provide will be processed. We strongly suggest you review any applicable rules before participating. To the extent any special event, questionnaire or survey is not subject to specific rules, the processing of personal information is governed by this Privacy Policy for the purposes set forth herein.
 
+  5. Contest Co-Sponsors
+
+If you enter any contest, sweepstakes or other promotion that we make available on the Site, we may share the information that you submit to us with the co-sponsor(s) of the contest, sweepstakes or promotion. We will identify any co-sponsor(s) in the official rules for the promotion.
+
 
 
 
@@ -53,7 +57,13 @@ One of the primary purposes of a cookie is to provide a convenience feature to s
 
 You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser settings to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Valpak.com services or web sites you visit.
 
-We may use third-party advertising companies to serve ads when you visit our website. These companies may use non-identifying information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+  3. Social Networks
+
+When you use the social networking features on the Site, you may be asked to log in to a social network using your social network credentials (for example, your Facebook user ID). When you log in, we may collect information about you, (including personal information) from that social network. In addition, when you use one of the social network sharing tools on the Site, the social network operating tool may collect information about you based on such use. The social network's use of that information will be subject to its own privacy policy, which may be different from ours.
+
+  4. Mobile Applications and Location-Based Information
+
+We may have the ability to use your geographic location to deliver content, services, and advertising tailored to you location. If you choose to enable our service to use your location information, then that information will be stored and used to deliver content, services and advertising tailored to your location. Also, when you use a mobile device or browser to access our service, then your device and/or your browser may automatically collect and/or transmit your device's unique identifier, IP address, location information, device make/model, wireless provider, and related information to us and our Service Providers. We and our Service Providers may use this information to deliver content, services, and advertising tailored to your location.
 
 
 
@@ -72,6 +82,8 @@ We may retain other companies and individuals to perform functions on our behalf
 
 In addition, in some instances, you may be offered the opportunity to consent to the sharing of your information with a third party such as an event or promotion co-sponsor. If you consent, we will share your information with such third party and the information you provide may be used by such third party for their own purposes and in accordance with their own policies.
 
+We may use third-party advertising companies to serve ads when you visit our website. These companies may use non-identifying information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+
   3. Compliance With Law and Fraud Protection
 
 We may disclose any information we deem necessary, in our sole discretion, to comply with any applicable law, regulation, legal process or governmental request. In addition, we may disclose any information when we believe, in our sole discretion, disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with suspected or actual illegal activity.
@@ -85,7 +97,7 @@ Valpak.com does not knowingly collect information from children under the age of
 
 ### 6\. How We Protect Personal Information
 
-We maintain reasonable safeguards for this Site to protect against unauthorized disclosure, use, alteration or destruction of the personal information you provide on the site. If you have any questions about security at our Site, you can send an email to [customer_service@valpak.com](mailto:customer_service@valpak.com.).
+We maintain reasonable safeguards for this Site to protect against unauthorized disclosure, use, alteration or destruction of the personal information you provide on the site. If you have any questions about security at our Site, you can send an email to [digitalsupport@valpak.com](mailto:digitalsupport@valpak.com.).
 
 ### 7\. Updates to Our Privacy Policy
 
@@ -98,14 +110,14 @@ Valpak.com gives our members the option of deactivating from our service so as n
 To change your profile and preferences or deactivate your participation in the service, you may:
 
   * Visit the "Your Profile" section of Valpak.com and change your current status.
-  * Send an email to [customer_service@valpak.com](mailto:customer_service@valpak.com.) and request to unsubscribe.
+  * Send an e-mail to [digitalsupport@valpak.com](mailto:digitalsupport@valpak.com.) and request to unsubscribe.
   * Write to Valpak.com, 8605 Largo Lakes Drive, Largo, Florida 33773 attn: Customer Service.
   * Call 1-800-237-6266 and ask for Digital Support with any other questions you may have.
 
 
 
-Note: It may take up to 48 hours for us to process your request and any email communications within the queue prior to your decision to deactivate will still be sent to you by Valpak.com.
+Note: It may take up to 48 hours for us to process your request and any e-mail communications within the queue prior to your decision to deactivate will still be sent to you by Valpak.com.
 
 ### 9\. Comments
 
-We have taken great measures to ensure that your visit to our Site is an excellent one and that your privacy is constantly respected. If you have any questions, comments or concerns about our privacy practices, please contact us by email at [customer_service@valpak.com](mailto:customer_service@valpak.com.)
+We have taken great measures to ensure that your visit to our Site is an excellent one and that your privacy is constantly respected. If you have any questions, comments or concerns about our privacy practices, please contact us by e-mail at [digitalsupport@valpak.com](mailto:digitalsupport@valpak.com.)
