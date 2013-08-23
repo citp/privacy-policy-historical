@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dnncreative.com privacy policy that was archived on 2013-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130123002527id_/http%3A//www.dnncreative.com/tabid/200/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnncreative.com privacy policy that was archived on 2013-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130823132631id_/http%3A//www.dnncreative.com/tabid/200/Default.aspx) for the most accurate reproduction.*
 
 # DNN Creative Magazine Privacy Statement
 
@@ -44,7 +44,7 @@ DNN Creative Magazine for DotNetNuke will occasionally update this Statement of 
 
 ##### Updating your Details
 
-If any of the information that you have provided to DNN Creative Magazine for DoNetNuke changes, for example if you change your email address, name or payment details or if you wish to cancel your registration, please let us know the correct details by sending an e-mail to lee@dnncreative.com.
+If any of the information that you have provided to DNN Creative Magazine for DoNetNuke changes, for example if you change your email address, name or payment details or if you wish to cancel your registration, please let us know the correct details by sending an e-mail to support@dnncreative.com.
 
 ##### Your Consent
 
@@ -52,4 +52,4 @@ By submitting your information you consent to the use of that information as set
 
 ##### Contact Information
 
-DNN Creative Magazine for DotNetNuke welcomes your comments regarding this Statement of Privacy. If you believe that DNN Creative Magazine for DotNetNuke has not adhered to this Statement, please contact DNN Creative Magazine for DotNetNuke at lee@dnncreative.com. We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+DNN Creative Magazine for DotNetNuke welcomes your comments regarding this Statement of Privacy. If you believe that DNN Creative Magazine for DotNetNuke has not adhered to this Statement, please contact DNN Creative Magazine for DotNetNuke at support@dnncreative.com. We will use commercially reasonable efforts to promptly determine and remedy the problem. 
