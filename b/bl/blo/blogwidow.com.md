@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogwidow.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116055718id_/http%3A//www.blogwidow.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogwidow.com privacy policy that was archived on 2013-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130823074916id_/http%3A//www.blogwidow.com/privacy.shtml) for the most accurate reproduction.*
 
 # BlogWidow.com - Privacy Policy
 
