@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newbalance.com.au privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622031428id_/http%3A//www.newbalance.com.au/Privacy-Policy/privacy-policy%2Cen_AU%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newbalance.com.au privacy policy that was archived on 2013-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130823064608id_/http%3A//www.newbalance.com.au/Privacy-Policy/privacy-policy%2Cen_AU%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -98,7 +98,7 @@ Please note that if you decide to opt-out of all third-party transmissions of yo
 
 ## How can I access, update or delete "My Account" information?
 
-Accounts may be created during the ordering process. You can login to or manage your account by clicking the "My Account" link at the top of any page. After logging in, you will be able to modify your contact information, update your billing and shipping addresses, view past orders, or delete your account completely. For security purposes, credit card information is not saved with your account. Remember that you are responsible for protecting the user name and password for your account and, as set forth in the [Terms and Conditions](http://www.newbalance.com.au/Terms-and-Conditions-of-Sale/terms,en_AU,pg.html), you will be responsible for all activity occurring through the use of your user name and password.
+Accounts may be created during the ordering process. You can login to or manage your account by clicking the "My Account" link at the top of any page. After logging in, you will be able to modify your contact information, update your billing and shipping addresses, view past orders, or delete your account completely. For security purposes, credit card information is not saved with your account. Remember that you are responsible for protecting the user name and password for your account and, as set forth in the [Terms and Conditions](https://www.newbalance.com.au/Terms-and-Conditions-of-Sale/terms,en_AU,pg.html), you will be responsible for all activity occurring through the use of your user name and password.
 
 ## What if I have more questions about the New Balance Privacy Policy?
 
