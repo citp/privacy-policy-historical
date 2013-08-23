@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the netspend.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429142822id_/https%3A//www.netspend.com/help/netspend_security_center/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netspend.com privacy policy that was archived on 2013-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130823055338id_/https%3A//www.netspend.com/help/netspend_security_center/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policies | NetSpend Prepaid Debit Cards
 
 #### NetSpend Visa® and MasterCard Prepaid Cards are issued by   
-**RBS Citizens, N.A.** , **BofI Federal Bank** , **The Bancorp Bank** , **Regions Bank** , and **MetaBank TM**, Members FDIC; NetSpend is an authorized Independent Sales Organization of RBS Citizens, N.A., BofI Federal Bank, The Bancorp Bank, Regions Bank and MetaBank.
+**RBS Citizens, N.A.** , **BofI Federal Bank** , **The Bancorp Bank** , **Regions Bank** , **SunTrust Bank** , and **MetaBank TM**, Members FDIC; NetSpend is an authorized Independent Sales Organization of RBS Citizens, N.A., BofI Federal Bank, The Bancorp Bank, Regions Bank, SunTrust Bank and MetaBank.
 
 If you are a new customer, the privacy policy governing your prepaid card program belongs to the bank issuing your card. Please see back of your card or the card program marketing materials, if you have them, for the issuing bank. 
 
