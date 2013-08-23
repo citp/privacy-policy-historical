@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchers.co.uk privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624074411id_/http%3A//info.searchers.co.uk/%3Fid%3Dcompany.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchers.co.uk privacy policy that was archived on 2013-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130823183909id_/http%3A//info.searchers.co.uk/%3Fid%3Dcompany.privacy) for the most accurate reproduction.*
 
 # Searchers - Privacy Policy
 
