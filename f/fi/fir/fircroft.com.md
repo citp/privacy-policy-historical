@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fircroft.com privacy policy that was archived on 2013-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130119103204id_/http%3A//www.fircroft.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fircroft.com privacy policy that was archived on 2013-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130823163700id_/http%3A//www.fircroft.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Fircroft
 
@@ -26,7 +26,11 @@ You have the right to ask us not to process your personal data for marketing pur
 
 **Access to information** ****
 
-The Data Protection Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you. Changes to our privacy policy Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. 
+The Data Protection Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you. 
+
+**Changes to our privacy policy**
+
+Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. 
 
 **Contact** ****
 
