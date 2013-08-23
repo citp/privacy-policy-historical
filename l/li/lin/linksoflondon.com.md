@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linksoflondon.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509055650id_/http%3A//www.linksoflondon.com/gb-en/footer-pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linksoflondon.com privacy policy that was archived on 2013-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130823132148id_/http%3A//www.linksoflondon.com/gb-en/footer-pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy, Official Links of London
 
@@ -194,6 +194,16 @@ qubitconsent
 
 Stores whether the user has given  
 consent to use cookies
+
+| 
+
+None  
+  
+Struq
+
+| 
+
+The cookie information collected aims to increase the relevancy of the ads being displayed to you. We do not target children under 13 years old. We do not process any information which could be used by Struq, directly or indirectly, with the help of a third party or otherwise, to determine the identity of users. The data we collect is also used for reporting purposes, to give our clients and partners more information about the performance of their advertising campaigns, and to improve performance over time. *in compliance with the best industry standards, we use IP addresses for fraud detection purposes (and not for targeting purposes) to help alert us to situations which could not have been caused by human behaviour, such as a massive amount of clicking in a limited period of time. 
 
 | 
 
