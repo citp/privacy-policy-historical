@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clicksvenue.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627181936id_/http%3A//www.clicksvenue.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clicksvenue.com privacy policy that was archived on 2013-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130823204944id_/http%3A//www.clicksvenue.com/privacy) for the most accurate reproduction.*
 
 # Technology - Clicksvenue
 
