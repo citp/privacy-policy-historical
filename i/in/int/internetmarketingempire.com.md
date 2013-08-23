@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internetmarketingempire.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204194727id_/http%3A//www.internetmarketingempire.com/legal/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetmarketingempire.com privacy policy that was archived on 2013-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130823090052id_/http%3A//internetmarketingempire.com/admin/privacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -62,19 +62,15 @@ If you are concerned about the topic covered by this policy, you should read it 
 
 You may also mail your concerns to us at the following address:
 
-Inner Circle Publishing, INC.  
-7477 W. Lake Boulevard, Suite 170  
-Las Vegas, Nevada 89128  
-USA 
+Add To Cart Publishing LLP  
+Kings Lodge  
+London Road  
+West Kingsdown  
+Kent   
+TN15 6AR   
+United Kingdom
 
-**CALIFORNIA PRIVACY RIGHTS**
-
-If you are a California resident and our customer, Cal. Civ. Code § 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To request this information, please send an e-mail to support[at]internetmarketingempire.com or write us at the following address:
-
-Inner Circle Publishing, INC.  
-7477 W. Lake Boulevard, Suite 170  
-Las Vegas, Nevada 89128  
-USA 
+Tel: + 44 (0)845 644 9101
 
 This privacy policy was last updated on 05-20-2010.
 
