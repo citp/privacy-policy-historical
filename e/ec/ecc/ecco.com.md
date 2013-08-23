@@ -1,31 +1,30 @@
-> *The following text is extracted and transformed from the ecco.com privacy policy that was archived on 2013-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130406091518id_/http%3A//ecco.com/en-XI/About-ECCO/About-this-site/Privacy-Policy%3Fpopup%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecco.com privacy policy that was archived on 2013-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130823090902id_/http%3A//global.ecco.com/en/about-this-site/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ecco.com
+# ECCO.com
 
-**Privacy policy**
-
-The ECCO Group respect your privacy and is committed to protecting the privacy and confidential information of those who register or otherwise affiliate with the ECCO Group.
-
+**Privacy policy  
+**  
+The ECCO Group respect your privacy and is committed to protecting the privacy and confidential information of those who register or otherwise affiliate with the ECCO Group.  
 This Privacy Policy tells you how we collect personal and other information from you and how we use it. Please take the time to read this Privacy Policy.
 
-**Children’s privacy**
-
+**Children’s privacy  
+**  
 Anyone providing personally identifying information via the ECCO website warrants and promises that they are 15 years of age or older. ECCO does not intend to collect personally identifying information from anyone under the age of 15. If you are under the age of 15 we ask that you do not use this register for any of ECCO’s website services.
 
 ECCO will not knowingly collect any information from any individual under the age of 15 without permission from his/her parents or legal guardian.
 
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we know are under 15, and no part of our website is structured to attract anyone under 15.
 
-**Type and use of Personal Information**
-
+**Type and use of Personal Information  
+**  
 To utilize ECCO’s services on the website, you must provide information such as your first name, last name, email address, postal address and phone number. We collect only the information that you voluntarily provide us when you register on our website.
 
 We receive and store any information that you enter on any registration page. Your participation is completely voluntary and you therefore have a choice whether or not to disclose this information. If some information is required and some is optional, we will identify the required information.
 
 Your personally identifiable information will not be used for any other reason than that which is stated on the page you used to register.
 
-**Third Parties**
-
+**Third Parties  
+**  
 ECCO will not sell, distribute, publish or otherwise disclose your personally identifying information without your express permission to anyone outside the ECCO Group.
 
 Your information will not be shared with any third party except (i) as authorized by you in accordance with this privacy policy to deliver services you request, and (ii) if compelled to do so by proper judicial or governmental authorities.
@@ -34,8 +33,8 @@ From time to time, we may employ other companies and individuals to perform func
 
 Personal data shall not be transferred to another entity, country or territory, unless reasonable and appropriate steps have been taken to maintain the required level of data protection.
 
-**Use of cookies**
-
+**Use of cookies  
+**  
 ECCO might place small data files (“Cookies”), on your computer that allow us to recognize you each time you visit our website. By doing this, we can monitor traffic through the website and make the website more user-friendly. We also collect, with either cookies or weblogs, users' IP addresses and log in times that are identified by individual users. No personally identifiable information is ever stored within the cookie.
 
 An IP (Internet Protocol) address is a number that is assigned to your computer when you use the Internet. Your IP address does not contain any personally identifiable information about you. ECCO collects IP addresses for the purposes of system administration, to report aggregate information to our management, and to ensure the validity of an "opt-in" request (i.e., the consumer's consent to receive the requested information).
@@ -43,12 +42,11 @@ An IP (Internet Protocol) address is a number that is assigned to your computer 
 You always have the option to disable cookies while registering or in some other way interacting with the ECCO website. The only information we maintain in our database is the information you supplied when filling out the registration form.
 
 **Google Analytics  
-**
-
+**  
 This website uses Google Analytics, a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses "cookies", which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above. 
 
-**Update your Personal Information**
-
+**Update your Personal Information  
+**  
 ECCO will need your assistance to ensure that the personal information you have provided ECCO is correct and updated.
 
 If you wish to correct and update any of your personal information, you may do so by contacting us directly via our contact form or the e-mail address provided within the contact section.
@@ -65,6 +63,6 @@ ECCO encourages you to revisit our Privacy Policy to keep informed of any change
 
 While we strive to protect your personal information, ECCO cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk.
 
-**Notification of changes to the Privacy Policy**
-
-ECCO will publish on its website any changes to this policy prior to those changes taking effect. As always, if you do not agree with changes made to ECCO’s privacy policy, you have the option of requesting that we delete your personally identifying information from our files. 
+**Notification of changes to the Privacy Policy  
+**  
+ECCO will publish on its website any changes to this policy prior to those changes taking effect. As always, if you do not agree with changes made to ECCO’s privacy policy, you have the option of requesting that we delete your personally identifying information from our files.
