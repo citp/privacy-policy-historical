@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the instamojo.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604033205id_/http%3A//www.instamojo.com/p/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instamojo.com privacy policy that was archived on 2013-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130823061011id_/https%3A//www.instamojo.com/privacy) for the most accurate reproduction.*
 
-# Privacy — Instamojo
+# Privacy
 
 We at Instamojo, Inc. (“Company,” “we,” “us,” “our”) know that our users (“you,” “your”) care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. **By visiting or using the Website or Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways.** Any capitalized terms used herein without definition shall have the meaning given to them in the [Company Terms of Use](http://www.instamojo.com/p/terms).
 
