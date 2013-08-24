@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the erenterplan.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601123623id_/https%3A//erenterplan.com/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erenterplan.com privacy policy that was archived on 2013-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130824050052id_/https%3A//erenterplan.com/Home/Privacy) for the most accurate reproduction.*
 
 # Privacy - Renters Insurance
 
