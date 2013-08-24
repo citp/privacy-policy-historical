@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sjs.co.nz privacy policy that was archived on 2013-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130208101010id_/http%3A//www.sjs.co.nz/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sjs.co.nz privacy policy that was archived on 2013-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130824182542id_/http%3A//www.sjs.co.nz/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Student Job Search
 
 ###  Introduction
 
-We may collect, retain and use your personal information (including your e-mail address, name, phone number and mailing address) from time to time. This Privacy Policy sets out our practices regarding the collection, use, storage and disclosure of your personal information in compliance with the Privacy Act 1993. Please read this Privacy Policy before using this website or submitting your personal information to this website. By using this website, you agree to be bound by the terms of this Privacy Policy. This privacy policy is subject to, and must be read in conjuction with, our [Terms and Conditions](https://web.archive.org/content/terms-conditions).
+We may collect, retain and use your personal information (including your e-mail address, name, phone number and mailing address) from time to time. This Privacy Policy sets out our practices regarding the collection, use, storage and disclosure of your personal information in compliance with the Privacy Act 1993. Please read this Privacy Policy before using this website or submitting your personal information to this website. By using this website, you agree to be bound by the terms of this Privacy Policy. This privacy policy is subject to, and must be read in conjunction with, our [Terms and Conditions](https://web.archive.org/content/terms-conditions).
 
 ###  Terminology
 
@@ -14,7 +14,7 @@ In this Privacy Policy, the terms ‘SJS’, ‘we’, ‘us’, and ‘our’ r
 
 We may collect and retain your personal information in the following circumstances:
 
-**a)** when you complete forms on this website (including surveys, search forms, competition entry forms, registration forms, and other forms);
+**a)** when you complete forms on this website (including surveys, search forms, competition entry forms, registration forms, job application forms and other forms);
 
 **b)** when you create, modify, or use any accounts or registered user facilities available through this website; 
 
@@ -76,13 +76,11 @@ This website may contain hyperlinks to third party websites. We are not responsi
 
 ###  Storage of personal information
 
-Your personal information is collected by SJS and may be held by SJS, i-Sage ("i-Sage), and Amazon ('Amazon') from time to time. The address collected on this website is collected and stored on a secure SJS server located at Plunket House, 126 Lambton Quay, Wellington, New Zealand .
+Your personal information is collected by SJS and may be held by SJS and Simitive. These organisations’ addresses are set out below. The information collected on, or through, this website is stored on a secure SJS server located at the ICONZ Data Centre located at 60 Airedale Street, Auckland, New Zealand. In accordance with the Privacy Act 1993, SJS may store your personal information for as long as it may lawfully be used by SJS.
 
 \- SJS: L8, Grand Annexe, 84 Boulcott St, Wellington, 6011
 
-\- i-Sage Limited: 2/318 Oriental Parade, Wellington, 6011
-
-\- Amazon
+\- Simitive Limited: 2/318 Oriental Parade, Wellington, 6011
 
 ###  Security
 
@@ -96,14 +94,12 @@ You have the right to access, request or correct the personal information that w
 
 To ensure that the personal information we hold about you is accurate and up to date, please update the 'MyProfile' with, or notify us of, any changes to your personal details as soon as possible.
 
-You may request that we remove any personal information held about you by sending an email to the following address with the message subject of ‘Remove My Profile’.
-
-Email address: help@sjs.co.nz 
+If SJS does not agree to make a requested correction to your personal information, you have the right to request that we attach to the information a statement of the correction sought but not made.
 
 ###  Changes to our Privacy Policy
 
 We reserve the right, at our discretion, to update, change or revise this Privacy Policy, at any time. Changes to this privacy policy will take effect immediately once they are published on this website. Please check the Privacy Policy periodically for changes. Your continued use of this website or our services following the posting of any changes to the Privacy Policy indicates your acceptance of those changes.
 
-This Privacy Policy was last updated August 2012.
+This Privacy Policy was last updated June 2013.
 
 ###  Other Terms
