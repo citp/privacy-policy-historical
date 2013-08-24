@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pugetsystems.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217162938id_/http%3A//www.pugetsystems.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pugetsystems.com privacy policy that was archived on 2013-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130824133517id_/http%3A//www.pugetsystems.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ Our Commitment To Privacy
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. 
 
-#### The Information We Collect
+The Information We Collect
 
 * * *
 
@@ -41,7 +41,7 @@ Communication and Traffic Logs
 
 The logging system of Puget Custom Computer Systems is very extensive and is an essential asset to our analysis of our clients needs. It allows us to very accurately gauge the effectiveness of advertising campaigns, optimize our information presentation from traffic pattern analysis, and perform fraud investigations. Due to the complexity and detail of our logging, we feel it is necessary we explain what it is we do.
 
-Our traffic logging is the most complex of our systems. In short, every page visit and click is logged. This is an enormous amount of data to log, but it allows us to make very detailed studies of client behaviour and trends. The high resolution of this logging gives us a very good amount of information to aid our fraud investigations. All traffic on pugetsystems.com is also viewed in realtime by the operator of our "Live Chat" service.
+Our traffic logging is the most complex of our systems. In short, every page visit and click is logged. This is an enormous amount of data to log, but it allows us to make very detailed studies of client behavior and trends. The high resolution of this logging gives us a very good amount of information to aid our fraud investigations. All traffic on pugetsystems.com is also viewed in realtime by the operator of our "Live Chat" service.
 
 When you first find our site, a variable called a "referrer" can tell us how you found us. We flag and log all external referrers to aid us in gauging the effectiveness of marketing campaigns.
 
