@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the likealaugh.org privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621154743id_/http%3A//likealaugh.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the likealaugh.org privacy policy that was archived on 2013-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130824030136id_/http%3A//likealaugh.org/privacy.php) for the most accurate reproduction.*
 
 # Like'a'Laugh - your better laugh
 
