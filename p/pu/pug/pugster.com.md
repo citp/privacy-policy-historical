@@ -1,15 +1,10 @@
-> *The following text is extracted and transformed from the pugster.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229063347id_/http%3A//www.pugster.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pugster.com privacy policy that was archived on 2013-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130824025948id_/http%3A//www.pugster.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy at Pugster
+# Pugster Jewelry, Pugster Beads, Italian Charms, Pugster Charms Bracelets, Links Charms
 
-| [](http://www.pugster.com/)|   
----|---  
-  
-[Home](http://www.pugster.com/) | Privacy
+| 
 
 At Pugster.com, **your privacy is a top priority**. Please read our privacy policy details.
-
-* * *
 
 ## Overview
 
@@ -22,7 +17,7 @@ PUGSTER, Inc.
 2835 Sierra Grande  
 Pasadena, CA 91107
 
-This Privacy Policy will explain the following regarding use of our site:
+**This Privacy Policy will explain the following regarding use of our site:**
 
   * What information does Pugster.com collect from you?
   * Where do we collect information from you and how do we use it?
@@ -177,5 +172,5 @@ This Privacy Policy was last changed on April 20, 2006. If Pugster.com makes cha
 
 
 
-[](http://www.pugster.com/l/power-by-pugster.php)  
-©2002 - 2007 [**Pugster**](http://www.pugster.com/)® , Inc. All rights reserved. 
+  
+| 
