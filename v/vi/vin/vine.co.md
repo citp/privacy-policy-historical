@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vine.co privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511095418id_/https%3A//vine.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vine.co privacy policy that was archived on 2013-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130824064416id_/https%3A//www.vine.co/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — Vine
 
@@ -42,14 +42,14 @@ This Privacy Policy describes how and when Vine collects, uses, and shares your 
 
 If you are a registered user of our Services, we provide you with tools and account settings to access or modify the profile information you provided to us and associated with your account.
 
-You can also permanently delete your Vine account by [contacting us](mailto:support@vine.co). 
+You can also permanently delete your Vine account by [contacting us](https://web.archive.org/support). 
 
 ### Our Policy Towards Children
 
-Our Services are not directed to persons under 13. If you become aware that your child has provided us with personal information without your consent, please contact us at [support@vine.co](mailto:support@vine.co). We do not knowingly collect personal information from children under 13. If we become aware that a child under 13 has provided us with personal information, we take steps to remove such information and terminate the child's account.
+Our Services are not directed to persons under 13. If you become aware that your child has provided us with personal information without your consent, please [contact us](https://web.archive.org/support). We do not knowingly collect personal information from children under 13. If we become aware that a child under 13 has provided us with personal information, we take steps to remove such information and terminate the child's account.
 
 ### Changes to this Policy
 
-We may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at <https://vine.co/privacy>. If we make a change to this policy that, in our sole discretion, is material, we will notify you via an email to the email address associated with your account or through the Services. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy.
+We may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at [https://vine.co/privacy](https://web.archive.org/privacy). If we make a change to this policy that, in our sole discretion, is material, we will notify you via an email to the email address associated with your account or through the Services. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy.
 
 _Effective: January 21, 2013_
