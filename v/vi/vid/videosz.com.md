@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the videosz.com privacy policy that was archived on 2012-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120703201446id_/http%3A//www.videosz.com/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videosz.com privacy policy that was archived on 2013-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130824212657id_/http%3A//www.videosz.com/us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy from VideosZ
 
 This Privacy Policy applies to the following websites:
 
-(1) www.videosz.com (collectively, the "Sites", or individually, a "Site").
+(1) www.VideosZ.com (collectively, the "Sites", or individually, a "Site").
 
 We are committed to protecting your privacy. The following information is designed to help you understand how we collect, use, disseminate and safeguard the information you provide to us while accessing and using our Sites. By accessing and using our Sites, you signify your assent to this Privacy Policy. If you do not agree with our information practices, please do not access or use our Sites. As provided below, we reserve the right, at our discretion, to change, add or remove portions of this policy at any time by posting such changes to this page. Such changes will be effective upon posting.
 
@@ -68,4 +68,4 @@ If we decide to use your personally identifiable information in a manner materia
 
 If you have any questions about this Privacy Policy, or if you otherwise need to contact us regarding your personally identifiable information, please contact us by sending an e-mail. Please provide us with your password, user name and account number so we can service you quicker.
 
-For www.videosz.com and its related sites, please [contact us](https://web.archive.org/us/contact).
+For www.VideosZ.com and its related sites, please [contact us](https://web.archive.org/us/contact).
