@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fleon.me privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607130802id_/http%3A//fleon.me/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fleon.me privacy policy that was archived on 2013-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130824211656id_/http%3A//fleon.me/privacy.php) for the most accurate reproduction.*
 
 # fleon - Just watch it!
 
