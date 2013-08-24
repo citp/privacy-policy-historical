@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the refog.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624013227id_/http%3A//www.refog.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the refog.com privacy policy that was archived on 2013-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130824040811id_/http%3A//www.refog.com/privacy.html) for the most accurate reproduction.*
 
 # REFOG Privacy Policy
-
-  
-
 
 ## A. INTRODUCTION
 
@@ -50,9 +47,6 @@ REFOG may be required by law enforcement or judicial authorities to provide pers
 
 ## B. COLLECTED INFORMATION
 
-  
-
-
 ### Browsing
 
 This Website does not collect personally identifiable information from your computer when you browse the Website and request pages from our servers. This means that, unless you voluntarily and knowingly provide us with personally identifiable information, we will not know your name, your e-mail address, or any other personally identifiable information. When you request a page from our Website, our servers log the information provided in the HTTP request header, JavaScript or similar technical tools, including the IP number, the time of the request, the URL of your request and other information. We collect such information in order to make our Website function correctly and provide you the functionality that you see on this Website, as our servers use this information to deliver to you the pages on this Website. We also use this information to better understand how visitors use our Website and how we can better tune our Website, its contents and functionality to meet your needs.
@@ -63,7 +57,7 @@ As a visitor to this Website, you can engage in many activities without providin
 
 REFOG may collect personal information as described above of registered users, service subscribers, and all posted advertisements information. All advertisements will be archived and stored on our servers. You may deactivate your personal information by contacting at: privacy@refog.com. When and if you deactivate your personal information, all information stored and maintained as part of your personal information will be deleted from our servers, provided that the information may be retained by REFOG for archival, backup and record purposes. The security of this information is addressed in the section Security below.
 
-You never have to answer any questions, and you can decline this exchange of information at any time. However, if you should choose to withhold requested information, we may not be able to provide you with some of the services dependent upon the collection of this information. Depending upon the activity, some of the information that we ask you to provide is identified as mandatory and some as voluntary. If you do not provide the mandatory data with respect to a particular activity or purchase, you will not be able to engage in that activity or make such a purchase. REFOG will inform on the mandatory and/or optional character of the requested and/or required information. 
+You never have to answer any questions, and you can decline this exchange of information at any time. However, if you should choose to withhold requested information, we may not be able to provide you with some of the services dependent upon the collection of this information. Depending upon the activity, some of the information that we ask you to provide is identified as mandatory and some as voluntary. If you do not provide the mandatory data with respect to a particular activity or purchase, you will not be able to engage in that activity or make such a purchase. REFOG will inform on the mandatory and/or optional character of the requested and/or required information.
 
 REFOG will only share your information with outside parties in ways that are described in this privacy statement or if we are required to do so by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law, cooperate with law enforcement agencies, or comply with a legal process served on our Website and the subsequent legislation adopted in the United States or EU Member States.
 
@@ -77,13 +71,13 @@ REFOG may establish relationships with various service providers whose services 
 
 ### Updating Your Personal Preferences
 
-You may have access and correct your personal information and privacy preferences by writing REFOG at privacy@refog.com. 
+You may have access and correct your personal information and privacy preferences by writing REFOG at privacy@refog.com.
 
 As a registered user you have the right to access and change your personal information and privacy preferences at any time by logging into your personal account, where you can view and make changes to your personal information. You may also access and change your personal information and privacy preferences by contacting us at: privacy@refog.com.
 
 ### Information Relating to Children
 
-The Children’s Online Privacy Protection Act (COPPA) was passed by the U.S. Congress in November 1998. COPPA provides parents with specific rights regarding their children's privacy. For additional information and resources on COPPA, please visit the Federal Trade Commission Web site at http://www.ftc.gov/. The REFOG Website and any products or services available on that site are not directed at children under 13 years of age and, therefore, COPPA does not apply. However, we recognize that children under the age of 13 may access this Website and subscribe to the newsletter, purchase products and services, or download software programs. The collection of information is covered above. Parents and Legal Guardians may request from us to review, delete or stop the collection of the personally identifiable information of their child. You may do so by contacting us by letter (using the address information provided at the bottom of this page). 
+The Children’s Online Privacy Protection Act (COPPA) was passed by the U.S. Congress in November 1998. COPPA provides parents with specific rights regarding their children's privacy. For additional information and resources on COPPA, please visit the Federal Trade Commission Web site at http://www.ftc.gov/. The REFOG Website and any products or services available on that site are not directed at children under 13 years of age and, therefore, COPPA does not apply. However, we recognize that children under the age of 13 may access this Website and subscribe to the newsletter, purchase products and services, or download software programs. The collection of information is covered above. Parents and Legal Guardians may request from us to review, delete or stop the collection of the personally identifiable information of their child. You may do so by contacting us by letter (using the address information provided at the bottom of this page).
 
 ### Securing the Transmission and Storage of Information
 
@@ -92,9 +86,6 @@ REFOG operates secure data networks protected by industry standard firewall and 
 We treat the information you provide to us as confidential information; it is, accordingly, subject to our company’s security procedures and corporate policies regarding protection and use of confidential information. After personally identifiable information reaches REFOG it is stored on a server with physical and electronic security features as customary in the industry, including utilization of login/password procedures and electronic firewalls designed to block unauthorized access from outside of REFOG. Because laws applicable to personal information vary by country, our offices or other business operations may put in place additional measures that vary depending on the applicable legal requirements. Information collected on the sites covered by this Privacy Policy is processed and stored in the United States and possibly other jurisdictions and also in other countries where REFOG and its service providers conduct business. All REFOG employees are aware of our privacy and security policies. Your information is only accessible to those employees who need it in order to perform their jobs.
 
 ## C. USE AND DISCLOSURE OF INFORMATION
-
-  
-
 
 ### How your personal information is used
 
