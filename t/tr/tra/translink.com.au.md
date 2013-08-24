@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the translink.com.au privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627180831id_/http%3A//translink.com.au/site-information/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the translink.com.au privacy policy that was archived on 2013-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130824185302id_/http%3A//translink.com.au/site-information/legal/privacy) for the most accurate reproduction.*
 
 # Privacy | TransLink
 
