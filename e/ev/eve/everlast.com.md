@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everlast.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512202844id_/http%3A//www.everlast.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everlast.com privacy policy that was archived on 2013-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130824072700id_/http%3A//www.everlast.com/privacypolicy) for the most accurate reproduction.*
 
 # 
 
@@ -6,19 +6,20 @@
 
 The Sports Direct International plc group and our family of brands, which include, but are not limited to Everlast, Lonsdale, Dunlop, Slazenger and Antigua (collectively, "SDI") collect customer information to help us to serve you better. We respect your privacy and are committed to maintaining and using this information responsibly. This privacy policy addresses the use and disclosure of personal information we collect from you. By visiting any of our websites, or providing your information to us, you are accepting the practices described in this privacy policy.
 
-  * [Information we collect about you](http://www.everlast.com/privacypolicy#info)
-  * [How we use this information](http://www.everlast.com/privacypolicy#howweuse)
-  * [Marketing email communications](http://www.everlast.com/privacypolicy#marketing)
-  * [Changing address or catalog preferences](http://www.everlast.com/privacypolicy#address)
-  * [How we work with third party service providers](http://www.everlast.com/privacypolicy#thirdparty)
-  * [Your online account](http://www.everlast.com/privacypolicy#youraccount)
-  * [Links to other sites](http://www.everlast.com/privacypolicy#links)
-  * [Cookies and web beacons](http://www.everlast.com/privacypolicy#cookies)
-  * [Privacy of young children](http://www.everlast.com/privacypolicy#children)
-  * [Your California rights](http://www.everlast.com/privacypolicy#california)
-  * [Security](http://www.everlast.com/privacypolicy#security)
-  * [Accessing our websites from outside the U.S.](http://www.everlast.com/privacypolicy#outsideus)
-  * [Privacy policy updates](http://www.everlast.com/privacypolicy#updates)
+  * [EVERLAST WORLDWIDE PRIVACY POLICY](http://www.everlast.com/privacypolicy#top)
+  * [INFORMATION WE COLLECT ABOUT YOU](http://www.everlast.com/privacypolicy#info)
+  * [HOW WE USE THIS INFORMATION](http://www.everlast.com/privacypolicy#howweuse)
+  * [MARKETING EMAIL COMMUNICATIONS](http://www.everlast.com/privacypolicy#marketing)
+  * [CHANGING ADDRESS OR CATALOG PREFERENCES](http://www.everlast.com/privacypolicy#address)
+  * [HOW WE WORK WITH THIRD PARTY SERVICE PROVIDERS](http://www.everlast.com/privacypolicy#thirdparty)
+  * [YOUR ONLINE ACCOUNT](http://www.everlast.com/privacypolicy#youraccount)
+  * [LINKS TO OTHER SITES](http://www.everlast.com/privacypolicy#links)
+  * [COOKIES AND WEB BEACONS](http://www.everlast.com/privacypolicy#cookies)
+  * [PRIVACY OF YOUNG CHILDREN](http://www.everlast.com/privacypolicy#children)
+  * [YOUR CALIFORNIA RIGHTS](http://www.everlast.com/privacypolicy#california)
+  * [SECURITY](http://www.everlast.com/privacypolicy#security)
+  * [ACCESSING OUR WEB SITES FROM OUTSIDE THE US](http://www.everlast.com/privacypolicy#outsideus)
+  * [PRIVACY POLICY UPDATES](http://www.everlast.com/privacypolicy#updates)
 
 
 
@@ -64,11 +65,12 @@ From time to time, we may share your information, including, without limitation,
 
 You can also contact us via postal mail regarding any of the above by writing to:
 
-Everlast Worldwide  
-183 Madison Suite 1701  
-New York, NY, 10016
+Everlast Worldwide   
+Attn: Customer Service   
+1900 HWY DD   
+Moberly, MO 65270
 
-Or you may contact us by phone at 800-821-7930, 24 hours a day, seven days a week.
+Or you may contact us by phone at 800-821-7930, Monday-Friday, 8 am - 5 pm CST
 
 Please be aware that it can take up to 10 business days to remove you from our marketing email lists. If you opt-out from receiving our marketing emails, you will continue to receive order confirmation and shipping status emails.
 
@@ -97,11 +99,12 @@ If you want to change your postal or email address, please send an email to [inf
 
 You will receive an email confirmation that your request has been received and processed. You can also contact us via postal mail regarding any of the above by writing to:
 
-Everlast Worldwide  
-183 Madison Ave, Suite 1701  
-New York, NY, 10016
+Everlast Worldwide   
+Attn: Customer Service   
+1900 HWY DD   
+Moberly, MO 65270
 
-Or you may contact us by phone at 800-821-7930, 24 hours a day, seven days a week.
+Or you may contact us by phone at 800-821-7930, Monday-Friday, 8 am - 5 pm CST.
 
 ## HOW WE WORK WITH THIRD PARTY SERVICE PROVIDERS
 
@@ -114,12 +117,6 @@ By supplementing our records, this information helps us to identify what pages a
 In addition, we may share statistical, demographic and other non-personally identifiable information with third party companies to help manage and optimize our Internet business and communications.
 
 ## YOUR ONLINE ACCOUNT
-
-When setting up an online account at any of our websites, you will be prompted to select a password. The retrieval of personal information relating to you and your order history is only available to you if you provide the correct password that you have created. After providing your password, you can edit or delete your information at any time through the "my account" page.
-
-If you forget your password, you can request that it be emailed to your email address. We will not give passwords out over the phone, nor will we email them to a different address than the one used to register. If you request to have your password emailed to you, your credit card information will be automatically deleted from your profile for your protection.
-
-Your address book, located in the "my account" page of each website, is your personal storage space. We do not use the information in your address book to send email promotions or catalogs by mail. When you enter names in your address book, those names will be accessible on your computer to place online orders on our website, whether you are logged in or not. If you are using a public computer, please click on the link on your order confirmation page that prompts you to "click here to clear all information" after placing your order to maximize privacy.
 
 ## LINKS TO OTHER SITES
 
@@ -145,9 +142,10 @@ SDI collects various types of personal information about you both online and off
 
 To make such a request, please write to us at the following address:
 
-Everlast Worldwide  
-183 Madison Ave, Suite 1701  
-New York, NY, 10016
+Everlast Worldwide   
+Attn: Customer Service   
+1900 HWY DD   
+Moberly, MO 65270
 
 Alternatively, you may send us an email at [info@everlast.com](mailto:info@everlast.com) with the words "California Privacy Rights" in the subject line.
 
@@ -178,9 +176,16 @@ All online orders will be accepted and fully processed in and shipped from the U
 
 We may update our privacy policy from time to time and our use of the information we collect is subject to the terms of the privacy policy in effect when we collect that information. Whenever we make a change, we will post the updated policy at this site and we encourage you to check our policy periodically. If we propose to modify our policy in a way that would significantly change the way that we use your information, we will provide you with a meaningful way to opt out of those new uses. If you have any questions or concerns regarding our privacy policy, please contact us:
 
-By email: [info@everlast.com](mailto:info@everlast.com)  
-By phone: 800-821-7930, 24 hours a day, seven days a week  
-By fax: 800-480-0348  
-By mail: Everlast Worldwide, 183 Madison Ave. Suite 1701, New York, NY, 10016
+By email: [info@everlast.com](mailto:info@everlast.com)
+
+By phone: 800-821-7930, Monday-Friday, 8 am - 5 pm CST
+
+By fax: 800-480-0348
+
+By mail:   
+Everlast Worldwide   
+Attn: Customer Service   
+1900 HWY DD   
+Moberly, MO 65270
 
 Effective as of 10/01/2009.
