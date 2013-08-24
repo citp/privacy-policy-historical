@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xnmax.com privacy policy that was archived on 2012-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121007045819id_/http%3A//www.xnmax.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xnmax.com privacy policy that was archived on 2013-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130824020748id_/http%3A//www.xnmax.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Action MAX
 
