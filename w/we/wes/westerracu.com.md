@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the westerracu.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115201240id_/https%3A//www.westerracu.com/forms-and-disclosures/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westerracu.com privacy policy that was archived on 2013-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130824054542id_/https%3A//www.westerracu.com/forms-and-disclosures/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Westerra Credit Union
+
+[Fee Schedule](https://web.archive.org/pdf/Fee_Schedule_2_1_13.pdf)
 
 Safeguarding the privacy and confidentiality of each member’s personal information is of the utmost importance to Westerra Credit  
 Union.
