@@ -1,12 +1,21 @@
-> *The following text is extracted and transformed from the furl.net privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919221350id_/http%3A//www.diigo.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the furl.net privacy policy that was archived on 2013-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130824101457id_/https%3A//www.diigo.com/privacy) for the most accurate reproduction.*
 
-# 
+# Diigo.com Privacy Policy
 
-May 5, 2006
+Dec 7, 2012
 
 Diigo recognizes that privacy is extremely important. For example, we do not record users' browsing history, except for the pages you specifically bookmark to our servers, which are located in the United States of America.
 
 Further details of the Diigo's privacy policy are outlined below.
+
+### Privacy Policy for Apps On Windows 8
+
+  * Currently, Quick Note and WorkPad on Windows 8 doesn't collect any personal data. All notes and workpads are stored in the local disk. Users own their notes and workpads.
+
+  * We may provide online sync feature in the future and it will require users to input their email to create an account. When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or credit card information. You may, however, visit our site anonymously. 
+
+
+
 
 ### Information We Collect
 
