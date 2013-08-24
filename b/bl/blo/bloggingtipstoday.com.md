@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the bloggingtipstoday.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217075517id_/http%3A//www.bloggingtipstoday.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggingtipstoday.com privacy policy that was archived on 2013-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130825002117id_/http%3A//www.bloggingtipstoday.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Blogging Tips Today
+
+**1** Flares **1** Flares ×
 
 This  **website**  is committed to protecting the privacy of our online visitors. We collect information from online visitors who ask to be on our mailing list and/ receive periodic email announcements. Anyone who wishes can choose to be removed from our mailing list at any time. All online visitors data collected by this website is protected against unauthorized access.
 
@@ -20,5 +22,3 @@ Every attempt has been made to verify the information provided on this website, 
 
 **Your Consent**  
 By using our site, you consent to our privacy policy.
-
-[](http://www.mylivesignature.com/)
