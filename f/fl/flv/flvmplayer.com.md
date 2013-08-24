@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flvmplayer.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624144302id_/http%3A//flvmplayer.com/terms.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flvmplayer.com privacy policy that was archived on 2013-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130824184042id_/http%3A//flvmplayer.com/terms.html) for the most accurate reproduction.*
 
 # FLV MPlayer | Terms & Conditions
 
