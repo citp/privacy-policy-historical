@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geofflawton.com privacy policy that was archived on 2013-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130405015700id_/http%3A//www.geofflawton.com/disclaimers/4895) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geofflawton.com privacy policy that was archived on 2013-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130824194745id_/http%3A//www.geofflawton.com/disclaimers/4895) for the most accurate reproduction.*
 
 # 
 
