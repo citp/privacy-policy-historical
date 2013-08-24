@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yoyo.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606143651id_/http%3A//www.yoyo.com/helpcenter/privacypolicy.qs) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoyo.com privacy policy that was archived on 2013-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130824085212id_/http%3A//www.yoyo.com/helpcenter/privacypolicy.qs) for the most accurate reproduction.*
 
 # Privacy Policy: Help Center - YoYo.com
 
