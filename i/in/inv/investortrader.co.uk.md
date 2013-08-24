@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the investortrader.co.uk privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602221017id_/http%3A//www.investortrader.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investortrader.co.uk privacy policy that was archived on 2013-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130824124814id_/http%3A//www.investortrader.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Investor Trader
+# Privacy Policy
 
 You are at the website of **InvestorTrader**. The owner of this site can be reached at _paul at investortrader dot co uk_.
 
