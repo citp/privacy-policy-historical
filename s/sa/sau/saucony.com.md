@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the saucony.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207021143id_/http%3A//www.saucony.com/store/SiteController/saucony/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saucony.com privacy policy that was archived on 2013-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130824031643id_/http%3A//www.saucony.com/store/SiteControllerhttp%3A//www.saucony.com/saucony/privacypolicy) for the most accurate reproduction.*
 
-# Saucony Performance -
+# Privacy Policy | Saucony
 
 We value our customers and respect their privacy. We seek to provide products, services, and valuable offers to you and your family. We collect information from our interactions with you, other customers and other parties to help us achieve that goal. Your privacy is important to us. As described in this Privacy Policy, we do, however, share your personal information with our affiliates and certain third parties who provide services on our behalf.
 
