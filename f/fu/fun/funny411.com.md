@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funny411.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607134714id_/http%3A//funny411.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funny411.com privacy policy that was archived on 2013-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130824111935id_/http%3A//funny411.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,6 +10,6 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
 ### Contact
 
-If you have any further questions about this Privacy Policy, please email us [here.](https://web.archive.org/web/20130607134714id_/http%3A//funny411.com/contact.php)
+If you have any further questions about this Privacy Policy, please email us [here.](https://web.archive.org/web/20130824111935id_/http%3A//funny411.com/contact.php)
 
 In need of finding pics and pictures? We have thousands of images and pics for you to use and find here at Funny411.com. Our pictures are updated on a daily basis. 
