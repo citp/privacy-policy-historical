@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crazy-tattoo-designs.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621073148id_/http%3A//crazy-tattoo-designs.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazy-tattoo-designs.com privacy policy that was archived on 2013-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130824200202id_/http%3A//www.crazy-tattoo-designs.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # This is the Privacy Policy for T
 
