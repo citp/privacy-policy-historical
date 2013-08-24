@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the threadbombing.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602042004id_/http%3A//www.threadbombing.com/index.php%3Ftemplate%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the threadbombing.com privacy policy that was archived on 2013-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130824062530id_/http%3A//www.threadbombing.com/index.php%3Ftemplate%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy - Threadbombing
 
