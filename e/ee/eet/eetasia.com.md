@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eetasia.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529181225id_/http%3A//www.eetasia.com/STATIC/SITE/PRIVACY.HTM) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eetasia.com privacy policy that was archived on 2013-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130824141219id_/http%3A//www.eetasia.com/STATIC/SITE/PRIVACY.HTM) for the most accurate reproduction.*
 
 # Privacy Policy - EE Times Asia
 
