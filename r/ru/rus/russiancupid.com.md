@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the russiancupid.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512072535id_/http%3A//www.russiancupid.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the russiancupid.com privacy policy that was archived on 2013-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130824134017id_/http%3A//www.russiancupid.com/privacy.cfm) for the most accurate reproduction.*
 
 # RussianCupid.com | Privacy Policy
 
