@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the buxp.org privacy policy that was archived on 2013-05-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130529183406id_/http%3A//buxp.org/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the buxp.org privacy policy that was archived on 2013-08-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130824041556id_/http%3A//buxp.org/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -9,7 +9,7 @@
 <link href="./newDesign/style.css" rel="stylesheet" type="text/css">
 <link href="./jquery/css/flexigrid/flexigrid.pack.css" rel="stylesheet" type="text/css">
 <link type="text/css" href="./jquery/css/blitzer/jquery-ui.css" rel="stylesheet">
-<link type="text/css" href="jquery/css/blitzer/jqtransform.css" rel="stylesheet">
+<link type="text/css" href="./jquery/css/blitzer/jqtransform.css" rel="stylesheet">
 <link href="http://fonts.googleapis.com/css?family=Cabin" rel="stylesheet" type="text/css">
 <script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
 <script type="text/javascript" src="./jquery/js/jquery.js"></script>
@@ -118,7 +118,7 @@ margin-top: 2px !important;
 <span class="ui-dialog-title">Login</span>
 </div>
 <div id="dialog" class="ui-dialog-content ui-widget-content" style="width: auto; min-height: 59.4px; height: auto;" scrolltop="0" scrollleft="0">
-<form action="login.php" method="post" id="logintopbox">
+<form action="/login.php" method="post" id="logintopbox">
 <table>
 <tbody><tr>
 <td class="midtext" align="right"><b>Username</b>:</td>
@@ -129,7 +129,7 @@ margin-top: 2px !important;
 <td class="midtext"><input type="password" name="password" size="20"></td>
 </tr>
 <tr>
-<td class="midtext" align="right"><img src="image.php" onclick="this.src='image.php?newtime=' + (new Date()).getTime();">:</td>
+<td class="midtext" align="right"><img src="/image.php" onclick="this.src='/image.php?newtime=' + (new Date()).getTime();">:</td>
 <td class="midtext"><input type="text" name="code" size="20" maxlength="17"></td>
 </tr>
 </tbody></table>
@@ -148,7 +148,7 @@ margin-top: 2px !important;
 </div>
 <p></p>
 
-<p class="stats" id="site_stats">Total Paid $141639 &nbsp; | &nbsp; Total Users 384567 &nbsp; | &nbsp; Since 2008</p>
+<p class="stats" id="site_stats">Total Paid $154912 &nbsp; | &nbsp; Total Users 409741 &nbsp; | &nbsp; Since 2008</p>
 </div>
 <!-- end RIGHT -->
 </div>
@@ -163,7 +163,11 @@ margin-top: 2px !important;
 <li><a href="viewvids.php">Youtube Videos</a></li>
 <li><a href="viewvimeo.php">Vimeo Videos</a></li>
 </ul></li>
-<li><a href="./survey.php">Offer Wall</a></li>
+<li><a href="./survey.php">Offer Wall</a>
+<ul class="subSubMenu">
+<li><a href="survey.php">Earn BUXPoints</a></li>
+<li><a href="redeem.php">Redeem BUXPoints</a></li>
+</ul></li>
 <li><a href="./promote.php">Affiliate Program</a></li>
 </ul>
 </li>
