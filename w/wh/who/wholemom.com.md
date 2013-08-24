@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wholemom.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618043254id_/http%3A//wholemom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholemom.com privacy policy that was archived on 2013-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130824133304id_/http%3A//wholemom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Whole Mom
 
