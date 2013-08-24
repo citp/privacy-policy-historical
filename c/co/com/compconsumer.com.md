@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compconsumer.com privacy policy that was archived on 2013-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130326064447id_/http%3A//www.compconsumer.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compconsumer.com privacy policy that was archived on 2013-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130824052724id_/http%3A//www.compconsumer.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -67,8 +67,8 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-LoTN  
+LoTN LLC  
 5865 Casa Grande Ave  
 Rocklin, California 95677  
 USA  
-lotnstore@lordofthe.net
+lotnstore@lotnllc.com
