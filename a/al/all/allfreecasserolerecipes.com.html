@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the allfreecasserolerecipes.com privacy policy that was archived on 2013-04-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130414185707id_/http%3A//www.allfreecasserolerecipes.com/index.php/hct/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the allfreecasserolerecipes.com privacy policy that was archived on 2013-08-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130824143325id_/http%3A//www.allfreecasserolerecipes.com/index.php/hct/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://ogp.me/ns/fb#"><head>
 
@@ -37,7 +37,7 @@
 	
 	
 	<!-- START Bing verification -->
-						<meta name="msvalidate.01" content="2B5463FF31402EED99DC5D397C18CA3E">
+						<meta name="msvalidate.01" content="CF33266DDC4229951386F3A5B3266E55">
 						
 		<!-- END Bing verification -->
 	
@@ -49,24 +49,24 @@
 	<!--<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>-->
 	<!--<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js"></script>-->
 	<!--<script type="text/javascript" src="/javascript/jquery-1.5.min.js"></script>-->
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery-1.5.2.min.js?v=2"></script>
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery-1.5.2.min.js?v=15"></script>
 	
 	<!-- start jquery ui -->
 	<!-- this was installed to get the autocomplete feature, contains: Core, Widget, Position, Autocomplete -->
-	<script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery-ui-1.8.12.custom/js/jquery-ui-1.8.12.custom.min.js?v=2"></script>
-	<link rel="stylesheet" type="text/css" href="/javascript/jquery-ui-1.8.12.custom/css/ui-lightness/jquery-ui-1.8.12.custom.css?v=2" media="screen">
+	<script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery-ui-1.8.12.custom/js/jquery-ui-1.8.12.custom.min.js?v=15"></script>
+	<link rel="stylesheet" type="text/css" href="/javascript/jquery-ui-1.8.12.custom/css/ui-lightness/jquery-ui-1.8.12.custom.css?v=15" media="screen">
 	<!-- end jquery ui -->
 	
 	
 	<!-- jQuery Tools Library (Tabs, Tooltip, Scrollable, Overlay, Expose. No jQuery) --> 
 	<!--<script src="http://cdn.jquerytools.org/1.1.0/tiny/jquery.tools.min.js"></script>-->
-		<script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery.tools.min_v1.1.0.js?v=2"></script>
+		<script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery.tools.min_v1.1.0.js?v=15"></script>
 	
 	
 
-	<script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery.form.js?v=2"></script>
+	<script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery.form.js?v=15"></script>
 	
-	<script type="text/javascript" src="http://cf2.primecp.com/javascript/site_functions.js?v=2"></script>
+	<script type="text/javascript" src="http://cf2.primecp.com/javascript/site_functions.js?v=15"></script>
 	
 	
 	
@@ -84,13 +84,13 @@
 			
 	
 			<!-- START getPageJavascript -->
-					<!-- array count: 3 -->
+					<!-- array count: 4 -->
 					<!-- START titter js -->
 		<script type="text/javascript">
 		
 			$(document).ready(
 				function() {
-					//alert('getJavascript_topSocialLinks ready line: 10680');
+					//alert('getJavascript_topSocialLinks ready line: 10778');
 					
 					$('#topSocialLinkMenu .socialButtonTable').show();
 					
@@ -150,7 +150,7 @@
 			
 			$(document).ready(
 				function() {
-					//alert('getJavascript_loginDhtmlContent ready - line: 15916');
+					//alert('getJavascript_loginDhtmlContent ready - line: 16306');
 					/**
 					 *set click handler for all the close boxes in the dhtml
 					 */
@@ -325,6 +325,10 @@
 									if(json.success == 1){
 										//alert('success');
 										feedback_div = 'We sent your password to ' + json.email;
+									}else if(json.is_banned == 1){
+										feedback_div = 'We could not send the password for your account.<br />';
+										feedback_div += '<a href="/index.php/hct/contact_us_page">Please click here to contact customer support.</a>';
+										
 									}else{
 										feedback_div = 'We could not find an account for your email.';
 									}
@@ -480,6 +484,32 @@
 		
 		</script>
 		<!-- END login dhtml js -->
+				<!-- START header search form js -->
+		<script type="text/javascript">
+			
+			var header_search_obj = {};
+			header_search_obj.form_id = 'headerSearchForm';
+			
+			$(document).ready(
+				function() {
+					//alert('getJavascript_headerSearchForm');
+					
+					$('#' + header_search_obj.form_id).submit(
+						function(){
+							//console.log('form submitted');
+							$(this).css(
+								{
+									'opacity': 0.2
+								}
+							);
+						}
+					);
+					
+				}
+			);
+			
+		</script>
+		<!-- END header search form js -->
 		<script type="text/javascript">
 
 
@@ -563,6 +593,10 @@ $(document).ready(
 			{
 				beforeSubmit: ajaxFormPreSubmit,
 				success: function(response) {
+					
+					// log all submits, passing something about the success/new user
+					post_newsletter_signup.logRightRailSubmit(response.is_new_signup, $('#newsletterSignUpForm :input[name=rriID]').val());
+					
 					
 					//alert('result = ' + response.result);
 					
@@ -1104,7 +1138,9 @@ function animateDhtmlSignup(){
 	//alert('animateDhtmlSignup');
 	
 	// move user to top of the page
-	window.location = '#';
+	//window.location = '#';
+	
+	//console.log('animateDhtmlSignup');
 	
 	var doc_width = $(document).width();
 		var doc_height = $(document).height();
@@ -1120,35 +1156,60 @@ function animateDhtmlSignup(){
 	$("#newsletterSignUpDivAnime").css("left", popup_left + 'px');
 	$("#newsletterSignUpDivAnime").show();
 	
+	
+	
 	$("#newsletterSignUpDivAnime").animate(
-			{"top": "10px"}, 
-			"slow",
-			'',
-			function () {
+		{"top": "10px"}, 
+		"slow",
+		'',
+		function () {
 
-				// this fires after the popup is in place
-				// fade out the div that will be placed over the page
-				// the div is not visible at this point, but we use fade out so we can fade it in after the css updates are made
-				
-				$('#viewportGreyout').fadeTo(
-					"fast", 
-					0.0,
-					function () {
-						
-						// set some css for the div then fade it in
-						$('#viewportGreyout').css(
-							{
-								'top' : '0',
-								'left' : '0',
-								'width' : doc_width + 'px',
-								'height' : doc_height + 'px',
-								'background-color' : '#000'
-							}
-						).fadeTo("slow", 0.8);
+			// this fires after the popup is in place
+			// fade out the div that will be placed over the page
+			// the div is not visible at this point, but we use fade out so we can fade it in after the css updates are made
+			
+			$('#viewportGreyout').fadeTo(
+				"fast", 
+				0.0,
+				function () {
+					
+					// set some css for the div then fade it in
+					$('#viewportGreyout').css(
+						{
+							'top' : '0',
+							'left' : '0',
+							'width' : doc_width + 'px',
+							'height' : doc_height + 'px',
+							'background-color' : '#000'
+						}
+					).fadeTo("slow", 0.8);
+				}
+			);
+			
+			
+			
+			// 2013-04-30
+			// added to remedy a chrome dhtml display issue
+			// the page might be scrolled to the middle, so the usr cannot see the top, where the dhtml is located
+			var body_top = parseInt($('body').css('top'));
+			if(isNaN(body_top)){
+				body_top = 10;
+			}
+			//console.log('body_top ' + body_top );
+			//console.log('typeof body_top ' + typeof body_top );
+			
+			
+			if( body_top > 0 ){
+				$('body').css(
+					{
+						'top': '0px'
 					}
 				);
+				
+				//console.log('2 body top ' + $('body').css('top') );
 			}
-		);
+		}
+	);
 }
 
 //------------------------------------------------------------------------------------------------------------
@@ -1428,6 +1489,34 @@ function triggerWiderFunnel(){
 
 //------------------------------------------------------------------------------------------------------------
 
+post_newsletter_signup.logRightRailSubmit = function(isNewSignup, rriID){
+	//console.log('post_newsletter_signup.logRightRailSubmit');
+	//console.log('is_new_signup: ' + is_new_signup);
+	//console.log('rriID: ' + rriID);
+	
+	if(isNewSignup == 1 || isNewSignup == true){
+		isNewSignup = 1;
+	}else{
+		isNewSignup = 0;
+	}
+	
+	$.ajax(
+		{
+			type: "POST",
+			dataType: "json",
+			timeout: '10000',
+			url: "/ajax_process.php",
+			data: {
+				task: 'log_right_rail_submit',
+				rriID: rriID,
+				isNewSignup: isNewSignup
+			},
+			success: function(json) {
+			
+			}
+		}
+	);
+}
 
 
 
@@ -1641,18 +1730,18 @@ function triggerWiderFunnel(){
 	
 	
 			<!-- get css for the email signup creative -->
-		<link rel="stylesheet" href="/site_templates/signup_creative/css/nscID_65.css?v=2" type="text/css" media="screen">	
+		<link rel="stylesheet" href="/site_templates/signup_creative/css/nscID_65.css?v=15" type="text/css" media="screen">	
 			
 	
 	
-	<link type="text/css" rel="stylesheet" href="/css/jquery.rating.css?v=2" media="screen">
+	<link type="text/css" rel="stylesheet" href="/css/jquery.rating.css?v=15" media="screen">
 	
 	<!--
 	start css
 	-->
-	<link rel="stylesheet" href="/site_templates/0003/css/main_styles.css?v=2" type="text/css" media="screen">
+	<link rel="stylesheet" href="/site_templates/0003/css/main_styles.css?v=15" type="text/css" media="screen">
 	
-	<link rel="stylesheet" href="/site_templates/0003/css/print_styles.css?v=2" type="text/css" media="print">
+	<link rel="stylesheet" href="/site_templates/0003/css/print_styles.css?v=15" type="text/css" media="print">
 	
 	
 	
@@ -1673,7 +1762,7 @@ function triggerWiderFunnel(){
 
 			window.fbAsyncInit = function() {
 			
-				//console.log('call to window.fbAsyncInit line 15746');
+				//console.log('call to window.fbAsyncInit line 16136');
 			
 				FB.init({
 					appId      : '', // App ID Favecrafts
@@ -1825,6 +1914,57 @@ function triggerWiderFunnel(){
 			
 		</script>
 		<!-- END Facebook Javascript SDK js -->
+				<!-- START event tracking - related articles js -->
+		<script type="text/javascript">
+			
+			var eventTracking_outboundLinks = {};
+			eventTracking_outboundLinks.link_class = 'outboundLink';
+			
+			$(document).ready(
+				function() {
+		
+					//alert('getJavascript_eventTracking_outboundLinks ready');
+					//console.log('getJavascript_eventTracking_outboundLinks ready');
+					
+					eventTracking_outboundLinks.initEventTracking();
+					
+					
+				} // end main func
+			); // end ready;
+			
+			
+			eventTracking_outboundLinks.initEventTracking = function(){
+				//console.log('eventTracking_outboundLinks.initEventTracking');
+				
+				$('a.'+ eventTracking_outboundLinks.link_class).click(
+					function(){
+						var link_url = $(this).attr('href');
+						//console.log('link_url: ' + link_url);
+						
+						var page_title_obj = $('head title')[0];
+						//console.log( $(page_title_obj).html() );
+						
+						_gaq.push(
+							[
+								'_trackEvent', 
+								'Click', 
+								'OutboundExternal', 
+								$(page_title_obj).html(),
+								, 
+								false
+							]
+						);
+						
+						
+						//return false;
+					}
+				);
+				
+			}
+			
+			
+		</script>
+		<!-- END event tracking - related articles js -->
 			
 				
 		
@@ -1832,7 +1972,6 @@ function triggerWiderFunnel(){
 <body id="site52" itemscope="" itemtype="http://schema.org/Article">
 
 <div id="fb-root"></div>
-
 
 
 
@@ -1916,7 +2055,7 @@ function triggerWiderFunnel(){
 			<table id="logoTable" border="0">
 				<tbody><tr>
 					<td>
-								<a id="headerLogo" href="/"><img src="http://cf2.primecp.com/site_templates/0003/images/site_logo_internal_sID52.gif?v=2" alt="AllFreeCasseroleRecipes.com"></a>
+								<a id="headerLogo" href="/"><img src="http://cf2.primecp.com/site_templates/0003/images/site_logo_internal_sID52.gif?v=15" alt="AllFreeCasseroleRecipes.com"></a>
 			<div id="thisPageLinks" class="internal" style="margin-top: 10px;"><a class="firstLink" href="/site-map">Site Map</a><a href="/rss-feed">RSS</a><!--<a href="javascript: alert('Coming Soon');">Shop</a>--><a href="" class="lastLink" onclick="return bookmark('http://www.allfreecasserolerecipes.com/index.php/hct/privacy_policy','');">Bookmark</a><!--<a id="emailPageLink" class="lastLink" href="#">Email This Page</a>--></div>
 						</td>
 					<td class="" style="text-align: right; padding: 5px 5px 0 0; width: 735px;">
@@ -1944,7 +2083,7 @@ function triggerWiderFunnel(){
 									<a href="/index.php/hct/Printable-Grocery-and-Drug-Store-Coupons">Coupons</a>
 								</td>
 																<td class="">
-									<a href="/index.php/hct/Free-Recipe-eCookbooks">Free eCookbooks</a>
+									<a href="/index.php/hct/Latest-Free-Recipe-eCookbooks">Free eCookbooks</a>
 								</td>
 																<td class="">
 									<a href="/index.php/hct/Foodie-Reviews-and-Giveaways">Giveaways</a>
@@ -1990,7 +2129,7 @@ function triggerWiderFunnel(){
 					<h3 style="text-align: center;">
 	Hot Picks</h3>
 					<ul>
-						<li><a href="/tag/Easy-Pasta-Casseroles">Easy Pasta Casseroles</a></li><li><a href="/tag/Rice-Casserole-Recipes">Rice Casserole Recipes</a></li><li><a href="/tag/Side-Dish-Potato-Casserole-Recipes">Side Dish Potato Casserole Recipes</a></li><li><a href="/tag/Vegetable-Casserole-Recipes">Vegetable Casserole Recipes</a></li>					</ul>
+						<li><a href="/tag/5-Ingredients-or-Less">5 Ingredient Recipes</a></li><li><a href="/tag/Budget-Casserole-Recipes">Budget-Friendly Recipes</a></li><li><a href="/tag/Easy-Pasta-Casseroles">Easy Pasta Casseroles</a></li><li><a href="/tag/Rice-Casserole-Recipes">Rice Casserole Recipes</a></li>					</ul>
 				</div>
 						
 		<!--<div id="catMenuCol1SiteID52" class="mainMenuDiv">-->
@@ -1999,35 +2138,50 @@ function triggerWiderFunnel(){
 					
 					<ul>
 									<li class=""><a class="" href="/Breakfast-Casserole-Recipes">Breakfast Casserole Recipes</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Casseroles-For-Two">Casseroles For Two</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Copycat-Casserole-Recipes">Copycat Casserole Recipes</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Dessert-Casserole-Recipes">Dessert Casserole Recipes</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Editors-Picks">Editor's Picks</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Ethnic-Casserole-Recipes">Ethnic Casserole Recipes</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Featured-Foodies">Featured Foodies</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Food-Companies">Food Companies</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Foodie-Reviews">Foodie Reviews</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Helpful-Hints-and-Cooking-Tips">Helpful Hints and Cooking Tips</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Event-and-Holiday-Casserole-Recipes">Holiday and Event Casserole Recipes</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Main-Dish-Casserole-Recipes">Main Dish Casserole Recipes</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Side-Dish-Casserole-Recipes">Side Dish Casserole Recipes</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Slow-Cooker-Casseroles-Recipes">Slow Cooker Casseroles Recipes</a>
-											</li>
+											<!-- </a> -->
+										</li>
 										<li class=""><a class="" href="/Special-Diet-Casseroles">Special Diet Casserole Recipes</a>
-											</li>
+											<!-- </a> -->
+										</li>
 									
 			</ul>	
 					</div><!-- end mainMenuDiv -->
@@ -2204,15 +2358,16 @@ function triggerWiderFunnel(){
 				</td><!-- end col2 -->
 				<td id="col3">
 												<div style="margin: 0 0 10px 0;">
-											
-		<div id="newsletterSignUpDivSiteID52">
-			<h3>Newsletter Signup</h3>
+										<div class="newsletterSignUpDiv" id="newsletterSignUpDivSiteID52">
+						<h3>Newsletter Signup</h3>
 			
 			<div id="newsletterSignUpDiv2">
 		
 				<form id="newsletterSignUpForm" class="contentBoxPadding" action="/newsletter_signup.php" method="post">
 					<input type="hidden" name="task" value="signup">
-					<input type="hidden" name="PHPSESSID" value="046f2d391609f12b11094b64330df021">
+					<input type="hidden" name="PHPSESSID" value="ufnndku82e629iurs1gfcbuf45">
+					<input type="hidden" name="rriID" value="0">
+					
 					
 					<img style="float: right; margin: 0 0 5px 5px;" src="http://cf2.primecp.com/site_templates/0003/images/newsletter_signup_bg_sID52.png" alt="">
 					
@@ -2247,16 +2402,16 @@ function triggerWiderFunnel(){
 				<div class="contentBoxPadding">
 										<h4></h4>
 								<ol>
-									 <li><a href="/Easter-Casserole-Recipes/Birthday-Quiche/ct/1">Birthday Quiche</a></li>
-					 					 <li><a href="/Main-Dish-Casserole-Recipes/The-Sloppy-Shepherd/ct/1">The Sloppy Shepherd</a></li>
-					 					 <li><a href="/Dessert-Casserole-Recipes/Microwave-Crazy-Fast-Cake-Batter-Mug-Cake/ct/1">Crazy Fast Cake Batter Mug Cake</a></li>
-					 					 <li><a href="/Chicken-Casseroles-Recipes/Cheesy-Buffalo-Chicken-Lasagna/ct/1">Cheesy Buffalo Chicken Lasagna</a></li>
-					 					 <li><a href="/Dessert-Casserole-Recipes/Carrot-Cake-Magic-Bars/ct/1">Carrot Cake Magic Bars</a></li>
-					 					 <li><a href="/Side-Dish-Casserole-Recipes/Corn-Green-Chile-Casserole/ct/1">Corn and Green Chile Casserole</a></li>
-					 					 <li><a href="/Pork-and-Ham-Casserole-Recipes/Scalloped-Potatoes-and-Ham/ct/1">Scalloped Potatoes and Ham</a></li>
-					 					 <li><a href="/Easter-Casserole-Recipes/Funeral-Potatoes/ct/1">Funeral Potatoes</a></li>
-					 					 <li><a href="/Easter-Casserole-Recipes/Recipes-Easter-Brunch-Free-eCookbook/ct/1">"11 Recipes for Easter Brunch" Free eCookbook</a></li>
-					 					 <li><a href="/Italian-Casserole-Recipes/Lazy-Lasagnas/ct/1">Lazy Lasagnas</a></li>
+									 <li><a href="/Casseroles-for-Thanksgiving/8-Great-Thanksgiving-Dessert-Recipes/ct/1">8 Great Thanksgiving Dessert Recipes</a></li>
+					 					 <li><a href="/Chicken-Casseroles-Recipes/Wicked-Chicken/ct/1">Wicked Chicken</a></li>
+					 					 <li><a href="/Ground-Beef-Casserole-Recipes/Spaghetti-Casserole/ct/1">Spaghetti Casserole</a></li>
+					 					 <li><a href="/Chicken-Casseroles-Recipes/The-Perfect-Chicken-Rice-dish/ct/1">The Perfect Chicken and Rice Dish</a></li>
+					 					 <li><a href="/Chicken-Casseroles-Recipes/Southwest-Chicken-Noodle-Casserole/ct/1">Southwest Chicken Noodle Casserole</a></li>
+					 					 <li><a href="/Ground-Beef-Casserole-Recipes/Ground-Beef-Doritos-Casserole/ct/1">Ground Beef Doritos Casserole</a></li>
+					 					 <li><a href="/Pork-and-Ham-Casserole-Recipes/Hashbrown-Casserole-without-Cream-Soup/ct/1">Hashbrown Casserole (without Cream Soup)</a></li>
+					 					 <li><a href="/Breakfast-Casserole-Recipes/Breakfast-Casserole-Bites/ct/1">Breakfast Casserole Bites</a></li>
+					 					 <li><a href="/Editors-Picks/Zesty-Recipes-with-Zucchini/ct/1">12 Zesty Recipes with Zucchini</a></li>
+					 					 <li><a href="/Chicken-Casseroles-Recipes/Chicken-Tetrazzini-2/ct/1">Chicken Tetrazzini</a></li>
 					 			</ol>
 							</div>
 				
@@ -2314,11 +2469,15 @@ function triggerWiderFunnel(){
 							<h3>Free eBooks</h3>
 							<div class="list">
 				<ul>
-											<li><a href="http://www.allfreecasserolerecipes.com/Main-Dish-Casserole-Recipes/11-Baked-Macaroni-Cheese-Recipes-Free-eCookbook">11 Baked Macaroni and Cheese Recipes eCookbook</a></li>
+											<li><a href="http://www.allfreecasserolerecipes.com/Main-Dish-Casserole-Recipes/Casserole-Recipes-Make-When-Eating-on-a-Budget-Free-eCookbook">"9 Casserole Recipes to Make When Eating on a Budget" Free eCookbook</a></li>
+												<li><a href="http://www.allfreecasserolerecipes.com/Main-Dish-Casserole-Recipes/11-Baked-Macaroni-Cheese-Recipes-Free-eCookbook">11 Baked Macaroni and Cheese Recipes eCookbook</a></li>
 												<li><a href="http://www.allfreecasserolerecipes.com/Editors-Picks/12-Top-Rated-Chicken-Casserole-Recipes-Free-eCookbook">12 Top Rated Chicken Casserole Recipes</a></li>
-												<li><a href="http://www.allfreecasserolerecipes.com/Casseroles-for-Thanksgiving/Fall-Casserole-Ideas-14-Deliciously-Good-Recipes-for-Thanksgiving-Free-eCookbook">14 Deliciously Good Recipes for Thanksgiving</a></li>
-												<li><a href="http://www.allfreecasserolerecipes.com/Easy-Christmas-Casseroles/14-Perfectly-Delicious-Christmas-Recipes-for-Breakfast-free-eCookbook">14 Perfectly Delicious Christmas Recipes for Breakfast</a></li>
+												<li><a href="http://www.allfreecasserolerecipes.com/Editors-Picks/14-Easy-Recipes-Potato-Casseroles-Free-eCookbook">14 Easy Recipes for Potato Casseroles</a></li>
+												<li><a href="http://www.allfreecasserolerecipes.com/Editors-Picks/14-Easy-Recipes-Potato-Casseroles-Free-eCookbook">14 Easy Recipes for Potato Casseroles</a></li>
 												<li><a href="http://www.allfreecasserolerecipes.com/Ground-Beef-Casserole-Recipes/Ground-Beef-Recipes-15-Easy-Ground-Beef-Casserole-Recipes-eCookbook">15 Easy Ground Beef Casserole Recipes eCookbook</a></li>
+												<li><a href="http://www.allfreecasserolerecipes.com/Breakfast-Casserole-Recipes/Scrumptious-Casserole-Recipes-for-Breakfast-Free-eCookbook">19 Scrumptious Casserole Recipes for Breakfast</a></li>
+												<li><a href="http://www.allfreecasserolerecipes.com/Easy-Mexican-Casseroles/Casserole-Recipes-Mexican-Food-Lovers-Free-eCookbook">20 Casserole Recipes for Mexican Food Lovers</a></li>
+												<li><a href="http://www.allfreecasserolerecipes.com/Dessert-Casserole-Recipes/Fresh-Fruity-Fabulous-Fruit-Recipes-Summer-Desserts-with-Fruit-Free-eCookbook">Fresh, Fruity, and Fabulous Fruit Recipes: 25 Summer Desserts with Fruit</a></li>
 										</ul>
 			</div>
 		</div><!-- end eBooksRightCol -->
@@ -2381,10 +2540,7 @@ function triggerWiderFunnel(){
 										<a href="/index.php/hct/terms_service">Terms of Service</a>
 										<a href="/section/subctr/">Unsubscribe</a>
 								</p>
-					<!--
-		<p id="footerMenu">bb<a style="border: 0;" href="/index.php/hct/about_us">About Us</a><a href="/index.php/hct/advertise">Advertise</a><a href="/index.php/hct/privacy_policy">Privacy Policy</a><a href="/index.php/hct/contact_us_page">Contact Us</a><a href="/index.php/hct/terms_service">Terms of Service</a><a class="contestRulesLink" href="">Rules</a>mm</p>
-		-->
-							</div>
+								</div>
 									<div style="margin: 0; ">
 								
 		<table style="margin: 0 auto;">
@@ -2592,8 +2748,8 @@ function triggerWiderFunnel(){
 
 	
 
-		<div id="viewportGreyout"></div>
-		
+<div id="viewportGreyout"></div>
+
 
 
 	
@@ -2820,8 +2976,7 @@ function triggerWiderFunnel(){
 			</div><!-- end newsletterSignUpDivAnime -->
 
 				<!-- END NL signup div -->
-			
-		
+	
 		
 		<!-- START Vibrant code -->
 						<!-- start Vibrant Media IntelliTXT script section -->
@@ -2829,8 +2984,8 @@ function triggerWiderFunnel(){
 				<!-- end Vibrant Media IntelliTXT script section -->
 						
 		<!-- END Vibrant code -->
-		
-		
+
+
 				
 		
 		<!-- START Google Remarketing code -->
@@ -2838,21 +2993,34 @@ function triggerWiderFunnel(){
 		<!-- END Google Remarketing code -->
 		
 		
-		
-		<!-- START datonics.com -->
-						<script type="text/javascript" src="http://ads.pro-market.net/ads/scripts/site-132970.js"></script>
-						<!-- END datonics.com -->
-		
-		<!-- START swoop -->
-				<!-- END swoop -->
+				
+				
 
-
-
+					
+			<!-- START comScore Tag -->
+						<!-- END comScore Tag -->
+			
+			<!-- START crazy egg Tag -->
+						<!-- END crazy egg Tag -->
+			
+			<!-- START datonics.com -->
+							<script type="text/javascript" src="http://ads.pro-market.net/ads/scripts/site-132970.js"></script>
+							<!-- END datonics.com -->
+			
+			<!-- START swoop -->
+						<!-- END swoop -->
+					
 		
+		
+
 				
 		
 		
-		..		
+						<div id="multiLoginDiv"></div>
+				<!--
+				<iframe onload="multiSiteLoginCheck('not_logged_in');" src ="http://c.primecp.com/multi_site_login.php?task=not_logged_in&x=1377354807&sid=52&sessid=ufnndku82e629iurs1gfcbuf45" width="80%" height="600"></iframe>
+				-->
+						
 		
 
 
