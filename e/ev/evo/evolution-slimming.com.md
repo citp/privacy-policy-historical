@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the evolution-slimming.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611040453id_/http%3A//www.evolution-slimming.com/store/privacy-policy/info_6.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evolution-slimming.com privacy policy that was archived on 2013-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130824173757id_/http%3A//www.evolution-slimming.com/store/privacy-policy/info_6.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacidade | Evolution Slimming
 
 This privacy policy sets out how Evolution Slimming Ltd uses and protects any information that you give Evolution Slimming Ltd when you use this website.
 
