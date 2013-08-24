@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parentingbydummies.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205094933id_/http%3A//bit.ly/kGmqCw) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parentingbydummies.com privacy policy that was archived on 2013-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130824054112id_/http%3A//bit.ly/kGmqCw) for the most accurate reproduction.*
 
 # pBd privacy policy
 
