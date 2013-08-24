@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkemperor.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520222030id_/http%3A//www.linkemperor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkemperor.com privacy policy that was archived on 2013-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130824192700id_/http%3A//www.linkemperor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Link Emperor
 
