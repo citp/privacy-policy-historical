@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the imyanmarads.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622022654id_/http%3A//www.imyanmarads.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imyanmarads.com privacy policy that was archived on 2013-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130825164633id_/http%3A//www.imyanmarads.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy ::: iMyanmarAds.com - Brought to You by iMyanmar Co., Ltd.
+# Privacy Policy ::: iMyanmarAds.com - Brought to You by iMyanmar
 
 This Privacy Policy is effective as of 1st March 2013.
 
