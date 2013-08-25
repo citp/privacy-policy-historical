@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eduapex.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630001059id_/http%3A//eduapex.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eduapex.com privacy policy that was archived on 2013-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130826002757id_/http%3A//eduapex.com/privacy.asp) for the most accurate reproduction.*
 
 # Edu Apex
 
