@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the shnoop.com privacy policy that was archived on 2013-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130624135042id_/http%3A//www.shnoop.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shnoop.com privacy policy that was archived on 2013-08-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130825135047id_/https%3A//www.shnoop.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta property="og:image" content="http://www.shnoop.com/images/logo.png"> 
@@ -90,7 +90,7 @@ jQuery(document).ready(function(){
  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <link rel="SHORTCUT ICON" href="templates/default/images/logo.png">
 </head>
-<body><div style="text-align: center; display: block;" id="icon-loading">
+<body><div style="text-align: center; display: none;" id="icon-loading">
 	<img src="templates/default/images/loading.gif">
 </div>	
 <div id="top-content">
@@ -388,7 +388,7 @@ jQuery(document).ready(function(){
                 Remember me </div>
               <div class="popup_field">
                 <input type="image" name="Login" onclick="ValidateUserLogin()" class="btnlogin" src="templates/default/images/btn_login.png">
-                
+                <div style="float: right; width: 130px;"><a href="javascript:void(0);" onclick="fClick()"><img src="templates/default/images/fb-login.png"></a></div>
                 <a class="green" href="javascript:void(0);" onclick="closePop(); openPop_forgot();" style="font-size:15px;">Forgot password?</a>
                  </div>
               <div class="popup_field"> <a href="#"></a> </div>
@@ -436,7 +436,7 @@ jQuery(document).ready(function(){
         </div>
     </div>
 </div>
-	<form name="create_account" action="https://www.shnoop.com/create_account.php" method="post" onsubmit="return check_form(create_account);"><input type="hidden" name="action" value="process">	<div class="popuparea popup">
+		<div class="popuparea popup">
 		<div class="hidden_wraper_register"> <a class="popup_close_register"><img src="templates/default/images/popup_close.png" alt="Close"></a>
 			<div class="poup_body_wraper_register">
 				<div class="popup_head">
@@ -445,7 +445,8 @@ jQuery(document).ready(function(){
 				<div class="poup_body_register">
 					<div class="wrapper">
 						<div class="poup_left_wraper">
-							<h4 style="color:#EB8602;font-family:'TrebuchetMS';font-size:16px;padding-left:15px;">It only takes a moment to register.</h4>
+							<h4 style="color:#EB8602;font-family:'TrebuchetMS';font-size:16px;padding-left:15px;margin-top:1px;margin-bottom:5px;">It only takes a moment to register.</h4>
+							<div id="div_create_account_error"></div>
 							<div class="col3">
 								<label for="firstname">First Name: *</label>
 								<input name="firstname" id="firstname" type="text" value="" size="32"><br>
@@ -454,13 +455,23 @@ jQuery(document).ready(function(){
 								<label for="email_address">Email Address: *</label>
 								<input name="email_address" id="email_address" type="text" value="" size="32"><br>
 								<label>Password: *</label>
-								<input name="password" type="password" value="" size="32"><br>
+								<input id="user_password" name="password" type="password" value="" size="32"><br>
 								<label for="confirmation">Confirm Password: *</label>
 								<input name="confirmation" id="confirmation" type="password" value="" size="32"><br>
 								<label class="checkbox">
 																<input name="newsletter" id="newsletter" type="checkbox">
-								Subscribe to our newsletter: * </label><br>
-								<input name="submit" id="submit" type="image" src="templates/default/images/btn_submit.png" class="btnlogin">
+								Subscribe to our newsletter: * </label>
+								<br><br><br>
+								<script type="text/javascript" src="http://www.google.com/recaptcha/api/challenge?k=6LdcIeUSAAAAAMu5N4koWGv_cBOXnsjsbNhQe2rc"></script>
+
+	<noscript>
+  		<iframe src="http://www.google.com/recaptcha/api/noscript?k=6LdcIeUSAAAAAMu5N4koWGv_cBOXnsjsbNhQe2rc" height="300" width="500" frameborder="0"></iframe><br/>
+  		<textarea name="recaptcha_challenge_field" rows="3" cols="40"></textarea>
+  		<input type="hidden" name="recaptcha_response_field" value="manual_challenge"/>
+	</noscript>								<br>
+								<input name="submit" id="submit" type="image" src="templates/default/images/btn_submit.png" class="btnlogin" onclick="return validate_registration()">
+								<div style="float: right; width: 115px;"><a href="javascript:void(0);" onclick="fClick()"><img src="templates/default/images/fb-login.png"></a></div>
+								
 							</div>
 							<div class="col4" style="width:54%;padding:0;">
 								<a href="javascript:void(0);" onclick="closePop(); openPop();"><img src="templates/default/images/login.png" class="Login" alt="login"></a>
@@ -471,7 +482,7 @@ jQuery(document).ready(function(){
 			</div>
 		</div>
 		</div>
-	</form>
+	<!--/form-->
 <script type="text/javascript"><!--
 var form = "";
 var submitted = false;
