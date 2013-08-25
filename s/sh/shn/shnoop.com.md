@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shnoop.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624135042id_/http%3A//www.shnoop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shnoop.com privacy policy that was archived on 2013-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130825135047id_/https%3A//www.shnoop.com/privacy) for the most accurate reproduction.*
 
 # Shnoop.com : Privacy Policy
 
