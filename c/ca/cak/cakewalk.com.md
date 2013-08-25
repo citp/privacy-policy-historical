@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cakewalk.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615115510id_/http%3A//cakewalk.com/Privacy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cakewalk.com privacy policy that was archived on 2013-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130825140433id_/http%3A//www.cakewalk.com/Privacy/default.aspx) for the most accurate reproduction.*
 
 # Cakewalk Privacy Policy
 
