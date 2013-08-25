@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the terradotta.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423092511id_/http%3A//www.terradotta.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terradotta.com privacy policy that was archived on 2013-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130825022025id_/http%3A//www.terradotta.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Terra Dotta - Privacy Policy
+# Terra Dotta Privacy Policy
 
   
 
