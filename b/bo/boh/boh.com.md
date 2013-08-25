@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boh.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509103106id_/https%3A//www.boh.com/security/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boh.com privacy policy that was archived on 2013-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130825061640id_/https%3A//www.boh.com/security/privacy.asp) for the most accurate reproduction.*
 
 # Bank of Hawaii - Other - Bank of Hawaii - Online Privacy Policy
 
@@ -48,6 +48,6 @@ If you have any questions regarding this Privacy Policy or the practices of our 
 
 #### Children’s Privacy
 
-Our website is directed to a general audience. We do not knowingly solicit or collect personal information from children on our site.
+We do not use the website to knowingly solicit personal information from children under the age of thirteen (13) without parental consent. We request that such individuals not provide personal information through our site. For additional information regarding the Children's Online Privacy Protection Act (COPPA), please visit the [Federal Trade Commission website.](https://web.archive.org/linkout.asp?goto=http://www.ftc.gov/)
 
 ##### To view and print PDF files, please download the free [Adobe Acrobat Reader](https://web.archive.org/linkout.asp?goto=http://get.adobe.com/reader).
