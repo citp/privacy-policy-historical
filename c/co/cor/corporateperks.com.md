@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the corporateperks.com privacy policy that was archived on 2011-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110720025824id_/http%3A//www.corporateperks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corporateperks.com privacy policy that was archived on 2013-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130825184421id_/http%3A//www.corporateperks.com/privacy/index/usource/WWWCP) for the most accurate reproduction.*
 
 # Privacy Policy - Corporate Perks - Employee Discounts on Apparel, Travel, Electronics & more
 
 We are committed to protecting your privacy. At no time will we trade, sell, or distribute organization specific or personal information, including email addresses or other user IDs, to any individual, company, vendor or organization, in ways other than disclosed in this privacy statement. 
 
-This site is operated by Next Jump, Inc, a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site(s) affinityperks.com, corporateperks.com, yahoodeals.nextjump.com and private label sub-domains delivered by Next Jump Inc., (e.g. uk.affinityperks.com, etc.). Because Next Jump, Inc. wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-
-If you have questions or concerns regarding this statement, you should first contact Customer Service via the ['Contact Us'](https://www.corporateperks.com/feedback/index/uSource/PRIV) tool, leaving your comments, questions or concerns. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [http://watchdog.truste.com/pvr.php?page=complaint&url=](http://watchdog.truste.com/pvr.php?page=complaint&url=). TRUSTe will then serve as a liaison with us to resolve your concerns. 
+If you have questions or concerns regarding this statement, you should first contact Customer Service via the ['Contact Us'](https://www.corporateperks.com/feedback/index/uSource/PRIV) tool, leaving your comments, questions or concerns. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact the Better Business Bureau [http://www.BBB.org](http://www.bbb.org/). The Better Business Bureau will then serve as a liaison with us to resolve your concerns. 
 
 Next Jump, Inc. complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. 
 
@@ -27,10 +25,11 @@ Next Jump Inc. requires your first name, last name, and email address for the fo
 
 1\. To provide a point of contact for communicating correspondence, including your personal password, technical issues that may arise and periodic reminders that you may request (on an opt-in basis) as a Corporate Perks user.
 
-2\. To assign a name to your user id and password.   
-3\. To verify your affiliation with the organization using Next Jump, Inc. Corporate Perks 
+2\. To assign a name to your user id and password.
 
-4\. To provide the benefits/services associated with Corporate Perks 
+3\. To verify your affiliation with the organization using Next Jump, Inc. Corporate Perks. 
+
+4\. To provide the benefits/services associated with Corporate Perks. 
 
 Click-stream data can help determine the popularity of vendors, offers and site features with our audience, allowing us to develop a better site. An individual user's click-stream data is kept in the strictest confidence, and will never be distributed to any party outside of Next Jump, Inc. 
 
@@ -94,7 +93,8 @@ Next Jump, Inc. is committed to protecting your privacy. Next Jump, Inc. does no
 
 Next Jump, Inc. uses the information collected on the site to make shopping and promotional activities possible and to enhance your overall experience with Corporate Perks. 
 
-Please contact [Customer Service](https://www.corporateperks.com/feedback/index/uSource/PRIV) for any questions or comments.   
+Please contact [Customer Service](https://www.corporateperks.com/feedback/index/uSource/PRIV) for any questions or comments. 
+
 ATTN: Customer Service Department  
 Next Jump Inc.   
 261 5th Avenue 8th Floor  
