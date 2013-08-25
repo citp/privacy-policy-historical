@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eatability.com.au privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518054754id_/http%3A//www.eatability.com.au/au/public/about_us/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eatability.com.au privacy policy that was archived on 2013-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130825110227id_/http%3A//www.eatability.com.au/au/public/about_us/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
