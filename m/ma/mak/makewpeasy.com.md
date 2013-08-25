@@ -1,69 +1,96 @@
-> *The following text is extracted and transformed from the makewpeasy.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618111955id_/http%3A//www.makewpeasy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makewpeasy.com privacy policy that was archived on 2013-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130825031615id_/http%3A//digitalmarketer.com/more-info/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | | Digital Marketer
 
-Privacy Policy
+Privacy Policy  DigitalMarketer.com
 
-MWP Enterprises Privacy Policy
+(Last Updated: April 16, 2011)
 
-****  
-This privacy notice discloses the privacy practices for MWP Enterprises.  This privacy notice applies solely to information collected by this website. It will notify you of the following:****
+DigitalMarketer.com is serious about protecting your online privacy. This Privacy Statement explains our views and practices concerning privacy, and how they may pertain to you as a user of our website.
 
-  1. What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.
-  2. What choices are available to you regarding the use of your data.
-  3. The security procedures in place to protect the misuse of your information.
-  4. How you can correct any inaccuracies in the information.
+You or Your means you as a participant in or as a user of the DigitalMarketer .com website. We or Our or Us means DigitalMarketer.com. Our site means DigitalMarketer.com.
 
+All information transmitted, printed or otherwise submitted to DigitalMarketer.com via this website shall be deemed to be the property of DigitalMarketer.com and DigitalMarketer.com shall be free to use such information for any lawful purpose as detailed herein.
 
+This site contains links to other sites and we are not responsible for the privacy practices or the content of such sites.
 
-****  
-Information Collection, Use, and Sharing  
-We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.****
+We reserve the right to release such information to law enforcement or other governmental officials as we, in our sole and absolute discretion, deem necessary to comply with the law.
 
- ** **
+**Section 1: Collected Information**  
+We automatically collect and/or track the following:
 
-We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third-party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order.
-
-Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.
-
-****
-
-****Your Access to and Control Over Information  
-You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address given on our website:  
-****
-
-  * See what data we have about you, if any.
-  * Change/correct any data we have about you.
-  * Have us delete any data we have about you.
-  * Express any concern you have about our use of your data.
+  1. Web page http headers (home server domain names, IP address, type of client computer, and type of Web browser);
+  2. information knowingly provided by you through on-line forms, registration forms, surveys, and/or other entries, such as email addresses, personal, financial or demographic information;
+  3. information, user specific or aggregate, on what pages our visitors access; and
+  4. E-mail addresses of visitors that communicate with DigitalMarketer.com via e-mail.
 
 
 
-**  
-Security  
-We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline.**
+**Section 2: Use of Data Collected**  
+We use your personal, demographic and profile data to enhance your experience at our site and to enable us to present content we think you might be interested in. We use your contact information to send you information about our company and promotional material from our partners. We may also use your personal, demographic and profile data to improve our site, for statistical analysis, for marketing and promotional purposes, and for editorial or feedback purposes for our advertisers. Information collected by us may be added to our databases and used for future telemarketing, SMS text-messaging, e-mails or postal mailings regarding site updates, new products and services, upcoming events, and/or status of orders placed online. By using this site, you agree that you may be contacted in any manner contemplated in this section even if your number is found on a do not call registry, in-house list or similar registry.
 
- **
+**Section 3: Disclosure of Data to Third Parties**  
+If you choose to provide personal information, it will be used for the following purposes:
 
-Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for “https” at the beginning of the address of the web page.
+  1. considering you for a DigitalMarketer.com product;
+  2. as required by law; and
+  3. for marketing products and services which we determine, in our sole judgment, that you might find of interest. We reserve the right to share, rent, sell, or otherwise disclose data we collect to third parties. Any third party we share, rent, sell, or otherwise disclose data to will be prescreened by us, determined by us to be reputable, and will use the personal data for marketing products and services which we determine, in our sole judgment, that you might find of interest.
 
-While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
 
-Registration  
-In order to use the membership portion of this website, a user must first complete the registration form. During registration a user is required to give certain information (such as name and email address). This information is used to contact you about the products/services on our site in which you have expressed interest. At your option, you may also provide demographic information (such as gender or age) about yourself, but it is not required.
 
-Orders  
-We request information from you on our order form. To buy from us, you must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill your orders. If we have trouble processing an order, we’ll use this information to contact you.
+**Section 4: Your Opt-Out Rights**  
+You may opt-out of receiving communications from us and/or our partners by not submitting your information. We also allow you to remove your information from our marketing lists. If you remove your information from our marketing lists it will no longer be used by us to send promotional correspondence to you. You can remove your information from our marketing lists by clicking on the Unsubscribe link at the bottom of every email we send you, or by sending your request, in writing, via email to: supportATdrivingtrafficDOTcom (Please replace AT with @ and DOT with .)
 
-Cookies  
-We use “cookies” on this site. A cookie is a piece of data stored on a site visitor’s hard drive to help us improve your access to our site and identify repeat visitors to our site. For instance, when we use a cookie to identify you, you would not have to log in a password more than once, thereby saving time while on our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. Usage of a cookie is in no way linked to any personally identifiable information on our site.  Some of our business partners may use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies.
+**Section 5: We Do Not Intend to Collect Data from Children**  
+The information and services provided to us or our affiliates, sponsors, and advertisers are not intended to be viewed by children (under 18 years old). No information collected from children is knowingly used for any marketing or promotional purposes whatsoever, either inside or outside DigitalMarketer.com. No part of DigitalMarketer.coms web site is structured to attract anyone under the age of 18.
 
-Links  
-This website contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.
+**Section 6: Our Right to Contact You**  
+We reserve the right to contact you regarding your account status and changes to subscriber agreements, privacy policy, or any other policies or agreements relevant to you.
 
-Surveys & Contests  
-From time-to-time our site requests information via surveys or contests. Participation in these surveys or contests is completely voluntary and you may choose whether or not to participate and therefore disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
+**Section 7: Our Right to Change**  
+We reserve the right to change this policy at any time by notifying you of the existence and location of the new or revised privacy policy or by posting the changes online at our site.
 
-If you feel that we are not abiding by this privacy policy, you should contact us immediately.
+**Section 8: Our Contact Information**  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact us via email sent to: supportATdrivingtrafficDOTcom (Please replace AT with @ and DOT with .)
 
-**
+**Section 9:   Anti Spam Policy. Can-Spam Act Compliance**
+
+DigitalMarketer.com is dedicated to ensuring compliance with the Can-Spam Act, which took effect January 1, 2004. You may receive email from DigitalMarketer.com in the following circumstances:
+
+  1. Acknowledging your application has been received and requesting additional action
+  2. Requests for additional information to support your current application
+  3. Response to your inquiries regarding the status of your transactional requests
+  4. Thanking you for your valued business
+  5. Advertisements for our products, services, changes in services, new product availability
+  6. Advertisements for third party products and services where we have determined that such product or service may be of interest to our customers
+
+
+
+To ensure compliance with the Can-Spam Act, DigitalMarketer.com has implemented the following guidelines for email delivery:
+
+  1. All emails sent to you by DigitalMarketer.com will clearly identify DigitalMarketer.com as the sender. FROM / SENDER: someone@DigitalMarketer.com or someone@drivingtraffic.com (NOTE: The actual sender will alter from department to department, but all from addresses will end with @DigitalMarketer.com or @DrivingTraffic.com).
+  2. The Subject Line of any email you receive will always accurately describe the subject matter of the email.
+  3. Any email from DigitalMarketer.com will include the ability to unsubscribe from future email messages.
+  4. Unsubscribing will ensure the customer is removed from ALL lists at DigitalMarketer.com; this excludes customer service emails regarding the processing and status of a current product.
+  5. All emails sent to you directly by DigitalMarketer.com include valid postal address information in the footer.
+  6. All third party marketing partners are required to comply with the Can-Spam Act.
+  7. Emails sent to you directly by DigitalMarketer.com will include an email address and physical address where you can send suggestions, complaints or other correspondence.
+
+
+
+**Section 10: Information for ISPs**  
+Web site: DigitalMarketer.com  
+Email Address: supportATdrivingtrafficDOTcom  
+(Please replace AT with @ and DOT with .)
+
+DigitalMarketer.com understands consumers concerns over the use of their personal information. We hope this information will relieve any concerns your company may have regarding our email policies.DigitalMarketer.com and its affiliated sites use only an opt-in or opt out method of obtaining customer information, and it is not our policy or desire to send unsolicited email. We obtain email addresses and personal information from third parties that follow the same set of policies. DigitalMarketer.com email messages sent always include information about the origin of the emails and instructions on how recipients can unsubscribe from receiving future email messages.
+
+From time to time, DigitalMarketer.com will enter into an arrangement with a third party website to allow individuals to opt into our marketing program on those third party websites. In each case the third party websites have represented and warranted to us, among other things,
+
+  1. that the data was collected voluntarily from individuals on website registrations and co-registrations,
+  2. that the sellers have a right, under any applicable privacy statements, to transfer the data to us, and
+  3. that DigitalMarketer.com has the right to send marketing offers to the individuals.
+
+
+
+We hope this information satisfies any questions or concerns you may have regarding the email practices of DigitalMarketer.com. If you have additional questions or wish to discuss this matter further, please contact us at: supportATdrivingtrafficDOTcom (Please replace AT with @ and DOT with .)
