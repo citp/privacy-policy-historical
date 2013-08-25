@@ -1,29 +1,77 @@
-> *The following text is extracted and transformed from the sunwarrior.com privacy policy that was archived on 2012-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120405154556id_/http%3A//www.sunwarrior.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunwarrior.com privacy policy that was archived on 2013-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130825172434id_/http%3A//www.sunwarrior.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Best Vegan Protein Powders – Buy Plant-Based Supplements | Sunwarrior | | Privacy Policy
 
-**YOUR PRIVACY IS OUR PROMISE**   
-This privacy statement discloses the privacy practices for **Sunwarrior**. 
+**Sunwarrior Privacy Policy**
 
-**Information Collection and Use**
+Like you, we hate spammers and having our information sold out from under us to the mystery companies out there who feel a need to know what we ate for breakfast and if we like a certain color of yoga pants. Sunwarrior takes your privacy seriously and protects any information you give us.
 
-**Sunwarrior** is the sole owner of the information collected on this site. We will not sell, share or rent this information to others in ways different from what is disclosed in this statement. 
+If we ask you to provide certain information while on our website, you can be assured that it will only be used in accordance with this privacy statement.
 
-**Log Files**    
-We use IP addresses to administer the site, track page views and the click-through activity of links, and gather broad information for internal use. IP addresses are not linked to personally identifiable information. 
+**What we collect**
 
-**Links**    
-This Web site contains links to other sites. Please be aware that **Sunwarrior** is not responsible for the privacy practices of these other sites. We encourage Web users to always read the privacy statement of any site that collects personally identifiable information. This privacy statement applies solely to information collected by the **Sunwarrior** Web sites. 
+We may collect the following information:
 
-**Security**  
-Our Web sites are designed with numerous precautions to protect users' information. Customer information is appropriately protected in-house as well as online. 
+  * Name and job title
+  * Contact information including email address
+  * Demographic information such as fitness goals, preferences, and interests
+  * Other information relevant to customer surveys and/or offers
 
-Sensitive information (such as a credit card account number) is protected by Secure Socket Layer encryption. While on a secure page, such as an order form, the lock icon at the bottom of a Web becomes locked, rather than open (or unlocked) as when the user is simply "surfing" the Web. 
 
-In addition, access to users' information is restricted within our offices. Only employees who need the information to perform a specific job are granted access to personally identifiable information. All employees are kept up-to-date on our security and privacy practices. Finally, the servers on which we store personally identifiable information are kept in a secure environment. 
 
-Sensitive information (such as a credit card account number) is protected by Secure Socket Layer encryption. While on a secure page, such as an order form, the lock icon at the bottom of a Web becomes locked, rather than open (or unlocked) as when the user is simply "surfing" the Web 
+**What we do with the information we gather**
 
-For questions about our privacy policy, send an email to 
+We only collect information that you provide to us while filling out forms or purchasing our products. We then use this information to understand your needs and provide you with better service, in particular for the following reasons:
 
-[__](mailto:%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy47106%20=%20'support'%20+%20'@';%20addy47106%20=%20addy47106%20+%20'sunwarrior'%20+%20'.'%20+%20'com';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20':'%20+%20addy47106%20+%20'\\'%3E'%20\);%20document.write\(%20addy47106%20\);%20document.write\(%20'%3C\\/a%3E'%20\);%20//--%3E\\n%20%3C/script%3E%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3Cspan%20style=\\'display:%20none;\\'%3E'%20\);%20//--%3E%20%3C/script%3EThis%20e-mail%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3C/'%20\);%20document.write\(%20'span%3E'%20\);%20//--%3E%20%3C/script%3E)_[support@sunwarrior.com](mailto:support@sunwarrior.com) _
+  * Internal record keeping
+  * To improve our products and services.
+  * To periodically send promotional emails about new products, special offers, or other information which we think you may find interesting using the email address which you have provided
+  * To customize the website according to your interests
+  * We will never sell your information
+
+
+
+**Security**
+
+Sunwarrior is committed to ensuring that your information is secure. We do not share it with or sell it to anyone else. In order to prevent unauthorized access or disclosure, **** we have put in place suitable physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+
+**Orders  **
+
+We request information from you on our order form. To buy from us, you must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fulfill your orders. If we have trouble processing an order, we’ll use this information to contact you.
+
+**How we use cookies**
+
+A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes, and dislikes by gathering and remembering information about your preferences.
+
+We use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+
+**Links to other websites**
+
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over any other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+**Consent**
+
+By using our site you consent to our privacy policy
+
+**Controlling your personal information**
+
+You may choose to restrict the collection or use of your personal information in the following ways:
+
+  * By not filling out forms on the website
+  * By not filling out non-mandatory information in the completion of forms
+  * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [support@sunwarrior.com](mailto:support@sunwarrior.com)
+
+
+
+We will not sell, distribute, or lease your personal information to third parties. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to:
+
+754 West Pioneer Blvd Suite 101  
+Mesquite, NV 89027
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible at the above addresses. We will promptly correct any information found to be incorrect.
