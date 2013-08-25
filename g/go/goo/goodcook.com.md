@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodcook.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502203656id_/https%3A//www.goodcook.com/privacy_policy-d.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodcook.com privacy policy that was archived on 2013-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130825125612id_/https%3A//www.goodcook.com/privacy_policy-d.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
