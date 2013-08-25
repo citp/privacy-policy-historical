@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fixunix.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630023152id_/http%3A//fixunix.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fixunix.com privacy policy that was archived on 2013-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130825151545id_/http%3A//fixunix.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
