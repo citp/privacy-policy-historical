@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seamless.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523205416id_/http%3A//www.seamless.com/business/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seamless.com privacy policy that was archived on 2013-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130825182908id_/http%3A//www.seamless.com/business/privacy.html) for the most accurate reproduction.*
 
 # Seamless : Privacy Policy
 
@@ -8,7 +8,7 @@ We, Seamless North America, LLC (" **Seamless** "), are concerned about privacy 
 
 By using the Site, you agree to the terms and conditions of this Privacy Policy. If you do not agree to the terms and conditions of this Privacy Policy, please do not use the Site. We reserve the right to change this Privacy Policy without prior notice. You can determine when this Privacy Policy was last revised by referring to the "LAST UPDATED" legend at the top of this page. Any changes to our Privacy Policy will become effective upon our posting of the revised Privacy Policy on the Site. Use of the Site following such changes constitutes your acceptance of the revised Privacy Policy then in effect.
 
-For individuals in the UK, you should be aware that we abide by the Safe Harbor framework agreed to by the U.S. Department of Commerce and the European Union (EU) with respect to Personally Identifiable Information collected by Seamless Europe, Limited and transferred to us in the United States. Please review our [Safe Harbor Privacy Policy](https://web.archive.org/web/20130523205416id_/http%3A//www.seamless.com/business/privacySafeHarbor.html) for further information.
+For individuals in the UK, you should be aware that we abide by the Safe Harbor framework agreed to by the U.S. Department of Commerce and the European Union (EU) with respect to Personally Identifiable Information collected by Seamless Europe, Limited and transferred to us in the United States. Please review our [Safe Harbor Privacy Policy](https://web.archive.org/web/20130825182908id_/http%3A//www.seamless.com/business/privacySafeHarbor.html) for further information.
 
 ## 1\. What Types of Information Do We Collect From You?
 
