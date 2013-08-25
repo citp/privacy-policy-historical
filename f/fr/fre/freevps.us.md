@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freevps.us privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430085749id_/http%3A//freevps.us/page-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freevps.us privacy policy that was archived on 2013-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130825181837id_/http%3A//freevps.us/page-privacy.html) for the most accurate reproduction.*
 
 # 
 
