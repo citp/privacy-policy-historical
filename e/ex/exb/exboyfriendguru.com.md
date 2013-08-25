@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exboyfriendguru.com privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612164001id_/http%3A//exboyfriendguru.com/vsp/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exboyfriendguru.com privacy policy that was archived on 2013-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130825235151id_/http%3A//exboyfriendguru.com/vsp/privacy.html) for the most accurate reproduction.*
 
 # Ex Boyfriend Guru > Privacy Policy
 
