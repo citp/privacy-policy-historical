@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the ckfinder.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503002153id_/http%3A//cksource.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ckfinder.com privacy policy that was archived on 2013-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130825050158id_/http%3A//cksource.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | CKSource.com
 
-**Your Privacy**
+### Your Privacy
 
 We are committed to respecting your Privacy. We recognize that when you choose to provide us with information about yourself, you trust us to act in a responsible manner. That's why we have put a policy in place to protect your personal information. Please read on for more details about our Privacy practices.
 
-**What information does CKSource collect? How do we use it?**
+### What information does CKSource collect? How do we use it?
 
 At times we may request that you voluntarily supply us with personal information. Generally this information is requested when you register for an online service or when you provide information in connection with an online transaction.
 
@@ -19,21 +19,21 @@ At times we may request that you voluntarily supply us with personal information
 
 CKSource will use your personal details and information we obtain from other sources to provide you with our goods and services, for administration and customer services purposes, for marketing, to analyze your purchasing preferences and to ensure that the content, services and advertising that we offer are tailored to your needs and interests. We may keep your information for a reasonable period for these purposes. We may need to share your information with our service providers and agents for these purposes, some of whom may be in countries outside Europe, e.g., the USA. If we do so, we will, if appropriate, put a contract in place to ensure that your information is protected. Because of the nature of the products and services we sell, we may have to disclose personal data in order to comply with a legal or regulatory obligation.
 
-We may also store information about you in cookies (files which are sent by us to your computer or other access device) which we can access when you visit our site in the future. If you want to delete any cookies that are already on your computer, please refer to the instructions of your file management software to locate the file or directory that stores cookies. If you want to stop cookies from being stored on your computer in the future, please refer to your browser manufacturer's instructions by clicking "Help" in your browser menu. Further information on deleting or controlling cookies is available at [www.AboutCookies.org](http://www.aboutcookies.org/ "www.AboutCookies.org"). Please note that by deleting our cookies or disabling future cookies you may not be able to access certain areas or features of our site.
+We may also store information about you in cookies (files which are sent by us to your computer or other access device) which we can access when you visit our site in the future. If you want to delete any cookies that are already on your computer, please refer to the instructions of your file management software to locate the file or directory that stores cookies. If you want to stop cookies from being stored on your computer in the future, please refer to your browser manufacturer's instructions by clicking "Help" in your browser menu. Further information on deleting or controlling cookies is available at [www.AboutCookies.org](http://www.aboutcookies.org/). Please note that by deleting our cookies or disabling future cookies you may not be able to access certain areas or features of our site.
 
 Unless specified in this document, we may never share your information with others for any purposes, except when required by law. By providing us with your fax number, telephone numbers or email address you consent to being contacted by us with information related to the specific task associated with actions you make in the Website, like completing a purchase, for example.
 
-**How does CKSource protect consumer information?**
+### How does CKSource protect consumer information?
 
 When you place orders, we offer the use of a secure server. The secure server software (SSL) encrypts all information you input before it is sent to us. Furthermore, we take steps to protect the customer data we collect from unauthorized access, disclosure, alteration, or destruction.
 
-**Passwords**
+### Passwords
 
 In order to bring you more personalized services, we may ask you to establish one or more passwords to gain access to certain services or sections in either the CKSource Website(s) or the Website(s) of other suppliers whose products or services are available to you via a link from our Website(s). As such, CKSource may share the password information you provide us with other authorized suppliers. You are solely responsible for the control and use of each password you create.
 
 CKSource may store and disclose personal information as allowed or required by applicable law, including making disclosures that are necessary or advisable to: (a) protect the rights, safety or property of users of our Website, the public, or CKSource or our Website suppliers; and (b) conform to legal or regulatory requirements.
 
-**Your Consent**
+### Your Consent
 
 Because CKSource and its Websites operate globally, we make information we gather available to our worldwide business units and affiliates. For those of you visiting us from the European Union, please note that the personal data you enter will be transferred outside the European Union for use by CKSource for any of the purposes described above. By using our Website and providing us with your personal data, you consent to this transfer of personal data.
 
