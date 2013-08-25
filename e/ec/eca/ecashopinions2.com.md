@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecashopinions2.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606073309id_/http%3A//www.ecashopinions2.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecashopinions2.com privacy policy that was archived on 2013-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130825211047id_/http%3A//www.ecashopinions2.com/privacy.html) for the most accurate reproduction.*
 
 # eCashOpinions.com - Get Paid To Take Surveys! Paid surveys, cash surveys, paid for your opinion, online focus groups, and more!
 
