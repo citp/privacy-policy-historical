@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onlineprogrammingbooks.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118205744id_/http%3A//www.onlineprogrammingbooks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineprogrammingbooks.com privacy policy that was archived on 2013-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130825020325id_/http%3A//www.onlineprogrammingbooks.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | OnlineProgrammingBooks.com
+# Privacy policy - Download Free Books
 
 ## Privacy policy
 
