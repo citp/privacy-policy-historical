@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hellobar.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501150249id_/http%3A//www.hellobar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellobar.com privacy policy that was archived on 2013-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130826114510id_/http%3A//www.hellobar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Hello Bar
 
