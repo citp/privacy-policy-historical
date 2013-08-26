@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecommercegoldmine.com privacy policy that was archived on 2012-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120104213958id_/http%3A//ecommercegoldmine.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecommercegoldmine.com privacy policy that was archived on 2013-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130826111941id_/http%3A//www.ecommercegoldmine.com/privacy.html) for the most accurate reproduction.*
 
 # Ecommerce Goldmine - Privacy Policy
 
