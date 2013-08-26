@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whackit.co privacy policy that was archived on 2013-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130121080722id_/http%3A//www.whackit.co/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whackit.co privacy policy that was archived on 2013-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130826091416id_/http%3A//www.whackit.co/privacy-policy.html) for the most accurate reproduction.*
 
 # Kill Your Boss Ways: Privacy Policy
 
