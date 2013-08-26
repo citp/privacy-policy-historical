@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filesfrog.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625151307id_/http%3A//www.filesfrog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filesfrog.com privacy policy that was archived on 2013-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130827015118id_/http%3A//www.filesfrog.com/privacy) for the most accurate reproduction.*
 
 # Software and Driver Updates - FilesFrog.com
 
