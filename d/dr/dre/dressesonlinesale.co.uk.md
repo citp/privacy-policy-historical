@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dressesonlinesale.co.uk privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511134536id_/http%3A//www.dressesonlinesale.co.uk/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dressesonlinesale.co.uk privacy policy that was archived on 2013-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130826122641id_/http%3A//www.dressesonlinesale.co.uk/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
