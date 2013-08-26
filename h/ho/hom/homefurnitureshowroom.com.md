@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homefurnitureshowroom.com privacy policy that was archived on 2013-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130206014627id_/http%3A//www.homefurnitureshowroom.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homefurnitureshowroom.com privacy policy that was archived on 2013-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130826225457id_/http%3A//www.homefurnitureshowroom.com/about/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Home Furniture Showroom
 
