@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aussiepages.com.au privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601032310id_/http%3A//aussiepages.com.au/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aussiepages.com.au privacy policy that was archived on 2013-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130826025930id_/http%3A//www.aussiepages.com.au/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Classifieds Directory Australia | Business Directory Listings Australia
 
@@ -106,11 +106,19 @@ We regularly monitor the quality and accuracy of Personal Information that we ma
   
 | 
 
-[**Web Science**](http://www.aussiepages.com.au/Web-Science.html)  
-Web Science is a highly skilled provider of all things related to websites and the internet. We create beautiful and highly functional professional websites for any business or niche and we are located close to Parramatta.  
+[**Color On Demand**](http://www.aussiepages.com.au/Color-On-Demand.html)  
+Booklets | Unley | Color On Demand  
   
   
 ---  
+  
+[**Celebration Homes South West**](http://www.aussiepages.com.au/Celebration-Homes-South-West.html)  
+Celebration Homes is your local builder in the South West. Featuring over 35 modern home designs as well as a great range of house and land packages, you are sure to find exactly what you wish.  
+  
+  
+[**Web Science**](http://www.aussiepages.com.au/Web-Science.html)  
+Web Science is a highly skilled provider of all things related to websites and the internet. We create beautiful and highly functional professional websites for any business or niche and we are located close to Parramatta.  
+  
   
 [**Classic Elegance Photography**](http://www.aussiepages.com.au/Classic-Elegance-Photography.html)  
 With more than 12yrs experience in the wedding industry, Classic Elegance create beautiful images of your wedding day with a personal touch, flexible options and affordable packages starting at $1495.  
@@ -138,14 +146,6 @@ Welcome to PartyShuttle.com.au 04500 600 55 Delivering You The Safe Way in our 1
   
 [**Happy Life Balance Business Opportunity - Work From Home**](http://www.aussiepages.com.au/Happy-Life-Balance-Business-Opportunity---Work-From-Home.html)  
 Lucrative Online Home Business promoting Award Winning and Accredited Personal Leadership Development products for Success Education.  
-  
-  
-[**Happy Wheels Bicycle Service Centre (Best in Service)**](http://www.aussiepages.com.au/Happy-Wheels-Bicycle-Service-Centre--28Best-in-Service-29.html)  
-Best bike servicing shop in Sydney, New South Wales (NSW). Repair, parts, tools, custom builds, bike accessories, bike wheels, & other cycling needs in the Eastern Suburbs & Inner City  
-  
-  
-[**Rhinoplasty in Melbourne at Advance Beauty Cosmetic Surgery**](http://www.aussiepages.com.au/Rhinoplasty-in-Melbourne-at-Advance-Beauty-Cosmetic-Surgery.html)  
-Avail the low average rhinoplasty cost in Melbourne at Advance Beauty Cosmetic Surgery. The clinic is headed by Dr Ahnsup Kim, a Korean cosmetic surgeon in Australia for 10 years.  
   
   
    
