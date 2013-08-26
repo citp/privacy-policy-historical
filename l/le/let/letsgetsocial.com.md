@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the letsgetsocial.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115071020id_/http%3A//letsgetsocial.com/video/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letsgetsocial.com privacy policy that was archived on 2013-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130826164154id_/http%3A//letsgetsocial.com/video/privacy-policy) for the most accurate reproduction.*
 
 # Let's Get Social - Privacy Policy | Let's Get Social
 
