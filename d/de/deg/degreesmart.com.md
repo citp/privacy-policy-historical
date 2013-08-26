@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the degreesmart.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601031029id_/http%3A//degreesmart.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the degreesmart.com privacy policy that was archived on 2013-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130826020851id_/http%3A//degreesmart.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Degree Smart
 
