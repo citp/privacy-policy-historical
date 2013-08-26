@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nyp.st privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629093549id_/http%3A//www.nypost.com/p/static/privacy_policy_PlyzvkFUzwURLgq0xv11cN) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyp.st privacy policy that was archived on 2013-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130826202620id_/http%3A//www.nypost.com/p/static/privacy_policy_PlyzvkFUzwURLgq0xv11cN) for the most accurate reproduction.*
 
 # Privacy Policy - NYPOST.com
 
-_May 30, 2013_
+_June 28, 2013_
 
 1\. INTRODUCTION
 
