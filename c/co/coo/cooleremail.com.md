@@ -1,0 +1,27 @@
+> *The following text is extracted and transformed from the cooleremail.com privacy policy that was archived on 2013-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130826212809id_/http%3A//cooleremail.com/about-us/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy
+
+We are deeply committed to protecting your privacy and taking all reasonable steps to protect all data and information supplied to CoolerEmail.com. We protect your privacy in a variety of ways including using industry accepted security measures to protect against the loss, misuse and alteration of data used by our system.
+
+The CoolerEmail Privacy Policy is designed to ensure the safety and accuracy of Internet users’ personal information, whether gathered on this site or by our clients. We are in the e-mail business, and understand the importance of personal information security. We are absolutely committed to personal privacy on the Internet.
+
+We enable our clients to reach their customers with highly personalized communications narrowly tailored to their interests. Our technical and marketing efforts bring us into contact with millions and millions of consumers. Therefore, privacy is absolutely critical to the way we do business. To that end, we strive to only work with companies guarding any personal information they collect from their existing or potential customers. CoolerEmail is a permission-based marketing company and seeks to uphold the privacy, security and comfort level of everyone with whom we come in contact.
+
+CoolerEmail collects data from Internet users including non-personally identifiable information from its site’s visitors, IP address of their server and what pages they visited. We use this information to continuously improve our site’s functionality. CoolerEmail also collects personally identifiable information, including e-mail addresses, from those visitors who opt-in to receive some information from us, make inquiries or comments. We use this information to directly respond to visitors’ communications. If a customer joins an online marketing program with any of our clients, they typically submit some personally identifiable information to participate in this program. However, the type and amount of information collected varies, and each of our clients specifies what information is collected.
+
+CoolerEmail utilizes the industry’s leading data security solutions and has implemented policies and procedures to ensure the physical and electronic security of data stored by CoolerEmail. CoolerEmail employs permission-based marketing principles: it requires its clients to communicate only to users who affirmatively express an interest in receiving e-mails relevant to their interests in a particular company or product. Permission to receive e-mails may be granted and taken away; in other words customers may “opt-in” and “opt-out”. If a customer chooses to opt-out, the CoolerEmail client is required to stop sending messages to that customer. CoolerEmail puts a high value on a customers’ ability to discontinue receiving unwanted e-mail.
+
+CoolerEmail utilizes Cookie technology for purposes of web site traffic analysis such as the time/date of the visit, the time/date of last visit, the page viewed, the referrer, transaction information for eCommerce pages, and other data. CoolerEmail tracks click behavior in the e-mails it sends out. This data is used to update specific user-profile information, ascertain the areas of most interest to opt-in e-mail recipients, and to personalize e-mail messages to them.
+
+CoolerEmail does not sell, rent, loan, trade, or lease any personal information whether gathered by CoolerEmail itself or received from its clients. When CoolerEmail, on behalf of its clients, collects personally identifiable information from opt-in participants in those clients’ marketing programs, such information belongs to those respective clients and is subject to their policies on sharing of the end user information.
+
+CoolerEmail is a general audience site and is not directed to children under the age of 13. Whether for itself or for its clients, CoolerEmail will not knowingly collect or maintain personally identifiable information from or about anyone under 13. CoolerEmail will make the best effort to assist its clients in complying with privacy laws and adhering to the highest industry standards on privacy.
+
+If you have received unwanted, unsolicited email sent via our system or purporting to be sent via this system, please forward a copy of that email with your comments to [abuse@CoolerEmail.com](mailto:abuse@CoolerEmail.com) for review.
+
+If you would like to unsubscribe from ALL cooleremail lists, please visit our [Global Unsubscribe page](https://web.archive.org/resources/globally-unsubscribe/?phpMyAdmin=k1PZUVnM0pvrhDF7JRpG31Gscn7).
+
+We reserve the right to modify this policy at any time.
+
+This policy was last updated: January 1, 2005.
