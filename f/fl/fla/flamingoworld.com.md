@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flamingoworld.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502170041id_/http%3A//www.flamingoworld.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flamingoworld.com privacy policy that was archived on 2013-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130826020310id_/http%3A//www.flamingoworld.com/privacy) for the most accurate reproduction.*
 
 # The FlamingoWorld.com Privacy Policy
 
