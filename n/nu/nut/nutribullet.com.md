@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nutribullet.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604233254id_/http%3A//www.nutribullet.com/index.php%3Fr%3Dsite/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutribullet.com privacy policy that was archived on 2013-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130826154918id_/http%3A//www.nutribullet.com/site/privacy) for the most accurate reproduction.*
 
 # NutriBullet - Privacy Policy
 
