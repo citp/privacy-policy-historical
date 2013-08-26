@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloud66.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512040406id_/https%3A//www.cloud66.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloud66.com privacy policy that was archived on 2013-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130826025538id_/https%3A//www.cloud66.com/privacy) for the most accurate reproduction.*
 
 # Cloud 66 | Code to Cloud in 5 minutes
 
