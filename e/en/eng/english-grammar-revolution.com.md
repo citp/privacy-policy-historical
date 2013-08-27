@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the english-grammar-revolution.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524194229id_/http%3A//www.english-grammar-revolution.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the english-grammar-revolution.com privacy policy that was archived on 2013-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130827024713id_/http%3A//www.english-grammar-revolution.com/privacy-policy.html) for the most accurate reproduction.*
 
 # English Grammar Revolution: Privacy Policy and Disclaimer
 
@@ -80,7 +80,3 @@ We grant immediate permission to share pages on social media as the placement of
 * * *
 
 [Back to Home Page](http://www.english-grammar-revolution.com/)
-
-**Share this page:  **| | | |   
----|---|---|---|---  
-| | | 
