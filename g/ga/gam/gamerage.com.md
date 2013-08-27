@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamerage.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430040008id_/http%3A//gamerage.com/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamerage.com privacy policy that was archived on 2013-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130827212314id_/http%3A//gamerage.com/Home/PrivacyPolicy) for the most accurate reproduction.*
 
 # GameRage – Home of Free Online Games – Get Fired Up!
 
