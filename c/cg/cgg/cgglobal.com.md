@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cgglobal.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502175332id_/http%3A//www.cgglobal.com/frontend/crompton.aspx%3FId%3DfNSJW/UGgrI%3D%26amp%3Bpgm%3DISa594ohuB8%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cgglobal.com privacy policy that was archived on 2013-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130827230308id_/http%3A//cgglobal.com/frontend/crompton.aspx%3FId%3DfNSJW/UGgrI%3D%26amp%3Bpgm%3DISa594ohuB8%3D) for the most accurate reproduction.*
 
 # CG - Privacy Policy ( )
 
@@ -16,6 +16,6 @@ CG may update its Privacy Policies from time to time. When we do so, we will not
   1. [Global Employee Privacy Policy](https://web.archive.org/frontend/Crompton.aspx?Id=0C20XOaIQHA=)
   2. [Global Customer & Supplier Privacy Policy](https://web.archive.org/frontend/Crompton.aspx?Id=6OwoKbfbpag=)
   3. [CG Website Privacy Policy](https://web.archive.org/frontend/Crompton.aspx?Id=QS29f7IJVxA=)
-  4. [Data Request Form](http://cgglobal.com/enquiryform/data_Req_form.asp)
+  4. [Data Request Form](https://web.archive.org/enquiryform/data_Req_form.asp)
 
 
