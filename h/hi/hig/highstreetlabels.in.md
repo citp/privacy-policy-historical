@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the highstreetlabels.in privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626003022id_/http%3A//www.highstreetlabels.in/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highstreetlabels.in privacy policy that was archived on 2013-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130827164948id_/http%3A//www.highstreetlabels.in/Privacy.aspx) for the most accurate reproduction.*
 
 # 
 
-Highstreetlabels.com is committed to protecting the privacy of visitors to this site (the "Site"). This Privacy Policy applies to the Site. This Privacy Policy does not apply to other web sites to which we link. You agree that your use of the Site signifies your assent to this Privacy Policy. If you do not agree with this Privacy Policy, please do not use the Site.
+Highstreetlabels.in is committed to protecting the privacy of visitors to this site (the "Site"). This Privacy Policy applies to the Site. This Privacy Policy does not apply to other web sites to which we link. You agree that your use of the Site signifies your assent to this Privacy Policy. If you do not agree with this Privacy Policy, please do not use the Site.
 
 In order to access this site, you must first complete the registration process. During the registration process, we collect personal information such as your name and email address. Once you complete and submit your registration, you have opted in to receive email communication from us. You can choose to opt out of marketing communication sent by the site.
 
@@ -12,4 +12,4 @@ In addition, through the Site, we automatically gather certain information about
 
 The Site also makes use of a technology designed to enhance your browsing experience and to provide aggregate non-personally identifiable information about the use of the Site to us.
 
-If you choose to invite an individual to join Highstreetlabels.com, you will need to provide his/her name and email address. Highstreetlabels.com stores this information to confirm qualifying orders attributable to your account and to track the results of the invitation referrals.
+If you choose to invite an individual to join Highstreetlabels.in, you will need to provide his/her name and email address. Highstreetlabels.in stores this information to confirm qualifying orders attributable to your account and to track the results of the invitation referrals.
