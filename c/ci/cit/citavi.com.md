@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citavi.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618065850id_/http%3A//www.citavi.com/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citavi.com privacy policy that was archived on 2013-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130827161853id_/http%3A//www.citavi.com/en/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Citavi Swiss Academic Software
 
