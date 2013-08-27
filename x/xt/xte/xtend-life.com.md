@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xtend-life.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606081832id_/http%3A//www.xtend-life.com/About/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtend-life.com privacy policy that was archived on 2013-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130828011419id_/http%3A//www.xtend-life.com/About/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy for Xtend-Life Natural Products website
 
