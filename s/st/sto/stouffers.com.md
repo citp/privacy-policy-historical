@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stouffers.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511143614id_/http%3A//www.stouffers.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stouffers.com privacy policy that was archived on 2013-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130827092949id_/http%3A//www.stouffers.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Stouffer's®
 
