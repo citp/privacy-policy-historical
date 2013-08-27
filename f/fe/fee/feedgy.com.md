@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feedgy.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611065415id_/http%3A//feedgy.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feedgy.com privacy policy that was archived on 2013-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130827083838id_/http%3A//feedgy.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Feedgy - Privacy Policy
 
