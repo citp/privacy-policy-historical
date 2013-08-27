@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crazytje.be privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430100230id_/http%3A//crazytje.be/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazytje.be privacy policy that was archived on 2013-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130827093711id_/http%3A//crazytje.be/privacy) for the most accurate reproduction.*
 
 # Crazy's Manga
 
