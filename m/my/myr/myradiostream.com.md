@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myradiostream.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610202928id_/http%3A//myradiostream.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myradiostream.com privacy policy that was archived on 2013-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130827214723id_/http%3A//myradiostream.com/pages/privacy.php) for the most accurate reproduction.*
 
 # MyRadioStream - Privacy and Cookies
 
