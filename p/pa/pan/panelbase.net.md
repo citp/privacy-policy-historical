@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panelbase.net privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116020414id_/https%3A//www.panelbase.net/terms/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panelbase.net privacy policy that was archived on 2013-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130827164708id_/https%3A//www.panelbase.net/terms/Privacy.aspx) for the most accurate reproduction.*
 
 # panelbase.net - Privacy Statement
 
