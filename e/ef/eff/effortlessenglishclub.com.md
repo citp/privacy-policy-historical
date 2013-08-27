@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the effortlessenglishclub.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620145846id_/http%3A//effortlessenglishclub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the effortlessenglishclub.com privacy policy that was archived on 2013-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130827103734id_/http%3A//effortlessenglishclub.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Learn to Speak English Powerfully With Effortless English
 
