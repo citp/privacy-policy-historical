@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the contestdomination.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629061856id_/http%3A//contestdomination.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contestdomination.com privacy policy that was archived on 2013-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130827155746id_/http%3A//contestdomination.com/privacy) for the most accurate reproduction.*
 
 # Contest Domination | Reward Influence & Generate Leads
 
-## Privacy & Policy
+## Privacy Policy
 
 **What information do we collect?**
 
