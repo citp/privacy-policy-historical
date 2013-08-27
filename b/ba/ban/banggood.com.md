@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the banggood.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623054338id_/http%3A//www.banggood.com/Security-And-Privacy_hl34) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the banggood.com privacy policy that was archived on 2013-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130827205937id_/http%3A//www.banggood.com/Security-And-Privacy_hl34) for the most accurate reproduction.*
 
 # Security & Privacy - Help Center - Banggood.com
 
@@ -59,12 +59,12 @@ If you no longer want to receive our newsletter, you can click the unsubscribe l
 
 ## Questions or Concerns
 
-Questions regarding our Privacy Policy, or other policy related material can be directed to our support staff by clicking on the "Contact Us" link in the side menu. Or through the following methods:  
+Questions regarding our Privacy Policy, or other policy related material can be directed to our support staff by clicking on the \"Contact Us\" link in the side menu. Or through the following methods:  
  **Tel** : (+0852)-35903678     
-**Email** : [cservice@banggood.com.](mailto:cservice@banggood.com)  
+**Email** : [cservice@banggood.com.](https://web.archive.org/)  
 Contact Address:  
 15/F ,RADIO CITY,  
 505 HENNESSY RD,  
 CAUSEWAY BAY,  
 HK  
-0852-35903678(Office time: 8:00pm to 4:00am)
+0852-35903678(Office time: 9:00am to 6:00pm GMT + 08:00)
