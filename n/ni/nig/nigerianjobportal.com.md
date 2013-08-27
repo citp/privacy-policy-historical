@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the nigerianjobportal.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626081402id_/http%3A//www.nigerianjobportal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nigerianjobportal.com privacy policy that was archived on 2013-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130827034730id_/http%3A//www.nigerianjobportal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-### Privacy Policy
 
 **Privacy Policy for www.nigerianjobportal.com**
 
@@ -41,5 +39,3 @@ nigerianjobportal.com’s privacy policy does not apply to, and we cannot contro
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ **** respective websites. ****
 
 Privacy Policy Provided by Nigerian Job Portal.
-
-Copyright © 2013 Nigerian Job Portal.
