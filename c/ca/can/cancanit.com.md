@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cancanit.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606004218id_/http%3A//cancanit.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cancanit.com privacy policy that was archived on 2013-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130827055734id_/http%3A//cancanit.com/policy) for the most accurate reproduction.*
 
 # Cancanit.com - Privacy Policy
 
