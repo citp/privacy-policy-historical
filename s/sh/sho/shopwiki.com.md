@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopwiki.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117061151id_/http%3A//www.shopwiki.com/w/Help%253APrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopwiki.com privacy policy that was archived on 2013-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130827035311id_/http%3A//www.shopwiki.com/w/Help%253APrivacy) for the most accurate reproduction.*
 
 # Privacy
 
