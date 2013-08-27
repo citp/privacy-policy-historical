@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eroticmp.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501210428id_/http%3A//www.eroticmp.com/PP.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eroticmp.com privacy policy that was archived on 2013-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130827161840id_/http%3A//www.eroticmp.com/PP.htm) for the most accurate reproduction.*
 
 # Privacy Policy for EroticMp.com
 
