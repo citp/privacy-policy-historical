@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the xsplit.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531043754id_/https%3A//www.xsplit.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xsplit.com privacy policy that was archived on 2013-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130827155723id_/http%3A//www.xsplit.com/privacy) for the most accurate reproduction.*
 
-# XSplit Privacy Policy
+# XSplit - Privacy Policy
 
-This policy describes the ways we collect, store, use and protect your personal information. You accept this Privacy Policy when you sign up for or use our products, services or any other features, technologies or functionalities offered by us on our website, application or through any other means (collectively the "XSplit Services"). We may amend this policy at any time by posting a revised version on our website. The revised version will be effective at the time we post it. In addition, if the revised version includes a substantial change, we will provide you with 30 days' prior notice by posting notice of the change on the "News" section of our [forum](http://www.xsplit.com/forum/).
-
-### How we collect information about you
+This policy describes the ways we collect, store, use and protect your personal information. You accept this Privacy Policy when you sign up for or use our products, services or any other features, technologies or functionalities offered by us on our website, application or through any other means (collectively the "XSplit Services"). We may amend this policy at any time by posting a revised version on our website. The revised version will be effective at the time we post it. In addition, if the revised version includes a substantial change, we will provide you with 30 days' prior notice by posting notice of the change on the "News" section of our [forum](https://web.archive.org/site/support).
 
 When you visit the Xsplit website or use the Xsplit Broadcaster application, we collect information sent to us by your computer, mobile phone or other access device. This information may include your IP address, device information including but not limited to identifier, name and type, operating system, location, and standard web log information, such as your browser type, traffic to and from our site and the pages you accessed on our website.
 
@@ -16,13 +14,9 @@ You may choose to provide us with access to certain personal information stored 
 
 Finally, we may collect additional information from or about you in other ways such as contacts with our customer support team or results when you respond to a survey and from interactions with members of the Splitmedialabs corporate family, and from other companies.
 
-### XSplitBroadcaster Usage and Feedback
-
 When you use XSplit Broadcaster or send us feedback we track your XSplit Broadcaster Version, Broadcasting settings, IP Address, MAC Address, Operating System and Version, Monitor Stats, Graphics Card, Video Controller, Processor, Audio Devices, Microphone settings, Speakers, USB Controllers, ExperienceIndex, Subscriptions, Source Types used in Stages of Stream, Channels, Start and End Time of Streams, Bandwidth settings and usage, Login and Logout information, and similar information and similar information. We use this information to track usage statistics as well as to be able to track and solve issues that you may have encountered when using the XSplit Broadcaster.
 
 We do NOT access any information from your computer related to software installed or any information which you may have stored in personal files. The information we track and store is purely related to your XSplit settings and your hardware, operating systems and driver configuration.
-
-### Cookies
 
 When you access our website or content or use our application or the PayPal Services, we or companies we work with, may place small data files called cookies on your computer or other device. We use these technologies to recognize you as an XSplit user, customize the XSplit services, content and advertising, measure promotional effectiveness, collect information about your computer or other access device to mitigate risk, solve issues during support, help prevent fraud and promote trust and safety.
 
@@ -32,12 +26,8 @@ You are free to decline our cookies if your browser or browser add-on permits, b
 
 You may encounter XSplit cookies on websites that we do not control. For example, if you view a web page created by a third party or use an application developed by a third party, there may be a cookie placed by the web page or application. Likewise, these third parties may place cookies that are not subject to our control and the XSplit Privacy Policy does not cover their use.
 
-### Marketing
-
 We may combine your information with information we collect from other sources and use it to improve and personalize the XSplit Services, content and advertising.
 
-We may share "Aggregate Information" with third parties, but never any personal identifiable data. "Aggregate Information” means information about groups or categories of Customers or Users, which does not identify and cannot reasonably be used to identify an individual Customer or User. Aggregate Information is a kind of Anonymous Information.
-
-### Consent
+We may share "Aggregate Information" with third parties, but never any personal identifiable data. "Aggregate Information" means information about groups or categories of Customers or Users, which does not identify and cannot reasonably be used to identify an individual Customer or User. Aggregate Information is a kind of Anonymous Information.
 
 By using any part of our site or product, you consent to our privacy policy.
