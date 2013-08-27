@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pornstarpile.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205021700id_/http%3A//www.pornstargals.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornstarpile.com privacy policy that was archived on 2013-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130828003214id_/http%3A//www.pornstargals.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
