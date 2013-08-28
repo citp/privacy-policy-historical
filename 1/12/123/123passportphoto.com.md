@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123passportphoto.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628074949id_/http%3A//123passportphoto.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123passportphoto.com privacy policy that was archived on 2013-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130828192240id_/http%3A//www.123passportphoto.com/privacy.php) for the most accurate reproduction.*
 
 # 123PassportPhoto
 
@@ -10,6 +10,6 @@ For user using the value added service, we collect your delivery information suc
 
 ## Use of information
 
-If you use our free service, the the original photo you upload and all photos generated from the original photo will be permanently deleted when you press the Finish button, or will be automatically deleted after some time. We delete uploaded photos periodically.
+If you use our free service, the the original photo you upload and all photos generated from the original photo will be permanently deleted after some time. We delete uploaded photos periodically.
 
 If you use our value added printing and delivery service, we keep your photos for printing and validation purpose. After that, we will delete the photos. Only our personnel will see the delivery information and your photos. 
