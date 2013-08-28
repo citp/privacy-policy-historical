@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the oldversion.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426040044id_/http%3A//www.oldversion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oldversion.com privacy policy that was archived on 2013-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130828202235id_/http%3A//www.oldversion.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Terms - OldVersion.com
 
-Stats: 8,243 versions of 501 programs
+Stats: 17,536 versions of 691 programs
 
 ## Pick a software title... to downgrade to the version you love!
 
