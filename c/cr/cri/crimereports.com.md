@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crimereports.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620123805id_/https%3A//www.crimereports.com/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crimereports.com privacy policy that was archived on 2013-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130829013850id_/https%3A//www.crimereports.com/footer/privacy) for the most accurate reproduction.*
 
 # None
 
