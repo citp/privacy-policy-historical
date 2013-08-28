@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bowvalleycollege.ca privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619045749id_/http%3A//bowvalleycollege.ca/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bowvalleycollege.ca privacy policy that was archived on 2013-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130828172252id_/http%3A//www.bowvalleycollege.ca/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
