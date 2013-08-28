@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viventura.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430141620id_/http%3A//www.viventura.com/company-information) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viventura.com privacy policy that was archived on 2013-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130828094011id_/http%3A//www.viventura.com/company-information) for the most accurate reproduction.*
 
 # :About | Viventura
 
