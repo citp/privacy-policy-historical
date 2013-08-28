@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alwaysdownloads.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627082729id_/http%3A//www.alwaysdownloads.com/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alwaysdownloads.com privacy policy that was archived on 2013-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130828074828id_/http%3A//www.alwaysdownloads.com/terms/privacy-policy) for the most accurate reproduction.*
 
 # Always Downloads - Privacy Policy
 
