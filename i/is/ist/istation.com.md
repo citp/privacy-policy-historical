@@ -1,15 +1,16 @@
-> *The following text is extracted and transformed from the istation.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623021744id_/http%3A//www.istation.com/Legal/PrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the istation.com privacy policy that was archived on 2013-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130829013702id_/http%3A//www.istation.com/Legal/PrivacyStatement) for the most accurate reproduction.*
 
 # Privacy Statement - Istation
 
-This privacy statement (the "Privacy Statement") is incorporated into, and subject to, the Terms of Use and Service (the "Terms") for Imagination Station, Inc. ("Istation"). Please refer to the [Terms](https://web.archive.org/Legal/TermsOfUse) for definitions of words with initial capital letters that are not otherwise defined in this Privacy Statement.
+This privacy statement (this “Privacy Statement”) is incorporated in, and subject to, the Terms of Use and Service (the “Terms”) for Imagination Station, Inc. (“Istation”). Please refer to the [Terms](https://web.archive.org/Legal/TermsOfUse) for definitions of words with initial capitals letters that are not otherwise defined in this Privacy Statement. Istation encourages You to read this Privacy Statement carefully.
 
-Istation is committed to protecting Your privacy and that of students while providing You with the most useful and enjoyable experience possible. We strongly believe in protecting the privacy of any personally identifiable information provided to us. We also believe it is important to inform You about how we will use personal data and to give You choices about how those data will be used. Therefore, we encourage You to read this Privacy Statement carefully.
+Istation is committed to protecting Your privacy and that of students while providing You with the most useful and enjoyable experience possible. We strongly believe in protecting the privacy of any personally identifiable information provided to us. We also believe it is important to inform You about how we will use personal data. 
 
-This Privacy Statement explains data collection and use practices relating to access and use of the Resources and the Resource Materials. By accessing and using any Resource, You consent to the information collection and use practices described in this Privacy Statement.
+For purposes of this Privacy Statement, references to “You” or “Your” mean (i) you in your individual capacity, (ii) your company (“Your Company”), which may be a school or school district, and (iii) authorized users of Your Company, who are students, employees, representatives, and agents of Your Company that are registered with Istation and that have a valid security identification and password to access and use the Resources (collectively the “Authorized Users”).
 
-If You have any questions about this Privacy Statement, You may contact Istation using the information below (the " **Contact Information** ").
+If You have any questions about this Privacy Statement or any privacy questions or concerns, You may contact Istation using the information below (the “Contact Information”):
 
+Email: info@Istation.com  
 Write to us at:
 
 [info@Istation.com](mailto:info@Istation.com)  
@@ -21,69 +22,90 @@ Fax: 972-643-3441
 
 Istation will only collect, store, and use Your personal information for defined purposes, such as to provide access to, and use of, the Resources and to provide customer service and support. Istation will not sell Your personal information to any unaffiliated third party, except pursuant to a sale of all or substantially all of Istation’s assets or pursuant to any business combination (such as a merger) to which Istation is a party. At any time You may contact Istation with any privacy questions or concerns that You may have using the Contact Information above. 
 
-**What information is collected?**  
-We collect information voluntarily submitted to Istation. Examples of such information include
+**What information is Collected?**  
+Istation collects information about You in two ways: (i) when You voluntarily give or submit the information to Istation and (ii) when You access and/or use the Resources. All information that Istation collects about You is defined as “Collected Information.” Examples of Collected Information include, but are not limited to:
 
-  * identifying information, such as district and school names, first and last names of students, student district/school issued identification numbers, teacher and administrator names, and teacher and administrator e-mail addresses;
-  * responses, such as responses to interactive activities and assessments;
-  * security information, such as user names, passwords, and password hints;
-  * contact information, such as names, mailing addresses, and phone numbers;
+  * Personal information, such as school names and school district names, first and last names, and identification numbers issued by schools and school districts (including teacher numbers, administrator numbers, and student numbers);
+  * Contact information, such as email addresses, mailing addresses, and phone numbers;
+  * Responses, such as responses to interactive activities and assessments and other Resource-related responses;
+  * Security information, such as usernames, passwords, and password hints;
   * Resource-use behavior, such as pages visited, downloads, or searches requested;
-  * browser information, such as browser version, IP address, and presence of various plug-ins and tools; and
-  * demographic data, such as gender, race, special-education status, socioeconomic status, and English language learner status.
+  * Browser information, such as browser version, IP address, and presence of various plug-ins and tools; and
+  * "Demographic Data," such as gender, race, special-education status, socio-economic status, and English language learner status.
 
 
 
-At least some of the above information may be provided by the classroom teacher and/or other school administrators using the Resources.
+All Collected Information falls into one of two categories: (i) "Personally Identifiable Information" or (ii) "Unlimited-Use Information."
 
-**How is information used?**  
-The personal information provided to Istation will be used in furtherance of the Resources, such as to provide access to, and use of, the Resources and to provide customer service and support. 
+**Personally Identifiable Information:**
 
-**How are student results and student information made available?**  
-Student results from usage of the Resources are available for review to Authorized Users on the Web Site. Student results may be viewed only as authorized by the applicable school district. Generally, teachers may see only the results of students in his/her classroom, principals may see only the results of students in his/her school, and district-level administrators may see only the results of students in the district. Student results are shared within Istation on a need-to-know basis only. Istation employees are required to keep the information confidential, and it may not be used for any purpose other than to carry out the services they are performing for Istation. 
+Personally Identifiable Information consists of the following information (and does not extend to any other Collected Information):
 
-Student user identification (first name and last initial) and user passwords assigned by Istation are available to applicable Authorized Users on the Web Site.
+  * School names and school district names;
+  * First and last names;
+  * Identification numbers issued by schools and school districts (including teacher numbers, administrator numbers, and student numbers);
+  * Email addresses and mailing addresses;
+  * Phone numbers;
+  * Resource use results but only to the extent such results identify one or more (i) students, (ii) teachers, (iii) classrooms within an identified school, (iii) grades within an identified school, (iv) schools within an identified school district, (v) schools, or (vi) school districts (collectively “Identifiable Use Results”). For example, Identifiable Use Results include the following: 
+    * Resource use result for all students in Teacher “X”’s class;
+    * Resource use results for all third graders attending School “Y”; and
+    * Resource use results for all grade schools within School District “Z.”
 
-**Does Istation share my information with third parties?**  
-Istation may engage third-party agents, contractors, vendors, and service providers to perform various functions on Istation’s behalf (" **Service Providers** "). For example, Istation may share personal information with Istation’s research partners provided, however, that students' names will not be shared with such researchers without Your permission. The purpose of such research is to prove the validity and efficacy of the Resources and to improve the Resources where appropriate. Additionally, results may be aggregated and reported on a de-identified basis: no personal information (including, but not limited to, information on specific districts, schools, or students) is revealed in such aggregated results without Your prior permission.
+Note, however, that Identifiable Use Results do not include the following, among other things:
 
-Other services provided by Service Providers may include, but are not limited to, (i) managing customer information, (ii) analyzing data, (iii) developing, hosting, and maintaining the Resources and any related databases, and (iv) communicating about Istation. Istation does not authorize any of the Service Providers to make any other use of any personal information or to contact You outside the context of the services related to the Resources.
+    * Resource use results for geographic regions that do not identify a specific school or school district (such as Resource use results reported (i) on a county-wide basis, (ii) within a defined territory (whether officially or unofficially defined), like North Texas or the state of Texas, or (iii) within a metropolitan area, like Dallas-Fort Worth).
 
-Istation reserves the right to disclose personal information as required by law, in response to legal process and law enforcement requests, and as necessary to protect the property, interests, and rights of the Affiliated Group and others.
 
-**How do I access my information? How do I change my information?**   
-Your personal information can be accessed and changed by contacting Istation using the Contact Information provided above. Please be sure to include Your full contact information, such as Your name, address, and e-mail address, as applicable, when contacting Istation to access or change Your personal information. Also, please allow one week for e-mail requests and three weeks for postal mail requests to be fulfilled.
 
-**How does Istation protect kids’ privacy?**  
-If You are a parent or legal guardian of a child under the age of 18, and Your child’s personal information has been provided to Istation using the Resources, You may contact Istation using the Contact Information provided above. You may request a copy of Your child’s personal information or request to change or delete any and all personal information about Your child. Please be sure to include Your full contact information, such as Your name, address, and e-mail address, as applicable, when contacting Istation to access, change, or delete Your child’s personal information. Also, please allow one week for e-mail requests and three weeks for postal mail requests to be fulfilled.
+**Unlimited-Use Information:**
 
-**Support Services**  
-In addition to being able to call Istation’s support services department, users of the Resources may also e-mail Istation their questions using the Contact Information above. Other than an e-mail address, Istation does not request that users submit any personal information online for support services inquiries. Istation may, however, ask for additional nonpersonal information to better help Istation respond to support service questions. Istation uses the e-mail address to communicate directly with administrators, teachers, and parents.
+Unlimited-Use Information is all Collected Information other than Personally Identifiable Information. For clarity, all Resource use results that are not Identifiable Use Results are considered Unlimited-Use Information.
 
-Administrators and teachers may create student accounts used for participation in the Resources. Creation of student accounts may occasionally require e-mail exchanges between school personnel and Istation support services. These communications may include the first name and last name of a student, district/school issued student identification numbers, and Istation user identification. This information is transmitted over a secure Internet connection and is used by Istation only for the purpose of establishing user access.
+**How is Collected Information Used and Disclosed?**  
+**Personally Identifiable Information:**
 
-Administrators and teachers may also make support service inquiries directly by e-mail using the Contact Information above or otherwise. Such inquiries may occasionally include the first and last names of students using the Resources in their requests. This information is used only by Istation to respond to user requests and for no other purpose. 
+Istation is permitted to use and disclose Personally Identifiable Information as follows:
 
-The Resources may generate a log when an unexpected error condition in running the program is encountered. This log may be automatically transmitted to Istation for internal debugging purposes. Other than the user identification (first name and last initial), this log does not contain any personal information.
+  * Istation is permitted to use Personally Identifiable Information in furtherance of the Resources, including (i) to communicate announcements about the Resources and to provide information about the Resources, such as usage of the Resources, (ii) to capture and analyze Demographic Data regarding the Resources, and (iii) to track students’ usage of the Resources over time, such as performance metrics collected over multiple school years.
+  * Istation is permitted to use Personally Identifiable Information for Istation’s internal purposes.
+  * Istation is permitted to use Personally Identifiable Information to send You updates, promotional/advertising materials, and newsletters relating to the Resources and Istation’s products and services or to otherwise target specific services or offers to You. If You want to stop receiving promotional/advertising materials from Istation, then You have the option to unsubscribe.
+  * Istation is permitted to use Personally Identifiable Information to respond to Your questions or comments.
+  * Istation is permitted to use Personally Identifiable Information to customize content within the Resources, to make the Resources better, to improve the Resources’ functionality, and to develop new products and updates.
+  * Istation may use Personally Identifiable Information in combination with Unlimited-Use Information.
+  * Istation is permitted to use and/or disclose Personally Identifiable Information when Istation has Your consent.
+  * Istation is permitted to disclose Personally Identifiable Information to Istation's employees.
+  * Istation is permitted to disclose Personally Identifiable Information to third parties, including contractors, vendors, and service providers, that assist with the Resources.
+  * Istation is permitted to disclose Personally Identifiable Information to Authorized Users as determined by the school at issue or the school district at issue. Generally, but subject to determination by the school at issue or the school district at issue, (i) a teacher may only see Personally Identifiable Information of students in the teacher’s classroom, (ii) a principal may only see Personally Identifiable Information of those students and teachers in the principal’s school, and (iii) a school district level administrator may only see Personally Identifiable Information of those students and teachers in the administrator’s school district.
+  * Istation is permitted to disclose Identifiable Use Results to third parties when Istation has the consent of the school at issue or the school district at issue so long as the Identifiable Use Results do not identify any student. 
+    * For clarity, no consent of a student or a parent or guardian of a student is required for Istation to disclose Identifiable Use Results to third parties that do not identify any student. Any disclosure of Identifiable Use Results to third parties that identify any student require the consent of both (i) the school at issue or the school district at issue and (ii) each student at issue or a parent or guardian of each student at issue.
+  * Istation is permitted to disclose Personally Identifiable Information if Istation believes that sharing Personally Identifiable Information is reasonably necessary in order to (i) protect or defend the legal rights, interests, property, safety, or security of Istation, anyone else, or the public, (ii) protect or defend against, or otherwise address, fraud, security, or technical issues, (iii) risk management purposes, (iv) comply with, or respond to, a law, regulation, legal request, legal process, legal requirement, judicial proceeding, or court order, or (v) investigate a possible crime, such as fraud or identity theft.
+  * Istation is permitted to disclose Personally Identifiable Information in connection with the (actual or potential) sale, purchase, acquisition, merger, reorganization, bankruptcy, liquidation, dissolution, or similar transaction or proceeding of or involving Istation.
+  * Istation is permitted to de-identify Personally Identifiable Information for any and all purposes.
 
-**Web Site Security**   
-We recognize our responsibility to protect the information You entrust to Istation. Istation uses a variety of secure techniques to protect Your information, including secure servers, firewalls, and encryption technologies. The Web Site is registered with a High Assurance SSL Certificate to enable Your browser to confirm the identity of the Web Site before any transmission is sent. With this technology, the identity of our site is automatically confirmed behind the scenes prior to the transmission of any personal information requested. The information You send us may be encrypted, a process used to scramble information making it extremely difficult to read if wrongly intercepted. We utilize industry-standard Secure Sockets Layer (SSL) technology to allow for the encryption of Your personal information, including, but not limited to, Your name and address.
+
+
+Except as described in, or permitted by, this Privacy Statement, Istation will obtain Your permission before Istation discloses Personally Identifiable Information to third parties.
+
+**Unlimited-Use Information:**
+
+Istation is permitted to use and disclose, without restriction or limitation, all Unlimited-Use Information (including Personally Identifiable Information that has been de-identified and Demographic Data) in Istation’s sole discretion. Without limiting the generality of the foregoing sentence, Istation reserves the right to use, distribute, edit, display, archive, publish, sublicense, perform, reproduce, make available, transmit, broadcast, sell, repurpose, translate, aggregate, and create derivative works of the Unlimited-Use Information for any and all purposes. For example, Istation may use and disclose Unlimited-Use Information (i) to monitor, maintain, and improve the functionality of the Resources, (ii) to make the Resources more responsive to the needs of the visitors and users of the Resources, (iii) to improve Your experience within the Resources and with respect to the Resources, (iv) for historical, statistical, scientific, demographic, geographic, and other purposes, and (v) for responding to surveys or seeking responses to surveys.
+
+**Can I Access or Change My Personally Identifiable Information?**  
+Each school and/or school district is permitted by functionality made available by the Resources to determine what Personally Identifiable Information (if any) is accessible by Authorized Users and to which Authorized Users in particular. In certain circumstances, a school and/or school district may be entitled to permit one or more Authorized Users to change Personally Identifiable Information. You should check with your school and/or school district to determine Your rights (if any) to access and change Personally Identifiable Information.
+
+**Website Security**  
+Istation recognizes Istation’s responsibility to protect the information You entrust to Istation. Istation uses a variety of secure techniques to protect Your information, including secure servers, firewalls, and encryption technologies. The information You send Istation via the Website may be encrypted, a process used to scramble information making it extremely difficult to read if wrongly intercepted. Istation utilizes industry standard Secure Sockets Layer (SSL) technology to allow for the encryption of Personally Identifiable Information.
 
 **Resource Security**  
-Istation has taken steps to ensure that personally identifiable information collected and access to usage results are secure, including, but not limited to, limiting access to Istation’s database servers as well as password protections that guard against unauthorized access. Student usage information and passwords are encrypted and stored on each local computer. All personal information sent to us is encrypted during transmission, such as during login. Once the data reaches our server, personal information and student usage results are stored on a secure database. Access to this information is password protected and provided only to Authorized Users.
+Istation has taken steps to ensure that Personally Identifiable Information is secure, including limiting access to Istation’s database servers as well as password protections that guard against unauthorized access. Student usage information and passwords are encrypted and stored on each local computer. All Personally Identifiable Information sent to Istation is encrypted during transmission, such as during login. Once the data reaches Istation’s server, Personally Identifiable Information are stored on a secure database. Access to Personally Identifiable Information is password protected.
 
 **Use of "Cookies"**  
-A "cookie" is a small piece of information that some Web sites store on Your computer’s hard drive when You visit them. This element of data is a small file, not a program, that contains information identifying a user. When a user revisits a Web site, his or her computer automatically "serves up" the cookie, eliminating the need for the user to reenter the information. Like many other Web sites, Istation uses cookies for this purpose. Your user "domain" is the only data stored on Your hard drive by Istation. Most Web browsers automatically accept cookies but allow You to modify security settings so You can approve or reject cookies on a case-by-case basis. At a minimum, Your Web browser must allow temporary cookies which are not stored on Your hard disk to log in to the Web Site. Please refer to the "Help" file of Your Internet browser to learn how to receive a warning before a cookie is stored. To learn more about cookies, we encourage You to visit [www.cookiecentral.com](http://www.cookiecentral.com/).
+“Cookies” are small pieces of information that some websites store on Your computer's hard drive when You visit them. This element of data is a piece of text, not a program, that contains information identifying a user. When a user revisits a Website, his or her computer automatically “serves up” the cookie eliminating the need for the customer to reenter the information. Like many other websites, Istation uses cookies for this purpose. Your user “domain” (that is, Your school name) is the only data stored on Your hard drive by Istation. Most web browsers automatically accept cookies but allow You to modify security settings so You can approve or reject cookies on a case-by-case basis. At a minimum, Your web browser must allow temporary cookies that are not stored on Your hard disk to log into the Website. Please refer to the “Help” file of Your Internet Browser either to learn how to receive a warning before a cookie is stored.
 
-**Third-Party Sites**   
-The Web Site may contain links or references to third-party Web sites, resources, and advertisers (collectively " **Third-Party Sites** "). These Third-Party Sites are not controlled by Istation and, therefore, are not subject to this Privacy Statement. You should check the privacy policies of these individual Third-Party Sites to see how Your personal information will be utilized by the operators of those Third-Party Sites before providing any personal information. Please be aware that these Third-Party Sites may collect personally identifiable information about You and may also send "cookies." Istation is not responsible for the content or practices of any linked Third-Party Sites, and we provide these links solely for the convenience and information of our visitors.
+**Third-Party Sites**  
+The Website may contain links to or reference third party websites and resources (collectively “Third Party Sites”). These Third Party Sites are not controlled by Istation and, therefore, are not subject to this Privacy Statement. You should check the privacy policies of these individual Third Party Sites to see how Your personally identifiable information will be utilized by the operators of those Third Party Sites before providing any personally identifiable information. Please be aware that these Third Party Sites may collect personally identifiable information about You that may also send “cookies.” Istation is not responsible for the content or practices of any linked Third Party Sites, and Istation provides these links solely for the convenience and information of Istation’s visitors.
 
-**Other Information**   
-Istation may offer managers of accounts (school administrators and teachers) the opportunity to receive newsletters or other information about our products or services that we feel may be of interest. Only Istation or agents working on behalf of Istation will send You these direct mailings. If at any time You want to discontinue receiving this information, You can unsubscribe by following the instructions found at the end of Istation e-mail messages or by using the Contact Information above.
+**Can Istation change this Privacy Statement?**  
+Istation may change this Privacy Statement at any time without notice. However, if the Privacy Statement changes, Istation will post an updated version on the Website. The revision date will be posted at the bottom of the page.
 
-**Can Istation change this Privacy Statement?**   
-Istation may change this Privacy Statement at any time without notice. However, if the Privacy Statement changes, we will post an updated version on the Web Site. The policy revision date will be posted at the bottom of the page.
-
-Istation welcomes Your questions and comments about our Privacy Statement. You may contact us using the Contact Information above.
-
-**Effective Date: July 23, 2011**
+**Effective Date: July 11, 2013**
