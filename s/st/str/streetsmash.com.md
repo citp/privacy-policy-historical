@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streetsmash.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619151026id_/http%3A//streetsmash.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streetsmash.com privacy policy that was archived on 2013-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130828091732id_/http%3A//streetsmash.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Streetsmash
 
