@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extreme-efficiency.com privacy policy that was archived on 2013-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130201095555id_/http%3A//extreme-efficiency.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extreme-efficiency.com privacy policy that was archived on 2013-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130829004841id_/http%3A//extreme-efficiency.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
