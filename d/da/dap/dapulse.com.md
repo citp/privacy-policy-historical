@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dapulse.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621192637id_/http%3A//dapulse.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dapulse.com privacy policy that was archived on 2013-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130828135944id_/http%3A//dapulse.com/privacy) for the most accurate reproduction.*
 
-# daPulse - A New Breed of Company Conversation
-
-## Privacy Policy
+# daPulse - Your company's growth made easy
 
 We're working on a version humans can also read, until then we have what our diligent lawyers cooked below :) 
 
