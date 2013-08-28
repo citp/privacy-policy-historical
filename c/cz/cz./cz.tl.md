@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cz.tl privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426235341id_/http%3A//www.own-free-website.com/en/Privacy-Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cz.tl privacy policy that was archived on 2013-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130828164807id_/http%3A//www.own-free-website.com/en/Privacy-Policy.php) for the most accurate reproduction.*
 
 # Create your Homepage for Free - 100% for Free
 
