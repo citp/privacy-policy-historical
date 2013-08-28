@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyberdefender.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502150721id_/http%3A//cyberdefender.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberdefender.com privacy policy that was archived on 2013-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130828225855id_/http%3A//www.cyberdefender.com/privacy-policy.html) for the most accurate reproduction.*
 
 # USTechSupport.com | Privacy Policy
 
@@ -14,7 +14,7 @@ USTechSupport voluntarily complies with the requirements of the Safe Harbor fram
 The Policy describes the following:
 
   * The PII you provide in connection with your purchase of USTechSupport licenses, products and services
-  * Other information we collect as the result of your use of the USTechSupport websites, including [www.ustechsupport.com](http://www.ustechsupport.com/), [www.cyberdefender.com](http://www.cyberdefender.com/), [www.spywarefordummies.com](http://www.spywarefordummies.com/), [www.maxmyspeed.com](http://www.maxmyspeed.com/), [www.doublemyspeed.com](http://www.doublemyspeed.com/), [www.cleanpcnow.com](http://www.cleanpcnow.com/) and [www.mycleanpc.com](http://www.mycleanpc.com/) (collectively, "the Websites")
+  * Other information we collect as the result of your use of the USTechSupport websites, including [www.ustechsupport.com](http://www.ustechsupport.com/), [www.cyberdefender.com](http://www.cyberdefender.com/), [www.spywarefordummies.com](http://www.spywarefordummies.com/), [www.maxmyspeed.com](http://www.maxmyspeed.com/), [www.doublemyspeed.com](http://www.doublemyspeed.com/), and [www.mycleanpc.com](http://www.mycleanpc.com/) (collectively, "the Websites")
   * How we use the information we collect
   * How and with whom we share the information
   * How you can opt in or opt out of information collection
@@ -22,7 +22,8 @@ The Policy describes the following:
 
 
 
-**The Information We Collect**  
+**The Information We Collect**
+
 **PII**  
 In order to open an account with us and to purchase software licenses and technical support services, USTechSupport will collect information including your name, email address, the password to your computer in the event you purchase certain technical support services, telephone number, billing address, and credit or debit card account or electronic funds transfer information. USTechSupport does not collect your driver's license number and collects your social security number only if you elect to provide it in connection with a purchase of the USTechSupport Identity Protection Service.
 
@@ -45,7 +46,7 @@ This information is sent only to USTechSupport with your approval, and it is sto
   
 We do not sell or otherwise provide any of this information to third parties and use it only to improve our products and offer better service to our customers.
 
-For a complete list of the information we may collect, click [here](https://web.archive.org/web/20130125225342id_/http://www.ustechsupport.com/client-info-list.html).
+For a complete list of the information we may collect, click [here](http://www.ustechsupport.com/client/client-info-list,default,pg.html).
 
 In order to personalize our communications with you and to improve our products and services, we also may ask you to provide consumer satisfaction information and other information regarding your personal and professional interests, your experience with our products and services, and additional contact information. You have the option of choosing not to provide the information.
 
@@ -89,7 +90,8 @@ All information gathered on our Websites is stored and maintained in secure faci
 USTechSupport retains your PII for as long as you are a registered subscriber or user of our products and services, and for a reasonable time thereafter.
 
 **Confidentiality**  
-USTechSupport maintains the confidentiality of your PII and other information and will not disclose it to third parties except as set forth in this Policy. However, confidentiality does not apply to information: (1) that is publicly available; (2) as to which you consent to disclosure; (3) when disclosure is in connection with the sale of all or part of our business; or (4) when disclosure is necessary for USTechSupport or its officers, directors, employees, agents and contractors to enforce their legal rights pursuant to applicable law.
+USTechSupport maintains the confidentiality of your PII and other information and will not disclose it to third parties except as set forth in this Policy. However, confidentiality does not apply to information: (1) that is publicly available; (2) as to which you consent to disclosure; (3) when disclosure is in connection with the sale of all or part of our business; or (4) when disclosure is necessary for USTechSupport or its officers, directors, employees, agents and contractors to enforce their legal rights pursuant to   
+applicable law.
 
 **_In addition, USTechSupport reserves the right, in its sole and absolute discretion, at any time, and without notice, to you to disclose to third parties, including law enforcement authorities, any of your information, including PII, that USTechSupport deems appropriate to: (a) comply with any applicable law or regulation, legal process, or governmental request; or (b) prevent possible harm or injury to any person or damage to any property._**
 
