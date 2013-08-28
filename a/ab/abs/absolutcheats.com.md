@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the absolutcheats.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510202219id_/http%3A//www.absolutcheats.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the absolutcheats.com privacy policy that was archived on 2013-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130828035625id_/http%3A//www.absolutcheats.com/privacy.htm) for the most accurate reproduction.*
 
 # AbsolutCheats - Privacy Policy
 
