@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omnisecu.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602163647id_/http%3A//www.omnisecu.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omnisecu.com privacy policy that was archived on 2013-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130828083123id_/http%3A//www.omnisecu.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for www.omnisecu.com
 
