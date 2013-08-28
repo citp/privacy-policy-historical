@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the drumeo.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531013155id_/http%3A//drumeo.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drumeo.com privacy policy that was archived on 2013-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130828103409id_/http%3A//www.drumeo.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Drumeo Store - Bass Drum Secrets
+# Drumeo - Privacy Policy
 
 Below is a list of the standard policies we use on this website. They are in place to safeguard our users, and to ensure we can provide a quality user experience!
 
