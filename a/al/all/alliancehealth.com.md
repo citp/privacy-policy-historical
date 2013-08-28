@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alliancehealth.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524143323id_/http%3A//alliancehealth.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alliancehealth.com privacy policy that was archived on 2013-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130828235224id_/http%3A//alliancehealth.com/privacy) for the most accurate reproduction.*
 
 # Alliance Health - Empowering Consumers through Social Health Networks
 
