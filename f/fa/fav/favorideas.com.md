@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the favorideas.com privacy policy that was archived on 2013-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130410165842id_/http%3A//www.favorideas.com/w3c/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the favorideas.com privacy policy that was archived on 2013-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130828160958id_/http%3A//www.favorideas.com/w3c/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for http://www.favorideas.com
 
