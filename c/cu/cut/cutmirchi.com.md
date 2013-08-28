@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cutmirchi.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614003931id_/http%3A//cutmirchi.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cutmirchi.com privacy policy that was archived on 2013-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130828125807id_/http%3A//cutmirchi.com/privacy.php) for the most accurate reproduction.*
 
 # Welcome cutmirchi.com - Find latest happening information links
 
