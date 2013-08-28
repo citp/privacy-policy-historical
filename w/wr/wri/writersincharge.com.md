@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the writersincharge.com privacy policy that was archived on 2013-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130402154259id_/http%3A//www.writersincharge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the writersincharge.com privacy policy that was archived on 2013-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130828172247id_/http%3A//www.writersincharge.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
