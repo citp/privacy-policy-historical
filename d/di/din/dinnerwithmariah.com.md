@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dinnerwithmariah.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513170338id_/http%3A//www.dinnerwithmariah.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dinnerwithmariah.com privacy policy that was archived on 2013-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130828190614id_/http%3A//dinnerwithmariah.com/privacy.html) for the most accurate reproduction.*
 
 # Dinner With Mariah
 
