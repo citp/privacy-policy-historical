@@ -1,17 +1,15 @@
-> *The following text is extracted and transformed from the justrentals.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609103756id_/http%3A//www.justrentals.com/privacy-policy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justrentals.com privacy policy that was archived on 2013-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130828063404id_/http%3A//www.justrentals.com/information/privacy-policy-statement.html) for the most accurate reproduction.*
 
-# Just Rentals Dubai - Privacy Policy Statement
+# Privacy Policy Statement - JustRentals.com
 
- 
-
-This is the web site of [www.justrentalsdubai.com](https://web.archive.org/).
+This is the web site of [www.justrentals.com](https://web.archive.org/).
 
 Our postal address is   
 PO BOX 347461  
 Dubai 
 
-We can be reached via e-mail at [info@justrentalsdubai.com](mailto:info@justrentalsdubai.com)  
-or you can reach us by telephone at +971 55 272 1608
+We can be reached via e-mail at [info@justrentals.com](mailto:info@justrentalsdubai.com)  
+or you can reach us by telephone at +971 (0)44 20 1044
 
 For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
 
