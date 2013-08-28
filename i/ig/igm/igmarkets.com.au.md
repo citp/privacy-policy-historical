@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igmarkets.com.au privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519143449id_/http%3A//www.igmarkets.com.au/cfd/privacy-notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igmarkets.com.au privacy policy that was archived on 2013-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130828152425id_/http%3A//www.igmarkets.com.au/cfd/privacy-notice.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -47,7 +47,7 @@ Generally, we require that organisations outside the IG group of companies who h
 
 ###  Marketing our products and services 
 
-We may use your personal information to let you know about products and services or promotions or other opportunities in which you may be interested. If you no longer wish to receive such communications please phone us on +61 (3) 9860 1711, or write to us at: IG Markets, Level 7, 417 St Kilda Road, Melbourne VIC 3004, or email: [helpdesk@igmarkets.com.au](mailto:helpdesk@igmarkets.com.au).
+We may use your personal information to let you know about products and services or promotions or other opportunities in which you may be interested. If you no longer wish to receive such communications please phone us on +61 (3) 9860 1711, or write to us at: IG Markets, Level 15, 55 Collins Street, Melbourne VIC 3000, or email: [helpdesk@igmarkets.com.au](mailto:helpdesk@igmarkets.com.au).
 
 ###  Sensitive information is subject to greater restrictions 
 
@@ -95,7 +95,7 @@ If you want to:
 
 
 
-To obtain an application form for access to your personal information phone us on +61 (3) 9860 1711 or write to us at: IG Markets, Level 7, 417 St Kilda Road, Melbourne VIC 3004, or email: [helpdesk@igmarkets.com.au](mailto:helpdesk@igmarkets.com.au)
+To obtain an application form for access to your personal information phone us on +61 (3) 9860 1711 or write to us at: IG Markets, Level 15, 55 Collins Street, Melbourne VIC 3000, or email: [helpdesk@igmarkets.com.au](mailto:helpdesk@igmarkets.com.au)
 
 ###  Privacy: web supplement 
 
