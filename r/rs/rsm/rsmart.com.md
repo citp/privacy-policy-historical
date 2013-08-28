@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rsmart.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625061742id_/http%3A//www.rsmart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rsmart.com privacy policy that was archived on 2013-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130828205715id_/http%3A//www.rsmart.com/privacy-policy) for the most accurate reproduction.*
 
 # rSmart Privacy Policy - rSmart
 
