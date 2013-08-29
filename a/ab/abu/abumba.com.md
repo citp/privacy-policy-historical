@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abumba.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621070940id_/http%3A//www.abumba.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abumba.com privacy policy that was archived on 2013-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130829100229id_/http%3A//www.abumba.com/Privacy) for the most accurate reproduction.*
 
 # Abumba.com - Privacy Policy
 
