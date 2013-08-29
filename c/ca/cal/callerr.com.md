@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the callerr.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531123457id_/http%3A//callerr.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the callerr.com privacy policy that was archived on 2013-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130829222314id_/http%3A//callerr.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - http://www.callerr.com
 
