@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wholesalefreeclassifiedads.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623020951id_/http%3A//www.wholesalefreeclassifiedads.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholesalefreeclassifiedads.com privacy policy that was archived on 2013-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130829025401id_/http%3A//www.wholesalefreeclassifiedads.com/privacy.php) for the most accurate reproduction.*
 
 # Qtellwholesale Limited Private Policy and Cookie Policy Ireland for all webdesign, eCommerce plus all classifieds web sites
 
