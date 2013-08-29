@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourlocaledge.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629102018id_/http%3A//yourlocaledge.com/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourlocaledge.com privacy policy that was archived on 2013-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130829032422id_/http%3A//www.yourlocaledge.com/Home/PrivacyPolicy) for the most accurate reproduction.*
 
 # Your Local Edge - Private Label Marketing Services
 
