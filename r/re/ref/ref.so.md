@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ref.so privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508055330id_/http%3A//www.ref.so/user/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ref.so privacy policy that was archived on 2013-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130829020412id_/http%3A//www.ref.so/user/privacy.html) for the most accurate reproduction.*
 
 # Ref.so - Easy share, Quick earn
 
