@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bellechic.com privacy policy that was archived on 2012-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120104103402id_/http%3A//www.bellechic.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bellechic.com privacy policy that was archived on 2013-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130829072649id_/https%3A//www.bellechic.com/about/privacy) for the most accurate reproduction.*
 
 # BelleChic
 
@@ -25,7 +25,7 @@ From time to time, we may need to make additions or changes to this privacy poli
 If you have comments or questions about our privacy policy, please send them to us at service at BelleChic dot com, or contact:
 
 BelleChic  
-2218 East Williams Field Road  
-Suite 250  
-Gilbert, AZ 85295  
+2350 E Germann Road  
+Suite 22  
+Chandler, AZ 85286  
 phone: 435-688-9595
