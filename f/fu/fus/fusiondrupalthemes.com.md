@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fusiondrupalthemes.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602075341id_/http%3A//fusiondrupalthemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fusiondrupalthemes.com privacy policy that was archived on 2013-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130829170928id_/http%3A//fusiondrupalthemes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Fusion Drupal Themes Shop
 
