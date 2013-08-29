@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplewritingsystem.com privacy policy that was archived on 2013-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130319072131id_/http%3A//www.simplewritingsystem.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplewritingsystem.com privacy policy that was archived on 2013-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130829103157id_/http%3A//www.simplewritingsystem.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Simple Writing System – John Carlton
 
