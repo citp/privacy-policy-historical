@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponmailroom.com privacy policy that was archived on 2013-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130119001831id_/http%3A//www.couponmailroom.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponmailroom.com privacy policy that was archived on 2013-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130829115151id_/http%3A//www.couponmailroom.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,7 @@ You must be at least 18 years of age to use this Website for any purpose.
 
 ## Questions
 
-If you have questions about this policy please contact us by clicking [here](https://web.archive.org/web/20130119001831id_/http%3A//www.couponmailroom.com/contactus.php "Contact Us"). 
+If you have questions about this policy please contact us by clicking [here](https://web.archive.org/web/20130829115151id_/http%3A//www.couponmailroom.com/contactus.php "Contact Us"). 
 
 ## Non-Personally Identifiable Information
 
@@ -44,7 +44,7 @@ To opt-out of receiving emails from this Website please [click here](https://web
 
 ## Accessing and Updating Your Information
 
-To access, update or delete your personally identifiable information that you have provided to us please contact us by clicking [here](https://web.archive.org/web/20130119001831id_/http%3A//www.couponmailroom.com/contactus.php "Contact Us")
+To access, update or delete your personally identifiable information that you have provided to us please contact us by clicking [here](https://web.archive.org/web/20130829115151id_/http%3A//www.couponmailroom.com/contactus.php "Contact Us")
 
 ## Third-Party Hosting
 
