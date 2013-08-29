@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the romwe.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629043448id_/http%3A//www.romwe.com/Privacy-Security-ezp-11.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the romwe.com privacy policy that was archived on 2013-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130829022844id_/http%3A//www.romwe.com/Privacy-Security-ezp-85.html) for the most accurate reproduction.*
 
 # Privacy Security The Latest Street Fashion Online, Women Fashion Store | ROMWE
 
 Romwe.com respects your right to privacy. We may change or add to this privacy policy at anytime without notice. We encourage you to review it periodically. By purchasing our products or using our services or website, you consent to the collection, use and disclosure of your personal information in accordance with the following privacy policy.
 
-**About the privacy policy , you should know:**  
+ **About the privacy policy , you should know:**  
 
 
   * What information is collected by Romwe?
@@ -16,7 +16,7 @@ Romwe.com respects your right to privacy. We may change or add to this privacy p
 ### 1.WHAT INFORMATION DO WE COLLECT?
 
 Consumer Information  
-We receive and may keep information voluntarily given to us when you decided to make an Romwe purchase, apply for an Paypal account, register on Romwe.com, take part in a special promotion, or provide any other information or unique preferences to better serve you. This information may include: 
+We receive and may keep information voluntarily given to us when you decided to make an Romwe purchase, apply for an Paypal account, register on Romwe.com, take part in a special promotion, or provide any other information or unique preferences to better serve you. This information may include:
 
   * Your name, address and phone number
   * Your e-mail address
@@ -31,9 +31,9 @@ We want you to be aware that certain online tools exist to help us serve and rec
 ### 2\. ONCE INFORMATION IS RECEIVED, HOW IS IT USED AND/OR SHARED?
 
 Only Within Romwe  
-Information we collect from you may be shared between all points of contact only within Romwe. 
+Information we collect from you may be shared between all points of contact only within Romwe.
 
-We use this information to offer you special offers, new products, and services   
+We use this information to offer you special offers, new products, and services   
 
 
 * Provide you with timely and reliable fulfillment of requests
@@ -50,8 +50,8 @@ The email address you provide for order processing, will only be used to send yo
 
 Retention of Personal Information  
 Romwe retains your personal information for as long as necessary to fulfill the purpose(s) for which it was collected and to comply with applicable laws. Your consent to such purposes(s) remains valid after any termination of our relationship with you.  
-Identity Theft Policy and Program   
-Romwe.com has put in place security measures to protect the loss, misuse, or theft of information under our control. All transactions are protected by McAfee and VeriSign, the world-renowned online security company, ensuring as far as possible that every transaction is 100% safe. 
+Identity Theft Policy and Program   
+Romwe.com has put in place security measures to protect the loss, misuse, or theft of information under our control. All transactions are protected by McAfee and VeriSign, the world-renowned online security company, ensuring as far as possible that every transaction is 100% safe.
 
 ### 3\. What if I hit a link to another site from Romwe.com?
 
