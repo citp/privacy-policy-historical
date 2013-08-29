@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the romwe.com privacy policy that was archived on 2013-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130629043448id_/http%3A//www.romwe.com/Privacy-Security-ezp-11.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the romwe.com privacy policy that was archived on 2013-08-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130829022844id_/http%3A//www.romwe.com/Privacy-Security-ezp-85.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en"><head>
 <title>Privacy Security The Latest Street Fashion Online, Women Fashion Store | ROMWE</title>
@@ -52,9 +52,6 @@
   })();
 </script>
 
-<!-- taobao sdk -->
-<script src="http://l.tbcdn.cn/apps/top/x/sdk.js?appkey=21559277"></script>
-
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -81,9 +78,13 @@
 <!--bof 首页导航css-->
 <link rel="stylesheet" type="text/css" href="includes/templates/bleubirtheme/css/muludaohang.css">
 <!--eof 首页导航css-->
+
+
 <!--bof ajax动态获取右上角导航，配合nginx缓存所做-->
+<div id="fb-root"></div>
 <script>
 $(document).ready(function(){	
+
     var xmlhttp;
     if (window.XMLHttpRequest)
     {// code for IE7+, Firefox, Chrome, Opera, Safari
@@ -97,12 +98,34 @@ $(document).ready(function(){
     {
         if (xmlhttp.readyState==4 && xmlhttp.status==200)
         {
-            document.getElementById("dongtai").innerHTML=xmlhttp.responseText;
+        		var header_html = xmlhttp.responseText;
+        		header_html = eval('('+header_html+')');
+        		var header_html_arr = new Array();
+        		for(var i in header_html){
+        			header_html_arr.push(header_html[i]);
+        		}
+            document.getElementById("dongtai").innerHTML=header_html_arr[0];
+            eval(header_html_arr[1]);
         }
     }
     //  alert(id);alert(value);
     xmlhttp.open("GET","/selectdongtai.php",true);
     xmlhttp.send();
+
+    //左边导航的显示显出效果start
+       $("nav .nav1").hover(
+       	function(){
+        	$(this).children(".collection").show();
+        	$(this).addClass("romv_nav_div_nav1");
+        	$(this).children(".nav3").css({"background":"#fff", "color":"#000"});
+        },
+        function(){
+        	$(this).children(".collection").hide();
+        	$(this).removeClass("romv_nav_div_nav1");
+        	$(this).children(".nav3").css({"background":"", "color":"#7d7d7d"});
+      	}
+      );
+    //左边导航的显示显出效果end
 });
 </script>
 <!--eof ajax动态获取右上角导航，配合nginx缓存所做-->
@@ -112,39 +135,66 @@ $(document).ready(function(){
 <!-- heard -->
 <table id="header">
   <tbody><tr>
-    <td style="padding:0;"><a href="http://www.romwe.com" style="float:left;" title="Back to the Home Page"><img style="padding-bottom:5px;" src="images/other/romwe.jpg" alt="romwe"> </a> </td>
-    <td style="padding:0;"><div>
+    <td style="padding: 34px 0px 10px 0px;"><a href="http://www.romwe.com" style="float:left;" title="Back to the Home Page"><img src="images/other/romwe.png" alt="romwe"></a></td>
+    <td style="padding:34px 0px 0px 0px;"><div>
         <!--bof 动态展示右上角购物车内容的div-->
-        <div id="dongtai" style="float:right;"></div>
+        <style>
+        #dongtai a{color:#666;}
+        #dongtai a:hover{color:#000;}
+        </style>
+        <div id="dongtai" style="height:21px; line-height:21px; float:right;"></div>
+        <style type="text/css">
+        .slt_dt_shopcart{ height:20px; line-height:20px; width:102px; text-align:center;}
+        #shopcart_tab{width:100%; font-size:12px; margin:0; padding:0;}
+        #shopcart_tab td{ margin:0; padding:0; vertical-align:top;}
+        #shopcart_tab ul{margin:0; padding:0; width:100%;}
+        .shopping_cart_border{border:1px solid #aaa;border-bottom:none; width:100px; height:19px; line-height:19px;}
+        .nav1{height:20px; line-height:20px; position:relative; z-index:500;}
+        .romv_nav_div_nav1{border:1px solid #a9a9a9; border-right:none; height:18px; line-height:18px;}
+        </style>
+        <script type="text/javascript">
+        function hide_shopping_cart(){
+        	$("#show_shopping_cart").removeClass("shopping_cart_border");
+		      $("#shopping_cart_list").hide();
+        }
+        </script>
         <!--eof 动态展示右上角购物车内容的div-->
+        <div style="clear: both"></div>
       </div>
-      <div style="float:right;padding-top:10px;">
-        <div style="float:left;padding-top:2px;">
+      <div style="float:right;padding-top:8px;padding-bottom:10px;">
+        <div style="float:left;padding-top:5px;"><!--padding-left:50px\9;是针对IE8+的hank-->
           <!--bof 汇率显示table-->
           <table cellpadding="0" cellspacing="0" style="padding-left:50px;margin:0px;">
             <tbody><tr>
-              <td style="font-size:12px;padding-left: 27px;padding-top:0px;padding-bottom:0px;padding-right:5px;">Currency:</td>
-              <td style="padding-right: 0px;padding-top:0px;padding-bottom:0px;padding-left:0px;">                <form name="currencies" action="http://www.romwe.com/" method="get">                                <select name="currency" class="jamp" style="margin:0px;padding-top:1px;padding-bottom:1px;padding-right:1px;padding-left:2px;" onchange="this.form.submit();">
-  <option value="USD" selected="selected">US Dollar</option>
-  <option value="EUR">Euro</option>
-  <option value="GBP">GB Pound</option>
-  <option value="CNY">CNY</option>
+            
+              <td style="font-size:12px;padding-left: 27px;padding-top:0px;padding-bottom:0px;padding-right:5px;color:#666;">Currency:</td>
+              <td style="padding-right: 0px;padding-top:0px;padding-bottom:0px;padding-left:0px;">                <form name="currencies" action="http://www.romwe.com/" method="get">                                <select name="currency" class="jamp" style="margin:0px;padding-top:1px;padding-bottom:1px;padding-right:1px;padding-left:2px;color:#666;" onchange="this.form.submit();">
+  <option value="USD" selected="selected">USD</option>
+  <option value="EUR">EUR</option>
+  <option value="GBP">GBP</option>
+  <option value="AUD">AUD</option>
+  <option value="CAD">CAD</option>
+  <option value="SEK">SEK</option>
+  <option value="PLN">PLN</option>
+  <option value="RUB">RUB</option>
 </select>
-<input type="hidden" name="main_page" value="page"><input type="hidden" name="id" value="11"><input type="hidden" name="name" value="Privacy-Security">                </form>
+<input type="hidden" name="main_page" value="page"><input type="hidden" name="id" value="85"><input type="hidden" name="name" value="Privacy-Security">                </form>
                               </td>
             </tr>
             <tr></tr>
           </tbody></table>
           <!--eof 汇率显示table-->
         </div>
-        <div style="float:right;padding-bottom:2px;padding-left:4px;">
+        <div style="float:left; padding:0px 0px 0px 34px;">
           <!-- bof Comm100 Live Chat Button Code -->
-          <a href="http://www.comm100.com/livechat/" onclick="comm100_Chat();return false;" target="_blank" title="Live Chat for romwe.com" rel="nofollow"><img id="comm100_ButtonImage" src="http://chatserver.comm100.com/BBS.aspx?siteId=96110&amp;planId=473&amp;partnerId=-1" style="border:0px" alt="romwe.com"></a>
+          <a href="http://www.comm100.com/livechat/" onclick="comm100_Chat();return false;" target="_blank" rel="nofollow">
+          <img id="comm100_ButtonImage" src="http://chatserver.comm100.com/BBS.aspx?siteId=96110&amp;planId=473&amp;partnerId=-1" style="border:0px" alt="romwe.com">
+          </a>
           <script src="http://chatserver.comm100.com/js/LiveChat.js?siteId=96110&amp;planId=473&amp;partnerId=-1" type="text/javascript"></script>
           <!-- eof Comm100 Live Chat Button Code -->
         </div>
       </div>
-    
+  
   </td>
   </tr>  
 </tbody></table>
@@ -155,74 +205,78 @@ $(document).ready(function(){
 <table cellpadding="5" cellspacing="5" width="100%" height="26" style="margin-bottom:2px;">
   <tbody><tr style="padding:0px;margin;0px;">
     <td style="padding:0px;margin;0px;"><!--home-->
-      <div style="float:left;"> <a href="http://www.romwe.com" title="HOME"><img src="images/other/Home.jpg" alt="HOME"> </a> </div>
+      <div style="float:left; padding-right:1px;"> <a href="http://www.romwe.com" title="HOME"><img src="images/other/Home.jpg" alt="HOME"> </a> </div>
       <!--home-->
       <div class="header-nav">
-<ul class="ul-02" style="width:101px;">
+<ul class="ul-02" style="width:104px;">
 <li>
-<a href="http://www.romwe.com/index.php?main_page=daily_new" style="padding-top:3px;padding-left:12px;color:#fff;" title="DAILY NEW">DAILY NEW</a>
-<ul class="collection3" style="border:1px solid #000000;"><div class="header-nav-bg"></div><li><a href="http://www.romwe.com/index.php?main_page=products_day_new&amp;day=2013-06-28" style="font-weight:bold;">2013-06-28</a></li><li><a href="http://www.romwe.com/index.php?main_page=products_day_new&amp;day=2013-06-27" style="font-weight:bold;">2013-06-27</a></li><li><a href="http://www.romwe.com/index.php?main_page=products_day_new&amp;day=2013-06-26" style="font-weight:bold;">2013-06-26</a></li><li><a href="http://www.romwe.com/index.php?main_page=products_day_new&amp;day=2013-06-25" style="font-weight:bold;">2013-06-25</a></li><li><a href="http://www.romwe.com/index.php?main_page=products_day_new&amp;day=2013-06-24" style="font-weight:bold;">2013-06-24</a></li><li><a href="http://www.romwe.com/index.php?main_page=products_day_new&amp;day=2013-06-23" style="font-weight:bold;">2013-06-23</a></li><li><a href="http://www.romwe.com/index.php?main_page=products_day_new&amp;day=2013-06-22" style="font-weight:bold;">2013-06-22</a></li><li><a href="http://www.romwe.com/index.php?main_page=products_day_new&amp;day=2013-06-21" style="font-weight:bold;">2013-06-21</a></li><li><a href="http://www.romwe.com/index.php?main_page=products_day_new&amp;day=2013-06-20" style="font-weight:bold;">2013-06-20</a></li><li><a href="http://www.romwe.com/index.php?main_page=products_day_new&amp;day=2013-06-19" style="font-weight:bold;">2013-06-19</a></li></ul>
+<a href="http://www.romwe.com/index.php?main_page=daily_new" style="width:104px; height:24px; line-height:24px; text-align:center; color:#000;font-family:Helvetica;font-size:12px;" title="DAILY NEW">DAILY NEW</a>
+<ul class="collection3" style="border:1px solid #a9a9a9; width:102px;"><li style="height:5px;"></li><li style="line-height:20px;"><a href="http://www.romwe.com/index.php?main_page=products_day_new&amp;day=2013-08-28" style="padding-left:6px; height:20px;">2013-08-28</a></li><li style="line-height:20px;"><a href="http://www.romwe.com/index.php?main_page=products_day_new&amp;day=2013-08-27" style="padding-left:6px; height:20px;">2013-08-27</a></li><li style="line-height:20px;"><a href="http://www.romwe.com/index.php?main_page=products_day_new&amp;day=2013-08-26" style="padding-left:6px; height:20px;">2013-08-26</a></li><li style="line-height:20px;"><a href="http://www.romwe.com/index.php?main_page=products_day_new&amp;day=2013-08-25" style="padding-left:6px; height:20px;">2013-08-25</a></li><li style="line-height:20px;"><a href="http://www.romwe.com/index.php?main_page=products_day_new&amp;day=2013-08-24" style="padding-left:6px; height:20px;">2013-08-24</a></li><li style="line-height:20px;"><a href="http://www.romwe.com/index.php?main_page=products_day_new&amp;day=2013-08-23" style="padding-left:6px; height:20px;">2013-08-23</a></li><li style="line-height:20px;"><a href="http://www.romwe.com/index.php?main_page=products_day_new&amp;day=2013-08-22" style="padding-left:6px; height:20px;">2013-08-22</a></li><li style="line-height:20px;"><a href="http://www.romwe.com/index.php?main_page=products_day_new&amp;day=2013-08-21" style="padding-left:6px; height:20px;">2013-08-21</a></li><li style="line-height:20px;"><a href="http://www.romwe.com/index.php?main_page=products_day_new&amp;day=2013-08-20" style="padding-left:6px; height:20px;">2013-08-20</a></li><li style="line-height:20px;"><a href="http://www.romwe.com/index.php?main_page=products_day_new&amp;day=2013-08-19" style="padding-left:6px; height:20px;">2013-08-19</a></li><li style="height:5px;"></li></ul>
 </li>
 </ul>
 </div><div class="menu"> 
-<ul class="ul-01" style="width:90px;">
-<li><a href="/shop-new-c-38.html?dh" style="padding-left:0px;padding-top:3px;padding-left:15px;color:#fff;font-size:12px;font-weight:bold;" title="APPAREL">APPAREL</a>
-<ul style="width:400px;">
+<ul class="ul-01" style="width:104px;">
+<li><a href="/shop-new-c-38.html?dh" style="width:104px; height:24px; line-height:24px; text-align:center; color:#000;font-size:12px;font-family:Helvetica;" title="APPAREL">APPAREL</a>
+<ul style="width:100%;">
 <li>
 <div class="daohang">
 <div>
-<ul class="ite">
-<div class="header-nav-bg"></div><li><a href="http://www.romwe.com/apparel-tshirt-c-38_62.html?dh">T-shirt</a></li><br><li><a href="http://www.romwe.com/apparel-dress-c-38_64.html?dh">Dress</a></li><br><li><a href="http://www.romwe.com/apparel-spring-dress-c-38_168.html?dh">Spring Dress</a></li><br><li><a href="http://www.romwe.com/apparel-shirt-blouse-c-38_63.html?dh">Shirt / Blouse</a></li><br><li><a href="http://www.romwe.com/apparel-swimwear-c-38_157.html?dh">Swimwear</a></li><br><li><a href="http://www.romwe.com/apparel-lingerie-c-38_210.html?dh">Lingerie</a></li><br><li><a href="http://www.romwe.com/apparel-hoodiespullovers-c-38_167.html?dh">Hoodies/Pullovers</a></li><br><li><a href="http://www.romwe.com/apparel-suits-c-38_68.html?dh">Suits</a></li><br><li><a href="http://www.romwe.com/apparel-cardigansjumpers-c-38_67.html?dh">Cardigans/Jumpers</a></li><br><li><a href="http://www.romwe.com/apparel-coats-jackets-c-38_48.html?dh">Coats / Jackets</a></li><br><li><a href="http://www.romwe.com/apparel-vest-basic-c-38_69.html?dh">Vest / Basic</a></li><br><li><a href="http://www.romwe.com/apparel-skirt-c-38_65.html?dh">Skirt</a></li><br><li><a href="http://www.romwe.com/apparel-jeans-c-38_131.html?dh">Jeans</a></li><br><li><a href="http://www.romwe.com/apparel-pants-c-38_66.html?dh">Pants</a></li><br><li><a href="http://www.romwe.com/apparel-shorts-c-38_128.html?dh">Shorts</a></li><br><li><a href="http://www.romwe.com/apparel-woolen-coats-c-38_162.html?dh">Woolen Coats</a></li><br><li><a href="http://www.romwe.com/apparel-leather-jackets-c-38_163.html?dh">Leather Jackets</a></li><br><li><a href="http://www.romwe.com/apparel-trench-coats-c-38_164.html?dh">Trench Coats</a></li><br><li><a href="http://www.romwe.com/apparel-down-coats-c-38_165.html?dh">Down Coats</a></li><br><li><a href="http://www.romwe.com/apparel-denim-coats-c-38_166.html?dh">Denim Coats</a></li><br></ul>
+<ul class="ite" style="font-size:12px;font-family:Helvetica;border:1px solid #a9a9a9; width:155px;">
+<li style="height:5px;"></li><li style="width:155px; line-height:20px;"><a style="padding-left:11px; height:20px;" href="http://www.romwe.com/apparel-tshirt-c-38_62.html?dh">T-shirt</a></li><br><li style="width:155px; line-height:20px;"><a style="padding-left:11px; height:20px;" href="http://www.romwe.com/apparel-dress-c-38_64.html?dh">Dress</a></li><br><li style="width:155px; line-height:20px;"><a style="padding-left:11px; height:20px;" href="http://www.romwe.com/apparel-spring-dress-c-38_168.html?dh">Spring Dress</a></li><br><li style="width:155px; line-height:20px;"><a style="padding-left:11px; height:20px;" href="http://www.romwe.com/apparel-shirt-blouse-c-38_63.html?dh">Shirt / Blouse</a></li><br><li style="width:155px; line-height:20px;"><a style="padding-left:11px; height:20px;" href="http://www.romwe.com/apparel-swimwear-c-38_157.html?dh">Swimwear</a></li><br><li style="width:155px; line-height:20px;"><a style="padding-left:11px; height:20px;" href="http://www.romwe.com/apparel-bralets-c-38_210.html?dh">Bralets</a></li><br><li style="width:155px; line-height:20px;"><a style="padding-left:11px; height:20px;" href="http://www.romwe.com/apparel-skirt-c-38_65.html?dh">Skirt</a></li><br><li style="width:155px; line-height:20px;"><a style="padding-left:11px; height:20px;" href="http://www.romwe.com/apparel-shorts-c-38_128.html?dh">Shorts</a></li><br><li style="width:155px; line-height:20px;"><a style="padding-left:11px; height:20px;" href="http://www.romwe.com/apparel-hoodiessweatshirts-c-38_167.html?dh">Hoodies/Sweatshirts</a></li><br><li style="width:155px; line-height:20px;"><a style="padding-left:11px; height:20px;" href="http://www.romwe.com/apparel-suits-c-38_68.html?dh">Suits</a></li><br><li style="width:155px; line-height:20px;"><a style="padding-left:11px; height:20px;" href="http://www.romwe.com/apparel-cardigansjumpers-c-38_67.html?dh">Cardigans/Jumpers</a></li><br><li style="width:155px; line-height:20px;"><a style="padding-left:11px; height:20px;" href="http://www.romwe.com/apparel-coats-c-38_48.html?dh">Coats</a></li><br><li style="width:155px; line-height:20px;"><a style="padding-left:11px; height:20px;" href="http://www.romwe.com/apparel-vest-basic-c-38_69.html?dh">Vest / Basic</a></li><br><li style="width:155px; line-height:20px;"><a style="padding-left:11px; height:20px;" href="http://www.romwe.com/apparel-pants-c-38_66.html?dh">Pants</a></li><br><li style="width:155px; line-height:20px;"><a style="padding-left:11px; height:20px;" href="http://www.romwe.com/apparel-jackets-c-38_163.html?dh">Jackets</a></li><br><li style="width:155px; line-height:20px;"><a style="padding-left:11px; height:20px;" href="http://www.romwe.com/apparel-tights-c-38_37.html?dh">Tights</a></li><br><li style="width:155px; line-height:20px;"><a style="padding-left:11px; height:20px;" href="http://www.romwe.com/apparel-leggings-c-38_45.html?dh">Leggings</a></li><br><li style="height:5px;"></li></ul>
 </div></div></li>
 </ul>
 </li> 
 </ul> 
 </div><div class="menu"> 
-<ul class="ul-01" style="width:80px;">
-<li><a href="/jewelry-c-39.html" style="padding-left:0px;padding-top:3px;padding-left:10px;color:#fff;font-size:12px;font-weight:bold;" title="JEWELRY">JEWELRY</a>
-<ul style="box-shadow: 3px 3px 4px #000;">
+<ul class="ul-01" style="width:104px;">
+<li><a href="/jewelry-c-39.html" style="width:104px; height:24px; line-height:24px; text-align:center;color:#000;font-size:12px;font-family:Helvetica;" title="JEWELRY">JEWELRY</a>
+<ul style="width:100%; height:100%;">
 <li>
-<div class="daohang_JEWLRY" style="height:135px;">
-<div style="box-shadow: 3px 3px 4px #000;height:135px;">
-<div class="bg"></div>
-<div class="head_JEWLRY" style="width:120px;">
-<ul class="ite1"><li><a href="http://www.romwe.com/jewelry-necklace-c-39_42.html?dh">Necklace</a></li><br><li><a href="http://www.romwe.com/jewelry-ring-c-39_43.html?dh">Ring</a></li><br><li><a href="http://www.romwe.com/jewelry-earring-c-39_41.html?dh">Earring</a></li><br><li><a href="http://www.romwe.com/jewelry-bracelet-c-39_44.html?dh">Bracelet</a></li><br><li><a href="http://www.romwe.com/jewelry-brooch-c-39_40.html?dh">Brooch</a></li><br></ul>
-</div>
+<div class="daohang">
+<div>
+<ul class="ite" style="font-size:12px;font-family:Helvetica;border:1px solid #a9a9a9; width:102px;">
+<li style="height:5px;"></li><li style="width:102px; line-height:20px;"><a style="padding-left:11px;  height:20px;" href="http://www.romwe.com/jewelry-necklace-c-39_42.html?dh">Necklace</a></li><br><li style="width:102px; line-height:20px;"><a style="padding-left:11px;  height:20px;" href="http://www.romwe.com/jewelry-ring-c-39_43.html?dh">Ring</a></li><br><li style="width:102px; line-height:20px;"><a style="padding-left:11px;  height:20px;" href="http://www.romwe.com/jewelry-earring-c-39_41.html?dh">Earring</a></li><br><li style="width:102px; line-height:20px;"><a style="padding-left:11px;  height:20px;" href="http://www.romwe.com/jewelry-bracelet-c-39_44.html?dh">Bracelet</a></li><br><li style="width:102px; line-height:20px;"><a style="padding-left:11px;  height:20px;" href="http://www.romwe.com/jewelry-brooch-c-39_40.html?dh">Brooch</a></li><br><li style="height:5px;"></li></ul>
 </div></div></li>
 </ul>
 </li> 
 </ul> 
 </div><div class="menu"> 
-<ul class="ul-01" style="width:110px;">
-<li><a href="/accessories-c-36.html" style="padding-left:0px;padding-top:3px;padding-left:15px;color:#fff;font-size:12px;font-weight:bold;" title="ACCESSORY">ACCESSORY</a>
-<ul>
+<ul class="ul-01" style="width:104px;">
+<li><a href="/accessories-c-36.html" style="width:104px; height:24px; line-height:24px; text-align:center;color:#000;font-size:12px;;font-family:Helvetica;">ACCESSORY</a>
+<ul style="width:100%;">
 <li>
-<div class="daohang_JEWLRY">
-<div style="box-shadow: 3px 3px 4px #000;height:300px;background:#fff;">
-<div class="bg"></div>
-<div class="head_JEWLRY" style="width:120px;">
-<ul class="ite1"><li><a href="http://www.romwe.com/accessories-bags-c-36_59.html?dh">Bags</a></li><br><li><a href="http://www.romwe.com/accessories-tights-c-36_37.html?dh">Tights</a></li><br><li><a href="http://www.romwe.com/accessories-shoes-c-36_104.html?dh">Shoes</a></li><br><li><a href="http://www.romwe.com/accessories-boots-c-36_169.html?dh">Boots</a></li><br><li><a href="http://www.romwe.com/accessories-sunglasses-c-36_145.html?dh">Sunglasses</a></li><br><li><a href="http://www.romwe.com/accessories-leggings-c-36_45.html?dh">Leggings</a></li><br><li><a href="http://www.romwe.com/accessories-collars-c-36_151.html?dh">Collars</a></li><br><li><a href="http://www.romwe.com/accessories-scarvessnoods-c-36_135.html?dh">Scarves/Snoods</a></li><br><li><a href="http://www.romwe.com/accessories-hats-c-36_134.html?dh">Hats</a></li><br><li><a href="http://www.romwe.com/accessories-belts-c-36_146.html?dh">Belts</a></li><br><li><a href="http://www.romwe.com/accessories-others-c-36_70.html?dh">Others</a></li><br></ul>	 
-</div>
+<div class="daohang">
+<div>
+<ul class="ite" style="font-size:12px;;font-family:Helvetica;border:1px solid #a9a9a9; width:116px;">
+<li style="height:5px;"></li><li style="width:116px; line-height:20px;"><a style="padding-left:2px; height:20px;" href="http://www.romwe.com/accessories-bags-c-36_59.html?dh">Bags</a></li><br><li style="width:116px; line-height:20px;"><a style="padding-left:2px; height:20px;" href="http://www.romwe.com/accessories-shoes-c-36_104.html?dh">Shoes</a></li><br><li style="width:116px; line-height:20px;"><a style="padding-left:2px; height:20px;" href="http://www.romwe.com/accessories-boots-c-36_169.html?dh">Boots</a></li><br><li style="width:116px; line-height:20px;"><a style="padding-left:2px; height:20px;" href="http://www.romwe.com/accessories-sunglasses-c-36_145.html?dh">Sunglasses</a></li><br><li style="width:116px; line-height:20px;"><a style="padding-left:2px; height:20px;" href="http://www.romwe.com/accessories-collars-c-36_151.html?dh">Collars</a></li><br><li style="width:116px; line-height:20px;"><a style="padding-left:2px; height:20px;" href="http://www.romwe.com/accessories-scarvessnoods-c-36_135.html?dh">Scarves/Snoods</a></li><br><li style="width:116px; line-height:20px;"><a style="padding-left:2px; height:20px;" href="http://www.romwe.com/accessories-hats-c-36_134.html?dh">Hats</a></li><br><li style="width:116px; line-height:20px;"><a style="padding-left:2px; height:20px;" href="http://www.romwe.com/accessories-belts-c-36_146.html?dh">Belts</a></li><br><li style="width:116px; line-height:20px;"><a style="padding-left:2px; height:20px;" href="http://www.romwe.com/accessories-others-c-36_70.html?dh">Others</a></li><br><li style="height:5px;"></li></ul>
 </div></div></li>
 </ul>
 </li> 
 </ul> 
 </div>       <!--bof 头部导航 几个写死在此文件中的目录列表-->
       <!--COLLECTIONS-->
+      <style>
+      .by_romwe_ul{ width:129px;}
+      .by_romwe_ul li{ line-height:20px; width:129px;}
+      .by_romwe_ul li a{ padding-left:8px; height:20px; }
+      .trends_ul{ width:160px;}
+      .trends_ul li{ line-height:20px; width:160px;}
+      .trends_ul li a{ padding-left:14px; height:20px; }
+      </style>
       <div class="header-nav-collection">
         <ul class="ul-03-romwe">
-          <li> <a href="http://www.romwe.com/By-ROMWE-c-201.html" style="padding-top:3px;padding-left:12px;color:#fff;font-size:12px;font-weight:bold;" title="Shop By ROMWE">By ROMWE</a>
-            <ul class="collection4" style="box-shadow: 3px 3px 4px #000;border:1px solid #000000;">
-              <div class="header-nav-bg"></div>
-              <div class="header-nav-bg1"></div>
-              <li><a href="http://www.romwe.com/By-ROMWE-T-shirt-c-201_194.html" title="T-shirts">T-shirts</a></li>
-              <li><a href="http://www.romwe.com/By-ROMWE-Shirt-c-201_195.html" title="Shirts">Shirts</a></li>
-              <li><a href="http://www.romwe.com/By-ROMWE-Dress-c-201_196.html" title="Dresses">Dresses</a></li>
-              <li><a href="http://www.romwe.com/By-ROMWE-Leggings-c-201_45.html" title="Leggings">Leggings</a></li>
-              <li><a href="http://www.romwe.com/By-ROMWE-Hotties-c-201_198.html" title="Hotties">Hotties</a></li>
-              <li><a href="http://www.romwe.com/By-ROMWE-Tights-c-201_37.html" title="Tights">Tights</a></li>
-              <li><a href="http://www.romwe.com/By-ROMWE-Others-c-201_200.html" title="Others">Others</a></li>
-			  <li><a href="http://www.romwe.com/By-ROMWE-Bloggers-Design-c-201_209.html" title="Bloggers Design">Bloggers Design</a></li>
+          <li> <a href="http://www.romwe.com/By-ROMWE-c-201.html" style="width:104px; height:24px; line-height:24px; text-align:center;color:#E9473F;font-size:12px;font-family:Helvetica;">By ROMWE</a>
+            <ul class="collection4 by_romwe_ul" style="box-shadow: 2px 2px 3px #808080;border:1px solid #a9a9a9;">
+              <li style="padding-top:5px;"><a href="http://www.romwe.com/By-ROMWE-T-shirt-c-201_194.html">T-shirts</a></li>
+              <li><a href="http://www.romwe.com/By-ROMWE-Dress-c-201_196.html">Dresses</a></li>
+              <li><a href="http://www.romwe.com/By-ROMWE-Shirt-c-201_195.html">Shirts</a></li>              
+              <li><a href="http://www.romwe.com/By-ROMWE-Leggings-c-201_45.html">Leggings</a></li>
+              <li><a href="http://www.romwe.com/By-ROMWE-Hoodies-c-201_236.html">Hoodies</a></li>
+              <li><a href="http://www.romwe.com/By-ROMWE-Hotties-c-201_198.html">Hotties</a></li>
+              <li><a href="http://www.romwe.com/By-ROMWE-Tights-c-201_37.html">Tights</a></li>
+              <li><a href="http://www.romwe.com/By-ROMWE-Others-c-201_200.html">Others</a></li>
+							<li><a href="http://www.romwe.com/By-ROMWE-Bloggers-Design-c-201_209.html">Bloggers Design</a></li>
+							<li style="padding-bottom:5px;"><a href="http://www.romwe.com/By-ROMWE-Romwer-c-201_237.html">Romwer</a></li>
             </ul>
           </li>
         </ul>
@@ -230,28 +284,22 @@ $(document).ready(function(){
 	  <!--COLLECTIONS-->
       <!--TRENDS-->
       <div class="header-nav-collection">
-        <ul class="ul-03" style="width:100px;">
-          <li> <a href="http://www.romwe.com/trends.html " rel="nofollow" style="padding-top:3px;padding-left:23px;color:#fff;font-size:12px;font-weight:bold;" title="Shop By TRENDS">TRENDS</a>
-            <ul class="collection4" style="box-shadow: 3px 3px 4px #000;border:1px solid #000000;width:300px">
-              <div class="header-nav-bg"></div>
-              <div class="header-nav-bg1"></div>
-              <li style="width:300px"><a href="./Get-The-Essentials-c-76.html" title="Get The Essentials">Get The Essentials</a></li>
-              <li style="width:300px"><a href="./ROMWE%27S-OWN-LABEL-DRESSES-c-188.html" title="ROMWE'S OWN LABEL DRESSES">ROMWE'S OWN LABEL DRESSES</a></li>
-              <li style="width:300px"><a href="./accessories-leggings-c-36_45.html" title="ROMWE LEGGING COLLECTION">ROMWE LEGGING COLLECTION</a></li>
-              <li style="width:300px"><a href="./Back-In-Stock-c-171.html" title="Back In Stock">Back In Stock</a></li>
-              <li style="width:300px"><a href="./PRETTY-LITTLE-THINGS-c-175.html" title="PRETTY LITTLE THINGS">PRETTY LITTLE THINGS</a></li>
-              <li style="width:300px"><a href="./Edited-by-Jennifer-Im-ezp-82.html" title="Edited by Jennifer Im">Edited by Jennifer Im</a></li>
-              <li style="width:300px"><a href="./Flavia-D's-Wardrobe-ezp-79.html" title="Flavia D's Wardrobe">Flavia D's Wardrobe</a></li>
-              <li style="width:300px"><a href="./DECO-BEAUTY-c-182.html" title="DECO BEAUTY">DECO BEAUTY</a></li>
+        <ul class="ul-03" style="width:104px;">
+          <li> <a href="http://www.romwe.com/trends.html" rel="nofollow" style="width:104px; height:24px; line-height:24px; text-align:center;color:#000;font-size:12px;font-family:Helvetica;">TRENDS</a>
+            <ul class="collection4 trends_ul" style="box-shadow: 2px 2px 3px #808080;border:1px solid #a9a9a9;">                   
+              <li style="padding-top:5px;"><a href="./Get-The-Essentials-c-76.html">Get The Essentials</a></li>             
+              <li><a href="./apparel-leggings-c-38_45.html">Romwe Leggings</a></li>            
+              <li><a href="./Back-In-Stock-c-171.html">Back In Stock</a></li>          
+       				<li style="padding-bottom:5px;"><a href="./PRETTY-LITTLE-THINGS-c-175.html">Pretty Little Things</a></li>
             </ul>
           </li>
         </ul>
       </div>
       <!--TREND-->
       <!--OUTFIT-->
-      <div class="header-nav-collection" style=";padding-right:3px;">
-        <ul class="ul-03" style="width:90px;">
-          <li> <a href="./outfit-4-m-a.html" style="padding-top:3px;padding-left:20px;color:#fff;font-size:12px;font-weight:bold;" title="OUTFIT">OUTFIT </a> </li>
+      <div class="header-nav-collection" style=";padding-right:0px;">
+        <ul class="ul-03" style="width:104px;">
+          <li> <a href="./outfit-4-m-a.html" style="padding:3px 30px;color:#000;font-size:12px;font-family:Helvetica;">OUTFIT </a> </li>
         </ul>
       </div>
       <!--OUTFIT-->
@@ -259,14 +307,14 @@ $(document).ready(function(){
       <!--bof 头部导航 中的搜索框-->
       <!--Search-->
       <div style="float:right;">
-        <div style="height: 25px; float: left;">
+        <div style="height: 24px; float: left;">
           <li style="list-style:none;">
             <form class="search_form" action="index.php?main_page=advanced_search" method="get">
               <fieldset style="margin:0px;padding:0px;">
               <input type="hidden" name="main_page" value="advanced_search_result">
               <input type="hidden" name="inc_subcat" value="1" style="display: none">
               <input type="hidden" name="search_in_description" value="1">
-              <input type="text" style="margin-right: 0;" class="span-4 standout small" name="keyword" value="" id="keyword" onfocus="if(this.value == 'SEARCH BY KEYWORD') { this.value = '' }">
+              <input type="text" style="margin-right: 0;width: 160px; font-family: Helvetica; color:#9fa0a0;font-size: 12px;" class="span-4 standout small" name="keyword" value="" id="keyword" onfocus="if(this.value == 'PRODUCT NAME OR CORE') { this.value = '' }">
               <input type="image" class="submit_button small" style="float: left; margin:0;padding:0px;" src="images/other/search.png" value="Search">
               </fieldset>
             </form>
@@ -279,9 +327,9 @@ $(document).ready(function(){
   </tr>
 </tbody></table>
 <!--bof 如果main_page不是outfit，而且不是giveaway 显示freeshipping图标以及注册获取coupon图标-->
-<table cellpadding="5" cellspacing="5" width="100%" height="30" style="margin-bottom:3px;">
+<table cellpadding="5" cellspacing="5" width="100%" height="30" style="margin-bottom:8px;">
   <tbody><tr>
-    <td style="padding:0;"><a href="./Free-Shipping-Worldwide-ezp-1.html" rel="nofollow" title="Free Shipping Worldwide"> <img style="float:left;" src="images/banners/home/FREESHIPPING.jpg"></a> <a href="./Use-the-Coupon-Code-ezp-44.html" rel="nofollow" title="Sign Up To Get 20% Coupon"> <img style="float:left;" src="images/banners/home/REG.jpg"></a>  </td>
+    <td style="padding:0;"><a href="./Free-Shipping-Worldwide-ezp-1.html" rel="nofollow" title="Free Shipping Worldwide"> <img style="float:left;" src="images/banners/home/FREESHIPPING.png"></a> <a href="./Use-the-Coupon-Code-ezp-44.html" rel="nofollow" title="Sign Up To Get 20% Coupon"> <img style="float:left;" src="images/banners/home/REG.png"></a>  </td>
   </tr>
 </tbody></table>
 <!--eof 如果main_page不是outfit，而且不是giveaway 显示freeshipping图标以及注册获取coupon图标-->
@@ -289,7 +337,7 @@ $(document).ready(function(){
 <!--bof 首页下的左侧目录以及中间海报效果，其实就是整个首页内容-->
   <!-- bof 定义除产品页，或者搭配页，或者giveaway页，首页之外的页面内容-->
   <!-- bof 面包屑-->
-  <div style="font-size:12px;font-weight:700;"> <b>Location:</b>&nbsp;&nbsp;   <a href="http://www.romwe.com/">Home</a> &nbsp;&nbsp;&gt;&nbsp;&nbsp; 
+  <div style="font-size:12px;"> <b>Location:</b>&nbsp;&nbsp;   <a href="http://www.romwe.com/">Home</a> &nbsp;&nbsp;&gt;&nbsp;&nbsp; 
 Privacy &amp; Security &nbsp;&nbsp;&gt;&nbsp;&nbsp; 
 Privacy &amp; Security
     <hr>
@@ -298,83 +346,112 @@ Privacy &amp; Security
   <div id="content" class="span-24">
     <div id="collection">
       <!--bof menu left -->
+<style>
+.collection_hover a{color:#666;}
+.collection_hover a:hover{color:#000;}
+</style>
+<div class="span-4" style="position:relative; z-index:50; background:#fff;">
+  <nav id="collection_menu" style="text-transform: none; ">
+    <div id="collection_item4" class="collection_hover" style="font-size:10px;"> <a href="http://www.romwe.com/By-ROMWE-c-201.html"> <b>ROMWE&nbsp;®&nbsp;Design</b></a>
+      <ul>
+        <li class="collection_item collection_hover"> <a href="http://www.romwe.com/By-ROMWE-T-shirt-c-201_194.html">ROMWE&nbsp;®&nbsp;T-shirts</a></li>
+        <li class="collection_item collection_hover"> <a href="http://www.romwe.com/By-ROMWE-Dress-c-201_196.html">ROMWE&nbsp;®&nbsp;Dresses</a></li>
+        <li class="collection_item collection_hover"> <a href="http://www.romwe.com/By-ROMWE-Shirt-c-201_195.html">ROMWE&nbsp;®&nbsp;Shirts</a></li>        
+        <li class="collection_item collection_hover"> <a href="http://www.romwe.com/By-ROMWE-Leggings-c-201_45.html">ROMWE&nbsp;®&nbsp;Leggings</a></li>
+        <li class="collection_item collection_hover"> <a href="http://www.romwe.com/By-ROMWE-Hoodies-c-201_236.html">ROMWE&nbsp;®&nbsp;Hoodies</a></li>
+        <li class="collection_item collection_hover"> <a href="http://www.romwe.com/By-ROMWE-Hotties-c-201_198.html">ROMWE&nbsp;®&nbsp;Hotties</a></li>
+        <li class="collection_item collection_hover"> <a href="http://www.romwe.com/By-ROMWE-Tights-c-201_37.html">ROMWE&nbsp;®&nbsp;Tights</a></li>
+        <li class="collection_item collection_hover"> <a href="http://www.romwe.com/By-ROMWE-Others-c-201_200.html">ROMWE&nbsp;®&nbsp;Others</a></li>
+				<li class="collection_item collection_hover"> <a href="http://www.romwe.com/By-ROMWE-Bloggers-Design-c-201_209.html">ROMWE&nbsp;®&nbsp;Bloggers</a></li>
+				<li class="collection_item collection_hover"> <a href="http://www.romwe.com/By-ROMWE-Romwer-c-201_237.html">ROMWE&nbsp;®&nbsp;Romwer</a></li>
+      </ul>
+    </div>
 
-<div class="span-4">
-  <nav id="collection_menu" style="text-transform: none;">
-    <div id="collection_item4" style="font-size:13px;"> <a href="http://www.romwe.com/By-ROMWE-c-201.html" title="ROMWE Design"> <b>ROMWE®&nbsp;Design</b></a>
-      <ul>
-        <li class="collection_item" style="font-size:12px;"> <a href="http://www.romwe.com/By-ROMWE-T-shirt-c-201_194.html" title="ROMWE T-shirts">ROMWE®&nbsp;T-shirts</a></li>
-        <li class="collection_item" style="font-size:12px;"> <a href="http://www.romwe.com/By-ROMWE-Shirt-c-201_195.html" title="ROMWE Shirts">ROMWE®&nbsp;Shirts</a></li>
-        <li class="collection_item" style="font-size:12px;"> <a href="http://www.romwe.com/By-ROMWE-Dress-c-201_196.html" title="ROMWE Dresses">ROMWE®&nbsp;Dresses</a></li>
-        <li class="collection_item" style="font-size:12px;"> <a href="http://www.romwe.com/By-ROMWE-Leggings-c-201_45.html" title="ROMWE Leggings">ROMWE®&nbsp;Leggings</a></li>
-        <li class="collection_item" style="font-size:12px;"> <a href="http://www.romwe.com/By-ROMWE-Hotties-c-201_198.html" title="ROMWE Hotties">ROMWE®&nbsp;Hotties</a></li>
-        <li class="collection_item" style="font-size:12px;"> <a href="http://www.romwe.com/By-ROMWE-Tights-c-201_37.html" title="ROMWE Tights">ROMWE®&nbsp;Tights</a></li>
-        <li class="collection_item" style="font-size:12px;"> <a href="http://www.romwe.com/By-ROMWE-Others-c-201_200.html" title="ROMWE Others">ROMWE®&nbsp;Others</a></li>
-		<li class="collection_item" style="font-size:12px;"> <a href="http://www.romwe.com/By-ROMWE-Bloggers-Design-c-201_209.html" title="ROMWE Bloggers">ROMWE®&nbsp;Bloggers</a></li>
-      </ul>
-    </div>
-		<hr style="color:#888; height:1px;margin:0px;">
+  </nav>
+
+  <nav id="collection_menu" style="text-transform: none; padding-top: 7px; border-top:1px #888 solid ">
+    <div class="collection_hover" id="collection_item4" style="font-size:10px; line-height: 21px;"> <a href="./Buyer's-Pick-c-118.html"> <b> Buyer's Pick </b> </a> </div>
   </nav>
   <nav id="collection_menu" style="text-transform: none;">
-    <div id="collection_item4" style="font-size:13px;"> <a href="./Buyer's-Pick-c-118.html" title="Buyer's Pick"> <b> Buyer's Pick </b> </a> </div>
+    <div class="collection_hover" id="collection_item4" style="font-size:10px; line-height: 21px;"> <a href="Best-Sellers-c-123.html"> <b> Best Sellers </b> </a> </div>
   </nav>
   <nav id="collection_menu" style="text-transform: none;">
-    <div id="collection_item4" style="font-size:13px;"> <a href="Best-Sellers-c-123.html" title="Best Sellers"> <b> Best Sellers </b> </a> </div>
+    <div id="collection_item4" style="font-size:10px; line-height: 21px;padding:0;"> <a href="./SALE-c-150.html"> <font style="color:#E9473F;"> <b> SALE </b> </font> </a> </div>
   </nav>
-  <nav id="collection_menu" style="text-transform: none;">
-    <div id="collection_item4" style="font-size:13px;"> <a href="./SALE-c-150.html" title="SALE"> <font style="color:#ff2330;"> <b> SALE </b> </font> </a> </div>
-  </nav>
-  <nav id="collection_menu" style="text-transform: none;border-bottom:1px solid #888;">
-    <div id="collection_item4" style="font-size:13px;"> <a href="products_new.html" title="New In"> <b> New In </b> </a>
-      <hr style="color:#888; height:1px;margin:0px;">
-      <ul>
-        <li class="collection_item" style="font-size:12px;"> <a href="list-id-38-date-7.html" title="New In Apparel"> Apparel </a> </li>
-        <li class="collection_item" style="font-size:12px;"> <a href="list-id-39-date-30.html" title="New In Jewelry"> Jewelry </a> </li>
-        <li class="collection_item" style="font-size:12px;"> <a href="list-id-36-date-7.html" title="New In Accessories"> Accessories </a> </li>
-      </ul>
+
+  <nav id="collection_menu" style="text-transform: none; padding: 0 0px 9px 0px;border-bottom:1px #888 solid ;">
+    <div class="collection_hover" id="collection_item4" style="font-size:10px; "> <a href="products_new.html"> <b> New In </b> </a>
     </div>
   </nav>
+         
   <nav id="collection_menu" style="text-transform: none;">
-    <div id="collection_item4" style="font-size:13px;"><a href="http://www.romwe.com/apparel-c-38.html"><b>Apparel</b>
-		</a></div><ul><li class="collection_item" style="font-size:12px;"><a href="http://www.romwe.com/apparel-tshirt-c-38_62.html">T-shirt</a></li>
-<li class="collection_item" style="font-size:12px;"><a href="http://www.romwe.com/apparel-dress-c-38_64.html">Dress</a></li>
-<li class="collection_item" style="font-size:12px;"><a href="http://www.romwe.com/apparel-spring-dress-c-38_168.html">Spring Dress</a></li>
-<li class="collection_item" style="font-size:12px;"><a href="http://www.romwe.com/apparel-shirt-blouse-c-38_63.html">Shirt / Blouse</a></li>
-<li class="collection_item" style="font-size:12px;"><a href="http://www.romwe.com/apparel-swimwear-c-38_157.html">Swimwear</a></li>
-<li class="collection_item" style="font-size:12px;"><a href="http://www.romwe.com/apparel-lingerie-c-38_210.html">Lingerie</a></li>
-<li class="collection_item" style="font-size:12px;"><a href="http://www.romwe.com/apparel-hoodiespullovers-c-38_167.html">Hoodies/Pullovers</a></li>
-<li class="collection_item" style="font-size:12px;"><a href="http://www.romwe.com/apparel-suits-c-38_68.html">Suits</a></li>
-<li class="collection_item" style="font-size:12px;"><a href="http://www.romwe.com/apparel-cardigansjumpers-c-38_67.html">Cardigans/Jumpers</a></li>
-<li class="collection_item" style="font-size:12px;"><a href="http://www.romwe.com/apparel-coats-jackets-c-38_48.html">Coats / Jackets</a></li>
-<li class="collection_item" style="font-size:12px;"><a href="http://www.romwe.com/apparel-vest-basic-c-38_69.html">Vest / Basic</a></li>
-<li class="collection_item" style="font-size:12px;"><a href="http://www.romwe.com/apparel-skirt-c-38_65.html">Skirt</a></li>
-<li class="collection_item" style="font-size:12px;"><a href="http://www.romwe.com/apparel-jeans-c-38_131.html">Jeans</a></li>
-<li class="collection_item" style="font-size:12px;"><a href="http://www.romwe.com/apparel-pants-c-38_66.html">Pants</a></li>
-<li class="collection_item" style="font-size:12px;"><a href="http://www.romwe.com/apparel-shorts-c-38_128.html">Shorts</a></li>
-<li class="collection_item" style="font-size:12px;"><a href="http://www.romwe.com/apparel-woolen-coats-c-38_162.html">Woolen Coats</a></li>
-<li class="collection_item" style="font-size:12px;"><a href="http://www.romwe.com/apparel-leather-jackets-c-38_163.html">Leather Jackets</a></li>
-<li class="collection_item" style="font-size:12px;"><a href="http://www.romwe.com/apparel-trench-coats-c-38_164.html">Trench Coats</a></li>
-<li class="collection_item" style="font-size:12px;"><a href="http://www.romwe.com/apparel-down-coats-c-38_165.html">Down Coats</a></li>
-<li class="collection_item" style="font-size:12px;"><a href="http://www.romwe.com/apparel-denim-coats-c-38_166.html">Denim Coats</a></li>
-</ul><div id="collection_item19" style="font-size:13px;"><a href="http://www.romwe.com/accessories-c-36.html"><b>Accessories</b>
-		</a></div><ul><li class="collection_item" style="font-size:12px;"><a href="http://www.romwe.com/accessories-bags-c-36_59.html">Bags</a></li>
-<li class="collection_item" style="font-size:12px;"><a href="http://www.romwe.com/accessories-tights-c-36_37.html">Tights</a></li>
-<li class="collection_item" style="font-size:12px;"><a href="http://www.romwe.com/accessories-shoes-c-36_104.html">Shoes</a></li>
-<li class="collection_item" style="font-size:12px;"><a href="http://www.romwe.com/accessories-boots-c-36_169.html">Boots</a></li>
-<li class="collection_item" style="font-size:12px;"><a href="http://www.romwe.com/accessories-sunglasses-c-36_145.html">Sunglasses</a></li>
-<li class="collection_item" style="font-size:12px;"><a href="http://www.romwe.com/accessories-leggings-c-36_45.html">Leggings</a></li>
-<li class="collection_item" style="font-size:12px;"><a href="http://www.romwe.com/accessories-collars-c-36_151.html">Collars</a></li>
-<li class="collection_item" style="font-size:12px;"><a href="http://www.romwe.com/accessories-scarvessnoods-c-36_135.html">Scarves/Snoods</a></li>
-<li class="collection_item" style="font-size:12px;"><a href="http://www.romwe.com/accessories-hats-c-36_134.html">Hats</a></li>
-<li class="collection_item" style="font-size:12px;"><a href="http://www.romwe.com/accessories-belts-c-36_146.html">Belts</a></li>
-<li class="collection_item" style="font-size:12px;"><a href="http://www.romwe.com/accessories-others-c-36_70.html">Others</a></li>
-</ul><div id="collection_item26" style="font-size:13px;"><a href="http://www.romwe.com/jewelry-c-39.html"><b>Jewelry</b>
-		</a></div><ul><li class="collection_item" style="font-size:12px;"><a href="http://www.romwe.com/jewelry-necklace-c-39_42.html">Necklace</a></li>
-<li class="collection_item" style="font-size:12px;"><a href="http://www.romwe.com/jewelry-ring-c-39_43.html">Ring</a></li>
-<li class="collection_item" style="font-size:12px;"><a href="http://www.romwe.com/jewelry-earring-c-39_41.html">Earring</a></li>
-<li class="collection_item" style="font-size:12px;"><a href="http://www.romwe.com/jewelry-bracelet-c-39_44.html">Bracelet</a></li>
-<li class="collection_item" style="font-size:12px;"><a href="http://www.romwe.com/jewelry-brooch-c-39_40.html">Brooch</a></li>
-</ul>    
+    <div id="collection_item12" style="font-size:10px;padding-top:7px; margin-bottom:5px; border-bottom:1px solid #888;" class="nav2"><a href="http://www.romwe.com/apparel-c-38.html"><b>Apparel</b>
+		</a><ul class="collection"><li class="collection_item" style="font-size:10px;"><a href="http://www.romwe.com/apparel-tshirt-c-38_62.html">T-shirt</a></li>
+<li class="collection_item" style="font-size:10px;"><a href="http://www.romwe.com/apparel-dress-c-38_64.html">Dress</a></li>
+<li class="collection_item" style="font-size:10px;"><a href="http://www.romwe.com/apparel-spring-dress-c-38_168.html">Spring Dress</a></li>
+<li class="collection_item" style="font-size:10px;"><a href="http://www.romwe.com/apparel-shirt-blouse-c-38_63.html">Shirt / Blouse</a></li>
+<li class="collection_item" style="font-size:10px;"><a href="http://www.romwe.com/apparel-swimwear-c-38_157.html">Swimwear</a></li>
+<li class="collection_item" style="font-size:10px;"><a href="http://www.romwe.com/apparel-bralets-c-38_210.html">Bralets</a></li>
+<li class="collection_item" style="font-size:10px;"><a href="http://www.romwe.com/apparel-skirt-c-38_65.html">Skirt</a></li>
+<li class="collection_item" style="font-size:10px;"><a href="http://www.romwe.com/apparel-shorts-c-38_128.html">Shorts</a></li>
+<li class="collection_item" style="font-size:10px;"><a href="http://www.romwe.com/apparel-hoodiessweatshirts-c-38_167.html">Hoodies/Sweatshirts</a></li>
+<li class="collection_item" style="font-size:10px;"><a href="http://www.romwe.com/apparel-suits-c-38_68.html">Suits</a></li>
+<li class="collection_item" style="font-size:10px;"><a href="http://www.romwe.com/apparel-cardigansjumpers-c-38_67.html">Cardigans/Jumpers</a></li>
+<li class="collection_item" style="font-size:10px;"><a href="http://www.romwe.com/apparel-coats-c-38_48.html">Coats</a></li>
+<li class="collection_item" style="font-size:10px;"><a href="http://www.romwe.com/apparel-vest-basic-c-38_69.html">Vest / Basic</a></li>
+<li class="collection_item" style="font-size:10px;"><a href="http://www.romwe.com/apparel-pants-c-38_66.html">Pants</a></li>
+<li class="collection_item" style="font-size:10px;"><a href="http://www.romwe.com/apparel-jackets-c-38_163.html">Jackets</a></li>
+<li class="collection_item" style="font-size:10px;"><a href="http://www.romwe.com/apparel-tights-c-38_37.html">Tights</a></li>
+<li class="collection_item" style="font-size:10px;"><a href="http://www.romwe.com/apparel-leggings-c-38_45.html">Leggings</a></li>
+</ul></div><div id="collection_item41" style="font-size:10px; width:133px;" class="nav1"><a class="nav3" style="display:block; position:relative; z-index:500;" href="http://www.romwe.com/accessories-c-36.html"><b>Accessories</b>
+		</a><ul class="collection"><li class="collection_item" style="font-size:10px;"><a href="http://www.romwe.com/accessories-bags-c-36_59.html">Bags</a></li>
+<li class="collection_item" style="font-size:10px;"><a href="http://www.romwe.com/accessories-shoes-c-36_104.html">Shoes</a></li>
+<li class="collection_item" style="font-size:10px;"><a href="http://www.romwe.com/accessories-boots-c-36_169.html">Boots</a></li>
+<li class="collection_item" style="font-size:10px;"><a href="http://www.romwe.com/accessories-sunglasses-c-36_145.html">Sunglasses</a></li>
+<li class="collection_item" style="font-size:10px;"><a href="http://www.romwe.com/accessories-collars-c-36_151.html">Collars</a></li>
+<li class="collection_item" style="font-size:10px;"><a href="http://www.romwe.com/accessories-scarvessnoods-c-36_135.html">Scarves/Snoods</a></li>
+<li class="collection_item" style="font-size:10px;"><a href="http://www.romwe.com/accessories-hats-c-36_134.html">Hats</a></li>
+<li class="collection_item" style="font-size:10px;"><a href="http://www.romwe.com/accessories-belts-c-36_146.html">Belts</a></li>
+<li class="collection_item" style="font-size:10px;"><a href="http://www.romwe.com/accessories-others-c-36_70.html">Others</a></li>
+</ul></div><div id="collection_item51" style="font-size:10px; width:133px;" class="nav1"><a class="nav3" style="display:block; position:relative; z-index:500;" href="http://www.romwe.com/jewelry-c-39.html"><b>Jewelry</b>
+		</a><ul class="collection"><li class="collection_item" style="font-size:10px;"><a href="http://www.romwe.com/jewelry-necklace-c-39_42.html">Necklace</a></li>
+<li class="collection_item" style="font-size:10px;"><a href="http://www.romwe.com/jewelry-ring-c-39_43.html">Ring</a></li>
+<li class="collection_item" style="font-size:10px;"><a href="http://www.romwe.com/jewelry-earring-c-39_41.html">Earring</a></li>
+<li class="collection_item" style="font-size:10px;"><a href="http://www.romwe.com/jewelry-bracelet-c-39_44.html">Bracelet</a></li>
+<li class="collection_item" style="font-size:10px;"><a href="http://www.romwe.com/jewelry-brooch-c-39_40.html">Brooch</a></li>
+</ul></div><div id="collection_item54" style="font-size:10px; width:133px;" class="nav1"><a class="nav3" style="display:block; position:relative; z-index:500;" href="http://www.romwe.com/makeup-supply-c-241.html"><b>Makeup Supply</b>
+		</a><ul class="collection"><li class="collection_item" style="font-size:10px;"><a href="http://www.romwe.com/makeup-supply-eye-makeup-c-241_255.html">Eye Makeup</a></li>
+<li class="collection_item" style="font-size:10px;"><a href="http://www.romwe.com/makeup-supply-face-makeup-c-241_257.html">Face Makeup</a></li>
+<li class="collection_item" style="font-size:10px;"><a href="http://www.romwe.com/makeup-supply-lip-makeup-c-241_256.html">Lip Makeup</a></li>
+<li class="collection_item" style="font-size:10px;"><a href="http://www.romwe.com/makeup-supply-makeup-tool-c-241_258.html">Makeup Tool</a></li>
+</ul></div><div id="collection_item56" style="font-size:10px; width:133px;" class="nav1"><a class="nav3" style="display:block; position:relative; z-index:500;" href="http://www.romwe.com/health-care-c-259.html"><b>Health Care</b>
+		</a><ul class="collection"><li class="collection_item" style="font-size:10px;"><a href="http://www.romwe.com/health-care-massagers-c-259_260.html">Massagers</a></li>
+<li class="collection_item" style="font-size:10px;"><a href="http://www.romwe.com/health-care-skin-care-c-259_261.html">Skin Care</a></li>
+<li class="collection_item" style="font-size:10px;"><a href="http://www.romwe.com/health-care-shavers-and-hair-removal-c-259_262.html">Shavers and Hair Removal</a></li>
+</ul></div><div id="collection_item58" style="font-size:10px; width:133px;" class="nav1"><a class="nav3" style="display:block; position:relative; z-index:500;" href="http://www.romwe.com/nails-care-c-265.html"><b>Nails Care</b>
+		</a><ul class="collection"><li class="collection_item" style="font-size:10px;"><a href="http://www.romwe.com/nails-care-nail-sticker-c-265_266.html">Nail Sticker</a></li>
+<li class="collection_item" style="font-size:10px;"><a href="http://www.romwe.com/nails-care-nail-polish-c-265_267.html">Nail Polish</a></li>
+<li class="collection_item" style="font-size:10px;"><a href="http://www.romwe.com/nails-care-nail-tips-c-265_268.html">Nail Tips</a></li>
+<li class="collection_item" style="font-size:10px;"><a href="http://www.romwe.com/nails-care-nail-art-flowers-c-265_269.html">Nail Art Flowers</a></li>
+<li class="collection_item" style="font-size:10px;"><a href="http://www.romwe.com/nails-care-rhinestones-c-265_270.html">Rhinestones</a></li>
+<li class="collection_item" style="font-size:10px;"><a href="http://www.romwe.com/nails-care-glitter-c-265_272.html">Glitter</a></li>
+<li class="collection_item" style="font-size:10px;"><a href="http://www.romwe.com/nails-care-nail-tools-c-265_274.html">Nail Tools</a></li>
+<li class="collection_item" style="font-size:10px;"><a href="http://www.romwe.com/nails-care-nail-equipment-c-265_275.html">Nail Equipment</a></li>
+</ul></div><div id="collection_item59" style="font-size:10px; width:133px;" class="nav1"><a class="nav3" style="display:block; position:relative; z-index:500;" href="http://www.romwe.com/ipad-accessories-c-278.html"><b>iPad Accessories</b>
+		</a><ul class="collection"><li class="collection_item" style="font-size:10px;"><a href="http://www.romwe.com/ipad-accessories-ipad-cases-skin-c-278_279.html">iPad Cases &amp; Skin</a></li>
+<li class="collection_item" style="font-size:10px;"><a href="http://www.romwe.com/ipad-accessories-ipad-dock-and-cable-c-278_280.html">iPad Dock and Cable</a></li>
+<li class="collection_item" style="font-size:10px;"><a href="http://www.romwe.com/ipad-accessories-ipad-screen-protector-c-278_281.html">iPad Screen Protector</a></li>
+<li class="collection_item" style="font-size:10px;"><a href="http://www.romwe.com/ipad-accessories-ipad-audio-speakers-c-278_286.html">iPad Audio &amp; Speakers</a></li>
+</ul></div><div id="collection_item60" style="font-size:10px; width:133px;" class="nav1"><a class="nav3" style="display:block; position:relative; z-index:500;" href="http://www.romwe.com/iphone-accessories-c-239.html"><b>iPhone Accessories</b>
+		</a><ul class="collection"><li class="collection_item" style="font-size:10px;"><a href="http://www.romwe.com/iphone-accessories-iphone-cases-c-239_240.html">iPhone Cases</a></li>
+<li class="collection_item" style="font-size:10px;"><a href="http://www.romwe.com/iphone-accessories-iphone-screen-protector-c-239_242.html">iPhone Screen Protector</a></li>
+<li class="collection_item" style="font-size:10px;"><a href="http://www.romwe.com/iphone-accessories-iphone-charger-c-239_243.html">iPhone Charger</a></li>
+<li class="collection_item" style="font-size:10px;"><a href="http://www.romwe.com/iphone-accessories-iphone-dock-and-cable-c-239_244.html">iPhone Dock and Cable</a></li>
+<li class="collection_item" style="font-size:10px;"><a href="http://www.romwe.com/iphone-accessories-iphone-speaker-c-239_246.html">iPhone Speaker</a></li>
+</ul></div><div id="collection_item61" style="font-size:10px; width:133px;" class="nav1"><a class="nav3" style="display:block; position:relative; z-index:500;" href="http://www.romwe.com/mac-accessories-c-287.html"><b>Mac Accessories</b>
+		</a><ul class="collection"><li class="collection_item" style="font-size:10px;"><a href="http://www.romwe.com/mac-accessories-macbook-case-and-protector-c-287_288.html">MacBook Case and Protector</a></li>
+<li class="collection_item" style="font-size:10px;"><a href="http://www.romwe.com/mac-accessories-adapter-and-cable-c-287_289.html">Adapter and Cable</a></li>
+</ul></div>    
   </nav>
 </div>
 <!-- eof menu left--> 
@@ -385,86 +462,14 @@ Privacy &amp; Security
 <h1 id="ezPagesHeading">Privacy &amp; Security</h1>
 
 
-    <div><style>
-.ez1_head2{text-transform:none;font-size:13px;letter-spacing:0.07em;}
-.ez1{font-size: 12px; font-family: Arial;}
-.ez1_head1{font-size: 22px;background:#000;color:#fff;text-align:center;}
-.duiqi1{text-align:justify;letter-spacing:0.04em;}
-.duiqi1 a:link{color:#fd7e07;text-decoration: none;}
-.duiqi1 a:visited{color:#fd7e07}
-.duiqi1 a:hover{color:#888}
-</style>
-
-
-<div class="ez1">
-<p class="duiqi1">Romwe.com respects your right to privacy. We may change or add to this privacy policy at anytime without notice. We encourage you to review it periodically. By purchasing our 
-products or using our services or website, you consent to the collection, use and disclosure of 
-your personal information in accordance with the following privacy policy.</p>
-
-<p class="duiqi1"><b>About the privacy policy , you should know:</b><br>
-</p><ul style="margin: 0px; padding: 0px;">
-<li>What information is collected by Romwe?</li>
-<li>How we may use and share information?</li>
-<li>How we protect the information?</li>
-</ul>
-<p>&nbsp;</p><h3 class="ez1_head2">1.WHAT INFORMATION DO WE COLLECT?</h3>
-<p class="duiqi1">Consumer Information<br>
-We receive and may keep information voluntarily given to us when you decided to make an 
-Romwe purchase, apply for an Paypal account, register on Romwe.com, take part in a special 
-promotion, or provide any other information or unique preferences to better serve you. This 
-information may include:
-</p><ul style="margin: 0px; padding: 0px;">
-<li>Your name, address and phone number</li>
-<li>Your e-mail address</li>
-<li>Your Paypal account once you placed an order</li>
-<li>*Any other information that Romwe may voluntarily collect from you from time to time on 
-its website or through alternate means. It might also include information you provide us 
-about other people. For example, you may provide us with some of the same information as 
-above (name and address) for a merchandise gift recipient. When you provide us with 
-personal information about the intended recipient of a shipment, we use that information 
-for the purposes of processing the shipment and, in some cases, to communicate with the 
-intended recipient to provide information pertaining to the status of the shipment. We rely 
-on you to obtain the intended recipient's consent to our use of their personal information 
-for these limited purposes.</li>
-</ul>
-<p>&nbsp;</p><p class="duiqi1">Use of Cookies and Other Technology<br>
-We want you to be aware that certain online tools exist to help us serve and recognize you 
-when you visit our website. For your convenience, to help us better serve your needs, we may 
-receive and store some of your information when you visit our website at your first time.</p>
-
-<h3 class="ez1_head2">2. ONCE INFORMATION IS RECEIVED, HOW IS IT USED AND/OR SHARED?</h3>
-<p class="duiqi1">Only Within Romwe<br>
-Information we collect from you may be shared between all points of contact only within Romwe. </p>
-
-<p class="duiqi1">We use this information to offer you special offers, new products, and services <br>
-</p><li>Provide you with timely and reliable fulfillment of requests</li>
-<li>Deliver merchandise and services that you purchase online</li>
-<li>Register you on Romwe.com</li>
-<li>Facilitate payment for your purchases</li>
-<li>Confirm your orders and delivery information</li>
-<li>Respond to your customer service inquiries or requests</li>
-<li>Administer giveaways, contests, similar promotions</li>
-<li>Find and stock the products you want</li>
-<p>&nbsp;</p><p class="duiqi1">Email Usage<br>
-The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
-If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, promotions, etc. However, you may opt-out at any time by sending an email to service@romwe.com. We will delete your email address from our mail list manually.</p>
-
-<p class="duiqi1">Retention of Personal Information<br>
-Romwe retains your personal information for as long as necessary to fulfill the purpose(s) for which it was collected and to comply with applicable laws. Your consent to such purposes(s) remains valid after any termination of our relationship with you.<br>
-Identity Theft Policy and Program <br>
-Romwe.com has put in place security measures to protect the loss, misuse, or theft of information under our control. All transactions are protected by McAfee and VeriSign, the world-renowned online security company, ensuring as far as possible that every transaction is 100% safe. </p>
-
-<h3 class="ez1_head2">3. What if I hit a link to another site from Romwe.com?</h3>
-<p class="duiqi1">Our website may offer links to other sites. Other sites have their own terms of use and privacy and security policies. Romwe is not responsible for how such third parties collect, use or disclose your personal information. If you choose to visit one of these sites, you may want to review the policies that govern that particular site.</p>
-
-</div></div>
+    <div><p class="duiqi1" style="text-align: justify; font-family: Arial; font-size: 12px;">Romwe.com respects your right to privacy. We may change or add to this privacy policy at anytime without notice. We encourage you to review it periodically. By purchasing our products or using our services or website, you consent to the collection, use and disclosure of your personal information in accordance with the following privacy policy.</p><p class="duiqi1" style="text-align: justify; font-family: Arial; font-size: 12px;"><b>About the privacy policy , you should know:</b><br></p><ul style="font-family: Arial; font-size: 12px; margin: 0px; padding: 0px;"><li>What information is collected by Romwe?</li><li>How we may use and share information?</li><li>How we protect the information?</li></ul><p style="font-family: Arial; font-size: 12px;">&nbsp;</p><h3 class="ez1_head2" style="font-size: 13px; font-family: Arial;">1.WHAT INFORMATION DO WE COLLECT?</h3><p class="duiqi1" style="text-align: justify; font-family: Arial; font-size: 12px;">Consumer Information<br>We receive and may keep information voluntarily given to us when you decided to make an Romwe purchase, apply for an Paypal account, register on Romwe.com, take part in a special promotion, or provide any other information or unique preferences to better serve you. This information may include:</p><ul style="font-family: Arial; font-size: 12px; margin: 0px; padding: 0px;"><li>Your name, address and phone number</li><li>Your e-mail address</li><li>Your Paypal account once you placed an order</li><li>*Any other information that Romwe may voluntarily collect from you from time to time on its website or through alternate means. It might also include information you provide us about other people. For example, you may provide us with some of the same information as above (name and address) for a merchandise gift recipient. When you provide us with personal information about the intended recipient of a shipment, we use that information for the purposes of processing the shipment and, in some cases, to communicate with the intended recipient to provide information pertaining to the status of the shipment. We rely on you to obtain the intended recipient's consent to our use of their personal information for these limited purposes.</li></ul><p style="font-family: Arial; font-size: 12px;">&nbsp;</p><p class="duiqi1" style="text-align: justify; font-family: Arial; font-size: 12px;">Use of Cookies and Other Technology<br>We want you to be aware that certain online tools exist to help us serve and recognize you when you visit our website. For your convenience, to help us better serve your needs, we may receive and store some of your information when you visit our website at your first time.</p><h3 class="ez1_head2" style="font-size: 13px; font-family: Arial;">2. ONCE INFORMATION IS RECEIVED, HOW IS IT USED AND/OR SHARED?</h3><p class="duiqi1" style="text-align: justify; font-family: Arial; font-size: 12px;">Only Within Romwe<br>Information we collect from you may be shared between all points of contact only within Romwe.</p><p class="duiqi1" style="text-align: justify; font-family: Arial; font-size: 12px;">We use this information to offer you special offers, new products, and services&nbsp;<br></p><li style="font-family: Arial; font-size: 12px;">Provide you with timely and reliable fulfillment of requests</li><li style="font-family: Arial; font-size: 12px;">Deliver merchandise and services that you purchase online</li><li style="font-family: Arial; font-size: 12px;">Register you on Romwe.com</li><li style="font-family: Arial; font-size: 12px;">Facilitate payment for your purchases</li><li style="font-family: Arial; font-size: 12px;">Confirm your orders and delivery information</li><li style="font-family: Arial; font-size: 12px;">Respond to your customer service inquiries or requests</li><li style="font-family: Arial; font-size: 12px;">Administer giveaways, contests, similar promotions</li><li style="font-family: Arial; font-size: 12px;">Find and stock the products you want</li><p style="font-family: Arial; font-size: 12px;">&nbsp;</p><p class="duiqi1" style="text-align: justify; font-family: Arial; font-size: 12px;">Email Usage<br>The email address you provide for order processing, will only be used to send you information and updates pertaining to your order. If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, promotions, etc. However, you may opt-out at any time by sending an email to service@romwe.com. We will delete your email address from our mail list manually.</p><p class="duiqi1" style="text-align: justify; font-family: Arial; font-size: 12px;">Retention of Personal Information<br>Romwe retains your personal information for as long as necessary to fulfill the purpose(s) for which it was collected and to comply with applicable laws. Your consent to such purposes(s) remains valid after any termination of our relationship with you.<br>Identity Theft Policy and Program&nbsp;<br>Romwe.com has put in place security measures to protect the loss, misuse, or theft of information under our control. All transactions are protected by McAfee and VeriSign, the world-renowned online security company, ensuring as far as possible that every transaction is 100% safe.</p><h3 class="ez1_head2" style="font-size: 13px; font-family: Arial;">3. What if I hit a link to another site from Romwe.com?</h3><p class="duiqi1" style="text-align: justify; font-family: Arial; font-size: 12px;">Our website may offer links to other sites. Other sites have their own terms of use and privacy and security policies. Romwe is not responsible for how such third parties collect, use or disclose your personal information. If you choose to visit one of these sites, you may want to review the policies that govern that particular site.</p></div>
 </div>
         </div>
       </div>
       <!-- eof 定义除产品页，或者搭配页，或者giveaway页，首页之外 body内容-->
     </div>
   </div>
-    <!--bof 网站底部css-->
+  <!--bof 网站底部css-->
 <link rel="stylesheet" type="text/css" href="includes/templates/bleubirtheme/css/dibu.css">
 <!--js来验证邮件 -->
 <script language="javascript" type="text/javascript">
@@ -574,29 +579,31 @@ function doValideEmail()
 </script>
 <!--eof 网站底部css-->
 <!-- bof 通用的页脚代码-->
-<footer class="span-24">
-<br>
+<footer class="span-24" style="padding-top: 22px">
+
 <!--one-->
 <hr class="sp_1">
 <div>
   <!-- bof 收集邮箱功能以及验证邮箱格式的js-->
   <div class="db_001">
-    <div class="db_002">Sign up for <b>ROMWE</b> coupon <b>and</b> style news</div>
+    <div class="db_002">Sign up for ROMWE coupon and style news</div>
     <div class="db_003">
       <form action="index.php?main_page=send_email" name="email_form" method="post">
         <div style="float:left;">
-          <input type="text" name="email_address" id="email_address" value="Enter Email Adress" onfocus="if(this.value == 'Enter Email Adress') { this.value = '' }" style="span-4 standout small;background-color:#FFF;padding:5px 7px;color:#999;">
+          <input type="text" name="email_address" id="email_address" style="color:#9fa0a0;font-family: arial;;font-size: 12px;width: 198px; padding:4px;margin: 5px 0" value="Enter Email Adress" onfocus="if(this.value == 'Enter Email Adress') { this.value = '' }">
         </div>
         <div class="email_button_1">
-          <input type="image" name="sub" value="SUBSCRIDE" src="images/other/SUBSCRIDE.jpg" onclick="doValideEmail()">
+          <input type="image" name="sub" value="SUBSCRIDE" src="images/other/search.png" onclick="doValideEmail()">
         </div>
       </form>
     </div>
   </div>
   <!-- eof 收集邮箱功能以及验证邮箱格式的js-->
+  <div class="db_007"><img style="float:right" src="images/other/footer_line.jpg" border="0"></div>
   <!-- bof 免费电话的图标-->
   <div class="db_005"> <img style="float:right" src="images/other/800.jpg" border="0"> </div>
   <!-- eof 免费电话的图标-->
+  <div class="db_007"><img style="float:right" src="images/other/footer_line.jpg" border="0"></div>
   <!-- bof ssl认证-->
   <div class="db_004">
     <table width="135" border="0" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose VeriSign SSL for secure e-commerce and confidential communications." style="margin-bottom:0px;">
@@ -606,12 +613,13 @@ function doValideEmail()
         </td>
       </tr>
     </tbody></table>
-    <div><a href="http://www.verisign.com.hk/ssl-certificate/" target="_blank" style="font-size:11px;" title="ABOUT SSL CERTIFICATES">ABOUT SSL CERTIFICATES</a></div>
+    <div style="position: relative; top:-16px;left:-4px;"><a href="http://www.verisign.com.hk/ssl-certificate/" target="_blank" style="font-size:11px;"><img src="images/ssl.png" border="0"></a></div>
   </div>
   <!-- eof ssl认证-->
+  <div class="db_007" style="float:left;padding-top:22px;padding-left:26px;"><img style="float:right" src="images/other/footer_line.jpg" border="0"></div>
   <!-- bof comm100在线客服-->
   <div class="db_006">
-    <div class="live_chat"> <a href="http://www.comm100.com/livechat/" onclick="comm100_Chat();return false;" target="_blank" title="Live Chat for romwe.com" rel="nofollow"> <img id="comm100_ButtonImage" src="http://chatserver.comm100.com/BBS.aspx?siteId=96110&amp;planId=473&amp;partnerId=-1" style="border:0px" alt="romwe.com"></a>
+    <div class="live_chat"> <a href="http://www.comm100.com/livechat/" onclick="comm100_Chat();return false;" target="_blank" rel="nofollow"> <img id="comm100_ButtonImage" src="http://chatserver.comm100.com/BBS.aspx?siteId=96110&amp;planId=473&amp;partnerId=-1" style="border:0px" alt="romwe.com"></a>
       <script src="http://chatserver.comm100.com/js/LiveChat.js?siteId=96110&amp;planId=473&amp;partnerId=-1" type="text/javascript"></script>
     </div>
   </div>
@@ -622,32 +630,32 @@ function doValideEmail()
 <!--two-->
 <hr class="sp_3">
 <div class="db">
-  <div style="height:100px;">
+  <div style="height:139px;">
     <!--db_1-->
     <div class="db_1">
       <div class="db_header"><b>About ROMWE</b></div>
       <div class="db_01"> 
-	  <a href="./About_Us-ezp-43.html" title="About Us">About Us</a><br>
-        <a href="./index.php?main_page=join_us" title="Fashion blogger">Fashion blogger</a><br>
-        <a href="http://www.romwe.com/affiliate_program-ezp-62.html" title="Affiliate Program">Affiliate Program</a><br>
-        <a href="./Privacy-Security-ezp-11.html" title="Privacy &amp; Security">Privacy &amp; Security</a> 
+	  <a href="./About_Us-ezp-43.html">About Us</a><br>
+        <a href="./index.php?main_page=join_us">Fashion blogger</a><br>
+        <a href="http://www.romwe.com/affiliate_program-ezp-62.html">Affiliate Program</a><br>
+        <a href="./Privacy-Security-ezp-85.html">Privacy &amp; Security</a> 
 		</div>
     </div>
     <!--db_1-->
     <!--db_2-->
     <div class="db_2">
-      <div class="db_header" style="width:280px;"><b>Service</b></div>
+      <div class="db_header" style="width:280px;"><b>Help</b></div>
       <div class="db_01">
-	  <a href="./FAQ-ezp-45.html" title="FAQ">FAQ</a><br>
-        <a href="./Free-Shipping-Worldwide-ezp-1.html" title="Shipping &amp; Delivery">Shipping &amp; Delivery</a><br>
-        <a href="./Return-Exchange-ezp-18.html" title="Returns &amp; Refunds">Returns &amp; Refunds</a><br>
-        <a href="./Size_Guide-ezp-21.html" title="Size Guide">Size Guide </a> 
+	  <a href="./FAQ-ezp-45.html">FAQ</a><br>
+        <a href="./Free-Shipping-Worldwide-ezp-1.html">Shipping &amp; Delivery</a><br>
+        <a href="./Return-Exchange-ezp-18.html">Returns &amp; Refunds</a><br>
+        <a href="./Size_Guide-ezp-21.html">Size Guide </a> 
 		</div>
       <div class="db_02"> 
-	  <a href="./index.php?main_page=login" title="Track orders">Track orders </a><br>
-        <a href="./Contact_Us-ezp-2.html" title="Contact Us">Contact Us</a><br>
-        <a href="./Payment-ezp-19.html" title="Payment">Payment</a><br>
-        <a href="./Terms-and-Conditions-ezp-51.html" title="Terms and Conditions">Terms and Conditions</a> 
+	  <a href="./index.php?main_page=login">Track orders </a><br>
+        <a href="./Contact_Us-ezp-2.html">Contact Us</a><br>
+        <a href="./Payment-ezp-19.html">Payment</a><br>
+        <a href="./Terms-and-Conditions-ezp-51.html">Terms and Conditions</a> 
 		</div>
     </div>
     <!--db_2-->
@@ -655,31 +663,31 @@ function doValideEmail()
     <div class="db_5">
       <div class="db_header" style="width:200px;"><b>Like Us</b></div>
       <div class="db_01"> 
-	  <a href="http://www.facebook.com/Romwe.Fashion?sk=wall" title="Facebook">Facebook</a><br>
-        <a href="http://twitter.com/#!/ROMWESHOP" title="Twitter">Twitter</a><br>
-        <a href="http://romwe-romwe.blogspot.com/" title="Blog">Blog</a><br>
-        <a href="http://romwe.tumblr.com/" title="Tumblr">Tumblr</a> 
+	  <a href="http://www.facebook.com/Romwe.Fashion?sk=wall">Facebook</a><br>
+        <a href="http://twitter.com/#!/ROMWESHOP">Twitter</a><br>
+        <a href="http://romwe-romwe.blogspot.com/">Blog</a><br>
+        <a href="http://romwe.tumblr.com/">Tumblr</a> 
 		</div>
       <div class="db_02"> 
-	  <a href="http://www.youtube.com/user/romweshop" title="Youtube">Youtube</a><br>
-        <a href="http://pinterest.com/romwe" title="Pinterest">Pinterest</a><br>
-        <a href="http://www.vogue.com" title="Vogue">Vogue</a><br>
-        <a href="http://www.elle.com" title="Elle">Elle</a> 
+	  <a href="http://www.youtube.com/user/romweshop">Youtube</a><br>
+        <a href="http://pinterest.com/romwe">Pinterest</a><br>
+        <a href="http://www.vogue.com">Vogue</a><br>
+        <a href="http://www.elle.com">Elle</a> 
 		</div>
     </div>
     <!--db_5-->
     <!--db_3-->
     <div class="db_3">
       <div class="db_header"><b>Mobile ROMWE</b></div>
-      <div class="db_01"> <a href="#" title="Mobile Website">Mobile Website</a><br>
-        <a href="#" title="IPAD Website">IPAD Website</a><br>
-        <a href="#" title="Android">Android</a><br>
-        <a href="#" title="Apple App">Apple App</a> 
+      <div class="db_01"> <a href="#">Mobile Website</a><br>
+        <a href="#">IPAD Website</a><br>
+        <a href="#">Android</a><br>
+        <a href="#">Apple App</a> 
 		</div>
     </div>
     <!--db_3-->
   </div>
-  <div class="footer-card"><img src="images/other/footer-card.png" border="0" title="Card"></div>
+  <div class="footer-card"><img src="images/other/footer-card.png" border="0"></div>
 </div>
 <hr class="sp_3">
 <!--two-->
@@ -691,8 +699,8 @@ function doValideEmail()
 </footer></div>
 
 
-<div style="position:fixed;left:20px;bottom:223px;width:182px;background:#ccc;color:red;" id="fir_info_coupon"></div>
-<div id="ad" style="display:none;position:fixed;left:20px;bottom:0px;width:182px; height:223px; background-image:url(tu.jpg);">
+<div style="position:fixed; left:20px; bottom:223px; z-index:500; width:182px; background:#ccc; color:red;" id="fir_info_coupon"></div>
+<div id="ad" style="display:none; position:fixed; left:20px; bottom:0px; z-index:500; width:182px; height:223px; background-image:url(tu.jpg);">
   <div id="fir_close_coupon" style="width:14px;height:14px;cursor:pointer;margin-top:6px;margin-left:160px;"></div>
   <div style="margin-top:135px; margin-left:8px; float:left;">
     <div style="height:21px;">
