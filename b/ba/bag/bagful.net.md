@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bagful.net privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430015541id_/http%3A//www.bagful.net/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bagful.net privacy policy that was archived on 2013-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130829201104id_/http%3A//www.bagful.net/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement - Details of how customer's information is protected | Bagful
 
-[Home](http://www.bagful.net/ "Go to Home.") > Privacy Statement
+[Bagful](http://www.bagful.net/ "Go to Bagful.") > Privacy Statement
 
 Bagful knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. For question on the Privacy Notice please contact the [Bagful Help Desk](http://www.bagful.net/supporttickets.php).  
 .
@@ -108,4 +108,4 @@ Be Sociable, Share!
   * 
 
 
-Free DNS management with every domain name. 
+Efficient yet cheap VPS range. 
