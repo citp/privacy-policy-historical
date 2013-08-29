@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigwebstats.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629213543id_/http%3A//www.bigwebstats.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigwebstats.com privacy policy that was archived on 2013-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130829233857id_/http%3A//www.bigwebstats.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy | BigWebStats
 
