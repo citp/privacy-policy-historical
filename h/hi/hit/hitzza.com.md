@@ -1,6 +1,15 @@
-> *The following text is extracted and transformed from the hitzza.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502113041id_/http%3A//www.hitzza.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitzza.com privacy policy that was archived on 2013-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130829131212id_/http%3A//www.hitzza.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Hitzza.com | Privacy Policy
+
+SIMON CHAPPELL PRESENTS  
+http://igot-sales.com/?rid=2
+
+Free Website Traffic  
+http://www.socialsurf4u.com/
+
+Copy and Paste Income System  
+http://coffeebuzzz.info
 
 This privacy policy sets out how Hitzza.com uses and protects any information that you give Hitzza.com when you use this website.
 
