@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flyclear.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603062911id_/http%3A//clearme.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyclear.com privacy policy that was archived on 2013-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130829190046id_/http%3A//clearme.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CLEAR Speeds You Through Airport Security
 
