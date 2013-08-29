@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contentomania.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531160618id_/http%3A//contentomania.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contentomania.com privacy policy that was archived on 2013-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130829110334id_/http%3A//contentomania.com/privacy.html) for the most accurate reproduction.*
 
 # Contentomania
 
