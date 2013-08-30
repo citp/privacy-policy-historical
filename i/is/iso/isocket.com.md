@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isocket.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117095639id_/https%3A//www.isocket.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isocket.com privacy policy that was archived on 2013-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130830224410id_/https%3A//www.isocket.com/privacy) for the most accurate reproduction.*
 
 # isocket
 
