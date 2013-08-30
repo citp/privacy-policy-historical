@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the haikudeck.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515225210id_/http%3A//www.haikudeck.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the haikudeck.com privacy policy that was archived on 2013-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130830073548id_/http%3A//www.haikudeck.com/privacy) for the most accurate reproduction.*
 
 # Presentation Software That's Simple, Beautiful, and Fun | Haiku Deck
 
