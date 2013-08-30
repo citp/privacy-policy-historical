@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domainindia.org privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617113337id_/http%3A//www.domainindia.org/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainindia.org privacy policy that was archived on 2013-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130830065526id_/http%3A//www.domainindia.org/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Domain India
 
