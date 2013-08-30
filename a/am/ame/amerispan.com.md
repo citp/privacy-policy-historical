@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amerispan.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425000400id_/http%3A//www.amerispan.com/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amerispan.com privacy policy that was archived on 2013-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130831004728id_/http%3A//www.amerispan.com/privacy_statement.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -68,7 +68,7 @@ _**Legal Disclosure**_
 We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site. _ **How Secure is My Personal Information?**_
 
   * To protect your information, we use Secure Sockets Layer (SSL) software which encrypts all of the information that you input into our applications and credit card payment forms.  The SSL software is licensed from GeoTrust, the world’s second largest digital certificate provider. More than 70,000 companies in over 140 countries employ GeoTrust technology for transaction security, identity verification and trust services on the internet and over wireless networks. GeoTrust has offices in the U.S., Europe and Japan and can be reached at www.geotrust.com or 800-944-0492.
-  * Concerning credit card transactions, we transmit the entire credit card number to the appropriate credit card company during order processing. To do this we use a payment gateway provided by a leading payment gateway provider, TrustCommerce.  TrustCommerce is a Visa CISP Compliant Service Provider and accounts use a variety of fraud screening tools including AVS (Address Verification System), Visa's CVV2, Mastercard's CVC2, and American Express' CID to protect against most online fraud. 
+  * Concerning credit card transactions, we transmit the entire credit card number to the appropriate credit card company during order processing. To do this we use a payment gateway provided by a leading payment gateway provider, TrustCommerce.  TrustCommerce is a Visa CISP Compliant Service Provider and accounts use a variety of fraud screening tools including AVS (Address Verification System), Visa's CVV2 and Mastercard's CVC2 to protect against most online fraud. 
 
 
 
