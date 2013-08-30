@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dedicatednetworks.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624033049id_/http%3A//www.dedicatedmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dedicatednetworks.com privacy policy that was archived on 2013-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130830053649id_/http%3A//www.dedicatedmedia.com/privacy-policy) for the most accurate reproduction.*
 
-# Dedicated Media Service Privacy Policy - Dedicated Media | Dedicated Media
+# Privacy Policy - Dedicated Media | Dedicated Media
 
 WHAT INFORMATION IS COLLECTED?
 
