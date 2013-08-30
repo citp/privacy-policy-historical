@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1911census.co.uk privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630064406id_/http%3A//www.1911census.co.uk/Content/default.aspx%3Fr%3D79%2680) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1911census.co.uk privacy policy that was archived on 2013-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130830095010id_/http%3A//www.1911census.co.uk/Content/default.aspx%3Fr%3D79%2680) for the most accurate reproduction.*
 
 # Privacy policy
 
