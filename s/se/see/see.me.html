@@ -1,26 +1,108 @@
-<!--The following is the downloaded HTML source of the see.me privacy policy that was archived on 2013-01-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130117020132id_/http%3A//www.see.me/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the see.me privacy policy that was archived on 2013-08-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130830202249id_/https%3A//www.see.me/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <title>See | Me - Where great talent receives endless attention</title>
 <meta name="google-site-verification" content="">
 <meta name="viewport" content="width=1240, maximum-scale=1.0">
+<meta name="apple-itunes-app" content="app-id=569338058">
+<meta name="description" content="The only social network for creatives that helps you promote your work, earn funding for creative projects, and win awards and grants.">
+<link href="css/compiled/home.css" rel="stylesheet" type="text/css">
 <link href="css/home-style.css" rel="stylesheet" type="text/css">
+<link href="css/showInfo.css" rel="stylesheet" type="text/css">
 <link href="css/jquery.fancybox-1.3.4.css" rel="stylesheet" type="text/css">
 <link href="css/tipsy.css" rel="stylesheet" type="text/css">
 <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>'article aside footer header nav section time'.replace(/\w+/g,function(n){document.createElement(n);});</script>
 <script type="text/javascript">window.baseSecUrl='https://www.see.me';window.baseHostName='see.me';var _gaq=_gaq||[];_gaq.push(['gaAW._setAccount','UA-2495331-1']);_gaq.push(['gaAW._setDomainName','see.me']);_gaq.push(['gaAW._setAllowLinker',true]);_gaq.push(['gaAW._trackPageview']);(function(){var ga=document.createElement('script');ga.type='text/javascript';ga.async=true;ga.src=('https:'==document.location.protocol?'https://ssl':'http://www')+'.google-analytics.com/ga.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);})();</script>
 <script type="text/javascript">var _qevents=_qevents||[];(function(){var elem=document.createElement('script');elem.src=(document.location.protocol=="https:"?"https://secure":"http://edge")+".quantserve.com/quant.js";elem.async=true;elem.type="text/javascript";var scpt=document.getElementsByTagName('script')[0];scpt.parentNode.insertBefore(elem,scpt);})();</script>
-<script src="http://static.artistswanted.org/js/jquery-1.7.2.js.pagespeed.jm.Q81GAaiYtU.js"></script>
+<script src="https://static1.see.me/js/jquery-1.7.2.js.pagespeed.jm.Q81GAaiYtU.js"></script>
 </head>
 <body>
-<div id="top-stripe"></div>
-<header>
-<div class="header-inner">
-<a href="/"><img border="0" src="http://static.artistswanted.org/images/v3/see-home/see-logo.png.pagespeed.ce.tBmVfzxk-f.png"></a>
-<div class="header-right">
+<div id="fb-root"></div>
+<header id="home-header">
+<div id="click-target" style="display: none;"></div>
+<div id="navbar-cont">
+<a id="logo-head" href="https://www.see.me"></a>
+<ul style="display:block;float:left;left:0;margin: 0 10px 0 0;position:relative;list-style:disc outside none;">
+<li id="header-search" style="list-style-type:none;">
+<form id="header-search-form" action="https://www.see.me/">
+<input id="search-term" name="search" type="text" placeholder="" style=""><div class="drop-icn"></div>
+</form>
+</li>
+<div id="head-search-drop" class="drop-cont searchDropdown" style="display: none;">
+<div class="drop-arrow"></div>
+<div style="border-top: 0; font-weight: bold; font-size: 11px; color: black; margin: 5px 0 5px 5px;">Popular Searches</div>
+<div class="drop-item" style="border-top: 0;">Fine Art</div>
+<div class="drop-item">Illustration</div>
+<div class="drop-item">Portraits</div>
+<div class="drop-item">Couture Fashion</div>
+<div class="drop-item">Photography</div>
+<div class="drop-item">Techno music</div>
+<div class="drop-item">Fashion Stylist</div>
+<div class="drop-item">Hip-Hop Music</div>
+<div class="drop-item">Installation Gallery Art</div>
+<div class="drop-item">Furniture Design</div>
+<div class="drop-item">Brooklyn New York</div>
+<div class="drop-item">Model Fashion </div>
+<div class="drop-item">Hair Stylist</div> </div>
+</ul>
+<div id="nav-controls">
 </div>
 </div>
+<script id="header-logged-out-template" type="text/template">
+    <ul class="logged-out">
+        <li id="sign_up">   
+            <a class="open-signup-modal" id="header-signup">Join the Community & Create a Profile</a>
+        </li>
+        <li id="blog">   
+            <a href="/blog" onClick="_gaq.push(['gaAW._trackEvent', 'Header', 'Click-Blog', 'Blog']);">Blog</a>
+        </li>
+        <li id="login">
+            <a href="https://www.see.me/pages/panel/login#r/<%=document.URL %>">Login</a>
+        </li>
+    </ul>
+</script>
+<script id="header-logged-in-template" type="text/template">
+<ul class="logged-in" style="display:block;float:right;position:relative;list-style:disc outside none;">
+    <li id="help">
+        <a href="http://support.see.me/home" onClick="_gaq.push(['gaAW._trackEvent', 'Header', 'Click-Help', 'Help']);"><div class="nav-icon help"></div>Help</a>
+    </li>
+    <li id="headerWalletView" style="min-width:20px;"></li>
+    <li id="headerProfileDropdownView" ></li>
+</ul>
+</script>
+<script id="header-wallet-template" type="text/template">
+	
+    <span id="header-wallet-cont" style="cursor:pointer;">
+		<div class="nav-icon wallet"></div>
+        $<%=walletBalance%>
+	</span>
+</script>
+<script id="header-profile-dropdown-template" type="text/template">
+	<div id="header-profile">
+		<img height="30" src="<%= ProfileImgSrc%>" id="header-profile-img" />
+		<span id="profile-name_value"><%= firstName %></span>
+		<div class="dropdrown-menu">
+		    <a class="prof-drop-btn" href="javascript:void(0)" style="color:white;"></a>
+		    <div class="head-drop-cont">
+		        <div class="dr-arrow"></div>
+		        <ul class="">
+		            <li><a onClick="_gaq.push(['gaAW._trackEvent', 'Header-Dropdown', 'Click-ViewProfile', 'View Profile']);" href="https://<%= ProfileUrl %>.see.me"><div class="dr-icon viewProf"></div>View Your Profile</a></li>
+                    <li><a onClick="_gaq.push(['gaAW._trackEvent', 'Header-Dropdown', 'Click-Dashboard', 'Dashboard']);" href="https://www.see.me/pages/panel#dashboard"><div class="dr-icon dash"></div>Dashboard</a></li>
+
+                    <!-- <li><a onClick="_gaq.push(['gaAW._trackEvent', 'Header-Dropdown', 'Click-Supports', 'Supports']);" href="https://www.see.me/pages/panel#supports"><div class="dr-icon supports"></div>Supports</a></li> -->
+
+                    <li><a onClick="_gaq.push(['gaAW._trackEvent', 'Header-Dropdown', 'Click-Work', 'Work']);" href="https://www.see.me/pages/panel#work"><div class="dr-icon work"></div>Work</a></li>
+
+                    <!-- <li><a onClick="_gaq.push(['gaAW._trackEvent', 'Header-Dropdown', 'Click-Edit', 'Edit']);" href="https://www.see.me/pages/panel#editProfile"><div class="dr-icon edit"></div>Edit Profile</a></li> -->
+		            <li><a onClick="_gaq.push(['gaAW._trackEvent', 'Header-Dropdown', 'Click-Account', 'Account']);" href="https://www.see.me/pages/panel#settings/"><div class="dr-icon settings"></div>Account</a></li>
+                    <li><a onClick="_gaq.push(['gaAW._trackEvent', 'Header-Dropdown', 'Click-Friends', 'Friends']);" href="https://www.see.me/pages/panel#settings/share"><div class="dr-icon findFriends"></div>Find Friends</a></li>
+		            <li><a onClick="_gaq.push(['gaAW._trackEvent', 'Header-Dropdown', 'Click-Logout', 'Logout']);" href="https://www.see.me/accounts/logout"><div class="dr-icon logout"></div>Logout</a></li>
+		        </ul>
+		    </div>
+		</div>
+	</div>
+</script>
 </header>
 <link href="css/comp-style.css" rel="stylesheet" type="text/css">
 <div class="section" style="border-top: none;">
@@ -41,9 +123,10 @@
 <p>From time to time, we make the e-mail addresses of those who opt in and sign up for our e-Newsletters and contest promotions available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by clicking unsubscribe at the bottom of all our e-mails.</p>
 <p>See.Me (“See.Me”) sometimes may offer contests, sweepstakes or promotions that are sponsored by or co-sponsored with identified third parties. By virtue of their sponsorship, these third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the contest, sweepstakes, or promotion. See.Me has no control over the third-party sponsors’ use of this information.</p>
 <h3>Attention, Kids</h3>
+<p>If you are under the age of 18 but are at least 13 years old, you may submit information about yourself to the site only if authorized to do so by a parent or legal guardian.</p>
 <p>If you are under the age of 13 (12 or younger), you may not provide any information about yourself to the site. While you may view content on the site, you may not register with the site, enter any of our sweepstakes or contests or participate in any of our chat rooms, bulletin boards, or other activities that would let you enter information about yourself. If we learn that you have provided information about yourself to the site, we will delete such information.</p>
 <h3>Note to Parents</h3>
-<p>See.Me will not knowingly collect personally identifiable information from kids under 13. If you have any concerns about the site or its related services, wish to find out if your child is a member of one of our services, or wish to cancel your child’s membership, please contact us at hello@see.me</p>
+<p>See.Me will not knowingly collect personally identifiable information from kids under 13 or from minors under 18 who are not authorized by a parent or legal guardian. If you have any concerns about the site or its related services, wish to find out if your child is a member of one of our services, or wish to cancel your child's membership, please contact us at <a href="mailto:hello@see.me">hello@see.me</a></p>
 <h3>Ad Servers</h3>
 <p>To bring you offers that may be of interest to you, we have relationships with other companies that we allow to place ads on our web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address, and click-stream information.</p>
 <p>See.Me may use reputable third parties to present or serve the advertisements that you may see at its web pages and to conduct research about the advertisements. Our privacy policy does not cover any use of information that such third parties may have collected from you or the methods used by the third parties to collect that information (e.g., cookies, web beacons, and clear GIFs).</p>
@@ -60,165 +143,166 @@
 <p>2525 44th Drive, Long Island City, NY 11101</p>
 <p>We can also be reached via e-mail at <a href="mailto:hello@see.me">hello@see.me</a>.</p>
 </div>
+</div> <footer>
+<div class="footer-row">
+<div class="footer-col" style="width: 555px; margin-right: 40px;">
+<h1>WHAT PEOPLE ARE SAYING</h1>
+<ul id="quotelist">
+<li>
+<div class="footer-quote-cont">
+<div class="footer-quote">
+“See.Me is going to be a pretty big jam session throughout the years.”
 </div>
-<footer>
-<div class="footer-inner">
-<div class="footer-top">
-<div class="col-left">
-<h2><a class="invite" href="#signup">Join</a><img style="margin-bottom: -14px; margin-left: 20px; margin-top: 7px;" src="http://static.artistswanted.org/images/v3/see-home/see-logo.png.pagespeed.ce.tBmVfzxk-f.png"></h2>
+<div class="footer-credit">
+- Reggie Watts <br>
+Musician / Comedian / Genius
 </div>
-<div class="col-right">
-<h2 style="margin-bottom: 10px;">Keep Connected &amp; Follow Us</h2>
+</div>
+</li>
+<li>
+<div class="footer-quote-cont">
+<div class="footer-quote">
+“I feel like this is the perfect place for me. The exposure is a dream come true.”
+</div>
+<div class="footer-credit">
+- Vicki Da Silva <br>
+The Original Light Graffiti Artist
+</div>
+</div>
+</li>
+<li>
+<div class="footer-quote-cont">
+<div class="footer-quote">
+“The hottest start-up tech people haven't heard of...”
+</div>
+<div class="footer-credit">
+- Tim O'Reilly <br>
+Founder of O'Reilly Media
+</div>
+</div>
+</li>
+<li>
+<div class="footer-quote-cont">
+<div class="footer-quote">
+“This site has given me confidence, exposure, and press attention.”
+</div>
+<div class="footer-credit">
+- Surabhi Saraf <br>
+Composer / Performer / Video Artist
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="footer-col" style="width: 150px">
+<h1>COMPANY</h1>
+<a href="http://see.me/ourstory/#blog">Our Mission</a>
+<a href="#about-us" class="popit">What We Are About</a>
+<a href="http://see.me/ourstory/#work">What We Provide</a>
+<a href="http://see.me/ourstory/#nam-fermentum-suscipit-metus-at">Careers</a>
+<a href="http://see.me/ourstory/#abou">Press</a>
+<a href="http://support.see.me/home">Help &amp; Support</a>
+</div>
+<div class="footer-col" style="width: 110px; margin-right: 40px;">
+<h1>COMMUNITY</h1>
+<a href="http://see.me/ourstory/#contact">Contact Us</a>
+<a target="_blank" href="http://www.facebook.com/ArtistsWanted">Facebook</a>
+<a target="_blank" href="http://twitter.com/seemecommunity">Twitter</a>
+<a target="_blank" href="https://ourhistory.see.me/">Videos</a>
+<a target="_blank" href="http://artistswanted.tumblr.com/">Tumblr</a>
+<a target="_blank" href="http://pinterest.com/seemeofficial">Pinterest</a>
+</div>
+<div class="footer-col" style="width: 305px">
+<h1>GET STARTED WITH YOUR FREE ACCOUNT</h1>
+<div id="footer-signup" class="open-signup-modal btn-blue">
+Start Here
+</div>
+<h1 style="margin-top: 50px;">KEEP CONNECTED &amp; FOLLOW US</h1>
 <iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FArtistsWanted&amp;send=false&amp;layout=standard&amp;width=250&amp;show_faces=false&amp;action=like&amp;colorscheme=dark&amp;font&amp;height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:250px; height:80px;" allowtransparency="true"></iframe>
 </div>
-<div class="col-right">
-<h2 style="margin-bottom: 10px;">See Featured Creatives Weekly</h2>
-<div id="mc_embed_signup" style="">
-<form action="http://artistswanted.us2.list-manage.com/subscribe/post?u=08485bbc54aafe699ebe91077&amp;id=37f74f614e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" style="margin-top: 0">
-<fieldset>
-<div class="mc-field-group" style="float:left;width: 180px;">
-<input type="text" value="you@youremail.com" name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
-<div style="float:left;width: 85px;">
-<input type="submit" value="SUBSCRIBE" name="subscribe" id="mc-embedded-subscribe" class="btn" style="">
+<div class="footer-row" style="padding-bottom: 75px;">
+<h1>SELECTIONS FROM THE PRESS</h1>
+<script>//<![CDATA[
+(function(){var d=null,e=window,f=document,g="documentElement",h="scrollTop",l="prototype",m="body",n="getAttribute",p="",q="1",r="data",s="img",t="load",u="number",v="on",w="onload",x="pagespeed_lazy_position",y="pagespeed_lazy_replaced_functions",z="pagespeed_lazy_src",A="position",B="relative",C="scroll",D="src";e.pagespeed=e.pagespeed||{};var E=e.pagespeed,F=function(a){this.a=[];this.i=0;this.b=!1;this.o=a;this.c=d;this.g=0;this.h=200;this.f=!1};
+F[l].s=function(){var a=0;typeof e.pageYOffset==u?a=e.pageYOffset:f[m]&&f[m][h]?a=f[m][h]:f[g]&&f[g][h]&&(a=f[g][h]);var b=e.innerHeight||f[g].clientHeight||f[m].clientHeight;return{top:a,bottom:a+b,height:b}};F[l].n=function(a){var b=a[n](x);if(b)return parseInt(b,0);var b=a.offsetTop,c=a.offsetParent;c&&(b+=this.n(c));b=Math.max(b,0);a.setAttribute(x,b);return b};F[l].r=function(a){var b=this.n(a);return{top:b,bottom:b+a.offsetHeight}};
+F[l].q=function(a,b){if(a.currentStyle)return a.currentStyle[b];if(f.defaultView&&f.defaultView.getComputedStyle){var c=f.defaultView.getComputedStyle(a,d);if(c)return c.getPropertyValue(b)}return a.style&&a.style[b]?a.style[b]:p};F[l].p=function(a){if(this.q(a,A)==B)return!0;if(!this.f&&(0==a.offsetHeight||0==a.offsetWidth))return!1;var b=this.s(),c=a.getBoundingClientRect();c?(a=c.top-b.height,b=c.bottom):(c=this.r(a),a=c.top-b.bottom,b=c.bottom-b.top);return a<=this.i&&0<=b+this.i};
+F[l].m=function(a){this.l(a);var b=this;e.setTimeout(function(){var c=a[n](z);if(c!=d)if((b.b||b.p(a))&&a.src.indexOf(-1!=b.o)){var k=a.parentNode,G=a.nextSibling;k&&k.removeChild(a);a.getAttribute=a.j;a.removeAttribute(w);a.removeAttribute(z);a.removeAttribute(y);k&&k.insertBefore(a,G);a.src=c}else b.a.push(a)},0)};F[l].loadIfVisible=F[l].m;F[l].u=function(){this.b=!0;this.d()};F[l].loadAllImages=F[l].u;F[l].d=function(){var a=this.a,b=a.length;this.a=[];for(var c=0;c<b;++c)this.m(a[c])};
+F[l].e=function(a,b){return a.a?a.a(b)!=d:a[n](b)!=d};F[l].v=function(){for(var a=f.getElementsByTagName(s),b=0;b<a.length;++b){var c=a[b];this.e(c,z)&&this.l(c)}};F[l].overrideAttributeFunctions=F[l].v;F[l].l=function(a){var b=this;this.e(a,y)||(a.j=a[n],a.getAttribute=function(a){a.toLowerCase()==D&&b.e(this,z)&&(a=z);return this.j(a)},a.setAttribute(y,q))};
+E.k=function(a,b,c){if(a.addEventListener)a.addEventListener(b,c,!1);else if(a.attachEvent)a.attachEvent(v+b,c);else{var k=a[v+b];a[v+b]=function(){c.call(this);k&&k.call(this)}}};E.t=function(a,b){var c=new F(b);E.lazyLoadImages=c;0!=b.indexOf(r)&&((new Image).src=b);E.k(e,t,function(){c.f=!0;e.setTimeout(function(){c.b=a;c.d()},200)});a||E.k(e,C,function(){if(!c.c){var a=c.h;(new Date).getTime()-c.g>c.h&&(a=0);c.c=e.setTimeout(function(){c.g=(new Date).getTime();c.d();c.c=d},a)}})};
+E.lazyLoadInit=E.t;})();
+
+pagespeed.lazyLoadInit(false, "/mod_pagespeed_static/1.Hy2LQaukh5.gif");
+
+//]]></script><img class="tip" original-title="In a feature article, the New York Times calls See.Me (formerly Artists Wanted) a website that 'illuminates artists' and 'identifies artistic talent, exposing it to an international audience.'" pagespeed_lazy_src="https://static2.see.me/images/v3/icn-times.jpg.pagespeed.ce.aC3i-2SnIj.jpg" style="margin-right: 70px;" src="/mod_pagespeed_static/1.Hy2LQaukh5.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);" pagespeed_lazy_replaced_functions="1">
+<img class="tip" original-title="'On See.me, artists create online profiles and portfolios that can be easily shared. As the large and growing user base demonstrates, artists are hungry for new ways to put their work in front of an engaged audience.'" pagespeed_lazy_src="https://static2.see.me/images/v3/icn-venture.jpg.pagespeed.ce.WXZQopE7Tt.jpg" style="margin-right: 20px;" src="/mod_pagespeed_static/1.Hy2LQaukh5.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);" pagespeed_lazy_replaced_functions="1">
+<img class="tip" original-title="'...The latest celebrity to join the site, following the footsteps of Questlove and Reggie Watts, is Q-Tip, who signed on to judge a music contest awarding $30,000 in grants, a recording session and an exclusive listening party hosted by Downtown Records.'" style="margin-top: 30px; margin-bottom: -15px; margin-left: 90px; margin-right: 80px;" pagespeed_lazy_src="https://static2.see.me/images/v3/icn-id.jpg.pagespeed.ce.Pe0_k2wsgM.jpg" src="/mod_pagespeed_static/1.Hy2LQaukh5.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);" pagespeed_lazy_replaced_functions="1">
+<img class="tip" original-title="'What began as a modest side-project in 2008 under the name Artists Wanted has evolved into a global community of creatives sharing their work with an audience of millions.'" pagespeed_lazy_src="https://static1.see.me/images/v3/icn-pando.jpg.pagespeed.ce.5TzKBoXYPX.jpg" src="/mod_pagespeed_static/1.Hy2LQaukh5.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);" pagespeed_lazy_replaced_functions="1">
 </div>
-<div id="mce-responses" style="float: left;overflow: hidden;  clear: both;">
-<div class="response" id="mce-error-response" style="display: none;margin: 0;padding: 1em .5em .5em 0;font-weight: bold;float: left;top: -1.5em;z-index: 1;width: 80%;background: FBE3E4;color: #D12F19;"></div>
-<div class="response" id="mce-success-response" style="display: none;margin: 1em 0;padding: 20px;font-weight: bold;float: left; width: 74%;background: #E3FBE4;color: #529214;"></div>
+<div class="footer-row">
+<img pagespeed_lazy_src="https://static1.see.me/images/v3/see-home/madewithlove.png.pagespeed.ce.nUs868AEwO.png" src="/mod_pagespeed_static/1.Hy2LQaukh5.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);" pagespeed_lazy_replaced_functions="1">
+<span class="lower-foot" style="color: #444;border-left: 0">Copyright 2013 See Me Group</span>
+<a class="lower-foot" href="terms">Terms &amp; Conditions</a>
+<a class="lower-foot" style="border-left: 0" href="privacy">Privacy Policy</a>
 </div>
-<div>
-</div>
-</fieldset>
-<a href="#" id="mc_embed_close" class="mc_embed_close" style="display: none;">Close</a>
-</form>
-</div>
-</div>
-</div>
-<div class="footer-middle">
-<div class="col-left">
-<a class="video-link" href="#video"><img src="http://static.artistswanted.org/images/v3/see-home/video-play.jpg.pagespeed.ce.kcyyLny_sG.jpg"></a>
-</div>
-<div class="col-right">
-<h2>Our History</h2>
-<p>We started as a modest side-project in 2008 under the name Artists Wanted. Since then we have hosted dozens of shows and exhibitions, displayed the work of tens of thousands of artists and have distributed hundreds of thousands of dollars worth of cash grants and other awards.</p>
-<a href="http://ourhistory.see.me/">View Videos of Past Events</a>
-</div>
-<div class="col-right">
-<h2>Team See</h2>
-<p>The See Creative Network is built by a team of artists and creators in New York City.</p><p>
-</p><p>Instead of a typical office, we work out of an exhibition space which allows us to constantly show work and host events emblematic of the community we love.</p>
-<a href="http://team.see.me/">Meet the Team</a>
-</div>
-</div>
-<div class="footer-bottom">
-<img src="http://static.artistswanted.org/images/v3/see-home/madewithlove.png.pagespeed.ce.nUs868AEwO.png">
-<div class="bottom-links">
-<a href="privacy">Privacy Policy</a>
-<a href="terms">Terms of Use </a>
-<a href="rules">Contest Rules</a>
-<a href="http://support.see.me/home">Contact Us</a>
-Copyright 2012 See Me Group
-</div>
-</div>
-<img style="float: right; margin-top: 50px;" src="http://static.artistswanted.org/images/v3/see-home/footerImage.jpg.pagespeed.ce.CxLR83lzR7.jpg">
-</div></footer>
 <div style="display: none;">
-<div id="signup">
-<p style="font-size:31px;margin-bottom: 40px;">Join the creative<br>community.</p>
-<form style="margin-left: 7px;" id="signupSubmit-form" accept-charset="UTF-8">
-<label>First Name:</label>
-<input class="field signup_firstname" type="text" name="firstName" size="20" style="width: 266px; padding: 10px; height: 21px">
-<label>Last Name:</label>
-<input class="field signup_lastname" type="text" name="lastName" size="20" style="width: 266px; padding: 10px; height: 21px">
-<label>E-mail address:</label>
-<input class="field signup_email" type="text" name="email" size="20" style="width: 266px; padding: 10px; height: 21px">
-<input class="signup_f" type="hidden" name="f" value="">
-</form>
-<input type="submit" value="Let's Go!" id="signupSubmit" style="clear: both;">
-</div>
-<div id="artPop">
-<img src="http://static.artistswanted.org/images/comps/home/artImages.jpg.pagespeed.ce.a5zjJFwxEG.jpg" style="float: left;">
-<div style="float: right; width: 316px">
-<img src="http://static.artistswanted.org/images/comps/home/artPopText.png.pagespeed.ce._pwKplsjL4.png" style="margin-bottom: -10px">
-<div style="text-align: center">Your portfolio can be eligible for <strong>$30,000</strong> in cash grants, a solo exhibition of your work at <strong>SCOPE Art New York</strong>, a feature in <strong>i-D Magazine</strong> and world-wide publicity.</div>
-<form style="margin-left: 7px;" id="submitArt-form" accept-charset="UTF-8">
-<label>First Name:</label>
-<input class="field signup_firstname" type="text" name="firstName" size="20" style="width: 266px; padding: 10px; height: 21px">
-<label>Last Name:</label>
-<input class="field signup_lastname" type="text" name="lastName" size="20" style="width: 266px; padding: 10px; height: 21px">
-<label>E-mail address:</label>
-<input class="field signup_email" type="text" name="email" size="20" style="width: 266px; padding: 10px; height: 21px">
-<input class="signup_f" type="hidden" name="f" value="">
-</form>
-<input type="submit" value="Let's Go!" id="submitArt" style="clear: both; width: 289px; height: 45px; line-height: 45px;margin-left: 7px;">
-</div>
-</div>
-<div id="photoPop">
-<img src="http://static.artistswanted.org/images/comps/home/photoImage.jpg.pagespeed.ce.fgADXEthxo.jpg" style="float: left;">
-<div style="float: right; width: 316px">
-<img src="http://static.artistswanted.org/images/comps/home/photoPopText.png.pagespeed.ce.8O-mdXf3Ul.png" style="margin-bottom: -10px;">
-<div style="text-align: center">Your portfolio can be eligible for <strong>$30,000</strong> in cash grants, an <strong>exhibition of your photography</strong> in New York City, a feature in <strong>i-D Magazine</strong> and world-wide publicity.</div>
-<form style="margin-left: 7px;" id="submitPhoto-form" accept-charset="UTF-8">
-<label>First Name:</label>
-<input class="field signup_firstname" type="text" name="firstName" size="20" style="width: 266px; padding: 10px; height: 21px">
-<label>Last Name:</label>
-<input class="field signup_lastname" type="text" name="lastName" size="20" style="width: 266px; padding: 10px; height: 21px">
-<label>E-mail address:</label>
-<input class="field signup_email" type="text" name="email" size="20" style="width: 266px; padding: 10px; height: 21px">
-<input class="signup_f" type="hidden" name="f" value="">
-</form>
-<input type="submit" value="Let's Go!" id="submitPhoto" style="clear: both; width: 289px; height: 45px; line-height: 45px;margin-left: 7px;">
-</div>
-</div>
-<div id="musicPop">
-<img src="http://static.artistswanted.org/images/comps/home/musicImage.jpg.pagespeed.ce.BZ2teOxkuB.jpg" style="float: left;">
-<div style="float: right; width: 316px">
-<img src="http://static.artistswanted.org/images/comps/home/musicPopText.png.pagespeed.ce.W0B6UqZinR.png" style="margin-bottom: -10px;">
-<div style="text-align: center">Your portfolio can be eligible for <strong>$30,000</strong> in cash grants, <strong>a record and promotion contract</strong> with Downtown Records, a feature in <strong>i-D Magazine</strong> and world-wide publicity.</div>
-<form style="margin-left: 7px;" id="submitMusic-form" accept-charset="UTF-8">
-<label>First Name:</label>
-<input class="field signup_firstname" type="text" name="firstName" size="20" style="width: 266px; padding: 10px; height: 21px">
-<label>Last Name:</label>
-<input class="field signup_lastname" type="text" name="lastName" size="20" style="width: 266px; padding: 10px; height: 21px">
-<label>E-mail address:</label>
-<input class="field signup_email" type="text" name="email" size="20" style="width: 266px; padding: 10px; height: 21px">
-<input class="signup_f" type="hidden" name="f" value="">
-</form>
-<input type="submit" value="Let's Go!" id="submitMusic" style="clear: both; width: 289px; height: 45px; line-height: 45px;margin-left: 7px;">
-</div>
-</div>
-<div id="fashionPop" style="">
-<img src="http://static.artistswanted.org/images/comps/home/fashionImage.jpg.pagespeed.ce.4Gez-9rMWk.jpg" style="float: left;bottom: 0;position: absolute">
-<div style="float: right; width: 316px">
-<img src="http://static.artistswanted.org/images/comps/home/fashionPopText.png.pagespeed.ce.LtxZVEmdnF.png" style="margin-bottom: 20px;">
-<div style="text-align: center">Your portfolio can be eligible for <strong>$30,000</strong> in cash grants, a video of your work &amp; story shown in <strong>Times Square</strong>, a <strong>two page spread in i-D Magazine</strong> and world-wide publicity.</div>
-<form style="margin-left: 7px;" id="submitFashion-form" accept-charset="UTF-8">
-<label>First Name:</label>
-<input class="field signup_firstname" type="text" name="firstName" size="20" style="width: 266px; padding: 10px; height: 21px">
-<label>Last Name:</label>
-<input class="field signup_lastname" type="text" name="lastName" size="20" style="width: 266px; padding: 10px; height: 21px">
-<label>E-mail address:</label>
-<input class="field signup_email" type="text" name="email" size="20" style="width: 266px; padding: 10px; height: 21px">
-<input class="signup_f" type="hidden" name="f" value="">
-</form>
-<input type="submit" value="Let's Go!" id="submitFashion" style="clear: both; width: 289px; height: 45px; line-height: 45px;margin-left: 7px;">
-</div>
+<a href="#why" class="whyPopup"></a>
+<div id="why">
+<img pagespeed_lazy_src="https://static2.see.me/images/v3/see-home/our_mission.jpg.pagespeed.ce.53P4oki-Pm.jpg" style="margin-bottom: 40px;" src="/mod_pagespeed_static/1.Hy2LQaukh5.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);" pagespeed_lazy_replaced_functions="1">
+<h1>This started as a small idea,<br>that grew...</h1>
+<p><strong>A few years ago I was having dinner in Brooklyn with Jason Goodman, founder of the creative space 3rd Ward.</strong> We were talking about the experience of struggling artists. It was something we’d both experienced firsthand, and we wanted to take a new approach to supporting the creative dialogue we are so passionate about.</p>
+<p>We worked with hundreds of artists in our neighborhood and knew there were millions more around the world with similar needs and ambitions.</p>
+<p>That night I drew up the idea of a dynamic online community that gives creatives of all types access to tools to promote their work while connecting them with real-world opportunities and financial support.</p>
+<p><strong>That dream became a plan and, after two years of late nights and bad coffee, that plan became reality in See.Me.</strong></p>
+<div class="break"></div>
+<h1>We Built See.Me To Foster a Creative Community.</h1>
+<p>Our mission has always been simple: <strong>we support creatives.</strong> From years working on outsider artistic projects in the streets, warehouses and forgotten places of New York City, I deeply appreciate the need for support, recognition and community.</p>
+<p>More than anything, I understand the need for artists to have ongoing financial support.</p>
+<p>With that, we’ve built a visual social network that allows creatives of all types to have a permanent home on the web. And now we are releasing a feature that allows creatives, like you, to earn money directly through your See.Me profile.</p>
+<div class="break"></div>
+<h1>The See.Me Community is built on generosity.</h1>
+<p>If you choose, you can accept contributions through your See.Me profile so that <strong>anyone, anywhere in the world can support your creative work with tips.</strong> Think of it like the old system of patronage, but instead of one wealthy family supporting a handful of artists, millions of viewers can contribute ongoing financial support to a wide and varied community.</p>
+<p>You can easily add rewards to encourage contributions and your supporters will receive monthly updates as you add new work and come up with new ideas. There are no limitations on how much you can make, and you can accept contributions for as long as you like.</p>
+<p>It’s an honor to serve the hundreds of thousands of creatives who use our site, and we can’t wait to see the creative ways you will use these tools.</p>
+<p>Sincerely,</p>
+<img pagespeed_lazy_src="https://static1.see.me/images/v3/see-home/will-sig.jpg.pagespeed.ce.Qfo-tN8LJ9.jpg" src="/mod_pagespeed_static/1.Hy2LQaukh5.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);" pagespeed_lazy_replaced_functions="1">
+<p>William Etundi Jr.<br>
+Founder &amp; CEO of See.Me</p>
+<p>p.s. To check-out the first users accepting contributions, visit <a href="https://blindguy.see.me/">Pete Eckert</a>, an accomplished photographer from Sacramento, <a href="https://anyasapozhnikova.see.me/">Anya Sapozhnikova</a> a Brooklyn-based circus performer, and <a href="https://aarontaylorkuffner.see.me/">Aaron Taylor Kuffner</a>, who is accepting support for a fully robotic Gamelan Orchestra.</p>
 </div>
 <div id="video">
 <iframe src="//player.vimeo.com/video/45578129?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" width="1000" height="563" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 </div>
 </div>
-<script src="http://static.artistswanted.org/js/cycle.js.pagespeed.jm.0kmA35gaGy.js"></script>
-<script src="http://static.artistswanted.org/js/fancybox/jquery.fancybox-1.3.4.js.pagespeed.jm.F1gIF4O3jY.js"></script>
-<script src="http://static.artistswanted.org/js/jquery-ui-1.8.7.custom.min.js.pagespeed.jm.GZhG5uBeth.js"></script>
-<script src="http://static.artistswanted.org/js/jquery.masonry.js.pagespeed.jm.dteS0oVJNU.js"></script>
-<script src="http://static.artistswanted.org/js/jquery.countdown.min.js.pagespeed.jm.8B_l0BWq0b.js"></script>
-<script src="http://static.artistswanted.org/js/jquery.tipsy.js.pagespeed.jm.4h46wRnAS1.js"></script>
-<script src="http://static.artistswanted.org/js/underscore.js.pagespeed.jm.OCRGVroean.js"></script>
-<script src="http://static.artistswanted.org/js/backbone.js.pagespeed.jm.kLoLwgJc1T.js"></script>
-<script src="http://static.artistswanted.org/js/v3/models.js.pagespeed.jm.BwwF6D7USR.js"></script>
-<script src="http://static.artistswanted.org/js/v3/home.js.pagespeed.jm.IhGKxunHxG.js"></script>
-<script type="text/javascript" id="facebook-jssdk"></script>
+<script type="text/javascript" pagespeed_no_defer="">pagespeed.lazyLoadImages.overrideAttributeFunctions();</script><script src="https://static2.see.me/js/cycle.js.pagespeed.jm.0kmA35gaGy.js"></script>
+<script src="https://static1.see.me/js/fancybox/jquery.fancybox-1.3.4.js.pagespeed.jm.F1gIF4O3jY.js"></script>
+<script src="https://static2.see.me/js/jquery-ui-1.8.7.custom.min.js.pagespeed.jm.GZhG5uBeth.js"></script>
+<script src="https://static2.see.me/js/jquery.history.js.pagespeed.ce.cNcCGZIPfV.js"></script>
+<script src="https://static1.see.me/js/jquery.masonry.js.pagespeed.jm.dteS0oVJNU.js"></script>
+<script src="https://static2.see.me/js/jquery.countdown.min.js.pagespeed.jm.8B_l0BWq0b.js"></script>
+<script src="https://static1.see.me/js/jquery.tipsy.js.pagespeed.jm.4h46wRnAS1.js"></script>
+<script src="https://static1.see.me/js/jquery.validate.min.js.pagespeed.jm.ctt26Efcu2.js"></script>
+<script src="https://static2.see.me/js/additional-methods.js.pagespeed.jm.xGckj9cuXI.js"></script>
+<script src="https://static2.see.me/js/jquery.fileupload.js.pagespeed.jm.U2bpgUj0Tl.js"></script>
+<script src="https://static1.see.me/js/jquery.iframe-transport.js.pagespeed.jm.Z3oWVG_ihD.js"></script>
+<script src="https://static1.see.me/js/underscore.js.pagespeed.jm.OCRGVroean.js"></script>
+<script src="https://static1.see.me/js/backbone.js.pagespeed.jm.kLoLwgJc1T.js"></script>
+<script src="https://static1.see.me/js/v3/models.js.pagespeed.jm.x7czUQyay3.js"></script>
+<script src="https://static2.see.me/js/v3/views-common.js.pagespeed.jm.HpH3HOIRP6.js"></script>
+<script>//<![CDATA[
+window.signupModalJs='/js/v3/signup-modal.js';var openSignupModal=function(accountCreateSuccessCb,processSuccessCb,fields){if(typeof accountCreateSuccessCb!=='function'){accountCreateSuccessCb=function(){};}
+if(window.loadedSignupModal){window.initSignupModal(accountCreateSuccessCb,processSuccessCb,fields);return;}
+$('body').append('<div id="signupModalTemplates"></div>');$('#signupModalTemplates').load('/pgs/signup_modal_templates',{},function(){var cache=$.ajaxSettings.cache;$.ajaxSettings.cache=true;$.getScript(window.signupModalJs,function(){$.ajaxSettings.cache=cache;window.loadedSignupModal=true;window.initSignupModal(accountCreateSuccessCb,processSuccessCb,fields);});});};
+//]]></script>
+<script>//<![CDATA[
+window.walletModalJs='/js/v3/wallet-modal.js';window.openWalletModal=function(options){options=options||{};if(window.loadedWalletModal){window.initWalletModal(options);return;}
+$('body').append('<div id="walletModalTemplates"></div>');$('#walletModalTemplates').load('/pgs/wallet_modal_templates',{},function(){var cache=$.ajaxSettings.cache;$.ajaxSettings.cache=true;$.getScript(window.walletModalJs,function(){$.ajaxSettings.cache=cache;window.loadedWalletModal=true;window.initWalletModal(options);});});};
+//]]></script>
+<script src="https://static2.see.me/js/v3/home.js.pagespeed.jm.bWA-jkpUdL.js"></script>
+<script src="https://static2.see.me/js/v3/header.js.pagespeed.jm.TcPmROadBK.js"></script>
+<script src="https://static1.see.me/js/placeholder.min.js.pagespeed.jm.hLuBbE6_ZG.js"></script>
+<script src="https://static2.see.me/js/v3/showInfo.js.pagespeed.jm.knLp13rHWO.js"></script>
+<script type="text/javascript">$('document').ready(function(){$.getScript(window.location.protocol+'//connect.facebook.net/en_US/all.js',function(){window.FB.init({appId:'205268676187766',status:true,cookie:true,xfbml:true,oauth:true});});});</script>
 <script type="text/javascript">_qevents.push({qacct:"p-Tf_6et-NvKDt4"});</script>
 <noscript>
 <div style="display:none;">
@@ -227,4 +311,4 @@ Copyright 2012 See Me Group
 </noscript>
 
 
-</body></html>
+</footer></body></html>
