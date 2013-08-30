@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optionsxo.com privacy policy that was archived on 2013-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130125205740id_/https%3A//www.optionsxo.com/content/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optionsxo.com privacy policy that was archived on 2013-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130830052613id_/https%3A//www.optionsxo.com/content/privacy-and-security) for the most accurate reproduction.*
 
 # Security & Privacy – OptionsXO
 
