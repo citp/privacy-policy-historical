@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the byojet.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627204310id_/http%3A//www.byojet.com/100_Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the byojet.com privacy policy that was archived on 2013-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130830034205id_/http%3A//www.byojet.com/100_Privacy.asp) for the most accurate reproduction.*
 
 # BYOjet Privacy Policy
 
