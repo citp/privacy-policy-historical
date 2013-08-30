@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the see.me privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117020132id_/http%3A//www.see.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the see.me privacy policy that was archived on 2013-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130830202249id_/https%3A//www.see.me/privacy) for the most accurate reproduction.*
 
 # See | Me - Where great talent receives endless attention
 
@@ -34,11 +34,13 @@ See.Me (“See.Me”) sometimes may offer contests, sweepstakes or promotions th
 
 ### Attention, Kids
 
+If you are under the age of 18 but are at least 13 years old, you may submit information about yourself to the site only if authorized to do so by a parent or legal guardian.
+
 If you are under the age of 13 (12 or younger), you may not provide any information about yourself to the site. While you may view content on the site, you may not register with the site, enter any of our sweepstakes or contests or participate in any of our chat rooms, bulletin boards, or other activities that would let you enter information about yourself. If we learn that you have provided information about yourself to the site, we will delete such information.
 
 ### Note to Parents
 
-See.Me will not knowingly collect personally identifiable information from kids under 13. If you have any concerns about the site or its related services, wish to find out if your child is a member of one of our services, or wish to cancel your child’s membership, please contact us at hello@see.me
+See.Me will not knowingly collect personally identifiable information from kids under 13 or from minors under 18 who are not authorized by a parent or legal guardian. If you have any concerns about the site or its related services, wish to find out if your child is a member of one of our services, or wish to cancel your child's membership, please contact us at [hello@see.me](mailto:hello@see.me)
 
 ### Ad Servers
 
