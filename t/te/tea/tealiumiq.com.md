@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tealiumiq.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605062314id_/http%3A//www.tealium.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tealiumiq.com privacy policy that was archived on 2013-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130830093804id_/http%3A//www.tealium.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Tealium
 
