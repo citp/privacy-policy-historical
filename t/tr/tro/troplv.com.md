@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the troplv.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630002949id_/http%3A//troplv.com/SubPage.aspx%3Fpage%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the troplv.com privacy policy that was archived on 2013-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130830041753id_/http%3A//www.troplv.com/SubPage.aspx%3Fpage%3DPrivacy) for the most accurate reproduction.*
 
 # Privacy Policy | Tropicana Las Vegas Hotel Resort and Casino
 
