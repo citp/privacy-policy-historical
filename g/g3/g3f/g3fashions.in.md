@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the g3fashions.in privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508163004id_/http%3A//www.g3fashions.in/contents.php%3Fid%3D16) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the g3fashions.in privacy policy that was archived on 2013-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130830183332id_/http%3A//www.g3fashions.in/contents.php%3Fid%3D16) for the most accurate reproduction.*
 
 # g3fashions
 
