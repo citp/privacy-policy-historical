@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecompanystore.com privacy policy that was archived on 2013-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130131042954id_/http%3A//www.thecompanystore.com/Privacy/privacy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecompanystore.com privacy policy that was archived on 2013-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130830210927id_/http%3A//www.thecompanystore.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy and Security | The Company Store
 
@@ -7,6 +7,17 @@ Data about your activity while here on this site is automatically provided to Th
 If you would prefer not to receive such e-mails, please [click here](https://web.archive.org/on/demandware.store/Sites-TCS-Site/default/Account-Show). 
 
 If you use our Click To Call Live Help feature and elect to have our Customer Service agent co-browse your website session with you, we will also know how you navigate around our site. While this technology enables our Customer Service agent to view the pages you are viewing, our agent can only view pages on The Company Store’s website, cannot control your computer in any way and cannot access any data on your computer including personal information such as your social security number, passwords, or payment information. Once your co-browse session ends, which occurs automatically when you complete your Click To Call contact, our agent will have no further access to your browsing session or your computer. 
+
+We are here to answer your questions on our privacy policy:  
+**Customer Service:** 1-800-323-8000  
+**Monday-Friday:** 7am-10pm CST  
+**Saturday & Sunday:** 8am-5pm CST.
+
+Or if you prefer, write to us at:   
+Customer Service Manager  
+The Company Store  
+500 Company Store Road  
+La Crosse, WI 54601-4477
 
 
 
