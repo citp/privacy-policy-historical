@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the limewire.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519111917id_/http%3A//www.limewire.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limewire.com privacy policy that was archived on 2013-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130831014044id_/http%3A//www.limewire.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Lime Wire
 
