@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chatwing.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629203518id_/http%3A//chatwing.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatwing.com privacy policy that was archived on 2013-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130830120000id_/http%3A//chatwing.com/site/privacy) for the most accurate reproduction.*
 
 # ChatWing | Privacy policy
 
