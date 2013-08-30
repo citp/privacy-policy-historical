@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the michaelpage.co.uk privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627034528id_/http%3A//www.michaelpage.co.uk/content/15530/data-protection-and-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michaelpage.co.uk privacy policy that was archived on 2013-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130830220033id_/http%3A//www.michaelpage.co.uk/content/15530/data-protection-and-privacy-policy.html) for the most accurate reproduction.*
 
 # Data Protection and Privacy Policy - Michael Page
 
