@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dealofthedayindia.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613055310id_/http%3A//www.dealofthedayindia.com/info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealofthedayindia.com privacy policy that was archived on 2013-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130830220901id_/http%3A//dealofthedayindia.com/info/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Indian freebies & Free Deals - Deal of The Day India
 
-##  Privacy Policy 
+##  Privacy Policy
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
@@ -17,3 +17,25 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
 
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
+
+[](http://dealofthedayindia.com/jump.php?m=pepperfry)
+
+Use Promocode: **FOOT25**. Offer applicable on a minimum purchase of Rs. 1499/-
+
+* * *
+
+Offer valid till stocks last
+
+* * *
+
+Use Promocode: **EOSS20**. Offer valid on a min. purchase of Rs. 999/- Offer not valid on Casio.
+
+* * *
+
+Use Promocode: **JBOGO**. Offer valid on products listed on respective landing page only.
+
+[](http://goo.gl/Tu1kxG)
+
+[](http://goo.gl/6JtJ0G)
+
+[](http://bit.ly/12yEKn0)
