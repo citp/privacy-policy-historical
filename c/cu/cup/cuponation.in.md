@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cuponation.in privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512110416id_/http%3A//www.cuponation.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cuponation.in privacy policy that was archived on 2013-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130830101639id_/http%3A//www.cuponation.in/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Sales and Discount Vouchers at CupoNation
 
