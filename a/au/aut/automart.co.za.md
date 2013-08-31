@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the automart.co.za privacy policy that was archived on 2013-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130129113829id_/http%3A//www.automart.co.za/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automart.co.za privacy policy that was archived on 2013-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130831073544id_/http%3A//www.automart.co.za/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Automart
 
