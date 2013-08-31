@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dell.co.uk privacy policy that was archived on 2012-10-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121007071826id_/http%3A//www.dell.co.uk/content/topics/topic.aspx/emea/topics/footer/privacy%3Fc%3Duk%26l%3Den%26s%3Dgen%26%7Elt%3Dpopup) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dell.co.uk privacy policy that was archived on 2013-08-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130831233504id_/http%3A//www.dell.co.uk/content/topics/topic.aspx/emea/topics/footer/privacy%3Fc%3Duk%26l%3Den%26s%3Dgen%26%7Elt%3Dpopup) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><html><head>
 	<title>Privacy Practices | Dell UK</title>
@@ -10,14 +10,18 @@
 	<meta name="AUTHOR" content="Dell EMEA">
 	<meta name="LANGUAGE" content="en">
 	<meta name="DOCUMENTCOUNTRYCODE" content="uk">
+	<meta name="COUNTRY" content="uk">
+	<meta name="ENVIRONMENT" content="ST">
 	<meta name="SEGMENT" content="gen">
-	<meta name="generator" content="Storm Content Publishing Engine v8.3.00.0001; Copyright 1999-2012 Dell Inc. ">
+	<meta name="generator" content="Storm Content Publishing Engine v8.5.00.0001; Copyright 1999-2013 Dell Inc. ">
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<link rel="STYLESHEET" type="text/css" href="http://www1-cdn.euro.dell.com/content/public/css.aspx?c=uk&amp;l=en&amp;~set=storm83">
-	<link rel="STYLESHEET" type="text/css" href="http://www1-cdn.euro.dell.com/content/public/css.aspx?c=uk&amp;l=en&amp;~set=storm83MH">
-	<script language="javascript" src="http://i.dell.com/images/global/js/tlinclude.js"></script>
+	<link rel="STYLESHEET" type="text/css" href="http://www1-cdn.euro.dell.com/content/public/css.aspx?c=uk&amp;l=en&amp;~set=storm85">
+	<link rel="STYLESHEET" type="text/css" href="http://www1-cdn.euro.dell.com/content/public/css.aspx?c=uk&amp;l=en&amp;~set=storm85MH">
+	<script language="javascript" src="http://nexus.ensighten.com/dell/Bootstrap.js"></script>
+	<script language="javascript" src="http://i.dell.com/images/global/js/tlinclude82a.js"></script>
 	<script language="javascript" src="http://i.dell.com/images/global/js/lib/jquery-1.2.2e.js"></script>
-	<script language="javascript" src="http://i.dell.com/images/global/js/common83.js"></script>
+	<script language="javascript" src="http://i.dell.com/images/global/js/common85a.js"></script>
+	<script language="javascript" src="http://i.dell.com/images/global/js/mbox41_5.js"></script>
 	<script language="javascript" src="http://www1-cdn.euro.dell.com/content/public/menu.aspx?c=uk&amp;l=en&amp;s=gen"></script>
 	<script type="text/javascript" language="javascript">
 		var m_glossaryURLBase="/Content/public/glossary.aspx";
@@ -28,6 +32,102 @@
 	<link rel="SHORTCUT ICON" href="http://i.dell.com/images/global/branding/dellecomicon.ico">
 	<link rel="canonical" href="http://www1.euro.dell.com/content/topics/topic.aspx/emea/topics/footer/privacy?c=uk&amp;l=en"></head>
 <body id="bodyTag" class="bodyNextGen"><table cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td>
+<header id="revidHeader" data-bind="attr: { 'class': css }">
+    <div class="custHelp" data-bind="'if': !isPopup">
+        <div class="col12 cntrDiv clrFix">
+            <span class="help" data-bind="html: contactUs"></span>
+			<span data-bind="css: { premier: true, noMda: !(mda.length > 0), nonEmpty: (premier.showTitle || premier.storeTitle || premier.linkTxt || privacy.showSettings) }">
+			<span class="storeNm" data-bind="'if': premier.showTitle, text: premier.storeTitle"></span>
+			<a data-bind="text: premier.linkTxt, attr: { href: premier.linkUrl }"></a>
+			<span data-bind="if: premier.linkTxt &amp;&amp; privacy.showSettings, css: { mhSep: premier.linkTxt &amp;&amp; privacy.showSettings }">|</span>
+			<a href="#" data-bind="'if': privacy.showSettings, text: privacy.caption, css: { privacysettingslink: privacy.showSettings }, event: { click: privacy.onClick }"></a>
+			</span>
+            <span class="osRec" data-bind="html: mda.length > 0 ? mda : '', css: { osRec: mda.length > 0 }"></span>
+        </div>
+    </div>
+    <nav class="mh" data-bind="template: { afterRender: bindEvents }">
+        <div class="col12 cntrDiv clrFix topNav">
+            <a href="http://www.dell.com/" class="mhLogo" data-bind="if: !isHome, attr: { title: logoLink, href: logoLink }"><img src="http://i.dell.com/images/global/brand/ui/logo-wt-bl.png" width="49" height="49" alt="Dell" title="Dell" border="0"></a>
+            <span class="mhHomeLogo mhLogo" data-bind="if: isHome"><img src="http://i.dell.com/images/global/brand/ui/logo-wt-bl.png" width="49" height="49" alt="Dell" title="Dell" border="0"></span>
+            <div class="tierNav" data-bind="'if': navigation.length > 0">
+                <ul id="tr1" class="tier1">
+                    <li class="t1li noMarg">
+                        <ul class="t1Nav" data-bind="foreach: navigation">
+                            <li data-bind="attr: { id: containerId }, css: { t1li: true, curSel: isActive }">
+                                <div data-bind="attr: { 'class': cssClass }">
+                                    <a href="#" class="mNav" data-bind="html: caption, attr: { rel: containerId, href: url, target: target }"></a>
+                                    <span></span>
+                                </div>
+                                <!-- BEGIN SUBNAV TIER2 -->
+                                <div class="subNav" data-bind="attr: { id: containerId + '_sub' }">
+                                    <div class="col12 cntrDiv clrFix">
+                                        <ul class="tier2" data-bind="foreach: subNavigation">
+                                            <li class="t2li" data-bind="attr: { id: containerId }">
+                                                <div class="tierLink" data-bind="attr: { 'class': cssClass }">
+                                                    <a href="#" class="mNav" data-bind="html: caption, attr: { rel: containerId, href: url, target: target }"></a>
+                                                    <span></span>
+                                                </div>
+                                                <!-- BEGIN SUBNAV TIER3 -->
+                                                <div class="subNav" data-bind="attr: { id: containerId + '_sub' }">                                  
+                                                    <div class="col12 cntrDiv clrFix">
+                                                        <div data-bind="'if': subNavigation.length > 0">
+                                                            <ul data-bind="foreach: subNavigation, attr: { 'class': colClass }">
+                                                                <li class="t3li">
+                                                                    <span data-bind="css: { separator: isSeparator }"></span>
+                                                                    <div data-bind="'if': !isSeparator">
+                                                                        <ul>
+                                                                            <div data-bind="'if': (url != null)">
+                                                                                <li><a class="t3header" data-bind="attr: { href: url, target: target }"><strong data-bind="html: caption"></strong></a></li>
+                                                                            </div>
+                                                                            <div data-bind="foreach: subNavigation">
+                                                                                <li><a data-bind="html: caption, attr: { href: url, target: target }"></a></li>
+                                                                            </div>
+                                                                        </ul>
+                                                                    </div>
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                        <ul class="viewAll clrFix">
+                                                            <li class="col3" data-bind="template: { name: 'viewAll-template', data: $parent }"></li>
+                                                            <li class="col3" data-bind="template: { name: 'viewAll-template', 'if': subNavigation.length > 0 }"></li>
+                                                            <li class="closeTier"><a href="#" data-bind="attr: { title: $root.closeLabel }"><span></span></a></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="login t1li" data-bind="'if': pbar.showMA">
+                        <div class="tierLogin" data-bind="template: { name: function () { return pbar.showAuthMsg ? 'pbar-showAuthMsg-template' : 'pbar-noShowAuthMsg-template' }, data: pbar }"></div>
+                    </li>
+                </ul>
+            </div>
+            <div data-bind="'if': isPopup, css: { osRec: mda.length > 0 }"><span data-bind="html: mda.length > 0 ? mda : ''"></span></div>
+            <div class="crtSrch" data-bind="'if': !isPopup">
+                <span data-bind="template: { name: 'showCart-template', 'if': cart.showCart }"></span>
+                <span data-bind="template: { name: 'showSearch-template', 'if': search.showSearch }"></span>
+            </div>
+        </div>
+    </nav>
+    <div class="col12 cntrDiv clrFix">
+        <div data-bind="'if': ptools.length > 0">
+            <ul class="pgTools clrFix" data-bind="foreach: { data: ptools, as: 'ptool' }">
+                <li data-bind="template: { name: function () { return HasLink ? 'ptoolHasLink-template' : 'ptoolHasNoLink-template' }, data: ptool }"></li>
+            </ul>
+        </div>
+        <div data-bind="'if': bcrumbs.length > 0">
+            <ul class="bCrumb clrFix" data-bind="foreach: { data: bcrumbs, as: 'bcrumb' }">
+                <li data-bind="template: { name: function () { return HasLink ? 'bCrumbHasLink-template' : 'bCrumbHasNoLink-template' }, data: bcrumb }, attr: { 'class': ($index() === 0) ? 'home' : '' }"></li>
+            </ul>
+        </div>
+    </div>
+</header>
+				
+
 <script type="text/javascript" language="JavaScript">
 m_printLink = "javascript:printview()";var m_mhTheme = null;
 var m_pageTheme = null;
@@ -36,11 +136,10 @@ var m_pbarPfx = "http://pbar.us.dell.com";
 var _curAuthLevel = 0;
 var _curAuthEmailID = "";
 var m_pbarTabTitle = "My Account";
-var m_myAccountLink    = "https://ecomm.dell.com/myaccount/main.aspx?c=uk&l=en&s=gen";
-addPnLink( "My Account", "https://ecomm.euro.dell.com/myaccount/main.aspx?s=dhs&l=en&c=uk", "c_profile" );
-addPnLink( "Premier Login", "http://www1.euro.dell.com/content/topics/topic.aspx/global/premier/login/signin?c=uk&l=en&s=gen", "c_premierlogin" );
-addPnLink( "Technical support", "http://support.euro.dell.com/support/index.aspx?c=uk&l=en&s=gen", "c_help" );
-addPnLink( "Order support", "http://support.euro.dell.com/support/topics/topic.aspx/emea/shared/support/customer_care/en/customer_care?c=uk&l=en&s=gen", "c_help" );
+var m_privacySettingBar = new PrivacySettingStrip( "true","Manage Cookies")
+var m_myAccountLink    = "https://ecomm.euro.dell.com/myaccount/main.aspx?s=dhs&l=en&c=uk";
+var m_pbar_privacysetting_link = "true";
+var m_pbar_privacysetting_link_caption = "Manage Cookies";
 m_isRtl = false;
 m_curUrl = "http://www1.euro.dell.com/content/topics/topic.aspx/emea/topics/footer/privacy?c=uk&l=en&s=gen&~lt=popup";
 </script><script type="text/javascript" language="JavaScript">
@@ -72,7 +171,7 @@ writeMHSimple(true,"","/content/topics/topic.aspx/emea/topics/footer/privacy?c=u
 					</p><div class="para_intropara"><h3 class="para_intropara  h3para_intropara">Web Beacons</h3></div><p class="para">We, or third parties acting on our behalf, may use web beacons or related technology on our site, in our communications, on other sites, or in our communications in others' messages. A web beacon is an electronic image that can be used to recognise a cookie on your equipment when you view a web page or online communication. Web beacons help us measure the effectiveness of our site and our interactions with you in various ways, for example, by counting the number of individuals who visit our site from a particular communication or make a purchase from our site after viewing a particular message as well as by telling us when a web page is viewed and providing a description of the page where the web beacon is placed. Web beacons also help us measure the effectiveness of our communication campaigns, for example, by counting the number of individuals who open or act upon a message, determining when a message is accessed and determining how many times a message is transmitted onwards.</p><p class="para">The information we collect may include personal information, and web beacons allow us to recognise users by accessing Dell cookies. We may also combine the information that we collect through web beacons with other personal information we have collected from you. We use all of this information to better tailor our interactions with you and we may use this information for other purposes, such as to enable a shopping cart, customise content on our website and internal research purposes. We will not share any personal information collected through Dell web beacons with any third party, except for service providers who act on our behalf and who are contractually prohibited from any other use or disclosure of the information.</p><p class="para">We allow third parties to place their own web beacons on our site or in our advertisements if they share Dell's commitment to protecting your privacy and data. You can make some web beacons unusable by rejecting cookies.</p><div class="para_intropara"><h3 class="para_intropara  h3para_intropara">Third-Party Sites</h3></div><p class="para">Please be aware that other Web sites including sites that may be accessed through our site, e.g., via a hyperlink, may collect personal information about you. This privacy statement does not cover the information practices of those third-party sites linked to <a href="http://www.dell.co.uk/">www.dell.co.uk</a> or any other site. We use the <a href="http://www.microsoft.com/uk/windows/default.aspx" class="lnk" target="offdell">symbol<img src="http://i.dell.com/images/global/brand/icons/smextlink.gif" alt="External link" width="16" height="9" border="0"></a> to mark links to third-party sites. 
 					</p><div class="para_intropara"><h3 class="para_intropara  h3para_intropara">Additional Information</h3></div><p class="para">If you have asked to be contacted by one of Dell's partners, we will need to provide them with your contact details. This information will not be shared with any other party and will be forwarded to that partner for the sole purpose of allowing them to contact you. Personal data obtained from you is held and processed in accordance with all applicable laws and consistently with Dell's privacy statement</p><div class="para_intropara"><h3 class="para_intropara  h3para_intropara">Contact Dell</h3></div><p class="para"><a name="contact"></a>If you would like to contact us, or have questions regarding our privacy statement, please e-mail us at <a href="mailto:privacy@dell.com">privacy@dell.com</a></p></span></td></tr>
 </tbody></table></td><td class="vsep" width="4"><img src="http://i.dell.com/images/global/general/spacer.gif" alt="" width="4" height="1"></td><td width="1" bgcolor="#cccccc"><img src="http://i.dell.com/images/global/general/spacer.gif" alt="" width="1" height="1"></td><td valign="top" width="160"><table cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><table width="100%" height="22" cellspacing="0" cellpadding="0" border="0"><tbody><tr class="rowsolid"><td width="100%" class="fragsolid"><h2 class="titlestylesolid">Related Information</h2></td></tr></tbody></table></td></tr>
-<tr><td valign="top" width="160" style="padding-right:10px;padding-top:10px;padding-bottom:10px;"><table cellpadding="2" cellspacing="0" border="0" width="150"><tbody><tr><td valign="top" width="7"><img src="http://i.dell.com/images/global/brand/ui/hier.gif" alt="" height="17" width="7"></td><td valign="top" width="138"><div class="hiernavsel">Privacy Practices</div><div style="margin-top:4px; background-color:#cccccc"><img src="http://i.dell.com/images/global/general/spacer.gif" width="138" height="1" alt=""></div></td></tr><tr><td valign="top" width="7"><img src="http://i.dell.com/images/global/brand/ui/hier.gif" alt="" border="0" height="17" width="7"></td><td valign="top" width="135"><a href="/content/topics/topic.aspx/emea/topics/footer/privacy?c=uk&amp;l=en&amp;s=gen&amp;~lt=popup&amp;~section=002" class="lnk">Store Security</a><div style="margin-top:4px; background-color:#cccccc"><img src="http://i.dell.com/images/global/general/spacer.gif" width="138" height="1" alt=""></div></td></tr><tr><td valign="top" width="7"><img src="http://i.dell.com/images/global/brand/ui/hier.gif" alt="" border="0" height="17" width="7"></td><td valign="top" width="135"><a href="/content/topics/topic.aspx/emea/topics/footer/privacy?c=uk&amp;l=en&amp;s=gen&amp;~lt=popup&amp;~section=003" class="lnk">Encryption</a><div style="margin-top:4px; background-color:#cccccc"><img src="http://i.dell.com/images/global/general/spacer.gif" width="138" height="1" alt=""></div></td></tr><tr><td valign="top" width="7"><img src="http://i.dell.com/images/global/brand/ui/hier.gif" alt="" border="0" height="17" width="7"></td><td valign="top" width="135"><a href="/content/topics/topic.aspx/emea/topics/footer/privacy?c=uk&amp;l=en&amp;s=gen&amp;~lt=popup&amp;~section=004" class="lnk">Cookies</a><div style="margin-top:4px; background-color:#cccccc"><img src="http://i.dell.com/images/global/general/spacer.gif" width="138" height="1" alt=""></div></td></tr><tr><td valign="top" width="7"><img src="http://i.dell.com/images/global/brand/ui/hier.gif" alt="" border="0" height="17" width="7"></td><td valign="top" width="135"><a href="/content/topics/topic.aspx/emea/topics/footer/privacy?c=uk&amp;l=en&amp;s=gen&amp;~lt=popup&amp;~section=006" class="lnk">About Our Ads</a></td></tr></tbody></table></td></tr>
+<tr><td valign="top" width="160" style="padding-right:10px;padding-top:10px;padding-bottom:10px;"><table cellpadding="2" cellspacing="0" border="0" width="150"><tbody><tr><td valign="top" width="7"><img src="http://i.dell.com/images/global/brand/ui/hier.gif" alt="" height="17" width="7"></td><td valign="top" width="138"><div class="hiernavsel">Privacy Practices</div><div style="margin-top:4px; background-color:#cccccc"><img src="http://i.dell.com/images/global/general/spacer.gif" width="138" height="1" alt=""></div></td></tr><tr><td valign="top" width="7"><img src="http://i.dell.com/images/global/brand/ui/hier.gif" alt="" border="0" height="17" width="7"></td><td valign="top" width="135"><a href="/content/topics/topic.aspx/emea/topics/footer/privacy?c=uk&amp;l=en&amp;s=gen&amp;~lt=popup&amp;~section=002" class="lnk">Store Security</a><div style="margin-top:4px; background-color:#cccccc"><img src="http://i.dell.com/images/global/general/spacer.gif" width="138" height="1" alt=""></div></td></tr><tr><td valign="top" width="7"><img src="http://i.dell.com/images/global/brand/ui/hier.gif" alt="" border="0" height="17" width="7"></td><td valign="top" width="135"><a href="/content/topics/topic.aspx/emea/topics/footer/privacy?c=uk&amp;l=en&amp;s=gen&amp;~lt=popup&amp;~section=003" class="lnk">Encryption</a><div style="margin-top:4px; background-color:#cccccc"><img src="http://i.dell.com/images/global/general/spacer.gif" width="138" height="1" alt=""></div></td></tr><tr><td valign="top" width="7"><img src="http://i.dell.com/images/global/brand/ui/hier.gif" alt="" border="0" height="17" width="7"></td><td valign="top" width="135"><a href="/content/topics/topic.aspx/emea/topics/footer/privacy?c=uk&amp;l=en&amp;s=gen&amp;~lt=popup&amp;~section=004" class="lnk">Manage Cookies</a><div style="margin-top:4px; background-color:#cccccc"><img src="http://i.dell.com/images/global/general/spacer.gif" width="138" height="1" alt=""></div></td></tr><tr><td valign="top" width="7"><img src="http://i.dell.com/images/global/brand/ui/hier.gif" alt="" border="0" height="17" width="7"></td><td valign="top" width="135"><a href="/content/topics/topic.aspx/emea/topics/footer/privacy?c=uk&amp;l=en&amp;s=gen&amp;~lt=popup&amp;~section=006" class="lnk">About Our Ads</a></td></tr></tbody></table></td></tr>
 <tr><td><img src="http://i.dell.com/images/global/general/spacer.gif" alt="" width="1" height="4"></td></tr><tr><td><img src="http://i.dell.com/images/global/general/spacer.gif" alt="" width="1" height="4"></td></tr><tr><td valign="top" width="160" style="padding-right:4px;padding-top:4px;padding-bottom:4px;"><div width="156"><div><div class="verSpacing"><table cellpadding="2" cellspacing="0" border="0"><tbody><tr><td valign="top" width="5"><img src="http://i.dell.com/images/global/brand/ui/secondary.gif" width="4" height="17" border="0" alt=""></td><td align="left" valign="middle"><a href="https://ecomm.euro.dell.com/GSC/ListRemoval/Index?returnPath=www.dell.com&amp;c=uk&amp;l=en&amp;s=gen" class="lnk" target="_blank">Dell Newsletter unsubscribe</a></td></tr></tbody></table></div></div></div></td></tr>
 </tbody></table></td></tr></tbody></table></td></tr>
 </tbody></table></form><!--end center align --></td></tr></tbody></table></div></td></tr></tbody></table></div><!-- content_end-->
@@ -80,24 +179,22 @@ writeMHSimple(true,"","/content/topics/topic.aspx/emea/topics/footer/privacy?c=u
 </td></tr></tbody></table></div><div class="legalcontainer"><table class="centertable" cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr><td valign="middle" align="center"><table width="100%" cellpadding="0" style="padding-left:10px;" cellspacing="0" border="0">
 <tbody><tr><td colspan="2"><img src="http://i.dell.com/images/global/general/spacer.gif" border="0" height="5" width="1" alt=""></td></tr>
 <tr><td align="center" valign="top">
-<p class="para_small"><a href="http://www.dell.co.uk/laptops">Laptops</a> | 
-							
-							<a href="http://www.dell.co.uk/desktops">Desktops</a> | 
-							<a href="http://www.dell.com/uk/business/p/servers">Servers</a> | 
-							<a href="http://www.dell.com/uk/business/p/storage-products">Storage</a> | 
-						    <a href="http://www.dell.co.uk/monitors">Monitors</a> | <a href="http://www.dell.co.uk/printers">Printers</a> |
-							<a href="http://www.dell.co.uk/laser-printers">Laser Printers</a> | <a href="http://www.dell.co.uk/laptop-deals">Laptop Deals</a> | <a href="http://www.alienware.co.uk">Alienware</a> | <a href="http://www.dell.com/uk/p/alienware-laptops">Gaming Laptops</a> | <a href="http://www.dell.com/uk/business/p/network-file-storage">NAS</a> | <a href="http://www.dell.com/uk/business/p/iscsi-san-products">SAN</a> | <a href="http://content.dell.com/uk/en/business/smb-services-cloud-based-services">Cloud Computing</a> | <a href="http://www.dell.co.uk/desktop-deals">Desktop Deals</a> | <a href="http://www.dell.co.uk/accessories">Accessories</a> | <a href="http://www.alienware.co.uk">Gaming PC</a> | <a href="http://www.dell.com/uk/business/p/vostro-laptops">Vostro</a> | <a href="http://www.dell.co.uk/latitude">Latitude</a> | <a href="http://www.dell.com/uk/p/xps-13-l321x/pd">Ultrabook</a> | <a href="http://content.dell.com/uk/en/business/virtualization-server">VMware</a><br><a href="/content/topics/topic.aspx/emea/topics/footer/legal?c=uk&amp;l=en&amp;s=gen&amp;~lt=popup">Copyright 1999-2012 Dell Inc.</a> | 
-							<a href="/content/topics/topic.aspx/emea/topics/footer/terms?c=uk&amp;l=en&amp;s=gen&amp;~lt=popup">Terms and Conditions |
-							</a>&nbsp;<a href="http://support.euro.dell.com/support/topics/topic.aspx/emea/shared/support/dellcare/en/outstanding_issues?c=uk&amp;l=en&amp;s=gen">Unresolved Issues</a> | 
+<p class="para_small"><a href="/content/topics/topic.aspx/emea/topics/footer/legal?c=uk&amp;l=en&amp;s=gen&amp;~lt=popup">Copyright 1999-2013 Dell Inc.</a> | 
+							<a href="/content/topics/topic.aspx/emea/topics/footer/terms?c=uk&amp;l=en&amp;s=gen&amp;~lt=popup">Terms and Conditions</a> | 
+							<a href="http://support.euro.dell.com/support/topics/topic.aspx/emea/shared/support/dellcare/en/outstanding_issues?c=uk&amp;l=en&amp;s=gen">Unresolved Issues</a> | 
 							<a href="/content/topics/topic.aspx/emea/topics/footer/privacy?c=uk&amp;l=en&amp;s=gen&amp;~lt=popup">Privacy Statement</a> | 
-								<a href="/content/topics/topic.aspx/emea/topics/footer/privacy?c=uk&amp;l=en&amp;s=gen&amp;~lt=popup&amp;~section=006">About Our Ads</a> | 
+							<a href="http://www.dell.com/ensighten">Manage Cookies</a> | <a href="/content/topics/topic.aspx/emea/topics/footer/privacy?c=uk&amp;l=en&amp;s=gen&amp;~lt=popup&amp;~section=006">About Our Ads</a> | 
 							<a href="http://www.dell.com/recycling">Dell Recycling</a> | 
 							<a href="http://support.euro.dell.com/support/topics/topic.aspx/emea/shared/support/dellcare/en/segmenter?c=uk&amp;l=en&amp;s=gen">Contact</a> |							
-							<a href="/content/topics/global.aspx/about_dell/home_page/about_dell?c=uk&amp;l=en&amp;s=corp">About Dell</a> | 
-								<a href="http://www1.euro.dell.com/content/topics/topic.aspx/emea/topics/footer/company_details?c=uk&amp;l=de&amp;s=gen">Company Details</a> | 
-								<a href="/content/topics/global.aspx/corp/careers/en/emea?c=uk&amp;l=en&amp;s=gen">Careers</a> | 
-								<a href="http://www.dell.co.uk/sitemap">Site Map</a> | 
-									<a href="http://www.dell.co.uk/videos">Video Sitemap</a> | <a href="javascript:doOpionlabs();O_LC();" class="oplabs">Feedback</a><br><a href="http://www.dell.at/">AT</a> | 
+							<a href="http://www1.euro.dell.com/content/topics/topic.aspx/emea/topics/footer/company_details?c=uk&amp;l=de&amp;s=gen">Company Details</a> | 
+								<a href="http://www.dell.co.uk/sitemap">Site Map</a> | <a href="javascript:doOpionlabs();O_LC();" class="oplabs">Feedback</a><br><span data-title="Products">
+							<a href="http://www.dell.com/uk/p/laptops">Laptops and Ultrabooks™</a> | 
+							
+							<a href="http://www.dell.com/uk/p/desktops">Desktops and All-In-Ones</a> | <a href="http://www.dell.com/learn/uk/en/ukdhs1/campaigns/windows-tablet-pc">Tablets</a> | <a href="http://www.dell.com/uk/p/touch-screen-systems">Touch Systems</a> | 
+							
+							<a href="http://www.dell.com/uk/business/p/servers">Servers</a> | 
+							<a href="http://www.dell.com/uk/business/p/storage-products">Storage</a> | <a href="http://accessories.euro.dell.com/sna/category.aspx?c=uk&amp;category_id=4009&amp;cs=ukdhs1&amp;l=en&amp;ref=bkt&amp;s=dhs">Monitors</a> |  | <a href="http://www.dell.com/uk/p/popular-laptop-deals">Laptop Deals</a> | <a href="http://www.dell.com/uk/p/alienware-laptops">Gaming Laptops</a> | <a href="http://www.dell.com/uk/business/p/network-file-storage">NAS</a> | <a href="http://www.dell.com/uk/business/p/iscsi-san-products">SAN Storage</a> | <a href="http://www.dell.com/learn/uk/en/rc1050265/dell-cloud-computing">Cloud Computing</a> | <a href="http://www.alienware.co.uk">Alienware Gaming PC</a> | <a href="http://www.dell.com/learn/uk/en/rc1050265/campaigns/dell-and-vmware-ga-partners">VMware</a> | <a href="http://www.dell.com/learn/uk/en/ukdhs1/campaigns/windows-8-consumer">Windows 8</a> | <a href="http://www.dell.com/learn/uk/en/ukdhs1/virtual-data-center">Virtualization</a> | <a href="http://www.dell.com/uk/p/touch-screen-systems">Touch Screen</a> | <a href="http://www.dell.com/learn/uk/en/rc1050265/high-performance-computing">High Performance Computing</a></span><br><span data-title="Countries">
+							<a href="http://www.dell.at/">AT</a> | 
 							<a href="http://www.dell.com.au/">AU</a> | 
 							<a href="http://www.dell.be/">BE</a> | 
 							<a href="http://www.dell.com.br/">BR</a> | 
@@ -123,25 +220,25 @@ writeMHSimple(true,"","/content/topics/topic.aspx/emea/topics/footer/privacy?c=u
 							<a href="http://www.dell.com.sg/">SG</a> | 
 							<a href="http://www.dell.com/">US</a> |
 							
-							<a href="http://www.dell.com/content/public/choosecountry.aspx?c=us&amp;l=en&amp;s=gen">ALL</a></p><script language="JavaScript" type="text/javascript">
-	document.write('<sc'+'ript');
-	document.write(' type="text/javascript"');
-	document.write(' language="JavaScript"');
-	document.write(' src="'+m_imgPfx+'/images/global/js/s_code_dell_vh24_3.js">');
-	document.write('</sc'+'ript>');
-</script><script type="text/javascript" language="JavaScript" src="http://i.dell.com/images/global/js/s_code_dell_vh24_3.js"></script><script language="JavaScript" type="text/javascript">
-	if (typeof(s_code) != 'undefined') {
-	s_dell.pageName="";
-	var s_code=s_dell.t();if(s_code)document.write(s_code);
-	}
-</script>
+							<a href="http://www.dell.com/content/public/choosecountry.aspx?c=us&amp;l=en&amp;s=gen">ALL</a></span></p><script language="JavaScript" type="text/javascript">
+		document.write('<sc'+'ript');
+		document.write(' type="text/javascript"');
+		document.write(' language="JavaScript"');
+		document.write(' src="'+m_imgPfx+'/images/global/js/s_code_dell_vh35_1.js">');
+		document.write('</sc'+'ript>');
+		</script><script type="text/javascript" language="JavaScript" src="http://i.dell.com/images/global/js/s_code_dell_vh35_1.js"></script><script language="JavaScript" type="text/javascript">
+		if (typeof(s_code) != 'undefined') {
+		s_dell.pageName="";
+		var s_code=s_dell.t();if(s_code)document.write(s_code);
+		}
+		</script>
 </td></tr></tbody></table>
 </td><td valign="middle" align="right" nowrap="nowrap"><div class="snvlrg"><a href="http://www1.euro.dell.com/content/topics/topic.aspx/emea/topics/footer/privacy?c=uk&amp;l=en&amp;s=gen&amp;~f=lg&amp;~lt=popup">Large Text</a></div>
 </td></tr></tbody></table></div><script type="text/javascript" language="JavaScript">
 m_pzationPageHash="";
 </script>
 <div class="technotescontainer"><table class="centertable" cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr><td><div id="footer" class="disclaimers"></div>
-</td></tr></tbody></table></div><font class="secretTextNextGen">snWW05</font><script language="JavaScript">
+</td></tr></tbody></table></div><font class="secretTextNextGen">snWW03</font><script language="JavaScript">
 sReady();
 </script>
 </td></tr></tbody></table>
