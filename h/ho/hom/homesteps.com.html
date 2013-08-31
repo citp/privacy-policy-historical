@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the homesteps.com privacy policy that was archived on 2013-04-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130406010424id_/http%3A//www.homesteps.com/homesteps/terms/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the homesteps.com privacy policy that was archived on 2013-08-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130831020514id_/http%3A//www.homesteps.com/homesteps/terms/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html itemscope="" itemtype="http://schema.org/Organization" lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#"><head><meta charset="utf-8"><meta itemprop="name" content="Homesteps Real Estate">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -78,6 +78,47 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 })();
 </script>
 <link rel="apple-touch-icon" href="//homesteps-activedt.netdna-ssl.com/content/img/apple-touch-icon.png">
+<script type="text/javascript">
+$j(document).ready( function() {
+// add an event to all link for google analytics
+$j('a[cmp-clk]').click(function () {
+// tell analytics to save event
+try {
+var identifier=$j(this).attr('id');
+var clk = $j(this).attr('cmp-clk');
+var href=$j(this).attr('href');
+var label="";
+if ( typeof( identifier ) != 'undefined' ) {
+label=label+'[id]:'+identifier
+category='JSLink'
+}
+if ( typeof( href ) != 'undefined' ) {
+label=label+' [href]:'+href
+if ( href[0] == '#' ) {
+category='Anchor';
+} else {
+category='Link';
+}
+}
+if( typeof( clk ) != 'undefined' ){
+label=label+'[id]:'+identifier;
+category= clk ;
+}
+_gaq.push(['_trackEvent', category, 'clicked', label]);
+//console.log('[tracked]: ' + category + ' ; clicked ; ' + label );
+}
+catch (err) {
+console.log(err);
+}
+// pause to allow google script to run
+var date = new Date();
+var curDate = null;
+do {
+curDate = new Date();
+} while(curDate-date < 300);
+});
+});
+</script>
 </head>
 <body class="extra-no-act">
 <p id="skipper"><a href="#content-display">Skip to Page Content</a> | <a href="#nav-main">Skip to Site Navigation</a> | <a href="#toc-nav">Skip to Section Navigation</a></p>
@@ -120,7 +161,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 <div id="content-display" class="">
 <script src="//homesteps-activedt.netdna-ssl.com/css/cobrands/homesteps/hs_s_code_v1.js" type="text/javascript" charset="utf-8"></script>	
 	 <div class="boxbody ">
-<div class="breadcrumb" id="breadcrumbMain"><a href="http://www.homesteps.com/" title="foreclosures" alt="foreclosures">Home</a>&nbsp;&gt;&gt;&nbsp;<a href="/homesteps/terms/terms.html">Terms and Conditions</a>&nbsp;&gt;&gt;&nbsp;Privacy Policy</div>
+<div class="breadcrumb" id="breadcrumbMain"><a href="http://www.homesteps.com/" title="foreclosures" alt="foreclosures">Home</a>&nbsp;&gt;&gt;&nbsp;<a href="/homesteps/terms/terms.html">Terms and Conditions</a>&nbsp;&gt;&gt;&nbsp;Privacy Policy	</div>
 
 
 
@@ -133,14 +174,14 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 	<h1>Privacy Policy</h1>
 	<p>Freddie Mac is a government-sponsored enterprise chartered by Congress to provide a continuous flow of funds for residential mortgages. We achieve our public purpose by purchasing, securitizing and investing in home mortgages, in effect acting as a conduit between the residential mortgage market and the investment community. We may receive personal information about you in the ordinary course of carrying out our business. We are committed to protecting the privacy of this information.</p>
 	<p>This privacy policy describes the types of personally identifiable information about borrowers and other individuals that we receive (Covered Information) and what we do with the information. The policy also describes how we safeguard Covered Information. The policy does not apply to information we receive about or from businesses, other than Website Visitor Information (as defined below). The policy also does not apply to information that may be collected by third parties through websites that link to or from this website.</p>
-	<p>We reserve the right to change this policy in the future. Any changes to this policy will be posted on this section of the website. When this policy is updated, the date of the update will appear at the bottom of this page. In addition, a copy of this policy is available upon request by writing to Freddie Mac, Chief Privacy Officer, 8200 Jones Branch Drive, Mailstop 434, McLean, Virginia 22102-3110 or by sending an email to <a href="mailto:privacy_inquiries@freddiemac.com">privacy_inquiries@freddiemac.com</a>.</p>
+	<p>We reserve the right to change this policy in the future. Any changes to this policy will be posted on this section of the website. When this policy is updated, the date of the update will appear at the bottom of this page. In addition, a copy of this policy is available upon request by writing to Freddie Mac, Chief Privacy Officer, 8200 Jones Branch Drive, Mailstop 434, McLean, Virginia 22102-3110 or by sending an email to <a href="mailto:privacy_mailbox@freddiemac.com">privacy_mailbox@freddiemac.com</a>.</p>
 	
 	<h2>Personally Identifiable Information We Receive and Maintain in the Ordinary Course of Our Business</h2>
 	<ul>
 		<li>We receive Covered Information about borrowers and loan applicants when we engage in our secondary market activities. For example, we may receive Covered Information (such as income information, payment history, social security number and other information provided by consumer reporting agencies, mortgage lenders and dealers) when evaluating whether to purchase a loan, when consummating the purchase of a loan or when reviewing information about loans in which we already have an interest. </li>
 		<li>We collect Covered Information from brokers and third party originator direct principals and directors who register for our proprietary services, such as Loan Prospector, or from individuals seeking bulk sales information from the Home Steps program.</li>
 		<li>We receive Covered Information from individuals interested in pursuing employment with Freddie Mac and from our employees. </li>
-		<li>We receive Covered Information from other individuals who choose to contact us and provide us with information, including information we receive through this website (see below for details). </li>
+		<li>We receive Covered Information from borrowers and other individuals who choose to contact us and provide us with information, including information we receive through this website (see below for details). </li>
 		<li>We maintain all of the foregoing information in the ordinary course of business. </li>
 	</ul>
 	
@@ -157,7 +198,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 		<li>We use Covered Information to establish customer relationships with brokers and third party originator direct principals and officers.</li>
 		<li>We disclose Covered Information to our regulators and as otherwise required by applicable laws and regulations. We otherwise comply with applicable laws and regulations in our use and disclosure of Covered Information. </li>
 		<li>We use and disclose Covered Information about our employees, as we deem appropriate for purposes related to the employment relationship in compliance with applicable laws and regulations. </li>
-		<li>We use Website Visitor Information for general statistical modeling, in order to measure the number of visitors to different pages on the website and to modify and enhance the website as we consider appropriate. We also use this information to monitor network traffic and to identify unauthorized access or unusual activity on the website. </li>
+		<li>We use Website Visitor Information for general statistical modeling, in order to measure the number of visitors to different pages on the website and to modify and enhance the website as we consider appropriate. We also use this information to monitor network traffic and to identify unauthorized access or unusual activity on the website. We may also use Website Visitor Information to respond to queries about information provided by this website and to help improve visitors' overall experience.</li>
 		<li>If you send us an email or message and provide your name or other personal information, we may use this information to send an answer to your question or to deliver the requested information or service to you. We also may use this information to provide you with information in which we believe you will be interested; however, at any time, you may request that we stop doing this by contacting us in the manner described in the "How to Reach Us" section of this policy. </li>
 		<li>We do not sell Covered Information to consumer marketing companies and have no plans to do so. </li>
 	</ul>
@@ -173,13 +214,13 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 	<p>We strive to maintain a high standard of security and privacy. However, no information can be guaranteed to be completely secure, and we make no such warranty or guarantee. In addition, we do not commit to protecting publicly available or non-confidential information except as may be required by applicable law or regulation. </p>
 	
 	<h2>Special Statement Regarding the "Does Freddie Mac Own Your Mortgage?" Web Form and Self-Service Tool</h2>
-	<p>In connection with the federal <em>Making Home Affordable</em> program, Freddie Mac has begun to provide a web form and related self-service tool on Freddiemac.com that enables individual borrowers to determine whether or not Freddie Mac owns their mortgage (the "Look-up Tool"). In order for Freddie Mac to be able to respond to those inquiries, individuals are asked to provide information that includes their Social Security number, first name, last name, property-related information and contact information. </p>
+	<p>In connection with the federal <em>Making Home Affordable</em> program, Freddie Mac provides a web form and related self-service tool on Freddiemac.com that enables individual borrowers to determine whether or not Freddie Mac owns their mortgage (the "Look-up Tool"). In order for Freddie Mac to be able to respond to those inquiries, individuals are asked to provide information that includes their Social Security number, first name, last name, property-related information and contact information. </p>
 	<p>Freddie Mac uses and discloses the information collected via the Look-up Tool only (i) to respond to the individual's inquiry, (ii) to provide services and fulfill Freddie Mac's obligations under the federal <em>Making Home Affordable</em> program and similar programs, and (iii) in connection with other loss mitigation activities. All information that you enter into the Look-up Tool is transmitted from the Look-up Tool to Freddie Mac via an encrypted communication channel. </p>
 	<p>We do not store, use or distribute the Social Security number collected via the Look-up Tool for any purpose other than to respond to the inquiry. </p>
 	 
 	<h2>How to Reach Us</h2>
-	<p>If you have a question about the way your information is used or about our information practices, please contact us by sending an email to <a href="mailto:privacy_inquiries@freddiemac.com">privacy_inquiries@freddiemac.com</a>.</p>
-	<p>Last updated: February 9, 2012</p>
+	<p>If you have a question about the way your information is used or about our information practices, please contact us by sending an email to <a href="mailto:privacy_mailbox@freddiemac.com">privacy_mailbox@freddiemac.com</a>.</p>
+	<p>Last updated: July 3, 2013</p>
  
 </div>
 
