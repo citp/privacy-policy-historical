@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegunninghawk.com privacy policy that was archived on 2012-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120311192528id_/http%3A//www.thegunninghawk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegunninghawk.com privacy policy that was archived on 2013-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130831184313id_/http%3A//www.thegunninghawk.com/privacy) for the most accurate reproduction.*
 
 # The Gunning Hawk: Arsenal Blog and Arsenal News | Privacy
 
