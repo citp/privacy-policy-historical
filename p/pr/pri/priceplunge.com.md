@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the priceplunge.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117114017id_/http%3A//www.priceplunge.com/ContentPage/8-Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the priceplunge.com privacy policy that was archived on 2013-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130831080239id_/http%3A//www.priceplunge.com/ContentPage/8-Privacy-Statement) for the most accurate reproduction.*
 
 # Privacy Policy
 
