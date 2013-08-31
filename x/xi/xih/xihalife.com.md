@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xihalife.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621171719id_/http%3A//en.xihalife.com/home/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xihalife.com privacy policy that was archived on 2013-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130831135453id_/http%3A//en.xihalife.com/home/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy policy
 
