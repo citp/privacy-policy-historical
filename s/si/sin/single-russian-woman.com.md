@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the single-russian-woman.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624013728id_/http%3A//www.single-russian-woman.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the single-russian-woman.com privacy policy that was archived on 2013-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130831235159id_/http%3A//www.single-russian-woman.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -54,7 +54,7 @@ Single-Russian-Woman.Com does not provide information about site users to any th
 
 Service Providers
 
-For rendering quality service for our users we have relations of partnership with Superb Internet Corp. company that provides hosting of our "dedicated server" in secure and closed environment, and 2Checkout.com, Inc. company that provides secure acceptance of payments from our users. 
+For rendering quality service for our users we have relations of partnership with Superb Internet Corp. company that provides hosting of our "dedicated server" in secure and closed environment, and Clickbank.com, Inc. company that provides secure acceptance of payments from our users. 
 
 Choice/Refusal
 
