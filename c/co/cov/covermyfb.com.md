@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the covermyfb.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115020616id_/http%3A//covermyfb.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the covermyfb.com privacy policy that was archived on 2013-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130831060343id_/http%3A//covermyfb.com/privacy-policy.html) for the most accurate reproduction.*
 
 # CoverMyFB.com Privacy Policy
 
