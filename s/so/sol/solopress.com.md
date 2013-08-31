@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solopress.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603012812id_/http%3A//www.solopress.com/privacy-policy-cookies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solopress.com privacy policy that was archived on 2013-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130831064702id_/http%3A//www.solopress.com/privacy-policy-cookies.html) for the most accurate reproduction.*
 
 # Privacy Policy | Solopress
 
