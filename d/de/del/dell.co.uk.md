@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dell.co.uk privacy policy that was archived on 2012-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121007071826id_/http%3A//www.dell.co.uk/content/topics/topic.aspx/emea/topics/footer/privacy%3Fc%3Duk%26l%3Den%26s%3Dgen%26%7Elt%3Dpopup) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dell.co.uk privacy policy that was archived on 2013-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130831233504id_/http%3A//www.dell.co.uk/content/topics/topic.aspx/emea/topics/footer/privacy%3Fc%3Duk%26l%3Den%26s%3Dgen%26%7Elt%3Dpopup) for the most accurate reproduction.*
 
 # Privacy Practices | Dell UK
 
