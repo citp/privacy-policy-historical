@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the notonthehighstreet.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527194106id_/http%3A//www.notonthehighstreet.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notonthehighstreet.com privacy policy that was archived on 2013-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130901011345id_/http%3A//www.notonthehighstreet.com/about/privacy) for the most accurate reproduction.*
 
 # privacy and data security | notonthehighstreet.com
 
@@ -28,14 +28,14 @@ If you would like to revise the information you have provided to us, or feel tha
 
 All the information we collect via our website or through correspondence with you is used to operate and improve the service we offer you and to personalise our service. We are committed to using your personal information only for:
 
-  1. Passing on your orders to your chosen notonthehighstreet.com partner(s) and the group gifting application provider so they can supply goods and services to you and for customer administration.
+  1. Passing on your orders to your chosen notonthehighstreet.com partner(s) and the group gifting application provider so they can supply goods and services to you and for customer administration. Our partners may use subcontractors to process and provide your orders to you. Any such subcontractors are subject to the same contractual obligations as our partners in respect of your personal information.
   2. Planning and managing notonthehighstreet.com's business activities, including analysis of customers' shopping habits, product and style preferences.
   3. Technical administration of our website.
   4. Research.
   5. Providing you with information about the services we offer.
   6. Letting you know about offers and news from notonthehighstreet.com.
   7. Letting you know about offers, news and products from partner stores on our site.
-  8. Occasionally letting you know about offers from other companies who we believe may interest you, either by sending out the information ourselves to you directly, or by providing certain details to other companies so they may contact you directly.
+  8. We may make your name and email address available to companies in order to advertise and market our services to you through other platforms on the internet (e.g. Facebook).
   9. To verify details of your payment method or credit card account.
   10. Passing on details of your order (but not payment details) and personal information where you have purchased a gift from a wedding list on notonthehighstreet.com to the users who created such wedding list.
 
@@ -47,11 +47,10 @@ These are the circumstances in which we may share some of your data with others:
 
   1. In the unlikely event that our business assets are ever sold to or purchased by another company (our data records are part of our business). You will receive notice of any such event and we will use our reasonable endeavours to ensure that the new combined entity will follow the practices disclosed in this Privacy Policy.
   2. To outside research companies whom we may ask to contact you directly for your opinions on our service, and our partners' products and services (in which case we provide them with only the information they need to perform their function).
-  3. We occasionally make names, addresses and email addresses available to companies whose products we think may interest you, unless you have subsequently withdrawn that permission.
-  4. If we are requested by the police or a regulatory or government authority investigating illegal activities to provide information concerning your activities whilst using the network we shall do so.
-  5. To the users who created a wedding list on notonthehighstreet.com if you have purchased a gift from such wedding list.
-  6. To the group gifting application provider to the extent required in order to supply the group gifting service to you.
-  7. If a customer recommends you as part of our 'refer-a-friend' scheme, we shall notify them that you are already a shopper with NOTHS. We will not share any of your purchase or other details with that customer.
+  3. If we are requested by the police or a regulatory or government authority investigating illegal activities to provide information concerning your activities whilst using the network we shall do so.
+  4. To the users who created a wedding list on notonthehighstreet.com if you have purchased a gift from such wedding list.
+  5. To the group gifting application provider to the extent required in order to supply the group gifting service to you.
+  6. If a customer recommends you as part of our 'refer-a-friend' scheme, we shall notify them that you are already a shopper with NOTHS. We will not share any of your purchase or other details with that customer.
 
 
 
@@ -61,9 +60,9 @@ We may monitor and review communications between you and our partners on our Con
 
 ### cookies
 
-A cookie is a small text file that a website can send to your computer's browser. It's like an internet user's identification card, which tells a website when a user is re-visiting the site. Their ability is limited to containing and transferring to the website as much information as the users have disclosed to that site. Cookies can't read or interfere with other information saved on your hard drive. The notonthehighstreet.com website (in common with most other shopping websites) will not work without cookies.
+A cookie is a small text file that a website can send to your computer's browser. It's like an internet user's identification card, which tells a website when a user is re-visiting the site. Their ability is limited to containing and transferring to the website as much information as the users have disclosed to that site. Cookies can't read or interfere with other information saved on your hard drive.
 
-Most computers are set up to automatically accept cookies. However, you can reset your browser settings to refuse cookies, or alert you when a cookie is being sent so you can choose whether or not to accept it.
+Most computers are set up to automatically accept cookies. However, you can reset your browser settings to refuse cookies, or alert you when a cookie is being sent so you can choose whether or not to accept it. However, please note that if you do so the notonthehighstreet.com website (in common with most other shopping websites) will not function fully.
 
 In addition to the cookies set by notonthehighstreet.com in order to ensure the site functions as it should, you may also find the following cookies:
 
@@ -71,7 +70,7 @@ COOKIE PROVIDER | WHAT THEIR COOKIES ARE USED FOR
 ---|---  
 **Criteo; Struq** | notonthehighstreet.com work with third party agencies Criteo and Struq to display banner advertising on other selected websites within their display networks. The cookies used by Criteo and Struq help us to monitor and improve the effectiveness of our banner advertising and to refine the targeting of these campaigns so that we are displaying the most relevant content for each individual. The information collected through these cookies is anonymous and does not identify specific individuals.  
 **Google Adwords; MSN/Bing** | Google Adwords and MSN/Bing use cookies to track our paid advertising activity on Google and MSN/Bing. We use the information collected by these cookies to help us determine where our ads will be most effective online. The information collected through these cookies is anonymous and does not identify specific individuals.  
-**Google Analytics** | Google Analytics use cookies to collect data that helps us understand how people are using the site. We use this information to identify how and where we can improve the customer experience. The information collected through these cookies is anonymous and does not identify specific individuals.  
+**Google Analytics Premium** | Google Analytics Premium use cookies to collect data that helps us understand how people are using the site. We use this information to identify how and where we can improve the customer experience. The information collected through these cookies is anonymous and does not identify specific individuals. The information generated by the cookies about your use of the website and your current IP-address will be transmitted by your browser to, and stored by, Google on servers in the United States and other countries. Google will use this information on behalf of notonthehighstreet.com for the purpose of evaluating your use of the website, compiling reports on website activity and providing other services relating to website activity and internet usage to the website operator. The IP address collected through Google Analytics will not be associated with any other data held by Google. You may stop the transmission of information generated by the cookies about your use of the website and of your IP address to Google, by downloading it and installing the Google Analytics Opt-out Browser Add-on available here: http://tools.google.com/dlpage/gaoptout.  
 **Peerius** | Peerius use cookies to track the activity of customers on the site in order to help us provide the most relevant product recommendations to you based on the products you have previously viewed or purchased and the categories in which you have previously expressed an interest.  
 **ShareThis** | Share This allows customers to share content, products and web pages from our website with other websites and social networking sites. The cookies used by Share This allow us to track the type of content, products and pages that our users are sharing to help us better understand which content is most engaging for our customers so that we can improve the content and customer experience in other areas of the website.  
 **Qubit** | QuBit use cookies to track the behavioral activity of customers across the site in order to help us improve the customer experience and identify any problems customers may be having using areas of the site. We also use this information to refine all our marketing activity to ensure it is as relevant as possible for each individual customer.  
@@ -93,7 +92,7 @@ Please keep in mind that whenever you voluntarily disclose personal information 
 
 ### further information
 
-If you have questions about your personal data or our privacy policy, please contact us at <https://www.notonthehighstreet.com/contact>, phone us on 0845 259 1359 (or on 01 4319731 from within the Republic of Ireland), or email us at [info@notonthehighstreet.com](mailto:info@notonthehighstreet.com)
+If you have questions about your personal data or our privacy policy, please contact us at <https://www.notonthehighstreet.com/contact> or phone us on 0845 259 1359 (or on 01 4319731 from within the Republic of Ireland). 
 
 To see all the information we have about you, and to correct any inaccuracies, please write to us at: notonthehighstreet.com, First Floor, Lion House, Red Lion Street, Richmond, Surrey, TW9 1RE.
 
