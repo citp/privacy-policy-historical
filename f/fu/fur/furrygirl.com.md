@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the furrygirl.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115000818id_/http%3A//www.furrygirl.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the furrygirl.com privacy policy that was archived on 2013-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130831105425id_/http%3A//www.furrygirl.com/privacy.html) for the most accurate reproduction.*
 
 # Furry Girl > Privacy
 
