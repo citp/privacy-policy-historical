@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crockpot.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424180507id_/https%3A//secure.crock-pot.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crockpot.com privacy policy that was archived on 2013-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130831155837id_/https%3A//secure.crock-pot.com/privacy.aspx) for the most accurate reproduction.*
 
 # Crock-Pot® Secure Shopping Cart
 
