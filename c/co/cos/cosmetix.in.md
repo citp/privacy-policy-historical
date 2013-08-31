@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cosmetix.in privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618052726id_/https%3A//cosmetix.in/content/6-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cosmetix.in privacy policy that was archived on 2013-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130831093129id_/https%3A//cosmetix.in/content/6-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Cosmetix.in
 
