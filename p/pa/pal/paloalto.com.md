@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paloalto.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510040054id_/http%3A//www.paloalto.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paloalto.com privacy policy that was archived on 2013-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130831102302id_/http%3A//www.paloalto.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy & Legal Information - Palo Alto Software
 
