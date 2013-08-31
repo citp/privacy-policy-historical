@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filejungle.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601063759id_/http%3A//www.filejungle.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filejungle.com privacy policy that was archived on 2013-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130831021438id_/http%3A//www.filejungle.com/privacy.php) for the most accurate reproduction.*
 
 # Filejungle.com - #1 Easy & Fast File Storage
 
