@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealite.in privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625033237id_/http%3A//www.dealite.in/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealite.in privacy policy that was archived on 2013-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130831054757id_/http%3A//www.dealite.in/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Dealite Privacy-Policy
 
