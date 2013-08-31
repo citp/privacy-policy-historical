@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artistdata.com privacy policy that was archived on 2012-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120724043926id_/http%3A//www.artistdata.com/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artistdata.com privacy policy that was archived on 2013-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130831062723id_/http%3A//www.artistdata.com/us/privacy) for the most accurate reproduction.*
 
 # ArtistData -
 
