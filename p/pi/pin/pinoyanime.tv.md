@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pinoyanime.tv privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225204047id_/http%3A//www.pinoyanime.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinoyanime.tv privacy policy that was archived on 2013-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130831071151id_/http%3A//www.pinoyanime.tv/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Pinoy Anime TV - Watch Anime Online - Download Anime Online
+# Privacy Policy | Pinoy Anime TV
 
 ## Introduction
 
@@ -20,4 +20,4 @@ We never collect or maintain information from those who we actually know are und
 
 ## How to Contact Us
 
-Should you have any questions or concerns regarding our privacy policies, please use the [contact](http://www.animeloves.me/contact-us) form provided on the website to bring to our attention your concern.
+Should you have any questions or concerns regarding our privacy policies, please use the [contact](http://www.pinoyanime.tv/contact-us) form provided on the website to bring to our attention your concern.
