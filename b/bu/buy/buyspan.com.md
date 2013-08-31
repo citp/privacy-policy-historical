@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyspan.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513062300id_/http%3A//buyspan.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyspan.com privacy policy that was archived on 2013-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130831025348id_/http%3A//www.buyspan.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -31,7 +31,7 @@ This Website Privacy Statement is effective as of the date listed below. Even if
 
 ## Questions?
 
-We welcome any questions or comments you have about our privacy practices. Please feel free to contact us at: [Feedback](https://web.archive.org/web/20130513062300id_/http%3A//buyspan.com/contact.aspx). **Effective Date: Privacy Notice last modified April 5, 2009.**
+We welcome any questions or comments you have about our privacy practices. Please feel free to contact us at: [Feedback](https://web.archive.org/web/20130831025348id_/http%3A//www.buyspan.com/contact.aspx). **Effective Date: Privacy Notice last modified April 5, 2009.**
 
 © 2013 BuySpan.com 
 
