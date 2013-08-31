@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xxl-sale.co.uk privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623052512id_/http%3A//www.xxl-sale.co.uk/legal.html%23Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xxl-sale.co.uk privacy policy that was archived on 2013-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130831060602id_/http%3A//www.xxl-sale.co.uk/legal.html%23Privacy-policy) for the most accurate reproduction.*
 
 # xxl-sale.co.uk - Price Comparison, test reports and product ratings on XXL-Sale.co.uk. Find the best prices now! - Legal
 
