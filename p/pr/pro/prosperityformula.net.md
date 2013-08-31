@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prosperityformula.net privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502020328id_/http%3A//www.empowernetwork.com/privacy.php%3Fid%3Ddailyincomentwk) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prosperityformula.net privacy policy that was archived on 2013-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130831173800id_/http%3A//www.empowernetwork.com/privacy.php%3Fid%3Ddailyincomentwk) for the most accurate reproduction.*
 
 # Empower Network: Privacy Policy
 
@@ -40,4 +40,4 @@ St. Petersburg, Florida 33701
 Suite 201  
 Effective Date: November 7, 2011 
 
-[Continue to signup page](https://web.archive.org/web/20130502020328id_/http%3A//www.empowernetwork.com/commissionloophole.php?id=dailyincomentwk)
+[Continue to signup page](https://web.archive.org/web/20130831173800id_/http%3A//www.empowernetwork.com/commissionloophole.php?id=dailyincomentwk)
