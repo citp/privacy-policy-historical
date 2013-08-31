@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aruba.com privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612074511id_/http%3A//www.aruba.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aruba.com privacy policy that was archived on 2013-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130831044428id_/http%3A//www.aruba.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Aruba.com Privacy Policy
 
@@ -30,9 +30,9 @@ If you do not want us to share your personally identifiable information with suc
 
 For more information on how your personally identifiable information is collected and used, please read the remainder of our Privacy Policy.
 
-###  2.3 Children Under 13
+###  2.3 Children Under 18
 
-This Site is not directed to children under 13. We do not knowingly collect personally identifiable information from anyone under 13 years of age, except for the limited circumstances described below. In the event a child under the age of 13 submits a question to us on this Site and identifies his or her age, we may use the child’s email address for the sole purpose of responding to the child’s question on a one-time-only basis. However, we will not knowingly use the child’s email address to recontact the child and we will delete it from our records once we have responded. If we become aware that we have unknowingly collected personally identifiable information from a child under the age of 13, we will make reasonable efforts to delete such information from our records.
+This Site is not directed to persons under the age of 18. We do not knowingly collect personally identifiable information from anyone under 18 years of age, except for the limited circumstances described below. In the event a person under the age of 18 submits a question to us on this Site and identifies his or her age, we may use the person’s email address for the sole purpose of responding to the person’s question on a one-time-only basis. However, we will not knowingly use the person’s email address to re-contact the person and we will delete it from our records once we have responded. If we become aware that we have unknowingly collected personally identifiable information from a person under the age of 18, we will make reasonable efforts to delete such information from our records.
 
 ###  **2.3 Information Collection**
 
