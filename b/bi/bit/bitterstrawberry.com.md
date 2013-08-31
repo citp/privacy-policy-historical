@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitterstrawberry.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627142604id_/http%3A//www.bitterstrawberry.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitterstrawberry.com privacy policy that was archived on 2013-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130831110349id_/http%3A//www.bitterstrawberry.com/privacy.html) for the most accurate reproduction.*
 
 # Bitter Strawberry Holdings Inc.: Privacy
 
