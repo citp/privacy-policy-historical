@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uboc.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509133142id_/https%3A//www.unionbank.com/personal-banking/privacy-security/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uboc.com privacy policy that was archived on 2013-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130831081612id_/https%3A//www.unionbank.com/personal-banking/privacy-security/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | Personal Banking | Union Bank
 
