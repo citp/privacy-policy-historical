@@ -1,0 +1,416 @@
+<!--The following is the downloaded HTML source of the draggo.com privacy policy that was archived on 2013-08-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130831092401id_/http%3A//draggo.com/privacyPolicy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<link href="http://draggo.com/favicon.ico" rel="shortcut icon" type="image/x-icon">
+<link rel="shortcut icon" type="image/x-icon" href="http://draggo.com/favicon.ico">
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="title" content="Draggo – The best way to manage all your bookmarks.">
+<meta name="robots" content="index, follow">
+<meta name="description" content="Draggo is the best way to save, organize, and access all your favorite links from any online location.">
+<meta name="keywords" content="bookmarks, organize bookmarks, favorites, bookmarking, links, social bookmarks, social bookmarking, x marks, fox marks, delicious, portaportal">
+<meta name="language" content="en">
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<title>Privacy Policy</title>
+			<link href="/css/styles-draggo.css" rel="stylesheet" type="text/css">
+		
+<!--<script src="http://jqueryjs.googlecode.com/files/jquery-1.2.6.min.js" type="text/javascript"></script>-->
+<style>
+*:focus {outline: none;}
+#footer {
+	position:relative;
+	z-index: 99;
+}
+#draggo-shadow-box { 
+	background: url("/images/draggo-redirect.png") no-repeat scroll 0 0 transparent;
+    font-size: 23px;
+    height: 173px;
+    margin: auto;
+    position: fixed;
+    width: 700px;
+    z-index: 100;
+    padding-top: 38px;
+    display:none;
+}
+#popupBoxClose {
+	font-size:20px;  
+	line-height:15px;  
+	right:5px;  
+	top:5px;  
+	position:absolute;  
+	color:#6fa5e2;  
+	font-weight:500; 
+	cursor:pointer; 	
+}
+#draggo-popup {
+	font-size:23px;
+	font-weight:bold;  
+}
+.draggo-pupup-text {
+    text-align:center;
+	font-size:20px;
+}
+.draggo-name-text {
+	font-size: 19px;
+}
+.redirect-link {
+	margin-top:26px;
+	font-size: 23px;
+}
+.draggo-pupup-text a {
+	text-decoration:underline;
+}
+.align-popup {
+	margin-top:10px;
+}
+
+#background_disable{
+	width:100%;
+	height:100%; 
+	left:0;
+	top:0; 
+	text-align:center; 
+	z-index:5; 
+	position:fixed; 
+	background-color:#000;
+	opacity:0.8;
+	filter:alpha(opacity=60);
+}
+
+</style>
+<script src="/js/jquery.js"></script>
+
+<!--<script src="/js/jqueryUl.js"></script>-->
+
+<!--<script src="/js/jquery.ui.core.js"></script>
+<script src="/js/jquery.ui.widget.js"></script>-->
+<!--<script src="/js/jqueryThickbox.js"></script>-->
+<!--<script src="/js/jquery.writeCapturemin.js" type="text/javascript"></script>-->
+<script src="/js/ui.tabs.js"></script>
+<script src="/js/draggo.js"></script>
+<script>// HOTFIX: We can't upgrade to jQuery UI 1.8.6 (yet)
+// This hotfix makes older versions of jQuery UI drag-and-drop work in IE9
+//(function($){var a=$.ui.mouse.prototype._mouseMove;$.ui.mouse.prototype._mouseMove=function(b){if($.browser.msie&&document.documentMode>=9){b.button=1};a.apply(this,[b]);}}(jQuery));
+</script>
+
+<link href="/css/draggo-common.css" rel="stylesheet" type="text/css">
+</head>
+<body id="body" onload=" " onresize="getPosition('profile');"><div id="draggo-shadow-box">
+	<p class="draggo-pupup-text"><label id="draggo-popup">We have a new name! - </label> <label class="draggo-name-text">Linkable is now called Draggo.</label> </p> 
+	<p class="draggo-pupup-text redirect-link">In a moment, you will be redirected to <a href="http://draggo.com/privacyPolicy">draggo.com<b>/privacyPolicy</b></a></p>
+</div>
+
+
+ 
+
+<div class="bodyDiv" style="overflow:hidden;">
+			<div id="wrapper1">
+			<div id="header" style="margin-left:-56px;">
+	<div class="headerFirst" style="z-index:0;">	        	
+<!--            <label class="logoUrlClass" >ALPHA</label><br/>-->
+            <div class="logoNew" style="margin-top:-9px;">
+            			<a href="/"><img src="/images/draggo_logo.png" alt="Draggo"></a>
+					</div>
+		
+		   			<div class="url" style="margin-left:43px;margin-top: 22px;">
+   				        	<a class="headerUrl" href="/">draggo.com</a>
+	     	</div>
+	     	   				      		       
+	</div>
+				    <div class="headerThird1" style="margin-left:858px !important;*margin-left:200px !important; *margin-left:675px !important;">
+              
+     
+   	    									
+				    <div class="logout" id="loginDefault" style="margin-left: 44px;">
+		    	<div class="headerThirdProp"><a href="#" id="loginLink">Login</a></div>
+		    </div>
+		    <div id="loginDiv" style="display:none;margin-left: 44px;" class="loginDiv"></div>
+			<br>
+			<div class="joinFreeBut">
+								<a href="/signup/2" class="joinFree joinFreeStyle">Join for Free<!--<div class="joinFree"></div>--></a>
+							</div>
+	    	    
+	    
+	    	    
+		        
+	        
+	</div>
+</div>
+<script type="text/javascript">
+jQuery(function($){
+	$('#loginLink').live('click', function() {
+		$('#loginDiv').css('display','block');
+		$('#loginDiv').load(
+		'/login/ajax');
+		$('#loginDefault').css('display','none');
+		return false;
+	});
+}
+)
+</script>
+				<div id="mainContent1">
+				<br clear="all">
+<div id="mainContent" style="margin-left:-59px;">
+
+	<div id="mainBoxTop"></div>
+
+	<div id="mainBoxMiddle" style="padding-bottom:40px;padding-top:26px;">
+		<div id="TOScontainer" style="width:842px;">
+		<div align="center"><a href="/"><img src="/images/left_arrow.gif"></a>&nbsp;<a href="/" style="font-weight:bold;text-decoration:underline;color:#8299B8;">Return Home</a></div> 
+                    <div class="TOStext">Privacy Policy</div>
+<div class="TOSnormalText">
+<p>
+Draggo is dedicated to protecting your personal information and informing you about how we use it.  To that end, we have created this policy to demonstrate our commitment to you and to help you understand how we respect your privacy.
+</p>
+<br>
+<p>
+
+As a User of Draggo, you have the ability to make certain groups of links ("Categories") on your individual Draggo page hidden from public view.  You may do this by moving the categories you would like to make private into your privacy tab.  Each User that is registered with Draggo has a privacy tab located on his or her page, that can only be accessed by a four digit private personal identification number (“PIN”) set by the User.  Links and clusters located under the privacy tab can't be accessed at the Users’ personalized URL unless the User is signed in.  All links not under the privacy tab are accessible to the public.
+</p>
+<br>
+<p>
+The privacy tab has a five-minute time out that requires the User to re-enter his or her PIN in order access the privacy tab again.  However, during the timeframe when the User has unlocked his or her privacy tab, other people who use the User’s account or who use the User’s computer before the User has logged out of Draggo, can access the links and clusters in the User’s privacy tab.  Therefore, if the User wants to ensure that the links in the privacy tab are for his or her eyes only, the User should relock the privacy tab as soon as he or she exits the tab.
+</p>
+<br>
+
+<p>
+Please note that you post weblinks on Draggo at your own risk.  Although we allow you to set privacy options that limit the public’s access to the links and clusters on your Draggo page, please be aware that no security measures are perfect or impenetrable.  Your private content is only as secure as the four-digit privacy PIN created by you.  We cannot control the actions of and are not responsible for other Users who may choose to circumvent any privacy settings or security measures contained on Draggo .  Therefore, we cannot and do not guarantee that the content you have chosen to keep private on Draggo will not be viewed by unauthorized persons.
+</p>
+<br>
+<p>
+We may collect personal information, including email addresses, when individuals register to use the Draggo, post a link to the Draggo website or submit questions, comments or bug reports.  We may also, at times, collect our Users' IP addresses and information regarding our Users' use of Draggo.  We may use such IP addresses to help diagnose problems with our servers, track movement within our Site and, if necessary, deny service in accordance with our Terms of Service.  Unless required by law, we will not share our Users' personal information, Internet Protocol (IP) addresses and usage information, except with their consent or in aggregate or anonymous form, with third parties.
+</p>
+<br>
+<p>
+We may also collect information related to the referring URL, access times and browser type.  Further, we may monetize Users’ favorite links  by rewriting destination URLs to contain affiliate tags in them.  However, this process will not effect the end User who will still experience the same destination website and online experience when visiting his or her links.
+</p>
+<br>
+<p>
+In order to offer and provide optimized and personalized services, we use cookies to store and sometimes track information about our Users.  A cookie is a small amount of data that is sent to a User's browser from a web server and is eventually stored on a User's computer hard drive.  Similarly, we use community-wide patterns in link categorization in order to suggest links for individual User's existing clusters or groupings of related links.  This process does not associate a specific User with any specific link in our database.
+</p>
+<br>
+<p>
+Draggo uses web beacons to research certain usage and activities of its Users.  The information collected through these web beacons is used to find out more about the Draggo community’s usage patterns , for more accurate reporting, to improve the effectiveness of our marketing, and to make Draggo better.  No personally identifiable information from your Draggo account is collected using these web beacons.  However, we may sell this non-personal information to third parties.
+</p>
+<br>
+<p>
+We do this for purposes such as aggregating how many people in a group have a particular interest and personalizing advertisements and promotions so that we can provide you with a better experience with Draggo.  We believe this benefits you.
+</p>
+<br>
+<p>
+We use your groups of links to serve you relevant ads, and relevant sponsored link suggestions, similar to what you might find with Google's contextual ad system.  While Google uses search results to generate such relevant ads, we use bookmarks.
+
+</p>
+<br>
+<p>
+From time to time, Users may receive account related communications from us.  However,  we will never send Users information/offers from 3rd parties, nor will we share Users' email addresses with other companies or individuals without consent from the User.
+</p><br>
+<p>
+You can also visit Draggo Settings to edit your profile and other information.  When you're signed in, Draggo page headers will include a link to Settings.  You can delete your Draggo account through your Settings.  You may add or remove content on your individual Draggo page at any time.  However, even after removal, copies of this content may remain viewable in cached and archived pages or if other Users have copied or stored your content.
+</p><br>
+<p>
+Draggo contains links to other websites that are posted by its Users.  We are, of course, not responsible for the privacy practices of other websites.  We therefore encourage our Users to be aware when they leave our Site to read the privacy statements of each and every website that collects personally identifiable information.  This Privacy Policy applies solely to information collected by Draggo.
+</p><br>
+<p>
+Draggo reserves the right to modify all or some of this Privacy Policy at any time without notice.  If we change our Privacy Policy, we will post a notice on our Site so our Users are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.  We will use information only in accordance with the Privacy Policy under which the information was collected unless we have received explicit authorization from the appropriate User(s) to do otherwise.
+</p><br>
+<p>
+If you have any questions about this Privacy Policy, the practices of this Site or your dealings with Draggo, you may contact us through our contact us page.
+</p></div></div>
+<br clear="all"><br clear="all">
+<div align="center"><a href="/"><img src="/images/left_arrow.gif"></a>&nbsp;<a href="/" style="font-weight:bold;text-decoration:underline;color:#8299B8;">Return Home</a></div> 
+        </div>
+        <div id="mainBoxBottom"></div>
+</div>		</div>
+		<div id="updateDrag"></div>
+				  		                    <div id="footer1" align="center" style="padding-left:0px;margin-left:0px;">
+				<ul>
+		<li><!-- AddThis Button BEGIN -->
+<a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pubid=ra-502c2a056d7c168a"><img src="http://s7.addthis.com/static/btn/v2/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"></a>
+<script type="text/javascript">var addthis_config = {"data_track_addressbar":false};</script>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-502c2a056d7c168a"></script>
+<!-- AddThis Button END -->
+
+
+			<span style="padding-left: 8px;">|</span>
+						</li>
+			    	<li class="footerProp">©2012 Draggo LLC</li><span style="padding-left: 8px;">|</span>
+	    	<li class="footerProp"><a href="/">Home</a></li>
+	    	 	        		      <span style="padding-left: 8px;">|</span>
+		        <li class="footerProp"><a href="#" id="faq2">FAQ</a></li>  
+		     		     <span style="padding-left: 8px;">|</span>
+	        <li class="footerProp"><a href="/termsOfService">Terms of Service</a></li>
+	        <span style="padding-left: 8px;">|</span>
+	        <li class="footerProp"><a href="/privacyPolicy">Privacy Policy</a></li>
+	        <!-- <span style="padding-left: 8px;">|</span>
+	        <li class="footerProp">     <a href="/forums/">Forums</a></li> -->
+	        	        	         <span style="padding-left: 8px;">|</span>
+	         <li class="footerProp"><a href="#" id="contactUS1">Contact Us</a></li>
+	        	    </ul>
+		<br clear="all">
+		<br clear="all">
+		</div><br clear="all">
+			</div>
+</div>
+
+<img src="" id="background-image-id" style="display:none;width: 100%; height: 100%; bottom:0;left: 0px; position: fixed; opacity: 0.99999;top:0;z-index:-1!important;">
+<script src="/js/jquery.autocomplete.js" language="javascript"></script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9640967-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+<div align="center" id="saveSuccessDiv" style="z-index: 999;display:none;text-align:center;width: 100%;position:fixed;top:100px;">
+	<div style="margin:0 auto;text-align:center;background-repeat:no-repeat;background-image:url(/images/curve.png);height: 102px;width:744px;">
+		<table><tbody><tr><td height="100" valign="middle" id="saveInnerDiv">
+		</td></tr></tbody></table>
+	</div>
+</div>
+
+
+    <!-- Start of StatCounter Code for Default Guide -->
+    <script type="text/javascript">
+    var sc_project=7730745;
+    var sc_invisible=0;
+    var sc_security="c69d2cc5";
+    var sc_https=1;
+    var scJsHost = (("https:" == document.location.protocol) ?
+    "https://secure." : "http://www.");
+    document.write("<sc"+"ript type='text/javascript' src='" +
+    scJsHost +
+    "statcounter.com/counter/counter.js'></"+"script>");</script><script type="text/javascript" src="https://secure.statcounter.com/counter/counter.js"></script>
+    <noscript><div class="statcounter"><a title="counter
+    customizable"
+    href="http://statcounter.com/free-hit-counter/"
+    target="_blank"><img class="statcounter"
+    src="https://c.statcounter.com/7730745/0/c69d2cc5/0/"
+    alt="counter customizable"></a></div></noscript>
+    <!-- End of StatCounter Code for Default Guide -->
+	
+
+
+<script type="text/javascript">
+
+$(document).ready(function() {
+	
+	var url = window.location.href;
+	url = url.replace("http://", ""); 
+	var urlExplode = url.split("/");
+	var siteurl = urlExplode[0]; 
+	siteurl = 'http://'+siteurl+'/';
+
+	wLeft = window.screenLeft ? window.screenLeft : window.screenX;
+    wTop = window.screenTop ? window.screenTop : window.screenY;
+
+    var left = wLeft + (window.innerWidth / 2) - (700 / 2);
+    var top = wTop + (window.innerHeight / 2) - (173 / 2);
+	
+//	$('#draggo-shadow-box').css({left:left+'px',top:top+'px'});
+	
+	$('#popupBoxClose').click( function() {			
+		unloadPopupBox();
+	});
+
+	function unloadPopupBox() {	// TO Unload the Popupbox
+		$('#draggo-shadow-box').fadeOut("slow");
+		window.location.href = 'http://draggo.com';
+	}	
+	
+	function loadPopupBox() {	// To Load the Popupbox
+		$('#draggo-shadow-box').css("position","absolute");
+	    $('#draggo-shadow-box').css("top", Math.max(0, (($(window).height() - $('#draggo-shadow-box').outerHeight()) / 2) + 
+	                                                $(window).scrollTop()) + "px");
+	    $('#draggo-shadow-box').css("left", Math.max(0, (($(window).width() - $('#draggo-shadow-box').outerWidth()) / 2) + 
+                                                $(window).scrollLeft()) + "px");
+
+		$('#draggo-shadow-box').fadeIn("slow"); 
+	}
+	
+	if(siteurl == "http://linkable.com/" || siteurl == "http://www.linkable.com/" || siteurl == "linkable.com/") {
+
+		var gab = document.createElement('div');
+ 		gab.setAttribute('id', 'background_disable');
+ 		document.body.appendChild(gab);
+
+		loadPopupBox();
+		setTimeout( function() {
+			$('#draggo-shadow-box').fadeOut("slow");
+			window.location.href = 'http://draggo.com/privacyPolicy';
+		}, 8000);
+
+	}
+		
+});
+//$(document).ready(function(){
+//	
+//		setTimeout( function() {
+//			$('#draggo-shadow-box').fadeOut("slow");
+//			window.location.href = 'http://draggo.com';
+//		}, 5000);
+//	
+//})
+$("#contactUSBretts").click(function()
+		{ 
+		if(document.getElementById("mainBoxMiddle1")!=null)
+		{
+			$("#mainBoxMiddle1").load("/contactUs/bretts");
+		}
+		else
+		{
+			$("#mainBoxMiddle").load("/contactUs/bretts");
+		}
+		
+		$(".link1").hide()
+	})
+$("body").click
+(
+function(e)
+{
+	if(document.getElementById('search_tooltip') != null)
+	{
+		if((e.target.className !== "default-value ac_input"))
+		{
+			$('#autoComplete').blur();
+		}
+	}
+	if((e.target.className !== "loginDiv") && (e.target.className !== "field_prop")&& (e.target.className !== "form") && (e.target.className !== "checkbox_login")&& (e.target.className !== "middle")&& (e.target.className !== "row1")&& (e.target.className !== "top")&& (e.target.className !== "keep")&& (e.target.className !== "btm")&& (e.target.className !== "top2")&& (e.target.className !== "middle2")&& (e.target.className !== "loginKeep")&& (e.target.className !== "btm2")&& (e.target.className !== "inner"))
+	{
+		$('#loginDiv').css('display','none');
+		$('#loginDefault').css('display','block');
+		$('#content').css('zIndex', 1000);
+		$('#feedback_form').css('zIndex', '');
+		if((e.target.className !== "selectUl") && (e.target.className !== "selectUlImg")) {
+			$('.selected_class').css('display', 'none');
+			$('.popup').css('display', 'none');
+			if(get_cookie('multimove') ==null)
+			{
+				$('.link').css({backgroundColor:'#ffffff'});
+			}
+		}
+		delete_cookie('login-click-cookie');
+	}
+}
+);
+
+
+if(navigator.appVersion.indexOf('MSIE 7') > -1 || navigator.appVersion.indexOf('MSIE 8') > -1) {
+	$('#loginLink').click(function(){
+				$('.headerThird1').css('zIndex', 1);
+	});
+
+}
+
+</script>
+<script>
+$(document).ready(function(){ //alert(parent.location.hash);
+//parent.location.hash = '';
+})
+</script>
+</body></html>
