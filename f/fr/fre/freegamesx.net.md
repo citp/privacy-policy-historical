@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freegamesx.net privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531075613id_/http%3A//freegamesx.net/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freegamesx.net privacy policy that was archived on 2013-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130831080221id_/http%3A//www.freegamesx.net/page/privacy) for the most accurate reproduction.*
 
 # Privacy - Free Games X
 
