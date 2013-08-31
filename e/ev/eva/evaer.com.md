@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evaer.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601173031id_/http%3A//evaer.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evaer.com privacy policy that was archived on 2013-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130831150650id_/http%3A//www.evaer.com/privacy.htm) for the most accurate reproduction.*
 
 # Record Skype Video and Audio Calls with Evaer | Privacy policy
 
