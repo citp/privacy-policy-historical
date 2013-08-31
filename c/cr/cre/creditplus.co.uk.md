@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creditplus.co.uk privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621013552id_/http%3A//www.creditplus.co.uk/terms.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditplus.co.uk privacy policy that was archived on 2013-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130831232920id_/http%3A//www.creditplus.co.uk/terms.html) for the most accurate reproduction.*
 
 # Car Loan Terms and Conditions - Creditplus trading as Whichdeal Ltd
 
