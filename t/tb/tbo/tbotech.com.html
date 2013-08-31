@@ -1,37 +1,28 @@
-<!--The following is the downloaded HTML source of the tbotech.com privacy policy that was archived on 2013-01-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130116151307id_/http%3A//www.tbotech.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tbotech.com privacy policy that was archived on 2013-08-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130831191734id_/http%3A//www.tbotech.com/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
 <title>Privacy Policy</title>
-
 <base href="http://www.tbotech.com/">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="Content-Language" content="en">
-<meta name="description" content="Be assured that your shopping experience is completely safe. The order site is secured using a Web Server Certificate which encrypts all data to and from the site. You can be assured of the security of your information.">
+
+<meta name="description" content="We understand that shopping with security and your privacy is very important to you. It's just as important to us, too!">
 <meta name="keywords" content="privacy policy">
+<meta name="ROBOTS" content="NOODP,NOYDIR">
+                <link rel="canonical" href="http://www.tbotech.com/privacy.htm">
+    <link href="/skins/basic/customer/images/icons/favicon.ico" rel="shortcut icon">
 
-
-<link href="/skins/basic/customer/images/icons/favicon.ico" rel="shortcut icon">
-
-
-<link href="/skins/basic/customer/css/ui/jqueryui.css" rel="stylesheet" type="text/css">
-<link href="/skins/basic/customer/styles.css" rel="stylesheet" type="text/css">
+<link href="/var/cache/templates/css/style_c_672623a7d018a7ca6136332ab7563b4b.css" rel="stylesheet" type="text/css">
 <link href="/skins/basic/customer/print.css" rel="stylesheet" media="print" type="text/css">
-<link href="/skins/basic/customer/dropdown.css" rel="stylesheet" type="text/css">
 <!--[if lte IE 7]>
 <link href="/skins/basic/customer/styles_ie.css" rel="stylesheet" type="text/css" />
 <![endif]-->
 
-
-<link href="/skins/basic/customer/addons/janrain/styles.css" rel="stylesheet" type="text/css">
 <link href="/skins/basic/customer/addons/buy_together/styles.css" rel="stylesheet" type="text/css">
 <!--[if lte IE 7]>
 <link href="/skins/basic/customer/addons/buy_together/styles_ie.css" rel="stylesheet" type="text/css" />
 <![endif]-->
-<link href="/skins/basic/customer/addons/news_and_emails/styles.css" rel="stylesheet" type="text/css">
-<link href="/skins/basic/customer/addons/polls/styles.css" rel="stylesheet" type="text/css">
-<link href="/skins/basic/customer/addons/discussion/styles.css" rel="stylesheet" type="text/css">
-<link href="/skins/basic/customer/addons/hot_deals_block/styles.css" rel="stylesheet" type="text/css">
 
 
 <script type="text/javascript" src="/lib/js/jquery/jquery.min.js"></script>
@@ -39,10 +30,10 @@
 <script type="text/javascript" src="/lib/js/tools/tooltip.min.js"></script>
 <script type="text/javascript" src="/lib/js/appear/jquery.appear-1.1.1.js"></script>
 
-<script type="text/javascript" src="/js/editors/tinymce.editor.js"></script>
+<script type="text/javascript" src="/var/cache/templates/js/editors/tinymce.editor.js"></script>
 
-<script type="text/javascript" src="/js/core.js"></script>
-<script type="text/javascript" src="/js/ajax.js"></script>
+<script type="text/javascript" src="/var/cache/templates/js/core.js"></script>
+<script type="text/javascript" src="/var/cache/templates/js/ajax.js"></script>
 <script type="text/javascript">
 //<![CDATA[
 var index_script = 'index.php';
@@ -54,7 +45,7 @@ var lang = {
 	no_products_selected: 'No products selected',
 	error_no_items_selected: 'No items selected! At least one check box must be selected to perform this action.',
 	delete_confirmation: 'Are you sure you want to delete the selected items?',
-	text_out_of_stock: 'Out-of-stock',
+	text_out_of_stock: 'Sorry! Out of Stock!',
 	in_stock: 'In stock',
 	items: 'item(s)',
 	text_required_group_product: 'Please select a product for the required group [group_name]',
@@ -77,10 +68,10 @@ var lang = {
 	text_page_loading: 'Loading... Your request is being processed, please wait.',
 	view_cart: 'View cart',
 	checkout: 'Checkout',
-	product_added_to_cart: 'Product was added to your cart',
-	products_added_to_cart: 'Products were added to your cart',
-	product_added_to_wl: 'Product was added to your Wish list',
-	product_added_to_cl: 'Product was added to your Compare list',
+	product_added_to_cart: 'The product was added to your cart',
+	products_added_to_cart: 'The products were added to your cart',
+	product_added_to_wl: 'The product was added to your Wish list',
+	product_added_to_cl: 'The product was added to your Compare list',
 	close: 'Close',
 	error: 'Error',
 	error_ajax: 'Oops, something went wrong ([error]). Please try again.',
@@ -107,140 +98,106 @@ var default_editor = 'tinymce';
 var default_previewer = 'fancybox';
 
 var cart_language = 'EN';
+var default_language = 'EN';
 var images_dir = '/skins/basic/customer/images';
 var skin_name = 'basic';
-var notice_displaying_time = 5;
+var notice_displaying_time = 10;
 var cart_prices_w_taxes = false;
 var translate_mode = false;
 var regexp = new Array();
 
 
 
-$(document).ready(function(){
-	jQuery.runCart('C');
-});
-
-document.write('<style>.cm-noscript { display:none }</style>'); // hide noscript tags
-//]]>
-</script>
-
-<!--[if lt IE 8]>
-<script type="text/javascript">
-//<![CDATA[
-$(document).ready(function(){
-	$('ul.dropdown li').hover(function(){
-		$(this).addClass('hover');
-		$('> .dir',this).addClass('open');
-		$('ul:first',this).css('display', 'block');
-	},function(){
-		$(this).removeClass('hover');
-		$('.open',this).removeClass('open');
-		$('ul:first',this).css('display', 'none');
-	});
+$(function(){
+	$.runCart('C');
 });
 //]]>
 </script>
-<![endif]-->
-
-
-<script type="text/javascript" src="/addons/buy_together/js/func.js"></script>
+<script type="text/javascript" src="/var/cache/templates/addons/autosuggest/js/func.js"></script>
+<script type="text/javascript" src="/var/cache/templates/addons/buy_together/js/func.js"></script>
 
 <script type="text/javascript">
 //<![CDATA[
-	lang['buy_together_fill_the_mandatory_fields'] = '_buy_together_fill_the_mandatory_fields';
+	lang['buy_together_fill_the_mandatory_fields'] = 'Please specify product options before adding this product combination to the cart.';
 //]]>
-</script>	
-<script type="text/javascript">
-//<![CDATA[
-	Searchanise = {};
-	Searchanise.host = 'http://www.searchanise.com';
-	Searchanise.api_key = '1r3h0v2m6v';
+</script><script type="text/javascript" src="/var/cache/templates/addons/news_and_emails/js/func.js"></script><script type="text/javascript" src="/var/cache/templates/addons/banners/js/slider.js"></script>
 
-	Searchanise.AutoCmpParams = {};
-	Searchanise.AutoCmpParams.restrictBy = {};
-	Searchanise.AutoCmpParams.restrictBy.status = 'A';
-	Searchanise.AutoCmpParams.restrictBy.empty_categories = 'N';
-	Searchanise.AutoCmpParams.restrictBy.usergroup_ids = '0|1';
-	Searchanise.AutoCmpParams.restrictBy.category_usergroup_ids = '0|1';
-	Searchanise.options = {};
-	Searchanise.options.LabelSuggestions = 'Popular suggestions';
-	Searchanise.options.LabelProducts = 'Products';
-	Searchanise.options.PriceFormat = {rate : 1.00000, decimals: 2, decimals_separator: '.', thousands_separator: ',', symbol: '$', after: false};
-	Searchanise.SearchInput = '#snize-input';
 
-	(function() {
-		var __se = document.createElement('script');
-		__se.src = 'http://www.searchanise.com/widgets/v1.0/init.js';
-		__se.setAttribute('async', 'true');
-		document.documentElement.firstChild.appendChild(__se);
-	})();
-//]]>
-</script><script src="http://www.searchanise.com/widgets/v1.0/init.js" async="true"></script>
 
-<script type="text/javascript">
-//<![CDATA[
-	$(document).ready(function() {
-		jQuery.get('http://www.tbotech.com/index.php?dispatch=searchanise.async&no_session=Y');
-	});
-//]]>
-</script>
 
-<script type="text/javascript">
-	var rpxJsHost = (("https:" == document.location.protocol) ? "https://" : "http://static.");
-	document.write(unescape("%3Cscript src='" + rpxJsHost + "rpxnow.com/js/lib/rpx.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://rpxnow.com/js/lib/rpx.js" type="text/javascript"></script>
-<script type="text/javascript">
-	RPXNOW.overlay = true;
-	RPXNOW.language_preference = 'en';
-</script>
 <script src="https://ssl.google-analytics.com/ga.js" async="true"></script></head>
 
 <body>
+
 <div class="helper-container">
-	<a name="top"></a>
-	
-<div id="ajax_loading_box" class="ajax-loading-box"><div class="right-inner-loading-box"><div id="ajax_loading_message" class="ajax-inner-loading-box">Loading...</div></div></div>
+	<a name="top"></a>	
 
-	
-
-
-
-
-<div id="container" class="container">
-		<div id="header">
-<div class="header-helper-container">
-	<div class="logo-image">
-		<a href="/"><img src="/skins/basic/customer/images/TBO-TECH-Self-Defense-Products.png" width="400" height="70" border="0" alt="Self Defense Products"></a>
+	<div id="ci_top_wrapper" class="header clearfix">
+	<div class="container_16 ">	
+	<div class="grid_5 ">
+	 
+		<div class="logo-container">
+	<a href="/" style="background: url('/skins/basic/customer/images/tbo-tech-logo.png') no-repeat; width:193px; height:100px;" title="TBO-TECH Self Defense Products" class="logo"></a>
+</div>
 	</div>
-	
-	<p class="quick-links">&nbsp;
-			<a href="/contact-us.htm">Contact Us</a>
-			<a href="http://www.tbotech.com/blog/">Blog</a>
-			<a href="http://www.tbotech.com/forum/">Discussion Forum</a>
-			<a href="/gift-certificates.htm">Gift certificates</a>
-			<a href="/index.php?dispatch=sitemap.view">Sitemap</a>
-	</p>
-	
-	
-<div id="top_menu">
-<ul class="top-menu dropdown"><li class="first-level "><span><a href="/">Home</a></span></li><li class="first-level "><span><a href="/index.php?dispatch=profiles.update">My Account</a></span></li><li class="first-level "><span><a href="/index.php?dispatch=checkout.cart">View cart</a></span></li><li class="first-level cm-active"><span><a href="/aboutus.htm">Company</a></span></li></ul>
-</div>
-<span class="helper-block">&nbsp;</span>
-</div>
+<div class="grid_11 ">
+	 
+		<div class="grid_11 alpha omega top-links-grid">
+	 
+		<div class="dropdown-box  float-right">
+		<div id="sw_dropdown_216" class="cm-popup-title cm-combination cm-combo-on unlogged">
+											<a href="/index.php?dispatch=profiles.update">My Account</a>
 
-<div class="top-tools-container">
-	<span class="float-left">&nbsp;</span>
-	<span class="float-right">&nbsp;</span>
-	<div class="top-tools-helper">
-		<div class="float-right" id="sign_io">
+								</div>
+		<div id="dropdown_216" class="cm-popup-box popup-content hidden">
 			
-	<a id="sw_login" rel="nofollow" href="/index.php?dispatch=auth.login_form&amp;return_url=index.php%3Fdispatch%3Dpages.view%26page_id%3D69">Sign in</a>
-	or
-	<a href="/index.php?dispatch=profiles.add" rel="nofollow">Register</a>
+<div id="account_info_216">
+		<ul class="account-info">
+					<li><a href="/index.php?dispatch=orders.search" rel="nofollow" class="underlined">Orders</a></li>
+				<li><a href="/index.php?dispatch=product_features.compare" rel="nofollow" class="underlined">Compare list</a></li>
+	
 
-		<!--sign_io--></div>
-		<div class="top-search">
-			<form action="/" name="search_form" method="get">
+	</ul>
+
+		<div class="updates-wrapper track-orders" id="track_orders_block_216">
+
+	<form action="/" method="get" class="cm-ajax" name="track_order_quick">
+	<input type="hidden" name="full_render" value="Y">
+	<input type="hidden" name="result_ids" value="track_orders_block_*">
+	<input type="hidden" name="return_url" value="index.php?dispatch=pages.view&amp;page_id=69">
+
+	<p class="text-track">Track my order(s)</p>
+
+	<div class="form-field input-append">
+	<label for="track_order_item216" class="cm-required hidden">Track my order(s)</label>
+			<input type="text" size="20" class="input-text cm-hint" id="track_order_item216" name="track_data" value="Order ID/Email"><button title="Go" class="go-button" type="submit"></button>
+<input type="hidden" name="dispatch" value="orders.track_request">			</div>
+
+	</form>
+
+	<!--track_orders_block_216--></div>
+	
+	<div class="buttons-container">
+					<a href="/index.php?dispatch=auth.login_form&amp;return_url=index.php%3Fdispatch%3Dpages.view%26page_id%3D69" rel="nofollow" class="account">Sign in</a> | <a href="/index.php?dispatch=profiles.add" rel="nofollow" class="account">Register</a>
+						</div>
+<!--account_info_216--></div>
+		</div>
+	</div><div class=" float-right">
+		<div id="languages_53">
+	
+<!--languages_53--></div>
+	</div><div class=" float-right">
+		<div id="currencies_35">
+
+
+<!--currencies_35--></div>
+
+	</div>
+	</div>
+<div class="grid_6 alpha search-block-grid">
+	 
+		<div class="search-block">
+<form action="/" name="search_form" method="get">
 <input type="hidden" name="subcats" value="Y">
 <input type="hidden" name="status" value="A">
 <input type="hidden" name="pshort" value="Y">
@@ -248,503 +205,169 @@ $(document).ready(function(){
 <input type="hidden" name="pname" value="Y">
 <input type="hidden" name="pkeywords" value="Y">
 <input type="hidden" name="search_performed" value="Y">
- 
 
-<span class="search-products-text">Search:</span>
-<input type="hidden" name="cid" value="0"><input type="text" name="q" value="" id="snize-input" autocomplete="off" class="search-input snize-input-style"><input type="image" src="/skins/basic/customer/images/icons/go.gif" alt="Search" title="Search" class="go-button"><input type="hidden" name="dispatch" value="search.results"><a href="/index.php?dispatch=products.search" class="search-advanced">Advanced search</a></form>		</div>
-	</div>
+
+<input type="text" name="q" value="Search" id="search_input" title="Search" class="search-input cm-hint"><button title="Search" class="search-magnifier" type="submit"></button><input type="hidden" name="dispatch" value="search.results">
+
+</form>
 </div>
+	</div>
+<div class="grid_5 omega cart-content-grid">
+	 
+		<div class=" float-right">
+		<div class="dropdown-box" id="cart_status_221">
+	<a href="/index.php?dispatch=checkout.cart" id="sw_dropdown_221" class="cm-popup-title cm-combination cm-combo-on">
+									<i class="cart-icon empty"></i>
+				<span class="minicart-title empty-cart hand">Cart is empty</span>
+					
+			</a>
+	<div id="dropdown_221" class="cm-popup-box popup-content hidden">
+					<div class="cm-cart-content cm-cart-content-thumb cm-cart-content-delete">
+					<div class="cart-items">
+													<p class="center">Cart is empty</p>
+											</div>
 
-<div class="content-tools">
-	<span class="float-left">&nbsp;</span>
-	<span class="float-right">&nbsp;</span>
-	<div class="content-tools-helper clear">
-		
-	<div id="cart_status">
-	<div class="float-left">
-					<img id="sw_cart_box" class="cm-combination cm-combo-on valign hand" src="/skins/basic/customer/images/icons/empty_cart_icon.gif" alt="Cart is empty" title="Cart is empty"><strong>&nbsp;&nbsp;&nbsp;Cart is empty</strong>
-			
-		<div id="cart_box" class="cart-list hidden cm-popup-box">
-			<img src="/skins/basic/customer/images/icons/empty_cart_list_icon.gif" alt="Cart" class="cm-popup-switch hand cart-list-icon">
-			<div class="list-container">
-				<div class="list">
-									<p class="center">Cart is empty</p>
-								</div>
-				<div class="buttons-container">
-					<a href="/index.php?dispatch=checkout.cart" rel="nofollow" class="view-cart">View cart</a>
-									</div>
+										<div class="cm-cart-buttons buttons-container hidden">
+						<div class="view-cart-button">
+							<span class="button button-wrap-left"><span class="button button-wrap-right"><a href="/index.php?dispatch=checkout.cart" rel="nofollow" class="view-cart">View cart</a></span></span>
+						</div>
+											</div>
+					
 			</div>
-		</div>
-	</div>
-
-	<div class="checkout-link">
-
-	<a href="/index.php?dispatch=checkout.checkout" rel="nofollow">Checkout</a>
+			</div>
+<!--cart_status_221--></div>
 
 	</div>
-	<!--cart_status--></div>
-		<div class="float-right">
-			
-			
-					</div>
 	</div>
+	<div class="clear"></div>
+
+	</div>
+	<div class="clear"></div>
+<div class="grid_16 ">
+	 
+		<div class="wrap-dropdown-multicolumns">
+	    <ul class="dropdown-multicolumns clearfix">	
+		<li class="home"><a href="/" title="TBO Tech Home"></a></li>		
+														<li class="nodrop">
+				<a href="/aboutus.htm">About our company</a>
+
+						</li>
+														<li class="nodrop">
+				<a href="http://www.tbotech.com/blog/">Security Blog</a>
+
+						</li>
+														<li class="nodrop">
+				<a href="/index.php?dispatch=checkout.cart">View Cart</a>
+
+						</li>
+														<li class="nodrop">
+				<a href="/contact-us.htm">Contact us</a>
+
+						</li>
+				
+				</ul>
+		<div class="clear"></div>
+	</div>
+
+
+
+<script type="text/javascript">
+//<![CDATA[
+$(function(){
+	// set dropdown menu width
+	$('.dropdown-1column').each(function() {
+		var p = $(this).parents('li:first');
+		if (p.length) {
+			$(this).css('min-width', (p.width() + 10) + 'px');
+		}
+	});
+	var global_offset = $('.wrap-dropdown-multicolumns').offset().top;
+	$('.dropdown-fullwidth').each(function(){
+		var offset = $(this).parent('.fullwidth').offset().top;
+		$(this).css('top', offset - global_offset + 25 + 'px');
+	});
+});
+//]]>
+</script><div class="wysiwyg-content"><p style="text-align: center;"><strong style="font-size: medium;"><span style="background-color: #ffff00;"><span style="font-size: x-large;">Labor Day Sale! Get 15% all weekend long!</span><br></span></strong></p>
+<p style="text-align: center;"><strong style="font-size: medium;"><span style="background-color: #ffff00;">Free Pepper Spray with orders $50.00 &amp; up! Free shipping on orders $75.00 &amp; up!</span></strong></p></div>
+	</div>
+	<div class="clear"></div>
+
+	<div class="clear"></div>
+</div>
+<!--ci_top_wrapper--></div>
+<div id="ci_central_wrapper" class="main clearfix">
+	<div class="container_16 ">	
+	<div class="grid_16 ">
+	 
+		<div id="breadcrumbs_26">
+
+	<div class="breadcrumbs clearfix">
+		<span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/" itemprop="url"><span itemprop="title">Home</span></a></span><img src="/skins/basic/customer/images/icons/breadcrumbs_arrow.gif" class="bc-arrow" border="0" alt=">"><span>Privacy Policy</span>
+	</div>
+
+<!--breadcrumbs_26--></div>
+	</div>
+	<div class="clear"></div>
+<div class="grid_3 ">
+	 
+		<div class="sidebox-wrapper  sidebox-categories">
+		<h3 class="sidebox-title">
+										<span>Categories</span>
+								</h3>
+		<div class="sidebox-body">
+<div class="clearfix">
+	<ul id="vmenu_66" class="dropdown dropdown-vertical">
+		<li class="b-border dir"><div class="hide-border">&nbsp;</div><ul><li class="b-border "><a href="/stun-guns/high-voltage-stun-guns.htm">High Voltage</a></li><li class="b-border "><a href="/stun-guns/low-voltage-stun-gun.htm">Low Voltage</a></li><li class="b-border "><a href="/stun-guns/small-stun-guns.htm">Small Ones</a></li><li class="b-border "><a href="/stun-guns/stun-guns-for-women.htm">For Women</a></li><li class="b-border "><a href="/stun-guns/disguised-stun-guns.htm">Disguised</a></li><li class="b-border "><a href="/stun-guns/flashlight-stun-guns.htm">Flashlight</a></li><li class="b-border "><a href="/stun-guns/stun-guns-with-alarms.htm">With Alarm</a></li><li class=""><a href="/stun-guns/rechargeable-stun-guns.htm">Rechargeable</a></li></ul><a href="/stun-guns.htm">Stun Guns</a></li><li class="b-border "><a href="/stunbaton.htm">Stun Batons</a></li><li class="b-border "><a href="/cellphonestungun.htm">Cell Phone Stun Guns</a></li><li class="b-border dir"><div class="hide-border">&nbsp;</div><ul><li class="b-border "><a href="/pepper-spray/keychainpeppersprays.htm">Keychain Pepper Sprays</a></li><li class="b-border "><a href="/pepper-spray/peppershotpeppersprays.htm">Pepper Shot Brand</a></li><li class="b-border "><a href="/pepper-spray/wildfire-pepper-spray.htm">Wildfire Brand</a></li><li class="dir"><div class="hide-border">&nbsp;</div><ul><li class="b-border "><a href="/pepper-spray/mace-pepper-spray/mace-peppergard-pepperspray.htm">Mace PepperGard</a></li><li class="b-border "><a href="/pepper-spray/mace-pepper-spray/michigan-pepper-spray.htm">Michigan Approved Sprays</a></li><li class=""><a href="/pepper-spray/mace-pepper-spray/triple-action-pepper-spray.htm">Triple Action Pepper Spray</a></li></ul><a href="/pepper-spray/mace-pepper-spray.htm">Mace Brand</a></li></ul><a href="/pepper-spray.htm">Pepper Spray</a></li><li class="b-border "><a href="/animal-repellents.htm">Animal Repellents</a></li><li class="b-border "><a href="/personal-alarms.htm">Personal Alarms</a></li><li class="b-border dir"><div class="hide-border">&nbsp;</div><ul><li class="b-border "><a href="/homeprotection/door-security.htm">Door Security</a></li><li class="b-border "><a href="/homeprotection/window-alarms.htm">Window Alarms</a></li><li class=""><a href="/homeprotection/infrared-motion-alarms.htm">Infrared Motion Alarms</a></li></ul><a href="/homeprotection.htm">Home Protection</a></li><li class="b-border dir"><div class="hide-border">&nbsp;</div><ul><li class=""><a href="/diversionsafes/key-hider.htm">Key Hiders</a></li></ul><a href="/diversionsafes.htm">Hidden Safes</a></li><li class="b-border "><a href="/home-safety.htm">Home Safety Items</a></li><li class="b-border "><a href="/fake-surveillance-camera.htm">Fake Dummy Cameras</a></li><li class="b-border "><a href="/hidden-cameras.htm">Hidden Cameras</a></li><li class="b-border "><a href="/surveillance-systems.htm">Surveillance Systems</a></li><li class="b-border "><a href="/bug-detectors.htm">Bug Detectors</a></li><li class="b-border "><a href="/spy-gear.htm">Spy Gear</a></li><li class="b-border "><a href="/safety-lights.htm">Safety Lights</a></li><li class="b-border "><a href="/emergency-preparedness.htm">Emergency Preparedness</a></li><li class="b-border "><a href="/college-safety-kits.htm">College Safety Kits</a></li><li class="b-border "><a href="/safe-family-life.htm">SafeFamilyLife™ Kits</a></li><li class="b-border "><a href="/police.htm">Police Supplies</a></li><li class="b-border dir"><div class="hide-border">&nbsp;</div><ul><li class="b-border dir"><div class="hide-border">&nbsp;</div><ul><li class="b-border "><a href="/weapons/knives/foldingknives.htm">Folding Knives</a></li><li class=""><a href="/weapons/knives/throwing-knives.htm">Throwing Knives</a></li></ul><a href="/weapons/knives.htm">Knives</a></li><li class="dir"><div class="hide-border">&nbsp;</div><ul><li class=""><a href="/weapons/blowguns/blowgun-accessories.htm">Blowgun Accessories</a></li></ul><a href="/weapons/blowguns.htm">Blowguns</a></li></ul><a href="/weapons.htm">Weapons</a></li><li class="b-border dir"><div class="hide-border">&nbsp;</div><ul><li class="b-border "><a href="/ninjagear/ninja-star.htm">Single Ninja Stars</a></li><li class=""><a href="/ninjagear/throwing-stars.htm">Throwing Star Sets</a></li></ul><a href="/ninjagear.htm">Ninja Gear</a></li><li class="b-border "><a href="/martialartsvideos.htm">How to Fight DVDs</a></li><li class=""><a href="/special.htm">Special Deals</a></li>	</ul>
 </div></div>
-		
-	<div id="content">
-		<div class="content-helper clear">
-						
-						<div class="central-column">
-				<div class="central-content">
-					
-	<div class="breadcrumbs">
-		<span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/" itemprop="url"><span itemprop="title">Home</span></a></span><img src="/skins/basic/customer/images/icons/breadcrumbs_arrow.gif" class="bc-arrow" border="0" alt=">">Privacy Policy
 	</div>
-					
-
+	</div>
+<div class="grid_10 ">
+	 
+		<div class="mainbox-container clearfix">
+					<h1 class="mainbox-title">
+													<span>Privacy Policy</span>
+											</h1>
+				<div class="mainbox-body">
 
 <div class="cm-notification-container"></div>
-					
-					<div class="mainbox-container">
-		<h1 class="mainbox-title"><span>Privacy Policy</span></h1>
-		<div class="mainbox-body">
+
 	
 	<div itemscope="" itemtype="http://schema.org/Article">
 	<meta itemprop="name" content="Privacy Policy">
 	<div class="wysiwyg-content" itemprop="aggregateRating" itemscope="" itemtype="http://schema.org/AggregateRating">
-				<p>For each visitor to our Web page, our Web server automatically recognizes only the consumer's IP address, but not the e-mail address.</p>
-<p>We collect e-mail address of those who purchase from us and from those who opt-in to our e-mail list. The information we collect is used by us to contact consumers for customer service and for marketing and sales purposes. If you do not want to receive e-mail from us in the future, you simply click the unsubscribe link.</p>
-<p>With respect to cookies: We use cookies to record session information, such as items that consumers add to their shopping cart. This allows your computer to remember what you added to your shopping cart.</p>
-<p>Your telephone number will only be used if we have questions regarding an order you have placed on-line.</p>
-<p><strong>We do <span style="text-decoration: underline;">not</span> share your information with anyone. This includes your e-mail address.</strong></p>
-<p>With respect to security: We always use secure industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site.</p>
-<p>We have appropriate security measures in place in our physical facilities to protect against the loss or theft of information that you have provided us&nbsp;on this website.</p>
-<p>If you feel that this site is not following its stated privacy policy, you may contact us at our address or phone number.</p>
+				<p>We understand that shopping with security and your privacy is very important to you. It's just as important to us, too! So you can be assured that your credit card information, billing and shipping addresses, phone number(s), and email address will be safe when shopping with us. We do not sell, rent, give away, or share any of our customer's information.</p>
+<h2>Privacy and Security</h2>
+<p>If you have provided us with your email, whether by placing an order or by joining our mailing list, you will receive emails from us that provide you with information about our products. These emails may include order information, tracking information, sales and promotions, or other information related to the products we offer on our website.</p>
+<p>We ask for (but do not require) your phone number only to contact you should we have a question about or information to give to you in reference to your order. We do not telemarket to any of our customers. We use the latest and highest encryption methods available for sending and receiving order data to and from our server. When you place an order, you can be confident your information is safe with us.</p>
+<h3>Data Safety</h3>
+<p>No credit card data is kept on our server or in our files after your order is complete. Any other personalized information is protected in our secure physical facilities behind appropriate firewalls and encryption as well.</p>
+<p>If you need to contact us regarding any questions or concerns about your privacy and security when shopping with us, please send an email to customerservice@tbotech.com, or call us at (910) 878-5722.</p>
 										<meta itemprop="ratingValue" content=""> 
 		<meta itemprop="reviewCount" content="0"> 
 	</div>
 
 		
-
-
 	</div>
 </div>
-</div><div class="wysiwyg-content">
-<table style="width: 100%;" border="0">
-<tbody>
-<tr style="text-align: center;">
-<td>
-<div><img style="width: 60px; height: 38px;" src="/images/visa.gif" alt="" width="60" height="38"></div>
-</td>
-<td>
-<div><img style="width: 57px; height: 36px;" src="/images/mastercard.gif" alt="" width="57" height="36"></div>
-</td>
-<td>
-<div><img style="width: 95px; height: 39px;" src="/images/amex.gif" alt="" width="95" height="39"></div>
-</td>
-<td>
-<div><img style="width: 59px; height: 38px;" src="/images/discover.gif" alt="" width="59" height="38"></div>
-</td>
-</tr>
-</tbody>
-</table>
+	</div>
+	</div>
+<div class="grid_3 ">
+	 
+		<div class="sidebox-wrapper ">
+		<h3 class="sidebox-title">
+										<span>Join Our Mailing List</span>
+								</h3>
+		<div class="sidebox-body"><div class="wysiwyg-content"><p>We send out Specials and Discounts to those on our mailing list.</p>
+<!-- Do not modify the NAME value of any of the INPUT fields the FORM action, or any of the hidden fields (eg. input type=hidden). These are all required for this form to function correctly. --><form id="frmSS4" action="http://www.tbotech.com/iem/form.php?form=4" method="post">
 <table border="0">
 <tbody>
 <tr>
-<td>&nbsp;</td>
-</tr>
-</tbody>
-</table>
-<table style="width: 100%;" border="0">
-<tbody>
-<tr>
-<td><img style="float: left; margin: 2px 4px;" src="/images/ups-logo.jpg" alt="" width="52" height="64"><img style="float: left;" src="/images/usps.jpg" alt="" width="75" height="64">All orders are shipped within 1-2 business days by the method of shipping&nbsp;chosen when checking out. Please read our <a href="http://www.tbotech.com/shipping.htm">Shipping Policy</a> for full details.</td>
-</tr>
-</tbody>
-</table>
-<p>Be assured that your shopping experience is completely safe. The order site is secured using a SSL Web Server Certificate which encrypts all data to and from the site. You can be assured of the security of your information to buy or purchase with confidence.</p>
-</div>
-				</div>
-			</div>
-		
-						<div class="left-column">
-				<div class="sidebox-categories-wrapper ">
-	<h3 class="sidebox-title"><span>Categories</span></h3>
-	<div class="sidebox-body">
-<div class="clear">
-	<ul id="vmenu_1" class="dropdown dropdown-vertical">
-		<li class="dir"><ul><li><a href="/stun-guns/high-voltage-stun-guns.htm">High Voltage</a></li><li class="h-sep">&nbsp;</li><li><a href="/stun-guns/low-voltage-stun-gun.htm">Low Voltage</a></li><li class="h-sep">&nbsp;</li><li><a href="/stun-guns/small-stun-guns.htm">Small</a></li><li class="h-sep">&nbsp;</li><li><a href="/stun-guns/stun-guns-for-women.htm">For Women</a></li><li class="h-sep">&nbsp;</li><li><a href="/stun-guns/disguised-stun-guns.htm">Disguised</a></li><li class="h-sep">&nbsp;</li><li><a href="/stun-guns/flashlight-stun-guns.htm">Flashlight</a></li><li class="h-sep">&nbsp;</li><li><a href="/stun-guns/stun-guns-with-alarms.htm">With Alarm</a></li><li class="h-sep">&nbsp;</li><li><a href="/stun-guns/rechargeable-stun-guns.htm">Rechargeable</a></li></ul><a href="/stun-guns.htm">Stun Guns</a></li><li class="h-sep">&nbsp;</li><li><a href="/special.htm">Special Package Deals</a></li><li class="h-sep">&nbsp;</li><li><a href="/stunbaton.htm">Stun Batons</a></li><li class="h-sep">&nbsp;</li><li><a href="/cellphonestungun.htm">Cell Phone Stun Guns</a></li><li class="h-sep">&nbsp;</li><li><a href="/taser-devices.htm">TASER® Devices</a></li><li class="h-sep">&nbsp;</li><li><a href="/peppershotpeppersprays.htm">Pepper Shot</a></li><li class="h-sep">&nbsp;</li><li><a href="/wildfire-pepper-spray.htm">Wildfire Pepper Spray</a></li><li class="h-sep">&nbsp;</li><li class="dir"><ul><li><a href="/mace-pepper-spray/mace-peppergard-pepperspray.htm">Mace PepperGard</a></li><li class="h-sep">&nbsp;</li><li><a href="/mace-pepper-spray/michigan-pepper-spray.htm">Michigan Approved Sprays</a></li><li class="h-sep">&nbsp;</li><li><a href="/mace-pepper-spray/triple-action-pepper-spray.htm">Triple Action Pepper Spray</a></li></ul><a href="/mace-pepper-spray.htm">Mace Pepper Spray</a></li><li class="h-sep">&nbsp;</li><li><a href="/animal-repellents.htm">Animal Repellents</a></li><li class="h-sep">&nbsp;</li><li><a href="/police.htm">Police Supplies</a></li><li class="h-sep">&nbsp;</li><li><a href="/spy-surveillance.htm">Spy &amp; Surveillance</a></li><li class="h-sep">&nbsp;</li><li><a href="/hidden-cameras.htm">Wireless Nanny Cams</a></li><li class="h-sep">&nbsp;</li><li><a href="/fake-surveillance-camera.htm">Fake Dummy Cameras</a></li><li class="h-sep">&nbsp;</li><li><a href="/personal-alarms.htm">Personal Alarms</a></li><li class="h-sep">&nbsp;</li><li><a href="/homeprotection.htm">Wireless Home Alarms</a></li><li class="h-sep">&nbsp;</li><li><a href="/infrared-motion-alarms.htm">Infrared Alarms</a></li><li class="h-sep">&nbsp;</li><li><a href="/emergency-preparedness.htm">Emergency Preparedness</a></li><li class="h-sep">&nbsp;</li><li><a href="/home-safety.htm">Home Safety Items</a></li><li class="h-sep">&nbsp;</li><li><a href="/biometric-fingerprint-locks.htm">Biometric Locks</a></li><li class="h-sep">&nbsp;</li><li><a href="/college-safety-kits.htm">College Safety Kits</a></li><li class="h-sep">&nbsp;</li><li><a href="/diversionsafes.htm">Diversion Safes</a></li><li class="h-sep">&nbsp;</li><li><a href="/key-hider.htm">Key Hiders</a></li><li class="h-sep">&nbsp;</li><li><a href="/safety-lights.htm">Safety Lights</a></li><li class="h-sep">&nbsp;</li><li><a href="/safe-family-life.htm">SafeFamilyLife™ Kits</a></li><li class="h-sep">&nbsp;</li><li><a href="/weapons.htm">Weapons</a></li><li class="h-sep">&nbsp;</li><li><a href="/foldingknives.htm">Folding Knives</a></li><li class="h-sep">&nbsp;</li><li><a href="/knives.htm">Knives</a></li><li class="h-sep">&nbsp;</li><li><a href="/throwing-knives.htm">Throwing Knives</a></li><li class="h-sep">&nbsp;</li><li><a href="/throwing-stars.htm">Throwing Star Sets</a></li><li class="h-sep">&nbsp;</li><li><a href="/ninja-star.htm">Single Ninja Stars</a></li><li class="h-sep">&nbsp;</li><li><a href="/ninjagear.htm">Ninja Gear</a></li><li class="h-sep">&nbsp;</li><li><a href="/martialartsvideos.htm">Fighting DVDs</a></li><li class="h-sep">&nbsp;</li><li><a href="/sporting-goods.htm">Sporting Goods</a></li><li class="h-sep">&nbsp;</li><li class="dir"><ul><li><a href="/blowgun-accessories/blowgun-and-slingshot-ammunition.htm">Blowgun and Slingshot Ammunition</a></li></ul><a href="/blowgun-accessories.htm">Blowgun Accessories</a></li>	</ul>
-</div></div>
-	<div class="sidebox-bottom"><span>&nbsp;</span></div>
-</div><div class="sidebox-categories-wrapper ">
-	<h3 class="sidebox-title"><span>Newest Products</span></h3>
-	<div class="sidebox-body">
-	
-	
-
-<ul>
-				
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	<li class="compact">
-				<form action="/" method="post" name="product_form_69000391" enctype="multipart/form-data" class="cm-disable-empty-files cm-ajax">
-<input type="hidden" name="result_ids" value="cart_status,wish_list">
-<input type="hidden" name="redirect_url" value="index.php?dispatch=pages.view&amp;page_id=76">
-<input type="hidden" name="product_data[391][product_id]" value="391">
-
-			<div class="item-image product-item-image">
-				<a href="/mantle-clock-hiddencamera.htm"><img class=" " src="/images/thumbnails/1/40/40/mantleclock-nannycam.jpg" width="40" height="40" alt="Mantle Clock Hidden Camera" border="0"></a>
-			</div>
-			<div class="item-description">
-											<a href="/mantle-clock-hiddencamera.htm" class="product-title">Mantle Clock Hidden Camera</a>	
-
-				<div class="margin-top">
-															
-											<span class="cm-reload-69000391 price-update" id="price_update_69000391">
-		<input type="hidden" name="appearance[show_price_values]" value="1">
-		<input type="hidden" name="appearance[show_price]" value="1">
-																	<span class="price" id="line_discounted_price_69000391"><span class="price">$</span><span id="sec_discounted_price_69000391" class="price">409.95</span></span>
-													<!--price_update_69000391--></span>
-
-				</div>
-
-											</div>
-				</form>
-
-	</li>
-		<li class="delim">&nbsp;</li>
-					
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	<li class="compact">
-				<form action="/" method="post" name="product_form_69000389" enctype="multipart/form-data" class="cm-disable-empty-files cm-ajax">
-<input type="hidden" name="result_ids" value="cart_status,wish_list">
-<input type="hidden" name="redirect_url" value="index.php?dispatch=pages.view&amp;page_id=76">
-<input type="hidden" name="product_data[389][product_id]" value="389">
-
-			<div class="item-image product-item-image">
-				<a href="/smack-stun-gun.htm"><img class=" " src="/images/thumbnails/1/40/40/RB-Hand.jpg" width="40" height="40" alt="Black SMACK Stun Gun" border="0"></a>
-			</div>
-			<div class="item-description">
-											<a href="/smack-stun-gun.htm" class="product-title">NEW! SMACK Stun Gun</a>	
-
-				<div class="margin-top">
-															
-											<span class="cm-reload-69000389 price-update" id="price_update_69000389">
-		<input type="hidden" name="appearance[show_price_values]" value="1">
-		<input type="hidden" name="appearance[show_price]" value="1">
-																	<span class="price" id="line_discounted_price_69000389"><span class="price">$</span><span id="sec_discounted_price_69000389" class="price">49.95</span></span>
-													<!--price_update_69000389--></span>
-
-				</div>
-
-											</div>
-				</form>
-
-	</li>
-		<li class="delim">&nbsp;</li>
-					
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	<li class="compact">
-				<form action="/" method="post" name="product_form_69000390" enctype="multipart/form-data" class="cm-disable-empty-files cm-ajax">
-<input type="hidden" name="result_ids" value="cart_status,wish_list">
-<input type="hidden" name="redirect_url" value="index.php?dispatch=pages.view&amp;page_id=76">
-<input type="hidden" name="product_data[390][product_id]" value="390">
-
-			<div class="item-image product-item-image">
-				<a href="/pink-telescopic-steel-baton.htm"><img class=" " src="/images/thumbnails/1/40/40/steelbatonpink.png" width="40" height="40" alt="Telescopic Steel Baton Pink" border="0"></a>
-			</div>
-			<div class="item-description">
-											<a href="/pink-telescopic-steel-baton.htm" class="product-title">NEW! Pink Telescopic Steel Baton</a>	
-
-				<div class="margin-top">
-															
-											<span class="cm-reload-69000390 price-update" id="price_update_69000390">
-		<input type="hidden" name="appearance[show_price_values]" value="1">
-		<input type="hidden" name="appearance[show_price]" value="1">
-																	<span class="price" id="line_discounted_price_69000390"><span class="price">$</span><span id="sec_discounted_price_69000390" class="price">29.95</span></span>
-													<!--price_update_69000390--></span>
-
-				</div>
-
-											</div>
-				</form>
-
-	</li>
-	</ul></div>
-	<div class="sidebox-bottom"><span>&nbsp;</span></div>
-</div><div class="sidebox-wrapper ">
-	<h3 class="sidebox-title"><span>Stay Connected</span></h3>
-	<div class="sidebox-body"><div class="wysiwyg-content">
-<p style="text-align: left;"><a href="http://www.facebook.com/TBOTECH" target="_blank"><img style="border: 0px none;" src="http://www.tbotech.com/images/facebook.png" alt="" width="32" height="32"></a>&nbsp;<a href="http://twitter.com/#!/tbotech" target="_blank"><img style="border: 0px none;" src="http://www.tbotech.com/images/twitter.png" alt="" width="32" height="32"></a>&nbsp;<a href="http://www.linkedin.com/company/tbo-tech-self-defense-products" target="_blank"><img style="border: 0px none;" src="http://www.tbotech.com/images/linkedin.jpg" alt="" width="32" height="32"></a>&nbsp;<a rel="publisher" href="http://plus.google.com/101683875682414387780" target="_blank"><img style="border: 0px none;" src="http://www.tbotech.com/images/googleplus.png" alt="" width="29" height="29"></a></p>
-</div></div>
-	<div class="sidebox-bottom"><span>&nbsp;</span></div>
-</div><div class="sidebox-wrapper ">
-	<h3 class="sidebox-title"><span>Site news</span></h3>
-	<div class="sidebox-body"><ul class="site-news">
-	<li>
-		<strong>12/04/2012</strong>
-		<a href="/preppers-home-defense.htm">Prepper's Home Defense</a>
-	</li>
-		<li class="delim"></li>
-		<li>
-		<strong>07/03/2012</strong>
-		<a href="/productofthemonth-july2012.htm">Product of the Month July 2012</a>
-	</li>
-		<li class="delim"></li>
-		<li>
-		<strong>06/25/2012</strong>
-		<a href="/college-woman-safety-kit--taking-no-chances-on-safety.htm">College Woman Safety Kit – Taking No Chances on Safety</a>
-	</li>
-	</ul>
-
-<p class="right">
-	<a href="/index.php?dispatch=news.list" class="extra-link">view all</a>
-</p>
-</div>
-	<div class="sidebox-bottom"><span>&nbsp;</span></div>
-</div>
-			</div>
-						
-						<div class="right-column">
-				<div class="sidebox-categories-wrapper ">
-	<h3 class="sidebox-title"><span>Best Sellers</span></h3>
-	<div class="sidebox-body">
-	
-	
-
-<ul>
-				
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	<li class="compact">
-				<form action="/" method="post" name="product_form_3000202" enctype="multipart/form-data" class="cm-disable-empty-files cm-ajax">
-<input type="hidden" name="result_ids" value="cart_status,wish_list">
-<input type="hidden" name="redirect_url" value="index.php?dispatch=products.view&amp;product_id=41">
-<input type="hidden" name="product_data[202][product_id]" value="202">
-
-			<div class="item-image product-item-image">
-				<a href="/telescopicbaton.htm"><img class=" " src="/images/thumbnails/0/40/40/thumbnail_telescopic-steel-baton.jpg" width="40" height="40" alt="Police Steel Batons" border="0"></a>
-			</div>
-			<div class="item-description">
-											<a href="/telescopicbaton.htm" class="product-title">Telescopic Steel Baton</a>	
-
-				<div class="margin-top">
-															
-											<span class="cm-reload-3000202 price-update" id="price_update_3000202">
-		<input type="hidden" name="appearance[show_price_values]" value="1">
-		<input type="hidden" name="appearance[show_price]" value="1">
-																	<span class="price" id="line_discounted_price_3000202"><span class="price">$</span><span id="sec_discounted_price_3000202" class="price">25.95</span></span>
-													<!--price_update_3000202--></span>
-
-				</div>
-
-											</div>
-				</form>
-
-	</li>
-		<li class="delim">&nbsp;</li>
-					
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	<li class="compact">
-				<form action="/" method="post" name="product_form_3000320" enctype="multipart/form-data" class="cm-disable-empty-files cm-ajax">
-<input type="hidden" name="result_ids" value="cart_status,wish_list">
-<input type="hidden" name="redirect_url" value="index.php?dispatch=products.view&amp;product_id=41">
-<input type="hidden" name="product_data[320][product_id]" value="320">
-
-			<div class="item-image product-item-image">
-				<a href="/lipstick-stun-gun.htm"><img class=" " src="/images/thumbnails/1/40/40/SM-LIPSTICK.jpg" width="40" height="40" alt="Lipstick Stun Gun" border="0"></a>
-			</div>
-			<div class="item-description">
-											<a href="/lipstick-stun-gun.htm" class="product-title">Lipstick Stun Gun</a>	
-
-				<div class="margin-top">
-															
-											<span class="cm-reload-3000320 price-update" id="price_update_3000320">
-		<input type="hidden" name="appearance[show_price_values]" value="1">
-		<input type="hidden" name="appearance[show_price]" value="1">
-																	<span class="price" id="line_discounted_price_3000320"><span class="price">$</span><span id="sec_discounted_price_3000320" class="price">36.95</span></span>
-													<!--price_update_3000320--></span>
-
-				</div>
-
-											</div>
-				</form>
-
-	</li>
-		<li class="delim">&nbsp;</li>
-					
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	<li class="compact">
-				<form action="/" method="post" name="product_form_30001" enctype="multipart/form-data" class="cm-disable-empty-files cm-ajax">
-<input type="hidden" name="result_ids" value="cart_status,wish_list">
-<input type="hidden" name="redirect_url" value="index.php?dispatch=products.view&amp;product_id=41">
-<input type="hidden" name="product_data[1][product_id]" value="1">
-
-			<div class="item-image product-item-image">
-				<a href="/stun-master-stun-gun.htm"><img class=" " src="/images/thumbnails/1/40/40/multi-function-stun-gun.jpg" width="40" height="40" alt="Stun Master Stun Gun" border="0"></a>
-			</div>
-			<div class="item-description">
-											<a href="/stun-master-stun-gun.htm" class="product-title">Stun Master Stun Gun</a>	
-
-				<div class="margin-top">
-															
-											<span class="cm-reload-30001 price-update" id="price_update_30001">
-		<input type="hidden" name="appearance[show_price_values]" value="1">
-		<input type="hidden" name="appearance[show_price]" value="1">
-																	<span class="price" id="line_discounted_price_30001"><span class="price">$</span><span id="sec_discounted_price_30001" class="price">59.95</span></span>
-													<!--price_update_30001--></span>
-
-				</div>
-
-											</div>
-				</form>
-
-	</li>
-	</ul></div>
-	<div class="sidebox-bottom"><span>&nbsp;</span></div>
-</div><div class="sidebox-wrapper ">
-	<h3 class="sidebox-title"><span>Shipping Deal!</span></h3>
-	<div class="sidebox-body"><div class="wysiwyg-content">
-<p><img src="https://www.tbotech.com/images/ups-logo.jpg" alt="" width="52" height="64"><img src="https://www.tbotech.com/images/usps.jpg" alt="" width="75" height="64"></p>
-<p style="text-align: left;"><span style="font-size: small;">Get <strong>FREE</strong> UPS Ground or US Mail shipping if your order is over $75.00! <span style="font-size: xx-small;">*US Residents only</span><br></span></p>
-</div></div>
-	<div class="sidebox-bottom"><span>&nbsp;</span></div>
-</div><div class="sidebox-wrapper ">
-	<h3 class="sidebox-title"><span>Join our Mailing List</span></h3>
-	<div class="sidebox-body"><div class="wysiwyg-content">
-<!-- Do not modify the NAME value of any of the INPUT fields the FORM action, or any of the hidden fields (eg. input type=hidden). These are all required for this form to function correctly. --> <form id="frmSS4" action="http://www.tbotech.com/iem/form.php?form=4" method="post"> 
-<table border="0">
-<tbody>
-<tr>
-<td>First Name:<br><input id="CustomFields_2_4" name="CustomFields[2]" size="15" type="text"></td>
+<td>First Name:<br><input id="CustomFields_2_4" type="text" name="CustomFields[2]" size="15"></td>
 </tr>
 <tr>
-<td><span class="required">*</span> Your Email Address:<br><input name="email" size="15" type="text"></td>
+<td><span class="required">*</span> Your Email Address:<br><input type="text" name="email" size="15"></td>
 </tr>
-<input name="format" type="hidden" value="h"> 
 <tr>
 <td align="center"><input type="submit" value="Subscribe"></td>
 </tr>
@@ -752,7 +375,7 @@ $(document).ready(function(){
 </table>
 </form>
 <script type="text/javascript">// <![CDATA[
-			function CheckMultiple4(frm, name) {
+function CheckMultiple4(frm, name) {
 				for (var i=0; i < frm.length; i++)
 				{
 					fldObj = frm.elements[i];
@@ -779,101 +402,147 @@ $(document).ready(function(){
 				return true;
 			}
 // ]]></script>
-</div></div>
-	<div class="sidebox-bottom"><span>&nbsp;</span></div>
-</div><div class="sidebox-wrapper ">
-	<h3 class="sidebox-title"><span>Secure Site</span></h3>
-	<div class="sidebox-body"><div class="wysiwyg-content">
-<p><span id="siteseal">
-<script src="https://seal.godaddy.com/getSeal?sealID=IpJDqvS5luNJb1vp38tsqnSuXeMw3cpZH1kyJ3KM2zviRWgxsR" type="text/javascript"></script>
-</span></p>
-</div></div>
-	<div class="sidebox-bottom"><span>&nbsp;</span></div>
-</div><div class="sidebox-wrapper ">
-	<h3 class="sidebox-title"><span>Better Business Bureau Member</span></h3>
-	<div class="sidebox-body"><div class="wysiwyg-content">
-<a title="Click for the Business Review of TBO-TECH, INC, a Self Defense Products store in Raeford NC" href="http://www.bbb.org/myrtle-beach/business-reviews/self-defense/tbo-tech-inc-in-raeford-nc-1000591#sealclick"><img alt="TBO-TECH, INC is a BBB Accredited Business. Click for the BBB Business Review of this Self Defense in Raeford NC" style="border: 0;" src="http://seal-myrtlebeach.bbb.org/seals/blue-seal-150-110-tbotechinc-1000591.png"></a>
-</div></div>
-	<div class="sidebox-bottom"><span>&nbsp;</span></div>
-</div><div class="sidebox-wrapper ">
-	<h3 class="sidebox-title"><span>Information</span></h3>
-	<div class="sidebox-body"><ul>
-		<li><a href="/aboutus.htm">About our company</a></li>
-		<li><a href="/privacy.htm">Privacy Policy</a></li>
-		<li><a href="/shipping.htm">Shipping Policy</a></li>
-		<li><a href="/return.htm">Return Policy</a></li>
-		<li><a href="/shipping-restrictions.htm">Shipping Restrictions</a></li>
-		<li><a href="/terms-and-conditions.htm">Terms and Conditions</a></li>
-		<li><a href="/distributor.htm">Wholesale Accounts</a></li>
-		<li><a href="/contact-us.htm">Contact us</a></li>
-	</ul>
-</div>
-	<div class="sidebox-bottom"><span>&nbsp;</span></div>
-</div>
-			</div>
-							<span class="hidden" itemscope="" itemtype="http://schema.org/WebPage">
-		<div itemprop="breadcrumb"><a href="/">Home</a> &gt; <a href="http://www.tbotech.com/index.php?dispatch=products.view&amp;product_id=">Privacy Policy</a></div>
-	</span>
-			
-					</div>
-	</div>
-	
-	<div id="footer">
-		<div class="footer-helper-container">
-			<div class="footer-top-helper"><span class="float-left">&nbsp;</span><span class="float-right">&nbsp;</span></div>
-			
-<div class="bottom-search center">
-	<span class="float-left">&nbsp;</span>
-	<span class="float-right">&nbsp;</span>
-	<form action="/" name="search_form" method="get">
-<input type="hidden" name="subcats" value="Y">
-<input type="hidden" name="status" value="A">
-<input type="hidden" name="pshort" value="Y">
-<input type="hidden" name="pfull" value="Y">
-<input type="hidden" name="pname" value="Y">
-<input type="hidden" name="pkeywords" value="Y">
-<input type="hidden" name="search_performed" value="Y">
- 
-
-<span class="search-products-text">Search:</span>
-<input type="hidden" name="cid" value="0"><input type="text" name="q" value="" id="snize-input" autocomplete="off" class="search-input snize-input-style"><input type="image" src="/skins/basic/customer/images/icons/go.gif" alt="Search" title="Search" class="go-button"><input type="hidden" name="dispatch" value="search.results"></form></div>
-<p class="quick-links">
-			<a href="/contact-us.htm">Contact Us</a>
-			<a href="http://www.tbotech.com/blog/">Blog</a>
-			<a href="http://www.tbotech.com/forum/">Discussion Forum</a>
-			<a href="/gift-certificates.htm">Gift certificates</a>
-			<a href="/index.php?dispatch=sitemap.view">Sitemap</a>
-	</p>
-<p class="bottom-copyright class">© 2000-2013 TBO-TECH Self Defense Products. &nbsp;Licensed to <a href="http://www.tbotech.com">TBO-TECH INC</a>
+<p>Your privacy is kept safe.</p></div></div>
+	</div><div class="sidebox-wrapper ">
+		<h3 class="sidebox-title">
+										<span>Shipping Deal</span>
+								</h3>
+		<div class="sidebox-body"><div class="wysiwyg-content"><p class="shipping-deal"><img src="/images/ups-logo.jpg" alt="UPS" width="52" height="64"><img src="/images/usps.jpg" alt="Free USPS Shipping Offer" width="75" height="64"></p>
+<p class="shipping-deal">Receive <strong>FREE UPS Ground</strong> or <strong>US Mail</strong> shipping on all orders of $75.00 and up!</p>
+<p><span class="small">*US Residents only</span></p></div></div>
+	</div><div class="sidebox-wrapper  sidebox-security">
+		<h3 class="sidebox-title">
+										<span>Secure Site</span>
+								</h3>
+		<div class="sidebox-body"><p style="text-align: center;"><script src="https://seal.godaddy.com/getSeal?sealID=IpJDqvS5luNJb1vp38tsqnSuXeMw3cpZH1kyJ3KM2zviRWgxsR" type="text/javascript"></script>
 </p>
-
-
-
-
-			<div class="footer-bottom-helper"><span class="float-left">&nbsp;</span><span class="float-right">&nbsp;</span></div>
-		</div>
+<hr>
+<p style="text-align: center;">
+<script type="text/javascript">// <![CDATA[
+var ANS_customer_id="fb720db4-2c84-48f5-9fa4-cc166e882010";
+// ]]></script>
+<script src="https://verify.authorize.net/anetseal/seal.js" type="text/javascript"></script>
+</p></div>
 	</div>
-</div>
-			</div>
+	</div>
 
+	<div class="clear"></div>
+</div>
+<!--ci_central_wrapper--></div>
+<div id="ci_bottom_wrapper" class="footer clearfix">
+	<div class="container_16 ">	
+	<div class="grid_16 footer-menu">
+	 
+		<div class="grid_16 alpha omega clearfix">
+	 
+		<div class="mainbox-container clearfix payment-info">
+		<div class="mainbox-body"><div class="wysiwyg-content"><div class="left-block">
+<h4>Safe &amp; Secure Payments by Authorize.net</h4>
+<p>Be assured that your shopping experience is completely safe. Your cart is secured using an SSL Web Server Certificate which encrypts all data to and from the site. You can be assured of the security of your information to buy or purchase with confidence.</p>
+<div class="payment-cards"><img src="/images/authorize.png" alt="Secure Payments Authorize.net" width="79" height="61"><img src="/images/visa.png" alt="Visa" width="79" height="61"> <img src="/images/mastercard.png" alt="Mastercard" width="79" height="61"> <img src="/images/amex.png" alt="American Express" width="79" height="61"> <img src="/images/discover.png" alt="Discover" width="79" height="61"></div>
+</div>
+<div class="right-block">
+<h4>Shipping Information</h4>
+<p>Most packages are shipped within 1-2 business days* via UPS or US Mail - your choice. Wise Food Products will ship within 10 business days.&nbsp;All orders&nbsp;will receive a tracking number to the email you used when checking out.&nbsp; *Please read our Shipping Policy for full details. Thank you for your business!</p>
+<div class="shipping-methods"><img src="/images/free-usps-shipping.png" alt="USPS Mail" width="80" height="75"> <span>FREE Shipping on Orders $75+</span> <img src="/images/free-ups-shipping.png" alt="UPS Ground" width="80" height="75"></div>
+</div></div></div>
+	</div>
+	</div>
+<div class="grid_3 alpha footer-contact">
+	 
+		<div class="	float-left">
+		<div class="wysiwyg-content"><p><span>Contact Us</span></p>
+<p class="postal-address" title="Postal Address">TBO-TECH INC<br>2204 N Horace Walters Rd<br>Raeford, NC 28376</p>
+<p class="phone" title="Phone">910-878-5722</p>
+<p class="email" title="Email"><a href="/contact-us.htm">E-Mail Us</a></p></div>
+	</div>
+	</div>
+<div class="grid_3 footer-account">
+	 
+		<div class="	float-left">
+		<p>
+	<span>My Account</span>
+</p>
+<ul>
+	<li><a href="/index.php?dispatch=auth.login_form">Sign in</a></li>
+	<li><a href="/index.php?dispatch=profiles.add">Create account</a></li>
+</ul>
+	</div>
+	</div>
+<div class="grid_3 footer-customer-service">
+	 
+		<div class=" footer-no-wysiwyg	float-left">
+		<div class="wysiwyg-content"><p><span>Customer Service</span></p>
+<ul>
+<li><a href="http://www.tbotech.com/shipping.htm">Shipping Information</a></li>
+<li><a href="http://www.tbotech.com/shipping-restrictions.htm">Shipping Restrictions</a></li>
+<li><a href="http://www.tbotech.com/terms-and-conditions.htm">Terms &amp; Conditions</a></li>
+<li><a href="http://www.tbotech.com/return.htm">Returns Policy</a></li>
+<li><a href="http://www.tbotech.com/privacy.htm">Privacy Policy</a></li>
+<li><a href="http://www.tbotech.com/distributor.htm">Wholesale Accounts</a></li>
+</ul></div>
+	</div>
+	</div>
+<div class="grid_3 footer-interact">
+	 
+		<div class=" footer-no-wysiwyg	float-left">
+		<div class="wysiwyg-content"><p><span>Interact With Us</span></p>
+<ul>
+<li><a href="http://www.tbotech.com/blog/">Security Blog</a></li>
+<li><a href="http://www.tbotech.com/contact-us.htm">Contact Us</a></li>
+</ul></div>
+	</div>
+	</div>
+<div class="grid_4 omega footer-social">
+	 
+		<div class="	float-left">
+		<div class="wysiwyg-content"><p><span>Social Networking</span></p>
+<p><a class="social-link facebook" href="http://www.facebook.com/TBOTECH" target="_blank">Find us on Facebook</a> <a class="social-link twitter" href="https://twitter.com/tbotech" target="_blank">Follow us on Twitter</a> <a class="social-link google" href="http://plus.google.com/101742737530968093124?rel=publisher" target="_blank">Find us on Google+</a> <a class="social-link pinterest" href="http://pinterest.com/source/tbotech.com/" target="_blank">Pin us on Pinterest </a></p></div>
+	</div>
+	</div>
+	<div class="clear"></div>
+
+	</div>
+	<div class="clear"></div>
+<div class="grid_16 ">
+	 
+		<p class="bottom-copyright">© 2000-2013 TBO-TECH Self Defense Products.
+</p>
+	</div>
+	<div class="clear"></div>
+
+	<div class="clear"></div>
+</div>
+<!--ci_bottom_wrapper--></div>
+
+
+
+
+
+
+
+	
+<div id="ajax_loading_box" class="ajax-loading-box"><div id="ajax_loading_message" class="ajax-inner-loading-box">Loading...</div></div>
+
+			</div>
 
 <script type="text/javascript">
 //<![CDATA[
-$(document).ready(function(){
-	jQuery.ajaxRequest('/index.php?dispatch=statistics.collect', {
+$(function(){
+	$.ajaxRequest('/index.php?dispatch=statistics.collect', {
 		method: 'post',
 		data: {
 			've[url]': location.href,
 			've[title]': document.title,
-			've[browser_version]': jQuery.ua.version,
-			've[browser]': jQuery.ua.browser,
-			've[os]': jQuery.ua.os,
-			've[client_language]': jQuery.ua.language,
+			've[browser_version]': $.ua.version,
+			've[browser]': $.ua.browser,
+			've[os]': $.ua.os,
+			've[client_language]': $.ua.language,
 			've[referrer]': document.referrer,
 			've[screen_x]': (screen.width || null),
 			've[screen_y]': (screen.height || null),
 			've[color]': (screen.colorDepth || screen.pixelDepth || null),
-			've[time_begin]': 1358349188.57
+			've[time_begin]': 1377976657.53
 		},
 		hidden: true
 	});
@@ -882,9 +551,8 @@ $(document).ready(function(){
 </script>
 
 <noscript>
-<object data="/index.php?dispatch=statistics.collect&amp;ve%5Burl%5D=http%3A%2F%2Fwww.tbotech.com%2Fprivacy.htm&amp;ve%5Btitle%5D=Privacy+Policy&amp;ve%5Breferrer%5D=http%3A%2F%2Fwww.tbotech.com%2F&amp;ve%5Btime_begin%5D=1358349188.57" width="0" height="0"></object>
-</noscript>
-<script type="text/javascript">
+<object data="/index.php?dispatch=statistics.collect&amp;ve%5Burl%5D=http%3A%2F%2Fwww.tbotech.com%2Fprivacy.htm&amp;ve%5Btitle%5D=Privacy+Policy&amp;ve%5Breferrer%5D=http%3A%2F%2Fwww.tbotech.com%2F&amp;ve%5Btime_begin%5D=1377976657.53" width="0" height="0"></object>
+</noscript><script type="text/javascript">
 //<![CDATA[
 	var _gaq = _gaq || [];
 	_gaq.push(["_setAccount", "UA-696846-2"]);
@@ -898,7 +566,6 @@ $(document).ready(function(){
 	})();
 //]]>
 </script>
-
 
 
 </body></html>
