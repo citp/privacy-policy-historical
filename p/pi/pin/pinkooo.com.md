@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinkooo.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629072007id_/http%3A//pinkooo.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinkooo.com privacy policy that was archived on 2013-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130831205546id_/http%3A//pinkooo.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
