@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the bizham.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630221332id_/http%3A//bizham.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizham.com privacy policy that was archived on 2013-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130831141553id_/http%3A//bizham.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Bizham
+# Privacy Policy | Bizham.com
 
-We may record the domain name and email address of visitors to our Websites, such as mail addresses of those who post messages to our comments, who registered to our forums, job boards, business directory, or any other means including the email addresses of those who communicate with us via email.
-
-We aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and polls. The information we collect is used for internal review, to improve the content of our Web pages, used to customize the content and or layout of our sites and may be then discarded.
+We may record the domain name and email address of visitors to our Websites, such as mail addresses of those who post messages to our comments, who registered to our forums, job boards, business directory, or any other means including the email addresses of those who communicate with us via email.We aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and polls. The information we collect is used for internal review, to improve the content of our Web pages, used to customize the content and or layout of our sites and may be then discarded.
 
 ### Use of Your Personal Data:
 
@@ -26,7 +24,7 @@ If a User wish to subscribe to our email updates (provided by Google through F
 
 This privacy policy is reviewed and revised from time to time. You may wish to revisit it regularly. Your use of this site and/or your registration for any of our products or services constitutes an acceptance of this privacy policy.
 
-Comments are welcomed and encouraged on this site, but there are some instances where comments will be edited or deleted as follows:
+Comments are welcomed and encouraged on this site, but there are some instances where comments will be edited or deleted as follows: 
 
   1. Comments that contains phone number, email address, or personal information about you or anyone else that we considered excessive will be deleted
   2. Comments deemed to be spam or questionable will be deleted.
@@ -60,4 +58,4 @@ You can use the Site without providing any Personal Data. If you choose not to p
 
 This Privacy Policy does not apply to any Personal Data collected by the Company other than Personal Data collected through the Site or Services. This Privacy Policy shall not apply to any unsolicited information you provide to the Company through the Site or through any other means. This includes, but is not limited to, information posted to any public areas of the Site, such as bulletin boards (collectively, “Public Areas”), any ideas for new products or modifications to existing products, and other unsolicited submissions (collectively, “Unsolicited Information”). All Unsolicited Information shall be deemed to be non-confidential and the Company shall be free to reproduce, use, disclose, distribute and exploit such Unsolicited Information without limitation or attribution.
 
-If you have any suggestion, requires clarification, or have any concern about this Privacy Policy, please email us on: admin@palness.com 
+If you have any suggestion, requires clarification, or have any concern about this Privacy Policy, please email us on: info@palness.com 
