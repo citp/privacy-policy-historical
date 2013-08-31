@@ -1,19 +1,17 @@
-> *The following text is extracted and transformed from the tbotech.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116151307id_/http%3A//www.tbotech.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tbotech.com privacy policy that was archived on 2013-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130831191734id_/http%3A//www.tbotech.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-For each visitor to our Web page, our Web server automatically recognizes only the consumer's IP address, but not the e-mail address.
+We understand that shopping with security and your privacy is very important to you. It's just as important to us, too! So you can be assured that your credit card information, billing and shipping addresses, phone number(s), and email address will be safe when shopping with us. We do not sell, rent, give away, or share any of our customer's information.
 
-We collect e-mail address of those who purchase from us and from those who opt-in to our e-mail list. The information we collect is used by us to contact consumers for customer service and for marketing and sales purposes. If you do not want to receive e-mail from us in the future, you simply click the unsubscribe link.
+## Privacy and Security
 
-With respect to cookies: We use cookies to record session information, such as items that consumers add to their shopping cart. This allows your computer to remember what you added to your shopping cart.
+If you have provided us with your email, whether by placing an order or by joining our mailing list, you will receive emails from us that provide you with information about our products. These emails may include order information, tracking information, sales and promotions, or other information related to the products we offer on our website.
 
-Your telephone number will only be used if we have questions regarding an order you have placed on-line.
+We ask for (but do not require) your phone number only to contact you should we have a question about or information to give to you in reference to your order. We do not telemarket to any of our customers. We use the latest and highest encryption methods available for sending and receiving order data to and from our server. When you place an order, you can be confident your information is safe with us.
 
-**We do not share your information with anyone. This includes your e-mail address.**
+### Data Safety
 
-With respect to security: We always use secure industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site.
+No credit card data is kept on our server or in our files after your order is complete. Any other personalized information is protected in our secure physical facilities behind appropriate firewalls and encryption as well.
 
-We have appropriate security measures in place in our physical facilities to protect against the loss or theft of information that you have provided us on this website.
-
-If you feel that this site is not following its stated privacy policy, you may contact us at our address or phone number.
+If you need to contact us regarding any questions or concerns about your privacy and security when shopping with us, please send an email to customerservice@tbotech.com, or call us at (910) 878-5722.
