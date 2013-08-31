@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cv-service.org privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115202459id_/http%3A//www.cv-service.org/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cv-service.org privacy policy that was archived on 2013-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130831153013id_/http%3A//www.cv-service.org/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy. www.cv-service.org. M Kelley Ltd.
 
