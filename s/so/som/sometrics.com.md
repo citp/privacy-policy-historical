@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sometrics.com privacy policy that was archived on 2013-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130406235924id_/https%3A//sometrics.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sometrics.com privacy policy that was archived on 2013-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130901011048id_/https%3A//www.sometrics.com/company/privacy) for the most accurate reproduction.*
 
 # Sometrics | Privacy Policy
 
