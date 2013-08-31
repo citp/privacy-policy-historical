@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dfcufinancial.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515223851id_/https%3A//www.dfcufinancial.com/globalPage.aspx%3Ftid%3D247) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dfcufinancial.com privacy policy that was archived on 2013-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130831214135id_/https%3A//www.dfcufinancial.com/globalPage.aspx%3Ftid%3D247) for the most accurate reproduction.*
 
 # Privacy Policy - DFCU Financial
 
@@ -15,4 +15,4 @@ As a general rule, DFCU Financial does not disclose to third parties private inf
 
 
 
-Please feel free to [contact us](https://web.archive.org/web/20130515223851id_/https%3A//www.dfcufinancial.com/contactUs.aspx?tid=186 "contact us") if you should have any questions.
+Please feel free to [contact us](https://web.archive.org/web/20130831214135id_/https%3A//www.dfcufinancial.com/contactUs.aspx?tid=186 "contact us") if you should have any questions.
