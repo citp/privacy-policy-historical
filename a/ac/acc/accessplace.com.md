@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accessplace.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629110700id_/http%3A//www.accessplace.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accessplace.com privacy policy that was archived on 2013-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130831123008id_/http%3A//www.accessplace.com/privacy.htm) for the most accurate reproduction.*
 
 # AccessPlace privacy policy, personal user data, third party sites, children and user consent
 
@@ -10,9 +10,9 @@ The following discloses our information gathering and dissemination practices fo
 
 ## Personal User Data
 
-The only ways in which AccessPlace may receive personally identifiable information about you is if you knowingly and willingly provide the information by contacting us using email or through one of our service areas, including, but not limited to, contests and promotions. In such areas, the information you disclose is done so knowingly and willingly, at your sole discretion. The personally identifiable information you disclose is optional, and is normally required so as to effectively enter you into any contest we may offer or to reply to your email and correspondence. 
+The only ways in which AccessPlace may receive Personally Identifiable Information about you is if you knowingly and willingly provide the information by contacting us using email or through one of our service areas, including, but not limited to, contests and promotions. In such areas, the information you disclose is done so knowingly and willingly, at your sole discretion. The Personally Identifiable Information you disclose is optional, and is normally required so as to effectively enter you into any contest we may offer or to reply to your email and correspondence. 
 
-If you give us permission to use your email address and name we are not responsible for any correspondence that you may receive. We do not sell or compile lists of email addresses for marketing purposes. Users can opt in to receive our newsletter if they wish. AccessPlace will never share the aggregate results of the data it receives with advertisers or any other forms of internet activities. We are committed to user privacy protection and will keep everything secure as stated in the Data Protection Act, 1984. 
+If you give us permission to use your email address and name we are not responsible for any correspondence that you may receive. We do not sell or compile lists of email addresses for marketing purposes. We are committed to user privacy protection and will keep everything secure as stated in the Data Protection Act, 1984. 
 
 ## Third Party Sites
 
@@ -24,19 +24,25 @@ The AccessPlace Quotes service is provided via a third party, ServiceMagic.co.uk
 
 ## Standard User Data
 
-The standard data we collect about our users is not personally identifiable information, meaning it is not information which identifies them as an individual. By using any of AccessPlace services or reading its content, you agree that you understand the nature of this data collection. 
+The standard data we collect about our users is Non-Personally Identifiably Information, meaning it is not information which identifies them as an individual. By using any of AccessPlace services or reading its content, you agree that you understand the nature of this data collection. 
 
-When you log onto AccessPlace, certain standard information is normally collected by our servers. This information may include, but may not be limited to, the location or website from which you came, the time you spend on parts of AccessPlace or its related sites, the software you use to browse the Internet (for example Netscape or Microsoft Internet Explorer), the amount of information you access from AccessPlace and quantity of pages downloaded. This data collection is standard and common to most websites on the Internet. 
+When you log onto AccessPlace, certain Non-Personally Identifiably Information is normally collected by our servers. This information may include, but may not be limited to, the location or website from which you came, the time you spend on parts of AccessPlace or its related sites, the software you use to browse the Internet (for example Netscape or Microsoft Internet Explorer), the amount of information you access from AccessPlace and quantity of pages downloaded. This data collection is standard and common to most websites on the Internet. 
 
-This information does not identify you as an individual, and none of this information will be disclosed in any form that is specific to you as a user of AccessPlace, unless otherwise stated. AccessPlace will not otherwise knowingly retain and/or disclose this standard data other than in an aggregate forms. 
+This information does not identify you as an individual, and none of this information will be disclosed in any form that is specific to you as a user of AccessPlace, unless otherwise stated. AccessPlace may disclose this Non-Personally Identifiably Information to trusted, industry regulated, third party partners. These partners may use the Non-Personally Identifiably Information to show you advertising that is more relevant and interesting to you. 
 
 ## Cookies
 
-Parts of AccessPlace use cookies to better provide our services and information. On the Internet, a "cookie" is a file that a website transfers to a user's computer for record-keeping purposes. This is a common feature of many websites on the Internet, and is employed by AccessPlace to better serve to you our services and content. The cookie is stored on your own computer (not our servers) and file that is stored on your computer is small in size and does not identify you personally. 
+AccessPlace use cookies to better provide our services and information. On the Internet, a "cookie" is a file that a website transfers to a user's computer for record-keeping purposes. This is a common feature of many websites on the Internet, and is employed by AccessPlace to better serve to you our services and content. The cookies only collect Non-Personally Identifiably Information. 
 
 ## Further Policy
 
-It is an AccessPlace policy that we will not disclose personally identifiable information you may choose to submit to AccessPlace to any third parties. We follow a strict policy of no 'spam' and no sales of personally identifiable information. 
+It is an AccessPlace policy that we will not disclose Personally Identifiably Information you may choose to submit to AccessPlace to any third parties. We follow a strict policy of no 'spam' and no sales of Personally Identifiably Information. 
+
+## Opt Out
+
+You may choose to opt out of the collection or use of Personally Identifiable Information by not providing your name or email address when you contact us and/or contacting us and ask us to remove your personal information from our database. 
+
+You may choose to opt out of the collection or use of Non-Personally Identifiably Information by turning off cookies in your browser settings and/or visiting [http://www.youronlinechoices.com/uk/your-ad-choices](https://web.archive.org/redirect.php?redir=4cjc1VpxY6zrq6DdpJXf5KPgib6Z3LzXzoOnp2PXo9-Tqouc7qTpkn2V3YHLzY-rl5rnsNXMmoPY6KrhnIJkqYaenFl4Zm0=) to opt-out of customised ads by our partner sites.
 
 ## Children
 
