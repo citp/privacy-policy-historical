@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carefulcash.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118084902id_/http%3A//www.carefulcash.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carefulcash.com privacy policy that was archived on 2013-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130831061001id_/http%3A//www.carefulcash.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Careful Cash
 
