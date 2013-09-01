@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the e-pages.dk privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621072735id_/http%3A//www.visiolink.com/COMPANY/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-pages.dk privacy policy that was archived on 2013-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130901064310id_/http%3A//www.visiolink.com/COMPANY/privacy_policy.htm) for the most accurate reproduction.*
 
 # Visiolink - defining Digital Media
 
 | 
 
-[COMPANY](https://web.archive.org/web/20130621072735id_/http%3A//www.visiolink.com/company)-[Privacy policy](https://web.archive.org/web/20130621072735id_/http%3A//www.visiolink.com/COMPANY/privacy_policy.htm)
+[COMPANY](https://web.archive.org/web/20130901064310id_/http%3A//www.visiolink.com/company)-[Privacy policy](https://web.archive.org/web/20130901064310id_/http%3A//www.visiolink.com/COMPANY/privacy_policy.htm)
 
 Privacy Notice Table Of Contents:  
 # Our Commitment To Privacy  
@@ -52,37 +52,37 @@ Finally, we never use or share the personally identifiable information provided 
 Contact us
 
 If you are interested in getting an E-publishing or an E-pages solution, please don’t hesitate to contact us.  
-[Contact us](https://web.archive.org/web/20130621072735id_/http%3A//www.visiolink.com/PARTNER/suppliers.htm) **  
+[Contact us](https://web.archive.org/web/20130901064310id_/http%3A//www.visiolink.com/PARTNER/suppliers.htm) **  
 **
 
-[](https://web.archive.org/web/20130621072735id_/http%3A//www.visiolink.com/NEWS/newsletter_signup.htm)  
+[](https://web.archive.org/web/20130901064310id_/http%3A//www.visiolink.com/NEWS/newsletter_signup.htm)  
 [](http://tryout.visiolink.dk/demo.html)
 
 Latest news
 
-**New life for old newspapers online**  
-19/06-2013  
-The first shipment of historic...
+**Be the first to see our new hybrid- and template-apps**  
+22/08-2013  
+Experience the next generation...
 
-[ _Read more_](https://web.archive.org/web/20130621072735id_/http%3A//www.visiolink.com/news/result.htm?nid=603)
+[ _Read more_](https://web.archive.org/web/20130901064310id_/http%3A//www.visiolink.com/news/result.htm?nid=665)
 
-**Visiolink to attend Zeitung Digital 2013 in Frankfurt am Main**  
-14/06-2013  
-Visiolink will be there, when ...
+**Invitation to webinar: Exploit the many digital advertising opportunities in the app, Wednesday 18th September 2013**  
+21/08-2013  
+The newspaper app makes it pos...
 
-[ _Read more_](https://web.archive.org/web/20130621072735id_/http%3A//www.visiolink.com/news/result.htm?nid=599)
+[ _Read more_](https://web.archive.org/web/20130901064310id_/http%3A//www.visiolink.com/news/result.htm?nid=662)
 
-**Apple iOS 7 - what you and your newspaper app can expect**  
-11/06-2013  
-Last night Apple unveiled a pr...
+**Invitation to webinar: Searchable newspaper archives on computers, smartphones and tablets. Wednesday 11 September 2013**  
+16/08-2013  
+Use your original content and ...
 
-[ _Read more_](https://web.archive.org/web/20130621072735id_/http%3A//www.visiolink.com/news/result.htm?nid=594)
+[ _Read more_](https://web.archive.org/web/20130901064310id_/http%3A//www.visiolink.com/news/result.htm?nid=657)
 
 References
 
 Below are some of the customers who use Visiolink
 
-[See more](https://web.archive.org/web/20130621072735id_/http%3A//www.visiolink.com/COMPANY/references.htm)
+[See more](https://web.archive.org/web/20130901064310id_/http%3A//www.visiolink.com/COMPANY/references.htm)
 
 [](https://twitter.com/VisiolinkEpages) [](http://www.linkedin.com/company/visiolink-denmark?trk=hb_tab_compy_id_535312)   
 
