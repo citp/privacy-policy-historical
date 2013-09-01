@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the assuranthealth.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527004446id_/http%3A//www.assuranthealth.com/corp/ah/aboutassuranthealth/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the assuranthealth.com privacy policy that was archived on 2013-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130901200908id_/http%3A//www.assuranthealth.com/corp/ah/aboutassuranthealth/privacypolicy) for the most accurate reproduction.*
 
 # Assurant Health Privacy Policy
 
