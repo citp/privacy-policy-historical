@@ -1,101 +1,740 @@
-<!--The following is the downloaded HTML source of the wewez.com privacy policy that was archived on 2013-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130602043232id_/http%3A//wewez.com/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wewez.com privacy policy that was archived on 2013-09-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130901022910id_/http%3A//www.wewez.com/info.php%3Fid%3D6) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en" dir="ltr"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Wewez</title>
-<meta name="keywords" content="Wewez">
-<meta name="description" content="Wewez">
-<!--<link type="image/x-icon" rel="shortcut icon" href="images/fevicon-32x32.ico" />-->
+<title>Dubai, UAE - Wewez.com</title>
+<meta name="keywords" content="classifieds, posts, ads, events, images, buy, sell, trade, real estate, apartments, personals, dating, community classifieds, classifieds, community classifieds, community, society, social networkingclassifieds, community, events, posts, post ads, free ads, free postings, post offers free, post events">
+<meta name="description" content="Classifieds for our community. Buy, sell, trade, date, events... post anything. Community Classifieds. Wewez.com is a community classifieds site. Wewez.com is a free service and is available to a number of cities from all around the world. Users can post, view and respond to ads for free.  Wewez.com has an event calendar also to post important events, classes, shows etc.">
+<meta name="google-translate-customization" content="7c3fdb1e0363a42c-69c98d9c990b6ded-g15f79cd238b36883-1e">
+<link href="http://www.wewez.com/css/style.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="http://www.wewez.com/css/example.css" type="text/css" media="screen">
+<link rel="shortcut icon" href="http://www.wewez.com/images/favicon.png" type="image/x-icon">
 
-<script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" src="http://wewez.com/admin/plugins/thickbox/jquery-latest.js"></script>
-<script type="text/javascript" src="http://wewez.com/admin/plugins/thickbox/thickbox.js"></script>
-<link rel="stylesheet" href="http://wewez.com/admin/plugins/thickbox/thickbox.css" type="text/css" media="screen">
-
-
-<link type="text/css" rel="stylesheet" href="http://wewez.com/styles/style.css">
-<link type="text/css" rel="stylesheet" href="http://wewez.com/styles/site_new.css">
-
-
-
-<script type="text/javascript">
-	var path_src='http://wewez.com/admin/';
-	var path_src_site='http://wewez.com/';
-</script>
-<script type="text/javascript" src="http://wewez.com/admin/javascripts/admin.js"></script>
-<script type="text/javascript" src="http://wewez.com/javascripts/site.js"></script>
-
-<script type="text/javascript" src="http://wewez.com/javascripts/jquery.min.js"></script>
-<script src="http://code.jquery.com/jquery-latest.js" type="text/javascript"></script>
-<script type="text/javascript" src="http://wewez.com/javascripts/jquery.easing.1.3.js"></script>
+<script src="http://connect.facebook.net/en_US/all.js"></script>   
 
 
 
 
 
 
-<!--<script type="text/javascript">
-  $(document).ready(function(){
-    $('#slider1').bxSlider();
-  });
-</script>-->
-<script type="text/javascript">
-var callClass='ldd_submenu';
-function changeClass(clname)
-{
-	callClass=clname;
+
+<script>
+
+
+
+window.fbAsyncInit = function() {
+
+FB.init({
+
+appId: '469737469789829',
+
+cookie: true,
+
+xfbml: true,
+
+oauth: true
+
+});
+
+FB.Event.subscribe('auth.login', function(response) {
+
+//window.location.reload();
+
+});
+
+FB.Event.subscribe('auth.logout', function(response) {
+
+//window.location.reload();
+
+});
+
+};
+
+(function() {
+
+var e = document.createElement('script'); e.async = true;
+
+e.src = document.location.protocol +
+
+'//connect.facebook.net/en_US/all.js';
+
+document.getElementById('fb-root').appendChild(e);
+
+}());
+
+function facebookLogin() { //called by login button onclick event
+
+FB.login(function(response) {
+
+window.location.reload();
+
+}, {scope: 'email,user_birthday'});
+
 }
 
-$(function() {
-/**
- * the menu
- */
-var $menu = $('#ldd_menu');
 
-/**
- * for each list element,
- * we show the submenu when hovering and
- * expand the span element (title) to 510px
- */
-$menu.children('li').each(function(){
-	var $this = $(this);
-	var $span = $this.children('span');
-	$span.data('width',$span.width());
 
-	$this.bind('mouseenter',function(){
-		$menu.find('.'+callClass).stop(true,true).hide();
-		$span.stop().animate(300,function(){
-			$this.find('.'+callClass).slideDown(300);
-		});
-	}).bind('mouseleave',function(){
-		$this.find('.'+callClass).stop(true,true).hide();
-		$span.stop().animate({'width':$span.data('width')+'px'},300);
-	});
-});
-});
+</script>
+ <!--
+ ////////////////End Facebook login////////////////
+ -->
+ <script type="text/javascript">
+
+function getCookie(c_name)
+{
+//alert(c_name);
+var i,x,y,ARRcookies=document.cookie.split(";");
+for (i=0;i<ARRcookies.length;i++)
+  {
+  x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
+  y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
+  x=x.replace(/^\s+|\s+$/g,"");
+  if (x==c_name)
+    {
+    return unescape(y);
+    }
+  }
+}
+
+function setCookie(c_name,value,pass,pval,exdays)
+{
+if(document.loginform.rem.checked!='0'){
+	var exdate=new Date();
+	exdate.setDate(exdate.getDate() + exdays);
+	var c_value=escape(value) + ((exdays==null) ? "" : "; expires="+exdate.toUTCString());
+	document.cookie=c_name + "=" + c_value;
+}
+else{
+
+  var cookie_date = new Date ( );  // current date & time
+  cookie_date.setTime ( cookie_date.getTime() - 1 );
+  document.cookie = c_name += "=; expires=" + cookie_date.toGMTString();
+
+}
+}
+
+function checkCookie()
+{
+var username=getCookie("username");
+	if (username!=null && username!="")
+  {
+  document.getElementById('username').value=username;
+  document.getElementById('rem').innerHTML=' <input type="checkbox" name="rem"  checked="checked"/>';
+  }
+	else{
+		document.getElementById('rem').innerHTML=' <input type="checkbox" name="rem" />';
+	}
+}
+
+
+function getCookie1(p_name)
+{
+//alert(c_name);
+var i,x,y,ARRcookies=document.cookie.split(";");
+for (i=0;i<ARRcookies.length;i++)
+  {
+  x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
+  y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
+  x=x.replace(/^\s+|\s+$/g,"");
+  if (x==p_name)
+    {
+    return unescape(y);
+    }
+  }
+}
+
+function setCookie1(p_name,pvalue,exdays)
+{
+if(document.loginform.rem.checked!='0'){
+	var exdate=new Date();
+	exdate.setDate(exdate.getDate() + exdays);
+	var p_value=escape(pvalue) + ((exdays==null) ? "" : "; expires="+exdate.toUTCString());
+	document.cookie=p_name + "=" + p_value;
+}
+else{
+
+  var cookie_date = new Date ( );  // current date & time
+  cookie_date.setTime ( cookie_date.getTime() - 1 );
+  document.cookie = p_name += "=; expires=" + cookie_date.toGMTString();
+
+}
+
+}
+
+function checkCookie1()
+{
+var password=getCookie1("password");
+	if (password!=null && password!="")
+  {
+  document.getElementById('password').value=password;
+  }
+
+}
+
+function subme()
+{
+ document.loginform.submit;
+}
 </script>
 
+<script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+<script type="text/javascript" src="http://www.wewez.com/js/tabber.js"></script>
+<!--<script type="text/javascript" src="http://www.wewez.com/js/top.js"></script>-->
+
+
+<!--<script src="http://code.jquery.com/jquery-1.9.1.js"></script>-->
+
+<!--[if lt IE 9]>
+	<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+	
+	<link href="http://lab4.oneoutsource.com/dubaila/css/ie.css" rel="stylesheet" type="text/css" />
+
+<![endif]-->
+
 </head>
+
+
 <body>
+<!------Start Maincontent-------->
+<div id="main_content" align="center">
 
-<div class="outer">
-  <div class="holder">
-    
-		 
-    <div class="header_wrap">
-		<script type="text/javascript" src="admin/plugins/tinyfader/tinyfader.js"></script>
-<style>
-#slideshow_top {width:1000px; height:81px;	border:0px solid #FFFF00;}
-#slides_top {position:relative; width:1000px; height:81px; overflow:hidden; float:left;}
-#slides_top li {width:1000px; height:81px; }
-li.current_top {border:0px solid #ccc;}
-</style>
+<!------Start Wrapper-------->
+<div id="wrapper">
 
-<!--<div class="top-left"></div>
-<div class="top-middle">-->
-<!--<div class="coming_soon">This is our pre launch and You can register and Post your ad.</div>-->
-<div style="width:1000px; height:93px; margin:0 auto; border:1px #666666; padding:6px 0 3px; text-align:center;"> 
+<!------Start Header-------->
+<div id="header">
+<div class="logo"><a href="http://www.wewez.com/"><img src="http://www.wewez.com/images/logo.png" alt="" title="wewez.com"></a></div>
 
+<div style="float:left; margin-left:121px;"><img src="images/topban.jpg" alt=""></div>
+
+<div class="header_right">
+<div class="top_link">
+<ul>
+<li>
+<!--<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', autoDisplay: false,layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>-->
+        
+<!--<form method="post" id="lang_frm">
+<select class="locat_input002" id="lang" name="lang" onChange='$("#lang_frm").submit();' >
+<option value="en">Select&nbsp;Language</option>
+</select>
+</form>-->
+</li>
+<li><span><a onclick="facebookLogin()" href="javascript: void(0);"><img src="http://www.wewez.com/images/faclog_icon.png"></a></span></li>
+<li> l</li> 
+<li><a href="http://www.wewez.com/usersignup">Register</a></li>
+<li> l</li> 
+<li><a href="http://www.wewez.com/login"><!--<span><img src="http://www.wewez.com/images/F_icon.png"></span>-->&nbsp;&nbsp;Sign In</a></li>
+
+
+
+
+</ul>
+</div>
+
+<div class="post-ad"><img src="http://www.wewez.com/images/post-ad.png" title="Post A Free Ad" alt="Post A Free Ad" border="0" style="cursor:pointer;" onclick="window.location = 'http://www.wewez.com//index.php?view=post&amp;cityid=198&amp;lang=en&amp;1st=1';"></div>
+</div>
+
+
+<div id="nav">
+                    <ul class="nav-container" id="navbar-id">
+                        
+                        <li class="nav-container-main">
+                        
+                            <ul id="navbar-id" class="navbar">
+                            
+                         <li class="parent nov_more" id="nav-classified" style="height:32px"><a href="http://www.wewez.com/" style="padding:0px"><img style="padding: 0px;margin: 0px;" src="http://www.wewez.com/images/home_menu.png"></a>
+
+						 </li>
+
+
+                      <li class="parent nov_more" id=""><a href="http://www.wewez.com/198/posts/20_Engines/0/">
+						<span class="nov_more"><p>
+												Engines						</p></span>
+						
+						</a>
+
+	<ul class="navbar-inner">
+                                    
+		<li class="nav-inner-content">
+		<ul class="nav-col-list">		
+										<li class="starred"><a href="http://www.wewez.com/198/posts/20_Engines/1172_Boats_Yachts/">Boats &amp; yachts					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/20_Engines/1175_Cars_4x4s/">Cars &amp; 4x4s					<strong>(2)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/20_Engines/1173_Heavy_Vehicles/">Heavy vehicles					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/20_Engines/1174_Industrial_Vehicles/">Industrial vehicles					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/20_Engines/1176_Motorcycles/">Motorcycles					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/20_Engines/1170_Parts_Accessories/">Parts &amp; accessories					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/20_Engines/1178_Vehicle_for_Rent/">Vehicle for rent					<strong>(0)</strong>					</a>
+						
+
+
+ </li></ul>		
+ </li>	
+ </ul>
+
+                                
+
+
+						</li>
+						
+	                      <li class="parent nov_more" id="nav-classified"><a href="http://www.wewez.com/198/posts/13_Classifieds/0/">
+						<span class="nov_more"><p>
+												Classifieds						</p></span>
+						
+						</a>
+
+	<ul class="navbar-inner">
+                                    
+		<li class="nav-inner-content">
+		<ul class="nav-col-list">		
+										<li class="starred"><a href="http://www.wewez.com/198/posts/13_Classifieds/142_Baby_items/">Baby items					<strong>(56)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/13_Classifieds/144_Books/">Books					<strong>(39)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/13_Classifieds/145_Business_Industrials/">Business &amp; industrials					<strong>(41)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/13_Classifieds/146_Cameras_Imaging_/">Cameras &amp; imaging 					<strong>(26)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/13_Classifieds/147_Clothing_Accessories/">Clothing &amp; accessories					<strong>(24)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/13_Classifieds/148_Collectibles/">Collectibles					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/13_Classifieds/149_Computers_Networking/">Computers &amp; networking					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/13_Classifieds/150_DVDs_Movies/">Dvds &amp; movies					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/13_Classifieds/151_Electonics/">Electonics					<strong>(2)</strong>					</a>
+												</li></ul></li>
+					<li class="nav-inner-content">
+					<ul class="nav-col-list">	
+										<li class="starred"><a href="http://www.wewez.com/198/posts/13_Classifieds/152_Free_Stuff/">Free stuff					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/13_Classifieds/153_Furniture_Home_Garden/">Furniture,home &amp; garden					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/13_Classifieds/154_Gaming/">Gaming					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/13_Classifieds/155_Homes_Appliances/">Homes appliances					<strong>(1)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/13_Classifieds/156_Jewellary_Watches/">Jewellary &amp; watches					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/13_Classifieds/157_Lost_Found/">Lost/found					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/13_Classifieds/158_Misc/">Misc					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/13_Classifieds/159_Mobiles_phone_PDAs/">Mobiles phone &amp; pdas					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/13_Classifieds/161_Music/">Music					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/13_Classifieds/162_Musical_Instrument/">Musical instrument					<strong>(0)</strong>					</a>
+												</li></ul></li>
+					<li class="nav-inner-content">
+					<ul class="nav-col-list">	
+										<li class="starred"><a href="http://www.wewez.com/198/posts/13_Classifieds/163_Pet/">Pet					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/13_Classifieds/164_Sport_Equiptment/">Sport equiptment					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/13_Classifieds/165_Stuff_wanted/">Stuff wanted					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/13_Classifieds/166_Ticket_Voucher/">Ticket &amp; voucher					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/13_Classifieds/167_Toys/">Toys					<strong>(0)</strong>					</a>
+						
+
+
+ </li></ul>		
+ </li>	
+ </ul>
+
+                                
+
+
+						</li>
+						
+	                      <li class="parent nov_more" id="nav-property-for-sale"><a href="http://www.wewez.com/198/posts/14_Property_for_Sale/0/">
+						<span class="nov_more"><p>
+												Property for sale						</p></span>
+						
+						</a>
+
+	<ul class="navbar-inner">
+                                    
+		<li class="nav-inner-content">
+		<ul class="nav-col-list">		
+										<li class="starred"><a href="http://www.wewez.com/198/posts/14_Property_for_Sale/168_Apartment_for_Sale/">Apartment for sale					<strong>(74)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/14_Property_for_Sale/169_Commercial_for_sales/">Commercial for sales					<strong>(29)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/14_Property_for_Sale/1225_Farm_for_Sale/">Farm for sale					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/14_Property_for_Sale/171_Land_for_Sale/">Land for sale					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/14_Property_for_Sale/170_Multiples_unit_for_sales/">Multiples unit for sales					<strong>(0)</strong>					</a>
+						
+
+
+ </li></ul>		
+ </li>	
+ </ul>
+
+                                
+
+
+						</li>
+						
+	                      <li class="parent nov_more" id="nav-property-for-rent"><a href="http://www.wewez.com/198/posts/15_Property_for_Rent/0/">
+						<span class="nov_more"><p>
+												Property for rent						</p></span>
+						
+						</a>
+
+	<ul class="navbar-inner">
+                                    
+		<li class="nav-inner-content">
+		<ul class="nav-col-list">		
+										<li class="starred"><a href="http://www.wewez.com/198/posts/15_Property_for_Rent/173_Commercial_For_rent/">Commercial for rent					<strong>(1)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/15_Property_for_Rent/178_Rental_Wanted/">Rental wanted					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/15_Property_for_Rent/172_Residential_Unit_for_Rent/">Residential unit for rent					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/15_Property_for_Rent/174_Rooms_for_rents/">Rooms for rents					<strong>(33)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/15_Property_for_Rent/175_Rooms_wanted/">Rooms wanted					<strong>(28)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/15_Property_for_Rent/177_Short_Term_Daily_/">Short term(daily)					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/15_Property_for_Rent/176_Short_Term_Monthly_/">Short term(monthly)					<strong>(0)</strong>					</a>
+						
+
+
+ </li></ul>		
+ </li>	
+ </ul>
+
+                                
+
+
+						</li>
+						
+	                      <li class="parent nov_more" id="nav-jobs"><a href="http://www.wewez.com/198/posts/4_Jobs/0/">
+						<span class="nov_more"><p>
+												Jobs						</p></span>
+						
+						</a>
+
+	<ul class="navbar-inner">
+                                    
+		<li class="nav-inner-content">
+		<ul class="nav-col-list">		
+										<li class="starred"><a href="http://www.wewez.com/198/posts/4_Jobs/194_Accounting/">Accounting					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/4_Jobs/195_Architecture/">Architecture					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/4_Jobs/196_Art_Design/">Art/design					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/4_Jobs/197_Bank_Finance/">Bank/finance					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/4_Jobs/198_Business_Dev_/">Business dev.					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/4_Jobs/1177_Civil_Engineering/">Civil engineering					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/4_Jobs/199_Construction/">Construction					<strong>(1)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/4_Jobs/200_Consulting/">Consulting					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/4_Jobs/201_Domestic/">Domestic					<strong>(0)</strong>					</a>
+												</li></ul></li>
+					<li class="nav-inner-content">
+					<ul class="nav-col-list">	
+										<li class="starred"><a href="http://www.wewez.com/198/posts/4_Jobs/202_Education/">Education					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/4_Jobs/203_Excecutive/">Excecutive					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/4_Jobs/204_Hospitality/">Hospitality					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/4_Jobs/205_HR_recruiting/">Hr/recruiting					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/4_Jobs/206_IT_Telecom/">It/telecom					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/4_Jobs/215_Jobs_Wanted/">Jobs wanted					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/4_Jobs/207_Marketing_PR/">Marketing/pr					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/4_Jobs/208_Media/">Media					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/4_Jobs/209_Medical_Health/">Medical/health					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/4_Jobs/210_Oil_Gas/">Oil/gas					<strong>(0)</strong>					</a>
+												</li></ul></li>
+					<li class="nav-inner-content">
+					<ul class="nav-col-list">	
+										<li class="starred"><a href="http://www.wewez.com/198/posts/4_Jobs/214_Other/">Other					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/4_Jobs/211_Retails/">Retails					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/4_Jobs/212_Sales/">Sales					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/4_Jobs/213_Secretarial/">Secretarial					<strong>(0)</strong>					</a>
+						
+
+
+ </li></ul>		
+ </li>	
+ </ul>
+
+                                
+
+
+						</li>
+						
+	                      <li class="parent nov_more" id="nav-community"><a href="http://www.wewez.com/198/posts/17_Community/0/">
+						<span class="nov_more"><p>
+												Community						</p></span>
+						
+						</a>
+
+	<ul class="navbar-inner">
+                                    
+		<li class="nav-inner-content">
+		<ul class="nav-col-list">		
+										<li class="starred"><a href="http://www.wewez.com/198/posts/17_Community/179_Activities/">Activities					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/17_Community/180_Artists/">Artists					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/17_Community/181_Car_Lift/">Car lift					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/17_Community/182_Charities/">Charities					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/17_Community/183_Childcare/">Childcare					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/17_Community/184_Classes/">Classes					<strong>(38)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/17_Community/185_Club/">Club					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/17_Community/186_Education/">Education					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/17_Community/187_Freelancers/">Freelancers					<strong>(0)</strong>					</a>
+												</li></ul></li>
+					<li class="nav-inner-content">
+					<ul class="nav-col-list">	
+										<li class="starred"><a href="http://www.wewez.com/198/posts/17_Community/188_Misc/">Misc					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/17_Community/189_Music/">Music					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/17_Community/190_New/">New					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/17_Community/191_Photography/">Photography					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/17_Community/192_Services/">Services					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/17_Community/193_Sport/">Sport					<strong>(0)</strong>					</a>
+						
+
+
+ </li></ul>		
+ </li>	
+ </ul>
+
+                                
+
+
+						</li>
+						
+	                      <li class="parent nov_more" id="nav-generaloffer"><a href="http://www.wewez.com/198/posts/10005_Offers_Discounts/0/">
+						<span class="nov_more"><p>
+												Offers &amp; discounts						</p></span>
+						
+						</a>
+
+	<ul class="navbar-inner">
+                                    
+		<li class="nav-inner-content">
+		<ul class="nav-col-list">		
+										<li class="starred"><a href="http://www.wewez.com/198/posts/10005_Offers_Discounts/1181_Auto_Machines/">Auto &amp; machines					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/10005_Offers_Discounts/1182_Baby_Kids/">Baby &amp; kids					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/10005_Offers_Discounts/1183_Catalog/">Catalog					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/10005_Offers_Discounts/1184_Communications/">Communications					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/10005_Offers_Discounts/1185_Competitions/">Competitions					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/10005_Offers_Discounts/1186_Computers_Electronics/">Computers &amp; electronics					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/10005_Offers_Discounts/1187_Education/">Education					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/10005_Offers_Discounts/1188_Fashion_Style/">Fashion &amp; style					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/10005_Offers_Discounts/1189_Finance/">Finance					<strong>(0)</strong>					</a>
+												</li></ul></li>
+					<li class="nav-inner-content">
+					<ul class="nav-col-list">	
+										<li class="starred"><a href="http://www.wewez.com/198/posts/10005_Offers_Discounts/1190_Food_Beverage/">Food &amp; beverage					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/10005_Offers_Discounts/1191_Health_Beauty/">Health &amp; beauty					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/10005_Offers_Discounts/1192_Home_Garden_/">Home &amp; garden 					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/10005_Offers_Discounts/1193_Home_Appliances/">Home appliances					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/10005_Offers_Discounts/1194_Malls_Markets/">Malls &amp; markets					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/10005_Offers_Discounts/1195_Mobile_Phones/">Mobile phones					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/10005_Offers_Discounts/1196_Properties_/">Properties 					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/10005_Offers_Discounts/1197_Shows_Events/">Shows &amp; events					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/10005_Offers_Discounts/1198_Sports_Activities/">Sports &amp; activities					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/10005_Offers_Discounts/1199_Toys_Games/">Toys &amp; games					<strong>(0)</strong>					</a>
+												</li></ul></li>
+					<li class="nav-inner-content">
+					<ul class="nav-col-list">	
+										<li class="starred"><a href="http://www.wewez.com/198/posts/10005_Offers_Discounts/1200_Travel_Leisure/">Travel &amp; leisure					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/10005_Offers_Discounts/1201_Women/">Women					<strong>(0)</strong>					</a>
+						
+
+
+ </li></ul>		
+ </li>	
+ </ul>
+
+                                
+
+
+						</li>
+						
+	                      <li class="parent nov_more" id="nav-generalstore"><a href="http://www.wewez.com/198/posts/10006_Stores/0/">
+						<span class="nov_more"><p>
+												Stores						</p></span>
+						
+						</a>
+
+	<ul class="navbar-inner">
+                                    
+		<li class="nav-inner-content">
+		<ul class="nav-col-list">		
+										<li class="starred"><a href="http://www.wewez.com/198/posts/10006_Stores/1203_Art_Crafts_Collectables/">Art, crafts &amp; collectables					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/10006_Stores/1204_Baby/">Baby					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/10006_Stores/1205_Books/">Books					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/10006_Stores/1206_Car_Accessories/">Car accessories					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/10006_Stores/1207_Clothing_Accessories/">Clothing &amp; accessories					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/10006_Stores/1208_Coins_Stamps_Currencies/">Coins, stamps &amp; currencies					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/10006_Stores/1209_Computers_Networking/">Computers &amp; networking					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/10006_Stores/1202_Electronics/">Electronics					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/10006_Stores/1210_Fashion/">Fashion					<strong>(0)</strong>					</a>
+												</li></ul></li>
+					<li class="nav-inner-content">
+					<ul class="nav-col-list">	
+										<li class="starred"><a href="http://www.wewez.com/198/posts/10006_Stores/1211_Games_Toys/">Games &amp; toys					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/10006_Stores/1220_Hardwares_Equipments/">Hardwares &amp; equipments					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/10006_Stores/1212_Health_Beauty/">Health &amp; beauty					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/10006_Stores/1223_Home_Appliances/">Home appliances					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/10006_Stores/1213_Home_Kitchen_Garden/">Home, kitchen &amp; garden					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/10006_Stores/1214_Jewlery_Accessories/">Jewlery &amp; accessories					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/10006_Stores/1222_Mobiles_Accessories/">Mobiles &amp; accessories					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/10006_Stores/1215_Music_Movies/">Music &amp; movies					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/10006_Stores/1216_Office_Products_Supplies/">Office products &amp; supplies					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/10006_Stores/1219_Shoes_Bags/">Shoes &amp; bags					<strong>(0)</strong>					</a>
+												</li></ul></li>
+					<li class="nav-inner-content">
+					<ul class="nav-col-list">	
+										<li class="starred"><a href="http://www.wewez.com/198/posts/10006_Stores/1217_Sports_Outdoors/">Sports &amp; outdoors					<strong>(0)</strong>					</a>
+												</li><li class="starred"><a href="http://www.wewez.com/198/posts/10006_Stores/1218_Watches_Accessories/">Watches &amp; accessories					<strong>(0)</strong>					</a>
+						
+
+
+ </li></ul>		
+ </li>	
+ </ul>
+
+                                
+
+
+						</li>
+						
+	                        
+					<!--	
+                    
+                    <li class="parent nov_more" id="nav-community"><a href="" title="">
+					
+					
+					<span class="nov_more" ><p>
+						<img src="http://www.wewez.com/images/r.png">
+						Review
+					</p></span>
+					
+					</a>
+
+                                
+
+
+					</li>
+                    <li class="parent nov_more" id="nav-community"><a href="" title="">
+					
+					
+					<span class="nov_more" ><p>
+						<img src="http://www.wewez.com/images/e.png">
+						Events
+					</p></span>
+					
+					
+					</a>
+
+					</li>
+                    
+                    <li class="parent nov_more" id="nav-community"><a href="" title="">
+					
+					<span class="nov_more" ><p>
+						<img src="http://www.wewez.com/images/aq.png">
+						Ask a question
+					</p></span>					
+					
+					</a>
+
+                                <ul  class="navbar-inner">
+                                    
+                                        
+                                            <li class="nav-inner-content">
+                                                <ul class="nav-col-list">		
+                                                    
+                                                        
+                                                            <li class="starred"><a href="">Activities <strong>(382)</strong></a></li>
+                                                        
+                                                    
+                                                        
+                                                            <li class="starred"><a href="">Artists <strong>(206)</strong></a></li>
+                                                        
+                                                    
+                                                        
+                                                            <li class="starred"><a href="">Car Lift <strong>(3773)</strong></a></li>
+                                                        
+                                                    
+                                                        
+                                                            <li class="starred"><a href="">Charities <strong>(3)</strong></a></li>
+                                                        
+                                                    
+                                                        
+                                                            <li class="starred"><a href="">Childcare <strong>(1109)</strong></a></li>
+                                                        
+                                                    
+                                                        
+                                                            <li class="starred"><a href="">Classes <strong>(1028)</strong></a></li>
+                                                        
+                                                    
+                                                        
+                                                            <li class="starred"><a href="">Clubs <strong>(60)</strong></a></li>
+                                                        
+                                                    
+                                                        
+                                                            <li class="starred"><a href="">Education <strong>(1303)</strong></a></li>
+                                                        
+                                                    
+                                                        
+                                                            <li class="starred"><a href="">Freelancers <strong>(993)</strong></a></li>
+                                                        
+                                                    
+                                                        
+                                                            <li class="starred"><a href="">Misc <strong>(432)</strong></a></li>
+                                                        
+                                                    
+                                                </ul>		
+                                            </li>	
+                                        
+                                            <li class="nav-inner-content">
+                                                <ul class="nav-col-list">		
+                                                    
+                                                        
+                                                            <li class="starred"><a href="">Music <strong>(288)</strong></a></li>
+                                                        
+                                                    
+                                                        
+                                                            <li class="starred"><a href="">News <strong>(35)</strong></a></li>
+                                                        
+                                                    
+                                                        
+                                                            <li class="starred"><a href="">Photography <strong>(324)</strong></a></li>
+                                                        
+                                                    
+                                                        
+                                                            <li class="starred"><a href="">Services <strong>(5380)</strong></a></li>
+                                                        
+                                                    
+                                                        
+                                                            <li class="starred"><a href=""></a></li>
+                                                        
+                                                    
+                                                        
+                                                    
+                                                        
+                                                    
+                                                        
+                                                    
+                                                        
+                                                    
+                                                        
+                                                    
+                                                </ul>		
+                                            </li>	
+                                        
+                                            
+                                </ul>
+
+
+					</li>
+                    
+                    
+                    -->
+
+                </ul>
+                
+          </li>
+                                
+    </ul>
+
+</div>
+                        
+                        
+
+
+<!------2nd menu-------->
+
+      <div class="clear"></div>
+</div><!------End Header-------->
+
+
+
+
+<!------Start Container-------->
+<div id="container">
+
+<div class="add_boxtop">
+<div class="add_boxtop_left"><!--<a href="#"><img src="images/addtop1.png"></a>-->
 <script type="text/javascript"><!--
 google_ad_client = "ca-pub-6796718493039245";
 /* wewez top banner */
@@ -104,509 +743,264 @@ google_ad_width = 728;
 google_ad_height = 90;
 //-->
 </script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">;
-</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+<div class="community-facebook"><a href="http://www.facebook.com/wewezcom" target="_blank"><img src="http://www.wewez.com/images/community-facebook.jpg"></a></div>
 </div>
 
-    </div>
-     <div class="middle_part" style="margin-bottom:3px;">
-      <div class="inner_middle">
-	    	<script type="text/javascript">
-function setCountryValuePost(id)
-{
-//alert(id);
-browserCompatibility("country_Id").value=id;
-document.setCountryForm.submit();
-}
-function setCityValuePost(id,name)
-{
-browserCompatibility("city_Id").value=id;
-browserCompatibility("city_Name").value=name;
-document.setCityForm.submit();
-getSelectCategoryData();
-}
-function setCityName()
-{
-browserCompatibility("jsbHeaderCityIdInput").value=browserCompatibility("responseCityName123").value;
-browserCompatibility("jsbHeaderCityIdInputAd").value=browserCompatibility("responseCityName123").value;
-}
-function setCountryValue(country_id,country_name,countryImg)
-{
-		//alert(country_id+'==='+country_name);
-	browserCompatibility('jsb_header_country_id_input1').innerHTML='<img src="'+countryImg+'" width="24" border="0" style="margin-right:4px;">'+country_name;
-	browserCompatibility('jsb_header_country_id_container1').style.display='none';
-	//call city function
-	//browserCompatibility("jsbHeaderCityIdInput").value="All Cities";
-	showCityOptions(country_id,'');
-	window.location.href=window.location.href;
-	//browserCompatibility("jsbHeaderCityIdInput").value="All Cities";
-}
-var newCityName;
-function setCityValue(city_id,city_name)
-{
-	newCityName=city_name;
-	browserCompatibility('jsbHeaderCityIdInput').value=city_name;
-	browserCompatibility('jsbHeaderCityIdDiv').style.display='none';
-
-	setCitySession(city_id);
-	window.location.href=window.location.href;
-	browserCompatibility('jsbHeaderCityIdInput').value=newCityName;
-}
-
-</script>
-
-<div style="width:1000px; height:90px; margin:0 auto;">
-  <div class="header_left">
-    <div class="home_wrap" style="float:left; margin-right:40px; margin-left:210px;">
-      <div class="home"><!--<a href="index.html"><img src="http://wewez.com/images/home.png" /></a>--></div>
-      <div class="dropdown_wrap">
-          <table width="100%" border="0">
-            <tbody><tr>
-              <td colspan="2">
-						 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:8px;">
-              <tbody><tr>
-                <td>
-                  <div onclick="ShowDiv('jsb_header_country_id_container1')" onmouseout="HideDiv('jsb_header_country_id_container1')" id="jsb_header_country_id_input1" class="selectbox" style="line-height:30px;">Choose Country</div>
-                  <div id="jsb_header_country_id_container1" class="selectbox-wrapper" style="display:none; width:180px; z-index:1;" onmouseover="ShowDiv('jsb_header_country_id_container1')" onmouseout="HideDiv('jsb_header_country_id_container1')">
-                    <ul><li onclick="setCountryValuePost(&quot;3&quot;)"><img src="http://wewez.com/admin/images/flags/dz.gif" border="0" width="20">&nbsp;Algeria</li><li onclick="setCountryValuePost(&quot;18&quot;)"><img src="http://wewez.com/admin/images/flags/bh.gif" border="0" width="20">&nbsp;Bahrain</li><li onclick="setCountryValuePost(&quot;71&quot;)"><img src="http://wewez.com/admin/images/flags/eg.gif" border="0" width="20">&nbsp;Egypt</li><li onclick="setCountryValuePost(&quot;126&quot;)"><img src="http://wewez.com/admin/images/flags/jo.gif" border="0" width="20">&nbsp;Jordan</li><li onclick="setCountryValuePost(&quot;134&quot;)"><img src="http://wewez.com/admin/images/flags/kw.gif" border="0" width="20">&nbsp;Kuwait</li><li onclick="setCountryValuePost(&quot;138&quot;)"><img src="http://wewez.com/admin/images/flags/lb.gif" border="0" width="20">&nbsp;Lebanon</li><li onclick="setCountryValuePost(&quot;141&quot;)"><img src="http://wewez.com/admin/images/flags/ly.gif" border="0" width="20">&nbsp;Libya</li><li onclick="setCountryValuePost(&quot;168&quot;)"><img src="http://wewez.com/admin/images/flags/ma.gif" border="0" width="20">&nbsp;Morocco</li><li onclick="setCountryValuePost(&quot;186&quot;)"><img src="http://wewez.com/admin/images/flags/om.gif" border="0" width="20">&nbsp;Oman</li><li onclick="setCountryValuePost(&quot;200&quot;)"><img src="http://wewez.com/admin/images/flags/qa.gif" border="0" width="20">&nbsp;Qatar</li><li onclick="setCountryValuePost(&quot;213&quot;)"><img src="http://wewez.com/admin/images/flags/sa.gif" border="0" width="20">&nbsp;Saudi Arabia</li><li onclick="setCountryValuePost(&quot;235&quot;)"><img src="http://wewez.com/admin/images/flags/sy.gif" border="0" width="20">&nbsp;Syria</li><li onclick="setCountryValuePost(&quot;245&quot;)"><img src="http://wewez.com/admin/images/flags/tn.gif" border="0" width="20">&nbsp;Tunisia</li><li onclick="setCountryValuePost(&quot;252&quot;)"><img src="http://wewez.com/admin/images/flags/ae.gif" border="0" width="20">&nbsp;UAE</li><script> browserCompatibility("jsb_header_country_id_input1").innerHTML="<img src=http://wewez.com/admin/images/flags/ae.gif border=0 width=20> UAE"; </script></ul>
-                  </div></td>
-                <td><input type="text" onclick="ShowDiv('jsbHeaderCityIdDiv')" onmouseout="HideDiv('jsbHeaderCityIdDiv')" id="jsbHeaderCityIdInput" class="selectbox" autocomplete="off" readonly="" value="All Cities">
-                  <div id="jsbHeaderCityIdDiv" class="selectbox-wrapper" style="display:none; width:180px; z-index:1;" onmouseover="ShowDiv('jsbHeaderCityIdDiv')" onmouseout="HideDiv('jsbHeaderCityIdDiv')">
-                    <ul><li onclick="setCityValuePost('57','Abu&nbsp;Dhabi')">Abu&nbsp;Dhabi</li><li onclick="setCityValuePost('61','Ajman')">Ajman</li><li onclick="setCityValuePost('62','Dubai')">Dubai</li><li onclick="setCityValuePost('63','Fujairah')">Fujairah</li><li onclick="setCityValuePost('73','Ras&nbsp;Al&nbsp;Khaimah')">Ras&nbsp;Al&nbsp;Khaimah</li><li onclick="setCityValuePost('64','Sharjah')">Sharjah</li><li onclick="setCityValuePost('65','Umm&nbsp;Al&nbsp;Quwain')">Umm&nbsp;Al&nbsp;Quwain</li><input type="hidden" name="responseCityName123" id="responseCityName123" value="All Cities"></ul>
-                  </div>
-									<script> setCityName(); </script>
-                  </td>
-				  <!--<td style="margin-top:0px; padding-top:0px;">
-				  <div style="margin-top:-10px; width:auto;">
-				   				<a style="margin-top:-5px;" href="javascript:void(0);" onclick="chnagelangauge('ar');">العربية</a>
-								</div></td>-->
-              </tr>
-            </tbody></table>
-              </td>
-              <td>&nbsp;
-			  
-	<form name="langauge" id="langauge" method="post" action="">
-	<input type="hidden" name="langCodem" value="">
-	</form>
-	<script type="text/javascript">
-	function chnagelangauge(str)
-	{
-		var str
-		document.langauge.langCodem.value=str;	
-		document.langauge.submit();
-	}
-	</script>	
-
-			<!--  <div id="google_translate_element" align="left"  style="margin-top:-24px;"></div>
-			  <script>function googleTranslateElementInit() {
-  new google.translate.TranslateElement({
-    pageLanguage: 'en'
-	
-  }, 'google_translate_element');
-}
-</script><script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>-->
-
-<style>
-.goog-te-gadget img {
-    vertical-align: middle;
-    border: medium none;
-	width:1px;
-	height:1px;
-}</style>
-			
-
-			<!--  <div id="google_translate_element"  align="left"  style="margin-top:-25px;"></div>-->
-              <!--<div class="select_langwrap">
-                  <select name="" class="salect_wrap">
-                    <option>English</option>
-                    <option>Arabic</option>
-                  </select>
-                </div>-->
-                </td>
-            </tr>
-          </tbody></table>
-      </div>
-    </div>
-    <div class="clear"></div>
-    <a href="index.html">
-    <div class="logo"></div>
-    </a> </div>
-  <div class="header-right">
-    <div class="postad_image">
-          <a href="http://wewez.com/sign-in-register.html" style="text-decoration:none;"><img src="images/postad_image-2.png"></a></div>
-    <div class="login" style=" width:285px; ">
-  
-        <table width="100%" border="0">
-      <tbody><tr>
-        <td style="padding-bottom:0px; border-right:1px dotted #3f5476; padding-right:0px;">
-				 <a href="https://twitter.com/share" class="twitter-share-button" data-lang="en">Tweet</a>
-				<!--<a href="https://twitter.com/wewezcom" target="_blank"><img src="http://wewez.com/images/social-twitter-box-blue-icon.png" width="22" height="22" /></a>--></td>
-		<td style="padding-bottom:0px; padding-left:5px;">
-				<a href="https://www.facebook.com/dialog/oauth?client_id=305833256166106&amp;redirect_uri=http%3A%2F%2Fwewez.com%2Fsign-in.html&amp;state=c6990ee3dcc46829010d10162cacce47&amp;scope=email%2Coffline_access%2Cpublish_stream%2Cuser_birthday%2Cuser_location%2Cuser_work_history%2Cuser_about_me%2Cuser_hometown"><img src="images/fb-1.png" alt="Facebook Login" width="20" height="20" border="0"></a></td>
-        <td style="border-right:1px dotted #3f5476;">&nbsp;</td>
-        <td style="border-right:1px dotted #3f5476;"><a href="http://wewez.com/sign-in-register.html" title="" class="login_click"> Login</a></td>
-        <td style="border-right:1px dotted #3f5476;"><a href="http://wewez.com/sign-in-register.html?p=reg" class="login_click">Register</a></td>
-		<td><a href="javascript:void(0);" onclick="chnagelangauge('ar');" class="login_click">العربية</a></td>
-		
-      </tr>
-    </tbody></table>
-      </div>
-</div>
-</div>
-
-<!--<form name="setCountryForm" id="setCountryForm" method="post">
-<input type="hidden" name="country_Id" id="country_Id" value="" />
-</form>
-
-<form name="setCityForm" id="setCityForm" method="post">
-<input type="hidden" name="city_Id" id="city_Id" value="" />
-<input type="hidden" name="city_Name" id="city_Name" value="" />
-<input type="hidden" name="showCategoryDiv" id="showCategoryDiv" value="yes" />
-</form>-->
-
-			  			</div>
-		</div>
-		
-    <div class="middle_part">
-      <div class="inner_middle">
-
-        <div class="belowmenu_bar">
-          <div class="small_logo"></div>
-          <div class="buy_wrap">
-            <div class="buy">Wewez.com, AD THE WORLD
-					<!--Wewez.com, The Best place to <span class="red">Sell</span> 
-            	what you have<span class="red"> Buy </span>what you want or <span class="red">Find</span> what your dream-->
-					</div>
-          </div>
-        </div>
-
-				<div class="middle_container">
-  <div class="innerpage">
-    <div class="innerpage_heading">Privacy Policy</div>
-    <div class="innerpage_content"><p>&nbsp;</p>
-<p class="p1">This privacy policy describes how we handle your personal information. We collect, use, and share personal information to help the Wewez website (Wewez) work and to keep it safe (details below). In formal terms, Wewez, acting itself and through its subsidiaries, is the data controller of your personal information. This policy is effective from the Sept 2012.&nbsp;</p>
-<p class="p2">&nbsp;</p>
-<p class="p1">Collection. Information posted on Wewez is obviously publicly available. Our servers are located in US. Therefore, if you choose to provide us with personal information, you are consenting to the transfer and storage of that information on our servers. We collect and store the following personal information:&nbsp;</p>
-<p class="p1">• email address, physical contact information, and (depending on the service used) sometimes financial information;&nbsp;</p>
-<p class="p1">• computer sign-on data, statistics on page views, traffic to and from Wewez and Ad data (all through cookies – you can take steps to disable the cookies on your browser although this is likely to affect your ability to use the site);&nbsp;</p>
-<p class="p1">• other information, including users IP address and standard web log information.</p>
-<p class="p2">&nbsp;</p>
-<p class="p1">Use. We use users’ personal information to:&nbsp;</p>
-<p class="p1">• provide our services;&nbsp;</p>
-<p class="p1">• resolve disputes, collect fees, and troubleshoot problems;&nbsp;</p>
-<p class="p1">• encourage safe trading and enforce our policies;&nbsp;</p>
-<p class="p1">• customize users’ experience, measure interest in our services, and inform users about services and updates;&nbsp;</p>
-<p class="p1">• communicate marketing and promotional offers to you;&nbsp;</p>
-<p class="p1">• Do other things for users as described when we collect the information.&nbsp;</p>
-<p class="p2">&nbsp;</p>
-<p class="p1">Disclosure.</p>
-<p class="p1">• All information contained by Wewez is treated as strictly confidential and Wewez does not and will not disclose or share such confidential information to / with any external organization.&nbsp;</p>
-<p class="p1">• The users’ privacy is very important to us. We do not and shall not at any point in time, either sell or rent users’ personal information to third parties without users’ explicit consent.&nbsp;</p>
-<p class="p1">• We may be required from time to time to disclose users’ personal information to Governmental or law enforcing agencies or our regulators, but we will only do so under proper authority.</p>
-<p class="p1">• Wewez also reserves the right to make use of the personal information in any investigation or judicial process relating to fraud on account of such transactions during the period Wewez retains such information.&nbsp;</p>
-<p class="p1">• We may also disclose personal information to enforce our policies, respond to claims that a posting or other content violates other’s rights, or protects anyone’s rights, property or safety.</p>
-<p class="p1">• We may also share personal information with:</p>
-<p class="p1">&nbsp;&nbsp;&nbsp; - Corporate affiliates who help detect or prevent potentially illegal acts and provide joint services (Our corporate affiliates will market</p>
-<p class="p1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;only to users who ask them to).</p>
-<p class="p1">&nbsp;&nbsp;&nbsp; - Service providers who help with our business operations.</p>
-<p class="p2">&nbsp;</p>
-<p class="p1">Using Information from Wewez. You may use personal information gathered from Wewez only to follow up with another user about a specific posting, not to send spam/ phising or collect personal information from someone who hasn’t agreed to that.</p>
-<p class="p2">&nbsp;</p>
-<p class="p1">Access, Modification, and Deletion. You can see, modify or erase your personal information by reviewing your posting or account status page. Contact customer support at&nbsp; to review any personal information we store that is not available on Wewez. There may be a charge associated with such requests but these will not exceed the amounts permitted by law. We delete personal information when we no longer need it for the purposes we described earlier. We retain personal information as permitted by law to resolve disputes, enforce our policies; and prevent bad guys from coming back.</p>
-<p class="p2">&nbsp;</p>
-<p class="p1">Data Security. We use a number of mechanisms (encryption, passwords, physical security) to protect the security and integrity of your personal information against unauthorized access and disclosure. Unfortunately, no data transmission over the internet can be guaranteed to be completely secure. So while we strive to protect such information, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once any personal information comes into our possession, we will take reasonable steps to protect that information from misuse and loss and from unauthorised access, modification or disclosure.</p>
-<p class="p2">&nbsp;</p>
-<p class="p1">Confidentiality of Information. Users who use any of the features on Wewez agree and accept that they have been fully informed by Wewez that the use of features may lead to publication, to all users of Wewez, of any personal information posted by them while using any specific feature on Wewez. Users further agree that the authenticity of, and consequences from the posting by users of any personal information of themselves or any other person, are the sole responsibility of the user. Users further agree and accept that the terms of the Privacy Policy will be applicable to the use of all features, existing and new. However, the Users agree and accept that confidentiality of information posted on such features has been waived by the Users of such features themselves.</p>
-<p class="p2">&nbsp;</p>
-<p class="p1">General. We may update, upgrade, modify (partially &amp;/or fully) this policy at any time, with updates taking effect when you next post or after 30 days, whichever is sooner. If we or our corporate affiliates are involved in a merger or acquisition, we may share personal information with another company, but this policy will continue to apply.</p>
-<p>&nbsp;</p></div>
-  </div>
-</div>
-      </div>
-    </div>
+<!--<div class="add_boxtop" style="border: 1px solid #CACACA;border-radius: 8px 8px 8px 8px;margin-bottom: 14px; margin-top:10px;">
+	<div class="add_boxtop_left" style="width: 850px;">
+	<div>
+	<p>[google1224bd7818e3c7d5.html]</p>
+<h3><span style="font-size: medium;"><span style="font-family: Arial;"><big><small><strong>Welcome to <span style="color: rgb(0, 51, 102);">WEWEZ.COM,</span><span style="color: rgb(128, 128, 128);"> </span><span style="color: rgb(51, 51, 51);">&quot;Where your needs classified&quot;</span></strong></small></big></span></span></h3>
+<p>�</p>	</div>
+	</div>	
     
-  </div>
-  <div class="clear"></div>
-  <!-- end of div holder -->
-
-  <div class="footer_outer">&nbsp;</div>
-  <div class="footer_wrap">
-	  <style>
-.footerlink{
-height:auto;
-}
-</style>
-<div class="footerholder">
-  <div class="all_matter">
-    <div class="footer_top">
-      <div class="footerleft">
-        <div class="wewezinternational" style="width:260px;">
-          <h1>Where You Can Find Wewez</h1>
-          <div class="footerlink" style="margin-top:10px;width:250px; height:auto;">
-		  <h1 style="color:#ffffff;">UAE</h1>
-            <ul style="height:auto;">        
-			  <li style="float:left; width:110px;"><a href="javascript:void(0);" onclick="setCityValuePost('57','Abu Dhabi')" style="color:#999999;">Abu Dhabi</a>
-			    </li><li style="float:left;  width:110px;"><a href="javascript:void(0);" onclick="setCityValuePost('63','Fujairah')" style="color:#999999;">Fujairah</a></li>
-			   <li style="float:left;  width:110px;"><a href="javascript:void(0);" onclick="setCityValuePost('62','Dubai')" style="color:#999999;">Dubai</a></li>
-              
-			   <li style="float:left;  width:110px;"><a href="javascript:void(0);" onclick="setCityValuePost('61','Ajman')" style="color:#999999;">Ajman</a></li>			   
-              <li style="float:left;  width:110px;"><a href="javascript:void(0);" onclick="setCityValuePost('73','Ras Al Khaimah')" style="color:#999999;">Ras&nbsp;Al&nbsp;Kaimah</a></li>  
-             
-              <li style="float:left;  width:110px;"><a href="javascript:void(0);" onclick="setCityValuePost('65','Umm Al Quwain')" style="color:#999999;">Umm&nbsp;al&nbsp;Quwain</a>
-             </li><li style="float:left;  width:110px;"><a href="javascript:void(0);" onclick="setCityValuePost('64','Sharjah')" style="color:#999999;">Sharjah</a></li>
-            
-            </ul>
-          </div>
-          <div class="footerlink" style="margin-top:10px; width:250px;">
-		   <h1 style="color:#ffffff;">Other Countries</h1>
-            <ul style="height:auto;">
-             <li style="float:left; width:110px;"><a href="javascript:void(0);" style="color:#999999;" onclick="setCountryValuePost(71);">Egypt</a></li>
-			 
-			  <li style="float:left; width:110px;"><a href="javascript:void(0);" style="color:#999999;" onclick="setCountryValuePost(186);">Oman</a></li>
-			  
-              <li style="float:left; width:110px;"><a href="javascript:void(0);" style="color:#999999;" onclick="setCountryValuePost(213)">KSA</a></li>
-			    <li style="float:left; width:110px;"><a href="javascript:void(0);" onclick="setCountryValuePost(126)" style="color:#999999;">Jordan</a></li>
-				  <li style="float:left; width:110px;"><a href="javascript:void(0);" style="color:#999999;" onclick="setCountryValuePost(134);">Kuwait</a></li>
-			    <li style="float:left; width:110px;"><a href="javascript:void(0);" style="color:#999999;" onclick="setCountryValuePost(138);">Lebanon</a></li>	  
-			  <li style="float:left; width:110px;"><a href="javascript:void(0);" style="color:#999999;" onclick="setCountryValuePost(200);">Qatar</a></li>
-			  <li style="float:left; width:110px;"><a href="javascript:void(0);" onclick="setCountryValuePost(3)" style="color:#999999;">Algeria</a></li>
-			  <li style="float:left; width:110px;"><a href="javascript:void(0);" style="color:#999999;" onclick="setCountryValuePost(18);">Bahrain</a></li>	
-		  <li style="float:left; width:110px;"><a href="javascript:void(0);" style="color:#999999;" onclick="setCountryValuePost(245);">Tunisia</a></li>	
-             
-            </ul>
-          </div>
-         <!-- <div class="footerlink" style="margin-top:10px; margin-left:10px;">
-            <ul>
-              <li><a href="javascript:void(0);" onclick="setCountryValuePost(168);">Morocco</a></li>
-              <li><a href="javascript:void(0);"  style="color:#999999;">Casablanka</a></li>
-			   <li style="margin-top:8px;"><a href="javascript:void(0);" onclick="setCountryValuePost(141);">Libya</a></li>
-              <li><a href="javascript:void(0);"  style="color:#999999;">Tripoli</a></li>
-              <li style="margin-top:8px;"><a href="javascript:void(0);" onclick="setCountryValuePost(186);">Oman</a></li>
-              <li><a href="javascript:void(0);" style="color:#999999;">Maskat</a></li>
-              
-              <li><a href="javascript:void(0);" style="color:#999999;">Doha</a></li>
-              <li style="margin-top:8px;"><a href="javascript:void(0);" onclick="setCountryValuePost(235);">Syria</a></li>
-              <li><a href="javascript:void(0);" style="color:#999999;">Damascus</a></li>
-            </ul>
-          </div>-->
-         <!-- <div class="footerlink" style="margin-top:10px; margin-left:10px;">
-            <ul>
-              <li><a href="javascript:void(0);" onclick="setCountryValuePost(245);">Tunisia</a></li>
-              <li><a href="javascript:void(0);"  style="color:#999999;">Tunis</a></li>
-              <li style="margin-top:8px;"><a href="javascript:void(0);" onclick="setCountryValuePost(252);">UAE</a></li>
-            </li>
-            </ul>
-          </div>-->
-        </div>
-		
-		 
-        <div class="suportwrap" style="width:500px; padding-top:27px;">
-          <div class="support" style="padding: 10px 5px 5px 5px;">
-            <h1 style="color:#ffffff;">Wewez</h1>
-            <div class=" footerlink">
-              <ul style="height:auto;"> 
-                <li><a href="aboutus.html" style="color:#999999;">About Us</a></li>
-                <li><a href="javascript:void(0);" style="color:#999999;">Advertising</a></li>
-                <li><a href="careers.html" style="color:#999999;">Careers</a></li>
-                <li><a href="termsandconditions.html" style="color:#999999;">Terms&nbsp;of&nbsp;Use </a></li>
-                <li><a href="privacypolicy.html" style="color:#999999;">Privacy&nbsp;Policy</a></li>
-				<li><a href="companies.html" style="color:#999999;">Companies</a></li>
-              </ul>
-            </div>
-          </div>
-					
-					
-          <div class="support" style="margin-left:15px; padding: 10px 5px 5px 5px">
-            <h1 style="color:#ffffff;">SUPPORT</h1>
-            <div class=" footerlink">
-              <ul style="height:auto;">
-                <li style="width:85px;"><a href="help.html" style="color:#999999;">Help&nbsp;and&nbsp;How&nbsp;to</a></li>
-                <li><a href="contact-us.html" style="color:#999999;">Contact&nbsp;Us</a></li>
-				<!-- <li>
-				<a href="javascript:void(0);" style="color:#999999;" onclick="chnagelangauge('en');">E</a>
-				</li>
-				<li>				
-				<a href="javascript:void(0);" style="color:#999999;" onclick="chnagelangauge('ar');">A</a>
-              </li>-->
-			  </ul>
-            </div>
-          </div>
-					
-		<div class="connect_wrap" style="width:250px;padding-top:0px; margin-top:-5px;">
-<table width="100%" border="0">
-<tbody><tr> <td width="20%" height="50" valign="top">&nbsp;</td><td colspan="4" width="80%"><div class="slogan_connect_wrap" style="padding-top:0px; margin-top:0px;"> Connect with Us</div></td>  </tr>
-  <tr>   
-    <td width="20%">&nbsp;</td>
-    <td width="20%"><a href="https://www.facebook.com/wewezcom?ref=hl" target="_blank"><!--<a href="http://www.facebook.com/wewezcom" target="_blank">--><img src="http://wewez.com/images/social-facebook-box-blue-icon.png"></a></td>
-    <td width="20%">
-	<a href="https://twitter.com/wewezcom" target="_blank"><img src="http://wewez.com/images/social-twitter-box-blue-icon.png"></a>
-	<!--<a href="http://twitter.com/share?title=wewez&url=http://wewez.com/" target="_blank"><img src="http://wewez.com/images/social-twitter-box-blue-icon.png" /></a>--></td>
-    <td width="20%"><a href="http://feeds.feedburner.com/widgetsforfree" target="_blank"><img src="http://wewez.com/images/rss.png"></a></td>
-    <td width="20%"><a href="javascript:void(0);"><img src="http://wewez.com/images/utube.png"></a></td>
-  </tr>
-</tbody></table>
-
-
-</div>			
-					
-					
-        </div>
-        <div class="clear"></div>
-        <!-- Footer Icons-->
-        <div class="wewez_slogan_outer" style="padding-top:50px;">
-<div class="wewez_slogan"><table width="100%" border="0">
-  <tbody><tr>
-    <td width="8%"><img src="images/w-logo.png"></td>
-    <td width="92%"><div class="slogan_wrap">
-    <span class="white">Wewez.com,</span>
-    AD THE WORLD    </div>
 	
-	</td>
+	<div style="float:right; padding-top:16px;">	
+	<div style="float:left"><a href="http://www.facebook.com/wewezcom" target="_blank"><img src="http://www.wewez.com/images/f_icon1.png" style=" width:26px;height:26px; padding-right:15px;"></a></div>
+	<div style="float:left" ><a href="http://www.twitter.com/wewezcom" target="_blank" ><img src="http://www.wewez.com/images/f_icon3.png" style=" width:26px;height:26px; padding-right:15px;"></a></div>
+	</div>
+	
+	<div style="clear:both"></div>
+</div>-->
+<div style="clear:both"></div>
+
+
+ 
+ 
+ <!------Start Post Ad-------->
+<div class="postbox">
+
+<fieldset class="chose_section_tab">
+                            <legend class="p2">Privacy policy</legend>
+ 
+<div class="about">                           
   
-  </tr>
-</tbody></table>
+<div id="page">Our policy covers the use of&nbsp; your personal information. We take your  privacy seriously and will take all measures to protect your personal  information.
+<p>In order to place an advertisement on the website, you will  need to register. We will require you to supply your name,  e-mail  address, telephone number and location.</p>
+<p>we will not sell or redistribute your information to  anyone.</p>
 </div>
-
-</div>
-      </div>
-	  
-	  
-	  
-<script>
-var xmlHttpGGC;
-function submitNewsletter()
-{
-  //alert(actBut);
-	//actionButton=actBut;
-	var strSubmit = '';
-	var formElem;
-	var strLastElemName = '';	
-	
-	for(i=0; i<document.subscribeNewsletter.elements.length; i++)
-	{
-		formElem = document.subscribeNewsletter.elements[i];
-		switch (formElem.type) 
-		{
-			// Text, select, hidden, password, textarea,checkbox elements,radio
-			case 'text':		{	strSubmit += formElem.name + '=' + escape(formElem.value) + '&'; break; }								
-			case 'select-one':	{	strSubmit += formElem.name + '=' + escape(formElem.value) + '&'; break; }
-			case 'hidden':		{	strSubmit += formElem.name + '=' + escape(formElem.value) + '&'; break; }
-			case 'password':	{	strSubmit += formElem.name + '=' + escape(formElem.value) + '&'; break; }
-			case 'button':		{	strSubmit += formElem.name + '=' + escape(formElem.value) + '&'; break; }
-			case 'textarea':	{	strSubmit += formElem.name + '=' + escape(formElem.value) + '&'; break; }
-			case 'checkbox':	{	
-									if(formElem.checked==true)
-									{	
-										strSubmit += formElem.name + '=' + escape(formElem.value) + '&'; 
-									}	
+<p>&nbsp;</p>
+</div>                        
+                            
+</fieldset>
 
 
 
-									break; 	
-								}	
-	
-			case 'radio':		{	
-									if(formElem.checked==true)
-									{	
-										strSubmit += formElem.name + '=' + escape(formElem.value) + '&'; 
-									}	
-									break; 
-								}
-		} 
-	}
-	
-	
-	xmlHttpGGC=GetXmlHttpObject();
-	if(xmlHttpGGC==null) { alert ("Browser does not support HTTP Request"); return; } 
-	
-	var url=path_src+"ajax/subscribe-newsletter.php";
-	
-	xmlHttpGGC.open("POST",url,true);
-	xmlHttpGGC.setRequestHeader('Content-Type','application/x-www-form-urlencoded');
-	xmlHttpGGC.onreadystatechange=submitNewsletterState;
-	xmlHttpGGC.send(strSubmit);
-}
-function submitNewsletterState() 
-{ 
-	if(xmlHttpGGC.readyState==4 || xmlHttpGGC.readyState=="complete")
-	{	
-	  
-		browserCompatibility("responseSubscribeMessageHolder").innerHTML=xmlHttpGGC.responseText;
-		if(browserCompatibility("hidResponseValue").value=="success")
-		{
-		  //alert(xmlHttp.responseText);
-			browserCompatibility("subscribeNewsletterDiv").style.display="none";
-			browserCompatibility("thankYou").style.display="block";
-			browserCompatibility("ErrorMsg").style.display="none";
-		}
-		else
-		{
-		 	if(browserCompatibility("hidResponseErrorMsg").value!=" ")
-		    {
-			 browserCompatibility("ErrorMsg").style.display="block";
-			 browserCompatibility("ErrorMsg").innerHTML=browserCompatibility("hidResponseErrorMsg").value;
-			}
-		
-		}
-	} 
-}
-</script>	  
-<span id="responseSubscribeMessageHolder"></span>
+
+</div><!------End Post Ad-------->
 
 
-	  
-      <div class=" footerright">
-        <div class="newsbox">
-          <div class="innernewsbox">
 
-            <div class="subscribe">Subscribe By Email</div>
-            
-			 
-			 <div class="subscribe" id="ErrorMsg" style="display:none; color:#FF0000; padding-bottom:0px;"> </div>
-			 <div class="subscribe" id="thankYou" style="display:none;">Thank You !</div>
+</div><!------End Container-------->
+
+
+
+
+
+
+</div><!------End Wrapper-------->
+
+</div><!------End Maincontent-------->
+
+
+
+
+<div>
+
+<div id="footer_back">
+
+
+
+<div class="clear"></div>
+
+
+
+
+
+<!------Start Footerback-------->
+
+<div id="footer">
+
+<div class="companyinfo" style="margin-left:8px;">
+
+<p>Country</p>
+
+<br>
+
+<ul>
+
+
+
+
 			
-			<div id="subscribeNewsletterDiv" style="display:block;">
-			<form name="subscribeNewsletter" id="subscribeNewsletter" method="post" enctype="multipart/form-data">
-              <div class="clear"></div>              
-			  <div class="newstextwrap" style="margin-top:6px;"><input name="email" type="text" class="newstextbox"></div><div class="clear"></div> 
-			  <input type="hidden" name="submit" id="SSSss" value="yes">
-			  <div class="news_button_wrap" style="margin-top:15px;"><div class="newtextbtn" onclick="submitNewsletter();">Subscribe</div></div>
-			 </form>
-			</div> 
-			 
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="copyright">WEWEZ ©2012, ALL RIGHTS RESERVED.</div>
-</div>
+
+			<li><a href="http://www.wewez.com/-69_UAE/">UAE</a></li>				
+
+			
 
 
-<!--SET Country and City Form-->
-<form name="setCountryForm" id="setCountryForm" method="post">
-<input type="hidden" name="country_Id" id="country_Id" value="">
-</form>
+</ul>
 
-<form name="setCityForm" id="setCityForm" method="post">
-<input type="hidden" name="city_Id" id="city_Id" value="">
-<input type="hidden" name="city_Name" id="city_Name" value="">
-<input type="hidden" name="showCategoryDiv" id="showCategoryDiv" value="yes">
-</form>
-<!--SET Country and City Form-->
-
-
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-  </div>
 </div>
 
 
 
-<!-- AJAX RESPONSE HOLDER -->
-<div id="divResponseHolder">
-  <input type="hidden" name="hiddenResponseMessage" id="hiddenResponseMessage" value="">
+<div class="companyinfo">
+
+<p>Quick Links</p>
+
+<br>
+
+<ul>
+
+
+
+<li><a href="http://www.wewez.com//index.php?view=post&amp;cityid=198&amp;lang=en&amp;1st=1">Sell / Place an Ad</a></li>
+
+
+
+
+<li><a href="http://www.wewez.com/usersignup">Register</a></li>
+
+
+<li><a href="http://www.wewez.com/info.php?id=16">How to</a></li>
+
+
+
+<li><a href="http://www.wewez.com/info.php?id=17">Help</a></li>
+
+
+
+</ul>
+
 </div>
 
 
 
-</body></html>
+
+
+<div class="companyinfo2">
+
+<p> Categories</p>
+
+<br>
+
+<ul>
+
+
+<li><a href="http://www.wewez.com//post/198/10007/">Numbers</a></li>
+
+
+<li><a href="http://www.wewez.com//post/198/20/">Engines</a></li>
+
+
+<li><a href="http://www.wewez.com//post/198/13/">Classifieds</a></li>
+
+
+<li><a href="http://www.wewez.com//post/198/14/">Property for Sale</a></li>
+
+
+<li><a href="http://www.wewez.com//post/198/15/">Property for Rent</a></li>
+
+
+<li><a href="http://www.wewez.com//post/198/4/">Jobs</a></li>
+
+
+<li><a href="http://www.wewez.com//post/198/17/">Community</a></li>
+
+
+<li><a href="http://www.wewez.com//post/198/10005/">Offers &amp; Discounts</a></li>
+
+
+<li><a href="http://www.wewez.com//post/198/10006/">Stores</a></li>
+
+
+</ul>
+
+</div>
+
+
+
+
+
+<div class="companyinfo2">
+
+<p>Connected with us</p>
+
+<div class="social_link">
+
+<div class="social_img"><a href="http://www.facebook.com/wewezcom" target="_blank"><img src="http://www.wewez.com/images/f_icon1.png" width="26" height="26"></a></div>
+
+<div class="social_img"><a href="http://www.youtube.com/user/wewez" target="_blank"><img src="http://www.wewez.com/images/f_icon2.png" width="26" height="26"></a></div>
+
+<div class="social_img"><a href="http://www.twitter.com/wewezcom" target="_blank"><img src="http://www.wewez.com/images/f_icon3.png" width="26" height="26"></a></div>
+
+
+
+<div class="social_img"><a href="http://feedity.com/wewez-com/VlBVVVNX.rss" target="_blank"><img src="http://www.wewez.com/images/f_icon4.png" width="26" height="26"></a></div>
+
+<div class="social_img"><a href="https://plus.google.com/u/0/103546645766111450035/posts" target="_blank"><img src="http://www.wewez.com/images/f_icon5.png" width="26" height="26"></a></div>
+
+<div class="social_img"><a href="http://www.linkedin.com/company/wewez" target="_blank"><img src="http://www.wewez.com/images/f_icon6.png" width="26" height="26"></a></div>
+
+
+
+<div class="social_img"><a href="http://wewezcom.blogspot.ae/" target="_blank"><img src="http://www.wewez.com/images/f_icon7.png" width="26" height="26"></a></div>
+
+<div class="social_img"><a href="http://www.skype.com/nl/" target="_blank"><img src="http://www.wewez.com/images/f_icon8.png" width="26" height="26"></a></div>
+
+<div class="social_img"><a href="http://www.yahoo.com" target="_blank"><img src="http://www.wewez.com/images/f_icon9.png" width="26" height="26"></a></div>
+
+</div>
+
+<br>
+
+</div>
+
+
+
+<div class="companyinfo">
+
+<p>Site</p>
+
+<br>
+
+<ul>
+
+<li><a href="http://www.wewez.com/info.php?id=4">About Us</a></li>
+
+<li><a href="http://www.wewez.com/info.php?id=3">Press</a></li>
+
+<li><a href="http://www.wewez.com/info.php?id=5">Partners</a></li>
+
+<li><a href="http://www.wewez.com/info.php?id=9">Careers</a></li>
+
+<li><a href="http://www.wewez.com/info.php?id=6">Privacy Policy</a></li>
+
+<li><a href="http://www.wewez.com/info.php?id=12">Terms &amp; Condition</a></li>
+
+<li><a href="http://www.wewez.com/contact_us.php">Contact Us</a></li>
+
+</ul>
+
+</div>
+
+
+
+
+
+</div><!------End Footer-------->
+
+
+
+<!------End Footerback-------->
+
+
+
+
+
+
+
+</div></div></body></html>
