@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the corinzander.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118062920id_/http%3A//corinzander.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corinzander.com privacy policy that was archived on 2013-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130901124122id_/http%3A//corinzander.com/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | Corin Zander's Internet Marketing
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
