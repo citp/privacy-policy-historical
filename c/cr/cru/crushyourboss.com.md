@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crushyourboss.com privacy policy that was archived on 2013-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130320111603id_/http%3A//crushyourboss.com/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crushyourboss.com privacy policy that was archived on 2013-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130901110732id_/http%3A//www.crushyourboss.com/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
