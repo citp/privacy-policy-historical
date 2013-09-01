@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eartheasy.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423214244id_/http%3A//eartheasy.com/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eartheasy.com privacy policy that was archived on 2013-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130901145559id_/http%3A//eartheasy.com/privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security
 
