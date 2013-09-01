@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the spellingcity.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603074712id_/http%3A//www.spellingcity.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spellingcity.com privacy policy that was archived on 2013-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130901061226id_/http%3A//www.spellingcity.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Privacy Policy Updated: October 2012
+Privacy Policy Updated: June 2013
 
 At VocabularySpellingCity.com, we consider children's safety--which is related to privacy--to be all-important.
 
@@ -37,6 +37,10 @@ VocabularySpellingCity.com does not disclose user personal information to outsid
 **What about the collection of information by third parties?**
 
 Our web site contains links to web sites not maintained by VocabularySpellingCity.com. The privacy and data collection practices on any linked web sites are entirely separate from those of VocabularySpellingCity.com and are not covered by this Privacy Policy. We cannot guarantee that student users will not go to another site where personal information from them is solicited. VocabularySpellingCity does have limited advertising on the site and takes measures to maintain the appropriateness of the advertising material to the educational mission of VocabularySpellingCity. Google's Adsense service is our primary supplier of advertising Google's activities includes placing "cookies" on user computers in order to track user movement through various websites on the internet.
+
+**What is a cookie?**
+
+A cookie is information a Web site puts on your computer's hard drive so that the site can remember your preferences or which pages you visited on that site.
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
