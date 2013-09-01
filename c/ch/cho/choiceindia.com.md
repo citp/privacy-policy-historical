@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the choiceindia.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630122321id_/http%3A//www.choiceindia.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the choiceindia.com privacy policy that was archived on 2013-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130901164105id_/http%3A//www.choiceindia.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Choice India
 
