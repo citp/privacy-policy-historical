@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the configserver.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517124653id_/http%3A//www.configserver.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the configserver.com privacy policy that was archived on 2013-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130901230942id_/http%3A//www.configserver.com/privacy.html) for the most accurate reproduction.*
 
 # Way to the Web Privacy Policy
 
