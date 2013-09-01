@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the motelrocks.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611092022id_/http%3A//www.motelrocks.com/shop/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motelrocks.com privacy policy that was archived on 2013-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130901071322id_/http%3A//www.motelrocks.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**General**
+General
 
 This privacy statement sets out how Motel, who operate this website located at [www.motelrocks.com](http://www.motelrocks.com/), use the information you give us. We may change this privacy statement at any time by posting such changes on the site. Your continued use of the site after notice of changes shall mean you have agreed to the new privacy statement. We are committed to respecting your privacy. Once you choose to provide us with any information by which you can be identified with, then you can be assured that it will only be used in accordance with this privacy statement. By using the site you agree to this use.
 
-  **What We Collect**
+ What We Collect
 
 We may collect the following information:
 
@@ -15,7 +15,7 @@ We may collect the following information:
 
 
 
-**What Do We Do With The Information We Gather**
+What Do We Do With The Information We Gather
 
 We require this information to understand your needs and provide you with a better service. In particular, we may use your information for the following reasons:
 
@@ -29,7 +29,7 @@ We require this information to understand your needs and provide you with a bett
 
 
 
-**Who We Share The Information With And Your Choices**
+Who We Share The Information With And Your Choices
 
 When you use this site and have not advised us to the contrary, you are agreeing that we may use your information for the purposes set out in this privacy statement. We may pass information about you to the following, who may use it for the same purpose as set out above:
 
@@ -40,15 +40,15 @@ When you use this site and have not advised us to the contrary, you are agreeing
 
 
 
-**Our Marketing**
+Our Marketing
 
 Unless you say otherwise, we may use your information to contact you about special offers, goods and services. You may change your mind at any time by writing to us at: Customer Services, Unit 27, Hunt End Ind.Est, Dunlop Road, Redditch, B97 5XP.
 
-**Other Web Sites**
+Other Web Sites
 
 Our web site may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site you should note that we do not have control over that website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-**How We Use Cookies**
+How We Use Cookies
 
 A cookie is a piece of text that asks permision to be placed on your compouter's hard drive. Once you agree, your browser adds that text in a small file. We currently only use "session cookies" on the site. These are temporary and are automatically deleted when the browser is closed.
 
