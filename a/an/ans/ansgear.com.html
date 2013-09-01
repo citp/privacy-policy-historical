@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ansgear.com privacy policy that was archived on 2013-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130605004615id_/http%3A//www.ansgear.com/terms_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ansgear.com privacy policy that was archived on 2013-09-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130901154917id_/http%3A//www.ansgear.com/terms_privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -11,9 +11,10 @@
 <meta name="GOOGLEBOT" content="INDEX, FOLLOW">
 
 
-<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0013/0772.js?438993" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" charset="UTF-8" src="//rum-static.pingdom.net/prum.min.js"></script><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/gtmp_compiled.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0013/0772.js?438993" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/gtmp_compiled.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js"></script>
 <link type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/themes/base/jquery-ui.css" rel="stylesheet">
+<link type="text/css" href="/a/c/default.css" rel="stylesheet">
 
 
 <script type="text/javascript">
@@ -29,8 +30,31 @@
     var PageText_843 = "Subtotal";
     var PageText_844 = "items in cart";
 </script>
+<script type="text/javascript" src="/a/j/volusion.js?6.41.1.224"></script>
+<script type="text/javascript">
+    (function ($) {
+        volusion.ready(function () {
+            if (volusion.cart.isObservingCount()) {
+                var ts = new Date().getTime();
 
-<script type="text/javascript" src="/a/j/javascripts.js?6_5_6.34.2"></script>
+                $.getJSON('/ajaxcart.asp?cachebust=' + ts, function (data) {
+                    var quantityTotal = 0;
+                    $.each(data.Products, function (key, val) {
+                        if (val.IsProduct === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        } else if (val.IsAccessory === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        }
+                    });
+                    quantityTotal = quantityTotal || '0';
+                    volusion.cart.itemCount(quantityTotal);
+                });
+
+            }
+        });
+    } (jQuery));
+</script>
+<script type="text/javascript" src="/a/j/javascripts.js?6_5_6.41.1.224"></script>
 
 <script type="text/javascript" src="/a/j/vcompare.js"></script>
 <link type="text/css" rel="stylesheet" href="/a/c/VCompare.css">
@@ -76,7 +100,6 @@
 
 
 
-
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <!-- 
 DYNAMIC PAGE-SPECIFIC META TAGS WILL BE PLACED HERE
@@ -114,7 +137,7 @@ Date: September 2009
 <body id="body">
 <div id="page_wrapper">
 
-<script type="application/javascript">var _prum={id:"5166fa91e6e53dc55e000000"};var PRUM_EPISODES=PRUM_EPISODES||{};PRUM_EPISODES.q=[];PRUM_EPISODES.mark=function(b,a){PRUM_EPISODES.q.push(["mark",b,a||new Date().getTime()])};PRUM_EPISODES.measure=function(b,a,b){PRUM_EPISODES.q.push(["measure",b,a,b||new Date().getTime()])};PRUM_EPISODES.done=function(a){PRUM_EPISODES.q.push(["done",a])};PRUM_EPISODES.mark("firstbyte");(function(){var b=document.getElementsByTagName("script")[0];var a=document.createElement("script");a.type="text/javascript";a.async=true;a.charset="UTF-8";a.src="//rum-static.pingdom.net/prum.min.js";b.parentNode.insertBefore(a,b)})();</script>
+
 
 <!-- Google Code for ANSgear Remarketing List -->
 <script type="text/javascript">
@@ -190,7 +213,7 @@ function mClk1(src, popup)
 </script>
 <ul>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
-	<a href="http://www.ansgear.com/Memorial_Day_Paintball_Sale_s/4176.htm" title="Memorial Day Paintball Sale">Memorial Day Sale</a>
+	<a href="http://www.ansgear.com/Labor_Day_Paintball_Sale_s/4362.htm" title="Labor Day Paintball Sale">LABOR DAY SALE</a>
 </li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
 	<a href="http://www.ansgear.com/Paintball_Sale_Gear_All_Your_Discounted_Paintball_Gear_s/531.htm" title="Paintball Sale Gear - All Your Discounted Paintball Gear">SUPER SALE GEAR</a>
@@ -434,12 +457,20 @@ function mClk2(src, popup)
 </td>
       <td width="151" valign="top" id="content_right"><br><!-- BEGIN LivePerson Button Code --><div id="lpButDivID-1303514001080"></div><script type="text/javascript" charset="UTF-8" src="https://server.iad.liveperson.net/hc/35773009/?cmd=mTagRepstate&amp;site=35773009&amp;buttonID=14&amp;divID=lpButDivID-1303514001080&amp;bt=1&amp;c=1"></script><!-- END LivePerson Button code -->
 
+<a href="http://www.shopperapproved.com/certificates/ansgear.com/" onclick="var nonwin=navigator.appName!='Microsoft Internet Explorer'?'yes':'no'; var certheight=screen.availHeight-90; window.open(this.href,'shopperapproved','location='+nonwin+',scrollbars=yes,width=620,height='+certheight+',menubar=no,toolbar=no'); return false;">
+<img src="https://c813008.ssl.cf2.rackcdn.com/4286-med.jpg" style="border: 0" alt="" oncontextmenu="var d = new Date(); alert('Copying Prohibited by Law - This image and all included logos are copyrighted by shopperapproved \251 '+d.getFullYear()+'.'); return false;"></a>
+
+
+
+<div style="text-align: center;">&nbsp;
+
+
+<a href="http://www.ansgear.com/ANSgear_Review_Warehouse_Tour_s/2522.htm"><img src="/v/vspfiles/assets/images/warehouse tour button.jpg" width="150" height="102" alt="Warehouse Tour"></a><br><br>
 
 
 
 
-
-<br><a href="http://www.ansgear.com/ANSgear_Review_Warehouse_Tour_s/2522.htm"><img src="/v/vspfiles/assets/images/warehouse tour button.jpg" width="150" height="102" alt="Warehouse Tour"></a><br><br><a href="http://www.ansgear.com/help_FreeShipping.asp"><img src="/v/vspfiles/assets/images/rightbanner free ship.jpg" width="150" height="102" alt="Free Shipping on orders over $100"></a><br><br><a href="/Paintball_Sale_Gear_All_Your_Discounted_Paintball_Gear_s/531.htm"><img src="/v/vspfiles/templates/ANSgear/images/template/paintball-sale.gif" width="150" height="100" alt="Paintball Sale"></a><br><br><a href="/category_s/1639.htm"><img src="/v/vspfiles/templates/ANSgear/images/template/price-matching.gif" width="150" height="100" alt="Price Matching"></a><br><br><a href="/aboutus.asp"><img src="/v/vspfiles/templates/ANSgear/images/template/contact-us.gif" width="150" height="100" alt="Contact Us"></a><br><br><a href="/ANSgear_Retail_Store_s/1643.htm"><img src="/v/vspfiles/templates/ANSgear/images/template/retail-showroom.gif" width="150" height="100" alt="Retail Showroom"></a><br><br><a href="http://www.ansgear.com/BT_Paintball_Harness_s/1030.htm"><img src="/v/vspfiles/assets/images/battle tested combat gear.jpg" width="150" height="100" alt="btsale"></a><br><br><a href="http://www.ansgear.com/SearchResults.asp?Search=nightmare"><img src="/v/vspfiles/assets/images/vforce grill nightmare.jpg" width="150" height="100" alt="Nightmare"></a><br><br><a href="http://www.ansgear.com/GAS_Paintball_Tanks_s/3615.htm"><img src="/v/vspfiles/assets/images/gas airtanks.jpg" width="150" height="100" alt="GAS"></a><br><br><a href="http://www.ansgear.com/Eclipse_2011_Ego_Paintball_Gun_s/2340.htm"><img src="/v/vspfiles/assets/images/planet eclipse ego 11.jpg" width="150" height="100" alt="Ego11"></a><br></td>
+<a href="http://www.ansgear.com/help_FreeShipping.asp"><img src="/v/vspfiles/assets/images/rightbanner free ship.jpg" width="150" height="102" alt="Free Shipping on orders over $100"></a><br><br><a href="/Paintball_Sale_Gear_All_Your_Discounted_Paintball_Gear_s/531.htm"><img src="/v/vspfiles/templates/ANSgear/images/template/paintball-sale.gif" width="150" height="100" alt="Paintball Sale"></a><br><br><a href="/category_s/1639.htm"><img src="/v/vspfiles/templates/ANSgear/images/template/price-matching.gif" width="150" height="100" alt="Price Matching"></a><br><br><a href="/aboutus.asp"><img src="/v/vspfiles/templates/ANSgear/images/template/contact-us.gif" width="150" height="100" alt="Contact Us"></a><br><br><a href="/ANSgear_Retail_Store_s/1643.htm"><img src="/v/vspfiles/templates/ANSgear/images/template/retail-showroom.gif" width="150" height="100" alt="Retail Showroom"></a><br><br><a href="http://www.ansgear.com/Ninja_Paintball_Tanks_s/1398.htm"><img src="/v/vspfiles/assets/images/ninja colored dura tank.jpg" width="150" height="100" alt="Ninja Dura Tank"></a><br><br><a href="http://www.ansgear.com/Empire_Vanquish_Paintball_Gun_s/4104.htm"><img src="/v/vspfiles/assets/images/empire vanquish in stock.jpg" width="150" height="100" alt="Empire Vanquish"></a><br><br><a href="http://www.ansgear.com/category_s/4209.htm"><img src="/v/vspfiles/assets/images/apx agro scented paint.jpg" width="150" height="100" alt="APX Agro"></a><br><br><a href="http://www.ansgear.com/Dye_Rotor_Paintball_Loader_s/1228.htm"><img src="/v/vspfiles/assets/images/dye rotor orange tiger.jpg" width="150" height="100" alt="Dye Rotor"></a><br><br><a href="http://www.ansgear.com/Paintball_Gun_Mat_Tech_Mat_s/1061.htm"><img src="/v/vspfiles/assets/images/mini tek mat banner.jpg" width="150" height="100" alt="Mini Tek Mat"></a><br></div></td>
     </tr>
   </tbody></table>
 </div>
