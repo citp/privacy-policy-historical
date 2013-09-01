@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shroomery.org privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610182238id_/http%3A//www.shroomery.org/forums/viewprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shroomery.org privacy policy that was archived on 2013-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130901055325id_/http%3A//www.shroomery.org/forums/viewprivacy.php) for the most accurate reproduction.*
 
 # Privacy statement - Shroomery Message Board
 
