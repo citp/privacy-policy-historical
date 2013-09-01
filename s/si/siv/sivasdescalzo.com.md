@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sivasdescalzo.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509042300id_/http%3A//www.sivasdescalzo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sivasdescalzo.com privacy policy that was archived on 2013-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130901125858id_/http%3A//www.sivasdescalzo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | sivasdescalzo.com
 
