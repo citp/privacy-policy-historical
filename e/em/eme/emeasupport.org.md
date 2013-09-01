@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emeasupport.org privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508184052id_/https%3A//library.familysearch.org//privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emeasupport.org privacy policy that was archived on 2013-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130902005348id_/https%3A//library.familysearch.org//privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FamilySearch.org
 
@@ -58,7 +58,7 @@ Salt Lake City, UT 84150
 
 ## Children’s Privacy
 
-We do not knowingly collect information from children under age 13 on most Church websites. Any Church website that collects children’s information will do so only with the prior express and informed consent of the child’s parent or guardian in compliance with applicable law. We bly recommend that minors 13 years of age or older ask their parents for permission before sending any information about themselves to anyone over the Internet, and we encourage parents to teach their children about safe Internet use practices.
+We do not knowingly collect information from children under age 13 on most Church websites. Any Church website that collects children’s information will do so only with the prior express and informed consent of the child’s parent or guardian in compliance with applicable law. We strongly recommend that minors 13 years of age or older ask their parents for permission before sending any information about themselves to anyone over the Internet, and we encourage parents to teach their children about safe Internet use practices.
 
 ## Third-Party Links
 
