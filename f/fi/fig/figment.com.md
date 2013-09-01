@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the figment.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607032717id_/http%3A//figment.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the figment.com privacy policy that was archived on 2013-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130901043353id_/http%3A//figment.com/privacy) for the most accurate reproduction.*
 
 # Write yourself in. Figment
-
-You need to sign in or sign up before continuing.
 
 ## **Last Updated June 21, 2010**
 
