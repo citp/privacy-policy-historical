@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fotofuze.com privacy policy that was archived on 2013-05-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130530160211id_/http%3A//fotofuze.com/page/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fotofuze.com privacy policy that was archived on 2013-09-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130901172623id_/http%3A//fotofuze.com/page/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN"><html><head>
 <script type="text/javascript" async="" src="https://widget.uservoice.com/WDLUQKXrzQcZ28bBm6NKNQ.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime();var ignoreChartbeat = 0;</script>
@@ -10,10 +10,43 @@
 <meta http-equiv="X-UA-Compatible" content="chrome=1">
 <link rel="shortcut icon" href="/icons/favicons/favicon.ico">
 <link rel="alternate" type="application/rss+xml" title="FotoFuze: News and Featured Fuzes" href="http://feeds.feedburner.com/fotofuze">
-<link rel="stylesheet" href="/css/tipsy.css?">
-<link rel="stylesheet" href="/css/std.css?version=20">
-<script type="text/javascript" src="/min/?f=js/jquery-1.4.2.min.js,js/jquery-ui-1.8.2.effects.min.js,js/jquery.editinplace.js,js/jquery.form.2.36.js,js/jquery.copy.js,facebox/facebox.js,js/std.js,js/jquery.dropdown.js,js/jquery.ba-bbq.min.js,js/jquery.tipsy.js&amp;version=1"></script>
-<script src="/js/printstacktrace.js"></script>
+<link rel="stylesheet" href="/min/?f=css/tipsy.css,css/std.css,uploadify/uploadify.css,css/fileuploader.css,css/custom-theme/jquery-ui-1.7.2.custom.css,css/rangeinput.css">
+<script type="text/javascript" src="/min/?f=js/jquery-1.4.2.min.js,js/jquery-ui-1.8.2.effects.min.js,js/jquery.editinplace.js,js/jquery.form.2.36.js,js/jquery.copy.js,facebox/facebox.js,js/std.js,js/jquery.dropdown.js,js/jquery.ba-bbq.min.js,js/jquery.tipsy.js&amp;version=2"></script>
+<script>var uploadifyLoad, rangeinputLoad;</script>
+<script type="text/javascript" src="/min/?f=uploadify/swfobject.js,uploadify/jquery.uploadify.v2.1.4.min.js,js/jquery.tools.min.js,js/printstacktrace.js,js/jquery-ui-1.7.2.custom.min.js,js/jquery.hoverbox.min.js,js/ui.selectmenu.js,js/jquery.reverseorder.packed.js,js/fileuploader.js,js/jquery.jqplugin.1.0.2.min.js,js/common.js&amp;v=1" onload="uploadifyLoad=1;rangeinputLoad=1;" onerror="uploadifyLoad=-1;rangeinputLoad=-1;"></script>
+<script>
+
+// init
+var user_a = '';
+var user_id = '';
+var user_p = '';
+var user_archived = '0';	// lastArchived gets modified
+var user_etsy_id = '';
+var user_email = '';
+
+
+// local store of user's preferences
+
+
+
+// gather WebGL stats
+gatherWebGLStats();
+
+
+// some initial page setup
+ // If we have the session cookie, immediately go home.
+ //var session = readCookie('session');
+ //if(session) {
+ //        window.location.href="/cgi-bin/home.pl";
+ //}
+pageSetup1();
+
+
+// check if account needs to be restored
+var lastArchive = '0';
+checkForRestoreAccount();
+
+</script>
 <!--[if lte IE 7]>
 	<link rel="stylesheet" href="/static/css/ie.css" type="text/css" media="screen" title="IE Stylesheet" charset="utf-8" />
 <![endif]-->
@@ -29,65 +62,6 @@
 $(function(){$(document).pngFix()});
 </script>
 <![endif]-->
-<script type="text/javascript">
-
-// If we have the session cookie, immediately go home.
-//var session = readCookie('session');
-//if(session) {
-//        window.location.href="/cgi-bin/home.pl";
-//}
-
-$(function($) {
-	lastFunctionCall = "setup6";
-	$('.silent-form').ajaxForm();
-
-	var silentAlertOptions = {
-		success: function(responseText, statusText) {
-			alert("As you wish! -- " + statusText + " -- " + responseText);
-		}
-	};
-	$('.silent-alert-form').ajaxForm(silentAlertOptions);
-
-	//$('#sortable').sortable();
-	//$('#sortable').disableSelection();
-
-	$('.delete').css({'opacity':'0'});
-
-	$(".valign").vAlign();
-	$(".halign").hAlign();
-	lastFunctionCall = "";
-})
-
-$(window).load(function() {
-	lastFunctionCall = "docReadyLoadFunc4";
-	$("img .valign").vAlign();
-	$("img .halign").hAlign();
-	lastFunctionCall = "";
-});
-
-// Adobe Air
-function browserBack() {
-	lastFunctionCall = "browserBack";
-	if(window.parent && window.parent.airBack) {
-		window.parent.airBack();
-	} else {
-		history.back();
-	}
-	lastFunctionCall = "";
-}
-
-function browserForward() {
-	lastFunctionCall = "browserForward";
-	if(window.parent && window.parent.airForward) {
-		window.parent.airForward();
-	} else {
-		history.forward();
-	}
-	lastFunctionCall = "";
-}
-
-</script>
-<style>.triangle-left{width:0;height:0;border-top:5px solid transparent;border-right:10px solid white;border-bottom:5px solid transparent;display:inline-block;}.triangle-right{width:0;height:0;border-top:5px solid transparent;border-left:10px solid white;border-bottom:5px solid transparent;display:inline-block;}.bubl{background-color:white;position:absolute;}</style>
 <!--[if lt IE 8]>
 <style>
 .triangle-left-right {
@@ -103,7 +77,7 @@ function browserForward() {
 </style>
 <![endif]-->
 </head>
-<body>    <div id="facebox" style="display:none;">       <div class="popup">         <table>           <tbody>             <tr>               <td class="tl"></td><td class="b"></td><td class="tr"></td>             </tr>             <tr>               <td class="b"></td>               <td class="body">                 <div class="header">     <span style="float:left"><h1 style="font-size:20px;color:grey" class="facebox-title"></h1></span>                   <a href="#" class="close">                     <img src="/facebox/closelabel.gif" title="close" class="close_image" style="text-align:right">                   </a>                 </div>                 <div class="content">                 </div>               </td>               <td class="b"></td>             </tr>             <tr>               <td class="bl"></td><td class="b"></td><td class="br"></td>             </tr>           </tbody>         </table>       </div>     </div>
+<body>
 <div id="page-wrap">
 <div class="bubbles" style="width:100%;height:100%;overflow:hidden;position:absolute;min-height:600px;">
 <div class="bubl bubble1" style="width:250px;height:250px;border-radius:125px;left: 200px;top:100px;opacity:.3; z-index:0;-o-transition:left 4.0s;-moz-transition:left 4.0s;-webkit-transition:left 4.0s;"></div>
@@ -119,90 +93,26 @@ function browserForward() {
 <div class="proBar">
 <center><div><table><tbody><tr><td><span onclick="alert(&quot;You have a FotoFuze Pro account.  Thank you for supporting us!&quot;);">FotoFuze Professional</span></td></tr></tbody></table></div></center>
 </div>
-<style>#ff-userbar{background-color:black;background-color:RGBA(0,0,0,0.6);border-radius:0 0 14px 14px;padding:0 16px;}.proBar2{background-color:#EC4;border-bottom:1px solid #EB3;background:url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2Y3ZWE3NiIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNmZmQyMDAiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);background:-moz-linear-gradient(top,rgba(247,234,118,1) 0%,rgba(255,210,0,1) 100%);background:-webkit-gradient(linear,left top,left bottom,color-stop(0%,rgba(247,234,118,1)),color-stop(100%,rgba(255,210,0,1)));background:-webkit-linear-gradient(top,rgba(247,234,118,1) 0%,rgba(255,210,0,1) 100%);background:-o-linear-gradient(top,rgba(247,234,118,1) 0%,rgba(255,210,0,1) 100%);background:-ms-linear-gradient(top,rgba(247,234,118,1) 0%,rgba(255,210,0,1) 100%);background:linear-gradient(to bottom,rgba(247,234,118,1) 0%,rgba(255,210,0,1) 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f7ea76',endColorstr='#ffd200',GradientType=0);}.proBar{width:100%;height:30px;overflow:hidden;position:absolute;border-bottom:1px solid #E0E0E0;background:rgb(255,255,255);background:url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmZmZmZiIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2YzZjNmMyIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjUxJSIgc3RvcC1jb2xvcj0iI2VkZWRlZCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNmZmZmZmYiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);background:-moz-linear-gradient(top,rgba(255,255,255,1) 0%,rgba(243,243,243,1) 50%,rgba(237,237,237,1) 51%,rgba(255,255,255,1) 100%);background:-webkit-gradient(linear,left top,left bottom,color-stop(0%,rgba(255,255,255,1)),color-stop(50%,rgba(243,243,243,1)),color-stop(51%,rgba(237,237,237,1)),color-stop(100%,rgba(255,255,255,1)));background:-webkit-linear-gradient(top,rgba(255,255,255,1) 0%,rgba(243,243,243,1) 50%,rgba(237,237,237,1) 51%,rgba(255,255,255,1) 100%);background:-o-linear-gradient(top,rgba(255,255,255,1) 0%,rgba(243,243,243,1) 50%,rgba(237,237,237,1) 51%,rgba(255,255,255,1) 100%);background:-ms-linear-gradient(top,rgba(255,255,255,1) 0%,rgba(243,243,243,1) 50%,rgba(237,237,237,1) 51%,rgba(255,255,255,1) 100%);background:linear-gradient(to bottom,rgba(255,255,255,1) 0%,rgba(243,243,243,1) 50%,rgba(237,237,237,1) 51%,rgba(255,255,255,1) 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff',endColorstr='#ffffff',GradientType=0);
-}.proBar div{width:960px;text-align:left;}.proBar table{height:30px;color:#000;margin-right:800px;width:300px;}.proBar td{text-align:left;vertical-align:middle;font-size:16px;text-shadow:1px 1px 2px #000;text-shadow:1px 1px 2px RGBA(0,0,0,.3);text-shadow:none;z-index:1;position:relative;color:#A0A0A0;color:rgba(0,0,0,.36);}.proBar span{transition:color .5s;-moz-transition:color .5s;-webkit-transition:color .5s;-o-transition:color .5s;}.proBar span:hover{color:rgba(180,120,0,.55);color:rgba(0,120,140,.55);color:rgba(180,0,140,.55);}.proBar span{cursor:pointer;}</style>
 <style>.proBar{display:none;}</style>
-<script>
-// gather WebGL stats
-$(function() {
-	if(readCookie("stats_webgl") != 1) {
-		createCookie("stats_webgl", 1, 90);
-		try {
-			var testCanvas = document.createElement('canvas');
-			var webGLWorking = !!(window.WebGLRenderingContext && (testCanvas.getContext('webgl') || testCanvas.getContext('experimental-webgl')));
-			if(webGLWorking) {
-				$.get("/cgi-bin/statistics.pl?webgl=1");
-			} else {
-				$.get("/cgi-bin/statistics.pl?webgl=0");
-			}
-		} catch(e) {
-			$.get("/cgi-bin/statistics.pl?webgl=0");
-		}
-	}
-});
-</script>
 <div id="frame">
 <div class="ff-userbar-container"><div id="ff-userbar">
-<a href="/static/html/signup.html" rel="facebox" class="faceboxed">Sign Up</a> | <a href="/">Home</a> | <span class="triangle-left-right"><a href="javascript:browserBack()"><div class="triangle-left"></div></a> | <a href="javascript:browserForward()"><div class="triangle-right"></div></a> | </span><span id="signin"><a href="/static/html/login.html?1" class="doIt faceboxed" rel="facebox">Login</a></span>
+<a href="/static/html/signup.html" rel="facebox">Sign Up</a> | <a href="/">Home</a> | <span class="triangle-left-right"><a href="javascript:browserBack()"><div class="triangle-left"></div></a> | <a href="javascript:browserForward()"><div class="triangle-right"></div></a> | </span><span id="signin"><a href="/static/html/login.html?1" class="doIt" rel="facebox">Login</a></span>
 </div></div>
 <div id="header">
 <h1 id="logo"><a href="/">FotoFuze</a></h1>
  
 </div>
- 
- 
- 
- 
- 
-<!--[if lte IE 9]>
-
-<![endif]-->
 <div style="color:red;clear:both;padding:15px;border:3px solid black;margin:10px;background-color:pink;display:none;" class="ieUserMessage">
 <div style="float:right;position:relative;"><span style="position:absolute;top:-14px;left:-10px;font-size:11px;"><a href="#" style="color:red;" onclick="$(&quot;.ieUserMessage&quot;).hide();createCookie(&quot;hideIEMessage&quot;,1,90);">hide</a></span></div>
-<center><b>If this page doesn't work for you, it may be because of your web browser. Click <a href="/static/html/why_not_ie.html" rel="facebox" class="faceboxed">here</a> for more details.</b></center>
+<center><b>If this page doesn't work for you, it may be because of your web browser. Click <a href="/static/html/why_not_ie.html" rel="facebox">here</a> for more details.</b></center>
 </div>
 <script>
-		var showIEUserMessage = 0;
-		$(function(){
-			if(showIEUserMessage == 1 && readCookie('hideIEMessage') != 1 && (BrowserDetect.browser == "Explorer" && BrowserDetect.version <= 10)){
-				$('.ieUserMessage').show();
-			}
-		});
-	</script>
- 
- 
-<script>
-var lastArchive = 0;
-function checkRestored() {
-	$.get("/cgi-bin/check_account_restored.pl", function(d) {
-		if(d != 0) {
-			if(0 != d && d == 1) {
-				$.get("/cgi-bin/account_restore.pl");
-			}
-			if(lastArchive != d && d == 2) {
-				$.get("/cgi-bin/refresh_cookie.pl", function() {lastArchive == 2;});
-				
-			}
-
-			setTimeout(checkRestored, 2000);
-		} else {
-			$.facebox.close();
-			$.get("/cgi-bin/refresh_cookie.pl", function(d) {
-				window.location.href = window.location.href;
-			});
+	var showIEUserMessage = 0;
+	$(function(){
+		if(showIEUserMessage == 1 && readCookie('hideIEMessage') != 1 && (BrowserDetect.browser == "Explorer" && BrowserDetect.version <= 10)){
+			$('.ieUserMessage').show();
 		}
 	});
-}
-
-if(0 > 0) {
-	$.facebox("<table style='width:600px;height:400px;'><tr><td style='text-align:center;vertical-align:middle;font-size:24px'>Please wait while your account gets set up.</td></tr></table>");
-
-	if(0 == 1) {
-		$.get("/cgi-bin/account_restore.pl");
-	}
-
-	setTimeout(checkRestored, 2000);
-}
 </script>
 <div id="content" class="static-content">
 <div id="page-content">
@@ -237,8 +147,8 @@ if(0 > 0) {
 <li><a href="/page/terms" title="Terms of Service" class="state-aware">TOS</a></li>
 <li><a href="/page/privacy" title="Privacy" class="state-aware">Privacy</a></li>
 <li><a href="/page/faq" title="Frequently Asked Questions" class="state-aware">FAQ</a></li>
-<li><a href="/static/html/login.html" class="state-aware faceboxed" rel="facebox">Login</a></li>
-<li><a href="/contact" title="Help" rel="facebox" class="faceboxed">Help</a></li>
+<li><a href="/static/html/login.html" class="state-aware" rel="facebox">Login</a></li>
+<li><a href="/contact" title="Help" rel="facebox">Help</a></li>
 <li><a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pub=fotofuze"><img src="http://s7.addthis.com/static/btn/v2/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=fotofuze"></script></li>
 </ul>
 <center style="height:0px;"><p style="font-size:75%;color:#888;text-align:center;">© 2009-2011 Oriku, Inc. | The term 'Etsy' is a trademark of Etsy, Inc. This application uses the Etsy API but is not endorsed or certified by Etsy, Inc.</p></center>
@@ -294,27 +204,6 @@ var _sf_async_config={uid:25783,domain:"fotofuze.com"};
 })();
 }
 </script>
-<script>
-function analyticsJB(t) {
-	var type2;
-	if(t == 1) {
-		type2 = "home";
-	} else if(t == 2) {
-		type2 = "edit_download1";
-	} else if(t == 3) {
-		type2 = "edit_download2";
-	} else if(t == 4) {
-		type2 = "edit_large_preview";
-	} else if(t == 5) {
-		type2 = "home_switch_accounts";
-	} else if(t == 6) {
-		type2 = "faq";
-	//} else if(t == 2) {
-	//	type2 = "";
-	}
-	_gaq.push(['_trackEvent', 'Jungl', 'Click', type2]);
-}
-</script>
 <script type="text/javascript">
   var uvOptions = {};
   (function() {
@@ -329,4 +218,4 @@ function analyticsJB(t) {
 </div>
 
 
-<div id="stdMsg" class="stdMsg"><div class="round"></div><p></p><div class="round"></div></div><script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
+<script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
