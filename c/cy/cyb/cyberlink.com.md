@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cyberlink.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624020844id_/http%3A//www.cyberlink.com/stat/company/enu/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberlink.com privacy policy that was archived on 2013-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130901032439id_/http%3A//www.cyberlink.com/stat/company/enu/privacy-policy.jsp) for the most accurate reproduction.*
 
-# CyberLink sitemap
+# Privacy Statement | CyberLink
 
 ### CyberLink Corp. Privacy Statement 
 
@@ -16,8 +16,8 @@ As a visitor to our Site, you can engage in many activities without providing an
 
 ### 'Cookies' and the CyberLink Website
 
-Like most corporate websites, we do use a variety of methods to track usage of our website. The CyberLink website does use 'cookies' to monitor your visits to our site and to identity CyberLink registered members. By placing a 'cookie' on your hard drive, we are able to recognize return visitors. 'Cookies' can also help us to learn more about your usage patterns on our site. We use the information gathered by 'cookies' to enhance our services, respond to your requests and improve our communication with you. Our 'cookies' do not allow us to view or retrieve other personal information from your local system or network.  
-If you submit a question to the CyberLink Online Support team, you will be asked to include specific information about your system's hardware and software configuration. After entering this information, a 'cookie' containing information about your hardware and your software will be placed on your hard drive. Should you contact CyberLink Online Support again in the future, you will not need to re-enter your specific hardware and software information provided that this 'cookie' is still present on your system. In this way we are attempting to make your experience on our site more convenient and enjoyable.You may disable the collection of cookies in your browser settings.
+Like most corporate websites, we do use a variety of methods to track usage of our website. The CyberLink website does use 'cookies' to monitor your visits to our site and to identity CyberLink registered members. By placing a 'cookie' on your hard drive, we are able to recognize return visitors. 'Cookies' can also help us to learn more about your usage patterns on our site. We use the information gathered by 'cookies' to enhance our services, respond to your requests and improve our communication with you. Our 'cookies' do not allow us to view other personal information from your local system or network and they are stored temporarily.  
+'Cookies' are necessary for ordering online. You cannot place an order without a 'cookie'. If you submit a question to the CyberLink Online Support team, you will be asked to include specific information about your system's hardware and software configuration. After entering this information, a 'cookie' containing information about your hardware and your software will be placed on your hard drive. Should you contact CyberLink Online Support again in the future, you will not need to re-enter your specific hardware and software information provided that this 'cookie' is still present on your system. In this way we are attempting to make your experience on our site more convenient and enjoyable.You may disable the collection of cookies in your browser settings.
 
 If you would like to learn more about 'cookies' click [here](http://www.cookiecentral.com/faq/).
 
