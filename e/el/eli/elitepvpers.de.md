@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elitepvpers.de privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517215203id_/http%3A//www.elitepvpers.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitepvpers.de privacy policy that was archived on 2013-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130901231106id_/http%3A//www.elitepvpers.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
