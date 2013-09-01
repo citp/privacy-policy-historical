@@ -1,14 +1,15 @@
-> *The following text is extracted and transformed from the agriya.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627093929id_/http%3A//www.agriya.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agriya.com privacy policy that was archived on 2013-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130901113902id_/http%3A//www.agriya.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Agriya
 
 **Our Contact Information is:**  
-No:16/3, Krishna Street,  
+New no 61, Plot no 39, second street,   
+Kamdar Nagar,  
+Mahalingapuram,  
 Nungambakkam,  
 Chennai - 600 034.  
 Tamil Nadu.  
 India.  
-91-44-28207100  
 [info@agriya.com](mailto:info@agriya.com)
 
 We do not collect any information about our visitor's email or referring domain.
