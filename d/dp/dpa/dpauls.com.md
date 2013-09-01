@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dpauls.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601153858id_/http%3A//dpauls.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dpauls.com privacy policy that was archived on 2013-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130901063517id_/http%3A//dpauls.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | D.Pauls Travel & Tours
 
@@ -14,5 +14,3 @@ All data we collect about you will be held under Indian law. When you provide in
 ### Security
 
 This website has security measures in place to protect the loss, misuse, and/or alteration of information under our control. The data resides behind a firewall, with access restricted to our authorized personnel. All financial transactions are secured using 128 bit encryption, which is currently the strongest available for commercial use. In case your browser supports a lower level of encryption we suggest you upgrade your browser. Should you wish to address any questions pertaining to the security features of the website, please email to us. 
-
-D.Pauls Travel and Tours Ltd. is one of India’s leading tour and travel companies offering [holiday tours](http://dpauls.com/packages/) and [honeymoon travel packages](http://dpauls.com/honeymoon-packages.aspx), [sightseeing tours](http://dpauls.com/sightseeing) and [transfers](http://dpauls.com/transfers), [hotels](http://dpauls.com/hotels), [cruises](http://dpauls.com/cruise), flights and other travel related services. The Company started its operation in the year 1992 and since then has established a long list of satisfied customers and suppliers. The motto of the organization is “putting customers first” has positioned it as one of the premier travel companies of India. 
