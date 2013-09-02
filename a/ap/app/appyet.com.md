@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appyet.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604031416id_/http%3A//appyet.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appyet.com privacy policy that was archived on 2013-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130902135918id_/http%3A//www.appyet.com/Privacy.aspx) for the most accurate reproduction.*
 
 # AppYet - App Creator | Create Android App FREE!
 
