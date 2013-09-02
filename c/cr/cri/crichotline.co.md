@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crichotline.co privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529203819id_/http%3A//crichotline.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crichotline.co privacy policy that was archived on 2013-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130902065502id_/http%3A//crichotline.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Crichotline
 
@@ -36,4 +36,4 @@ Spam in any form will not be accepted and will be deleted immediately.
 
 **Copyrights**
 
-Supreme caution has been taken to make sure that there are no copyright infringements in terms of the multimedia content and the subject matter that is posted in this blog. If you find anything that could be considered a violation of the copyright norms, please contact us at our email address: crichotline@gmail.com
+Supreme caution has been taken to make sure that there are no copyright infringements in terms of the multimedia content and the subject matter that is posted in this blog. If you find anything that could be considered a violation of the copyright norms, please contact us at our email address: crichotline@gmail.com 
