@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chat-avenue.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624041256id_/http%3A//www.chat-avenue.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chat-avenue.com privacy policy that was archived on 2013-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130902100516id_/http%3A//www.chat-avenue.com/privacy.html) for the most accurate reproduction.*
 
 # #1 Chat Avenue - Privacy Statement
 
