@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deleteddomains.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115020116id_/http%3A//deleteddomains.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deleteddomains.com privacy policy that was archived on 2013-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130903012343id_/http%3A//www.deleteddomains.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,7 +16,7 @@ Any of the information we collect from you may be used in one of the following w
 
   * To administer a contest, promotion, survey or other site feature
   * To send periodic emails
-  *  The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
+  * �The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
 
 
 
