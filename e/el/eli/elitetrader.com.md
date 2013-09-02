@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the elitetrader.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501230423id_/http%3A//elitetrader.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitetrader.com privacy policy that was archived on 2013-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130902223119id_/http%3A//www.elitetrader.com/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy - EliteTrader.com
-
-| 
 
 Information About You   
 We collect several types of information on our Site. We collect "Personal Information", which generally speaking is information that can be used to identify you individually, such as your name and address. We also collect "Non-personal Information", which is information about you that does not itself identify you individually. Examples of Non-personal Information include age range and gender. We also collect "Aggregate Information", which is information about use of our site, such as pages visited on our Site. The information we collect depends on what services you use on our Site. The following is a more detailed explanation of these types of information as well as when and how we collect and use it.
