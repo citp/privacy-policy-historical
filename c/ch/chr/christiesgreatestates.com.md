@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the christiesgreatestates.com privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420080529id_/http%3A//www.christiesrealestate.com/eng/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christiesgreatestates.com privacy policy that was archived on 2013-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130902190707id_/http%3A//www.christiesrealestate.com/eng/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Christie's International Real Estate
+# Privacy Policy Christie's International Real Estate
 
 **Personal Data Privacy and Protection Policy**
 
