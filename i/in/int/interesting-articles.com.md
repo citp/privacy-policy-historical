@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interesting-articles.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517183035id_/http%3A//www.interesting-articles.com/privacy-policy-and-terms-of-use.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interesting-articles.com privacy policy that was archived on 2013-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130902114922id_/http%3A//www.interesting-articles.com/privacy-policy-and-terms-of-use.php) for the most accurate reproduction.*
 
 # Privacy Policy And Terms Of Use
 
