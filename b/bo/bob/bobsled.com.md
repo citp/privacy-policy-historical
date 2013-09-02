@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bobsled.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424022223id_/http%3A//bobsled.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bobsled.com privacy policy that was archived on 2013-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130902052540id_/http%3A//www.bobsled.com/privacy-policy) for the most accurate reproduction.*
 
 # Bobsled™ by T-Mobile
 
