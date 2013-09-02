@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thepapermillstore.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509044735id_/http%3A//www.thepapermillstore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepapermillstore.com privacy policy that was archived on 2013-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130902153032id_/http%3A//www.thepapermillstore.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
