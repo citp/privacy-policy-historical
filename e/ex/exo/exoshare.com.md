@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exoshare.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621081706id_/http%3A//exoshare.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exoshare.com privacy policy that was archived on 2013-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130902115325id_/http%3A//exoshare.com/privacy.php) for the most accurate reproduction.*
 
 # ExoShare - Multipload - upload files to multiple filehosts,file mirror upload - Exoshare Privacy Policy
 
@@ -19,4 +19,4 @@ We ask individual users to identify themselves and the information requested to 
 
 **Changes to this Privacy Policy** Please note that this Privacy Policy may change from time to time. Exoshare may update this Privacy Policy in the future. We expect most such changes will be minor. Regardless, we will notify you about material changes to this Privacy Policy by sending a notice to the e-mail address you provided to us or by placing a prominent notice on our website. 
 
-**How you can contact us** If you have questions about this Privacy Policy, please e-mail us at [contact page](https://web.archive.org/web/20130621081706id_/http%3A//exoshare.com/contact.php). When we receive formal written complaints at this address, we will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints. 
+**How you can contact us** If you have questions about this Privacy Policy, please e-mail us at [contact page](https://web.archive.org/web/20130902115325id_/http%3A//exoshare.com/contact.php). When we receive formal written complaints at this address, we will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints. 
