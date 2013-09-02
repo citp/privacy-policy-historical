@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stitchfix.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509020944id_/https%3A//www.stitchfix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stitchfix.com privacy policy that was archived on 2013-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130902032627id_/https%3A//stitchfix.com/privacy) for the most accurate reproduction.*
 
-# Stitch Fix |
+# Stitch Fix | Privacy Policy | We Ship Boxes of Handpicked Women's Clothes
 
 Stitch Fix is committed to protecting and ensuring your privacy. This notice describes our privacy policy, and by visiting stitchfix.com you are accepting the practices described in this Privacy Policy.
 
