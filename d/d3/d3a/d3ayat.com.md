@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the d3ayat.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430220336id_/http%3A//d3ayat.com/content/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the d3ayat.com privacy policy that was archived on 2013-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130902132257id_/http%3A//www.d3ayat.com/content/privacy.html) for the most accurate reproduction.*
 
 # d3ayat Online Business Directory - Privacy
 
