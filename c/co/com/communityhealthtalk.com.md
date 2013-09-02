@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the communityhealthtalk.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429011124id_/http%3A//legal.communityhealthtalk.com/privacy.cgi%3Fconfig%3D4405) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the communityhealthtalk.com privacy policy that was archived on 2013-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130902202403id_/http%3A//legal.communityhealthtalk.com/privacy.cgi%3Fconfig%3D4405) for the most accurate reproduction.*
 
 # Privacy
 
@@ -181,7 +181,7 @@ By completing and submitting a Company registration form, you are consenting to 
 
 **Request for More Information**
 
-As it relates to marketing communications or any other questions you might have about our Privacy Policy, _click here to contact us_ or write to us at Front Street Marketing, 245 Park Ave, Suite 39067, New York, NY 10167.
+As it relates to marketing communications or any other questions you might have about our Privacy Policy, _click here to contact us_ or write to us at Front Street Marketing, 2201 N Front St, Harrisburg, PA 17110.
 
 **Opt-Out of Third Party Cookies**
 
