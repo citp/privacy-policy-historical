@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yellgroup.com privacy policy that was archived on 2013-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130405025722id_/http%3A//corporate.hibu.com/site-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yellgroup.com privacy policy that was archived on 2013-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130902103717id_/http%3A//corporate.hibu.com/en/site-information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy – hibu
 
