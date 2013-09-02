@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airpush.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630045244id_/http%3A//www.airpush.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airpush.com privacy policy that was archived on 2013-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130902045819id_/http%3A//www.airpush.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy |
 
