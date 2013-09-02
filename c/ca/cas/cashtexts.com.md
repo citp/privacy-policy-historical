@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cashtexts.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622231639id_/http%3A//cashtexts.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashtexts.com privacy policy that was archived on 2013-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130902141541id_/http%3A//www.cashtexts.com/privacy_policy) for the most accurate reproduction.*
 
-# Cash Texts :: Get Paid to Receive Texts, E-mails and Ads!
+# Cash Texts + Uneeqlee = Massive Spillover!
 
 Version 1.0 - Last updated 11/29/2011
 
