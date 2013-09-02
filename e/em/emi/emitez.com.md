@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emitez.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601102301id_/http%3A//emitez.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emitez.com privacy policy that was archived on 2013-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130902224150id_/http%3A//emitez.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Emitez Dot Com $
 
@@ -24,10 +24,8 @@ We also use third party advertisements on Emitez.com to support our site.  So
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or accounts.
 
   * Bio
-  * Facebook
-  * Google+
   * Latest Posts
 
 
 
-Anis Emitez is a young blogger at [Emitez Dot Com $](http://www.emitez.com/ "Emitez Dot Com $") and student born in Italy but resides in morocco Marrakesh he likes soccer a lot he's a faithful fan of inter Milan soccer club which has won several trophies,i never miss any match of their matches.
+Anis Emitez is a young blogger at [Emitez Dot Com $](http://www.emitez.com/ "Emitez Dot Com $") and [ProWpBlogger](http://prowpblogger.com/ "ProWpBlogger") and student born in Italy but resides in morocco Marrakesh he likes soccer a lot he's a faithful fan of inter Milan soccer club which has won several trophies,i never miss any match of their matches.
