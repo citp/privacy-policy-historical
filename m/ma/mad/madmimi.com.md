@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the madmimi.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507030647id_/https%3A//madmimi.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madmimi.com privacy policy that was archived on 2013-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130902041740id_/https%3A//www.madmimi.com/legal/privacy) for the most accurate reproduction.*
 
 # Mad Mimi Email Marketing : Create, Send, And Track HTML Email Newsletters
 
@@ -8,7 +8,7 @@ At Mad Mimi we believe that respecting your recipients is important. These polic
 
 This privacy policy applies to [madmimi.com](https://www.madmimi.com/) owned and operated by Mad Mimi, LLC. This privacy policy describes how Mad Mimi, LLC collects and uses the personal information you provide on our website: [madmimi.com](https://www.madmimi.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information
 
-Mad Mimi's privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through [madmimi.com](https://www.madmimi.com/) does not cover information that may be collected behind the log in on our website. If you have questions or complaints regarding our privacy policy or practices, please [contact us](https://web.archive.org/contact). You may also [contact TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint).
+Mad Mimi's privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through [madmimi.com](https://www.madmimi.com/) does not cover information that may be collected behind the log in on our website. If you have questions or complaints regarding our privacy policy or practices, please [contact us,](https://web.archive.org/contact) or [contact TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint). You may report abuse of our service to the [Mad Mimi Abuse Desk](https://web.archive.org/legal/abuse).
 
 ## Permission Policy
 
@@ -31,11 +31,11 @@ Although we reserve the right to monitor your lists, content and response data f
 
 A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for longer, and are used for the porposes or remembering your settings, local storage, for example making sure you don't lose your text while you're composing an emaail campaign, and "remember me" option. You can remove persistent cookies by following directions provided in your Internet browser’s “help” directory. Here is [more information about cookies](http://en.wikipedia.org/wiki/HTTP_cookie). If you reject cookies, you may still use our site, but your ability to use some areas of our site will be limited.
 
-The use of cookies by our tracking utility company, for example, Google Analytics and service providers like [SnapEngage Live Chat](https://web.archive.org/web/20130507030647id_/https%3A//madmimi.com/legal/snapengage.com), is not covered by our privacy policy. We do not have access or control over these cookies. These providers use both session ID and persistent cookies to make it easier for you to use our live chat and for us to log general website traffic. Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our customers’ or users’ personally identifiable information.
+The use of cookies by our tracking utility company, for example, Google Analytics and service providers like [SnapEngage Live Chat](https://web.archive.org/web/20130902041740id_/https%3A//www.madmimi.com/legal/snapengage.com), is not covered by our privacy policy. We do not have access or control over these cookies. These providers use both session ID and persistent cookies to make it easier for you to use our live chat and for us to log general website traffic. Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our customers’ or users’ personally identifiable information.
 
 ### Adhering to the Safe Harbor privacy principles of the U.S.-EU and U.S.-Swiss Safe Harbor Framework
 
-Mad Mimi complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European member countries and Switzerland. Mad Mimi has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Mad Mimi's certification, please [click here](http://export.gov/safeharbor "United States Department of Commerce's Safe Harbor directory").
+Mad Mimi complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European member countries and Switzerland. Mad Mimi has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To view Mad Mimi's certification, please [click here](http://safeharbor.export.gov/companyinfo.aspx?id=14936 "United States Department of Commerce's Safe Harbor Listing for Mad Mimi").
 
 Mad Mimi uses self-assessments to assure compliance within the US-EU and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use and retention or personal data from the European Union and Switzerland. Mad Mimi has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Mad Mimi's certification, please visit [http://www.export.gov/safeharbor/](http://export.gov/safeharbor "United States Department of Commerce's Safe Harbor directory").
 
@@ -43,11 +43,11 @@ Our privacy policy above serves as our statement of adherence to the US-EU and U
 
 Direct any Safe Harbor inquiries or requests in writing if via email to:
 
-Mad Mimi, LLC   
-172 Fifth Ave.   
-Suite 131   
-Brooklyn, New York 11217   
-support@madmimi.com
+Mad Mimi, LLC  
+1562 First Ave #205-6464  
+New York, NY 10028
+
+support@madmimi.com 
 
 ## Periodic emails from Mad Mimi
 
