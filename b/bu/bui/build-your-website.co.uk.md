@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the build-your-website.co.uk privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426184405id_/http%3A//www.build-your-website.co.uk/Privacy-Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the build-your-website.co.uk privacy policy that was archived on 2013-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130902043416id_/http%3A//www.build-your-website.co.uk/Privacy-Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,7 +30,7 @@ In particular this site use Google Adsense and,
 
 ### Controlling Your Privacy
 
-Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms. This list of [ web browser privacy management](http://www.synclastic.com/privacy/browser-configuration/) links may also be useful. 
+Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms. 
 
 ### Email Addresses
 
@@ -56,4 +56,4 @@ Your use of this site indicates acceptance of this privacy policy.
 
 ### Contact Information
 
-Concerns or questions about this privacy policy can be directed to the webmaster by using the [contact form](https://web.archive.org/web/20130426184405id_/http%3A//www.build-your-website.co.uk/contact.htm).
+Concerns or questions about this privacy policy can be directed to the webmaster by using the [contact form](https://web.archive.org/web/20130902043416id_/http%3A//www.build-your-website.co.uk/contact.htm).
