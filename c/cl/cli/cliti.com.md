@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cliti.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616171106id_/http%3A//cliti.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cliti.com privacy policy that was archived on 2013-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130902140621id_/http%3A//www.cliti.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
