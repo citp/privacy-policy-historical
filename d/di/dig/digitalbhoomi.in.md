@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalbhoomi.in privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430112434id_/http%3A//digitalbhoomi.in/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalbhoomi.in privacy policy that was archived on 2013-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130902041106id_/http%3A//www.digitalbhoomi.in/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Digital Bhoomi - Indian Online Community Site
 
