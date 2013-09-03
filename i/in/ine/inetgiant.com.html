@@ -1,131 +1,132 @@
-<!--The following is the downloaded HTML source of the inetgiant.com privacy policy that was archived on 2013-01-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130116015618id_/http%3A//www.inetgiant.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the inetgiant.com privacy policy that was archived on 2013-09-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130903123308id_/http%3A//www.inetgiant.com/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
-<title>InetGiant Free Advertising - Privacy Policy</title>
-<meta name="description" content="InetGiant Free Advertising - Privacy Policy">
-<meta name="robots" content="noindex,nofollow">
-<!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-<link href="http://static.inetgiant.com/styles/style.css" rel="stylesheet" type="text/css">
-<link rel="icon" type="image/png" href="http://static.inetgiant.com/images/favicon.png">
-<link href="https://plus.google.com/110304999753429893717" rel="publisher">
-<script id="facebook-jssdk" src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://static.punchtab.com/js/pt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 
 
-var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-2608482-1']);
-_gaq.push(['_setDomainName', 'inetgiant.com']);
-_gaq.push(['_trackPageview']);
-	
+
+
+
+
+
+
+<link rel="publisher" href="https://plus.google.com/110304999753429893717">
+<link rel="icon" href="images/favicon.png" type="image/png">
+<link rel="stylesheet" href="/css/style.css">
+<link rel="stylesheet" href="/css/font-awesome.min.css">
+<!--[if lt IE 9]> <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script> <![endif]-->
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/jquery.min.js"></script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2608482-1']);
+  _gaq.push(['_setDomainName', 'inetgiant.com']);
+  _gaq.push(['_trackPageview']);
+
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
-
 </script>
-
-<script src="http://static.inetgiant.com/js/jquery.js"></script>
-<script type="text/javascript" charset="utf-8">
-  var _ptq = _ptq || [];
-  var _punchtab_settings = {
-    key: "89f2b768f583aa2f3a47dee13256589e",
-    unbrand:true, bar: {}
-  };
-
-  (function() {
-    var pt = document.createElement('script'); pt.type = 'text/javascript'; pt.async = true;
-    pt.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'static.punchtab.com/js/pt.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pt, s);
-  })();
-</script>
-
 <script type="text/javascript">
-function setcookie(name, value, expires, path, domain, secure) {
-	expires instanceof Date ? expires = expires.toGMTString() : typeof(expires) == 'number' && (expires = (new Date(+(new Date) + expires * 1e3)).toGMTString());
-	var r = [name + "=" + escape(value)], s, i;
-	for(i in s = {expires: expires, path: path, domain: domain}){
-		s[i] && r.push(i + "=" + s[i]);
-	}
-	return secure && r.push("secure"), document.cookie = r.join(";"), true;
-}
+  function setcookie(name, value, expires, path, domain, secure) {
+    expires instanceof Date ? expires = expires.toGMTString() : typeof(expires) == 'number' && (expires = (new Date(+(new Date) + expires * 1e3)).toGMTString());
+    var r = [name + "=" + escape(value)], s, i;
+    for(i in s = {expires: expires, path: path, domain: domain}){
+      s[i] && r.push(i + "=" + s[i]);
+    }
+    return secure && r.push("secure"), document.cookie = r.join(";"), true;
+  }
 
-/* <![CDATA[ */
-$(document).ready(function() {
-	$.getJSON('/ajax/checkcookie', function (result){
-		setcookie(result.name, result.value, 3600, '/', '.inetgiant.com');		
-	});
-});
-/* ]]> */
+  $(document).ready(function() {
+
+    /******************************************************************/
+
+    $.getJSON('/ajax/checkcookie', function (result){
+      setcookie(result.name, result.value,  24 * 3600, '/', '.inetgiant.com');
+    });
+
+    /******************************************************************/
+
+    $.get('/ajax/checklogin', function (result){
+      $('#toolbaracoount').html(result);
+    });
+
+    /******************************************************************/
+    var current_index = -1;
+
+    $('#keyword').on('keyup', function(e){ 
+      var items_total = $('#autocomplete li').length;
+      
+      if (e.keyCode == 13) {
+
+        current_index = (current_index == -1) ? 0 : current_index;
+
+        var href = $('#autocomplete li').eq(current_index).children('a').attr('href');
+        
+        if (typeof href === "undefined") {
+          href = '/search?keyword=' + encodeURIComponent($(this).val());
+        }
+
+        window.location.href = href;
+
+      } else if (e.keyCode == 40) {
+
+        if (current_index < items_total - 1) {
+          current_index++;
+          $('#autocomplete li a').removeClass('selected');
+          $('#autocomplete li').eq(current_index).children('a').addClass('selected');
+          $('#keyword').val($('#autocomplete li').eq(current_index).children('a').text());
+        }
+      } else if (e.keyCode == 38) {
+
+        if (current_index > 0) {
+          current_index--;
+          $('#autocomplete li a').removeClass('selected');
+          $('#autocomplete li').eq(current_index).children('a').addClass('selected');
+          $('#keyword').val($('#autocomplete li').eq(current_index).children('a').text());
+        }
+      } else {
+        current_index = -1;
+
+        if($(this).val().length > 0 ){
+
+          var search_text = $(this).val();
+
+          $.post('/ajax/autocomplete', { text: $(this).val() }, function (text){
+            var json = $.parseJSON(text);
+            if(json.length > 0){
+              $('#autocomplete').empty();
+              $('#autocomplete').append('<li><a href="/search?keyword=' + encodeURIComponent(search_text) + '">' + search_text + '</a></li>');
+              $.each(json, function(index, item){
+                $('#autocomplete').append('<li><a href="/' + item._source.slug + '">' + item._source.name + '</a></li>');          
+              });
+            }
+          });
+
+        } else {
+          $('#autocomplete').empty();
+        }
+      }
+    });
+
+
+    $('#searchform').keypress(function(e){
+      if( e.which == 13) return false;
+    });
+
+    $('html').click(function() {
+      $('#autocomplete').empty();
+      current_index = -1;
+    });
+    /******************************************************************/    
+  });
 </script>
-
-<script type="text/javascript">
-var googletag = googletag || {};
-googletag.cmd = googletag.cmd || [];
-(function() {
-var gads = document.createElement('script');
-gads.async = true;
-gads.type = 'text/javascript';
-var useSSL = 'https:' == document.location.protocol;
-gads.src = (useSSL ? 'https:' : 'http:') +
-'//www.googletagservices.com/tag/js/gpt.js';
-var node = document.getElementsByTagName('script')[0];
-node.parentNode.insertBefore(gads, node);
-})();
-</script>
- 
-<script type="text/javascript">
-googletag.cmd.push(function() {
-googletag.defineSlot('/3785247/US_300', [300, 250], 'div-gpt-ad-1340991265825-0').addService(googletag.pubads());
-googletag.defineSlot('/3785247/US_728', [728, 90], 'div-gpt-ad-1340991265825-1').addService(googletag.pubads());
-googletag.pubads().enableSingleRequest();
-googletag.enableServices();
-});
-</script>
-</head>
-
-<body>
-<!-- Start Alexa Certify Javascript -->
-<script type="text/javascript" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script>
-<script type="text/javascript">_atrk_opts = { atrk_acct: "rhvSf1a0Or00M3", domain:"inetgiant.com"}; atrk ();</script>
-<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=rhvSf1a0Or00M3" style="display:none" height="1" width="1" alt="" /></noscript>
-<!-- End Alexa Certify Javascript -->
-<!-- Place this tag in the <head> of your document -->
-<script type="text/javascript">
-window.___gcfg = {lang: 'en'};
-(function() 
-{var po = document.createElement("script");
-po.type = "text/javascript"; po.async = true;po.src = "https://apis.google.com/js/plusone.js";
-var s = document.getElementsByTagName("script")[0];
-s.parentNode.insertBefore(po, s);
-})();</script>
-<header id="header">
-  <div class="wrapper">
-    <div class="logo">
-      <h1><a href="/"><img src="http://static.inetgiant.com/images/logo.png" alt=""></a></h1>
-      <span class="us">Simple, Local, free </span> </div>
-    <div class="changelocation"><span><a href="http://www.inetgiant.com/">Free Classifieds</a> in</span> <strong><a href="http://www.inetgiant.com">USA</a></strong> </div><form class="form" action="/search" method="get">
-  <input type="text" name="sPattern" class="field" placeholder="What are you looking for?" require="required">
-  <input class="button" type="submit" value="search">
-</form>
-
-    <div class="post"> <a href="http://www.inetgiant.com/item/new">Post An Ad</a> </div>
-    <div id="toolbar"> </div>
-  </div>
-</header>
-<style>
-#footer {
-	background:url(http://static.inetgiant.in/images/footer.png) repeat-x;
-}
-#footer .wrapper {
-	background:url(http://static.inetgiant.in/images/img_footer.png) no-repeat bottom right;
-}
-</style>
-
-<div id="container">
-  <div class="wrapper">
-    	<div class="privacypolicy" id="content">
+</head><body style=""><div id="wrapper">
+  <div id="container" class="details" style=" padding: 100px 0 10px 20px;">
+    <section id="content">
+    <div class="privacypolicy" id="content">
       <p><em>Last Updated on June 15, 2009</em></p>
       <p>iNetGiant takes your privacy seriously. We utilize safe, secure technology to protect your personally identifiable information. Please read the following to learn more about our Privacy Policy and how we use and protect your personal information.</p>
       <p><strong>Overview</strong> </p>
@@ -158,84 +159,17 @@ s.parentNode.insertBefore(po, s);
         <li><strong>Links to Other Sites:</strong> This website contains links to other sites that are not owned or controlled by iNetGiant, Inc. Please be aware that we, iNetGiant, Inc. are not responsible for the privacy practices of such other sites.
           <p>We encourage you to be aware when you leave our site and to read the privacy statements of each and every website that collects personally identifiable information.This privacy statement applies only to information collected by this website.</p>
           If you have questions or suggestions regarding our Privacy Policy and practices, please contact us at:<br>
-          <p> <strong> iNetGiant, Inc.</strong> <br>
+
+          <p> <strong> iNetGiant Media Group, LLC</strong> <br>
             Customer Care - Privacy Policy Issues<br>
-            2763 Coney Island Ave, 2ND Floor<br>
-            Brooklyn , New York 11235<br>
-            privacy@inetgiant.com<br>
-            (347) 273-1294</p>
+            80 8th Avenue, Suite 315<br>
+            New York, NY 10011</p>
         </li>
       </ol>
     </div>
+
+    
+    </section>
   </div>
 </div>
-<footer id="footer">
-  <div class="wrapper">
-        <section class="soc_panel">
-      <div class="menu">
-        <ul>
-         
-          <li><a href="http://www.inetgiant.com/inetgiant-locations" title=""> iNetGiant Locations</a> |</li> 
-          <li><a href="http://www.inetgiant.com/contact" title="Contact us" rel="nofollow"> Contact us</a> |</li>
-          <li><a href="http://www.inetgiant.com/privacypolicy" title="Privacy Policy" rel="nofollow"> Privacy Policy</a> |</li> 
-          <li><a href="http://www.inetgiant.com/terms" title="Terms of Use" rel="nofollow"> Terms of Use</a> |</li> 
-			          <li><a href="/archive" title="Archive"> Archive</a></li>
-        </ul>
-      </div>
-      <div class="copyright">Copyright © 2012 iNetGiant Media Group, LLC. All rights reserved. </div>
-          </section>
-  </div>
-<style type="text/css">
-.htmlsitemap {
-    margin: 0 auto;
-    overflow: hidden;
-    position: relative;
-    width: 1000px;
-	padding-bottom: 10px;
-}
-.htmlsitemap ul {
-	padding: 5xp 10px;
-}
-.htmlsitemap ul li {
-	padding: 0 5px;
-	display: inline;
-}
-.htmlsitemap ul li a {
-	font-size: 80%;
-	color: #FFFFFF;
-}
-</style>
-<div class="htmlsitemap wrapper">
-<ul>
-<li style="color: #fff;"> Sitemap:</li>
-<!-- <li><a href="/htmlsitemap/automobiles">Automobiles</a></li> --><!-- <li><a href="/htmlsitemap/jobs-and-employment">Jobs and Employment</a></li> --><!-- <li><a href="/htmlsitemap/services">Services</a></li> --><!-- <li><a href="/htmlsitemap/electronics-and-appliances">Electronics and Appliances</a></li> --><!-- <li><a href="/htmlsitemap/animals-and-pets">Animals and Pets</a></li> --><!-- <li><a href="/htmlsitemap/for-rent">For Rent</a></li> --><!-- <li><a href="/htmlsitemap/items-for-sale">Items For Sale</a></li> --><!-- <li><a href="/htmlsitemap/real-estate">Real Estate</a></li> --><!-- <li><a href="/htmlsitemap/business-opportunities">Business Opportunities</a></li> --><!-- <li><a href="/htmlsitemap/community-and-events">Community and Events</a></li> -->      
-<li><a href="/sitemap-topics.html">Latest Searches</a></li>
-</ul>
-</div>
-</footer>
-
-
-<script>
-/* <![CDATA[ */
-$(document).ready(function() {
-	$.get('/ajax/checkuserlogin', function (result){
-		$('#toolbar').html(result);
-	});
-});
-/* ]]> */
-</script> 
-
-<!-- facebook like -->
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "http://connect.facebook.net/en_US/all.js#xfbml=1";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
-</script> 
-<!-- /facebook like --> 
-
-
- </body></html>
+</body></html>
