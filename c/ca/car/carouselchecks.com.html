@@ -1,58 +1,59 @@
-<!--The following is the downloaded HTML source of the carouselchecks.com privacy policy that was archived on 2013-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130621064518id_/http%3A//www.carouselchecks.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the carouselchecks.com privacy policy that was archived on 2013-09-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130903042013id_/http%3A//www.carouselchecks.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-<meta charset="UTF-8">
-
-<title>Privacy Policy of Carousel Checks</title>
- <meta name="description" content="Carousel Checks Inc. follows a strict secrecy in case of customer information. It does not sell, rent, lease or disclose to any non-affiliated third party your e-mail address, physical address, or non-public financial information, in any way whatsoever.">
-<meta http-equiv="content-language" content="en-us">
-<link rel="stylesheet" type="text/css" href="/css/caro20120914.css">
-<link rel="stylesheet" href="/css/caromobile.css" media="handheld, only screen and (max-device-width: 480px)" type="text/css">
-<link rel="stylesheet" media="only screen and (-webkit-min-device-pixel-ratio: 2)" type="text/css" href="/css/caromobile.css">
-<link rel="stylesheet" type="text/css" href="/js/css/ui-lightness/jquery-ui-1.8.13.custom.css">
-<link rel="stylesheet" media="only screen and (min-device-width: 768px) and (max-device-width: 1024px)" href="/css/caromobileipad.css" type="text/css">
-<script type="text/javascript" async="" src="https://web.archive.org/web/20120502144230/https://ssl.avmws.com/1010693/?url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20130621064518id_%2Fhttp%253A%2F%2Fwww.carouselchecks.com%2Fprivacy.php&amp;ref=&amp;name=Privacy%20Policy%20of%20Carousel%20Checks&amp;avmws=0&amp;rand=0.31199210761427754&amp;lib=1"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
-<script src="/js/jquery-ui-1.8.16.custom.min.js"></script>
-<script src="/jcarousel/global.min.js" type="text/javascript" charset="utf-8"></script>
-<link rel="icon" href="/favicon.ico" type="image/x-icon">
-<script type="text/javascript">
-function setCoupon(code) {
-$.ajax({
-    url: '/coupon2.php',
-    type: "POST",
-    data: code,
-    success: function() {
-        window.location.reload();
-        }
-    });
-}
-$(document).ready(function(){
-
-    $('#mega-menu-23').dcMegaMenu({
-        rowItems: '2',
-        speed: 'fast'
-    });
-    $('#new_menu').mouseleave(function(){
-        $('.home a').addClass('home_color',150);
-
-});
-    $("#iimsg").dialog({
-        autoOpen: false ,
-        modal:true,
-        closeOnEscape: true,
-        title:'Urgent Message',
-        width:400
-    });
+        <title>Privacy Policy of Carousel Checks</title>
+    <meta charset="UTF-8">
+    <meta name="description" content="Carousel Checks Inc. follows a strict secrecy in case of customer information. It does not sell, rent, lease or disclose to any non-affiliated third party your e-mail address, physical address, or non-public financial information, in any way whatsoever.">
+    <meta http-equiv="content-language" content="en-us">
 
     
-});
+    <link rel="stylesheet" type="text/css" href="/css/caro20130801.css?1377116087">
+    <link rel="stylesheet" type="text/css" href="/css/caromobile.css?1322683281" media="handheld, only screen and (max-device-width: 480px)">
+    <link rel="stylesheet" type="text/css" href="/css/caromobile.css?1322683281" media="only screen and (-webkit-min-device-pixel-ratio: 2)">
+    <link rel="stylesheet" type="text/css" href="/js/css/ui-lightness/jquery-ui-1.8.13.custom.css?1322683291">
+    <link rel="stylesheet" type="text/css" href="/css/caromobileipad.css?1322683281" media="only screen and (min-device-width: 768px) and (max-device-width: 1024px)">
 
-window.onerror = function (msg, url, line) {
-    var message = "Error in "+url+" on line "+line+": "+msg;
-    $.post("/log.error.php", { "msg" : message });
-}
-</script>
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+
+    <script type="text/javascript" async="" src="https://web.archive.org/web/20120502144230/https://ssl.avmws.com/1010693/?url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20130903042013id_%2Fhttp%253A%2F%2Fwww.carouselchecks.com%2Fprivacy.php&amp;ref=&amp;name=Privacy%20Policy%20of%20Carousel%20Checks&amp;avmws=0&amp;rand=0.40423860479903095&amp;lib=1"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+    <script type="text/javascript" src="/js/jquery-ui-1.8.16.custom.min.js?1322683291"></script>
+    <script type="text/javascript" src="/jcarousel/global.min.js?1329844527" charset="utf-8"></script>
+
+    <script type="text/javascript">
+        function setCoupon(code) {
+            $.post('/coupon2.php', code, function() {
+                window.location.reload()
+            });
+        }
+
+        $(document).ready(function(){
+
+            $('#mega-menu-23').dcMegaMenu({
+                rowItems: '2',
+                speed: 'fast'
+            });
+
+            $('#new_menu').mouseleave(function(){
+                $('.home a').addClass('home_color',150);
+            });
+
+            $("#iimsg").dialog({
+                autoOpen: false,
+                modal:true,
+                closeOnEscape: true,
+                title:'Urgent Message',
+                width:400
+            });
+
+            
+        });
+
+        window.onerror = function (msg, url, line) {
+            var message = "Error in "+url+" on line "+line+": "+msg;
+            $.post("/log.error.php", { "msg" : message });
+        }
+    </script>
 </head>
 <body>
     
@@ -62,192 +63,187 @@ var WRInitTime=(new Date()).getTime();
 </script>
 <!-- ClickTale end of Top part -->
   
-<!-- Start Alexa Certify Javascript -->
-<script type="text/javascript" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript">_atrk_opts = { atrk_acct: "wzCnf1awOT00U4", domain:"carouselchecks.com"}; typeof atrk != "undefined" && atrk();</script><noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=wzCnf1awOT00U4" style="display:none" height="1" width="1" alt="" /></noscript>
-<!-- End Alexa Certify Javascript -->
+
+    <!-- Start Alexa Certify Javascript -->
+    <script type="text/javascript" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script>
+    <script type="text/javascript">
+        _atrk_opts = { atrk_acct: "wzCnf1awOT00U4", domain:"carouselchecks.com"};
+        typeof atrk != "undefined" && atrk();
+    </script>
+    <noscript>
+        <img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=wzCnf1awOT00U4" style="display:none" height="1" width="1" alt="" />
+    </noscript>
+    <!-- End Alexa Certify Javascript -->
+
             
-
-
-
-
-<!-- urgent message popup -->
-<div style="display:none" id="iimsg">
-<div id="imsg_body">
-</div>
-</div>
-<!-- end of urgent message popup -->
-<div id="container">
-
-
-<div id="topbar3"><div style="float:left;padding-left:21px;"><a href="#" onclick="MyWindow=window.open('/offers.php','Offers','toolbar=no,location=no,directories=no,status=no, menubar=no,scrollbars=yes,resizable=no,width=630,height=530'); return false;" class="topbar2">Special Offers &amp; Promotions</a></div>
-
-<a href="/shipping.php" onclick="MyWindow=window.open('/shipping.php','MyWindow','toolbar=no,location=no,directories=no,status=no, menubar=no,scrollbars=yes,resizable=no,width=630,height=600'); return false;" class="topbar">Shipping Prices</a> |
-<a href="/cart.php?m=view" class="topbar">Shopping Cart </a> |
-<a href="/cart.php?m=account" class="topbar">Order Status/Re-Order</a> | <a href="/Carousel%20Order%20Form.pdf" class="topbar">Offline Order Form</a> | <a href="/contact.php" class="topbar">Contact Us</a></div>
-
-    <div id="header2">
-    <div id="logo_background">
-        <div id="logo">
-            <a href="/index.php" alt="Home Page"></a>
-        </div>
+    <!-- urgent message popup -->
+    <div style="display:none" id="iimsg">
+        <div id="imsg_body">
+                    </div>
     </div>
-    <form id="search" name="searchForm" action="/cart.php?m=%2Fprivacy.php" method="get">
-        <input name="m" value="search_results" type="hidden">
-        <input name="x" value="" type="hidden">
-        <input name="y" value="" type="hidden">
-        <!--<input type="hidden" name="category" value="2"/>-->
-        <input type="text" name="search" value="Search from 3500+ check products" onfocus="if(this.value == 'Search from 3500+ check products') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search from 3500+ check products';}" class="search_input">&nbsp;&nbsp;
-        <input type="submit" value="" class="search_button" alt="">
-    </form>
-    <div id="mcafee">
-                <a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.carouselchecks.com"><img width="94" height="54" border="0" src="//images.scanalert.com/meter/www.carouselchecks.com/23.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
-            </div>
-    <div id="bbb">
-        <a href="https://www.bbb.org/online/consumer/cks.aspx?id=11008051625" target="_BLANK"></a>
-    </div>
-</div>
-<div id="new_menu" class="red" style="width:940px; margin-left:21px; border:1px solid #a60304; height:30px; margin-bottom:1em;text-align:center">
-<ul id="mega-menu-23" class="mega-menu">
-    <li class="home"><a class="home_color" href="/index.php">HOME</a></li>
-    <li class="personal"><a href="/all_check_categories.php">PERSONAL CHECKS</a>
-        <ul class="sub-container_personal" style="display:none">
-            <li>
-                <ul>
-                <li class="nav_cat_title"><strong>Check Categories</strong></li>
-                <li><a href="/value_priced_checks.php"><strong>Value Priced Checks</strong></a></li>
-                <li><a href="/product/86/custom-photo-personal-checks">Custom Photo Check</a></li>
-                <li><a href="/whats_new.php">What's New?</a></li>
-                <li><a href="/whats_popular.php">What's Popular?</a></li>
-                <li><a href="/animals_check_categories.php">Animal Checks</a></li>
-                <li><a href="/flowers_checks.php">Flower Checks</a></li>
-                <li><a href="/ethnic_checks.php">Ethnic Checks</a></li>
-                <li class="nav_cat_title"><strong>Other Check Styles</strong></li>
-                <li><a href="/sidetearchecks.php">Side Tear Checks »</a></li>
-                </ul>
-            </li>
-            <li>
-                <ul>
-        <li class="nav_cat_title">&nbsp;</li>
-                <li><a href="/dogs_checks.php">Dog Checks</a></li>
-                <li><a href="/beach_checks.php">Beach Checks</a></li>
-                <li><a href="/scenic_designs_checks.php">Scenic Designs</a></li>
-                <li><a href="/sports_check_categories.php">Sports Checks</a></li>
-                <li><a href="/stylistic_designs_checks.php">Stylistic Designs</a></li>
-                <li><a href="/see_all_our_checks.php">All personal checks</a></li>
-                <li><a href="/all_check_categories.php"><strong>View all categories »</strong></a></li>
-                <li class="nav_cat_title">&nbsp;</li>
-                <li><a href="/topstubchecks.php">Top Stub Checks »</a></li>
-                </ul>
-            </li>
-            <li>
-                <ul>
-                    <a href="/coupon.php?code=LICCARO20&amp;goto=/lifeiscrap.php" id="life_is_crap_sprite"></a>
-                </ul>
-            </li>
-
-        </ul>
-    </li>
-    <li class="business"><a href="/business_checks.php">BUSINESS CHECKS</a>
-        <ul class="sub-container_business" style="display:none">
-            <li>
-                <ul>
-                    <li class="nav_cat_title"><strong>Classic Series</strong></li>
-                    <li><a href="/accounts_payable_checks.php">Accounts Payable</a></li>
-                    <li><a href="/payroll_checks.php">Payroll</a></li>
-                    <li><a href="/multi_purpose_checks.php">Multi-Purpose</a></li>
-                    <li><a href="/business_checks.php"><strong>All Classic Checks »</strong></a></li>
-                </ul>
-            </li>
-            <li>
-                <ul>
-                    <li class="nav_cat_title"><strong>Designer Series</strong></li>
-                    <li><a href="/cart.php?m=product_list&amp;c=208">Accounts Payable</a></li>
-                    <li><a href="/cart.php?m=product_list&amp;c=209">Payroll</a></li>
-                    <li><a href="/cart.php?m=product_list&amp;c=210">Multi-Purpose</a></li>
-                    <li><a href="/designerchecks.php"><strong>All Designer Checks »</strong></a></li>
-                </ul>
-            </li>
-            <li>
-                <ul>
-                    <a href="/business_checks.php" id="business_check_sprite"></a>
-                </ul>
-            </li>
-
-        </ul>
-
-    </li>
-    <li class="computer"><a href="/computer_checks.php">COMPUTER CHECKS</a>
-        <ul class="sub-container_computer" style="display:none">
-
-            <li>
-                <ul>
-                  <li class="nav_cat_title"><strong>Voucher Checks</strong></li>
-                  <li><a href="/voucher_checks_top.php">Voucher Checks Top</a></li>
-                  <li><a href="/voucher_checks_middle.php">Voucher Checks Middle</a></li>
-                  <li><a href="/cart.php?m=product_list&amp;c=260">Voucher Checks Bottom</a></li>
-                  <li><a href="/voucher_checks_3_to_a_page.php">Voucher 3 To A Page</a></li>
-                  <li><a href="/computer_checks.php"><strong>All computer checks »</strong></a></li>
-                  </ul>
-            </li>
-            <li>
-                <ul>
-                    <li class="nav_cat_title"><strong>Blank Voucher Checks</strong></li>
-                  <li><a href="/cart.php?m=product_list&amp;c=46">Blank Voucher Top</a></li>
-                  <li><a href="/cart.php?m=product_list&amp;c=48">Blank Voucher Middle</a></li>
-                  <li><a href="/cart.php?m=product_list&amp;c=261">Blank Voucher Bottom</a></li>
-                  <li><a href="/cart.php?m=product_list&amp;c=47">Blank Voucher 3 To A Page</a></li>
-                </ul>
-            </li>
-            <li>
-                <ul>
-                    <a href="/computer_checks.php" id="computer_checks_sprite"></a>
-                </ul>
-            </li>
-        </ul>
-    </li>
-    <li class="deskset"><a href="/deskset_checks.php">DESKSETS</a></li>
-    <li class="deposit"><a href="/deposit_tickets.php">DEPOSIT TICKETS</a></li>
-    <li class="cover"><a href="/cart.php?m=product_list&amp;c=26">COVERS</a></li>
-    <li class="label"><a href="/cart.php?m=product_list&amp;c=109">LABELS</a></li>
-    <li class="stamp"><a href="/cart.php?m=product_list&amp;c=9">STAMPS</a></li>
-
-
-        </ul>
+    <!-- end of urgent message popup -->
 
     
+<div id="container">
+    <div id="topbar3">
+        <div style="float:left;padding-left:21px;">
+            <a href="#" onclick="MyWindow=window.open('/offers.php','Offers','toolbar=no,location=no,directories=no,status=no, menubar=no,scrollbars=yes,resizable=no,width=630,height=530'); return false;" class="topbar2">Special Offers &amp; Promotions</a>
+        </div>
+        <a href="/shipping.php" onclick="MyWindow=window.open('/shipping.php','MyWindow','toolbar=no,location=no,directories=no,status=no, menubar=no,scrollbars=yes,resizable=no,width=630,height=600'); return false;" class="topbar">Shipping Prices</a> |
+        <a href="/cart.php?m=view" class="topbar">Shopping Cart
+                    </a> |
+        <a href="/cart.php?m=account" class="topbar">Order Status/Re-Order</a> |
+        <a href="/Carousel%20Order%20Form.pdf" class="topbar">Offline Order Form</a> |
+        <a href="/contact.php" class="topbar">Contact Us</a>
+    </div>
 
-</div>
+    <div id="header2">
+        <div id="logo_background">
+            <div id="logo">
+                <a href="/index.php" alt="Home Page"></a>
+            </div>
+        </div>
+        <form id="search" name="searchForm" action="/cart.php" method="get">
+            <input name="m" value="search_results" type="hidden">
+            <input name="x" value="" type="hidden">
+            <input name="y" value="" type="hidden">
+            <input type="text" name="search" value="Search from 3500+ check products" onfocus="if(this.value == 'Search from 3500+ check products') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search from 3500+ check products';}" class="search_input">&nbsp;&nbsp;
+            <input type="submit" value="" class="search_button" alt="">
+        </form>
 
-<style>
+        <div id="mcafee">
+                            <a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.carouselchecks.com"><img width="94" height="54" border="0" src="//images.scanalert.com/meter/www.carouselchecks.com/23.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
+                    </div>
 
-#bcContainer {
-    width: auto;
-}
-#bcContainer UL#breadcrumb LI {
-    color: #7A6F68;
-    display: inline;
-}
-#bcContainer UL#breadcrumb LI A {
-    color: #666666;
-}
+        <div id="bbb">
+            <a href="https://www.bbb.org/online/consumer/cks.aspx?id=11008051625" target="_BLANK"></a>
+        </div>
+    </div>
 
-</style>
+        <div id="new_menu" class="red">
+        <ul id="mega-menu-23" class="mega-menu">
+            <li class="home">
+                <a class="home_color" href="/index.php">HOME</a>
+            </li>
+            <li class="personal">
+                <a href="/all_check_categories.php">PERSONAL CHECKS</a>
+                <ul class="sub-container_personal">
+                    <li>
+                        <ul>
+                            <li class="nav_cat_title"><strong>Check Categories</strong></li>
+                            <li><a href="/value_priced_checks.php"><strong>Value Priced Checks</strong></a></li>
+                            <li><a href="/product/86/custom-photo-personal-checks">Custom Photo Check</a></li>
+                            <li><a href="/whats_new.php">What's New?</a></li>
+                            <li><a href="/whats_popular.php">What's Popular?</a></li>
+                            <li><a href="/animals_check_categories.php">Animal Checks</a></li>
+                            <li><a href="/flowers_checks.php">Flower Checks</a></li>
+                            <li><a href="/ethnic_checks.php">Ethnic Checks</a></li>
+                            <li class="nav_cat_title"><strong>Other Check Styles</strong></li>
+                            <li><a href="/sidetearchecks.php">Side Tear Checks »</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <ul>
+                            <li class="nav_cat_title">&nbsp;</li>
+                            <li><a href="/dogs_checks.php">Dog Checks</a></li>
+                            <li><a href="/beach_checks.php">Beach Checks</a></li>
+                            <li><a href="/scenic_designs_checks.php">Scenic Designs</a></li>
+                            <li><a href="/sports_check_categories.php">Sports Checks</a></li>
+                            <li><a href="/stylistic_designs_checks.php">Stylistic Designs</a></li>
+                            <li><a href="/see_all_our_checks.php">All personal checks</a></li>
+                            <li><a href="/all_check_categories.php"><strong>View all categories »</strong></a></li>
+                            <li class="nav_cat_title">&nbsp;</li>
+                            <li><a href="/topstubchecks.php">Top Stub Checks »</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <ul>
+                            <a href="/coupon.php?code=LICCARO20&amp;goto=/lifeiscrap.php" id="life_is_crap_sprite"></a>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li class="business"><a href="/business_checks.php">BUSINESS CHECKS</a>
+                <ul class="sub-container_business">
+                    <li>
+                        <ul>
+                            <li class="nav_cat_title"><strong>Classic Series</strong></li>
+                            <li><a href="/accounts_payable_checks.php">Accounts Payable</a></li>
+                            <li><a href="/payroll_checks.php">Payroll</a></li>
+                            <li><a href="/multi_purpose_checks.php">Multi-Purpose</a></li>
+                            <li><a href="/business_checks.php"><strong>All Classic Checks »</strong></a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <ul>
+                            <li class="nav_cat_title"><strong>Designer Series</strong></li>
+                            <li><a href="/cart.php?m=product_list&amp;c=208">Accounts Payable</a></li>
+                            <li><a href="/cart.php?m=product_list&amp;c=209">Payroll</a></li>
+                            <li><a href="/cart.php?m=product_list&amp;c=210">Multi-Purpose</a></li>
+                            <li><a href="/designerchecks.php"><strong>All Designer Checks »</strong></a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <ul>
+                            <a href="/business_checks.php" id="business_check_sprite"></a>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li class="computer"><a href="/computer_checks.php">COMPUTER CHECKS</a>
+                <ul class="sub-container_computer">
+                    <li>
+                        <ul>
+                            <li class="nav_cat_title"><strong>Voucher Checks</strong></li>
+                            <li><a href="/voucher_checks_top.php">Voucher Checks Top</a></li>
+                            <li><a href="/voucher_checks_middle.php">Voucher Checks Middle</a></li>
+                            <li><a href="/cart.php?m=product_list&amp;c=260">Voucher Checks Bottom</a></li>
+                            <li><a href="/voucher_checks_3_to_a_page.php">Voucher 3 To A Page</a></li>
+                            <li><a href="/computer_checks.php"><strong>All computer checks »</strong></a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <ul>
+                            <li class="nav_cat_title"><strong>Blank Voucher Checks</strong></li>
+                            <li><a href="/cart.php?m=product_list&amp;c=46">Blank Voucher Top</a></li>
+                            <li><a href="/cart.php?m=product_list&amp;c=48">Blank Voucher Middle</a></li>
+                            <li><a href="/cart.php?m=product_list&amp;c=261">Blank Voucher Bottom</a></li>
+                            <li><a href="/cart.php?m=product_list&amp;c=47">Blank Voucher 3 To A Page</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <ul>
+                            <a href="/computer_checks.php" id="computer_checks_sprite"></a>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li class="deskset"><a href="/deskset_checks.php">DESKSETS</a></li>
+            <li class="deposit"><a href="/deposit_tickets.php">DEPOSIT TICKETS</a></li>
+            <li class="cover"><a href="/cart.php?m=product_list&amp;c=26">COVERS</a></li>
+            <li class="label"><a href="/cart.php?m=product_list&amp;c=109">LABELS</a></li>
+            <li class="stamp"><a href="/cart.php?m=product_list&amp;c=9">STAMPS</a></li>
+        </ul>
+    </div>
+    
+    <style>
+
+    #bcContainer {
+        width: auto;
+    }
+
+    </style>
 
 <div id="body-lr">
-    <style>
-        #bcContainer UL#breadcrumb {
-            padding: 0 0 0 23px;
-    }
-    </style>
-<div id="body-l">
-    <style>
-        #bcContainer UL#breadcrumb {
-            padding: 0 0 0 1px;
-        }
-    </style>
 
-
-
+            <div id="body-l">
+            <style>
+                #bcContainer UL#breadcrumb {
+                    padding: 0 0 0 1px;
+                }
+            </style>
+    
+    
 
 
 <!-- BEGIN INDEX -->
@@ -358,7 +354,7 @@ Bridgeview, IL 60455</p>
     </style>
 
      <div id="body-r" style="text-align:left;">
-    <a href="/ads/cupcakes.php"><img src="/images/ad_right_cupcakes.jpg" alt="Cupcakes"></a><div class="footer_horizontal_spacer">&nbsp;</div>
+    <a href="/designerchecks.php"><img src="/images/ad_right_designer.gif" alt="Designer"></a><div class="footer_horizontal_spacer">&nbsp;</div>
 <div class="side_box">
    <h2>HOT PRODUCTS</h2>
 
@@ -533,7 +529,7 @@ document.write(unescape("%3Cscript%20src='"+
 </script><script src="https://clicktale.pantherssl.com/WRb6.js" type="text/javascript"></script>
 <script type="text/javascript">
 var ClickTaleSSL=1;
-ClickTaleFetchFrom="http://www.carouselchecks.com/ClickTale/ClickTaleCache.php?t=7b9cb56a4e8315f9f1bb";
+ClickTaleFetchFrom="http://www.carouselchecks.com/ClickTale/ClickTaleCache.php?t=b3994f080b4e39440fad";
 if(typeof ClickTale=='function') ClickTale(8050,0.15,"www07");
 </script>
 <!-- ClickTale end of Bottom part -->
