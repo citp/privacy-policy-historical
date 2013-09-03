@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elophant.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522150650id_/http%3A//www.elophant.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elophant.com privacy policy that was archived on 2013-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130903044406id_/http%3A//www.elophant.com/privacy-policy) for the most accurate reproduction.*
 
 # League of Legends Statistics: Champion Stats, Summoner Stats, Charts and More - Elophant.com
 
