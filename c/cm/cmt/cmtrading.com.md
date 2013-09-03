@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the cmtrading.com privacy policy that was archived on 2013-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130306022859id_/http%3A//cmtrading.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmtrading.com privacy policy that was archived on 2013-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130903092840id_/http%3A//cmtrading.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 CM Trading lays great emphasis on keeping the information shared by our website users and visitors private and confidential. The use of the data you share with us will be governed by this Forex Privacy Policy. Our clients are authorized, licensed and regulated by the Financial Services Commission (FSC) of Mauritius and Financial Services Board (FSB) of South Africa. CM Trading adheres to the data protection provisions as mentioned in International Law. In order to consider the conditions and threats posed by the changing operations, technologies, practices and legislations, we will review this Policy Statement and update it with required information with/out notification.
 
- **What Personal Information Does CM Trading Collect?**
+## What Personal Information Does CM Trading Collect?
 
 When you apply for opening an CM Trading account, we require certain information in order to process the request. This information may include personal and financial details, such as, name, address, contact number, date of birth, employment details, liabilities and assets.
 
 To improve your trading experience we may require further information. Sometimes the law may require us to hold some information about our customers. In such cases we obtain the information through our application forms and other information request forms.
 
- **CM Trading may collect the following information:**
+## CM Trading may collect the following information
 
 Personal details through forms
 
@@ -20,7 +20,7 @@ Information about a trader’s usage pattern of our website and trading platform
 
 Record of trading activities to help us serve you better
 
- **How Does CM Trading Use Information Shared by Trader?**
+## How Does CM Trading Use Information Shared by Trader
 
 The trader information CM Trading holds is used for:
 
@@ -32,7 +32,7 @@ Enhancing our platforms, services and customer support;
 
 Providing you with trading advice and information about good opportunities.
 
- **Disclosure of Information**
+## Disclosure of Information
 
 On the basis of the product or service concerned and with regard to particular restrictions on sensitive information, CM Trading may disclose information about traders to
 
@@ -48,20 +48,20 @@ Individuals authorized by the trader whose information is being shared
 
 If you are not willing to share any information with the mentioned agencies and service providers, please send us a written message. In such a situation, we will withdraw your information from the data pool and consequently withdraw related services.
 
- **CM Trading Privacy Policy**
+## CM Trading Privacy Policy
 
- **Updating information**
+### Updating information
 
 If there is a change in your personal details you may email the new information to CM Trading at support@CMTrading.com as soon as possible. As per your instructions, CM Trading will update your personal details. However, please note that that the action we take will also need to be consistent with the regulations that govern our data collection and protection practices. Due to our partnership with ACM Gold who are a Trading-Come-Clearing member of the Global Board of Trade (GBOT), our policies are always in sync with the terms and conditions prescribed by GBOT.
 
- **Use of Cookies**
+### Use of Cookies
 
 When you open an CM Trading account and access it through your browser, there will arise a need to enable cookie acceptance. Cookies or small packets of information received by your computer and contain a unique identification number. They are used by our platforms and services for preparing the browser for your use, requirements and preferences. This helps CM Trading to enhance your trading experience when you use our services. Cookies also play an important role in the security of various sections of our online services. You will not be able to view secure parts of the CM Trading website without cookies.
 
- **Your Rights**
+### Your Rights
 
 As per the data protection laws that govern the CM Trading services, all traders are entitled to obtain personal information regarding them from CM Trading and inform us about any inaccuracy perceived. If you wish to make an enquiry, you may email us at support@CMTrading.com. If there are no legal restrictions on sharing the information we will acknowledge and execute your request within 40 days of your request. You might have to incur some the cost of finding, reviewing, and sending across the requested material.
 
- **Amendments to policy**
+### Amendments to policy
 
-CM Trading reserves the right to modify this policy as deemed fit at any time. The latest privacy policy will always be available at this link: www.CMTrading.com/privacy-policy.
+CM Trading reserves the right to modify this policy as deemed fit at any time. The latest privacy policy will always be available at this link: [www.CMTrading.com/privacy-policy](https://web.archive.org/privacy-policy).
