@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the channelchooser.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117021906id_/http%3A//www.channelchooser.com/we/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the channelchooser.com privacy policy that was archived on 2013-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130903204404id_/http%3A//www.channelchooser.com/we/privacy) for the most accurate reproduction.*
 
 # ChannelChooser - Privacy Policy
 
