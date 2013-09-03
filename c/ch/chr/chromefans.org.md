@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chromefans.org privacy policy that was archived on 2013-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130120133421id_/http%3A//www.chromefans.org/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chromefans.org privacy policy that was archived on 2013-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130903120153id_/http%3A//www.chromefans.org/about/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Google Chrome Fans
 
