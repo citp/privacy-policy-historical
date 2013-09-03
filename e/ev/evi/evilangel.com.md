@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the evilangel.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429141144id_/http%3A//www.evilangel.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evilangel.com privacy policy that was archived on 2013-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130903231212id_/http%3A//www.evilangel.com/en/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Evil Angel
+# Evil Angel | Gonzo Porn | Hardcore Porn Videos | Official Website
 
 **This website is owned by **EVIL ANGEL****
 
