@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directtrack.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622050511id_/http%3A//directtrack.com/misc/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directtrack.com privacy policy that was archived on 2013-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130903235855id_/http%3A//directtrack.com/misc/privacy-policy) for the most accurate reproduction.*
 
 # DirectTrack Privacy Policy
 
