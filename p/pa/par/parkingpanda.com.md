@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parkingpanda.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513122341id_/https%3A//www.parkingpanda.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkingpanda.com privacy policy that was archived on 2013-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130903100129id_/https%3A//www.parkingpanda.com/privacy-policy) for the most accurate reproduction.*
 
 # Parking Panda Privacy Policy
 
