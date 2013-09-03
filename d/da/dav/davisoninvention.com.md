@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davisoninvention.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527150851id_/http%3A//davisoninvention.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davisoninvention.com privacy policy that was archived on 2013-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130903183430id_/http%3A//davisoninvention.com/privacy.asp) for the most accurate reproduction.*
 
 # Davison Invention
 
