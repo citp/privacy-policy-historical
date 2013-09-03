@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gossimer.com privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420055903id_/http%3A//www.gossimer.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gossimer.com privacy policy that was archived on 2013-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130903054800id_/http%3A//www.gossimer.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Guaranteed and Effective Privacy Policy of Gossimer
 
