@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the driverfinderpro.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214214921id_/http%3A//www.driverfinderpro.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driverfinderpro.com privacy policy that was archived on 2013-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130903023257id_/http%3A//driverfinderpro.com/privacy.php) for the most accurate reproduction.*
 
 # Driver Finder - Privacy Policy
 
-## Privacy Policy
+* * *
 
-This Privacy Policy describes the terms of our commitment to your privacy.
+This Privacy Policy describes the terms of our commitment to your privacy. 
 
 ### Persons or Parties Covered
 
@@ -50,10 +50,6 @@ If you are a customer and send an email to the website, or if you communicate wi
 
 Any communication which, in its sole discretion, the site deems to be a testimonial, may be publicized for commercial purposes.
 
-### Information Obtained From Visitor Interaction With Banners, Popups, Or Site Advertisers
-
-Visitors clicking on banners or pop-ups or hyperlinked advertising, appearing on this website must assume that information is being collected about them. This site is not responsible for the use of information collected in such a fashion. Visitors must assume that (1) information will be collected, (2) that 'cookies' will usually be placed on their hard drive, (3) that website does not have any control over what happens with this information, (4) that website takes no responsibility over the accuracy or content of advertisers, (5) that website is not responsible for downloads from third party advertisers that contain viruses or worms or other computer code that causes their computer or software harm, and (6) that website assumes no responsibility for the data that is garnered from the click itself or that the advertiser collects.
-
 ### Information Obtained From Referring Email Or Referring Urls
 
 If you send a friend an email from this site or if you send the url or one of our web pages to a friend, you must assume that some data is collected about your IP address or your email address and that of your friend. You must assume that referred emails or web pages may appear to come from your email. You must accept fully responsibility for referring pages or email to a friend and agree to indemnify this site for any damage, intentional or unintentional that results from said referrals.
@@ -79,6 +75,12 @@ A special note about Google and the [DoubleClick DART cookie](http://www.doublec
   * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 
+
+### Opt-Out Information
+
+DriverFinder provides a number of ways for you to OPT OUT of receiving additional information from us. Note that this option does not apply to communication sent for the purposes of administering orders, contracts, support, product safety warnings, software updates, or other administrative and transactional notices. If you do not wish to continue receiving additional information or certain marketing materials (e.g., e-mail messages), you can opt-out of receiving these materials by following the unsubscribe instructions provided in the materials. 
+
+In addition, you may contact us at our Online Support Portal at <http://www.desktoolssoft.com/support/> to futher relay any desire to opt out of receiving further communication from us. 
 
 ### How Information May Be Used
 
@@ -110,7 +112,7 @@ This Privacy Policy is dynamic. It will continually change. You may not assume t
 
 ### Latest Update
 
-This Privacy Policy was last updated on: June 8, 2009.
+This Privacy Policy was last updated on: October 21, 2011.
 
 ### Disputes
 
