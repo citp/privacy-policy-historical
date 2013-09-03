@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aboutasiatravel.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621102441id_/http%3A//www.aboutasiatravel.com/cambodia/contact/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aboutasiatravel.com privacy policy that was archived on 2013-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130903214039id_/http%3A//www.aboutasiatravel.com/cambodia/contact/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
