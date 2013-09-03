@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the did-you-kno.tumblr.com privacy policy that was archived on 2013-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130114123721id_/http%3A//did-you-kno.tumblr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the did-you-kno.tumblr.com privacy policy that was archived on 2013-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130903122436id_/http%3A//did-you-kno.tumblr.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - did you know?
 
@@ -24,6 +24,6 @@ These third-party ad servers or ad networks use technology to the advertisements
 
 [](http://www.didyouknowfact.com/)[www.didyouknowfact.com](http://www.didyouknowfact.com/) has no access to or control over these cookies that are used by third-party advertisers. 
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. [](http://www.didyouknowfact.com/)[www.didyouknowfact.com](http://www.didyouknowfact.com/)’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. [](http://www.didyouknowfact.com/)[www.didyouknowfact.com](http://www.didyouknowfact.com/)'s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. 
