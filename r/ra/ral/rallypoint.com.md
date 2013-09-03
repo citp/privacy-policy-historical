@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rallypoint.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527195830id_/https%3A//www.rallypoint.com/static_pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rallypoint.com privacy policy that was archived on 2013-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130904015635id_/https%3A//www.rallypoint.com/static_pages/privacy_policy) for the most accurate reproduction.*
 
 # RallyPoint
 
@@ -52,7 +52,7 @@ We disclose Personal Information to certain third party marketing firms, who may
 
 **Privacy Settings/Opt Out**
 
-If you would like your Personal Information permanently removed from our database, please contact us at [info@rallypoint.com](mailto:info@rallypoint.com).  We will promptly delete your profile and you will no longer receive email from RallyPoint.  Your removal from the mailing list or database will not remove records of past transactions or delete information stored in our data backups and archives.  Data on past transactions and data stored in backups and archives will be maintained and/or deleted in the ordinary course of RallyPoint’s business.
+If you would like to close your RallyPoint account or opt-out of email updates, please visit your [RallyPoint settings page](https://www.rallypoint.com/settings/edit) where you can control all your privacy settings or close your account. If you close your account, your data will no longer be displayed on the RallyPoint network and other RallyPoint members will not be able to find you.  Your removal will not remove records of past transactions or delete information stored in our data backups and archives.  Data on past transactions and data stored in backups and archives will be maintained and/or deleted in the ordinary course of RallyPoint’s business.
 
 **Access and Updating of Information**
 
