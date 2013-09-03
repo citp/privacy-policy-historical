@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bioteck.net privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518212220id_/http%3A//www.bioteck.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bioteck.net privacy policy that was archived on 2013-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130903040339id_/http%3A//www.bioteck.net/privacy-policy) for the most accurate reproduction.*
 
 # BioTecK.net » Privacy Policy | Log Into My World |
 
@@ -27,7 +27,7 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-#### About Behrad:
+#### About B. A.:
 
 I'm 30 years "old", married to Jannie and father of a beautiful baby girl name Shirina! We live happily in Eindhoven, The Netherlands.   
 In 2006 I started BioTecK.net just to show/share my portfolio. After a while I started to blog about my experiences and stuff I do in my life, my interests; computers & computer related stuff, tips & tricks and basically everything which I want to share.   
