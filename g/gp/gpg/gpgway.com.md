@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gpgway.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115130951id_/https%3A//www.gpgway.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gpgway.com privacy policy that was archived on 2013-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130903081327id_/https%3A//www.gpgway.com/Privacy.aspx) for the most accurate reproduction.*
 
 # GPG Privacy Statement
 
