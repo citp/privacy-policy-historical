@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the explicitdownloads.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106233209id_/http%3A//explicitdownloads.com/%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explicitdownloads.com privacy policy that was archived on 2013-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130903172049id_/http%3A//explicitdownloads.com/%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
