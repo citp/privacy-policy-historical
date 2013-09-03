@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inetgiant.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116015618id_/http%3A//www.inetgiant.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inetgiant.com privacy policy that was archived on 2013-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130903123308id_/http%3A//www.inetgiant.com/privacypolicy) for the most accurate reproduction.*
 
-# InetGiant Free Advertising - Privacy Policy
+# 
 
 _Last Updated on June 15, 2009_
 
@@ -46,12 +46,10 @@ We encourage you to be aware when you leave our site and to read the privacy sta
 
 If you have questions or suggestions regarding our Privacy Policy and practices, please contact us at: 
 
-**iNetGiant, Inc.**   
+**iNetGiant Media Group, LLC**   
 Customer Care - Privacy Policy Issues  
-2763 Coney Island Ave, 2ND Floor  
-Brooklyn , New York 11235  
-privacy@inetgiant.com  
-(347) 273-1294
+80 8th Avenue, Suite 315  
+New York, NY 10011
 
 
 
