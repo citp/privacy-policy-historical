@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the constant.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526162053id_/http%3A//www.constant.com/corporate/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the constant.com privacy policy that was archived on 2013-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130903070306id_/http%3A//www.constant.com/corporate/privacy.php) for the most accurate reproduction.*
 
 # - Constant.com
 
   * **General**
     * The operative parties referred to in this policy are COMPANY and you, the user of this site. 
-      * Constant™ Hosting, LLC, is the publisher and operator of the web site www.constant.com. Hereinafter referred to as 'COMPANY'. When first-person pronouns are used in this Policy, (us, we, our, ours, etc.) these provisions are referring to Constant™ Hosting, LLC. d/b/a www.constant.com. Additionally, when the terms 'The SITE' or 'SITE' are used, these terms refer to www.constant.com. 
+      * Constant® Hosting, LLC, is the publisher and operator of the web site www.constant.com. Hereinafter referred to as 'COMPANY'. When first-person pronouns are used in this Policy, (us, we, our, ours, etc.) these provisions are referring to Constant® Hosting, LLC. d/b/a www.constant.com. Additionally, when the terms 'The SITE' or 'SITE' are used, these terms refer to www.constant.com. 
       * You, the User - As the user of this site, this policy will refer to the user as 'you' or through any second-person pronouns, such as 'yours,' etc. Hereinafter, the user of the site shall be referred to in applicable second-person pronouns. 
     * This Privacy Policy describes how we use information received about you when you visit our SITE or when you subscribe to, or otherwise use our online services. This Policy does not cover any information that we may receive from or about you through channels other than through the use of the SITE. 
 
