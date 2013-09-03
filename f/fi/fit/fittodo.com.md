@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fittodo.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602014741id_/http%3A//fittodo.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fittodo.com privacy policy that was archived on 2013-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130903102444id_/http%3A//www.fittodo.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # FitToDo : Privacy Policy
 
@@ -48,7 +48,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.fittodo.com/termsandconditions.aspx>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.fittodo.com/termsandconditions.aspx](http://www.fittodo.com/TermsAndConditions.aspx)
 
 **Your Consent**
 
@@ -72,5 +72,5 @@ Melbourne Beach, FL 32951
 
 [Information@Fittodo.com](mailto:Information@Fittodo.com)
 
-|  [](http://kicker.com/ "http://kicker.com")  
+|  [](http://www.ronjonsurfshop.com/ "http://www.ronjonsurfshop.com")  
 ---|---
