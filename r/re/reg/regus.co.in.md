@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the regus.co.in privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110000448id_/http%3A//www.regus.co.in/Documents/Corporate/IE_PrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regus.co.in privacy policy that was archived on 2013-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130903060743id_/http%3A//www.regus.co.in/images/APAC_PrivacyPolicy_tcm77-42145.pdf) for the most accurate reproduction.*
 
 # 
 
