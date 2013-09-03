@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the delivr.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115102403id_/http%3A//delivr.com/legal_mobile%3Ftype%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delivr.com privacy policy that was archived on 2013-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130903071428id_/http%3A//delivr.com/legal_mobile%3Ftype%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
