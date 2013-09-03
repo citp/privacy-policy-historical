@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carpathiahost.net privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530113720id_/http%3A//carpathiahost.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carpathiahost.net privacy policy that was archived on 2013-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130903130256id_/http%3A//carpathiahost.net/privacy-policy) for the most accurate reproduction.*
 
 # Carpathia Hosting | Complex, Compliant Managed Hosting & Cloud
 
