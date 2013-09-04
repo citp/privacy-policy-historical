@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the financecp.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513044413id_/http%3A//financecp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financecp.com privacy policy that was archived on 2013-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130904175115id_/http%3A//financecp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
