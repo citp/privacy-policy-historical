@@ -1,39 +1,60 @@
-> *The following text is extracted and transformed from the endlessmatches.com privacy policy that was archived on 2011-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110902005042id_/http%3A//www.endlessmatches.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the endlessmatches.com privacy policy that was archived on 2013-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130904040413id_/http%3A//www.endlessmatches.com/privacy.html) for the most accurate reproduction.*
 
-# Endless Matches
+# Privacy Policy - Endless Matches
 
-[](http://www.endlessmatches.com/)
+### PRIVACY POLICY
 
-[Home](http://www.endlessmatches.com/) > Privacy Policy 
+This privacy statement was updated on Feb 1, 2013. Endless Matches has created this privacy statement in order to disclose our information gathering and dissemination practices for this Web site, [www.Endless Matches.com](http://www.endlessmatches.com/). 
 
-### Privacy Policy
+Upon reading this privacy statement, you will know:
 
-At endlessmatches.com, we are committed to protecting online user privacy. This "Privacy Policy" discloses the privacy practices governing our knowing collection, use, and disclosure of information. In order to ensure your privacy, information we collect is used only in the manner and for the purposes described below.
-
-Anonymous User Information: endlessmatches.com collects some anonymous information each time you visit endlessmatches.com so we can improve the overall quality of your online experience. We collect your IP address, referral data, and browser and platform type. You do not have to register with endlessmatches.com before we can collect this anonymous information. We do not collect any unique information about you (such as your name, e-mail address, etc.) except when you specifically and knowingly provide such information. endlessmatches.com does not require you to share information that identifies you personally, such as your name or email address, in order for you to use the endlessmatches.com search. endlessmatches.com assigns an anonymous ID number to your requests and links the following additional data to that number: the date and time you visited endlessmatches.com, your search terms, and the links upon which you choose to click. Like most standard Web site servers, we use log files to collect and store this anonymous user information. We analyze this information to examine trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. endlessmatches.com may present links in a format that enables us to understand whether they have been followed. We use this information to understand and improve the quality of the endlessmatches.com search. 
-
-Cookies: We use a feature of Internet web browsers called a "cookie," which is a small file that is sent to your computer when you visit a website. This enables us to store user preferences and track user trends and search patterns. We use cookies to improve the quality of the endlessmatches.com services and to better understand how users interact with us. We do not and cannot use Cookies to retrieve individual personally identifiable information about you from your computer unless you knowingly and willingly provided such information. The cookie technology we use cannot obtain information from your hard drive or pass on a computer virus. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some endlessmatches.com features or services may not function properly without cookies. 
-
-Information security: We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. We restrict access to your personally identifying information to employees who need to know that information in order to operate, develop or improve our services. 
-
-Aggregated General Information: We may share aggregated general information about our site with our corporate partners or others. Examples of this include the number of users who searched for "Classic Cars", the daily number of unique visitors, or how many users clicked on a particular advertisement. Aggregated data does not contain any personally identifiable information that could be used to contact or identify you. Information sharing We may share personally identifying information to other companies or individuals in any of the following limited circumstances: 
-
-  * We have your consent. 
-  * We provide such information to trusted businesses or persons for the sole purpose of processing personally identifying information on our behalf. When this is done, it is subject to agreements that oblige those parties to process such information only on our instructions and in compliance with this Privacy Policy and appropriate confidentiality and security measures. 
-  * When required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a criminal investigation, a court order, or legal process served on our Web site. We may also share your personal information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of endlessmatches.com's terms of use, or as otherwise required by law. 
-  * If you have an account, we may share the information submitted under your account among all of our services in order to provide you with a seamless experience and to improve the quality of our services. We will not disclose your account information to other people or non-affiliated companies, except in the limited circumstances described in this Policy or with your consent. 
-  * We may store and process personal information collected on our site in the Canada or any other country in which endlessmatches.com or its agents maintain facilities. By using our services, you consent to the transfer of your information among these facilities, including those located outside your country. 
-  * endlessmatches.com may use third party service providers to serve ads and emails on our behalf. These companies may use technologies to measure the effectiveness of ads and emails and use information about your visits to endlessmatches.com so that we can provide a better search experience to you. For this purpose, we may also provide these third parties service providers anonymous information about your site navigation. 
-  * We may share certain information about you with carefully selected business partners, including those who may offer services that complement those provided by us or which we believe may be of interest to you. We may also disclose information to third parties who assist us in providing our services to you. For example, we may engage third parties to make improvements on our site, to offer new products and to allow us to customize your experience on the Site. 
+  1. What personally identifiable information of yours or third party personally identifiable information is collected from you through the Web site.
+  2. The organization collecting the information.
+  3. How the information is used.
+  4. With whom the information may be shared.
+  5. What choices are available to you regarding collection, use and distribution of the information.
+  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Endless Matches's control.
+  7. How you can access and correct any inaccuracies in the information collected about you.
 
 
 
-Correspondence: If you contact endlessmatches.com, we may keep a record of that correspondence and we may collect your email address. 
+Questions regarding this statement should be directed to the Endless Matches site administrator by sending an email message to support at Endless Matches.com or writing to us at the following address:
 
-Third Party Information Gathering: endlessmatches.com includes content and ads from third parties that may perform user activity tracking other than that described herein. These other sites may place their own cookies on your computer, collect data or solicit personal information. For more information about each third party content provider, cookies, and how to "opt-out", please refer to such third party advertiser's privacy policy endlessmatches.com contains links to other sites on the Web. Please be aware that endlessmatches.com is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+Endless Matches  
+UTN Enterprises, Inc.  
+340 S LEMON AVE #9861  
+WALNUT, CA 91789 
 
-Children's Privacy: endlessmatches.com does not knowingly request or collect personally identifiable information online or offline contact information from users under 13 years of age nor do we knowingly use or share personal information from users under 13 years of age with third parties. 
+To return to the Endless Matches home page, please [click here](http://www.endless%20matches.com/).
 
-Sale of Assets: In the event that another company acquires all or substantially all of the assets related to the business of endlessmatches.com, we reserve the right to include any or all stored personal information among the assets transferred to the acquiring company. 
+ **Endless Matches's Privacy Statement**  
+Endless Matches is the sole owner of the information it gathers on its site. Endless Matches will only share your information with outside parties in ways that are described in this privacy statement or if we are required to do so by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law, cooperate with law enforcement agencies, or comply with a legal process served on our Web site.
 
-Changes to Privacy Policy: We reserve the right to amend or revise this privacy policy from time to time. We will post these changes to this page. Use of information that we gather now is subject to the privacy policy in effect at the time the information is used.
+What Information is Collected and How it is Used? 
+
+  * **Adding Your Site**  
+We collect contact information such as name, email address, IP address, and company information such as company name, Web site description and URL. This information is used to add your website to the directory.
+  *   
+
+  * **Contacting Us**  
+We use an email form located on the "contact us" page and other areas of the site to allow you to contact us directly with any questions or comments you may have. We read every message sent in and try to reply promptly to every one. This information is used to respond directly to your questions or comments. We may also file your comments to improve the site and functionality, or review and discard the information. Your personal information is only shared with third parties with your explicit permission.
+  *   
+
+  * **Logged Files and Cookies**  
+The Endless Matches Web site logs IP addresses and browser types for search engine and reader trend purposes. These logs will be analyzed to improve the value of the directory. A user's session will be tracked, but the user will be anonymous. We do, however link IP addresses to any "site submissions" to track our sales and marketing campaigns. This information does not contain any personally identifiable information.
+
+This Web site does use cookies in the forums.
+
+**Third Party Links**  
+Endless Matches lists websites in virtually every subject available. Given the nature of the field that we are in, we link to thousands of different websites. Please note that these Web sites' privacy policies may differ from those of Endless Matches. We encourage you to read the privacy statement of any Web site you may visit.
+
+
+
+
+Choices Regarding the Use of Your Information 
+
+**Security**  
+Protecting your privacy and your information is a top priority at Endless Matches. We have taken careful measures to prevent the loss, misuse, and alteration of your information and our database. Once we receive your information that was entered into our web site, it is stored into a secure mysql database. Your information is only accessible to our employees who need it in order to perform their jobs.
+
+ **Notification of Changes**  
+If we are going to use your personally identifiable information in a manner different from that stated at the time of collection through this Web site, we will notify you via email. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already collected through our site, we will post a prominent notice on our web site notifying users of the change.
