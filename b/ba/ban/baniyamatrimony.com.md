@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baniyamatrimony.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510103020id_/http%3A//www.baniyamatrimony.com/site/index.php%3Fact%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baniyamatrimony.com privacy policy that was archived on 2013-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130904040345id_/http%3A//www.baniyamatrimony.com/site/index.php%3Fact%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Baniya Matrimony, Matrimony, Indian Matrimony
 
