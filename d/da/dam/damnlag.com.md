@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the damnlag.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623044711id_/http%3A//damnlag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the damnlag.com privacy policy that was archived on 2013-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130904185518id_/http%3A//www.damnlag.com/privacy-policy) for the most accurate reproduction.*
 
 # Video Game Opinion, Articles, Reviews, Editorials
 
