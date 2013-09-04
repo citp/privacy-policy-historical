@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lush.co.uk privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424231416id_/https%3A//www.lush.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lush.co.uk privacy policy that was archived on 2013-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130904033011id_/https%3A//www.lush.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,11 +6,18 @@
 
 This statement discloses the privacy practices and policies for Lush website. If you have any questions about these practices and policies, please email us at [orders@lush.co.uk](mailto:orders@lush.co.uk).
 
-Your personal data will be used for processing and invoicing your order only. If you would like to be kept up to date with all the new exciting Lush news, you can opt in for our newsletter and Lush Times! All you have to do is tick the designated box and there you have it; you can then confirm that your e-mail address is correct and is the same address you have used to order with.
+Your personal data will be used for processing and invoicing your order and when dealing with your enquiries. This may involve processing any sensitive personal data about you that you give to us, such as health related data.
 
-Don't worry, your data is not publicly available and we will never pass it on to anyone who will plague you with non-Lush marketing stuff. We treat your data as strictly confidential!
+If you would like to be kept up to date with all the new exciting Lush news, you can opt in for our newsletter and Lush Times! All you have to do is tick the designated box and there you have it; you can then confirm that your e-mail address is correct and is the same address you have used to order with.
 
-The only exception is if you breach our Content Standards as described within our Conditions of Use for example by posting something on our website and we receive a reasonable claim of Intellectual Property infringement (eg you have used someone else's picture or song and they complain) or a breach of the right to privacy (eg put up a picture of someone doing something against the public interest) then we may have to pass on your details however we will tell you first unless it is the police= asking.
+We may share your information on a confidential basis with our third party providers and group companies. However, don't worry, your data is not publicly available and we will never pass it on to anyone who will plague you with non-Lush marketing stuff. We treat your data as strictly confidential!
+
+The only exception is if you breach our Content Standards as described within our Conditions of Use for example by posting something on our website and we receive a reasonable claim of Intellectual Property infringement (e.g. you have used someone else's picture or song and they complain) or a breach of the right to privacy (eg put up a picture of someone doing something against the public interest) then we may have to pass on your details however we will tell you first unless it is the police asking.
+
+The data (including any sensitive personal data, such as health related data) that you submit may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed by staff operating outside the EEA who work for us or one of our group companies and/or by our group companies' contractors and suppliers. By providing us with your personal data, you agree to this transfer, storing and other processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+
+  
+
 
 ## Website Cookies
 
