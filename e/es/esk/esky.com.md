@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esky.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629221334id_/http%3A//esky.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esky.com privacy policy that was archived on 2013-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130905015331id_/http%3A//www.esky.com/privacy.shtml) for the most accurate reproduction.*
 
 # U.P. Logon
 
