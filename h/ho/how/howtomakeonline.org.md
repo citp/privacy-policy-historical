@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howtomakeonline.org privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522065648id_/http%3A//www.howtomakeonline.org/disclaimer%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtomakeonline.org privacy policy that was archived on 2013-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130905005228id_/http%3A//www.howtomakeonline.org/disclaimer%23Privacy) for the most accurate reproduction.*
 
 # Learn how to Make Money Online with our database of Online Marketing Training Videos
 
