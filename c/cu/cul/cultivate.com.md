@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cultivate.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621085949id_/http%3A//www.cultivate.com/cultivate-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cultivate.com privacy policy that was archived on 2013-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130905010136id_/http%3A//www.cultivate.com/cultivate-privacy-policy) for the most accurate reproduction.*
 
 # Cultivate Privacy Policy | Cultivate
 
