@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pacsun.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221114624id_/http%3A//www.pacsun.com/company/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pacsun.com privacy policy that was archived on 2013-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130905002116id_/http%3A//www.pacsun.com/company/privacy-policy.html) for the most accurate reproduction.*
 
 # PacSun's Privacy Policy
 
@@ -14,7 +14,7 @@ In this policy, the phrases "personally identifiable information" or "personal i
 
 When you provide personal information to PacSun, you are consenting to the manner in which PacSun will collect, use, disclose and otherwise manage your personal information, as set forth below. Rest assured that PacSun will exercise the utmost care and caution in handling your personal information and in disseminating it only pursuant to the terms of this privacy policy.
 
-We use your personal information that we collect to conduct our business and to provide you with the best possible products and services. To best serve you, we may share your personally identifiable information with service providers that provide support services to us or that help us market our products and services. Service providers, third parties who perform services on our behalf, are contractually restricted from using your information in any manner other than in helping us to provide you with the products and services available from PacSun. We may also, in certain instances, disclose your personally identifiable information when we have reason to believe that it is necessary to identify you, contact you, or bring legal action to protect your safety or rights or the safety or rights of PacSun or others. We may also disclose your personally identifiable information when you ask us to do so or when we believe it is required by law. If PacSun is sold to or merges with another company, or declares bankruptcy, some or all of the information collected from you may be transferred to a third party as a result of the transfer of assets. We will not share your personal information with third parties for direct marketing purposes, without your consent.
+We use your personal information that we collect to conduct our business and to provide you with the best possible products and services. To best serve you, we may share your personally identifiable information with service providers that provide support services to us or that help us market our products and services. Personally identifiable information shared with our third party marketing partners is made anonymous. Service providers, third parties who perform services on our behalf, are contractually restricted from using your information in any manner other than in helping us to provide you with the products and services available from PacSun. We may also, in certain instances, disclose your personally identifiable information when we have reason to believe that it is necessary to identify you, contact you, or bring legal action to protect your safety or rights or the safety or rights of PacSun or others. We may also disclose your personally identifiable information when you ask us to do so or when we believe it is required by law. If PacSun is sold to or merges with another company, or declares bankruptcy, some or all of the information collected from you may be transferred to a third party as a result of the transfer of assets. 
 
 ## MAKING PURCHASES
 
@@ -24,7 +24,7 @@ This information is necessary to process your order, and we assure you that your
 
 You will have the option of saving your personal information in our secure system for future purchases. The information is stored in the form of a "cookie" in your computer. Even though you need cookies to be enabled to make an online purchase, it is not necessary to save information via cookies if you choose not to.
 
-PacSun collaborates with government agencies and security organizations to prevent fraud and fraudulent use of your personal information. During fraud prevention investigations, we may share information with the agencies that assist us, as permitted and required by US law. This information will never be used for marketing purposes. Usage is strictly assigned to assist and prevent fraud investigations.
+PacSun collaborates with government agencies and security organizations to prevent fraud and fraudulent use of your personal information. During fraud prevention investigations, we may share information with the agencies that assist us, as permitted and required by US law. Usage is strictly assigned to assist and prevent fraud investigations.
 
 If you're still not comfortable shopping online and want to phone in your order, by all means do so.
 
@@ -38,7 +38,7 @@ Register once, save time every time. By registering with PacSun.com, your checko
 
 ## EMAIL & CATALOG SUBSCRIPTIONS
 
-Email sign-up is available during check-out and on every page of our website. If you sign up for our emails, you'll be the first to hear about up-coming sales, online exclusive discounts, contests and more. You can sign up to receive our PacSun email newsletter, outlet emails and our seasonal catalog. You'll always be able to unsubscribe from of these subscriptions, and we have a Contact Preference Center where you can manage these subscriptions so you only get what you're interested in. And no, we'll never sell or share your info with another company other than as provided herein or if you give us permission.
+Email sign-up is available during check-out and on every page of our website. If you sign up for our emails, you'll be the first to hear about up-coming sales, online exclusive discounts, contests and more. You can sign up to receive our PacSun email newsletter, outlet emails and our seasonal catalog. You'll always be able to unsubscribe from of these subscriptions, and we have a Contact Preference Center where you can manage these subscriptions so you only get what you're interested in.
 
 ## ONLINE CONTEST & SWEEPSTAKES
 
@@ -52,7 +52,9 @@ In addition, we may request information regarding customer preferences, such as 
 
 ## COOKIES
 
-The data file on your computer's hard drive when you visit a site. A "session cookie" expires immediately when you end your session (i.e., close your browser). A "persistent cookie" stores information on the hard drive so when you end your session and return to the same website at a later date, the cookie information is still available. We use the information collected by cookies to determine which parts of our website are visited most often, and to determine where on our site you may be experiencing technical difficulties.
+The data file on your computer's hard drive when you visit a site. A "session cookie" expires immediately when you end your session (i.e., close your browser). A "persistent cookie" stores information on the hard drive so when you end your session and return to the same website at a later date, the cookie information is still available. We use the information collected by cookies to determine which parts of our website are visited most often, and to determine where on our site you may be experiencing technical difficulties. We may also use our own cookies to provide you with enhanced online display advertising tailored to your interests. To opt out of this advertising provided directly by us, click here.
+
+We also work with third party marketing partners to serve ads on this or other sites. They may collect anonymous information about your visits to our Website and your interactions with our products and services, and use this information to personalize advertisements for goods and services. This information is collected through the use of industry standard technologies such as cookies and pixel tags and no personally identifiable information is collected or used in this process. To learn more about interest-based advertising, or to opt-out, please visit the Network Advertising Initiative by [clicking here](http://www.networkadvertising.org/choices).
 
 Our goal is to improve the quality of our website, tailor our products and services to suit your personal interests, track and/or analyze visiting patterns, and resolve difficulties you may encounter while on our site.
 
@@ -78,4 +80,4 @@ This policy replaces all previous disclosures we may have provided you about our
 
 PacSun may link to unaffiliated third party websites. This Privacy Policy does not apply to unaffiliated third party websites. We are not responsible for their information collection practices or the content of their websites. The examples contained in this Privacy Policy are illustrations only, and are not intended to be exhaustive. If you have questions regarding our Privacy Policy, please email us at info@pacificsunwear.com or contact Customer Service at 1-877-372-2786.
 
-Effective Date: This policy was last updated on 10/09/2012.
+Effective Date: This policy was last updated on 01/31/2013.
