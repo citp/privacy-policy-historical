@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gadgetsalvation.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430175245id_/http%3A//gadgetsalvation.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gadgetsalvation.com privacy policy that was archived on 2013-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130905014017id_/http%3A//www.gadgetsalvation.com/privacy.php) for the most accurate reproduction.*
 
-# Gadget Salvation
+# Gadget Salvation - Privacy Policy
 
 This privacy notice discloses the privacy practices for GadgetSalvation.com. This privacy notice applies solely to information collected by this web site. It will notify you of the following:
 
