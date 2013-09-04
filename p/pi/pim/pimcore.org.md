@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pimcore.org privacy policy that was archived on 2013-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130326220929id_/http%3A//www.pimcore.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pimcore.org privacy policy that was archived on 2013-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130904020853id_/http%3A//www.pimcore.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : pimcore - Enterprise Content Management Framework
 
