@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the epom.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621052617id_/http%3A//epom.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epom.com privacy policy that was archived on 2013-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130905015444id_/http%3A//epom.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Epom
 
   * [Contact us](https://web.archive.org/contact_us)
   * [About](https://web.archive.org/about)
-  * [Client Support](https://web.archive.org/client_support)
+  * [Open Vacancies](https://web.archive.org/vacancies)
   * [Terms of Service](https://web.archive.org/terms)
   * [Privacy Policy](https://web.archive.org/privacy_policy)
 
