@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cognitiveseo.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605060853id_/http%3A//cognitiveseo.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cognitiveseo.com privacy policy that was archived on 2013-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130904181216id_/http%3A//cognitiveseo.com/policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - cognitiveSEO
 
