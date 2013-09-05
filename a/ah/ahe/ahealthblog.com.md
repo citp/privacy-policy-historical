@@ -1,29 +1,41 @@
-> *The following text is extracted and transformed from the ahealthblog.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605205513id_/http%3A//www.ahealthblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahealthblog.com privacy policy that was archived on 2013-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130905161008id_/http%3A//www.a-health-blog.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy
 
-At _A Health Blog_ , the privacy of our visitors is of extreme importance to us (See [this article](http://www.wp-insert.smartlogix.co.in/what-is-a-privacy-policy/) to learn more about Privacy Policies.). This privacy policy document outlines the types of personal information is received and collected by _A Health Blog_ and how it is used.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us via our contact form
 
- **Log Files**
+At ahealthblog.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by ahealthblog.com and how it is used.
 
-Like many other Web sites, _A Health Blog_ makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+**Log Files**
 
- **Cookies and Web Beacons**
+Like many other Web sites, ahealthblog.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
- _A Health Blog_ does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+**Cookies and Web Beacons**
 
- **DoubleClick DART Cookie**
+ahealthblog.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-  * Google, as a third party vendor, uses cookies to serve ads on _A Health Blog_.
-  * Google's use of the DART cookie enables it to serve ads to users based on their visit to _A Health Blog_ and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>.
+**DoubleClick DART Cookie**
 
+Google, as a third party vendor, uses cookies to serve ads on ahealthblog.com.
 
+Google’s use of the DART cookie enables it to serve ads to users based on their visit to ahealthblog.com and other sites on the Internet.
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on _A Health Blog_ send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://google.com/privacy_ads.html>
 
- _A Health Blog_ has no access to or control over these cookies that are used by third-party advertisers.
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. _A Health Blog_ 's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+Google Adsense
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browser's respective websites.
+Commission Junction
+
+Clickbank
+
+Amazon
+
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on ahealthblog.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+
+ahealthblog.com has no access to or control over these cookies that are used by third-party advertisers.
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. ahealthblog.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
