@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sevenslings.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116162313id_/http%3A//www.motherslounge.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sevenslings.com privacy policy that was archived on 2013-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130905112059id_/https%3A//www.motherslounge.com/privacy_policy) for the most accurate reproduction.*
 
 # Mother's Lounge - Privacy Policy
 
