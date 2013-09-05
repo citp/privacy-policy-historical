@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pollen.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619152811id_/http%3A//pollen.com/privacy_policy_general.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pollen.com privacy policy that was archived on 2013-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130905123943id_/http%3A//www.pollen.com/privacy_policy_general.asp) for the most accurate reproduction.*
 
 # Free 4-day Allergy Forecasts and Allergy Alerts by Pollen.com
 
@@ -47,6 +47,6 @@ c/o IMS Health Incorporated
 Plymouth Meeting, PA 19462
 
 Phone: (610) 834-0800  
-Or send us a message by clicking [here](https://web.archive.org/web/20130619152811id_/http%3A//pollen.com/contact.asp). 
+Or send us a message by clicking [here](https://web.archive.org/web/20130905123943id_/http%3A//www.pollen.com/contact.asp). 
 
-[Important Information About Accepting/Declining Cookies](https://web.archive.org/web/20130619152811id_/http%3A//pollen.com/cookies.asp)
+[Important Information About Accepting/Declining Cookies](https://web.archive.org/web/20130905123943id_/http%3A//www.pollen.com/cookies.asp)
