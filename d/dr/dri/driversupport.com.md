@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driversupport.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601041750id_/http%3A//driversupport.com/home/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driversupport.com privacy policy that was archived on 2013-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130905142950id_/http%3A//driversupport.com/home/privacypolicy) for the most accurate reproduction.*
 
 # Driver Support Privacy Policy
 
