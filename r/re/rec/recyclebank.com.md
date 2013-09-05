@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recyclebank.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511035125id_/https%3A//www.recyclebank.com/get-help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recyclebank.com privacy policy that was archived on 2013-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130905192230id_/https%3A//www.recyclebank.com/get-help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -37,7 +37,7 @@ Click on any of the questions below for the answers you need on everything relat
 ### 1\. What Information Does Recyclebank Collect? 
 
 **A. Information You Provide:**  
-In order for you to participate in the Recyclebank Rewards Program (which includes our home recycling programs, Gconomy Visa Card, and many other contests and activities) you first must become a Recyclebank Member and agree to the [Recyclebank Membership Agreement](https://www.recyclebank.com/about-us/membership-agreement1). Through this registration process you provide us with:
+In order for you to participate in the Recyclebank Rewards Program (which includes our home recycling programs, Gconomy Visa Card, and many other contests and activities) you first must become a Recyclebank Member and agree to the [Recyclebank Membership Agreement](http://www.recyclebank.com/about-us/membership-agreement1). Through this registration process you provide us with:
 
   
 
