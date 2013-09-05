@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bradob.com privacy policy that was archived on 2013-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130310080336id_/http%3A//bradob.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bradob.com privacy policy that was archived on 2013-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130905163411id_/http%3A//bradob.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Bradob.com
 
