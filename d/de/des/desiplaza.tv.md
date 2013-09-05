@@ -1,6 +1,19 @@
-> *The following text is extracted and transformed from the desiplaza.tv privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503130419id_/http%3A//www.desiplaza.tv/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D3%26Itemid%3D123) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desiplaza.tv privacy policy that was archived on 2013-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130905142001id_/http%3A//desiplaza.tv/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+##  [ Privacy Policy](http://desiplaza.tv/index.php/privacy-policy)
+
+  * [ Print ](http://desiplaza.tv/index.php/privacy-policy?tmpl=component&print=1&page= "Print")
+  * [ Email](http://desiplaza.tv/index.php/component/mailto/?tmpl=component&template=rt_alerion&link=b60c22bec4ce3936c0f0a8fe74e31e4003c48de7 "Email")
+
+
+
+Details
+     Category: [Administrator](http://desiplaza.tv/index.php/privacy-policy/14-administrator)
+     Published: Thursday, 18 April 2013 03:57 
+     Written by Super User 
+     Hits: 284 
 
 We have established this privacy policy to explain to you how your information is protected, collected and used, which may be updated by us from time to time. We will provide notice of materially significant changes to this privacy policy by posting notice on the site.
 
