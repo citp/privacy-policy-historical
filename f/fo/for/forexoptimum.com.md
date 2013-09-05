@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forexoptimum.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502034751id_/http%3A//forexoptimum.com/sites/forexoptimum.com/files/docs/en/Privacy%2520Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forexoptimum.com privacy policy that was archived on 2013-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130905041511id_/http%3A//forexoptimum.com/sites/forexoptimum.com/files/docs/en/Privacy%2520Policy.pdf) for the most accurate reproduction.*
 
 # 
 
