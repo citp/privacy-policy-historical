@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earthclinic.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630073843id_/http%3A//earthclinic.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthclinic.com privacy policy that was archived on 2013-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130905054022id_/http%3A//www.earthclinic.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Earth Clinic's Help Page
 
