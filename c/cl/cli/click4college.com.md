@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the click4college.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530001255id_/http%3A//click4college.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the click4college.com privacy policy that was archived on 2013-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130905122935id_/http%3A//click4college.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - click4college.com
 
