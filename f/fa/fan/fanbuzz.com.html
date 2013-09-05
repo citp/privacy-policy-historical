@@ -1,0 +1,369 @@
+<!--The following is the downloaded HTML source of the fanbuzz.com privacy policy that was archived on 2013-09-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130906015254id_/http%3A//fanbuzz.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <title>Privacy — FanBuzz</title>
+        <link href="css/style.css" rel="stylesheet" type="text/css">
+        <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
+    </head>
+    <body>
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-38318090-1']);
+        _gaq.push(['_setDomainName', 'fanbuzz.com']);
+        _gaq.push(['_trackPageview']);
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script><script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/jqueryslidemenu.js"></script>
+<script type="text/javascript" src="js/left_menu.js"></script><style type="text/css">
+.submenu{display: none;}
+</style>
+
+<script type="text/javascript" src="lib/jquery.autocomplete.js"></script>
+<script type="text/javascript" src="js/jquery.colorbox.js"></script>
+<script type="text/javascript" src="js/all.js"></script>
+<script type="text/javascript" src="js/facebox.js"></script>
+<script type="text/javascript" src="js/ddaccordion.js"></script>
+<script type="text/javascript" src="js/tools.js"></script>
+<script type="text/javascript" src="js/chrome.js"></script>
+<script type="text/javascript" src="js/jquery.oembed.js"></script>
+<script type="text/javascript" src="js/wall.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.12/jquery-ui.min.js"></script>
+<script type="text/javascript" src="js/scrollpagination.js"></script>
+<script type="text/javascript" src="js/bootstrap.js"></script>
+
+<link href="css/jqueryslidemenu.css" rel="stylesheet" type="text/css">
+<link href="css/chromestyle.css" rel="stylesheet" type="text/css">
+<link href="css/wall.css" rel="stylesheet" type="text/css">
+<link href="css/facebox.css" media="screen" rel="stylesheet" type="text/css">
+<link href="css/example.css" media="screen" rel="stylesheet" type="text/css">
+<link href="css/style-newsticker.css" rel="stylesheet" type="text/css" media="screen">
+<link href="searching_css/main.css" rel="stylesheet" type="text/css">
+<link href="searching_css/jquery.autocomplete.css" rel="stylesheet" type="text/css">
+<link href="css/colorbox.css" media="screen" rel="stylesheet">
+<link href="css/jquery-ui-1.9.0.custom.css" media="screen" rel="stylesheet" type="text/css">
+
+<script type="text/javascript">
+    $(function(){
+        new ShareBox('#streamBox');
+        addToStreamPopup();
+
+        $(".example8").colorbox({width:"430px", inline:true, href:"#inline_example12", opacity: 0.7, scrolling: false});
+        $(".example88").colorbox({width:"430px", inline:true, href:"#inline_example1", opacity: 0.7, scrolling: false});
+
+        $(".example8888").colorbox({width:"430px", inline:true, href:"#inline_example14", opacity: 0.7, scrolling: false});
+        $(".example888").colorbox({width:"430px", inline:true, href:"#inline_example13",opacity: 0.7, scrolling: false});
+
+        $('.espnTrackImport').colorbox({width:"430px", inline:true, href:"#espnTrackImport", opacity: 0.7, scrolling: false});
+        $('.yahooTrackImport').colorbox({width:"430px", inline:true, href:"#yahooTrackImport", opacity: 0.7, scrolling: false});
+
+        $("#click").click(function(){
+            $('#click').css({
+                    "background-color": "#f00",
+                    "color": "#fff",
+                    "cursor": "inherit"
+                })
+                .text("Open this window again and this message will still be here.");
+            return false;
+        });
+
+        function findValueCallback(event, data, formatted) {
+            $("<li>").html( !data ? "No match!" : "Selected: " + formatted).appendTo("#result");
+        }
+
+
+        function formatItem(row) {
+            return row[0] + " (<strong>id: " + row[1] + "</strong>)";
+        }
+        function formatResult(row) {
+            return row[0].replace(/(<.+?>)/gi, '');
+        }
+
+        $("#suggest4").autocomplete('lib/teams_data.php', {
+            width: 300,
+            multiple: true,
+            matchContains: true,
+            formatResult: formatResult
+        });
+        function findValueCallback(event, data, formatted) {
+            $("<li>").html( !data ? "No match!" : "Selected: " + formatted).appendTo("#result");
+        }
+
+        function formatItem(row) {
+            return row[0] + " (<strong>id: " + row[1] + "</strong>)";
+        }
+        function formatResult(row) {
+            return row[0].replace(/(<.+?>,)/gi, '');
+        }
+
+        $("#suggest4").autocomplete('lib/data.php', {
+            width: 300,
+            multiple: true,
+            matchContains: false,
+            formatResult: formatResult
+        });
+
+        $('.clickedit_player').click(function(){
+            var id = jQuery(this).attr('id');
+            var dataString = 'table_id='+id;
+            $.ajax({
+                type: "POST",
+                data: dataString,
+                cache: false,
+                url: 'http://fanbuzz.com/delete_player.php',
+                success: function(data) {
+                    $('.'+id).hide();
+                    window.location.href = "http://fanbuzz.com/tracking.php";
+                }
+            });
+        });
+
+        $('.clickedit_search').click(function(){
+            var id = jQuery(this).attr('id');
+            var dataString = 'table_id='+id;
+            $.ajax({
+                type: "POST",
+                data: dataString,
+                cache: false,
+                url: 'http://fanbuzz.com/delete_leauge.php',
+                success: function(data) {
+                    $('.'+id).hide();
+                    window.location.href = "http://fanbuzz.com/search.php";
+                }
+            });
+        });
+
+        $('a.btn-ok, #dialog-overlay, #dialog-box').click(function () {
+            $('#dialog-overlay, #dialog-box').hide();
+            return false;
+        });
+
+        $(window).resize(function () {
+            if (!$('#dialog-box').is(':hidden')) popup();
+        });
+
+        if (persistmenu == "yes") {
+            var cookiename=(persisttype=="sitewide")? "switchmenu" : window.location.pathname
+            var cookievalue=get_cookie(cookiename)
+            if (cookievalue!="") {
+                document.getElementById(cookievalue).style.display="block"
+            }
+        }
+
+        $('#close').click(function(){
+            $('#league').html('');
+            $("input[type=checkbox]:checked").attr('checked','');
+        })
+
+    });
+
+    var persistmenu="yes"
+    var persisttype="sitewide"
+
+    if (document.getElementById) {
+        document.write('<style type="text/css">\n')
+        document.write('.submenu{display: none;}\n')
+        document.write('</style>\n')
+    }
+
+    if (persistmenu=="yes" && document.getElementById) {
+        window.onunload=savemenustate
+    }
+</script><style type="text/css">
+.submenu{display: none;}
+</style>
+
+<link type="text/css" rel="stylesheet" href="css/popup.css">
+<script language="javascript">
+    function loadPopup() {
+        $("#backgroundPopup").css({"opacity": "0.7"});
+        $("#backgroundPopup").fadeIn("fast");
+        $("#popupContact").slideDown("slow");
+    }
+
+    function loadPopupmsg() {
+        $("#backgroundPopup").css({"opacity": "0.7"});
+        $("#backgroundPopup").fadeIn("medium");
+        $("#popupContact1").slideDown("medium");
+    }
+    function disablePopup() {
+        $("#backgroundPopup").fadeOut("medium");
+        $("#popupContact").slideUp("medium");
+    }
+
+    function centerPopup() {
+        var windowWidth = document.documentElement.clientWidth;
+        var windowHeight = document.documentElement.clientHeight;
+        var popupHeight = $("#popupContact").height();
+        var popupWidth = $("#popupContact").width();
+        $("#popupContact").css({"position": "absolute","top": windowHeight/2-popupHeight/2,"left": windowWidth/2-popupWidth/2});
+        $("#backgroundPopup").css({"height": windowHeight});
+    }
+
+    $(document).ready(function() {
+        $(".popup").click(function() {
+            $("#popupContact").show();
+			centerPopup();
+            loadPopup();
+        });
+
+
+        $("#popupContactClose, .c_btn").click(function(){
+			$("#popupContact").hide();
+            disablePopup();
+        });
+
+
+        $(document).keypress(function(e) {
+            if(e.keyCode==27)//Disable popup on pressing `ESC`
+            {
+				$("#popupContact").hide();
+                disablePopup();
+            }
+        });
+    });
+</script>
+<div id="backgroundPopup"></div>
+<form action="login.php" method="post">
+	<div id="popupContact">
+		<a id="popupContactClose"><img src="images/close.png" alt="close" width="18" height="18"></a>
+		<div id="popup_head"><h1>Sign in to Fanbuzz</h1></div>
+		<div id="contactArea">
+			<div class="cent"><h3>Sign in</h3></div>
+			<div class="cent">
+				<input type="text" name="username" placeholder="Username" required="" style="height:20px;">
+			</div>
+			<div class="cent">
+				<input type="password" name="password" placeholder="Password" required="" style="height:20px;">
+			</div>
+			<div class="cent">
+				<span class="dwn"><input type="checkbox" name="remember" value="1" class="checkbox_width">Remember me </span>
+				<a href="forgot_pass.php">Forgot password?</a>
+			</div>
+		</div>
+		<div id="buttonArea">
+			<div id="Sharer_btns">
+				<input type="submit" name="login" value="Sign in" class="sub">
+			</div>
+		</div>
+		<div style="width:80%; float:left; font-size: 16px; text-align:left; padding-left:20px;">
+			<div style="margin-bottom: 5px; margin-top: 10px;">Don't have an account?</div>
+            <div style="float: left; clear: left;"><a style="font-size: 16px;" href="index.php">Register</a> or &nbsp;</div>
+   			<a href="twitter_2/redirect.php"><img src="twitter_2/images/darker.png"></a>
+		</div>
+	</div>
+</form>
+<input type="hidden" id="txtHint1">
+
+<div id="hadder">
+    <div class="wrapper">
+        <div class="main_hadder">
+            <div class="logo">
+                <a href="/"><img src="images/fanbuzzlogo.png" width="150" height="42" alt=""></a>
+            </div>
+            <form method="get" action="more_s.php">
+                <input name="result" type="text" class="se_field" id="serch" onkeyup="showResult(this.value)" autocomplete="off">
+                <button type="submit" class="search_btn" onclick="location.href='all-'" value="Search"><i class="icon-search"></i></button>
+            </form>
+             <div id="livesearch" class="search_box" style="display: none;"></div>
+            <div id="myslidemenu" class="jqueryslidemenu" style="max-width: 490px; width: auto;">
+    <ul>
+                <li><a href="trending">Trending </a></li>
+                <li>
+            <a href="/community">Community</a>
+        </li>
+    </ul>
+    <br style="clear: left">
+</div>
+            <div class="hadder_right">
+                                    <a href="#" class="popup"><button class="sign_btn">Sign in</button></a>
+                            </div>
+        </div>
+    </div>
+</div>
+
+<div id="navigation">
+    <div class="wrapper">
+        <div class="nav">
+            <ul>
+                <li>TRENDING</li>
+                <li><img src="images/trending_div.png" vertical-align="middle" width="21" height="21" alt=""></li>
+               	            </ul>
+        </div>
+        <div class="clear"></div>
+    </div>
+</div>
+
+<style type="text/css">
+    .about {
+        padding-left: 30px;
+        width: 910px;
+    }
+    .about h3 {
+        font-weight: bold;
+        float: none;
+        clear: both;
+        font-size: 25px;
+        text-indent: 0;
+        margin-top: 10px;
+    }
+    .about p {
+        color: #363636;
+        float: none;
+        font-size: 14px;
+    }
+</style>
+
+<div id="middle">
+    <div class="wrapper">
+        <div id="container_about">
+            <h1 class="text_head">Privacy</h1>
+            <div class="about">
+                <h3>Website Visitors</h3>
+<p>Like most website operators, FanBuzz collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. FanBuzz’s purpose in collecting non-personally identifying information is to better understand how FanBuzz’s visitors use its website. From time to time, FanBuzz may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.</p>
+<p>FanBuzz also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving content on FanBuzz.com. FanBuzz only discloses logged in user IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below.</p>
+<h3>Gathering of Personally-Identifying Information</h3>
+<p>Certain visitors to FanBuzz’s websites choose to interact with FanBuzz in ways that require FanBuzz to gather personally-identifying information. The amount and type of information that FanBuzz gathers depends on the nature of the interaction. For example, we ask visitors who sign up for a blog at FanBuzz.com to provide a username and email address. Those who engage in transactions with FanBuzz are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, FanBuzz collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with FanBuzz. FanBuzz does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.</p>
+<h3>Aggregated Statistics</h3>
+<p>FanBuzz may collect statistics about the behavior of visitors to its websites. For instance, FanBuzz may monitor the most popular users on the FanBuzz.com site or in the use to help identify spam. FanBuzz may display this information publicly or provide it to others. However, FanBuzz does not disclose personally-identifying information other than as described below.</p>
+<h3>Protection of Certain Personally-Identifying Information</h3>
+<p>FanBuzz discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on FanBuzz’s behalf or to provide services available at FanBuzz’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using FanBuzz’s websites, you consent to the transfer of such information to them. FanBuzz will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, FanBuzz discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when FanBuzz believes in good faith that disclosure is reasonably necessary to protect the property or rights of FanBuzz, third parties or the public at large. If you are a registered user of a FanBuzz website and have supplied your email address, FanBuzz may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with FanBuzz and our products. We primarily use our blog  to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. FanBuzz takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.</p>
+<h3>Cookies</h3>
+<p>A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. FanBuzz uses cookies to help FanBuzz identify and track visitors, their usage of FanBuzz website, and their website access preferences. FanBuzz visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using FanBuzz’s websites, with the drawback that certain features of FanBuzz’s websites may not function properly without the aid of cookies.</p>
+<h3>Business Transfers</h3>
+<p>If FanBuzz, or substantially all of its assets, were acquired, or in the unlikely event that FanBuzz goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of FanBuzz may continue to use your personal information as set forth in this policy.</p>
+<h3>Ads</h3>
+<p>Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by FanBuzz and does not cover the use of cookies by any advertisers.</p>
+<h3>Privacy Policy Changes</h3>
+<p>Although most changes are likely to be minor, FanBuzz may change its Privacy Policy from time to time, and in FanBuzz’s sole discretion. FanBuzz encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a FanBuzz.com account, you should also check your blog’s dashboard for alerts to these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.</p>            </div>
+            <div class="clear"></div>
+        </div>
+    </div>
+</div>
+
+        <div id="footer">
+            <div class="wrapper">
+                <div class="ft_left">
+                    <div class="foot">
+                        <ul>
+                            <li>© 2012 FanBuzz</li><li>
+                            </li><li><a href="mailto:example@example.com">Contact</a></li>
+                            <li><a href="privacy">Privacy</a></li>
+                            <li><a href="term-condition">Terms</a></li>
+                            <li><a href="http://blog.fanbuzz.com">Blog</a></li>
+                            <li><a href="http://help.fanbuzz.com">Help</a></li>
+                            <li><a href="about-us">About</a></li>
+                            <li style="margin-right: 20px;"><a href="http://espn.go.com"><img src="images/espn-grey_50.png" alt="ESPN"></a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </div>
+    
+<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="display: none; padding-bottom: 57px; padding-right: 28px;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" style="width: 0px; height: 0px; overflow: hidden; float: left;"></div><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><div id="cboxNext" style="float: left;"></div><div id="cboxPrevious" style="float: left;"></div><div id="cboxSlideshow" style="float: left;"></div><div id="cboxClose" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div></body></html>
