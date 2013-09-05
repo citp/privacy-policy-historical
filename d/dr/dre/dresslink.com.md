@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dresslink.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506145501id_/http%3A//www.dresslink.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dresslink.com privacy policy that was archived on 2013-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130905212605id_/http%3A//www.dresslink.com/html/privacy.html) for the most accurate reproduction.*
 
-# Copyright - The world's premier online fashion destination | DRESSLINK.COM | Women's designer clothes, shoes, bags & accessories
+# Privacy Policy - Global Online Shopping from Dresslink
 
 Dresslink.com respects your privacy and secures your online safety seriously. In order to provide you with the best products, efficient customer service, and fast updates, we record a variety of information from your visit to our site. To better protect your privacy, we'd like to explain our online information practices and the way your information is collected and used.
 
