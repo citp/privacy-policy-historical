@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deals.com.au privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531133133id_/http%3A//deals.com.au/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deals.com.au privacy policy that was archived on 2013-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130905135735id_/http%3A//deals.com.au/info/privacy-policy) for the most accurate reproduction.*
 
 # Deals - Privacy Policy
 
