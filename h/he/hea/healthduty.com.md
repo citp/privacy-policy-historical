@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthduty.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628071935id_/http%3A//www.healthduty.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthduty.com privacy policy that was archived on 2013-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130906003222id_/http%3A//www.healthduty.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Weight Loss, Fitness, Exercise, and Health — Weight Loss Journa
 
