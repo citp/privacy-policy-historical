@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outrate.net privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531072541id_/http%3A//www.outrate.net/home/ctl/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outrate.net privacy policy that was archived on 2013-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130905230444id_/http%3A//www.outrate.net/home/ctl/privacy.aspx) for the most accurate reproduction.*
 
 # OutRate.net: US Comparison Shopping for Stores and Brands
 
