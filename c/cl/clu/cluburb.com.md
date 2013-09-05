@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cluburb.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530002955id_/http%3A//cluburb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cluburb.com privacy policy that was archived on 2013-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130905085745id_/http%3A//cluburb.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - CLUBURB
+# Privacy Policy - CLUBURB | Your Guide to The Latest in Hyderabad Lifestyle
 
 Our Commitment to Privacy  
 Welcome to ClubUrb.com. For the purposes of this Privacy Policy, the terms “ClubUrb”, “this”, “Web Site”, “we”, “us”, “our”, “company” shall mean ClubUrb.com and the terms “user”, “you” refer to you, the user of this Web Site.
