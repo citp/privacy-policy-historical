@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the copperegg.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621033033id_/http%3A//copperegg.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the copperegg.com privacy policy that was archived on 2013-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130905092046id_/http%3A//copperegg.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CopperEgg Corp.
 
