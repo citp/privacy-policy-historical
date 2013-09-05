@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalewallet.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620192333id_/https%3A//globalewallet.com/public/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalewallet.com privacy policy that was archived on 2013-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130905140022id_/https%3A//globalewallet.com/public/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # globalewallet.com
 
