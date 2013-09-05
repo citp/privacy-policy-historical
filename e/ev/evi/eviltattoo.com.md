@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eviltattoo.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615014357id_/http%3A//www.eviltattoo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eviltattoo.com privacy policy that was archived on 2013-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130905194820id_/http%3A//www.eviltattoo.com/privacy.html) for the most accurate reproduction.*
 
 # Eviltattoo.com - Privacy Policy
 
