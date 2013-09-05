@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the monstercable.com privacy policy that was archived on 2013-05-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130510072457id_/http%3A//www.monstercable.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the monstercable.com privacy policy that was archived on 2013-09-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130905110339id_/http%3A//www.monstercable.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Monster Cable - Privacy Policy</title>
@@ -160,7 +160,43 @@ window.onload = init;
                 $(this).attr("src", "/images_home/menu/checkout_off.gif");
             }
         );
+
+       
+        var randomNum = jQuery.Random(1, 2);
+        
+        if (randomNum == 1)
+        {
+            $("#promotion-notification-1").show();
+            $("#promotion-notification-2").hide();
+        }else
+        {
+            $("#promotion-notification-1").hide();
+            $("#promotion-notification-2").show();
+        }
+        $("#promotion-notification-1").click(function(){
+            $("#promotion-fineprint-1").slideDown("slow");
+        });
+
+        $("#promotion-close-1").click(function(){
+            $("#promotion-fineprint-1").slideUp("slow");
+        });
+
+        $("#promotion-notification-2").click(function(){
+            $("#promotion-fineprint-2").slideDown("slow");
+        });
+
+        $("#promotion-close-2").click(function(){
+            $("#promotion-fineprint-2").slideUp("slow");
+        });
+       
+
     });
+
+    jQuery.Random = function(m,n) {
+        m = parseInt(m);
+        n = parseInt(n);
+        return Math.floor( Math.random() * (n - m + 1) ) + m;
+    }
 </script>
 <!--For The ThickBox-->
 <div style="position: relative; z-index: 2000;">
@@ -230,6 +266,46 @@ window.onload = init;
                         </form>
                     </div>
                     
+                    <div id="promotion-notification-1" style="display:none;float:left;width:330px;color:white;font-weight:bold;font-size:12px;position:absolute;top:34px;right:245px;white-space:nowrap;cursor:help;">$50 off Inspiration Headphones with coupon: <span style="color:red;z-index:1000;font-weight:bold;">inspiration50</span> </div>
+                    <div id="promotion-fineprint-1" style="display:none;z-index:10000;background-color:white;position:absolute;padding:10px 20px 30px 30px; top:60px;right:180px; width:480px; height:175px;border: 1px solid #a1a1a1;font-size:13px;clear:both;">
+                        <div style="float:right;margin-bottom:10px;color:#900;"><a id="promotion-close-1" href="#" style="color:#900;">close x</a></div>
+                        <div style="clear:both;" class="promotion-content">
+                            <h4 style="color:#333;font-size:13px;padding:0;">Promotion available for Inspiration Over-Ear Headphones only.</h4><br>
+
+                            <ul style="list-style-position: inside;margin-top:8px;padding-top:0;"><li>Promotion ends 9/30/2013 </li>
+                                <li>Coupon cannot be combined with any other offer</li><li>Not valid on refurbished items</li>
+                                <li style="white-space:nowrap;">Coupons are valid for orders placed and shipped within the United States only.</li>
+                            </ul><br>
+                            <p style="color:#333 !important;">Use coupon code <b>inspiration50</b> at checkout</p>
+                            <p style="padding-top:10px;"><a href="/headphones/headphoneslist.asp?custom=inspiration" style="color:#900;">Click here to get Inspiration Headphones.</a></p>
+                        </div>
+
+                    </div>      
+                    <div id="promotion-notification-2" style="display:none;float:left;width:320px;color:white;font-weight:bold;font-size:12px;position:absolute;top:34px;right:260px;white-space:nowrap;cursor:help;">$30 off selected DNA headphones with coupon: <span style="color:#73bd44;z-index:1000;font-weight:bold;">2013DNA30</span> </div>
+                    <div id="promotion-fineprint-2" style="display:none;z-index:10000;background-color:white;position:absolute;padding:10px 20px 30px 30px; top:60px;right:180px; width:480px; height:310px;border: 1px solid #a1a1a1;font-size:13px;clear:both;">
+                        <div style="float:right;margin-bottom:10px;color:#900;"><a id="promotion-close-2" href="#" style="color:#900;">close x</a></div>
+                        <div style="clear:both;" class="promotion-content">
+                            <h4 style="color:#333;font-size:13px;padding:0;">Promotion available on Selected DNA Heaphones Only.</h4><br>
+                            <ul style="list-style-position: inside;margin-top:8px;padding-top:0;">Valid for the following headphones only
+                                <li>DNA On-Ear Cobalt Blue / Light Grey</li>
+                                <li>DNA On-Ear Black / Black</li>
+                                <li>DNA On-Ear White / Light Grey</li>
+                                <li>DNA On-Ear Black / Red</li>
+                                <li>DNA In-Ear White with Apple ControlTalk<sup>™</sup></li>
+                                <li>DNA In-Ear Black with Apple ControlTalk<sup>™</sup></li>
+
+                            </ul>
+                            <br>
+                            <ul style="list-style-position: inside;"><li>Promotion ends 9/30/2013 </li>
+                                <li>Coupon cannot be combined with any other offer</li><li>Not valid on refurbished items</li>
+                                <li style="white-space:nowrap;">Coupons are valid for orders placed and shipped within the United States only.</li>
+                            </ul><br>
+                             <p style="color:#333 !important;">Use coupon code <b>2013DNA30</b> at checkout</p>
+                            <p style="padding-top:10px;"><a href="/headphones/dna/default.asp#128901-00)" style="color:#900;">Click here to get DNA Headphones.</a></p>
+                        </div>
+
+                    </div>  
+
                 </div>
             </div>
             <div class="cldv">
@@ -293,8 +369,8 @@ window.onload = init;
                     <li id="sub1_12" class="subSep"><div><div>|</div></div></li>
                     <li id="sub1_2" rel="cat"><div><div>Headphones</div></div></li>
                     <li id="sub1_23" class="subSep"><div><div>|</div></div></li>
-                    <li id="sub1_3" rel="cat"><div><div>Computer</div></div></li>
-                    <li id="sub1_34" class="subSep"><div><div>|</div></div></li>
+                   <!-- <li id="sub1_3" rel="cat"><div><div>Computer</div></div></li>
+                    <li id="sub1_34" class="subSep"><div><div>|</div></div></li>-->
                     <li id="sub1_4" rel="cat"><div><div>Mobile &amp; MP3</div></div></li>
                     <li id="sub1_45" class="subSep"><div><div>|</div></div></li>
                     <li id="sub1_5" rel="cat"><div><div>Automotive</div></div></li>
@@ -305,6 +381,9 @@ window.onload = init;
                     <li id="sub1_78" class="subSep"><div><div>|</div></div></li>
                     <li id="sub1_8" rel="cat"><div><div>Music &amp; Video</div></div></li>
                     <li id="sub1_89" class="subSep"><div><div>|</div></div></li>
+                    <li id="sub1_10" rel="swag"><div><div><a href="/swag/">Swag Store</a></div></div></li>
+                    <li id="Li1" class="subSep"><div><div>|</div></div></li>
+                    
                     <li id="sub1_9" rel="outlet"><div><div><a href="/outletstore/">Outlet Store</a></div></div></li>
                     <li id="sub1_910" class="subSep"><div><div></div></div></li>
                     <li>&nbsp;</li>
@@ -341,10 +420,12 @@ window.onload = init;
             <div id="submenu_9" class="subMenu1" style="right:0px;">
             	<ul class="InfoSub">
                		<li>&nbsp;</li>
-                    <li id="sub8A"><div><a href="/artistroster/">Monster Artist Roster</a></div><span>|</span></li>
+                    <li id="sub8A"><div><a href="/live/">Powered By Monster</a></div><span>|</span></li>
+                    <li id="sub8B"><div><a href="/artistroster/">Monster Artist Roster</a></div><span>|</span></li>
 <!--                    <li id="sub8G"><div><a href="/emerging/default.asp">Emerging Famous Monsters</a></div><span>|</span></li>
                     <li id="sub8B"><div><a href=".monsterdj.com/">Monster DJ</a></div><span>|</span></li> -->
                     <li id="sub8C"><div><a href="http://www.monstermusic.com/">Monster Music</a></div><span>|</span></li>
+                    <li id="sub8G"><div><a href="/swag/">Swag Store</a></div><span>|</span></li>
                     <li id="sub8D"><div><a href="/press/">News &amp; Press</a></div><span>|</span></li>
                     <li id="sub8E"><div><a href="/company_info/">Company Info</a></div><span>|</span></li>
                     <li id="sub8F"><div><a href="/morefrommonster/">Learning</a></div></li>
@@ -479,6 +560,13 @@ window.onload = init;
                                     <li><a href="/custom_install/custom_installation.asp">All products</a></li>
                                 </ul>
                             </div>
+
+                            <div class="foH2">Swag Store</div>
+                            <div>
+                                <ul class="foUL">
+                                    <li><a href="/swag/">All products</a></li>
+                                </ul>
+                            </div>
 						</div>
                     </div>
                     <div class="cldv">&nbsp;</div>
@@ -510,7 +598,7 @@ window.onload = init;
                             <div class="foH1"><div>COLLECTIONS</div></div>
                             <div>
                                 <ul class="foUL">
-                                	<li><a href="/headphones/headphoneslist.asp?catid=200">Inspiration</a></li>
+                                	<li><a href="/headphones/headphoneslist.asp?custom=inspiration">Inspiration</a></li>
                                     <li><a href="/headphones/headphoneslist.asp?custom=dna">DNA</a></li>
                                     <li><a href="/headphones/headphoneslist.asp?custom=ncredible">NCredible</a></li>
                                     <li><a href="/headphones/headphoneslist.asp?custom=monstergame">Gaming</a></li>
@@ -1175,6 +1263,7 @@ window.onload = init;
                             <h3>Monster Family</h3>
                             <div>
                                 <ul class="footerUL">
+                                    <li><div><a href="/live/">Powered By Monster</a></div></li>
                                     <li><div><a href="/artistroster/">Monster Artist Roster</a></div></li>
                                     <li><div><a href="/social/">Social Monster</a></div></li>
                                     <li><div><a href="http://www.Facebook.com/monsterproducts">Monster on Facebook</a></div></li>
@@ -1289,18 +1378,26 @@ window.onload = init;
                     </div>
                     
                  
-                 <div class="footerLinksVerify" style="padding: 13px 0 18px 0;">
-                     <ul style="text-align:left; margin:0;">
-                         <li class="first" style="padding: 0 10px 0 0;"><a href="/gl_include/utilities/callout_list-v2.asp" class="fancybox-beware">BEWARE OF COUNTERFEITS, DON'T BE FOOLED</a></li>
+                 <div class="footerLinksVerify">
+                     <ul style="text-align:left; margin:22px 0 0 75px;">
+                        <li class="first" style="padding: 0 10px 0 0;"><a href="/gl_include/utilities/callout_list-v2.asp" class="fancybox-beware">BEWARE OF COUNTERFEITS, DON'T BE FOOLED</a></li>
                          <li><a href="/service/?verifyserial=true">VERIFY YOUR PRODUCT BEFORE YOU BUY</a></li>
                      </ul>   
-                 </div>
+               </div>
+               
+               <div class="cldv">&nbsp;</div>
                     
                     
+                    <div style="font-size:10px; color:#999;padding:5px 0 3px 0;">* Get free shipping on purchases of $50 or more.</div>
                     
-                    
-<div class="footerApplelegal2">
-iPad, iPhone, iPod, iPod classic, iPod nano, iPod shuffle, and iPod touch are trademarks of Apple Inc., registered in the U.S. and other countries.
+
+<div class="footerApplelegal2" style="text-align:left; margin:0;">
+"Made for iPod," "Made for iPhone" and "Made for iPad" mean that an electronic accessory has been designed to connect specifically to iPod, iPhone, or iPad, respectively, 
+    and has been certified by the developer to meet Apple performance standards. Apple is not responsible for the operation of this device or its compliance with safety and regulatory standards. 
+    Please note that the use of this accessory with iPod, iPhone, or iPad may affect wireless performance. The remote and mic are supported only by iPhone 3GS or later, iPad, iPod touch 
+    (2nd generation or later), iPod classic (120GB, 160GB), and iPod nano (4th generation or later). The remote is supported by iPod shuffle (3rd generation or later). 
+    Audio is supported by all iPad and iPod models. iPad, iPhone, iPod, iPod classic, iPod nano, and iPod touch are trademarks of Apple Inc., registered in the U.S. and other countries. 
+    Find complete music phone compatibility: monstercable.com/mp3/controltalkworks
 </div>
 
                         
@@ -1336,6 +1433,26 @@ iPad, iPhone, iPod, iPod classic, iPod nano, iPod shuffle, and iPod touch are tr
 <!-- BEGIN JS SEGMENT TAG â€“ BazaarVoice DO NOT MODIFY -->
 <script src="http://ad1.bv-rp.com/ansn-creative/dynads/ServeS3.ashx/autotag.js" type="text/javascript"></script>
 <!-- END Bazaarvoice TAG -->
+
+<!-- BEGIN GA X Domain DO NOT MODIFY -->
+<script type="text/javascript">
+    $(function () {
+
+        var _mcTgaf = $("#prca") ? $("#prca") : $("form[name=add-to-cart");
+        try {
+            if (_mcTgaf) {
+                $(_mcTgaf).submit(function () {
+                    _gaq.push(['_linkByPost', this]);
+                });
+            }
+        } catch (e) {
+            if (window.console) {
+                console.log(e);
+            }
+        }
+    });
+</script>
+<!-- END GA X Domain  -->
 
 
 </div>
