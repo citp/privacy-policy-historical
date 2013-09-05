@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerofpositivity.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511003109id_/http%3A//powerofpositivity.com/test/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerofpositivity.com privacy policy that was archived on 2013-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130906014400id_/http%3A//powerofpositivity.com/test/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - powerofpositivity.com | powerofpositivity.com
 
