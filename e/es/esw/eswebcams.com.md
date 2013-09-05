@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eswebcams.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517113204id_/http%3A//www.eswebcams.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eswebcams.com privacy policy that was archived on 2013-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130905165802id_/http%3A//www.eswebcams.com/privacy) for the most accurate reproduction.*
 
 # Cams
 
