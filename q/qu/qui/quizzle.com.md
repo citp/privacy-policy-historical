@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quizzle.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523133411id_/https%3A//www.quizzle.com/security-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizzle.com privacy policy that was archived on 2013-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130905212055id_/https%3A//www.quizzle.com/security-and-privacy) for the most accurate reproduction.*
 
 # Security & Privacy | Quizzle
 
@@ -7,6 +7,7 @@
   * [Get Started](https://www.quizzle.com/get-started)
   * [What is Quizzle](https://www.quizzle.com/what-is-quizzle)
   * [Credit Builder Tools](https://www.quizzle.com/how-to-build-credit)
+  * [Using Your Credit](https://www.quizzle.com/using-your-credit/)
   * [Why Use Quizzle](https://www.quizzle.com/why-use-quizzle)
   * [Our Company](https://www.quizzle.com/company)
   * [Help & Contact Us](https://www.quizzle.com/contact-us)
@@ -71,7 +72,7 @@ Here is a description of the information we collect and how it is used:
 
 
 
-[Top of Page](https://www.quizzle.com/security-and-privacy#page-title)
+[Top of Page](https://www.quizzle.com/security-and-privacy#page_title)
 
 ### We Work to Protect Personally Identifiable Information from Loss, Misuse, or Unauthorized Alteration.
 
@@ -84,7 +85,7 @@ We employ industry recognized security safeguards to help protect the personally
 
 
 
-[Top of Page](https://www.quizzle.com/security-and-privacy#page-title)
+[Top of Page](https://www.quizzle.com/security-and-privacy#page_title)
 
 ## We Tell You How and Why We Use Web Technologies.
 
@@ -109,22 +110,22 @@ We do not share your information outside the _Quizzle_ Family of companies for p
 
 
 
-[Top of Page](https://www.quizzle.com/security-and-privacy#page-title)
+[Top of Page](https://www.quizzle.com/security-and-privacy#page_title)
 
 ## We Give You Choices About How the Personally Identifiable Information that You Provide to Us May be Used.
 
 We give you the opportunity to control the use of your personal information for purposes other than to fulfill your request or as is required to process, close and subsequently service your loan.
 
-[Top of Page](https://www.quizzle.com/security-and-privacy#page-title)
+[Top of Page](https://www.quizzle.com/security-and-privacy#page_title)
 
 ## We Provide You the Opportunity to Update or Correct your Personally Identifiable Information.
 
 We provide you the opportunity to update or correct the contact information that you have provided to us. You may review and update information stored online.
 
-[Top of Page](https://www.quizzle.com/security-and-privacy#page-title)
+[Top of Page](https://www.quizzle.com/security-and-privacy#page_title)
 
 ## We Provide Various Ways for You to Contact Us About Our Information Practices and Other Aspects of Privacy.
 
 Questions regarding the _Quizzle_ web site’s privacy statement, our online privacy policy, our information practices or other aspects of privacy on our web sites, should be directed to us by e-mail to [support@quizzle.com](mailto:support@quizzle.com) or by writing to us at _Quizzle_ LLC, Attn: Customer Service, 1042 Woodward Avenue, Detroit, MI 48226-1906. You may call us at (800) 784-9953.
 
-[Top of Page](https://www.quizzle.com/security-and-privacy#page-title)
+[Top of Page](https://www.quizzle.com/security-and-privacy#page_title)
