@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-ringtones.cc privacy policy that was archived on 2012-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120101024202id_/http%3A//www.free-ringtones.cc/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-ringtones.cc privacy policy that was archived on 2013-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130906071929id_/http%3A//www.free-ringtones.cc/privacy.php) for the most accurate reproduction.*
 
 # Free iPhone Ringtones
 
@@ -6,7 +6,7 @@
 
 Welcome to free-ringtones.cc  
 BY USING OR ACCESSING THE SITE OR ANY OF THE SERVICES, YOU ARE ACCEPTING THIS PRIVACY POLICY. IF ANYTHING HERE OFFENDS YOU OR YOU DO NOT WISH TO BE BOUND BY IT, PLEASE DO NOT ACCESS OR USE THE SITE OR ANY OF ITS SERVICES.  
-This Privacy Policy should be read together and in conjunction with our binding [Terms of Use ](https://web.archive.org/web/20120101024202id_/http%3A//www.free-ringtones.cc/terms.php)("Terms").   
+This Privacy Policy should be read together and in conjunction with our binding [Terms of Use ](https://web.archive.org/web/20130906071929id_/http%3A//www.free-ringtones.cc/terms.php)("Terms").   
 Any term defined in the Terms shall have the same meaning under this Policy.
 
 First and foremost you should know that anything and everything you post, upload, send to anyone or publish within the Site and its services is never private, can and will be accessible for others for a long period of time and also may be posted by the Site, anywhere on the Site. Therefore, please DO NOT POST ANYTHING YOU WISH TO REMAIN CONFIDENTIAL OR IN BREACH OF ANYONE'S RIGHT. 
@@ -24,7 +24,7 @@ When you post any content to the Site, we also may collect the following informa
 Apart from the mentioned above and the material you load on to the Site, the Site does not collect any details of any kind of its users
 
 Please note that such information or any part thereof may be available to other persons using the Site. You are specifically aware that we may allow access to some or all past content, information and posts as we may decide at any relevant time. Showing or hiding such information, content and posts may not allow you or anyone else any claim against us, for any cause whatsoever.  
-We may collect additional information from or about you in other ways not specifically described here. For example, we may collect information related to your contacts with us by email or by any other way.
+We may collect additional information from or about you in other ways not specifically described here. For example, we may collect information related to your contacts with us by email or by any other way. 
 
 #### Use of Information, Sharing and Disclosure:
 
@@ -35,19 +35,19 @@ We may use any of your non-identifying or personal information to:
   * better personalize the Site to your and to other user's taste;
   * provide the Service you request;
   * offer better and more interesting services;
-  * manage the Site and resolve any relevant disputes, if applicable; 
+  * manage the Site and resolve any relevant disputes, if applicable;
   * prevent potentially prohibited or illegal activities, and enforce our Terms and this Policy;
   * send you targeted marketing, service update notices, and promotional offers, both from the Site or third parties; 
-  * exchange or transfer information to third parties who wish to offer you commercial and other benefits.
+  * exchange or transfer information to third parties who wish to offer you commercial and other benefits. 
 
 
 
 We may use by ourselves or share information and content with third parties for the purpose of sending you promotional and advertising products and services in order to allow you a better and more targeted experience.  
 We may further disclose the information and content stored by us, including any personally identifiable information about you, in the following instances:
 
-  * We believe, in our sole discretion, that the law requires us or we have to respond to the legal authority of any relevant jurisdiction.
-  * We have been requested to do so by an authorized authority, by court order or by similar procedure;
-  * We believe, in our sole discretion, that your actions while you were using the Site violate our Terms, any law, any agreement or any third party's rights;
+  * We believe, in our sole discretion, that the law requires us or we have to respond to the legal authority of any relevant jurisdiction. 
+  * We have been requested to do so by an authorized authority, by court order or by similar procedure; 
+  * We believe, in our sole discretion, that your actions while you were using the Site violate our Terms, any law, any agreement or any third party's rights; 
   * We believe, in our sole discretion, that the disclosure of such information is necessary to prevent or minimize physical harm or financial loss, to report suspected illegal activity or may be interfering with the our rights or property, with those of other users or any third party. 
 
 
@@ -64,7 +64,7 @@ Advertisements that appear on the Service might be delivered to users by third p
 
 #### Changing or Removing Information
 
-You may report any inaccuracies in personal information or other information which you wish to edit by e-mailing us at [webmaster@free-ringtones.cc](mailto:webmaster@free-ringtones.cc) . We will make a sincere effort to respond in a timely manner to your requests to correct inaccuracies.
+You may report any inaccuracies in personal information or other information which you wish to edit by e-mailing us at [freeringtonescc@gmail.com](mailto:freeringtonescc@gmail.com) . We will make a sincere effort to respond in a timely manner to your requests to correct inaccuracies.
 
 #### Links
 
@@ -81,6 +81,6 @@ It is your responsibility to review this Policy for changes and make sure you ag
 
 #### Contacting Us:
 
-If you have questions or concerns regarding this Privacy Policy, you are invited to contact us by using the "[Contact Us](https://web.archive.org/web/20120101024202id_/http%3A//www.free-ringtones.cc/contactus.php)" links or by emailing us to 
+If you have questions or concerns regarding this Privacy Policy, you are invited to contact us by using the "[Contact Us](https://web.archive.org/web/20130906071929id_/http%3A//www.free-ringtones.cc/contactus.php)" links or by emailing us to 
 
-_[webmaster@free-ringtones.cc](mailto:webmaster@free-ringtones.cc)_
+_[freeringtonescc@gmail.com](mailto:freeringtonescc@gmail.com)_
