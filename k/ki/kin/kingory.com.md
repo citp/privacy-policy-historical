@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingory.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511100326id_/http%3A//www.kingory.com/Privacy_Policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingory.com privacy policy that was archived on 2013-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130906103042id_/http%3A//www.kingory.com/Privacy_Policy.jsp) for the most accurate reproduction.*
 
 # Kingory: Real-Time Strategy Flash Multiplayer FREE Web Game Based On The World's Most-Played Game Genre - Romance of Three Kingdoms.
 
