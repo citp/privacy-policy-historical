@@ -1,14 +1,15 @@
-<!--The following is the downloaded HTML source of the 7art-screensavers.com privacy policy that was archived on 2013-05-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130529233809id_/http%3A//7art-screensavers.com/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 7art-screensavers.com privacy policy that was archived on 2013-09-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130906212231id_/http%3A//7art-screensavers.com/privacy.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-<title>7art-screensavers - free screensavers to rise your sprits!</title>
+<title>7art-screensavers - free clock screensavers and live animated wallpapers</title>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-	<meta name="robots" content="noindex">
 	<meta name="distribution" content="global">
 	<meta name="rating" content="General">
-	<meta name="owner" content="Copyright 2002-2012 7art-screensavers.com">
-	<meta name="description" content="Best screensavers collection to rise your spirits - download over 500 screensavers and live animated wallpapers for Windows, Mac, Android: seasonal, holidays, nature, sci-fi and more">
+	<meta name="revisit-after" content="1 day">
+	<meta name="robots" content="index,follow">
+	<meta name="owner" content="Copyright 2013 7art-screensavers.com">
+	<meta name="description" content="Best screensavers collection - over 500 screensavers and live animated wallpapers for Windows, Mac, Android: seasonal, holidays, nature, sci-fi and more">
 	<meta name="verify-v1" content="5kLkWvGMUTjTBFDNixKvWnqx0TNLWriLmOOG+81TtMI=">
 	<link rel="icon" href="http://www.7art-screensavers.com/ico/7art-Logo.ico" type="image/x-icon">
 	<link rel="shortcut icon" http:="" www.7art-screensavers.com="" ico="" 7art-logo.ico"="">
@@ -32,7 +33,46 @@
 	  })();
 
 	</script>
-<style type="text/css">
+<script type="text/javascript" src="http://7art-screensavers.com/jquery-1.9.1.min.js"></script><script type="text/javascript">
+if (typeof jQuery != 'undefined') {
+    jQuery(document).ready(function($) {
+        var filetypes = /\.(zip|exe|pdf|doc*|xls*|ppt*|mp3)$/i;
+        var baseHref = '';
+        if (jQuery('base').attr('href') != undefined)
+            baseHref = jQuery('base').attr('href');
+        jQuery('a').each(function() {
+            var href = jQuery(this).attr('href');
+            if (href && (href.match(/^https?\:/i)) && (!href.match(document.domain))) {
+                jQuery(this).click(function() {
+                    var extLink = href.replace(/^https?\:\/\//i, '');
+                    _gaq.push(['_trackEvent', 'External', 'Click', extLink]);
+                    if (jQuery(this).attr('target') != undefined && jQuery(this).attr('target').toLowerCase() != '_blank') {
+                        setTimeout(function() { location.href = href; }, 200);
+                        return false;
+                    }
+                });
+            }
+            else if (href && href.match(/^mailto\:/i)) {
+                jQuery(this).click(function() {
+                    var mailLink = href.replace(/^mailto\:/i, '');
+                    _gaq.push(['_trackEvent', 'Email', 'Click', mailLink]);
+                });
+            }
+            else if (href && href.match(filetypes)) {
+                jQuery(this).click(function() {
+                    var extension = (/[.]/.exec(href)) ? /[^.]+$/.exec(href) : undefined;
+                    var filePath = href;
+                    _gaq.push(['_trackEvent', 'Download', 'Click-' + extension, filePath]);
+                    if (jQuery(this).attr('target') != undefined && jQuery(this).attr('target').toLowerCase() != '_blank') {
+                        setTimeout(function() { location.href = baseHref + href; }, 200);
+                        return false;
+                    }
+                });
+            }
+        });
+    });
+}
+</script><style type="text/css">
 h1 { font-family: Arial, Geneva, sans-serif; vertical-align: top; font-size: 17px;}
 TD { font-family: Verdana, Geneva, Arial, sans-serif; vertical-align: top; font-size: 13px; }
 TD.C16 { font-family: Verdana, Geneva, Arial, sans-serif; vertical-align: top; font-size: 16px; }
@@ -69,7 +109,10 @@ googletag.enableServices();
 });
 </script></head>
 
+
 <!-- copy to gheader start-->
+
+
 
 
 
@@ -122,6 +165,7 @@ googletag.enableServices();
 <tr><td class="c12g"> &nbsp; <a href="http://www.clock-desktop.com/aquarium_clock.shtml" target="_Blank">Aquarium Clock</a></td></tr>
 
 <tr><td class="c10"> <br>&nbsp; <b><u>Categories</u></b></td></tr>
+<tr><td class="c12g"> &nbsp; <a href="http://3d.7art-screensavers.com">3D premium</a></td></tr>
 <tr><td class="c12g"> &nbsp; <a href="http://7art-screensavers.com/Abstract.shtml">Abstract</a></td></tr>
 <tr><td class="c12g"> &nbsp; <a href="http://7art-screensavers.com/Animals.shtml">Animals</a></td></tr>
 <tr><td class="c12g"> &nbsp; <a href="http://7art-screensavers.com/Animated.shtml">Animated</a></td></tr>
@@ -139,7 +183,6 @@ googletag.enableServices();
 <tr><td class="c12g"> &nbsp; <a href="http://7art-screensavers.com/Interactive.shtml">Interactive</a></td></tr>
 <tr><td class="c12g"> &nbsp; <a href="http://7art-screensavers.com/Mac_OS_X.shtml">Mac</a></td></tr>
 <tr><td class="c12g"> &nbsp; <a href="http://7art-screensavers.com/Nature.shtml">Nature</a></td></tr>
-<tr><td class="c12g"> &nbsp; <a href="http://3d.7art-screensavers.com">Premium 3D</a></td></tr>
 <tr><td class="c12g"> &nbsp; <a href="http://7art-screensavers.com/SciFi.shtml">Sci Fi</a></td></tr>
 <tr><td class="c12g"> &nbsp; <a href="http://7art-screensavers.com/Slideshow.shtml">Slideshow</a></td></tr>
 <tr><td class="c12g"> &nbsp; <a href="http://7art-screensavers.com/Space.shtml">Space</a></td></tr>
@@ -226,7 +269,7 @@ googletag.enableServices();
 
 
 	<td colspan="3">
-	<b>&nbsp; <a href="http://7art-screensavers.com">Home</a></b>| <b><a href="https://play.google.com/store/apps/details?id=com.the7art.forestlakewallpaper&amp;referrer=utm_source%3Dgeneral_link%26utm_medium%3D7art-screensavers%26utm_campaign%3Dflowerparadewallpaper" target="_Blank">Android</a></b> | <b><a href="http://7art-screensavers.com/clock/">Clocks</a></b> | <b><a href="http://clipart.7art-screensavers.com">Wallpapers</a></b> | <b><a href="http://screenfinity.com/infinity/videos/" target="_Blank">Videos</a></b> | <b><a href="http://7art-screensavers.com/privacy.shtml">Privacy</a></b> | <b><a href="mailto:support@7art-screensavers.com" target="_Blank">Support</a></b>
+	<b>&nbsp; <a href="http://7art-screensavers.com">Home</a></b>| <b><a href="https://play.google.com/store/apps/details?id=com.the7art.happywitchwallpaper" target="_Blank">Android</a></b> | <b><a href="http://7art-screensavers.com/clock/">Clocks</a></b> | <b><a href="http://clipart.7art-screensavers.com">Wallpapers</a></b> | <b><a href="http://screenfinity.com/infinity/videos/" target="_Blank">Videos</a></b> | <b><a href="http://7art-screensavers.com/privacy.shtml">Privacy</a></b> | <b><a href="mailto:support@7art-screensavers.com" target="_Blank">Support</a></b>
 
 
 <table cellspacing="2" width="580"><tbody><tr><td>
@@ -390,14 +433,9 @@ google_ad_height = 280;
 </tr>
 </tbody></table>
 
-<br>&nbsp;
-<iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2F7artstudio&amp;width=580&amp;height=558&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=true&amp;header=false&amp;appId=114666798598704" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:580px; height:558px;" allowtransparency="true"></iframe>
-
-
-
 <br><br>&nbsp;
 
-<b><a href="http://www.clock-desktop.com" target="_Blank">Free Clock Screensavers</a></b> | <b><a href="http://www.free-slideshow.com" target="_Blank">Slideshow Screensavers</a></b> | <b><a href="http://3d.7art-screensavers.com">Premium screensavers</a></b><br> <b><a href="http://clock-desktop.com/web-clock-html.shtml" target="_Blank">Clock widgets</a></b> | <b><a href="http://clipart.7art-screensavers.com" target="_Blank">Photos</a></b> | <b><a href="http://www.epicwallpaper.com/" target="_Blank">Free Wallpapers</a></b> | <b><a href="http://7art-screensavers.com/interestingsites.shtml">Partners</a></b> | <b><a href="http://7art-screensavers.com/privacy.shtml">Privacy Policy</a></b> | <b><a href="http://7art-screensavers.com/about.shtml">About Us</a></b>
+<b><a href="http://www.clock-desktop.com" target="_Blank">Free Clock Screensavers</a></b> | <b><a href="http://www.free-slideshow.com" target="_Blank">Slideshow</a></b> | <b><a href="https://play.google.com/store/apps/details?id=com.the7art.happywitchwallpaper" target="_Blank">Android live wallpapers</a></b><br> <b><a href="http://clock-desktop.com/web-clock-html.shtml" target="_Blank">Clock widgets</a></b> | <b><a href="http://clipart.7art-screensavers.com" target="_Blank">Photos</a></b> | <b><a href="http://7art-screensavers.com/interestingsites.shtml">Partners</a></b> | <b><a href="http://7art-screensavers.com/privacy.shtml">Privacy Policy</a></b> | <b><a href="http://7art-screensavers.com/about.shtml">About Us</a></b>
 
 <br><br>
 
@@ -439,6 +477,7 @@ google_ad_height = 600;
 </script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
+
 	
 </td></tr></tbody></table>
 
