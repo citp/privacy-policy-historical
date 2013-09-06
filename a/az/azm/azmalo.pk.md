@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azmalo.pk privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506012833id_/http%3A//www.azmalo.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azmalo.pk privacy policy that was archived on 2013-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130906053210id_/http%3A//www.azmalo.pk/privacy-policy) for the most accurate reproduction.*
 
 # Azmalo Privacy Policy
 
