@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the says.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606141426id_/http%3A//says.com/my/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the says.com privacy policy that was archived on 2013-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130906202117id_/http%3A//says.com/my/about/privacy) for the most accurate reproduction.*
 
 # SAYS Privacy Policy
 
