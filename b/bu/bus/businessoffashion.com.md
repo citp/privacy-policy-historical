@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the businessoffashion.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619210700id_/http%3A//businessoffashion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessoffashion.com privacy policy that was archived on 2013-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130906072142id_/http%3A//www.businessoffashion.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BoF - The Business of Fashion
 
-Last Updated February 16, 2013
+Last Updated June 26, 2013
 
 **GENERAL RULES AND DEFINITIONS**
 
@@ -36,9 +36,23 @@ This privacy policy explains the following:
 
 ### Personal Information we collect about you
 
-1.1 Your personal information is collected when you register or fill in a form on a Website, or you send an email to BoF. Personal information that is provided by you will only be used for the purpose for which it is provided, unless you are informed otherwise at the time of giving the information. You may inform BoF at any time if you wish BoF to cease using your personal information.
+1.1 We collect personally identifiable information about you (your “Data”) through the use of enquiry and registration forms and the provision of your details to us either online or offline.  The elements of your Data that we collect may include:
 
-1.2  BoF will from time to time collect information from you for purpose of creating de-personalised data that does not reveal your identity.  BoF uses this information to improve our products ** _ _** and occasionally for other internal purposes.  This information is only used in de-personalised form and is not connected to any name, address or other personal identifying information.
+  * Name
+  * Job title
+  * Company name
+  * Company address, phone and fax number
+  * Home address and phone number
+  * Mobile telephone number
+  * E-mail address
+  * Payment details such as credit card information
+  * Date of birth
+  * Educational history, work experience and other information from your CV if you provide this to us
+  * Market research data such as readership patterns
+  * Usage statistics
+  * We may also collect information that we request from you regarding your use of our service or that we collect automatically about your visit to our sites.
+
+
 
 1.3 There are links on the Websites to third party websites over which BoF has no control. BoF accepts no responsibility or liability for any third party practices on third party websites. BoF advises you to carefully read third party privacy statements prior to the use of any third party website.
 
@@ -52,19 +66,45 @@ This privacy policy explains the following:
 
 ### Use of Personal Information
 
-3.1 BoF processes personal information for the purpose of:
+3.1  We use your Data for purposes which may include:
 
-  * monitoring, developing and improving the Websites, our services and your experience
-  * providing a personalised service
+  * providing our users with a personalised service
+  * processing orders, registrations and enquiries
   * conducting market research surveys
-  * running competitions
-  * providing you with information about The Business of Fashion or our business partners’ products and services (but only where you have provided your consent or not exercised your right to opt-out of receiving such communications)
-  * send out email alerts you have agreed to receive (but only where you have provided your consent or not exercised your right to opt-out of receiving such communications (as applicable))
-  * processing and dealing with any complaints or enquiries made by you
+  * allowing users to participate in interactive features of our service, where they choose to do so
+  * providing reports to our Clients containing information about usage under corporate licenses
+  * running competitions, prize draws and promotions
+  * providing you with information about products and services we offer
+  * sharing your Data with third party organisations who offer products or services which we feel may be of interest to you
+  * contacting you about specific recruitment opportunities if you register search criteria information on our recruitment sites.
+  * monitoring compliance with our Terms and Conditions and Copyright Policy
+  * providing you with information about The Business of Fashion or our business partners’ products and services
+  * send out email alerts
 
 
 
-3.2 BoF may also contact you about your registration details even if you have opted-out of or declined to consent to receiving promotional emails.
+3.2  We may also disclose your information to business partners and to third party suppliers we engage to provide services which involve processing data on our behalf, successors in title to our business or in accordance with a properly executed court order or as otherwise required to do so by law.
+
+3.3   We reserve the right to fully co-operate with any law enforcement authorities or court order requiring or requesting us to disclose the identity or other usage details of any user of our sites.
+
+3.4  We also use information in aggregate form (so that no individual user is identified by name):
+
+  * to build up marketing profiles
+  * to aid strategic development
+  * to manage our relationship with advertisers
+  * to audit usage of the site.
+
+
+
+3.5  We may use technology on the registration page of our website, which may record user movements, including page scrolling, mouse clicks and text entered. The data we collect in this way helps us to identify usability issues, to improve the assistance and technical support we can provide to users and is also used for aggregated and statistical reporting purposes.
+
+3.6   BoF may also contact you about your registration details even if you have opted-out of or declined to consent to receiving promotional emails.
+
+Transfer of Data:
+
+3.7  User Data may be transferred outside BoF to data processors such as fulfilment houses but they will act only on our instructions to provide the services required.
+
+3.8  The Internet is a global environment. Using the Internet to collect and process personal data necessarily involves the transmission of data on an international basis. Therefore, by browsing the BoF site and communicating electronically with us you acknowledge and agree to our processing of personal data in this way. By agreeing to our transfer of your Data to third party organisations for them to send you details of products and services offered (as detailed above) you are deemed to provide your consent to any transfer of your Data to organisations based outside the European Economic Area.
 
 ### Disclosures
 
