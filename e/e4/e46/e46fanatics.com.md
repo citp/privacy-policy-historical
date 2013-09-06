@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e46fanatics.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522093501id_/http%3A//www.e46fanatics.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e46fanatics.com privacy policy that was archived on 2013-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130906122102id_/http%3A//www.e46fanatics.com/privacy.php) for the most accurate reproduction.*
 
 # E46Fanatics.com Privacy Policy
 
