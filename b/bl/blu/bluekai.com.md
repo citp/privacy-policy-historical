@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the bluekai.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607053235id_/http%3A//www.bluekai.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluekai.com privacy policy that was archived on 2013-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130906193152id_/http%3A//www.bluekai.com/privacypolicy.php) for the most accurate reproduction.*
 
-# BlueKai | About Us
+# BlueKai: Privacy Policy
 
-Last Updated: March 21, 2012
+Last Updated: August 29, 2013
 
 BlueKai's mission is to build the world's most comprehensive online data directory with utmost attention and diligence to ensuring your anonymity and privacy. Our business is based upon the collection and use of anonymous customer preferences via partner websites in order to allow advertisers, publishers, and other content providers to deliver content that is relevant and meaningful to their users. Because we want to put you, the consumer, in the driver's seat, you can enhance your preferences in our directory by selecting or de-selecting topics of interest. Your preferences may be used anonymously to influence which types of marketing messages and other content are displayed to you across partner sites that we work with. We also allow you to choose not to participate in our directory at all. We are a member of the Network Advertising Initiative (NAI) and work with industry-leading companies to address important privacy and consumer protection issues in online advertising. [Click here](http://www.networkadvertising.org/) to learn more about the NAI. We also participate in the Digital Advertising Alliance (DAA) self-regulatory program and adhere to the DAA Principles for Online Behavioral Advertising. [Click here](http://www.aboutads.info/) to learn more about the DAA.
 
 This privacy policy is intended to inform you about our collection, use, and disclosure of information that we process for our BlueKai online preference registry, for our corporate website, www.bluekai.com and for our related targeting and data management services.
 
-[](http://www.export.gov/safeharbor/)BlueKai complies with the U.S.-EU Safe Harbor Framework and the U.S. Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personally identifiable information from European Union member countries and Switzerland. BlueKai has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/>
+BlueKai complies with the U.S.-EU Safe Harbor Framework and the U.S. Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personally identifiable information from European Union member countries and Switzerland. BlueKai has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/>
 
 ## Overview of Our Services
 
-We collect non-personally identifiable information regarding the behavior and usage patterns of users of Web sites and other online properties operated by participating companies. In this policy, we refer to this non-personally identifiable information, together with other non-personally identifiable information that we obtain from third parties in order to influence which types of marketing messages and other content are displayed to you, as "Preference Data." We use Preference Data to prepare groups of users, referred to as "segments," based upon their behavior and preferences. We give our customers a limited right to use a user's membership in a segment as a basis for displaying advertisements and other content that are intended to reflect the user's preferences. We also collect non-personally identifiable information for other purposes: for example, to provide aggregate statistics for their market research and analytics programs.
+We collect non-personally identifiable information regarding offline collected attributes and digital usage patterns of users of mobile devices and computers. In this policy, we refer to this non-personally identifiable information, together with other non-personally identifiable information that we obtain from third parties in order to influence which types of marketing messages and other content are displayed to you, as "Preference Data." We use Preference Data to prepare groups of users, referred to as "segments," based upon their behavior and preferences. We give our customers a limited right to use a user's membership in a segment as a basis for displaying advertisements and other content that are intended to reflect the user's preferences. We also collect non-personally identifiable information for other purposes: for example, to provide aggregate statistics for market research and analytics programs.
 
 ## Collection of Preference Data
 
-We use non-personally identifiable means, including "cookies" and "pixel tags," to collect and store Preference Data. We do not use flash cookies.
+We use non-personally identifiable means, including "cookies", "pixel tags," and in some instances, statistical ID's, to collect and store Preference Data. We do not use flash cookies.
 
 Cookies are small text files that contain a string of characters and uniquely identify a browser. They are sent to a computer by Web site operators or third parties. Most browsers are initially set up to accept cookies. You may, however, be able to change your browser settings to cause your browser to refuse third-party cookies or to indicate when a third-party cookie is being sent. Check your browser's "Help" files to learn more about handling cookies on your browser. BlueKai cookies will expire after six months from the date they are created.
 
@@ -24,7 +24,7 @@ Pixel tags are small strings of code that provide a method for delivering a grap
 
 We use information collected at various times and by pixel tags and cookies placed on several Web sites in order to collect Preference Data. We may also obtain Preference Data from third-party sources, and may combine it with other Preference Data that we have collected.
 
-The Preference Data that we collect from users includes, for example, a user's browser type and version (e.g., Internet Explorer 7.0, Firefox 3.0, or Safari 3.1.1), and operating system (e.g., Windows Vista or Macintosh OS X). In addition, we may collect information about a user's browsing behavior, such as the date and time they visit the Web pages on which we are collecting Preference Data, the content areas or pages of the Web sites that a user visits (e.g., "sports section" or "technology section"), and other click-stream data, none of which includes personal information about the user.
+The Preference Data that we collect from users includes, for example, a user's browser type and version (e.g., Internet Explorer 7.0, Firefox 3.0, or Safari 3.1.1), and operating system (e.g., Windows Vista, Macintosh OS X, or Android 4.1 for certain mobile users). We also may collect demographic information such as a user’s gender, age, and income range. In addition, we may collect information about a user's browsing behavior, such as the date and time they visit the Web pages on which we are collecting Preference Data, the content areas or pages of the Web sites that a user visits (e.g., "sports section" or "technology section"), and other click-stream data, none of which includes personal information about the user.
 
 Preference Data is deleted after six months of original date of collection.
 
@@ -32,7 +32,7 @@ Preference Data is deleted after six months of original date of collection.
 
 We analyze Preference Data collected from various sources and at different times to define segments and to attribute membership within those segments to users. Our policy is to purge Preference Data within six months from the data it is collected.
 
-We are aware of the sensitivity of certain types of Preference Data. We do not create or share any segments on the BlueKai Exchange that reflect Preference Data that we consider sensitive. While the types of Preference Data that may be considered sensitive may vary among users, we presently treat Preference Data as sensitive if it includes data reflecting a user having a medical condition; certain aspects of a user's personal life or financial situation; or use of, or interest in, gambling, alcoholic beverages, or "adult" products or services. If you’d like to view and edit the Preference Data on the BlueKai Exchange on this computer, please visit the BlueKai Registry by [clicking here](http://www.bluekai.com/registry). We may update from time to time the types of Preference Data that we consider sensitive.
+We are aware of the sensitivity of certain types of Preference Data. We do not create or share any segments on the Audience Data Marketplace that reflect Preference Data that we consider sensitive. While the types of Preference Data that may be considered sensitive may vary among users, we presently treat Preference Data as sensitive if it includes data reflecting a user having a medical condition; certain aspects of a user's personal life or financial situation; or use of, or interest in, gambling, alcoholic beverages, or "adult" products or services. If you’d like to view and edit the Preference Data on the Audience Data Marketplace on this computer, please visit the BlueKai Registry by [clicking here](http://www.bluekai.com/registry). We may update from time to time the types of Preference Data that we consider sensitive.
 
 ## Disclosure of Information
 
@@ -44,19 +44,25 @@ We may also disclose Preference Data if we believe that we have a legal obligati
 
 In addition, information in our possession or control, including Preference Data, may be disclosed in connection with any merger, acquisition, debt financing, sale of company assets, or other business transaction in which data could be transferred to third parties as one of our business assets.
 
+## Mobile Device Preference Data
+
+BlueKai enables clients to utilize Preference Data via mobile devices such as smart phones and tablets. In many respects, the process we use in mobile is similar to those we’ve used for our online Preference Data. However, as cookies are less reliable on mobile devices, BlueKai uses statistical ID’s to help us process mobile Preference Data. The use of statistical ID’s does not impact BlueKai current data retention rate.
+
+BlueKai has also developed the Mobile Privacy Guard - a privacy enhancing technology for the mobile advertising marketplace. Mobile Privacy Guard utilizes similar noise injection techniques to those which are commonly used in various fields to protect anonymity.  The BlueKai Mobile Privacy Guard inserts additional noise into the mobile Preference Data we collect, which makes it significantly more difficult for anyone – including BlueKai – to re-identify any particular mobile User. For example, when a device is “tagged” with actual behaviors performed by a device, a set of recommended attributes are injected into the mobile device profile. This ensures the mobile device is immediately anonymized to protect the consumer, but still valuable and relevant for advertisers. For more information about Mobile Privacy Guard, please contact BlueKai’s privacy department at the information provided below.
+
 ## Opting Out of the Services
 
 We provide multiple ways for you to opt out of our services.
 
-We make available a Blue Kai "opt-out" cookie that you may download to your browser. This cookie, when installed on your browser, will prevent us from collecting Preference Data on that browser. You can learn more about our opt-out cookie [here](https://web.archive.org/web/20120607053235id_/http%3A//www.bluekai.com/consumers_optout.php). By opting out of the BlueKai cookie you are also opting out of targeting options from BlueKai through some of our third party partners.
+We make available a Blue Kai "opt-out" cookie that you may download to your browser. This cookie, when installed on your browser, will prevent us from collecting Preference Data on that browser. You can learn more about our opt-out cookie [here](https://web.archive.org/web/20130906193152id_/http%3A//www.bluekai.com/consumers_optout.php). By opting out of the BlueKai cookie you are also opting out of targeting options from BlueKai through some of our third party partners.
 
-You may also opt out of our collection of Preference Data using tools provided by industry groups such as the Network Advertising Initiative (“NAI”) and the Digital Advertising Alliance (the “DAA”). You may access the NAI opt-out tool [here](http://www.networkadvertising.org/managing/opt_out.asp). You may access the DAA opt-out tool [here](http://www.networkadvertising.org/managing/opt_out.asp). These opt-out tools allow you to opt out of our collection of Preference Data, as well as the data collection and preference-based ad programs of other NAI and DAA member companies.
+You may also opt out of our collection of Preference Data using tools provided by industry groups such as the Network Advertising Initiative (“NAI”) and the Digital Advertising Alliance (the “DAA”). You may access the NAI opt-out tool [here](http://www.networkadvertising.org/managing/opt_out.asp). You may access the DAA opt-out tool [here](http://www.aboutads.info/choices/). These opt-out tools allow you to opt out of our collection of Preference Data, as well as the data collection and preference-based ad programs of other NAI and DAA member companies.
 
-These opt-out tools are cookie-based. Please note that these tools only prevent us from collecting Preference Data pertaining to you on the browser on which they are installed, and will only function if your browser is set to accept third-party cookies. If you delete an opt-out cookie from a browser's cookie files, we will collect Preference Data from that browser until an opt-out cookie is reset on that browser.
+These opt-out tools are cookie-based. Please note that these tools only prevent us from collecting Preference Data pertaining to you on the browser on which they are installed, will only function if your browser is set to accept third-party cookies, and may not be as reliable where (e.g., certain mobile devices and operating systems) cookies are sometimes automatically disabled or removed. If you delete an opt-out cookie from a browser's cookie files, we will collect Preference Data from that browser until an opt-out cookie is reset on that browser.
 
 Additionally, you may prevent us from collecting Preference Data on a browser by blocking third-party cookies in that browser. If you block third-party cookies from being set on your browser, you may not be able to enjoy some features or functionality of, and you may see the same content and advertisements repeatedly on, some Web sites. If the BlueKai opt-out cookie is left undeleted, its opt-out function will live for up to 20 years.
 
-## Our Corporate Web site; our Marketing Practices
+## Our Corporate Web site
 
 Our corporate Web site at www.BlueKai.com is designed for our clients which are generally businesses. We don’t collect personally identifiable information from users via our Web site unless users choose to provide it to us. We use cookies and pixels on our Web site to help us better understand how our Web site is being used and to help our marketing programs. If you’d like us to update, correct, delete, or deactivate any personally identifiable information that you have provided to us on this website, please send your request to us at [privacy@BlueKai.com](mailto:privacy@BlueKai.com) and we will process your request within a reasonable period of time after receipt.
 
@@ -101,7 +107,7 @@ In compliance with the U.S.–EU and U.S-Swiss Safe Harbor Principles, BlueKai c
 
 Privacy Officer  
 BlueKai, Inc.  
-10900 NE 8th Street, Suite 1170, Bellevue WA 98004  
+720 3rd Avenue, 23rd floor, Seattle, WA 98104  
 Attention: Data Privacy Office  
 [Privacy@BlueKai.com](mailto:Privacy@BlueKai.com)
 
