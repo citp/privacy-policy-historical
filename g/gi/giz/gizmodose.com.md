@@ -1,47 +1,65 @@
-> *The following text is extracted and transformed from the gizmodose.com privacy policy that was archived on 2012-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120429054359id_/http%3A//wwdn.org/dmca-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gizmodose.com privacy policy that was archived on 2013-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130906065319id_/http%3A//www.gizmodose.com/privacy-policy) for the most accurate reproduction.*
 
-# DMCA & Privacy Policy | World Wide Daily News | WWDN
+# Privacy Policy | GizmoDose
 
-**DMCA**
+This Privacy Policy governs the manner in which Gizmo Dose collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.gizmodose.com](http://www.generateprivacypolicy.com/account/policies/edit/www.gizmodose.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by Gizmo Dose.
 
-**If any one of our loyal minions makes amistake of using your copyrighted content please let us know we’d remove said **content** **ASAP** and send you some cookies. **
+**Personal identification information**
 
-To expedite our handling of your notice, please use the following format or refer to Section 512(c)(3) of the Copyright Act.
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-1\. Identify in sufficient detail the copyrighted work you believe has been infringed upon. This includes identification of the web page or specific posts, as opposed to entire sites. Posts must be referenced by either the dates in which they appear or by the permalink of the post. Include the URL to the concerned material infringing your copyright (URL of a website or URL to a post, with title, date, name of the emitter), or link to initial post with sufficient data to find it.
+**Non-personal identification information**
 
-2\. Identify the material that you allege is infringing upon the copyrighted work listed in Item #1 above. Include the name of the concerned litigious material (all images or posts if relevant) with its complete reference.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-3\. Provide information on which wwdn may contact you, including your email address and your name and position.
+**Web browser cookies**
 
-4\. Provide the address, if available, to allow wwdn to notify the owner/administrator of the allegedly infringing webpage or other **content** , including email address.
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-5\. Also include a statement of the following: “I have a good faith belief that use of the copyrighted materials described above on the infringing web pages is not authorized by the copyright owner, or its agent, or the law.”
+**How we use collected information**
 
-6\. Also include the following statement: “I swear, under penalty of perjury, that the information in this notification is accurate and that I am the copyright owner, or am authorized to act on behalf of the owner, of an exclusive right that is allegedly infringed.”
+Gizmo Dose may collect and use Users personal information for the following purposes:
 
-7\. Sign the notification.
+  * _\- To personalize user experience_  
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  * _\- To send periodic emails_  
+We may use the email address to send them information and updates pertaining to their order.
 
-8\. Send the written notification by electronic mail to the following address ninja.affiliates@gmail.com
 
-**Privacy Policy:**
 
-The contents of this Website are based on information generally available to the public from sources believed to be reliable. No representation is made that it is timely, accurate or complete. We have taken due care and caution in compilation of data as this has been obtained from various sources including which it considers reliable and first hand. However, we do not guarantee the accuracy, adequacy or completeness of any information and it is not responsible for any errors or omissions or for the results obtained from the use of such information and especially states that it has no financial liability whatsoever to the subscribers / users of this report. The information herein, together with all estimates and forecasts, can change without notice.
+**How we protect your information**
 
-This report does not purport to be a solicitation of any advice pertaining to trade and business and readers are advised to consult experts or study / evaluate individual business prospectus and other relevant legal documents before taking any decisions based on information provided in the site. We do not accept responsibility for any financial consequences arising from the use of the research or information provided herein.
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-**Privacy Policy** For **wwdn.org**
+Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures. Our Site is also in compliance with PCI vulnerability standards in order to create as secure of an environment as possible for Users.
 
-At **wwdn.org** , we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit **wwdn.org** , and how we safeguard your information.
+**Sharing your personal information**
 
-We never sell your personal information to third parties.
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
 
-Email Addresses -  We never share your email addresses with anyone.
+**Advertising**
 
-Log Files – – As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (airtel, bsnl, mtnl, tata etc…), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
-Cookies and Web Beacons – We do use cookies to store information, such as your personal preferences when you visit our site. We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here. http://www.networkadvertising.org/
+**Google Adsense**
 
-Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and **content** network privacy policy. http://www.google.com/privacy_ads.html You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
 
-We can be reached via our contact e-mail to writing.www@gmail.com
+**Changes to this privacy policy**
+
+Gizmo Dose has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+**Your acceptance of these terms**
+
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+**Contacting us**
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
+[Gizmo Dose](http://www.generateprivacypolicy.com/account/policies/edit/www.gizmodose.com)  
+[www.gizmodose.com](http://www.generateprivacypolicy.com/account/policies/edit/www.gizmodose.com)  
+93 Warner Close Hastoe HP23 5JP  
+070 46483749  
+libbyharvey@dayrep.com
+
+This document was last updated on June 17, 2013
