@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dialuz.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424054657id_/http%3A//dialuz.com/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dialuz.com privacy policy that was archived on 2013-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130907013508id_/http%3A//www.dialuz.com/privacy_policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy- Local Business Listing, Local Search Engine India -Dialuz.Com
 
