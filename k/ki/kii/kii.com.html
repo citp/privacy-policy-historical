@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kii.com privacy policy that was archived on 2013-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130628005249id_/http%3A//kii.com/en/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kii.com privacy policy that was archived on 2013-09-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130906053334id_/http%3A//www.kii.com/en/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="UTF-8">
@@ -7,178 +7,34 @@
 <title>Privacy Statement | Kii</title>
 <meta name="keywords" content="backend, mobile, development, server, mBaaS, Baas, Kii Cloud, user management, data management, analytics, monetization, push notification, aws">
 <meta name="description" content="Kii offers end-to-end partnerships to mobile developers who want to maximize revenue, gain global distribution, and turn their apps into full-fledged businesses.This includes an unique combination of cloud technology and distribution services, along with an early stage investment fund designed to help mobile app developers monetize and grow their business.">
-<link rel="shortcut icon" href="http://www.kii.com/en/wp-content/themes/kiicorp/assets/img/favicon.ico" type="image/x-icon">
-<link rel="icon" href="http://www.kii.com/en/wp-content/themes/kiicorp/assets/img/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="http://com.kii.corporate.product.s3.amazonaws.com/favicon.ico" type="image/x-icon">
+<link rel="icon" href="http://com.kii.corporate.product.s3.amazonaws.com/favicon.ico" type="image/x-icon">
 
 <meta property="og:title" content="Privacy Statement | Kii"> 
 <meta property="og:type" content="website"> 
 <meta property="og:url" content="http://kii.com/en/privacy"> 
-<meta property="og:image" content="http://www.kii.com/en/wp-content/themes/kiicorp/assets/img/logo.gif"> 
+<meta property="og:image" content="http://com.kii.corporate.product.s3.amazonaws.com/logo.gif"> 
 <meta property="og:site_name" content="Kii Corporate Site">
 
 <!--StyleSheet-->
-<link href="http://www.kii.com/en/wp-content/themes/kiicorp/common.css?t=1372380769" type="text/css" rel="stylesheet">
+<link href="http://www.kii.com/en/wp-content/themes/kiicorp/common.css?t=1378445613" type="text/css" rel="stylesheet">
 <link href="http://fonts.googleapis.com/css?family=Droid+Sans" rel="stylesheet" type="text/css">
+
+<link href="http://www.kii.com/en/wp-content/themes/kiicorp/snippet_formatting_static.css" type="text/css" rel="stylesheet">
+<link href="http://www.kii.com/en/wp-content/themes/kiicorp/migration_alert.css" type="text/css" rel="stylesheet">
 <!--StyleSheet-->
-
-<!--Javascript-->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="hs-analytics" src="//js.hubspot.com/analytics/1580504700000/241936.js"></script><script type="text/javascript" src="http://www.kii.com/en/wp-content/themes/kiicorp/assets/js/jquery-1.9.1.min.js"></script>
-<script type="text/javascript" src="http://www.kii.com/en/wp-content/themes/kiicorp/assets/js/jquery.easing-1.3.min.js"></script>
-<script type="text/javascript" src="http://www.kii.com/en/wp-content/themes/kiicorp/assets/js/jquery.bxSlider.min.js"></script>
-<script type="text/javascript" src="http://www.kii.com/en/wp-content/themes/kiicorp/assets/js/jquery.validate.min.js"></script>
-<script type="text/javascript" src="http://www.kii.com/en/wp-content/themes/kiicorp/assets/js/prefixfree.min.js"></script>
-
-<script type="text/javascript">
-$(function(){
-  $("#searchform").submit(function(){
-  var str = $("input[name='s']").val();
-  str = $.trim(str);
-  if(str==""){
-    return false;
-  }
-  });
-});
-$(document).ready(function() {
-  $("#contactform").validate({
-    rules : {
-      email_title : {
-        required: true
-      },
-      email : {
-        required: true,
-        email: true
-      },
-      comment : {
-        required: true
-      },
-      agree : {
-        required: true
-      }
-    },
-    messages : {
-      email_title : {
-        required: 'Enter Title'
-      },
-      email : {
-        required: 'Enter your Email',
-        email: 'Invalid Email'
-      },
-      comment : {
-        required: 'Enter Comment'
-      }
-    }
-  });
-
-  $("#migrationform").validate({
-    rules : {
-      email : {
-        required: true,
-        email: true
-      }
-    },
-    messages : {
-      email : {
-        required: 'Enter your Email',
-        email: 'Invalid Email'
-      }
-    }
-  });
-
-  $("#keepuptodateform").validate({
-    rules : {
-      email : {
-        required: true,
-        email: true
-      }
-    },
-    messages : {
-      email : {
-        required: 'Enter your Email',
-        email: 'Invalid Email'
-      }
-    }
-  });
-});
-
-function send($form, $thanks, $sorry) {
-    if( $form.valid() == false ){
-      return false;
-    }
-    var $submit = $form.find('submit');
-
-    $.ajax({
-            url: $form.attr('action'),
-            type: $form.attr('method'),
-            data: $form.serialize(),
-            timeout: 10000,
-
-            beforeSend: function(xhr, settings) {
-              $submit.attr('disabled', true);
-            },
-            complete: function(xhr, textStatus) {
-              $submit.attr('disabled', false);
-            },
-
-            success: function(result, textStatus, xhr) {
-              var $target;
-              if(result == 'true') {
-                $target = $thanks;
-              } else {
-                $target = $sorry;
-              }
-              $form[0].reset();
-              $target.show();
-              var position = $target.offset().top;
-              $('body,html').animate({scrollTop:position}, 400, 'swing');
-            },
-            error: function(xhr, textStatus, error) {
-                $sorry.show();
-                var position = $sorry.offset().top;
-                $('body,html').animate({scrollTop:position}, 400, 'swing');
-            }
-        });
-}
-
-$(function($) {
-  $('#contactform').submit(function(event) {
-    $("#thanks").hide();
-    $("#sorry").hide();
-    event.preventDefault();
-    send($(this), $("#thanks"), $("#sorry"));
-  });
-
-  $('#migrationform').submit(function(event) {
-    $("#thanks").hide();
-    $("#sorry").hide();
-    event.preventDefault();
-    send($(this), $("#thanks"), $("#sorry"));
-  });
-
-  $('#keepuptodateform').submit(function(event) {
-    $("#thanks.footer").hide();
-    $("#sorry.footer").hide();
-    event.preventDefault();
-    send($(this), $("#thanks.footer"), $("#sorry.footer"));
-  });
-});
-</script>
-<!--Javascript-->
 
 <!--[if lt IE 9]>
 <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <script src="http://api.html5media.info/1.1.4/html5media.min.js"></script>
 <![endif]-->
 
-<link rel="stylesheet" id="hubspot-css" href="http://www.kii.com/en/wp-content/plugins/hubspot/css/hubspot.css?ver=494" type="text/css" media="all">
-<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false&amp;ver=494"></script>
+<link rel="stylesheet" id="hubspot-css" href="http://www.kii.com/en/wp-content/plugins/hubspot/css/hubspot.css?ver=1090" type="text/css" media="all">
+<script id="hs-analytics" src="//js.hubspot.com/analytics/1580504700000/241936.js"></script><script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false&amp;ver=1090"></script>
 <script type="text/javascript" async="" src="//cta-service-cms2.hubspot.com/cs/loader-v2.js?pg=a8c5e380-dd85-47fe-a035-2e9642ed37c6&amp;pid=241936&amp;hsutk="></script></head>
 <body>
 <!-- *************** header_menu *************** -->
 
-<div id="migration-alert">Want to expand to China?
-&nbsp;<a href="/en/distribution/kii-to-china">Learn more here</a>
-<div id="migration-alert-close">×</div>
-</div>
 
 <header>
 <h1><a href="/en">Kii</a></h1>
@@ -398,7 +254,6 @@ United States<br>
 </tr>
 </tbody></table>
 </form>
-<script charset="utf-8" src="http://js.hubspot.com/forms/current.js"></script>
 <ul>
 <li class="facebook"><a href="http://www.facebook.com/KiiCorporation" target="_blank">Facebook</a></li>
 <li class="twitter"><a href="https://twitter.com/kiicorp" target="_blank">Twitter</a></li>
@@ -429,8 +284,86 @@ _hsq.push(["setContentType", "standard-page"]);
 </section>
 </footer>
 
-<!-- ***********************analytics********************* -->
+<!-- ***********************js library********************* -->
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.kii.com/en/wp-content/themes/kiicorp/assets/js/jquery.easing-1.3.min.js"></script>
+<script type="text/javascript" src="http://www.kii.com/en/wp-content/themes/kiicorp/assets/js/jquery.validate.min.js"></script>
+<script type="text/javascript" src="http://www.kii.com/en/wp-content/themes/kiicorp/assets/js/prefixfree.min.js"></script>
+
+<!-- ***********************js********************* -->
 <script type="text/javascript">
+$(function(){
+  $("#keepuptodateform").validate({
+    rules : {
+      email : {
+        required: true,
+        email: true
+      }
+    },
+    messages : {
+      email : {
+        required: 'Enter your Email',
+        email: 'Invalid Email'
+      }
+    }
+  });
+});
+
+$("#searchform").submit(function(){
+    var str = $("input[name='s']").val();
+    str = $.trim(str);
+    if(str==""){
+      return false;
+    }
+});
+
+$('#keepuptodateform').submit(function(event) {
+  $("#thanks.footer").hide();
+  $("#sorry.footer").hide();
+  event.preventDefault();
+  send($(this), $("#thanks.footer"), $("#sorry.footer"));
+});
+
+function send($form, $thanks, $sorry) {
+    if( $form.valid() == false ){
+      return false;
+    }
+    var $submit = $form.find('submit');
+
+    $.ajax({
+            url: $form.attr('action'),
+            type: $form.attr('method'),
+            data: $form.serialize(),
+            timeout: 10000,
+
+            beforeSend: function(xhr, settings) {
+              $submit.attr('disabled', true);
+            },
+            complete: function(xhr, textStatus) {
+              $submit.attr('disabled', false);
+            },
+
+            success: function(result, textStatus, xhr) {
+              var $target;
+              if(result == 'true') {
+                $target = $thanks;
+              } else {
+                $target = $sorry;
+              }
+              $form[0].reset();
+              $target.show();
+              var position = $target.offset().top;
+              $('body,html').animate({scrollTop:position}, 400, 'swing');
+            },
+            error: function(xhr, textStatus, error) {
+                $sorry.show();
+                var position = $sorry.offset().top;
+                $('body,html').animate({scrollTop:position}, 400, 'swing');
+            }
+        });
+}
+
+<!-- ***********************analytics********************* -->
 var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-38763092-1']);
 _gaq.push(['_setDomainName', 'kii.com']);
@@ -447,5 +380,7 @@ ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www')
 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 })();
 </script>
+
+
 
 </body></html>
