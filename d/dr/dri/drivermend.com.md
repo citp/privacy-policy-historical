@@ -1,82 +1,110 @@
-> *The following text is extracted and transformed from the drivermend.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503230636id_/http%3A//www.drivermend.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drivermend.com privacy policy that was archived on 2013-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130906024141id_/http%3A//www.drivermend.com/privacy.php) for the most accurate reproduction.*
 
-# Driver Mender - Fast And Effective Driver Solutions
+# Privacy Policy
 
-This Privacy Policy, together with our terms of use, provides an explanation as to what happens to any personal data that you provide to us, or that we collect from you. 
+### Privacy Policy
 
-We do update this Policy from time to time so please do review this Policy regularly. 
+**Effective Date: 05/21/2012**
 
-#### Information We Collect 
+LJP MEDIA ("LJP MEDIA") privacy policy ("Privacy Policy") covers the collection and use of personal information ("Personal Information") that we may gather any time you interact with us, such as when you visit our Web site, purchase a LJP MEDIA products, or when you contact our customer support or sales departments. This policy describes our data privacy practices, including what type of information is gathered, how LJP MEDIA uses the information, and how we safeguard your Personal Information when you submit it to us at www.drivermend.com. At LJP MEDIA, protecting your privacy is important to us. After all, online privacy and security is what we're all about. **You expressly consent to the processing of your Personal Information according to this Privacy Policy. Personal Information may be processed by LJP MEDIA in the country where it was collected as well as other countries (including the United States) where laws regarding processing of Personal Data may be less stringent.**
 
-In operating our website we may collect and process the following data about you: 
+Driver Mender is certifed as a Trusted Download Program by TRUSTe signifying that the Driver Mender application has been tested TRUSTe for compliance with TRUSTe's TDP program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding the Driver Mender application, please contact us at Ljp media 1st Floor Offices 30 Grove Street, Mansfield, Nottinghamshire, UK or by email at drivermender@driversupport.com or by phone at +1 512.373.3518. If you are not satisfied with our response you can contact TRUSTe [here](http://clicktoverify.truste.com/pvr.php?page=validate&softwareProgramId=202&sealid=112). 
 
-i. Details of your visits to our website and the resources that you access, including, but not limited to, traffic data, location data, weblogs and other communication data.   
-ii. Information that you provide by filling in forms on our website, such as when you registered for information or make a purchase.   
-iii. Information provided to us when you communicate with us for any reason. 
+**Why LJP MEDIA Collects Personal Information**
 
-#### Use of Cookies
+LJP MEDIA only collects your Personal Information where it is required to provide you the best services and products available. By maintaining an accurate customer database, we are able to send notifications via e-mail to keep you informed about the status of your orders or accounts and to provide updates and technical notices. These messages are essential to the maintenance of your subscription and the functionality of our products and services. 
 
-On occasion, we may gather information about your computer for our services and to provide statistical information to us regarding the use of our website. 
+**Why LJP MEDIA Collects Device Hardware and Software Inventory Information**
 
-Such information will not identify you personally it is statistical data about our visitors and their use of our site. This statistical data does not identify any personal details whatsoever. 
+LJP MEDIA collects your device's hardware and software inventory information in order to deliver our driver and other device-associated recommendations, download access, and installation automations provided in our software. The hardware and software inventory data is essential for our software and servers to match the best updates for a particular system on an ongoing basis. We retain this information in order to continuously improve our matching intelligence based on aggregating and normalizing the data collected across all systems. 
 
-Similarly to the above, we may gather information about your general internet use by using a cookie file. Where used, these cookies are downloaded to your computer automatically. This cookie file is stored on the hard drive of your computer as cookies contain information that is transferred to your computer's hard drive. They help us to improve our website and the service that we provide to you. 
+**What Information We Collect**
 
-All computers have the ability to decline cookies. This can be done by activating the setting on your browser which enables you to decline the cookies. Please note that should you choose to decline cookies, you may be unable to access particular parts of our website. 
+**Personal Information** LJP MEDIA collects your Personal Information at a variety of points, including when you place an order, (which may require you to provide personal information, including a credit card number, to our commerce providers) register software, request services or take part in other activities on our Web site. For example, we often ask for your Personal Information when you are conferring with one of our customer support technicians, downloading a new product or program update, registering your software or purchasing a product. During these interactions we will collect Personal Information relevant to your transacting with LJP MEDIA, such as your name, mailing address, e-mail address, shipping address and credit card information along with information about the LJP MEDIA products you own, such as the activation code or key code, date of purchase and information relating to a support issue. We use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you. When you register, you will be provided with an option to opt-out of receiving promotional information on our products and services. We will not use your personal information for anything other than what you have intended it for. Please be aware that if you prefer not to provide us with your Personal Information, because such information may be necessary for us to provide certain services, we may not be able to, or may choose not to, make such services available to you. 
 
-#### Advertising Practices
+**Device Hardware and Software Inventory Information** The scanning technology present in our software is designed to collect all hardware ID's and software signatures present in the system and passes this data back to our servers. We use this information so that our servers can respond back to our software with a list of recommended drivers and other software relevant to the discovered hardware. While in trial-mode (pre-purchase) this information is not tied in any way to any personal information. Post-purchase and after activation of the software the inventory data is linked to your personal information so that it can be shown as historical information in the software, used as part of our free driver backup service, as well as historical scan information available in your personalized http://account.driversupport.com/ web portal (all features of our software and services). This information is also used to handle any technical, product, or customer support requests that you may send to us. Please be aware that if you prefer not to provide this inventory information, our software will be unable to provide any of our services. 
 
-Users that have visited this site may later have advertisements for related or recommended products served to them based upon the products they exhibited interest in upon this site. 
+**Regarding Children**
 
-Third party vendors, including Google, serve ads for this site on the internet.   
-Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to this website. 
+LJP MEDIA does not intentionally gather Personal Information about visitors who are under the age of 13. 
 
-Users may opt out of Google's use of cookies by visiting the Google advertising opt-out page [here](http://www.google.com/privacy/ads/). 
+**Cookies and Other Technologies**
 
-  
+Following common e-commerce practices, LJP MEDIA uses "cookies" and other technologies to collect non-personal data that enables us to better understand and improve the usability, performance and effectiveness of LJP MEDIA' Web site, and for reporting purposes to track sales. Cookies are unique text files sent to your browser and stored on your computer. We do not store any personally identifiable information with these cookies. Use of these third party cookies by our tracking utility company or service providers is not governed by this Privacy Policy. We do not have access or control over these cookies. 
 
+If you do not want LJP MEDIA to send cookies to your browser, you can set your browser options to reject cookies or notify you when a Web site tries to put a cookie in your browser software. Rejecting cookies may affect your ability to use some of our Web site services. Additionally, LJP MEDIA gathers general information about visits to our Web site and stores this information in log files. This information is stored in anonymous profiles and is not associated with a user's account. This information includes the number of total visits to our Web site, and which browser is used to view our Web site (including the version number). No Personal Information is contained in this data. Our current partners help us to track our website usage. No personally identifiable information is collected. LJP MEDIA uses this information to understand traffic and downloads on our Web site, enabling us to improve the site, provide the best online experience possible and improve our ability to serve our customers. 
 
-#### Use of Your Information
+On occasion, LJP MEDIA also gathers general information about click-through usage of key features within our software to confirm that software updates are providing the intended user experience. This information is collected in aggregate from and stored in a manner that cannot be associated with any individual. The information includes total clicks on select features available in our software and is used to understand how our software is used, enabling us to improve the software, and provide the best possible user experience for our customers. 
 
-The information that we collect and store relating to you is primarily used to enable us to provide our services to you. In addition, we may use the information for the following purposes: 
+We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. 
 
-To provide you with information requested from us, relating to our products or services. To provide information on other products which we feel may be of interest to you, where you have consented to receive such information.   
-To meet our contractual commitments to you.   
-To notify you about any changes to our website, such as improvements or service/product changes, that may affect our service. 
+**Sharing Your Personal Information**
 
-If you are an existing customer, we may contact you with information about goods and services similar to those which were the subject of a previous sale to you. 
+LJP MEDIA is committed to protecting your privacy. LJP MEDIA will not, under any circumstances, share, rent or sell your Personal Information in ways other than as outlined in this privacy policy nor does LJP MEDIA trade or exchange mailing lists with any other organization. Furthermore, LJP MEDIA only shares your Personal Information with our contractors that assist us in our efforts to fulfill our obligations to you, and then only with partners that commit to adhere to the same level of commitment as LJP MEDIA to protect your privacy and data. We use credit card processing companies to bill you for goods and services, an email service provider to send out emails on our behalf and a customer support provider to supply live assisted-support. These companies do not retain share, store or use personally identifiable information for any other purposes. 
 
-If you are a new customer, we will only contact you or allow third parties to contact you only when you have provided consent and only by those means you provided consent for. If you do not want us to use your data for our or third parties you will have the opportunity to withhold your consent to this when you provide your details to us on the form on which we collect your data. Please be advised that we do not reveal information about identifiable individuals to our advertisers but we may, on occasion, provide them with aggregate statistical information about our visitors. 
+LJP MEDIA maintains this information; but we reserve the right to disclose your Personal Information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Website. If you require assistance, and would like someone to follow-up with you, then you will be asked to provide an email address. The email address is stored log files by a third party, but is not utilized in any way by them and remains our information. 
 
-Any correspondence we send will always include specific and clear information on how to opt-out of receiving any future information from us. 
+If our company or our assets are acquired by another company, that company will possess the Personal Information collected by us and it will assume the rights and obligations regarding your Personal Information as described in this Privacy Policy. 
 
-  
+**How We Communicate with You**
 
+LJP MEDIA has an optional e-mail service for customers who wish to periodically receive promotional information, such as general product, service and LJP MEDIA news. Users can sign up for emails through one of the following processes: (1) an online Purchase; (2) registering through the full application; (3) registering through the trial application; and (4) signing up on the LJP MEDIA website. 
 
-#### Storing Your Personal Data
+Customers are provided the option to opt-out within each e-mail. If you no longer wish to receive LJP MEDIA communications, you may "unsubscribe" from our mailing program at any time in the following ways: 
 
-We may transfer data that we collect from you to locations outside of the European Economic Area for processing and storing. Also, it may be processed by staff operating outside the European Economic Area who work for us or for one of our suppliers. For example, such staff maybe engaged in the processing and concluding of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all reasonable steps to make sure that your data is treated securely and in agreement with this Privacy Policy. 
+" By clicking on the auto-unsubscribe link included in each e-mail 
 
-Data that is provided to us is stored on our secure servers. Details relating to any transactions entered into on our site will be encrypted to ensure its safety. 
+" By contacting our technical support department at drivermender@driversupport.com 
 
-The transmission of information via the internet is not completely secure and therefore we cannot guarantee the security of data sent to us electronically and transmission of such data is therefore entirely at your own risk. Where we have given you (or where you have chosen) a password so that you can access certain parts of our site, you are responsible for keeping this password confidential. 
+" By visiting your Account page at http://account.driversupport.com/ and changing your preference on the form. 
 
-#### Disclosing Your Information
+We will then update our database and take reasonable measures so that no further promotional correspondence should be sent to the e-mail address. You may, however, still receive transactional messages. 
 
-Where applicable, we may disclose your personal information to any member of our group. This includes, where applicable, our subsidiaries, our holding company and its other subsidiaries (if any). 
+**Transactional Messages**
 
-Under certain circumstances we may disclose your personal information to third parties:   
-i. Where we sell any or all of our business and/or our assets to a third party.   
-ii. Where we are legally required to disclose your information.   
-iii. To assist fraud protection and minimise credit risk. 
+LJP MEDIA sends required notifications via e-mail to keep you informed of the status of your orders or accounts and to provide updates and technical notices. This service is used for messages that are important for the maintenance of your subscription and the functionality of our services. When you purchase or register a product online, we require an e-mail address for completion of the transaction, which we will use for these communications. In order to stop receiving these notifications, please contact our technical support team at drivermender@driversupport.com . You will be opted out of further communications within 10 business days. 
 
-#### Third Party Links
+**Ways to Update Your Personal Information**
 
-You mind find links to third party websites on this site. These websites are governed by their own privacy policies which we encourage you to check to ensure you are satisfied with their data privacy policies. We do not accept any responsibility or liability for the policies of thirty party sites and links. 
+LJP MEDIA carefully maintains our customer database in an effort to keep your Personal Information accurate for the purposes for which it is used. It is your right to be able to update your Personal Information as needed. You can correct out-of-date information, update information, remove information, delete your Personal Information or review any information previously provided to LJP MEDIA by visiting account. LJP MEDIA or by contacting our support department at drivermender@driversupport.com. Changes will be implemented within 10 business days. Please note, however, that we may retain certain information relating to software licensing and your information may also be retained in our archives. When contacting customer service, we will verify your identification through the use of security questions before sharing any Personal Information as it appears in our customer database. 
 
-#### Third Party Data Collection
+**LJP MEDIA' Commitment to Data Security**
 
-Accessing certain features of products we offer may require registration. If the registration is conducted on-site the data will be governed by this privacy policy and if collected offsite by a third party, for example, while registering and paying for a product with a third party payment processor, the data will be governed by the third party site.   
-For a detailed breakdown of exactly how the third party will use your data, please reference the third party site in question. 
+LJP MEDIA has security measures in place, such as the following, to protect against the loss, misuse and alteration of your Personal Information in our customer database. Personal Information provided to LJP MEDIA is stored in secure facilities with access restricted to authorized personnel only. We have put in place a series of access-control procedures required for retrieval of personal information. The LJP MEDIA Web site is regularly tested for security breaches to protect against unauthorized viewing of Personal Information. 
 
-For any queries, comments or requests you may have regarding this Privacy Policy. Please do not hesitate to contact us at our [contact](https://web.archive.org/contact.php) page. 
+To provide secure credit card processing when ordering, orders placed on our Web site are processed through a payment gateway which operates under its own privacy policy. 
+
+LJP MEDIA DOES NOT store credit card information. LJP MEDIA works with third parties to serve as a trusted intermediary to handle e-commerce transactions with our customers. Our commerce partners handle e-commerce on secure servers which encrypt all of our customers' personal information. To learn more about how our commerce partners manage the privacy of information in conjunction with these e-commerce transactions, please see their complete Privacy Statement located on their purchase pages. 
+
+Although we make good faith efforts to store the Personal Information we collect in a secure operating environment that is not accessible to unauthorized users, we cannot guarantee complete security. 
+
+**Links to other sites**
+
+Our Site includes links to other Web sites whose privacy practices may differ from those of LJP MEDIA, LP. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
+
+**Public forums**
+
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at drivermender@driversupport.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. ? 
+
+**Acceptance of this Privacy Policy**
+
+By using the Web site or any services provided through the Web site, you expressly consent to the use and disclosure of information as described in this Privacy Policy. 
+
+**Privacy Policy Revisions and Notifications**
+
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
+
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, and by means of a prominent notice on our home page, posted 30 calendar days prior to implementing the change. 
+
+**Contact Information**
+
+For questions about this policy as well as product-related technical support: http://account.driversupport.com/support/contact/ 
+
+LJP MEDIA 1st Floor Offices 30 Grove Street,   
+Mansfield, Nottinghamshire, UK 
+
+( +1 )   
+Phone: 512.373.3518   
+Fax: 254.983.9179 
+
+drivermender@driversupport.com 
