@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spiritjb.org privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429132809id_/http%3A//www.spiritjb.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiritjb.org privacy policy that was archived on 2013-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130906152945id_/http%3A//www.spiritjb.org/privacy) for the most accurate reproduction.*
 
-# Privacy | Jailbreak 6.1, 6.0.2, 6.0.1
+# Privacy | Jailbreak Untethered iPhone
 
 ### Privacy Policy for [Spirit JB](http://www.spiritjb.org/)
 
