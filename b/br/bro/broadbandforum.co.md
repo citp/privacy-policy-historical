@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broadbandforum.co privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430122635id_/http%3A//broadbandforum.co/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadbandforum.co privacy policy that was archived on 2013-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130906042724id_/http%3A//broadbandforum.co/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - India Broadband Forum
 
@@ -18,10 +18,14 @@ Protecting the privacy of the very young is especially important. For that reaso
 This website does not store any information that would, on its own, allow us to identify individual users of this service without their permission. Any cookies that may be used by this website are used either solely on a per session basis or to maintain user preferences. Cookies are not shared with any third parties.
 
 **About Ads**  
-Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.  
-Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.  
-Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting the [ads preference manager](http://www.google.com/ads/preferences/). (Alternatively, you can direct users to opt out of a third-party vendor's use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/).)
+Third party vendors, including [Google](http://goo.gl/sDd0G), use cookies to serve ads based on a user's prior visits to your website. Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet. You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting the [ads preference manager](http://www.google.com/ads/preferences/). You can also opt out of a third-party vendor's use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/). We also use other ad-serving platforms including: 
 
+[Cuelinks](http://goo.gl/WHLgw)  
+[Amazon](http://goo.gl/MAIBA)  
+[Infolinks](http://goo.gl/B9mun)
+
+**Analytics**  
+We use [Google Analytics](http://goo.gl/sDd0G).  
 Also read [this](http://broadbandforum.co/topic/99-disclaimer-privacy-policy-rules-regulations/) please. 
 
   1.  
