@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the limera1n.cc privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423194713id_/http%3A//www.limera1n.cc/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limera1n.cc privacy policy that was archived on 2013-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130906182101id_/http%3A//www.limera1n.cc/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Unlock / Jailbreak iOS 6, 6.0.1 Untethered Absinthe
+# Privacy Policy - Unlock / Jailbreak iOS 7, 6, 6.1.3 Untethered Absinthe
 
 **Privacy Policy for www.Limera1n.cc**
 
