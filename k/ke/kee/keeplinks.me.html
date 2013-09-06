@@ -1,0 +1,447 @@
+<!--The following is the downloaded HTML source of the keeplinks.me privacy policy that was archived on 2013-09-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130906040035id_/http%3A//www.keeplinks.me/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>Privacy Policy - keeplinks.me</title>
+<meta name="description" content="Keeplinks protect your links by hiding them and shorten the url. Links can be protected by password and captcha 
+">
+<meta name="keywords" content="link, protection, redirection, secure, keep, links, shorter, social, network, URL, share, web, CAPTCHA, password, redirector, hidden, hide, protect
+">
+<link rel="icon" href="http://www.keeplinks.me/images/favicon.ico">
+<link rel="stylesheet" href="http://www.keeplinks.me/css/style.css" type="text/css">
+<link rel="stylesheet" href="http://www.keeplinks.me/css/all-1336575104.css" type="text/css">
+<link rel="stylesheet" href="http://www.keeplinks.me/css/thickbox.css" type="text/css">
+<!--script type="text/javascript" src="http://www.keeplinks.me/js/jquery-1.4.1.min.js"></script-->
+<script type="text/javascript" src="http://www.keeplinks.me/js/jquery-latest.js"></script>
+<!--script type="text/javascript" src="http://code.jquery.com/jquery-1.8.2.js"/-->
+
+<script type="text/javascript" src="http://www.keeplinks.me/js/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="http://www.keeplinks.me/js/jquery.metadata.js"></script>
+<script type="text/javascript" src="http://www.keeplinks.me/js/jquery.tipsy.js"></script>
+<link rel="stylesheet" type="text/css" href="http://www.keeplinks.me/css/tipsy.css">
+<script type="text/javascript" src="http://www.keeplinks.me/js/css_browser_selector.js"></script>
+<script>
+$(function() {
+	$('.spantool').tipsy({gravity: 'w',fade: true});
+	$("#general_msg").click(function(){ $("#general_msg").hide();} );
+
+});
+	var basepath="http://www.keeplinks.me/";
+function checkclear(what){
+	if(!what._haschanged){
+	what.value=''
+	};
+	what._haschanged=true;
+}
+
+function fnshowpopup(a)
+{
+	//$("#"+a).attr("href","http://www.keeplinks.me/register.php?height=500&width=380");
+	$("body").append("<div id='TB_load'><img src='http://www.keeplinks.me/images/loadingAnimation.gif' /></div>");
+	$("#TB_load").show();
+	if(a=="reglink")
+		tb_show("Register on keeplinks","http://www.keeplinks.me/register2.php?height=500&width=380",null);
+	else
+		tb_show("Forgot Password","http://www.keeplinks.me/forgotpwd2.php?height=500&width=380",null);
+}
+
+</script>
+<script type="text/javascript" src="http://www.keeplinks.me/js/thickbox.js"></script>
+<style>
+#format { margin-top: 2em; }
+</style>
+</head>
+
+<body>
+	<div id="main">
+		<div id="header">
+			<div class="header_area">
+				<div class="header_top">
+					<div class="logo">
+						<a href="http://www.keeplinks.me/">
+							<img src="http://www.keeplinks.me/images/logo.png" width="200" height="100" alt="Logo">
+						</a>
+					</div>
+					<div class="login_box">
+													<form name="frmlogin" id="frmlogin" method="post" action="http://www.keeplinks.me/login" onsubmit="javascript: return fnchecklogin();">
+								<input type="hidden" name="hiddenaction" id="hiddenaction" value="Login">
+								<input type="submit" name="hbtnlogin" id="hbtnlogin" style="position: absolute; left: -9999px; width: 1px; height: 1px;">
+								<div class="red_msg" id="loginmsg" style="padding-left:75px;"></div>
+								<div class="f1">
+									<div class="lable_name">
+
+									</div>
+									<div class="text_area">
+										<input type="text" value="Username" name="username" id="txtinput" class="required" onfocus="checkclear(this);">
+									</div>
+								</div>
+
+								<div class="f1">
+									<div class="lable_name">
+
+									</div>
+									<div class="text_area">
+										<input type="password" value="********" name="password" id="txtinput" class="required" onfocus="checkclear(this);">
+									</div>
+								</div>
+								<div class="login_but">
+									<div class="login"><a href="#" id="btnlogin">Login</a></div>
+									<div class="rag"><a style="cursor:pointer;" onclick="javascript: fnshowpopup(this.id)" id="fpwdlink" title="Forgot Password">Forgot Password</a></div>
+								</div>
+								<!--div class="login_but">
+
+									<div class="rag"><a href="http://www.keeplinks.me/register.php?height=500&width=380" class="thickbox" title="Register on keeplinks">Register</a></div>
+								</div-->
+
+
+							</form>
+										   </div>
+				</div>
+
+				<div class="header_bottom">
+				
+					<div class="menu">
+						
+							<div class="home_icon">
+								<a href="http://www.keeplinks.me/home"><img src="http://www.keeplinks.me/images/home_icon.png"></a>
+							</div>
+							<ul>
+								<li><a style="cursor:pointer;" onclick="javascript: fnshowpopup(this.id)" id="reglink" title="Register on keeplinks">Register</a></li>
+																	<li><a href="http://www.keeplinks.me/earn-money">Earn Money</a></li>
+																<li><a href="http://www.keeplinks.me/contact-us">Contact Us</a></li>
+							</ul>
+											</div>
+
+
+			  </div>
+			</div>
+		</div>
+
+<script type="text/javascript">
+	function fnchecklogin()
+	{
+		if($.trim($("input[name=username]").val())=="" || $.trim($("input[name=username]").val())=="Username")
+		{
+			$("#loginmsg").html("Please Enter Your Username");
+			$("input[name=username]").focus();
+			return false;
+		}
+
+
+		if($.trim($("input[name=password]").val())=="" || $.trim($("input[name=password]").val())=="********")
+		{
+			$("#loginmsg").html("Please Enter Your Password");
+			$("input[name=password]").focus();
+			return false;
+		}
+		return true;
+	}
+
+
+	$("#btnlogin").live("click",function(e){
+		e.preventDefault()
+		if(fnchecklogin()==true)
+			document.frmlogin.submit();
+	});
+
+	$("#urlmsg").live("click",function(){
+		$("#urlmsg").hide();
+	});
+	$("#myurlmsg").live("click",function(){
+		$("#myurlmsg").hide();
+	});
+
+</script>
+<style>
+	.spantool{
+		cursor:help;
+		}
+	.forgot {
+	float: left;
+	height: 23px;
+	padding-top: 7px;
+	text-align: left;
+	width: 109px;
+}
+.forgot a {
+	color: #4A746E;
+	font-family: Arial,Helvetica,sans-serif;
+	font-size: 12px;
+	font-style: italic;
+	text-decoration: underline;
+}
+</style>
+
+									<div class="top_ad">
+	
+</div>
+<div class="header_nav">
+	</div>
+<div id="middle">
+	<div class="content_area">
+		<div class="about_box">
+			<h1>Privacy Policy</h1>
+		<p></p><p>
+	Keeplinks.me's policy is to respect and protect the privacy of our users. We at Keeplinks.me respect your privacy. All information collected at Keeplinks.me is kept confidential and will not be sold, resued, or rented in any way. We do not share your infromation with any 3rd parties.</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	<strong>IP Addresses</strong>:<br>
+	IP addresses are logged by Keeplinks.me to ensure account safety features availability, measuring usage and statistics.</p>
+<p>
+	&nbsp;</p>
+<p>
+	<strong>Email Addresses:</strong><br>
+	We collect email addresses of users at the time of registration as means of contact and verification. Keeplinks.me does not rent, sell, or share your email addresses with anyone.</p>
+<p>
+	&nbsp;</p>
+<p>
+	<strong>Your account username and password:</strong><br>
+	Please note that it is your responsibility to keep the username and password confidential, so do not share it with anyone. If you use a public PC, make sure you log out prior to leaving keeplinks.me site. You are solely responsible for keeping your username/password inviolable.</p>
+<p>
+	&nbsp;</p>
+<p>
+	<strong>Certain Exceptional Disclosures:</strong><br>
+	We may disclose your information if necessary to protect our legal rights or if the information relates to actual or threatened harmful conduct or potential threats to the physical safety of any person. The disclosure of personal information may be required by court or law enforcement officials.<br>
+	&nbsp;</p>
+<p>
+	<strong>Use of Cookies:</strong><br>
+	Keeplinks.me uses cookies in order to track and analyze preferences of our users and, as a result, improve our site. A cookie is an encrypted number, generated when you visit any site that supports sessions. This cookie is saved permanently on your computer. This data does not contain any secure information (just an encrypted string). Additionally, we set a cookie when you log in to make further logging into our system a little easier. No other website can access any information about you from the cookies we may store on your local computer. We do not share cookies or any other type of information with any other companies. You can always choose not to receive a cookie file by enabling your web browser to refuse cookies or to prompt you before accepting a cookie.<br>
+	&nbsp;</p>
+<p>
+	<strong>Third party cookies:</strong><br>
+	In case of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.</p>
+<p>
+	&nbsp;</p>
+<p>
+	<strong>External links:</strong><br>
+	If any part of the Keeplinks.me website links you to other websites, those websites do not operate under this Privacy Policy. We recommend you examine the privacy statements posted on those other websites to understand their procedures for collecting, using and disclosing personal information.<br>
+	&nbsp;</p>
+<p>
+	<strong>Changes to Privacy Policy:</strong><br>
+	We reserve the right, at any time and without notice, to add to, change, update, or modify this Privacy Policy. Any change, update, or modification will be effective immediately upon posting on the site. Please check this page periodically for changes.<br>
+	&nbsp;</p>
+<p></p>
+		</div>
+
+<script type="text/javascript">
+	$(document).ready(function(){
+		$("#other_topic").hide();
+	});
+	function fncheckfeedback()
+	{
+		if($.trim($("#myid").val())=="")
+		{
+			if($.trim($("#name").val())=="")
+			{
+				$("#namemsg").html("Please Enter Name.");
+				$("#name").focus();
+				return false;
+			}
+			else
+				$("#namemsg").html("");
+
+			if($.trim($("#emailid").val())=="")
+			{
+				$("#emailmsg").html("Please Enter Email.");
+				$("#emailid").focus();
+				return false;
+			}
+			else
+				$("#emailmsg").html("");
+
+			if($("#emailid").val()!="")
+			{
+				var a = $("#emailid").val();
+				var filter = /^[a-zA-Z0-9_.-]+@[a-zA-Z0-9]+[a-zA-Z0-9.-]+[a-zA-Z0-9]+.[a-z]{1,4}$/;
+				if(!filter.test(a)){
+					$("#emailmsg").html("Please Enter Correct Email.");
+					$("#emailid").focus();
+					return false;
+				}
+			}
+		}
+		if($.trim($("#topic").val())!="")
+		{
+			if($("#topic").val()=="Other")
+			{
+				if($.trim($("#topicname").val())=="")
+				{
+					$("#topicmsg").html("Please Enter Topic Name.");
+					$("#topicname").focus();
+					return false;
+				}
+				else
+					$("#topicmsg").html("");
+			}
+			else
+				$("#topicmsg").html("");
+		}
+		else
+			$("#topicmsg").html("");
+
+
+		if($.trim($("#reply").val())=="")
+		{
+			$("#replymsg").html("Please Enter Message.");
+			$("#reply").focus();
+			return false;
+		}
+		else
+			$("#replymsg").html("");
+
+		if($.trim($("#captcha").val())=="")
+		{
+			$("#captchamsg").html("Enter code shown");
+			$("#captcha").focus();
+			return false;
+		}
+		else
+			$("#captchamsg").html("");
+
+		return true;
+	}
+
+	$("#btnsend").live("click",function(e){
+		e.preventDefault()
+		if(fncheckfeedback()==true)
+			document.frmfeedback.submit();
+	});
+
+	$("#topic").live("change",function(){
+		if($("#topic").val()=="Other")
+			$("#other_topic").show();
+		else
+			$("#other_topic").hide();
+	});
+
+	function fnchecksearch()
+	{
+		if($.trim($("#ticketno").val())=="")
+		{
+			$("#ticketmsg").html("Please Enter Your Ticket Id.");
+			$("#ticketno").focus();
+			return false;
+		}
+		else
+			$("#ticketmsg").html("");
+
+		if($.trim($("#frmsearch #email").val())=="")
+		{
+			$("#email_ticketmsg").html("Please Enter Email.");
+			$("#frmsearch #email").focus();
+			return false;
+		}
+		else
+			$("#email_ticketmsg").html("");
+
+		if($("#frmsearch #email").val()!="")
+		{
+			var a = $("#frmsearch #email").val();
+			var filter = /^[a-zA-Z0-9_.-]+@[a-zA-Z0-9]+[a-zA-Z0-9.-]+[a-zA-Z0-9]+.[a-z]{1,4}$/;
+			if(!filter.test(a)){
+				$("#email_ticketmsg").html("Please Enter Correct Email.");
+				$("#frmsearch #email").focus();
+				return false;
+			}
+		}
+		return true;
+	}
+
+	$("#btnview").live("click",function(e){
+		e.preventDefault()
+		if(fnchecksearch()==true)
+			document.frmsearch.submit();
+	});
+
+</script>
+
+<style type="text/css">
+<!--
+.form_box_title_right
+{
+	font-family:'Myriad Pro';
+	font-size:15px;
+	color:#000000;
+	float:right !important;
+	padding: 0 20px;
+	width: auto;
+}
+
+.form_box_title {
+	color: #000000;
+	float:none !important;
+	font-family: 'Myriad Pro';
+	font-size: 15px;
+	padding: 3px 0;
+	margin-top:10px !important;
+	width: 543px;
+}
+.form_box {
+	height: auto;
+	width: 660px;
+	margin:10px 5px;
+}
+-->
+</style>
+
+	</div>
+</div>
+<div class="add_box">
+	<script type="text/javascript"><!--
+google_ad_client = "ca-pub-8289008499625445";
+/* Keeplinks */
+google_ad_slot = "1441852450";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+	<span style="padding:0px 60px;"></span>
+	<script type="text/javascript"><!--
+google_ad_client = "ca-pub-8289008499625445";
+/* Keeplinks */
+google_ad_slot = "1441852450";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+<div id="footer_main">
+	<div class="footer">			
+		<div class="footer_top">
+			<div class="footer_left">Copyright © 2013 - Keeplinks.me</div>
+			<div class="footer_soc">
+				<span class="soc_text">Useful Sites :</span>
+			      <a href="http://www.youtube.com" target="_blank"><input type="image" src="http://www.keeplinks.me/images/youtube_icon.png"></a>
+			      <a href="http://www.facebook.com" target="_blank"><input type="image" src="http://www.keeplinks.me/images/fb_icon.png"></a>
+			      <a href="http://www.twitter.com" target="_blank"><input type="image" src="http://www.keeplinks.me/images/twitter_icon.png"></a>
+			</div>
+		</div>
+		<div class="footer_nav">
+						<ul>
+									<li><a href="http://www.keeplinks.me/home">Home</a></li>
+									<li><a href="http://www.keeplinks.me/news">News</a></li>
+									<li><a href="http://www.keeplinks.me/contact-us">Contact Us</a></li>
+									<li><a href="http://www.keeplinks.me/earn-money">Earn Money</a></li>
+									<li><a href="http://www.keeplinks.me/privacy-policy">Privacy Policy</a></li>
+									<li><a href="http://www.keeplinks.me/terms-and-conditions">Terms and Conditions</a></li>
+									<li><a href="http://www.keeplinks.me/faq">FAQ</a></li>
+									<li style="border:none;"><a href="http://www.keeplinks.me/about-us">About Us</a></li>
+								<!--li><a href="http://www.keeplinks.me/contact-us">Contact Us</a></li>
+				<li><a href="http://www.keeplinks.me/terms-and-conditions">Terms and Conditions</a></li>
+				<li style="border:none;"><a href="http://www.keeplinks.me/faq">FAQs</a></li-->
+			</ul>
+					</div>
+	</div>
+</div>
+
+
+
+</div></body></html>
