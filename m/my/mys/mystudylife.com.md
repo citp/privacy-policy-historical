@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mystudylife.com privacy policy that was archived on 2013-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130403131834id_/https%3A//www.mystudylife.com/terms/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mystudylife.com privacy policy that was archived on 2013-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130906034718id_/https%3A//www.mystudylife.com/privacy-policy) for the most accurate reproduction.*
 
-# My Study Life - My Study Life - Privacy Policy
+# My Study Life | Privacy Policy
 
-This Privacy Policy governs the manner in which My Study Life collects, uses, maintains and discloses information collected from users (each, a "User") of the <https://www.mystudylife.com/> website ("Site"). This privacy policy applies to the Site and all products and services offered by My Study Life.
+This Privacy Policy governs the manner in which My Study Life collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.mystudylife.com](http://www.mystudylife.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by My Study Life.
 
 ### Personal Identification Information
 
@@ -30,7 +30,7 @@ We may use information in the aggregate to understand how our Users as a group u
 We may use feedback you provide to improve our products and services. 
 
   * _\- To send periodic emails_  
-We may use the email address to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. 
+We may use the email address to respond to their inquiries, questions, and/or other requests. If User does not opt-out of our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. 
 
 
 
@@ -51,10 +51,10 @@ My Study Life has the discretion to update this privacy policy at any time. When
 
 ### Your Acceptance of these Terms
 
-By using this Site, you signify your acceptance of this policy and [terms of service](https://web.archive.org/terms/termsofservice). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](https://web.archive.org/terms-of-service). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 ### Contacting Us
 
 ### Date of Last Update
 
-This document was last updated on August 04, 2012.
+This document was last updated on June 26, 2013.
