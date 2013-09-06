@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rcplanet.com privacy policy that was archived on 2013-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130602072406id_/http%3A//www.rcplanet.com/articles.asp%3Fid%3D263) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rcplanet.com privacy policy that was archived on 2013-09-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130906042248id_/http%3A//www.rcplanet.com/articles.asp%3Fid%3D263) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0017/4412.js?439026" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/gtmp_compiled.js"></script><script type="text/javascript" src="/a/j/milonic/milonic_src.js"></script>
@@ -24,6 +24,7 @@ var Config_CDN_URL = '/'
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js"></script>
 <link type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/themes/base/jquery-ui.css" rel="stylesheet">
+<link type="text/css" href="/a/c/default.css" rel="stylesheet">
 
 
 <script type="text/javascript">
@@ -39,7 +40,30 @@ var Config_CDN_URL = '/'
     var PageText_843 = "Subtotal";
     var PageText_844 = "items in cart";
 </script>
+<script type="text/javascript" src="/a/j/volusion.js?6.41.1.224"></script>
+<script type="text/javascript">
+    (function ($) {
+        volusion.ready(function () {
+            if (volusion.cart.isObservingCount()) {
+                var ts = new Date().getTime();
 
+                $.getJSON('/ajaxcart.asp?cachebust=' + ts, function (data) {
+                    var quantityTotal = 0;
+                    $.each(data.Products, function (key, val) {
+                        if (val.IsProduct === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        } else if (val.IsAccessory === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        }
+                    });
+                    quantityTotal = quantityTotal || '0';
+                    volusion.cart.itemCount(quantityTotal);
+                });
+
+            }
+        });
+    } (jQuery));
+</script>
 
 
 <script type="text/javascript" src="/a/j/soft_add.js"></script>
@@ -52,7 +76,7 @@ var Config_CDN_URL = '/'
 </script>
 
 <script type="text/javascript" src="/a/j/soft_add_mult.js"></script>
-<script type="text/javascript" src="/a/j/javascripts.js?6_5_6.34.2"></script>
+<script type="text/javascript" src="/a/j/javascripts.js?6_5_6.41.1.224"></script>
 
 <script type="text/javascript" src="/a/j/vcompare.js"></script>
 <link type="text/css" rel="stylesheet" href="/a/c/VCompare.css">
@@ -97,15 +121,11 @@ var Config_CDN_URL = '/'
 <!-- END: Google Trusted Store --> 
 
 
-
 <title></title>
 <meta name="google-site-verification" content="0D2oGhJ04E7iQjgUWUB2ZywEIqLOBZENovvUD4QPqWM">
 <meta name="msvalidate.01" content="10737BC63E6B1EE785B2312BB7980D02">
 <!-- DYNAMIC PAGE-SPECIFIC META TAGS WILL BE PLACED HERE
 		DO NOT ADD YOUR OWN META TAGS, ONLY PUT CSS/JAVSCRIPT INCLUDES IN YOUR HEAD TAG -->
-
-
-
 <script src="/v/vspfiles/templates/rcp_template/js/jqFancyTransitions.js" type="text/javascript"></script>
 <script src="/v/vspfiles/templates/rcp_template/js/v_custom.js" type="text/javascript"></script>
 <script src="/v/vspfiles/templates/rcp_template/js/findwidget.js" type="text/javascript"></script>
@@ -120,6 +140,7 @@ _gaq.push(['_addIgnoredRef', 'search.rcplanet.com']);
 _gaq.push(['_setDomainName', 'rcplanet.com']);
 _gaq.push(['_trackPageview']);
 </script>
+
 <!-- END GOOGLE ANALYTICS GENERAL TRACKING SCRIPT-->
 
 <!-- Bing Webmaster Code Begin -->
@@ -127,13 +148,7 @@ _gaq.push(['_trackPageview']);
 <!-- Bing Webmaster Code End-->
 <script type="text/javascript" async="" src="https://upfront.thefind.com/scripts/main/utils-init-ajaxlib/upfront-badgeinit.js">thefind.upfront.init('tf_upfront_badge', 'f4b7d46141994ef47cf88b6c140c119b')</script></head>
 <body>
-<div class="side_box">
-	<a href="/dealoftheday.asp">
-	<img src="/v/vspfiles/templates/rcp_template/images/hot_deals.png" alt="Hot Deals" width="47" height="123">
-	</a>
-	<br>
-	<a href="/New_RC_Products_Cars_Trucks_Airplanes_Heli_s/4954.htm"><img src="/v/vspfiles/templates/RCP-OPT/images/newitems.png" alt="HOT New Items"></a>
-</div>
+
 <div id="page">
 	<div id="header_container">
 		<div id="header">
@@ -263,11 +278,6 @@ function mClk6(src, popup)
 	</tr>
 	<tr>
 		<td valign="middle" class="nav" onmouseover="mOvr6(this);" onmouseout="mOut6(this);" onclick="mClk6(this);" style="background-color: transparent">
-			<a href="http://www.rcplanet.com/RC_Motorcycle_Parts_s/5597.htm" title="RC Motorcycle Parts">RC Motorcycle Parts</a>
-		</td>
-	</tr>
-	<tr>
-		<td valign="middle" class="nav" onmouseover="mOvr6(this);" onmouseout="mOut6(this);" onclick="mClk6(this);" style="background-color: transparent">
 			<a href="http://www.rcplanet.com/Radio_Control_Remote_RC_Engines_s/5454.htm" title="Radio Control Remote RC Engines">Engines</a>
 		</td>
 	</tr>
@@ -293,27 +303,12 @@ function mClk6(src, popup)
 	</tr>
 	<tr>
 		<td valign="middle" class="nav" onmouseover="mOvr6(this);" onmouseout="mOut6(this);" onclick="mClk6(this);" style="background-color: transparent">
-			<a href="http://www.rcplanet.com/Finishing_Supplies_RC_Radio_Control_s/5456.htm" title="Finishing Supplies RC Radio Control">Finishing Supplies</a>
-		</td>
-	</tr>
-	<tr>
-		<td valign="middle" class="nav" onmouseover="mOvr6(this);" onmouseout="mOut6(this);" onclick="mClk6(this);" style="background-color: transparent">
 			<a href="http://www.rcplanet.com/RC_Radio_Control_Manufacturer_Brands_s/5584.htm" title="RC Radio Control Manufacturer Brands">Shop by Brand</a>
 		</td>
 	</tr>
 	<tr>
 		<td valign="middle" class="nav" onmouseover="mOvr6(this);" onmouseout="mOut6(this);" onclick="mClk6(this);" style="background-color: transparent">
 			<a href="http://www.rcplanet.com/Performance_Parts_Traxxas_HPI_Axial_Associated_s/5742.htm" title="Performance Parts Traxxas HPI Axial Associated">Shop Performance R/C Parts</a>
-		</td>
-	</tr>
-	<tr>
-		<td valign="middle" class="nav" onmouseover="mOvr6(this);" onmouseout="mOut6(this);" onclick="mClk6(this);" style="background-color: transparent">
-			<a href="http://www.rcplanet.com/Americas_Best_RC_Sale_s/5738.htm" title="Americas Best RC Sale">America's Best R/C Sale</a>
-		</td>
-	</tr>
-	<tr>
-		<td valign="middle" class="nav" onmouseover="mOvr6(this);" onmouseout="mOut6(this);" onclick="mClk6(this);" style="background-color: transparent">
-			<a href="http://www.rcplanet.com/RC_Clearance_Center_cars_trucks_heli_airplane_s/3006.htm" title="RC Clearance Center cars trucks heli airplane">Clearance Center</a>
 		</td>
 	</tr>
 </tbody></table>
@@ -379,6 +374,11 @@ function mClk3(src, popup)
 	</tr>
 	<tr>
 		<td valign="middle" class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);" style="background-color: transparent">
+			<a href="http://www.rcplanet.com/Team_Durango_RC_Parts_DESC210_DESC410_DEST210_DEX210_s/6050.htm" title="Team Durango RC Parts DESC210, DESC410, DEST210, DEX210">Team Durango R/C Parts</a>
+		</td>
+	</tr>
+	<tr>
+		<td valign="middle" class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);" style="background-color: transparent">
 			<a href="http://www.rcplanet.com/Walkera_RC_Helicopter_Heli_UFO_Ladybird_Genius_CP_Parts_s/5131.htm" title="Walkera RC Helicopter Heli UFO Ladybird Genius CP Parts">Walkera Heli Parts</a>
 		</td>
 	</tr>
@@ -420,6 +420,11 @@ function mClk4(src, popup)
 <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
 	<tbody><tr>
 		<td valign="middle" class="nav" onmouseover="mOvr4(this);" onmouseout="mOut4(this);" onclick="mClk4(this);" style="background-color: transparent">
+			<a href="http://www.rcplanet.com/Finishing_Supplies_RC_Radio_Control_s/5456.htm" title="Finishing Supplies RC Radio Control">Finishing Supplies</a>
+		</td>
+	</tr>
+	<tr>
+		<td valign="middle" class="nav" onmouseover="mOvr4(this);" onmouseout="mOut4(this);" onclick="mClk4(this);" style="background-color: transparent">
 			<a href="http://www.rcplanet.com/Airsoft_Accessories_Masks_Green_Gas_Goggles_BB_s_s/5721.htm" title="Airsoft Accessories Masks Green Gas Goggles BB's">Airsoft Accessories</a>
 		</td>
 	</tr>
@@ -451,6 +456,11 @@ function mClk4(src, popup)
 	<tr>
 		<td valign="middle" class="nav" onmouseover="mOvr4(this);" onmouseout="mOut4(this);" onclick="mClk4(this);" style="background-color: transparent">
 			<a href="http://www.rcplanet.com/RC_Rebate_Offers_Parts_Kits_Radio_Control_s/4959.htm" title="RC Rebate Offers Parts Kits Radio Control">Special Rebate Offers</a>
+		</td>
+	</tr>
+	<tr>
+		<td valign="middle" class="nav" onmouseover="mOvr4(this);" onmouseout="mOut4(this);" onclick="mClk4(this);" style="background-color: transparent">
+			<a href="http://www.rcplanet.com/RC_Clearance_Center_cars_trucks_heli_airplane_s/3006.htm" title="RC Clearance Center cars trucks heli airplane">Clearance Center</a>
 		</td>
 	</tr>
 </tbody></table>
@@ -606,16 +616,25 @@ var google_conversion_value = 0;
 			<div id="footer_top">
 				<div class="footer_ico">
 					<a target="GT__SIP" onclick="return gt__md();" href="https://smarticon.geotrust.com/smarticonprofile?Referer=http://www.rcplanet.com" tabindex="-1"><img border="0" oncontextmenu="return false;" alt="Click for company profile" src="/v/vspfiles/templates/rcp_template/images/geo_ico.jpg" width="101" height="49" name="zeidqfcv"></a>
-					<img src="/v/vspfiles/templates/rcp_template/images/bbb_ico.jpg" alt="Better Business Bureau" width="93" height="76">
 					<img src="/v/vspfiles/templates/rcp_template/images/paypal_ico.jpg" alt="PayPal" width="73" height="73">
 					<img src="/v/vspfiles/templates/rcp_template/images/cards.jpg" alt="Accepted Credit Cards: Visa, American Express, Discover, Master Card" width="260" height="33">
 				</div>
 				<div class="social_box">
-					<a href="https://www.facebook.com/pages/RC-Planet/227602821831?ref=ts" target="_blank"><img src="/v/vspfiles/templates/rcp_template/images/f_ico.jpg" alt="Find us on Facebook" width="40" height="40"></a><a href="https://twitter.com/rcplanetusa" target="_blank"><img src="/v/vspfiles/templates/rcp_template/images/t_ico.jpg" alt="Follow us on Twitter" width="40" height="40"></a><a href="https://www.youtube.com/rcplanetrocks" target="_blank"><img src="/v/vspfiles/templates/rcp_template/images/you_ico.jpg" alt="Check out our YouTube Channel" width="40" height="40"></a><a href="https://plus.google.com/u/0/b/114764972407801055149/114764972407801055149/posts" target="_blank"><img src="/v/vspfiles/templates/rcp_template/images/g_ico.jpg" alt="Get in our Cirlcle on Google Plus" width="40" height="40"></a><a href="http://instagram.com/thercplanet" target="_blank"><img src="/v/vspfiles/templates/rcp_template/images/i_ico.jpg" alt="Follow us on Instagram" width="40" height="40"></a>
+					<a href="https://www.facebook.com/pages/RC-Planet/227602821831?ref=ts" target="_blank"><img src="/v/vspfiles/templates/rcp_template/images/f_ico.jpg" alt="Find us on Facebook" width="40" height="40"></a><a href="https://twitter.com/rcplanetusa" target="_blank"><img src="/v/vspfiles/templates/rcp_template/images/t_ico.jpg" alt="Follow us on Twitter" width="40" height="40"></a><a href="https://www.youtube.com/rcplanetrocks" target="_blank"><img src="/v/vspfiles/templates/rcp_template/images/you_ico.jpg" alt="Check out our YouTube Channel" width="40" height="40"></a><a href="https://plus.google.com/u/0/b/114764972407801055149/114764972407801055149/posts?rel=author" target="_blank"><img src="/v/vspfiles/templates/rcp_template/images/g_ico.jpg" alt="Get in our Cirlcle on Google Plus" width="40" height="40"></a><a href="http://instagram.com/thercplanet" target="_blank"><img src="/v/vspfiles/templates/rcp_template/images/i_ico.jpg" alt="Follow us on Instagram" width="40" height="40"></a>
 				</div>
 				<div class="clear">
 				</div>
 			</div>
+
+
+<div class="side_box">
+	<a href="/dealoftheday.asp">
+	<img src="/v/vspfiles/templates/rcp_template/images/hot_deals.png" alt="Hot Deals" width="47" height="123">
+	</a>
+	<br>
+	<a href="/New_RC_Products_Cars_Trucks_Airplanes_Heli_s/4954.htm"><img src="/v/vspfiles/templates/RCP-OPT/images/newitems.png" alt="HOT New Items"></a>
+</div>
+
 			<div id="footer_middle">
 				<ul class="first">
 					<li class="title">Buy</li>
@@ -699,9 +718,6 @@ a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0
 a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 <!-- END GOOGLE CRAZYEGG GENERAL TRACKING SCRIPT -->
 </script>
-
-
-
 
 
 
