@@ -1,46 +1,34 @@
-> *The following text is extracted and transformed from the dwtechz.com privacy policy that was archived on 2010-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100128222937id_/http%3A//www.dwtechz.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dwtechz.com privacy policy that was archived on 2013-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130906035005id_/http%3A//www.dwtechz.com/%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Notice : DWT Wholesale
+# Privacy Notice : DWTechz.com
 
-We understand that you are very concerned about the usage and sharing of your personal information. And we are very appreciated your belief on our prudence and sensitivity handling this issue. This declaration will specify our policy regarding the protection of your privacy. Our website is under the operation of Dwtechz.com Inc.
+We are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998). 
 
-If you have visited our website, that will be considered to be your acceptance to this privacy policy.
+We collect information about you for 2 reasons: firstly, to process your order and second, to provide you with the best possible service. 
 
-### Automatically collected information
+We will not e-mail you in the future unless you have given us your consent. We will give you the chance to refuse any marketing email from us, should you already be recieving them and wish us to stop sending them.
 
-Whenever you interact with us, we will receive and deposit the given information.
+The type of information we will collect about you includes: 
 
-For example, like many other sites, we use “cookies”.
+your name   
+address   
+phone number   
+email address 
 
-When your internet browser visits Dwtechz.com, we will collect some information. (please refer to the sample of information collecting process stated at the end of this policy)  
-Many companies provide you with the technology that can help you to visit the website anonymously. Although under this condition we can’t offer you the individualized experience on our website as your ID is unidentified, we still like to remind you of the existence of these technologies.
+Note that we do not collect or store your credit card details, that is handled securely by the Payment Service Provider (either credit card or western union). We never get to see your credit card details.
 
-### E-mail Correspondence
+We will never collect sensitive information about you without your explicit consent. 
 
-To help us making the E-mail more useful and interesting, when you open the email from Dwtechz.com, we will often receive a mail confirming you having read the delivered email. (if your computer support this function)We will also make the comparison between our customer list and other companies’in order to avoid the junk messages.
+The information we hold will be accurate and up to date. You can check the information that we hold about you by emailing us. If you find any inaccuracies we will delete or correct it promptly. 
 
-The information from other resources:
+The personal information which we hold will be held securely in accordance with our internal security policy and the law. 
 
-We may collect your information for other resources and add it into our customer database (please refer to the sample of information collecting process stated at the end of this policy)
+We will never transfer information held about you to any third party unless required to do so by law, with the expection of providing address and contact details to couriers for the purpose of delivering goods purchased. 
 
-### Cookies
+We may use technology to track the patterns of behaviour of visitors to our site. This can include using a "cookie" which would be stored on your browser. You can usually modify your browser to prevent this happening. The information collected in this way can be used to identify you unless you modify your browser settings.
 
-Cookies can be defined as a kind of discriminating symbols consisting of letters and numbers read-in your computer hard disc by us through your internet browser so that our system will identify your browser during your visit and display the characteristics and quantity of items in your shopping cart.
+If you have any questions/comments about privacy, please 
 
-The help function of tool bar on your browser will tell you how to prevent the browser from installing new cookies and inform you when the browser installing a new cookie or shut down the cookies totally.
+[contact us](http://www.dwtechz.com/?main_page=contact_us).
 
-Besides, you can close or cancel the alike data of browser add-ons like Flash cookies by changing its setting or visiting other manufactures’websites.
-
-However, cookies can help you to make most use of the best special services from Dwtechz.com, so we recommend you to set up an open status for this program.
-
-### The Information from Other Resources
-
-The examples of the information we get from other resources containing the depatching and address information we get from our forwarder or other third party, which can correct our record and make it easy to deliver your next order and contact you..
-
-Account information, purchasing or returning information, searching keywords and results given by our affiliated enterprises’service, page browsing information gotten from our cooperative enterprises, searching result and links, including not-for-free searching list.
-
-The information you can get
-
-The information you can get easily from Dwtechz.com containing the latest order information, identifiable personal information (including name, email address, password, directory inquiries etc.), payment settings (including credit card details) and so on.
-
-**Dwtechz.com Management.**
+[](http://www.dwtechz.com/)
