@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bytescout.com privacy policy that was archived on 2011-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110221025547id_/http%3A//www.bytescout.com/misc/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bytescout.com privacy policy that was archived on 2013-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130907014610id_/http%3A//bytescout.com/misc/privacy_statement.html) for the most accurate reproduction.*
 
-# Privacy Statement | Software for home, business and developers
+# Privacy Statement | ByteScout
 
 ByteScout is committed to protecting your privacy. The following discloses the information gathering and dissemination practices for this Web site: [www.ByteScout.com](http://www.bytescout.com/ "www.ByteScout.com").
 
