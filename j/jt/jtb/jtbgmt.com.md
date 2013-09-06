@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jtbgmt.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424102655id_/http%3A//www.jtbgmt.com/privacy_policy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jtbgmt.com privacy policy that was archived on 2013-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130906191940id_/http%3A//www.jtbgmt.com/privacy_policy/privacy_policy.html) for the most accurate reproduction.*
 
 # JTB Global Marketing & Travel : Privacy Policy
 
