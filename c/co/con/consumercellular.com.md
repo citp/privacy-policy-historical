@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the consumercellular.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430022037id_/http%3A//consumercellular.com/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumercellular.com privacy policy that was archived on 2013-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130906063750id_/https%3A//www.consumercellular.com/Home/Privacy) for the most accurate reproduction.*
 
 # Privacy and Security - Consumer Cellular
 
 Protecting privacy and ensuring security is important to Consumer Cellular. Our privacy and security policies are outlined below. If you still have questions, feel free to call us at 1-888-345-5509. 
 
-##  Privacy
+## Privacy
 
 This privacy notice discloses the privacy practices for www.ConsumerCellular.com and applies to information collected both online and offline by Consumer Cellular. 
 
-##  Information Collection, Use and Sharing.
+## Information collection, use and sharing.
 
 We are the sole owners of the information collected on this site. We only have access to collect information that you voluntarily give us via email, our online shopping forms, or other direct contact from you. We will not sell or rent this information to anyone. 
 
@@ -18,18 +18,18 @@ Unless you ask us not to, we may contact you via email in the future to tell you
 
 When contacting us via email, or the 'Contact Us' smart-form, please do not include Account Numbers, Credit Card Numbers, Social Security Numbers or any other identification numbers, aside from phone numbers and/or cell phone numbers. Thank you. 
 
-##  Your Access to and Control Over Information.
+## Your access to and control over information.
 
 You may opt out of any future contacts from us at any time. By contacting us via our contact form or calling 1-888-345-5509, you can do the following at any time: 
 
-  * See what data we have about you, if any. 
-  * Change/correct any data we have about you. 
-  * Have us delete any data we have about you. 
-  * Express any concern you have about our use of your data. 
+  * See what data we have about you, if any.
+  * Change/correct any data we have about you.
+  * Have us delete any data we have about you.
+  * Express any concern you have about our use of your data.
 
 
 
-##  Security
+## Security
 
 We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline. 
 
