@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carefreeliners.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621172034id_/http%3A//www.carefreeliners.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carefreeliners.com privacy policy that was archived on 2013-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130906074806id_/http%3A//www.carefreeliners.com/privacy-policy) for the most accurate reproduction.*
 
 # CAREFREE® - Privacy Policy | CAREFREE®
 
