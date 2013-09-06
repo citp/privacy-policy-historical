@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chatroulettehalloffame.com privacy policy that was archived on 2013-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130121060630id_/http%3A//www.chatroulettehof.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatroulettehalloffame.com privacy policy that was archived on 2013-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130906222246id_/http%3A//www.chatroulettehof.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Chatroulette Hall of Fame
 
