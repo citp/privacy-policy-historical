@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capacostarica.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615152152id_/http%3A//capacostarica.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capacostarica.com privacy policy that was archived on 2013-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130906065630id_/http%3A//capacostarica.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Capacostarica.com
 
@@ -84,7 +84,7 @@ You may choose to restrict the collection or use of your personal information in
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
   * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at 
 
-Email: [mailto:](mailto: "Send email to:")
+Email: [](mailto: "Send email to:")
 
 
 
