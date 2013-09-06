@@ -1,18 +1,15 @@
-> *The following text is extracted and transformed from the site24x7.com privacy policy that was archived on 2013-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130123002832id_/http%3A//www.site24x7.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the site24x7.com privacy policy that was archived on 2013-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130906072554id_/http%3A//www.site24x7.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Site24x7 - Privacy Policy
+# Privacy Policy - Site24x7
 
-  
+Privacy Policy
 
+19th June 2013
 
-* * *
+This is a website owned by Zoho Corporation Pvt. Ltd. 
 
-5th July 2012
-
-This is a website owned by Zoho Corporation Pvt. Ltd.   
-
-
-We can be reached via e-mail at [support@site24x7.com](mailto:support@site24x7.com) or you can reach Site24x7 Customer Support Services by telephone at +1 408 352 9117. 
+We can be reached via e-mail at [support@site24x7.com](mailto:support@site24x7.com) or you can reach Site24x7 Customer Support Services by telephone at   
++1 408 352 9117. 
 
 ## **General**
 
@@ -55,6 +52,16 @@ We store and maintain the data stored in your Account at our facilities in the U
 
 
 We use the Internet Protocol address, browser type, browser language, referring URL, files accessed, errors generated, time zone, operating system and other visitor details collected in our log files to analyze the trends, administer the website, track visitor's movements and to improve our website.
+
+  * **Device and Application Data in APM Insight**
+
+
+
+
+The APM Insight module of Site24x7 provides web transaction performance monitoring through agents installed in your applications.  
+The agent installed in each application collects data about the machine on which the application is installed (“Device Data”) and data about the application (“Application Data”). “Device Data” includes Internet Protocol (IP) address or the host name of the device where your application is running, the port in which the application is running and proxy server details of your network (if any). “Application Data” includes data about the performance of your application (such as response time, request count and database queries) and data about transactions in your application (such as stack traces and sql query traces). 
+
+Individual transaction data collected by the agent is obfuscated by default. However, you have the option of changing this configuration so that individual transaction data is not obfuscated. You can also disable collection of certain types of Application Data by the agent. 
 
 ## **Cookies**
 
