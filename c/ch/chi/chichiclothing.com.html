@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the chichiclothing.com privacy policy that was archived on 2013-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130603023349id_/http%3A//www.chichiclothing.com/pages/Privacy-Notice.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the chichiclothing.com privacy policy that was archived on 2013-09-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130906153321id_/http%3A//www.chichiclothing.com/pages/Privacy-Notice.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
 	
@@ -34,7 +34,7 @@
 
 
 	<!-- Include visitor tracking code (if any) -->
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.chichiclothing.com/index.php?action=tracking_script"></script>
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" src="http://www.chichiclothing.com/index.php?action=tracking_script"></script>
 
 	
 
@@ -86,7 +86,7 @@
 	}	
 	
 	</script>	
-	
+	<script>$(document).ready(function() {doImodal();});</script>
 	<!-- #####################popup code###################### -->
 </head>
 
@@ -213,6 +213,7 @@
 <li><a href="http://www.chichiclothing.com/categories/Clothing/Prom-Dresses/" style="" class=""> Prom Dresses</a></li>
 </ul>
 </li>
+<li class="noSubCats"><a href="http://www.chichiclothing.com/categories/Bestsellers/" style="" class="">Bestsellers</a></li>
 <li class="noSubCats"><a href="http://www.chichiclothing.com/categories/Chi-Chi-Couture/" style="" class="">Chi Chi Couture</a></li>
 <li class="noSubCats"><a href="http://www.chichiclothing.com/categories/Sale/" style="" class="">Sale</a></li>
 <li class="noSubCats"><a href="http://www.chichiclothing.com/blog/" target="_blank" style="" class="">Blog</a></li>
@@ -286,24 +287,8 @@
 			<div class="span4">
 				<div class="twitter">
 					<h3>Twitter</h3>
-					<script src="http://www.chichiclothing.com/templates/chichi2/Styles/js/jquery.tweet.js"></script>
-					<script type="text/javascript">
-						jQuery(function($){
-							$(".tweet").tweet({
-								username: "chichiclothing",
-								join_text: "auto",
-								avatar_size: 32,
-								count: 4,
-								auto_join_text_default: "", 
-								auto_join_text_ed: "",
-								auto_join_text_ing: "",
-								auto_join_text_reply: "",
-								auto_join_text_url: "",
-								loading_text: "loading tweets..."
-							});
-						});
-					</script>
-    				<div class="tweet"></div>
+					<a width="352" height="258" class="twitter-timeline" href="https://twitter.com/chichiclothing" data-widget-id="319442497711505408">Tweets by @chichiclothing</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
     			</div>
 			</div>
 			
@@ -534,6 +519,17 @@
 			});
 		}
 		-->
+		</script>
+		
+		<script type="text/javascript">
+			$(document).ready(function(){
+
+				$('.flexslider img').each(function(){ 
+					$(this).removeAttr('width')
+					$(this).removeAttr('height');
+				});
+
+			});
 		</script>
 
 		</div>
