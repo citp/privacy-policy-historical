@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vamido.com.ng privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603105220id_/http%3A//www.vamido.com.ng/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vamido.com.ng privacy policy that was archived on 2013-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130906051405id_/http%3A//www.vamido.com.ng/privacy-policy) for the most accurate reproduction.*
 
 # Vamido - Privacy policy | Vamido
 
