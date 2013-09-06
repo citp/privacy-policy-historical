@@ -1,111 +1,119 @@
-> *The following text is extracted and transformed from the teachers-teachers.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221032258id_/http%3A//www.teachers-teachers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachers-teachers.com privacy policy that was archived on 2013-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130906040921id_/https%3A//www.teachers-teachers.com/public/jobseeker/PrivacyPolicy.aspx%3FPortalName%3Dmain) for the most accurate reproduction.*
 
-# Teachers-Teachers.com
+# Teaching Jobs | Teachers-Teachers.com
 
-Teachers-Teachers.com Privacy Policy  
-Latest revision: June 1, 2002  
+Teachers-Teachers.com, Inc. Privacy Policy  
+Latest revision: March 24, 2013 _Overview_
 
+Teachers-Teachers.com, Inc. respects and is dedicated to the privacy of our users. Our intention is to provide a secure and safe environment for the confidential and personal information of both job seekers and employers. The following statement outlines the policies by which Teachers-Teachers.com, Inc. collects, manages, and uses the information provided to us by users. Use of the Teachers-Teachers.com website indicates you have read these policies and accept them. 
 
-**Overview**
+_Information Collection and Storage_
 
-> Teachers-Teachers.com is dedicated to the privacy of its users. Our intention is to provide a secure and safe environment for both schools and teachers. The following statement outlines the policies by which Teachers-Teachers.com collects, manages, and uses the data provided to us by users. Use of the Teachers-Teachers.com site indicates you have read these policies and agree to abide by them. 
+The Information collected by Teachers-Teachers.com, Inc. will be stored on machines within the United States of America. If you are outside of the United States and its territories and holdings, your use of the Teachers-Teachers.com website amounts to consent to the transfer of information into the United States.
 
-**Information Collection**
+We store your information to make your interaction with Teachers-Teachers.com, Inc more efficient, practical, and relevant. You may review or update the personal information you share with us at any time by accessing your account. When you delete your personal information, we will retain logs and non-personal information about you along with an archival copy of your information, which is not accessible by you or third parties on the Internet. If your personal information was previously accessed by others using Teachers-Teachers.com, Inc, we are unable to delete the information from their systems.
 
-> The information collected and stored by Teachers-Teachers.com will be stored on machines within the United States of America. If you are outside of the United States and its territories and holdings, your use of the Teachers-Teachers.com site amounts to consent to the transfer of information into the United States. 
-> 
-> _Teacher Information Collection_  
->  To serve its teacher members as best as possible, Teachers-Teachers.com makes mandatory the following information from teachers: first and last name, address, city, state, zip code, email address, home phone number, resident/VISA status; and preferred teaching subject areas, teaching states, school types, and willingness to teach overseas. 
-> 
-> The following areas are optional: colleges and universities attended, degrees earned, and dates of attendance; teacher certification states and subject areas; previous teaching experience; related teaching experiences; reference information; current employer's zip code (for more information on this option, see Site Information). 
-> 
-> The omission or deletion of the optional teacher areas has no effect on the general methods the Teachers-Teachers.com site returns information to school accounts. It is within the discretion of each individual school account as to take into advisement the omission of such data when reviewing resumes for an open position. 
-> 
-> _School Information Collection_  
->  To serve its school members as best as possible, Teachers-Teachers.com makes mandatory the following information from schools: school/district name, address, city, state, and zip code; school type; first and last name, position, phone number, email address of the main contact for the school account; number of schools the account will serve; purchase order number for account billing purposes. 
-> 
-> The following areas are optional: school web site address, school mission statement/philosophy, description of school system, and general school neighborhood; contact fax number. 
-> 
-> The omission or deletion of the optional school areas has no effect on the general methods the Teachers-Teachers.com site returns information to teacher accounts. It is within the discretion of each individual teacher's account preferences as to take into advisement the omission of such data. 
+If you change your mind about receiving communications from Teachers-Teachers.com, Inc or other parties, you may change your preferences by logging into your account and adjusting your notification settings.
 
-**Information Access**
+You may also turn off cookies. But this may adversely affect your use of Teachers-Teachers.com, Inc.
 
-> During the sign-up process, users will be asked to specify a unique username and corresponding password. Through this username/password combination, users may access their account and use the site. 
-> 
-> _Teacher access to school data_  
->  Teacher accounts will be allowed to view only the following information about schools: school district name, contact name, contact email address, and, if provided, school web site address, statement/philosophy, description of school system, and general school neighborhood. 
-> 
-> _School access to teacher data_  
->  Schools will be allowed access to most of the information provided by teachers; the exception to this access are if the zip code of the school account matches up with the blocked zip code within a specific teacher account, in which case that school will have no access to any information within that account, or any knowledge that the account even exists. 
-> 
-> _Anonymous free preview access_  
->  Anonymous Internet visitors performing a free preview will have limited access to a teacher's resume. To protect teacher privacy, the last name, phone number, email address, postal address and reference contact phone numbers will be hidden during the free preview process. 
+ _Job Seeker Information Collection_
 
-**Aggregate Use of Collected Information**
+In order to register with Teachers-Teachers.com, job seekers must enter the following information: first name, last name, email address, username, password and country authorized to work in. All other fields on the registration page are optional, with the exception of accepting the terms of use and privacy policy.
 
-> Aggregate statistics are collected regularly, including, but not limited to, the number of users during a specific period, the preferred subjects and/or states chosen by teachers, and account usage. No outside group or entity with which Teachers-Teachers.com shares this aggregate data will have access to any data within a specific teacher or school account. 
+In the course of using Teachers-Teachers.com, job seekers are given the opportunity to enter personal and professional information, including social security number, and job preferences. In addition, job seekers can upload documents that may include sensitive information.
 
-**Specific Use of Collected Information**
+Although Teachers-Teachers.com, Inc. does require job seekers to enter information, beyond what is required on the registration page, in order to search and view opportunities, employers may require job seekers to enter information, submit documents or answer questions when responding to their opportunities. Once a job seeker submits his information and/or documents to an employer, it becomes the property of that employer and cannot be retracted.
 
-> In an effort to maximize user experience, and to maximize the speed and efficiency of its service, Teachers-Teachers.com may keep track of user frequency, habits, preferences and settings. Access to this information is strictly limited to Teachers-Teachers.com and its employees. Any data which is shared outside of Teachers-Teachers.com and its affiliates is done so only in aggregate form as described in the previous section. 
-> 
-> Only direct employees and programmers within the Teachers-Teachers.com staff will have access to provided account information, access which includes, but is not limited to, the access to modify and or delete information as needed to maintain the integrity of the user database. 
-> 
-> Information such as user IP address, internet service provider (ISP), web browser, operating system, approximate times of use, referring site, and any similar data exchanged between a user's computer and the servers of Teachers-Teachers.com is collected on an aggregate basis, and, unless initiated by a specific user account, no method exists to tie this information to a particular user account. This information is accessible only to the systems administrators within Teachers-Teachers.com and is used to ensure the broadest sense of compatibility and connectivity between users and the Teachers-Teachers.com site. 
+ _Employer Information Collection_
 
-**Site Security**
+In order to register with Teachers-Teachers.com, employers must register the following information: employer name, address, type, community setting and billing method. In addition, the following information must be entered for the primary contact: first name, last name, email, phone, time zone, username and password. 
 
-> Teachers-Teachers.com has implemented and continues to maintain appropriate technical and management measures to keep your personal information secure and safe from loss, damage, corruption, or deletion. Nevertheless, we are unable to guarantee that these implementations will not at some time be compromised by malicious third parties. 
+Each employer may have multiple users and for each user the following information must be entered by an account administrator: first name, last name, job title, email, phone, time zone, username, password, role, and status. 
 
-**Account Inactivity**
+_How We Use the Information We Collect_
 
-> Each teacher account on Teachers-Teachers.com has the option of making their account inactive. This option removes the majority of the features from the account, until it is made active again. During the reactivation process, you will be required to verify your email address with the service. 
+We may use the information we obtain about you to: manage and maintain your account; provide services you request; maintain a record of the jobs you view or apply to on the website; analyze and enhance our marketing communications and strategies; inform you of relevant job postings, events and announcements that may be of interest to you; operate, evaluate and improve our business and the products and services we offer; analyze trends and statistics regarding visitors’ use of our website, mobile applications and social media assets, and the jobs viewed or applied to on our website; protect against and prevent fraud, unauthorized transactions, claims and other liabilities, and manage risk exposure, including by identifying potential hackers and other unauthorized users; provide administrative notices or communications applicable to your use of the website; respond to your questions and comments and provide customer support; contact you and deliver information to you that, in some cases, is targeted to your interests; enforce our website’s Terms of Use; and comply with applicable legal requirements and industry standards and our policies.
 
-**Account Deletion**
+ _Information Access_
 
-> Should you choose to delete your account completely, please contact the proper account representative listed in the Contact section of this policy. 
+Each user either selects or is assigned a unique username and password. This username/password combination will be used to login to Teachers-Teachers.com and access the user’s information, including the ability to modify the username and password at anytime.
 
-**Validity of User Information**
+ _Job Seeker Access to Employer Information_
 
-> Teachers-Teachers.com exists as a medium between hiring schools and prospective teachers. While we routinely inspect the database to ensure its integrity, Teachers-Teachers.com makes no promise as to the validity and truthfulness of any information entered and saved by teachers and schools. 
+Job seekers will be provided the following information regarding employers: employer name, address, type, community setting, and if provided, website address, mission statement, description, EOE statement and contact. Job seekers will not be provided with the email address and phone numbers of the employer users.
 
-**Scope of Involvement**
+ _Employer Access to Job Seeker Information_
 
-> Teachers-Teachers.com is meant as a convenient and efficient tool for teachers and schools to contact one another. Should you need additional help filling your school positions, please contact the schools account representatives at [schools@teachers-teachers.com](mailto:schools@teachers-teachers.com) or using one of the contact methods listed at the end of this agreement. 
+Employers will be provided the following information regarding job seekers: first name, last name and all information entered on the resume, provided access has been granted by job seeker by way of the resume visibility setting and the job seeker account is active. Those employers may use the phone number, email and/or address to contact the job seeker directly. If your resume is downloaded by an employer, your resume may become a part of the employer’s database. In these instances, the use of such information by the employer will be subject to the privacy policy of that company, and we are not responsible for that company’s use of the job seekers information.
 
-**Links to Third-Party Websites**
+Employers will be provided access to a job seeker’s sensitive information, including social security identification number, demographic data, documents and answers to questions only if the job seeker grants the employer access. 
 
-> Certain areas of the Teachers-Teachers.com website may contain links to third-party websites. Teachers-Teachers.com is not responsible for the content, actions and policies of these third-party websites. Any such links, including those provided and actively maintained by Teachers-Teachers.com, are not covered under the policies of this document. For more information on the data collection and usage agreement of these websites, visit their respective privacy policies. 
+_Employer Preview_
 
-**Changes Within This Privacy Policy**
+On its public website, Teachers-Teachers.com provides information regarding the resumes in its database. The public is provided the following information regarding all of its active job seekers: city, state, certificate/license type, endorsement area, college/university, degree and years of experience.
 
-> Any and all changes to this privacy policy will be posted here as soon as these changes take effect. If you have any questions or concerns about this privacy policy, at any time, please contact the company using one of the methods listed at the bottom of this policy. 
+To protect the privacy of job seekers, first and last name are hidden. 
 
-**Contacting Teachers-Teachers.com**
+_Legal Investigations and Process_
 
-> Teachers-Teachers.com is based in the state of Florida. You can contact the company using any of the methods below: 
-> 
-> **via email**  
-> 
->
->> [teachers@teachers-teachers.com](mailto:teachers@teachers-teachers.com)  
->  [schools@teachers-teachers.com](mailto:schools@teachers-teachers.com)  
-> 
-> 
-> **via post**  
-> 
->
->> Brett Spodak  
->  Founder, President and CEO  
->  Teachers-Teachers.com, Inc.  
->  P.O. Box 2519  
->  Columbia, MD 21045  
-> 
-> 
-> **via telephone**  
-> 
->
->> (877) 812-4071  
-> 
-> 
-> c2003 Teachers-Teachers.com 
+Teachers-Teachers.com, Inc. will disclose information furnished by job seekers or employers as appropriate in our judgment to respond to subpoenas, court orders or other legal processes or to establish our legal rights or defend claims against us. In addition, we will disclose information as appropriate in our judgment in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person, violations of Teachers-Teachers.com, Inc. terms of use, or as otherwise required by law.
+
+ _Sale or Merger_
+
+In the event that Teachers-Teachers.com is sold or merges with another website, your information may be transferred as part of that transaction. You will be notified if and when your information becomes subject to a different privacy policy.
+
+ _Collection and Use of Aggregate Information_
+
+Aggregate statistics are collected regularly, including, but not limited to, the number of logins during a specific period and job seeker preferences. No outside group or entity with which Teachers-Teachers.com, Inc. shares this aggregate information will have access to any member-specific information.
+
+In an effort to maximize the utility, speed and efficiency of its service, Teachers-Teachers.com, Inc. may keep track of user frequency, habits, preferences and settings. Access to this information is strictly limited to Teachers-Teachers.com, Inc., its affiliates and their employees on a need to know basis. Any information which is shared outside of Teachers-Teachers.com, Inc. and its affiliates is done so only in aggregate form as described in the previous paragraph.
+
+Only employees and contractors of Teachers-Teachers.com, Inc. have access to information posted by members. This access includes, but is not limited to, the ability to modify or delete information as needed to maintain the integrity of the user database.
+
+Information such as user IP address, internet service provider (ISP), web browser, operating system, approximate times of use, referring site, and any similar information exchanged between a user's computer and the servers of Teachers-Teachers.com is collected on an aggregate basis, and, unless initiated by the member, no method exists to tie this information to a particular member. This information is only accessible to the systems administrators of Teachers-Teachers.com and is only used by them to ensure the compatibility and connectivity between users and the Teachers-Teachers.com website generally.
+
+ _Site Monitoring_
+
+Teachers-Teachers.com, Inc. has implemented a variety of monitoring techniques to ensure the site is not being misused by employers or job seekers. These techniques include but are not limited to spot checking job postings and messages sent by employers to job seekers as well messages and applications sent by job seekers to employers.
+
+ _Site Security_
+
+Teachers-Teachers.com, Inc. has implemented and maintains technical and management measures designed to keep all personal and private information secure and safe from loss, damage, corruption, or deletion. Nevertheless, we are unable to guarantee that these measures will not at some time be compromised by malicious third parties.
+
+Please note that no electronic transmission of information can be entirely secure. We cannot guarantee that the security measures we have in place to safeguard personal information will never be defeated or fail, or that those measures will always be sufficient or effective. Therefore, although we are committed to protecting your privacy, we do not promise, and you should not expect, that your personal information will always remain private. As a user of Teachers-Teachers.com, you understand and agree that you assume all responsibility and risk for your use of the website, the Internet generally, and the documents you post or access and for your conduct on and off Teachers-Teachers.com.
+
+For further protection, you should safeguard your account user name and password and not share that information with anyone. You should also sign off your accounts and close your browser window when you are finished visiting our website.
+
+ _Accuracy of Information_
+
+Teachers-Teachers.com exists as a medium for communication between employers and job seekers. While we routinely inspect the database to ensure its integrity, Teachers-Teachers.com, Inc. makes no warranty as to the validity and truthfulness of any information entered and saved by job seekers and employers. Except for any express warranties stated in this agreement, Teachers-Teachers.com, Inc. makes no warranties of any sort, express or implied, with regard to information posted on Teachers-Teachers.com. The user accepts such information with all faults and assumes the entire risk as to satisfactory quality, performance, and accuracy.
+
+ _Additional Help_
+
+Teachers-Teachers.com is meant as a convenient and efficient tool for job seekers and employers to contact one another. If an employer needs additional help, he/she should contact his/her assigned recruitment consultant or send an email to schools@teachers-teachers.com. If a job seeker needs additional help, he/she should send an email to info@teachers-teachers.com.
+
+ _Links to Third-Party Websites_
+
+Certain areas of the Teachers-Teachers.com website may contain links to third-party websites. Teachers-Teachers.com, Inc. is not responsible for the content, actions and policies of these third-party websites. Any such links, including those provided and actively maintained by Teachers-Teachers.com, Inc., are not covered under the policies set forth in this document. For more information on the information collection and usage agreement of these websites, visit their respective privacy policies.
+
+ _Children’s Privacy_
+
+We do not knowingly collect or solicit information from anyone under the age of 13. If you are under 13, please do not use this website. 
+
+_Changes to Privacy Policy_
+
+All changes to this privacy policy will be posted on Teachers-Teachers.com as soon as they take effect. If you have any questions or concerns about this privacy policy at any time, please contact the company using one of the methods listed below.
+
+ _Contact Us_
+
+Teachers-Teachers.com, Inc. is a Florida corporation. You can contact the company using any of the methods below:
+
+info@teachers-teachers.com 
+
+Teachers-Teachers.com, Inc.  
+P.O. Box 2519  
+Columbia, MD 21045  
+877-812-4071
+
+©2013 Teachers-Teachers.com, Inc.
