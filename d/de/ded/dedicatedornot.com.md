@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dedicatedornot.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624180145id_/http%3A//dedicatedornot.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dedicatedornot.com privacy policy that was archived on 2013-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130906144055id_/http%3A//dedicatedornot.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Dedicated Webserver or Not
 
@@ -49,11 +49,11 @@ Shared web hosting, sometimes called a virtual host, multi-host, or self-serve w
 
 ## Updated Queries
 
-  1. [www.corinthian.gi](http://www.corinthian.gi.dedicatedornot.com/)
-  2. [polizeiundwissenschaft-online.de](http://polizeiundwissenschaft-online.de.dedicatedornot.com/)
-  3. [zaalverhuur.com](http://zaalverhuur.com.dedicatedornot.com/)
-  4. [www.maurigroup.it](http://www.maurigroup.it.dedicatedornot.com/)
-  5. [impres.de](http://impres.de.dedicatedornot.com/)
-  6. [radmin24.ru](http://radmin24.ru.dedicatedornot.com/)
+  1. [jblaverdure.com](http://jblaverdure.com.dedicatedornot.com/)
+  2. [90.191.218.190](http://90.191.218.190.dedicatedornot.com/)
+  3. [druholidays.net](http://druholidays.net.dedicatedornot.com/)
+  4. [educatorexchange.com](http://educatorexchange.com.dedicatedornot.com/)
+  5. [freierbund.de](http://freierbund.de.dedicatedornot.com/)
+  6. [62.156.206.2](http://62.156.206.2.dedicatedornot.com/)
 
 
