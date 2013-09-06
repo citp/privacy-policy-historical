@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coupongaadi.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522161720id_/http%3A//www.coupongaadi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coupongaadi.com privacy policy that was archived on 2013-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130907003325id_/http%3A//www.coupongaadi.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Discount Coupons for 600+ Indian e-Stores
+# Privacy Policy | Discount Coupons for 900+ Indian e-Stores
 
 The privacy of our visitors  is important to us.
 
