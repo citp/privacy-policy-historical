@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usdirectexpress.com privacy policy that was archived on 2013-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130223140614id_/http%3A//www.usdirectexpress.com/edcfdtclient/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usdirectexpress.com privacy policy that was archived on 2013-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130907163308id_/http%3A//www.usdirectexpress.com/edcfdtclient/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # Direct Express ®
 
