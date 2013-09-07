@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sundirect.in privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604154506id_/http%3A//sundirect.in/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sundirect.in privacy policy that was archived on 2013-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130907130426id_/http%3A//www.sundirect.in/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | Data Collection | Security of Data
+# Sun Direct
 
 Sun Direct takes your privacy seriously. Please read the following to learn more about our privacy policy. Registration Data and certain other information about you are subject to our Privacy Policy. In particular, We believe it is important for You to know how We treat information about You that We may receive from this Web site "www.sundirect.in" ("Site").In general, You can visit this site without telling Us who You are or revealing any information about Yourself. Our web servers collect the domain names, the Internet Protocol (IP) addresses of the visitors. Computer, which connects it to the internet, and not the e-mail addresses, of visitors. Domain name information that we collect is not used to personally identify you and instead is aggregated to measure the number of visits, average time spent on the site, pages viewed, etc.
 
