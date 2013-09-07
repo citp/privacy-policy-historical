@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enjoymmo.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617232653id_/http%3A//www.enjoymmo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enjoymmo.com privacy policy that was archived on 2013-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130908011304id_/http%3A//www.enjoymmo.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
