@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carbargain.net privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515025851id_/http%3A//carbargain.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carbargain.net privacy policy that was archived on 2013-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130907191619id_/http%3A//carbargain.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - CarBargain.net
 
@@ -76,7 +76,7 @@ Our Privacy Policy does not apply to any information you may send to us by email
 
 Sponsors or advertisers on our Website may use their own Cookies, Web Beacons or other online tracking technologies in the banner advertisements on our Website, in emails, special promotions or newsletters we send you. Some advertisers use companies other than our Website to serve their ads and to monitor users' responses to ads, and these companies ("Ad Servers") may also collect Non-Personal Information through the use of Cookies or Web Beacons on our Website. In certain situations, information collection may be facilitated by momentarily directing your browser to the website of an Ad Server or other third party acting on behalf of the sponsor, partner, or advertiser before re-directing your browser to its selected destination (e.g., back to our Website to show the ad, or to the advertiser's website); this re-direction process will not be apparent to you.
 
-We do not control these third parties' use of cookies or Web Beacons, or how they manage the Non-Personal Information they gather through them. However, we do require sponsors, advertisers and Ad Servers who collect cookie or web beacon information through our Website to agree that they will not collect any Personally Identifiable Information from our Website without your consent. They must agree that they will not link any cookie or web beacon information collected by them on our Website to Personally Identifiable Information that they or others have collected in other ways or from other sites except as may be described in connection with a particular program.
+We do not control these third parties' use of cookies or Web Beacons, or how they manage the Non-Personal Information they gather through them. However, we do require sponsors, advertisers and Ad Servers who collect cookie or web beacon information through our Website to agree that they will not collect any Personally Identifiable Information from our Website without your consent.
 
 ## Opting Out of Sharing Information
 
