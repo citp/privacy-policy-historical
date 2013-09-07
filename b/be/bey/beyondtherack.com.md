@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beyondtherack.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509124001id_/https%3A//www.beyondtherack.com/info/privacy/simple) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyondtherack.com privacy policy that was archived on 2013-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130907193412id_/https%3A//www.beyondtherack.com/info/privacy/simple) for the most accurate reproduction.*
 
 # Privacy - Beyond the Rack
 
@@ -6,14 +6,14 @@ PRIVACY POLICY
 
 _Effective Date: 11/10/2011
 
-Last Updated on 11/10/2011 
+Last Updated on 03/20/2013 
 
 _
 
 Your privacy is important to Beyond the Rack . So we’ve developed a Privacy Policy that covers how we collect, use, disclose, transfer, and store your information. Please take a moment to familiarize yourself with our privacy practices and let us know if you have any questions by either: 
 
   * Emailing our Customer Service team at [privacy@beyondtherack.com](mailto:privacy@beyondtherack.com), or
-  * Calling our toll-free number at **1-877-733-4660** on weekdays, between 8AM - 8PM ET and weekends between 10AM - 2PM ET or
+  * Calling our toll-free number at **1-877-733-4660** Monday through Sunday, from 9AM - 6PM ET or
   * Mailing to:
 
 
@@ -25,7 +25,7 @@ Montreal, Quebec
 H4T 1K2, Canada  
 
 
-This privacy policy describes how Beyond the Rack (“BTR”) collects and uses the personal information you provide on our Website: [www.beyondtherack.com](http://www.beyondtherack.com/) (“the Website”) for your use of the services, features and content offered by Beyond the Rack (collectively referred to as the “BTR Services”). It also describes the choices available to you regarding the use of your personal information and how you can access and update your personal information. For the purposes of this Privacy Policy, unless otherwise noted, all references to "Beyond the Rack" include beyondtherack.com and BTR. 
+This privacy policy describes how Beyond the Rack (“BTR”) collects and uses the personal information you provide on our Website: [www.beyondtherack.com](http://www.beyondtherack.com/) (“the Website”) for your use of the services or when you purchase products from BTR, features and content offered by Beyond the Rack (collectively referred to as the “BTR Services”). It also describes the choices available to you regarding the use of your personal information and how you can access and update your personal information. For the purposes of this Privacy Policy, unless otherwise noted, all references to "Beyond the Rack" include beyondtherack.com and BTR. 
 
 Beyond the Rack is committed to protecting all the information you share with us. We follow stringent procedures to help protect the confidentiality, security, and integrity of data stored on BTR systems. 
 
@@ -33,7 +33,7 @@ Only those employees who need access to your information in order to perform the
 
 We will share your personal information with third parties only in the ways that are described in this privacy policy. We do not sell your personal information to third parties. 
 
-To prevent unauthorized access, maintain data accuracy and ensure the appropriate use of information, we have put in place physical, electronic and managerial procedures to protect the information we collect online. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt that information using secure socket layer technology (SSL). 
+To prevent unauthorized access, maintain data accuracy and ensure the appropriate use of information, we have put in place physical, electronic and managerial procedures to protect the information we collect online. When you enter sensitive information (such as a credit or Visa Debit card number) on our order forms, we encrypt that information using secure socket layer technology (SSL). 
 
 We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. Please note, however, that no method of transmission over the internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security. If you have any questions about security on the Website, you can contact us at [security@beyondtherack.com](mailto:security@beyondtherack.com). 
 
@@ -42,7 +42,7 @@ Beyond the Rack has been awarded TRUSTe's Privacy Seal signifying that this priv
 TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us either by: 
 
   * Emailing our Customer Service team at [privacy@beyondtherack.com](mailto:privacy@beyondtherack.com), or
-  * Calling our toll-free number at **1-877-733-4660** on weekdays, between 8AM - 8PM ET and weekends between 10AM - 2PM ET or
+  * Calling our toll-free number at **1-877-733-4660** Monday through Sunday, from 9AM - 6PM ET or
   * Mailing to:
 
 
@@ -68,18 +68,18 @@ The information Beyond the Rack gathers falls into two categories:
 
 Registration for the BTR Services requires that you supply certain personally identifiable information, including, in most cases, your first name, your last name, a unique email address and a password to register. This allows BTR to provide you access to your account every time you visit the Website. Beyond the Rack keeps track of your information to offer you the best possible shopping experience. 
 
-To enable the purchase of products, we also collect and store billing and credit card information as well as your address, telephone number or any other information required to process your order. 
+To enable the purchase of products, we also collect and store billing and credit/Visa Debit card information as well as your address, telephone number or any other information required to process your order. 
 
-This information may be disclosed to specific members of our staff and to select third parties (such as our credit card processor and shipping provider) involved in the completion of your transaction and delivery of your order. Examples of this include fulfilling orders and processing credit card payments service providers. 
+This information may be disclosed to specific members of our staff and to select third parties (such as our credit/Visa Debit card processor and shipping provider) involved in the completion of your transaction and delivery of your order. Examples of this include fulfilling orders and processing credit or Visa Debit card payments service providers. 
 
-We will also use your email address to notify you about new services, special promotional programs, promotional offers or any information related to BTR Services. 
+We will also use your email address and/or telephone number to notify you about new services, special promotional programs, promotional offers or any information related to BTR Services. 
 
-At any time, you can notify us that you wish to stop receiving these emails by either: 
+At any time, you can notify us that you wish to stop receiving these emails or telephone calls by either: 
 
   * Making the appropriate selections in your account management center, or
   * Following the "unsubscribe" instructions located near the bottom of each email, or
-  * Contacting us at [unsubscribe@beyondtherack.com](mailto:unsubscribe@beyondtherack.com) requesting that we remove your email from our database. To do so please include your email in the body of your email, and put "Unsubscribe" in the subject line, or
-  * Calling our toll-free number at **1-877-733-4660** on weekdays, between 8AM - 8PM ET and weekends between 10AM - 2PM ET.
+  * Contacting us at [unsubscribe@beyondtherack.com](mailto:unsubscribe@beyondtherack.com) requesting that we remove your email and/or telephone number from our database. To do so please include your email and/or telephone number in the body of your email, and put "Unsubscribe" in the subject line, or
+  * Calling our toll-free number at **1-877-733-4660** Monday through Sunday, from 9AM - 6PM ET.
 
 
 
@@ -97,7 +97,7 @@ If your personal identifiable information changes, or if you no longer desire ou
 
   * Making the necessary changes in your member information page, or
   * Emailing our Customer Service team at [privacy@beyondtherack.com](mailto:privacy@beyondtherack.com), or
-  * Calling our toll-free number at **1-877-733-4660** on weekdays, between 8AM - 8PM ET and weekends between 10AM - 2PM ET, or
+  * Calling our toll-free number at **1-877-733-4660** Monday through Sunday, from 9AM - 6PM ET, or
   * Mailing to:
 
 
@@ -119,7 +119,7 @@ Your friend may contact us at [unsubscribe@beyondtherack.com](mailto:unsubscribe
 
   * Making the necessary changes in your member information page, or
   * Emailing our Customer Service team at [privacy@beyondtherack.com](mailto:privacy@beyondtherack.com), or
-  * Calling our toll-free number at **1-877-733-4660** on weekdays, between 8AM - 8PM ET and weekends between 10AM - 2PM ET, or
+  * Calling our toll-free number at **1-877-733-4660** Monday through Sunday, from 9AM - 6PM ET, or
   * Mailing to:
 
 
@@ -151,13 +151,11 @@ A session ID cookie expires when you close your browser. A persistent cookie rem
 
 BTR uses third party vendors to store cookies on your computer when you first visit the Website in order to enable BTR to recognize you each time you come back to the Website. Our third party vendors use both session ID cookies and/or persistent cookies. Through cookies BTR can customize the Website to your individual preferences in order to create a more personalized and convenient user experience. 
 
-Please note that cookies stored on your computer through the Website or BTR email campaigns do not store personally identifiable information about you or your finances. 
+Please note that cookies stored on your computer through the Website or BTR email campaigns do not store personally identifiable information about you or your finances. Third party vendors, including Google, use cookies to serve ads based on your prior visits to the Website. 
 
-Our third party vendors, including Google, use cookies to serve ads based on your prior visits to the Website. 
+For example, Google is one of the companies that serve advertisements for beyondtherack.com. The [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) is used by Google in the ads served on the websites of its partners, such as websites displaying AdSense ads or participating in Google certified ad networks. When users visit a partner's website and either view or click on an ad, a cookie may be dropped on that end user's browser. The data gathered from these cookies will be used to help better serve and manage ads on the Website and across the Web. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/ads/preferences)
 
-For example, Google is one of the companies that serve advertisements for beyondtherack.com. The [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) is used by Google in the ads served on the websites of its partners, such as websites displaying AdSense ads or participating in Google certified ad networks. When users visit a partner's website and either view or click on an ad, a cookie may be dropped on that end user's browser. The data gathered from these cookies will be used to help better serve and manage ads on the Website and across the Web. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/ads/preferences). 
-
-You may opt out of the use of the DoubleClick DART cookie by visiting the [advertising opt-out page](http://www.google.com/privacy_ads.html). Alternatively, you may opt out of third-party vendors use of cookies by visiting the Network Advertising Initiative [opt-out page](http://www.networkadvertising.org/managing/opt_out.asp). 
+You may opt out of the use of the DoubleClick DART cookie by visiting the [advertising opt-out page](http://www.google.com/privacy_ads.html). Alternatively, you may opt out of third-party vendors use of cookies by visiting the Network Advertising Initiative [opt-out page](http://www.networkadvertising.org/managing/opt_out.asp) and by visiting Your Privacy Settings managed by [TRUSTe](http://preferences-mgr.truste.com/)
 
 We also use Google conversion tracking to measure the conversion rate related to our Google AdWords campaigns. This allows Google to tell us how users find the Website using Google. To protect the user's privacy Google’s cookie is not personally-identifiable and expires in 30 days. If you want to disable conversion tracking cookies, you can set your browser to block cookies from the googleadservices.com domain. Please refer to the [Google Advertising and Privacy](http://www.google.com/privacy/ads/) for more information about Google Conversion Tracking and the ability to opt out. 
 
@@ -179,7 +177,7 @@ We use web beacons in our HTML-based emails to know which emails have been opene
   * Making the appropriate selections in your account management center, or
   * Following the "unsubscribe" instructions located near the bottom of each email, or
   * Contacting us at [unsubscribe@beyondtherack.com](mailto:unsubscribe@beyondtherack.com) requesting that we remove your email from our database. To do so please include your email in the body of your email, and put "Unsubscribe" in the subject line, or
-  * Calling our toll-free number at **1-877-733-4660** on weekdays, between 8AM - 8PM ET and weekends between 10AM - 2PM ET.
+  * Calling our toll-free number at **1-877-733-4660** Monday through Sunday, from 9AM - 6PM ET.
 
 
 
@@ -197,26 +195,30 @@ We use the information that we collect to allow advertising to be targeted to th
 
 We may use demographic and preference information to allow advertising on the BTR Service to be targeted, in aggregate, to the users for whom they are most pertinent. This means users see advertising that is most likely to interest them, and advertisers send their messages to people who are most likely to be receptive, improving both the viewer's experience and the effectiveness of the ads. We disclose information to third parties only in aggregate form. 
 
-BTR will periodically send you promotional emails about services offered by Beyond the Rack and its advertisers. For details about Beyond the Rack’s mail policy, please see the section labeled "Email Policy" below. 
+BTR will periodically send you promotional emails about services offered by Beyond the Rack and its advertisers. For details about Beyond the Rack’s mail policy, please see the section labeled "Email and Telephone Policy" below. 
+
+BTR will periodically call you to explain emails about services offered by Beyond the Rack and its advertisers. For details about Beyond the Rack’s telephone policy, please see the section labeled "Email and Telephone Policy" below. 
 
 If you have registered to use the BTR Services, we will not sell, rent, swap or authorize any third party to use your email address or any information that personally identifies you without your permission. We do, however, share information about our audience in aggregate form. 
 
 We contract with other companies to provide services on our behalf, including hosting the Website, operating various features made available on the Website, sending emails, analyzing data, providing search results and links, credit-card and payment processing, shipping, email distribution, list processing and analytics, customer service through live chat software, order fulfillment or promotions management. 
 
-We provide these companies only with the information they need to perform their services. These service providers are restricted from using this data in any way other than to provide services for Beyond the Rack, and they may not share or resell this data. 
+We provide these companies only with the information they need to perform their services. These service providers are restricted by BTR from using this data in any way other than to provide services for Beyond the Rack, and they may not share or resell this data. 
+
+We contract with other providers to provide advertising to BTR’s customers in the aggregate without disclosing personal information. 
 
 We reserve the right to disclose your unsubscribe information to third parties so they can suppress your name from future solicitations, in accordance with applicable laws. We may occasionally release personal information as required by law, for example, to comply with a court order or subpoena. 
 
-**Beyond the Rack complies fully with the federal CAN-SPAM Act of 2003 and the Canadian Fighting Internet and Wireless Spam[Bill C-28](http://www2.parl.gc.ca/sites/lop/legisinfo/index.asp?Language=E&Chamber=N&StartList=A&EndList=Z&Session=23&Type=0&Scope=I&query=7019&List=toc-1)**. We will not share, sell, rent, swap or authorize any third party to use your email address without your permission. If you feel you have received an email from us in error, please contact us at [privacy@beyondtherack.com](mailto:privacy@beyondtherack.com). 
+**Beyond the Rack complies fully with the federal CAN-SPAM Act of 2003, the Canadian Fighting Internet and Wireless Spam[Bill C-28](http://www2.parl.gc.ca/sites/lop/legisinfo/index.asp?Language=E&Chamber=N&StartList=A&EndList=Z&Session=23&Type=0&Scope=I&query=7019&List=toc-1), and the federal Internet and Wireless Spam [Bill C-28](http://www2.parl.gc.ca/sites/lop/legisinfo/index.asp?Language=E&Chamber=N&StartList=A&EndList=Z&Session=23&Type=0&Scope=I&query=7019&List=toc-1)**. We will not share, sell, rent, swap or authorize any third party to use your email address or telephone number without your permission. If you feel you have received an email or telephone call from us in error, please contact us at: [privacy@beyondtherack.com](mailto:privacy@beyondtherack.com). 
 
 **Account and Service-Related Email:** Beyond the Rack reserves the right to send you emails relating to your account status. This includes order confirmations, notices of credit-card problems, other transactional emails and notifications about major changes to the BTR Services. 
 
-**Promotional Email:** BTR may periodically email you messages about products and services that we think may be of interest to you. You can choose not to receive messages in the future by either: 
+**Promotional Email:** BTR may periodically email you messages or call you to explain about products and services that we think may be of interest to you. You can choose not to receive messages in the future by either: 
 
   * Making the appropriate selections in your account management center, or
   * Following the "unsubscribe" instructions located near the bottom of each email, or
-  * Contacting us at [unsubscribe@beyondtherack.com](mailto:unsubscribe@beyondtherack.com) requesting that we remove your email from our database. To do so please include your email in the body of your email, and put "Unsubscribe" in the subject line, or
-  * Calling our toll-free number at **1-877-733-4660** on weekdays, between 8AM - 8PM ET and weekends between 10AM - 2PM ET.
+  * Contacting us at [unsubscribe@beyondtherack.com](mailto:unsubscribe@beyondtherack.com) requesting that we remove your email and/or telephone number from our database. To do so please include your email in the body of your email, and put "Unsubscribe" in the subject line, or
+  * Calling our toll-free number at **1-877-733-4660** Monday through Sunday, from 9AM - 6PM ET.
 
 
 
@@ -242,7 +244,7 @@ H4T 1K2, Canada
   
 
   * Contacting us at [unsubscribe@beyondtherack.com](mailto:unsubscribe@beyondtherack.com) requesting that we remove your email from our database. To do so please include your email in the body of your email and put "Unsubscribe" in the subject line, or
-  * By Calling our toll-free number at **1-877-733-4660** on weekdays, between 8AM - 8PM ET and weekends between 10AM - 2PM ET.
+  * By Calling our toll-free number at **1-877-733-4660** Monday through Sunday, from 9AM – 6PM ET.
 
 
 
@@ -250,11 +252,11 @@ BTR automatically logs certain usage information about your use of the Website. 
 
 In an effort to make the Website as effective and enjoyable as possible, the computers that operate the Website use third party tracking services to collect certain information each time you visit the Website. We store these statistics in log files. Once again, these statistics do not identify you personally, but provide us information regarding the type of users who are accessing the Website and certain browsing activities of those users. This data may include: the IP address of the user accessing the Website (i.e. the unique I.D. number of the user's computer), the type of browser (Internet Explorer, Firefox, Safari, etc.), the operating system (Windows, Mac OS, etc.), the Website the user last visited before linking to the Website, how long the user accessed the Website in any given session, and the date and time of access. We may make extensive use of this data at an aggregated level in order to understand how the Website is being used. We may share some of the aggregate findings (not the specific data) with advertisers, sponsors, investors, strategic partners, and others in order to help grow our business. 
 
-**BTR Web Account:** You may update and/or edit your BTR account information online on the Website. Should you require assistance, please call us toll-free number at **1-877-733-4660** on weekdays, between 8AM - 8PM ET and weekends between 10AM - 2PM ET. 
+**BTR Web Account:** You may update and/or edit your BTR account information online on the Website. Should you require assistance, please call us toll-free number at **1-877-733-4660** Monday through Sunday, from 9AM - 6PM ET. 
 
 **Manage Your beyondtherack.com Account at Member Center:** You may review and update your beyondtherack.com account information and access your transaction history in the Member Center by logging at [www.beyondtherack.com](http://www.beyondtherack.com/). 
 
-To gain access to the Member Center, you will be asked to enter your password. If you do not remember your password, you can request it by using the “Forgot Password” functionality. If you need further assistance, please contact Customer Service by email at [service@beyondtherack.com](mailto:service@beyondtherack.com) or By Calling our toll-free number at **1-877-733-4660** on weekdays, between 8AM - 8PM ET and weekends between 10AM - 2PM ET. 
+To gain access to the Member Center, you will be asked to enter your password. If you do not remember your password, you can request it by using the “Forgot Password” functionality. If you need further assistance, please contact Customer Service by email at [service@beyondtherack.com](mailto:service@beyondtherack.com) or By Calling our toll-free number at **1-877-733-4660** Monday through Sunday, from 9AM - 6PM ET. 
 
 There are a number of things you can do in the Member Center to ensure your personal information is accurate and up to date. 
 
@@ -267,7 +269,7 @@ There are a number of things you can do in the Member Center to ensure your pers
 
 **Email**
 
-If, at any time, you prefer not to receive email marketing information from us, please proceed by either: 
+If, at any time, you prefer not to receive email marketing information and/or telephone calls from us, please proceed by either: 
 
   * Making the appropriate selections in your account management center. [Click here](http://www.beyondtherack.com/) to log in to your Beyond the Rack account. Click on the "Account" section at the top of the navigational bar and proceed to the "NOTIFICATIONS" section. On the “NOTIFICATIONS” page please uncheck the email notifications that you want to unsubscribe from and click "UPDATE", or
   * Following the "unsubscribe" instructions located near the bottom of each email, or
@@ -282,8 +284,8 @@ H4T 1K2, Canada
 
   
 
-  * Contacting us at [unsubscribe@beyondtherack.com](mailto:unsubscribe@beyondtherack.com) requesting that we remove your email from our database. To do so please include your email in the body of your email and put "Unsubscribe" in the subject line, or
-  * Calling our toll-free number at **1-877-733-4660** on weekdays, between 8AM - 8PM ET and weekends between 10AM - 2PM ET.
+  * Contacting us at [unsubscribe@beyondtherack.com](mailto:unsubscribe@beyondtherack.com) requesting that we remove your email and/or telephone number from our database. To do so please include your email in the body of your email and put "Unsubscribe" in the subject line, or
+  * Calling our toll-free number at **1-877-733-4660** Monday through Sunday, from 9AM - 6PM ET.
 
 
 
@@ -312,7 +314,7 @@ You acknowledge that this Privacy Policy is part of the Terms of Use and you unc
 If you have any questions or suggestions regarding our privacy policy please let us know by either: 
 
   * Emailing our Customer Service team at [privacy@beyondtherack.com](mailto:privacy@beyondtherack.com), or
-  * Calling our toll-free number at **1-877-733-4660** on weekdays, between 8AM - 8PM ET and weekends between 10AM - 2PM ET, or
+  * Calling our toll-free number at **1-877-733-4660** Monday through Sunday, from 9AM - 6PM ET, or
   * Mailing to:
 
 
