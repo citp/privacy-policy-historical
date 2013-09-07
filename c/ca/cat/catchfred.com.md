@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the catchfred.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430122220id_/http%3A//catchfred.com/2012-06-06-13-52-16) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catchfred.com privacy policy that was archived on 2013-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130907071248id_/http%3A//catchfred.com/2012-06-06-13-52-16) for the most accurate reproduction.*
 
-# catchFred | Privacy Policy
+# catchFred | Privacy Policy | catchFred
 
 ##  [ Privacy Policy](http://catchfred.com/2012-06-06-13-52-16)
 
@@ -54,12 +54,6 @@ Again, feel free to contact us any time, and if you have further questions about
 
 Related stories
 
-  * [repost test T-V...](http://catchfred.com/traffic-vet/347-repost-test-t-v "repost test T-V")  
-Dog Friendly Landscaping (via www.lifeanddog.com) From The Magazine (page 1 of 2)   There’s nothing better than spending quality time outdoors with your...  
-
-
-
-
   * [Healthy Paws...](http://catchfred.com/healthy-paws "Healthy Paws")  
 The Dog Insurance Center From diagnosing a bee sting to treating serious conditions like cancer, Healthy Paws helps you ensure your best friend recei...  
 
@@ -68,12 +62,6 @@ The Dog Insurance Center From diagnosing a bee sting to treating serious conditi
 
   * [Terms of Use...](http://catchfred.com/terms-conditions "Terms of Use")  
 CATCHFRED, ACCEPTANCE OF TERMS OF USE (updated March 11, 2013) By using this site (the "Site"), you ("you" or the "End User") agree to the terms and condition...  
-
-
-
-
-  * [Healthy...](http://catchfred.com/healthy "Healthy")  
-The Dog Insurance Center From diagnosing a bee sting to treating serious conditions like cancer, Healthy Paws helps you ensure your best friend recei...  
 
 
 
