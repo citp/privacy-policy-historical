@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the chemicalguys.com privacy policy that was archived on 2013-05-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130509001604id_/http%3A//www.chemicalguys.com/terms_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the chemicalguys.com privacy policy that was archived on 2013-09-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130907160240id_/http%3A//www.chemicalguys.com/terms_privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/a/j/milonic/milonic_src.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/a/j/milonic/milonic_src.js"></script>
 <script type="text/javascript">
 if(ns4)_d.write("<scr"+"ipt src=/a/j/milonic/mmenuns4.js><\/scr"+"ipt>"); 
   else _d.write("<scr"+"ipt src=/a/j/milonic/mmenudom.js><\/scr"+"ipt>"); 
@@ -24,6 +24,7 @@ var Config_CDN_URL = '/'
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js"></script>
 <link type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/themes/base/jquery-ui.css" rel="stylesheet">
+<link type="text/css" href="/a/c/default.css" rel="stylesheet">
 
 
 <script type="text/javascript">
@@ -39,8 +40,31 @@ var Config_CDN_URL = '/'
     var PageText_843 = "Subtotal";
     var PageText_844 = "items in cart";
 </script>
+<script type="text/javascript" src="/a/j/volusion.js?6.41.1.224"></script>
+<script type="text/javascript">
+    (function ($) {
+        volusion.ready(function () {
+            if (volusion.cart.isObservingCount()) {
+                var ts = new Date().getTime();
 
-<script type="text/javascript" src="/a/j/javascripts.js?6_5_currentBuild"></script>
+                $.getJSON('/ajaxcart.asp?cachebust=' + ts, function (data) {
+                    var quantityTotal = 0;
+                    $.each(data.Products, function (key, val) {
+                        if (val.IsProduct === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        } else if (val.IsAccessory === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        }
+                    });
+                    quantityTotal = quantityTotal || '0';
+                    volusion.cart.itemCount(quantityTotal);
+                });
+
+            }
+        });
+    } (jQuery));
+</script>
+<script type="text/javascript" src="/a/j/javascripts.js?6_5_6.41.1.224"></script>
 
 <script type="text/javascript">
 	var Config_Search_Auto_Complete = false;
@@ -88,20 +112,21 @@ ONLY PUT CSS/JAVSCRIPT INCLUDES IN YOUR HEAD TAG
 <!-- ======================== HEADER ======================== -->
 <div id="headWrap">
 <div id="header">
-	<div id="display_homepage_title"><span itemscope="" itemtype="http://schema.org/Store"><meta itemprop="name" content="chemicalguys.com"><a href="http://www.chemicalguys.com/default.asp" title="chemicalguys.com">chemicalguys.com</a></span></div>
+<div id="display_homepage_title"><span itemscope="" itemtype="http://schema.org/Store"><meta itemprop="name" content="chemicalguys.com"><a href="http://www.chemicalguys.com/default.asp" title="chemicalguys.com">chemicalguys.com</a></span></div>
     
     <div id="site_tools">
-    	<a href="mailto:sales@chemicalguys.com?subject=Contact Us" class="end">We're Here to Help! Call 866.822.3670 or 310.674.8135 or 310.678.2838               </a>
-        <a href="http://www.chemicalguys.com/shoppingcart.asp">View Cart</a>
+     <a href="mailto:sales@chemicalguys.com?subject=Contact Us" class="end"><b>We're Here to Help! Call 866.822.3670 or 310.674.8135 or 310.678.2838              </b> </a>
+<a href="/Gift_Certificates_Detailing_Supplies_Chemical_guys_s/100.htm">Gift Certificates</a>        
+<a href="http://www.chemicalguys.com/shoppingcart.asp">View Cart</a>
         <a href="http://www.chemicalguys.com/myaccount.asp">My Account</a>
         <a href="http://www.chemicalguys.com/aboutus.asp">About Us</a>
         <a href="/SearchResults.asp?Cat=283">Contact Us</a>
 <a href="/SearchResults.asp?Cat=239">Email Newsletter</a>
-	</div>
+</div>
     <div id="display_search">
-       	<form action="http://www.chemicalguys.com/SearchResults.asp" method="get" name="SearchBoxForm">
+        <form action="http://www.chemicalguys.com/SearchResults.asp" method="get" name="SearchBoxForm">
             <input type="text" name="Search" id="search_input" value="enter keywords..." onfocus="if (this.value == 'enter keywords...') {this.value = '';}" onblur="if (this.value == '') {this.value = 'enter keywords...';}">
-			<input type="submit" name="Submit" id="search_submit" value="">
+<input type="submit" name="Submit" id="search_submit" value="">
         </form><br><br>
 <a target="_blank" href="http://www.facebook.com/pages/Chemical-Guys/159949434070452?ref=ts">
     <img src="/v/vspfiles/assets/images/facebook.gif " alt="chemical guys car care facebook" border="0" align="right"> 
@@ -109,8 +134,8 @@ ONLY PUT CSS/JAVSCRIPT INCLUDES IN YOUR HEAD TAG
 <a target="_blank" href="https://twitter.com/TheChemicalGuys"><img src="/v/vspfiles/assets/images/twitter.gif " alt="Share with the world chemical guys twitter" border="0" align="right"></a>      <a target="_blank" href="http://chemicalguysusa.blogspot.com/">
     <img src="/v/vspfiles/assets/images/blog.gif " alt="chemical guys detailing supplies car care wax" border="0" align="right"></a>  <a target="_blank" href="http://www.youtube.com/user/chemicalGuys">
     <img src="/v/vspfiles/assets/images/youtube.gif " alt="Chemical Guys Detailing How To Videos on YouTube" border="0" align="right"></a><br><br>
- <a target="_blank" href="https://www.securecheckout.billmelater.com/paycapture-content/fetch?hash=AU826TU8&amp;content=/bmlweb/ppwpsiw.html">
-    <img src="/v/vspfiles/assets/images/paypal.jpg " alt="Paypal Bill Me Later" border="0" height="60" align="right"></a>
+ <a target="_blank" href="http://www.chemicalguys.com/Smart_Detailing_University_Automotive_Training_Classes_s/33.html">
+    <img src="/v/vspfiles/assets/images/sdupromo.jpg" alt="Smart Detailing University" border="0" height="60" align="right"></a>
 
 
 
@@ -139,106 +164,32 @@ ONLY PUT CSS/JAVSCRIPT INCLUDES IN YOUR HEAD TAG
     <tbody><tr>
       <td valign="top" id="left_nav">        
 
-        <h3 style="color:#ff9900; background-color:;">AUTO DETAILING SUPPLIES</h3>
+        <h3 style="color:#ff9900; background-color:;">Exterior</h3>
         <div id="display_menu_2">
 <script type="text/javascript">var breadCrumb="||";</script>
-<script type="text/javascript">
-function mOvr2(src)
-{ if (src.className != 'nav nav_hover nav_selected') src.className = 'nav nav_hover'; }
-function mOut2(src)
-{ if (src.className != 'nav nav_hover nav_selected') src.className = 'nav'; }
-function mClk2(src, popup) 
-{ if (!popup) {window.location=src.getElementsByTagName('A')[0].getAttribute('href');} else {window.open(src);} }
-</script>
-<ul>
-<li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="http://www.chemicalguys.com/Microfiber_Pads_micorfiber_polishing_buffing_polishing_s/203.htm" title="Microfiber Pads, micorfiber polishing, buffing, polishing,">Microfiber Pads - Optical Select Buffing + Polish Pads</a>
-</li>
-<li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="http://www.chemicalguys.com/Free_Car_Wash_and_Detailing_Supplies_s/174.htm" title="Free Car Wash and Detailing Supplies">I Love Free Stuff</a>
-</li>
-<li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="http://www.chemicalguys.com/Gift_Certificates_Detailing_Supplies_Chemical_guys_s/100.htm" title="Gift Certificates Detailing Supplies Chemical guys">Gift Certificates</a>
-</li>
-<li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="http://www.chemicalguys.com/Car_Care_Kits_for_beinging_and_business_start_up_s/1.htm" title="Car Care Kits for beinging and business start up">Detailing Kits</a>
-</li>
-<li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="http://www.chemicalguys.com/Car_Wax_Sealants_s/3.htm" title="Car Wax &amp; Sealants">Car Wax &amp; Sealants</a>
-</li>
-<li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="http://www.chemicalguys.com/Car_polish_car_polisher_car_polishes_how_to_polish_car_s/5.htm" title="Car polish, car polisher, car polishes, how to polish car,">Car Polish &amp; Pre-Wax</a>
-</li>
-<li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="http://www.chemicalguys.com/Paint_Correction_Polishes_Scratch_removers_s/144.htm" title="Paint Correction Polishes Scratch removers">Paint Correction Polishes</a>
-</li>
-<li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="http://www.chemicalguys.com/Quick_Detail_Final_Inspection_Sprays_And_Clay_Lubricants_s/6.htm" title="Quick Detail Final Inspection Sprays And Clay Lubricants">Quick Detail &amp; Spray Wax</a>
-</li>
-<li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="http://www.chemicalguys.com/Glazes_Auto_Detailing_Paint_Reconditioning_s/4.htm" title="Glazes Auto Detailing Paint Reconditioning">Glazes: Shine to the Max</a>
-</li>
-<li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="http://www.chemicalguys.com/Auto_Detailing_Tools_And_Accessories_s/39.htm" title="Auto Detailing Tools And Accessories">Detailing Tools &amp; Accessories</a>
-</li>
-<li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="http://www.chemicalguys.com/clay_barwhat_is_Clay_Bar_For_Paint_Reconditioning_s/7.htm" title="clay barwhat is Clay Bar For Paint Reconditioning">Clay Bars</a>
-</li>
-<li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="http://www.chemicalguys.com/Swirl_Removers_Compounds_and_Polishes_s/8.htm" title="Swirl Removers, Compounds, and Polishes">Swirl Removers, Compounds, and Polishes</a>
-</li>
-<li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="http://www.chemicalguys.com/Body_Shop_Safe_Compound_And_Polishes_No_Wax_No_Silicon_s/9.htm" title="Body Shop Safe Compound And Polishes No Wax No Silicon">Body Shop Safe Compounds</a>
-</li>
-<li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="http://www.chemicalguys.com/Interior_Detailing_Carpet_And_Upholstery_Stain_Removers_s/11.htm" title="Interior Detailing Carpet And Upholstery Stain Removers">Carpet &amp; Upholstery</a>
-</li>
-<li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="http://www.chemicalguys.com/Auto_Detailing_Cleaners_And_Degreasers_s/12.htm" title="Auto Detailing Cleaners And Degreasers">Cleaners &amp; Degreasers</a>
-</li>
-<li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="http://www.chemicalguys.com/Tire_Shine_Vinyl_Rubber_protectant_And_Trim_Dressings_s/13.htm" title="Tire Shine Vinyl Rubber protectant And Trim Dressings">Tire &amp; Vinyl Dressings</a>
-</li>
-<li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="http://www.chemicalguys.com/Air_Fresheners_Odor_Eliminators_Freshner_s/15.htm" title="Air Fresheners Odor Eliminators Freshner">Air Fresheners and Odor Eliminators</a>
-</li>
-<li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="http://www.chemicalguys.com/Leather_Care_Cleaner_And_Conditioner_s/14.htm" title="Leather Care Cleaner And Conditioner">LeatherCare: Cleaner &amp; Conditioner</a>
-</li>
-<li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="http://www.chemicalguys.com/Dual_Action_Random_Orbit_Polishers_And_Pads_s/29.htm" title="Dual Action Random Orbit Polishers And Pads">D/A Polishers &amp; Supplies</a>
-</li>
-<li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="http://www.chemicalguys.com/Auto_Detailing_Specialty_Products_s/16.htm" title="Auto Detailing Specialty Products">Specialty Items</a>
-</li>
-<li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="http://www.chemicalguys.com/Chemical_Guys_In_16_Oz_Bottles_s/21.htm" title="Chemical Guys In 16 Oz Bottles">16 oz Sized Products</a>
-</li>
-<li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="http://www.chemicalguys.com/Car_Wash_Shampoo_Car_Care_Products_Products_Carwash_s/10.htm" title="Car Wash Shampoo Car Care Products  Products Carwash">Car Wash, Shampoos &amp; Car Wash Products</a>
-</li>
-<li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="http://www.chemicalguys.com/High_Speed_Rotary_Auto_Detailing_Polishers_And_Pads_s/24.htm" title="High Speed Rotary Auto Detailing Polishers And Pads">Polishers, Pads, &amp; Tools</a>
-</li>
-<li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="http://www.chemicalguys.com/Green_Mobile_Detailing_Waterless_Wash_Eco_Friendly_s/131.htm" title="Green Mobile Detailing Waterless Wash Eco Friendly">Eco-Friendly Waterless Detailing System</a>
-</li>
-<li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="http://www.chemicalguys.com/car_wash_mats_water_reclamation_systems_water_recovery_s/143.htm" title="car wash mats, water reclamation systems, water recovery">Water Reclamation</a>
-</li>
-<li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="http://www.chemicalguys.com/Chemical_Guys_Shirts_And_Cool_Detailing_Gear_s/65.htm" title="Chemical Guys Shirts And Cool Detailing Gear">Shirts &amp; Cool Gear</a>
-</li>
-</ul>
+<script type="text/javascript">display_menu_2();</script>
 </div>
-        <h3 style="color:#ff9900; background-color:;">BUFFERS PADS + ACCESSORIES</h3>
+        <h3 style="color:#ff9900; background-color:;">Interior &amp; Trim</h3>
         <div id="display_menu_3">
 <script type="text/javascript">var breadCrumb="||";</script>
 <script type="text/javascript">display_menu_3();</script>
 </div>
-        <div id="display_promotions_999"><a href="http://www.chemicalguys.com/AUTO_DETAILING_SUPPLIES_SUPER_SALE_s/174.htm"><img border="0" alt="" src="http://www.chemicalguys.com/v/vspfiles/assets/images/winterbrew.jpg" width="150" height="150"></a><br><br><!-- webbot  bot="HTMLMarkup" startspan -->
+        <h3 style="color:#ff9900; background-color:;">Detailing Tools</h3>
+        <div id="display_menu_4">
+<script type="text/javascript">var breadCrumb="||";</script>
+<script type="text/javascript">display_menu_4();</script>
+</div>
+        <h3 style="color:#ff9900; background-color:;">Accessories</h3>
+        <div id="display_menu_5">
+<script type="text/javascript">var breadCrumb="||";</script>
+<script type="text/javascript">display_menu_5();</script>
+</div>
+        <div id="display_promotions_999"><div><hr></div><img src="/v/vspfiles/assets/images/fedex_ground_logo.jpg" alt="" align="" style="" width="150" border="0"><div><span style="font-size: 8pt; font-family: Verdana; color: rgb(255, 255, 255);">We ship from our Los Angeles warehouse via FedEx Ground/Home Delivery. More information about delivery times can be found <a href="http://www.chemicalguys.com/articles.asp?ID=57">here</a>.</span></div><hr><!-- Begin Volusion Live Chat -->
+<div align="center" id="VolusionLiveChat"><a href="http://www.volusion.com">Ecommerce</a></div>
+<script defer="" type="text/javascript" src="https://livechat.volusion.com/script.aspx?id=1435283"></script>
+<!-- End Volusion Live Chat --><!-- webbot  bot="HTMLMarkup" startspan -->
 <script language="JavaScript" type="text/javascript" src="//smarticon.geotrust.com/si.js"></script>
-<!-- webbot  bot="HTMLMarkup" endspan --><img alt="auto detail supplies - wholesale" src="/v/vspfiles/assets/images/visa.gif" align="" border="0"><br><br><img alt="auto detail supplies - wholesale" src="https://www.paypalobjects.com/en_US/i/bnr/vertical_solution_PP.gif" align="" border="0" <br=""> <script type="text/javascript">document.write('<scr');document.write('ipt type="text/javascript" data-ppmnid="89487196453558" src="//ad.where.com/jin/spotlight/ads?pubid=2676b371ef&format=js&v=2.4&placementtype=150x100&ppmnid=89487196453558&rand=' + Math.round(Math.random() * 100000000000000) + '">');document.write('</scr' + 'ipt>');</script><script type="text/javascript" data-ppmnid="89487196453558" src="//ad.where.com/jin/spotlight/ads?pubid=2676b371ef&amp;format=js&amp;v=2.4&amp;placementtype=150x100&amp;ppmnid=89487196453558&amp;rand=13030553788954"></script><br><img src="/v/vspfiles/templates/223/images/clear1x1.gif" border="0"><br></div>
+<!-- webbot  bot="HTMLMarkup" endspan --><br><br><img alt="auto detail supplies - wholesale" src="https://www.paypalobjects.com/en_US/i/bnr/vertical_solution_PP.gif" <br="" align="" border="0">&nbsp;<br><img src="/v/vspfiles/templates/223/images/clear1x1.gif" border="0"><br></div>
         
       </td>
       <td id="content_area" valign="top" style="border:solid 1px #000;">
@@ -268,65 +219,71 @@ function mClk2(src, popup)
 
 <!-- #################### FOOTER #################### -->
 <div id="footer">
-	
-	<div id="footerTop">
-		<ul style="width:127px;">
-		<li class="title">About Us</li>
-		<li><a href="http://www.chemicalguys.com/aboutus.asp">Company Info</a></li>
+<div id="footerTop">
+<ul style="width:127px;">
+<li class="title">About Us</li>
+<li><a href="http://www.chemicalguys.com/aboutus.asp">Company Info</a></li>
         <li><a href="mailto:sales@chemicalguys.com?subject=Contact Us">Contact Us</a></li>
 <li><a href="/Testimonials_On_Chemical_Guys_Products_s/37.htm">Testimonials</a></li>
   <li><a href="/kb_results.asp?Cat=1">FAQ/Q&amp;A</a></li>
         </ul>
         <ul style="width:127px;">
-		<li class="title">My Account</li>
-		<li><a href="http://www.chemicalguys.com/shoppingcart.asp">View Cart</a></li>
+<li class="title">My Account</li>
+<li><a href="http://www.chemicalguys.com/shoppingcart.asp">View Cart</a></li>
         <li><a href="http://www.chemicalguys.com/login.asp">Sign-In</a></li>
-		<li><a href="http://www.chemicalguys.com/orders.asp">Order Status</a></li>
+<li><a href="http://www.chemicalguys.com/orders.asp">Order Status</a></li>
 <li><a href="/SearchResults.asp?Cat=239">Join Our Mailing List</a></li> 
         </ul>
         <ul style="width:127px;">
         <li class="title">Products</li>
-		<li><a href="http://www.chemicalguys.com/cindex.asp">Category Index</a></li>
-		<li><a href="http://www.chemicalguys.com/pindex.asp">Product Index</a></li>
+<li><a href="http://www.chemicalguys.com/cindex.asp">Category Index</a></li>
+<li><a href="http://www.chemicalguys.com/pindex.asp">Product Index</a></li>
 <li><a href="/articles.asp?ID=7">Private Labeling</a></li>
 <li><a href="/articles.asp?ID=7">Dealers &amp; Distributors</a></li>
-<li><a href="/affiliate_info.asp">Affiliate Program</a></li>
-		</ul>
-		<ul style="width:127px;">
-		<li class="title">Helpful Info</li>
+<li><a href="/category_s/312.htm">Affiliate Program</a></li>
+</ul>
+<ul style="width:127px;">
+<li class="title">Helpful Info</li>
         <li><a href="http://www.chemicalguys.com/articles.asp?ID=57">Shipping</a> &amp; <a href="http://www.chemicalguys.com/returns.asp">Returns</a></li>
-		<li><a href="http://www.chemicalguys.com/terms_privacy.asp">Privacy Policy</a></li>
-		<li><a href="http://www.chemicalguys.com/terms.asp">Terms &amp; Conditions</a></li>
-		</ul>
+<li><a href="http://www.chemicalguys.com/terms_privacy.asp">Privacy Policy</a></li>
+<li><a href="http://www.chemicalguys.com/terms.asp">Terms &amp; Conditions</a></li>
+</ul>
 <ul style="width:175px;">
-		<li class="title">Detailing Training</li>
+<li class="title">Detailing Training</li>
         <li><a href="/category_s/176.htm">DIY Workshops</a></li>
-	<li><a href="/Auto_Detailing_Training_Detailing_Seminars_s/33.htm">Smart Detailing University</a></li>
-		</ul>
+<li><a href="/Auto_Detailing_Training_Detailing_Seminars_s/33.htm">Smart Detailing University</a></li>
+</ul>
 <ul style="width:134px;">
-		<li class="title">Showrooms</li>
+<li class="title">Showrooms</li>
         <li><a href="/SearchResults.asp?Cat=240">Inglewood, CA</a></li>
-		</ul>
+<li><a href="/SearchResults.asp?Cat=240">Santa Ana, CA</a></li>
+</ul>
 <ul style="width:134px;">
-		<li class="title">Get Social</li>
+<li class="title">Get Social</li>
         <li><a target="_blank" href="http://www.facebook.com/pages/Chemical-Guys/159949434070452?ref=ts">Facebook</a></li>
-	<li><a target="_blank" href="https://twitter.com/TheChemicalGuys">Twitter</a></li>
-	<li><a target="_blank" href="http://www.youtube.com/user/chemicalGuys">YouTube</a></li>
+<li><a target="_blank" href="https://twitter.com/TheChemicalGuys">Twitter</a></li>
+<li><a target="_blank" href="http://www.youtube.com/user/chemicalGuys">YouTube</a></li>
 <li><a target="_blank" href="http://chemicalguysusa.blogspot.com/">CG Blog</a></li>
-		</ul>
-	</div>
+</ul>
+</div>
     <!-- ==========================================================================================
-				VOLUSION LINK - BEGIN
+VOLUSION LINK - BEGIN
 ===============================================================================================
 Customer has agreed per Volusion's Terms of Service (http://www.volusion.com/agreement_monthtomonth.asp) to maintain a text hyperlink to "http://www.volusion.com" in the footer of the website. The link must be standard html, contain no javascript, and be approved by Volusion. Removing this link breaches the Volusion agreement.
-=========================================================================================== -->	
+=========================================================================================== --> 
     <div id="footerBottom">
-		<a href="http://www.chemicalguys.com/terms.asp">Copyright © <script type="text/javascript"> document.write(new Date().getFullYear());</script>2020&nbsp;Chemicalguys.com.</a><br>All Rights Reserved.<br>Powered by <a href="http://www.volusion.com" title="Shopping Cart Software" target="_blank">Volusion</a>.
+<a href="http://www.chemicalguys.com/terms.asp">Copyright © <script type="text/javascript"> document.write(new Date().getFullYear());</script>2020&nbsp;Chemicalguys.com.</a><br>All Rights Reserved.<br>Ecommerce Powered by <a href="http://www.volusion.com" target="_blank">Volusion</a>.
     </div>
 
 
 </div>
 </div>
+<script type="text/javascript">  (function() {
+var ga = document.createElement('script');     ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:'   == document.location.protocol ? 'https://ssl'   : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
 
 
 
