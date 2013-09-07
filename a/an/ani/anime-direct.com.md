@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anime-direct.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507174753id_/http%3A//www.anime-direct.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anime-direct.com privacy policy that was archived on 2013-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130908002847id_/http%3A//www.anime-direct.com/privacy.php) for the most accurate reproduction.*
 
 # Anime-Direct.com Privacy Policy
 
