@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christianblog.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603063923id_/http%3A//www.christianblog.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianblog.com privacy policy that was archived on 2013-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130907040629id_/http%3A//www.christianblog.com/privacy.php) for the most accurate reproduction.*
 
 # ChristianBlog.Com Privacy Policy, Christian Blog, Christian Blogs, ChristianBlog.Com
 
