@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the employmentnigeria.com privacy policy that was archived on 2012-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120226095511id_/http%3A//employmentnigeria.com/terms.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the employmentnigeria.com privacy policy that was archived on 2013-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130907105651id_/http%3A//www.employmentnigeria.com/terms.php) for the most accurate reproduction.*
 
 # Employment Nigeria
 
 **_Posted:_** _June 6, 201_ 1 
 
 **Overview**  
-Employmentng.com (“Employmentng.com”) knows that you care about how your personal information is used and shared, and we take your privacy seriously. This policy describes the types of information collected, how it may and may not be used, and how it is protected. By visiting Employmentng.com’s website ("Website"), or using any of our services on the website ("Website Services"), you acknowledge that you accept the practices and policies outlined in this Privacy Policy and our use of your information in accordance with this Privacy Policy.
+Employment Nigeria (“Employmentng.com”) knows that you care about how your personal information is used and shared, and we take your privacy seriously. This policy describes the types of information collected, how it may and may not be used, and how it is protected. By visiting Employmentng.com’s website ("Website"), or using any of our services on the website ("Website Services"), you acknowledge that you accept the practices and policies outlined in this Privacy Policy and our use of your information in accordance with this Privacy Policy.
 
 **Information Collected From Users**  
 In the course of your browsing the Website, Employmentng.com may collect the IP address of the computer through which your visit is enabled; cookie information; information regarding the pages, links, banners, icons and other parts of the Website that are accessed or clicked on during a visit to the Website; information regarding the date, time, and duration of your visit; and information you may volunteer, e.g., in response to survey requests or as part of a registration. Upon any registration for, and in subsequent interaction with, Website Services, Employmentng.com may collect mandatory information such as your User Name, Password, primary email address, etc. A "cookie" is a small line of text that is sent to your browser and stored on your computer when you visit a website. Employmentng.com uses a cookie for record-keeping and verification purposes and a cookie helps us provide better service to you. For example, we use a cookie to verify your session and user identification and to track the pages within the Website that you visited. Your browser should have options to accept, reject or provide you with a notice when a cookie is sent. However, if you disable cookies, you may not be able to use the Website Services. Please note that Employmentng.com does not and cannot read cookies set by other websites.
@@ -30,4 +30,25 @@ Employmentng.com does not control the privacy policies of third party sites or s
 You agree that Employmentng.com may amend this policy from time to time by posting the revised Privacy Policy on this Website. Your continued use of any portion of the Website or Employmentng.com service following the posting of the revised policy will constitute your acceptance of the changes.
 
 **How to contact us**  
-You can contact Employmentng.com by sending an email to [support@employmentng.com](mailto:support@employmentng.com)
+You can contact Employmentng.com by sending an email to [info@employmentng.com](mailto:support@employmentng.com)
+
+  
+  
+
+
+\--ADVERTISEMENT--
+
+Site Activity Feed
+
+[](https://web.archive.org/web/20130825160059id_/http://www.employmentng.com/index.php?edit=viewJobseeker&id=) a Job Seeker Joined **Employment Nigeria**
+
+
+
+
+  
+  
+  
+  
+  
+  
+
