@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igvault.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620142049id_/http%3A//www.igvault.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igvault.com privacy policy that was archived on 2013-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130907092729id_/http%3A//www.igvault.com/policy.html) for the most accurate reproduction.*
 
 # WOW Gold, Diablo 3 Gold, Aion Kinah, GW2 Gold, RS Gold, Silkroad Gold, Metin2 yang,SWTOR Credits, EVE isk - IGVault
 
