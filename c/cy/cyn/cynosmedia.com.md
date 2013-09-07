@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cynosmedia.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502124847id_/http%3A//cynosmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cynosmedia.com privacy policy that was archived on 2013-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130907051259id_/http%3A//cynosmedia.com/privacy-policy) for the most accurate reproduction.*
 
-# Cynos Media – PPC & Display Advertising Network » Privacy Policy
+# Cynos Media – Transforming Ad Network Into your Net-Worth » Privacy Policy
 
 **Personal Information Collected on this Website**  
 No personally-identifiable information is collected on this website from consumers that browse the website for information.
