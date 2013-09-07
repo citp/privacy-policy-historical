@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the igvault.com privacy policy that was archived on 2013-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130620142049id_/http%3A//www.igvault.com/policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the igvault.com privacy policy that was archived on 2013-09-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130907092729id_/http%3A//www.igvault.com/policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns:fb="http://ogp.me/ns/fb#"><head>
 <title>
@@ -23,7 +23,7 @@
 <link rel="Bookmark" href="http://www.igvault.com/templates/classic/favicon.ico">
 <link rel="stylesheet" type="text/css" media="all" href="http://www.igvault.com/templates/classic/default.css">
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" defer="" async="" src="https://www.sampeco.com/piwik.js"></script><script type="text/javascript" defer="" async="" src="https://www.sampeco.com/piwik.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script language="javascript">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" defer="" async="" src="https://www.sampeco.com/piwik.js"></script><script language="javascript">
 var httpdir = "http://www.igvault.com/";
 var tpl_httpdir = "http://www.igvault.com/templates/classic/";
 var url_param = "policy=1&noajax=1";
@@ -34,21 +34,24 @@ var pl_e_error = "Your input is invalid.";
 
 </head>
 <body>
-<div id="fb-root"></div>
-<script>
-(function(d){
-var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
-if (d.getElementById(id)) {return;}
-js = d.createElement('script'); js.id = id; js.async = true;
-js.src = "//connect.facebook.net/en_US/all.js";
-ref.parentNode.insertBefore(js, ref);
-}(document));
-</script>
 
 
 <script language="javascript" src="http://www.igvault.com/js/ajax_user.js"></script>
 <script language="javascript" src="http://www.igvault.com/js/ajax_new_buy.js"></script>
-
+<!-- /******************************************Pre Sales****************************************************/ -->
+<script>
+            function insert_pre_sales(){
+            send_request(httpdir+"interface/ajax_pre_sales.php?insert_new_info=1");
+        }
+        setTimeout(insert_pre_sales,269000);
+    //setTimeout(insert_pre_sales,5000);
+    
+    function select_request_record(){
+        send_request(httpdir+"interface/ajax_pre_sales.php?select_request_record=1");
+    }
+    setInterval(select_request_record, 30000);
+</script>
+<!-- /*********************************************End*******************************************************/ -->
 <div id="cusneeds_div">
 	<div id="cat2" class="level_check">
 	<div class="header">
@@ -154,6 +157,134 @@ ref.parentNode.insertBefore(js, ref);
 	</div>
 </div>
 
+<div id="giftcard_div">
+<div id="cat2" class="level_check">
+    <div class="header">
+        <span><h1>Transfer the gift card<div style="display:inline;float:right;margin-right:5px;color:#fff;cursor:pointer;" onclick="document.getElementById('gift_email').value=''; document.getElementById('gift_email2').value=''; document.getElementById('giftcard_div').style.display='none';">X</div></h1></span>
+    </div>
+    <span id="tleft"><span id="tright"></span></span>
+    <div class="content">
+        <script type="text/javascript">
+            function post_giftcard() {
+                var giftcard_id = document.getElementById('giftcard_gift_id').value;
+                var gift_email = document.getElementById('gift_email').value;
+                if(confirm("Your giftcard "+giftcard_id+" will transfer to "+gift_email+". Are you sure you want to do this?")){
+                    if(document.getElementById('gift_email').value==""){
+                        document.getElementById('gift_email').style.border = '1px solid red';
+                        return false;
+                    } else {
+                        document.getElementById('gift_email').style.border = '';
+                    }
+                    if(document.getElementById('gift_email2').value!=document.getElementById('gift_email').value){
+                        document.getElementById('gift_email2').style.border = '1px solid red';
+                        return false;
+                    } else {
+                        document.getElementById('gift_email2').style.border = '';
+                    }
+                    document.getElementById('giftcard_form').submit();
+                }
+            }
+        </script>
+        <form id="giftcard_form" name="giftcard_form" action="http://www.igvault.com/giftcard/index.html" method="post">
+            <input type="hidden" value="1" name="giftcard_gift">
+            <input type="hidden" value="" name="giftcard_gift_id" id="giftcard_gift_id">
+            <table width="100%">
+                <tbody><tr>
+                    <td height="50">&nbsp;</td>
+                </tr>
+                <tr>
+                    <td width="60%" align="right">The receiver's email account on IGVault site:</td>
+                    <td width="40%" align="left"><input type="text" name="gift_email" id="gift_email"></td>
+                </tr>
+                <tr>
+                    <td width="60%" align="right">Please reconfirm the email account:</td>
+                    <td width="40%" align="left"><input type="text" name="gift_email2" id="gift_email2"></td>
+                </tr>
+                <tr>
+                    <td align="center" colspan="2"><table border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td nowrap=""><a href="#" class="button1" onclick="post_giftcard();return false;"><span style="color:#000000;">Submit</span></a></td>
+  </tr>
+</tbody></table>
+</td>
+                </tr>
+                <tr>
+                    <td height="50">&nbsp;</td>
+                </tr>
+            </tbody></table>
+        </form>
+    </div>
+    <span id="bleft"><span id="bright"></span></span>
+</div>
+</div>
+
+<div id="giftcard_update_div">
+    <div id="cat2" class="level_check">
+        <div class="header">
+            <span><h1>Update GiftCard Password<div style="display:inline;float:right;margin-right:5px;color:#fff;cursor:pointer;" onclick="document.getElementById('password_load').value=''; document.getElementById('password_new').value=''; document.getElementById('password_new2').value=''; document.getElementById('giftcard_update_div').style.display='none';">X</div></h1></span>
+        </div>
+        <span id="tleft"><span id="tright"></span></span>
+        <div class="content">
+            <script type="text/javascript">
+                function post_giftcard_update() {
+                    if(document.getElementById('password_load').value==""){
+                        document.getElementById('password_load').style.border = '1px solid red';
+                        return false;
+                    } else {
+                        document.getElementById('password_load').style.border = '';
+                    }
+                    if(document.getElementById('password_new').value==""){
+                        document.getElementById('password_new').style.border = '1px solid red';
+                        return false;
+                    } else {
+                        document.getElementById('password_new').style.border = '';
+                    }
+                    if(document.getElementById('password_new2').value!=document.getElementById('password_new').value){
+                        document.getElementById('password_new2').style.border = '1px solid red';
+                        return false;
+                    } else {
+                        document.getElementById('password_new2').style.border = '';
+                    }
+                    document.getElementById('giftcard_update_form').submit();
+                }
+            </script>
+            <form id="giftcard_update_form" name="giftcard_update_form" action="http://www.igvault.com/giftcard/index.html" method="post">
+                <input type="hidden" value="1" name="giftcard_update">
+                <input type="hidden" value="" name="update_giftcard_id" id="update_giftcard_id">
+                <table width="100%">
+                    <tbody><tr>
+                        <td height="50">&nbsp;</td>
+                    </tr>
+                    <tr>
+                        <td width="40%" align="right">The old payment password:</td>
+                        <td width="60%" align="left"><input type="password" name="password_load" id="password_load"></td>
+                    </tr>
+                    <tr>
+                        <td width="40%" align="right">New password:</td>
+                        <td width="60%" align="left"><input type="password" name="password_new" id="password_new"></td>
+                    </tr>
+                    <tr>
+                        <td width="40%" align="right">Please enter your new password again:</td>
+                        <td width="60%" align="left"><input type="password" name="password_new2" id="password_new2"></td>
+                    </tr>
+                    <tr>
+                        <td align="center" colspan="2"><table border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td nowrap=""><a href="#" class="button1" onclick="post_giftcard_update();return false;"><span style="color:#000000;">Submit</span></a></td>
+  </tr>
+</tbody></table>
+</td>
+                    </tr>
+                    <tr>
+                        <td height="50">&nbsp;</td>
+                    </tr>
+                </tbody></table>
+            </form>
+        </div>
+        <span id="bleft"><span id="bright"></span></span>
+    </div>
+</div>
+
 <!--/*****************************************************************feedback*****************************************************************************/-->
 <!--
 <div id="feedback_div">
@@ -170,7 +301,7 @@ ref.parentNode.insertBefore(js, ref);
 					<td><select name="select_catalog">
 						<option value="0"></option>
 						<option value="1"></option>
-						<option value="2"></option>
+						<option value="2">Select</option>
 					</select></td>
 				</tr>
 				<tr>
@@ -206,25 +337,25 @@ ref.parentNode.insertBefore(js, ref);
 	<SPAN ID="bleft"><SPAN ID="bright"></SPAN></SPAN>
 	</div>
 </div>
+-->
 
-
-<div id="halloween_div_login" style="display:none;">
+<div id="christmas_div">
 <div id="cat2" class="level_check">
 		<div class="header">
-		<SPAN><h1><div style="display:inline;float:right;margin-right:5px;color:#fff;cursor:pointer;" onclick="document.getElementById('halloween_div_login').style.display='none';">X</div></h1></SPAN>
+		<span><h1>Login with GAME2CARD<div style="display:inline;float:right;margin-right:5px;color:#fff;cursor:pointer;" onclick="document.getElementById('christmas_div').style.display='none';">X</div></h1></span>
 		</div>
-		<SPAN ID="tleft"><SPAN ID="tright"></SPAN></SPAN> 
+		<span id="tleft"><span id="tright"></span></span> 
 		<div class="content" style="text-align:center; padding:30px;">
 		<form id="form_login_halloween" action="http://www.igvault.com/index.html" method="post" name="form_login">
 			<table width="100%" cellspacing="0" cellpadding="0">
-				<tr align="center">
+				<tbody><tr align="center">
 					<td></td>
 					<td colspan="4">
 						<div id="checkout_content">
 							<div id="checkout_unlogin_area">
-							<h3 id="checkout_login_check" style="font-family:Tahoma; font-size:12px;color:#444; font-weight:bold; padding:5px; width:auto;background-color:#FFc993;border:1px solid #dEA65C;cursor:pointer;" onMouseOver="style1_lgn(this);" onMouseOut="style_lgn(this, lgn);" onclick="showform_lgn(this);" >Please Login first before applying the Christmas coupon.</h3>
+							<h3 id="checkout_login_check" style="font-family:Tahoma; font-size:12px;color:#444; font-weight:bold; padding:5px; width:auto;background-color:#FFc993;border:1px solid #dEA65C;cursor:pointer;" onmouseover="style1_lgn(this);" onmouseout="style_lgn(this, lgn);" onclick="showform_lgn(this);">Please enter your GAME2CARD's account number and password</h3>
 							<table width="100%" border="0" cellspacing="3" cellpadding="0" id="check_login_area">
-							<tr>
+							<tbody><tr>
 								<td align="center">
 									<label>E-Mail:</label>
 									<input id="lgn_eml_halloween" name="lgn_eml" class="input2" type="text">
@@ -236,21 +367,21 @@ ref.parentNode.insertBefore(js, ref);
 									<input type="hidden" value="" id="halloween_log_hid" name="halloween_log_hid">
 									<input type="hidden" value="http://www.igvault.com/index.html" id="halloween_log_url" name="halloween_log_url">
 									<input type="hidden" value="" id="halloween_log_pid" name="halloween_log_pid">
-									<a href="#" style="display:inline-block; margin:0;position:relative;top:9px;" class="button1" onclick=" if (document.getElementById('lgn_eml_halloween').value && document.getElementById('lgn_pwd_halloween').value) { document.getElementById('form_login_halloween').submit(); } return false; "><span style="color:#000000;">&nbsp;&nbsp;Login&nbsp;&nbsp;</span></a>
+									<a href="#" style="display:inline-block; margin:0;position:relative;top:9px;" class="button1" onclick=" if (document.getElementById('lgn_eml_halloween').value &amp;&amp; document.getElementById('lgn_pwd_halloween').value) { document.getElementById('form_login_halloween').submit(); } return false; "><span style="color:#000000;">&nbsp;&nbsp;Login&nbsp;&nbsp;</span></a>
 								</td>
 							</tr>					
-							</table>
+							</tbody></table>
 							</div>
 						</div>
 					</td>
 					<td></td>
 				</tr>
-			</table>
+			</tbody></table>
 			</form>
 		</div>
 	</div>
 </div>
--->
+
 <!--/*******************************************************************end********************************************************************************/-->
 
 <!--/*****************************************************************Paypal********************************************************************************/-->
@@ -414,21 +545,26 @@ ref.parentNode.insertBefore(js, ref);
 	"><img src="http://www.igvault.com/templates/classic/img/twitter.jpg" width="25px" height="25px"></a>
 					<a style="top:29px; left:29px" href="http://www.facebook.com/igvault" title="Like us on FB"><img src="http://www.igvault.com/templates/classic/img/facebook.jpg" width="25px" height="25px"></a>
 					<a style="top:0; left:29px" href="http://en.igvault-blog.com" title="Follow IGVault official blog"><img src="http://www.igvault.com/templates/classic/img/wordpress.jpg" width="25px" height="25px"></a>
-					<a id="addBookmark" style="top:0; left:0" href="#" title="Click Star or Ctrl+D to add to my Favourite
-	" onclick="addFav();return false;"><img src="http://www.igvault.com/templates/classic/img/fav.jpg" width="25px" height="25px" rel="sidebar"></a>
+					<a id="addBookmark" style="top:0; left:0" href="#" title="Win 1% Discount by adding IGVault to your Favorites" onclick="addFav();return false;"><img src="http://www.igvault.com/templates/classic/img/fav.gif" width="25px" height="25px" rel="sidebar"></a>
 								
 				<script type="text/javascript">
 					function addFav(){  
 						if (typeof document.url == "undefined") {
 							//alert(location.href);
-							document.url = location.href;
-						} 
+//                          var tmp_url = location.href.split('/');
+//                          var jump_url = tmp_url[0]+'//'+tmp_url[2]+'/index.html';
+//							document.url = location.href;
+                            var rand = parseInt(Math.random()*99999+10000);
+                            document.url = 'http://www.igvault.com/index/'+rand+'.html';
+                            var tmp_title = document.title.split(' - ');
+                            document.title = tmp_title[1]+' - '+tmp_title[0];
+						}
 						
 						//alert(document.url);
-						if (document.all){   
-							window.external.addFavorite(document.url, document.title);   
-						} else if (window.sidebar){   
-							window.sidebar.addPanel(document.title, document.url, "");   
+						if (document.all){
+							window.external.addFavorite(document.url, document.title);
+						} else if (window.sidebar){
+							window.sidebar.addPanel(document.title, document.url, "");
 						} else if (window.opera && window.print) {
 							var add = document.getElementById('addBookmark');
 							add.setAttribute('rel', 'sitebar');
@@ -436,6 +572,7 @@ ref.parentNode.insertBefore(js, ref);
 							add.setAttribute('title', document.title);
 							add.click();
 						}
+                        send_request("http://www.igvault.com/interface/ajax_pre_sales.php?insert_favorite=1&rand="+rand);
 					}   
 				</script>
 				
@@ -481,8 +618,7 @@ ref.parentNode.insertBefore(js, ref);
 </tbody></table>
 </div>
 </div>
-			   
-			   	<ul id="igvmenu" style="position:absolute; z-index:1100;">
+			    			   	<ul id="igvmenu" style="position:absolute; z-index:1100;">
 				<!--
 					<li>
 									<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="216" height="28">
@@ -495,11 +631,14 @@ ref.parentNode.insertBefore(js, ref);
 				-->
 				<li><a href="http://www.igvault.com/game-currency/index.html"><span>Currency</span></a></li>
 				<li><a href="http://www.igvault.com/game-item/index.html"><span>Item</span></a></li>
-				<li><a href="http://www.igvault.com/powerleveling/index.html"><span>Powerleveling</span></a></li>
+				<li style="position:relative;"><a href="http://www.igvault.com/powerleveling/index.html"><span>Powerleveling</span>
+                    </a><!-- <img style="position:absolute; z-index:121;left:95px; top:-9px;" src="http://www.igvault.com/templates/classic/img/img_new_en.png" > -->
+                </li>
+                <!-- <li><a href="http://www.game2card.com/igv_login/giftcard/en.html" target="_blank"><span>GiftCard</span></a></li>
+                <li><a href="http://www.game2card.com/igv_login/cdkey/en.html" target="_blank"><span>CD Key</span></a></li> -->
 		        </ul>
-				
-<!--				<div id="igvmenu_lang" style="position:absolute; z-index:1100;"><a target="_blank" href="http://www.igvault.com"><img src="http://www.igvault.com/templates/classic/img/language_en.gif" border="0" hspace="2" alt="English" align="absmiddle" title="English" style="border:1px solid #FF0000;padding:1px;"></a><a target="_blank" href="http://www.igvault.de"><img src="http://www.igvault.com/templates/classic/img/language_de.gif" border="0" hspace="2" alt="Deutsch" align="absmiddle" title="Deutsch" style=""></a><a target="_blank" href="http://www.igvault.fr"><img src="http://www.igvault.com/templates/classic/img/language_fr.gif" border="0" hspace="2" alt="Français" align="absmiddle" title="Français" style=""></a><a target="_blank" href="http://www.igvault.es"><img src="http://www.igvault.com/templates/classic/img/language_es.gif" border="0" hspace="2" alt="Spanish" align="absmiddle" title="Spanish" style=""></a><a target="_blank" href="http://www.igvault.it"><img src="http://www.igvault.com/templates/classic/img/language_it.gif" border="0" hspace="2" alt="Italian" align="absmiddle" title="Italian" style=""></a><a target="_blank" href="http://www.igvault.ru"><img src="http://www.igvault.com/templates/classic/img/language_ru.gif" border="0" hspace="2" alt="Russian" align="absmiddle" title="Russian" style=""></a><a target="_blank" href="http://www.igvault.at"><img src="http://www.igvault.com/templates/classic/img/language_at.gif" border="0" hspace="2" alt="Austria" align="absmiddle" title="Austria" width="21px" height="13px" style=""></a></div>-->
-			<div id="igvmenu_lang" style="position:absolute; z-index:1100;">
+				<!--				<div id="igvmenu_lang" style="position:absolute; z-index:1100;"><a target="_blank" href="http://www.igvault.com"><img src="http://www.igvault.com/templates/classic/img/language_en.gif" border="0" hspace="2" alt="English" align="absmiddle" title="English" style="border:1px solid #FF0000;padding:1px;"></a><a target="_blank" href="http://www.igvault.de"><img src="http://www.igvault.com/templates/classic/img/language_de.gif" border="0" hspace="2" alt="Deutsch" align="absmiddle" title="Deutsch" style=""></a><a target="_blank" href="http://www.igvault.fr"><img src="http://www.igvault.com/templates/classic/img/language_fr.gif" border="0" hspace="2" alt="Français" align="absmiddle" title="Français" style=""></a><a target="_blank" href="http://www.igvault.es"><img src="http://www.igvault.com/templates/classic/img/language_es.gif" border="0" hspace="2" alt="Spanish" align="absmiddle" title="Spanish" style=""></a><a target="_blank" href="http://www.igvault.it"><img src="http://www.igvault.com/templates/classic/img/language_it.gif" border="0" hspace="2" alt="Italian" align="absmiddle" title="Italian" style=""></a><a target="_blank" href="http://www.igvault.ru"><img src="http://www.igvault.com/templates/classic/img/language_ru.gif" border="0" hspace="2" alt="Russian" align="absmiddle" title="Russian" style=""></a><a target="_blank" href="http://www.igvault.at"><img src="http://www.igvault.com/templates/classic/img/language_at.gif" border="0" hspace="2" alt="Austria" align="absmiddle" title="Austria" width="21px" height="13px" style=""></a></div>-->
+						<div id="igvmenu_lang" style="position:absolute; z-index:1100;">
                     <!--<a target="_blank" href="http://www.igvault.at"><img src="http://www.igvault.com/templates/classic/img/language_at.gif" border="0" hspace="2" alt="Austria" align="absmiddle" title="Austria" width="21px" height="13px" style=""></a>-->
                     <div class="lang_now">English<img src="http://www.igvault.com/images/country/.gif" width="21px" height="13px"></div>
                     <div class="lang_bg">
@@ -508,13 +647,13 @@ ref.parentNode.insertBefore(js, ref);
                             <a style="display:none" target="_blank" href="http://www.igvault.com">English</a>
                             <a style="" target="_blank" href="http://www.igvault.fr">Français</a>
                             <a style="" target="_blank" href="http://www.igvault.it">Italian</a>
-                            <a style="" target="_blank" href="http://www.igvault.ru">Russian</a>                            
-                            <a style="" target="_blank" href="http://www.igvault.es">Spanish</a> 
+                            <a style="" target="_blank" href="http://www.igvault.ru">Russian</a>
+                            <a style="" target="_blank" href="http://www.igvault.es">Spanish</a>
                             <a style="" target="_blank" href="http://www.igvault.net">العربية</a>
                         </div>
                     </div>
                 </div>
-                <script src="http://www.igvault.com/js/jquery.js"></script>
+			                <script src="http://www.igvault.com/js/jquery.js"></script>
 				<script language="javascript" type="text/javascript">
 				jQuery(document).ready(function() {
                     jQuery("#igvmenu_lang").mouseover(function(){
@@ -531,26 +670,32 @@ ref.parentNode.insertBefore(js, ref);
 				
 
 <div id="igvmenu_footer" style="z-index:1100;"><a href="http://www.igvault.com/paysafecard.html"><span onmouseover="changebg(this, 0);" onmouseout="changebg(this, 1);">BUY     WITH PAYSAFECARD</span></a>&nbsp;
+
+<!-- /**********************************************Ukash**********************************************************/ -->
+    <a href="http://www.igvault.com/ukash.html"><span onmouseover="changebg(this, 0);" onmouseout="changebg(this, 1);">BUY     WITH UKASH</span></a>&nbsp;
+<!-- /************************************************End************************************************************/ -->
+
 <!-- /**********************************************Onecard**********************************************************/ -->
-			<a href="http://www.igvault.com/onecard.html"><span onmouseover="changebg(this, 0);" onmouseout="changebg(this, 1);">BUY     WITH ONECARD</span></a>&nbsp;
-	<!-- /************************************************End************************************************************/ -->	  
-&nbsp;
+	<!-- /************************************************End************************************************************/ -->
+
+<!-- /********************************************Gifr Card**********************************************************/ -->
+            <!-- <a href="http://www.igvault.com/giftcard.html"><span onmouseover="changebg(this, 0);" onmouseout="changebg(this, 1);">BUY     WITH GIFTCARD</span></a>&nbsp; -->
+    <!-- /************************************************End************************************************************/ -->
+    &nbsp;
 				<!--
 				<a href="http://www.igvault.com/mobilefirst.html"><span onmouseover="changebg(this, 0);" onmouseout="changebg(this, 1);">BUY     </span></a>				-->
 				</div>
 				
 					<div style="position:absolute;right:0;top:170px;z-index:1100;">
-					<div id="igvmenu_right">&nbsp;&nbsp;&nbsp;&nbsp;<img style="margin-left:5px;" align="absmiddle" src="http://www.igvault.com/templates/classic/img/menu_right_lsp.gif"> <a href="#" target="_blank" onclick="window.open ('http://livesupport.igvault.com/?action=page&amp;page_id=1', 'newwindow',' height=654, width=770, top=20, left=150, toolbar=no, menubar=no, scrollbars=no, resizable=no,location=no, status=no'); return false">LIVE-SUPPORT</a>&nbsp;&nbsp;&nbsp;&nbsp;</div>					</div>
+					<div id="igvmenu_right">
+                        &nbsp;&nbsp;&nbsp;&nbsp;
+                        <!-- &nbsp;&nbsp;&nbsp;&nbsp; -->
+                        <img style="margin-left:5px;" align="absmiddle" src="http://www.igvault.com/templates/classic/img/menu_right_lsp.gif"> <a href="#" target="_blank" onclick="window.open ('http://livesupport.igvault.com/?action=page&amp;page_id=1', 'newwindow',' height=654, width=770, top=20, left=150, toolbar=no, menubar=no, scrollbars=no, resizable=no,location=no, status=no'); return false">LIVE-SUPPORT</a>&nbsp;&nbsp;&nbsp;&nbsp;</div>					</div>
 					
 		        </div>
 				
-		        
-				
-		        <div id="top_barnner" style="height:41px;background: #cdcdcd url(http://www.igvault.com/templates/classic/img/igvault_bg84.gif) repeat-x left top;position:relative;">
-
-		        
-
-				
+		        		        <div id="top_barnner" style="height:41px;background: #cdcdcd url(http://www.igvault.com/templates/classic/img/igvault_bg84.gif) repeat-x left top;position:relative;">
+						        
 		        
 		        
 				<script language="javascript">
@@ -595,221 +740,242 @@ ref.parentNode.insertBefore(js, ref);
     <div class="content">
 		<ul id="gameselect_menu_ul">
                                                                                                                                     <li style="position:relative;" onmouseover="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='block';}" onmouseout="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='none';}">
-                                                                            <a href="http://www.igvault.com/4story/gold/4story_en.html" onclick="document.url = this.href;center_request('?pid=19006&amp;nameid=19006',event);return false;">4Story</a>
+                                                                            <a href="http://www.igvault.com/4story/gold/4story_en.html" onclick="jump_url_record(this); document.url = this.href;center_request('?pid=19006&amp;nameid=19006',event);return false;">4Story</a>
                                         
                                                                             								</li>
                                                                                                                                                                                                                             <li style="position:relative;" onmouseover="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='block';}" onmouseout="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='none';}">
-                                                                            <a href="http://www.igvault.com/aoc/gold/age-of-conan_en.html" onclick="document.url = this.href;center_request('?pid=16797&amp;nameid=16797',event);return false;">Age of Conan</a>
+                                                                            <a href="http://www.igvault.com/aoc/gold/age-of-conan_en.html" onclick="jump_url_record(this); document.url = this.href;center_request('?pid=16797&amp;nameid=16797',event);return false;">Age of Conan</a>
                                         
                                                                             								</li>
                                                                                                                                                                                                                             <li style="position:relative;" onmouseover="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='block';}" onmouseout="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='none';}">
-                                                                            <a href="http://www.igvault.com/aow/money/age-of-wushu_en.html" onclick="document.url = this.href;center_request('?pid=20281&amp;nameid=20281',event);return false;">Age of WuShu</a>
+                                                                            <a href="http://www.igvault.com/age-of-wulin/gold/age-of-wulin_en.html" onclick="jump_url_record(this); document.url = this.href;center_request('?pid=20494&amp;nameid=20494',event);return false;">Age of WuLin</a>
                                         
                                                                             								</li>
                                                                                                                                                                                                                             <li style="position:relative;" onmouseover="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='block';}" onmouseout="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='none';}">
-                                                                            <a href="http://www.igvault.com/aion/kinah/aion_en.html" onclick="document.url = this.href;center_request('?pid=18132&amp;nameid=18132',event);return false;">Aion</a>
+                                                                            <a href="http://www.igvault.com/age-of-wushu/money/age-of-wushu_en.html" onclick="jump_url_record(this); document.url = this.href;center_request('?pid=20281&amp;nameid=20281',event);return false;">Age of WuShu</a>
+                                        
+                                                                            								</li>
+                                                                                                                                                                                                                            <li style="position:relative;" onmouseover="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='block';}" onmouseout="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='none';}">
+                                                                            <a href="http://www.igvault.com/aion/kinah/aion_en.html" onclick="jump_url_record(this); document.url = this.href;center_request('?pid=18132&amp;nameid=18132',event);return false;">Aion</a>
                                         
                                                                                     <div class="currency_item_float">
-                                                <a class="ci_item" href="http://www.igvault.com/aion/kinah/aion_en.html" onclick="document.url = this.href;center_request('?pid=18132&amp;nameid=18132',event);return false;" title="Aion Kinah">Kinah</a>
+                                                <a class="ci_item" href="http://www.igvault.com/aion/kinah/aion_en.html" onclick="jump_url_record(this);document.url = this.href;center_request('?pid=18132&amp;nameid=18132',event);return false;" title="Aion Kinah">Kinah</a>
                                                 <a class="ci_item" href="http://www.igvault.com/powerleveling/game/aion.html">Powerleveling</a>
                                             </div>
                                                                             								</li>
                                                                                                                                                                                                                             <li style="position:relative;" onmouseover="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='block';}" onmouseout="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='none';}">
-                                                                            <a href="http://www.igvault.com/cabal/alz/cabal-online-europe_en.html" onclick="document.url = this.href;center_request('?pid=16627&amp;nameid=16627',event);return false;">Cabal Online Europe</a>
+                                                                            <a href="http://www.igvault.com/cabal/alz/cabal-online-europe_en.html" onclick="jump_url_record(this); document.url = this.href;center_request('?pid=16627&amp;nameid=16627',event);return false;">Cabal Online Europe</a>
                                         
                                                                             								</li>
                                                                                                                                                                                                                             <li style="position:relative;" onmouseover="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='block';}" onmouseout="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='none';}">
-                                                                            <a href="http://www.igvault.com/cabal/alz/cabal-online-us_en.html" onclick="document.url = this.href;center_request('?pid=17047&amp;nameid=17047',event);return false;">Cabal Online US</a>
+                                                                            <a href="http://www.igvault.com/cabal/alz/cabal-online-us_en.html" onclick="jump_url_record(this); document.url = this.href;center_request('?pid=17047&amp;nameid=17047',event);return false;">Cabal Online US</a>
                                         
                                                                             								</li>
                                                                                                                                                                                                                             <li style="position:relative;" onmouseover="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='block';}" onmouseout="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='none';}">
-                                                                            <a href="http://www.igvault.com/c9/gold/continent-of-the-ninth-seal_en.html" onclick="document.url = this.href;center_request('?pid=20006&amp;nameid=20006',event);return false;">Continent of the Ninth Seal</a>
+                                                                            <a href="http://www.igvault.com/c9/gold/continent-of-the-ninth-seal_en.html" onclick="jump_url_record(this); document.url = this.href;center_request('?pid=20006&amp;nameid=20006',event);return false;">Continent of the Ninth Seal</a>
                                         
                                                                             								</li>
                                                                                                                                                                                                                             <li style="position:relative;" onmouseover="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='block';}" onmouseout="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='none';}">
-                                                                            <a href="http://www.igvault.com/dekaron/dil/dekaron-online_en.html" onclick="document.url = this.href;center_request('?pid=17924&amp;nameid=17924',event);return false;">Dekaron Online</a>
+                                                                            <a href="http://www.igvault.com/dekaron/dil/dekaron-online_en.html" onclick="jump_url_record(this); document.url = this.href;center_request('?pid=17924&amp;nameid=17924',event);return false;">Dekaron Online</a>
                                         
                                                                             								</li>
                                                                                                                                                                                                                             <li style="position:relative;" onmouseover="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='block';}" onmouseout="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='none';}">
-                                                                            <a href="http://www.igvault.com/diablo-3/gold/diablo-3_en.html" onclick="document.url = this.href;center_request('?pid=19984&amp;nameid=19984',event);return false;">Diablo 3</a>
+                                                                            <a href="http://www.igvault.com/diablo-3/gold/diablo-3_en.html" onclick="jump_url_record(this); document.url = this.href;center_request('?pid=19984&amp;nameid=19984',event);return false;">Diablo 3</a>
                                         
                                                                                     <div class="currency_item_float">
-                                                <a class="ci_item" href="http://www.igvault.com/diablo-3/gold/diablo-3_en.html" onclick="document.url = this.href;center_request('?pid=19984&amp;nameid=19984',event);return false;" title="Diablo 3 Gold">Gold</a>
+                                                <a class="ci_item" href="http://www.igvault.com/diablo-3/gold/diablo-3_en.html" onclick="jump_url_record(this);document.url = this.href;center_request('?pid=19984&amp;nameid=19984',event);return false;" title="Diablo 3 Gold">Gold</a>
                                                 <a class="ci_item" href="http://www.igvault.com/powerleveling/game/diablo-3.html">Powerleveling</a>
                                             </div>
                                                                             								</li>
                                                                                                                                                                                                                             <li style="position:relative;" onmouseover="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='block';}" onmouseout="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='none';}">
-                                                                            <a href="http://www.igvault.com/dofus/kamas/dofus_en.html" onclick="document.url = this.href;center_request('?pid=10007&amp;nameid=10007',event);return false;">Dofus</a>
+                                                                            <a href="http://www.igvault.com/dofus/kamas/dofus_en.html" onclick="jump_url_record(this); document.url = this.href;center_request('?pid=10007&amp;nameid=10007',event);return false;">Dofus</a>
                                                                                     <div class="currency_item_float">
-                                                <a class="ci_item" href="http://www.igvault.com/dofus/kamas/dofus_en.html" onclick="document.url = this.href;center_request('?pid=10007&amp;nameid=10007',event);return false;" title="Dofus Kamas">Kamas</a>
-                                                <a class="ci_item" href="http://www.igvault.com/dofus/kamas/dofus_en-item.html" onclick="document.url = this.href;center_request('?pid=10007&amp;nameid=10007&amp;citemid=10007',event);return false;">Item</a>
+                                                <a class="ci_item" href="http://www.igvault.com/dofus/kamas/dofus_en.html" onclick="jump_url_record(this);document.url = this.href;center_request('?pid=10007&amp;nameid=10007',event);return false;" title="Dofus Kamas">Kamas</a>
+                                                <a class="ci_item" href="http://www.igvault.com/dofus/kamas/dofus_en-item.html" onclick="jump_url_record(this);document.url = this.href;center_request('?pid=10007&amp;nameid=10007&amp;citemid=10007',event);return false;">Item</a>
                                                                                                      <a class="ci_item" href="http://www.igvault.com/powerleveling/game/dofus.html">Powerleveling</a>
                                                                                              </div>
                                         
                                                                             								</li>
                                                                                                                                                                                                                             <li style="position:relative;" onmouseover="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='block';}" onmouseout="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='none';}">
-                                                                            <a href="http://www.igvault.com/dn/gold/dragon-nest_en.html" onclick="document.url = this.href;center_request('?pid=18995&amp;nameid=18995',event);return false;">Dragon Nest</a>
+                                                                            <a href="http://www.igvault.com/dn/gold/dragon-nest_en.html" onclick="jump_url_record(this); document.url = this.href;center_request('?pid=18995&amp;nameid=18995',event);return false;">Dragon Nest</a>
                                         
                                                                             								</li>
                                                                                                                                                                                                                             <li style="position:relative;" onmouseover="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='block';}" onmouseout="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='none';}">
-                                                                            <a href="http://www.igvault.com/eden-eternal/gold/eden-eternal_en.html" onclick="document.url = this.href;center_request('?pid=20143&amp;nameid=20143',event);return false;">Eden Eternal</a>
+                                                                            <a href="http://www.igvault.com/dragon's-prophet/gold/dragon's-prophet_en.html" onclick="jump_url_record(this); document.url = this.href;center_request('?pid=20483&amp;nameid=20483',event);return false;">Dragon's Prophet</a>
                                         
                                                                             								</li>
                                                                                                                                                                                                                             <li style="position:relative;" onmouseover="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='block';}" onmouseout="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='none';}">
-                                                                            <a href="http://www.igvault.com/elsword/ed/elsword_en.html" onclick="document.url = this.href;center_request('?pid=20149&amp;nameid=20149',event);return false;">ELSWORD</a>
+                                                                            <a href="http://www.igvault.com/eden-eternal/gold/eden-eternal_en.html" onclick="jump_url_record(this); document.url = this.href;center_request('?pid=20143&amp;nameid=20143',event);return false;">Eden Eternal</a>
                                         
                                                                             								</li>
                                                                                                                                                                                                                             <li style="position:relative;" onmouseover="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='block';}" onmouseout="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='none';}">
-                                                                            <a href="http://www.igvault.com/eve/isk/eve-online_en.html" onclick="document.url = this.href;center_request('?pid=16547&amp;nameid=16547',event);return false;">Eve Online</a>
+                                                                            <a href="http://www.igvault.com/elsword/ed/elsword_en.html" onclick="jump_url_record(this); document.url = this.href;center_request('?pid=20149&amp;nameid=20149',event);return false;">ELSWORD</a>
                                         
                                                                             								</li>
                                                                                                                                                                                                                             <li style="position:relative;" onmouseover="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='block';}" onmouseout="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='none';}">
-                                                                            <a href="http://www.igvault.com/fifa-13/coins/fifa-13_en.html" onclick="document.url = this.href;center_request('?pid=20471&amp;nameid=20471',event);return false;">FIFA 13</a>
+                                                                            <a href="http://www.igvault.com/eve/isk/eve-online_en.html" onclick="jump_url_record(this); document.url = this.href;center_request('?pid=16547&amp;nameid=16547',event);return false;">Eve Online</a>
                                         
                                                                             								</li>
                                                                                                                                                                                                                             <li style="position:relative;" onmouseover="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='block';}" onmouseout="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='none';}">
-                                                                            <a href="http://www.igvault.com/flyff/penya/flyff_en.html" onclick="document.url = this.href;center_request('?pid=16763&amp;nameid=16763',event);return false;">FlyFF</a>
+                                                                            <a href="http://www.igvault.com/fifa-13/coins/fifa-13_en.html" onclick="jump_url_record(this); document.url = this.href;center_request('?pid=20471&amp;nameid=20471',event);return false;">FIFA 13</a>
                                         
                                                                             								</li>
                                                                                                                                                                                                                             <li style="position:relative;" onmouseover="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='block';}" onmouseout="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='none';}">
-                                                                            <a href="http://www.igvault.com/gf/gold/grand-fantasia_en.html" onclick="document.url = this.href;center_request('?pid=20319&amp;nameid=20319',event);return false;">Grand Fantasia</a>
+                                                                            <a href="http://www.igvault.com/ffxiv/gil/final-fantasy-xiv_en.html" onclick="jump_url_record(this); document.url = this.href;center_request('?pid=18597&amp;nameid=18597',event);return false;">Final Fantasy XIV</a>
                                         
                                                                             								</li>
                                                                                                                                                                                                                             <li style="position:relative;" onmouseover="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='block';}" onmouseout="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='none';}">
-                                                                            <a href="http://www.igvault.com/gw/gold/guild-wars_en.html" onclick="document.url = this.href;center_request('?pid=10042&amp;nameid=10042',event);return false;">Guild Wars</a>
+                                                                            <a href="http://www.igvault.com/flyff/penya/flyff_en.html" onclick="jump_url_record(this); document.url = this.href;center_request('?pid=16763&amp;nameid=16763',event);return false;">FlyFF</a>
                                         
                                                                             								</li>
                                                                                                                                                                                                                             <li style="position:relative;" onmouseover="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='block';}" onmouseout="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='none';}">
-                                                                            <a href="http://www.igvault.com/gw2/gold/guild-wars-2_en.html" onclick="document.url = this.href;center_request('?pid=20015&amp;nameid=20015',event);return false;">Guild Wars 2</a>
+                                                                            <a href="http://www.igvault.com/gf/gold/grand-fantasia_en.html" onclick="jump_url_record(this); document.url = this.href;center_request('?pid=20319&amp;nameid=20319',event);return false;">Grand Fantasia</a>
+                                        
+                                                                            								</li>
+                                                                                                                                                                                                                            <li style="position:relative;" onmouseover="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='block';}" onmouseout="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='none';}">
+                                                                            <a href="http://www.igvault.com/gw/gold/guild-wars_en.html" onclick="jump_url_record(this); document.url = this.href;center_request('?pid=10042&amp;nameid=10042',event);return false;">Guild Wars</a>
+                                        
+                                                                            								</li>
+                                                                                                                                                                                                                            <li style="position:relative;" onmouseover="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='block';}" onmouseout="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='none';}">
+                                                                            <a href="http://www.igvault.com/gw2/gold/guild-wars-2_en.html" onclick="jump_url_record(this); document.url = this.href;center_request('?pid=20015&amp;nameid=20015',event);return false;">Guild Wars 2</a>
                                         
                                                                                     <div class="currency_item_float">
-                                                <a class="ci_item" href="http://www.igvault.com/gw2/gold/guild-wars-2_en.html" onclick="document.url = this.href;center_request('?pid=20015&amp;nameid=20015',event);return false;" title="Guild Wars 2 Gold">Gold</a>
+                                                <a class="ci_item" href="http://www.igvault.com/gw2/gold/guild-wars-2_en.html" onclick="jump_url_record(this);document.url = this.href;center_request('?pid=20015&amp;nameid=20015',event);return false;" title="Guild Wars 2 Gold">Gold</a>
                                                 <a class="ci_item" href="http://www.igvault.com/powerleveling/game/guild-wars-2.html">Powerleveling</a>
                                             </div>
                                                                             								</li>
                                                                                                                                                                                                                             <li style="position:relative;" onmouseover="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='block';}" onmouseout="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='none';}">
-                                                                            <a href="http://www.igvault.com/knight/noah/knight-online_en.html" onclick="document.url = this.href;center_request('?pid=18063&amp;nameid=18063',event);return false;">Knight Online</a>
+                                                                            <a href="http://www.igvault.com/l2/adena/lineage-2_en.html" onclick="jump_url_record(this); document.url = this.href;center_request('?pid=16526&amp;nameid=16526',event);return false;">Lineage 2</a>
                                         
                                                                             								</li>
                                                                                                                                                                                                                             <li style="position:relative;" onmouseover="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='block';}" onmouseout="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='none';}">
-                                                                            <a href="http://www.igvault.com/last-chaos/gold/last-chaos_en.html" onclick="document.url = this.href;center_request('?pid=18643&amp;nameid=18643',event);return false;">Last Chaos</a>
+                                                                            <a href="http://www.igvault.com/lotro/gold/lotro-europe_en.html" onclick="jump_url_record(this); document.url = this.href;center_request('?pid=10026&amp;nameid=10026',event);return false;">LOTRO Europe</a>
                                         
                                                                             								</li>
                                                                                                                                                                                                                             <li style="position:relative;" onmouseover="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='block';}" onmouseout="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='none';}">
-                                                                            <a href="http://www.igvault.com/l2/adena/lineage-2_en.html" onclick="document.url = this.href;center_request('?pid=16526&amp;nameid=16526',event);return false;">Lineage 2</a>
+                                                                            <a href="http://www.igvault.com/maple/mesos/maple-story-global_en.html" onclick="jump_url_record(this); document.url = this.href;center_request('?pid=16470&amp;nameid=16470',event);return false;">Maple Story Global</a>
                                         
                                                                             								</li>
                                                                                                                                                                                                                             <li style="position:relative;" onmouseover="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='block';}" onmouseout="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='none';}">
-                                                                            <a href="http://www.igvault.com/lotro/gold/lotro-europe_en.html" onclick="document.url = this.href;center_request('?pid=10026&amp;nameid=10026',event);return false;">LOTRO Europe</a>
+                                                                            <a href="http://www.igvault.com/maple/mesos/maple-story-europe_en.html" onclick="jump_url_record(this); document.url = this.href;center_request('?pid=16543&amp;nameid=16543',event);return false;">Maple Story Europe</a>
                                         
                                                                             								</li>
                                                                                                                                                                                                                             <li style="position:relative;" onmouseover="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='block';}" onmouseout="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='none';}">
-                                                                            <a href="http://www.igvault.com/maple/mesos/maple-story-global_en.html" onclick="document.url = this.href;center_request('?pid=16470&amp;nameid=16470',event);return false;">Maple Story Global</a>
+                                                                            <a href="http://www.igvault.com/metin2/yang/metin-2_en.html" onclick="jump_url_record(this); document.url = this.href;center_request('?pid=16782&amp;nameid=16782',event);return false;">Metin 2</a>
+                                        
+                                                                                    <div class="currency_item_float">
+                                                <a class="ci_item" href="http://www.igvault.com/metin2/yang/metin-2_en.html" onclick="jump_url_record(this);document.url = this.href;center_request('?pid=16782&amp;nameid=16782',event);return false;" title="Metin 2 Yang">Yang</a>
+                                                <a class="ci_item" href="http://www.igvault.com/powerleveling/game/metin-2.html">Powerleveling</a>
+                                            </div>
+                                                                            								</li>
+                                                                                                                                                                                                                            <li style="position:relative;" onmouseover="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='block';}" onmouseout="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='none';}">
+                                                                            <a href="http://www.igvault.com/nostale/gold/nostale_en.html" onclick="jump_url_record(this); document.url = this.href;center_request('?pid=18674&amp;nameid=18674',event);return false;">Nostale</a>
                                         
                                                                             								</li>
                                                                                                                                                                                                                             <li style="position:relative;" onmouseover="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='block';}" onmouseout="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='none';}">
-                                                                            <a href="http://www.igvault.com/maple/mesos/maple-story-europe_en.html" onclick="document.url = this.href;center_request('?pid=16543&amp;nameid=16543',event);return false;">Maple Story Europe</a>
+                                                                            <a href="http://www.igvault.com/poe/item/path-of-exile_en.html" onclick="jump_url_record(this); document.url = this.href;center_request('?pid=20286&amp;nameid=20286',event);return false;">Path of Exile</a>
                                         
                                                                             								</li>
                                                                                                                                                                                                                             <li style="position:relative;" onmouseover="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='block';}" onmouseout="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='none';}">
-                                                                            <a href="http://www.igvault.com/metin2/yang/metin-2_en.html" onclick="document.url = this.href;center_request('?pid=16782&amp;nameid=16782',event);return false;">Metin 2</a>
+                                                                            <a href="http://www.igvault.com/raiderz/gold/raiderz_en.html" onclick="jump_url_record(this); document.url = this.href;center_request('?pid=20424&amp;nameid=20424',event);return false;">RaiderZ</a>
                                         
                                                                             								</li>
                                                                                                                                                                                                                             <li style="position:relative;" onmouseover="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='block';}" onmouseout="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='none';}">
-                                                                            <a href="http://www.igvault.com/nostale/gold/nostale_en.html" onclick="document.url = this.href;center_request('?pid=18674&amp;nameid=18674',event);return false;">Nostale</a>
+                                                                            <a href="http://www.igvault.com/rappelz/rupees/rappelz-online_en.html" onclick="jump_url_record(this); document.url = this.href;center_request('?pid=16874&amp;nameid=16874',event);return false;">Rappelz Online</a>
                                         
                                                                             								</li>
                                                                                                                                                                                                                             <li style="position:relative;" onmouseover="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='block';}" onmouseout="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='none';}">
-                                                                            <a href="http://www.igvault.com/poe/item/path-of-exile_en.html" onclick="document.url = this.href;center_request('?pid=20286&amp;nameid=20286',event);return false;">Path of Exile</a>
+                                                                            <a href="http://www.igvault.com/rift/platinum/rift:planes-of-telara_en.html" onclick="jump_url_record(this); document.url = this.href;center_request('?pid=18691&amp;nameid=18691',event);return false;">RIFT:Planes of Telara</a>
                                         
                                                                             								</li>
                                                                                                                                                                                                                             <li style="position:relative;" onmouseover="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='block';}" onmouseout="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='none';}">
-                                                                            <a href="http://www.igvault.com/pwi/coins/perfect-world-international_en.html" onclick="document.url = this.href;center_request('?pid=20474&amp;nameid=20474',event);return false;">Perfect World International</a>
+                                                                            <a href="http://www.igvault.com/rom/gold/runes-of-magic_en.html" onclick="jump_url_record(this); document.url = this.href;center_request('?pid=17990&amp;nameid=17990',event);return false;">Runes of Magic</a>
                                         
                                                                             								</li>
                                                                                                                                                                                                                             <li style="position:relative;" onmouseover="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='block';}" onmouseout="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='none';}">
-                                                                            <a href="http://www.igvault.com/raiderz/gold/raiderz_en.html" onclick="document.url = this.href;center_request('?pid=20424&amp;nameid=20424',event);return false;">RaiderZ</a>
+                                                                            <a href="http://www.igvault.com/runescape/gold/runescape_en.html" onclick="jump_url_record(this); document.url = this.href;center_request('?pid=18021&amp;nameid=18021',event);return false;">Runescape</a>
+                                        
+                                                                                    <div class="currency_item_float">
+                                                <a class="ci_item" href="http://www.igvault.com/runescape/gold/runescape_en.html" onclick="jump_url_record(this);document.url = this.href;center_request('?pid=18021&amp;nameid=18021',event);return false;" title="Runescape Gold">Gold</a>
+                                                <a class="ci_item" href="http://www.igvault.com/powerleveling/game/runescape.html">Powerleveling</a>
+                                            </div>
+                                                                            								</li>
+                                                                                                                                                                                                                            <li style="position:relative;" onmouseover="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='block';}" onmouseout="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='none';}">
+                                                                            <a href="http://www.igvault.com/rs3/gold/runescape-3_en.html" onclick="jump_url_record(this); document.url = this.href;center_request('?pid=20460&amp;nameid=20460',event);return false;">Runescape 3</a>
                                         
                                                                             								</li>
                                                                                                                                                                                                                             <li style="position:relative;" onmouseover="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='block';}" onmouseout="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='none';}">
-                                                                            <a href="http://www.igvault.com/rappelz/rupees/rappelz-online_en.html" onclick="document.url = this.href;center_request('?pid=16874&amp;nameid=16874',event);return false;">Rappelz Online</a>
+                                                                            <a href="http://www.igvault.com/scarlet-blade/gold/scarlet-blade_en.html" onclick="jump_url_record(this); document.url = this.href;center_request('?pid=20271&amp;nameid=20271',event);return false;">Scarlet Blade</a>
                                         
                                                                             								</li>
                                                                                                                                                                                                                             <li style="position:relative;" onmouseover="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='block';}" onmouseout="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='none';}">
-                                                                            <a href="http://www.igvault.com/rift/platinum/rift:planes-of-telara_en.html" onclick="document.url = this.href;center_request('?pid=18691&amp;nameid=18691',event);return false;">RIFT:Planes of Telara</a>
+                                                                            <a href="http://www.igvault.com/shaiya/gold/shaiya_en.html" onclick="jump_url_record(this); document.url = this.href;center_request('?pid=19892&amp;nameid=19892',event);return false;">Shaiya</a>
                                         
                                                                             								</li>
                                                                                                                                                                                                                             <li style="position:relative;" onmouseover="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='block';}" onmouseout="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='none';}">
-                                                                            <a href="http://www.igvault.com/rom/gold/runes-of-magic_en.html" onclick="document.url = this.href;center_request('?pid=17990&amp;nameid=17990',event);return false;">Runes of Magic</a>
+                                                                            <a href="http://www.igvault.com/sro/gold/silkroad-online_en.html" onclick="jump_url_record(this); document.url = this.href;center_request('?pid=16505&amp;nameid=16505',event);return false;">SilkRoad Online</a>
                                         
                                                                             								</li>
                                                                                                                                                                                                                             <li style="position:relative;" onmouseover="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='block';}" onmouseout="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='none';}">
-                                                                            <a href="http://www.igvault.com/runescape/gold/runescape_en.html" onclick="document.url = this.href;center_request('?pid=18021&amp;nameid=18021',event);return false;">Runescape</a>
+                                                                            <a href="http://www.igvault.com/srr/gold/silkroad-r_en.html" onclick="jump_url_record(this); document.url = this.href;center_request('?pid=19886&amp;nameid=19886',event);return false;">SilkRoad R</a>
                                         
                                                                             								</li>
                                                                                                                                                                                                                             <li style="position:relative;" onmouseover="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='block';}" onmouseout="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='none';}">
-                                                                            <a href="http://www.igvault.com/rs3/gold/runescape-3_en.html" onclick="document.url = this.href;center_request('?pid=20460&amp;nameid=20460',event);return false;">Runescape 3</a>
+                                                                            <a href="http://www.igvault.com/sto/credits/star-trek-online_en.html" onclick="jump_url_record(this); document.url = this.href;center_request('?pid=19977&amp;nameid=19977',event);return false;">Star Trek Online</a>
                                         
                                                                             								</li>
                                                                                                                                                                                                                             <li style="position:relative;" onmouseover="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='block';}" onmouseout="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='none';}">
-                                                                            <a href="http://www.igvault.com/scarlet-blade/gold/scarlet-blade_en.html" onclick="document.url = this.href;center_request('?pid=20271&amp;nameid=20271',event);return false;">Scarlet Blade</a>
+                                                                            <a href="http://www.igvault.com/swtor/credit/swtor_en.html" onclick="jump_url_record(this); document.url = this.href;center_request('?pid=19049&amp;nameid=19049',event);return false;">SWTOR</a>
+                                        
+                                                                                    <div class="currency_item_float">
+                                                <a class="ci_item" href="http://www.igvault.com/swtor/credit/swtor_en.html" onclick="jump_url_record(this);document.url = this.href;center_request('?pid=19049&amp;nameid=19049',event);return false;" title="SWTOR Credit">Credit</a>
+                                                <a class="ci_item" href="http://www.igvault.com/powerleveling/game/swtor.html">Powerleveling</a>
+                                            </div>
+                                                                            								</li>
+                                                                                                                                                                                                                            <li style="position:relative;" onmouseover="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='block';}" onmouseout="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='none';}">
+                                                                            <a href="http://www.igvault.com/tera-eu/gold/tera-eu_en.html" onclick="jump_url_record(this); document.url = this.href;center_request('?pid=19942&amp;nameid=19942',event);return false;">TERA EU</a>
                                         
                                                                             								</li>
                                                                                                                                                                                                                             <li style="position:relative;" onmouseover="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='block';}" onmouseout="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='none';}">
-                                                                            <a href="http://www.igvault.com/shaiya/gold/shaiya_en.html" onclick="document.url = this.href;center_request('?pid=19892&amp;nameid=19892',event);return false;">Shaiya</a>
+                                                                            <a href="http://www.igvault.com/tera-us/gold/tera-us_en.html" onclick="jump_url_record(this); document.url = this.href;center_request('?pid=19930&amp;nameid=19930',event);return false;">TERA US</a>
                                         
                                                                             								</li>
                                                                                                                                                                                                                             <li style="position:relative;" onmouseover="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='block';}" onmouseout="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='none';}">
-                                                                            <a href="http://www.igvault.com/sro/gold/silkroad-online_en.html" onclick="document.url = this.href;center_request('?pid=16505&amp;nameid=16505',event);return false;">SilkRoad Online</a>
+                                                                            <a href="http://www.igvault.com/the-secret-world/gold/the-secret-world_en.html" onclick="jump_url_record(this); document.url = this.href;center_request('?pid=19998&amp;nameid=19998',event);return false;">The Secret World</a>
                                         
                                                                             								</li>
                                                                                                                                                                                                                             <li style="position:relative;" onmouseover="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='block';}" onmouseout="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='none';}">
-                                                                            <a href="http://www.igvault.com/srr/gold/silkroad-r_en.html" onclick="document.url = this.href;center_request('?pid=19886&amp;nameid=19886',event);return false;">SilkRoad R</a>
-                                        
-                                                                            								</li>
-                                                                                                                                                                                                                            <li style="position:relative;" onmouseover="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='block';}" onmouseout="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='none';}">
-                                                                            <a href="http://www.igvault.com/sto/credits/star-trek-online_en.html" onclick="document.url = this.href;center_request('?pid=19977&amp;nameid=19977',event);return false;">Star Trek Online</a>
-                                        
-                                                                            								</li>
-                                                                                                                                                                                                                            <li style="position:relative;" onmouseover="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='block';}" onmouseout="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='none';}">
-                                                                            <a href="http://www.igvault.com/swtor/credit/swtor_en.html" onclick="document.url = this.href;center_request('?pid=19049&amp;nameid=19049',event);return false;">SWTOR</a>
-                                        
-                                                                            								</li>
-                                                                                                                                                                                                                            <li style="position:relative;" onmouseover="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='block';}" onmouseout="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='none';}">
-                                                                            <a href="http://www.igvault.com/tera-eu/gold/tera-eu_en.html" onclick="document.url = this.href;center_request('?pid=19942&amp;nameid=19942',event);return false;">TERA EU</a>
-                                        
-                                                                            								</li>
-                                                                                                                                                                                                                            <li style="position:relative;" onmouseover="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='block';}" onmouseout="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='none';}">
-                                                                            <a href="http://www.igvault.com/tera-us/gold/tera-us_en.html" onclick="document.url = this.href;center_request('?pid=19930&amp;nameid=19930',event);return false;">TERA US</a>
-                                        
-                                                                            								</li>
-                                                                                                                                                                                                                            <li style="position:relative;" onmouseover="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='block';}" onmouseout="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='none';}">
-                                                                            <a href="http://www.igvault.com/the-secret-world/gold/the-secret-world_en.html" onclick="document.url = this.href;center_request('?pid=19998&amp;nameid=19998',event);return false;">The Secret World</a>
-                                        
-                                                                            								</li>
-                                                                                                                                                                                                                            <li style="position:relative;" onmouseover="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='block';}" onmouseout="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='none';}">
-                                                                            <a href="http://www.igvault.com/tibia/gold/tibia_en.html" onclick="document.url = this.href;center_request('?pid=16678&amp;nameid=16678',event);return false;">Tibia</a>
+                                                                            <a href="http://www.igvault.com/tibia/gold/tibia_en.html" onclick="jump_url_record(this); document.url = this.href;center_request('?pid=16678&amp;nameid=16678',event);return false;">Tibia</a>
                                         
                                                                             								</li>
                                                                                                                                                                                                                                                                                             <li style="position:relative;" onmouseover="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='block';}" onmouseout="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='none';}">
-                                                                            <a href="http://www.igvault.com/vindictuseu/gold/vindictus-eu_en.html" onclick="document.url = this.href;center_request('?pid=19890&amp;nameid=19890',event);return false;">Vindictus EU</a>
+                                                                            <a href="http://www.igvault.com/vindictuseu/gold/vindictus-eu_en.html" onclick="jump_url_record(this); document.url = this.href;center_request('?pid=19890&amp;nameid=19890',event);return false;">Vindictus EU</a>
                                         
                                                                             								</li>
                                                                                                                                                                                                                             <li style="position:relative;" onmouseover="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='block';}" onmouseout="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='none';}">
-                                                                            <a href="http://www.igvault.com/wakfu/kamas/wakfu_en.html" onclick="document.url = this.href;center_request('?pid=17919&amp;nameid=17919',event);return false;">Wakfu</a>
+                                                                            <a href="http://www.igvault.com/wakfu/kamas/wakfu_en.html" onclick="jump_url_record(this); document.url = this.href;center_request('?pid=17919&amp;nameid=17919',event);return false;">Wakfu</a>
+                                                                                    <div class="currency_item_float">
+                                                <a class="ci_item" href="http://www.igvault.com/wakfu/kamas/wakfu_en.html" onclick="jump_url_record(this);document.url = this.href;center_request('?pid=17919&amp;nameid=17919',event);return false;" title="Wakfu Kamas">Kamas</a>
+                                                <a class="ci_item" href="http://www.igvault.com/wakfu/kamas/wakfu_en-item.html" onclick="jump_url_record(this);document.url = this.href;center_request('?pid=17919&amp;nameid=17919&amp;citemid=17919',event);return false;">Item</a>
+                                                                                                     <a class="ci_item" href="http://www.igvault.com/powerleveling/game/wakfu.html">Powerleveling</a>
+                                                                                             </div>
                                         
                                                                             								</li>
                                                                                                                                                                                                                             <li style="position:relative;" onmouseover="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='block';}" onmouseout="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='none';}">
-                                                                            <a href="http://www.igvault.com/wizardry/gold/wizardry-online_en.html" onclick="document.url = this.href;center_request('?pid=20261&amp;nameid=20261',event);return false;">Wizardry Online</a>
+                                                                            <a href="http://www.igvault.com/wow/gold/world-of-warcraft-europe_en.html" onclick="jump_url_record(this); document.url = this.href;center_request('?pid=10044&amp;nameid=10044',event);return false;">World Of Warcraft Europe</a>
                                         
+                                                                                    <div class="currency_item_float">
+                                                <a class="ci_item" href="http://www.igvault.com/wow/gold/world-of-warcraft-europe_en.html" onclick="jump_url_record(this);document.url = this.href;center_request('?pid=10044&amp;nameid=10044',event);return false;" title="World Of Warcraft Europe Gold">Gold</a>
+                                                <a class="ci_item" href="http://www.igvault.com/powerleveling/game/world-of-warcraft-europe.html">Powerleveling</a>
+                                            </div>
                                                                             								</li>
                                                                                                                                                                                                                             <li style="position:relative;" onmouseover="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='block';}" onmouseout="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='none';}">
-                                                                            <a href="http://www.igvault.com/wow/gold/world-of-warcraft-europe_en.html" onclick="document.url = this.href;center_request('?pid=10044&amp;nameid=10044',event);return false;">World Of Warcraft Europe</a>
+                                                                            <a href="http://www.igvault.com/wow/gold/world-of-warcraft-us_en.html" onclick="jump_url_record(this); document.url = this.href;center_request('?pid=17226&amp;nameid=17226',event);return false;">World Of Warcraft US</a>
                                         
-                                                                            								</li>
-                                                                                                                                                                                                                            <li style="position:relative;" onmouseover="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='block';}" onmouseout="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='none';}">
-                                                                            <a href="http://www.igvault.com/wow/gold/world-of-warcraft-us_en.html" onclick="document.url = this.href;center_request('?pid=17226&amp;nameid=17226',event);return false;">World Of Warcraft US</a>
-                                        
+                                                                                    <div class="currency_item_float">
+                                                <a class="ci_item" href="http://www.igvault.com/wow/gold/world-of-warcraft-us_en.html" onclick="jump_url_record(this);document.url = this.href;center_request('?pid=17226&amp;nameid=17226',event);return false;" title="World Of Warcraft US Gold">Gold</a>
+                                                <a class="ci_item" href="http://www.igvault.com/powerleveling/game/world-of-warcraft-us.html">Powerleveling</a>
+                                            </div>
                                                                             								</li>
                                                                                                                                                                                                                             <li style="position:relative;" onmouseover="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='block';}" onmouseout="if (this.getElementsByTagName('div')[0]) {this.getElementsByTagName('div')[0].style.display='none';}">
                                                                             <!-- /*************************************************Temp LOL**************************************************************/ -->
@@ -1036,13 +1202,16 @@ You may contact the Company by e-mail at customerservice@igvault.com. </p></td>
 		  		  		  		  <option value="USD" selected="">USD</option>
 		  		  		  </select>
 </div>
-	<hr>
-    <div style="text-align:center;">
-            </div>
-<div style="text-align:center;padding:0 0 10px;">
-	Note: Possible account termination when using illegal leveling or illegally obtained gold.
-</div>
-</div>
+    <!--
+            <hr />
+        <div style="text-align:center;">
+                    </div>
+        -->
+    <hr>
+            <div style="text-align:center;padding:0 0 10px;">
+            Note: Possible account termination when using illegal leveling or illegally obtained gold.
+        </div>
+    </div>
 
 </span>
 
@@ -1077,6 +1246,7 @@ You may contact the Company by e-mail at customerservice@igvault.com. </p></td>
 <option value="0">Select Game ...</option>
 <option value="19006"> 4Story </option>
 <option value="16797"> Age of Conan </option>
+<option value="20494"> Age of WuLin </option>
 <option value="20281"> Age of WuShu </option>
 <option value="18132"> Aion </option>
 <option value="16627"> Cabal Online Europe </option>
@@ -1086,16 +1256,16 @@ You may contact the Company by e-mail at customerservice@igvault.com. </p></td>
 <option value="19984"> Diablo 3 </option>
 <option value="10007"> Dofus </option>
 <option value="18995"> Dragon Nest </option>
+<option value="20483"> Dragon's Prophet </option>
 <option value="20143"> Eden Eternal </option>
 <option value="20149"> ELSWORD </option>
 <option value="16547"> Eve Online </option>
 <option value="20471"> FIFA 13 </option>
+<option value="18597"> Final Fantasy XIV </option>
 <option value="16763"> FlyFF </option>
 <option value="20319"> Grand Fantasia </option>
 <option value="10042"> Guild Wars </option>
 <option value="20015"> Guild Wars 2 </option>
-<option value="18063"> Knight Online </option>
-<option value="18643"> Last Chaos </option>
 <option value="16526"> Lineage 2 </option>
 <option value="10026"> LOTRO Europe </option>
 <option value="16470"> Maple Story Global </option>
@@ -1103,7 +1273,6 @@ You may contact the Company by e-mail at customerservice@igvault.com. </p></td>
 <option value="16782"> Metin 2 </option>
 <option value="18674"> Nostale </option>
 <option value="20286"> Path of Exile </option>
-<option value="20474"> Perfect World International </option>
 <option value="20424"> RaiderZ </option>
 <option value="16874"> Rappelz Online </option>
 <option value="18691"> RIFT:Planes of Telara </option>
@@ -1122,7 +1291,6 @@ You may contact the Company by e-mail at customerservice@igvault.com. </p></td>
 <option value="16678"> Tibia </option>
 <option value="19890"> Vindictus EU </option>
 <option value="17919"> Wakfu </option>
-<option value="20261"> Wizardry Online </option>
 <option value="10044"> World Of Warcraft Europe </option>
 <option value="17226"> World Of Warcraft US </option>
 <option value="20431"> League of Legends </option>
@@ -1170,6 +1338,7 @@ Spend:&nbsp;<input class="input" id="cusprice" type="text" style="width:56px;" o
 <option value="0">Select Game ...</option>
 <option value="19006">4Story</option>
 <option value="16797">Age of Conan</option>
+<option value="20494">Age of WuLin</option>
 <option value="20281">Age of WuShu</option>
 <option value="18132">Aion</option>
 <option value="16627">Cabal Online Europe</option>
@@ -1179,16 +1348,16 @@ Spend:&nbsp;<input class="input" id="cusprice" type="text" style="width:56px;" o
 <option value="19984">Diablo 3</option>
 <option value="10007">Dofus</option>
 <option value="18995">Dragon Nest</option>
+<option value="20483">Dragon's Prophet</option>
 <option value="20143">Eden Eternal</option>
 <option value="20149">ELSWORD</option>
 <option value="16547">Eve Online</option>
 <option value="20471">FIFA 13</option>
+<option value="18597">Final Fantasy XIV</option>
 <option value="16763">FlyFF</option>
 <option value="20319">Grand Fantasia</option>
 <option value="10042">Guild Wars</option>
 <option value="20015">Guild Wars 2</option>
-<option value="18063">Knight Online</option>
-<option value="18643">Last Chaos</option>
 <option value="16526">Lineage 2</option>
 <option value="10026">LOTRO Europe</option>
 <option value="16470">Maple Story Global</option>
@@ -1196,7 +1365,6 @@ Spend:&nbsp;<input class="input" id="cusprice" type="text" style="width:56px;" o
 <option value="16782">Metin 2</option>
 <option value="18674">Nostale</option>
 <option value="20286">Path of Exile</option>
-<option value="20474">Perfect World International</option>
 <option value="20424">RaiderZ</option>
 <option value="16874">Rappelz Online</option>
 <option value="18691">RIFT:Planes of Telara</option>
@@ -1215,7 +1383,6 @@ Spend:&nbsp;<input class="input" id="cusprice" type="text" style="width:56px;" o
 <option value="16678">Tibia</option>
 <option value="19890">Vindictus EU</option>
 <option value="17919">Wakfu</option>
-<option value="20261">Wizardry Online</option>
 <option value="10044">World Of Warcraft Europe</option>
 <option value="17226">World Of Warcraft US</option>
 <option value="20431">League of Legends</option>
@@ -1426,13 +1593,60 @@ $(document).ready(function() {
 </div>
 -->
 <!---------------------------------------------------------END--------------------------------------------------------->  
-
-
+<div id="fb-root"></div>
+<script src="http://connect.facebook.net/en_US/all.js" type="text/javascript"></script>
+<script type="text/javascript">
+FB.init({
+	appId      : 182200381946765, 
+	channelUrl : httpdir+'channel.php', 
+	status     : true, 
+	cookie     : false, 
+	xfbml      : true  
+});
+$(function(){
+	$("#facebook_login").click(function(){
+		FB.login(function(response) {
+			if (response.authResponse) {
+			//alert(response.authResponse);
+     			FB.api('/me', function(response) {
+       				aToStr=JSON.stringify(response);
+					//alert(aToStr);
+					if(aToStr.indexOf("location") != -1){
+						var fb_location = response.location.name;
+					}else{
+						var fb_location = "";
+					}
+					$.post(httpdir+'index.php', {
+						fb_id: response.id,
+						email: response.email,
+						gender: response.gender,
+						first_name: response.first_name,
+						last_name: response.last_name,
+						birthday: response.birthday,
+						address: fb_location,
+						locale: response.locale,
+						updated_time: response.updated_time
+					}, function() {
+						fb_info_success();
+       				});
+     			});
+			}
+		}, {scope: 'email,user_birthday'});
+	});
+});	
+function close_fb_alerts(){
+	$("#fb_info_success").css("display","none");
+	window.history.go(0);
+}
+function fb_info_success(){
+	$("#fb_content_alert").html("Authorized Success");
+	$("#fb_info_success").css("display","block");
+}
+</script>
 
 </div>
 <span id="cleft">
 <div class="content">
-
 <table border="0" cellspacing="0" cellpadding="0" align="center" onkeyup=" if (document.getElementById('lgn_eml').value &amp;&amp; document.getElementById('lgn_pwd').value &amp;&amp; event.keyCode==13) { form_login.submit(); } ">
 <form id="form_login" name="form_login" method="post" action="http://www.igvault.com/index.html"></form>
 <input type="hidden" name="lgn_sbm" value="1">
@@ -1463,8 +1677,43 @@ $(document).ready(function() {
   <tr>
     <td colspan="2">&nbsp;<a href="http://www.igvault.com/faq/question/Why-you-need-to-register-on-our-web-site_337.html">Why register？</a></td>
   </tr>
+  <tr>
+    <td colspan="2">&nbsp;<a id="facebook_login" href="javascript:void(0)">Login with FaceBook</a></td>
+  </tr>
+  <!-- <tr>
+    <td colspan="2">&nbsp;<a href="#" onclick="document.getElementById('christmas_div').style.display = 'block'">Login with GAME2CARD</a></td>
+  </tr> -->
 
 </tbody></table>
+
+<div id="fb_info_success" class="alert_div">
+	<div id="cat2" class="level_check" style="width:30%;border:rgb(205,205,205) solid 1px">
+	<div class="header">
+	<span><h1>Message</h1></span>
+	</div>
+	<span id="tleft"><span id="tright"></span></span> 
+	<div class="content">	
+		<table id="cusneeds" width="50%" border="0" align="center" cellpadding="0" cellspacing="0">	
+			<tbody><tr><td align="center" style="height:10px"></td>
+			</tr><tr>
+				<td align="center" id="fb_content_alert" class="message" style="height:20px"></td>
+			</tr>	
+			<tr>
+				<td align="center" style="height:10px"></td>
+			</tr>	
+			<tr>
+				<td align="right"><table border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td nowrap=""><a href="#" class="button1" onclick="close_fb_alerts();return false;"><span style="color:#000000;">Confirm</span></a></td>
+  </tr>
+</tbody></table>
+</td>
+			</tr>
+		</tbody></table>	
+	</div>
+	<span id="bleft"><span id="bright"></span></span>
+	</div>
+</div>
 
 </div>
 </span>
@@ -1496,6 +1745,7 @@ $(document).ready(function() {
             	<option value="0">Select Game ...</option>
                                                                                 <option value="19006">4Story</option>
                                                                                                                                 <option value="16797">Age of Conan</option>
+                                                                                                                                <option value="20494">Age of WuLin</option>
                                                                                                                                 <option value="20281">Age of WuShu</option>
                                                                                                                                 <option value="18132">Aion</option>
                                                                                                                                 <option value="16627">Cabal Online Europe</option>
@@ -1505,16 +1755,16 @@ $(document).ready(function() {
                                                                                                                                 <option value="19984">Diablo 3</option>
                                                                                                                                 <option value="10007">Dofus</option>
                                                                                                                                 <option value="18995">Dragon Nest</option>
+                                                                                                                                <option value="20483">Dragon's Prophet</option>
                                                                                                                                 <option value="20143">Eden Eternal</option>
                                                                                                                                 <option value="20149">ELSWORD</option>
                                                                                                                                 <option value="16547">Eve Online</option>
                                                                                                                                 <option value="20471">FIFA 13</option>
+                                                                                                                                <option value="18597">Final Fantasy XIV</option>
                                                                                                                                 <option value="16763">FlyFF</option>
                                                                                                                                 <option value="20319">Grand Fantasia</option>
                                                                                                                                 <option value="10042">Guild Wars</option>
                                                                                                                                 <option value="20015">Guild Wars 2</option>
-                                                                                                                                <option value="18063">Knight Online</option>
-                                                                                                                                <option value="18643">Last Chaos</option>
                                                                                                                                 <option value="16526">Lineage 2</option>
                                                                                                                                 <option value="10026">LOTRO Europe</option>
                                                                                                                                 <option value="16470">Maple Story Global</option>
@@ -1522,7 +1772,6 @@ $(document).ready(function() {
                                                                                                                                 <option value="16782">Metin 2</option>
                                                                                                                                 <option value="18674">Nostale</option>
                                                                                                                                 <option value="20286">Path of Exile</option>
-                                                                                                                                <option value="20474">Perfect World International</option>
                                                                                                                                 <option value="20424">RaiderZ</option>
                                                                                                                                 <option value="16874">Rappelz Online</option>
                                                                                                                                 <option value="18691">RIFT:Planes of Telara</option>
@@ -1541,7 +1790,6 @@ $(document).ready(function() {
                                                                                                                                 <option value="16678">Tibia</option>
                                                                                                                                                                                                 <option value="19890">Vindictus EU</option>
                                                                                                                                 <option value="17919">Wakfu</option>
-                                                                                                                                <option value="20261">Wizardry Online</option>
                                                                                                                                 <option value="10044">World Of Warcraft Europe</option>
                                                                                                                                 <option value="17226">World Of Warcraft US</option>
                                                                                                                                 <option value="20431">League of Legends</option>
@@ -1601,7 +1849,60 @@ $(document).ready(function() {
 </span>
 
 <span id="bleft"><span id="bright"></span></span>                   </div>
+                   <div id="cat1">
+                   <div id="christmas_icon1"></div>
+<div class="header">
+<span><h2 style="color:#553200">IGVault Newsletter</h2></span>
+</div>
+<span id="cleft">
+
+<div class="content">
+<form action="http://www.igvault.com/addnewsletter.html" method="post" id="newsletter_form">
+<table cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+	<td>Enter your email address to receive special offers and promotions from IGVault.</td>
+</tr>
+<tr>    
+    <td height="5p"></td>
+</tr>
+<tr>    
+    <td><input class="input" type="text" id="newsletter_address" name="newsletter_address"><br><span id="newsletter_msg" style="color:red"></span></td>
+</tr>
+<tr>    
+    <td height="5p"></td>
+</tr>
+<tr>
+    <td><table border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td nowrap=""><a href="#" class="button1" onclick="checkemail()"><span style="color:#000000;">Submit</span></a></td>
+  </tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+</form>
+</div>
+</span>
+
+<span id="bleft"><span id="bright"></span></span>
+<script>
+function checkemail(){
+	var email = $("#newsletter_address").val();
+	var flag = false;
+	if(email == ''){
+		$("#newsletter_msg").html("E-mail can not be empty");	
+	}else if(email.search(/^\w+((-\w+)|(\.\w+))*\@[A-Za-z0-9]+((\.|-)[A-Za-z0-9]+)*\.[A-Za-z0-9]+$/) == -1){
+		$("#newsletter_msg").html("E-Mail's format is invalid");
+	} else{
+		flag = true;
+		$("#newsletter_form").submit();
+	}
+	return flag;
+}
+</script>                   </div>
                 <!-- /*****************************************************************feedback*****************************************************************************/-->
+               
+               
                 <!--
                                 -->
                 <!-- /*******************************************************************end********************************************************************************/-->
@@ -1633,6 +1934,7 @@ $(document).ready(function() {
 	<a href="http://www.igvault.com/faq/question/Pay-by-Western-Union_267.html" rel="nofollow"><img src="http://www.igvault.com/templates/classic/img/paymode/westernunion.gif"></a>	
 	<a href="http://www.igvault.com/faq/question/Pay-by-MoneyGram_266.html" rel="nofollow"><img src="http://www.igvault.com/templates/classic/img/paymode/moneygram.gif"></a>
 	<a href="http://www.igvault.com/faq/question/Pay-by-cashU_332.html" rel="nofollow"><img src="http://www.igvault.com/templates/classic/img/paymode/cashu.gif"></a>
+    <a href="http://www.igvault.com/faq/question/Pay-by-Ukash_395.html" rel="nofollow"><img src="http://www.igvault.com/templates/classic/img/paymode/ukash_gc.gif"></a>
 	
 	<br>
 	<img src="http://www.igvault.com/templates/classic/img/paymode/dankort_dk.gif">	
@@ -1648,7 +1950,6 @@ $(document).ready(function() {
 	<img src="http://www.igvault.com/templates/classic/img/paymode/euro6000_es.gif">
 	<img src="http://www.igvault.com/templates/classic/img/paymode/mtransfer_pl.gif">
 	<img src="http://www.igvault.com/templates/classic/img/paymode/onecard.gif">
-    <img src="http://www.igvault.com/templates/classic/img/paymode/ukash_gc.gif">
     
 </div>
 
@@ -1657,7 +1958,8 @@ $(document).ready(function() {
 <div id="footer_links" align="center">
 <a href="http://www.igvault.com/4story/gold/4story_en.html" title="4Story Gold">4STORY&nbsp;GOLD</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="http://www.igvault.com/aoc/gold/age-of-conan_en.html" title="Age of Conan Gold">AOC&nbsp;GOLD</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="http://www.igvault.com/aow/money/age-of-wushu_en.html" title="Age of WuShu Money">AOW&nbsp;MONEY</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="http://www.igvault.com/age-of-wulin/gold/age-of-wulin_en.html" title="Age of WuLin Gold">AGE OF WULIN&nbsp;GOLD</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="http://www.igvault.com/age-of-wushu/money/age-of-wushu_en.html" title="Age of WuShu Money">AGE OF WUSHU&nbsp;MONEY</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="http://www.igvault.com/aion/kinah/aion_en.html" title="Aion Kinah">AION&nbsp;KINAH</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="http://www.igvault.com/cabal/alz/cabal-online-europe_en.html" title="Cabal Online Europe Alz">CABAL&nbsp;ALZ</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="http://www.igvault.com/cabal/alz/cabal-online-us_en.html" title="Cabal Online US Alz">CABAL&nbsp;ALZ</a>&nbsp;&nbsp;|&nbsp;&nbsp;
@@ -1666,16 +1968,16 @@ $(document).ready(function() {
 <a href="http://www.igvault.com/diablo-3/gold/diablo-3_en.html" title="Diablo 3 Gold">DIABLO 3&nbsp;GOLD</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="http://www.igvault.com/dofus/kamas/dofus_en.html" title="Dofus Kamas">DOFUS&nbsp;KAMAS</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="http://www.igvault.com/dn/gold/dragon-nest_en.html" title="Dragon Nest Gold">DN&nbsp;GOLD</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="http://www.igvault.com/dragon's-prophet/gold/dragon's-prophet_en.html" title="Dragon's Prophet Gold">DRAGON'S PROPHET&nbsp;GOLD</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="http://www.igvault.com/eden-eternal/gold/eden-eternal_en.html" title="Eden Eternal Gold">EDEN ETERNAL&nbsp;GOLD</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="http://www.igvault.com/elsword/ed/elsword_en.html" title="ELSWORD ED">ELSWORD&nbsp;ED</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="http://www.igvault.com/eve/isk/eve-online_en.html" title="Eve Online ISK">EVE&nbsp;ISK</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="http://www.igvault.com/fifa-13/coins/fifa-13_en.html" title="FIFA 13 Coins">FIFA 13&nbsp;COINS</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="http://www.igvault.com/ffxiv/gil/final-fantasy-xiv_en.html" title="Final Fantasy XIV Gil">FFXIV&nbsp;GIL</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="http://www.igvault.com/flyff/penya/flyff_en.html" title="FlyFF Penya">FLYFF&nbsp;PENYA</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="http://www.igvault.com/gf/gold/grand-fantasia_en.html" title="Grand Fantasia Gold">GF&nbsp;GOLD</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="http://www.igvault.com/gw/gold/guild-wars_en.html" title="Guild Wars Gold">GW&nbsp;GOLD</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="http://www.igvault.com/gw2/gold/guild-wars-2_en.html" title="Guild Wars 2 Gold">GW2&nbsp;GOLD</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="http://www.igvault.com/knight/noah/knight-online_en.html" title="Knight Online Noah">KNIGHT&nbsp;NOAH</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="http://www.igvault.com/last-chaos/gold/last-chaos_en.html" title="Last Chaos Gold">LAST CHAOS&nbsp;GOLD</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="http://www.igvault.com/l2/adena/lineage-2_en.html" title="Lineage 2 Adena">L2&nbsp;ADENA</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="http://www.igvault.com/lotro/gold/lotro-europe_en.html" title="LOTRO Europe Gold">LOTRO&nbsp;GOLD</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="http://www.igvault.com/maple/mesos/maple-story-global_en.html" title="Maple Story Global Mesos">MAPLE&nbsp;MESOS</a>&nbsp;&nbsp;|&nbsp;&nbsp;
@@ -1683,7 +1985,6 @@ $(document).ready(function() {
 <a href="http://www.igvault.com/metin2/yang/metin-2_en.html" title="Metin 2 Yang">METIN2&nbsp;YANG</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="http://www.igvault.com/nostale/gold/nostale_en.html" title="Nostale Gold">NOSTALE&nbsp;GOLD</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="http://www.igvault.com/poe/item/path-of-exile_en.html" title="Path of Exile Item">POE&nbsp;ITEM</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="http://www.igvault.com/pwi/coins/perfect-world-international_en.html" title="Perfect World International Coins">PWI&nbsp;COINS</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="http://www.igvault.com/raiderz/gold/raiderz_en.html" title="RaiderZ Gold">RAIDERZ&nbsp;GOLD</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="http://www.igvault.com/rappelz/rupees/rappelz-online_en.html" title="Rappelz Online Rupees">RAPPELZ&nbsp;RUPEES</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="http://www.igvault.com/rift/platinum/rift:planes-of-telara_en.html" title="RIFT:Planes of Telara Platinum">RIFT&nbsp;PLATINUM</a>&nbsp;&nbsp;|&nbsp;&nbsp;
@@ -1703,10 +2004,11 @@ $(document).ready(function() {
 <a href="http://www.igvault.com/wow-cd-key/gamecard/time-cards-cd-key_en.html" title="Time Cards CD Key gamecard">WOW CD KEY&nbsp;GAMECARD</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="http://www.igvault.com/vindictuseu/gold/vindictus-eu_en.html" title="Vindictus EU Gold">VINDICTUSEU&nbsp;GOLD</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="http://www.igvault.com/wakfu/kamas/wakfu_en.html" title="Wakfu Kamas">WAKFU&nbsp;KAMAS</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="http://www.igvault.com/wizardry/gold/wizardry-online_en.html" title="Wizardry Online Gold">WIZARDRY&nbsp;GOLD</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="http://www.igvault.com/wow/gold/world-of-warcraft-europe_en.html" title="World Of Warcraft Europe Gold">WOW&nbsp;GOLD</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="http://www.igvault.com/wow/gold/world-of-warcraft-us_en.html" title="World Of Warcraft US Gold">WOW&nbsp;GOLD</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="http://www.igvault.com/league-of-legends//_en.html" title="League of Legends ">LEAGUE OF LEGENDS&nbsp;</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<!-- /*************************************************Temp LOL**************************************************************/ -->
+<a href="http://www.igvault.com/powerleveling/game/league-of-legends.html">LEAGUE OF LEGENDS&nbsp;</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<!-- /****************************************************End****************************************************************/ -->
 <a href="http://www.esphere.fr" target="_blank">COQUE&nbsp;&nbsp;IPHONE</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.epwelt.de" rel="nofollow" target="_blank">IPHONE&nbsp;&nbsp;HÜLLE</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.igvault.com/sitemap.html" target="_blank">SITE&nbsp;&nbsp;MAP</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://affiliate.igvault.com" target="_blank">AFFILIATE</a></div>
 
 <div id="footer_text">
@@ -1807,6 +2109,142 @@ function add_christmas_coupon(obj){
 </div>
 -->
 <!--绝对定位结束-->
+<!--绝对定位-->
+<script>
+    function livechat_client(){
+        /*send_request(httpdir+"interface/ajax_pre_sales.php?livechat_start=1");
+        return true;*/
+        $.ajax({
+            async:false,
+            type:"POST",
+            url:httpdir+"interface/ajax_pre_sales.php",
+            data:"livechat_start=1",
+            success:function(msg){
+                var val_data = msg.split('#,#');
+                if(val_data[0] == "LIVECHAT_START"){
+                    if(val_data[1] == 1){
+                        document.getElementById('jump_url').value = '1';
+                    } else {
+                        document.getElementById('jump_url').value = '0';
+                    }
+                }
+            }
+        })
+    }
+
+    function livechat_jump(operator_id){
+        if(operator_id == ""){
+            operator_id = document.getElementById('operator_id').value;
+        }
+        var jump_url = document.getElementById('jump_url').value;
+        if(jump_url == 1){
+            var c = new Base64();
+            var email = c.encode(document.getElementById('pre_sales_email').value);
+            if(document.getElementById('nickname').value!=""){
+                jQuery('.show_qu_md1').show();
+                jQuery('.show_qu_md2').hide();
+
+                var nickname = document.getElementById('nickname').value;
+                var email = document.getElementById('pre_sales_email').value;
+                var now_url = document.getElementById('now_url').value;
+                var rand = document.getElementById('rand').value;
+                var group_id = document.getElementById('group_id').value;
+                var page_id = document.getElementById('page_id').value;
+
+                //var url = 'http://192.168.126.12/livechat/?action=client&refer=igvault_ps';
+                var url = 'http://livesupport.igvault.com/?action=client&refer=igvault_ps';
+                var keys = ["page_id", "nickname", "group_id", "operator_id", "now_url", "rand", "email"];
+                var values = [page_id, nickname, group_id, operator_id, now_url, rand, email];
+                openWindowWithPost(url, '_blank', keys, values);
+                return false;
+            } else {
+                document.getElementById('nickname').style.border = '1px solid red';
+            }
+        } else {
+            window.open ('http://livesupport.igvault.com/?action=page&page_id=1', 'newwindow',' height=727, width=797, top=20, left=150, toolbar=no, menubar=no, scrollbars=no, resizable=no,location=no, status=no');
+        }
+    }
+
+    function livechat_cancel(){
+        send_request(httpdir+"interface/ajax_pre_sales.php?livechat_cancel=1");
+        jQuery('.show_qu_md1').show();
+        jQuery('.show_qu_md2').hide();
+    }
+</script>
+<form target="_blank" id="start_chat_from" action="jump.php" method="post">
+    <div id="discountright" style="position:fixed;bottom:2px;right:2px;z-index:223;">
+        <!------------------第一步-------------------------->
+                    <div class="show_qu_md1" id="show_qu_md1" style="background:url(http://www.igvault.com/templates/classic//img/show_qu_md1_en.png);">
+                    <a class="show_qu" onclick="jQuery('.show_qu_md1').hide();" href="javascript:void(0)"></a>
+            <div class="show_qu_onck" onclick="window.open ('http://livesupport.igvault.com/?action=page&amp;page_id=1', 'newwindow',' height=727, width=797, top=20, left=150, toolbar=no, menubar=no, scrollbars=no, resizable=no,location=no, status=no'); return false"></div>
+            <!-- <div class="show_qu_onck" onclick="window.open ('http://192.168.126.12/livechat/?action=page&page_id=1', 'newwindow',' height=727, width=797, top=20, left=150, toolbar=no, menubar=no, scrollbars=no, resizable=no,location=no, status=no'); return false" ></div> -->
+        </div>
+        <!------------------第二步-------------------------->
+                    <div class="show_qu_md2" id="show_qu_md2" style="display:none;">
+                    <!--
+            <h3>Chat invitation<a class="show_qu" onclick="livechat_cancel()" href="javascript:void(0)"></a></h3>
+            <dl>
+                <dt><span>Hello! What can I do for you?</span></dt>
+                <dt><strong>Your Nickname :</strong><br />
+                    <input type="text" id="nickname" name="nickname" />
+                    <input type="hidden" name="operator_id" id="operator_id" value=""/>
+                    <input type="hidden" name="now_url" id="now_url" value="aHR0cDovL3d3dy5pZ3ZhdWx0LmNvbS9wb2xpY3kuaHRtbA=="/>
+                    <input type="hidden" name="rand" id="rand" value="EYfBZbkEDS"/>
+                    <input type="hidden" name="group_id" id="group_id" value="23"/>
+                    <input type="hidden" name="page_id" id="page_id" value="1"/>
+                    <input type="hidden" name="email" id="pre_sales_email" value=""/>
+                </dt>
+                <dd><a class="button1" id="livechat_client" onclick="livechat_client('')"><span>Start Chat</span></a><a onclick="livechat_cancel()" class="button1"><span>Cancel</span></a></dd>
+            </dl>
+            -->
+            <div style="margin-top:0px;width:20px;height:20px;left: 255px; POSITION: absolute; TOP: 2px" id="close">
+                    <a onclick="livechat_cancel()" href="javascript:void(0)"><img src="http://www.igvault.com/templates/classic//img/presales/close.png"></a>
+                </div><table width="200" border="0" cellpadding="0" cellspacing="0">
+                <input type="hidden" id="jump_url" name="jump_url" value="1">
+                <input type="hidden" id="nickname" name="nickname" value="26359">
+                <input type="hidden" name="operator_id" id="operator_id" value="">
+                <input type="hidden" name="now_url" id="now_url" value="aHR0cDovL3d3dy5pZ3ZhdWx0LmNvbS9wb2xpY3kuaHRtbA==">
+                <input type="hidden" name="rand" id="rand" value="EYfBZbkEDS">
+                <input type="hidden" name="group_id" id="group_id" value="23">
+                <input type="hidden" name="page_id" id="page_id" value="1">
+                <input type="hidden" name="email" id="pre_sales_email" value="">
+                <input type="hidden" name="count_money" id="count_money" value="">
+                <input type="hidden" name="unpaid_money" id="unpaid_money" value="">
+                <input type="hidden" name="unpaid_time" id="unpaid_time" value="">
+                
+                <tbody><tr>
+                    <td colspan="2"><img src="http://www.igvault.com/templates/classic//img/presales/out_en.gif" width="271"></td>
+                </tr>
+                <tr>
+                    <td width="69"><img src="http://www.igvault.com/templates/classic//img/presales/1.gif" width="69" height="159"></td>
+                    <td width="202" valign="top"><table width="200" border="0" align="left" cellpadding="0" cellspacing="0">
+                            <tbody><tr>
+                                <td width="10"><img src="http://www.igvault.com/templates/classic//img/presales/2.gif" width="33" height="139"></td>
+                                <td width="190"><img src="http://www.igvault.com/templates/classic//img/presales/3_en.gif" width="169" height="139"></td>
+                            </tr>
+                            <tr>
+                                <td colspan="2"><table width="100%" border="0" align="left" cellpadding="0" cellspacing="0">
+                                        <tbody><tr>
+                                            <td>
+                                                <a href="javascript:void(0)" id="livechat_client" onclick="livechat_client(); livechat_jump('')"><span>
+                                                    <img src="http://www.igvault.com/templates/classic//img/presales/4_en.gif" width="112" height="20">
+                                                </span></a>
+                                            </td>
+                                            <td><a onclick="livechat_cancel()" href="javascript:void(0)"><img src="http://www.igvault.com/templates/classic//img/presales/5_en.gif" width="72" height="20"></a></td>
+                                            <td><img src="http://www.igvault.com/templates/classic//img/presales/6.gif" width="18" height="20"></td>
+                                        </tr>
+                                    </tbody></table></td>
+                            </tr>
+                        </tbody></table></td>
+                </tr>
+                <tr>
+                    <td colspan="2"><img style="vertical-align: top;" src="http://www.igvault.com/templates/classic//img/presales/7.png" width="271" height="13"></td>
+                </tr>
+            </tbody></table>
+        </div>
+    </div>
+</form>
+<!--绝对定位结束-->
 </div>
 
 
@@ -1836,6 +2274,7 @@ function div_move2(evt) {
 	 </td>
       </tr>
 </tbody></table>
+
 <div style="display:none;">
 <script type="text/javascript"><!--
 document.write(unescape("%3Cscript id='pap_x2s6df8d' src='" + (("https:" == document.location.protocol) ? "https://" : "http://") + 
@@ -1848,21 +2287,6 @@ PostAffTracker.track();
 } catch (err) { }
 //-->
 </script>
-<!-- Piwik -->
-<script type="text/javascript">
-    var _paq = _paq || [];
-    _paq.push(["trackPageView"]);
-    _paq.push(["enableLinkTracking"]);
-
-    (function() {
-        var u=(("https:" == document.location.protocol) ? "https" : "http") + "://www.sampeco.com/";
-        _paq.push(["setTrackerUrl", u+"piwik.php"]);
-        _paq.push(["setSiteId", "5"]);
-        var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
-        g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s);
-    })();
-</script>
-<!-- End Piwik Code -->
     <!-- Piwik -->
     <script type="text/javascript">
         var _paq = _paq || [];
@@ -1879,6 +2303,23 @@ PostAffTracker.track();
         })();
     </script>
     <!-- End Piwik Code -->
+<!-- Google Code for Remarketing tag -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+    <script type="text/javascript">
+        /* <![CDATA[ */
+        var google_conversion_id = 1011336840;
+        var google_conversion_label = "bBAOCLj9rAQQiI2f4gM";
+        var google_custom_params = window.google_tag_params;
+        var google_remarketing_only = true;
+        /* ]]> */
+    </script>
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+    </script>
+    <noscript>
+        <div style="display:inline;">
+            <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1011336840/?value=0&amp;label=bBAOCLj9rAQQiI2f4gM&amp;guid=ON&amp;script=0"/>
+        </div>
+    </noscript>
 
 <!-- Google Code for Remarketing tag -->
 <!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
