@@ -1,48 +1,27 @@
-> *The following text is extracted and transformed from the airlinesnorthwest.com privacy policy that was archived on 2010-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100417092650id_/http%3A//airlinesnorthwest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airlinesnorthwest.com privacy policy that was archived on 2013-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130907030132id_/http%3A//www.airlinesnorthwest.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Airlines: Northwest
+# Airlines Northwest | Privacy Policy
 
-As You Explore This Site, You'll Discover...
+Airlines Northwest Privacy Policy
 
-  * 6 Sneaky Ways To Get An Upgrade On Your Air Ticket
+Airlines Northwest respects your privacy and are committed to safeguarding your privacy while online at our site Airlines Northwest. The following discloses the information gathering and dissemination practices for this Web site. 
 
-  * How To Breeze Through Airport Security Checkpoints
+**Log Files**
 
-  * Hot: Finding Cheap Airfare Tickets For Your Vacation 
+Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. 
 
-  * Insider Secret: How To Travel First Class For Free
+**Cookies**
 
+A cookie is a piece of data stored on the user's computer tied to information about the user. Our site don't use cookies. However, Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising. If you wish to disable cookies, you may do so through your individual browser options. 
 
+**Links**
 
+This Web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
 
-**_Remember..._** If You Are Looking For Quality Information Related To Air Travel, Add This Site To Your Favorites Right Now, As We Update It Daily With The Latest News And Information Related To Air Travel And Similar Topics. Enjoy The Site.
+**Advertisers**
 
-## [Privacy Policy](http://airlinesnorthwest.com/privacy-policy "Privacy Policy")
+We use outside ad companies to display ads on our site. These ads may contain cookies and/or web beacons to collect data in the ad serving process and are collected by our ad companies, and we do not have access to this information. We work with the ad companies: Google Adsense, Ebay, Amazon, etc. Please check their websites for their respective privacy policies. 
 
-Published October 20th, 2009 at 10:40 am
+**Contact Information**
 
-**Airlines: Northwest** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://www.synclastic.com/privacy/privacy-policies/) to learn more about privacy policies in general.
-
-## Routine Information Collection
-
-All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes.
-
-## Cookies and Web Beacons
-
-Where necessary, Airlines: Northwest uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
-
-Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. 
-
-## Controlling Your Privacy
-
-Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms. This list of [web browser privacy management](http://www.synclastic.com/privacy/browser-configuration/) links may also be useful.
-
-## Special Note About Google Advertising
-
-Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to [opt out of Google's cookie usage](http://www.google.com/privacy_ads.html). As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google's own privacy policies. 
-
-## Contact Information
-
-Concerns or questions about this privacy policy can be directed to webmaster@airlinesnorthwest.com for further clarification.
-
-This privacy policy was generated by the [Privacy Policy for WordPress](http://www.synclastic.com/plugins/privacy-policy/) plugin.
+If users have any questions or suggestions regarding our privacy policy, please contact us at: [admin@airlinesnorthwest.com](mailto:admin@airlinesnorthwest.com)
