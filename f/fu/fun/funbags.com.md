@@ -1,9 +1,7 @@
-> *The following text is extracted and transformed from the funbags.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509164834id_/http%3A//www.funbags.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funbags.com privacy policy that was archived on 2013-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130907040539id_/http%3A//www.funbags.com/privacy.html) for the most accurate reproduction.*
 
 # FunBags.com
 
-FunBags Privacy Policy  
-  
 FunBags Privacy Policy  
 We are committed to protecting your privacy. We use the information we collect about you and your payment method  
 to process transactions only. Private account and address information is necessary to verify that you are the person  
