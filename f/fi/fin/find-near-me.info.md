@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the find-near-me.info privacy policy that was archived on 2013-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130401131142id_/http%3A//find-near-me.info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the find-near-me.info privacy policy that was archived on 2013-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130907200925id_/http%3A//find-near-me.info/privacy) for the most accurate reproduction.*
 
 # Find Places Near Me Privacy Policy
 
@@ -15,7 +15,7 @@ Last updated November 1, 2012
 
 It is Find Places Near Me's policy to respect your privacy regarding any information we may collect while operating our website.
 
-If you have questions about accessing or correcting your personal data please send an email to [ozx2ijz@kmqf-oe9p-ja.dh8g](https://web.archive.org/web/20130401131142id_/http%3A//find-near-me.info/ozx2ijz@kmqf-oe9p-ja.dh8g).
+If you have questions about accessing or correcting your personal data please send an email to [1cafvwc@xz3s-1rm2-wn.qult](https://web.archive.org/web/20130907200925id_/http%3A//find-near-me.info/1cafvwc@xz3s-1rm2-wn.qult).
 
 ## Website Visitors
 
