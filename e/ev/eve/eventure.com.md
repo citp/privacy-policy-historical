@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eventure.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504032319id_/http%3A//eventure.com/commitment-to-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventure.com privacy policy that was archived on 2013-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130908003038id_/http%3A//www.eventure.com/commitment-to-privacy) for the most accurate reproduction.*
 
 # Commitment to Privacy
 
