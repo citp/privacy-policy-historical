@@ -1,98 +1,43 @@
-> *The following text is extracted and transformed from the blippy.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504232435id_/http%3A//blippy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blippy.com privacy policy that was archived on 2013-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130907161142id_/http%3A//www.blippy.com/blippic/privacy.html) for the most accurate reproduction.*
 
-# Blippy / Privacy Policy
+# blip.me - privacy
 
-Blippy provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use, and disclosure of the information that we collect and receive from users of our services at www.blippy.com (the "Services"). This Privacy Policy applies only to information that you provide to use through the Services. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms of Service (the "Terms").
+Last Updated: **April 19, 2011**
 
-As used in this policy, the terms using and processing information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization or among our affiliates within the United States or internationally.
+Camino Real, Inc. ( ** _"Camino Real"_** ) is committed to maintaining the confidentiality, integrity and security of personal information we receive through our websites at [http://blip.me](http://blip.me/) and [http://caminoreal-inc.com](http://caminoreal-inc.com/) (collectively, **_“Site”_** ), and through our voice note messaging service, which we make through applications for mobile devices (collectively, unless other wise indicated, **_“Application”_** ). We use care in protecting our users' privacy. This Privacy Policy explains how we collect, protect, use and share your personal information. In this Privacy Policy, we refer to the Site and the Application, collectively, as the “Service”. Please read on to learn more about our commitment to your privacy.
 
-#### Information Collection and Use
+**Information We Collect**  
+Camino Real collects personally identifiable information ( ** _“Personal Information”_** ), which refers to information that can be used to contact or identify you, when you download and register the Application or when you voluntarily provide it to us through our Site. For registration of our Application, we will collect your first name, last name and mobile device phone number, which we use in order to provide the Service. Through the Service, we will have access to your contact list on the mobile device you use for the Service and we may use that information only to provide the Service. In addition, we will collect the content of any voice note message you send or receive via the Service, for the sole purpose of allowing you or the person or people you share any voice note messages with to access and retrieve the content of any such voice note messages. Camino Real may also collect and gather non-Personal Information, such as the mobile device type, device identification code, device properties and information about your usage of the Service, including, but not limited to, the duration and frequency of your interactions with the Service and statistics on page views and traffic to and from our Service.
 
-Our primary goals in collecting personally identifiable information are to provide you with the Services, to administer your membership, and to enable users to enjoy and easily navigate the Services.
+**How We Use Information We Collect**
 
-**Information Collected Upon Registration**  
-When you register with Blippy, you provide some personally identifiable information to us, such as your name, username, password, and email address, and any other information or data that you provide to the Services, such as the login credentials for any of your webmail or social networking site accounts that you link to your Blippy account, or any of your accounts on websites that you make purchases from which you link to your Blippy account. Personally identifiable information that we may also collect in order to provide the Services may include your IP address, city, time zone, telephone number, and other information that you decide to provide us with, or that you decide to include in your public profile. 
+  * We use the information we collect: (i) to provide and improve our Service, features and content, (ii) to administer your use of our Service, (iii) to enable users to enjoy and easily navigate the Service, (iv) to better understand your needs and interests, and (v) to provide you with further information or updates from us which we believe you may find useful or interesting, including information on our services and products. You may unsubscribe at any time if you decide that you no longer want to receive such materials and information. 
+  * We also use information we collect to monitor and analyze use of the Service and for the Service’s technical administration, to increase our Service’s functionality and user-friendliness, and to generate and derive useful data and information concerning the characteristics and Service use behavior of our users. 
 
-**Developers**  
-If you wish to register as a developer we will collect your name, email address, phone number and website. We will use this information to create a developer account for you and approve you for access to the Blippy API. You will not receive email communication from us outside this purpose. 
 
-**Financial Information**  
-You have the ability to share your credit card or bank card information with us for the purpose of allowing us to automatically or manually post your purchases so that your followers may view them. If you no longer wish to store your information on the site, you may delete that information at any time within your account. 
 
-**Additional Information**  
-Your user name and image, if you decide to upload one, are displayed to people in the Blippy network to enable you to connect with people on Blippy, as specified in your privacy settings. Once a member, you may provide additional information in the profile section, including but not limited to your bio and your personal web site, if you have one. Providing additional information beyond what is required at registration is entirely optional, but enables you to better identify yourself and find new friends and opportunities in the Blippy system. Our Services are primarily designed to help you share information about your purchases with others. This information will be public by default, but you may make it more private by editing your account settings. You should be careful about all information that will be made public by Blippy. 
+**Cookies.**  
+In the event you access our Site, we also use “cookie” technology to collect additional website usage data and to improve the Service. A cookie is a small data file that we transfer to your computer’s hard disk. We do not use cookies to collect personally identifiable information. We may use both session cookies and persistent cookies. A session cookie enables certain features of the Service and is deleted from your computer when you disconnect from or leave the Services. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Service. Persistent cookies can be removed by following your web browser help file directions. Like many other sites, we use cookies for different purposes. For instance, if you are a registered user, the use of cookies allows our Site to “remember” you, so that you will not have to type your password every time you visit the Site. But we also use cookies for analytics purposes, to better understand how users, whether registered or not, interact with the Site, and to monitor aggregate usage and web traffic on our Site. Most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit.
 
-**Use of Contact Information**  
-We will use your information to create an account for you so that you may begin using our services. We will send you a monthly newsletter as part of the service, but you may opt-out from receiving our newsletter at any time by using the unsubscribe link located at the bottom of each newsletter. 
+**How We Share the Information We Collect**
 
-In addition, we may use your contact information to market to you, and provide you with information about, our products and services, including but not limited to our Services. If you decide at any time that you no longer wish to receive such information or communications from us, please follow the unsubscribe instructions provided in any of the communications. 
+  * __Service Providers.__ We may engage third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services (including but not limited to maintenance services, database management, and improvement of the Service’s features) or to assist us in analyzing how our Service is used. These third parties have access to your information only for purposes of performing these tasks on our behalf.
+  *  _ _Compliance with Laws and Law Enforcement.__ Camino Real cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information we have about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of Camino Real or a third party, to protect the safety of the public or any person, or to prevent or stop any activity we may consider to be, or to pose a risk of being, illegal, unethical, inappropriate or legally actionable. 
+  * __Business Transfers.__ Camino Real may sell, transfer or otherwise share some or all of its assets, including your Personal information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy. 
 
-**Blog**  
-If you use the blog on this website, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these blogs, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these blogs. 
 
-**Tell-a-friend**  
-If you choose to use our referral service to email a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. You also have the option of logging into your personal email account and selecting the friends you wish to email about our site, we do not store your username or password if you choose to use this method. Blippy stores your friends email address for the sole purpose of sending this one-time email and tracking the success of our referral program. 
 
-Your friend may contact us at [support@blippy.com](mailto:support@blippy.com) to request that we remove this information from our database. 
+**Deleting Your Information**  
+You may request that we delete your Personal Information by contacting us. If you ask us to delete your account by emailing us at contact@blip.me, we will use commercially reasonable efforts to remove your data from our servers. However, please note that any data, including, but not limited to, voice note messages, that you share with a third party via the Service will still be accessible and viewable by such third party. If you ask us to delete all of your Personal Information, you may not be able to use all of the functionality of the Service. Despite such removal, portions of your data may remain on our production and back-up servers indefinitely.
 
-**Facebook/Twitter Connect**  
-The Blippy Site allows users to access Facebook and/or Twitter Connect to interact with friends and to share on Facebook and/or Twitter through Wall and friends' News Feeds. If you are already logged into Blippy and Facebook and/or Twitter, when you click on "Connect with Facebook and/or Twitter" you will be prompted to merge your profiles. If you are already logged into Blippy but not logged into Facebook or Twitter, when you click on "Connect with Facebook and/or Twitter" you will be prompted to enter your Facebook or Twitter credentials or to "Sign up for Facebook or Twitter." By proceeding, you are allowing the Blippy Sites to access your information and you are agreeing to the Facebook or Twitter Terms of Use in your use of the Blippy Site. 
+**Security; Data Transfer**  
+Protecting user privacy and Personal Information is a top priority for Camino Real. We make substantial efforts to ensure the privacy of all Personal Information you provide to us. Access to all Personal Information of users is restricted to Camino Real employees, contractors and agents who need to know that information in order to operate, develop or improve the Service. Camino Real uses password protection, access logs, and system monitoring to safeguard the confidentiality of all user information. Nonetheless, due to the inherent nature of the Internet and related technology, we do not guarantee the protection of information under our control against loss, misuse or alteration. In addition, your information may be stored and processed in any country in which Camino Real maintains facilities, including outside of the United States. In this regard, or for purposes of sharing or disclosing data as described in this Privacy Policy, Camino Real reserves the right to transfer information outside of your country. By using the Service, you consent to any such transfer of information outside of your country.
 
-Conversely, if you are not currently registered as a Blippy user and you click on "Sign in Using Facebook or Twitter," you will first be asked to enter your Facebook or Twitter credentials and then be given the option to register and join Blippy. Once you register on the Blippy sites and Connect with Facebook or Twitter, you will be able to automatically post recent activity back to Facebook or Twitter. You have the option to disable Facebook or Twitter Connect at any time by logging into "My Profile" and clicking on "My Facebook/Twitter Profile." Further, you can edit privacy settings for the reviews that appear on Facebook or Twitter or disconnect this service by visiting the Facebook or Twitter Application Settings page. 
+**Age**  
+The Service is not directed to children under the age of 13 and we do not knowingly collect Personal Information from children under the age of 13 as part of the Service. If we become aware that we have inadvertently received Personal Information from a user under the age of thirteen as part of the Service, we will delete such information from our records.
 
-**Log Data**  
-When you visit the Services, our servers automatically record information that your browser sends whenever you visit a website ("Log Data"). This Log Data may include information such as your IP address, browser type or the domain from which you are visiting, the web-pages you visit, the search terms you use, and any advertisements on which you click. For most users accessing the Internet from an Internet service provider the IP address will be different every time you log on. We use Log Data to monitor the use of the Services, and for the technical administration of the Services. We do not associate your IP address with any other personally identifiable information to identify you personally, except in case of violation of the Terms. 
+**Notification of Changes**  
+We reserve the right at our discretion to make changes to this Privacy Policy. You may review updates to our Privacy Policy at any time via links on our Site. You agree to accept electronic communications and/or postings of a revised Privacy Policy on our Site, and you agree that such electronic communications or postings constitute notice to you of the Privacy Policy. We reserve the right to modify this policy from time to time, so please review it frequently. If we make material changes to this policy, we will notify you by publishing a revised Privacy Policy or by means of a notice on our website. You agree that your continued use of the Service after we publish a revised Privacy Policy or provide a notice on our website constitutes your acceptance of the revised Privacy Policy.
 
-**Cookies**  
-Like many websites, we also use "cookie" technology to collect additional website usage data and to improve the Services. A cookie is a small data file that we transfer to your computer’s hard disk. We do not use cookies to collect personally identifiable information. Blippy may use both session cookies and persistent cookies to better understand how you interact with the Services, to monitor aggregate usage by our users and web traffic routing on the Services, and to improve the Services. A session cookie enables certain features of the Services and is deleted from your computer when you disconnect from or leave the Services. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Services. Persistent cookies can be removed by following your web browser help file directions. Most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. 
-
-**Third Party Cookies**  
-The use of cookies by third parties is not covered by our privacy statement. We do not have access or control over these cookies. These third parties use session ID cookies to make it easier for you to navigate our site. 
-
-**Clear Gifs (Web Beacons/Web Bugs)**  
-We employ [or our third party advertising partner employs] a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information. 
-
-#### Information Sharing and Disclosure
-
-_Blippy does not sell, share, rent or trade your personal information with third parties other than as disclosed within this privacy policy._
-
-**Services Providers**  
-We may engage certain trusted third parties to perform functions and provide services to us, including, without limitation, hosting and maintenance, customer relationship, database storage and management, and direct marketing campaigns. We will share your personally identifiable information with these third parties, but only to the extent necessary to perform these functions and provide such services, and only pursuant to binding contractual obligations requiring such third parties to maintain the privacy and security of your data. 
-
-**Compliance with Laws and Law Enforcement**  
-Blippy cooperates with government and law enforcement officials or private parties to enforce and comply with the law. We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site, to protect the property and rights of Blippy or a third party, the safety of the public or any person, to prevent or stop any illegal, unethical, or legally actionable activity, or to comply with the law. 
-
-**Business Transfers**  
-Blippy may sell, transfer or otherwise share some or all of its assets, including your personally identifiable information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy. You will have the opportunity to opt out of any such transfer if the new entity's planned processing of your information differs materially from that set forth in this Privacy Policy. 
-
-#### Changing or Deleting Information
-
-If you are a registered user of the Services, you may access and update or correct the information you provided to us by e-mailing us at [privacy@blippy.com](mailto:privacy@blippy.com) or by logging into your account and making the changes under the “settings” tab. If you would like us to remove your records from our system, please contact us and we will attempt to accommodate your request if we do not have any legal obligation to retain the record. 
-
-#### Security
-
-Blippy is very concerned about safeguarding the confidentiality of your personally identifiable information. We employ administrative, physical and electronic measures designed to protect your information from unauthorized access. We will make any legally-required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored personal data to you via email or conspicuous posting on the Services in the most expedient time possible and without unreasonable delay, consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
-
-The security of your personal information is important to us. When you enter sensitive information (such as credit card number, bank card number, or any other financial information) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL).
-
-#### Links to Other Websites
-
-Our Services contain links to other websites. The fact that we link to a website is not an endorsement, authorization or representation of our affiliation with that third party. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personally identifiable information from you. Other sites follow different rules regarding the use or disclosure of the personally identifiable information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit. 
-
-#### Our Policy Towards Children
-
-The Services are not directed to persons under 13. If a parent or guardian becomes aware that their child has provided us with personally identifiable information without their consent, please contact us. We do not knowingly collect personally identifiable information from children under 13. If we become aware that a child under 13 has provided us with personal identifiable Information, we will delete such information from our files immediately.
-
-#### Changes to this Policy
-
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
-
-#### Contacting Us
-
-If you have any questions about this Privacy Policy, please contact us at [privacy@blippy.com](mailto:privacy@blippy.com).
-
-Blippy Inc, 425 Sherman Avenue Suite 300, Palo Alto, CA 94306
-
-_Last Updated:_ June 21st, 2010
+**Contact Information**  
+If you have any questions about this Privacy Policy, please contact us at contact@blip.me. Any Personal Information provided in connection with inquiries related to this Privacy Policy will be used solely for the purpose of responding to the inquiry and consistent with our Privacy Policy.
