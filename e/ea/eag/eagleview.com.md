@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eagleview.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523014729id_/http%3A//www.eagleview.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eagleview.com privacy policy that was archived on 2013-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130907043644id_/http%3A//www.eagleview.com/Privacy.aspx) for the most accurate reproduction.*
 
 # EagleView Technologies - Roof Measurement & Aerial Measurement Service
 
@@ -64,7 +64,8 @@ EagleView welcomes your comments regarding this Statement of Privacy. If you bel
 Our postal address is: 
 
 EagleView Technologies, Inc.  
-2525 220th St SE, Suite 203  
+3700 Monte Villa Parkway  
+Suite 200  
 Bothell, WA 98021 
 
 |  
