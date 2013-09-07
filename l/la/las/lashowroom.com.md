@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lashowroom.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227135957id_/https%3A//www.lashowroom.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lashowroom.com privacy policy that was archived on 2013-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130907211728id_/https%3A//www.lashowroom.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy − LAShowroom.com
 
 ## LAShowroom.com PRIVACY STATEMENT
 
-This privacy statement covers the site https://www.lashowroom.com. This policy statement strives to explain the following issues:
+This privacy statement covers the site LAShowroom.com. This policy statement strives to explain the following issues:
 
   1. What personally identifiable information LAShowroom.com collects.
   2. What personally identifiable information third parties collect through the website.
@@ -114,7 +114,7 @@ If users have any questions about the security at our website, users can send an
 
 ## Correcting/Updating/Deleting/Deactivating Personal Information
 
-If a user's personally identifiable information changes (such as zip code, phone number, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can be done at the [My Account](https://web.archive.org/web/20121227135957id_/https%3A//www.lashowroom.com/account.php) page available at the top of each store within LAShowroom.com. The changes made in [My Account](https://web.archive.org/web/20121227135957id_/https%3A//www.lashowroom.com/account.php) section of any store will reflect in all the store accounts of the user. 
+If a user's personally identifiable information changes (such as zip code, phone number, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can be done at the [My Account](https://web.archive.org/account) page available at the top of each store within LAShowroom.com. The changes made in [My Account](https://web.archive.org/account) section of any store will reflect in all the store accounts of the user. 
 
 ## Notification of Changes
 
