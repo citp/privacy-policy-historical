@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the texthelp.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607224909id_/http%3A//texthelp.com/North-America/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texthelp.com privacy policy that was archived on 2013-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130907181205id_/http%3A//www.texthelp.com/North-America/Privacy-Policy) for the most accurate reproduction.*
 
 # Texthelp - Privacy Policy
 
