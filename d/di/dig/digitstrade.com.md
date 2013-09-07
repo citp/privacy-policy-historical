@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitstrade.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609142448id_/http%3A//digitstrade.com/%3Fa%3Dcust%26page%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitstrade.com privacy policy that was archived on 2013-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130907094203id_/http%3A//digitstrade.com/%3Fa%3Dcust%26page%3Dprivacypolicy) for the most accurate reproduction.*
 
 # DigitsTrade Investments Online
 
