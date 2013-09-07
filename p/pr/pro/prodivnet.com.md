@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the prodivnet.com privacy policy that was archived on 2013-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130305141735id_/http%3A//www.prodivnet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prodivnet.com privacy policy that was archived on 2013-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130907104158id_/http%3A//www.prodivnet.com/privacy-policy) for the most accurate reproduction.*
 
-# ProDivNet.com | Privacy Policy | Diversity Professional Networking and Job Search
+# Jobs and Careers for Diverse Professionals | Prodivnet.com
 
 Prodivnet.com is owned and operated by Professional Diversity Network. Professional Diversity Network is committed to protecting the privacy of our users. In addition to providing our users numerous privacy features, Professional Diversity Network has created this Privacy Statement in order to demonstrate in writing our firm commitment to privacy. 
 
