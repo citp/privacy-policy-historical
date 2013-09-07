@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the primaryarms.com privacy policy that was archived on 2013-04-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130420062831id_/https%3A//www.primaryarms.com/Terms_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the primaryarms.com privacy policy that was archived on 2013-09-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130907042658id_/https%3A//www.primaryarms.com/Terms_privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -16,6 +16,7 @@
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js"></script>
 <link type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/themes/base/jquery-ui.css" rel="stylesheet">
+<link type="text/css" href="/a/c/default.css" rel="stylesheet">
 
 
 <script type="text/javascript">
@@ -31,20 +32,43 @@
     var PageText_843 = "Subtotal";
     var PageText_844 = "items in cart";
 </script>
+<script type="text/javascript" src="/a/j/volusion.js?6.41.1.224"></script>
+<script type="text/javascript">
+    (function ($) {
+        volusion.ready(function () {
+            if (volusion.cart.isObservingCount()) {
+                var ts = new Date().getTime();
 
+                $.getJSON('/ajaxcart.asp?cachebust=' + ts, function (data) {
+                    var quantityTotal = 0;
+                    $.each(data.Products, function (key, val) {
+                        if (val.IsProduct === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        } else if (val.IsAccessory === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        }
+                    });
+                    quantityTotal = quantityTotal || '0';
+                    volusion.cart.itemCount(quantityTotal);
+                });
+
+            }
+        });
+    } (jQuery));
+</script>
 
 
 <script type="text/javascript" src="/a/j/soft_add.js"></script>
 <link type="text/css" rel="stylesheet" href="/a/c/soft_add.css">
 <script type="text/javascript">
 	var global_Config_EnableDisplayOptionProducts = 'True';	
-	var global_Config_ForceSecureShoppingCartPage = false;
+	var global_Config_ForceSecureShoppingCartPage = true;
 	var global_PageText_OtherItemsAdded = '(All other items have been added to the cart)';
 	var Config_EnableSoftAddToCart = true;
 </script>
 
 <script type="text/javascript" src="/a/j/soft_add_mult.js"></script>
-<script type="text/javascript" src="/a/j/javascripts.js?6_5_currentBuild"></script>
+<script type="text/javascript" src="/a/j/javascripts.js?6_5_6.41.1.224"></script>
 
 <script type="text/javascript">
 	var Config_Search_Auto_Complete = false;
@@ -60,7 +84,7 @@ DO NOT ADD YOUR OWN META TAGS, ONLY PUT CSS/JAVSCRIPT INCLUDES IN YOUR HEAD TAG
 <link href="/v/vspfiles/templates/custom132/css/Imports.css" rel="stylesheet" type="text/css">
 <script src="/v/vspfiles/templates/custom132/js/search_text_change.js" type="text/javascript"></script>
 
- 
+
 <!-- Quantcast Tag -->
 <script type="text/javascript">
 var _qevents = _qevents || [];
@@ -85,6 +109,8 @@ qacct:"p-7C8NMHRBvCyvR"
 </div>
 </noscript>
 <!-- End Quantcast tag -->
+
+
 
 <script type="text/javascript">
 
@@ -111,6 +137,17 @@ _gaq.push(['secondTracker._trackPageview']);
 
 <meta name="msvalidate.01" content="5CEFD986900D8F1A73485CD8FCE9E227">
 
+<!--Bronto Tracking Code-->
+<script type="text/javascript"> 
+document.write(unescape("%3Cscript src='" 
+   + ((document.location.protocol == "https:") ? "https:" : "http:") 
+   + "//p.bm23.com/bta.js' type='text/javascript'%3E%3C/script%3E")); 
+</script><script src="https://p.bm23.com/bta.js" type="text/javascript"></script> 
+<script type="text/javascript"> 
+   var bta = new __bta('bqsvzgbdbvzyrsnzxousbwwqanlbbfd'); 
+   bta.setHost("info.primaryarms.com"); 
+</script>
+<!--End Bronto Tracking Code-->
 
 </head>
 
@@ -119,16 +156,16 @@ _gaq.push(['secondTracker._trackPageview']);
 <!--Bronto Tracking Code-->
 <script type="text/javascript"> 
 document.write(unescape("%3Cscript src='" 
-+ ((document.location.protocol == "https:") ? "https:" : "http:") 
-+ "//p.bm23.com/bta.js' type='text/javascript'%3E%3C/script%3E")); 
+   + ((document.location.protocol == "https:") ? "https:" : "http:") 
+   + "//p.bm23.com/bta.js' type='text/javascript'%3E%3C/script%3E")); 
 </script><script src="https://p.bm23.com/bta.js" type="text/javascript"></script> 
 <script type="text/javascript"> 
-var bta = new __bta('bqsvzgbdbvzyrsnzxousbwwqanlbbfd'); 
-bta.setHost("info.primaryarms.com"); 
-</script> 
+   var bta = new __bta('bqsvzgbdbvzyrsnzxousbwwqanlbbfd'); 
+   bta.setHost("info.primaryarms.com"); 
+</script>
 <!--End Bronto Tracking Code-->
 
-<script type="text/javascript"> 
+<!--<script type="text/javascript"> 
 //<![CDATA[ 
 if (location.pathname == "/ProductDetails.asp" || 
 location.pathname.indexOf("-p/") != -1 || 
@@ -141,7 +178,7 @@ font-weight: bold;'>Need help on this or any other product?<
 <a href='mailto:customerservice@yourcompany.com'>E-mail Us</a> 
 | <a href='/help.asp'>Help On Our Site</a> 
 | <a href='/returns.asp'>Return Policy</a></td></tr></table>\n\n"); 
-//]]> </script>
+//]]> </script>-->
 
 
 <!-- ==================== HEADER ==================== -->
@@ -219,133 +256,115 @@ function mClk2(src, popup)
 </script>
 <ul>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="https://www.primaryarms.com/Clearance_Section_s/2916.htm" title="Clearance Section">CLEARANCE SALE!</a>
+	<a href="https://www.primaryarms.com/Red-Dot-Store-s/57.htm" title="Red Dot Store">RED DOT STORE</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="https://www.primaryarms.com/category_s/4286.htm" title="">SHOP BY BRAND</a>
+	<a href="https://www.primaryarms.com/category-s/4286.htm" title="">SHOP BY BRAND</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="https://www.primaryarms.com/Red_Dot_Store_s/57.htm" title="Red Dot Store">RED DOT STORE</a>
+	<a href="https://www.primaryarms.com/AR15-Store-s/514.htm" title="AR15 Store">AR15 STORE</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="https://www.primaryarms.com/AR15_Store_s/514.htm" title="AR15 Store">AR15 STORE</a>
+	<a href="https://www.primaryarms.com/AK-47-STORE-s/488.htm" title="AK-47 STORE">AK-47 STORE</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="https://www.primaryarms.com/AK_47_STORE_s/488.htm" title="AK-47 STORE">AK-47 STORE</a>
+	<a href="https://www.primaryarms.com/Magpul-s/1021.htm" title="Magpul">MAGPUL STORE</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="https://www.primaryarms.com/American_Defense_s/4161.htm" title="American Defense">AMERICAN DEFENSE STORE</a>
+	<a href="https://www.primaryarms.com/Streamlight-Store-s/4901.htm" title="Streamlight Store">STREAMLIGHT STORE</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="https://www.primaryarms.com/Magpul_s/1021.htm" title="Magpul">MAGPUL STORE</a>
+	<a href="https://www.primaryarms.com/Yankee-Hill-Store-s/62.htm" title="Yankee Hill Store">YANKEE HILL STORE</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="https://www.primaryarms.com/Midwest_Industries_Store_s/559.htm" title="Midwest Industries Store">MIDWEST INDUSTRIES STORE</a>
+	<a href="https://www.primaryarms.com/Ammunition-s/499.htm" title="Ammunition">AMMO</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="https://www.primaryarms.com/Troy_Store_s/60.htm" title="Troy Store">TROY STORE</a>
+	<a href="https://www.primaryarms.com/Lowers-s/3930.htm" title="Lowers">AR-15 LOWERS</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="https://www.primaryarms.com/Daniel_Defense_Store_s/521.htm" title="Daniel Defense Store">DANIEL DEFENSE STORE</a>
+	<a href="https://www.primaryarms.com/Back-Up-Sights-s/69.htm" title="Back Up Sights">BACK UP SIGHTS</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="https://www.primaryarms.com/Yankee_Hill_Store_s/62.htm" title="Yankee Hill Store">YANKEE HILL STORE</a>
+	<a href="https://www.primaryarms.com/Barrels-s/503.htm" title="Barrels">BARRELS</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="https://www.primaryarms.com/Discounted_Packages_s/55.htm" title="Discounted Packages">DISCOUNTED PACKAGES</a>
+	<a href="https://www.primaryarms.com/Batteries-s/70.htm" title="Batteries">BATTERIES</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="https://www.primaryarms.com/Ammunition_s/499.htm" title="Ammunition">AMMO</a>
+	<a href="https://www.primaryarms.com/Bipods-s/71.htm" title="Bipods">BIPODS</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="https://www.primaryarms.com/Lowers_s/3930.htm" title="Lowers">AR-15 LOWERS</a>
+	<a href="https://www.primaryarms.com/Body-Armor-s/3997.htm" title="Body Armor">BODY ARMOR</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="https://www.primaryarms.com/Back_Up_Sights_s/69.htm" title="Back Up Sights">BACK UP SIGHTS</a>
+	<a href="https://www.primaryarms.com/Cases-s/72.htm" title="Cases">CASES</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="https://www.primaryarms.com/Barrels_s/503.htm" title="Barrels">BARRELS</a>
+	<a href="https://www.primaryarms.com/Ear-and-Eye-Protection-s/73.htm" title="Ear and Eye Protection">EAR AND EYE PROTECTION</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="https://www.primaryarms.com/Batteries_s/70.htm" title="Batteries">BATTERIES</a>
+	<a href="https://www.primaryarms.com/Flashlights-and-Accessories-s/74.htm" title="Flashlights and Accessories">FLASHLIGHTS &amp; ACCESSORIES</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="https://www.primaryarms.com/Bipods_s/71.htm" title="Bipods">BIPODS</a>
+	<a href="https://www.primaryarms.com/GUN-CLEANING-s/4020.htm" title="GUN CLEANING">GUN CLEANING</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="https://www.primaryarms.com/Body_Armor_s/3997.htm" title="Body Armor">BODY ARMOR</a>
+	<a href="https://www.primaryarms.com/GUN-STANDS-s/4207.htm" title="GUN STANDS">GUN STANDS</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="https://www.primaryarms.com/Cases_s/72.htm" title="Cases">CASES</a>
+	<a href="https://www.primaryarms.com/Handguns-s/5278.htm" title="Handguns">HANDGUNS</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="https://www.primaryarms.com/Complete_Rifles_s/2037.htm" title="Complete Rifles">COMPLETE RIFLES</a>
+	<a href="https://www.primaryarms.com/Lasers-s/76.htm" title="Lasers">LASERS</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="https://www.primaryarms.com/Complete_Uppers_s/1611.htm" title="Complete Uppers">COMPLETE UPPERS</a>
+	<a href="https://www.primaryarms.com/Magazines-and-Accessories-s/77.htm" title="Magazines and Accessories">MAGAZINES AND ACCESSORIES</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="https://www.primaryarms.com/Ear_and_Eye_Protection_s/73.htm" title="Ear and Eye Protection">EAR AND EYE PROTECTION</a>
+	<a href="https://www.primaryarms.com/Muzzle-Devices-s/4624.htm" title="Muzzle Devices">MUZZLE DEVICES</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="https://www.primaryarms.com/Flashlights_and_Accessories_s/74.htm" title="Flashlights and Accessories">FLASHLIGHTS &amp; ACCESSORIES</a>
+	<a href="https://www.primaryarms.com/Rail-Systems-and-Handguards-s/78.htm" title="Rail Systems and Handguards">RAIL SYSTEMS &amp; HANDGUARDS</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="https://www.primaryarms.com/GUN_CLEANING_s/4020.htm" title="GUN CLEANING">GUN CLEANING</a>
+	<a href="https://www.primaryarms.com/Red-Dot-Magnifiers-s/902.htm" title="Red Dot Magnifiers">RED DOT MAGNIFIERS</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="https://www.primaryarms.com/GUN_STANDS_s/4207.htm" title="GUN STANDS">GUN STANDS</a>
+	<a href="https://www.primaryarms.com/Red-Dot-Sights-s/901.htm" title="Red Dot Sights">RED DOT SIGHTS</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="https://www.primaryarms.com/Lasers_s/76.htm" title="Lasers">LASERS</a>
+	<a href="https://www.primaryarms.com/Rifle-Scopes-s/911.htm" title="Rifle Scopes">RIFLE SCOPES</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="https://www.primaryarms.com/Magazines_and_Accessories_s/77.htm" title="Magazines and Accessories">MAGAZINES AND ACCESSORIES</a>
+	<a href="https://www.primaryarms.com/Complete-Rifles-s/2037.htm" title="Complete Rifles">RIFLES</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="https://www.primaryarms.com/Muzzle_Devices_s/4624.htm" title="Muzzle Devices">MUZZLE DEVICES</a>
+	<a href="https://www.primaryarms.com/Scope-Rings-and-Mounts-s/86.htm" title="Scope Rings and Mounts">SCOPE RINGS AND MOUNTS</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="https://www.primaryarms.com/Rail_Systems_and_Handguards_s/78.htm" title="Rail Systems and Handguards">RAIL SYSTEMS &amp; HANDGUARDS</a>
+	<a href="https://www.primaryarms.com/Shooting-Accessories-s/82.htm" title="Shooting Accessories">SHOOTING ACCESSORIES</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="https://www.primaryarms.com/Red_Dot_Magnifiers_s/902.htm" title="Red Dot Magnifiers">RED DOT MAGNIFIERS</a>
+	<a href="https://www.primaryarms.com/Slings-Mounts-and-Accessories-s/83.htm" title="Slings, Mounts and Accessories">SLINGS, MOUNTS AND ACCESSORIES</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="https://www.primaryarms.com/Red_Dot_Sights_s/901.htm" title="Red Dot Sights">RED DOT SIGHTS</a>
+	<a href="https://www.primaryarms.com/Stocks-and-Accessories-s/84.htm" title="Stocks and Accessories">STOCKS AND ACCESSORIES</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="https://www.primaryarms.com/Rifle_Scopes_s/911.htm" title="Rifle Scopes">RIFLE SCOPES</a>
+	<a href="https://www.primaryarms.com/T-SHIRTS-CELL-PHONE-CASES-s/718.htm" title="T-SHIRTS &amp; CELL PHONE CASES">SWAG</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="https://www.primaryarms.com/Shooting_Accessories_s/82.htm" title="Shooting Accessories">SHOOTING ACCESSORIES</a>
+	<a href="https://www.primaryarms.com/Targets-s/87.htm" title="Targets">TARGETS</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="https://www.primaryarms.com/Slings_Mounts_and_Accessories_s/83.htm" title="Slings, Mounts and Accessories">SLINGS, MOUNTS AND ACCESSORIES</a>
+	<a href="https://www.primaryarms.com/Triggers-s/3203.htm" title="Triggers">TRIGGERS</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="https://www.primaryarms.com/Stocks_and_Accessories_s/84.htm" title="Stocks and Accessories">STOCKS AND ACCESSORIES</a>
+	<a href="https://www.primaryarms.com/Tools-s/88.htm" title="Tools">TOOLS</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="https://www.primaryarms.com/Scope_Rings_and_Mounts_s/86.htm" title="Scope Rings and Mounts">SCOPE RINGS AND MOUNTS</a>
-</li>
-<li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="https://www.primaryarms.com/T_SHIRTS_CELL_PHONE_CASES_s/718.htm" title="T-SHIRTS &amp; CELL PHONE CASES">T-SHIRTS &amp; CELL PHONE CASES</a>
-</li>
-<li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="https://www.primaryarms.com/Targets_s/87.htm" title="Targets">TARGETS</a>
-</li>
-<li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="https://www.primaryarms.com/Tek_Mats_s/4711.htm" title="Tek Mats">TEK MATS</a>
-</li>
-<li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="https://www.primaryarms.com/Triggers_s/3203.htm" title="Triggers">TRIGGERS</a>
-</li>
-<li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="https://www.primaryarms.com/Tools_s/88.htm" title="Tools">TOOLS</a>
-</li>
-<li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="https://www.primaryarms.com/Training_DVDs_s/89.htm" title="Training DVDs">TRAINING DVD'S</a>
+	<a href="https://www.primaryarms.com/Watches-s/4565.htm" title="Watches">WATCHES</a>
 </li>
 </ul>
 </div>
@@ -411,6 +430,8 @@ function mClk2(src, popup)
     </div>
   </div>
 
+
+
   <!-- ==================== FOOTER ==================== -->
   <div id="footerwrap">
     <div id="footer">
@@ -462,7 +483,7 @@ function mClk2(src, popup)
         <p><a href="https://www.primaryarms.com/terms.asp">Copyright © <script type="text/javascript">document.write((new Date()).getFullYear());</script>2020  &nbsp;www.primaryarms.com. All Rights Reserved.</a></p>
 
 <div id="companyinfo">
-<p>2825 Miller Ranch Road, Suite #209, Pearland, TX 77584 | Showroom #213 | Showroom Hours: M-F 9am - 5pm <br> P: 713-436-5121 | F: 713-436-9194 | info (@) primaryarms.com</p>
+<p>2825 Miller Ranch Road, Suite #209, Pearland, TX 77584 | Showroom #213 | Showroom Hours: M-F 9am - 5pm <br>Customer Service Hours M-F 8am - 5pm CST | P: 713-436-5121 | F: 713-436-9194 | info (@) primaryarms.com</p>
 </div>
 <br>
 <br>
@@ -524,6 +545,7 @@ function v_ga_track(ga_account, trackDomainName, theDomainName) {
 v_ga_track("UA-25494052-2"); 
 </script>
 
+
 <!-- Start of HubSpot Logging Code  -->
 <script type="text/javascript" language="javascript">
 var hs_portalid=146919; 
@@ -533,13 +555,40 @@ document.write(unescape("%3Cscript src='" + document.location.protocol + "//" + 
 </script><script src="https://primaryarms.app12.hubspot.com/salog.js.aspx" type="text/javascript"></script>
 <!-- End of HubSpot Logging Code -->
 
-<!-- START: JS for ProductDisplay.asp  -->
+
+  <!-- START: JS for ProductDisplay.asp  -->
      <script type="text/javascript">
-     if(location.href.indexOf('ProductDetails.asp') != -1) {
-      document.getElementById('myid1').innerHTML = '<b>something new and different</b>';
+     if(location.href.indexOf('5323.htm') != -1) {
+      document.getElementById('myid1').innerHTML = '<img src=\"/v/vspfiles/assets/images/buttons/configure.gif\" height=\"18px\" />';
+     }
+ 
+   if(location.href.indexOf('586.htm') != -1) {
+      document.getElementById('myid1').innerHTML = '<img src=\"/v/vspfiles/assets/images/buttons/moreinfo.gif\" height=\"18px\" />';
+     }
+
+if(location.href.indexOf('586.htm') != -1) {
+      document.getElementById('myid2').innerHTML = '<img src=\"/v/vspfiles/assets/images/buttons/moreinfo.gif\" height=\"18px\" />';
+     }
+
+if(location.href.indexOf('586.htm') != -1) {
+      document.getElementById('myid3').innerHTML = '<img src=\"/v/vspfiles/assets/images/buttons/moreinfo.gif\" height=\"18px\" />';
+     }
+
+if(location.href.indexOf('586.htm') != -1) {
+      document.getElementById('myid4').innerHTML = '<img src=\"/v/vspfiles/assets/images/buttons/moreinfo.gif\" height=\"18px\" />';
+     }
+
+if(location.href.indexOf('586.htm') != -1) {
+      document.getElementById('myid5').innerHTML = '<img src=\"/v/vspfiles/assets/images/buttons/moreinfo.gif\" height=\"18px\" />';
+     }
+
+if(location.href.indexOf('586.htm') != -1) {
+      document.getElementById('myid6').innerHTML = '<img src=\"/v/vspfiles/assets/images/buttons/moreinfo.gif\" height=\"18px\" />';
      }
      </script>
      <!-- END: JS for ProductDisplay.asp  -->
+
+
 
 
 
