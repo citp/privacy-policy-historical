@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accountingcoach.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622112121id_/http%3A//www.accountingcoach.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accountingcoach.com privacy policy that was archived on 2013-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130907170827id_/http%3A//www.accountingcoach.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | AccountingCoach.com
 
@@ -97,7 +97,7 @@ We follow generally accepted industry standards to protect the personally identi
   
 
 
-If you have any questions about security on our website, you can email us by using our ******[email contact form](https://web.archive.org/web/20130622112121id_/http%3A//www.accountingcoach.com/contact.html)**.
+If you have any questions about security on our website, you can email us by using our ******[email contact form](https://web.archive.org/web/20130907170827id_/http%3A//www.accountingcoach.com/contact.html)**.
 
   
   
@@ -133,7 +133,7 @@ Our third-party advertising partner employs a software technology called clear g
 
 ### **Updating or correcting personally identifiable information**
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct or update it by making the change within your account page or by emailing our Customer Support by using our ******[contact form](https://web.archive.org/web/20130622112121id_/http%3A//www.accountingcoach.com/contact.html)**.
+If your personally identifiable information changes, or if you no longer desire our service, you may correct or update it by making the change within your account page or by emailing our Customer Support by using our ******[contact form](https://web.archive.org/web/20130907170827id_/http%3A//www.accountingcoach.com/contact.html)**.
 
   
   
@@ -149,7 +149,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 ### **How to contact us**
 
-Should you have other questions or concerns about these privacy policies, please contact us by using our ******[email contact form](https://web.archive.org/web/20130622112121id_/http%3A//www.accountingcoach.com/contact.html)** or the following postal address.
+Should you have other questions or concerns about these privacy policies, please contact us by using our ******[email contact form](https://web.archive.org/web/20130907170827id_/http%3A//www.accountingcoach.com/contact.html)** or the following postal address.
 
 > _AccountingCoach, LLC  
 >  1109 W. Blackhawk Dr.  
