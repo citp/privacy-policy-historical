@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marksandspencer.ie privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616025614id_/http%3A//www.marksandspencer.ie/Privacy-Policy/privacy-policy%2Cen_IE%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marksandspencer.ie privacy policy that was archived on 2013-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130908055219id_/http%3A//www.marksandspencer.ie/Privacy-Policy/privacy-policy%2Cen_IE%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -60,7 +60,7 @@ In the event that a third party acquires all or part of our business and/or asse
 
 ## E-mail newsletter preferences and text alerts
 
-We provide you with the ability to control whether or not to receive e-mail newsletters. You can change your preference by clicking here
+We provide you with the ability to control whether or not to receive e-mail newsletters. To unsubscribe from an email newsletter, please click the unsubscribe link at the bottom of any email newsletter you have received from M&S. To stop text alerts, please follow the stop instructions at the bottom of any text alert you have received from M&S.
 
 ## Personalised banner advertising
 
