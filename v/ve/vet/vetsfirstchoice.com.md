@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vetsfirstchoice.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603182134id_/http%3A//0dbb9005ec1a3ab9a064-3527a3acafade13ff5df388af987340d.r9.cf1.rackcdn.com/PrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vetsfirstchoice.com privacy policy that was archived on 2013-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130908153235id_/http%3A//0dbb9005ec1a3ab9a064-3527a3acafade13ff5df388af987340d.r9.cf1.rackcdn.com/PrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # PRIVACY POLICY WE ARE COMMITTED TO SAFEGUARDING YOUR PRIVACY ONLINE. PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING THIS SITE.
 
