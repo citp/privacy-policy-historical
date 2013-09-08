@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the email-hog.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621100654id_/http%3A//email-hog.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the email-hog.com privacy policy that was archived on 2013-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130908043905id_/http%3A//email-hog.com/privacy.php) for the most accurate reproduction.*
 
 # Email-Hog - Build Your Lists & Profits!
 
-[](http://email-hog.com/bannerclick.php?id=18291)
+[](http://email-hog.com/bannerclick.php?id=20994)
 
 Email-Hog Privacy Policy
 
