@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the habitat.co.uk privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513162053id_/http%3A//www.habitat.co.uk/privacy/content/fcp-content) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the habitat.co.uk privacy policy that was archived on 2013-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130908184442id_/http%3A//www.habitat.co.uk/privacy/content/fcp-content) for the most accurate reproduction.*
 
 # Habitat - Privacy
 
