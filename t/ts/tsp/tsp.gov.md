@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tsp.gov privacy policy that was archived on 2013-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130214182746id_/https%3A//www.tsp.gov/sitehelp/privacy/privacyPolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tsp.gov privacy policy that was archived on 2013-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130908180526id_/https%3A//www.tsp.gov/sitehelp/privacy/privacyPolicy.shtml) for the most accurate reproduction.*
 
 # TSP: Website Privacy Policy
 
@@ -25,11 +25,15 @@ Information automatically collected and stored includes:
 
 
 
+In addition, this website uses Google Analytics. Please refer to the following policies on Google’s website for more information:
+
 #### TSP Account Access
 
 If you choose to access your account in the secure section of the TSP website (www.tsp.gov), we do request your account number (or user ID) and Web password in order to identify your account. When you provide your account information, you are consenting to the electronic transmission of the personal financial information you have requested. Your consent is effective during the entire time you are accessing your TSP account through the website.
 
 We only share information you give us with other government agencies if your transaction relates to another agency, or as otherwise required by law. Read the warning on the login page.
+
+The TSP does not use Google Analytics on the My Account section of the website. Your account data is not available to Google or any other third party.
 
   
 
