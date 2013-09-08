@@ -1,12 +1,7 @@
-> *The following text is extracted and transformed from the terrysfabrics.co.uk privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611235048id_/http%3A//www.terrysfabrics.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terrysfabrics.co.uk privacy policy that was archived on 2013-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130908121210id_/http%3A//www.terrysfabrics.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Terrys Fabrics Privacy Policy / Statement | Great prices & UK Delivery
 
-[Home](https://web.archive.org/) :: Privacy Policy / Statement 
-
-|   
----|---  
-  
 **Cookies**
 
 **Visiting Terrys Fabrics websites with your browser settings adjusted to accept cookies tells us that you want to use Terrys Fabrics products and services and that you consent to our use of cookies and other technologies to provide them to you as described in this notice and in privacy notice.**
