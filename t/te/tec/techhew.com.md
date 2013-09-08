@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techhew.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512133957id_/http%3A//www.techhew.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techhew.com privacy policy that was archived on 2013-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130908185325id_/http%3A//www.techhew.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for TechHew.com
 
