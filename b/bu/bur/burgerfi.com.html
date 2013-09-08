@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the burgerfi.com privacy policy that was archived on 2013-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130601234721id_/http%3A//burgerfi.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the burgerfi.com privacy policy that was archived on 2013-09-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130908142214id_/http%3A//burgerfi.com/privacy-policy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"><head>
         <meta http-equiv="X-UA-Compatible" content="IE=8">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		
+
+		<meta property="fb:app_id" content="246930148716622">		
             <title></title>
     <meta name="description" content="">
     <meta name="keywords" content="BurgerFi">
@@ -42,6 +43,26 @@
         
         -->
         <script src="tools/js/bxslider/jquery.bxSlider.min.js" type="text/javascript"></script>
+		<script src="/js/twitterFetcher_v9_min.js" type="text/javascript"></script>
+		
+		
+	<script type="text/javascript">
+	twitterFetcher.fetch('370372607888990208', '', 1, true, false, false, '', false, handleTweets);
+
+	function handleTweets(tweets){
+		var x = tweets.length;
+		var n = 0;
+		var element = document.getElementById('thetweeters');
+		var html = '';
+		while(n < x) {
+		html += '' + tweets[n] + '';
+		n++;
+		}
+		html += '';
+		element.innerHTML = html;
+	}
+	</script><script type="text/javascript" src="//web.archive.org/web/20131012185215/http://cdn.syndication.twimg.com/widgets/timelines/370372607888990208?&amp;lang=en&amp;callback=twitterFetcher.callback&amp;suppress_response_codes=true&amp;rnd=0.3999882392311931"></script>
+		
 
 
 
@@ -129,77 +150,7 @@
 		
 		
 		
-		
-<script type="text/javascript">
-$(document).ready(function() {
-	loadLatestTweet(1, "burgerfi");
-});
 
-String.prototype.parseURL = function() {
-	return this.replace(/[A-Za-z]+:\/\/[A-Za-z0-9-_]+\.[A-Za-z0-9-_:%&~\?\/.=]+/g, function(url) {
-		return url.link(url);
-	});
-};
-
-String.prototype.parseUsername = function() {
-	return this.replace(/[@]+[A-Za-z0-9-_]+/g, function(u) {
-		var username = u.replace("@","")
-		return u.link("http://twitter.com/"+username);
-	});
-};
-
-String.prototype.parseHashtag = function() {
-	return this.replace(/[#]+[A-Za-z0-9-_]+/g, function(t) {
-		var tag = t.replace("#","%23")
-		return t.link("http://search.twitter.com/search?q="+tag);
-	});
-};
-
-function parseDate(str) {
-	var v=str.split(' ');
-	return new Date(Date.parse(v[1]+" "+v[2]+", "+v[5]+" "+v[3]+" UTC"));
-}
-
-function loadLatestTweet(numTweets, un){
-	var _url = 'https://api.twitter.com/1/statuses/user_timeline/' + un + '.json?callback=?&count='+numTweets+'&include_rts=1&exclude_replies=true';
-	$.getJSON(_url,function(data){
-	for(var i = 0; i< data.length; i++){
-			var tweet = data[i].text;
-			var created = parseDate(data[i].created_at);
-			var createdDate = created.getDate()+'-'+(created.getMonth()+1)+'-'+created.getFullYear()+' at '+created.getHours()+':'+created.getMinutes();
-			//Uncomment below line to see the user Image
-			//tweet = "<img src='"+data[i].user.profile_image_url+"' />";
-			tweet = tweet.parseURL().parseUsername().parseHashtag();
-			//Uncomment below line to displ tweet date.
-			//tweet += '<div class="tweeter-info"><p class="right">'+createdDate+'</p></div>'
-			$("#thetweeters").append(tweet);
-		}
-	});
-}
-
-
-function loadLatestFiveTweets(numTweets, un){
-	var _url = 'https://api.twitter.com/1/statuses/user_timeline/' + un + '.json?callback=?&count='+numTweets+'&include_rts=1&exclude_replies=true';
-	$.getJSON(_url,function(data){
-	for(var i = 0; i< data.length; i++){
-			var tweet = data[i].text;
-			var created = parseDate(data[i].created_at);
-			var createdDate = (created.getMonth()+1)+'-'+created.getDate()+', '+created.getFullYear()+' at '+created.getHours()+':'+created.getMinutes();
-			//Uncomment below line to see the user Image
-			//tweet = "<img src='"+data[i].user.profile_image_url+"' />";
-			tweet = tweet.parseURL().parseUsername().parseHashtag();
-			//Uncomment below line to displ tweet date.
-			tweet += '<div class="tweeter-info"><p class="right">'+createdDate+'</p></div>'
-			$("#social_tweets").append(tweet);
-		}
-	});
-}
-</script>
-		
-		
-		
-		
-		
 		
 		
 <script type="application/javascript">var _prum=
@@ -213,13 +164,39 @@ function loadLatestFiveTweets(numTweets, un){
 ;PRUM_EPISODES.mark("firstbyte");(function()
 {var b=document.getElementsByTagName("script")[0];var a=document.createElement("script");a.type="text/javascript";a.async=true;a.charset="UTF-8";a.src="//rum-static.pingdom.net/prum.min.js";b.parentNode.insertBefore(a,b)}
 )();</script>
-		
-		
-		
+
 		
     </head>
     <body>
         <div id="fb-root"></div>
+		<script>
+/*
+		  window.fbAsyncInit = function() {
+			FB.init({
+			  appId      : '246930148716622', // App ID
+			  // channelURL : '', // Channel File
+			  status     : false, // check login status
+			  cookie     : true, // enable cookies to allow the server to access the session
+			  oauth      : false, // enable OAuth 2.0
+			  xfbml      : true,  // parse XFBML
+			  logging	 : true
+			});
+		
+			FB.getLoginStatus();
+			//
+			// All your canvas and getLogin stuff here
+			//
+		  };
+		
+		  // Load the SDK Asynchronously
+		  (function(d){
+			 var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+			 js = d.createElement('script'); js.id = id; js.async = true;
+			 js.src = "http://connect.facebook.net/en_US/all.js";
+			 d.getElementsByTagName('head')[0].appendChild(js);
+		   }(document));
+*/
+		</script>
         <script type="text/javascript">
 			/* <![CDATA[ */
 			(function(d, s, id) {
@@ -439,8 +416,8 @@ function loadLatestFiveTweets(numTweets, un){
 <div class="content_bottom_promo">
 
 						<div class="content_bottom_onecolumn floatleft">
-							<a target="_self" href="menu.php#beers">
-								<img src="images/promo/image_promo1.jpg" width="289" height="108" alt="Image Promo Burger Fi">
+							<a target="_self" href="menu.php#custard">
+								<img src="images/promo/image_promo3.jpg" width="289" height="108" alt="Image Promo Burger Fi">
 							</a>
 						</div>
 						
