@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the competitionhunter.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528181202id_/http%3A//www.competitionhunter.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the competitionhunter.com privacy policy that was archived on 2013-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130908030240id_/http%3A//www.competitionhunter.com/static/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Competition Hunter
 
@@ -10,7 +10,7 @@ When you register with Competition Hunter, you are asked to provide a username, 
 
 **Our use of that information:**
 
-The information you provide to us will never be passed on or sold to a third party. You may receive notifications of actions and digests of new or popular submissions at intervals which you can control or turn off. Regarding individual users, and issues pertaining to use of the site, technical problems or queries, you may be emailed privately.
+The information you provide to us will not be passed on or sold to a third party. You may receive notifications of actions and digests of new or popular submissions at intervals which you can control or turn off. Regarding individual users, and issues pertaining to use of the site, technical problems or queries, you may be emailed privately.
 
 We reserve the right to pass on any user information to relevant authorities and law enforcement in the event of any illegal activity.
 
