@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the small-improvements.com privacy policy that was archived on 2013-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130212132503id_/https%3A//www.small-improvements.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the small-improvements.com privacy policy that was archived on 2013-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130908110623id_/https%3A//www.small-improvements.com/privacy) for the most accurate reproduction.*
 
 # Small Improvements - Privacy Policy
 
@@ -6,7 +6,7 @@ Small Improvements is committed to protect the privacy of our customers. This Pr
 
 1\. When you register with Small Improvements, information is needed such as your name, company name, email address. 
 
-2\. Small Improvements uses collected information for processing your order, billing, service improvement, research and other general purposes. 
+2\. Small Improvements uses collected information for processing your order, billing and service improvement. 
 
 3\. Small Improvements will not sell, rent, exchange or share your personal information with any third parties without your permission. 
 
