@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdb.gov.sg privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006140026id_/http%3A//www.hdb.gov.sg/fi10/fi10320p.nsf/w/PrivacyPS%3FOpenDocument) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdb.gov.sg privacy policy that was archived on 2013-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130908112439id_/http%3A//www.hdb.gov.sg/fi10/fi10320p.nsf/w/PrivacyPS%3FOpenDocument) for the most accurate reproduction.*
 
 # HDB InfoWEB: Privacy Statement : Privacy Statement
 
