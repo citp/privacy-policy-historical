@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the marketingeasystreet.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613034852id_/http%3A//marketingeasystreet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingeasystreet.com privacy policy that was archived on 2013-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130909003339id_/http%3A//marketingeasystreet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+## Privacy Policy
 
 Privacy Policy
 
@@ -19,3 +21,5 @@ We may share information with governmental agencies or other companies assisting
 
 Commitment to Data Security  
 Your personally identifiable information is kept secure. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information. All emails and newsletters from this site allow you to opt out of further mailings.
+
+### Share and Enjoy
