@@ -1,35 +1,67 @@
-> *The following text is extracted and transformed from the eventsetter.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509221136id_/http%3A//www.eventsetter.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventsetter.com privacy policy that was archived on 2013-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130908105332id_/http%3A//www.eventsetter.com/privacy.php) for the most accurate reproduction.*
 
-# EventSetter.com Privacy Statement
+# EventSetter Privacy Statement
 
-### PRIVACY POLICY
+Privacy 
 
-EventSetter.com (“EventSetter”) operates the website EventSetter.com. It is EventSetter’s policy to respect your privacy regarding any information we may collect while operating our website(s).
+This Privacy Policy governs the manner in which EventSetter collects, uses, maintains and discloses information collected from users (each, a "User") of the http://www.eventsetter.com website ("Site"). This privacy policy applies to the Site and all products and services offered by EventSetter.
 
-Website Visitors
+### Personal identification information
 
-EventSetter also collects potentially personally-identifying information like Internet Protocol (IP) addresses, profile information, aggregate user data. EventSetter does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below.
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-Aggregated Statistics
+### Non-personal identification information
 
-EventSetter may collect statistics about the behavior of visitors to its website(s). For instance, EventSetter may monitor any and all Event Listings pages, PR Pages, Directory and all other content on the EventSetter.com site to screen for and identify spam. EventSetter may delete any of this information without notice and without any recourse.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-Gathering of Personally-Identifying Information
+### Web browser cookies
 
-Certain visitors to EventSetter’s website(s) choose to interact with EventSetter in ways that require EventSetter to gather personally-identifying information. The amount and type of information that EventSetter gathers depends on the nature of the interaction. For example, we ask visitors who sign up for a PR Page at EventSetter.com to provide a username and email address. Those who engage in transactions with EventSetter – by purchasing advertising on EventSetter.com, for example – are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, EventSetter collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with EventSetter. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities. EventSetter collects user submitted information such as name(s) and email address to authenticate users and/or to send notifications to those users relating to EventSetter service(s). EventSetter also collects other profile data in order to assist users in finding and communicating with each other. 
+Our Site uses "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-Protection of Certain Personally-Identifying Information
+### How we use collected information
 
-EventSetter discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on EventSetter’s behalf or to provide services available at EventSetter’s website(s), and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using EventSetter’s website(s), you consent to the transfer of such information to them. EventSetter will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, EventSetter discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when EventSetter believes in good faith that disclosure is reasonably necessary to protect the property or rights of EventSetter, third parties or the public at large. If you are a registered user of an EventSetter website(s) and have supplied your email address, EventSetter may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with EventSetter and our products. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. EventSetter takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information. Please be aware that whenever you voluntarily post public information to EventSetter.com, the Event Listings pages, PR Page(s), the Directory, or any other published pages on the website that that information can be accessed by the public and can in turn be used by those people to send you unsolicited communications. EventSetter.com Event Listings pages, PR Page(s) and Directory information including pictures, first names, last names, business names, aliases, and contact information may be displayed to website visitors in order to facilitate user interaction on EventSetter.com. EventSetter and registered users of EventSetter may modify and/or remove any personally identifying information from the Event Listings pages, their PR Page(s), and Directory at any time. EventSetter reserves the right to transfer personal information to a successor in interest that acquires rights to that information as a result of the sale of EventSetter or substantially all of its assets to that successor in interest. 
+EventSetter may collect and use Users personal information for the following purposes: \- To improve customer service Information you provide helps us respond to your customer service requests and support needs more efficiently. \- To personalize user experience
 
-Cookies
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site. \- To improve our Site We may use feedback you provide to improve our products and services. \- To process payments
 
-EventSetter.com uses cookies to store visitors' preferences and to record session information, for purposes including advertising, and Web page content based on browser type and user profile information. EventSetter.com visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using EventSetter’s website(s), with the drawback that certain features of EventSetter’s website(s) may not function properly without the aid of cookies. A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. EventSetter uses cookies to help EventSetter identify and track visitors, their usage of the EventSetter.com website, and their website access preferences. Advertisers' use of cookies is subject to their own privacy policies, not the EventSetter Privacy Policy.
+We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service. \- To run a promotion, contest, survey or other Site feature To send Users information they agreed to receive about topics we think will be of interest to them. \- To send periodic emails
 
-Links
+We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
-EventSetter.com contains links to other websites. EventSetter.com is not responsible for the privacy policies, terms of use, and/or practices on other websites. When linking to another site a user should read the privacy policy stated on that site. Our privacy policy only governs information collected on EventSetter.com servers.
+### How we protect your information
 
-Privacy Policy Changes
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-Although most changes are likely to be minor, EventSetter may change its Privacy Policy from time to time, and in EventSetter’s sole discretion. EventSetter encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have an EventSetter.com PR Page account, you should also check the Official EventSetter.com PR Page for alerts to these changes. All Users are bound by any minor changes to the policy when she or he uses the site after those changes have been posted. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change. 
+Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
+
+### Sharing your personal information
+
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+
+### Third party websites
+
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
+
+### Advertising
+
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+
+### Google Adsense
+
+Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html
+
+### Changes to this privacy policy
+
+EventSetter has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+### Your acceptance of these terms
+
+By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not access or use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+### Contacting us
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, you can contact EventSetter by email at our email address link at the bottom of this page.
+
+We may revise this Privacy Policy from time to time.
+
+This document was last updated on April 13, 2013
