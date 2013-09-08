@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the stockezy.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510062453id_/http%3A//www.stockezy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockezy.com privacy policy that was archived on 2013-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130908223607id_/http%3A//www.stockezy.com/privacy) for the most accurate reproduction.*
 
 # Stockezy - India's First Social Investing Community.
+
+[BSE](https://web.archive.org/markets/bse/) 19270.06 290.30 1.53%
+
+[NSE](https://web.archive.org/markets/nse/) 5680.40 87.45 1.56%
+
+Fri, Sep 06, 2013 04:00PM IST India Markets Closed.
 
 ## Privacy Policy
 
