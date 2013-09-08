@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the landoflinks.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615081647id_/http%3A//www.landoflinks.com/dir/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landoflinks.com privacy policy that was archived on 2013-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130908195908id_/http%3A//www.landoflinks.com/dir/privacy.html) for the most accurate reproduction.*
 
 # Landoflinks: Privacy Policy
 
