@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the degreechat.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230031626id_/http%3A//degreechat.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the degreechat.com privacy policy that was archived on 2013-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130908113726id_/http%3A//degreechat.com/privacy.html) for the most accurate reproduction.*
 
 # Welcome to Degreechat
 
