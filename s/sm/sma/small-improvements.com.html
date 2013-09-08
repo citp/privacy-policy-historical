@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the small-improvements.com privacy policy that was archived on 2013-02-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130212132503id_/https%3A//www.small-improvements.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the small-improvements.com privacy policy that was archived on 2013-09-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130908110623id_/https%3A//www.small-improvements.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html prefix="og: http://ogp.me/ns#" class="websiteStyle"><head>
 <title>Small Improvements - Privacy Policy</title>
@@ -13,18 +13,17 @@ font-weight: bold !important;
 if (window.name=='' || (window.name.indexOf('wicket') > -1 && window.name!='wicket-wicket:default')) { window.location="privacy/wicket:pageMapName/wicket-0" + (window.location.hash != null ? window.location.hash : ""); }
 /*-->]]>*/</script>
 
-<link type="image/x-icon" rel="shortcut icon" href="/images/logo-16.png"><link rel="apple-touch-icon" href="/images/logo-57.png"><link rel="stylesheet" type="text/css" href="/css/global.css?v=110220130353">
+<link type="image/x-icon" rel="shortcut icon" href="/images/logo-16.png"><link rel="apple-touch-icon" href="/images/logo-57.png"><link rel="stylesheet" type="text/css" href="/css/global.css?v=030920130506">
 <link rel="stylesheet" type="text/css" href="/css/animate.min.css">
-<link rel="stylesheet" type="text/css" href="/css/style.css?v=110220130353">
+<link rel="stylesheet" type="text/css" href="/css/style.css?v=030920130506">
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 <script type="text/javascript" src="https://ajax.aspnetcdn.com/ajax/jquery.validate/1.8/jquery.validate.min.js"></script>
-<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.4.3/underscore-min.js"></script>
 <script type="text/javascript" src="/js/jquery.tools-1.2.5.min.js"></script>
-<script type="text/javascript" src="/js/combined8.js"></script>
-<script type="text/javascript" src="/js/global.js?v=110220130353"></script>
-<script type="text/javascript" src="/js/newUI.js?v=110220130353"></script>
+<script type="text/javascript" src="/js/combined.js?v=030920130506"></script>
+<script type="text/javascript" src="/js/global.js?v=030920130506"></script>
+<script type="text/javascript" src="/js/newUI.js?v=030920130506"></script>
 </head>
-<body class=" newUI">
+<body>
 <div id="container">
 <div id="main-wrapper">
 
@@ -60,7 +59,7 @@ for(e=0;e<h.length;e++)d(g,h[e]);a._i.push([b,c,f])};a.__SV=1.2;})(document,wind
 (function () {
 var token = "feb94d6fee075cc12ec163d771638025";
 if(window.location.host == "localhost:8080") {
-console.log("Using Token for MixPanel-Dev Project");
+// console.log("Using Token for MixPanel-Dev Project");
 token = "d29d3a016ae955c700cecfd7a8745efb";
 }
 mixpanel.init(token, {
@@ -68,7 +67,7 @@ cookie_name: "id"
 });
 // Identify by id pushed from server:
 var id = $("#company-domain-from-si-for-mp").text();
-if(id) {
+if(id && id !== "unknown") {
 mixpanel.identify(id);
 }
 })();
@@ -84,49 +83,49 @@ mixpanel.people.increment({"Score": score});
 </script>
 </div>
 <div>
-<script>
-//mark newUI
-document.body.className += ' newUI';
-</script>
 <div id="companyLogoBoxWrapper">
 <div id="companyLogoBox"></div>
+<a class="dynamicLogo aboveHeader" href="/dashboard">
+<img alt="logo" src="/images/dummy-logo.png">
+</a>
 </div>
 
 <div id="header" class="notLoggedIn absolute">
 <div class="wrapped">
 <div class="main clearfix">
+<a class="dynamicLogo topMenu" href="/dashboard">
+<img alt="logo" src="/images/dummy-logo.png">
+</a>
 <div class="topMenu companyName">
 <a href="/"><span>Small Improvements</span></a>
 </div>
 <div id="loginMenu" class="topMenu button parent">
 
-<a href="/login" rel="nofollow" class="products" id="loginToggleButton">Log in</a>
+<span class="text" id="loginToggleButton">Log in</span>
 <div class="menuItems">
 <div class="innerWrapper">
 <div>
 
 </div>
-<form id="id1c" method="post" action="?wicket:interface=:28:headerPanel:myHeader:logInMenuPanel:logInPanel:logInForm::IFormSubmitListener::"><div style="width:0px;height:0px;position:absolute;left:-100px;top:-100px;overflow:hidden"><input type="hidden" name="id1c_hf_0" id="id1c_hf_0"></div>
-<div class="logInPanel">
-<label for="email">Email</label>
-<input id="email" type="text" class="loginNameField escapable" value="" name="username">
-<label for="password">Password</label>
-<input id="password" type="password" class="loginPasswordField escapable" value="" name="password">
-<div class="redirectToHttps boxError" style="display:none;">
-You are currently not using a secure ("https") connection. <a href="https://www.small-improvements.com/login">Click here to switch to https.</a>
-</div>
-<div class="loginBits">
-<div class="rememberMe">
+
+
+<form id="ida" method="post" action="?wicket:interface=:4:headerPanel:myHeader:logInMenuPanel:logInPanel:logInForm::IFormSubmitListener::"><div style="width:0px;height:0px;position:absolute;left:-100px;top:-100px;overflow:hidden"><input type="hidden" name="ida_hf_0" id="ida_hf_0"></div>
+<div class="logInPanel signUpIn">
+<input id="email" type="text" class="loginNameField escapable" placeholder="email" value="" name="username">
+<label for="email" class="label">Email</label>
+<input id="password" type="password" class="loginPasswordField escapable" placeholder="password" value="" name="password">
+<label for="password" class="label">Password</label>
+<div class="buttonContainer">
+<button type="submit" id="submitButton" name="submit" class="submitButton save">Log in</button>
+<div class="rememberMe styledCheckboxes">
 <input id="remember" type="checkbox" name="rememberMe">
 <label for="remember">Remember Me</label>
 </div>
-<button type="submit" id="submitButton" name="submit" class="submitButton save right">Log in</button>
-</div>
 <a href="#" class="forgotPassword">Forgot your password?</a>
-<a class="registerNowEncouragement" rel="nofollow" href="register">Need an account? Sign up now!</a>
+
+</div>
 </div>
 </form>
-
 <script type="text/javascript">
 $(".submitButton").click(function () {
 // Ported version of: UserService.splitOffDomainFromMail(String)
@@ -171,7 +170,7 @@ mixpanel.identify(domain);
 <a href="goals-and-objectives/managing-employee-work-objectives"><span>Goals and Objectives system</span> </a>
 </li>
 <li>
-<a href="?wicket:bookmarkablePage=:com.praisemanager.web.site.doc.en.DocContinuousFeedbackPage"><span>Continuous feedback system</span> </a>
+<a href="continuous-feedback/praise-and-suggestions-and-microblogging"><span>Continuous feedback system</span> </a>
 </li>
 <li>
 <a href="documentation">Documentation overview</a>
@@ -186,7 +185,6 @@ mixpanel.identify(domain);
 </div>
 
 
-
 <div class="content">
 
 <div class="section narrow">
@@ -195,7 +193,7 @@ mixpanel.identify(domain);
 </p><p>
 1. When you register with Small Improvements, information is needed such as your name, company name, email address.
 </p><p>
-2. Small Improvements uses collected information for processing your order, billing, service improvement, research and other general purposes.
+2. Small Improvements uses collected information for processing your order, billing and service improvement.
 </p><p>
 3. Small Improvements will not sell, rent, exchange or share your personal information with any third parties without your permission.
 </p><p>
@@ -229,12 +227,14 @@ Please also see our <a href="/terms">terms of service</a>.
 
 
 
+
+
 <div id="content-bottom">
 <div class="wrap">
 <div id="bottom-links">
 <ul>
 <li>
-<strong><a href="/" class="homeLink">Small Improvements</a></strong>
+<strong><a href="/welcome" class="homeLink">Small Improvements</a></strong>
 </li>
 <li>
 <a href="/pricing">Plans and pricing</a>
@@ -249,7 +249,7 @@ Please also see our <a href="/terms">terms of service</a>.
 <a rel="nofollow" href="/changelog">Release notes</a>
 </li>
 <li>
-<a href="/documentation/presentations-and-resources" class="homeLink">Resources</a>
+<a href="/tutorials" class="homeLink">Video tutorials</a>
 </li>
 </ul>
 <ul>
@@ -271,17 +271,16 @@ Please also see our <a href="/terms">terms of service</a>.
 </ul>
 <ul>
 <li>
-<strong> <a href="/company">About us</a></strong>
+<strong><a href="/company">About us</a></strong>
 </li>
 <li>
 <a href="/company">Team</a>
-|
 <a href="http://blog.small-improvements.com">Blog</a>
-|
 <a href="http://tech.small-improvements.com">Tech Blog</a>
 </li>
 <li>
-<a href="/careers">Careers</a> | <a href="/contact">Contact</a>
+<a href="/careers">Careers</a>
+<a href="/contact">Contact</a>
 </li>
 <li>
 <a href="/partners">Partner directory</a>
@@ -294,14 +293,57 @@ Please also see our <a href="/terms">terms of service</a>.
 </li>
 
 </ul>
-<div class="copyright">
-<a href="/company" style="color:#999999">Copyright © 2013 Small Improvements Software GmbH</a>. All rights reserved. // <a rel="nofollow" href="http://twitter.com/smallimprove">@smallimprove</a>
-</div>
-</div>
-</div>
 
 
 </div>
+</div>
+</div>
+<script type="text/template" class="faqTemplate">
+<%
+var render = function(answers, search) {
+if (answers.length) {%>
+<ul class="faqAnswers"><%
+_.each(answers, function(answer) {%>
+<li>
+<h5 id="<%= answer.link %>" <% if (search) { %> class="expanded" <% }; %> ><i class="icon-caret-right"></i><%= answer.title %></h5>
+<div class="expandAnimation"><div class="answerBody">
+<%= answer.body %>
+<a class="answerLink" href="#<%= answer.link %>"><i class="icon-anchor"></i></a>
+</div></div>
+</li><%
+});
+%></ul><%
+} else if (search) {
+%><strong>Nothing found.</strong><%
+}
+}
+var faq;
+if (options.categories) {
+if (_.isArray(options.categories)) {
+faq = [];
+_.each(options.categories, function(value) {
+faq = faq.concat(_.where(data, {category: value}));
+});
+render(faq);
+} else {
+%><h2>All answers</h2><%
+faq = {};
+_.each(options.categories, function(value, key) {
+faq[key] = _.where(data, {category: value});
+});
+_.each(faq, function(category, title) {
+if (category.length) {%>
+<h4><%= title %></h4><%
+render(category);
+}
+});
+}
+} else if (options.search) {%>
+<h2>Search Results</h2><%
+render(data, true);
+}
+%>
+</script>
 
 <script type="text/javascript">
 var _gaq = _gaq || [];
@@ -313,6 +355,7 @@ ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www')
 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 })();
 </script>
+
 
 
 </div>
