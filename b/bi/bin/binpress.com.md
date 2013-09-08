@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the binpress.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511142701id_/http%3A//www.binpress.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the binpress.com privacy policy that was archived on 2013-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130908074254id_/http%3A//www.binpress.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Binpress
 
-_Last revised on Jan 1st, 2013_
+_Last revised on Jul 8th, 2013_
 
 We at Binpress Inc. value your privacy and understand that some users may not wish for their personal information to be spread across the world, and therefore have set up this Privacy Policy. We also have opened a dedicated account for complaints relating to privacy, which is [privacy@binpress.com](mailto:privacy@binpress.com) where you can contact us and ask more questions.
 
@@ -31,6 +31,9 @@ We also retain the following information regarding your browsing preferences and
 
 When browsing our site, and in order to provide you with better service, we also store a cookie on your computer which may identify the browser you are browsing from and maintain your sign-in status.
 
+We also allow some 3rd parties to store cookies on your computer, in order to provide you with better services and to allow us to present you with retarget you when you visit other sites, and show you relevant advertisements there.  
+You can opt-out of 3rd party retargeting by visiting your [Ads Settings](https://www.google.com/settings/ads).
+
 We also store information regarding your transactions in the site, including the amount of purchases, your recent transactions or other information, and may store your interaction with other users.
 
 We use 3rd party services such as Google Analytics, which retain information and have their own privacy policies, and you should also keep that in mind.
@@ -47,7 +50,9 @@ We comply with all reasonable and legal requests from law authorities, and shall
 
 We also provide users the ability to see information users entered in their own profiles, and such users may view all the information you provided us as public information.
 
-We also use _may use_ 3rd party services, and affiliates and fraud detection systems which we grant access to some private information under confidentiality agreements and solely for the purpose of their services (for example, our affiliates may only receive information regarding the amount purchased and the number of purchases, but not to your identity).
+We also use _may use_ 3rd party services, such as retargeting services, and affiliates and fraud detection systems which we grant access to some private information under confidentiality agreements and solely for the purpose of their services (for example, our affiliates may only receive information regarding the amount purchased and the number of purchases, but not to your identity).
+
+Our retargeting services may use the information in order to identify you as a Binpress user when you visit 3rd party sites.
 
 ## How can you find out what information is stored?
 
