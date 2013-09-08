@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extralol.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621005740id_/http%3A//www.extralol.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extralol.com privacy policy that was archived on 2013-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130908104158id_/http%3A//www.extralol.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Extra LOL
 
