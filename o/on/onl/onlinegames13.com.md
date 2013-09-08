@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinegames13.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510004507id_/http%3A//www.onlinegames13.com/index.php%3Fa%3Dpage%26id%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinegames13.com privacy policy that was archived on 2013-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130908103823id_/http%3A//www.onlinegames13.com/index.php%3Fa%3Dpage%26id%3D2) for the most accurate reproduction.*
 
 # ONLINE GAMES FOR FREE
 
