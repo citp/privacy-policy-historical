@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eateasily.com privacy policy that was archived on 2013-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130216013854id_/http%3A//www.eateasily.com/page/privacy_and_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eateasily.com privacy policy that was archived on 2013-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130908052817id_/http%3A//www.eateasily.com/page/privacy_and_policy) for the most accurate reproduction.*
 
 # 
 
