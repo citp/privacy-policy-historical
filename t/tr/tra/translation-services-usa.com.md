@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the translation-services-usa.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531194851id_/http%3A//translation-cloud.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the translation-services-usa.com privacy policy that was archived on 2013-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130908085609id_/http%3A//translationcloud.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -91,7 +91,7 @@ This policy was last modified on 10/24/11
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://translation-cloud.com/
+http://translationcloud.com/
 
 121 Newark Ave, 3rd Floor  
 Jersey City, NJ 07302  
