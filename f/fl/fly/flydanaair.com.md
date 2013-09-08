@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flydanaair.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509154834id_/http%3A//flydanaair.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flydanaair.com privacy policy that was archived on 2013-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130908045107id_/http%3A//www.flydanaair.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # DANA AIRLINES
 
