@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etoropartners.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601063403id_/http%3A//www.etoro.com/about-us/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etoropartners.com privacy policy that was archived on 2013-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130908030813id_/http%3A//www.etoro.com/about-us/privacy.aspx) for the most accurate reproduction.*
 
 # Social trading & Investment Network Privacy Policy | eToro
 
