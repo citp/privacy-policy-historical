@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toolorbit.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228110136id_/http%3A//www.toolorbit.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toolorbit.com privacy policy that was archived on 2013-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130908155140id_/http%3A//www.toolorbit.com/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | ToolOrbit.com
 
