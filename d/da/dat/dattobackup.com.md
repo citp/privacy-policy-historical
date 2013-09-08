@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dattobackup.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625023856id_/http%3A//dattobackup.com/%3Fpage_id%3D527) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dattobackup.com privacy policy that was archived on 2013-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130908071417id_/http%3A//dattobackup.com/%3Fpage_id%3D527) for the most accurate reproduction.*
 
 # Privacy Policy | Datto Backup
 
