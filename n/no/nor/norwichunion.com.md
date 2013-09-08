@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the norwichunion.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619052828id_/http%3A//www.aviva.co.uk/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the norwichunion.com privacy policy that was archived on 2013-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130908063307id_/http%3A//www.aviva.co.uk/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Legal - Privacy Policy - Aviva
+
+You are currently within [Aviva home](https://web.archive.org/ "Homepage") > [Legal](https://web.archive.org/legal/) > Privacy policy
 
 The pages on this website are only directed at United Kingdom residents and comply with appropriate UK legislation and regulation. We have provided this privacy policy to help you understand how we collect and use your personal information when you visit our website.
 
@@ -69,3 +71,5 @@ Other websites and information security
 This Privacy Policy covers all websites operated by Aviva. Any other websites that may be linked to or by our website(s) will be subject to their own policies which may differ from ours. You should carefully read the privacy policies of these websites before submitting any personal information.
 
 You should also be aware that communications over the internet, such as e-mails, are not secure unless they have been encrypted. Your communications may route through a number of countries before being delivered - this is the nature of the internet. Aviva cannot accept responsibility for any unauthorised access or loss of personal information that is beyond our control.
+
+Back to top
