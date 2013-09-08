@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the free-templates.lt privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604094804id_/http%3A//free-templates.lt/tos.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-templates.lt privacy policy that was archived on 2013-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130908172007id_/http%3A//free-templates.lt/tos.html) for the most accurate reproduction.*
 
-# More than 50500 free templates! Joomla, WP, Drupal | free-templates.lt
+# More than 51600 free templates! Joomla, WP, Drupal | free-templates.lt
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info@free-templates.lt.
 
