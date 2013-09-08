@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fairtradetraffic.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625024254id_/http%3A//fairtradetraffic.com/index.php%3F_w%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fairtradetraffic.com privacy policy that was archived on 2013-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130908094622id_/http%3A//fairtradetraffic.com/index.php%3F_w%3Dprivacy) for the most accurate reproduction.*
 
 # Fair Trade Traffic Manual Surf Exchange
 
-**Privacy Policy**|  24/06/2013 10:42:54 PM  
+**Privacy Policy**|  8/09/2013 05:46:22 AM  
 ---|---  
   
 * * *
