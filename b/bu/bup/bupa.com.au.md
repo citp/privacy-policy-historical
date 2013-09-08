@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bupa.com.au privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510214338id_/http%3A//www.bupa.com.au/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bupa.com.au privacy policy that was archived on 2013-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130909002744id_/http%3A//www.bupa.com.au/privacy-and-security) for the most accurate reproduction.*
 
 # Privacy and Security - Bupa
 
 ## Privacy
 
-Your privacy is important to us. Below is a summary of how Bupa handles personal information. For full details about our Information Handling Practices, please refer to our [Information Handling Policy](https://web.archive.org/staticfiles/BupaP3/pdfs/BUPA_Info_Handling_Policy.pdf) (pdf).
+Your privacy is important to us. Below is a summary of how Bupa handles personal information. For full details about our Information Handling Practices, please refer to our [Information Handling Policy](https://web.archive.org/staticfiles/BupaP3/pdfs/BUPA_Info_Handling_Policy.pdf) (PDF, 89.7Kb).
 
 We collect personal information (including information about your health) in various ways to enable us to provide you with our products and services.
 
@@ -30,34 +30,3 @@ From time to time, we may contact you (via mail, email, phone or SMS) to notify 
 ## Security
 
 This site uses SSL (Secure Socket Layer) encryption to keep your transactions secure and private. SSL is the industry standard for data encryption. It provides a secure link between your browser and our server, and scrambles your personal information to ensure it is kept private during transmission over the Internet.
-
-  * I need cover for... Please select your current status
-
-Single  Couple  Family  Single parent 
-
-  * My details are... Please tell us your age
-
-  * My location and needs... Please tell us what you're looking for
-
-
-
-
-The government now **income tests** the rebate on private health insurance. One way you can save up-front is to claim the rebate as a reduction on your premium, would you like to do that now? 
-
-Yes, apply my rebate at
-
-For individuals earning $84,000 ($168,000 for families*) or under. 
-
-*This increases by $1,500 per child after the first child
-
-For individuals earning between $84,001 - $97,000 (or $168,001 - $194,000 for families*). 
-
-*This increases by $1,500 per child after the first child
-
-For individuals earning between $97,001 - $130,000 (or $194,001 - $260,000 for families*). 
-
-*This increases by $1,500 per child after the first child
-
-For individuals earning $130,001 ($260,001 for families*) or more. 
-
-*This increases by $1,500 per child after the first child
