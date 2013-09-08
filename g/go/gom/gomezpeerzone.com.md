@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gomezpeerzone.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520112531id_/http%3A//www.gomezpeerzone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gomezpeerzone.com privacy policy that was archived on 2013-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130908053042id_/http%3A//www.gomezpeerzone.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Gomez PEER Zone
 
