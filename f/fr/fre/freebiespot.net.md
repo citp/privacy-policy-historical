@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freebiespot.net privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520221852id_/http%3A//www.freebiespot.net/4814/freebie-spots-disclosure-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freebiespot.net privacy policy that was archived on 2013-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130909110911id_/http%3A//www.freebiespot.net/4814/freebie-spots-disclosure-policy) for the most accurate reproduction.*
 
 # Freebie Spot Disclosure Policy and Privacy Policy | Freebie Spot
 
