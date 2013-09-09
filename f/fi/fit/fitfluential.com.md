@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fitfluential.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626000557id_/http%3A//fitfluential.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitfluential.com privacy policy that was archived on 2013-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130909065331id_/http%3A//fitfluential.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,3 +25,5 @@ allow to place ads on our Web pages. As a result of your visit to our site, ad 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice.  If our information practices change at some time in the future we will contact you before we use your data for these new purposes to notify you of the policy change and to provide you with the ability to opt out of these new uses.
 
 For any additional information, please contact FitFluential at the above email address.
+
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Ffitfluential.com%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
