@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the virginwines.co.uk privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604001926id_/http%3A//www.virginwines.co.uk/help/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginwines.co.uk privacy policy that was archived on 2013-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130909161753id_/https%3A//www.virginwines.co.uk/help/privacy.jsp) for the most accurate reproduction.*
 
-# Privacy Policy | Virgin Wines
+# Privacy policy | Help | Virgin Wines
 
 Virgin Wines Online Limited ("Virgin Wines") is totally committed to protecting the privacy of our site visitors and customers and to promoting the responsible consumption of alcohol. The Virgin Wines team members are customers themselves of other Internet sites and fully appreciate and respect the importance of privacy on the Internet. We will not disclose information about our customers to third parties except where it is part of providing a service to you - e.g. arranging for a product to be sent to you, carrying out credit and other security checks and for the purposes of customer research and profiling or where we have your express permission to do so.
 
