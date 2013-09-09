@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mygirlfund.com privacy policy that was archived on 2013-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130128183543id_/https%3A//mygirlfund.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mygirlfund.com privacy policy that was archived on 2013-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130909082222id_/https%3A//www.mygirlfund.com/privacypolicy) for the most accurate reproduction.*
 
 # MyGirlFund: Privacy Policy
 
@@ -63,14 +63,7 @@ You may access certain information about you for the purpose of viewing, updatin
 >  Consumer Protection Dept.  
 >  MGF LLC.  
 >  3525 Del Mar Heights Rd. #206  
->  San Diego, CA 92130
-> 
-> MGF UK, LTD  
->  Unit 150, Imperial Court  
->  Exchange Street East  
->  Liverpool  
->  L2 3AB
-> 
-> or e-mail: [support@mygirlfund.com](mailto:support@mygirlfund.com).
+>  San Diego, CA 92130  
+>  or e-mail: [support@mygirlfund.com](mailto:support@mygirlfund.com).
 
 If you have an inquiry or concern about our privacy policy, please contact us at the above address.
