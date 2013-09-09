@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seobizlink.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425203553id_/http%3A//www.seobizlink.com/seobizlink-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seobizlink.com privacy policy that was archived on 2013-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130909061750id_/http%3A//www.seobizlink.com/seobizlink-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
