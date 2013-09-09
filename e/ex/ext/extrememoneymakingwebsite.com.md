@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extrememoneymakingwebsite.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515023602id_/http%3A//extrememoneymakingwebsite.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extrememoneymakingwebsite.com privacy policy that was archived on 2013-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130909063815id_/http%3A//extrememoneymakingwebsite.com/policy.html) for the most accurate reproduction.*
 
 # Extreme Money
 
