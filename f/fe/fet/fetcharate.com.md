@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fetcharate.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510022036id_/http%3A//fetcharate.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fetcharate.com privacy policy that was archived on 2013-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130909150502id_/http%3A//fetcharate.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
