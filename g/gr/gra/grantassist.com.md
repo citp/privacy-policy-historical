@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grantassist.com privacy policy that was archived on 2013-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130310071604id_/http%3A//grantassist.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grantassist.com privacy policy that was archived on 2013-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130909191914id_/http%3A//www.grantassist.com/privacy_policy.php) for the most accurate reproduction.*
 
 # GrantAssist.com - Privacy Policy
 
@@ -65,7 +65,7 @@ All information submitted is protected by our secure server, which automatically
 
 **Reviewing Your Information  
 **  
-If you would like to review and update or correct the personally identifiable information that we have collected from you online, or if no longer wish to continue your service with us, simply submit your request via our [Contact Us](https://web.archive.org/web/20130310071604id_/http%3A//grantassist.com/contact_us.php "Contect Us") form. 
+If you would like to review and update or correct the personally identifiable information that we have collected from you online, or if no longer wish to continue your service with us, simply submit your request via our [Contact Us](https://web.archive.org/web/20130909191914id_/http%3A//www.grantassist.com/contact_us.php "Contect Us") form. 
 
 To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections. 
 
@@ -75,4 +75,4 @@ If we are going to use your personally identifiable information in a materially 
 
 **Contact Us  
 **  
-If you have any questions regarding this statement, or would like more information on our privacy practices, please contact us using our online [Contact Us](https://web.archive.org/web/20130310071604id_/http%3A//grantassist.com/contact_us.php "Contact Us") form. 
+If you have any questions regarding this statement, or would like more information on our privacy practices, please contact us using our online [Contact Us](https://web.archive.org/web/20130909191914id_/http%3A//www.grantassist.com/contact_us.php "Contact Us") form. 
