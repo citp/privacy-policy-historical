@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clippingmagic.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607034150id_/http%3A//clippingmagic.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clippingmagic.com privacy policy that was archived on 2013-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130909032001id_/http%3A//clippingmagic.com/policies/privacy) for the most accurate reproduction.*
 
 # Easily Remove Image Backgrounds Online - Clipping Magic
 
