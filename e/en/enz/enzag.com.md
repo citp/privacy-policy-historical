@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enzag.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606173653id_/http%3A//enzag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enzag.com privacy policy that was archived on 2013-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130909160426id_/http%3A//enzag.com/privacy-policy) for the most accurate reproduction.*
 
 # Enzag Privacy Policy - Enzag
 
@@ -25,4 +25,4 @@ Enzag.com also links to a wide variety of other sites. We are not responsible fo
 **Questions or Suggestions**  
 If you want to know more or have any questions concerning the privacy policies of Enzag.com, please feel free to contact us at **[admin@enzag.com](mailto:admin@enzag.com).**
 
-  [Article View] : 1959
+  [Article View] : 2761
