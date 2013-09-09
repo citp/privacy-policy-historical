@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the technipages.com privacy policy that was archived on 2013-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130327225725id_/http%3A//www.technipages.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technipages.com privacy policy that was archived on 2013-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130909044338id_/http%3A//www.technipages.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy & Affiliate Disclaimer — Technipages
+# Privacy Policy & Affiliate Disclaimer - Technipages
 
 This is the web site of **Technipages**.  
 Our postal address is  
@@ -8,6 +8,12 @@ Our postal address is
 Sioux Falls, SD 57105**
 
 We can be reached via e-mail at admin (at) technipages.com
+
+### Affiliate Disclaimer
+
+Some of the products mentioned on this site may include an affiliate link and provide Technipages and its owner(s) and contributes with of monetary earnings.
+
+### Privacy Policy
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/managing/opt_out.asp).
 
@@ -39,7 +45,3 @@ With respect to security: We have appropriate security measures in place in our 
 
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses. 
-
-### Affiliate Disclaimer
-
-While the comments and opinions reflected in the posts on this site are not influenced by our affiliate partners, we do post links to products from which take a percentage from. It is not our interest or desire to steer visitors to products they don’t need.
