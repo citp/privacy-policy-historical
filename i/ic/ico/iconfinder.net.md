@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iconfinder.net privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617052150id_/http%3A//www.iconfinder.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iconfinder.net privacy policy that was archived on 2013-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130909100701id_/https%3A//www.iconfinder.com/about/privacypolicy) for the most accurate reproduction.*
 
 # Privacy policy | Iconfinder
 
