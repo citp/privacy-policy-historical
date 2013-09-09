@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponvia.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624034706id_/http%3A//couponvia.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponvia.com privacy policy that was archived on 2013-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130909231807id_/http%3A//couponvia.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
