@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emedoutlet.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516103524id_/http%3A//www.emedoutlet.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emedoutlet.com privacy policy that was archived on 2013-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130909182344id_/http%3A//www.emedoutlet.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy ::Emedoutlet Online Pharmacy::
 
@@ -26,6 +26,18 @@ We welcome your inquiries. Please email us at [noreply@emedoutlet.com](mailto:no
 [ ](http://www.emedoutlet.com/invitefriends_step1.php "Online Drugstore Referral Discount Program")
 
 ### [View Testimonial](https://www.emedoutlet.com/testimonial_view.php)
+
+  * Kevin H
+
+Always good service and the best prices. Always reliable. ...
+
+  * Lashonda S
+
+I have placed several orders over the past couple of years and I did receive within the time specifi...
+
+  * louis s
+
+I received my product in a timely mannerfaster than I expectedgreat service!...
 
   * Donna R
 
@@ -62,18 +74,6 @@ recieved good quality meds as described highly recommend this site...
   * Alexandria M
 
 I was very nervous about ordering onlinethe price seemed to good to be true as well as previous cust...
-
-  * Edward N
-
-I just made my first order and paid about $20 for what was implied to be rapid shipping. No explanat...
-
-  * Caitlin M
-
-they make it so easy to order and affordable...
-
-  * terry m
-
-great website and very easy to navigate....
 
 
 
