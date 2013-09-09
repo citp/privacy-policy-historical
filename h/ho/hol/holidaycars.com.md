@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holidaycars.com privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505021511id_/http%3A//www.holidaycars.com/static.aspx%3Fmodule%3D11%26source%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidaycars.com privacy policy that was archived on 2013-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130909152951id_/http%3A//www.holidaycars.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
