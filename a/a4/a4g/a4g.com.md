@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the a4g.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614060322id_/http%3A//a4g.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a4g.com privacy policy that was archived on 2013-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130909220712id_/http%3A//a4g.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Ad4Game: The Internet's game Ad Network (about us)
 
