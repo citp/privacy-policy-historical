@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everythingmom.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517040118id_/http%3A//everythingmom.com/EverythingMom/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everythingmom.com privacy policy that was archived on 2013-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130909021735id_/http%3A//www.everythingmom.com/EverythingMom/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | EverythingMom | moms
 
@@ -8,7 +8,7 @@ Details
      Category: [EverythingMom](http://www.everythingmom.com/Table/moms/EverythingMom/)
      Published on Friday, 20 March 2009 11:34 
      Written by EMVA 
-     Hits: 15254 
+     Hits: 18346 
 
 **Overview**
 
