@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zefron.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429204624id_/http%3A//www.zefron.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zefron.com privacy policy that was archived on 2013-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130909080559id_/http%3A//www.zefron.com/privacy) for the most accurate reproduction.*
 
 # ZAC EFRON | ZEFRON.COM – Your first stop and #1 source for all the latest on Zac Efron!
 
