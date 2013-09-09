@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the cutandjacked.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529190254id_/http%3A//cutandjacked.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cutandjacked.com privacy policy that was archived on 2013-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130909192300id_/http%3A//www.cutandjacked.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Cut and Jacked
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
+
+\----------------------------------------------
 
 At CutAndJacked.com we are dedicated to safeguarding and preserving your privacy when visiting our site or communicating electronically with us.  
 This Privacy Policy, together with our terms of use, explains what happens to any personal data that you provide to us, or that we collect from you when you are on this site.  
@@ -64,5 +68,5 @@ iii. To assist fraud protection and minimise credit risk.
 
 You mind find links to third party websites on our website. These websites should have their own privacy policies which you should check. We do not accept any responsibility or liability for their policies whatsoever as we have no control over them.
 
- Please do not hesitate to contact us at admin [at] cutandjacked [dot] com  
+ Please do not hesitate to contact us at [admin@cutandjacked.com](mailto:admin@cutandjacked.com)  
  
