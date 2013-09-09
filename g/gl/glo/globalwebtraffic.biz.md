@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalwebtraffic.biz privacy policy that was archived on 2013-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130114094009id_/http%3A//globalwebtraffic.biz/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalwebtraffic.biz privacy policy that was archived on 2013-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130909142731id_/http%3A//globalwebtraffic.biz/privacy.php) for the most accurate reproduction.*
 
 # GlobalWebTraffic.biz
 
