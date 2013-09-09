@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bootyarcade.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601005023id_/http%3A//www.bootyarcade.com/index.php%3Fpageid%3D18) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bootyarcade.com privacy policy that was archived on 2013-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130909052400id_/http%3A//www.bootyarcade.com/index.php%3Fpageid%3D18) for the most accurate reproduction.*
 
 # Privacy Policy
 
