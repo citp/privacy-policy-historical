@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ivssc.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610153023id_/http%3A//www.ivssc.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ivssc.com privacy policy that was archived on 2013-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130909100200id_/http%3A//www.ivssc.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Increase Your Web Traffic | Submit Your Links | Submit Your Unique Articles - Privacy Policy
 
