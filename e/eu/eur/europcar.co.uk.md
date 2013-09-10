@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the europcar.co.uk privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522213751id_/http%3A//www.europcar.co.uk/EBE/module/render/security-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the europcar.co.uk privacy policy that was archived on 2013-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130910020403id_/http%3A//www.europcar.co.uk/EBE/module/render/security-and-privacy-policy) for the most accurate reproduction.*
 
-# Security and privacy policy
+# Privacy Policy | UK, France, Germany, Spain, Italy Europcar Car Hire
 
 ### Privacy Policy
 
 ### I What type of information do we collect ?
-
-**_Information collected about you_**
 
 Europcar.co.uk collects personal data that you voluntarily provide. This information is collected when you: 
 
   \- Register / Become a Europcar member  
   \- Make an online reservation  
   \- Enrol in a Europcar card programme  
-  \- Subscribe to Europcar Newsletter / Email alerts  
-  \- Participate in a survey, contest, or sweepstakes   
+  \- Subscribe to a Europcar Newsletter / Email alerts  
+  \- Participate in a survey, contest, or sweepstake  
   \- Contact Europcar 
+
+We may obtain information from third parties concerning you in deciding whether to rent a vehicle to you. 
 
 **Europcar Member information**   
 When you register to become a member of Europcar.co.uk, we collect your name, gender, date and place of birth, contact information (including your full name, phone number, email and street addresses) as well as passport and driving licence information. We also ask for your email address, password, and a secret question to retrieve your password. 
@@ -27,43 +27,113 @@ We may also collect information about each driver's car rental preferences, incl
 **Online Reservation information**   
 Europcar.co.uk collects the full name and contact information for a driver when a reservation is made. Europcar.co.uk will also collect credit card information, including card number, card type, cardholder name, and expiry date, in order to guarantee your reservation or bill you for prepaid reservations. Please view our Security section for additional information on Europcar's commitment to protecting your credit card security. 
 
-**Enrolment in a Europcar card programme  
-**When you enrol in a Europcar card programme, we collect your personal details, contact information, company contact details, driving licence and passport information, and your ‘Frequent Flyer' membership information. If you would like to benefit from the ‘Ready Service', you will be asked for your insurance and means of payment details. 
+**Enrolment in a Europcar card programme** **  
+** When you enrol in a Europcar card programme, we collect your personal details, contact information, company contact details, driving licence and passport information, and your ‘Frequent Flyer' membership information. If you would like to benefit from the ‘Ready Service', you will be asked for your insurance and means of payment details. 
 
 **Surveys, contests, and sweepstakes information**   
 Occasionally, Europcar.co.uk may offer members and site visitors an opportunity to participate in a survey, contest, or sweepstakes. Information collected by Europcar.co.uk when you participate in a survey, contest, or sweepstakes may include your contact information. 
 
-**Contacting Europcar  
-**Europcar.co.uk collects personal information such as your full name, your Europcar driver ID, email address, and/or contact information whenever you submit a question or suggestion, using the Contact Us section of Europcar.co.uk. 
+**Contacting Europcar** **  
+** Europcar.co.uk collects personal information such as your full name, your Europcar driver ID, email address, and/or contact information whenever you submit a question or suggestion, using the Contact Us section of Europcar.co.uk. 
 
-**Our partners  
-**Europcar has partnered with reputable third parties to offer Europcar members and site visitors a variety of travel services. All travel services throughout Europcar.co.uk that are provided by a third-party partner are described as such. Although we only work with reputable third parties, our business partners may have different privacy policies and practices than Europcar.co.uk. We encourage you to review our business partners' privacy policies to further understand their procedures for collecting, using, and disclosing your information. 
+**Our partners** **  
+** Europcar has partnered with reputable third parties to offer Europcar members and site visitors a variety of travel services. All travel services throughout Europcar.co.uk that are provided by a third-party partner are described as such. Although we only work with reputable third parties, our business partners may have different privacy policies and practices than Europcar.co.uk. We encourage you to review our business partners' privacy policies to further understand their procedures for collecting, using, and disclosing your information. 
 
-**_Other information collected_**
+**Other information collected**
 
-Information is collected automatically every time you visit Europcar.co.uk. Europcar.co.uk collects information about your computer and assigns you a "cookie" (a small, unique identifier text file) when you visit Europcar.co.uk. You do not provide this information-it is collected automatically as a means of supporting your visit to our site. 
+Information is collected automatically every time you visit Europcar.co.uk. Europcar.co.uk collects information about your machine or device and assigns you a "cookie" (a small, unique identifier text file) when you visit Europcar.co.uk. You do not provide this information-it is collected automatically as a means of supporting your visit to our site. 
 
 We use cookies and other technologies to facilitate and track your use of services offered on this website. These technologies may also be used in connection with html email sent by Europcar. 
 
-**Cookies and other Web technologies**
+**Cookies and other web technologies**
 
-We collect information about your computer for the purpose of assessing the effectiveness of site content and traffic. This data allows us to improve the quality of your visit by streamlining your ability to navigate the site and developing featured programmes and content that will be of interest to our members and site visitors. 
+We collect information about your machine or device for the purpose of assessing the effectiveness and relevancy of site content and traffic. This data allows us to improve the quality of your visit by streamlining your ability to navigate the site and developing featured programmes and content that will be of interest to our members and site visitors. 
 
 Europcar.co.uk uses three types of cookies: 
 
-\- Session cookies: These are used to track the user's progression through the site in a single visit. These are required for the site to function but are not used in any way to identify you personally. Session cookies are temporary and are automatically deleted once you leave Europcar.co.uk.  
-\- Persistent cookies: These are used to identify the users between visits. They are not required for the site to work but may enhance customer experience. We do not store any personal data in these cookies, just a unique number that identifies customers to us. Persistent cookies remain on your computer hard drive until you delete them.  
-\- Third party cookies: You may have noticed that we carry advertising from third parties on our site. Occasionally they may send you a cookie. We have no control over these. 
+  * Sess cookies: These are used to track the user's progression through the site in a single visit. These are required for the site to function but are not used in any way to identify you personally. Session cookies are temporary andare automatically deleted once you leave <http://www.europcar.co.uk/>
+  * Persistent cookies: These are used to identify our returning customers. They are not required for the site to work but enhance customer experience. We do not store any personal data in these cookies, just a unique number that identifies customers to us. Persistent cookies remain on your machine or device hard drive until you delete them. 
+  * Third party cookies: Third party cookies that are used by our business partners on europcar.co.uk. Please find below information on the use of third party cookies on Europcar.co.uk
+
+
+
+Partners 
+
+| 
+
+Information obtained 
+
+| 
+
+Cookie Identifier   
+  
+---|---|---  
+  
+ComScore/nedstats/Google Analytics 
+
+| 
+
+We use ComScore's software to carry out analysis of page use, page interactions and paths through Europcar.co.uk. We may also record certain information that our customers provide during an on site purchase or other process, such as name, email or booking reference. 
+
+This information allows us to identify customers and more accurately understand their individual behaviours and needs. This means that we can more easily tailor offers and information which may be of interest to individuals. We will only send marketing emails when customers have given us permission to do so. This information is not passed to third party companies for their use. Our digital marketing agency has access to this, to help increase the relevancy of our online marketing. 
+
+| 
+
+nedstats 
+
+Google Analytics   
+  
+DoubleClick 
+
+VeInteractive 
+
+| 
+
+Our online advertising suppliers, used for the purpose of serving our Internet advertisements on other sites. Some of our web pages may contain electronic images known as web beacons (sometimes known as clear gifs) that allow us to track user interactions on these pages. They may also report back some information to DoubleClick about the interaction performed. 
+
+We use Veinteractive's software to capture incomplete/abandoned data during the registration/booking process such as; name, email or booking reference. This may be used to send operational emails to enquire as to why the transaction was not completed 
+
+| 
+
+Double Click 
+
+TradeDoubler 
+
+Context Web 
+
+AOD 
+
+AOL 
+
+Google Adwords   
+  
+**How to manage cookies** **stored on your machine or device**
 
 Your browser or other software you install may permit you to restrict the use of session cookies, persistent cookies or all cookies. If you elect not to permit the use of session cookies, you will not be able to use our websites or certain features of our html email messages. If you elect not to permit the use of persistent cookies only, you may still enjoy the full functionality of our websites and html email; however, if you do so, you will need to re-enter some data when starting a new website session or opening (or re-opening) an html email. 
 
 Both session and persistent cookies may also be used in connection with html email sent by us. 
 
-In addition, certain of our web pages and html email messages incorporate "pixel tags"  that allow us to track the actions of users on our websites and recipients of our email communications.  Pixel tags are used to collect non-personally identifiable data that  helps us to determine popular destinations, average rental prices, quote and conversion rates, click-throughs and other information that can be used to improve our service to our customers. 
+There are a number of ways to manage cookies. If you use different machine or devices in different locations you will need to ensure that each [browser](http://www.allaboutcookies.org/faqs/browser.html) is adjusted to suit your cookie preferences. 
 
-**Computer information  
-**Europcar.co.uk collects certain technical information from your computer each time you request a page during a visit to Europcar.co.uk. This information is collected from your computer's web browser and may include your IP address, operating system, web browser software (e.g., Netscape Navigator or Internet Explorer), screen resolution, and referrer web site.   
+Some modern browsers have a feature that will analyse website privacy policies and allow a user to control their privacy needs. These are known as "P3P" features (Privacy Preferences Platform). 
 
+You can easily delete any cookies that have been installed in the cookie folder of your browser. For example, if you are using Microsoft Windows Explorer: 
+
+  * Open 'Windows Explorer' 
+  * Click on the 'Search' button on the tool bar 
+  * Type "cookie" into the search box for 'Folders and Files' 
+  * Select 'My Machine or device' in the 'Look In' box 
+  * Click 'Search Now' 
+  * Double click on the folders that are found 
+  * 'Select' any cookie file 
+  * Hit the 'Delete' button on your keyboard 
+
+
+
+If you are not using Microsoft Windows Explorer, then you should select "cookies" in the "Help" function for information on where to find your cookie folder. 
+
+**Machine or device information** **  
+** Europcar.co.uk collects certain technical information from your machine or device each time you request a page during a visit to Europcar.co.uk. This information is collected from your machine or device's web browser and may include your IP address, operating system, web browser software (e.g., Netscape Navigator or Internet Explorer), screen resolution, and referrer web site. 
 
 ### II. How we use the data we collect
 
@@ -75,21 +145,21 @@ Information collected on Europcar.co.uk may be used to:
   \- Respond to your questions or suggestions   
   \- Improve the quality of your visit to our site 
 
-   **Member registration information  
-**When you register to become a member of Europcar.co.uk, we use your information to create your member account. You will then receive a "Welcome to Europcar.co.uk" email that contains your Europcar driver ID and describes the benefits of using Europcar.co.uk for your car rental needs. 
+   **Member registration information** **  
+** When you register to become a member of Europcar.co.uk, we use your information to create your member account. You will then receive a "Welcome to Europcar.co.uk" email that contains your Europcar driver ID and describes the benefits of using Europcar.co.uk for your car rental needs. 
 
 **Online Reservation**  
 Information collected when you complete your member profile is used to confirm and process your reservation and rental, prepare your invoice, bill your credit card (when you reserve a prepaid rate) and send you a reservation confirmation email, and provide you with enhanced rental service at your request (Master Rental Agreement).  
  
 
-**Alerts notification   / On request vehicles & equipment  
-**In the event you have booked a vehicle or equipment that is on request and that happens to be unavailable, Europcar.co.uk may phone you or send you an email notification to inform you of this. 
+**Alerts notification   / On request vehicles & equipment** **  
+** In the event you have booked a vehicle or equipment that is on request and that happens to be unavailable, Europcar.co.uk may phone you or send you an email notification to inform you of this. 
 
-**Email notifications  
-**If you chose to receive communications from Europcar.co.uk about special promotions when registering as a Europcar.co.uk member, we may use your email address to send you information about surveys, contests, sweepstakes, promotions, special deals, or other opportunities on Europcar.co.uk and its marketing partners. We will use your email address or telephone number to contact you about changes to your reservation. 
+**Email notifications** **  
+** If you chose to receive communications from Europcar.co.uk about special promotions when registering as a Europcar.co.uk member, we may use your email address to send you information about surveys, contests, sweepstakes, promotions, special deals, or other opportunities on Europcar.co.uk and its marketing partners. We will use your email address or telephone number to contact you about changes to your reservation. 
 
-**Responses to your questions or suggestions  
-**We will use your email address or telephone number to respond when you submit a question or suggestion. 
+**Responses to your questions or suggestions** **  
+** We will use your email address or telephone number to respond when you submit a question or suggestion. 
 
 **Transfer of data collected**  
 In order to allow us to provide you with effective services, Europcar.co.uk may from time to time transfer data collected to other companies in the EU or outside the EU. Such transfer does not imply any restriction and our privacy policy will be fully applicable. By accepting this Privacy Policy, you hereby authorize Europcar International to proceed with such a transfer. 
@@ -131,10 +201,10 @@ We want our members and site visitors to feel confident about using Europcar.co.
   Europcar.co.uk is a safe and secure online environment. Our systems are configured with data encryption, or scrambling technologies, and industry-standard firewalls. When you send personal information to Europcar.co.uk over the Internet, your data is protected by Secure Socket Layer (SSL) technology to ensure safe transmission. 
 
 Every credit card transaction you make at Europcar.co.uk is done through our Secure Server Technology. This provides many security features, including:   
-Authentication: this assures your browser that your data is being sent to the correct computer server, and that the server is secure.   
+Authentication: this assures your browser that your data is being sent to the correct machine or device server, and that the server is secure.   
 Encryption: this encodes the data, so that it cannot be read by anyone other than the secure server.   
 Data Integrity: this checks the data being transferred to ensure it has not been altered.   
-Europcar.co.uk accepts 
+Europcar.co.uk accepts. 
 
 Link to [Verisign](https://digitalid.verisign.com/cgi-bin/Xquery.exe?Template=authCertByIssuer&form_file=../fdf/authCertByIssuer.fdf&issuerSerial=68fac9c34c7c3694d03c736ac1baf7d7) certificate.  
 
@@ -148,12 +218,11 @@ We make reasonable efforts to ensure that the personal data we have about you is
 Under the UK Data Protection Act, you have a right to access, update, correct or delete personal data collected by us. You may correct factual errors in that data by sending a request to us pointing out the error. You should contact our main office in the country in which you reside for information about how to exercise these rights. You will find the address of our headquarters in the "About Europcar Group" section on our website. 
 
 As an alternative, you may obtain the information by writing to us at:  
-Europcar UK Ltd  
-Europcar House  
-Aldenham Road  
-Bushey  
-Watford  
-WD23 2QQ 
+Europcar Group  
+James House  
+55 Welford Road  
+Leicester  
+LE2 7AR 
 
 To protect your privacy and security, we will take reasonable steps to verify your identity before granting access or making corrections 
 
@@ -167,11 +236,13 @@ At any time, you may decide that you do not want to receive any future marketing
 
 In addition, in our emails and other communications, we will include instructions on how to unsubscribe. 
 
-Europcar reserves the right to limit membership to those who will accept emails. Members will be notified via email prior to any actions taken 
+Europcar reserves the right to limit membership to those who will accept emails. Members will be notified via email prior to any actions taken. 
 
 ### VIII. Changes to the Privacy Policy
 
-This Privacy Policy was produced and posted on Europcar.co.uk on 6 April 2006. In the case of changes to the Privacy Policy by Europcar, such changes will be submitted to you and you will be asked to accept the new conditions. Should you refuse to do so we will be unable to provide you with the services available on the site.  
+This Privacy Policy was produced and posted on Europcar.co.uk on 6 April 2006. In the case of changes to the Privacy Policy by Europcar, such changes will be submitted to you and you will be asked to accept the new conditions. Should you refuse to do so we will be unable to provide you with the services available on the site. 
+
+  
 Regardless of later updates, we will abide by the information privacy practices described in this Privacy Policy at the time you provided us with your information. 
 
-If you have questions about our Privacy Policy, please email us. 
+If you have questions about our Privacy Policy, please email us at **[customerservicesuk@europcar.com](mailto:customerservicesuk@europcar.com "blocked::mailto:customerservicesuk@europcar.com")**
