@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kwaab.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616044202id_/http%3A//www.kwaab.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kwaab.com privacy policy that was archived on 2013-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130910080746id_/http%3A//www.kwaab.com/privacy_policy) for the most accurate reproduction.*
 
-# Kwaab - LIKE. WANT. HAVE.
+# Kwaab - LIKE. WANT. HAVE. Shop for the Best Online!
 
 **We take your privacy seriously.** Below you will find our policy. Virtual Boards Technologies Pvt. Ltd. is the corporate name for Kwaab (we formed the company before Kwaab existed!).
 
