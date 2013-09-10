@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newsmaker.com.au privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229135927id_/http%3A//www.newsmaker.com.au/pages/6-privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsmaker.com.au privacy policy that was archived on 2013-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130910111608id_/http%3A//www.newsmaker.com.au/pages/6) for the most accurate reproduction.*
 
-# Online Press Releases, Press Release Distribution, Press Release Service, Media Contacts
+# Privacy Policy
 
 At NewsMaker.com.au ("NewsMaker") we are committed to protecting the privacy and security of any personally identifiable information that you provide us. Personally identifiable information includes information that can be linked to a specific individual, such as name, address, phone number, or email address.
 
