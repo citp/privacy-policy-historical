@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the track-your-partner.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601140636id_/http%3A//www.trackapartner.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the track-your-partner.com privacy policy that was archived on 2013-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130910131326id_/http%3A//www.trackapartner.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Trackapartner.com
 
