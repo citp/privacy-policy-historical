@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solutioninn.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510115443id_/http%3A//www.solutioninn.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solutioninn.com privacy policy that was archived on 2013-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130910170754id_/http%3A//www.solutioninn.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Notice : Solution Inn, The source of all academic solutions
 
@@ -18,6 +18,9 @@ Your demographic information (gender, date of birth, etc.) will be used for seve
 
 Refer-A-Friend  
 If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Solution Inn does not store this information and uses it for the sole purpose of sending this one-time email.
+
+Credit Card information  
+We do not store credit card details nor do we share customer details with any 3rd parties.
 
 Our Use of Log Files  
 When you visit our site we automatically log your IP address, your browser type and your access times. We utilize this information to conduct site performance evaluations, to see where visitors are coming from and to keep track of click stream data (the screens our users visit on our site). This data helps us to determine what content our members find most appealing so that we can maximize your enjoyment of the site. Log files are not tied to personally identifiable information.
