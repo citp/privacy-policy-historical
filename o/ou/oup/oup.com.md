@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oup.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620055002id_/http%3A//global.oup.com/privacy%3Fcc%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oup.com privacy policy that was archived on 2013-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130910222330id_/http%3A//global.oup.com/privacy%3FAB%3DA%26cc%3Dus) for the most accurate reproduction.*
 
 # Oxford University Press - Privacy Policy
 
@@ -31,7 +31,7 @@ When you use our website (e.g. visit, register as a user, purchase products or s
 
 ### Use of cookies
 
-OUP uses “cookies” and other technologies on our website. The terms and conditions governing OUP's use of "cookies" and such other technologies on our website are set out in OUP's [Cookie Policy](http://global.oup.com/cookiepolicy/?AB=B&cc=us).
+OUP uses “cookies” and other technologies on our website. The terms and conditions governing OUP's use of "cookies" and such other technologies on our website are set out in OUP's [Cookie Policy](http://global.oup.com/cookiepolicy/?AB=A&cc=us).
 
 By using our website, you are agreeing to be bound by the terms of our Cookie Policy. 
 
