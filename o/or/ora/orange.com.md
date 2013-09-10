@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the orange.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614224031id_/http%3A//www.orange.com/en/Footer/Bas-de-footer/legal-matters/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orange.com privacy policy that was archived on 2013-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130910062408id_/http%3A//orange.com/en/Footer/Bas-de-footer/legal-matters/legal/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy
 
-This Privacy Policy explains how France Telecom SA (“Orange”) uses, shares and protects your personal information and is applicable to this Site. By accessing, browsing and/or using the Site you agree to the terms of this Privacy Policy.
+This Privacy Policy explains how Orange SA (“Orange”) uses, shares and protects your personal information and is applicable to this Site. By accessing, browsing and/or using the Site you agree to the terms of this Privacy Policy.
 
 ## 1\. your information
 
 By subscribing to all or part of publications  of Orange, you consent to receive such publication(s) that may include information in relation to products and services which Orange considers may be of interest to you. Orange will not share your email address with third parties.  
-If you have any questions about the handling or protection of your personal data, please contact the orange.com  manager at infos.groupe@orange.com
+If you have any questions about the handling or protection of your personal data, please contact the orange.com  manager at [infos.groupe@orange.com](mailto:infos.groupe@orange.com)
 
 ## 2\. supply and accuracy of information
 
@@ -37,7 +37,7 @@ Orange reserves the right to vary the terms of this Privacy Policy from time to 
 
 This Privacy Policy shall be governed and construed in accordance with the laws of France and you and Orange agree to submit to the jurisdiction of the courts of Paris, France, over any claim or matter arising under or in connection with this Privacy Policy.
 
-© 2012 France Telecom - Orange  
+© 2012 Orange  
 Last update: 2012, December, 4th
 
-last update: 28 February 2013
+last update: 24 June 2013
