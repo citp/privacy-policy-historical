@@ -1,14 +1,49 @@
-<!--The following is the downloaded HTML source of the prohealth.com privacy policy that was archived on 2013-01-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130116073156id_/https%3A//www.prohealth.com/shop/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the prohealth.com privacy policy that was archived on 2013-09-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130910043047id_/https%3A//www.prohealth.com/shop/privacy.cfm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><script type="text/javascript" src="/CFIDE/scripts/cfform.js"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><script type="text/javascript">_cf_loadingtexthtml="<img alt=' ' src='/CFIDE/scripts/ajax/resources/cf/images/loading.gif'/>";
+_cf_contextpath="";
+_cf_ajaxscriptsrc="/CFIDE/scripts/ajax";
+_cf_jsonprefix='//';
+_cf_clientid='5378334E8B9F4A070961271039653262';</script><script type="text/javascript" src="/CFIDE/scripts/ajax/messages/cfmessage.js"></script>
+<script type="text/javascript" src="/CFIDE/scripts/ajax/package/cfajax.js"></script>
+<script type="text/javascript" src="/CFIDE/scripts/ajax/yui/yahoo-dom-event/yahoo-dom-event.js"></script>
+<script type="text/javascript" src="/CFIDE/scripts/ajax/yui/animation/animation-min.js"></script>
+<script type="text/javascript" src="/CFIDE/scripts/ajax/yui/autocomplete/autocomplete-min.js"></script>
+<script type="text/javascript" src="/CFIDE/scripts/ajax/package/cfautosuggest.js"></script>
+<link rel="stylesheet" type="text/css" href="/CFIDE/scripts/ajax/autosuggest/resources/yui/yui.css">
+<link rel="stylesheet" type="text/css" href="/CFIDE/scripts/ajax/autosuggest/resources/cf/cf.css">
+<script type="text/javascript" src="/CFIDE/scripts/cfform.js"></script>
 <script type="text/javascript" src="/CFIDE/scripts/masks.js"></script>
 
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+
+
+	
+
+
+
+<!-- MyBuys libraries and style sheet - Place in <head> element -->
+<!-- For secure (HTTPS) pages, change the href in the link element and -->
+<!-- the src in both <script> tags to use 'https' instead of 'http' -->
+<link href="https://t.p.mybuys.com/clients/PROHEALTH/css/styles.css" type="text/css" rel="stylesheet" id="mybuysstyles">
+<script type="text/javascript" src="https://t.p.mybuys.com/js/mybuys4.js">
+</script>
+<script type="text/javascript" src="https://t.p.mybuys.com/clients/PROHEALTH/js/setup.js">
+</script>
+<!-- End MyBuys libraries and style sheet -->
+
+
+
 <script language="JavaScript" type="text/javascript" src="/public/js/common.js"></script>
+
 <!-- added by tds, 11/2/2012 for cart abandonment ajax procedures -->
-<script type="text/javascript" src="/public/js/jquery.1.5.1.min.js"></script>
+ 
 <!-- /added by tds, 11/2/2012 for cart abandonment ajax procedures -->
+
+
+
+
 <link rel="stylesheet" type="text/css" href="/public/css/common.css">
 
 	<link rel="stylesheet" type="text/css" href="/public/css/store.css">
@@ -26,24 +61,56 @@
 
 
 <script type="text/javascript">
-	if (window.ColdFusion) ColdFusion.required['searchText']=true;
+	ColdFusion.Ajax.importTag('CFAJAXPROXY');
 </script>
+
 <script type="text/javascript">
+	ColdFusion.Ajax.importTag('CFINPUT-AUTOSUGGEST');
+</script>
+
+	<script type="text/javascript">
+		var _cf_autosuggest_init_1378787448419=function()
+		{
+			var _cf_autosuggestarray=[];
+			
+			var _cf_autosuggestdatasource= new YAHOO.widget.DS_JSArray( _cf_autosuggestarray);
+			var _cf_autosuggest= new YAHOO.widget.AutoComplete( 'searchText','searchTextcontainer',_cf_autosuggestdatasource);
+			_cf_autosuggest.onbinderror=null;
+			_cf_autosuggest.prehighlightClassName = "yui-ac-prehighlight";
+			_cf_autosuggest.typeAhead = false;
+			_cf_autosuggest.maxResultsDisplayed = 10;
+			_cf_autosuggest.useShadow = true;
+			_cf_autosuggest.showloadingicon = false;
+			_cf_autosuggest.containerCollapseEvent.subscribe(ColdFusion.Autosuggest.triggerOnChange);
+			_cf_autosuggest.id='searchText'
+			_cf_autosuggest.valuePresent=false
+			_cf_autosuggest.queryDelay =0.0;
+			_cf_autosuggest.minQueryLength =1.0;
+			ColdFusion.objectCache["searchText"] = _cf_autosuggest;
+			document.getElementById("searchTextcontainer").style.left = document.getElementById("searchText").offsetLeft;
+			YAHOO.util.Event.addListener("searchText","keyup",_cf_onKeyUp_1378787448421,_cf_autosuggest);
+		};ColdFusion.Event.registerOnLoad(_cf_autosuggest_init_1378787448419);
+		_cf_onKeyUp_1378787448421=function( arg,autosuggest)
+		{
+			
+			var cfautosuggestvalue=document.getElementById('searchText').value;
+			if(document.getElementById('searchText').value.length >= 1){
+			if( ColdFusion.Autosuggest.checkToMakeBindCall(arg, "searchText", autosuggest, cfautosuggestvalue) ){
+			ColdFusion.Bind.cfcBindHandler(null, {'bindTo':ColdFusion.Autosuggest.loadAutoSuggest,'bindToAttr':'true','cfc':'/getAutoSuggestDataNew.cfc','cfcFunction':'get_data','bindExpr':[['suggestvalue',cfautosuggestvalue]], 'bindToParams': { 'autosuggestid':"searchText" }});
+				}
+			}
+		};
+		
+	</script>
+	<script type="text/javascript">
 <!--
-    _CF_checksearchForm = function(_CF_this)
+    _CF_checkgetdatanow = function(_CF_this)
     {
         //reset on submit
         _CF_error_exists = false;
         _CF_error_messages = new Array();
         _CF_error_fields = new Object();
         _CF_FirstErrorField = null;
-
-        //form element searchText required check
-        if( !_CF_hasValue(_CF_this['searchText'], "TEXT", false ) )
-        {
-            _CF_onError(_CF_this, "searchText", _CF_this['searchText'].value, "Please enter a search term(s)");
-            _CF_error_exists = true;
-        }
 
 
         //display error messages and return success
@@ -116,30 +183,42 @@
 </script>
 </head>
 
-<body style="background-image: url('https://www.prohealth.com/public/img/navigation/backgroundGradientTop.gif'); background-repeat:repeat-x;  margin: 0px; padding-top: 10px; height: 100%;">
+<body style="margin: 0px; padding-top: 10px; height: 100%;"><span></span> 
 
-<div id="siteBGbottom">
+<div>
 
 <table cellpadding="0" cellspacing="0" width="960" align="center">
  <tbody><tr>
-  <td align="left" valign="top">
+  <td align="left" width="406">
   
-  <a href="http://www.prohealth.com" title="ProHealth Vitamin and Natural Supplement Store and Health Research"><img src="https://www.prohealth.com/public/img/navigation/phLogo.png" alt="ProHealth health Vitamin and Natural Supplement Store and Health" border="0"></a>
+  <a href="http://www.prohealth.com" title="ProHealth Vitamin and Natural Supplement Store and Health Research"><img src="/public/img/navigation/phLogo.png" alt="ProHealth health Vitamin and Natural Supplement Store and Health" border="0"></a>
 
   
   </td>
-  <td align="right" class="blue" valign="top" style="padding-top: 20px;">
+  <td align="right" width="554" style="margin-bottom: 12px;">
    
-   <table cellpadding="0" cellspacing="0">
+   <table cellpadding="0" cellspacing="0" valign="bottom" width="100%">
     <tbody><tr>
-	 <td valign="bottom">
-	 <a href="https://www.prohealth.com/shop/ssllogin.cfm">Log In</a> 
-&nbsp;|&nbsp; <a href="https://www.prohealth.com/shop/account_manager.cfm" rel="nofollow">My Account</a> 
-&nbsp;|&nbsp; <a href="https://www.prohealth.com/shop/1viewcart.cfm" rel="nofollow">Shopping Cart</a>
-	 </td>
+	 <td align="right" width="359" style="padding-right: 5px;">
+	 <a href="https://www.prohealth.com/shop/ssllogin.cfm" class="headerNavLink">Log In</a> &nbsp;|&nbsp; <a href="https://www.prohealth.com/shop/account_manager.cfm" rel="nofollow" class="headerNavLink">My Account</a> &nbsp;|&nbsp; <a href="https://www.prohealth.com/shop/1viewcart.cfm" rel="nofollow" class="headerNavLink">View Cart</a> &nbsp;<a href="https://www.prohealth.com/shop/1viewcart.cfm" rel="nofollow"><img src="/public/img/navigation/icon_viewCart.png" alt="View Your ProHealth Vitamin and Supplement Shopping Cart" border="0" style="position: relative; top: 3px;"></a> 
 	 
-	</tr>
-   </tbody></table>
+	  
+	 <div style="padding-top: 9px; padding-bottom: 3px;">
+		<span style="font-weight: bold;" class="blue">800-366-6056</span> 
+         &nbsp;|&nbsp;  <a href="https://www.prohealth.com/shop/customerService.cfm" class="headerNavLink">Contact Us</a> 
+		 &nbsp;|&nbsp;  <a href="https://www.prohealth.com/shop/customerService.cfm" class="headerNavLink">Help</a>
+	 </div>
+	 </td>
+
+	   <td align="right" width="195">
+		 <a href="https://www.facebook.com/ProHealthInc" target="_blank"><img src="/public/img/navigation/icon_facebook2.png" alt="ProHealth on Facebook" border="0"></a>&nbsp;
+		 <a href="http://twitter.com/ProHealth" target="_blank"><img src="/public/img/navigation/icon_twitter2.png" alt="ProHealth on Twitter" border="0"></a>&nbsp;
+		 <a href="http://pinterest.com/prohealthinc" target="_blank"><img src="/public/img/navigation/icon_pinterest2.png" alt="ProHealth on Pinterest" border="0"></a>&nbsp;
+		 <a href="https://plus.google.com/109939955869600477776" target="_blank"><img src="/public/img/navigation/icon_googlePlus2.png" alt="ProHealth on Google Plus" border="0"></a>
+		</td>
+	 </tr>
+	</tbody></table>
+
   
    
    		
@@ -171,38 +250,101 @@
 
 	
 	
-	<form name="searchForm" id="searchForm" action="/shop/search/resultsRedirect.cfm" method="post" style="margin: 0px; padding-top: 7px;" onsubmit="return _CF_checksearchForm(this)">
+
+	
+	
+	<form name="getdatanow" id="getdatanow" action="/shop/search/resultsRedirect.cfm" method="GET" style="margin: 0px; padding-top: 7px;" onsubmit="return _CF_checkgetdatanow(this)">
 		<input type="hidden" name="siteSearch" value="true">
 
 
 <input type="hidden" name="site" value="products"> 
+ 
+
+<div style="float: right;">
+
+
+
+	
+
+
+	
+		<script type="text/javascript">
+			addAutoSuggestFunctionalitysearchText = function(autoId){
+				if(ColdFusion.objectCache[autoId]){
+					var autoObj = ColdFusion.objectCache[autoId];
+					
+						
+					autoObj.typeAhead = false;
+					autoObj.maxResultsDisplayed = 10;
+					autoObj.useShadow = true;
+					autoObj.prehighlightClassName = 'yui-ac-prehighlight';
+					autoObj.highlightClassName = 'yui-ac-highlight';
+					autoObj.forceSelection = false;
+					autoObj.autoHighlight = false;
+					autoObj.animVert = true;
+					autoObj.animHoriz = false;
+					autoObj.animSpeed = 0.3;
+					
+					if(autoObj.dataSource){
+						autoObj.dataSource.queryMatchContains = false;
+						autoObj.dataSource.queryMatchSubset = false;
+						autoObj.dataSource.queryMatchCase = false;
+					}
+				}
+				
+				// ensures this code only gets executed once:
+				document.getElementById(autoId).onfocus = '';
+			}
+		</script>
+	
+	
 		
+	
+	
+    
+<div id="searchTextautosuggest" class="autosuggest yui-ac">
+	<div style="float:left;">
+		<input name="searchText" id="searchText" type="text" class="autosuggestinput yui-ac-input" highlightclassname="yui-ac-highlight" style="width: 400px; height: 25px; font-size: 1.5em; margin-right: 0; padding-right: 0; float: left;" prehighlightclassname="yui-ac-prehighlight" onfocus="addAutoSuggestFunctionalitysearchText(this.id)" querymatchcontains="false" querymatchcase="false" querymatchsubset="false" autocomplete="off">
+	 </div><div id="searchTextcontainer" class="autosuggestcontainer yui-ac-container" style="float: left; left: 0px;">
 		
-		<input name="searchText" id="searchText" type="text" style="width: 235px;">
-        <input name="submit" id="submit" type="image" src="https://www.prohealth.com/public/img/navigation/btn_search.gif" style="vertical-align: middle; padding-bottom: 4px;">
+	 <div class="yui-ac-content" style="display: none;"><div class="yui-ac-hd" style="display: none;"></div><div class="yui-ac-bd"><ul><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li></ul></div><div class="yui-ac-ft" style="display: none;"></div></div></div>
+ </div>
+
+
+ 
+
+
+
+		
+			
+		
+        <div style="float: right;"><input name="submit" id="submit" type="image" value="submit" src="/public/img/navigation/btn_topNavSearch2.gif" style="vertical-align: middle; padding-bottom: 6px; padding-left: 5px; float: left;"></div>
+		
+
+</div>
 	
 
 		</form>
 
   
   
-
-  <div style="margin-top: 5px; font-size: 11pt; font-weight: bold;" class="blue">Call Us at 800-366-6056</div>
   </td>
  </tr>
  
  <tr>
-  <td colspan="2" align="center" style="padding-top: 5px; padding-bottom: 15px;">
-   <table cellpadding="0" cellspacing="0" width="100%">
-    <tbody><tr>
-	 <td align="center" class="navBG_1" width="170"><a href="http://www.prohealth.com/shop/index.cfm" class="topNav">SHOP PRODUCTS</a></td>
-	 <td align="center" class="navBG_2" width="223"><a href="http://www.prohealth.com/me-cfs/index.cfm" class="topNav">CHRONIC FATIGUE SYNDROME</a></td>
-	 <td align="center" class="navBG_3" width="137"><a href="http://www.prohealth.com/fibromyalgia/index.cfm" class="topNav">FIBROMYALGIA</a></td>
-	 <td align="center" class="navBG_4" width="167"><a href="http://www.prohealth.com/library/researchlibrary.cfm" class="topNav">RESEARCH LIBRARY</a></td>
-	 <td align="center" class="navBG_5" width="130"><a href="http://www.prohealth.com/community/index.cfm" class="topNav">COMMUNITY</a></td>
-	 <td align="center" class="navBG_6" width="133"><a href="http://www.prohealth.com/aboutus/index.cfm" class="topNav">ABOUT US</a></td>
-	</tr>
-   </tbody></table>
+  <td colspan="2" align="center" style="padding-top: 17px; padding-bottom: 12px; color: #6daf56; font-size: 12pt;">
+  <div style="float: left;"><a href="http://www.prohealth.com/fibromyalgia/index.cfm" class="topNav">Fibromyalgia</a></div>
+  <div style="float: left;">|</div>
+  <div style="float: left;"><a href="http://www.prohealth.com/me-cfs/index.cfm" class="topNav">Chronic Fatigue Syndrome / ME</a></div>
+  
+  <div style="float: left;" class="topNavBG"><a href="http://www.prohealth.com/shop/index.cfm" class="topNavOn">Shop</a></div>
+  
+  <div style="float: left;"><a href="http://www.prohealth.com/library/index.cfm" class="topNav">Supplement News</a></div>
+  <div style="float: left;">|</div>
+  <div style="float: left;"><a href="http://www.prohealth.com/community/index.cfm" class="topNav">Community</a></div>
+  <div style="float: left;">|</div>
+  <div style="float: left;"><a href="http://www.prohealth.com/aboutus/index.cfm" class="topNav">Our Story</a></div>
+  
   </td>
  </tr>
  
@@ -217,20 +359,36 @@
 
 
 <table cellpadding="0" cellspacing="0" width="100%" border="0">
- <tbody><tr>
-  <td style="width: 160px;" valign="top">
+<tbody><tr>
+ <td align="center">
+  
+	   
+	
+	 
+	 
+		
+		
+		
+			<a href="https://www.prohealth.com/shop/index.cfm?B2=BNR090113&amp;B3=BNR090113&amp;utm_source=BNR090113&amp;utm_campaign=Site-Banner-Store-Nav"><img src="https://www.prohealth.com/public/img/shop/banners/160x185_10-Off-75-FS.jpg" alt="$10 Off $75 Vitamins Orders" border="0" style="margin-bottom: 7px;"></a>
+			<br>
+		
+	 
+ </td>
+</tr>
+ <tr>
+  <td style="width: 160px;margin: 0; padding-left: 4px; padding-right: 4px;" valign="top" class="greenGradientRoundedCornersNoShadow">
+<a href="https://www.prohealth.com/shop"><img src="https://www.prohealth.com/public/img/navigation/icon_healing-store-small.png" alt="The Healing Store" border="0" style="display: block; margin-left: auto; margin-right: auto; padding-top: 10px;"></a><br>
+		<div style="text-align: center; font-size: 9pt; font-weight: bold; margin-bottom: 15px;">
+		We donate 10% of profits<br>
+		<span style="font-size: 8pt;">Learn why in <a href="http://www.prohealth.com/aboutus/index.cfm" class="blue" style="text-decoration: underline;">Our Story</a></span>
+		<hr>
+    	</div>
    <table cellpadding="0" cellspacing="0">
    
-    <tbody><tr>
-	 <td align="center"><a href="https://www.prohealth.com/shop/customerService.cfm"><img src="https://www.prohealth.com/public/img/navigation/shop/customerService.gif" alt="Contact Customer Service with vitamin and supplement questions" border="0" width="140" height="26"></a><br><br>
-<img src="https://www.prohealth.com/public/img/shop/creditcards.gif" alt="">
      
-	 
-	 </td>
-	</tr>
 	
-	<tr>
-	 <td style="padding-top: 15px;"><strong class="blue">WAYS TO SHOP</strong></td>
+	<tbody><tr>
+	 <td><strong class="green" style="font-size: 1.1em;">WAYS TO SHOP</strong></td>
 	</tr>
 	
 	<tr>
@@ -249,6 +407,19 @@
 	 <a href="https://www.prohealth.com/shop/dsp/index.cfm" class="nav">SmartSavings Club</a><br>
 	 
 	 
+	 
+	 
+	 </td>
+	</tr>
+	
+	<tr>
+	 <td style="padding-top: 15px;"><strong class="green" style="font-size: 1.1em;">CUSTOMER SERVICE</strong></td>
+	</tr>
+	<tr>
+	 <td style="padding-left: 10px;">
+	 (800) 366-6056<br>
+	 <a href="https://www.prohealth.com/shop/customerService.cfm" class="nav">Contact Us</a><br>
+	 <a href="https://www.prohealth.com/shop/shipping.cfm" class="nav">Shipping Information</a><br>
 	 </td>
 	</tr>
 	
@@ -268,7 +439,7 @@
 
 
 
-<strong class="blue">PRODUCT CATEGORIES</strong><br>
+<strong class="green" style="font-size: 1.1em;">PRODUCT CATEGORIES</strong><br>
 	
 		
 		
@@ -285,7 +456,7 @@
 	
 	<br>
 
-<strong class="blue">HEALTH TARGET</strong><br>
+<strong class="green" style="font-size: 1.1em;">HEALTH TARGET</strong><br>
 	
 		
 		
@@ -404,7 +575,7 @@
 	
 	<br>
 
-<strong class="blue">YOUR BODY</strong><br>
+<strong class="green" style="font-size: 1.1em;">YOUR BODY</strong><br>
 	
 		
 		
@@ -469,7 +640,7 @@
 	
 	<br>
 
-<strong class="blue">HEALTH CONCERN</strong><br>
+<strong class="green" style="font-size: 1.1em;">HEALTH CONCERN</strong><br>
 	
 		
 		
@@ -512,7 +683,7 @@
 	
 	<br>
 
-<strong class="blue">SUPPLEMENT TYPE</strong><br>
+<strong class="green" style="font-size: 1.1em;">SUPPLEMENT TYPE</strong><br>
 	
 		
 		
@@ -571,7 +742,7 @@
 	
 	<br>
 
-<strong class="blue">HEALTHY LIVING</strong><br>
+<strong class="green" style="font-size: 1.1em;">HEALTHY LIVING</strong><br>
 	
 		
 		
@@ -617,47 +788,46 @@
 	
 
 	
-	<tr>
-	 <td style="padding-top: 15px;"><strong class="blue">HEALTH TOPICS</strong></td>
-	</tr>
 
 	
+	
 	<tr>
-	 <td>
-	
-	
-		<a href="http://www.prohealth.com/me-cfs/index.cfm" class="navStore">Chronic Fatigue Syndrome/ME</a>
-	
-		<a href="http://www.prohealth.com/fibromyalgia/index.cfm" class="navStore">Fibromyalgia</a>
-	
-	
-	
-	 </td>
+	 <td align="center">   
+     <a href="https://www.prohealth.com/shop/catalog"><img src="https://www.prohealth.com/public/img/navigation/catalog_current.png" alt="ProHealth Vitamin and Supplement Catalog" border="0" style="margin-top: 7px;" width="125" height="150"></a>
+     <br>
+     <a href="https://www.prohealth.com/shop/catalog"><img src="https://www.prohealth.com/public/img/navigation/btn_freeCatalog.gif" alt="ProHealth Health &amp; Wellness Research &amp; News Catalog" border="0" style="padding-top: 3px; padding-bottom: 7px; margin-top: 3px; margin-bottom: 3px;" width="98" height="18"></a>
+     </td>
 	</tr>
 	
-	<tr>
-	 <td style="height: 20px;"></td>
-	</tr>
 	
-
+	
+	
+   </tbody></table>
+  </td>
+  </tr>
+  
+  
+  
 
 	<tr>
-	 <td>
-	 <div class="roundedCorners" style="padding: 7px; background-color: #f4c64c;">
-<strong class="red">FREE</strong> <strong class="blue">E-Newsletter</strong>
+	 <td><br>
+	 <div class="blueGradientRoundedCorners" style="padding: 5px;">
+	 <span style="position: relative; float: right; top: 0px; right: -5px; z-index: 2;"><img src="/public/img/navigation/icon_newspaper-small.png" alt="Free Chronic Fatigue Syndrome and Fibromyalgia Newsletters"></span>
+<div style="font-size: 10pt; color: #000000; line-height: 1.1em; padding-top: 3px; font-weight: bold;">Subscribe to Our FREE Newsletter</div>
+		<div style="font-size: 9pt; color: #000000; padding-top: 10px;">Receive up-to-date ME/CFS &amp; Fibromyalgia treatment &amp; research news</div>
 
 	 
  
 <form name="emailForm" id="emailForm" action="/bulletins/subscribe.cfm" method="post" style="margin: 0; padding-top: 3px; padding-bottom: 2px;" onsubmit="return _CF_checkemailForm(this)">
 	<div style="border: 1px solid #CCCCCC; padding: 2px; margin: 0; background-color: #FFFFFF;">
-	<input name="email" id="email" type="text" value=" E-Mail Address" onfocus="this.value='';" style="font-size: 8pt; color: #666666; margin: 0; width: 95px; border: none;">
-	<input name="push" id="push" type="hidden" value="start">
-	<input name="submitNewsletter" id="submitNewsletter" type="image" src="/public/img/navigation/btn_newsletterGo.gif" style="vertical-align: middle; text-align: right;"> 
-	</div>
-</form>
+			<input name="email" id="email" type="text" value=" Enter Email Address" onfocus="this.value='';" style="font-size: 9pt; color: #666666; margin: 0; padding: 0; width: 115px; height: 21px; border: none;">
+			<input name="push" id="push" type="hidden" value="start">
+			<input name="submit" id="submit" type="image" src="/public/img/navigation/btnG_newsletterGo.gif" style="vertical-align: middle; float: right; padding-right: 2px;"> 
+			</div>
+		</form>
 
+		<div style="font-size: 0.9em; padding-top: 4px;">&nbsp;<a href="https://www.prohealth.com/shop/privacy.cfm" class="blueLink">Privacy</a> &nbsp; | &nbsp; <a href="http://www.prohealth.com/bulletins/index.cfm" class="blueLink">View Archives</a></div>
 
-<a href="http://www.prohealth.com/bulletins/index.cfm" class="smText">View Archives</a>
 </div>
 	 </td>
 	</tr>
@@ -665,20 +835,8 @@
 	<tr>
 	 <td style="height: 20px;"></td>
 	</tr>
-	
-	<tr>
-	 <td align="center">   
-     <a href="https://www.prohealth.com/shop/catalog"><img src="https://www.prohealth.com/public/img/navigation/catalog_current.png" alt="ProHealth Vitamin and Supplement Catalog" border="0" style="margin-top: 7px;" width="125" height="150"></a>
-     <br>
-     <a href="https://www.prohealth.com/shop/catalog"><img src="https://www.prohealth.com/public/img/navigation/btn_freeCatalog.gif" alt="ProHealth Health &amp; Wellness Research &amp; News Catalog" border="0" style="padding-top: 3px; padding-bottom: 3px; margin-top: 3px; margin-bottom: 3px;" width="98" height="18"></a>
-     </td>
-	</tr>
-	
-	
 
-   </tbody></table>
-  </td>
-  </tr>
+
  </tbody></table>
  </td>
 	
@@ -695,6 +853,23 @@
 	 	
 		
 	 
+	 
+
+
+
+
+
+
+
+
+
+
+
+
+
+	 
+
+
  
 
 
@@ -798,7 +973,7 @@ Fax: (805) 963-4515 </blockquote>
 These statements have not been evaluated by the Food and Drug Administration. These products are not intended to diagnose, treat, cure, or prevent any disease.</span>
 <br><br>
 
-  <a href="http://www.prohealth.com/aboutus/index.cfm" class="footerText">ABOUT US</a> &nbsp; | &nbsp; <a href="http://www.prohealth.com/aboutus/aml.cfm" class="footerText">ADVANCED MEDICAL LABS</a> &nbsp; | &nbsp; <a href="http://www.prohealth.com/wholesale/index.cfm" class="footerText">WHOLESALE</a> &nbsp; | &nbsp; <a href="http://www.prohealth.com/affiliates/index.cfm" class="footerText">AFFILIATES</a> &nbsp; | &nbsp; <a href="https://www.prohealth.com/shop/quality.cfm" class="footerText">GUARANTEE</a> &nbsp; | &nbsp; <a href="https://www.prohealth.com/shop/customerService.cfm" class="footerText">CONTACT US</a> &nbsp; | &nbsp; <a href="https://www.prohealth.com/shop/privacy.cfm" class="footerText">PRIVACY</a> &nbsp; | &nbsp; <a href="http://www.prohealth.com/feeds/feedsList.cfm" class="footerText">RSS</a> &nbsp; | &nbsp; <a href="http://www.prohealth.com/sitemap.cfm" class="footerText">SITE MAP</a> &nbsp; | &nbsp; 1.800.366.6056 &nbsp; &nbsp; <a href="http://www.facebook.com/pages/ProHealth/57430136094"><img src="https://www.prohealth.com/public/img/navigation/icon_facebook_24x24.png" alt="Find ProHealth on Facebook" border="0"></a> &nbsp; <a href="http://twitter.com/ProHealth"><img src="https://www.prohealth.com/public/img/navigation/icon_twitter_24x24.png" alt="Follow ProHealth on Twitter" border="0"></a> &nbsp; <a href="http://pinterest.com/prohealthinc"><img src="https://www.prohealth.com/public/img/navigation/icon_pinterest_24x24.png" alt="ProHealth on Pinterest" border="0"></a>
+  <a href="http://www.prohealth.com/aboutus/aml.cfm" class="footerText">ADVANCED MEDICAL LABS</a> &nbsp; | &nbsp; <a href="http://www.prohealth.com/wholesale/index.cfm" class="footerText">WHOLESALE</a> &nbsp; | &nbsp; <a href="http://www.prohealth.com/affiliates/index.cfm" class="footerText">AFFILIATES</a> &nbsp; | &nbsp; <a href="https://www.prohealth.com/shop/quality.cfm" class="footerText">GUARANTEE</a> &nbsp; | &nbsp; <a href="https://www.prohealth.com/shop/customerService.cfm" class="footerText">CONTACT US</a> &nbsp; | &nbsp; <a href="https://www.prohealth.com/shop/privacy.cfm" class="footerText">PRIVACY</a> &nbsp; | &nbsp; <a href="http://www.prohealth.com/feeds/feedsList.cfm" class="footerText">RSS</a> &nbsp; | &nbsp; <a href="http://www.prohealth.com/sitemap.cfm" class="footerText">SITE MAP</a> &nbsp; | &nbsp; 1.800.366.6056 &nbsp; &nbsp; 
 <br>
 <a href="https://www.prohealth.com/shop/customerService.cfm" style="text-decoration: underline;">Email us</a> or call toll-free 1-800-366-6056 <b>·</b> Monday through Friday, 7 a.m. - 5 p.m. Pacific Time<br>
   International Callers dial 001.805.564.3064 <b>·</b> Copyright © 2013 ProHealth, Inc.<br>
@@ -811,8 +986,7 @@ These statements have not been evaluated by the Food and Drug Administration. Th
  	<table cellpadding="7" cellspacing="0">
   	<tbody><tr>
    	<td align="center"><script type="text/javascript" src="https://sealserver.trustwave.com/seal.js?code=w6oj3BlmFpqOQRKHKITROViTZidqDb"></script>
-	<br><br>
-	<img src="https://www.prohealth.com/public/img/shop/creditcards.gif" alt="">
+	
 	</td>
    	<td>
   	 <!-- (c) 2005, 2011. Authorize.Net is a registered trademark of CyberSource Corporation --> <div class="AuthorizeNetSeal"> <script type="text/javascript" language="javascript">var ANS_customer_id="5b1517eb-b944-484b-9b5f-260ede5b989e";</script> <script type="text/javascript" language="javascript" src="//verify.authorize.net/anetseal/seal.js"></script> <a href="http://www.authorize.net/" id="AuthorizeNetText" target="_blank">Credit Card Processing</a> </div>
@@ -850,6 +1024,14 @@ pageTracker._trackPageview();
 
 
 
+
+
+
+<!-- MyBuys Page Initialization - Place after </body> tag -->
+<script type="text/javascript">
+  mybuys.initPage();
+</script>
+<!-- End MyBuys Page Initialization -->
 
 
 
