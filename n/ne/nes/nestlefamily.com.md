@@ -1,13 +1,16 @@
-> *The following text is extracted and transformed from the nestlefamily.com privacy policy that was archived on 2012-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120904124829id_/http%3A//www.nestlefamily.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nestlefamily.com privacy policy that was archived on 2013-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130910052851id_/http%3A//www.nestlefamily.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Nestlé Family
 
 | 
 
 Effective: 5/15/2012  
-Last Updated On: 5/15/2012
+Last Updated On: 3/14/2013
 
-| [](http://www.truste.org/ivalidate.php?companyName=Nestle%20USA,%20Inc.&sealid=101)  
+| 
+
+[](http://privacy.truste.com/privacy-seal/Nestle-USA,-Inc-/validation?rid=a0441b14-29fd-490b-99a1-3c9b1bf5572e "TRUSTe online privacy certification")  
+  
 ---|---  
   
 ### Nestlé USA Consumer Privacy Policy
@@ -103,7 +106,11 @@ __Website usage info__
 
 This includes information about how you use and navigate our websites and applications, including which links you click on, which pages or content you view and for how long, and other similar information and statistics about your interactions with a Nestlé USA website or application (e.g., date and time of visit, which site you came from, favorite recipes and site activities, high game scores, etc.). This information is captured using automated technologies such as browser cookies, flash cookies, and web beacons, and may also be collected through the use of third party tracking services (such as Google Analytics) that collect data in aggregate (such as number of visits to a particular page, or the amount of time spent on a web site). We may also use these technologies, such as web beacons, to capture information about how users respond to certain email campaigns (e.g., time the email is opened, where user links to from the email, etc.). Website usage information may be linked to your personal contact information for web site personalization and marketing purposes.
 
-Please note that “flash” cookies are different from "browser” cookies because of the way in which flash cookies capture and store data. Your browser’s cookie management tools will not remove flash cookies. To learn how to manage privacy settings for Flash cookies, please click here.
+Please note that “flash” cookies are different from "browser” cookies because of the way in which flash cookies capture and store data. Your browser’s cookie management tools will not remove flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here:
+
+<http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118>
+
+We also partner with a third party ad network to either display advertising on our website or to manage our advertising on other sites. Our ad network partner uses cookies and web beacons to collect non-personally identifiable information about your activities on this and other websites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://www.networkadvertising.org/managing/opt_out.asp). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
 Back to top
 
@@ -311,7 +318,7 @@ Back to top
 
 __We have been awarded the TRUSTe Privacy Seal__
 
-Nestlé USA has been awarded the TRUSTe Privacy Seal, signifying that this privacy policy and our website practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements, including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s certification applies to websites identified when clicking on TRUSTe’s "CERTIFIED PRIVACY" seal. If you have questions or complaints regarding our Privacy Policy or practices, please contact Consumer Services. If you are not satisfied with our response, you can also contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+Nestlé USA has been awarded the TRUSTe Privacy Seal, signifying that this privacy policy and our website practices have been reviewed by TRUSTe for compliance with TRUSTe's [program requirements](http://www.truste.com/privacy-program-requirements/), including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s certification applies to websites identified when clicking on TRUSTe’s "CERTIFIED PRIVACY" seal. If you have questions or complaints regarding our Privacy Policy or practices, please contact Consumer Services. If you are not satisfied with our response, you can also contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 Back to top
 
