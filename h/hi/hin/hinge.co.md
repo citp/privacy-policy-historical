@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hinge.co privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503001720id_/http%3A//hinge.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hinge.co privacy policy that was archived on 2013-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130910151429id_/http%3A//www.hinge.co/privacy) for the most accurate reproduction.*
 
 # Hinge2 Privacy Policy
 
