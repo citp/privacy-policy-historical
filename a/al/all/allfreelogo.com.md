@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allfreelogo.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509200846id_/http%3A//www.allfreelogo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allfreelogo.com privacy policy that was archived on 2013-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130910174132id_/http%3A//www.allfreelogo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,8 +30,8 @@ If you feel that this site is not following its stated information policy, you m
 
 In accordance with the Digital Millennium Copyright Act of 1998 (the text of which may be found on the U.S. Copyright Office website at <http://lcweb.loc.gov/copyright/>, AllFreeLogo will respond expeditiously to claims of copyright infringement that are reported to AllFreeLogo. If you are a copyright owner, or are authorized to act on behalf of an owner of the copyright or of any exclusive right under the copyright, and believe that your work has been copied in a way that constitutes copyright infringement, please report your notice of infringement to AllFreeLogo by providing all the necessary information to info[at]allfreelogo.com. 
 
-### [Good Logos Make Great Sales Tools](https://web.archive.org/article/good-logos-make-great-sales-tools.html "Good Logos Make Great Sales Tools")
+### [9 Keys to an Effective Logo](https://web.archive.org/article/9-keys-to-an-effective-logo.html "9 Keys to an Effective Logo")
 
-**Chris Smith**
+**Erin Ferree**
 
-A logo is a unique visual image that represents a company or its products. It aims to create a positive and memorable impression in the minds of the people who see it. In addition, a good logo can make a sale by saying something about the company to customers when there is no sales person present. {[Read Full Article](https://web.archive.org/article/good-logos-make-great-sales-tools.html "Good Logos Make Great Sales Tools")}
+The right logo, with the right characteristics, will boost your visibility, credibility and memorablity ? which means more business for you! {[Read Full Article](https://web.archive.org/article/9-keys-to-an-effective-logo.html "9 Keys to an Effective Logo")}
