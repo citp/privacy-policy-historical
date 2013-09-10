@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the futuremark.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621104042id_/http%3A//www.futuremark.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futuremark.com privacy policy that was archived on 2013-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130910190853id_/http%3A//www.futuremark.com/privacy-policy) for the most accurate reproduction.*
 
 # Futuremark Privacy Policy
 
@@ -10,7 +10,7 @@ If you have questions, suggestions or concerns about our privacy policy and data
 
 [Jukka Mäkinen](mailto:jukka.makinen@futuremark.com)  
 Futuremark  
-Kappelitie 6C  
+Niittytaival 13  
 02200 ESPOO  
 FINLAND
 
