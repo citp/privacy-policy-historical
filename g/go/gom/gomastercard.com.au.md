@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gomastercard.com.au privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523105118id_/http%3A//www.gomastercard.com.au/privacy-policy.html%3Fgemid2%3Dgomc-footer-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gomastercard.com.au privacy policy that was archived on 2013-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130910105717id_/http%3A//www.gomastercard.com.au/privacy-policy.html%3Fgemid2%3Dgomc-footer-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Credit Card With Interest Free Offers | GO Mastercard
 
@@ -12,7 +12,7 @@ We take the privacy and security of your transactions seriously. Our site contai
 
 **Your personal information on the web**
 
-We do not collect personal information when you visit our site unless you apply for a card online or register for access to the online Service Centre. If you would like to know more about our privacy practices concerning your personal information, please refer to the Important Privacy Notices of GE Money and their related bodies. http://www.gemoney.com.au/en/privacy_policy.html
+We do not collect personal information when you visit our site unless you apply for a card online, register for access to the online Service Centre or use our Mobile Application (“App”). If you would like to know more about our privacy practices concerning your personal information, please refer to the Important Privacy Notices of GE Money and their related bodies. http://www.gemoney.com.au/en/privacy_policy.html
 
 **Applying for a card on the web**
 
@@ -32,7 +32,7 @@ You may set your browser to notify you when you receive a cookie. Cookies are us
 
 **Website Security**
 
-We use high security levels for our online Service Centre and when you apply for a GO MasterCard online. We use security levels which are standard for internet banking and large scale e-commerce sites. You can check the security level of a web page by clicking on your internet browser's padlock or key icon.
+We use high security levels for our Online Service Centre, Mobile Applications and when you apply for a GO MasterCard online. We use security levels which are standard for internet banking and large scale e-commerce sites. You can check the security level of a web page by clicking on your internet browser's padlock or key icon.
 
 Encryption is the standard way of protecting your information as it is transmitted between you and us. This involves converting the information into an unreadable code using a "key" (and also de-coding it using this "key"). The longer the key, the more difficult it is for others to break the encrypted code.
 
