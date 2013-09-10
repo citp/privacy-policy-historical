@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the itinfoz.com privacy policy that was archived on 2013-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130411040235id_/http%3A//itinfoz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itinfoz.com privacy policy that was archived on 2013-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130910162500id_/http%3A//itinfoz.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Technology BlogThe Technology Blog
+# Privacy Policy - The Technology Blog
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.[](http://itinfoz.com/wp-content/Images/Privacy-Policy.jpg)
