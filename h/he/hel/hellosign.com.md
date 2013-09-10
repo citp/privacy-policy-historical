@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hellosign.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424215533id_/https%3A//www.hellosign.com/info/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellosign.com privacy policy that was archived on 2013-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130910133514id_/https%3A//www.hellosign.com/info/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | HelloSign
 
