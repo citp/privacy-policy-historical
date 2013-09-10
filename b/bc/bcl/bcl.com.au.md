@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bcl.com.au privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111112124id_/http%3A//www.bcl.com.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcl.com.au privacy policy that was archived on 2013-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130910074608id_/http%3A//www.bcl.com.au/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ We ask for no personal details from users of BCL.com.au web pages. Our server re
   * The number of pages visited
   * Versions of browsers used (Netscape, Microsoft IE etc)
   * The country of origin
-  * The referring web page (if any and if not blocked) 
+  * The referring web page (if any and if not blocked)
 
 
 
@@ -26,7 +26,9 @@ We do not receive the names of people who book hotels or buy from online shops t
 
 ##  BCL - Contextual Advertising Cookies
 
-We do not use Adsense, Netratings or other third party tracking on any of our sites. They may be present on co-branded sites (eg Viator tours, Domain real estate, etc)
+We do not use Adsense, Netratings or similar third party tracking on any of our sites.  They may be present on co-branded sites (eg Viator tours, Domain real estate, etc) 
+
+We occasionally use Statcounter tracking to monitor performance of the site. 
 
 ##  BCL  \- Email newsletter
 
@@ -44,4 +46,4 @@ It will tell us if you open the newsletter and what links you click on. You can 
 
 ##  Questions
 
-Please [contact the editor](https://web.archive.org/web/20121111112124id_/http%3A//www.bcl.com.au/contact.htm) if you have any concerns about how we use your personal details.
+Please [contact the editor](https://web.archive.org/web/20130910074608id_/http%3A//www.bcl.com.au/contact.htm) if you have any concerns about how we use your personal details.
