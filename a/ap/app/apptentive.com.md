@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apptentive.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625183806id_/http%3A//www.apptentive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apptentive.com privacy policy that was archived on 2013-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130911001900id_/http%3A//www.apptentive.com/privacy) for the most accurate reproduction.*
 
 # Customer communication & feedback is important, as is privacy
 
@@ -8,7 +8,7 @@ This Privacy Policy applies to all of the products, services and developer modul
 
 If you have any questions about this Privacy Policy, please feel free to [contact us](https://web.archive.org/contact) through our website or write to us at:
 
-Privacy Matters c/o Apptentive Inc. 1205 Queen Anne Ave N #201 Seattle, WA, 98109 USA
+Privacy Matters c/o Apptentive Inc. 24 Roy Street, #440 Seattle, WA, 98109-4018 USA
 
 ## Information we collect and how we use it
 
