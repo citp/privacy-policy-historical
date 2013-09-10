@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appbank.com privacy policy that was archived on 2013-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130317054448id_/http%3A//www.appbank.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appbank.com privacy policy that was archived on 2013-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130911011927id_/http%3A//www.appbank.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | AppBank | Making Money for Social Network Users | AppBank.com
 
