@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the synonyms.net privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501022439id_/http%3A//www.synonyms.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synonyms.net privacy policy that was archived on 2013-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130911055219id_/http%3A//www.synonyms.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-STANDS4 LLC cares about your privacy. We want to make you feel comfortable and secure using or purchasing products from our web site. This privacy policy explains the types of information we gather, how it is protected, what we do with it and how you can correct or change information.
+STANDS4 LLC cares about your privacy. We want to make you feel comfortable and secure using our web site. This privacy policy explains the types of information we gather, how it is protected, what we do with it and how you can correct or change information.
 
 ### Consent to this Privacy Policy
 
 By providing STANDS4 LLC with Personal Information (defined below), you signify that you agree with the terms of our current Privacy Policy as posted here. If you do not agree with any term in this Policy, please do not provide any Personal Information.
 
-If you choose not to provide Personal Information, you may not be able to take certain actions, like becoming an Abbreviations.com's editor, access particular areas of the web site, posting comments to our Blog, or send us e-mail.
+If you choose not to provide Personal Information, you may not be able to take certain actions, like becoming an editor, access particular areas of the web site, posting comments to our Blog, or send us e-mail.
 
 ### Continuing Agreement
 
@@ -16,7 +16,7 @@ STANDS4 LLC may change or revise this Privacy Policy from time to time by updati
 
 ### What Personal Information is collected and how?
 
-When you are applying to become an Abbreviations.com editor, adding new entries or sending us email, you may provide us with your name, e-mail address and a short description of your internet experience ("Personal Information").
+When you are applying to become an editor, adding new entries or sending us email, you may provide us with your e-mail address ("Personal Information").
 
 STANDS4 LLC also uses "cookies" to receive and store certain types of information whenever you interact with the web site. Cookies are identifiers transferred to your computer's hard drive through your browser which enable our systems to recognize your browser. This recognition allows web sites to give you customized and personalized service and helps web site owners identify ways to improve your online experience. Cookies may also be used to help web site owners track responses to messages sent on behalf of our advertisers so that STANDS4 LLC may aggregate such information and report results to them. The "help" portion of the toolbar on most browsers will tell you how to reject or disable cookies or receive notice when a new cookie appears. If you choose to reject or disable cookies, you will be unable to use those specific areas of the web site that require the use of cookies.
 
