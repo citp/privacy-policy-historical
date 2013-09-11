@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ittaleem.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501145834id_/http%3A//www.ittaleem.com/read-me-first/208530-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ittaleem.com privacy policy that was archived on 2013-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130911101438id_/http%3A//www.ittaleem.com/read-me-first/208530-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-[](http://www.ittaleem.com/sendmessage.php)[](http://goo.gl/Rb8Di)[](http://goo.gl/DBXTS)
 
 This is a discussion on _Privacy Policy_ within the **Read me first** forums, part of the Complains & Suggestions. category; ITTALEEM Privacy Policy If you require any more information or have any questions about our privacy policy, please feel free ...
 
