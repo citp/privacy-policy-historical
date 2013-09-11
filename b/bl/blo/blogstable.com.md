@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the blogstable.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608233252id_/http%3A//www.blogstable.com/p/privacy-policy_19.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogstable.com privacy policy that was archived on 2013-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130911210727id_/http%3A//www.blogstable.com/p/privacy-policy_19.html) for the most accurate reproduction.*
 
-# BlogStable.com: Privacy Policy
-
-##  [ Privacy Policy ](http://www.blogstable.com/p/privacy-policy_19.html)
+# Privacy Policy ~ Blogstable.com | Blogger Tips And Tricks | SEO |
 
 Privacy Policy  
 We take your privacy seriously. This policy describes what personal information we collect and how we use it. (This privacy policy is applicable to websites falling under the primary holder, [http://www.blogstable.com ](http://www.blogstable.com%20/)  
