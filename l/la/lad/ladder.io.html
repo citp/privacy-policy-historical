@@ -1,0 +1,327 @@
+<!--The following is the downloaded HTML source of the ladder.io privacy policy that was archived on 2013-09-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130911174611id_/http%3A//ladder.io/index.php/help/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><head>
+  <base href="http://ladder.io/">
+
+  
+    
+
+      <title>ladder.io - Privacy Policy</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Content-Language" content="en">
+<meta name="description" content="Online Social Ladder to input and manage your sporting or gaming ladders. Create your own private or public ladder for your local sports club or online gaming community. This is the privacy policy page">
+<meta name="keywords" content="online ladder, squash ladder, game ladder, sport ladder, sports ladder, gaming ladder">
+
+
+      <link href="/application/css.php?request=application/themes/cottonic_green/theme.css&amp;c=11" media="screen" rel="stylesheet" type="text/css">
+<link href="/favicon.ico?c=11" rel="favicon" type="image/x-icon">
+<link href="http://fonts.googleapis.com/css?family=Lobster:400|Open+Sans:300,400,700&amp;c=11" media="screen" rel="stylesheet" type="text/css">
+  
+
+    
+    <script type="text/javascript">if (window.location.hash == '#_=_')window.location.hash = '';</script>
+  <script type="text/javascript">
+      </script>
+    <script type="text/javascript" src="/externals/mootools/mootools-core-1.4.5-full-compat-yc.js?c=11"></script>
+<script type="text/javascript" src="/externals/mootools/mootools-more-1.4.0.1-full-compat-yc.js?c=11"></script>
+<script type="text/javascript" src="/externals/chootools/chootools.js?c=11"></script>
+<script type="text/javascript" src="/application/modules/Core/externals/scripts/core.js?c=11"></script>
+<script type="text/javascript" src="/application/modules/User/externals/scripts/core.js?c=11"></script>
+<script type="text/javascript" src="/externals/smoothbox/smoothbox4.js?c=11"></script>
+<script type="text/javascript">
+    //<![CDATA[
+
+    Date.setServerOffset('Wed, 11 Sep 2013 17:46:10 +0000');
+    
+    en4.orientation = 'ltr';
+    en4.core.environment = 'production';
+    en4.core.language.setLocale('en');
+    en4.core.setBaseUrl('/index.php/');
+    en4.core.staticBaseUrl = '/';
+    en4.core.loader = new Element('img', {src: en4.core.staticBaseUrl + 'application/modules/Core/externals/images/loading.gif'});
+    
+            if( false ) {
+      en4.core.runonce.add(function() {
+        en4.core.dloader.attach();
+      });
+    }
+    
+        //]]>
+</script>
+<script type="text/javascript"></script>
+<script type="text/javascript" src="/application/modules/Activity/externals/scripts/core.js?c=11"></script>
+<script type="text/javascript">
+    //<![CDATA[
+if (typeof window.janrain !== 'object') window.janrain = {};
+window.janrain.settings = {};
+// Extra
+janrain.settings.appId = '';
+janrain.settings.appUrl = 'https://';
+janrain.settings.language = 'en';
+janrain.settings.tokenUrl = 'http://ladder.io/index.php/user/auth/janrain';    //]]>
+</script>
+
+  
+  
+    
+  
+  
+</head>
+<body id="global_page_core-help-privacy">
+  <script type="javascript/text">
+    if(DetectIpad()){
+      $$('a.album_main_upload').setStyle('display', 'none');
+      $$('a.album_quick_upload').setStyle('display', 'none');
+      $$('a.icon_photos_new').setStyle('display', 'none');
+    }
+  </script>  
+  
+  <div id="global_header">
+    <div class="layout_page_header">
+<div class="generic_layout_container layout_main">
+<div class="generic_layout_container layout_core_menu_mini">
+<div id="core_menu_mini_menu">
+    <ul>
+              <li><a href="/index.php/login/return_url/64-L2luZGV4LnBocC9oZWxwL3ByaXZhY3k%3D" class="menu_core_mini core_mini_auth">Sign In</a></li>
+          <li><a href="/index.php/signup" class="menu_core_mini core_mini_signup">Sign Up</a></li>
+          </ul>
+</div>
+
+
+<script type="text/javascript">
+  var notificationUpdater;
+
+  en4.core.runonce.add(function(){
+    if($('global_search_field')){
+      new OverText($('global_search_field'), {
+        poll: true,
+        pollInterval: 500,
+        positionOptions: {
+          position: ( en4.orientation == 'rtl' ? 'upperRight' : 'upperLeft' ),
+          edge: ( en4.orientation == 'rtl' ? 'upperRight' : 'upperLeft' ),
+          offset: {
+            x: ( en4.orientation == 'rtl' ? -4 : 4 ),
+            y: 2
+          }
+        }
+      });
+    }
+
+    if($('notifications_markread_link')){
+      $('notifications_markread_link').addEvent('click', function() {
+        //$('notifications_markread').setStyle('display', 'none');
+        en4.activity.hideNotifications('0 Updates');
+      });
+    }
+
+      });
+
+
+  var toggleUpdatesPulldown = function(event, element, user_id) {
+    if( element.className=='updates_pulldown' ) {
+      element.className= 'updates_pulldown_active';
+      showNotifications();
+    } else {
+      element.className='updates_pulldown';
+    }
+  }
+
+  var showNotifications = function() {
+    en4.activity.updateNotifications();
+    new Request.HTML({
+      'url' : en4.core.baseUrl + 'activity/notifications/pulldown',
+      'data' : {
+        'format' : 'html',
+        'page' : 1
+      },
+      'onComplete' : function(responseTree, responseElements, responseHTML, responseJavaScript) {
+        if( responseHTML ) {
+          // hide loading icon
+          if($('notifications_loading')) $('notifications_loading').setStyle('display', 'none');
+
+          $('notifications_menu').innerHTML = responseHTML;
+          $('notifications_menu').addEvent('click', function(event){
+            event.stop(); //Prevents the browser from following the link.
+
+            var current_link = event.target;
+            var notification_li = $(current_link).getParent('li');
+
+            // if this is true, then the user clicked on the li element itself
+            if( notification_li.id == 'core_menu_mini_menu_update' ) {
+              notification_li = current_link;
+            }
+
+            var forward_link;
+            if( current_link.get('href') ) {
+              forward_link = current_link.get('href');
+            } else{
+              forward_link = $(current_link).getElements('a:last-child').get('href');
+            }
+
+            if( notification_li.get('class') == 'notifications_unread' ){
+              notification_li.removeClass('notifications_unread');
+              en4.core.request.send(new Request.JSON({
+                url : en4.core.baseUrl + 'activity/notifications/markread',
+                data : {
+                  format     : 'json',
+                  'actionid' : notification_li.get('value')
+                },
+                onSuccess : function() {
+                  window.location = forward_link;
+                }
+              }));
+            } else {
+              window.location = forward_link;
+            }
+          });
+        } else {
+          $('notifications_loading').innerHTML = 'You have no new updates.';
+        }
+      }
+    }).send();
+  };
+
+  /*
+  function focusSearch() {
+    if(document.getElementById('global_search_field').value == 'Search') {
+      document.getElementById('global_search_field').value = '';
+      document.getElementById('global_search_field').className = 'text';
+    }
+  }
+  function blurSearch() {
+    if(document.getElementById('global_search_field').value == '') {
+      document.getElementById('global_search_field').value = 'Search';
+      document.getElementById('global_search_field').className = 'text suggested';
+    }
+  }
+  */
+</script></div>
+
+<div class="generic_layout_container layout_core_menu_logo">
+<a href="/index.php/">ladder.io</a></div>
+
+<div class="generic_layout_container layout_core_menu_main">
+<ul class="navigation">
+    <li>
+        <a class="menu_core_main core_main_home" href="/index.php/">Home</a>
+    </li>
+    <li>
+        <a class="menu_core_main core_main_group" href="/index.php/groups">Ladders</a>
+    </li>
+    <li>
+        <a class="menu_core_main core_main_album" href="/index.php/albums">Albums</a>
+    </li>
+    <li>
+        <a class="menu_core_main core_main_forum" href="/index.php/forums">Forum</a>
+    </li>
+    <li>
+        <a class="menu_core_main core_main_chat" href="/index.php/chat">Chat</a>
+    </li>
+    <li>
+        <a class="menu_core_main core_main_event" href="/index.php/events">Events</a>
+    </li>
+</ul></div>
+</div>
+</div>
+  </div>
+  <div id="global_wrapper">
+    <div id="global_content">
+            <div class="layout_page_core_help_privacy">
+<div class="generic_layout_container layout_main">
+<div class="generic_layout_container layout_middle">
+<div class="generic_layout_container layout_core_content">
+
+<h2>Privacy Statement</h2>
+<p>
+  What is this Privacy Policy for?<br>
+<br>
+This privacy policy is for this website [www.websitename.co.uk] and served by [### COMPANY NAME ###] and governs the privacy of its users who choose to use it.<br>
+<br>
+The policy sets out the different areas where user privacy is concerned and outlines the obligations &amp; requirements of the users, the website and website owners. Furthermore the way this website processes, stores and protects user data and information will also be detailed within this policy.<br>
+<br>
+The Website<br>
+<br>
+This website and it's owners take a proactive approach to user privacy and ensure the necessary steps are taken to protect the privacy of its users throughout their visiting experience. This website comply's to all UK national laws and requirements for user privacy.<br>
+<br>
+Use of Cookies<br>
+<br>
+This website uses cookies to better the users experience while visiting the website. Where applicable this website uses a cookie control system allowing the user on their first visit to the website to allow or disallow the use of cookies on their computer / device. This complies with recent legislation requirements for website's to obtain explicit consent from users before leaving behind or reading files such as cookies on a users computer / device.<br>
+<br>
+Cookies are small files saved to the users computers hard drive that track, save and store information about the users interactions and usage of the website. This allows the website, through it's server to provide the users with a tailored experience within this website.<br>
+Users are advised that if they wish to deny the use and saving of cookies from this website on to their computers hard drive they should take necessary steps within their web browsers security settings to block all cookies from this website and it's external serving vendors.<br>
+<br>
+This website uses tracking software to monitor it's visitors to better understand how they use it. This software is provided by Google Analytics which uses cookies to track visitor usage. The software will save a cookie to your computers hard drive in order to track and monitor your engagement and usage of the website but will not store, save or collect personal information. You can read Google's privacy policy here for further information [ http://www.google.com/privacy.html ].<br>
+Other cookies may be stored to your computers hard drive by external vendors when this website uses referral programs, sponsored links or adverts. Such cookies are used for conversion and referral tracking and typically expire after 30 days, though some may take longer. No personal information is stored, saved or collected.<br>
+<br>
+Contact &amp; Communication<br>
+<br>
+Users contacting this website and/or it's owners do so at their own discretion and provide any such personal details requested at their own risk. Your personal information is kept private and stored securely until a time it is no longer required or has no use, as detailed in the Data Protection Act 1998. Every effort has been made to ensure a safe and secure form to email submission process but advise users using such form to email processes that they do so at their own risk.<br>
+This website and it's owners use any information submitted to provide you with further information about the products / services they offer or to assist you in answering any questions or queries you may have submitted. This includes using your details to subscribe you to any email newsletter program the website operates but only if this was made clear to you and your express permission was granted when submitting any form to email process. Or whereby you the consumer have previously purchased from or enquired about purchasing from the company a product or service that the email newsletter relates to. This is by no means an entire list of your user rights in regard to receiving email marketing material. Your details are not passed on to any third parties.<br>
+<br>
+Email Newsletter<br>
+<br>
+This website operates an email newsletter program, used to inform subscribers about products and services supplied by this website. Users can subscribe through an online automated process should they wish to do so but do so at their own discretion. Some subscriptions may be manually processed through prior written agreement with the user.<br>
+<br>
+Subscriptions are taken in compliance with UK Spam Laws detailed in the Privacy and Electronic Communications Regulations 2003. All personal details relating to subscriptions are held securely and in accordance with the Data Protection Act 1998. No personal details are passed on to third parties nor shared with companies / people outside of the company that operates this website. Under the Data Protection Act 1998 you may request a copy of personal information held about you by this website's email newsletter program. A small fee will be payable. If you would like a copy of the information held on you please write to the business address at the bottom of this policy.<br>
+<br>
+Email marketing campaigns published by this website or it's owners may contain tracking facilities within the actual email. Subscriber activity is tracked and stored in a database for future analysis and evaluation. Such tracked activity may include; the opening of emails, forwarding of emails, the clicking of links within the email content, times, dates and frequency of activity [this is by no far a comprehensive list].<br>
+This information is used to refine future email campaigns and supply the user with more relevant content based around their activity.<br>
+<br>
+In compliance with UK Spam Laws and the Privacy and Electronic Communications Regulations 2003 subscribers are given the opportunity to un-subscribe at any time through an automated system. This process is detailed at the footer of each email campaign. If an automated un-subscription system is unavailable clear instructions on how to un-subscribe will by detailed instead.<br>
+<br>
+External Links<br>
+<br>
+Although this website only looks to include quality, safe and relevant external links users should always adopt a policy of caution before clicking any external web links mentioned throughout this website.<br>
+<br>
+The owners of this website cannot guarantee or verify the contents of any externally linked website despite their best efforts. Users should therefore note they click on external links at their own risk and this website and it's owners cannot be held liable for any damages or implications caused by visiting any external links mentioned.<br>
+<br>
+Adverts and Sponsored Links<br>
+<br>
+This website may contain sponsored links and adverts. These will typically be served through our advertising partners, to whom may have detailed privacy policies relating directly to the adverts they serve.<br>
+<br>
+Clicking on any such adverts will send you to the advertisers website through a referral program which may use cookies and will tracks the number of referrals sent from this website. This may include the use of cookies which may in turn be saved on your computers hard drive. Users should therefore note they click on sponsored external links at their own risk and this website and it's owners cannot be held liable for any damages or implications caused by visiting any external links mentioned.<br>
+<br>
+Social Media Platforms<br>
+<br>
+Communication, engagement and actions taken through external social media platforms that this website and it's owners participate on are custom to the terms and conditions as well as the privacy policies held with each social media platform respectively.<br>
+<br>
+Users are advised to use social media platforms wisely and communicate / engage upon them with due care and caution in regard to their own privacy and personal details. This website nor it's owners will ever ask for personal or sensitive information through social media platforms and encourage users wishing to discuss sensitive details to contact them through primary communication channels such as by telephone or email.<br>
+<br>
+This website may use social sharing buttons which help share web content directly from web pages to the social media platform in question. Users are advised before using such social sharing buttons that they do so at their own discretion and note that the social media platform may track and save your request to share a web page respectively through your social media platform account.<br>
+<br>
+Shortened Links in Social Media<br>
+<br>
+This website and it's owners through their social media platform accounts may share web links to relevant web pages. By default some social media platforms shorten lengthy url's [web addresses] (this is an example: http://bit.ly/zyVUBo). <br>
+Users are advised to take caution and good judgement before clicking any shortened url's published on social media platforms by this website and it's owners. Despite the best efforts to ensure only genuine url's are published many social media platforms are prone to spam and hacking and therefore this website and it's owners cannot be held liable for any damages or implications caused by visiting any shortened links.<br>
+<br>
+Resources &amp; Further Information<br>
+<br>
+Data Protection Act 1998<br>
+Privacy and Electronic Communications Regulations 2003<br>
+Privacy and Electronic Communications Regulations 2003 - The Guide<br>
+Twitter Privacy Policy<br>
+Facebook Privacy Policy<br>
+Google Privacy Policy<br>
+Linkedin Privacy Policy<br>
+Mailchimp Privacy Policy<br>
+Free Website Privacy Policy written by Jamie King Media - Website Design in Pembrokeshire © 2013 - v.2.0 April 2013|<br>
+Edited &amp; customised by: ### BUSINESS NAME AND FULL ADDRESS WITH POST CODE ###</p></div>
+</div>
+</div>
+</div>
+          </div>
+  </div>
+  <div id="global_footer">
+    <div class="layout_page_footer">
+<div class="generic_layout_container layout_main">
+<div class="generic_layout_container layout_core_menu_footer">
+Copyright ©2013  &nbsp;-&nbsp; <a href="/index.php/help/privacy" class="menu_core_footer core_footer_privacy" order="1" active="1">Privacy</a>  &nbsp;-&nbsp; <a href="/index.php/help/terms" class="menu_core_footer core_footer_terms" order="2">Terms of Service</a>  &nbsp;-&nbsp; <a href="/index.php/help/contact" class="menu_core_footer core_footer_contact" order="3">Contact</a>
+
+</div>
+</div>
+</div>
+  </div>
+  <div id="janrainEngageShare" style="display:none">Share</div>
+
+</body></html>
