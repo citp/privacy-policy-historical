@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the elementcase.com privacy policy that was archived on 2013-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130615041926id_/http%3A//www.elementcase.com/terms_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the elementcase.com privacy policy that was archived on 2013-09-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130911025304id_/https%3A//www.elementcase.com/terms_privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head>
 <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="/a/j/milonic/milonic_src.js"></script>
@@ -14,6 +14,7 @@ var Config_CDN_URL = '/'
 <script type="text/javascript" src="/v/vspfiles/templates/ElementCase/Menu_Popout_Data.js"></script>
 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="google-site-verification" content="6fL1Bw2hY5byRvS4E5lZ2O14sVnsbTf627Z9LBI8BgY">
 <meta name="Description" content="">
 <meta name="Keywords" content="Element Vapor, Element Case, Vapor iPhone, vapor case, iphone vapor, vapor 4, vapor 4 case, vapor 4 bumper case, iphone 4s, iphone 4, 4s, samsung galaxy S3, S3, galaxy, android, custom case">
 <title>Terms: Privacy</title>
@@ -24,6 +25,7 @@ var Config_CDN_URL = '/'
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js"></script>
 <link type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/themes/base/jquery-ui.css" rel="stylesheet">
+<link type="text/css" href="/a/c/default.css" rel="stylesheet">
 
 
 <script type="text/javascript">
@@ -39,7 +41,30 @@ var Config_CDN_URL = '/'
     var PageText_843 = "Subtotal";
     var PageText_844 = "items in cart";
 </script>
+<script type="text/javascript" src="/a/j/volusion.js?6.41.1.224"></script>
+<script type="text/javascript">
+    (function ($) {
+        volusion.ready(function () {
+            if (volusion.cart.isObservingCount()) {
+                var ts = new Date().getTime();
 
+                $.getJSON('/ajaxcart.asp?cachebust=' + ts, function (data) {
+                    var quantityTotal = 0;
+                    $.each(data.Products, function (key, val) {
+                        if (val.IsProduct === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        } else if (val.IsAccessory === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        }
+                    });
+                    quantityTotal = quantityTotal || '0';
+                    volusion.cart.itemCount(quantityTotal);
+                });
+
+            }
+        });
+    } (jQuery));
+</script>
 
 
 <script type="text/javascript" src="/a/j/soft_add.js"></script>
@@ -52,7 +77,7 @@ var Config_CDN_URL = '/'
 </script>
 
 <script type="text/javascript" src="/a/j/soft_add_mult.js"></script>
-<script type="text/javascript" src="/a/j/javascripts.js?6_5_6.34.4.92"></script>
+<script type="text/javascript" src="/a/j/javascripts.js?6_5_6.41.1.224"></script>
 
 <script type="text/javascript">
 	var Config_Search_Auto_Complete = false;
@@ -211,7 +236,7 @@ Date: October 2011
         </form>
     </div>
  
-<div id="cart"><p style="color: #ff0000; font-size: 12px; text-align: right;">FREE SHIPPING ON ALL ORDERS OVER $99*</p><div id="display_cart_summary"><div class="cartsummary_full">(0 items / $0.00)&nbsp;<a href="/ShoppingCart.asp"></a></div></div><a href="/shoppingcart.asp">View Cart</a></div>
+<div id="cart"><p style="color: #ff0000; font-size: 12px; text-align: right;">FREE SHIPPING OVER $99*</p><div id="display_cart_summary"><div class="cartsummary_full">(0 items / $0.00)&nbsp;<a href="/ShoppingCart.asp"></a></div></div><a href="/shoppingcart.asp">View Cart</a></div>
 
 
 </div>
@@ -226,7 +251,9 @@ Date: October 2011
 
 </div>
 <div id="promo">
-	<center><a href="http://apps.facebook.com/ecsectorsweepstakes/pages/c11e55063e79d0b1"><img src="http://elementcase.com/v/vspfiles/templates/ElementCase/images/homepage/p/Element-Case-Sector-Giveaway.jpg" border="0"></a></center>
+	<!--<center><a href="http://apps.facebook.com/ecsectorsweepstakes/pages/c11e55063e79d0b1"><img src="http://elementcase.com/v/vspfiles/templates/ElementCase/images/homepage/p/Element-Case-Sector-Giveaway.jpg" border="0" /></a></center> -->
+    <center>
+      <p style="font-weight:bold;">To contact <a href="http://www.elementcase.com/Ticket_New.asp">Customer Support</a> or place an order by phone, please dial <span style="color: #ff0000;">(650) 486-1353</span></p></center>
 </div>	
 
 <!---------------------- CONTENT ---------------------->
@@ -343,7 +370,8 @@ Date: October 2011
 
 	</div>
     </div>
-    <div id="copyright"><p><a href="/terms.asp">Copyright © <script type="text/javascript">document.write((new Date()).getFullYear());</script>2020  &nbsp;Element Case Inc. All Rights Reserved.</a><br>*All USA orders over $99 get free FedEx ground shipping, International orders over $99 get half off FedEx International Priority service.</p>
+    <div id="copyright"><p><a href="/terms.asp">Copyright © <script type="text/javascript">document.write((new Date()).getFullYear());</script>2020  &nbsp;Element Case Inc. All Rights Reserved.</a><br>
+      <!--*All USA orders over $99 get free FedEx ground shipping, International orders over $99 get half off FedEx International Priority service. -->*USA orders over $99 get free FedEx ground shipping, International orders get half off FedEx International Priority service (normally $30).</p>
 
 
 </div>
