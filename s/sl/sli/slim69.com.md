@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slim69.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515095453id_/http%3A//www.slim69.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slim69.com privacy policy that was archived on 2013-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130911031145id_/http%3A//www.slim69.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy ~ Slim 69
 
