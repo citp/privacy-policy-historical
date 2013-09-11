@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rijadeja.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527140344id_/http%3A//www.rijadeja.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rijadeja.com privacy policy that was archived on 2013-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130911192800id_/http%3A//www.rijadeja.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - www.rijadeja.com - Where Knowledge is NOT Monopoly
+# Privacy Policy - www.rijadeja.com - Where Knowledge is NOT Monopoly (Gujarat's first Free educational portal)
 
 * * *
 
