@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freehostedscripts.net privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620151102id_/http%3A//freehostedscripts.net/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freehostedscripts.net privacy policy that was archived on 2013-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130911212218id_/http%3A//freehostedscripts.net/privacypolicy.php) for the most accurate reproduction.*
 
 # Free Hosted Scripts
 
