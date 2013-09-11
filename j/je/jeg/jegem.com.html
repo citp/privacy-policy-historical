@@ -1,50 +1,141 @@
-<!--The following is the downloaded HTML source of the jegem.com privacy policy that was archived on 2013-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130603070814id_/http%3A//www.jegem.com/1/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jegem.com privacy policy that was archived on 2013-09-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130911061044id_/http%3A//www.jegem.com/1/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>		
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+
+
+
+    <link href="https://plus.google.com/116352477655083824386" rel="publisher">
+    <title>
+        Privacy Statement
+    </title>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+    <meta name="robots" content="index,follow">
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <meta name="author" content="JEGEM.com">
+    <meta name="classification" content="art">
+    <meta http-equiv="X-UA-Compatible" content="IE=8">
+    <link href="./Design/Styles/styles2.css" rel="stylesheet" type="text/css">
+    <link type="text/css" href="./Design/Styles/menu.css" rel="stylesheet">
+
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" src="./Design/JavaScript/jquery.js"></script>
+
+    <script type="text/javascript" src="./Design/JavaScript/menu.js"></script>
+
+    <script>
 		
-		<title>JeGem.com - Premier Artisan Gemstone Jewelry</title>
-		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-        <!-- <link href="./Design/Styles/styles.css" rel="stylesheet" type="text/css"> -->
-		<link href="./Design/Styles/styles2.css" rel="stylesheet" type="text/css">
-		<link type="text/css" href="./Design/Styles/menu.css" rel="stylesheet">
-        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="./Design/JavaScript/jquery.js"></script>
-        <script type="text/javascript" src="./Design/JavaScript/menu.js"></script>
+        
+        function rzCC(s){
+           for(var exp=/-([a-z])/; 
+               exp.test(s); 
+               s=s.replace(exp,RegExp.$1.toUpperCase()));
+           return s;
+       }
+
+        function setStyle(element, declaration) {
+           if (declaration.charAt(declaration.length-1)==';')
+             declaration = declaration.slice(0, -1);
+           var k, v;
+           var splitted = declaration.split(';');
+           for (var i=0, len=splitted.length; i<len; i++) {
+              k = rzCC(splitted[i].split(':')[0]);
+              v = splitted[i].split(':')[1];
+              eval("element.style."+k+"='"+v+"'");
+           }
+        }
          
-			<script language="JavaScript" type="text/JavaScript">
-					<!--
-					function MM_preloadImages() { //v3.0
-					var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-						var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-						if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-					}
-
-					function MM_swapImgRestore() { //v3.0
-					var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-					}
-
-					function MM_findObj(n, d) { //v4.01
-					var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-						d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-					if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-					for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-					if(!x && d.getElementById) x=d.getElementById(n); return x;
-					}
-
-					function MM_swapImage() { //v3.0
-					var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-					if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-					}
-					//-->
-			</script>
-	<script type="text/javascript" async="" src="//static.getclicky.com/js"></script></head>
-	<body> <!-- onLoad="MM_preloadImages('./Design/Images/sideNav1_newItems.jpg','./Design/Images/sideNav2_MatchingSet.jpg','./Design/Images/BeltBuckle.jpg','./Design/Images/Bracelet.jpg','./Design/Images/Earring.jpg','./Design/Images/HairJewelry.jpg','./Design/Images/Necklace.jpg','./Design/Images/Pendant.jpg','./Design/Images/Ring.jpg','./Design/Images/ChainNecklace.jpg')">-->
+        function setColors(elm, color, bgcolor, styleStr) {
+            var style = "";
+            if (bgcolor.length > 0) {
+                style = " background-color:#" + bgcolor + ";";
+            }
+            if (color.length > 0) {
+                style = style + " color:#" + color + ";";
+            }
+            if (styleStr.length > 0) {
+                style = style + styleStr;
+            }
+            if (style.length > 0) {
+                setStyle(document.getElementById(elm), style);
+            }
+          
+       }
 
 
+    </script>
 
+    <style type="text/css">
+        .page_content td
+        {
+            color: #333;
+        }        
+        .searchResultPage table td {
+            vertical-align:middle;
+            
+        }
+        .searchResultPage  {
+           padding:0;
+        }
+       
+       #divSearchPanel{min-height:0}
+        .footer,
+        .bottom-section{background-image:none}
+        #footerDiv{margin:0 0 5px 0}
+        
+        /*** Begin Breadcrumb ***********************************************************/
 
-
-	
+.subHomeBreadcrumb 
+{
+    color:#6566a6;
+    font-weight:bold;
+    padding-top:10px;
+}
+.subHomeBreadcrumb a, .subHomeBreadcrumb a:visited 
+{
+    color:#6566a6;
+}
+.subHomeBreadcrumb a:hover 
+{
+    color:#3d3d3d;
+}
+.subHomeBreadcrumb .last
+{
+    color:#3d3d3d;
+}
+/*** End Breadcrumb ***********************************************************/
+        </style>
+       
+<link rel="stylesheet" type="text/css" href="https://web.archive.org/web/20120307113110/https://s-static.ak.fbcdn.net/connect.php/css/share-button-css"><script type="text/javascript" async="" src="//static.getclicky.com/js"></script></head>
+<body>
+    <style type="text/css">
+<!--
+.promoborder {
+	border: thin dashed #990000;
+}
+-->
+</style>
+    <table width="100%" border="0" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td height="3"><img src="/images/1x1_clear1.gif" width="1" height="1"></td>
+      </tr>
+    </tbody></table>
+    <table width="906" align="center" cellpadding="3" cellspacing="0" bgcolor="#FFF2FF" class="promoborder">
+      <tbody><tr>
+        <td width="896" align="center" valign="top"><font size="2"> 
+          <table width="889" border="0" align="center" cellpadding="0" cellspacing="0">
+            <tbody><tr>
+              <td width="889" align="left" valign="top">September 9 &amp; 10 only, save an extra <strong>25% off </strong>all items. Submit Coupon Code <font color="#990000"><strong>JEGEM278932</strong></font> during checkout (on the Payment page).</td>
+            </tr>
+          </tbody></table>
+        </font></td>
+      </tr>
+    </tbody></table>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td height="3"><img src="/images/1x1_clear1.gif" width="1" height="1"></td>
+  </tr>
+</tbody></table>
    <!-- Begin Header Right Content -->
     <div class="header_right">
         <!-- Begin Register text -->
@@ -117,12 +208,10 @@
     <!-- Begin Header Right Content -->
     <div class="clear"></div>
     <!-- End Logo and Top Navigation-->
+    <div class="page">
+        <a name="top"></a>
 
-<div class="page">
-    
-	<a name="top"></a>
-
-<table width="928" height="92" border="0" align="center" cellpadding="0" cellspacing="0" background="/1/s1/v2/curve/header130601.jpg">
+<table width="928" height="92" border="0" align="center" cellpadding="0" cellspacing="0" background="/1/s1/v2/curve/header130909.jpg">
   <tbody><tr>
     <td> </td>
   </tr>
@@ -177,73 +266,73 @@
             <li><a href="/1/jegem_jewelry_shopping_guide"><span>SHOPPING GUIDE</span></a></li>                
         </ul>
     </li>
-    <li><a href="/1/rings" class="parent"><span>&nbsp;Rings&nbsp;&nbsp;</span></a>
+    <li><a href="/1/rings&amp;show_items_per_page=32" class="parent"><span>&nbsp;Rings&nbsp;&nbsp;</span></a>
         <ul style="z-index:100">
-            <li><a href="/1/rings_opal"><span>Opal Rings</span></a></li>
-            <li><a href="/1/solitaire_rings"><span>Solitaire Rings</span></a></li>
-            <li><a href="/1/cluster_rings"><span>Cluster Rings</span></a></li>
-			<li><a href="/1/bold_rings"><span>Bold Rings</span></a></li>
-            <li><a href="/1/heart_rings"><span>Heart Rings</span></a></li>
-            <li><a href="/1/flower_rings"><span>Flower Rings</span></a></li>
-			<li><a href="/1/mens_rings"><span>Men's Rings</span></a></li>
-			<li><a href="/1/rings"><span>SHOP ALL RINGS</span></a></li>
+            <li><a href="/1/rings_opal&amp;show_items_per_page=32"><span>Opal Rings</span></a></li>
+            <li><a href="/1/solitaire_rings&amp;show_items_per_page=32"><span>Solitaire Rings</span></a></li>
+            <li><a href="/1/cluster_rings&amp;show_items_per_page=32"><span>Cluster Rings</span></a></li>
+			<li><a href="/1/bold_rings&amp;show_items_per_page=32"><span>Bold Rings</span></a></li>
+            <li><a href="/1/heart_rings&amp;show_items_per_page=32"><span>Heart Rings</span></a></li>
+            <li><a href="/1/flower_rings&amp;show_items_per_page=32"><span>Flower Rings</span></a></li>
+			<li><a href="/1/mens_rings&amp;show_items_per_page=32"><span>Men's Rings</span></a></li>
+			<li><a href="/1/rings&amp;show_items_per_page=32"><span>SHOP ALL RINGS</span></a></li>
         </ul>
     </li>
-    <li><a href="/1/pendants" class="parent"><span>Pendants&nbsp;</span></a>
+    <li><a href="/1/pendants&amp;show_items_per_page=32" class="parent"><span>Pendants&nbsp;</span></a>
         <ul style="z-index:100">
-            <li><a href="/1/pendants_moonstone"><span>Moonstone Pendants</span></a></li>
-            <li><a href="/1/heart_pendants"><span>Heart Pendants</span></a></li>        
-            <li><a href="/1/flower_pendants"><span>Flower Pendants</span></a></li>   
-            <li><a href="/1/cross_pendants"><span>Cross Pendants</span></a></li>    
-            <li><a href="/1/bold_pendants"><span>Bold Pendants</span></a></li>
-			<li><a href="/1/mens_pendants"><span>Men's Pendants</span></a></li>
-			<li><a href="/1/pendants"><span>SHOP ALL PENDANTS</span></a></li>
+            <li><a href="/1/pendants_moonstone&amp;show_items_per_page=32"><span>Moonstone Pendants</span></a></li>
+            <li><a href="/1/heart_pendants&amp;show_items_per_page=32"><span>Heart Pendants</span></a></li>        
+            <li><a href="/1/flower_pendants&amp;show_items_per_page=32"><span>Flower Pendants</span></a></li>   
+            <li><a href="/1/cross_pendants&amp;show_items_per_page=32"><span>Cross Pendants</span></a></li>    
+            <li><a href="/1/bold_pendants&amp;show_items_per_page=32"><span>Bold Pendants</span></a></li>
+			<li><a href="/1/mens_pendants&amp;show_items_per_page=32"><span>Men's Pendants</span></a></li>
+			<li><a href="/1/pendants&amp;show_items_per_page=32"><span>SHOP ALL PENDANTS</span></a></li>
         </ul>
     </li>
-    <li><a href="/1/earrings" class="parent"><span>Earrings&nbsp;</span></a>
+    <li><a href="/1/earrings&amp;show_items_per_page=32" class="parent"><span>Earrings&nbsp;</span></a>
 	      <ul style="z-index:100">
-            <li><a href="/1/hook_earrings"><span>Hook Earrings</span></a></li>
-            <li><a href="/1/stud_earrings"><span>Stud Earrings</span></a></li>        
-            <li><a href="/1/hoop_earrings"><span>Hoop Earrings</span></a></li>   
-            <li><a href="/1/omegaclip_earrings"><span>Omega Clip Earrings</span></a></li>    
-            <li><a href="/1/chandelier_earrings"><span>Chandelier Earrings</span></a></li>
-			<li><a href="/1/earrings"><span>SHOP ALL EARRINGS</span></a></li>
+            <li><a href="/1/hook_earrings&amp;show_items_per_page=32"><span>Hook Earrings</span></a></li>
+            <li><a href="/1/stud_earrings&amp;show_items_per_page=32"><span>Stud Earrings</span></a></li>        
+            <li><a href="/1/hoop_earrings&amp;show_items_per_page=32"><span>Hoop Earrings</span></a></li>   
+            <li><a href="/1/omegaclip_earrings&amp;show_items_per_page=32"><span>Omega Clip Earrings</span></a></li>    
+            <li><a href="/1/chandelier_earrings&amp;show_items_per_page=32"><span>Chandelier Earrings</span></a></li>
+			<li><a href="/1/earrings&amp;show_items_per_page=32"><span>SHOP ALL EARRINGS</span></a></li>
         </ul></li>
-    <li><a href="/1/bracelets" class="parent"><span>Bracelets</span></a>
+    <li><a href="/1/bracelets&amp;show_items_per_page=32" class="parent"><span>Bracelets</span></a>
 	      <ul style="z-index:100">
-		    <li><a href="/1/tennis_bracelets"><span>Tennis Bracelets</span></a></li>
-            <li><a href="/1/cuff_bracelets"><span>Cuff Bracelets</span></a></li>
-            <li><a href="/1/link_bracelets"><span>Link Bracelets</span></a></li>        
-            <li><a href="/1/beaded_bracelets"><span>Beaded Bracelets</span></a></li>
-			<li><a href="/1/charm_bracelets"><span>Charm Bracelets</span></a></li>
-			<li><a href="/1/bracelets"><span>SHOP ALL BRACELETS</span></a></li>   
+		    <li><a href="/1/tennis_bracelets&amp;show_items_per_page=32"><span>Tennis Bracelets</span></a></li>
+            <li><a href="/1/cuff_bracelets&amp;show_items_per_page=32"><span>Cuff Bracelets</span></a></li>
+            <li><a href="/1/link_bracelets&amp;show_items_per_page=32"><span>Link Bracelets</span></a></li>        
+            <li><a href="/1/beaded_bracelets&amp;show_items_per_page=32"><span>Beaded Bracelets</span></a></li>
+			<li><a href="/1/charm_bracelets&amp;show_items_per_page=32"><span>Charm Bracelets</span></a></li>
+			<li><a href="/1/bracelets&amp;show_items_per_page=32"><span>SHOP ALL BRACELETS</span></a></li>   
         </ul></li>
-    <li><a href="/1/necklaces" class="parent"><span>Necklaces</span></a>
+    <li><a href="/1/necklaces&amp;show_items_per_page=32" class="parent"><span>Necklaces</span></a>
 	      <ul style="z-index:100">
-            <li><a href="/1/beaded_necklaces"><span>Beaded Necklaces</span></a></li>
-            <li><a href="/1/chain_necklaces"><span>Chain Necklaces</span></a></li>
-			<li><a href="/1/all_pearl_necklaces"><span>Pearl Necklaces</span></a></li>
-			<li><a href="/1/necklaces"><span>SHOP ALL NECKLACES</span></a></li>        
+            <li><a href="/1/beaded_necklaces&amp;show_items_per_page=32"><span>Beaded Necklaces</span></a></li>
+            <li><a href="/1/chain_necklaces&amp;show_items_per_page=32"><span>Chain Necklaces</span></a></li>
+			<li><a href="/1/all_pearl_necklaces&amp;show_items_per_page=32"><span>Pearl Necklaces</span></a></li>
+			<li><a href="/1/necklaces&amp;show_items_per_page=32"><span>SHOP ALL NECKLACES</span></a></li>        
     </ul></li>
-    <li><a href="/1/gold_jewelry" class="parent"><span>Gold Jewelry</span></a>
+    <li><a href="/1/gold_jewelry&amp;show_items_per_page=32" class="parent"><span>Gold Jewelry</span></a>
         <ul style="z-index:100">
-            <li><a href="/1/gold_rings"><span>Gold Rings</span></a></li>
-            <li><a href="/1/gold_pendants"><span>Gold Pendants</span></a></li>
-            <li><a href="/1/gold_earrings"><span>Gold Earrings</span></a></li>
-            <li><a href="/1/gold_bracelets"><span>Gold Bracelets</span></a></li>
-            <li><a href="/1/gold_opal_jewelry"><span>Gold Opal Jewelry</span></a></li>
-            <li><a href="/1/gold_ruby_jewelry"><span>Gold Ruby Jewelry</span></a></li>
-			<li><a href="/1/gold_jewelry"><span>ALL GOLD JEWELRY</span></a></li>
+            <li><a href="/1/gold_rings&amp;show_items_per_page=32"><span>Gold Rings</span></a></li>
+            <li><a href="/1/gold_pendants&amp;show_items_per_page=32"><span>Gold Pendants</span></a></li>
+            <li><a href="/1/gold_earrings&amp;show_items_per_page=32"><span>Gold Earrings</span></a></li>
+            <li><a href="/1/gold_bracelets&amp;show_items_per_page=32"><span>Gold Bracelets</span></a></li>
+            <li><a href="/1/gold_opal_jewelry&amp;show_items_per_page=32"><span>Gold Opal Jewelry</span></a></li>
+            <li><a href="/1/gold_ruby_jewelry&amp;show_items_per_page=32"><span>Gold Ruby Jewelry</span></a></li>
+			<li><a href="/1/gold_jewelry&amp;show_items_per_page=32"><span>ALL GOLD JEWELRY</span></a></li>
         </ul>   
     </li>
 	
     <li class="parent"><a href="/1/all_accessories" class="parent"><span>More ...&nbsp;&nbsp;</span></a>
         <ul style="z-index:100">
-		    <li><a href="/1/shawl"><span>Shawls</span></a></li>
-            <li><a href="/1/brooches"><span>Brooches</span></a></li>
-			<li><a href="/1/hair_jewelry"><span>Hair Jewelry</span></a></li>
-            <li><a href="/1/beltbuckles"><span>Belt Buckles</span></a></li>
-            <li><a href="/1/mens_jewelry"><span>Men's Jewelry</span></a></li>
+		    <li><a href="/1/shawl&amp;show_items_per_page=32"><span>Shawls</span></a></li>
+            <li><a href="/1/brooches&amp;show_items_per_page=32"><span>Brooches</span></a></li>
+			<li><a href="/1/hair_jewelry&amp;show_items_per_page=32"><span>Hair Jewelry</span></a></li>
+            <li><a href="/1/beltbuckles&amp;show_items_per_page=32"><span>Belt Buckles</span></a></li>
+            <li><a href="/1/mens_jewelry&amp;show_items_per_page=32"><span>Men's Jewelry</span></a></li>
 			<li><a href="/1/all_accessories"><span>ALL ACCESSORIES</span></a></li>
       </ul>
    </li>
@@ -780,107 +869,380 @@
 </script>
 </div>
 <!-- End Main Navigation --> 
-
-    <div class="page_content">
-
-    	
+        <div class="page_content" #f7f7f7="">
 
 
-        <!-- Begin Content -->
+
         
-<div id="divSearchPanel" class="searchResultPage">
+
+<!-- Begin -  Site: JeGem.com Zone: Float Zone 1 -->
 
 
-<form name="Form1" method="post" action="privacy.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTM1NDQ1MjU0OWRkXeqJXXoLgWqXlJmcvgX38uWF8Dg=">
-
-		<table border="0" cellpadding="0" cellspacing="10" width="100%">							
-			<tbody><tr>
-				<td align="left">
-					<br>
-					<br>
-					<a href="help.aspx" target="_self">Help? &gt;</a>
-					<br>
-					<br>
-				</td>
-			</tr>
-			<tr>
-				<td class="header" align="left">
-					JeGem.com Privacy Policy
-					<br>
-					<br>
-				</td>
-			</tr>
-			<tr>
-				<td class="style3">
-					The privacy of those who visit our Web site is of primary concern to JeGem.com. 
-					We adhere to the highest ethical standards of the industry. Our Web site 
-					automatically gather some data from everyone who visits our site, while other 
-					information is obtained at the discretion of the individual. Our sole purpose 
-					in doing this is to enhance the experience of individual shoppers on JeGem.com. 
-					None of this information is shared with outside parties. What information is 
-					gathered, how it is obtained and what it is used for is explained below.
-					<br>
-					<br>
-					<span class="Title">Visit Information</span>
-					<br>
-					<br>
-					Like many other Internet web sites, the usage of our Web site is automatically 
-					tracked. We profile Web site usage by tracking the pages viewed, the previous 
-					and following sites visited, the browser used and the computer's address. This 
-					information is used to analyze trends, track use, gather demographics and 
-					optimize site administration.
-					<br>
-					<br>
-					<span class="Title">Registration Information</span>
-					<br>
-					<br>
-					To receive our newsletters, a user must first complete the registration form. 
-					During registration, users are required to provide their contact information 
-					(such as name and email address). This information is used to contact users 
-					about the services on our site for which they have expressed interest.
-					<br>
-					<br>
-					<span class="Title">Secured Purchase Information</span>
-					<br>
-					<br>
-					When a user makes purchase at our JeGem.com, the customer's name, billing 
-					address, shipping address, telephone number and credit card number and 
-					expiration date are to be submitted.
-					<span class="headerText">We do not gather or store any credit card information</span>. 
-					The credit card information is gathered securedly by our online payment 
-					solution providers, for authorizing and processing your payment.
-					<br>
-					<br>
-					The information gathers by us is for the purposes of processing your order, 
-					personalizing your shopping experience, inform you of deliveries, deliver the 
-					merchandise to the proper destination and generate statistics. We take every 
-					precaution to protect our users' information. When users submit sensitive 
-					information via the Web site, the information is protected both online and 
-					offline.
-					<br>
-					<br>
-					<br>
-					<br>
-					<br>
-					<br>
-				</td>
-			</tr>
-			<tr>
-				<td align="right">
-					<a href="help.aspx" target="_self">Help? &gt;</a>
-				</td>
-			</tr>
-			</tbody></table>
-			</form>
+<script language="javascript" type="text/javascript">
+<!--
+var browName = navigator.appName;
+var SiteID = 1;
+var ZoneID = 1;
+var browDateTime = (new Date()).getTime();
+if (browName=='Netscape')
+{
+document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://www.jegem.com/program/banner/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=37560&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime + '">'); document.write('</'+'scr'+'ipt>');
+}
+if (browName!='Netscape')
+{
+document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://www.jegem.com/program/banner/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;PageID=37560&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime + '">'); document.write('</'+'scr'+'ipt>');
+}
+// --> 
+</script><script language="javascript" src="http://www.jegem.com/program/banner/a.aspx?ZoneID=1&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=37560&amp;SiteID=1&amp;Random=1580427848233"></script>
+<noscript>
+    <a href="http://www.jegem.com/program/banner/a.aspx?ZoneID=1&amp;Task=Click&amp;Mode=HTML&amp;SiteID=1&amp;PageID=37560" target="_blank">
+    <img src="http://www.jegem.com/program/banner/a.aspx?ZoneID=1&amp;Task=Get&amp;Mode=HTML&amp;SiteID=1&amp;PageID=37560" width="9999" height="9999" border="0"  alt=""></a>
+</noscript>
 
 
 
-</div>
 
-        <!-- End Content -->
-    </div>
-    
+<!-- End -  Site: JeGem.com Zone: Float Zone 1 -->
+
+
+
+
+
+
+<div id="divSearchPanel" class="searchResultPage WithoutLeftCol">
+                <!-- Begin Content -->
+                <form name="form1" method="post" action="subhome.aspx?node=privacy&amp;" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="
+__VIEWSTATE" value="">
+
+                
+                <div style="font-weight: bold;padding-left:10px" class="subHomeBreadcrumb">
+                    <a href="http://www.jegem.com">Home</a>&nbsp;»&nbsp;<a href="/1/help">Help Index</a><span class="last">&nbsp;»&nbsp;Privacy Statement</span>
+                </div>
+                <div>
+                    </div>
+                
+                
+                
+                <!--Celebros part-->
+                <div id="celebrosDIV">
+                    
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                        <tbody><tr>
+                            <td valign="top">
+                                
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+	<!-- <tr>
+		<td align=right valign=top width="100%">
+			<table width="100%" cellpadding=0 cellspacing=0 border=0 align=right>
+				<tr>
+					<td id="rmResultsMessage_tdTrailorAddPos" width="459px">
+					</td>
+
+					<td width="10px">
+					</td>
+					<td width="110px" align=right valign=top>
+						<span style="position:relative;top:-4px;font-family:Arial;font-size:9px;color:#949494">
+							<nobr>
+								[
+								<a id="rmResultsMessage_hlBookmark" href="Javascript:if(document.all){window.external.AddFavorite('http://www.jegem.com/1/subhome.aspx?node=privacy&amp;','JeGem.com - All Products33');} else {alert('Bookmark this page!')}">Bookmark this page</a>
+								]
+							</nobr>
+						</span>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr> -->
+	
+	<tbody><tr id="rmResultsMessage_trFeatureJewelry" style="display:none">
+	<td style="padding-right:10px;display:none;">
+			<div id="rmResultsMessage_PanelFeatureJewelry">
+		
+				<table width="100%" border="0" cellpadding="0" cellspacing="0" class="featuredJewelrySingleProduct" align="center">
+					<tbody><tr>
+						
+					</tr>
+				</tbody></table>
+			
+	</div>
+		</td>
+</tr>
+
+	
+				<tr><td>
+				<table width="925" height="300" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td bgcolor="#f7f7f7">
+      <table width="900" border="0" align="center" cellpadding="0" cellspacing="0" style="font-size:7px">
+        
+        <tbody><tr>
+          <td width="9" background="/1/s1/v2/page/images/top-left.jpg"></td>
+          <td height="9" background="/1/s1/v2/page/images/top.jpg"></td>
+          <td width="9" background="/1/s1/v2/page/images/top-right.jpg"></td>
+        </tr>
+        <tr>
+          <td valign="top" background="/1/s1/v2/page/images/left.jpg">&nbsp;</td>
+          <td bgcolor="#f7f7f7"><table width="80%" border="0" cellspacing="0" cellpadding="0" align="center">
+            
+            <tbody><tr>
+              <td height="40"></td>
+            </tr>
+            <tr>
+              <td align="left"><span class="header">JeGem.com Privacy Policy</span> 
+                <br><br><br>
+                               <table cellspacing="0" cellpadding="0">
+                                 <tbody><tr>
+                                   <td></td>
+                                 </tr>
+                                 <tr>
+                                   <td class="style3">The privacy of those who visit our Web site is of primary concern to JeGem.com.   We adhere to the highest ethical standards of the industry. Our Web site   automatically gather some data from everyone who visits our site, while other   information is obtained at the discretion of the individual. Our sole purpose in   doing this is to enhance the experience of individual shoppers on JeGem.com.   None of this information is shared with outside parties. What information is   gathered, how it is obtained and what it is used for is explained below. <br>
+                                     <br>
+                                     <span class="Title">Visit Information</span> <br>
+                                     <br>
+                                     Like many other   Internet web sites, the usage of our Web site is automatically tracked. We   profile Web site usage by tracking the pages viewed, the previous and following   sites visited, the browser used and the computer's address. This information is   used to analyze trends, track use, gather demographics and optimize site   administration. <br>
+                                     <br>
+                                     <span class="Title">Registration Information</span> <br>
+                                     <br>
+                                     To receive our newsletters, a user must first complete the registration   form. During registration, users are required to provide their contact   information (such as name and email address). This information is used to   contact users about the services on our site for which they have expressed   interest. <br>
+                                     <br>
+                                     <span class="Title">Secured Purchase Information</span> <br>
+                                     <br>
+                                     When a user makes purchase at our JeGem.com, the customer's name,   billing address, shipping address, telephone number and credit card number and   expiration date are to be submitted. <span class="headerText">We do not gather or   store any credit card information.</span> The credit card information is   gathered securedly by our online payment solution providers, for authorizing and   processing your payment. <br>
+                                     <br>
+                                     The information gathers by us is for the   purposes of processing your order, personalizing your shopping experience,   inform you of deliveries, deliver the merchandise to the proper destination and   generate statistics. We take every precaution to protect our users' information.   When users submit sensitive information via the Web site, the information is   protected both online and offline.<br>
+                                   </td>
+                                 </tr>
+                                 
+                                 <tr>
+                                   <td height="40"></td>
+                                 </tr>
+                               </tbody></table>                               </td>
+            </tr>
+          </tbody></table></td>
+          <td width="9" valign="top" background="/1/s1/v2/page/images/right.jpg">&nbsp;</td>
+        </tr>
+        <tr>
+          <td valign="top"></td>
+          <td height="20" bgcolor="#f7f7f7" align="right"><a href="/1/help&amp;tr=help_help_privacy" target="_self">Back to Help Index</a></td>
+          <td valign="top"></td>
+        </tr>
+        <tr>
+          <td valign="top"></td>
+          <td height="100" bgcolor="#f7f7f7" align="right"></td>
+          <td valign="top"></td>
+        </tr>
+      </tbody></table>
+    </td></tr>
+</tbody></table>
+				</td></tr>
+				<tr id="rmResultsMessage_trcMsg" style="display:none">
+	<td style="padding-left:10px">
+			<span id="rmResultsMessage_cMsg" style="color:#666666;Display:inline;"><div style="height:10px;font-size:8px">&nbsp;</div></span>
+		</td>
+</tr>
+
+	
+</tbody></table>
+                            </td>
+                        </tr>
+                    </tbody></table>
+                    
+                    <table width="100%" bgcolor="#e5eff4" style="display: none">
+                        <tbody><tr>
+                            <td nowrap="" align="right">
+                                Sort by
+:
+<select name="ssSortingSelector$ddlSortOptions" id="ssSortingSelector_ddlSortOptions" lastindex="-1" onchange="Javascript:if(this.options[this.selectedIndex].value=='0'){SubmitData('Action=8')}if(this.options[this.selectedIndex].value=='1'){SubmitData('Action=13')}if(this.options[this.selectedIndex].value=='2'){SubmitData('Action=9')}if(this.options[this.selectedIndex].value=='3'){SubmitData('Action=14')}">
+
+</select>&nbsp;
+<!--
+<a id="ssSortingSelector_hlDirection">Ascending</a>
+-->
+
+                            </td>
+                        </tr>
+                    </tbody></table>
+
+
+    <div class="leftcol">
+
+                        
+                        
+    </div><!-- .leftcol -->
+                 
+
+                <div class="rightcol rightcolMargin">
+                        <form id="SearchForm" method="post" style="*height:100%">
+                        
+                        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                            <tbody><tr>
+                                <td valign="top">
+                                    
+                                    
+                                    <!--end of celebros part-->
+                                    
+                                </td>
+                            </tr>
+                        </tbody></table>
+                        
+                        
+                        </form>
+                    </div>
+                </div></form>
+                <!-- .right -->
+                <span class="clear" style="_line-height: 0px;_height:0px;_font-size: 0px;_margin-bottom: -2px;"></span>
+                
+                <div>
+		<br><br>
+                    </div>
+            </div>
+
+            <!-- .searchResultPage -->
+
+
+
+	    <!-- included in home, subhome, search8 -->
+
+
+
+
+
+
+<!-- included in home, subhome, search8 -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- HTML Starts -->
+<table width="926" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td height="1" bgcolor="CCCCCC"></td>
+  </tr>
+  <tr>
+    <td height="1" bgcolor="ffffff"></td>
+  </tr>
+  <tr>
+    <td><table width="926" height="103" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="eff0f5">
+      <tbody><tr>
+        <td width="463" height="103" align="center" valign="top"><a href="/1/autumn_season_gems"><img src="/1/s1/v2/mkt_bt1/fall.jpg" alt="The Greatest Loves of Fall" title="The Greatest Loves of Fall" border="0"></a></td>
+        <td width="463" height="103" align="center" valign="top"><a href="/1/sept_rewards"><img src="/1/s1/v2/mkt_bt1/sept_rewards.jpg" alt="SEPTEMBER REWARDS" title="SEPTEMBER REWARDS" border="0"></a></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+</tbody></table>
+<!-- HTML Ends -->
+
+
+
+<table width="926" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td height="1" bgcolor="CCCCCC"></td>
+  </tr>  <tr>
+    <td height="1" bgcolor="ffffff"></td>
+ </tr>
+  <tr>
+    <td><table width="926" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="EFEFF1" class="aps_link_normal">
+      <tbody><tr>
+        <td width="463" height="7" align="center" valign="middle" bgcolor="EFEFF1"></td>
+        <td width="463" height="7" align="center" bgcolor="#ede8ef"></td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle" bgcolor="EFEFF1"><table width="455" border="0" align="left" cellpadding="1" cellspacing="0" height="46">
+          <tbody><tr>
+            <td width="13" height="25" bgcolor="#EFEFF1">&nbsp;</td>
+            <td width="111" align="left" valign="bottom" bgcolor="#EFEFF1"><span style="font-family:Arial, Helvetica, sans-serif; font-size:10px; font-weight:bold; color:#333333;">&nbsp;Connect with us:</span></td>
+            <td width="9" align="left" valign="middle" bgcolor="#EFEFF1">&nbsp;</td>
+            <td width="104" align="left" valign="middle" bgcolor="#EFEFF1"><iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2FJeGem.com&amp;send=false&amp;layout=button_count&amp;width=85&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=21&amp;appId=168513126529130" scrolling="No" frameborder="0" style="border:none; overflow:hidden; width:85px; height:21px;" allowtransparency="true"></iframe></td>
+            <td width="21" rowspan="2" align="left" valign="middle" bgcolor="#EFEFF1"><script src="/1/s1/v2/home/js/fb.share.js" type="text/javascript">
+                </script></td>
+           <td width="115" align="left" valign="bottom" bgcolor="#EFEFF1"><table width="92" height="25" border="0" align="left" cellpadding="0" cellspacing="0">
+              <tbody><tr>
+			  
+			  
+			  
+			  
+			  
+                <td width="82" align="left" bgcolor="#EFEFF1">
+				
+				<!--
+				<script>function fbs_click() 
+				{u=location.href;t=document.title;window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&t='+encodeURIComponent(t),'sharer','toolbar=0,status=0,width=980,height=650');return false;}</script>
+<style>
+html .fb_share_link { 
+padding:4px 0 0 60px; 
+ border:hidden; 
+ height:1px; 
+ background:url(/1/s1/v2/quicklink/icon/fb_share1.gif) no-repeat center top;  }
+                    </style>
+                  <a rel="nofollow" href="http://www.facebook.com/share.php?u=&lt;;url&gt;" onclick="return fbs_click()" target="_blank" class="fb_share_link"></a></td>
+             
+			
+			 <script>function fbs_click() 
+				{u=location.href;t=document.title;window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&t='+encodeURIComponent(t),'sharer','toolbar=0,status=0,width=980,height=650');return false;}</script>
+			 <a href="http://www.facebook.com/sharer.php?u=http://www.jegem.com/&t=JeGem" target="_blank">
+<img src="/1/s1/v2/quicklink/icon/fb_share1.gif" border="hidden" /></a>
+
+			 http://www.facebook.com/sharer.php?u=<url to share>
+&t=<title of content>link or image</a>
+-->
+ <script>function fbs_click() 
+				{u=location.href;t=document.title;window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&t='+encodeURIComponent(t),'sharer','toolbar=0,status=0,width=980,height=650');return false;}</script>
+			 <a rel="nofollow" href="http://www.facebook.com/share.php?u=&lt;;url&gt;" onclick="return fbs_click()" target="_blank" class="fb_share_link">
+<img src="/1/s1/v2/quicklink/icon/fb_share1.gif" border="hidden"></a>
+			 
+			 
+			 
+			 
+			  </td></tr>
+           </tbody></table>
+            </td><td width="90" align="left" valign="top" bgcolor="#EFEFF1"><g:plusone href="http://www.jegem.com"></g:plusone>
+                <!-- Place this render call where appropriate -->
+                <script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+          </script></td>
+          </tr>
+          <tr>
+            <td bgcolor="#EFEFF1">&nbsp;</td>
+            <td align="right" valign="middle" bgcolor="#EFEFF1">&nbsp;</td>
+            <td align="left" valign="middle" bgcolor="#EFEFF1">&nbsp;</td>
+            <td align="left" valign="top" bgcolor="#EFEFF1"><span style="font-family:Arial; font-size:10px;">Like JeGem</span></td>
+            <td align="left" valign="top" bgcolor="#EFEFF1"><span style="font-family:Arial; font-size:10px;">Share current page</span></td>
+            <td align="left" valign="top" bgcolor="#EFEFF1">&nbsp;</td>
+          </tr>
+        </tbody></table></td>
+        <td height="63" align="center" bgcolor="#ede8ef"><form id="FormSubscribe" method="get" action="/1/thankyou.aspx">
+            <table border="0" cellspacing="0" cellpadding="0" align="center" width="399">
+              <tbody><tr>
+                <td colspan="2" align="center" valign="middle"><div align="left"><span style="font-family:Arial, Helvetica, sans-serif; color:#660099; font-weight:bold; font-size:14px">Subscribe email offers and discounts.</span></div></td>
+                </tr>
+              <tr>
+                <td width="100" align="left" valign="middle"><span style="font-family:Arial, Helvetica, sans-serif; color:#660099; font-weight:bold; font-size:11px">Enter your email:</span></td>
+                <td width="299" align="left" valign="middle"><input type="text" class="input" name="TextBoxEmail" id="TextBoxEmail" onkeydown="fnTrapKD(ButtonSend, event);">
+                  <input type="submit" id="ButtonSend" name="ButtonSend" class="ClassButton" onclick="javascript: return checkEmail(form.TextBoxEmail);" value=" Subscribe "></td>
+              </tr>
+            </tbody></table>
+        </form></td>
+      </tr>
+      
+    </tbody></table></td>
+  </tr>
+</tbody></table>
+
 <!-- Begin Footer -->
 
 
@@ -1036,7 +1398,8 @@
 </tbody></table>
 <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
   <tbody><tr>
-    <td height="38" align="center"><img src="/1/s1/v2/curve/footer.jpg" width="926" height="38"></td>
+    <td height="38" align="center"><img src="/1/s1/v2/curve/footer1.jpg" width="926" height="38"></td>
+
   </tr>
 </tbody></table>
 </div>
@@ -1058,21 +1421,11 @@
 
 </div>
 <!-- End Footer -->
-
-
-</div>
-
-
-
-
-
-
-<!-- ################################### OLD SITE #################################### -->
-
-
-			<!-- start "Footer" -->
-			<div align="center" width="100%">
-				
+        </div>
+        <!-- .page_content -->
+    </div>
+    <!-- .page -->
+    
 
 
 
@@ -1235,12 +1588,108 @@ clicky_site_ids.push(100559168);
 
 
 
-			</div>
-			<!-- end "Footer" -->
-			<!-- Start visitors Tracking-->
-			
-			<!-- End visitors Tracking-->
-		
+    
+    <form id="frmViewState" name="frmViewState">
+    <input name="iptSH" type="hidden" id="iptSH" value="D%3d12%7eI%3dFinalPrice%7eK%3d4%7eL%3d1%7eM%3d465%7e">
+    <input name="iptPS" type="hidden" id="iptPS">
+    <input name="iptLAP" type="hidden" id="iptLAP" value="0">
+    <input name="iptSC" type="hidden" id="iptSC">
+    </form>
+
+    <script language="javascript">
+
+        function SubstringExists(sLookIn, sLookFor) {
+            return (sLookIn.toUpperCase().indexOf(sLookFor.toUpperCase()) >= 0);
+        }
+
+        function SubmitData(sDataParams) {
+            var sData = "";
+            if (!SubstringExists(sDataParams, "SH")) {
+                sData = "SH=" + document.getElementById("frmViewState").iptSH.value + "&";
+            }
+            if (!SubstringExists(sDataParams, "LAP")) {
+                sData += "LAP=" + document.getElementById("frmViewState").iptLAP.value + "&";
+            }
+            sData += "SC=" + document.getElementById("frmViewState").iptSC.value + "&";
+            if (!SubstringExists(sDataParams, "PS")) {
+                sData += "PS=" + document.getElementById("frmViewState").iptPS.value + "&";
+            }
+            sData += sDataParams;
+            window.location = "?" + sData;
+        }
+
+        function ShowHideRefineSearchItems(elem) {
+            var ul = $(elem).next();
+            if (ul[0].className == "hidden") {
+                ul.removeClass("hidden");
+                ul.addClass("show");
+            }
+            else {
+                ul.removeClass("show");
+                ul.addClass("hidden");
+            }
+
+        }
+
+        function ShowMoreItems(elem, isExpanded) {
+            var i = 0;
+            $(elem).parent().parent().children('li').each(function() {
+                i++;
+                if ($(this)[0].innerHTML.indexOf("More ...") > -1) {
+                    $(this).removeClass(isExpanded ? "show" : "hidden");
+                    $(this).addClass(isExpanded ? "hidden" : "show");
+                    return;
+                }
+
+                if ($(this)[0].innerHTML.indexOf("Less ...") > -1) {
+                    $(this).removeClass(isExpanded ? "hidden" : "show");
+                    $(this).addClass(isExpanded ? "show" : "hidden");
+                    return;
+                }
+
+                if (i > 6) {
+                    $(this).removeClass(isExpanded ? "hidden" : "show");
+                    $(this).addClass(isExpanded ? "show" : "hidden");
+                }
+            });
+        }
 	
+    </script>
+
+    
+
+
+<!-- Google Code for All1 RM List. These codes should be included in all pages except https pages -->
+<script type="text/javascript"> 
+<!--
+var google_conversion_id = 1070237554;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "666666";
+var google_conversion_label = "WKb9CObswwEQ8o6q_gM";
+var google_conversion_value = 0;
+//-->
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js"> 
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1070237554/?label=WKb9CObswwEQ8o6q_gM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+ 
+ 
+
+
+
+
+
+
+
+    <script type="text/javascript" src="//tags.mediaforge.com/js/1251/?CatID=privacy"></script>
+
+
+
+
 
 </body></html>
