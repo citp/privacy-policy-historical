@@ -1,39 +1,37 @@
-> *The following text is extracted and transformed from the asdfhost.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015011239id_/http%3A//localsear.ch/index.php/welcome/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asdfhost.com privacy policy that was archived on 2013-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130911083505id_/http%3A//asdfhost.com/privacy-policy) for the most accurate reproduction.*
 
-# LocalSearch
+# ASDF Host | Privacy Policy
 
-## Information We Collect and How We Use It
+**Privacy Policy  **  
+This policy describes how and why we collect non-personally identifiable data from users and website visitors, and how that data will be used. We are committed to respecting the privacy of non-personal identifiable data gathered.
 
-_Account information._ We ask for and store information about you when you create an account on the Site, such as your name, email address, and signup location. You can also import your account information from a third party to make the LocalSear.ch registration process easier. We use your name to create your account name (first name and last initial), and we use your signup location to help target the Site to the town you live in. We use your email address to send you updates, provide services to you in connection with the Site, and to contact you on behalf of other users sending you messages, complements, and the like. We may also use your signup location, birth date, and gender (if you supply them) to display relevant advertising to you. 
+**Use of Data**  
+We use non-personally identifiable data collected from users and website visitors in order to:
 
-_Public content._ You can contribute to the Site in a number of different ways, including writing reviews, uploading photos, participating in talk threads, sending compliments, filling out your public profile, and voting on other users' contributions. We may store these contributions (your " **Public Content** "), display them to other users, and use them for promotional purposes. Note that if you include personally identifiable information in your Public Content, it can be used and viewed by others. We are not responsible for the information you choose to include in your Public Content.
+To improve the quality and functionality of the website, enhance your experience, create new services (including customized services), change/cancel existing content and services, or for other internal and statistical purposes.  
+To present you relevant content, marketing materials and advertisements, by analyzing your interests from the web pages you visit and online services that you use.
 
-_Messaging._ The Site allows you to exchange messages with others using the messaging feature and email. We may store these messages in order to deliver them and allow you to manage them. The Site also allows you to send information from the Site to your phone via text message. In order to carry out these requests, we may log your phone number, your carrier, and the date and time that the message was processed. Your carrier may charge you for texts that you receive.
+  * To provide you with support and handle inquires.
+  * To enforce our terms of use and/or EULA.
+  * To comply with any applicable law and assist law enforcement agencies as required.
+  * To conduct surveys and market researches.
+  * We may use anonymous, statistical or aggregated information about the website’s use and share, publish, post, disseminate, transmit or otherwise communicate or make available such information, to suppliers, business partners, sponsors, affiliates and any other third party, at our sole discretion.
 
-_Location data._ The Site can provide helpful information based on where you are. If you tell us where you are (e.g., by allowing your mobile device to send us your location), we may store and use that information to provide you with location-based information and advertising. If you want to deactivate this feature, you can either reinstall the application or deactivate GPS on your mobile device. The Site also allows you to tell other users where you are, if you choose.
 
-_Inviting friends._ You can invite your friends to join the Site by providing their contact information, or by entering your log-in credentials to import your address book from other sites. We may store and use your friends' contact information to invite them to join and connect with you on the Site. Your friends will always have the opportunity to opt-out of receiving further emails from us.
 
-_Activity and log data._ We automatically store information related to your use of the Site, such as the pages you view on the Site, your browser type, IP address, the phone numbers and names of businesses that you call through the Site, requested URL, browser language, referring URL, and the date and time of your visit. We use this type of information to administer the Site and provide the highest possible level of service to you. We also use this information in the aggregate to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of the Site.
+**Cookies and Log Files**  
+Cookies may be used on some pages of our site. Cookies are small text files placed on your hard drive that assist us in providing a more customized website experience. It is our policy to use cookies to make navigation of our website easier for visitors.  
+If you are concerned about cookies, most browsers permit individuals to decline cookies. A user refusing cookies can still fully navigate our website.  
+In order to properly manage our website we may anonymously log information on our systems, and identify categories of visitors by items such as domains and browser types. These statistics are used to manage the operational efficiency of our systems.
 
-_Cookies._ We send cookies to your computer in order to uniquely identify your browser and improve the quality of our service. " **Cookies** " refer to small pieces of information that a website sends to your computer's hard drive while you are viewing the Site. We may use both session cookies (which expire once you close your browser) and persistent cookies (which stay on your computer until you delete them). Persistent cookies can be removed by following your browser help file directions. If you choose to disable cookies, some areas of the Site may not work properly or at all. Our cookies are linked to your information, such as your name, email address and password. We enable some of our business partners to use cookies in conjunction with your use of the Site. We have no access to or control over the use of these cookies. These cookies collect information about your use of the Site, such as where you came from, which pages you visited within the Site, and possibly other sites you visit if those sites cooperate with the same third party, but do not collect your name, email address, contact information or other personally identifiable information that by itself would allow the third party to identify or contact you.
+**Age Limit**  
+To use this website you must be at least 18 years of age. We never knowingly collect or maintain information at or on our website from those we actually know are under 18. If you are not 18 years of age you must obtain written consent from an adult who is at least 18 years of age before using this website.
 
-_Feedback._ You should feel free to give us feedback, register a complaint, or ask questions about the Site. We may store your communications, including any personal information you include in them, so that we can effectively respond to you.
+**Changes to Policy**  
+From time to time, we may revise this Privacy Policy. Therefore, it is recommended that you read it periodically. All substantial changes made to this policy will be notified on the website, at our sole discretion, and will take effect immediately.
 
-_Administration._ We may use the information described above for routine administrative purposes, such as investigating abuses on the Site, responding to user inquiries and enforcing and applying our Terms of Service and Statement.
+**Governing Law**  
+This Privacy Policy is governed by and construed in accordance with the laws of the United States. You agree to submit any dispute arising out of your use of this Web site to the exclusive jurisdiction of the courts of United States.
 
-_Data storage._ We store data in the United States.
-
-_Credit Card Purchases._ If you purchase business advertising or other LocalSear.ch products and services online, we collect and store billing and credit card information. This information will only be shared with third parties who perform tasks (such as fulfilling orders and processing credit card payments) required to complete the purchase transaction. When you enter sensitive information (such as a credit card number) on our registration or order forms, we encrypt that information using 128-bit secure socket layer technology (SSL).
-
-## Transfer of Information
-
-_Public Content._ If you post content for public view on the Site, we may distribute such Public Content to a wider audience by sharing it (or portions of it) with third parties so that they can publish it on their own websites and media platforms. We may ask them to credit you as the source of these contributions by including your account name and profile photo.
-
-_Third party service providers._ We may use third parties to provide technical and customer support, perform tracking and reporting functions, conduct quality assurance testing, perform payment processing and provide other services in connection with the Site. We may share information about you with them so that they can perform the services they are required to perform, but they are not permitted to use your personal information other than to provide the services requested by you.
-
-_Aggregate information._ We may share non-personal information in the aggregate to third parties relating to user behavior in connection with actual or prospective business relationship with those third parties, such as advertisers and content distributors. For example, we may disclose the number of users that have been exposed to, or clicked on, advertising banners.
-
-_Business transfers._ We may share your information with our parent company, subsidiaries, joint ventures, or other companies under a common control that we may have now or in the future, in which case we will require them to honor this Statement. If another company acquires our company or all or substantially all of our assets, that company will possess your information, and will assume the rights and obligations with respect to that information as described in this Statement.
-
-_Investigations._ We reserve the right to investigate abuses on the Site, and enforce and apply our Terms of Service and Statement. We may disclose information about you to third parties if we have a good faith belief that such disclosure is reasonably necessary to (a) take action regarding suspected illegal activities; (b) enforce or apply our Terms of Service and Statement; (c) comply with legal process and law enforcement instructions and orders, such as a search warrant, subpoena, statute, judicial proceeding, or other legal process served on us; or (d) protect our rights, reputation, and property, or that of our users, affiliates, or the public.
+**Contact us**  
+Please direct all questions in connection with this Policy via the Contact Us tab.
