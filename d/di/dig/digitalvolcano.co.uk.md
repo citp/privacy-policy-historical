@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalvolcano.co.uk privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609194612id_/http%3A//www.digitalvolcano.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalvolcano.co.uk privacy policy that was archived on 2013-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130911073509id_/http%3A//www.digitalvolcano.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Download Duplicate Cleaner
 
