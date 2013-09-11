@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the john-engle.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231090408id_/http%3A//seoblogtips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the john-engle.com privacy policy that was archived on 2013-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130911055204id_/http%3A//john-engle.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | SEOBlogTips.com
-
-## Privacy Policy
+# Privacy Policy | John-Engle.com
 
 #### What information do we collect?
 
@@ -54,4 +52,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-<http://seoblogtips.com/contact/>
+<http://john-engle.com/contact-author/>
