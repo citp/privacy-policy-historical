@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toolkit.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610141855id_/http%3A//www.bizfilings.com/toolkit/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toolkit.com privacy policy that was archived on 2013-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130911111243id_/http%3A//www.bizfilings.com/toolkit/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | BizFilings Toolkit
 
