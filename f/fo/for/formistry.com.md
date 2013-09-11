@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the formistry.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610190347id_/http%3A//formistry.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the formistry.com privacy policy that was archived on 2013-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130911072557id_/http%3A//www.formistry.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy | GreenClouds - Putting Education On Clouds
+# Privacy Policy | GreenClouds
 
-Privacy Policy
+[](https://privacy.truste.com/privacy-seal/Greenclouds-Management-Services-Pvt--Ltd-/validation?rid=9a0086ff-0297-416f-a29f-49d6ce418c99 "TRUSTe privacy certification")
 
-Effective Date: May 18, 2012
+## Effective Date: May 18, 2012
 
 This privacy statement describes how Greenclouds Education Solutions Pvt. Ltd. (GreenClouds) collects and uses the personal information you provide on our Formistry.com service platform. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
