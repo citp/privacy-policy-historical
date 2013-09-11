@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the motorhomefacts.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531013940id_/http%3A//www.motorhomefacts.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorhomefacts.com privacy policy that was archived on 2013-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130911101136id_/http%3A//www.motorhomefacts.com/privacy.html) for the most accurate reproduction.*
 
-# UK Motorhomes, Motorhome Information, Motorhomes Reviews, American RV Reviews, Motorhome Forum, American RV forum, Sales, Campsites ->Motorhome Forums
+# UK Motorhomes, Motorhome Information, Motorhomes Reviews, American RV Reviews, Motorhome Forum, American RV forum, Sales, Campsites ->Motorhome Sales
 
 **Motorhome Facts** is the sole owner of the information collected from our website. We do not, or will not sell, share, or rent this information to others in ways different from what is disclosed in our privacy statement below.
 
