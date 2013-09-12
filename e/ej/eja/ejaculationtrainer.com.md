@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ejaculationtrainer.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610180856id_/http%3A//ejaculationtrainer.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ejaculationtrainer.com privacy policy that was archived on 2013-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130913012103id_/http%3A//www.ejaculationtrainer.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -72,4 +72,4 @@ Copyright © 2008-2009 [Law Office of Michael E. Young PLLC](http://www.mikeyoun
 
 **Copyright © EjaculationTrainer.com All rights Reserved**
 
-**[Contact](https://web.archive.org/web/20130610180856id_/http%3A//ejaculationtrainer.com/contact.html)      [Terms Of Use](https://web.archive.org/web/20130610180856id_/http%3A//ejaculationtrainer.com/termsofuse.html)     [Privacy Policy](https://web.archive.org/web/20130610180856id_/http%3A//ejaculationtrainer.com/privacypolicy.html)     [Testimonials ](https://web.archive.org/web/20130610180856id_/http%3A//ejaculationtrainer.com/testimonials.html)    [Affiliates](https://web.archive.org/web/20130610180856id_/http%3A//ejaculationtrainer.com/affiliates.html)**
+**[Contact](https://web.archive.org/web/20130913012103id_/http%3A//www.ejaculationtrainer.com/contact.html)      [Terms Of Use](https://web.archive.org/web/20130913012103id_/http%3A//www.ejaculationtrainer.com/termsofuse.html)     [Privacy Policy](https://web.archive.org/web/20130913012103id_/http%3A//www.ejaculationtrainer.com/privacypolicy.html)     [Testimonials ](https://web.archive.org/web/20130913012103id_/http%3A//www.ejaculationtrainer.com/testimonials.html)    [Affiliates](https://web.archive.org/web/20130913012103id_/http%3A//www.ejaculationtrainer.com/affiliates.html)**
