@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cacareerzone.org privacy policy that was archived on 2013-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130421011425id_/http%3A//www.cacareerzone.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cacareerzone.org privacy policy that was archived on 2013-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130913002351id_/http%3A//www.cacareerzone.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
