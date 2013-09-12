@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the fuel.tv privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626004933id_/http%3A//www.fuel.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuel.tv privacy policy that was archived on 2013-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130912122733id_/http%3A//fuel.tv/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FUEL TV
 
-## Effective June 27, 2011
+## Effective June 28, 2013
 
 ### 1\. INTRODUCTION
 
-Fuel TV, Inc. ("Fuel TV" or "we") operates the website http://www.Fuel.tv which is an entertainment website featuring the lifestyle and culture of adrenaline and thrill-seeking sports and the stories that surround them (the "Site"). The services Fuel TV offers include the Site, newsletters and any other features, content, or applications offered from time to time by Fuel TV in connection with the Site, including when FuelTV.com is accessed via the Internet, mobile or other device (collectively, the "Fuel TV Services"). Fuel TV is part of the United States based operations of News Corporation.
+Fuel TV, Inc. ("Fuel TV" or "we") operates the website http://www.Fuel.tv which is an entertainment website featuring the lifestyle and culture of adrenaline and thrill-seeking sports and the stories that surround them (the "Site"). The services Fuel TV offers include the Site, newsletters and any other features, content, or applications offered from time to time by Fuel TV in connection with the Site, including when FuelTV.com is accessed via the Internet, mobile or other device (collectively, the "Fuel TV Services"). Fuel TV is part of the United States based operations of Twenty-First Century Fox, Inc.
 
 As set forth in our [Terms of Use](http://www.fuel.tv/tos), Fuel TV is a general audience site, is not targeted to children, and does not knowingly collect personal information from children under 13 years of age.
 
@@ -42,7 +42,7 @@ Most browsers are initially set to accept cookies, but you can change your setti
 
 **Location of Data.** The Fuel TV Services are hosted in the United States. If you are a user located outside the United States, you understand and consent to having any personal information you provide transferred to and processed in the United States. U.S. data protection and other relevant laws may not be the same as those in your jurisdiction. As a result, please read this Privacy Policy with care.
 
-**Linked Websites.** The Fuel TV Services may also be linked to sites or services operated by Fuel TV affiliates (i.e., that are part of the News America Group: "Affiliated Companies") or third parties, and may carry advertisements or offer content, functionality, games, newsletters, contests or sweepstakes, or applications developed and maintained by third parties. Fuel TV is not responsible for the privacy practices of any such third parties, and once you submit information directly to a third party, leave the Fuel TV Services via a link, enable a third-party service, or click an advertisement, you should check the applicable privacy policy of that third-party. Additionally, although all Affiliated Companies adhere to the News Corporation corporate [Privacy Principles](http://www.newscorp.com/privacy.html), users who visit an Affiliated Company site should still refer to its separate privacy policy, which may differ in some respects from this Privacy Policy. 
+**Linked Websites.** The Fuel TV Services may also be linked to sites or services operated by Fuel TV affiliates (i.e., that are part of Twenty-First Century Fox, Inc.: "Affiliated Companies") or third parties, and may carry advertisements or offer content, functionality, games, newsletters, contests or sweepstakes, or applications developed and maintained by third parties. Fuel TV is not responsible for the privacy practices of any such third parties, and once you submit information directly to a third party, leave the Fuel TV Services via a link, enable a third-party service, or click an advertisement, you should check the applicable privacy policy of that third-party. Additionally, although all Affiliated Companies adhere to the Twenty-First Century Fox, Inc. corporate [Privacy Principles](http://www.21cf.com/), users who visit an Affiliated Company site should still refer to its separate privacy policy, which may differ in some respects from this Privacy Policy. 
 
 ### 4\. USE AND DISCLOSURE
 
