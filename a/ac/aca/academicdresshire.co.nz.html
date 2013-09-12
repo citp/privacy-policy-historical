@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the academicdresshire.co.nz privacy policy that was archived on 2013-04-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130420030206id_/http%3A//www.academicdresshire.co.nz/About%2BUs/Privacy%2B%2BLegal%2BPolicies.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the academicdresshire.co.nz privacy policy that was archived on 2013-09-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130912150741id_/http%3A//www.academicdresshire.co.nz/About%2BUs/Privacy%2B%2BLegal%2BPolicies.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 
@@ -25,21 +25,13 @@
 	<link rel="SHORTCUT ICON" href="/site/academicdresshire/images/basic_theme/favicon.ico">	
 
 	<style type="text/css">
-		@import "/academicdresshire/stylesheet/x_b/0/c/gFLDKL2E-azqxkfB4/template/117/template_style.css";
+		@import "/academicdresshire/stylesheet/x_b/0/c/5oAW8SR1-2PzJ1zMl/template/117/template_style.css";
 
 
+@import "/academicdresshire/stylesheet/x_b/0/c/5oAW8SR1-2PzJ1zMl/page/460/page_style.css";
 
 
-
-.plain_content {
-height: 100%;
-}
-.component_ContentDisplay_Content {
-margin: 0; margin: 0; padding: 8px 14px;  } 
-
-
-
-
+ 
 
 
 		
@@ -49,291 +41,23 @@ margin: 0; margin: 0; padding: 8px 14px;  }
 	<script src="http://ajax.googleapis.com/ajax/libs/prototype/1.7.0.0/prototype.js" language="javascript" type="text/javascript"></script>
 <script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.5.3/modernizr.min.js" language="javascript" type="text/javascript"></script>
 <script language="javascript" type="text/javascript">//<![CDATA[
-
-AJAX_LOADING = '<img style="vertical-align:middle; margin: 5px;" src="/interchange-5/en_US/throbber.gif" class="throbber"><em>Loading</em>';
-    // wrapper for ajax_topcart_content
-    function ajax_topcart_content() {
-
-		// count args; build URL
-		var i, x, n, t;
-		var url = "/academicdresshire/process", a = ajax_topcart_content.arguments;
-		var args = "nc=1";
-		var url_args = "mv_display=ajax_action_ajax_topcart_content&remote_sub=ajax_topcart_content&mv_pc=S&id=2H2UP6do";
-
-		// if only 1 parameter is passed (as well as a callback) and it is an array, assume these are the arguments
-		if ( a.length == 2 && a[0].constructor.toString().indexOf('Array') != -1 ) {
-			t = a[0];
-			t.push( a[1] );
-			a = t;
-		}
-		for (i = 0; i < a.length-1; i++) { args += "&rsargs=" + escape(a[i]); }
-		url = url.replace( /[\+]/g, '%2B'); // fix the unescaped plus signs
-		args = args.replace( /[\+]/g, '%2B'); // fix the unescaped plus signs
-		url_args = url_args.replace( /[\+]/g, '%2B'); // fix the unescaped plus signs
-
-		var method = 'POST';
-		if ( method != 'POST' ) {
-			var joiner = ( url.indexOf( '?') == -1 ) ? '?' : '&';
-			url += joiner + args;
-			args = null;
-		}
-		if ( url_args ) {
-			var joiner = (url.indexOf( '?') == -1 ) ? '?' : '&';
-			url += joiner + url_args;
-			url_args = null;
-		}
-
-
-		x = rs_init_object();
-		x.open( method, url, ( !rs_is_activex || method != 'POST' ) );
-		if ( method == 'POST' ) x.setRequestHeader( 'Content-Type', 'application/x-www-form-urlencoded' );
-		x.onreadystatechange = function() {
-
-	           	    if (x.readyState != 4) { return; }
-	    var status;
-	    var data;
-        var error;
-	    status = x.responseText.charAt(0);
-	    data = x.responseText.substring(2);
-	    if (status == "-") {
-          alert("Error: " + callback_n);
-          error = 1;
-        }
-        else if (status != "+") data = x.responseText;
-
-	    if (!error)  
-			try {
-				a[a.length-1](data);
-			}
-			catch(e) {
-			}
-
-			   if (typeof(GoogleTools) != 'undefined' ) {
-			   	  window.setTimeout(function() {
-   				  							   GoogleTools.fixLinks();
-									},300);
-				}
-		}
-	    
-		x.send( args );
-	}
-
+function ajax_topcart_content() { var a = arguments; ;x = rs_init_object( 'POST', "/academicdresshire/process", "nc=1", "mv_display=ajax_action_ajax_topcart_content&remote_sub=ajax_topcart_content&mv_pc=S&id=7YYyvhg3", Array.prototype.slice.call(arguments).slice(0, a.length-1 ),          a[a.length-1]
+);}
 
 //]]></script>
 <script language="javascript" type="text/javascript">//<![CDATA[
-
-AJAX_LOADING = '<img style="vertical-align:middle; margin: 5px;" src="/interchange-5/en_US/throbber.gif" class="throbber"><em>Loading</em>';
-    // wrapper for ajax_set_shipping_country
-    function ajax_set_shipping_country() {
-
-		// count args; build URL
-		var i, x, n, t;
-		var url = "/academicdresshire/process", a = ajax_set_shipping_country.arguments;
-		var args = "nc=1";
-		var url_args = "mv_display=ajax_action_ajax_set_shipping_country&remote_sub=ajax_set_shipping_country&mv_pc=S&id=2H2UP6do";
-
-		// if only 1 parameter is passed (as well as a callback) and it is an array, assume these are the arguments
-		if ( a.length == 2 && a[0].constructor.toString().indexOf('Array') != -1 ) {
-			t = a[0];
-			t.push( a[1] );
-			a = t;
-		}
-		for (i = 0; i < a.length-1; i++) { args += "&rsargs=" + escape(a[i]); }
-		url = url.replace( /[\+]/g, '%2B'); // fix the unescaped plus signs
-		args = args.replace( /[\+]/g, '%2B'); // fix the unescaped plus signs
-		url_args = url_args.replace( /[\+]/g, '%2B'); // fix the unescaped plus signs
-
-		var method = 'POST';
-		if ( method != 'POST' ) {
-			var joiner = ( url.indexOf( '?') == -1 ) ? '?' : '&';
-			url += joiner + args;
-			args = null;
-		}
-		if ( url_args ) {
-			var joiner = (url.indexOf( '?') == -1 ) ? '?' : '&';
-			url += joiner + url_args;
-			url_args = null;
-		}
-
-
-		x = rs_init_object();
-		x.open( method, url, ( !rs_is_activex || method != 'POST' ) );
-		if ( method == 'POST' ) x.setRequestHeader( 'Content-Type', 'application/x-www-form-urlencoded' );
-		x.onreadystatechange = function() {
-
-	           	    if (x.readyState != 4) { return; }
-	    var status;
-	    var data;
-        var error;
-	    status = x.responseText.charAt(0);
-	    data = x.responseText.substring(2);
-	    if (status == "-") {
-          alert("Error: " + callback_n);
-          error = 1;
-        }
-        else if (status != "+") data = x.responseText;
-
-	    if (!error)  
-			try {
-				a[a.length-1](data);
-			}
-			catch(e) {
-			}
-
-			   if (typeof(GoogleTools) != 'undefined' ) {
-			   	  window.setTimeout(function() {
-   				  							   GoogleTools.fixLinks();
-									},300);
-				}
-		}
-	    
-		x.send( args );
-	}
-
+function ajax_set_shipping_country() { var a = arguments; ;x = rs_init_object( 'POST', "/academicdresshire/process", "nc=1", "mv_display=ajax_action_ajax_set_shipping_country&remote_sub=ajax_set_shipping_country&mv_pc=S&id=7YYyvhg3", Array.prototype.slice.call(arguments).slice(0, a.length-1 ),          a[a.length-1]
+);}
 
 //]]></script>
 <script language="javascript" type="text/javascript">//<![CDATA[
-
-AJAX_LOADING = '<img style="vertical-align:middle; margin: 5px;" src="/interchange-5/en_US/throbber.gif" class="throbber"><em>Loading</em>';
-    // wrapper for ajax_set_shipmode
-    function ajax_set_shipmode() {
-
-		// count args; build URL
-		var i, x, n, t;
-		var url = "/academicdresshire/process", a = ajax_set_shipmode.arguments;
-		var args = "nc=1";
-		var url_args = "mv_display=ajax_action_ajax_set_shipmode&remote_sub=ajax_set_shipmode&mv_pc=S&id=2H2UP6do";
-
-		// if only 1 parameter is passed (as well as a callback) and it is an array, assume these are the arguments
-		if ( a.length == 2 && a[0].constructor.toString().indexOf('Array') != -1 ) {
-			t = a[0];
-			t.push( a[1] );
-			a = t;
-		}
-		for (i = 0; i < a.length-1; i++) { args += "&rsargs=" + escape(a[i]); }
-		url = url.replace( /[\+]/g, '%2B'); // fix the unescaped plus signs
-		args = args.replace( /[\+]/g, '%2B'); // fix the unescaped plus signs
-		url_args = url_args.replace( /[\+]/g, '%2B'); // fix the unescaped plus signs
-
-		var method = 'POST';
-		if ( method != 'POST' ) {
-			var joiner = ( url.indexOf( '?') == -1 ) ? '?' : '&';
-			url += joiner + args;
-			args = null;
-		}
-		if ( url_args ) {
-			var joiner = (url.indexOf( '?') == -1 ) ? '?' : '&';
-			url += joiner + url_args;
-			url_args = null;
-		}
-
-
-		x = rs_init_object();
-		x.open( method, url, ( !rs_is_activex || method != 'POST' ) );
-		if ( method == 'POST' ) x.setRequestHeader( 'Content-Type', 'application/x-www-form-urlencoded' );
-		x.onreadystatechange = function() {
-
-	           	    if (x.readyState != 4) { return; }
-	    var status;
-	    var data;
-        var error;
-	    status = x.responseText.charAt(0);
-	    data = x.responseText.substring(2);
-	    if (status == "-") {
-          alert("Error: " + callback_n);
-          error = 1;
-        }
-        else if (status != "+") data = x.responseText;
-
-	    if (!error)  
-			try {
-				a[a.length-1](data);
-			}
-			catch(e) {
-			}
-
-			   if (typeof(GoogleTools) != 'undefined' ) {
-			   	  window.setTimeout(function() {
-   				  							   GoogleTools.fixLinks();
-									},300);
-				}
-		}
-	    
-		x.send( args );
-	}
-
+function ajax_set_shipmode() { var a = arguments; ;x = rs_init_object( 'POST', "/academicdresshire/process", "nc=1", "mv_display=ajax_action_ajax_set_shipmode&remote_sub=ajax_set_shipmode&mv_pc=S&id=7YYyvhg3", Array.prototype.slice.call(arguments).slice(0, a.length-1 ),          a[a.length-1]
+);}
 
 //]]></script>
 <script language="javascript" type="text/javascript">//<![CDATA[
-
-AJAX_LOADING = '<img style="vertical-align:middle; margin: 5px;" src="/interchange-5/en_US/throbber.gif" class="throbber"><em>Loading</em>';
-    // wrapper for ajax_delete_row
-    function ajax_delete_row() {
-
-		// count args; build URL
-		var i, x, n, t;
-		var url = "/academicdresshire/process", a = ajax_delete_row.arguments;
-		var args = "nc=1";
-		var url_args = "mv_display=ajax_action_ajax_delete_row&remote_sub=ajax_delete_row&mv_pc=S&id=2H2UP6do";
-
-		// if only 1 parameter is passed (as well as a callback) and it is an array, assume these are the arguments
-		if ( a.length == 2 && a[0].constructor.toString().indexOf('Array') != -1 ) {
-			t = a[0];
-			t.push( a[1] );
-			a = t;
-		}
-		for (i = 0; i < a.length-1; i++) { args += "&rsargs=" + escape(a[i]); }
-		url = url.replace( /[\+]/g, '%2B'); // fix the unescaped plus signs
-		args = args.replace( /[\+]/g, '%2B'); // fix the unescaped plus signs
-		url_args = url_args.replace( /[\+]/g, '%2B'); // fix the unescaped plus signs
-
-		var method = 'POST';
-		if ( method != 'POST' ) {
-			var joiner = ( url.indexOf( '?') == -1 ) ? '?' : '&';
-			url += joiner + args;
-			args = null;
-		}
-		if ( url_args ) {
-			var joiner = (url.indexOf( '?') == -1 ) ? '?' : '&';
-			url += joiner + url_args;
-			url_args = null;
-		}
-
-
-		x = rs_init_object();
-		x.open( method, url, ( !rs_is_activex || method != 'POST' ) );
-		if ( method == 'POST' ) x.setRequestHeader( 'Content-Type', 'application/x-www-form-urlencoded' );
-		x.onreadystatechange = function() {
-
-	           	    if (x.readyState != 4) { return; }
-	    var status;
-	    var data;
-        var error;
-	    status = x.responseText.charAt(0);
-	    data = x.responseText.substring(2);
-	    if (status == "-") {
-          alert("Error: " + callback_n);
-          error = 1;
-        }
-        else if (status != "+") data = x.responseText;
-
-	    if (!error)  
-			try {
-				a[a.length-1](data);
-			}
-			catch(e) {
-			}
-
-			   if (typeof(GoogleTools) != 'undefined' ) {
-			   	  window.setTimeout(function() {
-   				  							   GoogleTools.fixLinks();
-									},300);
-				}
-		}
-	    
-		x.send( args );
-	}
-
+function ajax_delete_row() { var a = arguments; ;x = rs_init_object( 'POST', "/academicdresshire/process", "nc=1", "mv_display=ajax_action_ajax_delete_row&remote_sub=ajax_delete_row&mv_pc=S&id=7YYyvhg3", Array.prototype.slice.call(arguments).slice(0, a.length-1 ),          a[a.length-1]
+);}
 
 //]]></script>
  
@@ -377,7 +101,7 @@ AJAX_LOADING = '<img style="vertical-align:middle; margin: 5px;" src="/interchan
 	<div id="c409" class="component_Layout_Table">
 	
 
-<table width="100%" cellspacing="0" class="table_layout">
+<table width="300px" cellspacing="0" class="table_layout">
 	<tbody><tr class="r1">
 		<td class="ltc c1" style="width:110px; text-align:center;">
 			<div class="content_container_409_1">
@@ -388,7 +112,7 @@ AJAX_LOADING = '<img style="vertical-align:middle; margin: 5px;" src="/interchan
 
 
 
-<script src="http://www.academicdresshire.co.nz/process/x_lv/1%2e1/mv_display/ajax.js" language="javascript" type="text/javascript"></script>
+<script src="http://www.academicdresshire.co.nz/process/x_lv/1%2e4/mv_display/ajax.js" language="javascript" type="text/javascript"></script>
 
 
 
@@ -524,7 +248,7 @@ AJAX_LOADING = '<img style="vertical-align:middle; margin: 5px;" src="/interchan
 		 }
 	       };  
 	       
-           process_url = 'http://www.academicdresshire.co.nz/process/x_273/About+Us+Privacy++Legal+Policies/id/2H2UP6do/mv_pc/s.html';
+           process_url = 'http://www.academicdresshire.co.nz/process/x_273/About+Us+Privacy++Legal+Policies/id/7YYyvhg3/mv_pc/s.html';
 	       var oRequest = new Ajax.Request( process_url, oOptions);  
 	     }     
 	     
@@ -551,10 +275,10 @@ AJAX_LOADING = '<img style="vertical-align:middle; margin: 5px;" src="/interchan
     
       
     
-	<a href="https://secure.zeald.com/academicdresshire/basket.html?id=2H2UP6do&amp;mv_pc=s" rel="nofollow"><img src="/site/academicdresshire/images/basic_theme/cart.gif" alt="cart"></a><br>
+	<a href="https://secure.zeald.com/academicdresshire/basket.html?id=7YYyvhg3&amp;mv_pc=s" rel="nofollow"><img src="/site/academicdresshire/images/basic_theme/cart.gif" alt="cart"></a><br>
 
     
-	<a href="https://secure.zeald.com/academicdresshire/basket.html?id=2H2UP6do&amp;mv_pc=s" rel="nofollow" class="cart_text_size">Shopping Cart</a>
+	<a href="https://secure.zeald.com/academicdresshire/basket.html?id=7YYyvhg3&amp;mv_pc=s" rel="nofollow" class="cart_text_size">Shopping Cart</a>
 
 
       
@@ -591,7 +315,7 @@ AJAX_LOADING = '<img style="vertical-align:middle; margin: 5px;" src="/interchan
 <div class="search_box">
 
 
-<form action="https://secure.zeald.com/academicdresshire/results.html?id=2H2UP6do&amp;mv_pc=s" method="get">
+<form action="https://secure.zeald.com/academicdresshire/results.html?id=7YYyvhg3&amp;mv_pc=s" method="get">
 <input type="text" name="q" class="search_criteria"><input type="submit" class="zbtn search_button" value="Search" style="background:url( /site/academicdresshire/images/basic_theme/btn_search_go.gif ) no-repeat; width:13px; height:16px;">
 </form>
 </div>
@@ -607,7 +331,6 @@ AJAX_LOADING = '<img style="vertical-align:middle; margin: 5px;" src="/interchan
 	<div id="c687" class="component_ContentDisplay_Content">
 	
 
-
 <div class="plain_content">
  
  <h4 style="text-align: right;">
@@ -616,7 +339,6 @@ AJAX_LOADING = '<img style="vertical-align:middle; margin: 5px;" src="/interchan
 
  
 </div>
-
 
 	</div>
 		</div>
@@ -629,7 +351,6 @@ AJAX_LOADING = '<img style="vertical-align:middle; margin: 5px;" src="/interchan
 	<div id="c688" class="component_ContentDisplay_Content">
 	
 
-
 <div class="plain_content">
  
  <h4>
@@ -637,7 +358,6 @@ AJAX_LOADING = '<img style="vertical-align:middle; margin: 5px;" src="/interchan
 
  
 </div>
-
 
 	</div>
 		</div></header>
@@ -789,7 +509,7 @@ document.observe('dom:loaded', function(ev) {
   
 
 <div class="ct_dropdown ct_hide">
-<div class="ct_dropdown_subcat"><h3 class="cat"><a href="http://www.academicdresshire.co.nz/shop/Hire+Regalia.html">Hire Regalia</a></h3><ul class="ct_dropdown_children"><li class="cat"><a href="http://www.academicdresshire.co.nz/shop/Hire+Regalia/Casual+Hire.html">Casual Hire</a></li><li class="cat"><a href="http://www.academicdresshire.co.nz/shop/Hire+Regalia/The+University+of+Auckland+6th+May.html">The University of Auckland 6th May</a></li><li class="cat"><a href="http://www.academicdresshire.co.nz/shop/Hire+Regalia/The+University+of+Auckland+8th+May.html">The University of Auckland 8th May</a></li><li class="cat"><a href="http://www.academicdresshire.co.nz/shop/Hire+Regalia/The+University+of+Auckland+10th+May.html">The University of Auckland 10th May</a></li><li class="cat"><a href="http://www.academicdresshire.co.nz/shop/Hire+Regalia/Unitec+16th++17th+April+2013.html">Unitec 16th &amp; 17th April 2013</a></li><li class="cat"><a href="http://www.academicdresshire.co.nz/shop/Hire+Regalia/Manukau+Institute+of+Technology.html">Manukau Institute of Technology</a></li></ul></div><div class="ct_dropdown_subcat"><h3 class="cat"><a href="http://www.academicdresshire.co.nz/shop/Example+Category+2.html">Buy Regalia</a></h3><ul class="ct_dropdown_children"><li class="cat"><a href="http://www.academicdresshire.co.nz/shop/Example+Category+2/Individual+Pieces.html">Individual Pieces</a></li><li class="cat"><a href="http://www.academicdresshire.co.nz/shop/Example+Category+2/Full+Regalia+Sets.html">Full Regalia Sets</a></li></ul></div><div class="ct_dropdown_subcat"><h3 class="cat"><a href="http://www.academicdresshire.co.nz/shop/Other+Products+%26+Services.html">Other Products &amp; Services</a></h3><ul class="ct_dropdown_children"></ul></div>
+<div class="ct_dropdown_subcat"><h3 class="cat"><a href="http://www.academicdresshire.co.nz/shop/Hire+Regalia.html">Hire Regalia</a></h3><ul class="ct_dropdown_children"><li class="cat"><a href="http://www.academicdresshire.co.nz/shop/Hire+Regalia/University+of+Auckland+24th+September+2013.html">The University of Auckland September 2013</a></li><li class="cat"><a href="http://www.academicdresshire.co.nz/shop/Hire+Regalia/Unitec+13th+September+2013.html">Unitec 13th September 2013</a></li><li class="cat"><a href="http://www.academicdresshire.co.nz/shop/Hire+Regalia/Other+Institutes.html">Other Institutes</a></li></ul></div><div class="ct_dropdown_subcat"><h3 class="cat"><a href="http://www.academicdresshire.co.nz/shop/Example+Category+2.html">Buy Regalia</a></h3><ul class="ct_dropdown_children"><li class="cat"><a href="http://www.academicdresshire.co.nz/shop/Example+Category+2/Individual+Pieces.html">Individual Pieces</a></li><li class="cat"><a href="http://www.academicdresshire.co.nz/shop/Example+Category+2/Full+Regalia+Sets.html">Full Regalia Sets</a></li></ul></div><div class="ct_dropdown_subcat"><h3 class="cat"><a href="http://www.academicdresshire.co.nz/shop/Other+Products+%26+Services.html">Other Products &amp; Services</a></h3><ul class="ct_dropdown_children"></ul></div>
 <div class="clear"></div>
 </div>
 
@@ -840,7 +560,7 @@ document.observe('dom:loaded', function(ev) {
   
 
 <div class="ct_dropdown ct_hide">
-<div class="ct_dropdown_subcat"><h3 class="content"><a href="http://www.academicdresshire.co.nz/FAQs/Ordering+and+Payment.html">Ordering and Payment</a></h3><ul class="ct_dropdown_children"></ul></div><div class="ct_dropdown_subcat"><h3 class="content"><a href="http://www.academicdresshire.co.nz/FAQs/Other+Products+and+Services.html">Other Products and Services</a></h3><ul class="ct_dropdown_children"></ul></div><div class="ct_dropdown_subcat"><h3 class="content"><a href="http://www.academicdresshire.co.nz/FAQs/Sizes+and+Fitting.html">Sizes and Fitting</a></h3><ul class="ct_dropdown_children"></ul></div><div class="ct_dropdown_subcat"><h3 class="content"><a href="http://www.academicdresshire.co.nz/FAQs/Collections++Return+Times.html">Collections &amp; Return Times</a></h3><ul class="ct_dropdown_children"><li class="content"><a href="http://www.academicdresshire.co.nz/FAQs/Collections++Return+Times/University+of+Auckland+-+6th+May+2013.html">University of Auckland - 6th May 2013</a></li><li class="content"><a href="http://www.academicdresshire.co.nz/FAQs/Collections++Return+Times/University+of+Auckland+-+8th+May+2013.html">University of Auckland - 8th May 2013</a></li><li class="content"><a href="http://www.academicdresshire.co.nz/FAQs/Collections++Return+Times/University+of+Auckland+10th+May+2013.html">University of Auckland 10th May 2013</a></li><li class="content"><a href="http://www.academicdresshire.co.nz/FAQs/Collections++Return+Times/Unitec+16th++17th+April+2013.html">Unitec 16th &amp; 17th April 2013</a></li></ul></div><div class="ct_dropdown_subcat"><h3 class="content"><a href="http://www.academicdresshire.co.nz/What+to+Wear.html">What to Wear</a></h3><ul class="ct_dropdown_children"></ul></div>
+<div class="ct_dropdown_subcat"><h3 class="content"><a href="http://www.academicdresshire.co.nz/FAQs/Ordering+and+Payment.html">Ordering and Payment</a></h3><ul class="ct_dropdown_children"></ul></div><div class="ct_dropdown_subcat"><h3 class="content"><a href="http://www.academicdresshire.co.nz/FAQs/Other+Products+and+Services.html">Other Products and Services</a></h3><ul class="ct_dropdown_children"></ul></div><div class="ct_dropdown_subcat"><h3 class="content"><a href="http://www.academicdresshire.co.nz/FAQs/Sizes+and+Fitting.html">Sizes and Fitting</a></h3><ul class="ct_dropdown_children"></ul></div><div class="ct_dropdown_subcat"><h3 class="content"><a href="http://www.academicdresshire.co.nz/FAQs/Collections++Return+Times.html">Collections &amp; Return Times</a></h3><ul class="ct_dropdown_children"><li class="content"><a href="http://www.academicdresshire.co.nz/FAQs/Collections++Return+Times/Unitec+13th+September+2013.html">Unitec 13th September 2013</a></li><li class="content"><a href="http://www.academicdresshire.co.nz/FAQs/Collections++Return+Times/University+of+Auckland+24th+September+2013.html">University of Auckland 24th September 2013</a></li></ul></div><div class="ct_dropdown_subcat"><h3 class="content"><a href="http://www.academicdresshire.co.nz/What+to+Wear.html">What to Wear</a></h3><ul class="ct_dropdown_children"></ul></div>
 <div class="clear"></div>
 </div>
 
@@ -1094,7 +814,6 @@ function dropdown(e) {
 	<div id="c669" class="component_ContentDisplay_Content">
 	
 
-
 <div class="plain_content">
  
  <h3>
@@ -1121,47 +840,33 @@ function dropdown(e) {
  
 </div>
 
-
 	</div>
 		</div><div class="content_left">
 	<div id="c503" class="component_ContentDisplay_Content">
 	
 
-
 <div class="plain_content">
  
  <h1>
 	Hire Regalia Here</h1>
-<em>Simply click on &nbsp;your institution&nbsp;</em>
+<em>Simply click on your Institution&nbsp;<br>
+to start ordering</em>
  
 </div>
-
 
 	</div>
 		</div><div class="content_left">
 	<div id="c728" class="component_Misc_HireRegalia">
 	
-<div onclick="go(&quot;Casual Hire&quot;)" class="left-content" style="background-color:#592A79;width:187px;display:table;height:63px;"><a style="display:table-cell;vertical-align:middle;" href="https://secure.zeald.com/academicdresshire/shop/Hire Regalia/Casual Hire">Casual Hire
+<div onclick="go(&quot;University of Auckland 24th September 2013&quot;)" class="left-content" style="background-color:#592A79;width:187px;display:table;height:63px;"><a style="display:table-cell;vertical-align:middle;" href="https://secure.zeald.com/academicdresshire/shop/Hire Regalia/University of Auckland 24th September 2013">The University of Auckland September 2013
+		  <br> <br>   
+		  
+		  </a>
+		  </div><div onclick="go(&quot;Unitec 13th September 2013&quot;)" class="left-content" style="background-color:#EA2D4F;width:187px;display:table;height:63px;"><a style="display:table-cell;vertical-align:middle;" href="https://secure.zeald.com/academicdresshire/shop/Hire Regalia/Unitec 13th September 2013">Unitec 13th September 2013
 		     
 		  
 		  </a>
-		  </div><div onclick="go(&quot;The University of Auckland 6th May&quot;)" class="left-content" style="background-color:#EA2D4F;width:187px;display:table;height:63px;"><a style="display:table-cell;vertical-align:middle;" href="https://secure.zeald.com/academicdresshire/shop/Hire Regalia/The University of Auckland 6th May">The University of Auckland 6th May
-		     
-		  
-		  </a>
-		  </div><div onclick="go(&quot;Unitec 16th &amp; 17th April 2013&quot;)" class="left-content" style="background-color:#E0B544;width:187px;display:table;height:63px;"><a style="display:table-cell;vertical-align:middle;" href="https://secure.zeald.com/academicdresshire/shop/Hire Regalia/Unitec 16th &amp; 17th April 2013">Unitec 16th &amp; 17th April 2013
-		     
-		  
-		  </a>
-		  </div><div onclick="go(&quot;Manukau Institute of Technology&quot;)" class="left-content" style="background-color:#27A2AE;width:187px;display:table;height:63px;"><a style="display:table-cell;vertical-align:middle;" href="https://secure.zeald.com/academicdresshire/shop/Hire Regalia/Manukau Institute of Technology">Manukau Institute of Technology
-		     
-		  
-		  </a>
-		  </div><div onclick="go(&quot;The University of Auckland 8th May&quot;)" class="left-content" style="background-color:#C8217E;width:187px;display:table;height:63px;"><a style="display:table-cell;vertical-align:middle;" href="https://secure.zeald.com/academicdresshire/shop/Hire Regalia/The University of Auckland 8th May">The University of Auckland 8th May
-		     
-		  
-		  </a>
-		  </div><div onclick="go(&quot;The University of Auckland 10th May&quot;)" class="left-content" style="background-color:#419E21;width:187px;display:table;height:63px;"><a style="display:table-cell;vertical-align:middle;" href="https://secure.zeald.com/academicdresshire/shop/Hire Regalia/The University of Auckland 10th May">The University of Auckland 10th May
+		  </div><div onclick="go(&quot;Other Institutes&quot;)" class="left-content" style="background-color:#E0B544;width:187px;display:table;height:63px;"><a style="display:table-cell;vertical-align:middle;" href="https://secure.zeald.com/academicdresshire/shop/Hire Regalia/Other Institutes">Other Institutes
 		     
 		  
 		  </a>
@@ -1206,7 +911,6 @@ function go(th)
 		</div><div class="content_main">
 	<div id="c460" class="component_ContentDisplay_Content">
 	
-
 
 <div class="plain_content">
  
@@ -1335,7 +1039,6 @@ You should familiarise yourself with the Act if you wish to make a request for o
  
 </div>
 
-
 	</div>
 		</div>
 </div><!-- noindex -->
@@ -1361,7 +1064,6 @@ You should familiarise yourself with the Act if you wish to make a request for o
 	<div id="c429" class="component_ContentDisplay_Content">
 	
 
-
 <div class="plain_content">
  
  <h3>
@@ -1374,7 +1076,6 @@ upcoming awards and offers<br>
  
 </div>
 
-
 	</div>
 		</div>
 		</td><td width="10px">&nbsp;</td>
@@ -1384,13 +1085,11 @@ upcoming awards and offers<br>
 	<div id="c671" class="component_ContentDisplay_Content">
 	
 
-
 <div class="plain_content">
  
  <a href="http://www.academicdresshire.co.nz/About+Us/Location+Parking++Opening+Hours.html"><img align="baseline" alt="map" src="/site/academicdresshire/images/basic_theme/map.jpg" title="map"></a>
  
 </div>
-
 
 	</div>
 		</div>
@@ -1400,7 +1099,6 @@ upcoming awards and offers<br>
 			<div class="content_container_670_3">
 	<div id="c672" class="component_ContentDisplay_Content">
 	
-
 
 <div class="plain_content">
  
@@ -1412,20 +1110,17 @@ Parnell, Auckland 1023
  
 </div>
 
-
 	</div>
 		</div><div class="content_container_670_3">
 	<div id="c673" class="component_ContentDisplay_Content">
 	
 
-
 <div class="plain_content">
  
  <img align="bottom" alt="border" src="/site/academicdresshire/images/basic_theme/border.jpg" style="margin-bottom:9px;" title="border"><br>
-Follow Us on <img align="bottom" alt="f1" src="/site/academicdresshire/images/basic_theme/facebook_ico.jpg" style="margin-right:8px; margin-left:8px; vertical-align:middle;width:70px;" title="f1">
+Follow Us on <a href="https://www.facebook.com/pages/Academic-Dress-Hire/187154794790612?ref=br_tf&amp;success=1"><img align="bottom" alt="f1" src="/site/academicdresshire/images/basic_theme/facebook_ico.jpg" style="margin-right:8px; margin-left:8px; vertical-align:middle;width:70px;" title="f1"></a>
  
 </div>
-
 
 	</div>
 		</div>
@@ -1461,6 +1156,24 @@ Follow Us on <img align="bottom" alt="f1" src="/site/academicdresshire/images/ba
 		<li class="menu"><a class="menu" href="http://www.academicdresshire.co.nz/Contact+Us.html">Contact Us
 </a></li>
 		<li class="menu"><a class="menu" href="http://www.academicdresshire.co.nz/About+Us/Terms+and+Conditions.html">Terms &amp; Condtions</a></li></ul>
+<script language="javascript" type="text/javascript">//<![CDATA[
+
+if($('editing_mode_preview')){
+	$('editing_mode_preview').observe('click', function(){
+		$$('#c198 .menu .menu_edit').each(
+			function(obj){obj.setStyle({display: 'none'});
+		}); 
+	});
+}
+if($('editing_mode_liveedit')){ 
+	$('editing_mode_liveedit').observe(  'click', function(){
+		$$('#c198 .menu .menu_edit').each(
+			function(obj){obj.setStyle({display: 'list-item'});
+		}); 
+	});
+}
+
+//]]></script>
 </div>
 
 
@@ -1481,7 +1194,7 @@ Follow Us on <img align="bottom" alt="f1" src="/site/academicdresshire/images/ba
 
 <div class="std_footer">
 		
-		<div class="copyright"><a href="http://www.zeald.com" target="_blank">Website Design by Zeald</a> :: ©  2012 Academic Dress Hire. All rights reserved.</div>
+		<div class="copyright"><span class="footer_link"><a href="http://www.zeald.com" target="_blank">Website Design by Zeald</a> :: ©  2012 Academic Dress Hire. All rights reserved.</span></div>
 </div>
 
 
@@ -1513,7 +1226,7 @@ Follow Us on <img align="bottom" alt="f1" src="/site/academicdresshire/images/ba
 
 
 
- <iframe name="_xdomain_cookie_frame" style="width:0px; height:0px; border: 0px" src="https://secure.zeald.com/academicdresshire/_xdomain.html?id=2H2UP6do&amp;mv_pc=s"></iframe>
+ <iframe name="_xdomain_cookie_frame" style="width:0px; height:0px; border: 0px" src="https://secure.zeald.com/academicdresshire/_xdomain.html?id=7YYyvhg3&amp;mv_pc=s"></iframe>
  
 
 
@@ -1532,77 +1245,32 @@ Follow Us on <img align="bottom" alt="f1" src="/site/academicdresshire/images/ba
 
 			<script language="javascript" type="text/javascript">//<![CDATA[
 
-			    	
-AJAX_LOADING = '<img style="vertical-align:middle; margin: 5px;" src="/interchange-5/en_US/throbber.gif" class="throbber"><em>Loading</em>';
-    // wrapper for robot_detection
-    function robot_detection() {
+			    	function robot_detection() { var a = arguments; ;x = rs_init_object( 'POST', "/academicdresshire/process", "nc=1", "mv_display=ajax_action_robot_detection&remote_sub=robot_detection&mv_pc=S&id=7YYyvhg3", Array.prototype.slice.call(arguments).slice(0, a.length-1 ),          a[a.length-1]
+);}
 
-		// count args; build URL
-		var i, x, n, t;
-		var url = "/academicdresshire/process", a = robot_detection.arguments;
-		var args = "nc=1";
-		var url_args = "mv_display=ajax_action_robot_detection&remote_sub=robot_detection&mv_pc=S&id=2H2UP6do";
+		    		robot_detection( '39JHwfWbQ72bmLJ7YDn4NA', function( content ){ } );
+		    	
+//]]></script>
+		    
 
-		// if only 1 parameter is passed (as well as a callback) and it is an array, assume these are the arguments
-		if ( a.length == 2 && a[0].constructor.toString().indexOf('Array') != -1 ) {
-			t = a[0];
-			t.push( a[1] );
-			a = t;
-		}
-		for (i = 0; i < a.length-1; i++) { args += "&rsargs=" + escape(a[i]); }
-		url = url.replace( /[\+]/g, '%2B'); // fix the unescaped plus signs
-		args = args.replace( /[\+]/g, '%2B'); // fix the unescaped plus signs
-		url_args = url_args.replace( /[\+]/g, '%2B'); // fix the unescaped plus signs
+			<script language="javascript" type="text/javascript">//<![CDATA[
 
-		var method = 'POST';
-		if ( method != 'POST' ) {
-			var joiner = ( url.indexOf( '?') == -1 ) ? '?' : '&';
-			url += joiner + args;
-			args = null;
-		}
-		if ( url_args ) {
-			var joiner = (url.indexOf( '?') == -1 ) ? '?' : '&';
-			url += joiner + url_args;
-			url_args = null;
-		}
+			    	function _zperfprobe() { var a = arguments; ;x = rs_init_object( 'POST', "/academicdresshire/process", "nc=1", "mv_display=ajax_action__zperfprobe&remote_sub=_zperfprobe&mv_pc=S&id=7YYyvhg3", Array.prototype.slice.call(arguments).slice(0, a.length-1 ),          a[a.length-1]
+);}
 
-
-		x = rs_init_object();
-		x.open( method, url, ( !rs_is_activex || method != 'POST' ) );
-		if ( method == 'POST' ) x.setRequestHeader( 'Content-Type', 'application/x-www-form-urlencoded' );
-		x.onreadystatechange = function() {
-
-	           	    if (x.readyState != 4) { return; }
-	    var status;
-	    var data;
-        var error;
-	    status = x.responseText.charAt(0);
-	    data = x.responseText.substring(2);
-	    if (status == "-") {
-          alert("Error: " + callback_n);
-          error = 1;
-        }
-        else if (status != "+") data = x.responseText;
-
-	    if (!error)  
-			try {
-				a[a.length-1](data);
-			}
-			catch(e) {
-			}
-
-			   if (typeof(GoogleTools) != 'undefined' ) {
-			   	  window.setTimeout(function() {
-   				  							   GoogleTools.fixLinks();
-									},300);
-				}
-		}
-	    
-		x.send( args );
-	}
-
-
-		    		robot_detection( 'pTaACIJuRHSdb5vnd49e_Q', function( content ){ } );
+                    if (window.performance ) {
+  		    		  Event.observe(window, 'load' ,function() {
+                      var t = window.performance.timing;
+                      var navS_data = t.navigationStart ? t.navigationStart : t.connectStart;
+                      var perf = {
+  navS : navS_data,
+  reqS : t.requestStart,
+  resS : t.responseStart,
+  resE : t.responseEnd,
+  domC : t.domComplete
+};
+ _zperfprobe( 'j3Bo6AyFRRuA2xjaQQQnrg', Object.toJSON( perf ), function( content ){ } )});
+                    }
 		    	
 //]]></script>
 		    
