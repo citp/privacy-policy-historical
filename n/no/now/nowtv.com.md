@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nowtv.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528064038id_/http%3A//www.nowtv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nowtv.com privacy policy that was archived on 2013-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130912024650id_/http%3A//www.nowtv.com/privacy) for the most accurate reproduction.*
 
 # Privacy & Cookies - NOW TV
 
@@ -73,7 +73,7 @@ If you do not want to receive online behavioural advertising, or don't want any 
 
 ### Recommendations
 
-We will personalise the NowTV service to better reflect your interests and to provide you with recommendations on movies and TV shows we think you will find enjoyable. To do this we will collect information related to your use of our service and website including content viewed and browsed and user material you submit such as your ratings, reviews and comments made on our forum.
+We will personalise the NowTV service to better reflect your interests and to provide you with recommendations on movies and entertainment we think you will find enjoyable. To do this we will collect information related to your use of our service and website including content viewed and browsed and user material you submit such as your ratings, reviews and comments made on our forum.
 
 ### Social Media
 
