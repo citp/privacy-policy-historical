@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unfollowspy.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609170448id_/http%3A//www.unfollowspy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unfollowspy.com privacy policy that was archived on 2013-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130913013804id_/http%3A//www.unfollowspy.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -49,3 +49,5 @@ This website and it's owners through their social media platform accounts may sh
 
 
 Users are advised to take caution and good judgment before clicking any shortened url's published on social media platforms by this website and it's owners. Despite the best efforts to ensure only genuine url's are published many social media platforms are prone to spam and hacking and therefore this website and it's owners cannot be held liable for any damages or implications caused by visiting any shortened links.
+
+Unfollowspy is not linked to Twitter and solely uses there API interface. All trademarks acknowledged.
