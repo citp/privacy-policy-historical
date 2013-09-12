@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desktopdating.net privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513015458id_/http%3A//www.desktopdating.net/priv_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desktopdating.net privacy policy that was archived on 2013-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130912081336id_/http%3A//www.desktopdating.net/priv_policy.php) for the most accurate reproduction.*
 
 # Desktop Dating - Privacy Policy
 
