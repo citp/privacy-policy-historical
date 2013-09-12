@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uheaa.org privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115202729id_/https%3A//www.uheaa.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uheaa.org privacy policy that was archived on 2013-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130912231455id_/https%3A//www.uheaa.org/privacy) for the most accurate reproduction.*
 
 # UHEAA - Privacy Policy
 
