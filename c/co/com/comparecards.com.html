@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the comparecards.com privacy policy that was archived on 2013-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130604032408id_/http%3A//www.comparecards.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the comparecards.com privacy policy that was archived on 2013-09-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130912082913id_/http%3A//www.comparecards.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head> 
 		
@@ -15,7 +15,7 @@
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     		<link href="/pub/assets/css/default/reset.css?lm=1b3eb0fbebbfa5fe94b731f42a8fcb39" rel="stylesheet" type="text/css" media="all">
 	<link href="/pub/assets/css/default/grid.css?lm=01eeebf85a25ffb91c88f4f87d4ca0bc" rel="stylesheet" type="text/css" media="all">
-	<link href="/pub/assets/css/default/layout.css?lm=0ad4e930832aa2bd00138bee680c9acc" rel="stylesheet" type="text/css" media="all">
+	<link href="/pub/assets/css/default/layout.css?lm=7345d43bf4319638b92d4665dd825aea" rel="stylesheet" type="text/css" media="all">
 	
 	<link href="/pub/assets/plugins/fancybox/jquery.fancybox-1.3.4.css" rel="stylesheet" type="text/css">
 	
@@ -23,10 +23,7 @@
 	<!--[if IE 6]><link href="/pub/assets/css/default/ie6.css" rel="stylesheet" type="text/css" media="all" /><![endif]-->
 	<!--[if IE 7]><link href="/pub/assets/css/default/ie7.css" rel="stylesheet" type="text/css" media="all" /><![endif]-->
 	<!--[if IE 8]><link href="/pub/assets/css/default/ie8.css" rel="stylesheet" type="text/css" media="all" /><![endif]-->
-	<!--[if IE 9]><link href="/pub/assets/css/default/ie9.css" rel="stylesheet" type="text/css" media="all" /><![endif]-->
-	
-		
-			<script type="text/javascript" async="" src="https://chat.livechatinc.net/licence/1035691/script.cgi?lang=en&amp;groups=0"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+	<!--[if IE 9]><link href="/pub/assets/css/default/ie9.css" rel="stylesheet" type="text/css" media="all" /><![endif]-->	<script type="text/javascript" async="" src="https://chat.livechatinc.net/licence/1035691/script.cgi?lang=en&amp;groups=0"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script> 
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js"></script>
 <script type="text/javascript" src="/pub/assets/js/main.js?lm=8e14dedbae2624e9f6445818c9091c10"></script>
@@ -39,20 +36,21 @@
 	
 		
 	
-	<!-- Google Analytics -->
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-3813512-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>	
+		<!-- Google Analytics -->
+	<script type="text/javascript">
+	
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-3813512-1']);
+	  _gaq.push(['_trackPageview']);
+	
+	  (function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	
+	</script>
+	
 		<script>
 	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -61,9 +59,13 @@
 	
 	  ga('create', 'UA-3813512-5', {
 			'cookieDomain': 'comparecards.com',
-			'clientId': 'd6760112-a76c-43e3-b19c-0d53d3b5ab62'
+			'clientId': 'a8826456-dcec-457e-83c2-681e0c7eb84b'
 		});
 	  ga('send', 'pageview');
+	  ga('set', 'dimension1', 'N/A');
+	  ga('set', 'dimension2', 'N/A');
+	  ga('set', 'dimension3', 'N/A');
+	  
 	</script>
 	
 		
@@ -71,15 +73,61 @@
 
 <script type="text/javascript">
 
-//comparison functions
+//cart comparison functionality
+function compareCartReady()
+{
+	$('.compare-cart-move-left').unbind('click').on('click', function(){
+		$('ul.compare-cart-list').animate({left:'+=58px'}, 200, function() {console.log('left');
+			compareCartNav();
+		});
+	});
+	$('.compare-cart-move-right').unbind('click').on('click', function(){
+		$('ul.compare-cart-list').animate({left:'-=58px'}, 200, function() {console.log('right');
+			compareCartNav();
+		});
+	});
+}
+function compareCartNav()
+{
+	var compare_cart_wrap_width = $('#compare-cart-container #compare-cart-wrap').width();//270;
+	var compare_cart_card_width = $('#compare-cart-container ul.compare-cart-list li:last').width();//58;
+	var compare_cart_left_arrow_width = $('#compare-cart-container .compare-cart-move-left').width();//10;
+	
+	//check for cards to the right
+	$('.compare-cart-move-right').show();
+	if ( ($('#compare-cart-container .compare-cart-move-right').offset().left - $('#compare-cart-container ul.compare-cart-list li:first').offset().left) > compare_cart_card_width) {
+		//hide the right arrow
+		$('.compare-cart-move-right').hide();
+	}
+	
+	//check for cards to the left
+	$('.compare-cart-move-left').show();
+	if ( ($('#compare-cart-container #compare-cart-wrap').offset().left - $('#compare-cart-container ul#compare-cart-list li:last').offset().left + compare_cart_left_arrow_width) <= compare_cart_card_width) {
+		//hide the left arrow
+		$('.compare-cart-move-left').hide();
+	}
+}
 function compareCartRemove(card_id, unique_card_id) {
+	//hide any hovers that may be showing
+	if ($('.compare-cart-card-hover').length > 0) {
+		$('.compare-cart-card-hover').each(function(){
+			if ($(this).is(':visible')) {
+				$(this).hide();
+			}
+		});
+	}
+	
+	//do the remove
 	if (!unique_card_id) unique_card_id = card_id;
 	var li_elem = $('#compare-cart-saved-' + unique_card_id);
 	li_elem.html(' ');
 	li_elem.removeClass('saved');
 	li_elem.removeClass('empty');
 	$.get('http://www.comparecards.com/credit_card/compareRemove/compare_cart/1/card/' + card_id, function(data) {
-		$('#compare-cart-container').html(data);
+		//$('#compare-cart-container').html(data);
+		$('.wrap-compare-cart').each(function(){
+			$(this).html(data);
+		});
 		$('#compare-check-' + unique_card_id).prop("checked", false);
 	});
 }
@@ -108,8 +156,8 @@ function compareCartAdd(card_id, unique_card_id) {
 		var anim_left = $('.compare-cart li.empty:last').offset().left;
 		var anim_top = $('.compare-cart li.empty:last').offset().top;
 	} else {
-		var anim_left = $('#compare-cart-button').offset().left + 20;
-		var anim_top = $('#compare-cart-button').offset().top + 30;
+		var anim_left = $('#compare-cart-container #compare-cart-button').offset().left + 20;
+		var anim_top = $('#compare-cart-container #compare-cart-button').offset().top + 30;
 	}
 	clone_img.animate({"left": anim_left + "px", "width":"80px"}, 1000);
 	clone_img.animate({"top": anim_top + "px", "height": "30px", "width":"52px" }, speed_up, function() {
@@ -117,8 +165,77 @@ function compareCartAdd(card_id, unique_card_id) {
 			clone_img.css({
 						"display":"none"
 					});
-			$('#compare-cart-container').html(data);
+			//$('#compare-cart-container').html(data);
+			$('.wrap-compare-cart').each(function(){
+				$(this).html(data);
+			});
 			$('#compare-check-' + unique_card_id).prop("checked", true);
+		});
+	});
+}
+function compareCartTips()
+{
+	$('.compare-cart-saved').each(function()
+	{
+		var qtip_pos_target = 'topMiddle';
+		var qtip_pos_tooltip = 'bottomMiddle';
+		var qtip_tip_corner = 'bottomMiddle';
+		if ($(this).parents('#nav-fix').length > 0) {
+			qtip_pos_target = 'bottomMiddle';
+			qtip_pos_tooltip = 'topMiddle';
+			qtip_tip_corner = 'topMiddle';
+		}
+		$(this).qtip({
+			content: $('#card-tooltip-' + $(this).attr('data-id')),
+			show: {
+				delay: 0,
+				solo: true,
+				when: {
+					event: 'mouseover'
+				},
+				effect: {
+					type: 'slide',
+					length: 0
+				}
+			},
+			hide: {
+				delay: 0,
+				fixed: true,
+				when: {
+					event: 'mouseout'
+				},
+				effect: {
+					type: 'slide',
+					length: 0
+				}
+			},
+			position: {
+			  corner: {
+				 target: qtip_pos_target,
+				 tooltip: qtip_pos_tooltip
+			  }
+			},
+			style: { 
+				border: {
+					width: 1,
+					radius: 0,
+					color: '#5174a4'
+				},
+				classes: {
+					content: 'compare-cart-qtip'
+				},
+				tip: { // Now an object instead of a string
+					corner: qtip_tip_corner,
+					color: '',
+					size: {
+						x: 20, // Be careful that the x and y values refer to coordinates on screen, not height or width.
+						y : 8 // Depending on which corner your tooltip is at, x and y could mean either height or width!
+					}
+				},
+				width: {
+					max: 500
+				}
+			}
 		});
 	});
 }
@@ -129,7 +246,20 @@ function gaTrackEvent(Category, Action, Label, Value, strNonI)
 	if (strNonI.toLowerCase() != 'true') {
 		NonI = false;
 	}
+	//send to ga
 	_gaq.push(['_trackEvent', Category, Action, Label, parseInt(Value), NonI]);
+	
+	//send to ua
+	ga('send', {
+		'hitType': 'event',
+		'eventCategory': Category,
+		'eventAction': Action,
+		'eventLabel': Label,
+		'eventValue': parseInt(Value),
+		'nonInteraction': NonI
+	});
+	
+	//simple delay
 	setTimeout(function() {
 		return;
 	}, 300);
@@ -352,8 +482,9 @@ $(function() {
 		lc_src += ((lc_params == '') ? '' : unescape('%26')+'params='+encodeURIComponent(encodeURIComponent(lc_params))); lc.src = lc_src;
 	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
   })();
-</script></head> 
+</script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head> 
 <body id="main"> 
+
 
 <div class="container_20 alpha omega wrap-main clearfix">
 	<div class="header-body">
@@ -392,156 +523,232 @@ $(function() {
 <!-- end nav-top --> 
 			<a class="compare-logo gae" data-category="Interaction" data-action="Header Click" data-label="CompareCards Logo" href="http://www.comparecards.com/"><img src="/pub/assets/images/default/compare-logo.png" alt="Compare Cards home link"></a>
 
-<div id="compare-cart-container">
-	
-<div class="compare-cart">
-			<div id="cart-overlay">
-			<p>Add Credit Cards to Compare</p>
-			<!-- <img src="/pub/assets/images/default/trust-seal.png" /> -->
-		</div>
-		
-	<ul class="">
-					<li class="empty"></li>
-					<li class="empty"></li>
-					<li class="empty"></li>
-					<li class="empty"></li>
-					</ul>
-	<a href="http://www.comparecards.com/saved-credit-cards" id="compare-cart-button" class="button gae" data-category="Compare" data-action="Compare" data-label="">Compare</a> 
-</div>
-
-</div>
 <!-- end compare-cart -->		
 		<div class="nav-main">
 				
-		
-	<ul class="megamenu" style="display:none">
-			
-				<li id="nav-first">
-					<a href="http://www.comparecards.com/" class="topnav home gae" data-category="Interaction" data-action="Main Nav Click">Home</a>
-				</li>
-				
 	
-				<li>
-					<a class="nav-sec gae" data-category="Interaction" data-action="Main Nav Click" href="http://www.comparecards.com/best-credit-card-offers">Find a Credit Card</a>
-					<div class="grid_11 alpha omega nav-hover-sec">
-						<div>
-							<h3>By Category</h3>
-							<ul class="grid_5 alpha">
-								<li><a class="balance-transfer gae" data-category="Interaction" data-action="Find a Credit Card" data-label="By Category" href="http://www.comparecards.com/category/balance-transfer">Balance Transfer Credit Cards</a></li>
-								<li><a class="low-interest gae" data-category="Interaction" data-action="Find a Credit Card" data-label="By Category" href="http://www.comparecards.com/category/low-interest">Low Interest Credit Cards</a></li>
-								<li><a class="reward-credit gae" data-category="Interaction" data-action="Find a Credit Card" data-label="By Category" href="http://www.comparecards.com/category/reward">Rewards Credit Cards</a></li>
-								<li><a class="cash-back gae" data-category="Interaction" data-action="Find a Credit Card" data-label="By Category" href="http://www.comparecards.com/category/cash-back">Cash Back Credit Cards</a></li>
-								<li><a class="student-credit gae" data-category="Interaction" data-action="Find a Credit Card" data-label="By Category" href="http://www.comparecards.com/category/student">Student Credit Cards</a></li>
-								<li><a class="canadian-credit gae" data-category="Interaction" data-action="Find a Credit Card" data-label="By Category" href="http://www.comparecards.com/category/canada">Canadian Credit Cards</a></li>
-							</ul>
-							<ul class="grid_5 alpha">
-								<li><a class="top-credit gae" data-category="Interaction" data-action="Find a Credit Card" data-label="By Category" href="http://www.comparecards.com/best-credit-card-offers">Top Credit Card Offers</a></li>
-								<li><a class="instant-approval gae" data-category="Interaction" data-action="Find a Credit Card" data-label="By Category" href="http://www.comparecards.com/category/instant-approval">Instant Approval Credit Cards</a></li>
-								<li><a class="airline-credit gae" data-category="Interaction" data-action="Find a Credit Card" data-label="By Category" href="http://www.comparecards.com/category/airline">Airline Credit Cards</a></li>
-								<li><a class="prepaid-debit gae" data-category="Interaction" data-action="Find a Credit Card" data-label="By Category" href="http://www.comparecards.com/category/prepaid-debit">Prepaid Debit Cards</a></li>
-								<li><a class="business-credit gae" data-category="Interaction" data-action="Find a Credit Card" data-label="By Category" href="http://www.comparecards.com/category/business">Business Credit Cards</a></li>
-								<li><a class="gas-credit gae" data-category="Interaction" data-action="Find a Credit Card" data-label="By Category" href="http://www.comparecards.com/category/gas">Gas Credit Cards</a></li>
-							</ul>
-						</div>
-							
-							
-						<div>
-							<h3>By Issuer</h3>
-							<ul class="grid_5 alpha">
-								<li><a class="capital-card gae" data-category="Interaction" data-action="Find a Credit Card" data-label="By Issuer" href="http://www.comparecards.com/issuer/capital-one">Capital One Credit Cards</a></li>
-								<li><a class="citibank-card gae" data-category="Interaction" data-action="Find a Credit Card" data-label="By Issuer" href="http://www.comparecards.com/issuer/citi">Citibank Credit Cards</a></li>
-								<li><a class="chase-card gae" data-category="Interaction" data-action="Find a Credit Card" data-label="By Issuer" href="http://www.comparecards.com/issuer/chase">Chase Credit Cards</a></li>
-								<li><a class="barclaycard gae" data-category="Interaction" data-action="Find a Credit Card" data-label="By Issuer" href="http://www.comparecards.com/issuer/barclaycard">Barclaycard</a></li>
-								<li><a class="bank-america gae" data-category="Interaction" data-action="Find a Credit Card" data-label="By Issuer" href="http://www.comparecards.com/issuer/bank-of-america">Bank of America</a></li>
-								
-							</ul>
-							<ul class="grid_5 alpha">
-								<li><a class="american-card gae" data-category="Interaction" data-action="Find a Credit Card" data-label="By Issuer" href="http://www.comparecards.com/brand/american-express">American Express Credit Cards</a></li>
-								<li><a class="mastercard-card gae" data-category="Interaction" data-action="Find a Credit Card" data-label="By Issuer" href="http://www.comparecards.com/brand/mastercard">MasterCard Credit Cards</a></li>
-								<li><a class="visa-card gae" data-category="Interaction" data-action="Find a Credit Card" data-label="By Issuer" href="http://www.comparecards.com/brand/visa">Visa Credit Cards</a></li>
-								<li><a class="discover-card gae" data-category="Interaction" data-action="Find a Credit Card" data-label="By Issuer" href="http://www.comparecards.com/brand/discover">Discover Credit Cards</a></li>
-							</ul>
-						</div>
-								
-								
-						<div>
-							<h3>By Credit Card Quality</h3>
-							<ul class="grid_3 alpha">
-								<li><a class="credit-excellent gae" data-category="Interaction" data-action="Find a Credit Card" data-label="By Credit Quality" href="http://www.comparecards.com/credit-quality/excellent">Excellent</a></li>
-								<li><a class="credit-good gae" data-category="Interaction" data-action="Find a Credit Card" data-label="By Credit Quality" href="http://www.comparecards.com/credit-quality/good">Good</a></li>
-							</ul>
-							<ul class="grid_2 alpha">
-								<li><a class="credit-fair gae" data-category="Interaction" data-action="Find a Credit Card" data-label="By Credit Quality" href="http://www.comparecards.com/credit-quality/fair">Fair</a></li>
-								<li><a class="credit-bad gae" data-category="Interaction" data-action="Find a Credit Card" data-label="By Credit Quality" href="http://www.comparecards.com/credit-quality/bad">Bad</a></li>
-							</ul>
-							<ul class="grid_3 alpha">
-								<li><a class="credit-limited gae" data-category="Interaction" data-action="Find a Credit Card" data-label="By Credit Quality" href="http://www.comparecards.com/credit-quality/no-credit">Limited/No</a></li>
-							</ul>
-						</div>
-					</div>
-				</li>
+	<ul class="megamenu icons" style="display:none">
+		<li id="nav-first">
+			<a href="http://www.comparecards.com/" class="topnav home gae" data-category="Interaction" data-action="Main Nav Click"><!-- <img src="/pub/assets/images/nav_main_1/cc-logo-icon.png" alt="Compare Cards home link"> --> Home</a>
+		</li>
+		
 
-				
-				<li>
-					<a class="nav-sec gae" data-category="Interaction" data-action="Main Nav Click" href="http://www.comparecards.com/compare-credit-cards">Credit Card Guides</a>
-					<div class="nav-hover-sec">
-						<div>
-							<ul class="grid_5 nav-hover-list">
-								<li><a href="http://www.comparecards.com/best-credit-card-offers" class="gae" data-category="Interaction" data-action="Main Nav Click">Editor's Choice Credit Cards</a></li>
-								<li><a href="http://www.comparecards.com/glossary" class="gae" data-category="Interaction" data-action="Main Nav Click">Credit Card Glossary</a></li>
-								<li><a href="http://www.comparecards.com/compare-credit-cards" class="gae" data-category="Interaction" data-action="Main Nav Click">Card Comparison Guide</a></li>
-								<li><a href="http://www.comparecards.com/common-credit-card-questions" class="gae" data-category="Interaction" data-action="Main Nav Click">Credit Card FAQs</a></li>
-								<li><a href="http://www.comparecards.com/credit-card-videos" class="gae" data-category="Interaction" data-action="Main Nav Click">Credit Card Videos</a></li>
-								<li><a href="http://www.comparecards.com/credit-scores-101" class="gae" data-category="Interaction" data-action="Main Nav Click">Credit Card Scores 101</a></li>
-								<li><a href="http://www.comparecards.com/education-center" class="gae" data-category="Interaction" data-action="Main Nav Click">Education Center</a></li>
-							</ul>
-						</div>
+		<li class="nav-sec">
+			<a class="nav-sec gae" data-category="Interaction" data-action="Main Nav Click" href="http://www.comparecards.com/best-credit-card-offers">Find a Credit Card</a>
+			<div class="grid_20 alpha omega nav-hover-sec">
+				<div class="grid_6" style="background:#; margin-left:40px;">
+					<h3 style="width: 95%;">By Category</h3>
+					<ul class="grid_3 alpha">
+						<li><a class="balance-transfer gae" data-category="Interaction" data-action="Find a Credit Card" data-label="By Category" href="http://www.comparecards.com/category/balance-transfer">Balance Transfer</a></li>
+						<li><a class="low-interest gae" data-category="Interaction" data-action="Find a Credit Card" data-label="By Category" href="http://www.comparecards.com/category/low-interest">Low Interest</a></li>
+						<li><a class="reward-credit gae" data-category="Interaction" data-action="Find a Credit Card" data-label="By Category" href="http://www.comparecards.com/category/reward">Rewards</a></li>
+						<li><a class="cash-back gae" data-category="Interaction" data-action="Find a Credit Card" data-label="By Category" href="http://www.comparecards.com/category/cash-back">Cash Back</a></li>
+						<li><a class="student-credit gae" data-category="Interaction" data-action="Find a Credit Card" data-label="By Category" href="http://www.comparecards.com/category/student">Student</a></li>
+						<li><a class="gas-credit gae" data-category="Interaction" data-action="Find a Credit Card" data-label="By Category" href="http://www.comparecards.com/category/gas">Gas</a></li>
+						<li><a class="secured gae" data-category="Interaction" data-action="Find a Credit Card" data-label="By Category" href="http://www.comparecards.com/category/bad-credit-secured">Secured</a></li>
+						<!--
+						<li><a class="canadian-credit gae" data-category="Interaction" data-action="Find a Credit Card" data-label="By Category" href="http://www.comparecards.com/category/canada">Canadian</a></li>
+						-->
+					</ul>
+					<ul class="grid_3 omega">
+						<li><a class="top-credit gae" data-category="Interaction" data-action="Find a Credit Card" data-label="By Category" href="http://www.comparecards.com/best-credit-card-offers">Top Offers</a></li>								
+						<li><a class="no-annual-fee gae" data-category="Interaction" data-action="Find a Credit Card" data-label="By Category" href="http://www.comparecards.com/category/0-annual-fee-credit-cards">No Annual Fee</a></li>								
+						<li><a class="airline-credit gae" data-category="Interaction" data-action="Find a Credit Card" data-label="By Category" href="http://www.comparecards.com/category/airline">Airline</a></li>
+						<li><a class="business-credit gae" data-category="Interaction" data-action="Find a Credit Card" data-label="By Category" href="http://www.comparecards.com/category/business">Business</a></li>								
+						<li><a class="no-foreign-fee gae" data-category="Interaction" data-action="Find a Credit Card" data-label="By Category" href="http://www.comparecards.com/category/no-foreign-transaction-fee-credit-cards">No Foreign Fees</a></li>								
+						<li><a class="instant-approval gae" data-category="Interaction" data-action="Find a Credit Card" data-label="By Category" href="http://www.comparecards.com/category/instant-approval">Instant Approval</a></li>
+						<li><a class="prepaid-debit gae" data-category="Interaction" data-action="Find a Credit Card" data-label="By Category" href="http://www.comparecards.com/category/prepaid-debit">Prepaid</a></li>
+					</ul>
+				</div>
+					
+					
+				<div class="grid_6" style="background:#;margin-left: 40px;">
+					<h3 style="width: 90%;">By Issuer</h3>
+					<ul class="grid_3 omega">
+						<li><a class="citibank-card gae" data-category="Interaction" data-action="Find a Credit Card" data-label="By Issuer" href="http://www.comparecards.com/issuer/citi">Citibank</a></li>
+						<li><a class="capital-card gae" data-category="Interaction" data-action="Find a Credit Card" data-label="By Issuer" href="http://www.comparecards.com/issuer/capital-one">Capital One</a></li>
+						<li><a class="chase-card gae" data-category="Interaction" data-action="Find a Credit Card" data-label="By Issuer" href="http://www.comparecards.com/issuer/chase">Chase</a></li>
+						<li><a class="bank-america gae" data-category="Interaction" data-action="Find a Credit Card" data-label="By Issuer" href="http://www.comparecards.com/issuer/bank-of-america">Bank of America</a></li>
+						<li><a class="barclaycard gae" data-category="Interaction" data-action="Find a Credit Card" data-label="By Issuer" href="http://www.comparecards.com/issuer/barclaycard">Barclaycard</a></li>
+					</ul>
+					<ul class="grid_3 alpha">
+						<li><a class="visa-card gae" data-category="Interaction" data-action="Find a Credit Card" data-label="By Issuer" href="http://www.comparecards.com/brand/visa">Visa</a></li>
+						<li><a class="mastercard-card gae" data-category="Interaction" data-action="Find a Credit Card" data-label="By Issuer" href="http://www.comparecards.com/brand/mastercard">MasterCard</a></li>
+						<li><a class="discover-card gae" data-category="Interaction" data-action="Find a Credit Card" data-label="By Issuer" href="http://www.comparecards.com/brand/discover">Discover</a></li>
+						<li><a class="american-card gae" data-category="Interaction" data-action="Find a Credit Card" data-label="By Issuer" href="http://www.comparecards.com/brand/american-express">American Express</a></li>
+					</ul>
+				</div>
+						
+						
+				<div class="grid_5 alpha" style="background:#;float:right; text-align: center;margin-right: 40px;">
+					<h3>By Credit Quality</h3>
+					<ul class="" style="display:inline-block;float:none;margin-left: -20px;">
+						<li><a class="credit-excellent gae" data-category="Interaction" data-action="Find a Credit Card" data-label="By Credit Quality" href="http://www.comparecards.com/credit-quality/excellent">Excellent</a></li>
+						<li><a class="credit-good gae" data-category="Interaction" data-action="Find a Credit Card" data-label="By Credit Quality" href="http://www.comparecards.com/credit-quality/good">Good</a></li>
+						<li><a class="credit-fair gae" data-category="Interaction" data-action="Find a Credit Card" data-label="By Credit Quality" href="http://www.comparecards.com/credit-quality/fair">Fair</a></li>
+						<li><a class="credit-bad gae" data-category="Interaction" data-action="Find a Credit Card" data-label="By Credit Quality" href="http://www.comparecards.com/credit-quality/bad">Bad</a></li>
+						<li><a class="credit-limited gae" data-category="Interaction" data-action="Find a Credit Card" data-label="By Credit Quality" href="http://www.comparecards.com/credit-quality/no-credit">Limited/No</a></li>
+					</ul>
+				</div>
+			</div>
+		</li>
+
+		
+		<li class="nav-third">
+			<a class="nav-sec gae" data-category="Interaction" data-action="Main Nav Click" href="javascript:">Credit Card Guides &amp; Tools</a>
+			<div class="nav-hover-sec">
+			
+				<div class="grid_8 alpha omega" style="background:#;margin-left: 80px;">
+					<h3>Credit Card Guides</h3>
+					<div class="" style="background:#;float:left;display:inline-block;width: 200px;margin-right:0px;">
+						<ul class="nav-hover-list">
+							<li><a class="credit-good" href="http://www.comparecards.com/best-credit-card-offers" data-category="Interaction" data-action="Main Nav Click">Editor's Choice Credit Cards</a></li>
+							<li><a class="card-blue" href="http://www.comparecards.com/glossary" data-category="Interaction" data-action="Main Nav Click">Credit Card Glossary</a></li>
+							<li><a class="card-blue" href="http://www.comparecards.com/compare-credit-cards" data-category="Interaction" data-action="Main Nav Click">Card Comparison Guide</a></li>
+							<li><a class="card-blue" href="http://www.comparecards.com/common-credit-card-questions" data-category="Interaction" data-action="Main Nav Click">Credit Card FAQs</a></li>
+						</ul>
 					</div>
-				</li>
-				
-				
-				<li>
-					<a class="nav-forth gae" data-category="Interaction" data-action="Main Nav Click" href="http://www.comparecards.com/calculators/payoff">Credit Card Tools</a>
-					<div class="nav-hover-sec">
-						<div class="grid_4 alpha">
-							<h3>Credit Card Tools</h3>
-							<ul class="nav-hover-list">
-								<li><a href="http://www.comparecards.com/calculators/payoff" class="gae" data-category="Interaction" data-action="Main Nav Click">Debt Payoff</a></li>
-								<li><a href="http://www.comparecards.com/calculators/balance-transfer" class="gae" data-category="Interaction" data-action="Main Nav Click">Balance Transfer</a></li>
-								<li><a href="/saved-credit-cards" class="gae" data-category="Interaction" data-action="Main Nav Click">Save Cards Side-by-Side</a></li>
-							</ul>
-						</div>
-						<div class="grid_4 alpha">
-							<h3>Web Resources</h3>
-							<ul class="nav-hover-list">
-								<li><a href="http://ftc.gov/bcp/menus/consumer/credit/loans.shtm" target="_blank" class="gae" data-category="Interaction" data-action="Main Nav Click">FTC.gov</a></li>
-								<li><a href="http://nfcc.org/consumer_tools/ConsumerTools.cfm" target="_blank" class="gae" data-category="Interaction" data-action="Main Nav Click">NFCC.org</a></li>
-								<li><a href="http://nationalscoreindex.com/" target="_blank" class="gae" data-category="Interaction" data-action="Main Nav Click">Experian Credit Index</a></li>
-								<li><a href="http://federalreserve.gov/creditcard/" target="_blank" class="gae" data-category="Interaction" data-action="Main Nav Click">Federal Reserve Guide</a></li>
-							</ul>
-						</div>
+					<div class="grid_4 alpha omega" style="background:#;float:right;">
+						<ul class="nav-hover-list">									
+							<li><a class="card-blue" href="http://www.comparecards.com/credit-card-videos" data-category="Interaction" data-action="Main Nav Click">Credit Card Videos</a></li>
+							<li><a class="card-blue" href="http://www.comparecards.com/credit-scores-101" data-category="Interaction" data-action="Main Nav Click">Credit Card Scores 101</a></li>
+							<li><a class="card-blue" href="http://www.comparecards.com/education-center" data-category="Interaction" data-action="Main Nav Click">Education Center</a></li>
+						</ul>
 					</div>
-				</li>
-				<li>
-					<a class="nav-fifth gae" data-category="Interaction" data-action="Main Nav Click" href="http://www.comparecards.com/free-trial-credit-scores">Credit Reports &amp; Scores</a>
-					<div class="nav-hover-sec">
-						<div class="grid_5">
-							<ul class="nav-hover-list">
-								<li><a href="http://www.comparecards.com/free-trial-credit-scores" class="gae" data-category="Interaction" data-action="Main Nav Click">Totally Free Credit Scores</a></li>
-								<li><a href="http://www.comparecards.com/credit-reports-scores" class="gae" data-category="Interaction" data-action="Main Nav Click">Credit Reports</a></li>
-								<li><a href="http://www.comparecards.com/credit-repair" class="gae" data-category="Interaction" data-action="Main Nav Click">Credit Repair</a></li>
-								<li><a href="http://www.comparecards.com/identity-theft" class="gae" data-category="Interaction" data-action="Main Nav Click">Identity Theft Protection</a></li>
-							</ul>
-						</div>
+				</div>
+				
+				
+				
+				<div class="grid_8 omega" style="background:#;margin-right: 80px;float:right;">
+					<h3>Credit Card Tools</h3>
+					<div class="grid_4 omega" style="background:#;">
+						<h4>TOOLS:</h4>
+						<ul class="nav-hover-list">
+							<li><a class="card-green" href="http://www.comparecards.com/calculators/payoff" data-category="Interaction" data-action="Main Nav Click">Debt Payoff</a></li>
+							<li><a class="card-green" href="http://www.comparecards.com/calculators/balance-transfer" data-category="Interaction" data-action="Main Nav Click">Balance Transfer</a></li>
+							<li><a class="card-green" href="/saved-credit-cards" data-category="Interaction" data-action="Main Nav Click">Save Cards Side-by-Side</a></li>
+						</ul>
 					</div>
-				</li>
+					<div class="grid_4 omega" style="background:#;float:right;">
+						<h4>RESOURCES:</h4>
+						<ul class="nav-hover-list">
+							<li><a class="card-green" href="http://ftc.gov/bcp/menus/consumer/credit/loans.shtm" target="_blank" data-category="Interaction" data-action="Main Nav Click">FTC.gov</a></li>
+							<li><a class="card-green" href="http://nfcc.org/consumer_tools/ConsumerTools.cfm" target="_blank" data-category="Interaction" data-action="Main Nav Click">NFCC.org</a></li>
+							<li><a class="card-green" href="http://nationalscoreindex.com/" target="_blank" data-category="Interaction" data-action="Main Nav Click">Experian Credit Index</a></li>
+							<li><a class="card-green" href="http://federalreserve.gov/creditcard/" target="_blank" data-category="Interaction" data-action="Main Nav Click">Federal Reserve Guide</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</li>
+		
+		<!--
+		<li class="nav-forth">
+			<a class="nav-forth gae" data-category="Interaction" data-action="Main Nav Click" href="http://www.comparecards.com/calculators/payoff">Credit Card Tools</a>
+			<div class="nav-hover-sec">
+				<div class="grid_4 alpha">
+					<h3>Credit Card Tools</h3>
+					<ul class="nav-hover-list">
+						<li><a href="http://www.comparecards.com/calculators/payoff" class="gae" data-category="Interaction" data-action="Main Nav Click">Debt Payoff</a></li>
+						<li><a href="http://www.comparecards.com/calculators/balance-transfer" class="gae" data-category="Interaction" data-action="Main Nav Click">Balance Transfer</a></li>
+						<li><a href="/saved-credit-cards" class="gae" data-category="Interaction" data-action="Main Nav Click">Save Cards Side-by-Side</a></li>
+					</ul>
+				</div>
+				<div class="grid_4 alpha">
+					<h3>Web Resources</h3>
+					<ul class="nav-hover-list">
+						<li><a href="http://ftc.gov/bcp/menus/consumer/credit/loans.shtm" target="_blank" class="gae" data-category="Interaction" data-action="Main Nav Click">FTC.gov</a></li>
+						<li><a href="http://nfcc.org/consumer_tools/ConsumerTools.cfm" target="_blank" class="gae" data-category="Interaction" data-action="Main Nav Click">NFCC.org</a></li>
+						<li><a href="http://nationalscoreindex.com/" target="_blank" class="gae" data-category="Interaction" data-action="Main Nav Click">Experian Credit Index</a></li>
+						<li><a href="http://federalreserve.gov/creditcard/" target="_blank" class="gae" data-category="Interaction" data-action="Main Nav Click">Federal Reserve Guide</a></li>
+					</ul>
+				</div>
+			</div>
+		</li>
+		-->
+		<li class="nav-fifth">
+			<a class="nav-fifth gae" data-category="Interaction" data-action="Main Nav Click" href="http://www.comparecards.com/free-trial-credit-scores">Credit Reports &amp; Scores</a>
+			<div class="nav-hover-sec" style="text-align: center;">
+			
+				<div class="grid_7 alpha omega" style="background:#;margin-left: 100px;">
+					<h3>Credit Reports &amp; Scores</h3>
+					<div class="grid_4 alpha" style="background:#;">
+						<ul class="nav-hover-list">
+							<li><a class="credit-good" href="http://www.comparecards.com/free-trial-credit-scores" data-category="Interaction" data-action="Main Nav Click">Totally Free Credit Scores</a></li>
+						
+						</ul>
+					</div>
+					<div class="grid_3 alpha" style="background:#;">
+						<ul class="nav-hover-list">									
+							<li><a class="card-blue" href="http://www.comparecards.com/credit-reports-scores" data-category="Interaction" data-action="Main Nav Click">Credit Reports</a></li>
+							
+						</ul>
+					</div>
+				</div>
 				
-				<li id="nav-last">
-					<a href="http://comparewallet.com/" class="topnav gae" data-category="Interaction" data-action="Main Nav Click" target="_blank">Blog</a>
-				</li>
-				
-				
-			</ul>		</div>
+				<div class="grid_7 alpha omega rt" style="background:#;margin-right: 100px;">
+					<h3>Credit Repair &amp; Protection</h3>
+					<div class="grid_3 alpha" style="background:#;">
+						<ul class="nav-hover-list">
+							<li><a class="card-green" href="http://www.comparecards.com/credit-repair" data-category="Interaction" data-action="Main Nav Click">Credit Repair</a></li>
+						
+						</ul>
+					</div>
+					<div class="grid_4 alpha" style="background:#;">
+						<ul class="nav-hover-list">									
+							<li><a class="card-green" href="http://www.comparecards.com/identity-theft" data-category="Interaction" data-action="Main Nav Click">Identity Theft Protection</a></li>
+						</ul>
+					</div>
+				</div>			
+			</div>
+		</li>
+		
+		
+		
+		
+	</ul>
+	
+	<div id="compare-cart-container" class="wrap-compare-cart">
+		<script type="text/javascript">
+$(function(){
+	//ensure we also setup after ajax load
+	compareCartReady();
+	compareCartNav();
+	compareCartTips();
+});
+</script>
+
+<div class="compare-cart">
+			<div id="cart-overlay">
+			<p>Add Credit Cards to Compare</p>
+		</div>
+		
+	
+	<div class="card-saved-container">
+		<div class="back-arrow">
+			<a href="javascript:" id="compare-cart-move-left" class="compare-cart-move-left">back cards</a>
+		</div>
+		<div class="wrap-card-container" id="compare-cart-wrap">
+			<ul id="compare-cart-list" class="compare-cart-list">
+					<li class="add-card"><a href="http://www.comparecards.com/best-credit-card-offers">add card</a></li>
+									<li class="empty"></li>
+									<li class="empty"></li>
+									<li class="empty"></li>
+											</ul>
+		</div><!-- /wrap-card-container -->
+		
+		<div class="next-arrow">
+			<a href="javascript:" id="compare-cart-move-right" class="compare-cart-move-right">next cards</a>
+		</div>
+	</div><!-- /card-saved-container -->
+	
+	
+	
+	
+	<a href="http://www.comparecards.com/saved-credit-cards" id="compare-cart-button" class="button gae" data-category="Compare" data-action="Compare" data-label="">Compare</a> 
+</div>
+
+	</div>		</div>
 	</div>
 	<!-- end header -->
 	<div class="body-main clearfix">
@@ -623,7 +830,7 @@ $(function() {
 
 <div class="container-1">
 	<div class="sec trust">
-		<img src="/pub/assets/images/default/trust-seal-2.png">
+		<img src="/pub/assets/images/default/trust-seal-3.png">
 		<p><span>Over 1,250,000</span> cardholders since 2005</p>
 	</div><!-- /sec -->
 	<div class="sec">
@@ -791,5 +998,32 @@ var google_remarketing_only = true;
 <img src="//pixel.adblade.com/imps.php?sgms=1030" border="0">
 <!-- Remarketing Pixel -->
 
+<!-- Remarketing Pixel -->
+<img src="http://i.simpli.fi/dpx?cid=4449&amp;action=100&amp;segment=comparecards" width="1" height="1">
+<!-- Remarketing Pixel -->
+
+<!-- Advertiser 'CompareCards.com LLC',  Include user in segment 'CompareCards Retargeting' - DO NOT MODIFY THIS PIXEL IN ANY WAY -->
+<img src="http://ads.bluelithium.com/pixel?id=2041545&amp;t=2" width="1" height="1">
+<!-- End of segment tag -->
+
+<!-- adroll -->
+<script type="text/javascript">
+adroll_adv_id = "UYZMDGZVHND6JKEQKTETDD";
+adroll_pix_id = "TPSWCDWO5RFIFNSEW7KBJ6";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script>
+<!-- adroll -->
 
 </body></html>
