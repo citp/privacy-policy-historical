@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travmonkey.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621045526id_/http%3A//www.travmonkey.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travmonkey.com privacy policy that was archived on 2013-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130913012210id_/http%3A//www.travmonkey.com/privacy) for the most accurate reproduction.*
 
 # Privacy | TravMonkey World Travel
 
