@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pakgamers.com privacy policy that was archived on 2013-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130209015803id_/http%3A//www.pakgamers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pakgamers.com privacy policy that was archived on 2013-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130913115005id_/http%3A//www.pakgamers.com/privacy-policy) for the most accurate reproduction.*
 
 # PakGamers - Privacy Policy
 
