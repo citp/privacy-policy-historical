@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mydollbestfriend.co.uk privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509054500id_/http%3A//www.mydollbestfriend.co.uk/catalog/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydollbestfriend.co.uk privacy policy that was archived on 2013-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130913045414id_/http%3A//www.mydollbestfriend.co.uk/catalog/privacy.php) for the most accurate reproduction.*
 
 # Privacy Notice : My Doll Best Friend
 
