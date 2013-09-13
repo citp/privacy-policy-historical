@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the deem.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514194739id_/http%3A//www.reardencommerce.com/privacy/global-privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deem.com privacy policy that was archived on 2013-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130913160908id_/http%3A//www.reardencommerce.com/privacy/global-privacy-statement.html) for the most accurate reproduction.*
 
 # Global Privacy Statement - Rearden Commerce
 
-Rearden Commerce and its subsidiaries and affiliates (collectively, "Rearden Commerce") respect your privacy concerns. This Global Privacy Statement ("Privacy Statement") informs you of our privacy practices. The Privacy Statement applies to all Rearden Commerce-owned websites and domains (including [www.deem.com](http://www.deem.com/) and [blog.deem.com](http://blog.deem.com/)) and the websites and domains of our wholly-owned subsidiaries, including Ketera Technologies ([www.ketera.com](http://www.ketera.com/)), ExpenseWire ([www.expensewire.com](http://www.expensewire.com/)) and Global Ground Automation ([www.globalground.com](http://www.globalground.com/)).
+Rearden Commerce and its subsidiaries and affiliates (collectively, "Rearden Commerce") respect your privacy concerns. This Global Privacy Statement ("Privacy Statement") informs you of our privacy practices. The Privacy Statement applies to all Rearden Commerce-owned websites and domains (including [www.deem.com](http://www.deem.com/) and [blog.deem.com](http://blog.deem.com/)) and the websites and domains of our wholly-owned subsidiaries, including Ketera Technologies ([www.ketera.com](http://www.ketera.com/)), and Global Ground Automation ([www.globalground.com](http://www.globalground.com/)).
 
 The goal of this Privacy Statement is to enable you to make informed choices regarding disclosing your personal information to us in connection with visiting our websites or using our products and services. This Privacy Statement explains:
 
@@ -190,5 +190,5 @@ If you have any questions or comments about this Privacy Statement, or if you wo
 **Rearden Commerce**  
 Attn: Chief Legal Officer – Privacy  
 Privacy Rights  
-1051 E. Hillsdale Blvd., Sixth Floor   
-Foster City, CA 94404 
+301 Howard St., 21st Floor  
+San Francisco, CA 94105
