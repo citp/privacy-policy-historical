@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zenphoto.org privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514210403id_/http%3A//www.zenphoto.org/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zenphoto.org privacy policy that was archived on 2013-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130913141459id_/http%3A//www.zenphoto.org/pages/privacy) for the most accurate reproduction.*
 
 # Privacy | Legal stuff | Zenphoto - The simpler media website CMS
 
@@ -41,5 +41,5 @@ _(Source:<https://www.google.com/adsense/localized-terms>)_
 
 #### Addition II: Hosting/Sponsor ads
 
-We don't allow any other user tracking advertisements on our site besides Google Analytics. All the ads you see on our hosting page, front page or other page's sidebar are pure images linked to the advertiser's pages. You can read about the conditions to advertise here:  
+We don't allow any other user tracking advertisements on our site besides Google Analytics. All the ads you see on our hosting page, front page or other page's sidebar are pure images or html text linked to the advertiser's pages. All we do is count the clicks on these ads via JavaScript but that does not transfer any information from you besides the click. You can read about the conditions to advertise here:  
 <http://www.zenphoto.org/pages/advertise>
