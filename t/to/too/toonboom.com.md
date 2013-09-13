@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the toonboom.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015184744id_/http%3A//beta.toonboom.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toonboom.com privacy policy that was archived on 2013-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130913214828id_/https%3A//www.toonboom.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Toon Boom Animation
 
 At TOON BOOM ANIMATION Inc. ("TOON BOOM"), protecting your privacy is very important to us. Our goal is to treat the personal information you furnish us with the utmost respect, and in accordance with this Privacy Policy. Please read on for details about our practices for handling and securing your personal information.
 
@@ -131,10 +131,10 @@ In order to continually monitor and strengthen our privacy procedure, we have on
 Back to top
 
 Toon Boom Animation  
-5530 St. Patrick Suite 2210  
+4200 Saint-Laurent, Suite 1020  
 Montreal, Quebec, Canada  
-H4E 1A8  
-webmaster@toonboom.com  
+H2W 2R2  
+[webmaster@toonboom.com](mailto:webmaster@toonboom.com)  
 Tel: (514) 278-8666  
 Fax: (514) 278-2666  
 
