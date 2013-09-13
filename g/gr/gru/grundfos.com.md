@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grundfos.com privacy policy that was archived on 2013-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130403032440id_/http%3A//www.grundfos.com/navfooter/legal-issues/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grundfos.com privacy policy that was archived on 2013-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130913162148id_/http%3A//www.grundfos.com/navfooter/legal-issues/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Grundfos
 
@@ -71,88 +71,10 @@ We store personal information only for as long as this is necessary for the abov
 You can change your account details and areas of interest at any time, and, if you wish, you can request that we contact you in connection with an offer on a product or service or to unsubscribe from newsletters.  
 
 
-We can inform you which information we have registered about you and you are entitled to object to our registering your personal information. If you wish to receive information about which of your personal information we process or if you wish to object to our processing your personal information, contact us here:
-
-<http://www.grundfos.com/nav/contact.html#grundfos_corporation>  
-
-
-**Cookies**  
-In addition to the details you enter when you make a purchase, subscribe to a newsletter and other services, the Website also sets cookies. Cookies are digital data packages that the Website stores on your hard drive. The cookies we use identify the user's terminal devices (e.g. pc, mobile phone, tablet, etc.). A cookie is not a program and it does not contain a virus.  
-
-
-The Website stores cookies for the following purposes: 
-
-  * To improve the Website service and user benefits by generating web statistics
-  * To provide services that give users access to Grundfos Extranet
-  * In connection with product searches  
-
-
-
-
-In addition to Grundfos cookies, the Website registers and sets the following third-party cookies:  
-
-
-Cookie  
-| Purpose & details  
-  
----|---  
-Google Analytics  
-| 
-
-Google's cookies are used to understand how visitors use our site and to improve the site over time. The information is anonymous.
-
-To opt out of Google Analytics generally, visit <http://tools.google.com/dlpage/gaoptout>
-
-Google Analytics registers and sets two types of cookies:
-
-Persistent cookies, which show user behaviour over time. Persistent cookies are stored for a period of up to two years.
-
-Session cookies, which show user behaviour within a given visit. Session cookies are deleted when you close the tab or browser.  
-
-
-[Click here for an overview of privacy at Google](http://www.google.co.uk/intl/en/analytics/privacyoverview.html)  
-  
-  
-Webseal  
-| 
-
-This cookie is set to manage users that log on to our Extranet and WebCaps solution.
-
-Session cookies, which show whether a user is logged on to Grundfos. Session cookies are deleted when you close the tab or browser.  
-  
-  
-Omniture  
-| 
-
-Omniture's cookies are used to understand how visitors use our site and to improve the site over time. The information is anonymous.
-
-Persistent cookies, which show user behaviour over time. Persistent cookies are stored for a period of up to five years.  
-
-
-Session cookies, which show user behaviour within a visit. Session cookies are deleted when you close the tab or browser.  
-
-
-More about these cookies:
-
-<http://www.omniture.com/en/privacy/2o7>  
-  
-  
-Globase  
-| We use Globase for our newsletters for customers who want to be updated on current activities at Grundfos. The signup page is placed on an external server at Globase  
-  
-SurveyGizmo  
-| 
-
-Cookie to prevent pop-ups – survey when visitors say Yes or No Thanks to participating in the survey.
-
-Persistent cookies, which show whether a user has already answered the questionnaire, or has opted out. Persistent cookies are stored for a period of up to 2 years.  
-  
-If you do not wish Grundfos to identify your pc, mobile phone, tablet, etc., by setting cookies, you can disable cookies in your browser. See guidelines here: <http://www.wikihow.com/Disable-Cookies>
-
-Every time you visit the Website - regardless of whether there is a cookie or not - Grundfos registers the type of browser used by the user, the operating system, etc. of the pages, which the user wishes to access. This data is used in an accumulated anonymous report for use in statistical analysis of how the Website is generally used.
+We can inform you which information we have registered about you and you are entitled to object to our registering your personal information. If you wish to receive information about which of your personal information we process or if you wish to object to our processing your personal information, [contact us here](http://www.grundfos.com/nav/contact.html#grundfos_corporation).
 
 **Contact, amendments and updates to the privacy policy**  
 Grundfos is obliged at any time to meet legislative requirements pertaining to the protection of personal privacy. At the top of our privacy policy, you can always see when the policy was last updated.  
 
 
-If you have any questions or comments related to our privacy policy or how we use your personal information, contact us here:
+If you have any questions or comments related to our privacy policy or how we use your personal information, [contact us here](http://www.grundfos.com/nav/contact.html#grundfos_corporation).
