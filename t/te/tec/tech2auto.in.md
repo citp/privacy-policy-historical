@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tech2auto.in privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420204537id_/http%3A//tech2auto.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tech2auto.in privacy policy that was archived on 2013-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130913113203id_/http%3A//geeki.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Tech2Auto
+# Privacy Policy - Geeki.in
 
-We, the members of [Tech2Auto.in](http://tech2auto.in/) consider the privacy of our users with higher importance. Please take a look at the privacy documents before leaving the site.
+We, the members of [geeki.in](http://geeki.in/) consider the privacy of our users with higher importance. Please take a look at the privacy documents before leaving the site.
 
  **Log Files**
 
@@ -38,5 +38,3 @@ We do use security measures to protect your personal information. We don’t all
  **Distribution of Our Content**
 
 We don’t allow users to distribute our content with third party sites without informing us. Copying contents from our site strictly violates our privacy policy.
-
-In case, you feel the need of contacting use please feel the following form and send it to us.
