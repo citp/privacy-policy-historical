@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the milfaholic.com privacy policy that was archived on 2013-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130413231958id_/http%3A//www.milfaholic.com/%3Fpage%3Dpp%26wm_login%3Dadmin%26sub%3D%26k%3D%26t%3D%26ps%3Ds%26nn%3D%26from%3Ds1%26ref_url%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milfaholic.com privacy policy that was archived on 2013-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130913121405id_/http%3A//www.milfaholic.com/%3Fwm_login%3Dadmin%26ps%3Ds%26page%3Dpp%26from%3Ds4) for the most accurate reproduction.*
 
-# Privacy Policy
+# Free MILF Dating, Mature Dating and Cougar Dating at Milfaholic.com
 
+  
 **OUR WEB SITE PRIVACY POLICY**
 
 We have created this Privacy Policy in order to demonstrate our firm commitment to privacy. This Privacy Policy explains our practices with respect to the collection, use, and disclosure of personal and non-personal information provided by visitors to our Web site. By using this site, you signify your assent to these our privacy practices and the terms and conditions of our Web site. 
@@ -25,7 +26,7 @@ We may also share, rent, sell, or transfer any personal information (including f
 **WHAT SECURITY MEASURES DO WE TAKE TO PROTECT YOUR DATA?**   
 To help prevent unauthorized access, maintain data integrity, and ensure the appropriate use of information, we have put in place certain physical, electronic, and managerial procedures to safeguard and secure the information we collect from visitors to our Web site. SSL (Secure Socket Layer) technology protects any credit card information you provide. We allow access to personal information only to persons and entities engaging in activities provided for by this Privacy Policy. Visitors should consider any communication that they transmit to us (such as data, questions or answers, comments, suggestions, or communications submitted to a chat room) to be non-confidential. We will not be liable or responsible if information that belongs to a visitor is intercepted and used by an unintended recipient. 
 
-**WE PROTECT CHILDRENS PRIVACY**   
+**WE PROTECT CHILDREN'S PRIVACY**   
 Protecting the privacy of children is VERY important to us. For that reason we do not structure any part of our site to attract anyone under the age of 18 (21 in some areas) and we do not allow anyone under the age of 18 (21 in some areas) to register and become a member of our site. 
 
 **CORPORATE CHANGES**   
@@ -44,6 +45,4 @@ You can cancel your subscription online by visiting the Customer Service section
 Visitors who wish to access or change the information they provided to our Web site, should visit the Customer Service section of this site and contact us via Email. 
 
 **HOW CAN YOU CONTACT THE WEB SITE OPERATOR?**   
-Visitors who have any questions about this Privacy Policy, the practices of this site, or their interactions with this Web site, should visit the Customer Service section of this site and contact us via Email. 
-
-Milfaholic.com - Find a hot milf in your city that is part of those mature wives that is horny and ready for sex. Locate a hot milf or feel a nude wife in your bed. You will be happy knowing that the hot MILF you have watched down the street has her husband telling you "fuck my wife". Yes its true that many mature ladies are also ready for fast sex action. We can say they are cheating wives but really they are just swingers that want to satisfy there hot desires. So start today and meet a real local horny milf! Create your free profile and start browsing thousands of lonely milfs & hookup for sex tonight! 
+Visitors who have any questions about this Privacy Policy, the practices of this site, or their interactions with this Web site, should visit the Customer Service section of this site and contact us via Email.
