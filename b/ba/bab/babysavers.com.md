@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the babysavers.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426130006id_/http%3A//www.babysavers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babysavers.com privacy policy that was archived on 2013-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130913185357id_/http%3A//www.babysavers.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Baby Savers!
+# Privacy Policy - BabySavers
 
 Your privacy is very, very important to me!
 
