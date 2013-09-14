@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the distancefromto.net privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610224254id_/http%3A//www.distancefromto.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the distancefromto.net privacy policy that was archived on 2013-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130914043016id_/http%3A//www.distancefromto.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy for distancefromto.net
 
