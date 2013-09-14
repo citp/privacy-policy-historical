@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sloyalty.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117130933id_/http%3A//www.sloyalty.com/static/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sloyalty.com privacy policy that was archived on 2013-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130914201942id_/http%3A//www.sloyalty.com/static/privacy_v2.html) for the most accurate reproduction.*
 
-# Privacy - S Loyalty
+# S Loyalty | Loyalty Software, Rewards Program, Referral Program Software
 
 Protecting your private information is our priority. This Statement of Privacy applies to the sloyalty.com website (the “Website”) and Visual Squares LTD (the “Company”, “we”, “us”) and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to Company include sloyalty.com. By using the Website or services related to the Website or Company, you consent to the data practices described in this statement.
 
