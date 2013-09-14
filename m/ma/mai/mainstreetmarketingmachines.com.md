@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mainstreetmarketingmachines.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517095603id_/http%3A//www.instantcustomerrevolution.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mainstreetmarketingmachines.com privacy policy that was archived on 2013-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130914112747id_/http%3A//www.instantcustomerrevolution.com/privacy) for the most accurate reproduction.*
 
 # Instant Customer Revolution: Become a Highly-Paid Business Marketing Consultant, Free Book and Video
 
