@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the natpe.org privacy policy that was archived on 2013-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130427061957id_/http%3A//www.natpe.org/natpe/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D390%26Itemid%3D663) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the natpe.org privacy policy that was archived on 2013-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130914081527id_/http%3A//www.natpe.org/natpe/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D390%26Itemid%3D663) for the most accurate reproduction.*
 
 # Privacy Policy | NATPE | Content First | NATPE | Content First
 
-**Copyright © 2004-2010** National Association of Television Program Executives (NATPE). All rights reserved. No portion of this site may be reproduced in any manner without the express prior written consent of NATPE.
+**Copyright © 2004-2013** National Association of Television Program Executives (NATPE). All rights reserved. No portion of this site may be reproduced in any manner without the express prior written consent of NATPE.
 
 At NATPE, we want you to be aware of how we use information we have collected from and about you. By coming to the NATPE site, you are agreeing to and accepting this Privacy Policy as well as the Terms and Conditions and other end user agreements governing our services.
 
@@ -10,7 +10,7 @@ NATPE collects information from you primarily for the purpose of creating a bett
 
 If you make a purchase by credit card or otherwise provide your credit card information, the relevant data will be transmitted to NATPE's vendor providing such payment processing service. Such third party will be authorized to use this information in keeping with our contractual relationship with them and in accordance with their own privacy policy and information practices. We do not control these third parties and you agree that NATPE is not liable for their acts, or any failure to act on their part.
 
-If you are a member, or listed in GNAM, your Identifying Information is made available to NATPE Members who search the NATPE Directory. Non-members who search the NATPE Directory will see your company name, but will not have access to your Identifying Information.
+If you are a member, or listed in myNATPE, your Identifying Information is made available to NATPE Members who search the NATPE Directory. Non-members who search the NATPE Directory will see your company name, but will not have access to your Identifying Information.
 
 Advertisements, promotional offers, promotional emails, newsletters, "free gifts," and links on the NATPE site or sent via email or other means from NATPE may ask for Identifying Information from you. If you provide this information, your Identifying Information may be provided (either directly from you or by NATPE) to the advertiser or web site or company making the offer or providing the gift. This Privacy Policy does not cover the privacy and information practices of those advertisers or web sites linked to the NATPE site.
 
@@ -38,4 +38,4 @@ This Privacy Policy is subject to modification from time to time. You may be not
 
 If you have any questions regarding this policy, please email **[Jack Sullivan](http://www.contactify.com/27827) **or call him at 310-857-1626.
 
-**Last Update: October 14, 2010**
+**Last Update: May 1, 2013**
