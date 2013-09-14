@@ -1,129 +1,112 @@
-> *The following text is extracted and transformed from the feedthepig.org privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126105107id_/http%3A//www.aicpa.org/PrivacyandTerms/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feedthepig.org privacy policy that was archived on 2013-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130914084339id_/http%3A//www.feedthepig.org/privacy) for the most accurate reproduction.*
 
-# AICPA and CPA2Biz Joint Privacy Policy
+# Privacy Policy | Feed the Pig
 
-**Overview**  
-The Joint Privacy Policy of the American Institute of Certified Public Accountants (AICPA) and CPA2Biz describes how these organizations and their affiliates (we) collect, use and share personally identifiable information that you provide via the use of our websites (the “Sites”) through membership, volunteerism, conference/webinar attendance, purchases and other interactions in which information is collected. The term “you” indicates website visitors, AICPA members, customers, candidates, affiliates, associates, volunteers, authors and any user of the Sites or anyone doing business with the organizations.  “You” does not include the organizations’ employees, vendors, contractors or persons in similar business relationships where personally identifiable information may be provided and used.  The AICPA and CPA2Biz are based in the United States and as such this policy was developed under the laws of the United States.  The Joint Privacy Policy is subject to change periodically. The Joint Privacy Policy is posted on the Sites and is effective at the time denoted by its date. It is recommended that you regularly check the Sites for updates. 
+**Overview**
 
-**Notice**  
-The use of the Sites and services offered by the organizations constitutes your acceptance of the Joint Privacy Policy. If you use the Sites, register, login, post comments, participate in forums, wikis or blogs, register for courses, exams or other events, purchase products, apply for membership, become a member, or otherwise submit personally identifiable information in any manner, you are consenting to the use of such data in accordance with this Joint Privacy Policy.  If you are an international user, the use of any website covered by this Joint Privacy Policy constitutes consent to this Joint Privacy Policy and an acknowledgement that use of any website covered by the Joint Privacy Policy is solely subject to the laws governing the use of data in the United States and as indicated by this policy. 
+THIS IS OUR OFFICIAL PRIVACY POLICY, WHICH IS PART OF OUR [Terms of Use](https://web.archive.org/terms) AND FORMS A PART OF YOUR LEGAL AGREEMENT WITH US. PLEASE READ IT CAREFULLY AS IT DESCRIBES THE TYPES OF INFORMATION WE COLLECT, HOW WE COLLECT AND USE INFORMATION, THE CIRCUMSTANCES IN WHICH WE DISCLOSE OR SHARE INFORMATION AND HOW YOU CAN ACCESS, UPDATE OR DELETE CERTAIN INFORMATION WE HAVE COLLECTED ABOUT YOU. Any terms not defined in this Privacy Policy are defined in our [Terms of Use](https://web.archive.org/terms).
 
-Additionally, the Sites contain links to other websites managed by third parties (some of which use of cookies).  As a user of links, it is your responsibility to understand the privacy policies of the websites you visit.  Once you leave our website using links, we have no control over information that is submitted to, or collected by any third parties and we are not responsible for activities or practices of those other websites. 
+The scope of this Privacy Policy does not include websites that are owned, and/or managed by related entities or Third Parties unless such entities or Third Party links to this policy. 
 
-The scope of this Joint Privacy Policy does not include websites that are owned, and/or managed by related entities or third parties unless such entities or third party links to this policy.  Also, it does not include AICPA program or marketing related websites for the development of interest in the CPA profession and careers (such as, but not limited to, [www.startheregoplaces.com](http://www.startheregoplaces.com/) which are governed by their own privacy policies). 
+**Information We Collect and How We Collect It**
 
-**Collection of Personally Identifiable Information**   
-We collect and maintain demographic information and personally identifiable information such as, but not limited to, your name, date of birth, email address, home and business address (including country), and telephone, cell and fax numbers.  Additionally, we collect credit card, bank account and other payment information and other business information that you provide for transactional purposes such as, but not limited to, purchases, conferences, applications, examinations and membership.  We also collect personally identifiable information from authors, vendors, contractors and from vendors via purchased or rented lists.
+When you access or visit this Website, we, our operational service providers and others who host our Website often use technology that can recognize, collect and/or transmit information that is associated with you, but which do not personally identify you. Although the term "cookie" specifically refers to a small text file that is stored on a user's computer for record-keeping purposes, we will use the term "cookie" to refer generically to any technology that can recognize, collect and/or transmit information about your visits to our Website. This type of information includes such data as the Internet or web domain that referred you, the type of operating system and browser you are using, the date and time of your visit, data relating to activities on our Website (e.g., so-called 'clickstream' data) and other technological attributes about your visit to our Website. This information is used to analyze trends, administer our Website, track user movements on our Website, and gather aggregate demographic information about visitors so we can continually improve our Website.
 
-The minimum information you need to provide to complete any specific transaction or access any particular area of the Sites is detailed on the Sites’ pages or forms. You will be unable to place an order or complete a registration without providing minimal information required for the transaction. In some cases, other optional information is also requested, which you may elect to provide.  This optional information allows us to provide a more personalized experience for the website user.
+Cookies also allow our Website to recognize a users' computer or access device each time it is used to visit a particular Website and cookies can keep count of how often you return. Cookies can also track how you use our Website, your preferences for features and functions and, for Website that have registration or similar features, cookies can store information such as your user name and password so you don't have to re-enter them each time you return to visit. Cookies don't personally identify you or any particular user or individual.
 
-Your preferences are collected through information you provide via your membership and “My Account” submissions, website registration, purchases, conference/webinar registration/attendance, tradeshows, examinations, credential registration, participation in committees/special interest groups and task forces, subscriptions, scholarship and fellowship applications, online surveys, as well as other information you provide.  Some of these functions, forms or activities provide for opt-outs as to providing information.  If opt-outs are utilized, certain websites, benefits and/or website functionality may not be available.  We also collect and use personally identifiable information as part of various programs such as, but not limited to, contests, peer review, ethics inquiries and investigations, award nominations, volunteer and committee activities and benevolent fund and foundation applications and donations. 
+You can disable or turn the cookie feature off by changing the settings on your Internet browser and you can also change the settings to stop your browser from automatically accepting cookies. Although changing these settings may not affect your ability to browse, it may affect your ability to use certain features and functions of our Website and it may also require you to re-enter certain information each time you visit or attempt to use our Website. You should consult the operating instructions that apply to your browser to determine how to best configure your browser settings for your needs.
 
-**Online Networking Features  
-**By participation in networking functions such as, but not limited to, initiating your public profile, posting your resume, posting a comment or review, participating in a community activities, discussion forums, blogs, wikis or similar activity, be advised that information you provided may be publicly viewable when using these functionalities.  This includes information such as, but not limited to, username or other information you have used as your username (e.g., email address or your name).  This may result in unsolicited messages or communication beyond our control. 
+**Personal Information**
 
-**Collection of Passive Information  
-**Upon any use of the Sites, providing email address, enrolling in programs, or completing various forms, we collect non-identifying information through the use of cookies technology and/or Internet Protocol (IP) address tracking/URL tracking.  This technology collects non-personal information such as, but not limited to, new or returning user, browser information, computer type, operating system, internet service providers, website usage, referring/exit pages, platform type, date/time stamp, number of clicks, advertisement viewing, and performance to personalize the content to better serve you and all website users.  We collect this information to perform effective capacity planning, administer the Sites, troubleshoot website performance, track aggregate users' movements, gather aggregate demographics and accurately document transactional information for business partners. 
+We use the term "Personal Information" to refer to any information you provide in connection with your use of this Website by which you can be personally identified. Personal Information may include such things as your name, street address, telephone number, date of birth, e-mail address and any other information which might reasonably be used to identify you. We only obtain Personal Information from you when you submit it to us or provide it on one or more of our Websites that require it in order to allow you to register, subscribe or take advantage of certain features, functions, services, activities, promotions and content on our Website (these are referred to as "Content" in our [Terms of Use](https://web.archive.org/terms)). You may also email us with a question or for more information and we will use your contact information (which includes Personal Information such as an email address) to help us respond and for customer service purposes. Unless you voluntarily provide or send us Personal Information, we will always ask you to submit or provide it to us before collecting your Personal Information, although you may not be able to use the particular Content, if you choose not to provide your Personal Information. If you provide or submit your Personal Information to our Website, we will always give you the right to review, update and/or delete your Personal Information, subject to our obligations to comply with legal, regulatory our internal audit and record-keeping requirements.
 
-**The Use of Cookies for Advertising**  
-Our Sites may contain advertisements, whose related cookies may collect data, but also track your movement and behavior on other sites. These types of cookies, from third-party advertisers or from links accessed via our Sites, are not controlled by us. 
+In addition to this Privacy Policy, each of our other AICPA Websites that collect Personal Information will have additional disclosures and information ("Supplemental Privacy Policies"). These Supplemental Privacy Policies describe how the Website collects, uses, shares and maintains your Personal Information. Each of the Supplemental Privacy Policies and legal information for users are incorporated and form a part of this Privacy Policy and our [Terms of Use](https://web.archive.org/terms). 
 
-We utilize our own cookies to track visitor behavior on aicpa.org to optimize your experience on our site and provide promotional advertising on other sites for AICPA and CPA2Biz products or services. To accomplish this, we partner with various third party vendors, including Google and DoubleClick, who use these cookies to display relevant ads based on your browsing sessions on aicpa.org.
+**Sponsors, Advertisers and Other Third Parties**
 
-If you do not want to save site-related cookies on your hard drive, you can adjust your browser settings to delete and/or not accept cookies.  However, if you adjust your browser in this manner, we cannot guarantee that all applications on the Sites will function properly for you and your experience may not be optimized. Additionally, the Network Advertising Initiative (NAI) provides an “Opt-out Tool” that was developed to allow consumers to "opt out" of the behavioral advertising delivered by the NAI member companies such as Google and DoubleClick ([http://www.networkadvertising.org/choices](http://www.networkadvertising.org/choices/)).
+Our Website may contain or display information from our sponsors, advertisers, operational service providers (see Disclosure to Third Parties below) or others (each, a "Third Party") that offer to make information, goods or services available, provide opportunities to participate in promotions or engage in activities or that link or redirect your browser to other Websites, materials or organizations. We may also use Third Parties to display or serve advertising on our Website, as well as for distributing our online, email, messaged or web-based newsletters and other information. Third Parties often also employ cookies to measure advertising effectiveness. You should be aware that an advertisement, link or reference to a Third Party Website on our Website is governed by that Third Party’s policies.
 
-**Use of Information and Sharing and Disclosure to Third Parties  
-**We use personally identifiable information collected for membership, non-member/customer activity, and account maintenance.  We may communicate with you regarding membership benefits, any program enrollment or special interest group, or account billing and maintenance and potential membership.  We also communicate with members regarding peer review or ethics inquiries, violations and/or sanctions.  We use and maintain various records regarding interactions such as, but not limited to, continuing professional education.  In addition, we use and maintain your information as determined by the organizations’ business needs, or as required or permitted by law.  Some member information or customer transaction email or communications are not available for opt out (see Choice and Opt Out, below). 
+**Disclosure to Third Parties**
 
-Information is used to process transactions/orders, send conference/webinar information, subscriptions, periodicals and other information, noting that credit card/banking/payment information is restricted for the purchase/uses identified.  We often facilitate billing and payment of transactions through the use of third parties responsible for processing credit card, banking and payment information and invoicing transactions. 
+We do not sell, rent, lease, provide or otherwise disclose your Personal Information to unaffiliated entities. If you submit personal information to this Website, we will always let you know if we intend to provide any of your Personal Information to a Third Party, you will always have an opportunity to read and review the Supplemental Privacy Policy that applies and we will ask you to consent ("Opt in") whenever we intend to do so, except as set out below.
 
-We use collected information to build quality and useful services and user interactions by analyzing user trends and by measuring demographics and interests.  We analyze demographics, user trends, and member and non-member purchases to develop interest areas for referral listings and to offer suggestions on specialty membership or product areas. We may use information you provide or passive information collected to improve and offer additional services to you and may contact you directly. We often share member information with state CPA societies so that they may also contact you regarding offerings or membership in your state. Individual state CPA societies are separate and distinct entities and are not included in the Joint Privacy Policy.  Users should read and review each state society’s privacy policy and practices and may need to opt-out under such policies and practices separately.
+We always have the right to disclose your Personal Information to any Third Party we engage for the purpose of administering, operating, configuring site design, maintaining and providing internal support for our Website and Content on our Website. These Third Parties are called operational service providers that provide internal support to operations and activities and/or for Site design, development, hosting and operations. We always request that our operational service providers protect your privacy and not disclose your Personal Information to third party marketers that are not associated with our Website, nor are they permitted to use your Personal Information for their own marketing or promotional purposes.
 
-We personalize various aspects of the Sites by pre-populating online forms for your convenience and for member validation.  We use information to provide you with prompt and effective services. We may use non-identifying profile information in the aggregate (such as interest area information) and disclose such aggregated information to third parties to assist in developing new features and content, as well as information on trends and usage patterns.
-
-Collected information is used to send newsletters, promotional messages, product announcements, request for contributions or other communications that may be of interest to you.  We also use information collected to refer you to our specialty membership areas.  We request participation in online surveys and communicate as defined by the individual survey.  You may opt out of receiving some of these communications (see Choice and Opt Out below).
-
-We share your information with third parties as permitted or required by law.  Types of disclosures, including but not limited to the following, may be made without asking for explicit consent from you:
-
-  * As necessary pursuant to lawful requests, such as to respond to subpoenas, warrants, court  orders, or other related legal requests or proceedings and as permitted or required by law; 
-  * In connection with the sale or transfer of AICPA or CPA2Biz or substantially all of their  assets; 
-  * If certain other disclosures, such as, but not limited to, those connected to AICPA enforcement proceedings, are required or authorized pursuant to AICPA bylaws and resolutions of AICPA Council. As a condition of AICPA membership, you have consented to comply with the bylaws and Code of Professional Conduct, including those relevant to disciplinary actions; and 
-  * If you volunteer on an AICPA committee, your name, committee, and city/state are visible to the public in the Volunteer section of aicpa.org. 
+  * We also reserve the right to make your Personal Information available:
+  * When we are compelled by a governmental agency, law, regulation, a court or other legal process;
+  * If we believe you are, have or may violate any law, regulation, our [Terms of Use](https://web.archive.org/terms);
+  * If we believe you are or may be a threat to safety, property, interests or rights of us or others;
+  * In order to investigate, respond to or resolve problems or inquiries or defend our interests;
+  * In a merger, acquisition, change of control, joint venture or other business combination.
 
 
 
-Additionally, third parties with whom we may share information include but are not limited to:
+You should also be aware that simply because a Website or web page includes our logo, name or otherwise refers to us, does not mean the Website or web page is ours or under our control. We work with sponsors, advertisers and government agencies to bring you public service advertising and if you enter, provide or submit Personal Information on or to a co-branded Website or web page you may be subject to the terms, conditions and privacy policies of the Third Party sponsor, advertiser, government agency or co-branding organization.
 
-  * All AICPA and CPA2Biz affiliated organizations; 
-  * Member Discount Program Partners (e.g., Affinity Partners, Shared Services, LLC); 
-  * Networking communities and discussion forums vendors; 
-  * Conference attendees, expert panels and fellow committee members; 
-  * Mailing and fulfillment houses and third-party vendors for various communications and orders; 
-  * Individuals accessing the peer review public file, firm search, and referral or resume searches; 
-  * Individuals accessing the specialty member referral websites; 
-  * State CPA societies and NASBA (the National Associations of State Boards of Accountancy); and 
-  * XBRL International (International consortium that oversees maintenance of the technical specifications for the eXtensible Business Reporting Language (XBRL).  This also includes XBRL US which advocates the use of XBRL in the US. 
+**How We Use Your Information**
 
+We only use information that we collect or obtain as described in this Privacy Policy or to ensure compliance with our [Terms of Use](https://web.archive.org/terms). If we or any of our Websites collect, maintain, use or intend to share your Personal Information for other purposes than as described in this Privacy Policy, it will be in accordance with the Supplemental Privacy Policy that applies to the Website or Website involved.
 
+**Security**
 
-Your information may also be shared to:
+We maintain reasonable standards of security and confidentiality. We also try to limit information access to individuals who need to have such access to perform their responsibilities associated with our Website and the Content on our Website. Any employee found violating our standards of security and confidentiality is subject to our disciplinary processes. We request our operational service providers to follow the same policy. The Internet, however, and communications cannot be guaranteed to be secure and it is possible that others may unlawfully intercept or access information, transmissions or communications to, from or within our Website.
 
-  * Verify that you are a member of the AICPA and the society of the state in which you are licensed; 
-  * Complete various internal and external audits; 
-  * Maintain AICPA membership in the NASBA Quality Assurance service; 
-  * Promote you or your firm through a specialty referral program; and 
-  * Respond to technical accounting and auditing questions. 
+**Your Rights Regarding Personal Information**
 
+In addition to any terms, conditions or rights that are described in any Supplemental Privacy Policy applicable to particular Website, you always have the right to request that: (i) we correct or update your Personal Information; (ii) we not share your Personal Information with third parties; or (iii) your Personal Information be removed from our active marketing databases. Although we will usually provide you with the ability to update or delete Personal Information directly online, some Personal Information may not be changed or deleted by you and requires you to contact us for verification (e.g., birth date, email address, name). The Supplemental Privacy Policy that applies to the Website will provide you with the email address or contact information that applies to that Website so that you can contact us with a request to change that type of information.
 
+**Changes to Privacy Policy**
 
-Mailing address information may be used for direct mail list rental, which is managed by CPA2BIZ and is for one-time limited use for companies and organizations offering products, services or programs of interest to CPAs, other accountants and financial executives related to the profession’s business environment.  Third parties are bound by agreements which prohibit use of information for any purpose outside of the scope of the contracted activities. 
+We can change this Privacy Policy at any time (see our [Terms of Use](https://web.archive.org/terms)). As with our [Terms of Use](https://web.archive.org/terms), we encourage you to come back and review this Privacy Policy often to be sure you are aware of the terms, conditions, rights and obligations that apply to you.
 
-CPA2Biz and the AICPA share email and website usage information about visitors who have received a targeted email promotional campaign from the organizations with a third-party email service provider organization (Epsilon Interactive) for the sole purpose of targeting future email campaigns and upgrading visitor information used in reporting statistics. For this purpose, CPA2Biz and Epsilon Interactive track some of the pages you visit on our website through the use of pixel tags (also called “clear gifs”). This information is not shared with any third parties other than Epsilon Interactive.
+**AICPA Supplemental Privacy Policy - Registration**
 
-If you are not a member of the AICPA, CPA2Biz will share with the AICPA all the information collected in connection with the sale of any product or use of website. In addition, CPA2Biz will transmit your username and payment information to the AICPA so, in the future, if you elect to become a member of the AICPA, your username on the CPA2Biz websites will be available to you for use as a username on the AICPA websites.  AICPA shares your information with CPA2Biz and other affiliates as outlined within this section. 
+These Additional Terms form a part of our Privacy Policy for this Website and apply to all our Registered Users and/or any other users that provide us with Personal Information. Terms not defined below have the meaning described in our [Terms of Use](https://web.archive.org/terms), of which our Privacy Policy is a part.
 
-Your personal information may also be used or shared in other than ways that you either imply or expressly give consent to or instruct us to undertake.
+**Giving Us Personal Information; Keeping It Up To Date**
 
-**Choice and Opt-Out  
-**If you have an AICPA username, you can opt out of certain  communication, including direct mail list rentals, via “My Account” on aicpa.org, by contacting the Member Service Center at 1.888.777.7077 (9 am – 6 pm EST, M-F) or by emailing [service@aicpa.org](mailto:service@aicpa.org).  If you receive a specific email regarding products, conferences or other services, you can follow the "unsubscribe" instructions at the bottom of the specific email. Opt outs for specific emails do not serve as a global opt out of communications for all products or for services communications.  To perform a global opt out, an AICPA username is required on aicpa.org, as noted above.  It will take 10 days for your email opt-out selections to take effect and longer for other communications/mailings.  Though a member may opt out of receiving communications from the AICPA, the AICPA will continue to contact the member regarding his/her account, membership, or member’s surveys for which he/she will have the opportunity to elect or decline to participate.
+When you register or attempt to register on this Website, you understand and agree you are giving us your consent to track your use of our Website, your activities, exchanges of information and transactions in connection with our Website and are giving us the right to use your Personal Information in connection with our Website and as described in our [Terms of Use](https://web.archive.org/terms), including our Privacy Policy of which these Additional Terms are a part. You are required to give us current, complete, truthful and accurate information. You also agree to keep the Personal Information you provide us up to date and you will be able to change the information we have in our records at any time either yourself using the procedures described on the Website or by notifying us. Please understand that for security reasons, we may require additional verification or documentation to change certain personal information you have given us (e.g., your name, birth date, email address).
 
-In addition, you can opt out of receiving future e-mailed messages or newsletters from CPA2Biz by changing your preferences in the “Preference Center,” which can be accessed from the “My Account” section of the CPA2Biz site.
+We have the right to terminate your use of any or all our Services and/or reject or delete any entry you make, if we have reason to believe information you provide to us is or may be false, fraudulent or in violation of our [Terms of Use](https://web.archive.org/terms). You, not us, are solely responsible and liable for any false, fraudulent, inaccurate, incomplete or out of date information we obtain from you and you will defend and indemnify us as described in the section of our [Terms of Use](https://web.archive.org/terms) entitled "You Are Indemnifying Us" for any damage or harm that results.
 
-**Data Accuracy  
-**Individuals are responsible for providing accurate and complete personally identifiable information, and for contacting the AICPA to correct or update information as needed.  AICPA members and non-members with AICPA usernames may view and update their account information at any time by logging on to aicpa.org and clicking Update Personal Information from the My Account screen, or alternatively contact the Member Service Center at 1.888.777.7077 or [service@aicpa.org](mailto:service@aicpa.org) from (9 am – 6 pm EST, M-F) to update their accounts.
+We reserve the right to deny, suspend, terminate and cancel any registration, User ID and the use of any or all of our Services, if we believe there is a question about the identity of the person trying to use our Website. If the burden or expense of providing access to your Personal Information is disproportionate to the risks to your privacy or if the legitimate rights of others would be violated, we may decide not to provide you access to your Personal Information. In such cases, we will provide you with an explanation of why access cannot be provided and a contact person for further inquiries.
 
-CPA2Biz registered users also can check or verify the information they have provided to CPA2Biz by signing in, then clicking on the "My Profile" page of the "My Account" tab and making any necessary edits to this information. In certain instances, if a user changes a critical piece of personal information, such as, but not limited to, name, address, and/or job function, a service representative may follow up with the user to confirm the change.
+**How We May Use Your Personal Information**
 
-**Parents and Children  
-**We strive to comply with the provisions of COPPA (the Children’s Online Privacy Protection Act) and do not knowingly collect personally identifiable information from children under 13.   Parents have the right to terminate the registration of a child under 13.  Please contact the Member Service Center at 1.888.777.7077 or [service@aicpa.org](mailto:service@aicpa.org) from (9 am – 6 pm EST, M-F) to instruct such termination.
+Without limiting any other rights we may have, under our [Terms of Use](https://web.archive.org/terms) or at law, we may use the information that we obtain from you, including Personal Information: (1) for the specific purpose for which it was submitted (e.g., to receive email communications); (2) to improve our Website, its Content and our ability to provide you with better experiences using our Services; (3) to keep track of the use of our Website and Service for internal research purposes and to monitor compliance with our [Terms of Use](https://web.archive.org/terms); (4) to notify you of updates or important information about our Website and Services; (5) to serve advertisements and/or provide you with promotional offers and/or (6) to provide customer service in response to your inquiries.
 
-**Security and Other  
-**We use reasonable measures to strive to safeguard and secure the personally identifiable information we collect.  Any transmission is at your own risk.  Technology, such as, but not limited to, Secured Socket Layer (SSL), is used to enhance security and reduce risk of loss.  Our security practices, processes or technology do not guarantee absolute security of your information and you should take all normal personal precautions such as, but not limited to, not sharing passwords, closing browsers, and not using public networks (e.g., internet cafes, etc.).    
-Employees of the organizations are advised to treat any personally identifiable information with care. Internally, we limit access to personally identifiable information to employees, contractors and agents who need access to the information to do their jobs or perform services on behalf of the AICPA and CPA2Biz.
+**Opt-Out**
 
-Use of these Sites, with respect to privacy, is covered by binding arbitration. Users of the Sites are encouraged to report any suspected breach of privacy or site security to our Service Center Operations Team at the telephone number, e-mail address, or mailing address indicated at the bottom of this page. All reports of suspected breaches will be investigated by staff familiar with the related security operations. Any controversy or claim related to privacy that cannot be settled to your satisfaction shall be settled by arbitration in New York, New York. Such disputes will be administered by the American Arbitration Association, <http://www.adr.org/>, 335 Madison Avenue, 10th floor, New York, New York 10017-4605, (800) 778-7879, in accordance with its arbitration rules, and judgment upon the award rendered by the arbitrator(s) may be entered in any court having jurisdiction thereof.
+If becoming a Registered User on our Website is automatically associated with or allows you to sign up to receive email or other communications from us on a periodic or regular, we will always disclose this to you, your registration or request to receive these includes your consent to receive them and you have the right to opt out of receiving them in the future. Our Website and email communications will provide you with instructions and the procedures you can use to opt out when applicable. You cannot, however, opt out of receiving communications related to the Services you request, in response to your inquiries, or to manage your registration or status as a Registered User.
 
-**Consent to Transfer  
-**Some of the uses and disclosures mentioned in this Joint Privacy Policy may involve the transfer of your personal information to various countries around the world that may have different levels of privacy protection than your country. By submitting your personal information through this Site or otherwise, as described above, you consent to the collection, processing, use, and transfer to the United States and other various countries of your personal information for the purposes of and in accordance with the principles stated in this Joint Privacy Policy.
+**Deleting Personal Information; Parents' Rights Regarding Children**
 
-**Contact Information  
-**Users of these Sites are encouraged to report any improvements, suggestions, any suspected breach of privacy or website security to our Service Center Operations Team at the telephone number, email address, or mailing address indicated as follows: 
+Other than our employees or operational service providers with a need to know in order to provide the Services on or through our Website, we do not allow direct access to any Personal Information by any person without the Registered User's User ID or appropriate identification.
 
-American Institute of CPAs  
-220 Leigh Farm Road   
-Durham, NC 27707  
-P: 1.888.777.7077  
-F: 1.800.362.5066  
-Hours of Operation: (9 am – 6 pm, EST, M-F)  
-[service@aicpa.org](mailto:service@aicpa.org)  
-| CPA2BIZ, Inc.  
-1211 Avenue of the Americas  
-New York, NY 10036  
-P: 1.888.777.7077  
-F: 1.800.362.5066  
-Hours of Operation: (9 am – 6 pm, EST, M-F)  
-[suggestions@cpa2biz.com](mailto:suggestions@cpa2biz.com)  
----|---  
-  
-**Websites Covered  
-**This policy covers AICPA.org, CPA2Biz.com, and all other AICPA and CPA2Biz affiliated sites that link to this policy.
+We strive to comply with the provisions of COPPA (the Children’s Online Privacy Protection Act) and do not knowingly collect personally identifiable information from children under 13. Parents of children under 13 have the right to immediately terminate their child's Registered User registration and use of our Services and have the child's Personal Information deleted once the child's age and parent can be verified. To do so, parents should contact us at feedthepig@aicpa.org. Parents will be required to provide verifiable identification that they are the child's parent and if a parent does not have his or her child's User ID, the parent will be required to send an email to feedthepig@aicpa.org that includes the parent's name, address, telephone and email address, in addition to the child's name and email address as shown in our records. We will send a confirming email to the parent at the email address provided by the parent to verify that the parent wishes to terminate the child's registration. The parent must confirm by sending a reply to the return address designated by us. We will then terminate the child's registration and will notify the child by email, identifying the name, address and contact information submitted by the parent who made the request.
+
+**Contact Us**
+
+Users of this site are encouraged to report any improvements, suggestions or questions to the email address or telephone number indicated as follows:
+
+privacy@aicpa.org 
+
+P: 1.888.777.7077 and pressing option 9
+
+Hours of Operation: (9 am – 6 pm, EST, M-F)
+
+To report any suspected breach of privacy or site security contact our Service Center Operations Team to the telephone number, e-mail address, or mailing address indicated as follows: 
+
+American Institute of CPAs
+
+220 Leigh Farm Road 
+
+Durham, NC 27707
+
+P: 1.888.777.7077
+
+F: 1.800.362.5066
+
+Hours of Operation: (9 am – 6 pm, EST, M-F)
+
+service@aicpa.org
