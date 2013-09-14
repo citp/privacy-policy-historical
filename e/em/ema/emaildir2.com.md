@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emaildir2.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503204013id_/http%3A//emaildir2.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emaildir2.com privacy policy that was archived on 2013-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130914090518id_/http%3A//emaildir2.com/privacy) for the most accurate reproduction.*
 
 # EmailDirect.com
 
@@ -16,14 +16,14 @@ EmailDirect.com, Inc. is self-certified by and abides by the principles of the S
 
 Mail to: EmailDirect\Richard King  
 Attn: EU Safe Harbor Inquiry  
-2995 Prospect Park Drive Suite 100  
+3101 Zinfandel Drive Suite 300  
 Rancho Cordova, CA 95670  
 Email to: privacy@emaildirect.com
 
 If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact either the Judicial Arbitration and Mediation Services (JAMS - http://jamsadr.com) or the American Arbitration Association (http://adr.org). They will then serve as a liaison to EmailDirect.com, Inc. to resolve your concerns. 
 
 Compliance   
-This privacy statement discloses the privacy practices for [www.EmailDirect.com](https://web.archive.org/web/20120503204013id_/http%3A//emaildir2.com/default.aspx) and or services.Because EmailDirect, Inc. wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices with you to insure you are aware of all intentions and privacy policies provided by EmailDirect, Inc. This website has agreed to notify you of: 
+This privacy statement discloses the privacy practices for [www.EmailDirect.com](https://web.archive.org/web/20130914090518id_/http%3A//emaildir2.com/default.aspx) and or services.Because EmailDirect, Inc. wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices with you to insure you are aware of all intentions and privacy policies provided by EmailDirect, Inc. This website has agreed to notify you of: 
 
 >   
 >  1\. What personally identifiable information of yours is collected through the web site   
