@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knittingparadise.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609141852id_/http%3A//www.knittingparadise.com/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knittingparadise.com privacy policy that was archived on 2013-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130915011525id_/http%3A//www.knittingparadise.com/privacy_policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -84,13 +84,11 @@ By signing up for our newsletter (or registering on the message board and select
 
 This website takes measures to protect its data that contains information related to you. However, as a consideration for viewing this site or interacting with this site in any manner, you waive all claims of any nature against this site concerning the loss, alteration, or misuse of information. You must assume that it is possible for your personal data to be obtained by others, such as "hackers," and used in an inappropriate manner that may cause you harm and that you agree that the site is not responsible for damages to you.
 
-**GOOGLE ADVERTISING COOKIE**
+**Cookies & 3rd Party Advertisements **
 
-Google, as a third party vendor, uses cookies to serve ads on this site.
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
-Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
-
-Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 **QUESTIONS, COMMENTS, OR REPORT OF INCIDENTS**
 
