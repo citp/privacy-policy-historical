@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getuncommon.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528081418id_/http%3A//www.getuncommon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getuncommon.com privacy policy that was archived on 2013-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130914140319id_/http%3A//www.getuncommon.com/privacy) for the most accurate reproduction.*
 
 # Custom iPhone, iPod, iPad Cases | Privacy Policy | Uncommon
 
