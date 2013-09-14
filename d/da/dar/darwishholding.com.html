@@ -1,0 +1,422 @@
+<!--The following is the downloaded HTML source of the darwishholding.com privacy policy that was archived on 2013-09-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130914090148id_/http%3A//www.darwishholding.com/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="UTF-8">
+<title>DARWISH: Privacy Policy</title>
+
+ <!--[if lt IE 9]>
+ <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  
+  
+<link rel="shortcut icon" href="images/favicon.gif" type="image/x-icon">
+
+<meta name="ROBOTS" content="INDEX, FOLLOW, ARCHIVE">
+
+<!-- Set the viewport width to device width for mobile -->
+
+
+
+
+
+
+
+
+<link href="css/main.css" rel="stylesheet" type="text/css">
+
+
+<script type="text/javascript" src="js/jquery-1.8.2.js"></script>
+
+<!-- drop menu-->
+<link rel="stylesheet" href="dropdownmenu/css/menu.css">
+
+
+
+<!--Validation-->
+ 
+<script type="text/javascript" src="form/jquery.validate.js"></script> 
+<script type="text/javascript" src="form/jquery.form.js"></script> 
+
+<script language="javascript">
+ $('document').ready(function(){
+
+			$('#fc').validate({
+                    rules:{
+                        "title":{
+                            required:true,
+                            maxlength:40
+                        },
+
+                        "name":{
+                            required:true,
+                            maxlength:40
+                        },
+
+                        "connu":{
+                            required:true,
+							number:true,
+                            maxlength:40
+                        },
+						
+						"email":{
+                            required:true,
+                            email:true,
+                            maxlength:100
+                        },
+						
+						"address":{
+                            required:false,
+                            maxlength:100
+                        },
+						
+						"country":{
+                            required:false,
+                            maxlength:40
+                        },
+						"commetns":{
+                            required:false,
+                            maxlength:200
+                        }
+						
+						},
+							
+
+                    messages:{
+                         "title":{
+                            required:" required"
+                        },
+
+                        "name":{
+                            required:" required"
+                        },
+
+                        "connu":{
+                            required:" required"
+                        },
+						
+						"email":{
+                            required:" required",
+                            email:" not valid "
+                        },
+						
+						"address":{
+							
+                        },
+						
+						"country":{
+                            
+                        },
+						"commetns":{
+                            
+                        }},
+
+                    submitHandler: function(form){
+                      $(form).ajaxSubmit({
+        target: '#preview', 
+        success: function() {
+			
+			document.getElementById('title').value="";
+			document.getElementById('name').value="";
+			document.getElementById('country').value="";
+			document.getElementById('connu').value="";
+			document.getElementById('email').value="";
+			document.getElementById('address').value="";
+			document.getElementById('country').value="";
+			document.getElementById('commetns').value="";
+			
+			//$('#preview').addClass("previewBord");
+			$('#preview').delay(5000).fadeOut("slow");
+			
+			 
+       
+        } 
+    }); 
+			
+                    }
+                
+            })
+						
+        });
+  
+
+</script>
+
+
+   <style type="text/css">
+/* to keep footer in bottom*/
+html,
+body {
+   margin:0;
+   padding:0;
+   height:100%;
+}
+</style>
+     
+
+
+<!-- font Title-->
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,700,600,300" rel="stylesheet" type="text/css">
+
+
+<!--menu left side-->
+<link href="http://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet" type="text/css">
+
+
+</head>
+
+<body>
+<div id="main">
+ <header class="headerx">
+          
+           
+
+
+
+ <div id="headerw">
+               <div id="logo"><a href="index.php"><img src="images/darwish_logo.png"></a></div>
+               
+              
+               <div id="menux">
+              
+                      <ul class="menu">
+
+	<li><a href="about-us.php?aboutus=overview" class="">ABOUT DARWISH<span>|</span></a>
+    
+         <ul>
+                            
+              
+              <li><a href="about-us.php?aboutus=overview">Overview</a></li>
+             
+              
+			                
+              
+              <li><a href="about-us.php?aboutus=our-vision">Vision and Mission</a></li>
+             
+              
+			                
+              
+              <li><a href="about-us.php?aboutus=chairman-message">Chairman's Message</a></li>
+             
+              
+			                
+              
+              <li><a href="about-us.php?aboutus=deliveing">Delivering Qatar's Aspiration</a></li>
+             
+              
+			                
+              
+              <li><a href="about-us.php?aboutus=community">Community</a></li>
+             
+              
+			           </ul>
+    
+    </li>
+	<li><a href="journey.php" class="">JOURNEY<span>|</span></a></li>
+<li><a href="divisions.php" class="">DIVISIONS<span>|</span></a>
+
+
+
+
+
+
+
+
+		<ul>
+			            <li><a href="divisions-more.php?idart=7">Darwish Retail</a></li>
+			            <li><a href="divisions-more.php?idart=8">Darwish Technology</a></li>
+			            <li><a href="divisions-more.php?idart=9">Darwish Luxury</a></li>
+			            <li><a href="divisions-more.php?idart=10">Darwish Consumer</a></li>
+			            <li><a href="divisions-more.php?idart=11">Darwish Estate</a></li>
+			            <li><a href="divisions-more.php?idart=12">Darwish Malls</a></li>
+			            <li><a href="divisions-more.php?idart=13">Darwish Investments</a></li>
+			            <li><a href="divisions-more.php?idart=6">Darwish Ventures</a></li>
+			            <li><a href="divisions-more.php?idart=5">Darwish Corporate</a></li>
+					</ul>
+
+	</li>
+	<li><a href="press_releases.php" class="">MEDIA CENTER<span>|</span></a>
+    
+         <ul>
+			    <li><a href="press_releases.php">Press Releases</a></li>
+                <li><a href="press_coverage.php">Press Coverage</a></li>
+                <li><a href="image-gallery.php">Image Center</a></li>               
+                <li><a href="media_enquiry.php">Media Enquiry</a></li>
+		</ul>
+    
+    </li>
+	<li><a href="work-at-darwish.php" class="">CAREERS<span>|</span></a></li>
+	<li><a href="contact.php" class="">CONTACT</a></li>
+
+</ul> <!-- end .menu -->
+                    
+               </div><!-- end menux -->
+                          
+         
+                          
+          </div><!-- end headerw -->  
+          
+          <div id="line_header"></div>
+
+
+
+          
+    </header>
+    
+    
+   <!-- <div id="imgHome5">
+    
+
+    </div> end imgHome5 --> 
+ 
+
+    <div id="bodyx">
+    
+         <div id="leftDivision"><h1 class="titleSide"><span class="side">Privacy</span><br>Policy</h1>
+         
+         <p class="sideP"></p>
+         
+          
+         </div>
+         
+         
+         
+         <div id="rightDivisionAll">
+         
+                
+         
+           
+           <div id="rightContact">
+            
+               
+                
+                
+             
+                      <p style="margin-top:25px"><strong>1.  Introduction</strong><br><br>
+
+<strong>DARWISH HOLDING</strong> takes your privacy seriously. This privacy policy describes how and why we obtain, store and process data which can identify you. We may update this policy from time to time and shall indicate on the website when changes have been made. 
+
+</p>
+                      <p style="margin-top:25px"><strong>2. The Information we collect</strong><br><br>
+
+Information is collected from you when you register with us, or when you contribute to or use some of the advanced features on the site. The information we collect is clearly set out on the web page on which we collect it. See for example our registration page and order form. In addition, we may collect your IP address and use cookies unless you configure your web browser not to accept them.
+</p>
+                      
+                      
+                      <p style="margin-top:25px"><strong>3. Why we collect it</strong><br><br>
+
+We collect information about you so that we can personalize your use of the site, assist your use of the site and improve the site generally. Depending upon your selections for our data protection questions we may arrange for you to be sent information about related products and services from us and carefully selected third parties (see section 4). You may update the answers to your questions at any time.
+
+</p>
+                      
+                      
+                      
+                      
+                      
+                      <p style="margin-top:25px"><strong>4. Who we disclose it to</strong><br><br>
+
+4.1&nbsp; We will only pass on information about you as an individual (as opposed to aggregate information) to third parties to enable us to perform services requested by you or with your prior consent. <br>
+4.2&nbsp; If you give your consent, we will pass your contact details to third parties who may then occasionally send communications to you to provide information, offers and services that may be of interest to you.<br> 
+4.3&nbsp; In certain circumstances we may need to disclose information about you if you breach this privacy policy or if you breach the Terms and Conditions. We may also disclose or access your account if required to do so by law or by any Governmental body. <br>
+4.4&nbsp; We will only pass on information about you as an individual (as opposed to aggregate information) to third parties overseas to enable us to perform services requested by you.
+</p>
+                      
+                      
+                      
+<p style="margin-top:25px"><strong>5. Security </strong><br><br>
+
+Keeping information about you secured is very important to us and certain sections of the site may encrypt data using SSL or a comparable standard. However, no data transmission over the Internet can be guaranteed to be totally secure. As a result, whilst we strive to protect your personal information, we cannot ensure or warrant the security of any information which you send to us, and you do so at your own risk.
+</p>
+
+<p style="margin-top:25px">
+
+<strong>6.</strong> <strong>Accessing and updating your personal information</strong><br><br>
+We will always let you have a copy of personal information we have about you, should you request it, and you may correct it if you wish.
+
+
+</p>
+
+<p style="margin-top:25px"><strong>7.</strong> <strong>Questions?</strong><br><br>
+
+If you have any questions or complaints relating to this Privacy Policy or how we use the personal information we have about you, please contact info@darwishholding.com We will endeavor to respond to you promptly. 
+</p>
+
+
+
+
+                     
+                      
+                
+           </div><!-- end rightContact --> 
+          
+           
+           </div><!-- end rightDivisionAll --> 
+       
+        </div><!--bodyx-->
+        
+        
+        
+         <div id="footerHeightDiv"></div>   
+          
+         
+    
+      
+      <div class="clearx"></div>
+     <footer class="footerx">
+     
+           <div id="footerW"> 
+
+ <div id="colFooter1">
+                    <h3>QUICK LINKS</h3>
+                    
+                    <nav>
+                          <ul>
+                              <li><a href="index.php">Home</a></li>
+                              <li><a href="about-us.php?aboutus=overview">About Us</a></li>
+                              <li><a href="journey.php">Our Journey</a></li>
+                              <li><a href="divisions.php">Divisions</a></li>
+                              <li><a href="press_releases.php">Media Center</a></li>
+                              <li><a href="work-at-darwish.php">Careers</a></li>
+                              <li><a href="contact.php">Contact</a></li>
+                          </ul>
+                    <nav>
+                    
+              </nav></nav></div>
+              
+              <div id="colFooter2">         
+                                   
+                           <h3>CONTACT US</h3>
+                          <ul>
+                              <li><a href="">+974 4425 7777</a></li>
+                              <li><a href="">info@darwishholding.com</a></li>
+                              <li><a href="">Darwish Holding</a></li>
+                              <li><a href="">P.O.Box 615, Doha, Qatar</a></li>
+                          </ul>
+                    <nav>
+              </nav></div>
+              
+              <div id="colFooter3">
+              
+                     <h3>NEWSLETTER</h3>
+                     <p>If you'd like to get our newsletter,<br> sign up below. </p>
+                     <form name="f1" id="f1" action="" enctype="multipart/form-data">
+                       <input type="text" name="newsletter" id="newsletter" class="newsletter" placeholder="email address..."><input type="submit" name="submit" value="OK" class="submitx">
+                       <br>
+                       
+                     </form>
+              </div>
+              
+              <div id="colFooter4">
+                     <ul>
+                         <li><a href="terms.php">Terms of Use</a></li>
+                         <li><a href="privacy.php">Privacy Policy</a></li>
+                         <li><a href="sitemap.php">Sitemap</a></li>
+                     </ul>
+              </div>
+              <div class="clearx"></div>
+              <div id="copyright">© 2013 All Rights Reserved. Darwish Holding</div>
+        </div>  
+     </footer>
+ </div><!-- end main -->
+
+</body></html>
