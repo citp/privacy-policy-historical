@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speech-writers.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515185715id_/http%3A//www.speech-writers.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speech-writers.com privacy policy that was archived on 2013-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130914121454id_/http%3A//www.speech-writers.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
