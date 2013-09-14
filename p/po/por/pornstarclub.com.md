@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pornstarclub.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512160457id_/http%3A//www.pornstarclub.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornstarclub.com privacy policy that was archived on 2013-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130914042433id_/http%3A//www.pornstarclub.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
