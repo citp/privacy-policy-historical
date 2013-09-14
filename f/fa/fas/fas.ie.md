@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fas.ie privacy policy that was archived on 2013-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130127084611id_/http%3A//www.fas.ie/en/General/Privacy%2BStatement%2Bfor%2BF%25C3%2581S/default.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fas.ie privacy policy that was archived on 2013-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130914031517id_/http%3A//www.fas.ie/en/General/Privacy%2BStatement%2Bfor%2BF%25C3%2581S/default.htm) for the most accurate reproduction.*
 
 # FÁS - Privacy Statement for FÁS
 
