@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stopbadware.org privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516102107id_/http%3A//www.stopbadware.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stopbadware.org privacy policy that was archived on 2013-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130914224247id_/https%3A//www.stopbadware.org/privacy) for the most accurate reproduction.*
 
 # Privacy | StopBadware
 
@@ -6,7 +6,7 @@
 
 ##  Summary
 
-Welcome to StopBadware. StopBadware.org and BadwareBusters.org (the “Sites”) are operated by StopBadware, Inc. (“StopBadware”), an organization based in Cambridge, Massachusetts, USA.
+Welcome to StopBadware. StopBadware.org, BadwareBusters.org, and AdsIntegrityAlliance.org (the “Sites”) are operated by StopBadware, Inc. (“StopBadware”), an organization based in Cambridge, Massachusetts, USA.
 
 We are committed to respecting and protecting your personal privacy. This Privacy Statement describes what information the Sites collect, how this information is used, and with whom we may share the information. Because this statement may change, please check back for updates to this Privacy Statement.
 
