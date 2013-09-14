@@ -1,15 +1,12 @@
-> *The following text is extracted and transformed from the iactglobal.in privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602014110id_/http%3A//iactglobal.in/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iactglobal.in privacy policy that was archived on 2013-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130914034947id_/http%3A//www.iactglobal.in/policy.aspx%23pp) for the most accurate reproduction.*
 
-# iACT Global - Training in Six Sigma, Project Management, Supply Chain, ITIL, IFRS
+# IACT
 
-| Participants from: |  Agilent, Alcatel, Allianz, AXA, Baxter, Bharti, Lenovo, CSC, E-Serve International, Evalueserve, Exl Services, First American, GENPACT, Global Vantage, HCL Tech, HDFC Ltd, Headstrong, Hewitt Associates, Unilever, Honda, IBM Daksh, ICICI Bank, ICICI onesource, IFFCO Tokio, IndusInd, Johnson & Johnson, JP Morgan Chase, Moser Baer, MRF, NSE, Pepsi, Perot Systems, Petroleum Development Oman, Ramco Systems, Reliance Comm, RMSI, Sundaram Industries, Tata Coffee, Tata Teleservices, TCS, Transworks, WHO, Xansa  
----|---  
-  
-We at IACT GLOBAL are committed to protect our customers’ personal information and strive to maintain the privacy of your personal information. 
+We at IACT GLOBAL are committed to protect our customers’ personal information and strive to maintain the privacy of your personal information.
 
 "Personal information" is any information that can be used by itself to uniquely identify, contact, or locate a person, or can be used with information available from other sources to uniquely identify an individual. For the purpose of this policy, sensitive personal data or information has been considered as a part of personal information.
 
-IACT GLOBAL collects your personal information for a variety of regulatory and business purposes. These include, but are not limited to: 
+IACT GLOBAL collects your personal information for a variety of regulatory and business purposes. These include, but are not limited to:
 
   * Verify your identity
   * Complete transactions effectively and providing products and services
@@ -24,4 +21,24 @@ IACT GLOBAL collects your personal information for a variety of regulatory and b
 
 IACT GLOBAL reserves the right to amend or modify this Privacy Policy at any time, as and when the need arises. We request you to visit our website www.iactglobal.in for contemporary information and changes.
 
-|  | 
+For iACT courses, candidates may get extension by paying extension fees as applicable. 
+
+The duration of courses offered by iACT collaborator cannot be extended so do complete the course in the specified duration.
+
+iACT has a _**NO REFUND**_ policy. Refund is provided only in case of excess payment. 
+
+Books once dispatched are not taken back.
+
+  * Tentative session dates will be communicated to candidates at the time of enrollment
+  * IACT, reserves the right to postpone/cancel any training session, or change the location of training venue because of insufficient enrolments, trainer’s illness or force-majeure/ unforeseen events (like floods, earthquakes, political instability, etc.)
+  * IACT will communicate fixed dates for session along with venue details one week before the session
+  * Candidates are required to send a confirmation over e-mail for attending the session
+  * Maximum 2 chances shall be given to candidates for attending the session in their course duration
+  * Candidates who confirm and later do not attend the session after confirmation and also do not provide any information for cancellation (absent without information), have to pay an additional Rs 2000 + s.tax to attend any forthcoming session
+  * In case of any postponement of session, candidates will be informed 10 days before the session(except in case of trainer’s illness or force-majeure/ unforeseen events)
+  * Rescheduled dates will be decided considering the candidates availability on those dates
+  * Results of exam conducted at the centre will be declared within 10 working days after completion of training
+
+
+
+Professionals studying with us work for the following companies 
