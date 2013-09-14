@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the spybubble.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516055049id_/http%3A//www.spybubble.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spybubble.com privacy policy that was archived on 2013-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130914031454id_/http%3A//www.spybubble.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | SpyBubble
-
-Privacy Policy
 
 **Last modified: May 2013**
 
@@ -10,7 +8,7 @@ Privacy Policy
 
 We respect your privacy and are committed to protecting it through our compliance with this policy. This policy describes the types of information we may collect from you or that you may provide when you visit SPYBUBBLE.COM (our "Site") and our practices for collecting, using, maintaining, protecting and disclosing that information.
 
-  1. This policy applies to information we collect:
+  1. 1\. This policy applies to information we collect:
     1. On this Site.
     2. In e-mail, text and other electronic messages between you and this Site.
     3. When you contact our customer service department for any reason.
@@ -21,13 +19,13 @@ It does not apply to information collected by:
     2. Any third party, including through any application or content (including advertising) that may link to or be accessible from the Site. Third parties, such as payment processing companies and background screening companies, may have their own privacy policies different from ours, please check with such third party.
   
 
-  2. If you do not agree with this Privacy Policy or the Terms of Use located at <http://www.spybubble.com/terms-and-conditions.html>, you may not use our Site or our software. By accessing or using this Site or software, you agree to this Privacy Policy and the Terms of Use. This policy may change from time to time. Your continued use of this Site or software after we make changes is deemed to be acceptance of those changes, so please check these documents periodically for updates.
+  2. 2\. If you do not agree with this Privacy Policy or the Terms of Use located at <http://www.spybubble.com/terms-and-conditions.html>, you may not use our Site or our software. By accessing or using this Site or software, you agree to this Privacy Policy and the Terms of Use. This policy may change from time to time. Your continued use of this Site or software after we make changes is deemed to be acceptance of those changes, so please check these documents periodically for updates. 
 
 
 
 **2\. Disclaimer**
 
-**It is the sole responsibility of the user of SpyBubble software to ascertain and obey all applicable laws in their jurisdiction in regard to the use of SpyBubble software.** If you are in doubt, consult your local attorney before using the software. By downloading and installing SpyBubble software, you represent that it will be used only in a lawful manner. Logging other people's SMS messages & other phone activity or installing SpyBubble on another person's phone without their knowledge can be considered as an illegal activity in your jurisdiction. SpyBubble assumes no liability and is not responsible for any misuse or damage caused by us. [Click here](https://web.archive.org/web/20130516055049id_/http%3A//www.spybubble.com/disclaimer.php) to read Full Legal Disclaimer.
+**It is the sole responsibility of the user of SpyBubble software to ascertain and obey all applicable laws in their jurisdiction in regard to the use of SpyBubble software.** If you are in doubt, consult your local attorney before using the software. By downloading and installing SpyBubble software, you represent that it will be used only in a lawful manner. Logging other people's SMS messages & other phone activity or installing SpyBubble on another person's phone without their knowledge can be considered as an illegal activity in your jurisdiction. SpyBubble assumes no liability and is not responsible for any misuse or damage caused by us. [Click here](https://web.archive.org/web/20130914031454id_/http%3A//www.spybubble.com/disclaimer.php) to read Full Legal Disclaimer. 
 
 **3\. Information We Collect About You and How We Collect It**
 
@@ -56,8 +54,7 @@ We have no access to or administration abilities over any cookies that are used 
 
 **5\. Information You Provide to Us**
 
-The information we collect on or through our Site may include:  
-
+The information we collect on or through our Site may include:
 
   1. Information that you provide by filling in forms on our Site. This includes information provided at the time of registering to use our Site, posting a listing, requesting services, participating in forum or chat interactions. We may also ask you for information when you report a problem with our Site.
   2. Records and copies of your correspondence (including e-mail addresses), if you contact us.
@@ -68,8 +65,7 @@ The information we collect on or through our Site may include:
 
 **6\. How We Use Your Information**
 
-We use information that we collect about you or that you provide to us, including any personal information:  
-
+We use information that we collect about you or that you provide to us, including any personal information:
 
   1. To present our Site and its contents to you.
   2. To provide you with information, products or services that you request from us.
@@ -87,7 +83,7 @@ We use information that we collect about you or that you provide to us, includin
   1. We may disclose your personal information:  
 
     1. To comply with any court order, law or legal process, including to respond to any government or regulatory request.
-    2. b. To enforce or apply our Terms of Use available at <http://www.spybubble.com/terms-and-conditions.html>.
+    2. b. To enforce or apply our Terms of Use available at <http://www.spybubble.com/terms-and-conditions.html>. 
 
 
 
