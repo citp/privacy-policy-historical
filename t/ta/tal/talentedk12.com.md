@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talentedk12.com privacy policy that was archived on 2013-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130212110849id_/http%3A//www.netchemia.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talentedk12.com privacy policy that was archived on 2013-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130914061016id_/http%3A//www.netchemia.com/Privacy.asp) for the most accurate reproduction.*
 
 # Netchemia - Client Support
 
@@ -44,4 +44,4 @@ Netchemia Privacy
 3520 West 75th Street, Suite 300  
 Prairie Village, KS 66208 
 
-[Download Printable Version](https://web.archive.org/web/20130212110849id_/http%3A//www.netchemia.com/pdf/Netchemia_%20Privacy%20&%20Security%20Statement_V0.pdf)
+[Download Printable Version](https://web.archive.org/web/20130914061016id_/http%3A//www.netchemia.com/pdf/Netchemia_%20Privacy%20&%20Security%20Statement_V0.pdf)
