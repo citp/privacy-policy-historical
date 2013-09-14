@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wrongdream.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624211347id_/http%3A//www.wrongdream.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrongdream.com privacy policy that was archived on 2013-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130914041023id_/http%3A//www.wrongdream.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wrong Dream
 
@@ -18,3 +18,5 @@ This site contains links to other sites. [WrongDream.com](http://www.wrongdream.
 
 **Contacting our Website**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can [contact us](http://www.wrongdream.com/contact-us/).
+
+﻿
