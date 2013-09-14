@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flexiblewebdesign.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501024943id_/http%3A//www.flexiblewebdesign.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flexiblewebdesign.com privacy policy that was archived on 2013-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130914152732id_/http%3A//www.flexiblewebdesign.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Main-Others
 
