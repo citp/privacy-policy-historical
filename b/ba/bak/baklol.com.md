@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the baklol.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501202532id_/http%3A//www.baklol.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baklol.com privacy policy that was archived on 2013-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130914041515id_/http%3A//www.baklol.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - BakLOL| Laugh out Loud
-
-### Privacy Policy
+# BakLOL | Share, connect and like things you love
 
 At BakLOL, Privacy policy is taken with extreme care.We take user`s personal information seriously and we have made suitable measures to protect the privacy of our users. 
 
@@ -20,7 +18,12 @@ Cookies are browser based and are set to login and submit pictures to BakLOL, th
 
 ## Ads
 
-Ads are displayed on BakLOL to users when they browse, this help in serving products to particular individual needs, The ads displaying companies may set cookies on user`s browser to recognize their behaviour and to serve them with better targeted products and service, BakLOL is not responsible for any such cookie setting, If a user does not want to be served with ads and their cookies they may clear their cookies and caches from time to time. BakLOL cannot be held responsible to ads clicked by a user and the content which was served, Users are advised to contact/report the concerned ad network about any such third party websites with inappropriate content. 
+Ads are displayed on BakLOL to users when they browse, this help in serving products to particular individual needs, The ads displaying companies may set cookies on user`s browser to recognize their behavior and to serve them with better targeted products and service, BakLOL is not responsible for any such cookie setting, If a user does not want to be served with ads and their cookies they may clear their cookies and caches from time to time. BakLOL cannot be held responsible to ads clicked by a user and the content which was served, Users are advised to contact/report the concerned ad network about any such third party websites with inappropriate content.  
+Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to our website.  
+Google's use of the DoubleClick cookie enables it and its partners to serve ads to users based on their visit to our sites and/or other sites on the Internet.  
+Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting Ads Settings.  
+Third-party vendors and ad networks can serve ads on our website.  
+visitors may opt out of the use of cookies for interest-based advertising (if the vendor or ad network offers this capability). Alternatively, you can opt out of some third-party vendor's use of cookies for interest-based advertising by visiting aboutads.info. 
 
 ## Change of Privacy Policy
 
@@ -28,4 +31,4 @@ BakLOL in its own discretion can change these privacy policies anytime, A notifi
 
 ## Contact
 
-If you have any problem concerning with content, ads, privacy policy, TOS please feel free to contact us through our [contact form.](http://www.baklol.com/contact)
+If you have any problem concerning with content, ads, privacy policy, TOS please feel free to contact us through our contact form.
