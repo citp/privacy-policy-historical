@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the facewaretech.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515053830id_/http%3A//www.facewaretech.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the facewaretech.com privacy policy that was archived on 2013-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130914035220id_/http%3A//www.facewaretech.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Faceware Technologies, Inc.
 
