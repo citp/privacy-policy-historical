@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the helperchoice.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507123756id_/http%3A//www.helperchoice.com/privacy.php%3FLa%3DE%26T%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helperchoice.com privacy policy that was archived on 2013-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130916001035id_/http%3A//www.helperchoice.com/privacy.php%3FT%3D) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
