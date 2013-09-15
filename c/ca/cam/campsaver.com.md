@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the campsaver.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619033449id_/http%3A//www.campsaver.com/service/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campsaver.com privacy policy that was archived on 2013-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130915025941id_/http%3A//www.campsaver.com/service/privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security :: CampSaver.com
 
