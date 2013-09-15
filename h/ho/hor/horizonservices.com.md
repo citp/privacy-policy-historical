@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the horizonservices.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116124205id_/http%3A//www.horizonservicesinc.com/contact-us/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horizonservices.com privacy policy that was archived on 2013-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130915033246id_/http%3A//www.horizonservicesinc.com/contact-us/privacy-statement) for the most accurate reproduction.*
 
 # Horizon Services Online Privacy Statement | Horizon Services Inc.
 
-[Home](http://www.horizonservicesinc.com/ "Go to Home.") > [Contact Us](http://www.horizonservicesinc.com/contact-us "Go to Contact Us.") > Privacy Statement 
+[Horizon Services Inc.](http://www.horizonservicesinc.com/ "Go to Horizon Services Inc..") > [Contact Us](http://www.horizonservicesinc.com/contact-us "Go to Contact Us.") > Privacy Statement 
 
 
 **HORIZON SERVICES, INC.** provides this Privacy Statement to inform you of our privacy practices and the choices you can make about the way your information is collected online and how that information is used. We respect and are committed to protecting the privacy of our customers and others who visit our website. This Privacy Statement covers the Web pages belonging to HORIZON SERVICES, INC.
@@ -36,10 +36,6 @@ We protect our data with various physical, technical and procedural measures and
 If you enter credit card data, that information is encrypted and protected with industry standard encryption software.
 
 ### Is Information Shared with Third Parties?
-
-HORIZON SERVICES, INC. does not rent, sell or exchange your names to third-party companies for their marketing purposes. We may include within our own promotional communications offers sent on behalf of other companies with whom we do business or who provide products or services we determine may be of special value or interest to our customers and subscribers. We may share information with others who help us analyze sales data, maintain our records, and provide other services for HORIZON SERVICES, INC. We may also share your information with companies that act on our behalf and at our direction to notify you of additional HORIZON SERVICES, INC. products and services. These companies may also conduct customer satisfaction surveys and manage other customer services and benefits for us. These third parties are not authorized to use your information for any reason other than to perform their contractually assigned functions.
-
-For Horizon Services customers who wish to finance their purchase of heating or cooling equipment, we do offer a Credit Application Pre-Approval Form. This form authorizes Horizon Services to act on the customer’s behalf to obtain credit from reputable lenders. Data collected from this form will be shared only with lending institutions and only for the purpose of obtaining financing. 
 
 Any information we collect about you or your computer is used exclusively by HORIZON SERVICES, INC. to enhance and improve your visits to our site, or to provide you with requested information, products or services. We may share data with our affiliates and contractors in order to help us analyze such information, assess usage trends, improve site layout or design, or to maintain or upgrade our web capabilities. However, no personal information is distributed to third parties for direct marketing or solicitation purposes.
 
@@ -82,4 +78,4 @@ _Updated: March 2, 2012_
 
 * * *
 
-_**Horizon Services:** The only full-service [plumbing](http://www.horizonservicesinc.com/services/plumbing "plumbing"), [heating](http://www.horizonservicesinc.com/services/heating "heating"), [air conditioning](http://www.horizonservicesinc.com/services/air-conditioning "air conditioning"), [geothermal](http://www.horizonservicesinc.com/services/geothermal "geothermal"), [drain cleaning](http://www.horizonservicesinc.com/services/drain-cleaning "drain cleaning") and [sewer and water line replacement](http://www.horizonservicesinc.com/services/sewer-water-line-replacement "sewer and water line replacement") company in Delaware, Southeastern Pennsylvania, Gloucester and Camden County New Jersey and Maryland that guarantees on-time service, up-front pricing and the job done right and __clean the first time!_
+_**Horizon Services:** The only full-service [plumbing](http://www.horizonservicesinc.com/services/plumbing "plumbing"), [heating](http://www.horizonservicesinc.com/services/heating "heating"), [air conditioning](http://www.horizonservicesinc.com/services/air-conditioning "air conditioning"), [geothermal](http://www.horizonservicesinc.com/services/geothermal "geothermal"), [drain cleaning](http://www.horizonservicesinc.com/services/drain-cleaning "drain cleaning") and [sewer and water line replacement](http://www.horizonservicesinc.com/services/sewer-water-line-replacement "sewer and water line replacement") company in Delaware, Southeastern Pennsylvania, Gloucester, Camden and Burlington County New Jersey and Northeastern Maryland that guarantees on-time service, up-front pricing and the job done right and __clean the first time!_
