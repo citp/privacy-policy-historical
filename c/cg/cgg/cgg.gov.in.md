@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cgg.gov.in privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531201505id_/http%3A//cgg.gov.in/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cgg.gov.in privacy policy that was archived on 2013-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130915074051id_/http%3A//www.cgg.gov.in/privacy.jsp) for the most accurate reproduction.*
 
 # Welcome
 
