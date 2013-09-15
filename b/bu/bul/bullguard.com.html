@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bullguard.com privacy policy that was archived on 2013-05-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130514145215id_/https%3A//www.bullguard.com/about/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bullguard.com privacy policy that was archived on 2013-09-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130915054533id_/http%3A//www.bullguard.com/about/privacy-policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head><link rel="icon" type="image/png" href="http://www.bullguard.com/favicon.png"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="content-language" content="en"><meta content="privacy policy" name="keywords"><meta content="BullGuard Ltd. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organisation whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.bullguard.com. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe." name="description"><meta name="pingdom" content="site verification"><title>
 	BullGuard - Privacy Policy
@@ -83,9 +83,14 @@
         }
       });
     });
-    function searchRedirect(){
+   function searchRedirect(){
       var val= $('#bgSearchTextBox').val();
+      if(window.location.pathname.substring(0,26) == '/bullguard-security-center'){
+         window.location='http://www.bullguard.com/search.aspx?directory=bullguard-security-center&search='+val;
+      }
+      else{
       window.location='/search.aspx?search='+val;
+      }
     }
     
      var setEUCookie = function () {  
@@ -277,14 +282,14 @@ _gaq.push(['_setAccount', 'UA-5866913-2']);
  <div id="cookies">
     We use cookies to ensure that we give you the best experience on our website. By
     continuing to browse, we are assuming that you have no objection in accepting cookies.
-    You can <a style="color: #fff;" href="../about/cookie-policy.aspx">change your cookie
+    You can <a style="color: #fff;" href="/about/cookie-policy.aspx">change your cookie
         settings</a> at any time.<input type="button" onclick="javascript:setEUCookie();" />
 </div> -->
   
  <div id="cookies" style="display: none;">
     We use cookies to ensure that we give you the best experience on our website. By
     continuing to browse, we are assuming that you have no objection in accepting cookies.
-    You can <a style="color: #fff;" href="../about/cookie-policy.aspx">change your cookie
+    You can <a style="color: #fff;" href="/about/cookie-policy.aspx">change your cookie
         settings</a> at any time.<input type="button" onclick="javascript:setEUCookie();">
 </div>
   <div id="top">
@@ -334,10 +339,12 @@ _gaq.push(['_setAccount', 'UA-5866913-2']);
      <div class="dropDownMenu">
     <em></em>
     <p>Security Products<img src="/media/1260199/menuarrows.png" style="position: absolute; bottom: 0px; left: 8px;" alt=""></p>
+    <a href="/products/bullguard-premium-protection.aspx" title="Premium Protection">Premium Protection</a>
     <a href="/products/bullguard-internet-security-2013.aspx" title="Internet Security 2013">Internet Security 2013</a>
     <a href="/products/bullguard-antivirus-2013.aspx" title="Antivirus 2013">Antivirus 2013</a>
+    <a href="/products/bullguard-identity-protection.aspx" title="Identity Protection">Identity Protection</a>
     <a href="/products/bullguard-mobile-security.aspx" title="Mobile Security">Mobile Security</a>
-    <a href="/products/bullguard-spamfilter-10.aspx" title="Spamfilter 10">Spamfilter 10</a>
+
     <p>Backup Products<img src="/media/1260199/menuarrows.png" style="position: absolute; bottom: 0px; left: 8px;" alt=""></p>
     <a href="/products/bullguard-mobile-backup-12.aspx" title="Mobile Backup 12">Mobile Backup 12</a>
     <a href="/products/bullguard-online-backup-2013.aspx" title="Online Backup 2013">Online Backup 2013</a>
@@ -351,11 +358,11 @@ _gaq.push(['_setAccount', 'UA-5866913-2']);
      <div class="dropDownMenu">
     <em></em>
     <p>Popular Downloads<img src="/media/1260199/menuarrows.png" style="position: absolute; bottom: 0px; left: 8px;" alt=""></p>
+    <a href="/thankyou.aspx?action=download&amp;pid=33" title="Premium Protection">Premium Protection</a>
     <a href="/thankyou.aspx?action=download&amp;pid=3" title="Internet Security 2013">Internet Security 2013</a>
     <a href="/products/bullguard-mobile-backup-12/mobile-backup-download.aspx" title="Mobile Backup 12">Mobile Backup 12</a>
     <p>Other Downloads<img src="/media/1260199/menuarrows.png" style="position: absolute; bottom: 0px; left: 8px;" alt=""></p>
     <a href="/thankyou.aspx?action=download&amp;pid=25" title="Antivirus 2013">Antivirus 2013</a>
-    <a href="/thankyou.aspx?action=download&amp;pid=7" title="Spamfilter">Spamfilter</a>
     <a href="/thankyou.aspx?action=download&amp;pid=6" title="Online Backup 2013">Online Backup 2013</a>
      </div>
     </li>
@@ -366,12 +373,15 @@ _gaq.push(['_setAccount', 'UA-5866913-2']);
      <div class="dropDownMenu">
     <em></em>
     <p>Best-Selling Products<img src="/media/1260199/menuarrows.png" style="position: absolute; bottom: 0px; left: 8px;" alt=""></p>
+    <a href="https://www.bullguard.com/shop/customizeproduct?pid=33" title="Premium Protection">Premium Protection</a>
     <a href="https://www.bullguard.com/shop/customizeproduct?pid=3" title="Internet Security 2013">Internet Security 2013</a>
     <a href="https://www.bullguard.com/shop/customizeproduct?pid=25" title="Antivirus 2013">Antivirus 2013</a>
+    <a href="https://www.bullguard.com/shop/customizeproduct?pid=38" title="Identity Protection">Identity Protection</a>
     <a href="https://www.bullguard.com/shop/customizeproduct?pid=13" title="Mobile Backup 12">Mobile Backup 12</a>
     <a href="https://www.bullguard.com/shop/customizeproduct?pid=26" title="Mobile Security">Mobile Security</a>
     <p>Other Products<img src="/media/1260199/menuarrows.png" style="position: absolute; bottom: 0px; left: 8px;" alt=""></p>
     <a href="https://www.bullguard.com/shop/customizeproduct?pid=6" title="Online Backup 2013">Online Backup 2013</a>
+
      </div>
     </li>
     <li class="hasDropdown">
@@ -391,15 +401,19 @@ _gaq.push(['_setAccount', 'UA-5866913-2']);
            </a>
      <div class="dropDownMenu">
     <em></em>
-    <a href="/support/live-support.aspx" title="Customer Support">
-      Customer Support
+     <a href="/support.aspx" title="FAQs">
+      FAQs
     </a>
+
     <a href="/support/product-guides.aspx" title="Product Guides">
       Product Guides
     </a>
-    <a href="/support/faq.aspx" title="FAQs">
-      FAQs
-    </a>
+
+       <p>Premium Services<img src="/media/1260199/menuarrows.png" style="position: absolute; bottom: 0px; left: 8px;" alt=""></p>
+       <a href="/support/premium-support-services/install-and-set-up-bullguard.aspx" title="Install &amp; Set Up">Install &amp; Set Up</a>
+       <a href="/support/premium-support-services/virus-and-malware-removal.aspx" title="Virus Removal">Virus Removal</a>
+       <a href="/support/premium-support-services/pc-tune-up-services.aspx" title="Install &amp; Set Up">PC Tune Up</a>         
+       
      </div>
     </li>
     <li id="lastItem">
@@ -611,9 +625,9 @@ _gaq.push(['_setAccount', 'UA-5866913-2']);
 <div class="footerBar"></div>
 <br>
 <div class="footPart"><a href="/about.aspx">About Us</a> <a href="/press/product-images.aspx">Press</a> <a href="/resellers-2012.aspx">Partner Lounge</a> <a href="/contact-bullguard.aspx">Contact Us</a></div>
-<div class="footPart"><a href="/products/bullguard-internet-security-2013.aspx">BullGuard Internet Security 2013</a> <a href="/products/bullguard-antivirus-2013.aspx">BullGuard Antivirus 2013</a> <a href="/products/bullguard-mobile-backup-12.aspx">BullGuard Mobile Backup 12</a> <a href="/products/bullguard-mobile-security.aspx">BullGuard Mobile Security</a></div>
+<div class="footPart"><a href="/products/bullguard-premium-protection.aspx">BullGuard Premium Protection</a> <a href="/products/bullguard-internet-security-2013.aspx">BullGuard Internet Security 2013</a> <a href="/products/bullguard-antivirus-2013.aspx">BullGuard Antivirus 2013</a> <a href="/products/bullguard-identity-protection.aspx">BullGuard Identity Protection</a> <a href="/products/bullguard-mobile-security.aspx">BullGuard Mobile Security</a></div>
 <div class="footPart"><a href="/products/bullguard-internet-security-2013.aspx">Internet Security</a> <a href="/products/bullguard-mobile-security.aspx">Mobile Security</a> <a href="/downloads.aspx">More downloads</a></div>
-<div class="footPart"><a href="/support.aspx">Help Centre</a> <a href="/support/product-guides.aspx">Product Guides</a> <a href="http://forum.bullguard.com">Forums</a> <a href="/support/live-support.aspx">Live Technical Support</a></div>
+<div class="footPart"><a href="/support.aspx">Help Centre</a> <a href="/support/product-guides.aspx">Product Guides</a> <a href="http://forum.bullguard.com">Forums</a> <a href="/support/support-schedule.aspx">Live Technical Support</a></div>
 <p class="clearfix">&nbsp;</p>
 <div class="footerBar" style="margin: 20px 0 20px 0;"></div>
 <div class="clearfix"><a href="https://privacy-policy.truste.com/click-with-confidence/wps/en/www.bullguard.com/seal_s" title="TRUSTe online privacy certification" target="_blank" class="floatL"><img style="border: none;" src="https://privacy-policy.truste.com/certified-seal/wps/en/www.bullguard.com/seal_s.png" alt="TRUSTe online privacy certification"></a>
