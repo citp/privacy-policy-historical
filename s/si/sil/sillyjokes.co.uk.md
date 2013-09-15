@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sillyjokes.co.uk privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513110733id_/http%3A//www.sillyjokes.co.uk/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sillyjokes.co.uk privacy policy that was archived on 2013-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130916003634id_/http%3A//www.sillyjokes.co.uk/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy
 
