@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eyereturn.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501015301id_/http%3A//eyereturnmarketing.com/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyereturn.com privacy policy that was archived on 2013-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130915090719id_/http%3A//www.eyereturnmarketing.com/privacyPolicy.aspx) for the most accurate reproduction.*
 
 # eyeReturn Marketing - Privacy Policy
 
@@ -27,7 +27,7 @@ We set our browser cookies to expire after two years. The cookie expiration date
 
 **Sensitive Information**
 
-  * eyeReturn does not collect or aggregate information based on sensitive health conditions to tailor ads on behalf of our advertiser clients. In order to provide transparency on which data segments that are collected and used by eyeReturn, we will provide some examples of them here. For example, we may use health related segments such as “Health and Fitness Enthusiast” or “Eco-Conscious Consumer” to tailor relevant ads on behalf of our advertiser clients. We may also use segments such as “Beer Drinker” or “Food and Entertaining Enthusiast”.
+  * eyeReturn does not collect or aggregate information based on sensitive health conditions to tailor ads on behalf of our advertiser clients. In order to provide transparency on which data segments that are collected and used by eyeReturn, the health related segments we create are [listed here](https://web.archive.org/web/20130915090719id_/http%3A//www.eyereturnmarketing.com/bSeglist.aspx).
 
 
 
