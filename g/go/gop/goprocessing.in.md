@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goprocessing.in privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501223945id_/http%3A//www.goprocessing.in/policy.go) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goprocessing.in privacy policy that was archived on 2013-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130915125518id_/http%3A//goprocessing.in/policy.go) for the most accurate reproduction.*
 
 # Leading Aggregator for Recharge and Payment Solutions | GoProcessing.in
 
