@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the instantmoneymethod.net privacy policy that was archived on 2013-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130106153831id_/http%3A//instantmoneymethod.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantmoneymethod.net privacy policy that was archived on 2013-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130915182902id_/http%3A//instantmoneymethod.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Privacy POLICY**
 
-> Company/Seller (herein referred to as "this Site") strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this Privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. 
-> 
-> **WE HATE SPAM! We will NEVER sell, rent, barter or share your EMAIL ADDRESS with anyone!**
+> Company/Seller (herein referred to as "this Site") strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this Privacy policy. 
 > 
 > **How we gather information from users**
 > 
@@ -44,7 +42,7 @@
 > 
 > We can be reached by using the support information listed at the bottom of every page in the site. 
 > 
-> [Click Here To Contact Support](mailto:MailboxProfitsSystem@gmail.com?subject=Contact%20From%20MailboxProfitsSystem.com%20)  
+> [Click Here To Contact Support](mailto:macksprivateemail@gmail.com?subject=Contact%20From%20InstantMoneyMethod.net)  
 > 
 > 
 > **Changes to this Policy**
