@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ansys.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610093920id_/http%3A//ansys.com/Footer/Privacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ansys.com privacy policy that was archived on 2013-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130915214859id_/http%3A//www.ansys.com/Footer/Privacy%2BPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ This notice provides highlights of the full [ANSYS, Inc. Online Privacy Statemen
 
   * When you register for certain services or products pertinent information is collected
   * This information may be combined with third party organizations or channel partners
-  * We use [cookies](https://web.archive.org/Footer/Full+Privacy+Statement/#cookies) to keep track of interactions with our site to improve performance and site usability
+  * We use [cookies](https://web.archive.org/web/20130915214859id_/http%3A//www.ansys.com/Footer/vgn_ext_templ_rewrite?vgnextoid=54d115f29b1cc210VgnVCM1000004201c90aRCRD&vgnextchannel=54d115f29b1cc210VgnVCM1000004201c90aRCRD/vgn_ext_templ_rewrite/#cookies) to keep track of interactions with our site to improve performance and site usability
 
 
 
@@ -23,7 +23,7 @@ This notice provides highlights of the full [ANSYS, Inc. Online Privacy Statemen
 
 ## What can you do?
 
-  * You can stop receiving email from ANSYS, Inc., other than administrative communications sent to our customers related to their accounts, by using our [opt-out procedure](https://web.archive.org/Footer/Full+Privacy+Statement/#optout)
+  * You can stop receiving email from ANSYS, Inc., other than administrative communications sent to our customers related to their accounts, by using our [opt-out procedure](https://web.archive.org/web/20130915214859id_/http%3A//www.ansys.com/Footer/vgn_ext_templ_rewrite?vgnextoid=54d115f29b1cc210VgnVCM1000004201c90aRCRD&vgnextchannel=54d115f29b1cc210VgnVCM1000004201c90aRCRD/vgn_ext_templ_rewrite/#optout)
   * You may disable cookies to our site but this will result in a reduced site experience
 
 
