@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the boostaffiliates.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512001606id_/http%3A//boostaffiliates.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boostaffiliates.com privacy policy that was archived on 2013-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130915074322id_/http%3A//boostaffiliates.com/privacy) for the most accurate reproduction.*
 
-# Boost Software Affiliate Program | BoostAffiliates.com
+# Boost Affiliates Privacy Statement
 
 Your privacy is important to Boost Software, Inc. ("Boost"). This Privacy Policy describes the information practices for the Boost Sites, including what type of information is gathered and tracked, how the information is used, and with whom the information is shared. As described below, this statement also applies to your other interactions with Boost, such as when you license software subject to an End-User License Agreement or enter into Terms of Service for a Boost offering, or provide information to Boost at a trade show or other event. 
 
