@@ -1,7 +1,11 @@
-> *The following text is extracted and transformed from the naturehills.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117081715id_/http%3A//www.naturehills.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturehills.com privacy policy that was archived on 2013-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130915035234id_/http%3A//www.naturehills.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
+|   
+  
+---|---  
+  
 Nature Hills Nursery respects the privacy of visitors to our website and the privacy of our customers. We take your privacy seriously. We will not collect personal information about any visitor to our website, unless the visitor is made aware that we are collecting such information. We ensure that any information that is collected is collected in a secure and safe encrypted manner.
 
 **Currently, we would collect personal information for the following reasons:**
@@ -18,4 +22,8 @@ Your name, address, email address, phone number(s), credit card number and/or bi
 
 We will not make personal information available to outside organizations, except for organizations that work with us on Nature Hills Nursery promotions. In such case, such personal information is used only for purposes related to the administration of the promotions.
 
-When requested, we will remove a person from our email list or mailing list.
+When requested, we will remove a person from our email list or mailing list.  
+  
+  Loading... 
+
+09/14/2013 22:52:35 -10.0.33.12-Web2
