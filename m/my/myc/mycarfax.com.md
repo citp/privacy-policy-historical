@@ -1,78 +1,60 @@
-> *The following text is extracted and transformed from the mycarfax.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501040330id_/http%3A//www.carfax.com/privacyStatement.cfx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycarfax.com privacy policy that was archived on 2013-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130915233529id_/http%3A//www.carfax.com/privacyStatement.cfx) for the most accurate reproduction.*
 
 # CARFAX Privacy Policy
 
-CARFAX has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [ TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us by [ clicking here](http://www.carfax.com/help). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+CARFAX Privacy Statement 
 
-**CARFAX Privacy Policy**
+Effective August 2013 
 
-_Updated December 1, 2011_  
-At CARFAX, we are committed to protecting your privacy. We use the information we collect to process orders and to provide a more useful and personalized experience on our site. Please read on for more details about our privacy policy. _**Note: This policy only applies to[www.carfax.com](http://www.carfax.com/).**_
+At CARFAX, we are committed to protecting your privacy. **_This Privacy Statement applies to CARFAX.com and myCARFAX.com and the CARFAX and myCARFAX mobile device applications intended for use by consumers (collectively,"CARFAX web sites") and governs all data collection and usage through these CARFAX web sites. By using CARFAX web sites, you signify your consent to the data practices described in this Privacy Statement and agree that your visit and any dispute over privacy is subject to the Terms of Use for the applicable CARFAX web sites, including without limitation, the terms regarding limitations on CARFAX's liabilities and application of the laws of the Commonwealth of Virginia._** You should check this Privacy Statement frequently for any changes. If you have any questions or suggestions regarding our Privacy Statement, please contact us by visiting our Help Center or writing to us (please include your name, mailing address and email address with your inquiry): 
 
-**Protecting the privacy of children**
+Consumer Affairs   
+CARFAX, Inc.   
+5860 Trinity Parkway   
+Suite 600   
+Centreville, VA 20120   
 
-Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. Our website is not directed at children under 13 and we won't knowingly allow anyone under 13 to provide us any personally identifying information; if you're under 13, please don't provide any information about yourself on this website.
 
-**What information do we collect? How do we use it?  
-How does CARFAX protect customer information?  
-What about Cookies?  
-Will CARFAX disclose the information it collects to outside parties?  
-How does CARFAX allow customers to update or change the information it collects?  
-Privacy update policy  
-Contact Information  
-Your consent.**
+**Protecting the privacy of children**  
+CARFAX web sites are not directed at children under 13 and we will not knowingly allow anyone under 13 to provide any personally identifying information. If you are under 13, please do not provide any information about yourself. 
 
-**What information do we collect? How do we use it?** (back to top)  
-When you order CARFAX Vehicle History Reports, we require your name, mailing address, e-mail address, credit card number, and expiration date. This information allows us to process your order and deliver your reports to you.
+**Information Collected  
+Use of the information  
+Protection of the information  
+Disclosure the information to third parties  
+Third party links  
+How to update or change the information and opt out of marketing emails  
+Updates to this Privacy Statement **
 
-For each CARFAX Vehicle History Report you request, you will also enter the Vehicle Identification Number (VIN). This is the unique 17-character identification number that is used to search our database for information about the vehicle's history. Once you enter the VIN of a vehicle, the CARFAX report will appear on screen and an email version of the same CARFAX Report will be sent to you via email for your records. 
+**Information Collected** (back to top)  
+CARFAX will collect your name, mailing address, email address, and payment card information when you purchase CARFAX® Vehicle History Reports™ ("CARFAX Reports"). For services offered at no cost to you, such as myCARFAX and Hot Listings, CARFAX may require you to provide an email address. CARFAX may also require a Vehicle Identification Number (VIN) or license plate information to provide the relevant vehicle history information. 
 
-You may be asked to complete brief surveys while on the CARFAX web site. These surveys help us to better understand how you are using the information, and help us to develop better products and services for you. These surveys may be administered by CARFAX or by a third party.
+CARFAX also allows you to (1) enter information regarding your vehicle when you use myCARFAX, and (2) share feedback related to third party products or services and submit other content or materials through public postings on CARFAX web sites. Please be aware that if you disclose personally identifiable information or other sensitive information through public postings on CARFAX web sites the information will be viewable by others. 
 
-You may receive periodic email communications from CARFAX that include special offers and promotions related to the used car buying and ownership process. Should you choose to "opt-out" of receiving these email communications, you will only receive the email communications that contain the CARFAX Reports you order. To unsubscribe to any of our communications or ask any questions about our services or our products, please [ click here](http://www.carfax.com/help) to contact us or you can [unsubscribe here.](https://web.archive.org/unsubscribe.cfx)
+CARFAX web sites may contain **web beacons** to collect data regarding user traffic patterns. CARFAX web sites use **cookies** to collect information about your computer hardware (desktop, laptop, mobile devices etc.) and software, including without limitation, referring domains, the type of browser used, operating system software, screen resolutions, color capabilities, IP addresses and plug-ins. We may collect, or have a third party collect on our behalf, data on the number of visits, paths taken, time spent on CARFAX web sites, how visitors use and navigate through the CARFAX web site (examples include, the number of users who visit various pages within the CARFAX web sites, information accessed by such visitors, whether they scroll up or down on particular pages or complete any forms), and other anonymous information that you may submit in the course of searching for vehicles such as zip code and/or type of vehicle viewed. We use this information to improve the CARFAX web sites and learn about users, and may disclose it to our affiliates or to third parties. We may include web beacons in some of our email communications to gauge the effectiveness of our customer communications and marketing campaigns. 
 
-We also track user traffic patterns to uncover ways in which we can improve the site and make it easier to use. We do not track what individual users read, but rather how many customers look at each page.
+If you choose to participate in CARFAX surveys while on CARFAX web sites you may be asked to provide other anonymous demographic information such as zip code, age, gender, preferences and interests. 
 
-**How does CARFAX protect customer information?** (back to top)  
-When you place an order with CARFAX, we offer the use of a secure server. All information you enter is encrypted via a secure sockets layer (SSL) before it is sent over the Internet to our secure servers. Furthermore, all of the customer data we collect is protected against unauthorized access. If you have questions about security on our Web site, please [click here](http://www.carfax.com/help) to contact us.
+**Use of the information** (back to top)  
+CARFAX uses the information you provide to deliver services requested by you. You may also receive emails from CARFAX offering additional CARFAX products and services and other special offers and promotions related to the used car buying and ownership process. Information related to your vehicle that you submit through myCARFAX may be included in the vehicle history information for that vehicle. 
 
-**What about Cookies?** (back to top)  
-"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Cookies enable us to provide customized and convenient features to you on your initial and subsequent visits to CARFAX.com. Our cookies gather your IP address to measure audience statistics, but do not otherwise contain any personally identifying information. Most Web browsers automatically accept cookies. You can instruct your browser, by changing its options, to stop accepting browser cookies or to prompt you before accepting a cookie from the websites you visit. Even if you have set your browser to refuse cookies, you will still be able to access and use the CARFAX.com site.
+We use information collected through cookies and web beacons to analyze usage and deliver customized content and advertising and uncover ways in which we can improve CARFAX web sites and make them easier to use. Information provided by visitors to the CARFAX web sites who choose to complete user surveys helps us better understand how visitors to the CARFAX web sites are using CARFAX information and develop better products and services for you. CARFAX occasionally appends data collected through CARFAX web sites with third party data to effectively plan customer communications and marketing campaigns and analyze how the CARFAX web sites are used. 
 
-CARFAX uses a reputable third party, such as Adobe Omniture to collect and accumulate other anonymous data that helps us understand and analyze the Internet experience of our visitors. For example, we accumulate visitor data relating to referring domains, the type of browsers used, operating system software (e.g. Windows 7 or iOS), screen resolutions, color capabilities, plug-ins, etc. We also record number of visits, paths taken and time spent on sites and pages. This information may be stored in a cookie on your computer's hard drive. However, none of this information is personally identifiable and we only share this information in the aggregate, reflecting overall Web site or Internet usage trends.
+**Protection of the information** (back to top)  
+We maintain administrative, technical and physical safeguards against unauthorized access to the information CARFAX collects. For example, when you complete the CARFAX Report order form, all information you enter is encrypted via a secure sockets layer (SSL) before it is sent over the Internet to our secure servers and/or credit card processor, as applicable. We do not retain the full payment card account number submitted in the process of purchasing a CARFAX Report in our systems, but we may store partial payment card number for up to six months for our reference. To protect against unauthorized access to your account, we recommend that you protect your password, log out of your account and close your browser after each use. 
 
-CARFAX also uses a reputable third party, such as [DoubleClick](http://doubleclick.com/), to serve the advertisements that you see on the pages of our Web site. To help deliver advertisements and promotions that you may be more interested in receiving, a cookie is stored on your computer's hard drive to track general user preferences. Again, none of this information is personally identifiable and we only share this information in the aggregate, reflecting overall Web site or Internet usage trends. If you would like to know more about the information gathering practices and "opt-out" procedures of our third party advertising server, please [ click here.](http://www.privacychoices.org/)
+**Disclosure of the information to third parties** (back to top)  
+CARFAX does not sell, trade, rent, or otherwise transfer personally identifiable information to others, except: (i) as provided in this Privacy Statement, (ii) to defend against legal claims or otherwise protect our rights, (ii) as required by law, judicial proceeding, court order, or legal process served on CARFAX, (iv) for purposes of law enforcement investigations, and/or (v) with your consent. CARFAX may share with third parties, including other users and vendors: (1) information you submit regarding your vehicle through myCARFAX, (2) your feedback regarding third party products or services and (3) any other content or materials you submit through public posting on any CARFAX web site. We may share non-personal, anonymous, statistical or demographic information in aggregate form with our advertisers, service providers or other third parties. CARFAX uses third party service providers to perform various functions such as processing credit card transactions, analyzing data, serving advertisements and providing marketing assistance. All service providers are contractually required to treat personally identifiable information as confidential. 
 
-**Web beacons**
+**Third Party Links** (back to top)  
+CARFAX may include links in the CARFAX web sites and in emails to third party web sites whose privacy policies we do not control. Similarly, you may access CARFAX web sites through links on third party web sites. By entering CARFAX web sites through a third party web site you may be allowing such third party's web site to view any information you provide to CARFAX. If you are concerned about entering through a third party web site, you can access CARFAX web sites directly at [www.carfax.com](https://web.archive.org/), [www.mycarfax.com](http://www.mycarfax.com/) or by downloading the CARFAX and myCARFAX mobile device applications intended for use by consumers. CARFAX is not responsible for the privacy practices or the content of any third party web sites. We encourage you to review the privacy policies of any web sites through which you access CARFAX web sites or which you access through CARFAX web sites or emails to better understand such third party web sites' data collection and use practices. 
 
-Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
+**How to update or change the information and opt out of marketing emails** (back to top)  
+You may update or change the information pertaining to your account by contacting CARFAX by [clicking here](https://web.archive.org/help). You may opt out of receiving promotional emails from CARFAX when you complete the CARFAX Report order form, or you may unsubscribe at any time by using the link included on all marketing emails. To unsubscribe from receiving promotional emails from CARFAX you can [unsubscribe here](https://web.archive.org/unsubscribe.cfx). If you choose to opt out of receiving promotional emails, you will only receive emails in connection with the CARFAX services to which you have subscribed. 
 
-**Will CARFAX disclose the information it collects to outside parties?** (back to top)  
-CARFAX does not, without your permission, sell, trade, rent, or otherwise transfer your personal information to others, except as outlined in this privacy policy. We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site. We may share non-personal, non-individual statistical or demographic information in aggregate form with our marketing partners, advertisers, or other third parties for research purposes. We never, without the customer's permission, share information about specific individuals with third parties, except as outlined in this privacy policy.
+To opt out of receiving targeted content and advertisements on CARFAX web sites you can change your browser options to stop accepting cookies or to prompt you before accepting a cookie from any web site. You will be able to access and use CARFAX web sites with cookies disabled, but the user experience may not be customized to your interests and needs. 
 
-CARFAX uses an outside credit card processing company to bill you for services. This credit card processing company does not retain, share, store or use personally identifiable information for any secondary purposes.
-
-Agents: We employ other companies and individuals to perform functions on our behalf. Examples include sending e-mail, analyzing data, and providing marketing assistance. They have access to personal information needed to perform their functions, but are bound by strict contractual requirements to keep all personal information they process strictly confidential and to use such information solely on behalf of CARFAX.
-
-Please note, the CARFAX.com web site contains links to other web sites. CARFAX is not responsible for the privacy practices or the content of these web sites. In addition, CARFAX partners with other businesses and organizations across the Internet. In many cases, you may access CARFAX through a link at one of our partner's websites. By entering the CARFAX website through one of our partner's websites, you signify your understanding that CARFAX is not responsible for the privacy practices or the content of these web sites. Further, it is also possible that by entering through a partner's website and using the CARFAX website, you may be allowing the partner's site to view any information you provide. If you are concerned about entering through a partner's website, you can enter the CARFAX site directly at [www.carfax.com](https://web.archive.org/web/20130501040330id_/http%3A//www.carfax.com/www.carfax.com).
-
-**How does CARFAX allow customers to update or change the information it collects?**  
-(back to top)  
-You may update, delete inaccuracies, or change the information pertaining to your account by contacting CARFAX, please [click here](http://www.carfax.com/help) to contact us. To unsubscribe to any of our communications or have any questions about our services or our products, please [click here.](http://www.carfax.com/help)
-
-**CARFAX Hot Listings Email**
-
-To sign up for our Hot Listings emails, we collect your email address. This email subscription will expire in 90 days. To unsubscribe from Hot Listings emails, click on the "Unsubscribe" link at the bottom of the **Hot Listings** email or you can [click here](http://www.carfax.com/help) to contact us. 
-
-**CARFAX Tell a Friend Program**  
-If a user elects to use [Tell A Friend](https://web.archive.org/contact/tell_a_friend.cfx) service for informing a friend about our site, we ask them for the friend's name and email address. CARFAX will automatically send the friend a one-time email inviting them to visit the site. The information is used for the sole purpose of sending this one-time email. CARFAX does not store this information.
-
-**Privacy update policy**  
-(back to top)  
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we decide to change our privacy policy, we will post those changes to this privacy statement on [www.carfax.com.](https://web.archive.org/web/20130501040330id_/http%3A//www.carfax.com/www.carfax.com) If we make material changes to this policy, we will notify you by means of a notice on [www.carfax.com](https://web.archive.org/web/20130501040330id_/http%3A//www.carfax.com/www.carfax.com) 30 days prior to implementation.
-
-**Your consent**  
-(back to top)  
-By using this site, you signify your assent to the CARFAX Privacy Policy. If you do not agree with the terms of this policy, please do not use our site. Should we change the way in which we use your personal information, we will get your consent before using your information in this new way.
+**Updates to this Privacy Statement** (back to top)  
+We reserve the right to modify this Privacy Statement at any time. Any changes to the Privacy Statement will be posted here. If the changes are significant, we will provide you additional, prominent notice as appropriate under the circumstances. 
 
 Close window 
