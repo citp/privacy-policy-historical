@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wordpress-ecommerce.com privacy policy that was archived on 2013-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130129233431id_/http%3A//www.wordpress-ecommerce.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordpress-ecommerce.com privacy policy that was archived on 2013-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130915053933id_/http%3A//www.wordpress-ecommerce.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | WordPress eCommerceWordPress eCommerce
+# Privacy Policy | WordPress eCommerce
 
 ## What information do we collect?
 
