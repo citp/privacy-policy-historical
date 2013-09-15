@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the websitejoint.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603074556id_/http%3A//websitejoint.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitejoint.com privacy policy that was archived on 2013-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130916004952id_/http%3A//websitejoint.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Website Joint - Web Directory And SEO Tools
+# Privacy « Website Joint – Web Directory And SEO Tools
 
 At www.websitejoint.com we are dedicated to safeguarding and preserving your privacy when visiting our site or communicating electronically with us. Our Privacy Policy has been provided and approved by website [privacy policy](http://www.ucontext.com/cbhop.php/7884/0/0f7de4c0efa3589bddf26471bc2b3813/privacy+policy) provider LegalCentre.co.uk.
 
@@ -19,10 +19,10 @@ iii.Information provided to us when you communicate with us for any reason.
 
 **Use of Cookies**
 
-On occasion, we may gather information about your computer for our services and to provide statistical information regarding the use of our website to our advertisers.  
+On occasion, we may [gather information](http://www.ucontext.com/cbhop.php/7884/0/884a1b10648351c321108d7d7502f795/gather+information) about your computer for our services and to provide [statistical information](http://www.ucontext.com/cbhop.php/7884/0/4b32f17b82fcd5183afd7d33b9fc95a2/statistical+information) regarding the use of our website to our advertisers.  
 Such information will not identify you personally it is statistical data about our visitors and their use of our site. This statistical data does not identify any personal details whatsoever.
 
-Similarly to the above, we may gather information about your general internet use by using a cookie file. Where used, these cookies are downloaded to your computer automatically. This cookie file is stored on the [hard drive](http://www.ucontext.com/cbhop.php/7884/0/03ad0f4a79221c2bf94fc224832aea89/hard+drive) of your computer as cookies contain information that is transferred to your computer’s [hard drive](http://www.ucontext.com/cbhop.php/7884/0/03ad0f4a79221c2bf94fc224832aea89/hard+drive). They help us to improve our website and the service that we provide to you.  
+Similarly to the above, we may [gather information](http://www.ucontext.com/cbhop.php/7884/0/884a1b10648351c321108d7d7502f795/gather+information) about your general internet use by using a cookie file. Where used, these cookies are downloaded to your computer automatically. This cookie file is stored on the [hard drive](http://www.ucontext.com/cbhop.php/7884/0/196836afb31b0cf5e4f39daf71601a24/hard+drive) of your computer as cookies contain information that is transferred to your computer’s [hard drive](http://www.ucontext.com/cbhop.php/7884/0/196836afb31b0cf5e4f39daf71601a24/hard+drive). They help us to improve our website and the service that we provide to you.  
 All computers have the ability to decline cookies. This can be done by activating the setting on your browser which enables you to decline the cookies.  
 Please note that should you choose to decline cookies, you may be unable to access particular parts of our website.
 
@@ -42,9 +42,9 @@ If you are an existing customer, we may contact you with information about goods
 
 Further, we may use your data, or permit selected third parties to use your data, so that you can be provided with information about unrelated goods and services which we consider may be of interest to you. We or they may contact you about these goods and services by any of the methods that you consented at the time your information was collected.
 
-If you are a new customer, we will only contact you or allow third parties to contact you only when you have provided consent and only by those means you provided consent for.  
+If you are a new customer, we will only contact you or allow third parties to contact you only when you have [provided consent](http://www.ucontext.com/cbhop.php/7884/0/0af2c37935f0bbc78984373860edc30e/provided+consent) and only by those means you [provided consent](http://www.ucontext.com/cbhop.php/7884/0/0af2c37935f0bbc78984373860edc30e/provided+consent) for.  
 If you do not want us to use your data for our or third parties you will have the opportunity to withhold your consent to this when you provide your details to us on the form on which we collect your data.  
-Please be advised that we do not reveal information about identifiable individuals to our advertisers but we may, on occasion, provide them with aggregate statistical information about our visitors.
+Please be advised that we do not reveal information about identifiable individuals to our advertisers but we may, on occasion, provide them with aggregate [statistical information](http://www.ucontext.com/cbhop.php/7884/0/4b32f17b82fcd5183afd7d33b9fc95a2/statistical+information) about our visitors.
 
 **Storing Your Personal Data**
 
