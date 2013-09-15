@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leadmaverick.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509133728id_/http%3A//leadmaverick.com/default.asp%3FNodeId%3D55) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadmaverick.com privacy policy that was archived on 2013-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130915030516id_/http%3A//www.leadmaverick.com/default.asp%3FNodeId%3D55) for the most accurate reproduction.*
 
 # Lead Maverick Privacy Policy
 
