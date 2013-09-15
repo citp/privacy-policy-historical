@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tweakyourpage.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430145703id_/http%3A//www.tweakyourpage.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tweakyourpage.com privacy policy that was archived on 2013-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130915125311id_/http%3A//www.tweakyourpage.com/privacy.php) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
