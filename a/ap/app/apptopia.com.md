@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apptopia.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603064109id_/http%3A//www.apptopia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apptopia.com privacy policy that was archived on 2013-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130915044656id_/http%3A//www.apptopia.com/privacy-policy) for the most accurate reproduction.*
 
 # Apptopia
 
