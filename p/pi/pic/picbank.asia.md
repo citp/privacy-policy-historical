@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the picbank.asia privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517023739id_/http%3A//www.picbank.asia/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picbank.asia privacy policy that was archived on 2013-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130917002050id_/http%3A//www.picbank.asia/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
-# Pictures Bank
+# Your Bank To Store Pictures!
 
 When you sign up for an account with Picbank, we collect personal information from you including your email address and a password. 
 
