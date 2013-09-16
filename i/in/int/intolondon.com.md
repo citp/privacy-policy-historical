@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intolondon.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510224449id_/http%3A//www.intolondon.com/content/resources/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intolondon.com privacy policy that was archived on 2013-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130916061655id_/http%3A//www.intolondon.com/content/resources/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -38,7 +38,14 @@ Some cookies, such as those created via Facebook Connect, only apply to users wh
 
 **By using the site you are agreeing to the use of cookies as described.**
 
-You can choose to turn off cookies but this may limit your ability to navigate SpareRoom fully.
+You can choose to turn off cookies but this may limit your ability to navigate SpareRoom fully. Details of Google Analytics, Google AdWords and DoubleClick cookies are shown below:
+
+Google Analytics
+    The Google Analytics cookie allows us to see information on user website activity including, but not limited to page views, referral and average time spent on the website. The information is de-personalised and is displayed as numbers, meaning it will not be tracked back to individuals, which helps to protect your privacy. Using Google Analytics we can see what content is popular on our website, and strive to ensure you have the best user experience possible. You can find details on Google Analytics Privacy Policy [here](http://www.google.co.uk/intl/en/analytics/privacyoverview.html) and may choose to opt-out [here](http://tools.google.com/dlpage/gaoptout).
+Google AdWords
+    Using Google AdWords code, we are able to see which pages helped lead to registering and, where applicable, upgrading. This allows us to make better use of our paid search budget on Google. More details found can be found [here](http://www.google.co.uk/policies/technologies/ads/). You can also choose to opt-out of AdWords remarketing [here](https://www.google.com/settings/ads/preferences/#optout).
+DoubleClick
+    We use Google Analytics remarketing codes to log when users view specific pages or take specific actions on the website. This allows us to provide targeted advertising in the future.
 
 ### Email
 
