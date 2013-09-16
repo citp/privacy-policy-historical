@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fitnessandpower.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614000726id_/http%3A//www.fitnessandpower.com/component/content/article/5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitnessandpower.com privacy policy that was archived on 2013-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130917002253id_/http%3A//www.fitnessandpower.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy policy | Fitness and Power
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
@@ -13,4 +13,4 @@ To opt out of the DART cookies you may visit the Google ad and content network p
 Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, http://www.fitnessandpower.com has no access or control over these cookies that may be used by third party advertisers.
 
 **Collection of Personal Information**  
-When visiting **FitnessAndPower** , the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
+When visiting[ **FitnessAndPower.com**](http://www.fitnessandpower.com/), the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
