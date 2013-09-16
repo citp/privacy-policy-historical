@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1clickmarketingmachine.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424044407id_/http%3A//www.1clickmarketingmachine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1clickmarketingmachine.com privacy policy that was archived on 2013-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130917010554id_/http%3A//www.1clickmarketingmachine.com/privacy) for the most accurate reproduction.*
 
 # 1-Click Marketing Machine - Privacy Policy
 
