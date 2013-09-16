@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the horizzoninfotech.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502221943id_/http%3A//www.horizzoninfotech.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horizzoninfotech.com privacy policy that was archived on 2013-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130916080338id_/http%3A//www.horizzoninfotech.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Horizzon Infotech
 
