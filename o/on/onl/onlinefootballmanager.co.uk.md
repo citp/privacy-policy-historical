@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the onlinefootballmanager.co.uk privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607192309id_/http%3A//www.onlinefootballmanager.co.uk/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinefootballmanager.co.uk privacy policy that was archived on 2013-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130916045751id_/http%3A//www.onlinefootballmanager.co.uk/Privacy) for the most accurate reproduction.*
 
-# Privacy policy - Online Football Manager
+# Privacy policy - Online Soccer Manager
 
-**Gamebasics** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [Online Football Manager](https://web.archive.org/). 
+**Gamebasics** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [Online Soccer Manager](https://web.archive.org/). 
 
 We can be reached via e-mail at [info@gamebasics.nl](mailto:info@gamebasics.nl) if you have any questions regarding our policies outlined below. Please be aware that we cannot 100% guarantee these policies, although we do our very best to abide by the policies which we have outlined. 
 
@@ -20,4 +20,4 @@ Upon request, we will provide site visitors with access to the information that 
 
 With respect to security: we do not collect online information from any of our visitors for intentions of redistribution. We solemnly guarantee that any information you submit to us will not be sold or bartered to any third parties, unless express consent is given by yourself to do so. 
 
-As with many online agencies today, Online Football Manager tries its best to abide by the privacy policy guidelines as explained above. However, we cannot 100% guarantee our privacy policy to be accurate to a tee, as our advertisers or ISPs may from time to time change their privacy policies or legal disclaimers without any prior notification. If any such instance results in any damages being suffered, Online Football Manager and any subsidiaries of Online Football Manager have no legal liability for these damages. 
+As with many online agencies today, Online Soccer Manager tries its best to abide by the privacy policy guidelines as explained above. However, we cannot 100% guarantee our privacy policy to be accurate to a tee, as our advertisers or ISPs may from time to time change their privacy policies or legal disclaimers without any prior notification. If any such instance results in any damages being suffered, Online Soccer Manager and any subsidiaries of Online Soccer Manager have no legal liability for these damages. 
