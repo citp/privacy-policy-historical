@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the graze.com privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612220124id_/http%3A//www.graze.com/us/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graze.com privacy policy that was archived on 2013-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130916194601id_/http%3A//www.graze.com/us/help/privacy) for the most accurate reproduction.*
 
 # graze | privacy policy
 
@@ -94,8 +94,7 @@ Apart from using your personal information to process any orders you may place, 
 
 If you do not object to receiving marketing material at the time the information was collected from you, but subsequently change your mind and no longer wish to receive such information, you may opt out of doing so. If you opt out you may continue to receive information for up to 7 days after the date on which you update your account.
 
-If you start to set up an account with us, via the Site, but do not complete the process or place any orders, then we may email you to find out if you need any help to complete the process. An unsubscribe pnk is given at the end of this email. You may also unsubscribe from emails via the following URL:  
-<https://www.graze.com/us/email/unsubscribe/e/>
+If you start to set up an account with us, via the Site, but do not complete the process or place any orders, then we may email you to find out if you need any help to complete the process. An unsubscribe pnk is given at the end of this email. You may also [unsubscribe from emails](https://www.graze.com/us/email/unsubscribe/e/).
 
 In addition, we may use an IP address to identify you and to gather broad demographic information about you, which we will use to assist in the detection of fraud, to help identify problems with our server and to administer the Site.
 
