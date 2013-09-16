@@ -1,125 +1,211 @@
-> *The following text is extracted and transformed from the actionnetwork.org privacy policy that was archived on 2009-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090325043803id_/http%3A//www.environmentaldefense.org/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actionnetwork.org privacy policy that was archived on 2013-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130916121206id_/http%3A//actionnetwork.org/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Environmental Defense Fund
+# Privacy Policy - The Action Network
 
-Environmental Defense and Environmental Defense Action Fund put high priority on protecting your privacy. This privacy policy applies to the [Fight Global Warming](http://www.fightglobalwarming.com/ "Fight Global Warming") web site, the [Back from the Brink](http://www.backfromthebrink.org/ "Back from the Brink") web site, the [Environmental Defense](http://www.environmentaldefense.org/ "Environmental Defense") web site, the [Get Green](http://www.getgreen.com/ "Get Green") web site, [Oceans Alive](http://www.oceansalive.org/ "Oceans Alive") web site, the [Texas Environmental Profiles](http://www.texasep.org/ "Texas Environmental Profiles") web site, the [Undoit.org](http://www.undoit.org/ "Undoit.org") web site, and the [Environmental Defense Action Network](http://www.actionnetwork.org/ "Environmental Defense Action Network") web site. (Action Network sites operated by other organizations described below are governed by their own privacy policies.)
+## Privacy Policy
 
-When you register for special services on one of our sites (to get personalized content or free subscriptions, use our Action Network, enter contests, etc.), you give us personal information about yourself (such as name, address, zip code, email address, etc.). We use this information to provide you with services from ourselves and our partners and affiliates which we think may be of interest to you. You can always "opt-out," now or at any time later, to keep from getting any unwanted messages or solicitations.
+_Last revised September 12, 2013_
 
-If you have any questions, don't hesitate to contact our Privacy Manager directly at any time.
+#### Summary
 
-  1. What personally identifiable information of yours is collected? 
-  2. What organization is collecting your information?
-  3. How your information may be used.
-  4. What choices are available to you regarding collection, use, and distribution of the information?
-  5. What kind of security procedures are in place to protect against the loss, misuse, or alteration of your information?
-  6. How you can access, update, or delete your information.
-  7. How "cookies" are used.
-  8. Changes in our privacy policy.
-  9. Official terms and conditions.
-  10. Opt-out.
+We value your privacy. We will never sell or share your personal information outside of what you allow through normal use of the site.
+
+If you visit the site:
+
+  * We may collect data on you like your IP address and other server logging info that helps us run the site smoothly and efficiently
+  * We may collect aggregate data that doesn't personally identify you that we may share with trusted partners and third parties
 
 
 
-### **1.   What Personally Identifiable Information of Yours is Collected?**
+In addition, if you take action on the site:
 
-This means information that tells us something about who you are, such as your name, phone number, email address, mailing address, or even credit card number (if you use a credit card to make a donation).
-
-If you visit our sites to read or download information, such as consumer brochures or press releases, we collect and store only the following information about you: the name of the domain from which you access the Internet (for example, aol.com, if you are connecting from an America Online account, or princeton.edu if you are connecting from Princeton University's domain); the date and time you access our site; and the Internet address of the web site from which you may have linked directly to our site.
-
-If you ask for one of our many personalized or enhanced services, we will ask you to provide us with personally identifiable information. On our Scorecard web site, it might be your zip code, so we can guide you to information about your local neighborhood. In other cases you might be asked for your name, address, etc. as part of registering to use Action Network, to become a member, or to use other services. We want to be very clear: we will not obtain this kind of personally-identifying information about you when you visit our site, unless you choose to provide it to us. See How Your Information May Be Used.
-
-[top]
-
-### **2.   What Organization is Collecting Your Information?**
-
-We are Environmental Defense, a non-profit, tax-deductible environmental advocacy and research organization, and Environmental Defense Action Fund, a non-profit, non-tax-deductible environmental advocacy and research organization. Environmental Defense and Environmental Defense Action Fund are affiliated organizations. We are responsible for any information collected on our web sites. Our organizational site is [www.environmentaldefense.org](http://www.environmentaldefense.org/ "www.environmentaldefense.org"). In addition, we sponsor:
-
-  * **[Scorecard](http://www.scorecard.org/ "Scorecard")** , a comprehensive online tool for monitoring and taking action on chemical releases and other forms of pollution nationwide;
-  * **[Environmental Defense's Action Network](http://www.actionnetwork.org/ "Environmental Defense's Action Network"), **an online activist tool to influence policy (parts of which are operated by **other organizations** );
-  * **[GetGreen](http://www.getgreen.org/ "GetGreen")** , which features tips on how to save money while saving the environment;
-  * [**Alliance for Environmental Innovation**](http://www.environmentaldefense.org/alliance "Alliance for Environmental Innovation"), the web site for our joint project with The Pew Charitable Trusts that works with private companies to create environmental change;
-  * [**Texas Environmental Profiles**](http://www.texasep.org/ "Texas Environmental Profiles"), where the Texas Center for Policy Studies joins with Environmental Defense to present rankings of air, water, land use and energy issues in the Lone Star State.
-  * [**Undoit.org**](http://www.undoit.org/ "Undoit.org"), a Web site dedicated to informing the public about the consequences of global warming and the steps we can take to not just stop global warming, but to undo it.
+  * We may make public information like your name, city, state, and comments as part of your signing of a petition, RSVPing for an event, or the like
+  * We will share your personal information with the creators, sponsors, and referrers of the actions you take, assuming you do not opt out of sharing that information when you take action
+  * We will email you "transactional" email related to actions you take on the site (ex: sending a thank you email after you sign a petition), from which you can unsubscribe at any time
+  * We will not send you mass email updates
+  * We will allow the creators, sponsors, and referrers of the actions you take to send you mass email using our system, from which you can unsubscribe at any time
 
 
 
-**Action Network** sites operated by other organizations are governed by their own privacy policies. Each Action Network site operates independently, and no information is shared between them.
+In addition, if you sign up for an account on the site:
 
-[top]
-
-### **3.   How Your Information May Be Used**
-
-We use your personal information to be able to give you personalized service (for example, information about your neighborhood, or your favorite subjects); to send you email alerts; to answer your requests; to let you become a member online, etc. You can easily opt-out at any time, to stop any further contact from us.
-
-We also use it to track your and others' use of our web sites; this lets us see which of our features are the most popular so we can better serve our users' needs. Our Scorecard site does not collect personal information about you if you are simply visiting the site; if you want to use the site's action tools (i.e., sending faxes or e-mails or posting messages in the discussion forum), or if you want to personalize Scorecard (to control how pages are displayed). Scorecard collects your name, address and phone number (optional) on its registration page. It saves this information to its user database and writes a "cookie" to your browser so that you will not have to reenter this information when you revisit Scorecard. This data is kept for authentication purposes and to give you access to messages you have created. We also keep a record of faxes and e-mails you send from our system, as well as all forum postings. It also lets us provide aggregate data about our traffic (not identifying you personally, but showing how many visitors used which features, for example) to outside parties. See How "Cookies" Are Used.
-
-We may also use this information to suggest other web site services to you, ask you to become a member of Environmental Defense, or to solicit donations. At any time you can opt-out, so that we will not contact you by email, mail, fax, or telephone.
-
-[top]
-
-### **4.  What Choices Are Available to You Regarding Collection, Use, and Distribution of Your Information?**
-
-Now, or at any time in the future, you can correct or update information about you, and you can tell us not to send you any messages or solicitations at all.
-
-[top]
-
-### **5.   What Kind of Security Procedures Are In Place to Protect Against the Loss, Misuse, or Alteration of Your Information?**
-
-We store your personally identifiable information on secure servers. We also use other "anti-hacking" security measures and employ security consultants. We accept credit card donations only via a secure server.
-
-[top]
-
-### **6.   How You Can Access, Update, or Delete Your Information**
-
-Please contact our Privacy Manager to obtain, change, update or delete our records of your personal information, or to change your privacy options.
-
-[top]
-
-### **7.   How "Cookies" Are Used**
-
-Some of our web sites use "cookie" messages to automatically help provide better services. They remind us who you are and how you like to use our web site, based on what you've done and told us before. The "cookie" is placed in your computer and is read when you come back to our web site. Cookies let us take you to the information and features you're particularly interested in. They also let us track your and others' usage, so we know which parts of our sites are most popular. You can reject cookies or very easily cancel them later.
-
-WebTrends Live is used to analyze traffic to this web site. WebTrends Live does not create individual profiles for visitors. Unlike some tracking services, WebTrends Live does not have a database of individual profiles for each visitor; WebTrends Live only collects aggregate data. For more information about WebTrends Live's privacy policy, please click [here](http://www.webtrendslive.com/privacy_policy.htm "here").
-
-If you would like your browser to reject cookies, you can instruct your browser to do so although some features (such as posting to Scorecard's discussion forum) would be unavailable.
-
-[top]
-
-### **8.   Changes in Our Privacy Policy**
-
-Should our practices change, this notice will be immediately updated. Regardless of later updates, we will never use the information you submit under this current notice in a new way (in a way not described in this notice) without first providing you an opportunity to opt-out or otherwise prevent that use. See Official Terms and Conditions of using our web sites.
-
-[top]
-
-### **9.   Official Terms and Conditions**
-
-  1. Copyright and Re-publication. We want you to use information you find on our web sites. Scorecard and other web site materials are protected by copyright, and we have applied for patents on technology we have developed. But you can use information you get from our web sites for free for any non-commercial purpose, as long as you include the copyright notice below and the address of the web site where you found it. 
-
-_Legalese version_ :
-
-Environmental Defense hereby grants a non-exclusive license to any person to copy and use individual pages or portions of Scorecard or other web sites for non-commercial purposes, and to any member of the media for media purposes, on the condition that the appropriate copyright notice is displayed. Example:
-
-"Copyright © 2002 Environmental Defense. Used by permission. Scorecard is available at www.scorecard.org."
-
-  2. Disclaimer. We do our very best to make all our information accurate. But we do not and cannot guarantee its accuracy. This means that if you rely on it, you cannot hold us at fault for any inaccuracies. 
-
-_Legalese version_ :
-
-Environmental Defense makes no warranties, express or implied, about the accuracy, completeness, or reliability of any of the information it provides to the public.
-
-  3. Changes without notice. We may change any part of this policy, without any separate notice to users. The current policy will always be posted here. We will not change the overall purpose of this policy, which is to protect your privacy consistent with our goals as a non-profit advocacy organization dedicated to protecting the environment.
+  * We will email you directly from time to time with updates, new features, opportunities to participate in campaigns, and the like, from which you may unsubscribe at any time
+  * We will make available to you the personal information of users who take action on pages you create
+  * We will allow you to contact those users via our mass mailer
 
 
 
-[top]
+**This summary is qualified in its entirety by the Legal Terms below, which shall govern your use of the site.**
 
-### **10.  Opt-Out**
+#### Legal Terms
 
-To opt-out from receiving content from Environmental Defense or its partners and affiliates, please do the following:
+The Action Network, which operates www.actionnetwork.org and our other websites and mobile applications that link to that web address ("the Site"), takes your privacy very seriously. This policy is intended to inform you about how the Action Network gathers information from you when you visit the Site, uses and discloses that information, and how you can control the use and disclosure of your information, so you can make an informed decision about using the Site.
 
-  * Click here if you want no contact about anything from Environmental Defense or its partners and affiliates.
+##### Scope
+
+This privacy policy (the "Policy") applies only to the Site. If you click on a link to another website from the Site, the Policy will not apply to the information collected on that website. You acknowledge that the Action Network has no control over such third party websites and will not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to have been caused by or in connection with the use of or reliance on any content, advertising, products, or other materials on or available from such websites, nor from any information that you provide to such websites or that such websites collect from you. 
+
+The Policy applies to the collection and use of personal information, which means information that identifies, describes, or is capable of being associated with, a particular individual, including, but not limited to, an individual's name, address, email address, telephone number, Social Security Number, passport number, driver's license or state identification card number, education, employment, employment history, bank account number, credit card number, debit card number, or any other financial information ("Personal Information"). 
+
+Personal Information does not include "aggregate" information, which is data collected about the use of the Site or about a group or category of services or users, from which individual identities or other Personal Information has been removed. The Policy does not restrict or limit the Action Network's collection and use of aggregate information. 
+
+##### Information Collected by the Site
+
+You may voluntarily provide Personal Information to Corporate Action Network when you:
+
+  * Create an account/profile
+  * Enter your username/password
+  * Make a donation
+  * Fill out a form
+  * Send us an email
+  * Fill out a survey
+  * Leave comments/participate in discussion pages
+  * Sign up to host an event
+  * Create a group
+  * Conduct searches on the Site
+  * Sign up to receive email or text message alerts/updates
 
 
 
-[top]
+##### Public Forums
+
+If you disclose any information in comment boards, discussion pages or elsewhere on the Site, it becomes public information and can be read, collected, or used by others. Please exercise caution when disclosing any Personal Information, and refrain from publicly disclosing direct contact information such as your mailing address, phone number, or email address.
+
+##### Online Petitions, Events, and Forms
+
+When you sign an online petition, register for an event, or fill out a form, that action is public information. The Action Network may make the action, your name, city, state, and any comments you offer in connection with the action publicly available.
+
+In addition, when you take action through the Action Network for petition organized by a third party, information you submit through the Site as part of the form filling process will be made available to such third party. The Action Network has no ability to control, and shall have no responsibility for, how such third party uses your information it so obtains.
+
+##### Interactive Features
+
+When you create a profile, certain information regarding actions you take through the Site, such as joining a group, may be available to other users or be publicly available. 
+
+Information automatically collected when you visit and use the Site:
+
+  * Your computer's IP address
+  * Your browser type and operating system
+  * Your bandwidth speed
+  * Information about the software programs that are installed on your computer
+  * Web pages you were visiting immediately before and after you visited the Site
+  * Web pages that you view and links that you click on within the Site
+  * Standard server log information
+  * Information collected through cookies
+  * If you access the Site through a mobile device, the type of mobile device, your device's unique ID, the type of mobile Internet browser and operating system you use, and the location of your device
+
+
+
+This automatically collected information is considered aggregate information unless it is combined with Personal Information described above.
+
+##### Information that we collect from other sources
+
+The Action Network may access information about you from third-party sources and platforms, including:
+
+  * If you access third-party social networking sites (such as Facebook, Twitter or Google Plus) through the Site, your username and contact lists for those services
+  * Demographic data, such as age, gender and interests
+  * Unique identifiers, including mobile device identification numbers, that can identify the physical location of such devices in accordance with applicable law
+
+
+
+##### How We Use Collected Information
+
+We may use the collected information in various ways:
+
+  * Send users email or other electronic communications
+  * Allow third parties who have created actions to send users who have filled out those actions email or other electronic communications
+  * Track users' involvements in community discussions and use of the Site
+  * Fulfill users' requests for services and information
+  * Prevent illegal activities, enforce the Site's Terms of Use, and otherwise protect our rights and the rights of our users
+  * Any other purposes disclosed to you at the time the information is collected or pursuant to your consent
+
+
+
+The Action Network will only make Personal Information about users available to third parties as described below:
+
+  * To give third parties who have created actions the information of users who have filled out those actions
+  * To trusted third parties including vendors, consultants, and volunteers employed to perform Site-related services, including database management, maintenance services, analytics, data processing, and email and text message distribution. These third parties have access to users' Personal Information only to perform these tasks on our behalf, and on the condition that they will maintain the confidentiality of all Personal Information.
+  * To investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety or other rights and interests of any person, violations of the site's Terms of Use, or as otherwise required by law.
+  * When we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to comply with the law or legal process or respond to lawful requests, claims or legal authorities, including lawful subpoenas, warrants, or court orders.
+
+
+
+We may share aggregate information with third parties to help us develop content or services.
+
+To customize your experience on this Site and to simplify the Site's registration process, we provide you with the opportunity to access or interact with third-party services, such as Facebook, Twitter, and Google Plus. When you connect to the Site through these third-party services, we may share Personal Information about you with these third-party service providers and they may share Personal Information about you with us. 
+
+We may use data that we receive from these third-party service providers to:
+
+  * Create relationships automatically within the Site (e.g., replicate Twitter relationships with other Site users)
+  * Suggest relationships (e.g., suggest you connect with Facebook friends)
+  * Populate a list of potential friends to whom you can send emails
+  * Enhance and personalize your experience on the Site (e.g., import your profile picture, identify stories that are popular in your network, what your friends are saying about an article)
+
+
+
+We may provide Personal Information to third-party service providers to:
+
+  * Identify stories on which you have commented/which you have "liked" on the Site
+  * Identify events that you have indicated you will attend
+
+
+
+Note that if the Action Network discloses personal information (including a user's name, address or email) to a third party for direct marketing purposes, under California law Corporate Action Network must allow California users to request certain information about the disclosure. The California statute excludes from the definition of direct marketing the use of personal information (a) by bona fide tax exempt charitable or religious organizations to solicit charitable contributions, or (b) to raise funds from and communicate with individuals regarding politics and government. Our understanding is that the Action Network does not intend to disclose users' personal information to third parties for direct marketing purposes as defined in the statute.
+
+##### Cookies
+
+As is standard practice on many websites, we may set and access cookies, web beacons, Flash cookies, and other technologies on your computer. Please note that third parties, such as ad networks, advertising agencies, advertisers, and audience segment providers, may also set and access cookies, web beacons, Flash cookies, and other technologies on your computer when you visit the Site.
+
+Cookies are small amounts of information stored in files within your computer's browser. Web sites can access only the cookies that they have stored on your computer. For example, if Acme computer company stores a cookie on your browser, Acme may access its own cookie but not that of another company.
+
+The Action Network uses cookies for the following purposes:
+
+  * To help us recognize you as a previous visitor and save and remember any preferences that may have been set while you were visiting the Site. For example, we may save your login information so you don't have to sign in every time you visit the site;
+  * To help us customize the content you see when you visit the Site;
+  * To help measure and research the effectiveness of our interactive online content, features, and other communications; and To track Site analytics and use, and to improve Site services.
+
+
+
+We may also use web beacons (known as clear GIFs, web bugs, pixels, or action tags). These technologies are strings of code that deliver a tiny graphic image on a web page or in an email. Web beacons can recognize certain types of information on your computer such as cookies, the time and date a page is viewed, and a description of the page on which the web beacon is placed.
+
+We use web beacons for various tracking purposes, like determining whether or not you are logged into the Site and whether or not you are connected to a third-party service.
+
+Third parties also may use web beacons on the Site to receive auditing, research, and reporting information, or to understand your interests and select and deliver to you advertisements that are tailored to your interests.
+
+Some of the Site's third-party partners may use Flash cookies, otherwise known as local shared objects (LSOs), to track user behaviors in various ways. LSOs keep collections of cookie-like data stored in a directory on a user's computer, and are installed through Adobe's Flash video player.
+
+##### Collection of Information by Third Parties
+
+Third party vendors, such as Google DoubleClick, Yahoo Tremor and 24/7 RealMedia, may automatically collect information about your visits to this and other websites, your IP address, your ISP, and the browser you use to visit the Site. They may collect this information using cookies, clear gifs, or other technologies. These third parties may use this information to place ads on other websites or to better understand the usage and visitation of the Site and other websites tracked by these third parties. This Policy does not apply to, and we are not responsible for, cookies, clear gifs or other technologies used by these third parties, and we encourage you to check the privacy policies of advertisers and/or ad services to learn about their use of cookies and other technologies.
+
+##### Your Choices Regarding the Collection and Use of Your Information
+
+To reduce the amount of Personal Information that the Action Network collects from you and limit its use, you can take one or more of the following steps:
+
+  * Opt-out of receiving emails from the Action Network
+  * Opt-out of receiving emails from third parties for whom you have filled out actions
+  * Change your browser to reject cookies
+  * Opt-out of allowing the Action Network to collect your geographic location by changing the location settings on your mobile device
+  * Opt-out of linking your activity on the Site to your social networking sites, such as Facebook, Twitter, and Google Plus
+  * De-activate your profile (but your comments will still remain on the Site)
+
+
+
+##### Changes to your Information
+
+To change any Personal Information that you provided as part of your account/profile, [click here](https://web.archive.org/users/edit).
+
+##### Visitors from Outside the United States
+
+The Site’s offices and data processing equipment are located in the United States. If you visit the Site from another country, please be aware that information you provide to us or that we obtain through your use of the Site may be transferred to and processed in the United States and will be subject to United States law. United States privacy and data protection laws may not be equivalent to the laws in your country of residence. By using the Site or providing us with information, you consent to the collection, transfer, storage, and processing of information to and in the United States, and acknowledge that Corporate Action Network is not bound by the privacy and data protection laws of any other country.
+
+##### Children Under Age 13
+
+We encourage parents to monitor their children's Internet usage and to caution them about the dangers of sharing Personal Information on the Internet. Although we welcome children under age 13 to visit the Site with parental supervision, children under age 13 should not visit the site on their own and should not submit any Personal Information to the Site. We do not knowingly collect Personal Information from children under age 13. If we learn that we have collected any Personal Information from a child under age 13 without verifiable parental consent, we will delete that information from our database as soon as possible.
+
+##### Changes to the Privacy Policy
+
+The Action Network may update the Policy at any time to reflect changes in our practices. If we modify the Policy, we will place a prominent notice on the Site and/or send a notice to the primary email address provided in your registration with the Site. As part of any modification of the Policy, we will update the "last revised" date above.
+
+##### Questions
+
+If you have any questions about the Policy, please contact [contact@corporateactionnetwork.org](mailto:contact@corporateactionnetwork.org).
