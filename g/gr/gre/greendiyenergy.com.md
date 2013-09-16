@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greendiyenergy.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515065638id_/http%3A//greendiyenergy.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greendiyenergy.com privacy policy that was archived on 2013-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130916075418id_/http%3A//greendiyenergy.com/privacy.php) for the most accurate reproduction.*
 
 # Green DIY Energy
 
@@ -51,6 +51,8 @@ We offer the use of a secure server. All supplied sensitive/credit information i
 
 After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
+Despite all of these efforts to protect your information, no data transmission over the Internet can be guaranteed to be 100% secure.  We cannot, therefore, warrant or ensure the security of any information you transmit to us or from our online products or services, and you do so at your own risk.  Once we receive your transmission, we make our best effort to ensure its security on our systems.
+
 **Do we use cookies?**
 
 Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
@@ -65,10 +67,6 @@ We may share information to third parties who assist us in operating our website
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-**California Online Privacy Protection Act Compliance**
-
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
-
 **Children's Online Privacy Protection Act Compliance**
 
 We are in compliance with the requirements of COPPA (Children's Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
@@ -81,7 +79,7 @@ We have taken the necessary steps to ensure that we are compliant with the CAN-S
 
 Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at 
 
-_[http://www.GreenDIYenergy.net/terms.php](http://www.greendiyenergy.net/terms.php)._
+_<http://www.greendiyenergy.com/terms.php>._
 
 **Your Consent**
 
@@ -93,11 +91,12 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using the information found at this link: http://www.GreenDIYenergy.net/contactus.php    
-PO Box 740536  
-Arvada, CO 80006  
-USA  
-info@GreenDIYenergy.net
+If there are any questions regarding this privacy policy you may contact us using the information found at this link: http://www.greendiyenergy.com/contactus.php    
+3879 E. 120th Avenue  
+Suite 323  
+Thornton, CO 80233  
+USA   
+info@greendiyenergy.com
 
 **Privacy Policy Customer Pledge**
 
@@ -110,6 +109,6 @@ Privacy Alliance
 Respectfully,
 
 GreenDIYenergy   
-www.GreenDIYenergy.net
+www.GreenDIYenergy.com
 
 [](http://www.bbb.org/denver/business-reviews/80668-00/wwwgreendiyenergycom-90102770) 
