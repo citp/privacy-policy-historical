@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaydar.eu.com privacy policy that was archived on 2012-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120806234908id_/http%3A//www.gaydar.eu.com/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaydar.eu.com privacy policy that was archived on 2013-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130917011002id_/http%3A//www.gaydar.net/info/privacy.asp) for the most accurate reproduction.*
 
 # Gaydar - What you want, when you want it
 
@@ -35,7 +35,7 @@ This Privacy Policy is incorporated in and subject to the Site [Terms and Condit
 
       * i. amend Your preferences accordingly in Your Profile or Settings;
       * ii. use the facility contained in any such communication; or
-      * iii.email us at [privacypolicy@qsoft.co.uk](mailto:privacypolicy@qsoft.co.uk) stating Your Profile name, the Site You are registered with and who You do not wish to receive further communications from.
+      * iii.email us at [privacypolicy@cpcconnect.co.uk](mailto:privacypolicy@cpcconnect.co.uk) stating Your Profile name, the Site You are registered with and who You do not wish to receive further communications from.
   * 4\. Will we pass on Your Data to third parties?
 
     * 4.1 We may pass Your Data to other parties as follows: 
@@ -55,7 +55,7 @@ This Privacy Policy is incorporated in and subject to the Site [Terms and Condit
   * 7\. Access to and Updating Your Data
 
     * 7.1 Where You are a Member, You may access and update Your Data contained in Your Member Account accessed by the "Settings" link. You must make sure that You update Your Data as soon as possible with any and all relevant changes.
-    * 7.2 If You are not a Member but would like to update Your Data, then please contact Us at [privacypolicy@qsoft.co.uk](mailto:privacypolicy@qsoft.co.uk) setting out Your Profile name, the Site to which you are registered and the details that You wish to change.
+    * 7.2 If You are not a Member but would like to update Your Data, then please contact Us at [privacypolicy@cpcconnect.co.uk](mailto:privacypolicy@cpcconnect.co.uk) setting out Your Profile name, the Site to which you are registered and the details that You wish to change.
   * 8\. Other links
 
     * 8.1 Please be aware that the Site may link to other web sites that may be accessed by You through Our Site. We are not responsible for the data policies, content or security of these linked web sites. We do not have any control over the use to which third parties may put Your Data where You choose to purchase products or services or otherwise to contact them via this Site.
@@ -64,10 +64,10 @@ This Privacy Policy is incorporated in and subject to the Site [Terms and Condit
     * 9.1 This Site is accessible via the internet and therefore may potentially be accessed by anyone around the world. Other Members may also be or access the Site from outside the European Economic Area. This means that, where You post Your Data on the Site, this could be accessed from anywhere around the world and therefore a transfer of Your Data outside of the European Economic Area may be deemed to have occurred. You consent to such transfer of Your Data for and by way of this purpose.
   * 10\. Contact Us
 
-    * 10.1 If You have any comments or queries in connection with Our privacy policy, please contact Us by email at [privacypolicy@qsoft.co.uk](mailto:privacypolicy@qsoft.co.uk), or write to Us at QSoft Consulting Ltd, PO Box 113, Twickenham, TW1 4WY, stating Your Profile name, the Site to which You are registered and/or to which Your complaint relates.
+    * 10.1 If You have any comments or queries in connection with Our privacy policy, please contact Us by email at [privacypolicy@cpcconnect.co.uk](mailto:privacypolicy@cpcconnect.co.uk), or write to Us at CPC Connect Ltd, PO Box 113, Twickenham, TW1 4WY, stating Your Profile name, the Site to which You are registered and/or to which Your complaint relates.
 
 
 
 For banner advertising information contact [advertising@gaydar.net](mailto:advertising@gaydar.net)
 
-QSoft Consulting Limited is registered in England and Wales. Registration Number: 3472519. Registered Office: 1 The Green, Richmond, Surrey, TW9 1PL, United Kingdom 
+CPC Connect Limited is registered in England and Wales. Registration Number: 8449494. Registered Office: Fairfax House, 15 Fulwood Place, London, WC1V 6AY, United Kingdom 
