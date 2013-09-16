@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the foodgawker.com privacy policy that was archived on 2011-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110228183300id_/http%3A//foodgawker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodgawker.com privacy policy that was archived on 2013-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130916143644id_/http%3A//foodgawker.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | foodgawker
+# privacy policy | foodgawker
+
+(already registered? please [login](https://web.archive.org/login/?redirect_to=%2Fprivacy-policy%2F "Login")) 
+
+## Register
 
 **Information that is gathered from visitors**
 
