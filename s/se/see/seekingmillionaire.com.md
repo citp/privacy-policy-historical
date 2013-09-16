@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the seekingmillionaire.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615034302id_/http%3A//www.seekingmillionaire.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seekingmillionaire.com privacy policy that was archived on 2013-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130916051140id_/http%3A//www.seekingmillionaire.com/privacy.php) for the most accurate reproduction.*
 
-# Free Millionaire Dating - Wealthy Rich Men & Beautiful Singles Online Personals
+# SeekingMillionaire - The exclusive millionaire dating community
 
-## 
+## Privacy Policy
 
 SeekingMillionaire.com respects your privacy. All personal information you submitted to SeekingMillionaire.com will be kept in the strictest confidence.
 
@@ -38,6 +38,10 @@ Except as described in this privacy policy, we do not disclose information about
 
 We employ other companies and individuals to perform functions on our behalf. Examples may include hosting our web servers, analyzing data, providing marketing services, processing credit card payments, and other services. These companies may have access to your personal information as necessary to perform their functions, but they may not share that information with any third party.
 
+### Disclosure for Accounts Payable or Collections
+
+It is your duty to make sure that your keep your account(s) in good standing with us.  If you have an outstanding balance, or if you dispute you payment to us with your credit card or financial institution for any reason, please note that all information collected from your activity on our website may be disclosed to the bank and/or collections agency we work with for the purposes of establishing proof of user’s identify, proof of use, proof that service was provided, and / or collecting any outstanding debt owed to us.
+
 ### Updating Account Information
 
 SeekingMillionaire.com allows you to change your personal information at any time. To do so, simply logon to SeekingMillionaire.com with your username and password, and you will be able to update the information you have submitted.
@@ -46,14 +50,14 @@ SeekingMillionaire.com allows you to change your personal information at any tim
 
 When you place an order online, your personal details and credit card information are encrypted using SSL encryption techology before being sent over the Internet. Although we cannot guarantee encryption or the privacy of your personal details, SSL makes it very difficult for your information to be stolen or intercepted while being transferred.
 
-Our credit card transactions are processed by [PayPal](http://www.paypal.com/) or [MultiCards](http://www.multicards.com/). All information sent to PayPal or MultiCards is in the secure SSL environment, which will protect it against disclosure to third parties. When we receive your order, it is on an SSL server. For further information about PayPal's privacy policy, please click [HERE](http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside). For MultiCards' privacy statement, please click [HERE](http://www.multicards.com/pages/privacy.html).
+Our credit card transactions are processed by [MultiCards](http://www.multicards.com/). All information sent to MultiCards is in the secure SSL environment, which will protect it against disclosure to third parties. When we receive your order, it is on an SSL server. For MultiCards' privacy statement, please click [HERE](https://www.multicards.com/en/privacy.html).
 
 ### Cookies
 
-To enhance your experience at SeekingMillionaire.com and to access member services, we use a feature on your Internet browser called a "cookie". Cookies are small files that your web browser places on your computer's hard drive. We use cookies for remembering user preferences, user sessions, tracking visits to understand visitor behavior, and planning for increased loads. Because of our use of cookies, we can deliver a faster services and a more personalized website experience. You have the option of setting your browser to reject cookies. However, doing so will hinder your ability to logon or use member services offered on our website.
+To enhance your experience at SeekingMillionaire.com and to access member services, we use a feature on your Internet browser called a 'cookie'. Cookies are small files that your web browser places on your computer's hard drive. We use cookies for remembering user preferences, user sessions, tracking visits to understand visitor behavior, and planning for increased loads. Because of our use of cookies, we can deliver a faster services and a more personalized website experience. You have the option of setting your browser to reject cookies. However, doing so will hinder your ability to logon or use member services offered on our website.
 
 ### Privacy Policy Changes
 
-If we decide to change our privacy policy, we will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. If at any time you have questions or concerns about our privacy policy, please feel free to email us at [**privacy(at)seekingmillionaire.com**](mailto:privacy@seekingmillionaire.com).
+If we decide to change our privacy policy, we will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. If at any time you have questions or concerns about our privacy policy, please feel free to email us at **privacy(at)SeekingMillionaire.com**
 
 SeekingMillionaire.com uses reasonable precautions to keep personal information disclosed to us secure. However, we are not responsible for any breach of security. This privacy policy is not intended to, and does not, create any contractual or other legal rights in or on behalf of any party.
