@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenfingers.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601202033id_/http%3A//greenfingers.com/articledisplay.asp%3Fid%3D1287) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenfingers.com privacy policy that was archived on 2013-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130916112330id_/http%3A//www.greenfingers.com/articledisplay.asp%3Fid%3D1287) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -94,12 +94,12 @@ OUR DEAL OF THE WEEK
 ---  
 HURRY THESE DEALS DON’T LAST LONG!   
   
-[](https://web.archive.org/superstore/product.asp?dept_id=200746&pf_id=LT0936D "Caldwell Deluxe Outdoor Fireplace") SAVE   
-57%  
+[](https://web.archive.org/superstore/product.asp?dept_id=200308&pf_id=LT2425D "Botanico Antique Cream Arch") SAVE   
+65%  
   
 ---  
-| Usual Price 299.99 |  This Week Only  
-129.99  
+| Usual Price 19.99 |  This Week Only  
+6.99  
 ---|---  
   
   
