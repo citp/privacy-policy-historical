@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the join-true.com privacy policy that was archived on 2013-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130305220524id_/http%3A//www.true.com/privacy.htm%3Fsvw%3Dhomepage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the join-true.com privacy policy that was archived on 2013-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130916074621id_/http%3A//www.true.com/privacy.htm%3Fsvw%3Dhomepage) for the most accurate reproduction.*
 
 # True | Privacy & Use Policy
 
@@ -85,7 +85,7 @@ Your TRUE.com account information is password protected so that only you have ac
 We strongly recommend that you do not divulge your password to anyone.  TRUE will never ask you for your password in an unsolicited phone call or email.  Also, remember to log out of your TRUE.com account and close your browser window when you have finished your session.  This will help to ensure that others cannot access your Personal Information and correspondence if you share a computer with someone else or are using a computer in a public place. 
 
 **Opt-Out**  
-If you change your mind about receiving special promotions and other information from TRUE, simply log into TRUE.com, visit your [email options](https://web.archive.org/web/20130305220524id_/http%3A//www.true.com/emailoptions.htm) and specify the types of correspondence you'd like to receive.  You may also opt-out of receiving special promotions and other information from TRUE by following the unsubscribe instructions at the end of the applicable promotional email(s) or by sending an email to [customercare@true.com](mailto:customercare@true.com). 
+If you change your mind about receiving special promotions and other information from TRUE, simply log into TRUE.com, visit your [email options](https://web.archive.org/web/20130916074621id_/http%3A//www.true.com/emailoptions.htm) and specify the types of correspondence you'd like to receive.  You may also opt-out of receiving special promotions and other information from TRUE by following the unsubscribe instructions at the end of the applicable promotional email(s) or by sending an email to [customercare@true.com](mailto:customercare@true.com). 
 
 **Contacting TRUE**  
 You may reach us at: 
