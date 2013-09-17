@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lessannoyingcrm.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528183917id_/http%3A//www.lessannoyingcrm.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lessannoyingcrm.com privacy policy that was archived on 2013-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130917174230id_/https%3A//www.lessannoyingcrm.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy and Security Policies
 
@@ -32,7 +32,11 @@ You are free to change, update, correct, or remove your personal information fro
 
 Less Annoying CRM uses third-party vendors/hosting partners to provide the hardware, networking, storage, and other technology needed to run the CRM. Less Annoying CRM, however, owns the code, databases, and the CRM application. However, you, the user, maintain ownership of any data that you enter into the CRM system. 
 
-In the event of an ownership dispute amongst users within a single CRM account, the data in the CRM is owned by the primary user on the account. The person who signs up for the service initially will be designated the primary user by default, but this user may request at any time that another user be given this status by contacting us at info@lessannoyingcrm.com. 
+Each account has a single owner who will have control in the event of an ownership dispute amongst users within a single CRM account. The person who signs up for the service initially will be designated as the owner by default, but this user may request at any time that another user be given this status by contacting us at info@lessannoyingcrm.com. 
+
+Your identity is tied to the email address that you use to log in. If you forget your password, or there is an ownership dispute, whoever has access to the login email address for a user is considered to be the owner of that user's account. Anytime we make important changes to your account (like changing ownership) we will verify your identiy either by requiring you to log in and submit a contact form, or by sending you a verification email. You must have access to your email account in order to be guaranteed access to the CRM. 
+
+If the owner of a multi-user account leaves the company, it may be necessary to make a different user the owner. If this situation arises, we will first contact the current owner for permission. If the current owner denies permission, then we will not switch ownership. If the owner doesn't reply, we will continue trying to contact them for 90 days. If the owner has not responded after 90 days and a different member of the CRM account can demonstrate to us that they should in fact be the rightful owner of the account, we will transfer ownership to them. If the new owner did not previously have access to all of the data in the CRM, we will not give them access to any data that they could not previously see. 
 
 Because we store your information in multiple locations, including redundant back-ups, your information may remain on our servers after you delete your account. However, this information will never be accessed or used for any reason without your express consent. 
 
