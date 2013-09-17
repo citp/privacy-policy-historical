@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iamwired.net privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531144804id_/http%3A//iamwired.net/privacy.html%3FKeepThis%3Dtrue%26TB_iframe%3Dtrue%26height%3D400%26width%3D800) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iamwired.net privacy policy that was archived on 2013-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130917152422id_/http%3A//www.iamwired.net/privacy.html%3FKeepThis%3Dtrue%26TB_iframe%3Dtrue%26height%3D400%26width%3D800) for the most accurate reproduction.*
 
 # 
 
