@@ -1,10 +1,18 @@
-<!--The following is the downloaded HTML source of the bluekangaroo.com privacy policy that was archived on 2013-05-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130513103726id_/http%3A//www.bluekangaroo.com/page/policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bluekangaroo.com privacy policy that was archived on 2013-09-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130917024321id_/http%3A//www.bluekangaroo.com/page/policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
-    <link rel="stylesheet" type="text/css" href="/assets/80773b4c/css/choozon.css">
-<script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://stats.bluekangaroo.com/piwik.js"></script>
-<script type="text/javascript" src="/assets/script-0-5a625949.js?1368439840"></script>
+    <link rel="stylesheet" type="text/css" href="http://assets.bluekangaroo.com/12/assets/c2d5097c/css/choozon.css">
+<script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://assets.bluekangaroo.com/12/assets/658ccb8c/jquery.min.js"></script>
+<script type="text/javascript" src="http://assets.bluekangaroo.com/12/assets/c2d5097c/js/bootstrap-alert.js"></script>
+<script type="text/javascript" src="http://assets.bluekangaroo.com/12/assets/c2d5097c/js/bootstrap-modal.js"></script>
+<script type="text/javascript" src="http://assets.bluekangaroo.com/12/assets/c2d5097c/js/bootstrap-dropdown.js"></script>
+<script type="text/javascript" src="http://assets.bluekangaroo.com/12/assets/c2d5097c/js/bootstrap-typeahead.js"></script>
+<script type="text/javascript" src="http://assets.bluekangaroo.com/12/assets/c2d5097c/js/bootstrap-button.js"></script>
+<script type="text/javascript" src="http://assets.bluekangaroo.com/12/assets/c2d5097c/js/choozon.js"></script>
+<script type="text/javascript" src="http://assets.bluekangaroo.com/12/assets/c2d5097c/js/pagination.js"></script>
+<script type="text/javascript" src="http://assets.bluekangaroo.com/12/assets/c2d5097c/js/jquery.iecors.js"></script>
+<script type="text/javascript" src="http://stats.bluekangaroo.com/piwik.js"></script>
 <title>Blue Kangaroo - Privacy Policy</title>
   <meta name="description" content="Blue Kangaroo - Privacy Policy">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -75,7 +83,7 @@
       <div class="bk-location">
   <span class="brand">Location</span>
   <form class="ajax navbar-form pull-left jSubmitByTypeahead" action="/user/setLocation?reload=1" method="post">
-<div style="display:none"><input type="hidden" value="a82137ed94d2e11c6aab0b750fc03e419e2790fa" name="zii_t"></div>    <input class="input-xxlarge span2" data-provide="typeahead" autocomplete="off" placeholder="City or Zip" data-items="10" data-nullable="1" data-source="//geo.bluekangaroo.com/site/autocomplete?format=title&amp;types=city,zipcode&amp;term=" type="text" value="94107, San Francisco, CA" name="location" id="location">  </form></div>
+<div style="display:none"><input type="hidden" value="72aa08852832f587ae61f529f105c851e7340ebf" name="zii_t"></div>    <input class="input-xxlarge span2" data-provide="typeahead" autocomplete="off" placeholder="City or Zip" data-items="10" data-nullable="1" data-source="//geo.bluekangaroo.com/site/autocomplete?format=title&amp;types=city,zipcode&amp;term=" type="text" name="location" id="location">  </form></div>
     </div>
   </div>
 </div>
@@ -321,7 +329,7 @@
   <script type="text/javascript">
     var ChoozOn = {
       csrf_name: 'zii_t',
-      csrf_token: 'a82137ed94d2e11c6aab0b750fc03e419e2790fa'
+      csrf_token: '72aa08852832f587ae61f529f105c851e7340ebf'
     }
   </script>
   <a class="ajax" href="/contact/feedback" rel="nofollow"><div class="feedback-btn"></div></a>
@@ -338,7 +346,7 @@
   <div class="modal-body">
     <div class="full-view">
       <form class="ajax" id="confirmationDialog" action="/site/page" method="post">
-<div style="display:none"><input type="hidden" value="a82137ed94d2e11c6aab0b750fc03e419e2790fa" name="zii_t"></div>      <div style="margin-top: 20px">
+<div style="display:none"><input type="hidden" value="72aa08852832f587ae61f529f105c851e7340ebf" name="zii_t"></div>      <div style="margin-top: 20px">
         <span id="action_confirmation_message">Are you sure you want to do this action?</span>
         <br>
         <br>
@@ -357,21 +365,8 @@
 $('#confirmationSubmit').click(function(){
       $('#confirmationModal').modal('hide');
     });
-var choozonToken={token_value:'a82137ed94d2e11c6aab0b750fc03e419e2790fa',token_name:'zii_t'}
+var choozonToken={token_value:'72aa08852832f587ae61f529f105c851e7340ebf',token_name:'zii_t'}
 jQuery(function($) {
-      if (typeof window.navigator != 'undefined'
-        && typeof window.navigator.geolocation != 'undefined'
-        && typeof window.navigator.geolocation.getCurrentPosition != 'undefined'
-      ) {
-        window.navigator.geolocation.getCurrentPosition(function(position) {
-          var latlng = position.coords.longitude+','+position.coords.latitude;
-          $.getJSON('/user/setLocation', {location:latlng}, function(data){
-            if (typeof data != 'undefined' && typeof data.location != 'undefined') {
-              $('#location').val(data.location);
-            }
-          });
-        }, function(error){/*Do nothing*/});
-      }
 
 				try {
 					var piwikTracker = Piwik.getTracker("http://stats.bluekangaroo.com" + "/piwik.php", 1);
@@ -417,5 +412,5 @@ if ($('.level1 li a').hasClass('active')) {$('.level2.active').show();};
 
 
   <script type="text/javascript">
-    var ChoozOnScripts = ['http://stats.bluekangaroo.com/piwik.js','GoogleAnalytics','detect_user_location','PiwikAnalytics','IE_placeholder','corporate_menu','confirmationSubmit','token'];
+    var ChoozOnScripts = ['http://stats.bluekangaroo.com/piwik.js','GoogleAnalytics','confirmationSubmit','token','PiwikAnalytics','IE_placeholder','corporate_menu'];
   </script></body></html>
