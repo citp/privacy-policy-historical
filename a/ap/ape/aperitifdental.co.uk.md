@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aperitifdental.co.uk privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526143542id_/http%3A//legacy.ybsitecenter.com/uk/templates/creator/common-file-library2/Lemon/en/gfx/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aperitifdental.co.uk privacy policy that was archived on 2013-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130917135823id_/http%3A//static01.cdn.ybsitecenter.com/template/html/privacy-policy.html%3Fv%3Dv4.17.1) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,7 +24,7 @@ The information collected and held may include but is not limited to:
 
 ## 1c.Using cookies or other on-device storage
 
-Cookies are information files stored on your computer, tablet or smartphone that help websites remember who you are and information about your visit. For further information (including how to opt out of cookies) please go to the [Cookie Policy](https://web.archive.org/web/20130526143542id_/http%3A//legacy.ybsitecenter.com/uk/templates/creator/common-file-library2/Lemon/en/gfx/cookie-policy.html).
+Cookies are information files stored on your computer, tablet or smartphone that help websites remember who you are and information about your visit. For further information (including how to opt out of cookies) please go to the [Cookie Policy](http://static01.cdn.ybsitecenter.com/template/html/cookie-policy.html).
 
 ## 2.How information collected is used
 
@@ -47,7 +47,7 @@ Information may be collected about activity on the website, or other organisatio
 
 
 
-For these purposes, the information on the path you take to get to the website and on some of the pages you visit or use through the website, using cookies, web beacons and other on-device storage will be retained. For information about web beacons, or the organisation used (including how to decline their cookies), please go to the [Cookie Policy](https://web.archive.org/web/20130526143542id_/http%3A//legacy.ybsitecenter.com/uk/templates/creator/common-file-library2/Lemon/en/gfx/cookie-policy.html).
+For these purposes, the information on the path you take to get to the website and on some of the pages you visit or use through the website, using cookies, web beacons and other on-device storage will be retained. For information about web beacons, or the organisation used (including how to decline their cookies), please go to the [Cookie Policy](http://static01.cdn.ybsitecenter.com/template/html/cookie-policy.html).
 
 ## 2d.Analysing call volumes
 
@@ -80,4 +80,4 @@ The security of information is taken very seriously. Technology and security pol
 
 This privacy policy may be updated from time to time so you may want to check it each time you visit the website.
 
-© All rights reserved.
+© All rights reserved.2013.
