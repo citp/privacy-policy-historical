@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doctors.at privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614012713id_/http%3A//www.findica.com/users/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doctors.at privacy policy that was archived on 2013-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130917212200id_/http%3A//www.findica.com/users/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,9 +20,9 @@ Whenever you visit our Site, we may collect non-identifying information from you
 
 **3\. Use of Your Information**
 
-We will never sell, transfer or give your information to a third partywithout your permission. However, you agree that we may use your information:
+We may not sell, transfer or give your information to a third party in general cases. However, you agree that we may use your information:
 
-(a) To enhance or improve our users’ experiences.
+(a) To enhance or improve our usersï¿½ experiences.
 
 (b) To provide our Service to you.
 
@@ -36,11 +36,13 @@ We will never sell, transfer or give your information to a third partywithout yo
 
 (g) To email you newsletters, deals and 3rd party offers
 
+(h) To send your contact and request information to doctors or providers based on leads and surveys input. We compile nearby or other related doctors and send your information to them so that they can contact you directly. Findica may contact you and may use that information for other purposes.
+
 Additionally, we may give your information to law enforcement if we are compelled to by a court order, if there has been a violation of any US laws, EU laws or if a violation of the Terms of Service or Privacy Policy has occurred.
 
 **4\. Accessing, Editing, and Removing Your Information**
 
-After creating an account you may be able to edit information submitted through our Site or Service.Simply access your account through the Site and edit any information. However, you will be unable to opt of our data collection practices.If you want your information to be removed from our database please contact us. We will generally endeavour to delete our database of user information at regular intervals, but we cannot guarantee that your information has been or will be deleted immediately. Although some changes may occur immediately, information may still be stored in a web browser’s cache. We take no responsibility for stored information in your cache, or in other devices that may store information, and disclaim all liability of such. 
+After creating an account you may be able to edit information submitted through our Site or Service.Simply access your account through the Site and edit any information. However, you will be unable to opt of our data collection practices.If you want your information to be removed from our database please contact us. We will generally endeavour to delete our database of user information at regular intervals, but we cannot guarantee that your information has been or will be deleted immediately. Although some changes may occur immediately, information may still be stored in a web browserï¿½s cache. We take no responsibility for stored information in your cache, or in other devices that may store information, and disclaim all liability of such. 
 
 **5\. Cookies**
 
@@ -68,7 +70,11 @@ It is therefore necessary that you grant the third parties we may use in the cou
 
 (g) oAuth
 
-(h) Google Analytics and AdSense
+(h) Google Analytics, AdSense and other Google services
+
+(i) Paypal
+
+(j) Any other tools, software, ads, partners,providers that we use in our websites.
 
 **7\. Law Enforcement**
 
@@ -90,11 +96,11 @@ We use SSL Certificates to enhance the security of our Site and Services.However
 
 **11\. Your California and European Privacy Rights**
 
-Doctors.at permits residents of the State of California to use its Service, and complies with the California Business and Professions Code §§ 22575-22579. If you are a California resident you may request certain information regarding our disclosure of personal information to any third parties for their direct marketing purposes. Various provisions throughout this Privacy Policy address requirements of the Californian privacy statutes. Although we do not disseminate your information to third parties without permission, you must presume that we collect electronic information from all visitors. You may contact us at **contact@findica.com** with any questions. 
+Doctors.at permits residents of the State of California to use its Service, and complies with the California Business and Professions Code ï¿½ï¿½ 22575-22579. If you are a California resident you may request certain information regarding our disclosure of personal information to any third parties for their direct marketing purposes. Various provisions throughout this Privacy Policy address requirements of the Californian privacy statutes. Although we do not disseminate your information to third parties without permission, you must presume that we collect electronic information from all visitors. You may contact us at **contact@findica.com** with any questions. 
 
 **12\. Age Compliance**
 
-We intend to fully comply with COPPA and international laws respecting children’s privacy. Therefore, we do not collect or process any information for any persons under the age of 18. If you are under 18 and using our Site or Service, please stop immediately and do not submit any information to us. 
+We intend to fully comply with COPPA and international laws respecting childrenï¿½s privacy. Therefore, we do not collect or process any information for any persons under the age of 18. If you are under 18 and using our Site or Service, please stop immediately and do not submit any information to us. 
 
 **13\. International Transfer**
 
