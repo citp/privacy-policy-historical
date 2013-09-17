@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dressupkiss.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509134554id_/http%3A//www.dressupkiss.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dressupkiss.com privacy policy that was archived on 2013-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130917095851id_/http%3A//www.dressupkiss.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,9 +7,6 @@ WE DON'T HAVE EROTIC, PORNO AND ILLEGAL CONTENTS.
 CHILDREN CAN PLAY SAFELY.**
 
 dressupkiss.com takes your privacy seriously. This privacy policy describes how and why we obtain, store and process data which can identify you. We may update this policy from time to time and shall indicate on the web site when changes have been made. We appreciates our relationship with you, respects that your information is yours, and is committed to safeguarding your privacy when youre using our web site. The following describes our collection of and use of any information that we may collect from you.
-
-**Questions**  
-If you have any questions, Contact **admin@dressupkiss.com**
 
 **Your Privacy at dressupkiss.com**
 
@@ -28,7 +25,7 @@ We use third-party advertising companies to serve ads when you visit our website
 
 4.4) We will only pass on information about you as an individual (as opposed to aggregate information) to third parties overseas to enable us to perform services requested by you.   
   
-**5) Data Protection** | dressupkiss.com is registered with the Information Commissioner in the UK as a �data controller� in accordance with the provisions of the Data Protection Act 1998. Further details of the registration are available at www.dpr.gov.uk.  
+**5) Data Protection** | dressupkiss.com is registered with the Information Commissioner in the UK as a data controller in accordance with the provisions of the Data Protection Act 1998. Further details of the registration are available at www.dpr.gov.uk.  
 **6) Security** | Keeping information about you secure is very important to us and certain sections of the site may encrypt data using SSL or a comparable standard. However, no data transmission over the Internet can be guaranteed to be totally secure. As a result, whilst we strive to protect your personal information, we cannot ensure or warrant the security of any information which you send to us, and you do so at your own risk.  
-**8) Questions?** | If you have any questions or complaints relating to this Privacy Policy or how we use the personal information we have about you, please contact admin@dressupkiss.com. We will endeavour to respond to you promptly.  
+**7) Questions?** | If you have any questions or complaints relating to this Privacy Policy or how we use the personal information we have about you, please contact admin[AT]dressupkiss.com. We will endeavour to respond to you promptly.  
 | **Copyright 2008, Inc. All Rights Reserved**
