@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovelycharts.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511081830id_/http%3A//www.lovelycharts.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovelycharts.com privacy policy that was archived on 2013-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130917214804id_/http%3A//www.lovelycharts.com/privacy.php) for the most accurate reproduction.*
 
 # Lovely Charts | Privacy policy
 
