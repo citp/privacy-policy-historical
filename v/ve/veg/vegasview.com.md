@@ -1,12 +1,22 @@
-> *The following text is extracted and transformed from the vegasview.com privacy policy that was archived on 2012-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120825170339id_/http%3A//www.vegasview.com/information/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vegasview.com privacy policy that was archived on 2013-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130917055632id_/http%3A//www.vegasview.com/information/privacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Vegas View.com
 
-Select A Hotel:
+Plan Your Las Vegas 
 
-Check-In Date:
+Vacation: 
 
-Check-Out Date:
+Hotel 
+
+Flight & Hotel 
+
+Check-In: 
+
+Check-Out: 
+
+Need help? Call Us 24/7
+
+1.800.773.1124
 
   
 At VegasView.com, we are committed to protecting your privacy. We use the information we collect about you to process orders and to provide a more personalized travel experience. Please read on for more details about our privacy policy. 
