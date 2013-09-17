@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the letgame.net privacy policy that was archived on 2013-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130130061350id_/http%3A//letgame.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letgame.net privacy policy that was archived on 2013-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130917163710id_/http%3A//letgame.net/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | LetGame.net
 
 We respect your privacy and we are committed to safeguarding your privacy while online at our site The following discloses the information gathering and dissemination practices for this Web site.
 
