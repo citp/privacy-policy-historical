@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wootmanga.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116130909id_/http%3A//wootmanga.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wootmanga.com privacy policy that was archived on 2013-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130917131336id_/http%3A//wootmanga.com/privacy-policy) for the most accurate reproduction.*
 
-# » Privacy Policy - WootManga
+# Read Manga Online For Free
 
  
 
