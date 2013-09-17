@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluekangaroo.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513103726id_/http%3A//www.bluekangaroo.com/page/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluekangaroo.com privacy policy that was archived on 2013-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130917024321id_/http%3A//www.bluekangaroo.com/page/policy) for the most accurate reproduction.*
 
 # Blue Kangaroo - Privacy Policy
 
