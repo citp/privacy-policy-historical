@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gotoarcade.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601092025id_/http%3A//gotoarcade.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotoarcade.com privacy policy that was archived on 2013-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130917234834id_/http%3A//www.gotoarcade.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Play Free Fun Flash Games on GotoArcade.com
 
