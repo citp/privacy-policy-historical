@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myspicesage.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527073819id_/http%3A//www.myspicesage.com/page.html%3Fid%3D9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myspicesage.com privacy policy that was archived on 2013-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130917142104id_/http%3A//www.myspicesage.com/page.html%3Fid%3D9) for the most accurate reproduction.*
 
 # Privacy : MySpiceSage.com, Better spices, prices and information than the grocery!
 
@@ -17,4 +17,4 @@ We only log information such as IP addresses for security reasons, and for impro
 If you have any further questions regarding our privacy policy, please do not hesitate to [contact us](https://www.myspicesage.com/contact_us.html) at any time.  
 
 
-"This is one of the BEST websites to buy spices! The choices are awesome, shipping is fast and affordable, and the spices are fresh and delicious!" 
+"Fantastic selection, pricing, quality, and supply! The promotional offers seem too good to be true. It's great to get such quality spices, especially..." 
