@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the mangoapps.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516022318id_/http%3A//www.mangoapps.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mangoapps.com privacy policy that was archived on 2013-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130917154856id_/http%3A//www.mangoapps.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MangoApps
 
 At MangoApps, we recognize that privacy is very important. This document outlines the types of personal information we receive and collect when you use MangoApps's services, as well as some of the steps we take to safeguard information. 
-
-MangoApps adheres to the US Safe Harbor privacy principles which include: Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement. MangoApps is registered with the [U.S. Department of Commerce's Safe Harbor Program](http://www.export.gov/safeharbor/). 
 
 ## We collect personal information and other data
 
@@ -28,26 +26,16 @@ Except in limited circumstances, we do not share personal information with third
 
 MangoApps processes personal information on our servers in the United States of America and in other countries. In some cases, we process personal information on a server outside your own country. 
 
-## Privacy for European Union (EU) Citizens
+MangoApps uses a self-assessment approach to assure compliance with this privacy policy and periodically verifies that the policy is accurate, comprehensive for the information intended to be covered, prominently displayed, completely implemented and accessible. We encourage interested persons to raise any concerns using the contact information provided and we will investigate and attempt to resolve any complaints and disputes regarding use and disclosure of Personal Information in accordance with the Principles. If a complaint or dispute cannot be resolved through our internal process, we agree to dispute resolution using (an independent resource mechanism) as a third party resolution provider. 
 
-MangoApps complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. MangoApps has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view MangoApps's certification, please visit <http://www.export.gov/safeharbor/>
-
-MangoApps uses a self-assessment approach to assure compliance with this privacy policy and periodically verifies that the policy is accurate, comprehensive for the information intended to be covered, prominently displayed, completely implemented and accessible and in conformity with the Safe Harbor Principles. We encourage interested persons to raise any concerns using the contact information provided and we will investigate and attempt to resolve any complaints and disputes regarding use and disclosure of Personal Information in accordance with the Principles. If a complaint or dispute cannot be resolved through our internal process, we agree to dispute resolution using (an independent resource mechanism) as a third party resolution provider. 
-
-Questions, comments or complaints regarding MangoApps's Safe Harbor Policy or data collection and processing practices can be mailed or emailed to: 
+Questions, comments or complaints regarding data collection and processing practices can be mailed or emailed to: 
 
 **MangoApps**  
-4122 Factoria Blvd. SE, Suite 405  
+4122 Factoria Blvd. SE, Suite 450  
 Bellevue, WA 98006
 
 Effective date: August 1, 2011
 
-MangoApps has further committed to resolve disputed privacy complaints under the Safe Harbor agreement through a third-party, neutral dispute resolution provider: the BBB EU Safe Harbor Program operated by the Council of Better Business Bureaus. You may contact the BBB EU Safe Harbor Program for any unaddressed or unresolved complaint at: 
-
-**Council of Better Business Bureaus, Inc.**  
-BBB EU SAFE HARBOR  
-4200 Wilson Boulevard, Suite 800  
-Arlington, VA 22203, USA  
-
+MangoApps has further committed to resolve disputed privacy complaints through a third-party, neutral dispute resolution provider. 
 
 If you have any questions about this Policy, please feel free to [contact us](https://web.archive.org/contactus). 
