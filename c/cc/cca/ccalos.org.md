@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ccalos.org privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604235426id_/http%3A//ccalos.org/ppolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccalos.org privacy policy that was archived on 2013-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130917065239id_/http%3A//ccalos.org/ppolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
