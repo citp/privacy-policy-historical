@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animalhost.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610224918id_/http%3A//bestialitysection.com/required/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animalhost.com privacy policy that was archived on 2013-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130917135355id_/http%3A//www.bestialitysection.com/required/privacy.php) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
