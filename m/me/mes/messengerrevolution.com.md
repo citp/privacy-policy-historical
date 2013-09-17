@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the messengerrevolution.com privacy policy that was archived on 2012-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120804014326id_/http%3A//messengerrevolution.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the messengerrevolution.com privacy policy that was archived on 2013-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130917055250id_/http%3A//www.messengerrevolution.com/Privacy.php) for the most accurate reproduction.*
 
 # Privacy
 
@@ -58,4 +58,4 @@ Where to Direct Questions About Our Privacy Policy: If you have any questions ab
 
 Revisions to This Policy: Our company reserves the right to revise, amend, or modify this policy, our Terms Of Service agreement, and our other policies and agreements at any time and in any manner, by updating this posting.
 
-[support@youwealthrevolution.com](mailto:support@youwealthrevolution.com)
+[messengerrevolution@gmail.com](mailto:messengerrevolution@gmail.com)
