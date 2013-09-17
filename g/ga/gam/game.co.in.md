@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the game.co.in privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518072449id_/http%3A//www.agame.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the game.co.in privacy policy that was archived on 2013-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130917162328id_/http%3A//www.agame.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Free online games at Agame.com
 
@@ -36,9 +36,7 @@ The information that our Websites collect includes (among others) the following:
 
 2.5    SPIL may share demographic information (certain anonymous information about you as a user, such as age and country) with certain ad network providers to help them deliver more relevant advertisements through their ad networks. The use of cookies, web beacons, or similar technologies by such third parties as ad network providers is subject to their own privacy policies, not this Privacy Policy. 
 
-2.6    Most browsers are initially set to accept cookies, but you can (re)set your browser to refuse all cookies or to indicate when a cookie is being sent. You can opt out of receiving cookies from certain third-party advertising networks by resetting your browser. You may also use the following link to the Network Advertising Initiatives cookie opt-out page, which can be found [here](http://www.networkadvertising.org/managing/opt_out.asp). However, some features and services may not function properly if cookies are disabled. 
-
-**b)    ** **Personal Data, Including Your E-mail Address**
+2.6    Most browsers are initially set to accept cookies, but you can (re)set your browser to refuse all cookies or to indicate when a cookie is being sent. You can opt out of receiving cookies from certain third-party advertising networks by resetting your browser. You may also use the following link to the Network Advertising Initiatives cookie opt-out page  or the link to the European Interactive Digital Advertising Alliance (EDAA) opt-out page . However, some features and services may not function properly if cookies are disabled. 
 
 2.7    You may choose to register with us for a better game experience and/or to create a public or semi-public profile for participating in our social gaming network. This includes, for example: overviews of high scores, achievements listings, and individual game recommendations on the Websites. When you register with us, you provide us with certain personal information, such as a username, date and month of birth, and your email address. The information you disclose in that respect may also become publicly accessible. We provide you with privacy settings that restrict other users from accessing your information; namely, our network architecture and your privacy settings allow you to make informed choices about who has access to your information. We allow you to choose the information you provide to friends and networks through our Websites. When your privacy settings permit it, other users may be able to see and supplement your profile (e.g., by posting comments). 
 
