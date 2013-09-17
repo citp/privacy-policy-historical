@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gocarehealth.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608015804id_/http%3A//www.gocarehealth.com/%3Fpage_id%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gocarehealth.com privacy policy that was archived on 2013-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130917044036id_/http%3A//www.gocarehealth.com/%3Fpage_id%3D2) for the most accurate reproduction.*
 
-# Be Healthy » Privacy Policy
+# gocaehealth.com » Privacy Policy
 
 ### About this Notice
 
