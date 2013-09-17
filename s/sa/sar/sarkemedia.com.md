@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the sarkemedia.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527212817id_/http%3A//www.sarkemedia.com/sarah-arrow-sark-e-media-our-commitment-to-your-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sarkemedia.com privacy policy that was archived on 2013-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130918010156id_/http%3A//www.sarkemedia.com/sarah-arrow-sark-e-media-our-commitment-to-your-privacy) for the most accurate reproduction.*
 
-# Sarah Arrow / Sark e-Media our commitment to your privacy
+# Sarah Arrow / Sark e-Media our commitment to your privacy - Finding Social Media Campaign Success
 
-This site is owned and operated by [Sarah](http://www.sarkemedia.com/about/ "Sarah") Arrow / Sark e-media. Your [privacy](http://www.sarkemedia.com/privacy/ "privacy") on the Internet is of the utmost importance to us. At [Sarah](http://www.sarkemedia.com/about/ "Sarah") Arrow / Sark e-media, we want to make your experience online satisfying and safe.
+This site is owned and operated by Sarah Arrow / Sark e-media. Your privacy on the Internet is of the utmost importance to us. At Sarah Arrow / Sark e-media, we want to make your experience online satisfying and safe.
 
-Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the capture and use of that information. This [privacy](http://www.sarkemedia.com/privacy/ "privacy") statement discloses what information we gather and how we use it.
+Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
 
-INFORMATION [Sarah Arrow](http://www.sarkemedia.com/about/ "Sarah Arrow") / Sark e-media GATHERS AND TRACKS
+INFORMATION Sarah Arrow / Sark e-media GATHERS AND TRACKS
 
-[Sarah Arrow](http://www.sarkemedia.com/about/ "Sarah Arrow") / Sark e-media gathers two types of information about users:
+Sarah Arrow / Sark e-media gathers two types of information about users:
 
 Information that users provide through optional, voluntary submissions. These are voluntary submissions to receive our electronic newsletters, to participate in our message boards or forums, to email a friend, and from participation in polls and surveys:
 
