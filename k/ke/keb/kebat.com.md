@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kebat.com privacy policy that was archived on 2013-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130411212248id_/http%3A//www.kebat.com/privacy.php%3Fqt%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kebat.com privacy policy that was archived on 2013-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130917232906id_/http%3A//kebat.com/privacy.php%3Fqt%3D) for the most accurate reproduction.*
 
 # kebat.com
 
