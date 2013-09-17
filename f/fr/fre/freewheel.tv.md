@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freewheel.tv privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622072838id_/http%3A//www.freewheel.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewheel.tv privacy policy that was archived on 2013-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130917100225id_/http%3A//www.freewheel.tv/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FreeWheel
 
