@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalpassport.org privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619133312id_/https%3A//digitalpassport.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalpassport.org privacy policy that was archived on 2013-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130918001253id_/https%3A//www.digitalpassport.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Digital Passport
 
