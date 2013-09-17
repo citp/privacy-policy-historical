@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastsubmitarticles.com privacy policy that was archived on 2013-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130325080305id_/http%3A//fastsubmitarticles.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastsubmitarticles.com privacy policy that was archived on 2013-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130917030716id_/http%3A//www.fastsubmitarticles.com/privacy.asp) for the most accurate reproduction.*
 
 # Article Submission Service: Privacy Policy
 
