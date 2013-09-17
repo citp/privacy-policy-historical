@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jooria.com privacy policy that was archived on 2013-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130403194056id_/http%3A//www.jooria.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jooria.com privacy policy that was archived on 2013-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130917185210id_/http%3A//www.jooria.com/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
