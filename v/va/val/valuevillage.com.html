@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the valuevillage.com privacy policy that was archived on 2013-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130602122210id_/http%3A//www.valuevillage.com/Privacy-Policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the valuevillage.com privacy policy that was archived on 2013-09-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130918002213id_/http%3A//www.valuevillage.com/Privacy-Policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><title>
 	
@@ -31,7 +31,7 @@
     
 </head>
 <body>
-    <form method="post" action="/Privacy-Policy.aspx" id="form1">
+    <form method="post" action="Privacy-Policy.aspx" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJODk5OTg5MTY2ZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUKY3RsMDAkRmluZGtIJ6aZaA7x8HejE6JtagTcj6reJP2qtlc80iftuUtm">
 
 <input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwLGw53/BAKBvYrEAQLZn7CMBGm9l9lONkDGwuFcJzwFG3bM0R131FjjDAhnrYVyn6GJ">
@@ -54,7 +54,7 @@
                             </td>
                             <td align="right" valign="middle" width="154" height="91" rowspan="2">
                                 <a href="/Default.aspx">
-                                    <img src="/Content/images/nav_logo.gif" alt="Savers - Good deeds. Great deals." border="0" style="width: 166px"></a>
+                                    <img src="/Content/images/nav_logo.gif" alt="Value Village thrift stores" border="0" style="width: 166px"></a>
                             </td>
                             <td align="right" valign="top" width="690" height="45">
                                 <table width="695" cellpadding="0" cellspacing="0" border="0" align="right">
@@ -65,14 +65,14 @@
                                         </td>
                                         <td height="39" width="34" valign="top" align="right">
                                             <a href="http://www.facebook.com/ValueVillage" target="_blank">
-                                                <img src="/Content/images/icon_facebook.gif" alt="" border="0" style="padding-top: 8px;"></a>
+                                                <img src="/Content/images/icon_facebook.gif" alt="Find Value Village thrift store on Facebook" border="0" style="padding-top: 8px;"></a>
                                         </td>
                                         <td height="45" width="195" valign="top" align="right">
                                             <input name="ctl00$StoreSearch" type="text" value="Enter City or Postal Code" maxlength="29" id="StoreSearch" class="SrchBox" onfocus="doClear(this)" style="height: 14px; width: 180px">
                                             
                                         </td>
                                         <td height="45" valign="top" width="160">
-                                            <input type="image" name="ctl00$Find" id="Find" class="find-store-button" src="/Content/images/nav_findstore1.jpg" style="float: right; padding: 7px 12px 0 0">
+                                            <input type="image" name="ctl00$Find" id="Find" class="find-store-button" src="/Content/images/find_bat.png" style="float: right; padding: 0px 12px 0 0">
                                         </td>
                                     </tr>
                                 </tbody></table>
@@ -101,7 +101,7 @@
                                             <img src="/Content/images/nav_divider.jpg" width="2" height="24">
                                         </td>
                                         <td align="center" valign="middle">
-                                            <a id="lnkInSeason" href="/seasonal-sales.aspx">IN SEASON</a>
+                                            <a id="lnkInSeason" href="/homemade-halloween-costume-ideas.aspx">IN SEASON</a>
                                         </td>
                                         <td width="6" align="center">
                                             <img src="/Content/images/nav_divider.jpg" width="2" height="24">
@@ -290,14 +290,33 @@
         $(function () {
             $("#lnkDonating").click(function (e) {
                 e.preventDefault();
-                ADGEAR.tags.conversion.init();
-                ADGEAR.env.add_load_listener(function () {
-                    ADGEAR.tags.conversion.embed({
-                        "id": "137",
-                        "chip_key": "e5a365a0794a013056150024e87a30c2",
-                        "revenue": null /* change null to a number value if applicable */
+                try {
+                    ADGEAR.tags.conversion.init();
+                    ADGEAR.env.add_load_listener(function () {
+                        ADGEAR.tags.conversion.embed({
+                            "id": "137",
+                            "chip_key": "e5a365a0794a013056150024e87a30c2",
+                            "revenue": null /* change null to a number value if applicable */
+                        });
                     });
-                });
+
+                    ADGEAR.tags.conversion.init();
+                    (new _RUN.MS()).ready(function () {
+                        ADGEAR.tags.conversion.embed({
+                            "id": "137",
+                            "chip_key": "e5a365a0794a013056150024e87a30c2",
+                            "params": {
+                                "RUN_D": this.ms.d,
+                                "RUN_B": this.ms.b,
+                                "RUN_SC": this.ms.sc
+                            },
+                            "revenue": null /* change null to a number value if applicable */
+                        });
+                    });
+                }
+                catch (err) { }
+
+
                 location.href = $(this).attr("href");
             });
             $(".find-store-button").click(function (e) {
@@ -306,6 +325,20 @@
                     ADGEAR.tags.conversion.embed({
                         "id": "138",
                         "chip_key": "ef0c6bf0794a013056160024e87a30c2",
+                        "revenue": null /* change null to a number value if applicable */
+                    });
+                });
+
+                ADGEAR.tags.conversion.init();
+                (new _RUN.MS()).ready(function () {
+                    ADGEAR.tags.conversion.embed({
+                        "id": "138",
+                        "chip_key": "ef0c6bf0794a013056160024e87a30c2",
+                        "params": {
+                            "RUN_D": this.ms.d,
+                            "RUN_B": this.ms.b,
+                            "RUN_SC": this.ms.sc
+                        },
                         "revenue": null /* change null to a number value if applicable */
                     });
                 });
