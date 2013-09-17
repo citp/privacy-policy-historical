@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the christianclippers.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116002018id_/http%3A//christianclippers.com/about-me-contact-me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianclippers.com privacy policy that was archived on 2013-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130917065924id_/http%3A//christianclippers.com/about-me-contact-me/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Christian Clippers
+# Privacy Policy | Christian Clippers
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at christianclippers@gmail.com.
 
