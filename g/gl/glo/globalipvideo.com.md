@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalipvideo.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423204215id_/http%3A//globalipvideo.com/page_privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalipvideo.com privacy policy that was archived on 2013-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130918072533id_/http%3A//globalipvideo.com/page_privacy_policy.php) for the most accurate reproduction.*
 
 # CuSeeMe.tv | Privacy Policy
 
