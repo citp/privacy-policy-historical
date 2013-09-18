@@ -1,0 +1,472 @@
+<!--The following is the downloaded HTML source of the learneredge.com privacy policy that was archived on 2013-09-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130918191806id_/http%3A//learneredge.com/privacy.aspx) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class=" webkit chrome linux js"><head><meta name="GOOGLEBOT" content="NOINDEX, NOFOLLOW"><meta name="robots" content="noindex,nofollow,noarchive,noimageindex"><link href="css/master.css" rel="stylesheet" type="text/css"><link href="css/sections.css" rel="stylesheet" type="text/css"><link href="css/default.css" rel="stylesheet" type="text/css"><link href="css/programs.css" rel="stylesheet" type="text/css"><link href="css/articles.css" rel="stylesheet" type="text/css"><link href="css/checkbox.css" rel="stylesheet" type="text/css"><link href="css/font.css" rel="stylesheet" type="text/css"><link href="css/dropdown.css" rel="stylesheet" type="text/css"><link href="css/fontStyle.css" rel="stylesheet" type="text/css">
+    <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script src="Scripts/jquery-1.7.2.min.js" type="text/javascript"></script>
+    <script src="Scripts/css_browser_selector_0_4_0.js" type="text/javascript"></script>
+    <script src="Scripts/Checkbox.js" type="text/javascript"></script>
+    <script src="Scripts/dropdown.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        $(function () {
+            $(".dropInput").val("");
+            $(".hdnId").val("");
+
+            $("#find").on("click", function () {
+                searchNow();
+            });
+
+            $(".dropInput").focus(function () {
+                $(this).blur();
+            });
+            $('#zip').keypress(function (evt) {
+                var e = evt; // for trans-browser compatibility
+                var charCode = e.which || e.keyCode;
+                if (charCode == 13) {
+                    searchNow();
+                }
+                if (charCode > 31 && (charCode < 48 || charCode > 57))
+                    return false;
+
+                return true;
+            });
+
+            //            var height = $(".leftSection").height();
+            //            var rightHeight = $(".rightSection").height();
+            //            if (rightHeight > 1065) {
+            //                $(".rightSection").css("height", 1000);
+            //                $(".rightSection").css("overflow", "auto");
+            //            }
+
+            $("#WhereValue").val("Campus and Online");
+            $("#WhereId").val("142");
+        });
+
+        function searchNow() {
+            var pId = $('#DegreeId').val();
+            var dId = $('#ProgramId').val();
+            var sId = $('#WhereId').val();
+            var zip = $('#zip').val();
+            var error;
+
+            if (pId == "" && dId == "" && sId == "" && zip == "") {
+                window.location.href = 'finderResults.aspx';
+                error = true;
+            } else {
+                if (pId == "") {
+                    pId = 0;
+                }
+                if (dId == "") {
+                    dId = 0;
+                }
+                if (sId == "") {
+                    sId = 2;
+                }
+                if (zip == "") {
+                    zip = 0;
+                }
+
+            }
+
+            if (!error) {
+                window.location.href = 'finderResults.aspx?dg=' + pId + '&prog=' + dId + '&sp=' + sId+'&zip='+zip;
+            }
+        }
+    </script>
+    
+<title>
+
+</title></head>
+<body>
+    <form name="aspnetForm" method="post" action="/privacy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1MmRki0RwZy2xOLuaDH59hhwBiGHba3Cs0DD7Det+VSL8jbQ=">
+
+<div class="topDarkLine"></div>
+    <div id="main">
+        <div id="container">
+            <div class="leftSection">
+            <div class="logo"><a href="Default.aspx"><img src="images/logo.png" border="0"></a></div>
+            <div class="leftLine"></div>
+                        <div class="finderSection">
+            <div class="bebas titleText">FIND YOUR SCHOOL</div>
+            <div class="clear"></div>
+            <div class="leftLine darkLine"></div>
+            <div class="finderGroup">Select an Education Level:<br> 
+            <div class="dropDownSearch">
+                <div class="dropDownBoxSearch firstTab" id="dropDownBoxSearchDegree" tabindex="2" onclick="changeVisibility('dropDownContentSearchDegree',false);">
+                    <input type="text" id="DegreeValue" class="dropInput noBackground" value="" readonly="readonly">
+                    <input type="hidden" id="DegreeId" class="hdnId" value="">
+                </div>
+                <div class="dropDownArrowSearch" id="dropDownArrowSearchDegree" tabindex="2" onclick="changeVisibility('dropDownContentSearchDegree',false);">
+                </div>
+                <div class="dropDownContentSearch" id="dropDownContentSearchDegree" tabindex="3" style="display: none;">
+                    <ul class="list">
+                        <li class="listItem">
+                            <ul class="listItemInner Degree" id="DegreeItems">
+                                <li id="1" class="first">Diploma/Certificate</li>                                
+                                <li id="3">Associate's</li>
+                                <li id="4">Bachelor's</li>
+                                <li id="5">Master's</li>
+                                <li id="6" class="last">Doctorate</li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            </div>
+            <div class="finderGroup">Select Program:<br> 
+            <div class="dropDownSearch">
+                <div class="dropDownBoxSearch firstTab" id="dropDownBoxSearchProgram" tabindex="2" onclick="changeVisibility('dropDownContentSearchProgram',false);">
+                    <input type="text" id="ProgramValue" class="dropInput noBackground" value="" readonly="readonly">
+                    <input type="hidden" id="ProgramId" class="hdnId" value="">
+                </div>
+                <div class="dropDownArrowSearch" id="dropDownArrowSearchProgram" tabindex="2" onclick="changeVisibility('dropDownContentSearchProgram',false);">
+                </div>
+                <div class="dropDownContentSearch" id="dropDownContentSearchProgram" tabindex="3" style="display: none;">
+                    <ul class="list">
+                        <li class="listItem">
+                            <ul class="listItemInner Program" id="ProgramItems">
+                                        <li id="1" class="first">Art &amp; Design</li><li id="2">Business/Management</li><li id="3">Computers &amp; Technology</li><li id="4">Criminal Justice &amp; Legal Studies</li><li id="5">Culinary</li><li id="6">Education &amp; Teaching</li><li id="12">Engineering</li><li id="14">Massage/Physical Therapy Aide</li><li id="8">Nursing and Healthcare</li><li id="9">Psychology</li><li id="13" class="last">Vocational Training</li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            </div>
+            <div class="finderGroup">Select Campus or Online:<br> 
+            <div class="dropDownSearch">
+                <div class="dropDownBoxSearch firstTab" id="dropDownBoxSearchWhere" tabindex="2" onclick="changeVisibility('dropDownContentSearchWhere',false);">
+                    <input type="text" id="WhereValue" class="dropInput noBackground" value="" readonly="readonly">
+                    <input type="hidden" id="WhereId" class="hdnId" value="142">
+                </div>
+                <div class="dropDownArrowSearch" id="dropDownArrowSearchWhere" tabindex="2" onclick="changeVisibility('dropDownContentSearchWhere',false);">
+                </div>
+                <div class="dropDownContentSearch" id="dropDownContentSearchWhere" tabindex="3" style="display: none;">
+                    <ul class="list">
+                        <li class="listItem">
+                            <ul class="listItemInner Where" id="WhereItems">
+                                <li id="140" class="first">Campus</li>
+                                <li id="141">Online</li>
+                                <li id="142" class="last">Campus and Online</li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            </div>
+            <div class="finderGroup" style="height:25px; margin: 0px 0px 0px 0px;"><div class="bebas titleText">——— OR ———</div><br></div>
+            <div class="finderGroup">Zip Code:<br> <input type="text" class="zipCodeInput" id="zip" maxlength="5"></div>
+            <div class="finderGroup" style="height:37px;"><div class="finderBtn"><a href="#" id="find"></a></div></div>
+            
+            <div class="bebas titleText right">PROGRAMS      </div>
+            </div>
+            
+            <div class="clear"></div>
+            <div class="leftLine darkLine"></div>
+            <div class="programMenu">
+            <ul id="navList">
+                <li><a href="Programs.aspx?k=1" id="p1">ART &amp; DESIGN</a><img src="images/line-menu.jpg"></li><li><a href="Programs.aspx?k=2" id="p2">BUSINESS/MANAGEMENT</a><img src="images/line-menu.jpg"></li><li><a href="Programs.aspx?k=3" id="p3">COMPUTERS &amp; TECHNOLOGY</a><img src="images/line-menu.jpg"></li><li><a href="Programs.aspx?k=4" id="p4">CRIMINAL JUSTICE &amp; LEGAL STUDIES</a><img src="images/line-menu.jpg"></li><li><a href="Programs.aspx?k=5" id="p5">CULINARY</a><img src="images/line-menu.jpg"></li><li><a href="Programs.aspx?k=6" id="p6">EDUCATION &amp; TEACHING</a><img src="images/line-menu.jpg"></li><li><a href="Programs.aspx?k=12" id="p12">ENGINEERING</a><img src="images/line-menu.jpg"></li><li><a href="Programs.aspx?k=14" id="p14">MASSAGE/PHYSICAL THERAPY AIDE</a><img src="images/line-menu.jpg"></li><li><a href="Programs.aspx?k=8" id="p8">NURSING AND HEALTHCARE</a><img src="images/line-menu.jpg"></li><li><a href="Programs.aspx?k=9" id="p9">PSYCHOLOGY</a><img src="images/line-menu.jpg"></li><li><a href="Programs.aspx?k=13" id="p13">VOCATIONAL TRAINING</a><img src="images/line-menu.jpg"></li>
+            </ul>
+            </div>
+
+
+
+
+            </div>
+            <div class="rightSection">
+                
+    <div class="programMainContainer">
+        <div class="title">
+            PRIVACY POLICY</div>
+        <div class="darkLine progWitdhLine">
+        </div>
+        <div class="text prgText">
+            <br>
+            SpryMediaOnline, a California corporation (hereafter “SpryMediaOnline”)
+            is dedicated to establishing a trusting relationships with its registered users,
+            based on respect for personal identity and information, by promoting the use of
+            fair information practices. This privacy policy (“Policy”) covers the
+            www.SpryMediaOnline.com website (hereafter the “Site). Because SpryMediaOnline
+            wants to demonstrate its commitment to our users' privacy, we are disclosing:<br>
+            <ol type="a">
+                <li>What personally identifiable information SpryMediaOnline collects.
+                    <br>
+                    </li><li>How SpryMediaOnline uses the information.
+                        <br>
+                        </li><li>With whom SpryMediaOnline may share user information.
+                            <br>
+                            </li><li>What choices are available to users regarding collection, use and distribution of
+                                the information.
+                                <br>
+                                </li><li>What types of security procedures are in place to protect the loss, misuse or alteration
+                                    of information under SpryMediaOnline control.
+                                    <br>
+                                    </li><li>How users can correct any inaccuracies in the information.
+                                        <br>
+            </li></ol>
+            If users have questions or concerns regarding this statement, they should contact
+            SpryMediaOnline Customer Support by email using the "Contact Us" page.<br>
+            <br>
+            <span class="medium"><b>Information Collection and Use</b></span><br>
+            <br>
+            <b>Information Collection</b><br>
+            SpryMediaOnline is the sole owner of the information collected on the Site. SpryMediaOnline
+            collects information from its users at several different points on our Site.<br>
+            <br>
+            <b>Registration</b><br>
+            In order to use SpryMediaOnline services which are a pre-pay service, a user must
+            first complete the registration process. During registration a user is required
+            to give contact information (such as name, email address, telephone number, home
+            address, etc), a unique identifier, and financial information (such as credit card
+            information, billing address, etc.). We use this information to contact the user
+            about services on our Site for which the user has expressed interest and to provide
+            those services and bill user for the services.
+            <br>
+            <br>
+            <b>Profile</b><br>
+            We store information that we collect through cookies, log files and third parties
+            to create a profile of our users. A profile is stored information that we keep on
+            individual users that details their viewing preferences. Consequently, collected
+            information is tied to the user's personally identifiable information to provide
+            offers and improve the content of the site for the user. This profile is used to
+            tailor a user's visit to our Site, and to potentially direct pertinent marketing
+            promotions to them. We do not share personally identifiable elements of your profile
+            with other third parties. Your profile is shared in aggregate form only.<br>
+            <br>
+            <b>Cookies</b><br>
+            A cookie is a piece of data stored on the user's computer tied to information about
+            the user. Usage of a cookie is in no way linked to any personally identifiable information
+            while on our site. We may use both session ID cookies and persistent cookies. For
+            the session ID cookie, once users close the browser, the cookie simply terminates.
+            A persistent cookie is a small text file stored on the user's hard drive for an
+            extended period of time. Persistent cookies can be removed by following Internet
+            browser help file directions.
+            <br>
+            By setting a cookie on our site, users would not have to log in a password more
+            than once, thereby saving time while on our site. If users reject the cookie, they
+            may still use our site. The only drawback to this is that the user might be limited
+            in some areas of our site. Persistent cookies enable us to track and target the
+            interests of our users to enhance the experience on our site. See the "Profile"
+            section, above.
+            <br>
+            <br>
+            <b>Log Files</b><br>
+            Like most Web sites, our servers use log files to analyze trends, administer the
+            site, track user's movement in the aggregate, and gather broad demographic information
+            for aggregate use. IP addresses, etc. are not linked to personally identifiable
+            information.<br>
+            <br>
+            <b>Clear Gifs</b><br>
+            Clear gifs are tiny graphics with a unique identifier, similar in function to cookies,
+            and are used to track the online movements of Web users. The main difference between
+            the two is that clear gifs are invisible on the page and are much smaller, about
+            the size of the period at the end of this sentence. Clear gifs are not tied to users'
+            personally identifiable information.<br>
+            We may also use clear gifs in our HTML-based emails to let us know which emails
+            have been opened by the recipients. This allows us to gauge the effectiveness of
+            certain communications and the effectiveness of our marketing campaigns. If users
+            would like to opt-out of these emails, please see the Opt-out section.<br>
+            <br>
+            <b><span class="medium">Communications from the Site</span></b><br>
+            <br>
+            <b>Special Offers and Updates</b><br>
+            We send all new registered users a welcoming email to verify a new user’s contact
+            information and PIN or password. Existing registered users will occasionally receive
+            emails containing information about us, service related announcements, information
+            about third party services that are likely to be of interest to our members, and
+            member satisfaction questions.
+            <br>
+            <br>
+            <b>Service Announcements</b><br>
+            On rare occasions it is necessary to send out a strictly service related announcement.
+            For instance, if our service is temporarily suspended for maintenance we might send
+            users an email. Generally, users may not opt-out of these communications, though
+            they can deactivate their account. However, these communications are not promotional
+            in nature.
+            <br>
+            <br>
+            <b>Customer Service</b><br>
+            We communicate with users on a regular basis to provide requested services and regarding
+            issues relating to their accounts. We reply via email or phone, in accordance with
+            the users wishes.<br>
+            <br>
+            <b>Sharing</b><br>
+            <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Marketing Partners<br>
+            We may from time to time share your personal information with third party marketing
+            partners who may send you offers for goods and services which you may find of interest.<br>
+            <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Legal Disclaimer<br>
+            Though we make every effort to preserve user privacy, we may need to disclose personal
+            information when required by law or where we have a good-faith belief that such
+            action is necessary to comply with a judicial proceeding or administrative hearing,
+            or other legal process served on our Site. For example, SpryMediaOnline may disclose
+            personal information to law enforcement, other government officials, or third parties
+            in response to criminal or civil subpoenas. If we do receive a request to disclose
+            a registered user’s personal information, we will notify user of such request
+            at the email or telephone number recorded in our database at that time. Users are
+            advised to keep current their contact information on file with us and update it
+            accordingly.<br>
+            <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aggregate Information
+            (non-personally identifiable)<br>
+            We may share aggregated demographic information with our partners and advertisers.
+            This is not linked to any personally identifiable information.<br>
+            <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Third Party Intermediaries<br>
+            We use an outside credit card processing company to bill users for services. These
+            companies have contracted with us not to retain, share, store or use personally
+            identifiable information for any secondary purposes.<br>
+            <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Business Transitions<br>
+            In the event SpryMediaOnline goes through a business transition, such as a merger,
+            being acquired by another company, or selling a portion of its assets, users' personal
+            information will, in most instances, be part of the assets transferred. Users will
+            be notified prior to a change of ownership or control of their personal information.
+            If as a result of the business transition, the users' personally identifiable information
+            will be used in a manner different from that stated at the time of collection they
+            will be given a choice not to have their information used in this different manner,
+            as described in the notification of changes section, below.<br>
+            <br>
+            <b>Choice/Opt-out</b><br>
+            If at any time you decide you no longer wish to receive communications from us or
+            third parties you can unsubscribe here: <a href="unsubscribe.aspx">
+                http://learneredge.com/unsubscribe.aspx</a>. Please note that third parties
+            with whom we have already shared your information will not receive this request
+            and you may unsubscribe from those sites using the mechanism in the emails they
+            send.
+            <br>
+            <br>
+            <b>Links</b><br>
+            This Site may contain links to other web sites. Please be aware that SpryMediaOnline
+            is not responsible for the privacy practices of such other sites. We encourage our
+            users to be aware when they leave our Site and to read the privacy statements of
+            each and every web site that collects personally identifiable information. This
+            Statement applies solely to information collected by this Site. SpryMediaOnline may
+            enter into advertising and affiliate relationships with third party web sites which
+            drive interested parties to our Site. Information that is collected on these third
+            party sites are not controlled by this Policy, and users are advised to read the
+            separate privacy policies of these web sites.
+            <br>
+            <br>
+            <b>Surveys</b><br>
+            Periodically, our Site might request information from users via surveys. Participation
+            in these surveys is completely voluntary and the user therefore has a choice whether
+            or not to disclose this information. The requested information typically includes
+            contact information (such as name and address), and demographic information (such
+            as zip code). Survey information will be used for purposes of monitoring or improving
+            the use and satisfaction of SpryMediaOnline's services. Users' personally identifiable
+            information is not shared with third parties unless we give prior notice and a choice
+            to opt-out. Though we may use an intermediary to conduct these surveys, they may
+            not use customers' personally identifiable information for any secondary purposes.
+            <br>
+            <br>
+            <b>Security</b><br>
+            SpryMediaOnline takes precaution to protect its users' information. When users submit
+            sensitive information via the SpryMediaOnline's Web Site, their information is protected
+            both online and off-line.<br>
+            When our registration/order forms ask users to enter sensitive information (such
+            as credit card number, billing information, etc.), that information is encrypted
+            and is protected using industry standard encryption software (128 bit secure socket
+            layers protocols).
+            <br>
+            While we use SSL encryption protocols to protect sensitive information online, we
+            also employ security measures to protect user-information off-line. All of our users'
+            information, not just the sensitive information mentioned above, is restricted in
+            our offices. Only employees who need the information to perform a specific job (for
+            example, our billing clerks or a customer service representative) are granted access
+            to personally identifiable information. Finally, the servers that store personally
+            identifiable information are in a secure environment.<br>
+            <br>
+            <b>Supplementation of Information</b>
+            <br>
+            In order for SpryMediaOnline to properly fulfill its obligations to users it is necessary
+            for us to supplement the information we receive with information from 3rd party
+            sources. SpryMediaOnline may verify the billing address on all credit card transactions
+            and may obtain credit reports for some customers. The information obtained from
+            these third party sources is maintained in a manner consistent with SpryMediaOnline's
+            privacy Policy.<br>
+            <br>
+            <b>Correcting/Updating/Deleting/Deactivating Personal Information</b><br>
+            If a user's personally identifiable information changes (such as zip code, phone,
+            email or postal address), or if a user no longer desires our service, we provide
+            a way to correct, update or delete/deactivate users' personally identifiable information.
+            Users may login in to their account and then access the profile page to change any
+            personal information, or they may contact us by email using the "Contact Us"
+            page.
+            <br>
+            <br>
+            <b>Notification of Changes</b><br>
+            If we decide to change our Policy, we will post those changes in this Policy, and
+            other places we deem appropriate, so our users are always aware of what information
+            we collect, how we use it, and under what circumstances, if any, we disclose it.
+            We will use information in accordance with the privacy policy under which the information
+            was collected.
+            <br>
+            If, however, we are going to use users' personally identifiable information in a
+            manner different from that stated at the time of collection we will notify users
+            via email. Users will have a choice as to whether or not we use their information
+            in this different manner. However, if users have opted out of all communication
+            with the Site, or deleted/deactivated their account, then they will not be contacted,
+            nor will their personal information be used in this new manner. In addition, if
+            we make any material changes in our privacy practices that do not affect user information
+            already stored in our database, we will post a prominent notice on our Site notifying
+            users of the change. In some cases where we post a notice we will also email users,
+            who have opted to receive communications from us, notifying them of the changes
+            in our privacy practices.<br>
+            <br>
+            <b>Contact Information</b><br>
+            If users have any questions or suggestions regarding this Policy, please contact
+            us through the "Contact Us" page or by clicking this link: <a href="http://learneredge.com/contact_us.aspx">
+                http://learneredge.com/contact_us.aspx</a>.
+            <br>
+        </div>
+    </div>
+
+            </div>
+                <div class="clear"></div>
+                <div>
+            <div class="copyright left">
+                © Copyright 2012 LearnerEdge.com <br>
+                <strong><a href="privacy.aspx" class="privacyP">Privacy Policy</a></strong>
+                <div class="clear"></div>
+            </div>
+  <div id="footer">
+            <div class="darkLineBottom prgBottomLine gray left"></div>
+            <div class="clear"></div>
+            <div class="contactUs floatLeft">CONTACT US</div><div class="email floatLeft"><strong>Email:</strong> info@sprymediaonline.com  </div><div class="number floatLeft"><strong>Call:</strong> [650] 464-7384</div>
+            <div class="clear"></div>
+            <div class="darkLineBottom prgBottomLine gray left"></div>
+        
+    </div>
+    </div>
+
+        </div>
+        <div class="clear"></div>
+    
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+    var _qevents = _qevents || [];
+
+    (function () {
+        var elem = document.createElement('script');
+        elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+        elem.async = true;
+        elem.type = "text/javascript";
+        var scpt = document.getElementsByTagName('script')[0];
+        scpt.parentNode.insertBefore(elem, scpt);
+    })();
+
+    _qevents.push({
+        qacct: "p-edYW43Lwu9mgI"
+    });
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-edYW43Lwu9mgI.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+
+</div></form></body></html>
