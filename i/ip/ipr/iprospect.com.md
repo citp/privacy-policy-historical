@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iprospect.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501224658id_/http%3A//www.iprospect.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iprospect.com privacy policy that was archived on 2013-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130918163401id_/http%3A//www.iprospect.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | iProspect | Digital Performance on a Global Scale
+# Privacy Policy | iProspect | Driving Digital Performance
 
 iProspect is committed to respecting and protecting the privacy of all visitors to our website. Generally, you can browse through our website without giving us information about yourself. Yet, there are times when we do need to collect your personal information to provide services you’ve requested from us. Our privacy policy outlines how we collect and use your personal information.
 
