@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e-value.net privacy policy that was archived on 2013-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130301002410id_/https%3A//www.e-value.net/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-value.net privacy policy that was archived on 2013-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130918075312id_/https%3A//www.e-value.net/privacy-policy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy | E*Value
 
@@ -22,3 +22,5 @@ How to Contact Us: Should you have other questions or concerns about these priva
 Learn why more than 600,000 administrators, teachers and students use E*Value to power their schools, classrooms, and careers.
 
 To learn more, contact the E*Value business development team at (612) 877-4598 or [demo@e-value.net](mailto:demo@e-value.net)
+
+Follow us on   [ ](https://twitter.com/evalue)    [ ](http://www.linkedin.com/company/advanced-informatics)
