@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the carters.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625145537id_/http%3A//www.carters.com/privacy/privacy-policy%2Cdefault%2Cpg.html%3Fid%3Dcarters) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carters.com privacy policy that was archived on 2013-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130919003249id_/http%3A//www.carters.com/privacy/privacy-policy.html) for the most accurate reproduction.*
 
 # Carters.com | OshKoshBgosh.com Privacy Policy
+
+## 
+
+### Our Privacy Policy
+
+_Last updated: October 20, 2011_
 
 #### Our Commitment
 
@@ -58,7 +64,7 @@ You can also ask us to update your information by contacting us at 888-782-9548,
 
 If you decide you do not want to receive promotional materials from us, such as materials about our special offers and events, you can do so by [updating your account](https://www.carters.com/on/demandware.store/Sites-Carters-Site/default/Account-StartRegister) at Carters.com or OshKoshBgosh.com, to change your preferences. You can also do so by contacting us by phone 888-782-9548, sending us an email, or dropping us a note at _Carter’s Consumer Affairs, 206 State Street, Oshkosh, WI 54901._ You can also unsubscribe from receiving any future emails from us by clicking “unsubscribe” on any emails you receive from us.
 
-Please note that any request to update your information may take up to 10 business days to process.
+Your patience is appreciated as it takes approximately 10 business days to remove your name from our email list and approximately 8 – 10 weeks to remove your name from our mailing list. 
 
 We take a number of precautions to provide a secure shopping environment. We implement many layers of safeguards to protect your safety and privacy. These include electronic safeguards like Secure Sockets Layer (SSL) when you transmit information to our sites, among other physical and contractual practices and policies.
 
