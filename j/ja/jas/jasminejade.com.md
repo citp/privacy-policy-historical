@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jasminejade.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627064006id_/http%3A//www.ellorascave.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jasminejade.com privacy policy that was archived on 2013-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130918110630id_/http%3A//www.ellorascave.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
