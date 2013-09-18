@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobs2shop.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623210216id_/http%3A//jobs2shop.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobs2shop.com privacy policy that was archived on 2013-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130918070409id_/http%3A//www.jobs2shop.com/privacy.php) for the most accurate reproduction.*
 
 # Mystery Shopping Jobs - Become a Mystery Shopper and Get Paid to Shop with jobs2shop.com
 
