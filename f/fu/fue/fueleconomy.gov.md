@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fueleconomy.gov privacy policy that was archived on 2013-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130314123604id_/http%3A//fueleconomy.gov/feg/ORNL-disclaimer.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fueleconomy.gov privacy policy that was archived on 2013-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130918102415id_/http%3A//fueleconomy.gov/feg/ORNL-disclaimer.htm) for the most accurate reproduction.*
 
 # Fuel Economy Guide Privacy/Security
 
