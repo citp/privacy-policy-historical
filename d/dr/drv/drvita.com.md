@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the drvita.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617031229id_/http%3A//www.drvita.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drvita.com privacy policy that was archived on 2013-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130919005218id_/http%3A//www.drvita.com/footer/privacyPolicy) for the most accurate reproduction.*
 
-# DrVita Privacy and Security Policy
+# DrVita Store | Footer Links
 
 DrVita.com understands the security of your personal information, and we appreciate your trust that we will manage it carefully and sensibly. This notice describes our privacy policy. By visiting DrVita.com, you are accepting the practices described in this Privacy Notice.
 
@@ -30,10 +30,10 @@ DrVita.com understands the security of your personal information, and we appreci
 
 The information we learn from customers helps us personalize and continually improve your shopping experience at DrVita.com. Here are the types of information we gather.
 
-  * **  Information You Give Us:** We receive and store any information you enter on our Web site or give us in any other way. Click here to see examples of what we collect. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our stores, and communicating with you.
+  * **Information You Give Us:** We receive and store any information you enter on our Web site or give us in any other way. Click here to see examples of what we collect. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our stores, and communicating with you.
   * **Automatic Information:** We receive and store certain types of information whenever you interact with us. For example, similar to many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses DrVita.com or advertisements and other content served by or on behalf of DrVita.com on other Web sites. Click here to see examples of the information we receive.
-  * **  E-mail Communications:** To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from DrVita.com if your computer supports such capabilities. We also compare our customer list to ones received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please adjust your Customer Communication Preferences.
-  * **  Information from Other Sources:** We might receive information about you from other sources and add it to our account information.  Click here to see examples of the information we receive.
+  * **E-mail Communications:** To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from DrVita.com if your computer supports such capabilities. We also compare our customer list to ones received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please adjust your Customer Communication Preferences.
+  * **Information from Other Sources:** We might receive information about you from other sources and add it to our account information. Click here to see examples of the information we receive.
 
 
 
