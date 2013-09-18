@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the embroiderydesigns.com privacy policy that was archived on 2013-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130124163900id_/http%3A//www.embroiderydesigns.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the embroiderydesigns.com privacy policy that was archived on 2013-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130918100723id_/http%3A//www.embroiderydesigns.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy :: EmbroideryDesigns.com
 
