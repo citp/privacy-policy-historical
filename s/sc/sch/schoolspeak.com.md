@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schoolspeak.com privacy policy that was archived on 2013-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130427024042id_/http%3A//www.schoolspeak.com/Public/PrivacyPolicy.aspx%3FCommunity%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoolspeak.com privacy policy that was archived on 2013-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130918214707id_/http%3A//www.schoolspeak.com/Public/PrivacyPolicy.aspx%3FCommunity%3D) for the most accurate reproduction.*
 
 # Privacy Policy
 
