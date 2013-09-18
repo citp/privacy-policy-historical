@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jorgecruise.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602021605id_/http%3A//jorgecruise.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jorgecruise.com privacy policy that was archived on 2013-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130918181721id_/http%3A//www.jorgecruise.com/privacy) for the most accurate reproduction.*
 
-# Privacy — Jorge Cruise
+# Privacy |
 
-jorgecruise.com and JorgeCruise.com, Inc. takes your privacy seriously. Earning and maintaining your trust is important to us. We want you to understand what information we gather from you, how this information is used and protected. This Privacy Policy and Agreement ("Privacy Policy") discloses the privacy practices of jorgecruise.com. By using the Website, you agree, without limitation or qualification, to be bound by this Privacy Policy. This Privacy Policy applies only to information collected by jorgecruise.com online.
+jorgecruise.com and JorgeCruise.com, Inc. takes your privacy seriously. Earning and maintaining your trust is important to us. We want you to understand what information we gather from you, how this information is used and protected. This Privacy Policy and Agreement (“Privacy Policy”) discloses the privacy practices of jorgecruise.com. By using the Website, you agree, without limitation or qualification, to be bound by this Privacy Policy. This Privacy Policy applies only to information collected by jorgecruise.com online.
 
 We may amend this Privacy Policy from time to time, and therefore encourage you to revisit this page periodically or when you notice new features on the Website.
 
@@ -28,7 +28,7 @@ San Diego, CA 92109
 Attn: jorgecruise.com Privacy / Legal
 
 Or, send a fax to:  
-(619) 374-2004   
+(619) 374-2004  
 Attn: jorgecruise.com Privacy / Legal
 
 BY USING OUR WEBSITE, YOU SIGNIFY YOUR ACCEPTANCE OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, YOU SHOULD NOT USE OUR WEBSITE. YOUR CONTINUED USE OF OUR WEBSITE FOLLOWING THE POSTING OF CHANGES TO THIS PRIVACY POLICY WILL MEAN THAT YOU ACCEPT THOSE CHANGES.
