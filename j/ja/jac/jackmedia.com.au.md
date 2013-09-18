@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jackmedia.com.au privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519194009id_/http%3A//www.jackmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jackmedia.com.au privacy policy that was archived on 2013-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130918194945id_/http%3A//www.jackmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Jack Media | Privacy Policy
 
