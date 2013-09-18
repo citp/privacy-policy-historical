@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the promosimple.com privacy policy that was archived on 2013-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130119070526id_/https%3A//www.promosimple.com/accounts/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promosimple.com privacy policy that was archived on 2013-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130918120741id_/https%3A//promosimple.com/accounts/privacy-policy) for the most accurate reproduction.*
 
-# PromoSimple
-
-## Privacy Policy
+# Create Sweepstakes, Contests & Giveaways | PromoSimple
 
 Effective Date: October 1, 2011
 
@@ -16,7 +14,7 @@ If you have any questions or comments regarding this privacy policy or its enfor
     3. _Traffic Data._ As part of the Service, We collect information relating to traffic on the websites ("Traffic Data") on which you choose to activate the Service.
     4. _Header Information._ We collect and use browser header information to help Us understand from which websites a user navigates to a website on which the Service is implemented.
     5. _Cookies._ Like many other websites, We use a standard technology called "cookies." Cookies are small pieces of information stored on your hard drive. They can help make the Internet experience quicker and more convenient. Cookies allow users to login without entering their user ID and password each time they use the Service. We also use cookies on third party websites on which the Services are implemented; such cookies help Us understand how users interact with those websites. Cookies also allow Us to improve the Service. If you disable cookies, you will not be able to use the Service. We may also use cookies in connection with third party services to run analytics on Our websites; such cookies do not collect or use any personal information about users.
-  2. **DATA INTEGRITY - HOW WE USE YOUR INFORMATION.** We generally use the information We collect from you to create a secure and personalized Service for Our Members.
+  2. **DATA INTEGRITY - HOW WE USE YOUR INFORMATION.** We generally use the information We collect from you to create a secure and personalized Service for Our Members. 
     1. _IP Addresses._ We gather this information for systems administration purposes, abuse prevention and to track user trends. We may also use your IP address to identify the general geographic area from which you are accessing a website on which the Service is implemented. We do not link IP addresses to any personally identifiable information.
     2. _Header Information._ Header information is used to determine which websites originated traffic into websites implementing the Service.
     3. _Traffic Data._ Traffic Data is used to provide Members with real-time analytics and uptime monitoring. We may aggregate and anonymize Traffic Data with that from other sites to provide benchmarking data and other functionality, but no identifiable Traffic Data will be disclosed at any time without your express prior consent.
