@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashunite.com privacy policy that was archived on 2012-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120913212218id_/http%3A//cashunite.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashunite.com privacy policy that was archived on 2013-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130918122355id_/https%3A//cashunite.com/Privacy) for the most accurate reproduction.*
 
 # CashUnite – A Revolutionary New Way To Earn Money From Your Social Networks!
 
