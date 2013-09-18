@@ -1,19 +1,25 @@
-> *The following text is extracted and transformed from the infobert.com privacy policy that was archived on 2008-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081121175719id_/http%3A//www.infobert.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infobert.com privacy policy that was archived on 2013-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130918194343id_/http%3A//infobert.com/blog/privacy-policy.html) for the most accurate reproduction.*
 
-# travel computers credit
+# Privacy Policy - $3 Cheap Web Hosting Deals, Offers and Promotions
 
-InfoBert.com has drafted this document, which details how we gather and disseminate information, in an effort to demonstrate our strong commitment to online privacy. Please contact us if you have any questions about our privacy policy. Use of Internet Protocol Address - We use your Internet protocol (IP) address for several reasons: to help diagnose problems with our server, to administer our Web site, to help identify you and your shopping cart, and to gather broad demographic information. 
+This website takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this privacy policy primer to learn more about privacy policies in general.
 
-**Use of Demographic Information** \- We collect no demographic or profile data. No user data is asked for at any time on the InfoBert.com site. We do not participate in AdWare programs or have any type of computer/browser altering software. We do not display pop-ups or pop-unders on this site.
+Routine Information Collection
 
-**Security** \- InfoBert.com features security measures to protect the loss, misuse or alteration of information placed under our control.
+All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes.
 
-**Children's Guidelines** \- We do not collect or use any online contact information or identifiable off-line contact information about a child without parental consent. We do not distribute personally identifiable information about children without parental consent. We do not give children the ability to post or distribute personal information without prior consent. We do not entice children with games or contests that would encourage them to disclose personal information.
+Cookies and Web Beacons
 
-**Disclaimer** \- This site contains links to other sites. InfoBert.com is not responsible for the content or privacy practices of these sites.
+Where necessary, our website uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
 
-[Privacy Policy](https://web.archive.org/privacy.php) [About InfoBert](https://web.archive.org/about.php) [Link Exchange](https://web.archive.org/about.php)
+Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies.
 
-© 2003-2004 InfoBert.com All Rights Reserved. 
+Controlling Your Privacy
 
-[Airport Information](http://www.ifly.com/) [Free Stuff](http://www.griblet.com/) [Flight Discounts](http://www.flightdiscounts.com/)
+Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms. This list of web browser privacy management links may also be useful.
+
+Contact Information
+
+Concerns or questions about this privacy policy can be directed to [info@planetfreeiq.com.](mailto:info@planetfreeiq.com.) [ ](mailto:%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'mailto:';%20var%20suffix%20=%20'';%20var%20attribs%20=%20'';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy56544%20=%20'info'%20+%20'@';%20addy56544%20=%20addy56544%20+%20'planetfreeiq'%20+%20'.'%20+%20'com';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20addy56544%20+%20suffix%20+%20'\\''%20+%20attribs%20+%20'%3E'%20\);%20document.write\(%20addy56544%20\);%20document.write\(%20'%3C\\/a%3E'%20\);%20//--%3E%20%3C/script%3E%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3Cspan%20style=\\'display:%20none;\\'%3E'%20\);%20//--%3E%20%3C/script%3EThis%20e-mail%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3C/'%20\);%20document.write\(%20'span%3E'%20\);%20//--%3E%20%3C/script%3E.)[info@planetfreeiq.com](mailto:info@planetfreeiq.com). 
+
+This privacy policy was generated by the Privacy Policy for WordPress plugin.
