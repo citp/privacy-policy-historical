@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americancampus.com privacy policy that was archived on 2013-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130409204101id_/http%3A//americancampus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americancampus.com privacy policy that was archived on 2013-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130918213513id_/http%3A//www.americancampus.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - American Campus Communities
 
