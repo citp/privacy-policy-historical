@@ -1,52 +1,71 @@
-<!--The following is the downloaded HTML source of the hypster.com privacy policy that was archived on 2013-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130601160416id_/http%3A//hypster.com/hypster/Privacy_Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hypster.com privacy policy that was archived on 2013-09-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130918070448id_/http%3A//www.hypster.com/hypster/Privacy_Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
     <title>Hypster - Privacy Policy</title>
+    <meta name="alexaVerifyID" content="D1zuW6QmyfkVJqITiYkg7ecUz5k">
 
-    <meta name="description" content=" Create tumblr playlist, music for tumblr.">
-    <meta name="keywords" content="hypster, music, radio, tv, tumblr, blogger, free playlist, player, player for tumblr, genres, free music online, hipster, playlist, player skins, playlist maker online, tumblr playlist creator, create tumblr playlist, music playlist for tumblr, hipster music playlist">
+    <meta name="description" content="">
+    
 
 
 
 
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script src="http://code.jquery.com/ui/1.10.1/themes/base/jquery-ui.css" type="text/javascript"></script>
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://cc.chango.com/static/o.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script src="http://code.jquery.com/ui/1.10.1/themes/base/jquery-ui.css" type="text/javascript"></script>
     <script src="http://code.jquery.com/jquery-1.8.3.min.js" type="text/javascript"></script>
     <script src="http://code.jquery.com/ui/1.10.1/jquery-ui.js" type="text/javascript"></script>
     <script src="http://ajax.aspnetcdn.com/ajax/mvc/3.0/jquery.unobtrusive-ajax.min.js" type="text/javascript"></script>
 
 
-    <script src="/scripts/hypScript.js?id=93117210299" type="text/javascript"></script>
+    <script src="/scripts/hypScript.js?id=33007210299" type="text/javascript"></script>
 
-    <script src="/scripts/hypSlide.js?id=93117210299" type="text/javascript"></script>
+    <script src="/scripts/hypSlide.js?id=33007210299" type="text/javascript"></script>
 
     
-    <link href="/css/Site.css?id=93117210299" rel="stylesheet" type="text/css">
+    <link href="/css/Site.css?id=33007210299" rel="stylesheet" type="text/css">
     
 
     
 
     <script type="text/javascript">
-        if (isMobile.any()) {
-            if ($(window).width() < 590) {
+            
+            if (isMobile.Android() || isMobile.BlackBerry() || isMobile.iOS() || isMobile.Windows()) {
                 window.location = "http://mobile.hypster.com";
             }
-        }
+            
 
         $(document).ready(function () {
             RenderLayout();
 
+            var lww = $(window).width()-90;
+            if($(window).width() < 950)
+            {
+                lww = 950;
+            }
+
             $("#langBar").css("display", "block");
-            $("#langBar").css("left", ($(window).width()-90) + "px");
+            $("#langBar").css("left", lww + "px");
+
+            $("#LikeHypsterCH").css("display", "block");
+            $("#LikeHypsterCH").css("left", lww + "px");
         });
 
         $(window).resize(function () {
             RenderLayout();
 
+            var lww = $(window).width()-90;
+            if($(window).width() < 950)
+            {
+                lww = 950;
+            }
+
             $("#langBar").css("display", "block");
-            $("#langBar").css("left", ($(window).width()-90) + "px");
+            $("#langBar").css("left", lww + "px");
+
+            $("#LikeHypsterCH").css("display", "block");
+            $("#LikeHypsterCH").css("left", lww + "px");
         });
     </script>
 
@@ -57,9 +76,9 @@
 
 
 <body>
+
     <div class="MainBD13">
         
-
         <div class="ContentHeaderCont">
            
                 <div class="ContentHeaderInner">
@@ -69,18 +88,19 @@
                         <img class="mLogo" alt="Hypster Logo" src="/imgs/shared/main_hyp_logo.png" onclick="window.location='/';">
                         
 
-                        <div class="hypContHolder" onmouseover="$('#HypsterSub').css('display','block');" onmouseout="$('#HypsterSub').css('display','none');">
+                        <div class="hypContHolder" onmouseover="HDAM(); $('#HypsterSub').css('display','block');" onmouseout="HDAM();">
                             <a class="mHypster" href="/">Hypster</a>
                             
                             <div id="HypsterSub" style=" display:none;">
-                                <a class="HypSub_tv" href="http://tv.hypster.com">TV</a>
+                                <a class="HypSub_pop" href="/playlists">Popular</a>
+                                <a class="HypSub_tv" href="/listen/radio">Radio</a>
                                 <a class="HypSub_news" href="/content/HypNews">News</a>
                                 <a class="HypSub_howTo" href="/resources/manuals">How To Use</a>
                             </div>
                         </div>
 
 
-                        <div class="listenContHolder" onmouseover="$('#ListenSub').css('display','block');" onmouseout="$('#ListenSub').css('display','none');">
+                        <div class="listenContHolder" onmouseover="HDAM(); $('#ListenSub').css('display','block');" onmouseout="HDAM();">
                             <a class="mListen" href="/listen">Listen</a>
 
                             <div id="ListenSub" style=" display:none;">
@@ -92,7 +112,7 @@
                         </div>
 
 
-                        <div class="createContHolder" onmouseover="$('#CreateSub').css('display','block');" onmouseout="$('#CreateSub').css('display','none');">
+                        <div class="createContHolder" onmouseover="HDAM(); $('#CreateSub').css('display','block');" onmouseout="HDAM();">
                             <a class="mCreate" href="/create">Create</a>
 
                             <div id="CreateSub" style=" display:none;">
@@ -102,7 +122,17 @@
                             </div>
                         </div>
 
-                        <a class="mConnect" href="/connect">Connect</a>
+
+
+                        <div class="connectContHolder" onmouseover="HDAM(); $('#ConnectSub').css('display','block');" onmouseout="HDAM();">
+                            <a class="mConnect" href="/connect">Connect</a>
+
+                            <div id="ConnectSub" style=" display:none;">
+                                <a class="HypSub_connect" href="/listen/similar">Find Similar Playlists</a>
+                                <a class="HypSub_musicP" href="/connect#musicP">Music Pages</a>
+                            </div>
+                        </div>
+
 
 
                         <div class="TopHeaderCont">
@@ -117,8 +147,9 @@
                 </div>
 
                 <div id="header_Bar" style=" float:left; width:2px; height:23px; margin-top:-3px; background-color:#2e2e2e; border-bottom:3px solid #191919;"></div>
-            
+                
         </div>
+
 
 
 
@@ -260,9 +291,8 @@
                     <div class="BottomPaneInnr">
 
                         <div class="MenuItmCont">
-                            <a href="/hypster/New_Player_For_Tumblr?rtg=x3283">New Tumblr Player</a>
+                            <a href="/hypster/New_Player_For_Tumblr">New Tumblr Player</a>
                             <a href="/resources/manuals">How To Use</a>
-                            <a href="/hypster/Hypster_On_Mobile">Hypster On Mobile</a>
                         </div>
 
 
@@ -290,13 +320,13 @@
                     
                         <div style=" float:right; width:100%;">
                             <div class="FeaturedAdContBottom">
-                                <div id="TopAdd_Bottom_2938eu93"></div>
-                                <!-- 04_23 -->
-                                <script type="text/javascript">
-                                    $(document).ready(function () {
-                                            document.getElementById("TopAdd_Bottom_2938eu93").innerHTML = "<iframe src=\"http://feed-rt.baronsoffers.com/offer/feed/q/aT01Mzk2LHM9NzI4eDkwLG49aWZyYW1lLGI9MA==?subid=default\" width=\"728\" height=\"90\" scrolling=\"no\" marginwidth=\"0\" style=\"border:none;\" frameborder=\"0\"></iframe>";
-                                    });
-                                </script>
+                                    <div id="TopAdd_Bottom_2938eu93"></div>
+                                    <!-- 06_10 -->
+                                    <script type="text/javascript">
+                                        $(document).ready(function () {
+                                                document.getElementById("TopAdd_Bottom_2938eu93").innerHTML = "<iframe src=\"http://feed-rt.baronsoffers.com/offer/feed/q/aT0zNTQ4LHM9NzI4eDkwLG49aWZyYW1l?subid=default\" width=\"728\" height=\"90\" scrolling=\"no\" marginwidth=\"0\" style=\"border:none;\" frameborder=\"0\"></iframe>";
+                                        });
+                                    </script>
                             </div>
                         </div>
 
@@ -325,8 +355,6 @@
     </div>
 
 
-
-
     
     <div class="Trans_BACK" id="HideBackDiv" onclick="Show_Content();"></div>
     <div id="popupContainer"></div>
@@ -339,7 +367,18 @@
 
 
     <script type="text/javascript">
+            var __cho__ = { "pid": 2406 };
+            (function () {
+                var c = document.createElement('script');
+                c.type = 'text/javascript';
+                c.async = true;
+                c.src = document.location.protocol + '//cc.chango.com/static/o.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(c, s);
+            })();
+    </script>
 
+    <script type="text/javascript">
         var _gaq = _gaq || [];
         _gaq.push(['_setAccount', 'UA-28695705-1']);
         _gaq.push(['_setDomainName', 'hypster.com']);
@@ -350,8 +389,7 @@
             ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
         })();
-
-</script>
+    </script>
     
    
 
