@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mydealbag.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603180619id_/http%3A//mydealbag.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydealbag.com privacy policy that was archived on 2013-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130918184202id_/http%3A//mydealbag.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | mydealbag
 
