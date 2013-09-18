@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tienda.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614194744id_/http%3A//www.tienda.com/support/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tienda.com privacy policy that was archived on 2013-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130918184301id_/http%3A//www.tienda.com/support/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -29,8 +29,6 @@ Stay Connected
 [](http://www.tienda.com/catalog/catalog.html)
 
 [](http://www.tienda.com/support/clubtienda.html)
-
-[](http://bit.ly/ZiQivf)
 
 |  |   
 ---  
@@ -221,7 +219,8 @@ LAST UPDATED NOVEMBER 2012
 [Links](http://www.tienda.com/links.html)  
 | 
 
-[](http://www.facebook.com/latiendadotcom) [](http://www.twitter.com/latiendadotcom) [](http://pinterest.com/latienda/)  
+[](http://www.facebook.com/latiendadotcom) [](http://www.twitter.com/latiendadotcom)  
+[](http://pinterest.com/latienda/) [](http://www.youtube.com/user/LaTiendacom)  
   
 ---|---|---|---|---  
 **Questions and Assistance:** 888 331-4362     **Phone Orders:** 800 710-4304  
