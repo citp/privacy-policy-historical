@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monosnap.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625022312id_/http%3A//monosnap.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monosnap.com privacy policy that was archived on 2013-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130918080059id_/http%3A//www.monosnap.com/privacy) for the most accurate reproduction.*
 
 # Monosnap - Privacy Policy
 
