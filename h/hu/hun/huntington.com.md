@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the huntington.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508185958id_/https%3A//www.huntington.com/footer/HNB3800.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huntington.com privacy policy that was archived on 2013-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130918153700id_/https%3A//www.huntington.com/footer/HNB3800.htm) for the most accurate reproduction.*
 
 # Huntington Privacy Policy
 
@@ -11,7 +11,7 @@
 This Online Privacy Policy ("Online Policy") applies to The Huntington National Bank, its parent Huntington Bancshares Incorporated and their subsidiaries and affiliates (collectively described as "Huntington," "we," or "us"), this website and any Huntington website that links to this Online Policy (each a "Site, and collectively "Sites"). This Online Policy specifically applies to Huntington's online collection, use and disclosure of information collected from visitors during use of the Sites, such as for transactional purposes or through online tracking technology, including cookies or action tags. This Site is operated in and controlled from the United States of America. This Online Policy should be read together with the "What Does Huntington Do with Your Personal Information" Privacy Notice ("Privacy Notice") below, which, among other things, describes how Huntington may share personal information gathered from you and how you can opt-out or limit certain types of information sharing. 
 
 **Effective Date**   
-The Online Policy is effective as of 5/11/2011.
+The Online Policy is effective as of July 2013.
 
 **Changes to the Online Policy**   
 We reserve the right to amend the Online Policy at any time to address future developments of Huntington, the Site or changes in industry or legal trends. We will post the revised Online Policy on the Site or announce the change on the Site's homepage. If we make changes to the Online Policy, we will revise the "Effective Date" section above. Any changes to this Online Policy will become effective upon the posting of the revised Online Policy on the Site. By continuing to use the Site following such changes, you will be deemed to have agreed to such changes. If you do not agree with the terms of this Online Policy, as it may be amended from time to time, in whole or in part, please do not continue using this Site. If you have any questions or comments about the Online Policy, please feel free to contact us at [privacy@huntington.com](mailto:privacy@huntington.com).
@@ -193,10 +193,12 @@ In addition to your rights described below and in this notice, you may have othe
 
 Important information for Ohio residents that apply for or obtain an insurance product for personal, family, or household purposes from a Huntington insurance agency – We may collect personal information from sources other than the persons proposed for insurance coverage (see, for example, the "How does Huntington collect my personal information?" section in the "What we do" section above). We may also disclose that information, as well as other personal or privileged information subsequently collected, to third parties outside of Huntington without your authorization to the extent disclosure is permitted by law. Ohio law provides a right to review and correct personal information that Huntington collects about you. To receive a more detailed description of our information practices, please write to us at: Huntington Customer Information Services, Ohio Insurance Information Practices, P.O. Box 1558, CB538, Columbus, Ohio 43216.
 
+California and Vermont Customers have other protections under state law. If your primary mailing address is in California or Vermont, we will not share your credit or financial information that we collect except as permitted by law, including, for example, with your consent or to service your account. We will also not use your information for joint marketing purposes. We do not share customer information with third parties except as permitted by law.
+
 Important information for Nevada residents – At any time, you may request to be placed on Huntington's internal do-not-call list by calling us toll-free at 1-800-537-0861. Nevada law requires that we provide you with the following contact information to enable you to obtain further information: (i) Huntington Customer Information Services, Nevada Do-Not-Call Information, P.O. Box 1558, EA4W58, Columbus, Ohio 43216, Phone: 1-800-480-BANK (2265), Email: privacy@huntington.com, and (ii) Bureau of Consumer Protection, Office of the Nevada Attorney General, 555 E. Washington Street, Suite 3900, Las Vegas, Nevada 89101, Phone: 1-702-486-3132, Email: BCPINFO@ag.state.nv.us.  
   
 **Affiliates Providing this Notice**   
-• The Huntington National Bank (deposits, loans, trust, and other banking services), also using the name Huntington Mortgage Group (mortgage lending)  
+• The Huntington National Bank (deposits, loans, trust, credit cards, and other banking services), also using the name Huntington Mortgage Group (mortgage lending)  
 • Huntington LT (vehicle leasing)  
 • The Huntington Investment Company (investments)  
 • Huntington Asset Advisors, Inc. (investment advisory services)  
