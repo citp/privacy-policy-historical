@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostable.me privacy policy that was archived on 2013-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130114222921id_/http%3A//www.hostable.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostable.me privacy policy that was archived on 2013-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130918155709id_/http%3A//www.hostable.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Web Hosting, Linux Web Hosting, Domain Names, Email Hosting by Hostable.
 
