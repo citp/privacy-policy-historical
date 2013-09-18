@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fiplab.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601161104id_/http%3A//fiplab.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiplab.com privacy policy that was archived on 2013-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130918185543id_/http%3A//www.fiplab.com/privacy.html) for the most accurate reproduction.*
 
 # FIPLAB - Privacy Policy
 
-[](https://web.archive.org/web/20130601161104id_/http%3A//fiplab.com/privacy.html "Privacy Policy")
+[](https://web.archive.org/web/20130918185543id_/http%3A//www.fiplab.com/privacy.html "Privacy Policy")
 
 ## WHAT WE **COLLECT AND DO** WITH YOUR INFORMATION.
 
