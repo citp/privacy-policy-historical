@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justinmind.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629213155id_/http%3A//justinmind.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justinmind.com privacy policy that was archived on 2013-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130918193147id_/http%3A//www.justinmind.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
