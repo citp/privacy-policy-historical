@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startupnation.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104121259id_/http%3A//www.startupnation.com/pages/about/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startupnation.com privacy policy that was archived on 2013-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130919074050id_/http%3A//www.startupnation.com/PHP_ROOT/about/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - StartupNation
 
@@ -31,7 +31,7 @@ Your Personal Information is stored on secure web servers that are not accessibl
 
 ## ENEWSLETTER SUBSCRIPTION INFORMATION 
 
-If you would like to unsubscribe from a particular StartupNation mailing list, simply click on the opt-out link provided in the message. If you would like to subscribe to the StartupNation newsletter list, please [become a member of StartupNation now](https://web.archive.org/web/20121104121259id_/http://www.startupnation.com/PHP_ROOT/account/join.asp). 
+If you would like to unsubscribe from a particular StartupNation mailing list, simply click on the opt-out link provided in the message. If you would like to subscribe to the StartupNation newsletter list, please [become a member of StartupNation now](https://web.archive.org/web/20130919074050id_/http%3A//www.startupnation.com/PHP_ROOT/account/join.asp). 
 
 ## OTHER LIMITS TO YOUR PRIVACY
 
