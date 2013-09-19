@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the galathemes.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531205205id_/http%3A//galathemes.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the galathemes.com privacy policy that was archived on 2013-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130919065156id_/http%3A//galathemes.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Magento Themes & Magento Templates - Galathemes
 
