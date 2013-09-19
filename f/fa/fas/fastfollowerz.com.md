@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fastfollowerz.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507120907id_/http%3A//www.fastfollowerz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastfollowerz.com privacy policy that was archived on 2013-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130920014321id_/http%3A//www.fastfollowerz.com/privacy) for the most accurate reproduction.*
 
-# Fast Followerz™ |
+# Fast Followerz |
 
 **What information do we collect?**  
 We collect basic information from you when you register on our site or place an order. When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
@@ -40,7 +40,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 **Your Consent**
 
-By using our site, you consent to our [websites privacy policy](http://www.freeprivacypolicy.com/).
+By using our site, you consent to our website’s privacy policy.
 
 **Changes to our Privacy Policy**
 
