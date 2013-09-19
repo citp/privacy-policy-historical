@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gamemeteor.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611013702id_/http%3A//gamemeteor.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamemeteor.com privacy policy that was archived on 2013-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130919113240id_/http%3A//www.gamemeteor.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
   1. General 
     1. The operative parties referred to in this policy are Company and You, the User of this site. 
-      1. PB Web Media B.V. is the publisher and operator of this site. Hereinafter, PB Web Media B.V. shall be referred to as "Company". When first-person pronouns are used in this Policy, (Us, We, Our, Ours, etc.) these provisions are referring to Company. Additionally, when the terms "the Site" or "Site" are used, these terms refer to the website(s) listed at the beginning of this Policy.
+      1. Flora ICT B.V. is the publisher and operator of this site. Hereinafter, Flora ICT B.V. shall be referred to as "Company". When first-person pronouns are used in this Policy, (Us, We, Our, Ours, etc.) these provisions are referring to Company. Additionally, when the terms "the Site" or "Site" are used, these terms refer to the website(s) listed at the beginning of this Policy.
       2. **You, the User** – As the User of this Site, this Policy will refer to the User as "You" or through any applicable second-person pronouns, such as "Yours" etc. Hereinafter, the User of the Site shall be referred to in applicable second-person pronouns.
     2. This Privacy Policy describes how we use information received about You when You visit Our Site or when You subscribe to, or otherwise use Our online services. This Policy does not cover any information that We may receive from or about You through channels other than through the use of the Site.
   2. Revisions to this Policy 
