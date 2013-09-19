@@ -1,29 +1,32 @@
-> *The following text is extracted and transformed from the hotelsbycity.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615203000id_/http%3A//hotelsbycity.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelsbycity.com privacy policy that was archived on 2013-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130919232924id_/http%3A//www.hotelsbycity.com/help/privacy) for the most accurate reproduction.*
 
-# HotelsByCity.com Privacy Policy
+# HotelsByCity.com - Privacy Policy
 
-### When it may be necessary to share the information you provide:
+At HotelsByCity.com we take **protecting your privacy seriously**. In a day and age where security is becoming increasingly more important we continue to take steps to ensure your information remains safe. HotelByCity.com allows you to make your reservations with confidence. In the end we want our customers to find a fantastic deal and feel protected when they make the reservation. This is our promise to you.
 
-HotelsByCity.com does not share your personally identifiable information with third parties unless it is related to fulfilling the services you've asked us to perform, or as is permitted by law. The information you provide us can only be shared under limited circumstances. These include:
+## For our present and future customers:
 
-### With service providers
+We may collect your general information, which would include name, address, phone and email, in order for us to contact you in the future. 
 
-In some cases, we employ service providers to provide a product you order, to fulfill a service you request, or to market one of our products or services. While this may require us to share your information, these service providers are strictly prohibited from using your information other than to act on our behalf.
+  * We may use a 'cookie' to mage your status and verify your identity.
+  * We may need technical info regarding your computer and browser so that we can send you information in the correct format.
 
-### For legal reasons
 
-In some cases we may be required to disclose certain information to comply with the law, an investigation, or a legal process, such as a court order or subpoena.
 
-### In case of a sale of a business
+*We will only share your information to a third party if it fulfills the services you have asked us to preform. 
 
-Your information may be transferred in connection with a sale, merger, transfer, exchange, or other disposition (whether of assets, stock, or otherwise) of all or a portion of a business of Hotels By City, Inc., or its subsidiaries.
+## Some other examples include:
 
-### Our Security Safeguards
+  * Service providers: please note that our service providers adhere to the same strict guidelines we do.
+  * Legal Reasons: should the law require us to share information, we will be bound to do so.
 
-We employ industry-standard physical, electronic, and procedural security safeguards to protect the personally identifiable information that you have provided to us from loss, misuse, or unauthorized alteration. Whenever we prompt you to transmit sensitive information, such as a credit card number, to us through our Web sites, we support encryption of your data as it is transmitted.
 
-### Former Customers
 
-We treat information concerning our former customers the same way we treat information about our current customers.
+## For our past customers:
 
-**See Also:** [Shop Safe Guarantee](https://web.archive.org/informationrequest/?mode=12), [Travel Tips](https://web.archive.org/help/tips/), [Help](https://web.archive.org/informationrequest/?mode=7)
+Whether you continue to book your rooms with us or not, your information is still protected. Once you are part of the HoteslByCity.com family, you are always part of the family. Not that we are a part of a mafia... 
+
+Please [contact us](https://web.archive.org/web/20130919232924id_/http://hotelsbycity.com/contact) should you have any concerns or questions. 
+
+Kind regards,  
+ **The staff at HotelsByCity.com**
