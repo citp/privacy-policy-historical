@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lizardpoint.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616231056id_/http%3A//lizardpoint.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lizardpoint.com privacy policy that was archived on 2013-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130919083549id_/http%3A//lizardpoint.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Lizard Point Consulting - privacy policy
 
