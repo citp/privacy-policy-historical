@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponcodesindia.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506232013id_/http%3A//www.couponcodesindia.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponcodesindia.com privacy policy that was archived on 2013-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130919123340id_/http%3A//www.couponcodesindia.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
