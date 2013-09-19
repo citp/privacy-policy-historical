@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bidsketch.com privacy policy that was archived on 2013-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130403212012id_/http%3A//www.bidsketch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidsketch.com privacy policy that was archived on 2013-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130920015359id_/http%3A//www.bidsketch.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Bidsketch
 
