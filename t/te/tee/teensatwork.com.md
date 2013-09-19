@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teensatwork.com privacy policy that was archived on 2013-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130119080308id_/http%3A//static.mofos.com/policy_files/pp.php%3Fsite%3Dmfw) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teensatwork.com privacy policy that was archived on 2013-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130919180140id_/http%3A//static.mofos.com/policy_files/pp.php%3Fsite%3Dmfw) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
