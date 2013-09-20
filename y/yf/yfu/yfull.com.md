@@ -1,100 +1,75 @@
-> *The following text is extracted and transformed from the yfull.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yfull.com privacy policy that was archived on 2013-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130920035852id_/http%3A//www.yfull.com/static/terms.html) for the most accurate reproduction.*
 
-# Legal Agreement
+# 
 
-**Go Daddy Respects Your Privacy**
+Please read this document ("Privacy Policy & Terms and Conditions") carefully!
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Through access to the website, located on the Internet at http://www.yfull.com, sub-domains (based on it, similar to subdomain_name.yfull.com) and any of its pages, you thereby agree to unconditionally comply with the terms of use (Terms). If you do not agree, then immediately leave this site and stop using of the service offered.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+YFull.com respects your privacy and will not disclose your personal information without your consent.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+By registering on the Website, or order the service, you confirm that you have read, understood and realized the level of confidentiality and agree to abide this Agreement. YFull.com administration reserves the right in its sole discretion to change and (or) supplement these Terms at any time without prior and (or) further notice. The actual text of the User Agreement located at: WWW.
 
-**Information Collection and Use**
+**1\. Terms and Definitions**
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+1.1 The site - a set of web pages located on the Internet who share the theme, design, a single address space domain www.yfull.com, i.e. navigation and physically located on the same Web server.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+1.2 The domain address space yfull.com - a virtual space on the Internet, available at the second level domain name http://www.yfull.com and third level domain names third_level_name.ufull.com.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+1.3 "Service" or "Services" - services provided on a commercial basis, include any product or service sold (or provided at no cost) to You by us (special products, personal services, website, mobile application and software).
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+1.4 Visitors (Visitor) - any person having access to the site via the Internet.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+1.5 Registered users (User) - a person who paid any of the offered services and received personal account to the website.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+1.6 Client - User who has paid any of the services offered by the Service.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+1.7 The Owner of the site (YFull.com) - "YFull Team"
 
-**Security**
+1.8 User pages (personal page) - section of the site, accessible only to the user, whereby the user to control their account. 
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+1.9 Content - open and (or) closed significant information content site - text, graphics, multimedia, etc. 
 
-**Updating Your Information**
+1.10 "Personal information" - is information which can be used to verify Client (User) identity, either alone or in combination with other information.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+1.11 "Self-Reported Information" is all information about yourself
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+1.12 "Registration Information" is the information you provide about yourself when obtaining a login. 
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+1.13 "Web Behavior Information" is information on how you use the YFull.com website (e.g. browser type, domains, page views) collected through log files, cookies, and other web technology.
 
-      iii.      You may call us at: (480) 505-8800
+**2\. Registration with the Site, use of the Site and service offerings**
 
-       iv.      You may fax us at: (480) 505-8844
+2.1 Upon activation (registration on the Site) User is required to provide some relevant information about themselves (Registration Data), including name, address, email, phone, and other information. The user is responsible for the provision of reliable information to update the personal data in case of any changes.
 
-**Sending Emails**
+2.2 Adding additional information is optional, and by the User at will.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+2.3 By submitting your personal data during registration on the Site, a feedback form, as well as the time of booking service, the user consents to the handling of both using automated and without the use of automation. ser agrees to use the information received from it the personal information of the site and the Service in order to ensure that the requested services in a generalized form, as well as to carry out marketing and statistical research, despite the fact that the registration data (name, email address, contact details, IP, etc.) will not be disclosed to third parties. Site handles personal data: for registration (activation) of a user on the site, to fulfill their obligations to the user (mailing, in technical support) for assessment and analysis work of the website;
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+2.4 The User shall fully responsible for the safety of their user name and password and not transfer or provide to third parties. All actions performed on the site owned by the user with the login and password information, and any consequences that could cause or caused them for such use, it is considered quite a User.
 
-**Compliance with Laws and Law Enforcement**
+2.5 User alone, and with the help of the Administration, periodically update the registration data and other personally identifiable information that was provided at registration, to ensure its accuracy, currency and completeness. 
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+**3\. Using of Personal and Registration Information**
 
-**Third Party Service Providers**
+3.1 YFull.com collects, maintain, and use Personal Information solely as permitted by law.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+3.2 YFull.com use information from you for the purposes that are necessary in our work and to ensure the smooth operation of your account and/or access to our services. The objectives (purposes) are: to provide you with our services; improve our services, including the supply of new products and/or services; to inform and invite you to participate in a specific research projects; connection with you to obtain a certificate; other advertising goals; the implementation of measures to control quality, conducting other studies after obtaining your consent.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+3.3 YFull.com use Registration Information to enable Clients purchase, inform Client when his Genetic Information is available to him, provide him with customer service, manage YFull.com Services, and authenticate Client/User website visits and usage.
 
-**Supplementation of Information**
+3.4 YFull.com use Web Behavior Information to track and monitor aggregate usage of our website. If Client/User give us consent to participate in YFull.com Research, Client/User Web Behavior Information may be used and disclosed to third parties in aggregate form for YFull.com Research intended to be published in peer-reviewed scientific journals. If Client/User do not give consent to participate in YFull.com Research, YFull.com may still use Client/User Web Behavior Information for research purposes, which may include disclosure of aggregated Web Behavior Information to third-party non-profit and/or commercial research partners who will not publish that information in a peer-reviewed scientific journal.
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+3.5 Except as otherwise set forth herein, YFull.com will never release your individual-level Genetic and/or Self-Reported Information to a third party without asking for and receiving your explicit consent to do so, unless required by law.
 
-**Contests/Surveys**
+**4\. Information Disclosure**
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+4.1 We make every reasonable effort to protect your privacy as described in this Privacy Policy. Nevertheless, we may be required by law to disclose your personally identifiable information.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+4.2 We may disclose to third parties, and/or use in our Services, "Aggregated Genetic and Self-Reported Information", which is Genetic and Self-Reported Information that has been stripped of Registration Information and combined with data from a number of other users sufficient to minimize the possibility of exposing individual-level information while still providing scientific evidence. If you have given consent for your Genetic and Self-Reported Information to be used in YFull.com Research, we may include such information in Aggregated Genetic and Self-Reported Information intended to be published in peer-reviewed scientific journals. We emphasize that Aggregated Genetic and Self-Reported Information will be stripped of names, physical addresses, email addresses, and any other Personal Information that may be used to identify you as a unique individual.
 
-**Tell-A-Friend**
+4.3 We may disclose to third parties - Yfull.com. Partners or service providers (e.g. our contracted genotyping laboratory or credit card processors) use and/or store the information in order to provide you with YFull.com's Services.
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+**5\. How to Contact Us**
 
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+5.1 Questions about this Summary, our Privacy Statement, or about YFull.com's handling of your Personal Information may be emailed to @yfull.com
