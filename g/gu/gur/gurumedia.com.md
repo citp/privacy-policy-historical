@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gurumedia.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606135947id_/http%3A//gurumedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gurumedia.com privacy policy that was archived on 2013-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130920170309id_/http%3A//gurumedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GuruMedia
 
