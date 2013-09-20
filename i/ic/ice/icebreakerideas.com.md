@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icebreakerideas.com privacy policy that was archived on 2012-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120712160408id_/http%3A//icebreakerideas.com/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icebreakerideas.com privacy policy that was archived on 2013-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130920181329id_/http%3A//icebreakerideas.com/common/advertise/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
