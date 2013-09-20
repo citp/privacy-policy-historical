@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the achievers.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624014756id_/http%3A//achievers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the achievers.com privacy policy that was archived on 2013-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130921015426id_/http%3A//www.achievers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Achievers: Employee Recognition Programs & Global Rewards Solutions
 
