@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iplocationtools.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604022818id_/http%3A//iplocationtools.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iplocationtools.com privacy policy that was archived on 2013-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130920111729id_/http%3A//www.iplocationtools.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | IPLocationTools.com
 
