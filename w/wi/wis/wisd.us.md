@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wisd.us privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520143639id_/http%3A//www.wisd.us/%3FL%3D1%26PN%3DMainPage%26DivisionID%3D%252710285%2527%26DepartmentID%3D%2527%2527%26SubDepartmentID%3D%2527%2527%26TabNo%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wisd.us privacy policy that was archived on 2013-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130920103959id_/http%3A//www.wisd.us/%3FL%3D1%26PN%3DMainPage%26DivisionID%3D%252710285%2527%26DepartmentID%3D%2527%2527%26SubDepartmentID%3D%2527%2527%26TabNo%3D2) for the most accurate reproduction.*
 
 # Weslaco ISD ::
 
