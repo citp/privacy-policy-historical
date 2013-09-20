@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the letsgo.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527154053id_/http%3A//letsgo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letsgo.com privacy policy that was archived on 2013-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130920080039id_/http%3A//www.letsgo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Let's Go
 
