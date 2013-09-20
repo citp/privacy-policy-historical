@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seogroup.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619002331id_/http%3A//seogroup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seogroup.com privacy policy that was archived on 2013-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130920184427id_/http%3A//seogroup.com/privacy) for the most accurate reproduction.*
 
 # Privacy | SEO Group®
 
