@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kacperpostawski.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508092059id_/http%3A//www.kacperpostawski.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kacperpostawski.com privacy policy that was archived on 2013-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130920201451id_/http%3A//www.kacperpostawski.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Kacper Postawski Companies
 
