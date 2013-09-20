@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heartlandweb.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430141623id_/http%3A//heartlandweb.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heartlandweb.com privacy policy that was archived on 2013-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130920100316id_/http%3A//www.heartlandweb.com/privacy.asp) for the most accurate reproduction.*
 
 # HeartlandWeb Online Classifieds - Classifieds - Privacy Policy
 
@@ -27,7 +27,7 @@ If you need any assistance, click here or call us toll free: 1-888-789-0888
   
 [The above banner ad was brought to you by: www.intelseek.com](http://www.intelseek.com/)  
   
-**Your use of this website constitutes acceptance of our[Privacy Policy](https://web.archive.org/web/20130430141623id_/http%3A//heartlandweb.com/privacy.asp) and [Terms & Conditions](https://web.archive.org/web/20130430141623id_/http%3A//heartlandweb.com/terms.asp). **  
+**Your use of this website constitutes acceptance of our[Privacy Policy](https://web.archive.org/web/20130920100316id_/http%3A//www.heartlandweb.com/privacy.asp) and [Terms & Conditions](https://web.archive.org/web/20130920100316id_/http%3A//www.heartlandweb.com/terms.asp). **  
   
   | © Copyright 1998 - 2013 by HeartlandWeb.com - All Rights Reserved.  
 Contact: 25390 3420 E St., LaMoille, IL 61330  Ph: 1-888-789-0888 - [Site Map](https://web.archive.org/sitemap.asp) | 
