@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the buyyourcar.co.uk privacy policy that was archived on 2013-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130114215711id_/http%3A//www.buyyourcar.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyyourcar.co.uk privacy policy that was archived on 2013-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130920214648id_/http%3A//www.buyyourcar.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# BuyYourCar - Privacy Policy
+# BuyYourCar.co.uk Privacy Policy
+
+## Privacy Policy
 
 #### 1\. This Privacy Policy
 
-BuyYour Ltd is committed to protecting your personal information and other data provided to us via this and any other BuyYour Ltd web site ("Web Site"). Please read this Privacy Policy carefully as it contains important information about the use of information that you provide to us. This Privacy Policy explains what information BuyYour Ltd collects about you, and how we collect and use your information, including setting out the circumstances where we could provide it to third parties. You should also read the separate [Site Visitor Agreement](https://web.archive.org/site-visitor-agreement "Site Visitor Agreement") applicable to this Web Site.
+BuyYourCar.co.uk is committed to protecting your personal information and other data provided to us via this and any other BuyYourCar.co.uk web site ("Web Site"). Please read this Privacy Policy carefully as it contains important information about the use of information that you provide to us. This Privacy Policy explains what information BuyYourCar.co.uk collects about you, and how we collect and use your information, including setting out the circumstances where we could provide it to third parties. You should also read the separate [Site Visitor Agreement](https://web.archive.org/web/20130920214648id_/http%3A//www.buyyourcar.co.uk/site-visitor-agreement "Site Visitor Agreement") applicable to this Web Site.
 
 #### 2\. What information do we collect and what do we do with it?
 
@@ -16,7 +18,7 @@ BuyYour Ltd is committed to protecting your personal information and other data 
 
 2.4 We also monitor traffic patterns and usage of our Web Site to help us improve our Web Site design and layout. We may pass this information to our partners or other third parties but it will not contain any personally identifying information.
 
-2.5 BuyYour Ltd may want to contact you to notify you of news about BuyYour Ltd, changes to the Web Site, special events or new services or products that we think may interest you. BuyYour Ltd may also use your details and information to communicate to you offers for services or goods from other websites owned by BuyYour Ltd group or other companies which we think may be of interest to you. However, BuyYour Ltd will not contact you for these purposes unless you authorise us to do so by either ticking the relevant boxes (i.e. during registration on the Web Site) to authorise BuyYour Ltd to make such contact, or you provide such authorisation in writing to BuyYour Ltd or electronically via the Web Site (if applicable). If, at any time thereafter, you change your mind and would rather not be contacted by BuyYour Ltd (or the third parties described above) to receive such information, please send an email to support@BuyYourCar.co.uk with an explanation that you no longer wish to receive such information. In those circumstances, BuyYour Ltd will not contact you again in relation to the information described above in this paragraph 2.5. However, BuyYour Ltd and/or its group companies will still use your details to send you information and communications in relation to the services or products for which you have registered.
+2.5 BuyYourCar.co.uk may want to contact you to notify you of news about BuyYourCar.co.uk, changes to the Web Site, special events or new services or products that we think may interest you. BuyYourCar.co.uk may also use your details and information to communicate to you offers for services or goods from other websites owned by BuyYourCar.co.uk group or other companies which we think may be of interest to you. However, BuyYourCar.co.uk will not contact you for these purposes unless you authorise us to do so by either ticking the relevant boxes (i.e. during registration on the Web Site) to authorise BuyYourCar.co.uk to make such contact, or you provide such authorisation in writing to BuyYourCar.co.uk or electronically via the Web Site (if applicable). If, at any time thereafter, you change your mind and would rather not be contacted by BuyYourCar.co.uk (or the third parties described above) to receive such information, please send an email to support@BuyYourCar.co.uk with an explanation that you no longer wish to receive such information. In those circumstances, BuyYourCar.co.uk will not contact you again in relation to the information described above in this paragraph 2.5. However, BuyYourCar.co.uk and/or its group companies will still use your details to send you information and communications in relation to the services or products for which you have registered.
 
 #### 3\. Sharing of Information with Third Parties
 
@@ -44,92 +46,4 @@ For the purpose of the Data Protection Act 1998, you acknowledge that in the cou
 
 #### 6\. Our Responsibilities - How does BuyYourCar protect Your Information?
 
-6.1 When you enter into on-line credit or other payment card transactions (e.g. ordering advertising services on the Web Site), we offer the use of a secure server. The secure server software encrypts the information that you input before it is transmitted to us. To prevent unauthorised access, we follow legally required security procedures in the storage and disclosure of information that you have given to us. This means that sometimes we may ask for proof of identity before we disclose personal information to you.
-
-6.2 Areas of the Web Site where transactions are entered into, reviewed or transmitted may be password protected. You can help to preserve your privacy by never sharing your password with anyone else.
-
-6.3 We seek to limit our employees' access to your information about you to those employees who need to have such information to service your account. We emphasise to our employees the confidential nature of user information and the high level of importance that BuyYourCar places on maintaining this confidentiality.
-
-#### 7\. 'Cookies'
-
-7.1 Cookies - What is a Cookie?: A cookie is a piece of information that a web site transfers to the cookie file of the browser on your computer's hard drive. More information regarding the use of cookies can be found at <http://www.aboutcookies.org/Default.aspx?page=3>
-
-7.2 How to reject/deactivate Cookies: Most browsers accept cookies automatically but you have the ability to accept/decline cookies by altering the settings in your browser to prevent automatic acceptance of cookies. If you decline/disable cookies, you may not be able to use all the interactive features of the Web Site or the Web Site may not be available to you. To remove cookies from your web browser or to obtain further details on cookies, including information on persistent and session cookies, please go to <http://www.aboutcookies.org/Default.aspx?page=2>
-
-#### 7.3 Why we use cookies
-
-  * Cookies enable us to identify your device, or you when you have logged in. 
-  * We use cookies that are strictly necessary to enable you to move around the site or to provide certain basic features. 
-  * We use cookies to enhance the functionality of the website by storing your preferences, for example. 
-  * We also use cookies to help us to improve the performance of our website to provide you with a better user experience. 
-
-
-
-BuyYourCar.co.uk may use online behavioural advertising cookies to enable us to tailor this advertising and make it more relevant to you.
-
-We don't sell the information collected by cookies, nor do we disclose the information to third parties, except where required by law (for example to government bodies and law enforcement agencies).
-
-If you wish to control what cookies are set on your device through the BuyYourCar.co.uk website then you can find out how to do this below.
-
-#### 7.4 Why we collect your data?
-
-By collecting your data, it allows us to understand what your needs and wants are, provide personalised content and match the most relevant adverts and services for you. It also allows us to provide targeted offers and services you may be interested to hear about.
-
-#### 7.4.1. Essential Cookies
-
-These cookies are essential for the running of our websites. Without the use of these cookies parts of our websites would not function. For example our mobile site uses cookies to help us identify which of our readers is viewing the site on a mobile device.
-
-#### 7.4.2. Analytical Performance Cookies
-
-We use these types of cookies to monitor our websites performance and how their users may use it. These cookies provide us with information that helps us provide better products to their users and also to identify any areas that may need maintenance.
-
-#### 7.4.3. Functional Cookies
-
-Functional cookies are used to remember your preferences on our websites. This can be anything from remembering your city in a weather forecast or saving your username.
-
-#### 7.4.4. Behavioural Advertising Cookies/Third Party Cookies
-
-We, and our advertisers/sponsors, may use cookies to provide tailored advertising to you which we believe are relevant to you.
-
-Online behavioural advertising is a way of providing advertisements on the websites you visit and making them more relevant to your interests. This is done by grouping together shared interests based upon previous web browsing activity. Advertising is then displayed to you when you visit a website which matches these interests.
-
-Behavioural advertising is based upon your web browsing activity over a period of time - so it's different to advertising you may see when you're looking for something online using a search engine (eg Google) or on the website you may be visiting at a particular time.
-
-As an example, you may be doing research in order to buy a car and read a number of different articles on a number of different websites. If a car manufacturer was part of an advertising network, they may think that you are interested in buying a car and serve you with one of their adverts for one of their cars. It is possible that from reading these articles elsewhere, you would see this advert on one of our or someone else's websites.
-
-We cannot control nor do we have access to any cookies placed on your computer by third party advertisers and sponsors.
-
-We may also track IP addresses. An IP Address is a number that can identify an Internet Service Provider and country location. It cannot provide personal information
-
-#### 7.5 How to control the use of cookies
-
-You are not obliged to accept cookies and may modify your browser so that it will not accept cookies. The browser you use to surf the web not only allows you to see the cookies that you have got but also allows you to control their use.
-
-You can control them by allowing them, deleting them individually or deleting all of them. You can also set your browser to not accept cookies altogether. If this option is selected, you should be aware that many websites will not function properly or at all. It may be possible to set your browser to not accept cookies and ask for your consent before each cookie is set on your device. This gives you control over what is set on your device, however has the drawback of slowing down your browsing experience.
-
-There are different levels of control too. You are able to prevent just third party cookies being deployed, effectively opting out of behavioural advertising, and some even allow you to block specific companies you do not wish to deploy a cookie, instead of selecting all companies.
-
-In order to manage your cookies, please select your browser from the list below and follow the instructions:
-
-#### 7.6 How can I prevent Online Behavioural Advertising?
-
-Further to using your browser to controlling the use of cookies, there are also other ways that you can opt out of Online Behavioural Advertising.   
-The "Your Online Choices" page provided by the [Internet Advertising Bureau](http://www.youronlinechoices.com/uk/your-ad-choices) (IAB), provides an easy way to opt out of behavioural advertising from each (or all) of the networks represented by the IAB.
-
-#### Flash Cookies
-
-When you use one of our websites that uses Macromedia Flash Player, a small Flash Cookie may be used. The purpose of using these cookies is to store your flash player preferences and enhance your browsing experience.   
-Flash Cookies are stored on your computer in a similar way to standard cookies, except they are stored in a different location. Due to this, it is not possible to block or manage Flash Cookies directly from your browser.   
-In order to manage or delete Flash Cookies, please visit Adobe's website, which provides full information by [clicking here](http://kb2.adobe.com/cps/526/52697ee8.html).
-
-#### 7.7 Useful information about Cookies
-
-Further information about cookies can be found on the following websites:
-
-#### 8\. Changes to Privacy Policy
-
-We reserve the right to add to or change the terms of this Privacy Policy in our sole discretion, without prior notice to you. If we change this Privacy Policy, we will post the new Privacy Policy on the Web Site, and it will become effective from the time of posting to the Web Site. Please visit this Privacy Policy on a regular basis to make sure you have read the latest version and you understand what we do with your information. Wherever possible, we will give you notice of any changes prior to their implementation.
-
-#### 9\. Feedback
-
-If you have any queries or problems with regard to this Privacy Policy or the uses to which we put your information, please e-mail us at support@BuyYourCar.co.uk.
+6.1 When you enter into on-line credit or other payment card transactions (e.g. ordering advertising services on the Web Site), we offer the use of a secure server. The secure server software encrypts the information that you input before it is transmitted to us. To prevent unauthorised access, we follow legally required security procedures in the storage and disclosure of information that you have given to us. This means that sometimes we may ask for proof of identity before we disclose personal information to you. 
