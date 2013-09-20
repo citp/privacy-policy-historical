@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lee.com privacy policy that was archived on 2013-04-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130423213600id_/http%3A//www.lee.com/store/LEE_STORE_US/en_US/content/customer_service/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lee.com privacy policy that was archived on 2013-09-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130920045219id_/http%3A//www.lee.com/store/LEE_STORE_US/en_US/content/customer_service/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html class="no-js" lang="en"><!--<![endif]--><!-- the "no-js" class is for Modernizr. --><head pageid="CUSTOMER_SERVICE_PRIVACY"> 
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
@@ -185,7 +185,7 @@ var djConfig = { baseUrl: "/LeeStorefrontAssetStore/javascript/dojotoolkit/dojo/
 
 
 <!-- page: _CachedHeaderDisplay -->
-<!-- generated: Tue Apr 23 07:00:02 EDT 2013 -->
+<!-- generated: Thu Sep 19 06:41:25 EDT 2013 -->
 
 
 <!-- Start - JSPF File Name: JSTLEnvironmentSetup.jspf -->
@@ -231,9 +231,7 @@ var djConfig = { baseUrl: "/LeeStorefrontAssetStore/javascript/dojotoolkit/dojo/
 
 
 
-
-
-
+	
 
 
 
@@ -245,6 +243,7 @@ var djConfig = { baseUrl: "/LeeStorefrontAssetStore/javascript/dojotoolkit/dojo/
 
 
 	
+
 
 
 
@@ -331,9 +330,7 @@ var djConfig = { baseUrl: "/LeeStorefrontAssetStore/javascript/dojotoolkit/dojo/
 
 <!-- End - Lee Customization -->
 
-
-
-
+ 
 
 <!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
 
@@ -361,15 +358,6 @@ var djConfig = { baseUrl: "/LeeStorefrontAssetStore/javascript/dojotoolkit/dojo/
 
 
 
-	
-		  
-	
-	
-	
-	
-  
-
-
 
 
 
@@ -388,7 +376,7 @@ var djConfig = { baseUrl: "/LeeStorefrontAssetStore/javascript/dojotoolkit/dojo/
 			var cookieProps = dojo.cookie("EMAILCOOKIE");
 		
 		if(typeof(cookieProps)  == 'undefined'){
-			setTimeout("LEE.ui.global.EmailForm('http://www.lee.com/webapp/wcs/stores/servlet/EmailSignUpLightBoxView', '30', '10151', '-1', '13101' )", 10000);
+			setTimeout("LEE.ui.global.EmailForm('http://www.lee.com/webapp/wcs/stores/servlet/EmailSignUpLightBoxView', '30', '10151', '-1', '13101' )", 0);
 		}
 			
 	}
@@ -397,7 +385,7 @@ var djConfig = { baseUrl: "/LeeStorefrontAssetStore/javascript/dojotoolkit/dojo/
 		/**
 		 * Creates the Email Form dialog
 		 */
-		
+
 		var newEmail = escape(dojo.byId("email_signup").value);
 		
 		LEE.ui.global.EmailForm = function(url, days, storeId, langId, catalogId) {
@@ -409,16 +397,17 @@ var djConfig = { baseUrl: "/LeeStorefrontAssetStore/javascript/dojotoolkit/dojo/
 				// use a different template string as the creative for this modal is a bit different:
 				if(!LEE.ui.global.EmailForm.DIALOG) {
 					LEE.ui.global.EmailForm.DIALOG = new LEE.ui.global.Dialog.ExtendedDialog({
+									id: "LEE_ui_global_Dialog_ExtendedDialog_EmailForm",
 									widgetsInTemplage: true,
 									title: "",
-									templateString: LEE.ui.global.Dialog.BAR_TEMPLATE_STRING,
-								
-									errorMessage: "ERROR",
-									loadingMessage: "LOADING"
+									templateString: LEE.ui.global.Dialog.BAR_TEMPLATE_STRING,									
+									errorMessage: "<br/>&nbsp;&nbsp;ERROR<br/><br/>",
+									loadingMessage: "<br/>&nbsp;&nbsp;LOADING<br/><br/>"
 								}, 
 								"emailform");
 					LEE.ui.global.EmailForm.DIALOG.startup();
 					dojo.subscribe(LEE.event.GlobalEventNames.DIALOG_FINISHED, LEE.ui.global.EmailForm.DIALOG, "hide");
+					LEE.ui.global.EmailForm.DIALOG.connect(LEE.ui.global.EmailForm.DIALOG, "hide", function(e){LEE.ui.global.EmailForm.DIALOG.destroyRecursive();});
 				}
 				
 				LEE.ui.global.EmailForm.__width = '375px';
@@ -492,7 +481,7 @@ var djConfig = { baseUrl: "/LeeStorefrontAssetStore/javascript/dojotoolkit/dojo/
 
 
 <!-- page: _eMarketingSpotDisplay -->
-<!-- generated: Tue Apr 23 17:36:00 EDT 2013 -->
+<!-- generated: Fri Sep 20 00:52:19 EDT 2013 -->
 
 
 <!-- Start - JSPF File Name: JSTLEnvironmentSetup.jspf -->
@@ -538,9 +527,7 @@ var djConfig = { baseUrl: "/LeeStorefrontAssetStore/javascript/dojotoolkit/dojo/
 
 
 
-
-
-
+	
 
 
 
@@ -552,6 +539,7 @@ var djConfig = { baseUrl: "/LeeStorefrontAssetStore/javascript/dojotoolkit/dojo/
 
 
 	
+
 
 
 
@@ -638,9 +626,7 @@ var djConfig = { baseUrl: "/LeeStorefrontAssetStore/javascript/dojotoolkit/dojo/
 
 <!-- End - Lee Customization -->
 
-
-
-
+ 
 
 <!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
 
@@ -808,7 +794,7 @@ var djConfig = { baseUrl: "/LeeStorefrontAssetStore/javascript/dojotoolkit/dojo/
 &lt;!-- END VelocityContent.jspf --&gt;
 							&lt;/li&gt;</div>
 		<script>
-			LEE_Experiment.eval('experiment_52863_45851', 'BoldChat', 1, 25);
+			LEE_Experiment.eval('experiment_52863_45851', 'BoldChat', 1, 75);
 		</script>
 		
 		
@@ -907,7 +893,9 @@ var djConfig = { baseUrl: "/LeeStorefrontAssetStore/javascript/dojotoolkit/dojo/
                     	
 					<li id="tl_shoppingbag" class="tl_item">
 						
-                    	<a id="btn_shoppingbag" class="nav_global_tab" href="http://www.lee.com/webapp/wcs/stores/servlet/VFCOrderItemDisplay?storeId=10151&amp;catalogId=13101&amp;langId=-1&amp;URL=%2F&amp;updatePrices=1&amp;calculationUsageId=-1&amp;calculationUsageId=-2&amp;calculationUsageId=-5&amp;calculationUsageId=-7"><span>Shopping Bag <span id="nav_shoppingbag_qty">(0)</span></span></a>
+                    	<a id="btn_shoppingbag" class="nav_global_tab" href="http://www.lee.com/webapp/wcs/stores/servlet/VFCOrderItemDisplay?storeId=10151&amp;catalogId=13101&amp;langId=-1&amp;URL=%2F&amp;updatePrices=1&amp;calculationUsageId=-1&amp;calculationUsageId=-2&amp;calculationUsageId=-5&amp;calculationUsageId=-7"><span>Shopping Bag <span id="nav_shoppingbag_qty">0
+                    	
+						</span></span></a>
                     	<div id="dd_shoppingbag" class="dd_menu">
 	                        
 	                        <div class="dd_container">
@@ -982,7 +970,7 @@ var djConfig = { baseUrl: "/LeeStorefrontAssetStore/javascript/dojotoolkit/dojo/
 
 
 <!-- page: _eMarketingSpotDisplay -->
-<!-- generated: Tue Apr 23 17:36:00 EDT 2013 -->
+<!-- generated: Fri Sep 20 00:52:19 EDT 2013 -->
 
 
 <!-- Start - JSPF File Name: JSTLEnvironmentSetup.jspf -->
@@ -1028,9 +1016,7 @@ var djConfig = { baseUrl: "/LeeStorefrontAssetStore/javascript/dojotoolkit/dojo/
 
 
 
-
-
-
+	
 
 
 
@@ -1042,6 +1028,7 @@ var djConfig = { baseUrl: "/LeeStorefrontAssetStore/javascript/dojotoolkit/dojo/
 
 
 	
+
 
 
 
@@ -1128,9 +1115,7 @@ var djConfig = { baseUrl: "/LeeStorefrontAssetStore/javascript/dojotoolkit/dojo/
 
 <!-- End - Lee Customization -->
 
-
-
-
+ 
 
 <!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
 
@@ -1331,12 +1316,6 @@ var djConfig = { baseUrl: "/LeeStorefrontAssetStore/javascript/dojotoolkit/dojo/
 			    
 	        
 	           	
-	           	
-	           		
-	           	
-	           		
-	           	
-	           		
 	           	
 	           		
 	           	
@@ -1576,140 +1555,6 @@ var djConfig = { baseUrl: "/LeeStorefrontAssetStore/javascript/dojotoolkit/dojo/
 	               			
 		               			
 					             <li>
-					                <a class="sub_category" href="http://www.lee.com/store/LEE_STORE_US/en_US/category/women/capris.html">Capris</a>
-				                 </li>
-				                  
-			                 
-	               		
-	               			
-			                 
-				             
-		                
-		              
-		           	               		
-	                   	
-		                  	
-							
-								    
-							
-							           	
-				          		                
-				           		
-						     		
-				       	
-		                  	
-							
-								    
-							
-							           	
-				          		                
-				           		
-						     		
-				       	
-		                  	
-							
-								    
-							
-							           	
-				          		                
-				           		
-						     		
-				       	
-		                  	
-							
-								    
-							
-							           	
-				          	                		
-				              
-				              
-				           		                
-				           		
-						     		
-				       
-			                	
-			           
-			           	
-					    	
-					    	
-					    						    	
-					           
-							
-						
-						
-				            
-				            
-	               				
-	               			
-		               			
-					             <li>
-					                <a class="sub_category" href="http://www.lee.com/store/LEE_STORE_US/en_US/category/women/shorts.html">Shorts</a>
-				                 </li>
-				                  
-			                 
-	               		
-	               			
-			                 
-				             
-		                
-		              
-		           	               		
-	                   	
-		                  	
-							
-								    
-							
-							           	
-				          		                
-				           		
-						     		
-				       	
-		                  	
-							
-								    
-							
-							           	
-				          		                
-				           		
-						     		
-				       	
-		                  	
-							
-								    
-							
-							           	
-				          		                
-				           		
-						     		
-				       	
-		                  	
-							
-								    
-							
-							           	
-				          	                		
-				              
-				              
-				           		                
-				           		
-						     		
-				       
-			                	
-			           
-			           	
-					    	
-					    	
-					    						    	
-					           
-							
-						
-						
-				            
-				            
-	               				
-	               			
-		               			
-					             <li>
 					                <a class="sub_category" href="http://www.lee.com/store/LEE_STORE_US/en_US/category/women/jackets.html">Jackets</a>
 				                 </li>
 				                  
@@ -1853,38 +1698,6 @@ var djConfig = { baseUrl: "/LeeStorefrontAssetStore/javascript/dojotoolkit/dojo/
 			                 
 				             
 		                
-		              
-		           	               		
-	                   	
-		                  	
-							
-								    
-							
-							           	
-				          		                
-				           		
-						     		
-				       	
-		                  	
-							
-								    
-							
-							           	
-				          		                
-				           		
-						     		
-				       	
-		                  	
-							
-								    
-							
-							           	
-				          		                
-				           		
-						     		
-				       
-			                	
-			           
 		              
 		           	               		
 	                   	
@@ -2301,10 +2114,6 @@ var djConfig = { baseUrl: "/LeeStorefrontAssetStore/javascript/dojotoolkit/dojo/
 	           		
 	           	
 	           		
-	           	
-	           		
-	           	
-	           		
 	           			
 	           		
 	           	
@@ -2524,74 +2333,7 @@ var djConfig = { baseUrl: "/LeeStorefrontAssetStore/javascript/dojotoolkit/dojo/
 	               			
 		               			
 					             <li>
-					                <a class="sub_category" href="http://www.lee.com/store/LEE_STORE_US/en_US/category/men/shorts.html">Shorts</a>
-				                 </li>
-				                  
-			                 
-	               		
-	               			
-			                 
-				             
-		                
-		              
-		           	               		
-	                   	
-		                  	
-							
-								    
-							
-							           	
-				          		                
-				           		
-						     		
-				       	
-		                  	
-							
-								    
-							
-							           	
-				          		                
-				           		
-						     		
-				       	
-		                  	
-							
-								    
-							
-							           	
-				          		                
-				           		
-						     		
-				       	
-		                  	
-							
-								    
-							
-							           	
-				          	                		
-				              
-				              
-				           		                
-				           		
-						     		
-				       
-			                	
-			           
-			           	
-					    	
-					    	
-					    						    	
-					           
-							
-						
-						
-				            
-				            
-	               				
-	               			
-		               			
-					             <li>
-					                <a class="sub_category" href="http://www.lee.com/store/LEE_STORE_US/en_US/category/men/jackets.html">Jackets</a>
+					                <a class="sub_category" href="http://www.lee.com/store/LEE_STORE_US/en_US/category/men/belts.html">Belts</a>
 				                 </li>
 				                  
 			                 
@@ -2667,38 +2409,6 @@ var djConfig = { baseUrl: "/LeeStorefrontAssetStore/javascript/dojotoolkit/dojo/
 			                 
 				             
 		                
-		              
-		           	               		
-	                   	
-		                  	
-							
-								    
-							
-							           	
-				          		                
-				           		
-						     		
-				       	
-		                  	
-							
-								    
-							
-							           	
-				          		                
-				           		
-						     		
-				       	
-		                  	
-							
-								    
-							
-							           	
-				          		                
-				           		
-						     		
-				       
-			                	
-			           
 		              
 		           	               		
 	                   	
@@ -3298,7 +3008,7 @@ var djConfig = { baseUrl: "/LeeStorefrontAssetStore/javascript/dojotoolkit/dojo/
 	               			
 		               			
 					             <li>
-					                <a class="sub_category" href="http://www.lee.com/store/LEE_STORE_US/en_US/category/boys/shorts.html">Shorts</a>
+					                <a class="sub_category" href="http://www.lee.com/store/LEE_STORE_US/en_US/category/boys/pants.html">Pants</a>
 				                 </li>
 				                  
 			                 
@@ -3890,7 +3600,7 @@ var djConfig = { baseUrl: "/LeeStorefrontAssetStore/javascript/dojotoolkit/dojo/
 	               			
 		               			
 					             <li>
-					                <a class="sub_category" href="http://www.lee.com/store/LEE_STORE_US/en_US/fitfinder/FitFinderLanding.html">Womens Fit Finder</a>
+					                <a class="sub_category" href="http://www.lee.com/store/LEE_STORE_US/en_US/fitfinder/FitFinderLanding.html">Women's Fit Finder</a>
 				                 </li>
 				                  
 			                 
@@ -3942,7 +3652,7 @@ var djConfig = { baseUrl: "/LeeStorefrontAssetStore/javascript/dojotoolkit/dojo/
 	               			
 		               			
 					             <li>
-					                <a class="sub_category" href="http://www.lee.com/webapp/wcs/stores/servlet/ShopByRiseLandingView?storeId=10151&amp;langId=-1">Womens Shop By Rise</a>
+					                <a class="sub_category" href="http://www.lee.com/webapp/wcs/stores/servlet/ShopByRiseLandingView?storeId=10151&amp;langId=-1">Women's Shop By Rise</a>
 				                 </li>
 				                  
 			                 
@@ -3994,7 +3704,7 @@ var djConfig = { baseUrl: "/LeeStorefrontAssetStore/javascript/dojotoolkit/dojo/
 	               			
 		               			
 					             <li>
-					                <a class="sub_category" href="http://www.lee.com/webapp/wcs/stores/servlet/MenFitFinder?storeId=10151&amp;langId=-1">Mens Fit Finder</a>
+					                <a class="sub_category" href="http://www.lee.com/webapp/wcs/stores/servlet/MenFitFinder?storeId=10151&amp;langId=-1">Men's Fit Finder</a>
 				                 </li>
 				                  
 			                 
@@ -4348,7 +4058,7 @@ var djConfig = { baseUrl: "/LeeStorefrontAssetStore/javascript/dojotoolkit/dojo/
 <br class="clearabove">
         
 
-<script language="javascript" src="/wcsstore/LeeStorefrontAssetStore/javascript/Util.js"></script>
+<script language="javascript" src="http://cdn.lee.com/LeeStorefrontAssetStore/javascript/Util.js"></script>
 <script language="javascript"> 
 
 var GLOBAL_STORE_ID   = "10151";
@@ -4437,7 +4147,7 @@ if (wc_usertype == 'R') {
 
 
 <!-- page: _eMarketingSpotDisplay -->
-<!-- generated: Tue Apr 23 17:36:00 EDT 2013 -->
+<!-- generated: Fri Sep 20 00:52:19 EDT 2013 -->
 
 
 <!-- Start - JSPF File Name: JSTLEnvironmentSetup.jspf -->
@@ -4483,9 +4193,7 @@ if (wc_usertype == 'R') {
 
 
 
-
-
-
+	
 
 
 
@@ -4497,6 +4205,7 @@ if (wc_usertype == 'R') {
 
 
 	
+
 
 
 
@@ -4583,9 +4292,7 @@ if (wc_usertype == 'R') {
 
 <!-- End - Lee Customization -->
 
-
-
-
+ 
 
 <!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
 
@@ -4702,7 +4409,7 @@ if (wc_usertype == 'R') {
 
 
 	
-		Free Ground Shipping on Orders over $75
+		Free Ground Shipping on all orders over $50
 	
 	
 
@@ -5259,7 +4966,7 @@ if (wc_usertype == 'R') {
 
 
 <!-- page: _CachedFooterDisplay -->
-<!-- generated: Tue Apr 23 07:00:02 EDT 2013 -->
+<!-- generated: Thu Sep 19 06:41:25 EDT 2013 -->
 
 
 <!-- Start - JSPF File Name: JSTLEnvironmentSetup.jspf -->
@@ -5305,9 +5012,7 @@ if (wc_usertype == 'R') {
 
 
 
-
-
-
+	
 
 
 
@@ -5319,6 +5024,7 @@ if (wc_usertype == 'R') {
 
 
 	
+
 
 
 
@@ -5405,9 +5111,7 @@ if (wc_usertype == 'R') {
 
 <!-- End - Lee Customization -->
 
-
-
-
+ 
 
 <!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
 
@@ -5550,7 +5254,7 @@ if (wc_usertype == 'R') {
 				<ul>
 					<li><a href="https://www.lee.com/webapp/wcs/stores/servlet/VFCTrackOrderForm?storeId=10151">Track an order</a></li>
 					<li><a href="http://www.lee.com/store/LEE_STORE_US/en_US/content/customer_service/faq.html">FAQs</a></li>
-					<li><a href="http://www.lee.com/store/LEE_STORE_US/en_US/info/SiteMap.html">Site Map</a></li>
+					<li><a href="http://www.lee.com/webapp/wcs/stores/servlet/SiteMapView?langId=-1&amp;storeId=10151&amp;catalogId=13101">Site Map</a></li>
 				</ul>
 			</li>
         
@@ -5692,7 +5396,7 @@ if (wc_usertype == 'R') {
 
 
 <!-- page: _eMarketingSpotDisplay -->
-<!-- generated: Tue Apr 23 17:36:00 EDT 2013 -->
+<!-- generated: Fri Sep 20 00:52:19 EDT 2013 -->
 
 
 <!-- Start - JSPF File Name: JSTLEnvironmentSetup.jspf -->
@@ -5738,9 +5442,7 @@ if (wc_usertype == 'R') {
 
 
 
-
-
-
+	
 
 
 
@@ -5752,6 +5454,7 @@ if (wc_usertype == 'R') {
 
 
 	
+
 
 
 
@@ -5838,9 +5541,7 @@ if (wc_usertype == 'R') {
 
 <!-- End - Lee Customization -->
 
-
-
-
+ 
 
 <!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
 
@@ -5952,6 +5653,32 @@ if (wc_usertype == 'R') {
 						
 		
 		
+		
+				
+			
+			
+			
+
+			
+			
+
+			                                       
+
+			
+			
+			
+			
+			
+				
+				
+				
+				  
+				
+								
+			
+						
+		
+		
 
 	
 
@@ -5980,62 +5707,12 @@ if (wc_usertype == 'R') {
 
 
 
-	
-		
-	
-	
-		
-		
-		
-		
-		
-		
-			
-			
-				
-					
-				
-				
-			
-		
-			
-			
-				
-				
-					
-				
-			
-		
-		
-		
-		
-		
-	
-	
-
 
 
 	
+		<script type="text/javascript" src="/LEE_STORE_US/foresee/foresee-alive.js"></script>
+<script type="text/javascript" src="/LEE_STORE_US/foresee/foresee-trigger.js"></script>
 	
-		<div id="experiment_52862_45852" style="display:none">&lt;!-- BEGIN VelocityContent.jspf --&gt;
-
-	
-	
-	
-	
-	
-	
-
-&lt;!-- Bold Software Visitor Monitor HTML v3.00 (Website=lee.com,ChatWindow=Lee.com Chat Window 1,ChatInvitation=Lee.com) --&gt; &lt;script language="JavaScript" type="text/javascript"&gt; document.write(unescape('%3Cscript language="JavaScript" type="text/javascript" src="https://vms.boldchat.com/aid/531586907286135778/bc.vms3/vms.js"%3E%3C/script%3E')); &lt;/script&gt; &lt;script language="JavaScript" type="text/javascript"&gt;  try {   var pageViewer = _bcvm.getPageViewer("531586907286135778");   pageViewer.setParameter("WebsiteDefID", "289858801286512534");   pageViewer.setParameter("ChatWindowDefID", "1585395132897785875");   pageViewer.setParameter("ChatWidth", "598");   pageViewer.setParameter("ChatHeight", "320");   pageViewer.setParameter("InvitationDefID", "3168288731870430122");   pageViewer.setParameter("WindowScheme", "https");   pageViewer.setParameter("VisitName", "");   pageViewer.setParameter("VisitPhone", "");   pageViewer.setParameter("VisitEmail", "");   pageViewer.setParameter("VisitRef", "");   pageViewer.setParameter("VisitInfo", "");   pageViewer.setParameter("CustomUrl", "");   pageViewer.pageViewed(); } catch(error) {}      &lt;/script&gt; &lt;noscript&gt; &lt;a href="http://www.boldchat.com" title="Live Chat" target="_blank"&gt;&lt;img alt="Live Chat" src="https://vms.boldchat.com/aid/531586907286135778/bc.vmi?wdid=289858801286512534&amp;amp;vr=&amp;amp;vi=&amp;amp;vn=&amp;amp;vp=&amp;amp;ve=&amp;amp;curl=" border="0" width="1" height="1" /&gt;&lt;/a&gt; &lt;/noscript&gt;
-
-&lt;!-- END VelocityContent.jspf --&gt;</div>
-		<script>
-			LEE_Experiment.eval('experiment_52862_45852', 'BoldChat', 1, 25);
-		</script>
-		
-		
-		
-		
 	
 
 
@@ -6075,8 +5752,76 @@ if (wc_usertype == 'R') {
 
 
 	
-		<script type="text/javascript" src="/LEE_STORE_US/foresee/foresee-alive.js"></script>
-<script type="text/javascript" src="/LEE_STORE_US/foresee/foresee-trigger.js"></script>
+		<!-- Lightning Bolt Begins -->
+<script type="text/javascript">
+    var lbTrans = $orderId;
+    var lbValue = $subTotal;
+    var lbData = '[Attribute/Value Pairs for Custom Data]';
+    var lb_rn = new String(Math.random()); var lb_rns = lb_rn.substring(2, 12);
+    var boltProtocol = ('https:' == document.location.protocol) ? 'https://' : 'http://';
+    try {
+        var newScript = document.createElement('script');
+        var scriptElement = document.getElementsByTagName('script')[0];
+        newScript.type = 'text/javascript';
+        newScript.id = 'lightning_bolt_' + lb_rns;
+        newScript.src = boltProtocol + 'b3.mookie1.com/2/LB/' + lb_rns + '@x96?';
+        scriptElement.parentNode.insertBefore(newScript, scriptElement);
+        scriptElement = null; newScript = null;
+    } catch (e) { }
+	</script>
+<!-- Lightning Bolt Ends -->
+	
+	
+
+
+
+<!-- End: ExperimentContent.jsp -->
+					
+					
+						
+				
+		  
+			
+  	
+  			
+       		
+       		  		
+
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+
+					
+
+
+<!-- Begin: ExperimentContent.jsp -->
+
+
+
+
+
+
+
+	
+		<!-- BEGIN VelocityContent.jspf -->
+
+	
+	
+	
+	
+	
+	
+
+<!-- Bold Software Visitor Monitor HTML v3.00 (Website=lee.com,ChatWindow=Lee.com Chat Window 1,ChatInvitation=Lee.com) --> <script language="JavaScript" type="text/javascript"> document.write(unescape('%3Cscript language="JavaScript" type="text/javascript" src="https://vms.boldchat.com/aid/531586907286135778/bc.vms3/vms.js"%3E%3C/script%3E')); </script><script language="JavaScript" type="text/javascript" src="https://vms.boldchat.com/aid/531586907286135778/bc.vms3/vms.js"></script> <script language="JavaScript" type="text/javascript">  try {   var pageViewer = _bcvm.getPageViewer("531586907286135778");   pageViewer.setParameter("WebsiteDefID", "289858801286512534");   pageViewer.setParameter("ChatWindowDefID", "1585395132897785875");   pageViewer.setParameter("ChatWidth", "598");   pageViewer.setParameter("ChatHeight", "320");   pageViewer.setParameter("InvitationDefID", "3168288731870430122");   pageViewer.setParameter("WindowScheme", "https");   pageViewer.setParameter("VisitName", "");   pageViewer.setParameter("VisitPhone", "");   pageViewer.setParameter("VisitEmail", "");   pageViewer.setParameter("VisitRef", "");   pageViewer.setParameter("VisitInfo", "");   pageViewer.setParameter("CustomUrl", "");   pageViewer.pageViewed(); } catch(error) {}      </script> <noscript> <a href="http://www.boldchat.com" title="Live Chat" target="_blank"><img alt="Live Chat" src="https://vms.boldchat.com/aid/531586907286135778/bc.vmi?wdid=289858801286512534&amp;vr=&amp;vi=&amp;vn=&amp;vp=&amp;ve=&amp;curl=" border="0" width="1" height="1" /></a> </noscript>
+
+<!-- END VelocityContent.jspf -->
 	
 	
 
@@ -6250,16 +5995,20 @@ if (wc_usertype == 'R') {
 	
 
 
+	
+	
+	
+
 
 	
 		
 <script language="JavaScript1.1" type="text/JavaScript">
 <!--
-	
+	cmSetProduction();
 //-->
 </script><script language="JavaScript1.1" type="text/JavaScript">
 <!--
-cmCreatePageviewTag(document.title, null, null, null, 10151);
+cmCreatePageviewTag(document.title, null, null, null, "10151");
 //-->
 </script>
 	
