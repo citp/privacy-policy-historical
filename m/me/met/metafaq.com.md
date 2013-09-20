@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metafaq.com privacy policy that was archived on 2013-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130125101319id_/http%3A//www.transversal.com/company/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metafaq.com privacy policy that was archived on 2013-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130920193926id_/http%3A//www.transversal.com/company/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Transversal
 
@@ -45,8 +45,8 @@ __utma
 __utmb   
 __utmc   
 __utmz   
-_user_timezone_offset| HelloBar is the notifications bar you see at the top of our website.   
-We use this to bring important company related events or information to your attention, no matter what page of the website you're currently on. These cookies track which particular notification you've already seen and whether you've decided to minimise it (in which case it isn't shown again until you decide to maximise it once more). We also track clicks on each notification so that we can monitor how effect the feature is and compare different messaging for maximum effectiveness.  
+_user_timezone_offset| HelloBar is the notifications bar you see at the top of our Web site.   
+We use this to bring important company related events or information to your attention, no matter what page of the Web site you're currently on. These cookies track which particular notification you've already seen and whether you've decided to minimise it (in which case it isn't shown again until you decide to maximise it once more). We also track clicks on each notification so that we can monitor how effect the feature is and compare different messaging for maximum effectiveness.  
 uit   
 loc   
 uvc   
@@ -59,5 +59,5 @@ These cookies enable us to monitor how often our content is shared and via which
   
 #### Flash Cookies
 
-The Adobe Flash Player (and similar applications) ("Flash") uses technology to remember settings, preferences and usage similar to browser cookies but these are managed through a different interface than the one provided by your web browser. This technology creates locally stored objects that are often referred to as "Flash cookies". We employ Flash cookies in certain situations where we use Flash to provide video clips. You may access your Flash management tools from Adobe’s web site directly. **We do not use Flash cookies to serve interest-based advertising**.
+The Adobe Flash Player (and similar applications) ("Flash") uses technology to remember settings, preferences and usage similar to browser cookies but these are managed through a different interface than the one provided by your Web browser. This technology creates locally stored objects that are often referred to as "Flash cookies". We employ Flash cookies in certain situations where we use Flash to provide video clips. You may access your Flash management tools from Adobe’s Web site directly. **We do not use Flash cookies to serve interest-based advertising**.
   *[UK]: United Kingdom
