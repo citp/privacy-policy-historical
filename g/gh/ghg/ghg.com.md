@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ghg.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424183401id_/http%3A//www.ghg.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghg.com privacy policy that was archived on 2013-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130920163447id_/http%3A//www.ghg.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GHG
 
