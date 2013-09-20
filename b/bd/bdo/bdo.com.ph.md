@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bdo.com.ph privacy policy that was archived on 2013-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130127162925id_/https%3A//bdo.com.ph/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bdo.com.ph privacy policy that was archived on 2013-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130920041612id_/https%3A//www.bdo.com.ph/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BDO Unibank, Inc.
 
@@ -6,7 +6,7 @@ At BDO, we are committed to protecting your privacy as a visitor to this website
 
 **Collection of Information**
 
-We only collect information that are voluntarily submitted by our website visitors through the "Contact Us" section. Information provided are submitted to the BDO Customer Contact Center for proper handling.
+BDO shall collect non-identifiable information from our website visitors in order to track and serve relevant content to users. We only collect personal information which are voluntarily submitted by our website visitors. Information provided are kept secure and submitted to BDO customer care and communications teams for proper handling.
 
 **Security**
 
