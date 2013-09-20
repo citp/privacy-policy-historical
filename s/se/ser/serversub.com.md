@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the serversub.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614022038id_/http%3A//serversub.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serversub.com privacy policy that was archived on 2013-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130920171159id_/http%3A//serversub.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - ServerSub.com
+# Best Web Hosting Providers | Cheap Domain Hosting Services
 
 In an effort to protect our clients' and site visitors privacy and rights, ServerSub.com has established a Privacy Policy which explains what information we gather on visitors and what we do with information that we gather.
 
