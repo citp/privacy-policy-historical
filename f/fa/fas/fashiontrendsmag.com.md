@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashiontrendsmag.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519041533id_/http%3A//www.fashiontrendsmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashiontrendsmag.com privacy policy that was archived on 2013-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130920222921id_/http%3A//www.fashiontrendsmag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Fashion Trends Magazine
 
