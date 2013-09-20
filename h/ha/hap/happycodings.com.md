@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the happycodings.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601060016id_/http%3A//happycodings.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happycodings.com privacy policy that was archived on 2013-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130920120510id_/http%3A//happycodings.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Happy Codings - Privacy Policy
 
