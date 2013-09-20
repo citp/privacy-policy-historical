@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freebie-articles.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601233753id_/http%3A//www.freebie-articles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freebie-articles.com privacy policy that was archived on 2013-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130920185530id_/http%3A//www.freebie-articles.com/privacy.php) for the most accurate reproduction.*
 
 # Freebie Articles | Privacy Statement
 
