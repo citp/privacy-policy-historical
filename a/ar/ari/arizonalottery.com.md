@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arizonalottery.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529202519id_/http%3A//www.arizonalottery.com/About/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arizonalottery.com privacy policy that was archived on 2013-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130920183007id_/http%3A//www.arizonalottery.com/About/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
