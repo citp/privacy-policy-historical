@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azdor.gov privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117102418id_/http%3A//www.azdor.gov/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azdor.gov privacy policy that was archived on 2013-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130920194444id_/https%3A//www.azdor.gov/privacy.aspx) for the most accurate reproduction.*
 
 # Arizona Department of Revenue
 
