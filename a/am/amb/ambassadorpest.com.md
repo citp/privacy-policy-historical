@@ -1,29 +1,29 @@
-> *The following text is extracted and transformed from the ambassadorpest.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201051852id_/http%3A//www.ambassadorpest.com/p/75/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ambassadorpest.com privacy policy that was archived on 2013-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130920145602id_/http%3A//www.ambassadorpest.com/privacy-policy) for the most accurate reproduction.*
 
-# Ambassador Pest Management - Privacy Policy
+# Privacy Policy
 
-Ambassador Pest Management  
-1401 Forsythe Road  
-West Palm Beach, FL, 33405
+This is a privacy policy for AmbassadorPest.com who respects your privacy. Below is an outline of the information that this web site gathers, how it’s used, and how you can “opt-out” We invite you to contact us if you have questions about this policy.
 
-We can be reached via telephone at or you can fill out our [contact form](https://web.archive.org/p/4/contact-us).
+Site Visits:
 
-For each visitor to our Web site, our Web server automatically recognizes only the consumer's IP address (where possible), but not the e-mail address.
+Whenever you request a page through your browser, navigation and clickstream data such as:
 
-We collect only the IP address, but not the e-mail address of visitors to our Web site, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations, name and address, telephone number, fax number.
+* Your IP address,
 
-The information we collect is used to improve the content of our Web site, used to notify consumers about updates to our Web site, disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Website and applicable laws or to protect against misuse or unauthorized use of our Website.
+* Browser and version,
 
-With respect to cookies, we use them to store visitors' preferences and record session information, such as items that consumers add to their shopping cart.
+* Operating system,
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us an email at the above address, calling us at the above telephone number or writing to us at the above address. From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
+* Date and time and
 
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address, calling us at the above telephone number, or writing to us at the above address.
+* The site from which you came are stored in a log file and/or database.
 
-Upon request we provide site customers with access to unique identifier information (e.g., customer login number or password) that we maintain about them, transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, communications that the consumer/client has directed to our site (e.g., e-mails, customer inquiries), contact information (e.g., name, address, phone number) that we maintain about them, a description of information that we maintain about them. Consumers can access this information by e-mailing us at the above address or writing to us at the above address. 
+When opting into our mail lists, your information is kept on a secure dedicated server hosted by Aweber.
 
-Upon request we offer clients the ability to have inaccuracies corrected in contact information, financial information, unique identifiers, transaction information and communications that the consumer/visitor has directed to the site.
+The email addresses collected from opt-ins to our mailing lists are not sold, or disclosed to any third parties. These addresses will only be used by our business to send out communications (for example, newsletters). You will not receive any mailings you did not request. The email addresses collected at our web site are stored on a server hosted by Aweber. You can remove yourself from our list at any time by clicking on the unsubscribe link at the bottom of any emails sent from us.
 
-Consumers can have this information corrected by sending us an email at the above address, calling us at the above telephone number, or writing to us at the above address.
+When a contest/sweepstakes/survey is run on this site you may be asked to supply some personally identifying information like your name, email address and/or phone number by the third-party company offering the contest/sweepstakes/survey. We are not affiliated with these companies and cannot extend our privacy policy to prevent these companies from using your information in the manner the deem suitable. Please review the terms and conditions of any offers presented before you complete any of the offers.
 
-With respect to security, when we transfer and receive certain types of sensitive information such as financial information, we redirect visitors to a secure server. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+Any data collected will be used by ourselves and our agents. AmbassadorPest.com hereby reserves the right to transfer any data collected in the event of an acquisition, full or partial, of the company or its assets.
+
+If you have questions regarding our privacy policies, or require assistance in opting out of our email lists,  **[please contact us.](https://web.archive.org/registration-form/)**
