@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thirtysixmonths.com privacy policy that was archived on 2013-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130302231132id_/http%3A//thirtysixmonths.com/about-me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thirtysixmonths.com privacy policy that was archived on 2013-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130920174502id_/http%3A//thirtysixmonths.com/about-me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Thirty Six Months
 
