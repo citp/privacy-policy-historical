@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kiwichoice.com privacy policy that was archived on 2013-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130219082050id_/http%3A//www.kiwichoice.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiwichoice.com privacy policy that was archived on 2013-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130921231817id_/http%3A//www.kiwichoice.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | KiwiChoice Inc.
 
