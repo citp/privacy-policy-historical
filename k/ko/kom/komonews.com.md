@@ -1,101 +1,31 @@
-> *The following text is extracted and transformed from the komonews.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530163239id_/http%3A//www.komonews.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the komonews.com privacy policy that was archived on 2013-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130921140411id_/http%3A//www.komonews.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | KOMO Privacy Policy | Seattle News, Weather, Sports, Breaking News | KOMO News
 
-**Privacy Policy effective May 2010 (revised) July 2008 (original)**  
-    This Privacy Policy (the “Policy”) governs the use and collection of information that Fisher Communications, Inc. (collectively, "we," "our" or the "website") obtains from you while you are visiting any of our websites (the "Site").This Privacy Policy applies to certain websites which are owned and/or operated by or on behalf of Fisher Communications, Inc. and other affiliated entities it owns or controls, including the one which you have arrived at by clicking to this Policy via an authorized link.  Please carefully review this Policy before sharing any information with us or any other party offering a service on our Site. By visiting this Site, you agree to the terms and conditions set forth in this Policy and our "[Terms of Use](https://web.archive.org/about/terms)," including any updates or changes to either. You will know that we have changed or updated this Policy because we will note the dates of all revisions at the top. If you want to see archived copies of this Policy or if you have any questions related to privacy or use and collection of information related to this Site please contact:
+**General**
 
-  
-Executive Producer  
-Fisher Interactive Network.  
-140 Fourth Avenue North, Suite 370  
-Seattle, WA 98109  
-webhelp@fsci.com
+The following privacy policy describes what information is collected by www.komonews.com (the "Website") and how that information is used. This privacy policy is effective as of February 8, 2007 and will remain in effect until such date as the policy may be modified by the Station in its sole and absolute discretion. Any such changes will be posted on the Website. Your use of the Website constitutes your agreement to the privacy policy as in effect at that time.
 
-  
-This Privacy Policy  addresses the following questions:   
--    What information do we collect and how is it collected?   
--    What do we do with the information we collect and with whom is it shared?   
--    Do I have to provide information to use the Site or can I opt out?   
--    What are the guidelines for children related to the Site?
+**No Postings by Children**
 
-Our Sites may from time to time operate, either individually or jointly with third parties, other types of web sites that may adopt different privacy policies or Terms of Use. Therefore you should review the applicable policies and Terms of Use when you visit any web site, including our Site. 
+The Website does not knowingly collect information from any individuals under the age of 13, and all children under the age of 13 are hereby notified that they are not permitted to post any information on the Website. If we become aware of any video submissions or postings by children under the age of 13, that video/posting will be removed by the Station. Parents and guardians should carefully monitor the use of the Website by children.
 
-**What Information Do We Collect And How Is It Collected?**
+**Information the Website Collects**
 
-We may collect the following types of information during your visit on our Site:   
-_A.     INFORMATION THAT YOU PROVIDE TO US:_  
-    In order to access certain services on our Site, such as contests, sweepstakes, surveys or special offers, we may request that you provide identifying information, such as your **name, address, e-mail address, birth date, gender, and/or household income range.**  
-We may offer areas on the Site that allow you to purchase goods or services from us or third party vendors. In connection with purchasing these goods and services, we may request that you submit **credit card, payment account or other information** in connection with your purchase of these goods or services.   
-    We may offer opportunities for you to elect to receive e-mails and other communications that contain news, information, promotional offers or other services that may be of interest to you. In connection with these services, we may ask that you provide your **e-mail address** and other information relevant to your receipt or use of these services. When you send email or other types of communications to us, we may retain those communications in our records in order to keep and respond to such communications.   
-    Because our Site may offer message boards, conversation pages, chat rooms or other public forums inviting public participation through user submissions, you may choose to provide a user submission.  When you do so you might be providing personal information that may be posted publicly or otherwise disclosed without limitation as to its use by a third party.  We cannot protect your privacy for your user submissions, and we cannot guarantee your anonymity. We reserve the right to disclose information regarding user submissions pursuant to this Policy.
+The personally identifying information the Website intentionally collects from users who submit video(s)/posting(s)/email(s) to the Website are those users' names, addresses, telephone numbers, e-mail addresses, age/date of birth and gender. Addition personal information may unintentionally be collected if such information is provided in submitted video(s)/posting(s)/email(s). Personal information included in a video(s)/posting(s) is by its nature available to the general public and no such information should be posted by any user who desires to keep it private. The Station is not responsible for any use which may be made of such information by any third party.
 
-_B.     INFORMATION COLLECTED THROUGH TECHNOLOGY_  
-    When you use any of the services on our Site, our servers automatically record information that your browser sends whenever you visit a website. These "server logs" as they are commonly referred to, may include information such as your web request, Internet Protocol (“IP”) address (the IP address is a number that is automatically assigned to your computer whenever you are visiting the World Wide Web), browser type, browser language, and date and time of your request and one or more cookies that may uniquely identify your browser. Log information does not include personally identifiable information other than IP addresses.  
-We also may have links on our Site that are in a format that enables us to keep a record of whether any particular link has been clicked on.   
-Our Site collects information through other technical methods, including cookies and web beacons. When you visit our Site, we send cookies to your computer and use web beacons in order to track your trends and preferences. A cookie is a data text file that a web site sends to your browser and which is then stored on your system. Our Site can only access the information from a cookie sent by our Site. We cannot learn your e-mail address or any other personal information about you through a cookie. Rather, cookies are used to gather information about your use of the Site and how we can adapt our services to better suit your needs and preferences. Cookies identify you to our server, meaning that our Site will recognize you when you return to visit the Site. Many internet browsers are initially set up to accept cookies, but you can set your browser to refuse all cookies or to inform you when a cookie is being sent. Web beacons are invisible images that are used to write cookies or access the cookies we have written previously or to access information about the page you are viewing for the purposes of recognizing returning users and analyzing patterns. A web beacon cannot access cookies sent by other web sites or the information contained in those cookies. 
+Like most major websites, the Website uses "cookies." A "cookie" is a small piece of text that a web server stores on your computer in order to make your experience better upon return visits to that website. The Website uses cookies to aggregate information about our users to allow us to see how our visitors navigate the site in order to make improvements in the site's design. Cookies are not a program and do not allow us to access any information on your computer other than the information that we initially placed there.
 
-_INFORMATION THAT WE COLLECT FROM OTHERS_  
-    We use third-party advertising servers to display ads on our Site, and we use third parties to measure and track statistical information about our Site. These third parties may place or recognize a cookie or web beacon on your browser. The information provided by these cookies and web beacons is used to deliver advertising targeted to your interests, and to better understand the usage and visitation of our Site and other sites tracked by these third parties. We do not have control over the practices of these third parties. The third parties do not receive or learn your e-mail address or other personal information through these technologies. We currently maintain relationships with Google Analytics and other entities to provide statistical and ad placement services. These parties may provide a way to opt out of their cookies and web beacons. You can find more information about the practices of these parties by visiting the websites of the individual parties or the Network Advertising Initiative. If you would like more information regarding the third party services used on our Site, you can contact our Site at webhelp@fsci.com 
+In addition, we have web logs which collect standard information each time we serve a page on the Website. The web logs provide us with information on our users Internet protocol addresses, the pages of the Website visited and a date and time stamp. This information allows us to administer the website and identify how it is being used.
 
-_**_What do we do with the information we collect, and with whom is it shared?_**_
+**Maintenance of Information**
 
-    We respect your privacy and do not share personally identifiable information about you or any Site visitor with third parties except within the scope of this Privacy Policy. Here are some of the ways in which your information may be used or shared with other parties:   
-    __Statistical and Aggregate Information__. Some of the information that we collect is processed and analyzed in the form of aggregated statistics that track the types of websites users visit and the frequency with which they visit those sites. This statistical information does not include any information that personally identifies you or any user of the Site. The information is useful in creating a Site that reflects the preferences of our users, and we reserve the right to share such aggregated information with third parties to serve our business purposes. We also use non-personally identifiable demographic and preference information that we collect to allow targeted advertising and other content on our Site to be served according to the interests of our users.   
-    __Related Sites__. Some of our services may be offered in connection with other websites that are not owned and/or operated by Fisher Communications, Inc.  Information you provide to us may be sent to those sites, and information that you provide to other related sites may be sent to us, in order to deliver the services you request. Any information provided to or in connection with a related site will be governed by that site's privacy policy. You should become familiar with other sites' privacy practices before providing us or them with any personal information for a service that would require us to provide them with any information about you. If you decide to opt out of any services on our Site for which you previously provided personal information to us and another site, you will need to contact any affiliated sites separately to request that they receive your opt out request as well, as it relates to information such affiliated sites retain.   
-    __Service Providers__. We may have agreements with third party service providers, such as credit card processors, shipping companies and/or fulfillment services. These parties provide services that allow us to offer some of the features of the Site. If you choose to receive these services, information you provide in connection with that service may also be shared with the third party service provider. We require that these providers use the information they obtain solely to provide the service on the Site, unless noted at the time you sign up for the service. However, you should assume that the information provided to these service providers may also be governed by their privacy policies, and you should become familiar with such providers' privacy practices prior to accepting the service and providing the information. 
+All videos/postings/emails on the Website may be stored in our database even after the videos/postings/emails have been deleted from public display. In addition, our web logs may be stored indefinitely. Although we use customary practices to store all information received from our users in a secure operating environment that is not available to general public, no guarantee can be provided that such information might not become available to persons outside of the Station.
 
-__Required by Law__
+**Disclosure of Information**
 
-. We reserve the right to disclose to law enforcement agencies user submissions or other personally identifiable information as follows:  
--    We may disclose user submissions or other personally identifiable information in response to legal process, for example, in response to a court order, warrant or a subpoena.    
--    We also may disclose user submissions or other personally identifiable information in response to a law enforcement agency’s request or inquiry when it is necessary to investigate, prevent, or take action regarding suspected or potential crimes, illegal activities or fraud, situations involving actual or potential threats to the physical safety of any person, to verify or enforce compliance with the policies governing our Site, or as otherwise required or permitted by law.    
-    By reserving these rights, we do not assume any duty or responsibility to so report.  **We are not responsible or liable to any person or entity whatsoever for any loss, damage (whether actual, consequential, punitive or otherwise), injury claim, liability or other cause of any kind or character based upon the disclosure or nondisclosure of user submissions or other personally identifiable information pursuant to this Policy.**
+All personal information collected by this Website may be disclosed as required by law, by the rules of any governmental agency of if the Station otherwise becomes legally compelled (by oral questions, interrogatories, requests for information or documents, subpoena, civil investigative demand or similar process). The Station may also disclose such information as it deems necessary to enforce its rights and to avoid the violation of any party's rights (including intellectual property rights, rights to privacy and rights not to be defamed in any way). Information may also be disclosed by the Station to law enforcement officers or others if the Station determines, in good faith, that such disclosure is necessary to protect the rights and safety of the Station's employees, users and/or the public at large.
 
- _ _Sale of Company__
+**Linked Sites**
 
-. In the event that we sell our assets to another company or participate in a merger with another company, the information we have collected from you and other users of the Site may be transferred to the successor or purchaser in such transaction and accessible to such purchaser or successor.   
-    __Corporate Affiliates__. Our corporate affiliates may have access to your information to allow us to improve the services we offer to you and other users to our sites. All of our affiliates who have access to any information you provide to our Site are subject to this Policy. 
-
-__Consent__
-
-. If you expressly consent to the release of your information to a particular third party or for a particular purpose, we may disclose your information in accordance and to the extent of your consent. 
-
-_**  
-Do I have to provide information to use the Site, or can I opt out?**_
-
-    Any information you provide to us is voluntary, and you are not required to share information with us. You may opt-out of sharing information with us in several ways. First, when considering  use of certain services provided by this Site, you can choose whether to share optional information during the registration process for  the service offered on the Site. Second, if you wish to not receive electronic communications from us, you may opt out by using the opt-out procedure contained in the communication, or by notifying us at the address below. You may also choose at a later date to have your contact information removed from our records by providing notice to the below address, or e-mailing webhelp@fsci.com
-
-  
-Fisher Interactive Network  
-Opt-Out Department  
-140 Fourth Avenue North, Suite 370  
-Seattle, WA 98109
-
-    Please be advised that opting out in any of the ways described above may limit your ability to visit and take advantage of certain services on our Site.  With respect to the information you might provide through a related or a third party site, you will need to go to the website of such affiliate and third party provider, review their privacy policies and follow their specific opt-out provisions because we do not have access to their databases. 
-
-_**What are the guidelines for children related to the Site?**_
-
-    We do not intend to target children under 13 but our Site may contain items that may interest children. We do not intentionally collect, or allow the submission of information, from children under the age of 13. **If you are under the age of 13, do not provide us with any personal information without verifiable written parental consent.**    Such written consent must be submitted by you if you are requested to register or to submit personal information to our Site.   If we cannot reasonably verify parental consent or the age of the party submitting information we reserve the right to refuse participation in the requested service or feature. Should a child whom we know to be under 13 send personally identifiable information to us without verifiable parental consent, the Site will immediately delete such information from our database. We will not disclose any child’s personally identifiable information without prior parental consent.  Any withdrawal of parental consent must be provided in writing to us at
-
-Fisher Interactive Network  
-Opt-Out Department  
-140 Fourth Avenue North, Suite 370  
-Seattle, WA 98109
-
-    We do not permit the use of our interactive public forums  by children under the age of 13 and we will promptly remove any user submission that we discover was submitted by a child under the age of 13. We reserve the right to refuse participation in our interactive public forums if we reasonably determine the submitter is under the age of 13.
-
-**General Policies**
-
- _ _Application to other websites__
-
-.  This Privacy Policy only applies to this Site.  Data or information shared with our affiliates or third parties will be subject to their privacy policies, which are not subject to this Policy. 
-
-_**Security and Storage**_
-
-. We respect your privacy and information you provide us, and the security with which your information is protected. We maintain information you provide to us on a secure server to protect sensitive information. While we take measures to protect and maintain this information in its secure environment, we cannot guarantee that the security of our system will not be breached. 
-
-_**Changes to this Privacy Policy**_
-
-. We reserve the right to modify the terms of this Privacy Policy at any time and in our sole discretion, and will identify revisions to this Policy at the top by issue date. Your continued use of the Site following such a modification will constitute binding acceptance of those changes.   
- 
+The Website allows certain advertisements/postings which include links to other sites. The Station has no control over such other sites and is not responsible for any content on such linked sites or for the use by such other sites of any information collected by those sites.
