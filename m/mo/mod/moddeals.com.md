@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the moddeals.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609195746id_/http%3A//www.moddeals.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moddeals.com privacy policy that was archived on 2013-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130921022055id_/http%3A//www.moddeals.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Usage of Personal Information - Cookies | ModDeals.com
 
-**Last Updated: April 25th, 2013**
-
-Moddeals.com TAKES PRIVACY SERIOUSLY. Please read the following to learn more about our privacy policy (“Privacy Policy”). This Privacy Policy applies to the use of the Site(s) (as defined below), including by customers and other persons. Except as otherwise indicated, customers and other persons using the Site are individually and collectively referred to as “you”, “your” or “Customer”, and Modmerica Group LLC and its subsidiaries and affiliates are referred to as, "Mod deals", "Moddeals.com", "we", "us" and "our."
+**Moddeals.com TAKES PRIVACY SERIOUSLY.** Please read the following to learn more about our privacy policy (“Privacy Policy”). This Privacy Policy applies to the use of the Site(s) (as defined below), including by customers and other persons. Except as otherwise indicated, customers and other persons using the Site are individually and collectively referred to as “you”, “your” or “Customer”, and Modmerica Group LLC and its subsidiaries and affiliates are referred to as, "Mod deals", "Moddeals.com", "we", "us" and "our."
 
 The family of Web sites operated by or on behalf of ModMerica Group LLC (the "Site(s)"), including, but not limited to, moddeals.com, modmerica.com, and shoemagoo.com and any other website(s) owned and/or operated by Modmerica Group LLC and any of their associated web pages, are committed to implementing policies and procedures designed to protect your privacy and security, in addition to providing you with the best possible online experience. To achieve that goal, we want you to understand what kinds of information we gather from and about you, how this information is used, shared and safeguarded, and how you can control its use. In order to offer various products and services to our Customers, Moddeals.com needs to collect certain information as described in this Privacy Policy.
 
@@ -89,5 +87,6 @@ Legal Department
 ModDeals.com  
 6020 Progressive Ave #100  
 San Diego CA 92154  
-619.810.4600  
-**Email:** Customercare@moddeals.com
+1-888-222-7080  
+**Email:**[CustomerCare@moddeals.com](mailto:CustomerCare@moddeals.com)  
+**Last Updated: 4-25-2013**
