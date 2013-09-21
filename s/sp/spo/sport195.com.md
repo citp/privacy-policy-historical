@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sport195.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519230739id_/http%3A//www.sport195.com/home/site_documents/Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sport195.com privacy policy that was archived on 2013-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130921072445id_/http%3A//www.sport195.com/home/site_documents/Privacy%2520Policy) for the most accurate reproduction.*
 
 # SPORT195 - About us - People - Investors
 
@@ -75,3 +75,5 @@ If you ask Sport195 to stop using your Personal Information, Sport195 will honor
 If you would like to communicate with us about this Privacy Policy or Sport195’s collection and use of your Personal Information please contact Sport195 at:
 
 Email:  privacy@Sport195.com 
+
+© Sport195 - This data is submitted by users of the Sport195 platform and may be incomplete and/or inaccurate 
