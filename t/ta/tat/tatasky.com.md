@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tatasky.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603132231id_/http%3A//tatasky.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tatasky.com privacy policy that was archived on 2013-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130921161251id_/http%3A//www.tatasky.com/privacy-policy.html) for the most accurate reproduction.*
 
 # DTH India | Tata Sky DTH | Digital TV
 
