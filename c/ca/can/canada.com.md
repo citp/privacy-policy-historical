@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canada.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615014313id_/http%3A//o.canada.com/2012/08/10/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canada.com privacy policy that was archived on 2013-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130921122824id_/http%3A//o.canada.com/2012/08/10/privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement | canada.com
 
