@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the uscg.mil privacy policy that was archived on 2013-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130611044731id_/http%3A//www.uscg.mil/global/disclaim.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the uscg.mil privacy policy that was archived on 2013-09-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130921203735id_/http%3A//www.uscg.mil/global/disclaim.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -38,27 +38,7 @@
 
 </script>
 
-<script type="text/javascript" language="JavaScript">
-<!--
-function isSelected()
-{
-    var isSel = document.gsearch.choosesite.checked;
-    
-    if (isSel == true) {
-      
-           document.gsearch.sitesearch.value = 'http://www.uscg.mil/global';
-      
-    } else {
-        document.gsearch.sitesearch.value = '';
-    }
-}
-//-->
-</script>
-<noscript>
-<style type="text/css">
-#sitefilter, #site { visibility:hidden; display:none; }
-</style>
-</noscript>
+
 <!-- START: banner DIV -->
 <div id="banner"> 
 
@@ -81,19 +61,41 @@ function isSelected()
     </ul>
 
 <!-- START: searchbox DIV -->
+<script type="text/javascript" language="JavaScript">
+<!--
+function isSelected()
+{
+	if(document.gsearch.sitefilter){
+    var isSel = document.gsearch.sitefilter.checked;    
+    if (isSel == true) {
+           document.gsearch.query.value = 'site:' + document.gsearch.sitefilter.value + ' ' + document.gsearch.q.value;
+	} else {
+		document.gsearch.query.value = document.gsearch.q.value;
+	}
+    } else {
+        document.gsearch.query.value = document.gsearch.q.value;
+    }
+}
+//-->
+</script>
+<noscript>
+<style type="text/css">
+#sitefilter, #site { visibility:hidden; display:none; }
+</style>
+</noscript>
     <div id="searchbox"> 
-
 	<!-- Search My Google Search Appliance --> 
-    <form method="post" action="http://www.uscg.mil/global/search/default.asp" name="gsearch">
-    	<label for="term" class="hidden">Enter Search Term</label>
-        <input id="term" type="text" name="q" size="25" maxlength="255" value="" onkeypress="return submitenter(this,event)">
-        <input style="font-size: 8pt;" type="submit" name="btnG" value="Search" onclick="isSelected()">
+    <form accept-charset="UTF-8" method="get" action="http://search.www.uscg.mil/search" name="gsearch" onsubmit="isSelected()">
+    
+    	<input id="affiliate" name="affiliate" type="hidden" value="uscg">
+        <input name="query" type="hidden" value="">
+    	<label for="q" class="hidden">Enter Search Term</label>
+        <input autocomplete="off" class="usagov-search-autocomplete" id="q" type="text" size="25" maxlength="255" value="" onkeypress="return submitenter(this,event)">
+        <input style="font-size: 8pt;" type="submit" value="Search">
     <br>
-        <input type="hidden" name="sitesearch" value="">
 
         <span style="top: 0; left: 0; padding: 0;"></span>
 
-    	<input type="hidden" name="hdr" value="2">
     </form>
 	<!-- Search My Google Search Appliance-->
 
@@ -104,11 +106,11 @@ function isSelected()
 <div id="navbuttons">
     <ul>
         <li id="home"><a href="http://www.uscg.mil">Home</a></li>
-        <li id="jobs"><a href="http://www.uscg.mil/top/careers.asp">Careers</a></li>
-        <li id="units"><a href="http://www.uscg.mil/top/units">Units</a></li>
+        <li id="about"><a href="http://www.uscg.mil/top/about">About Us</a></li>
+        <li id="units"><a href="http://www.uscg.mil/top/units">Organization</a></li>
         <li id="missions"><a href="http://www.uscg.mil/top/missions">Missions</a></li>
         <li id="business"><a href="http://www.uscg.mil/acquisition/business/business.asp">Doing Business</a></li>
-        <li class="last" id="about"><a href="http://www.uscg.mil/top/about">About Us</a></li>
+	<li class="last" id="jobs"><a href="http://www.uscg.mil/top/careers.asp">Join</a></li>
   </ul>
 </div>
 <!-- STOP: Navigation Bar -->
