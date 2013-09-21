@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bighospitality.co.uk privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528011500id_/http%3A//www.bighospitality.co.uk/Info/Privacy-and-Cookie-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bighospitality.co.uk privacy policy that was archived on 2013-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130921131337id_/http%3A//www.bighospitality.co.uk/Info/Privacy-and-Cookie-Policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy
 
