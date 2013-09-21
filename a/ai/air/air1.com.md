@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the air1.com privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420061820id_/http%3A//www.air1.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the air1.com privacy policy that was archived on 2013-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130921200539id_/http%3A//www.air1.com/about/privacy.aspx) for the most accurate reproduction.*
 
-# About > Air1 Radio, Positive, Alternative Music
-
-  
-
-
-## Air 1 Radio Network
+# Air1 Radio, Positive, Alternative Music
 
 Recognized for our commitment to safeguarding consumer privacy online, Air 1 Radio Network upholds a strict set of privacy principles:
 
