@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hintsandthings.co.uk privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606043822id_/http%3A//hintsandthings.co.uk/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hintsandthings.co.uk privacy policy that was archived on 2013-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130921205026id_/http%3A//hintsandthings.co.uk/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy for www.hintsandthings.com
 
