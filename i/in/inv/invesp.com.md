@@ -1,19 +1,18 @@
-> *The following text is extracted and transformed from the invesp.com privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420090229id_/http%3A//www.invesp.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invesp.com privacy policy that was archived on 2013-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130921041135id_/http%3A//invesp.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 This privacy policy sets out how Invesp uses and protects any information that you give Invesp when you use this website or register to use any of the websites or services operated by Invesp.
 
-Invesp is committed to ensuring that your privacy is protected. Any information, which may identify you and which you provide to Invesp when using our website or services will only be used in accordance with this privacy statement. 
+Invesp is committed to ensuring that your privacy is protected. Any information, which may identify you and which you provide to Invesp when using our website or services will only be used in accordance with this privacy statement.
 
-Invesp may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1/1/2011.  
-
+Invesp may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1/1/2011.
 
 ## What we collect
 
-When you register for the services, we ask you for information such as name, email, password, company name, website address and contact information. 
+When you register for the services, we ask you for information such as name, email, password, company name, website address and contact information.
 
-When you login to the website, we track the IP address, browser information (Type, language, etc), date of your requests. 
+When you login to the website, we track the IP address, browser information (Type, language, etc), date of your requests.
 
 When you send email to Invesp, we keep record of the emails to process your requests. 
 
@@ -27,18 +26,17 @@ We may share with third parties certain pieces of aggregated, non-personal infor
 
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-  * Internal record keeping. 
+  * Internal record keeping.
   * We may use the information to improve our products and services. 
-  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.  
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
 
 
 
-From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customize the website according to your interests.  
-
+From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customize the website according to your interests.
 
 ## Security
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
+We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
 ## Links to other websites
 
