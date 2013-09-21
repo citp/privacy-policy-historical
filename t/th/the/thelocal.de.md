@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelocal.de privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628065352id_/http%3A//www.thelocal.de/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelocal.de privacy policy that was archived on 2013-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130921125058id_/http%3A//www.thelocal.de/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - The Local
 
@@ -62,68 +62,12 @@ You can also remove all cookies from your computer – or specific cookies that 
 
 ## More information
 
-KEEP IN TOUCH
-
 RECEIVE OUR NEWSLETTER AND ALERTS 
-
-Highlights
-
-[](https://web.archive.org/sci-tech/20130620-50421.html)
-
-[](https://web.archive.org/lifestyle/20130619-50403.html)
-
-[](https://web.archive.org/opinion/20130619-50409.html)
-
-[](https://web.archive.org/opinion/20130613-50275.html)
-
-[](https://web.archive.org/society/20130614-50297.html)
-
-[](https://web.archive.org/national/20130612-50253.html)
-
-[](https://web.archive.org/opinion/20130611-50245.html)
-
-[](https://web.archive.org/society/20130606-50147.html)
-
-[](https://web.archive.org/lifestyle/20130604-50091.html)
-
-[](https://web.archive.org/sci-tech/20130603-50071.html)
-
-[](https://web.archive.org/lifestyle/20130530-49993.html)
-
-[](https://web.archive.org/lifestyle/20130527-49883.html)
-
-[](https://web.archive.org/opinion/20130524-49901.html)
-
-[](https://web.archive.org/lifestyle/20130523-49873.html)
-
-[](https://web.archive.org/national/20130523-49867.html)
-
-[](https://web.archive.org/lifestyle/20130516-49757.html)
-
-[](https://web.archive.org/opinion/20130514-49701.html)
-
-[](https://web.archive.org/opinion/20130506-49369.html)
-
-[](https://web.archive.org/lifestyle/20130424-49317.html)
-
-[](https://web.archive.org/opinion/20130325-48679.html)
-
-[](https://web.archive.org/national/20130130-47651.html)
-
-[](https://web.archive.org/national/20130315-48549.html)
-
-[](https://web.archive.org/sci-tech/20130511-49641.html)
-
-[](https://web.archive.org/travel/20130502-49739.html)
-
-[](https://web.archive.org/education/20130412-49001.html)
-
-[](https://web.archive.org/opinion/20130606-50141.html)
 
 Latest news from The Local in France
 
-  * 28/06 [Blanc unfazed at not being PSG's first choice »](http://www.thelocal.fr/page/view/blanc-unfazed-at-not-being-first-choice-for-psg)
-  * 28/06 [France 'on course' to break public deficit limit »](http://www.thelocal.fr/page/view/france-on-course-to-break-public-deficit-limit)
+  * 21/09 [France dethrone Spain in overtime Euro thriller »](http://www.thelocal.fr/page/view/france-dethrone-spain-in-overtime-euro-thriller)
+  * 21/09 [French imams to meet pope »](http://www.thelocal.fr/page/view/french-imams-to-meet-pope)
 
 
 
@@ -131,8 +75,8 @@ Latest news from The Local in France
 
 Latest news from The Local in Norway
 
-  * 23/06 [Melting ice pushes Norway closer to Asia »](http://www.thelocal.no/page/view/melting-ice-pushes-norway-closer-to-asia)
-  * 22/06 [Olympic bid divides Oslo residents »](http://www.thelocal.no/page/view/almost-half-of-oslo-residents-opposed-to-olympic-bid)
+  * 20/09 [Norway drops 'moon landing' carbon project »](http://www.thelocal.no/page/view/norway-drops-moon-landing-carbon-project)
+  * 20/09 [Peruvian shaman helps police nab burglars »](http://www.thelocal.no/page/view/peru-shaman-helps-norway-police-nab-burglars)
 
 
 
@@ -140,8 +84,8 @@ Latest news from The Local in Norway
 
 Latest news from The Local in Sweden
 
-  * 28/06 [Stockholm arena bomb was 'murder attempt' »](http://www.thelocal.se/48744/20130628/)
-  * 28/06 [Swedish bus strike over after pay deal »](http://www.thelocal.se/48742/20130628/)
+  * 21/09 [Ikea chairman denies family financial feud  »](http://www.thelocal.se/50360/20130921/)
+  * 21/09 [The week's news from Sweden in ten pictures »](http://www.thelocal.se/50358/20130921/)
 
 
 
@@ -149,8 +93,8 @@ Latest news from The Local in Sweden
 
 Latest news from The Local in Switzerland
 
-  * 27/06 [NestlÃ© unveils European youth jobs scheme »](http://www.thelocal.ch/page/view/nestle-unveils-youth-job-creation-scheme)
-  * 27/06 [Snowden trashes 'racist Swiss' on chat site »](http://www.thelocal.ch/page/view/snowden-trashes-racist-swiss-on-chat-site)
+  * 20/09 [Shrinking Swiss glacier highlights warming trend »](http://www.thelocal.ch/page/view/melting-swiss-glacier-highlights-warming-trend)
+  * 20/09 [Global church group seeks Syria summit  »](http://www.thelocal.ch/page/view/world-council-of-churches-seeks-syria-summit)
 
 
 
@@ -158,20 +102,20 @@ Latest news from The Local in Switzerland
 
 Jobs in Germany, in English
 
-**891** jobs available  
-**613** new jobs this week  
-**157** new jobs today 
+**953** jobs available  
+**694** new jobs this week  
+**15** new jobs today 
 
-  * [Business process architect Material & Services Management (f/m)](https://web.archive.org/jobs/?l=123160227&j=90621069&c=163)
-  * [Team Assistant in Business Development with book-keeping knowledge (m/f)](https://web.archive.org/jobs/?l=123158906&j=90620108&c=163)
-  * [Freelance QA Representative-GMP Professional/ Rhein-Main](https://web.archive.org/jobs/?l=123156280&j=90618039&c=163)
-  * [Senior IT System Professional (m/w)](https://web.archive.org/jobs/?l=123155809&j=90617681&c=163)
-  * [Financial Controller (m/f)](https://web.archive.org/jobs/?l=123151739&j=90614370&c=163)
-  * [Assistant to the Office Manager (m/f)](https://web.archive.org/jobs/?l=123146257&j=90609906&c=163)
-  * [MANAGEMENT CONSULTANT (M/F) (GBS - 11737-12)](https://web.archive.org/jobs/?l=122992928&j=90503652&c=163)
-  * [IT MANAGING CONSULTANT / PROJECT MANAGER (M/F) (GBS - 11739-12)](https://web.archive.org/jobs/?l=122992926&j=90503650&c=163)
-  * [SENIOR CONSULTANT / PROJECT MANAGER (M/F) (GBS - 11740-12)](https://web.archive.org/jobs/?l=122992925&j=90503649&c=163)
-  * [Inside Associate Sales Manager](https://web.archive.org/jobs/?l=122988888&j=90500961&c=163)
+  * [Program Manager (m/f)](https://web.archive.org/jobs/?l=124882835&j=91856779&c=163)
+  * [Expert (m/f) in Center of Expertise (CoE) of AMOS HR](https://web.archive.org/jobs/?l=124880175&j=91854871&c=163)
+  * [Clinical Research Associate (m/w) (CH)](https://web.archive.org/jobs/?l=124878623&j=91853894&c=163)
+  * [Investment Manager (m/f) Telecom Services](https://web.archive.org/jobs/?l=124878212&j=91853637&c=163)
+  * [Senior Accounting Expert for Reporting (m/f) in Accounting](https://web.archive.org/jobs/?l=124878211&j=91853636&c=163)
+  * [Senior Accounting Expert (m/f) at Accounting](https://web.archive.org/jobs/?l=124878203&j=91853628&c=163)
+  * [Investment Manager (m/f) Industrials](https://web.archive.org/jobs/?l=124878199&j=91853624&c=163)
+  * [Secretary (m/f)](https://web.archive.org/jobs/?l=124873835&j=91850154&c=163)
+  * [Receptionist (m/f)](https://web.archive.org/jobs/?l=124870313&j=91847970&c=163)
+  * [Risk Analyst (m/f)](https://web.archive.org/jobs/?l=124865376&j=91845042&c=163)
 
 
 
@@ -210,16 +154,16 @@ Register now for:
 
 News from Young Germany
 
-  * [The Highs and Lows of Paying Rent](http://www.young-germany.de/topic/live/the-highs-and-lows-of-paying-rent)  
-A recent survey of apartment offerings throughout Germany by WG-Gesucht revealed some surprising numbers. Find out where Germany’s happiest students find their apartments.
-  * [Beyond Berlin Fashion Week](http://www.young-germany.de/topic/live/life-style/beyond-berlin-fashion-week)  
-Fashion Week transforms Berlin into an international fashion stage. However, exciting new designs can also be found away from the large catwalks.
-  * [Christopher Street Day parades](http://www.young-germany.de/topic/play/day-night/christopher-street-day-parades)  
-Gays and lesbians call for equal rights on Christopher Street Day.
-  * [Urban Gardening in Germany](http://www.young-germany.de/topic/live/food-fun/urban-gardening-in-germany)  
-A new generation of gardeners are transforming the urban landscape. From balconies to empty lots, urban gardeners are greening the city and growing their own food. These days it is easy being green.
-  * [The school holidays start in Germany](http://www.young-germany.de/topic/live/travel-location/the-school-holidays-start-in-germany)  
-In some of the federal states the school holidays have already started. In others the children are still looking forward to their break.
+  * [The Munich Oktoberfest](http://www.young-germany.de/topic/live/food-fun/the-munich-oktoberfest)  
+The “Oide Wiesn”, the traditional fairground at the Munich Oktoberfest, captivates visitors with the nostalgic charm of olden times.
+  * [Ich Liebe Dich, Schatzi!](http://www.young-germany.de/topic/work/language-communication/ich-liebe-dich-schatzi)  
+Okay, you learned how to introduce yourself, say where you come from and how old you are in German. But can you speak the language of love auf Deutsch? Is your sweetheart a treasure, a bear or a bunny? 
+  * [How to Find a Tandem Partner](http://www.young-germany.de/topic/work/language-communication/how-to-find-a-tandem-partner)  
+One of the best ways to improve your German is to chat with a native speaker on a regular basis. Ever wondered how to find a German tandem partner online or in your town? Here are a few tips:
+  * [German Beer and the Reinheitsgebot](http://www.young-germany.de/topic/live/food-fun/german-beer-and-the-reinheitsgebot)  
+With thousands of years of brewing experience and a law called the Reinheitsgebot, German brewers have earned a reputation for making some of the world’s best beer.
+  * [Education in the Digital Age](http://www.young-germany.de/topic/study/courses-degrees/education-in-the-digital-age)  
+The majority of our lives have moved online—from social networking to online banking to watching television on youtube—but higher education has been slow to follow. How MOOCs are helping universities digitalize and reach students around the globe. 
 
 
 
