@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the applian.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119225904id_/http%3A//www.applian.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applian.com privacy policy that was archived on 2013-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130922002623id_/http%3A//applian.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-### What Information We Collection and Why 
+### Information We Collect and Why 
 
 Applian Technologies is the sole owner of the information collected on this site. We will not sell, share, or rent this information to anyone.   
 
@@ -50,12 +50,12 @@ In order to use the forum, and be part of Applian Technologies online community,
 
 ### Special Offers 
 
-Established customers will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our customers we present the option to not receive these types of communications. If you wish not to receive these messages, you can remove your email address from our list at anytime by clicking [here](http://www.applian.com/remove.php?email=%5b%5bemail%5d%5d).  
+Established customers will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our customers we present the option to not receive these types of communications. If you wish not to receive these messages, you can remove your email address from our list at anytime here.  
 
 
 ### Correction/Updating Personal Information
 
-If a customer’s personally identifiable information changes , or if a customer no longer desires our service, we will endeavor to provide a way to correct, update or remove that customer’s personal data provided to us. This can usually be by [contacting customer service](http://applian.com/help/index.php?pid=newticket&user=&department=10).
+If a customer’s personally identifiable information changes , or if a customer no longer desires our service, we will endeavor to provide a way to correct, update or remove that customer’s personal data provided to us. This can usually be by [contacting customer service](https://web.archive.org/support/?data-filter=.cs).
 
 ### Notification of Changes
 
@@ -73,12 +73,8 @@ Applian Technologies Inc.
 San Anselmo, CA  94960   
 Attn:  Customer Service
 
-  * **[General Inquiries](https://web.archive.org/web/20101119225904id_/http%3A//www.applian.com/support.php#GeneralContact)**
-  * **[Technical Support](https://web.archive.org/web/20101119225904id_/http%3A//www.applian.com/support.php#TechSupport) **
+  * **[General Inquiries](https://applian.zendesk.com/anonymous_requests/new)**
+  * **[Technical Support](https://web.archive.org/support/?data-filter=.products) **
   * FAX: 415-480-1748 (USA)
 
 
-
-Note: Applian Technologies recording products are not intended for use in circumventing copy protection mechanisms or for making illegal copies of copyrighted content. Please respect the rights of the content owners when recording. 
-
-**© Copyright 2010 Applian Technologies Inc. - All Rights Reserved**
