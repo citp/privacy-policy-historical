@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ucsusa.org privacy policy that was archived on 2013-05-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130502193758id_/http%3A//www.ucsusa.org/about/ucs-privacy-statement.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ucsusa.org privacy policy that was archived on 2013-09-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130921164555id_/http%3A//www.ucsusa.org/about/ucs-privacy-statement.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -8,7 +8,7 @@
 
 
 <meta name="generator" content="Convio CMS"> 
-<script language="JavaScript" type="text/javascript" src="/components/cookie/cookie.js"></script>
+<script type="text/javascript" src="https://www.youtube.com/iframe_api"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="JavaScript" type="text/javascript" src="/components/cookie/cookie.js"></script>
 
 
 <script language="JavaScript" type="text/javascript" src="/components/print/printer-friendly.js"></script>
@@ -18,11 +18,11 @@
 <script type="text/javascript">
 if (typeof CONVIO=="undefined" || ! CONVIO) { var CONVIO = {}; }
 CONVIO.pageUserName = '3125:0';
-CONVIO.pageSessionID = '7n4e9jdxn4.app306a';
-CONVIO.pageSessionName = 'JServSessionIdr004';
+CONVIO.pageSessionID = '3B21951F044A104F229BAEC57CA2AEF1.app337a';
+CONVIO.pageSessionName = 'JSESSIONID';
 </script>
 
-<script type="text/javascript" src="/system/auth/session-status.jsp?nocache=1367523478740"></script>
+<script type="text/javascript" src="/system/auth/session-status.jsp?nocache=1379781955804"></script>
 <script type="text/javascript">
 
 // The original referrer may have been lost from the session-status.jsp javascript redirect.
@@ -36,11 +36,6 @@ deleteCookie("CONVIO.referrer");
 
 <!-- Convio's CRM JS library -->
 <script type="text/javascript" src="http://action.ucsusa.org/js/utils.js"></script>
-
-
-
-
-
 
 
 
@@ -100,9 +95,133 @@ deleteCookie("CONVIO.referrer");
 <script language="JavaScript" type="text/javascript" src="http://www.ucsusa.org/assets/js/swfobject.js"></script>
 <script language="JavaScript" type="text/javascript" src="http://www.ucsusa.org/assets/js/querystring.js"></script>
 <script language="JavaScript" src="http://www.ucsusa.org/assets/js/scripts.js" type="text/javascript"></script>
+
+<!--Google Analytics-->
+
+
+
+
+
+
+  
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script> 
+<script src="/assets/js/ga_link_tracker_async.js?v=4" type="text/javascript"></script>
+<script type="text/javascript">
+	//Added error tracking
+	//window.onerror = function(msg, file, line) { _gaq.push(['_trackEvent', 'JSError', file+':'+line, msg, null, true]); };
+	
+	var _gaq = _gaq || [];
+	
+	// Use correct UA code for client
+	_gaq.push(['_setAccount', 'UA-6648639-1']);
+	
+	
+	// Decide how to track. (These are not mutually exclusive.)
+	var trackEvents = false;
+	var trackPageViews = true;
+	
+	// regular expressions matching the domain, make sure to list them from most specific to least specific        
+	var trackedDomains = [
+		/^https?:\/\/([\w_\.-]*ucsusa\.org)\/?/
+
+	];
+	
+	
+	// End configuration
+	
+	bfire.onLoad(bfire.ga.trackLinks, null, trackedDomains, trackEvents, trackPageViews);
+	bfire.ga.configureGA();
+	_gaq.push(['_trackPageview']);
+	
+	(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+	
+	//-------BEGIN YOUTUBE CUSTOM SCRIPT ADD-------------//
+	//Add Youtube api script tag
+	(function() {
+		var tag = document.createElement('script'); tag.type = 'text/javascript';
+		tag.src = ('https:' == document.location.protocol ? 'https://www' : 'http://www') + '.youtube.com/iframe_api';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(tag, s);
+	 })();
+	 
+	  //Check all iframes for youtube videos and add to array
+	$(document).ready(function() {  bfireyt.trackYouTube(); });
+
+	//Youtube api onready function - add tracking functions via api to youtube videos
+	function onYouTubeIframeAPIReady() {
+		for (var i = 0; i < bfireyt.videoArray.length; i++) {
+			bfireyt.playerArray[i] = new YT.Player(bfireyt.videoArray[i], {
+				events: {
+					'onStateChange': bfireyt.onPlayerStateChange
+				}
+			});		
+		}
+	}
+	//-------END YOUTUBE CUSTOM SCRIPT ADD-------------//
+</script>	
+	
+
+
+
 </head>
 <body>
 <a name="top"></a>
+
+
+<!--Start Share for the bottom corner-->
+
+
+
+
+
+
+  
+
+<style>
+#social-new {background: rgba(238,238,238, .75); border: 1px solid gray; border-bottom: 0px; position: fixed; padding: 5px 5px 5px 5px; -webkit-border-top-left-radius: 15px;
+-webkit-border-top-right-radius: 15px;
+-moz-border-radius-topleft: 15px;
+-moz-border-radius-topright: 15px;
+border-top-left-radius: 15px;
+border-top-right-radius: 15px; bottom: 0; right: 5%; z-index: 100;  -moz-box-shadow: 10px 10px 5px #888888;
+-webkit-box-shadow: 10px 10px 5px #888888;  box-shadow: 10px 10px 5px #888888; } 
+#content {position: relative;}
+#social-new span {color: #383838; font-weight: bold; text-align: center;}
+#social-new .at16nc, #social-new .at16nc a {height: 16px !important; width: 16px !important;}
+#social-new .at16t_facebook  {background: url(http://www.ucsusa.org/assets/images/fb.gif) !important;}
+#social-new .at16t_twitter  {background: url(http://www.ucsusa.org/assets/images/twitter.gif)  !important;}
+#social-new .at16t_google_plusone_share  {background: url(http://www.ucsusa.org/assets/images/gplus.gif)  !important;}
+</style>
+<!--[if lte IE 8]>
+<style>
+#social-new {background-color: #fff !important;}
+</style>
+<![endif]-->
+
+<div id="social-new">
+
+<span>Share This!</span>
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style addthis_16x16_style">
+<a class="addthis_button_facebook"></a>
+<a class="addthis_button_twitter"></a>
+<a class="addthis_button_google_plusone_share"></a>
+</div>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=xa-51a77d1f49e15247"></script>
+<!-- AddThis Button END -->
+
+
+
+</div>
+
+<!-- AddThis Button END -->
+
+
+
 <!--START AddThis twitter template-->
 <script language="JavaScript" type="text/javascript">
 var addthis_share = {
@@ -202,11 +321,17 @@ var addthis_share = {
 
   
 
+
 <ul id="nav">
-<li id="action-nav"><a href="http://www.ucsusa.org/action/" class="take-action">Take Action</a> </li>
-<li id="join-nav"><a href="https://secure3.convio.net/ucs/site/SPageNavigator/join_donate_lbox.html?s_src=tasknavJ" onclick="pageTracker._link(this.href); return false;" class="join">Join</a> </li>
-<li id="subscribe-nav"> <a href="http://ucs.convio.net/site/PageServer?pagename=sign_up&amp;s_src=subscribe&amp;s_subsrc=tasknav" onclick="pageTracker._link(this.href); return false;" class="subscribe">Subscribe</a></li>
-<li id="donate-nav"><a href="https://secure3.convio.net/ucs/site/SPageNavigator/main_donate_lbox.html?s_src=tasknavD" onclick="pageTracker._link(this.href); return false;" class="donate">Donate</a> </li>
+<li id="action-nav"><a href="http://www.ucsusa.org/action/" class="take-action">Take Action</a> 
+</li>
+
+<li id="join-nav"><a href="https://secure3.convio.net/ucs/site/SPageNavigator/join_donate_lbox.html?s_src=tasknavJ" onclick="_gaq.push(['_link', 'https://secure3.convio.net/ucs/site/SPageNavigator/join_donate_lbox.html?s_src=tasknavJ']); return false;" class="join">Join</a>
+</li>
+
+<li id="subscribe-nav"> <a href="http://ucs.convio.net/site/PageServer?pagename=sign_up&amp;s_src=subscribe&amp;s_subsrc=tasknav" onclick="_gaq.push(['_link', this.href]); return false;" class="subscribe">Subscribe</a></li>
+
+<li id="donate-nav"><a href="https://secure3.convio.net/ucs/site/SPageNavigator/main_donate_lbox.html?s_src=tasknavD" onclick="_gaq.push(['_link', this.href]); return false;" class="donate">Donate</a> </li>
 </ul>
 
 </div>
@@ -493,7 +618,7 @@ filter: progid:DXImageTransform.Microsoft.Shadow(color='#b3bdc1', Direction=145,
   
 
 <h3>Take Action on Climate</h3>
-<p>Tell President Obama to take an important step in national climate action that will significantly reduce the costly consequences of global warming emissions.</p><a class="button_more" onclick="pageTracker._link(this.href); return false;" href="https://secure3.convio.net/ucs/site/Advocacy?cmd=display&amp;page=UserAction&amp;id=3627&amp;s_src=wac&amp;s_subsrc=website">Get Involved</a><a class="arrow_more" onclick="pageTracker._link(this.href); return false;" href="https://secure3.convio.net/ucs/site/Advocacy?cmd=display&amp;page=UserAction&amp;id=3627&amp;s_src=wac&amp;s_subsrc=website">&nbsp;</a> </div>
+<p>Tell President Obama to follow through on his plan for national climate action to significantly reduce the costly consequences of global warming emissions.</p><a class="button_more" onclick="pageTracker._link(this.href); return false;" href="https://secure3.convio.net/ucs/site/Advocacy?cmd=display&amp;page=UserAction&amp;id=3753&amp;s_src=wac&amp;s_subsrc=website">Get Involved</a><a class="arrow_more" onclick="pageTracker._link(this.href); return false;" href="https://secure3.convio.net/ucs/site/Advocacy?cmd=display&amp;page=UserAction&amp;id=3753&amp;s_src=wac&amp;s_subsrc=website">&nbsp;</a> </div>
 </div>
 <!--#action-->
 <div id="action_donate">
@@ -510,7 +635,7 @@ filter: progid:DXImageTransform.Microsoft.Shadow(color='#b3bdc1', Direction=145,
 <!--
 function doDonate() {
     var donationPage = document.donateJump.jumpmenu.options[document.donateJump.jumpmenu.selectedIndex].value;
-    pageTracker._link(donationPage);
+    _gaq.push(['_link', donationPage]);
 }
 //-->
 </script>
@@ -627,7 +752,7 @@ function doDonate() {
 				document.write(printQuote);
 
 
-				</script><img src="/assets/img/member-boniface.jpg" width="70" height="70" alt=""><p>I have been impressed with UCS's ability to turn practical, science-based solutions to problems like climate change into effective public policy. </p><p id="credit">— Chris Boniface<br>Henry Kendall Society and <br>National Advisory Board member</p>
+				</script><img src="/assets/img/member-parker.jpg" width="70" height="70" alt=""><p>UCS has developed a win-win approach that involves working together with corporations, federal and state policymakers, and citizens to craft practical solutions to make our lives better.</p><p id="credit">— Peg Parker<br>Henry Kendall Society and <br>Living Legacy Society member</p>
 
 				<noscript><img src="http://www.ucsusa.org/assets/img/member-boniface.jpg" width="70" height="70" alt="" /><p>I have been impressed with UCS's ability to turn practical, science-based solutions to problems like climate change into effective public policy. </p><p id="credit">&mdash; Chris Boniface</p></noscript>
 				
@@ -764,26 +889,6 @@ CONVIO.user.isAnonymous = true;
 
 
 
-<!--this script handles tracking of non-HTML pages (zip, pdf, ppt, etc.)-->
-<script src="http://www.ucsusa.org/embed/gatag.js" type="text/javascript"></script>
-
-
-<!--this the GA Tag that tracks data between ucsusa.org and convio.net-->
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-6648639-1");
-pageTracker._setDomainName("none");
-pageTracker._setAllowLinker(true);
-if (CONVIO.referrer.length > 0) {
-  pageTracker._setReferrerOverride(CONVIO.referrer);
-}
-pageTracker._trackPageview();
-</script>
-
-
 
 
 
@@ -796,6 +901,6 @@ pageTracker._trackPageview();
 					
 	
 <!-- Powered by Convio -->
-<!-- 10.12.0.40:8900 -->
+<!-- 10.12.0.42:8900 -->
 
 </body></html>
