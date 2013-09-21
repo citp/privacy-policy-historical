@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grownupgeek.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430151213id_/http%3A//grownupgeek.com/node/584) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grownupgeek.com privacy policy that was archived on 2013-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130921213157id_/http%3A//grownupgeek.com/node/584) for the most accurate reproduction.*
 
 # GrownUpGeek.com Privacy/Content Policies and Terms of Service | Help For Beginners
 
