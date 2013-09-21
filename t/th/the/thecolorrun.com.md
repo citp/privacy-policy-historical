@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecolorrun.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603221846id_/http%3A//thecolorrun.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecolorrun.com privacy policy that was archived on 2013-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130921150810id_/http%3A//thecolorrun.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Color Run™
 
