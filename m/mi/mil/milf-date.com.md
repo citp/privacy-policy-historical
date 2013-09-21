@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the milf-date.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519064758id_/http%3A//www.milf-date.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milf-date.com privacy policy that was archived on 2013-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130921032419id_/http%3A//www.milf-date.com/privacy.php) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
