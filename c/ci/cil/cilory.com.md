@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cilory.com privacy policy that was archived on 2013-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130329055503id_/http%3A//www.cilory.com/cms.php%3Fid_cms%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cilory.com privacy policy that was archived on 2013-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130921220957id_/http%3A//www.cilory.com/content/3-Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Cilory
 
@@ -10,7 +10,7 @@ OUR GUARANTEE: Cilory.com or any of its affiliates will NEVER misuse your person
 
 We follow a very strict privacy policy as follows:
 
-### **No Sharing of Information**
+###  **No Sharing of Information**
 
   * We will never give out your email address or any other details: We do not include you in any mailing lists without your explicit consent. You will NEVER receive a spam mail because of us.
   * We will never sell your information to any third parties: You probably do not know but most companies track browsing history, leave unwanted cookies on your desktops and even sell your information and browsing behaviour to mailing lists or third parties. We ABSOLUTELY hate it.
@@ -22,7 +22,7 @@ We follow a very strict privacy policy as follows:
 
 
 
-### **How we use your information**
+###  **How we use your information**
 
   * Your shipping address: This is used to ship your order. You can change it for every order and we will NEVER send anything else to this address except your order itself.
   * Your phone number: This is used only for purposes of helping the courier delivery person track you. The concealed packing of the orders ensures that the courier delivery person does not get to know anything about your order or you. We may also call you on the phone number provided to confirm the order before dispatching OR for any other purpose related to the order placed on cilory.com. The call might be made via automated system or by customer care representative. You may also reiceive an SMS with the details of how to confirm/reject order via miss call or other service.
@@ -41,7 +41,7 @@ We follow a very strict privacy policy as follows:
 
 
 
-### **Gathering Information**
+###  **Gathering Information**
 
   * Every website inevitably collects information. However, we have a comprehensive information gathering policy to maintain your privacy.
   * For Visitors (people who look into our store or visit us) - When you visit cilory.com, we know that someone is visiting us but we do NOT know that it is you. We ONLY count the number of visitors and track which pages/products are of greater interest to visitors. We do NOT gather or use any information about any specific persons who visit our site
@@ -57,14 +57,14 @@ We follow a very strict privacy policy as follows:
 
 
 
-### **Legal issues**
+###  **Legal issues**
 
   * Just in case, a transaction is involved in a legal dispute (usually credit card fraud), information might be requested from us in form of a sub-poena (legal demand for information or appearance). In such cases, we might be required to furnish requisite information. In case this occurs, our policy is to first contact the customer (through preferred medium chosen by the customer) to inform them of our legal obligations.
   * These issues are not common and generally happen in case of credit card frauds. Hence, such information sharing would help in protecting your account and business with us.
 
 
 
-### **Links to other sites**
+###  **Links to other sites**
 
   * Our site may link to other websites that may collect personally identifiable information about you. Any such pages will clearly be identifiable in the browser URL and will not carry the cilory.com logo on the top. We do not take any responsibility for the policies or actions of such websites whatsoever.
   * However, such links (except for the one to our payment gateway provider) are NOT required to browse or complete any transaction at cilory.com. We have ensured that your experience with us is as private as it should be.
@@ -73,8 +73,11 @@ We follow a very strict privacy policy as follows:
 
 
 
-### **Merger, Acquisition and Termination of Service**
+###  **Merger, Acquisition and Termination of Service**
 
 If we merge with, or are acquired by another company, the resulting combined company will use the Personal Information you have provided as described in this policy. If we cease operation, your Personal Information may be transferred to and used by another company that offers similar or related products or services.
 
 We are confident that you agree that we have the BEST privacy policy in the industry. You are welcome to write to us at cs@cilory.com? for any clarifications.
+
+  
+
