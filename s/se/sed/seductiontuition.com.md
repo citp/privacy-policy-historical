@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seductiontuition.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604181120id_/http%3A//www.seductiontuition.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seductiontuition.com privacy policy that was archived on 2013-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130921074052id_/http%3A//www.seductiontuition.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Seduction Dating PUA Pick Up Artists
 
@@ -18,4 +18,4 @@ We suggest if your want to limit your personal information use on ANY site, crea
 
 With that said, the operators of this site hates spam and so do our authors. If at any time you feel like unsubscribing to a newletter, you should be able to find a link on that email to unsubscribe.
 
-**© Seduction Tuition 2007 -[Pick Up Artist](http://www.pick-up-artist-forum.com/)s PUA Art of Seduction Advice. How To Attract Seduce & Pick Up Women. Learn From Dating Guru's As Featured in Neil Strauss Book "The Game" Such As David DeAngelo, Tyler Durden, Mystery Method, Style and Wayne Elise aka Juggler!  [](http://getclicky.com/235564 "Web Analytics") **
+**© Seduction Tuition 2013 - Pick Up Artists PUA Art of Seduction Advice. How To Attract Seduce & Pick Up Women. Learn From Dating Guru's As Featured in Neil Strauss Book "The Game" Such As David DeAngelo, Tyler Durden, Mystery Method, Style and Wayne Elise aka Juggler!  [](http://getclicky.com/235564 "Web Analytics") **
