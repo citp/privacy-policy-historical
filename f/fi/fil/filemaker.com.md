@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filemaker.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509025004id_/http%3A//www.filemaker.com/company/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filemaker.com privacy policy that was archived on 2013-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130921223751id_/http%3A//www.filemaker.com/company/legal/privacy.html) for the most accurate reproduction.*
 
 # Legal: FileMaker Customer Privacy Policy
 
