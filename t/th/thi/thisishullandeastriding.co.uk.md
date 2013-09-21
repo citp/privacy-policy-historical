@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thisishullandeastriding.co.uk privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629222037id_/http%3A//www.thisishullandeastriding.co.uk/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thisishullandeastriding.co.uk privacy policy that was archived on 2013-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130921105449id_/http%3A//www.thisishullandeastriding.co.uk/privacypolicy.html) for the most accurate reproduction.*
 
 # This is Hull and East Riding | Privacy Policy
 
