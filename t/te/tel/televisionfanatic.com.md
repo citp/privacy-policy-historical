@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the televisionfanatic.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622033851id_/http%3A//eula.mindspark.com/tvf_eula.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the televisionfanatic.com privacy policy that was archived on 2013-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130921233528id_/http%3A//eula.mindspark.com/tvf_eula.html) for the most accurate reproduction.*
 
 # Television Fanatic - Privacy Policy - 2012-10-22
 
