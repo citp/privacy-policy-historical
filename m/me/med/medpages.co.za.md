@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the medpages.co.za privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519061433id_/http%3A//medpages.co.za/index.php%3Fmodule%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medpages.co.za privacy policy that was archived on 2013-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130921115251id_/http%3A//www.medpages.co.za/index.php%3Fmodule%3Dprivacy) for the most accurate reproduction.*
 
 # MEDpages - The definitive contact database for healthcare in South Africa.
 
 Privacy Policy | 
 
-[](https://web.archive.org/web/20130519061433id_/http%3A//medpages.co.za/index.php?module=home)  
+[](https://web.archive.org/web/20130921115251id_/http%3A//www.medpages.co.za/index.php?module=home)  
   
 ---|---  
   
-### MEDpages respects your privacy and takes steps to protect it. This Privacy Policy applies to all our data collection and management activities, including those directly related to this website. We strive to make this Site a safe environment for everyone who visits it and uses our services.
+### Medpages respects your privacy and takes steps to protect it. This Privacy Policy applies to all our data collection and management activities, including those directly related to this website. We strive to make this Site a safe environment for everyone who visits it and uses our services.
 
 **By visiting this website, you are accepting the practices described in this Privacy Policy.**
 
@@ -16,19 +16,19 @@ This Privacy Policy describes why we collect information, what information we co
 
 This does not address the practices of any website we link to. This Privacy Policy is incorporated into, and subject to our [Terms of Use](http://www.medpages.co.za/index.php?module=terms). 
 
-### Why does MEDpages collect information?
+### Why does Medpages collect information?
 
-Information management and communication technologies play a fundamental role in the activities of MEDpages. Our principal activity is a manager and provider of healthcare information. We collect and maintain a limited set of information about the healthcare industry, and provide this information to our customers, as well as making it available to the providers of information and the individual healthcare professionals about whom information is held. 
+Information management and communication technologies play a fundamental role in the activities of Medpages. Our principal activity is a manager and provider of healthcare information. We collect and maintain a limited set of information about the healthcare industry, and provide this information to our customers, as well as making it available to the providers of information and the individual healthcare professionals about whom information is held. 
 
-### How can I contact MEDpages?
+### How can I contact Medpages?
 
-You can contact MEDpages as follows:
+You can contact Medpages as follows:
 
-### What should I know about privacy and the MEDpages services and website?
+### What should I know about privacy and the Medpages services and website?
 
-**MEDpages services**
+**Medpages services**
 
-MEDpages collects information about healthcare service providers and other persons and organisations in the healthcare industry in southern Africa. All of this data is verified with the individual or representative of the organisation concerned, and their permission requested to include it in our active database. All persons and organisations are given the specific option to not have their information made available through our publications, subscription services and other services. When an individual or organisation chooses not to have their information listed, then we retain a copy of the data so as to avoid future duplication or error.
+Medpages collects information about healthcare service providers and other persons and organisations in the healthcare industry in southern Africa. All of this data is verified with the individual or representative of the organisation concerned, and their permission requested to include it in our active database. All persons and organisations are given the specific option to not have their information made available through our publications, subscription services and other services. When an individual or organisation chooses not to have their information listed, then we retain a copy of the data so as to avoid future duplication or error.
 
 **Anonymous access**
 
@@ -102,7 +102,7 @@ We have implemented security policies, rules and technical measures to protect t
 
 All our employees and data processors who have access to, and are associated with the processing of personal data, are obliged to respect the confidentiality of our visitors' personal data.
 
-We ensure that your personal data ¨ except that published or otherwise made available to the public and our clients during the normal course or our business - will not be disclosed to state institutions and authorities except if required by law or other regulation. 
+We ensure that your personal data ï¿½ except that published or otherwise made available to the public and our clients during the normal course or our business - will not be disclosed to state institutions and authorities except if required by law or other regulation. 
 
 ### How can I see the personal data that may be held about me?
 
@@ -133,7 +133,7 @@ It is also compliant with the following global self-regulatory instrument: UN Gu
 
 We cannot demonstrate that our privacy policy accords with the privacy instruments.
 
-If you choose to visit medpages.co.za, or to purchase and/or make use of a MEDpages publication or service, then both your visit and any dispute over privacy is subject to this Policy, including limitations on damages, arbitration of disputes, and application according to the law of the Republic of South Africa. 
+If you choose to visit medpages.co.za, or to purchase and/or make use of a Medpages publication or service, then both your visit and any dispute over privacy is subject to this Policy, including limitations on damages, arbitration of disputes, and application according to the law of the Republic of South Africa. 
 
 ### Privacy support
 
