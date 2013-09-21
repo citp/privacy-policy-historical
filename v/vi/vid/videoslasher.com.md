@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videoslasher.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526050623id_/http%3A//www.videoslasher.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videoslasher.com privacy policy that was archived on 2013-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130921131230id_/http%3A//www.videoslasher.com/privacy) for the most accurate reproduction.*
 
 # VideoSlasher - Privacy policy
 
