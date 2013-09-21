@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartling.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522231138id_/http%3A//www.smartling.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartling.com privacy policy that was archived on 2013-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130921124420id_/http%3A//www.smartling.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy for Translation Management Software | Smartling
 
@@ -15,7 +15,7 @@ New York, NY 10016
 [info@smartling.com](mailto:info@smartling.com)  
 +1 866.70.SMART 
 
-[Contact Us](https://web.archive.org/contact)
+[Contact Us](https://web.archive.org/contact_sales)
 
 ### What information do we collect?
 
@@ -80,4 +80,4 @@ New York, NY 10016
 [info@smartling.com](mailto:info@smartling.com)  
 +1 866.70.SMART 
 
-[Contact Us](https://web.archive.org/contact)
+[Contact Us](https://web.archive.org/contact_sales)
