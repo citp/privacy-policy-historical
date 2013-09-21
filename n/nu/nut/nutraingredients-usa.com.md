@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nutraingredients-usa.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515025515id_/http%3A//www.nutraingredients-usa.com/Publications/Info/Privacy-and-Cookie-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutraingredients-usa.com privacy policy that was archived on 2013-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130921080446id_/http%3A//www.nutraingredients-usa.com/Publications/Info/Privacy-and-Cookie-Policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy
 
