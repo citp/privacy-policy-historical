@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the trippy.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530170802id_/http%3A//www.trippy.com/About_Trippy/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trippy.com privacy policy that was archived on 2013-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130921192151id_/http%3A//www.trippy.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy | trippy.com
+# Privacy | Trippy
 
 Effective Date 09/12/2011. Last Modified Date: 9/12/2011.
 
-Trippy, Inc. ("Trippy," "we," or "us") knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by Trippy when you use the Trippy Service, how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Use](https://web.archive.org/About_Trippy/Terms-of-Service.html). 
+Trippy, Inc. ("Trippy," "we," or "us") knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by Trippy when you use the Trippy Service, how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Use](https://web.archive.org/about/terms-of-service). 
 
 **Information We Collect**
 
@@ -50,7 +50,7 @@ Any personal information or content that you voluntarily disclose for posting to
 
 From time to time, we may run contests, special offers, or other events or activities ("Events") on the Service together with a third party partner. If you provide information to such third parties, you give them permission to use it for the purpose of that Event and any other use that you approve. We cannot control third parties' use of your information. If you do not want your information to be collected by or shared with a third party, you can choose not to participate in these Events.
 
-Except as otherwise described in this Privacy Policy, Trippy will not disclose personal information to any third party unless required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law, comply with legal process served on us or our affiliates, or investigate, prevent, or take action regarding suspected or actual illegal activities; (b) to enforce our [Terms of Use](https://web.archive.org/About_Trippy/Terms-of-Service.html), take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to assist government enforcement agencies, or to protect the security or integrity of our site; and (c) to exercise or protect the rights, property, or personal safety of Trippy, our Users or others. 
+Except as otherwise described in this Privacy Policy, Trippy will not disclose personal information to any third party unless required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law, comply with legal process served on us or our affiliates, or investigate, prevent, or take action regarding suspected or actual illegal activities; (b) to enforce our [Terms of Use](https://web.archive.org/about/terms-of-service), take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to assist government enforcement agencies, or to protect the security or integrity of our site; and (c) to exercise or protect the rights, property, or personal safety of Trippy, our Users or others. 
 
 **Non-Personally Identifiable Information:** We may share non-personally identifiable information (such as anonymous usage data (including usage of Streaming services), referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to help them understand the usage patterns for certain Trippy services.
 
@@ -91,6 +91,13 @@ It is our policy to provide notifications, whether such notifications are requir
 If we change our privacy policies and procedures, we will post those changes on the Service to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page. 
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this website, please contact us at [privacy@trippy.com](mailto:privacy@trippy.com). 
+
+**Address:**  
+880 Apollo Suite 343  
+El Segundo CA 90245 
+
+**Phone:**  
+310.640.0086 
 
   
 
