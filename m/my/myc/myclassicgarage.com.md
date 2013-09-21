@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myclassicgarage.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531221954id_/http%3A//myclassicgarage.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myclassicgarage.com privacy policy that was archived on 2013-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130922005923id_/http%3A//myclassicgarage.com/privacy) for the most accurate reproduction.*
 
 # MyClassicGarage™ | Privacy Policy
 
@@ -28,7 +28,7 @@ We collect information from you when you register as a “User” of the MyClass
 
 #### Child Information Policy.
 
-This MyClassicGarage Services are not directed to children under 14. We do not knowingly collect Personal Information or Other Information from children under 14. If a parent or guardian becomes aware that his or her child has provided us with Personal Information or Other Information without their consent, he or she should contact us [info@MyClassicGarage.com](https://web.archive.org/web/20130531221954id_/http%3A//myclassicgarage.com/mail_to:info@MyClassicGarage.com). If we become aware that a child under 14 has provided us with Personal Information or Other Information, we will delete such information from our files. 
+This MyClassicGarage Services are not directed to children under 14. We do not knowingly collect Personal Information or Other Information from children under 14. If a parent or guardian becomes aware that his or her child has provided us with Personal Information or Other Information without their consent, he or she should contact us [info@MyClassicGarage.com](https://web.archive.org/web/20130922005923id_/http%3A//myclassicgarage.com/mail_to:info@MyClassicGarage.com). If we become aware that a child under 14 has provided us with Personal Information or Other Information, we will delete such information from our files. 
 
 ### 2\. HOW WE COLLECT INFORMATION
 
@@ -58,6 +58,8 @@ We allow Users to link their Facebook upon registration. You can then post recen
 
 MyClassicGarage Services may contain links to third party websites and online services. If you choose to visit another website or online service by clicking on the link, you will be directed to that third party’s website or online service. Such online services include without limitation online payment sites (e.g., paypal, stripe), insurance quote sites, shipping sites, transportation sites, and other SNSs (e.g., Facebook, Twitter). The fact that we may link to these third party sites is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information policies. Other sites follow different policies regarding the information they collect and we encourage our Users to read the privacy policies or statements of other sites before providing any personal information. 
 
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit http://www.networkadvertising.org/managing/opt_out.asp. 
+
 ### 4\. YOUR CHOICES REGARDING INFORMATION
 
 #### E-mail Communications.
@@ -82,4 +84,4 @@ We strive to protect our Users from unauthorized access or disclosure of informa
 
 ### 6\. HOW TO CONTACT US
 
-If you have any questions about this Policy or any of the practices described here, please send us an email at: [info@MyClassicGarage.com](https://web.archive.org/web/20130531221954id_/http%3A//myclassicgarage.com/mail_to:info@MyClassicGarage.com). 
+If you have any questions about this Policy or any of the practices described here, please send us an email at: [info@MyClassicGarage.com](https://web.archive.org/web/20130922005923id_/http%3A//myclassicgarage.com/mail_to:info@MyClassicGarage.com). 
