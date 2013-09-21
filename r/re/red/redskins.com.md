@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redskins.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613071354id_/http%3A//www.redskins.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redskins.com privacy policy that was archived on 2013-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130921104852id_/http%3A//www.redskins.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # Redskins.com | Privacy Policy
 
@@ -92,7 +92,7 @@ We employ other businesses, certain services and individuals to perform function
 
 ###### Promotional Offers
 
-We may send offers by email to you on behalf of other parties. When we do this, we do not give that party your name and address. If you do not want to receive such offers, you may opt out in response to the email, or change your preferences by visiting ([ http://prod.www.redskins.clubs.nfl.com/footer/privacy-policy/opt-out.html](https://web.archive.org/web/20130613071354id_/http%3A//www.redskins.com/footer/privacy-policy/opt-out.html)).
+We may send offers by email to you on behalf of other parties. When we do this, we do not give that party your name and address. If you do not want to receive such offers, you may opt out in response to the email, or change your preferences by visiting ([ http://prod.www.redskins.clubs.nfl.com/footer/privacy-policy/opt-out.html](https://web.archive.org/web/20130921104852id_/http%3A//www.redskins.com/footer/privacy-policy/opt-out.html)).
 
 ###### Aggregate Information
 
@@ -160,6 +160,6 @@ We use cookies on this site. We do link the information we store in cookies to p
 
 Redskins.com Redskins.com is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site ([www.redskins.com](http://www.redskins.com/)). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-If you have questions or concerns regarding this statement, you should first contact us at [http://www.redskins.com/footer/contact-us.html](https://web.archive.org/web/20130613071354id_/http%3A//www.redskins.com/footer/contact-us.html) or call 703-726-7000. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact us at [http://www.redskins.com/footer/contact-us.html](https://web.archive.org/web/20130921104852id_/http%3A//www.redskins.com/footer/contact-us.html) or call 703-726-7000. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 Pro-Football, Inc., Redskin Park, 21300 Redskin Park Drive, Ashburn, Virginia 20147
