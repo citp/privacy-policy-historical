@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sk-gaming.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518115916id_/http%3A//www.sk-gaming.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sk-gaming.com privacy policy that was archived on 2013-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130921083307id_/http%3A//www.sk-gaming.com/privacy) for the most accurate reproduction.*
 
 # SK Gaming - Esports, Professional Gaming, Counter-Strike, Warcraft III, World of Warcraft, FIFA, DotA, Starcraft, Quake, Console
 
@@ -33,7 +33,8 @@ This agreement applies to the web site _SK-Gaming.com_ located at www.sk-gaming.
 
 **Updating your information**
 
-  3. We provide mechanisms for updating and correcting your personally identifying information for many of our services. For more information, please see the help pages for each service.
+  3. We provide mechanisms for updating and correcting your personally identifying information for many of our services. For more information, please see the help pages for each service. 
+  4. You can always have your account deleted by sending an e-mail to [delete@sk-gaming.com](mailto:delete@sk-gaming.com) including a link to your SK profile (for example: http://www.sk-gaming.com/member/YourNickname) as well as a copy of your identity pass so we can verify that you are the owner of the account. Same applies if you can't receive password information for your account for any reason. If that is the case, we need prove that you are claiming access to an account that belongs to you.
 
 
 
