@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the styleschecks.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622072054id_/http%3A//www.styleschecks.com/service/service.aspx%3FpageCode%3D54) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the styleschecks.com privacy policy that was archived on 2013-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130921034342id_/http%3A//www.styleschecks.com/service/service.aspx%3FpageCode%3D54%26cm_re%3DHome%2520Page-_-LeftNav-_-Privacy) for the most accurate reproduction.*
 
-# Privacy Policy for The Styles Check Company & StylesChecks.com
+# Personal Checks, Labels, Checkbook Covers and Personal Cards ... The Styles Check Company
 
-[Customer Service](https://web.archive.org/web/20130622072054id_/http%3A//www.styleschecks.com/service/customerservice.aspx) > Privacy Policy  
+[Customer Service](https://web.archive.org/web/20130921034342id_/http%3A//www.styleschecks.com/service/customerservice.aspx) > Privacy Policy  
 
 
 **This is the Privacy Policy for The Styles Check Company.**
@@ -40,4 +40,4 @@ With respect to security: When we transfer and receive certain types of sensitiv
 
 We currently contract with several online partners to help manage and optimize our Internet business and communications. We use the services of a marketing company to help us measure the effectiveness of our advertising and how visitors use our site. To do this, we use Action Tags and cookies provided by our marketing company on this site. The information we collect helps us learn things like what kinds of customers our site attracts, which of our products most interest our customers, and what kinds of offers our customers like to see. Although our marketing company logs the information coming from our site on our behalf, we control how that data may and may not be used. If you do not want to help us learn how to improve our site, products, offers and marketing strategy, you can "opt-out" of this web-site analysis tool by clicking here.
 
-If you feel this site is not following its stated information policy, you may contact us at the above phone number, email address or postal address. You may also contact the Direct Marketing Association's Committee on Ethical Business Practices at mgoldberger@the-dma.org, state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at [http://www.ftc.gov/ftc/complaint.htm.](http://www.ftc.gov/ftc/complaint.htm)
+If you feel this site is not following its stated information policy, you may contact us at the above phone number, email address or postal address. You may also contact the Direct Marketing Association's Committee on Ethical Business Practices at mgoldberger@the-dma.org, state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at [https://www.ftccomplaintassistant.gov](https://www.ftccomplaintassistant.gov/)
