@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onefivenine.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116062104id_/http%3A//www.onefivenine.com/suggestion.dont%3Fmethod%3Dpp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onefivenine.com privacy policy that was archived on 2013-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130921141141id_/http%3A//www.onefivenine.com/suggestion.dont%3Fmethod%3Dpp) for the most accurate reproduction.*
 
 # ANDHRA PRADESH
 
@@ -8,7 +8,7 @@
 
 The privacy of our visitors to www.onefivenine.com is important to us. 
 
-At www.onefivenine.com.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit www.onefivenine.com.com, and how we safeguard your information. We never sell your personal information to any third parties. 
+At www.onefivenine.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit www.onefivenine.com.com, and how we safeguard your information. We never sell your personal information to any third parties. 
 
 **Log Files**
 
