@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstmidwest.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614001431id_/http%3A//www.firstmidwest.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstmidwest.com privacy policy that was archived on 2013-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130921024933id_/http%3A//firstmidwest.com/privacy.aspx) for the most accurate reproduction.*
 
 # First Midwest Bank | Privacy & Security: Overview
 
@@ -12,34 +12,37 @@ Overall, First Midwest recognizes your right to privacy, whether you are a prosp
 
 > We do not sell client or visitor information. 
 > 
-> We do not provide account or other personal information to non-affiliated third parties for the purpose of independent telemarketing or direct mail marketing of any non-financial products or services. 
+> We do not provide account or other personal information to non-affiliated third parties for the purpose of independent telemarketing or direct mail marketing of any non-financial products or services.
 
-When using our web site, First Midwest will only retain information that you provide if you submit information for correspondence, planning, or transaction purposes. Such information is retained only for purposes of providing better service, handling your account, or completing a transaction.
+When using our web site, First Midwest will only retain information that you provide if you submit information for correspondence, planning, or transaction purposes. Such information is retained only for purposes of providing better service, handling your account, or completing a transaction. For a complete statement of our privacy practices, read our
 
-Read our [Consumer Privacy Policy](https://web.archive.org/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=212) for a complete statement of our privacy practices. 
+[Consumer Privacy Policy – 2013](https://web.archive.org/PrivacyPolicyPDF "Consumer Privacy Policy \(354 KB\)")   
+(354 KB)
 
 ### Protecting the Privacy of Children Online
 
-We do not knowingly collect or use personal information from children under 13 without receiving verifiable consent from their parents. Should a child whom we know to be under 13 send us personal information; we will only use the information to seek parental consent or provide parental notice. We are not responsible for content of third party websites we may link to. Visit the FTC website www.ftc.gov for more information regarding the protection and privacy of children online (Children's Online Privacy Protection Act, COPPA). 
+We do not knowingly collect or use personal information from children under 13 without receiving verifiable consent from their parents. Should a child whom we know to be under 13 send us personal information; we will only use the information to seek parental consent or provide parental notice. We are not responsible for content of third party websites we may link to. Visit the FTC website www.ftc.gov for more information regarding the protection and privacy of children online (Children's Online Privacy Protection Act, COPPA).
 
 ### Consent 
 
-Your use of this Website constitutes your consent and acceptance of the terms of our [Consumer Privacy Policy](https://web.archive.org/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=212).
+Your use of this Website constitutes your consent and acceptance of the terms of our Consumer Privacy Policy.
+
+[Consumer Privacy Policy – 2013](https://web.archive.org/PrivacyPolicyPDF "Consumer Privacy Policy \(300 KB\)")   
+(354 KB)
 
 ### Changes to our Privacy Practices
 
-If changes are made to our Consumer Privacy Policy, they will be posted on our [Consumer Privacy Policy](https://web.archive.org/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=212) and we will revise the policy’s date. 
+If changes are made to our Consumer Privacy Policy, they will be posted here, and we will revise the policy’s date. ****
 
-**
+ **Please Note: You can visit our site without providing us with any personal information about yourself to find out about our history, personal and business banking options, and career opportunities we have available.**
 
-Please Note: You can visit our site without providing us with any personal information about yourself to find out about our history, personal and business banking options, and career opportunities we have available.
-
-** You can visit our site without providing us with any personal information about yourself to find out about our history, personal and business banking options, and career opportunities we have available.
+You can visit our site without providing us with any personal information about yourself to find out about our history, personal and business banking options, and career opportunities we have available.
 
 ### Security
 
-This First Midwest safeguards client information by maintaining physical, electronic, and procedural safeguards that comply with federal standards to guard non-public personal information about you. This is accomplished by operating under a detailed information security policy and program designed to protect the security of your information. The information security program is subject to ongoing regulatory oversight and examination. 
+First Midwest safeguards client information by maintaining physical, electronic, and procedural safeguards that comply with federal standards to guard non-public personal information about you. This is accomplished by operating under a detailed information security policy and program designed to protect the security of your information. The information security program is subject to ongoing regulatory oversight and examination. 
 
-A critical part of protecting your information includes steps you should take to protect yourself when using computers to access online services, communicate and store information. See our Fraud Facts section for guidance.
+A critical part of protecting your information includes steps you should take to protect yourself when using computers to access online services, communicate and store information. If you'd like to know more about how First Midwest Bank protects information about you, [click here](https://web.archive.org/termsofuse.aspx "click here") for details about our Website Privacy & Security Practices.
 
-If you'd like to know more about how First Midwest Bank protects information about you, [click here](https://web.archive.org/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=340) for details about our Website Privacy & Security Practices.
+  
+
