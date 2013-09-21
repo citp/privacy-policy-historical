@@ -1,35 +1,29 @@
-> *The following text is extracted and transformed from the senacases.com privacy policy that was archived on 2007-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071010121719id_/http%3A//www.senacases.com/Info/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the senacases.com privacy policy that was archived on 2013-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130921151003id_/http%3A//www.senacases.com/store-info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# 
 
-Sena Cases has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: SenaCases.com.
+We keep your information in confidence!
 
-1\. Notification of Changes:
+Sena Cases recognizes and respects the privacy of SenaCases.com visitors, so we provide you with this Privacy Policy to inform you of our online information practices and the choices available regarding the collection and use of your information. This Privacy Policy applies to all information collected off the SenaCases.com website (reseller program excluded).
 
- This Privacy Policy was last changed on August 18, 2002. If Sena Cases makes changes to any terms or conditions of the Privacy Policy, the changes will be posted in this document so that you will always know what information we gather, how we might use that information and to whom we will disclose it. We may change, modify, add or remove portions of this Policy at any time. If we change the way we use you[r] personally identifiable information we will notify you via electronic mail and you will have the option to "opt-out" of that new use. At any time, you may later review or update the personal information we have collected online from you by contacting us at:   
-.
+For each visitor browsing our website, our web server automatically recognizes and stores the visitor's IP address (the Internet address of visitor's computer) to determine which areas of our site is being visited and how long each visitor spends there. This information helps us to understand visitors' traffic patterns through our website so that we can enhance the overall usability of our website. Your computer provides this information automatically each time you log on, unless you've activated blocking technology available in some browsers. While we do not generally require that you provide us with individually identifiable information in order to visit and use our website, at times we may ask you to provide us with personal information such as your E-mail address, name, mailing address, telephone number, credit card number, demographic information, or persistent identifier (such as user name and password) which is associated with individually identifiable information, to enable you to make a purchase, register a product, correspond with us, enter a sweepstakes, participate in an online survey, subscribe to a mailing list or newsletter, or register for special purchase discounts. If you choose not to provide it for those activities, you may not be able to participate in them.
 
-2\. Opt-out of Communication:
+Cookies
 
-We may from time to time send you e-mail or other communications regarding current promotions, specials and new additions to the SenaCases.com site. You may "opt-out," or unsubscribe from our newsletters by following the unsubscribe instructions in any e-mail you receive from us, or by sending an e-mail to   
-.
+Like many websites today, we may employ a standard technology called cookies to collect information about how you use our site in order to provide you with a better experience by measuring which areas of our website of greatest interest or to remember you when you return to visit us. We have no desire or intent to infringe on your privacy while visiting our site. Most browsers will allow you to erase cookies from your computer hard drive, block acceptance of cookies, or receive a warning before a cookie is stored. You can choose to set your browser to notify you when you receive a cookie, giving you the choice of rejecting or accepting the cookie. Cookies may also be used by third party ad-serving companies when they place ads on our website and control which ads are shown. These ad-serving companies may use cookies to collect non-personally identifiable information from you. Advertisers use this information to target the ads and measure their impact. It is important to note that we do not place or use these cookies.
 
-3\. Cookies:
+What We Do with Personal Information
 
-We use cookies to help identify you when you visit our store and to customize your experience. The cookies make your use of the site easier, allow you to retrieve an earlier shopping cart, make the site run more smoothly and help us to maintain a secure site.
+The information you provide will be kept confidential and used to support your customer relationship with Sena Cases. Among other things, we want to use this data to tailor your experience at our website. Unless you instruct us otherwise, we will send you information about our various product upgrades, special offers and other new products and services from Sena Cases that we feel may be of interest to you. Only Sena Cases (or agents working on behalf of Sena Cases and under confidentiality agreements) will send you these direct mailings. If you do not want to receive such mailings, simply tell us when you give us your personal information. At any time should you choose to, you could opt-out of receiving future mailings; see the opt-out section below. Sena Cases will not share your personal information to any outside organization for its use in marketing or solicitation without your consent. Your information may be shared with agents or contractors of Sena Cases for the purpose of performing services for Sena Cases. For example, if we need to ship something to you, we must share your name and address with a shipping company. We only provide third party agents with the minimum amount of information needed to complete the requested service or transaction.
 
-4\. Security:
+Linked Websites
 
-At SenaCases.com you can be assured that your personal and account information is secure, consistent with current industry standards. In order to most efficiently serve you, credit card transactions are handled by established third party banking. They receive the information needed to verify and authorize your credit card or other payment information.
+Other sites which are linked to/from our website (including the websites of Sena Cases affiliates) may have different policies. Since we do not control these websites, we encourage you to review the privacy policies posted on those sites for details.
 
-5\. Legal Disclaimer:
+Security Measures
 
-Occasionally Sena Cases may be required by law enforcement or judicial authorities to provide Personally Identifiable Information to the appropriate governmental authorities. We will disclose Personally Identifiable Information upon receipt of a court order, subpoena, or to cooperate with a law enforcement investigation. Sena Cases fully cooperates with law enforcement agencies in identifying those who use our services for illegal activities. We reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful.
+We protect the personal information you share with us. At Sena Cases, access to your personal information is limited to people who need it to do their job. In addition, it is our policy to maintain the integrity of any personal information within our possession. To prevent security breaches, Sena Cases collects and stores all personal information in a separate location from this website, with no connection to the Internet or any other network.
 
-6\. Third Parties:
+How to Opt-Out of Our Use of Your Personal Information
 
-The information collected by Sena Cases is used only for the limited purposes of processing orders, keeping you informed about your order status, for statistical purposes, for improving our site and its performance, and to notify you of products or special offers that may be of interest to you. We do not sell or rent our customer information to any outside party under any circumstances.
-
-7\. Log Files:
-
-When you order from us, we collect personally identifiable information from you. If you order one of our products or services, we will collect and maintain your name, e-mail address, billing address, shipping address, telephone number, product selections, credit card or other payment information, order number, and IP address. We collect this, and other information, as disclosed in this Policy, in order to fill your order, to communicate with you about your order and to send you promotional materials. 
+Users who no longer wish to receive our newsletter or promotional materials may opt-out of receiving these communications at any time. They may do so by clicking on the unsubscribe link at the bottom of each email.
