@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ucsusa.org privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502193758id_/http%3A//www.ucsusa.org/about/ucs-privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucsusa.org privacy policy that was archived on 2013-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130921164555id_/http%3A//www.ucsusa.org/about/ucs-privacy-statement.html) for the most accurate reproduction.*
 
 # UCS Privacy Statement | Union of Concerned Scientists
 
