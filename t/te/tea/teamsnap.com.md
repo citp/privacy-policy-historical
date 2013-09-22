@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamsnap.com privacy policy that was archived on 2013-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130120165432id_/http%3A//www.teamsnap.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamsnap.com privacy policy that was archived on 2013-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130923011749id_/http%3A//www.teamsnap.com/privacy.php) for the most accurate reproduction.*
 
 # TeamSnap : Privacy Policy
 
@@ -10,7 +10,7 @@ When you communicate with us or use the TeamSnap system, we will know your email
 
 The only exception to this might be if we're required to share your information with law enforcement. Or maybe if there was some cataclysmic global event like an asteroid strike and we thought it might help. But short of that, your information is 100% confidential. In fact, we'd be inclined to lay down our lives to protect your information (or at least just lay down, like for a nap).
 
-However, if you violate our [Terms of Service](https://web.archive.org/web/20130120165432id_/http%3A//www.teamsnap.com/terms.php), all bets are off and we might send your information to crazy Russian spammers.
+However, if you violate our [Terms of Service](https://web.archive.org/web/20130923011749id_/http%3A//www.teamsnap.com/terms.php), all bets are off and we might send your information to crazy Russian spammers.
 
 ### Cookies
 
@@ -20,13 +20,13 @@ We eat these kinds of cookies, often with milk. Mmm...
 
 A cookie is also a packet of data sent by an Internet server to a browser, which is returned by the browser each time it subsequently accesses the same server, used to identify the user or track their access to the server.
 
-We use these kinds of cookies on the TeamSnap service, mainly to keep track of your current session information. But we don't use permanent cookies because we like to clean up after ourselves.
+We use these kinds of cookies on the TeamSnap service, mainly to keep track of your current session information. 
 
 ### Data Storage
 
 We own all the data storage, databases, code and other assets that make the TeamSnap service function. But you retain all the rights to the information you store within TeamSnap and we'll never share that information with anybody else for any reason. Besides, who would want to know your batting average?
 
-During the process of developing and troubleshooting the TeamSnap service, it may be necessary to look at pieces of your data to improve the service or resolve a problem. But, as we've stated here, your data is never shared with any outside entity for any reason.
+During the process of developing and troubleshooting the TeamSnap service, it may be necessary to look at pieces of your data to improve the service or resolve a problem.
 
 ### Changes
 
