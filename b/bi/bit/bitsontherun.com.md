@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitsontherun.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604220508id_/http%3A//www.longtailvideo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitsontherun.com privacy policy that was archived on 2013-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130923015332id_/http%3A//www.longtailvideo.com/privacy) for the most accurate reproduction.*
 
 # LongTail Video Privacy Policy | JW Player | Bits on the Run
 
