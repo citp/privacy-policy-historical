@@ -1,0 +1,124 @@
+> *The following text is extracted and transformed from the qr.net privacy policy that was archived on 2013-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130922090020id_/http%3A//qr.net/privacy) for the most accurate reproduction.*
+
+# Create Short-URL & QR-Code
+
+This website collects and uses your personal data in accordance with the rules of the current data protection laws of the Federal Republic of Germany. The protection of your personal information is a top priority. The following explains what information we collect in any form, whether you are entitled to a right and how to exercise it. Should your consent be required by law, so you it will be displayed at the appropriate place and they have the ability to grant or refrain from granting this. Of course, you always have the right to revoke your consent to grant this. 
+
+* * *
+
+**1\. Data collection, processing and use**
+
+**1.1**  
+When you access our website, it is necessary to collect various technical data, process and use, so that a proper communication between your Internet browser (eg Internet Explorer) and our web server is possible. The following data are automatically collected and recorded to its automatic deletion in a so-called log file:
+
+  * Date and time of access
+  * The name of the downloaded file
+  * The amount of data sent
+  * A status message indicating whether the request was successful
+  * The address of the referring website (URL)
+  * Browser system type and version
+  * Operating system type and version
+
+
+
+**1.2**  
+We collect this information in an anonymous form, so that these data can not be assigned to identified or identifiable person. This is done for the purpose of system-internal technical processing (connection setup), for system security, for technical administration of the system and network infrastructure as well as for the optimization of the website and for statistical purposes ..
+
+**1.3**  
+Your IP address will be sent only to the absolutely necessary of technical communication with our web server as well as our shop system. Further surveys are conducted exclusively among anonymization your IP address. A mapping between the IP and a person takes place at any time.
+
+* * *
+
+**2\. Pseudonymous user profiles**
+
+**2.1**  
+Furthermore collect, process and use the data referred to above, which result from your accessing our website, under a pseudonym. This means that these data are associated exclusively with internal indicator. A conclusion on your name or other personal data is not possible. These data are not merged, you should sign up to our site using your name or make an order in our shop. This pseudonymous user profiles help us to constantly improve ourselves, we can design by our capacity to meet requirements.
+
+**2.2**  
+If you do not want the creation of pseudonymous user profiles, so you can cancel at any time. How can you exercise your right to object, refer to Section 5 "Opposition and Revocation". 
+
+* * *
+
+**3\. Cookies**
+
+**3.1**  
+Our site uses small text files called "cookies". These cookies are stored in your browser's memory and thus saved on your computer. The use of cookies is for the purpose of improving your user experience and to provide you with better technical opportunities. How cookies are used by us:
+
+  * For session control
+  * To save your customized settings
+  * To detect your browser
+  * To process your order
+  * The registration and login
+
+
+
+**3.2**  
+Of course, you can use our website without cookies. If you refuse the use of cookies, you have the opportunity to stop in their browser settings to set cookies on your computer, or to be asked separately for each cookie, whether they want to allow this. You also have the option to delete cookies already set. Details, please contact your respective browser manufacturer. However, please note that blocking cookies can lead to functional restrictions on our offers. 
+
+* * *
+
+**4\. Right to information and data correction**
+
+**4.1**  
+You have a legal right to at any time, free access to your personal data stored by us. Furthermore, there is the right to correct any inaccurate data, and block data and to delete.
+
+**4.2**  
+If you have registered on our website so you have partially the possibility to view your saved data even, rectify and delete.
+
+**4.3**  
+Additionally, if you want information about your personal data or have further questions about the processing or use of your personal data held about us and want a correction or deletion of your data, so please feel free to in section 5 "Opposition and Revocation" stated address. 
+
+* * *
+
+**5\. Opposition and Revocation**
+
+You have the right to collect and use to contradict your data for the creation of pseudonymous user profiles You also have the right to revoke us consent -. Example, to send you our newsletters to you -. Revoke In this case we are the processing and use of your data for this purpose refrain immediately. opposition or a cancellation at any time without notice for any reason informally by post, fax or e-mail us at submit.
+
+_By Mail:_  
+QR GmbH  
+Martinistraße 3  
+D-49080 Osnabrück
+
+_By Fax:_  
++49 (0) 541 / 40666 199
+
+_By Email:_  
+info@qr.de
+
+* * *
+
+**6\. Partnerwebsites**
+
+This website includes, among other things, links to our partners. If you click on one of these links, you will be automatically forwarded to the respective partner and leave our web site. Are only the respective website operators responsible for the handling of your data in the linked partner sites. We expressly point out that this privacy statement applies solely to this site. We have no control over other suppliers and can not monitor whether the applicable data protection regulations are observed. 
+
+* * *
+
+**7\. Google Analytics**
+
+**7.1**  
+This website uses Google Analytics, a web analysis service of Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA (hereinafter "Google").
+
+**7.2**  
+Google Analytics uses "cookies", text files that are stored on your computer (see point 3) and allow an analysis of your use of the Website by you. The information generated by the cookie about your use of this website is usually transmitted to a Google server in the USA and stored there.
+
+**7.3**  
+To protect your privacy, your IP address is shortened before this broadcast by a so-called IP anonymization. This anonymity is done by Google within the Member States of the European Union or other parties to the Agreement on the European Economic Area. Only in exceptional cases, your complete IP address transmitted to a Google server in the USA and shortened there.
+
+**7.4**  
+On behalf of the operator of this website, Google will use this information to evaluate your use of the website, compiling reports on website activity and providing other with website and internet related services to the website operator. Undertaken as part of Google Analytics that your IP address is not associated with any other data held by Google.
+
+**7.5**  
+You may refuse the use of cookies by selecting the appropriate settings on your browser. You also have the option to delete cookies already set. Details, please contact your respective browser manufacturer. However, please note that blocking cookies can lead to functional restrictions on our offers.
+
+**7.6**  
+You can also prevent the data generated by the cookie about your use of the website data to Google and the processing of these data by Google, by downloading available at the following link and install the browser plugin: http://tools.google.com/dlpage/gaoptout?hl=en. 
+
+* * *
+
+**8\. Validity**
+
+We are constantly striving to develop our website and use new technologies. Therefore, it may be necessary to change this Privacy Policy, or to adapt. We therefore reserve the right to change this policy at any time with effect for the future. Please therefore visit this page regularly and read the current privacy policy from time to time by. 
+
+* * *
+
+(As of 12/2012) 
