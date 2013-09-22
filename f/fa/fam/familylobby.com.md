@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familylobby.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530093855id_/http%3A//www.idealcs.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familylobby.com privacy policy that was archived on 2013-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130922104725id_/http%3A//www.idealcs.com/privacy.htm) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
