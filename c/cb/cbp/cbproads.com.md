@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbproads.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611080927id_/http%3A//cbproads.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbproads.com privacy policy that was archived on 2013-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130922062245id_/http%3A//www.cbproads.com/privacy.asp) for the most accurate reproduction.*
 
 # Privac Policy of Clickbank Pro Ads.com (CbProAds.com)
 
@@ -8,32 +8,43 @@
 
 Clickbank Ad Rotator
 
-](https://web.archive.org/web/20130611080927id_/http%3A//cbproads.com/clickbank_product_ads.asp "Clickbank Product Ads")** | **[ ****
+](https://web.archive.org/web/20130922062245id_/http%3A//www.cbproads.com/clickbank_product_ads.asp "Clickbank Product Ads")** | **[ ****
 
 **Clickbank Storefronts  
 (Affiliate)**
 
-](https://web.archive.org/web/20130611080927id_/http%3A//cbproads.com/clickbankstorefront_demo.asp "Clickbank Storefront Mall")** | **[ ](https://web.archive.org/web/20130611080927id_/http%3A//cbproads.com/clickbank_niche_storefronts.asp "Clickbank Niche Storefronts")**[
+](https://web.archive.org/web/20130922062245id_/http%3A//www.cbproads.com/clickbankstorefront_demo.asp "Clickbank Storefront Mall")** | **[ ](https://web.archive.org/web/20130922062245id_/http%3A//www.cbproads.com/clickbank_niche_storefronts.asp "Clickbank Niche Storefronts")**[
 
 **Clickbank Niche Storefronts  
 (Affiliate)**
 
-](https://web.archive.org/web/20130611080927id_/http%3A//cbproads.com/clickbank_niche_storefronts.asp "Clickbank Niche Storefronts") | **[ ](https://web.archive.org/web/20130611080927id_/http%3A//cbproads.com/clickbank_storefront_wordpress_plugin.asp "Clickbank Wordpress plugin for storefront")**[
+](https://web.archive.org/web/20130922062245id_/http%3A//www.cbproads.com/clickbank_niche_storefronts.asp "Clickbank Niche Storefronts") | **[ ](https://web.archive.org/web/20130922062245id_/http%3A//www.cbproads.com/clickbank_storefront_wordpress_plugin.asp "Clickbank Wordpress plugin for storefront")**[
 
 **Clickbank Storefronts  
 (WordPress based)**
 
-](https://web.archive.org/web/20130611080927id_/http%3A//cbproads.com/clickbank_storefront_wordpress_plugin.asp "Clickbank Wordpress plugin for storefront") | **[ ](https://web.archive.org/web/20130611080927id_/http%3A//cbproads.com/clickbank_niche_storefront_wordpress_plugin.asp "Clickbank Wordpress plugin for niche storefront")**[
+](https://web.archive.org/web/20130922062245id_/http%3A//www.cbproads.com/clickbank_storefront_wordpress_plugin.asp "Clickbank Wordpress plugin for storefront") | **[ ](https://web.archive.org/web/20130922062245id_/http%3A//www.cbproads.com/clickbank_niche_storefront_wordpress_plugin.asp "Clickbank Wordpress plugin for niche storefront")**[
 
 **Clickbank Niche Storefronts  
 (WordPress based)**
 
-](https://web.archive.org/web/20130611080927id_/http%3A//cbproads.com/clickbank_niche_storefront_wordpress_plugin.asp "Clickbank Wordpress plugin for niche storefront")  
+](https://web.archive.org/web/20130922062245id_/http%3A//www.cbproads.com/clickbank_niche_storefront_wordpress_plugin.asp "Clickbank Wordpress plugin for niche storefront")  
 ---|---|---|---|---  
   
 |   
 ---  
   
+28th Jul 2013   
+9 more niche storefronts have been added for you as part of our service. Please [click here](http://cbproads.com/clickbank_niche_storefront_wordpress_plugin.asp) to know more about them. ********
+
+**  
+**
+
+** 26th Jun 2013   
+We will have a major change in design of the overall website. Here is the demo link. [CBproads new design.](http://prismitsolutions.com/demo/HTML/cbproads/)** ****
+
+**
+
 7th Apr 2013   
 An another attention grabbibg tool has been added (Sliding Boxes) which you can place on to your website/blog. [**Click here for a demo**](http://www.cbproads.com/banner_demo.asp) ********
 
@@ -57,21 +68,21 @@ The much awaited **Wordpress plugin for clickbank niche storefronts** will be re
 
 
 6th Sep 2011   
-Clickbank Niche Storefronts have been released. **[Click here](https://web.archive.org/web/20130611080927id_/http%3A//cbproads.com/clickbank_niche_storefronts.asp?id=)** for an online demo.
+Clickbank Niche Storefronts have been released. **[Click here](https://web.archive.org/web/20130922062245id_/http%3A//www.cbproads.com/clickbank_niche_storefronts.asp?id=)** for an online demo.
 
   
 
 
 16th Jan 2011   
-The Storefront Version 4.0 has been released. **[Click here](https://web.archive.org/web/20130611080927id_/http%3A//cbproads.com/clickbankstorefront/v4/sf.asp?id=)** for a online demo.
+The Storefront Version 4.0 has been released. **[Click here](https://web.archive.org/web/20130922062245id_/http%3A//www.cbproads.com/clickbankstorefront/v4/sf.asp?id=)** for a online demo.
 
   
 
 
 18th Nov 2010   
-iPhone Widget Ads has been introduced to the ads section. **[Click here](https://web.archive.org/web/20130611080927id_/http%3A//cbproads.com/widgets_demo.asp)** to see it live.
+iPhone Widget Ads has been introduced to the ads section. **[Click here](https://web.archive.org/web/20130922062245id_/http%3A//www.cbproads.com/widgets_demo.asp)** to see it live.
 
-******  
+********  
   
 |   
 ---  
