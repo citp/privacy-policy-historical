@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lozo.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503191138id_/http%3A//lozo.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lozo.com privacy policy that was archived on 2013-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130922161323id_/http%3A//lozo.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - LOZO
 
@@ -105,7 +105,7 @@ Additional Privacy Policy Items For Members
 
 General
 
-As a Member, when you register with our Website, you provide us with certain Personally Identifiable Information, such as your name, your email address, your address, and any other personal or preference information that you provide to us. We may retain the content of your email messages together with your email address and our responses. Members post Content, as defined in our online [User Agreement](https://web.archive.org/termsconditions/), on our Website at their own risk. We are not responsible for the circumvention of any privacy settings or security measures contained on our Website. You understand and agree that even after their removal, copies of your Content may remain viewable in cached and archived pages or in copies made by other users of our Website. Any improper collection or misuse of information on our Website is a violation of our Terms & Conditions/User Agreement and should be reported to [admin@LOZO.com](mailto:admin@lozo.com). 
+As a Member, when you register with our Website, you provide us with certain Personally Identifiable Information, such as your name, your email address, your address, and any other personal or preference information that you provide to us. We may retain the content of your email messages together with your email address and our responses. Members post Content, as defined in our online [User Agreement](https://web.archive.org/termsconditions), on our Website at their own risk. We are not responsible for the circumvention of any privacy settings or security measures contained on our Website. You understand and agree that even after their removal, copies of your Content may remain viewable in cached and archived pages or in copies made by other users of our Website. Any improper collection or misuse of information on our Website is a violation of our Terms & Conditions/User Agreement and should be reported to [admin@LOZO.com](mailto:admin@lozo.com). 
 
 Security Policy & User ID/Password
 
