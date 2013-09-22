@@ -1,8 +1,11 @@
-<!--The following is the downloaded HTML source of the formstack.com privacy policy that was archived on 2013-05-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130529061940id_/https%3A//www.formstack.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the formstack.com privacy policy that was archived on 2013-09-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130922194328id_/https%3A//www.formstack.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
   <base href="//www.formstack.com/">
+  <!--[if lte IE 9]>
+  <base href="http://www.formstack.com/" />
+  <![endif]-->
   <meta charset="utf-8">
   <!-- Set the viewport width to device width for mobile -->
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -13,8 +16,8 @@
 
   <!-- styles -->
   <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:400,400italic,700,700italic|Ubuntu:300,700">
-  <link rel="stylesheet" href="stylesheets/foundation.css?v=5.22.13.1">
-  <link rel="stylesheet" href="stylesheets/styles.css?v=5.22.13">
+  <link rel="stylesheet" href="stylesheets/foundation.css?v=6.18.13">
+  <link rel="stylesheet" href="stylesheets/styles.css?v=9.10.13.1">
   <!--[if lte IE 8]> <link rel="stylesheet" href="stylesheets/ie8.css"> <![endif]-->
   
   <!-- the all powerful jQuery -->
@@ -28,7 +31,7 @@
   <!-- IE Fix for HTML5 Tags -->
   <!--[if lt IE 9]> <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script> <![endif]-->
   
-</head>
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 <body>
 <!-- Google Analytics -->
 <script type="text/javascript">
@@ -59,16 +62,15 @@
   }
   _kms('//i.kissmetrics.com/i.js');
   _kms('//doug1izaerwt3.cloudfront.net/' + _kmk + '.1.js');
-</script>
-<header>
+</script><header>
 
 <section id="upper-nav">
 	<div class="row">
     	<div id="upper-nav-links">
         	<ul>
-           	<li><a href="https://formstack.zendesk.com/home" onclick="_gaq.push(['_trackEvent', 'Interactions', 'Header', 'Support', 1, true]);">Support</a></li>    
-            <li><a href="about" onclick="_gaq.push(['_trackEvent', 'Interactions', 'Header', 'About', 1, true]);">About</a></li>      
-            <li><a href="http://blog.formstack.com/" onclick="_gaq.push(['_trackEvent', 'Interactions', 'Header', 'Blog', 1, true]);">Blog</a></li>
+           	<li><a href="http://support.formstack.com/" onclick="_gaq.push(['_trackEvent', 'Links', 'Headerlinks', 'Support', 1, true]);">Support</a></li>    
+            <li><a href="about" onclick="_gaq.push(['_trackEvent', 'Links', 'Headerlinks', 'About', 1, true]);">About</a></li>      
+            <li><a href="http://blog.formstack.com/" onclick="_gaq.push(['_trackEvent', 'Links', 'Headerlinks', 'Blog', 1, true]);">Blog</a></li>
             </ul>
         </div>
 </div>
@@ -77,7 +79,7 @@
 <nav id="main-nav" class="row">
   	
     <div id="logo" class="three columns">
-    	<a href=""><img src="images/formstack-logo.png" alt="Formstack Online Form Builder"></a>
+    	<a href="https://www.formstack.com/"><img src="images/formstack-logo.png" alt="Formstack Online Form Builder"></a>
     </div>
     
 	<div id="site-links" class="six columns">
@@ -86,30 +88,36 @@
 		</ul>
     	<ul class="nav-bar" id="mobile-submenu">
   			<li class="how first"><a href="how">How It Works</a></li>
-  			<li class="forms"><a href="online-forms">Forms</a></li>
-            <li class="features"><a href="features">Features</a></li>
-  			<li class="tools" style="display: none;">
-    			<a href="tools">Launch Pad</a>
-    			<ul class="flyout">
-      				<li class="pages"><a href="pages">Pages</a></li>
-      				<li class="stores"><a href="stores">Stores</a></li>
-      				<li class="emails"><a href="emails">Emails</a></li>
-    			</ul>
-  			</li>
+  			 <li class="forms mobile-show" rel="nofollow"><a href="online-forms">Forms</a></li>
+
+            <li class="forms has-flyout mobile-hide"><a href="online-forms">Forms</a>
+            	<ul class="flyout">
+                <li class="integrations"><a href="integrations">Integrations</a></li>	
+                <li class="features"><a href="features">Features</a></li>
+                <li class="security"><a href="features/security">Security</a></li>
+                </ul>
+            </li>
+            
+            <li class="customers"><a href="customers">Customers</a></li>
    			<li class="examples"><a href="examples">Examples</a></li>
    			<li class="pricing last"><a href="pricing">Pricing</a></li>
+            
+            <!-- upper nav in mobile nav -->
+           <li class="forms phone-show" rel="nofollow"><a href="about">About</a></li>
+  			<li class="forms phone-show" rel="nofollow"><a href="http://support.formstack.com/">Support</a></li>
+
 		</ul>
     </div>
     
     <div id="trial-login" class="three columns">
-        <a href="//www.formstack.com/admin" rel="nofollow" class="button gray login" onclick="_gaq.push(['_trackEvent', 'Interactions', 'Header', 'Login', 1, true]);">Login</a>
-        <a href="pricing" class="button green trial" onclick="_gaq.push(['_trackEvent', 'Interactions', 'Header', 'Free trial', 1, true]);">Free Trial</a>
+        <a href="//www.formstack.com/admin" rel="nofollow" class="button gray login" onclick="_gaq.push(['_trackEvent', 'Links', 'Headerlinks', 'Login', 1, true]);">Login</a>
+        <a href="pricing" class="button green trial" onclick="_gaq.push(['_trackEvent', 'Links', 'Headerlinks', 'Free trial', 1, true]);">Free Trial</a>
+        <a href="mobile" class="button green mobile-app" onclick="_gaq.push(['_trackEvent', 'Links', 'Headerlinks', 'Mobile Apps', 1, true]);">Mobile Apps</a>
  	</div>
     
 </nav>
  
-</header>
- 
+</header> 
  
 <section class="white page-title privacy">
 
@@ -177,42 +185,45 @@ cookies by visiting the <a href="http://www.networkadvertising.org/managing/opt_
 			<li><a href="features">Features</a></li>
 			<li><a href="integrations">Integrations</a></li>
             <li><a href="features/security">Security</a></li>
-            <li><a href="tools">Launch Pad</a>
-			</li></ul>
+            <li><a href="mobile">Mobile Apps</a></li>
+			</ul>
         		</div>
+                
+                <div class="two column">
+            <ul class="side-nav">
+            <li class="heading"><a href="resources">Resources</a></li>
+            <li><a href="https://www.formstack.com/admin/user/login" rel="nofollow">Login</a></li>
+			<li><a href="examples">Examples</a></li>
+			<li><a href="http://www.formstack.com/developers/">Developers</a></li>
+            <li><a href="http://blog.formstack.com/">Blog</a></li>
+			</ul>
+        	</div>
+                
         		<div class="two column">
         <ul class="side-nav">
             <li class="heading"><a href="about">About</a></li>
 			<li><a href="careers">Careers</a></li>
 			<li><a href="partners">Partners</a></li>
 			<li><a href="affiliates">Affiliates</a></li>
+            <li><a href="properties">Properties</a></li>
             <li><a href="sitemap">Site Map</a></li>
 			</ul>
             	</div>
-        		<div class="two column">
-            <ul class="side-nav">
-            <li class="heading">Resources</li>
-            <li><a href="https://www.formstack.com/admin/user/login" rel="nofollow">Login</a></li>
-			<li><a href="examples">Examples</a></li>
-			<li><a href="http://www.formstack.com/developers/index.php">Developers</a></li>
-            <li><a href="http://blog.formstack.com/">Blog</a></li>
-            <li><a href="mobile">Mobile Apps</a></li>
-			</ul>
-        	</div> 
+        		 
             <div class="two columns">
             	<ul class="side-nav">
             <li class="heading"><a href="contact">Contact Us</a></li>
-			<li><a href="https://formstack.zendesk.com/home">Support</a></li>
+			<li><a href="http://support.formstack.com/">Support</a></li>
             <li><a href="abuse">Report Abuse</a></li>
             <li><a href="safe-harbor">Safe Harbor</a></li>
 				</ul>
             </div> 
         	<div class="two column social">
-                <a href="http://www.facebook.com/formstack" class="social-icon facebook" rel="nofollow" onclick="_gaq.push(['_trackEvent', 'Interactions', 'Footer', 'Facebook', 1, true]);"></a>
-                <a href="https://twitter.com/formstack" class="social-icon twitter" rel="nofollow" onclick="_gaq.push(['_trackEvent', 'Interactions', 'Footer', 'Twitter', 1, true]);"></a>
-                <a href="http://us.linkedin.com/company/formstack" class="social-icon linkedin" rel="nofollow" onclick="_gaq.push(['_trackEvent', 'Interactions', 'Footer', 'LinkedIn', 1, true]);"></a>
-                <a href="https://plus.google.com/116653545968070015420/posts" class="social-icon google" rel="nofollow" onclick="_gaq.push(['_trackEvent', 'Interactions', 'Footer', 'Googleplus', 1, true]);"></a>
-                <a href="http://www.youtube.com/formstack" class="social-icon youtube" rel="nofollow" onclick="_gaq.push(['_trackEvent', 'Interactions', 'Footer', 'Youtube', 1, true]);"></a>
+                <a href="http://www.facebook.com/formstack" class="social-icon facebook" rel="nofollow" onclick="_gaq.push(['_trackEvent', 'Links', 'Footerlinks', 'Facebook', 1, true]);"></a>
+                <a href="https://twitter.com/formstack" class="social-icon twitter" rel="nofollow" onclick="_gaq.push(['_trackEvent', 'Links', 'Footerlinks', 'Twitter', 1, true]);"></a>
+                <a href="http://us.linkedin.com/company/formstack" class="social-icon linkedin" rel="nofollow" onclick="_gaq.push(['_trackEvent', 'Links', 'Footerlinks', 'LinkedIn', 1, true]);"></a>
+                <a href="http://plus.google.com/116653545968070015420" class="social-icon google" rel="publisher" onclick="_gaq.push(['_trackEvent', 'Links', 'Footerlinks', 'Googleplus', 1, true]);"></a>
+                <a href="http://www.youtube.com/formstack" class="social-icon youtube" rel="nofollow" onclick="_gaq.push(['_trackEvent', 'Links', 'Footerlinks', 'Youtube', 1, true]);"></a>
         	</div> 
         		
         	</div>
@@ -259,6 +270,25 @@ Indianapolis, IN 46250</p>
   
   <!-- Initialize JS Plugins -->
   <script src="js/app.js"></script>
+  
+  <!-- AdRoll -->
+  <script type="text/javascript">
+adroll_adv_id = "DBJYQHPMJBG6DMOAIKYKSP";
+adroll_pix_id = "TQSV3BPX2VCWFA462QKW6B";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script>
   
   
 
