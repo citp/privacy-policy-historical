@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the adoreme.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602020947id_/http%3A//www.adoreme.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adoreme.com privacy policy that was archived on 2013-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130922080737id_/http%3A//www.adoreme.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+; 
 
 **Privacy Policy**
 
