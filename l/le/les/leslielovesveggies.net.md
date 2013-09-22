@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the leslielovesveggies.net privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525052430id_/http%3A//www.leslielovesveggies.net/about-2/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leslielovesveggies.net privacy policy that was archived on 2013-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130922141151id_/http%3A//www.leslielovesveggies.net/about-2/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy - Leslie Loves Veggies
-
-[Privacy Policy](http://www.leslielovesveggies.net/about-2/privacy-policy-2)
-
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.leslielovesveggies.net%2Fabout-2%2Fprivacy-policy-2&media=&description=Privacy%20Policy)
+# Privacy Policy
 
 **What information do we collect?**
 
