@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the acsm.org privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008152703id_/http%3A//www.acsm.org/Content/NavigationMenu/AboutACSM/Privacy/ACSM_Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acsm.org privacy policy that was archived on 2013-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130922035827id_/http%3A//www.acsm.org/privacy-policy) for the most accurate reproduction.*
 
-# ACSM | ACSM Privacy Policy
-
-  
-
+# ACSM | Privacy Policy
 
 **PRIVACY POLICY**
 
@@ -71,7 +68,7 @@ Members may update their personally identifiable information (such as a change i
 
 **Permission**
 
-Our users are given the opportunity to choose whether to receive information from our sponsors or publishers and us not directly related to the registered services. Users also have the opportunity to choose whether to have personal information shared with third parties for marketing purposes. Instructions for how to exercise this choice are contained in e-mails sent by us, on our product web sites and in each of our publications. Should you wish to not have your information shared with ACSM approved third parties, please email ACSM at [membership@acsm.org](mailto:membership@acsm.org) .  Please note that we will endeavor to implement requests within a reasonable time, although for a time users may continue to receive mailings, etc., transmitted based on information released prior to the implementation of the request. Users will continue to receive information directly related to their registered services, so they always are kept informed.
+Our users are given the opportunity to choose whether to receive information from our sponsors or publishers and us not directly related to the registered services. Users also have the opportunity to choose whether to have personal information shared with third parties for marketing purposes. Instructions for how to exercise this choice are contained in e-mails sent by us, on our product web sites and in each of our publications. Should you wish to not have your information shared with ACSM approved third parties, please email ACSM at [membership@acsm.org](mailto:membership@acsm.org "\[GMCP\] Compose a new mail to membership@acsm.org") .  Please note that we will endeavor to implement requests within a reasonable time, although for a time users may continue to receive mailings, etc., transmitted based on information released prior to the implementation of the request. Users will continue to receive information directly related to their registered services, so they always are kept informed.
 
 **Security**
 
@@ -93,5 +90,4 @@ American College of Sports Medicine, Inc.
 Indianapolis, IN 46202  
 (317) 637-9200
 
-(back to top)  
-
+(back to top)
