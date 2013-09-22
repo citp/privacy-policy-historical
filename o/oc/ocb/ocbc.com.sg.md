@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ocbc.com.sg privacy policy that was archived on 2013-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130404124546id_/http%3A//ocbc.com.sg/personal-banking/security-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ocbc.com.sg privacy policy that was archived on 2013-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130922222802id_/http%3A//www.ocbc.com.sg/personal-banking/security-privacy.html) for the most accurate reproduction.*
 
 # security-privacy
 
@@ -104,7 +104,7 @@ Important tips on how you can safeguard and protect your account information.
 
 16.You are advised not to access Online Banking using 'jailbroken' or 'rooted' mobile devices (ie the phone Operating System has been tampered with) , as it poses potential risk of malicious software infection.
 
-17.You are advised to only download the Mobile Banking application from authorized sources such as Apple App Store or Android Marketplace. 
+17.You are advised to only download the Mobile Banking application from authorized sources such as Apple App Store or Google Play.
 
 18.If you notice any unusual/unauthorised transactions, please change your PIN and notify us immediately. It is important that you inform us immediately by calling our Customer Service Hotlines at 1-800-363-3333.
 
