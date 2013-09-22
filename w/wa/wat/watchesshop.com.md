@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the watchesshop.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614002409id_/http%3A//www.watches2u.com/info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchesshop.com privacy policy that was archived on 2013-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130922230319id_/http%3A//www.watches2u.com/info/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Watches2u is an Official Watch Stockist
 
 When you visit, register, or order product(s) on Watches2u.com, you will be asked to provide certain information about yourself, including your name and contact details. We may also collect information about your usage of the website, as well as information about you from emails and letters you send to us.
 
@@ -13,17 +11,3 @@ You should be aware, that if we are requested by the Police, or any other regula
 "Cookies" are used on this website to keep track of the contents of your Shopping Cart, to store delivery addresses if the address book is used, and to store your details. They are also used after you have logged on as part of that process. You can turn off cookies within your browser by going to "Tools, Internet Options, Privacy", and selecting to "block cookies". If you turn off cookies, your information will not be retained on your computer for future orders with us.
 
 You are entitled to see the information that we hold about you, and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date. If you wish to do this, please contact us. We are entitled to charge a fee of ten pounds Stirling to meet our costs in providing you with details of the information we hold about you.
-
-Contact Us
-
-Telephone:| 0208 688 5748  
----|---  
-Address:| Watches2u  
-PO Box 2041  
-Croydon  
-CR90 9JW  
-  
-Company reg. 4520107  
-VAT no. GB 876 326 493
-
-Copyright © 2012 Watches2u. All Rights Reserved.
