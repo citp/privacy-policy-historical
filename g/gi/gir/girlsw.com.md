@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlsw.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501191352id_/http%3A//www.girlsw.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlsw.com privacy policy that was archived on 2013-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130922060327id_/http%3A//girlsw.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | GirlsW.com
 
