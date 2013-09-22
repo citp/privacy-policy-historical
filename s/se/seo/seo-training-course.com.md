@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seo-training-course.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523125532id_/http%3A//www.seo-training-course.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seo-training-course.com privacy policy that was archived on 2013-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130922021629id_/http%3A//www.seo-training-course.com/privacy-policy.php) for the most accurate reproduction.*
 
 # eMarketing University Privacy Policy
 
