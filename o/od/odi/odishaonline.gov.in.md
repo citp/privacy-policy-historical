@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the odishaonline.gov.in privacy policy that was archived on 2013-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130121084750id_/https%3A//www.odishaonline.gov.in/Site/Content/General/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the odishaonline.gov.in privacy policy that was archived on 2013-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130922064346id_/https%3A//www.odishaonline.gov.in/Site/Content/General/policy.html) for the most accurate reproduction.*
 
-# ::The Official Website of the Govt. of Orissa
+# ::The Official Website of the Govt. of Odisha
 
 Privacy Policy
 
@@ -130,14 +130,14 @@ This Privacy Policy was revised and posted on.OdishaOnline reserves the right to
 
 Please note that whenever you submit any information to us in connection with any services related to the OdishaOnline site, you consent to let us process this information in India as necessary to provide the services in which you are participating.
 
-you have any questions, comments, criticisms, or complaints about OdishaOnline's Privacy Policy and/or the way it affects you, please feel free to email us at webmaster_orissaonline@oesl.in Or write to us at:
+you have any questions, comments, criticisms, or complaints about OdishaOnline's Privacy Policy and/or the way it affects you, please feel free to email us at odishaonline@oesl.in Or write to us at:
 
 _Customer Care - (Privacy Policy Issues)  
-Orissa e-Governance Services Limited,  
+Odisha e-Governance Services Limited,  
 OCAC Building, Acharya Vihar Square,  
 Bhubaneswar-751013  
 _
 
 ### Additional Information
 
-If at any time you believe that OdishaOnline has not adhered to these privacy guidelines, please notify us by email at webmaster_orissaonline@oesl.in and we will we will resolve it and take any remedial action as we reasonably determine in our discretion and in accordance with applicable laws.
+If at any time you believe that OdishaOnline has not adhered to these privacy guidelines, please notify us by email at odishaonline@oesl.in and we will we will resolve it and take any remedial action as we reasonably determine in our discretion and in accordance with applicable laws.
