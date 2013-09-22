@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the boq.com.au privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605160527id_/http%3A//www.boq.com.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boq.com.au privacy policy that was archived on 2013-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130922041807id_/http%3A//www.boq.com.au/privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy statement. Bank of Queensland Australia. Privacy.
+
+  
+
 
 **About this statement**  
 Bank of Queensland is committed to respecting the privacy of your personal information. This policy statement explains how we collect, store, use and disclose customer personal information and what steps we take to comply with privacy laws.
