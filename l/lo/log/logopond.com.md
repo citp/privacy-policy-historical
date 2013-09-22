@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logopond.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601123251id_/http%3A//logopond.com/PP.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logopond.com privacy policy that was archived on 2013-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130922100715id_/http%3A//logopond.com/PP.php) for the most accurate reproduction.*
 
 # Logopond - Identity Inspiration
 
