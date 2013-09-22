@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dragg.in privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610173349id_/http%3A//www.dragg.in/account/help/accounts-pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dragg.in privacy policy that was archived on 2013-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130922052333id_/http%3A//www.dragg.in/account/help/accounts-pp.html) for the most accurate reproduction.*
 
 # Dragg.in Privacy Policy
 
