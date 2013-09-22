@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the happynews.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526001809id_/http%3A//happynews.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happynews.com privacy policy that was archived on 2013-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130922150635id_/http%3A//www.happynews.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Happy News - Real News. Compelling Stories. Always Positive.
 
