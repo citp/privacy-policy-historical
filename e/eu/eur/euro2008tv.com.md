@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the euro2008tv.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531234540id_/http%3A//www.euro2008tv.com/blog/latest/privacy-policy-3.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the euro2008tv.com privacy policy that was archived on 2013-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130922221658id_/http%3A//www.euro2008tv.com/blog/latest/privacy-policy-3.html) for the most accurate reproduction.*
 
 # Dental plans discount, dentalplans coupons, dentalplans.com coupon code, dental plans coupons, dentalplans discount, discounted dental plan - Privacy Policy
 
