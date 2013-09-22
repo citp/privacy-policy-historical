@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the genbook.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528220533id_/http%3A//www.genbook.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genbook.com privacy policy that was archived on 2013-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130922172748id_/http%3A//www.genbook.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Legal | Genbook
 
 [](https://privacy.truste.com/privacy-seal/Genbook,-Inc-/validation?rid=d7d295a6-9377-49b1-b899-195938c405b8 "Validate TRUSTe privacy certification")
 
-Dated April 3, 2012
+Dated August 18, 2013
 
 Genbook, Inc. owns and provides various websites, mobile websites, services, and software that facilitate online scheduling and management of appointments (collectively, the “Services”). Genbook, Inc. respects your privacy and values your trust. In this Privacy Policy, we may refer to Genbook, Inc. as “Genbook,” “us,” or “we.” “Business User” shall refer to any business using the Services for online scheduling and appointment management purposes. “Consumer” shall refer to an end consumer using the Services to schedule or manage an appointment, provide feedback or submit a review, or utilize any other aspect of the Services. “You” shall refer to both Consumers and Business Users. The following Privacy Policy outlines how Genbook will treat information as you use the Services. BY USING THE SERVICES, YOU ACCEPT THE TERMS SET FORTH IN THIS PRIVACY POLICY AND IN OUR TERMS OR USE.
 
@@ -95,6 +95,10 @@ When Business Users sign up for an account we will use their information to send
 ### Links to Other Web Sites
 
 Our site includes links to other websites whose privacy practices may differ from those of Genbook. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any website you visit.
+
+### Information Collected from Third Party Sites and Services
+
+The Services may incorporate or integrate with third party websites and services (collectively, “Third Party Sites and Services”). Such Third Party Services may supply us with PII and other information about you that you provided to the applicable third party. The applicable third party's privacy policy governs its collection, use and disclosure of such information. We use and disclose any such information supplied to us in accordance with this Privacy Policy.
 
 ### Testimonials
 
