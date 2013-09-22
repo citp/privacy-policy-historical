@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kut.org privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617130603id_/http%3A//kut.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kut.org privacy policy that was archived on 2013-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130923000535id_/http%3A//kut.org/privacy) for the most accurate reproduction.*
 
 # KUT.org | Privacy Policy
 
