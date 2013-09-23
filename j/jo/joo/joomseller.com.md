@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joomseller.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601114936id_/http%3A//joomseller.com/news/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomseller.com privacy policy that was archived on 2013-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130923114454id_/http%3A//www.joomseller.com/news/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
