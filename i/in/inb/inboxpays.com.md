@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inboxpays.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603134837id_/http%3A//inboxpays.com/uc%3Fa%3Dst%26pt%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inboxpays.com privacy policy that was archived on 2013-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130923230651id_/http%3A//www.inboxpays.com/uc%3Fa%3Dst%26pt%3Dprivacy) for the most accurate reproduction.*
 
 # Paid Surveys Online To Earn Extra Cash With Inboxpays
 
@@ -19,7 +19,7 @@ Any of the information we collect from you may be used in one of the following w
   * To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)
   * To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
   * To process transactions Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested by the customer.
-  * To send periodic emails The email address you provide for order processing, may be used to send you information and updates pertaining to your order or request, in addition to receiving occasional company news, updates, promotions, related product or service information, etc. All emails you receive from Inboxpays will come from Inboxpays, so you may easily distinguish our emails. We will never share your email with third party marketing companies. Your email will only be shared with All Inbox, LLC, Inboxpays mailing partner. 
+  * To send periodic emails The email address you provide for order processing, may be used to send you information and updates pertaining to your order or request, in addition to receiving occasional company news, updates, promotions, related product or service information, etc. All emails you receive from Inboxpays will come from Inboxpays, so you may easily distinguish our emails. We will never share your email with third party marketing companies. Your email will only be shared with All Inbox, LLC, Restoration Media for job alerts, Inboxpays mailing partner. 
 
 
 
@@ -59,7 +59,7 @@ As part of the California Online Privacy Protection Act, all users of our site m
 
 Childrens Online Privacy Protection Act Compliance
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 18 years of age. Our website, products and services are all directed to people who are at least 18 years old or older.
 
 CAN-SPAM Compliance
 
@@ -81,7 +81,7 @@ Changes to our Privacy Policy
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change.
 
-This policy was last modified on **October 21 2011**
+This policy was last modified on **July 29 2013**
 
 Contacting Us
 
