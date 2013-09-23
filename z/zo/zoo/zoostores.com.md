@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoostores.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625030638id_/http%3A//www.zoostores.com/shop/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoostores.com privacy policy that was archived on 2013-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130923093533id_/http%3A//www.zoostores.com/shop/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
