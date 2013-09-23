@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contentbuzz.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531090107id_/http%3A//www.contentbuzz.com/legal/Privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contentbuzz.com privacy policy that was archived on 2013-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130923155917id_/http%3A//www.contentbuzz.com/legal/Privacypolicy.htm) for the most accurate reproduction.*
 
 # ContentBuzz.com - Privacy Policy
 
