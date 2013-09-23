@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kigo.net privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608141537id_/http%3A//kigo.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kigo.net privacy policy that was archived on 2013-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130923072830id_/http%3A//kigo.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Vacation Rental Software by Kigo
 
