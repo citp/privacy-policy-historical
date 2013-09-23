@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingeye.com.au privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620221621id_/http%3A//www.marketingeye.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingeye.com.au privacy policy that was archived on 2013-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130923023217id_/http%3A//www.marketingeye.com.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Marketing Eye
 
@@ -14,4 +14,4 @@ By using our Web site, you give Marketing Eye permission to collect information 
 
 If you are under the age of 18, you must not provide your name, e-mail address, or any other identifying information without the consent of your parent or guardian, or as otherwise provided for by applicable law.
 
-If you have any questions regarding our privacy policy, please [contact us](http://marketingeye.com.au/contact-us.html). Any changes to this policy will be posted here, and will be effective once uploaded to this site. 
+If you have any questions regarding our privacy policy, please [contact us](http://www.marketingeye.com.au/contact-us.html). Any changes to this policy will be posted here, and will be effective once uploaded to this site. 
