@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getrmt.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616024410id_/http%3A//robbinsmadanestraining.com/landing-site/pages/ppc/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getrmt.com privacy policy that was archived on 2013-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130923160353id_/http%3A//robbinsmadanestraining.com/landing-site/pages/ppc/privacy-policy.php) for the most accurate reproduction.*
 
 # Robbins-Madanes Training
 
