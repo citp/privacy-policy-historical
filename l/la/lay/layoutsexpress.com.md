@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the layoutsexpress.com privacy policy that was archived on 2012-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121007001456id_/http%3A//www.layoutsexpress.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the layoutsexpress.com privacy policy that was archived on 2013-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130923222737id_/http%3A//www.layoutsexpress.com/privacy.php) for the most accurate reproduction.*
 
 # Free Facebook Layouts, backgrounds and skins for your facebook profile from Layouts Express
 
