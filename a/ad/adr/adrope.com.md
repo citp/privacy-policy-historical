@@ -1,9 +1,7 @@
-> *The following text is extracted and transformed from the adrope.com privacy policy that was archived on 2012-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120419023933id_/http%3A//adrope.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adrope.com privacy policy that was archived on 2013-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130923181440id_/http%3A//adrope.com/privacy.html) for the most accurate reproduction.*
 
-# Ad rope Privacy Policy,Affiliate Network Privacy Policy,FAQs
+# Affiliate Network, Affiliate Marketing, Affiliate Program
 
----  
-**Privacy Policy**  
 **Collection of Data:**
 
 We collect the following information:  
@@ -14,7 +12,7 @@ We collect the following information:
 This data will be used for the following purposes: Completion and support of the current activity, Web site and system administration, Research and development.
 
 **How we share information:**  
-We will share this data only with those employees of Ad rope whose duties require that they be given access to the data. Additionally, Ad rope may allow our attorneys, accountants, auditors, and other professional service provider’s access to the data where access to the data is necessary for the proper performance of their duties. In all of these instances the service providers have signed documents indicating their promise to hold this information confidential. Your data will not be sold to any third party. 
+We will share this data only with those employees of Ad rope whose duties require that they be given access to the data. Additionally, Ad rope may allow our attorneys, accountants, auditors, and other professional service provider's access to the data where access to the data is necessary for the proper performance of their duties. In all of these instances the service providers have signed documents indicating their promise to hold this information confidential. Your data will not be sold to any third party. 
 
 **Opt-Out Policy:**  
 Any Publisher or Advertiser may opt-out of participation in the Ad rope network pursuant to their respective terms and conditions at any time. Opting out of the network has no effect on any other contractual obligations between the party and Ad rope. 
@@ -29,4 +27,4 @@ Ad rope is not responsible for the privacy policies of our network advertisers a
 Ad rope provides advertising links to many websites. Ad rope is only responsible for the content of the advertisements delivered through our system. Ad rope accepts no responsibility for the content of those websites outside of their network advertising campaigns. 
 
 **Contact:**  
-You may contact us by e-mail at **info@adrope.com**
+You may contact us by e-mail at **support@adrope.com**
