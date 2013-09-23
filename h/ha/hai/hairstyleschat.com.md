@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the hairstyleschat.com privacy policy that was archived on 2009-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090718220052id_/http%3A//hairstyleschat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hairstyleschat.com privacy policy that was archived on 2013-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130923170711id_/http%3A//hairstyleschat.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | HairstylesChat.com
-
-## Privacy Policy
+# Privacy | HairstylesChat
 
 The following Privacy Statement discloses the information gathering and dissemination practices for hairstyleschat.com
 
