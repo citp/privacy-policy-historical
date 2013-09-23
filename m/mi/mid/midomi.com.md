@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the midomi.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516194536id_/http%3A//www.midomi.com/index.php%3Faction%3Dmain.privacy_notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midomi.com privacy policy that was archived on 2013-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130923030701id_/http%3A//www.midomi.com/index.php%3Faction%3Dmain.privacy_notice) for the most accurate reproduction.*
 
-# Wyszukaj muzykę uzywając swego głosu i śpiewając lub nucąc, Przeglądaj wideo muzyczne, Dołącz do fan klubów, Podziel się ze znajomymi, Daj się odkryć i jeszcze więcej możliwości bez żadnych opłat! - midomi.com
+# Search for Music Using Your Voice by Singing or Humming, View Music Videos, Join Fan Clubs, Share with Friends, Be Discovered and Much More For Free! - midomi.com
 
 SoundHound, Inc. (referred to herein as "SoundHound") values the privacy of our customers, users, members, and others (collectively or individually "Customers") who use www.midomi.com, and any other websites or services owned or operated by SoundHound. www.midomi.com is referred to herein as "midomi" and the services operated under midomi are referred to herein as the "midomi Service." This statement governs information you provide to us or that we learn from your use of the midomi Service and tells you how we may collect, use, and in some instances share this information.
 
@@ -106,8 +106,8 @@ If you have any questions, comments, or concerns about this Privacy Notice, plea
 Postal Mail Address:
 
 **c/o SoundHound, Inc.**  
-1731 Technology Drive, Suite 700  
-San Jose, CA 95110
+3979 Freedom Circle, Suite 400  
+Santa Clara, CA 95054
 
 If you have a privacy concern regarding the midomi Service or this Notice and if you cannot satisfactorily resolve it through the use of the midomi Service you should write to: [ privacy@midomi.com](mailto:privacy@midomi.com). In the event that we are still unable to resolve your concerns midomi is committed to cooperating to achieve a proper resolution of your privacy concerns.
 
