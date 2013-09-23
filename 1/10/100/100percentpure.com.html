@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 100percentpure.com privacy policy that was archived on 2013-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130606022430id_/http%3A//www.100percentpure.com/terms_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 100percentpure.com privacy policy that was archived on 2013-09-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130923221852id_/http%3A//www.100percentpure.com/terms_privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -10,9 +10,10 @@
 <meta name="GOOGLEBOT" content="INDEX, FOLLOW">
 
 
-<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://s3.amazonaws.com/freshplum/api.js"></script><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/gtmp_compiled.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script type="text/javascript" async="" src="//commondatastorage.googleapis.com/volusionchat/js/213ca102-d2a5-4e3f-ad9d-e1ecce4f724d.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://s3.amazonaws.com/freshplum/api.js"></script><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/gtmp_compiled.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js"></script>
 <link type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/themes/base/jquery-ui.css" rel="stylesheet">
+<link type="text/css" href="/a/c/default.css" rel="stylesheet">
 
 
 <script type="text/javascript">
@@ -28,7 +29,30 @@
     var PageText_843 = "Subtotal";
     var PageText_844 = "items in cart";
 </script>
+<script type="text/javascript" src="/a/j/volusion.js?6.41.2.227"></script>
+<script type="text/javascript">
+    (function ($) {
+        volusion.ready(function () {
+            if (volusion.cart.isObservingCount()) {
+                var ts = new Date().getTime();
 
+                $.getJSON('/ajaxcart.asp?cachebust=' + ts, function (data) {
+                    var quantityTotal = 0;
+                    $.each(data.Products, function (key, val) {
+                        if (val.IsProduct === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        } else if (val.IsAccessory === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        }
+                    });
+                    quantityTotal = quantityTotal || '0';
+                    volusion.cart.itemCount(quantityTotal);
+                });
+
+            }
+        });
+    } (jQuery));
+</script>
 
 
 <script type="text/javascript" src="/a/j/soft_add.js"></script>
@@ -41,7 +65,7 @@
 </script>
 
 <script type="text/javascript" src="/a/j/soft_add_mult.js"></script>
-<script type="text/javascript" src="/a/j/javascripts.js?6_5_6.34.2"></script>
+<script type="text/javascript" src="/a/j/javascripts.js?6_5_6.41.2.227"></script>
 
 <script type="text/javascript">
 	var Config_Search_Auto_Complete = true;
@@ -74,7 +98,6 @@
     })();
 </script>
 <!-- END: Google Trusted Store --> 
-
 
 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -145,7 +168,7 @@ document.writeln("\n<style type='text/css'>.v65-productDisplay{ display:none}</s
 </script>
 <script type="text/javascript">window.fpAPI={};(function(){var script,body;script=document.createElement("script");script.type="text/javascript";script.async=true;script.src=(document.location.protocol==="https:"?"https:":"http:")+"//s3.amazonaws.com/freshplum/api.js";body=document.getElementsByTagName("script")[0];body.parentNode.insertBefore(script,body);var methods=["log", "set_attr", "options", "coupons_setup"];for(var i=0;i<methods.length;i++)fpAPI[methods[i]]=function(method){return function(){if(!fpAPI.pre)fpAPI.pre=[];fpAPI.pre.push([method,arguments])}}(methods[i])})();</script>
 
-</head>
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 <body>
 <div id="fb-root"></div>
 <script type="text/javascript">(function(d, s, id) {
@@ -172,8 +195,12 @@ document.writeln("\n<style type='text/css'>.v65-productDisplay{ display:none}</s
 </div><br>
 
 <div id="menubg" style="width:738px;height:77px;">
-<div style="float: left;margin-left: 150px;margin-top: 34px; width: 200px; height: 50px; overflow: hidden;">
-<a href="http://www.100percentpure.com/Articles.asp?ID=108"><img src="../v/vspfiles/images/mday2013.jpg" alt="Shipping" title="Shipping" id="fpFreeshippingCouponImg" style="display:none"></a></div>
+<div style="float: left;margin-left: 180px;margin-top: 34px;">
+
+<!--<img src="../v/vspfiles/images/front_0829_freeshipping.jpg" alt="Shipping" title="Shipping" id="labor_day_shipping" style="display: none;">-->
+
+<img src="../v/vspfiles/images/free_shipping_new_us.jpg" alt="Shipping" title="Shipping">
+</div>
 <div id="shipping" style="float:right;border:0px;width:380px;margin:0px;padding:0px;">
 <div id="searchbox" style="margin-top:0px">
 	<form action="../SearchResults.asp" method="get" name="form1" id="ajaxSearch_form">
@@ -184,17 +211,10 @@ document.writeln("\n<style type='text/css'>.v65-productDisplay{ display:none}</s
 <div style="float:right;margin: 0px;"><a href="http://www.100percentpure.com/Articles.asp?ID=150"><img src="../v/vspfiles/images/crueltyfree.jpg" alt="100% Pure Products are Guaranteed Cruelty Free!" title="100% Pure Products are Guaranteed Cruelty Free!" height="28px" width="100px"></a>
  </div>
 
-<div id="livechat" style="float:left;width:100px;height:46px;overflow:hidden;margin:5px 0px 0px">
-
-<div align="center" id="VolusionLiveChat"><a href="http://www.volusion.com">Shopping Cart Software</a></div>
-<script defer="" type="text/javascript" src="https://livechat.volusion.com/script.aspx?id=853829"></script>
-</div>
-
 <div style="float: right; font-size: 11px; text-align: center; width: 270px; border: 1px solid rgb(221, 221, 221); height: 45px;text-transform:none;overflow:hidden;">
-<!--Please note: As of 12PM PST we have been experiencing issues processing credit card payments. If possible, please use PayPal to complete your order. Thank you! 415-814-9788(9-5 PST M-F)
--->
+
 <!--Our phone system is temporarily down. Please contact us at info@puritycosmetics.com. Thank you!-->
-Call Our Brand Ambassadors for a Live Consultation! Licensed Estheticians, Cosmetologists on staff.<br> 415-814-9788  (9am-5pm PST, M-F)
+Call Our Brand Ambassadors for a Live Consultation! Licensed Estheticians on staff.<br> 415-814-9788  (9am-5pm PST, M-F)
 </div>
 
 
@@ -208,7 +228,7 @@ Call Our Brand Ambassadors for a Live Consultation! Licensed Estheticians, Cosme
 <!-- Beginning of compulsory code below -->
  
 <ul id="nav" class="dropdown dropdown-horizontal">
-	<li style="width: 225px;"><span class="dir"><a href="../Fruit-Pigmented-Cosmetics-s/12.htm">Fruit Pigmented Makeup</a></span>
+	<li style="width: 190px;"><span class="dir"><a href="../Fruit-Pigmented-Cosmetics-s/12.htm">Fruit Dyed Makeup</a></span>
 		<ul>
 			<li><span class="dir">Face</span>
 				<ul>
@@ -333,17 +353,23 @@ Call Our Brand Ambassadors for a Live Consultation! Licensed Estheticians, Cosme
 			<li><a href="../100-Pure-E-Gift-Card-s/44.htm">Gift Cards</a></li>
 		</ul>
 	</li>
-	<li style="width:202px"><span class="dir"><a href="../All-the-Extras-s/643.htm" style="text-decoration:none">Everything else we <span style="color:#FF69B4;display:inline">♥</span></a></span>
+	<li style="width:125px"><span class="dir"><a href="../All-the-Extras-s/643.htm" style="text-decoration:none">what we <span style="color:#FF69B4;display:inline">♥</span></a></span>
 		<ul>
 			<li><a href="../Clutches-s/47.htm">Clutches</a></li>
                         <li><a href="../Edibles-s/648.htm">Edibles</a></li>
                         <li><a href="../Keep-Your-Heart-100-Pure-T-Shirt-s/640.htm">T-Shirts</a></li>
                         <li><a href="../All-the-Extras-s/643.htm">All the Extras</a></li>
 </ul>
+
+</li><li style="padding-top: 3px;width:115px">
+<a href="https://www.100percentpure.com/pure-forever-s/659.htm">pure forever</a>
 	</li>
-	<li style="padding-top: 3px; padding-left: 5px;float:right;margin-right:5px;width:50px">
+
+	<li style="padding:0px;padding-top: 3px; padding-left: 1px;margin-right:1px;width:40px">
 <a href="http://www.100percentpure.com/Articles.asp?ID=148">Press</a>
 	</li>
+
+
 
 </ul>
 </div>
@@ -527,17 +553,47 @@ document.getElementById('emvForm').submit();
 <li><a class="yelp" href="http://www.yelp.com/biz/100-pure-san-jose" target="_new">Yelp(San Jose Store)</a></li>
 </ul>
 </div>
+
+<div class="footer_left" style="width:299px;">
+<span class="footer_title" style="margin-left:87px;color:#c3c3c3;">100% Pure Stores</span>
+     <div style="float:left;">
+         <div style="float:left;width:145px;height:85px;">
+               <a href="http://www.yelp.com/biz/100-pure-berkeley">
+                    <img src="http://100percentpure.com/v/vspfiles/images/new/front_store_berkeley.jpg" width="145" height="85" alt="">
+                </a>
+          </div>
+         <div style="float:left;width:145px;height:85px;">
+              <a href="#">
+                    <img src="http://100percentpure.com/v/vspfiles/images/new/front_store_hollywood.jpg" width="145" height="85" alt="">
+              </a>
+         </div>
+    </div>
+
+    <div style="float:left;">
+        <div style="float:left;width:145px;height:85px;">
+               <a href="http://www.yelp.com/biz/100-percent-pure-san-francisco">
+                    <img src="http://100percentpure.com/v/vspfiles/images/new/front_store_sfo.jpg" width="145" height="85" alt="">
+                </a>
+          </div>
+         <div style="float:left;width:145px;height:85px;">
+              <a href="http://www.yelp.com/biz/100-percent-pure-san-jose">
+                    <img src="http://100percentpure.com/v/vspfiles/images/new/front_store_santanarow.jpg" width="145" height="85" alt="">
+              </a>
+         </div>
+    </div>
+</div>
 <div style="clear:both"></div>
+
 <div style="float:left;width:650px;text-align:center">
 <a href="http://www.100percentpure.com/Articles.asp?ID=150"><img src="../v/vspfiles/images/crueltyfree.jpg" alt="100% Pure Products are Guaranteed Cruelty Free!" title="100% Pure Products are Guaranteed Cruelty Free!" height="28px" width="100px"></a>
 <img src="../v/vspfiles/images/cc_logo1.jpg" alt="Paypal" title="100% Pure Accepts all major credit cards and Paypal" border="0" height="30">
 </div>
 </div>
 <div>
-<div style="float:right;width:300px">
-<div class="fb-like-box" data-href="http://www.facebook.com/100percentpure" data-width="292" data-height="201" data-show-faces="true" data-border-color="#ddd" data-stream="false" data-header="true"></div><br>
+<!-- <div style="float:right;width:300px">
+<div class="fb-like-box" data-href="http://www.facebook.com/100percentpure" data-width="292" data-height="201" data-show-faces="true" data-border-color="#ddd" data-stream="false" data-header="true"></div><br />
 <div style="clear:both"></div>
-</div>
+</div>-->
 <div id="footer_right" style="width:965px;text-align:center">
 ©<script type="text/javascript">document.write((new Date()).getFullYear());</script>2020&nbsp;Purity Cosmetics Inc.&nbsp;<a href="http://www.volusion.com" title="Shopping Cart Software" class="footer colors_background2_text" target="_blank">Shopping Cart Software</a> by Volusion.
 <a onclick="window.open('https://www.volusion.com/ssl.asp?url=www.100percentpure.com', 'VolusionSSL', 'top=10,left=10,menubar=0,resizable=0,scrollbars=0,width=467,height=467')" href="javascript:void(0);"><img width="100" height="33" border="0" src="../v/vspfiles/images/seal_volusion.jpg" id="volusion_ssl_seal" alt="Volusion SSL"></a>
@@ -604,6 +660,60 @@ var google_conversion_value = 0;
 </div>
 </noscript>
 <script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
+
+
+<script type="text/javascript">
+adroll_adv_id = "JCQ6PYICDRBHHI6IZ42FHI";
+adroll_pix_id = "HUKHDSGW3FATRNVVGIDCRD";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script>
+
+
+<!-- Listrak Analytics – Script Source-->  
+<script type="text/javascript">
+    var biJsHost = (("https:" == document.location.protocol) ? "https://" : "http://");
+    document.write(unescape("%3Cscript src='" + biJsHost + "s1.listrakbi.com/scripts/script.js?m=TAH1PUQjTquH&v=1' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://s1.listrakbi.com/scripts/script.js?m=TAH1PUQjTquH&amp;v=1" type="text/javascript"></script>
+
+<!-- Listrak PayPal Handler -->
+<script type="text/javascript">
+         document.getElementById("imagePayPal").onclick = null;
+        jQuery('#imagePayPal').click(function () {
+            _ltk.SCA.OrderNumber = 'PayPal_' + (new Date).getTime();
+            _ltk.SCA.Submit();
+            setTimeout(function () { paypal_checkout.submit(); }, 1000);
+            return false;
+        });        
+</script>
+ 
+<!-- Listrak Analytics - Submit Tracking Click-->    
+<script type="text/javascript">
+    _ltk.SCA.CaptureEmail('EMAIL_FIELD');
+    _ltk.Click.Submit();
+</script>
+
+<!-- begin Volusion Live Chat code -->
+<script type="text/javascript">
+  (function() {
+    var se = document.createElement('script'); se.type = 'text/javascript'; se.async = true;
+    se.src = '//commondatastorage.googleapis.com/volusionchat/js/213ca102-d2a5-4e3f-ad9d-e1ecce4f724d.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(se, s);
+  })();
+</script>
+<!-- end Volusion Live Chat code -->
+
 
 
 
