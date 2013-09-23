@@ -1,38 +1,38 @@
-> *The following text is extracted and transformed from the spyfoo.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003214913id_/http%3A//www.spyfu.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spyfoo.com privacy policy that was archived on 2013-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130923104527id_/http%3A//www.spyfu.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# SpyFu | Privacy Policy
+# Privacy Policy | SpyFu
 
 At SpyFu, we strive to develop innovative services to better serve our users. We recognize that privacy is an important issue, so we design and operate our services with the protection of your privacy in mind. This Privacy Policy outlines the types of personal information we gather when you use SpyFu's services, as well as some of the steps we take to safeguard it.
 
 The following principles apply to the personally identifying information we ask for and that you provide. "Personally identifying information" is information that individually identifies you, such as your name, physical address or email address. You can find more details about the data we collect on particular services by clicking the links on the side of this page.
 
- **Data collection**
+**Data Collection**
 
-  * SpyFu collects limited non-personally identifying information your browser makes available whenever you visit a website. This log information includes your Internet Protocol address, browser type, browser language, the date and time of your query and one or more cookies that may uniquely identify your browser. We use this information to operate, develop and improve our services. 
-  * Some of our services require you to register for an account. SpyFu asks you for some personal information in order to create an account (typically your name, email address and a password for your account) and we will use that information to provide the service. 
-  * When we require personally identifying information, we will inform you about the types of information we collect and how we use it. We hope this will help you make an informed decision about sharing your personal information with us. 
+  * SpyFu collects limited non-personally identifying information your browser makes available whenever you visit a website. This log information includes your Internet Protocol address, browser type, browser language, the date and time of your query and one or more cookies that may uniquely identify your browser. We use this information to operate, develop and improve our services.
+  * Some of our services require you to register for an account. SpyFu asks you for some personal information in order to create an account (typically your name, email address and a password for your account) and we will use that information to provide the service.
+  * When we require personally identifying information, we will inform you about the types of information we collect and how we use it. We hope this will help you make an informed decision about sharing your personal information with us.
 
 
 
 **Credit Card Data**
 
-  * For paid subscriptions, we request credit card or other payment information.  We use a secure offsite third party whose business it is to store and process credit card transactions.  We deliver the credit card information to the third party via an encrypted military grade communications channel.  Even in the case of monthly or annual subscriptions, we keep no permanent record of your credit card information on our servers.  When we want to process a credit card transaction on your card, we do so using a non-identifiable key that contains no reference to your personal information.
+  * For paid subscriptions, we request credit card or other payment information. We use a secure offsite third party whose business it is to store and process credit card transactions. We deliver the credit card information to the third party via an encrypted military grade communications channel. Even in the case of monthly or annual subscriptions, we keep no permanent record of your credit card information on our servers. When we want to process a credit card transaction on your card, we do so using a non-identifiable key that contains no reference to your personal information.
 
 
 
 **Cookies**
 
-  * Upon your first visit to SpyFu, a cookie is sent to your computer that uniquely identifies your browser. A "cookie" is a small file containing a string of characters that is sent to your computer when you visit a website. We use cookies to improve the quality of our service and to better understand how people interact with us. SpyFu does this by storing user preferences in cookies and by tracking user trends and patterns of how people search. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some SpyFu features or services may not function properly without cookies. 
+  * Upon your first visit to SpyFu, a cookie is sent to your computer that uniquely identifies your browser. A "cookie" is a small file containing a string of characters that is sent to your computer when you visit a website. We use cookies to improve the quality of our service and to better understand how people interact with us. SpyFu does this by storing user preferences in cookies and by tracking user trends and patterns of how people search. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some SpyFu features or services may not function properly without cookies.
 
 
 
-**Information sharing**
+**Information Sharing**
 
   * SpyFu may share information about you with advertisers, business partners, sponsors, and other third parties. However, we only divulge aggregate information about our users and will not share personally identifiable information with any third party without your express consent. For example, we may disclose how frequently the average SpyFu user visits SpyFu, or which other query words are most often used with the query word "web scraping." Please be aware, however, that we will release specific personal information about you if required to do so in order to comply with any valid legal process such as a search warrant, subpoena, statute, or court order.
 
 
 
-**Information security**
+**Information Security**
 
   * We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data.
   * We restrict access to your personally identifying information to employees who need to know that information in order to operate, develop or improve our services.
@@ -41,6 +41,7 @@ The following principles apply to the personally identifying information we ask 
 
 **Changes to this Policy**
 
-Please note this Privacy Policy will change from time to time. We expect most such changes to be minor, but there may be changes that are more significant. Regardless, we will post those changes on this page and, if the changes are significant, we will also provide a more prominent notice.
+  * Please note this Privacy Policy will change from time to time. We expect most such changes to be minor, but there may be changes that are more significant. Regardless, we will post those changes on this page and, if the changes are significant, we will also provide a more prominent notice.
+  * If you have any additional questions, please feel free to contact us any time. Contact information can be found [here](https://web.archive.org/company.aspx).
 
-If you have any additional questions, please feel free to contact us any time.
+
