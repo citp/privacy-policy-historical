@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the malayaliclassifieds.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424181913id_/http%3A//www.malayaliclassifieds.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the malayaliclassifieds.com privacy policy that was archived on 2013-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130923113449id_/http%3A//www.malayaliclassifieds.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# Malayali Classifieds - Kerala classifieds, Malayalam classifieds, Free Kerala classifieds, Kerala Ads
+# Kerala classifieds, Malayalam classifieds, Free Kerala classifieds, Kerala Ads
 
 ##  Website Privacy Policy 
 
