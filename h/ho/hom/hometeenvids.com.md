@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hometeenvids.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601082312id_/http%3A//hometeenvids.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hometeenvids.com privacy policy that was archived on 2013-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130923233624id_/http%3A//hometeenvids.com/privacy.html) for the most accurate reproduction.*
 
 # PRIVACY
 
