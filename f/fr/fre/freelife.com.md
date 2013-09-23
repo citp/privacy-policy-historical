@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freelife.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424000447id_/http%3A//freelife.com/pdf/privacy_policy_US_EN.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelife.com privacy policy that was archived on 2013-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130923175224id_/http%3A//freelife.com/pdf/privacy_policy_US_EN.pdf) for the most accurate reproduction.*
 
 # FreeLife Privacy Policies
 
