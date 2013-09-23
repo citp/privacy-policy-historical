@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the foxcreekleather.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624063810id_/http%3A//www.foxcreekleather.com/help/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxcreekleather.com privacy policy that was archived on 2013-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130923075452id_/http%3A//www.foxcreekleather.com/help/%23privacy) for the most accurate reproduction.*
 
 # Fox Creek Leather
 
-If you have any questions or comments, please contact us. However, many questions are answered in our [FAQ](https://web.archive.org/web/20130624063810id_/http%3A//www.foxcreekleather.com/help/faq) which you may want to consult before calling.
+If you have any questions or comments, please contact us. However, many questions are answered in our [FAQ](https://web.archive.org/web/20130923075452id_/http%3A//www.foxcreekleather.com/help/faq) which you may want to consult before calling.
 
 E-mail: [customerservice@foxcreekleather.com](mailto:customerservice@foxcreekleather.com)  
 
