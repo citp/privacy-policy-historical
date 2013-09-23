@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogcommentdemon.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501013147id_/http%3A//blogcommentdemon.com/private.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogcommentdemon.com privacy policy that was archived on 2013-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130923032245id_/http%3A//www.blogcommentdemon.com/private.htm) for the most accurate reproduction.*
 
 # Private Policy
 
