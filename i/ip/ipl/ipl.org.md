@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipl.org privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531003700id_/http%3A//www.ipl.org/div/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipl.org privacy policy that was archived on 2013-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130923063732id_/http%3A//www.ipl.org/div/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement: Agreement to Conditions of Use of ipl2 - About ipl2
 
@@ -24,9 +24,9 @@ Office of Research
 245 N 15th St. Ms 444  
 Philadelphia, PA 19102-1101
 
-If you have questions about the services provided by the Internet Public Library, please contact: 
+If you have questions about the services provided by ipl2, please contact: 
 
-[Dr. Eileen G. Abels](mailto:eileen.abels@ischool.drexel.edu) or [Denise Agosto](mailto:denise.agosto@ischool.drexel.edu)  
+[Michael Khoo](mailto:khoo@drexel.edu) and [Denise Agosto](mailto:denise.agosto@ischool.drexel.edu)  
 College of Information Science and Technology  
 Drexel University  
 3141 Chestnut Street Philadelphia, PA 19104-2875
