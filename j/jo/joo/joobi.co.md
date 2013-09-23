@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joobi.co privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515232306id_/http%3A//joobi.co/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D27%26Itemid%3D224) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joobi.co privacy policy that was archived on 2013-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130923044429id_/http%3A//www.joobi.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
