@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the m6m.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102010749id_/http%3A//m6m.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the m6m.com privacy policy that was archived on 2013-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130923152213id_/http%3A//m6m.com/privacy) for the most accurate reproduction.*
 
 # privacy policy - m6m Games
 
