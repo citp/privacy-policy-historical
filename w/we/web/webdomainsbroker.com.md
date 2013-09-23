@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webdomainsbroker.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514234305id_/http%3A//www.webdomainsbroker.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webdomainsbroker.com privacy policy that was archived on 2013-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130923190835id_/http%3A//www.webdomainsbroker.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # webdomainsbroker.com
 
