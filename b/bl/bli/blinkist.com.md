@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blinkist.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501101837id_/http%3A//www.blinkist.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blinkist.com privacy policy that was archived on 2013-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130923051131id_/https%3A//www.blinkist.com/en/privacy) for the most accurate reproduction.*
 
-# Blinkist :: Privacy Policy
+# Blinkist
 
 **Effective on 2012-11-22**
 
@@ -85,8 +85,8 @@ You can contact us about this privacy statement by writing or email us at the ad
 
   
 **Blinks Labs GmbH**  
-Andreasstrasse 10  
-Berlin, 10243  
+Wiener Strasse 35  
+Berlin, 10999  
 Germany  
 Email: [feedback@blinkist.com](mailto:feedback@blinkist.com)
 
