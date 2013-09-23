@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tiffanybluenikeau.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614042504id_/http%3A//www.tiffanybluenikeau.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tiffanybluenikeau.com privacy policy that was archived on 2013-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130924000208id_/http%3A//www.tiffanybluenikeau.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice : Nike Free Run Cheap,Tiffany Nike Free,Tiffany Blue Nike,Nike Free Run 2 Australia
 
