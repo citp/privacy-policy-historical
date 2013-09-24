@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igmarkets.com.sg privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524204130id_/http%3A//www.igmarkets.com.sg/cfd/privacy-notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igmarkets.com.sg privacy policy that was archived on 2013-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130924082658id_/http%3A//www.igmarkets.com.sg/cfd/privacy-notice.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -42,7 +42,7 @@ Depending on the product or service concerned and particular restrictions on sen
 
 
 
-Generally, we require that organisations outside the IG group of companies who handle or obtain personal information as service providers acknowledge the confidentiality of this information, undertake to respect any individual's right to privacy and comply with this policy. Third party service providers may keep a record of any searches performed on our behalf and may use the search details to assist other companies in performing their searches. Please note that third parties are not covered by our privacy policy and are not subject to our privacy standards and procedures. 
+Generally, we require that organisations outside the IG group of companies who handle or obtain personal information as service providers acknowledge the confidentiality of this information, undertake to respect any individual's right to privacy and comply with this policy. Third party service providers may keep a record of any searches performed on our behalf and may use the search details to assist other companies in performing their searches. Please note that third parties are not covered by our privacy policy and are not subject to our privacy standards and procedures.
 
 ####  Marketing and Promotional Information
 
@@ -78,9 +78,9 @@ If you want to:
 phone us on (65) 6390 5118, e-mail to [**helpdesk@igmarkets.com.sg**](mailto:helpdesk@igmarkets.com.sg) or write to us at:
 
 IG  
-22-03 Chevron House  
-30 Raffles Place  
-Singapore 048622
+9 Battery Road  
+#01-02 Straits Trading Building  
+Singapore 049910
 
 ####  What is a cookie and how do we use cookies?
 
