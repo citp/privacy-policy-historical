@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ganeshchaturthi.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016114925id_/http%3A//ganeshchaturthi.com/private.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ganeshchaturthi.com privacy policy that was archived on 2013-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130924093504id_/http%3A//ganeshchaturthi.com/private.htm) for the most accurate reproduction.*
 
 # Shree Ganesh
 
