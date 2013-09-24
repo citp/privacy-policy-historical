@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezibuy.co.nz privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612041918id_/http%3A//www.ezibuy.co.nz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezibuy.co.nz privacy policy that was archived on 2013-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130924093437id_/http%3A//www.ezibuy.co.nz/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - EziBuy New Zealand
 
@@ -16,7 +16,7 @@ EziBuy website visitors who wish to opt out of Google Analytics for Display Adve
 
 How do we use the personal information?
 
-We may use your personal information to process your transactions, to administer your account, to conduct credit and other checks, for our own internal purposes (such as risk management, staff training and billing), to help us to develop our website to be more available and user friendly to our customers, and for any other use which you may authorise.
+We may use your personal information to process your transactions, to administer your account, to conduct credit and other checks, for our own internal purposes (such as risk management, staff training and billing), to facilitate our online services (including to provide the services contemplated by our [Website Acceptable Use Policy](https://web.archive.org/acceptable-use)), to help us to develop our website to be more available and user friendly to our customers, and for any other use associated with such purposes or which you may authorise.
 
 In addition, we may use your personal information to promote and market our products and services, or the products and services of others. However, we will not do this by email or text (except as part of an email which facilitates, completes or confirms a transaction with you) unless we have your express, inferred or deemed consent to do so. These emails and texts will always include an "unsubscribe" facility. (for further details on how to unsubscribe see below).
 
@@ -24,7 +24,7 @@ Will we disclose your personal information to others?
 
 We do not sell, trade or rent your personal information to others.
 
-However, we do use other companies and individuals to perform services on our behalf, such as delivering packages, sending mail and emails, credit checking and processing payments. They will have access to your personal information needed to perform these services, but we will not authorise them to use your personal information for other purposes.
+However, we do use other companies and individuals to perform services on our behalf, such as delivering packages, sending mail and emails, credit checking and processing payments. They will have access to your personal information needed to perform and provide these services, but we will not authorise them to use your personal information for other purposes.
 
 We also disclose your personal information to our business partners, such as financial services or insurance companies, for them to offer products and services to you. This information may include scrambled credit card details, although these will only be used with your consent for any transactions with them. If you do not wish your personal information to be disclosed, call us on 0508 500 500 or email us at [mail@ezibuy.co.nz](mailto:mail@ezibuy.co.nz).
 
@@ -56,9 +56,9 @@ You can subscribe to promotional and marketing email and/or text communications 
 
 By subscribing to our email and/or text communications, or otherwise providing us with your email address and/or mobile number, you consent to receiving emails and/or texts (as the case may be) which promote and market our products and services, or the products and services of others, from us from time to time.
 
-You can unsubscribe from our email communications at any time by clicking the "Unsubscribe" link in any promotional or marketing email received from us or by signing into My EziBuy here and unchecking "I want to receive: Email" box or by calling us on 0508 500 500 or emailing us at mail@ezibuy.co.nz .
+You can unsubscribe from our email communications at any time by clicking the "Unsubscribe" link in any promotional or marketing email received from us or by signing into My EziBuy on this site and unchecking "I want to receive: Email" box or by calling us on 0508 500 500 or emailing us at mail@ezibuy.co.nz.
 
-You can unsubscribe from our text communications at any time by following the directions to unsubscribe in any promotional or marketing text received from us or by signing into My EziBuy here and unchecking "I want to receive: Texts" box or by calling us on 0508 500 500 or emailing us at mail@ezibuy.co.nz .
+You can unsubscribe from our text communications at any time by following the directions to unsubscribe in any promotional or marketing text received from us or by signing into My EziBuy on this site and unchecking "I want to receive: Texts" box or by calling us on 0508 500 500 or emailing us at mail@ezibuy.co.nz.
 
 Once you have unsubscribed from our email or text communications, we will remove you from the corresponding marketing list as soon as is reasonably practicable.
 
