@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gimmebar.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115164548id_/https%3A//gimmebar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gimmebar.com privacy policy that was archived on 2013-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130924103732id_/https%3A//gimmebar.com/privacy) for the most accurate reproduction.*
 
 # Gimme Bar : Privacy
 
