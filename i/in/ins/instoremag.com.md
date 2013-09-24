@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instoremag.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619072716id_/http%3A//smartworkmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instoremag.com privacy policy that was archived on 2013-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130924084541id_/http%3A//smartworkmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « « SmartWork Media SmartWork Media
 
