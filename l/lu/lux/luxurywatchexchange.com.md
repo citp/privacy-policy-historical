@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the luxurywatchexchange.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531203845id_/http%3A//www.luxurywatchexchange.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxurywatchexchange.com privacy policy that was archived on 2013-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130924232558id_/http%3A//www.luxurywatchexchange.com/privacy.asp) for the most accurate reproduction.*
 
 # Luxury Watch Exchange | Auction Sell Buy Watches
-
-**333 Breitlings For Sale!   Less Than $300 To $125,000!  Check Them Out in Omega Category!  
-**
 
 [ ](http://www.luxurywatchexchange.com/index.asp)
 
@@ -38,5 +35,5 @@ Data in relation to credit card payments are processed by Authorize.net and Pay
 
 If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please email us at [admin@uxurywatchexchange.com](mailto:admin@theluxurywatchexchange.com).  You can also correct any factual errors in that information or request us to remove your details form any list under our control.
 
-[](http://www.connectingwatches.com/watch-top/) [](http://www.allwatchsites.com/)   
+[](http://www.connectingwatches.com/watch-top/) [](http://www.allwatchsites.com/) [ ](http://www.revisitors.com/a/don@ewristwatch.net)   
 
