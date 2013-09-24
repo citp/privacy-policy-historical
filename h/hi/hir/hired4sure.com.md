@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hired4sure.com privacy policy that was archived on 2009-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090820132246id_/http%3A//www.hired4sure.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hired4sure.com privacy policy that was archived on 2013-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130924074606id_/http%3A//hired4sure.com/privacy.aspx) for the most accurate reproduction.*
 
-# Hired4Sure - privacy
+# Privacy
 
 This Privacy Policy was last updated in 10 August 2009.
 
