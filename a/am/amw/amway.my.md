@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amway.my privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515055553id_/http%3A//www.amway.my/shop/content/pagebuilder.aspx/terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amway.my privacy policy that was archived on 2013-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130924112438id_/http%3A//www.amway.my/shop/content/pagebuilder.aspx/terms-of-use) for the most accurate reproduction.*
 
 # Terms of Use and Privacy Statement
 
