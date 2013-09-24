@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beatthatquote.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526080807id_/http%3A//www.beatthatquote.com/terms_and_conditions.php%23privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beatthatquote.com privacy policy that was archived on 2013-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130925014834id_/http%3A//www.beatthatquote.com/terms_and_conditions.php%23privacy_policy) for the most accurate reproduction.*
 
 # BeatThatQuote.com
 
