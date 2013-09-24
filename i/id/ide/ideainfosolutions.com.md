@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ideainfosolutions.com privacy policy that was archived on 2013-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130123075255id_/http%3A//ideainfosolutions.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ideainfosolutions.com privacy policy that was archived on 2013-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130924112533id_/http%3A//www.ideainfosolutions.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Ideainfosolutions.com | Privacy Policy
 
