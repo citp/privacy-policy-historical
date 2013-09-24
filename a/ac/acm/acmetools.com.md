@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acmetools.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620163235id_/http%3A//www.acmetools.com/webapp/wcs/stores/servlet/PrivacyPolicyView%3FlangId%3D-1%26storeId%3D10052%26catalogId%3D10101) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acmetools.com privacy policy that was archived on 2013-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130924233935id_/http%3A//www.acmetools.com/webapp/wcs/stores/servlet/PrivacyPolicyView%3FlangId%3D-1%26storeId%3D10052%26catalogId%3D10101) for the most accurate reproduction.*
 
 # Power Tools, Woodworking Tools, Cordless Tools from DeWalt, Makita, Milwaukee and others at AcmeTools.com
 
