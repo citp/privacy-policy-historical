@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gorumors.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506110030id_/http%3A//gorumors.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gorumors.com privacy policy that was archived on 2013-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130924145309id_/http%3A//gorumors.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Go Rumors
 
