@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cash-twist.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522104114id_/http%3A//www.cash-twist.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cash-twist.com privacy policy that was archived on 2013-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130924075152id_/http%3A//www.cash-twist.com/privacy) for the most accurate reproduction.*
 
 # Cash Twist - Privacy Policy
 
