@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grabtemplates.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603072933id_/http%3A//grabtemplates.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grabtemplates.com privacy policy that was archived on 2013-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130925012219id_/http%3A//grabtemplates.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GrabTemplates
 
