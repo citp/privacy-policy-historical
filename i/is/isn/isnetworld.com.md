@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isnetworld.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426195552id_/http%3A//www.isnetworld.com/Homepage/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isnetworld.com privacy policy that was archived on 2013-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130924180443id_/http%3A//www.isnetworld.com/Homepage/privacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | ISNetworld
 
