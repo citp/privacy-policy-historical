@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tomandlorenzo.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526002034id_/http%3A//www.tomandlorenzo.com/2006/07/privacy-policy-information.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomandlorenzo.com privacy policy that was archived on 2013-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130924114641id_/http%3A//www.tomandlorenzo.com/2006/07/privacy-policy-information.html) for the most accurate reproduction.*
 
 # Privacy Policy Disclosure | Tom & Lorenzo
 
