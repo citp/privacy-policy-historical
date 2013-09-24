@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ilovelupe.com privacy policy that was archived on 2013-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130122033327id_/http%3A//www.ilovelupe.com/pages/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilovelupe.com privacy policy that was archived on 2013-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130924090711id_/http%3A//ilovelupe.com/pages/pp) for the most accurate reproduction.*
 
 # Little Lupe Fuentes - Privacy Policy
 
