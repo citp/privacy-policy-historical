@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jh-mind.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604222352id_/http%3A//www.jh-mind.com/statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jh-mind.com privacy policy that was archived on 2013-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130924114043id_/http%3A//www.jh-mind.com/statement.html) for the most accurate reproduction.*
 
 # 
 
