@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insidesimracing.tv privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629064343id_/http%3A//insidesimracing.tv/pages/section/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidesimracing.tv privacy policy that was archived on 2013-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130925000259id_/http%3A//insidesimracing.tv/pages/section/Privacy-Policy) for the most accurate reproduction.*
 
 # InsideSimRacing - Privacy Policy
 
