@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gratisonlinesex.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620221052id_/http%3A//www.gratisonlinesex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gratisonlinesex.com privacy policy that was archived on 2013-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130925010358id_/http%3A//www.gratisonlinesex.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy » 100% Free webcam sex » Free sex chat » Adult chat
+# Privacy Policy - Gratisonlinesex.com
 
 ### Privacy Policy
 
-This Privacy Policy governs the manner in which Gratisonlinesex.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://*.gratisonlinesex.com/ website (“Site”). This privacy policy applies to the Site and all products and services offered by gratisonlinesex.com.
+This Privacy Policy governs the manner in which [Gratisonlinesex.com](http://www.gratisonlinesex.com/) collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://*.gratisonlinesex.com/ website (“Site”). This privacy policy applies to the Site and all products and services offered by gratisonlinesex.com.
 
 **Personal identification information**
 
@@ -60,6 +60,5 @@ __PHPSESSID  |  After Closing your browser | This cookie is used for website fun
 
 **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[admin@gratisonlinesex.com](mailto:admin@gratisonlinesex.com)  
-This document was last updated on November 24, 2012
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: [admin@gratisonlinesex.com](mailto:admin@gratisonlinesex.com)  
+
