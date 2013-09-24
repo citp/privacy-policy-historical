@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manappuram.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423225516id_/http%3A//manappuram.com/php/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manappuram.com privacy policy that was archived on 2013-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130924162630id_/http%3A//www.manappuram.com/php/privacyPolicy.php) for the most accurate reproduction.*
 
 # MANAPPURAM FINANCE LIMITED - Gold Loan | Loan against Gold Ornaments | Loan against Gold Jewellery | Jewel Loan
 
