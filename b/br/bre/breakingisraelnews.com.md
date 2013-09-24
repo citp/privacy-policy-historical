@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the breakingisraelnews.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616120452id_/http%3A//www.breakingisraelnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breakingisraelnews.com privacy policy that was archived on 2013-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130924042431id_/http%3A//www.breakingisraelnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Breaking Israel News
 
