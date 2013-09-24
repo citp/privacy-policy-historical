@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myecovermaker.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523152148id_/http%3A//www.myecovermaker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myecovermaker.com privacy policy that was archived on 2013-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130924093734id_/http%3A//www.myecovermaker.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
