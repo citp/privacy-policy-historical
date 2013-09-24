@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloggink.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601051320id_/http%3A//bloggink.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggink.com privacy policy that was archived on 2013-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130924174228id_/http%3A//bloggink.com/privacy) for the most accurate reproduction.*
 
 # BlogginK.com Free Blogging Service | Privacy
 
@@ -77,5 +77,3 @@ able to provide those services to you.
 At the bottom of the page, the revision date identifies the current version.
 
 **Published on: Oct 2, 2010 @ 22:40**
-
-This post is also available in: [French](http://bloggink.com/fr/politique-de-confidentialite/), [Italian](http://bloggink.com/it/privacy-2/), [Spanish](http://bloggink.com/es/su-privacidad/)
