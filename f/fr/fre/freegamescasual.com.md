@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freegamescasual.com privacy policy that was archived on 2013-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130403160417id_/http%3A//freegamescasual.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freegamescasual.com privacy policy that was archived on 2013-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130924172504id_/http%3A//www.freegamescasual.com/privacy.php) for the most accurate reproduction.*
 
 # Free Games Casual
 
@@ -63,7 +63,7 @@ GBN may establish relationships with various service providers whose services ma
 
 Information Relating to Children 
 
-We recognize that children under the age of 13 may access this Website and subscribe to the newsletter, communicate with other users, take part in user ratings, utilize online software applications or download trial versions of software programs. The collection of information is covered above and shall comply with the United States Federal Trade Commissionâ€™s Childrenâ€™s Online Privacy Protection Act (â€œCOPPAâ€). Parents are required to participate and control their childrenâ€™s online activities. 
+We recognize that children under the age of 13 may access this Website and subscribe to the newsletter, communicate with other users, take part in user ratings, utilize online software applications or download trial versions of software programs. The collection of information is covered above and shall comply with the United States Federal Trade Commissionâ€™s Childrenâ€™s Online Privacy Protection Act (â€œCOPPAâ€‌). Parents are required to participate and control their childrenâ€™s online activities. 
 
 When the child registries at the Website, he/she has to provide his/her age. Therefore if a child indicates that he/she is under 13, it will be required to add the email address of the Parents or Legal Guardians. GBN will notify them about their child registration on the Website.
 
@@ -89,7 +89,7 @@ GBN recognizes and appreciates the importance of responsible use of information 
 
 Disclosure of Information to Third Parties 
 
-GBN does use the services of third parties, such as email service providers, content providers, purchase and order processing merchants and marketing companies that act as independent contractors on behalf of GBN (the â€œPartnersâ€). These parties are contractually prohibited from using personally identifiable information for any purpose other than for the purpose GBN specifies. We do provide non-personally identifiable information to certain Partners for their use on an aggregated basis for the purpose of performing their contractual obligations to us. We prohibit the sale or transfer of personal information to entities outside of GBN for their use without your approval. 
+GBN does use the services of third parties, such as email service providers, content providers, purchase and order processing merchants and marketing companies that act as independent contractors on behalf of GBN (the â€œPartnersâ€‌). These parties are contractually prohibited from using personally identifiable information for any purpose other than for the purpose GBN specifies. We do provide non-personally identifiable information to certain Partners for their use on an aggregated basis for the purpose of performing their contractual obligations to us. We prohibit the sale or transfer of personal information to entities outside of GBN for their use without your approval. 
 
 GBN may disclose your personally identifiable information if we believe in good faith that we are required to do so in order to comply with applicable law, a subpoena, or other legal process. GBN may also disclose personally identifiable information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our Terms of Use, this Privacy Policy or to protect the safety of our users and the public or under confidentiality and licensing agreements with certain third parties which assist us in developing, operating and maintaining the Website and its content. 
 
