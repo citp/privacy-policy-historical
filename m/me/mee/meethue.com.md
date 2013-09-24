@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the meethue.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614225926id_/http%3A//www.meethue.com/en-US/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meethue.com privacy policy that was archived on 2013-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130924184928id_/http%3A//www.meethue.com/en-US/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy - Philips hue
 
 ### Privacy Notice for Hue  
 
