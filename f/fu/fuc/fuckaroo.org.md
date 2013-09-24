@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fuckaroo.org privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515034814id_/http%3A//fuckaroo.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuckaroo.org privacy policy that was archived on 2013-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130924233906id_/http%3A//fuckaroo.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Fuckaroo.org
 
