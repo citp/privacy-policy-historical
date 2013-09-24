@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postfever.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523053047id_/http%3A//www.postfever.com/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postfever.com privacy policy that was archived on 2013-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130924175637id_/http%3A//www.postfever.com/policies) for the most accurate reproduction.*
 
 # Privacy Policy - PostFever
 
@@ -64,6 +64,6 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 PostFever
 
-[www.postfever.com](https://web.archive.org/web/20130523053047id_/http://www.postfever.com/)
+[www.postfever.com](https://web.archive.org/web/20130924175637id_/http://www.postfever.com/)
 
 admin@postfever.com
