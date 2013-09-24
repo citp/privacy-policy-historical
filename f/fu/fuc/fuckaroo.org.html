@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the fuckaroo.org privacy policy that was archived on 2013-05-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130515034814id_/http%3A//fuckaroo.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fuckaroo.org privacy policy that was archived on 2013-09-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130924233906id_/http%3A//fuckaroo.org/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   
     <title>Privacy Policy - Fuckaroo.org</title>
 
-  <link rel="stylesheet" href="http://ccstatic.highwebmedia.com/static/CACHE5/css/3333b43df1bc.css" type="text/css"><link rel="stylesheet" href="http://ccstatic.highwebmedia.com/static/CACHE5/css/3a7401a08e29.css" type="text/css" media="all">
+  <link rel="stylesheet" href="http://ccstatic.highwebmedia.com/static/CACHE5/css/3333b43df1bc.css" type="text/css"><link rel="stylesheet" href="http://ccstatic.highwebmedia.com/static/CACHE5/css/20e5bc65ef44.css" type="text/css" media="all">
   
     <link rel="stylesheet" href="http://ccstatic.highwebmedia.com/static/CACHE5/css/a8c025e8b244.css" type="text/css" media="all">
   
@@ -230,11 +230,11 @@ a {
 <span class="pagename">Fuckaroo.org Login</span>
 <h2>Please sign in using the form below</h2>
 <form method="post" action="/auth/login/?next=/privacy/">
-  <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="ba2Mzv6eJhEDotCOSm0gccqNJJpZacn9"></div>
+  <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="qdPYGGqn3vqDSE79trLfADVbkWHfzeQG"></div>
   <label for="id_username">Username:</label>
   <input id="id_username" type="text" name="username" maxlength="30">
   <label for="id_password">Password:</label>
-  <input type="password" name="password" id="id_password">
+  <input id="id_password" type="password" name="password" maxlength="4096">
   <label for="id_rememberme">Keep me logged in:</label> <input type="checkbox" name="rememberme" id="id_rememberme">
   <input type="submit" value="login" class="button">
   <input type="hidden" name="next" value="/privacy/">
@@ -422,19 +422,12 @@ a {
 
 
 <script type="text/javascript" src="/jsi18n/"></script>
-<script type="text/javascript" src="http://ccstatic.highwebmedia.com/static/CACHE5/js/c9bc827a85fc.js"></script>
+<script type="text/javascript" src="http://ccstatic.highwebmedia.com/static/CACHE5/js/6517edee7824.js"></script>
 
 <script type="text/javascript">
 $.facebox.settings.loadingImage = 'http://ccstatic.highwebmedia.com/static/facebox/loading.gif';
 $.facebox.settings.closeImage = 'http://ccstatic.highwebmedia.com/static/facebox/closelabel.png';
 $(document).ready(function() {
-  $('a.join_fanclub').click(function() {
-    var popupwindow = window.open($(this).attr('href'), '_blank',
-            'status=0,toolbar=0,menubar=0,directories=0,resizable=1,' +
-                    'scrollbars=1,height=615,width=850');
-    popupwindow.focus();
-    return false;
-  });
   $('.purchase_tokens a, a.purchase_tokens').click(function() {
     var popupwindow = window.open("/tipping/purchase_tokens/", '_blank',
             'status=0,toolbar=0,menubar=0,directories=0,resizable=1,' +
@@ -527,6 +520,28 @@ function recordOutboundLink(link, category, action) {
   }catch(err){}
 }
 
+$(document).ready(function(){
+    var fwcookie = $.cookie('fraudWarning05202013_');
+    if (!fwcookie) {
+        $('#fraud_warning').show();
+        $('#fraud_warning a.dismiss').click(function() {
+            $('#fraud_warning').hide();
+            $.cookie('fraudWarning05202013_', 1, 3628800);
+        });
+    }
+});
+
+$(document).ready(function(){
+    var achdismisscookie = $.cookie('ach_dismiss_');
+    if (!achdismisscookie) {
+        $('#direct_deposit_warning').show();
+        $('#direct_deposit_warning a.dismiss').click(function() {
+            $('#direct_deposit_warning').hide();
+            $.cookie('ach_dismiss_', 1, 31557600);
+        });
+    }
+});
+
 </script>
 
 
@@ -541,7 +556,7 @@ if (top.location != location) {
 <script type="text/javascript">
 $(document).ready(function() {
     $.post("/whitelabels/record_hit/",
-        {referer: "http://fuckaroo.org/?show\u003D7339"});
+        {referer: "http://fuckaroo.org/"});
 });
 </script>
 
@@ -556,13 +571,17 @@ $.show_login_box = function(){
     $("#login-box").show();
     $("#id_username").focus();
     $("#id_username").select();
-    $.mydefchatconn('disable_html5_video_controls');
+    if ($.mydefchatconn) {
+        $.mydefchatconn('disable_html5_video_controls');
+    }
 }
 
 $.hide_login_box = function(){
     $("#login-overlay").hide();
     $("#login-box").hide();
-    $.mydefchatconn('enable_html5_video_controls');
+    if ($.mydefchatconn) {
+        $.mydefchatconn('enable_html5_video_controls');
+    }
 }
 
 $(document).ready(function(){
