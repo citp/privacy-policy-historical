@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leaguelineup.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602043315id_/http%3A//leaguelineup.com/faqs_privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leaguelineup.com privacy policy that was archived on 2013-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130924050033id_/http%3A//www.leaguelineup.com/faqs_privacypolicy.asp) for the most accurate reproduction.*
 
 # Free Websites for Youth Sports Teams and Leagues
 
