@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the smartlivingcompany.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424003457id_/https%3A//www.smartlivingcompany.com/Account/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartlivingcompany.com privacy policy that was archived on 2013-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130925011245id_/https%3A//www.smartlivingcompany.com/Account/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Smart Living Company
 
-[](https://web.archive.org/web/20130424003457id_/https%3A//www.smartlivingcompany.com/Account/getstarted)
+[](https://web.archive.org/web/20130925011245id_/https%3A//www.smartlivingcompany.com/Account/getstarted)
 
 **What This Privacy Policy Covers**
 
@@ -12,7 +12,7 @@ Smart Living Company takes privacy matters seriously. Please read the following 
 
   * This policy covers how Smart Living Company treats personal information that Smart Living Company collects and receives, including information related to your purchase and use of Smart Living Company products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. 
   * By using any Smart Living Company pages , in any way accessing Smart Living Company.com, or using other services of Smart Living Company, you are accepting the practices described in this policy and our terms of use. 
-  * This policy does not apply to the practices of companies that Smart Living Company does not own or control, or to people that Smart Living Company does not employ or manage. In addition, Smart Living Company associated companies such as eMerchantClub, LLC may have their own privacy policies. 
+  * This policy does not apply to the practices of companies that Smart Living Company does not own or control, or to people that Smart Living Company does not employ or manage. In addition, Smart Living Company associated companies such as eMerchantClub, LLC may have their own privacy policies here www.emerchantclubtour.com/privacy.html and www.emerchantclubtour.com/terms_of_use.html. 
 
 
 
@@ -20,29 +20,29 @@ Smart Living Company takes privacy matters seriously. Please read the following 
 
 General
 
-Smart Living Company may collect personal information when you (a) visit Smart Living Company pages or the pages Smart Living Company business partners, (b) request information from Smart Living Company, (c) join Smart Living Company as a member, (d) use Smart Living Company services, or (e) purchase Smart Living Company products. Smart Living Company may combine information about you that we have with information we obtain from business partners or other companies. 
+Smart Living Company may collect personal information when you (a) visit Smart Living Company pages or the pages of Smart Living Company business partners, (b) request information from Smart Living Company, (c) join Smart Living Company as a member, (d) use Smart Living Company services, or (e) purchase Smart Living Company products. Smart Living Company may combine information about you that we have with information we obtain from business partners or other companies. 
 
   * When you register we ask for information such as your name and contact information. In connection with purchases we may also ask for credit card numbers, Social Security numbers or other financial information. Once you register with Smart Living Company and sign in to our services, you are not anonymous to us. 
   * Smart Living Company collects information about your transactions with us and with some of our business partners, including information about your use of services and purchase of products that we offer. 
   * Smart Living Company may automatically receive and record information on our server logs from your browser, including your IP address, Smart Living Company cookie information, and the page you request. 
-  * Smart Living Company may use information we receive from you for any business purpose, such as to (a) fulfill your requests for products and services, (b) improve our services and customize the advertising and content you see, (c) provide our business partners and others with the ability to contact you and offer additional products and services you may be interested in, (d) conduct research, troubleshoot problems, resolve disputes, or enforce the Smart Living Company Standard Membership Rules, or (e) provide reporting for internal and external clients.
+  * Smart Living Company may use information we receive from you for any business purpose, such as to (a) fulfill your requests for products and services, (b) improve our services and customize the advertising and content you see, (c) with your authorization provide business partners and others with the ability to contact you and offer additional products and services you may be interested in, (d) conduct research, troubleshoot problems, resolve disputes, or enforce the Smart Living Company Standard Membership Rules, or (e) provide reporting for internal and external clients.
   * You consent to the collection and use of your personal information, including the transfer of information within and outside the United States for storage, processing, and use as set forth in this privacy policy. 
 
 
 
 Children
 
-Smart Living Company offers a business opportunity that is not appropriate for children under 13. 
+Smart Living Company offers a business opportunity that is not appropriate for children under 18. 
 
   * Smart Living Company restricts access by minors by requiring use of a credit card to join Smart Living Company online.
   * When a minor attempts to join Smart Living Company, we ask that his or her parent or guardian provide consent.
-  * Smart Living Company does not knowingly collect information from children under the age of 13. 
+  * Smart Living Company does not knowingly collect information from children under the age of 18. 
 
 
 
 **Information Sharing and Disclosure.**
 
-Smart Living Company may sell, rent, or share personal information about you with our business partners, affiliated companies, nonaffiliated companies and other people. Your personal information may be used to, among other things: 
+Smart Living Company does not sell, rent, or share personal information about you with our business partners, affiliated companies, nonaffiliated companies and other people. Your personal information may be used to, among other things: 
 
   * Provide products, services or information you've requested. 
   * Provide you with information about additional products and services you may be interested in. 
@@ -52,7 +52,7 @@ Smart Living Company may sell, rent, or share personal information about you wit
   * We transfer information about you if Smart Living Company is acquired by or merged with another company. 
   * Smart Living Company may employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, processing credit card account payments, providing collection services, and providing customer service. They may have access to personal information about you needed to perform their functions. 
   * Smart Living Company works with vendors, partners, advertisers, and other service providers in different industries and categories of business. 
-  * We reserve the right to send you certain communications relating to the Smart Living Company service, such as service announcements and administrative messages, that are considered part of your Smart Living Company membership, without offering you the opportunity to opt-out of receiving them. 
+  * We reserve the right to send you certain communications relating to the Smart Living Company service, such as service announcements and administrative messages that are considered part of your Smart Living Company membership, without offering you the opportunity to opt-out of receiving them. 
 
 
 
@@ -88,9 +88,13 @@ Cookies are alphanumeric identifiers that Smart Living Company may transfer to y
 
 
 
+**Other Items**
+
+Any controversy, dispute or claim of any nature whatsoever arising out of, in connection with or in relation to your personal information or this Privacy Policy will be resolved by binding arbitration pursuant to Smart Living Company's Terms of Use. 
+
 **Questions and Suggestions**
 
-If you have questions or suggestions, you can contact us at: 
+If you have questions or suggestions, you can contact contact Smart Living Company at: 
 
 Smart Living Company 
 
