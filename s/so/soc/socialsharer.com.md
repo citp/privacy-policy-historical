@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialsharer.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116032540id_/http%3A//www.socialsharer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialsharer.com privacy policy that was archived on 2013-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130925005725id_/http%3A//www.socialsharer.com/privacy.php) for the most accurate reproduction.*
 
 # SocialSharer - Get Facebook Fans, Twitter Followers, Youtube Views, Google +1's, Stumbleupon Followers, Digg Followers, Website Hits, Twitter ReTweets, and MORE!
 
@@ -63,7 +63,7 @@ SocialSharer has the discretion to update this privacy policy at any time. When 
 
 **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy and [terms of service](https://web.archive.org/web/20130116032540id_/http%3A//www.socialsharer.com/tos.php). If you do not agree to this policy or terms, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](https://web.archive.org/web/20130925005725id_/http%3A//www.socialsharer.com/tos.php). If you do not agree to this policy or terms, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 **Contacting us**
 
