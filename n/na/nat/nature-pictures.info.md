@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nature-pictures.info privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527113536id_/http%3A//www.nature-pictures.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nature-pictures.info privacy policy that was archived on 2013-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130925160215id_/http%3A//www.nature-pictures.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Nature Pictures
 
