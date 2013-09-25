@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igraciousliving.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516235200id_/http%3A//igraciousliving.com/igraciousliving-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igraciousliving.com privacy policy that was archived on 2013-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130926001640id_/http%3A//www.igraciousliving.com/igraciousliving-privacy-policy) for the most accurate reproduction.*
 
 # iGraciousLiving-Privacy-Policy
 
@@ -91,7 +91,7 @@ Lugen Family Office Inc. c/o Chief Privacy Officer
 880, 505 Burrard St., Box 43, Vancouver, BC, V7X 1M4   
 FAX: (604) 913-3687
 
-[privacyofficer@igraciousliving.com](http://www.igraciousliving.com/undefined/)
+[privacyofficer@igraciousliving.com](http://igraciousliving.com/undefined/)
 
 ## Amendments to Our Privacy Policy
 
@@ -141,7 +141,7 @@ In general, we use your personal information to process your requests or transac
 
 
 
-Box.net may store and process personal information in the United States and other countries. Box.net adheres to the U.S. Department of Commerce's Safe Harbor privacy principles regarding the collection, use, and retention of personal information from the European Union. Box.net’s Safe Harbor certification can be found at [http:/web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list](http://www.igraciousliving.com/web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list). For more information about the Safe Harbor Principles, please visit the U.S. Department of Commerce’s Website at <http://export.gov/safeharbor/>.
+Box.net may store and process personal information in the United States and other countries. Box.net adheres to the U.S. Department of Commerce's Safe Harbor privacy principles regarding the collection, use, and retention of personal information from the European Union. Box.net’s Safe Harbor certification can be found at [http:/web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list](http://igraciousliving.com/web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list). For more information about the Safe Harbor Principles, please visit the U.S. Department of Commerce’s Website at <http://export.gov/safeharbor/>.
 
 ## Sharing of Personal Information.
 
