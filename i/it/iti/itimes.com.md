@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itimes.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627010731id_/http%3A//ww.itimes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itimes.com privacy policy that was archived on 2013-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130925041206id_/http%3A//ww.itimes.com/privacy-policy) for the most accurate reproduction.*
 
 # Be more interesting | itimes | Privacy Policy
 
@@ -51,8 +51,11 @@ However the internet is an ever evolving medium. We may change our privacy polic
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.
 
-In the event you have any grievance relating to the processing of information provided by you, you may contact our Grievance Officer, at copyright.infringement@indiatimes.com ; or write at the following address:
+In the event you have any grievance relating to the processing of information provided by you or relating to any grievance pertaining to the Site, you may contact our Grievance Officer, at copyright.infringement@indiatimes.com ; or write at the following address:
 
+Pushpinder Singh Sahi   
+Grievance Redressal Officer   
+itimes.com   
 Times Internet Limited   
 4th Floor, MPD World Tower,   
 DLF City Phase V, Opposite DLF Golf Course   
