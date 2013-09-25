@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the live4liverpool.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603081840id_/http%3A//live4liverpool.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the live4liverpool.com privacy policy that was archived on 2013-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130925221436id_/http%3A//live4liverpool.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | live4liverpool.com
 
@@ -55,6 +55,19 @@ The IP address of the computer you use to access this web site is automatically 
 ### HOW SECURE IS MY PERSONAL INFORMATION?
 
 The security of your personal information is very important to SN&CK Media Limited and it takes all steps it deems reasonably necessary to ensure such security. However, the transmission of data over Internet cannot be guaranteed to be completely secure and failsafe. As such, SN&CK Media Limited is not able to warrant or guarantee the complete security of any personal information that you provide and it is important that you are aware that providing any such information is done so entirely at your own risk.
+
+### CONTROLLING INTEREST BASED ADVERTISING AND OTHER THIRD PARTY COOKIES
+
+Showing advertising that is relevant to your interests on other sites. Sometimes, to improve the effectiveness of online advertising campaigns, we may extend the number of times that you see same ad by purchasing advertising space on other sites that are deemed relevant by the advertiser. There are several ways to opt out of the process. This can be achieved by clicking on the following icon on the ad itself.
+
+In addition to the controls available on your computer there are also other ways of controlling interest based advertising and other tracking cookies and the links to each are provided below.
+
+  * Internet Advertising Bureau (IAB) “Your Online Choices” page. This allows you to control interest based advertising from each of the ad networks represented by the IAB. ([http://www.youronlinechoices.com](http://www.youronlinechoices.com/))
+  * Network Advertising Initiative (NAI) control page. This allows you to control behavioural advertising from each of the ad networks represented by the NAI. (<http://www.aboutads.info/choices/>)
+  * Digital Advertising Alliance’s self-regulatory program for online behavioural advertising control page.
+  * (<http://www.networkadvertising.org/choices/>)
+
+
 
 ### FURTHER INFORMATION
 
