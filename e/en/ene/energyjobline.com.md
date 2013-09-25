@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the energyjobline.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520205545id_/http%3A//www.energyjobline.com/cm/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the energyjobline.com privacy policy that was archived on 2013-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130925185840id_/http%3A//www.energyjobline.com/cm/privacy) for the most accurate reproduction.*
 
 # Energy Jobline | Privacy Policy | Energy Guidelines
 
-**Privacy Policy – Energy Jobline Ltd** ****
-
-At Energy Jobline Ltd (“Energy Jobline”) we take protecting the confidentiality of our clients and candidates seriously, and with this in mind we adhere to the following Privacy Policy in compliance with data protection legislation:
+At Energy Jobline Ltd (“Energy Jobline”) we take protecting the confidentiality of our clients and candidates seriously, and with this in mind we adhere to the following Privacy Policy in compliance with data protection legislation: 
 
 **1.** **     ****Information we may collect and process**
 
