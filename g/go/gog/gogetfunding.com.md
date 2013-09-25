@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gogetfunding.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501144957id_/http%3A//gogetfunding.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gogetfunding.com privacy policy that was archived on 2013-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130925045833id_/http%3A//gogetfunding.com/page/privacy-policy) for the most accurate reproduction.*
 
-# Go Get Funding | Privacy Policy
+# GoGetFunding | Privacy Policy
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
