@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sold.sg privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618232139id_/http%3A//www.sold.sg/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sold.sg privacy policy that was archived on 2013-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130925034910id_/http%3A//auctions.sold.sg/privacy) for the most accurate reproduction.*
 
-# Sold.sg - Privacy Policy
+# Sold.sg -
 
 * * *
 
