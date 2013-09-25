@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jenyagames.com privacy policy that was archived on 2012-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120315114924id_/http%3A//jenyagames.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jenyagames.com privacy policy that was archived on 2013-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130925174505id_/http%3A//www.jenyagames.com/privacypolicy.php) for the most accurate reproduction.*
 
 # 
 
@@ -40,7 +40,7 @@ Please also visit our Terms and Conditions section establishing the use, disclai
 
 **Your Consent**
 
-By using our site, you consent to our [privacy policy](http://www.freeprivacypolicy.com/).
+By using our site, you consent to our privacy policy.
 
 **Changes to our Privacy Policy**
 
