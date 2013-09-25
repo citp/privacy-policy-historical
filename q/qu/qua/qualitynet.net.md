@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qualitynet.net privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527155442id_/http%3A//www.qualitynet.net/%3Fpage_id%3D58) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualitynet.net privacy policy that was archived on 2013-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130925190933id_/http%3A//www.qualitynet.net/%3Fpage_id%3D58) for the most accurate reproduction.*
 
 # Privacy Policy | Qualitynet
 
