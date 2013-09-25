@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seantempleton.com privacy policy that was archived on 2013-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130121110833id_/http%3A//www.seantempleton.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seantempleton.com privacy policy that was archived on 2013-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130925193043id_/http%3A//www.seantempleton.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Get Rich As An Affiliate | Get Rich As An Affiliate
+# Privacy Policy | Get Rich As An Affiliate
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
@@ -21,4 +21,4 @@ We have included links on this site for your use and reference. We are not respo
 **Changes to this Privacy Statement**  
 The contents of this statement may be altered at any time, at our discretion. 
 
-If you have any questions regarding the privacy policy of then you may [contact](http://www.seantempleton.com/contact/ "contact") us at 
+If you have any questions regarding the privacy policy of then you may contact us at 
