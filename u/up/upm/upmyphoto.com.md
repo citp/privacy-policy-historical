@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upmyphoto.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527025059id_/http%3A//upmyphoto.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upmyphoto.com privacy policy that was archived on 2013-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130925144019id_/http%3A//upmyphoto.com/privacy-policy) for the most accurate reproduction.*
 
 # UpMyPhoto.com
 
