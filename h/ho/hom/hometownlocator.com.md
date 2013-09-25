@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hometownlocator.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603062654id_/http%3A//www.hometownlocator.com/PrivacyPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hometownlocator.com privacy policy that was archived on 2013-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130925055140id_/http%3A//www.hometownlocator.com/PrivacyPolicy.cfm) for the most accurate reproduction.*
 
 # HomeTownLocator Privacy Policy
 
@@ -39,7 +39,7 @@ This site may contain links or references to other Web sites to which this Priva
 
 ## How to Contact Us
 
-If you have any questions, comments, requests, or concerns related to this Privacy Policy or the information practices of this site, or if you would like to opt out of future communications, [please contact us](https://web.archive.org/web/20130603062654id_/http%3A//www.hometownlocator.com/Feedback.cfm). 
+If you have any questions, comments, requests, or concerns related to this Privacy Policy or the information practices of this site, or if you would like to opt out of future communications, [please contact us](https://web.archive.org/web/20130925055140id_/http%3A//www.hometownlocator.com/Feedback.cfm). 
 
 ## Changes to This Privacy Policy
 
