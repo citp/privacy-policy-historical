@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifestylestores.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604060614id_/http%3A//lifestylestores.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifestylestores.com privacy policy that was archived on 2013-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130925111833id_/http%3A//www.lifestylestores.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Lifestyle
 
