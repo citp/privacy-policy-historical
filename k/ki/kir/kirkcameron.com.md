@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kirkcameron.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530140446id_/http%3A//kirkcameron.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kirkcameron.com privacy policy that was archived on 2013-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130925175051id_/http%3A//kirkcameron.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy / Terms & Conditions | Kirk CameronKirk Cameron
+# Privacy Policy / Terms & Conditions - Kirk Cameron
 
 At KirkCameron.com, the privacy of our visitors is of extreme importance to us. This Privacy Policy governs the manner in which this website collects, uses, maintains and discloses information collected from users (each, a “User”) of the KirkCameron.com website (“Site”). This privacy policy applies to the Site and all products and services offered by KirkCameron.com.
 
@@ -17,6 +17,10 @@ We may collect non-personal identification information about Users whenever they
 **Web browser cookies**
 
 Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+
+We, or a data provider we have engaged, may place or recognize a unique cookie on your browser to enable you to receive customized ads, content or services. No personally identifiable information is placed into these cookies. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, in hashed, non-human readable form. To opt-out of these cookies or learn more please go to <http://aboutads.info/choices> or <http://www.networkadvertising.org/managing/opt_out.asp>.
+
+Additionally, emails we send may contain a bit of code known as a “web beacon.” This code allows us to understand the time and date of when a user has opened an email and when he/she has utilized a link within the email to visit a website. Our web beacons do not collect personally identifiable information. Users wishing to disable our web beacons should do so by turning images “off” in their email client (e.g., Outlook, Outlook Express). Please see your email client for more information.” 
 
 **How we use collected information**
 
