@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the tadpoles.com privacy policy that was archived on 2012-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120901154029id_/http%3A//www.tadpoles.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tadpoles.com privacy policy that was archived on 2013-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130925041310id_/http%3A//www.tadpoles.com/privacy) for the most accurate reproduction.*
 
 # Privacy for Tadpoles
 
 **Personal Information**
 
-We consider all information captured using Tadpoles to be a private communication between childcare providers and parents. No personal information is shared with any external parties unless a provider has explicitly invited a parent to establish communications. All communications are handled via the parent's email address. To view information parents are required to validate their email address and only have visibility to information shared to that specific email address. 
+We consider all information captured using Tadpoles to be a private communication between childcare providers and parents. No personal information is shared with any external parties unless a provider has explicitly invited a parent to establish communications. All communications are handled via the parent's email address. In order to create an account on tadpoles.com parents are required to validate their email address and only have visibility to information shared to that specific email address. 
 
 **What do we use your information for?**
 
 Any of the information we collect from you may be used in one of the following ways: 
 
   * To personalize your experience (your information helps us to better respond to your individual needs)
-  * To send periodic emails, newsletters, and periodic updates. The email address you provide for registration, will only be used to send you information and updates pertaining to our services.
+  * To send periodic emails, newsletters, and updates. The email address you provide for registration will only be used to send you information and updates pertaining to our services.
 
 
 
@@ -34,6 +34,10 @@ Tadpoles Licensee “Provider” will provide notice to parents or obtain parent
 **Parent Refusal**
 
 At any time parents can request that any personal information be deleted or they be removed from the Tadpoles program. A parent can contact the childcare director or schools department supervisor to change or delete the personal information collected about his or her child.
+
+**Parent Emails**
+
+Tadpoles does track the delivery status of daily report emails to allow a childcare provider to ensure a parent has received a critical piece of information. If you would like to opt out of that delivery status update please notify us at talk.to.us@tadpoles.com
 
 **Children’s Privacy**
 
