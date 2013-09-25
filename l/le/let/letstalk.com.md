@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the letstalk.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625001250id_/http%3A//www.letstalk.com/about/security1.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letstalk.com privacy policy that was archived on 2013-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130926002956id_/http%3A//www.letstalk.com/about/security1.htm) for the most accurate reproduction.*
 
 # Privacy & Security
 
 [](http://www.truste.org/ivalidate.php?url=www.letstalk.com&sealid=101)Privacy Policy
 
- _Last Updated: 4/11/2013_
+ _Last Updated: 8/21/2013_
 
   
 
 
 ## Introduction
 
-We value the relationship we have with our users and customers and are committed to responsible information-handling practices. We take great care in safeguarding your personal information and exceeding our own internal standards and best practices.
+This privacy policy applies to www.LetsTalk.com owned and operated by LetsTalk, Inc. This privacy policy describes how LetsTalk, Inc. collects and uses the personal information you provide on our web site: www.LetsTalk.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 Letstalk.com will notify you of: 
 
@@ -24,7 +24,9 @@ Letstalk.com will notify you of:
 
 
 
-If you have questions or concerns regarding this Privacy Policy, or complaints arising from our use of your personal information, please contact us via certified mail at: LetsTalk.com National Fulfillment Center, 1001 Technology Way, Suite LT, Libertyville, IL. 60048 ATT: Customer Service Center.
+LetsTalk, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this Web site, www.LetsTalk.com.
+
+TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or concerns regarding this Privacy Policy, or complaints arising from our use of your personal information, please contact us via certified mail at: LetsTalk.com National Fulfillment Center, 1001 Technology Way, Suite LT, Libertyville, IL. 60048 ATT: Customer Service Center. If you are not satisfied with our response you can contact TRUSTe here.
 
   
 
@@ -39,7 +41,14 @@ We collect location information in order to improve your shopping experience. If
 We also collect information about your computer, including without limitation hardware, software and configuration information, your IP address, operating system, browser type, domain name of your Internet service provider, URL, access times and/or referring Web site address. We use this information to evaluate and track your order, help administer our Web site, examine overall traffic trends and to help improve our site and make your browsing and purchasing experience more enjoyable. We also use this information to improve the design and content of our Web site, personalize your Internet experience, analyze service usage, track user activity and minimize fraud.
 
 _Cookies_  
-Cookies are used by your computer's browser to store your preferences. We use both session and persistent cookies. Cookies, by themselves, do not tell us your e-mail address or personally identifiable information. In addition, some of our advertisers and business partners or affiliates may use cookies on our site. We have no access to or control over these cookies and their use is not covered by this Privacy Policy.
+Cookies are used by your computer's browser to store your preferences. We use both session and persistent cookies. Cookies, by themselves, do not tell us your e-mail address or personally identifiable information. In addition, some of our advertisers and business partners or affiliates may use cookies on our site. We have no access to or control over these cookies and their use is not covered by this Privacy Policy. They may also employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do tie the information gathered to our Customers’ or Users’ personally identifiable information.
+
+_Flash LSOs_  
+We use local shared objects, also known as Flash cookies, to store your preferences such as volume control or high game score, or display content based upon what you view on our site to personalize your visit. Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information.
+
+Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here:
+
+[http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118 ](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118)
 
 _Tracking Pixels_  
 This site makes use of a technology designed to enhance your browsing experience and to monitor and enhance the effectiveness of marketing activities conducted by us and/or our business partners or affiliates. The technology makes use of a small and transparent Java. Aggregate reporting information is collected and made available to us and/or our business partners or affiliates. No personal or personally identifiable information is gathered or used in this process.
@@ -80,7 +89,7 @@ During and/or after your visit to our Web site, we may ask you questions about o
 
 Trusted Third Parties
 
-Please be assured that any third parties who have access to the information you provide, including our marketing partners, agents, contractors and business partners or affiliates, have agreed to protect it in a manner that is consistent with this Privacy Policy. To fulfill your requests for products and services, we may need to share some of your personally identifiable information with the service provider from which you have requested service. More specifically, when you place an order, we will share contact and ID verification information required by the service provider. The service provider may use this information for credit approval, service activation, and from time to time, its own marketing purposes in accordance with its privacy policy. You should consult the service providers' privacy policy, as this Privacy Policy does not cover their use of your information. We may need to share your personally identifiable information with other third party service providers that assist us with online chat services, credit card processing, fraud screening and shipping in connection with your order and/or use of our site. We also work closely with and may share your contact information with trusted third party business partners or affiliates to provide you with information on products and services that may be of interest to you.
+Please be assured that any third parties who have access to the information you provide, including our marketing partners, agents, contractors and business partners or affiliates, have agreed to protect it in a manner that is consistent with this Privacy Policy. To fulfill your requests for products and services, we may need to share some of your personally identifiable information with the service provider from which you have requested service. More specifically, when you place an order, we will share contact and ID verification information required by the service provider. The service provider may use this information for credit approval, service activation, and from time to time, its own marketing purposes in accordance with its privacy policy. You should consult the service providers' privacy policy, as this Privacy Policy does not cover their use of your information. We may need to share your personally identifiable information with other third party service providers that assist us with online chat services, credit card processing, fraud screening and shipping in connection with your order and/or use of our site. These service providers are authorized to use your personal information only as necessary to provide these services to us. We also work closely with and may share your contact information with trusted third party business partners or affiliates to provide you with information on products and services that may be of interest to you.
 
 Co-branded Web Sites and Offers
 
@@ -91,6 +100,10 @@ Letstalk.com sometimes may offer content (e.g., promotions, affiliations, sponso
 Links
 
 This site may contain links to other Web sites whose information practices may be different from ours. Our Privacy Policy does not cover these third party Web sites’ uses of your information. Visitors should consult the sites' privacy notice as we have no control over information that is submitted to, or collected by, these third parties.
+
+Social Media Widgets
+
+Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
 Legal Process/Disclaimer
 
@@ -110,7 +123,11 @@ We have put in place multiple levels of physical and electronic security to safe
 
 Reviewing and Updating Your Information
 
-If you would like to review, update and/or correct the personally identifiable information that we have collected from you online, simply send your request via certified mail to: LetsTalk.com National Fulfillment Center, 1001 Technology Way, Suite LT, Libertyville, IL. 60048 ATT: Customer Service Center. For wireless service customers, you may also send your request via the Customer Support feedback section in our [customer service center.](http://www.letstalk.com/about/contact1.htm) To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections to your personal information.
+If you would like to review, update, correct and/or delete the personally identifiable information that we have collected from you online, simply send your request via certified mail to: LetsTalk.com National Fulfillment Center, 1001 Technology Way, Suite LT, Libertyville, IL. 60048 ATT: Customer Service Center. For wireless service customers, you may also send your request via the Customer Support feedback section in our [customer service center.](http://www.letstalk.com/about/contact1.htm) To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections to your personal information.
+
+Data Retention
+
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 Choices/Opt Out
 
@@ -125,7 +142,7 @@ If you have any questions regarding this Privacy Policy, or would like more info
 
 ## Updates and Notification of Changes to this Privacy Policy
 
-We reserve the right to modify this Privacy Policy at any time, so please review it frequently. If we make material changes to this Privacy Policy, we will notify you here, by email, or by means of a notice on our home page so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+We reserve the right to modify this Privacy Policy at any time, so please review it frequently. If we make material changes to this Privacy Policy, we will notify you here, by email, or by means of a notice on our home page prior to the change becoming effective so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
   
 
