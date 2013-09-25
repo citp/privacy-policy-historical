@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qs.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513235709id_/http%3A//www.qs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qs.com privacy policy that was archived on 2013-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130925174933id_/http%3A//www.qs.com/privacy.html) for the most accurate reproduction.*
 
 # QS: The world's leading network for top careers and education
 
