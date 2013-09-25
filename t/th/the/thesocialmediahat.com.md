@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thesocialmediahat.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630092719id_/http%3A//www.thesocialmediahat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesocialmediahat.com privacy policy that was archived on 2013-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130925221751id_/http%3A//www.thesocialmediahat.com/privacy) for the most accurate reproduction.*
 
-# The Social Media Hat Privacy Policy | The Social Media Hat
+# The Social Media Hat Privacy Policy
 
 [](http://www.thesocialmediahat.com/print/108 "Display a printer-friendly version of this page.")[](http://www.thesocialmediahat.com/printmail/108 "Send this page by email.")
 
