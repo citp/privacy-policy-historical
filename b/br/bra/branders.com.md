@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the branders.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615102006id_/http%3A//www.branders.com/content/pages/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the branders.com privacy policy that was archived on 2013-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130925022833id_/http%3A//www.branders.com/content/pages/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Branders.com Promotional Products
 
