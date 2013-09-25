@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlgetsring.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530230807id_/http%3A//girlgetsring.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlgetsring.com privacy policy that was archived on 2013-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130926012925id_/http%3A//girlgetsring.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Girl Gets Ring | Girl Gets Ring System
 
