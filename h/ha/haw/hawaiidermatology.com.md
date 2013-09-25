@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hawaiidermatology.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610011615id_/http%3A//hawaiidermatology.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hawaiidermatology.com privacy policy that was archived on 2013-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130925140709id_/http%3A//hawaiidermatology.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HD
 
