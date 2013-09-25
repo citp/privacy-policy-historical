@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postergully.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509010946id_/http%3A//www.postergully.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postergully.com privacy policy that was archived on 2013-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130925202113id_/http%3A//www.postergully.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Policies | Buy Posters Online India | Movies | Music | Comics | Gaming | TV | PosterGully
 
