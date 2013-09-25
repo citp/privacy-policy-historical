@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lessonplanspage.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502135735id_/http%3A//lessonplanspage.com/privacy-htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lessonplanspage.com privacy policy that was archived on 2013-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130925102152id_/http%3A//lessonplanspage.com/privacy-htm) for the most accurate reproduction.*
 
 # LessonPlansPage.com Privacy Policy | HotChalk Lesson Plans Page
 
@@ -20,7 +20,7 @@ The Lesson Plans Page respects your privacy and will not do anything in violatio
 >  408-369-9125  
 >  (Fax) 408-608-1679
 > 
-> You may contact us by e-mail at [hceditorial@hotchalk.com](mailto:hceditorial@hotchalk.com).
+> You may contact us by e-mail at [lppsupport@hotchalk.com](mailto:lppsupport@hotchalk.com).
 
 ## **Dispute Resolution and Privacy Seals**
 
@@ -28,7 +28,7 @@ The Lesson Plans Page respects your privacy and will not do anything in violatio
 > 
 >   * **New Dispute** : 
 > 
-> Contact at: [hceditorial@hotchalk.com](mailto:hceditorial@hotchalk.com)
+> Contact at: [lppsupport@hotchalk.com](mailto:lppsupport@hotchalk.com)
 > 
 > 
 
@@ -122,7 +122,7 @@ The Lesson Plans Page respects your privacy and will not do anything in violatio
 > 
 > IE6 will accept cookies accompanied by this policy under the High, Medium High, Medium, Low, and Accept All Cookies settings.
 > 
-> For any questions, please contact [hceditorial@hotchalk.com](mailto:hceditorial@hotchalk.com).
+> For any questions, please contact [lppsupport@hotchalk.com](mailto:lppsupport@hotchalk.com).
 
 **Third Party Advertising**
 
@@ -141,3 +141,6 @@ The Lesson Plans Page respects your privacy and will not do anything in violatio
 
 
 [](http://www.printfriendly.com/print?url=http://lessonplanspage.com/privacy-htm/)
+
+  
+
