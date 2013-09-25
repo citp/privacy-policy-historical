@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the haathichiti.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530134639id_/http%3A//haathichiti.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the haathichiti.com privacy policy that was archived on 2013-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130925193412id_/http%3A//haathichiti.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Haathichiti.com
+# Privacy Policy | HaathiChiti.com
 
-**Privacy Policy**
+## Privacy Policy
 
-This Privacy Policy governs the manner in which haathichiti collects, uses, maintains and discloses information collected from users  of the www.haathichiti.com website  . This privacy policy applies to the Site and all products and services offered by haathichiti.
+This **Privacy Policy** governs the manner in which **Haathichiti** collects, uses, maintains and discloses information collected from users  of the **www.haathichiti.com** website  . This privacy policy applies to the Site and all products and services offered by **Haathichiti**.
 
-**Non-Personal  identification information**
+### **Non-Personal  identification information**
 
 We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-**How we use collected information**
+## **How we use collected information**
 
-haathichiti collects and uses Users personal information for the following purposes:
+**Haathichiti** collects and uses Users personal information for the following purposes:
 
 \- To personalize user experience  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.  
@@ -23,11 +23,11 @@ Your information helps us to more effectively respond to your customer service r
 \- To send periodic emails  
 The email address Users provide will only be used to respond to their inquiries, and/or other requests or questions.
 
-**Your acceptance of these terms**
+### **Your acceptance of these terms**
 
 By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-**Contacting us**
+### **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
