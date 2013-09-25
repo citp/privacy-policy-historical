@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the keppsmile.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610103732id_/http%3A//keppsmile.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keppsmile.com privacy policy that was archived on 2013-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130925185951id_/http%3A//keppsmile.com/page/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - KEEP YOU SMILE
+# Privacy Policy - KEEP YOU SMILE Funny Pictures website
 
-## Privacy Policy for KEEP YOU SMILE
+## Privacy Policy for KEEP YOU SMILE Funny Pictures website
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us at damnlol.com{at}gmail.com
 
