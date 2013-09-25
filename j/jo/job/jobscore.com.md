@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobscore.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531022255id_/http%3A//www.jobscore.com/site/about_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobscore.com privacy policy that was archived on 2013-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130925092951id_/http%3A//www.jobscore.com/site/about_privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | JobScore
 
@@ -101,11 +101,7 @@ JobScore has reasonable security measures in place to protect the loss, misuse a
 
 **Contacting the Website**
 
-If you have any questions about this Privacy Policy, the practices of this website, or your dealings with the JobScore website, you may send an e-mail to [privacy@jobscore.com](mailto:privacy@jobscore.com), by regular mail at JobScore, Inc., 575 Market Street, 8th Floor San Francisco, CA 94105, or by phone at 415-904-9900. If you believe that your (or any) copyright, trademark or other third parties rights have been violated, please notify [legal@jobscore.com](mailto:legal@jobscore.com) and JobScore will investigate. 
-
-**JobScore**
-
-JobScore is a trade name of Indico Group, Inc. and any applicable reference to JobScore includes and is the responsibility of Indico Group. Therefore, Indico Group is responsible for this Privacy Policy and the practices embodied in it. Indico Group owns any and all intellectual property rights in Indico Group, including but not limited to, the Indico Group and JobScore names, any logos, the jobscore.com website(s) and any and all rights in its software, documentation, trade secrets, and the like. 
+If you have any questions about this Privacy Policy, the practices of this website, or your dealings with the JobScore website, you may send an e-mail to [privacy@jobscore.com](mailto:privacy@jobscore.com), by regular mail at JobScore, 3600 21st Street #203, San Francisco, CA 94114, or by phone at 415-904-9900. If you believe that your (or any) copyright, trademark or other third parties rights have been violated, please notify [legal@jobscore.com](mailto:legal@jobscore.com) and JobScore will investigate. 
 
 **Corporate Changes**
 
