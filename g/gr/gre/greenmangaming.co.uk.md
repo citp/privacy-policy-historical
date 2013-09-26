@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenmangaming.co.uk privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602110743id_/http%3A//www.greenmangaming.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenmangaming.co.uk privacy policy that was archived on 2013-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130926120854id_/http%3A//www.greenmangaming.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Green Man Gaming
 
@@ -58,7 +58,7 @@ Green Man Gaming Limited Registered company number: 05271628 England & Wales Reg
 
 ## CONTACT INFORMATION
 
-  * All questions, comments or enquiries should be directed:
+  * All questions, comments or enquiries should be directed: 
     * By email to GMGL at helpdesk@greenmangaming.com
     * By telephone to +44 (0) 330 500 1515 (phone lines open 9am to 5pm GMT
   * We will endeavour to respond to any query or questions within 48 hours. 
