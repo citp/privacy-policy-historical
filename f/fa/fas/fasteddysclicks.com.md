@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fasteddysclicks.com privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505162222id_/http%3A//fasteddysclicks.com/%3F_w%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fasteddysclicks.com privacy policy that was archived on 2013-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130926055045id_/http%3A//fasteddysclicks.com/%3F_w%3Dprivacy) for the most accurate reproduction.*
 
-# free auto surf exchange
+# FastEddysClicks
 
 **THIS PRIVACY STATEMENT DISCLOSES THE PRIVACY PRACTICES FOR fasteddysclicks.com**
 
