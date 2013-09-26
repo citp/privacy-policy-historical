@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 36boutiques.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616065413id_/http%3A//www.style36.co.za/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 36boutiques.com privacy policy that was archived on 2013-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130926104624id_/http%3A//www.style36.co.za/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -9,7 +9,7 @@ We respect your privacy and take all reasonable steps to protect the personal in
 You can update your email subscription preferences by following these steps.
 
 1) In the footer of such email's, click on the "unsubscribe from this list" link. You will then be unsubscribed and removed from our mailing list  
-2) Alternatively, please contact us either via phone (0861362229) or email [care@style36.co.za](mailto:care@style36.co.za) and request to be unsubscribed. Our customer service team will remove you from our mailing list and confirm when this has been completed.
+2) Alternatively, please contact us either via phone (078 943 9409) or email [care@style36.co.za](mailto:care@style36.co.za) and request to be unsubscribed. Our customer service team will remove you from our mailing list and confirm when this has been completed.
 
 Our mailing address is:
 
@@ -20,7 +20,7 @@ Rex Trueform Office Park
 Salt River, Cape Town, 7925
 
 Our contact number:  
-0861362229
+078 943 9409
 
 Customer Care email:  
 [care@style36.co.za](mailto:care@style36.co.za)
