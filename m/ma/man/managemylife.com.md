@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the managemylife.com privacy policy that was archived on 2013-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130302144812id_/http%3A//www.managemylife.com/mmh/dhtml/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the managemylife.com privacy policy that was archived on 2013-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130926141653id_/http%3A//www.managemylife.com/mmh/dhtml/Privacy.html) for the most accurate reproduction.*
 
 # Manage My Life - Privacy policy
 
@@ -50,7 +50,7 @@ Most web browsers allow you to exercise control over cookie files on your comput
 
 How Do We Handle Personally Identifiable Information Collected on Children?
 
-Please [click here](http://www.sears.com/shc/s/nb_10153_12605_NB_CSchildprivacy) to read our Children's Online Privacy Policy for information on our general policy regarding the collection of personally identifiable information on children under 13 years of age. This privacy policy addresses our general policy regarding the following:
+Each Sears Holding's family of Sites that may be directed to children under 13 will contain a specific version of our Children's Online Privacy Policy that will address specifically each of the points listed below for that Site.
 
   * Collection of children's personal information
   * Use of children's personal information
@@ -58,8 +58,6 @@ Please [click here](http://www.sears.com/shc/s/nb_10153_12605_NB_CSchildprivacy)
   * The method of obtaining access to the child's information
 
 
-
-Each Sears Holding's family of sites that may be directed to children under 13 will contain a specific version of our Children's Online Privacy Policy that will address specifically each of the points listed above for that site.
 
 What About Links to Other Web sites?
 
