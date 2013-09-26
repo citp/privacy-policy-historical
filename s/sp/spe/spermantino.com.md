@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the spermantino.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116084310id_/http%3A//spermantino.com/%3Fref%3D%26%26page%3D_free_privacy%26itemcnt%3D%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spermantino.com privacy policy that was archived on 2013-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130926030500id_/http%3A//spermantino.com/free_tour/en/support/privacy.html) for the most accurate reproduction.*
 
-# Privacy policy
-
-Privacy Policy
+# Privacy Policy
 
 Replace or add your information in RED, where applicable:  
 Our Commitment To Privacy   
