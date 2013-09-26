@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the gizmodiva.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512114200id_/http%3A//www.gizmodiva.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gizmodiva.com privacy policy that was archived on 2013-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130926123334id_/http%3A//gizmodiva.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Gizmodiva.com
-
-## [ Privacy Policy ](http://www.gizmodiva.com/privacy-policy/)
+# Privacy Policy |
 
 User Information
 
