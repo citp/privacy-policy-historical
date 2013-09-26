@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collectoffers.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519050227id_/http%3A//us.collectoffers.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collectoffers.com privacy policy that was archived on 2013-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130927015422id_/http%3A//us.collectoffers.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
