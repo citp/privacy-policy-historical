@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecontaminated.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529174958id_/http%3A//thecontaminated.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecontaminated.com privacy policy that was archived on 2013-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130926050625id_/http%3A//thecontaminated.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TheContaminated - Cool Pictures, Weird Pictures, Funny Pictures
 
