@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thetrafficgoldrush.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603131336id_/http%3A//thetrafficgoldrush.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetrafficgoldrush.com privacy policy that was archived on 2013-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130926191919id_/http%3A//thetrafficgoldrush.com/privacy.php) for the most accurate reproduction.*
 
 # The Traffic Goldrush | Web Traffic Targeted | Free Marketing Email | Email Marketing Direct
 
-[](http://thetrafficgoldrush.com/bannerclick.php?id=4969)  
+[](http://thetrafficgoldrush.com/bannerclick.php?id=4979)  
 
 
 The Traffic Goldrush Privacy Policy
@@ -37,5 +37,5 @@ Links: This web site contains links to other web sites. Please note that when yo
   
 Copyright (c) The Traffic Goldrush All Rights Reserved 
 
-[Terms and Conditions](https://web.archive.org/terms.php) | [Earnings Disclaimer](https://web.archive.org/earnings.php) | [ Spam Policy](https://web.archive.org/spam.php) | [ Privacy Policy](https://web.archive.org/privacy.php) | [Recommended Site Of The Day](https://web.archive.org/recommends.php)   
+[Terms and Conditions](https://web.archive.org/terms.php) | [Earnings Disclaimer](https://web.archive.org/earnings.php) | [ Spam Policy](https://web.archive.org/spam.php) | [ Privacy Policy](https://web.archive.org/privacy.php) | [Recommended Site Of The Day](http://easyprofitlist.com/recommends.php)   
 
