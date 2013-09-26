@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cineversity.com privacy policy that was archived on 2013-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130412165909id_/https%3A//cineversity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cineversity.com privacy policy that was archived on 2013-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130926114302id_/https%3A//www.cineversity.com/privacy-policy) for the most accurate reproduction.*
 
 # Cineversity
 
