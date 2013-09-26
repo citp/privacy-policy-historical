@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the directorycritic.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512042207id_/http%3A//www.directorycritic.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directorycritic.com privacy policy that was archived on 2013-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130926053319id_/http%3A//www.directorycritic.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Directory Critic
 
-Directory Critic respects each individual’s right to personal privacy. Because we gather certain types of information about our users, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
+Directory Critic respects each individual's right to personal privacy. Because we gather certain types of information about our users, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
 
 **Directory Critic gathers 2 types of information from visitors:**
 
