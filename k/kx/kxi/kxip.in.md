@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kxip.in privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502170957id_/http%3A//www.kxip.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kxip.in privacy policy that was archived on 2013-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130926161531id_/http%3A//www.kxip.in/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Kings XI Punjab
 
