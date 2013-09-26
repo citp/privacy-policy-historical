@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dotandbo.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514054217id_/http%3A//www.dotandbo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotandbo.com privacy policy that was archived on 2013-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130926132322id_/http%3A//www.dotandbo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Dot & Bo
 
