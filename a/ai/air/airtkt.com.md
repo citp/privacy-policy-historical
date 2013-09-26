@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airtkt.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602161844id_/http%3A//www.airtkt.com/privacy-policy-AirTkt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airtkt.com privacy policy that was archived on 2013-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130926073643id_/http%3A//www.airtkt.com/privacy-policy-AirTkt) for the most accurate reproduction.*
 
 # Privacy Policy, Flights, Airline Tickets, Cheap Flights, Last Minute Flights - AirTkt
 
@@ -154,5 +154,3 @@ Secure Your Trip | Accredited Agent | 100% Secure Site | Accredited Agency | Car
 |  |  |   
   
 * Discount is applicable on unrestricted published airfare of most major scheduled airlines. These offers are good on major airlines to all destinations world wide. All fares are subject to availability.Discount may vary based on availability, season, travel dates, advance notice, minimum maximum stay, black out travel dates and may change without any prior notice.Additional restrictions may apply. This site pays most careful attention in providing information and data, but it does not guarantee the correctness, completeness, and the usefulness of its contents. 
-
-**Coupon Code Offer:** This offer is on service fees only, the discount varies based on the transaction service fees charged for that ticket, and the value of discount will be up to the amount of the service fees charged for that transaction or the coupon code discount per transaction whichever is less. You must use the coupon code upon check out to avail this offer. This offer may be revised or discontinued without notice. 
