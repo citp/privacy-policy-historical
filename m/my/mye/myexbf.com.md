@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myexbf.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530015702id_/http%3A//myexbf.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myexbf.com privacy policy that was archived on 2013-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130927015314id_/http%3A//myexbf.com/privacy) for the most accurate reproduction.*
 
 # Privacy | My Ex Boyfriend
 
