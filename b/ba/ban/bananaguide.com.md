@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bananaguide.com privacy policy that was archived on 2013-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130222064621id_/http%3A//bananaguide.com/article/18601) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bananaguide.com privacy policy that was archived on 2013-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130926182817id_/http%3A//bananaguide.com/article/18601) for the most accurate reproduction.*
 
 # Privacy Policy | BananaGuide
 
