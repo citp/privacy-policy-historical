@@ -1,21 +1,17 @@
-> *The following text is extracted and transformed from the racklodge.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425113513id_/https%3A//www.racklodge.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racklodge.com privacy policy that was archived on 2013-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130926180700id_/https%3A//www.racklodge.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Rack Lodge Data Center Costa Rica | Rack Lodge Data Center Costa Rica
 
-**News from Rack Lodge**
-
-
-
-
-[MORE NEWS](https://www.racklodge.com/?cat=1)
-
-**Get in touch**
+**Contact Us**
 
 Costa Rica  
 506.2233.HOST (4678)
 
 US and Canada  
 855.800.HOST (4678)
+
+Email:   
+[info@racklodge.com](mailto:info@racklodge.com?subject=Rack%20Lodge%20RFI)
 
 ## Rack Lodge Privacy Statement
 
