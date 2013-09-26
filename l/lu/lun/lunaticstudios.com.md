@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lunaticstudios.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627014042id_/http%3A//lunaticstudios.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lunaticstudios.com privacy policy that was archived on 2013-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130926113741id_/http%3A//lunaticstudios.com/Privacy) for the most accurate reproduction.*
 
 # Lunatic Studios | Privacy Policy
 
