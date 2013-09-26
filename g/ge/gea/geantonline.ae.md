@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geantonline.ae privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617033600id_/http%3A//www.geantonline.ae/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geantonline.ae privacy policy that was archived on 2013-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130926043020id_/http%3A//www.geantonline.ae/t-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
