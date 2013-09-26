@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the loehmanns.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521215025id_/http%3A//www.loehmanns.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loehmanns.com privacy policy that was archived on 2013-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130926142628id_/http%3A//www.loehmanns.com/privacy.aspx) for the most accurate reproduction.*
 
-# loehmanns.com Privacy Policy 30-65% off Top Designer Fashions from Marc Jacobs, BCBG, 7 For All Mankind and More at Loehmann's.
+# loehmanns.com Privacy Policy Shop Loehmanns.com For Discounted Dresses, Suits, Swimwear & More!
 
-Loehmann’s knows that your privacy is important to you, and we want you to know that it is important to us too.  We created this Policy to explain the types of information we collect through www.loehmanns.com and the various social networking platforms that we use (each, our “Site”), how we will use, disclose and protect this information once it is collected, and how you can opt-out of some of our uses and disclosures of your information.  This Policy also applies to the information we collect in our stores and by phone.  By visiting our Site or providing your information to us, you agree to the terms of this Policy as they may be amended from time to time.
+Loehmann’s knows that your privacy is important to you, and we want you to know that it is important to us too.  We created this Policy to explain the types of information we collect through Loehmanns and the various social networking platforms that we use (each, our “Site”), how we will use, disclose and protect this information once it is collected, and how you can opt-out of some of our uses and disclosures of your information.  This Policy also applies to the information we collect in our stores and by phone.  By visiting our Site or providing your information to us, you agree to the terms of this Policy as they may be amended from time to time.
 
 Here are a few general principles to keep in mind as you read through this Policy:
 
@@ -21,7 +21,7 @@ Here are a few general principles to keep in mind as you read through this Polic
 
 **Opt In and Opt Out**
 
-You may have the right to opt in to or opt out of certain of our uses of your Personal Information.  For example, when you are asked to provide Personal Information to us, you may have the opportunity to elect to, or not to, receive messages from us by e-mail or text message. **  **You may tell us that you do not want to receive our promotional e-mails by clicking on an opt-out link within the e-mail you receive or by sending an email to customerservice@loehmanns.com with the word UNSUBSCRIBE in the subject line.  To opt out of our SMS messages, please text STOP to 46620 or dial 877-471-4885 to speak to a customer service representative. ****  Please understand that it may take us a few days to process any opt out request and that even if you opt out of receiving promotional correspondence from us, we may still contact you in connection with your relationship, activities, transactions and communications with us.
+You may have the right to opt in to or opt out of certain of our uses of your Personal Information.  For example, when you are asked to provide Personal Information to us, you may have the opportunity to elect to, or not to, receive messages from us by e-mail or text message. **  **You may tell us that you do not want to receive our promotional e-mails by clicking on an opt-out link within the e-mail you receive or by sending an email to customerservice@shopvisible.com with the word UNSUBSCRIBE in the subject line.  To opt out of our SMS messages, please text STOP to 46620 or dial 877-471-4885 to speak to a customer service representative. ****  Please understand that it may take us a few days to process any opt out request and that even if you opt out of receiving promotional correspondence from us, we may still contact you in connection with your relationship, activities, transactions and communications with us.
 
 **What information do we collect?**
 
@@ -83,7 +83,7 @@ To perform the above functions, we may match information collected from you thro
 
 **Social Networking**
 
-We maintain presence on several social networking platforms, such as Facebook and Twitter, and we also incorporate some of their features onto our loehmanns.com Site, such as Like It.  Through these platforms and features, we receive some Personal Information and some Site Usage Information about you, and this Privacy Policy applies to that information as well.  In some cases, information about how you use and interact with the Site will be published via your social networking account in accordance with your social networking account privacy settings.  In addition, third party social networking platforms have their own privacy policies which explain how the third parties that provide them will use and protect your information. 
+We maintain presence on several social networking platforms, such as Facebook and Twitter, and we also incorporate some of their features onto our Loehmanns Site, such as Like It.  Through these platforms and features, we receive some Personal Information and some Site Usage Information about you, and this Privacy Policy applies to that information as well.  In some cases, information about how you use and interact with the Site will be published via your social networking account in accordance with your social networking account privacy settings.  In addition, third party social networking platforms have their own privacy policies which explain how the third parties that provide them will use and protect your information. 
 
 **Do we share Personal Information and Site Usage Information with others?**
 
@@ -103,7 +103,7 @@ In addition, we may share Site Usage Information and other non-personally identi
 
 We may seek to send messages to you on your wireless device via short message service (“ **Text Messaging** ”).  If you sign up for Text Messaging, you agree to receive text messages from us at the address you provide for such purposes unless and until you elect not to receive such messages by following the instructions in the **Opt In and Opt Out** section above.  You may opt out of Text Messaging at any time by following the instructions in the **Opt In and Opt Out** section above, but your wireless carrier’s standard rates will apply to any messages you receive.  You represent that you are the owner or authorized user of the device you use to sign up for Text Messaging, and that you are authorized to approve the applicable charges.  You must be 18 years of age or older and reside in the United States to use our Text Messaging.  You must first register and provide all required Personal Information, which may include, for example, your name, text address, wireless carrier, and billing information (if fees are applicable to the Text Messaging), which may be either your credit card information or mobile service carrier information.  We may also obtain the date, time and content of your messages in the course of your use of Text Messaging.  We will use the information we obtain in connection with our Text Messaging in accordance with this Policy.  If fees are charged to your wireless account invoice, we may provide information to your carrier about them.  Your wireless carrier and other service providers may also collect data about your wireless device usage, and their practices are governed by their own policies.  We may also access the content of your account and/or wireless account with your carrier for the purpose of identifying and resolving technical problems and/or service-related complaints.
 
-You may review, update or modify certain of the Personal Information that is stored in your user account on the Site by logging in to the “My Account” area of the Site or by e-mailing customerservice@loehmanns.com.  If you send us requests via e-mail, we may ask you to verify your identity and to provide other details before we are able to provide you with any information, correct any inaccuracies, or delete any information.  Your right to delete your information is subject to our records retention policies.
+You may review, update or modify certain of the Personal Information that is stored in your user account on the Site by logging in to the “My Account” area of the Site or by e-mailing customerservice@shopvisible.com.  If you send us requests via e-mail, we may ask you to verify your identity and to provide other details before we are able to provide you with any information, correct any inaccuracies, or delete any information.  Your right to delete your information is subject to our records retention policies.
 
 **Children and Privacy**
 
@@ -119,7 +119,7 @@ If you correspond with us by e-mail, text message, or using the “contact us”
 
 If you create an account on our Site, you will be asked to set up an account and provide an email address and password.  You are responsible for maintaining the strict confidentiality of your account password, and you shall be responsible for any activity that occurs using your account credentials, whether or not you authorized such activity.  Please notify us of any unauthorized use of your password or account or any other breach of security. ****
 
-If we believe that the security of your Personal Information in our care may have been compromised, we may seek to notify you of that development.  If a notification is appropriate, we will endeavor to notify you as promptly as possible under the circumstances.  If we have your e-mail address, we may notify you by e-mail.  **You consent to our use of e-mail as a means of such notification.**   **If you prefer for us to use the U.S. Postal Service to notify you in this situation, please e-mail us at** **customerservice@loehmanns.com.**
+If we believe that the security of your Personal Information in our care may have been compromised, we may seek to notify you of that development.  If a notification is appropriate, we will endeavor to notify you as promptly as possible under the circumstances.  If we have your e-mail address, we may notify you by e-mail.  **You consent to our use of e-mail as a means of such notification.**   **If you prefer for us to use the U.S. Postal Service to notify you in this situation, please e-mail us at** **customerservice@shopvisible.com.**
 
 **Consent to Processing**
 
@@ -131,12 +131,12 @@ The Site may contain links, banners, widgets or advertisements that lead to othe
 
 **Your California Privacy Rights**
 
-If you are a California resident, you may make a request for information about how we have shared your personal information with third parties for their direct marketing purposes. In response to your written request, we will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. Please submit your request to our Director of Customer Service at customerservice@loehmanns.com.
+If you are a California resident, you may make a request for information about how we have shared your personal information with third parties for their direct marketing purposes. In response to your written request, we will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. Please submit your request to our Director of Customer Service at customerservice@shopvisible.com.
 
 **Changes to this Privacy Policy**
 
 We may change this Policy from time to time.  When we do, we will let you know by posting the changed Policy on this page with a new “Last Updated” date.  In some cases, we may also tell you about changes by additional means, such as by sending an e-mail to the e-mail address we have on file for you.   Where required by applicable law, we will obtain your consent to the changes. ****
 
-If you have any questions or comments regarding our privacy practices, you may contact us at customerservice@loehmanns.com. ****
+If you have any questions or comments regarding our privacy practices, you may contact us at customerservice@shopvisible.com. ****
 
 **Effective Date:   November 10, 2011**
