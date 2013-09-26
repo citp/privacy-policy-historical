@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebillity.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627205111id_/http%3A//ebillity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebillity.com privacy policy that was archived on 2013-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130926165154id_/http%3A//www.ebillity.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Time Billing Software - ebillity.com
 
@@ -50,4 +50,4 @@ Except as otherwise expressly included in this Privacy Policy, this document onl
 
 ##### Questions?
 
-It is our goal to make our privacy practices easy to understand. If you have questions, concerns or if you would like more detailed information, please email our privacy officer at privacy[at] [eBillity.com](https://web.archive.org/web/20130627205111id_/http%3A//ebillity.com/contact-us)
+It is our goal to make our privacy practices easy to understand. If you have questions, concerns or if you would like more detailed information, please email our privacy officer at privacy[at] [eBillity.com](https://web.archive.org/web/20130926165154id_/http%3A//www.ebillity.com/contact-us)
