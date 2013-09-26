@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linuxtopia.org privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424022231id_/http%3A//www.linuxtopia.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linuxtopia.org privacy policy that was archived on 2013-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130926140506id_/http%3A//www.linuxtopia.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
