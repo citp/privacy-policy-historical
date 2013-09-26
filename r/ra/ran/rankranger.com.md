@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rankranger.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016045833id_/http%3A//www.rankranger.com%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rankranger.com privacy policy that was archived on 2013-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130926135123id_/http%3A//www.rankranger.com%3Fp%3Dprivacy) for the most accurate reproduction.*
 
-# Rank Ranger | Ranking Reports | SEO Software | 30 Days Free Trial
+# Rank Ranger Privacy Policy
 
 We understand that privacy online is very important to users of Rank Ranger ("Site") Site, especially when conducting business and collecting. This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without transacting business and Visitors who register to transact business on the Site ("Authorized Customers") and make use of the various services offered by Rank Ranger (collectively, "Services"). 
 
