@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the furniturefromhome.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607094429id_/http%3A//furniturefromhome.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the furniturefromhome.com privacy policy that was archived on 2013-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130926062322id_/http%3A//furniturefromhome.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
