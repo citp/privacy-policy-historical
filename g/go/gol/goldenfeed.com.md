@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldenfeed.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527021928id_/http%3A//goldenfeed.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldenfeed.com privacy policy that was archived on 2013-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130926193847id_/http%3A//www.goldenfeed.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # GoldenFeed.com - Privacy Policy
 
