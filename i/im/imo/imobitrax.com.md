@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the imobitrax.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022030620id_/http%3A//www.imobitrax.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imobitrax.com privacy policy that was archived on 2013-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130926163752id_/http%3A//www.imobitrax.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Mobile Tracking Software - iMobiTrax
+# Privacy Policy - Self-Hosted Mobile Tracking Software - iMobiTrax
 
 This Privacy Policy governs the manner in which iMobiTrax, LLC collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.imobitrax.com](http://www.imobitrax.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by iMobiTrax, LLC.
 
