@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oilcareers.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512104426id_/http%3A//www.oilcareers.com/content/information/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oilcareers.com privacy policy that was archived on 2013-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130927014507id_/http%3A//www.oilcareers.com/content/information/privacypolicy.asp) for the most accurate reproduction.*
 
 # 
 
