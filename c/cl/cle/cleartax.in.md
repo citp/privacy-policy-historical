@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the cleartax.in privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603020155id_/http%3A//cleartax.in/Meta/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleartax.in privacy policy that was archived on 2013-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130926095831id_/http%3A//cleartax.in/Meta/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy: ClearTax.in
-
-  
-
-
-## Your Data is private. Only you have access.
-
-  
-
 
 ###  Privacy of Customer Data
 
