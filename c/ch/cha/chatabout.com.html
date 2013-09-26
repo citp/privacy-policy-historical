@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the chatabout.com privacy policy that was archived on 2013-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130621100941id_/http%3A//chatabout.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the chatabout.com privacy policy that was archived on 2013-09-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130926071925id_/http%3A//chatabout.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta charset="utf-8">
@@ -59,19 +59,19 @@
 		<div class="form">
 			<form id="main_search_form" name="main_search_form" method="post" onsubmit="return false;">
 				<img id="main_search_loading" src="/assets/images/skeleton/header/loading_search.gif" width="16" height="16">
-				<input type="text" id="main_search_keywords" name="main_search_keywords" value="Type to search Health issues, TV shows or whatever ..." autocomplete="off" onkeyup="ajax_get_search(); word_count('main_search_keywords');" onfocus="$(this).val('');">
+				<input type="text" id="main_search_keywords" name="main_search_keywords" value="Type here to search what interests you ..." autocomplete="off" onkeyup="ajax_get_search(); word_count('main_search_keywords');" onfocus="focus_topic_field(this);">
 				<input type="hidden" id="ff" name="ff" value="main_search_keywords">
 			</form>
 		</div>
 
-
+		<!-- Right Text -->
 		<div class="right header_text">
 			<ul>
 									<li style="width:0;">
 												<ul id="dd_header" class="ddl right">
 							<form id="login_form" name="login_form" method="post" onsubmit="ajax_dd('/ajax/login','login_form'); return false;">
 								<div id="header_dd_login_form">
-																		<li style="text-align: center;"><a href="#" onclick="var newwin=(window.open('https://www.facebook.com/dialog/oauth?client_id=142423995894421&amp;redirect_uri=http%3A%2F%2Fchatabout.com%2Ffb_login%2F&amp;state=a2b1920e70fd8406cf1ec451626eadfa&amp;scope=email%2C+user_photos&amp;display=popup', 'fb_login_window', 'titlebar=1, toolbar=0, status=0,width=640,height=370')); newwin.document.title = 'Facebook Login'; return false;"><img src="/assets/images/skeleton/content/facebook_login.png" width="200" height="40"></a></li>
+																		<li style="text-align: center;"><a href="#" onclick="var newwin=(window.open('https://www.facebook.com/dialog/oauth?client_id=142423995894421&amp;redirect_uri=http%3A%2F%2Fchatabout.com%2Ffb_login%2F&amp;state=f5ed763ce36e4beb1afc96c84107369f&amp;scope=email%2C+user_photos&amp;display=popup', 'fb_login_window', 'titlebar=1, toolbar=0, status=0,width=640,height=370')); newwin.document.title = 'Facebook Login'; return false;"><img src="/assets/images/skeleton/content/facebook_login.png" width="200" height="40"></a></li>
 																	</div>
 
 								<li id="msg"></li>
@@ -90,6 +90,7 @@
 
 			</ul>
 		</div>
+		<!-- END Right Text -->
 	</div>
 	<!-- Search Records -->
 	<div id="searches"></div>
@@ -254,7 +255,7 @@
 <!-- Footer -->
 <footer class="default_text">
 
-	© 2012 ChatAbout.com &nbsp; &nbsp; <a href="/terms">terms</a> &nbsp; &nbsp; <a href="/privacy">privacy</a> &nbsp; &nbsp; <a href="#" onclick="ajax_page('ajax/contact/display'); return false;">contact us</a> &nbsp; &nbsp; <a href="/affiliates">affiliate program</a> &nbsp; &nbsp; <a href="/help">how this site works</a>
+	© 2013 ChatAbout.com &nbsp; &nbsp; <a href="/terms">terms</a> &nbsp; &nbsp; <a href="/privacy">privacy</a> &nbsp; &nbsp; <a href="#" onclick="ajax_page('ajax/contact/display'); return false;">contact us</a> &nbsp; &nbsp; <a href="/help">how this site works</a>
 
 </footer>
 <!-- Footer -->
