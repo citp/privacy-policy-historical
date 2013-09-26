@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the languagescientific.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606010349id_/http%3A//www.languagescientific.com/privacy-policy-for-translation-localization.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the languagescientific.com privacy policy that was archived on 2013-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130927013847id_/http%3A//www.languagescientific.com/privacy-policy-for-translation-localization.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
