@@ -1,0 +1,624 @@
+<!--The following is the downloaded HTML source of the fashionphile.com privacy policy that was archived on 2013-09-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130926230115id_/http%3A//www.fashionphile.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<link href="http://www.fashionphile.com/favicon.ico" rel="shortcut icon" type="image/x-icon">
+<meta name="language" content="en-gb">
+<meta name="copyright" content="2011 www.fashionphile.com">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+ 
+<link href="http://www.fashionphile.com/includes/css/styles.css?v=1.1" rel="stylesheet" type="text/css" media="screen">
+</head><body><div id="fb-root"></div>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script>
+		  window.fbAsyncInit = function() {
+			FB.init({
+			  appId      : '293465814010593', // App ID
+			  channelUrl : 'http://fashionphile.com', // Channel File
+			  status     : true, // check login status
+			  cookie     : true, // enable cookies to allow the server to access the session
+			  xfbml      : true  // parse XFBML
+			});
+		
+			// Additional initialization code here
+		  };
+		
+		  // Load the SDK Asynchronously
+		  (function(d){
+			 var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+			 if (d.getElementById(id)) {return;}
+			 js = d.createElement('script'); js.id = id; js.async = true;
+			 js.src = "//connect.facebook.net/en_US/all.js";
+			 ref.parentNode.insertBefore(js, ref);
+		   }(document));
+		</script>
+<title>Proenza: Pre-owned Luxury, Handbags, Wallets, and Accessories</title>
+<meta name="description" content="Proenza Schouler is a New York company founded 2002 by designers Jack McCollough and Lazaro Hernandez.  Although a relatively new label, it is popular due to its statement pieces which are inspired from contemporary art and New York City's youth culture.  Buy discounted Proenza Schouler handbags, wallets, and accessories here.">
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1128831-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<link href="" rel="shortcut icon" type="image/x-icon">
+<link rel="stylesheet" href="http://www.fashionphile.com/includes/css/mega_menu.css?v=1.0" type="text/css" media="screen">
+<link rel="stylesheet" href="http://www.fashionphile.com/includes/css/pullouts.css?v=1.0">
+<link rel="stylesheet" type="text/css" href="http://www.fashionphile.com/includes/css/jquery.fancybox.css?v=2.1.2" media="screen">
+<script type="text/javascript" src="http://www.fashionphile.com/includes/javascripts/jquery.js"></script>
+<script type="text/javascript" src="http://www.fashionphile.com/includes/javascripts/common.js"></script>
+<script language="javascript" type="text/javascript">
+	function form_submit()
+	{	
+		reWhiteSpace = new RegExp(/^\s+$/);
+		var regex = new RegExp("^[a-zA-Z0-9/., -]+$");
+		var keyword = document.getElementById('keyword').value;
+		if (reWhiteSpace.test(keyword) || (keyword == "") || keyword =='Search' || !regex.test(keyword)) 
+		{
+			document.getElementById("keyword").focus();
+		}
+		else
+		{
+			document.header.submit();
+		}
+		
+	}
+									
+	function login()
+	{
+		
+		var message = "";
+		reWhiteSpace = new RegExp(/^\s+$/);
+		var email_val_patt = /[\w]+@([\w\-]+\.)+[a-zA-Z]{2,7}$/;
+		var regex = new RegExp("^[a-zA-Z0-9/., -]+$"); 
+	
+		var email_login = document.getElementById('email_login');
+		var password_login_temp1 = document.getElementById('password_login_temp1');
+		var password_login_header1 = document.getElementById('password_login_header1');
+	
+		if (reWhiteSpace.test(email_login.value) || (email_login.value == "") || (email_login.value == "Email"))
+			message += "- Please Enter Email. \n";					
+		else
+		{	
+			var email =	email_login.value;
+			if(!email.toString().match(email_val_patt))
+				message += "- Please Enter Valid Email. \n";
+		}
+	
+		if(password_login_temp1.style.display == "")
+		{							
+			if(reWhiteSpace.test(password_login_temp1.value) || (password_login_temp1.value == "") || (password_login_temp1.value == "Password") ) 
+				message += "- Please Enter Password. \n";
+			
+			/*if(!regex.test(password_login_temp1))
+			{
+				message += "- Passwords contain only letters or numbers. \n";
+			}*/
+		}
+		else
+		{		
+			if(reWhiteSpace.test(password_login_header1.value) || (password_login_header1.value == "") ) 
+				message += "- Please Enter Password. \n";
+				
+			/*if( !regex.test(password_login_header1))
+			{
+				message += "- Passwords contain only letters or numbers. \n";
+			}*/
+		}
+		
+		
+		
+		if(message != "") 
+		{
+			alert(message);
+			return false;
+		}
+		else
+		{ 
+			document.header_login.submit();
+			return true;
+		}
+
+	}
+	
+		
+	function prod_click(id)
+	{
+		document.getElementById('keyword').value = id;
+		document.getElementById('response1').style.display = 'none';
+		document.header.submit();
+	}
+
+	function prod_click_over(id,count)
+	{
+		for(var i=0;i<count;i++)
+		{
+			if("prod"+i == id)
+			{
+				document.getElementById("prod"+i).style.background = "#0066FF";
+				document.getElementById("prod"+i).style.color = "#FFFFFF";
+			}
+			else
+			{
+				document.getElementById("prod"+i).style.background = "#FFFFFF";
+				document.getElementById("prod"+i).style.color = "#000000";
+			}
+		}
+		
+	}
+
+	function show_email_pw_change(shw,dis)
+	{
+		document.getElementById(shw).style.display = 'none';
+		pwField = document.getElementById(dis);
+		pwField.style.display = '';
+		pwField.focus();
+		pwField.select();
+	}
+
+	function out_email_pw_change(shw,dis)
+	{
+		if(document.getElementById(shw).value == "")
+		{ 
+			document.getElementById(shw).style.display = "none";
+			document.getElementById(dis).style.display = "";
+		}
+	}
+
+	function display_name_value(id,val)
+	{
+		
+		if(document.getElementById(id).value == "")
+		{
+			document.getElementById(id).value = val;
+		}
+			
+	}
+
+	function headerlogin(event)
+	{ 
+		if (event.keyCode == 13) 
+		{
+			return login();
+			document.header_login.submit();
+		}
+	}
+	
+	//  Setup  External Link  
+	jQuery(document).ready( function(){
+	/*  Category  Designer  Link Event  Set    */ 
+		jQuery('#link_code_designer').click (function(){
+			//   Link  Att
+			var  server  =  'http://www.fashionphile.com';			
+			var linkTo   =   jQuery(this).attr('link_of');	
+			window.location  =   server+'/'+linkTo;
+			
+			})  ;		
+	/*  Category  Attributes  Link Event  Set    */ 			
+		jQuery('#link_code_attribute').click (function(){
+			//   Link  Att
+			var  server  =  'http://www.fashionphile.com';
+			var linkTo   =   jQuery(this).attr('link_of');	
+			window.location  =   server+'/'+linkTo;
+			
+			})  ;
+		/* Main Parent Category Link Event  Set    */ 			
+		jQuery('#link_code_mainCat').click (function(){
+			//   Link  Att
+			var  server  =  'http://www.fashionphile.com';
+			var linkTo   =   jQuery(this).attr('link_of');	
+			window.location  =   server+'/'+linkTo;
+			
+			})  ;
+	});
+
+	</script>
+
+ 
+<script>
+$(function () {
+   var top = $('#header').offset().top - parseFloat($('#header').css('margin-top').replace(/auto/, 0));
+    $(window).scroll(function (event) {
+      // what the y position of the scroll is
+      var y = $(this).scrollTop();
+      
+      // whether that's below the form
+      if (y >= top) {
+        // if so, ad the fixed class
+        $('#header').addClass('fixed');
+      } else {
+        // otherwise remove it
+        $('#header').removeClass('fixed');
+      }
+    });
+});
+</script>
+<div id="header_top">
+<a href="http://www.fashionphile.com" class="logo" style="margin-top:3px;"></a>
+<ul class="megamenu right">
+ 
+<li class="menu_cart"><a href="http://www.fashionphile.com/shopping_bag">Cart</a></li>
+<li class="menu_account"><a style="padding-right:10px;" href="/supplier_login">My Account</a>
+<div class="drop_account dropcontent right">
+<div class="col_account">
+<form action="/supplier_login.php" method="post" name="header_login" id="header_login" onsubmit="return login();">
+<p>
+<input type="text" name="email_login" id="email_login" value="Login Email:" onkeypress="return headerlogin(event);" onblur="display_name_value(this.id,'Login Email:');" onfocus="this.value==this.defaultValue?this.value='':null;" style="width:180px;" autocomplete="off">
+</p>
+<p>
+<input autocomplete="off" type="text" name="password_login_temp" id="password_login_temp1" value="Password:" onkeypress="return headerlogin(event);" onfocus="show_email_pw_change('password_login_temp1', 'password_login_header1');" style="width:180px;" onblur="out_email_pw_change('password_login_temp1','password_login_header1');">
+</p>
+<p>
+<input type="password" autocomplete="off" name="password_login_header" id="password_login_header1" value="" onkeypress="return headerlogin(event);" onblur="out_email_pw_change('password_login_header1','password_login_temp1');" style="display:none; width:180px;">
+</p>
+<p><a href="#" class="pink_button" onclick="login();">Login</a></p>
+<input type="hidden" name="supp_login" value="1">
+</form>
+<p><a href="/supplier_login">Sign Up</a></p>
+<p><a href="/forgotpassword">Forgot Password?</a></p>
+</div>
+</div>
+ 
+</li>
+</ul>
+</div>
+<div id="header">
+<ul class="megamenu">
+<li> <a style="padding-left:10px;" title="New Arrivals" href="http://www.fashionphile.com/shop.php?view=new_arrivals">New Arrivals</a></li>
+<li><a href="http://www.fashionphile.com/sell-your-bag" title="Sell Your Luxury Bags with Fashionphile">Sell Your Bag</a></li>
+ 
+<li><a href="/shop.php" style="cursor:text" class="drop">Designers</a>
+<div class="drop2columns dropcontent">
+<div class="col_1">
+<p><a href="http://www.fashionphile.com/Alexander_Wang+Scarves/bt">Alexander Wang</a></p>
+<p><a href="http://www.fashionphile.com/Balenciaga+Scarves/bt">Balenciaga</a></p>
+<p><a href="http://www.fashionphile.com/Bottega_Veneta+Scarves/bt">Bottega Veneta</a></p>
+<p><a href="http://www.fashionphile.com/Bulgari+Scarves/bt">Bulgari</a></p>
+<p><a href="http://www.fashionphile.com/Burberry+Scarves/bt">Burberry</a></p>
+<p><a href="http://www.fashionphile.com/Cartier+Scarves/bt">Cartier</a></p>
+<p><a href="http://www.fashionphile.com/Celine+Scarves/bt">Celine</a></p>
+<p><a href="http://www.fashionphile.com/Chanel+Scarves/bt">Chanel</a></p>
+<p><a href="http://www.fashionphile.com/Chloe+Scarves/bt">Chloe</a></p>
+<p><a href="http://www.fashionphile.com/Chopard+Scarves/bt">Chopard</a></p>
+<p><a href="http://www.fashionphile.com/Dior+Scarves/bt">Christian Dior</a></p>
+<p><a href="http://www.fashionphile.com/Louboutin+Scarves/bt">Christian Louboutin</a></p>
+<p><a href="http://www.fashionphile.com/Yurman+Scarves/bt">David Yurman</a></p>
+<p><a href="http://www.fashionphile.com/Fendi+Scarves/bt">Fendi</a></p>
+<p><a href="http://www.fashionphile.com/Givenchy+Scarves/bt">Givenchy</a></p>
+<p><a href="http://www.fashionphile.com/Goyard+Scarves/bt">Goyard</a></p>
+<p><a href="http://www.fashionphile.com/Gucci+Scarves/bt">Gucci</a></p>
+<p><a href="http://www.fashionphile.com/Harry_Winston+Scarves/bt">Harry Winston</a></p>
+</div>
+<div class="col_1">
+<p><a href="http://www.fashionphile.com/Hermes+Scarves/bt">Hermes</a></p>
+<p><a href="http://www.fashionphile.com/Jimmy_Choo+Scarves/bt">Jimmy Choo</a></p>
+<p><a href="http://www.fashionphile.com/Judith_Leiber+Scarves/bt">Judith Leiber</a></p>
+<p><a href="http://www.fashionphile.com/Louis_Vuitton+Scarves/bt">Louis Vuitton</a></p>
+<p><a href="http://www.fashionphile.com/Manolo+Scarves/bt">Manolo Blahnik</a></p>
+<p><a href="http://www.fashionphile.com/Marc_Jacobs+Scarves/bt">Marc Jacobs</a></p>
+<p><a href="http://www.fashionphile.com/Mikimoto+Scarves/bt">Mikimoto</a></p>
+<p><a href="http://www.fashionphile.com/Miu_Miu+Scarves/bt">Miu Miu</a></p>
+<p><a href="http://www.fashionphile.com/Nancy_Gonzales+Scarves/bt">Nancy Gonzales</a></p>
+<p><a href="http://www.fashionphile.com/Prada+Scarves/bt">Prada</a></p>
+<p><a href="http://www.fashionphile.com/Proenza+Scarves/bt">Proenza Schouler</a></p>
+<p><a href="http://www.fashionphile.com/Rolex+Scarves/bt">Rolex</a></p>
+<p><a href="http://www.fashionphile.com/Ferragamo+Scarves/bt">Salvatore Ferragamo</a></p>
+<p><a href="http://www.fashionphile.com/Stella_McCartney+Scarves/bt">Stella McCartney</a></p>
+<p><a href="http://www.fashionphile.com/Tiffany+Scarves/bt">Tiffany</a></p>
+<p><a href="http://www.fashionphile.com/Valentino+Scarves/bt">Valentino</a></p>
+<p><a href="http://www.fashionphile.com/Van_Cleef+Scarves/bt">Van Cleef &amp; Arpels</a></p>
+<p><a href="http://www.fashionphile.com/YSL+Scarves/bt">Yves Saint Laurent</a></p>
+</div>
+<p><a href="#" onclick="window.location='http://www.fashionphile.com/shop.php?action=remove_all'" class="pink_button">View All</a></p>
+</div>
+</li>
+<li><a style="cursor:pointer;" href="http://www.fashionphile.com/Handbags/t" class="drop">Styles</a>
+<div class="drop1columns dropcontent">
+<div class="col_1">
+<p><a href="http://www.fashionphile.com/Proenza+Backpack/bt">Backpack</a></p>
+<p><a href="http://www.fashionphile.com/Proenza+Clutch_Evening/bt">Clutch &amp; Evening</a></p>
+<p><a href="http://www.fashionphile.com/Proenza+Cross_Body/bt">Cross Body</a></p>
+<p><a href="http://www.fashionphile.com/Proenza+Handbags/bt">Handbags</a></p>
+<p><a href="http://www.fashionphile.com/Proenza+Manbags/bt">Men's Bags</a></p>
+<p><a href="http://www.fashionphile.com/Proenza+Professional/bt">Professional</a></p>
+<p><a href="http://www.fashionphile.com/Proenza+Shoulder_Bag/bt">Shoulder Bag</a></p>
+<p><a href="http://www.fashionphile.com/Proenza+Accessories_Bag/bt">Small Accessories</a></p>
+<p><a href="http://www.fashionphile.com/Proenza+Travel_Luggage/bt">Travel &amp; Luggage</a></p>
+<p><a href="http://www.fashionphile.com/Proenza+Wallet_Style/bt">Wallet Style</a></p>
+<p><a href="http://www.fashionphile.com/Handbags/t" class="pink_button">All Handbags</a></p>
+</div>
+</div>
+</li>
+<li><a style="cursor:pointer;" href="http://www.fashionphile.com/Accessories/t" class="drop">Accessories</a>
+<div class="drop1columns dropcontent">
+<div class="col_1">
+<p><a href="http://www.fashionphile.com/Proenza+Agendas/bt">Agendas</a></p>
+<p><a href="http://www.fashionphile.com/Proenza+Belts/bt">Belts</a></p>
+<p><a href="http://www.fashionphile.com/Proenza+Extra_Straps/bt">Extra Straps</a></p>
+<p><a href="http://www.fashionphile.com/Proenza+Hair_Accessories/bt">Hair Accessories</a></p>
+<p><a href="http://www.fashionphile.com/Proenza+Household_Items/bt">Household Items</a></p>
+<p><a href="http://www.fashionphile.com/Proenza+Key_Rings/bt">Key Rings</a></p>
+<p><a href="http://www.fashionphile.com/Proenza+Mens_Accessories/bt">Men's Accessories</a></p>
+<p><a href="http://www.fashionphile.com/Proenza+Pet_Accessories/bt">Pet Accessories</a></p>
+<p><a href="http://www.fashionphile.com/Proenza+Phone_or_Tablet_Cases/bt">Phone/Tablet Case</a></p>
+<p><a href="http://www.fashionphile.com/Proenza+Pins_Brooches/bt">Pins &amp; Brooches</a></p>
+<p><a href="http://www.fashionphile.com/Proenza+Scarves/bt">Scarves</a></p>
+<p><a href="http://www.fashionphile.com/Proenza+Shoes/bt">Shoes</a></p>
+<p><a href="http://www.fashionphile.com/Proenza+Sunglasses/bt">Sunglasses</a></p>
+<p><a href="http://www.fashionphile.com/Proenza+Wallets/bt">Wallets</a></p>
+<p><a href="http://www.fashionphile.com/Accessories/t" class="pink_button">All Accessories</a></p>
+</div>
+</div>
+</li>
+<li><a style="cursor:pointer;" href="http://www.fashionphile.com/Jewelry/t" class="drop">Jewelry</a>
+<div class="drop1columns dropcontent">
+<div class="col_1">
+<p><a href="http://www.fashionphile.com/Proenza+Bracelets/bt">Bracelets</a></p>
+<p><a href="http://www.fashionphile.com/Proenza+Earrings/bt">Earrings</a></p>
+<p><a href="http://www.fashionphile.com/Proenza+Necklaces/bt">Necklaces</a></p>
+<p><a href="http://www.fashionphile.com/Proenza+Rings/bt">Rings</a></p>
+<p><a href="http://www.fashionphile.com/Proenza+Watches/bt">Watches</a></p>
+<p><a href="http://www.fashionphile.com/Jewelry/t" class="pink_button">All Jewelry</a></p>
+</div>
+</div>
+</li>
+ 
+<li><a href="/shop.php" class="drop">Attributes</a>
+<div class="drop3columns dropcontent">
+<div class="col_1">
+<p style="padding-left:10px;"><b>Bag Features</b></p>
+<p><a href="http://www.fashionphile.com/Proenza+Scarves+Mom_Bag/btd">"Mom Bag"</a></p>
+<p><a href="http://www.fashionphile.com/Proenza+Scarves+Cell_Pocket/btd">Cell Phone Pocket</a></p>
+<p><a href="http://www.fashionphile.com/Proenza+Scarves+iPad/btd">Holds iPad or Tablet</a></p>
+<p><a href="http://www.fashionphile.com/Proenza+Scarves+Laptop/btd">Holds Laptop</a></p>
+<p><a href="http://www.fashionphile.com/Proenza+Scarves+Open_Top/btd">Open Top</a></p>
+<p><a href="http://www.fashionphile.com/Proenza+Scarves+Structured/btd">Structured</a></p>
+<p><a href="http://www.fashionphile.com/Proenza+Scarves+Top_Handles/btd">Top Handles</a></p>
+<p><a href="http://www.fashionphile.com/Proenza+Scarves+Zip_Top/btd">Zip Top</a></p>
+</div>
+<div class="col_1">
+<p style="padding-left:10px;"><b>Materials</b></p>
+<p><a href="http://www.fashionphile.com/Proenza+Scarves+Beaded/btd">Beaded &amp; Sequins</a></p>
+<p><a href="http://www.fashionphile.com/Proenza+Scarves+Coated_Canvas/btd">Coated Canvas</a></p>
+<p><a href="http://www.fashionphile.com/Proenza+Scarves+Exotics/btd">Exotic Skins &amp; Fur</a></p>
+<p><a href="http://www.fashionphile.com/Proenza+Scarves+Fabrics/btd">Fabrics</a></p>
+<p><a href="http://www.fashionphile.com/Proenza+Scarves+Leather/btd">Leather</a></p>
+<p><a href="http://www.fashionphile.com/Proenza+Scarves+Metallic/btd">Metallic</a></p>
+<p><a href="http://www.fashionphile.com/Proenza+Scarves+Patent/btd">Patent Leather</a></p>
+<p><a href="http://www.fashionphile.com/Proenza+Scarves+Plastics/btd">Plastics</a></p>
+<p><a href="http://www.fashionphile.com/Proenza+Scarves+Suede/btd">Suede Leather</a></p>
+</div>
+<div class="col_1">
+<p style="padding-left:10px;"><b>Colors</b></p>
+<p><a href="http://www.fashionphile.com/Proenza+Scarves+Beige/btd">Beige</a></p>
+<p><a href="http://www.fashionphile.com/Proenza+Scarves+Black/btd">Black</a></p>
+<p><a href="http://www.fashionphile.com/Proenza+Scarves+Blues/btd">Blues</a></p>
+<p><a href="http://www.fashionphile.com/Proenza+Scarves+Browns/btd">Browns</a></p>
+<p><a href="http://www.fashionphile.com/Proenza+Scarves+Gold/btd">Gold</a></p>
+<p><a href="http://www.fashionphile.com/Proenza+Scarves+Grays/btd">Grays</a></p>
+<p><a href="http://www.fashionphile.com/Proenza+Scarves+Greens/btd">Greens</a></p>
+<p><a href="http://www.fashionphile.com/Proenza+Scarves+Multicolor/btd">Multicolor</a></p>
+<p><a href="http://www.fashionphile.com/Proenza+Scarves+Orange/btd">Orange</a></p>
+<p><a href="http://www.fashionphile.com/Proenza+Scarves+Pink/btd">Pink</a></p>
+<p><a href="http://www.fashionphile.com/Proenza+Scarves+Purples/btd">Purples</a></p>
+<p><a href="http://www.fashionphile.com/Proenza+Scarves+Reds/btd">Reds</a></p>
+<p><a href="http://www.fashionphile.com/Proenza+Scarves+Silver/btd">Silver</a></p>
+<p><a href="http://www.fashionphile.com/Proenza+Scarves+Whites/btd">Whites</a></p>
+<p><a href="http://www.fashionphile.com/Proenza+Scarves+Yellows/btd">Yellows</a></p>
+</div>
+</div>
+</li>
+<li><a title="Discounted" href="http://www.fashionphile.com/shop.php?view=discount">Discounted</a></li>
+<li class="right">
+<form action="http://www.fashionphile.com/shop.php" method="post" name="header" style="margin-right:10px;">
+<p style="margin-left:10px;"><input type="text" name="keyword" id="keyword" value="Search" class="search_head" style=" width:160px;" onfocus="this.value==this.defaultValue?this.value='':null; this.style.fontStyle='normal'; this.style.color='black';" onkeydown="Javascript: if (event.keyCode==13) form_submit();">
+<input type="button" value="GO" onclick="form_submit();">
+</p><div id="response1" style="z-index:9999; display:none;"></div>
+<input type="text" style="display: none;" name="search" value="Search" id="search"><p></p>
+</form>
+</li>
+ 
+</ul>
+ 
+</div>
+<style type="text/css">.map_box{margin:20px 0;float:left;width:250px;}</style>
+<div style="float:left; clear:both; width: 100%;">
+<h1>Privacy Policy</h1>
+<div style="float:left; clear:both; width: 100%;">
+<p>Thank you for visiting www.Fashionphile.com (the “Website”). This privacy and security policy (“Policy”) explains the information we collect about you, how we use the information, some of the security steps taken to protect the information, and the choices you have to review, revise and/or restrict our usage of this information. This Policy is part of the Terms &amp; Conditions of Use that govern the Website and is binding on all Website users.</p>
+<h2><strong>What information do we collect and how do we use it?</strong></h2>
+<p>Fashionphile.com collects information from our customers for a variety of reasons, including as part of our ongoing efforts to provide unparalleled customer service, improve shopping experience and to communicate about products, services and promotions. We collect information such as email, name, telephone number, postal address and payment information (“Personal Information”) that you provide to us when you register an account on our site, place an order, participate in a promotion, write product reviews, wish lists and other user-generated content. </p><br>
+<p>Information collected online may be utilized by Fashionphile. In addition, we maintain a record of your product interests, purchases and whatever else might enable us to enhance and personalize your shopping experience on Fashionphile’s web site offers, promotions, or information that we believe may be of interest to you. </p><br>
+<p>We also monitor site use and traffic patterns to improve our web site design and the products and services we offer as well as to determine what offers, promotions or information to send to you. To serve you better, we may combine Personal Information you give us online, via mobile device, in our stores, or through our customer service call center. </p>
+<h2><strong>Disclosure of Information</strong></h2>
+<p>We do not share, emails, personal, credit card or other payment information with third parties except for the purposes of processing payment for products and services you’ve ordered and as required by law. In addition, we may disclose credit card and other information we collect from you with an outside company with which we have contracted for their services to protect against fraud and the unauthorized use of credit and gift cards.</p>
+<h2><strong>Procedures to review your personal information and to opt-out</strong></h2>
+<p>You may always update your personal information or opt-out of our mailing list or other communications from us. If at any time you would like us to update your information, email <br><br>
+Fashionphile.com customer service. Please be sure to include your email address, full name and mailing address.</p><br>
+<p><strong>If you have any objections to this Privacy Policy, you should immediately discontinue use of the website.</strong> </p><br>
+<p>Contact us via postal mail:<br><br>
+Fashionphile<br>
+1819 Aston Ave #101, Carlsbad, CA 92008 </p>
+<p><strong>Phone:</strong>(866) 468-5893 <br>
+<strong>Hours: </strong>Monday hours 10:00 am–5:00 pm&nbsp;&nbsp;</p><br>
+<p>Effective Date: July 31, 2013<br>
+<br>
+<br>
+<br>
+</p>
+</div>
+</div>
+<style type="text/css">.subscribe{font:12px/normal "Century Gothic",FASHION,Arial,Helvetica;padding:5px;margin:5px 0 5px 0;background:#fff;border:1px solid #ddd;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;width:220px;}</style>
+<div id="footer">
+<div id="footer_box_l">
+<h3>Help</h3>
+<p><a href="/faq" title="FAQ">FAQ</a></p>
+<p><a href="/shipping" title="Shipping">Shipping</a></p>
+<p><a href="/faq.php#2.2" title="Returns">Returns</a></p>
+<p><a href="/layaway" title="Layaway">Layaway</a></p>
+<p><a href="/contact-us" title="Contact Fashionphile">Contact Us</a></p>
+<p><a href="/sitemap" title="Sitemap">Sitemap</a></p>
+<p><a href="/privacy" title="Privacy">Privacy Policy</a></p>
+</div>
+<div id="footer_box_l">
+<h3>About us</h3>
+<p><a href="/about" title="About Fashionphile">About Us</a></p>
+<p><a href="/beverly_hills" title="Beverly Hills">Beverly Hills</a></p>
+<p><a href="/san_diego" title="San Diego">San Diego</a></p>
+<p><a href="/san_francisco" title="San Francisco">San Francisco</a></p>
+<p><a href="http://www.facebook.com/fashionphile" target="_blank" title="Facebook">Facebook</a></p>
+<p><a href="/Fashionphile-Gift-Card-10001">Gift Card</a></p>
+</div>
+<div id="footer_box_l">
+<h3>Account</h3>
+<p><a href="/sell-your-bag" title="Sell My Bag">Sell My Bag</a></p>
+<p><a href="/sell-your-bag" title="Sell My Bag">Consignment</a></p>
+<p><a href="/my_sales" title="My Sales">My Sales</a></p>
+<p><a href="/my_purchases" title="My Buys">My Purchases</a></p>
+<p><a href="/my_wishlist" title="Wishlist">Wishlist</a></p>
+<p><a href="/customer_settings" title="Settings">Settings</a></p>
+<p><a href="/user_fashionphile_alert.php" title="Settings">Alerts</a></p>
+</div>
+<div id="footer_box_r">
+<a style="cursor:pointer" href="/sell-your-bag"><img src="/images/foot-sell.png"></a>
+</div>
+ 
+<div id="footer_box_r">
+<a style="cursor:pointer" href="/shop.php?view=new_arrivals"><img src="/images/callout_new_arrivals_mod_v2.jpg"></a>
+</div>
+ 
+<script type="text/javascript">
+			function mySubscribe() {
+			 $("form").submit(function() {
+						 var frm = $('#subscribe');
+							$.ajax({
+								type: frm.attr('method'),
+								url: 'newsletters.php',
+								data: frm.serialize(),
+								success: function (data) {
+									$('#result').html(data);
+								}
+							});
+					 
+							return false;
+						});
+			};
+			</script>
+<form method="post" id="subscribe" name="subscribe" style="width:320px; float:left;">
+<input class="subscribe" id="email" type="text" name="email" onblur="display_name_value(this.id,'Subscribe for Email Updates');" onfocus="this.value==this.defaultValue?this.value='':null;" value="Subscribe for Email Updates">
+<input type="submit" onclick="mySubscribe()" name="update" value="Sign Up" class="grey_button">
+<input type="hidden" name="task" value="subscribe">
+<input type="hidden" name="redirect" value="/shop.php">
+<div id="result"></div>
+</form>
+</div>
+<div id="footer_container">
+<div id="footer_bottom_center" class="footer_column"> </div>
+<div id="footer_bottom_left" class="footer_column"> </div>
+<div id="footer_bottom_right" class="footer_column"> </div>
+</div>
+<p style="text-align: center; width: 100%; float:left; clear:both; font-size:12px;"> © 2013 FASHIONPHILE, llc &nbsp; | &nbsp; For assistance call toll free 1.866.468.5893 &nbsp;&nbsp;&nbsp;&nbsp;<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Ffashionphile&amp;width=250&amp;colorscheme=light&amp;show_faces=false&amp;border_color&amp;stream=false&amp;header=false&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:175px; height:60px;" allowtransparency="true"></iframe> <a style="margin:0 20px;" href="http://www.bbb.org/los-angeles/business-reviews/clothes-consignment-and-resale/fashionphile-in-beverly-hills-ca-100086026"><img src="/images/clickratingsm.gif" width="105" height="40" border="0"></a> <img src="/images/logo_mcafee.gif" width="105" height="40" border="0">
+</p><br>
+<br>
+<div style="clear:both">&nbsp;</div>
+<div style="display:none" id="sell_tab">
+<h1>GET CASH FOR YOUR BAGS</h1>
+<p>Be like the 215 people who have been paid for their bags this week.</p>
+<p><b>This Week's Pay Out:</b> $326,091.06</p>
+<p><b>Items Paid This Week:</b> 431</p>
+<p style="margin:5px 0 15px;"><a href="/sell-your-bag" style="color:#fff;" class="pink_button">Start Selling Now</a></p>
+</div>
+<script type="text/javascript" src="/includes/javascripts/my-pullout-widgets.js"></script>
+<script type="text/javascript" src="/includes/javascripts/jquery.appear-1.1.1.min.js"></script>
+<script type="text/javascript" src="/includes/javascripts/pullouts.min.js"></script>
+<script type="text/javascript" src="/includes/javascripts/jquery.fancybox.js?v=2.1.3"></script>
+<script type="text/javascript" src="/includes/javascripts/jquery.countdown.js"></script>
+<script type="text/javascript" src="/includes/javascripts/jquery.form.js" xml:space="preserve"></script>
+<script type="text/javascript" src="/includes/javascripts/mosaic.1.0.1.js"></script>
+<script type="text/javascript">  
+			
+			jQuery(function($){
+				$('.bar').mosaic({
+					animation	:	'slide'
+				});
+		    });
+		    
+		</script>
+<script type="text/javascript">
+		$(document).ready(function() {
+			
+			$('a.fancybox').fancybox({
+				title:  null
+			});
+			$('a.cart').fancybox({
+				title: null
+				});
+			$('a.pop_up').fancybox({
+				title: null,
+				width: 550
+				});
+			$("a.hoverpop").fancybox({
+				topRatio: 0.13,
+				leftRatio: 0.03,
+				padding: 0
+				}).hover(function() {
+				$(this).click();
+			});
+			
+			jQuery("a.zoom").fancybox({
+				'zoomSpeedIn' : 500,
+				'zoomSpeedOut' : 500,
+				'hideOnContentClick': false,
+				'overlayOpacity' : 0.7,
+				'overlayColor' : '#FFFFFF',
+				'frameWidth': 550,
+				'frameHeight': 350
+			}); 
+
+		});
+		</script>
+<script type="text/javascript">
+	$(document).ready(function() {
+		$('#accept_terms').bind('click', checkAcceptTerms);
+	});
+	
+	function checkAcceptTerms(event)
+	{
+		$('#accept_terms').fancybox({
+				title: null,
+				content: '',
+				width: 550
+				});
+				
+		setTimeout(function() { checkSelected(); },1000);
+
+	}
+
+	function checkSelected()
+	{
+		$('#accept_terms').prop('checked',true);
+	}
+	
+jQuery(document).ready(function(){
+	jQuery('div.quickview').each(function(){
+		//...set the opacity to 0...
+		jQuery(this).css('opacity', 0);
+		jQuery(this).css('width', jQuery(this).siblings('img').width());
+		jQuery(this).parent().css('width', jQuery(this).siblings('img').width());
+		jQuery(this).css('display', 'block');
+	});
+
+	jQuery('div.inventory_box').hover(function(){
+		jQuery(this).children('.quickview').stop().fadeTo(500, 1);
+	},function(){
+		jQuery(this).children('.quickview').stop().fadeTo(500, 0);
+	});
+
+});
+</script>
+</body></html>
