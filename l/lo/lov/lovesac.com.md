@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovesac.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430173514id_/http%3A//privacy-policy.truste.com/verified-policy/www.lovesac.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovesac.com privacy policy that was archived on 2013-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130926144406id_/http%3A//privacy-policy.truste.com/verified-policy/www.lovesac.com) for the most accurate reproduction.*
 
 # Privacy Policy for www.lovesac.com
 
