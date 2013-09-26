@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adspeed.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621062625id_/http%3A//www.adspeed.com/Knowledges/1/Content/Privacy_Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adspeed.com privacy policy that was archived on 2013-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130926110557id_/http%3A//www.adspeed.com/Knowledges/1/Content/Privacy_Statement.html) for the most accurate reproduction.*
 
 # Ad Servers | Ad Server Software | Ad Serving Software – Privacy Statement for AdSpeed.com
 
@@ -44,15 +44,15 @@ If you have any questions about this privacy statement, or the practices of AdSp
 
 ## Testimonials for our Ad Servers
 
-  * > I am getting to know your tools and LOVE them!
+  * > Thank you for your prompt response to our issues. I do appreciate the extra effort to resolve our problems.
 > 
-> _Lisa F_  
->  Wyplanet
+> _Ted H_  
+>  TM3 Marketing
 
-  * > That is fantastic customer service, I'm very pleased. Thank you and please pass on my thanks to your engineers.
+  * > Thanks for the super prompt reply.
 > 
-> _Max H_  
->  WeLove2Ski Ltd
+> _Ted H_  
+>  TM3 Marketing
 
 
 
