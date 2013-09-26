@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lesbiantraining.com privacy policy that was archived on 2013-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130401075250id_/http%3A//lesbiantraining.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lesbiantraining.com privacy policy that was archived on 2013-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130926223038id_/http%3A//lesbiantraining.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
