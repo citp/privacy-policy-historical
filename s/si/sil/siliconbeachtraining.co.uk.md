@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siliconbeachtraining.co.uk privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528173919id_/http%3A//www.siliconbeachtraining.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siliconbeachtraining.co.uk privacy policy that was archived on 2013-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130926193838id_/http%3A//www.siliconbeachtraining.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Silicon Beach Training Privacy Policy
 
