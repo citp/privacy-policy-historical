@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the geantonline.ae privacy policy that was archived on 2013-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130617033600id_/http%3A//www.geantonline.ae/t-privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the geantonline.ae privacy policy that was archived on 2013-09-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130926043020id_/http%3A//www.geantonline.ae/t-privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><link rel="shortcut icon" href="/../../Style/Skin_3/images/favicon.ico"><title>
 	Privacy Policy
@@ -35,7 +35,8 @@
 
 <link rel="Stylesheet" type="text/css" href="Style/Skin_3/css/Menu_Common.css">
     
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" charset="utf-8" src="//cdn.zopim.com/?1E6lHnjfIaDAWNfsfpBmxES9i7IrD2r5" type="text/javascript"></script><script type="text/javascript" src="../../Script/Skin_3/jquery-1.8.3.min.js"></script>
+    <script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0018/4413.js?439485" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" charset="utf-8" src="//cdn.zopim.com/?1E6lHnjfIaDAWNfsfpBmxES9i7IrD2r5" type="text/javascript"></script><script type="text/javascript" src="../../Script/Skin_3/jquery-1.8.3.min.js"></script>
+     <script type="text/javascript" src="../../Script/Skin_3/jquery.lazyload.js"></script>
     <script type="text/javascript" src="../../jscripts/menu.js"></script>
     <script type="text/javascript" src="../../jscripts/jquery.marquee.min.js"> </script>
 
@@ -59,13 +60,99 @@
 
         $(document).ready(function () {
 
-           
-               
-                    $('.livechat').css({"position":"fixed" , "margin":"50px 0 0 0"});
-               
-           
+           /* !function (window) {
+                var $q = function (q, res) {
+                    if (document.querySelectorAll) {
+                        res = document.querySelectorAll(q);
+                    } else {
+                        var d = document
+                          , a = d.styleSheets[0] || d.createStyleSheet();
+                        a.addRule(q, 'f:b');
+                        for (var l = d.all, b = 0, c = [], f = l.length; b < f; b++)
+                            l[b].currentStyle.f && c.push(l[b]);
 
-            document.title = "Geant Online- UAE’s 1st complete Online supermarket !!!";
+                        a.removeRule(0);
+                        res = c;
+                    }
+                    return res;
+                }
+                  , addEventListener = function (evt, fn) {
+                      window.addEventListener
+                        ? this.addEventListener(evt, fn, false)
+                        : (window.attachEvent)
+                          ? this.attachEvent('on' + evt, fn)
+                          : this['on' + evt] = fn;
+                  }
+                  , _has = function (obj, key) {
+                      return Object.prototype.hasOwnProperty.call(obj, key);
+                  }
+                ;
+
+                function loadImage(el, fn) {
+                    var img = new Image()
+                      , src = el.getAttribute('data-original');
+                    img.onload = function () {
+                        if (!!el.parent)
+                            el.parent.replaceChild(img, el)
+                        else
+                            el.src = src;
+
+                        fn ? fn() : null;
+                    }
+                    img.src = src;
+                }
+
+                function elementInViewport(el) {
+                    var rect = el.getBoundingClientRect()
+
+                    return (
+                       rect.top >= 0
+                    && rect.left >= 0
+                    && rect.top <= (window.innerHeight || document.documentElement.clientHeight)
+                    )
+                }
+
+                var images = new Array()
+                  , query = $q('img.lazy')
+                  , processScroll = function () {
+                      for (var i = 0; i < images.length; i++) {
+                          if (elementInViewport(images[i])) {
+                              loadImage(images[i], function () {
+                                  images.splice(i, i);
+                              });
+                          }
+                      };
+                  }
+                ;
+                  $(function () {
+                      $("img.lazy").show().loadImage()
+                      window.onload = function () {
+                          $(window).resize()
+                      };
+                  });
+                // Array.prototype.slice.call is not callable under our lovely IE8 
+                for (var i = 0; i < query.length; i++) {
+                    images.push(query[i]);
+                };
+
+                processScroll();
+                addEventListener('scroll', processScroll);
+
+            } (this);
+
+            //$("img.lazy").loadImage();*/
+           
+                $("img.lazy").lazyload({
+                    event: "sporty",
+                    effect : "fadeIn"
+                });
+            
+
+            $(window).bind("load", function () {
+                var timeout = setTimeout(function () { $("img.lazy").trigger("sporty") }, 10);
+            });
+
+            document.title = "Geant Online– UAE's 1st online hypermarket";
 
             //$(".livechat .jqwidth").hover(function () {
             //    $(this).stop(true, false).animate({ width: 230 }, 500);
@@ -73,7 +160,28 @@
             //    $(".livechat .jqwidth").stop(true, false).animate({ width: 90}, 500);
             //});
         });
+
+        
     
+    </script>
+      <script type="text/javascript">
+
+          $(document).ready(function () {
+
+              //$("img.lazy").lazyload();
+
+
+              $(".homeactive a").removeClass("active");
+
+              document.title = "Geant Online– UAE's 1st online hypermarket";
+
+              //$(".livechat .jqwidth").hover(function () {
+              //    $(this).stop(true, false).animate({ width: 230 }, 500);
+              //}, function () {
+              //    $(".livechat .jqwidth").stop(true, false).animate({ width: 90 }, 500);
+              //});
+          });
+
     </script>
     <script type="text/javascript">
 
@@ -253,18 +361,12 @@ CACHE MENUS: True
 -->
 
     <form name="aspnetForm" method="post" action="t-privacy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1Mjk0MjMyMQ9kFgJmD2QWAgIED2QWAgIFD2QWBAIFD2QWAmYPFgIeC18hSXRlbUNvdW50AgEWAmYPZBYCZg8VAZYBIDxhIGhyZWY9Imh0dHA6Ly93d3cuZ2VhbnRvbmxpbmUuYWUvdC1wcml6ZXMuYXNweCIgVGFyZ2V0PSJfcGFyZW50Ij4gPGltZyAgIHdpZHRoPSI0NjgiIGhlaWdodD0iNjAiICBzcmM9Ii9BcHBJbWFnZXMvQmFubmVyL1RodW1ibmFpbC8yNTc0LnBuZyIgLz48L2E+ZAIJD2QWAgIBDxYCHwACERYiAgEPZBYCAgEPFgIeBGhyZWYFKGh0dHA6Ly93d3cuZ2VhbnRvbmxpbmUuYWUvbS04LWFwcGxlLmFzcHgWAgIBDxYEHgNzcmMFOGh0dHA6Ly93d3cuZ2VhbnRvbmxpbmUuYWUvaW1hZ2VzL21hbnVmYWN0dXJlci9pY29uLzguanBnHgV3aWR0aAUDMTUwZAICD2QWAgIBDxYCHwEFK2h0dHA6Ly93d3cuZ2VhbnRvbmxpbmUuYWUvbS0xMC10b3NoaWJhLmFzcHgWAgIBDxYEHwIFOWh0dHA6Ly93d3cuZ2VhbnRvbmxpbmUuYWUvaW1hZ2VzL21hbnVmYWN0dXJlci9pY29uLzEwLmpwZx8DBQMxNTBkAgMPZBYCAgEPFgIfAQUqaHR0cDovL3d3dy5nZWFudG9ubGluZS5hZS9tLTEwNzYtaGFtYS5hc3B4FgICAQ8WBB8CBTtodHRwOi8vd3d3LmdlYW50b25saW5lLmFlL2ltYWdlcy9tYW51ZmFjdHVyZXIvaWNvbi8xMDc2LmpwZx8DBQMxNTBkAgQPZBYCAgEPFgIfAQUpaHR0cDovL3d3dy5nZWFudG9ubGluZS5hZS9tLTEwNzgtaHRjLmFzcHgWAgIBDxYEHwIFO2h0dHA6Ly93d3cuZ2VhbnRvbmxpbmUuYWUvaW1hZ2VzL21hbnVmYWN0dXJlci9pY29uLzEwNzguanBnHwMFAzE1MGQCBQ9kFgICAQ8WAh8BBS5odHRwOi8vZ3JvY2VyeS5nZWFudG9ubGluZS5hZS9tLTExLW5lc3RsZS5hc3B4FgICAQ8WBB8CBT1odHRwOi8vZ3JvY2VyeS5nZWFudG9ubGluZS5hZS9pbWFnZXMvbWFudWZhY3R1cmVyL2ljb24vMTEuanBnHwMFAzE1MGQCBg9kFgICAQ8WAh8BBTNodHRwOi8vZ3JvY2VyeS5nZWFudG9ubGluZS5hZS9tLTExMjMtY29jYS1jb2xhLmFzcHgWAgIBDxYEHwIFP2h0dHA6Ly9ncm9jZXJ5LmdlYW50b25saW5lLmFlL2ltYWdlcy9tYW51ZmFjdHVyZXIvaWNvbi8xMTIzLmpwZx8DBQMxNTBkAgcPZBYCAgEPFgIfAQUyaHR0cDovL2dyb2NlcnkuZ2VhbnRvbmxpbmUuYWUvbS0xMTI1LWFsLWFsYWxpLmFzcHgWAgIBDxYEHwIFP2h0dHA6Ly9ncm9jZXJ5LmdlYW50b25saW5lLmFlL2ltYWdlcy9tYW51ZmFjdHVyZXIvaWNvbi8xMTI1LmpwZx8DBQMxNTBkAggPZBYCAgEPFgIfAQUoaHR0cDovL3d3dy5nZWFudG9ubGluZS5hZS9tLTE4LWRlbGwuYXNweBYCAgEPFgQfAgU5aHR0cDovL3d3dy5nZWFudG9ubGluZS5hZS9pbWFnZXMvbWFudWZhY3R1cmVyL2ljb24vMTguanBnHwMFAzE1MGQCCQ9kFgICAQ8WAh8BBTBodHRwOi8vZ3JvY2VyeS5nZWFudG9ubGluZS5hZS9tLTIxNDEtY2FzaW5vLmFzcHgWAgIBDxYEHwIFP2h0dHA6Ly9ncm9jZXJ5LmdlYW50b25saW5lLmFlL2ltYWdlcy9tYW51ZmFjdHVyZXIvaWNvbi8yMTQxLmpwZx8DBQMxNTBkAgoPZBYCAgEPFgIfAQUuaHR0cDovL2dyb2NlcnkuZ2VhbnRvbmxpbmUuYWUvbS0yMjk5LWVsYW4uYXNweBYCAgEPFgQfAgU/aHR0cDovL2dyb2NlcnkuZ2VhbnRvbmxpbmUuYWUvaW1hZ2VzL21hbnVmYWN0dXJlci9pY29uLzIyOTkuanBnHwMFAzE1MGQCCw9kFgICAQ8WAh8BBS5odHRwOi8vZ3JvY2VyeS5nZWFudG9ubGluZS5hZS9tLTIzMDctZ3ltYS5hc3B4FgICAQ8WBB8CBT9odHRwOi8vZ3JvY2VyeS5nZWFudG9ubGluZS5hZS9pbWFnZXMvbWFudWZhY3R1cmVyL2ljb24vMjMwNy5qcGcfAwUDMTUwZAIMD2QWAgIBDxYCHwEFL2h0dHA6Ly9ncm9jZXJ5LmdlYW50b25saW5lLmFlL20tMjMxNy1oZWluei5hc3B4FgICAQ8WBB8CBT9odHRwOi8vZ3JvY2VyeS5nZWFudG9ubGluZS5hZS9pbWFnZXMvbWFudWZhY3R1cmVyL2ljb24vMjMxNy5qcGcfAwUDMTUwZAIND2QWAgIBDxYCHwEFJWh0dHA6Ly93d3cuZ2VhbnRvbmxpbmUuYWUvbS0zLWxnLmFzcHgWAgIBDxYEHwIFOGh0dHA6Ly93d3cuZ2VhbnRvbmxpbmUuYWUvaW1hZ2VzL21hbnVmYWN0dXJlci9pY29uLzMuanBnHwMFAzE1MGQCDg9kFgICAQ8WAh8BBSdodHRwOi8vd3d3LmdlYW50b25saW5lLmFlL20tNC1hY2VyLmFzcHgWAgIBDxYEHwIFOGh0dHA6Ly93d3cuZ2VhbnRvbmxpbmUuYWUvaW1hZ2VzL21hbnVmYWN0dXJlci9pY29uLzQuanBnHwMFAzE1MGQCDw9kFgICAQ8WAh8BBTJodHRwOi8vZ3JvY2VyeS5nZWFudG9ubGluZS5hZS9tLTQ0NDcta2VsbG9nZ3MuYXNweBYCAgEPFgQfAgU/aHR0cDovL2dyb2NlcnkuZ2VhbnRvbmxpbmUuYWUvaW1hZ2VzL21hbnVmYWN0dXJlci9pY29uLzQ0NDcuanBnHwMFAzE1MGQCEA9kFgICAQ8WAh8BBSpodHRwOi8vd3d3LmdlYW50b25saW5lLmFlL20tNS1zYW1zdW5nLmFzcHgWAgIBDxYEHwIFOGh0dHA6Ly93d3cuZ2VhbnRvbmxpbmUuYWUvaW1hZ2VzL21hbnVmYWN0dXJlci9pY29uLzUuanBnHwMFAzE1MGQCEQ9kFgICAQ8WAh8BBS1odHRwOi8vd3d3LmdlYW50b25saW5lLmFlL20tNy1ibGFja2JlcnJ5LmFzcHgWAgIBDxYEHwIFOGh0dHA6Ly93d3cuZ2VhbnRvbmxpbmUuYWUvaW1hZ2VzL21hbnVmYWN0dXJlci9pY29uLzcuanBnHwMFAzE1MGRkASOoe15a9Tg8poOEcFGYctjFChg=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1Mjk0MjMyMQ9kFgJmD2QWAgIED2QWAgIFD2QWBAIFD2QWAmYPFgIeC18hSXRlbUNvdW50AgEWAmYPZBYCZg8VAe4BIDxhIGhyZWY9Imh0dHA6Ly93d3cuZ2VhbnRvbmxpbmUuYWUvU2VhcmNoLmFzcHg/az1pcGhvbmUlMjA1cyIgVGFyZ2V0PSJfcGFyZW50Ij4gPGltZyAgIHdpZHRoPSI0NjgiIGhlaWdodD0iNjAiICBjbGFzcz0ibGF6eSIgc3JjPSIvaW1hZ2VzL0xhenlJbWFnZS5naWYiIGRhdGEtb3JpZ2luYWw9Imh0dHA6Ly93d3cuZ2VhbnRvbmxpbmUuYWUvQXBwSW1hZ2VzL0Jhbm5lci9UaHVtYm5haWwvMzg1Mi5wbmciIC8+PC9hPmQCCA9kFgICAQ8WAh8AAg8WHgIBD2QWAgIBDxYCHgRocmVmBShodHRwOi8vd3d3LmdlYW50b25saW5lLmFlL20tOC1hcHBsZS5hc3B4FgICAQ8WBB4Dc3JjBThodHRwOi8vd3d3LmdlYW50b25saW5lLmFlL2ltYWdlcy9tYW51ZmFjdHVyZXIvaWNvbi84LmpwZx4Fd2lkdGgFAzE1MGQCAg9kFgICAQ8WAh8BBStodHRwOi8vd3d3LmdlYW50b25saW5lLmFlL20tMTAtdG9zaGliYS5hc3B4FgICAQ8WBB8CBTlodHRwOi8vd3d3LmdlYW50b25saW5lLmFlL2ltYWdlcy9tYW51ZmFjdHVyZXIvaWNvbi8xMC5qcGcfAwUDMTUwZAIDD2QWAgIBDxYCHwEFKmh0dHA6Ly93d3cuZ2VhbnRvbmxpbmUuYWUvbS0xMDc2LWhhbWEuYXNweBYCAgEPFgQfAgU7aHR0cDovL3d3dy5nZWFudG9ubGluZS5hZS9pbWFnZXMvbWFudWZhY3R1cmVyL2ljb24vMTA3Ni5qcGcfAwUDMTUwZAIED2QWAgIBDxYCHwEFKWh0dHA6Ly93d3cuZ2VhbnRvbmxpbmUuYWUvbS0xMDc4LWh0Yy5hc3B4FgICAQ8WBB8CBTtodHRwOi8vd3d3LmdlYW50b25saW5lLmFlL2ltYWdlcy9tYW51ZmFjdHVyZXIvaWNvbi8xMDc4LmpwZx8DBQMxNTBkAgUPZBYCAgEPFgIfAQUuaHR0cDovL2dyb2NlcnkuZ2VhbnRvbmxpbmUuYWUvbS0xMS1uZXN0bGUuYXNweBYCAgEPFgQfAgU9aHR0cDovL2dyb2NlcnkuZ2VhbnRvbmxpbmUuYWUvaW1hZ2VzL21hbnVmYWN0dXJlci9pY29uLzExLmpwZx8DBQMxNTBkAgYPZBYCAgEPFgIfAQUzaHR0cDovL2dyb2NlcnkuZ2VhbnRvbmxpbmUuYWUvbS0xMTIzLWNvY2EtY29sYS5hc3B4FgICAQ8WBB8CBT9odHRwOi8vZ3JvY2VyeS5nZWFudG9ubGluZS5hZS9pbWFnZXMvbWFudWZhY3R1cmVyL2ljb24vMTEyMy5qcGcfAwUDMTUwZAIHD2QWAgIBDxYCHwEFMmh0dHA6Ly9ncm9jZXJ5LmdlYW50b25saW5lLmFlL20tMTEyNS1hbC1hbGFsaS5hc3B4FgICAQ8WBB8CBT9odHRwOi8vZ3JvY2VyeS5nZWFudG9ubGluZS5hZS9pbWFnZXMvbWFudWZhY3R1cmVyL2ljb24vMTEyNS5qcGcfAwUDMTUwZAIID2QWAgIBDxYCHwEFKGh0dHA6Ly93d3cuZ2VhbnRvbmxpbmUuYWUvbS0xOC1kZWxsLmFzcHgWAgIBDxYEHwIFOWh0dHA6Ly93d3cuZ2VhbnRvbmxpbmUuYWUvaW1hZ2VzL21hbnVmYWN0dXJlci9pY29uLzE4LmpwZx8DBQMxNTBkAgkPZBYCAgEPFgIfAQUwaHR0cDovL2dyb2NlcnkuZ2VhbnRvbmxpbmUuYWUvbS0yMTQxLWNhc2luby5hc3B4FgICAQ8WBB8CBT9odHRwOi8vZ3JvY2VyeS5nZWFudG9ubGluZS5hZS9pbWFnZXMvbWFudWZhY3R1cmVyL2ljb24vMjE0MS5qcGcfAwUDMTUwZAIKD2QWAgIBDxYCHwEFLmh0dHA6Ly9ncm9jZXJ5LmdlYW50b25saW5lLmFlL20tMjI5OS1lbGFuLmFzcHgWAgIBDxYEHwIFP2h0dHA6Ly9ncm9jZXJ5LmdlYW50b25saW5lLmFlL2ltYWdlcy9tYW51ZmFjdHVyZXIvaWNvbi8yMjk5LmpwZx8DBQMxNTBkAgsPZBYCAgEPFgIfAQUuaHR0cDovL2dyb2NlcnkuZ2VhbnRvbmxpbmUuYWUvbS0yMzA3LWd5bWEuYXNweBYCAgEPFgQfAgU/aHR0cDovL2dyb2NlcnkuZ2VhbnRvbmxpbmUuYWUvaW1hZ2VzL21hbnVmYWN0dXJlci9pY29uLzIzMDcuanBnHwMFAzE1MGQCDA9kFgICAQ8WAh8BBS9odHRwOi8vZ3JvY2VyeS5nZWFudG9ubGluZS5hZS9tLTIzMTctaGVpbnouYXNweBYCAgEPFgQfAgU/aHR0cDovL2dyb2NlcnkuZ2VhbnRvbmxpbmUuYWUvaW1hZ2VzL21hbnVmYWN0dXJlci9pY29uLzIzMTcuanBnHwMFAzE1MGQCDQ9kFgICAQ8WAh8BBSVodHRwOi8vd3d3LmdlYW50b25saW5lLmFlL20tMy1sZy5hc3B4FgICAQ8WBB8CBThodHRwOi8vd3d3LmdlYW50b25saW5lLmFlL2ltYWdlcy9tYW51ZmFjdHVyZXIvaWNvbi8zLmpwZx8DBQMxNTBkAg4PZBYCAgEPFgIfAQUqaHR0cDovL3d3dy5nZWFudG9ubGluZS5hZS9tLTUtc2Ftc3VuZy5hc3B4FgICAQ8WBB8CBThodHRwOi8vd3d3LmdlYW50b25saW5lLmFlL2ltYWdlcy9tYW51ZmFjdHVyZXIvaWNvbi81LmpwZx8DBQMxNTBkAg8PZBYCAgEPFgIfAQUtaHR0cDovL3d3dy5nZWFudG9ubGluZS5hZS9tLTctYmxhY2tiZXJyeS5hc3B4FgICAQ8WBB8CBThodHRwOi8vd3d3LmdlYW50b25saW5lLmFlL2ltYWdlcy9tYW51ZmFjdHVyZXIvaWNvbi83LmpwZx8DBQMxNTBkZPfiYs7UaYbG+0DUjVn5c8UaezlF">
 
 
 <script src="jscripts/formvalidate.js" type="text/javascript"></script>
 <script src="jscripts/core.js" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=qL3mPh8bXgi_AHCSVpgkMte8gCkw7bnstDnuZZ2iPne6W8FvgCI5f7Pash-zjRI8ZLO2roebLj2htVOZrVOF1t_wTuzywxfriHiOl9RC57n7JGNOIiKLS06y0E82SPB73nD97gX2-Nx4FOgdnUpa3UuPlom9bOrg38VEpcvcaesYUFmZ0&amp;t=fffffffff9d85fa6" type="text/javascript"></script>
-<script type="text/javascript">
-//<![CDATA[
-if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
-//]]>
-</script>
-
+<script src="/ScriptResource.axd?d=T0iqGjw7GAQoNE2jEtX4ncGSmPE-HrFOziEsmZh5xBEXP5aGiXiI3lK2bmCYbRTQ06bgtbqtIdMtx9zEnOw-dMa44fgPtpPQU-bv86TCqsltlVdomipqkSDw_EOKYj7Jt2BBrG339XQAKFaWqU3676nz1hs1&amp;t=fffffffff9d85fa6" type="text/javascript"></script>
 
 
         
@@ -278,7 +380,24 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                         <li class="jqActivetop"><a href="http://blog.geantonline.ae">Blog</a></li>
                         <li class="jqActivetop"><a href="http://www.geantonline.ae/ContactUs.aspx">Contact Us</a></li>
                         <li class="jqActivetop"><a href="http://www.geantonline.ae/t-faq.aspx" id="ctl00_A7">FAQs</a></li>
-                        <li class="jqActivetop"><a href="account.aspx">My Account</a></li>
+                        <li class="jqActivetop myaccount"><a href="account.aspx">My Account</a>
+                            <div class="drop">
+                                        <ul>
+                                            <li class="sub"><a href="http://grocery.geantonline.ae" title="">Grocery</a>
+                                                <ul class="sub-drop toggle2">
+                                                    <li><a href="http://grocery.geantonline.ae/wishlist.aspx">My Grocery Favorites</a></li>
+                                                    <li><a href="http://grocery.geantonline.ae/PreviousGroceryOrders.aspx">My Grocery Previous Orders</a></li>
+                                                </ul>
+                                            </li>
+                                            <li class="sub"><a href="http://www.geantonline.ae" title="">Direct</a>
+                                                <ul class="sub-drop toggle2">
+                                                    <li><a href="http://www.geantonline.ae/wishlist.aspx">My Direct Favorites</a></li>
+                                                    <li><a href="http://www.geantonline.ae/PreviousGroceryOrders.aspx">My Direct Previous Orders</a></li>
+                                                </ul>
+                                            </li>
+                                        </ul>
+                                    </div>
+                        </li>
                         <li class="toolchild" id="login"></li>
                         <li class="toolchild" id="minicart"></li>
 
@@ -295,7 +414,24 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                                 <li class="jqActivetop"><a href="http://blog.geantonline.ae">Blog</a></li>
                                 <li class="jqActivetop"><a href="http://www.geantonline.ae/ContactUs.aspx">Contact Us</a></li>
                                 <li class="jqActivetop"><a href="http://www.geantonline.ae/t-faq.aspx" id="ctl00_A1">FAQs</a></li>
-                                <li class="jqActivetop"><a href="account.aspx">My Account</a></li>
+                                <li class="jqActivetop myaccount"><a href="account.aspx">My Account</a>
+                                    <div class="drop">
+                                        <ul>
+                                            <li class="sub"><a href="http://grocery.geantonline.ae" title="">Grocery</a>
+                                                <ul class="sub-drop toggle2">
+                                                    <li><a href="http://grocery.geantonline.ae/wishlist.aspx">My Grocery Favorites</a></li>
+                                                    <li><a href="http://grocery.geantonline.ae/PreviousGroceryOrders.aspx">My Grocery Previous Orders</a></li>
+                                                </ul>
+                                            </li>
+                                            <li class="sub"><a href="http://www.geantonline.ae" title="">Direct</a>
+                                                <ul class="sub-drop toggle2">
+                                                    <li><a href="http://www.geantonline.ae/wishlist.aspx">My Direct Favorites</a></li>
+                                                    <li><a href="http://www.geantonline.ae/PreviousGroceryOrders.aspx">My Direct Previous Orders</a></li>
+                                                </ul>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </li>
                                 <li id="ctl00_Anonymoususer">
 
                                     <a href="/signin.aspx">
@@ -338,7 +474,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                     
          <div class="banner">
              
-                            <a href="http://www.geantonline.ae/t-prizes.aspx" target="_parent"> <img width="468" height="60" src="/AppImages/Banner/Thumbnail/2574.png"></a>
+                            <a href="http://www.geantonline.ae/Search.aspx?k=iphone%205s" target="_parent"> <img width="468" height="60" class="lazy" src="/images/LazyImage.gif" data-original="http://www.geantonline.ae/AppImages/Banner/Thumbnail/3852.png"></a>
   
 
          
@@ -375,7 +511,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 <div id="main-nav">
   <div class="holder">
     <ul>
-      <li class="jqActive active Geant-Guy"><a class="c_p1r20px" id="homelink" href="http://www.geantonline.ae/">Welcome </a></li>
+      <li class="jqActive Geant-Guy"><a class="c_p1r20px active" id="homelink" href="http://www.geantonline.ae/">Welcome<span class=" arrow"></span></a></li>
       <!--<li class="jqActive"> <a href="#">Back to School</a>
         <div class="drop small-menu c_w320px c_r240px  ">
           <div class="c">
@@ -389,13 +525,15 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
           <div class="c">
             <div class="columns">
               <div class="column"> <strong class="title"><a href="http://grocery.geantonline.ae/c-27435-food-cupboard.aspx">Food Cupboard</a></strong> <strong class="title"><a href="http://grocery.geantonline.ae/c-27479-beverage.aspx">Beverage</a></strong> <strong class="title"><a href="http://grocery.geantonline.ae/c-27303-fresh-choice.aspx">FRESH CHOICE</a></strong>
+              
+               <strong class="title"><a href="http://grocery.geantonline.ae/c-28506-organic-grocery.aspx" style="color:#49AD01 !important;">ORGANIC GROCERY</a></strong>
                 
               </div>
               <div class="column"> <strong class="title"><a href="http://grocery.geantonline.ae/c-27380-frozen.aspx">FROZEN</a></strong> <strong class="title"><a href="http://grocery.geantonline.ae/c-27342-health-and-beauty.aspx&#10;">HEALTH AND BEAUTY</a></strong> <strong class="title"><a href="http://grocery.geantonline.ae/c-27491-household.aspx">HOUSEHOLD</a></strong> </div>
               
               <!-- end img --> 
             </div>
-            <div class="img FoodImg"> <img src="Style/Skin_3/images/Main-HomePage/Grocery-Menu.png" alt="#"> </div>
+            <div class="img FoodImg"> <img src="Style/Skin_3/images/Main-HomePage/Grocery-Menu.png" alt="#" height="123" width="218"> </div>
           </div>
           <!-- end c -->
           <div class="b"></div>
@@ -414,7 +552,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
               <!-- end c --> 
               
             </div>
-            <div class="img FoodImg"> <img src="Style/Skin_3/images/Main-HomePage/Direct-Menu.png" alt="#"> </div>
+            <div class="img FoodImg"> <img src="Style/Skin_3/images/Main-HomePage/Direct-Menu.png" alt="#" height="123" width="218"> </div>
           </div>
           <div class="b"></div>
         </div>
@@ -440,11 +578,11 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
           <div class="b"></div>
         </div> --> 
       </li>
-      <li class="jqActive"> <a class="c_p1r20px" href="#">Our Brands</a>
+      <li class="jqActive last-child"> <a class="c_p1r20px" href="#">Our Brands</a>
         <div class="drop sec-menu  c_r15px c_w270px">
           <div class="c">
             <div class="box c_fleft"> <strong class="title"><a href="http://grocery.geantonline.ae/m-2299-elan.aspx" title="Elan Products">Elan</a></strong> <strong class="title"><a href="http://grocery.geantonline.ae/m-2141-casino.aspx" title="Casino Products">Casino</a></strong> </div>
-            <div class="img c_brands-img"> <img src="Style/Skin_3/images/our-brands.jpg" alt="#"> </div>
+            <div class="img c_brands-img"> <img src="Style/Skin_3/images/our-brands.jpg" alt="#" height="86" width="100"> </div>
           </div>
         </div>
       </li>
@@ -458,20 +596,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 
 <div class="Menu-Seperate"></div>
 
-            <div class="livechat">
-<div id="">
-    	<!--- add the live support chat button  -->
-				<script src="/CuteSoft_Client/CuteChat/Support-Image-Button.js.aspx"></script>
-				
-				<!--- add the live support visitor monitor tag  -->
-				<script src="/CuteSoft_Client/CuteChat/Support-Visitor-monitor.js.aspx"></script>
-
- 
-				
-
-</div>
-
-</div>
+            
             <!-- end main-nav -->
 
             
@@ -692,8 +817,8 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
         
             <li>
 
-                <a href="http://www.geantonline.ae/m-4-acer.aspx" id="ctl00_footerSlider_FooterSliderRepeater_ctl14_itemlink">
-                    <img src="http://www.geantonline.ae/images/manufacturer/icon/4.jpg" id="ctl00_footerSlider_FooterSliderRepeater_ctl14_itemimage" height="93" width="150">
+                <a href="http://www.geantonline.ae/m-5-samsung.aspx" id="ctl00_footerSlider_FooterSliderRepeater_ctl14_itemlink">
+                    <img src="http://www.geantonline.ae/images/manufacturer/icon/5.jpg" id="ctl00_footerSlider_FooterSliderRepeater_ctl14_itemimage" height="93" width="150">
                 </a>
 
             </li>
@@ -702,28 +827,8 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
         
             <li>
 
-                <a href="http://grocery.geantonline.ae/m-4447-kelloggs.aspx" id="ctl00_footerSlider_FooterSliderRepeater_ctl15_itemlink">
-                    <img src="http://grocery.geantonline.ae/images/manufacturer/icon/4447.jpg" id="ctl00_footerSlider_FooterSliderRepeater_ctl15_itemimage" height="93" width="150">
-                </a>
-
-            </li>
-
-            
-        
-            <li>
-
-                <a href="http://www.geantonline.ae/m-5-samsung.aspx" id="ctl00_footerSlider_FooterSliderRepeater_ctl16_itemlink">
-                    <img src="http://www.geantonline.ae/images/manufacturer/icon/5.jpg" id="ctl00_footerSlider_FooterSliderRepeater_ctl16_itemimage" height="93" width="150">
-                </a>
-
-            </li>
-
-            
-        
-            <li>
-
-                <a href="http://www.geantonline.ae/m-7-blackberry.aspx" id="ctl00_footerSlider_FooterSliderRepeater_ctl17_itemlink">
-                    <img src="http://www.geantonline.ae/images/manufacturer/icon/7.jpg" id="ctl00_footerSlider_FooterSliderRepeater_ctl17_itemimage" height="93" width="150">
+                <a href="http://www.geantonline.ae/m-7-blackberry.aspx" id="ctl00_footerSlider_FooterSliderRepeater_ctl15_itemlink">
+                    <img src="http://www.geantonline.ae/images/manufacturer/icon/7.jpg" id="ctl00_footerSlider_FooterSliderRepeater_ctl15_itemimage" height="93" width="150">
                 </a>
 
             </li>
@@ -817,7 +922,21 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
     
 
     
-
+    <!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+    _atrk_opts = { atrk_acct: "m8mOh1aIE700a6", domain: "geantonline.ae", dynamic: true };
+    (function () { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=m8mOh1aIE700a6" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->
+<script type="text/javascript">
+    setTimeout(function () {
+        var a = document.createElement("script");
+        var b = document.getElementsByTagName("script")[0];
+        a.src = document.location.protocol + "//dnn506yrbagrg.cloudfront.net/pages/scripts/0018/4413.js?" + Math.floor(new Date().getTime() / 3600000);
+        a.async = true; a.type = "text/javascript"; b.parentNode.insertBefore(a, b)
+    }, 1);
+</script>
 
 
 <script type="text/javascript">
