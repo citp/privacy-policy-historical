@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eoem.cc privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110201725id_/http%3A//www.eoem.cc/about%2C22-Privacy%2BPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eoem.cc privacy policy that was archived on 2013-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130926201343id_/http%3A//www.eoem.cc/article.php%3Fid%3D22) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy_Detail Info_Information_Apple iPhone Accessories,wholesale power bank,Samsung Accessories from China wholesalers!
 
   **Last modified: August 8, 2008**
 
@@ -10,20 +10,20 @@ If you have any questions about this Privacy Policy, please feel free to contact
 
 EOEM CO., LTD   
 B3 7/F, Mirador Mansion 58 Nathan Road, Tsim Sha Tsui,Kowloon  
-Hong Kong    
+Hong Kong  
 
-**Information we collect and how we use it**
+ **Information we collect and how we use it**
 
 We offer a number of services that do not require you to register for an account or provide any personal information to us, In order to provide our full range of services, we may collect the following types of information:
 
-  * **Information you provide** – When you sign up for a Eoem Account that requires registration, we ask you for personal information (such as your name, email address and an account password). For certain services, we also request credit card or other payment account information which we maintain in encrypted form on secure servers. We may combine the information you submit under your account with information in order to provide you with a better experience and to improve the quality of our services.
+  *  **Information you provide** – When you sign up for a Eoem Account that requires registration, we ask you for personal information (such as your name, email address and an account password). For certain services, we also request credit card or other payment account information which we maintain in encrypted form on secure servers. We may combine the information you submit under your account with information in order to provide you with a better experience and to improve the quality of our services.
 
-  * **Log information** – When you access eoem services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
-  * **User communications** – When you send email to Us, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.
+  *  **Log information** – When you access eoem services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
+  *  **User communications** – When you send email to Us, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.
 
 
 
-**Choices for personal information**
+ **Choices for personal information**
 
 When you sign up for a particular service that requires registration, we ask you to provide personal information. If we use this information in a manner different than the purpose for which it was collected, then we will ask for your consent prior to such use.
 
@@ -31,7 +31,7 @@ If we propose to use personal information for any purposes other than those desc
 
 You can decline to submit personal information to any of our services, in which case we may not be able to provide those services to you.
 
-**Information security**
+ **Information security**
 
 We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.
 
