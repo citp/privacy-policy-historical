@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livingresearchinstitute.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530081400id_/http%3A//livingresearchinstitute.com/%3Fpage_id%3D61) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livingresearchinstitute.com privacy policy that was archived on 2013-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130926215850id_/http%3A//livingresearchinstitute.com/%3Fpage_id%3D61) for the most accurate reproduction.*
 
 # Privacy Policy | Living Research Institute
 
