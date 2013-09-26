@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justplug.it privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515111252id_/http%3A//justplug.it/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justplug.it privacy policy that was archived on 2013-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130927015800id_/http%3A//www.justplug.it/privacy.html) for the most accurate reproduction.*
 
 # JustPlugIt | Privacy Policy
 
@@ -6,7 +6,7 @@ This website (the "Site") and the services/products/software provided herein (th
 
 This Privacy Policy is part of our Terms and conditions available at:
 
-[Terms of service](https://web.archive.org/web/20130515111252id_/http%3A//justplug.it/terms.html)
+[Terms of service](https://web.archive.org/web/20130927015800id_/http%3A//www.justplug.it/terms.html)
 
 If you choose to enter our Site and use our Services you will be bound by the terms of this Privacy Policy and our Terms and Conditions.
 
