@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joomlabear.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605164823id_/http%3A//joomlabear.com/Latest/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomlabear.com privacy policy that was archived on 2013-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130926094326id_/http%3A//joomlabear.com/Latest/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy-Joomla Bear
 
@@ -32,7 +32,7 @@ Free porn Movies, HD porn tube [gratis porno](http://www.wichstube.com/ "gratis 
 
 ### Who's Online
 
-We have 189 guests and 7 bears online 
+We have 185 guests and 5 bears online 
 
 ### Joomla Template Blog
 
