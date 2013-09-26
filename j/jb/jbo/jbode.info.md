@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jbode.info privacy policy that was archived on 2013-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130316083716id_/http%3A//jeffbode.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jbode.info privacy policy that was archived on 2013-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130926204204id_/http%3A//jeffbode.com/privacy.php) for the most accurate reproduction.*
 
 # Jeff Bode | Internet Marketing
 
@@ -26,6 +26,6 @@
 
 10\. Changes to Privacy Policy. If our Privacy Policy or procedures change, we will immediately post those changes to our website. Any such changes will be effective immediately upon being posted, unless otherwise stated in the change.
 
-11\. Effective Date. This Privacy Policy is effective as of March 16, 2013.
+11\. Effective Date. This Privacy Policy is effective as of September 26, 2013.
 
 12\. Contact E-Mail. You may contact us concerning this Privacy Policy at the following e-mail address: jefbode@gmail.com
