@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glyde.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606125229id_/http%3A//glyde.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glyde.com privacy policy that was archived on 2013-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130926043010id_/http%3A//glyde.com/privacy) for the most accurate reproduction.*
 
 # Glyde: Simply buy and sell your games, iPads, iPhones and more
 
