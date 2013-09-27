@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the alive.com privacy policy that was archived on 2013-05-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130526143524id_/http%3A//www.alive.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the alive.com privacy policy that was archived on 2013-09-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130927120927id_/http%3A//www.alive.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -12,7 +12,7 @@
 				<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://www.google.com/jsapi" type="text/javascript"></script>
 		<script type="text/javascript">
 		    //<![CDATA[
-				google.load("jquery", '1.4.2');
+				google.load("jquery", '1.7.1');
 		    	google.load("jqueryui", '1.8.1');
 		    //]]>
 		</script>
@@ -41,7 +41,7 @@
 		<script src="http://www.alive.com/public/js/jquery.validate.min.js" type="text/javascript" charset="utf-8"></script>
 		<script src="http://www.alive.com/public/js/jquery.metadata.js" type="text/javascript" charset="utf-8"></script>
 		<script src="http://www.alive.com/public/js/jquery.placeholder.js" type="text/javascript" charset="utf-8"></script>
-		
+
 						
 				<script src="http://www.alive.com/public/js/jquery.purr.js" type="text/javascript" charset="utf-8"></script>
 		<link rel="stylesheet" href="http://www.alive.com/public/css/purr.css" type="text/css" media="screen" title="no title" charset="utf-8">
@@ -82,7 +82,7 @@
 					//$rhsAd.append('<img src="http://www.alive.com/public/images/300x250.jpg" />');
 					$('#adheader').remove();
 					$rhsAd.remove();
-								
+				
 			});
 			
 			
@@ -126,8 +126,37 @@
 			
 			
 		</script>
-		
-				<link href="http://www.alive.com/public/css/style.css" rel="stylesheet" type="text/css" media="screen">		
+
+        <script src="http://www.alive.com/public/js/select2.js" type="text/javascript" charset="utf-8"></script>
+
+        <script type="text/javascript">
+            $(document).ready(function(){
+                function format(country) {
+                    return "<img class='flag' src='http://www.alive.com/public/images/flags/" + country.id.toLowerCase() + ".gif'/>";
+                }
+
+                function selectedformat(country) {
+                    return "<img class='flag-selected' src='http://www.alive.com/public/images/flags/" + country.id.toLowerCase() + ".gif'/>";
+                }
+
+                $("#countryDropdown").select2({
+                    formatResult: format,
+                    formatSelection: selectedformat,
+                    allowClear: false,
+                    placeholder: "Filter",
+                    width:"off",
+                    minimumResultsForSearch: 10
+                });
+
+                $('#countryDropdown').change(function(e){
+                    e.preventDefault();
+                    $(this).closest('form').submit();
+                });
+            });
+        </script>
+
+        <link href="http://www.alive.com/public/css/select2/select2.css" rel="stylesheet" type="text/css" media="screen">
+				<link href="http://www.alive.com/public/css/style.css" rel="stylesheet" type="text/css" media="screen">
 						
 				<script type="text/javascript"> 
 
@@ -152,41 +181,52 @@
 			<div id="header">
 				<div id="pre-menu">
 					<div id="logo">
-						<a href="http://www.alive.com/" title="alive Logo" rel="alive Logo">
-							<img src="http://www.alive.com/public/images/logo.png" title="alive Logo" rel="alive Logo" alt="alive Logo">
-						</a>
-						<p id="slogan">your <b>complete source</b> for natural health and wellness</p>
-					</div>
+												 <!-- Default logo for everyone else -->
+							<a href="http://www.alive.com/" title="alive Logo" rel="alive Logo">
+								<img src="http://www.alive.com/public/images/logo.png" title="alive Logo" rel="alive Logo" alt="alive Logo">
+							</a>
+							<p id="slogan">your <b>complete source</b> for natural health and wellness</p>
+											</div>
 					<div id="features-right">
 						<div id="menu-right">
 							<ul id="menu-right-list">
-								<li><a href="http://www.alive.com/newsletter" class="top-link" title="Join alive Magazine newsletter">join newsletter</a></li>
-								<li><a href="https://ca.alive.com" class="top-link" title="Subscribe to alive Magazine">subscribe</a></li>
-								<li>
+                                <li>
+                                    <form action="http://www.alive.com/home/changeCountry" method="post" accept-charset="utf-8">                                        
+<input type="hidden" name="current_url" value="privacy">
+                                        
+<input type="hidden" name="query_string" value="">
+                                        <select id="countryDropdown" name="country">
+                                            <option value="CANADA" selected="selected">Canada</option>
+                                            <option value="AUSTRALIA">Australia</option>
+                                        </select>
+                                    </form>                                </li>
+								<li class="li-special"><a href="http://www.alive.com/newsletter" class="top-link" title="Join alive Magazine newsletter">join newsletter</a></li>
+																	<li class="li-special"><a href="https://ca.alive.com" class="top-link" title="Subscribe to alive Magazine">subscribe</a></li>
+																<li class="li-special">
 									
-																											<a href="http://www.alive.com/auth/login" class="top-link" title="Sign in to alive">sign in</a>
-									<form action="http://www.alive.com/auth/login" method="post" accept-charset="utf-8">									<ul id="sign-in" class="sub-menu-mod">
-										<li>
-											<label for="email" class="label-login">EMAIL</label>
-											<input type="text" name="login" value="" id="login" maxlength="80" class="login-text">										</li>
-										<li>
-											<label for="password" class="label-login">PASSWORD</label>
-											<input type="password" name="password" value="" id="password" class="login-text">											<label>
-												<input type="checkbox" name="remember" class="checkbox-default" value="1">
-											Remember Me</label>
-										</li>
-										<li>
-											<input type="submit" name="submit" value="LOG IN" id="submit-button">
-										</li>
-										<li>
-											<a class="white-link" href="http://www.alive.com/auth/forgot_password">FORGOT PASSWORD?</a>
-										</li>
-										<li>
-											NOT A MEMBER?<br>
-											<a href="http://www.alive.com/auth/register" class="white-link">CLICK HERE TO REGISTER</a>
-										</li>
-									</ul>
-									</form>																	</li>
+																		                                        <a href="http://www.alive.com/auth/login" class="top-link" title="Sign in to alive">sign in</a>
+                                        <form action="http://www.alive.com/auth/login" method="post" accept-charset="utf-8">                                            <ul id="sign-in" class="sub-menu-mod">
+                                                <li>
+                                                    <label for="email" class="label-login">EMAIL</label>
+                                                    <input type="text" name="login" value="" id="login" maxlength="80" class="login-text">                                                </li>
+                                                <li>
+                                                    <label for="password" class="label-login">PASSWORD</label>
+                                                    <input type="password" name="password" value="" id="password" class="login-text">                                                    <label>
+                                                        <input type="checkbox" name="remember" class="checkbox-default" value="1">
+                                                    Remember Me</label>
+                                                </li>
+                                                <li>
+                                                    <input type="submit" name="submit" value="LOG IN" id="submit-button">
+                                                </li>
+                                                <li>
+                                                    <a class="white-link" href="http://www.alive.com/auth/forgot_password">FORGOT PASSWORD?</a>
+                                                </li>
+                                                <li>
+                                                    NOT A MEMBER?<br>
+                                                    <a href="http://www.alive.com/auth/register" class="white-link">CLICK HERE TO REGISTER</a>
+                                                </li>
+                                            </ul>
+                                        </form>                                    								</li>
 							</ul>
 							<div class="clear"></div>
 						</div>
@@ -309,20 +349,20 @@
 		<div id="video-content">
 									<div class="video-container">
 				<div class="video-thumb" style="background:none;text-align:center">
-					<a class="play-button" href="http://www.alive.com/videos/view/116/mediterranean_lima_bean_salmon_salad"></a>
-					<img src="http://img.youtube.com/vi/ZUneYV9W9Oc/2.jpg" style="width:120px">
+					<a class="play-button" href="http://www.alive.com/videos/view/130/homemade_hazlenut_oak_milk"></a>
+					<img src="http://img.youtube.com/vi/zU3HgOmp_l0/2.jpg" style="width:120px">
 				</div>
 				<div class="video-title">
-					<div class="video-name" onclick="javascript:window.location.href='http://www.alive.com/videos/view/116/mediterranean_lima_bean_salmon_salad'">Mediterranean Lima Bean Salmon Salad</div>
+					<div class="video-name" onclick="javascript:window.location.href='http://www.alive.com/videos/view/130/homemade_hazlenut_oak_milk'">Homemade Hazlenut Oak Milk</div>
 									</div>
 			</div>
 						<div class="video-container">
 				<div class="video-thumb" style="background:none;text-align:center">
-					<a class="play-button" href="http://www.alive.com/videos/view/115/macadamia_nut_curried_mayo_with_cabbage_slaw"></a>
-					<img src="http://img.youtube.com/vi/zk5t6OyNcSo/2.jpg" style="width:120px">
+					<a class="play-button" href="http://www.alive.com/videos/view/129/rainbow_chicken_salad"></a>
+					<img src="http://img.youtube.com/vi/9Z2r2hfFHlU/2.jpg" style="width:120px">
 				</div>
 				<div class="video-title">
-					<div class="video-name" onclick="javascript:window.location.href='http://www.alive.com/videos/view/115/macadamia_nut_curried_mayo_with_cabbage_slaw'">Macadamia Nut Curried Mayo with Cabbage Slaw</div>
+					<div class="video-name" onclick="javascript:window.location.href='http://www.alive.com/videos/view/129/rainbow_chicken_salad'">Rainbow Chicken Salad</div>
 									</div>
 			</div>
 						<div class="clear"></div>
@@ -340,18 +380,19 @@
 		<div id="ad300">
 		</div>
 	</div>
-	</div>		<div id="find-retailer">
-	<div class="section-header-wrap-mod">
-		<div class="section-header-pink">FIND A NATURAL HEALTH RETAILER</div>
-		<div class="clear"></div>
-	</div>
-	<div id="find-retailer-inner">
-		<div id="find-retailer-left">
-			<img src="http://www.alive.com/public/images/temp-retail-pic.png">
+	</div>		
+	<div id="find-retailer">
+		<div class="section-header-wrap-mod">
+			<div class="section-header-pink">FIND A NATURAL HEALTH RETAILER</div>
+			<div class="clear"></div>
 		</div>
-		<div id="find-retailer-right">
-			<form action="http://www.alive.com/locations/findRetailers" method="post" accept-charset="utf-8" id="findaretailer">						<label for="province" class="form-labels">Province</label>
-			<select name="province">
+		<div id="find-retailer-inner">
+			<div id="find-retailer-left">
+				<img src="http://www.alive.com/public/images/temp-retail-pic.png">
+			</div>
+			<div id="find-retailer-right">
+				<form action="http://www.alive.com/locations/findRetailers" method="post" accept-charset="utf-8" id="findaretailer">								<label for="province" class="form-labels">Province</label>
+				<select name="province">
 <option value="AB">Alberta</option>
 <option value="BC" selected="selected">British Columbia</option>
 <option value="MB">Manitoba</option>
@@ -365,19 +406,18 @@
 <option value="ON">Ontario</option>
 <option value="QC">Quebec</option>
 <option value="YT">Yukon</option>
-</select>			<label for="postal_code" class="form-labels" style="margin-top: 5px;">Postal Code</label>
-			<input name="postal_code" type="text" class="required" id="postal-code">
-			<input type="submit" value="SEARCH" class="general-button">
-			</form>		</div>
-		<div class="clear"></div>
-	</div>
-	<a href="http://www.alive.com/aliveaustralia" style="text-decoration: none;">
-		<div class="pink-full-button">Looking for Australian Retailers?<br>CLICK HERE</div>		
-	</a>
-</div>		
+</select>				<label for="postal_code" class="form-labels" style="margin-top: 5px;">Postal Code</label>
+				<input name="postal_code" type="text" class="required" id="postal-code">
+				<input type="submit" value="SEARCH" class="general-button">
+				</form>			</div>
+			<div class="clear"></div>
+		</div>
+			</div>
+
+		
 				<div id="newsletter">
 			<a id="internalad_6" class="internalad" target="_blank" href="http://alive.com/awards/">
-				<img src="http://www.alive.com/timthumb.php?src=http://www.alive.com/uploads/baa2388de07728d69e2612fd31ab9292.png&amp;q=100&amp;w=300&amp;zc=1" title="" alt="">
+				<img src="http://www.alive.com/timthumb.php?src=http://www.alive.com/uploads/c89888dbc4858862df53aae945b244be.jpg&amp;q=100&amp;w=300&amp;zc=1" title="" alt="">
 			</a>
 		</div>
 					
@@ -401,11 +441,10 @@
 			<div id="footer">
 				<ul id="footer-menu">
 					<li><a href="http://www.alive.com/about" class="footer-link">about us</a></li>
-					<li><a href="http://www.alive.com/aliveaustralia" class="footer-link">alive australia</a></li>
-					<li><a href="http://www.alive.com/awards/index" class="footer-link">awards</a></li>
+										<li><a href="http://www.alive.com/awards/index" class="footer-link">awards</a></li>
 					<li><a href="http://www.alive.com/contact" class="footer-link">contact</a></li>
-					<li><a href="https://ca.alive.com/" class="footer-link">subscribe</a></li>
-					<li><a href="http://www.alive.com/advertise" class="footer-link">advertise</a></li>
+											<li><a href="https://ca.alive.com/" class="footer-link">subscribe</a></li>
+										<li><a href="http://www.alive.com/advertise" class="footer-link">advertise</a></li>
 					<li><a href="http://www.alive.com/privacy" class="footer-link">privacy policy</a></li>
 					<li><a href="http://www.alive.com/sitemap" class="footer-link">site map</a></li>
 				</ul>
