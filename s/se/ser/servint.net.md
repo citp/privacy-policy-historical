@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the servint.net privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606130056id_/http%3A//www.servint.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the servint.net privacy policy that was archived on 2013-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130927223438id_/http%3A//www.servint.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy and Copyright Notice | ServInt | www.servint.net
 
