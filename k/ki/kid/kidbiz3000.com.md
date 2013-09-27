@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidbiz3000.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508005933id_/http%3A//www.achieve3000.com/article/a3k/%3Fc%3D13) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidbiz3000.com privacy policy that was archived on 2013-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130927033731id_/http%3A//www.achieve3000.com/article/a3k/%3Fc%3D13) for the most accurate reproduction.*
 
 # Privacy Policy
 
