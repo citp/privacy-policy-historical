@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imghorny.biz privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623035322id_/http%3A//imghorny.biz/content-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imghorny.biz privacy policy that was archived on 2013-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130927072822id_/http%3A//imghorny.biz/content-privacy.html) for the most accurate reproduction.*
 
 # 100% Horny, 100% Fun worldwide -
 
