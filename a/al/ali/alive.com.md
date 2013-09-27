@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alive.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526143524id_/http%3A//www.alive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alive.com privacy policy that was archived on 2013-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130927120927id_/http%3A//www.alive.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | alive
 
