@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the numisone.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501000714id_/https%3A//securedcontent.net/Numis/BBS/FreeSilverNow/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the numisone.com privacy policy that was archived on 2013-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130927143601id_/https%3A//securedcontent.net/Numis/BBS/FreeSilverNow/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
