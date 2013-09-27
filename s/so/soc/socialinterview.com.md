@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialinterview.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620154007id_/http%3A//www.socialinterview.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialinterview.com privacy policy that was archived on 2013-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130927075443id_/http%3A//www.socialinterview.com/privacy.htm) for the most accurate reproduction.*
 
 # Social Interview Privacy Policy
 
@@ -83,7 +83,7 @@ Onoko processes Personal Information on our servers in Hong Kong and in other co
 
 Onoko complies with the Hong Kong Personal Data Protection Ordinance (Cap. 486) ("HKPDPO") and will handle your Personal Information in compliance with the requirements of the HKDPO.
 
-Under the HKPDPO you have a right to request access to, and correction of, your Personal Information.  If you wish to exercise this right at any time, please make the request in accordance with the procedures specified in the HKPDPO and address it to [Mr. Kevin Chiu] at Onoko's address listed above.
+Under the HKPDPO you have a right to request access to, and correction of, your Personal Information.  If you wish to exercise this right at any time, please make the request in accordance with the procedures specified in the HKPDPO and address it to [Mr. Janakan Arulkumarasan] at Onoko's address listed above.
 
 Please note that if you choose to exercise this right Onoko will charge a reasonable administrative fee to cover the handling of your request, and may defer processing your request until receipt of this fee.
 
