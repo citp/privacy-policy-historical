@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the launchrock.com privacy policy that was archived on 2013-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130304091824id_/http%3A//www.launchrock.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the launchrock.com privacy policy that was archived on 2013-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130927035546id_/http%3A//launchrock.co/privacy) for the most accurate reproduction.*
 
-# LaunchRock - Set up a "Launching Soon" page in minutes - Privacy
+# LaunchRock.co | Privacy Policy
 
-Last Updated: February 8, 2011 
+Last Updated: March 4th, 2013
 
-Overview
+### Overview
 
 LaunchRock ("we", "us" or "our") is committed to protecting the privacy of personal information of individuals who visit the www.launchrock.com website (the "Site") and use the services available thereon (the "Services"). Amendments to this Privacy Policy will be posted to the Site and will be effective when posted. Your continued use of the Services following the posting of any amendment to the Privacy Policy shall constitute your acceptance of such amendment. You should periodically review this Privacy Policy and check the "Last Updated" date at the top of the document to familiarize yourself with the most recent version of this Privacy Policy.
 
@@ -32,14 +32,14 @@ We may occasionally communicate with you regarding our products, services, news 
 
 Please be aware that, although LaunchRock collects your email address if you have indicated interest in one of our users' launch pages and will provide it to the owner of that launch page so that they may communicate with you about their launch, LaunchRock does not transmit their marketing e-mails and we are not responsible for that person's use of your email address. Our Terms of Service require all users to comply with anti-spam laws (including providing you an ability to opt out or unsubscribe from marketing communications from other users), but we have no control over and have no obligation to monitor their e-mail activities.
 
-Children's Privacy
+### Children's Privacy
 
 We do not knowingly provide the Services to, and will not knowingly collect personal information from, children under the age of thirteen (13) or anyone else under the age of consent.  
 Accessing and Deleting Your Information
 
 When you use our Site, we make good faith efforts to provide You with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. You can access and edit your personal information at any time through the web interface provided as a part of the Services. If you would like to delete your personal information, please contact us. We ask individual users to identify themselves and the information requested to be deleted before processing all such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backups), or for which access is not otherwise required. Please email us at support@launchrock.com with any questions, if you need assistance accessing or changing your personal information, or if you would like to have your personal information deleted. Please be aware that if you delete your personal information, you may not be able to continue to use the Site or the Services.
 
-Sharing Your Information
+### Sharing Your Information
 
 Except as permitted in this Privacy Policy, we do not and will not sell, rent, share or disclose your personal information without first receiving your permission.
 
@@ -51,11 +51,11 @@ Information about our users, including personal information, may be disclosed as
 
 We may also disclose non-personally identifiable information on an aggregated, anonymous basis (see "Aggregated Data" section below) to our business partners, merchants, advertisers, investors, potential buyers and other third parties if we deem such disclosure, in our sole discretion, to have sound business reasons or justifications.
 
-Aggregated Data
+### Aggregated Data
 
 We may also use your personal information and information about your Site activity to generate Aggregated Data for internal use and for sharing with others on a selective basis. "Aggregated Data" means records which have been stripped of information potentially identifying Site users, and which have been manipulated or combined to provide generalized, anonymous information. Aggregated Data will not disclose you as the source or subject of the information.
 
-Links
+### Links
 
 The Site may contain links to other sites and we are not responsible for the privacy or security practices or the content of such sites. We encourage you to read the privacy policies of linked sites. Their privacy policies and practices differ from our policies and practices.
 
@@ -67,11 +67,11 @@ If you do not wish to accept cookies, you can usually set your browser to declin
 
 In addition to cookies, we or our service providers may use web beacons, pixels and similar technologies on our Site and in email messages or newsletters. These tiny electronic images can be used to assist us in determining how many users have visited certain pages or opened messages or newsletters. However, we do NOT use these images to collect personal information.
 
-Your Postings
+### Your Postings
 
 We may provide areas on our Site where you can post information about yourself, communicate with others, post reviews or upload content. Whenever you disclose personal information publicly (such as on publicly viewable web pages), that information becomes public and can be collected and used by others, including for the sending of unsolicited messages. We can't control who reads your posting or what others may do with information you voluntarily post, so we encourage you to use your discretion with respect to posting personal information. Also, such postings are governed by our Terms of Service, so be sure to review them before posting.
 
-Your California Privacy Rights
+### Your California Privacy Rights
 
 A California resident who has provided personal information to a business with whom he/she has established a business relationship for personal, family, or household purposes ("California Customer") is entitled to request information about whether the business has disclosed personal information to any third parties for the third parties' direct marketing purposes. In general, if the business has made such a disclosure of personal information, upon receipt of a request by a California Customer, the business is required to provide a list of all third parties to whom personal information was disclosed in the preceding calendar year, as well as a list of the categories of personal information that were disclosed. California Customers may request this information from LaunchRock by emailing us at support@launchrock.com. Please note that we are only required to respond to one request per customer each year, and we are not required to respond to requests made by means other than through this email address. Please also be aware that not all information sharing is covered by the California requirements and only information on covered sharing will be included in our response.
 
@@ -83,6 +83,6 @@ We will strive to prevent unauthorized access to your personal information; howe
 We strongly recommend that you do not disclose your password to anyone. If you forget your password, we will ask you for your ID and send you an email containing a link that will allow you to reset your password.  
 Please remember that you control what personal information you provide while using the Services. Ultimately, you are responsible for maintaining the secrecy of your identification, passwords and/or any personal information in your possession for the use of the Services. Always be careful and responsible regarding your personal information. We are not responsible for, and cannot control, the use by others of any information which you provide to them, and you should use caution in selecting the personal information you provide to others through the Services. Similarly, we cannot assume any responsibility for the content of any personal information or other information which you receive from other users through the Services, and you release us from any and all liability in connection with the contents of any personal information or other information which you may receive using the Services. We cannot guarantee, or assume any responsibility for verifying, the accuracy of the personal information or other information provided by any third party. You release us from any and all liability in connection with the use of such personal information or other information of others.
 
-Contact Us
+### Contact Us
 
 If you have any questions or suggestions regarding our Privacy Policy, please contact us at support@launchrock.com.
