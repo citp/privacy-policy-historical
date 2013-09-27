@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the playgroundonline.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507170815id_/http%3A//www.playgroundonline.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playgroundonline.com privacy policy that was archived on 2013-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130927231335id_/http%3A//www.playgroundonline.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Playgroundonline: online shopping India | buy sports goods, apparel, shoes, health & fitness, Toys & games.
 
-[**Playgroundonline.com**](http://www.playgroundonline.com/) is a website owned by Playground Sports (India) Private Limited, a company incorporated under the Indian Companies Act, 1956. Wherever the term "Playground" or “Playground Sports” or "Playgroundonline.com" is used it refers to Playground Sports (India) Private Limited, and its subsidiaries, controlled entities, affiliates and related parties. Playground provides the services through www.playgroundonline.com ('Website' or 'Site'). At Playground, we are highly committed to the privacy of your data and information and in providing excellent service to all of our customers and visitors of the Website. We have prepared this Data Protection and Privacy Policy ("Policy") to inform you of the privacy principles that govern this Website. 
+[**Playgroundonline.com**](http://www.playgroundonline.com/)is a website owned by Playground Sports (India) Private Limited, a company incorporated under the Indian Companies Act, 1956. Wherever the term "Playground" or “Playground Sports” or "Playgroundonline.com" is used it refers to Playground Sports (India) Private Limited, and its subsidiaries, controlled entities, affiliates and related parties. Playground provides the services through www.playgroundonline.com ('Website' or 'Site'). At Playground, we are highly committed to the privacy of your data and information and in providing excellent service to all of our customers and visitors of the Website. We have prepared this Data Protection and Privacy Policy ("Policy") to inform you of the privacy principles that govern this Website. 
 
 Unless restricted by applicable law, you agree that all your personal information collected by Playground Sports through the Website may be used and disclosed as set out in this Policy.
 
@@ -22,9 +22,9 @@ At Playground, we are extremely committed to protect your privacy. We would like
 
 We guarantee that we will not rent and sell your personal information to third parties (except as stated in this Policy) without your consent. In the day to day operations, we will provide your information to our partners who will assist in providing our services. Your comfort, trust and confidence are of paramount importance to us.
 
-**What Information is collected from you.**
+ **What Information is collected from you.**
 
-_Profile Information_
+ _Profile Information_
 
 Playground collects the details provided by you on registration (email address, name, password, phone number, address and some profile details and interests) together with information we learn about you from your use of our service and your visits to our Site. We also collect information about the transactions you undertake including details of payments and type of cards used. We will not collect and store information related to your credit cards such as number, expiry date and CVV number.
 
@@ -32,19 +32,19 @@ We may collect additional information in connection with your participation in a
 
 You can terminate your account at any time. However, your information may remain stored in archive on our servers even after the deletion or the termination of your account.
 
-_Anonymous Information_
+ _Anonymous Information_
 
 In addition to the information that you explicitly provide during your interactions on the Site, we will automatically receive and collect certain anonymous information in standard usage logs through our Web server, including computer-identification information obtained from "cookies" sent to your browser from:
 
-  1. web server cookie stored on your hard drive 
+  1. web server cookie stored on your hard drive
   2. an IP address, assigned to the computer which you use
-  3. the domain server through which you access our service 
+  3. the domain server through which you access our service
   4. the type of computer you're using
   5. the type of web browser you're using
 
 
 
-**Who collects the information?**
+ **Who collects the information?**
 
 We collect personal information about you as part of the registration process, which is voluntary. Other means of collecting personal information is through some contests, online events, surveys etc.
 
@@ -54,7 +54,7 @@ Our advertisers and partners may collect their own anonymous information through
 
 Playground Sports understands the importance of protecting children's privacy, especially in an online environment. Our sites are not intentionally designed for or directed at children 18 years of age or younger. It is our policy never to knowingly collect or maintain information about anyone under the age of 18.
 
-**Information Usage**
+ **Information Usage**
 
 We use your personal information to allow it to process your registration, to process any orders that you may make for any products or services displayed on the Website, provide you with improved services, contact you when it is needed by telephone, facsimile and e-mail, and to advise you of products and services which may be of interest to you, inviting you to be a participant or a respondent to an online event that is hosted on Playgroundonline.com. Further, the relevant information is used by Playground Sports to (i) provide you with statements of your account; (ii) to communicate with you on any matter relating to the conduct of your account; and (iii) to communicate the details of any orders / processing of any orders placed by you relating to products displayed on the Website.
 
@@ -68,7 +68,7 @@ Personal data collected by the Website may be transferred to other sites of Play
 
 We use anonymous information like traffic and other data to provide us with information to recognize the access privileges to our Site, track your participation in any of the events, providing you with better content and advertisements, help diagnose the problems with our Site and for the purposes detailed in the Policy.
 
-**Information Sharing and Disclosures**
+ **Information Sharing and Disclosures**
 
 We do not rent, sell or share your personal information to third parties -
 
@@ -91,7 +91,7 @@ If Playground becomes involved in a merger, acquisition, or any form of sale of 
 
 We may share with third parties certain pieces of Aggregate information.
 
-**Information Security**
+ **Information Security**
 
 We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.
 
@@ -101,15 +101,15 @@ Although we endeavour to safeguard the confidentiality of your personally identi
 
 You further agree that you are solely responsible and liable for, and shall indemnify Playground Sports against any and all costs, expenses, damages, fees, etc. that Playground Sports may incur or suffer due to any personal information or other materials that you post, upload, submit, and otherwise make available on the Website, including areas of the Website that are available to the public. We have no control over and cannot protect personal information that you disclose in public areas of the Website. If you disclose your personal information in public areas, it may be collected and used by third parties, without our or your knowledge. You should also understand that by displaying your information or photographs on the Website and the internet, for the intention of showing the information / those photographs to your friends, family, acquaintances, clients, business partners, and others, that you directly intended to see the photographs, you are relinquishing certain traditional privacy rights, wherein anyone with access to the internet has the potential ability to view your information / photographs. If you do not wish to relinquish these traditional privacy rights, do not share your information / photographs.
 
-**Policy Compliance**
+ **Policy Compliance**
 
-[Playgroundonline.com](http://www.playgroundonline.com/) regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or [Playgroundonline.com's](http://www.playgroundonline.com/) treatment of personal information by contacting us through this Website or by e-mailing to us at [info@Playgroundonline.com](mailto:info@Playgroundonline.com). When we receive complaints at this address, it is [ Playgroundonline.com's](http://www.playgroundonline.com/) policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities to resolve any complaints regarding the transfer of personal data that cannot be resolved between [Playgroundonline.com](http://www.playgroundonline.com/) and an individual.
+[Playgroundonline.com](http://www.playgroundonline.com/) regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or [Playgroundonline.com's](http://www.playgroundonline.com/)treatment of personal information by contacting us through this Website or by e-mailing to us at [info@Playgroundonline.com](mailto:info@Playgroundonline.com). When we receive complaints at this address, it is [Playgroundonline.com's](http://www.playgroundonline.com/) policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities to resolve any complaints regarding the transfer of personal data that cannot be resolved between [Playgroundonline.com](http://www.playgroundonline.com/)and an individual.
 
-**Disputes**
+ **Disputes**
 
 Any dispute, controversy or claim directly or indirectly caused by, arising out of or relating to this Policy will be governed by the laws of India and will be referred to confidential, mandatory and binding arbitration in Bangalore, India. The arbitration will be conducted on an expedited basis before a single arbitrator appointed by Playground Sports in accordance with the provisions of the Indian Arbitration and Conciliation Act, 1996. The arbitrator's award shall be substantiated in writing and will be final and binding on you and Playground Sports. Subject to the above, you agree to submit yourself to the exclusive jurisdiction of the Courts in Bangalore, India.
 
-**Your Choices**
+ **Your Choices**
 
 By submitting your information, you consent to the use of that information as set out in this Policy. We welcome your views on this Website and the Policy. However, submitting personally identifiable information is entirely voluntary. You are not required to register with us in order to browse our Site. Please note that we offer some services only to visitors who do register.
 
