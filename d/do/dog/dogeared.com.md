@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dogeared.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502005416id_/http%3A//www.dogeared.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogeared.com privacy policy that was archived on 2013-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130927105803id_/http%3A//www.dogeared.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy : Dogeared Jewels and Gifts
+# Privacy Policy : Dogeared
 
 This Web site is owned by Dogeared Jewels and Gifts LLC (Dogeared). We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. The following policies are only in effect for the Web pages, newsletters, discussion lists and opt-in announcement lists owned and operated by Dogeared. The following discloses our Privacy Policy.
 
