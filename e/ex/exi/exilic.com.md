@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the exilic.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507163157id_/http%3A//exilic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exilic.com privacy policy that was archived on 2013-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130927055113id_/http%3A//exilic.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy governs the manner in which Exilic collects, uses, maintains and discloses information collected from users (each, a "User") of the <http://exilic.com/> website ("Site"). This privacy policy applies to the Site and all products and services offered by Exilic.
+This Privacy Policy governs the manner in which Exilic: The Gamers' Network collects, uses, maintains and discloses information collected from users (each, a "User") of the <http://exilic.com/> website ("Site"). This privacy policy applies to the Site and all products and services offered by Exilic: The Gamers' Network.
 
 **Personal identification information**
 
@@ -18,7 +18,7 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
 **How we use collected information**
 
-Exilic may collect and use Users personal information for the following purposes:
+Exilic: The Gamers' Network may collect and use Users personal information for the following purposes:
 
   * _\- To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
@@ -37,7 +37,7 @@ We do not sell, trade, or rent Users personal identification information to othe
 
 **Changes to this privacy policy**
 
-Exilic has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+Exilic: The Gamers' Network has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 **Your acceptance of these terms**
 
