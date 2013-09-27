@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keepshooting.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626055859id_/http%3A//www.keepshooting.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keepshooting.com privacy policy that was archived on 2013-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130927141739id_/http%3A//www.keepshooting.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy Cookie Restriction Mode - Keepshooting®
 
