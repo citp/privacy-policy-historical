@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instaprints.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602061200id_/http%3A//instaprints.com/privacypolicyinstaprints.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instaprints.com privacy policy that was archived on 2013-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130927035720id_/http%3A//www.instaprints.com/privacypolicyinstaprints.html) for the most accurate reproduction.*
 
 # Instaprints - Privacy Policy
 
