@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the electronics-tutorials.ws privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615151418id_/http%3A//www.electronics-tutorials.ws/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electronics-tutorials.ws privacy policy that was archived on 2013-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130927061139id_/http%3A//www.electronics-tutorials.ws/privacypolicy.html) for the most accurate reproduction.*
 
 # Basic Electronics Tutorials - Website Privacy Policy
 
