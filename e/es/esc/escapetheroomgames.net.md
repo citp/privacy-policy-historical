@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the escapetheroomgames.net privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528134834id_/http%3A//www.escapetheroomgames.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escapetheroomgames.net privacy policy that was archived on 2013-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130927122706id_/http%3A//www.escapetheroomgames.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
