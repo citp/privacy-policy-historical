@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infusioncampaign.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510003954id_/http%3A//infusioncampaign.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infusioncampaign.com privacy policy that was archived on 2013-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130927203154id_/http%3A//www.infusioncampaign.com/privacy.html) for the most accurate reproduction.*
 
 # InfusionCampaign.com | Email Marketing Software
 
