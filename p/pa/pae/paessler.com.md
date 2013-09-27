@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paessler.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618215204id_/http%3A//www.paessler.com/company/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paessler.com privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928015750id_/http%3A//www.paessler.com/company/privacypolicy) for the most accurate reproduction.*
 
 # Paessler AG's Privacy Policy
 
@@ -95,3 +95,7 @@ For the implementation of our website we use carefully selected service provider
 When ordering via invoice we reserve the right to a credit assessment to ensure our legal interests.
 
 Should your payment be delayed we reserve the right to provide personal data to a debt collection company or, alternatively, a legal chancellery appointed by us. Your legally protected interests are accounted for according to any legal stipulations that may apply.
+
+### Mobile Apps
+
+We may collect statistics about the actual usage of our mobile apps. This can give us valuable information to constantly improve on our products. The collected information will be used in anonymized form only.
