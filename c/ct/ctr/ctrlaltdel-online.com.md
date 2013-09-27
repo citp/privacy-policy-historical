@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ctrlaltdel-online.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511142020id_/http%3A//www.cad-comic.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ctrlaltdel-online.com privacy policy that was archived on 2013-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130927040821id_/http%3A//www.cad-comic.com/privacy_policy) for the most accurate reproduction.*
 
 # Ctrl+Alt+Del - Privacy Policy
 
