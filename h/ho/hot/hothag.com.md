@@ -1,100 +1,71 @@
-> *The following text is extracted and transformed from the hothag.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hothag.com privacy policy that was archived on 2013-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130927035026id_/http%3A//hothag.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+The privacy of our members is our top priority. Please read this page to learn about our privacy policy.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+## What this Privacy Policy covers
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+This policy covers how hothag.com ("we", "us", "our") treats the personal information that hothag.com collects and receives from its website visitors and members ("you", "your"). This policy covers the website http://hothag.com and all pages on its domain name. When you click a link or otherwise leave this domain name, our privacy policy will no longer apply. This policy does not apply to the practices of companies that hothag.com does not own or control, or to people that hothag.com does not employ or manage.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+## General
 
-**Information Collection and Use**
+hothag.com collects and stores your personal information when you visit our website, create an account, login, make a purchase, or contact our support team for help. We automatically receive and record your personal information on our servers from your web browser, including your IP address, cookies set by hothag.com, and the page you request.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+We use this information to analyze and improve our website and business and provide a better user experience.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+We do not rent, sell or share your personal information with any third parties. The only persons with access to your personal information are high-level hothag.com employees on a "need-to-know" basis.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+We reserve the right to disclose your personal information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order of legal process served on us. We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms and Conditions, or as otherwise required by law.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+In the event hothag.com is acquired or merges with another entity, hothag.com may transfer your personal information to the new entity.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+You agree that: These Terms of Use, together with the Privacy Notice at http://www.hothag.com/privacy/ and any other legal notices published by hothag.com on its website, shall constitute the entire agreement between you and hothag.com concerning the hothag.com online services. If any provision of these Terms of Use is deemed invalid by a court of competent jurisdiction, t he invalidity of such provision shall not affect the validity of the remaining provisions of these Terms of Use, which shall remain in full force and effect. No waiver of any term of these Terms of Use shall be deemed a further or continuing waiver of such term of any other term, and hothag.com's failure to assert any right or provision under these Terms of Use shall not constitute a waiver of such right or provision. hothag.com reserves the right to amend these Terms of Use at any time and without notice, and it is your responsibility to review these Terms of Use for any changes. Your use of the hothag.com services following any amendment of these Terms of Use will signify your assent to and acceptance of its revised terms. YOU AND HOTHAG.COM AGREE THAT ANY CAUSE OF ACTION ARISING OUT OF OR RELATED TO THE HOTHAG.COM ONLINE SERVICES MUST COMMENCE WITHIN ONE (1) YEAR AFTER THE CAUSE OF ACTION ACCRUES. OTHERWISE, SUCH CAUSE OF ACTION IS PERMANENTLY BARRED.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+## Your e-mail address
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+Your e-mail address is used to contact you on a transactional basis. For example, we will send you an e-mail when you sign up for your membership, make a purchase, request a lost password, and so forth.
 
-**Security**
+Your e-mail address may be used to send you our newsletter featuring website updates, which is sent very rarely, no more than a few times per year.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+You may adjust your e-mail settings and opt-out of receiving certain types of e-mails in your My Account page.
 
-**Updating Your Information**
+## Your credit card and payment information
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+hothag.com itself does not process credit cards, and hothag.com does not collect or store complete credit card information. We rely on trusted third-party payment processors, providers, and gateways to process transactions for our website. We do not have access to your complete credit card information.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+## Cookies
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+Cookies are small pieces of data that are stored by a user's web browser on the user's hard drive. Cookies may record information a user accesses on one webpage to simplify subsequent interactions with that website by the same user, or to use the information to streamline the user's transactions on related web pages. Cookies make it easier for a user to move from webpage to webpage and to complete transactions over the Internet. You may learn more about cookies at the following URL: http://en.wikipedia.org/wiki/HTTP_cookie
 
-      iii.      You may call us at: (480) 505-8800
+We use session ID cookies which make it easier for you to navigate our site. A session ID cookie expires when you close your browser. We also use persistent cookies which remain on your hard drive for an extended period of time. Persistent cookies may be used to store your login information and preferences.
 
-       iv.      You may fax us at: (480) 505-8844
+Most major web browsers are set up so that they will initially accept cookies, but you may modify your computer's preferences to issue you an alert when a cookie is downloaded, or to disable the ability of third parties to download a cookie to you.
 
-**Sending Emails**
+If you reject cookies, you may still use our site, but you may have to re-enter your username and password more often and you may experience some other unexpected browsing inconveniences.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+Other companies do not have access to cookies set by hothag.com.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+## Your ability to access, edit and delete your Personal Information
 
-**Compliance with Laws and Law Enforcement**
+You may request that we delete your Personal Information by "deleting your account" in your my Account page.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+Despite the foregoing and even though you have requested us to remove information, we will retain in our files certain data such as information used to resolve disputes, troubleshoot problems, comply with credit card merchant banking and association agreements, enhance security, reduce fraud, comply with Federal and State law, or to enforce any agreements, policies, and rules governing your use of our website. Removed information also may persist in backup copies and/or other users' cashes.
 
-**Third Party Service Providers**
+If you have any further questions about your Personal Information, please Contact Us.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+## Confidentiality and security
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+We follow generally accepted industry standards to protect the personal information subhothag.comtted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-**Supplementation of Information**
+We limit access to your personal information and e-mail address to employees who we believe reasonably need to come into contact with that information.
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+## Minors
 
-**Contests/Surveys**
+hothag.com is an adult site and access to persons under the age of 18 is strictly prohibited. We have no intention of collecting any personal information from individuals under eighteen years of age. If a minor has provided us with personal information, a parent or guardian of that minor should Contact Support and we will remove this information from our existing files.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+## Changes to this Privacy Policy or e-mail practices
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+hothag.com reserves its right, at its sole and absolute discretion, to revise, amend, modify or revoke this Privacy Policy at any time and in any manner to the fullest extent permitted by law. Changes to this Policy will be effective by posting revisions on the Privacy Policy link on the hothag.com website.
 
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+If we make changes in our e-mail practices or in the way we use your e-mail address, we will post those changes to this Privacy Policy.
