@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the apkpedia.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610205054id_/http%3A//www.apkpedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apkpedia.com privacy policy that was archived on 2013-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130927081701id_/http%3A//www.apkpedia.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Apkpedia-Apkpedia-
+# Privacy Policy |
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at apkpedia19@gmail.com
 
