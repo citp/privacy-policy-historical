@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the erightsoft.com privacy policy that was archived on 2012-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121027105717id_/http%3A//www.erightsoft.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erightsoft.com privacy policy that was archived on 2013-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130927075235id_/http%3A//www.erightsoft.com/privacy.html) for the most accurate reproduction.*
 
 # privacy.
 
