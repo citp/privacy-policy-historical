@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spicymatch.com privacy policy that was archived on 2013-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130105024857id_/http%3A//www.spicymatch.com/match/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spicymatch.com privacy policy that was archived on 2013-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130927194115id_/http%3A//www.spicymatch.com/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy policy | SpicyMatch
 
@@ -28,11 +28,11 @@ We collect information by placing cookies on your computer. A cookie is a piece 
 
 If however you want to stop cookies being stored on your computer in future, please refer to your browser manufacturer's instructions. For more information about deleting and controlling cookies please visit <http://www.allaboutcookies.org/>.
 
-During the use of our website, we automatically track certain information such as your IP and email addresses. Various sites use this kind of information for analysis. If you decide to disclose your personal information using any of our communication tools, such as electronic messaging, you do so at your full responsibility. We reserve the right to terminate the accounts of users who do not use the site in accordance with our [Terms of use](https://web.archive.org/match/terms.jsp).
+During the use of our website, we automatically track certain information such as your IP and email addresses. Various sites use this kind of information for analysis. If you decide to disclose your personal information using any of our communication tools, such as electronic messaging, you do so at your full responsibility. We reserve the right to terminate the accounts of users who do not use the site in accordance with our [Terms of use](https://web.archive.org/terms.jsp).
 
 ### Use of your information
 
-The personal information of our users are used by SpicyMatch to statistically analyze site usage, to verify law respect, to improve our content and our services, and customize contents and style of the site at your needs. We may also use your personal information to send you information that might be of interest to you, such as targeted banners and promotions. We believe that this will allow us to improve both our site, and your online experience and to meet your expectations. We use personal information to resolve disputes, troubleshoot problems and enforce our [Terms of use](https://web.archive.org/match/terms.jsp).
+The personal information of our users are used by SpicyMatch to statistically analyze site usage, to verify law respect, to improve our content and our services, and customize contents and style of the site at your needs. We may also use your personal information to send you information that might be of interest to you, such as targeted banners and promotions. We believe that this will allow us to improve both our site, and your online experience and to meet your expectations. We use personal information to resolve disputes, troubleshoot problems and enforce our [Terms of use](https://web.archive.org/terms.jsp).
 
 You can choose to receive emails from us regarding new message notifications, or for other reasons related to the use of the site. This feature can be turned on and off the page through the "Privacy settings".
 
@@ -46,7 +46,7 @@ SpicyMatch collaborates actively with all the requests received from law enforce
 
 ### Use of information relating to other users
 
-You are not allowed to use any information about other users for commercial purposes, spamming, harassment or threats. We reserve the right to terminate the accounts of those who thus use the information relating to other users, or otherwise violate our [Terms of use](https://web.archive.org/match/terms.jsp).
+You are not allowed to use any information about other users for commercial purposes, spamming, harassment or threats. We reserve the right to terminate the accounts of those who thus use the information relating to other users, or otherwise violate our [Terms of use](https://web.archive.org/terms.jsp).
 
 ### Inactivity
 
