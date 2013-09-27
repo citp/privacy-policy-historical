@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gesterling.wordpress.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616162810id_/http%3A//gesterling.wordpress.com/category/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gesterling.wordpress.com privacy policy that was archived on 2013-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130927094056id_/http%3A//gesterling.wordpress.com/category/privacy) for the most accurate reproduction.*
 
 # Privacy | Screenwerk
 
@@ -108,7 +108,7 @@ The privacy furor over Google Buzz, Facebook’s past privacy battles and recent
 > 
 
 
-Moreover, yesterday it was reported that [WhatApp.org](https://whatapp.org/), a site that rates “privacy, openness and security,” gave Facebook a “2 out of 5,” essentially a failing grade according to [Forbes](https://web.archive.org/web/20130616162810id_/http://gesterling.wordpress.com/category/privacy/a%20very%20new%20study,%20based%20on%20a%202009%20telephone%20survey%20with%201,000%20younger%20and%20older%20US%20adults,%20shows%20that%20younger%20users%20do%20in%20fact%20care%20about%20privacy.): 
+Moreover, yesterday it was reported that [WhatApp.org](https://whatapp.org/), a site that rates “privacy, openness and security,” gave Facebook a “2 out of 5,” essentially a failing grade according to [Forbes](https://web.archive.org/web/20130927094056id_/http://gesterling.wordpress.com/category/privacy/a%20very%20new%20study,%20based%20on%20a%202009%20telephone%20survey%20with%201,000%20younger%20and%20older%20US%20adults,%20shows%20that%20younger%20users%20do%20in%20fact%20care%20about%20privacy.): 
 
 > The new site, which was co-created by Stanford University Law fellow Ryan Calo last year and went into beta in March, has rated Facebook’s privacy significantly lower than that of other platforms like Twitter and the iPhone.
 
