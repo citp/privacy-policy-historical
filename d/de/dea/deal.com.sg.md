@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deal.com.sg privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606003333id_/http%3A//www.deal.com.sg/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deal.com.sg privacy policy that was archived on 2013-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130927072536id_/http%3A//www.deal.com.sg/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | DEAL.com.sg - Best Deals in Singapore
 
@@ -71,3 +71,10 @@ By post to:
 Rehau Building  
 Level 5  
 Singapore 208557
+
+Or
+
+By phone
+
+6299 3011  
+ 
