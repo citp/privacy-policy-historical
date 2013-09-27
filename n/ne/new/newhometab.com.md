@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newhometab.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530000706id_/http%3A//newhometab.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newhometab.com privacy policy that was archived on 2013-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130927115257id_/http%3A//newhometab.com/privacy.aspx) for the most accurate reproduction.*
 
 # Hometab - Privacy Policy
 
@@ -11,9 +11,11 @@ Here at Simply Tech we value your privacy and believe that transparency and coop
 
 Please note that while this privacy policy covers the use of our search services, some of our partners and advertisers may have different policies and you should inspect their policies as well. We highly recommend that you check from time whether our policy has changed 
 
-What information do we save? 
+What Non-Personal Information Is Retained By Widdit? 
 
-We save some information in order to provide you with the best of services, and we only save the information required. Therefore, we do nor use any excess information and will not store it, nor will we store information for an excessive amount of time. We save information on your computer to better let us know your personal preferences, and some information on our servers to assist us in processing the information into aggregated, non-personally identifiable information. 
+Non-Personal Information is less sensitive, but may also tell quite a lot about you. Moreover, in some cases, Non-Personal information may be used to deduce more information about you. Widdit protects this information and does not share it without your specific consent. 
+
+Widdit does store some non-personally identifiable information meant for statistical purposes, such as your use of the services, preferences or non-personally identifiable information. Specifically, when you install Widdit's software on your computer, it may retain your IP Address, operating system, installed browser versions, random ID, your recently viewed pages, your usage of the services and other non-identifiable information. 
 
 What do we save on your computer? 
 
