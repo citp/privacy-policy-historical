@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the launchrock.co privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430115731id_/http%3A//launchrock.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the launchrock.co privacy policy that was archived on 2013-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130927035546id_/http%3A//launchrock.co/privacy) for the most accurate reproduction.*
 
 # LaunchRock.co | Privacy Policy
 
