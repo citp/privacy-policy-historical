@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dreambox.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509221957id_/http%3A//www.dreambox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreambox.com privacy policy that was archived on 2013-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130927031912id_/http%3A//www.dreambox.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | DreamBox Learning | DreamBox Learning®
+# Privacy Policy | DreamBox Learning
 
 ## DreamBox Learning feels strongly about protecting your privacy and the privacy of your students.
 
