@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the johnthornhillcoaching.com privacy policy that was archived on 2013-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130214044259id_/http%3A//www.johnthornhillcoaching.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the johnthornhillcoaching.com privacy policy that was archived on 2013-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130927225931id_/http%3A//www.johnthornhillcoaching.com/privacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
