@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expert-offers.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625183115id_/http%3A//www.sekindo.com/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expert-offers.com privacy policy that was archived on 2013-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130927093957id_/http%3A//www.sekindo.com/help/privacy.php) for the most accurate reproduction.*
 
 # SekiNdo - Privacy Policy
 
@@ -21,8 +21,8 @@
    
 |  [   Register to SekiNdo ](https://web.archive.org/account/registerNewUser.php)  
 ---  
-[   Personal Info and Configuration](https://web.archive.org/account/personalInfo.php)  
-[   Billing and payment ](https://web.archive.org/account/myBilling.php)  
+[   Personal Info & Configuration](https://web.archive.org/account/personalInfo.php)  
+[   Billing & Payment ](https://web.archive.org/account/myBilling.php)  
    
 |  [   Terms of Service](https://web.archive.org/help/terms.php)  
 ---  
