@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webuzzapp.com privacy policy that was archived on 2012-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121012143600id_/http%3A//www.webuzzapp.com/aboutus/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webuzzapp.com privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928000150id_/http%3A//www.webuzzapp.com/aboutus/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | WeBuzz
 
@@ -78,6 +78,6 @@ As noted above, we may modify this Privacy Policy from time to time. When we pos
 
 ### ENQURIES
 
-For any enquires, WeBuzz can be contacted by posting to SUITE 902, 9/F, WING ON CENTRAL BUILDING, 26 DES VOEUX ROAD, CENTRAL, HONG KONG; by calling 852-31570321; or sending an email to info@webuzzapp.com.
+For any enquires, WeBuzz can be contacted by posting to Unit 715A, 7/F, Enterprise Place, Hong Kong Science Park, Shatin, N.T., HKSAR; by calling 852-39053902; or sending an email to info@webuzzapp.com.
 
 Last Modified: Dec 2010
