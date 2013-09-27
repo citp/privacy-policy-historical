@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the officenmore.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509061109id_/http%3A//www.officenmore.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officenmore.com privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928014707id_/http%3A//www.officenmore.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy and DMCA Notification for Office Supply and Workplace
-
-|  | 
 
 * * *
 
@@ -266,15 +264,3 @@ To be effective, the notification must be in writing and contain the following i
 6\. your statement, made under penalty of perjury, that the information contained in your notification is accurate, and that you are the copyright owner or are authorized to act on the owner's behalf.
 
 * * *
-
-| 
-
-**Disclaimer**
-
-Important information.
-
-| This page is part of a social network. People may choose to participate here for personal, commercial or other reasons. Please keep in mind that posts or other information here may be: 1) advertisements and not personal opinions, and 2) that any products or services mentioned here may not work exactly as the promoter describes or promises.
-
-Please verify all claims and use an escrow service for any signficiant purchases.  
-  
----|---
