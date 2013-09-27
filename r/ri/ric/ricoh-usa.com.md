@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ricoh-usa.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621044212id_/http%3A//ricoh-usa.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ricoh-usa.com privacy policy that was archived on 2013-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130927151918id_/http%3A//ricoh-usa.com/about/privacy.aspx) for the most accurate reproduction.*
 
 # About Ricoh | Ricoh-USA
 
