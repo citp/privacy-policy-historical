@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jewishworldreview.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606181855id_/http%3A//www.jewishworldreview.com/privacy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jewishworldreview.com privacy policy that was archived on 2013-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130927031307id_/http%3A//www.jewishworldreview.com/privacy.php3) for the most accurate reproduction.*
 
 # JWR PRIVACY POLICY
 
@@ -6,101 +6,109 @@
   
 ---  
   
-**June 5, 2013**
+**Sept. 23, 2013**
 
-**[Kristen Chick:](http://jewishworldreview.com/0613/egypt_sentences_ngo_workers.php3)** Egypt court sentences 43 pro-democracy workers to prison 
+**[Jonathan Tobin:](http://jewishworldreview.com/0913/tobin092313.php3)** The Jewish problem with Judaism's most sacred site 
 
-**June 3, 2013**
+**[Howard LaFranchi:]()** Iran and Syria on stage at UN: Real drama to replace shock theater 
 
-**[Molly Hennessy-Fiske:](http://www.jewishworldreview.com/0613/fort_hood_shooter_pandoras_box.php3)** Military judge to consider letting Fort Hood shooting defendant represent himself 
+**[Mary Pickett, M.D.:](http://www.jewishworldreview.com/0913/hypoglycemic_symptoms.php3)** Ask the Harvard Experts: Misreading hypoglycemic symptoms 
 
-**[Richard A. Serrano:](http://jewishworldreview.com/0613/manning_trial.php3)** Pvt. Bradley Manning's WikiLeaks trial also a test for government 
+**[Christopher J. Gearon](http://www.jewishworldreview.com/0913/health_care_shop_web.php3)** New online tools can help consumers find the best deals on medical care 
 
-**May 29, 2013**
+**[Nancy A. Youssef:](http://www.jewishworldreview.com/0913/putin_middle_east_maneuvering.php3)** Putin's Middle East maneuvering continues to be shrewd 
 
-**[Andrew Connelly and Helene Bienvenu:](http://www.jewishworldreview.com/0513/hungarian_jewish_renaissance.php3)** The Little Synagogue that Refused to Die 
+**[Adrienne Lu](http://www.jewishworldreview.com/0913/associate_degrees_occupational_certificates.php3)** Study: Associate's degrees, technical certificates can yield more than 4-year degrees 
 
-**May 24, 2013**
+**Sept. 16, 2013**
 
-**[Rabbi Tzvi Hersh Weinreb:](http://www.jewishworldreview.com/0513/weinreb_behaalosecha.php3)** When I didn't so 'humbly disagree' 
+**[Mitch Albom](http://www.jewishworldreview.com/0913/albom091613.php3)** : You're dead ---- good riddance! 
 
-**May 22, 2013**
+**[Jonathan Tobin:](http://www.jewishworldreview.com/0913/eliminate_israel.php3)** Eliminate Israel and replace it with an Arab-majority nation? 
 
-**[John Thorne:](http://www.jewishworldreview.com/0513/tunisia_rethinking.php3)** They launched the 'Arab Spring' but now yearn for the good old days of a strongman 
+**[Eryn Brown:](http://www.jewishworldreview.com/0913/stem_cells_more_flexible.php3)** Breakthrough renders stem cell debate over? 
 
-**[John Rosemond:](http://www.jewishworldreview.com/0513/rosemond_why_parents_fail.php3)** 'Disciplinary math' adds up to parental successl 
+**[Mark Trumbull:](http://www.jewishworldreview.com/0913/5%20_lessons_of_the_Great_Recession.php3)** Five years after the worst crisis since the 1930s, America has devised safeguards and changed the rules of Wall Street. But could the country really avoid another financial collapse? 
 
-**May 20, 2013**
+**[Hillel Halkin:](http://www.jewishworldreview.com/0913/halkin_peace_plan.php3)** There was a plan: A real-life cloak and dagger tale that can finally be told 
 
-**[Richard A. Serrano:](http://www.jewishworldreview.com/0513/kahane_assassin_speaks.php3)** Is Meir Kahane's assassin now a changed man? 
+**[Kristen Chick:](http://www.jewishworldreview.com/0913/pews_ash.php3)** Across Egypt, piles of ash where church pews once stood 
 
-**[Hannan Adely:](http://www.jewishworldreview.com/0513/palestinian_flag_raised.php3)** Town raises Palestinian flag at City Hall 
+**[Morgan Housel](http://www.jewishworldreview.com/0913/bezos_smart_advice.php3)** The 20 smartest things Jeff Bezos has ever said 
 
-**[Melissa Healy:](http://www.jewishworldreview.com/0513/cloning_coming.php3)** Genetic copies of living people from embryos no longer science fiction 
+**Sept. 11, 2013**
 
-**[Jewz in the Newz by Nate Bloom :](http://jewishworldreview.com/0513/jewz_newz051713.php3)** Jews Inducted into Rock Hall of Fame; Anton Yelchin co-stars in New "Trek" film; Kutcher (but not Kunis) visits Israel; Jewish TV Star Praises Jewish Rap Star 
+**[Joshua Prager:](http://jewishworldreview.com/video/prager_video.php3)** In search of the man who broke my neck ( **MESMERIZING** ) 
 
-**[The Kosher Gourmet by Cathy Pollak:](http://www.jewishworldreview.com/ess/walnut_cake.php3)** WARNING: This WALNUT CAKE WITH PRALINE FROSTING, perfect for afternoon coffee, is addicting 
+**[Refoel Pride:](http://www.jewishworldreview.com/0913/best_seat_in_house.php3)** Best seat in the house: A close-up look into a closed world during its holiest season 
 
-**May 13, 2013**
+**[Warren Richey](http://www.jewishworldreview.com/0913/lawyer_scam.php3)** Dear US lawyer: I'm overseas and need your help (and trust account) 
 
-**[Rabbi Nathan Lopes Cardozo:](http://www.jewishworldreview.com/0513/cardozo_shavous2013.php3)** Why the giving of the document that would permanently change the world could only be done in desolation 
+**Sept. 9, 2013**
 
-**[David G. Savage:](http://www.jewishworldreview.com/0513/church_state_literally.php3)** Church-state, literally? Supreme Court weighing public school graduation in a church 
+**[Jeff Jacoby:](http://jewishworldreview.com/jeff/jacoby090913.php3)** Darwin's conundrum: Where does compassion come from? 
 
-**May 10, 2013**
+**[Mitchell Prothero:](http://www.jewishworldreview.com/0913/christian_village_seized.php3)** Historic Christian village seized by Syrian rebels, including al-Qaida jihadis 
 
-**[Rabbi Berel Wein:](http://www.jewishworldreview.com/wein/wein_bamidbar3.php3)** Be all that you _should_ be 
+**[Mark Clayton:](http://jewishworldreview.com/0913/retaliation_us_syria.php3)** Only worry about 'boot on the ground'? Retaliation against America will likely be waged by multiple nations in cyberwar 
 
-**May 8, 2013**
+**[Morgan Housel:](http://www.jewishworldreview.com/0913/dumb_things_with_money.php3)** 15 biases that make you do dumb things with your money 
 
-**[Peter Ford:](http://www.jewishworldreview.com/0513/israel_china_palestinians.php3)** Why China is welcoming both Israel's Netanyahu and Palestinians' Abbas 
+**[Shawn Boburg](http://www.jewishworldreview.com/0913/wtc_naming_rights.php3)** How one scientist hacked another scientist's brain 
 
-**[Warren Richey:](http://www.jewishworldreview.com/0513/obama_contraceptive_mandate.php3)** Obama administration quietly backs out of appeal over new contraceptive mandate 
+**[Jonathan Tobin](http://www.jewishworldreview.com/0913/tobin090413.php3)** : Israel's defenders should be doing Obama's bidding on Syria, don't you know? 
 
-**May 6, 2013**
+**[Nat Hentoff:](http://www.jewishworldreview.com/cols/hentoff090413.php3)** Endless extermination of Christians: How much do we care? 
 
-**[Brian Bennett:](http://www.jewishworldreview.com/0513/weakness_in_Syrian_defense.php3)** Israeli airstrikes may show weakness in Syrian defense 
+**[Jonathan S. Landay:](http://jewishworldreview.com/0913/obama_syria_logic.php3)** It's not only Americans who are befuddled by Obama's Syria policy 
 
-**May 3, 2013**
+**[Daniel B. Wood:](http://www.jewishworldreview.com/0913/ipads_in_every_backpack.php3)** From chickens in every pot to iPads in every backpack? 
 
-**[Steven Emerson:](http://www.jewishworldreview.com/0513/emerson050313.php3)** Attorney General Fights CAIR in Court, Lauds it in Public 
+**[Elizabeth Barber](http://www.jewishworldreview.com/0913/brain_hacked.php3)** How one scientist hacked another scientist's brain 
 
-**[Kids, kittens the Same?](http://jewishworldreview.com/0513/yahoo_babies_pets.php3)** With employee perks at struggling Internet pioneer Yahoo! it's hard to tell 
+**[Caroline B. Glick](http://www.jewishworldreview.com/0813/glick083013.php3)** : Bluster, bluff and backstabbing: Obama's bread and circuses 
 
-**[Halena M. Gazelka, M.D.:](http://jewishworldreview.com/0513/implanted_pain_relief_devices.php3)** Mayo Clinic Medical Edge: What you need to know about implanted pain relief devices 
+**[Morgan Housel:](http://www.jewishworldreview.com/0813/investing_scare.php3)** If this scares you, you shouldn't be investing 
 
-**[Sandy Kleffman:](http://jewishworldreview.com/0513/artificial_kidney.php3)** Artificial kidney offers hope to patients tethered to a dialysis machine 
+**[Michael Craig Miller, M.D. :](http://www.jewishworldreview.com/0813/close_relationships_help_you_live_longer.php3)** Ask the Harvard Experts: Close relationships help you live longer --- and enjoy life more? 
 
-**[Jessica Shugart:](http://www.jewishworldreview.com/0513/mri_math.php3)** When it comes to math, MRIs may be better than IQs 
+**[Jewz in the Newz by Nate Bloom](http://www.jewishworldreview.com/0813/wheat_friend_or_foe.php3)** James Franco Roasted on Comedy Central; Huge Number of Jewish Comedians Featured in NBC Special; Rosanna Arquette Marries a Mentch: Really a Mentch! 
 
-**April 29, 2013**
+**August 28, 2013**
 
- **[Roy Gutman:](http://www.jewishworldreview.com/0413/polish_jewish_museum.php3)** Poland's new Jewish museum celebrates life, doesn't revisit Holocaust 
+**[Nat Hentoff:](http://www.jewishworldreview.com/cols/hentoff082813.php3)** WHERE ARE PROTESTS AGAINST MURDERS OF CHRISTIANS!? 
 
-**[Mark Clayton:](http://jewishworldreview.com/0413/learning_from_failed_plots.php3)** Terrorism in America: Is US missing a chance to learn from failed plots? 
+**[Edmund Sanders:](http://www.jewishworldreview.com/0813/israel_syria_attack.php3)** Israel says it won't stay on sidelines if Syria attacks 
 
-**[Kim Murphy:](http://jewishworldreview.com/0413/Misha_revealed.php3)** Boston Bomber's 'Svengali' Revealed 
+**August 26, 2013**
 
-**[Pete Spotts:](http://www.jewishworldreview.com/0413/NASA_eyes_in_sky.php3)** Tiny satellites + cellphones = cheaper 'eyes in the sky' for NASA 
+**[Jonathan Tobin:](http://www.jewishworldreview.com/0813/tobin082613.php3)** A Rabbi Who Can't Tell the Difference Between Iran and America 
 
-**April 26, 2013**
+**[Harry Bruinius:](http://www.jewishworldreview.com/0813/huma_moonlights.php3)** Could Mrs. Anthony Weiner finally destroy the political career that her hubby, try as he might, couldn't? 
 
-**[Clifford D. May:](http://jewishworldreview.com/0413/may042613.php3)** Defense in the Age of Jihadist Terrorism 
+**[Maura Dolan:](http://www.jewishworldreview.com/0813/atheist_parolee_wins.php3)** Atheist parolee sent back to prison must be compensated, court rules 
 
-**[Kimberly Lankford:](http://www.jewishworldreview.com/0413/long-term_care_insurance.php3)** New strategies ease pain of paying for long-term care insurance 
+**[Abby Olena:](http://www.jewishworldreview.com/0813/juices_smoothies_danger.php3)** Fruit juices and smoothies: Dangerous for your health? 
 
-**[Sharon Palmer, R.D.:](http://jewishworldreview.com/0413/science-based_nutrition_habits.php3)** How to feel your best -- with plenty of energy, a healthy weight and optimal mental and physical function -- without driving yourself batty 
+**[Melissa Healy:](http://www.jewishworldreview.com/0813/identifying_early-onset_dementia.php3)** New studies offer insights to identifying early-onset dementia 
 
-**[Jewz in the Newz by Nate Bloom:](http://www.jewishworldreview.com/0413/jewz_newz042613.php3)** Jewish Major Leaguers, 2013; New Movies and Comedy Show; Shalom, 'Lumpy' (Leave it to Beaver) 
+**[David Zucchino:](http://www.jewishworldreview.com/0813/humanist_chaplain.php3)** This man wants to be the Navy's first humanist chaplain 
 
-**April 24, 2013**
+**August 23, 2013**
 
-**[Morgan Housel](http://www.jewishworldreview.com/0413/no_idea_whats_going_on.php3)** Admit it: No one has any idea what's going on 
+ **[Howard LaFranchi:](http://www.jewishworldreview.com/0813/egypt_too_late.php3)** Crisis in Egypt: US seeks to preserve influence. Is there any left? 
 
-**[Melissa Healy:](http://www.jewishworldreview.com/0413/medical_pot_over.php3)** Pot in a pill: All the pain relief without the smoke 
+**[Melissa Healy:](http://www.jewishworldreview.com/0813/copper_Alzheimers.php3)** Unavoidable mineral may be playing key role in spreading Alzheimer's 
 
-**April 22, 2013**  
+**August 23, 2013**
+
+**[Caroline B. Glick:](http://www.jewishworldreview.com/0813/glick082313.php3)** Never since America's founding has the US appeared so untrustworthy, destructive, irrelevant and impotent 
+
+**[Edmund Sanders](http://www.jewishworldreview.com/0813/hamas_you_tube.php3)** Rise in 'academic doping' on campus 
+
+**[Diana West:](http://www.jewishworldreview.com/0813/west082313.php3)** When will the media notice that al-Jazeera America is the Muslim Brotherhood channel? 
+
+**[Jewz in the Newz by Nate Bloom](http://www.jewishworldreview.com/0813/jewz_newz082313.php3)** : Marty Glickman Documentary: Great Jewish Athlete/Sportscaster; Tony Bennett's Daughter Chooses Judaism; The Monaco Royal Family Circus   
   
 | 
 
@@ -209,13 +217,13 @@ bljolkov@jewishworldreview.com
 
 |  | 
 
- [Arnold Ahlert](http://www.jewishworldreview.com/0613/ahlert_archives.php3)  
- [Mitch Albom](http://jewishworldreview.com/0613/albom_archives.asp)  
- [Jay Ambrose](http://www.jewishworldreview.com/0613/ambrose.php3)  
+ [Arnold Ahlert](http://www.jewishworldreview.com/0913/ahlert_archives.php3)  
+ [Mitch Albom](http://jewishworldreview.com/0913/albom_archives.asp)  
+ [Jay Ambrose](http://www.jewishworldreview.com/0913/ambrose.php3)  
  [Michael Barone](http://www.jewishworldreview.com/michael/barone.archives.asp)  
- [Barrywood](http://jewishworldreview.com/0513/barrywood.php3)  
- [Lori Borgman](http://www.jewishworldreview.com/0513/borgman.php3)  
- [Stratfor Briefing](http://www.jewishworldreview.com/0313/stratfor.archives.asp)  
+ [Barrywood](http://jewishworldreview.com/0913/barrywood.php3)  
+ [Lori Borgman](http://www.jewishworldreview.com/0713/borgman.php3)  
+ [Stratfor Briefing](http://www.jewishworldreview.com/0813/stratfor.archives.asp)  
  [Mona Charen](http://www.jewishworldreview.com/cols/charen1.asp)  
  [Linda Chavez](http://www.jewishworldreview.com/cols/chavez1.asp)  
  [Richard Z. Chesnoff](http://www.jewishworldreview.com/richard/chesnoff.archives.asp)  
@@ -223,68 +231,70 @@ bljolkov@jewishworldreview.com
  [Greg Crosby](http://www.jewishworldreview.com/cols/crosby1.asp)  
  [Larry Elder](http://www.jewishworldreview.com/cols/elder1.asp)  
  [Suzanne Fields](http://www.jewishworldreview.com/cols/fields1.asp)  
- [Christine Flowers](http://www.jewishworldreview.com/0513/flowers.php3)  
- [Peter Funt](http://www.jewishworldreview.com/0613/funt.php3)  
+ [Christine Flowers](http://www.jewishworldreview.com/0913/flowers.php3)  
+ [Peter Funt](http://www.jewishworldreview.com/0713/funt.php3)  
  [Frank J. Gaffney](http://www.jewishworldreview.com/cols/gaffney1.asp)  
- [Bernie Goldberg](http://jewishworldreview.com/0513/bernie_g.php3)  
+ [Michael Gerson ](http://www.jewishworldreview.com/michael/gerson.php3)  
+ [Bernie Goldberg](http://jewishworldreview.com/0913/bernie_g.php3)  
  [Jonah Goldberg](http://www.jewishworldreview.com/cols/jonah1.asp)  
  [Julia Gorin](http://jewishworldreview.com/julia/gorin.archives.asp)  
  [Jonathan Gurwitz](http://www.jewishworldreview.com/jonathan/gurwitz.php3)  
  [Paul Greenberg](http://www.jewishworldreview.com/cols/greenberg1.asp)  
- [Argus Hamilton](http://www.jewishworldreview.com/0613/hamilton_archives.asp)  
- [Victor Davis Hanson](http://www.jewishworldreview.com/0613/hanson.archives.asp)  
+ [Argus Hamilton](http://www.jewishworldreview.com/0913/hamilton_archives.asp)  
+ [Victor Davis Hanson](http://www.jewishworldreview.com/0913/hanson.archives.asp)  
  [Betsy Hart](http://www.jewishworldreview.com/cols/hart1.asp)  
- [Ron Hart](http://jewishworldreview.com/0613/rhart.php3)  
+ [Ron Hart](http://jewishworldreview.com/0913/rhart.php3)  
  [Nat Hentoff](http://www.jewishworldreview.com/cols/hentoff1.asp)  
- [A. Barton Hinkle](http://www.jewishworldreview.com/0613/hinkle.php3)  
+ [A. Barton Hinkle](http://www.jewishworldreview.com/0913/hinkle.php3)  
  [Jeff Jacoby](http://jewishworldreview.com/jeff/jacoby_archives.asp)  
- [Paul Johnson](http://jewishworldreview.com/0213/pjohnson.php3)  
- [John Kass](http://www.jewishworldreview.com/0513/kass.php3)  
- [Jack Kelly](http://jewishworldreview.com/0613/jkelly_archives.asp)  
+ [Paul Johnson](http://jewishworldreview.com/0813/pjohnson.php3)  
+ [John Kass](http://www.jewishworldreview.com/0913/kass.php3)  
+ [Jack Kelly](http://jewishworldreview.com/0913/jkelly_archives.asp)  
  [Ch. Krauthammer](http://www.jewishworldreview.com/cols/krauthammer1.asp)  
  [David Limbaugh](http://www.jewishworldreview.com/david/limbaugh.archives.asp)  
- [Kathryn Lopez](http://www.jewishworldreview.com/0613/lopez.php3)  
- [Rich Lowry](http://www.jewishworldreview.com/0613/lowry_archives.asp)  
+ [Kathryn Lopez](http://www.jewishworldreview.com/0913/lopez.php3)  
+ [Rich Lowry](http://www.jewishworldreview.com/0813/lowry_archives.asp)  
  [Michelle Malkin](http://www.jewishworldreview.com/michelle/malkin.archives.asp)  
  [Jackie Mason](http://jewishworldreview.com/1209/mason.archives.asp)  
- [Ann McFeatters](http://www.jewishworldreview.com/0513/A_McFeatters.php3)  
- [Dale McFeatters](http://www.jewishworldreview.com/0613/McFeatters.php3)  
- [Dana Milbank](http://www.jewishworldreview.com/0613/milbank.php3)  
+ [Ann McFeatters](http://www.jewishworldreview.com/0613/A_McFeatters.php3)  
+ [Dale McFeatters](http://www.jewishworldreview.com/0913/McFeatters.php3)  
+ [Dana Milbank](http://www.jewishworldreview.com/0913/milbank.php3)  
  [Jeanne Moos](http://jewishworldreview.com/video/moos.php3)  
- [Dick Morris](http://www.jewishworldreview.com/0613/morris_archives.asp)  
- [Jim Mullen](http://jewishworldreview.com/0613/mullen.php3)  
- [Deroy Murdock](http://www.jewishworldreview.com/0613/murdock.php3)  
- [Judge A. Napolitano](http://www.jewishworldreview.com/0613/napolitano.php3)  
+ [Dick Morris](http://www.jewishworldreview.com/0913/morris_archives.asp)  
+ [Jim Mullen](http://jewishworldreview.com/0913/mullen.php3)  
+ [Deroy Murdock](http://www.jewishworldreview.com/0913/murdock.php3)  
+ [Judge A. Napolitano](http://www.jewishworldreview.com/0913/napolitano.php3)  
  [Bill O'Reilly](http://www.jewishworldreview.com/cols/oreilly1.asp)  
- [Clarence Page](http://www.jewishworldreview.com/0513/page.archives.asp)  
  [Kathleen Parker](http://www.jewishworldreview.com/kathleen/parker.archives.asp)  
- [Star Parker](http://www.jewishworldreview.com/0613/star.php3)  
- [Dennis Prager](http://jewishworldreview.com/0613/prager_archives.asp)  
+ [Star Parker](http://www.jewishworldreview.com/0813/star.php3)  
+ [Dennis Prager](http://jewishworldreview.com/0913/prager_archives.asp)  
  [Wesley Pruden ](http://www.jewishworldreview.com/cols/pruden1.asp)  
- [Tom Purcell ](http://www.jewishworldreview.com/0613/purcell_archives.asp)  
- [Sharon Randall](http://jewishworldreview.com/0613/randall.php3)  
- [Robert Robb](http://www.jewishworldreview.com/1112/robb_archives.asp)  
- [Cokie & Steve Roberts](http://www.jewishworldreview.com/0413/croberts.php3)  
+ [Tom Purcell ](http://www.jewishworldreview.com/0913/purcell_archives.asp)  
+ [Sharon Randall](http://jewishworldreview.com/0913/randall.php3)  
+ [Michael Reagan](http://www.jewishworldreview.com/michael/reagan_archives.php3)  
+ [Robert Robb](http://www.jewishworldreview.com/0913/robb_archives.asp)  
+ [Dave Ross](http://www.jewishworldreview.com/0813/ross.php3)  
  [Heather Robinson](http://www.jewishworldreview.com/1112/robinson.archives.php3)  
- [Debra J. Saunders](http://www.jewishworldreview.com/0613/saunders.php3)  
- [Martin Schram](http://jewishworldreview.com/0613/schram.php3)  
- [Greg Schwem](http://www.jewishworldreview.com/0513/schwem.php3)  
+ [Robert J. Samuelson ](http://www.jewishworldreview.com/0913/samuelson.php3)  
+ [Debra J. Saunders](http://www.jewishworldreview.com/0913/saunders.php3)  
+ [Martin Schram](http://jewishworldreview.com/0813/schram.php3)  
+ [Greg Schwem](http://www.jewishworldreview.com/0613/schwem.php3)  
  [Culture Shlock](http://www.jewishworldreview.com/0612/fleschner.php3)  
  [David Shribman](http://www.jewishworldreview.com/david/shribman.php3)  
  [Roger Simon](http://www.jewishworldreview.com/cols/simon1.asp)  
- [Lenore Skenazy](http://www.jewishworldreview.com/0613/skenazy.archives.asp)  
+ [Lenore Skenazy](http://www.jewishworldreview.com/0913/skenazy_archives.asp)  
  [Michael Smerconish](http://jewishworldreview.com/michael/smerconish.php3)  
  [Thomas Sowell](http://www.jewishworldreview.com/cols/sowell1.asp)  
- [Mark Steyn ](http://jewishworldreview.com/0613/steyn_archives.asp)  
- [John Stossel ](http://jewishworldreview.com/0613/stossel.archives.asp)  
+ [Mark Steyn ](http://jewishworldreview.com/0913/steyn_archives.asp)  
+ [John Stossel ](http://jewishworldreview.com/0913/stossel.archives.asp)  
  [Cal Thomas](http://www.jewishworldreview.com/cols/thomas1.asp)  
  [Dan Thomasson](http://www.jewishworldreview.com/0613/thomasson_dan.php3)  
  [Bob Tyrrell](http://www.jewishworldreview.com/cols/tyrrell.php3)  
- [Diana West](http://www.jewishworldreview.com/0513/west_archives.asp)  
+ [Diana West](http://www.jewishworldreview.com/0913/west_archives.asp)  
  [Dave Weinbaum](http://jewishworldreview.com/dave/weinbaum.php3)  
  [George Will](http://www.jewishworldreview.com/cols/will1.asp)  
  [Walter Williams](http://www.jewishworldreview.com/cols/williams1.asp)  
- [Byron York](http://www.jewishworldreview.com/0613/york.php3)  
+ [Byron York](http://www.jewishworldreview.com/0913/york.php3)  
  [Cathy Young](http://www.jewishworldreview.com/cathy/young.archives.asp)  
  [Mort Zuckerman](http://www.jewishworldreview.com/mort/zuckerman.php3)  
 
@@ -294,17 +304,25 @@ bljolkov@jewishworldreview.com
  [Robert Arial](http://jewishworldreview.com/toons/arial/arial.php3)  
  [Chuck Asay](http://www.jewishworldreview.com/toons/asay/asay.php3)  
  [Baloo](http://www.jewishworldreview.com/strips/baloo/baloo.php3)  
+ [Pat Bagley](http://www.jewishworldreview.com/toons/bagley/bagley.php3)  
  [Nate Beeler](http://www.jewishworldreview.com/toons/beeler/beeler.php3)  
  [Lisa Benson](http://www.jewishworldreview.com/toons/benson/benson.php3)  
  [Chip Bok](http://www.jewishworldreview.com/toons/bok/bok.php3)  
  [Dry Bones](http://www.jewishworldreview.com/strips/dry_bones/dry_bones.php3)  
  [John Branch](http://jewishworldreview.com/toons/branch/branch.php3)  
+ [Daryl Cagle](http://www.jewishworldreview.com/toons/cagle/cagle.php3)  
+ [Patrick Chappatte](http://www.jewishworldreview.com/toons/chappatte/chappatte.php3)  
  [John Cole](http://www.jewishworldreview.com/toons/cole/cole.php3)  
+ [Paul Combs](http://www.jewishworldreview.com/toons/combs/combs.php3)  
  [J. D. Crowe](http://www.jewishworldreview.com/toons/crowe/crowe.php3)  
  [John Darkow](http://www.jewishworldreview.com/toons/darkow/darkow.php3)  
+ [Bill Day](http://www.jewishworldreview.com/toons/day/day.php3)  
  [John Deering](http://www.jewishworldreview.com/toons/deering/deering.php3)  
+ [Sean Delonas](http://www.jewishworldreview.com/toons/delonas/delonas.php3)  
+ [Bob Englehart](http://www.jewishworldreview.com/toons/englehart/englehart.php3)  
  [Brian Duffy](http://jewishworldreview.com/toons/duffy/duffy.php3)  
  [Everything's Relative](http://www.jewishworldreview.com/tpl/tpl.php3)  
+ [Randall Enos](http://www.jewishworldreview.com/toons/enos/enos.php3)  
  [Mallard Fillmore](http://www.jewishworldreview.com/strips/mallard/2000/mallard.php3)  
  [David Fitzsimmons](http://www.jewishworldreview.com/toons/fitzsimmons/fitzsimmons.php3)  
  [Glenn Foden](http://jewishworldreview.com/toons/foden/foden.php3)  
@@ -315,18 +333,22 @@ bljolkov@jewishworldreview.com
  [David Hitch](http://jewishworldreview.com/toons/hitch/hitch.php3)  
  [Jerry Holbert](http://www.jewishworldreview.com/toons/holbert/holbert.php3)  
  [David Horsey](http://www.jewishworldreview.com/toons/horsey/horsey.php3)  
- [Lee Judge](http://www.jewishworldreview.com/toons/Judge/Judge.php3)  
+ [Taylor Jones](http://www.jewishworldreview.com/toons/jones/jones.php3)  
+ [Lee Judge](http://www.jewishworldreview.com/toons/judge/judge.php3)  
  [Steve Kelley](http://www.jewishworldreview.com/toons/kelley/kelley.php3)  
  [Mike Keefe](http://www.jewishworldreview.com/toons/keefe/keefe.php3)  
  [Jeff Koterba](http://www.jewishworldreview.com/toons/koterba/koterba.php3)  
  [Dick Locher](http://jewishworldreview.com/toons/locher/locher.php3)  
  [Chan Lowe](http://www.jewishworldreview.com/toons/lowe/lowe.php3)  
  [Jimmy Margulies](http://www.jewishworldreview.com/toons/margulies/margulies.php3)  
+ [RJ Matson](http://www.jewishworldreview.com/toons/matson/matson.php3)  
+ [Gary McCoy](http://www.jewishworldreview.com/toons/mccoy/mccoy.php3)  
  [Rick McKee](http://www.jewishworldreview.com/toons/mckee/mckee.php3)  
+ [Paresh Nath](http://www.jewishworldreview.com/toons/nath/nath.php3)  
  [Jack Ohman](http://jewishworldreview.com/toons/ohman/ohman.php3)  
  [Jeff Parker](http://www.jewishworldreview.com/toons/jparker/jparker.php3)  
  [Milt Priggee](http://www.jewishworldreview.com/toons/priggee/priggee.php3)  
- [Michael Ramirez](http://www.toons/ramirez/ramirez.php3)  
+ [Michael Ramirez](http://www.jewishworldreview.com/toons/ramirez/ramirez.php3)  
  [Rob Rogers](http://jewishworldreview.com/toons/rogers/rogers.php3)  
  [Steve Sack](http://www.jewishworldreview.com/toons/sack/sack.php3)  
  [Bill Schorr](http://www.jewishworldreview.com/toons/schorr/schorr.php3)  
@@ -340,17 +362,17 @@ bljolkov@jewishworldreview.com
  [Kirk Walters](http://www.jewishworldreview.com/toons/walters/walters.php3)  
  [Christopher Weyant](http://www.jewishworldreview.com/toons/weyant/weyant.php3)  
  [Larry Wright](http://www.jewishworldreview.com/toons/wright/wright.php3)  
- [Dan Wasserman](http://www.jewishworldreview.com/toons/zyglis/zyglis.php3)  
- [Adam Zyglis ](http://jewishworldreview.com/toons/wasserman/wasserman.php3)  
+ [Dan Wasserman](http://jewishworldreview.com/toons/wasserman/wasserman.php3)  
+ [Adam Zyglis ](http://www.jewishworldreview.com/toons/zyglis/zyglis.php3)  
 
 
   
- [Tech Q&A](http://www.jewishworldreview.com/0513/tech_q_a.php3)  
- [Mr. Know-It-All](http://www.jewishworldreview.com/0513/know_it_all.php3)  
+ [Tech Q&A](http://www.jewishworldreview.com/0913/tech_q_a.php3)  
+ [Mr. Know-It-All](http://www.jewishworldreview.com/0713/know_it_all.php3)  
  [Ask Doctor K](http://www.jewishworldreview.com/cols/dr_k.php3)  
  [Richard Lederer](http://jewishworldreview.com/richard/lederer1.asp)  
  [Frugal Living](http://jewishworldreview.com/cols/frugal_living.php3)  
  [On Nutrition](http://www.jewishworldreview.com/0812/nutrition.php3)  
- [Bookmark These](http://jewishworldreview.com/0613/bookmark_these.php3)  
+ [Bookmark These](http://jewishworldreview.com/0913/bookmark_these.php3)  
  [Bruce Williams](http://www.jewishworldreview.com/cols/bruce.php3)  
 
