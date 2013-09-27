@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prospectmagazine.co.uk privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626234940id_/http%3A//www.prospectmagazine.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prospectmagazine.co.uk privacy policy that was archived on 2013-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130927212125id_/http%3A//www.prospectmagazine.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,4 +16,4 @@ We may collect the following information:
 • demographic information such as postcode, preferences and interests  
 • other information relevant to customer surveys and/or 
 
-You need to be logged in to see this part of the content. Please [**Login**](http://www.prospectmagazine.co.uk/login/?redirect_to=https://www.prospectmagazine.co.uk/privacy-policy/) to access. 
+You need to be logged in to see this part of the content. Please [**Login**](http://www.prospectmagazine.co.uk/login/?redirect_to=http://www.prospectmagazine.co.uk/privacy-policy/) to access. 
