@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the discountlocks.co.uk privacy policy that was archived on 2013-05-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130511061537id_/http%3A//www.discountlocks.co.uk/terms_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the discountlocks.co.uk privacy policy that was archived on 2013-09-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130928145150id_/http%3A//www.discountlocks.co.uk/terms_privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <script type="text/javascript" src="/a/j/milonic/milonic_src.js"></script>
@@ -28,6 +28,7 @@ var Config_CDN_URL = '/'
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js"></script>
 <link type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/themes/base/jquery-ui.css" rel="stylesheet">
+<link type="text/css" href="/a/c/default.css" rel="stylesheet">
 
 
 <script type="text/javascript">
@@ -43,7 +44,30 @@ var Config_CDN_URL = '/'
     var PageText_843 = "Subtotal";
     var PageText_844 = "items in cart";
 </script>
+<script type="text/javascript" src="/a/j/volusion.js?6.41.2.227"></script>
+<script type="text/javascript">
+    (function ($) {
+        volusion.ready(function () {
+            if (volusion.cart.isObservingCount()) {
+                var ts = new Date().getTime();
 
+                $.getJSON('/ajaxcart.asp?cachebust=' + ts, function (data) {
+                    var quantityTotal = 0;
+                    $.each(data.Products, function (key, val) {
+                        if (val.IsProduct === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        } else if (val.IsAccessory === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        }
+                    });
+                    quantityTotal = quantityTotal || '0';
+                    volusion.cart.itemCount(quantityTotal);
+                });
+
+            }
+        });
+    } (jQuery));
+</script>
 
 
 <script type="text/javascript" src="/a/j/soft_add.js"></script>
@@ -56,7 +80,7 @@ var Config_CDN_URL = '/'
 </script>
 
 <script type="text/javascript" src="/a/j/soft_add_mult.js"></script>
-<script type="text/javascript" src="/a/j/javascripts.js?6_5_currentBuild"></script>
+<script type="text/javascript" src="/a/j/javascripts.js?6_5_6.41.2.227"></script>
 
 <script type="text/javascript" src="/a/j/vcompare.js"></script>
 <link type="text/css" rel="stylesheet" href="/a/c/VCompare.css">
@@ -118,7 +142,7 @@ DO NOT ADD YOUR OWN META TAGS, ONLY PUT CSS/JAVSCRIPT INCLUDES IN YOUR HEAD TAG 
 </script>
 <!-- BANNER CODE END -->
 
-</head>
+<script async="" type="text/javascript" src="https://www.purechat.com/VisitorWidget/WidgetScript"></script></head>
 
 <!-- 
 Company Name: Discount Locks
@@ -257,6 +281,7 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <option value="Marston">Marston</option>
 <option value="Master">Master</option>
 <option value="Master+Lock">Master Lock</option>
+<option value="Maxus">Maxus</option>
 <option value="Mila">Mila</option>
 <option value="Millenco">Millenco</option>
 <option value="Montery">Montery</option>
@@ -267,11 +292,11 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <option value="PJB">PJB</option>
 <option value="Point+Postbox">Point Postbox</option>
 <option value="Rosengrens">Rosengrens</option>
-<option value="Roto">Roto</option>
 <option value="Rottner">Rottner</option>
 <option value="Ryobi">Ryobi</option>
 <option value="Safe%2DLok">Safe-Lok</option>
 <option value="safeware">safeware</option>
+<option value="Safewell">Safewell</option>
 <option value="Securefast">Securefast</option>
 <option value="SecureLine">SecureLine</option>
 <option value="Securikey">Securikey</option>
@@ -295,19 +320,14 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <option value="Weiser">Weiser</option>
 <option value="Weru">Weru</option>
 <option value="Wilka">Wilka</option>
-<option value="Willenhall">Willenhall</option>
+<option value="WILLENHALL">WILLENHALL</option>
 <option value="Winkhaus">Winkhaus</option>
 <option value="Worrall">Worrall</option>
 <option value="Yale">Yale</option>
 <option value="Zone">Zone</option>
 </select></form></div></center>
 <br>
-                <div id="display_promotions_999"><img alt="" src="/v/vspfiles/assets/images/final_r37_c1.jpg" align="" border="0"><!-- Embedded WhosOn: Insert the script below at the point on your page where you want the Click To Chat link to appear -->
-<script type="text/javascript" src="https://web3rgw.whoson.com/include.js?domain=www.discountlocks.co.uk"></script>
-<script type="text/javascript">
-if(typeof sWOTrackPage=='function')sWOTrackPage();
-</script>
-<!-- End of embedded WhosOn --><img alt="" src="/v/vspfiles/assets/images/final_r37_c1.jpg" align="" border="0"><br><div style="text-align: center;"><iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fpages%2FDiscount-Locks%2F318582750380&amp;layout=button_count&amp;show_faces=true&amp;width=250&amp;action=recommend&amp;font&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:250px; height:21px; padding-left: 45px; padding-top: 10px; padding-bottom: 10px;" allowtransparency="true"></iframe></div><img alt="" src="/v/vspfiles/assets/images/final_r37_c1.jpg" align="" border="0"><div style="text-align: center;">Office Hours</div><div style="text-align: center;">Mon-Fri 9:00am-5:30pm</div><img alt="" src="/v/vspfiles/assets/images/final_r37_c1.jpg" align="" border="0"><img src="/v/vspfiles/assets/images/clip_image002_001.jpg" alt="" align="" border="0px"><img alt="" src="/v/vspfiles/assets/images/final_r37_c1.jpg" align="" border="0"><img title="Discount Locks accepts All Credit and Debit Cards" alt="Credit Cards Payments Lock" src="/v/vspfiles/assets/images/c_card.gif" align="" border="0"><img alt="" src="/v/vspfiles/assets/images/final_r37_c1.jpg" align="" border="0"><div style="text-align: center;"><img src="/v/vspfiles/assets/images/paypal amex.gif" alt="" align="" border="0px"></div><img alt="" src="/v/vspfiles/assets/images/final_r37_c1.jpg" align="" border="0">
+                <div id="display_promotions_999"><script type="text/javascript">(function () { var done = false; var script = document.createElement("script"); script.async = true; script.type = "text/javascript"; script.src = "https://www.purechat.com/VisitorWidget/WidgetScript"; document.getElementsByTagName('HEAD').item(0).appendChild(script); script.onreadystatechange = script.onload = function (e) { if (!done && (!this.readyState || this.readyState == "loaded" || this.readyState == "complete")) { var w = new PCWidget({ c: 'f304aaea-2c73-4486-9abc-b0bb75d1e487', f: true }); done = true; } }; })();</script><img alt="" src="/v/vspfiles/assets/images/final_r37_c1.jpg" align="" border="0"><br><div style="text-align: center;"><iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fpages%2FDiscount-Locks%2F318582750380&amp;layout=button_count&amp;show_faces=true&amp;width=250&amp;action=recommend&amp;font&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:250px; height:21px; padding-left: 45px; padding-top: 10px; padding-bottom: 10px;" allowtransparency="true"></iframe></div><img alt="" src="/v/vspfiles/assets/images/final_r37_c1.jpg" align="" border="0"><div style="text-align: center;">Office Hours</div><div style="text-align: center;">Mon-Fri 9:00am-5:30pm</div><img alt="" src="/v/vspfiles/assets/images/final_r37_c1.jpg" align="" border="0"><img src="/v/vspfiles/assets/images/clip_image002_001.jpg" alt="" align="" border="0px"><img alt="" src="/v/vspfiles/assets/images/final_r37_c1.jpg" align="" border="0"><img title="Discount Locks accepts All Credit and Debit Cards" alt="Credit Cards Payments Lock" src="/v/vspfiles/assets/images/c_card.gif" align="" border="0"><img alt="" src="/v/vspfiles/assets/images/final_r37_c1.jpg" align="" border="0"><div style="text-align: center;"><img src="/v/vspfiles/assets/images/paypal amex.gif" alt="" align="" border="0px"></div><img alt="" src="/v/vspfiles/assets/images/final_r37_c1.jpg" align="" border="0">
 <br><img src="/v/vspfiles/assets/images/delivery side bar.gif" alt="Free Delivery - Locks, Safes, Postboxes, Gun Cabinets" align="" border="0"><img alt="" src="/v/vspfiles/assets/images/final_r37_c1.jpg" align="" border="0">
 <br><!-- Place this tag where you want the +1 button to render -->
 <g:plusone></g:plusone>
