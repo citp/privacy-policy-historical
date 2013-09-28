@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flyflv.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613002233id_/http%3A//flyflv.com/site/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyflv.com privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928190734id_/http%3A//www.flyflv.com/site/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
