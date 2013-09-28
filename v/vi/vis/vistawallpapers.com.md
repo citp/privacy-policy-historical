@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vistawallpapers.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527105135id_/http%3A//www.prowallpapers.com/index.php%3Ftemplate%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vistawallpapers.com privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928213242id_/http%3A//www.prowallpapers.com/index.php%3Ftemplate%3Dprivacy) for the most accurate reproduction.*
 
 # proWallpapers - Free Win 7 & 8 Wallpapers
 
