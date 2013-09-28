@@ -1,50 +1,67 @@
-> *The following text is extracted and transformed from the roc-taiwan.org privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122032251id_/http%3A//www.roc-taiwan.org/content.asp%3Fmp%3D1%26CuItem%3D215) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roc-taiwan.org privacy policy that was archived on 2013-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130929015934id_/http%3A//www.roc-taiwan.org/content.asp%3Fmp%3D1%26CuItem%3D215) for the most accurate reproduction.*
 
 # Privacy Policy - Document - Overseas Office Republic Of China ( Taiwan ) 中華民國（台灣）駐外單位聯合網站
 
-Dear Internet User:  
-Welcome to the website of the Government Information Office, ROC Executive Yuan (hereinafter called the "GIO Website".) In order to ensure your privacy, the GIO has established a Privacy Policy for its Website(s). The following will detail the GIO's policies and principles concerning the collection, use, and protection of user data provided by visitors to this website and extended service sites. Please read it carefully. 
+**Security Policy**
 
-■Scope of Use 
+Welcome to the website of the Ministry of Foreign Affairs (MOFA) of the Republic of China (Taiwan). In order to ensure your security when accessing the services and information provided by this website, we would like to introduce to you the website’s privacy and information security policies. Please carefully read the following articles aimed at protecting your interests:
 
-The following privacy policies apply when you are browsing the GIO Website (any page with the domain name gio.gov.tw) and extended service sites (such as www.taiwanheadlines.gov.tw). These policies concern the collection, use, and protection of personal data. The said policies shall not apply to any activity you might initiate by virtue of passing to a different website as the result of a search on a GIO web page or by other means, however. Protection of your personal data while browsing other web pages depends on the individual privacy policies of the websites involved. 
+**1\. Privacy policy**
 
-■Data Collection 
+(1) Scope of policy
 
-Depending on the service being provided, all or part of the following user data may be collected from visitors: 
+This policy applies to the use and protection of personal information collected when using the services offered by this website. This policy does not apply to other websites that can be accessed via hyper links on this website.
 
-User Registration: When you register to become a member of this site, you will be asked for some personal information, including your name, ID number, date of birth, gender, user name, address, telephone number, e-mail address, occupation, and interests.
+As the other websites are governed by their own specific privacy policies, this website will not bear any liability for your security while you browse those websites.
 
-Online Events and Questionnaires: When you participate in an online event or answer a questionnaire or survey, you may be asked to provide your name, ID number, address, telephone number, and e-mail address. Some events may be limited to registered members.   
-Additionally, if you click on a banner ad or link on the GIO Website, other websites or organizations have their own privacy policies concerning personal data you provide in order to participate in a prize draw, competition or promotional event sponsored by the said third party organizations or websites. The handling of such data is not covered by the privacy policies relating to the GIO Website, and the GIO Website cannot be responsible for any consequences. 
+(2) Collection and use of information
 
-General Browsing: While you are browsing the GIO Website, the server will automatically produce a log file. This file includes your IP address, duration of visit, browser version used, and record of your browsing behavior. Information about pages viewed and time spent on-site is used to improve the quality of the GIO Website content and service.
+(a) This website will not collect any personal information when a user simply browses on or downloads files from it.
 
-Other: If you write to the GIO, or express an opinion to the GIO via another channel, we will retain a record of the communication and its disposition. The GIO Website's privacy policy does not cover any personal information, such as name or e-mail address, that you may provide to other users while on the GIO Website's discussion boards.   
-■Making Public, Sharing, and Using User Data 
+(b) In order to provide you the best possible interactive services, you may be asked to provide personal information while using certain services on this website, such as when sending messages to the Minister’s mail box, making online service requests, and filling out surveys.
 
-Under no circumstances will the GIO Website sell, exchange, or rent any of your personal data to any organization or individual. Based on the principles of its Privacy Policy, however, the GIO Website will make use of your personal data only under the following circumstances: 
+(c) This website will log the users’ IP address, access time, and frequency of access to information. The information on the browsing and access activities of users is recorded for internal administration purposes so that the total volume of website traffic and network activity can be calculated. This information is important to the improvement of our services.
 
-Provision of Additional Services or Special Offers: In order to provide you with additional services or special offers, it may be necessary to provide your personal data to third party providers of the said services or offers. The GIO Website will provide a complete explanation during the period of the event or offer, and notify you before data is collected so that you may freely choose whether or not to accept the service or offer in question.
+(d) In order to provide services tailored to your needs, this website will read and write cookies in your browser under the following circumstances: If you do not want such cookies, you can set the level of security (located under Internet Options in your browser) to “high”, thereby blocking all cookies. This will, however, prevent certain functions of this website from operating fully.
 
-Statistics and Analysis: The GIO Website uses its user registration data, questionnaires, marketing activities, and server logs to conduct internal analysis regarding the number of users, their interests, and on-line behavior. These studies are based on overall user data and involve statistical procedures. Results are used as a reference to improve the quality of services, and no analysis will be performed on individual user data, nor will specific individual data be used as the basis for statistical analysis.
+(e) This website will not sell or lease your personal information to other groups, individuals, or private entities, or exchange it with them, except under the following circumstances: 
 
-For reasons of public security, if a judicial body requests the GIO to provide information on a specific user, the GIO will follow formal legal procedures and cooperate as necessary in consideration of the collective security of all users of the GIO Website.   
-■Cookie policy 
+i. A law enforcement agency needs such information to conduct a criminal investigation.
 
-In order to provide personalized service, the GIO Website uses cookies to store and, in some circumstances, track user data. A cookie is a small file sent from a website to the user’s web browser, and is stored on the user's hard drive. Users can select or adjust their cookie settings using the "Tools - Advanced" menu in Netscape, or the "Internet Settings - Security" menu in Internet Explorer. Users may choose to accept all cookies, to be notified when a server sends a cookie, or to reject all cookies. If a user chooses to reject all cookies, it might not be possible for that user to access certain personalized services or to participate in certain activities on the GIO Website. Generally speaking, the GIO Website will write or read a cookie in a user’s web browser under the following circumstances: 
+ii. Another authority needs such information to conduct an investigation or carry out other duties.
 
-To provide better, more personalized services: In order to facilitate use of the site's personalized features or interactive events, the GIO Website may write a cookie when a user registers or logs on, and update it when he or she logs off.
+iii. Another individual or agency has been commissioned to provide a service that will improve this website’s quality.
 
-To analyze the number of visitors and their browsing habits: The GIO Website may write a cookie in order to understand which pages visitors are using, thus allowing improvement of the site.   
-■Your Responsibility in Protecting Your Privacy 
+(3) Information security
 
-Please safeguard your username, password, and personal data. Do not reveal any personal information, particularly passwords, to anyone. After using any of the GIO Website's member services, please remember to log off properly before leaving the GIO site. If you share a computer with another user, or use our services on a public computer (such as in a public library, school computer lab, or Internet caf?, please remember to close the browser to prevent other users from reading your personal information and e-mail, or accessing member-only areas. 
+The computer servers hosting this website are equipped with a firewall, anti-virus systems and other security features. Strict protection measures have been introduced to safeguard this website and the users’ personal information. Only authorized personnel have access to the system and such information. In addition, the information collected by this website is transmitted by SSL protocol to further prevent unauthorized access or malicious invasion by a third party.
 
-■Revisions to the Privacy Policy 
+(4) Registered User’s Obligations
 
-The GIO Website will update its privacy policies from time to time in response to changes in privacy regulations. In the event of any major revision to the site's privacy policy, the GIO Website will post a notice on the site to inform users regarding details of the revision. 
+(a) You agree to provide accurate and complete information about yourself on the website’s registration form for the website’s online services and personalized features. If you provide any information that is inaccurate or incomplete, we reserve the right to deny any or all services, current and future.
 
-■Information on this Privacy Policy 
+(b) You and MOFA are responsible for keeping confidential your password and username. You agree to exit from your account at the end of each session. If you share a computer with another person or use our services on a public computer, remember to close the browser to prevent other people from accessing your personal information or e-mail.
 
-If you would like to express an opinion or ask a question about the GIO Website's privacy policy, data collection and use, or user data update procedures, please call 02-3356-7851 during office hours, or send an e-mail to the site's Opinions mailbox.
+(c) You agree not to intentionally violate any applicable local, state, national or international law, and to bear full responsibility for all actions that occur with your account and password.
+
+**2.Information security policy**
+
+(1) In its management of transparency, national security and confidentiality concerns, this website provides the public with up-to-date information on our diplomatic work and available consular services.
+
+(2) This website prohibits unauthorized persons from taking any action that would compromise the confidentiality, integrity or utilization of this website. Violators will be dealt with according to the law. 
+
+(3) This website has the following security measures to better ensure its secure and uninterrupted operations:
+
+(a) a firewall and anti-virus systems to prevent illegal intrusion;
+
+(b) measures to detect network messages, monitor network traffic, and block malicious activities;
+
+(c) software to detect and correct the website’s vulnerabilities through periodic scans;
+
+(d) scheduled mock hacker attacks so that administrators can test the procedures in place for restoring the system during security incidents and that the uninterrupted operation of this website can be further ensured; and
+
+(e) backup operations that are carried out on a daily basis.
+
+**3\. Revisions and inquiries**
+
+These policies are subject to revision at any time. Any revisions to the policies will be posted immediately on this website. You are welcome to contact us should you have any questions about the policies.
