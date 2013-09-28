@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webos-internals.org privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531223032id_/http%3A//www.webos-internals.org/wiki/WebOS_Internals%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webos-internals.org privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928150614id_/http%3A//www.webos-internals.org/wiki/WebOS_Internals%3APrivacy_policy) for the most accurate reproduction.*
 
 # WebOS Internals:Privacy policy - WebOS Internals
 
