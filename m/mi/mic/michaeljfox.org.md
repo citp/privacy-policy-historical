@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the michaeljfox.org privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117220820id_/https%3A//www.michaeljfox.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michaeljfox.org privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928221338id_/https%3A//www.michaeljfox.org/privacy-policy.html) for the most accurate reproduction.*
 
 # The Michael J. Fox Foundation Privacy Policy | The Michael J. Fox Foundation
 
@@ -38,3 +38,6 @@ The Michael J. Fox Foundation for Parkinson's Research
 Church Street Station  
 P.O. Box 780  
 New York, NY 10008-0780
+
+**Disclosure**  
+This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as text you type in this website. This site does not use ClickTale to collect any personally identifiable information entered in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see Privacy Policy for Information Collected by the ClickTale Web Analytics Service. We are using the information collected by ClickTale service to improve the effectiveness of our website to better serve our visitors. You can choose to disable the Service at <http://www.clicktale.net/disable.html>.
