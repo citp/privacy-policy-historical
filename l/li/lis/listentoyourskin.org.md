@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listentoyourskin.org privacy policy that was archived on 2013-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130305175820id_/http%3A//listentoyourskin.org/_pdf/privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listentoyourskin.org privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928103215id_/http%3A//www.listentoyourskin.org/_pdf/privacy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
