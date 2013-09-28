@@ -1,15 +1,17 @@
-> *The following text is extracted and transformed from the flipline.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629033231id_/http%3A//www.flipline.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flipline.com privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928203804id_/http%3A//flipline.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy | Flipline Studios : Home of Free Games like Papa's Pancakeria and Papa's Wingeria
+# Privacy Policy | Flipline Studios
 
-This Privacy Policy discloses the privacy practices for www.flipline.com. This policy may be updated from time to time, and the revised policy will appear on this website.
+This Privacy Policy discloses the privacy practices for www.flipline.com and www.papalouie.com. This policy may be updated from time to time, and the revised policy will appear on this website.
 
-The Flipline Studios website located at www.flipline.com is run by Flipline IDS LLC under the trade name of Flipline Studios (www.flipline.com). 
+The Flipline Studios website located at [www.flipline.com](https://web.archive.org/web/20130928203804id_/http%3A//flipline.com/www.flipline.com) and the Papa Louie Arcade website located at [www.papalouie.com](https://web.archive.org/web/20130928203804id_/http%3A//flipline.com/www.papalouie.com) is run by Flipline IDS LLC under the trade name of Flipline Studios ([www.flipline.com](https://web.archive.org/web/20130928203804id_/http%3A//flipline.com/www.flipline.com)). 
 
 **Personal Information**    
-You can browse our website without providing any personal information. Should you decide to use the Contact form on our website, the information you provide, including your name and email address if you choose to provide them, will be sent to Flipline Studios. This information is used only for addressing your inquiries and concerns, and will not be sold to third parties.
+You can browse our website without providing any personal information. 
 
-You may also have the option of providing your email address or other personal information when subscribing to our newsletter. This information is used solely by Flipline Studios for sending our newsletter and is not sold or used for any other purpose.
+If you register on the Flipine Forum, we require an email address for registration validation and communication purposes. With each post, your IP address is recorded, in the event that you need to be banned from the forum or your ISP contacted. This will only happen in the event of a major violation of the forum agreement. We do not share any information gathered by our forum with any third party. Children under 13 are not allowed to register for the Flipline Forum.
+
+Game pages and blog posts feature Facebook Comment Boxes powered by www.facebook.com. In order to post comments you must have a compliant Facebook account. Facebook's Privacy Policy is available to read here: <https://www.facebook.com/about/privacy>
 
 **High Scores**  
 When playing games on the website, you may have the option of submitting your nickname and score to the "Leaderboard". The nickname you provide can be seen by other players who view the in-game Leaderboard. Please do not provide any personal identifiable information on the Leaderboard. The Leaderboard collects your provided nickname, your score, and the date submitted, and does not collect any other personal information.
