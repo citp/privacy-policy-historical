@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ratatype.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502074343id_/http%3A//www.ratatype.com/privacy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratatype.com privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928230553id_/http%3A//www.ratatype.com/privacy-terms) for the most accurate reproduction.*
 
 # Privacy & Terms — Ratatype
 
@@ -56,7 +56,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 ## Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.ratatype.com/privacy-terms#term>.
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.ratatype.com/privacy-terms/#term>.
 
 ## Your Consent
 
