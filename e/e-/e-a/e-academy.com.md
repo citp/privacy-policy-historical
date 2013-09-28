@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e-academy.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606033026id_/http%3A//kivuto.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-academy.com privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928112653id_/http%3A//kivuto.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Kivuto Solutions Inc.
 
