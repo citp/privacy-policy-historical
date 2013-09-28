@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the churchofengland.org privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618200156id_/http%3A//churchofengland.org/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the churchofengland.org privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928183140id_/http%3A//www.churchofengland.org/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
