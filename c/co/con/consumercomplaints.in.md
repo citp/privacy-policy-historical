@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumercomplaints.in privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628235934id_/http%3A//www.consumercomplaints.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumercomplaints.in privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928234902id_/http%3A//www.consumercomplaints.in/privacy-policy.html) for the most accurate reproduction.*
 
 # Indian Consumer Complaints Forum
 
@@ -67,21 +67,9 @@ If we merge with or are acquired by another company, the resulting combined comp
 
 ### Recently Discussed
 
-(1 hours 29 minutes ago)  
-[Airtel Prepaid](https://web.archive.org/complaints/airtel-prepaid-c118895.html)  
-call detail for 3 months
-
-(1 hours 58 minutes ago)  
-[DG shipping](https://web.archive.org/complaints/dg-shipping-kochi-ernakulam-kerala-c541213.html)  
-CDC STATUS
-
-(2 hours 43 minutes ago)  
-[Samsung](https://web.archive.org/complaints/samsung-c113123.html)  
-PATHETIC SERVICES OF SAMSUNG INDIA
-
-[](http://www.yadsi.in/ "India Classifieds")
-
-### Yadsi.in - Free Classifieds
+(1 hours 35 minutes ago)  
+[Nokia 1650](https://web.archive.org/complaints/nokia-1650-c113415.html)  
+puk code
 
 ### Latest Questions
 
