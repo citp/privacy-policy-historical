@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the singles2meet.co.za privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615003322id_/http%3A//www.singles2meet.co.za/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singles2meet.co.za privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928115056id_/http%3A//www.singles2meet.co.za/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Singles2meet.co.za
 
