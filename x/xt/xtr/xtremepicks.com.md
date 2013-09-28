@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xtremepicks.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521080418id_/http%3A//www.xtremepicks.com/disclaimer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtremepicks.com privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928024419id_/http%3A//www.xtremepicks.com/disclaimer/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Xtremepicks | Penny Stock Alerts | Penny Stocks | Penny Stock Picks | Best Penny Stocks | Hot Penny Stocks
 
