@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yesadvertising.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601064617id_/http%3A//www.yesadvertising.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesadvertising.com privacy policy that was archived on 2013-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130929003746id_/http%3A//www.yesadvertising.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | yesad
 
@@ -46,6 +46,10 @@ Contact information from the registration forms is used to get in touch with the
 
 This site contains links to other sites. YesUp is not responsible for the privacy practices or the content of such Web sites.
 
+## Sending Emails to Our Members
+
+Please note that we send all new members a verification email to verify password and username. By submitting your email to us when you create an account, your email will be added within our opt-in email contact list. Members will receive periodic emails with information such as newsletters, email promotions on products or services, or special deals, from YesAdvertising, as well as any companies affiliated with YesAdvertising as well. If you wish to stop receiving these emails, you can click on the unsubscribe link that’s included with every email or contact us directly.
+
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [webmaster@yesup.net](mailto:webmaster@yesup.net)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [privacy@yesadvertising.com](mailto:privacy@yesadvertising.com)
