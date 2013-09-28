@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unilinc.edu.au privacy policy that was archived on 2013-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130324164051id_/http%3A//www.unilinc.edu.au/%3Fq%3Dcontent/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unilinc.edu.au privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928125147id_/http%3A//www.unilinc.edu.au/%3Fq%3Dcontent/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | UNILINC
 
@@ -18,4 +18,4 @@ If you believe that any information we are holding on you is incorrect or incomp
 
 #### Contact
 
-For further information about this privacy statement please contact: Rona Wade, telephone (02) 9283 1488 or [email](https://web.archive.org/web/20130324164051id_/http%3A//www.unilinc.edu.au/%3Fq%3Dcontent/privacy-statement?q=content/contact-us).
+For further information about this privacy statement please contact: Rona Wade, telephone (02) 9283 1488 or [email](https://web.archive.org/web/20130928125147id_/http%3A//www.unilinc.edu.au/%3Fq%3Dcontent/privacy-statement?q=content/contact-us).
