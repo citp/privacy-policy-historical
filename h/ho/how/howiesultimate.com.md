@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howiesultimate.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524011036id_/http%3A//www.howiesultimate.com/member/membership/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howiesultimate.com privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928162538id_/http%3A//www.howiesultimate.com/member/membership/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Howies Ultimate
 
