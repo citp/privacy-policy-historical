@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the manuallinkbuilding.co.uk privacy policy that was archived on 2013-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130301183518id_/http%3A//uk.manuallinkbuilding.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manuallinkbuilding.co.uk privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928184057id_/http%3A//uk.manuallinkbuilding.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Link Building Services | SEO Outsourcing Company
+# Privacy Policy - Link Building Services | SEO Outsourcing | Link Building Company | SEO Link Building
 
 **Our Principles**  
-We (Gareth Hoyle Ltd t/a Manual [Link Building](http://uk.manuallinkbuilding.com/link-building/ "Link Building")) respect your personal information. We recognise that when you choose to provide us with information about yourself, you trust us to act in a responsible manner. That’s why we have put a policy in place to protect your personal information. This policy describes what we do with that information.  
+We (Gareth Hoyle Ltd t/a Manual [Link Building](http://uk.manuallinkbuilding.com/link-building/ "Link Building")) respect your personal information. We recognise that when you choose to provide us with information about yourself, you trust us to act in a responsible manner. That’s why we have put a policy in place to protect your personal information. This policy describes what we do with that information.  
 **What Information Do We Collect?**  
-(Gareth Hoyle Ltd t/a Manual [Link Building](http://uk.manuallinkbuilding.com/link-building/ "Link Building")) is the sole owner of the information collected on Manual Link Building’s Website.  
+(Gareth Hoyle Ltd t/a Manual [Link Building](http://uk.manuallinkbuilding.com/link-building/ "Link Building")) is the sole owner of the information collected on Manual [Link Building](http://uk.manuallinkbuilding.com/link-building/ "Link Building")’s Website.  
 We collect aggregate statistics about all customers, traffic patterns and related site information, but these statistics will include no personally identifying information.  
 You are not obliged to give us any personal information in order to use our website.  
 We collect some basic details from those who make a specific request for brochures, newsletters or other general enquiries. This includes your name, address, telephone number, e-mail address and postcode. We may also ask some further, voluntary questions so we can gain a clearer understanding of our users exact requirements and preferences.  
