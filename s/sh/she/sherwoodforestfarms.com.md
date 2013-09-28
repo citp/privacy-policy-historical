@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sherwoodforestfarms.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014191144id_/http%3A//www.sherwoodforestfarms.com/sherwood-forest-farms-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sherwoodforestfarms.com privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928160632id_/http%3A//www.sherwoodforestfarms.com/sherwood-forest-farms-privacy-statement) for the most accurate reproduction.*
 
 # Privacy Policy | Sherwood Forest Farms
 
@@ -76,6 +76,8 @@ Sherwood Forest Farms
 
 Attention: Privacy Statement Personnel
 
-2001 Sixth Ave., Suite 2170, Seattle, WA 98121
+P.O. Box 8400 
+
+Lacey, WA 98509
 
 Sherwood Forest Farms will use commercially reasonable efforts to promptly respond and resolve any problem or question.
