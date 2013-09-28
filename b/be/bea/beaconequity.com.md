@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the beaconequity.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509023755id_/http%3A//www.beaconequity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beaconequity.com privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928101507id_/http%3A//www.beaconequity.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Beacon Equity: Penny Stocks, Stock Alerts
+
+**0** Flares **0** Flares ×
 
 At BeaconEquity.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by BeaconEquity.com and how it is used.
 
@@ -37,4 +39,4 @@ At any time you may request to be removed from our mailing list by clicking the 
 
 If you have any questions regarding our policies please feel free to contact us at the following URL:
 
-[http://www.beaconequity.com/contact/](https://web.archive.org/web/20130509023755id_/http://www.beaconequity.com/contact/)
+[http://www.beaconequity.com/contact/](https://web.archive.org/web/20130928101507id_/http://www.beaconequity.com/contact/)
