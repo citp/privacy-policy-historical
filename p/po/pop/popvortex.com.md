@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popvortex.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023063840id_/http%3A//www.popvortex.com/info/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popvortex.com privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928164019id_/http%3A//www.popvortex.com/info/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy at PopVortex
 
