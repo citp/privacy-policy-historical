@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recruitlikecrazy.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620170047id_/http%3A//www.maximum-leverage.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recruitlikecrazy.com privacy policy that was archived on 2013-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130929010054id_/http%3A//www.maximum-leverage.com/privacy.html) for the most accurate reproduction.*
 
 # Maximum Leverage Privacy
 
