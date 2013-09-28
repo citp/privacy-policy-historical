@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infinityward.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509110450id_/http%3A//www.activision.com/atvihub/privacy.do%3Fsub%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infinityward.com privacy policy that was archived on 2013-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130929011905id_/http%3A//www.activision.com/privacy/en/privacy.html) for the most accurate reproduction.*
 
 # ACTIVISION
 
@@ -6,7 +6,7 @@
 
 This online property uses "cookies". Cookies enable users to navigate around online properties, such as websites, and also enable us to tailor content, marketing, and improve user experience. For further details on cookies, including how to disable them, please see the Cookies section of this Privacy Policy. Please note that without cookies enabled we cannot guarantee that this online property and your experience whilst visiting it will work as intended. By using this online property you agree, and we will assume you consent, to receive cookies unless you manage your cookies opt out choices as set out in the Cookies section of this Privacy Policy. 
 
-Below you will find the Activision Privacy Policy. This Privacy Policy was last updated on October 29, 2012. 
+Below you will find the Activision Privacy Policy. This Privacy Policy was last updated on August 20, 2013. 
 
 Your privacy is our policy. 
 
@@ -288,6 +288,14 @@ _Your Activision website or online property may contain the following third part
 
 | 
 
+Accuen 
+
+| 
+
+<http://accuenmedia.com/optout.htm>  
+  
+| 
+
 Add This 
 
 | 
@@ -376,7 +384,9 @@ Tribal Fusion
 
 Videology 
 
-|   
+| 
+
+[_http://www.videologygroup.com/index.php/en/menu-privacy-policy.html_](http://www.videologygroup.com/index.php/en/menu-privacy-policy.html)  
   
 **Apps for mobile phones and tablets**
 
