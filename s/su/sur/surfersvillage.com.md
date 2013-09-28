@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surfersvillage.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530160321id_/http%3A//www.surfersvillage.com/page/4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surfersvillage.com privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928090033id_/http%3A//www.surfersvillage.com/page/4) for the most accurate reproduction.*
 
 # Privacy
 
@@ -24,5 +24,3 @@ In some instances, when an email address has been provided by the visitor, and t
 These notices, sent periodically, will announce website upgrades, new product information and other similar updates. 
 
 Surfersvillage reserve the right to change this policy at any time by notifying guests of the existence of a new privacy policy.
-
-[More slideshows](https://web.archive.org/slideshows)
