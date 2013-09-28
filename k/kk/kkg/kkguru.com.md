@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kkguru.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602041510id_/http%3A//kkguru.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kkguru.com privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928030625id_/http%3A//kkguru.com/privacy-policy/%23comment-1290) for the most accurate reproduction.*
 
 # Privacy Policy | KKGURU.COM
 
