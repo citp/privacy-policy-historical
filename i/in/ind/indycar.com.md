@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indycar.com privacy policy that was archived on 2013-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130428222748id_/http%3A//www.indycar.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indycar.com privacy policy that was archived on 2013-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130929005948id_/http%3A//www.indycar.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy & Terms of Use
 
