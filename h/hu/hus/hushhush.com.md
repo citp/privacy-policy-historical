@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hushhush.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624053601id_/https%3A//hushhush.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hushhush.com privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928061021id_/http%3A//www.hushhush.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy HushHush
 
 This privacy policy discloses the privacy practices for Markco Media Limited, a company incorporated in England & Wales with company number 06327961 and having its registered office at Edmund House c/o Alpha Business Services, 27 St James's Road, Dudley, West Midlands, DY1 3JD ("we", "us", "our"). Our website is www.HushHush.com (the "Site").
 
