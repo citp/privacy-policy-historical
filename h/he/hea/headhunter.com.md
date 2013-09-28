@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the headhunter.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602164225id_/http%3A//www.headhunter.com/s/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the headhunter.com privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928125559id_/http%3A//www.headhunter.com/ah/s/privacy) for the most accurate reproduction.*
 
 # Privacy Guidelines
 
@@ -60,7 +60,7 @@ We collect information stored in your social media profile that you authorize us
 
 
 
-In addition, when you visit our Sites or use our mobile applications, we may collect certain information by automated means, such as cookies and web beacons, as described in more detail [below](https://web.archive.org/web/20130602164225id_/http%3A//www.headhunter.com/s/privacy.aspx?version=new#cookies). The information we may collect by automated means includes:
+In addition, when you visit our Sites or use our mobile applications, we may collect certain information by automated means, such as cookies and web beacons, as described in more detail [below](https://web.archive.org/web/20130928125559id_/http%3A//www.headhunter.com/ah/s/privacy.aspx?version=new#cookies). The information we may collect by automated means includes:
 
   * Information about the devices our visitors use to access the Internet (such as the IP address and the device, browser and operating system type).
   * Pages and URLs that refer visitors to our Sites, also pages and URLs that visitors exit to once they leave our Sites.
@@ -71,7 +71,7 @@ In addition, when you visit our Sites or use our mobile applications, we may col
 
 
 
-[(Return to Top)](https://web.archive.org/web/20130602164225id_/http%3A//www.headhunter.com/s/privacy.aspx?version=new#top)
+[(Return to Top)](https://web.archive.org/web/20130928125559id_/http%3A//www.headhunter.com/ah/s/privacy.aspx?version=new#top)
 
 ### How We Use the Information We Collect
 
@@ -95,11 +95,11 @@ We may use the information we obtain about you to:
 
 
 
-We also use non-personally identifiable information and certain technical information about your computer and your access of the Sites (including your internet protocol address) in order to operate, maintain and manage the Sites. We collect this information by automated means, such as cookies and web beacons, as described in more detail [below](https://web.archive.org/web/20130602164225id_/http%3A//www.headhunter.com/s/privacy.aspx?version=new#cookies). 
+We also use non-personally identifiable information and certain technical information about your computer and your access of the Sites (including your internet protocol address) in order to operate, maintain and manage the Sites. We collect this information by automated means, such as cookies and web beacons, as described in more detail [below](https://web.archive.org/web/20130928125559id_/http%3A//www.headhunter.com/ah/s/privacy.aspx?version=new#cookies). 
 
 If we seek to use the information we obtain about you in other ways, we will provide specific notice and request your consent at the time of collection.
 
-[(Return to Top)](https://web.archive.org/web/20130602164225id_/http%3A//www.headhunter.com/s/privacy.aspx?version=new#top)
+[(Return to Top)](https://web.archive.org/web/20130928125559id_/http%3A//www.headhunter.com/ah/s/privacy.aspx?version=new#top)
 
 ### INFORMATION WE SHARE
 
@@ -121,7 +121,7 @@ CareerBuilder also may disclose specific user information when we determine, in 
 
 In addition, Personal Information we have collected may be passed on to a third party in the event of a transfer of ownership or assets or a bankruptcy or other corporate reorganization of CareerBuilder. 
 
-[(Return to Top)](https://web.archive.org/web/20130602164225id_/http%3A//www.headhunter.com/s/privacy.aspx?version=new#top)
+[(Return to Top)](https://web.archive.org/web/20130928125559id_/http%3A//www.headhunter.com/ah/s/privacy.aspx?version=new#top)
 
 ### Resume Privacy Options
 
@@ -140,7 +140,7 @@ This option allows you to post your resume on the Sites without having it search
 
 We attempt to limit access to our searchable resume database to legitimate users such as paying employers, recruiters, hiring managers, headhunters and human resource professionals, but cannot guarantee that other parties will not gain access to this database. We cannot control the use of resumes by third parties who access such resumes while they are in our searchable database. You may remove your resume from our searchable database at any time. However, employers, recruiters and others who have paid for access to that database, as well as parties who have otherwise gained access to the database may have retained a copy of your resume in their own files or databases. We cannot control the retention, use or privacy of resumes or profiles that have been downloaded by third parties. Accordingly, you should not put information you would not want made public in your resume.
 
-[(Return to Top)](https://web.archive.org/web/20130602164225id_/http%3A//www.headhunter.com/s/privacy.aspx?version=new#top)
+[(Return to Top)](https://web.archive.org/web/20130928125559id_/http%3A//www.headhunter.com/ah/s/privacy.aspx?version=new#top)
 
 ### About Cookies and Third Party Advertisers
 
@@ -158,19 +158,19 @@ To help prevent and limit the automatic collection of information by any partici
 
 In addition, some of the employers that use our Sites may place cookies on your computer through their job postings and may use such cookies to distinguish your web browser uniquely. Often, employers use such information to track the effectiveness of their job postings by measuring how many users who view their postings later became job applicants. To obtain guidance regarding deleting or disabling cookies, please [click here.](http://www.careerbuilder.com/Jobseeker/Page.aspx?pagever=remove-cookies)
 
-[(Return to Top)](https://web.archive.org/web/20130602164225id_/http%3A//www.headhunter.com/s/privacy.aspx?version=new#top)
+[(Return to Top)](https://web.archive.org/web/20130928125559id_/http%3A//www.headhunter.com/ah/s/privacy.aspx?version=new#top)
 
 ### Update Your Account Information
 
 You may access, update and amend Personal Information included in your online account at any time by logging into your account and making the necessary changes. You may also delete your resume from our resume database at any time by logging in to your account and deleting the resume. Deleting your resume will remove it from your account and from the resume database, however; if you have applied to a job in the past, that particular employer will still be able to access your resume. Further, you will not be able to delete data held by third parties, such as prospective employers, that have already accessed and downloaded your information or resume.
 
-[(Return to Top)](https://web.archive.org/web/20130602164225id_/http%3A//www.headhunter.com/s/privacy.aspx?version=new#top)
+[(Return to Top)](https://web.archive.org/web/20130928125559id_/http%3A//www.headhunter.com/ah/s/privacy.aspx?version=new#top)
 
 ### Links to Other Websites
 
 Our Sites may contain links to other sites for your convenience and information. These sites may be operated by companies not owned by CareerBuilder. In addition, if you are using our App through a social networking site, remember that our Apps may be served by or hosted by other sites. These other sites or linked third-party sites may have their own privacy notices, which you should review if you visit those sites. We are not responsible for the content of any sites not owned by CareerBuilder, any use of those sites, or those sites’ privacy practices.
 
-[(Return to Top)](https://web.archive.org/web/20130602164225id_/http%3A//www.headhunter.com/s/privacy.aspx?version=new#top)
+[(Return to Top)](https://web.archive.org/web/20130928125559id_/http%3A//www.headhunter.com/ah/s/privacy.aspx?version=new#top)
 
 ### International Data Transfers
 
@@ -182,7 +182,7 @@ In compliance with the US-EU and US-Swiss Safe Harbor Principles, CareerBuilder 
 
 CareerBuilder has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by CareerBuilder, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/european-dispute-resolution/consumer/) for more information and to file a complaint.
 
-[(Return to Top)](https://web.archive.org/web/20130602164225id_/http%3A//www.headhunter.com/s/privacy.aspx?version=new#top)
+[(Return to Top)](https://web.archive.org/web/20130928125559id_/http%3A//www.headhunter.com/ah/s/privacy.aspx?version=new#top)
 
 ### How We Protect Personal Information
 
@@ -192,7 +192,7 @@ Please note that no electronic transmission of information can be entirely secur
 
 To further protect yourself, you should safeguard your CareerBuilder account user name and password and not share that information with anyone. You should also sign off your account and close your browser window when you have finished your visit to our Sites. Please note that we will never ask for your CareerBuilder account user name or password via email.
 
-[(Return to Top)](https://web.archive.org/web/20130602164225id_/http%3A//www.headhunter.com/s/privacy.aspx?version=new#top)
+[(Return to Top)](https://web.archive.org/web/20130928125559id_/http%3A//www.headhunter.com/ah/s/privacy.aspx?version=new#top)
 
 ### Some Important Tips To Use When Dealing With Prospective Employers
 
@@ -209,25 +209,25 @@ For additional details regarding How To Spot Fraud Online, please [click here.](
 
 We use secure socket layer (or “SSL") technology to protect credit card transactions. The SSL technology encrypts credit card numbers while in transit so that they are not intercepted by unintended third parties. We use BluePay Processing LLC to process credit card purchases and their privacy policy may be viewed [here.](http://www.bluepay.com/privacy-policy)
 
-[(Return to Top)](https://web.archive.org/web/20130602164225id_/http%3A//www.headhunter.com/s/privacy.aspx?version=new#top)
+[(Return to Top)](https://web.archive.org/web/20130928125559id_/http%3A//www.headhunter.com/ah/s/privacy.aspx?version=new#top)
 
 ### California, USA Residents
 
 California law permits its residents to request and receive information about a business’ disclosure of certain categories of Personal Information to other companies for their use in direct marketing. If you are a California resident and a user of any of the Sites, you can request a copy of this information from CareerBuilder by sending an email to [customer.service@careerbuilder.com](mailto:%20customer.service@careerbuilder.com) or a letter to CareerBuilder at 5550-A Peachtree Parkway, Norcross, Georgia 30092, Attention: Customer Service. Please include your name and email address in email requests, and your name and postal address in mail requests. 
 
-[(Return to Top)](https://web.archive.org/web/20130602164225id_/http%3A//www.headhunter.com/s/privacy.aspx?version=new#top)
+[(Return to Top)](https://web.archive.org/web/20130928125559id_/http%3A//www.headhunter.com/ah/s/privacy.aspx?version=new#top)
 
 ### Children’s Privacy
 
 We do not knowingly collect or solicit information from anyone under the age of 13. If you are under 13, please do not use the Sites. In the event that we learn that we have collected personal information from a child under the age of 13, we will delete that information as quickly as possible.
 
-[(Return to Top)](https://web.archive.org/web/20130602164225id_/http%3A//www.headhunter.com/s/privacy.aspx?version=new#top)
+[(Return to Top)](https://web.archive.org/web/20130928125559id_/http%3A//www.headhunter.com/ah/s/privacy.aspx?version=new#top)
 
 ### How to Contact Us
 
 You can direct questions regarding this Privacy Policy to CareerBuilder by emailing us at [customer.service@careerbuilder.com](mailto:%20customer.service@careerbuilder.com) or by letter to CareerBuilder at 5550-A Peachtree Parkway, Norcross, Georgia 30092, Attention: Customer Service. Please include your name and email address in email requests, and your name and postal address in mail requests.
 
-[(Return to Top)](https://web.archive.org/web/20130602164225id_/http%3A//www.headhunter.com/s/privacy.aspx?version=new#top)
+[(Return to Top)](https://web.archive.org/web/20130928125559id_/http%3A//www.headhunter.com/ah/s/privacy.aspx?version=new#top)
 
 CareerBuilder, LLC and its subsidiaries and divisions (collectively, “CareerBuilder”, “We” or “Our”) has drafted its Privacy Policy to ensure that you can use CareerBuilder’s sites on your own terms and completely anonymously if you so desire. CareerBuilder continues to strive to provide the safest possible environment for you to search for and apply to jobs.
 
