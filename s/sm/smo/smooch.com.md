@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smooch.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526030139id_/http%3A//www.smooch.com/free-online-dating/Privacy-Statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smooch.com privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928090918id_/http%3A//www.smooch.com/free-online-dating/Privacy-Statement.asp) for the most accurate reproduction.*
 
 # Completely Free Dating at Smooch.com™
 
