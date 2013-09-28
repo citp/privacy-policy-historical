@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localwise.com privacy policy that was archived on 2012-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120305165151id_/http%3A//www.localwise.com/Home/tabid/41/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localwise.com privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928202124id_/http%3A//www.localwise.com/Home/tabid/41/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # Atlanta Website Design, Search Engine Optimization, and Social Media Networking
 
