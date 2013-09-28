@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vodafone.com.gh privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531182333id_/http%3A//vodafone.com.gh/About-Us/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodafone.com.gh privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928053439id_/http%3A//vodafone.com.gh/About-Us/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Vodafone Ghana » Vodafone is a total communications solutions provider
 
