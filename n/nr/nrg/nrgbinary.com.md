@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nrgbinary.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615041549id_/http%3A//www.nrgbinary.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nrgbinary.com privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928030738id_/http%3A//www.nrgbinary.com/Privacy) for the most accurate reproduction.*
 
-# nrgbinary - Privacy
+# NRGbinary - سياسة الخصوصية
 
 **NRGbinary does its utmost to ensure the privacy, confidentiality and security of its clients are preserved both throughout their interaction with the company and afterwards, to the fullest extent achievable by the company.**
 
