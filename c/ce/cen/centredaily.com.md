@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centredaily.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524075023id_/http%3A//www.centredaily.com/privacy_policy%23navlink%3Dmi_footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centredaily.com privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928100018id_/http%3A//www.centredaily.com/privacy_policy%23navlink%3Dmi_footer) for the most accurate reproduction.*
 
 # CentreDaily.com State College, PA
 
