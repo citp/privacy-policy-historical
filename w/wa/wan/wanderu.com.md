@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wanderu.com privacy policy that was archived on 2012-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121009061557id_/http%3A//www.wanderu.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wanderu.com privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928024349id_/http%3A//www.wanderu.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wanderu
 
@@ -44,4 +44,4 @@ Children are not eligible to use Wanderu.com's services, and we ask that minors 
 
 **Opting-Out, Corrections and Cancellations.**
 
-Upon request, Wanderu.com will: (a) remove you and your personal information from our database, thereby canceling your registration; (b) correct personal information that you state is erroneous; or (c) permit you to "opt out" of further email contact (except notification of major changes to the service) while still allowing access to the site. To request a correction or cancellation, contact us at [privacy@wanderu.com](mailto:privacy@wanderu.com). 
+Upon request, Wanderu.com will: (a) remove you and your personal information from our database, thereby canceling your registration; (b) correct personal information that you state is erroneous; or (c) permit you to "opt out" of further email contact (except notification of major changes to the service) while still allowing access to the site. To request a correction or cancellation, contact us at [privacy@wanderu.com](https://web.archive.org/mailto:privacy@wanderu.com). 
