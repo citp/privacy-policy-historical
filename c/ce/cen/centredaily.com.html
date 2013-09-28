@@ -1,7 +1,9 @@
-<!--The following is the downloaded HTML source of the centredaily.com privacy policy that was archived on 2013-05-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130524075023id_/http%3A//www.centredaily.com/privacy_policy%23navlink%3Dmi_footer) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the centredaily.com privacy policy that was archived on 2013-09-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130928100018id_/http%3A//www.centredaily.com/privacy_policy%23navlink%3Dmi_footer) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js"><head>
+
+    
 <title>CentreDaily.com State College, PA</title>
 
 
@@ -21,9 +23,12 @@
    
    // ----- end gomez -----
 //--> 
-</script><script async="" src="https://D3FD89.r.axf8.net/mr/e.gif?info=%7Bn%3Ac%7Ca%3AD3FD89%7Ch%3A2%7Cc%3A129277108520715%7Ci%3A%7Cj%3A%7Cd%3A1%7Ce%3AState%20College%7Cb%3Astatic%7Cl%3Ahttps%24*%24%2F%2Fweb.archive.org%2Fweb%2F20130524075023id_%2Fhttp%253A%2F%2Fwww.centredaily.com%2Fprivacy_policy%2523navlink%253Dmi_footer%7Cm%3A800%7Co%3A600%7Cp%3ALinux%20x86_64%7Cg%3AChrome%7Cf%3A69.0.3494.0%7D%7Bn%3Au%7Ce%3A1%7D&amp;a=D3FD89&amp;r=1&amp;s=1" type="text/javascript"></script>
+</script><script async="" src="https://D3FD89.r.axf8.net/mr/e.gif?info=%7Bn%3Ac%7Ca%3AD3FD89%7Ch%3A2%7Cc%3A81553833686414%7Ci%3A%7Cj%3A%7Cd%3A1%7Ce%3AState%20College%7Cb%3Astatic%7Cl%3Ahttps%24*%24%2F%2Fweb.archive.org%2Fweb%2F20130928100018id_%2Fhttp%253A%2F%2Fwww.centredaily.com%2Fprivacy_policy%2523navlink%253Dmi_footer%7Cm%3A800%7Co%3A600%7Cp%3ALinux%20x86_64%7Cg%3AChrome%7Cf%3A69.0.3494.0%7D%7Bn%3Au%7Ce%3A1%7D&amp;a=D3FD89&amp;r=1&amp;s=1" type="text/javascript"></script>
 
-<link href="/mistatic/cache/stylesheets/63602c23c86c05050fbb674214a2afd0-min.css" media="screen" rel="stylesheet" type="text/css">
+
+
+<link rel="apple-touch-icon" href="http://media.centredaily.com/mistatic/images/icons/CentreDailyTimes.png">
+<link href="/mistatic/cache/stylesheets/b05bb3a013a6b723994295830bf82aaf-min.css" media="screen" rel="stylesheet" type="text/css">
 
 <link href="http://media.centredaily.com/mistatic/stylesheets/print.css" media="print" rel="stylesheet" type="text/css">
 
@@ -89,60 +94,87 @@
 
 <script type="text/javascript">
 var auth_cookie_name = "centredaily_user_auth";
-</script><script type="text/javascript" src="/mistatic/cache/javascripts/ccc1056db32079cd3b64c6700ac11daf-min.js"></script>
+</script><script type="text/javascript" src="/mistatic/cache/javascripts/73a2ec3947eb21904199b83f9622dd94-min.js"></script>
 
 
 <script type="text/javascript" src="http://media.centredaily.com/mistats/mianalytics.js"></script>
 
-<script type="text/javascript" src="http://media.centredaily.com/static/scripts/sectionfront.js"></script>
+<script type="text/javascript">
+/**
+ * @fileOverview
+ * This is the configuration file for the affiliate. Making changes to this file could result in
+ * breaking your search. If you have any questions please submit a ticket via the Support Portal.
+ *
+ * When hyphens (-) are used in URL query params, the string "_mihyphen_" is used in place of an
+ * actual hyphen (-) in the object property names below. Hyphens can't be used in object property
+ * names.
+ *
+ *
+ *
+ * @minify true
+ * @author Jamison Kirk (jkirk [at] mcclatchyinteractive.com)
+ */
+
+
+mi.Search.prototype.searchParamConfig = function(search_type, search_text) {
+
+        this.setConf("searchSelectorType","");
+        this.setConf("defaultSearchType","site_search");
+
+        this.setConf("mi_search_dropdown_keys",$("form#search_widget_form div.arrow, form#search_widget_form ul, form#search_widget_form div.icon, form#search_widget_form input#search_keywords"));
+        this.setConf("mi_search_drop_down",$("form#search_widget_form ul"));
+        this.setConf("mi_search_drop_down_link",$("form#search_widget_form ul.search_widget_choice li a"));
+        this.setConf("mi_search_dropdown_input",$("#search_keywords"));
+        this.setConf("mi_search_widget_icon",$("#search_widget_form div.icon img"));
+        this.setConf("mi_search_selected",$("#search_widget_choice li"));
+
+        this.setConf("mi_search_drop_down_web_search_item",$("#search_widget_web_search_choice"));
+        this.setConf("yahoo_credit",$("p.yahoo_credit"));
+        
+
+        if (search_type) {
+                switch (search_type) {
+                        case "site_search":
+                                this.setConf("form_action","http://www.centredaily.com/search_results");
+                        break;
+                        
+                        case "web_search":
+                                this.setConf("form_action","http://www.centredaily.com/web_search");
+                        break;
+                        
+                        case "archives":
+                                this.setConf("form_action","http://www.newslibrary.com/nlsearch.asp?");
+                                this.setConf("query_fields",{search_mode:"all",
+                                                                date_mode:"year",
+                                                                year:"last+180+days",
+                                                                sort:"d%3Ah",
+                                                                nitems:"10",
+                                                                region:"DT",
+                                                                dbquery:search_text,
+                                                                collection:"ARCHIVES"}
+                                                );
+                        break;
+                        
+                        default:
+                                this.configErrorReporter();
+                }
+        }
+};
+</script>
+
 <script type="text/javascript">
     if (typeof(mi.Search) !== 'undefined') {
         mi.search = new mi.Search();
     }
 </script>
 
-<script type="text/javascript">
-    mi.commenting = new mi.Commenting();
-    
-    mi.commenting.setConf( "accountName", "centredaily" );
-    
-    
-    var disqus2012cookie = new mi.Cookie(document, 'disqus2012');
-    if(disqus2012cookie.load()){
-            mi.commenting.reset_disqus_config(disqus2012cookie.disqus2012, '1i5FkqMD7y16QPLgKu9m9sfp74FwqrMuUj9ApgoSdMHetzO6vK5CLS4K6EKEON5c');
-    }
-    
-    
-    
-</script>
-
-<!--[if lte IE 7]>
-<script type="text/javascript">
-$(document).ready(function() {
-    // Dynamic padding for navigation
-    var parent_container = $('nav.primary div');
-    var target_elements = $('nav.primary div a');
-    var remainder_element = $('nav.primary div ul#analytics_based li:first-child a');
-    var border_size = (target_elements.length * 2 + 1);
-    padding(parent_container, target_elements, remainder_element, border_size, false);
-
-    // Dynamic padding for sub-navigation
-    var parent_container = $('#sub_nav');
-    var target_elements = $('#sub_nav > ul li a');
-    var remainder_element = $('#sub_nav > ul li:first-child a');
-    var border_size = (target_elements.length * 2 + 1);
-    padding(parent_container, target_elements, remainder_element, border_size, false);
-});
-</script>
-<![endif]-->
-
-
-
-	<script type="text/javascript">
-	$(document).ready(function() {
-		$("#commentCount").hide();
-	});
-	</script>
+        <script type="text/javascript">
+            mi.commenting = new mi.Commenting();
+            mi.commenting.setConf( {
+                accountName: "CentreDailyTimes",
+                fbapp_id:    "229865280500411"
+            });
+        </script>
 
 
 <script type="text/javascript">
@@ -170,32 +202,32 @@ $(document).ready(function() {
     googletag.pubads().setTargeting("pl", "misc");
     googletag.pubads().setTargeting("sect", "Static");
 
+
     googletag.pubads().setTargeting("ref", gpt_ref);   });
 </script> 
-
 <script>
   googletag.cmd.push(function() {
-      googletag.defineSlot("/7675/STC.site_centredaily/Online/SiteInformation", [960,30], "div-gpt-ad-206367043732971-1")
+      googletag.defineSlot("/7675/STC.site_centredaily/Online/SiteInformation", [960,30], "div-gpt-ad-903957488347654-1")
         .setTargeting("pos", "1")
         .setTargeting("atf", "y")
         .addService(googletag.pubads()); 
-      googletag.defineSlot("/7675/STC.site_centredaily/Online/SiteInformation", [150,25], "div-gpt-ad-206367043732971-2")
+      googletag.defineSlot("/7675/STC.site_centredaily/Online/SiteInformation", [150,25], "div-gpt-ad-903957488347654-2")
         .setTargeting("pos", "1")
         .setTargeting("atf", "y")
         .addService(googletag.pubads()); 
-      googletag.defineSlot("/7675/STC.site_centredaily/Online/SiteInformation", [100,25], "div-gpt-ad-206367043732971-3")
+      googletag.defineSlot("/7675/STC.site_centredaily/Online/SiteInformation", [100,25], "div-gpt-ad-903957488347654-3")
         .setTargeting("pos", "1")
         .setTargeting("atf", "y")
         .addService(googletag.pubads()); 
-      googletag.defineSlot("/7675/STC.site_centredaily/Online/SiteInformation", [300,250], "div-gpt-ad-206367043732971-4")
+      googletag.defineSlot("/7675/STC.site_centredaily/Online/SiteInformation", [300,250], "div-gpt-ad-903957488347654-4")
         .setTargeting("pos", "1")
         .setTargeting("atf", "y")
         .addService(googletag.pubads()); 
-      googletag.defineSlot("/7675/STC.site_centredaily/Online/SiteInformation", [300,100], "div-gpt-ad-206367043732971-5")
+      googletag.defineSlot("/7675/STC.site_centredaily/Online/SiteInformation", [300,100], "div-gpt-ad-903957488347654-5")
         .setTargeting("pos", "1")
         .setTargeting("atf", "n")
         .addService(googletag.pubads()); 
-      googletag.defineSlot("/7675/STC.site_centredaily/Online/SiteInformation", [300,250], "div-gpt-ad-206367043732971-6")
+      googletag.defineSlot("/7675/STC.site_centredaily/Online/SiteInformation", [300,250], "div-gpt-ad-903957488347654-6")
         .setTargeting("pos", "2")
         .setTargeting("atf", "n")
         .addService(googletag.pubads()); 
@@ -205,7 +237,6 @@ $(document).ready(function() {
     googletag.enableServices();
   });
 </script>
-
 <script language="JavaScript" type="text/javascript" src="http://media.centredaily.com/misites/cdt/centredaily.js"></script><!-- site specific file already loaded -->
 <script language="JavaScript" type="text/javascript">
 <!--
@@ -234,15 +265,15 @@ mistats.channel='Privacy Policy';
 </script>
 
 
+
 </head>
 
 
 <body class="section" id="section_"><div class="sbb_wrap">
     <div class="top_ads">   
         <div class="ad">
-        <div class="advertisement dart_960x30" id="dart_960x30_1"><script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.cdt00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=960x30;tile=1;!c=news;gender=;year=;income=;ord=212059459310545?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.cdt00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=960x30;tile=1;!c=news;gender=;year=;income=;ord=212059459310545?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.cdt00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=960x30;tile=1;!c=news;gender=;year=;income=;ord=212059459310545?" border="0" alt="Advertisement"></a></noscript> <div id="div-gpt-ad-206367043732971-1">
-<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-206367043732971-1'); });</script>
+        <div class="advertisement dart_960x30" id="dart_960x30_1"><div id="div-gpt-ad-903957488347654-1">
+<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-903957488347654-1'); });</script>
 </div>        </div>
 </div>
 
@@ -261,7 +292,14 @@ mistats.channel='Privacy Policy';
             <li class="jobs"><a href="/jobs/#navlink=navbar">Jobs</a></li>
             <li class="cars"><a href="/cars/#navlink=navbar">Cars</a></li>
             <li class="homes"><a href="/homes/#navlink=navbar">Homes</a></li>
-            <li class="apartments"><a href="/apartments/#navlink=navbar">Apartments</a></li><li class="legals"><a href="/classified-ads/category/Legals#navlink=navbar">Legals</a></li>            <li class="place_ad last"><a href="http://statecollegecentredailytimes.adperfect.com/#navlink=navbar">Place an ad</a></li>
+            <li class="apartments"><a href="/apartments/#navlink=navbar">Apartments</a></li><li class="legals"><a href="/classified-ads/category/Legals#navlink=navbar">Legals</a></li>            <li class="place_ad last"><a href="http://statecollegecentredailytimes.adperfect.com/#navlink=navbar">Place an ad</a>                        <ul class="place_ad_links">
+                            <li><a href="http://statecollegecentredailytimes.adperfect.com/#navlink=navbar">Classifieds</a></li>
+                            <li><a href="http://statecollegecentredailytimes.adperfect.com//?catid=815">Jobs</a></li>
+                            <li><a href="http://statecollegecentredailytimes.adperfect.com//?catid=816">Cars</a></li>
+                            <li><a href="http://statecollegecentredailytimes.adperfect.com//?catid=813">Homes</a></li>
+                            <li><a href="http://statecollegecentredailytimes.adperfect.com//?catid=814">Apartments</a></li>
+                            <li><a href="http://statecollegecentredailytimes.adperfect.com/#navlink=navbar">Other</a></li>
+                        </ul>            </li>
         </ul>
         
         <div id="weather">
@@ -269,18 +307,17 @@ mistats.channel='Privacy Policy';
             
 
             <div class="current">
-            <a href="/weather/"><img id="weather_icon" alt="Showers" src="http://media.centredaily.com/mistatic/images/weather/icons/12.png"></a>
+            <a href="/weather/"><img id="weather_icon" alt="Fog" src="http://media.centredaily.com/mistatic/images/weather/icons/11.png"></a>
             </div>
             <div class="temp">
-                <div id="weather_curr_temp" class="current_temp">59°</div>
+                <div id="weather_curr_temp" class="current_temp">49°</div>
                 <div class="weather_alert"><a href="?">Alert!</a></div>
                 <div class="forecast">&nbsp;<a href="/weather/">Forecast</a></div>
             </div>
         </div><!-- #weather -->
             <div class="weather_sponsor" id="dart_150x25_weather_1">
-        <script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.cdt00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=150x25;tile=2;!c=news;gender=;year=;income=;ord=212059459310545?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.cdt00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=150x25;tile=2;!c=news;gender=;year=;income=;ord=212059459310545?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.cdt00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=150x25;tile=2;!c=news;gender=;year=;income=;ord=212059459310545?" border="0" alt="Advertisement"></a></noscript> <div id="div-gpt-ad-206367043732971-2">
-<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-206367043732971-2'); });</script>
+        <div id="div-gpt-ad-903957488347654-2">
+<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-903957488347654-2'); });</script>
 </div>
             </div>
     </div><!-- end mast_top -->
@@ -317,6 +354,7 @@ mistats.channel='Privacy Policy';
                         </a>
                     </li>
                     
+                    
                     <li id="search_widget_web_search_choice" style="display: none;">
                         <a id="web_search" href="#">
                             <img src="http://media.centredaily.com/mistatic/images/search/search_dropdown_yahoo_logo.png">Web Search
@@ -331,7 +369,9 @@ mistats.channel='Privacy Policy';
                 </ul>
             <div class="clear"></div>
             </form>
+            
             <p class="yahoo_credit">Web Search powered by <b><span class="yahoo_text">YAHOO!</span> SEARCH</b></p>
+            
             <script type="text/javascript">
                     if (typeof(mi.search) !== "undefined" || typeof(mi.search.setUp) !== "function") {
                         mi.search.setUp();
@@ -354,18 +394,16 @@ mistats.channel='Privacy Policy';
 <div id="main_nav">
     <ul>
         <li id="nav_ad">
-        <script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.cdt00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=100x25;tile=3;!c=news;gender=;year=;income=;ord=212059459310545?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.cdt00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=100x25;tile=3;!c=news;gender=;year=;income=;ord=212059459310545?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.cdt00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=100x25;tile=3;!c=news;gender=;year=;income=;ord=212059459310545?" border="0" alt="Advertisement"></a></noscript> <div id="div-gpt-ad-206367043732971-3">
-<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-206367043732971-3'); });</script>
+        <div id="div-gpt-ad-903957488347654-3">
+<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-903957488347654-3'); });</script>
 </div>
         </li>
         <li><a href="/#navlink=navbar" title="Home Page">Home</a></li>                <li><a href="/news/#navlink=navbar" title="News">News</a>
                                             <ul class="subnav">
-                                                        <li><a href="http://newspaperads.centredaily.com/SS/Tiles.aspx?type_current=announcements#navlink=subnav" title="">Announcements</a></li>                                <li><a href="/business/#navlink=subnav" title="">Business</a></li>                                <li><a href="/community/#navlink=subnav" title="">Communities</a></li>                                <li><a href="/crime-news/#navlink=subnav" title="">Crime</a></li>                                <li><a href="/latest-news/#navlink=subnav" title="">Latest News</a></li>                                <li><a href="/local/#navlink=subnav" title="">Local</a></li>                                <li><a href="/marcellus-shale/#navlink=subnav" title="">Marcellus Shale</a></li>                                <li><a href="/multimedia/#navlink=subnav" title="">Multimedia</a></li>                                <li><a href="/nation/#navlink=subnav" title="">Nation</a></li>                                <li><a href="/penn-state/#navlink=subnav" title="">Penn State</a></li>                                <li><a href="/politics/#navlink=subnav" title="">Politics</a></li>                                <li><a href="/real-estate-transfers/#navlink=subnav" title="">Real Estate Transfers</a></li>                                <li><a href="/state-news/#navlink=subnav" title="">State</a></li>                                <li><a href="/weird-news/#navlink=subnav" title="">Weird News</a></li>                                <li><a href="/world/#navlink=subnav" title="">World</a></li>                        </ul>                </li>                <li><a href="/sports/#navlink=navbar" title="Sports">Sports</a>
+                                                        <li><a href="http://newspaperads.centredaily.com/SS/Tiles.aspx?type_current=announcements#navlink=subnav" title="">Announcements</a></li>                                <li><a href="/business/#navlink=subnav" title="">Business</a></li>                                <li><a href="/community/#navlink=subnav" title="">Communities</a></li>                                <li><a href="/crime-news/#navlink=subnav" title="">Crime</a></li>                                <li><a href="/latest-news/#navlink=subnav" title="">Latest News</a></li>                                <li><a href="/local/#navlink=subnav" title="">Local</a></li>                                <li><a href="/sandusky/#navlink=subnav" title="">Sandusky Scandal</a></li>                                <li><a href="/marcellus-shale/#navlink=subnav" title="">Marcellus Shale</a></li>                                <li><a href="/multimedia/#navlink=subnav" title="">Multimedia</a></li>                                <li><a href="/nation/#navlink=subnav" title="">Nation</a></li>                                <li><a href="/penn-state/#navlink=subnav" title="">Penn State</a></li>                                <li><a href="/politics/#navlink=subnav" title="">Politics</a></li>                                <li><a href="/real-estate-transfers/#navlink=subnav" title="">Real Estate Transfers</a></li>                                <li><a href="/state-news/#navlink=subnav" title="">State</a></li>                                <li><a href="/weird-news/#navlink=subnav" title="">Weird News</a></li>                                <li><a href="/world/#navlink=subnav" title="">World</a></li>                        </ul>                </li>                <li><a href="/sports/#navlink=navbar" title="Sports">Sports</a>
                                             <ul class="subnav">
-                                                        <li><a href="/college-sports/#navlink=subnav" title="">College</a></li>                                <li><a href="/sports-columnists/#navlink=subnav" title="">Columnists</a></li>                                <li><a href="/golf/#navlink=subnav" title="">Golf</a></li>                                <li><a href="/high-school-sports/#navlink=subnav" title="">High School</a></li>                                <li><a href="/MLB/#navlink=subnav" title="">MLB</a></li>                                <li><a href="/motorsports/#navlink=subnav" title="">Motorsports</a></li>                                <li><a href="/NFL/#navlink=subnav" title="">NFL</a></li>                                <li><a href="/NHL/#navlink=subnav" title="">NHL</a></li>                                <li><a href="/outdoors/#navlink=subnav" title="">Outdoors</a></li>                                <li><a href="/spikes/#navlink=subnav" title="">State College Spikes</a></li>                                <li><a href="/penn-state-sports/#navlink=subnav" title="">Penn State Sports</a></li>                                <li><a href="/penn-state-football/#navlink=subnav" title="">PSU Football</a></li>                                <li><a href="/penn-state-basketball/#navlink=subnav" title="">PSU Basketball</a></li>                                <li><a href="/penn-state-baseball/#navlink=subnav" title="">PSU Baseball</a></li>                                <li><a href="/penn-state-hockey/#navlink=subnav" title="">PSU Hockey</a></li>                                <li><a href="/penn-state-softball#navlink=subnav" title="">PSU Softball</a></li>                                <li><a href="/penn-state-soccer#navlink=subnav" title="">PSU Soccer</a></li>                                <li><a href="/penn-state-volleyball#navlink=subnav" title="">PSU Volleyball</a></li>                                <li><a href="/penn-state-wrestling#navlink=subnav" title="">PSU Wrestling</a></li>                                <li><a href="/other-sports/#navlink=subnav" title="">Other Sports</a></li>                        </ul>                </li>                <li><a href="/sandusky/#navlink=navbar" title="Penn State Scandal">Sandusky Scandal</a>
-                                            <ul class="subnav">
-                                                        <li><a href="/jerry-sandusky-trial#navlink=subnav" title="">Sandusky Trial</a></li>                                <li><a href="/sandusky-scandal-commentary#navlink=subnav" title="">Commentary</a></li>                                <li><a href="/sandusky-scandal-national#navlink=subnav" title="">National Coverage</a></li>                                <li><a href="/sandusky-scandal-photos#navlink=subnav" title="">Photo Gallery</a></li>                                <li><a href="/penn-state-trustees#navlink=subnav" title="">Penn State Trustees</a></li>                        </ul>                </li>                <li><a href="/living/#navlink=navbar" title="Living">Living</a>
+                                                        <li><a href="/college-sports/#navlink=subnav" title="">College</a></li>                                <li><a href="/sports-columnists/#navlink=subnav" title="">Columnists</a></li>                                <li><a href="/golf/#navlink=subnav" title="">Golf</a></li>                                <li><a href="/high-school-sports/#navlink=subnav" title="">High School</a></li>                                <li><a href="/MLB/#navlink=subnav" title="">MLB</a></li>                                <li><a href="/motorsports/#navlink=subnav" title="">Motorsports</a></li>                                <li><a href="/NFL/#navlink=subnav" title="">NFL</a></li>                                <li><a href="/NHL/#navlink=subnav" title="">NHL</a></li>                                <li><a href="/outdoors/#navlink=subnav" title="">Outdoors</a></li>                                <li><a href="/spikes/#navlink=subnav" title="">State College Spikes</a></li>                                <li><a href="/penn-state-sports/#navlink=subnav" title="">Penn State Sports</a></li>                                <li><a href="/penn-state-football/#navlink=subnav" title="">PSU Football</a></li>                                <li><a href="/penn-state-basketball/#navlink=subnav" title="">PSU Basketball</a></li>                                <li><a href="/penn-state-baseball/#navlink=subnav" title="">PSU Baseball</a></li>                                <li><a href="/penn-state-hockey/#navlink=subnav" title="">PSU Hockey</a></li>                                <li><a href="/penn-state-softball#navlink=subnav" title="">PSU Softball</a></li>                                <li><a href="/penn-state-soccer#navlink=subnav" title="">PSU Soccer</a></li>                                <li><a href="/penn-state-volleyball#navlink=subnav" title="">PSU Volleyball</a></li>                                <li><a href="/penn-state-wrestling#navlink=subnav" title="">PSU Wrestling</a></li>                                <li><a href="/other-sports/#navlink=subnav" title="">Other Sports</a></li>                        </ul>                </li>                <li><a href="/penn-state-football/#navlink=navbar" title="Penn State Football">PSU Football</a>
+                                    </li>                <li><a href="/living/#navlink=navbar" title="Living">Living</a>
                                             <ul class="subnav">
                                                         <li><a href="/comics/#navlink=subnav" title="">Comics</a></li>                                <li><a href="/arts/#navlink=subnav" title="">Community Arts Centre</a></li>                                <li><a href="/entertainment/#navlink=subnav" title="">Entertainment</a></li>                                <li><a href="/family-pages/#navlink=subnav" title="">Family Pages</a></li>                                <li><a href="/features/#navlink=subnav" title="">Features</a></li>                                <li><a href="/good-life/#navlink=subnav" title="">Good Life</a></li>                                <li><a href="/weekender/#navlink=subnav" title="">Weekender</a></li>                        </ul>                </li>                <li><a href="/opinion/#navlink=navbar" title="Opinion">Opinion</a>
                                             <ul class="subnav">
@@ -503,9 +541,8 @@ mistats.channel='Privacy Policy';
         <div id="sidebar" class="grid_4">
                 <div id="sidebar_r1">
         <div class="ad">
-        <div class="advertisement dart_300x250" id="dart_300x250_1"><script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.cdt00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=300x250;tile=4;!c=news;gender=;year=;income=;ord=212059459310545?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.cdt00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=300x250;tile=4;!c=news;gender=;year=;income=;ord=212059459310545?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.cdt00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=300x250;tile=4;!c=news;gender=;year=;income=;ord=212059459310545?" border="0" alt="Advertisement"></a></noscript> <div id="div-gpt-ad-206367043732971-4">
-<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-206367043732971-4'); });</script>
+        <div class="advertisement dart_300x250" id="dart_300x250_1"><div id="div-gpt-ad-903957488347654-4">
+<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-903957488347654-4'); });</script>
 </div>        </div>
 </div>
 
@@ -515,9 +552,8 @@ mistats.channel='Privacy Policy';
 </div>
 <div id="sidebar_r3">
         <div class="ad">
-        <div class="advertisement dart_300x100" id="dart_300x100_1"><script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.cdt00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=1;sz=300x100;tile=5;!c=news;gender=;year=;income=;ord=212059459310545?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.cdt00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=1;sz=300x100;tile=5;!c=news;gender=;year=;income=;ord=212059459310545?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.cdt00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=1;sz=300x100;tile=5;!c=news;gender=;year=;income=;ord=212059459310545?" border="0" alt="Advertisement"></a></noscript> <div id="div-gpt-ad-206367043732971-5">
-<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-206367043732971-5'); });</script>
+        <div class="advertisement dart_300x100" id="dart_300x100_1"><div id="div-gpt-ad-903957488347654-5">
+<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-903957488347654-5'); });</script>
 </div>        </div>
 </div>
 
@@ -527,9 +563,8 @@ mistats.channel='Privacy Policy';
 </div>
 <div id="sidebar_r5">
         <div class="ad">
-        <div class="advertisement dart_300x250" id="dart_300x250_2"><script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.cdt00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=2;sz=300x250;tile=6;!c=news;gender=;year=;income=;ord=212059459310545?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.cdt00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=2;sz=300x250;tile=6;!c=news;gender=;year=;income=;ord=212059459310545?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.cdt00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=2;sz=300x250;tile=6;!c=news;gender=;year=;income=;ord=212059459310545?" border="0" alt="Advertisement"></a></noscript> <div id="div-gpt-ad-206367043732971-6">
-<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-206367043732971-6'); });</script>
+        <div class="advertisement dart_300x250" id="dart_300x250_2"><div id="div-gpt-ad-903957488347654-6">
+<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-903957488347654-6'); });</script>
 </div>        </div>
 </div>
 
@@ -552,6 +587,7 @@ mistats.channel='Privacy Policy';
 </div>
 
 <footer id="footer">
+
 
 <div id="page_footer">
     
