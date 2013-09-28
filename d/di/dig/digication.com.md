@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digication.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124134402id_/http%3A//digication.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digication.com privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928090605id_/http%3A//www.digication.com/about/privacy) for the most accurate reproduction.*
 
 # Digication e-Portfolios: About - Privacy
 
@@ -67,4 +67,4 @@ If you reside in the European Union, upon registration you are required to give 
 
 8.Additional Information
 
-Questions regarding this statement or our security and information practices should be directed to our security administrator by email to [security@digication.com](mailto:security@digication.com) or by regular mail addressed to Digication, Inc., Attn: Security Administrator, 260 West Exchange Street, Suite 001, Providence, RI 02903. We will endeavor to reply to you within two business days to begin our investigation into any concerns about privacy or use of data that you bring to our attention.
+Questions regarding this statement or our security and information practices should be directed to our security administrator by email to [security@digication.com](mailto:security@digication.com) or by regular mail addressed to Digication., Attn: Security Administrator, 10 Dorrance Street, Suite 700, Providence, RI 02903. We will endeavor to reply to you within two business days to begin our investigation into any concerns about privacy or use of data that you bring to our attention.
