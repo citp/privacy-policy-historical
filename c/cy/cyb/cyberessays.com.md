@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyberessays.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605075214id_/http%3A//www.cyberessays.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberessays.com privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928055726id_/http%3A//www.cyberessays.com/privacy.php) for the most accurate reproduction.*
 
 # CyberEssays.com Privacy Policy
 
