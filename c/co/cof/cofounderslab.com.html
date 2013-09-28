@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cofounderslab.com privacy policy that was archived on 2013-05-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130530192531id_/http%3A//www.cofounderslab.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cofounderslab.com privacy policy that was archived on 2013-09-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130928053953id_/http%3A//www.cofounderslab.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -10,19 +10,20 @@ var domain  = 'cofounderslab.com';
 var path  	= '/';
 </script>
 
-<title></title><meta name="Content-Type" content="text/html;charset=utf-8"><script type="text/javascript" src="//platform.twitter.com/widgets.js?V5.4"></script>
-<script type="text/javascript" src="/n/libraries/scripts/jquery-1.4.4.min.js?V5.4"></script>
-<script type="text/javascript" src="/n/scripts/mycandidates/signin.js?V5.4"></script>
-<script type="text/javascript" src="/n/scripts/dropdown.js?V5.4"></script>
-<script type="text/javascript" src="/n/libraries/scripts/jquery.simplemodal.js?V5.4"></script>
-<script type="text/javascript" src="/n/scripts/about.js?V5.4"></script><link href="/n/styles/front.css?V5.4" media="screen" rel="stylesheet" type="text/css">
-<link href="/n/styles/styles.css?V5.4" media="screen" rel="stylesheet" type="text/css">
-<link href="/n/themes/basic/styles/dropdown.css?V5.4" media="screen" rel="stylesheet" type="text/css">
-<link href="/n/styles/inner_styles.css?V5.4" media="screen" rel="stylesheet" type="text/css">
-<link href="/n/styles/old_styles_changed_for_new.css?V5.4" media="screen" rel="stylesheet" type="text/css">
-<link href="/n/themes/basic/styles/new_inner_theme_style.css?V5.4" media="screen" rel="stylesheet" type="text/css">
-<link href="/n/themes/basic/styles/old_inner_theme_style.css?V5.4" media="screen" rel="stylesheet" type="text/css">
-<link href="/n/libraries/styles/profilecss.css?V5.4" media="screen" rel="stylesheet" type="text/css">
+<title></title><meta name="Content-Type" content="text/html;charset=utf-8"><script type="text/javascript" src="//platform.twitter.com/widgets.js?V6.4.2"></script>
+<script type="text/javascript" src="/n/libraries/scripts/jquery-1.4.4.min.js?V6.4.2"></script>
+<script type="text/javascript" src="/n/scripts/mycandidates/signin.js?V6.4.2"></script>
+<script type="text/javascript" src="/n/scripts/dropdown.js?V6.4.2"></script>
+<script type="text/javascript" src="/n/libraries/scripts/jquery.simplemodal.js?V6.4.2"></script>
+<script type="text/javascript" src="/n/scripts/about.js?V6.4.2"></script><link href="/n/styles/front.css?V6.4.2" media="screen" rel="stylesheet" type="text/css">
+<link href="/n/styles/pro_band.css?V6.4.2" media="screen" rel="stylesheet" type="text/css">
+<link href="/n/styles/styles.css?V6.4.2" media="screen" rel="stylesheet" type="text/css">
+<link href="/n/themes/basic/styles/dropdown.css?V6.4.2" media="screen" rel="stylesheet" type="text/css">
+<link href="/n/styles/inner_styles.css?V6.4.2" media="screen" rel="stylesheet" type="text/css">
+<link href="/n/styles/old_styles_changed_for_new.css?V6.4.2" media="screen" rel="stylesheet" type="text/css">
+<link href="/n/themes/basic/styles/new_inner_theme_style.css?V6.4.2" media="screen" rel="stylesheet" type="text/css">
+<link href="/n/themes/basic/styles/old_inner_theme_style.css?V6.4.2" media="screen" rel="stylesheet" type="text/css">
+<link href="/n/libraries/styles/profilecss.css?V6.4.2" media="screen" rel="stylesheet" type="text/css">
 <link href="/n/images/favicon.ico" rel="shortcut icon" type="image/x-icon"><script>
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-23726719-1']);
@@ -43,7 +44,73 @@ var path  	= '/';
 		uv.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'widget.uservoice.com/R9CFInD56UYsn10O7HXYw.js';
 		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(uv, s);
 				$(document).ready(function() {
-			//*****************it is for popoup***********************
+			$('input[name="redirect_url"]').val(location.href);//placing redirect url
+			
+			//--------all help info tooltip starts--------
+			$('.help_info_mem').live('mouseover',function(e) {
+				$(this).next().fadeIn('fast');
+			});
+			
+			$('.help_info_mem').live('mouseout',function(e) {
+				$(this).next().fadeOut('fast');
+			});
+			//--------all help info tooltip ends--------
+			
+			$('#lgdusr_gopro_link').click(function(e) {
+				location.href	= baseUrl+'/pro-membership';
+			});
+			
+			//****************************DISCOUNT CODE SECTION STARTS*************************
+			$(".del_acnt_qstn").live('click',function(e) { 
+				$(this).parents().children('.tooltp_wrp_pro_home:last-child').fadeIn('fast');
+			});
+			
+			function setCookieForInfoBar(name, value, expires, path, domain, secure) {
+				// set time, it's in milliseconds
+				var today = new Date();
+				today.setTime( today.getTime() );
+				
+				/*
+				if the expires variable is set, make the correct
+				expires time, the current script below will set
+				it for x number of days, to make it for hours,
+				delete * 24, for minutes, delete * 60 * 24
+				*/
+				if ( expires ){
+					expires = expires * 1000 * 60 * 60 * 24;
+				}
+				var expires_date = new Date( today.getTime() + (expires) );
+				
+				if(document.cookie = name + "=" +escape( value ) +
+				( ( expires ) ? ";expires=" + expires_date.toGMTString() : "" ) +
+				( ( path ) ? ";path=" + path : "" ) +
+				( ( domain ) ? ";domain=" + domain : "" ) +
+				( ( secure ) ? ";secure" : "" )){
+					return true
+				}else
+					return false
+			}
+			//****************************DISCOUNT CODE SECTION ENDS*************************
+			
+			$('#flag_img').click(function(e) {
+					$(".tooltipflag").fadeIn('fast');
+					$(".tooltipflag").addClass("flag_var");
+				return false;	
+			});
+	
+			$('#flag_img').mouseover(function(e) {
+					$(".tooltipflag").fadeIn('fast');
+					
+				return true;	
+			});
+			
+			$('#flag_img').mouseleave(function(e) {
+				var flag_var = $(".tooltipflag").hasClass('flag_var');
+				if(flag_var!=true) 
+					$(".tooltipflag").fadeOut('fast');
+					
+				return true;	
+			});
 			
 			$('.resource_not_log').click(function(e) {
 				$('.not_log_resource').modal();
@@ -83,12 +150,12 @@ var path  	= '/';
 			});
 			
 			/*-----------Mycandidates/index and advanced search tooltip starts-------------*/
-			$('.pro_rbn_01 > map,.pro_rbn,.pro_rbn_01').mouseenter(function(e) {
+			$('.pro_rbn_01 > map,.pro_rbn,.pro_rbn_frqncy,.pro_rbn_01').mouseenter(function(e) {
 				//alert('hi');
 				$(this).children().next('.tooltp_wrp_pro_mycand').fadeIn('fast');
 			});
 			
-			$('.pro_rbn_01 > map,.pro_rbn,.pro_rbn_01').mouseleave(function(e) {
+			$('.pro_rbn_01 > map,.pro_rbn,.pro_rbn_frqncy,.pro_rbn_01').mouseleave(function(e) {
 				$(this).children().next('.tooltp_wrp_pro_mycand').fadeOut('fast');
 			});
 			
@@ -113,6 +180,13 @@ var path  	= '/';
 			/*-----------Mycandidates/index and advanced search tooltip ends-------------*/
 			
 			$(document).click(function (evt) {
+			
+				var flag_var = $(".tooltipflag").hasClass('flag_var');
+				if(flag_var==true) {
+					$(".tooltipflag").fadeOut('fast');
+					$(".tooltipflag").removeClass("flag_var");
+				}
+				
 				var target 	= evt.target;
 				if(target.className) {
 					var clkd_class	= target.className.split(' ');
@@ -122,11 +196,17 @@ var path  	= '/';
 					var element		= target.nodeName;
 				}
 
-				if($('.drop_list:has('+element+')').length <= 0 && target.className != 'ui-corner-all 301')
+				if($('.drop_list:has('+element+')').length <= 0 && target.className != 'ui-corner-all 301' && target.className != 'cntry_atcmplt') {
 					$('.drop_list').slideUp("slow");
+					$('.cntry_atcmplt').parent().parent().slideUp("fast");
+				}
 				
 				if($('.drop_evt_list:has('+element+')').length <= 0 && target.className != 'drop_down' && target.className != 'drop_evt drop_down' && target.className != 'drop_evt_list hide')
 					$('.drop_evt_list').hide();
+					
+				if($('.icn_drop_list:has('+element+')').length <= 0) {//header section icon content(map,cntct info etc) hide
+					$('.icn_drop_list').hide();
+				}
 				
 				if(tgt_class) {
 					var notlog_class1		= '';
@@ -154,8 +234,10 @@ var path  	= '/';
    	<img style="display:none;" width="17" height="12" src="/n/themes/basic/images/resources/tooltip_arrow_down.png">
     <img style="display:none;" width="13" height="18" src="/n/themes/basic/images/resources/tooltip_arrow_left.png">
     <img style="display:none;" width="17" height="12" src="/n/themes/basic/images/resources/tooltip_arrow_top.png">
-    
+ 
+ 
 	<!--==Main Wrapper =====================-->
+    
 	<div id="main_wrapper" class="main_wrapper">
 		<div id="header" class="header">
     		<div class="top_wrap">
@@ -184,7 +266,7 @@ var path  	= '/';
                                 <li><a class="pro_btn active" href="/pro-membership">GO PRO</a></li>
                                 										<li><a href="/about-matchmaking-for-entrepreneurs">ABOUT</a></li>
                                 		<li><a href="/entrepreneurs-meetup-networking">EVENTS</a></li>
-								                                <li class="resource_not_log"><a href="/Resources">RESOURCES</a></li>
+								                                <li><a href="/member-benefits">MEMBER BENEFITS</a></li>
                             </ul>
                             <div class="clear"></div>
                         </div>
@@ -198,8 +280,9 @@ var path  	= '/';
                             <div class="drop_cnt">
                                 <fieldset id="signin_menu" class="signin_menu">
                                 <form action="" name="signin_window" id="signin_window" method="post" class="signin_window">
-                                    <input type="text" value="" placeholder="Email" class="input_feeld" title="username" tabindex="20" name="userid" id="userid">
-                                    <div style="color:#990033;" id="invalid_email"></div>
+                                  <input name="redirect_url" type="hidden">
+                                  <input type="text" value="" placeholder="Email" class="input_feeld" title="username" tabindex="20" name="userid" id="userid">
+                                  <div style="color:#990033;" id="invalid_email"></div>
                                     <input type="password" value="" placeholder="Password" class="input_feeld mar_top15" title="password" tabindex="21" name="password" id="password">
                                     <div style="color:#990033;" id="invalid_msg"></div>
                                     <div style="margin-left:50px; color:#00CC66;" class="detais_green" id="div_process"></div>
@@ -234,7 +317,6 @@ var path  	= '/';
                     <div class="clear"></div>
                 </div>
 			</div>
-            
             
         </div>
         <!--header end =================== -->
@@ -314,7 +396,7 @@ var path  	= '/';
                         <li>|</li>
                         <li><a href="/media">Press</a></li>
                         <li>|</li>
-                        <li><a href="http://www.cofounderslab.com/find-a-co-founder/" target="_blank">Blog</a></li>
+                        <li><a href="http://blog.cofounderslab.com" target="_blank">Blog</a></li>
                                
             </ul>
         
@@ -336,17 +418,7 @@ var path  	= '/';
         </div>
     </div>
     <!--footer end ================== -->
-    <div class="not_log_resource" id="not_log_resource" style=" display:none;">
-        <div class="mailOuter1">
-            <br>
-            <br>
-            <br>
-            <div align="center" class="only_for_prombrshp_page"><span style="padding-bottom:7px;" class="information info_mid_all">Please <a href="/sign-in">login</a> or <a href="/join-a-startup-first-step">create a free profile</a> to access these resources</span></div>
-            <br>
-            <br>
-            <br>
-        </div>
-    </div>
+    
 <script type="text/javascript">
 setTimeout(function(){var a=document.createElement("script");
 var b=document.getElementsByTagName("script")[0];
