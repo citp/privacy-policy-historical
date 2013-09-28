@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the federalnewsradio.com privacy policy that was archived on 2013-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130609145205id_/http%3A//www.federalnewsradio.com%3Fsid%3D1551735%26nid%3D635) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the federalnewsradio.com privacy policy that was archived on 2013-09-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130928072021id_/http%3A//www.federalnewsradio.com%3Fsid%3D1551735%26nid%3D635) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="https://www.facebook.com/2008/fbml" prefix="og: http://ogp.me/ns#" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase no-indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
 <!--<script type='text/javascript'>var _sf_startpt=(new Date()).getTime()</script>-->
@@ -16,6 +16,8 @@
 <meta property="og:url" content="http://www.federalnewsradio.com/635/1551735/Privacy-Statement">
 <meta property="og:title" content="Privacy Statement">
 <meta name="title" content="Privacy Statement">
+<meta property="article:publisher" content="https://www.facebook.com/FederalNewsRadio">
+
 <meta http-equiv="refresh" content="720"><title>Privacy Statement - FederalNewsRadio.com</title>
 
 <meta name="google-site-verification" content="O97_lozrIY7RKglcJVdW_aoRgc-ahZJTfnNT42E04qk">
@@ -24,9 +26,9 @@
 <meta name="author" content="webmaster@federalnewsradio.com">
 <meta name="copyright" content="Copyright (c) 2013 WFED - Federal News Radio">
 
-<link rel="shortcut icon" href="/images/favicon.ico">
+<link rel="shortcut icon" href="/images/favicon.ico?v=2">
 
-<link href="/css/styles.css" rel="stylesheet" type="text/css">
+<link href="/css/styles2.css" rel="stylesheet" type="text/css">
 <link type="text/css" href="/jqueryO/js/themes/base/jquery.ui.all.css" rel="stylesheet">
 <link media="screen" rel="stylesheet" href="/jqueryO/css/colorbox.css">
 
@@ -69,7 +71,7 @@
 <script type="text/javascript" src="/jqueryO/js/stepcarousel.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
 <script type="text/javascript" src="/js/audio-player/audio-player.js"></script>
-<script type="text/javascript" src="/js/audio-player/track-audio.js"></script>
+<script type="text/javascript" src="/js/audio-player/track-audio-max.js"></script>
 <script type="text/javascript" src="/jqueryO/js/pagescripts.js"></script>
 <link media="print" rel="stylesheet" href="/css/print.css">
 <script type="text/javascript" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script>
@@ -89,7 +91,10 @@
   <script type="text/javascript">
                 ord=Math.random()*10000000000000000;
         jQuery(function() {
-
+			var $rightblock = jQuery("#articlebody-right-block-new").text();
+			if ( jQuery.trim($rightblock) == '' ) { jQuery("#articlebody-right-block-new").remove(); }
+			var $leftblock = jQuery("#articlebody-left-block-new").text();
+			if ( jQuery.trim($leftblock) == '' ) { jQuery("#articlebody-left-block-new").remove(); }
                 var bqCaption = jQuery('.articlebody blockquote.caption');
                 jQuery('.articlebody blockquote.caption').remove();
                 jQuery('#article-content p').eq(1).before(bqCaption);
@@ -112,7 +117,7 @@
         });
   </script>
   
-
+<!--<script type="text/javascript" src="http://www.federalnewsradio.com/javascripts/interstitial-GEBA.js"></script>-->
 </head>
 
 <body>
@@ -124,102 +129,115 @@
 <p class="skipper" style="display: none;">Jump to <a href="#content-prime" title="Jump to main content">main content</a>.</p>   
 
 
-		<div id="wrapper">
-
-<div id="main-wrapper">
-
-	<div id="mobileLink">
-					<a href="https://www.federalnewsradio.com/public/member/signin">Log In</a> | <a href="https://www.federalnewsradio.com/public/member/signup">Sign Up</a>
-							 | <a href="http://m.federalnewsradio.com/?fullsite=0">Mobile Site</a>
-	</div>
-<script language="javascript" type="text/javascript">
-function settime () {
-	var curtime = new Date();
-	var unixtime = curtime.getTime(); 
-	var curhour = curtime.getHours();
-	var curmin = curtime.getMinutes();
-	var time = "";
- 
-	if(curhour == 0) curhour = 12;
-	time = 	(curhour > 12 ? curhour - 12 : curhour) + ":" +
-		(curmin < 10 ? "0" : "") + curmin + " " +
-		(curhour >= 12 ? "pm" : "am");
- 
-	jQuery("#showTime").html(time);
-	//console.log(time);
-}
-
-var updateTime = setInterval("settime()", 30000);
-</script>
-
-<div id="masteheadDateTime"><span id="showTime">10:51 am</span>, June 9, 2013</div>
-	<div id="trending">
-		<ul>
+			<div id="trending" style="width: 960px; margin: 0 auto; padding: 8px 10px; text-align: center;">
+		<ul style="margin: 0 auto; text-align: center; display: inline;">
 			<li class="trending">Trending:</li>
-<!-- memory usage before hottopic 22117800 -->
+<!-- memory usage before hottopic 22083768 -->
 					<!-- array (
   0 => 
   array (
-    'url' => '/239/3350378/OMB_to_release_data_to_ease_move_to_shared_services',
-    'nodeoverride' => '/239/3350378/OMB_to_release_data_to_ease_move_to_shared_services',
-    'name' => 'shared services',
-    'titleoverride' => 'shared services',
+    'url' => 'http://stage.federalnewsradio.com/146/3464365/House_considers_options_on_possible_shutdown',
+    'nodeoverride' => 'http://stage.federalnewsradio.com/146/3464365/House_considers_options_on_possible_shutdown',
+    'name' => 'government shutdown',
+    'titleoverride' => 'government shutdown',
   ),
   1 => 
   array (
-    'url' => '/520/3349028/OPM_offering_300_buyouts_early_outs_across_14_divisions',
-    'nodeoverride' => '/520/3349028/OPM_offering_300_buyouts_early_outs_across_14_divisions',
-    'name' => 'OPM buyouts',
-    'titleoverride' => 'OPM buyouts',
+    'url' => 'http://stage.federalnewsradio.com/146/3463473/Debt_limit_to_be_reached_by_Oct_17',
+    'nodeoverride' => 'http://stage.federalnewsradio.com/146/3463473/Debt_limit_to_be_reached_by_Oct_17',
+    'name' => 'Treasury',
+    'titleoverride' => 'Treasury',
   ),
   2 => 
   array (
-    'url' => '/534/3348408/IRS_disciplines_2_workers_for_free_food_at_party',
-    'nodeoverride' => '/534/3348408/IRS_disciplines_2_workers_for_free_food_at_party',
-    'name' => 'IRS ',
-    'titleoverride' => 'IRS ',
+    'url' => 'http://www.federalnewsradio.com/178/3462225/Federal_health_premiums_to_rise_37_percent',
+    'nodeoverride' => 'http://www.federalnewsradio.com/178/3462225/Federal_health_premiums_to_rise_37_percent',
+    'name' => 'health premiums',
+    'titleoverride' => 'health premiums',
   ),
   3 => 
   array (
-    'url' => '/210/3349792/Congress_to_review_GSA_Trump_plans_for_Old_Post_Office_Building',
-    'nodeoverride' => '/210/3349792/Congress_to_review_GSA_Trump_plans_for_Old_Post_Office_Building',
-    'name' => 'Donald Trump',
-    'titleoverride' => 'Donald Trump',
+    'url' => 'http://stage.federalnewsradio.com/630/3451665/Meet_2013_Causey_Award_Winner_Lynn_C_Simpson',
+    'nodeoverride' => 'http://stage.federalnewsradio.com/630/3451665/Meet_2013_Causey_Award_Winner_Lynn_C_Simpson',
+    'name' => 'Causey Awards',
+    'titleoverride' => 'Causey Awards',
   ),
   4 => 
   array (
-    'url' => '/179/3347325/OPM_issues_phased_retirement_guidance',
-    'nodeoverride' => '/179/3347325/OPM_issues_phased_retirement_guidance',
-    'name' => 'phased retirement',
-    'titleoverride' => 'phased retirement',
+    'url' => 'http://www.federalnewsradio.com/204/3462653/Report_Pentagon_could_cut_thousands_of_employees',
+    'nodeoverride' => 'http://www.federalnewsradio.com/204/3462653/Report_Pentagon_could_cut_thousands_of_employees',
+    'name' => 'DoD cuts',
+    'titleoverride' => 'DoD cuts',
   ),
 ) -->
-											<li class="5 trending-topic"><a href="/239/3350378/OMB-to-release-data-to-ease-move-to-shared-services">shared services</a></li>
-											<li class="5 trending-topic"><a href="/520/3349028/OPM-offering-300-buyouts-early-outs-across-14-divisions">OPM buyouts</a></li>
-											<li class="5 trending-topic"><a href="/534/3348408/IRS-disciplines-2-workers-for-free-food-at-party">IRS </a></li>
-											<li class="5 trending-topic"><a href="/210/3349792/Congress-to-review-GSA-Trump-plans-for-Old-Post-Office-Building">Donald Trump</a></li>
-											<li class="5 trending-topic last"><a href="/179/3347325/OPM-issues-phased-retirement-guidance">phased retirement</a></li>
+											<li class="5 trending-topic"><a href="http://stage.federalnewsradio.com/146/3464365/House-considers-options-on-possible-shutdown">government shutdown</a></li>
+											<li class="5 trending-topic"><a href="http://stage.federalnewsradio.com/146/3463473/Debt-limit-to-be-reached-by-Oct-17">Treasury</a></li>
+											<li class="5 trending-topic"><a href="http://www.federalnewsradio.com/178/3462225/Federal-health-premiums-to-rise-37-percent">health premiums</a></li>
+											<li class="5 trending-topic"><a href="http://stage.federalnewsradio.com/630/3451665/Meet-2013-Causey-Award-Winner-Lynn-C-Simpson">Causey Awards</a></li>
+											<li class="5 trending-topic last"><a href="http://www.federalnewsradio.com/204/3462653/Report-Pentagon-could-cut-thousands-of-employees">DoD cuts</a></li>
 					</ul>
 	</div>
-	<div class="clearB"></div>
-	<div style="margin-top: 5px;">
-		<div style="float: right; height: 95px; overflow: hidden;">
-			<!-- ITEMS:  -->
+<div id="above-header-980" style="height:95px; overflow: hidden;"><!--  Begin Above-Header-980 NOTE: Please leave this DIV as a single line --><!-- ITEMS:  -->
 <!-- ITEMS:  -->
-<div class="default-dfp-container" style="line-height: normal;">
+<div class="default-dfp-container" align="center" style="line-height: normal;">
 <!-- begin ad tag -->
-	<div style="display: none;">bnv.fnr.insidefnr/policies;policies=stories;tile=1;pos=top;sz=728x90;ord=</div>
+	<div style="display: none;">bnv.fnr.insidefnr/policies;policies=stories;tile=1;pos=top;sz=728x90,970x90;ord=</div>
 <script type="text/javascript">
 //<![CDATA[
-document.write('<script type="text/javascript" src="//ad.doubleclick.net/adj/bnv.fnr.insidefnr/policies;policies=stories;tile=1;pos=top;sz=728x90;ord=' + ord + '?"><\/script>');
+document.write('<script type="text/javascript" src="//ad.doubleclick.net/adj/bnv.fnr.insidefnr/policies;policies=stories;tile=1;pos=top;sz=728x90,970x90;ord=' + ord + '?"><\/script>');
 //]]>
-</script><script type="text/javascript" src="//ad.doubleclick.net/adj/bnv.fnr.insidefnr/policies;policies=stories;tile=1;pos=top;sz=728x90;ord=4795214724666610?"></script>
-<noscript><a href="//ad.doubleclick.net/adj/bnv.fnr.insidefnr/policies;policies=stories;tile=1;pos=top;sz=728x90;ord==123456789?" target="_blank" ><img src="//ad.doubleclick.net/adj/bnv.fnr.insidefnr/policies;policies=stories;tile=1;pos=top;sz=728x90;ord=123456789?" border="0" alt="" /></a></noscript>
+</script><script type="text/javascript" src="//ad.doubleclick.net/adj/bnv.fnr.insidefnr/policies;policies=stories;tile=1;pos=top;sz=728x90,970x90;ord=1309070580207783?"></script>
+<noscript><a href="//ad.doubleclick.net/adj/bnv.fnr.insidefnr/policies;policies=stories;tile=1;pos=top;sz=728x90,970x90;ord==123456789?" target="_blank" ><img src="//ad.doubleclick.net/adj/bnv.fnr.insidefnr/policies;policies=stories;tile=1;pos=top;sz=728x90,970x90;ord=123456789?" border="0" alt="" /></a></noscript>
 <!-- end ad tag -->
 </div>
+<!--  End Above-Header-980 --></div>
+<div id="above-header-nopad-980" align="center"><!--  Begin Above-Header-NoPad-980 NOTE: Please leave this DIV as a single line --><!--  End Above-Header-NoPad-980 --></div>
+
+<div id="wrapper">
+
+<div id="main-wrapper">
+
+
+	<div class="clearB"></div>
+	<div id="masthead" style="margin-top: 5px; position: relative;">
+		<div style="position: absolute; right: 0; top: 0; height: 90px; width: 490px; overflow: hidden;">
+						
+			<div id="masteheadDateTime"><span id="showTime">3:20 am</span>, September 28, 2013</div>
+					<script language="javascript" type="text/javascript">
+						function settime () {
+							var curtime = new Date();
+							var unixtime = curtime.getTime(); 
+							var curhour = curtime.getHours();
+							var curmin = curtime.getMinutes();
+							var time = "";
+						 
+							if(curhour == 0) curhour = 12;
+							time = 	(curhour > 12 ? curhour - 12 : curhour) + ":" +
+								(curmin < 10 ? "0" : "") + curmin + " " +
+								(curhour >= 12 ? "pm" : "am");
+						 
+							jQuery("#showTime").html(time);
+							//console.log(time);
+						}
+						
+						var updateTime = setInterval("settime()", 30000);
+					</script>
+			<div id="mobileLink">
+				<a href="http://www.facebook.com/FederalNewsRadio"><img src="/images/social-media/fb_sq_small.png"></a>
+				<a href="/?sid=2524066&amp;nid=735"><img src="/images/social-media/twitter_icon_16x16.gif"></a>
+							<a href="https://www.federalnewsradio.com/public/member/signin">Log In</a><a href="https://www.federalnewsradio.com/public/member/signup">Sign Up</a>
+											 <a href="http://m.federalnewsradio.com/?fullsite=0" class="last">Mobile Site</a>
+			</div>			
+			<div id="search">
+				<form method="get" action="/">
+					<input type="hidden" name="nid" id="nid" value="38">
+					<input type="text" class="srch" name="query" id="search_query" maxlength="256" placeholder="Search"><input type="image" class="srchbtn" src="/images/navbar2/icon-search.png" alt="SEARCH" title="SEARCH">
+				</form>
+			</div>
 		</div>
 		
-		<a href="/?nid=1"><img src="/images/core/logo.jpg" style="float: left; margin-top: 8px;"></a>
+		<a href="/?nid=1" style="display: block; float: left; width: 460px; height: 86px;"><img src="/images/core/fnr-logo-hor.jpg" style="float: left;"></a>
+		<div class="clearB"></div>
 	</div>
 	<div class="clearB"></div>
   <!--  BEGIN navbar.php REGION -->
@@ -424,8 +442,7 @@ document.write('<script type="text/javascript" src="//ad.doubleclick.net/adj/bnv
 				<div id="pb2"><h2>Shows &amp; Panels</h2>
 					<ul class="column col_180 ">		   
 						<li><a href="/?nid=190">For Your Benefit</a></li>
-						<li><a href="/?sid=2883653&amp;nid=955 ">My Health<b><i>e</i></b>Vet - The Gateway to Veterans Health and Wellness</a></li>
-						<li><a href="/?sid=2994891&amp;nid=997 ">The Perfect Score: Supporting Small Businesses to Achieve 100% Adoption of Direct Deposit via ACH </a></li>
+						<li><a href="/?sid=3358342&amp;nid=955 ">My Health<b><i>e</i></b>Vet — Keeping the Promise — Access</a></li>
 					</ul>
 				</div>  <!--  end div "pb2" -->
 			</div> <!--  end div "subNav" -->
@@ -518,14 +535,11 @@ document.write('<script type="text/javascript" src="//ad.doubleclick.net/adj/bnv
 			<div id="management2">
 				<h2>Shows &amp; Panels</h2>							
 				<ul class="column col_200">
-					<li><a href="/?sid=3000029&amp;nid=1003">Accelerate and Streamline for Better Customer Service</a></li>
 					<li><a href="/?sid=2763477&amp;nid=920">Agency of the Month</a></li>
 					<li><a href="/?nid=159">Business of Government Hour </a></li>
 					<li><a href="/?sid=&amp;nid=1095">CXO Surveys</a></li>
 					<li><a href="/?nid=650">FedCentral</a></li>
 					<li><a href="/?nid=155">Federal News Countdown</a></li>
-					<li><a href="/?sid=2956474&amp;nid=992">Reorganization and Restructuring in Government</a></li>
-					<li><a href="/?sid=2991304&amp;nid=995">Sustainability and Efficiency in the Federal Government</a></li>
 				</ul>
 			</div> <!--  end div "news3" -->
 		</div> <!--  end div "subnav" -->			
@@ -616,25 +630,21 @@ document.write('<script type="text/javascript" src="//ad.doubleclick.net/adj/bnv
 			<div id="tech2">
 				<h2>Shows &amp; Panels</h2>				
 				<ul class="column col_200">
-					<li><a href="/?sid=3000029&amp;nid=1003">Accelerate and Streamline for Better Customer Service</a></li>
+					<li><a href="/?sid=&amp;nid=1149">AFCEA Answers</a></li>
 					<li><a href="/?nid=251">Ask the CIO</a></li>
 					<li><a href="/?sid=3219793&amp;nid=1109">The Big Data Dilemma</a></li>
 					<li><a href="/?sid=3237763&amp;nid=1120">Carrying On with Continuity of Operations</a></li>
-					<li><a href="/?sid=2898555&amp;nid=979">Client Virtualization Solutions</a></li>
-					<li><a href="/?sid=2898262&amp;nid=970">Data Protection in a Virtual World</a></li>
+					<li><a href="/?sid=3390193&amp;nid=1091">The Cyber Imperative</a></li>
+					<li><a href="/?sid=3354124&amp;nid=1109">Cyber Solutions for 2013 and Beyond</a></li>
 					<li><a href="/?nid=256">Expert Voices</a></li>
 					<li><a href="/?nid=257">Federal Executive Forum</a></li>
 					<li><a href="/?nid=901&amp;sid=2717575 ">Federal IT Challenge</a></li>
 					<li><a href="/?nid=252">Federal Tech Talk</a></li>
-					<li><a href="/?sid=2717758&amp;nid=904">Feds in the Cloud</a></li>
-					<li><a href="/?sid=2851172&amp;nid=951">Health IT: A Policy Change Agent</a></li>
-					<li><a href="?sid=3306477&amp;nid=951">Improving Healthcare Outcomes through IT Policy</a></li>
-					<li><a href="/?sid=3067067&amp;nid=1038">IT Innovation in the New Era of Government</a></li>
-					<li><a href="/?sid=3006325&amp;nid=1005">Making Dollars And Sense Out of Data Center Consolidation</a></li>
-					<li><a href="/?sid=2799198&amp;nid=928">Navigating the Private Cloud</a></li>
-					<li><a href="/?sid=2921221&amp;nid=987">One Step to the Cloud, Two Steps Toward Innovation</a></li>
-					<li><a href="/?sid=3196764&amp;nid=1091">Path to FDCCI Compliance</a></li>
-					<li><a href="/?sid=3023625&amp;nid=1015">Take Command of Your Mobility Initiative</a></li>
+					<li><a href="/?nid=1038&amp;sid=3432629">Mission-critical Apps in the Cloud</a></li>
+					<li><a href="/?sid=3441663&amp;nid=1183">The Path from Legacy Systems</a></li>
+					<li><a href="/?sid=3363445&amp;nid=987">The Real Deal on Digital Government</a></li>
+					<li><a href="/?sid=3354594&amp;nid=1147">The Reality of Continuous Monitoring... Is Your Agency Secure?</a></li>
+					<li><a href="/?sid=3352859&amp;nid=1144">Veterans in Private Sector: Making the Transition</a></li>
 				</ul>	
 			</div> <!--  end div "tech2" -->
 			
@@ -646,7 +656,7 @@ document.write('<script type="text/javascript" src="//ad.doubleclick.net/adj/bnv
 					<li><a href="/?sid=&amp;nid=1021">Gov Cloud Minute</a></li>
 					<li><a href="/?nid=1061">Next Generation Technologies</a></li>
 					<li><a href="http://www.federalnewsradio.com/?sid=3278345&amp;nid=1130">Technology Insights</a></li>
-					
+					<li><a href="/?nid=1157&amp;sid=3383664">The Cyber Security Report</a></li>
 				</ul>
 			</div> <!--  end div "tech3" -->
 		</div> <!--  end div "subnav" -->
@@ -803,17 +813,13 @@ document.write('<script type="text/javascript" src="//ad.doubleclick.net/adj/bnv
 					<li><a href="/?sid=2543204&amp;nid=850">Schedule</a></li>
 				</ul>
 			</li>
+			<li><a href="/?nid=1168&amp;sid=3412009">Panels</a></li>
 			<li class="hotnav-powerjobs"><a href="http://www.powerjobs.com"><img src="/images/partner_images/powerjobs-logo-mainmenu.png" alt="PowerJobs"></a></li>
 		</ul>
 	</div>
 
 
-	<div id="hotnav-right">
-		<form method="get" action="/">
-			<input type="hidden" name="nid" id="nid" value="38">
-			<input type="text" class="srch" name="query" id="search_query" maxlength="256" placeholder="Search"><input type="image" class="srchbtn" src="/images/navbar/icon-search.png" alt="SEARCH" title="SEARCH">
-		</form>
-	</div>
+
 </div>
 
 
@@ -865,14 +871,14 @@ document.write('<script type="text/javascript" src="//ad.doubleclick.net/adj/bnv
         <!--  Begin Column3UpperAd1 -->
         <!-- ITEMS:  -->
 <!-- ITEMS:  -->
-<div class="default-dfp-container" style="line-height: normal;">
+<div class="default-dfp-container" align="center" style="line-height: normal;">
 <!-- begin ad tag -->
 	<div style="display: none;">bnv.fnr.insidefnr/policies;policies=stories;tile=2;pos=right1;sz=300x250,300x600;ord=</div>
 <script type="text/javascript">
 //<![CDATA[
 document.write('<script type="text/javascript" src="//ad.doubleclick.net/adj/bnv.fnr.insidefnr/policies;policies=stories;tile=2;pos=right1;sz=300x250,300x600;ord=' + ord + '?"><\/script>');
 //]]>
-</script><script type="text/javascript" src="//ad.doubleclick.net/adj/bnv.fnr.insidefnr/policies;policies=stories;tile=2;pos=right1;sz=300x250,300x600;ord=4795214724666610?"></script>
+</script><script type="text/javascript" src="//ad.doubleclick.net/adj/bnv.fnr.insidefnr/policies;policies=stories;tile=2;pos=right1;sz=300x250,300x600;ord=1309070580207783?"></script>
 <noscript><a href="//ad.doubleclick.net/adj/bnv.fnr.insidefnr/policies;policies=stories;tile=2;pos=right1;sz=300x250,300x600;ord==123456789?" target="_blank" ><img src="//ad.doubleclick.net/adj/bnv.fnr.insidefnr/policies;policies=stories;tile=2;pos=right1;sz=300x250,300x600;ord=123456789?" border="0" alt="" /></a></noscript>
 <!-- end ad tag -->
 </div>
@@ -888,7 +894,7 @@ document.write('<script type="text/javascript" src="//ad.doubleclick.net/adj/bnv
 	<div class="HeadlineList HeadlineList300 HeadlinesListTopStories">
 	  		<!-- running headlines -->
 <!-- running graceland -->
-<!-- StartMem: 31981568 --><!-- StartMem1: 31981568 --><!--loads 31981568 --><!-- load0 31981568 --><!-- load1 31981568 --><!-- AUDIO NODE EXISTS --><!-- loada 31981568 --><!-- load2 31981568 --><!-- load0 31981568 --><!-- load1 31981568 --><!-- AUDIO NODE EXISTS --><!-- loada 31981568 --><!-- load2 31981568 --><!-- load0 31981568 --><!-- load1 31981568 --><!-- AUDIO NODE EXISTS --><!-- loada 31981568 --><!-- load2 31981568 --><!-- load0 31981568 --><!-- load1 31981568 --><!-- AUDIO NODE EXISTS --><!-- loada 31981568 --><!-- load2 31981568 --><!-- load0 31981568 --><!-- load1 31981568 --><!-- AUDIO NODE EXISTS --><!-- loada 31981568 --><!-- load2 31981568 --><!-- load0 31981568 --><!-- load1 31981568 --><!-- AUDIO NODE EXISTS --><!-- loada 31981568 --><!-- load2 31981568 --><!-- load0 31981568 --><!-- load1 31981568 --><!-- AUDIO NODE EXISTS --><!-- loada 31981568 --><!-- load2 31981568 --><!-- load0 31981568 --><!-- load1 31981568 --><!-- AUDIO NODE EXISTS --><!-- loada 31981568 --><!-- load2 31981568 --><!-- load0 31981568 --><!-- load1 31981568 --><!-- loada 31981568 --><!-- load2 31981568 --><!-- load0 31981568 --><!-- load1 31981568 --><!-- AUDIO NODE EXISTS --><!-- loada 31981568 --><!-- load2 31981568 --><!-- load0 31981568 --><!-- load1 31981568 --><!-- AUDIO NODE EXISTS --><!-- loada 31981568 --><!-- load2 31981568 --><!-- eload 31981568 --><!--loads 31981568 --><!-- load0 31981568 --><!-- load1 31981568 --><!-- AUDIO NODE EXISTS --><!-- loada 31981568 --><!-- load2 31981568 --><!-- load0 31981568 --><!-- load1 31981568 --><!-- AUDIO NODE EXISTS --><!-- loada 31981568 --><!-- load2 31981568 --><!-- load0 31981568 --><!-- load1 31981568 --><!-- AUDIO NODE EXISTS --><!-- loada 31981568 --><!-- load2 31981568 --><!-- load0 31981568 --><!-- load1 31981568 --><!-- AUDIO NODE EXISTS --><!-- loada 31981568 --><!-- load2 31981568 --><!-- load0 31981568 --><!-- load1 31981568 --><!-- AUDIO NODE EXISTS http://media.dev-cms.com/wtop/29/2953/295330.MP3--><!-- loada 31981568 --><!-- load2 31981568 --><!-- eload 31981568 --><!-- StartMem2: 31981568 --><!-- StartMem3: 31981568 --><!-- EndMem: 31981568 -->		    		    							        <!-- array (
+<!-- StartMem: 31981568 --><!-- StartMem1: 31981568 --><!--loads 31981568 --><!-- load0 31981568 --><!-- load1 31981568 --><!-- AUDIO NODE EXISTS --><!-- loada 31981568 --><!-- load2 31981568 --><!-- load0 31981568 --><!-- load1 31981568 --><!-- AUDIO NODE EXISTS --><!-- loada 31981568 --><!-- load2 31981568 --><!-- load0 31981568 --><!-- load1 31981568 --><!-- AUDIO NODE EXISTS --><!-- loada 31981568 --><!-- load2 31981568 --><!-- load0 31981568 --><!-- load1 31981568 --><!-- AUDIO NODE EXISTS --><!-- loada 31981568 --><!-- load2 31981568 --><!-- load0 31981568 --><!-- load1 31981568 --><!-- AUDIO NODE EXISTS --><!-- loada 31981568 --><!-- load2 31981568 --><!-- load0 31981568 --><!-- load1 31981568 --><!-- AUDIO NODE EXISTS --><!-- loada 31981568 --><!-- load2 31981568 --><!-- load0 31981568 --><!-- load1 31981568 --><!-- AUDIO NODE EXISTS --><!-- loada 31981568 --><!-- load2 31981568 --><!-- load0 31981568 --><!-- load1 31981568 --><!-- AUDIO NODE EXISTS --><!-- loada 31981568 --><!-- load2 31981568 --><!-- load0 31981568 --><!-- load1 31981568 --><!-- AUDIO NODE EXISTS --><!-- loada 31981568 --><!-- load2 31981568 --><!-- load0 31981568 --><!-- load1 31981568 --><!-- AUDIO NODE EXISTS --><!-- loada 31981568 --><!-- load2 31981568 --><!-- load0 31981568 --><!-- load1 31981568 --><!-- AUDIO NODE EXISTS --><!-- loada 31981568 --><!-- load2 31981568 --><!-- eload 31981568 --><!--loads 31981568 --><!-- load0 31981568 --><!-- load1 31981568 --><!-- AUDIO NODE EXISTS --><!-- loada 31981568 --><!-- load2 31981568 --><!-- load0 31981568 --><!-- load1 31981568 --><!-- AUDIO NODE EXISTS --><!-- loada 31981568 --><!-- load2 31981568 --><!-- load0 31981568 --><!-- load1 31981568 --><!-- AUDIO NODE EXISTS --><!-- loada 31981568 --><!-- load2 31981568 --><!-- load0 31981568 --><!-- load1 31981568 --><!-- AUDIO NODE EXISTS --><!-- loada 31981568 --><!-- load2 31981568 --><!-- eload 31981568 --><!-- StartMem2: 31981568 --><!-- StartMem3: 31981568 --><!-- EndMem: 31981568 -->		    		    							        <!-- array (
   'title' => 'More',
   'link' => '',
   'description' => '',
@@ -896,21 +902,21 @@ document.write('<script type="text/javascript" src="//ad.doubleclick.net/adj/bnv
 ) -->
 			<h3>Top News</h3>
 						<ul class="links">
-			  			  											    			      <li><a href="/1103/3350018/Pentagon-preparing-2014-spending-plan-that-factors-in-sequestration">Pentagon preparing 2014 spending plan that factors in sequestration</a></li>
-															    			      <li><a href="/513/3351079/Whos-using-Performancegov">Who's using Performance.gov?</a></li>
-															    			      <li><a href="/20/3349473/Phased-retirement-Here-but-not-for-everybody">Phased retirement: Here but not for everybody!</a></li>
-															    			      <li><a href="/210/3349792/GSA-Trump-release-plans-for-Old-Post-Office-Building">GSA, Trump release plans for Old Post Office Building</a></li>
-																							    			      <li><a href="/502/3350371/US-declassifies-phone-program-details-after-uproar">US declassifies phone program details after uproar</a></li>
-															    			      <li><a href="/205/3349847/Want-to-hire-the-best-workers-Communicate-strategically-first-">Want to hire the best workers? Communicate strategically first </a></li>
-															    			      <li><a href="/520/3349011/IG-Serious-problems-with-OPMs-2B-revolving-fund-must-be-addressed">IG: 'Serious problems' with OPM's $2B revolving fund must be addressed</a></li>
-															    			      <li><a href="/534/3349059/IRS-official-apologizes-for-4M-conference">IRS official apologizes for $4M conference</a></li>
-															    			      <li><a href="/662/3347608/How-one-Air-Force-official-saved-1-billion-">How one Air Force official saved $1 billion </a></li>
-															    			      <li><a href="/97/3317350/Meet-the-2013-Service-to-America-Medal-Finalists">Meet the 2013 Service to America Medal Finalists</a></li>
-															    			      <li><a href="/146/3349447/House-passes-45B-homeland-security-spending-bill">House passes $45B homeland security spending bill</a></li>
-															    			      <li><a href="/239/3349052/New-data-service-launches-in-government-market-">New data service launches in government market </a></li>
-															    			      <li><a href="/534/3347048/IG-IRS-violated-few-policies-in-spending-millions-on-conferences">IG: IRS violated few policies in spending millions on conferences</a></li>
-															    			      <li><a href="/538/3347759/More-cyber-vulnerabilities-exposed-at-VA">More cyber vulnerabilities exposed at VA</a></li>
-															    			      <li><a href="/253/3347942/NRC-jumping-into-cloud-baby-stepping-into-mobile-computing">NRC jumping into cloud, baby-stepping into mobile computing</a></li>
+			  			  											    			      <li><a href="/153/3466010/Feds-learn-furlough-status-as-shutdown-looms">Feds learn furlough status as shutdown looms</a></li>
+															    			      <li><a href="/117/3465652/Senate-approves-funding-bill-but-fight-not-over">Senate approves funding bill but fight not over</a></li>
+															    			      <li><a href="/473/3465289/DHS-warns-contractors-about-shutdown-consequences">DHS warns contractors about shutdown consequences</a></li>
+															    			      <li><a href="/217/3466358/Bill-Bransford-passionate-defender-of-feds-dead-at-66">Bill Bransford, passionate defender of feds, dead at 66</a></li>
+															    			      <li><a href="/630/3455228/2013-Causey-Award-Winner---Reginald-F-Wells">2013 Causey Award Winner - Reginald F. Wells</a></li>
+															    			      <li><a href="/537/3465115/USPS-says-overhauling-health-benefits-key-to-postal-reform">USPS says overhauling health benefits key to postal reform</a></li>
+															    			      <li><a href="/435/3465983/Ex-EPA-official-pleads-guilty-to-stealing-900000-from-agency">Ex-EPA official pleads guilty to stealing $900,000 from agency</a></li>
+															    			      <li><a href="/217/3465321/Borras-elevated-to-DHS-acting-deputy-secretary">Borras elevated to DHS acting deputy secretary</a></li>
+															    			      <li><a href="/244/3465664/Agencies-seek-balance-between-open-data-security-">Agencies seek balance between open data, security </a></li>
+															    			      <li><a href="/117/3464812/Ayotte-blocks-Air-Force-nominee">Ayotte blocks Air Force nominee</a></li>
+															    			      <li><a href="/117/3463886/McCaskill-wants-more-oversight-of-SES-bonuses">McCaskill wants more oversight of SES bonuses</a></li>
+															    			      <li><a href="/178/3462225/Federal-health-premiums-to-rise-37-percent-in-2014">Federal health premiums to rise 3.7 percent in 2014</a></li>
+															    			      <li><a href="/241/3464415/NIST-puts-finishing-touches-on-critical-infrastructure-cyber-framework-">NIST puts finishing touches on critical infrastructure cyber framework </a></li>
+															    			      <li><a href="/204/3462653/Cutting-thousands-of-DoD-jobs-wont-hurt-defense">Cutting thousands of DoD jobs won't hurt defense</a></li>
+															    			      <li><a href="/241/3463178/Army-gets-the-green-light-for-major-IT-security-reorganization-">Army gets the green light for major IT security reorganization </a></li>
 							</ul>
 			  	</div>
  <!-- END 300-TopStoriesHeadlineList -->
@@ -918,7 +924,19 @@ document.write('<script type="text/javascript" src="//ad.doubleclick.net/adj/bnv
       </div>
       <div class="AD2Upper-300-right">
         <!--  Begin Column3UpperAd2 -->
-                <!--  End Column3UpperAd2 -->
+        <!-- ITEMS:  -->
+<div class="default-dfp-container" align="center" style="line-height: normal;">
+<!-- begin ad tag -->
+	<div style="display: none;">bnv.fnr.insidefnr/main;insidefnr=stories;tile=4;pos=right2;sz=300x250;ord=</div>
+<script type="text/javascript">
+//<![CDATA[
+document.write('<script type="text/javascript" src="//ad.doubleclick.net/adj/bnv.fnr.insidefnr/main;insidefnr=stories;tile=4;pos=right2;sz=300x250;ord=' + ord + '?"><\/script>');
+//]]>
+</script><script type="text/javascript" src="//ad.doubleclick.net/adj/bnv.fnr.insidefnr/main;insidefnr=stories;tile=4;pos=right2;sz=300x250;ord=1309070580207783?"></script>
+<noscript><a href="//ad.doubleclick.net/adj/bnv.fnr.insidefnr/main;insidefnr=stories;tile=4;pos=right2;sz=300x250;ord==123456789?" target="_blank" ><img src="//ad.doubleclick.net/adj/bnv.fnr.insidefnr/main;insidefnr=stories;tile=4;pos=right2;sz=300x250;ord=123456789?" border="0" alt="" /></a></noscript>
+<!-- end ad tag -->
+</div>
+        <!--  End Column3UpperAd2 -->
       </div>
       <div class="Upper3D-300-right">
         <!--  Begin Column3Upper3 -->
@@ -943,13 +961,13 @@ document.write('<script type="text/javascript" src="//ad.doubleclick.net/adj/bnv
 				   					<!-- running social_rank -->
 <!-- Data not in memcache. Fetching -->
 <!-- facebook.shares rank not in memcache. Fetching -->
-<!-- Fetched facebook.shares rank. Took 0.0014009475708 seconds -->
+<!-- Fetched facebook.shares rank. Took 0.00114011764526 seconds -->
 <!-- facebook.likes rank not in memcache. Fetching -->
-<!-- Fetched facebook.likes rank. Took 0.000480890274048 seconds -->
+<!-- Fetched facebook.likes rank. Took 0.000402927398682 seconds -->
 <!-- tweets rank not in memcache. Fetching -->
-<!-- Fetched tweets rank. Took 0.00043797492981 seconds -->
+<!-- Fetched tweets rank. Took 0.000409126281738 seconds -->
 <!-- rank rank not in memcache. Fetching -->
-<!-- Fetched rank rank. Took 0.000453948974609 seconds -->
+<!-- Fetched rank rank. Took 0.000465869903564 seconds -->
 <!-- trying to run php social_rank_helper.php 1551735 f706cd882abd8f1d627dcbd2d759fe11 >/dev/null 2>&1 & -->
 					  <!--<dt class="facebook"><a href="#">Like</a></dt><dd>0</dd>-->
 					  <!--
@@ -961,7 +979,7 @@ document.write('<script type="text/javascript" src="//ad.doubleclick.net/adj/bnv
 					  <dd>0</dd>
 	
 					  <!-- Using key /shorturl/http://www.federalnewsradio.com/?sid=1551735&nid=635 - 5b9d79e08386fb4f076ebcfea565d95d -->
-<!-- Found shorturl in memcache. Took 0.000865936279297 seconds -->
+<!-- Found shorturl in memcache. Took 0.000549077987671 seconds -->
 						<dt class="retweet"><a href="http://twitter.com/?status=Privacy%20Statement%20http%3A%2F%2Ftw.gs%2FYzu3iX">Tweet</a></dt><dd>0</dd>
 					  										<dt class="print"><a href="javascript: printStory(851,1551735);">Print</a></dt>
 								
@@ -1038,13 +1056,11 @@ document.write('<script type="text/javascript" src="//ad.doubleclick.net/adj/bnv
 			  					
 
 <div class="clearL"></div>
-			<!-- 
-						-->
+
 
 
 <div id="articlebody-left-block-new" style="float:left;min-width:200px;margin:0 10px 10px 0;">
 
-<!-- running galleries.php -->
  
 
 
@@ -1101,20 +1117,20 @@ jmeyer@wtop.com.
                 <dl class="share">
                                   <!-- Data not in memcache. Fetching -->
 <!-- facebook.shares rank not in memcache. Fetching -->
-<!-- Fetched facebook.shares rank. Took 0.00098705291748 seconds -->
+<!-- Fetched facebook.shares rank. Took 0.00111079216003 seconds -->
 <!-- facebook.likes rank not in memcache. Fetching -->
-<!-- Fetched facebook.likes rank. Took 0.000333070755005 seconds -->
+<!-- Fetched facebook.likes rank. Took 0.000372171401978 seconds -->
 <!-- tweets rank not in memcache. Fetching -->
-<!-- Fetched tweets rank. Took 0.000392913818359 seconds -->
+<!-- Fetched tweets rank. Took 0.000463962554932 seconds -->
 <!-- rank rank not in memcache. Fetching -->
-<!-- Fetched rank rank. Took 0.000397920608521 seconds -->
+<!-- Fetched rank rank. Took 0.000554084777832 seconds -->
 <!-- trying to run php social_rank_helper.php 1551735 f706cd882abd8f1d627dcbd2d759fe11 >/dev/null 2>&1 & -->
                     <!--<dt class="facebook"><a href="#">Like</a></dt><dd>0</dd>-->
                     <dt class="facebook"><a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.federalnewsradio.com%2F635%2F1551735%2FPrivacy-Statement&amp;t=Privacy%20Statement">Share</a></dt>
                     <dd>0</dd>
 
                     <!-- Using key /shorturl/http://www.federalnewsradio.com/?sid=1551735&nid=635 - 5b9d79e08386fb4f076ebcfea565d95d -->
-<!-- Found shorturl in memcache. Took 0.00107979774475 seconds -->
+<!-- Found shorturl in memcache. Took 0.000584840774536 seconds -->
                       <dt class="retweet"><a href="http://twitter.com/?status=Privacy%20Statement%20http%3A%2F%2Ftw.gs%2FYzu3iX">Tweet</a></dt>
                       <dd>0</dd>
                                                         <dt class="print"><a href="javascript: printStory(851,1551735);">Print</a></dt>
@@ -1155,10 +1171,11 @@ jmeyer@wtop.com.
             <!--  End Column2Upper -->
     </div>
 
-        
+  </div><!-- /T2grid-left -->        
 
-  </div><!-- /T2grid-left -->
+
 	<div class="clearB" id="mainContentClear"></div>
+  <div id="content-middle">
   <div id="Upper2A-980">
     <!--  Begin FullWidthMiddle -->
         <!--  End FullWidthMiddle -->
@@ -1168,48 +1185,16 @@ jmeyer@wtop.com.
   <div id="newspromo-right">
 	<div class="Middle1D-230-right">
           </div> 
-    <div class="Middle2D-230-right">
-          </div> 
-    <div class="Middle3D-230-right">
-          </div> 
   </div>
 
 
   <div id="newspromo-left">
     <div class="Middle1A-230">
           </div>
-    <div class="Middle1B-230">
-          </div>
-    <div class="Middle1C-230">
-          </div>
-    <div class="Middle2A-230">
-          </div>
-    <div class="Middle2B-230">
-          </div>
-    <div class="Middle2C-230">
-          </div>
-    <div class="Middle3A-230">
-          </div>
-    <div class="Middle3B-230">
-          </div>
-    <div class="Middle3C-230">
-          </div> 
   </div>
+ </div>
   
-    <div class="rightsidebar">
-      <div class="Middle1D-300-right">
-        <!--  Begin Middle1D-300 -->
-                <!--  End Middle1D-300 -->
-      </div>
-      <div class="Middle2D-300-right">
-        <!--  Begin Middle2D-300 -->
-                <!--  End Middle2D-300 -->
-      </div>
-      <div class="Middle3D-300-right">
-        <!--  Begin Middle3D-300 -->
-                <!--  End Middle3D-300 -->
-      </div>  
-    </div>
+
 
 
   <div class="clearB" id="lowerContentClear"></div>
@@ -1271,18 +1256,18 @@ jmeyer@wtop.com.
             <!--  End Column1Wide Upper- Column1 Content Wide -->
     </div>
         
-	<div class="clearB"></div>
-        
-    <div id="Bottom1A-230-left">
-      <!--  Begin Column1Upper-->
-            <!--  End Column1Upper-->
-    </div>
+
 
     <div id="Bottom1B-445-leftmid">
       <!--  Begin Column2Upper -->
             <!--  End Column2Upper -->
     </div>
-
+        
+    <div id="Bottom1A-230-left">
+      <!--  Begin Column1Upper-->
+            <!--  End Column1Upper-->
+    </div>
+	
     <div id="Bottom2A-980">
       <!--  Begin FullWidthMiddle -->
             <!--  End FullWidthMiddle -->
@@ -1322,10 +1307,12 @@ jmeyer@wtop.com.
 			<li class="last"><a href="/?sid=1551736&amp;nid=635">Terms of Use</a></li>
 		</ul>
 	</div>
+	<div class="clearB"></div>
 </div>
                 <div id="footer-bottom">
                         <!--  Begin FullWidthBottomAd -->
-                                        <!--  End FullWidthBottomAd -->
+                        <!-- ITEMS:  -->
+                <!--  End FullWidthBottomAd -->
             <p>Copyright © 2013 by Federal News Radio. All rights reserved.</p>
 			
 			
@@ -1387,8 +1374,8 @@ s.prop2=""
 s.prop3="Policies"
 s.prop4="Federal News Radio Policies"
 s.prop5=""
-s.prop7="10:30AM"
-s.prop8="Sunday"
+s.prop7="3:00AM"
+s.prop8="Saturday"
 s.prop9="Weekend"
 s.prop11="1551735"
 s.prop12="Privacy Statement"
