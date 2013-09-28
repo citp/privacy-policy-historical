@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the myfoxchicago.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519145350id_/http%3A//www.myfoxchicago.com/story/19534280/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfoxchicago.com privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928091242id_/http%3A//www.myfoxchicago.com/story/19534280/privacy-policy) for the most accurate reproduction.*
 
 # Fox Television Stations Privacy Policy - Chicago News and Weather | FOX 32 News
 
-**Effective  September 19, 2012**
+**Fox Television Stations Privacy Policy**
 
-Table of Contents:
+**  Effective June 28, 2013**
+
+Table of Contents: 
 
   1. **INTRODUCTION**
   2. **COLLECTION OF INFORMATION**
@@ -16,15 +18,15 @@ Table of Contents:
 
 
 
-**1.  INTRODUCTION**
+**1.          INTRODUCTION**
 
-Fox Television Stations, Inc., and certain of its affiliated entities (collectively, "FTS" or "we") operate a group of news and entertainment websites (each an "FTS Website") on behalf of their owned and operated television stations.  FTS wants you to be familiar with how we collect, use and disclose information from or about you. This Privacy Policy describes our practices in connection with information collected through services such as websites, mobile sites, applications ("apps"), and widgets (collectively, the "FTS Services").  By using FTS Services, you agree to the terms and conditions of this Privacy Policy.  A list of our affiliated companies ("Company Affiliates") is available at <http://www.newscorp.com/>.
+Fox Television Stations, Inc., and certain of its affiliated entities (collectively, "FTS" or "we") operate a group of news and entertainment websites (each an "FTS Website") on behalf of their owned and operated television stations.  FTS wants you to be familiar with how we collect, use and disclose information from or about you. This Privacy Policy describes our practices in connection with information collected through services such as websites, mobile sites, applications ("apps"), and widgets (collectively, the "FTS Services").  By using FTS Services, you agree to the terms and conditions of this Privacy Policy.  A list of our affiliated companies ("Company Affiliates") is available at [http://www.21cf.com](http://www.21cf.com/).
 
 As set forth in our Terms of Service, the FTS Services are for a general audience, are not targeted to children, and do not knowingly collect personal information from children under 13 years of age. 
 
 This Privacy Policy applies to all users, including both those who use the FTS Services without being registered with or subscribing to an FTS Service and those who have registered with or subscribed to an FTS Service.  This Privacy Policy applies to FTS's collection and use of your personal information (i.e., information that identifies a specific person, such as full name or email address).  It also describes generally FTS's practices for handling non-personal information (for example, interests, demographics and services usage). 
 
-**2\. COLLECTION OF INFORMATION**
+**2.          COLLECTION OF INFORMATION**
 
 FTS and our service providers may collect the following information from and about you: 
 
@@ -44,7 +46,7 @@ Most browsers are initially set to accept cookies, but you can change your setti
 
 **Information from Other Sources.   **We may supplement the information we collect with information from other sources, such as publicly available information from social media services, commercially available sources and information from our Company Affiliates or business partners. **            ** 
 
-**3.  USE AND DISCLOSURE**
+**3.          USE AND DISCLOSURE**
 
 We use the information we collect from and about you to provide the FTS Services and features to you, including: to measure and improve those FTS Services and features; to improve your experience with both online and off-line FTS Services by delivering content you will find relevant and interesting, including advertising and marketing messages; to allow you to comment on content, and participate in online games, contests, or rewards programs; to provide you with customer support and to respond to inquiries.  When the information collected from or about you does not identify you as a specific person, we may use that information for any purpose or share it with third parties.
 
@@ -68,17 +70,17 @@ We may also use the information we collect from and about you for the following 
 
 **To complete a merger or sale of assets.   **If FTS sells all or part of its business or makes a sale or transfer of its assets or is otherwise involved in a merger or transfer of all or a material part of its business, FTS may transfer your information to the party or parties involved in the transaction as part of that transaction.
 
-4 **.   SECURITY**
+4 **.          SECURITY**
 
 FTS uses commercially reasonable administrative, technical, personnel and physical measures to safeguard information in its possession against loss, theft and unauthorized use, disclosure or modification. However, no one can guarantee the complete safety of your information.  
 
-**5.  USER CONTROL **
+**5.          USER CONTROL **
 
 If you would like to review, correct, update, suppress, or otherwise limit our use of your personal information you have previously provided directly to us, you may contact us at [privacy@foxtv.com](mailto:privacy@foxtv.com) or as otherwise outlined in Section 7, or using the mechanisms provided below. In your request, you must identify the FTS Website or other FTS Service you are registered with and any specific program on that FTS Website or FTS Service to which your request pertains (e.g. news alerts, promotional messages).  Please make clear what information you would like to have changed, whether you would like to have your personal information suppressed from our database, or if you have other questions about your personal information.  We will try to comply with your request as soon as reasonably practicable.
 
-If you are a California resident, you may request that we not share your personal information on a going-forward basis with Company Affiliates or unaffiliated third parties for their direct marketing purposes by sending an email to [californiaprivacy@foxtv.com](mailto:californiaprivacy@foxtv.com) with "FTS: Disclosure Opt-Out" in the subject line and your full name, email address, and postal address in the body of the email. To help us process your request, in your email please identify the FTS Website or other FTS Service, as well as any specific program on that FTS Website or FTS Service (e.g. news alerts, promotional messages) that you are registered with.  We will try to comply with your request(s) as soon as reasonably practicable.  Please note that emails sent to [californiaprivacy@foxtv.com](mailto:californiaprivacy@foxtv.com) for purposes other than as stated in this paragraph may not be acknowledged or responded to.  For any other type of communication, please use the Contact information located at the "About Us" tab on the applicable FTS Website.
+If you are a California resident, you may request that we not share your personal information on a going-forward basis with Company Affiliates or unaffiliated third parties for their direct marketing purposes by sending an email to [californiaprivacy@foxtv.com](mailto:californiaprivacy@foxtv.com) with "FTS: Disclosure Opt-Out" in the subject line and your full name, email address, and postal address in the body of the email. To help us process your request, in your email please identify the FTS Website or other FTS Service, as well as any specific program on that FTS Website or FTS Service (e.g. news alerts, promotional messages) that you are registered with.  We will try to comply with your request(s) as soon as reasonably practicable.  Please note that emails sent to californiaprivacy@foxtv.com for purposes other than as stated in this paragraph may not be acknowledged or responded to.  For any other type of communication, please use the Contact information located at the "About Us" tab on the applicable FTS Website.
 
-**6.  OTHER IMPORTANT INFORMATION**
+**6.          OTHER IMPORTANT INFORMATION**
 
 **Updates to Privacy Policy.   **FTS may modify this Privacy Policy.  Please look at the Effective Date at the top of this Privacy Policy to see when this Privacy Policy was last revised.  Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the FTS Services.  If we make material changes to this Privacy Policy that expand our rights to use the personal information we have already collected from you, we will notify you and provide you with a choice about our future use of that information.
 
@@ -94,7 +96,7 @@ Remember that even after you cancel your account, copies of some information fro
 
 **Sensitive Information.**   We ask that you not send us, and you not disclose, any sensitive personal information (such as social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, criminal background or trade union membership) on or through the FTS Services or otherwise.
 
-**7.**   **CONTACT US**
+**8.          CONTACT US** 
 
  If you have questions about this Privacy Policy, please contact us at:
 
