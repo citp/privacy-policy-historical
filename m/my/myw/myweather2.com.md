@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the myweather2.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425092116id_/http%3A//www.myweather2.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myweather2.com privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928074459id_/http%3A//www.myweather2.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | MyWeather2.com
-
-## Privacy Policy
 
 Weather2 Ltd (W2) is committed to protecting users' personal information when they are using MyWeather2.com (MyW2). This Privacy Policy relates to the use of any person's information provided in order to use the services supplied by MyW2. 
 
@@ -17,3 +15,11 @@ W2 use the information we collect to supply our services to you. We may also use
 Your personal information will be held and used by us in accordance with UK data protection legislation. You have a right to access the personal information that is held about you. To obtain a copy of the personal information W2 holds relating to you, please write to us at Weather2 Ltd. (for full address please see our Contact page), enclosing your name, address, and a cheque for £10 payable to Weather2 Ltd. 
 
 Where MyW2 contains links to other Web sites that are not owned or controlled by W2, W2 is not responsible for the privacy practices or content of these other Web sites. The Web sites of these other companies may have their own privacy policies that differ from W2's policy. You should look for the privacy policy of any linked site. 
+
+## Notice Regarding Online Behavioral Advertising
+
+We allow third party companies to serve ads and/or collect certain anonymous information when you visit our Web site. These companies may use non-personally identifiable information (e.g. click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you.
+
+These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice visit the NAI at [networkadvertising.org](http://www.networkadvertising.org/).
+
+To opt-out of this type of advertising, you can visit [aboutads.info](http://www.aboutads.info/choices).
