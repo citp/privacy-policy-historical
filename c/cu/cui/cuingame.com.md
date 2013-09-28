@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cuingame.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520092048id_/http%3A//www.cuingame.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cuingame.com privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928210517id_/http%3A//www.cuingame.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Diablo 3 gold, Diablo gold, GW2 gold, Guild Wars 2 gold, WoW gold
+# Diablo 3 gold, D3 gold, GW2 gold, PoE orbs, SWTOR credits
 
 **                                                                                    Privacy Policy**
 
