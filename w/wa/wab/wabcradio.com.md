@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wabcradio.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623063334id_/http%3A//www.wabcradio.com/common/page.php%3Fpt%3DPrivacy%2BPolicy%26id%3D114%26is_corp%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wabcradio.com privacy policy that was archived on 2013-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130929202242id_/http%3A//www.wabcradio.com/common/page.php%3Fpt%3DPrivacy%2BPolicy%26id%3D114%26is_corp%3D1) for the most accurate reproduction.*
 
 # News Talk Radio 77 WABC New York - Privacy Policy
 
