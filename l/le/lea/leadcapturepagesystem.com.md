@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the leadcapturepagesystem.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614210802id_/http%3A//leadcapturepagesystem.com/disclosurepolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadcapturepagesystem.com privacy policy that was archived on 2013-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130929202153id_/http%3A//leadcapturepagesystem.com/disclosurepolicy.php) for the most accurate reproduction.*
 
 # Disclosure/Privacy Policy
-
-[](http://webmarketingtool.com/)
-
-**You Were Referred By:**  
-Terry Burns  
-540-778-2667
-
-**Have A Question?**
 
 _Last Updated on June 11, 2013_
 
