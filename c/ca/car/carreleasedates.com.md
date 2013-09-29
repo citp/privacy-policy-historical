@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carreleasedates.com privacy policy that was archived on 2013-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130427111633id_/http%3A//carreleasedates.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carreleasedates.com privacy policy that was archived on 2013-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130929191431id_/http%3A//carreleasedates.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Carreleasedates.com
 
