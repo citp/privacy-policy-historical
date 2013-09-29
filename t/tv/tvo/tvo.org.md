@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tvo.org privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502125243id_/http%3A//ww3.tvo.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvo.org privacy policy that was archived on 2013-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130929074426id_/http%3A//ww3.tvo.org/privacy) for the most accurate reproduction.*
 
-# Privacy Statement | TVO Main
+# Privacy Statement | TVO
 
 This Statement describes the types of information TVO collects, how it is used and to whom it is disclosed. 
 
