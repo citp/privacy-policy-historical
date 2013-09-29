@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamseer.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503204153id_/http%3A//www.teamseer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamseer.com privacy policy that was archived on 2013-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130929230728id_/http%3A//www.teamseer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -8,7 +8,7 @@
 
 ### Our commitment to privacy
 
-This privacy statement explains how we (TeamSeer) collect information from you via the website or in any manner expressly described in the privacy statement and how this information is then used. By you (or customer) we mean your company or organisation. When you provide us with your personal data in the manner described, you consent to the processing of all such personal data as set out in the privacy statement. Please read this privacy statement carefully and revisit this page from time to time to review any changes that we may have made. If you have any questions or comments about how we handle your personal information, please contact us. You may also use these contacts to tell us about any concerns you may have about our privacy statement. We have registered as a data controller (in our registered company name of TeamSeer Limited) in line with the United Kingdom Data Protection Act, 1998. Our registration number is Z9369614.
+This privacy statement explains how we (TeamSeer) collect information from you via the website or in any manner expressly described in the privacy statement and how this information is then used. By you (or customer) we mean your company or organisation. When you provide us with your personal data in the manner described, you consent to the processing of all such personal data as set out in the privacy statement. Please read this privacy statement carefully and revisit this page from time to time to review any changes that we may have made. If you have any questions or comments about how we handle your personal information, please contact us. You may also use these contacts to tell us about any concerns you may have about our privacy statement. We have registered as a data controller (in our registered company name of Access UK Limited) in line with the United Kingdom Data Protection Act, 1998. Our registration number is Z5042164.
 
 ### Giving information for other people
 
@@ -76,4 +76,4 @@ Our website contains links to other websites. We are not responsible for the pri
 
 When sign up online for a subscription with TeamSeer, you will be asked for your credit card details by our secure payment provider. TeamSeer does not know or store your credit card or debit card details.
 
-Last updated: 24 January 2012
+Last updated: June 2013.
