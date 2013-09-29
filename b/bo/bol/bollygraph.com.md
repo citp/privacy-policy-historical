@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bollygraph.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617032103id_/http%3A//www.bollygraph.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollygraph.com privacy policy that was archived on 2013-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130929113843id_/http%3A//www.bollygraph.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Latest Bollywood News | Bollywood Movies, Actress and Wallpapers
 
