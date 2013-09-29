@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpmudev.org privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630032651id_/http%3A//premium.wpmudev.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpmudev.org privacy policy that was archived on 2013-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130929192108id_/http%3A//www.wpmudev.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WPMU DEV - The WordPress Experts
 
