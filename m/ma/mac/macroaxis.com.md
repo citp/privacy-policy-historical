@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the macroaxis.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530163541id_/http%3A//www.macroaxis.com/invest/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macroaxis.com privacy policy that was archived on 2013-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130929165414id_/http%3A//www.macroaxis.com/invest/privacyPolicy) for the most accurate reproduction.*
 
 # Macroaxis Privacy Policy
 
-Our goal is to make Macroaxis the most trusted site in investment management. To do this, we need your help, so any suggestions for improvement can be sent to us directly via the [feedback form](https://web.archive.org/?pitch=pitchletHowToGet&mm=contactsInfo). 
+Our goal is to make Macroaxis the most trusted site in investment management. To do this, we need your help, so any suggestions for improvement can be sent to us directly via the [feedback form](https://web.archive.org/invest/pitchletHowToGet). 
 
 Macroaxis help to manage and understand your investments. Macroaxis is free to use for mainstream investors, meaning we do not take your credit card information and we do not take your hard earned money. We don't ask and store any information about your brokerage account. We offer import/export of your portfolio in csv file to easily create and manage your account. 
 
@@ -44,4 +44,4 @@ Macroaxis does not knowingly collect information from people under the age of 18
 
 ## Change is Life
 
-Macroaxis reserves the right to modify this privacy statement at any time. If there are material changes to this statement on how Macroaxis will use your information, we will prominently post these changes prior to implementing them. If you use our website after we post these changes, this indicates your acceptance of them. Regardless of later updates, we will follow the privacy practices described in this privacy statement at the time you provided us with your information. If you have questions about our privacy policies, please [ send feedback](https://web.archive.org/?pitch=pitchletHowToGet&mm=contactsInfo). 
+Macroaxis reserves the right to modify this privacy statement at any time. If there are material changes to this statement on how Macroaxis will use your information, we will prominently post these changes prior to implementing them. If you use our website after we post these changes, this indicates your acceptance of them. Regardless of later updates, we will follow the privacy practices described in this privacy statement at the time you provided us with your information. If you have questions about our privacy policies, please [ send feedback](https://web.archive.org/invest/pitchletHowToGet). 
