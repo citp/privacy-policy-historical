@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastmed.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513044732id_/http%3A//www.fastmed.com/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastmed.com privacy policy that was archived on 2013-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130929052707id_/http%3A//www.fastmed.com/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FastMed Urgent Care
 
