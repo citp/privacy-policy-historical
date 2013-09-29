@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the selectory.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519204225id_/http%3A//www.hoovers.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selectory.com privacy policy that was archived on 2013-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130929080036id_/http%3A//www.hoovers.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Hoover's
 
