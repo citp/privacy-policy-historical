@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itnint.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508124033id_/http%3A//www.itn-international.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itnint.com privacy policy that was archived on 2013-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130929023208id_/http%3A//www.itn-international.com/privacy_policy.html) for the most accurate reproduction.*
 
 # ITN International -Privacy Policy
 
@@ -6,7 +6,9 @@ Effective Date: April 6, 1999
 
 ITN International is committed to respecting the privacy rights of our customers and all visitors to our website, offices and events. We take this matter seriously and have instituted many policies and procedures to insure that your privacy rights as stated herein are not violated. The following outlines our privacy policy and details the measures we have taken to safeguard and protect your privacy. 
 
-All Personally Identified Information gathered on this website is in accordance with the Privacy Policy. ITN International’s policy maintains that we will not collect or maintain information from anyone under the age of 18. This policy came into effect on the 6 of April 1999, and was last updated on the 25th September 2012. 
+All Personally Identified Information gathered on this website is in accordance with the Privacy Policy. ITN International’s policy maintains that we will not collect or maintain information from anyone under the age of 18. This policy came into effect on the 6 of April 1999, and was last updated on the 23rd September 2013. 
+
+In accordance with our commitment to protect personal privacy, ITN International adheres to the principles of the Safe Harbor Framework as developed by the U.S. Department of Commerce in consultation with the European Commission. The seven principles and fifteen Frequently Asked Questions (FAQs) referred to in this policy constitute Safe Harbor privacy framework. These principles and FAQs may be found at: http://www.export.gov/safeharbor 
 
 **Collection and Use of Information**
 
@@ -42,7 +44,9 @@ In case of services requiring payment, we request credit card or other payment a
 
 **Dispute Resolution**
 
-Any questions or concerns regarding the use or disclosure of personal information should be directed to the ITN International Privacy Office at the address given below in the “Contact Us” section. ITN International will investigate and attempt to resolve complaints and disputes regarding use and disclosure of personal information by adhering to the principles contained in this Policy. 
+In compliance with the US-EU Safe Harbor Principles, ITN International commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact ITN International at the address given below in the “Contact Us” section. 
+
+ITN International has further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by ITN International, please visit the BBB EU SAFE HARBOR web site at www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint. 
 
 **We May Share Your Information for The Following Reasons**
 
@@ -59,6 +63,10 @@ All Personally Identified Information gathered can be disclosed to judicial or o
 In the event of a merger all data will be transferred to the new entity. 
 
 In the event of ITN International ceasing operations entirely all personal data will be destroyed within 14 days. 
+
+**Choice and Opt-Out**
+
+If you wish to have us delete any submitted information or opt-out of receiving any further correspondence from us please forward your request to the address given below in the “Contact Us” section. 
 
 **Contact us**
 
