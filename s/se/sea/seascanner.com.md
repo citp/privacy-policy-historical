@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seascanner.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118060130id_/http%3A//www.seascanner.com/datenschutz.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seascanner.com privacy policy that was archived on 2013-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130929121527id_/http%3A//www.seascanner.com/datenschutz.php) for the most accurate reproduction.*
 
 # Data Privacy
 
