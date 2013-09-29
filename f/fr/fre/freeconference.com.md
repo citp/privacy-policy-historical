@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeconference.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601131326id_/http%3A//www.freeconference.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeconference.com privacy policy that was archived on 2013-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130929024017id_/http%3A//www.freeconference.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy: Protecting customer privacy during telephone conferencing is of highest importance. Contact us about our teleconferencing services today!
 
@@ -93,4 +93,4 @@ An important part of protecting the security of personal information is your eff
 
  **Contact Us**   FreeConference.com is committed to the policies set forth in this Policy.  If you have any questions, comments or concerns about this Policy, please contact [privacy@freeconference.com](mailto:privacy@freeconference.com).   Or you can send us mail to: FreeConference.com, Attn: Privacy, P.O. Box 23, Glendale CA 91209.  Effective Date:  January 1, 2009. Back to Top
 
- **Opt Out:** If you wish to opt out from all future correspondence from us, please click [here](https://web.archive.org/web/20130601131326id_/http%3A//www.freeconference.com/unsubscribe.aspx).
+ **Opt Out:** If you wish to opt out from all future correspondence from us, please click [here](https://web.archive.org/web/20130929024017id_/http%3A//www.freeconference.com/unsubscribe.aspx).
