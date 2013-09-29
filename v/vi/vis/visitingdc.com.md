@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitingdc.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524060330id_/http%3A//www.visitingdc.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitingdc.com privacy policy that was archived on 2013-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130929214718id_/http%3A//www.visitingdc.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -50,7 +50,7 @@ We do not collect or maintain information about our users. We do not email or co
 
 **Contacting Us**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, we recommend you contact: 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, contact: 
 
 Dennis Wilmeth   
 www.VisitingDC.com   
