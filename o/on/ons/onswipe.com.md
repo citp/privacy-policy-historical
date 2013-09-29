@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onswipe.com privacy policy that was archived on 2013-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130114235437id_/http%3A//blog.onswipe.com/social-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onswipe.com privacy policy that was archived on 2013-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130929054151id_/http%3A//blog.onswipe.com/social-privacy-policy) for the most accurate reproduction.*
 
 # Onswipe Facebook Privacy Policy - Onswipe Blog
 
