@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freescorefinder.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510184748id_/https%3A//freescorefinder.com/footer/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freescorefinder.com privacy policy that was archived on 2013-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130930010744id_/https%3A//www.freescorefinder.com/footer/privacy-policy.php) for the most accurate reproduction.*
 
 # 
 
