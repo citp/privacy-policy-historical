@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weyak.ae privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021101130id_/http%3A//v2.weyak.ae/en/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weyak.ae privacy policy that was archived on 2013-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130929134700id_/http%3A//v2.weyak.ae/en/privacy.jsp) for the most accurate reproduction.*
 
 # Etisalat Portal Privacy Policy
 
