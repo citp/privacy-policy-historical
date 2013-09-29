@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macysjobs.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622231350id_/http%3A//macysjobs.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macysjobs.com privacy policy that was archived on 2013-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130929212332id_/http%3A//macysjobs.com/privacy.aspx) for the most accurate reproduction.*
 
 # Macy's Jobs - Privacy Policy
 
