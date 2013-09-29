@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newlook.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621221554id_/http%3A//www.newlook.com/furniture/help_centre_faq.jsp%3FpageName%3DPrivacy%2Bpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newlook.com privacy policy that was archived on 2013-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130929233930id_/http%3A//www.newlook.com/furniture/help_centre_faq.jsp%3FpageName%3DPrivacy%2Bpolicy) for the most accurate reproduction.*
 
 # Help Centre | New Look
 
@@ -100,6 +100,12 @@ Close
       * ### How can I find out about changes to New Look's privacy policy?
 
 Any changes we may make to our privacy policy in the future will be posted on this page. This Privacy Policy was last updated on 14th march 2010.
+
+Close
+
+### Who can I contact at New Look?
+
+If you have any concerns or questions about our Privacy Policy or your Personal Data, please contact us at privacy@newlook.com 
 
 Close
 
@@ -226,4 +232,4 @@ Close
 
 
 
-Still not found what you were looking for? [Contact Us](https://web.archive.org/furniture/contact_us.jsp;jsessionid=7120D7EEBE135BD5CCDCB4EA665D81D6.app023newlook1 "Contact Us")
+Still not found what you were looking for? [Contact Us](https://web.archive.org/furniture/contact_us.jsp "Contact Us")
