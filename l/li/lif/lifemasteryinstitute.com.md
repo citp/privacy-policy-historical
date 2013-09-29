@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifemasteryinstitute.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616021714id_/http%3A//lifemasteryinstitute.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifemasteryinstitute.com privacy policy that was archived on 2013-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130929200720id_/http%3A//lifemasteryinstitute.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
