@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lacountyfair.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621064241id_/http%3A//www.lacountyfair.com/2012/generalinfo/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lacountyfair.com privacy policy that was archived on 2013-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130929211429id_/http%3A//www.lacountyfair.com/2013/generalinfo/privacypolicy.asp) for the most accurate reproduction.*
 
-# 2012 L.A. County Fair | | Aug. 30 - Sept. 29, 2013
+# 2013 L.A. County Fair | Aug. 30 - Sept. 29, 2013 | Pomona, CA | Pure Fun
 
 ### Privacy Policy
 
@@ -73,7 +73,7 @@ This policy was last modified on 1/11/2010
 Contacting Us  
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-[Fairplex.com](https://web.archive.org/web/20130621064241id_/http%3A//www.lacountyfair.com/fp)  
+[Fairplex.com](https://web.archive.org/web/20130929211429id_/http%3A//www.lacountyfair.com/fp)  
 1101 W. McKinley Ave  
 Pomona, California 91768  
 USA  
