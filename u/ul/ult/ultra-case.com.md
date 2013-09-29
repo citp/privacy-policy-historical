@@ -1,77 +1,46 @@
-> *The following text is extracted and transformed from the ultra-case.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201013800id_/http%3A//www.ultra-case.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultra-case.com privacy policy that was archived on 2013-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130929034455id_/http%3A//www.ultra-case.com/privacy_policy) for the most accurate reproduction.*
 
-# Ultra Case - Be Different Your iPhone 4 Case
+# Ultra Case | iPhone iPad Galaxy S2 bumper cover skin
 
-Privacy Policy
+## Privacy Policy
 
-**June 30, 2007 – Ultra-case respects and protects your right to privacy.**
+References in this Privacy Policy Statement to "we", "us" and "Ultra-case" are to JRC Limited (Trading as Ultra-Case). At Ultra-case we are committed to maintaining your privacy. Our privacy policy statement is given below. If we make changes to this policy, we will notify you by updating this statement on our Website.
 
-In our continual quest for transparency and clarity in our data management practices, we have revised our Privacy Policy. Technology, regulatory requirements and data sharing practices continue to evolve. Our policy provides you with detail about how we manage the data you entrust with us.   
-We believe that fair information processing is a requirement for organizations that have embraced the reality that the Network is the Computer and who have built communities that are comprised of individuals from around the globe. The principles of notice, choice, onward transfer, security, data integrity, access and enforcement govern how we manage the personally identifiable information entrusted to us.   
-Your privacy is critically important to us. We have a few fundamental principles:
+### What information do we collect?
 
-  * We don’t ask you for personal information unless we truly need it. (We can’t stand services that ask you for things like your gender or income level for no apparent reason.)
-  * We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
-  * We don’t store personal information on our servers unless required for the on-going operation of one of our services.
-  * In our blogging products, we aim to make it as simple as possible for you to control what’s visible to the public, seen by search engines, kept private, and permanently deleted.
+We ask for your name, telephone number, home address, email address and age for competitions, prizedraws, or newsletter sign ups. When a purchase is made on our site, in addition to the above, we also ask for delivery address, and payment method details. We may obtain information about your usage of our Website to help us develop and improve it further through online surveys and other requests.
+
+### What the data will be used for?
+
+Your data will enable us, and our processors, to fulfil your order, to notify you about important functionality changes and for statistical or survey purposes to improve this website and our services to you. We may also send you from time to time (by email or post) information about products and services and details of promotions and special offers from Ultra-case. If you do not wish to be contacted for these purposes, we offer a range of ways in which you can inform us about your marketing preferences:
+
+  * All email messages and email newsletters will contain information on how you can unsubscribe; or
+  * Send an email to our customer services division on cs@ultra-case.com writing "unsubscribe" in the subject heading; or
+  * Call our customer services division - see the "Contact Us" section; or
+  * Write to us at: Customer Services, JRC Limited, 13A Goodwill Industrial Bldg, 36-44 Pak Tin Par St, Tsuen Wan NT, Hong Kong
 
 
 
-Below is our privacy policy:
+In assessing your request for goods or services, we may use your information for the purposes of the prevention and detection of fraud.
 
-**User communications**
+### What information do we share with others?
 
-When you send email or other communications to us, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.
+We may contract with other companies to provide certain services, including credit card processing, shipping, name and address verification, email distribution, market research and promotions management. We provide these companies with only the information they need to perform their services and work closely with them to ensure that your privacy is respected and protected. These companies are prohibited by contract from using this information for their own marketing purposes or from sharing this information with anyone other than Ultra-case. However, we will not pass your information on to any other third parties for marketing purposes unless you have agreed for us to do so. 
 
-**Personal information**
+One of the purposes for which we may disclose your address and zip code details is to check against the IMRG Security Alert or any other Fraud Prevention Scheme. We may also disclose specific information upon governmental request, in response to a court order, or when required by law to do so. We may also share information with companies assisting in fraud protection or investigation. We do not provide information to these agencies or companies for marketing or commercial purposes.
 
-When you sign up for a particular service that requires registration, we ask you to provide personal information. If we use this information in a manner different than the purpose for which it was collected, then we will ask for your consent prior to such use. 
+### Cookies
 
-You can decline to submit personal information to any of our services, in which case we may not be able to provide those services to you. 
+A Cookie is a small data file that is stored by your Web browser on your computer. We use Cookies to keep track of your current shopping session, to enable you to proceed to checkout at any time and to personalize your online experience. If you do not accept Cookies you will be unable to use this website. Refer to the Help content of your browser for more information on selecting or deselecting Cookies.
 
-**Online Stores**
+### Links to Third-Party Sites
 
-Visitors purchasing goods and services through one of our online stores may need to provide a valid credit card number and expiration date, in addition to name, delivering address, phone number and e-mail address.
+In an attempt to provide you with increased value, we may from time to time include third party links on our Website. These linked sites have separate and independent privacy policies. We encourage you to review those policies when you visit those sites. This Privacy Policy Statement only covers our Website and does not cover any other website. We therefore have no responsibility or liability for the content and activities of these linked sites.
 
-**Personal Information Released To Outside Parties**
+### Privacy of Children on Our Website
 
-Any information that you provide to us will be used for our purposes only. Except as specified in this Policy, your information will not be shared with individuals outside the employ of Incase or with other companies.  
-In some instances we may provide your name and delivery address to third parties that we use for delivering specific products to you. The process of fulfilling orders placed via the online store may also require Ultra-case to share your information with other third parties such as automated data processors and credit card processors. In such situation, your information is not retained by these third parties or used by these companies for any secondary reasons.   
-As a good corporate citizen, Ultra-case complies with applicable law and legal obligations to respond to governmental, law enforcement and court requests for personal information and other information and data about our visitors and their transactions. 
+Our Website is not intended for use by children under the age of 14, and we will not knowingly collect any information from any person below the age of 14.
 
-**Cookies**
+### Sale of assets
 
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Ultra-case uses cookies to help Ultra-case identify and track visitors, their usage of Ultra-case website, and their website access preferences. Ultra-case visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Ultra-case’s websites, with the drawback that certain features of Ultra-case’s websites may not function properly without the aid of cookies.
-
-**Information security**
-
-We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data. 
-
-We restrict access to personal information to Ultra-case employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. 
-
-**Data integrity**
-
-Ultra-case processes personal information only for the purposes which were collected and in accordance with this Privacy Policy or any applicable service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services or as otherwise permitted under this Policy. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
-
-**Changes to this Privacy Policy**
-
-Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes). Each version of this Privacy Policy will be identified at the top of the page by its effective date. If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us any time through this web site or at [privacy@ultra-case.com ](mailto:privacy@ultra-case.com)
-
-|  | 
-
-Products 
-
-Currencies: 
-
-0 [](https://web.archive.org/web/20101201013800id_/http%3A//www.ultra-case.com/viewcart.php)
-
-| Shop with Confidence  
----  
-  
-We ship worldwide!!  
----  
-  
-Worldwide Shipping Special  
----  
-  
-ONLY US$2.00
+In the unlikely event that Ultra-case or substantially all of its assets are acquired, customer information will of course be one of the transferred assets.
