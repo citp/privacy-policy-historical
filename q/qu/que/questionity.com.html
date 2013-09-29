@@ -1,201 +1,343 @@
-<!--The following is the downloaded HTML source of the questionity.com privacy policy that was archived on 2012-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120616063701id_/http%3A//about.questionity.com/privacy-policy%3Flang%3Den) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the questionity.com privacy policy that was archived on 2013-09-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130929145106id_/http%3A//about.questionity.com/en/privacy-policy-and-legal-notice) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-            <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-            <title>About - Questionity</title>
-            <link rel="stylesheet" type="text/css" href="/index_files/pages_style.css">
-            <!--[if IE 6]><link rel="stylesheet" type="text/css" href="/css/png.css" /><![endif]-->
+<!DOCTYPE html><html lang="en-US" xmlns="http://www.w3.org/1999/xhtml"><!--<![endif]--><head>
 
-            <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/index_files/jquery-1.6.1.min.js"></script>
-            <script type="text/javascript" src="/index_files/menus.js"></script>
-            <script type="text/javascript">
-                $(function(){
-                    $(".item").click(function(e) {
-                        $('.active').removeClass('active');
-                        $(this).addClass('active');
-                        var url = $(this).attr("rel");
-                        $.ajax({
-                            url: "/"+url,
-                            success: function(data){
-                                $("#content-right").html(data);
-                                $('.lang').each(function(index) {
-                                    var href = $(this).attr("href");
-                                    var _tmp = href.split("lang=");
-                                    $(this).attr("href","/"+url+"?lang="+_tmp[1]);
-                                });
-                            }
-                        });
-                    });
-                    $(".toggle").click(function(e) {
-                        if (e.target.id == this.id) {
-                            $('#sm_'+this.id.replace('im_','')).toggle();
-                            $('.active').removeClass('active');
-                            $(this).addClass('active');
-                            var url = $(this).attr("rel");
-                            $('.lang').each(function(index) {
-                                var href = $(this).attr("href");
-                                var _tmp = href.split("lang=");
-                                $(this).attr("href","/"+url+"?lang="+_tmp[1]);
-                            });
-                        }
+	<meta charset="UTF-8">
+	<meta name="author" content="rubenbristian.com">
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
 
-                    });
-                    $(".submenu").click(function(e) {
-                        var url = $(this).attr("rel");
-                        window.location.href="/"+url;
-                        /*
-                        $('.active').removeClass('active');$(this).addClass('active');
-                        $.ajax({
-                            url: "/"+$(this).attr("rel"),
-                            success: function(data){
-                                $("#content-right").html(data);
-                                $('.lang').each(function(index) {
-                                    var href = $(this).attr("href");
-                                    var _tmp = href.split("lang=");
-                                    $(this).attr("href","/"+url+"?lang="+_tmp[1]);
-                                });
+    <meta name="format-detection" content="telephone=no">
 
-                            }
-                        });
-                         */
-                    });
-                });
-            </script>
-<script type="text/javascript">
+	<title>Privacy | About – Questionity</title>
+	<meta name="description" content="">
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-26490444-1']);
-  _gaq.push(['_setDomainName', 'questionity.com']);
-  _gaq.push(['_trackPageview']);
+	<!-- portfolio & gallery redirect script, before anything else -->
+	
+	<script>if("page"=="portfolio")
+		document.location.href = "http://about.questionity.com/es/#/privacy-policy-and-legal-notice";if("page"=="gallery")
+		document.location.href = "http://about.questionity.com/es/qredes/#/privacy-policy-and-legal-notice";</script>
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+	
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="stylesheet" type="text/css" media="all" href="http://about.questionity.com/wp-content/themes/WowWay-Theme/style.css">
 
+	
+			<link href="http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,700,700italic" rel="stylesheet" type="text/css">
+
+		
+	<style type="text/css">
+		a:hover, #contactDetails a:hover, .projectContent a:hover {
+			color: #F15A23;
+		}
+		.actionButton, .pagination a:hover, .pagination .btnNext:hover, .pagination .btnPrev:hover, .hasButtonsPost div, #submit, .hasButtons a, #slideList a, #playPause, .button.light span, .button.dark:hover span, .button.light.arrow span, .button.dark.arrow:hover span, .jquery-msgbox-buttons button, .Light #menu ul.main-menu > li.selected > p > a, .nano > .pane > .slider, .Dark #menu ul.sub-menu > li.selected p > a {
+			background-color: #F15A23;
+		}
+		.Light #menu ul.main-menu > li.selected > p > a, .Light #menu ul.sub-menu > li.selected p > a {
+			border-color: #F15A23;
+		}
+		body, #menu ul.sub-menu a,.galleryContent .shortContent {
+			font-family:'Arial', sans-serif;
+		}
+		#tagline, h1, h2, h3, h4, h5, h6, #menu a, #comments-title, #reply-title, .commentAuthor, .asterix, #submit, .sliderPagination, .projectContent .category, .projectContent em, .projectContent a, .galleryContent .category, .button, .widget.twitter, .phoneNumber, .jquery-msgbox-buttons button, .sidewidget span {
+			font-family:'Open Sans', sans-serif;
+		}
+			</style>
+
+	<link rel="pingback" href="http://about.questionity.com/xmlrpc.php">
+
+	<!-- Favicon -->
+	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+
+
+     <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+
+	<link rel="alternate" type="application/rss+xml" title="About - Questionity » Feed" href="http://about.questionity.com/en/feed/">
+<link rel="alternate" type="application/rss+xml" title="About - Questionity » Comments Feed" href="http://about.questionity.com/en/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="About - Questionity » Privacy Comments Feed" href="http://about.questionity.com/en/privacy-policy-and-legal-notice/feed/">
+	<style type="text/css">
+	.wp-pagenavi{float:left !important; }
+	</style>
+  <link rel="stylesheet" id="wp-html-sitemap-style-css" href="http://about.questionity.com/wp-content/plugins/wp-html-sitemap/css/sitemap.css?ver=3.5.1" type="text/css" media="all">
+<link rel="stylesheet" id="page-list-style-css" href="http://about.questionity.com/wp-content/plugins/sitemap/css/page-list.css?ver=4.2" type="text/css" media="all">
+<link rel="stylesheet" id="wp-pagenavi-style-css" href="http://about.questionity.com/wp-content/plugins/wp-pagenavi-style/css/css3_black.css?ver=1.0" type="text/css" media="all">
+<script type="text/javascript" src="http://about.questionity.com/wp-includes/js/jquery/jquery.js?ver=1.8.3"></script>
+<script type="text/javascript" src="http://about.questionity.com/wp-content/plugins/floating-tweets/js/jquery.easing.js?ver=3.5.1"></script>
+<script type="text/javascript" src="http://about.questionity.com/wp-content/plugins/floating-tweets/js/jquery.hoverIntent.minified.js?ver=3.5.1"></script>
+<script type="text/javascript" src="http://about.questionity.com/wp-content/plugins/floating-tweets/js/jquery.floater.1.2.js?ver=3.5.1"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://about.questionity.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://about.questionity.com/wp-includes/wlwmanifest.xml"> 
+<link rel="prev" title="Terms of use" href="http://about.questionity.com/en/terms-of-use/">
+<link rel="next" title="Navigation rules" href="http://about.questionity.com/en/navigation/">
+<meta name="generator" content="WordPress 3.5.1">
+<link rel="canonical" href="http://about.questionity.com/en/privacy-policy-and-legal-notice/">
+	<style type="text/css">
+	 .wp-pagenavi
+	{
+		font-size:12px !important;
+	}
+	</style>
+	<link hreflang="es" href="http://about.questionity.com/es/politica-de-privacidad-y-aviso-legal/" rel="alternate">
+
+</head>
+
+
+<body id="body" class="page page-id-923 page-template-default closedSidebars  Dark Stick Left Fill aa Full">
+
+	<div id="sidebar">
+
+		<header id="header">
+			<div id="logo">
+				<a href="http://about.questionity.com/en">
+					<img src="http://about.questionity.com/wp-content/uploads/2013/01/logo.png" alt="About – Questionity">
+				</a>
+			</div>
+			<p id="tagline"></p>
+		</header>
+
+		<nav id="menu">
+			<ul id="menu-ingles" class="main-menu"><li id="menu-item-898" class="menu-item"><p><a href="http://about.questionity.com/en/">Histories</a></p></li>
+<li id="menu-item-881" class="parent menu-item"><p><a href="http://about.questionity.com/en/what-is-questionity/">What is Questionity?</a></p><div><ul class="sub-menu">	<li id="menu-item-894" class="menu-item"><p><a href="http://about.questionity.com/en/qnets/">Q!nets</a></p></li>
+</ul></div>
+</li>
+<li id="menu-item-945" class="menu-item"><p><a href="http://about.questionity.com/en/about-us/">About us</a></p></li>
+<li id="menu-item-944" class="menu-item"><p><a href="http://about.questionity.com/en/goodies/">Goodies</a></p></li>
+<li id="menu-item-943" class="menu-item"><p><a href="http://about.questionity.com/en/developers/">Developers</a></p></li>
+<li id="menu-item-942" class="menu-item"><p><a href="http://about.questionity.com/en/terms-of-use/">Terms of use</a></p></li>
+<li id="menu-item-941" class="selected"><p><a href="http://about.questionity.com/en/privacy-policy-and-legal-notice/">Privacy</a></p></li>
+<li id="menu-item-939" class="menu-item"><p><a href="http://about.questionity.com/en/code-of-conduct/">Code of conduct</a></p></li>
+<li id="menu-item-940" class="menu-item"><p><a href="http://about.questionity.com/en/navigation/">Navigation rules</a></p></li>
+<li id="menu-item-938" class="menu-item"><p><a href="http://about.questionity.com/en/credits/">Credits</a></p></li>
+</ul>		</nav>
+
+				<form id="responsiveMenu">
+			<select>
+				<option selected="" data-href="#">Site Navigation</option>
+				<option data-href="http://about.questionity.com/en/">Histories</option><option data-href="http://about.questionity.com/en/what-is-questionity/">What is Questionity?</option><option data-href="http://about.questionity.com/en/qnets/">&nbsp;&gt;&nbsp;Q!nets</option><option data-href="http://about.questionity.com/en/about-us/">About us</option><option data-href="http://about.questionity.com/en/goodies/">Goodies</option><option data-href="http://about.questionity.com/en/developers/">Developers</option><option data-href="http://about.questionity.com/en/terms-of-use/">Terms of use</option><option data-href="http://about.questionity.com/en/privacy-policy-and-legal-notice/">Privacy</option><option data-href="http://about.questionity.com/en/code-of-conduct/">Code of conduct</option><option data-href="http://about.questionity.com/en/navigation/">Navigation rules</option><option data-href="http://about.questionity.com/en/credits/">Credits</option>			</select>
+		</form>
+		
+		
+		<footer id="copy">
+			<p></p>
+		</footer>
+
+		<a href="#" id="close">close sidebar</a>
+
+	</div>
+
+	<div id="content" class="clearfix">
+
+		<div>
+	
+		<section id="page">
+
+			<header id="pageHeader">
+				<h1>Privacy</h1>
+				<a href="#" class="actionButton minimize" data-content="#page" data-speed="600">minimize</a>
+			</header>
+
+			<article id="page-923" class="contentHolder clearfix">
+
+				
+				<h1><strong>Privacy Policy and Disclaimer</strong></h1>
+<p>This agreement is a translated version of the original version in Spanish. In case of conflict the Spanish version is the valid one.</p>
+<h2>Responsible for the file</h2>
+<p>Questionity S.L. is responsible for the electronic file that contains personal information provided by the user in order to use Questionity social network.</p>
+<p>Such file has been notified as required by the data protection regulation in the Registro de la Agencia Española de Protección de datos (Register of the Spanish Agency for Data Protection).</p>
+<p>You can view other information related to it in this Register or in the website of the Agencia Española de Protección de Datos.</p>
+<p>Questionity is established in Santiago Grisolia St. Nº 2, 28760 Tres Cantos –Madrid – Spain.</p>
+<p>You can find the rest of Questionity information <a href="http://about.questionity.com/en/credits/">here</a>.</p>
+<h2>Definitions</h2>
+<p>Questionity platform is what we name the Web application which offers services to the social network.</p>
+<p>Q!net is what we name a custimization of Questionity around a topic, both the interface as for the contents shown in the Q!net. A Q!net is part of the Questionity platform, therefore a user can access any Q!net of Questionity.</p>
+<p>The Q!net has its own URL.</p>
+<p>Signing up to Questionity can be done from Questionity or from any of its Q!nets. In any case, the user signs in to the Questionity platform and he/she will be able to access Questionity and its Q!nets with the same credentials.</p>
+<p>The content published from a Q!net is part of the Questionity platform y can be shown in Questionity and/or in other Q!nets, besides of the Q!net from which it was originally published.</p>
+<p>These General terms of use are valid for Questionity an its Q!nets. Unless specifically indicated, hereafter, the term Questionity refers to Questionity and its Q!nets.</p>
+<p>Profile how we name the space of a user in Questionity where he/she becomes known, looks at and organizes his/her posts , receives opinions and answers from the users he/she is following, looks at his/her mentions and organizes his/her users groups, etc.</p>
+<p>The users Profile is the same for Questionity and its Q!nets.</p>
+<p>“User” is how we name any person which enters and browses through the social network of Questionity without having passed the Sign in porcess at Questionity.</p>
+<p>Users can find and visualize public information of the platform (partial access), but won’t be able to publish nor to perform actions within the social network (full access).</p>
+<p>Likewise, he/she neither will have a profile on Questionity’s platform.</p>
+<p>A “Registered User” is any person which starts to go through the registering (Signin) process and therefore can iniciate his/her session in Questionity.</p>
+<p>The registering process is completed, when this registration is confirmed with an email, to which the user responds after having signed in to Questionity.</p>
+<p>The terms set out in these conditions apply to registered users.</p>
+<p>Unless explicitly stated, hereinafter the term user refers to a registered user.</p>
+<p>&nbsp;</p>
+<h2>Information collected from registered users</h2>
+<p>When you register for the first time in Questionity, it is required that you facilitate several data mandatory through a disclaimer that you must accept to sign up. These are:</p>
+<p>Username</p>
+<p>Email</p>
+<p>If you’re an individual or a personality, we will also collect:</p>
+<p>Date of birth (only in the mobile app)</p>
+<p>Gender</p>
+<p>If you are a company, organization, brand or media, we will also collect:</p>
+<p>Sector/class</p>
+<p>Once you have signed up in Questionity, you can add more information about yourself when configuring your profile, although providing such information is voluntary and is not necessary to use Questionity.</p>
+<p>You can complete your profile if you want other users to know more about you, if so, this is the information that we will collect:</p>
+<p>Users and personalities:</p>
+<p>Avatar.</p>
+<p>Full name.</p>
+<p>Short Description.</p>
+<p>User’s Full description.</p>
+<p>Profile Photo.</p>
+<p>Date of birth</p>
+<p>Location (country and town/region).</p>
+<p>User language.</p>
+<p>Time zone.</p>
+<p>Links to user’s webpages.</p>
+<p>Companies, media, brands and organizations:</p>
+<p>Date of registration.</p>
+<h2>Invitations to your friends</h2>
+<p>Once you become a registered user in Questionity you will be able to send invitations to your friends so they can also register with Questionity.</p>
+<p>For this purpose, you will provide your friend’s email through the invitation system provided by Questionity. In any case, your friend will have to decide whether or not to register with Questionity, accepting the invitation and finishing the registration process.</p>
+<p>Questionity will not store the email of your friend to whom you send the invitation, hence you will be responsible for whether your friend wants to receive such invitation or not, so you need to make a responsible use of Questionity invitation process.</p>
+<h2>User Profile Settings</h2>
+<p>The authenticity of the information provided is under your sole responsibility. Questionity is not responsible for any false or inaccurate statements made by you nor the damage they can cause to third parties.</p>
+<p>However, when a user name is pejorative, violates the dignity of others or generally fails to meet the <a href="http://about.questionity.com/en/terms-of-use/">terms of use</a> of Questionity, we reserve the right to suspend or cancel the account, agreed under such terms.</p>
+<h2>Privacy Features</h2>
+<p>Registered users can access all pages of your Profile, except reported Q!grams (posts) page and favorite Q!grams page Mentions (Mentions Wall) and your Timeline. Users may only access the miniBlog page and the profile information page.</p>
+<p>All users (registered and unregistered) cand see your posts. They will also be able to see the activities (oppinions, regram, answers, etc…) you have done on these Q!grams.</p>
+<h2>Use of the gathered information</h2>
+<p>Images and Videos</p>
+<p>The images and/or links that you upload to Questionity are stored in our servers. The use of this content is subject to the <a href="http://about.questionity.com/en/terms-of-use/">terms of use</a> of Questionity.</p>
+<p>If you do not want us to store metadata associated with images, remove that information before uploading the content that hosts them to Questionity.</p>
+<h2>Statistics</h2>
+<p>We can extract statistics from the activity carried out by each user; it is even likely that we would share these statistics with associated companies. However, that information will be provided separately, that is, those third parties would not have access to your personal information, in any case.</p>
+<h2>Consent of registered user for information treatment in Questionity</h2>
+<p>The fact of signing up in Questionity implies that you consent to and agree to the processing of your personal information, according to the use permitted in Questionity, as stated in this privacy policy and <a href="http://about.questionity.com/en/terms-of-use/">terms of use</a>.</p>
+<p>The user registration in Questionity implies that you may receive, via e-mail associated to the user account, updates of Questionity news, new services and commercial offers, as well as alerts related to the service.</p>
+<p>This does not prejudice your option to revoke consent of receiving certain communications and alerts, by configuring this feature in the settings menu of Questionity.</p>
+<p>You may receive the following types of communications from Questionity:</p>
+<p>A user has accepted your invitation to join Questionity.</p>
+<p>Occasional updates about new features, new versions and Questionity surveys.</p>
+<p>Confirmation messages for account management and technical support.</p>
+<p>Occasional updates of new features, versions and surveys of Questionity.</p>
+<h2>Purpose of data collection</h2>
+<p>The aim of the treatment of your personal information is to manage Questionity according to the use defined in the <a href="http://about.questionity.com/en/terms-of-use/">terms of use</a> and present privacy policy.</p>
+<h2>Publication of user information</h2>
+<p>Questionity is not responsible for the consequences and effects that advertising of such data, including personal information that the user freely decides to present, may occasion to the user, his/her family, friends and / or relatives, or to other third persons. Participation in Questionity is completely voluntary and not mandatory. Disclosure of the information provided is not subject to any guarantee of confidentiality or the right to privacy, given that the user decides on a voluntary basis to make it public and to share it on social networks. Consequently, the user is solely responsible for all events, situations, incidents, problems, and so on, as a representative but not exhaustive list, that may occur following the publication of the data supplied by the user.</p>
+<h2>Minors</h2>
+<p>Registration in Questionity is not permitted to individuals under 14 years of age.</p>
+<p>It is the responsibility of parents or legal guardians to ensure their charges would not access content unsuitable for minors and to monitor the online activity of these minors.</p>
+<p>The access to Questionity by charges under the age of fourteen years is also the responsibility of parents or legal guardians when such access is expressly prohibited by Questionity in this policy.</p>
+<h2>No disclosure of personal information</h2>
+<p>Questionity guarantees that it will not communicate to third parties personal information of Questionity users, under any circumstance, except those legally required.</p>
+<h2>Cancellation of your account in Questionity</h2>
+<p>In the “Account cancellation” section of the <a href="http://about.questionity.com/en/terms-of-use/">terms of use</a>, you will find detailed information about the procedure for cancelling your account.</p>
+<h2>Technical security measures applicable to data</h2>
+<p>Questionity ensures it performs the appropriate security measures, both technical and organizational, as required by the regulations on protection of personal information, and with the appropriate levels of security according to the type of information that is managed in the social network.</p>
+<h2>Navigation</h2>
+<p>In order to improve navigation (for example, suggesting posts or users to follow, Q!nets of the platform to join where you can publish your posts), throughout our platform we use cookies and store IP’s. A cookie is a file we deposit on your equipment, and its only purpose is to simplify your navigation through our platform(this cookie can’t contain a virus nor can it be executed, because it is not an active file). This cookie can only be read by Questionity and yourself, and you can delete it if you wish, accessing the options of your web-browser.If you do not want cookies to be saved, you can configure your browser for this purpose.</p>
+<p>In general, most browsers allow the management of cookies as follows:</p>
+<p>1. Not accepting cookies.</p>
+<p>2. Asking individually whether to accept or not each cookie.</p>
+<p>3. Accepting cookies always by default.</p>
+<p>4. Specifying the domains of the cookies to be accepted.</p>
+<p>Questionity uses Google Analytics, an analytics web service provided by Google, Inc., a Delaware company with headquarters at 1600 Amphitheatre Parkway, Mountain View (California), CA 94043, Estados Unidos (“Google”). Google Analytics uses “cookies” which are text files placed on your computer, to help the website analyze how users use the web site. The information generated by the cookie about your use of the website (including your IP address) is transmitted to and stored by Google on the United States servers. Google will use this information on our behalf in order to track your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and Internet use. Google may also transfer this information to third parties where required to do so by law or where such third parties process the information on Google’s behalf. Google will not associate your IP address with any other data held by Google. You may refuse treatment of data or information by rejecting the use of cookies and selecting the appropriate settings on your browser. However, you should know that, by doing so, you may not be able to use the full functionality of this website. By using this website, you consent the treatment of your information in the manner and for the purposes described above.</p>
+<p>It is possible that www.questionity.com stores web bugs or web bacons. That is, visible or invisible images located in the source code of any web page and used to measure the traffic of users using a website. You will find more information about this wikipedia entry at: http://en.wikipedia.org/wiki/Web_bug</p>
+<p>Also, your browser stores in the cache the content of Questionity pages including the content of the Q!grams.</p>
+<h2>Links</h2>
+<p>Questionity may contain links to third party websites, outside the scope of Questionity and of which we take no responsibility regarding the processing of personal information that can be made in these sites. We expressly recommend that you read the privacy policies of those sites.</p>
+<h2>Suppliers</h2>
+<p>Questionity, with the sole intention of providing its services has contracted with MailChimp, which complies with the principles of Safe Harbor, framework for action between the U.S. Department of Commerce and the European Commission regarding the protection of personal data.</p>
+<h2>Exercise of legal rights</h2>
+<p>The user is entitled to exercise his/her rights to access, rectification, cancellation and opposition. To perform this exercise you can contact Questionity through the following address: lopd@questionity.com.</p>
+<h2>Validity of the privacy policy and amendments thereto</h2>
+<p>This privacy policy is valid from the date April 11, 2013.</p>
+<p>Questionity reserves the right to make any modification thereof, providing prior notification in Questionity’s Profile: http://www.questionity.com/!questionity_en/microblog and the subsequent publication of the privacy policy.</p>
+<h1><strong>Disclaimer to users</strong></h1>
+<h2>Database Protection of Personal Data</h2>
+<p>READ THIS LEGAL NOTICE CAREFULLY BEFORE YOU SUBMIT PERSONAL DATA REQUIRED for “RECEIVE AN INVITATION” AND “SIGN IN”</p>
+<p>QUESTIONITY, SL, based in Tres Cantos, zip code 28760, Calle Santiago Grisolia , 2 bearing the CIF no. B-86.196.193, and legally registered in the Registry of Madrid (hereinafter QUESTIONITY), pursuant to the provisions of Law 15/1999 of December 13, Protection of Personal Data (LOPD) informs you that the information you provide on the forms “GET AND INVITATION” and “REGISTERED USERS” at www.questionity.com web site ( or the URL of the Q!net in which the registration is being made) are included in a personal data file that has been duly registered in the General Register of Data Protection. The data collected here will be treated by QUESTIONITY, with the sole purpose of handling your registration as user of the website, based on the option selected by you.</p>
+<p>The registration of children under the age of 14 is not allowed. If any record discloses that the user is a minor, QUESTIONITY reserves the right to cancel it. QUESTIONITY is not responsible for the effects or consequences that records of minors may cause. At any time, parents / guardians of a child that has completed the forms without authorization, may revise, cancel or oppose the processing of personal data by means of a message to the following email address lopd@questionity.com, indicating the reference “LOPD”.</p>
+<p>By sending personal data via the respective form, the user consents that QUESTIONITY can dispose of his/her personal data for the purposes outlined above. The user must provide true and timely data. QUESTIONITY is not responsible for the consequences and damages that may result from false or erroneous information.</p>
+<p>Meanwhile, QUESTIONITY agrees that personal data provided by users will be treated in strict confidence and, in compliance with all security measures established by law in order to prevent unauthorized access and treatment.</p>
+<p>Similarly, QUESTIONITY, pursuant to Article 5 of the Data Protection Act (LOPD), informs that the fact of giving personal details by sending of forms is optional and that you can exercise your right of access, rectification, cancellation and / or opposition regarding the data provided at any time. In this case, the applicant will have to direct his/her complaint to QUESTIONITY by e-mail to lopd@questionity.com, indicating in the message the reference “LOPD” and detailing the data to be changed or cancelled.</p>
+<p>In compliance with Articles 3 and 4 of Law 25/2007 of 18 October, Conservation of Data Relating to Electronic Communications and Public Communications Networks, QUESTIONITY generally will retain for twelve months and for a minimum of six months and maximum of two years, as according to law, those data necessary to identify the source of the stored data and the time when the service began. The obligation of data retention does not affect the secrecy of communications. The data will be retained for security purposes and shall not be used for purposes other than those specified in the Act.</p>
+<p>Whenever QUESTIONITY sends marketing information via electronic mail to users, the word “advertising” will appear at the start of the message sent by QUESTIONITY.</p>
+<p>Questionity is not responsible for the consequences and effects that advertising of such data, including personal information that the user freely decides to present may occasion to the user, his/her family, friends and / or relatives, or to other third persons. Participation in Questionity is completely voluntary and not mandatory. Disclosure of the information provided is not subject to any guarantee of confidentiality or right to privacy, given tht the user decides on a voluntary basis,that which is public and can be shared on social networks. Consequently, the user is solely responsible for all events, situations, incidents, problems, and so on ,as a representative but not exhaustive list, that may occur following the publication of the data supplied by the user.</p>
+<p>&nbsp;</p>
+				
+			</article>
+
+		</section>
+		
+	
+
+</div>
+
+	<!-- top footer -->
+	<footer class="footer" id="topFooter">
+					<div class="left">
+				<div id="social-widget-2" class="widget clearfix social"><span class="hidden"></span><ul class="socialList clearfix"><li><a target="_blank" class="questionity" href="http://www.questionity.com/!questionity_es/timeline/myqgrams">questionity icon</a></li><li><a target="_blank" class="twitter" href="http://twitter.com/Questionity_es">twitter icon</a></li><li><a target="_blank" class="facebook" href="http://www.facebook.com/Questionity.esp">facebook icon</a></li><li><a target="_blank" class="linkedin" href="http://www.linkedin.com/company/questionity">linkedin icon</a></li><li><a target="_blank" class="youtube" href="http://www.youtube.com/user/QuestionityinSpanish">youtube icon</a></li><li><a target="_blank" class="rss" href="http://feeds.feedburner.com/QuestionityInSpanish">rss icon</a></li></ul></div><hr class="widget_separator"><div id="search-2" class="widget clearfix widget_search">
+	<form role="search" method="get" id="searchform" class="searchBox" action="http://about.questionity.com/en/">
+		<label class="screen-reader-text hidden" for="s">Search for:</label>
+		<input type="text" data-value="Type and hit Enter" value="Type and hit Enter" name="s" id="s">
+		<!--<input type="submit" id="searchsubmit" value="Search" />-->
+    </form></div><hr class="widget_separator"><div id="polylang-2" class="widget clearfix widget_polylang">
+<select name="lang_choice" id="lang_choice">
+<option value="es">Español</option>
+<option value="en" selected="selected">English</option>
+</select>
+</div>
+
+				<script type="text/javascript">
+					//<![CDATA[
+					var urls = {"es":"http://about.questionity.com/es/politica-de-privacidad-y-aviso-legal/","en":"http://about.questionity.com/en/privacy-policy-and-legal-notice/"};
+					var d = document.getElementById('lang_choice');
+					d.onchange = function() {
+						for (var i in urls) {
+							if (this.value == i)
+								location.href = urls[i];
+						}
+					}
+					//]]>
+				</script>			</div>
+					</footer>
+
+	<!-- bottom footer -->
+	<footer class="footer" id="bottomFooter">
+        <div class="left">
+            <p>Powered by Q!</p>
+        </div>
+				<a href="#" id="top">Go to Top <span>↑</span></a>
+	</footer>
+
+</div>
+
+
+<div id="scripts">
+
+	
+	
+	
+		<style type="text/css">
+			#contactMapHolder {
+				background:none;
+			}
+		</style>
+
+	
+	<div id="mobileCheck"></div>
+
+	
+	<div id="oldie"></div>
+
+	<script type="text/javascript">
+/* <![CDATA[ */
+var theme_objects = {"base":"http:\/\/about.questionity.com\/wp-content\/themes\/WowWay-Theme","email":"null","formsuccess":"<p>El mensaje se ha enviado con \u00e9xito. Gracias por contactar con nosotros.<\/p>"};
+/* ]]> */
 </script>
-        </head>
-        <body>
+<script type="text/javascript" src="http://about.questionity.com/wp-content/themes/WowWay-Theme/js/plugins.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var theme_objects = {"base":"http:\/\/about.questionity.com\/wp-content\/themes\/WowWay-Theme","email":"null","formsuccess":"<p>El mensaje se ha enviado con \u00e9xito. Gracias por contactar con nosotros.<\/p>"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://about.questionity.com/wp-content/themes/WowWay-Theme/js/scripts.js"></script>
 
-<!-- Start Alexa Certify Javascript -->
-<script type="text/javascript" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript">_atrk_opts = { atrk_acct: "TnH8f1asiu000z", domain:"questionity.com"}; atrk ();</script><noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=TnH8f1asiu000z" style="display:none" height="1" width="1" alt="" /></noscript>
-<!-- End Alexa Certify Javascript -->
-            <div id="main">
-                <div id="header">
-                    <div class="common_wrapper">
-                        <div class="logo"><a href="http://about.questionity.com/"></a> </div>
-                        <div style="text-align: right;margin-right: 80px;font-size: 12px;color: white;">
-                                                            <a class="lang" style="text-decoration: none;color: white;" href="/privacy-policy?lang=es"> <img align="absmiddle" src="/images/es_ES_flag.png">Castellano</a>
-                                                                <a class="lang" style="text-decoration: none;color: white;" href="/privacy-policy?lang=en"> <img align="absmiddle" src="/images/en_EN_flag.png">English</a>
-                                                                <a class="lang" style="text-decoration: none;color: white;" href="/privacy-policy?lang=fr"> <img align="absmiddle" src="/images/fr_FR_flag.png">Français</a>
-                                                                <a class="lang" style="text-decoration: none;color: white;" href="/privacy-policy?lang=pt"> <img align="absmiddle" src="/images/pt_PT_flag.png">Português</a>
-                                                        </div>
-
-                        <div class="login_search">
-                            <ul class="nav">
-                                <li>&nbsp;</li>
-                            </ul>
-                        </div>
-
-                    </div>
-                </div>
+</div>
 
 
-                <div id="body_container">
-                    <div class="common_wrapper">
-                        <div id="header-pages"></div>
-                        <div id="content-pages">
-                            <div id="menu-left">
-                                <ul>
-                                    <li id="im_4fdc298cc7534" rel="about-us" class="toggle" style="cursor:pointer;">About Us                                                    <ul style="display:none;" id="sm_4fdc298cc7534"><li rel="about-questionity" id="ism_about-questionity" class="submenu " style="cursor:pointer;">
-                                                            About Questionity                                                            </li>
-                                                            <li rel="mission-and-values" id="ism_mission-and-values" class="submenu " style="cursor:pointer;">
-                                                            Mission and Values                                                            </li>
-                                                            <li rel="code-of-conduct" id="ism_code-of-conduct" class="submenu " style="cursor:pointer;">
-                                                            Code of Conduct                                                            </li>
-                                                            <li rel="questionity-social-networks" id="ism_questionity-social-networks" class="submenu " style="cursor:pointer;">
-                                                            Socialize                                                            </li>
-                                                            <li rel="mobile" id="ism_mobile" class="submenu " style="cursor:pointer;">
-                                                            Q! Mobile                                                            </li>
-                                                            <li rel="tutorials-downloads-icons-logos" id="ism_tutorials-downloads-icons-logos" class="submenu " style="cursor:pointer;">
-                                                            Tutorials &amp; Downloads                                                            </li>
-                                                            <li rel="questionity-and-bussines" id="ism_questionity-and-bussines" class="submenu " style="cursor:pointer;">
-                                                            Q! and Business                                                            </li>
-                                                            <li rel="advertising-in-q" id="ism_advertising-in-q" class="submenu " style="cursor:pointer;">
-                                                            Advertising                                                            </li>
-                                                            <li rel="developers-q" id="ism_developers-q" class="submenu " style="cursor:pointer;">
-                                                            Developers                                                            </li>
-                                                            <li rel="terms-of-use" id="ism_terms-of-use" class="submenu " style="cursor:pointer;">
-                                                            Terms of use                                                            </li>
-                                                            <li rel="privacy-policy" id="ism_privacy-policy" class="submenu  active" style="cursor:pointer;">
-                                                            Privacy policy                                                            </li>
-                                                            <script type="text/javascript">
-                                                                    $(".active").removeClass("active");
-                                                                    $("#sm_4fdc298cc7534").show();
-                                                                    $("#ism_privacy-policy").addClass("active");
-                                                                </script>
-                                                                <li rel="navigation-conditions" id="ism_navigation-conditions" class="submenu " style="cursor:pointer;">
-                                                            Navigation                                                            </li>
-                                                            <li rel="team-work-job" id="ism_team-work-job" class="submenu " style="cursor:pointer;">
-                                                            Work with us                                                            </li>
-                                                            <li rel="q-discover" id="ism_q-discover" class="submenu " style="cursor:pointer;">
-                                                            Discover in Q!                                                            </li>
-                                                            <li rel="q-editors" id="ism_q-editors" class="submenu " style="cursor:pointer;">
-                                                            Top Q!Editors                                                            </li>
-                                                            <li rel="promotions-ipad" id="ism_promotions-ipad" class="submenu " style="cursor:pointer;">
-                                                            Q! Promotions                                                            </li>
-                                                            <li rel="tell-us-what-you-think-contact" id="ism_tell-us-what-you-think-contact" class="submenu " style="cursor:pointer;">
-                                                            Tell us what you think                                                            </li>
-                                                            </ul>
-                                                </li><li id="im_4fdc298cc76d5" rel="support" class="toggle" style="cursor:pointer;">Help                                                    <ul style="display:none;" id="sm_4fdc298cc76d5"><li rel="support-technical-support" id="ism_support-technical-support" class="submenu " style="cursor:pointer;">
-                                                            Technical support                                                            </li>
-                                                            <li rel="support-help-glossary" id="ism_support-help-glossary" class="submenu " style="cursor:pointer;">
-                                                            Glossary&nbsp;                                                            </li>
-                                                            <li rel="support-help-first-steps" id="ism_support-help-first-steps" class="submenu " style="cursor:pointer;">
-                                                            First Steps                                                            </li>
-                                                            <li rel="support-help-best-practices" id="ism_support-help-best-practices" class="submenu " style="cursor:pointer;">
-                                                            Best practices                                                            </li>
-                                                            <li rel="support-help-microsite-settings" id="ism_support-help-microsite-settings" class="submenu " style="cursor:pointer;">
-                                                            Microsite &amp; Settings                                                            </li>
-                                                            <li rel="support-help-user-groups" id="ism_support-help-user-groups" class="submenu " style="cursor:pointer;">
-                                                            Users and Groups                                                            </li>
-                                                            <li rel="support-help-qgram-qstn" id="ism_support-help-qgram-qstn" class="submenu " style="cursor:pointer;">
-                                                            Q!grams                                                            </li>
-                                                            <li rel="support-help-searchs" id="ism_support-help-searchs" class="submenu " style="cursor:pointer;">
-                                                            Searchs                                                            </li>
-                                                            <li rel="support-help-topics" id="ism_support-help-topics" class="submenu " style="cursor:pointer;">
-                                                            Topics                                                            </li>
-                                                            <li rel="support-help-advanced" id="ism_support-help-advanced" class="submenu " style="cursor:pointer;">
-                                                            Advanced functions                                                            </li>
-                                                            <li rel="support-help-security-privacy" id="ism_support-help-security-privacy" class="submenu " style="cursor:pointer;">
-                                                            Security &amp; Privacy                                                            </li>
-                                                            <li rel="support-help-reports-blocks" id="ism_support-help-reports-blocks" class="submenu " style="cursor:pointer;">
-                                                            Blocks &amp; Reports                                                            </li>
-                                                            <li rel="support-faq" id="ism_support-faq" class="submenu " style="cursor:pointer;">
-                                                            FAQ                                                            </li>
-                                                            <li rel="support-issues" id="ism_support-issues" class="submenu " style="cursor:pointer;">
-                                                            Common issues                                                            </li>
-                                                            </ul>
-                                                </li>                                </ul>
-                            </div>
-                            <div id="content-right">
-                                                                        <script type="text/javascript">
-                                           $('[rel=about-us]').parent().addClass('active').show();
-                                           $('[rel=about-us]').addClass('active');
-                                        </script>                                                <script type="text/javascript">
-                                                   $('[rel=advertising]').parent().addClass('active').show();
-                                                   $('[rel=advertising]').addClass('active');
-                                                </script>
-                                                <h1>Privacy Policy and Disclaimer</h1><p>This agreement is a translated version of the original version in Spanish. In case of conflict the <a href="politica-de-privacidad?lang=es">Spanish version</a> is the valid one.</p>  <h2><b>Responsible for the file</b></h2>    <p>Questionity S.L. is responsible for the electronic file that contains personal information provided by the user in order to use Questionity social network.</p>    <p>Such file has been notified as required by the data protection regulation in the Registro de la Agencia Española de Protección de datos (Register of the Spanish Agency for Data Protection).</p>  <p>You can view other information related to it in this Register or in the website of the Agencia Española de Protección de Datos.</p>  <p>Questionity is established in&nbsp;Rafael Salgado St. Nº 7 – 5 izq. 28036 Madrid.</p>  <p>You can find the rest of Questionity information <a href="legal-notice?lang=en">here</a>.</p>  <h2><b>Information collected from registered users</b></h2>    <p>When you register for the first time in Questionity, it is required that you facilitate several data mandatory&nbsp;through a disclaimer that you must accept  to sign up. These are:</p>        <ul><li>Username</li><li>Email</li></ul>  <p>If you're an individual or a personality, we &nbsp;will also collect:</p>      <ul><li>Date of birth</li><li>Gender</li></ul>  <p>If you are a company, organization, brand or media, we will also collect:</p>  <ul><li>Sector/class</li></ul><div><p>Once you have signed up in Questionity, you can add more information about yourself when configuring your profile, although providing such information is voluntary and is not necessary to use Questionity.</p>  <p>You can complete your profile if you want other users to know more about you, if so, this is the information that we will collect:</p>  <p>Users and personalities:</p>                      <ul><li>Avatar.</li><li>Full name.</li><li>Short Description.</li><li>User’s Full description.</li><li>Profile Photo.</li><li>Location (country and town/region).</li><li>User language.</li><li>Time zone.</li><li>Links to user’s webpages.</li></ul>  <p>Companies, media, brands and organizations:</p>    <ul><li>Date of registration.</li></ul>  <h2><b>Invitations to your friends</b></h2>    <p>Once you become a registered user in Questionity you will be able to send invitations to your friends so they can also register with Questionity.</p>    <p>For this purpose, you will provide your friend’s email through the invitation system provided by Questionity. In any case, your friend will have to decide whether or not to register with Questionity, accepting the invitation and finishing the registration process.</p><p>Questionity will not store the email of your friend to whom you send the invitation, hence you will be responsible for whether your friend wants to receive such invitation or not, so you need to make a responsible use of Questionity invitation process.</p><h2><b>User Profile Settings</b></h2><div><p>The authenticity of the information provided is under your sole responsibility. Questionity is not responsible for any false or inaccurate statements made by you nor the damage they can cause to third parties.</p>          <p>However, when a user name is pejorative, violates the dignity of others or generally fails to meet the <a href="terms-of-use?lang=en">terms of use of Questionity</a>, we reserve the right to suspend or cancel the account, agreed under such terms.</p>    <h2><b>Privacy Features</b></h2>    <p>Registered users can access all pages of your Microsite, except reported Q!grams page and favorite Q!grams page. Users may only access the microblog page and the profile information page.</p><p>The current version of Questionity has the following functions of privacy settings:</p>    <ul><li>You can be found by your email address.</li></ul><h2><b>Use of the gathered information</b></h2><p><strong>Images and Videos</strong></p><p>The images and/or links that you upload to Questionity are stored in our servers. The use of this content is subject to the&nbsp;<a href="terms-of-use?lang=en">terms of use of Questionity</a>.</p><p>If you do not want us to store metadata associated with images, remove that information before uploading the content that hosts them to Questionity.</p><p><strong>Statistics</strong></p><p>We can extract statistics from the activity carried out by each user; it is even likely that we would share these statistics with associated companies.&nbsp;However, that information will be provided separately, that is, those third parties would not have access to your personal information, in any case.</p><h2><b>Consent of registered user for information treatment in Questionity</b></h2><p>The fact of signing up in Questionity implies that you consent to and agree to the processing of your personal information, according to the use permitted in Questionity, as stated in this privacy policy and <a href="terms-of-use?lang=en">terms of use</a>.</p><p>The user registration in Questionity implies that you may receive, via e-mail associated to the user account, updates of Questionity news, new services and commercial offers, as well as alerts related to the service.</p><p>This does not prejudice your option to revoke &nbsp;consent of receiving certain communications and alerts, by configuring this feature in the <a>settings&nbsp;</a>menu of Questionity.</p><p>You may receive the following types of communications from Questionity:</p><ul><li>A user has accepted your invitation to join Questionity.</li><li>You have been reported.</li></ul><p>You can also configure your account to receive notifications about the following issues:</p><ul><li>You are followed by a new user.</li><li>One of your Q!qrams has been commented.</li><li>Occasional updates of new features, versions and surveys of Questionity.</li></ul><h2><b><span style="Arial Bold&quot;;Arial Bold&quot;;">Purpose of data collection</span></b></h2><p>The aim of the treatment of your personal information is to manage Questionity according to the use defined in the <a href="terms-of-use?lang=en">terms of use</a>&nbsp;and present privacy policy.</p><h2><strong>Publication of user information</strong></h2><p>Questionity is not responsible for the consequences and effects that advertising of such data, including personal information that the user freely decides to present, may occasion to the user, his/her family, friends and / or relatives, or to other third persons. Participation in Questionity is completely voluntary and not mandatory. Disclosure of the information provided is not subject to any guarantee of confidentiality or the right to privacy, given that the user decides on a voluntary basis to make it public and to  share it on social networks. Consequently, the user is solely responsible for all events, situations, incidents, problems, and so on, as a representative but not exhaustive list, that may occur following the publication of the data supplied by the user.</p><h2><b><span style="Arial Bold&quot;;Arial Bold&quot;;">Minors</span></b></h2><p>Registration in Questionity is not permitted to individuals under 14 years of age.</p><p>It is the responsibility of parents or legal guardians to ensure their charges would not access content unsuitable for minors and to monitor the online activity of these minors.</p><p>The access to Questionity by charges under the age of fourteen years is also the responsibility of parents or legal guardians when such access is expressly prohibited by Questionity in this policy.</p><h2><b>No disclosure of personal information</b></h2><p>Questionity guarantees that it will not communicate to third parties personal information of Questionity users, under any circumstance, except those legally required.</p><h2><b>Cancellation of your account in Questionity</b></h2><p>In the “Account cancellation” section of the <a href="terms-of-use?lang=en">terms of use</a>, you will find detailed information about the procedure for cancelling your account.</p><h2><b>Technical security measures applicable to data</b></h2><p>Questionity ensures it performs the appropriate security measures, both technical and organizational, as required by the regulations on protection of personal information, and with the appropriate levels of security according to the type of information that is managed in the social network.</p><h2><b>Navigation</b></h2><p>Note that navigation through Questionity may involve the use of cookies. Cookies are small amounts of information that are stored in your browser, so that the server remembers easily certain information about user’s navigation. In that way, your navigation preferences can be stored.</p><p>However, if you do not want this information to be saved, you can configure your browser for this purpose.</p><p>In general, most browsers allow the management of cookies as follows:</p><p>1. &nbsp;Not accepting cookies.</p><p>2. Asking individually whether to accept or not each cookie.</p><p>3. Accepting cookies always by default.</p><p>4. &nbsp;Specifying the domains of the cookies to be accepted.</p><p>Questionity uses Google Analytics, an analytics web service provided by Google, Inc., a Delaware company with headquarters at 1600 Amphitheatre Parkway, Mountain View (California), CA 94043, Estados Unidos (“Google”). Google Analytics uses "cookies" which are text files placed on your computer, to help the website analyze how users use the web site. The information generated by the cookie about your use of the website (including your IP address) is transmitted to and stored by Google on the United States servers. Google will use this information on our behalf in order to track your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and Internet use. Google may also transfer this information to third parties where required to do so by law or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse treatment of data or information by rejecting the use of cookies and selecting the appropriate settings on your browser. However, you should know that, by doing so, you may not be able to use the full functionality of this website. By using this website, you consent the treatment of your information in the manner and for the purposes described above.</p><p>It is possible that www.questionity.com stores web bugs or web bacons. That is, visible or invisible images located in the source code of any web page and used to measure the traffic of users using a website. You will find more information about this wikipedia entry at: <a target="_blank" href="http://en.wikipedia.org/wiki/Web_bug">http://en.wikipedia.org/wiki/Web_bug</a></p><p>Also, your browser stores in the cache the content of Questionity pages including the content of the Q!grams.</p><h2><b>Links</b></h2><p>Questionity may contain links to third party websites, outside the scope of Questionity and of which we take no responsibility regarding the processing of personal information that can be made in these sites. We expressly recommend that you read the privacy policies of those sites.</p><h2><b>Suppliers</b></h2><p>Questionity, with the sole intention of providing its services has contracted with <a target="_blank" href="http://mailchimp.com/legal/privacy/">MailChimp</a>, which complies with the principles of Safe Harbor, framework for action between the U.S. Department of Commerce and the European Commission regarding the protection of personal data.</p><h2><b>Exercise of legal rights</b></h2><p>The user is entitled to exercise his/her rights to access, rectification, cancellation and opposition. To perform this exercise you can contact Questionity through the following address: <a href="mailto:lopd@questionity.com?subject=Privacy%20Policy%20(Contact)">lopd@questionity.com</a>.</p><h2><b>Validity of the privacy policy and amendments thereto</b></h2><p>This privacy policy is valid from the date June 1, 2012.</p><p>Questionity reserves the right to make any modification thereof, providing prior notification in the following website:&nbsp;<a href="http://www.questionity.com/!questionity_en/microblog">http://www.questionity.com/!questionity_en/microblog</a>&nbsp;and the subsequent publication of the privacy policy.&nbsp;</p><h1>Disclaimer to users</h1><h2>Database Protection of Personal Data</h2><p>READ THIS LEGAL NOTICE CAREFULLY BEFORE YOU SUBMIT PERSONAL DATA REQUIRED for  "RECEIVE  AN INVITATION" AND "REGISTERED USERS"</p><p>QUESTIONITY, SL, based in Madrid, zip code 28036, Calle Rafael Salgado , 7, 5, Izq.. bearing the CIF no. B-86196193, and legally registered  in the Registry of Madrid (hereinafter QUESTIONITY), pursuant to the provisions of Law 15/1999 of December 13, Protection of Personal Data (LOPD) informs you that the information you provide on the forms "GET AND INVITATION" and "REGISTERED USERS" at www.questionity.com web site are included in a personal data file that has been duly registered in the General Register of Data Protection. The data collected here will be treated by QUESTIONITY, with the sole purpose of handling your registration as user of the website, based on the option selected by you.</p><p>The registration of children under the age of 14 is not allowed. If any record discloses that the user is a minor, QUESTIONITY reserves the right to cancel it. QUESTIONITY is not responsible for the effects or consequences that records of minors may cause. At any time, parents / guardians of a child that has completed the forms without authorization, may revise, cancel or oppose the processing of personal data by means of a message to the following email address&nbsp; <a href="mailto:lopd@questionity.com?subject=Privacy%20Policy%20(Contact)">lopd@questionity.com</a>, indicating the reference "LOPD”.</p><p>By sending personal data via the respective form, the user consents that QUESTIONITY can dispose of his/her personal data for the purposes outlined above. The user must provide true and timely data. QUESTIONITY is not responsible for the consequences and damages that may result from false or erroneous information.</p><p>Meanwhile, QUESTIONITY agrees that personal data provided by users will be treated in strict confidence  and, in compliance with  all security measures established by law in order to prevent unauthorized access and treatment.</p><p>Similarly, QUESTIONITY, pursuant to Article 5 of the Data Protection Act (LOPD), informs  that the fact of giving personal details by sending of forms is optional and that you can exercise your right of access, rectification, cancellation and / or opposition regarding the data provided at any time. In this case, the applicant will have to direct his/her complaint to QUESTIONITY by e-mail to&nbsp;<a href="mailto:lopd@questionity.com?subject=Privacy%20Policy%20(Contact)">lopd@questionity.com</a>, indicating in the message the reference "LOPD" and detailing the data  to be changed or cancelled.</p><p>In compliance with Articles 3 and 4 of Law 25/2007 of 18 October, Conservation of Data Relating to Electronic Communications and Public Communications Networks, QUESTIONITY generally will retain for twelve months and for a minimum of six months and maximum of two years, as according to law, those data necessary to identify the source of the stored data and the time when the service began. The obligation of data retention does not affect the secrecy of communications. The data will be retained for security purposes and shall not be used for purposes other than those specified in the Act.</p><p>Whenever QUESTIONITY sends marketing information via electronic mail to users, the word "advertising" will appear at the start of the message sent by QUESTIONITY.</p><p>Questionity is not responsible for the consequences and effects that advertising of such data, including personal information that the user freely decides to present may  occasion to the user, his/her family, friends and / or relatives, or to other third persons.  Participation in Questionity is completely voluntary and not mandatory. Disclosure of the information provided is not subject to any guarantee of confidentiality or  right to privacy, given tht  the user decides on a voluntary basis,that which is public and can be shared on social networks. Consequently, the user is solely responsible for all events, situations, incidents, problems, and so on ,as a representative but not exhaustive list, that may occur following the publication of the data supplied by the user.</p></div></div><p>&nbsp;</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-                        <input value="falsefalse" id="_ilx_alertShown_" type="hidden">
-            <div id="_ilx_updateIcon_"></div>
-        
-    
 </body></html>
