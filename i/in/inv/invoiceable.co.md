@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the invoiceable.co privacy policy that was archived on 2013-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130222144103id_/http%3A//invoiceable.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invoiceable.co privacy policy that was archived on 2013-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130930013659id_/http%3A//invoiceable.co/privacy) for the most accurate reproduction.*
 
 # Invoiceable - free invoicing - Privacy Policy
 
