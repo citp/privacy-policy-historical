@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aqua-fish.net privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510104158id_/http%3A//www.aqua-fish.net/index.php%3Fcur_lang%3D2%26count%3Dno%26secured%3D%26section%3D53) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aqua-fish.net privacy policy that was archived on 2013-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130929041532id_/http%3A//www.aqua-fish.net/index.php%3Fcur_lang%3D2%26count%3Dno%26secured%3D%26section%3D53) for the most accurate reproduction.*
 
 # Tropical freshwater aquarium fish: [EN] Privacy Policy
 
