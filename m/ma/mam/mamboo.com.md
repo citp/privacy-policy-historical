@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mamboo.com privacy policy that was archived on 2013-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130404123634id_/http%3A//mamboo.com/en-gb/tips/%3Ftip%3DConditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mamboo.com privacy policy that was archived on 2013-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130929213734id_/http%3A//www.mamboo.com/en/tips/%3Ftip%3DConditions) for the most accurate reproduction.*
 
 # Services Agreement
 
