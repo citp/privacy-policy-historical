@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the jallsmedia.com privacy policy that was archived on 2013-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130125012213id_/http%3A//www.jallsmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jallsmedia.com privacy policy that was archived on 2013-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130929195241id_/http%3A//www.jallsmedia.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Jall's Media
-
-## Privacy Policy
+# Privacy Policy | JALL'S MEDIA
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
