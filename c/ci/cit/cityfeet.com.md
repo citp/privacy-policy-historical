@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cityfeet.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501215408id_/http%3A//www.cityfeet.com/Help/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityfeet.com privacy policy that was archived on 2013-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130929145442id_/http%3A//www.cityfeet.com/Help/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
