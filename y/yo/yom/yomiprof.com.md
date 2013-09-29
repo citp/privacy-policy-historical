@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yomiprof.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616014405id_/http%3A//www.yomiprof.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yomiprof.com privacy policy that was archived on 2013-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130929044553id_/http%3A//www.yomiprof.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Wealth Creation: Privacy Policy
 
