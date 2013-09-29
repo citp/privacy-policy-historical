@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leapcard.ie privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116105148id_/https%3A//www.leapcard.ie/PageSetting/ContentViewer.aspx%3FVal%3Dl18aYhoP9dAGjL7tuPcQwQdFOtHf6cCmDKfYR3kzzVJcVe5djyMPMdX%252bFaMZrcr1Wgcyd6CJ4DpIDMFnD3TG9AycQod7F7arEBXfx673bIIahIyeQVHIO33ui7VKCQH4BdYjkCECS9AfvEG5%252fOpN4N%252b2xcEDzKLBLCQEodlMOuo%253d) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leapcard.ie privacy policy that was archived on 2013-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130930003310id_/https%3A//www.leapcard.ie/en/PageSetting/ContentViewer.aspx%3FVal%3Dl18aYhoP9dAGjL7tuPcQwQdFOtHf6cCmDKfYR3kzzVJcVe5djyMPMdX%252bFaMZrcr1Wgcyd6CJ4DpIDMFnD3TG9AycQod7F7arEBXfx673bIIahIyeQVHIO33ui7VKCQH4BdYjkCECS9AfvEG5%252fOpN4N%252b2xcEDzKLBLCQEodlMOuo%253d) for the most accurate reproduction.*
 
 # Privacy Statement and Use of Cookies
 
@@ -92,7 +92,7 @@ The information you provide to the Authority may occasionally be passed to third
 
 At no time will information provided by you be disclosed to any third parties (other than as set out in the Leap Card Terms and Conditions) unless in accordance with the law. Your personal data may be made anonymous and used for statistical purposes. 
 
-You may choose [unsubscribe from our newsletter at any time by clicking here](https://web.archive.org/web/20130116105148id_/https%3A//www.leapcard.ie/CMS/UnsubscribeNewsLetter.aspx) or emailing [customer.care@leapcard.ie](mailto:customer.care@leapcard.ie). If you opted in to receive Leapcard.ie newsletters you may choose to unsubscribe by logging in to your online account or emailing [customer.care@leapcard.ie](mailto:customer.care@leapcard.ie). 
+You may choose [unsubscribe from our newsletter at any time by clicking here](https://web.archive.org/web/20130930003310id_/https%3A//www.leapcard.ie/en/CMS/UnsubscribeNewsLetter.aspx) or emailing [customer.care@leapcard.ie](mailto:customer.care@leapcard.ie). If you opted in to receive Leapcard.ie newsletters you may choose to unsubscribe by logging in to your online account or emailing [customer.care@leapcard.ie](mailto:customer.care@leapcard.ie). 
 
 You may also choose to provide us with personal data (e.g. name, e-mail and postal address) in correspondence to one of the addresses listed on our website. We use these details solely for the purpose of dealing with your query. 
 
