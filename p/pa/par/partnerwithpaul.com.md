@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partnerwithpaul.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118093457id_/http%3A//www.partnerwithpaul.com/privacy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partnerwithpaul.com privacy policy that was archived on 2013-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130929121435id_/http%3A//www.partnerwithpaul.com/privacy.cgi) for the most accurate reproduction.*
 
 # Partner with Paul - Privacy Policy
 
@@ -43,6 +43,8 @@ The personally identifiable information that we collect is limited to just your 
 
 In addition, you agree that registering at our web site constitutes a purchase, an inquiry and/or an application for purposes of the Amended Telemarketing Sales Rule, 16 CFR section 310 et seq. (the "ATSR"). With respect to the ATSR, and notwithstanding that your telephone number may be listed on the Federal Trade Commission's Do-Not-Call List, Partner With Paul and affiliated entities retain the right to contact you via telemarketing in accordance with the terms of the ATSR.
 
+If you register as an affiliate, we will collect personally identifiable information, including your name, email address and mailing address.
+
 **_Why is information collected?_**
 
 Information may be collected in an effort to enhance your user experience, provide you with information regarding PartnerWithPaul.com services or other related special offers, and/or to provide you with the products and/or services that you request.
@@ -52,6 +54,8 @@ We, or our authorized third-party affiliates, may also collect general informati
 _does not include personally identifiable information_.
 
 This information is used in an aggregated manner to determine advertising effectiveness and is sometimes shared with our advertising partners for the same limited purpose.
+
+For affiliates, we collect this information so we can issue payments.
 
 **_How does PartnerWithPaul.com protect my information?_**
 
@@ -120,4 +124,4 @@ By using this website, you consent to the collection and use of the information 
 
 If you have any questions about this Privacy Policy statement, the privacy-related practices of this website, or your dealings with this website, please contact us via one of the methods above.
 
-This Privacy Policy was last updated October 23rd, 2010.
+This Privacy Policy was last updated September 15th, 2013.
