@@ -1,327 +1,377 @@
-<!--The following is the downloaded HTML source of the gotsport.com privacy policy that was archived on 2009-09-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090924025522id_/http%3A//www.gotsport.com/asp/help/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gotsport.com privacy policy that was archived on 2013-09-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130929194609id_/http%3A//home.gotsoccer.com/privacy.aspx) for the most accurate reproduction.-->
 
-<html><head>
-<title>GotSport | Help | Privacy Statement</title>
-<link href="/main.css" rel="stylesheet" type="text/css">
-<link rel="icon" href="/favicon.ico" type="image/x-icon"> 
-<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"> 
-<!--  -->
-<style media="screen" type="text/css">
-    body {
-		height:100%;
-		margin:0;
-		padding:0;
-		background-image: url(/images/ui/SystemHeader1.jpg);
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><title>
+	GotSoccer Privacy Statement
+</title>
+<!-- VirtualPath = gotsoccer.com/privacy -->
 
-		background-repeat:no-repeat;
-        background-position: 0px 0px;
+<link rel="stylesheet" href="/css/styleSlide.css"><link rel="stylesheet" href="/css/slidorion.css"><link rel="stylesheet" href="/css/class.css"><link rel="stylesheet" href="/css/home.css"><link rel="shortcut icon" href="/favicon.ico"><link rel="icon" type="image/png" href="/favicon2.png"><link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-114.png"><link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114.png"><link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-144.png"><link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144.png">
 
-    }
+<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="/js/jquery.min.js"></script>
 
-	.bubblelink, .bubblelink:hover, .bubblelink:active, .bubblelink:visited
-	{
-	    color:Black;
-	    text-decoration:none;
-	    font-weight:bold;
-	}
-    
-    
-</style>
-
-<script language="javascript">
-
-    function OpenHelp(strSection,strContext,HelpID)
-    {
-	    winParam = "SCROLLBARS=yes,RESIZABLE=yes,TOOLBAR=no,STATUS=no,MENUBAR=no,WIDTH=370,HEIGHT=" + String(window.screen.availHeight - 28);
-	    winParam += ",TOP=0";
-	    winParam += ",LEFT=" + String(window.screen.availWidth - 380);
-	    HelpWin = window.open("/asp/help/default.asp?sec=" + strSection + "&cont=" + strContext + "&HelpID=" + HelpID, "HelpWindow", winParam);
-	    HelpWin.focus();
-        
-    }
-
-</script>
-<script language="javascript">
-function hex2num(hex) {
- if(hex.charAt(0) == "#") { 
-  hex = hex.slice(1);
- }
- hex = hex.toUpperCase();
- var hex_alphabets = "0123456789ABCDEF";
- var value = new Array(3);
- var k = 0;
- var int1,int2;
- for(var i=0;i<6;i+=2) {
-  int1 = hex_alphabets.indexOf(hex.charAt(i));
-  int2 = hex_alphabets.indexOf(hex.charAt(i+1));
-  value[k] = (int1 * 16) + int2;
-  k++;
- }
- return(value);
-}
-
-function num2hex(triplet) {
- var hex_alphabets = "0123456789ABCDEF";
- var hex = "#";
- var int1,int2;
- for(var i=0;i<3;i++) {
-  int1 = triplet[i] / 16;
-  int2 = triplet[i] % 16;
-
-  hex += hex_alphabets.charAt(int1) + hex_alphabets.charAt(int2);
- }
- return(hex);
-}
-
-function fadeColor(id,start_hex,stop_hex,difference,delay,color_background) {
- if(!difference) difference = 20;
- if(!delay) delay = 100;
- if(!start_hex) start_hex = "#FFFFFF";
- if(!stop_hex) stop_hex = "#000000";
- if(!color_background) color_background = "c";
- 
- var ele = document.getElementById(id);
- if(!ele) return;
- var start= hex2num(start_hex);
- var stop = hex2num(stop_hex);
- 
- for(var i=0;i<3;i++) {
-  start[i] = Number(start[i]);
-  stop[i] = Number(stop[i]);
- }
-
- for(var i=0;i<3;i++) {
-  if (start[i] < stop[i]) {
-   start[i] += difference;
-   if(start[i] > stop[i]) start[i] = stop[i];
+<script language="JavaScript" type="text/javascript">
+<!--
+function checkframe()
+{
+  if (top.location != location) {
+    top.location.href = document.location.href ;
   }
-  else if(start[i] > stop[i]) {
-   start[i] -= difference;
-   if(start[i] < stop[i]) start[i] = stop[i];
-  }
- }
-
- var color = "rgb("+start[0]+","+start[1]+","+start[2]+")";
- if(color_background == "b") {
-  ele.style.backgroundColor = color;
- } else {
-  ele.style.color = color;
- }
-
- if((start[0] == stop[0]) && (start[1] == stop[1]) && (start[2] == stop[2])) return;
-
- start_hex = num2hex(start);
- window.setTimeout("fadeColor('"+id+"','"+start_hex+"','"+stop_hex+"',"+difference+","+delay+",'"+color_background+"')",delay);
 }
-
-    function init(){
-        fadeColor("FadeTopUI","#FFFFFF","#263658",10,25,'b');
-        fadeColor("FadeTopUI_B","#FFFFFF","#263658",10,25,'b');
-        window.setTimeout(init_footer,300)
-    }
-    
-    function init_footer(){
-        fadeColor("FadeFooter","#FFFFFF","#666666",10,25,'b');
-    }
-    
-    
-
+-->
 </script>
+
 </head>
-<body>
-    <table cellpadding="0" cellspacing="0" bgcolor="" width="100%">
-        <tbody><tr>
-            <td height="54"><a href="/home.aspx?p=login"><img src="/images/logos/homepage_logo_10sm.png"></a></td>
-            <td><img src="/images/transparent.gif" width="1"></td>
-            <td nowrap="" valign="bottom" width="99%">
-            
-                <table cellpadding="0" cellspacing="0" width="100%">
-                    <tbody><tr>
-                        <td nowrap="">
-                        <table width="100%">
-                            <tbody><tr>
-                                <td>
-                                
-                                <table cellpadding="0" cellspacing="0">
-                                    <tbody><tr>
-                                        <td><img src="/images/transparent.gif" width="30" height="20"></td>
-                                        
-                                        <td><img src="/images/home/bubble_left.png" width="11" height="20"></td>
-                                        <td background="/images/home/bubble.png" nowrap=""><a href="http://www.gotsport.com/home.aspx?p=login" class="bubblelink">GotSport.com</a></td>
-                                        <td><img src="/images/home/bubble_right.png" width="11" height="20"></td>
-                                        <td><img src="/images/transparent.gif" width="5" height="20"></td>
-                                        
-                                        <td>&gt;</td>
-                                        <td><img src="/images/transparent.gif" width="5" height="20"></td>
-                                        <td><img src="/images/home/bubble_left.png" width="11" height="20"></td>
-                                        <td background="/images/home/bubble.png" nowrap=""><a href="default.asp" class="bubblelink">Help</a></td>
-                                        <td><img src="/images/home/bubble_right.png" width="11" height="20"></td>
-                                        <td><img src="/images/transparent.gif" width="15" height="20"></td>
-                                        
-                                    </tr>
-                                </tbody></table>
-                                
-                                
-                                
-                                </td>
-                                <td>&nbsp;</td>
-                                <td align="right">
-                                
-                                </td>
-                                <td>&nbsp;</td>
-                            </tr>
-                        </tbody></table>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td></td>
-                    </tr>
-                </tbody></table>
-                
-            </td>
-        </tr>
-    </tbody></table>
+
+<body onload="checkframe();">
+
+
+<!-- Start: GPT Async -->
+<script type="text/javascript">
+var gptadslots=[];
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function(){ var gads = document.createElement('script');
+gads.async = true; gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+
+<script type="text/javascript">
+googletag.cmd.push(function() {
+
+//Adslot 1 declaration
+var slot1= googletag.defineSlot('/8375/gotsoccer.com', [[300,250]],'div-gpt-ad-596160936868336349-1').setTargeting('position',['right1']).addService(googletag.pubads());
+//Adslot 2 declaration
+var slot2= googletag.defineSlot('/8375/gotsoccer.com', [[728,90]],'div-gpt-ad-596160936868336349-2').setTargeting('position',['leaderboard']).addService(googletag.pubads());
+//Adslot 3 declaration
+var slot3= googletag.defineSlot('/8375/gotsoccer.com', [[160,600]],'div-gpt-ad-596160936868336349-3').setTargeting('position',['skyscraper']).addService(googletag.pubads());
+//Adslot 4 declaration
+var slot4= googletag.defineSlot('/8375/gotsoccer.com', [[940,50]],'div-gpt-ad-596160936868336349-4').setTargeting('position',['pencil-top']).addService(googletag.pubads());
+
+
+googletag.pubads().enableSingleRequest();
+googletag.pubads().enableAsyncRendering();
+googletag.enableServices();
+});
+</script>
+<!-- End: GPT -->
+
+
+
+
+<div id="wrapper">
+	<div id="pageHeader">
+		<div id="smallMenu">
+			<ul>
+			<li style="border-right:none;"><a href="/">Home</a></li>    
+			<li><a href="/support.aspx">Support</a></li>  
+			<li><a href="/login.aspx"><img src="/images/icons/ArrowRight.png" class="LinkIcon">User Login</a> </li>   
+			</ul>   
+    	</div>
     
-<table cellpadding="0" cellspacing="0" border="0" width="840"><tbody><tr><td background="/images/ui/TopUIBG.png" width="99%"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr height="13"><td width="10">&nbsp;</td><td width="110" nowrap=""><a href="/" class="TopUI">Back to Homepage</a></td></tr></tbody></table></td><td align="right" valign="top"><img src="/images/ui/TopUICornerBlue.png" width="13" height="13"></td></tr></tbody></table><table cellspacing="0" cellpadding="0" width="840" height="2"><tbody><tr><td background="/images/ui/TopUIBG.png"><table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="10"><img src="/images/transparent.gif" width="10" height="4"></td></tr></tbody></table></td></tr></tbody></table>
-<blockquote>
-
-<table width="700">
-    <tbody><tr>
-        <td>
-        
-<font class="PageHeading">GotSoccer Privacy Policy &amp; User Agreement</font><br>
-<br>
-September 12, 2007<br>
-<br>
-At GotSoccer we recognize that privacy is important. This Policy applies to all of the <u>products, services and websites</u> offered by GotSoccer LLC. or its subsidiaries or affiliated companies (collectively, GotSoccer's "services"). 
-GotSoccer adheres to the US safe harbor privacy principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement.
-If you have any questions about this Policy, please feel free through our website or write to us at GotSoccer LLC., 2000 Strand Street, Neptune Beach, FL 32266.
-<br>
-<br>
-<font class="SubHeading">Information we collect and how we use it:</font><br>
-<br>
-We offer a number of services that do not require you to register for an account or provide any personal information. In order to provide our full range of services, we may collect the following types of information:
-<br>
-<ul>
-<li>Information you provide - When you sign up for a GotSoccer account or other GotSoccer service or promotion that requires registration, we ask you for personal information (such as your name, email address and an account password). For certain services, such as our advertising programs, we also request credit card or other payment account information which we maintain in encrypted form on secure servers. We may combine the information you submit under your account with information from other GotSoccer services or third parties in order to provide you with a better experience and to improve the quality of our services. For certain services, we may give you the opportunity to opt out of combining such information. </li>
-<li>GotSoccer cookies - When you visit GotSoccer, we send one or more cookies - a small file containing a string of characters - to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service by storing user preferences and tracking user trends, such as how people search. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some GotSoccer features and services may not function properly if your cookies are disabled. </li>
-<li>Log information - When you use GotSoccer services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser. </li>
-<li>User communications - When you send email or other communication to GotSoccer, we may retain those communications in order to process your inquiries, respond to your requests and improve our services. </li>
-<li>Affiliated sites - We offer some of our services in connection with other web sites. Personal information that you provide to those sites may be sent to GotSoccer in order to deliver the service. We process such information in accordance with this Policy. The affiliated sites may have different privacy practices and we encourage you to read their privacy policies. </li>
-<li>Links - GotSoccer may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our search technology, customized content and advertising. </li>
-<li>Other sites - This Privacy Policy applies to web sites and services that are owned and operated by GotSoccer. We do not exercise control over the sites displayed as search results or links from within our various services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you. </li>
-</ul>
-<br>
-GotSoccer only processes personal information for the purposes described in the applicable Privacy Policy and/or privacy notice for specific services. In addition to the above, such purposes include:
-<br>
-<ul>
-<li>Providing our products and services to users, including the display of customized content and advertising;</li> 
-<li>Auditing, research and analysis in order to maintain, protect and improve our services; </li> 
-<li>Ensuring the technical functioning of our websites; and </li> 
-<li>Developing new services. </li> 
-</ul>
-<br>
-GotSoccer processes personal information on our servers in the United States of America. We may process personal information to provide our own services. In some cases, we may process personal information on behalf of and according to the instructions of a third party, such as our advertising partners.
-<br>
-<br>
-<font class="SubHeading">Choices for personal information</font><br>
-<br>
-When you sign up for a particular service that requires registration, we ask you to provide personal information. If we use this information in a manner different than the purpose for which it was collected, then we will ask for your consent prior to such use. 
-<br>
-Personal information is never sold to a third party, and we provide an effective way to opt out of the use of personal information.  
-<br>
-If we propose to use personal information for any purposes other than those described in this Policy and/or in the specific service notices, we will offer you an effective way to opt out of the use of personal information for those other purposes. We will not collect or use sensitive information for purposes other than those described in this Policy and/or in the specific service notices, unless we have obtained your prior consent. 
-<br>
-You can decline to submit personal information to any of our services, in which case GotSoccer may not be able to provide those services to you. 
-<br>
-<br>
-<font class="SubHeading">Information sharing</font><br>
-<br>
-GotSoccer only shares personal information with other companies or individuals outside of GotSoccer in the following limited circumstances: 
-<br>
-<ul>
-<li>We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing functions such as event management to which an individual has subscribed to.  We require that these parties agree to process such information based on our instructions and in compliance with this Policy and any other appropriate confidentiality and security measures. </li>
-<li>We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms of Service  including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of GotSoccer, its users or the public as required or permitted by law. </li>
-</ul>
-<br>
-If GotSoccer becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will provide notice before personal information is transferred and becomes subject to a different privacy policy. 
-<br>
-We may share with third parties certain pieces of aggregate, non-personal information, such as the number of users who searched for a particular term, for example, or how many users clicked on a particular advertisement. Such information does not identify you individually. 
-<br>
-Please contact us at the address below for any additional questions about the management or use of personal data. 
-<br>
-<br>
-<font class="SubHeading">Information security</font><br>
-<br>
-We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data. 
-<br>
-We restrict access to personal information to GotSoccer employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. 
-<br>
-<br>
-<font class="SubHeading">Data integrity</font><br>
-<br>
-GotSoccer processes personal information only for the purposes for which it was collected and in accordance with this Policy or any applicable service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary. 
-<br>
-<br>
-<font class="SubHeading">Accessing and updating personal information</font><br>
-<br>
-When you use GotSoccer services, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Some of our services have different procedures to access, correct or delete users' personal information. We provide the details for these procedures in the specific privacy notices or FAQs for these services. 
-<br>
-<br>
-
-<font class="SubHeading">Suggestions, Feedback &amp; Software Development</font><br>
-<br>
-Here at GotSoccer we are continually improving our products as well as designing and building new ones. We gladly take into consideration all requests and feedback from our users to deliver the best products on the market, and then to continually refine them to be even better. GotSoccer may recieve requests for features that are already in development but have not yet been announced, or recieve feedback on existing systems and make adjustments to them. Due to the quantity and variety of feedback and requests that we recieve, it is not possible to credit these to individuals. All suggestions or ideas sent to GotSoccer become the intellectual property of GotSoccer, LLC. 
-<br>
-<br>
-
-<font class="SubHeading">Enforcement</font><br>
-<br>
-GotSoccer regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or GotSoccer's treatment of personal information by <a href="/asp/help/contact.asp">contacting us</a> through this web site or by writing to us at GotSoccer, LLC., 2000 Strand Street, Neptune Beach, FL 32266, USA. When we receive formal written complaints at this address, it is GotSoccer's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between GotSoccer and an individual. 
-<br>
-<br>
-<font class="SubHeading">Changes to this policy</font><br>
-<br>
-Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice.
-<br>
-If you have any additional questions or concerns about this Policy, please feel free to contact us any time through this web site or at Privacy Matters, c/o GotSoccer LLC, 2000 Strand Street, Neptune Beach, FL 32266, USA. 
-<br>
-
-        </td>
-    </tr>
-</tbody></table>
-
-
-
-</blockquote>
-
-
-    <table width="100%">
-        <tbody><tr>
-            <td align="right">
-            
-            <table width="300" cellpadding="0" cellspacing="0">
-                <tbody><tr bgcolor="#266127">
-                    <td align="left"><img src="/images/ui/cornerCHOPtopLeft.gif"></td>
-                    <td><img src="/images/transparent.gif" width="10" height="8"></td>
-                    <td nowrap=""><a href="/asp/help/contact.asp" class="TopUI">Contact</a></td>
-                    <td><img src="/images/transparent.gif" width="20" height="8"></td>
-                    <td nowrap=""><a href="/asp/help/privacy.asp" class="TopUI">Privacy Statement</a></td>
-                    <td width="99%"><img src="/images/transparent.gif" width="10" height="8"></td>
-                </tr>
-                <tr bgcolor="#266127">
-                    <td align="left" colspan="6"><img src="/images/transparent.gif" width="10" height="4"></td>
-                </tr>
-                <tr bgcolor="#FFFFFF">
-                    <td align="left" colspan="6"><font style="font-size: 7pt;" color="#666666">©2009 GotSoccer, LLC</font></td>
-                </tr>
-            </tbody></table>
-            
-            </td>
-        </tr>
-    </tbody></table>
+		<div id="logo">
+		<a href="/"><img src="/images/logo2.png"></a>
+		</div>
     
+    	<div id="NewsBox" class="NewsTicker roundedtiny">
+			<table>
+				<tbody><tr>
+					<td valign="middle" bgcolor="white"><div id="Image"></div></td>
+					<td valign="top" width="99%">
+					<div id="HeadLine" class="TickerHeadLine"></div>
+					<div id="BriefText" class="TickerBriefText"></div>
+					</td>
+				</tr>
+			</tbody></table>
+    	</div>
+    
+    
+  		<div id="navBar">
+			<ul>
+				<li><a href="/rankings.aspx">Rankings</a></li>
+				<li><a href="/search.aspx?content=magazine">Magazine</a></li>
+				<li><a href="/news.aspx?NewsItemID=725">Sheuneenio</a></li>
+				<li><a href="/search.aspx?content=news">News</a></li>
+				<li><a href="/search.aspx?content=local">Local</a></li>
+				<li><a href="/search.aspx?content=featured">Featured Tournaments</a> </li>
+				<li><a href="/search.aspx?content=videos">Videos</a></li>
+				<li><a href="/clubs.aspx">Club Directory</a></li>
+				<li><a href="/events.aspx">Tournament Directory</a></li>
+				<li><a href="http://home.gotsport.com/clubsite/?p=6680">Software</a></li>
+			</ul>
+		</div>
+		
+    
+    	<div class="clear"></div>
+	</div>
+
+	
+    
+    <iframe id="NewsIframe" height="0" width="0" frameborder="0" src="/NewsIframe.aspx"></iframe>
+
+
+	
+
+<div class="BodyPadding">
+		
+<div class="CategoryHeading">
+	<div id="SupportHeading" class="PageHeading">Revised GotSoccer Privacy Policy and terms of Service</div>
+</div>
+
+
+<div style="font-weight:bold;">May 29, 2012</div>
+<br>
+There are many different ways you can use our services – to share and search for information, to communicate with players, teams, associations and events or to create new content. When you share information with us, for example by creating a player or team account, we can help you connect with the soccer community or to make sharing with others quicker and easier.<br>
+<br>
+Let’s start with the most important issue. <u>GotSoccer does not and will not share, sell or lease personal information on players, parents, coaches, referees, administrators or any other person in our database to any commercial company (for example, XYZ sporting goods store or ABC soda company) other than those we reasonable believe you want to share your information or unless you give us explicit consent.</u>  An example of a commercial entity we would share information with would be a company that runs a tournament using our software. When a team applies to the tournament we assume they want the company running the event to see that they’ve applied and will want them to contact the team about the event.<br>
+<br>
+As you use our services, we want you to be clear how we’re using information and the ways in which you can protect your privacy.<br>
+<br>
+Our Privacy Policy explains:<br>
+<ul>
+	<li>What information we collect and why we collect it.</li>
+	<li>How we use that information.</li>
+	<li>The choices we offer, including how to access and update information.</li>
+</ul>
+<br>
+<div class="SubHeading">Information we collect</div>
+<br>
+We collect information to provide better services to all of our users – from figuring out basic information like what gender a player is, to more complex things like which programs you’ll find most useful or the people who matter most to you in the soccer community.<br>
+<br>
+We collect information in two ways:<br>
+<br>
+<ul>
+	<li>Information you give us. For example, many of our services require you to sign up for a GotSoccer Account. When you do, we may ask for personal information, like your name, email address, telephone number, gender, birth date…. This is most often used by your team, club, association and state organization.</li>
+	<li>Information others give us about you. For example, managers may enter player information into a team account for a tournament or league without your knowledge. US Youth state organizations may require your club or association to upload information into GotSoccer including your personal and contact information. GotSoccer assumes those that enter personal information into or export data from our database have the right to do so.</li>
+	<li>Information we get from your use of our services. We may collect information about the events and programs that you use and how you use them, like when you apply to a tournament, or register to play with a club that uses our services. This information includes:<br>
+
+	<ul>
+		<li><div class="TinyHeading">Device information</div>
+		<br>
+		We may collect device-specific information (such as your hardware model, operating system version, unique device identifiers, and mobile network information including phone number).<br>
+		<br>
+		</li>
+		<li><div class="TinyHeading">Log information</div>
+		<br>
+		When you use our services or view content provided by GotSoccer, we may automatically collect and store certain information in server logs. This may include:<br>
+		<ul>
+			<li>details of how you used our service, such as your event attendance.</li>
+			<li>Internet protocol addresses (IP addresses).</li>
+			<li>system activity, browser type, the date and time of your request and referral URL.</li>
+			<li>cookies that may uniquely identify your browser or your GotSoccer Account.</li>
+		</ul>
+		</li>
+		<li><div class="TinyHeading">Unique application information</div>
+		<br>
+		Certain services including event applications, background checks, player registrations, or programs registration have a unique application number. This number and information about your application may be kept by GotSoccer when you use our software.<br>
+		</li>
+		<li><div class="TinyHeading">Cookies and anonymous identifiers</div>
+		<br>
+		We use various technologies to collect and store information when you visit GotSoccer, and this may include sending one or more <u>cookies</u> or <u>anonymous identifiers</u> to your device. We may also use cookies and anonymous identifiers when you interact with services we offer to our partners, such as advertising services.<br>
+		</li>
+	</ul>
+	</li>
+</ul>
+<br>
+<div class="SubHeading">How we use information we collect</div>
+<br>
+We use the information we collect from all of our software services to provide, maintain, protect and improve them, to develop new ones, and to protect GotSoccer and our users. We also use this information to offer you tailored content – like giving you more relevant programming and ads.<br>
+<br>
+We may use the name you provide for your GotSoccer account across all of the services we offer that require a GotSoccer account. In addition, we may replace (merge) past names associated with your GotSoccer Account so that you are represented consistently across all our services. If other users already have your email, or other information that identifies you, we may show them your publicly visible GotSoccer Profile information, such as your name and photo. This would include users such as your team manager, club, association, league, tournament you entered, state organization, or other users that we have reasonable belief is entitled to your account information. We may also publish certain information (name, position, photo) on our team ranking page, though you and your team can opt out.<br>
+<br>
+Creating or accessing an account in GotSoccer equals becoming a member of the GotSoccer community. We are allowed email you from time to time regarding things we believe may be of interest including new services and products developed by GotSoccer and its partners.<br>
+<br>
+When you contact GotSoccer, we may keep a record of your communication to help solve any issues you might be facing. We may use your email address to inform you about our services, such as letting you know about upcoming events changes or improvements. We allow clients to email you where we have reasonable belief that you are or expect to become a member. These include your club, association, state organization and national organization.<br>
+<br>
+We use information collected from cookies and other technologies, like pixel tags, to improve your user experience and the overall quality of our services.<br>
+<br>
+We may combine personal information from one service with information, including personal information, from other GotSoccer services – for example to make it easier to share things with people you know or associations you belong to.<br>
+<br>
+We will ask for your consent before using information for a purpose other than those that are set out in this Privacy Policy.<br>
+<br>
+GotSoccer processes personal information on our servers in many states around the country. We may process your personal information on a server located outside the country where you live. (We have Canadian and other international player and team information.)<br>
+<br>
+
+
+<div class="SubHeading">Transparency and choice</div>
+<br>
+
+People have different privacy concerns. Our goal is to be clear about what information we collect, so that you can make meaningful choices about how it is used. For example, you can:<br>
+<br>
+<ul>
+	<li>Review and control certain types of information tied to your GotSoccer Account by using your account. Certain information may not be directly editable by the user, such as gender, name, and birth date, after certain verification processes. (Examples are, player pass and official roster information.)</li>
+	<li>View and edit certain preferences, such as which colleges might interest you, using the college recruiting area of a player account.</li>
+	<li>Control who you share information with from a team or player account.</li>
+</ul>
+<br>
+You may also set your browser to block all cookies, including cookies associated with our services, or to indicate when a cookie is being set by us. However, it’s important to remember that many of our services may not function properly if your cookies are disabled.<br>
+<br>
+
+<div class="SubHeading">Information you share</div>
+<br>
+Many of our services let you share information with others. Remember that when you share information publicly, it may be indexable by search engines. Our services provide you with different options on sharing and removing your content.<br>
+<br>
+Once information is shared with your actual or implied permission (applying to play for a club implies you want them to see your personal information so they can place the player on a team), these organizations (events) may email or contact you using the GotSoccer email system. In this instance, it is our position that you or your team has become a member of these organizations (events) and the organization or event has the right to contact you. Please consult these organizations (events) with regard to their privacy policies.<br>
+<br>
+
+<div class="SubHeading">Ownership of the actual account</div>
+<br>
+GotSoccer is a “Software as a Service” (SaaS) company. We own the actual accounts and have the right to restrict or deny access as we see fit. For example, if an association elects a new president, we may change the password to deny the past president access and allow the new president access. Teams sometimes split and GotSoccer must decide who will maintain the team account. GotSoccer will only restrict a parent’s access to a child’s account under court order.<br>
+<br>
+<div class="SubHeading">Right to advertise</div>
+<br>
+GotSoccer retains the right to place advertisements in all software accounts. GotSoccer retains the right to advertise on all event public pages with the exception of events that pay for our services where the event asks to opt out.<br>
+<br>
+<div class="SubHeading">Accessing and updating your personal information</div>
+<br>
+Whenever you use our services, we aim to provide you with access to your personal information. If that information is wrong, we strive to give you ways to update it quickly or to delete it – unless we have to keep that information for legitimate business or legal purposes. These legitimate purposes may include official rosters, club registration, state registration… When updating your personal information, we may ask you to verify your identity before we can act on your request.<br>
+<br>
+We may reject requests that are unreasonably repetitive, require disproportionate technical effort (for example, developing a new system or fundamentally changing an existing practice), risk the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes or other archive systems).<br>
+<br>
+Where we can provide information access and correction, we will do so for free, except where it would require a disproportionate effort. We aim to maintain our services in a manner that protects information from accidental or malicious destruction. Because of this, after you delete information from our services, we may not immediately delete residual copies from our active servers and may not remove information from our backup systems.<br>
+<br>
+<div class="SubHeading">Information we share</div>
+<br>
+We do not share personal information with companies, organizations and individuals outside of authorized GotSoccer users unless one of the following circumstances apply:<br>
+<br>
+<ul>
+	<li><div class="TinyHeading">With your, your team’s, your club/association… consent</div>
+	<br>
+	We will share personal information with organizations or individuals outside of GotSoccer when we have your, your team’s, or your club/association consent to do so. An example would be an export to comply with your state registration requirements.<br>
+	<br>
+	</li><li><div class="TinyHeading">For legal reasons</div>
+	<br>
+	We will share personal information with companies, organizations or individuals outside of GotSoccer if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to:<br>
+	<br>
+	<ul>
+		<li>meet any applicable law, regulation, legal process or enforceable governmental request.</li>
+		<li>enforce applicable Terms of Service, including investigation of potential violations.</li>
+		<li>detect, prevent, or otherwise address fraud, security or technical issues.</li>
+		<li>protect against harm to the rights, property or safety of GotSoccer, our users or the public as required or permitted by law.</li>
+	</ul>
+	</li>
+</ul>
+<br>
+We may share aggregated, non-personally identifiable information publicly and with our clients – like US Youth Soccer, state organizations, advertisers or connected sites. For example, we may share information publicly to show trends about the general use of our services.<br>
+<br>
+If GotSoccer is involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any personal information and give affected users notice before personal information is transferred or becomes subject to a different privacy policy.<br>
+<br>
+<div class="SubHeading">Information security</div>
+<br>
+We work hard to protect GotSoccer and our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold. In particular:<br>
+<ul>
+	<li>We encrypt many of our services using Secure Socket Layers (SSL as https:)</li>
+	<li>We review our information collection, storage and processing practices, including physical security measures, to guard against unauthorized access to systems.</li>
+	<li>We restrict access to personal information to GotSoccer employees, contractors and agents who need to know that information in order to process it, and who are subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations.</li>
+</ul>
+<div class="SubHeading">Application</div>
+<br>
+Our Privacy Policy applies to all of the services offered by GotSoccer LLC. and its affiliates, but excludes services that have separate privacy policies that do not incorporate this Privacy Policy. For example, clubs, associations, state associations may export information from GotSoccer to comply with obligations from USSF, USYS or other organizations. Our Privacy Policy does not extend to information and its use once exported from our database. Please contact your club, association, state organization, US Youth Soccer or others regarding their Privacy Policy.<br>
+<br>
+Our Privacy Policy does not apply to services offered by other companies or individuals. Our Privacy Policy does not cover the information practices of other companies and organizations that use our services.<br>
+<br>
+<div class="SubHeading">Changes</div>
+<br>
+We regularly review our compliance with our Privacy Policy and our Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of privacy policy changes). We will also keep prior versions of this Privacy Policy in an archive for your review.<br>
+<br>
+
+</div>
+
+
+
+	
+	
+	<div align="center"><div class="Ad_BottomHorizontal">
+<!-- Beginning Async AdSlot 2 for Ad unit gotsoccer.com  ### size: [[728,90]] -->
+<div id="div-gpt-ad-596160936868336349-2">
+<script type="text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-596160936868336349-2'); });
+</script>
+</div>
+<!-- End AdSlot 2 -->
+</div>
+</div>
+
+</div>
+
+
+
+<div id="footer">
+	<div id="contentEnd">
+		<div class="verticalspacer" style="width:300px;">
+			<h2>Site Content</h2>
+			<ul>
+				<li><a href="/rankings.aspx">Rankings</a></li>
+				<li><a href="/search.aspx?content=magazine">Magazine</a></li>
+				<li><a href="/search.aspx?content=news">News &amp; Software</a></li>
+				<li><a href="/search.aspx?content=featured">Featured Tournaments</a> </li>
+				<li><a href="/search.aspx?content=videos">Videos</a></li>
+			</ul>
+		</div>
+		
+		<div class="verticalspacer" style="width:20px;">&nbsp;</div>
+
+		<div class="verticalspacer" style="width:300px;">
+			<h2>Help &amp; Support</h2>
+			<ul>
+				<li><a href="/login.aspx">User Login</a></li>
+				<li><a href="/support.aspx">Support</a></li>
+				<li><a href="/support.aspx?content=support">Help Documentation</a></li>
+				<li><a href="/support.aspx?content=contact">Contact Us</a></li>
+				<li><a href="http://home.gotsport.com/clubsite/?p=2640">Our Team</a></li>
+			</ul>   	
+		</div>
+		
+		<div class="verticalspacer" style="width:20px;">&nbsp;</div>
+    
+		<div class="verticalspacer" style="width:300px;">
+			<h2>Terms of Service</h2>
+			<ul>
+				<li><a href="/privacy.aspx">Privacy Policy</a></li>
+				<li><a href="/support.aspx?content=contact">Contact Us</a></li>
+			</ul>
+		</div>
+
+    	<div class="clear"></div>
+    	<div align="right" class="TinyHeading">©2013&nbsp;GotSoccer,&nbsp;LLC&nbsp;&nbsp;&nbsp;</div>
+	</div>
+</div>
+
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20472997-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "9563615" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="https://b.scorecardresearch.com/p?c1=2&c2=9563615&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
 
 
 
