@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bts.gov privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429210434id_/http%3A//www.rita.dot.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bts.gov privacy policy that was archived on 2013-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130929151911id_/http%3A//www.rita.dot.gov/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Research and Innovative Technology Administration
 
@@ -55,7 +55,7 @@ Additionally, we may be required by law to share information we collect with aut
 Throughout our website, we will let you know whether the information we ask you to provide is voluntary or required. By providing personally identifiable information, you are granting us consent to use this personally identifiable information for the primary purpose for which you are providing it.  Additionally, we will ask you to grant us consent before using your voluntarily provided information for any secondary purposes, other than those required under the law.
 
 **How long do we keep your information?**  
-For business mailing addresses, we retain your information indefinitely and it does not get removed unless you send a request to [RITAInfo@dot.gov](mailto:RITAInfo@dot.gov).
+For business mailing addresses, we retain your information indefinitely and it does not get removed unless you send a request to [Email RITA](https://ntl.custhelp.com/app/ask).
 
 For personal mailing addresses, we usually keep your personally identifiable information for up to 45 days.  After 45 days, we will maintain only your e-mail address in the event we need to contact you concerning your publication order.
 
