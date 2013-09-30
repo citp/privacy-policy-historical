@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotklix.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517234901id_/http%3A//www.hotklix.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotklix.com privacy policy that was archived on 2013-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130930085122id_/http%3A//www.hotklix.com/privacy_policy) for the most accurate reproduction.*
 
 # All about Movies, Fashion, Music, Lifestyle, Bizarre & Fun at Hotklix.com
 
@@ -24,10 +24,13 @@ Accessing and updating personal information
 
 Information Security
 
-In the event you have any grievance relating to the processing of information provided by you, you may contact our Grievance Officer, at copyright.infringement@indiatimes.com ; or write at the following address:
+In the event you have any grievance relating to the processing of information provided by you, you may contact our Grievance Officer, at grievance.hotklix@indiatimes.co.in ; or write at the following address:
 
+Amit Gupta  
+Grievance Redressal Officer  
+Hotklix.com  
 Times Internet Limited  
-4th Floor, MPD World Tower,  
+4th Floor, MPD Tower,  
 DLF City Phase V, Opposite DLF Golf Course  
 Gurgaon, Haryana 122002  
 India  
