@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upromise.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628132915id_/http%3A//www.upromise.com/linkto/welcome/details/privacy%3Fcm_re%3Dv1%7C/welcome-_-Unknown%7CUnknown-_-/welcome/details/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upromise.com privacy policy that was archived on 2013-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131001015720id_/http%3A//www.upromise.com/linkto/welcome/details/privacy%3Fcm_re%3Dv1%7C/welcome-_-Unknown%7CUnknown-_-/welcome/details/privacy) for the most accurate reproduction.*
 
 # Privacy at Upromise
 
