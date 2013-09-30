@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aussiehq.com.au privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603101527id_/http%3A//www.aussiehq.com.au/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aussiehq.com.au privacy policy that was archived on 2013-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130930072242id_/http%3A//www.aussiehq.com.au/privacy_policy) for the most accurate reproduction.*
 
 # AussieHQ Privacy Policy
 
