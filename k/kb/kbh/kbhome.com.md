@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kbhome.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624000622id_/http%3A//www.kbhome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kbhome.com privacy policy that was archived on 2013-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130930093118id_/http%3A//www.kbhome.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | KB Home
 
