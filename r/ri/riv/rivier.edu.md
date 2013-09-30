@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rivier.edu privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514075800id_/https%3A//www.rivier.edu/RivierCollegeE-CommercePrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rivier.edu privacy policy that was archived on 2013-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131001013342id_/http%3A//www.rivier.edu/RivierCollegeE-CommercePrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # 
 
