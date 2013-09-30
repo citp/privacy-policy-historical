@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the editphotosforfree.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502221938id_/http%3A//editphotosforfree.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the editphotosforfree.com privacy policy that was archived on 2013-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131001012010id_/http%3A//editphotosforfree.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | EP4F.com
 
