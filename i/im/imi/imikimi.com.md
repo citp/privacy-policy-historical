@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imikimi.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623031825id_/http%3A//imikimi.com/main/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imikimi.com privacy policy that was archived on 2013-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130930182932id_/http%3A//imikimi.com/main/privacy_policy) for the most accurate reproduction.*
 
 # Legal - Privacy Policy - imikimi.com
 
