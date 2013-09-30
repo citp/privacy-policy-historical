@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rogercpareview.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515172417id_/http%3A//www.rogercpareview.com/media/documents/policies/Privacy%2520Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rogercpareview.com privacy policy that was archived on 2013-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130930180802id_/http%3A//www.rogercpareview.com/media/documents/policies/Privacy%2520Policy.pdf) for the most accurate reproduction.*
 
 # PRIVACY NOTICE
 
