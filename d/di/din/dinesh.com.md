@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the dinesh.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511123632id_/http%3A//www.dinesh.com/about_me/about_this_site/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dinesh.com privacy policy that was archived on 2013-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130930090041id_/http%3A//dinesh.com/about_me/about_this_site/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+##  [ Privacy Policy](http://www.dinesh.com/about_me/about_this_site/privacy_policy.html)
+
+Details
+     Parent Category: [About Me](http://www.dinesh.com/about_me.html)
+     Category: [About This Site](http://www.dinesh.com/about_me/about_this_site.html)
 
 **Privacy Policy for http://www.dinesh.com**
 
