@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insuremycar4less.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423213245id_/http%3A//insuremycar4less.com%3Fopenaction%3Dqw%26subaction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insuremycar4less.com privacy policy that was archived on 2013-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130930024210id_/http%3A//insuremycar4less.com%3Fopenaction%3Dqw%26subaction%3Dprivacy) for the most accurate reproduction.*
 
 # InsureMyCar4Less | The perfect policy, the right price
 
