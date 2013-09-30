@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fotopages.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527162931id_/http%3A//www.fotopages.com/cgi-bin/help.pl%3Fpage%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fotopages.com privacy policy that was archived on 2013-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130930051215id_/http%3A//www.fotopages.com/cgi-bin/help.pl%3Fpage%3D4) for the most accurate reproduction.*
 
 # Privacy policy - Photo blogging made easy - Fotopages.com
 
@@ -6,7 +6,7 @@
 **Privacy Statement for Fotopages  
 Last Revised October 20, 2003 **
 
-We at Fotopages have a firm commitment to safeguarding the privacy of our users. This page will inform you about our information gathering and dissemination practices for the Fotopages service. If you have questions or concerns regarding this statement, you should contact support@fotopages.com. 
+We at Fotopages have a firm commitment to safeguarding the privacy of our users. This page will inform you about our information gathering and dissemination practices for the Fotopages service. If you have questions or concerns regarding this statement, you should contact support@fotopages.com.
 
 **In General**
 
@@ -62,4 +62,4 @@ This site may contain links to other sites. Fotopages is not responsible for the
 
 **Questions about the Fotopages Service**
 
-If you have any questions about this privacy statement, the practices of the Fotopages Service, or your dealings with us, you can email your questions to support@fotopages.com 
+If you have any questions about this privacy statement, the practices of the Fotopages Service, or your dealings with us, you can email your questions to support@fotopages.com
