@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the projectlore.com privacy policy that was archived on 2013-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130329014212id_/http%3A//www.deca.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectlore.com privacy policy that was archived on 2013-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130930090055id_/http%3A//www.deca.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Deca TV
 
