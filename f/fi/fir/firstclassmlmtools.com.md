@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the firstclassmlmtools.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610235053id_/http%3A//www.firstclassmlmtools.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstclassmlmtools.com privacy policy that was archived on 2013-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130930215616id_/http%3A//firstclassmlmtools.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Firstclass MLM Tools
+# Privacy Policy - First Class MLM Tools
 
 Privacy is a primary concern today, on and off the Internet. We are aware of these concerns and want you to feel comfortable shopping at our site.
 
