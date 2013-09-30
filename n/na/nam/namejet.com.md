@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the namejet.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530012231id_/http%3A//www.namejet.com/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namejet.com privacy policy that was archived on 2013-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130930182601id_/http%3A//www.namejet.com/Pages/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - NameJet Domain Name Services
 
