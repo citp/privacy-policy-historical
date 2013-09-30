@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the robselaney.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014174335id_/http%3A//www.robselaney.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robselaney.com privacy policy that was archived on 2013-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130930122210id_/http%3A//www.robselaney.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
