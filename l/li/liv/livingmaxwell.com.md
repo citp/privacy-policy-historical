@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livingmaxwell.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504142606id_/http%3A//livingmaxwell.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livingmaxwell.com privacy policy that was archived on 2013-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130930090428id_/http%3A//livingmaxwell.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
