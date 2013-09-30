@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ijunoon.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115114210id_/http%3A//www.ijunoon.com/pages/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ijunoon.com privacy policy that was archived on 2013-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130930094038id_/http%3A//www.ijunoon.com/pages/privacy-policy.aspx) for the most accurate reproduction.*
 
 # iJunoon - Privacy Policy
 
@@ -7,7 +7,7 @@
 |  |  |  |  CATEGORIES  |   
 ---|---  
   
-  * [Privacy Policy](https://web.archive.org/web/20130115114210id_/http%3A//www.ijunoon.com/pages/privacy-policy.aspx)
+  * [Privacy Policy](https://web.archive.org/web/20130930094038id_/http%3A//www.ijunoon.com/pages/privacy-policy.aspx)
 
   
    
