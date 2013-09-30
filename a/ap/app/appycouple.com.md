@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the appycouple.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021062505id_/http%3A//www.appycouple.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appycouple.com privacy policy that was archived on 2013-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130930045708id_/http%3A//www.appycouple.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy | Appy Couple
+# Privacy Policy | Appy Couple
 
 This Privacy Policy governs the manner in which AppeProPo, Inc. collects, uses, maintains and discloses information collected from users (each, a "User") of the appycouple.com website (the "Site") and the mobile application service generally known as “appycouple” or as “powered by appycouple” (the “Service”). This privacy policy applies to the Site and all products and services offered, managed or maintained by AppeProPo, Inc.
 
@@ -61,7 +61,7 @@ By using the Site and/or Service, you signify your acceptance of this policy and
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
 Appy Couple  
-AppeProPo, Inc, 1500 Broadway, New York, NY, 10036  
+AppeProPo, Inc, 1133 Broadway, Penthouse New York, NY, 10010  
 1-347-922-5235  
 support@appycouple.com
 
