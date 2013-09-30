@@ -1,100 +1,190 @@
-> *The following text is extracted and transformed from the jamberry.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229203604id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamberry.com privacy policy that was archived on 2013-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130930160153id_/http%3A//www.jamberrynails.net/assets/pdf/JamberryPrivacyPolicy.pdf) for the most accurate reproduction.*
 
-# Legal Agreement
+# 
 
-**Go Daddy Respects Your Privacy**
+  Privacy Policy
+Last Modified: July 1, 2013
+            1
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Introduction
+Jamberry Nails, LLC, a Utah limited liability company, U.S.A., (referred to herein as “Jamberry,” “we,”
+“us” and “our”) understands the importance of privacy of individuals (referred to as “users” and “you”).
+Jamberry Nails, LLC also maintains websites for several affiliate companies. We want your use of the
+Jamberry web sites and the services we offer to be productive and safe and we have taken great efforts
+to keep your information confidential and secure at all times within our system. Our Privacy Policy was
+developed as an extension of our commitment to combine quality products and services with integrity in
+dealing with our users. Our Privacy Policy is designed to assist you in understanding how we collect, use
+and safeguard the personal information you provide to us and to assist you in making informed
+decisions when using our site and our products and services. We have adopted the following policies
+with regard to collection and distribution of information.
+What Information We Collect
+Jamberry may collect two different types of information, Personally Identifiable Information and Non-
+Personally Identifiable Information. “Personally Identifiable Information” (“PII”) is information that
+identifies you as an individual – for example, your name, address, telephone number, email address,
+credit card information, billing address and shipping information. “Non-Personally Identifiable
+Information” (“Non-PII”) is aggregated information, demographic information, IP addresses, user
+behavior data from web interaction metrics tools and any other information that does not reveal your
+specific identity.
+Independent Consultant Enrollment
+During the Independent Consultant enrollment process, we will gather information about you including
+your name, address, email, date of birth, and your taxpayer identification number. We gather your date
+of birth to ensure that you are at least 18 years of age since we do not allow minors to enroll as
+independent consultants. We also gather your taxpayer identification number so that we issue you
+annual tax statements we are required to issue our independent consultants annually.
+Product Purchases
+Also while you purchase products on Jamberry maintained websites, Jamberry may collect PII about you
+that may be considered sensitive, incuding your name, address, email, and the products contained in
+your order. Credit cards are generally required to process your transaction, but we do not store your
+credit card and the transaction is wholly processed by a third party merchant processor FirstData.
+Testimonials/Product Reviews
+If you provide a testimonial or product review on any Jamberry sites, you should be aware that any
+personally identifiable information you submit there can be read, collected, or used by other users of
+these forums, and could be used to send you unsolicited messages. For testimonials, we do obtain the
+customer's consent prior to posting his or her name and video testimonial. If you enter a comment in a
+                                                      2
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-**Information Collection and Use**
+public forum we are not responsible for the personally identifiable information you choose to submit in
+these comments.
+Facebook Groups
+If you participate in any private Facebook groups in connection with being a Jamberry independent
+consultant, the information you post is not hosted by Jamberry, but by Facebook. Additionally any
+information you post there will be visible to the group members.
+Information Provided to Independent Consultants
+If you are a Jamberry customer or consultant you may provide certain information to a Jamberry
+consultant through whom you order products or meet at a party. Such consultants are independent
+contractors and are not employees of Jamberry. Such consultants are required under their contracts
+with Jamberry to adhere to applicable privacy laws, however, we do not have the same control over the
+information you provide to independent Jamberry consultants as the information you provide directly to
+us or through our websites.
+Jamberry may also collect PII about you from, among other places: information you provide directly to
+us, information regarding the services that Jamberry currently provides or has previously provided to
+you, information Jamberry receives from our affiliated entities or third parties relating to the
+establishment of our relationship or the provision of services to you.
+This information can be received in any manner, including in-person discussions, telephone
+conversations, electronic surveys, Facebook group pages, and electronic or other written
+communications.
+Cookies
+We may collect information about your general internet usage by using a cookie file which is stored on
+the hard drive of your computer. Cookies contain information that is transferred to your computer’s
+hard drive. They help us to improve our site and to deliver a better and more personalized service. They
+enable us to estimate our audience size and usage pattern, to store information about your preferences
+(and so allow us to customize our site according to your individual interests), to speed up your searches
+and to recognize you when you return to our site. You may refuse to accept cookies by activating the
+setting on your browser which allows you to refuse the setting of cookies. However, if you select this
+setting you may be unable to access certain parts of our site. Unless you have adjusted your browser
+setting so that it will refuse cookies, our system will issue cookies when you log on to our site.
+How We Use Your Information
+Jamberry may collect PII about you to establish or maintain our relationship with you, respond to your
+inquiries, provide you with services you have requested, fulfill orders you have placed, process returns
+and refunds, pay commissions and overrides, keep you informed of services we think may be of interest
+to you, personalize your experience with us, and other reasons. If you do not wish to receive
+                                                       3
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+communications from us of a marketing nature, you have the ability to "opt-out" at any time and you
+will not be contacted further unless you choose to opt back in to receive such communications.
+Without PII, Jamberry cannot enroll you as a consultant and may be unable to provide you with the
+products or services you have requested.
+Disclosure of Information
+Jamberry is not an information broker and does not sell or lease PII about you to others. We do not
+engage in the selling of the profile, contact, web usage habits, behavior, buying patterns, or
+demographic information of our customers, partners, independent consultants or users. We use the
+information we collect about you to process orders, pay commissions and overrides and provide the
+best and most personalized service possible. We may revise this Privacy Policy occasionally, so please
+check it frequently.
+Jamberry may share PII about you with others as permitted by contractual agreement or as required by
+law, such as our affiliates, third parties in connection with the provision of services to you, government
+entities and regulatory bodies, and those with whom you have requested us to share information.
+Unless restricted by law, regulation, contract or professional standards, Jamberry may transfer PII about
+you outside of the United States to other countries for the purposes described in this privacy notice.
+Jamberry will not share PII about you with an unaffiliated third party who is not performing services for
+us without first obtaining your permission, except if such sharing is otherwise permitted by this privacy
+notice.
+Jamberry will provide PII about you to the following types of third parties for the associated reasons:
+Carriers: Jamberry will provide your name and address to companies which provide a delivery service
+between Jamberry and its customers as a means of delivering our products to you as quickly as possible.
+Financial Institutions: Jamberry will provide financial institutions with your payment information,
+name, address, and phone number in order to process any orders placed by you and complete payment
+of the transaction to Jamberry. If you are an independent consultant, Jamberry will also provide your
+name and commission amount to financial institutions so your commissions can be routed to your
+account.
+Logistics: Jamberry will provide your name, address and phone number to those entities or people
+within our network of distribution in order to process and ship your orders with speed and accuracy.
+Independent Consultants: If you are a Jamberry independent consultant we will provide your name,
+address, phone number, and email to other independent consultants in your upline or downline so you
+can work together on sales and training, and communicate related to your independent sales business.
+Required by Law: Notwithstanding any other provision of this notice to the contrary, we reserve the
+right to disclose and use your PII if we believe that we are required to do so: (a) by law; (b) in response
+                                                       4
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+to legal process, for example, in response to a court order or a subpoena; (c) in response to a law
+enforcement agency’s request; (d) to enforce our other terms, conditions, or policies; (e) to protect our
+operations; (f) to protect the rights, privacy, safety or property of Jamberry, you or others; and/or (g) to
+permit us to pursue available remedies or limit the damages we may sustain. For example, we may to
+the fullest extent the law allows, disclose PII about you to law enforcement agencies to assist them in
+identifying individuals who have been or may be engaged in unlawful activities.
+Business Transition: In the event Jamberry goes through a business transition, such as a merger,
+acquisition by another company, or sale of all or a portion of its assets, your personally identifiable
+information will likely be among the assets transferred. You will be notified via email and/or a
+prominent notice on our website of any such change in ownership or control of your personal
+information, as well as any choices you may have regarding your personal information.
+Jamberry requires third parties who perform services for us to agree to treat PII about you confidentially
+and securely. Prior to collection your PII, any such third parties are required to sign a service agreement,
+which includes the privacy policy outlined here. Note that this statement does not address the privacy
+practices or polices of our Independent Consultants. However, Jamberry Independent Consultants
+agree, as specified in our Policies and Procedures, to comply with all applicable privacy laws and
+regulations.
+Because Non-PII does not personally identify you, we reserve the right to use Non-PII, and to disclose
+Non-PII to third parties, for any purpose.
+Links to Other Sites: This website contains links to other sites that are not owned or controlled by
+Jamberry. Please be aware that we are not responsible for the privacy practices of such other sites. We
+encourage you to be aware when you leave our site and to read the privacy statements of each and
+every website that collects personally identifiable information. This privacy statement applies only to
+information collected by Jamberry websites.
+Email & "Opt Out" Policy
+We may use your email address provided to contact you regarding the following:
+     1.  User Registration Status (including confirmation of account signup)
+     2.  New Consultant Enrollment
+     3.  Order Status and Shipping Notification
+     4.  Online Customer Service & Product Surveys
+     5.  Major changes to the website, addition of new products or services
+     6.  Promotional and marketing materials that we think you may find useful
+     7.  Newsletters
+If you desire not to receive information about products or services we think may be of interest, you can
+change the notification options in your account settings. If you wish to not receive any of these emails,
+you may opt-out by submitting your email address to support@jamberrynails.com or by following the
+unsubscribe instructions within each email communication.
+                                                       5
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
-
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
-
-**Security**
-
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
-
-**Updating Your Information**
-
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
-
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
-
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
-
-      iii.      You may call us at: (480) 505-8800
-
-       iv.      You may fax us at: (480) 505-8844
-
-**Sending Emails**
-
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
-
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
-
-**Compliance with Laws and Law Enforcement**
-
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
-
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+Access
+You may request access to the PII that Jamberry has about you. You may also request the correction,
+amendment or deletion of PII about you that is inaccurate. Jamberry will treat requests for access,
+correction, amendment or deletion of PII about you in accordance with its internal policies and
+applicable legal requirements.
+Information Security and Integrity
+Jamberry maintains reasonable physical, administrative and technical safeguards to protect PII from
+loss, misuse, or unauthorized access, disclosure, alteration or destruction. Our personnel and the
+personnel of our affiliates are provided access to PII about you only if they have a need to know the
+information in connection with a legitimate business purpose, such as (a) the provision of services to
+you or (b) to help identify other services that Jamberry and its affiliates offer that may be of interest or
+use to you.
+Additionally, Jamberry will only use PII for the purpose which it was intentionally collected. Jamberry will
+take reasonable measures to safeguard your information and ensure that is accurate, complete and
+current.
+Enforcement
+Jamberry takes a self-assessment approach to verify that we are within compliance of this policy.
+Jamberry employees are trained to adhere with this privacy policy and Jamberry administers discipline
+to those employees who do not comply.
+Changes to This Privacy Notice
+Jamberry reserves the right to change this privacy notice. Any changes to this notice will become
+effective upon posting of the revised notice on the Internet or as required by law.
+Questions
+If you have any questions or concerns regarding this notice, please contact us either by email at
+support@jamberrynails.com, or by regular mail at Jamberry Nails, LLC, Attn: Legal Department, 1350 W
+200 S, Lindon, Utah 84042. Jamberry will investigate and try to resolve any disputes regarding the use or
+disclosure of PII according to the principles of this privacy policy.
+                                                       6
