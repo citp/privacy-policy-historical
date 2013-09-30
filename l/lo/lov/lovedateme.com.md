@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lovedateme.com privacy policy that was archived on 2011-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110909224136id_/http%3A//lovedateme.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovedateme.com privacy policy that was archived on 2013-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130930102257id_/http%3A//lovedateme.com/policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Lovedateme.com Online Dating Services
 
 **Privacy Policy**
 
@@ -33,8 +33,6 @@ Individuals under 18 years of age are not eligible to use our dating services. L
 **More Information**
 
 If you have any questions or suggestions regarding our privacy policy, please visit Contact Us page and use the form displayed to contact our customer services department.
-
-|  | 
 
 
 
