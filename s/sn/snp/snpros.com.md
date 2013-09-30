@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snpros.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531080230id_/http%3A//www.snpros.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snpros.com privacy policy that was archived on 2013-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130930102042id_/http%3A//www.snpros.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SNpros.com
 
@@ -29,4 +29,4 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. You can access all your personally identifiable information that we collect online and maintain by emailing a detailed request to [info@SNpros.com](mailto:%20info@SNpros.com). We use this procedure to better safeguard your information. You can correct factual errors in your personally identifiable information by sending us a request detailing the error. To protect your privacy and security, we will take reasonable steps to verify your identity before granting access or making corrections.
 
-Should you have other questions or concerns about these privacy policies, please send us an email at [info@SNpros.com](https://web.archive.org/web/20130531080230id_/http://www.snpros.com/privacy-policy/%22mailto:).
+Should you have other questions or concerns about these privacy policies, please send us an email at [info@SNpros.com](https://web.archive.org/web/20130930102042id_/http://www.snpros.com/privacy-policy/%22mailto:).
