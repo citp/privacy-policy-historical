@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the casinolasvegas.com privacy policy that was archived on 2013-05-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130528080615id_/http%3A//www.casinolasvegas.com/en/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the casinolasvegas.com privacy policy that was archived on 2013-09-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130930152527id_/http%3A//www.casinolasvegas.com/en/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html class=" ext-strict" xmlns="http://www.w3.org/1999/xhtml"><head>
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var originalFireEvent = document.fireEvent;</script>
@@ -7,9 +7,6 @@
 <meta http-equiv="X-UA-Compatible" content="requiresActiveX=true">
 <title>Privacy Policy | Casino Las Vegas</title>
 <meta name="description" content="Our privacy policy is second to none, your details are safe and secure with us! Find out all you need to know here">
-<meta name="robots" content="index,follow">
-<meta name="revisit-after" content="1 day">
-<meta http-equiv="Expires" content="0">
 <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
 
 <link rel="canonical" href="http://www.casinolasvegas.com/en/privacy-policy.html">
@@ -57,13 +54,13 @@
 				var cv = $.cookie('blockui');
 				
 				
-				
+				cv='off';
 
 				if (cv != 'off'  ){
 
 					$.cookie('blockui', 'off', { expires: 1 });
 
-					$.blockUI({ message: $('#question'), css: { width: '330px' } });
+					$.blockUI({ message: $('#question'), css: { width: '490px' } });
 
 					$('#yes').bind( "mouseover", function() {
 						$(this).css( "cursor", "pointer" );
@@ -71,7 +68,7 @@
 
 					$('#yes').click(function() {
 						dwn('playbtn');
-						setTimeout('redirect("/en/download.html")',1000);
+						//setTimeout('redirect("/en/download.html")',3000);
 						//setTimeout('window.location = "/en/download.html"',1000);
 						$.unblockUI();
 					});
@@ -92,18 +89,34 @@
 </head>
 <body>
 <div id="question" style="cursor:default; display:none;">
-<table width="340" height="240" border="0" align="center" cellpadding="0" cellspacing="0">
+<table width="500" height="334" border="0" align="center" cellpadding="0" cellspacing="0">
   <tbody><tr>
-    <td colspan="2"><img src="/images/en/homepage/top.png" alt="Secure Download - Casino Las Vegas" width="340" height="129"></td>
+    <td><img src="/images/en/homepage/popup/top_01.gif" alt="Casino Las Vegas" width="151" height="35"></td>
+    <td><img src="/images/en/homepage/popup/top_02.gif" alt="Casino Las Vegas" width="203" height="35"></td>
+    <td style="cursor:pointer"><input width="146" height="35" type="image" src="/images/en/homepage/popup/cancel.gif" id="no" value="No"></td>
   </tr>
   <tr>
-    <td colspan="2"><img src="/images/en/homepage/middle.png" alt="Best Online Games - Casino Las Vegas" width="340" height="70"></td>
+    <td colspan="3"><img src="/images/en/homepage/popup/middle.gif" alt="Secure Download - Casino Las Vegas" width="500" height="210"></td>
   </tr>
-  <tr>
-    <td style="cursor:pointer"><input width="170" height="41" type="image" src="/images/en/homepage/cancel.png" id="no" value="No"></td>
-    <td><img id="yes" src="/images/en/homepage/ok.png" width="170" height="41" alt="Play Now - Casino Las Vegas" border="0"></td>
+  <tr> 
+    <td><img src="/images/en/homepage/popup/bottom_01.gif" alt="Casino Las Vegas" width="151" height="89"></td>
+    <td><img id="yes" src="/images/en/homepage/popup/download_and_play.gif" width="203" height="89" alt="Download and Play - Casino Las Vegas" border="0"></td>
+    <td><img src="/images/en/homepage/popup/bottom_02.gif" alt="Casino Las Vegas" width="146" height="89"></td>
   </tr>
 </tbody></table>
+
+<!--<table width="340" height="240" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td colspan="2"><img src="/images/en/homepage/top.png" alt="Secure Download - Casino Las Vegas" width="340" height="129" /></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="/images/en/homepage/middle.png" alt="Best Online Games - Casino Las Vegas" width="340" height="70"  /></td>
+  </tr>
+  <tr>
+    <td style="cursor:pointer"><input width="170" height="41" type="image" src="/images/en/homepage/cancel.png" id="no" value="No" /></td>
+    <td><img id="yes" src="/images/en/homepage/ok.png" width="170" height="41" alt="Play Now - Casino Las Vegas" border="0" /></td>
+  </tr>
+</table>-->
 </div><div id="content_container">
     <div id="contentIn">
 
@@ -207,8 +220,8 @@ var bEnterOnQueuePage = false;
         <div id="left_inner_box">
             <div class="left_side_header">Huge progressive jackpots</div>
             <div class="inner_jackpot_ticker">            
-                <object type="application/x-shockwave-flash" data="http://tickers.playtech.com/jackpots/new_jackpot.swf?info=2&amp;casino=lasvegas&amp;font_face=Verdana&amp;currency=eur&amp;sign_align=left&amp;font_color=ffbb03&amp;bg_color=101010&amp;font_size=26" width="175" height="27">
-                <param name="movie" value="http://tickers.playtech.com/jackpots/new_jackpot.swf?info=2&amp;casino=lasvegas&amp;font_face=Verdana&amp;currency=eur&amp;sign_align=left&amp;font_color=ffbb03&amp;bg_color=101010&amp;font_size=26">
+                <object type="application/x-shockwave-flash" data="https://tickers.playtech.com/jackpots/new_jackpot.swf?info=2&amp;casino=lasvegas&amp;font_face=Verdana&amp;currency=eur&amp;sign_align=left&amp;font_color=ffbb03&amp;bg_color=101010&amp;font_size=26" width="175" height="27">
+                <param name="movie" value="https://tickers.playtech.com/jackpots/new_jackpot.swf?info=2&amp;casino=lasvegas&amp;font_face=Verdana&amp;currency=eur&amp;sign_align=left&amp;font_color=ffbb03&amp;bg_color=101010&amp;font_size=26">
                 <param name="quality" value="high">
                 <param name="bgcolor" value="#101010">                
                 <param name="wmode" value="transparent">
@@ -364,7 +377,7 @@ var bEnterOnQueuePage = false;
 
     
     <div id="bottomMenu">
-       <a href="/en/casino-tips.html">Casino Tips</a> | <a href="/en/terms.html" id="terms">Terms &amp; Conditions</a> | <a href="/en/fair-gaming.html" id="fair-gaming">Fair Gaming &amp; Security</a> | <a href="/en/privacy-policy.html" id="privacy-policy">Privacy Statement</a> | <a href="/en/help.html" id="help">Help</a> | <a href="/en/responsible-gaming.html" id="responsible-gaming">Responsible Gaming</a> | <a href="/en/sitemap.html" id="sitemap">Site Map</a> | <a href="http://www.affclub.com/" target="_blank">Affiliates</a>
+       <a href="/en/casino-tips.html">Casino Tips</a> | <a href="/en/terms.html" id="terms">Terms &amp; Conditions</a> | <a href="/en/user-license.html" id="user-license">User License</a> | <a href="/en/fair-gaming.html" id="fair-gaming">Fair Gaming &amp; Security</a> | <a href="/en/privacy-policy.html" id="privacy-policy">Privacy Statement</a> | <a href="/en/help.html" id="help">Help</a> | <a href="/en/responsible-gaming.html" id="responsible-gaming">Responsible Gaming</a> | <a href="/en/sitemap.html" id="sitemap">Site Map</a> | <a href="http://www.affclub.com/" target="_blank">Affiliates</a>
     </div>
     <div id="footer"> 
         <p class="copy">
