@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eteligis.com privacy policy that was archived on 2013-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130410093726id_/http%3A//www.eteligis.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eteligis.com privacy policy that was archived on 2013-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130930084425id_/http%3A//www.eteligis.com/privacy.aspx) for the most accurate reproduction.*
 
-# Eteligis
+# eTeligis Privacy Details
 
 Eteligis is committed to providing its online users with services and information in an efficient and secure manner. This privacy policy explains what personal information is collected on Eteligis.com from users of Eteligis' various online services, how that information is used and what measures Eteligis takes to safeguard its users' privacy.
 
