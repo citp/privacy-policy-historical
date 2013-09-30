@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the farmers.co.nz privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528115712id_/http%3A//farmers.co.nz/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farmers.co.nz privacy policy that was archived on 2013-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130930020619id_/http%3A//farmers.co.nz/privacypolicy.html) for the most accurate reproduction.*
 
 # Farmers
 
 * * *
 
-  * [FASHION REPORT](https://web.archive.org/web/20130528115712id_/http%3A//farmers.co.nz/catalogue_page.html)
+  * [INSPIRATION](https://web.archive.org/web/20130930020619id_/http%3A//farmers.co.nz/ss13-home.html)
   * [CATALOGUES](http://catalogues.farmers.co.nz/)
   * [FARMERS CLUB](http://www.farmersclub.co.nz/)
-  * [FARMERS BEAUTY](http://www.farmersbeauty.co.nz/)
-  * [GIFT CARD](https://web.archive.org/web/20130528115712id_/http%3A//farmers.co.nz/giftcards.html)
-  * [STORE DETAILS](https://web.archive.org/web/20130528115712id_/http%3A//farmers.co.nz/stores.html)
-  * [WHAT'S ON](https://web.archive.org/web/20130528115712id_/http%3A//farmers.co.nz/whatson.html)
+  * [FARMERS BEAUTY](http://www.beautyclub.co.nz/)
+  * [GIFT CARD](https://web.archive.org/web/20130930020619id_/http%3A//farmers.co.nz/giftcards.html)
+  * [STORE DETAILS](https://web.archive.org/web/20130930020619id_/http%3A//farmers.co.nz/stores.html)
+  * [WHAT'S ON](https://web.archive.org/web/20130930020619id_/http%3A//farmers.co.nz/whatson.html)
 
 
 
@@ -57,23 +57,19 @@ We are committed to protecting your privacy. We use the information we collect o
 
 We welcome your questions and comments about privacy at Farmers. Please send e-mails to [contactus@farmers.co.nz](mailto:contactus@farmers.co.nz)
 
-  * [](http://catalogues.farmers.co.nz/Fashion_and_Home_Value/4814/Catalogue/#/?page=18)
+  * [](https://web.archive.org/web/20130930020619id_/http%3A//farmers.co.nz/comp-monthly-prize-september2013.html)
 
-Manchester Mania is now on. Stock up now, the cooler months are coming.
+This September, two lucky Farmers Club members will win a $5,000 Pascoes Gift Card!
 
-  * [](http://catalogues.farmers.co.nz/Fashion_and_Home_Value/4814/Catalogue/#/?page=2)
+  * [](https://web.archive.org/web/20130930020619id_/http%3A//farmers.co.nz/comp-monthly-fpf-10-chance-bonus-september-2013.html)
 
-Buy 2 or more and save 30% on Women's Clothing*
-
-  * [](http://catalogues.farmers.co.nz/Fashion_and_Home_Value/4814/Catalogue/#/?page=6)
-
-Buy 2 or more and save 25% on Men's Clothing and Accessories*
+Pay with your **Farmers Finance Card** and you'll get 10 chances to win 1 of 10 Apple 16gb iPod Nanos throughout September!
 
   * [](http://www.facebook.com/farmersyourstore)
 
 Join us & over 70,000 fans for exclusive competitions, polls and more!
 
-  * [](https://web.archive.org/web/20130528115712id_/http%3A//farmers.co.nz/stores.html)
+  * [](https://web.archive.org/web/20130930020619id_/http%3A//farmers.co.nz/stores.html)
 
 To find your nearest store locations and trading hours
 
@@ -94,5 +90,14 @@ Check out our fashion and beauty events happening at Farmers stores.
 
 You'll get exclusive access to special deals and discounts.
 
+
+
+
+  1. 1
+  2. 2
+
+
+  * Previous
+  * Next
 
 
