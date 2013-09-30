@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelimited.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510061425id_/http%3A//www.thelimited.com/privacy-policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelimited.com privacy policy that was archived on 2013-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130930093558id_/http%3A//www.thelimited.com/customer-service/privacy-security/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | THE LIMITED
 
@@ -6,7 +6,7 @@
 
 Welcome! This Privacy Policy is intended to explain what types of information we collect about you, and how we use and share that information. One section of this Privacy Policy also addresses what happens with information we collect on The Limited pages on social media sites, such as Facebook, Twitter, and YouTube ("Social Media Pages"). 
 
-This Privacy Policy applies only to the information collected online by THELIMITED.com, eloquii.com and affiliates or through our Social Media Pages.
+This Privacy Policy applies only to the information collected online by THELIMITED.com and affiliates or through our Social Media Pages.
 
   * WHAT TYPE OF INFORMATION DOES THELIMITED.COM COLLECT ONLINE?
   * WHAT TYPE OF INFORMATION DOES THE LIMITED COLLECT ON PAGES IT HAS ON SOCIAL MEDIA SITES?
@@ -117,7 +117,7 @@ BACK TO TOP
 
 ###### UPDATING YOUR PERSONAL INFORMATION
 
-We prefer to keep your personal information accurate and up-to-date. To do this, we provide you with the opportunity to update or modify your THELIMITED.com Account when you [Log In](https://www.thelimited.com/on/demandware.store/Sites-ltd-Site/default/Account-Show). 
+We prefer to keep your personal information accurate and up-to-date. To do this, we provide you with the opportunity to update or modify your THELIMITED.com Account when you [Log In](https://www.thelimited.com/account). 
 
 BACK TO TOP
 
