@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the catchafire.org privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625045155id_/http%3A//www.catchafire.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catchafire.org privacy policy that was archived on 2013-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130930133914id_/https%3A//www.catchafire.org/about/privacy) for the most accurate reproduction.*
 
 # Catchafire - Privacy Policy
 
-**Our Commitment to Privacy**
+#### Our Commitment to Privacy 
 
 Catchafire is committed to protecting your privacy and will make reasonable efforts to provide a safe and secure user experience. This privacy policy (the " **Privacy Policy** ") sets forth the online data collection and usage policies that apply to www.catchafire.org (the " **Site** "). The Privacy Policy does not apply to information we collect in any other manner (e.g., email, phone calls, or written documents). Please note that your use of the Site and its services is subject to our Terms of Use which you may access from our homepage or other Site pages by clicking on Terms of Use. 
 
