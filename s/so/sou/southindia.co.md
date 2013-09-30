@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southindia.co privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430152543id_/http%3A//www.instaongo.com/home/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southindia.co privacy policy that was archived on 2013-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130930094846id_/http%3A//www.instaongo.com/home/privacy_policy) for the most accurate reproduction.*
 
 # Instagram Photo viewer on the Web
 
