@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shapeways.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515121828id_/http%3A//www.shapeways.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shapeways.com privacy policy that was archived on 2013-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130930081901id_/http%3A//www.shapeways.com/legal/privacy-statement) for the most accurate reproduction.*
 
-# Shapeways
+# Shapeways | privacy statement
 
 Shapeways, Inc. and its affiliates collects and uses your personal data such as your name, e-mail address and your place of living in order to provide you with the Shapeways services. When you register on the Website, we ask for your name and email address in order to create an account for you. When you send an order to us, we ask for your delivery address to be able to fulfill your orders. Your email address or avatar will be used or to enable you to communicate with other users of the Website. 
 
@@ -41,4 +41,4 @@ Our Website may provide links to other websites for your convenience and informa
 
 Should you have a problem with our use of your personal data, please let us know and we will make all reasonable efforts to meet your concerns. In case you have any questions or comments regarding this Privacy Statement, please [contact us](https://web.archive.org/contact/contact-form?email_to=service@shapeways.com).
 
-We reserve the right to change this privacy statement from time to time and will post any revisions on our Website and may also provide notice to you through the service or via email. Therefore we encourage you to check the Website often to read the latest version. Use of information we collect now is subject to the Privacy Statement in effect at the time such information is used.
+We reserve the right to change this privacy statement from time to time and will post any revisions on our Website and may also provide notice to you through the service or via email. Therefore we encourage you to check the Website often to read the latest version. Use of information we collect now is subject to the Privacy Statement in effect at the time such information is used. 
