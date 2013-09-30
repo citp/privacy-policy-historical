@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the missosology.org privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624064003id_/http%3A//missosology.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the missosology.org privacy policy that was archived on 2013-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130930060856id_/http%3A//missosology.org/privacy-policy) for the most accurate reproduction.*
 
 # MISSOSOLOGY - Privacy Policy
 
