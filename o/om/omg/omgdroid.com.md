@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the omgdroid.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531190912id_/http%3A//www.omgdroid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omgdroid.com privacy policy that was archived on 2013-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130930150823id_/http%3A//www.omgdroid.com/privacy-policy) for the most accurate reproduction.*
 
-# OMG!Droid | Privacy Policy - OMG!Droid
+# Privacy Policy - OMG!Droid
 
 OMG!Droid values your privacy, whether you just browse the Web Site or purchase products. We strive to make our privacy practices in keeping with the highest standards on the Web, and we hope you’ll agree. This privacy policy describes the kinds of information we collect, how we collect it and how we use it.
 
