@@ -1,100 +1,84 @@
-> *The following text is extracted and transformed from the sociallever.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sociallever.com privacy policy that was archived on 2013-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130930024909id_/http%3A//www.sociallever.com/privacy.php) for the most accurate reproduction.*
 
-# Legal Agreement
+# "Limited Special Offer: Get FB Business in Box" Monster PLR for Dirt Cheap
 
-**Go Daddy Respects Your Privacy**
+## Privacy Policy  
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+  
+Commitment to protect your privacy
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+In your relationship with SocialLever.com, you share personal information with us. Such information may include your first name, email address and other personal details in connection with transactions entered into by you with us. We understand how important it is to protect your personal information. This document sets out our privacy policy commitment in respect of personal information you provide to us. Further privacy information may apply depending on the business in 
 
-**Information Collection and Use**
+SocialLever.com with which you deal with. If additional terms and conditions apply to you, they will appear on the website. We encourage you to visit our website regularly for any updates to our privacy policies.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+What we collect
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+SocialLever.com will collect and hold your personal information for the purpose of:  
+•    providing you with the relevant product and/or service;  
+•    letting you know about other products and/or services which might interest you; or  
+•    assisting us generally in managing your transactions with us.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+We may collect the following information:•    Name  
+•    Contact information including email address  
+•    Demographic information such as postcode, preferences and interests  
+•    other information relevant to customer surveys and/or offers
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+What we do with the information we gather
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+We may keep and file all personal information you provide when dealing with us to assist us in providing you with our services and information of interest in respect of your business. For example, a member of 
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+SocialLever.com may send publications or other market information on our products and services to you or follow up on your interest in particular products and services. SocialLever.com discloses your personal information to those employees or advisers who need to know that information to assist us in providing you with our range of products and services. We may also disclose information to affiliates and other third parties necessary to process your transactions or service your account (including our share registry, print service providers, call centers and mail houses, our accountants, auditors and lawyers and credit reporting agencies).
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+We may also disclose your personal information in corporate transactions involving the transfer of all or part of the assets or business of a member of 
 
-**Security**
+SocialLever.com or in a corporate restructure. If we do this, we generally require these parties to protect your information in the same way we do. We may also be required or authorized by law to disclose your personal information. For example, we may disclose your personal information to a court in response to a subpoena. We will also disclose information to other persons where you have provided your consent to do so
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+What rights do you have in relation to personal information which we collect and hold?
 
-**Updating Your Information**
+SocialLever.com takes all reasonable steps to ensure that the personal information we collect, use and disclose is accurate, complete and up-to-date. If you become aware of any errors in your personal information or you change your personal details, we ask you to contact us as soon as possible so that we may update our records. You can contact our Privacy Officer if you would like details of your personal information which we may hold about you or if you would like us to correct it. We will disclose to you such information, subject to certain exceptions allowed by law. We may require you to complete a request form before disclosing information. We also reserve the right to charge a fee. You may also contact our Privacy Officer to request us to stop using your personal information to contact you about our products and services. If you no longer conduct business with us, you can ask us to remove your personal information we hold about you. Subject to our legal obligations and responsibilities, we will take reasonable steps to destroy or de-identify your personal information.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+How we use cookies
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+We use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
-      iii.      You may call us at: (480) 505-8800
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
 
-       iv.      You may fax us at: (480) 505-8844
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.  
+This privacy policy applies to the various websites operated by 
 
-**Sending Emails**
+SocialLever.com  under various domain names. SocialLever.com  operates websites which may utilise ‘cookies’ to collect personal information. If you transact electronically with a member of SocialLever.com  you should refer to the website of that member for more information on its website privacy and security procedures.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+Information collected from this website
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+When you visit a website of 
 
-**Compliance with Laws and Law Enforcement**
+SocialLever.com, we may collect the following information from you: domain name, your name, information you volunteer such as email addresses. We may also collect statistical data, such as the date and times of visits as well as the number and pages viewed by each visitor, which is utilized to evaluate the performance and usefulness of our website.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+Email usage
 
-**Third Party Service Providers**
+While we take care that the personal information you give us on our websites is protected, the Internet is not a secure environment. If you send us information, including your email address, it is sent at your own risk. Our websites do not capture email addresses without your permission. If, however, you provide your email address to us, it may be used by 
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+SocialLever.com to send you information relating to our and related products and services. If we send you an email which you do not wish to receive in the future, please use the unsubscribe link or follow the unsubscribe instructions at the bottom of that email or notify us and your email address will be removed from our system.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+Private information security
 
-**Supplementation of Information**
+SocialLever.com  takes all reasonable security measures to protect personal information from loss, unauthorized access, destruction, misuse, modification or disclosure. For your safety and protection, your credit card information is not stored on our servers. Our payment gateway provider PayPal keeps this information encrypted and secure on your behalf. We do not, however, accept any responsibility for the unauthorized access of personal information held by SocialLever.com. You may be able to access external websites by clicking on links we have provided. Those other websites are not subject to the privacy standards of SocialLever.com  and we are not responsible for their privacy practices or the content of such other websites. You should contact those websites directly to ascertain their privacy standards, policies and procedures.
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+3rd party disclosure
 
-**Contests/Surveys**
+Personal details, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without the consent of the customer, other than for the express purpose of delivering the purchased product or service requested by the customer.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+Who do you contact?
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+Our Privacy Officer can be contacted at:  
+E-mail: support@sociallever.com
 
-**Tell-A-Friend**
+Changes to this privacy statement
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+We may change our privacy policies from time to time to comply with new laws or industry codes of practice which are developed. It is your responsibility to refer to our privacy policies from time to time to familiarize yourself with any changes.
 
-**What Happens to my Personal Information if I Opt Out?**
+  
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
