@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fleck.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603113709id_/http%3A//www.bigfishgames.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fleck.com privacy policy that was archived on 2013-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131001163510id_/http%3A//www.bigfishgames.com/company/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Big Fish Games, Inc.
 
