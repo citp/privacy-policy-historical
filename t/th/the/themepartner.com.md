@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themepartner.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601093526id_/http%3A//www.themepartner.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themepartner.com privacy policy that was archived on 2013-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131001043544id_/http%3A//www.themepartner.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ThemePartner
 
