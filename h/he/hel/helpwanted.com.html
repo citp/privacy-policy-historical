@@ -1,336 +1,87 @@
-<!--The following is the downloaded HTML source of the helpwanted.com privacy policy that was archived on 2008-07-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080718131226id_/http%3A//www.helpwanted.com/Application/PrivacyPolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the helpwanted.com privacy policy that was archived on 2013-10-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131001063329id_/http%3A//www.helpwanted.com/Application/PrivacyPolicy.asp) for the most accurate reproduction.-->
 
-<html><head><script language="Javascript">
-
-var dtCh= "/";
-var minYear=1900;
-var maxYear=2100;
-
-function isInteger(s){
-	var i;
-    for (i = 0; i < s.length; i++){
-        // Check that current character is number.
-        var c = s.charAt(i);
-        if (((c < "0") || (c > "9"))) return false;
-    }
-    // All characters are numbers.
-    return true;
-}
-
-function stripCharsInBag(s, bag){
-	var i;
-    var returnString = "";
-    // Search through string's characters one by one.
-    // If character is not in bag, append to returnString.
-    for (i = 0; i < s.length; i++){
-        var c = s.charAt(i);
-        if (bag.indexOf(c) == -1) returnString += c;
-    }
-    return returnString;
-}
-
-function daysInFebruary (year){
-	// February has 29 days in any year evenly divisible by four,
-    // EXCEPT for centurial years which are not also divisible by 400.
-    return (((year % 4 == 0) && ( (!(year % 100 == 0)) || (year % 400 == 0))) ? 29 : 28 );
-}
-function DaysArray(n) {
-	for (var i = 1; i <= n; i++) {
-		this[i] = 31
-		if (i==4 || i==6 || i==9 || i==11) {this[i] = 30}
-		if (i==2) {this[i] = 29}
-   }
-   return this
-}
-
-function isDate(dtStr){
-	var daysInMonth = DaysArray(12)
-	var pos1=dtStr.indexOf(dtCh)
-	var pos2=dtStr.indexOf(dtCh,pos1+1)
-	var strMonth=dtStr.substring(0,pos1)
-	var strDay=dtStr.substring(pos1+1,pos2)
-	var strYear=dtStr.substring(pos2+1)
-	strYr=strYear
-	if (strDay.charAt(0)=="0" && strDay.length>1) strDay=strDay.substring(1)
-	if (strMonth.charAt(0)=="0" && strMonth.length>1) strMonth=strMonth.substring(1)
-	for (var i = 1; i <= 3; i++) {
-		if (strYr.charAt(0)=="0" && strYr.length>1) strYr=strYr.substring(1)
-	}
-	month=parseInt(strMonth)
-	day=parseInt(strDay)
-	year=parseInt(strYr)
-	if (pos1==-1 || pos2==-1){
-		alert("The date format should be : mm/dd/yyyy")
-		return false
-	}
-	if (strMonth.length<1 || month<1 || month>12){
-		alert("Please enter a valid month")
-		return false
-	}
-	if (strDay.length<1 || day<1 || day>31 || (month==2 && day>daysInFebruary(year)) || day > daysInMonth[month]){
-		alert("Please enter a valid day")
-		return false
-	}
-	if (strYear.length != 4 || year==0 || year<minYear || year>maxYear){
-		alert("Please enter a valid 4 digit year between "+minYear+" and "+maxYear)
-		return false
-	}
-	if (dtStr.indexOf(dtCh,pos2+1)!=-1 || isInteger(stripCharsInBag(dtStr, dtCh))==false){
-		alert("Please enter a valid date")
-		return false
-	}
-return true
-}
-
-function ValidateForm(){
-	var dt1=document.EDITFORM.efDate1
-	var dt2=document.EDITFORM.efDate2
-	var dt3=document.EDITFORM.efDate3
-	var dt4=document.EDITFORM.efDate4
-	var dt5=document.EDITFORM.efDate5
-	var dt6=document.EDITFORM.efDate7
-	var dt6=document.EDITFORM.efDate8
-	var dt7=document.EDITFORM.efDate9
-	if (isDate(dt1.value)==false){
-		dt1.focus()
-		return false
-	}
-	if (isDate(dt2.value)==false){
-		dt2.focus()
-		return false
-	}
-	if (isDate(dt3.value)==false){
-		dt3.focus()
-		return false
-	}
-	if (isDate(dt4.value)==false){
-		dt4.focus()
-		return false
-	}
-	if (isDate(dt5.value)==false){
-		dt5.focus()
-		return false
-	}
-	if (isDate(dt6.value)==false){
-		dt6.focus()
-		return false
-	}
-	if (isDate(dt7.value)==false){
-		 dt7.focus()
-		return false
-	}
-	if (isDate(dt8.value)==false){
-		dt8.focus()
-		return false
-	}
-	if (isDate(dt9.value)==false){
-		dt9.focus()
-		return false
-	}
-    return true
- }
-
-</script>
-
-<script language="JavaScript">
-<!--
-// Declaring required variables
-var digits = "0123456789";
-// non-digit characters which are allowed in phone numbers
-var phoneNumberDelimiters = ". ";
-// characters which are allowed in international phone numbers
-// (a leading + is OK)
-var validWorldPhoneChars = phoneNumberDelimiters + "+";
-// Minimum no of digits in an international phone no.
-var minDigitsInIPhoneNumber = 1;
-
-function isInteger(s)
-{   var i;
-    for (i = 0; i < s.length; i++)
-    {
-        // Check that current character is number.
-        var c = s.charAt(i);
-        if (((c < "0") || (c > "9"))) return false;
-    }
-    // All characters are numbers.
-    return true;
-}
-
-function stripCharsInBag(s, bag)
-{   var i;
-    var returnString = "";
-    // Search through string's characters one by one.
-    // If character is not in bag, append to returnString.
-    for (i = 0; i < s.length; i++)
-    {
-        // Check that current character isn't whitespace.
-        var c = s.charAt(i);
-        if (bag.indexOf(c) == -1) returnString += c;
-    }
-    return returnString;
-}
-
-function checkInternationalPhone(strPhone){
-s=stripCharsInBag(strPhone,validWorldPhoneChars);
-return (isInteger(s) && s.length >= minDigitsInIPhoneNumber);
-}
-
-function ValidateInt(){
-	var integer=document.frmSample.txtPhone
-
-	if ((integer.value==null)||(integer.value=="")){
-		alert("Please Enter Decimal value")
-		integer.focus()
-		return false
-	}
-	if (checkInternationalPhone(integer.value)==false){
-		alert("Please Enter a Valid Number")
-		integer.value=""
-		integer.focus()
-		return false
-	}
-	return true
- }
-
-//-->
-</script>
-
-
-
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>
-	 HelpWanted.com
+	
 </title>
-<meta name="verify-v1" content="KPiedTdMoYEdEVBmqVyFWx6R57ED78yDubscNtX1MWs=">
+<meta name="google-site-verification" content="MAh_Tm_ukyVMZIAvAnkXoEzATpbf9iLzgWKGfR7uzDE">
+<meta name="y_key" content="49167790ad1c42de">
+<meta name="msvalidate.01" content="98D3AE79167DCDBE972827F4B5F4452B">
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
-<meta name="DESCRIPTION" content="Help wanted - A job search site. A job bank. Candidates can search jobs, wanted ads, find a job opportunity. Post jobs including local jobs, regional jobs, national jobs and home based jobs at no cost.">
+<meta name="DESCRIPTION" content="Job Wanted Ads, Classifieds. HelpWanted.com is an obvious name in recruitment and job search. Find employment or work. Search 1000s of local jobs from companies now hiring in your area.">
 <meta name="KEYWORDS" content="jobs, job, job search, employment, career, careers, career change, work, job listing, job listings, job bank, employment opportunity, job description, job descriptions, job opportunity, job opportunities, nursing job, nursing jobs, job online, jobs online, online jobs, usa job, usa jobs, jobs for teens, job opening, job openings, work, California job, California jobs, employment application, employment applications, part time job, part time jobs, state job, state jobs, help wanted, head hunter, head hunters, headhunter, headhunters,monster jobs,hot jobs,summer jobs,job opportunity,help wanted,helpwanted,home jobs,helpwanted classifieds,help wanted jobs">
 <link href="http://www.HelpWanted.com/Application/AppHtmlTxt/AppMain.css" rel="stylesheet" type="text/css">
+<link href="http://www.HelpWanted.com/Application/AppHtmlTxt/SH.css" rel="stylesheet" type="text/css">
+<!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="css/i6low.css" /><![endif]-->
 
-<link href="http://www.HelpWanted.com/fckeditor/_samples/sample.css" rel="stylesheet" type="text/css">
-<meta name="verify-v1" content="KPiedTdMoYEdEVBmqVyFWx6R57ED78yDubscNtX1MWs=">
+<script type="text/javascript" src="http://www.indeed.com/ads/apiresults.js"></script>
 </head>
 <body>
-	<table width="90%" border="0" align="center" cellpadding="0" cellspacing="0">
+<table width="90%" border="0" align="center" cellpadding="0" cellspacing="0">
 		<tbody><tr>
 			<td width="90%" height="146" align="left" valign="top">
 				<table width="100%" border="0" cellspacing="0" cellpadding="0">
 
-					<tbody><tr>
-						<td colspan="3">
-							<div id="navcontainerTop">
-								<table width="100%" border="0" cellpadding="0" cellspacing="0">
-									<tbody><tr>
-										<td width="12" background="http://www.HelpWanted.com/Application/AppImages/left_bg.gif">
-											<img src="http://www.HelpWanted.com/Application/AppImages/trans.gif" width="10" height="15">
-										</td>
-										<td width="100%" align="center">
-											<div align="center">
-												<table border="0" align="center" cellpadding="0" cellspacing="0">
-													<tbody><tr>
-														<td>
-															<div align="center">
-																<ul id="navlistTop">
-																	<li class="act_auw"><a href="http://www.HelpWanted.com?tk=trfuser&amp;siteurl=http://www.AutoWanted.com">Auto Wanted</a></li><li class="act_ccw"><a href="http://www.HelpWanted.com?tk=trfuser&amp;siteurl=http://www.CreditCardWanted.com">Credit Card Wanted</a></li><li class="act_how"><a href="http://www.HelpWanted.com?tk=trfuser&amp;siteurl=http://www.HomeWanted.com">Home Wanted</a></li><li class="act_rcw"><a href="http://www.HelpWanted.com?tk=trfuser&amp;siteurl=http://www.RecipeWanted.com">Recipe Wanted</a></li><li class="act_vrw"><a href="http://www.HelpWanted.com?tk=trfuser&amp;siteurl=http://www.VacationRentalWanted.com">Vacation Rental Wanted</a></li>
-																</ul>
-															</div>
-															<div style="clear:both">
-															</div>
-														</td>
-													</tr>
-												</tbody></table>
-											</div>
-										</td>
-										<td width="10" background="http://www.HelpWanted.com/Application/AppImages/right_bg.gif">
-											<img src="http://www.HelpWanted.com/Application/AppImages/trans.gif" alt="" width="10" height="15">
-										</td>
-									</tr>
-								</tbody></table>
-							</div>
-						</td>
-					</tr>
 
-					<tr>
+					<tbody><tr>
 						<td width="12" background="http://www.HelpWanted.com/Application/AppImages/left_bg.gif">
 						</td>
 						<td width="100%" height="152" align="left" valign="top" background="http://www.HelpWanted.com/Application/AppImages/background_bg.gif">
 <!-- start header -->
 							<table width="100%" height="157" border="0" cellpadding="0" cellspacing="0">
 								<tbody><tr>
-									<td width="18" height="19">
+									<td width="4" height="19">
 									</td>
-									<td width="154" height="97" align="left" valign="middle">
-										<script type="text/javascript"><!--
-google_ad_client = "pub-3239415753485316";
-google_ad_width = 125;
-google_ad_height = 125;
-google_ad_format = "125x125_as";
-google_ad_type = "text";
-google_ad_channel = "";
-google_color_border = "FFFFFF";
-google_color_bg = "FFFFFF";
-google_color_link = "0000FF";
-google_color_text = "000000";
-google_color_url = "008000";
-google_ui_features = "rc:10";
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
+									<td width="4" height="97" align="left" valign="middle">
+										  
 									</td>
-									<td width="100%" align="center" valign="middle">
-										<div align="center">
+									<td width="400" align="left" valign="middle">
+										<div align="left">
 											<table border="0" cellspacing="0" cellpadding="0">
-												<tbody><tr>
-<!--												<td><img src="http://www.HelpWanted.com/Application/AppImages/site_logo_left.jpg" width="134" height="77" ></td> -->
-													<td width="366" align="center"><a href="http://www.HelpWanted.com"><img src="http://www.HelpWanted.com/Application/AppImages/site_logo.gif" vspace="0" border="0"></a></td>
-<!--												<td><img src="http://www.HelpWanted.com/Application/AppImages/site_logo_right.jpg" width="134" height="77" ></td> -->
+												<tbody><tr><td>
+													</td><td width="366" align="center"><a href="http://www.HelpWanted.com"><img alt="Help Wanted Sign, America's most wanted jobs" src="http://www.HelpWanted.com/Application/AppImages/site_logo.gif" vspace="0" border="0"></a><br><a href="javascript:bookmark('http://www.HelpWanted.com/','Help Wanted');"><strong>Bookmark this Site</strong></a></td>
+												
 												</tr>
 											</tbody></table>
 										</div>
 									</td>
-									<td width="154" align="left" valign="middle">
-										<script type="text/javascript"><!--
-google_ad_client = "pub-3239415753485316";
-/* 120x90, created 5/22/08 */
-google_ad_slot = "2952873705";
-google_ad_width = 120;
-google_ad_height = 90;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
+
+									<td>
+<table width="94%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td colspan="2"><form id="form1" name="form1" method="post" action="http://www.helpwanted.com/search-jobs">
+      
+      <div class="searchBox">
+        <p class="wd1 MrgBtm"><strong>Keywords</strong></p>
+        <p class="wd1 MrgBtm"><strong>Location</strong></p>
+        <div class="clr"></div>
+  <!--
+      <p class="wd1 PaddTop"><input type="text" name="qry" value="Job Title, Skills or Company" onFocus="this.value=''" /></p>
+      <p class="wd1 PaddTop"><input type="text" name="loc" value="City, State or ZIP" onFocus="this.value=''" /></p>
+-->
+        <p class="wd1 PaddTop"><input type="text" name="qry" value=""></p>
+        <p class="wd1 PaddTop"><input type="text" name="loc" value=""></p>
+        <p class="wd2"><select name="mil"><option value="exact">Exact</option><option value="5">within 5 miles</option><option value="10">within 10 miles</option><option value="15">within 15 miles</option><option value="25" selected="">within 25 miles</option><option value="50">within 50 miles</option></select></p>
+        <p class="wd2"><input type="submit" value="Search Jobs" class="wdauto"></p>
+        <div class="clr"></div>
+        
+        <p class="wd1 PaddTop smfnt">CPA, Nursing, Plumber, etc</p>
+        <p class="wd1 PaddTop smfnt">Miami FL, 02110, California, etc</p>
+        <p class="wd2 smfnt"></p>
+        <p class="wd2 smfnt"></p>
+        <div class="clr"></div>
+        </div>
+      </form>
+    </td>
+    </tr>
+  <tr>
+    <td valign="bottom"><h1 style="font-size:22px; font-weight:bold; color:#6a2100; margin:0 0 -16px 0">Help Wanted Ads</h1></td>
+    <td><a rel="nofollow" href="post-classifieds-jobs" class="postjobbutton" title="Post Jobs ($1/day)">Post Jobs ($1/day)</a></td>
+  </tr>
+</tbody></table>
 									</td>
-									<td width="18" height="19">
-									</td>
-								</tr>
-								<tr>
-									<td colspan="5" bgcolor="#E73438" height="29">
-										<table cellspacing="0" cellpadding="0" border="0" width="100%" valign="bottom">
-											<tbody><tr>
-												<td width="18%" height="27" align="left" valign="middle">
-													<img src="http://www.HelpWanted.com/Application/AppImages/home.gif" width="123" height="19" border="0" usemap="#MapMap">
-														<map name="MapMap">
-															<area shape="rect" coords="4,2,26,18" href="http://www.HelpWanted.com">
-															<area shape="rect" coords="35,3,57,18" href="http://www.HelpWanted.com/sitemap.asp">
-															<area shape="rect" coords="69,5,90,26" href="mailto:admin@HelpWanted.com">
-															<area shape="rect" coords="96,2,118,28" href="http://www.HelpWanted.com/Application/FAQ.asp">
-														</map>
-												</td>
-												<td align="center" valign="bottom" style="padding-left:15px;">
-													<div id="navbar">
-														<ul>
-															<li><a href="http://www.HelpWanted.com/Job-Search/"><span class="left">&nbsp;</span><span class="right">Jobs</span></a></li><li><a href="http://www.HelpWanted.com/Membership/"><span class="left">&nbsp;</span><span class="right">My HelpWanted</span></a></li>
-														</ul>
-													</div>
-<!-- /navbar -->
-												</td>
-												<td width="18%" align="center">&nbsp;
-												</td>
-											</tr>
-										</tbody></table>
-									</td>
+
 								</tr>
 							</tbody></table>
 <!-- end header -->
@@ -338,23 +89,39 @@ google_ad_height = 90;
 						<td width="10" background="http://www.HelpWanted.com/Application/AppImages/right_bg.gif">&nbsp;
 						</td>
 					</tr>
+
 					<tr>
 						<td background="http://www.HelpWanted.com/Application/AppImages/left_bg.gif">&nbsp;
 						</td>
 						<td>
 							<table width="100%" border="0" cellspacing="0" cellpadding="0">
 								<tbody><tr>
-									<td width="177" align="left" valign="top" class="border">
+									<td align="left" valign="top" class="border2">
 <!-- left column -->
 <!-- Heading -->
-										<div class="login">You are not logged in
-											<br>
-											<font face=""><a href="http://www.HelpWanted.com/Membership/XUDLogin.asp">Login Here</a></font>
-										</div> 
-										<table width="100%" height="25" cellspacing="0" cellpadding="0"><tbody><tr><td align="center" background="http://www.HelpWanted.com/Application//AppImages/back.gif" style="font-size:12px; color:#356AA0; font-weight:bold; font-family:Arial, Helvetica, sans-serif;padding-left:8px;" ;=""><span class="title" style="color:#fff" onclick="toggle_filter('leftnav',this)">Jobs</span></td></tr></tbody></table><ul id="leftnav"><div id="navcontainer" style="margin-bottom:10px;"><ul id="navClass"><li id="active"><a href="http://www.HelpWanted.com/Job-Search/">Job Search By Category </a></li><li><a href="http://www.HelpWanted.com/Job-Search/CPSearch.asp">Advanced Job Search</a></li><li><a href="http://www.HelpWanted.com/Job-Search/CPSearch.asp?CMD=HOT">Hot Jobs</a></li><li><a href="http://www.HelpWanted.com/Job-Search/CPSearch.asp?CMD=NEW">Newest Jobs</a></li><li><a href="http://www.HelpWanted.com/Job-Search/CPMemorizedAds.asp">Favorite Jobs</a></li><li><a href="http://www.HelpWanted.com/Job-Search/CPAddClass.asp">Post A Job <font style="bold" color="red">(FREE)</font></a></li><li><a href="http://www.HelpWanted.com/Job-Search/CPManageAds.asp">My Posted Jobs</a></li></ul></div></ul>
-										
-										<table width="100%" height="25" cellspacing="0" cellpadding="0"><tbody><tr><td align="center" background="http://www.HelpWanted.com/Application//AppImages/back.gif" style="font-size:12px; color:#356AA0; font-weight:bold; font-family:Arial, Helvetica, sans-serif;padding-left:8px;" ;=""><span class="title" style="color:#fff" onclick="toggle_filter('leftnav1',this)">My HelpWanted&nbsp;</span></td></tr></tbody></table><ul id="leftnav"><div id="navcontainer" style="margin-bottom:10px;"><ul id="navlist"><li><a href="http://www.HelpWanted.com/Membership/XUDRegister.asp">Register</a></li><li><a href="http://www.HelpWanted.com/Membership/XUDRegNotify.asp">Mailing List Signup</a></li><li><a href="http://www.HelpWanted.com/Membership/XUDMessageBase.asp">My Messages</a></li><li><a href="http://www.HelpWanted.com/Membership/XUDChangePassword.asp">Change Password</a></li><li><a href="http://www.HelpWanted.com/Membership/XUDLostPassword.asp">Forgot Password</a></li><li><a href="http://www.HelpWanted.com/Membership/XUDEditRegistration.asp">Edit Your Registration</a></li><li><a href="http://www.HelpWanted.com/Membership/XUDEditUserProfile.asp">Edit Your Profile</a></li></ul></div><li class="line"><br><br><br></li></ul>
-									</td>
+
+										<table width="130" border="0" cellpadding="0" cellspacing="0">
+										  <tbody><tr>
+										    <td valign="top">
+                                            
+                                            <table width="130" height="25" cellspacing="0" cellpadding="0">
+										      <tbody><tr>
+										        <td background="http://www.HelpWanted.com/Application/AppImages/back_22.gif" style="font-size:12px; color:#356AA0; font-weight:bold; font-family:Arial, Helvetica, sans-serif;padding-left:8px;" ;=""><div align="center" style="line-height:13px; padding:4px 0 0 0;"> <span class="title" style="color:#fff" onclick="toggle_filter('leftnav1',this)">Regions</span> </div></td>
+									          </tr>
+									        </tbody></table>
+									  <!-- sub section -->
+							
+                            			<ul id="leftnav">
+											<div id="navcontainer" style="margin-bottom:7px;">
+												<ul id="navlist1">
+													<li class="act_how"><a href="http://www.helpwanted.com/alabama-jobs">Alabama</a></li><li class="act_how"><a href="http://www.helpwanted.com/alaska-jobs">Alaska</a></li><li class="act_how"><a href="http://www.helpwanted.com/arizona-jobs">Arizona</a></li><li class="act_how"><a href="http://www.helpwanted.com/arkansas-jobs">Arkansas</a></li><li class="act_how"><a href="http://www.helpwanted.com/california-jobs">California</a></li><li class="act_how"><a href="http://www.helpwanted.com/bay-area-jobs">Bay Area (CA)</a></li><li class="act_how"><a href="http://www.helpwanted.com/colorado-jobs">Colorado</a></li><li class="act_how"><a href="http://www.helpwanted.com/connecticut-jobs">Connecticut</a></li><li class="act_how"><a href="http://www.helpwanted.com/delaware-jobs">Delaware</a></li><li class="act_how"><a href="http://www.helpwanted.com/district-of-columbia-jobs">Dist. of Columbia</a></li><li class="act_how"><a href="http://www.helpwanted.com/florida-jobs">Florida</a></li><li class="act_how"><a href="http://www.helpwanted.com/georgia-jobs">Georgia</a></li><li class="act_how"><a href="http://www.helpwanted.com/guam-jobs">Guam</a></li><li class="act_how"><a href="http://www.helpwanted.com/hawaii-jobs">Hawaii</a></li><li class="act_how"><a href="http://www.helpwanted.com/idaho-jobs">Idaho</a></li><li class="act_how"><a href="http://www.helpwanted.com/illinois-jobs">Illinois</a></li><li class="act_how"><a href="http://www.helpwanted.com/indiana-jobs">Indiana</a></li><li class="act_how"><a href="http://www.helpwanted.com/iowa-jobs">Iowa</a></li><li class="act_how"><a href="http://www.helpwanted.com/kansas-jobs">Kansas</a></li><li class="act_how"><a href="http://www.helpwanted.com/kentucky-jobs">Kentucky</a></li><li class="act_how"><a href="http://www.helpwanted.com/louisiana-jobs">Louisiana</a></li><li class="act_how"><a href="http://www.helpwanted.com/maine-jobs">Maine</a></li><li class="act_how"><a href="http://www.helpwanted.com/maryland-jobs">Maryland</a></li><li class="act_how"><a href="http://www.helpwanted.com/massachusetts-jobs">Massachusetts</a></li><li class="act_how"><a href="http://www.helpwanted.com/cape-cod-jobs">Cape Cod (MA)</a></li><li class="act_how"><a href="http://www.helpwanted.com/michigan-jobs">Michigan</a></li><li class="act_how"><a href="http://www.helpwanted.com/minnesota-jobs">Minnesota</a></li><li class="act_how"><a href="http://www.helpwanted.com/mississippi-jobs">Mississippi</a></li><li class="act_how"><a href="http://www.helpwanted.com/missouri-jobs">Missouri</a></li><li class="act_how"><a href="http://www.helpwanted.com/montana-jobs">Montana</a></li><li class="act_how"><a href="http://www.helpwanted.com/nebraska-jobs">Nebraska</a></li><li class="act_how"><a href="http://www.helpwanted.com/nevada-jobs">Nevada</a></li><li class="act_how"><a href="http://www.helpwanted.com/new-hampshire-jobs">New Hampshire</a></li><li class="act_how"><a href="http://www.helpwanted.com/new-jersey-jobs">New Jersey</a></li><li class="act_how"><a href="http://www.helpwanted.com/new-mexico-jobs">New Mexico</a></li><li class="act_how"><a href="http://www.helpwanted.com/new-york-jobs">New York</a></li><li class="act_how"><a href="http://www.helpwanted.com/hudson-valley-jobs">Hudson Valley (NY)</a></li><li class="act_how"><a href="http://www.helpwanted.com/capital-area-jobs">Capital Area (NY)</a></li><li class="act_how"><a href="http://www.helpwanted.com/north-carolina-jobs">North Carolina</a></li><li class="act_how"><a href="http://www.helpwanted.com/north-dakota-jobs">North Dakota</a></li><li class="act_how"><a href="http://www.helpwanted.com/ohio-jobs">Ohio</a></li><li class="act_how"><a href="http://www.helpwanted.com/oklahoma-jobs">Oklahoma</a></li><li class="act_how"><a href="http://www.helpwanted.com/oregon-jobs">Oregon</a></li><li class="act_how"><a href="http://www.helpwanted.com/pennsylvania-jobs">Pennsylvania</a></li><li class="act_how"><a href="http://www.helpwanted.com/puerto-rico-jobs">Puerto Rico</a></li><li class="act_how"><a href="http://www.helpwanted.com/rhode-island-jobs">Rhode Island</a></li><li class="act_how"><a href="http://www.helpwanted.com/south-carolina-jobs">South Carolina</a></li><li class="act_how"><a href="http://www.helpwanted.com/south-dakota-jobs">South Dakota</a></li><li class="act_how"><a href="http://www.helpwanted.com/tennessee-jobs">Tennessee</a></li><li class="act_how"><a href="http://www.helpwanted.com/texas-jobs">Texas</a></li><li class="act_how"><a href="http://www.helpwanted.com/utah-jobs">Utah</a></li><li class="act_how"><a href="http://www.helpwanted.com/vermont-jobs">Vermont</a></li><li class="act_how"><a href="http://www.helpwanted.com/virgin-islands-jobs">Virgin Islands</a></li><li class="act_how"><a href="http://www.helpwanted.com/virginia-jobs">Virginia</a></li><li class="act_how"><a href="http://www.helpwanted.com/washington-jobs">Washington</a></li><li class="act_how"><a href="http://www.helpwanted.com/west-virginia-jobs">West Virginia</a></li><li class="act_how"><a href="http://www.helpwanted.com/wisconsin-jobs">Wisconsin</a></li><li class="act_how"><a href="http://www.helpwanted.com/wyoming-jobs">Wyoming</a></li>
+												</ul>
+											</div>
+									  </ul>
+										</td>
+									      </tr>
+									  </tbody></table>
+								  </td>
 									<td width="2%" align="left" valign="top">&nbsp;
 									</td>
 									<td width="100%" align="left" valign="top">
@@ -479,19 +246,31 @@ google_ad_height = 90;
 									</td>
 									<td width="123" align="right" valign="top">
 										<div style="padding:5px 3px 0 5px">
-											<div class="othersectionhead">
-												* Help Wanted *
-											</div>
-											<div class="rlinks">
-												<ul>
-													<li class="link1"><a href="http://www.HelpWanted.com/Job-Search/ArticleList.html">Articles</a></li>
-												</ul>
-											</div>						
 											<script type="text/javascript"><!--
 google_ad_client = "pub-3239415753485316";
-/* 120x600, created 5/22/08 */
-google_ad_slot = "9117914260";
-google_ad_width = 120;
+/* HW 160x600 */
+google_ad_slot = "3813830662";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+											<script type="text/javascript"><!--
+google_ad_client = "pub-3239415753485316";
+/* HW 160x600 */
+google_ad_slot = "3813830662";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+											<script type="text/javascript"><!--
+google_ad_client = "pub-3239415753485316";
+/* HW 160x600 */
+google_ad_slot = "3813830662";
+google_ad_width = 160;
 google_ad_height = 600;
 //-->
 </script>
@@ -499,9 +278,9 @@ google_ad_height = 600;
 </script>
 										</div>
 									</td>
-								</tr>
+							  </tr>
 							</tbody></table>
-						</td>
+				    </td>
 						<td background="http://www.HelpWanted.com/Application/AppImages/right_bg.gif">&nbsp;
 						</td>
 					</tr>
@@ -520,22 +299,16 @@ google_ad_height = 600;
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" align="center" valign="top"><script type="text/javascript"><!--
-google_ad_client = "pub-3239415753485316";
-/* 728x90, created 5/22/08 */
-google_ad_slot = "6122938445";
-google_ad_width = 728;
-google_ad_height = 90;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
+			<td height="15" align="left" valign="top">
+				<div align="center">
+					Jobs in Major US Cities
+				</div>
 			</td>
 		</tr>
 		<tr>
 			<td height="15" align="left" valign="top">
 				<div align="center">
-					<a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-AL-Alabama-USA-United-States.html" class="footerlink">Alabama Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-AK-Alaska-USA-United-States.html" class="footerlink">Alaska Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-AZ-Arizona-USA-United-States.html" class="footerlink">Arizona Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-AR-Arkansas-USA-United-States.html" class="footerlink">Arkansas Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-CA-California-USA-United-States.html" class="footerlink">California Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-CO-Colorado-USA-United-States.html" class="footerlink">Colorado Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-CT-Connecticut-USA-United-States.html" class="footerlink">Connecticut Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-DE-Delaware-USA-United-States.html" class="footerlink">Delaware Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-DC-District-of-Columbia-USA-United-States.html" class="footerlink">District of Columbia Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-FL-Florida-USA-United-States.html" class="footerlink">Florida Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-GA-Georgia-USA-United-States.html" class="footerlink">Georgia Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-GU-Guam-USA-United-States.html" class="footerlink">Guam Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-HI-Hawaii-USA-United-States.html" class="footerlink">Hawaii Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-ID-Idaho-USA-United-States.html" class="footerlink">Idaho Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-IL-Illinois-USA-United-States.html" class="footerlink">Illinois Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-IN-Indiana-USA-United-States.html" class="footerlink">Indiana Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-IA-Iowa-USA-United-States.html" class="footerlink">Iowa Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-KS-Kansas-USA-United-States.html" class="footerlink">Kansas Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-KY-Kentucky-USA-United-States.html" class="footerlink">Kentucky Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-LA-Louisiana-USA-United-States.html" class="footerlink">Louisiana Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-ME-Maine-USA-United-States.html" class="footerlink">Maine Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-MD-Maryland-USA-United-States.html" class="footerlink">Maryland Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-MA-Massachusetts-USA-United-States.html" class="footerlink">Massachusetts Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-MI-Michigan-USA-United-States.html" class="footerlink">Michigan Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-MN-Minnesota-USA-United-States.html" class="footerlink">Minnesota Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-MS-Mississippi-USA-United-States.html" class="footerlink">Mississippi Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-MO-Missouri-USA-United-States.html" class="footerlink">Missouri Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-MT-Montana-USA-United-States.html" class="footerlink">Montana Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-NE-Nebraska-USA-United-States.html" class="footerlink">Nebraska Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-NV-Nevada-USA-United-States.html" class="footerlink">Nevada Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-NH-New-Hampshire-USA-United-States.html" class="footerlink">New Hampshire Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-NJ-New-Jersey-USA-United-States.html" class="footerlink">New Jersey Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-NM-New-Mexico-USA-United-States.html" class="footerlink">New Mexico Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-NY-New-York-USA-United-States.html" class="footerlink">New York Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-NC-North-Carolina-USA-United-States.html" class="footerlink">North Carolina Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-ND-North-Dakota-USA-United-States.html" class="footerlink">North Dakota Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-OH-Ohio-USA-United-States.html" class="footerlink">Ohio Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-OK-Oklahoma-USA-United-States.html" class="footerlink">Oklahoma Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-OR-Oregon-USA-United-States.html" class="footerlink">Oregon Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-PA-Pennsylvania-USA-United-States.html" class="footerlink">Pennsylvania Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-PR-Puerto-Rico-USA-United-States.html" class="footerlink">Puerto Rico Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-RI-Rhode-Island-USA-United-States.html" class="footerlink">Rhode Island Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-SC-South-Carolina-USA-United-States.html" class="footerlink">South Carolina Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-SD-South-Dakota-USA-United-States.html" class="footerlink">South Dakota Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-TN-Tennessee-USA-United-States.html" class="footerlink">Tennessee Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-TX-Texas-USA-United-States.html" class="footerlink">Texas Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-UT-Utah-USA-United-States.html" class="footerlink">Utah Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-VT-Vermont-USA-United-States.html" class="footerlink">Vermont Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-VI-Virgin-Islands-USA-United-States.html" class="footerlink">Virgin Islands Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-VA-Virginia-USA-United-States.html" class="footerlink">Virginia Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-WA-Washington-USA-United-States.html" class="footerlink">Washington Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-WV-West-Virginia-USA-United-States.html" class="footerlink">West Virginia Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-WI-Wisconsin-USA-United-States.html" class="footerlink">Wisconsin Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-WY-Wyoming-USA-United-States.html" class="footerlink">Wyoming Jobs</a>
+					<a href="http://www.helpwanted.com/akron-oh-jobs" class="footerlink">Akron</a> | <a href="http://www.helpwanted.com/albuquerque-nm-jobs" class="footerlink">Albuquerque</a> | <a href="http://www.helpwanted.com/anaheim-ca-jobs" class="footerlink">Anaheim</a> | <a href="http://www.helpwanted.com/anchorage-ak-jobs" class="footerlink">Anchorage</a> | <a href="http://www.helpwanted.com/arlington-tx-jobs" class="footerlink">Arlington</a> | <a href="http://www.helpwanted.com/atlanta-ga-jobs" class="footerlink">Atlanta</a> | <a href="http://www.helpwanted.com/aurora-co-jobs" class="footerlink">Aurora</a> | <a href="http://www.helpwanted.com/austin-tx-jobs" class="footerlink">Austin</a> | <a href="http://www.helpwanted.com/bakersfield-ca-jobs" class="footerlink">Bakersfield</a> | <a href="http://www.helpwanted.com/baltimore-md-jobs" class="footerlink">Baltimore</a> | <a href="http://www.helpwanted.com/baton-rouge-la-jobs" class="footerlink">Baton Rouge</a> | <a href="http://www.helpwanted.com/birmingham-al-jobs" class="footerlink">Birmingham</a> | <a href="http://www.helpwanted.com/boston-ma-jobs" class="footerlink">Boston</a> | <a href="http://www.helpwanted.com/buffalo-ny-jobs" class="footerlink">Buffalo</a> | <a href="http://www.helpwanted.com/chandler-az-jobs" class="footerlink">Chandler</a> | <a href="http://www.helpwanted.com/charlotte-nc-jobs" class="footerlink">Charlotte</a> | <a href="http://www.helpwanted.com/chicago-il-jobs" class="footerlink">Chicago</a> | <a href="http://www.helpwanted.com/chula-vista-ca-jobs" class="footerlink">Chula Vista</a> | <a href="http://www.helpwanted.com/cincinnati-oh-jobs" class="footerlink">Cincinnati</a> | <a href="http://www.helpwanted.com/cleveland-oh-jobs" class="footerlink">Cleveland</a> | <a href="http://www.helpwanted.com/colorado-springs-co-jobs" class="footerlink">Colorado Springs</a> | <a href="http://www.helpwanted.com/columbus-oh-jobs" class="footerlink">Columbus</a> | <a href="http://www.helpwanted.com/corpus-christi-tx-jobs" class="footerlink">Corpus Christi</a> | <a href="http://www.helpwanted.com/dallas-tx-jobs" class="footerlink">Dallas</a> | <a href="http://www.helpwanted.com/denver-co-jobs" class="footerlink">Denver</a> | <a href="http://www.helpwanted.com/detroit-mi-jobs" class="footerlink">Detroit</a> | <a href="http://www.helpwanted.com/durham-nc-jobs" class="footerlink">Durham</a> | <a href="http://www.helpwanted.com/el-paso-tx-jobs" class="footerlink">El Paso</a> | <a href="http://www.helpwanted.com/fort-wayne-in-jobs" class="footerlink">Fort Wayne</a> | <a href="http://www.helpwanted.com/fort-worth-tx-jobs" class="footerlink">Fort Worth</a> | <a href="http://www.helpwanted.com/fresno-ca-jobs" class="footerlink">Fresno</a> | <a href="http://www.helpwanted.com/garland-tx-jobs" class="footerlink">Garland</a> | <a href="http://www.helpwanted.com/glendale-az-jobs" class="footerlink">Glendale</a> | <a href="http://www.helpwanted.com/greensboro-nc-jobs" class="footerlink">Greensboro</a> | <a href="http://www.helpwanted.com/hialeah-fl-jobs" class="footerlink">Hialeah</a> | <a href="http://www.helpwanted.com/honolulu-hi-jobs" class="footerlink">Honolulu</a> | <a href="http://www.helpwanted.com/houston-tx-jobs" class="footerlink">Houston</a> | <a href="http://www.helpwanted.com/indianapolis-in-jobs" class="footerlink">Indianapolis</a> | <a href="http://www.helpwanted.com/jacksonville-fl-jobs" class="footerlink">Jacksonville</a> | <a href="http://www.helpwanted.com/jersey-city-nj-jobs" class="footerlink">Jersey City</a> | <a href="http://www.helpwanted.com/kansas-city-mo-jobs" class="footerlink">Kansas City</a> | <a href="http://www.helpwanted.com/laredo-tx-jobs" class="footerlink">Laredo</a> | <a href="http://www.helpwanted.com/las-vegas-nv-jobs" class="footerlink">Las Vegas</a> | <a href="http://www.helpwanted.com/lincoln-ne-jobs" class="footerlink">Lincoln</a> | <a href="http://www.helpwanted.com/long-beach-ca-jobs" class="footerlink">Long Beach</a> | <a href="http://www.helpwanted.com/los-angeles-ca-jobs" class="footerlink">Los Angeles</a> | <a href="http://www.helpwanted.com/lubbock-tx-jobs" class="footerlink">Lubbock</a> | <a href="http://www.helpwanted.com/madison-wi-jobs" class="footerlink">Madison</a> | <a href="http://www.helpwanted.com/memphis-tn-jobs" class="footerlink">Memphis</a> | <a href="http://www.helpwanted.com/mesa-az-jobs" class="footerlink">Mesa</a> | <a href="http://www.helpwanted.com/miami-fl-jobs" class="footerlink">Miami</a> | <a href="http://www.helpwanted.com/milwaukee-wi-jobs" class="footerlink">Milwaukee</a> | <a href="http://www.helpwanted.com/minneapolis-mn-jobs" class="footerlink">Minneapolis</a> | <a href="http://www.helpwanted.com/new-orleans-la-jobs" class="footerlink">New Orleans</a> | <a href="http://www.helpwanted.com/new-york-city-ny-jobs" class="footerlink">New York City</a> | <a href="http://www.helpwanted.com/newark-nj-jobs" class="footerlink">Newark</a> | <a href="http://www.helpwanted.com/oakland-ca-jobs" class="footerlink">Oakland</a> | <a href="http://www.helpwanted.com/oklahoma-city-ok-jobs" class="footerlink">Oklahoma City</a> | <a href="http://www.helpwanted.com/omaha-ne-jobs" class="footerlink">Omaha</a> | <a href="http://www.helpwanted.com/orlando-fl-jobs" class="footerlink">Orlando</a> | <a href="http://www.helpwanted.com/pittsburgh-pa-jobs" class="footerlink">Pittsburgh</a> | <a href="http://www.helpwanted.com/philadelphia-pa-jobs" class="footerlink">Philadelphia</a> | <a href="http://www.helpwanted.com/phoenix-az-jobs" class="footerlink">Phoenix</a> | <a href="http://www.helpwanted.com/plano-tx-jobs" class="footerlink">Plano</a> | <a href="http://www.helpwanted.com/portland-or-jobs" class="footerlink">Portland</a> | <a href="http://www.helpwanted.com/raleigh-nc-jobs" class="footerlink">Raleigh</a> | <a href="http://www.helpwanted.com/reno-nv-jobs" class="footerlink">Reno</a> | <a href="http://www.helpwanted.com/riverside-ca-jobs" class="footerlink">Riverside</a> | <a href="http://www.helpwanted.com/rochester-ny-jobs" class="footerlink">Rochester</a> | <a href="http://www.helpwanted.com/sacramento-ca-jobs" class="footerlink">Sacramento</a> | <a href="http://www.helpwanted.com/san-antonio-tx-jobs" class="footerlink">San Antonio</a> | <a href="http://www.helpwanted.com/san-diego-ca-jobs" class="footerlink">San Diego</a> | <a href="http://www.helpwanted.com/san-francisco-ca-jobs" class="footerlink">San Francisco</a> | <a href="http://www.helpwanted.com/san-jose-ca-jobs" class="footerlink">San Jose</a> | <a href="http://www.helpwanted.com/santa-ana-ca-jobs" class="footerlink">Santa Ana</a> | <a href="http://www.helpwanted.com/scottsdale-az-jobs" class="footerlink">Scottsdale</a> | <a href="http://www.helpwanted.com/seattle-wa-jobs" class="footerlink">Seattle</a> | <a href="http://www.helpwanted.com/stockton-ca-jobs" class="footerlink">Stockton</a> | <a href="http://www.helpwanted.com/tampa-fl-jobs" class="footerlink">Tampa</a> | <a href="http://www.helpwanted.com/toledo-oh-jobs" class="footerlink">Toledo</a> | <a href="http://www.helpwanted.com/tucson-az-jobs" class="footerlink">Tucson</a> | <a href="http://www.helpwanted.com/tulsa-ok-jobs" class="footerlink">Tulsa</a> | <a href="http://www.helpwanted.com/wichita-ks-jobs" class="footerlink">Wichita</a>
 				</div>
 			</td>
 		</tr>
@@ -549,7 +322,14 @@ google_ad_height = 90;
 		<tr>
 			<td height="15" align="left" valign="top">
 				<div align="center">
-					<a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-AB-Alberta-CAN-Canada.html" class="footerlink">Alberta Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-BC-British-Columbia-CAN-Canada.html" class="footerlink">British Columbia Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-MAN-Manitoba-CAN-Canada.html" class="footerlink">Manitoba Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-NBR-New-Brunswick-CAN-Canada.html" class="footerlink">New Brunswick Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-NFL-Newfoundland-and-Labrador-CAN-Canada.html" class="footerlink">Newfoundland and Labrador Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-NWT-Northwest-Territories-CAN-Canada.html" class="footerlink">Northwest Territories Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-NVS-Nova-Scotia-CAN-Canada.html" class="footerlink">Nova Scotia Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-NNV-Nunavut-CAN-Canada.html" class="footerlink">Nunavut Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-ON-Ontario-CAN-Canada.html" class="footerlink">Ontario Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-PEI-Prince-Edward-Island-CAN-Canada.html" class="footerlink">Prince Edward Island Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-QBC-Quebec-CAN-Canada.html" class="footerlink">Quebec Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-SSN-Saskatchewan-CAN-Canada.html" class="footerlink">Saskatchewan Jobs</a> | <a href="http://www.HelpWanted.com/Job-Search/Find-Jobs-in-YKN-Yukon-Territory-CAN-Canada.html" class="footerlink">Yukon Territory Jobs</a>
+					Jobs in Canada
+				</div>
+			</td>
+		</tr>
+		<tr>
+			<td height="15" align="left" valign="top">
+				<div align="center">
+					<a href="http://www.helpwanted.com/alberta-jobs" class="footerlink">Alberta</a> | <a href="http://www.helpwanted.com/british-columbia-jobs" class="footerlink">British Columbia</a> | <a href="http://www.helpwanted.com/manitoba-jobs" class="footerlink">Manitoba</a> | <a href="http://www.helpwanted.com/new-brunswick-jobs" class="footerlink">New Brunswick</a> | <a href="http://www.helpwanted.com/newfoundland-and-labrador-jobs" class="footerlink">Newfoundland and Labrador</a> | <a href="http://www.helpwanted.com/northwest-territories-jobs" class="footerlink">Northwest Territories</a> | <a href="http://www.helpwanted.com/nova-scotia-jobs" class="footerlink">Nova Scotia</a> | <a href="http://www.helpwanted.com/nunavut-jobs" class="footerlink">Nunavut</a> | <a href="http://www.helpwanted.com/ontario-jobs" class="footerlink">Ontario</a> | <a href="http://www.helpwanted.com/prince-edward-island-jobs" class="footerlink">Prince Edward Island</a> | <a href="http://www.helpwanted.com/quebec-jobs" class="footerlink">Quebec</a> | <a href="http://www.helpwanted.com/saskatchewan-jobs" class="footerlink">Saskatchewan</a> | <a href="http://www.helpwanted.com/yukon-territory-jobs" class="footerlink">Yukon Territory</a>
 				</div>
 			</td>
 		</tr>
@@ -561,36 +341,28 @@ google_ad_height = 90;
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" align="center" valign="top"> 
-			</td>
-		</tr>
-		<tr>
-			<td align="left" valign="top">
-				<div align="center" class="limenu">
-					<a href="http://www.HelpWanted.com/Job-Search/" class="footerlink">Jobs</a> | <a href="http://www.HelpWanted.com/Membership/" class="footerlink">My HelpWanted</a> | 
-					<a href="http://www.HelpWanted.com/Application/FAQ.asp" class="footerlink">
-						FAQs
-					</a>
+			<td height="15" align="left" valign="top">
+				<div align="center">
+					© 2008-2013 HelpWanted.Com. All rights reserved
 				</div>
 			</td>
 		</tr>
 		<tr>
 			<td height="15" align="left" valign="top">
 				<div align="center">
-					© 2008 HelpWanted.Com. All rights reserved
-				</div>
-			</td>
-		</tr>
-		<tr>
-			<td height="15" align="left" valign="top">
-				<div align="center">
-					<a href="http://www.HelpWanted.com/Application/TermsOfUse.asp" class="footerlink">
+					<a href="http://www.HelpWanted.com/Application/TermsOfUse.asp" rel="nofollow" class="footerlink">
 						Terms Of Use
 					</a>
 					&nbsp;|&nbsp;
-					<a href="http://www.HelpWanted.com/Application/PrivacyPolicy.asp" class="footerlink">
+					<a href="http://www.HelpWanted.com/Application/PrivacyPolicy.asp" rel="nofollow" class="footerlink">
 						Privacy Policy
 					</a>
+					&nbsp;|&nbsp;
+					<a href="http://www.HelpWanted.com/Application/FAQ.asp" rel="nofollow" class="footerlink">
+						FAQs
+					</a>
+					&nbsp;&nbsp;
+					<span id="indeed_at"><a rel="nofollow" href="http://www.indeed.com/">jobs</a> by <a rel="nofollow" href="http://www.indeed.com/" title="Job Search"><img src="http://www.indeed.com/p/jobsearch.gif" style="border: 0; vertical-align: middle;" alt="Indeed job search"></a></span>
 					<br>
 					<div class="disclaimer">
 						All logos, names photos and trademarks belong to their original owners.
@@ -609,5 +381,13 @@ _uacct = "UA-1585736-1";
 urchinTracker();
 </script>
 
+<script type="text/javascript">
+function bookmark(url, title){
+if (document.all)
+window.external.AddFavorite(url, title);
+else if (window.sidebar)
+window.sidebar.addPanel(title, url, "")
+}
+</script>
 
 </body></html>
