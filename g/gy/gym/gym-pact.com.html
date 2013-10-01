@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gym-pact.com privacy policy that was archived on 2013-05-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130511154537id_/http%3A//gym-pact.com/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gym-pact.com privacy policy that was archived on 2013-10-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131001103232id_/http%3A//www.gym-pact.com/legal/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js"><!--<![endif]--><head refix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# : http://ogp.me/ns/fb/#">
 <meta charset="utf-8">
@@ -18,9 +18,9 @@
 <title>Privacy Policy | GymPact</title>
 <meta content="GymPact&amp;#x27;s Privacy Policy" name="description">
 <meta content="" name="keywords">
-<link href="/stylesheets/app.css?1368240694" media="screen" rel="stylesheet" type="text/css">
+<link href="/stylesheets/app.css?1380591327" media="screen" rel="stylesheet" type="text/css">
 
-<script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/1545b9d5aedfa3b60ff46ec9cf743f352f1b14e7.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script src="//ssl.google-analytics.com/ga.js"></script><script src="/javascripts/clean/vendors/modernizr.min.js?1368240694" type="text/javascript"></script>
+<script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/1545b9d5aedfa3b60ff46ec9cf743f352f1b14e7.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script src="//ssl.google-analytics.com/ga.js"></script><script src="/javascripts/clean/vendors/modernizr.min.js?1380591327" type="text/javascript"></script>
 <script>
 function redirect_on_phone(referral) {
 var iOS = false,
@@ -54,7 +54,7 @@ window.location = "market://details?id=com.gympact.android";
 <script>
 Modernizr.load([
 '//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js',
-'/javascripts/clean/app.js?1368240694'
+'/javascripts/clean/app.js?1380591327'
 ]);
 </script>
 <script src="//cdn.optimizely.com/js/25978931.js"></script>
@@ -232,21 +232,19 @@ function open_popup() {
 <!-- /}); -->
 $('#bug-where').change( function() {
 if($(this).val() == 0) {
-$('#bug-what').html("<option value='0'>Error: Couldn't check you in</option><option value='1'>Error: Already worked out</option><option value='2'>My app froze or crashed</option><option value='3'>My workout was cancelled</option>");
-} else if($(this).val() == 1) {
-$('#bug-what').html("<option value='0'>One of my workouts was not counted</option><option value='1'>I can see all of my workouts, but the count is still off</option>");
-} else if($(this).val() == 2) {
-$('#bug-what').html("<option value='0'>My pact is incorrect</option><option value='1'>I need to update my credit card info</option><option value='2'>I didn't receive my rewards</option><option value='3'>I am not receiving any emails</option><option value='4'>My break isn't saving</option><option value='5'>I want to put my account on hold</option>");
-} else if($(this).val() == 3) {
-$('#bug-what').html("<option value='0'>Please just fill out the comments section</option>");
-} else if($(this).val() == 4) {
-$('#bug-what').html("<option value='0'>I can't connect to RunKeeper</option><option value='1'>My RunKeeper activities don't count</option>");
-} else if($(this).val() == 5) {
-$('#bug-what').html("<option value='0'>Please state your reason in the comments</option>");
-} else if($(this).val() == 6) {
-$('#bug-what').html("<option disabled='disabled' value='0'>I can't find my gym</option>");
-} else if($(this).val() == 7) {
-$('#bug-what').html("<option value='0'>My app froze or crashed</option><option value='1'>My workout could not be saved</option><option value='2'>My accelerometer is not working</option><option value='3'>General feedback about GymPact Anywhere</option>");
+$("#failed-attendances").show();
+} else {
+$("#failed-attendances").hide();
+}
+});
+$('#attendance-select').change( function() {
+if($(this).val() == -1) {
+$("#failure-text").hide();
+$("#workout-date-select").show();
+} else {
+$("#workout-date-select").hide();
+$("#failure-text").show();
+$.get("/attendances/get_failure_reason_text.js?id="+$(this).val());
 }
 });
 function close_popup() {
@@ -260,12 +258,12 @@ function close_popup() {
 <script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {
 NREUMQ.push(["load",new Date().getTime()]);
 var e=document.createElement("script");
-e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";
+e.type="text/javascript";e.async=true;e.src="https://js-agent.newrelic.com/nr-100.js";
 document.body.appendChild(e);
 if(NREUMQ.a)NREUMQ.a();
 };
 NREUMQ.a=window.onload;window.onload=NREUMQ.f;
 };
-NREUMQ.push(["nrfj","beacon-4.newrelic.com","671a1c21ff",1360032,"IF5cEkdXVAkAE0lcUBZfUQ5QSxcVFwgQUVIa",0,10,new Date().getTime(),"","","","",""])</script>
+NREUMQ.push(["nrfj","beacon-5.newrelic.com","671a1c21ff",1360032,"IF5cEkdXVAkAE0lcUBZfUQ5QSxcVFwgQUVIa",0,21,new Date().getTime(),"","","","",""])</script>
 
-<script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js"></script></body></html>
+<script type="text/javascript" async="" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
