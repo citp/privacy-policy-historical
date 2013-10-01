@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibp.org.pk privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601153705id_/http%3A//ibp.org.pk/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibp.org.pk privacy policy that was archived on 2013-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131001032939id_/http%3A//www.ibp.org.pk/privacypolicy.aspx) for the most accurate reproduction.*
 
 # IBP | Privacy Policy
 
