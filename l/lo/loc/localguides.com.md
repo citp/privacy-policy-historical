@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localguides.com privacy policy that was archived on 2012-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120321232328id_/http%3A//www.localguides.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localguides.com privacy policy that was archived on 2013-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131001144809id_/http%3A//localguides.com/privacy.html) for the most accurate reproduction.*
 
 # LocalGuides.com Privacy
 
