@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the macofalltrades.com privacy policy that was archived on 2013-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130630100234id_/http%3A//www.macofalltrades.com/Terms_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the macofalltrades.com privacy policy that was archived on 2013-10-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131001045343id_/https%3A//www.macofalltrades.com/Terms_privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE htmlpublic"-//w3c//dtdxhtml1.0><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -16,6 +16,7 @@
 <script src="//paypal.adtag.where.com/merchant.js"></script><script src="edge_includes/jquery-1.7.1.min.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js"></script>
 <link type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/themes/base/jquery-ui.css" rel="stylesheet">
+<link type="text/css" href="/a/c/default.css" rel="stylesheet">
 
 
 <script type="text/javascript">
@@ -31,8 +32,31 @@
     var PageText_843 = "Subtotal";
     var PageText_844 = "items in cart";
 </script>
+<script type="text/javascript" src="/a/j/volusion.js?6.41.2.227"></script>
+<script type="text/javascript">
+    (function ($) {
+        volusion.ready(function () {
+            if (volusion.cart.isObservingCount()) {
+                var ts = new Date().getTime();
 
-<script type="text/javascript" src="/a/j/javascripts.js?6_5_6.36.0.120"></script>
+                $.getJSON('/ajaxcart.asp?cachebust=' + ts, function (data) {
+                    var quantityTotal = 0;
+                    $.each(data.Products, function (key, val) {
+                        if (val.IsProduct === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        } else if (val.IsAccessory === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        }
+                    });
+                    quantityTotal = quantityTotal || '0';
+                    volusion.cart.itemCount(quantityTotal);
+                });
+
+            }
+        });
+    } (jQuery));
+</script>
+<script type="text/javascript" src="/a/j/javascripts.js?6_5_6.41.2.227"></script>
 
 <script type="text/javascript" src="/a/j/vcompare.js"></script>
 <link type="text/css" rel="stylesheet" href="/a/c/VCompare.css">
@@ -212,23 +236,23 @@ function mSubClk8(src, popup)
 </script>
 <table cellpadding="0" cellspacing="0" border="0" class="nav">
 <tbody><tr><td class="nav" onmouseover="mOvr8(this);" onmouseout="mOut8(this);" onclick="mClk8(this);">
-<img src="/v/vspfiles/templates/MacAllTrades/images/Template/Menu8_Bullet.gif" alt="" align="absmiddle"> <a href="http://www.macofalltrades.com/Buyers-s/38.htm" title="Buyers">Buyers</a>
+<img src="/v/vspfiles/templates/MacAllTrades/images/Template/Menu8_Bullet.gif" alt="" align="absmiddle"> <a href="http://www.macofalltrades.com/Buyers-Refurbished-Used-Macs-s/38.htm" title="Buyers Refurbished Used Macs">Buyers</a>
 </td></tr>
 			<tr><td class="nav subnav" onmouseover="mSubOvr8(this);" onmouseout="mSubOut8(this);" onclick="mSubClk8(this);">
 			<img src="/v/vspfiles/templates/MacAllTrades/images/Template/Menu8_Bullet_End.gif" alt="" align="absmiddle"> 
-			<a href="http://www.macofalltrades.com/Apple-Desktops-s/2.htm" title="Apple Desktops">Apple Desktops</a>
+			<a href="http://www.macofalltrades.com/Refurbished-Used-Apple-Desktops-s/2.htm" title="Refurbished Used Apple Desktops">Apple Desktops</a>
 			</td></tr>
 			<tr><td class="nav subnav" onmouseover="mSubOvr8(this);" onmouseout="mSubOut8(this);" onclick="mSubClk8(this);">
 			<img src="/v/vspfiles/templates/MacAllTrades/images/Template/Menu8_Bullet_End.gif" alt="" align="absmiddle"> 
-			<a href="http://www.macofalltrades.com/Apple-Laptops-s/5.htm" title="Apple Laptops">Apple Laptops</a>
+			<a href="http://www.macofalltrades.com/Refurbished-Used-Apple-Laptops-s/5.htm" title="Refurbished Used Apple Laptops">Apple Laptops</a>
 			</td></tr>
 			<tr><td class="nav subnav" onmouseover="mSubOvr8(this);" onmouseout="mSubOut8(this);" onclick="mSubClk8(this);">
 			<img src="/v/vspfiles/templates/MacAllTrades/images/Template/Menu8_Bullet_End.gif" alt="" align="absmiddle"> 
-			<a href="http://www.macofalltrades.com/iOS-Devices-s/177.htm" title="iOS Devices">iPads &amp; iPhones</a>
+			<a href="http://www.macofalltrades.com/Refurbished-Used-iPads-iPhones-s/177.htm" title="Refurbished Used iPads iPhones">iPads &amp; iPhones</a>
 			</td></tr>
 			<tr><td class="nav subnav" onmouseover="mSubOvr8(this);" onmouseout="mSubOut8(this);" onclick="mSubClk8(this);">
 			<img src="/v/vspfiles/templates/MacAllTrades/images/Template/Menu8_Bullet_End.gif" alt="" align="absmiddle"> 
-			<a href="http://www.macofalltrades.com/Peripherals-s/88.htm" title="Peripherals">Peripherals</a>
+			<a href="http://www.macofalltrades.com/Refurbished-Used-Apple-Peripherals-s/88.htm" title="Refurbished Used Apple Peripherals">Peripherals</a>
 			</td></tr>
 			<tr><td class="nav subnav" onmouseover="mSubOvr8(this);" onmouseout="mSubOut8(this);" onclick="mSubClk8(this);">
 			<img src="/v/vspfiles/templates/MacAllTrades/images/Template/Menu8_Bullet_End.gif" alt="" align="absmiddle"> 
@@ -239,7 +263,7 @@ function mSubClk8(src, popup)
 			<a href="http://www.macofalltrades.com/Volume-Buyers-s/12.htm" title="Volume Buyers">Volume Buyers</a>
 			</td></tr>
 <tr><td class="nav" onmouseover="mOvr8(this);" onmouseout="mOut8(this);" onclick="mClk8(this);">
-<img src="/v/vspfiles/templates/MacAllTrades/images/Template/Menu8_Bullet.gif" alt="" align="absmiddle"> <a href="http://www.macofalltrades.com/Sellers-s/42.htm" title="Sellers">Sellers</a>
+<img src="/v/vspfiles/templates/MacAllTrades/images/Template/Menu8_Bullet.gif" alt="" align="absmiddle"> <a href="http://www.macofalltrades.com/Sell-Your-Mac-s/42.htm" title="Sell Your Mac">Sellers</a>
 </td></tr>
 			<tr><td class="nav subnav" onmouseover="mSubOvr8(this);" onmouseout="mSubOut8(this);" onclick="mSubClk8(this);">
 			<img src="/v/vspfiles/templates/MacAllTrades/images/Template/Menu8_Bullet_End.gif" alt="" align="absmiddle"> 
@@ -425,12 +449,12 @@ function mClk2(src, popup)
 	</tr>
 	<tr>
 		<td valign="middle" class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);" style="background-color: transparent">
-			<a href="/company_info_a/116.htm" title="Company Info">Company Info</a>
+			<a href="/pindex.asp" title="Product Index">Product Index</a>
 		</td>
 	</tr>
 	<tr>
 		<td valign="middle" class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);" style="background-color: transparent">
-			<a href="/pindex.asp" title="Product Index">Product Index</a>
+			<a href="http://www.macofalltrades.com/Careers-s/364.htm" title="Careers">Careers</a>
 		</td>
 	</tr>
 </tbody></table>
@@ -624,11 +648,26 @@ function mClk5(src, popup)
     <script type="text/javascript" src="/v/vspfiles/templates/MacAllTrades/js/google-analytics-transaction.js"></script>
     <!-- Google Analytics -->
     
-    
-    
-    
-    
-    
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1002844085;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1002844085/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+<!-- Google Code for Remarketing Tag -->
+
   
 
 
