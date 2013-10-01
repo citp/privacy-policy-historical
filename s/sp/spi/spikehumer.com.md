@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spikehumer.com privacy policy that was archived on 2013-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130312231539id_/http%3A//www.spikehumer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spikehumer.com privacy policy that was archived on 2013-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131001145018id_/http%3A//www.spikehumer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Spike Humer
 
