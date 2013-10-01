@@ -1,262 +1,154 @@
-<!--The following is the downloaded HTML source of the workplace.com privacy policy that was archived on 2013-02-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130225082017id_/http%3A//workplace.com/Home/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the workplace.com privacy policy that was archived on 2013-10-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131001063329id_/http%3A//workplace.com/Home/Privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
+<!DOCTYPE html><html style="" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
   <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+
+  <meta name="viewport" content="width=device-width, user-scalable=no, maximum-scale=1">
+  <meta name="description" content="Workplace technologies is a small business solution provider.">
+  <meta name="author" content="workplace technologies">
+
+  <link rel="shortcut icon" href="/Content/Images/favicon.ico">
+
+  <link rel="stylesheet" href="/Content/Screen.css">
+  <link rel="stylesheet" media="screen and (min-width: 768px)" href="/Content/Screen_768.css">
+  <link rel="stylesheet" media="screen and (min-width: 1025px)" href="/Content/Screen_1024.css">
+  <link rel="stylesheet" media="screen and (min-width: 1281px)" href="/Content/Screen_1280.css">
+
   <title>Privacy Policy</title>
-  
-  <link href="/Content/Color.less" rel="stylesheet" type="text/css">
-  <link href="/Content/Font.css" rel="stylesheet" type="text/css">
-  <link href="/Content/Layout.css" rel="stylesheet" type="text/css">
-  <link href="/Content/Button.css" rel="stylesheet" type="text/css">
-  <link href="/Content/themes/base/minified/jquery-ui.min.css" rel="stylesheet" type="text/css">
+  <link href="/Content/css" rel="stylesheet">
+
+  <script src="/bundles/modernizr?v=qVODBytEBVVePTNtSFXgRX0NCEjh9U_Oj8ePaSiRcGg1"></script>
 
 
+  <script src="/bundles/jquery?v=JzhfglzUfmVF2qo-weTo-kvXJ9AJvIRBLmu11PgpbVY1"></script>
+
+  <script src="/bundles/jqueryui?v=EHft7nwilnDMnejvwTyEKn_C5lwIsN1M3Xyb8c9OmSQ1"></script>
+
+  <script src="/bundles/workplace?v=zcfwfxEPL8Dxj1NRnOIM4IBuJeVVLz1vSM2LenCmKTM1"></script>
+
   
 
-  <script src="/Scripts/jquery-1.8.1.min.js"></script>
-  <script src="/Scripts/jquery-ui-1.8.23.min.js"></script>
-  <script src="/Scripts/modernizr-2.5.3.js"></script>
-  
+  <script>
+    $( document ).ready( function ()
+    {
+      $("footer div ul li img").click(function()
+      {
+        var size = $( this ).attr( "title" );
+        var w = size.substr( 0, size.indexOf( " x " ) );
+        var h = size.substr( size.indexOf( " x " ) + 3 );
 
-  
-  <script type="text/jscript">
-    window.resizeTo(1024, 1024);
-    $(document).ready(function () { $("#title").click(function () { document.location = "/"; }); });
+        window.resizeTo( w, h );
+        $( 'html, body' ).animate( { scrollTop: 0 }, 1000 );
+      });
+    } );
+
+    function load( panel, controller, control, callback )
+    {
+      $.getJSON( "/" + controller + "/Load", { name: control }, function ( data )
+      {
+        panel.html( data );
+        if ( callback != null )
+          callback();
+      } );
+    }
   </script>
 </head>
 <body>
-  <div class="page">
-    
+  <div id="container">
     <header>
-      <div id="login">
-        <style type="text/css">
-  .panelLoginButtons a
-  {
-    font-size: 80%;
-    cursor: pointer;
-    position: absolute;
-    top: 0px;
-    right: 10px;
-    padding: 5px 12px;
-    text-decoration: none;
-  }
-
-  .panelLoginButtons a:hover, a:focus
-  {
-  }
-
-  .panelLoginBox
-  {
-    display: none;
-    margin: 0px;
-    position: relative;
-    top: -10px;
-    width: 300px;
-    height: 220px;
-    z-index: 1;
-  }
-
-  .panelControls
-  {
-    padding: 25px;
-    text-align: left;
-  }
-
-  .panelControls h2
-  {
-    position: relative;
-    top: -13px;
-    margin-bottom: 15px;
-  }
-
-  .panelControls label
-  {
-    display: block;
-    float: left;
-    clear: both;
-    width: 80px;
-    margin-top: 2px;
-  }
-
-  .panelControls input[type=text],input[type=password]
-  {
-    font-size: 0.85em;
-    width: 160px;
-  }
-
-  .panelControls input[type=checkbox]
-  {
-    margin-left: 77px;
-  }
-
-  .panelControls input[type=submit].Normal, input[type=submit].Hover
-  {
-    border: 1px solid #efefef;
-    background-color: #efefef;
-    color: #369;
-    cursor: pointer;
-    padding: 5px 12px;
-    position: absolute;
-    bottom: 25px;
-    right: 35px;
-  }
-
-  .hidden
-  {
-    display: none;
-  }
-</style>
-
-<script type="text/javascript">
-  $(document).ready(function ()
-  {
-  
-    $("#buttonLogin").click(function ()
-    {
-      if( jQuery.support.opacity )
-        $(".panelLoginBox").css( "opacity", 90 );
-      else
-        $(".panelLoginBox").css( "filter", "alpha(opacity=90)" );
-
-      // enter button triggers login
-      $(document).keyup( function( e ) { if( e.which == 13 ) { Login(); return false; } } );
-
-      $(document).mouseup(function (e)
-      {
-        if( $(e.target).parents(".panelLoginBox").length == 0 )
-        {
-          $(".panelLoginBox").fadeOut();
-          $(".panelLoginButtons").fadeIn();
       
-          // don't bubble up
-          return false;
-        }
-      });
+<a href="#footnav" class="gotonav">+</a>
+<a href="/" class="identity" title="workplace">w</a>
+<nav>
+  <ul>
+    <li><a href="/Home/Products">Products</a></li>
+    <li><a href="/Home/Services">Services</a></li>
+    <li><a href="/Home/About">About</a></li>
+  </ul>
+</nav>
 
-      $(".panelLoginButtons").fadeOut();
-      $(".panelLoginBox").fadeIn();
-        
-      // put the focus on this control!
-      $("#Username" ).focus();
-      
-      // don't bubble up
-      return false;
-    });
 
-    // handle login postback ourselves
-    $(".panelControls :submit").click(function () { Login(); return false; });
-  });
-
-  function Login()
-  {
-    $.post( "/Account/Authenticate", { Username: $("#Username").val(), Password: $("#Password").val(), RememberMe: $("#RememberMe").isChecked }, function( result )
-    {
-      if( result == true )
-        window.location = window.location;
-      else
-        $(".validation-summary").fadeIn();
-    }, "json" );
-  }
-</script>
-
-<div class="panelLoginButtons">
-<a href="/Home/Login?Length=7" id="buttonLogin">Login</a><a class="hidden" href="/Home/Logout?Length=7" id="buttonLogout">Logout</a></div>
-
-<div class="panelLoginBox">
-<form action="/Account/Login" method="post">    <div class="panelControls">
-      <h2>User Information</h2>
-
-      <div class="editor-label">
-        <label for="Username">Username</label>
-      </div>
-      <div class="editor-field">
-        <input data-val="true" data-val-required="The Username field is required." id="Username" name="Username" type="text" value="">
-        <span class="field-validation-valid" data-valmsg-for="Username" data-valmsg-replace="true"></span>
-      </div>
-      <div class="editor-label">
-        <label for="Password">Password</label>
-      </div>
-      <div class="editor-field">
-        <input data-val="true" data-val-required="The Password field is required." id="Password" name="Password" type="password">
-        <span class="field-validation-valid" data-valmsg-for="Password" data-valmsg-replace="true"></span>
-      </div>
-      <div class="editor-label">
-        <input data-val="true" data-val-required="The Remember me? field is required." id="RememberMe" name="RememberMe" type="checkbox" value="true"><input name="RememberMe" type="hidden" value="false">
-        <span>Remember?</span>
-      </div>
-      <p>
-        <input type="submit" class="Normal" value="Login">
-      </p>
-    </div>
-    <div class="validation-summary hidden">
-      <span>Username or password incorrect.</span>
-    </div>
-</form></div>
-
-      </div>
-      <div id="title">
-        <h1>
-          WORKPLACE Technologies</h1>
-      </div>
     </header>
 
-    <section id="main" class="clear">
+    <div id="main" role="main">
       
+
+
 <div class="text">
+
   <h2>Our Commitment to Privacy</h2>
   <p>
     At Workplace Technologies, your privacy is important to us and we are committed to protecting your privacy. To better protect your privacy we provide this notice explaining our online
-    information practices and the choices you can make about the way your information is collected and used.</p>
-  <p>
-    <span>The Information We Collect</span></p>
+    information practices and the choices you can make about the way your information is collected and used.
+  </p>
+
+  <h3>The Information We Collect</h3>
   <p>
     This notice applies to all information collected or submitted on the <span>workplace.com</span> website. On some pages, you can order services, make requests, and submit property address
-    or parcel information. The types of personal information collected at these pages are: Company Name, Address, Email address, Phone number, Borrower Name and/or Loan Number.</p>
-  <p>
-    <span>The Way We Use Information</span></p>
+    or parcel information. The types of personal information collected at these pages are: Company Name, Address, Email address, Phone number, Borrower Name and/or Loan Number.
+  </p>
+
+  <h3>The Way We Use Information</h3>
   <p>
     We use the information you provide about yourself, your borrower, or your borrower's loan number when placing an order only to complete that order. We do not share this information
     with outside parties except to the extent necessary to complete that order. We use return email addresses to answer the email we receive. The email address you provide for order processing
     may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related products or service information, etc. If
     at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions with each email. Such addresses are not used for any other purpose
-    and are not shared with outside parties without your express written consent.</p>
+    and are not shared with outside parties without your express written consent.
+  </p>
   <p>
     Finally, at Workplace Technologies, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing
-    you an opportunity to opt-out or otherwise prohibit such unrelated uses.</p>
-  <p>
-    <span>Our Commitment to Data Security</span></p>
+    you an opportunity to opt-out or otherwise prohibit such unrelated uses.
+  </p>
+  
+  <h3>Our Commitment to Data Security</h3>
   <p>
     To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures
-    to safeguard and secure the information we collect online.</p>
-  <p>
-    <span>Third Party Links</span></p>
+    to safeguard and secure the information we collect online.
+  </p>
+
+  <h3>Third Party Links</h3>
   <p>
     This website may contain links to third party websites that are not controlled by Workplace Technologies. These third party links are made available to you as a convenience and you
     agree to use these links at your own risk. Please be aware that Workplace Technologies is not responsible for the content of third party Websites linked to the Workplace Technologies
     website, nor are we responsible for the privacy policy or practices of third party websites linked to the Workplace Technologies websites. Our Privacy Policy only applies to information
     we collect from you while you are at and while you are actively in a session with the Workplace Technologies website. If you should link to a third party Website from the Workplace
     Technologies website, we strongly encourage you to review and become familiar with that Website's privacy policy. Changes in Our Privacy Policy We reserve the right to change this
-    Privacy Policy without providing you with advance notice of our intent to make the changes.</p>
-  <p>
-    <span>How to Contact Us</span></p>
-  <p>
-    Please click <a href="/Home/Contact">here</a> to access our <a href="/Home/Contact">Contact Us</a> page.</p>
+    Privacy Policy without providing you with advance notice of our intent to make the changes.
+  </p>
+
 </div>
 
-    </section>
+    </div>
 
-    <footer>
-      <div>
-        <p>
-          Copyright © 2012 Workplace Technologies, LLC. &nbsp; All Rights Reserved.</p>
-        <p>
-          <a href="/Home/Privacy">Privacy Policy</a></p>
-        <p>
-          <a href="/Home/Terms">Terms of Use</a></p>
-      </div>
-    </footer>
   </div>
+
+  <footer>
+    <nav id="footnav">
+      <ul>
+        <li><a href="/Home/Products">Products</a></li>
+        <li><a href="/Home/Services">Services</a></li>
+        <li><a href="/Home/About">About</a></li>
+      </ul>
+    </nav>
+    <p><span>© 2013 Workplace Technologies</span><br>
+      <a href="/Home/Privacy">Privacy Policy</a><br>
+      <a href="/Home/Terms">Terms of Use</a>
+    </p>
+    <div>
+      <ul>
+        <li><img src="/Content/Images/Form_480x640.png" title="480 x 640" alt="Phone 480x640"></li>
+        <li><img src="/Content/Images/Form_600x800.png" title="600 x 800" alt="Tablet 600x800"></li>
+        <li><img src="/Content/Images/Form_1024x768.png" title="1024 x 768" alt="Laptop 1024x768"></li>
+        <li><img src="/Content/Images/Form_1280x1024.png" title="1280 x 1024" alt="Laptop 1280x1024"></li>
+        <li><img src="/Content/Images/Form_1920x1200.png" title="1920 x 1200" alt="Desktop 1920x1200"></li>
+        <li><img src="/Content/Images/Form_2560x1600.png" title="2560 x 1600" alt="Desktop 2560x1600"></li>
+      </ul>
+    </div>
+  </footer>
+
 
 
 </body></html>
