@@ -1,191 +1,60 @@
-> *The following text is extracted and transformed from the savingshighway.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218225718id_/http%3A//www.savingshighway.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savingshighway.com privacy policy that was archived on 2013-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131001224641id_/http%3A//www.savingshighway.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
- 
+Information is collected on this website by SavingsHighway, Inc. doing business as SavingsHighway.com, LLC. ("SavingsHighway" or "SH"). SavingsHighway is committed to protecting your privacy and will use your personal information responsibly. Please read below for detailed information about our privacy policy.
 
-| 
+Information Collection and Use  
+SavingsHighway.com (SH) is the owner of all information collected at this site. We will not share or rent this personal information with or to anyone else in any way that is different from what is disclosed to you in this policy. We may collect information from several different points on our website or the websites of SavingsHighway Independent Member Representatives (IMRs), when you make a purchase from one of our IMRs or have other interactions where personal data is provided.
 
-[****](http://www.savingshighway.com/index.php?page=signup "http://www.savingshighway.com/index.php?")
+At certain points in interactive communication with us, you might provide us with personal information such as your name, address, telephone number, and email address. Demographic personal information such as income level, gender, and other personal information of yours may be provided by you on an optional basis.
 
-  
-| 
+We may also gather online information regarding your purchases and shopping activities on websites we host (such as those of SavingsHighway IMRs) to improve the content, ease of use and shopping experience on those websites and to improve our marketing and promotions for our company overall and the websites in particular.
 
-**Find savings in**
+In addition, our web server may automatically collect the following non-personally identifiable information:
 
-**your area!**
+    * your Internet service provider's address,  
+    * the referring URL and  
+    * the information on the pages you access on our site or on the sites of the SavingsHighway IMRs since we host those websites.
 
-**enter your zip code**  
-  
----|---|---  
-  
-**Your Privacy Is Important To Us!!!**
+Personal information that you provide to SavingsHighway will be used by us for the purposes of enabling a SavingsHighway IMR or other SavingsHighway Member or Independent Contractor contact you at your request for the purposes of your becoming a SavingsHighway member, customer or IMR. SavingsHighway may also use your personal information to contact you to keep you informed of developments or opportunities in relation to SavingsHighway, or any of its products or services.
 
-**Privacy Policy...  **Updated November 15, 2006
+We may also use information collected when you make a purchase on line through a IMR Website or at a SavingsHighway show in order to process your order or purchase, process credit card payments, provide warranty service or advise you of promotions and SavingsHighway product news. We may also send you emails with offers from marketing partners which have products or service we believe might be of interest to you.
 
-Savings Highway ("SavingsHighway.com") operates a variety of web sites ("Web Site" or "Site") including www.SavingsHighway.com and is committed to protecting the privacy of our Web Site users ("Users") and SavingsHighway.com® members ("Members").
+We do use third party companies to gather information and provide services to us, for example in maintaining and organizing customer information and conducting promotions, upgrading our Internet services, sending communications and contacting our customers. Some of those third parties will and do have access to the information which customers, members and IMRs provide, including email addresses and credit card information and they may also use cookies on behalf of SavingsHighway.
 
-To that end, we offer this Privacy Policy to inform our Members and Users (referred to individually, or collectively, as "you") of how we collect, use and disclose your personal information. SavingsHighway.com will take reasonable steps to protect your personal information in accordance with this Privacy Policy and applicable laws. To make this notice easy to find, we provide a link to our policy at the bottom of most pages of our Web Site.
+We may also use third party providers to provide ads for SavingsHighway products or services throughout the Internet. They may provide anonymous information regarding your visits to a SavingsHighway website (or that of a SavingsHighway IMR) and your interaction with the goods and services which SavingsHighway provides. They may also use information about your visits to SavingsHighway and other web sites to target advertisements for goods or services. Your anonymous information is collected through a pixel tab, a standard technology used at most major consumer websites. This technology does not require the use or collection of any personally identifiable information such as your name or email address.
 
-Privacy Policy Table of Contents:
+If you have any concerns regarding the use of your information or wish to be removed from our e-mail list, please contact us through our free online help desk at www.savingshighway.com/support.
 
-_What is Personal Information?_ __
+Children  
+We do not intend to collect any personal information from children under the age of eighteen. If a parent or guardian of a child who has provided us with such personal information would like the information deleted from our records, he or she should contact us through our free online help desk at www.savingshighway.com/support. We will then delete the child's personal information from our files.
 
-_When Does SavingsHighway.com Collect Personal Information?_ __
+If we become aware that personally identifiable information regarding a child under the age of 13 has been collected at the Site, we will use such information for the sole purpose of contacting a parent or guardian of the child to obtain verifiable parental consent. If we cannot obtain consent after a reasonable period of time, or if when contacted a parent or guardian requests that we do not use or maintain such information, we will make reasonable efforts to delete it from our records. Upon request by a parent or guardian, SavingsHighway will provide a description of the specific types of personal information collected from a child who is under the age of 13.
 
-_What Happens When I Register On The Web Site?_ __
+Cookies and IP Addresses  
+A cookie is a piece of information stored in your hard drive containing information about you. SavingsHighway may place cookies on your hard drive to assist in site navigation and to personalize your experience on the SavingsHighway.com website. If you want to disable those cookies, most Internet browsers will allow you to delete cookies from your computer hard drive, prevent them from being stored, or signal a warning before a cookie is stored. Please refer to your browser instructions or "help" screen to learn more about these functions. If you elect to block cookies, please note that you may not be able to take full advantage of the features and functions of the SavingsHighway.com website.
 
-_What Happens When I Place An Order On The Web Site?_ __
+We may use a vendor's services to help SavingsHighway measure the effectiveness of advertising and to learn about how visitors to our websites use them. To obtain accurate measurements we may use web beacons and cookies provided by a vendor on our websites. The type of information we would collect would include the specific website and pages visited, and information about transactions made. We may use such data to conduct targeted marketing programs or to determine the nature of our customers and the types of products which each customer finds most attractive.
 
-_Does SavingsHighway.com Use Cookie Technology?_ __
+We may use your IP address to help diagnose problems with our servers and to administer our website. Your IP address may also be used to gather broad demographic data and to recognize customer traffic patterns and site usage.
 
-_What Other Mechanisms Does SavingsHighway.com Use to Track User Behavior?_
+Links to other Websites  
+From time to time SavingsHighway may have a link to other websites of marketing partners or for your convenience. Please check the privacy policies of such other websites which may vary from this one.
 
-_How Does SavingsHighway.com Handle Information from Children?_ __
+We have no responsibility or liability whatsoever for the content, actions or policies of third party web sites. The inclusion of third party web sites on our Site in no way constitutes an endorsement of such web sites' content, actions or policies.  
+Surveys and Contests
 
-_How Does SavingsHighway.com Use Personal Information?_ __
+The SavingsHighway website may request personal information from you via an electronic entry form for purpose of your participation in sweepstakes, contests or surveys. If you choose to provide the personal information requested, we will use that personal information to administer your participation in the relevant sweepstake, contest or survey and in the other ways indicated in this Privacy Policy.
 
-_When Will I Be Contacted by SavingsHighway.com?_ __
+Right to access and change information  
+You have the right to access, review and change any personal information that we might retain. To access or change personal information, please do so from your SavingsHighway.com Members Area BackOffice online or contact us through our online help desk at www.savingshighway.com/support.
 
-_How Can I Opt Out of Receiving Direct Marketing from SavingsHighway.com?_
+Security  
+SavingsHighway has adopted reasonable technical and organizational security measures to prevent unauthorized or unlawful access to or accidental loss of or destruction of your personal information. Not all personal information collected on this website will be retained. If you have any concerns regarding the use of your information, contact us through our online help desk at www.savingshighway.com/support.   If you wish to have your email removed from our email list, you can do so at the bottom of our emails or by contacting us through our online help desk at www.savingshighway.com/support.
 
-_What Personal Information Does SavingsHighway.com Give to Others?_ __
+Changes in Privacy Policy  
+We will post any changes to our privacy policy on the relevant section of our website when our policy changes. However, your consent to provision of information under the current policy will be assumed to constitute consent to any new policy. By your continued use of this website we will make the assumption that you have consented to providing personal information under this privacy policy.
 
-_How does SavingsHighway.com Protect Personal Information?_ __
-
-_What About Links to Other Web Sites?_ __
-
-_How Can I Access or Correct My Personal Information?_ __
-
-_Can SavingsHighway.com Change This Privacy Policy?_ __
-
-_How Do I Contact SavingsHighway.com Regarding The Web Site And This Privacy Policy?_
-
-  **What is Personal Information?**
-
-SavingsHighway.com defines personal information as information about an individual that enables someone to identify or contact a person and includes, among other things, a person's full name, address, telephone number and e-mail address, as well as other information we maintain about a person in identifiable form in combination with one of the foregoing identifiers, such as account history, financial information, titles rented or purchased or categories of products rented or purchased. Categories of personal information that we collect include, for example:
-
-Basic identifying information such as e-mail address and first and last names 
-
-Security information such as password, secret question and answer or driver's license 
-
-Contact information such as address and phone number 
-
-Store membership information such as membership number, names of others allowed to use your account 
-
-Billing information such as credit or check card, expiration date, billing address and account history 
-
-Site preferences  
-
-E-newsletter selections and preferences 
-
-Direct marketing contact preferences 
-
-Purchase history 
-
-Sweepstakes entries 
-
-Complaints, questions and information submitted to customer service agents or similar individuals either in person, by phone, by e-mail or by entry on a Site 
-
-Site behavior such as pages visited or searches requested 
-
-Browser information such as browser version, connection speed, IP address and the presence of various related plug-ins and tools such as media players
-
-  **When Does SavingsHighway.com Collect Personal Information?**
-
-SavingsHighway.com collects personal information from you when you voluntarily submit that information to SavingsHighway.com, for example: when you sign up for a Membership or submit an Affiliate Agreement; register on a Site; sign up for a subscription service; register for our e-newsletter service; participate in one of our sweepstakes, contests, or surveys; respond to an offer; purchase products; or request to be on a mailing list. After you have registered your e-mail address on the Site or signed in to the Site, SavingsHighway.com collects Site behavior and browser information as you navigate through the Site. This information may be used to create a profile that we keep on individual Users that details their preferences, personal information and behavior. Consequently, collected information is tied to the User's personally identifiable information and may be used to provide offers and improve the content of the Site for the User. This profile may also be used to tailor a User's visit to our Web Site, and to direct pertinent marketing promotions to them.
-
-We may also collect personal information from other sources. For example, we may purchase third party marketing data and add it to our existing databases of User and Member information to better target our advertising and provide pertinent offers we think our Users and Members would be interested in. We use this information to enhance or overlay the 'profile' of individual Users. This aggregate marketing data is therefore tied to the User's or Member's personally identifiable information. 
-
-  **What Happens When I Register On The Web Site?**
-
-In order to use certain features of this Web Site, a User must first complete a registration process. During registration a User is required to provide basic contact information (such as name and e-mail address) and establish a password. Depending on the feature being used, the User may be required to provide other information associated with the use of that particular feature. For example, a User signing up for our Membership subscription service will be required to provide an address to which products will be mailed and financial information in the form of a credit card or check card number and expiration date for billing purposes. 
-
-  **What Happens When I Place An Order On The Web Site?**
-
-Certain features of the Web Site do not require registration but may still require personal information to be entered. We request information from the User during the ordering process. For example, a User will be required to provide contact information (such as name, e-mail, and shipping address) and financial information (such as credit card or check card number, expiration date). This information is used for billing purposes and to fill Users' orders. If we have trouble processing an order, the information is used to contact the User.
-
-  **Does SavingsHighway.com Use Cookie Technology?**
-
-SavingsHighway.com uses cookie technology to make your use of the Sites more convenient and to support our internal business purposes. A cookie is a piece of information that is transferred to a User's hard drive for record-keeping purposes. For example, SavingsHighway.com uses cookies to remember your e-mail address so that you will not have to re-enter this information each time you visit the Site. SavingsHighway.com also uses cookies to help track referrals from third party web sites. Most browsers are initially set up to accept cookies, but you can set up your browser to alert you every time a cookie is offered, letting you decide whether or not to accept it. You can use and visit the Site with cookies disabled, but you will not automatically be recognized by the Site upon re-visiting. However, cookies allow you to take full advantage of some of our Sites' best features, so we recommend that you leave them turned on. Some of our business partners use cookies on our Site (for example, advertising partners). However, we have no access to or control over these cookies, once we have given permission for them to set cookies.
-
-  **What Other Mechanisms Does SavingsHighway.com Use to Track User Behavior?**
-
-Some Site web pages and HTML-formatted e-mails and e-newsletters use web beacons to compile statistics about Web Site usage. A web beacon is an electronic image, called a single-pixel (1x1) or clear GIF. Web beacons can recognize certain types of information on a visitor's computer, such as a visitor's cookie number, time and date of a page view, and a description of the page where the Web beacon is placed. You may render some web beacons unusable by rejecting their associated cookies. 
-
-SavingsHighway.com and its third party vendors may use web beacons to track and analyze non-personally identifiable usage information and to compile statistical information about our Users in order to improve the Web Site's quality and to support our business. All data collected on behalf of SavingsHighway.com is owned and used by SavingsHighway.com. SavingsHighway.com reserves the right to publish non-personally identifiable, summary information regarding its Web Site visitors for promotional purposes and as a Affiliate audience for business partners.
-
-We also collect information in log files that include data such as Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks. We and our business partners use this information to analyze trends, administer the Site, track User's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. 
-
-  **How Does SavingsHighway.com Handle Information from Children?**
-
-Please note that SavingsHighway.com has no intention of collecting personal information from individuals under the age of 13 ("children"). We are committed to protecting children's privacy on the Internet and we comply fully with the Children's Online Privacy Protection Act (COPPA). Where appropriate, we will instruct children not to provide such information to us. If a parent becomes aware that a child has provided us with personal information, we ask that the parent or legal guardian of the child contact us by sending an e-mail to support@SavingsHighway.com to request that this information be deleted from our records.
-
-  **How Does SavingsHighway.com Use Personal Information?**
-
-Use of Personal Information for our internal business purposes. SavingsHighway.com uses the personal information you provide for the purposes for which it was provided, for example, to process an order; to support an online subscription service; to collect debts; to notify you that you have won a contest or sweepstakes; to respond to your inquiries or complaints or to contact you or send you information about your membership. In addition, SavingsHighway.com, its subsidiaries and franchisees may share and use information collected through the Site to administer and manage our business, including, for example for account maintenance and collections purposes, and in connection with information technology services. In addition, personal information may be used to create a profile that we keep on individual Users that details their preferences and behavior. This profile may be used to develop and improve the products, benefits and services, SavingsHighway.com, its subsidiaries, franchisees and business partners offer to our Members or Users, to improve the Site and the associated user experience, and to develop pertinent marketing promotions to Users and Members. 
-
-Where permitted or required by law, SavingsHighway.com may collect, use or disclose your personal information without your consent, for example in response to a court order or subpoena or to comply with a legally permitted inquiry by a government agency. 
-
-  **When Will I Be Contacted by SavingsHighway.com?**
-
-You may receive products and communications associated with your transactions with SavingsHighway.com, such as purchases, subscriptions, sweepstakes and contests. You may also receive communications from SavingsHighway.com related to transactions that appear to be from you or which appear to be fraudulent. You may be contacted in regards to an issue on your account or in response to a customer service contact by you or in response to a specific request from you such as clicking on a "forgot my password" link. Users who sign up for e-newsletter subscriptions will receive e-mails in accordance with their selection and preferences. These administrative communications also may be accompanied by information about products and services, special offers and upcoming promotions or events offered by SavingsHighway.com, our subsidiaries, our franchisees or our marketing partners that we think may be of interest to you ("direct marketing"). 
-
-You may periodically receive from SavingsHighway.com, its subsidiaries and franchisees unsolicited direct marketing communications by mail (delivered via the United States Postal Service). SavingsHighway.com and its subsidiaries will send standalone direct marketing e-mail communications to you only if you have agreed previously. We support the option to not receive these types of communications. Please see the following section: How Can I Opt Out of Receiving Direct Marketing from SavingsHighway.com?
-
-  **How Can I Opt Out of Receiving Direct Marketing from SavingsHighway.com?**
-
-By providing us with your personal information, you consent to our collection, use and disclosure of that information as described in this Privacy Policy as amended from time to time or as described at or before the time of collection, use or disclosure, as the case may be. SavingsHighway.com is the owner of the personal information collected on our Web Site. If you do not want your personal information to be collected, used or disclosed in this manner, please do not submit your personal information to us. 
-
-If you would prefer that SavingsHighway.com not use your personal information for standalone direct marketing communications, subject to legal, or contractual restrictions and legal notice you may opt out of such uses and/or disclosures by (a) checking the appropriate "Opt Out" box in any applicable e-mail communication or e-newsletter, (b) sending an e-mail to support@SavingsHighway.com, or (c) writing to us at Savings Highway,18361 Lake Harbor, Prairieville, Louisiana 70769, United States. 
-
-Once you have opted out, your subsequent registration for our direct marketing services and promotions like our e-newsletter, or our sweepstakes and contests may void, temporarily or permanently, your prior elections to opt out of receiving direct marketing communications from SavingsHighway.com. Please consult the applicable rules of the promotion or service before participating. Note that when you elect to opt out we do not delete your personal information. 
-
-E-mails that are sent to you as a result of you performing a business transaction with us or requesting specific information from SavingsHighway.com are not subject to an Opt Out process. If you have any suggestions on how to improve these e-mails, please communicate to our Online Customer Service group using the Contact Us functionality on the Site. We appreciate your feedback but cannot commit to taking action.
-
-  **What Personal Information Does SavingsHighway.com Give to Others?**
-
-_Transfer of Personal Information to Third Party Goods and Services Providers. SavingsHighway.com_ employs third party vendors, service providers, and suppliers to perform various functions on our behalf. Such services include: fulfilling orders; processing credit card or check card payments; collecting debts; removing repetitive information from customer lists; analyzing data; developing, hosting and maintaining our Web Sites and databases; sending and receiving e-mail and other communications; and staffing customer service call centers. These third parties may have access to personally identifiable information as reasonably necessary for the third party to provide these services. These third parties are not allowed to use personally identifiable information except for the purpose of providing these services. Certain information collected in connection with transactions may be provided to third parties for use in transaction authorization, fraud scoring and payment card fraud prevention modeling.
-
-SavingsHighway.com, its affiliates and franchisees (if permitted by SavingsHighway.com) on occasion may disclose to their business partners certain data, such as names and addresses and the genre of products rented or purchased by Users or Members, so that the business partner may send their own direct marketing communications to Users and Members. SavingsHighway.com will not provide User or Member e-mail addresses to business partners, unless the User or Member has provided express permission to SavingsHighway.com. If you would prefer that SavingsHighway.com not use disclose your personal information to its business partners for direct marketing purposes, subject to legal, or contractual restrictions and legal notice you may opt out of such uses and/or disclosures by (a) checking the appropriate "Opt Out" box in any applicable e-mail communication or e-newsletter, (b) sending an e-mail to support@SavingsHighway.com or (c) writing to us at Savings Highway,18361 Lake Harbor, Prairieville, Louisiana 70769,
-
-United States.
-
-_**Cleaned Data.**_ _We_ periodically remove from personal information data that can be used to identify individuals for example by summarizing, aggregating or removing certain data elements. The resulting cleaned data is no longer considered personal information and is not subject to this Privacy Policy. The cleaned data may be published by SavingsHighway.com and provided to various third parties.
-
-_**Disclosures Attendant to a Merger or Acquisition.**_ _If_ SavingsHighway.com or its assets are acquired by another company, your personal information may be disclosed to the acquiring company to allow it to fulfil your order or provide the products, services or information that SavingsHighway.com would otherwise provide to you and generally to carry on the SavingsHighway.com business. We may also use and disclose your personal information to parties connected with the contemplated or actual financing, insuring, sale, assignment or other disposal of all or part of our business or assets, including for the purposes of determining whether to proceed or continue with such transaction or business relationship or fulfilling any records or other reporting requirements to such parties. We will require such parties to treat your personal information in accordance with this privacy policy and to use and disclose it only for the purposes for which it was collected. 
-
-_**Public postings.**_ _If_ you disclose your personal information in a manner that will be posted publicly such as in a product review your posting will be seen by others. 
-
-  **How does SavingsHighway.com Protect Personal Information?**
-
-SavingsHighway.com takes reasonable measures to protect the personal information it collects, uses, stores or discloses. We have implemented physical, technological and organizational procedures designed to protect the integrity and security, and to ensure the appropriate use, of your personal information. These procedures are appropriate to the nature, sensitivity and format of the personal information collected, used, stored or disclosed by SavingsHighway.com. For example, SavingsHighway.com uses Secure Sockets Layering (SSL) to encrypt your personal credit information, including your credit card or check card number, before it travels over the Internet. SSL technology is the industry standard for secure online transactions. 
-
-  **What About Links to Other Web Sites?**
-
-This Privacy Policy applies solely to information collected by SavingsHighway.com. However, our Site contains links to other web sites owned and operated by third parties. The third parties who operate these sites may treat the collection, use and disclosure of personal information differently than we do. This could be the case even for those web sites that carry SavingsHighway.com's or its affiliates' trademarks or logos or which are framed by a Site. Please be aware that SavingsHighway.com is not responsible for the data collection, use and disclosure practices of companies or organizations to which our Sites may provide links. We encourage our Users to be aware when they leave our Site and to read the privacy statements of each and every Web site that collects personally identifiable information. 
-
-  **How Can I Access or Correct My Personal Information?**
-
-If a User's personally identifiable information changes (such as zip code, phone, e-mail or postal address), or if a User no longer desires our service, we provide a way to correct or, update or delete/deactivate Users' personally identifiable information. You can review or change some of your personal information as follows:
-
-You can review and change certain store related information by visiting one of our stores, presenting suitable identification and giving the store agent your changes such as providing a new address or phone number, removing names from your account, changing your credit card or check card information, etc. 
-
-You can review and change certain Site related information by visiting the Site, entering your e-mail address and password and accessing the "My Account" area. 
-
-Note that in most cases, SavingsHighway.com will retain the previously entered data.
-
-  **Can SavingsHighway.com Change This Privacy Policy?**
-
-SavingsHighway.com reserves the right to change this Privacy Policy from time to time. If SavingsHighway.com makes a change, this Privacy Policy will be updated accordingly. We recommend that you review this Privacy Policy periodically so that you are aware of any changes. If we make a material change to this Privacy Policy we will make reasonable efforts to notify you. For example, your continued consent to our collection, use and disclosure of your personal information or your continued use of our Sites following the notification or posting of any changes to this Privacy Policy shall constitute your acceptance of these changes.
-
-  **How Do I Contact SavingsHighway.com Regarding The Web Site And This Privacy Policy?**
-
-If Users have any questions or suggestions regarding our privacy policy, please contact us by using the
-
-"contact us" form on this website.
-
-[****](http://www.savingshighway.com/index.php?page=signup "http://www.savingshighway.com/index.php?")
-
-  
-
+Contacting Us  
+Please contact us with any questions about our privacy practices, this privacy policy or the protection of your personal information through our online help desk at www.savingshighway.com/support.
