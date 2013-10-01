@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loveit.com privacy policy that was archived on 2012-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120827041128id_/http%3A//loveit.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loveit.com privacy policy that was archived on 2013-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131001140624id_/http%3A//loveit.com/about/privacy) for the most accurate reproduction.*
 
 # LoveIt
 
