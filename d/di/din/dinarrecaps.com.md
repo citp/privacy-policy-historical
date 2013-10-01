@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dinarrecaps.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620141333id_/http%3A//www.dinarrecaps.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dinarrecaps.com privacy policy that was archived on 2013-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131001210504id_/http%3A//www.dinarrecaps.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Dinar Recaps
 
