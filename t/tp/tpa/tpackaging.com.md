@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tpackaging.com privacy policy that was archived on 2012-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120326110438id_/http%3A//www.tpackaging.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tpackaging.com privacy policy that was archived on 2013-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131001065818id_/http%3A//www.tpackaging.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Burlington, ON - Transparent Packaging
 
