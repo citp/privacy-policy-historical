@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkdominators.com privacy policy that was archived on 2013-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130109142001id_/http%3A//linkdominators.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkdominators.com privacy policy that was archived on 2013-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131001174622id_/http%3A//linkdominators.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Link Building Service - Get One Way Links for Pennies!
 
