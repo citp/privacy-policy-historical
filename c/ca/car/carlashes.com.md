@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carlashes.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601005013id_/http%3A//carlashes.com/index.php%3Fl%3Dpage_view%26p%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carlashes.com privacy policy that was archived on 2013-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131001075610id_/http%3A//www.carlashes.com/index.php%3Fl%3Dpage_view%26p%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
