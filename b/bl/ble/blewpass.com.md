@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blewpass.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601020904id_/http%3A//blewpass.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blewpass.com privacy policy that was archived on 2013-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131001075400id_/http%3A//www.blewpass.com/privacy.php) for the most accurate reproduction.*
 
-# blewpass.com - Unblock YouTube, Facebook, Twitter, Adult Unblocker - Secure
+# BlewPass - Secure Proxy to Unblock Youtube
 
 ## Privacy Policy
 
@@ -20,11 +20,11 @@ Our website stores a cookie on your computer, if allowed by your browser's priva
 
 We may also use third-party advertising partners on our website. Advertisers may send you cookies or use web beacons. We have no control over cookies, web beacons or the information collected by our advertisers. Consult the third-party advertiser's privacy policy for more information on their practices.
 
-  * [Home](https://web.archive.org/web/20130601020904id_/http%3A//blewpass.com/index.php)
-  * [Edit Browser](https://web.archive.org/web/20130601020904id_/http%3A//blewpass.com/edit-browser.php)
-  * [Manage Cookies](https://web.archive.org/web/20130601020904id_/http%3A//blewpass.com/cookies.php)
-  * [Privacy Policy](https://web.archive.org/web/20130601020904id_/http%3A//blewpass.com/privacy.php)
-  * [Disclaimer](https://web.archive.org/web/20130601020904id_/http%3A//blewpass.com/disclaimer.php)
-  * [Terms of Use](https://web.archive.org/web/20130601020904id_/http%3A//blewpass.com/tou.php)
+  * [Home](https://web.archive.org/web/20131001075400id_/http%3A//www.blewpass.com/index.php)
+  * [Edit Browser](https://web.archive.org/web/20131001075400id_/http%3A//www.blewpass.com/edit-browser.php)
+  * [Manage Cookies](https://web.archive.org/web/20131001075400id_/http%3A//www.blewpass.com/cookies.php)
+  * [Privacy Policy](https://web.archive.org/web/20131001075400id_/http%3A//www.blewpass.com/privacy.php)
+  * [Disclaimer](https://web.archive.org/web/20131001075400id_/http%3A//www.blewpass.com/disclaimer.php)
+  * [Terms of Use](https://web.archive.org/web/20131001075400id_/http%3A//www.blewpass.com/tou.php)
 
 
