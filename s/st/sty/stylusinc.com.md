@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stylusinc.com privacy policy that was archived on 2013-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130127103214id_/http%3A//www.stylusinc.com/BI/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylusinc.com privacy policy that was archived on 2013-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131001061628id_/http%3A//www.stylusinc.com/BI/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Stylusinc -Think Together.
+# Privacy Policy | Stylusinc- Technology Consultants and Solutions
 
 **What information do we collect?**
 
