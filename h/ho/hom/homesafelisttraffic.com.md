@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homesafelisttraffic.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618132044id_/http%3A//www.homesafelisttraffic.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homesafelisttraffic.com privacy policy that was archived on 2013-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131001080407id_/http%3A//www.homesafelisttraffic.com/privacy.cfm) for the most accurate reproduction.*
 
 # 
 
