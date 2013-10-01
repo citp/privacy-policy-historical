@@ -1,100 +1,128 @@
-> *The following text is extracted and transformed from the 7go.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7go.com privacy policy that was archived on 2013-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131001073126id_/http%3A//www.7go.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# 7Go: Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+Effective on January 1st, 2013
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+This privacy statement describes how 7go collects and uses the  
+personal information you provide on our Web site: [7go.com](http://7go.com/).  
+It also describes the choices available to you regarding our use of your personal information and  
+how you can access and update this information. 
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+## Collection and Use of Personal Information
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+As with most other websites, we collect and use the data contained in  
+log files. The information in the log files include your IP (internet  
+protocol) address, your ISP (internet service provider, such as AOL or Shaw  
+Cable), the type of browser you used to visit our site (such as Google  
+Chrome, Internet Explorer or Mozilla Firefox), the time at which you  
+visited our site and which pages you visited throughout our site. 
 
-**Information Collection and Use**
+We may collect personal information at various times when you use our website or plugin. The more information you volunteer (and the more accurate it is), the better we are able to customize your experience. Your participation is voluntary and you have the choice not to disclose any information that we request. 
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+### The types of information we gather:
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+  * **Information you provide:** We receive and store any information you enter on 7go.com or give us in any other way. You provide most such information when you use the 7go or bundled plugins. For instance, if you register for an account with us, we may collect your name, email address, country of origin, and, if you choose, your nickname, telephone number, website, company, and title. If you download and install the plugin, we collect any information voluntarily provided by you during the installation and registration process, which can include demographic information such as gender, age, occupation, household income, zip code and country. Demographic information may be correlated to web usage information collected during your use of the service. In addition, you might provide us with personal identifying information, such as mobile telephone number, when you communicate with us by phone, e-mail or otherwise, or complete a questionnaire, subscription form or a contest entry form. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing and improving our services, delivering targeted content and advertisements that may be of interest to you, and communicating with you.
+  * **Automatic information we collect from the plugin:** When you use 7go plugin, we may collect information about the websites you visit and the advertisements that you see on those websites, the searches you perform using search engines, the ways in which you use various features, and the pages you view (especially social media pages). For example, we may collect information about page views, impressions and clicks, as well as similar web usage information. For every webpage you view while using the plugin, our software transmits and stores information associated with your Internet Protocol (IP) address, which may include a domain name, the full URL of the webpage you are visiting, general information about your browser; general information about your computer’s operating system; your Licensor cookie number or other identifying alphanumerical information enabling Licensor to identify your computer; and the date and time the above information is logged. All of this above information may be logged together in a single data string for each webpage you visit. Each string is logged in our database in the chronological order received from our users. In addition, we may collect information about what cookies are stored on your computer, which enables Licensor to determine which websites you have visited in the past. Although this information may contain some personal identifying information, Licensor does not use it to determine the identity of individual users or correlate it to your email address or other personal identifying information that you give us or our affiliates, except as required by subpoenas, court orders, investigations or other legal requirements. When you download the plugin, and at times during your use of the site, we may transmit Licensor cookies to the hard drive of your computer. We may also automatically collects information about the online advertisements that are displayed on the websites you visit – specifically, the text, source, and URL of the online ad – and the terms you choose when you use search engines to search the Web. Licensor also may periodically collect usage statistics from users that describe the frequency of use of each feature.
+  * **Automatic information we collect from the site:** We receive and store certain types of information whenever you interact with our site. For example, like many websites, we use “cookies,” and we obtain certain types of information when your Web browser accesses the Site, when you use the plugin, or when you view advertisements and other content served by or on behalf of Licensor on other Web sites. Examples of the information we may collect and analyze when you use our website include the IP address used to connect your computer to the Internet; computer and connection information such as browser type, version, and time zone setting, browser plug-in types and versions, operating system, and platform; the full Uniform Resource Locator (URL) clickstream to, through, and from the Site, including date and time; cookie; web pages you viewed or searched for. During some visits to the Site we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+We do not only collect any identifiable information in order to optimize and improve our website. 
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+If you are not yet 18, you are not allowed to use our services. Further, if we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from a child under age 13, please contact us
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+## Information Sharing
 
-**Security**
+We do not sell your personal information to third parties. However, we may disclose your personal information: 
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+  * As required by law such as to comply with a subpoena, or similar legal process
+  * When we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request
+  * If 7go is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information
+  * To any other third party with your prior consent to do so.
 
-**Updating Your Information**
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+### Use of Information
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+7go may use information (whether personal identifying information or not) that we collect about you to: 
 
-      iii.      You may call us at: (480) 505-8800
+  * Deliver the products and services that you have requested
+  * Send you offers that you have opted in to receive
+  * Manage your relationship with us and provide you with customer support
+  * Perform research and analysis about your use of, or interest in, our products, services or content, or products, services or content offered by others.
+  * communicate with you by e-mail, postal mail, telephone and/or mobile devices about products or services that may be of interest to you either from us or third parties
+  * Develop and display content and advertising (such as targeted ads) tailored to your interests on our websites and other websites
+  * verify your eligibility and deliver prizes in connection with promotions, contests and sweepstakes
+  * Enforce our Agreement
+  * Protect Licensor, our plugin, our websites, our customers and/or our other users from fraud, hacking or other harm
+  * Cooperate with legal, criminal or regulatory investigations or proceedings
+  * Manage our business
+  * Perform functions as otherwise described to you at the time of information collection
 
-       iv.      You may fax us at: (480) 505-8844
 
-**Sending Emails**
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+### Third Party E-Commerce Solutions Provider
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+Our shopping cart is hosted by our e-commerce solutions provider. They  
+host our ordering system, and collect your billing information directly  
+from you for the purpose of processing your order. This company does not use  
+this information for any other purpose. 
 
-**Compliance with Laws and Law Enforcement**
+## Use of Cookies and Web Beacons
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+In computer language, a cookie is used to store data on a computer’s  
+hard drive. Almost all websites utilize cookies to one extent or  
+another. 
 
-**Third Party Service Providers**
+We use third-party cookies, known as “web beacons”, to advertise our  
+website using a technology known as Retargeting. If you would like more  
+information about this practice and to know your choices about not having  
+this information used by these companies, [click here](http://www.networkadvertising.org/consumer/opt_out.asp).  
+Certain third party advertisers may collect personal information  
+you provide in fields and forms presented in connection with their ads.  
+This policy does not apply to, and we are not responsible for information  
+you choose to provide in connection with these third party ads. We  
+encourage you to check the privacy policies of the advertisers to learn  
+about their use of your information. 
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+### Links to Other Web Sites
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+Our Site includes links to other Web sites whose privacy practices may  
+differ from those of 7go.  
+Our service may also be linked to sites or services operated by the 7go affiliates or third parties,  
+and may carry advertisements or offer content, functionality, games, rewards programs, newsletters,  
+contests or sweepstakes, or applications developed and maintained by third parties including, any online store.  
+7go is not responsible for the privacy practices of any such third parties, and once you leave the Services via a link,  
+enable a third party service, or click an advertisement, you should check the applicable privacy policy of the third party site.  
+If you submit personal information to any of those sites, your information is governed by their privacy  
+statements. We encourage you to carefully read the privacy statement of any  
+Web site you visit. 
 
-**Supplementation of Information**
+## Security
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+When we collect personal information directly from you, we follow  
+generally accepted industry standards to protect the personal information  
+submitted to us, both during transmission and once we receive it. No method  
+of transmission over the Internet, or method of electronic storage, is 100%  
+secure, however. Therefore we cannot guarantee its absolute security. If  
+you have any questions about security on our Web site, you can contact  
+us. 
 
-**Contests/Surveys**
+In order to make a purchase from us, you must use our shopping cart  
+provider to finalize and pay for your order. Its privacy statement and  
+security practices will also apply to your information. We encourage you to  
+read that privacy statement before providing your information. 
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+## Notification of Privacy Statement Changes
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+We may update this privacy statement to reflect changes to our  
+information practices. If we make any material changes we will notify you  
+by email (sent to the e-mail address specified in your account) or by means  
+of a notice on this Site prior to the change becoming effective. We  
+encourage you to periodically review this page for the latest information  
+on our privacy practices. 
 
-**Tell-A-Friend**
+## Contact Information
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+You can contact us about this privacy statement by emailing us at: [support@7go.com](mailto:support@7go.com)
