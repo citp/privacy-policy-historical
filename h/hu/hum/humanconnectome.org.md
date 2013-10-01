@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the humanconnectome.org privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519012923id_/http%3A//humanconnectome.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humanconnectome.org privacy policy that was archived on 2013-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131001064403id_/http%3A//humanconnectome.org/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Human Connectome Project
 
