@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vayama.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514105848id_/http%3A//www.vayama.com/aboutus/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vayama.com privacy policy that was archived on 2013-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131001214855id_/http%3A//www.vayama.com/aboutus/privacy%3Fs%3D14182504) for the most accurate reproduction.*
 
 # vayama | privacy
 
@@ -159,4 +159,4 @@ Because the Internet is an evolving medium, we may update this Privacy Policy in
 1975 West El Camino Real  
 Suite 204  
 Mountain View, CA 94040  
-1.877.628.6452 **
+1.650.265.1856 **
