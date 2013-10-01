@@ -1,9 +1,7 @@
-> *The following text is extracted and transformed from the chennaispider.com privacy policy that was archived on 2013-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130412072503id_/http%3A//www.chennaispider.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chennaispider.com privacy policy that was archived on 2013-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131001155905id_/http%3A//www.chennaispider.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # ChennaiSpider.com privacy policy
 
-  
-  
   
 
 
@@ -49,3 +47,25 @@ Kochi. India**
 We would request you please provide us as much information as possible to resolve the issue.
 
 * * *
+
+  
+| 
+
+Online People
+
+### Like Us?
+
+ **Active Members**  
+ _ **Today**_
+
+
+
+
+ _ **Last 7 Days**_
+
+
+
+
+[ more...](https://web.archive.org/members/TopPerformers.aspx)  
+  
+---|---
