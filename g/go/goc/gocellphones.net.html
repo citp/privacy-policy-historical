@@ -1,463 +1,718 @@
-<!--The following is the downloaded HTML source of the gocellphones.net privacy policy that was archived on 2010-10-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101017084014id_/http%3A//www.gocellphones.net/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gocellphones.net privacy policy that was archived on 2013-10-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131001051632id_/http%3A//www.gocellphones.net/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Privacy Policy</title>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
+	<meta charset="UTF-8">
+<title>Privacy Policy – Go Cellphones</title> 
+<meta name="description" content="gocellphones.net is an industry leader in wireless news, videos, reviews, rumors, and free phone giveaways.  Between unboxing videos, reviews, dogfights, how-tos, industry previews, and live chats, gocellphones provides information to help consumers of all types get the most out of their mobile devices.">
+<meta name="keywords" content="cell phones,compare cell phones,compare cellular plans,AT&amp;T, Android, blackberry, iphone, htc, google, windows mobile, compare carriers,compare providers,compare long distance,phone services,phone rates,cellular,celular,cellphones,local phone service,voice over ip,telecom comparison">
+	<link rel="stylesheet" href="http://www.gocellphones.net/wp-content/themes/techblog-single-pro-psd/style.css" type="text/css" media="screen">
+    <link rel="shortcut icon" href="">
+    <link rel="shortcut icon" href="" type="image/x-icon">
+    <meta name="generator" content="Magazine3 Framework Version 3.0">
+	<!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+	<link rel="alternate" type="application/rss+xml" title="Go Cellphones RSS Feed" href="http://www.gocellphones.net/feed/">
+	<link rel="pingback" href="http://www.gocellphones.net/xmlrpc.php">
+	<script type="text/javascript" src="http://www.gocellphones.net/wp-content/themes/techblog-single-pro-psd/js/jquery-1.4.4.min.js"></script>
+	<script type="text/javascript" src="http://www.gocellphones.net/wp-content/themes/techblog-single-pro-psd/js/ddsmoothmenu.js"></script> 
+    <script type="text/javascript" src="http://www.gocellphones.net/wp-content/themes/techblog-single-pro-psd/js/jquery.tools.min.js"></script>
+ <script type="text/javascript">
+var $ = jQuery.noConflict();
+$(document).ready(function() {
 
-<link rel="stylesheet" href="http://www.gocellphones.net/wp-content/themes/socrates/style.css" type="text/css">
+	//When page loads...
+	$(".tab_content").hide(); //Hide all content
+	$("ul.tabs li:first").addClass("active").show(); //Activate first tab
+	$(".tab_content:first").show(); //Show first tab content
 
-<link rel="stylesheet" href="http://www.gocellphones.net/wp-content/themes/socrates/css/styleRightSide300.css" type="text/css">
-<link rel="alternate" type="application/rss+xml" title="Go Cell Phones » Privacy Policy Comments Feed" href="http://www.gocellphones.net/privacy-policy/feed">
-<link rel="stylesheet" id="sociable-front-css-css" href="http://www.gocellphones.net/wp-content/plugins/sociable/sociable.css?ver=2.9.2" type="text/css" media="">
+	//On Click Event
+	$("ul.tabs li").click(function() {
+
+		$("ul.tabs li").removeClass("active"); //Remove any "active" class
+		$(this).addClass("active"); //Add "active" class to selected tab
+		$(".tab_content").hide(); //Hide all tab content
+
+		var activeTab = $(this).find("a").attr("href"); //Find the href attribute value to identify the active tab + content
+		$(activeTab).fadeIn(); //Fade in the active ID content
+		return false;
+	});
+
+});
+</script>
+ <script type="text/javascript">
+$(document).ready(function() {
+	//Tooltips
+	$(".tip_trigger").hover(function(){
+		tip = $(this).find('.tip');
+		tip.show(); //Show tooltip
+	}, function() {
+		tip.hide(); //Hide tooltip		  
+	}).mousemove(function(e) {
+		var mousex = e.pageX + 20; //Get X coodrinates
+		var mousey = e.pageY + 20; //Get Y coordinates
+		var tipWidth = tip.width(); //Find width of tooltip
+		var tipHeight = tip.height(); //Find height of tooltip
+		
+		//Distance of element from the right edge of viewport
+		var tipVisX = $(window).width() - (mousex + tipWidth);
+		//Distance of element from the bottom of viewport
+		var tipVisY = $(window).height() - (mousey + tipHeight);
+		  
+		if ( tipVisX < 20 ) { //If tooltip exceeds the X coordinate of viewport
+			mousex = e.pageX - tipWidth - 20;
+		} if ( tipVisY < 20 ) { //If tooltip exceeds the Y coordinate of viewport
+			mousey = e.pageY - tipHeight - 20;
+		} 
+		tip.css({  top: mousey, left: mousex });
+	});
+});
+
+</script>
+	 <script type="text/javascript">
+ $(document).ready(function() {
+
+ $("div.scrollable").scrollable({
+
+		size: 3,
+		items: '#thumbs',   
+		hoverClass: 'hover',
+		speed: 400,
+		keyboard: false,
+		clickable: false
+
+	}).navigator();	
+	  
+  		
+});
+</script>
+  
+ <script type="text/javascript">   
+
+  // when the DOM is ready...        
+
+$(document).ready(function () {      
+
+  // load the ticker                 
+
+	createTicker();                    
+
+});                                  
+
+function createTicker(){             
+
+	// put all list elements within #ticker-area into array   
+
+	var tickerLIs = $("#ticker-area ul").children();          
+
+	tickerItems = new Array();                                
+
+	tickerLIs.each(function(el) {                             
+
+		tickerItems.push( jQuery(this).html() );                
+
+	});                                                       
+
+	i = 0                                                     
+
+	rotateTicker();                                           
+
+}                                                           
+
+function rotateTicker(){                                    
+
+	if( i == tickerItems.length ){                            
+
+	  i = 0;                                                  
+
+	}                                                         
+
+  tickerText = tickerItems[i];                              
+
+	c = 0;                                                    
+
+	typetext();                                               
+
+	setTimeout( "rotateTicker()", 5000 );                     
+
+	i++;                                                      
+
+}                                                           
+
+var isInTag = false;                                        
+
+function typetext() {	                                      
+
+	var thisChar = tickerText.substr(c, 1);                   
+
+	if( thisChar == '<' ){ isInTag = true; }                  
+
+	if( thisChar == '>' ){ isInTag = false; }                 
+
+	$('#ticker-area').html("&nbsp;" + tickerText.substr(0, c++));   
+
+	if(c < tickerText.length+1)                                     
+
+		if( isInTag ){                                                
+
+			typetext();                                                 
+
+		}else{                                                        
+
+			setTimeout("typetext()", 28);                               
+
+		}                                                             
+
+	else {                                                          
+
+		c = 1;                                                        
+
+		tickerText = "";                                              
+
+	}	                                                              
+
+}                                                                 
+
+  </script> 
+			
+	   	<link rel="alternate" type="application/rss+xml" title="Go Cellphones » Privacy Policy Comments Feed" href="http://www.gocellphones.net/privacy-policy/feed/">
+<script type="text/javascript" src="http://www.gocellphones.net/wp-includes/js/comment-reply.js?ver=3.4.1"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.gocellphones.net/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.gocellphones.net/wp-includes/wlwmanifest.xml"> 
-<link rel="index" title="Go Cell Phones" href="http://www.gocellphones.net">
-<meta name="generator" content="WordPress 2.9.2">
-<link rel="canonical" href="http://www.gocellphones.net/privacy-policy">
+<link rel="prev" title="Contact Us" href="http://www.gocellphones.net/contact-us/">
+<link rel="next" title="Terms of use" href="http://www.gocellphones.net/terms-of-use/">
+<meta name="generator" content="WordPress 3.4.1">
+<link rel="canonical" href="http://www.gocellphones.net/privacy-policy/">
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+  
+      <link href="http://fonts.googleapis.com/css?family=Arvo" rel="stylesheet" type="text/css">
+       <link href="http://fonts.googleapis.com/css?family=Molengo" rel="stylesheet" type="text/css">
+       <link href="http://fonts.googleapis.com/css?family=Droid+Serif:regular,bold&amp;subset=latin" rel="stylesheet" type="text/css">
+       <link href="http://fonts.googleapis.com/css?family=Droid+Sans" rel="stylesheet" type="text/css">
+ 
 
-<!-- platinum seo pack 1.3.3 -->
-<meta name="robots" content="index,follow,noodp,noydir">
-<meta name="description" content="Your PrivacyYour privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices">
-<link rel="canonical" href="http://www.gocellphones.net/privacy-policy">
-<!-- /platinum one seo pack -->
-<script type="text/javascript" src="http://www.gocellphones.net/wp-includes/js/tw-sack.js?ver=1.6.1"></script>
-		<script type="text/javascript">
-			function quick_contact_send() { //Send Message Ajax Call
-				//Deactivate submit button 
-				var submit_button = document.getElementById('quick_contact_submit');
-				submit_button.disabled = true;
-				//Get Input Fields (Clear them if they are the autofill message)
-				var name = document.getElementById('quick_contact_name').value;
-				if(name == "Please enter your name...")
-					name = "";
-				var email = document.getElementById('quick_contact_email').value;
-				if(email == "So that we can reply to you...")
-					email = "";
-				var phone = document.getElementById('quick_contact_phone').value;
-				if(phone == "So that we can reply to you...")
-					phone = "";
-				var message = document.getElementById('quick_contact_message').value;
-				if(message == "Questions? Comments? Enter them here (no HTML please)...")
-					message = "";
-				var captcha = document.getElementById('quick_contact_captcha_text').value;
-				if(captcha == "Type text at left...")
-					captcha = "";
-				//Ensure that there is at least a name and an email or phone
-				var error_default = "Please fill out the following before submitting:\n";
-				var error = error_default;
-				if(name == "" || name == null)
-					error += "  - Please enter your name.\n";
-				if((email == "" || email == null) && (phone == "" || phone == null)) 
-					if(error != "") error += "  - Please enter either a phone number or email for us to contact you.\n";
-				if(captcha == "" || captcha == null)
-					error += "  - Please enter the text from the image.\n";
-				if(error != error_default) {
-					submit_button.disabled = false;
-					alert(error);
-					return;
-				}
-				//If the message is empty ask the user to conferm that they ment to hit the submit button
-				if(message == "" && !confirm("Are you sure you want to send without entering a message?")) {
-					submit_button.disabled = false;
-					return;
-				}
-				//Display processing message
-				submit_message = document.getElementById('quick_contact_submit_message');
-				submit_message.className = "quick_contact_message";
-				submit_message.innerHTML = "Submitting Message, Please Wait...";
-				//Build SACK Call
-				var mysack = new sack("http://www.gocellphones.net/wp-content/plugins/quick-contact/quick-contact.php");
-				mysack.execute = 1;
-				mysack.method = 'POST';
-				mysack.setVar("quick_contact_name",name);
-				mysack.setVar("quick_contact_email",email);
-				mysack.setVar("quick_contact_phone",phone);
-				mysack.setVar("quick_contact_message",message);
-				mysack.setVar("quick_contact_captcha",captcha);
-				mysack.setVar("quick_contact_action","send_message");
-				mysack.onError = function() { alert('An ajax error occured while sending your message. Please reload the page and try again.') };
-				mysack.runAJAX();//excecute
-				return;
-			}
-			
-			function quick_contact_reset_form() { //Reset Form Javascript Call
-				document.getElementById('quick_contact_form').innerHTML = '<table width=\'100%\'  border=\'0\' cellspacing=\'0\' cellpadding=\'0\'><tr><th>Name:</th><td><input type=\'text\' id=\'quick_contact_name\' class=\'quick_contact_faded\' value=\'Please enter your name...\' maxlength=\'100\' onFocus=\'if(this.value == "Please enter your name..."){ this.value = ""; this.className = "quick_contact_focused"; }\'/></td></tr><tr><th>Email:</th><td><input type=\'text\' id=\'quick_contact_email\' class=\'quick_contact_faded\' value=\'So that we can reply to you...\' maxlength=\'150\' onFocus=\'if(this.value == "So that we can reply to you..."){ this.value = ""; this.className = "quick_contact_focused"; };\'/></td></tr><tr><th>Phone:</th><td><input type=\'text\' id=\'quick_contact_phone\' class=\'quick_contact_faded\' value=\'So that we can reply to you...\' maxlength=\'100\' onFocus=\'if(this.value == "So that we can reply to you..."){ this.value = ""; this.className = "quick_contact_focused"; };\'/></td></tr><tr><th>Message:</th><td><textarea id=\'quick_contact_message\' class=\'quick_contact_faded\' onFocus=\'if(this.value == "Questions? Comments? Enter them here (no HTML please)..."){ this.value = ""; this.className = "quick_contact_focused"; };\'>Questions? Comments? Enter them here (no HTML please)...</textarea></td></tr><tr><th><img id=\'quick_contact_captcha\' src=\'?quick_contact_action=get_captcha\' align=\'right\'/></th><td><input type=\'text\' id=\'quick_contact_captcha_text\' class=\'quick_contact_faded\' style=\'width:110px;\' value=\'Type text at left...\' maxlength=\'20\' onFocus=\'if(this.value == "Type text at left..."){ this.value = ""; this.className = "quick_contact_focused"; };\'/> <small><a href=\'javascript:quick_contact_reset_captcha();\'>I can\'t read the text, please reset it.</a></small></td></tr><tr><th>&nbsp;</th><td style=\'padding-top:2px;\'><input type=\'submit\' id=\'quick_contact_submit\' value=\'Send\' onClick=\'quick_contact_send(); return false;\' style=\'width:50px;\'><input type=\'button\' id=\'quick_contact_cancel\' value=\'Cancel\' style=\'width:60px;\' onClick=\'quick_contact_reset_form();\'> <span style=\'font-size:0.7em;\'>Powered by <a href=\'http://quickcontact.squarecompass.com/\'>Quick Contact</a></span><br/><div id=\'quick_contact_submit_message\'>&nbsp;</div></td></tr><tr><th>&nbsp;</th><td></td></tr></table>';
-			}
-			
-			var quick_contact_reset_captcha_count = 0;
-			function quick_contact_reset_captcha() { //Reset Form Javascript Call
-				quick_contact_reset_captcha_count++;
-				document.getElementById('quick_contact_captcha').src = 'http://www.gocellphones.net/wp-content/plugins/quick-contact/quick-contact.php?quick_contact_action=get_captcha&count='+quick_contact_reset_captcha_count;
-			}
-		</script>
-	
-<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.gocellphones.net/feed">
-<link rel="alternate" type="text/xml" title="RSS .92" href="http://www.gocellphones.net/feed/rss">
-<link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="http://www.gocellphones.net/feed/atom">
-<link rel="alternate" type="application/rss+xml" title="Go Cell Phones RSS Comments Feed" href="http://www.gocellphones.net/comments/feed">
-
-	<!-- Style for custom elements -->
-	<style type="text/css">
-        .titleText {color:#FFFFFF; margin:20px 0px 0px}
-        .titleText a {color:#FFFFFF; margin:20px 0px 0px}
-        .titleText {font-family:Arial, Helvetica, sans-serif}
-        .titleText {font-size:360%;}
-
-        
-        .descText  {color:#FFFFFF;}
-        .descText  {font-family:Tahoma, Geneva, sans-serif}
-        .descText  {font-size:140%}
-        
-        #header    {text-align:; font-size:90%;}	
-        
-	        body {background:#EBF2FF }
-	            
-        .im-topNav a {color:#183152}
-        .im-topNav a:hover {color:#375D81}
-            
-        .im-nav a {color:#183152}
-        .im-nav a:hover {color:#375D81}
-            
-        .im-lowerFooter {color:#68889E}
-        .im-lowerFooter a {color:#375D81}
-        .im-lowerFooter a:hover {color:#68889E}
-            
-        h1, h2, h3, h4, h5 ,h6  {color:#183152}
-        h1 a, h2 a, h3 a, h4 a, h5 a ,h6 a {color:#183152}
-        h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5a:hover ,h6 a:hover {color:#375D81}
-            
-        .post h1 a, .post h2 a {color:#183152}
-        .post h1 a:hover, .post h2 a:hover {color:#375D81}
-            
-        .post a {color:#375D81}
-        .post a:hover {color:#183152}
-        
-        #header	{width:940px; height:150px; overflow:hidden; padding:5px 10px 0px; background:url(http://www.gocellphones.net/wp-content/themes/socrates/header-images/nature/clouds.jpg) no-repeat;}
-	</style>
-
-
-<script type="text/javascript" src="http://www.gocellphones.net/wp-content/themes/socrates/scripts/jquery.js"></script>
-<script type="text/javascript" src="http://www.gocellphones.net/wp-content/themes/socrates/scripts/myStuff.js"></script>
+<link rel="canonical" href="http://www.gocellphones.net/privacy-policy/">
 </head>
 
+<body>
 
-<body onload="divHeight()" class="page page-id-19">
-<div class="im-wrapper" align="center">
-	<div class="topBar"></div>
-	<div class="im-frame">
+<div id="wrapper">
 
-	<!-- Upper Navigation -->        
-		<div class="im-topNav">
-		<a href="/">Home</a>		<a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2Fs%3Fie%3DUTF8%26ref_%3Dnb%5Fsb%5Fnoss%26field-keywords%3DGoPhone%26url%3Dsearch-alias%253Daps&amp;tag=natherheasit-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=390957" onclick="urchinTracker('/outgoing/www.amazon.com/gp/redirect.html?ie=UTF8_location=http_3A_2F_2Fwww.amazon.com_2Fs_3Fie_3DUTF8_26ref_3Dnb_5Fsb_5Fnoss_26field-keywords_3DGoPhone_26url_3Dsearch-alias_253Daps_tag=natherheasit-20_linkCode=ur2_camp=1789_creative=390957&amp;referer=');">Shop Go Cell Phones</a>		<a href="/contact-us">Contact Us</a>		<a href="/privacy-policy">Privacy Policy</a>		<a href="/about">About Us</a>		<a href="/sitemap.xml">Sitemap</a>					</div>
+	<header><div id="topmenu">
+<div id="topmenuleft">
+			<div id="topMenu" class="ddsmoothmenu"><ul id="menu-top" class="menu"><li id="menu-item-98" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-98"><a href="http://www.gocellphones.net/">Home</a></li>
+<li id="menu-item-99" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-99"><a href="http://www.gocellphones.net/aboutus/">About Us</a></li>
+<li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="http://www.gocellphones.net/contact-us/">Contact Us</a></li>
+</ul></div></div>
+<div id="topmenuright">
+ <ul>
+ <li id="rssb">
+ Tue, Oct 2013 </li>
+ <li class="rssnav"><a href="">RSS</a></li>
+ <li><a href="">Newsletter</a></li>
+ </ul>
+</div>
+</div>
+	 
+     <div id="logowrap">
+     <div id="logo"><a href="http://www.gocellphones.net"><img src="/wp-content/pics/LOGO.png" alt=""></a></div>
+     <div id="logohead">
+     <div id="headad">  
+    <a href="http://click.linksynergy.com/fs-bin/click?id=gf3OtEQKPbE&amp;offerid=295976.10000015&amp;type=4&amp;subid=0"><img alt="Cheap Bluetooth Headsets" border="0" src="http://www.all4cellular.com/productshots/linkshare/Bluetooth/BluetoothTicket468x60.jpg"></a><img border="0" width="1" height="1" src="http://ad.linksynergy.com/fs-bin/show?id=gf3OtEQKPbE&amp;bids=295976.10000015&amp;type=4&amp;subid=0"> 
+     </div>
+     <div id="twfb">
+     <ul>   <li>  <a href="" target="_blank"><img src="http://www.gocellphones.net/wp-content/themes/techblog-single-pro-psd/images/facebook.png" alt="Become a Fan!"></a></li>
+ <li> 
+   <a href="http://twitter.com/" class="tip_trigger"><img src="http://www.gocellphones.net/wp-content/themes/techblog-single-pro-psd/images/twitter.png" alt="Follow On Twitter"><span class="tip">    <ul id="twitter_update_list">
+    </ul>
+    <script type="text/javascript" src="http://twitter.com/javascripts/blogger.js"></script><script type="text/javascript" src="http://twitter.com/statuses/user_timeline/.json?callback=twitterCallback2&amp;count=1"></script>
+
+</span></a>
+     </li>
+   
+      <li> <a href=""><img src="http://www.gocellphones.net/wp-content/themes/techblog-single-pro-psd/images/rssicon.png" alt="Subcribe to Our RSS Feed"></a></li>
+     </ul>
+     </div>
+     </div>
+     <div id="cb"></div>
+     </div>    <div id="cb"></div>
+		<nav>
+	<div id="navigation">
+			<div id="nav" class="ddsmoothmenu1"><ul id="menu-main" class="menu"><li id="menu-item-78" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78"><a href="http://www.gocellphones.net/category/news-by-brand/apple-iphone/">Apple iPhone</a></li>
+<li id="menu-item-79" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-79"><a href="http://www.gocellphones.net/category/news-by-brand/asus/">Asus</a></li>
+<li id="menu-item-80" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-80"><a href="http://www.gocellphones.net/category/news-by-brand/blackberry/">BlackBerry</a></li>
+<li id="menu-item-82" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-82"><a href="http://www.gocellphones.net/category/news-by-brand/htc/">HTC</a></li>
+<li id="menu-item-83" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-83"><a href="http://www.gocellphones.net/category/news-by-brand/huawei/">Huawei</a></li>
+<li id="menu-item-84" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84"><a href="http://www.gocellphones.net/category/news-by-brand/lenovo/">Lenovo</a></li>
+<li id="menu-item-85" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-85"><a href="http://www.gocellphones.net/category/news-by-brand/lg/">LG</a></li>
+<li id="menu-item-86" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-86"><a href="http://www.gocellphones.net/category/news-by-brand/motorola/">Motorola</a></li>
+<li id="menu-item-87" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-87"><a href="http://www.gocellphones.net/category/news-by-brand/nokia/">Nokia</a></li>
+<li id="menu-item-88" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-88"><a href="http://www.gocellphones.net/category/news-by-brand/oppo/">Oppo</a></li>
+<li id="menu-item-89" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-89"><a href="http://www.gocellphones.net/category/news-by-brand/panasonic/">Panasonic</a></li>
+<li id="menu-item-90" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-90"><a href="http://www.gocellphones.net/category/news-by-brand/samsung/">Samsung</a></li>
+<li id="menu-item-91" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-91"><a href="http://www.gocellphones.net/category/news-by-brand/sony/">Sony</a></li>
+</ul></div></div>
+		</nav>
+      
+	 
+	</header>
+
+
+
+
+<section>    
+  <div id="headgal">
+  	<div id="featured" style="padding-left: 14px !important;">
+	<a class="prevPage browse left"></a>
+		<div class="scrollable" style="height: 60px !important">	
+		<div id="thumbs"> 	
+  
+   
+				<div class="slidesingle">
+			 <span id="slidesingleimg">
+<a href="http://www.gocellphones.net/first-alleged-photo-of-nokias-lumia-1520-phablet-leaks/"><img width="50" height="45" src="http://www.gocellphones.net/wp-content/pics/2013/08/Nokia-lumia-1520-50x45.jpg" class="attachment-singlegalthumb wp-post-image" alt="Nokia-lumia-1520" title="Nokia-lumia-1520"></a>	</span>		
+ 					<h2><a href="http://www.gocellphones.net/first-alleged-photo-of-nokias-lumia-1520-phablet-leaks/" title="First alleged photo of Nokia’s Lumia 1520 phablet leaks">First alleged photo of Nokia’s Lumia 1520 phablet leaks</a></h2>
+					<div id="cb"></div>
+			 	</div>
+					  
+				<div class="slidesingle">
+			 <span id="slidesingleimg">
+<a href="http://www.gocellphones.net/nokia-lumia-925-hits-att-on-september-13th-for-99-99/"><img width="50" height="45" src="http://www.gocellphones.net/wp-content/pics/2013/08/nokia-lumia-925-50x45.jpg" class="attachment-singlegalthumb wp-post-image" alt="nokia-lumia-925" title="nokia-lumia-925"></a>	</span>		
+ 					<h2><a href="http://www.gocellphones.net/nokia-lumia-925-hits-att-on-september-13th-for-99-99/" title="Nokia Lumia 925 hits AT&amp;T on September 13th for $99.99">Nokia Lumia 925 hits AT&amp;T on September 13th for $99.99</a></h2>
+					<div id="cb"></div>
+			 	</div>
+					  
+				<div class="slidesingle">
+			 <span id="slidesingleimg">
+<a href="http://www.gocellphones.net/blackberry-z30-for-att-shown-in-leaked-video/"><img width="50" height="45" src="http://www.gocellphones.net/wp-content/pics/2013/08/z30-50x45.jpg" class="attachment-singlegalthumb wp-post-image" alt="z30" title="z30"></a>	</span>		
+ 					<h2><a href="http://www.gocellphones.net/blackberry-z30-for-att-shown-in-leaked-video/" title="BlackBerry Z30 for AT&amp;T shown in leaked video">BlackBerry Z30 for AT&amp;T shown in leaked video</a></h2>
+					<div id="cb"></div>
+			 	</div>
+					  
+				<div class="slidesingle">
+			 <span id="slidesingleimg">
+<a href="http://www.gocellphones.net/moto-x-to-release-on-august-23-on-all-four-carriers/"><img width="50" height="45" src="http://www.gocellphones.net/wp-content/pics/2013/08/moto-x-50x45.jpg" class="attachment-singlegalthumb wp-post-image" alt="moto-x" title="moto-x"></a>	</span>		
+ 					<h2><a href="http://www.gocellphones.net/moto-x-to-release-on-august-23-on-all-four-carriers/" title="Moto X to release on August 23 on all four carriers">Moto X to release on August 23 on all four carriers</a></h2>
+					<div id="cb"></div>
+			 	</div>
+					  
+				<div class="slidesingle">
+			 <span id="slidesingleimg">
+<a href="http://www.gocellphones.net/att-samsung-galaxy-s-ii-gets-android-4-0-4-update/"><img width="50" height="45" src="http://www.gocellphones.net/wp-content/pics/2012/12/at-galaxy-s21-50x45.jpg" class="attachment-singlegalthumb wp-post-image" alt="at-galaxy-s21" title="at-galaxy-s21"></a>	</span>		
+ 					<h2><a href="http://www.gocellphones.net/att-samsung-galaxy-s-ii-gets-android-4-0-4-update/" title="AT&amp;T Samsung Galaxy S II Gets Android 4.0.4 Update">AT&amp;T Samsung Galaxy S II Gets Android 4.0.4 Update</a></h2>
+					<div id="cb"></div>
+			 	</div>
+					  
+				<div class="slidesingle">
+			 <span id="slidesingleimg">
+<a href="http://www.gocellphones.net/att-galaxy-note-2-multi-window-view-update-rolling-out-now/"><img width="50" height="45" src="http://www.gocellphones.net/wp-content/pics/2012/12/galaxy-note-2-multi-window-50x45.jpg" class="attachment-singlegalthumb wp-post-image" alt="galaxy-note-2-multi-window" title="galaxy-note-2-multi-window"></a>	</span>		
+ 					<h2><a href="http://www.gocellphones.net/att-galaxy-note-2-multi-window-view-update-rolling-out-now/" title="AT&amp;T Galaxy Note II Multi-Window View Update Rolling Out Now">AT&amp;T Galaxy Note II Multi-Window View Update Rolling Out Now</a></h2>
+					<div id="cb"></div>
+			 	</div>
+					  
+				<div class="slidesingle">
+			 <span id="slidesingleimg">
+<a href="http://www.gocellphones.net/lg-optimus-g-ready-to-hit-att-november-2-for-199-99/"><img width="50" height="45" src="http://www.gocellphones.net/wp-content/pics/2012/12/lg-optimus-g2-50x45.jpg" class="attachment-singlegalthumb wp-post-image" alt="lg-optimus-g2" title="lg-optimus-g2"></a>	</span>		
+ 					<h2><a href="http://www.gocellphones.net/lg-optimus-g-ready-to-hit-att-november-2-for-199-99/" title="LG Optimus G ready to hit AT&amp;T November 2 for $199.99">LG Optimus G ready to hit AT&amp;T November 2 for $199.99</a></h2>
+					<div id="cb"></div>
+			 	</div>
+					  	 
+			</div><!-- /#thumbs -->			 
+		</div> <!-- /#scrollable -->
+		<a class="nextPage browse right"></a>
+	<div id="theticker">
+    <div id="m3ticker">
+       <div id="tickimg">        <img src="http://www.gocellphones.net/wp-content/themes/techblog-single-pro-psd/images/youarehere.png" alt="">    </div>  
+          <div id="m3crumbs">	<div id="crumbs"><a href="http://www.gocellphones.net">Home</a> » <span class="current">Privacy Policy</span></div></div>
+   <div id="cb"></div>
+    </div>  <div class="navi"></div>  <div id="cb"></div>
+    </div>
+    </div><!-- /#featured -->        
+ <div id="content">	
 	
-	<!-- Main Header -->
-	<div class="im-header">
-		<div id="header">
-<!-- jc 5/12/2010 - changes for hyperlinking blog title -->
-						<div class="titleText shadow" style="margin-bottom:-5px; font-weight:bold;"><a href="http://www.gocellphones.net">Go Cell Phones</a></div>
-			<div class="descText shadow">Go Cell Phone Information, Reviews, &amp; Shopping</div>
-<!-- end jc -->
-					</div><!-- /header -->
-	</div><!-- /im-header -->
- 
- 
-	<!-- Main Nav  -->               
-		<div class="im-nav">
-		<a href="/">Home</a>		<a href="/about">About Us</a>		<a href="/contact-us">Contact Us</a>		<a href="/privacy-policy">Privacy Policy</a>		<a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2Fs%3Fie%3DUTF8%26ref_%3Dnb%5Fsb%5Fnoss%26field-keywords%3DGoPhone%26url%3Dsearch-alias%253Daps&amp;tag=natherheasit-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=390957" onclick="urchinTracker('/outgoing/www.amazon.com/gp/redirect.html?ie=UTF8_location=http_3A_2F_2Fwww.amazon.com_2Fs_3Fie_3DUTF8_26ref_3Dnb_5Fsb_5Fnoss_26field-keywords_3DGoPhone_26url_3Dsearch-alias_253Daps_tag=natherheasit-20_linkCode=ur2_camp=1789_creative=390957&amp;referer=');">Shop Go Cell Phones</a>		<a href="/sitemap.xml">Sitemap</a>					</div><!-- /close im-nav -->
-	
-	<!-- Search Form -->        
-	<div id="im-searchForm">
-		<form method="GET" action="http://www.gocellphones.net/">
-		<input type="text" name="s" class="searchBox" id="s" onblur="this.value=(this.value=='') ? 'search' : this.value;" onfocus="clearText(this);" value="">
-		<input type="image" id="searchBtn" name="searchBtn" src="http://www.gocellphones.net/wp-content/themes/socrates/images/search.png" onmouseover="this.src='http://www.gocellphones.net/wp-content/themes/socrates/images/searchOv.png'" onmouseout="this.src='http://www.gocellphones.net/wp-content/themes/socrates/images/search.png'" border="0">
-		</form>
-	</div>
-<!-- END HEADER SECTION -->		<!-- OPEN TOP ADS -->
+		<article class="post">
+			<h2>  Privacy Policy</h2>
+			<div class="pmetasingle"> Posted By <b><a href="http://www.gocellphones.net/author/admin/" title="View all posts by Robert Tabor">Robert Tabor </a></b>  
+            	       On Friday, December 28th, 2012
+ With <a href="#comments"> 0 Comments</a>  
+
         
-  			
-		
-         <script type="text/javascript">
-		    /* <![CDATA[ */
-				var oldBox = 1; //set the deafault featured village
-				var stopAnimation = "false";
-	
-				$(document).ready(function(){
-					  $("#new2").slideUp("fast");$("#new3").slideUp("fast");				   
-					automate();
-				});
-				
-				// function for changing the small ad on the home page
-				function fade(newBox, stopMotion){
-			
-					//alert("oldBox = "+oldBox+" newBox ="+newBox);
-
-					if ((newBox) != oldBox){
-
-						var villageIn = ('#new'+newBox); //set div id to a string for animation
-						var villageOut = ('#new'+oldBox);
-						
-						$(villageOut).slideUp("slow", function(){ $(villageIn).slideDown("slow"); } );
-
-						var activeNav = ("box"+newBox); //set nav div id to a string for animation
-						var oldNav = ("box"+oldBox);
-
-						oldBox = newBox; //set newBox as the oldBox so we now what to fade out next time
-						automate();
-					}
-   				}; //close fade
-				
-				//sets which box to load and to fade
-				function setBox(){
-					newBox = (oldBox+1); // adds 1 to the current box
-					if (newBox >= 4){									   
-						newBox = 1;
-					} 
-					fade(newBox); // starts the function fade as if it was clicked with a newBox to load
-				};
-				
-				var animationTimer = '';
-				function automate(change){
-						if (stopAnimation == "false"){
-							animationTimer = window.setTimeout(function() { setBox(); }, 7000); // set time
-						}
-				};
-				
-				// pauses animation on mouse over
-				function mouseOver(){ 
-					if (stopAnimation != "clicked"){
-						stopAnimation = "true";
-						window.clearTimeout(animationTimer);
-					}
-				};
-
-				
-
-				// unpauses animation on mouse out
-				function mouseOut(){ 
-					if (stopAnimation != "clicked"){
-						stopAnimation = "false";
-						automate();
-					}
-				};
-				
-			/* ]]> */
-           </script>
-        				
-        
-        <div class="im-topAds">
-        	<div class="top728">
-            
-            	<script type="text/javascript"><!--
-google_ad_client = "pub-3536782482321958";
-/* 728x90, created 9/13/10 */
-google_ad_slot = "5876793457";
-google_ad_width = 728;
-google_ad_height = 90;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-            
             </div>
-        	<div class="side190" onmouseover="mouseOver()" onmouseout="mouseOut()">
-            	
+			<div class="entry">
+			  <p>This statement covers the site www.gocellphones.net (Gocellphones).</p>
+<p>lease read this statement carefully before using proceeding to access Ubergizmo. Your use of Gocellphones&nbsp;indicates your agreement to abide by the Terms in effect.</p>
+<h3>Information Collection</h3>
+<p>Gocellphones&nbsp;is the sole owner of the information collected on www.gocellphones.net. Gocellphones&nbsp;may collect information from our users at several different points on our Web site, including IP&nbsp;addresses&nbsp;present on our server log files (see below).</p>
+<h3>Third Party Cookies</h3>
+<p>Some of our business partners may use cookies on our site (for example, advertisers). However, Gocellphones&nbsp;has no access to or control over these cookies, once we have given permission for them to set cookies for advertising. This privacy statement covers the use of cookies by Gocellphones&nbsp;only and does not cover the use of cookies by any advertisers.</p>
+<h3>Legal Disclaimer</h3>
+<p>Though we make every effort to preserve user privacy, Gocellphones&nbsp;may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.</p>
+<h3>Other sites</h3>
+<p>Gocellphones&nbsp;contains many links to other sites on the Web. We cannot control and are not responsible for the privacy practices or content of such other Web sites.</p>
+<p>Gocellphones&nbsp;is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to ‘Amazon.com’ and other Amazon properties.</p>
+<h3>Who can I ask if I have any additional questions?</h3>
+<p>If you have any further questions or concerns about Salon’s privacy policies and use of personal information, please send them to&nbsp;<a href="mailto:info@gocellphones.net">info@gocellphones.net</a>.</p>
+			</div>
+						<div class="ptags"></div>
+		</article>
+	<div id="related" class="clearfix">
+	<div id="sharemark">
+<div style="float: left;"><h1>Share This &gt; </h1></div>
+ <div class="share"> <ul>   <li>  <a href="http://delicious.com/save" onclick="window.open('http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url='+encodeURIComponent('http://www.gocellphones.net/privacy-policy/')+'&amp;title='+encodeURIComponent('Privacy Policy'),'delicious', 'toolbar=no,width=550,height=550'); return false;"> 
 
-            	<div id="new1" class="smallAd" style="height:90px;">
-										<a href="http://www.gocellphones.net/feed"><img src="http://www.gocellphones.net/wp-content/themes/socrates/images/RSS.png" alt="RSS"></a>
-									  </div><div id="new2" class="smallAd" style="height:90px;">
-										<center><a href="http://click.linksynergy.com/fs-bin/click?id=T0IsVAuns8g&amp;offerid=184069.10000620&amp;subid=0&amp;type=4" onclick="urchinTracker('/outgoing/click.linksynergy.com/fs-bin/click?id=T0IsVAuns8g_offerid=184069.10000620_subid=0_type=4&amp;referer=');"><img border="0" alt="AT&amp;T" src="http://ad.linksynergy.com/fs-bin/show?id=T0IsVAuns8g&amp;bids=184069.10000620&amp;subid=0&amp;type=4&amp;gridnum=6"></a><center>
-									  </center></center></div><div id="new3" class="smallAd" style="height:90px;">
-										<center><a href="http://click.linksynergy.com/fs-bin/click?id=T0IsVAuns8g&amp;offerid=184069.10000607&amp;subid=0&amp;type=4" onclick="urchinTracker('/outgoing/click.linksynergy.com/fs-bin/click?id=T0IsVAuns8g_offerid=184069.10000607_subid=0_type=4&amp;referer=');"><img border="0" alt="Wireless from AT&amp;T" src="http://ad.linksynergy.com/fs-bin/show?id=T0IsVAuns8g&amp;bids=184069.10000607&amp;subid=0&amp;type=4&amp;gridnum=5"></a><center>
-									  </center></center></div>            
-            </div>
+                        <img src="http://www.gocellphones.net/wp-content/themes/techblog-single-pro-psd/images/delicious.png" alt="Add to Delicious" border="0"></a> 
+                      </li>  
+                      <li>
+                      <a href="javascript:var d=document,f='http://www.facebook.com/share',l=d.location,e=encodeURIComponent,p='.php?src=bm&amp;v=4&amp;i=1245532349&amp;u='+e(l.href)+'&amp;t='+e(d.title);1;try{if (!/^(.*\.)?facebook\.[^.]*$/.test(l.host))throw(0);share_internal_bookmarklet(p)}catch(z) {a=function() {if (!window.open(f+'r'+p,'sharer','toolbar=0,status=0,resizable=1,width=626,height=436'))l.href=f+p};if (/Firefox/.test(navigator.userAgent))setTimeout(a,0);else{a()}}void(0)" onclick="return wait_for_load(this, event, function() { return false });" id="share_bookmark" title="Share on Facebook">
+                        <img src="http://www.gocellphones.net/wp-content/themes/techblog-single-pro-psd/images/facebookicon.png" border="0"></a>
+                      </li>
+                      <li>
+                      <a href="http://friendfeed.com/?url=http://www.gocellphones.net/privacy-policy/&amp;title=Privacy Policy" target="_blank">
+                        <img src="http://www.gocellphones.net/wp-content/themes/techblog-single-pro-psd/images/friendfeed.png" alt="Share on FriendFeed" border="0"></a> </li>
+                                          <li>
+
+                      <a href='javascript:(function(){var a=window,b=document,c=encodeURIComponent,d=a.open("http://www.google.com/bookmarks/mark?op=edit&amp;output=popup&amp;bkmk="+c(b.location)+"&amp;title="+c(b.title),"bkmk_popup","left="+((a.screenX||a.screenLeft)+10)+",top="+((a.screenY||a.screenTop)+10)+",height=420px,width=550px,resizable=1,alwaysRaised=1");a.setTimeout(function(){d.focus()},300)})();'> 
+
+                        <img src="http://www.gocellphones.net/wp-content/themes/techblog-single-pro-psd/images/google.png" border="0"> </a>
+
+                      </li>
+
+                      
+
+               <li><a href="http://digg.com/submit?phase=2&amp;url=http://www.gocellphones.net/privacy-policy/&amp;title=Privacy Policy"><img src="http://www.gocellphones.net/wp-content/themes/techblog-single-pro-psd/images/digg.png" alt="Digg"></a></li>
+
+                        <li><a href="http://twitter.com/home?status=Currently reading http://www.gocellphones.net/privacy-policy/"><img src="http://www.gocellphones.net/wp-content/themes/techblog-single-pro-psd/images/twittericon.png" alt="" width="32px" height="32px"></a></li>
+
+                      <li>  
+
+                      <a href="http://www.reddit.com/submit" onclick="window.location = 'http://www.reddit.com/submit?url=' + encodeURIComponent(window.location); return false"> 
+
+                        <img src="http://www.gocellphones.net/wp-content/themes/techblog-single-pro-psd/images/reddit.png" alt="submit to reddit" border="0"> </a>
+
+                      </li>
+
+                   
+
+                      <li>
+
+                      <a href="javascript:location.href='http://www.myspace.com/Modules/PostTo/Pages/?c='+encodeURIComponent(location.href)+'&amp;t='+encodeURIComponent(document.title)"> 
+
+                        <img src="http://www.gocellphones.net/wp-content/themes/techblog-single-pro-psd/images/myspace.png" border="0"> </a>
+
+                      </li>
+
+                     
+                     
+                      <li>   
+
+                      <a href="http://www.stumbleupon.com/submit?url=http://www.gocellphones.net/privacy-policy/&amp;title=Privacy Policy">
+
+                        <img src="http://www.gocellphones.net/wp-content/themes/techblog-single-pro-psd/images/stumbleupon.png" border="0"></a>    
+                      </li>
+                      <li>   
+                      <a href="javascript:void(document.location='http://technorati.com/faves?sub=favthis&amp;add='+escape(document.location))">
+                        <img src="http://www.gocellphones.net/wp-content/themes/techblog-single-pro-psd/images/technorati.png" border="0"></a> 
+                      </li>
+                        <li>   
+                      <a href="RSS">
+                        <img src="http://www.gocellphones.net/wp-content/themes/techblog-single-pro-psd/images/rssiconsingle.png" border="0"></a> 
+                      </li>            </ul>
         </div>
-        
-        <div class="line"></div>
-        
-                <!-- CLOSE TOP ADS --><div id="primarySidebar" class="im-sidebar">
-	<div class="sidebar">
-	<ul>
-	<li id="search-3" class="widget widget_search"><form role="search" method="get" id="searchform" action="http://www.gocellphones.net/">
-	<div><label class="screen-reader-text" for="s">Search for:</label>
-	<input type="text" value="" name="s" id="s">
-	<input type="submit" id="searchsubmit" value="Search">
-	</div>
-	</form></li>
-<li id="text-16" class="widget widget_text"><h2 class="widgettitle">Our Selection Of GO Cell Phones</h2>			<div class="textwidget"></div>
-		</li>
-<li id="text-7" class="widget widget_text"><h2 class="widgettitle">LG Prime – Silver</h2>			<div class="textwidget"><a href="http://click.linksynergy.com/fs-bin/click?id=T0IsVAuns8g&amp;offerid=184069.4730235&amp;type=2&amp;subid=0" onclick="urchinTracker('/outgoing/click.linksynergy.com/fs-bin/click?id=T0IsVAuns8g_offerid=184069.4730235_type=2_subid=0&amp;referer=');"><img border="0" src="http://www.wireless.att.com/global/MEDIA_CustomProductCatalog/lg_prime_silver_l.gif"></a><img border="0" width="1" height="1" src="http://ad.linksynergy.com/fs-bin/show?id=T0IsVAuns8g&amp;bids=184069.4730235&amp;type=2&amp;subid=0"></div>
-		</li>
-<li id="text-6" class="widget widget_text"><h2 class="widgettitle">Samsung SGH – a167 – Blue – GoPhone – Prepaid</h2>			<div class="textwidget"><a href="http://click.linksynergy.com/fs-bin/click?id=T0IsVAuns8g&amp;offerid=184069.3820276&amp;type=2&amp;subid=0" onclick="urchinTracker('/outgoing/click.linksynergy.com/fs-bin/click?id=T0IsVAuns8g_offerid=184069.3820276_type=2_subid=0&amp;referer=');"><img border="0" src="http://www.wireless.att.com/global/MEDIA_CustomProductCatalog/samsung_a167_blue_l.gif"></a><img border="0" width="1" height="1" src="http://ad.linksynergy.com/fs-bin/show?id=T0IsVAuns8g&amp;bids=184069.3820276&amp;type=2&amp;subid=0"></div>
-		</li>
-<li id="text-8" class="widget widget_text"><h2 class="widgettitle">Samsung A177 – GoPhone (Pay As You Go)</h2>			<div class="textwidget"><a href="http://click.linksynergy.com/fs-bin/click?id=T0IsVAuns8g&amp;offerid=184069.3730224&amp;type=2&amp;subid=0" onclick="urchinTracker('/outgoing/click.linksynergy.com/fs-bin/click?id=T0IsVAuns8g_offerid=184069.3730224_type=2_subid=0&amp;referer=');"><img border="0" src="http://www.wireless.att.com/global/MEDIA_CustomProductCatalog/samsung_a177_black_l.gif"></a><img border="0" width="1" height="1" src="http://ad.linksynergy.com/fs-bin/show?id=T0IsVAuns8g&amp;bids=184069.3730224&amp;type=2&amp;subid=0"></div>
-		</li>
-<li id="text-9" class="widget widget_text"><h2 class="widgettitle">Nokia 2320 – GoPhone – Prepaid</h2>			<div class="textwidget"><a href="http://click.linksynergy.com/fs-bin/click?id=T0IsVAuns8g&amp;offerid=184069.4190225&amp;type=2&amp;subid=0" onclick="urchinTracker('/outgoing/click.linksynergy.com/fs-bin/click?id=T0IsVAuns8g_offerid=184069.4190225_type=2_subid=0&amp;referer=');"><img border="0" src="http://www.wireless.att.com/global/MEDIA_CustomProductCatalog/nokia_2320_black_l.gif"></a><img border="0" width="1" height="1" src="http://ad.linksynergy.com/fs-bin/show?id=T0IsVAuns8g&amp;bids=184069.4190225&amp;type=2&amp;subid=0"></div>
-		</li>
-<li id="text-10" class="widget widget_text"><h2 class="widgettitle">Nokia 2720 – GoPhone – Prepaid (Refurbished)</h2>			<div class="textwidget"><a href="http://click.linksynergy.com/fs-bin/click?id=T0IsVAuns8g&amp;offerid=184069.4360239&amp;type=2&amp;subid=0" onclick="urchinTracker('/outgoing/click.linksynergy.com/fs-bin/click?id=T0IsVAuns8g_offerid=184069.4360239_type=2_subid=0&amp;referer=');"><img border="0" src="http://www.wireless.att.com/global/MEDIA_CustomProductCatalog/nokia_2720_blue_l.gif"></a><img border="0" width="1" height="1" src="http://ad.linksynergy.com/fs-bin/show?id=T0IsVAuns8g&amp;bids=184069.4360239&amp;type=2&amp;subid=0"></div>
-		</li>
-<li id="text-11" class="widget widget_text"><h2 class="widgettitle">Sony Ericsson W518a – Black – GoPhone – Prepaid (Refurbished)</h2>			<div class="textwidget"><a href="http://click.linksynergy.com/fs-bin/click?id=T0IsVAuns8g&amp;offerid=184069.4230258&amp;type=2&amp;subid=0" onclick="urchinTracker('/outgoing/click.linksynergy.com/fs-bin/click?id=T0IsVAuns8g_offerid=184069.4230258_type=2_subid=0&amp;referer=');"><img border="0" src="http://www.wireless.att.com/global/MEDIA_CustomProductCatalog/sony_ericsson_w518a_black_l.gif"></a><img border="0" width="1" height="1" src="http://ad.linksynergy.com/fs-bin/show?id=T0IsVAuns8g&amp;bids=184069.4230258&amp;type=2&amp;subid=0"></div>
-		</li>
-<li id="text-12" class="widget widget_text"><h2 class="widgettitle">Samsung Magnet – GoPhone – Prepaid (Refurbished) – Orange</h2>			<div class="textwidget"><a href="http://click.linksynergy.com/fs-bin/click?id=T0IsVAuns8g&amp;offerid=184069.4270286&amp;type=2&amp;subid=0" onclick="urchinTracker('/outgoing/click.linksynergy.com/fs-bin/click?id=T0IsVAuns8g_offerid=184069.4270286_type=2_subid=0&amp;referer=');"><img border="0" src="http://www.wireless.att.com/global/MEDIA_CustomProductCatalog/samsung_magnet_orange_l.gif"></a><img border="0" width="1" height="1" src="http://ad.linksynergy.com/fs-bin/show?id=T0IsVAuns8g&amp;bids=184069.4270286&amp;type=2&amp;subid=0"></div>
-		</li>
-<li id="text-13" class="widget widget_text"><h2 class="widgettitle">LG Neon (TM) GoPhone – Prepaid</h2>			<div class="textwidget"><a href="http://click.linksynergy.com/fs-bin/click?id=T0IsVAuns8g&amp;offerid=184069.4270479&amp;type=2&amp;subid=0" onclick="urchinTracker('/outgoing/click.linksynergy.com/fs-bin/click?id=T0IsVAuns8g_offerid=184069.4270479_type=2_subid=0&amp;referer=');"><img border="0" src="http://www.wireless.att.com/global/MEDIA_CustomProductCatalog/lg_neon_gt365_black_l.gif"></a><img border="0" width="1" height="1" src="http://ad.linksynergy.com/fs-bin/show?id=T0IsVAuns8g&amp;bids=184069.4270479&amp;type=2&amp;subid=0"></div>
-		</li>
-<li id="text-14" class="widget widget_text"><h2 class="widgettitle">Nokia 2680 – GoPhone – Prepaid</h2>			<div class="textwidget"><a href="http://click.linksynergy.com/fs-bin/click?id=T0IsVAuns8g&amp;offerid=184069.3880235&amp;type=2&amp;subid=0" onclick="urchinTracker('/outgoing/click.linksynergy.com/fs-bin/click?id=T0IsVAuns8g_offerid=184069.3880235_type=2_subid=0&amp;referer=');"><img border="0" src="http://www.wireless.att.com/global/MEDIA_CustomProductCatalog/nokia_2680_silver_l.gif"></a><img border="0" width="1" height="1" src="http://ad.linksynergy.com/fs-bin/show?id=T0IsVAuns8g&amp;bids=184069.3880235&amp;type=2&amp;subid=0"></div>
-		</li>
-<li id="text-15" class="widget widget_text"><h2 class="widgettitle">Sony Ericsson W518a – GoPhone – Prepaid Refurbished – Red</h2>			<div class="textwidget"><a href="http://click.linksynergy.com/fs-bin/click?id=T0IsVAuns8g&amp;offerid=184069.4520235&amp;type=2&amp;subid=0" onclick="urchinTracker('/outgoing/click.linksynergy.com/fs-bin/click?id=T0IsVAuns8g_offerid=184069.4520235_type=2_subid=0&amp;referer=');"><img border="0" src="http://www.wireless.att.com/global/MEDIA_CustomProductCatalog/sony_ericsson_w518a_red_l.gif"></a><img border="0" width="1" height="1" src="http://ad.linksynergy.com/fs-bin/show?id=T0IsVAuns8g&amp;bids=184069.4520235&amp;type=2&amp;subid=0"></div>
-		</li>
-		<li id="recent-posts-4" class="widget widget_recent_entries">		<h2 class="widgettitle">Recent Posts</h2>		<ul>
-				<li><a href="http://www.gocellphones.net/how-to-know-when-you-need-to-change-your-mobile-phone" title="How To Know When You Need To Change Your Mobile Phone">How To Know When You Need To Change Your Mobile Phone </a></li>
-				<li><a href="http://www.gocellphones.net/placing-up-your-ipad-by-apple" title="Placing up your Ipad by apple">Placing up your Ipad by apple </a></li>
-				<li><a href="http://www.gocellphones.net/unlocked-cell-phones-whether-positive-or-negative" title="Unlocked Cell Phones – Whether positive or negative">Unlocked Cell Phones – Whether positive or negative </a></li>
-				<li><a href="http://www.gocellphones.net/compelling-motives-to-decide-on-prepaid-cell-phones" title="Compelling Motives To Decide On Prepaid Cell Phones">Compelling Motives To Decide On Prepaid Cell Phones </a></li>
-				<li><a href="http://www.gocellphones.net/unlocked-cell-phones-use-them-with-all-service-providers" title="Unlocked Cell Phones – Use Them With All Service Providers">Unlocked Cell Phones – Use Them With All Service Providers </a></li>
-				</ul>
-		</li>
-<li id="pages-3" class="widget widget_pages"><h2 class="widgettitle">Pages</h2>		<ul>
-			<li class="page_item page-item-2"><a href="http://www.gocellphones.net/about" title="About">About</a></li>
-<li class="page_item page-item-20"><a href="http://www.gocellphones.net/contact-us" title="Contact Us">Contact Us</a></li>
-<li class="page_item page-item-19 current_page_item"><a href="http://www.gocellphones.net/privacy-policy" title="Privacy Policy">Privacy Policy</a></li>
-		</ul>
-		</li>
-<li id="linkcat-2" class="widget widget_links"><h2 class="widgettitle">Links</h2>
-	<ul class="xoxo blogroll">
-<li><a href="http://wordpress.org/development/" onclick="urchinTracker('/outgoing/wordpress.org/development/?referer=');">Development Blog</a></li>
-<li><a href="http://codex.wordpress.org/" onclick="urchinTracker('/outgoing/codex.wordpress.org/?referer=');">Documentation</a></li>
-<li><a href="http://www.recroomtables.com/tasofo.html" target="_blank" onclick="urchinTracker('/outgoing/www.recroomtables.com/tasofo.html?referer=');">Foosball Game Tables</a></li>
-<li><a href="http://www.recroomtables.com" target="_blank" onclick="urchinTracker('/outgoing/www.recroomtables.com?referer=');">Game Tables</a></li>
-<li><a href="http://wordpress.org/extend/plugins/" onclick="urchinTracker('/outgoing/wordpress.org/extend/plugins/?referer=');">Plugins</a></li>
-<li><a href="http://www.recroomtables.com/ncchpubta2.html" target="_blank" onclick="urchinTracker('/outgoing/www.recroomtables.com/ncchpubta2.html?referer=');">Sports Pub Table</a></li>
-<li><a href="http://wordpress.org/extend/ideas/" onclick="urchinTracker('/outgoing/wordpress.org/extend/ideas/?referer=');">Suggest Ideas</a></li>
-<li><a href="http://wordpress.org/support/" onclick="urchinTracker('/outgoing/wordpress.org/support/?referer=');">Support Forum</a></li>
-<li><a href="http://wordpress.org/extend/themes/" onclick="urchinTracker('/outgoing/wordpress.org/extend/themes/?referer=');">Themes</a></li>
-<li><a href="http://planet.wordpress.org/" onclick="urchinTracker('/outgoing/planet.wordpress.org/?referer=');">WordPress Planet</a></li>
-
-	</ul>
-</li>
-
-	</ul>
-	</div>
-</div><!-- /primarySidebar --><div id="optionalSidebar" class="im-sidebar2">
-	<div class="sidebar">
-	<ul>
-	<li id="text-5" class="widget widget_text">			<div class="textwidget"></div>
-		</li>
-	</ul>
-	</div>
-</div><!-- /optionalSidebar -->         
-       
-<div id="im-mainContent" class="im-mainContent">
-	<div class="class=" post-19="" page="" hentry="" category-uncategorized""="" id="post-19">
-				<div class="post-19 page hentry category-uncategorized" id="post-19">
-			<h2><a href="http://www.gocellphones.net/privacy-policy" rel="bookmark" title="Permanent Link to Privacy Policy">Privacy Policy</a></h2>
-			<div class="postAuthor">By <a href="http://www.gocellphones.net/author/Alijandro/" title="Posts by Alijandro">Alijandro</a> on Monday, May 31st, 2010 | <a href="http://www.gocellphones.net/privacy-policy#respond" title="Comment on Privacy Policy">No Comments</a></div>
-			<div class="entry"><p><strong>Your Privacy</strong><br>Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
-</p><p><strong>Google Adsense and the DoubleClick DART Cookie</strong><br>Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.</p>
-<p>To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <a href="http://www.google.com/privacy_ads.html" onclick="urchinTracker('/outgoing/www.google.com/privacy_ads.html?referer=');">http://www.google.com/privacy_ads.html</a> Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.</p>
-<p>Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, Go Cell Phones has no access or control over these cookies that may be used by third party advertisers.
-</p><p><strong>Collection of Personal Information</strong><br>When visiting Go Cell Phones, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.</p>
-<p><strong>Links to third party Websites</strong><br>We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own. </p>
-<p><strong>Changes to this Privacy Statement</strong><br>The contents of this statement may be altered at any time, at our discretion. </p>
-<p>If you have any questions regarding the privacy policy of Go Cell Phones then you may contact us at gocellphones@gmail.com
-</p><p><span style="font-size:11px;">This privacy policy was generated by the <a target="_blank" title="Easy Privacy Policy homepage" href="http://europeancruiseadvisor.com" onclick="urchinTracker('/outgoing/europeancruiseadvisor.com?referer=');">Easy Privacy Policy</a> plugin for WordPress.</span>
-</p><div style="font-style:italic;font-size:10px;">Last updated Mon, 31 May 2010 02:29</div>
-
-<div class="sociable">
-<div class="sociable_tagline">
-<strong>Share and Enjoy:</strong>
+	<div id="cb"></div>
 </div>
-<ul>
-	<li class="sociablefirst"><a rel="nofollow" href="http://www.printfriendly.com/print?url=http%3A%2F%2Fwww.gocellphones.net%2Fprivacy-policy&amp;partner=sociable" title="Print" onclick="urchinTracker('/outgoing/www.printfriendly.com/print?url=http_3A_2F_2Fwww.gocellphones.net_2Fprivacy-policy_amp_partner=sociable&amp;referer=');"><img src="http://www.gocellphones.net/wp-content/plugins/sociable/images/services-sprite.gif" title="Print" alt="Print" style="width: 16px; height: 16px; background: transparent url(http://www.gocellphones.net/wp-content/plugins/sociable/images/services-sprite.png) no-repeat; background-position:-343px -37px" class="sociable-hovers"></a></li>
-	<li><a rel="nofollow" href="http://digg.com/submit?phase=2&amp;url=http%3A%2F%2Fwww.gocellphones.net%2Fprivacy-policy&amp;title=Privacy%20Policy&amp;bodytext=Your%20PrivacyYour%20privacy%20is%20important%20to%20us.%20To%20better%20protect%20your%20privacy%20we%20provide%20this%20notice%20explaining%20our%20online%20information%20practices%20and%20the%20choices%20you%20can%20make%20about%20the%20way%20your%20information%20is%20collected%20and%20used.%20To%20make%20this%20notice%20easy" title="Digg" onclick="urchinTracker('/outgoing/digg.com/submit?phase=2_amp_url=http_3A_2F_2Fwww.gocellphones.net_2Fprivacy-policy_amp_title=Privacy_20Policy_amp_bodytext=Your_20PrivacyYour_20privacy_20is_20important_20to_20us._20To_20better_20protect_20your_20privacy_20we_20provide_20this_20notice_20explaining_20our_20online_20information_20practices_20and_20the_20choices_20you_20can_20make_20about_20the_20way_20your_20information_20is_20collected_20and_20used._20To_20make_20this_20notice_20easy&amp;referer=');"><img src="http://www.gocellphones.net/wp-content/plugins/sociable/images/services-sprite.gif" title="Digg" alt="Digg" style="width: 16px; height: 16px; background: transparent url(http://www.gocellphones.net/wp-content/plugins/sociable/images/services-sprite.png) no-repeat; background-position:-235px -1px" class="sociable-hovers"></a></li>
-	<li><a rel="nofollow" href="http://sphinn.com/index.php?c=post&amp;m=submit&amp;link=http%3A%2F%2Fwww.gocellphones.net%2Fprivacy-policy" title="Sphinn" onclick="urchinTracker('/outgoing/sphinn.com/index.php?c=post_amp_m=submit_amp_link=http_3A_2F_2Fwww.gocellphones.net_2Fprivacy-policy&amp;referer=');"><img src="http://www.gocellphones.net/wp-content/plugins/sociable/images/services-sprite.gif" title="Sphinn" alt="Sphinn" style="width: 16px; height: 16px; background: transparent url(http://www.gocellphones.net/wp-content/plugins/sociable/images/services-sprite.png) no-repeat; background-position:-199px -55px" class="sociable-hovers"></a></li>
-	<li><a rel="nofollow" href="http://delicious.com/post?url=http%3A%2F%2Fwww.gocellphones.net%2Fprivacy-policy&amp;title=Privacy%20Policy&amp;notes=Your%20PrivacyYour%20privacy%20is%20important%20to%20us.%20To%20better%20protect%20your%20privacy%20we%20provide%20this%20notice%20explaining%20our%20online%20information%20practices%20and%20the%20choices%20you%20can%20make%20about%20the%20way%20your%20information%20is%20collected%20and%20used.%20To%20make%20this%20notice%20easy" title="del.icio.us" onclick="urchinTracker('/outgoing/delicious.com/post?url=http_3A_2F_2Fwww.gocellphones.net_2Fprivacy-policy_amp_title=Privacy_20Policy_amp_notes=Your_20PrivacyYour_20privacy_20is_20important_20to_20us._20To_20better_20protect_20your_20privacy_20we_20provide_20this_20notice_20explaining_20our_20online_20information_20practices_20and_20the_20choices_20you_20can_20make_20about_20the_20way_20your_20information_20is_20collected_20and_20used._20To_20make_20this_20notice_20easy&amp;referer=');"><img src="http://www.gocellphones.net/wp-content/plugins/sociable/images/services-sprite.gif" title="del.icio.us" alt="del.icio.us" style="width: 16px; height: 16px; background: transparent url(http://www.gocellphones.net/wp-content/plugins/sociable/images/services-sprite.png) no-repeat; background-position:-199px -1px" class="sociable-hovers"></a></li>
-	<li><a rel="nofollow" href="http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.gocellphones.net%2Fprivacy-policy&amp;t=Privacy%20Policy" title="Facebook" onclick="urchinTracker('/outgoing/www.facebook.com/share.php?u=http_3A_2F_2Fwww.gocellphones.net_2Fprivacy-policy_amp_t=Privacy_20Policy&amp;referer=');"><img src="http://www.gocellphones.net/wp-content/plugins/sociable/images/services-sprite.gif" title="Facebook" alt="Facebook" style="width: 16px; height: 16px; background: transparent url(http://www.gocellphones.net/wp-content/plugins/sociable/images/services-sprite.png) no-repeat; background-position:-343px -1px" class="sociable-hovers"></a></li>
-	<li><a rel="nofollow" href="http://www.mixx.com/submit?page_url=http%3A%2F%2Fwww.gocellphones.net%2Fprivacy-policy&amp;title=Privacy%20Policy" title="Mixx" onclick="urchinTracker('/outgoing/www.mixx.com/submit?page_url=http_3A_2F_2Fwww.gocellphones.net_2Fprivacy-policy_amp_title=Privacy_20Policy&amp;referer=');"><img src="http://www.gocellphones.net/wp-content/plugins/sociable/images/services-sprite.gif" title="Mixx" alt="Mixx" style="width: 16px; height: 16px; background: transparent url(http://www.gocellphones.net/wp-content/plugins/sociable/images/services-sprite.png) no-repeat; background-position:-91px -37px" class="sociable-hovers"></a></li>
-	<li><a rel="nofollow" href="http://www.google.com/bookmarks/mark?op=edit&amp;bkmk=http%3A%2F%2Fwww.gocellphones.net%2Fprivacy-policy&amp;title=Privacy%20Policy&amp;annotation=Your%20PrivacyYour%20privacy%20is%20important%20to%20us.%20To%20better%20protect%20your%20privacy%20we%20provide%20this%20notice%20explaining%20our%20online%20information%20practices%20and%20the%20choices%20you%20can%20make%20about%20the%20way%20your%20information%20is%20collected%20and%20used.%20To%20make%20this%20notice%20easy" title="Google Bookmarks" onclick="urchinTracker('/outgoing/www.google.com/bookmarks/mark?op=edit_amp_bkmk=http_3A_2F_2Fwww.gocellphones.net_2Fprivacy-policy_amp_title=Privacy_20Policy_amp_annotation=Your_20PrivacyYour_20privacy_20is_20important_20to_20us._20To_20better_20protect_20your_20privacy_20we_20provide_20this_20notice_20explaining_20our_20online_20information_20practices_20and_20the_20choices_20you_20can_20make_20about_20the_20way_20your_20information_20is_20collected_20and_20used._20To_20make_20this_20notice_20easy&amp;referer=');"><img src="http://www.gocellphones.net/wp-content/plugins/sociable/images/services-sprite.gif" title="Google Bookmarks" alt="Google Bookmarks" style="width: 16px; height: 16px; background: transparent url(http://www.gocellphones.net/wp-content/plugins/sociable/images/services-sprite.png) no-repeat; background-position:-91px -19px" class="sociable-hovers"></a></li>
-	<li class="sociablelast"><a href="http://blogplay.com" title="Blogplay" onclick="urchinTracker('/outgoing/blogplay.com?referer=');"><img src="http://www.gocellphones.net/wp-content/plugins/sociable/images/services-sprite.gif" title="Blogplay" alt="Blogplay" style="width: 16px; height: 16px; background: transparent url(http://www.gocellphones.net/wp-content/plugins/sociable/images/services-sprite.png) no-repeat; background-position:-199px -73px" class="sociable-hovers"></a></li>
+</div> <div id="cb"></div>
+		<!-- You can start editing here. --> 
+<div class="comments-box"> <a name="comments" id="comments"></a>
+      <!-- If comments are open, but there are no comments. -->
+         	 
+  <div id="respond">     
+    <h2>Leave a comment</h2>
+    <div class="cancel-comment-reply"> <small>
+      <a rel="nofollow" id="cancel-comment-reply-link" href="/privacy-policy/#respond" style="display:none;">Click here to cancel reply.</a>      </small> </div>
+        <form action="http://www.gocellphones.net/wp-comments-post.php" method="post" id="commentform">
+            <p>
+        <input class="author" type="text" value="Your Name..." onclick="this.value='';" name="author" id="author" size="22" tabindex="1">
+        <label for="author"><small>
+        (Required)        </small></label>
+      </p>
+      <p>
+        <input class="email" type="text" value="Your Email..." onclick="this.value='';" name="email" id="email" size="22" tabindex="2">
+        <label for="email"><small>(Will not be published)
+         (Required)        </small></label>
+      </p>
+      <p>
+        <input class="url" type="text" value="Your Website..." onclick="this.value='';" name="url" id="url" size="22" tabindex="3">
+        <label for="url"><small>(Optional)</small></label>
+      </p>
+      
+      <p>
+        <textarea name="comment" id="comment" tabindex="4"></textarea>
+      </p>
+           <p><small><strong>XHTML:</strong> You can use these tags: <code>&lt;a href="" title=""&gt; &lt;abbr title=""&gt; &lt;acronym title=""&gt; &lt;b&gt; &lt;blockquote cite=""&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=""&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=""&gt; &lt;strike&gt; &lt;strong&gt; </code></small></p>
+      <p>
+        <input class="submit" name="submit" type="submit" id="submit" tabindex="5" value="Submit Comment">
+        <input type="hidden" name="comment_post_ID" value="95" id="comment_post_ID">
+<input type="hidden" name="comment_parent" id="comment_parent" value="0">
+      </p>
+          </form>
+      </div>
+  </div>
+ </div>  
+     </div><!-- end #content -->
+
+    <aside>
+
+   
+ 
+		    	 <div class="fsearchbg"> 
+
+      	<form method="get" id="footersearch" action="http://www.gocellphones.net/">
+
+			           <input type="text" name="s" value="Search News - Enter Keyword" onblur="if(this.value=='') this.value='Search News - Enter Keyword';" onfocus="if(this.value=='Search News - Enter Keyword') this.value='';" id="s">
+
+			<input type="submit" value=" " id="searchsubmit">
+
+		   </form> 
+
+       </div>
+
+		  
+<div id="mrtindiva">
+
+
+	  
+<ul class="tabs">
+    <li><a href="#tab1">Comments</a></li>
+    <li><a href="#tab2">Topics</a></li>
+        <li><a href="#tab3">Tags</a></li>
 </ul>
-</div>
 
-<!-- start wp-tags-to-technorati 1.01 -->
-
-<!-- end wp-tags-to-technorati -->
-</div>
+<div class="tab_container">
+    <div id="tab1" class="tab_content">
+       
+<li class="">Robert Tabor on <a href="http://www.gocellphones.net/samsung-galaxy-note-ii-to-hit-sprint-on-oct-25-for-299/#comment-4">Samsung Galaxy Note II To Hit Sprint On Oct. 25 for $299</a></li><li class="">Robert Tabor on <a href="http://www.gocellphones.net/samsung-galaxy-s4-release-date-specs-news-and-rumors/#comment-3">Samsung Galaxy S4 Release Date, Specs, News and Rumors</a></li><li class="">Robert Tabor on <a href="http://www.gocellphones.net/att-galaxy-note-2-multi-window-view-update-rolling-out-now/#comment-2">AT&amp;T Galaxy Note II Multi-Window View Update Rolling Out Now</a></li> 
+    </div>
+    <div id="tab2" class="tab_content">
+      
+      <div class="section widget_categories2">
+		 
+			<ul>
+					<li class="cat-item cat-item-3"><a href="http://www.gocellphones.net/category/news-by-brand/apple-iphone/" title="View all posts filed under Apple iPhone">Apple iPhone</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="http://www.gocellphones.net/category/news-by-brand/asus/" title="View all posts filed under Asus">Asus</a>
+</li>
+	<li class="cat-item cat-item-16"><a href="http://www.gocellphones.net/category/news-by-carriers/att/" title="View all posts filed under AT&amp;T">AT&amp;T</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://www.gocellphones.net/category/news-by-brand/blackberry/" title="View all posts filed under BlackBerry">BlackBerry</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="http://www.gocellphones.net/category/news-by-brand/htc/" title="View all posts filed under HTC">HTC</a>
+</li>
+	<li class="cat-item cat-item-28"><a href="http://www.gocellphones.net/category/news-by-brand/huawei/" title="View all posts filed under Huawei">Huawei</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="http://www.gocellphones.net/category/news-by-brand/lenovo/" title="View all posts filed under Lenovo">Lenovo</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="http://www.gocellphones.net/category/news-by-brand/lg/" title="View all posts filed under LG">LG</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="http://www.gocellphones.net/category/news-by-brand/motorola/" title="View all posts filed under Motorola">Motorola</a>
+</li>
+	<li class="cat-item cat-item-11"><a href="http://www.gocellphones.net/category/news-by-brand/nokia/" title="View all posts filed under Nokia">Nokia</a>
+</li>
+	<li class="cat-item cat-item-21"><a href="http://www.gocellphones.net/category/news-by-brand/oppo/" title="View all posts filed under Oppo">Oppo</a>
+</li>
+	<li class="cat-item cat-item-124"><a href="http://www.gocellphones.net/category/news-by-brand/other/" title="View all posts filed under Other">Other</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="http://www.gocellphones.net/category/news-by-brand/samsung/" title="View all posts filed under Samsung">Samsung</a>
+</li>
+	<li class="cat-item cat-item-14"><a href="http://www.gocellphones.net/category/news-by-brand/sony/" title="View all posts filed under Sony">Sony</a>
+</li>
+	<li class="cat-item cat-item-17"><a href="http://www.gocellphones.net/category/news-by-carriers/sprint/" title="View all posts filed under Sprint">Sprint</a>
+</li>
+	<li class="cat-item cat-item-18"><a href="http://www.gocellphones.net/category/news-by-carriers/t-mobile/" title="View all posts filed under T-Mobile">T-Mobile</a>
+</li>
+	<li class="cat-item cat-item-19"><a href="http://www.gocellphones.net/category/news-by-carriers/verizon/" title="View all posts filed under Verizon">Verizon</a>
+</li>
+	<li class="cat-item cat-item-59"><a href="http://www.gocellphones.net/category/news-by-brand/zte/" title="View all posts filed under ZTE">ZTE</a>
+</li>
+ 
+			</ul>
 		</div>
-
-		<div id="commentsFrame">
-<!-- You can start editing here. -->
-
-			<!-- If comments are closed. -->
-		<p class="nocomments">Comments are closed.</p>
-
-	
-
-</div>
-	        
-	<div class="navigation">
-		<div class="alignleft"></div>
-		<div class="alignright"></div>
-	</div>
-		</div><!-- /posts -->
-</div><!-- /im-mainContent -->
-        
-<div class="line"></div>
-        
-<!-- footer -->
-	<div class="im-footer">
-		<div class="im-lowerWidgets">
-            		<div class="lowerWidget">
-				<div class="widgetFrame"><ul>
-<li id="text-4" class="widget widget_text">			<div class="textwidget"><a href="http://hjlas.com/click/?s=24761&amp;c=236660" onclick="urchinTracker('/outgoing/hjlas.com/click/?s=24761_c=236660&amp;referer=');"><img src="http://hjlas.com/images/5146-236660-300x250.gif?s=24761" style="width: 300px; height: 250px; border: 0px;"></a></div>
-		</li>
-</ul></div>
-			</div>
-			<div class="lowerWidget">
-				<div class="widgetFrame">
-<ul>
-		<li id="recent-posts-3" class="widget widget_recent_entries">		<h4 class="widgettitle">Recent Posts</h4>		<ul>
-				<li><a href="http://www.gocellphones.net/how-to-know-when-you-need-to-change-your-mobile-phone" title="How To Know When You Need To Change Your Mobile Phone">How To Know When You Need To Change Your Mobile Phone </a></li>
-				<li><a href="http://www.gocellphones.net/placing-up-your-ipad-by-apple" title="Placing up your Ipad by apple">Placing up your Ipad by apple </a></li>
-				<li><a href="http://www.gocellphones.net/unlocked-cell-phones-whether-positive-or-negative" title="Unlocked Cell Phones – Whether positive or negative">Unlocked Cell Phones – Whether positive or negative </a></li>
-				<li><a href="http://www.gocellphones.net/compelling-motives-to-decide-on-prepaid-cell-phones" title="Compelling Motives To Decide On Prepaid Cell Phones">Compelling Motives To Decide On Prepaid Cell Phones </a></li>
-				<li><a href="http://www.gocellphones.net/unlocked-cell-phones-use-them-with-all-service-providers" title="Unlocked Cell Phones – Use Them With All Service Providers">Unlocked Cell Phones – Use Them With All Service Providers </a></li>
-				</ul>
-		</li>
-</ul></div>
-			</div>
-			<div class="lowerWidget">
-				<div class="widgetFrame"><ul>
-<li id="text-3" class="widget widget_text">			<div class="textwidget"><script type="text/javascript"><!--
-amazon_ad_tag = "natherheasit-20"; amazon_ad_width = "300"; amazon_ad_height = "250"; amazon_ad_logo = "hide"; amazon_ad_link_target = "new"; amazon_ad_price = "retail";//--></script>
-<script type="text/javascript" src="http://www.assoc-amazon.com/s/ads.js"></script></div>
-		</li>
-</ul></div>
-			</div>
-		</div>
-           
-		<div class="footerContent">
-			<!-- You can insert text or html here to appear below bottom widget -->
-		</div>
-	</div>
-<!-- /footer -->
-</div><!-- /frame -->
-
-<a target="_blank" href="http://www.socratestheme.com/cb/go.php?id=mfrollo" onclick="urchinTracker('/outgoing/www.socratestheme.com/cb/go.php?id=mfrollo&amp;referer=');"><div class="bottomBar"></div></a>
-    
-<div class="im-lowerFrame">
-	<div class="im-lowerFooter">
-					<div class="lowerNav"></div>
-		            
-					<div class="copyright"></div>
-		        	
-		<br clear="all">
-		<div class="disclaimer"></div>
-	</div>
-</div>
-    
-</div><!-- /wrapper -->
+       
+    </div>
+     <div id="tab3" class="tab_content">
+   <a href="http://www.gocellphones.net/tag/evleaks/" class="tag-link-163" title="2 topics" style="font-size: 11.6pt;">@evleaks</a>
+<a href="http://www.gocellphones.net/tag/android-4-2/" class="tag-link-68" title="4 topics" style="font-size: 16pt;">Android 4.2</a>
+<a href="http://www.gocellphones.net/tag/android-4-2-jelly-bean/" class="tag-link-154" title="4 topics" style="font-size: 16pt;">Android 4.2 Jelly Bean</a>
+<a href="http://www.gocellphones.net/tag/android-4-2-2-jelly-bean/" class="tag-link-142" title="2 topics" style="font-size: 11.6pt;">Android 4.2.2 Jelly Bean</a>
+<a href="http://www.gocellphones.net/tag/android-jelly-bean/" class="tag-link-27" title="2 topics" style="font-size: 11.6pt;">Android Jelly Bean</a>
+<a href="http://www.gocellphones.net/tag/apple/" class="tag-link-89" title="6 topics" style="font-size: 19pt;">Apple</a>
+<a href="http://www.gocellphones.net/tag/ascend-d2/" class="tag-link-30" title="1 topic" style="font-size: 8pt;">Ascend D2</a>
+<a href="http://www.gocellphones.net/tag/ces/" class="tag-link-26" title="2 topics" style="font-size: 11.6pt;">CES</a>
+<a href="http://www.gocellphones.net/tag/ces-2013/" class="tag-link-25" title="2 topics" style="font-size: 11.6pt;">CES 2013</a>
+<a href="http://www.gocellphones.net/tag/galaxy-note-2/" class="tag-link-41" title="4 topics" style="font-size: 16pt;">Galaxy Note 2</a>
+<a href="http://www.gocellphones.net/tag/galaxy-note-3/" class="tag-link-139" title="3 topics" style="font-size: 14pt;">Galaxy Note 3</a>
+<a href="http://www.gocellphones.net/tag/galaxy-note-ii/" class="tag-link-43" title="3 topics" style="font-size: 14pt;">Galaxy Note II</a>
+<a href="http://www.gocellphones.net/tag/galaxy-note-iii/" class="tag-link-113" title="4 topics" style="font-size: 16pt;">Galaxy Note III</a>
+<a href="http://www.gocellphones.net/tag/galaxy-s3/" class="tag-link-36" title="1 topic" style="font-size: 8pt;">Galaxy S3</a>
+<a href="http://www.gocellphones.net/tag/galaxy-s4/" class="tag-link-38" title="2 topics" style="font-size: 11.6pt;">Galaxy S4</a>
+<a href="http://www.gocellphones.net/tag/galaxy-siii/" class="tag-link-40" title="1 topic" style="font-size: 8pt;">galaxy SIII</a>
+<a href="http://www.gocellphones.net/tag/htc-one/" class="tag-link-73" title="2 topics" style="font-size: 11.6pt;">HTC One</a>
+<a href="http://www.gocellphones.net/tag/huawei-ascend-d2/" class="tag-link-29" title="1 topic" style="font-size: 8pt;">Huawei Ascend D2</a>
+<a href="http://www.gocellphones.net/tag/ifa/" class="tag-link-149" title="5 topics" style="font-size: 17.6pt;">IFA</a>
+<a href="http://www.gocellphones.net/tag/ifa-2013/" class="tag-link-168" title="4 topics" style="font-size: 16pt;">IFA 2013</a>
+<a href="http://www.gocellphones.net/tag/iphone-5/" class="tag-link-57" title="2 topics" style="font-size: 11.6pt;">iPhone 5</a>
+<a href="http://www.gocellphones.net/tag/iphone-5c/" class="tag-link-91" title="5 topics" style="font-size: 17.6pt;">iPhone 5C</a>
+<a href="http://www.gocellphones.net/tag/iphone-5s/" class="tag-link-92" title="9 topics" style="font-size: 22pt;">iPhone 5S</a>
+<a href="http://www.gocellphones.net/tag/lg-optimus-g/" class="tag-link-45" title="1 topic" style="font-size: 8pt;">LG Optimus G</a>
+<a href="http://www.gocellphones.net/tag/motorola-droid-mini/" class="tag-link-117" title="2 topics" style="font-size: 11.6pt;">Motorola DROID Mini</a>
+<a href="http://www.gocellphones.net/tag/motorola-moto-x/" class="tag-link-81" title="2 topics" style="font-size: 11.6pt;">Motorola Moto X</a>
+<a href="http://www.gocellphones.net/tag/moto-x/" class="tag-link-82" title="3 topics" style="font-size: 14pt;">Moto X</a>
+<a href="http://www.gocellphones.net/tag/nokia-lumia-1020/" class="tag-link-76" title="2 topics" style="font-size: 11.6pt;">Nokia Lumia 1020</a>
+<a href="http://www.gocellphones.net/tag/nokia-lumia-1520/" class="tag-link-136" title="2 topics" style="font-size: 11.6pt;">Nokia Lumia 1520</a>
+<a href="http://www.gocellphones.net/tag/oppo-find-5/" class="tag-link-22" title="1 topic" style="font-size: 8pt;">Oppo Find 5</a>
+<a href="http://www.gocellphones.net/tag/optimus-g/" class="tag-link-46" title="1 topic" style="font-size: 8pt;">Optimus G</a>
+<a href="http://www.gocellphones.net/tag/phablet/" class="tag-link-138" title="3 topics" style="font-size: 14pt;">phablet</a>
+<a href="http://www.gocellphones.net/tag/samsung-galaxy-note-2/" class="tag-link-44" title="2 topics" style="font-size: 11.6pt;">Samsung Galaxy Note 2</a>
+<a href="http://www.gocellphones.net/tag/samsung-galaxy-note-3/" class="tag-link-140" title="4 topics" style="font-size: 16pt;">Samsung Galaxy Note 3</a>
+<a href="http://www.gocellphones.net/tag/samsung-galaxy-note-ii/" class="tag-link-42" title="2 topics" style="font-size: 11.6pt;">Samsung Galaxy Note II</a>
+<a href="http://www.gocellphones.net/tag/samsung-galaxy-note-iii/" class="tag-link-112" title="4 topics" style="font-size: 16pt;">Samsung Galaxy Note III</a>
+<a href="http://www.gocellphones.net/tag/samsung-galaxy-s3/" class="tag-link-35" title="1 topic" style="font-size: 8pt;">Samsung Galaxy S3</a>
+<a href="http://www.gocellphones.net/tag/samsung-galaxy-s4/" class="tag-link-37" title="3 topics" style="font-size: 14pt;">Samsung Galaxy S4</a>
+<a href="http://www.gocellphones.net/tag/samsung-galaxy-s4-mini/" class="tag-link-122" title="2 topics" style="font-size: 11.6pt;">Samsung Galaxy S4 Mini</a>
+<a href="http://www.gocellphones.net/tag/samsung-galaxy-siii/" class="tag-link-39" title="1 topic" style="font-size: 8pt;">Samsung galaxy SIII</a>
+<a href="http://www.gocellphones.net/tag/sony-honami/" class="tag-link-80" title="4 topics" style="font-size: 16pt;">Sony Honami</a>
+<a href="http://www.gocellphones.net/tag/sony-xperia-z/" class="tag-link-23" title="2 topics" style="font-size: 11.6pt;">Sony Xperia Z</a>
+<a href="http://www.gocellphones.net/tag/sony-xperia-z1/" class="tag-link-127" title="2 topics" style="font-size: 11.6pt;">Sony Xperia Z1</a>
+<a href="http://www.gocellphones.net/tag/windows-phone-8/" class="tag-link-132" title="2 topics" style="font-size: 11.6pt;">Windows Phone 8</a>
+<a href="http://www.gocellphones.net/tag/xperia-yuga/" class="tag-link-24" title="1 topic" style="font-size: 8pt;">Xperia Yuga</a>    </div>
+</div> </div>
+			<div id="sidebar">
 
  
+
+
+			</div><!-- end #r-sidebar -->
+
+		</aside>  
+	</section>
+
+</div><!-- #wrapper -->
+
+	<footer>
+
+    <div id="footer1">     <div id="footerwrapper1"> 
+
+    <div id="fsidebar1">                                            
+
+      <div class="widget"><ul><h3>Recent Comments</h3><ul id="recentcomments"><li class="recentcomments">Robert Tabor on <a href="http://www.gocellphones.net/samsung-galaxy-note-ii-to-hit-sprint-on-oct-25-for-299/#comment-4">Samsung Galaxy Note II To Hit Sprint On Oct. 25 for $299</a></li><li class="recentcomments">Robert Tabor on <a href="http://www.gocellphones.net/samsung-galaxy-s4-release-date-specs-news-and-rumors/#comment-3">Samsung Galaxy S4 Release Date, Specs, News and Rumors</a></li><li class="recentcomments">Robert Tabor on <a href="http://www.gocellphones.net/att-galaxy-note-2-multi-window-view-update-rolling-out-now/#comment-2">AT&amp;T Galaxy Note II Multi-Window View Update Rolling Out Now</a></li></ul></ul></div>            
+
+    </div>
+
+    <div id="fsidebar2">                                            
+
+      <div class="widget"><ul><h3>Pages</h3>		<ul>
+			<li class="page_item page-item-2"><a href="http://www.gocellphones.net/aboutus/">About Us</a></li>
+<li class="page_item page-item-92"><a href="http://www.gocellphones.net/contact-us/">Contact Us</a></li>
+<li class="page_item page-item-95 current_page_item"><a href="http://www.gocellphones.net/privacy-policy/">Privacy Policy</a></li>
+<li class="page_item page-item-102"><a href="http://www.gocellphones.net/terms-of-use/">Terms of use</a></li>
+		</ul>
+		</ul></div>            
+
+    </div> 
+
+    <div id="fsidebar3">                                            
+
+       		
+
+                  
+
+    </div>   
+
+     <div id="fsidebar4">
+
+    <div class="widget">
+
+    <ul>
+
+    <h3>About Our Site</h3>
+
+    <ul>
+  	
+
+<p>GoCellphones is one of the largest and most popular interactive mobile news and reviews resource that attracts a community of more than a million unique visitors each month.</p>
+		
+
+ </ul>
+
+    </ul>
+
+    </div>
+
+    </div>     <div style="clear: both;"> </div> 
+
+    </div>  </div>
+
+ <div id="footer2">  <div id="footerwrapper2"> 
+
+<div id="fotnav">
+
+		 	<ul id="fnav">  <center> 
+
+
+      </center>	</ul> 
+
+         	</div> 
+
+      <div id="fotbot">
+
+      <div class="fotlogoleft"> 
+
+        <div class="fotcopy">
+
+   © 2010 GoCellphones - All Rights Reserved 
+
+        </div>     
+
+		  </div>
+
+	   	<div class="fotlogoright">
+
+	   	 <ul id="skyline"> 
+
+<li id="pad1">  <a href=""><img src="http://www.gocellphones.net/wp-content/themes/techblog-single-pro-psd/images/fot-fb.png" alt="Become a Fan!"></a></li>
+
+<li id="pad1">  <a href="http://twitter.com/"><img src="http://www.gocellphones.net/wp-content/themes/techblog-single-pro-psd/images/fot-twitter.png" alt="Follow On Twitter"></a></li>
+
+<li id="pad1"> <a href=""><img src="http://www.gocellphones.net/wp-content/themes/techblog-single-pro-psd/images/fot-feed.png" alt="Subcribe to Our RSS Feed"></a></li>
+
+<li>
+
+      	<form method="get" id="footersearch" action="http://www.gocellphones.net/">
+
+			           <input type="text" name="s" value="Search News - Enter Keyword" onblur="if(this.value=='') this.value='Search News - Enter Keyword';" onfocus="if(this.value=='Search News - Enter Keyword') this.value='';" id="s">
+
+			<input type="submit" value=" " id="searchsubmit">
+
+		   </form> 
+
+</li>  
+
+     
+
+       </ul>
+
+	   	</div>
+
+    	<div id="cb"></div>
+
+   </div>
+
+  </div>   
+
+	</div></footer>
+
+
+
+
+
+
 
 </body></html>
