@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glowhost.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501201652id_/https%3A//privacy.truste.com/reseller/privacy-policy/GlowHost.com%252C-Inc/certified/87d2e4ba-f13c-490d-b9da-16d8804e9c18) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glowhost.com privacy policy that was archived on 2013-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131001190050id_/https%3A//privacy.truste.com/reseller/privacy-policy/GlowHost.com%252C-Inc/certified/87d2e4ba-f13c-490d-b9da-16d8804e9c18) for the most accurate reproduction.*
 
 # Welcome to glowhost.com
 
