@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sunricher.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426193048id_/http%3A//www.sunricher.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunricher.com privacy policy that was archived on 2013-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131002134603id_/http%3A//www.sunricher.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy -Hongkong Sunricher
 
 Thank you for visiting Sunricher.com.WE understand Your privacy is important to you.
 
