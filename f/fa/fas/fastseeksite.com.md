@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastseeksite.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530152847id_/http%3A//fastseeksite.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastseeksite.com privacy policy that was archived on 2013-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131003001729id_/http%3A//www.fastseeksite.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Fastseeksite.com- Privacy Policy
 
