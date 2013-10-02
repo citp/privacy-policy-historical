@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingstreenews.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018111451id_/http%3A//www.gtowntimes.com/images/kingstree/PrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingstreenews.com privacy policy that was archived on 2013-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131002210957id_/http%3A//www2.gtowntimes.com/images/kingstree/PrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # WEBSITE PRIVACY STATEMENT
 
