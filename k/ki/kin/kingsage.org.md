@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingsage.org privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618205408id_/http%3A//agb.gameforge.de/index.php%3Flang%3Den%26art%3Ddatenschutz%26f_text%3D8B2323%26f_text_hover%3D191970%26f_text_h%3D8e8e8e%26f_text_hr%3Dffffff%26f_text_hrbg%3D061229%26f_text_hrborder%3D26324c%26f_text_font%3Dverdana%252C%2Barial%252C%2Bhelvetica%252C%2Bsans-serif%26f_bg%3DFFDEAD) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingsage.org privacy policy that was archived on 2013-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131002070440id_/http%3A//agb.gameforge.de/index.php%3Flang%3Den%26art%3Ddatenschutz%26f_text%3D8B2323%26f_text_hover%3D191970%26f_text_h%3D8e8e8e%26f_text_hr%3Dffffff%26f_text_hrbg%3D061229%26f_text_hrborder%3D26324c%26f_text_font%3Dverdana%252C%2Barial%252C%2Bhelvetica%252C%2Bsans-serif%26f_bg%3DFFDEAD) for the most accurate reproduction.*
 
 # Gameforge
 
