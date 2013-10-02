@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bulkregister.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919212348id_/http%3A//www.bulkregister.com/terms/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulkregister.com privacy policy that was archived on 2013-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131002081641id_/http%3A//www.bulkregister.com/terms/privacy.asp) for the most accurate reproduction.*
 
-# BulkRegister - domain name, web site hosting, email, registration - PRIVACY POLICY
+# BulkRegister - domain name, web site hosting, email, registration
 
 eNom knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. **By visiting any of the sites offered by eNom, Inc., you are accepting the practices described in this Privacy Notice.** For question on the Privacy Notice please contact the eNom® Support Center.
 
@@ -67,13 +67,13 @@ Yes, we do share information but only as described below. Otherwise we will not 
 
 
 
-#### For European Union Citizens
+#### For European Union Citizens or Switzerland Citizens
 
-  * In compliance with the Safe Harbor Principles, eNom, Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. In the first instance, European Union citizens with inquiries or complaints regarding this privacy policy should contact: [legal@enom.com](mailto:legal@enom.com) This e-mail address is being protected from spambots. You need JavaScript enabled to view it 
+  * In compliance with the Safe Harbor Principles, eNom, Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. In the first instance, European Union citizens or Switzerland citizens with inquiries or complaints regarding this privacy policy should contact: [legal@enom.com](mailto:legal@enom.com) This e-mail address is being protected from spambots. You need JavaScript enabled to view it 
 
-The company complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. The company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the company’s certification, please visit <http://www.export.gov/safeharbor/>.
+The company complies with the U.S.-EU Safe Harbor Framework and the U.S.–Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. The company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the company’s certification, please visit <http://www.export.gov/safeharbor/>.
 
-eNom, Inc. has further committed to refer unresolved privacy complaints under the US-EU [and EU-Swiss] Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by eNom, Inc., please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
+eNom, Inc. has further committed to refer unresolved privacy complaints under the US-EU and the US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by eNom, Inc., please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
 
 
 
