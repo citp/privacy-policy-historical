@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the getinternetmarketingstrategies.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509011230id_/http%3A//getinternetmarketingstrategies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getinternetmarketingstrategies.com privacy policy that was archived on 2013-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131002194902id_/http%3A//getinternetmarketingstrategies.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy @ Dot Comers
 
 **The following describes the Privacy Policy for http://getinternetmarketingstrategies.com/**
 
@@ -11,14 +11,14 @@ Your privacy is important to us at http://getinternetmarketingstrategies.com/. T
 The website owner is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
 
 **Google Adsense and the DoubleClick DART Cookie**  
-Google, as a third party advertisement vendor, may use cookies to serve ads on this http://getinternetmarketingstrategies.com/ website. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website, including past visits, as well as other websites on the internet.
+Google, as a third party advertisement vendor, may use cookies to serve ads on this http://getinternetmarketingstrategies.com/ website. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website, including past visits, as well as other [websites](http://getinternetmarketingstrategies.com/7vdd "websites") on the internet.
 
 To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url http://www.google.com/privacy_ads.html Tracking of users through the DART cookie mechanisms are subject to Google's own privacy policies.
 
 Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, our website has no access or control over these cookies that may be used by third party advertisers. However, you can opt out of some, though likely not all, of these cookies in one easy location at http://ww.networkadvertising.org/managing/opt_out.asp
 
-**[Links](http://getinternetmarketingstrategies.com/2011/09/47-premium-link-building-strategies/ "Links") to Third Party Websites**  
-We have included links on this website for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these websites may differ from our own. 
+**[Links](http://getinternetmarketingstrategies.com/2011/09/47-premium-link-building-strategies/ "Links") to Third Party [Websites](http://getinternetmarketingstrategies.com/7vdd "Websites")**  
+We have included [links](http://getinternetmarketingstrategies.com/2011/09/47-premium-link-building-strategies/ "links") on this website for your use and reference. We are not responsible for the privacy policies on these [websites](http://getinternetmarketingstrategies.com/7vdd "websites"). You should be aware that the privacy policies of these [websites](http://getinternetmarketingstrategies.com/7vdd "websites") may differ from our own. 
 
 **Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....**  
 Google Adsense  
@@ -33,7 +33,7 @@ and others that may be added at our discretion.
 
 **eBay Referrer Requirement**
 
-This website is a member of the ePN (eBay Partner Network). We are required by ePN to ensure that our visitors do not block any information that is routinely sent via a users standard browser when clicking one of their links. Our software will automatically cancel your transfer to eBay if all or part of this information is not currently available due to your browser settings, ISP, proxy, or any other reason.
+This website is a member of the ePN (eBay Partner Network). We are required by ePN to ensure that our visitors do not block any information that is routinely sent via a users standard browser when clicking one of their [links](http://getinternetmarketingstrategies.com/2011/09/47-premium-link-building-strategies/ "links"). Our software will automatically cancel your transfer to eBay if all or part of this information is not currently available due to your browser settings, ISP, proxy, or any other reason.
 
 **State Law & Accompanying Rights**  
 Please understand that you may have additional rights originating from State laws based on where you live. These State-based rights may augment, strengthen, or otherwise somehow compliment any privacy rights you have inherently or under Federal law. Our policy is to comply fully with the privacy policies of every jurisdiction in which we operate. Accordingly, you are free to use our Contact information to reach us at any time to assert any State rights.
@@ -46,7 +46,7 @@ Under our Terms of Service and Conditions of Use, children under 18 are not allo
 **Collection of Personal Information**  
 When visiting our website, the IP address used to access our website may be logged along with the dates and times of access. This information is purely used to analyze trends, administer our website, track users movement, and gather broad demographic information for internal use such as statistical assessments and website improvement. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
 
-Other information may be collected as well by http://getinternetmarketingstrategies.com/, which is rather typical of most websites. For instance, the source that referred you to our website is generally known. Likewise, your duration on our website, and your destination when you leave our website can also be tracked. Other common data collected includes the type of operating system the computer you are using to access our website has. Similarly, the type of web browser is often noted. Again, this is common data collection, and helps ultimately produce a better end-user experience.
+Other information may be collected as well by http://getinternetmarketingstrategies.com/, which is rather typical of most [websites](http://getinternetmarketingstrategies.com/7vdd "websites"). For instance, the source that referred you to our website is generally known. Likewise, your duration on our website, and your destination when you leave our website can also be tracked. Other common data collected includes the type of operating system the computer you are using to access our website has. Similarly, the type of web browser is often noted. Again, this is common data collection, and helps ultimately produce a better end-user experience.
 
 Cookies are another common internet practice. Cookies are a key means of improving user experience by allows us to customize your use of our website. Simple information is transferred to your computer to allow the content and experience at http://getinternetmarketingstrategies.com/ to reflect your actions, preferences, and so on. You should simply make the assumption our website uses cookies, and note that you are free to make adjustments in your web browser to disable these or otherwise receive notification of cookies so you can take whatever desired action you so choose. Please understand that refusing cookies may cripple some of our website features and render some aspects useless to you.
 
