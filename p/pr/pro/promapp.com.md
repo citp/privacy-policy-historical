@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the promapp.com privacy policy that was archived on 2012-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120218144706id_/http%3A//www.promapp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promapp.com privacy policy that was archived on 2013-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131002062340id_/http%3A//www.promapp.com/privacy) for the most accurate reproduction.*
 
-# Promapp
+# Privacy Policy - Promapp
 
 **Promapp Solutions Ltd ("we", "us", "our")** take your privacy very seriously, respecting the confidentiality and integrity of any information that you provide as a user of the www.promapp.com website ("Site"). 
 
@@ -32,5 +32,10 @@ Under the Privacy Act 1993 we have created the following Privacy Policy.
   6. **Opting in and opting out:** If our intended collection, use or disclosure of your personal information is outside the collection, use or disclosure set out in this Privacy Policy, we will give you the option to either (a) "opt out" and not receive certain online services available on the Site; or (b) "opt in" and agree to be contacted by us in relation to certain matters, such as notification of new features to the Site or promotional activities.
   7. **Safeguards in place:** We use secure firewalls whenever receiving and transferring your personal information on the Site. Please note that the personal information you provide to us is stored in New Zealand on a secure server. However, as no data transmission over the Internet can be guaranteed to be completely secure, we cannot ensure or warrant the security of any information you transmit or receive through the Site. These activities are conducted at your own risk.
   8. **Changes to Privacy Policy:** We reserve the right to change this Privacy Policy at any time by notifying users of the existence of a revised Privacy Policy through the Site. By continuing to access the Site, you agree to be bound by the amended Privacy Policy.
+  9. **Cookies:** We use cookies on the Site. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. 
+    1. Third party vendors, including Google, show our ads on sites on the internet.
+    2. Third party vendors, including Google, use cookies to serve ads based on your prior visits to this website.
+    3. You have the option to opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html).
+Alternatively you can opt out of cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 
