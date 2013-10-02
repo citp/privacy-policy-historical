@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petpeoplesplace.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508193851id_/http%3A//www.petpeoplesplace.com/help/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petpeoplesplace.com privacy policy that was archived on 2013-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131002193337id_/http%3A//www.petpeoplesplace.com/help/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Help & Information | PetPeoplesPlace.com
 
