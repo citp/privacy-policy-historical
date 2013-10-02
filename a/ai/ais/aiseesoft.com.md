@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aiseesoft.com privacy policy that was archived on 2013-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130427005214id_/http%3A//www.aiseesoft.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aiseesoft.com privacy policy that was archived on 2013-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131002112325id_/http%3A//aiseesoft.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Aiseesoft Customer Privacy Policy
 
@@ -18,11 +18,15 @@ Aiseesoft takes precautions — including administrative, technical, and physica
 
 Aiseesoft uses secure server hosted by RegNow and other 3rd party credit card processors that encrypt the entire customer's personal information including name, address, credit card number credit card expiration date etc. before it is sent to us. Encryption works to prevent any malicious use of your personal information.
 
-You can help us by also taking precautions to protect your personal data when you are on the Internet. Change your passwords often using a combination of letters and numbers, and make sure you use a secure web browser like Safari. 
+You can help us by also taking precautions to protect your personal data when you are on the Internet. Change your passwords often using a combination of letters and numbers, and make sure you use a secure web browser like Safari.
 
-RegNow
+SWREG
 
-RegNow is the software industry's premier registration commerce provider. Aiseesoft uses RegNow to provide you with very secure and fast online purchase.
+SWREG is an online payment processor that is the best Paypal alternative for global businesses. It offers numerous payment options and currencies, including phone and fax order support in 16 countries. Aiseesoft uses SWREG to make it easier for you to buy products.
+
+Avangate
+
+Agile eCommerce platform for online software sales trusted by software and Software-as-a-Service companies to sell products via any channel and any model. Aiseesoft uses Avangate to provide a well-defined, seamless ordering and support experience.
 
 Cookies
 
