@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the jobsnearyou.net privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525090130id_/http%3A//jobsnearyou.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsnearyou.net privacy policy that was archived on 2013-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131003014437id_/http%3A//www.jobsnearyou.net/privacy.php) for the most accurate reproduction.*
 
 # Job Search | Search for Jobs Near You. JobsNearYou - Privacy Policy
 
 * Thank you for visiting www.JobsNearYou.net (the “Site,” “JobsNearYou.net), owned and operated by JobsNearYou.net. The Site is an Internet property of JobsNearYou.net and its affiliated companies (“JobsNearYou.net ,” “we” or “us”). This privacy policy (“Privacy Policy”) outlines the privacy practices associated with the Site. You agree to this Privacy Policy, in its entirety, when you: (a) access or use the Site; (b) agree to receive e-mail from us via the Site, or any other means; and/or (c) register on the Site to receive information from third party service providers.
 
 **If you are a resident of the State of California and would like to opt-out from the disclosure of your personal information to any third party for marketing purposes, please e-mail us at info@jobsnearyou.net. Please be advised that where California residents opt-out from permitting their personal information to be shared, such individuals may still receive selected offers directly from us, in accordance with the law.**
-
-* JobsNearYou.net has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers the website www.JobsNearYou.net. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [support@myfastonlinesupport.com](mailto:support@myfastonlinesupport.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 * **Personally Identifiable Information Collected**
 
