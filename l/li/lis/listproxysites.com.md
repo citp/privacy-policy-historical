@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listproxysites.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513073558id_/http%3A//listproxysites.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listproxysites.com privacy policy that was archived on 2013-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131002164139id_/http%3A//www.listproxysites.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy for ListProxySites.com
 
