@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dathost.net privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519070121id_/http%3A//dathost.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dathost.net privacy policy that was archived on 2013-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131002042430id_/http%3A//dathost.net/privacy.php) for the most accurate reproduction.*
 
 # Dat Host - Privacy Policy
 
