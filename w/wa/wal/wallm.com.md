@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallm.com privacy policy that was archived on 2013-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130216041300id_/http%3A//www.wallm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallm.com privacy policy that was archived on 2013-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131002100707id_/http%3A//www.wallm.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Wallm.com
 
