@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the techopedia.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510105024id_/http%3A//www.techopedia.com/about/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techopedia.com privacy policy that was archived on 2013-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131002191906id_/http%3A//www.techopedia.com/about/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Techopedia.com
 
-TECHOPEDIA.COM IS COMMITTED TO YOUR PRIVACY. TO LEARN MORE ABOUT THE INFORMATION WE COLLECT AND USE, THE SECURITY OF YOUR INFORMATION AND HOW AND WHEN WE SHARE IT, PLEASE READ THE PRIVACY POLICY BELOW. PLEASE READ THIS DOCUMENT CAREFULLY, AS IT GOVERNS YOUR USE OF THE SITE AND ALL SERVICES OFFERED THROUGH THE SITE. 
+Techopedia.COM IS COMMITTED TO YOUR PRIVACY. TO LEARN MORE ABOUT THE INFORMATION WE COLLECT AND USE, THE SECURITY OF YOUR INFORMATION AND HOW AND WHEN WE SHARE IT, PLEASE READ THE PRIVACY POLICY BELOW. PLEASE READ THIS DOCUMENT CAREFULLY, AS IT GOVERNS YOUR USE OF THE SITE AND ALL SERVICES OFFERED THROUGH THE SITE. 
 
 This policy covers how Techopedia.com treats personal information that we collect and receive, including information related to your past use of our products and services. Personal information is information about you that is personally identifiable such as your name, address, email address, or phone number, and that is not otherwise publicly available. 
 
@@ -97,5 +97,5 @@ If you have questions or suggestions, please complete the form on our [Contact U
 Janalta Interactive Inc. o/a Techopedia.com  
 Suite 104, 4207 - 98 Street NW  
 Edmonton, Alberta Canada T6E 5R7  
-Last updated Saturday, May 04, 2013  
+Last updated Monday, September 09, 2013  
 
