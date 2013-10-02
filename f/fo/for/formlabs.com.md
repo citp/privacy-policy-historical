@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the formlabs.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603075831id_/http%3A//formlabs.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the formlabs.com privacy policy that was archived on 2013-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131002155513id_/http%3A//formlabs.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Formlabs - High Resolution Desktop 3D Printer
 
@@ -6,9 +6,9 @@ Privacy Policy
 
 * * *
 
-Effective Date – November 1, 2012
+Effective Date – August 5, 2013
 
-Formlabs is committed to protecting your privacy. This Privacy Policy applies to our websites that link to it, including www.formlabs.com, and to our online store (collectively, the “Websites”). This statement governs our data collection, processing and usage practices. By using the Websites, you consent to the data practices described in this Privacy Policy. 
+Formlabs is committed to protecting your privacy. This Privacy Policy applies to our websites that link to it, including www.formlabs.com, and to our online store (collectively, the “Websites”). This statement governs our data collection, processing and usage practices. By using the Websites, you consent to the data practices described in this Privacy Policy.
 
 Return to top  
 
@@ -24,7 +24,7 @@ Return to top
 
 Contact Us
 
-If you have any questions about this Privacy Policy or our treatment of the information you provide us, please write to us by email at labs@formlabs.com or by mail to Formlabs, Inc., Formlabs, 288 Norfolk Street, Suite #4, Cambridge, MA 02139, Attn: Privacy.
+If you have any questions about this Privacy Policy or our treatment of the information you provide us, please write to us by email at labs@formlabs.com or by mail to Formlabs, Inc., Formlabs, 35 Medford St. #1, Somerville, MA 02139, Attn: Privacy.
 
  
 
@@ -33,7 +33,7 @@ Return to top
 
 Information We Collect
 
-You are free to explore the Websites without providing any information about yourself. When you visit the Websites or register for our store, we request that you provide Personal Information about yourself, and we collect Navigational Information. 
+You are free to explore the Websites without providing any information about yourself. When you visit the Websites or register for our store, we request that you provide Personal Information about yourself, and we collect Navigational Information.
 
  
 
@@ -67,6 +67,10 @@ The Websites are not intended for or targeted at children under 13, and we do no
 Return to top  
 
 
+Data Collection
+
+During installation, Formlabs software may ask you to opt-in to the collection of diagnostic information regarding your use of Formlabs’ software or hardware in order to help our engineers improve Formlabs’ products. If you opt in, you agree that Formlabs may collect, maintain, and use information about the operation of Formlabs’ hardware and software, such as hardware serial numbers, print times, laser power levels, and 3D model sizes.  No models, 3D geometry, or personal information will be collected without your additional and explicit consent.
+
 How We Use Information We Collect
 
 We use the information we collect only in compliance with this Privacy Policy.
@@ -78,7 +82,7 @@ Return to top
 
 We Never Sell Personal Information
 
-We will never sell your Personal Information to any third party. 
+We will never sell your Personal Information to any third party.
 
  
 
@@ -89,9 +93,8 @@ Use of Personal Information
 
 In addition to the uses identified elsewhere in this Privacy Policy, we may use your Personal Information to: (a) improve your browsing experience by personalizing the Websites; (b) send information (other than marketing communications) to you which we think may be of interest to you by post, email, or other means; (c) send you marketing communications relating to our business or the businesses of carefully-selected third parties which we think may be of interest to you, and (d) provide other companies with statistical information about our users – but this information will not be used to identify any individual user.  In addition, we may share data with trusted partners to contact you based on your interest to receive such communications, help us perform statistical analysis, send you email or postal mail, or provide customer support. Such third parties are prohibited from using your Personal Information except for these purposes, and they are required to maintain the confidentiality of your information.
 
- 
-
 Return to top  
+  Return to top  
 
 
 Use of Navigational Information
@@ -198,7 +201,7 @@ Navigational Information
 
 Cookies
 
-We use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web server. Cookies are not used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you. One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize pages on our Websites, or register for our store, a cookie helps us to recall your specific information on subsequent visits. 
+We use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web server. Cookies are not used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you. One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize pages on our Websites, or register for our store, a cookie helps us to recall your specific information on subsequent visits.
 
 When you return to the same Website, the information you previously provided can be retrieved, so you can easily use the features that you customized. You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Websites. We keep track of the pages you visit on the Websites, in order to determine what parts of our store and the Websites are the most popular. This data is used to deliver customized content and advertising on the Websites to visitors whose behavior indicates that they are interested in a particular subject area.
 
@@ -220,18 +223,18 @@ Opting-Out and Unsubscribing
 
 Reviewing, Correcting and Removing Your Personal Information
 
-If you provide us with your Personal Information, you have the following rights with respect to that information: 
+If you provide us with your Personal Information, you have the following rights with respect to that information:
 
-  * To review the user information that you have supplied to us 
+  * To review the user information that you have supplied to us
   * To request that we correct any errors, outdated information, or omissions in user information that you have supplied to us
   * To request that your user information not be used to contact you
-  * To request that your user information be removed from any solicitation list that we use 
+  * To request that your user information be removed from any solicitation list that we use
   * To request that your user information be deleted from our records
-  * To opt out of being solicited by the Websites or third parties 
+  * To opt out of being solicited by the Websites or third parties
 
 
 
-To exercise any of these rights, please contact us at labs@formlabs.com or by mail to Formlabs, Inc., Formlabs, 288 Norfolk Street, Suite #4, Cambridge, MA 02139, Attention: Privacy. We will promptly change, correct, or delete your information.
+To exercise any of these rights, please contact us at labs@formlabs.com or by mail to Formlabs, Inc., Formlabs, 35 Medford St. #1, Somerville, MA 02143, Attention: Privacy. We will promptly change, correct, or delete your information.
 
  
 
@@ -240,4 +243,4 @@ Return to top
 
 To Unsubscribe From Our Communications
 
-You may unsubscribe from our marketing communications by clicking on the “unsubscribe” link located on the bottom of our emails, or by sending us email us at labs@formlabs.com, or by sending us postal mail to Formlabs, Inc., Formlabs, 288 Norfolk Street, Suite #4, Cambridge, MA 02139, Attention: Privacy. Customers cannot opt out of receiving transactional emails related to their account with us or our store.
+You may unsubscribe from our marketing communications by clicking on the “unsubscribe” link located on the bottom of our emails, or by sending us email us at labs@formlabs.com, or by sending us postal mail to Formlabs, Inc., Formlabs, 35 Medford St. #1, Somerville, MA 02143, Attention: Privacy. Customers cannot opt out of receiving transactional emails related to their account with us or our store.
