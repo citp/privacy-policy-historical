@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the content4reprint.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628094726id_/http%3A//www.content4reprint.com/privacy-policy-for-content4reprint.com.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the content4reprint.com privacy policy that was archived on 2013-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131002061458id_/http%3A//www.content4reprint.com/privacy-policy-for-content4reprint.com.htm) for the most accurate reproduction.*
 
 # Privacy Policy for Content4Reprint.com - Content for Reprint
 
