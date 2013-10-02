@@ -1,27 +1,119 @@
-> *The following text is extracted and transformed from the alienware.co.uk privacy policy that was archived on 2009-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090205055459id_/http%3A//www.alienware.co.uk/sub_pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alienware.co.uk privacy policy that was archived on 2013-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131002135626id_/http%3A//www1.euro.dell.com/content/topics/topic.aspx/emea/topics/footer/privacy%3Fc%3Duk%26cs%3Dukdhs1%26l%3Den%26s%3Ddhs%26%7Elt%3Dpopup%3Fiframe%3Dtrue%26width%3D950%26height%3D450) for the most accurate reproduction.*
 
-# Privacy Statement - Alienware
+# Privacy Practices | Dell UK
 
-The Alienware Website ([www.alienware.co.uk](http://www.alienware.co.uk/)) is maintained by Alienware Limited. Protecting your privacy is important to Alienware, and this statement is intended to make you aware of our commitments to you as an important visitor to our website. This policy may change from time to time, so please check back periodically.
+### Privacy and Data Security
 
-  1. **Scope of the Privacy Policy.** This Privacy Policy applies only to the collection and use of information collected online on the Alienware Website. Other websites that may be affiliated with Alienware may have different privacy policies.
-  2. **Information.** We may collect your personally identifiable information (“Personal Information”) when you visit the Alienware Website. Personal Information, however, is not collected on this website unless you choose to provide it to us. When making inquiries, ordering a product or requesting service information, participating in certain promotional activities, completing surveys, and generally corresponding with us, we may ask for certain Personal Information, including, for example, your name, mailing address, phone number and email address. If you are on a part of our website that requires you to provide your Personal Information, it will be clear what Personal Information we are requesting. We may also collect other information that is provided to us by your web browser. This may include the browser you used to come to our website, the Uniform Resource Locator (“URL”) of the website that you just visited before visiting our website, which pages on our website you visit, any search terms you entered, which URL you go to next, and your Internet Protocol (“IP”) address.
-  3. **Use of your information.** Information is collected and used in various ways that will help us better serve our customers and visitors to our website, including those below.
-    1. **Browsing.** Information collected while browsing through our website. This information is collected to help run our site more efficiently, to gather broad demographic information, to monitor the level of activity on our site, and to evaluate the effectiveness of advertising and promotion.
-    2. **Product Inquiries, Placing Orders, Customer Service & Technical Support.** Information collected when you contact Alienware about our product and service offerings. This information is necessary to identify your products or systems, understand the configuration of the products, diagnose your questions, and provide solutions.
-    3. **Online surveys and polling.** Information collected you volunteer to complete surveys or participate in polls. Surveying and polling is extremely important to us as we use this information to improve our product and service offerings. 
-    4. **Promotional activities.** When you enter a contest or other promotion, we may ask you for information such as your name, address and e-mail address to administer the program or activity, to send you promotional e-mails, notify winners and make the winners’ list publicly available in compliance with laws which may apply to such activities.
-    5. **Newsletters and promotional e-mails.** As a service to our customers, we may e-mail you newsletters, promotional information and other information, using your Personal Information collected online. These e-mails will only be sent to you if you have agreed to receive them or if you have the right to opt out from further receiving them. 
-    6. **Contact information:** If you contact us, we may keep a record of your correspondence or comments, including any information therein. We use this information to help us provide better service.
-    7. **Sharing your Personal Information.** Unless we have your permission to do otherwise, we will share the Personal Information you provide online only with Alienware subsidiaries or with entities that provide services to Alienware or are business partners of Alienware, and only for legitimate purposes including those described herein. Personal Information we collect online is used for responding to inquiries, processing orders, keeping you informed about your order status, for statistical purposes, for improving our site and its performance, for developing better products and services, to serve advertisements, contests, surveys and promotions, and to notify you of products or special offers that may be of interest to you. Alienware (or part of it) or its related entities could merge with or be acquired by another business entity or their respective assets could be acquired. Should such a combination or acquisition occur, you should expect that Alienware would share some or all of your Personal Information to continue serving you and other users of our website. Occasionally, we may be required by law enforcement or judicial authorities to provide your Personal Information to the appropriate authorities. We will disclose your Personal Information if required by law, upon receipt of a court order or subpoena, or to cooperate with a law enforcement investigation. We reserve the right to report to law enforcement authorities any activities that we, in good faith, believe to be unlawful.
-    8. **Use of cookies and web beacons.**
-      1. **Cookies.** A “cookie” is a small data file that a website can send to your browser, which may then be stored on your system. We use cookies to better serve you when you return to our site. Some of our web pages may send cookies when you visit our site, make purchases, respond to online surveys or promotions, participate in a contest, or request information. Accepting the cookies used on our site enables our web server to identify your system by reading the cookie that has been stored on your system, but our web server cannot identify you unless you enter your Personal Information. Cookies that are placed when visiting our site cannot be used to obtain your Personal Information at another site. The information collected online permits us to analyse traffic patterns on our site. This can enable us over time to provide users with a better experience on our site by improving the content and making it easier to use. Depending on the browser used, you can set your browser to notify you before you receive a cookie, giving you the chance to decide whether to accept it, and you can also set your browser to turn off cookies. However, if you do so, some areas of this site may not function properly, or you will be required to re-enter your Personal Information to use an area of this site.
-      2. **Web Beacons.** We may also use web beacon technologies to better tailor the site to provide better customer service. A web beacon is a single pixel .GIF that allows a website to count users who have visited that page or access certain cookies. These web beacons may be placed on specific pages across this website. When a visitor accesses these pages, an anonymous notice of that visit is generated which may be processed by us or by our vendors. These web beacons work in conjunction with cookies. If you don’t want to associate your anonymous cookie information with your visits to these pages, depending on the browser used, you can set your browser to turn off cookies.
-  4. **Children’s privacy.** If you are under the age of 18, please make sure that you provide your Personal Information only after obtaining your parental consent. 
-  5. **Protecting your Personal Information.** While Alienware does not guarantee that unauthorised access will never occur, Alienware does take care in maintaining the security of your Personal Information and in preventing unauthorised access to it.
-  6. **Links to other Websites.** Parts of our site contain links to our subsidiaries and third-party websites for your convenience and information. If you use these links, you will leave Alienware’s website. When you access these other sites, even ones that may contain the Alienware mark, please understand that we do not control the content and are not responsible for the privacy practices of that website. We suggest that you carefully review the privacy policies of each website you visit. This Online Privacy Statement does not cover the information practices of those websites linked to our site. These other sites may send their own cookies to users, collect data, or solicit Personal Information.
-  7. **Changes to this Statement.** Alienware reserves the right to change this Online Privacy Statement at any time. Any such changes will be posted in this Privacy Statement. 
-  8. **Applicable laws.** Alienware will protect your Personal Information in accordance with the laws of the United Kingdom.
-  9. **Contact us.** Please contact the webmaster through the “Contact Us” section if you have any questions or comments about the above. 
+At Dell, your right to privacy and security is a major concern. Below are the guidelines we use for protecting your personal information. Please read the following carefully.
+
+### Dell's Privacy Policy
+
+Dell respects your privacy. Across our business, around the world, we will collect, store and use your personal information for defined purposes. We use your information to support and enhance our relationship with you, for example, to process your purchase, provide service and support, and share product, service and company news and offerings with you. We do not sell your personal information, but we may share your IP address with advertisers on Dell sites. To protect your personal data, we will give you relevant notice and ensure you have adequate information on how your data is shared if we share your personal data outside the Dell family of companies. We share your data only with partners who share Dell's commitment to protecting your privacy and data. Please contact Dell if you have privacy questions or concerns. You also may ask to see the personal data you have given us and request amendment, correction or deletion. We strive to protect the security of your personal data by use of appropriate measures and processes.
+
+### The Information Dell Collects About You
+
+Dell asks for specific types of personal information. We ask you to provide information that will enable us to process your purchase or provide services to you, enhance your site visit, respond to requests for information, support your relationship with us, assist you with technical support issues or to follow up with you after your visit.
+
+Dell may collect information when you interact with us. Some of the instances when this happens might be when you: 
+
+  * Register on a Dell or Dell affiliate website;
+  * Request us to provide you with a quote;
+  * Place an order with us;
+  * Request e-mail notification from us;
+  * Request assistance from our online advisors;
+  * Make a request for support either online or by telephone;
+  * Provide feedback in a survey;
+  * Participate in promotional offers;
+  * Subscribe to a publication, newsletter or a mailing list; or
+  * Visit a Dell website or an affiliate website.
 
 
+
+When you interact with us, we may ask for some of the following information: your name, address, e-mail address, IP address, phone number, occupation, industry, transactional information such as your preferences, customer and service tag number, service history, credit card information and other bank details, referrals, and other information that is needed to process your transaction or request.
+
+We may collect information relating to your online interactions with us (including, for example, your IP address, the pages you view and the links and advertisements that you click on) so that we can offer you a more consistent and personalised experience in your relationship with Dell and better serve your needs by customising the content, services and marketing material that we share with you. We may use your browser and purchase history to make recommendations to you and send customised communications via various communication methods, including email. 
+
+### Dell uses your personal information for specific purposes
+
+The information you provide will be kept confidential. It is collected and processed for the following general purposes or for other lawful business purposes:
+
+  * To process your purchase or provide requested services;
+  * To fulfil requests for products and services; 
+  * To improve our products and services; 
+  * To contact you;
+  * To customise our communication with you and the marketing material we share with you; and
+  * To allow our business partners to present customised messages to you.
+
+
+
+### Newsletters, Mailing lists, Requests for Information
+
+We (or another Dell entity or an agent working on behalf of Dell) will send you information about our various products and services, or other products and services that may be of interest to you. Such information may encompass alerts to product upgrades, status of your saved cart, special offers, updated information and other new offerings from Dell. Only Dell (or agents working on behalf of Dell) will send you these direct communications. If you do not want to receive such communications, please notify us by:
+
+ **including the following information and return the communication to the appropriate addresses (or fax number) supplied below**
+
+Contact Name
+
+Company Name (if appropriate)
+
+Full address details
+
+Fax if appropriate
+
+ **Postal address:**
+
+Dell
+
+PO Box 59
+
+ROSS ON WYE
+
+HR9 7ZS
+
+United Kingdom
+
+ **Faxback Number: 0800 3283071**
+
+**Email:** Please [click here](https://ecomm.euro.dell.com/GSC/ListRemoval/Index?returnPath=www.dell.com&c=uk&l=en&s=gen) to unsubscribe 
+
+Please allow up to 10 business days for your preferences to take effect. Because some communications, such as direct mail catalogues, are developed and queued for distribution well in advance, you may receive additional information after we receive your request.
+
+### When Dell Will Share Your Personal Information
+
+Your information may be shared with other Dell entities, agents or contractors performing services for Dell, such as Dell's Service Providers, marketing sub-contractors and financial institutions. If so, Dell will seek to ensure that your information is only used in connection with the functions these parties will be performing for Dell and that all such information is treated in a confidential manner.
+
+Dell will disclose your personal information to the extent required or authorised by applicable law, if ordered or required to do so by a court or enforcement authority as appropriate, or to ensure that we are in compliance with our legal obligations.
+
+Dell may transfer your personal information to other companies in the Dell group, such as Dell Inc. in the United States and third party service providers. In order to provide adequate protection of your personal information, we have in place contractual arrangements with such affiliated companies.
+
+### Your rights
+
+Upon your request and within 40 days we will inform you about the type of personal information we hold about you, the purposes for which we hold it and the possible recipients or types of recipients. Upon written request and within a reasonable period of time we will also amend, correct, delete or cease to process personal information if that information proves to be factually inaccurate, incomplete, or irrelevant to the purpose(s) of the processing.
+
+### Internet Commerce
+
+The online store at [www.dell.co.uk](http://www.dell.co.uk/) offers you options for how your credit card information, name, address, e-mail, and any other information you provide us may be processed. Dell is committed to keeping the information collected on our site secure. We offer the industry standard security measures, called SSL encryption. These are available through your browser, (please see Dell's [Store Security](https://web.archive.org/content/topics/topic.aspx/emea/topics/footer/privacy?c=uk&cs=ukdhs1&l=en&s=dhs&~section=002) page for details on these security measures). If you would like to make a purchase, but do not want to provide your credit card information online, you may place an order without credit card information and a representative will contact you. Alternatively, you may contact a sales representative by telephone. We will usually try to contact you in the event of a potential problem with your purchase or for any normal business communication regarding your purchase. 
+
+### Customised Experience
+
+We use technology to help us deliver customised visitor experiences. At Dell, we use Dell and third party "cookies" to help us determine which information is appropriate to you and to enhance your experience when you interact with us. Our use of cookies aims to provide you with a better experience when using [www.dell.co.uk](http://www.dell.co.uk/) and to serve you customised messages about Dell products and services when you visit the Dell website and other websites. For more information about our use of cookies (including how to delete or refuse cookies), please [click here](https://web.archive.org/content/topics/topic.aspx/emea/topics/footer/privacy?c=uk&cs=ukdhs1&l=en&s=dhs&~section=004). 
+
+### Web Beacons
+
+We, or third parties acting on our behalf, may use web beacons or related technology on our site, in our communications, on other sites, or in our communications in others' messages. A web beacon is an electronic image that can be used to recognise a cookie on your equipment when you view a web page or online communication. Web beacons help us measure the effectiveness of our site and our interactions with you in various ways, for example, by counting the number of individuals who visit our site from a particular communication or make a purchase from our site after viewing a particular message as well as by telling us when a web page is viewed and providing a description of the page where the web beacon is placed. Web beacons also help us measure the effectiveness of our communication campaigns, for example, by counting the number of individuals who open or act upon a message, determining when a message is accessed and determining how many times a message is transmitted onwards.
+
+The information we collect may include personal information, and web beacons allow us to recognise users by accessing Dell cookies. We may also combine the information that we collect through web beacons with other personal information we have collected from you. We use all of this information to better tailor our interactions with you and we may use this information for other purposes, such as to enable a shopping cart, customise content on our website and internal research purposes. We will not share any personal information collected through Dell web beacons with any third party, except for service providers who act on our behalf and who are contractually prohibited from any other use or disclosure of the information.
+
+We allow third parties to place their own web beacons on our site or in our advertisements if they share Dell's commitment to protecting your privacy and data. You can make some web beacons unusable by rejecting cookies.
+
+### Third-Party Sites
+
+Please be aware that other Web sites including sites that may be accessed through our site, e.g., via a hyperlink, may collect personal information about you. This privacy statement does not cover the information practices of those third-party sites linked to [www.dell.co.uk](http://www.dell.co.uk/) or any other site. We use the [symbol](http://www.microsoft.com/uk/windows/default.aspx) to mark links to third-party sites. 
+
+### Additional Information
+
+If you have asked to be contacted by one of Dell's partners, we will need to provide them with your contact details. This information will not be shared with any other party and will be forwarded to that partner for the sole purpose of allowing them to contact you. Personal data obtained from you is held and processed in accordance with all applicable laws and consistently with Dell's privacy statement
+
+### Contact Dell
+
+If you would like to contact us, or have questions regarding our privacy statement, please e-mail us at [privacy@dell.com](mailto:privacy@dell.com)
