@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redlobster.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515104155id_/http%3A//www.redlobster.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redlobster.com privacy policy that was archived on 2013-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131002205432id_/https%3A//redlobster.com/legal/privacy.asp) for the most accurate reproduction.*
 
 # Red Lobster - Online Privacy Notice (Updated on December 21, 2012) / Your California Privacy Rights
 
