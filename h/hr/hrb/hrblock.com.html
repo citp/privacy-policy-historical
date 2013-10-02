@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hrblock.com privacy policy that was archived on 2013-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130629203631id_/http%3A//www.hrblock.com/universal/web_privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hrblock.com privacy policy that was archived on 2013-10-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131002220133id_/http%3A//www.hrblock.com/universal/web_privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js"><head>
 <title> H&amp;R Block Privacy Policy - H&amp;R Block®</title>
@@ -923,7 +923,7 @@ $('.header .nav_new .taxservice').addClass("current");
 											<dd style="font-size:110%;line-height:1.1;">See all Options<br>for <a href="/file-taxes/tax-filing.html" title="Filing Taxes">Filing Taxes</a><br><br></dd>
                                             <dt style="font-size:150%;font-style:italic;padding-top:10px;color:#398112;">Returning Customers</dt>
                                             <dd style="font-size:110%;line-height:1.1;"><a href="/taxes/doing_my_taxes/check_status.html" title="My E-file &amp; Refund Status" onclick="omnitureOnClick('navLocation:hmn','navName:my_efile_refund_status2');">Check e-file and<br> Refund Status</a><br><br></dd>
-											<dd style="font-size:110%;line-height:1.1;"><a onclick="omnitureOnClick('navLocation:body','navName:login_to_your_account');" title="Login to Your Account" href="javascript:GB_showCenterNew('Login','https://taxes.hrblock.com/hrblock/directlogin/directlogin.aspx?viewtype=1',162,433);">Login in to Your Account</a></dd>
+											<dd style="font-size:110%;line-height:1.1;"><a href="javascript:GB_showCenterNew('Login',getTcxLoginUrl(3),162,433);" title="Login in to Your Account" onclick="omnitureOnClick('navLocation:body','navName:Login in to Your Account');">Login in to Your Account</a></dd>
 
 											<dt style="font-size:150%;font-style:italic;color:#398112;">Best of Both</dt>
 											<dd style="font-size:110%;line-height:1.1;">Prepare your taxes online and file your return with a Tax Professional.
@@ -1081,7 +1081,7 @@ $('.header .nav_new .taxservice').addClass("current");
                             <div class="mega-nav-bkg">
                                 <div class="mega-nav-content">
                                     <div class="tax-estimator">
-                                        <h1>2012 Tax Estimator</h1>
+                                        <h1>2013 Tax Estimator</h1>
                                         <div class="mob-img" title="Tax Estimator">&nbsp;&nbsp;</div>
                                         <div class="leftContent">
                                         <form method="get" action="#estimator-header" class="hrb-form">
@@ -1098,11 +1098,11 @@ $('.header .nav_new .taxservice').addClass("current");
 												               </select>
                                             </div>
                                             <p>
-                                                <label for="age" title="age">Your age on 12/31/12:</label>
+                                                <label for="age" title="age">Your age on 12/31/13:</label>
                                                 <input type="text" id="age" maxlength="2" title="Age">
                                             </p>
                                             <p>
-                                                <label for="wages" title="wages">Your total 2012 wages:</label>
+                                                <label for="wages" title="wages">Your total 2013 wages:</label>
                                                 <input type="text" id="wages" maxlength="9" placeholder="W-2 Box 1" title="Wages">
                                             </p>
                                             <p>
@@ -2418,6 +2418,12 @@ s_hrb.eVar14    = atomz_search_term;  // dynamic value from atomz search results
 s_hrb.eVar15    = s_hrb.getQueryParam("CID");
 s_hrb.eVar16    = s_hrb.getQueryParam("CID");
 
+//begin: added for hcr
+if (typeof omni_eVar29 !='undefined' && omni_eVar29!=null){
+     s_hrb.eVar29    = omni_eVar29;
+}
+//end	
+
 // begin: added for tpf
 if (typeof omni_eVar47 !='undefined' && omni_eVar47!=null){
 	s_hrb.eVar47    = omni_eVar47;
@@ -2427,6 +2433,10 @@ if (typeof omni_eVar55 !='undefined' && omni_eVar55!=null){
 }
 // end added for tpf
 
+// begin: added for healthcare advisor finder
+if (typeof omni_eVar26 !='undefined' && omni_eVar26!=null){
+	s_hrb.eVar26 = omni_eVar26;
+}
 
 // begin: added for svl
 
