@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digicelgroup.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531042355id_/http%3A//www.digicelgroup.com/en/help_faqs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digicelgroup.com privacy policy that was archived on 2013-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131003000859id_/http%3A//www.digicelgroup.com/en/help_faqs/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Privacy Policy
 
