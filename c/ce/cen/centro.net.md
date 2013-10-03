@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centro.net privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629184506id_/http%3A//www.centro.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centro.net privacy policy that was archived on 2013-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131003023419id_/http%3A//www.centro.net/privacy) for the most accurate reproduction.*
 
 # Experts in Media Logistics | Accomplish More | Centro
 
@@ -8,14 +8,14 @@ _Please note:_ Any information collected about users of the Web Site is collecte
 
 #### TABLE OF CONTENTS
 
-  * [Personally Identifiable Information](http://www.centro.net/privacy/#a_personally)
-  * [Sharing Personally Identifiable Information and Disclosure to Third Parties](http://www.centro.net/privacy/#a_sharing)
-  * [Cookies](http://www.centro.net/privacy/#a_cookies)
-  * [Web Site Usage Information and IP Addresses](http://www.centro.net/privacy/#a_website)
-  * [Your Choices](http://www.centro.net/privacy/#a_choices)
-  * [Security](http://www.centro.net/privacy/#a_security)
-  * [Consent to Transfer](http://www.centro.net/privacy/#a_consent)
-  * [Acceptance and Changes to this Privacy Policy](http://www.centro.net/privacy/#a_acceptance)
+  * Personally Identifiable Information
+  * Sharing Personally Identifiable Information and Disclosure to Third Parties
+  * Cookies
+  * Web Site Usage Information and IP Addresses
+  * Your Choices
+  * Security
+  * Consent to Transfer
+  * Acceptance and Changes to this Privacy Policy
 
 
 
