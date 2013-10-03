@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the startonlinegames.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529222038id_/http%3A//www.startonlinegames.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startonlinegames.com privacy policy that was archived on 2013-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131003021624id_/http%3A//www.startonlinegames.com/privacy/show) for the most accurate reproduction.*
 
-# Startonlinegames - Play Free Flash Games online
+# Play Free Flash Online Games - Startonlinegames.com
 
 Personal Information:
 
