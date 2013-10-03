@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speexx.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622015252id_/http%3A//www.speexx.com/en/company/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speexx.com privacy policy that was archived on 2013-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131003211757id_/http%3A//www.speexx.com/en/company/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy at digital publishing AG
 
@@ -51,7 +51,7 @@ As the processors of personal information on behalf of our European customers, w
 
 ## Access and Review of Data
 
-Residents of the EU and Switzerland whose personal data digital publishing controls may request access and the opportunity to correct, amend, or delete that data. If you are our customer and would like to gain access to, or request deletion of, information we have collected as “data controllers,” please [contact us](https://web.archive.org/web/20130622015252id_/http%3A//www.speexx.com/en/company/global-offices.htm). We will respond to such queries within 30 business days. digital publishing has no direct relationship with its customers’ customers whose personal data it processes. An individual seeking access, or who would like to correct, amend, or delete inaccurate data should direct his query to the digital publishing customer with whom such individual interacts (the data controller). At the request of our customers we remove data within 30 business days. 
+Residents of the EU and Switzerland whose personal data digital publishing controls may request access and the opportunity to correct, amend, or delete that data. If you are our customer and would like to gain access to, or request deletion of, information we have collected as “data controllers,” please [contact us](https://web.archive.org/web/20131003211757id_/http%3A//www.speexx.com/en/company/global-offices.htm). We will respond to such queries within 30 business days. digital publishing has no direct relationship with its customers’ customers whose personal data it processes. An individual seeking access, or who would like to correct, amend, or delete inaccurate data should direct his query to the digital publishing customer with whom such individual interacts (the data controller). At the request of our customers we remove data within 30 business days. 
 
 ## Data Retention
 
@@ -75,7 +75,7 @@ When you access and use the Service, you are subject to the digital publishing S
 
 ## Contact Us
 
-If you have questions regarding this Policy or about the privacy practices of digital publishing, please [contact us](https://web.archive.org/web/20130622015252id_/http%3A//www.speexx.com/en/company/global-offices.htm), or at:
+If you have questions regarding this Policy or about the privacy practices of digital publishing, please [contact us](https://web.archive.org/web/20131003211757id_/http%3A//www.speexx.com/en/company/global-offices.htm), or at:
 
 digital publishing AG  
 Attn: Privacy Officer  
