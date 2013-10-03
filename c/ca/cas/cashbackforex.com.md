@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashbackforex.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425101513id_/http%3A//cashbackforex.com/en-us/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashbackforex.com privacy policy that was archived on 2013-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131003173606id_/http%3A//www.cashbackforex.com/en-us/privacy.aspx) for the most accurate reproduction.*
 
 # Best Forex Brokers Online > Highest Rates > Cash Back Pip Rebates
 
