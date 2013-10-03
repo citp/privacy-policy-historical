@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unitedutilities.com privacy policy that was archived on 2013-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130312233025id_/http%3A//www.unitedutilities.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitedutilities.com privacy policy that was archived on 2013-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131003051212id_/http%3A//www.unitedutilities.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy | United Utilities
 
@@ -52,7 +52,8 @@ Your Rights -
 You have the right to see information about personal data (as defined in the Data Protection Act) we keep about you upon written request, identification and payment of a fee. 
 
 If you wish to make a request to access your information please contact:   
-Data Protection and Fraud Manager, United Utilities, Grasmere House, Lingley Mere Business Park, Lingley Green Avenue, Warrington WA5 3LP   
+Data Protection and Fraud Manager, United Utilities, Grasmere House, Lingley Mere Business Park, Lingley Green Avenue, Warrington WA5 3LP. If you would prefer a third party to act on your behalf you will need to complete [our authorisation form](https://web.archive.org/documents/Third_party_authorisation_form.pdf), giving us permission to discuss your personal details with your nominated person or organisation.
+
 If you are concerned that any of the information we hold about you is incorrect, or have any queries about our privacy policy, please contact us at the above address or contact our Data Protection and Fraud Manager at [caroline.bishop@uuplc.co.uk](mailto:caroline.bishop@uuplc.co.uk)
 
 Please be aware that this policy applies only to http://[www.unitedutilities.com](http://www.unitedutilities.com/ "www.unitedutilities.com")/ and http://[corporate.unitedutilities.com](http://corporate.unitedutilities.com/ "corporate.unitedutilities.com"). These sites may link to other web sites that may be accessed through our site. If you follow a link to any of these websites, please note that these websites have their own Terms & Conditions and privacy policies. We are not responsible for the data policies or procedures or the content of linked non-United Utilities websites. 
@@ -63,11 +64,11 @@ Related Policies – for further information about how we collect, use and prote
 
   * [Recruitment privacy policy](http://corporate.unitedutilities.com/recruitment-privacy-policy.aspx "Recruitment privacy policy")
 
-  * [Household consumers 2011 – 2012](https://web.archive.org/documents/Charges_scheme_summary_-_household_2011-2012.pdf "Household consumers 2011 – 2012")
+  * [Household consumers 2013 – 2014](https://web.archive.org/documents/Charges_scheme_2013-2014.pdf "Household consumers 2013 – 2014")
 
-  * [Charges scheme summary - Household consumers 2012/2013](https://web.archive.org/documents/Charges_Scheme_summary_household.pdf "Charges scheme summary - Household consumers 2012/2013")
-
-
+  * [Charges scheme summary - Household consumers 2013/2014](https://web.archive.org/documents/Household_charges_2013-2014_-_at_a_glance.pdf "Charges scheme summary - Household consumers 2013/2014 \(PDF\)")
 
 
-[Email this page](https://web.archive.org/172.aspx)
+
+
+[Email this page](https://web.archive.org/email-a-friend.aspx)
