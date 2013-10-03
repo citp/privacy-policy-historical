@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grtjewels.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512180248id_/http%3A//www.grtjewels.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grtjewels.com privacy policy that was archived on 2013-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131004010446id_/http%3A//www.grtjewels.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # GRT | Privacy Policy
 
