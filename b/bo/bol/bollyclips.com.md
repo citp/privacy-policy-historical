@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bollyclips.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629091518id_/http%3A//www.bollyclips.com/about/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollyclips.com privacy policy that was archived on 2013-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131003044959id_/http%3A//www.bollyclips.com/about/privacypolicy.php) for the most accurate reproduction.*
 
 # Bollyclips.com - About Us | Contact Us
 
