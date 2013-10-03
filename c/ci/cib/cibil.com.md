@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cibil.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423163126id_/http%3A//www.cibil.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cibil.com privacy policy that was archived on 2013-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131003040534id_/http%3A//www.cibil.com/privacy) for the most accurate reproduction.*
 
 # CIBIL | Cibil Privacy Policy
 
