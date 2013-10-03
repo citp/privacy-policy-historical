@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the liveyourlegend.net privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430045735id_/http%3A//liveyourlegend.net/about/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveyourlegend.net privacy policy that was archived on 2013-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131003024304id_/http%3A//liveyourlegend.net/about/legal) for the most accurate reproduction.*
 
-# Privacy Policy | Live Your Legend
+# Privacy Policy
 
 **Effective March 20th 2013**
 
