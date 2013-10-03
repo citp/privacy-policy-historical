@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lleitmotif.net privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630030341id_/http%3A//www.lleitmotif.net/sales-enquiries/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lleitmotif.net privacy policy that was archived on 2013-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131004010318id_/http%3A//www.lleitmotif.net/sales-enquiries/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | lleitmotif
 
@@ -69,11 +69,3 @@ Our services are not available to children. If you are under 18, please do not s
 Our Web site may contain links to other web sites which are outside our control and are not covered by this Privacy Policy. If you access other sites using the links provided, the operators of these sites may collect information from you which will be used by them in accordance with their privacy policy, which may differ from ours.
 
 We may amend this Privacy Policy from time to time so that it accurately reflects the regulatory environment and our own data collection and disclosures practices. All amended terms shall automatically be effective 3 days after they are posted on this Web site. You should check our Web site frequently to see recent changes.
-
-| 
-
-|   
----  
-your cart is empty  
-  
-Receive emails about our promotion, new product information and news!
