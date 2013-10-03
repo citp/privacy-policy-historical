@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalgeographic.com.au privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517132300id_/http%3A//www.nationalgeographic.com.au/community/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalgeographic.com.au privacy policy that was archived on 2013-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131003132005id_/http%3A//www.nationalgeographic.com.au/community/privacy) for the most accurate reproduction.*
 
 # National Geographic Privacy Policy Highlights
 
