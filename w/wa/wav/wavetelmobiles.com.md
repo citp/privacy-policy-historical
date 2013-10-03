@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wavetelmobiles.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517002008id_/http%3A//www.wavetelmobiles.com/content.aspx%3Fpgid%3D41887) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wavetelmobiles.com privacy policy that was archived on 2013-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131003193600id_/http%3A//www.wavetelmobiles.com/content.aspx%3Fpgid%3D41887) for the most accurate reproduction.*
 
 # Privacy Policy
 
