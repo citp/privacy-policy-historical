@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etradeasia.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104032001id_/http%3A//www.etradeasia.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etradeasia.com privacy policy that was archived on 2013-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131004053229id_/http%3A//www.etradeasia.com/privacypolicy.html) for the most accurate reproduction.*
 
 # TradeAsia / Global B2B / Privacy Policy - Asian Manufacturers, Asian Suppliers - Asia, China, Taiwan, Trade Directory, Marketplace, Chinese Products, Taiwan Products, China Exporters, Taiwan Exporters
 
