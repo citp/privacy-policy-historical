@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trivedifoundation.org privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603100343id_/http%3A//trivedifoundation.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trivedifoundation.org privacy policy that was archived on 2013-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131004160732id_/http%3A//trivedifoundation.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Trivedi Foundation
 
