@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the athenahealth.com privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210164433id_/http%3A//www.athenahealth.com/our-company/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the athenahealth.com privacy policy that was archived on 2013-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131004232151id_/http%3A//www.athenahealth.com/our-company/privacy-policy.php) for the most accurate reproduction.*
 
 # athenahealth :: Privacy Policy
 
@@ -70,8 +70,8 @@ We have engaged the services of the following service vendors who may acquire, u
 
 We use Ion Interactive, a third-party marketing services provider, to track and associate internet search and browsing behavior of visitors to this site with our advertisements.
 
-We use Google's AdWords Conversion, DART, and Google Analytics tracking for tracking queries submitted to its search engine. We also use Google's DoubleClick technology for tracking our advertisements, enabling "tell-a-friend" social media functionality, and providing us with the contact information of users who submit a request for additional information about our services via click-through advertisements. For more information on Google's privacy policy, [click here](https://web.archive.org/exit.php?u=http://www.google.com/privacy.html&TB_iframe=true&height=360&width=484).
+We use Google's AdWords Conversion, DART, and Google Analytics tracking for tracking queries submitted to its search engine. We also use Google's DoubleClick technology for tracking our advertisements, enabling "tell-a-friend" social media functionality, and providing us with the contact information of users who submit a request for additional information about our services via click-through advertisements. For more information on Google's privacy policy, [click here](http://www.google.com/privacy.html).
 
-We use Marketo and SalesForce tracking tags to enable the tracking of web activity of cookied visitors. For more information on Marketo's privacy policy, [click here](https://web.archive.org/exit.php?u=http://www.marketo.com/privacy.php&TB_iframe=true&height=360&width=484) and for more information on SalesForce's privacy policy, [click here](https://web.archive.org/exit.php?u=http://www.salesforce.com/company/privacy.jsp&TB_iframe=true&height=360&width=484).
+We use Marketo and SalesForce tracking tags to enable the tracking of web activity of cookied visitors. For more information on Marketo's privacy policy, [click here](http://www.marketo.com/privacy.php) and for more information on SalesForce's privacy policy, [click here](http://www.salesforce.com/company/privacy.jsp).
 
-We use Omniture for tracking and associating internet search and browsing behavior with our advertisements. For more information on Omniture's privacy policy, [click here](https://web.archive.org/exit.php?u=http://www.omniture.com/en/privacy&TB_iframe=true&height=360&width=484).
+We use Omniture for tracking and associating internet search and browsing behavior with our advertisements. For more information on Omniture's privacy policy, [click here](http://www.omniture.com/en/privacy).
