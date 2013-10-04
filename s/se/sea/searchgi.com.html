@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the searchgi.com privacy policy that was archived on 2013-04-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130404214528id_/http%3A//www.searchgi.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the searchgi.com privacy policy that was archived on 2013-10-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131004212225id_/http%3A//www.searchgi.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-type" content="text/html; charset=utf-8">
@@ -7,12 +7,13 @@
 <meta name="description" content="Create &amp; Search Websites For Free - Searchgi.com">
 <meta name="keywords" content="Create &amp; Search Websites For Free - Searchgi.com">
 	<title>Create &amp; Search Websites For Free - Searchgi.com</title>
-		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" language="javascript">
+		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" language="javascript" defer="defer">
 		var site_name = "searchgi";
 		var path = "http://www.searchgi.com/";
 		var base_url = path;
 		var websearch_domain = ".searchgi.com";
-	</script>
+		var template_path = "http://www.searchgi.com/public/templates/searchgi";
+		var user_logged_in = false;	</script>
 			<script type="text/javascript">
 		  var _gaq = _gaq || [];
 		  _gaq.push(['_setAccount', 'UA-37698714-1']);
@@ -24,14 +25,10 @@
 			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 		  })();
 		</script>
-				<link rel="stylesheet" type="text/css" href="http://www.searchgi.com/public/templates/searchgi/css/home.css?v1.0.2">
-									<link rel="stylesheet" type="text/css" href="http://www.searchgi.com/public/templates/searchgi/css/styles.css?v1.0.2">
-																		<!--[if gte IE 9]>
-		<style type="text/css">
-			.gradient {filter: none;}
-		</style>
-	<![endif]-->
-</head><body>
+				<link rel="stylesheet" type="text/css" href="http://www.searchgi.com/public/templates/searchgi/css/home.css">
+		<script type="text/javascript" language="javascript" src="http://www.searchgi.com/public/scripts/jquery.min.js"></script>
+								<link rel="stylesheet" type="text/css" href="http://www.searchgi.com/public/templates/searchgi/css/styles.css">
+																										</head><body>
 			<div id="fb-root"></div>
 		<script src="http://connect.facebook.net/en_US/all.js"></script>
 		<script>
@@ -41,15 +38,14 @@
 				status:true, 
 				xfbml:true 
 			});
-			function fb_login()
-			{
+			function fb_login() {
 				FB.login(function(response) {
 					if (response.authResponse) {
 						console.log('Welcome!  Fetching your information...' + response.authResponse);
 						FB.getLoginStatus(function(response) {
 							if (response.authResponse) {
 								console.log('Welcome!  Fetching your information...');
-								window.location = path + "/user/fbconnect";
+								window.location = path + "user/fbconnect";
 							} else {
 								console.log('User cancelled login or did not fully authorize.' + response.authResponse);
 							}
@@ -57,16 +53,17 @@
 					} else {
 						console.log('User cancelled login or did not fully authorize.' + response.authResponse);
 					}
-				},{scope: 'email'});
+				},{scope: "email,publish_actions,publish_stream"});
 			}
 		</script>
 				<div class="topads">
 		<div class="wrapper clearfix"></div>
-    </div>
+	</div>
+	<div class="header_fixed clearfix">
 	<div id="header_br">
-						<div class="wrapper clearfix">
+								<div class="wrapper clearfix">
 											<div class="logo">
-														<a href="http://www.searchgi.com/">
+							<a href="http://www.searchgi.com/">
 								Searchgi							</a>
 						</div>
 										<div class="leftnavi right">
@@ -80,39 +77,51 @@
 									Explore								</a>
 							</li>
 							<li>
-								<a href="http://www.searchgi.com/social" class="menu-button">Social</a>
+								<a href="http://www.searchgi.com/voices" class="menu-button">Social</a>
 							</li>
 													</ul>
-						<div class="google_searchTop">
-					<form action="http://www.searchgi.com/search/index" id="cse-search-box">
-				<input type="hidden" name="cx" value="partner-pub-6071109565837459:2116490640">
-				<input type="hidden" name="cof" value="FORID:10">
-				<input type="hidden" name="ie" value="UTF-8">
-				<input type="text" name="q" class="input_styleTop">
-				<input type="submit" name="sa" value="Search" class="searchbtn_top_small">
-			</form>
-			<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang="></script>
-			</div>		
+								
 													<ul class="menu-top fright">
-																	<li>
+																										<li style="padding:8px 9px 5px 9px;">
+									<iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2FsearchGi&amp;send=false&amp;layout=button_count&amp;width=300&amp;show_faces=true&amp;font=tahoma&amp;colorscheme=light&amp;action=like&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:80px; height:21px;" allowtransparency="true"></iframe>
+									</li>
+																											<li>
 										<a style="padding:5px 9px;" href="javascript:void(0)" onclick="fb_login()" class="menu-button">
 											<img src="http://www.searchgi.com/public/images/facebook.jpg">
 										</a>
 									</li>
-																<li><a href="http://www.searchgi.com/user/createaccount" class="menu-button black_color">Sign Up</a></li>
+																<li><a href="http://www.searchgi.com/user/createaccount" class="menu-button">Sign Up</a></li>
 								<li><a href="http://www.searchgi.com/user/signin" class="menu-button">Sign In</a></li>
 															</ul>
 											</div>
 				</div>
 			</div>
+	
+					<div class="google_searchTopOuter clearfix">
+				<div class="topsearch_left"></div>
+				<div class="topsearch_mid clearfix">
+					<div class="">
+			<form action="http://www.searchgi.com/search/index" id="cse-search-box">
+			<input type="hidden" name="cx" value="partner-pub-6071109565837459:2116490640">
+			<input type="hidden" name="cof" value="FORID:10">
+			<input type="hidden" name="ie" value="UTF-8">
+			<input type="text" name="q" class="input_styleTop2">
+			<input type="submit" name="sa" value="Search" class="searchbtn_top">
+		</form>
+		<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang="></script>
+	</div>				</div>
+				<div class="topsearch_right"></div>
+			</div>
+			</div>
 		<div class="clear"></div>
+	
 	<div class="content_bg">
-		<div class="top_shadow"></div>
-				
+				<div class="top_shadow"></div>
+		
 		<div class="wrapper clearfix midbg">
-													<div class="inner_page">
-		     <div class="heading">Privacy Policy</div>
-    	<h4>What information do we collect?</h4>
+																			<div class="inner_page">
+				<div class="heading">Privacy Policy</div>
+		<h4>What information do we collect?</h4>
 <p>We collect information from you when you register on our site or place an order.When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.Like most websites, we use cookies and/or web beacons to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the 'do we use cookies?' section below for information about cookies and how we use them.</p>
 <h4>What do we use your information for?</h4>
 <p> Any of the information we collect from you may be used in one of the following ways:<br>
@@ -183,13 +192,15 @@ Our specialists will review your account for compliance with our program policie
 </div>
 					</div><!-- end class  clearfix midbg -->
 	</div><!-- end class content_bg -->
-			<div class="wrapper footerlinks">
+	
+    	
+	<div class="wrapper footerlinks">
 		<div class="clear"></div>
 		<ul class="footer">
 			<li><a href="http://www.searchgi.com/">Home</a></li> 
-									<li><a href="http://www.searchgi.com/explore">Explore</a></li> 
-							<li><a href="http://www.searchgi.com/support">Support</a></li>
-						<li><a href="http://www.searchgi.com/privacy">Privacy Policy</a></li>
+										<li><a href="http://www.searchgi.com/explore">Explore</a></li> 
+									<li><a href="http://www.searchgi.com/support">Support</a></li>
+										<li><a href="http://www.searchgi.com/privacy">Privacy Policy</a></li>
 			<li><a href="http://www.searchgi.com/terms">Terms of Services</a></li>
 			<li><a href="http://www.searchgi.com/contact">Contact</a></li>
 		</ul>
@@ -200,7 +211,19 @@ Our specialists will review your account for compliance with our program policie
 		</p>
 	</div>
 	<div id="ajax_show_progress" style="display:none;" class="popup_block16 loader">
-		<img src="http://www.searchgi.com/public/images/loader.gif">
+		<div style="margin:80% auto; width:230px;">
+			<div style="float:left; position:relative; background:#f9f9f9; margin:auto; border:1px solid #CCC; padding:10px 80px;">
+				<img style="float:left;" alt="" src="http://www.searchgi.com/public/images/editor/loader2.gif">
+				<h4 style="float:left; margin:25px 0 0 -54px; font-size:9px; color:#000;">Loading...</h4>
+			</div>
+		</div>
 	</div>
+	<script language="javascript" defer="defer">
+		$(document).ready(function() {
+			if ($("a.submit_article").length) {
+				$("a.submit_article").fancybox();
+			}
+		});
+	</script>
 
 </body></html>
