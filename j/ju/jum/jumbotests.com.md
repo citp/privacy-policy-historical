@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jumbotests.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630093027id_/http%3A//jumbotests.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jumbotests.com privacy policy that was archived on 2013-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131004043927id_/http%3A//jumbotests.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # JumboPass Privacy Policy
 
