@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fulltilt.com privacy policy that was archived on 2013-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130323120721id_/http%3A//fulltilt.com/about-us/legal-information/terms/privacy-legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fulltilt.com privacy policy that was archived on 2013-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131004182959id_/http%3A//fulltilt.com/about-us/legal-information/terms/privacy-legal) for the most accurate reproduction.*
 
 # Online Poker at Full Tilt Poker - Legal Information: Privacy
 
@@ -19,7 +19,6 @@ The purpose of this Privacy Policy is to enable you to understand how we collect
   * Cookies
   * Who are we?
 
-  
 
 * **What information is collected and for what purpose**
 
@@ -35,9 +34,9 @@ As part of the Site account opening process and to allow us to provide services 
   * to comply with licensing and regulatory requirements; and
   * to analyse your credit and fraud risk.
 
-  
-We may disclose your personal information:   
 
+
+We may disclose your personal information:
 
   1. if required to do so by law or by regulatory authority;
   2. if we believe in good faith that such action is necessary: 
@@ -104,7 +103,9 @@ Detailed information about cookies and how we use them on the Site may be found 
 * **Who are we?**
 
 Rational FT Enterprises Limited  
-33-37 Athol Street  
-Douglas  
-Isle of Man, IM1 1LB  
+Douglas Bay Complex  
+King Edward Road  
+Onchan  
+Isle of Man  
+IM3 1DZ  
 Privacy Policy last revised: 12 March 2013
