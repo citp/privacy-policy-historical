@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crispygamer.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530161041id_/http%3A//crispygamer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crispygamer.com privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005011225id_/http%3A//crispygamer.com/privacy-policy) for the most accurate reproduction.*
 
 # Crispy Gamer Privacy Policy | Crispy Gamer
 
