@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the e-xact.com privacy policy that was archived on 2013-05-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130508172502id_/http%3A//www.e-xact.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the e-xact.com privacy policy that was archived on 2013-10-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131004221427id_/http%3A//www.e-xact.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
@@ -43,6 +43,7 @@
 <script type="text/javascript" src="/universal/scripts/lightbox.js?CE=74"></script>
 <script type="text/javascript" src="/universal/scripts/api.js?CE=74"></script>
 <script type="text/javascript" src="/universal/scripts/base64.js?CE=74"></script>
+<script type="text/javascript" src="/universal/scripts/census.js?CE=74"></script>
 <script type="text/javascript" src="/universal/scripts/yui2-yui3-bridge.js?CE=74"></script>
 <script type="text/javascript" src="/universal/scripts/squarespace-gallery-slideshow.js?CE=74"></script>
 
@@ -64,6 +65,7 @@
     Squarespace.Constants.CORE_APPLICATION_DOMAIN = "squarespace.com";
     Squarespace.Constants.CORE_V6_APPLICATION_DOMAIN = "squarespace.com";
     Squarespace.Constants.V5_FRONTSITE = "http://five.squarespace.com";
+    Squarespace.Constants.WEBSITE_ID = "368083";
 
     
 
@@ -122,6 +124,10 @@
 </script>
 
     
+
+  <script type="text/javascript">
+    YAHOO.util.Event.onDOMReady(function() { new Squarespace.Census.hit(); } );
+  </script>
 
   <script type="text/javascript">
     YAHOO.util.Event.addListener(document, "keyup", function (e) { if (!e) { e = event; } if (e.keyCode == 27) { document.location.href = "/display/Login?returnUrl=%2Fprivacy-policy%2F"; } });
