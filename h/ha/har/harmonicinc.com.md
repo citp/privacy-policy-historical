@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the harmonicinc.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613044031id_/http%3A//harmonicinc.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harmonicinc.com privacy policy that was archived on 2013-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131004054718id_/http%3A//www.harmonicinc.com/content/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Harmonic Inc - Video Infrastructure Solutions
+# Privacy Policy | Harmonic Inc
 
 Harmonic, Inc. respects your privacy and is committed to protecting your personal information. Sometimes visitors to this website provide information to Harmonic for business purposes. This Privacy Policy was created to inform you of the Harmonic, Inc. privacy and personal information practices and to ensure that you have a positive experience on our website. Harmonic does not collect or use personal data from an individual unless the individual intentionally provides it and consents to its usage.
 
