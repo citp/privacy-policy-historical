@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freelistingdirectory.info privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617064430id_/http%3A//www.freelistingdirectory.info/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelistingdirectory.info privacy policy that was archived on 2013-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131004052834id_/http%3A//www.freelistingdirectory.info/privacypolicy.htm) for the most accurate reproduction.*
 
 # privacy
 
