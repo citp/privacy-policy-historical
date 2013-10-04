@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldwidemetric.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624010756id_/http%3A//www.worldwidemetric.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldwidemetric.com privacy policy that was archived on 2013-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131004092654id_/http%3A//www.worldwidemetric.com/privacy.html) for the most accurate reproduction.*
 
 # Worldwide Wholesale Distribution of Valves, Fittings, Tubing & Flanges: World Wide Metric
 
