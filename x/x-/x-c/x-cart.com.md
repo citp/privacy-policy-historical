@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the x-cart.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514033133id_/http%3A//www.x-cart.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the x-cart.com privacy policy that was archived on 2013-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131004215630id_/http%3A//www.x-cart.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -56,7 +56,7 @@ We do not sell or rent Your personal information to third parties for their mark
 
 ## Accessing, Reviewing and Changing Your Personal Information
 
-If you are registered to receive Products or Services, You can access, review and modify Your personal information at any time by logging into your Profile page located at [https://secure.qtmsoft.com](https://secure.qtmsoft.com/) We delete personal information when we no longer need it for the purposes we described earlier. We retain personal information as permitted by law to resolve disputes, enforce our policies, and help prevent bad guys from coming back. 
+If you are registered to receive Products or Services, You can access, review and modify Your personal information at any time by logging into your Profile page located at [https://secure.x-cart.com](https://secure.x-cart.com/) We delete personal information when we no longer need it for the purposes we described earlier. We retain personal information as permitted by law to resolve disputes, enforce our policies, and help prevent bad guys from coming back. 
 
 ## Security
 
