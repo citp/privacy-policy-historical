@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecost.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625224349id_/http%3A//www.ecost.com/n/Privacy-Policy/navLinks-527%23privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecost.com privacy policy that was archived on 2013-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131004192400id_/http%3A//www.ecost.com/n/Privacy-Policy/navLinks-527%23privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | eCOST - Your Online Discount Superstore
 
@@ -23,8 +23,9 @@ If you are having a shopping problem like the following:
 
 Please check to see that you are running a recent browser version. Our site works best with the following browsers: 
 
-  * Internet Explorer v6.0 or higher
-  * Firefox v2.0 or higher
+  * Internet Explorer 8.0 or higher
+  * Firefox 6.0 or higher
+  * Chrome
 
 
 
@@ -103,11 +104,11 @@ We offer a number of shipping options to best suit your delivery needs:
 
 
 Unfortunately, we cannot accept open account orders, purchase orders, checks, COD, etc.  
-Please click here for more information on our [Payment Options](https://web.archive.org/web/20130625224349id_/http%3A//www.ecost.com/n/Helpdesk-Menu/navLinks-531#paymentOptions)[.](https://web.archive.org/web/20130625224349id_/http%3A//www.ecost.com/n/Helpdesk-Menu/navLinks-531)
+Please click here for more information on our [Payment Options](https://web.archive.org/web/20131004192400id_/http%3A//www.ecost.com/n/Helpdesk-Menu/navLinks-531#paymentOptions)[.](https://web.archive.org/web/20131004192400id_/http%3A//www.ecost.com/n/Helpdesk-Menu/navLinks-531)
 
 ###  When do you charge sales tax?
 
-Click here for more information regarding [ Sales Tax](https://web.archive.org/web/20130625224349id_/http%3A//www.ecost.com/n/Helpdesk-Menu/navLinks-531#salesTax).
+Click here for more information regarding [ Sales Tax](https://web.archive.org/web/20131004192400id_/http%3A//www.ecost.com/n/Helpdesk-Menu/navLinks-531#salesTax).
 
 ###  Can I cancel an order after it has been submitted?
 
@@ -115,17 +116,17 @@ You can usually cancel an order within an hour of order placement during normal 
 
 If you would like to cancel an order, please call us Toll Free at 1 (877) 888-2678 or email us at [customerservice@ecost.com](mailto:customerservice@ecost.com). We will try our best to cancel the order, but cannot guarantee that we will able to depending upon where the order is at in the credit approval, pick and ship processes.
 
-Please click here for a complete description of our [Order Cancellations](https://web.archive.org/web/20130625224349id_/http%3A//www.ecost.com/n/Helpdesk-Menu/navLinks-528#orderCancellations) policy.
+Please click here for a complete description of our [Order Cancellations](https://web.archive.org/web/20131004192400id_/http%3A//www.ecost.com/n/Helpdesk-Menu/navLinks-528#orderCancellations) policy.
 
 ###  Can I return a product?
 
 Generally, most products can be returned within 30 days of shipment.Very important return policies and procedures exist, however, and we would encourage you to familiarize yourself with our return policies and procedures prior to ordering.
 
-Please click here for a complete description of our [ Return Policies and Procedures](https://web.archive.org/web/20130625224349id_/http%3A//www.ecost.com/n/Helpdesk-Menu/navLinks-529#returnPolicy)[.](https://web.archive.org/web/20130625224349id_/http%3A//www.ecost.com/n/Privacy-Policy/waiting%20for)
+Please click here for a complete description of our [ Return Policies and Procedures](https://web.archive.org/web/20131004192400id_/http%3A//www.ecost.com/n/Helpdesk-Menu/navLinks-529#returnPolicy)[.](https://web.archive.org/web/20131004192400id_/http%3A//www.ecost.com/n/Privacy-Policy/waiting%20for)
 
 ###  How do I contact eCOST.com?
 
-We are available by phone, email and/or US Mail. Please [click here](https://web.archive.org/web/20130625224349id_/http%3A//www.ecost.com/n/Helpdesk-Menu/navLinks-535) for the complete Contact options.
+We are available by phone, email and/or US Mail. Please [click here](https://web.archive.org/web/20131004192400id_/http%3A//www.ecost.com/n/Helpdesk-Menu/navLinks-535) for the complete Contact options.
 
 We look forward to hearing from you!  
   
@@ -142,7 +143,7 @@ eCOST Privacy Policy
 
 We at eCOST ("eCOST", "we" or "us") understand that making purchases online involves a great deal of trust on your part. We take that trust seriously, and, as a result, we seek to ensure the security and confidentiality of your personal information online. This privacy policy is an effort to answer your privacy-related questions. If you have questions that are not addressed herein, please submit them to us by sending an email to [webmaster@ecost.com](mailto:webmaster@ecost.com).
 
-The purpose of this privacy policy (the "Policy") is to help you understand what kinds of personally identifiable information we may gather about you when you visit the eCOST Web site located at [www.eCOST.com](https://web.archive.org/web/20130625224349id_/http%3A//www.ecost.com/n/home) and related sub-domains (the "Site"), how we may use that information, whether we will disclose it, and how you can correct or update it. We note that this Policy sets forth our online information collection and use policies under U.S. law. The Site is intended for use by residents of the U.S. who are over the age of 18. We do not knowingly collect personally identifiable information from children (that is, minors younger than thirteen years of age). 
+The purpose of this privacy policy (the "Policy") is to help you understand what kinds of personally identifiable information we may gather about you when you visit the eCOST Web site located at [www.eCOST.com](https://web.archive.org/web/20131004192400id_/http%3A//www.ecost.com/n/home) and related sub-domains (the "Site"), how we may use that information, whether we will disclose it, and how you can correct or update it. We note that this Policy sets forth our online information collection and use policies under U.S. law. The Site is intended for use by residents of the U.S. who are over the age of 18. We do not knowingly collect personally identifiable information from children (that is, minors younger than thirteen years of age). 
 
 If you do not agree to the terms of this Policy, you should not use the Site. We reserve the right to update or modify this Policy from time to time, and such changes to the Policy will be effective immediately; therefore please bookmark this page and review it periodically to assure familiarity with the most current version of the Policy. You can tell if the Policy has been updated since you last reviewed it by checking the "Last Revised" date at the beginning of the Policy. 
 
@@ -216,7 +217,7 @@ Return to top
 
 [ ](http://www.networkadvertising.org/optout_nonppii.asp)We use the PII that you provide to us in order to 1) fulfill requests for products, services and/or information, 2) provide customer service, 3) offer new products or services, 4) measure and improve the effectiveness of our Site and our marketing endeavors, 5) tailor our online offerings to your preferences, 6) administer promotions or surveys, and 7) achieve other business purposes as permitted under applicable law.
 
-When you make a purchase on our Site we collect credit card information including card number, card type, cardholder name and billing address, and expiration date, in order to bill you for purchases made through eCOST. Please review our [ Credit Card Policy](https://web.archive.org/web/20130625224349id_/http%3A//www.ecost.com/n/n/Helpdesk-Menu/navLinks-531) for additional information.
+When you make a purchase on our Site we collect credit card information including card number, card type, cardholder name and billing address, and expiration date, in order to bill you for purchases made through eCOST. Please review our [ Credit Card Policy](https://web.archive.org/web/20131004192400id_/http%3A//www.ecost.com/n/n/Helpdesk-Menu/navLinks-531) for additional information.
 
 eCOST may disclose PII to consultants, professional advisors and contractors who perform services on our behalf, but only to the extent necessary for them to perform such services. At times, eCOST may seek to validate the PII we have collected via an audit by a third party designed to determine the accuracy of and/or to update the information collected. We may also combine data that we collect online with data collected offline (such as through purchases made through one of our catalogs), or with data provided by other parties.
 
@@ -286,7 +287,7 @@ Other companies may offer sweepstakes, contests or similar promotions through ou
 
 The Site offers certain features that are provided and/or hosted by third parties, but that may be presented on pages displaying eCOST's branding. For example, eCOST-branded pages featuring investor relations information about eCOST may be created and operated by a third party data provider specializing in such information. The Site may also contain links to other Web sites, or other affiliated sites (e.g., event sponsors, or companies offering rebates or other promotions through our Rebates & Coupons page). We are not responsible for the privacy practices or the content of any such Web sites, including such sites' use of any information (such as IP number, browser type or operating system) collected when visitors to the Site click through links to those sites. Even though such information might not identify you personally, we strongly encourage you to become familiar with the privacy practices of any third party sites.
 
-We use third-party advertising companies to serve ads when you visit our Website. Thesecompanies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/managing/opt_out.asp) & [here](http://www.fetchback.com/optout.html).  
+We use third-party advertising companies to serve ads when you visit our Website. Thesecompanies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/managing/opt_out.asp) & [here](http://www.ebayenterprise.com/privacy/opt-out.php).  
   
 | 
 
@@ -294,39 +295,51 @@ Return to top
 
 |   
 ---|---  
-[ ](http://www.ecost.com/Helpdesk/GettingStarted.aspx#pp)
-
+  
 **Online vs. Offline Practices**
 
-[ ](http://www.ecost.com/Helpdesk/GettingStarted.aspx#pp)
+Please note that this Policy applies solely to our online information-gathering and dissemination practices in connection with the Site, and does not apply to any of our practices conducted offline other than as expressly set forth in this Policy. 
 
-[ ](http://www.ecost.com/Helpdesk/GettingStarted.aspx#pp)Please note that this Policy applies solely to our online information-gathering and dissemination practices in connection with the Site, and does not apply to any of our practices conducted offline other than as expressly set forth in this Policy. 
+**Remarketing with Google Analytics**
 
-[ ](http://www.ecost.com/Helpdesk/GettingStarted.aspx#pp)
+  * eCost use Remarketing with Google Analytics to advertise online.
+  * Third-party vendors, including Google, show our ads on sites across the Internet.
+  * eCost and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to your website.
 
-**Contacting eCOST.com**
+
+
+**Google Display Network Impression Reporting**
+
+  * eCost and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to report how your ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to your site. 
+
+**Ads Opt-out & Settings Links:**
+
+    * [Google Analytics opt-out browser add-on ](https://tools.google.com/dlpage/gaoptout/)
+    * [Customize Google Display Network ads using the Ads Settings ](https://www.google.com/settings/ads)
+
+
+
+**Contacting eCOST**
 
 Should you have any questions, please e-mail us at [ webmaster@ecost.com](mailto:webmaster@ecost.com)
 
-[ ](mailto:webmaster@ecost.com)
-
 **The eCOST.com Privacy Policy**
 
-At eCOST.com, Inc. we are committed to protecting your privacy online. Our Privacy Policy demonstrates our firm commitment to protecting the privacy of our customers. We use the information that we collect about our customers to fulfill product and service purchases and to create a more personalized online experience.
+At eCOST we are committed to protecting your privacy online. Our Privacy Policy demonstrates our firm commitment to protecting the privacy of our customers. We use the information that we collect about our customers to fulfill product and service purchases and to create a more personalized online experience.
 
-When you shop at eCOST.com, we collect transactional information, or Personally Identifiable Information, from you such as your name, telephone number, e-mail address, billing address, shipping address, credit card or other payment information and a password. eCOST.com does not sell or rent your transactional information to others without your prior consent. eCOST.com uses customer information only for the purposes of filling orders, contacting purchasers to inform them of their order status, sending promotional information, and enhancing the user experience. 
+When you shop at eCOST, we collect transactional information, or Personally Identifiable Information, from you such as your name, telephone number, e-mail address, billing address, shipping address, credit card or other payment information and a password. eCOST does not sell or rent your transactional information to others without your prior consent. eCOST uses customer information only for the purposes of filling orders, contacting purchasers to inform them of their order status, sending promotional information, and enhancing the user experience. 
 
-eCOST.com uses cookies to help identify you when you visit the site. The cookies contain randomly assigned user identification numbers, the country where you are located, and your name to welcome you back to the site. The cookies make your use of the site easier, allow you to retrieve an earlier shopping cart, make the site run more smoothly and help us to maintain a secure site. Cookies MUST be enabled on your system to shop at eCOST.com.
+eCOST uses cookies to help identify you when you visit the site. The cookies contain randomly assigned user identification numbers, the country where you are located, and your name to welcome you back to the site. The cookies make your use of the site easier, allow you to retrieve an earlier shopping cart, make the site run more smoothly and help us to maintain a secure site. Cookies MUST be enabled on your system to shop at eCOST.
 
-eCOST.com will occasionally offer special contests and promotions. When you enter a contest or other promotion, we may ask you for contact information such as your name, address and e-mail address in order to administer the contest, to send you promotional e-mails, notify winners and make the winners' list publicly available pursuant to certain states' laws. Your consent to such promotional use and disclosure of this information is a condition of your participation.
+eCOST will occasionally offer special contests and promotions. When you enter a contest or other promotion, we may ask you for contact information such as your name, address and e-mail address in order to administer the contest, to send you promotional e-mails, notify winners and make the winners' list publicly available pursuant to certain states' laws. Your consent to such promotional use and disclosure of this information is a condition of your participation.
 
-At eCOST.com you can be assured that your transactional information is secure, consistent with current industry standard SSL encryption technology. The importance of security for all transactional information associated with our customers is of utmost concern to us. Our secure servers protect the information using state of the art firewall technology. All customer transactional account information is kept on a secure server. 
+At eCOST you can be assured that your transactional information is secure, consistent with current industry standard SSL encryption technology. The importance of security for all transactional information associated with our customers is of utmost concern to us. Our secure servers protect the information using state of the art firewall technology. All customer transactional account information is kept on a secure server. 
 
-Please be aware that our site may contain advertisements and links to other sites on the Internet that are owned and operated by third parties. The information practices of those websites linking from or to our site are not covered by the eCOST.com Privacy Policy. eCOST.com has no control over the use or disclosure of user data on other sites on the Internet and we recommend that you review the privacy policies of such sites to determine your privacy rights on such sites. 
+Please be aware that our site may contain advertisements and links to other sites on the Internet that are owned and operated by third parties. The information practices of those websites linking from or to our site are not covered by the eCOST Privacy Policy. eCOST has no control over the use or disclosure of user data on other sites on the Internet and we recommend that you review the privacy policies of such sites to determine your privacy rights on such sites. 
 
-eCOST.com will remain committed to protecting your privacy online. We may change our Privacy Policy from time to time. When such a change is made, we will post the revised Privacy policy on our website so please bookmark this page and check back periodically. Any changes, corrections or updates to your transactional information can be edited during the purchase process. Questions regarding the eCOST.com Privacy Policy should be directed to [customerservice@ecost.com](mailto:customerservice@ecost.com) or may also be sent directly to the following address: 
+eCOST will remain committed to protecting your privacy online. We may change our Privacy Policy from time to time. When such a change is made, we will post the revised Privacy policy on our website so please bookmark this page and check back periodically. Any changes, corrections or updates to your transactional information can be edited during the purchase process. Questions regarding the eCOST Privacy Policy should be directed to [customerservice@ecost.com](mailto:customerservice@ecost.com) or may also be sent directly to the following address: 
 
 > Attn: Privacy Policy Compliance  
->  eCOST.com, Inc.  
+>  eCOST  
 >  1940 E. Mariposa Ave.  
 >  El Segundo, CA 90504 
