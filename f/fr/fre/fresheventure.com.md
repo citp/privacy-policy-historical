@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fresheventure.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127004050id_/http%3A//www.fresheventure.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fresheventure.com privacy policy that was archived on 2013-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131004041419id_/http%3A//www.fresheventure.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Internet Business Blog | FresheVenture.com
 
