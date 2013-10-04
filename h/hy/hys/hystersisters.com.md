@@ -1,13 +1,6 @@
-> *The following text is extracted and transformed from the hystersisters.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514004911id_/http%3A//www.hystersisters.com/vb2/view_privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hystersisters.com privacy policy that was archived on 2013-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131004053626id_/http%3A//www.hystersisters.com/vb2/view_privacypolicy.htm) for the most accurate reproduction.*
 
 # Hyster Sisters Privacy Policy - HysterSisters.com
-
-  
-
-
-We respect your privacy!
-
-Any personal information you give to the HysterSisters website (the Website) will be held with the utmost care, and will not be used in ways that you have not consented. A more detailed explanation about how we safeguard your personal information is described below. Personal information is information about a person that includes identifying information about that person.
 
 ***We do not actively submit pages with usernames to search engines, but they are picked up by a number of them. If you have a username that is your actual full name, it may be possible to search for your name and find it affiliated with HysterSisters. This is why, during registration, we warn members *not* to register with an identifiable username. We have no control over search engine results.
 
@@ -104,5 +97,3 @@ HysterSisters
 Denton, Texas 76205
 
 _The effective date of this Privacy Policy is July 1, 2009. This Website is intended for viewing within the United States._
-
-Page Created at 06-08-2003 - 06:00 AM, Last Modified 07-10-2009 - 06:50 AM 
