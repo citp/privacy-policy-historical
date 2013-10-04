@@ -1,7 +1,9 @@
-<!--The following is the downloaded HTML source of the ledger-enquirer.com privacy policy that was archived on 2013-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130531172924id_/http%3A//www.ledger-enquirer.com/privacy_policy%23navlink%3Dmi_footer) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ledger-enquirer.com privacy policy that was archived on 2013-10-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131004134845id_/http%3A//www.ledger-enquirer.com/privacy_policy%23navlink%3Dmi_footer) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js"><head>
+
+    
 <title>Columbus Ledger Enquirer Columbus, GA</title>
 
 
@@ -21,9 +23,12 @@
    
    // ----- end gomez -----
 //--> 
-</script><script async="" src="https://D3FD89.r.axf8.net/mr/e.gif?info=%7Bn%3Ac%7Ca%3AD3FD89%7Ch%3A2%7Cc%3A67502003724411%7Ci%3A%7Cj%3A%7Cd%3A1%7Ce%3AColumbus%7Cb%3Astatic%7Cl%3Ahttps%24*%24%2F%2Fweb.archive.org%2Fweb%2F20130531172924id_%2Fhttp%3A%2F%2Fwww.ledger-enquirer.com%2Fprivacy_policy%2F%7Cm%3A800%7Co%3A600%7Cp%3ALinux%20x86_64%7Cg%3AChrome%7Cf%3A69.0.3494.0%7D%7Bn%3Au%7Ce%3A1%7D&amp;a=D3FD89&amp;r=1&amp;s=1" type="text/javascript"></script>
+</script><script async="" src="https://D3FD89.r.axf8.net/mr/e.gif?info=%7Bn%3Ac%7Ca%3AD3FD89%7Ch%3A2%7Cc%3A175997893125949%7Ci%3A%7Cj%3A%7Cd%3A1%7Ce%3AColumbus%7Cb%3Astatic%7Cl%3Ahttps%24*%24%2F%2Fweb.archive.org%2Fweb%2F20131004134845id_%2Fhttp%3A%2F%2Fwww.ledger-enquirer.com%2Fprivacy_policy%2F%7Cm%3A800%7Co%3A600%7Cp%3ALinux%20x86_64%7Cg%3AChrome%7Cf%3A69.0.3494.0%7D%7Bn%3Au%7Ce%3A1%7D&amp;a=D3FD89&amp;r=1&amp;s=1" type="text/javascript"></script>
 
-<link href="/mistatic/cache/stylesheets/452f172402770fdd878d3c1dfc6fcd14-min.css" media="screen" rel="stylesheet" type="text/css">
+
+
+<link rel="apple-touch-icon" href="http://media.ledger-enquirer.com/mistatic/images/icons/LedgerEnquirer.png">
+<link href="/mistatic/cache/stylesheets/ff71fbac8fc18fa70d6fbbf60df2898a-min.css" media="screen" rel="stylesheet" type="text/css">
 
 <link href="http://media.ledger-enquirer.com/mistatic/stylesheets/print.css" media="print" rel="stylesheet" type="text/css">
 
@@ -89,60 +94,87 @@
 
 <script type="text/javascript">
 var auth_cookie_name = "ledgerenquirer_user_auth";
-</script><script type="text/javascript" src="/mistatic/cache/javascripts/ccc1056db32079cd3b64c6700ac11daf-min.js"></script>
+</script><script type="text/javascript" src="/mistatic/cache/javascripts/73a2ec3947eb21904199b83f9622dd94-min.js"></script>
 
 
 <script type="text/javascript" src="http://media.ledger-enquirer.com/mistats/mianalytics.js"></script>
 
-<script type="text/javascript" src="http://media.ledger-enquirer.com/static/scripts/sectionfront.js"></script>
+<script type="text/javascript">
+/**
+ * @fileOverview
+ * This is the configuration file for the affiliate. Making changes to this file could result in
+ * breaking your search. If you have any questions please submit a ticket via the Support Portal.
+ *
+ * When hyphens (-) are used in URL query params, the string "_mihyphen_" is used in place of an
+ * actual hyphen (-) in the object property names below. Hyphens can't be used in object property
+ * names.
+ *
+ *
+ *
+ * @minify true
+ * @author Jamison Kirk (jkirk [at] mcclatchyinteractive.com)
+ */
+
+
+mi.Search.prototype.searchParamConfig = function(search_type, search_text) {
+
+        this.setConf("searchSelectorType","");
+        this.setConf("defaultSearchType","site_search");
+
+        this.setConf("mi_search_dropdown_keys",$("form#search_widget_form div.arrow, form#search_widget_form ul, form#search_widget_form div.icon, form#search_widget_form input#search_keywords"));
+        this.setConf("mi_search_drop_down",$("form#search_widget_form ul"));
+        this.setConf("mi_search_drop_down_link",$("form#search_widget_form ul.search_widget_choice li a"));
+        this.setConf("mi_search_dropdown_input",$("#search_keywords"));
+        this.setConf("mi_search_widget_icon",$("#search_widget_form div.icon img"));
+        this.setConf("mi_search_selected",$("#search_widget_choice li"));
+
+        this.setConf("mi_search_drop_down_web_search_item",$("#search_widget_web_search_choice"));
+        this.setConf("yahoo_credit",$("p.yahoo_credit"));
+        
+
+        if (search_type) {
+                switch (search_type) {
+                        case "site_search":
+                                this.setConf("form_action","http://www.ledger-enquirer.com/search_results");
+                        break;
+                        
+                        case "web_search":
+                                this.setConf("form_action","http://www.ledger-enquirer.com/web_search");
+                        break;
+                        
+                        case "archives":
+                                this.setConf("form_action","http://www.newslibrary.com/nlsearch.asp?");
+                                this.setConf("query_fields",{search_mode:"all",
+                                                                date_mode:"year",
+                                                                year:"last+180+days",
+                                                                sort:"d%3Ah",
+                                                                nitems:"10",
+                                                                region:"CL",
+                                                                dbquery:search_text,
+                                                                collection:"ARCHIVES"}
+                                                );
+                        break;
+                        
+                        default:
+                                this.configErrorReporter();
+                }
+        }
+};
+</script>
+
 <script type="text/javascript">
     if (typeof(mi.Search) !== 'undefined') {
         mi.search = new mi.Search();
     }
 </script>
 
-<script type="text/javascript">
-    mi.commenting = new mi.Commenting();
-    
-    mi.commenting.setConf( "accountName", "ledgerenquirer" );
-    
-    
-    var disqus2012cookie = new mi.Cookie(document, 'disqus2012');
-    if(disqus2012cookie.load()){
-            mi.commenting.reset_disqus_config(disqus2012cookie.disqus2012, '1i5FkqMD7y16QPLgKu9m9sfp74FwqrMuUj9ApgoSdMHetzO6vK5CLS4K6EKEON5c');
-    }
-    
-    
-    
-</script>
-
-<!--[if lte IE 7]>
-<script type="text/javascript">
-$(document).ready(function() {
-    // Dynamic padding for navigation
-    var parent_container = $('nav.primary div');
-    var target_elements = $('nav.primary div a');
-    var remainder_element = $('nav.primary div ul#analytics_based li:first-child a');
-    var border_size = (target_elements.length * 2 + 1);
-    padding(parent_container, target_elements, remainder_element, border_size, false);
-
-    // Dynamic padding for sub-navigation
-    var parent_container = $('#sub_nav');
-    var target_elements = $('#sub_nav > ul li a');
-    var remainder_element = $('#sub_nav > ul li:first-child a');
-    var border_size = (target_elements.length * 2 + 1);
-    padding(parent_container, target_elements, remainder_element, border_size, false);
-});
-</script>
-<![endif]-->
-
-
-
-	<script type="text/javascript">
-	$(document).ready(function() {
-		$("#commentCount").hide();
-	});
-	</script>
+        <script type="text/javascript">
+            mi.commenting = new mi.Commenting();
+            mi.commenting.setConf( {
+                accountName: "LedgerEnquirer",
+                fbapp_id:    "514882605266838"
+            });
+        </script>
 
 
 <script type="text/javascript">
@@ -170,32 +202,32 @@ $(document).ready(function() {
     googletag.pubads().setTargeting("pl", "misc");
     googletag.pubads().setTargeting("sect", "Static");
 
+
     googletag.pubads().setTargeting("ref", gpt_ref);   });
 </script> 
-
 <script>
   googletag.cmd.push(function() {
-      googletag.defineSlot("/7675/CLB.site_ledger-enquirer/Online/SiteInformation", [960,30], "div-gpt-ad-580936900627581-1")
+      googletag.defineSlot("/7675/CLB.site_ledger-enquirer/Online/SiteInformation", [960,30], "div-gpt-ad-514557867626884-1")
         .setTargeting("pos", "1")
         .setTargeting("atf", "y")
         .addService(googletag.pubads()); 
-      googletag.defineSlot("/7675/CLB.site_ledger-enquirer/Online/SiteInformation", [150,25], "div-gpt-ad-580936900627581-2")
+      googletag.defineSlot("/7675/CLB.site_ledger-enquirer/Online/SiteInformation", [150,25], "div-gpt-ad-514557867626884-2")
         .setTargeting("pos", "1")
         .setTargeting("atf", "y")
         .addService(googletag.pubads()); 
-      googletag.defineSlot("/7675/CLB.site_ledger-enquirer/Online/SiteInformation", [100,25], "div-gpt-ad-580936900627581-3")
+      googletag.defineSlot("/7675/CLB.site_ledger-enquirer/Online/SiteInformation", [100,25], "div-gpt-ad-514557867626884-3")
         .setTargeting("pos", "1")
         .setTargeting("atf", "y")
         .addService(googletag.pubads()); 
-      googletag.defineSlot("/7675/CLB.site_ledger-enquirer/Online/SiteInformation", [300,250], "div-gpt-ad-580936900627581-4")
+      googletag.defineSlot("/7675/CLB.site_ledger-enquirer/Online/SiteInformation", [300,250], "div-gpt-ad-514557867626884-4")
         .setTargeting("pos", "1")
         .setTargeting("atf", "y")
         .addService(googletag.pubads()); 
-      googletag.defineSlot("/7675/CLB.site_ledger-enquirer/Online/SiteInformation", [300,100], "div-gpt-ad-580936900627581-5")
+      googletag.defineSlot("/7675/CLB.site_ledger-enquirer/Online/SiteInformation", [300,100], "div-gpt-ad-514557867626884-5")
         .setTargeting("pos", "1")
         .setTargeting("atf", "n")
         .addService(googletag.pubads()); 
-      googletag.defineSlot("/7675/CLB.site_ledger-enquirer/Online/SiteInformation", [300,250], "div-gpt-ad-580936900627581-6")
+      googletag.defineSlot("/7675/CLB.site_ledger-enquirer/Online/SiteInformation", [300,250], "div-gpt-ad-514557867626884-6")
         .setTargeting("pos", "2")
         .setTargeting("atf", "n")
         .addService(googletag.pubads()); 
@@ -205,7 +237,6 @@ $(document).ready(function() {
     googletag.enableServices();
   });
 </script>
-
 <script language="JavaScript" type="text/javascript" src="http://media.ledger-enquirer.com/misites/led/ledger-enquirer.js"></script><!-- site specific file already loaded -->
 <script language="JavaScript" type="text/javascript">
 <!--
@@ -234,15 +265,15 @@ mistats.channel='Privacy Policy';
 </script>
 
 
+
 </head>
 
 
 <body class="section" id="section_"><div class="sbb_wrap">
     <div class="top_ads">   
         <div class="ad">
-        <div class="advertisement dart_960x30" id="dart_960x30_1"><script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.led00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=960x30;tile=1;!c=news;gender=;year=;income=;ord=213265103578500?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.led00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=960x30;tile=1;!c=news;gender=;year=;income=;ord=213265103578500?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.led00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=960x30;tile=1;!c=news;gender=;year=;income=;ord=213265103578500?" border="0" alt="Advertisement"></a></noscript> <div id="div-gpt-ad-580936900627581-1">
-<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-580936900627581-1'); });</script>
+        <div class="advertisement dart_960x30" id="dart_960x30_1"><div id="div-gpt-ad-514557867626884-1">
+<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-514557867626884-1'); });</script>
 </div>        </div>
 </div>
 
@@ -261,7 +292,14 @@ mistats.channel='Privacy Policy';
             <li class="jobs"><a href="/jobs/#navlink=navbar">Jobs</a></li>
             <li class="cars"><a href="/cars/#navlink=navbar">Cars</a></li>
             <li class="homes"><a href="/homes/#navlink=navbar">Homes</a></li>
-            <li class="apartments"><a href="/apartments/#navlink=navbar">Apartments</a></li><li class="legals"><a href="http://www.ledger-enquirer.com/classified-ads/Announcements/classification/Legals/#navlink=navbar">Legals</a></li>            <li class="place_ad last"><a href="http://www.ledger-enquirer.com/placead/#navlink=navbar">Place an ad</a></li>
+            <li class="apartments"><a href="/apartments/#navlink=navbar">Apartments</a></li><li class="legals"><a href="http://www.ledger-enquirer.com/classified-ads/Announcements/classification/Legals/#navlink=navbar">Legals</a></li>            <li class="place_ad last"><a href="http://www.ledger-enquirer.com/placead/#navlink=navbar">Place an ad</a>                        <ul class="place_ad_links">
+                            <li><a href="http://www.ledger-enquirer.com/placead/#navlink=navbar">Classifieds</a></li>
+                            <li><a href="http://columbusledgerenquirer.adperfect.com/default.html?pubid=4C139C5E052d92550BpyP111F3A2&amp;catid=4C13D895054691B83FxTWL17B7C7">Jobs</a></li>
+                            <li><a href="http://columbusledgerenquirer.adperfect.com/default.html?pubid=4C139C5E052d92550BpyP111F3A2&amp;catid=4C13D895054691B917gRSr180FE3">Cars</a></li>
+                            <li><a href="http://columbusledgerenquirer.adperfect.com/default.html?pubid=4C139C5E052d92550BpyP111F3A2&amp;catid=4C13D895054691B6D3uYSi1732EE">Homes</a></li>
+                            <li><a href="http://columbusledgerenquirer.adperfect.com/default.html?pubid=4C139C5E052d92550BpyP111F3A2&amp;catid=4C13D895054691B738RmhW175AA3">Apartments</a></li>
+                            <li><a href="http://www.ledger-enquirer.com/placead/#navlink=navbar">Other</a></li>
+                        </ul>            </li>
         </ul>
         
         <div id="weather">
@@ -269,18 +307,17 @@ mistats.channel='Privacy Policy';
             
 
             <div class="current">
-            <a href="/weather/"><img id="weather_icon" alt="Partly sunny" src="http://media.ledger-enquirer.com/mistatic/images/weather/icons/03.png"></a>
+            <a href="/weather/"><img id="weather_icon" alt="Sunny" src="http://media.ledger-enquirer.com/mistatic/images/weather/icons/01.png"></a>
             </div>
             <div class="temp">
-                <div id="weather_curr_temp" class="current_temp">85°</div>
+                <div id="weather_curr_temp" class="current_temp">69°</div>
                 <div class="weather_alert"><a href="?">Alert!</a></div>
                 <div class="forecast">&nbsp;<a href="/weather/">Forecast</a></div>
             </div>
         </div><!-- #weather -->
             <div class="weather_sponsor" id="dart_150x25_weather_1">
-        <script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.led00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=150x25;tile=2;!c=news;gender=;year=;income=;ord=213265103578500?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.led00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=150x25;tile=2;!c=news;gender=;year=;income=;ord=213265103578500?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.led00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=150x25;tile=2;!c=news;gender=;year=;income=;ord=213265103578500?" border="0" alt="Advertisement"></a></noscript> <div id="div-gpt-ad-580936900627581-2">
-<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-580936900627581-2'); });</script>
+        <div id="div-gpt-ad-514557867626884-2">
+<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-514557867626884-2'); });</script>
 </div>
             </div>
     </div><!-- end mast_top -->
@@ -317,6 +354,7 @@ mistats.channel='Privacy Policy';
                         </a>
                     </li>
                     
+                    
                     <li id="search_widget_web_search_choice" style="display: none;">
                         <a id="web_search" href="#">
                             <img src="http://media.ledger-enquirer.com/mistatic/images/search/search_dropdown_yahoo_logo.png">Web Search
@@ -331,7 +369,9 @@ mistats.channel='Privacy Policy';
                 </ul>
             <div class="clear"></div>
             </form>
+            
             <p class="yahoo_credit">Web Search powered by <b><span class="yahoo_text">YAHOO!</span> SEARCH</b></p>
+            
             <script type="text/javascript">
                     if (typeof(mi.search) !== "undefined" || typeof(mi.search.setUp) !== "function") {
                         mi.search.setUp();
@@ -354,9 +394,8 @@ mistats.channel='Privacy Policy';
 <div id="main_nav">
     <ul>
         <li id="nav_ad">
-        <script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.led00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=100x25;tile=3;!c=news;gender=;year=;income=;ord=213265103578500?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.led00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=100x25;tile=3;!c=news;gender=;year=;income=;ord=213265103578500?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.led00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=100x25;tile=3;!c=news;gender=;year=;income=;ord=213265103578500?" border="0" alt="Advertisement"></a></noscript> <div id="div-gpt-ad-580936900627581-3">
-<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-580936900627581-3'); });</script>
+        <div id="div-gpt-ad-514557867626884-3">
+<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-514557867626884-3'); });</script>
 </div>
         </li>
         <li><a href="/#navlink=navbar" title="Home Page">Home</a></li>                <li><a href="/news/#navlink=navbar" title="News">News</a>
@@ -367,7 +406,7 @@ mistats.channel='Privacy Policy';
                                             <ul class="subnav">
                                                         <li><a href="/todo/#navlink=subnav" title="">ToDo</a></li>                                <li><a href="/food/#navlink=subnav" title="">Food &amp; Drink</a></li>                                <li><a href="/religion/#navlink=subnav" title="">Religion</a></li>                                <li><a href="/comics-games/#navlink=subnav" title="">Comics</a></li>                                <li><a href="/her-magazine/#navlink=subnav" title="">Her Magazine</a></li>                                <li><a href="http://www.legacy.com/celebration/ledger-enquirer/#navlink=subnav" title="">Celebrations</a></li>                        </ul>                </li>                <li><a href="/blogs/#navlink=navbar" title="Blogs &amp; Columns">Blogs &amp; Columns</a>
                                             <ul class="subnav">
-                                                        <li><a href="http://www.wareagleextra.com/#navlink=subnav" title="">War Eagle Extra</a></li>                                <li><a href="/georgia-bulldogs-blog/#navlink=subnav" title="">Bulldogs Blog</a></li>                                <li><a href="/american-idol-blog/#navlink=subnav" title="">American Idol</a></li>                                <li><a href="/tim-chitwood/#navlink=subnav" title="">Tim Chitwood</a></li>                                <li><a href="/richard-hyatt/#navlink=subnav" title="">Richard Hyatt</a></li>                                <li><a href="/ledger-inquirer/#navlink=subnav" title="">Ledger Inquirer</a></li>                                <li><a href="/valley-preps/#navlink=subnav" title="">Valley Preps</a></li>                                <li><a href="/chuck-williams/#navlink=subnav" title="">Chuck Williams</a></li>                                <li><a href="/dimon-kendrick-holmes/#navlink=subnav" title="">Dimon Kendrick-Holmes</a></li>                        </ul>                </li>                <li><a href="/opinion/#navlink=navbar" title="Opinion">Opinion</a>
+                                                        <li><a href="/war-eagle-extra/#navlink=subnav" title="">War Eagle Extra</a></li>                                <li><a href="/georgia-bulldogs-blog/#navlink=subnav" title="">Bulldogs Blog</a></li>                                <li><a href="/american-idol-blog/#navlink=subnav" title="">American Idol</a></li>                                <li><a href="/tim-chitwood/#navlink=subnav" title="">Tim Chitwood</a></li>                                <li><a href="/richard-hyatt/#navlink=subnav" title="">Richard Hyatt</a></li>                                <li><a href="/ledger-inquirer/#navlink=subnav" title="">Ledger Inquirer</a></li>                                <li><a href="/valley-preps/#navlink=subnav" title="">Valley Preps</a></li>                                <li><a href="/chuck-williams/#navlink=subnav" title="">Chuck Williams</a></li>                                <li><a href="/dimon-kendrick-holmes/#navlink=subnav" title="">Dimon Kendrick-Holmes</a></li>                        </ul>                </li>                <li><a href="/opinion/#navlink=navbar" title="Opinion">Opinion</a>
                                             <ul class="subnav">
                                                         <li><a href="/sunday-forum/#navlink=subnav" title="">Sunday forum</a></li>                                <li><a href="/letters-to-the-editor/#navlink=subnav" title="">Letters</a></li>                                <li><a href="/dusty-nix/#navlink=subnav" title="">Dusty Nix</a></li>                                <li><a href="/sound-off/#navlink=subnav" title="">Sound Off</a></li>                        </ul>                </li>                <li><a href="http://www.legacy.com/obituaries/ledger-enquirer/#navlink=navbar" title="Obituaries">Obituaries</a>
                                     </li>                <li><a href="http://findnsave.ledger-enquirer.com/#navlink=navbar" title="Ledger-Enquirer.com Newspaper Ads">Local Deals</a>
@@ -388,16 +427,16 @@ mistats.channel='Privacy Policy';
 <h1>Privacy Policy</h1>
 <h5>Effective Date: 9-4-09</h5>
 
-<p>Columbus Ledger Enquirer ("Columbus Ledger Enquirer", "we", "our") has a firm commitment to privacy. We take your privacy concerns seriously and want to make reasonable efforts to address them as we strive to offer our site visitors a high quality, interactive and personalized experience. This Privacy Policy explains our position on information gathering and how we intend to use and share any information we collect. This Privacy Policy applies only to information collected by Columbus Ledger Enquirer and does not apply to information obtained or used by Ledger Enquirer or its affiliates through other means.</p>
+<p>Columbus Ledger Enquirer ("Columbus Ledger Enquirer", "we", "our") has a firm commitment to privacy. We take your privacy concerns seriously and want to make reasonable efforts to address them as we strive to offer our site visitors a high quality, interactive and personalized experience. This Privacy Policy explains our position on information gathering and how we intend to use and share any information we collect. This Privacy Policy applies only to information collected by Columbus Ledger Enquirer and does not apply to information obtained or used by Ledger-Enquirer or its affiliates through other means.</p>
 
 <p><strong>You understand and agree that, by visiting Columbus Ledger Enquirer and its affiliated sites, you are accepting, without modification, this Privacy Policy. If you disagree with any portion of this Privacy Policy, then your only option is to not use Columbus Ledger Enquirer.</strong></p>
 
-<p>Columbus Ledger Enquirer collects and stores personally identifiable information such as your name, address, and e-mail address. The information that we collect and store about you depends on the page you visit and the services in which you elect to participate. We use this information to operate our services, improve the quality of our services, offer you opportunities we think will interest you, and better tailor the advertising you see from us to suit you. This information is not shared with anyone outside of Ledger Enquirer and Columbus Ledger Enquirer except as provided for in this Privacy Policy or as explained at the time the information is collected. More specifics on the information we collect and how we use it are outlined within this Privacy Policy.</p>
+<p>Columbus Ledger Enquirer collects and stores personally identifiable information such as your name, address, and e-mail address. The information that we collect and store about you depends on the page you visit and the services in which you elect to participate. We use this information to operate our services, improve the quality of our services, offer you opportunities we think will interest you, and better tailor the advertising you see from us to suit you. This information is not shared with anyone outside of Ledger-Enquirer and Columbus Ledger Enquirer except as provided for in this Privacy Policy or as explained at the time the information is collected. More specifics on the information we collect and how we use it are outlined within this Privacy Policy.</p>
 
 <p>This Privacy Policy is subject to change from time to time by Columbus Ledger Enquirer and your continued use of Columbus Ledger Enquirer means you agree to, without modification, the revisions. If you are a registered member of Columbus Ledger Enquirer, you will be notified of material revisions to this Privacy Policy via an e-mail message to the e-mail address that you provided at registration. If you are not a registered member of Columbus Ledger Enquirer, you may view revisions to this Privacy Policy on this page. Material changes to this Privacy Policy will be indicated by a revised effective date at the top left hand corner of this page and by a notice posted on the homepage of Columbus Ledger Enquirer. Whether or not you are a registered member of Columbus Ledger Enquirer, it is your responsibility to check back and review this page regularly to ensure you are familiar with the most current terms. Should you object to any such modifications to this Privacy Policy or become dissatisfied with Columbus Ledger Enquirer in any way, your only option is to immediately terminate your membership and discontinue use of Columbus Ledger Enquirer. Otherwise, continuing to use the service after the effective date means that you agree to be bound by the changes, without modification.</p>
 
 <h3>Information we collect</h3>
-<p>Access to certain special content, services and features on Columbus Ledger Enquirer requires users to be subscribers to Ledger Enquirer and/or to become registered members at Columbus Ledger Enquirer. Member registration may require you to provide certain personally identifiable information, such as your name, e-mail address, street address, telephone number, gender, and date of birth. If you choose to purchase a print subscription to Ledger Enquirer or a classified ad when you register, we also require credit card and billing information. For more information about how we use your credit card and billing information, see the Section below titled "Electronic commerce". You will be asked to select a member name and password so that you have access to this information and can revise it in the future. To complete the registration process, we will send you a validation e-mail message. You must click the link in the e-mail to fully activate your membership account. At registration you will have the opportunity to Opt in of subscribing to e-mail newsletters and alerts sent to you on behalf of Columbus Ledger Enquirer and its advertisers.</p>
+<p>Access to certain special content, services and features on Columbus Ledger Enquirer requires users to be subscribers to Ledger-Enquirer and/or to become registered members at Columbus Ledger Enquirer. Member registration may require you to provide certain personally identifiable information, such as your name, e-mail address, street address, telephone number, gender, and date of birth. If you choose to purchase a print subscription to Ledger-Enquirer or a classified ad when you register, we also require credit card and billing information. For more information about how we use your credit card and billing information, see the Section below titled "Electronic commerce". You will be asked to select a member name and password so that you have access to this information and can revise it in the future. To complete the registration process, we will send you a validation e-mail message. You must click the link in the e-mail to fully activate your membership account. At registration you will have the opportunity to Opt in of subscribing to e-mail newsletters and alerts sent to you on behalf of Columbus Ledger Enquirer and its advertisers.</p>
 
 <p>Some features and services of Columbus Ledger Enquirer may require additional personally identifiable information or other demographic information. We may collect other personally identifiable information when you provide feedback, comments, engage in chat, message boards, interactive forums or participate in surveys, or if you contact us offline. For example, when you enter contests you will be asked to also provide your phone number so that we can reach you in the event you have won a prize. All users may decline to share such information with us, by choosing not to register on Columbus Ledger Enquirer or not to use our services. Only registered members, however, may access certain content, services and features.</p>
 
@@ -430,7 +469,7 @@ mistats.channel='Privacy Policy';
 <p>Columbus Ledger Enquirer participates in the APT from Yahoo! platform and Yahoo! is an ad network partner to display ads on our sites.  To improve your ad experience on Columbus Ledger Enquirer and elsewhere on the Internet, we may send non-personal information to Yahoo! based on your browser's activities, such as type of pages viewed and categories of interests, so that the advertising you see is relevant to you. Yahoo! also may use information regarding its own users to select which ads to display. <a href="http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html">Learn more</a> about Yahoo!'s ad practices, including how to opt out of using anonymous information to select which ads to show you. Yahoo! is a member of the <a href="http://www.networkadvertising.org">Network Advertising Initiative</a>.</p>
 
 <h3>Use of personally identifiable information</h3>
-<p>Personally identifiable information may be accessed by the user who entered it, by Ledger Enquirer and Columbus Ledger Enquirer personnel, and by certain third parties, such as those who provide technical support or content services to Columbus Ledger Enquirer. For example, your billing and credit card information will be shared with third parties who perform tasks required to complete the purchase transaction. We ask these third parties to keep any personal information supplied by us confidential. We also endeavor to keep your personally identifiable information inaccessible to other users or advertisers of Columbus Ledger Enquirer. Note that your first name may be displayed on Columbus Ledger Enquirer when you visit Columbus Ledger Enquirer as a logged in member. We will also display your e-mail address and contact information in your Member Center. While no Web site is completely secure, we make reasonable efforts to secure the Member Center, such that; it can only be accessed by logging in with your member name and password.</p>
+<p>Personally identifiable information may be accessed by the user who entered it, by Ledger-Enquirer and Columbus Ledger Enquirer personnel, and by certain third parties, such as those who provide technical support or content services to Columbus Ledger Enquirer. For example, your billing and credit card information will be shared with third parties who perform tasks required to complete the purchase transaction. We ask these third parties to keep any personal information supplied by us confidential. We also endeavor to keep your personally identifiable information inaccessible to other users or advertisers of Columbus Ledger Enquirer. Note that your first name may be displayed on Columbus Ledger Enquirer when you visit Columbus Ledger Enquirer as a logged in member. We will also display your e-mail address and contact information in your Member Center. While no Web site is completely secure, we make reasonable efforts to secure the Member Center, such that; it can only be accessed by logging in with your member name and password.</p>
 
 <p>We may also disclose personally identifiable information when deemed necessary or appropriate:
 </p><ul>
@@ -454,21 +493,21 @@ mistats.channel='Privacy Policy';
 </div>
 
 <h3>Member mail and e-mail offers</h3>
-<p>Columbus Ledger Enquirer does not rent, sell, barter or give away its user or member lists or its users' or members' names, e-mail addresses or mailing addresses for use by advertisers and other third parties for the purpose of solicitations, unless the user has previously given his or her consent at the time of general registration or registration for a specific contest or service. If a user granted permission to receive solicitations (referred to on Columbus Ledger Enquirer as e-mail Offers) at the time of registration but subsequently wishes to opt out from receiving such solicitations, the user may visit the Member Center<!-- at <a href=""></a> --> and change one or more of the category-specific permissions related to receiving e-mail from Ledger Enquirer and Columbus Ledger Enquirer advertisers.</p>
+<p>Columbus Ledger Enquirer does not rent, sell, barter or give away its user or member lists or its users' or members' names, e-mail addresses or mailing addresses for use by advertisers and other third parties for the purpose of solicitations, unless the user has previously given his or her consent at the time of general registration or registration for a specific contest or service. If a user granted permission to receive solicitations (referred to on Columbus Ledger Enquirer as e-mail Offers) at the time of registration but subsequently wishes to opt out from receiving such solicitations, the user may visit the Member Center<!-- at <a href=""></a> --> and change one or more of the category-specific permissions related to receiving e-mail from Ledger-Enquirer and Columbus Ledger Enquirer advertisers.</p>
 
-<p>All registered users will receive periodic Member Mail e-mail related to their membership account or various features and services on the Ledger Enquirer Web sites to which their membership entitles them access. Because Member Mail is an integral part of our service to you, users cannot opt-out of receiving Member Mail. If you do not want to receive Member Mail, your only option is to terminate your membership by following the directions in the Member Center.</p>
+<p>All registered users will receive periodic Member Mail e-mail related to their membership account or various features and services on the Ledger-Enquirer Web sites to which their membership entitles them access. Because Member Mail is an integral part of our service to you, users cannot opt-out of receiving Member Mail. If you do not want to receive Member Mail, your only option is to terminate your membership by following the directions in the Member Center.</p>
 
-<p>Separate from Columbus Ledger Enquirer Member Mail, Ledger Enquirer may send you information via e-mail about various products or services that we believe may be of interest to you, including e-mails that may contain content provided by third-party advertisers. If you do not want to receive this information, you can Opt in by changing your permission setting for Ledger Enquirer Promotions e-mail in the Member Center. The Member Center also allows you to select which categories of e-mail Offers might interest you.  You can also change your Opt in preferences in the Member Center.</p>
+<p>Separate from Columbus Ledger Enquirer Member Mail, Ledger-Enquirer may send you information via e-mail about various products or services that we believe may be of interest to you, including e-mails that may contain content provided by third-party advertisers. If you do not want to receive this information, you can Opt in by changing your permission setting for Ledger-Enquirer Promotions e-mail in the Member Center. The Member Center also allows you to select which categories of e-mail Offers might interest you.  You can also change your Opt in preferences in the Member Center.</p>
 
 <p>When a user specifically authorizes e-mail solicitations we make available the user names and other Personally Identifiable Information in accordance with the applicable license.</p>
 
 <p>Our HTML-encoded e-mail messages may include graphic files, which we use to gather information about e-mails sent our members. When such a message is opened in an HTML-capable e-mail program, the recipient's computer accesses our server to retrieve the graphic file, and allows us to record and store the date and time, the recipient's e-mail address, and other standard logging information. These HTML-encoded e-mail messages may also read cookies.</p>
 
 <h3>Affiliated sites, linked sites and advertisements</h3>
-<p>Columbus Ledger Enquirer expects its partners, providers of content and services and advertisers to respect the privacy of its users. Be aware, however, that third parties, including our partners, providers of content and services, advertisers and others accessible through our site may have their own privacy and data collection policies and practices. For example, during your visit to Columbus Ledger Enquirer you may link to, or view as part of a frame on a Columbus Ledger Enquirer page, certain content that is actually created or hosted by a third party. Also through Columbus Ledger Enquirer you may be introduced to, or be able to access information, services, Web sites, features, contest or sweepstakes offered by other parties. Ledger Enquirer and Columbus Ledger Enquirer are not responsible for the actions or policies of such third parties. You should use common sense when you navigate the Web and be aware of when you travel outside of Columbus Ledger Enquirer. In addition, you should carefully review the applicable privacy policies of each Web site you visit and each Web service you use.</p>
+<p>Columbus Ledger Enquirer expects its partners, providers of content and services and advertisers to respect the privacy of its users. Be aware, however, that third parties, including our partners, providers of content and services, advertisers and others accessible through our site may have their own privacy and data collection policies and practices. For example, during your visit to Columbus Ledger Enquirer you may link to, or view as part of a frame on a Columbus Ledger Enquirer page, certain content that is actually created or hosted by a third party. Also through Columbus Ledger Enquirer you may be introduced to, or be able to access information, services, Web sites, features, contest or sweepstakes offered by other parties. Ledger-Enquirer and Columbus Ledger Enquirer are not responsible for the actions or policies of such third parties. You should use common sense when you navigate the Web and be aware of when you travel outside of Columbus Ledger Enquirer. In addition, you should carefully review the applicable privacy policies of each Web site you visit and each Web service you use.</p>
 
 <h3>Electronic commerce</h3>
-<p>For certain electronic commerce services on Columbus Ledger Enquirer, such as placing classified ads electronically or subscribing to Ledger Enquirer, we require additional information. To complete these transactions, we may collect information from you such as your name, credit card number and other financial or personally identifiable information. We endeavor to protect the security of your payment information during transmission by using Secure Sockets Layer (SSL) technology, which encrypts information you submit. Ledger Enquirer uses the credit card and shipping information for the purpose of completing the transaction and does not provide this information to third parties except for the providers of the transaction processing and the issuers of credit cards in order to process the transaction, or as otherwise set forth in this policy.</p>
+<p>For certain electronic commerce services on Columbus Ledger Enquirer, such as placing classified ads electronically or subscribing to Ledger-Enquirer, we require additional information. To complete these transactions, we may collect information from you such as your name, credit card number and other financial or personally identifiable information. We endeavor to protect the security of your payment information during transmission by using Secure Sockets Layer (SSL) technology, which encrypts information you submit. Ledger-Enquirer uses the credit card and shipping information for the purpose of completing the transaction and does not provide this information to third parties except for the providers of the transaction processing and the issuers of credit cards in order to process the transaction, or as otherwise set forth in this policy.</p>
 
 <h3>Changing your personal information and deleting your account</h3>
 <p>In general, if you are a registered member, you may return to your account information page in the Member Center to update the information you previously provided to us. To prevent minors from improperly entering contests for which they are not eligible, we may require additional proof from people asking to change information regarding their date of birth.  Columbus Ledger Enquirer may retain personal information for an indefinite amount of time.</p>
@@ -502,9 +541,8 @@ mistats.channel='Privacy Policy';
         <div id="sidebar" class="grid_4">
                 <div id="sidebar_r1">
         <div class="ad">
-        <div class="advertisement dart_300x250" id="dart_300x250_1"><script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.led00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=300x250;tile=4;!c=news;gender=;year=;income=;ord=213265103578500?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.led00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=300x250;tile=4;!c=news;gender=;year=;income=;ord=213265103578500?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.led00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=300x250;tile=4;!c=news;gender=;year=;income=;ord=213265103578500?" border="0" alt="Advertisement"></a></noscript> <div id="div-gpt-ad-580936900627581-4">
-<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-580936900627581-4'); });</script>
+        <div class="advertisement dart_300x250" id="dart_300x250_1"><div id="div-gpt-ad-514557867626884-4">
+<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-514557867626884-4'); });</script>
 </div>        </div>
 </div>
 
@@ -514,9 +552,8 @@ mistats.channel='Privacy Policy';
 </div>
 <div id="sidebar_r3">
         <div class="ad">
-        <div class="advertisement dart_300x100" id="dart_300x100_1"><script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.led00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=1;sz=300x100;tile=5;!c=news;gender=;year=;income=;ord=213265103578500?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.led00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=1;sz=300x100;tile=5;!c=news;gender=;year=;income=;ord=213265103578500?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.led00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=1;sz=300x100;tile=5;!c=news;gender=;year=;income=;ord=213265103578500?" border="0" alt="Advertisement"></a></noscript> <div id="div-gpt-ad-580936900627581-5">
-<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-580936900627581-5'); });</script>
+        <div class="advertisement dart_300x100" id="dart_300x100_1"><div id="div-gpt-ad-514557867626884-5">
+<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-514557867626884-5'); });</script>
 </div>        </div>
 </div>
 
@@ -526,9 +563,8 @@ mistats.channel='Privacy Policy';
 </div>
 <div id="sidebar_r5">
         <div class="ad">
-        <div class="advertisement dart_300x250" id="dart_300x250_2"><script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.led00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=2;sz=300x250;tile=6;!c=news;gender=;year=;income=;ord=213265103578500?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.led00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=2;sz=300x250;tile=6;!c=news;gender=;year=;income=;ord=213265103578500?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.led00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=2;sz=300x250;tile=6;!c=news;gender=;year=;income=;ord=213265103578500?" border="0" alt="Advertisement"></a></noscript> <div id="div-gpt-ad-580936900627581-6">
-<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-580936900627581-6'); });</script>
+        <div class="advertisement dart_300x250" id="dart_300x250_2"><div id="div-gpt-ad-514557867626884-6">
+<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-514557867626884-6'); });</script>
 </div>        </div>
 </div>
 
@@ -551,6 +587,7 @@ mistats.channel='Privacy Policy';
 </div>
 
 <footer id="footer">
+
 
 <div id="page_footer">
     
