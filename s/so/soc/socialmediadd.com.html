@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the socialmediadd.com privacy policy that was archived on 2013-03-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130330110449id_/https%3A//www.socialmediadd.com/terms_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the socialmediadd.com privacy policy that was archived on 2013-10-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131004064747id_/https%3A//www.socialmediadd.com/terms_privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=281307258547673"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://gis3.livechatinc.com/gis.cgi?serverType=control&amp;licenseID=1067086&amp;jsonp=__lc_load"></script><script type="text/javascript" src="/a/j/milonic/milonic_src.js"></script>
+<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=281307258547673"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://gis1.livechatinc.com/gis.cgi?serverType=control&amp;licenseID=1067086&amp;jsonp=__lc_load"></script><script type="text/javascript" src="/a/j/milonic/milonic_src.js"></script>
 <script type="text/javascript">
 if(ns4)_d.write("<scr"+"ipt src=/a/j/milonic/mmenuns4.js><\/scr"+"ipt>"); 
   else _d.write("<scr"+"ipt src=/a/j/milonic/mmenudom.js><\/scr"+"ipt>"); 
@@ -24,6 +24,7 @@ var Config_CDN_URL = '/'
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js"></script>
 <link type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/themes/base/jquery-ui.css" rel="stylesheet">
+<link type="text/css" href="/a/c/default.css" rel="stylesheet">
 
 
 <script type="text/javascript">
@@ -39,8 +40,31 @@ var Config_CDN_URL = '/'
     var PageText_843 = "Subtotal";
     var PageText_844 = "items in cart";
 </script>
+<script type="text/javascript" src="/a/j/volusion.js?6.41.2.227"></script>
+<script type="text/javascript">
+    (function ($) {
+        volusion.ready(function () {
+            if (volusion.cart.isObservingCount()) {
+                var ts = new Date().getTime();
 
-<script type="text/javascript" src="/a/j/javascripts.js?6_5_currentBuild"></script>
+                $.getJSON('/ajaxcart.asp?cachebust=' + ts, function (data) {
+                    var quantityTotal = 0;
+                    $.each(data.Products, function (key, val) {
+                        if (val.IsProduct === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        } else if (val.IsAccessory === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        }
+                    });
+                    quantityTotal = quantityTotal || '0';
+                    volusion.cart.itemCount(quantityTotal);
+                });
+
+            }
+        });
+    } (jQuery));
+</script>
+<script type="text/javascript" src="/a/j/javascripts.js?6_5_6.41.2.227"></script>
 
 <script type="text/javascript">
 	var Config_Search_Auto_Complete = false;
@@ -130,8 +154,8 @@ Date: March 2010
     
     <div id="site_tools">
         <a href="/">Social Media Marketing</a> 
-        <a href="/shoppingcart.asp"><img src="/v/vspfiles/templates/posh/images/template/cart.gif" width="16" height="12" alt="Shopping Cart"> View Cart</a>
-        <a href="/myaccount.asp">My Account</a>
+<a href="http://brandongaille.com/category/marketing/">Marketing Blog</a> 
+        <a href="/myaccount.asp">Account</a>
         <br><br>
 <table width="350" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
@@ -174,7 +198,7 @@ function mClk1(src, popup)
 </script>
 <ul>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
-	<a href="http://www.socialmediadd.com/Get_Twitter_Followers_s/71.htm" title="">Today's Specials</a>
+	<a href="http://www.socialmediadd.com/Get_Twitter_Followers_s/71.htm" title="">Today's Specials &amp; Discounts</a>
 </li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
 	<a href="http://www.socialmediadd.com/Get_Twitter_Followers_s/43.htm" title="">Twitter</a>
@@ -183,19 +207,16 @@ function mClk1(src, popup)
 	<a href="http://www.socialmediadd.com/YouTube_Marketing_Services_s/51.htm" title="">YouTube</a>
 </li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
-	<a href="http://www.socialmediadd.com/Add_LinkedIn_Connections_s/46.htm" title="">LinkedIn</a>
-</li>
-<li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
-	<a href="http://www.socialmediadd.com/Targeted_Social_Media_PPC_Traffic_s/85.htm" title="">Targeted Social Media PPC</a>
-</li>
-<li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
-	<a href="http://www.socialmediadd.com/L1_SEO_Services_Solution_p/seo-level1.htm" title="">SEO</a>
+	<a href="http://www.socialmediadd.com/Add_Linkedin_Connections_s/90.htm" title="">LinkedIn</a>
 </li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
 	<a href="/Articles.asp?ID=312" title="">Testimonials</a>
 </li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
-	<a href="/aboutus.asp" title="">About Us</a>
+	<a href="/aboutus.asp" title="">About</a>
+</li>
+<li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
+	<a href="/shoppingcart.asp" title="">My Shopping Cart</a>
 </li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
 	<a href="/social-media-tutorials_a/273.htm" title="">Tuts</a>
@@ -205,27 +226,7 @@ function mClk1(src, popup)
 </div>
     
 <div id="top">
-<!---------------------- SEARCH BOX ---------------------->
-		<div id="display_search_wrapper">
-        <div id="display_search">
-        <form action="/SearchResults.asp" method="get" name="SearchBoxForm">
-                    <input type="text" name="Search" class="empty" value="Search" onfocus="if (this.value == 'Search') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search';}">                    
-                    <img src="/v/vspfiles/templates/posh/images/template/search.gif" border="0" align="top" style="cursor: pointer;" onclick="document.forms['SearchBoxForm'].submit();">
-        </form>
-        </div>
-    	</div>
-        
-<!---------------------- Mailing List Section ---------------------->
-                <div id="eList">
-                  <p><strong>Get a $20 Coupon &amp; Enter to Win 25,000 Followers</strong></p>
-                      <form name="ccoptin" method="post" action="http://visitor.r20.constantcontact.com/d.jsp" target="_blank">  
-                        <input type="text" name="ea" size="20" value=" your email address" style="font-family:Verdana,Geneva,Arial,Helvetica,sans-serif; font-size:10px; border:1px solid #999999;">
-<input type="submit" name="go" value="Get Coupon" class="submit" style="font-family:Verdana,Arial,Helvetica,sans-serif; font-size:10px;">
-<input type="hidden" name="llr" value="zegmj6gab">
-<input type="hidden" name="m" value="1106936993945">
-<input type="hidden" name="p" value="oi">
-                  </form>
-                </div>
+
 </div>
 
 <div class="clear"></div>
