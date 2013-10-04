@@ -1,32 +1,47 @@
-> *The following text is extracted and transformed from the shopworldkitchen.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604125024id_/http%3A//www.worldkitchen.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopworldkitchen.com privacy policy that was archived on 2013-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131004052918id_/http%3A//www.shopworldkitchen.com/customer-service/privacy-%2526-terms/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-I. General  
+  1. [Home](http://www.shopworldkitchen.com/ "Home")
+  2. [Customer Service](https://web.archive.org/help "Customer Service")
+  3. Privacy Policy
+
+
+
+* * *
+
+### I. General
+
 World Kitchen, LLC and its affiliates ("WK" or "we") respect the privacy of every individual who visits this website or responds to our interactive advertisements. This Privacy Statement outlines the information we at WK will collect and how we will use that information.
 
 Please note, that this website and the privacy practices described in this Privacy Statement are directed to and apply only to residents of the United States.
 
-This Web site is operated by World Kitchen, LLC. 
+This Web site is operated by World Kitchen, LLC.
 
-II. Personally Identifiable Information  
-When you visit this website or interactive advertisements, we will not collect any personally identifiable information about you (such as your name, address, telephone number, social security number, billing and shipping information, credit card information or e-mail address), unless you provide it to us voluntarily. On this website or in interactive advertisements, we may invite visitors to submit names, e-mail addresses or addresses of others in connection with certain promotions or offers that appear, including from time to time offers to purchase products online or to receive samples or information. If you opt not to provide us with personally identifiable information, no material consequences will result, but you may be unable to participate in certain promotions, receive product information or products, or buy products offered through our website or interactive advertisements. 
+### II. Personally Identifiable Information
 
-III. Use of Personally Identifiable Information  
+When you visit this website or interactive advertisements, we will not collect any personally identifiable information about you (such as your name, address, telephone number, social security number, billing and shipping information, credit card information or e-mail address), unless you provide it to us voluntarily. On this website or in interactive advertisements, we may invite visitors to submit names, e-mail addresses or addresses of others in connection with certain promotions or offers that appear, including from time to time offers to purchase products online or to receive samples or information. If you opt not to provide us with personally identifiable information, no material consequences will result, but you may be unable to participate in certain promotions, receive product information or products, or buy products offered through our website or interactive advertisements.
+
+### III. Use of Personally Identifiable Information
+
 If you decide to give us personally identifiable information, we may store and process that personally identifiable information to better understand your needs, and how we may improve our products and services. We also may use your personally identifiable information to contact you (for example, we may send you marketing or promotional materials or other information, we may respond to your comments or requests for information, or we may contact you if needed in the course of processing or shipping your order for products or services, if offered over our web sites). We may also enhance or merge personally identifiable information with data obtained from third parties for the same purposes. WK will not give or sell your personally identifiable information to any outside organization for the organization's own use without your consent. Your information may be shared with agents or contractors of WK in connection with services that those individuals or entities perform for WK.
 
-The copy, claims and offers contained in this website are directed at residents of the United States and are valid only in the United States and for residents of the United States. 
+The copy, claims and offers contained in this website are directed at residents of the United States and are valid only in the United States and for residents of the United States.
 
-IV. Security  
+### IV. Security
+
 We are committed to keeping secure the data you provide us, and will take reasonable precautions to protect your personally identifiable information from loss, misuse or alteration. Agents or contractors of WK, who have access to your personally identifiable information to permit them to provide services for us, are required to keep the information confidential and are not permitted to use this information for any other purpose than to perform those services for us.
 
-V. Children  
-WK has no intention of collecting any personally identifiable information from individuals under thirteen years of age. Where appropriate, we will specifically instruct children not to submit such information on our websites or advertisements. If a child has provided us with personally identifiable information, a parent or guardian of that child may contact us via e-mail at helpcenter@worldkitchenhelp.com to have that information deleted from our records. We will use reasonable efforts to delete the child's information from our databases. 
+### V. Children
 
-VI. Non-Personally Identifiable Information Collected Automatically  
-In some cases, we may collect information about you that is not personally identifiable. Examples of this type of information include the type of Internet browser or computer operating system you are using and the domain name of the website from which you linked to our site or advertisement. In addition, when you view one of our websites or advertisements, we may store some information on your computer. This information will be in the form of a "cookie" or similar file and will help us in many ways. For example, cookies allow us to tailor a website or advertisement to better match your interests and preferences. Most Internet browsers enable you to erase cookies from your computer hard drive, block all cookies, or receive a warning before a cookie is stored. Please refer to your browser instructions or help screen to learn more about these functions. We do not collect personally identifiable information automatically, but we may tie information collected automatically to your previously submitted personally identifiable information. 
+WK has no intention of collecting any personally identifiable information from individuals under thirteen years of age. Where appropriate, we will specifically instruct children not to submit such information on our websites or advertisements. If a child has provided us with personally identifiable information, a parent or guardian of that child may contact us via e-mail at helpcenter@worldkitchenhelp.com to have that information deleted from our records. We will use reasonable efforts to delete the child's information from our databases.
 
-VII. Contacting Us Regarding Your Personally Identifiable Information  
+### VI. Non-Personally Identifiable Information Collected Automatically
+
+In some cases, we may collect information about you that is not personally identifiable. Examples of this type of information include the type of Internet browser or computer operating system you are using and the domain name of the website from which you linked to our site or advertisement. In addition, when you view one of our websites or advertisements, we may store some information on your computer. This information will be in the form of a "cookie" or similar file and will help us in many ways. For example, cookies allow us to tailor a website or advertisement to better match your interests and preferences. Most Internet browsers enable you to erase cookies from your computer hard drive, block all cookies, or receive a warning before a cookie is stored. Please refer to your browser instructions or help screen to learn more about these functions. We do not collect personally identifiable information automatically, but we may tie information collected automatically to your previously submitted personally identifiable information.
+
+### VII. Contacting Us Regarding Your Personally Identifiable Information
+
 If you have submitted personally identifiable information through our website or interactive advertisement, or if someone else has submitted your personally identifiable information through a this website or interactive advertisement, and you would like to have that information deleted from our marketing databases, please contact us via e-mail at helpcenter@worldkitchenhelp.com. If you prefer, you may also select this Delete Personal Information link and provide us with the requested information. We will then use reasonable efforts to remove your personally identifiable information from our files. You may also contact us through either of the above methods to request the personally identifiable information that we have collected about you through its websites or interactive advertisements. We will use reasonable efforts to supply you with this information and correct any factual inaccuracies in this information.
 
 Last updated on: 21 September 06.
