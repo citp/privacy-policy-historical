@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kickstartplr.com privacy policy that was archived on 2013-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130309154255id_/http%3A//kickstartplr.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kickstartplr.com privacy policy that was archived on 2013-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131004232109id_/http%3A//kickstartplr.com/privacypolicy.php) for the most accurate reproduction.*
 
 # KickstartPLR Privacy Policy
 
