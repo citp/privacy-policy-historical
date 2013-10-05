@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seismologyonline.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610173044id_/http%3A//www.wewanttraffic.com/privacypolicy/index.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seismologyonline.com privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005092504id_/http%3A//www.wewanttraffic.com/privacypolicy/index.aspx) for the most accurate reproduction.*
 
 # Traffic Online Website Privacy and Security Statement - Traffic Online
 
