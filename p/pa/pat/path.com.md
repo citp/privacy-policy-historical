@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the path.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424010316id_/https%3A//path.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the path.com privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005093053id_/https%3A//path.com/privacy) for the most accurate reproduction.*
 
-# Path — Privacy Policy
+# Path — Privacy
 
-## Privacy Policy
-
-Our privacy policy explains how information is collected, used and disclosed by Path with respect to your access and use of Path's services, whether through our website (located at www.path.com), Path's mobile application or in connection with social networking services (referred to below as “Path”).
+Our privacy policy explains how information is collected, used and disclosed by Path with respect to your access and use of Path’s services, whether through our website (located at www.path.com), Path’s mobile application or in connection with social networking services (referred to below as “Path”).
 
 ## What Information Do We Collect?
 
 We collect certain information you provide to us when using Path, such as when you create an account and profile, send us an email or post information or other content to Path. We collect certain personal information, like your name, picture, email address and phone number, as well as certain non-identifying information, like your gender, birthday and zip code. We will also collect the contact information of your friends, if you choose to connect your contacts and address book information with Path and your login credentials to your social network accounts, such as Facebook and Twitter, if you choose to connect those accounts with your Path account.
 
-We also automatically collect certain information when you use Path, such as your location/GPS coordinates (if you enable this feature), a device identifier (but not the UDID), MAC address, Internet Protocol (IP) address (if using a browser), operating system, the browser type, the address of a referring site and your activity on Path. You can enable or disable location services when you use Path at anytime, through your mobile device settings. This information is not treated as personal information unless we combine it with or link it to any of the personally identifiable information mentioned above.
+We also automatically collect certain information when you use Path, such as your location/GPS coordinates (if you enable this feature), a device identifier (but not the UDID), MAC address, wireless service provider, Internet Protocol (IP) address (if using a browser), operating system, the browser type, the address of a referring site and your activity on Path. You can enable or disable location services when you use Path at anytime, through your mobile device settings. This information is not treated as personal information unless we combine it with or link it to any of the personally identifiable information mentioned above.
 
-We may also automatically collect certain information through the use of "cookies”. These are small files that your browser places on your computer. We may use both session cookies and persistent cookies to better understand how you interact with our services, to monitor aggregate usage by our users and web traffic routing on our services, and to improve our services. Most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit.
+We may also automatically collect certain information through the use of “cookies”. These are small files that your browser places on your computer. We may use both session cookies and persistent cookies to better understand how you interact with our services, to monitor aggregate usage by our users and web traffic routing on our services, and to improve our services. Most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit.
 
 ## How Do We Use the Information We Collect?
 
@@ -49,7 +47,7 @@ We are not responsible for the actions of service providers or other third parti
 
 ## Links to Other Sites
 
-Path may contain links to other sites. Any information you provide on those sites is provided directly to the owner of that site and is subject to that party's privacy policy. Our privacy policy does not apply to such sites, and we are not responsible for the content or privacy and security practices and policies of those sites.
+Path may contain links to other sites. Any information you provide on those sites is provided directly to the owner of that site and is subject to that party’s privacy policy. Our privacy policy does not apply to such sites, and we are not responsible for the content or privacy and security practices and policies of those sites.
 
 ## What Steps Do We Take To Protect Your Information Online?
 
