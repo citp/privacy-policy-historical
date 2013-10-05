@@ -1,13 +1,10 @@
-> *The following text is extracted and transformed from the cellphonedigest.net privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212130711id_/http%3A//www.cellphonedigest.net/shop/Privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cellphonedigest.net privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005094608id_/http%3A//www.cellphonedigest.net/shop/Privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Cell Phone Digest
 
   | 
 
-## Cell Phone Digest - cellstores Privacy Notice 2006
-
-###  PLEASE NOTE:  
-EFFECTIVE JANUARY 2006, THIS PRIVACY POLICY HAS CHANGED. 
+## Cell Phone Digest - cellstores 
 
 Thank you for visiting Cell Phone Digest, a website of Cell Phone Digest - cellstores, Inc. (“Cell Phone Digest - cellstores”). Cell Phone Digest - cellstores knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting Cell Phone Digest, you are accepting the practices described in this Privacy Notice. Cell Phone Digest - cellstores is committed to protecting the privacy of our visitor's personally identifiable information. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is used at our site. 
 
@@ -31,6 +28,14 @@ Cell Phone Digest - cellstores is a licensee of the TRUSTe Privacy Program. TRUS
 
 
 If you have questions or concerns regarding this statement, or complaints arising from our use of your personal information, please contact our Customer Service department via certified mail to Cell Phone Digest - cellstores, Inc., 1010 Wisconsin Avenue, Suite 600, Washington, DC 20007. You also may send your request via e-mail to Customer Relations. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe through the "TRUSTe WatchDog Dispute Resolution Process.” TRUSTe will then serve as a liaison with the Web site to resolve your concerns or complaints.
+
+**Site Technology**
+
+As with many Web sites, we may use "cookies" and/or other technology (e.g., web bugs, e-mail bugs, clear GIFs, web beacons and tracker GIFs) in the Site or in our communications with you to enhance the functionality of the Site and to make your transactions and other activities more convenient and efficient (collectively, "Tracking Technologies"). These technologies may vary, but in some cases may involve a small file stored locally on the computer used to access the Site, and may be used by us to store and collect information relating to your viewing and use of the Site and our correspondences with you. You may set your web browser software not to accept cookies, but, if so, certain functionality of the Site may be affected. We may collect your IP (Internet Protocol) address to help diagnose problems with our server, administer our Site and identify our users. We may also use such technologies to remember user preferences or minimize the need for you to re-enter information.
+
+Third parties (including, but not limited to, software vendors, advertisers and fulfillment companies) may also use Tracking Technologies by or through the Site. We have no control over what information such third parties track or collect, and we have no responsibility or liability for any tracking, data collection or other activities of such third parties.
+
+Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website. Google's use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the[ advertising opt-out page](http://www.google.com/privacy_ads.html). (Alternatively, you can direct users to opt out of a third-party vendor's use of cookies by visiting the Network Advertising Initiative [ opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).) 
 
 ## What Information We Collect and How We Use It
 
