@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the hancockbank.com privacy policy that was archived on 2013-01-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130116144026id_/http%3A//hancockbank.com/home/privacy-policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hancockbank.com privacy policy that was archived on 2013-10-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131005121423id_/http%3A//www.hancockbank.com/home/privacy-policy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/home_interior.dwt" codeOutsideHTMLIsLocked="false" --><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=8">
+<!-- The line below was removed on 8-15-13 to keep the color depth at 24 bit -->
+<!--<meta http-equiv="X-UA-Compatible" content="IE=8" >-->
 <!-- InstanceBeginEditable name="doctitle" -->
 <title>Hancock Bank: Privacy Policy</title>
 <!-- InstanceEndEditable -->
@@ -13,7 +14,8 @@
 -->
 </style>
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/p7tp/p7tpscripts.js"></script>
-<link href="/css/styles.css" rel="stylesheet" type="text/css">
+<link href="/css/styles_errol.css" rel="stylesheet" type="text/css">
+<link href="/css/styles_search.css" rel="stylesheet" type="text/css">
 <script type="text/javascript" src="/p7irm/p7IRMscripts.js"></script>
 <style type="text/css">
 .p7IRMpaginator {display:block !important;}
@@ -22,10 +24,6 @@
 <link href="/p7irm/p7IRM02.css" rel="stylesheet" type="text/css" media="all">
 <!--[if IE 7]>
 <style type="text/css" media="screen">
-#enroll-container {
-	padding: 20px 5px 10px 6px;
-	height: 75px;
-}
 #IEroot #search input.form-submit, #IEroot #search input.form-submit {
 width: 34px;
 font-size: 0;
@@ -37,19 +35,9 @@ width: 44px;
 text-indent: 0;
 height: 22px;
 }
+</style>
+<![endif]-->
 
-</style>
-<![endif]-->
-<!--[if IE]>
-<style type="text/css" media="screen">
-#enroll-container select {
-	background-color:#ffffff;
-	border-style:0;
-	font-size:10px;
-	width: auto;
-}
-</style>
-<![endif]-->
 <script language="javascript">
 <!--
 <!-- The section below contains a Function that sets up the links in the upper right hand corner (Enroll - Sign On - Learn More) -->
@@ -58,86 +46,60 @@ height: 22px;
 
 function change_ListMenu(v)
 {
-	// START POP-UP CODE.  THIS WAS THE CODE USED TO MAKE THE 'CHOOOSE ONE' POP-UP APPEAR.  REMOVED 3-31-12 -->
-	// NO SELECTION
-	// if (document.selection_box.section.options[v].value == "NS")
-	// {
-	//	document.getElementById("areaEnroll").href = "#";
-	//	document.getElementById("areaSignOn").href = "#";
-	//	document.getElementById("areaLearn").href = "#";
-	//	
-	// }
-	// END POP-UP CODE
-	
-	//PERSONAL E-BANKING
+    //PERSONAL E-BANKING
 	if (document.selection_box.section.options[v].value == "OB")
 	{
 		document.getElementById("areaEnroll").href = "/personal/eBanking/e-banking-enroll.asp";
-		document.getElementById("areaSignOn").href = "https://secure.hancockbank.com/online/Hancock/Consumer/login.asp";
-		document.getElementById("areaLearn").href = "/personal/ebanking/learn.asp";
-		
+		document.getElementById("areaLearn").href = "/personal/ebanking/learn.asp";	
 	}
+
 	//BUSINESS E-BANKING
 	if (document.selection_box.section.options[v].value == "BB")
 	{
 		document.getElementById("areaEnroll").href = "/small-business/eBanking/sb-ebanking-enroll.asp";
-		document.getElementById("areaSignOn").href = "https://secure.hancockbank.com/online/Hancock/Business/login.asp";
-		document.getElementById("areaLearn").href = "/small-business/eBanking/sb-business-e-banking.asp";
-		
+		document.getElementById("areaLearn").href = "/small-business/eBanking/sb-business-e-banking.asp";	
 	}
+
 	//TREASURY SOLUTION
-	if (document.selection_box.section.options[v].value == "CM")
-	{
-		document.getElementById("areaEnroll").href = "/commercial/treasury-services/com-treasury-services-list.asp";
-		document.getElementById("areaSignOn").href = "https://www.hwtreasurysolution.com/COLB/";
-		document.getElementById("areaLearn").href = "/commercial/treasury-services/treasury-solution.asp";
-		
-	}
+	if (document.selection_box.section.options[v].value == "CM") window.location.href = "https://www.hwtreasurysolution.com/COLB/";
+
 	//TRUST AND ASSET MANAGEMENT
-	if (document.selection_box.section.options[v].value == "TA")
-	{
-		document.getElementById("areaEnroll").href = "/personal/trust-asset-management.asp";
-		document.getElementById("areaSignOn").href = "/home/bump-page-trust.asp";
-		document.getElementById("areaLearn").href = "/personal/trust-asset-management.asp";
-		
-	}
+	if (document.selection_box.section.options[v].value == "TA") window.location.href = "/home/bump-page-trust.asp";
+
 	//ONLINE TRUST 401K
-	if (document.selection_box.section.options[v].value == "OI")
-	{
-		document.getElementById("areaEnroll").href = "/small-business/sb-trust-and-asset-management.asp#retirementplanserv";
-		document.getElementById("areaSignOn").href = "/home/bump-page-401k.asp";
-		document.getElementById("areaLearn").href = "/personal/trust-asset-management.asp#retirementplanserv ";
-		
-	}
+	if (document.selection_box.section.options[v].value == "OI") window.location.href = "/home/bump-page-401k.asp";
+
 	//INVESTMENT SERVICES
-	if (document.selection_box.section.options[v].value == "OT")
-	{
-		document.getElementById("areaEnroll").href = "/personal/investment-services.asp";
-		document.getElementById("areaSignOn").href = "/home/bump-page-investment.asp";
-		document.getElementById("areaLearn").href = "/home/bump-page-investment.asp";
-		
-	}
+	if (document.selection_box.section.options[v].value == "OT") window.location.href = "/home/bump-page-investment.asp";
+
 	//SHAREHOLDER SERVICES
-	if (document.selection_box.section.options[v].value == "SS")
+	if (document.selection_box.section.options[v].value == "SS") window.location.href = "https://www.hancockshareholder.com/hancock/mysignon.asp";
+}
+
+function validateURL()
+{
+    //PERSONAL E-BANKING
+	if (document.selection_box.section.options[document.selection_box.section.selectedIndex].value == "OB")
 	{
-		document.getElementById("areaEnroll").href = "https://www.hancockshareholder.com/hancock/mysignon.asp";
-		document.getElementById("areaSignOn").href = "https://www.hancockshareholder.com/hancock/mysignon.asp";
-		document.getElementById("areaLearn").href = "http://www.snl.com/IRWebLinkX/GenPage.aspx?IID=100308&GKP=204914";
-		
+		document.getElementById("areaEnroll").href = "/personal/eBanking/e-banking-enroll.asp";
+		document.getElementById("areaLearn").href = "/personal/ebanking/learn.asp";	
+	}
+
+	//BUSINESS E-BANKING
+	if (document.selection_box.section.options[document.selection_box.section.selectedIndex].value == "BB")
+	{
+		document.getElementById("areaEnroll").href = "/small-business/eBanking/sb-ebanking-enroll.asp";
+		document.getElementById("areaLearn").href = "/small-business/eBanking/sb-business-e-banking.asp";	
 	}
 }
-<!-- ALERT Function has been added here for instances when nothing is selected.  This code was commented out on 3-31-12 -->
-// function checkLoginStatus(t)
-// {
-//	if (document.selection_box.section.options[document.selection_box.section.selectedIndex].value == "NS")
-//	{
-//		alert('Choose an option to ' + t);
-//		
-//	}
-// }
-//-->
 </script>
+
 <!-- InstanceBeginEditable name="head" -->
+<style type="text/css">
+<!--
+.style1 {font-size: 15px}
+-->
+</style>
 <!-- InstanceEndEditable -->
 
 <script type="text/javascript">
@@ -154,6 +116,332 @@ function change_ListMenu(v)
 
 </script>
 
+<!-- NOTRS - NEW JAVASCRIPT TO HANDLE LOGIN AND FORGOT PASSWORD -->
+<script type="text/javascript" src="/scripts/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="/scripts/jquery.placeholder-enhanced.min.js"></script>
+
+<style>
+   .placeholder { color: #aaa; }
+</style>
+
+<script type="text/javascript">
+
+    $(document).ready(function () {
+        $(window).on("load resize", function () {
+            var offset = $(this).width() - 942;
+            offset = offset / 2;
+            offset = offset + 942 - $("#enroll-container").width() - 8;
+            $("#enroll-container").css('left', offset);
+        });
+        $(document).bind('keydown', function (e) {
+            if (e.keyCode == 13) {
+                if (document.getElementById("user").value.length > 0 && document.getElementById("PIN").value.length > 0) handleSignOnClick();
+            }
+        });
+    });
+
+    function handleSignOnClick() {
+
+        if (document.selection_box.section.selectedIndex == 0 || document.selection_box.section.selectedIndex == 1) {
+
+            if (document.getElementById("user").value.length == 0) {
+                alert("User ID cannot be empty. Please try again.");
+                document.getElementById("user").focus(); return; 
+            }
+
+            if (document.getElementById("PIN").value.length == 0) {
+                alert("Password cannot be empty. Please try again.");
+                document.getElementById("PIN").focus(); return; 
+            }
+
+            var form = document.createElement("form");
+
+            //Move the submit function to another variable so that it doesn't get overwritten.
+            form._submit_function_ = form.submit;
+
+            form.setAttribute("name", "frmLogin");
+            form.setAttribute("id", "frmLogin");
+
+            form.setAttribute("method", "POST");
+            form.setAttribute("action", "https://secure.hancockbank.com/SignOn/SignOn.asp");
+
+            var field1 = document.createElement("input");
+            field1.setAttribute("type", "hidden");
+            field1.setAttribute("name", "user");
+            field1.setAttribute("value", document.getElementById("user").value);
+            form.appendChild(field1);
+
+            var field2 = document.createElement("input");
+            field2.setAttribute("type", "hidden");
+            field2.setAttribute("name", "PIN");
+            field2.setAttribute("value", document.getElementById("PIN").value);
+            form.appendChild(field2);
+
+            var field3 = document.createElement("input");
+            field3.setAttribute("type", "hidden");
+            field3.setAttribute("name", "RemoteLogin");
+            field3.setAttribute("value", "true");
+            form.appendChild(field3);
+
+            var field5 = document.createElement("input");
+            field5.setAttribute("type", "hidden");
+            field5.setAttribute("name", "BankFIID");
+            field5.setAttribute("value", "Hancock");
+            form.appendChild(field5);
+
+            var field6 = document.createElement("input");
+            field6.setAttribute("type", "hidden");
+            field6.setAttribute("name", "BankFolder");
+            field6.setAttribute("value", "Hancock");
+            form.appendChild(field6);
+
+            if (document.selection_box.section.selectedIndex == 0) {
+
+                var field4 = document.createElement("input");
+                field4.setAttribute("type", "hidden");
+                field4.setAttribute("name", "ExitURL");
+                field4.setAttribute("value", "https://secure.hancockbank.com/online/Hancock/Consumer/login.asp");
+                form.appendChild(field4);
+
+                var field7 = document.createElement("input");
+                field7.setAttribute("type", "hidden");
+                field7.setAttribute("name", "BrandID");
+                field7.setAttribute("value", "1");
+                form.appendChild(field7);
+
+                var field8 = document.createElement("input");
+                field8.setAttribute("type", "hidden");
+                field8.setAttribute("name", "BrandFolder");
+                field8.setAttribute("value", "Consumer");
+                form.appendChild(field8);
+
+                var field9 = document.createElement("input");
+                field9.setAttribute("type", "hidden");
+                field9.setAttribute("name", "BrandType");
+                field9.setAttribute("value", "R");
+                form.appendChild(field9);
+            }
+
+            else if (document.selection_box.section.selectedIndex == 1) {
+
+                var field4 = document.createElement("input");
+                field4.setAttribute("type", "hidden");
+                field4.setAttribute("name", "ExitURL");
+                field4.setAttribute("value", "https://secure.hancockbank.com/online/Hancock/business/login.asp");
+                form.appendChild(field4);
+
+                var field7 = document.createElement("input");
+                field7.setAttribute("type", "hidden");
+                field7.setAttribute("name", "BrandID");
+                field7.setAttribute("value", "2");
+                form.appendChild(field7);
+
+                var field8 = document.createElement("input");
+                field8.setAttribute("type", "hidden");
+                field8.setAttribute("name", "BrandFolder");
+                field8.setAttribute("value", "Business");
+                form.appendChild(field8);
+
+                var field9 = document.createElement("input");
+                field9.setAttribute("type", "hidden");
+                field9.setAttribute("name", "BrandType");
+                field9.setAttribute("value", "B");
+                form.appendChild(field9);
+            }
+
+            var field10 = document.createElement("input");
+            field10.setAttribute("type", "hidden");
+            field10.setAttribute("name", "UserJavaPlatForm");
+            field10.setAttribute("value", navigator.platform);
+            form.appendChild(field10);
+
+            var field11 = document.createElement("input");
+            field11.setAttribute("type", "hidden");
+            field11.setAttribute("name", "UserJavaBrowser");
+            field11.setAttribute("value", navigator.appName);
+            form.appendChild(field11);
+
+            var field12 = document.createElement("input");
+            field12.setAttribute("type", "hidden");
+            field12.setAttribute("name", "UserJavaVersion");
+            field12.setAttribute("value", navigator.appVersion);
+            form.appendChild(field12);
+
+            var field13 = document.createElement("input");
+            field13.setAttribute("type", "hidden");
+            field13.setAttribute("name", "UserJavaCodeName");
+            field13.setAttribute("value", navigator.appCodeName);
+            form.appendChild(field13);
+
+            var field14 = document.createElement("input");
+            field14.setAttribute("type", "hidden");
+            field14.setAttribute("name", "UserJavaColorDepth");
+            field14.setAttribute("value", window.screen.colorDepth);
+            form.appendChild(field14);
+
+            var field15 = document.createElement("input");
+            field15.setAttribute("type", "hidden");
+            field15.setAttribute("name", "UserJavaColors");
+            field15.setAttribute("value", Math.pow(2, window.screen.colorDepth));
+            form.appendChild(field15);
+
+            var field16 = document.createElement("input");
+            field16.setAttribute("type", "hidden");
+            field16.setAttribute("name", "UserJavaCurrentResolution");
+            field16.setAttribute("value", window.screen.width + "x" + window.screen.height);
+            form.appendChild(field16);
+
+            var field17 = document.createElement("input");
+            field17.setAttribute("type", "hidden");
+            field17.setAttribute("name", "UserJavaMaxResolution");
+            field17.setAttribute("value", window.screen.availWidth + "x" + window.screen.availHeight);
+            form.appendChild(field17);
+
+            var field18 = document.createElement("input");
+            field18.setAttribute("type", "hidden");
+            field18.setAttribute("name", "UserJavaEnabled");
+            field18.setAttribute("value", navigator.javaEnabled() < 1 ? "No" : "Yes");
+            form.appendChild(field18);
+
+            var field19 = document.createElement("input");
+            field19.setAttribute("type", "hidden");
+            field19.setAttribute("name", "UserJavaAAFonts");
+            field19.setAttribute("value", window.screen.fontSmoothingEnabled ? "Yes" : "No");
+            form.appendChild(field19);
+
+            var plugIns = "";
+
+            for (var i = 0; i < navigator.plugins.length; i++) plugIns = plugIns + " " + navigator.plugins[i].name;
+
+            var field20 = document.createElement("input");
+            field20.setAttribute("type", "hidden");
+            field20.setAttribute("name", "UserJavaPlugins");
+            field20.setAttribute("value", plugIns);
+            form.appendChild(field20);
+
+            var field21 = document.createElement("input");
+            field21.setAttribute("type", "hidden");
+            field21.setAttribute("name", "UserJavaUTCOffset");
+            field21.setAttribute("value", new Date().getTimezoneOffset() / 60);
+            form.appendChild(field21);
+
+            document.body.appendChild(form);
+
+            //Call the renamed function.
+            form._submit_function_();
+        }
+    }
+
+    function handleResetPassword() {
+
+        var form = document.createElement("form");
+
+        //Move the submit function to another variable so that it doesn't get overwritten.
+        form._submit_function_ = form.submit;
+
+        form.setAttribute("name", "frmPasswordReset");
+        form.setAttribute("id", "frmPasswordReset");
+
+        form.setAttribute("method", "POST");
+        form.setAttribute("action", "https://secure.hancockbank.com/Signon/FPFrame.asp");
+
+        var field3 = document.createElement("input");
+        field3.setAttribute("type", "hidden");
+        field3.setAttribute("name", "RemoteLogin");
+        field3.setAttribute("value", "true");
+        form.appendChild(field3);
+
+        var field5 = document.createElement("input");
+        field5.setAttribute("type", "hidden");
+        field5.setAttribute("name", "BankFIID");
+        field5.setAttribute("value", "Hancock");
+        form.appendChild(field5);
+
+        var field6 = document.createElement("input");
+        field6.setAttribute("type", "hidden");
+        field6.setAttribute("name", "BankFolder");
+        field6.setAttribute("value", "Hancock");
+        form.appendChild(field6);
+
+        if (document.selection_box.section.selectedIndex == 0) {
+
+            var field4 = document.createElement("input");
+            field4.setAttribute("type", "hidden");
+            field4.setAttribute("name", "ExitURL");
+            field4.setAttribute("value", "https://secure.hancockbank.com/online/Hancock/Consumer/login.asp");
+            form.appendChild(field4);
+
+            var field7 = document.createElement("input");
+            field7.setAttribute("type", "hidden");
+            field7.setAttribute("name", "BrandID");
+            field7.setAttribute("value", "1");
+            form.appendChild(field7);
+
+            var field8 = document.createElement("input");
+            field8.setAttribute("type", "hidden");
+            field8.setAttribute("name", "BrandFolder");
+            field8.setAttribute("value", "Consumer");
+            form.appendChild(field8);
+
+            var field9 = document.createElement("input");
+            field9.setAttribute("type", "hidden");
+            field9.setAttribute("name", "BrandType");
+            field9.setAttribute("value", "R");
+            form.appendChild(field9);
+        }
+
+        else if (document.selection_box.section.selectedIndex == 1) {
+
+            var field4 = document.createElement("input");
+            field4.setAttribute("type", "hidden");
+            field4.setAttribute("name", "ExitURL");
+            field4.setAttribute("value", "https://secure.hancockbank.com/online/Hancock/business/login.asp");
+            form.appendChild(field4);
+
+            var field7 = document.createElement("input");
+            field7.setAttribute("type", "hidden");
+            field7.setAttribute("name", "BrandID");
+            field7.setAttribute("value", "2");
+            form.appendChild(field7);
+
+            var field8 = document.createElement("input");
+            field8.setAttribute("type", "hidden");
+            field8.setAttribute("name", "BrandFolder");
+            field8.setAttribute("value", "Business");
+            form.appendChild(field8);
+
+            var field9 = document.createElement("input");
+            field9.setAttribute("type", "hidden");
+            field9.setAttribute("name", "BrandType");
+            field9.setAttribute("value", "B");
+            form.appendChild(field9);
+        }
+
+        document.body.appendChild(form);
+
+        //Call the renamed function.
+        form._submit_function_();
+    }
+
+</script>
+
+<script type="text/javascript">
+    (function () {
+        var s = document.createElement('script'), attrs = { src: (window.location.protocol == "https:" ? "https:" : "http:") + "//" + "ww7.hancockbank.com/32169/77a.js", async: true, type: "text/javascript" };
+        for (var k in attrs) { s.setAttribute(k, attrs[k]) }
+        document.getElementsByTagName('head')[0].appendChild(s);
+    })();
+</script><script src="https://ww7.hancockbank.com/32169/77a.js" async="true" type="text/javascript"></script>
+
+<script type="text/javascript">
+    (function () {
+        var bt = "text/java", z = document, fh = z.getElementsByTagName('head')[0], k = 'script', j = (window.location.protocol == "https:" ? "https:/" : "http:/");
+        var y = z.createElement(k); y.async = true; y.type = bt + k; y.src = [j, "ww7.hancockbank.com", "32169", "Zza.js"].join("/");
+        fh.appendChild(y);
+    })();
+</script><script async="" type="text/javascript" src="https://ww7.hancockbank.com/32169/Zza.js"></script>
+<!-- END OF NOTRS - NEW JAVASCRIPT TO HANDLE LOGIN AND FORGOT PASSWORD -->
+
 </head>
 
 <body onload="P7_initTP(3,0)">
@@ -169,7 +457,7 @@ function change_ListMenu(v)
                       	<a href="/home/locate-us.asp">Locate Us</a> | <a href="/home/home-contact.asp">Contact Us</a> | <a href="http://www.hancockholdingcareers.com" target="_blank">Careers</a></p>
                         
                         
-                <form action="http://search.hancockbank.com/search" method="get" name="gs" style="margin-bottom:0">
+                <!--<form action="http://hancockbank.com/search" method="get" name="gs" STYLE="margin-bottom:0">
           			<input name="sort" value="date:D:L:d1" type="hidden">
           			<input name="oe" value="UTF-8" type="hidden">
           			<input name="ie" value="UTF-8" type="hidden">
@@ -179,7 +467,9 @@ function change_ListMenu(v)
           			<input name="proxystylesheet" value="hb_frontend" type="hidden">
           			<input name="q" size="15" maxlength="255" value="Search" type="text" onfocus="if (this.value == 'Search') this.value = '';">
         			<input name="btnG" type="submit" value="Search" class="form-submit">
-        		</form>
+        		</form>-->
+                
+                <iframe class="searchFrame" src="/search/search-form.html" frameborder="0" allowtransparency="true"></iframe>
                 
                 
                 
@@ -196,39 +486,49 @@ function change_ListMenu(v)
        	        </div>
             
             </div>
-            <div id="enroll-container">
-            	<form method="get" action="#" name="selection_box">
-                <p>
-                  <select name="section" onchange="change_ListMenu(document.selection_box.section.selectedIndex);">
-                    <!-- <option value="NS" selected>&lt; Choose One &gt;</option> -->
-                    <option value="OB" selected="">Personal e-Banking</option>
-                    <option value="BB">Business e-Banking</option>
-                    <option value="CM">Treasury Solution</option>
-                    <option value="TA">Trust &amp; Asset Mgt.</option>
-                    <option value="OT">Investment Services</option>
-                    <option value="OI">Online Trust-401k</option>
-                    <option value="SS">Shareholder Services</option>
-                  </select>
-                <br>
-<img src="/images/logon-block-text.gif" width="121" height="47" border="0" usemap="#Map"> </p>
-
-	<!--The MAP tag below contains the coordinates for the 3 hotspots (Enroll, Sign-On, Learn More). -->
-<!--The IDs populate the 3 buttons with the correct links.  Those links are found in the function listed above in the Script.  -->
-<!--The links currently in the href are the default link settings and will be replaced when the user selects an item from the pull-down menu. -->
-
-	<map name="Map">
-		<area shape="rect" coords="0,7,47,28" href="http://www.hancockbank.com/personal/eBanking/e-banking-enroll.asp" onclick="document.selection_box.section.selectedIndex = 0;" alt="Enroll" id="areaEnroll">
-  		<area shape="rect" coords="57,7,121,27" href="https://secure.hancockbank.com/online/Hancock/Consumer/login.asp" onclick="document.selection_box.section.selectedIndex = 0;" alt="Sign On" id="areaSignOn">
-		<area shape="rect" coords="12,28,108,46" href="http://www.hancockbank.com/personal/ebanking/learn.asp" onclick="document.selection_box.section.selectedIndex = 0;" alt="Learn More" id="areaLearn">
-		<!-- START POP-UP CODE.  THIS WAS THE CODE USED TO MAKE THE 'CHOOOSE ONE' POP-UP APPEAR.  REMOVED 3-31-12 ---
-        <area shape="rect" coords="0,7,47,28" href="#" ONCLICK="checkLoginStatus('Enroll');document.selection_box.section.selectedIndex = 0;" alt="Enroll" id="areaEnroll">
-  		<area shape="rect" coords="57,7,121,27" href="#" ONCLICK="checkLoginStatus('Sign On');document.selection_box.section.selectedIndex = 0;" alt="Sign On" id="areaSignOn">
-		<area shape="rect" coords="12,28,108,46" href="#" ONCLICK="checkLoginStatus('Learn More');document.selection_box.section.selectedIndex = 0;" alt="Learn More" id="areaLearn">
-        --- END POP-UP CODE-->
-	</map>
-    
-              </form>
+            
+            <!-- NOTRS - NEW ENROLL CONTAINER -->
+            <div id="enroll-container" name="enroll-container" style="left: 997px;">
+                <img usemap="#Map" src="/images/enroll-area-clear.png">
+            	<form action="#" method="get" name="selection_box" style="margin-bottom: 0">
+                    <table>
+                        <tbody><tr>
+                            <td>
+                                <select name="section" onchange="change_ListMenu(document.selection_box.section.selectedIndex);">
+                                    <option value="OB" selected="">Personal e-Banking</option>
+                                    <option value="BB">Business e-Banking</option>
+                                    <option value="CM">Treasury Solution</option>
+                                    <option value="TA">Trust &amp; Asset Mgt.</option>
+                                    <option value="OT">Investment Services</option>
+                                    <option value="OI">Online Trust-401k</option>
+                                    <option value="SS">Shareholder Services</option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <input name="user" id="user" type="text" size="15" value="" maxlength="20" placeholder="Logon ID" class="placeholder">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <input name="PIN" id="PIN" type="password" size="15" value="" maxlength="32" placeholder="Password" class="placeholder">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="javascript:handleResetPassword();">Forgot your password?</a>
+                            </td>
+                        </tr>
+                    </tbody></table>
+	                <map name="Map">
+    	                <area shape="rect" coords="11,94,71,113" href="http://www.hancockbank.com/personal/eBanking/e-banking-enroll.asp" onclick="validateURL();" alt="Enroll" id="areaEnroll">
+  		                <area shape="rect" coords="75,94,135,113" href="#" onclick="return handleSignOnClick();" alt="Sign On" id="areaSignOn">
+		                <area shape="rect" coords="11,117,135,136" href="http://www.hancockbank.com/personal/ebanking/learn.asp" onclick="validateURL();" alt="Learn More" id="areaLearn">
+	                </map>
+                </form>
             </div>
+            <!-- END OF NEW NOTRS ENROLL CONTAINER-->
             
         </div>
         <div id="subnav" class="clearfix">
@@ -478,7 +778,7 @@ function change_ListMenu(v)
    	    <h2>E-mail and Product Inquiry</h2>
    	    <p class="h2-after">Through use of a "Contact Us" feedback form, Hancock Bank invites visitors on its Web sites to send e-mail messages to Hancock Bank so that Hancock Bank may respond to inquiries regarding Hancock Bank or its products or services. Hancock Bank retains copies of these e-mail messages. The information provided by a visitor will only be used to respond to the visitor's inquiry and to provide better customer service. If Hancock Bank thinks that a particular Hancock Bank account or service might apply to you or serve your needs, then Hancock Bank may occasionally contact you at your e-mail address to inform you of the potential benefits and availability of such accounts or services. Unless otherwise stated, all e-mail inquiries initiated from Hancock Bank's web site by the user are assumed to be non-secured and therefore may be transmitted in the "open" over the Internet.</p>
    	    <h2>Applications for Products and Services</h2>
-   	    <p class="h2-after">Through its Web site, Hancock Bank offers opportunities to apply for various products and services online, such as PC banking and brokerage services. Visitors who choose to apply for such products and services provide personal information Hancock Bank needs to process the application. To protect the confidentiality of the information submitted, Hancock Bank uses secure socket layer (SSL) technology. SSL technology establishes a "secure" Internet session and encodes the data submitted to the Hancock Bank Web site, ensuring that the information is accessible only to an authorized Hancock Bank representative and the customer. To support SSL, customers must have an Internet browser that supports state-of-the-art 128-bit "strong" encryption, such as Netscape 6.1 and higher, Microsoft's Internet Explorer 6.0 and higher, and AOL 3.0 (Windows). A customer can tell whether a document comes from a secure server by looking at the location (URL) field. If the URL begins with https:// (instead of http://), the document comes from a secure server. After you have submitted an application online, Hancock Bank recommends that you end your browser session before leaving your computer.</p>
+   	    <p class="h2-after">Through its Web site, Hancock Bank offers opportunities to apply for various products and services online, such as PC banking and brokerage services. Visitors who choose to apply for such products and services provide personal information Hancock Bank needs to process the application. To protect the confidentiality of the information submitted, Hancock Bank uses secure socket layer (SSL) technology. SSL technology establishes a "secure" Internet session and encodes the data submitted to the Hancock Bank Web site, ensuring that the information is accessible only to an authorized Hancock Bank representative and the customer. To support SSL, we recommend that you update your preferred browser to its most current version. A customer can tell whether a document comes from a secure server by looking at the location (URL) field. If the URL begins with https:// (instead of http://), the document comes from a secure server. After you have submitted an application online, Hancock Bank recommends that you end your browser session before leaving your computer. </p>
    	    <h2>Protecting Your Bank Online</h2>
    	    <p class="h2-after">When you bank online with Hancock Bank, we, along with our third-party service providers who bring these services to you, have access to your information. Information is retained on our system or the system of the appropriate third-party service provider, depending upon what is required to serve your needs. We use state-of-the-art Internet technology, supported by the third-party service providers that we work with, to make e-Banking secure and to protect your personal information. We also require an I.D. and password to access your accounts. If you do not provide this information, we cannot establish an e-Banking service for you. You can also help maintain the security of your banking information by not sharing your ID or password with anyone, by changing your password regularly, and by remembering to sign off.</p>
    	    <h2>Planning Tools and Personal Data</h2>
@@ -486,8 +786,9 @@ function change_ListMenu(v)
    	    <h2>Applications for Employment</h2>
    	    <p class="h2-after">Hancock Bank offers visitors to its Web site the opportunity to inquire about employment opportunities posted on the Web site. When enabled, applicants may also submit online resumes on the Web site. The information submitted is used solely to evaluate prospective candidates and to communicate regarding an open position.</p>
    	    <h2>Transactional Services</h2>
-   	    <p class="h2-after">Within its website, Hancock Bank collects personal information necessary to complete transactions or provide data requested by the visitor (for example, account balances and check clearance dates). To protect the confidentiality of the information submitted, Hancock Bank requires that visitors have a browser that supports 128-bit "strong" encryption, i.e., Netscape 6.1 and higher, Microsoft's Internet Explorer 6.0 and higher and AOL 3.0 (Windows).</p>
-   	    <h2>Use of Cookies</h2>
+   	    <p><span style="font-family:Arial, Helvetica, sans-serif;">Within  its website, Hancock Bank collects personal information necessary to complete  transactions or provide data requested by the visitor (for example, account  balances and check clearance dates). To protect the confidentiality of the  information submitted, Hancock Bank requires that visitors have a browser that  supports 128-bit "strong" encryption.&nbsp;  We recommend that you update your preferred browser to its most current  version.</span></p>
+        <p style="margin-bottom: 0;">&nbsp;</p>
+<h2 style="margin-top: 0;">Use of Cookies</h2>
    	    <p>A cookie is a small piece of information about an Internet session that may be created when a visitor accesses a Web site. Presently, Hancock Bank's Web site uses cookies to facilitate easier navigation within the site and provide a higher level of convenience for the visitor. The cookies used by Hancock Bank...</p>
    	    <ul>
    	      <li> Are not written to the visitor's hard drive*</li>
@@ -502,8 +803,11 @@ function change_ListMenu(v)
    	    <p class="h2-after">Certain Hancock Bank employees will be provided with a visitor's information in order to respond to that visitor's needs and provide the visitor with information regarding specific products in which the visitor may have an interest. Hancock Bank employees are instructed to use strict standards of care in handling the personal, confidential information of Hancock Bank customers, and the handling of such information is dealt within Hancock Bank's Code of Conduct. Hancock Bank employees who do not conform to Hancock Bank's confidentiality rules are subject to disciplinary sanctions that include dismissal.</p>
    	    <h2>Keeping Information Accurate</h2>
    	    <p class="h2-after">Keeping your account information accurate and up-to-date is very important. If you ever find that our records are incomplete, inaccurate or not current, please call the telephone number on your account statement or e-mail <a href="mailto: service@hancockbank.com">customer service</a>. We will correct the information as quickly as possible.</p>
-   	    <h2>Visitors</h2>
-   	    <p class="h2-after">Visitors having specific questions regarding any information may e-mail Hancock Bank at <a href="mailto:service@hancockbank.com">service@hancockbank.com</a>.</p>
+<p class="h2-after"><span class="body-container-blue-text style1"><strong>Children’s Online Privacy</strong></span><br>
+  Hancock Bank does not collect information on our web sites from persons we actually know are under 13 years old, and no part of our web site is targeted toward any person under 13 years old. Parents can limit web site access by their children by installing programs that enable parental control of Internet access.</p>
+<p>Children under the age of 13 are protected from the online collection of personal information by the Children's Online Privacy Protection Act (COPPA). To learn more about COPPA visit the Federal Trade Commission's web site (www.ftc.gov).</p>
+<p class="style1 body-container-blue-text"><strong>Visitors</strong></p>
+<p class="h2-after">Visitors having specific questions regarding any information may <a href="http://hancockbank.com/home/home-e-mail.asp">e-mail</a> Hancock Bank.</p>
    	    <h1 align="center">&nbsp;</h1>
         <p>&nbsp;</p>
     	<!-- InstanceEndEditable -->
