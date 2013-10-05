@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pchlotto.com privacy policy that was archived on 2013-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130403143400id_/http%3A//privacy.pch.com/play-and-win-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pchlotto.com privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006000359id_/http%3A//privacy.pch.com/play-and-win-privacy) for the most accurate reproduction.*
 
 # PCH Privacy Policy
 
