@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the safecharge.com privacy policy that was archived on 2013-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130302163611id_/http%3A//www.safecharge.com/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safecharge.com privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005205613id_/http%3A//www.safecharge.com/en/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | SafeCharge
 
-This Privacy Policy is intended for those browsing/using Safecharge.com and other informative websites (jointly: "Site") owned and operated by Safecharge International Group Limited and its affiliates and subsidiaries ("We" or "Us") and describes and explains how We treat information that is received and/or collected, when received or collected, through your browse/use of the Site.
+This Privacy Policy is intended for those browsing/using Safecharge.com and other informative websites (jointly: "Site") owned and operated by Safecharge Limited and its affiliates and subsidiaries ("We" or "Us") and describes and explains how We treat information that is received and/or collected, when received or collected, through your browse/use of the Site.
 
 YOUR CONSENT
 
@@ -52,4 +52,4 @@ QUESTIONS:
 
 Should you have other questions or concerns about this privacy policy please contact us at info@safecharge.com.
 
-Effective Date: January 31, 2013
+Effective Date: September 2013
