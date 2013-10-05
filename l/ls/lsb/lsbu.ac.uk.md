@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lsbu.ac.uk privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118204236id_/http%3A//www.lsbu.ac.uk/accessibility/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lsbu.ac.uk privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005233505id_/http%3A//www.lsbu.ac.uk/accessibility/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Statement | London South Bank University
 
@@ -20,4 +20,4 @@ Visitor statistics do not contain any personally identifiable information about 
 
 ## Our use of cookies
 
-You can find out more about what cookies are and how we use them across the LSBU website on our dedicated [cookie usage page](https://web.archive.org/web/20130118204236id_/http%3A//www.lsbu.ac.uk/accessibility/cookies.shtml).
+You can find out more about what cookies are and how we use them across the LSBU website on our dedicated [cookie usage page](https://web.archive.org/web/20131005233505id_/http%3A//www.lsbu.ac.uk/accessibility/cookies.shtml).
