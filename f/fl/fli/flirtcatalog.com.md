@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flirtcatalog.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615004818id_/http%3A//www.flirtcatalog.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flirtcatalog.com privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005155941id_/http%3A//www.flirtcatalog.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Sexy Dresses, Clubwear, Swimwear, Costumes & Lingerie | Flirt Catalog
+# FlirtCatalog.com - Women's Apparel, Sexy Dresses, Sexy Swimwear, Shoes, Accessories & Sexy Costumes.
 
 Onestop Internet, Inc. ("Onestop") operates this Web Site, pursuant to contractual agreements with Flirt Catalog ("Flirt Catalog"), the designer and manufacturer of products sold on this Web Site. Onestop and Company are not affiliates of one another and have no relationship with one another other than through these agreements. Both Onestop and Company ("we" or "us") recognize that you care how information about you is used and shared. We have created this Privacy Policy to inform you of our information collection, use and sharing practices for this Web Site. Please also review our [Terms & Conditions](https://web.archive.org/terms) which also govern your use of this Web Site. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms & Conditions](https://web.archive.org/terms).
 
