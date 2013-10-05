@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the leagueofcomicgeeks.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531133204id_/http%3A//leagueofcomicgeeks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leagueofcomicgeeks.com privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005100322id_/http%3A//leagueofcomicgeeks.com/privacy-policy) for the most accurate reproduction.*
 
-# League of Comic Geeks - Privacy Policy
+# League of Comic Geeks Privacy Policy
 
 **What information do we collect?**
 
-We collect information from you when you register on our website or subscribe to our newsletter, though we only require your chosen username, password, and email address.
-
-When registering on our site, you will be asked to enter your name and e-mail address. You may, however, visit our site anonymously without creating an account.
+We collect information from you when you register on our website. When registering on our site, you will be asked to enter a username, password, and email address. You may, however, visit our site anonymously without creating an account.
 
 Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
