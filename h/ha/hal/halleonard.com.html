@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the halleonard.com privacy policy that was archived on 2013-04-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130427224103id_/http%3A//www.halleonard.com/privacyPolicy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the halleonard.com privacy policy that was archived on 2013-10-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131005091531id_/http%3A//www.halleonard.com/privacyPolicy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 	
@@ -134,6 +134,10 @@ div#cfContainer {
 
 
 
+<script type="text/javascript">
+	var secureSiteUrl = 'https://www.halleonard.com';
+	var siteId = '461';
+</script>
 <tbody><tr class="np">
 	
 	<td width="840" bgcolor="#3399FF">
@@ -243,7 +247,7 @@ div#cfContainer {
 							</td>
 							<td width="15" align="center">|</td>
 							<td>
-								<a href="/consumer/viewwishlist.do">Wish List</a>
+								<a href="/consumer/myAccount/viewwishlist.do">Wish List</a>
 							</td>
 							<td width="15" align="center">|</td>
 							<td>
@@ -722,10 +726,22 @@ div#cfContainer {
 <table border="0" align="center" width="840" bgcolor="#FFFFFF">
 	<tbody><tr>
 		<td height="20" valign="bottom" class="pageContent" style="text-align: center; font-size: 8pt;">
-			© Copyright Sat Apr 27 17:41:03 CDT 2013 Hal Leonard Corporation - All rights reserved. View our <a href="/privacyPolicy.jsp">privacy policy</a>.
+			© Copyright Sat Oct 05 04:15:31 CDT 2013 Hal Leonard Corporation - All rights reserved. View our <a href="/privacyPolicy.jsp">privacy policy</a>.
 		</td>
 	</tr>
 </tbody></table>
 </div>
+
+<script>
+
+$(document).ready( function() {
+    var refreshTime = 1200000;
+    window.setInterval( function() {
+    	var url = 'http://www.halleonard.com/hloMonitor.jsp';
+        $.get( url );
+    }, refreshTime );
+});
+
+</script>
 
 </body></html>
