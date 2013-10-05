@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the gbsie.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430091750id_/http%3A//gbsie.com/%3Fl%3Den%26m%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gbsie.com privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005222808id_/http%3A//gbsie.com/%3Fl%3Den%26m%3Dprivacy) for the most accurate reproduction.*
 
 # GBSIE - Global Business System Independent Entrepreneur | Глобальная Бизнес Система Независимых Предпринимателей
 
  
 
 **PRIVACY POLICY**  
-**LAST UPDATED   **  JANUARY 14, 2013
+**LAST UPDATED   **  MAY 1, 2013
 
 Thank you for visiting GBSIE (our "Site"). GBSIE appreciates the opportunity to interact with you on the Internet and is committed to protecting and safeguarding your privacy. The purpose of this Privacy Statement is to inform you about the types of information we might collect about you when you visit our Site, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct that information.  
  
