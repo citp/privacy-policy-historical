@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instem.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621031210id_/http%3A//www.instem.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instem.com privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006003450id_/http%3A//www.instem.com/privacy.html) for the most accurate reproduction.*
 
 # Instem Privacy Policy
 
@@ -54,7 +54,7 @@ If at any time you need to give information to us about another person, for exam
 
 
 
-We use technologies called cookies to gather information about your computer use.  A cookie is a piece of text placed on your browser or hard drive.   Further information about how we use cookies can be found in our cookies statement which you can access by clicking [here](https://web.archive.org/web/20130621031210id_/http%3A//www.instem.com/cookies.html).
+We use technologies called cookies to gather information about your computer use.  A cookie is a piece of text placed on your browser or hard drive.   Further information about how we use cookies can be found in our cookies statement which you can access by clicking [here](https://web.archive.org/web/20131006003450id_/http%3A//www.instem.com/cookies.html).
 
   * **Your rights**
 
