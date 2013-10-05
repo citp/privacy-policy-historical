@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pricedekho.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519124059id_/http%3A//www.pricedekho.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricedekho.com privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006015711id_/http%3A//www.pricedekho.com/privacy-policy.html) for the most accurate reproduction.*
 
-# PriceDekho.com - Privacy Policy | PriceDekho India
+# PriceDekho.com - Privacy Policy & Opt Out | PriceDekho India
 
 At PriceDekho, we value our customers and are committed to protecting your privacy, as well as safeguarding the information we receive and maintain about you. We do not sell information about you to others. We only share it as expressly allowed by law. Consequently, you do not need to notify us not to share information about you, because we have chosen to limit this for you. This Notice will help you understand what information we collect, how we use it, and the ways we maintain your privacy and the security of personal information about you. 
 
@@ -19,3 +19,9 @@ Most browser software can be set to reject Cookies, and you can opt out of Cooki
 ## How Information Collected About You Is Used?
 
 Third parties may use Non-Personal Information in order to display advertising that reflects the interests and preferences of our user community. 
+
+## Use of Site Browsing History
+
+By using website http://www.pricedekho.com, you consent to collection, storage, and use of your browsing history on this website. We share this information with trusted 3rd parties that use it to show you marketing communications of interest only. While no Personally Identifiable Information is shared, we respect your right to privacy hence this transparent disclosure. In addition, we respect your right to opt out. If you want to opt out from this program, please click on the link below and select the appropriate option on the destination page –  
+[Opt Out Page](http://www.adobe.com/in/privacy/opt-out.html?button=Opt-Out "Opt Out Page")   
+In addition, most setup your browser software to reject 3rd party cookies. In addition, you can opt out of several similar programs by visiting the [Network Advertising Initiative](http://www.networkadvertising.org/choices/ "Network Advertising Initiative") gateway opt-out site. 
