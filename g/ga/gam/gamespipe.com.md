@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamespipe.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627012222id_/http%3A//gamespipe.com/wp-content/uploads/2012/12/gamespipe_privacy_policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamespipe.com privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005165735id_/http%3A//gamespipe.com/wp-content/uploads/2012/12/gamespipe_privacy_policy.pdf) for the most accurate reproduction.*
 
 # Data Protection Declaration
 
