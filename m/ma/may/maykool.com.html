@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the maykool.com privacy policy that was archived on 2013-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130620153135id_/http%3A//www.maykool.com/privacy-and-security) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the maykool.com privacy policy that was archived on 2013-10-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131005060800id_/http%3A//www.maykool.com/privacy-and-security) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -12,7 +12,7 @@
 <meta property="fb:page_id" content="160025537474102">
 <meta property="og:site_name" content="maykool.com">
 <meta property="og:description" content="I like this. How do you think about this style?">
-
+<link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.maykool.com/privacy-and-security">
 <link rel="icon" href="http://www.maykool.com/media/favicon/default/favicon_1.ico" type="image/x-icon">
 <link rel="shortcut icon" href="http://www.maykool.com/media/favicon/default/favicon_1.ico" type="image/x-icon">
 <!--[if lt IE 7]>
@@ -23,8 +23,7 @@
 //]]>
 </script>
 <![endif]-->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var slide_on=false;</script>
-<script type="text/javascript">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
   var BASE_URL = 'http://www.maykool.com/';
   var clearenceUrl = '#';
 </script>
@@ -42,7 +41,6 @@
 <script type="text/javascript" src="http://www.maykool.com/js/varien/js.js"></script>
 <script type="text/javascript" src="http://www.maykool.com/js/varien/form.js"></script>
 <script type="text/javascript" src="http://www.maykool.com/js/varien/script.js"></script>
-<script type="text/javascript" src="http://www.maykool.com/js/varien/menu.js"></script>
 <script type="text/javascript" src="http://www.maykool.com/js/mage/translate.js"></script>
 <script type="text/javascript" src="http://www.maykool.com/js/mage/cookies.js"></script>
 <script type="text/javascript" src="http://www.maykool.com/js/jquery/func.js"></script>
@@ -75,8 +73,6 @@ optionalZipCountries = ["HK","IE","MO","PA"];
         var Translator = new Translate([]);
         //]]></script>
 <!-- MENU -->
-    <link rel="stylesheet" type="text/css" href="http://www.maykool.com/skin/frontend/default/blanco/css/menu2.css" media="screen">
-    <script type="text/javascript" src="http://www.maykool.com/js/varien/menu.js"></script>
 
 <!-- ZOOM -->
 
@@ -84,24 +80,60 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 
 
 <script type="text/javascript">
+function doClickId(name) 
+{ 
+	if(document.all) 
+	{ 
+		document.getElementById(name).click();
+	} 
+	else 
+	{ 
+		var evt = document.createEvent("MouseEvents"); 
+		evt.initEvent("click", true, true); 
+		document.getElementById(name).dispatchEvent(evt); 
+	} 
+}
+function setCustomCookie(arg_CookieName,arg_CookieValue,arg_CookieExpireDays)
+{
+    var todayDate=new Date();
+    todayDate.setDate(todayDate.getDate()+arg_CookieExpireDays);
+    document.cookie=arg_CookieName+'='+arg_CookieValue+';path=/;expires='+todayDate.toGMTString();
+}
+function getCustomCookie(cookie_name)
+{
+    var allcookies = document.cookie;
+    var cookie_pos = allcookies.indexOf(cookie_name);
+
+    if (cookie_pos != -1)
+    {
+        cookie_pos += cookie_name.length + 1;
+        var cookie_end = allcookies.indexOf(";", cookie_pos);
+
+        if (cookie_end == -1)
+        {   
+            cookie_end = allcookies.length;
+        }
+
+        var value = allcookies.substring(cookie_pos, cookie_end);
+    }
+     return value;
+}
+
     var active_color_selector = '#nav > li.over > a > span,#nav > li:hover > a > span,#nav > li.active > a > span,.product-tabs li.active a,a:hover,#nav > li > ul > li.parent > a:hover,.footer-container a:hover,.block-layered-nav dd a:hover,.blocklist > li > ul > li a:hover,#nav > li > ul > li ul > li a:hover,.block-account .block-content li.current strong,.form-search button.button:hover,.special-price .price,.product-tabs li a:hover,.products-grid li.item:hover a,.newproducts li.item:hover a,.related li.item:hover a,.saleproduct,.special-price .price';
-    var active_bg_selector = '.pages li a:hover,.pages .current, button.button:hover,#banner-rotator .tintButton:hover,.footer-container .form-subscribe button.button,.add-to-cart button.button,#added #hidewindow:hover,#added a:hover,button.button.btn-checkout,.opc .active .step-title,.home-text a.readmore,#added a,.left-categorys-container a:hover,.home-text a.readmore,.box-tags button.button,#banner-rotator .tintButton,.blocklist > li > ul > li:hover, .block.left-categorys .block-title';
+    var active_bg_selector = '.pages li a:hover,.pages .current, button.button:hover,.footer-container .form-subscribe button.button,.add-to-cart button.button,#added #hidewindow:hover,#added a:hover,button.button.btn-checkout,.opc .active .step-title,.home-text a.readmore,#added a,.left-categorys-container a:hover,.home-text a.readmore,.box-tags button.button,.blocklist > li > ul > li:hover, .block.left-categorys .block-title';
     var active_border_selector = '.etheme_cp .etheme_cp_content .etheme_cp_section .pattern_select.selected,.product-view .product-img-box .more-views li a.thumbnail-active';
     var active_color_default = 'FF4A4A';
 </script>
 
 <style type="text/css">
-    /* Active Color */
     #nav > li.over > a > span,#nav > li:hover > a > span,#nav > li.active > a > span,.product-tabs li.active a,a:hover,#nav > li > ul > li.parent > a:hover,.footer-container a:hover,.block-layered-nav dd a:hover,.blocklist > li > ul > li a:hover,#nav > li > ul > li ul > li a:hover,.block-account .block-content li.current strong,.form-search button.button:hover,.special-price .price,.product-tabs li a:hover,.products-grid li.item:hover a,.newproducts li.item:hover a,.related li.item:hover a,.saleproduct              { color: #FF4A4A; }
     
     .special-price .price          { color: #FF4A4A!important; }
     
-    /* Active BG */
-    .pages li a:hover,.pages .current, button.button:hover,#banner-rotator .tintButton:hover,.footer-container .form-subscribe button.button,.add-to-cart button.button,#added #hidewindow:hover,#added a:hover,button.button.btn-checkout,.opc .active .step-title,.home-text a.readmore,#added a,.left-categorys-container a:hover,.home-text a.readmore,.box-tags button.button,#banner-rotator .tintButton,.blocklist > li > ul > li:hover, .block.left-categorys .block-title                 {  background-color: #FF4A4A; }
+    .pages li a:hover,.pages .current, button.button:hover,.footer-container .form-subscribe button.button,.add-to-cart button.button,#added #hidewindow:hover,#added a:hover,button.button.btn-checkout,.opc .active .step-title,.home-text a.readmore,#added a,.left-categorys-container a:hover,.home-text a.readmore,.box-tags button.button,.blocklist > li > ul > li:hover, .block.left-categorys .block-title                 {  background-color: #FF4A4A; }
     
-    .add-to-cart button.button:hover,button.btn-checkout.button:hover,#banner-rotator .tintButton:hover,.home-text a.readmore:hover,.box-tags button.button:hover,#added a:hover,.footer-container .form-subscribe button.button:hover                {  background-color: #fd2527; text-decoration: underline; }
+    .add-to-cart button.button:hover,button.btn-checkout.button:hover,.home-text a.readmore:hover,.box-tags button.button:hover,#added a:hover,.footer-container .form-subscribe button.button:hover                {  background-color: #fd2527; text-decoration: underline; }
     
-    /* Active Border */
     .etheme_cp .etheme_cp_content .etheme_cp_section .pattern_select.selected,.product-view .product-img-box .more-views li a.thumbnail-active             {  border-color: #FF4A4A; }
      
     .blocklist > li > ul > li a,#nav > li > ul > li ul > li a               {  color:#818181; }
@@ -111,19 +143,6 @@ optionalZipCountries = ["HK","IE","MO","PA"];
     #nav > li > ul > .parent > a > span {font-weight: bold;}
     
 </style>
-
-<script type="text/javascript">
-    if(slide_on){
-    	jQuery(document).ready(function($) {		
-    		$('#banner-rotator').royalSlider({			
-    	   		imageAlignCenter:true,
-    	   		hideArrowOnLastSlide:true,
-    	   		slideSpacing:20,
-                slideshowEnabled:true,
-                slideshowDelay:8000    	    });		
-    	});  
-    }
-</script>
 
 <style>
     body{
@@ -136,7 +155,7 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 <!-- ONLY DEMO! --><script>var bg_default = 'fff'; var pattern_default = 'url(http://www.maykool.com/media/wysiwyg/mercado/)';</script>
 <!--[if IE 7]>
     <link rel="stylesheet" type="text/css" href="http://www.maykool.com/skin/frontend/default/blanco/css/ie7.css" media="screen"/>
-<![endif]--><script type="text/javascript" async="" src="https://upfront.thefind.com/scripts/main/utils-init-ajaxlib/upfront-badgeinit.js">thefind.upfront.init('tf_upfront_badge', '399c956229bf7e647581ff39be0ff04a')</script></head>
+<![endif]--><script type="text/javascript" async="" src="https://upfront.thefind.com/scripts/main/utils-init-ajaxlib/upfront-badgeinit.js">thefind.upfront.init('tf_upfront_badge', '399c956229bf7e647581ff39be0ff04a')</script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 <body class=" cms-page-view cms-privacy-and-security">
 <!-- BEGIN GOOGLE ANALYTICS CODEs -->
 <script type="text/javascript">
@@ -145,6 +164,7 @@ optionalZipCountries = ["HK","IE","MO","PA"];
     
 _gaq.push(['_setAccount', 'UA-35079104-1']);
 _gaq.push(['_trackPageview']);
+_gaq.push(['_setDomainName', 'maykool.com']);
     
     (function() {
         var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -194,13 +214,13 @@ _gaq.push(['_trackPageview']);
         </script>
     </div>
 </form></div>        <ul class="links">
-                        <li><a href="http://www.maykool.com/fashion-blog" title="Fashion Blog">Fashion Blog</a></li>
-                                <li class=""><a href="http://www.maykool.com/customer/account/" title="My Account">My Account</a></li>
+                        <li class=""><a href="http://www.maykool.com/lookbook/" title="Lookbook">Lookbook</a></li>
+                                <li><a href="http://www.maykool.com/fashion-blog/" title="Fashion Blog">Fashion Blog</a></li>
+                                <li><a href="http://www.maykool.com/customer/account/" title="My Account">My Account</a></li>
                                 <li><a href="http://www.maykool.com/wishlist/" title="My Wishlist">My Wishlist</a></li>
                                 <li><a href="http://www.maykool.com/checkout/" title="Checkout" class="top-link-checkout">Checkout</a></li>
                                 <li class=" last"><a href="http://www.maykool.com/customer/account/login/referer/aHR0cDovL3d3dy5tYXlrb29sLmNvbS9wcml2YWN5LWFuZC1zZWN1cml0eQ,,/" title="Log In">Log In</a></li>
             </ul>
-        <span class="welcome"></span>
 		 
 	
     </div>
@@ -225,332 +245,121 @@ _gaq.push(['_trackPageview']);
     </div>
     <div id="top-nav-fixed" class="nav-container">
     <div class="right-bg">
-        <ul id="nav">
-            <li class="level0 first homelink"><a href="http://www.maykool.com/"><span>Home</span></a></li>
-                            <li class="level0 nav-1 level-top first">
-<a href="http://www.maykool.com/just-in.html" class="level-top">
-<span>Just In</span>
-</a>
-</li><li class="level0 nav-2 level-top parent">
-<a href="http://www.maykool.com/hot-trends.html" class="level-top">
-<span>Trends</span>
-</a>
-<ul class="level0 chield chield8">
-<li class="level1 nav-2-1 first">
-<a href="http://www.maykool.com/leopard.html">
-<span>Leopard</span>
-</a>
-</li><li class="level1 nav-2-2">
-<a href="http://www.maykool.com/dot-print.html">
-<span>Dot Print</span>
-</a>
-</li><li class="level1 nav-2-3">
-<a href="http://www.maykool.com/stripe.html">
-<span>Stripe</span>
-</a>
-</li><li class="level1 nav-2-4">
-<a href="http://www.maykool.com/spikes-studs.html">
-<span>Spikes &amp; Studs</span>
-</a>
-</li><li class="level1 nav-2-5">
-<a href="http://www.maykool.com/denim.html">
-<span>Denim</span>
-</a>
-</li><li class="level1 nav-2-6">
-<a href="http://www.maykool.com/plaid.html">
-<span>Plaid</span>
-</a>
-</li><li class="level1 nav-2-7">
-<a href="http://www.maykool.com/lace-mesh.html">
-<span>Lace &amp; Mesh</span>
-</a>
-</li><li class="level1 nav-2-8 last">
-<a href="http://www.maykool.com/galaxy-collection.html">
-<span>Galaxy Collection</span>
-</a>
-</li>
+       <script type="text/javascript">// <![CDATA[
+jQuery(function($) {
+	$('li.navhome').hover(
+			function(){
+				$(this).addClass("show");
+			},
+			function () {
+				$(this).removeClass("show");
+			}
+	);
+});
+// ]]></script>
+<ul id="nav">
+<li class="navhome" style="width: 64px; margin-left: 10px;"><a href="http://www.maykool.com/just-in.html">Just In</a> </li>
+<li class="navhome" style="width: 64px;"><a href="http://www.maykool.com/hot-trends.html">Trends</a> <div class="dropdown">
+<ul>
+<li><a href="http://www.maykool.com/leopard.html"> <span>Leopard</span> </a></li>
+<li><a href="http://www.maykool.com/dot-print.html"> <span>Dot Print</span> </a></li>
+<li><a href="http://www.maykool.com/stripe.html"> <span>Stripe</span> </a></li>
+<li><a href="http://www.maykool.com/spikes-studs.html"> <span>Spikes &amp; Studs</span> </a></li>
+<li><a href="http://www.maykool.com/denim.html"> <span>Denim</span> </a></li>
+<li><a href="http://www.maykool.com/plaid.html"> <span>Plaid</span> </a></li>
+<li><a href="http://www.maykool.com/lace-mesh.html"> <span>Lace &amp; Mesh</span> </a></li>
+<li><a href="http://www.maykool.com/galaxy-collection.html"> <span>Galaxy Collection</span> </a></li>
 </ul>
-</li><li class="level0 nav-3 level-top parent">
-<a href="http://www.maykool.com/clothing.html" class="level-top">
-<span>Clothing</span>
-</a>
-<ul class="level0 chield chield11">
-<li class="level1 nav-3-1 first">
-<a href="http://www.maykool.com/clubwear.html">
-<span>Clubwear</span>
-</a>
-</li><li class="level1 nav-3-2">
-<a href="http://www.maykool.com/skirts.html">
-<span>Skirts</span>
-</a>
-</li><li class="level1 nav-3-3">
-<a href="http://www.maykool.com/t-shirt.html">
-<span>T-shirt</span>
-</a>
-</li><li class="level1 nav-3-4">
-<a href="http://www.maykool.com/shirts-blouses.html">
-<span>Shirts &amp; Blouses</span>
-</a>
-</li><li class="level1 nav-3-5">
-<a href="http://www.maykool.com/vest-basic.html">
-<span>Vest &amp; Basic</span>
-</a>
-</li><li class="level1 nav-3-6">
-<a href="http://www.maykool.com/sweater.html">
-<span>Sweater</span>
-</a>
-</li><li class="level1 nav-3-7">
-<a href="http://www.maykool.com/outerwear.html">
-<span>Outerwear</span>
-</a>
-</li><li class="level1 nav-3-8">
-<a href="http://www.maykool.com/shorts-rompers.html">
-<span>Shorts &amp; Rompers</span>
-</a>
-</li><li class="level1 nav-3-9">
-<a href="http://www.maykool.com/pants.html">
-<span>Pants</span>
-</a>
-</li><li class="level1 nav-3-10">
-<a href="http://www.maykool.com/lingerie.html">
-<span>Lingerie</span>
-</a>
-</li><li class="level1 nav-3-11 last">
-<a href="http://www.maykool.com/hosiery.html">
-<span>Hosiery</span>
-</a>
-</li>
+</div></li>
+<li class="navhome" style="width: 86px;"><a href="http://www.maykool.com/clothing.html">Clothing</a> <div class="dropdown">
+<ul>
+<li><a href="http://www.maykool.com/clubwear.html"> <span>Clubwear</span> </a></li>
+<li><a href="http://www.maykool.com/skirts.html"> <span>Skirts</span> </a></li>
+<li><a href="http://www.maykool.com/t-shirt.html"> <span>T-shirt</span> </a></li>
+<li><a href="http://www.maykool.com/shirts-blouses.html"> <span>Shirts &amp; Blouses</span> </a></li>
+<li><a href="http://www.maykool.com/vest-basic.html"> <span>Vest &amp; Basic</span> </a></li>
+<li><a href="http://www.maykool.com/sweater.html"> <span>Sweater</span> </a></li>
+<li><a href="http://www.maykool.com/outerwear.html"> <span>Outerwear</span> </a></li>
+<li><a href="http://www.maykool.com/shorts-rompers.html"> <span>Shorts &amp; Rompers</span> </a></li>
+<li><a href="http://www.maykool.com/pants.html"> <span>Pants</span> </a></li>
+<li><a href="http://www.maykool.com/lingerie.html"> <span>Lingerie</span> </a></li>
+<li><a href="http://www.maykool.com/hosiery.html"> <span>Hosiery</span> </a></li>
 </ul>
-</li><li class="level0 nav-4 level-top parent">
-<a href="http://www.maykool.com/dresses.html" class="level-top">
-<span>Dresses</span>
-</a>
-<ul class="level0 chield chield13">
-<li class="level1 nav-4-1 first">
-<a href="http://www.maykool.com/casual-dresses.html">
-<span>Casual Dresses</span>
-</a>
-</li><li class="level1 nav-4-2">
-<a href="http://www.maykool.com/party-dresses.html">
-<span>Party Dresses</span>
-</a>
-</li><li class="level1 nav-4-3">
-<a href="http://www.maykool.com/pink-dresses.html">
-<span>Pink Dresses</span>
-</a>
-</li><li class="level1 nav-4-4">
-<a href="http://www.maykool.com/little-black-dresses.html">
-<span>Little Black Dresses</span>
-</a>
-</li><li class="level1 nav-4-5">
-<a href="http://www.maykool.com/mini-dresses.html">
-<span>Mini Dresses</span>
-</a>
-</li><li class="level1 nav-4-6">
-<a href="http://www.maykool.com/one-shoulder-dresses.html">
-<span>One Shoulder Dresses</span>
-</a>
-</li><li class="level1 nav-4-7">
-<a href="http://www.maykool.com/chiffon-dresses.html">
-<span>Chiffon Dresses</span>
-</a>
-</li><li class="level1 nav-4-8">
-<a href="http://www.maykool.com/high-low-dresses.html">
-<span>High Low Dresses</span>
-</a>
-</li><li class="level1 nav-4-9">
-<a href="http://www.maykool.com/print-floral-dresses.html">
-<span>Print Floral Dresses</span>
-</a>
-</li><li class="level1 nav-4-10">
-<a href="http://www.maykool.com/strapless-dresses.html">
-<span>Strapless Dresses</span>
-</a>
-</li><li class="level1 nav-4-11">
-<a href="http://www.maykool.com/midi-maxi-dresses.html">
-<span>Midi Maxi Dresses</span>
-</a>
-</li><li class="level1 nav-4-12">
-<a href="http://www.maykool.com/long-sleeve-dress.html">
-<span>Long Sleeve Dress</span>
-</a>
-</li><li class="level1 nav-4-13 last">
-<a href="http://www.maykool.com/sleeveless-dresses.html">
-<span>Sleeveless Dresses</span>
-</a>
-</li>
+</div></li>
+<li class="navhome" style="width: 69px;"><a href="http://www.maykool.com/dresses.html">Dresses</a> <div class="dropdown">
+<ul>
+<li><a href="http://www.maykool.com/casual-dresses.html"> <span>Casual Dresses</span> </a></li>
+<li><a href="http://www.maykool.com/party-dresses.html"> <span>Party Dresses</span> </a></li>
+<li><a href="http://www.maykool.com/pink-dresses.html"> <span>Pink Dresses</span> </a></li>
+<li><a href="http://www.maykool.com/little-black-dresses.html"> <span>Little Black Dresses</span> </a></li>
+<li><a href="http://www.maykool.com/mini-dresses.html"> <span>Mini Dresses</span> </a></li>
+<li><a href="http://www.maykool.com/one-shoulder-dresses.html"> <span>One Shoulder Dresses</span> </a></li>
+<li><a href="http://www.maykool.com/chiffon-dresses.html"> <span>Chiffon Dresses</span> </a></li>
+<li><a href="http://www.maykool.com/high-low-dresses.html"> <span>High Low Dresses</span> </a></li>
+<li><a href="http://www.maykool.com/print-floral-dresses.html"> <span>Print Floral Dresses</span> </a></li>
+<li><a href="http://www.maykool.com/strapless-dresses.html"> <span>Strapless Dresses</span> </a></li>
+<li><a href="http://www.maykool.com/midi-maxi-dresses.html"> <span>Midi Maxi Dresses</span> </a></li>
+<li><a href="http://www.maykool.com/long-sleeve-dress.html"> <span>Long Sleeve Dress</span> </a></li>
+<li><a href="http://www.maykool.com/sleeveless-dresses.html"> <span>Sleeveless Dresses</span> </a></li>
 </ul>
-</li><li class="level0 nav-5 level-top parent">
-<a href="http://www.maykool.com/shoes.html" class="level-top">
-<span>Shoes</span>
-</a>
-<ul class="level0 chield chield5">
-<li class="level1 nav-5-1 first">
-<a href="http://www.maykool.com/heels.html">
-<span>Heels</span>
-</a>
-</li><li class="level1 nav-5-2">
-<a href="http://www.maykool.com/wedges.html">
-<span>Wedges</span>
-</a>
-</li><li class="level1 nav-5-3">
-<a href="http://www.maykool.com/flats.html">
-<span>Flats</span>
-</a>
-</li><li class="level1 nav-5-4">
-<a href="http://www.maykool.com/boots.html">
-<span>Boots</span>
-</a>
-</li><li class="level1 nav-5-5 last">
-<a href="http://www.maykool.com/sandals.html">
-<span>Sandals</span>
-</a>
-</li>
+</div></li>
+<li class="navhome" style="width: 52px;"><a href="http://www.maykool.com/shoes.html">Shoes</a> <div class="dropdown">
+<ul>
+<li><a href="http://www.maykool.com/heels.html"> <span>Heels</span> </a></li>
+<li><a href="http://www.maykool.com/wedges.html"> <span>Wedges</span> </a></li>
+<li><a href="http://www.maykool.com/flats.html"> <span>Flats</span> </a></li>
+<li><a href="http://www.maykool.com/boots.html"> <span>Boots</span> </a></li>
+<li><a href="http://www.maykool.com/sandals.html"> <span>Sandals</span> </a></li>
 </ul>
-</li><li class="level0 nav-6 level-top last parent">
-<a href="http://www.maykool.com/swimsuit.html" class="level-top">
-<span>Swimsuit</span>
-</a>
-<ul class="level0 chield chield2">
-<li class="level1 nav-6-1 first">
-<a href="http://www.maykool.com/one-piece-swimsuit.html">
-<span>One Piece Swimsuit</span>
-</a>
-</li><li class="level1 nav-6-2 last">
-<a href="http://www.maykool.com/two-piece-swimsuit.html">
-<span>Two Piece Swimsuit</span>
-</a>
-</li>
+</div></li>
+<li class="navhome" style="width: 85px;"><a href="http://www.maykool.com/swimsuit.html">Swimsuit</a> <div class="dropdown">
+<ul>
+<li><a href="http://www.maykool.com/one-piece-swimsuit.html"> <span>One Piece Swimsuit</span> </a></li>
+<li><a href="http://www.maykool.com/two-piece-swimsuit.html"> <span>Two Piece Swimsuit</span> </a></li>
 </ul>
-</li>                                                
-            <li class="level0 nav-7 level-top parent">
-<a href="http://www.maykool.com/promo.html" class="level-top">
-<span style="color:#FF4A4A">SALE</span>
-</a>
-<ul class="level0 chield chield5">
-<li class="level1 nav-7-1 first">
-<a href="http://www.maykool.com/promo.html?sp=1&amp;c=55">
-<span>Trends</span>
-</a>
-</li><li class="level1 nav-7-2">
-<a href="http://www.maykool.com/promo.html?sp=1&amp;c=3">
-<span>Clothing</span>
-</a>
-</li><li class="level1 nav-7-3">
-<a href="http://www.maykool.com/promo.html?sp=1&amp;c=59" class="">
-<span>Shoes</span>
-</a>
-</li><li class="level1 nav-7-4">
-<a href="http://www.maykool.com/promo.html?sp=1&amp;c=6" class="">
-<span>Swimsuit</span>
-</a>
-</li><li class="level1 nav-7-5">
-<a href="http://www.maykool.com/promo.html?sp=1&amp;c=24" class="">
-<span>Accessories</span>
-</a>
-</li>
-<li class="level1 nav-7-6">
-<a href="http://www.maykool.com/promo.html?sp=1&amp;c=18" class="">
-<span>Jewelry</span>
-</a>
-</li>
-<li class="level1 nav-7-7 last">
-<a href="http://www.maykool.com/promo.html?sp=1&amp;c=31" class="">
-<span>Costumes</span>
-</a>
-</li>
+</div></li>
+<li class="navhome" style="width: 88px;"><a href="http://www.maykool.com/costumes.html">Costumes</a> <div class="dropdown" style="width: 180px;">
+<ul>
+<li><a href="http://www.maykool.com/animal-costumes.html"> <span>Animal Costumes</span></a></li>
+<li><a href="http://www.maykool.com/army-costumes.html"> <span>Army Costumes</span></a></li>
+<li><a href="http://www.maykool.com/christmas-costumes.html"> <span>Christmas Costumes</span></a></li>
+<li><a href="http://www.maykool.com/pirate-costumes.html"> <span>Pirate Costumes</span></a></li>
+<li><a href="http://www.maykool.com/sexy-costumes.html"> <span>Sexy Costumes</span></a></li>
+<li><a href="http://www.maykool.com/sports-costumes.html"> <span>Sports Costumes</span></a></li>
+<li><a href="http://www.maykool.com/storybook-costumes.html"> <span>Storybook Costumes</span></a></li>
+<li><a href="http://www.maykool.com/school-girl-costumes.html"> <span>School Girl Costumes</span></a></li>
+<li><a href="http://www.maykool.com/sailor-costumes.html"> <span>Sailor Costumes</span></a></li>
+<li><a href="http://www.maykool.com/sexy-halloween-costumes.html"> <span>Nurse Costumes</span></a></li>
+<li><a href="http://www.maykool.com/cops-costumes.html"> <span>Cops Costumes</span></a></li>
+<li><a href="http://www.maykool.com/fantasy-costumes.html"> <span>Fantasy Costumes</span></a></li>
+<li><a href="http://www.maykool.com/costume-accessories.html"> <span>Costume Accessories</span></a></li>
+<li><a href="http://www.maykool.com/horror-costumes.html"> <span>Horror Costumes</span></a></li>
+<li><a href="http://www.maykool.com/stewardess-costumes.html"> <span>Stewardess Costumes</span></a></li>
+<li><a href="http://www.maykool.com/witch-costumes.html"> <span>Witch Costumes</span></a></li>
+<li><a href="http://www.maykool.com/nurse-costumes.html"> <span>Sexy Halloween Costumes</span></a></li>
 </ul>
-</li>            
-                            <li class="level0 nav-8 level-top parent" style="float:right;">
-                <a href="#" title="All Categories"><span>All Categories</span></a>
-                
-                                	<div class="nav_block all"><ul class="all" style="float: left; width: 145px;">
-<li class="all"><a href="/clothing.html"><span>CLOTHING</span></a>
-<ul class="all">
-<li class="all"><a href="/dresses.htmll">Dresses</a></li>
-<li class="all"><a href="/skirts.html">Skirts</a></li>
-<li class="all"><a href="/t-shirt.html">T-shirt</a></li>
-<li class="all"><a href="/shirts-blouses.html">Shirts &amp; Blouses</a></li>
-<li class="all"><a href="/outerwear.html">Outerwear</a></li>
-<li class="all"><a href="/sweater.html">Sweater</a></li>
-<li class="all"><a href="/vest-basic.html">Vest &amp; Basic</a></li>
-<li class="all"><a href="/pants.html">Pants</a></li>
-<li class="all"><a href="/shorts-rompers.html">Shorts &amp; Rompers</a></li>
-<li class="all"><a href="/lingerie.html">Lingerie</a></li>
-<li class="all"><a href="/hosiery.html">Hosiery</a></li>
+</div></li>
+<li class="navhome" style="width: 75px;"><a href="http://www.maykool.com/jewelry.html">Jewelry</a> <div class="dropdown">
+<ul>
+<li><a href="http://www.maykool.com/bracelets.html"> <span>Bracelets</span></a></li>
+<li><a href="http://www.maykool.com/ring.html"> <span>Ring</span></a></li>
+<li><a href="http://www.maykool.com/earrings.html"> <span>Earrings</span></a></li>
+<li><a href="http://www.maykool.com/necklace.html"> <span>Necklace</span></a></li>
+<li><a href="http://www.maykool.com/ring.html"> <span>Ring</span></a></li>
+<li><a href="http://www.maykool.com/watches.html"> <span>Watches</span></a></li>
 </ul>
-</li>
+</div></li>
+<li class="navhome" style="width: 108px;"><a href="http://www.maykool.com/accessories.html">Accessories</a> <div class="dropdown">
+<ul>
+<li><a href="http://www.maykool.com/belts.html"> <span>Belts</span></a></li>
+<li><a href="http://www.maykool.com/hats-caps.html"> <span>Hats &amp; Caps</span></a></li>
+<li><a href="http://www.maykool.com/eyeglasses.html"> <span>Eyeglasses</span></a></li>
+<li><a href="http://www.maykool.com/bags.html"> <span>Bags</span></a></li>
+<li><a href="http://www.maykool.com/scarves.html"> <span>Scarves</span></a></li>
 </ul>
-<ul class="all" style="float: left; width: 145px;">
-<li class="all"><a href="/shoes.html">SHOES</a>
-<ul class="all">
-<li class="all"><a href="/heels.html">Heels</a></li>
-<li class="all"><a href="/wedges.html">Wedges</a></li>
-<li class="all"><a href="/flats.html">Flats</a></li>
-<li class="all"><a href="/sandals.html">Sandals</a></li>
-<li class="all"><a href="/boots.html">Boots</a></li>
-</ul>
-</li>
-<li class="all"><a href="/swimsuit.html"><strong>SWIMSUIT</strong></a>
-<ul class="all">
-<li class="all"><a href="/one-piece-swimsuit.html">One Piece Swimsuit</a></li>
-<li class="all"><a href="/two-piece-swimsuit.html">Two Piece Swimsuit</a></li>
-</ul>
-</li>
-
-</ul>
-<ul class="all" style="float: left; width: 145px;">
-<li class="all"><a href="/jewelry.html"><span>JEWELRY</span></a>
-<ul class="all">
-<li class="all"><a href="/bracelets.html">Bracelets</a></li>
-<li class="all"><a href="/ring.html">Ring</a></li>
-<li class="all"><a href="/earrings.html">Earrings</a></li>
-<li class="all"><a href="/necklace.html">Necklace</a></li>
-<li class="all"><a href="/ring.html">Ring</a></li>
-<li class="all"><a href="/watches.html">Watches</a></li>
-</ul>
-</li>
-</ul>
-<ul class="all" style="float: left; width: 145px;">
-<li class="all"><a href="/accessories.html"><span>ACCESSORIES</span></a>
-<ul class="all">
-<li class="all"><a href="/belts.html">Belts</a></li>
-<li class="all"><a href="/hats-caps.html">Hats &amp; Caps</a></li>
-<li class="all"><a href="/eyeglasses.html">Eyeglasses</a></li>
-<li class="all"><a href="/bags.html">Bags</a></li>
-<li class="all"><a href="/gloves.html">Gloves</a></li>
-<li class="all"><a href="/scarves.html">Scarves</a></li>
-</ul>
-</li>
-</ul>
-<ul class="all" style="float: left; width: 340px;">
-<li class="all"><a href="/costumes.html"><span>COSTUMES</span></a>
-<ul class="all" style="width: 340px;">
-<li class="all"><a href="/animal-costumes.html">Animal Costumes</a></li>
-<li class="all"><a href="/army-costumes.html">Army Costumes</a></li>
-<li class="all"><a href="/christmas-costumes.html">Christmas Costumes</a></li>
-<li class="all"><a href="/pirate-costumes.html">Pirate Costumes</a></li>
-<li class="all"><a href="/sexy-costumes.html">Sexy Costumes</a></li>
-<li class="all"><a href="/sports-costumes.html">Sports Costumes</a></li>
-<li class="all"><a href="/storybook-costumes.html">Storybook Costumes</a></li>
-<li class="all"><a href="/school-girl-costumes.html">School Girl Costumes</a></li>
-<li class="all"><a href="/sailor-costumes.html">Sailor Costumes</a></li>
-<li class="all"><a href="/sexy-halloween-costumes.html">Nurse Costumes</a></li>
-<li class="all"><a href="/cops-costumes.html">Cops Costumes</a></li>
-<li class="all"><a href="/fantasy-costumes.html">Fantasy Costumes</a></li>
-<li class="all"><a href="/costume-accessories.html">Costume Accessories</a></li>
-<li class="all"><a href="/horror-costumes.html">Horror Costumes</a></li>
-<li class="all"><a href="/stewardess-costumes.html">Stewardess Costumes</a></li>
-<li class="all"><a href="/witch-costumes.html">Witch Costumes</a></li>
-<li class="all"><a href="/nurse-costumes.html">Sexy Halloween Costumes</a></li>
-</ul>
-</li>
-</ul></div>
-                                </li>
-             
-                 
-        </ul>
-    </div>
+</div></li>
+<li class="navhome" style="width: 50px;"><a href="http://www.maykool.com/promo.html">Sale</a> </li>
+</ul>           </div>
 </div>
 <script type="text/javascript">
 function htmlScroll()
@@ -562,9 +371,10 @@ function htmlScroll()
 		elFix.style.top = 0;
 		elFix.style.zIndex = 100;
 		elFix.style.background = 'white';
-		elFix.style.padding = '4px';
-		elFix.style.width = '952px';
-		elFix.style.left = elFix.data_left;
+		elFix.style.padding = '4px 0';
+		elFix.style.margin = 'auto 0';
+		elFix.style.width = '960px';
+		elFix.style.height = '31px';
 	}
 	else
 	{
@@ -819,9 +629,10 @@ htmlPosition(elFix);
 	padding: 20px; 	
 	border: 20px solid #ddd;
 	float: left;
-	font-size: 1.2em;
-	position: fixed;
-	top: 50%; left: 50%;
+	position: absolute;
+	margin-top: 0px !important;
+	left: 50%;
+	top: 100px;
 	z-index: 99999;
 	-webkit-box-shadow: 0px 0px 20px #000;
 	-moz-box-shadow: 0px 0px 20px #000;
@@ -864,12 +675,12 @@ jQuery(function($){
 		$('#' + popID).fadeIn().css({ 'width': Number( popWidth ) }).prepend('<a href="#" class="close"><img src="http://www.maykool.com/skin/frontend/default/blanco/images/close_pop.png" class="btn_close" title="Close Window" alt="Close" /></a>');
 		
 		//Define margin for center alignment (vertical + horizontal) - we add 80 to the height/width to accomodate for the padding + border width defined in the css
-		var popMargTop = ($('#' + popID).height() + 80) / 2;
+		var popMargTop = $(window).scrollTop() + 100;
 		var popMargLeft = ($('#' + popID).width() + 80) / 2;
 		
 		//Apply Margin to Popup
 		$('#' + popID).css({ 
-			'margin-top' : -popMargTop,
+			'top' : popMargTop,
 			'margin-left' : -popMargLeft
 		});
 		
@@ -1018,18 +829,18 @@ discountMiniForm.submit = function (isRemove) {
 <td style="text-align: center; vertical-align: middle; font-size: 11px;"><strong>Area</strong></td>
 </tr>
 <tr>
-<td style="text-align: center; vertical-align: middle; font-size: 11px;"><strong>Regular Mail</strong><br> (Post office)</td>
-<td style="text-align: center; vertical-align: middle; font-size: 11px;">10-30 Business&nbsp;days</td>
+<td style="text-align: center; vertical-align: middle; font-size: 11px;"><strong>CAN Shipping</strong></td>
+<td style="text-align: center; vertical-align: middle; font-size: 11px;">7-15 Business&nbsp;days</td>
 <td style="font-size: 11px; text-align: center; vertical-align: middle;" rowspan="3">&nbsp;</td>
-<td style="font-size: 11px; text-align: left;"><strong>Worldwide.</strong></td>
+<td style="font-size: 11px; text-align: left;"><strong>Only Canada</strong></td>
 </tr>
 <tr>
-<td style="text-align: center; vertical-align: middle; font-size: 11px;"><strong>US Shipping</strong></td>
+<td style="text-align: center; vertical-align: middle; font-size: 11px;"><strong>USA Shipping</strong></td>
 <td style="text-align: center; vertical-align: middle; font-size: 11px;">7-15 Business&nbsp;days</td>
 <td style="font-size: 11px; text-align: left;"><strong>Only USA</strong></td>
 </tr>
 <tr>
-<td style="text-align: center; vertical-align: middle; font-size: 11px;"><strong>GB Shipping</strong></td>
+<td style="text-align: center; vertical-align: middle; font-size: 11px;"><strong>GBR Shipping</strong></td>
 <td style="text-align: center; vertical-align: middle; font-size: 11px;">7-15 Business&nbsp;days</td>
 <td style="font-size: 11px; text-align: left;"><strong>Only United Kingdom</strong></td>
 </tr>
@@ -1180,35 +991,34 @@ Enterprise.TopCart = {
     </div>
     <div class="block-content">
         <ul class="tags-list">
-                            <li><a href="http://www.maykool.com/tag/product/list/tagId/43/" style="font-size:86.666666666667%;">000543</a></li>
-                            <li><a href="http://www.maykool.com/tag/product/list/tagId/28/" style="font-size:86.666666666667%;">005105</a></li>
-                            <li><a href="http://www.maykool.com/tag/product/list/tagId/6/" style="font-size:75%;">Backless</a></li>
-                            <li><a href="http://www.maykool.com/tag/product/list/tagId/9/" style="font-size:86.666666666667%;">Floral</a></li>
-                            <li><a href="http://www.maykool.com/tag/product/list/tagId/2/" style="font-size:133.33333333333%;">Leopard</a></li>
-                            <li><a href="http://www.maykool.com/tag/product/list/tagId/10/" style="font-size:75%;">Metallic</a></li>
-                            <li><a href="http://www.maykool.com/tag/product/list/tagId/7/" style="font-size:75%;">One Shoulder</a></li>
-                            <li><a href="http://www.maykool.com/tag/product/list/tagId/5/" style="font-size:75%;">Strapless</a></li>
-                            <li><a href="http://www.maykool.com/tag/product/list/tagId/38/" style="font-size:86.666666666667%;">blackandwhite</a></li>
-                            <li><a href="http://www.maykool.com/tag/product/list/tagId/37/" style="font-size:86.666666666667%;">camo</a></li>
-                            <li><a href="http://www.maykool.com/tag/product/list/tagId/39/" style="font-size:75%;">chic</a></li>
-                            <li><a href="http://www.maykool.com/tag/product/list/tagId/1/" style="font-size:121.66666666667%;">chiffon</a></li>
-                            <li><a href="http://www.maykool.com/tag/product/list/tagId/57/" style="font-size:75%;">flower</a></li>
-                            <li><a href="http://www.maykool.com/tag/product/list/tagId/33/" style="font-size:86.666666666667%;">lace</a></li>
+                            <li><a href="http://www.maykool.com/tag/product/list/tagId/9/" style="font-size:89%;">Floral</a></li>
+                            <li><a href="http://www.maykool.com/tag/product/list/tagId/2/" style="font-size:131%;">Leopard</a></li>
+                            <li><a href="http://www.maykool.com/tag/product/list/tagId/103/" style="font-size:75%;">adorable</a></li>
+                            <li><a href="http://www.maykool.com/tag/product/list/tagId/73/" style="font-size:145%;">blouse</a></li>
+                            <li><a href="http://www.maykool.com/tag/product/list/tagId/1/" style="font-size:117%;">chiffon</a></li>
+                            <li><a href="http://www.maykool.com/tag/product/list/tagId/27/" style="font-size:89%;">cute</a></li>
+                            <li><a href="http://www.maykool.com/tag/product/list/tagId/89/" style="font-size:75%;">functional.</a></li>
+                            <li><a href="http://www.maykool.com/tag/product/list/tagId/90/" style="font-size:75%;">gorg,</a></li>
+                            <li><a href="http://www.maykool.com/tag/product/list/tagId/96/" style="font-size:75%;">hermes,</a></li>
+                            <li><a href="http://www.maykool.com/tag/product/list/tagId/97/" style="font-size:75%;">homies,</a></li>
                             <li><a href="http://www.maykool.com/tag/product/list/tagId/35/" style="font-size:145%;">leather</a></li>
-                            <li><a href="http://www.maykool.com/tag/product/list/tagId/44/" style="font-size:86.666666666667%;">pants</a></li>
-                            <li><a href="http://www.maykool.com/tag/product/list/tagId/45/" style="font-size:86.666666666667%;">prints</a></li>
-                            <li><a href="http://www.maykool.com/tag/product/list/tagId/36/" style="font-size:86.666666666667%;">satin</a></li>
-                            <li><a href="http://www.maykool.com/tag/product/list/tagId/34/" style="font-size:121.66666666667%;">stripes</a></li>
-                            <li><a href="http://www.maykool.com/tag/product/list/tagId/56/" style="font-size:75%;">tiger</a></li>
+                            <li><a href="http://www.maykool.com/tag/product/list/tagId/82/" style="font-size:89%;">make</a></li>
+                            <li><a href="http://www.maykool.com/tag/product/list/tagId/94/" style="font-size:75%;">new</a></li>
+                            <li><a href="http://www.maykool.com/tag/product/list/tagId/76/" style="font-size:89%;">sexy</a></li>
+                            <li><a href="http://www.maykool.com/tag/product/list/tagId/81/" style="font-size:89%;">shoes</a></li>
+                            <li><a href="http://www.maykool.com/tag/product/list/tagId/34/" style="font-size:117%;">stripes</a></li>
+                            <li><a href="http://www.maykool.com/tag/product/list/tagId/98/" style="font-size:75%;">swag,</a></li>
+                            <li><a href="http://www.maykool.com/tag/product/list/tagId/99/" style="font-size:75%;">tank</a></li>
+                            <li><a href="http://www.maykool.com/tag/product/list/tagId/93/" style="font-size:75%;">trendy,</a></li>
+                            <li><a href="http://www.maykool.com/tag/product/list/tagId/95/" style="font-size:75%;">york,</a></li>
                     </ul>
         <div class="actions">
             <a href="http://www.maykool.com/tag/list/">View All Tags</a>
         </div>
     </div>
 </div>
-    <div class="left_banner" style="padding-top: 10px; background-color: white;"><a href="http://www.maykool.com/stripe.html"><img src="http://www.maykool.com/media/wysiwyg/sider/cate1.jpg" alt=""></a></div>
-<div class="left_banner" style="padding-top: 10px; background-color: white;"><a href="http://www.maykool.com/denim.html"><img src="http://www.maykool.com/media/wysiwyg/sider/cate2.jpg" alt=""></a></div>
-<div class="left_banner" style="padding-top: 10px; background-color: white;"><a href="http://www.maykool.com/lace-mesh.html"><img src="http://www.maykool.com/media/wysiwyg/sider/cate3.jpg" alt=""></a></div>                </div>
+    <div class="left_banner" style="padding-top: 10px; background-color: white;"><a href="http://www.maykool.com/lookbook"><img src="http://www.maykool.com/media/wysiwyg/sider/Fashion-lookbook.jpg" alt=""></a></div>
+                </div>
             </div>
         </div>
     
@@ -1218,7 +1028,7 @@ Enterprise.TopCart = {
 <p class="follow_us">Follow Us:</p>
 <p class="left"><a class="facebook" href=" http://www.facebook.com/maykooldotcom">&nbsp;</a> <a class="twitter" href="http://twitter.com/maykooldotcom">&nbsp;</a> <a class="rss" href="http://www.maykool.com/rss">&nbsp;</a></p>
 <div style="float: left; border-left: 1px solid #efefef; border-right: 1px solid #efefef; padding: 0 50px; margin: 0 0 0 100px;"><a href="http://www.maykool.com/promo.html"> <img src="http://www.maykool.com/media/wysiwyg/sider/sider-madness.jpg" alt=""></a></div>
-<div class="phone"><a href="http://www.maykool.com/fashion-blog/tag/lookbook/"> <img src="http://www.maykool.com/media/wysiwyg/sider/follow_us_right.png" alt=""></a></div>
+<div class="phone"><a href="http://www.maykool.com/lookbook/"> <img src="http://www.maykool.com/media/wysiwyg/sider/follow_us_right.png" alt=""></a></div>
 </div>        <div class="clear"></div>
     </div>
 </div>
@@ -1350,26 +1160,26 @@ Enterprise.TopCart = {
     </div>
     <div class="block-content">
         <ul class="tags-list">
-                            <li><a href="http://www.maykool.com/tag/product/list/tagId/43/" style="font-size:86.666666666667%;">000543</a></li>
-                            <li><a href="http://www.maykool.com/tag/product/list/tagId/28/" style="font-size:86.666666666667%;">005105</a></li>
-                            <li><a href="http://www.maykool.com/tag/product/list/tagId/6/" style="font-size:75%;">Backless</a></li>
-                            <li><a href="http://www.maykool.com/tag/product/list/tagId/9/" style="font-size:86.666666666667%;">Floral</a></li>
-                            <li><a href="http://www.maykool.com/tag/product/list/tagId/2/" style="font-size:133.33333333333%;">Leopard</a></li>
-                            <li><a href="http://www.maykool.com/tag/product/list/tagId/10/" style="font-size:75%;">Metallic</a></li>
-                            <li><a href="http://www.maykool.com/tag/product/list/tagId/7/" style="font-size:75%;">One Shoulder</a></li>
-                            <li><a href="http://www.maykool.com/tag/product/list/tagId/5/" style="font-size:75%;">Strapless</a></li>
-                            <li><a href="http://www.maykool.com/tag/product/list/tagId/38/" style="font-size:86.666666666667%;">blackandwhite</a></li>
-                            <li><a href="http://www.maykool.com/tag/product/list/tagId/37/" style="font-size:86.666666666667%;">camo</a></li>
-                            <li><a href="http://www.maykool.com/tag/product/list/tagId/39/" style="font-size:75%;">chic</a></li>
-                            <li><a href="http://www.maykool.com/tag/product/list/tagId/1/" style="font-size:121.66666666667%;">chiffon</a></li>
-                            <li><a href="http://www.maykool.com/tag/product/list/tagId/57/" style="font-size:75%;">flower</a></li>
-                            <li><a href="http://www.maykool.com/tag/product/list/tagId/33/" style="font-size:86.666666666667%;">lace</a></li>
+                            <li><a href="http://www.maykool.com/tag/product/list/tagId/9/" style="font-size:89%;">Floral</a></li>
+                            <li><a href="http://www.maykool.com/tag/product/list/tagId/2/" style="font-size:131%;">Leopard</a></li>
+                            <li><a href="http://www.maykool.com/tag/product/list/tagId/103/" style="font-size:75%;">adorable</a></li>
+                            <li><a href="http://www.maykool.com/tag/product/list/tagId/73/" style="font-size:145%;">blouse</a></li>
+                            <li><a href="http://www.maykool.com/tag/product/list/tagId/1/" style="font-size:117%;">chiffon</a></li>
+                            <li><a href="http://www.maykool.com/tag/product/list/tagId/27/" style="font-size:89%;">cute</a></li>
+                            <li><a href="http://www.maykool.com/tag/product/list/tagId/89/" style="font-size:75%;">functional.</a></li>
+                            <li><a href="http://www.maykool.com/tag/product/list/tagId/90/" style="font-size:75%;">gorg,</a></li>
+                            <li><a href="http://www.maykool.com/tag/product/list/tagId/96/" style="font-size:75%;">hermes,</a></li>
+                            <li><a href="http://www.maykool.com/tag/product/list/tagId/97/" style="font-size:75%;">homies,</a></li>
                             <li><a href="http://www.maykool.com/tag/product/list/tagId/35/" style="font-size:145%;">leather</a></li>
-                            <li><a href="http://www.maykool.com/tag/product/list/tagId/44/" style="font-size:86.666666666667%;">pants</a></li>
-                            <li><a href="http://www.maykool.com/tag/product/list/tagId/45/" style="font-size:86.666666666667%;">prints</a></li>
-                            <li><a href="http://www.maykool.com/tag/product/list/tagId/36/" style="font-size:86.666666666667%;">satin</a></li>
-                            <li><a href="http://www.maykool.com/tag/product/list/tagId/34/" style="font-size:121.66666666667%;">stripes</a></li>
-                            <li><a href="http://www.maykool.com/tag/product/list/tagId/56/" style="font-size:75%;">tiger</a></li>
+                            <li><a href="http://www.maykool.com/tag/product/list/tagId/82/" style="font-size:89%;">make</a></li>
+                            <li><a href="http://www.maykool.com/tag/product/list/tagId/94/" style="font-size:75%;">new</a></li>
+                            <li><a href="http://www.maykool.com/tag/product/list/tagId/76/" style="font-size:89%;">sexy</a></li>
+                            <li><a href="http://www.maykool.com/tag/product/list/tagId/81/" style="font-size:89%;">shoes</a></li>
+                            <li><a href="http://www.maykool.com/tag/product/list/tagId/34/" style="font-size:117%;">stripes</a></li>
+                            <li><a href="http://www.maykool.com/tag/product/list/tagId/98/" style="font-size:75%;">swag,</a></li>
+                            <li><a href="http://www.maykool.com/tag/product/list/tagId/99/" style="font-size:75%;">tank</a></li>
+                            <li><a href="http://www.maykool.com/tag/product/list/tagId/93/" style="font-size:75%;">trendy,</a></li>
+                            <li><a href="http://www.maykool.com/tag/product/list/tagId/95/" style="font-size:75%;">york,</a></li>
                     </ul>
         <div class="actions">
             <a href="http://www.maykool.com/tag/list/">View All Tags</a>
@@ -1385,7 +1195,37 @@ Enterprise.TopCart = {
     <div style="text-align:center">
     	© 2013 MayKool Store. All Rights Reserved.    </div>
 </div>
-        <script type="text/javascript"> 
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 995163996;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/995163996/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+<script type="text/javascript">
+adroll_adv_id = "EY6JZQ5HHZE6PPTTF62J2C";
+adroll_pix_id = "VJQMM5KGBNCM3HVVSTR24O";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script>        <script type="text/javascript"> 
 window.oldFbAsyncInit = window.fbAsyncInit || function(){};
 window.fbAsyncInit = function() {
 	window.oldFbAsyncInit();
