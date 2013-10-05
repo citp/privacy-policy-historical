@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastcashdesign.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502154220id_/http%3A//www.fastcashdesign.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastcashdesign.com privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005072130id_/http%3A//www.fastcashdesign.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Fast Cash Design . com : Freelance Graphic Design
 
