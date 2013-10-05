@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lyoness.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605054922id_/http%3A//www.lyoness.com/en-US/Footer-Links/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyoness.com privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005040352id_/http%3A//www.lyoness.com/en-US/Footer-Links/Privacy-Policy) for the most accurate reproduction.*
 
 # Lyoness Privacy Policy | Lyoness.com
 
