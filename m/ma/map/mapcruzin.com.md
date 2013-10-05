@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mapcruzin.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608153303id_/http%3A//mapcruzin.com/fairuse.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapcruzin.com privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005042248id_/http%3A//www.mapcruzin.com/fairuse.htm) for the most accurate reproduction.*
 
 # Cookies, Privacy, Disclaimer and fair use notice
 
@@ -6,14 +6,6 @@ January 30, 2020
 
 [](https://web.archive.org/toxic-release-inventory-tri-shapefiles-2011/)
 
-|    
-Foodopoly: The Battle Over the Future of Food and Farming in America|    
-Digital Disconnect: How Capitalism is Turning the Internet Against Democracy  
----|---  
-  
-Under the Surface: Fracking, Fortunes, and the Fate of the Marcellus Shale|    
-The End of Country: Dispatches from the Frack Zone  
-  
 [](http://twitter.com/pollutionmaps) [Follow on Twitter](http://twitter.com/pollutionmaps)
 
 A Member of the  
@@ -60,6 +52,8 @@ GIS and Google Maps Development, Website Creation and Hosting, Fast and Affordab
 
 [GIS Terminology](https://web.archive.org/gis-terms.htm)
 
+| 
+
 On This Page: Your Privacy \- Fair Use \- Disclaimer
 
 Sponsors
@@ -87,13 +81,20 @@ DoubleClick DART Cookie
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....  
 Google Adsense  
 Commission Junction  
-Clickbank 
+Clickbank  
+Amazon 
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.mapcruzin.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
 www.mapcruzin.com has no access to or control over these cookies that are used by third-party advertisers. 
 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.mapcruzin.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+
+Special Note About Google Advertising 
+
+Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to opt out of Google's cookie usage. As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google's own privacy policies. 
+
+About Google advertising: What is the DoubleClick DART cookie? The DoubleClick DART cookie is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher’s website and either view or click on an ad, a cookie may be dropped on that end user’s browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. Go here for more information: <http://www.google.com/privacy/ads/>. 
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
 
