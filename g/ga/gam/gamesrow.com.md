@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamesrow.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620111908id_/http%3A//www.gamesrow.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesrow.com privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006011629id_/http%3A//www.gamesrow.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy - Download Games - Games Download - Gamesrow.com!
 
@@ -66,6 +66,6 @@ You are responsible for maintaining the accuracy of your profile by notifying us
 
 All games are owned by their respective developers. If you believe we are hosting your game without your permission, please send us some type of verification of ownership and we will promptly remove it. 
 
-Please address comments or questions regarding this Privacy Policy to us by e-mail at webmaster /AT/ herosmack.com 
+Please address comments or questions regarding this Privacy Policy to us by e-mail at contact /AT/ herosmack.com 
 
 Your use of our site, including any dispute concerning privacy, is subject to this Privacy Policy and our Terms of Use. By using our Site, you are accepting the practices set out in this Privacy Policy and our Terms of Use. We reserve the right to modify this Privacy Policy at any time by posting the changes on this page. Please check the revision date at the bottom of this page to determine if the statement has been modified since you last reviewed it. Your continued use of any portion of our Site following posting of the updated Privacy Policy will constitute your acceptance of the changes. 10/20/08 
