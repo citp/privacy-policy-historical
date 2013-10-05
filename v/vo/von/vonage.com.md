@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vonage.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429153017id_/https%3A//support.vonage.com/app/answers/detail/a_id/984) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vonage.com privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005162108id_/https%3A//support.vonage.com/app/answers/detail/a_id/984) for the most accurate reproduction.*
 
 # Privacy Policy
 
