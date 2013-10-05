@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the unzip-online.com privacy policy that was archived on 2013-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130417091050id_/http%3A//unzip-online.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unzip-online.com privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006000716id_/http%3A//unzip-online.com/privacypolicy) for the most accurate reproduction.*
 
 # unzip-online.com | privacy policy
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [mail@unzip-online.com](mailto:mail@unzip-online.com).
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [info@unzip-online.com](mailto:info@unzip-online.com).
 
 At unzip-online.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by unzip-online.com and how we use it. 
 
