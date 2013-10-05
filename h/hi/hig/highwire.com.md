@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highwire.com privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505041718id_/http%3A//www.highwire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highwire.com privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005032211id_/http%3A//www.highwire.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — Highwire
 
@@ -24,7 +24,7 @@ Users may easily opt out of receiving any non-essential emails from Highwire by 
 
 ### Sharing your information
 
-We do not ever share or sell your personal information for commercial purposes except to provide products or services you’ve requested, and only if we have your permission. We may share aggregated non-personal information with third parties outside of Highwire. We may also share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, ensuring the security of our network and services, or when your actions violate the 
+We do not ever share or sell your personal information for commercial purposes except to provide products or services you’ve requested, and only if we have your permission. We may share aggregated non-personal information with third parties outside of Highwire. We may also share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, ensuring the security of our network and services, or when your actions violate the [Terms of Service](https://web.archive.org/terms). 
 
 ### Cookies
 
