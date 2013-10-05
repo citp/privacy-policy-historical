@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the krify.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425085952id_/http%3A//www.krify.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krify.com privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005203453id_/http%3A//www.krify.com/privacy) for the most accurate reproduction.*
 
-# SEO Developers India | SEO Development Company | Privacy Policy
+# Web Development | Mobile Development Company | Krify Privacy
 
 Krify Innovations (UK) Limited (“We”) are committed to protecting and respecting your privacy.
 
