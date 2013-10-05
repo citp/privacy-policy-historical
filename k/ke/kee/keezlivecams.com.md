@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the keezlivecams.com privacy policy that was archived on 2011-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110405212419id_/http%3A//keezlivecams.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keezlivecams.com privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005034957id_/http%3A//www.keezlivecams.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# keezlivecams.com - Privacy Policy
+# keezlivecams.com - live sex chat
 
 ## keezlivecams.com Privacy Policy
 
@@ -58,12 +58,6 @@ Visitors who wish to access or change the information they provided to our web s
 
 Visitors who have any questions about this Privacy Policy, the practices of this site, or their interactions with this web site, should visit the Support section of this site and contact us via Email. 
 
-### HOW CAN YOU OPT OUT OF PROMOTIONAL EMAILS?
+© Copyright 2005-2013 keezlivecams.com, All Rights Reserved.
 
-At the bottom of every email we provide detailed opt out instructions along with a toll free number if you are having problems removing your name from the mailing list.  Alternatively, you can opt out by visiting the following URL: [ /optout.php](https://web.archive.org/optout.php).  Once you go here, enter the email address that is receiving emails and press the submit button.  This will permanently remove your name from the mailing list.
-
-© Copyright 2005-2010 keezlivecams.com, All Rights Reserved.
-
-Toll Free 24 Hour Support Line: **1-866-449-9191**  
-International 24 Hour Support Line: **+1-312-264-4170**  
-UK 24 Hour Support Line: **+44 20 8002 9067**
+[Click Here to contact Customer Support](https://web.archive.org/web/20131005034957id_/http%3A//www.keezlivecams.com/index.php?action=MailSupport)
