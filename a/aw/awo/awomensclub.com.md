@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awomensclub.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117013425id_/http%3A//www.awomensclub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awomensclub.com privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005082240id_/http%3A//www.awomensclub.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Beauty Tips
 
