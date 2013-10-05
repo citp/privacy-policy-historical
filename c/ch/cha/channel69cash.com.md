@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the channel69cash.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430100405id_/http%3A//www.channel69cash.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the channel69cash.com privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005025610id_/http%3A//www.channel69cash.com/privacy.php) for the most accurate reproduction.*
 
 # PRIVACY
 
