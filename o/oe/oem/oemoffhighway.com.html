@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the oemoffhighway.com privacy policy that was archived on 2013-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130622142557id_/http%3A//www.oemoffhighway.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the oemoffhighway.com privacy policy that was archived on 2013-10-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131005200738id_/http%3A//www.oemoffhighway.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><!--<![endif]--><head>
 
@@ -11,14 +11,14 @@
    <!-- Meta tag includes -->
    <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge;chrome=1">
-<meta name="viewport" content="width=device-width, initial-scale=0.8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta property="fb:app_id" content="122483851148174">
 
 
    
 
    <!-- Begin included CSS -->
-   <link rel="stylesheet" type="text/css" href="http://www.oemoffhighway.com/app/merrick/files/www.oemoffhighway.com/css/master.orion.css?m=1371756110">
+   <link rel="stylesheet" type="text/css" href="http://www.oemoffhighway.com/app/merrick/files/www.oemoffhighway.com/css/master.orion.css?m=1380827765">
 
    <!-- End included CSS -->
 
@@ -41,7 +41,7 @@
 }
 
 </script>
-<script type="text/javascript" src="http://www.oemoffhighway.com/app/merrick/files/www.oemoffhighway.com/js/54582e73006f7739c6603845ed9bb77a.js"></script>
+<script type="text/javascript" src="http://www.oemoffhighway.com/app/merrick/files/www.oemoffhighway.com/js/b111d98d05148be40a2c634aa44d6770.js"></script>
 
 
    
@@ -68,8 +68,9 @@ var _gaq = _gaq || [];
 
    var default_fb_image = 'http://r2.cygnuspub.com/files/media/www.oemoffhighway.com/orion/site_logo_fb.png';
 
-var OX_b39bfedd = OX();
-OX_b39bfedd.addAdUnit('328036,31845,31849,31850,31847,31844,31851,76511,76512');
+var OX_default = OX();
+if (typeof openxOnAdUnitRenderFinish === "function") {OX_default.addHook(openxOnAdUnitRenderFinish, 4);}
+OX_default.addAdUnit('328036,31845,31849,31850,31847,31844,31851,76511,76512');
 //]]>
 </script>
 
@@ -128,17 +129,40 @@ $(document).ready(function(){
 
 
 
+
    /* If the ad is being displayed, provide close button functionality */
    /* Animate the ad gracefully. */
+
    var timeout = 15000;
+
    if (typeof $('#welcome_ad')[0] != 'undefined' && $('#welcome_ad')[0].nodeName == 'DIV'){
+
       $('#welcome_ad .close').click(function(){ $('#welcome_ad').animate({ height: 0 }, 800, function() { $(this).remove(); }); });
+
       $('#welcome_ad').animate({ height: 520 }, 800);
-      if ($('#welcome_ad[class^=\'time_\']').length > 0){
+
+      if ($('#welcome_ad[class^=\'time_\']').length > 0) {
+
          var timeout = $('#welcome_ad[class^=\'time_\']').attr('class').split('_')[1]*1000;
+
       }
-      setTimeout("$('#welcome_ad').animate({ height: 0 }, 800, function() { $(this).remove(); });", timeout);
+
+      window.welcomeAdTimeoutHandle = window.setTimeout(function() {
+         $('#welcome_ad').animate({ height: 0 }, 800, function() { $(this).remove(); });
+      }, timeout);
+
+      $('#welcome_ad').on('hover', function() {
+
+         if ($(this).hasClass('persist-on-hover')) {
+
+            window.clearTimeout(window.welcomeAdTimeoutHandle);
+
+         }
+
+      });
+
    } else {
+
       if ($('#welcome_frame').contents().find('#welcome_ad[class^=\'time_\']').length > 0){
          var timeout = $('#welcome_frame').contents().find('#welcome_ad[class^=\'time_\']').attr('class').split('_')[1]*1000;
       }
@@ -160,19 +184,43 @@ $(document).ready(function(){
 
 
 
-      var items = $('.ad_tracking');
+      $( '.ad_tracking' ).on( 'click', function() {
+         
+         var openxAdObj = openxGetAdObject($(this));
+
+         if (typeof openxAdObj.adunit_id !== 'undefined') {
+            btAdClickHandler(openxAdObj);
+            _gaq.push(['_trackEvent', 'Advertising', 'Click', openxAdObj.adunit_id, undefined, true]);
+         }
+
+      }).find( '.close' ).on( 'click', function() {
+         return false;
+
+      });
+
+
+      var ad_units = $('.ad_tracking');
       var blocks = $('.block_level_tracking');
+
       $(window).on('scroll load', function () {
 
-         items.each(function() {
-            var ad_unit_id = $(this).attr('rel');
+         ad_units.each(function(index) {
+            var openxAdObj = openxGetAdObject($(this));
             var inviewport = $(this).is(':topInViewport');
 
             if (inviewport && !$(this).data('displayed')) {
+               // Mark the ad as being viewed
                $(this).data('displayed', true);
-               _gaq.push(['_trackEvent', 'Advertising', 'In-View Impression', ad_unit_id, undefined, true]);
-            }
 
+               // Remove from the loop
+               ad_units.splice(index, 1);
+
+               // Send to GA and Baretrax
+               if (typeof openxAdObj.adunit_id !== 'undefined') {
+                  btAdImpressionHandler(openxAdObj);
+                  _gaq.push(['_trackEvent', 'Advertising', 'In-View Impression', openxAdObj.adunit_id, undefined, true]);
+               }
+            }
          });
 
          blocks.each(function() {
@@ -224,9 +272,9 @@ window.setTimeout('social_activity_init()', 1000);});
    
 <script type="text/javascript">
 //<![CDATA[
-OX_b39bfedd.addVariable("env", "live");
-OX_b39bfedd.addVariable("pathname", "/privacy-policy");
-OX_b39bfedd.fetchAds();
+OX_default.addVariable("env", "live");
+OX_default.addVariable("pathname", "/privacy-policy");
+OX_default.fetchAds();
 //]]>
 </script>
 
@@ -238,6 +286,8 @@ OX_b39bfedd.fetchAds();
    
    
    
+
+
 
 
 
@@ -279,7 +329,10 @@ OX_b39bfedd.fetchAds();
 <!-- Background Ad JS (custom) -->
 
 
+
+
 <!-- addOptions wrapper (custom) -->
+
 
 
 
@@ -307,6 +360,8 @@ OX_b39bfedd.fetchAds();
 <!-- Piwik -->
 
 
+   
+   
 
 
 
@@ -365,8 +420,8 @@ OX_b39bfedd.fetchAds();
       </a>
 
          <div class="primary">
-   	      <a id="login_link" href="/reg/login/display?referer=/privacy-policy" class="login button_primary button grid_item" title="Sign In">Login</a>
-      <a id="register_link" href="/reg/register/display?referer=/privacy-policy" class="button_secondary button register grid_item alpha" title="Register for OEM Off-Highway">Register</a>
+   	      <a id="login_link" href="/reg/login/display" class="login button_primary button grid_item" title="Sign In">Login</a>
+      <a id="register_link" href="/reg/register/display" class="button_secondary button register grid_item alpha" title="Register for OEM Off-Highway">Register</a>
       
       <div class="social_login grid_item">
          <script type="text/javascript">
@@ -404,7 +459,7 @@ OX_b39bfedd.fetchAds();
 
    <div class="header_advertisement">
     <aside class="ad_970x66">
-   <div class="openx_ad ad_tracking" rel="328036" id="openx_adunit_id__328036"><script type="text/javascript">OX_b39bfedd.showAdUnit("328036");</script></div>
+   <div class="openx_ad ad_tracking" rel="328036" id="openx_adunit_id__328036"><script type="text/javascript">OX_default.showAdUnit("328036");</script></div>
 </aside>  
   </div>
 
@@ -415,7 +470,7 @@ OX_b39bfedd.fetchAds();
    <!-- Navigation -->
    <nav id="navigation" class="test">
    <ul class="primary clearfix">
-	      <li class="nav_home active selected_home first"><a href="http://www.oemoffhighway.com" target=""><span>Home</span></a></li>
+	      <li class="nav_home active selected_home first"><a href="http://www.oemoffhighway.com" target=""><span class="arrow">Home</span></a></li>
 	      <li class="nav_topics"><a href="http://www.oemoffhighway.com/topics" target=""><span>Topics</span></a></li>
 	      <li class="nav_industries"><a href="http://www.oemoffhighway.com/industries" target=""><span>Industries</span></a></li>
 	      <li class="nav_economics"><a href="http://www.oemoffhighway.com/economics" target=""><span>Economics</span></a></li>
@@ -457,6 +512,7 @@ OX_b39bfedd.fetchAds();
 		</ul>
 	<!-- end secondary navigation -->
 </nav>
+
 
    <!-- Context Menu  -->
          
@@ -560,7 +616,7 @@ OX_b39bfedd.fetchAds();
 
 
       <aside class="ad_300x250">
-   <div class="openx_ad ad_tracking" rel="31845" id="openx_adunit_id__31845"><script type="text/javascript">OX_b39bfedd.showAdUnit("31845");</script></div>
+   <div class="openx_ad ad_tracking" rel="31845" id="openx_adunit_id__31845"><script type="text/javascript">OX_default.showAdUnit("31845");</script></div>
 </aside>
    
 
@@ -584,8 +640,9 @@ var params = {
       
 <div class="grid_9_10 alpha most_popular_sidebar">
    <aside class="ad_120x90">
-   <div class="openx_ad ad_tracking" rel="31849" id="openx_adunit_id__31849"><script type="text/javascript">OX_b39bfedd.showAdUnit("31849");</script></div>
+   <div class="openx_ad ad_tracking" rel="31849" id="openx_adunit_id__31849"><script type="text/javascript">OX_default.showAdUnit("31849");</script></div>
 </aside>
+
    
 <section class="content_list block">
 
@@ -617,7 +674,9 @@ var params = {
                            
 <dl class="press_release">
 
-    <dd><a href="/press_release/10963207/oshkosh-defense-demonstrates-its-jltv-prototypes-for-dod" class="primary name">Oshkosh Defense demonstrates its JLTV prototypes for DOD</a></dd>
+    <dd>
+    	<a href="/press_release/11178200/paul-nutzfahrzeuge-agricultural-tractor-semitrailer-unit-provides-on-and-off-road-mobility" class="primary name">Paul Nutzfahrzeuge Agricultural Tractor/Semitrailer unit...</a>
+    </dd>
 
 </dl>
 
@@ -645,7 +704,9 @@ var params = {
                            
 <dl class="press_release">
 
-    <dd><a href="/press_release/10963363/komatsu-launches-its-first-intelligent-machine-control-dozer" class="primary name">Komatsu launches its first intelligent Machine Control...</a></dd>
+    <dd>
+    	<a href="/press_release/11182214/volvo-model-year-2014-engines-to-offer-up-to-2-fuel-efficiency-improvements" class="primary name">Volvo model year 2014 engines to offer up to 2% fuel...</a>
+    </dd>
 
 </dl>
 
@@ -671,9 +732,11 @@ var params = {
 
             <!-- Does this list contain featured items? -->
                            
-<dl class="product">
+<dl class="press_release">
 
-    <dd><a href="/product/10057446/terra-drive-systems-formerly-tuthill-drive-systems-ez-trac-steerable-hydraulic-drive-axle" class="primary name">EZ Trac steerable hydraulic drive axle</a></dd>
+    <dd>
+    	<a href="/press_release/11176023/oshkosh-defense-launching-new-oshkosh-p-19-arff-vehicle" class="primary name">Oshkosh Defense launching new Oshkosh P-19 ARFF vehicle</a>
+    </dd>
 
 </dl>
 
@@ -701,7 +764,9 @@ var params = {
                            
 <dl class="product">
 
-    <dd><a href="/product/10963252/grote-industries-led-signal-lamps-for-off-highway-applications" class="primary name">LED Signal Lamps for Off-Highway Applications</a></dd>
+    <dd>
+    	<a href="/product/11108977/titan-tire-corp-a-subsidiary-of-titan-intl-lsw-wheels-and-tires" class="primary name">LSW Wheels and Tires</a>
+    </dd>
 
 </dl>
 
@@ -727,9 +792,11 @@ var params = {
 
             <!-- Does this list contain featured items? -->
                            
-<dl class="press_release">
+<dl class="news">
 
-    <dd><a href="/press_release/10956748/volvo-trucks-commercializing-dme-fueled-trucks-in-north-america" class="primary name">Volvo Trucks Commercializing DME-Fueled Trucks in North...</a></dd>
+    <dd>
+    	<a href="/news/11177002/eaton-developing-hybrid-system-with-smaller-battery" class="primary name">Eaton developing hybrid system with smaller battery</a>
+    </dd>
 
 </dl>
 
@@ -758,14 +825,15 @@ var params = {
    
 </section>
 
+   
    <aside class="ad_120x90">
-   <div class="openx_ad ad_tracking" rel="31850" id="openx_adunit_id__31850"><script type="text/javascript">OX_b39bfedd.showAdUnit("31850");</script></div>
+   <div class="openx_ad ad_tracking" rel="31850" id="openx_adunit_id__31850"><script type="text/javascript">OX_default.showAdUnit("31850");</script></div>
 </aside>
 </div>
 
    <div class="grid_11_12 omega">
       <aside class="ad_160x600">
-   <div class="openx_ad ad_tracking" rel="31847" id="openx_adunit_id__31847"><script type="text/javascript">OX_b39bfedd.showAdUnit("31847");</script></div>
+   <div class="openx_ad ad_tracking" rel="31847" id="openx_adunit_id__31847"><script type="text/javascript">OX_default.showAdUnit("31847");</script></div>
 </aside>
    </div>
 
@@ -788,7 +856,7 @@ var params = {
       <footer id="footer">
    <div class="ad_container">
       <aside class="ad_728x90">
-   <div class="openx_ad ad_tracking" rel="31844" id="openx_adunit_id__31844"><script type="text/javascript">OX_b39bfedd.showAdUnit("31844");</script></div>
+   <div class="openx_ad ad_tracking" rel="31844" id="openx_adunit_id__31844"><script type="text/javascript">OX_default.showAdUnit("31844");</script></div>
 </aside>
    </div>
     
@@ -829,6 +897,11 @@ var params = {
 </div>
 
 
+   <style type="text/css">
+.reg-prompt-form .container {
+   width: 630px !important;
+}
+</style>
 <div class="container reg-prompt-container">
 	<div class="reg-prompt message">
 		<div class="reg-prompt-header">
@@ -837,6 +910,7 @@ var params = {
 			<a class="reg-prompt login  button_primary button" href="/reg/login/display">Log in</a>
 		</div>
 		<div class="reg-prompt-body">
+
 
 						<div class="reg-prompt-intro">
 		   	
@@ -860,15 +934,15 @@ var params = {
          <!--[if gte IE 6 ]> <iframe src="/welcomead.html?env=live&pathname=%2Fprivacy-policy" align="middle" scrolling="no" frameborder="0" id="welcome_frame" style="left:25%;right:25%;width:640px;height:0px;margin:0 auto;"></iframe><![endif]-->
       <!--[if (gt IE 9)|!(IE)]><!-->
          <aside class="ad_flexible">
-   <div class="openx_ad ad_tracking" rel="31851" id="openx_adunit_id__31851"><script type="text/javascript">OX_b39bfedd.showAdUnit("31851");</script></div>
+   <div class="openx_ad ad_tracking" rel="31851" id="openx_adunit_id__31851"><script type="text/javascript">OX_default.showAdUnit("31851");</script></div>
 </aside>
       <!--[endif]---->
 
             <aside class="ad_flexible">
-   <div class="openx_ad ad_tracking" rel="76511" id="openx_adunit_id__76511"><script type="text/javascript">OX_b39bfedd.showAdUnit("76511");</script></div>
+   <div class="openx_ad ad_tracking" rel="76511" id="openx_adunit_id__76511"><script type="text/javascript">OX_default.showAdUnit("76511");</script></div>
 </aside>
             <aside class="ad_flexible">
-   <div class="openx_ad ad_tracking" rel="76512" id="openx_adunit_id__76512"><script type="text/javascript">OX_b39bfedd.showAdUnit("76512");</script></div>
+   <div class="openx_ad ad_tracking" rel="76512" id="openx_adunit_id__76512"><script type="text/javascript">OX_default.showAdUnit("76512");</script></div>
 </aside>
       
 
@@ -902,7 +976,10 @@ var params = {
 
 
 
-   <script type="text/javascript" src="http://www.oemoffhighway.com/app/merrick/files/www.oemoffhighway.com/js/5810c50d493c5601bb0c89c00e5b993b.js"></script>
+
+
+
+   <script type="text/javascript" src="http://www.oemoffhighway.com/app/merrick/files/www.oemoffhighway.com/js/837d96ec0ad4c215fb7c3e8e15b63fdd.js"></script>
 
 
    
@@ -927,46 +1004,46 @@ var params = {
    
    
 
-window['tracker_data'] = { };
-try {
-   var _paq = _paq || [];
-   (function(){
-    var u='/lib/piwik/';
-    _paq.push(['setSiteId', 1]);
-    _paq.push(['setTrackerUrl', u+'piwik.php']);
-    _paq.push(['setDomains','*.oemoffhighway.com']);
-    _paq.push(['setCustomData',window['tracker_data']]);
-    _paq.push(['setRequestMethod','POST']);
-    _paq.push(['trackPageView']);
-    _paq.push(['enableLinkTracking']);
-    var d=document,
-        g=d.createElement('script'),
-        s=d.getElementsByTagName('script')[0];
-        g.type='text/javascript';
-        g.defer=true;
-        g.async=true;
-        g.src=u+'piwik.js';
-        s.parentNode.insertBefore(g,s);
-   })();
-} catch( err ) { }
-
-function track_action(action,name,data) {
-
-   if (typeof name == 'undefined') var name = '';
-   if (typeof data == 'undefined') var data = window['tracker_data'];
-   data['action_'+action] = true;
+   window['tracker_data'] = { };
    try {
-     var u='/lib/piwik/';
-     var piwikTracker = Piwik.getTracker(u + 'piwik.php', 1);
-     piwikTracker.setDomains('*.oemoffhighway.com');
-     if (name != '') piwikTracker.setDocumentTitle(name);
-     piwikTracker.setCustomData(data);
-     piwikTracker.setRequestMethod('POST');
-     piwikTracker.trackPageView();
+      var _paq = _paq || [];
+      (function(){
+       var u='/lib/piwik/';
+       _paq.push(['setSiteId', 1]);
+       _paq.push(['setTrackerUrl', u+'piwik.php']);
+       _paq.push(['setDomains','*.oemoffhighway.com']);
+       _paq.push(['setCustomData',window['tracker_data']]);
+       _paq.push(['setRequestMethod','POST']);
+       _paq.push(['trackPageView']);
+       _paq.push(['enableLinkTracking']);
+       var d=document,
+           g=d.createElement('script'),
+           s=d.getElementsByTagName('script')[0];
+           g.type='text/javascript';
+           g.defer=true;
+           g.async=true;
+           g.src=u+'piwik.js';
+           s.parentNode.insertBefore(g,s);
+      })();
    } catch( err ) { }
-}
 
+   function track_action(action,name,data) {
 
+      if (typeof name == 'undefined') var name = '';
+      if (typeof data == 'undefined') var data = window['tracker_data'];
+      data['action_'+action] = true;
+      try {
+        var u='/lib/piwik/';
+        var piwikTracker = Piwik.getTracker(u + 'piwik.php', 1);
+        piwikTracker.setDomains('*.oemoffhighway.com');
+        if (name != '') piwikTracker.setDocumentTitle(name);
+        piwikTracker.setCustomData(data);
+        piwikTracker.setRequestMethod('POST');
+        piwikTracker.trackPageView();
+      } catch( err ) { }
+   }
+
+   
 
 <!-- Default Insight Tag -->
 var _bizo_data_partner_id = "786";
