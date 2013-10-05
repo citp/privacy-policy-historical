@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inteligator.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609163712id_/http%3A//www.inteligator.com/home/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inteligator.com privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005032618id_/http%3A//www.inteligator.com/home/privacy.php) for the most accurate reproduction.*
 
 # Inteligator.com - Privacy Policy
 
@@ -26,7 +26,7 @@ A cookie is a small text file that is stored on a user’s computer for record-k
 **Notifications & Opt-Out  
 **If you choose to purchase InteliGator services, we will send you a welcome email including information about InteliGator and your purchase. Unless you elect otherwise, we will periodically send you emails notifying you about new or upcoming products or services, information about changing or updating your registration or payment information, changes to our Terms of Service and Privacy Policy, and promotional materials and offers from our company as well as from our subsidiaries, affiliates, marketing partners, advertisers and other third parties. Out of respect for your privacy, if you no longer wish to receive these emails, you may opt-out of receiving them by 
 
-_[clicking here](http://www.inteligator.com/confirmation/unsubscribe.php)_. As a courtesy, we also provide you with a method of opting out of having certain information about you appear in our search results. Please _[click here](https://web.archive.org/web/20110609163712id_/http%3A//www.inteligator.com/home/optout.php)_ to view our Data Opt Out Policy. 
+_[clicking here](http://www.inteligator.com/confirmation/unsubscribe.php)_. As a courtesy, we also provide you with a method of opting out of having certain information about you appear in our search results. Please _[click here](https://web.archive.org/web/20131005032618id_/http%3A//www.inteligator.com/home/optout.php)_ to view our Data Opt Out Policy. 
 
 **Disclosure**
 
@@ -34,7 +34,7 @@ We understand how highly our users value the privacy and security of their perso
 
 We **** may also sell, rent or lease your personal information to our marketing partners, advertisers or other third parties. If you would prefer that we not share your personal information with such third parties, please 
 
-___[click here](https://web.archive.org/web/20110609163712id_/http%3A//www.inteligator.com/home/optout.php)_. 
+___[click here](https://web.archive.org/web/20131005032618id_/http%3A//www.inteligator.com/home/optout.php)_. 
 
 Should you forget your account login information, you may request that we send it to the email address associated with your account. To prevent unauthorized disclosure of and access to your account and search history, you should take steps to keep your email address and account information secure. 
 
@@ -52,6 +52,6 @@ However, please be advised that while we make every effort to ensure the integri
  **Contact Us  
 **If you have any questions or concerns about this policy or any InteliGator product or service, please 
 
-_[click here](https://web.archive.org/web/20110609163712id_/http%3A//www.inteligator.com/home/help.php)_ to contact us. 
+_[click here](https://web.archive.org/web/20131005032618id_/http%3A//www.inteligator.com/home/help.php)_ to contact us. 
 
 Effective Date: July 12, 2010
