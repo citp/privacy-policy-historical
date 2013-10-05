@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fleshlightgirls.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602223523id_/http%3A//www.fleshlight.com/faq-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fleshlightgirls.com privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005193927id_/http%3A//www.fleshlight.com/faq-privacy-policy) for the most accurate reproduction.*
 
 # None
 
