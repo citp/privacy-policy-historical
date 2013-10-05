@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thisissouthwales.co.uk privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530225322id_/http%3A//www.thisissouthwales.co.uk/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thisissouthwales.co.uk privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005142119id_/http%3A//www.thisissouthwales.co.uk/privacypolicy.html) for the most accurate reproduction.*
 
 # This is South Wales | Privacy Policy
 
