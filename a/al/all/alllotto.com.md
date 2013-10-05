@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alllotto.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527224644id_/http%3A//www.alllotto.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alllotto.com privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005042026id_/http%3A//www.alllotto.com/privacy.php) for the most accurate reproduction.*
 
 # Latest Lottery News
 
