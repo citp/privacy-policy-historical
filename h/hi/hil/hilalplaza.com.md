@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the hilalplaza.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530232210id_/http%3A//www.hilalplaza.com/hilalplaza_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hilalplaza.com privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005214525id_/http%3A//www.hilalplaza.com/hilalplaza_privacy_policy.html) for the most accurate reproduction.*
 
-# HilalPlaza.com Privacy Policy
+# Islamic Online Education and Online Degree Programs - Graduate, Masters. Doctorate, PhD
 
-  
 HilalPlaza.com takes your privacy seriously. The following provides details on our privacy policy.  
  
 
@@ -74,7 +73,7 @@ o        HilalPlaza.com advertisers include financial service providers (
 
 HilalPlaza.com  
 Customer Care - Privacy Policy Issues  
-25865 Triton Ct 
+22951 Los Alisos Blvd
 
 Mission Viejo, CA 92691
 
