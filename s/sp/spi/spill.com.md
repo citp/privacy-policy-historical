@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spill.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115212430id_/http%3A//www.spill.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spill.com privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005090641id_/http%3A//spill.hollywood.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Spill.com Privacy Policy
 
