@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the gust.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229045046id_/http%3A//www.gust.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gust.com privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005101723id_/http%3A//gust.com/privacy) for the most accurate reproduction.*
 
-# Angel Investors | Startup Funding
+# Privacy Policy
 
 Effective Date: April 2, 2011 
 
 [ Contacting Gust ](mailto:support@gust.com)
 
-The Gust platform is a set of tools for investors and entrepreneurs. It is also a portal where entrepreneurs and investors may exchange information. Gust licenses the Gust Platform to investor groups for the management of the investments of their members. 
+By using the Gust platform, you agree to be bound by the terms described in this Privacy Policy. 
 
 ##  Table of Contents 
 
@@ -78,7 +78,6 @@ We also collect personal data that you provide when you interact with the Gust p
   * ####  When you use your account 
 
 We collect information that you provide or create when you use your account: 
-
     * ####  If you are an investor , 
 
 you may record in your profile within your Investor Group information about yourself, such as your contact information, picture, biography, experience, or other groups to which you belong. 
@@ -115,16 +114,10 @@ Back to Top
 
   * ####  If you are an investor 
 
-The Gust Platform allows the administrator of an investor group the ability to set certain settings in the profile of the members of the investor group. Thus, for each investor group, the group administrator decides which information is available for access or review by third parties, and which information is not to be disclosed, or is disclosed to selected third parties, according to the policies of the investor group. 
-
-Please note that (1) **the default settings that are set by a group administrator may change from time to time;** (2) each investor group may opt for different default settings. **We have no control over the choice of a setting or the change in a default setting by a group administrator.**
-
+The Gust Platform allows the administrator of an investor group the ability to set certain settings in the profile of the members of the investor group. Thus, for each investor group, the group administrator decides which information is available for access or review by third parties, and which information is not to be disclosed, or is disclosed to selected third parties, according to the policies of the investor group.  Please note that (1) **the default settings that are set by a group administrator may change from time to time;** (2) each investor group may opt for different default settings. **We have no control over the choice of a setting or the change in a default setting by a group administrator.**
   * ####  If you are an entrepreneur or a student entrepreneur 
 
 If you are an entrepreneur and you have posted or uploaded information about you and/or your team, this information is disclosed to the investor groups to whom you have chosen to disclose the information. 
-
-If you solicit funding using Open Deals then all investor groups can see the information that you have uploaded as part of the posting. 
-
 
 
 
@@ -137,15 +130,12 @@ Under certain business or legal conditions, Gust may have to disclose your perso
   * ####  Service Providers 
 
 Gust may engage other companies and individuals to perform necessary business functions on behalf of Gust (e.g. outside contractors or service providers). If it is necessary to perform these functions, these persons may have access to personal data of our users. These service providers have agreed not to use the personal data for any other purpose other than providing the required services. 
-
   * ####  Legally Required Disclosure 
 
 Under certain circumstances, disclosure of your personal data may be required by law. Gust may disclose your personal data (1) if, in its own best judgment, it is required to do so in order to comply with a facially valid judicial or governmental subpoena, warrant, or other order, or (2) to a government institution that has asserted its lawful authority to obtain the information, or (3) in connection with the exercise or defense of its rights. 
-
   * ####  Change of Ownership 
 
 If ownership of Gust changes as a result of a merger, acquisition, or transfer to another company, your personal data may be transferred to the successor entity. If such transfer takes place, you will be notified of any material changes to the Privacy Policy and provided with the ability to opt-out of the transfer of your personal data to the third party. 
-
 
 
 
@@ -165,7 +155,7 @@ You can delete any personal data that is recorded in the profile that you create
 
 You can request the administrator of your Angel Group to delete any messages that contain personal data and your request will be handled by your Angel Group according to its policies. 
 
-What is Aggregated Data, and how is it used? 
+Back to Top 
 
 ###  What is Aggregated Data, and how is it used? 
 
@@ -192,18 +182,10 @@ Back to Top
 
   * ####  Cookies 
 
-Gust uses 'cookies.' A cookie is a small amount of data sent to a user's web browser from a web server, which is then stored on the user's hard drive. Cookies are used to make site navigation easier, and can help recognize a returning visitor. Gust's cookies do not generate any personal data, do not read personal data from your computer, and are not tied to any personal data. 
-
-Most browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies, or to prompt you before accepting cookies from the sites that you visit. If you decide not to accept our cookies, some or all features of the site may not be available because navigation on the site is facilitated by cookies. 
-
-You can delete cookies from your computer at any time. You can learn more about cookies by visiting: [www.allaboutcookies.org](http://www.allaboutcookies.org/) or [www.networkadvertising.org.](http://www.networkadvertising.org/)
-
+Gust uses 'cookies.' A cookie is a small amount of data sent to a user's web browser from a web server, which is then stored on the user's hard drive. Cookies are used to make site navigation easier, and can help recognize a returning visitor. Gust's cookies do not generate any personal data, do not read personal data from your computer, and are not tied to any personal data.  Most browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies, or to prompt you before accepting cookies from the sites that you visit. If you decide not to accept our cookies, some or all features of the site may not be available because navigation on the site is facilitated by cookies.  You can delete cookies from your computer at any time. You can learn more about cookies by visiting: [www.allaboutcookies.org](http://www.allaboutcookies.org/) or [www.networkadvertising.org.](http://www.networkadvertising.org/)
   * ####  Action Tags 
 
-Gust uses action tags. An action tag is a small piece of code that is placed on a webpage or in an email in order to track the pages viewed or the messages opened, the date and time when someone visited our website, the website from which the visitor came, the type of browser used, and the domain name and address of the user's Internet Service Provider. 
-
-Action tags allow us to better understand how users and visitors use our site or browse through our pages, so that we can improve access to and navigation through the site, add or modify pages, according to our user's patterns. Action tags cannot be removed or deleted by our users, because they are part of the programming of a webpage. 
-
+Gust uses action tags. An action tag is a small piece of code that is placed on a webpage or in an email in order to track the pages viewed or the messages opened, the date and time when someone visited our website, the website from which the visitor came, the type of browser used, and the domain name and address of the user's Internet Service Provider.  Action tags allow us to better understand how users and visitors use our site or browse through our pages, so that we can improve access to and navigation through the site, add or modify pages, according to our user's patterns. Action tags cannot be removed or deleted by our users, because they are part of the programming of a webpage. 
 
 
 
@@ -263,7 +245,7 @@ All changes will apply to the personal data that are already collected, and to p
 
 If any proposed change is unacceptable to you, you will have the right to terminate your account. 
 
-If we decide to change this Privacy Policy in a material way, we will obtain the necessary consents required under applicable laws if we seek to collect, use or,disclose personal data for purposes other than those for which consent has beeobtained, unless this change is otherwise required or permitted by law. 
+If we decide to change this Privacy Policy in a material way, we will obtain the necessary consents required under applicable laws if we seek to collect, use or,disclose personal data for purposes other than those for which consent has been obtained, unless this change is otherwise required or permitted by law. 
 
 Back to Top 
 
