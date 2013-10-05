@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hancockbank.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116144026id_/http%3A//hancockbank.com/home/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hancockbank.com privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005121423id_/http%3A//www.hancockbank.com/home/privacy-policy.asp) for the most accurate reproduction.*
 
 # Hancock Bank: Privacy Policy
 
@@ -123,7 +123,7 @@ Through use of a "Contact Us" feedback form, Hancock Bank invites visitors on it
 
 ## Applications for Products and Services
 
-Through its Web site, Hancock Bank offers opportunities to apply for various products and services online, such as PC banking and brokerage services. Visitors who choose to apply for such products and services provide personal information Hancock Bank needs to process the application. To protect the confidentiality of the information submitted, Hancock Bank uses secure socket layer (SSL) technology. SSL technology establishes a "secure" Internet session and encodes the data submitted to the Hancock Bank Web site, ensuring that the information is accessible only to an authorized Hancock Bank representative and the customer. To support SSL, customers must have an Internet browser that supports state-of-the-art 128-bit "strong" encryption, such as Netscape 6.1 and higher, Microsoft's Internet Explorer 6.0 and higher, and AOL 3.0 (Windows). A customer can tell whether a document comes from a secure server by looking at the location (URL) field. If the URL begins with https:// (instead of http://), the document comes from a secure server. After you have submitted an application online, Hancock Bank recommends that you end your browser session before leaving your computer.
+Through its Web site, Hancock Bank offers opportunities to apply for various products and services online, such as PC banking and brokerage services. Visitors who choose to apply for such products and services provide personal information Hancock Bank needs to process the application. To protect the confidentiality of the information submitted, Hancock Bank uses secure socket layer (SSL) technology. SSL technology establishes a "secure" Internet session and encodes the data submitted to the Hancock Bank Web site, ensuring that the information is accessible only to an authorized Hancock Bank representative and the customer. To support SSL, we recommend that you update your preferred browser to its most current version. A customer can tell whether a document comes from a secure server by looking at the location (URL) field. If the URL begins with https:// (instead of http://), the document comes from a secure server. After you have submitted an application online, Hancock Bank recommends that you end your browser session before leaving your computer. 
 
 ## Protecting Your Bank Online
 
@@ -139,7 +139,7 @@ Hancock Bank offers visitors to its Web site the opportunity to inquire about em
 
 ## Transactional Services
 
-Within its website, Hancock Bank collects personal information necessary to complete transactions or provide data requested by the visitor (for example, account balances and check clearance dates). To protect the confidentiality of the information submitted, Hancock Bank requires that visitors have a browser that supports 128-bit "strong" encryption, i.e., Netscape 6.1 and higher, Microsoft's Internet Explorer 6.0 and higher and AOL 3.0 (Windows).
+Within its website, Hancock Bank collects personal information necessary to complete transactions or provide data requested by the visitor (for example, account balances and check clearance dates). To protect the confidentiality of the information submitted, Hancock Bank requires that visitors have a browser that supports 128-bit "strong" encryption.  We recommend that you update your preferred browser to its most current version.
 
 ## Use of Cookies
 
@@ -152,7 +152,7 @@ A cookie is a small piece of information about an Internet session that may be c
 
 
 
-* **Except for e-Banking**. Please refer to [e-Banking FAQ](https://web.archive.org/web/20130116144026id_/http%3A//hancockbank.com/personal/eBanking/e-banking-faq.asp) for more information regarding the use of Cookies with e-Banking.
+* **Except for e-Banking**. Please refer to [e-Banking FAQ](https://web.archive.org/web/20131005121423id_/http%3A//www.hancockbank.com/personal/eBanking/e-banking-faq.asp) for more information regarding the use of Cookies with e-Banking.
 
 ## Use of Information Collected
 
@@ -166,6 +166,11 @@ Certain Hancock Bank employees will be provided with a visitor's information in 
 
 Keeping your account information accurate and up-to-date is very important. If you ever find that our records are incomplete, inaccurate or not current, please call the telephone number on your account statement or e-mail [customer service](mailto:%20service@hancockbank.com). We will correct the information as quickly as possible.
 
-## Visitors
+**Children’s Online Privacy**  
+Hancock Bank does not collect information on our web sites from persons we actually know are under 13 years old, and no part of our web site is targeted toward any person under 13 years old. Parents can limit web site access by their children by installing programs that enable parental control of Internet access.
 
-Visitors having specific questions regarding any information may e-mail Hancock Bank at [service@hancockbank.com](mailto:service@hancockbank.com).
+Children under the age of 13 are protected from the online collection of personal information by the Children's Online Privacy Protection Act (COPPA). To learn more about COPPA visit the Federal Trade Commission's web site (www.ftc.gov).
+
+**Visitors**
+
+Visitors having specific questions regarding any information may [e-mail](http://hancockbank.com/home/home-e-mail.asp) Hancock Bank.
