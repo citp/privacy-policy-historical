@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idols69.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611200825id_/http%3A//www.supportidols.com/support_faq/idols69-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idols69.com privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005104735id_/http%3A//www.supportidols.com/support_faq/idols69-privacy.html) for the most accurate reproduction.*
 
 # Idols69.com - Privacy Statement
 
