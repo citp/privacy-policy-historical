@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebitcoinchannel.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621233358id_/http%3A//www.thebitcoinchannel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebitcoinchannel.com privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005033753id_/http%3A//www.thebitcoinchannel.com/privacy) for the most accurate reproduction.*
 
 # Privacy « The Bitcoin Channel
 
