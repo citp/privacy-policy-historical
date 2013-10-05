@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instantestore.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531234441id_/http%3A//www.instantestore.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantestore.com privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005113413id_/http%3A//www.instantestore.com/privacy_policy.cfm) for the most accurate reproduction.*
 
 # InstanteStore Privacy Policy
 
@@ -57,12 +57,6 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
- **California Online Privacy Protection Act Compliance**
-
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
-
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Profile' page.
-
  **Childrens Online Privacy Protection Act Compliance**
 
 We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
@@ -85,8 +79,10 @@ This policy was last modified on 23rd August 2011
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-http://www.instantestore.com/ecommerce-support.cfm  
-6th Floor Hotel Royal Penang, 3 Jalan Larut  
-Georgetown, Penang 10050  
-Malaysia  
-support@instantestore.com
+[http://www.instantestore.com/ecommerce-support.cfm](https://web.archive.org/web/20131005113413id_/http%3A//www.instantestore.com/ecommerce-support.cfm)  
+InstanteStore Pty Ltd  
+Suite 504, 365 Little Collins Street,  
+Melbourne,  
+VIC 3000,  
+Australia  
+[support@instantestore.com](mailto:support@instantestore.com)
