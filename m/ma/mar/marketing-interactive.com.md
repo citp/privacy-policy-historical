@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the marketing-interactive.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628015014id_/http%3A//marketing-interactive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketing-interactive.com privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005064210id_/http%3A//marketing-interactive.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Market-interactive.com
+# Privacy Policy | Marketing-Interactive.com
 
 When you register with Marketing Interactive under our SUBCRIBE TO MARKETING FREE area, your contact details are added to our electronic mailing list so that, from time to time, we can send you information about new features, additions, and changes to our Web site. Also, _Marketing_ Magazine occasionally makes subscriber information available to other units within Lighthouse Independent Media as well as to selected outside companies whose products or services we feel may be of interest to you. 
 
