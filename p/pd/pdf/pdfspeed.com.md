@@ -1,55 +1,83 @@
-> *The following text is extracted and transformed from the pdfspeed.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513092252id_/http%3A//www.pdfspeed.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdfspeed.com privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005020801id_/http%3A//www.pdfspeed.com/privacy.php) for the most accurate reproduction.*
 
 # PDFspeed PDF Converter
 
-Privacy Policy
+Effective on January 1st, 2013
 
-### INTRODUCTION
+This privacy statement describes how pdfspeed collects and uses the personal information you provide on our Web site: [pdfspeed.com](http://pdfspeed.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
 
-Your privacy is essential to us. Here in PDFspeed.com, we believe that privacy is a top priority. We know that you care how information about you is used and shared. Thus, we provide this Privacy Policy to summarize our procedures and practices as regards to information collection and use. This will serve you as a guide in making an intelligent decision in sharing your information with us. By visiting PDFspeed.com, you agree to be bound by this Privacy Policy and hereby accept the procedures and practices stated in this herein. 
+## Collection and Use of Personal Information
 
-### COVERAGE
+As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the type of browser you used to visit our site (such as Google Chrome, Internet Explorer or Mozilla Firefox), the time at which you visited our site and which pages you visited throughout our site. 
 
-This Privacy Policy also outlines our privacy practices on our corporate website. This would describe and explain how we take care and handle your personal information. You agree to this Privacy Policy, in its entirety, when you: (1) access or use the Website; and/or (2) apply for the publisher ("Publisher") and/or advertiser ("Advertiser" and together with the Publishers, "Clients") services available through the Website ("Services"). If you do not agree with the terms and conditions of our Privacy Policy, please do not use or access the Website or apply for the Services. 
+We may collect personal information at various times when you use our website or plugin. The more information you volunteer (and the more accurate it is), the better we are able to customize your experience. Your participation is voluntary and you have the choice not to disclose any information that we request. 
 
-### INFORMATION COLLECTION
+### The types of information we gather:
 
-If you attempt to become a Client or otherwise choose to provide information to us, this website shall collect Personal Information from you. This information includes, but is not limited to: name, address, telephone number, mobile number and/or email address. Once collected, we will store your information for a reasonable period of time for record keeping purposes. The information that we store is sometimes deleted as space requires or in the normal course of business. 
-
-### DISCLOSURE OF INFORMATION
-
-Information that we collected and stored shall not be sold or make it for rent to or with others. Your personal information is not shared with any third parties, except: 
-
-  * (a) where necessary to conduct business, such as invoicing Clients in connection with the Services or making payments to, or collecting money from, a Client;
-  * (b) in case of a breach of any agreement between Client and PDFspeed.com;
-  * (c) when required by law, or requested by a court of competent jurisdiction;
-  * (d) in the event of PDFspeed.com bankruptcy, or if PDFspeed.com is sold or acquired; or
-  * (e) where PDFspeed.com determines, in its sole discretion, that such disclosure is necessary to protect the rights of PDFspeed.com and/or a third party, or necessary to protect PDFspeed.com from liability of any kind.
+  * **Information you provide:** We receive and store any information you enter on pdfspeed.com or give us in any other way. You provide most such information when you use the pdfspeed or bundled plugins. For instance, if you register for an account with us, we may collect your name, email address, country of origin, and, if you choose, your nickname, telephone number, website, company, and title. If you download and install the plugin, we collect any information voluntarily provided by you during the installation and registration process, which can include demographic information such as gender, age, occupation, household income, zip code and country. Demographic information may be correlated to web usage information collected during your use of the service. In addition, you might provide us with personal identifying information, such as mobile telephone number, when you communicate with us by phone, e-mail or otherwise, or complete a questionnaire, subscription form or a contest entry form. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing and improving our services, delivering targeted content and advertisements that may be of interest to you, and communicating with you.
+  * **Automatic information we collect from the plugin:** When you use pdfspeed plugin, we may collect information about the websites you visit and the advertisements that you see on those websites, the searches you perform using search engines, the ways in which you use various features, and the pages you view (especially social media pages). For example, we may collect information about page views, impressions and clicks, as well as similar web usage information. For every webpage you view while using the plugin, our software transmits and stores information associated with your Internet Protocol (IP) address, which may include a domain name, the full URL of the webpage you are visiting, general information about your browser; general information about your computer's operating system; your Licensor cookie number or other identifying alphanumerical information enabling Licensor to identify your computer; and the date and time the above information is logged. All of this above information may be logged together in a single data string for each webpage you visit. Each string is logged in our database in the chronological order received from our users. In addition, we may collect information about what cookies are stored on your computer, which enables Licensor to determine which websites you have visited in the past. Although this information may contain some personal identifying information, Licensor does not use it to determine the identity of individual users or correlate it to your email address or other personal identifying information that you give us or our affiliates, except as required by subpoenas, court orders, investigations or other legal requirements. When you download the plugin, and at times during your use of the site, we may transmit Licensor cookies to the hard drive of your computer. We may also automatically collects information about the online advertisements that are displayed on the websites you visit - specifically, the text, source, and URL of the online ad - and the terms you choose when you use search engines to search the Web. Licensor also may periodically collect usage statistics from users that describe the frequency of use of each feature.
+  * **Automatic information we collect from the site:** We receive and store certain types of information whenever you interact with our site. For example, like many websites, we use "cookies," and we obtain certain types of information when your Web browser accesses the Site, when you use the plugin, or when you view advertisements and other content served by or on behalf of Licensor on other Web sites. Examples of the information we may collect and analyze when you use our website include the IP address used to connect your computer to the Internet; computer and connection information such as browser type, version, and time zone setting, browser plug-in types and versions, operating system, and platform; the full Uniform Resource Locator (URL) clickstream to, through, and from the Site, including date and time; cookie; web pages you viewed or searched for. During some visits to the Site we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page.
 
 
 
-In an effort to respect your privacy and our ability to keep the community free from bad actors, we will not otherwise disclose your personal information to law enforcement, other government officials, or other third parties without a subpoena, court order or substantially similar legal procedure, except when we believe in good faith that the disclosure of information is necessary to prevent imminent physical harm or financial loss or to report suspected illegal activity. 
+We do not only collect any identifiable information in order to optimize and improve our website. 
 
-### COOKIES AND WEB BEACONS
+If you are not yet 18, you are not allowed to use our services. Further, if we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from a child under age 13, please contact us
 
-We use "cookies" and web beacons to help us manage our Website. Cookies are small text files that contain a string of alphanumeric characters. Web beacons (also known as "1X1 pixels" or "clear GIFs") are small strings of code that provide a method for delivering a graphic image on a web page or in an email message for the purpose of transferring data. Web users have the option of blocking the use of cookies by changing a setting in their browser. Web users can check their browser supplier's website for details on how to do this. 
+## Information Sharing
 
-### SECURITY
+We do not sell your personal information to third parties. However, we may disclose your personal information: 
 
-All collected information is stored in a technically and physically secure environment. While we use SSL encryption to protect Sensitive Information online, we also do everything in our power to protect PII (including Sensitive Information) off-line. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect our end-users' personal information, we cannot ensure or warrant the security of any information that you transmit to us, and you do so at your own risk. Once we receive the transmission of your personal information, we make reasonable efforts to ensure its security on our systems. Access to this information is strictly limited, and not accessible to the public. All our end-users' personal information is restricted in our offices. Only employees who need the information to perform a specific job (for example a customer service representative) are granted access to the same. 
+  * As required by law such as to comply with a subpoena, or similar legal process
+  * When we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request
+  * If pdfspeed is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information
+  * To any other third party with your prior consent to do so.
 
-### ACCESSING AND UPDATING PERSONAL INFORMATION
 
-When you use our services, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical, or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Some of our services have different procedures to access, correct or delete users’ personal information. We do retain personal information from closed accounts to comply with law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce our policies and take other actions otherwise permitted by law. 
 
-### THIRD PARTIES
+### Use of Information
 
-It should be stressed here that the websites of our advertiser and publisher clients as well as the websites on which we place advertisements or any third party websites linked to one of our sites also may collect information from you for various purposes, including, but not limited to providing advertisements about goods and services likely to be of greater interest to you. Such information may include non-personally identifiable information through the use of Cookies and other technology and any personally identifiable information you may choose to give in registering and transacting with such website. These companies typically use a cookie or third party web beacon to collect this information. Although we choose our business partners and clients carefully, we are not responsible for the privacy practices of such third parties. You should check the applicable privacy policies of such third parties to determine how they handle any information they collect from you. If you disclose your information to others, whether they are bidders, buyers or sellers on our sites or other sites throughout the internet, different rules may apply to their use or disclosure of the information you disclose to them. We encourage you to ask questions before you disclose your personal information to others. 
+pdfspeed may use information (whether personal identifying information or not) that we collect about you to: 
 
-### MINORS
+  * Deliver the products and services that you have requested
+  * Send you offers that you have opted in to receive
+  * Manage your relationship with us and provide you with customer support
+  * Perform research and analysis about your use of, or interest in, our products, services or content, or products, services or content offered by others.
+  * communicate with you by e-mail, postal mail, telephone and/or mobile devices about products or services that may be of interest to you either from us or third parties
+  * Develop and display content and advertising (such as targeted ads) tailored to your interests on our websites and other websites
+  * verify your eligibility and deliver prizes in connection with promotions, contests and sweepstakes
+  * Enforce our Agreement
+  * Protect Licensor, our plugin, our websites, our customers and/or our other users from fraud, hacking or other harm
+  * Cooperate with legal, criminal or regulatory investigations or proceedings
+  * Manage our business
+  * Perform functions as otherwise described to you at the time of information collection
 
-This Website is not intended for visitors that are minors or under eighteen (18) years of age. PDFspeed.com does not knowingly solicit or collect information from individuals under the age of eighteen (18). If we determine that we have inadvertently collected personal information from someone under eighteen (18) years of age, we will take reasonable steps to purge this information from our database. We encourage parents and guardians to spend time online with their children and to participate and monitor the Internet activities of their children. 
 
-### CHANGES AND AMENDMENTS & NOTIFICATION OF CHANGES
 
-PDFspeed.com reserves the right to change or update this Privacy Policy at any time by posting a clear and conspicuous notice on the Website explaining that we are changing our Privacy Policy. All Privacy Policy changes will take effect immediately upon their posting on the Website. Please check the Website periodically for any changes. Your continued use of the Website and/or acceptance of our e-mail communications following the posting of changes to this Privacy Policy will constitute your acceptance of any and all changes. 
+### Third Party E-Commerce Solutions Provider
+
+Our shopping cart is hosted by our e-commerce solutions provider. They host our ordering system, and collect your billing information directly from you for the purpose of processing your order. This company does not use this information for any other purpose. 
+
+## Use of Cookies and Web Beacons
+
+In computer language, a cookie is used to store data on a computer's hard drive. Almost all websites utilize cookies to one extent or another. 
+
+We use third-party cookies, known as "web beacons", to advertise our website using a technology known as Retargeting. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/consumer/opt_out.asp). Certain third party advertisers may collect personal information you provide in fields and forms presented in connection with their ads. This policy does not apply to, and we are not responsible for information you choose to provide in connection with these third party ads. We encourage you to check the privacy policies of the advertisers to learn about their use of your information. 
+
+### Links to Other Web Sites
+
+Our Site includes links to other Web sites whose privacy practices may differ from those of pdfspeed. Our service may also be linked to sites or services operated by the pdfspeed affiliates or third parties, and may carry advertisements or offer content, functionality, games, rewards programs, newsletters, contests or sweepstakes, or applications developed and maintained by third parties including, any online store. pdfspeed is not responsible for the privacy practices of any such third parties, and once you leave the Services via a link, enable a third party service, or click an advertisement, you should check the applicable privacy policy of the third party site. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
+
+## Security
+
+When we collect personal information directly from you, we follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us. 
+
+In order to make a purchase from us, you must use our shopping cart provider to finalize and pay for your order. Its privacy statement and security practices will also apply to your information. We encourage you to read that privacy statement before providing your information. 
+
+## Notification of Privacy Statement Changes
+
+We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
+
+## Contact Information
+
+You can contact us about this privacy statement by emailing us at: [support@pdfspeed.com](mailto:support@pdfspeed.com)
