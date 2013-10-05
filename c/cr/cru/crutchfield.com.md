@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the crutchfield.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205010010id_/http%3A//www.crutchfield.com/ISEO-ralscspd/app/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crutchfield.com privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006012345id_/http%3A//www.crutchfield.com/app/privacy.aspx) for the most accurate reproduction.*
 
 # Crutchfield.com - Privacy Policy
 
-For more than 38 years, Crutchfield has developed relationships with our customers based on respect and integrity. We're aware of the trust and confidence you demonstrate when you visit our website and provide us with information. The Privacy Notice below is posted to demonstrate our adherence to the practices you'll find common to the best websites online. We promise that we will treat your information with the same honesty and sensitivity that we have displayed throughout our company's history.
+For more than 39 years, Crutchfield has developed relationships with our customers based on respect and integrity. We're aware of the trust and confidence you demonstrate when you visit our website and provide us with information. The Privacy Notice below is posted to demonstrate our adherence to the practices you'll find common to the best websites online. We promise that we will treat your information with the same honesty and sensitivity that we have displayed throughout our company's history.
 
-If you have any questions or concerns about our Privacy Notice, please call us toll-free at: 1-888-955-6000; e-mail us at [ webmaster@crutchfield.com](mailto:webmaster@crutchfield.com); or send a letter to: Privacy, 1 Crutchfield Park, Charlottesville, Virginia 22911.
+If you have any questions or concerns about our Privacy Notice, please call us toll-free at: 1.888.955.6000; e-mail us at [ webmaster@crutchfield.com](mailto:webmaster@crutchfield.com); or send a letter to: Privacy, 1 Crutchfield Park, Charlottesville, Virginia 22911.
 
 #####  Crutchfield.com Privacy Notice
 
@@ -28,13 +28,15 @@ Action Tags: Crutchfield's web pages may contain action tags set by third party 
 
 ###  Sharing of Information with third-parties
 
+Google Trusted Stores: When you select Google Trusted Stores services we will send the following information to Google: (a) the item(s) that you purchase, (b) date of purchase and its cost, (c) the method of shipment used to ship the item(s) to you, and (d) your email address. This information will be subject to Google's Privacy Policy which we encourage you to read at <http://www.google.com/policies/privacy/>
+
 Affiliated Businesses and Crutchfield Corporation: We may share any information that you supply to us with any affiliated business that is substantially controlled by Crutchfield and Crutchfield Corporation. Any information that is shared this way will be subject to this Privacy Notice.
 
 Independent Contractors: We employ other companies or individuals to provide certain services to us such as sending e-mail, providing click to call telephone calling services, analyzing customer lists and data, providing marketing assistance, or consulting services. These third parties will have access to the information needed to perform their functions but cannot use that information for any direct marketing purpose.
 
 Third party service providers: Some of the products which we sell require us to provide your name, address, phone number and product serial number to the third party service provider(s) (such as Sirius/XM and OnStar) that require this information to activate the service. These third party service providers have their own privacy and data collection policies which are not controlled by Crutchfield. We have no control, responsibility or liability for these policies and urge you to contact the third party provider if you have any questions.
 
-Orders and Catalog Requests: When you place your order and/or when you request that we send you a catalog from time to time we may share your name, mailing address and purchase category information with a few carefully selected marketing partners who may bring you offers of interest. If you wish to opt out of sharing this information with these companies, please call 1-888-955-6000 or e-mail [ service@crutchfield.com](mailto:service@crutchfield.com). We will never share any telephone number(s), or financial information which you have given us with any marketing partner(s).
+Orders and Catalog Requests: When you place your order and/or when you request that we send you a catalog from time to time we may share your name, mailing address and purchase category information with a few carefully selected marketing partners who may bring you offers of interest. If you wish to opt out of sharing this information with these companies, please call 1.888.955.6000 or e-mail [ service@crutchfield.com](mailto:service@crutchfield.com). We will never share any telephone number(s), or financial information which you have given us with any marketing partner(s).
 
 Aggregate information: We provide aggregate information to some of our business partners. This information does not allow them to identify you individually.
 
@@ -68,7 +70,7 @@ Our Web site protects the security of personal information you transmit to us by
 
 ##### Choice/Opt-Out:
 
-Our Web site gives you the opportunity to opt-out of receiving communications from us. If you no longer wish to receive communications from us you may opt-out by calling 1-888-955-6000 or e-mail [ service@crutchfield.com](mailto:service@crutchfield.com).
+Our Web site gives you the opportunity to opt-out of receiving communications from us. If you no longer wish to receive communications from us you may opt-out by calling 1.888.955.6000 or e-mail [ service@crutchfield.com](mailto:service@crutchfield.com).
 
 ###  Children's Online Policy
 
