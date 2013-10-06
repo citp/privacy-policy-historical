@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the carsoup.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424042856id_/http%3A//www.carsoup.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carsoup.com privacy policy that was archived on 2013-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131007002456id_/http%3A//www.carsoup.com/about/privacy.aspx) for the most accurate reproduction.*
 
-# about | Used | Cars Trucks Autos | All DMAs | US National
+# about | Cars Trucks Autos | All DMAs | US National
 
 **Last updated on 03/08/12**
 
