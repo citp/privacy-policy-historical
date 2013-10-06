@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iphantom.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530100601id_/http%3A//iphantom.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iphantom.com privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006024313id_/http%3A//www.iphantom.com/privacy_policy.html) for the most accurate reproduction.*
 
-# iboss Web Security - Web Filtering, Application Firewall & Reporting Solutions for Medium to Large Networks
+# iboss Network Security - Web Filtering, Application Firewall & Reporting Solutions for Medium to Large Networks
 
 Last updated: 03/01/2010
 
