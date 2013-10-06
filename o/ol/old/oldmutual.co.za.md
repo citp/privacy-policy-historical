@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oldmutual.co.za privacy policy that was archived on 2013-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130327201625id_/http%3A//oldmutual.co.za/about-us/governance/customer-privacy-notice.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oldmutual.co.za privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006112217id_/http%3A//oldmutual.co.za/about-us/governance/customer-privacy-notice.aspx) for the most accurate reproduction.*
 
 # Customer Privacy Notice - Old Mutual's PPI policy
 
@@ -64,7 +64,7 @@ Given our aim to provide you with ongoing financial services, we would like to u
 
 Please sms your ID number to 45600 if you do not want to receive such financial services information. You may opt out at any time if you don’t want to receive any further communications of this nature.
 
-You may also give and withdraw consent and tell us what your communication preferences are by clicking here to log into [MyPortfolio](https://secure.ssa.oldmutual.co.za/login/loginasp) or by contacting us at the numbers/addresses provided below. 
+You may also give and withdraw consent and tell us what your communication preferences are by clicking here to log into [MyPortfolio](https://secure.ssa.oldmutual.co.za/login/login.asp) or by contacting us at the numbers/addresses provided below. 
 
 ## Disclosure of information
 
