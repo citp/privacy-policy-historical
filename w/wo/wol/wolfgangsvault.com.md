@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wolfgangsvault.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425010123id_/http%3A//www.wolfgangsvault.com/memorabilia/support/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wolfgangsvault.com privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006044053id_/http%3A//www.wolfgangsvault.com/memorabilia/support/privacy-policy.html) for the most accurate reproduction.*
 
 # Wolfgang's Vault Privacy Policy
 
@@ -50,5 +50,5 @@ Questions regarding this Policy should be directed to [privacy@wolfgangsvault.co
 
 Attn: Privacy Officer  
 Wolfgang's Vault  
-149 Bluxome Street  
-San Francisco, CA 94107 
+3663 Barron Way  
+Reno, NV 89511 
