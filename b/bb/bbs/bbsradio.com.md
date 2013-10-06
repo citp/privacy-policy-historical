@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbsradio.com privacy policy that was archived on 2013-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130325121315id_/http%3A//www.bbsradio.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbsradio.com privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006073237id_/http%3A//www.bbsradio.com/privacy_policy.php) for the most accurate reproduction.*
 
 # BBS Radio Privacy Policy
 
