@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luxury4play.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526232550id_/http%3A//www.luxury4play.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxury4play.com privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006191255id_/http%3A//www.luxury4play.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Luxury4Play.com Privacy Policy
 
@@ -40,6 +40,9 @@ VerticalScope Inc. (hereafter referred to as VerticalScope) has created this pri
 **Third Party Cookies**
 
   * Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demogaphic or other data linked to data that you have voluntarily submitted to us, or posted to our Web Site. We may share such data with a data provider solely in hashed, non-human readable form. To opt-out of these cookies please go to [Ad Choices](http://www.aboutads.info/choices). 
+  * Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.
+  * Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+  * Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting the [ads preference manager](http://www.google.com/ads/preferences/). 
 
 
 
