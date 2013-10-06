@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lionbrand.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531043326id_/http%3A//www.lionbrand.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lionbrand.com privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006183922id_/http%3A//www.lionbrand.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy : Lion Brand Yarn Company
 
