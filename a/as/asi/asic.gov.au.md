@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asic.gov.au privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605142414id_/http%3A//www.asic.gov.au/asic/asic.nsf/byheadline/Privacy%3FopenDocument) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asic.gov.au privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006053453id_/http%3A//www.asic.gov.au/asic/asic.nsf/byheadline/Privacy%3FopenDocument) for the most accurate reproduction.*
 
 # Australian Securities and Investments Commission - Privacy
 
@@ -38,7 +38,7 @@ We also collect personal information through our complaints form. ASIC considers
 ### Online credit card payments
 
   
-If you you choose to pay us by credit card online, you will be asked to provide information such as your email address, name and credit card details. These details are required by us to process payments and to provide you with a payment receipt. For more information about what we do with the information you enter, see the security policy information on the credit card payment page you are using. 
+If you choose to pay us by credit card online, you will be asked to provide information such as your email address, name and credit card details. These details are required by us to process payments and to provide you with a payment receipt. For more information about what we do with the information you enter, see the security policy information on the credit card payment page you are using. 
 
 ### Online surveys
 
@@ -50,7 +50,7 @@ From time to time, we may wish to carry out a survey for feedback. Before collec
   
 We will only record your email address if you send us an email message to the subscription service you have requested. Your email address will be used only for the purpose for which you have given it or any other purpose permitted under the Privacy Act. Your email address will not be added to any other mailing list.
 
-Lyris Technology Inc, an Amercian software company and email list service, hosts mailing lists for ASIC subscription services.
+Lyris Technology Inc, an American software company and email list service, hosts mailing lists for ASIC subscription services.
 
 ### ASIC Client Contact Centre
 
@@ -113,4 +113,4 @@ To find out more about your rights and the remedies for breaches of privacy, you
 
 We welcome your [feedback](mailto:feedback@asic.gov.au) about this Privacy Statement and about our site's design and practices.
 
-ASIC Website: Printed 06/06/2013 
+ASIC Website: Printed 10/06/2013 
