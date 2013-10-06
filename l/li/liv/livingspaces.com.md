@@ -1,15 +1,6 @@
-> *The following text is extracted and transformed from the livingspaces.com privacy policy that was archived on 2013-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130307120143id_/http%3A//www.livingspaces.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livingspaces.com privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006191309id_/http%3A//www.livingspaces.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Living Spaces Furniture - About Us
-
-[ ](https://web.archive.org/home.aspx)
-
-**Customer Service**  
-1-877-266-7300  
-**Store Hours**
-
-10am - 9pm Mon - Fri  
-9am - 9pm Sat - Sun
 
 **Privacy Statement**
 
