@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the keek.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515194458id_/http%3A//www.keek.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keek.com privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006101133id_/https%3A//www.keek.com/privacy) for the most accurate reproduction.*
 
-# Keek - Privacy Policy
+# ‪Keek - Privacy Policy‬
 
 This is the Privacy Policy of the Keek Inc. website located at www.keek.com (together with our affiliates and subsidiaries, **“Keek”** , **“we”** , **“us”** , **“our”** and terms of similar meaning) and our related products and services (the **“Site”** ). It describes the information that we collect from users of our Site **(“Users”)** as part of the normal operation of our Site, and how we use and disclose this information. 
 
-By accepting the Privacy Policy in registration, by visiting and using the Site or by otherwise providing us with your personal information, you expressly consent to our collection, use and disclosure of your personal information in accordance with this Privacy Policy as it may be amended from time to time. This Privacy Policy is incorporated into and subject to our [Terms of Use](http://www.keek.com/terms)
+By accepting the Privacy Policy in registration, by visiting and using the Site or by otherwise providing us with your personal information, you expressly consent to our collection, use and disclosure of your personal information in accordance with this Privacy Policy as it may be amended from time to time. This Privacy Policy is incorporated into and subject to our [Terms of Use](https://www.keek.com/terms)
 
 **YOU MUST BE 13 YEARS OF AGE OR OLDER TO USE THIS SITE.**
 
@@ -78,7 +78,7 @@ We retain personal information for only as long as required to fulfill the ident
 
 When you deactivate an account, it is permanently deleted from Keek. It typically takes about one month to deactivate an account, but some information may remain in backup copies and logs for up to 120 days. Once you deactivate your account it cannot be reversed. 
 
-For greater clarity, private messages, comments and certain other information sent to Users may remain on the Site after you deactivate your account. 
+For greater clarity, private messages, instant messages, comments and certain other information sent to Users may remain on the Site after you deactivate your account. 
 
   
 
@@ -137,4 +137,4 @@ Toronto, Ontario M4P 3A1
 416-782-0200  
 [privacy@keek.com](mailto:privacy@keek.com)
 
-Last updated on February 1, 2013
+Last updated on May 1, 2013
