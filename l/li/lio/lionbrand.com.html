@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lionbrand.com privacy policy that was archived on 2013-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130531043326id_/http%3A//www.lionbrand.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lionbrand.com privacy policy that was archived on 2013-10-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131006183922id_/http%3A//www.lionbrand.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -50,19 +50,33 @@ document.write(unescape("%3Cscript src='" + lbJsHost + "lionbrand.com/lionbrandI
 document.write(unescape("%3Cscript src='" + lbJsHost + "lionbrand.com/lionbrandIncludes/setCSS.js' type='text/javascript'%3E%3C/script%3E"));
 var securePage = (("https:" == document.location.protocol) ? "1" : "0");
 </script><script src="https://www.lionbrand.com/lionbrandIncludes/newScripts.js" type="text/javascript"></script><script src="https://www.lionbrand.com/lionbrandIncludes/cookieProcessor.js" type="text/javascript"></script><script src="https://www.lionbrand.com/lionbrandIncludes/setCSS.js" type="text/javascript"></script>
+<script type="text/javascript">
+var loggedIn = "$puserid";
+var puseridTestVal = "$" + "puserid";
+if (!loggedIn || loggedIn == puseridTestVal) {
+    loggedIn = getCookie("puserid");
+}
+
+</script>
 
 <!-- New GA script -->
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-831022-1']);
+  _gaq.push(['_setDomainName', 'lionbrand.com']);
+  if (loggedIn.length > 0) {
+	_gaq.push(['_setCustomVar',1,'Logged In','Yes',2]);
+  }
   _gaq.push(['_trackPageview']);
-  _gaq.push(['_trackPageLoadTime']);
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+
+   (function() { 
+	var ga = document.createElement('script'); 
+	ga.type = 'text/javascript'; 
+	ga.async = true; 
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; 
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); 
+   })();
 
 </script>
 <!-- Google Analytics Social Button Tracking //app.tabpress.com/js/ga_social_tracking.js -->
@@ -121,14 +135,28 @@ return (true);
        		<tr>
           		<td align="left" nowrap=""><a href="http://marthastewart.lionbrand.com" class="lcHilite" title="Martha Stewart Crafts">Martha Stewart Crafts</a></td>
 		</tr>
-		<tr>
-		    <td align="left" id="yMenu" style="display: none;"><a title="Our Yarns" href="http://www.lionbrand.com/cgi-bin/yarnInfo.cgi?yarnPageIndex=1" class="lcHilite">Our
+       		<tr style="display: none;">
+          		<td align="left" nowrap=""><a href="http://www.lionbrand.com/cgi-bin/catalogSubscription.cgi?s1=2" class="lcHilite" title="Request Free Catalog">Request Free Catalog</a></td>
+		</tr>
+		<tr style="display: none;">
+		    <td align="left" id="yMenu"><a title="Our Yarns" href="http://www.lionbrand.com/cgi-bin/yarnInfo.cgi?yarnPageIndex=1" class="lcHilite">Our
                             Yarns</a><br><a title="Yarn by Weight" href="http://www.lionbrand.com/cgi-bin/yarnInfo.cgi?yarnByClass=1" class="lcHilite">Yarn
                             by Weight</a>
 		    </td>
 		</tr>
 	    </tbody></table></td>
+        </tr><tr>
+          <td align="center" height="16">
+            <table class="leftLine" cellpadding="0" cellspacing="0" border="0">
+              <tbody><tr>
+                <td><img src="/graphics/dotClear.gif" height="1" width="100%" alt="separator"></td>
+              </tr>
+            </tbody></table>
+          </td>
         </tr>
+	<tr>
+          <td align="left" class="lcHeader"><a href="http://www.lionbrand.com/catalogDisplay.html" class="lcId" title="View Lion Brand Yarn Catalog">New Catalog</a></td>
+        </tr> 
         <tr>
           <td align="center" height="16">
             <table class="leftLine" cellpadding="0" cellspacing="0" border="0">
@@ -143,50 +171,93 @@ return (true);
    </tr>
 <!-- category $category type: $catType categoryKey: $categoryKey store=$store -->
 <!--&macro::expandingMenu3("/stores/eyarn","$catType","","$categoryKey");-->
-
-      <tr>
-          <td align="center" height="16">
-            <table class="leftLine" cellpadding="0" cellspacing="0" border="0">
-              <tbody><tr>
-                <td><img src="/graphics/dotClear.gif" height="1" width="100%" alt="separator"></td> 
-              </tr>
-            </tbody></table>
-          </td>
+  <tr>
+    <td align="center" height="16">
+      <table class="leftLine" cellpadding="0" cellspacing="0" border="0">
+        <tbody><tr>
+          <td><img src="/graphics/dotClear.gif" height="1" width="100%" alt="separator"></td>
         </tr>
-<tr>
-          <td align="left" class="lcHeader"><a title="Free Newsletter about Yarn and Yarn Crafting" href="http://www.lionbrand.com/cgi-bin/newsletters.cgi" class="lcId">Weekly Newsletter</a></td>
-        </tr>
-	<tr>
-	  <td align="left"><p class="lcId">Free patterns, product alerts &amp; special offers.</p></td>
-	</tr>
-        <tr>
-          <td align="right"><form method="post" action="https://www.lionbrand.com/cgi-bin/mailinglist/userMaint.cgi" onsubmit="return validateML(this)" name="subscriptionForm"><input type="hidden" name="templatePath" value="/pages/stores/lionbrand/"><input type="hidden" name="801" value="selectService"><input type="hidden" name="serviceName" value="mailing-list-s-lionbrand"><input type="hidden" name="store" value="/stores/lionbrand"><input type="hidden" name="action" value="Add"><table cellpadding="0" cellspacing="0" border="0">
-              <tbody><tr>
-                <td></td>
-                  <td align="left">
-                    <table cellpadding="0" cellspacing="3" border="0" width="100%">
+      </tbody></table>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">
+      <form method="post" action="https://www.lionbrand.com/cgi-bin/mailinglist/userMaint.cgi?loc=sideMenu" onsubmit="return validateML(this); _gaq.push(['_trackEvent', 'Newsletter', 'Sign Up']);" name="subscriptionForm">
+        <input type="hidden" name="templatePath" value="/pages/stores/lionbrand/"><input type="hidden" name="801" value="selectService"><input type="hidden" name="serviceName" value="mailing-list-s-lionbrand"><input type="hidden" name="store" value="/stores/lionbrand"><input type="hidden" name="action" value="Add"><input type="hidden" name="tracker" value="side menu">
+        <table cellpadding="0" cellspacing="0" border="0" width="100%">
+          <tbody><tr>
+            <td style="text-align: center;"><center>
+              <table cellpadding="0" cellspacing="0" width="138" class="outlined">
+                <tbody><tr>
+                  <td style="text-align: center;">
+                    <table cellpadding="0" cellspacing="0" border="0" width="100%">
                       <tbody><tr>
-                        <td valign="middle" align="left"><input name="email" style="width: 130px; height: 16px; border-color: #cccccc; border-width: 1px; font-size: 11px; color: #967052;" size="20"><br><span class="fineprint">email address</span></td>
+                        <td><img src="/graphics/sidebarTop.png" width="136" border="0" style="position: relative; left:1px;"></td>
                       </tr>
                       <tr>
-                        <td align="right" colspan="2" height="20"><input type="image" value="subscribeForm" src="/graphics/buttonSubs.jpg" alt="click to subscribe to the newsletter"></td>
+                        <td style="background-color: white;">
+                          <ul>
+                            <li class="lcNewsletter">free patterns</li>
+                            <li class="lcNewsletter">special sales</li>
+                            <li class="lcNewsletter">new items</li>
+                            <li class="lcNewsletter">15% off coupon<span style="font-size: 8px; position: relative; top: -4px; left: 3 px;"><br>US orders only</span></li>
+                          </ul>
+			
+                        </td>
                       </tr>
-                    </tbody></table>
-                  </td>
-                  <td></td>
-                </tr>
-              </tbody></table></form>
-            </td>
-          </tr>   
-        <tr>
-          <td align="center" height="16">
-            <table class="leftLine" cellpadding="0" cellspacing="0" border="0">
+                      <tr>
+                        <td valign="top" align="center" style="background-color: white; height: 35px; text-align: center;"><center><input name="email" style="width: 120px; height: 16px; border-color: #cccccc; border-width: 1px; font-size: 11px; color: #967052;" size="20" placeholder="email address..."></center></td>
+                      </tr>
+                    </tbody></table></td></tr>
+   <tr>
+            <td align="right" height="20" style="background-color: #f9a867;"><input type="image" style="position: relative; left:-1px;" value="subscribeForm" src="/graphics/sidebarBottom.png" width="136" alt="click to subscribe to the newsletter"></td>
+          </tr>
+              </tbody></table>
+            </center></td>
+          </tr>
+       
+        </tbody></table>
+      </form>
+    </td>
+  </tr>   
+	<tr>
+          <td align="left" valign="top" height="20">
+            <table border="0" cellpadding="0" cellspacing="0">
               <tbody><tr>
-                <td><img src="/graphics/dotClear.gif" height="1" width="100%" alt="separator"></td>
+		<td>&nbsp;</td>
+                <td height="20" align="left" valign="middle" nowrap="">&nbsp;&nbsp;<a href="http://www.lionbrand.com/cgi-bin/newsletters.cgi" title="View newsletters and subscription choices
+			class=" lchilite"="">view past newsletters</a></td>
+                <td height="20">&nbsp;</td>
+                <td height="20" align="left" valign="middle"><a title="Click to view newsletters and subscription choices" href="http://www.lionbrand.com/cgi-bin/newsletters.cgi"><img src="/graphics/buttonMore.jpg" width="5" height="10" alt="Click to view newsletters and subscription choice" border="0"></a></td>
               </tr>
             </tbody></table>
           </td>
-        </tr> 
+        </tr>
+
+
+  <tr style="display: none;">
+    <td align="center" height="16">
+      <table class="leftLine" cellpadding="0" cellspacing="0" border="0">
+        <tbody><tr>
+          <td><img src="/graphics/dotClear.gif" height="1" width="100%" alt="separator"></td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+
+        <tr style="display: none;">
+          <td align="left" class="lcHeader"><a href="http://www.lionbrand.com/cgi-bin/catalogSubscription.cgi?s1=1" class="lcId" title="Free Catalog">Free Catalog</a></td>
+        </tr>
+  <tr>
+    <td align="center" height="16">
+      <table class="leftLine" cellpadding="0" cellspacing="0" border="0">
+        <tbody><tr>
+          <td><img src="/graphics/dotClear.gif" height="1" width="100%" alt="separator"></td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+
         <tr>
           <td align="left" class="lcHeader"><a href="http://www.lionbrand.com/cgi-bin/patternFinder.fcgi?/" class="lcId" title="Patterns">Patterns</a></td>
         </tr>
@@ -381,13 +452,13 @@ if (document.location.protocol == "http:") {
             <table cellpadding="0" cellspacing="0" border="0">
               <tbody><tr>
                 <td> <!-- cannot be on the cache server unless we get a new Google API key -->
-                  <form method="get" action="http://www.lionbrand.com/cgi-bin/lionbrand/store-locator1.cgi" id="frmSearch" name="frmSearch" onsubmit="return validateSFData(this);"><input type="hidden" name="store" value="/stores/lionbrand">
+                  <form method="get" action="http://www.lionbrand.com/cgi-bin/lionbrand/store-locator1.cgi" id="frmSearch" name="frmSearch" onsubmit="return validateSFData(this); _gaq.push(['_trackEvent', 'Find a Store', 'Search', document.getElementById('storeFinderZip').value]);"><input type="hidden" name="store" value="/stores/lionbrand">
                   </form></td>
                   <td>
                     <table cellpadding="0" cellspacing="3" border="0" width="100%">
                       <tbody><tr>
                         <td valign="middle" align="right">post code:</td>
-                        <td valign="middle" align="left"><input name="zip" maxlength="10" style="width: 70px; height: 16px; border-color: #cccccc; border-width: 1px; font-size: 11px" size="20"></td>
+                        <td valign="middle" align="left"><input name="zip" id="storeFinderZip" maxlength="10" style="width: 70px; height: 16px; border-color: #cccccc; border-width: 1px; font-size: 11px" size="20"></td>
                       </tr>
                       <tr>
                         <td align="right">country:</td>
@@ -429,33 +500,24 @@ if (document.location.protocol == "http:") {
             </tbody></table>
           </td>
         </tr>
-    <tr>
+    <!--tr>
           <td align="center" height="16">
             <table class="leftLine" cellpadding="0" cellspacing="0" border="0">
-              <tbody><tr>
-                <td><img src="/graphics/dotClear.gif" height="1" width="100%" alt="separator"></td>
+              <tr>
+                <td><img src="/graphics/dotClear.gif" height="1"
+                  width="100%" alt="separator"></td>
               </tr>
-            </tbody></table>
+            </table>
           </td>
         </tr>
 	<tr>
           <td align="left" class="lcHeader"><span class="lcId">Sweepstakes</span></td>
 	</tr>
    		<tr>
-          		<td align="left" nowrap=""><a href="http://vannaschoice.com" class="lcHilite" title="Vanna's Choice Sweepstakes">Vanna's Sweepstakes</a></td>
-		</tr>
-<tr>
-          <td align="center" height="16">
-            <table class="leftLine" cellpadding="0" cellspacing="0" border="0">
-              <tbody><tr>
-                <td><img src="/graphics/dotClear.gif" height="1" width="100%" alt="separator"></td>
-              </tr>
-            </tbody></table>
-          </td>
-        </tr>
-	<tr>
-          <td align="left" class="lcHeader"><a href="http://www.lionbrand.com/catalogDisplay.html" class="lcId" title="Free Lion Brand Yarn Catalog">Catalog</a></td>
-        </tr>    
+          		<td align="left" nowrap><a 
+			href="http://vannaschoice.com" class="lcHilite"
+			title="Vanna's Choice Sweepstakes">Vanna's Sweepstakes</a></td>
+		</tr-->  
 
 	<tr style="display: none;"><!--
 	   <td align="left">
@@ -1099,12 +1161,15 @@ if (jsHost == "http://www.") {
     <td width="160" height="9" align="left"><img src="/stores/lionbrand/graphics/leftColBottom.jpg" width="160" height="9" alt="separator"></td>
     <td width="632" height="9"><img src="/stores/lionbrand/graphics/bottomLine.jpg" width="632" height="9" alt="separator"></td>
   </tr>
-  <tr>
+  <tr height="40">
     <td colspan="3" align="right" valign="top">
       <table cellpadding="0" cellspacing="0" border="0" width="100%">
         <tbody><tr>
-          <td class="btMenu"><a href="javascript:   bookmark();" class="btMenu" title="Bookmark this page">Bookmark
+          <td class="btMenu" width="159"><a href="javascript:   bookmark();" class="btMenu" title="Bookmark this page">Bookmark
             This!</a>&nbsp;</td>
+          <td class="btMenu"><img src="/stores/lionbrand/graphics/s1.jpg" width="3" height="22" alt="separator"></td>
+          <td class="btMenu" nowrap="" style="text-align: center;"><form method="post" action="https://www.lionbrand.com/cgi-bin/mailinglist/userMaint.cgi?loc=bottomMenu" onsubmit="return validateML(this); _gaq.push(['_trackEvent', 'Newsletter', 'Sign Up']);" name="subscriptionForm"><input type="hidden" name="templatePath" value="/pages/stores/lionbrand/"><input type="hidden" name="801" value="selectService"><input type="hidden" name="serviceName" value="mailing-list-s-lionbrand"><input type="hidden" name="store" value="/stores/lionbrand"><input type="hidden" name="action" value="Add"><input type="hidden" name="tracker" value="bottom menu"><center><table cellpadding="0" cellspacing="0" border="0" width="180"><tbody><tr><td colspan="2" class="btMenu" style="text-align: right;">Sign up for our Newsletter&nbsp;&nbsp;</td></tr>
+		<tr><td style="text-align: right;"><input name="email" style="width: 130px; height: 16px; border-color: #cccccc; border-width: 1px; font-size: 11px; color: #967052;" size="20" placeholder="email address..."></td><td style="text-align: left;"><input type="image" value="subscribeForm" src="/graphics/bottomSubmitButton.png" style="height: 20px;" alt="click to subscribe to the newsletter"></td></tr></tbody></table></center></form></td>
           <td class="btMenu"><img src="/stores/lionbrand/graphics/s1.jpg" width="3" height="22" alt="separator"></td>
           <td class="btMenu"><a href="javascript: sendPage();" class="btMenu" title="Send this page to a friend!">Share This!</a>&nbsp;</td>
           <td class="btMenu"><img src="/stores/lionbrand/graphics/s1.jpg" width="3" height="22" alt="separator"></td>
@@ -1113,7 +1178,7 @@ if (jsHost == "http://www.") {
           <td class="btMenu"><img src="/stores/lionbrand/graphics/s1.jpg" width="3" height="22" alt="separator"></td>
           <td class="btMenu"><a href="http://www.lionbrand.com/contactUs.html" class="btMenu" title="Click to contact a human!">Contact Us</a></td>
           <td class="btMenu"><img src="/stores/lionbrand/graphics/s1.jpg" width="3" height="22" alt="separator"></td>
-          <td width="130">
+          <td width="130" style="vertical-align: top;" valign="top">
             <table cellpadding="0" cellspacing="0" border="0">
               <tbody><tr>
                 <td class="btMenu" height="22">&nbsp;&nbsp;Font Size: &nbsp;&nbsp;</td>
