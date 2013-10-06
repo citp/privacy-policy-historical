@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the forex-trading247.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610180944id_/http%3A//www.wealthsolutionsx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forex-trading247.com privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006171128id_/http%3A//www.wealthsolutionsx.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Wealth Solutions X
+# Privacy Policy
 
 Wealthsolutionsx.com [hereinafter referred to as "Company", "us" or "we"] collect personal information about you and distribute that information to provide you with services and products you request on this website. In addition, we distribute that information to others to provide you with other products and services. This summary and the full policy below describes how information is collected and distributed and your choices with respect to your personal information. Please review our full Privacy Policy for detailed information on our information and privacy practices.
 
