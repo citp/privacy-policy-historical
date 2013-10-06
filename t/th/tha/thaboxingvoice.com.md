@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thaboxingvoice.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628212802id_/http%3A//thaboxingvoice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thaboxingvoice.com privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006155240id_/http%3A//thaboxingvoice.cogito24.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Tha Boxing Voice
+# Tha Boxing Voice
 
 **_Privacy Policy for thaboxingvoice.com_ **
 
