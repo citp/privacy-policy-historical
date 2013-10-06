@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classestoedu.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603000517id_/http%3A//classestoedu.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classestoedu.com privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006163100id_/http%3A//www.classestoedu.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # classetoedu
 
