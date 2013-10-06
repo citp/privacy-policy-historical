@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nailtoday.net privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529151650id_/http%3A//www.stallion-theme.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nailtoday.net privacy policy that was archived on 2013-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131007012320id_/http%3A//www.stallion-theme.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Privacy Policy for the Website **http://nailtoday.net/**
+Privacy Policy for the Website **http://www.stallion-theme.com/stallion-child-themes**
 
 The privacy of our visitors is important to us.
 
@@ -26,4 +26,4 @@ We may also use third party advertisements to support our website such as Google
 
 You can disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as commenting.
 
-End of Privacy Policy for the Website **http://nailtoday.net/**
+End of Privacy Policy for the Website **http://www.stallion-theme.com/stallion-child-themes**
