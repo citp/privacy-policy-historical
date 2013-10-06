@@ -1,12 +1,9 @@
-> *The following text is extracted and transformed from the sellfy.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116232036id_/https%3A//sellfy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sellfy.com privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006051813id_/https%3A//sellfy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Sellfy.com
 
-## Privacy Policy
+**By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.**
 
-### By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
-
-  
 This Privacy Policy governs the manner in which Sellfy.com collects, uses, maintains and discloses information collected from users (each, a "User") and Clients (each, a "Client") of the http://sellfy.com website ("Site"). This privacy policy applies to the Site, any and all products and services offered on Sellfy.com. For the purpose of this Site: the “User” shall be any person entered onto the Site, including subscribers to our newsletter, and the “Client” shall be any person who has registered with the Site.
 
 ### Personal identification information of the Client
