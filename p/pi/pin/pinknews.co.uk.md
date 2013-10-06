@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pinknews.co.uk privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607182447id_/http%3A//www.pinknews.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinknews.co.uk privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006202523id_/http%3A//www.pinknews.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - PinkNews.co.uk
+# Privacy Policy · PinkNews.co.uk
 
 PinkNews.co.uk takes your privacy seriously and takes every reasonable precaution to safeguard the personal information you supply to it. PinkNews.co.uk is a PinkUnlimited.co.uk web property.
 
@@ -50,4 +50,4 @@ PinkNews.co.uk will not provide your personal information to any third party wit
 
 Whilst the internet is more secure than the postal service, it is not 100% secure. PinkNews.co.uk cannot guarantee the security of any information you send to PinkNews.co.uk via the Internet. PinkNews.co.uk is not responsible for any loss or damage you or others may suffer as a result of the loss of confidentiality of such information.
 
-© PinkUnlimited.co.uk Ltd 2005-6
+© PinkUnlimited.co.uk Ltd 2005-6
