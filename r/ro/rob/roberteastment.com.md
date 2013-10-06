@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roberteastment.com privacy policy that was archived on 2013-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130303055738id_/http%3A//www.roberteastment.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roberteastment.com privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006062658id_/http%3A//www.roberteastment.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Robert Eastment's Blog
 
