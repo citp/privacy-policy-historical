@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getsongbird.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602162421id_/http%3A//www.getsongbird.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getsongbird.com privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006092524id_/http%3A//www.getsongbird.com/about/privacy.php) for the most accurate reproduction.*
 
 # Songbird
 
