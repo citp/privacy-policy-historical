@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the preqin.com privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505105459id_/http%3A//www.preqin.com/item/privacy-policy/100/1592) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preqin.com privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006140631id_/https%3A//www.preqin.com/item/privacy-policy/100/1592) for the most accurate reproduction.*
 
 # About - Privacy Policy
 
@@ -49,6 +49,8 @@ Yes (Cookies are small files that a site or its service provider transfers to yo
 We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
 If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service.
+
+We use third party vendors, including Google, to show our ads on other websites on the internet. Some of these third party vendors, including Google, use anonymous cookies to serve ads based on a user’s prior visits to our website. Users may opt out of Google’s use of cookies by visiting the Google advertising opt-out page.
 
 **Do we disclose any information to outside parties?**
 
