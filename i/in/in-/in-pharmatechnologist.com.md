@@ -1,103 +1,364 @@
-> *The following text is extracted and transformed from the in-pharmatechnologist.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503221137id_/http%3A//www.in-pharmatechnologist.com/Publications/Info/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the in-pharmatechnologist.com privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006061110id_/http%3A//www.in-pharmatechnologist.com/Publications/Info/Privacy-and-Cookie-Policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy and Cookie Policy
 
-## Privacy statement
+WILLIAM REED PRIVACY & COOKIES POLICY
 
-Your privacy on the Internet is important to William Reed Business Media SAS. Because William Reed Business Media SAS (“We”) gather certain types of information about the visitors to its Web sites and subscribers to its newsletters (“Users”, “You”), of William Reed Business Media SAS group of sites and services (“The Sites”, “The Newsletters”), We believe You should fully understand the terms and conditions in relation to the capture and use of that information. This privacy statement discloses what information We gather and how We use it.
+ **Updated as at 1 July 2012**   
 
-Your use of the Sites constitutes your acceptance of all of the terms and conditions contained in this Privacy Policy and your consent to any action we take with respect to your information that is in compliance with this Privacy Policy.
+This website is made available to you by William Reed Business Media (“ **William Reed** ”, " **we** ", " **our** " or " **us** ") (the “ **Website** ”).  This privacy policy outlines how we may use your personal information and forms part of the **Terms of Use** of the Websites. 
 
-We may change the terms of this Privacy Policy, so Users are encouraged to review this page from time to time. Your continued use of the Sites following the posting of changes to the Privacy Policy means that you accept the changes.
+“ **Personal information** ” refers to any information which refers to you personally such as your name, e-mail address and postal address.  Please read this privacy policy to understand how we use your personal information after it has been collected by us. 
 
-if you do not agree to this Privacy Policy, as modified from time to time, please do not visit the Sites.
+This Privacy Policy may be updated from to time.  The date of the most recent revisions will appear on this page so please visit this Privacy Policy regularly.
 
-## Information We Collect and How We Collect It
+We may collect personal information from you when you do the following through our Websites:
 
- ** _General_**
-
-We require you to provide us with certain information about yourself when you register for our newsletter service and when you request products and services. We also collect information from you when you participate in surveys and when you respond to requests for feedback;  
-The information we collect may include information from which you may be personally identified (“ ** _Personally Identifiable Information_** ”), such as name, postal address, telephone number, fax number and e-mail address, and also may include certain business information, such as employer name, occupation, job function, job title and buying information (e.g., preferences or history). We also will collect credit card and related information when you request a product or service for which there is a charge. The Sites only collect Personally Identifiable Information with your knowledge.
-
-## Automatic Data Collection
-
-When you visit the Sites, we may collect the IP address of your computer.  
-We also automatically record other information that identifies your computer to the Sites and tracks your behavior on the Sites. For example, we may record how many times you visit the Sites and your navigation within the Sites. We do not collect Personally Identifiable Information in this manner; however, if you provide us with Personally Identifiable Information, we may associate that information with the information that is collected automatically.
-
-Methods used to collect this information may include "cookies" and "clear GIFs" (also known as "pixel tags" or "web beacons"). Such automatic data collection might be operated by third parties.
-
-Every browser (the vehicle by which a computer accesses the Internet) is assigned an ID number. That ID number is held in a file called a cookie. That number is not attached to a name, just a number. Site Publishers such as William Reed Business Media SAS use cookies to enhance the user's Web viewing experience. Cookies cannot damage user files, nor can they read information from a user's hard drive. A cookie is a small file of data that is sent to your browser from a server and stored on your computer’s hard drive. Most browsers allow Users to block the receipt of cookies, but doing so may compromise your ability to use certain features of the Sites. A clear GIF is a small graphic image, typically used in connection with cookies, that is placed on a web site or in an email message.
-
-A clear GIF can monitor certain user behavior, such as your usage of the web site, whether you opened an email message or whether you clicked on a URL in an email message. We also use specific individual identifiers on e-mails which allows us to monitors which e-mails are successfully delivered and remove obsolete addresses from our database. For internal analytical purposes we sometimes link this individual identifier to the clear GIFs to allow us to see the general open rates and activity generated from newsletters. Information retrieved this way is used for statistical purposes only. It is never released to third parties and is part of our on-going efforts to improve the relevancy and quality of our products.
-
-## How We Use Your Information
-
- ** _General_**
-
-We use Personally Identifiable Information that we collect on the Sites for the following purposes:
-
-  * To provide you with the Sites and other products and services, such as newsletters that we think will be of interest to you based on your profile.
-  * To respond to your inquiries and contact you about changes regarding the Sites and new services William Reed Business Media SAS has developed.
-  * For any other purpose disclosed at the time the information is collected or to which you consent.
-  * As otherwise specifically described in this Privacy Policy.
-  * Labelling Requirements
+  * order products and subscriptions from us;
+  * register as a user on one or more of our Websites;
+  * provide content through our online communities;
+  * apply for jobs with us;
+  * register to receive our newsletters; and
+  * contact us with a question or complaint.
 
 
 
-We also may use your information to better understand the needs of our Users and to improve our Sites. For example, we may use this information to determine what portions of the Sites are most popular and the demographics of our Users generally. Cookies and other User information also enable us to customize your experience on the Sites.
+We also collect certain information automatically about visitors to our Websites, as described in the section headed “Cookies” below.
 
-We may use IP addresses to help diagnose problems with our servers or to administer our Sites. We may also use IP addresses to help identify a User during a particular session and to gather data regarding use of the Sites.
+The personal information we may collect from you includes your:
 
-## Newsletters and Subscriber Offers
+  * name;
+  * postal address;
+  * phone number (land line, mobile and fax);
+  * credit or debit card details; and
+  * email address.
 
-We may use the information you provide us to send you e-mail on behalf of William Reed Business Media SAS and selected marketing partners. These communications may include e-mail newsletters that are relevant to the Sites, as well as subscriber offers from selected marketing partners. All of these communications will include instructions explaining how you can request that we not send you (“ ** _opt out_** ” of) future communications of the same type.   
-When you register with and provide information to the Sites you will be given an opportunity to opt out of our sending you offer on behalf of third parties. In addition, each of these communications will include instructions for opting out of receiving future third party offers from us. You may also opt out of receiving third party offers from these Web Sites at any time by clicking [**here**](https://web.archive.org/smartlead/view/265192/4) .
 
-## Our Disclosure of Your Information
 
-We will not disclose your information to anyone outside William Reed Business Media SAS, except as described in this section.  
-We may disclose aggregated anonymous statistics about many Users to advertisers, content and service providers and other affiliated and unaffiliated companies.
+If you apply for a job with us through the Websites you also have the opportunity to upload your CV to us.
 
-We sometimes engage third parties to perform services for us, including in connection with the Sites that require us to disclose Users’ Personally Identifiable Information to them. If we make any such disclosure, we will require such parties to keep the information confidential and to use it only to perform the services.
+When you give us any personal information as indicated above, we use your personal information to:
 
-We also will disclose your information to third parties that market products or services when you fill out a form. The information you supply on that form will be forwarded to the advertiser so they can provide you with information.
+  * enable you to use any services that we may from time to time provide through the Websites;
+  * enable you to become a registered user on one or more of our Websites;
+  * process your transaction or subscription and correspond with you accordingly;
+  * provide you, in accordance with your communications preferences, with information about our products and services, our latest news or special offers which may be of interest to you;
+  * track activity on our Websites for market research purposes so that we can improve the usefulness and content of the Websites but, in carrying out such activity, we use the personal information in aggregate and on an anonymous basis;
+  * stop you posting or sending offensive, inappropriate or objectionable content anywhere on our Websites or where you otherwise engage in any disruptive behaviour on the Websites.  This may involve informing relevant third parties such as your employer, e-mail/Internet provider and law enforcement agencies about the content and your behaviour; and
+  * for Website administration (including enabling us to respond to any comments on the Websites or feedback you may give us).
 
-The only other times we may disclose your Personally Identifiable Information collected on the Sites are as follows:
 
-In the event of an asset sale, merger, consolidation, restructuring, reorganization, liquidation or other similar transaction involving William Reed Business Media SAS or the Sites, we may transfer some or all User information, including Personally Identifiable Information, to the successor company.
 
-We will disclose your Personally Identifiable Information when we believe such disclosure is required by law or for the protection of persons or property.
+We may share personal information collected via the Websites within our corporate group including William Reed Holdings Limited, William Reed Business Media Ltd, HIM Ltd, William Reed Business Media SAS and William Reed Business Media Inc. Otherwise, we will only disclose personal information to government bodies and law enforcement agencies, successors in title to our business and suppliers we engage to process data on our behalf. 
 
-We may disclose your Personally Identifiable Information with your consent, as well as when disclosure is necessary to accomplish the purpose for which you provide it. For example, when you request information from advertisers in the Product Presentation or Supplier Information Centre section of our sites, we will disclose your Personally Identifiable Information to the advertisers you specify.
+On the basis that the Internet is a global environment, using the Internet to collect and process personal data necessarily involves the transmission of data across international boundaries. In particular, we will hold your personal information in the UK and France, and we may transfer it to the USA to a service provider who may host the Websites and store personal information on our behalf.
 
-## Security
+While some territories outside the European Economic Area may not have laws which provide the same level of protection for personal information as those inside the European Economic Area, we will ensure that your personal information is protected in accordance with this Privacy Policy wherever it is processed by us.   
 
-We use reasonable security safeguards to protect Personally Identifiable Information we collect on the Sites from unauthorized access, use, modification or disclosure. However, due to the design of the Internet and other factors outside of our control, we cannot guarantee that communications between you and our servers will be free from unauthorized access by third parties.
+By browsing the Websites and submitting personal information to us, you acknowledge our processing of your personal information on this basis. 
 
-## Right to Access and Change Information
+When you view our Websites we may store information on the hard drive of your computer or on your mobile device in the form of a "cookie" (essentially a small text file).  Cookies are widely used by website owners in order to make their websites work, or to work more efficiently, as well as to provide reporting information. 
 
-You may view and update information that you previously submitted to the Sites by editing your registration profile or sending an email to privacy-policy@wrbm.com. However, a request to change information may not be accommodated if the request would conflict with legal requirements or result in incorrect information. Requests to view or change personal information may take a few days to process.
+Cookies set by the website owner (in this case, William Reed) are called "first party cookies".  Cookies set by parties other than the website owner are called "third party cookies".  Third party cookies enable third party features or functionality to be provided on or through the website (e.g. like advertising, videos and website analytics services).  The parties that set these third party cookies can recognise your computer both when it visits the website in question and also when it visits certain other websites.
 
-## Opt-Out
+Cookies can remain on your computer or mobile device for different periods of time.  Some cookies are ‘session cookies’, meaning that they exist only while your website browser is open and are deleted automatically once you close your browser.  Other cookies are ‘permanent cookies’, meaning that they survive after your browser is closed and can be used by websites to recognise your computer when you later re-open your browser and browse the internet again. 
 
-This Privacy Policy describes certain opportunities you will have to opt out of our using or disclosing your Personally Identifiable Information.
+We use cookies for several reasons. For example, cookies enable us to track the interests of our users to enhance the experience on our website. Third parties serve cookies through our website for advertising, analytics and other purposes. This is described in more detail below.
 
-An opt out request will not be specific to a particular service or product. For example, if you opt out of receiving third party offers from the Sites, you will be removed from the marketing database of all other William Reed Business Media SAS sites that you are registered with. We cannot guarantee that we will be able to accommodate opt out requests that apply to multiple web sites, products or services, but we will try to do so to the extent feasible. If you experience any problems or continue to receive marketing material please [**contact us**](https://web.archive.org/smartlead/view/265192/4) immediately. 
+The specific types of cookies served through the Websites, either by William Reed or third parties and the purposes they perform are described in the table below:
 
-Any opt out request will only be effective after a reasonable period of time for processing.
+**Types of cookie**
 
-## Links
+| 
 
-The Sites contain content, services, advertising and other materials that link to Web Sites operated by third parties. We have no control over those other sites, and this Privacy Policy does not apply to them. We encourage you to refer to the privacy policies, if any, of those sites.
+**What they do**  
+  
+---|---  
+  
+**Essential website cookies**
 
-## Contact
+| 
 
-If you feel that this company is not abiding by its posted privacy policy, you should [**contact us**](https://web.archive.org/smartlead/view/265192/4) .
+These cookies are necessary to provide you with services available through our Websites and so that you can use some of their features, such as access to secure areas.  Without these cookies services you have asked for, like shopping baskets and secure customer account pages, would not be possible.  
+  
+First Party
 
- **The Sites are operated by:**
+(This website’s primary domain)
 
-William Reed Business Media SAS  
-Le Belem  
-355, rue Vendémiaire  
-34000 Montpellier  
-France
+| 
+
+ASP.NET_SessionId
+
+__atuvc
+
+.ASPXAUTH  
+ 5e831a0b0bc6a8b74a8e106ba442439a
+
+1a37338d574b3f5c95c0957b89dd0218  
+ TransactionId  
+ pfps_poll  
+ PHPSESSID  
+ googtrans  
+ NCS2012_UCOOKIEID
+
+OTISTRAILID_NCS2012
+
+SECTION
+
+OTISTRAILID_RESTSHOW2012
+
+RESTSHOW2012
+
+RESTSHOW2012_UCOOKIEID
+
+SECTION
+
+TTSCODE
+
+AnonymousUserId
+
+BrowserSession
+
+ASPSESSIONIDSCSBDSRB  
+ dnm_isoa2  
+ PHPSESSID%28_%29
+
+acceptCount
+
+cookiesaccepted
+
+check  
+ User_WebSite
+
+Logon_WebSite
+
+LoginCookieCheck
+
+User_CandidateCVServices
+
+Logon_CandidateCVServices
+
+User_RecruiterServices
+
+Logon_RecruiterServices
+
+twister_Collapsed
+
+twister_Expanded
+
+CookieTest
+
+User_MobileSite
+
+Logon_MobileSite
+
+cookieNotification  
+  
+Third Party
+
+| 
+
+ASPSESSIONIDQSSABSAR
+
+Expo%2EHomePage  
+  
+**Performance and functionality cookies**
+
+| 
+
+These cookies are used to enhance the performance and functionality of our Websites but are non-essential to their use.  However, without these cookies, certain functionality (like videos) may become unavailable.  
+  
+First Party
+
+| 
+
+flyUpCounter
+
+deviceType
+
+dnm_isoa2  
+ Session_Jobseeker
+
+Session_CandidateCVServices  
+ RecruiterCVServicesSettings
+
+Session_Mobile  
+  
+Third Party
+
+| 
+
+PREF
+
+VISITOR_INFO1_LIVE  
+ Local storage  
+  
+**Analytics and customisation cookies**
+
+| 
+
+These cookies collect information that is used either in aggregate form to help us understand how the website is being used or how effective are marketing campaigns are, or to help us customise the website for you.  
+  
+First Party
+
+| 
+
+__utma
+
+__utmb
+
+__utmc
+
+__utmz  
+ dnm_c  
+ dnm_l  
+ dnm_s
+
+dnm_r
+
+JobListing
+
+WebSite_LatestJobSearchPage
+
+WebSite_LatestJobSearchCount
+
+WebSite_LatestJobSearchItems
+
+WebSite_LatestJobSearchListingPage
+
+WebSite_LatestJobSearchPageSize
+
+WebSite_LatestJobSearchOrder
+
+WebSite_LatestJobSearchID
+
+WebSite_LatestSearchRecruiterID
+
+WebSite_LatestSearchFirstJobID
+
+WebSite_LatestSearchLastJobID
+
+WebSite_SearchPageLink
+
+CampaignClickThroughID
+
+JBEClickThroughID
+
+JBEClickThroughJobID
+
+RSSClickThroughJobID
+
+WidgetClickThroughDomain
+
+WidgetClickThroughJobID
+
+iPhoneClickThroughJobID
+
+Session_RecruiterHub  
+  
+Third Party
+
+| 
+
+IMRID
+
+V5  
+  
+**Advertising cookies**
+
+| 
+
+These cookies are used to make advertising messages more relevant to you.  They perform functions like preventing the same ad from continuously reappearing, ensuring that ads are properly displayed for advertisers, and in some cases selecting advertisements that are based on your interests.  
+  
+Third Party
+
+| 
+
+TestIfCookie
+
+TestIfCookieP
+
+dyncdn
+
+pbw
+
+pbwmaj6
+
+pdomid
+
+pid
+
+vs
+
+sasd  
+ ad_track  
+ _drt_
+
+test_cookie  
+ id  
+ OABLOCK
+
+OACAP
+
+OACBLOCK
+
+OACCAP
+
+OAID
+
+OASCAP
+
+OASCCAP  
+  
+**Social networking cookies**
+
+| 
+
+These cookies are used to enable you to share pages and content that you find interesting on our website through third party social networking websites.  
+  
+Third Party
+
+| 
+
+psc
+
+uid
+
+uit
+
+uvc
+
+X-LI-IDC
+
+X-LI-IDC  
+ __stid
+
+__uset
+
+guest_id  
+  
+You have the right to decide whether to accept or reject cookies. You can set or amend your web browser controls to accept or refuse cookies. If you choose to reject cookies, you may still use our website; however, your access to some functionality and areas of our Websites may be restricted.
+
+If you would like to find out more information about cookies and your rights to control their use, please visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/) or http://www.youronlinechoices.com.
+
+The Websites contains hyperlinks to websites owned and operated by third parties.  These websites have their own privacy policies and we urge you to review them.  They will govern the use of personal information you submit whilst visiting these websites.  We do not accept any responsibility or liability for the privacy practices of such third party websites and your use of such websites is at your own risk.
+
+We study visitor trends since we are interested in the successful dissemination of information through the Websites.  Our server creates log files of information such as the Internet Protocol (IP) address from your network, what pages were explored and the length of your visit.  Analysis software is used to generate reports which help us to learn more about how we can enhance your experience with the Websites.  This information is not used to develop a personal profile of you.  The log files are regularly purged.
+
+An IP address is a number designated for your computer by your Internet service provider to provide access to the Internet.  We may use your IP address to gather aggregate information on use.  But we will only be able to identify you individually if we have the means of linking the IP address to you as a particular user.  This usually requires access to additional information which we do not seek.
+
+You have the right to request a copy of the personal information that we hold on you and to have any errors in that information corrected.  We may charge a small fee for such requests where this is permitted under applicable law You also have the right to ask us to stop processing your personal information on compelling legitimated grounds.  You can exercise these rights by contacting us using the details provided below.
+
+If you have any questions about this Privacy Policy at any time, please contact us using the following details:
+
+ _For visitors from the UK:_
+
+The data controller of personal information collected about you through this Website is William Reed Business Media Ltd, a limited liability company registered in England and Wales (registered number is 2883992) whose registered office is at Broadfield Park, Crawley, West Sussex RH11 9RT.
+
+You can write to us at the address above (marked for the attention of the Company Secretary or e-mail us at _:_ robert.proctor@wrbm.com.
+
+ _For visitors from France:_
+
+The data controller of personal information collected about you through this Website is William Reed Business Media SAS, a limited liability company registered in France (registered number 429 315 971) whose registered office is at 335, rue Vendemiaire, Le Belem – 34400 Montpellier. 
+
+You can write to us at the address above (marked for the attention of the Company Secretary) or e-mail us at _:_ robert.proctor@wrbm.com.
