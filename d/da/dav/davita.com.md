@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davita.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523121510id_/http%3A//www.davita.com/about/web-usage-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davita.com privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006063513id_/http%3A//www.davita.com/about/web-usage-privacy) for the most accurate reproduction.*
 
 # DaVita
 
@@ -22,7 +22,7 @@ If, at any time, you would like to deactivate or have us remove your My DaVita a
 
 We collect personal information about you, such as your name, e-mail address, date of birth, and zip code that you provide to us when you register for a My DaVita account and when you update your profile. We use the personal information that you provide to respond to your questions, provide you the specific services you select, show you website content, including advertisements, that may be of interest to you, send you e-mails about website maintenance and updates, and inform you of significant changes to this Online Privacy Policy.
 
-We do not share your personal information with third parties, outside of the DaVita family of companies.
+DaVita shares your personal information with companies who provide services to DaVita, such as information processing, managing and enhancing data, managing customer communications, and conducting customer research or satisfaction surveys. These companies are obligated to protect your information and may not use your information for their own purposes.
 
 #### Your My DaVita Web Account & interactive tools
 
