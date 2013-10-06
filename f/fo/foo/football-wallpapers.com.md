@@ -1,24 +1,14 @@
-> *The following text is extracted and transformed from the football-wallpapers.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630095820id_/http%3A//www.football-wallpapers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the football-wallpapers.com privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006194057id_/http%3A//www.football-wallpapers.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy | Football Wallpapers and Videos
+# Football-Wallpapers.com Privacy Policy
 
-Football-Wallpapers.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
+**DoubleClick DART Cookie**
 
-Third Party Advertising  
-We use Google AdSense, ValueClick (
+Google, as a third party vendor, uses cookies to serve ads on this site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to this site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>
 
-[Sign up for ValueClick Media Online Advertising Network](http://admin.valueclickmedia.com/re.f?35136)
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include:  
+Google Adsense
 
-), and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on this site send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
-Third Party Cookies  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
-
-Personal Information  
-This Web site does allow user to enter their email address at their own will for comments on our site. We do not request any personal information or collect any information that personally identifies you or allows you to be personally contacted. Since we do not collect any personal information on this Web site, we do not share any personal information with any third parties nor do we use any personal information for any purposes.
-
-External Links  
-This site contains links to other sites. Football-Wallpapers.com is not responsible for the privacy practices or the content of such Web sites.
-
-Contacting the Web Site  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](http://www.football-wallpapers.com/contact-us/).
+This site has no access to or control over these cookies that are used by third-party advertisers. You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Thus site's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
