@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the investmentnetwork.in privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529012411id_/http%3A//www.investmentnetwork.in/about/18) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investmentnetwork.in privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006203252id_/http%3A//www.investmentnetwork.in/privacy-policy) for the most accurate reproduction.*
 
-# Our Privacy Policy
+# Privacy Policy - The Indian Angel Investment Network
 
 Angel Investment Network Ltd. is the owner of this site and wishes to express that your privacy is of the utmost concern to us. We guarantee to treat any information received from you with the highest level of respect. 
 
@@ -10,11 +10,11 @@ The company will not sell, share or rent your confidential information to any in
 
 ##  Indexing
 
-Please note that the title and short summary of entrepreneurs’ proposals will be indexed on Google to attract more interest to your project. We therefore advise you not to include any confidential information in these sections of your proposal.
+Please note that the title and short summary of entrepreneurs' proposals will be indexed on Google to attract more interest to your project. We therefore advise you not to include any confidential information in these sections of your proposal. 
 
 ## Cookies
 
-If you decide to register as an entrepreneur or angel investor with www.investmentnetwork.in, "cookies" are used to recognize you on subsequent visits and to make your online experience more user-friendly. "Cookies" are small bits of data that can be sent to your computer which then may be stored by your browser on your computer's hard drive. They cannot be used to retrieve data from your hard drive, email addresses or personally identifying information about you in any way. Most web browsers have features that can notify you when you receive a "cookie" or prevent "cookies" from being sent. Please note that by not accepting cookies, you will limit the functionality that can be provided to you when you visit www.investmentnetwork.in. 
+If you decide to register as an entrepreneur or angel investor with www.angelinvestmentnetwork.co.uk, "cookies" are used to recognize you on subsequent visits and to make your online experience more user-friendly. "Cookies" are small bits of data that can be sent to your computer which then may be stored by your browser on your computer's hard drive. They cannot be used to retrieve data from your hard drive, email addresses or personally identifying information about you in any way. Most web browsers have features that can notify you when you receive a "cookie" or prevent "cookies" from being sent. Please note that by not accepting cookies, you will limit the functionality that can be provided to you when you visit www.angelinvestmentnetwork.co.uk. 
 
 ## Security
 
@@ -22,6 +22,6 @@ Transaction information can be securely transmitted to the payment gateway via s
 
 ## Sponsor Sites
 
-www.investmentnetwork.in provides links to third party sponsors. These sponsors are independent of this site and regulated by their own policies and procedures. 
+www.angelinvestmentnetwork.co.uk provides links to third party sponsors. These sponsors are independent of this site and regulated by their own policies and procedures. 
 
-If you have any questions or concerns regarding privacy, please do not hesitate to contact us at admin@investmentnetwork.in and expect a prompt response to any issues you may have. 
+If you have any questions or concerns regarding privacy, please do not hesitate to contact us at info@angelinvestmentnetwork.co.uk and expect a prompt response to any issues you may have. 
