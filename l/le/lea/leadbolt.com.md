@@ -1,23 +1,89 @@
-> *The following text is extracted and transformed from the leadbolt.com privacy policy that was archived on 2013-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130121155354id_/http%3A//www.leadbolt.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadbolt.com privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006033218id_/http%3A//www.leadbolt.com/privacy.php) for the most accurate reproduction.*
 
-# Mobile Advertising | Leading Mobile Ad Network | LeadBolt
+# LeadBolt Privacy | LeadBolt
 
-### LeadBolt is deeply committed to   
-protect the privacy of Internet users
+## Privacy Policy
 
-Accordingly, we strictly adhere to all industry guidelines, and will continue to review and improve our privacy policy and procedures to ensure the safety and protection of consumer information. This Privacy Statement presents our privacy policy, including LeadBolt' privacy practices for our web site. Below is information regarding LeadBolt' commitment to protecting the privacy of Internet users. 
+This is the policy of LeadBolt Pty Limited ACN 144 039 529 (LeadBolt) for dealing with personal information collected by our websites and mobile platforms. 
 
-Consumer Information
+If you are viewing one of our websites in-order to sign up as a developer, advertiser, or publisher, on sign-up you will be requested to enter into an agreement with LeadBolt (Agreement). That Agreement may contain additional privacy disclosures and obligations. If there is any inconsistency between the Agreement and this Privacy Policy, the Agreement prevails. 
 
-LeadBolt uses one or more third party ad serving technology to serve ads at this site and at our clients' sites. In the course of delivering an ad to you, the third party ad serving party may place or recognize a unique cookie on your browser and use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this non-personally-identifiable information used to serve ads to you, please click here.  
-Cookies and Opt Out
+LeadBolt is deeply committed to protecting the privacy of users.
 
-Like most Internet sites, LeadBolt and its third party ad serving party uses "cookies" to enhance the Internet user's experience on the Web. Neither LeadBolt nor such third party ad serving party uses these cookies to personally identify you in any way, and these cookies in no way damage your system or files.  
-What are cookies and how do they enhance your Web experience?
+Accordingly, we endeavour to adhere to all industry guidelines, and will continue to review and improve our privacy policy and procedures to ensure the safety and protection of personal information. 
 
-A cookie is a unique number that is assigned to you the first time you are served an ad. This number is stored in a file on your computer. For instance, cookies help ensure that you don't repeatedly see the same ad. Cookies can also help advertisers measure how you utilize an advertiser's site and the effectiveness of an ad. This information can then be used by advertisers to better cater to your needs. In other words, cookies help us deliver to you the types of ads in which you are more interested.
+By viewing our advertisements and/or using/invoking our services, you acknowledge you have read and agree to the terms of this Policy.
 
-We use LeadBolt and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.  
-Third Party Cookies
+### Personal Information
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
+There are several categories of information we collect -
+
+Information you provide to us: this is collected when you interact with our services and provide us with information by filling out a form or signing up to a service. This may include your name, address, e-mail address, and phone number.
+
+Information we get from your use of our services: in order to effectively run our services, we need to collect information about the services that you use and how you use them. This is necessary in order to provide you a better service and to recognise you if you opt-out of particular services. This information includes:
+
+Device information: including Device ID, e.g. Android ID or IDFA, other device specific information like, IMEI or MEID, manufacture make & model of device, operating system & version, carrier, and other mobile network information.
+
+Other information: When you use our services, we may automatically collect and store certain information in server files. This may include details of how you used our service, location, ISP, carrier and device information, IP address, event information such as crashes, system activity, hardware settings, browser information, the date and time of your request and referral applications. 
+
+Additionally, if you are using our Offerlux service, we may collect and store information relating to your user ID or sub ID disclosed to us by the App developer to enable the App developer to recognise event completions or for reward recognition.
+
+### How we deal with personal information
+
+#### Use
+
+LeadBolt collects your information so that we can: 
+
+  * communicate with you 
+  * deal with your enquiry
+  * provide you with information about our products and services 
+  * provide you with products and services 
+  * provide you with more relevant ads and limit the number of advertisements you see
+  * identify your device if you opt out of certain services
+  * do other things that are related to your interactions with us and to facilitate our business operations.
+
+
+
+If you do not provide the personal information LeadBolt requests, we may not be able to provide our products and/or services or deal with your enquiry. This may also limit your access to certain services and mobile applications.
+
+#### Disclosure and Transfer of Information
+
+LeadBolt will only disclose your personal information to our personnel, agents, related companies, affiliates, licensors, contractors, service providers and business partners (Affiliates) or as required by law, and only for the above (or related) purposes. Some of our Affiliates may be overseas. If you provide us with your personal information, you consent to us transferring it to our Affiliates.
+
+#### Disclosure to Law Enforcement Agencies
+
+LeadBolt may be required to share information collected with law enforcement agencies. We will only do so to authorised government agencies where we are compelled to by law or if we believe they are acting in good faith and disclosure is necessary to comply with the law or to protect the interests of LeadBolt, its Affiliates or end users.
+
+#### Security & storage
+
+LeadBolt takes reasonable steps to protect all information which we hold from misuse, loss, from unauthorised access, modification or disclosure. All personal information is kept on a secure server and protected by firewall security systems to keep information secure and safe on our servers. Where we store information, we only store it for as long as necessary in order to provide our services to you.
+
+#### Cookies and other Local Storage identifiers
+
+We may also collect and store information locally on your device using mechanisms such as cookies, browser, web storage, application data caches or other local storage identifiers.
+
+Like most Internet sites and services, LeadBolt may use local storage identifiers. These local storage identifiers in no way damage your system or files. LeadBolt primarily use local storage identifiers and other technologies in mobile advertising services to control the number of times you see a given ad, deliver ads that relate to your interests, and measure the effectiveness of ad campaigns.
+
+#### Third party cookies
+
+In the course of serving advertisements to mobile users, our third-party advertiser and affiliates may place or recognize a unique cookie on your browser or device. These actions are not within the control of LeadBolt and are governed by those advertisers' respective privacy policies.
+
+#### Other information
+
+We may receive anonymous or aggregated information from our business partners, their consumers, third parties, site or application visitors. This information may include, but is not limited to, device information, demographic data, or other information about the post-click activity of the ads we serve.
+
+### Access
+
+You are entitled to gain access to the personal information we hold about you. To do so please contact us:
+
+LeadBolt Pty Limited ACN 144 039 529
+
+Attention: Privacy Officer
+
+email: mobile.privacy@leadbolt.com 
+
+### Other terms
+
+We do not knowingly collect personal information from children under 13. If we learn that we have collected the personal information of a child under 13 we will take steps to delete the information as soon as possible.
+
+We reserve the right to amend this policy at any time. The policy, as modified, shall appear on our mobile website; http://www.leadbolt.com/privacy 
