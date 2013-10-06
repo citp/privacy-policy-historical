@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secpay.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424072701id_/http%3A//www.paypoint.net/about-us/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secpay.com privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006191958id_/http%3A//www.paypoint.net/about-us/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | PayPoint.net
 
