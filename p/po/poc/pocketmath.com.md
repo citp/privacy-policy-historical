@@ -1,100 +1,84 @@
-> *The following text is extracted and transformed from the pocketmath.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pocketmath.com privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006134615id_/http%3A//www.pocketmath.com/privacy/index.html) for the most accurate reproduction.*
 
-# Legal Agreement
+# PocketMath | Privacy Policy Page
 
-**Go Daddy Respects Your Privacy**
+## PRIVACY POLICY
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Posu.me, Inc. allows users to purchase mobile advertisements on participating ad networks, exchanges, publishers, applications and web sites. 
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+This Privacy Policy describes: (a) how Posu.me, Inc. (“we” or “us” or “our”) collects information from you and other users of our services, applications, and third party websites with whom we engage (“publishers”); (b) how we use that information to enrich your web experience; and (c) when we share that information with our publishers, advertiser clients and other third parties. 
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+We believe that Posu.me, Inc. services enhance our users’ web experience. If you do not want us to collect any further information from you via our ad delivery process, then you may choose to opt-out via [optout.pocketmath.com](http://optout.pocketmath.com/). 
 
-**Information Collection and Use**
+This Privacy Policy governs our use and disclosure of information that we collect when you visit a website that directly or indirectly uses the Posu.me services, or view advertisements we serve. This Privacy Policy does not otherwise apply to the practices of other websites, such as those of our publishers and advertiser clients, or other services or companies that we do not own, manage or control. We do not control the privacy practices of such third parties, and you are subject to the privacy policies of those third parties when you use their services. 
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+As we explain in more detail below, we may collect information about you in the following ways: when you complete a registration form; when you use or interact with Posu.me services; when you install or use the Posu.me Passport plugin; when you visit a website that directly or indirectly uses the Posu.me services; or when you view or respond to advertisements served by us or on our behalf. 
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+  1. ###### Direct Information
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+We collect “Direct Information,” which means any information that you directly give us. For example, by registering with us, you will be directly giving us certain information, some of which identifies you personally, such as your name, email address, and other registration information. From time to time, you may also directly give us additional information about yourself if you engage in any other transactions with us, such as when you give us your phone number to seek customer support. 
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+  2. ###### Usage Information
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+**We collect “Usage Information,” such as general click stream behavior, web pages viewed (including the URL addresses and content of such pages), search queries from which you are directed to a page, navigation from page to page through our publisher networks, time spent on each page, items that you click or select, IP address, cookie-based information, information about your geographic location (e.g., derived from your IP address), and your Internet Service Provider.**
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+  3. ###### Technical Information
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+We also collect “Technical information,” such as the type of browser you are using (e.g., Internet Explorer or Mozilla Firefox), the type of operating system you are using (e.g., Windows or Mac OS), the central processing unit on your computer, and your manner of connecting to the Internet (e.g., connection speed through narrowband or broadband access). 
 
-**Security**
+  4. ###### Information from Third Parties
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+**Together with the information that we collect from you, we may combine non personally identifiable information (e.g., demographic information such as zip code) that we receive from our publishers, advertiser clients and other third parties. For example, we may also receive publicly available information from third party websites with whom you have registered (e.g., social networks).**
 
-**Updating Your Information**
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+We may use your Direct Information to: (a) fulfill requests for our services; (b) communicate with you and respond to your inquiries; (c) conduct research about the use of the Posu.me, Inc. services; (d) enable you to create an account, store log-in credentials, and customize your access and use of Posu.me, Inc. services; (e) contact you from time to time about Posu.me, Inc. services; and (f) provide offers for products and services of Posu.me, Inc. and our partners, publishers, advertiser clients and other third parties that may be of interest to you. 
 
-      iii.      You may call us at: (480) 505-8800
+We may use the Direct Information, Usage Information and/or Technical Information that we collect (alone or in combination with information that we receive from our publishers, advertiser clients and other third parties) to assemble non-personal, demographic and behavioral information to group users that share a common interest into “Audience Segments.” These Audience Segments do not contain personally identifiable information; for example, these segments may disclose that a user located in a geographic area may be interested in cars, but these segments do not identify or include the name, e-mail address, phone number, mailing address, or user name of any specific individual. We may use these Audience Segments to: (a) match advertisements that may be of interest to our users that fall within that segment; and (b) assist our publishers, advertiser clients and other third parties to deliver advertisements and offers that may be of interest to users within a given segment. 
 
-       iv.      You may fax us at: (480) 505-8844
+In some cases, if you have chosen to make personally identifiable information (e.g., your name) publicly available through third party websites (e.g., social networks), we may seek your consent to use that personally identifiable information in connection with services that we offer in conjunction with our publishers, advertiser clients and other third parties. We will not disclose your personally identifiable information without your consent. 
 
-**Sending Emails**
+**We and our publishers, advertiser clients and other third parties also use such information for other related purposes (e.g., research to better understand the results of our online advertising campaigns or the interests or activities of users of the Posu.me, Inc. services). We may also be engaged by any publisher that uses the Posu.me, Inc. services to collect Usage Information on such publisher’s websites, such as for the purpose of obtaining additional information about such publisher’s own users and in accordance with such publisher’s privacy policy (rather than for our independent purposes).**
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+We may use Technical Information to analyze your browsing patterns and content, in order to personalize and target ads to you. 
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+  
 
-**Compliance with Laws and Law Enforcement**
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+  1. ###### Direct Information
 
-**Third Party Service Providers**
+We do not sell Direct Information, nor do we share any Direct Information (including any Direct Information combined with other Usage Information or Technical Information) with any third party for marketing purposes. 
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+We may disclose any information we collect, including your personally identifiable information, if: (a) you specifically authorize it (e.g., you respond to an offer made by a third party on the Posu.me services or you use our social media services); or (b) we reasonably believe that we are required to do so by law, regulation or other government authority or to protect our rights and property or the rights and property of the public or any user. 
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+  2. ###### Information Shared for Advertising
 
-**Supplementation of Information**
+We use non-personally identifiable Direct Information, Usage Information (e.g., Audience Segments) and/or Technical Information with third party advertisers and publishers to assist us and them in delivering relevant, personalized advertising that is aligned with user interests. For example, these companies may use such information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) in order to provide advertisements about goods and services that are likely to be of greater interest to you. Your preferences collected through this process may be used to influence a selection of types of marketing messages that you receive across websites of our publishers, advertiser clients and other third parties. 
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+Please note that our publishers’ websites and their independent advertisers may independently collect other demographical information about you after they place their own cookies or web beacons on publishers’ websites. The use of cookies and pixel tags by our publishers, advertiser clients and other third parties are subject to their own privacy policies. We are not responsible for the information practices of these third parties. 
 
-**Contests/Surveys**
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-**Tell-A-Friend**
+Periodically, you may click the “Incognito” button to “hide” yourself for a limited period of time, so that we will disable (during such time) our tracking of your additional Usage Information for targeting purposes, but you will continue to receive advertisements tailored to your preferences and usage. This “Incognito” option applies only to Posu.me’s tracking feature **and does not apply to cookies or web beacons that are used by our publishers, advertiser clients and other third parties.**
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+Most Internet browsers are initially configured to accept cookies. If you prefer, you may configure your Internet browser to refuse cookies, but you may not be able to receive certain benefits of Posu.me if you do so. 
 
-**What Happens to my Personal Information if I Opt Out?**
+Whenever you voluntarily post information in public areas of websites operated by Posu.me, Inc. or the Internet (e.g., journals, blogs, message boards, and forums), you should be aware that this information may be accessed by the public. Please exercise discretion in deciding what information you disclose. 
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+By accessing or using the Posu.me, Inc. services, you represent and warrant that you are at least eighteen (18) years of age, and that you have the right, authority and capacity to enter into legally binding agreements under applicable law. 
 
-**Transfer of Data Abroad**
+We reserve the right to transfer your information (e.g., personally identifiable information) in the event of a transfer of ownership of Posu.me, Inc. and/or its relevant assets, such as acquisition by or merger with a different company. If the different company plans to materially change this Privacy Policy, you will be notified beforehand. 
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+We implement physical, electronic and procedural restrictions (e.g., password protection), in an effort to help protect confidentiality of your personally identifiable information. Please remember that no technological environment is completely secure, and we cannot guarantee confidentiality of any communication or information posted or otherwise transmitted on Posu.me or any other website over the Internet. 
 
-**Changes in Our Practices**
+From time to time, we may change this Privacy Policy by posting a notice of such change on our website. You should visit our website periodically to review any such change. When you continue to use or interact with Posu.me services after such change, your subsequent provision of information (e.g., personally identifiable information) to us will be subject to such change. If such change materially expands our rights to use your personally identifiable information that we have collected, we will notify you through email or a prominent posting on our website. 
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+You may cancel your account with us at any time, by submitting a request to [help@pocketmath.com](mailto:help@pocketmath.com). We will act on your request as promptly as possible. 
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+We may retain your Direct Information, Usage Information and/or Technical Information to the extent permitted by applicable law, but we reserve the right to delete any such information (e.g., including any data that you may have saved on the Posu.me services) without any liability to you. 
 
-**Contacting Our Site**
+Your California Privacy Rights: California privacy law allows California residents to obtain specific disclosures about a business’s privacy practices if it shares information with other companies for direct marketing purposes. To make a request to Posu.me under California’s privacy law, please send an e-mail to: [legal@pocketmath.com](mailto:legal@pocketmath.com). 
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+If you have any questions or concerns about this Privacy Policy or its implementation, or if you believe that your account information is inaccurate, you may send an email to: [legal@pocketmath.com](mailto:legal@pocketmath.com). 
