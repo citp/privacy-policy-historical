@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the burnaware.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606123012id_/http%3A//burnaware.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burnaware.com privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006050657id_/http%3A//www.burnaware.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
