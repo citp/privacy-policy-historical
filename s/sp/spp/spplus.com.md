@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spplus.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603114621id_/http%3A//spplus.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spplus.com privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006065209id_/http%3A//www.spplus.com/privacy.php) for the most accurate reproduction.*
 
 # SP Plus
 
