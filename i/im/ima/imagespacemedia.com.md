@@ -1,71 +1,100 @@
-> *The following text is extracted and transformed from the imagespacemedia.com privacy policy that was archived on 2010-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101030115416id_/http%3A//www.imagespacemedia.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imagespacemedia.com privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006032848id_/http%3A//vibrantmedia.com/privacy.asp) for the most accurate reproduction.*
 
-# Image Space Media - Privacy Policy
+# Vibrant Media — The Global Leader of In–Content Contextual Technology
 
-Image Space Media, Inc. ("Image Space Media") respects the privacy concerns of the users of its Website, www.imagespacemedia.com (the "Website"). Image Space Media thus provides this privacy statement to explain what information is gathered during a visit to the Website and how such information may be used. 
+Vibrant Media, Inc. (“ **Vibrant Media** ” “ **we** " or “ **us** ”) helps clients serve more relevant content and advertisements. We provide this privacy policy so we may inform you about how our technology (" **Technology** ") processes information for online advertisers, website owners, and other businesses that use our services (our "Clients"). This policy also outlines our privacy practices on our corporate Website (" **Website** "), [www.vibrantmedia.com](http://www.vibrantmedia.com/ "Vibrant Media"). If you have questions regarding our privacy and data practices, please contact us by [clicking here](http://www.vibrantmedia.com/about/contact.asp?ref=privacy "Contact Vibrant"). By using the Website, you accept the policies and restrictions set forth in this Privacy Policy.
 
-**Use of Information:** As a general policy no personally identifiable information, such as your name, address, or e-mail address, is automatically collected from your visit to the Website. However, certain non-personal information is recorded by the standard operation of Image Space Media's Internet servers. Information such as the type of browser being used, its operating system, and your IP address is gathered in order to enhance your online experience. 
+**Topics:**
 
-The Website may request that you give us contact information such as your name, mailing and/or e-mail address; demographic information such as your age and gender; and personal preference information. Information submitted at the time of submission will be used by Image Space Media only as necessary for our legitimate business interests, including without limitation the improvement of our products, services and the contents of the Website. Image Space Media may also share such information with our business and promotional partners to further those interests. Personally identifiable information is never sold or leased to any third parties. 
+  1. Collection and Use of Information on this Website
+  2. Collection and Use of Information through Our Technology
+  3. Disclosure of Information to Third Parties
+  4. Controlling the Collection and Use of Information
+  5. Participation in Self-Regulatory Programs
+  6. Information Security
+  7. Changes to this Privacy Policy
+  8. Who can I ask if I have additional questions?
 
-**Access to Personally Identifiable Information:** If your personally identifiable information changes, or if you no longer desire our service, you may update it by emailing our Customer Support at [info@imagespacemedia.com](mailto:info@imagespacemedia.com) or by contacting us by telephone or postal mail at the contact information listed below. 
 
-### Specific uses of information on the Website may include:
 
-**Image Space Media's Inquiry Form**
+### 1\. COLLECTION AND USE OF INFORMATION ON THIS WEBSITE
 
-The Image Space Media Website contains an "inquiry form" for web publishers to request additional information about Image Space Media's products/services. The inquiry form requires web publishers to give contact information (such as name and email address.) Image Space Media uses this information to contact Web Publishers about the services on the Website in which they have expressed interest. 
+_Personally Identifiable Information._ This Website is directed to our Clients and prospective Clients, who are businesses. The Website is not directed to consumers. We may collect Personally Identifiable Information ("PII") via this Website when a visitor voluntarily provides it to us. PII means name, postal address, email address and telephone number. We may use that information to respond to your requests and inquiries and for other purposes. The following are some examples of specific use cases:
 
-Web Publishers have the option to provide demographic information (such as website address and vertical sector) to Image Space Media. Image Space Media encourages them to submit this information so it can provide them a more customized reply to their inquiry. 
+  * _Vibrant Media's Inquiry Form_ – The Vibrant Media Website contains an "inquiry form" for Clients and prospective Clients to request additional information about Vibrant Media’s products and services. Vibrant Media uses contact information (e.g., name and email address) provided via the inquiry form to respond to requests from Clients and prospective Clients, and to help us provide excellent customer service to our Clients.
+  * _Business Client Registration_ – As part of the business Client registration process, Clients may be required to provide some PII. We may use this information to contact the Client if there is a billing or order processing issue, to help us process invoices, and to otherwise provide our services to our Clients.
+  * _Testimonials_ – Some of our Clients agree to allow us to use their name and comments on the Website as part of testimonials. If you’ve agreed to have your name appear in a testimonial on this Website, you should be aware that your name and comment as well as other information displayed can be read, collected, or used by other users of this Website.
 
-**Insertion Orders**
 
-If an advertiser purchases a service from Image Space Media, Image Space Media requests certain personal and company identity information from the advertiser on the insertion form. Advertisers must provide contact information (such as name, company name, street address, email and telephone number) and financial information. Image Space Media uses this information to provide services and for billing purposes. If Image Space Media has trouble processing an order, it will use this information to contact the advertiser. 
 
-**Web Publisher Service Agreement**
+_Non-Personally Identifiable Information._ We may collect Non-PII from visitors to this Website. Non-PII includes information such as your IP host address, pages viewed, browser type, Internet browsing and usage habits, Internet Service Provider, domain name, the time/date of your visit to this Website, the referring URL and your computer's operating system. We may use this information for purposes including managing, operating, and enhancing the Website.
 
-If a Web Publisher signs a service agreement, Image Space Media requires the Web Publisher to provide certain identifiable information including: name, company name, street address, email and telephone number. This information is necessary to process the Web Publisher's agreement. 
+_Cookies_ We use cookies on this Website. Cookies are small text files placed in a visitor’s browser. Cookies make using our Website easier for visitors by, among other things, saving their login preferences and improving the usability of our Website. Through your browser settings, you may disable certain cookies. If you choose to disable your cookies setting or refuse to accept a cookie, some parts of the Website may not function properly or may be considerably slower. For more information about cookies please visit the Vibrant Media Cookie Statement by [clicking here](https://web.archive.org/cookies.asp "Cookies Policy").
 
-**Web Publisher Sign-up form**
+_Third Party Websites_ The Website may contain links to and advertisements for websites operated by third parties whose privacy practices may differ from ours. Vibrant Media is not responsible for the privacy practices of these other websites. We encourage you to check the privacy policies of all websites that you visit.
 
-When a Web Publisher signs a service agreement with Image Space Media, the Web Publisher is also required to provide company and personal identity information, commercial information, technical contact information and customization information to start their in-picture advertising services. Image Space Media uses this information to provide services and for payment purposes. If Image Space Media has trouble processing an order, it will use this information to contact the Web Publisher. 
+_Updating / Deleting your PII_ If you'd like us to update, correct, or delete any PII that you have provided to us on this Website, please send your request to us by [clicking here](https://web.archive.org/about/contact.asp?ref=privacy "Contact Vibrant") and we will process your request.
 
-**Advertising Network Service Agreement**
+Back to Top
 
-When a Advertising Network signs a service agreement with Image Space Media, the Advertising Network is also required to provide company, personal identity information and commercial information. Image Space Media uses this information to provide services and for payment purposes. If Image Space Media has trouble processing an order, it will use this information to contact the Advertising Network. 
+### 2\. COLLECTION AND USE OF INFORMATION THROUGH OUR TECHNOLOGY
 
-**Service-related Announcements**
+_Overview of the Technology._ Our Clients may use our Technology to deliver digital advertisements and other content that are intended to align with consumers' current interests. This form of advertising, called "Interest Matching", delivers advertisements that are more relevant, interesting, and useful for consumers. Our Clients may also use our Technology for other purposes including to help measure the effectiveness of a campaign or to optimize other campaigns.
 
-Image Space Media will send Web Publishers service-related announcements on rare occasions when it is necessary to do so. The only other e-mails we send out are in response to feedback, contact and sign-up form submissions. 
+_Collection and Use of Information._ Our Technology is designed to facilitate the delivery of contextual and interest-based advertising. We may use our Technology to identify a visitor's interests by gathering web viewing data (e.g., web pages visited, interactions with ads, words or other content displayed in a browser or device) and other non-PII (e.g., browser type, referring URL, Internet service provider, computer's or device’s operating system, and date and time of visits) via cookies and other technologies. We may also collect and use other Non-PII including a data set of keyword interactions, which we may use to provide more relevant advertisements and help manage our advertising campaigns. This data set may include keywords recently displayed on a computer or device, the time and date one of our Client's advertisements was clicked on or displayed, and the web pages viewed after interaction with our Client's advertisements. We may use this information to make inferences about the interests or preferences associated with a particular browser or device. These inferences are used to help make the online advertisements that visitors see more relevant to them. Web viewing data and non-PII is also used for other purposes including ad delivery and reporting, measuring the effectiveness of a campaign, optimizing a campaign, and for operational purposes.
 
-Generally, a Web Publisher may not opt-out of these communications, which are not promotional in nature. If a Web Publisher does not wish to receive these communications, they have the option to deactivate their account according to the terms of their Web Services Agreement. 
+We may combine non-PII with information (e.g., demographic data) provided by other entities to help make our clients' advertising more relevant. Some of these entities that provide data to us participate in self-regulatory programs including the Digital Advertising Alliance's ("DAA") program. To learn about the DAA program as well as exercise choice with respect to those entities participating in the DAA program, [click here](http://www.aboutads.info/ "About Ads").
 
-**Customer Service**
+Visitors may encounter our Technology when they visit a web site: (1) where one of our Clients has enabled our advertising solution; (2) where Vibrant Media, or one of our Clients, purchases online advertisements; and/or (3) where one of our Clients places a web beacon or similar functioning technology. A consumer may "opt out" of certain practices as explained below. 
 
-Based upon the provided personally identifiable information, Image Space Media will send Web Publishers a welcoming email to verify their username and password and to set up their account. Image Space Media will also communicate with them in response to their inquiries, to provide the services they request, and to manage their account. Image Space Media will communicate with Web Publishers by email or telephone, in accordance with their wishes. 
+_Storage of Non-Personally Identifiable Information._ We retain the Non-PII collected via our Technology for up to 13 months. After 13 months, we remove the cookie identification number and IP addresses and store it for up to 5 years to maintain financial records as well as for data analytics purposes. For more information about how we use cookies, please visit our Cookie Statement [www.vibrantmedia.com/cookies.asp](http://www.vibrantmedia.com/cookies.asp "Vibrant Cookies page").
 
-**Testimonials**
+Back to Top
 
-If your name appears in a testimonial on this site, you should be aware that any personally identifiable information displayed there can be read, collected, or used by other users of this website, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these testimonials. 
+### 3\. Disclosure of Information to Third Parties 
 
-**Legal Disclaimer:**
+_General._ We may at our discretion disclose PII and Non-PII (" **Information** ") to third parties if we believe disclosure is necessary by law, or to investigate, prevent, or take action regarding suspected or actual prohibited activities, including but not limited to, fraud and situations involving potential threats to the physical safety of any person. We also may disclose Information when necessary to comply with a court order, legal process or other legal proceeding. Finally, we may transfer Information to a successor entity in connection with a corporate merger, consolidation, partial or total sale of assets, bankruptcy, or other corporate change.
 
-Image Space Media may disclose user information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference (either intentionally or unintentionally) with Image Space Media's rights or property, other users of the Website, or anyone else that could be harmed by such activities. Image Space Media may also disclose user information when necessary to comply with a court order, legal process or other legal proceeding. 
+_PII._ We may share PII with service providers who provide services for us. These service providers are restricted from using the information we provide for purposes other than performing services at our direction.
 
-**Children Age 12 and Under:**
+_Non-PII._ We may share aggregate Non-PII collected by us with third parties for a variety of purposes such as analytics. For example, we may disclose to our Clients that 'blue banner ads' receive more clicks than 'orange banner ads.'
 
-Image Space Media recognizes the special obligation to protect personally identifiable information obtained from children age 12 and under. AS SUCH, IF YOU ARE 12 YEARS OLD OR YOUNGER, IMAGE SPACE MEDIA REQUESTS THAT YOU NOT SUBMIT ANY PERSONAL INFORMATION TO THE WEBSITE OR TO IMAGE SPACE MEDIA. If Image Space Media discovers that a child age 12 or younger has provided us with personally identifiable information, we will delete that child's personally identifiable information from our records. 
+Back to Top
 
-**Use of Cookies:**
+### 4\. CONTROLLING THE COLLECTION AND USE OF INFORMATION
 
-Cookies are pieces of information that a website transfers to an individual's computer hard drive for record keeping purposes. Cookies make using our Website easier by, among other things, saving your passwords and preferences for you. These cookies are restricted for use only on our Website, and do not transfer any personal information to any other party. Most browsers are initially set up to accept cookies. You can, however, reset your browser to refuse all cookies or indicate when a cookie is being sent. Please consult the technical information relevant to your browser for instructions. If you choose to disable your cookies setting or refuse to accept a cookie, some parts of the Website may not function properly or may be considerably slower. 
+If you'd like to learn how to opt-out from having Vibrant Media collect and use Non-PII from your computer or device in connection with our Technology for Interest Matching advertising, please [click here](http://intellitxt.com/opt_out/ch_optout.asp "Opting Out from Interest Matching"). When you opt out, we will place an opt-out cookie on your browser. The opt-out cookie tells us not to collect Non-PII from a particular browser or device to tailor our online advertisement campaigns. You will still receive ads if you opt out from Vibrant, but these ads may be less relevant to you. In addition, we may continue to collect certain data for basic ad serving and other purposes such as counting the number of times a keyword has been clicked or other analytic purposes. Please note that if you delete or otherwise restrict cookies, or if you use a different computer or Internet browser, you may need to renew your opt-out choice. If you block cookies, your opt-out choice also may not be effectuated.
 
-**Links to External Websites:**
+Back to Top
 
-Image Space Media is not responsible for the content or practices of third party websites not owned or controlled by Image Space Media. Image Space Media is also not responsible for any information that you might share with such linked websites. You should refer to each such website's respective privacy policy and practices prior to disclosing any such information. 
+### 5\. PARTICIPATION IN SELF-REGULATORY PROGRAMS
 
-**Choice/Opt-Out:**
+We support the cross industry, Self-Regulatory Principles as managed by the DAA (" **DAA** ") (for more information [click here](http://www.aboutads.info/ "About Ads")). To provide consumers with enhanced transparency, we display the DAA’s Ad Choices Icon in advertisements delivered across our network to help make consumers aware of how data is being collected and used and to provide choices for consumers who want more control. Vibrant Media also is a member of (1) the Internet Advertising Bureau (“IAB”) and abides by IAB’s Member Code of Conduct, which you can review by [clicking here](http://www.iab.net/public_policy/codeofconduct "IAB") and (2) is a participating network with the Network Advertising Initiative (“NAI”) opt-out tool for behavioral advertising, which you can review at [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/choices/ "NAI Opt-out tool").
 
-The Website may provide you the opportunity to opt-in to receive communications from us at the point where we request information about you. You always have the option of removing your name from any e-mail list in order to discontinue any such future communications. In order to ensure immediate removal from any list, please follow the specific instructions set forth within the communications you receive from Image Space Media which you no longer wish to receive. If you are unsuccessful in completing the instructions specified in any such communication, please e-mail us at [info@imagespacemedia.com](mailto:info@imagespacemedia.com) , including a copy of the undesired email attached to the request, and state you wish to be removed from the mailing list. 
+Our Clients may separately collect Non-PII or other information from consumers. This Privacy Policy does not apply to the privacy practices of our Clients, and we are not responsible for their collection of Non-PII or other information from you. 
 
-**Contact Information for Questions, Comments and Complaints:** If you have any questions, comments or complaints about www.imagespacemedia.com or about this privacy statement, please contact us at [info@imagespacemedia.com](mailto:info@imagespacemedia.com). 
+Back to Top
+
+### 6\. Information Security
+
+The security of your information is important to us, including but not limited to the PII collected via the Website. We have implemented security measures to help protect the information we maintain. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
+
+Back to Top
+
+### 7\. Changes to this Privacy Policy
+
+We may modify this privacy policy from time to time. Please return here frequently to review this privacy policy.
+
+Back to Top
+
+###  8\. Who can I ask if I have additional questions?
+
+If you have any questions or comments about [www.vibrantmedia.com](http://www.vibrantmedia.com/ "Vibrant Media") or about this privacy policy, please contact:
+
+**Via mail:** Vibrant Media, Inc. 565 Fifth Avenue, 16th Floor, New York, NY 10017   
+**Via email:** [info@vibrantmedia.com](mailto:info@vibrantmedia.com "Contact Vibrant")   
+**Via telephone:** (646) 312-6100
+
+Last updated September 25, 2013
+
+Back to Top
