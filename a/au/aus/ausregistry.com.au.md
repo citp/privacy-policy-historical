@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ausregistry.com.au privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430125553id_/http%3A//ausregistry.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ausregistry.com.au privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006210940id_/http%3A//www.ausregistry.com.au/privacy-policy) for the most accurate reproduction.*
 
 # AusRegistry - .au Registry Provider - Privacy Policy
 
