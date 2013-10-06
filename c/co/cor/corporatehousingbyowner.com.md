@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the corporatehousingbyowner.com privacy policy that was archived on 2013-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130402194008id_/http%3A//www.corporatehousingbyowner.com/sessions/f6fd46690daa47db517bc91bb3a6b2cb/corporate-housing/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corporatehousingbyowner.com privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006134007id_/http%3A//corporatehousingbyowner.com/sessions/6a0a71aae1cd2f7821aab5fdca3b8a20/corporate-housing/privacy_policy) for the most accurate reproduction.*
 
-# Corporate Housing by owner: corporate housing and accommodations, furnished apartments for short term rentals
+# Corporate Housing by Owner, CHBO: View Corporate Housing Rentals or List Corporate Apartments, Houses, Condos for rent worldwide.
 
 [](https://web.archive.org/print_page.html?print=1)
 
@@ -41,9 +41,9 @@ As we said, Corporate Housing by Owner takes protecting your privacy very seriou
 If you have questions or concerns about Corporate Housing by Owner's Customer Privacy Policy or data processing, please use the information (see list below) to contact us. The Corporate Housing by Owner team in will respond to your inquiry within 48 hours.
 
 **Mailing Address:**  
-Corporate Housing by Owner  
-9249 South Broadway #200 - 416  
-Highlands Ranch, CO 80129
+Corporate Housing by Owner, Inc.  
+7901 Southpark Plaza #216  
+Littleton, CO 80120
 
 Email: [Support](mailto:support@mychbo.com)   
 Business Line: 720.238.3068 M-F 8-5MST  
@@ -52,9 +52,9 @@ Fax: 720.228.2426
 
 If you do not want Corporate Housing by Owner to keep you up to date with Corporate Housing by Owner news, software updates and the latest information on products and services click [My Account ](https://web.archive.org/members/home) and update your personal contact information and preferences. Naturally, if you notify us that you do not want us to use your information for a particular purpose, we will not do so.
 
-Corporate Housing by Owner may update its privacy policy from time to time. When we change the policy in a material way a notice will be posted on our website along with the updated privacy policy. Corporate Housing by Owner, 9249 South Broadway #200-416, Highlands Ranch, Colorado, USA, 80129
+Corporate Housing by Owner may update its privacy policy from time to time. When we change the policy in a material way a notice will be posted on our website along with the updated privacy policy. Corporate Housing by Owner, 7901 Southpark Plaza #216, Littleton, CO 80120
 
-Last updated May 16, 2008  
+Last updated 08-26-2013  
 Corporate Housing by Owner, All rights reserved.
 
 | 
