@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flyerspecials.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628034433id_/http%3A//www.flyerspecials.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyerspecials.com privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006050100id_/http%3A//www.flyerspecials.com/privacy.htm) for the most accurate reproduction.*
 
 # Flyers Specials Saving Weekly Grocery Store Ads Flyer ads
 
