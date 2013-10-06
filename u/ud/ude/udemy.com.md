@@ -1,91 +1,76 @@
-> *The following text is extracted and transformed from the udemy.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425025636id_/https%3A//www.udemy.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the udemy.com privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006052121id_/https%3A//www.udemy.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Udemy
 
-This web site is owned and operated by Udemy, Inc. ("we", "our", or "us" or the "Company"). We understand you value your privacy. We want to make your experience online satisfying and safe. This privacy policy (the "Policy") governs information you provide to us or we learn from your use of this web site (the "Site") and tells you how we may collect, use, and in some instances share this information. Our policies may differ from other service offerings and you should carefully review the terms of service and this privacy notice before using these services. 
+### Privacy Policy
 
-##  Collected Information 
+_This Privacy Policy was last updated on April 15, 2013_
 
-In general, you can visit the Site without telling us who you are or revealing any personally identifiable information about yourself. If you choose to register, and are 13 years of age or older, we will collect your name, date of birth, email address, and street address along with other`billing and shipping addresses ("Credit Card Information"). By providing your Personal Information to us, you explicitly agree to our collection and use of such information as described in this Policy. 
+This Privacy Policy (“Privacy Policy”) explains how Udemy, Inc. (“Udemy,” “we” or “us”) collect, use and share personally identifiable information of visitors of our web site (the “Site”) and users of our products and services (the “Services”). Please note that the primary purpose of our Site and the Services it to allow you to enroll in and take online courses on a variety of topics (“Courses”). For the purpose of this Privacy Policy, information that you provide through the Site can be in one of two categories: information relating to your use of the Site or the Services, including, without limitation, enrollment information for Courses, is referred to as “Site Information,” while information relating to taking the Courses, including, without limitation, interchanges with the Course instructors (“Instructors”), other students (“Users”), answers, essays and other items submitted to satisfy Course requirements, is referred to as “Course Information.” When this Privacy Policy uses the generic term “information” it is intended to address the general use of information, and not your specific Site Information or Course Information. By using the Site, Services, or Courses you consent to the collection, use and disclosure of your personally identifiable Site Information and Course Information, as applicable, in accordance with this Privacy Policy. 
 
-##  Children's Privacy 
+**Personally Identifiable Information We Collect and How We Use It.**
 
-We are committed to protecting children's privacy online and meeting the requirements of the federal Children's Online Privacy Protection Act. This Site is intended for users above the age of 13. We do not knowingly collect information from children. 
+You can generally visit the Site without revealing any personally identifiable information about yourself. We do not collect personal information from our Site visitors without the Site visitor providing us with this information as set forth in this Privacy Policy. 
 
-##  Billing 
+If you request to receive company or product information, or request information about specific Services, or provide comments about Services, you will be asked to provide contact information so that we can complete your request. We use this Site Information to fulfill your request. We may also use this Site Information to send you additional information about our Services or Courses on the Site that you may be interested in.
 
-If you use or provide services on the Site for which we implement a billing system for you, we will collect additional information from you so that we can process and collect billing information. For example, we may collect your mailing address to remit payments, and we may collect your Social Security number if necessary and to help us verify your identity. 
+Some of the Services require that you become a registered user and create a user account. This will require that you provide certain personally identifiable information, that may include (but not be limited to) your (and if you are enrolling as part of our Udemy for Organizations program) your company’s name, e-mail address, as well as telephone and address information.
 
-##  Cookies 
+You allow us to use this personally identifiable Site Information to register you to use the Services, enroll in Courses, and otherwise provide you with the Services; verify your authority to enter the Site and access the Courses and Services; notify you of updates; improve the content and general administration of the Site and the Services; provide you with notices regarding the Services and other services that you have purchased or may wish to purchase in the future. 
 
-The Site uses software tags called "cookies" to identify customers when they visit our Site. Cookies are used to remember user preferences and maximize performance of our services. The information we collect with cookies is not sold, rented, or shared with any outside parties. Users who disable their Web browser's ability to accept cookies will be able to browse our Site but will not be able to successfully use our Service. 
+You also consent to our providing this personally identifiable information to Instructors as part of the Course Information when you enroll in a Course. Instructors will use this Course Information to provide the Course to you. Instructors may have other users for Course Information. It is your responsibility when you enroll in a Course to confirm what uses the Instructor will make of your personally identifiable Course Information. Udemy does not control these uses by Instructors.
 
-We use both session ID cookies and persistent cookies. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. Persistent cookies enable us to track and target the interests of our users to enhance the experience on our Site. 
+**Other Information We Collect and How We Use It.**
 
-This privacy policy covers the use of cookies by our Site only and does not cover the use of cookies by any advertisers. 
+Udemy may also automatically collect and analyze Site Information about your general usage of the Site, Services and Courses. We might track your usage patterns to see what features of the Site, Services and Courses you commonly use, Site traffic volume, frequency of visits, type and time of transactions, type of browser, browser language, IP address and operating system, and statistical information about how you use the Services and Courses. We only collect, track and analyze such Site Information in an aggregate manner that does not personally identify you. This aggregate data may be used to assist us in operating the Site and the Services and provided to other third parties to enable them to better understand the operation of the Services, and improve their Course offerings, but such information will be in aggregate form only and it will not contain personally identifiable data. 
 
-Third Party Cookies: We may from time to time engage third parties to track and analyze non-personally identifiable usage and volume statistical information from visitors to our Site to help us administer our Site and improve its quality. Such third parties may use cookies to help track visitor behavior. Such cookies will not be used to associate individual Site visitors to any Personal Information. All data collected by such third parties on our behalf is used only to provide us with information on Site usage and is not shared with any other third parties. 
+Instructors may collect non-personally identifiable Course Information in connection with your participation in Courses. This Course Information may include, but not be limited to, your interaction with the Instructor and other Users, comments you leave on Course forums, answers or essays you submit to satisfy Course requirements, and so forth. As noted above, it is your responsibility to review the Instructor’s policy in connection with all Course Information and decide whether or not you want to provide such Course Information.
 
-##  Web Beacons 
+**Children.**
 
-Web pages may contain an electronic file called a web beacon that allows a web site to count users who have visited that page or to access certain cookies. We may use web beacons in the following ways:   
+We recognize the privacy interests of children and we encourage parents and guardians to take an active role in their children’s online activities and interests. This Site is not intended for children under the age of 13 and we endeavor not to collect any personally identifiable information from children under the age of 13. Udemy targets its Services and this Site to adults and not to children under 13. 
 
+**Disclosure of Information.**
 
-  * We use web beacons within the Site in order to count users and to recognize users by accessing our cookies. 
-  * Being able to access our cookies allows us to personalize your user experience. 
-  * In general, any file served as part of a web page, including an ad banner, can act as a web beacon. We may also include web beacons from other companies within pages we serve so that our advertisers may receive auditing, and reporting. 
+We will share your personally identifiable Site Information with third parties only in the ways that are described in this privacy policy. These include, but are not limited to, sharing Site Information with service providers to allow them to fulfill your requests, to Instructors (in which case this will become Course Information), and to your employer if you are enrolled through the Udemy for Organizations program as an employee. We do not sell your personal information to third parties. Please refer to the sections above on personally identifiable and other Course Information for how Course Information may be used.
 
+We may also disclose your personally identifiable information: (a) if we are required to do so by law, regulation or other government authority or otherwise in cooperation with an investigation of a governmental authority, (b) to enforce these Terms of Use, or (c) to protect the safety of Users of our Site and our Services and Courses. In addition, we may transfer your personally identifiable information to a successor entity upon a merger, consolidation or other corporate reorganization. 
 
+**Data Retention**
 
-##  Log Files 
+We retain Site Information and the personal data we process on behalf of Users for as long as needed to provide the Services. We will retain and use this personal Site Information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements with Users, and/or the period required by laws in applicable jurisdictions. Please see the sections above for how Course Information may be used.
 
-We maintain log files of the traffic that visits our Site. We do not link any information gathered in these log files to Personal Information. Log files are used to manage traffic loads and information technology requirements for providing reliable service. Information collected includes IP addresses and browser types. 
+**Updating, Correcting and Deleting Your Information; Opt-out.**
 
-##  Security 
+If you believe that Udemy has incorrect Site Information or Course Information that was provided as part of the Services, you may use the Services to correct, amend, or delete that information. You may also contact us by e-mailing our customer support at privacy@udemy.com. We can only alter Course Information that was initially provided to us; you need to contact the Instructor for other purposes. Alternatively, you may send a letter with your requested changes, corrections or deletions to the following address:
 
-We take steps to protect the Personal Information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially reasonable means to protect your Personal Information, we cannot guarantee its absolute security. If we learn of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using this Site or providing personal information to us you agree that we can communicate with you electronically regarding security, privacy, and administrative issues relating to your use of this site. We may post a notice on our Site if a security breach occurs. We may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us at privacy@udemy.com. 
+By mail:   
+Udemy, Inc.   
+Attn: Privacy Policy   
+425 2nd Street, Suite 250 
 
-##  Retention of Information 
-
-We will keep Personal Information of our users for as long as they are registered subscribers or users of our products and services, and as permitted by law. 
-
-##  Linking 
-
-This Site may contain links to other web sites. The Company cannot and does not control the privacy practices of any such sites. You should review the privacy policy on any web site where you may submit personal information before providing it to any web site. 
-
-##  Emails 
-
-If you choose to register for our products and services, we will send you certain promotional emails. Promotional emails advertise our products and services and/or the products and services of our Users and Affiliates. If you do not want to receive promotional emails from us, you may elect to opt-out of receiving promotional emails at any time after registering by contacting us via [support.udemy.com](http://support.udemy.com/), by writing to us at the address contained herein, or by hitting the "unsubscribe" button at the bottom of any of our e-mails. 
-
-##  Legal Disclaimer 
-
-We reserve the right to disclose your Personal Information as required by law and when we believe that disclosure doing so in the Company's interest to protect its property or other legal rights or the rights or property of others. 
-
-##  International Users 
-
-This Site is hosted and operated in the United States. If you are visiting from the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that you are transferring your personal data to the United States, which does not have the same data protection laws as the EU and by providing your personal data you consent to: 
-
-  * The use of your personal data for the uses identified above in accordance with this Privacy Policy; and 
-  * The transfer of your personal data to the United States as indicated above. 
-
-
-
-##  Merger, Sale or Insolvency 
-
-If the Company should ever file for bankruptcy or have its assets sold to or merge with another entity, information the Company receives from you from this Site is a Company asset that may be transferred in connection with these types of corporate events. 
-
-##  Change in this Privacy Policy 
-
-We may occasionally update this Privacy Policy. When we do, we will also revise the "last updated" date on the Privacy Policy. For changes to this Privacy Policy that may be materially less restrictive on our use or disclosure of personal information you have provided to us, we will attempt to obtain your consent before implementing the change. We encourage you to periodically review this Privacy Policy to stay informed about how we are protecting the personal information we collect. Your continued use of this Site constitutes your agreement to this Privacy Policy and any updates. 
-
-##  Contact Us 
-
-If you have questions or concerns regarding this Policy, please contact us by emailing privacy@udemy.com or calling us at 888-838-5432. 
-
-###  Address 
-
-Udemy, Inc.  
-425 2nd St. Suite 250  
 San Francisco, CA 94107 
 
-Effective: March 8, 2010 
+From time to time, we may send you emails about Course or new or modified Services that we believe might interest you. If you wish to opt-out of receiving these materials, you may follow the unsubscribe procedure provided in the email. 
+
+**Security.**
+
+The security of your personal information is important to us. Udemy employs procedural and technological measures to protect your personally identifiable information. These measures are reasonably designed to help protect your personally identifiable information from loss, unauthorized access, disclosure, alteration or destruction. We may use software, secure socket layer technology (SSL) encryption, password protection, firewalls, internal restrictions and other security measures to help prevent unauthorized access to your personally identifiable information. However, Udemy cannot guarantee that unauthorized third parties will never be able to defeat these measures or use your personally identifiable information for improper purposes. Therefore, you should be aware that when you voluntarily display or distribute personally identifiable information, that information could be collected and used by others. Udemy is not responsible for the unauthorized use by third parties of information you post or otherwise make available publicly.
+
+**Links to Other Websites.**
+
+The Site, Services and in particular the Courses, may provide links to third party web sites or resources not associated with us and over which we do not have control (“External Web Sites”). Such links do not constitute an endorsement by Udemy of the External Web Sites, the content displayed therein, or the persons or entities associated therewith. You acknowledge that Udemy is only providing these links as a convenience, and cannot be responsible for the content of such External Web Sites. 
+
+**Material Changes**.
+
+Udemy reserves the right to change this Privacy Policy from time to time. We will post the revised Privacy Policy on this Site located at [www.udemy.com/static/privacy](https://www.udemy.com/static/privacy/) and will either send a notice to the e-mail address that you specified in your registration and/or post notice of the change so it is visible when users log-on for the first time prior to said changes taking effect so that you are always aware of what personal information we may collect and how we may use this information. We encourage you to review this Privacy Policy regularly for any changes. Your continued use of the Site and/or Services will be subject to the then-current Privacy Policy. 
+
+**Contact Us**
+
+We welcome your comments or questions concerning our Privacy Policy. If you would like to contact Udemy regarding this Privacy Policy, please contact us by emailing us at privacy@udemy.com, or at:
+
+Udemy, Inc.   
+Attn: Privacy Policy   
+425 2nd Street, Suite 250 
+
+San Francisco, CA 94107 
