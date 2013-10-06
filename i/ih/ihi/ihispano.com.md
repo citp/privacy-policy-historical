@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ihispano.com privacy policy that was archived on 2013-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130428065844id_/http%3A//www.ihispano.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihispano.com privacy policy that was archived on 2013-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131007002906id_/http%3A//www.ihispano.com/privacy-policy) for the most accurate reproduction.*
 
-# iHispano.com | Privacy Policy | Latino Professional Networking and Job Search
+# Jobs and Careers for Latino Professionals | iHispano.com
 
 iHispano.com is owned and operated by Professional Diversity Network. Professional Diversity Network is committed to protecting the privacy of our users. In addition to providing our users numerous privacy features, Professional Diversity Network has created this Privacy Statement in order to demonstrate in writing our firm commitment to privacy. 
 
