@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beaverbrooks.co.uk privacy policy that was archived on 2013-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130126074700id_/http%3A//www.beaverbrooks.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beaverbrooks.co.uk privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006185216id_/http%3A//www.beaverbrooks.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Beaverbrooks Privacy Policy - Beaverbrooks The Jewellers
 
