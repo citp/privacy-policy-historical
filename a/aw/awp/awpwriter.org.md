@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awpwriter.org privacy policy that was archived on 2013-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130119084159id_/https%3A//www.awpwriter.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awpwriter.org privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006065540id_/https%3A//www.awpwriter.org/privacy_policy) for the most accurate reproduction.*
 
 # Association of Writers & Writing Programs
 
