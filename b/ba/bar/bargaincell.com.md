@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bargaincell.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603173844id_/http%3A//bargaincell.com/Security_Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bargaincell.com privacy policy that was archived on 2013-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131007213032id_/http%3A//bargaincell.com/Security_Privacy) for the most accurate reproduction.*
 
 # Cell Phone Accessories + Free Shipping - BargainCell.com
 
