@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chitramala.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602043607id_/http%3A//www.chitramala.in/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chitramala.com privacy policy that was archived on 2013-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131007025840id_/http%3A//www.chitramala.in/privacy_policy.html) for the most accurate reproduction.*
 
 # Chitramala.com Privacy Policy
 
