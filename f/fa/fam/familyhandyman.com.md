@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the familyhandyman.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511154614id_/http%3A//www.familyhandyman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familyhandyman.com privacy policy that was archived on 2013-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131007135737id_/http%3A//www.familyhandyman.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Family Handyman
+# Privacy Policy: The Family Handyman
 
-Thank you for visiting FamilyHandyman.com, a community-oriented DIY web site that focuses on providing expert advice and how-to's for home projects for DIYers. The policies below are applicable to FamilyHandyman.com and other web sites on the World Wide Web, originating in the United States, and owned and operated by Reiman Media Group, LLC. ("we" or "us") unless otherwise indicated. Your privacy is important to us. With that value in mind, we've developed this privacy policy (this "Policy") explaining the ways in which we collect personal information on FamilyHandyman.com (the "Web Site"), and how we protect it, and what choices you have about how information is used.  
+Thank you for visiting FamilyHandyman.com, a community-oriented DIY web site that focuses on providing expert advice and how-to's for home projects for DIYers. The policies below are applicable to FamilyHandyman.com and other web sites on the World Wide Web, originating in the United States, and owned and operated by Home Service Publications, Inc. ("we" or "us") unless otherwise indicated. Your privacy is important to us. With that value in mind, we've developed this privacy policy (this "Policy") explaining the ways in which we collect personal information on FamilyHandyman.com (the "Web Site"), and how we protect it, and what choices you have about how information is used.  
 
 
 **Changes to this Policy**  
@@ -139,7 +139,7 @@ Please note that no data transmission over the Internet is 100% secure. As a res
 
 
 **Questions or Comments**  
-If you have any questions or comments about this Privacy Policy, the privacy practices of this Web Site, or your dealings with FamilyHandyman.com, please contact us at [Privacy@FamilyHandyman.com](mailto:Privacy@TasteofHome.com) or use the following address or phone number:
+If you have any questions or comments about this Privacy Policy, the privacy practices of this Web Site, or your dealings with FamilyHandyman.com, please contact us at [Privacy@FamilyHandyman.com](mailto:Privacy@FamilyHandyman.com) or use the following address or phone number:
 
 The _Family Handyman_  
 2915 Commers Drive  
