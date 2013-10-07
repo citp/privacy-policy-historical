@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the offertabs.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621223648id_/http%3A//woobox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offertabs.com privacy policy that was archived on 2013-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131007061600id_/http%3A//woobox.com/privacy) for the most accurate reproduction.*
 
 # Woobox Privacy Policy
 
