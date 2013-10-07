@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directly.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608002118id_/http%3A//www.directly.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directly.com privacy policy that was archived on 2013-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131007201040id_/http%3A//www.directly.com/legal/privacy) for the most accurate reproduction.*
 
 # Legal | Directly
 
