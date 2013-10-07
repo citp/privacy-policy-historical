@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the doyouspain.com privacy policy that was archived on 2013-04-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130424011609id_/http%3A//www.doyouspain.com/privacy-policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the doyouspain.com privacy policy that was archived on 2013-10-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131007234534id_/http%3A//doyouspain.com/privacy-policy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html;charset=windows-1252">
@@ -14,7 +14,7 @@
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript" type="text/javascript">
   var i;
   
-    var imagenes = new Array("/images/head.jpg", "/images/head_ahorro_en.jpg", "/images/formTopCoches_2012.jpg", "/images/formBottom_2012.jpg", "/images/formY_2012.jpg", "/images/flag-gb.gif", "/images/flag-es.gif", "/images/flag-de.gif", "/images/flag-it.gif", "/images/flag-nl.gif", "/images/flag-fr.gif", "/images/telefono.png");
+    var imagenes = new Array("/images/logo_head.png", "/images/carHead.png", "/images/head_cheaper_en.png", "/images/formTopCoches_2012.jpg", "/images/formBottom_2012.jpg", "/images/formY_2012.jpg", "/images/flag-gb.png", "/images/flag-es.png", "/images/flag-de.png", "/images/flag-it.png", "/images/flag-nl.png", "/images/flag-fr.png", "/images/phone.png");
   
   var lista_imagenes = new Array();
 
@@ -33,6 +33,21 @@
     <link rel="stylesheet" href="/css/index.css">    
     
         <link rel="stylesheet" href="/estilos/estilos.css">
+        <script type="text/javascript" src="/JavaScript/JQuery/js/jquery.js"></script>
+        <!-- ColorBox con JQuery-->
+        <link type="text/css" href="/javascript/colorbox/colorbox.css" rel="stylesheet">	
+        <script type="text/javascript" src="/javascript/colorbox/jquery.colorbox.js"></script>
+        <script type="text/javascript">
+          $(document).ready(function () {
+            $(".iframe").colorbox({ iframe: true, width: "80%", height: "80%" });
+
+            if (!esMovil.cualquiera() && !esMovil.iPad() && !esMovil.Tablet()) {
+              $("#idTelefono").show();
+            }
+
+          });
+        </script>
+        <!-- Fin ColorBox-->
     <script type="text/javascript" language="javascript" src="/javascript/funciones.js"></script>        
     <script type="text/javascript">
       var _gaq = _gaq || [];
@@ -53,27 +68,133 @@
 <body>
   <div id="capaFondoCabecera">
     <div id="capaImgTop"></div> <!-- capaImgTop -->   
-    <div id="capaContenedor">                           
+    <div id="capaContenedor">                                 
       
 
-<div id="capaLogo">    
-  <img src="/images/head.jpg" alt="Spain car hire with no hidden costs. Spain car hire without last minute surprises." width="940px" height="121px" border="0" usemap="#mapa1">
-  <map name="mapa1" id="mapa1"> 
-    <area alt="Alicante car hire, Malaga car hire, Mallorca car hire with All Inclusive prices and no extra charges. Spain car hire with Total Peace of mind." shape="rect" coords="0,0,270,126" href="/" target="_self">     
-  </map> 
+
+<style type="text/css">
+  #capaFondoCabecera{width:100%;height:102px;left:0px; position:static;z-index:-1; background-color:#f7c83e; background-image:none}      
+</style>  
+
+
+<div style="clear:both;height:121px;width:940px;margin:0px auto 0px auto;position:static;z-index:-1; ">    
   
-  <img src="/images/head_ahorro_EN.jpg" width="273px" height="102px" style="position: absolute;  top: 0px;  left: 300px;" alt="">   
+  <a href="/" target="_self">  
+    <img src="/images/logo_head.png" alt="Spain car hire with no hidden costs. Spain car hire without last minute surprises." border="0" width="246px" height="74px" style="position: absolute;  top: 15px;  left: 0px;">
+  </a>
+
+  <img src="/images/carHead.png" width="202px" height="104px" style="position: absolute;  top: 25px;  left: 570px;" alt="">
+
+
+
   
-  <div id="capaBanderas">  
-    <ul class="menu_general">
-      <li class="menu_general_item"><img style="border: none" src="/images/flag-gb.gif" alt="Spain car hire" width="18px" height="15px"></li>
-      <li class="menu_general_item"><a href="/mietwagen/"><img style="border: none" src="/images/flag-de.gif" alt="Mietwagen in Spanien" width="18px" height="15px"></a></li>    
-      <li class="menu_general_item"><a href="/location-voitures/"><img style="border: none" src="/images/flag-fr.gif" alt="Location de Voitures en Espagne" width="18px" height="15px"></a></li>    
-      <li class="menu_general_item"><a href="/alquiler-coches/"><img style="border: none" src="/images/flag-es.gif" alt="Alquiler de coches en España" width="18px" height="15px"></a></li>    
-      <li class="menu_general_item"><a href="/autohuur/"><img style="border: none" src="/images/flag-nl.gif" alt="Autohuur Spanje" width="18px" height="15px"></a></li>    
-      <li class="menu_general_item"><a href="/autonoleggio/"><img style="border: none" src="/images/flag-it.gif" alt="Autonoleggio in Spagna" width="18px" height="15px"></a></li>     
-    </ul>     
-  </div> <!-- capaBanderas -->   
+  <img src="/images/head_cheaper_EN.png" width="200px" height="102px" style="position: absolute;  top: 0px;  left: 320px;" alt="">     
+
+  
+
+  <div style="position: absolute; top: 3px; left: 790px; font-weight: bold; border: 0px solid black; text-align: center; width: 170px;" id="idTelefono">
+    <script type="text/javascript">
+      function fAbrirPhone() {
+        $.colorbox({
+          iframe: true,
+          href: "/phoneNumber.asp?idioma=EN",
+          width: 480,
+          height: 385,
+          opacity: 0.20,
+          overlayClose: true,
+          escKey: true,
+          scrolling: true,
+          fastIframe: true,
+          open: true,
+          transition: 'none',
+          fixed: true,
+          top: 80,
+          right: '20%'
+        });
+      }
+    </script>
+        
+    <div class="capaBlanca20"></div>
+    <div style="margin:0 auto; width:158px; cursor:pointer" onclick="javascript:fAbrirPhone()">
+      <img src="/images/phone.png" width="33px" height="38px" style="float:left" alt="">
+      <div style="float:left; width:5px; height:36px">&nbsp;</div>
+      <div style="color:black;float:left; width:120px; font-size:11pt; text-align:left;"><div class="capaBlanca1"></div>Looking for our phone number?</div>
+    </div>        
+        
+  </div>
+
+  
+
+  <div id="capaBanderas" style="top:75px;left:850px">  
+    
+    <style type="text/css">
+      .colorFondoSelFlag:hover{background-color:#ffcc33;}      
+    </style>    
+    <div style="width:98px; height:18px; border: 1px solid #c3c3c3; background-color:#f2f2f2; font-size:11px; cursor:pointer" onclick="javascript:fDesplegarFlags()" id="idSeleccionFlag">      
+      <div style="float:left; position:relative;margin-top:3px; margin-left:3px"><img src="/images/flag-EN.png" width="15px" height="11px"></div>
+      <div style="margin-left:5px; margin-top:2px; position:relative; float:left ">English</div>
+      <div style="float:right; position:relative; margin-right:1px; margin-top:1px"><img src="/images/flag-dwn.png" width="16px" height="16px"></div>
+    </div>
+
+    <div id="idListaFlags" style="display:none; width:98px; border: 1px solid #c3c3c3; background-color:#ffffff; height:132px; font-size:11px; ">      
+      
+        <div style="background-color:#ffcc33; width:98px; height:22px; clear:both">
+      
+        <div style="float:left; position:relative;margin-top:3px; margin-left:3px"><img src="/images/flag-en.png" width="22px" height="16px"></div>
+        <div style="margin-left:5px; margin-top:4px; position:relative; float:left ;font-weight:bold ">English</div>
+      </div>      
+      
+        <div style="width:98px; height:22px; clear:both; cursor:pointer" class="colorFondoSelFlag" onclick="javascript:document.location = '/mietwagen/';$('#idListaFlags').slideUp();">
+            
+        <div style="float:left; position:relative;margin-top:3px; margin-left:3px"><img src="/images/flag-de.png" width="22px" height="16px"></div>
+        <div style="margin-left:5px; margin-top:4px; position:relative; float:left ">Deutsch</div>
+      </div>
+      
+        <div style="width:98px; height:22px; clear:both; cursor:pointer" class="colorFondoSelFlag" onclick="javascript:document.location = '/alquiler-coches/';$('#idListaFlags').slideUp();">
+                
+        <div style="float:left; position:relative;margin-top:3px; margin-left:3px"><img src="/images/flag-es.png" width="22px" height="16px"></div>
+        <div style="margin-left:5px; margin-top:4px; position:relative; float:left ">Español</div>
+      </div>      
+      
+        <div style="width:98px; height:22px; clear:both; cursor:pointer" class="colorFondoSelFlag" onclick="javascript:document.location = '/autonoleggio/';$('#idListaFlags').slideUp();">
+                      
+        <div style="float:left; position:relative;margin-top:3px; margin-left:3px"><img src="/images/flag-it.png" width="22px" height="16px"></div>
+        <div style="margin-left:5px; margin-top:4px; position:relative; float:left ">Italiano</div>
+      </div>
+      
+        <div style="width:98px; height:22px; clear:both; cursor:pointer" class="colorFondoSelFlag" onclick="javascript:document.location = '/autohuur/';$('#idListaFlags').slideUp();">
+              
+        <div style="float:left; position:relative;margin-top:3px; margin-left:3px"><img src="/images/flag-nl.png" width="22px" height="16px"></div>
+        <div style="margin-left:5px; margin-top:4px; position:relative; float:left ">Nederlands</div>
+      </div>
+      
+        <div style="width:98px; height:22px; clear:both; cursor:pointer" class="colorFondoSelFlag" onclick="javascript:document.location = '/location-voitures/';$('#idListaFlags').slideUp();">
+               
+        <div style="float:left; position:relative;margin-top:3px; margin-left:3px"><img src="/images/flag-fr.png" width="22px" height="16px"></div>
+        <div style="margin-left:5px; margin-top:4px; position:relative; float:left ">Français</div>
+      </div>
+    </div>
+    <script type="text/javascript">
+      function fDesplegarFlags() {
+        if ($('#idListaFlags').css('display') == "none")
+          $('#idListaFlags').slideDown();
+        else $('#idListaFlags').slideUp();
+      }
+
+      $('#idListaFlags').mouseleave(function () {
+        $('#idListaFlags').slideUp();
+      });
+    </script>      
+  </div> <!-- capaBanderas -->    
+
+
+
+
+
+
+
+
+  
   
   <div id="capaMenu">        
     <ul class="menu_general">
@@ -81,24 +202,14 @@
         <li class="menu_general_item"><a class="menu" href="/">Get a Quote</a></li>
         <li class="menu_general_item"><span class="colorTuberia">|</span></li>
       
-      <li class="menu_general_item"><a class="menu" href="/customer.htm">Customer Support</a></li>
+      <li class="menu_general_item"><a class="menu" href="/support/support.aspx?idioma=EN&amp;action=MBO">My Booking</a></li>
       <li class="menu_general_item"><span class="colorTuberia">|</span></li>
-      <li class="menu_general_item"><a class="menu" href="/about_us.htm">About Us</a></li>
-      <li class="menu_general_item"><span class="colorTuberia">|</span></li>
-      <li class="menu_general_item"><a class="menu" href="/send_voucher.asp">My Booking</a></li>
-      <li class="menu_general_item"><span class="colorTuberia">|</span></li>
-      <li class="menu_general_item"><a class="menu" href="/contact_us.htm">Contact us</a></li>
+      <li class="menu_general_item"><a class="menu" href="/hotels/indexHotels.asp?idioma=EN">Hotels</a></li>
+
+      
     </ul>
   </div> <!-- capaMenu -->
-
-  <div id="capaMenuDerecha">
-    <ul class="menu_general">
-      <li class="menu_general_item"><a class="menuDerecha" href="javascript:void(0)" onclick="javascript:window.open('/tell_friend.asp?idioma=EN','TELL_FRIEND','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,width=560,height=380')">Tell a Friend</a></li>
-      <li class="menu_general_item"><span class="colorTuberia">|</span></li>    
-      <li class="menu_general_item"><a class="menuDerecha" href="javascript:addBookmark()">Bookmark</a></li>    
-    </ul>
-  </div>
-  
+    
   
 </div> <!-- capaLogo -->     
 <div class="capaBlanca5"></div>   
@@ -222,8 +333,66 @@
 <div class="capaBlanca20"></div> 
 
 <style type="text/css">
-  #capaImgBottom{clear:both; width:100%; height:220px; margin:-220px 0 0 0; background-color:#e0e0e0; position:relative; z-index:-10;}      
+  #capaImgBottom{clear:both; width:100%; height:185px; margin:-185px 0 0 0; background-color:#ececec; position:relative; z-index:-10;}      
 </style>
+
+<div style="width:935px; margin:0 auto; border:0px solid black; font-size:11pt">            
+  <div style="width:215px; float:left">
+    <div style="text-decoration:none"><b>Help</b></div>
+    <div class="capaBlanca10"></div>
+    <a href="/support/support.aspx?idioma=EN" style="font-size:11pt; color:Blue; text-decoration:underline">Customer Support</a>
+    <div class="capaBlanca10"></div>
+    <a href="/faqs.htm" style="font-size:11pt; color:Blue; text-decoration:underline">FAQs</a>
+    <div class="capaBlanca10"></div>
+    <a href="/support/support.aspx?idioma=EN" style="font-size:11pt; color:Blue; text-decoration:underline">Contact Us</a>
+  </div>
+  <div style="width:25px; float:left">&nbsp;</div>
+  <div style="width:215px; float:left">
+    <div style="text-decoration:none"><b>About DYS</b></div>
+    <div class="capaBlanca10"></div>
+    <a href="/about_us.htm" style="font-size:11pt; color:Blue; text-decoration:underline">About Us</a>
+    <div class="capaBlanca10"></div>
+    <a href="/hotels/indexHotels.asp?idioma=EN" style="font-size:11pt; color:Blue; text-decoration:underline">Hotels</a>
+    <div class="capaBlanca10"></div>
+    <a href="/privacy-policy.asp" style="font-size:11pt; color:Blue; text-decoration:underline">Privacy Policy</a>
+  </div>
+  
+  <div style="width:25px; float:left">&nbsp;</div>
+  <div style="width:215px; float:left">
+    <div style="text-decoration:none"><b>Information</b></div>
+    <div class="capaBlanca10"></div>
+    <a href="/fleet.htm" style="font-size:11pt; color:Blue; text-decoration:underline">Fleet</a>
+    <div class="capaBlanca10"></div>
+    <a href="/tourist-info.htm" style="font-size:11pt; color:Blue; text-decoration:underline">Tourist Info</a>
+    <div class="capaBlanca10"></div>
+    <a href="/doyouspain-reviews.asp" style="font-size:11pt; color:Blue; text-decoration:underline">Customer Reviews</a>
+  </div>  
+
+  <div style="width:5px; float:left">&nbsp;</div>
+  <div>
+    <table border="0">
+    <tbody><tr>
+    <td nowrap="">            
+      <br>
+      <img src="/images/secured.png" width="120px" height="65px" alt="VeriSign">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+    </td>
+    <td nowrap="" valign="top">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <!-- Begin DigiCert/ClickID site seal HTML and JavaScript -->
+      <div id="DigiCertClickID_T3Umb1Nb">	          
+      </div>
+      <script type="text/javascript">
+        var __dcid = __dcid || []; __dcid.push(["DigiCertClickID_T3Umb1Nb", "7", "s", "black", "T3Umb1Nb"]); (function () { var cid = document.createElement("script"); cid.async = true; cid.src = "//seal.digicert.com/seals/cascade/seal.min.js"; var s = document.getElementsByTagName("script"); var ls = s[(s.length - 1)]; ls.parentNode.insertBefore(cid, ls.nextSibling); } ());
+      </script><script async="" src="//seal.digicert.com/seals/cascade/seal.min.js"></script>
+      <!-- End DigiCert/ClickID site seal HTML and JavaScript -->
+    </td>
+    </tr>
+    </tbody></table>  
+  </div>
+
+  <div class="capaBlanca20"></div>
+</div>
 
 
 <div>   
@@ -239,24 +408,32 @@
         <a href="/alicante-car-hire/alicante-car-hire.htm" class="linkUnderline letraLinkPie" title="Alicante car hire">Alicante car hire</a> | <a href="/almeria-car-hire/almeria-car-hire.htm" class="linkUnderline letraLinkPie" title="Almeria car hire">Almeria car hire</a>  |  <a href="/aviles-car-hire/aviles-car-hire.htm" class="linkUnderline letraLinkPie" title="Aviles car hire">Aviles car hire</a>  |  <a href="/badajoz-car-hire/badajoz-car-hire.htm" class="linkUnderline letraLinkPie" title="Badajoz car hire">Badajoz car hire</a>  |  <a href="/barcelona-car-hire/barcelona-car-hire.htm" class="linkUnderline letraLinkPie" title="Barcelona car hire">Barcelona car hire</a>  |  <a href="/bilbao-car-hire/bilbao-car-hire.htm" class="linkUnderline letraLinkPie" title="Bilbao car hire">Bilbao car hire</a>  |  <a href="/coruna-car-hire/coruna-car-hire.htm" class="linkUnderline letraLinkPie" title="Coruña car hire">Coruña car hire</a>  |  <a href="/hierro-car-hire/hierro-car-hire.htm" class="linkUnderline letraLinkPie" title="El Hierro car hire">El Hierro car hire</a>  |  <a href="/fuerteventura-car-hire/fuerteventura-car-hire.htm" class="linkUnderline letraLinkPie" title="Fuerteventura car hire">Fuerteventura car hire</a>  |  <a href="/gibraltar-car-hire/gibraltar-car-hire.htm" class="linkUnderline letraLinkPie" title="Gibraltar car hire">Gibraltar car hire</a>  |  <a href="/girona-car-hire/girona-car-hire.htm" class="linkUnderline letraLinkPie" title="Girona car hire">Girona car hire</a>  |  <a href="/gran-canaria-car-hire/gran-canaria-car-hire.htm" class="linkUnderline letraLinkPie" title="Gran Canaria car hire">Gran Canaria car hire</a>  |  <a href="/granada-car-hire/granada-car-hire.htm" class="linkUnderline letraLinkPie" title="Granada car hire">Granada car hire</a>  |  <a href="/ibiza-car-hire/ibiza-car-hire.htm" class="linkUnderline letraLinkPie" title="Ibiza car hire">Ibiza car hire</a>  |  <a href="/jerez-car-hire/jerez-car-hire.htm" class="linkUnderline letraLinkPie" title="Jerez car hire">Jerez car hire</a>  |  <a href="/gomera-car-hire/gomera-car-hire.htm" class="linkUnderline letraLinkPie" title="La Gomera car hire">La Gomera car hire</a>  |  <a href="/la-palma-car-hire/la-palma-car-hire.htm" class="linkUnderline letraLinkPie" title="La Palma, Santa Cruz car hire">La Palma, Santa Cruz car hire</a>  |  <a href="/lanzarote-car-hire/lanzarote-car-hire.htm" class="linkUnderline letraLinkPie" title="Lanzarote car hire">Lanzarote car hire</a>  |  <a href="/las-palmas-car-hire/las-palmas-car-hire.htm" class="linkUnderline letraLinkPie" title="Las Palmas car hire">Las Palmas car hire</a>  |  <a href="/leon-air-car-hire/leon-air-car-hire.htm" class="linkUnderline letraLinkPie" title="Leon car hire">Leon car hire</a>  |  <a href="/madrid-car-hire/madrid-car-hire.htm" class="linkUnderline letraLinkPie" title="Madrid car hire">Madrid car hire</a>  |  <a href="/majorca-car-hire/majorca-car-hire.htm" class="linkUnderline letraLinkPie" title="Majorca car hire">Majorca car hire</a>  |  <a href="/malaga-car-hire/malaga-car-hire.htm" class="linkUnderline letraLinkPie" title="Malaga car hire">Malaga car hire</a>  |  <a href="/mallorca-car-hire/mallorca-car-hire.htm" class="linkUnderline letraLinkPie" title="Mallorca car hire">Mallorca car hire</a>  |  <a href="/menorca-car-hire/menorca-car-hire.htm" class="linkUnderline letraLinkPie" title="Menorca car hire">Menorca car hire</a>  |  <a href="/murcia-car-hire/murcia-car-hire.htm" class="linkUnderline letraLinkPie" title="Murcia car hire">Murcia car hire</a>  |  <a href="/palma-mallorca-car-hire/palma-mallorca-car-hire.htm" class="linkUnderline letraLinkPie" title="Palma Mallorca car hire">Palma Mallorca car hire</a>  |  <a href="/pamplona-car-hire/pamplona-car-hire.htm" class="linkUnderline letraLinkPie" title="Pamplona car hire">Pamplona car hire</a>  |  <a href="/reus-car-hire/reus-car-hire.htm" class="linkUnderline letraLinkPie" title="Reus car hire">Reus car hire</a>  |  <a href="/san-sebastian-car-hire/san-sebastian-car-hire.htm" class="linkUnderline letraLinkPie" title="San Sebastian car hire">San Sebastian car hire</a>  |  <a href="/santander-car-hire/santander-car-hire.htm" class="linkUnderline letraLinkPie" title="Santander car hire">Santander car hire</a>  |  <a href="/santiago-car-hire/santiago-car-hire.htm" class="linkUnderline letraLinkPie" title="Santiago de Compostela car hire">Santiago de Compostela car hire</a>  |  <a href="/sevilla-car-hire/sevilla-car-hire.htm" class="linkUnderline letraLinkPie" title="Sevilla car hire">Sevilla car hire</a>  |  <a href="/tenerife-north-car-hire/tenerife-north-car-hire.htm" class="linkUnderline letraLinkPie" title="Tenerife North car hire">Tenerife North car hire</a>  |  <a href="/tenerife-car-hire/tenerife-car-hire.htm" class="linkUnderline letraLinkPie" title="Tenerife South car hire">Tenerife South car hire</a>  |  <a href="/valencia-car-hire/valencia-car-hire.htm" class="linkUnderline letraLinkPie" title="Valencia car hire">Valencia car hire</a>  |  <a href="/valladolid-car-hire/valladolid-car-hire.htm" class="linkUnderline letraLinkPie" title="Valladolid car hire">Valladolid car hire</a>  |  <a href="/vigo-car-hire/vigo-car-hire.htm" class="linkUnderline letraLinkPie" title="Vigo car hire">Vigo car hire</a>  |  <a href="/vitoria-car-hire/vitoria-car-hire.htm" class="linkUnderline letraLinkPie" title="Vitoria car hire">Vitoria car hire</a>  |  <a href="/zaragoza-car-hire/zaragoza-car-hire.htm" class="linkUnderline letraLinkPie" title="Zaragoza car hire">Zaragoza car hire</a>  |  <a href="/car-hire-locations.htm" class="linkUnderline letraLinkPie">further destinations …</a>    
         
         </p>
-        <br>
-        <a class="pie-pie-a" href="/fleet.htm">Fleet</a> ¦ <a class="pie-pie-a" href="/tourist-info.htm">Tourist Info</a> ¦ <a class="pie-pie-a" href="http://hotels.doyouspain.com/quote.htm">Hotels</a> ¦  <a class="pie-pie-a" href="/">Car Hire</a> ¦
-        <a class="pie-pie-a" href="/privacy-policy.asp">Privacy Policy</a> ¦ <a class="pie-pie-a" href="/report-problem.asp?idioma=EN">Report Problem</a> ¦ <a class="pie-pie-a" href="/testimonials.htm">Customer Reviews</a>        
-        <br>
+                
+        <div class="capaBlanca10"></div>
         All trademarks and copyrights held by DoYouSpain.com  ¦ DoYouSpain.com 2013 All Rights Reserved 
         <br>        
         DoYouSpain Internet Holidays S.L. B12693925 Travel Agency Licence: CV-m.1311-CS C/ Barrachina 15 Bis 12006 Castellón Spain 
           
-    <br>        
-    <br>        
+    <div class="capaBlanca10"></div>     
     <a href="http://www.doyouspain.com" class="linkUnderline letraLinkPie" title="DoYouSpain.com">DoYouSpain.com</a> | 
     <a href="http://www.doyouspain.co.uk" class="linkUnderline letraLinkPie" title="DoYouSpain.co.uk">DoYouSpain.co.uk</a> | 
     <a href="http://www.doyouspain.de" class="linkUnderline letraLinkPie" title="DoYouSpain.de">DoYouSpain.de</a> | 
     <a href="http://www.doyouspain.es" class="linkUnderline letraLinkPie" title="DoYouSpain.es">DoYouSpain.es</a> | 
     <a href="http://www.doyouspain.nl" class="linkUnderline letraLinkPie" title="DoYouSpain.nl">DoYouSpain.nl</a> | 
-    <a href="http://www.doyouspain.it" class="linkUnderline letraLinkPie" title="DoYouSpain.it">DoYouSpain.it</a>
-    <br> 
-    <br>  
+    <a href="http://www.doyouspain.it" class="linkUnderline letraLinkPie" title="DoYouSpain.it">DoYouSpain.it</a> | 
+    <a href="http://www.doyouspain.fr" class="linkUnderline letraLinkPie" title="DoYouSpain.fr">DoYouSpain.fr</a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="/"><img style="border: none" src="/images/flag-en.png" alt="Spain car hire" width="18px" height="15px" border="0"></a>
+    <a href="/mietwagen/"><img style="border: none" src="/images/flag-de.png" alt="Mietwagen in Spanien" width="18px" height="15px" border="0"></a>      
+    <a href="/location-voitures/"><img style="border: none" src="/images/flag-fr.png" alt="Location de Voitures en Espagne" width="18px" height="15px" border="0"></a>      
+    <a href="/alquiler-coches/"><img style="border: none" src="/images/flag-es.png" alt="Alquiler de coches en España" width="18px" height="15px" border="0"></a>         
+    <a href="/autohuur/"><img style="border: none" src="/images/flag-nl.png" alt="Autohuur Spanje" width="18px" height="15px" border="0"></a>      
+    <a href="/autonoleggio/"><img style="border: none" src="/images/flag-it.png" alt="Autonoleggio in Spagna" width="18px" height="15px" border="0"></a>
+     
+
+
+    <div class="capaBlanca10"></div>
     </div>
 </div> <!-- capaLogoPie -->             
         
@@ -275,4 +452,4 @@
 
 
 
-</body></html>
+<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="display: none; padding-bottom: 32px; padding-right: 0px;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" style="width: 0px; height: 0px; overflow: hidden; float: left;"></div><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><div id="cboxNext" style="float: left;"></div><div id="cboxPrevious" style="float: left;"></div><div id="cboxSlideshow" style="float: left;"></div><div id="cboxClose" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div></body></html>
