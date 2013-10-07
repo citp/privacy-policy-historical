@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cancerhelp.org.uk privacy policy that was archived on 2013-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130224114027id_/http%3A//www.cancerresearchuk.org/cancer-help/ssNODELINK/chprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cancerhelp.org.uk privacy policy that was archived on 2013-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131007020844id_/http%3A//www.cancerresearchuk.org/cancer-help/ssNODELINK/chprivacy) for the most accurate reproduction.*
 
 # Privacy statement : Cancer Research UK : CancerHelp UK
 
@@ -35,9 +35,9 @@ We may need to share your information with our service providers, associated org
 
 ## Cancer information nurses
 
-If you contact the [cancer information nurses](https://web.archive.org/web/20130224091512id_/http://www.cancerresearchuk.org/cancer-help/utilities/privacy/ssNODELINK/contact-cancer-nurses), either through CancerHelp UK or directly, you may choose to provide details of a personal nature. Only the cancer information nurses will use your personal information and only for the purposes of dealing with your enquiry. They will not pass on your details to anyone else without your express permission, except in exceptional circumstances to comply with the nurses’ code of professional conduct or the law. Examples of this might include children contacting the service reporting abuse, anyone reporting serious self harm, anyone expressing the intention of harming someone else, or if a terrorist threat is reported.
+If you contact the [cancer information nurses](https://web.archive.org/web/20131001141222id_/http://www.cancerresearchuk.org/cancer-help/utilities/privacy/ssNODELINK/contact-cancer-nurses), either through CancerHelp UK or directly, you may choose to provide details of a personal nature. Only the cancer information nurses will use your personal information and only for the purposes of dealing with your enquiry. They will not pass on your details to anyone else without your express permission, except in exceptional circumstances to comply with the nurses’ code of professional conduct or the law. Examples of this might include children contacting the service reporting abuse, anyone reporting serious self harm, anyone expressing the intention of harming someone else, or if a terrorist threat is reported.
 
-Your personal information and details of the enquiries received are stored on a secure database. If for any reason you wish to have your personal details removed from their records, please [contact the cancer information nurses](https://web.archive.org/web/20130224091512id_/http://www.cancerresearchuk.org/cancer-help/utilities/privacy/ssNODELINK/SendAQuestion).
+Your personal information and details of the enquiries received are stored on a secure database. If for any reason you wish to have your personal details removed from their records, please [contact the cancer information nurses](https://web.archive.org/web/20131001141222id_/http://www.cancerresearchuk.org/cancer-help/utilities/privacy/ssNODELINK/SendAQuestion).
 
 If you send feedback to the CancerHelp UK team, the feedback will be noted and your contact details kept for a maximum of 3 months. If you have sent a complaint to the site, the correspondence will be kept securely in a complaints file for a maximum of one year, in case we need to refer back to it.
 
@@ -51,7 +51,7 @@ Cancer Research UK is concerned to protect the privacy of children aged under 16
 
 ## Do we use cookies?
 
-Please refer to [our cookie policy](https://web.archive.org/web/20130224091512id_/http://www.cancerresearchuk.org/cancer-help/utilities/privacy/ssNODELINK/abt-us-cookies-policy) for details of how we use cookies and the type of cookies served through our web sites.
+Please refer to [our cookie policy](https://web.archive.org/web/20131001141222id_/http://www.cancerresearchuk.org/cancer-help/utilities/privacy/ssNODELINK/abt-us-cookies-policy) for details of how we use cookies and the type of cookies served through our web sites.
 
 ## How do we protect personal information?
 
