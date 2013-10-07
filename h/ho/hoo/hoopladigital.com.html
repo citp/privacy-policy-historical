@@ -1,0 +1,366 @@
+<!--The following is the downloaded HTML source of the hoopladigital.com privacy policy that was archived on 2013-10-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131008013639id_/https%3A//www.hoopladigital.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+	<title>hoopla</title>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+
+		
+	<meta property="og:title" content="">
+	<meta property="og:type" content="">
+	<meta property="og:image" content="">
+	<meta property="og:site_name" content="hoopla">
+	<meta property="og:description" content="">
+
+	<link rel="stylesheet" type="text/css" href="/css/main.css?v=1.5.13" media="screen">
+	<link rel="stylesheet" type="text/css" href="/css/fancybox.css?v=1.5.13" media="screen">
+	<link rel="stylesheet" type="text/css" href="/js/fancyBox-2.1.5/source/jquery.fancybox.css?v=1.5.13" media="screen">
+
+	<link rel="icon" type="image/ico" href="/img/fav.ico">
+
+	
+		<style>
+			#privacyPolicyContainer h2 {
+				color: #fff;
+				font-weight: 200;
+				margin-bottom: 12px;
+				font-size: 26px;
+				color:#1a8abf
+			}
+
+			#privacyPolicyContainer p {
+				color: #bbb;
+				font-size: 15px!important;
+				line-height: 26px;
+				font-weight: 200;
+				margin-bottom: 22px;
+			}
+
+			#privacyPolicyContainer p b, #privacyPolicyContainer p strong {
+				font-weight: 400;
+				color: #ddd;
+			}
+
+			#privacyPolicyContainer li {
+				font-weight: 200;
+				font-size: 15px!important;
+				margin-bottom: 6px;
+				color:#ddd!important;
+			}
+		</style>
+	
+
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//code.jquery.com/jquery-1.9.1.min.js"></script>
+	<script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+		
+	<script type="text/javascript" src="//use.typekit.net/axi5twd.js"></script>
+	<script type="text/javascript">try {
+		Typekit.load();
+	} catch (e) {
+	}</script>
+
+	<script type="text/javascript" src="/js/fancyBox-2.1.5/source/jquery.fancybox.js?v=1.5.13"></script>
+	<script type="text/javascript" src="/js/detect.js?v=1.5.13"></script>
+	<script type="text/javascript" src="/js/placeholder.js?v=1.5.13"></script>
+	<script type="text/javascript" src="/js/jquery.autocomplete.min.js?v=1.5.13"></script>
+
+		
+	
+	
+	
+	
+
+	<script type="text/javascript">
+		// These constants are used in the browser-check.js
+		var safariLink = 'http://support.apple.com/downloads/#safari';
+		var explorerLink = 'http://windows.microsoft.com/en-US/internet-explorer/download-ie';
+		var chromeLink = 'https://www.google.com/intl/en/chrome/browser/';
+		var firefoxLink = 'https://www.mozilla.org/en-US/firefox/new/';
+
+		$(function () {
+
+			$(".searchbox").keypress(function (e) {
+				if (e.which == 13) {
+					if ($(".searchbox").val() != '') {
+						$("#searchForm").submit();
+					}
+					return false;
+				}
+			});
+
+			$(".searchbox").autocomplete({
+				serviceUrl: "/searchSuggest",
+				width: 400,
+				appendTo: "#search",
+				minChars: 2,
+				deferRequestBy: 100,
+				dataType: "json",
+				populateTextField: false,
+				transformResult: function (response) {
+					return {
+						suggestions: $.map(response, function (dataItem, index) {
+							return { value: dataItem.label, data: dataItem };
+						})
+					};
+				},
+				onSelect: function (suggestion) {
+					if (suggestion.data.artistId) {
+						window.location = "/artist/title?artistId=" + suggestion.data.artistId + "&artistName=" + suggestion.data.label
+					} else if (suggestion.data.titleId) {
+						window.location = "/title/" + suggestion.data.titleId;
+					} else if (suggestion.data.kindName) {
+						window.location = "/search?results=&q=" + suggestion.data.searchText + "&kind=" + suggestion.data.kindName;
+					}
+				}
+			});
+
+			$(".contact").fancybox({
+				padding: 0
+			});
+
+			$('input, textarea').placeholder();
+
+			$(".browser-check").click(function (event) {
+				var result = validBrowser();
+				if (!result) {
+					$('.detect-info p').html("The action you are trying to commit has been disabled because we have detected that you are using an outdated web browser that may cause you to experience the site differently than we intended. To update your web browser is extremely simple and will help keep your computer up to date and secure.");
+					event.stopImmediatePropagation();
+				}
+				return result;
+			});
+		});
+
+	</script>
+
+	<script type="text/javascript" src="/js/browser-check.js?v=1.5.13"></script>
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-2207825-4']);
+		_gaq.push(['_trackPageview']);
+
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+
+
+
+</head>
+<body class="grey">
+<div id="wrapper">
+	<div id="header">
+		<div id="nav">
+			<a class="logo" href="/home"><img src="/img/hoopla-logo.png" alt="hoopla"></a>
+			<ul class="navLeft">
+				
+					
+						<li><a class="browser-check" href="/mytitles">My Titles</a></li>
+					
+					
+				
+				<li data-link="find"><a href="/browse">Browse</a></li>
+			</ul>
+			<div id="search">
+				<form id="searchForm" style="display: inline;" action="/search" method="post" accept-charset="UTF-8"><input name="q" type="text" placeholder="Search" class="searchbox" value="">
+				<div style="display: none;"><input type="hidden" name="_sourcePage" value="vXF_vRKtzMCwR2EQWdjYkR6WYV_pFv1n957fTkc8QLyX1Wzbv_s4pg=="><input type="hidden" name="__fp" value="XeFimQ8Cr1w="></div></form>
+			</div>
+			<ul class="navRight">
+				
+					
+						<li data-link="signup"><a class="browser-check" href="/terms">Sign Up</a></li>
+						<li><span class="seperator">|</span></li>
+						<li data-link="sign in"><a class="browser-check" href="/login">Sign In</a></li>
+					
+					
+				
+			</ul>
+		</div>
+			
+	</div>
+		
+
+	<div class="content-wrapper">
+		
+		<div id="privacyPolicyContainer" style="width: 90%; margin: 50px auto 0 auto;">
+			<h2>Privacy Policy</h2>
+			<p>
+				<strong>Midwest Tape (hoopla)</strong> is committed to protecting the privacy, accuracy, and reliability
+				of any personal information you choose to provide and to safeguard loss, misuse,
+				unauthorized access, disclosure, and alteration of this information.  This privacy policy
+				sets out how we use and protect any information that is gathered when you use this
+				website.
+			</p>
+
+			<h2>What information do we collect?</h2>
+			<p>
+				We collect an email address and password of your choosing that we use to authenticate you when you use the hoopla service.  We also collect your library card number and optional library card PIN so our system can communicate with your library's system to verify you are a patron in good standing.  We collect no other personal information.
+			</p>
+			<p>
+				As you use the hoopla service, we record how you use our application, including the materials you borrow.  This information is reported to your library, content providers, and licensing agencies.  When it is reported, it is always reported in aggregate with other patrons.  It is never reported in a manner that associates your account with specific content or activities.
+			</p>
+
+			<h2>What do we do with the information we gather?</h2>
+			<p>
+				We use your email address and password to authenticate you with our systems.
+			</p>
+			<p>
+				We use your library card number and library card PIN to authenticate you with your library's systems.
+			</p>
+			<p>
+				We use a record of the materials you borrow to bill your library for usage, and to pay content providers a fee for distributing the content they have licensed to us.
+			</p>
+			<p>
+				We use usage data to look for ways to improve the hoopla service, by making popular features easier to find, getting rid of features that few people use, or anticipating features people may wish we had.
+			</p>
+			<p>
+				We may use your email in response to a specific inquiry or complaint you may have posted to us.
+			</p>
+			<p>
+				Only when instructed or approved by your library will we use your email address to send information about the hoopla service, such as the announcement of new major features or new content providers.
+			</p>
+			<p>
+				In all circumstances, your information -- whether public or private -- will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, other than for the express purpose of delivering the product or service requested.
+			</p>
+
+			<h2>How do we protect your information?</h2>
+			<p>
+				Your privacy is important to us.  Therefore, we intentionally do not collect personal information from you other than your email address and a password of your choosing, your library card number and pin.  All electronic communication between your web browser or mobile device and our servers is protected and encrypted via SSL (HTTPS).  Your password is encrypted before it is stored in our database.  And though we must report usage statistics to your library and to content providers, we never associate usage statistics with specific users.
+			</p>
+
+			<h2>Do we disclose any information to outside parties?</h2>
+			<p>
+				We do not sell, trade, or otherwise transfer to third parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+			</p>
+
+			<h2>Third party links</h2>
+			<p>
+				Occasionally, at our discretion, we may include or offer third party links on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+			</p>
+
+			<h2>Online Privacy Policy Only</h2>
+			<p>
+				This online privacy policy applies only to information collected through our website and mobile applications, and not to information collected offline.
+			</p>
+			<h2>Terms and Conditions</h2>
+			<p>
+				Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <a style="color: #ffffff;" href="/terms">https://www.hoopladigital.com/terms</a>.
+			</p>
+
+			<h2>Your Consent</h2>
+			<p>
+				By using our site or mobile applications, you consent to our online privacy policy.
+			</p>
+
+			<h2>Changes to our Privacy Policy</h2>
+			<p>
+				If we decide to change our privacy policy, we will update the Privacy Policy modification date below.
+			</p>
+
+			<h2>Contacting Us</h2>
+			<p>
+				If there are any questions regarding this policy, you can email them to <a href="mailto:info@hoopladigital.com" style="color: #ffffff;">info@hoopladigital.com</a> and we'll respond accordingly.
+			</p>
+			<p>Last revised on February 5, 2013</p>
+		</div>
+	
+	</div>
+		
+
+	<div class="clearfooter"></div>
+</div>
+	
+<div id="detect" style="display: none;">
+	<div class="detect-content">
+		<div class="detect-info">
+			<h2 id="compliantMessage">Your browser is not HTML5 Compliant</h2>
+
+			<p>
+				We have detected that you are using an outdated web browser that may cause you to experience the site differently than we intended.
+				To update your web browser is extremely simple and will help keep your computer up to date and secure.
+			</p>
+		</div>
+		<div class="detect-upgrade">
+			<h3>Upgrade your browser</h3>
+			<a target="_blank" class="link" href="">
+				<div class="browser-icon"></div>
+				<span style="width:60%" class="browser-upgrade"></span>
+			</a><br>
+			<a class="link float-left" target="_blank" href="">Upgrade</a><span class="float-left" style="display:block; margin: 0 4px"> | </span><a class="float-left" target="_blank" href="http://en.wikipedia.org/wiki/Web_browser">Read
+			More</a>
+		</div>
+		<div class="detect-recommended">
+			<h3>Other recommended browsers</h3>
+			<ul>
+				<li id="Explorer">
+					<a target="_blank" href="http://windows.microsoft.com/en-US/internet-explorer/download-ie">
+						<img src="/img/browsers/Explorer.png" alt="IE 9"><br>
+						<span>IE 9</span>
+					</a>
+				</li>
+				<li id="Safari">
+					<a target="_blank" href="http://support.apple.com/downloads/#safari">
+						<img src="/img/browsers/Safari.png" alt="safari"><br>
+						<span>Safari</span>
+					</a>
+				</li>
+				<li id="Chrome">
+					<a target="_blank" href="https://www.google.com/intl/en/chrome/browser/">
+						<img src="/img/browsers/Chrome.png" alt="chrome"><br>
+						<span>Chrome</span>
+					</a>
+				</li>
+				<li id="Firefox">
+					<a target="_blank" href="https://www.mozilla.org/en-US/firefox/new/">
+						<img src="/img/browsers/Firefox.png" alt="firefox"><br>
+						<span>FireFox</span>
+					</a>
+				</li>
+			</ul>
+
+		</div>
+	</div>
+	<a class="detect-close">&nbsp;</a>
+
+	<div class="clear">&nbsp;</div>
+</div>
+
+<div id="footerWrapper">
+	<div id="footer">
+		<div class="float-left">
+			<a class="contact fancybox.ajax" href="/contactus">Contact Us</a> |
+			<a href="/support">Need Help?</a> |
+			<a href="/terms?viewOnly=">Terms &amp; Conditions</a> |
+			<a href="/privacy">Privacy Policy</a> |
+			<a target="_blank" href="http://eepurl.com/AelDv">Newsletter</a>
+			<span class="release">hoopla is a service of hoopla digital. (1.5.13)</span>
+		</div>
+		<div class="float-right">
+			<span>© Copyright 2010-Tue Oct 08 01:36:39 UTC 2013, hoopla digital&nbsp;</span>
+		</div>
+	</div>
+		
+</div>
+	
+
+
+</body></html>
