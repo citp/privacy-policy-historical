@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobseekersadvice.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515053257id_/http%3A//jobseekersadvice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobseekersadvice.com privacy policy that was archived on 2013-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131008014622id_/http%3A//jobseekersadvice.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | JobseekersAdvice.com
 
