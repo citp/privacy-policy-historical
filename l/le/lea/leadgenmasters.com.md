@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leadgenmasters.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501114501id_/http%3A//leadgenmasters.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadgenmasters.com privacy policy that was archived on 2013-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131007102657id_/http%3A//leadgenmasters.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
