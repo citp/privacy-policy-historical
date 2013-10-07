@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the trainerroad.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524145604id_/http%3A//www.trainerroad.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trainerroad.com privacy policy that was archived on 2013-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131007165647id_/http%3A//www.trainerroad.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - TrainerRoad
-
-Privacy Policy
+# Privacy Policy - TrainerRoad.com
 
 ## What information do we collect?
 
@@ -25,15 +23,15 @@ Any of the information we collect from you may be used in one of the following w
 
 ## How do we protect your information?
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order
+We implement a variety of security measures to maintain the safety of your personal information when you place an order.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
 After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
 ## Do we use cookies?
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
 We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
@@ -61,7 +59,7 @@ This online privacy policy applies only to information collected through our web
 
 ## Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at /terms
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [terms and conditions](https://web.archive.org/terms-and-conditions).
 
 ## Your Consent
 
@@ -71,7 +69,7 @@ By using our site, you consent to our web site privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on 3/7/2011
+This policy was last modified on 3/7/2011.
 
 ## Contacting Us
 
@@ -80,5 +78,5 @@ If there are any questions regarding this privacy policy you may contact us usin
 748 south meadows ste a9 #201  
 Reno, NV 89511  
 US  
-support@trainerroad.com  
-[775-525-1251](tel:775-525-1251)
+[support@trainerroad.com](mailto:support@trainerroad.com)  
+775-624-3999 
