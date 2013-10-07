@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the onlinepianist.com privacy policy that was archived on 2013-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130630201210id_/http%3A//www.onlinepianist.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the onlinepianist.com privacy policy that was archived on 2013-10-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131007201559id_/http%3A//www.onlinepianist.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head> 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -51,10 +51,7 @@ $(document).ready(function(){
 		    	<div id="top_leader"><!-- BEGIN STANDARD TAG - 728 x 90 - Onlinepianist.com: Onlinepianist.com_728*90_ATF - DO NOT MODIFY -->
 <iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="NO" width="728" height="90" src="http://adan1.xtendmedia.com/st?ad_type=iframe&amp;ad_size=728x90&amp;section=3277927&amp;pub_url=onlinepianist.com"></iframe>
 <!-- END TAG --></div>
-        <div id="counter">
-		<div>
-847,009		</div>
-		<div style="font-size:12px;">Online Pianists</div></div>		
+        		
    	  	<div id="logo" title="OnlinePianist.com" style="width:388px;"><a href="http://www.onlinepianist.com"><img src="http://www.onlinepianist.com/css/images/logo.png" border="0" alt="OnlinePianist.com" title="OnlinePianist.com"></a></div>
         
 		<div style="float:left;margin-top:34px;">
@@ -109,11 +106,10 @@ $(document).ready(function(){
        <div id="main_menu">
 	           	<div class="main_menu_item"><a href="http://www.onlinepianist.com/" id="home"></a></div>
 		        	<div class="main_menu_item"><a href="http://www.onlinepianist.com/songs/" id="tutorials"></a></div>
-		        	<div class="main_menu_item"><a href="http://www.onlinepianist.com/chords/" id="chords"></a></div>
 		        	<div class="main_menu_item"><a href="http://www.onlinepianist.com/sheets/" id="sheets"></a></div>
+		        	<div class="main_menu_item"><a href="http://www.onlinepianist.com/chords/" id="chords"></a></div>
 		        	<div class="main_menu_item"><a href="http://www.onlinepianist.com/virtual_piano/" id="virtual_piano"></a></div>
-		        	<div class="main_menu_item"><a href="http://www.onlinepianist.com/blog/" id="blog"></a></div>
-		        	<div class="main_menu_item"><a href="https://www.facebook.com/questions/665618333453006" id="requests" target="_blank"></a></div>
+		        	<div class="main_menu_item"><a href="https://www.facebook.com/OnlinePianist/posts/717994994882006" id="requests" target="_blank"></a></div>
 			
 		
 			<div id="menu_premium_item_cont"><a href="http://www.onlinepianist.com/premium/" id="premium"></a></div>
@@ -240,55 +236,22 @@ to time to ensure that you are aware of these changes. Your continued use of thi
 			<li><a href="http://www.onlinepianist.com/songs/">Piano Tutorials</a></li>
 			<li><a href="http://www.onlinepianist.com/chords/">Chords</a></li>
 			<li><a href="http://www.onlinepianist.com/sheets/">Piano Sheets</a></li>
-			<li><a href="http://www.onlinepianist.com/blog/">Blog</a></li>
-			<li><a href="https://www.facebook.com/questions/665618333453006" target="_blank">Requests</a></li>
+			<li><a href="https://www.facebook.com/OnlinePianist/posts/717994994882006" target="_blank">Requests</a></li>
 			<li><a href="http://www.onlinepianist.com/premium/">Premium</a></li>
-			<li><a href="http://www.lyrics.net/" target="_blank">Lyrics</a></li>
-			<li><a href="http://www.songwriting.net" target="_blank" style="font-size:11px;">USA Songwriting Competition</a></li>
 			<li><a href="http://www.onlinepianist.com/faq/">FAQ &amp; Support</a></li>
 			<li><a href="http://www.onlinepianist.com/privacy/">Privacy</a></li>
 			<li><a href="http://www.onlinepianist.com/terms/">Terms</a></li>
 			<li><a href="http://www.onlinepianist.com/advertise/">Advertise</a></li>
-			<li class="last"><a href="http://www.onlinepianist.com/about/">About us</a></li>
+			<li><a href="http://www.onlinepianist.com/about/">About us</a></li>
+			<li class="last"><a href="http://www.onlinepianist.com/mediakit/">Media Kit</a></li>
 			</ul>	
 				</div>
 	<div id="copyrights"><div style="float:left;margin-top:6px;">This site is legally licensed by </div><a href="http://www.acum.org.il/english/activity-scope" target="_blank" style="float:left;padding:0 6px 0 6px;"><img src="http://www.onlinepianist.com/css/images/acum.png" border="0"></a><div style="float:left;margin-top:6px;"> © Copyrights protected.</div>
 </div>
 </div>
 
-<script>
-$(document).ready(function(){
-	$("#ipadSubscribeForm").submit(function(event) {
-			 event.preventDefault();
-			var posting = $.post("http://www.onlinepianist.com/mobile/iPad_Subscribe.php", $("#ipadSubscribeForm").serialize());
-			
-			posting.done(function( data ) {
-				alert(data);
-				if (data=="Thank You!") {
-					$.get('http://www.onlinepianist.com/mobile/HideMessage.php');
-					$("#fixed-div").hide();
-				}
-			});
-	});
-	
-	$("#exit").click(function() {
-		$.get('http://www.onlinepianist.com/mobile/HideMessage.php?session=1');
-		$("#fixed-div").hide();
-		return false;
-	});
-	$('#fixed-div').delay(4000).show(200);
-});
-</script>
-<div id="fixed-div" style="width:260px;height:201px;background-image:url('http://www.onlinepianist.com/css/images/iPadNoteFrame.jpg');position:fixed;bottom:1em;right: 1em;z-index:9999;display:none">
-<a href="#" id="exit" style="width:13px;height:14px;color: white;float:right;padding-top:4px;padding-right:4px;font-size:14px;" title="Dismiss">X</a>
-<div class="clear"></div>
-<div id="form" style="padding-top:72px;padding-left:28px;">
-<form id="ipadSubscribeForm">
-<input type="email" size="20" name="email" style="padding:0;margin:0;">
-<input type="submit" value="Send" style="margin:0;">
-</form>
-</div>
-</div>
+
+
 
 
 </body></html>
