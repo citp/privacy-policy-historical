@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hsn.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620103741id_/http%3A//www.hsn.com/cs/privacy_policy/default.aspx%3Fo%3D%21BNPR0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsn.com privacy policy that was archived on 2013-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131008013432id_/http%3A//www.hsn.com/cs/privacy_policy/default.aspx%3Fo%3D%21BNPR0) for the most accurate reproduction.*
 
 # Privacy Policy at HSN.com
 
