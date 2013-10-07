@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the derrenbrown.co.uk privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519201048id_/http%3A//derrenbrown.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the derrenbrown.co.uk privacy policy that was archived on 2013-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131007150630id_/http%3A//derrenbrown.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Derren Brown
 
