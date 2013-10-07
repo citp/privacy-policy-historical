@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the trails.com privacy policy that was archived on 2013-04-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130430091917id_/http%3A//www.trails.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trails.com privacy policy that was archived on 2013-10-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131007025544id_/http%3A//www.trails.com/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>	
 	<title>Privacy Policy</title>
@@ -19,7 +19,7 @@
     
     <link rel="stylesheet" type="text/css" href="http://cdn-www.trails.com/imagecache/stylesheets/155F72145BE8368DE19BAE1CA11228ED6.css">
     
-    <script type="text/javascript">
+    <script src="//cdn.linksmart.com/linksmart_2.3.0.min.js" async=""></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">
 	//<![CDATA[
 		window.SiteLifeV2Config = {"DaapiProxy":"http:\/\/community2.trails.com\/ver1.0\/Direct\/DirectProxy?sid=trails.com","DaapiServer":"http:\/\/community2.trails.com\/ver1.0\/Direct\/Process","DefaultFriendUserKey":"3b661e4e-0ad7-4648-b606-d9ab0f368ada","LoginUrl":"\/login.aspx","LogoutUrl":"\/logout.aspx","PersonaUrl":"\/mytrails\/","PublicPhotosUrl":"\/trailphotos.aspx","RegisterUrl":"\/subscribe.aspx?ugc=1","ServerUrl":"http:\/\/community2.trails.com","WidgetServer":"http:\/\/cdn-www.trails.com\/sitelife2"};
 		window.Activity = null; // sitelife/IE nastyhack -Brandon Z. 7/27/2010;
@@ -69,7 +69,7 @@
 					isEligibleForTrial: false
 				},
 				server: {
-					name: "08"
+					name: "02"
 				}
 			}
 		};
@@ -89,16 +89,108 @@
 
 
 	<!-- Demdex Tag Insertion Manager -->
-	<script type="text/javascript">
-	var dexBaseURL=(("https:"==document.location.protocol) ? 
-	 "https://a248.e.akamai.net/demdex.download.akamai.com/dm/31/" : 
-	 "http://cdn.demdex.net/dm/31/");
-	document.write(unescape("%3Cscript src='"+ dexBaseURL +
-	 "demdex.js' type='text/javascript' %3E%3C/script%3E"));
-	</script><script src="https://a248.e.akamai.net/demdex.download.akamai.com/dm/31/demdex.js" type="text/javascript"></script>
+	<script type="text/javascript" src="http://cdn-www.trails.com/ui/scripts/dil_trails.js"></script>
 	<!-- End Demdex Tag Insertion Manager -->
 
+    <script type="text/javascript">
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        (function () {
+            var gads = document.createElement('script');
+            gads.async = true;
+            gads.type = 'text/javascript';
+            var useSSL = 'https:' == document.location.protocol;
+            gads.src = (useSSL ? 'https:' : 'http:') +
+    '//www.googletagservices.com/tag/js/gpt.js';
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gads, node);
+        })();
+    </script>
+    
+    <script type="text/javascript">
+        googletag.cmd.push(function () {
+		    function getFormattedValue(value) {
+			    return value === null
+				    ? ''
+				    : value.toString().toLowerCase().replace(/[^\a-z0-9,_]/gi, '');
+		    }
+            var tagParams = {"cat":null,"scat":null,"sscat":null,"zone":"content","ctype":"other","art":0,"kwd":null,"vid":0,"ugc":0,"state":null,"city":null,"zip":null,"sess":"lo","envr":null,"sz":"990x90,728x90","loc":null};
+            
+                googletag.defineSlot('/6117/dmd.trails', [629, 35], '629x35_stripe').addService(googletag.pubads());
+                googletag.defineSlot('/6117/dmd.trails', [[728, 90], [990, 90]], '728x90/990x90').addService(googletag.pubads());
+                googletag.defineSlot('/6117/dmd.trails', [300, 250], '300x250_atf').addService(googletag.pubads()).setTargeting("loc", "atf");
+                googletag.defineSlot('/6117/dmd.trails', [300, 250], '300x250_btf').addService(googletag.pubads()).setTargeting("loc", "btf");
+                googletag.defineOutOfPageSlot('/6117/dmd.trails', 'outofpage').addService(googletag.pubads());
+                if (tagParams["kwd"] != null && tagParams["kwd"].length >= 3) {
+                    googletag.pubads().setTargeting("brand", getFormattedValue(tagParams["kwd"][1]));
+                    googletag.pubads().setTargeting("item", getFormattedValue(tagParams["kwd"][2]));
+                } else {
+                    googletag.pubads().setTargeting("brand", "");
+                    googletag.pubads().setTargeting("item", "");
+                }
+                googletag.pubads().setTargeting("sess", getFormattedValue(tagParams["sess"]));
+                googletag.pubads().setTargeting("envr", getFormattedValue(tagParams["envr"]));
+            
+
+            if(typeof AamGpt.getCookie("gpt_aam") != "undefined" && typeof AamGpt.getCookie("aam_did") != "undefined" ){
+               googletag.pubads().setTargeting(AamGpt.getKey("gpt_aam"), AamGpt.getValues("gpt_aam"));
+               googletag.pubads().setTargeting("uuid", AamGpt.getCookie("aam_did"));
+            };
+            googletag.pubads().enableSingleRequest();
+            googletag.enableServices();
+        });
+    </script>
+
+    <script type="text/javascript">
+        var AamGpt = {
+            strictEncode: function (str) {
+                return encodeURIComponent(str).replace(/[!'()]/g, escape).replace(/\*/g, "%2A");
+            },
+            getCookie: function (c_name) {
+                var i, x, y, c = document.cookie.split(";");
+                for (i = 0; i < c.length; i++) {
+                    x = c[i].substr(0, c[i].indexOf("="));
+                    y = c[i].substr(c[i].indexOf("=") + 1);
+                    x = x.replace(/^\s+|\s+$/g, "");
+                    if (x == c_name) {
+                        return unescape(y);
+                    }
+                }
+            },
+            getKey: function (c_name) {
+                var c = this.getCookie(c_name);
+                c = this.strictEncode(c);
+                if (typeof c != "undefined" && c.match(/\w+%3D/)) {
+                    var cList = c.split("%3D");
+                    if (typeof cList[0] != "undefined" && cList[0].match(/\w+/)) {
+                        return cList[0];
+                    }
+                }
+            },
+            getValues: function (c_name) {
+                var c = this.getCookie(c_name);
+                c = this.strictEncode(c);
+                if (typeof c != "undefined" && c.match(/\w+%3D\w+/)) {
+                    var cList = c.split("%3D");
+                    if (typeof cList[1] != "undefined" && cList[1].match(/\w+/)) {
+                        var vList = cList[1].split("%2C");
+                        if (typeof vList[0] != "undefined") {
+                            return vList;
+                        } else {
+                            return null;
+                        }
+                    } else {
+                        return null;
+                    }
+                } else {
+                    return null;
+                }
+            }
+        };
+    </script>
+
 	<script src="//cdn.optimizely.com/js/171109539.js"></script>
+	<meta name="msvalidate.01" content="129B5DE6FF8DD0ECBDD457C93FF101E3">
 </head>
 
 <body>
@@ -203,12 +295,14 @@
 <div id="ctl00_SubNavigationBannerUserControl" class="EcoProgramPromotion">
 	
 		<div class="redBanner">
-			<script type="text/javascript">
-				if(typeof TRAILS.objects.adUnits !== Array.type)
-					TRAILS.objects.adUnits = new Array();
-										
-				TRAILS.objects.adUnits.push(new dlabs.GoogleDartAd(document.getElementById('ctl00_SubNavigationBannerUserControl'), {"cat":null,"scat":null,"sscat":null,"zone":"content","ctype":"other","art":0,"kwd":null,"vid":0,"ugc":0,"state":null,"city":null,"zip":null,"sess":"lo","sz":"629x35","loc":null}, true));
-			</script>
+        
+            <!-- Trails.com/ 629x35_stripe -->
+            <div id="629x35_stripe">
+                <script type="text/javascript">
+                    googletag.cmd.push(function () { googletag.display('629x35_stripe'); });
+                </script>
+            </div>
+         
 		</div>
 	
 	<p class="message">
@@ -295,17 +389,14 @@
 			
 			<div class="leaderBoard">
 				<div id="ctl00_AdUnit" class="AdUnit990x90">
-					<script type="text/javascript">
-					//<![CDATA[
-						
-						if(typeof TRAILS.objects.adUnits !== Array.type)
-							TRAILS.objects.adUnits = new Array();
-							
-						TRAILS.objects.adUnits.push(new dlabs.GoogleDartAd(document.getElementById('ctl00_AdUnit'), {"cat":null,"scat":null,"sscat":null,"zone":"content","ctype":"other","art":0,"kwd":null,"vid":0,"ugc":0,"state":null,"city":null,"zip":null,"sess":"lo","sz":"990x90,728x90","loc":null}, true));
-						
-					//]]>
-					</script>
-				</div>
+                
+                    <!-- Trails.com/Content 728x90/990x90 -->
+                    <div id="728x90/990x90">
+                        <script type="text/javascript">
+                            googletag.cmd.push(function () { googletag.display('728x90/990x90'); });
+                        </script>
+                    </div>
+                 </div>
 			</div>
 			<div id="ctl00_uxWrapper" class="Wrapper FLC">
 				
@@ -354,6 +445,9 @@
                 <li><span>Pixel Tags</span>.  In our email to you, we use "pixel tags" to determine if your email software or service can display html-formatted email (this helps us optimize the size of our email messages and conserve bandwith).</li>
                 
                 <li><span>Collection of Information by Third Parties</span>.  Our Site may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party.  We do not provide any PII to these advertisers, third-party websites, or other businesses, although on occasion we may mutually share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements.  These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our Site directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Policy but are covered by their respective privacy politices. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology.  For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: http://www.networkadvertising.org/managing/opt_out.asp.</li>
+                
+<div style="margin-left:30px;padding:15px 0 5px 0;"><a id="_bapw-link-private" style="cursor:pointer !important;border:1px solid #ccc;padding:7px;-moz-border-radius:5px;-webkit-border-radius:5px;-o-border-radius:5px;border-radius:5px;">Click here to adjust your advertising preferences</a></div>
+<script>    (function () { var e = document, b, a = (e.location.protocol == "https:" ? "https" : "http"), c = (a == "https" ? "https://info.evidon.com/c/betrad/pub/" : "http://cdn.betrad.com/pub/"); e.getElementById("_bapw-link-private").onclick = function () { var f = this; function d(i, l) { var j = e.getElementsByTagName("head")[0] || e.documentElement, h = false, g = e.createElement("script"); function k() { g.onload = g.onreadystatechange = null; j.removeChild(g); l() } g.src = i; g.onreadystatechange = function () { if (!h && (this.readyState == "loaded" || this.readyState == "complete")) { h = true; k() } }; g.onload = k; j.insertBefore(g, j.firstChild) } this.onclick = "return false"; d(a + "://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js", function () { d(c + "pub1.js", function () { BAPW.i(f, { pid: 46, ocid: 374 }, false) }) }); return false }; b = new Image(); b.src = a + "://l.betrad.com/pub/p.gif?pid=46&ocid=374&ii=1&r=" + Math.random() } ());</script>
                 
                 <li><span>Promotions, Sweepstakes, and Contests</span>.  From time to time, we may host a promotion, sweepstake, or contest on the Service.  You may be asked to provide personal information or permit the transfer to a third party of your personal information in connection with such promotion, sweepstake or contest.  It will be disclosed at the point of collection or transfer who is collecting or transferring the information and whose privacy statement applies, and it will be your choice whether or not you wish to permit such transfer or collection of personal information to a third party.</li>
             </ol>
@@ -473,7 +567,20 @@
 		</script>
 		
 	</div>
+
 	
+
+<div id="ctl00_GoogleDartAdOutOfPage" class="">
+
+    <!-- Trails.com/ outofpage -->
+    <div id="outofpage">
+        <script type="text/javascript">
+            googletag.cmd.push(function () { googletag.display('outofpage'); });
+        </script>
+    </div>
+ 
+</div>
+
 	<div id="reg-dialog-container">
 		<div id="reg-overlay"></div>
 		<div class="floater"></div>
@@ -539,9 +646,19 @@
         var casaleHost = ' type="text/javascript" src="http://as.casalemedia.com/s?s=';
         document.write('<scr' + 'ipt' + casaleHost + '105437&amp;u=');
         document.write(casaleU + '&amp;f=1&amp;id=' + casaleR + '"><\/scr' + 'ipt>');
-    //--></script><script type="text/javascript" src="http://as.casalemedia.com/s?s=105437&amp;u=https%3A//web.archive.org/web/20130430091917id_/http%253A//www.trails.com/privacy.aspx&amp;f=1&amp;id=1728697056.3200834"></script>
+    //--></script><script type="text/javascript" src="http://as.casalemedia.com/s?s=105437&amp;u=https%3A//web.archive.org/web/20131007025544id_/http%253A//www.trails.com/privacy.aspx&amp;f=1&amp;id=1728697339.3228652"></script>
     <!-- DO NOT MODIFY -->
 
+<script type="text/javascript">
+// <![CDATA[
+    var _ls_pub_id = "215";
+    (function (d, t) {
+        var mb = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        mb.async = mb.src = '//cdn.linksmart.com/linksmart_2.3.0.min.js';
+        s.parentNode.insertBefore(mb, s);
+    } (document, 'script'));
+// ]]>
+</script>
 <!-- Google Code for Remarketing tag -->
 <!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
 <script type="text/javascript">
