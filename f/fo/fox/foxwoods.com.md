@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the foxwoods.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101162354id_/http%3A//www.foxwoods.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxwoods.com privacy policy that was archived on 2013-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131007143425id_/http%3A//www.foxwoods.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Foxwoods Resort Casino
 
-Privacy Policy
-
-**General**  
-Foxwoods Resort Casino ("Foxwoods", "us" or "we") respects the privacy of all visitors to our Web site. We maintain this site to market and promote the many services and amenities offered by Foxwoods. In order to assist us in better serving our customers, we may collect certain anonymous information automatically, and may require certain personal information, including financial information, if you are making reservations or purchases or requesting information from us through this Web site. This Privacy Statement outlines the type of information that Foxwoods may collect and the manner in which such information will be used. All efforts have been made to ensure the accuracy of the information provided herein, however Foxwoods makes no warranties or representations as to the accuracy of the information supplied herein.
+Foxwoods Resort Casino ("Foxwoods", "us" or "we") respects the privacy of all visitors to our Web site. We maintain this site to market and promote the many services and amenities offered by Foxwoods. In order to assist us in better serving our customers, we may collect certain anonymous information automatically, and may require certain personal information, including financial information, if you are making reservations or purchases or requesting information from us through this Web site. This Privacy Statement outlines the type of information that Foxwoods may collect and the manner in which such information will be used. All efforts have been made to ensure the accuracy of the information provided herein, however Foxwoods makes no warranties or representations as to the accuracy of the information supplied herein. 
 
 Foxwoods is a wholly-owned instrumentality of the Mashantucket Pequot Tribal Nation.
 
@@ -31,4 +28,4 @@ This Web site contains links to other Web sites. We are not responsible for the 
 ** We reserve the right, at any time and without notice, to add to, change, update or modify this Privacy Statement simply by posting such change, update or modification on the Web site. Any such change, update or modification will be effective immediately upon posting on the Web site.
 
  **Copyright**  
-All contents of this Web site are: Copyright © 2001-2011 Foxwoods Resort Casino, Route 2, Mashantucket, Connecticut, 06338. All rights not expressly granted herein are reserved.
+All contents of this Web site are: Copyright © 2001-2012 Foxwoods Resort Casino, Route 2, Mashantucket, Connecticut, 06338. All rights not expressly granted herein are reserved.
