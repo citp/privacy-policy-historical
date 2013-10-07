@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the somethingturquoise.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627040632id_/http%3A//somethingturquoise.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the somethingturquoise.com privacy policy that was archived on 2013-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131007100917id_/http%3A//somethingturquoise.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » Something Turquoise {daily bridal inspiration}
+# Privacy Policy » Something Turquoise {ideas for the DIY bride}
 
 Your privacy is very important to us here at SomethingTurquoise.com. In order to protect that privacy you should know that everything that can be done is being done to make your visit as safe and enjoyable as possible. Something Turquoise provides this notice to inform you of how information is collected and or used when you visit this website.
 
