@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the logicalexpressions.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606113245id_/http%3A//logicalexpressions.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logicalexpressions.com privacy policy that was archived on 2013-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131007072725id_/http%3A//www.logicalexpressions.com/Privacy.htm) for the most accurate reproduction.*
 
 # Logical Expressions Privacy Policy
 
 **Check out what readers  
 say about our writing...**
 
-#23"Wow this was really helpful, thanks for spending the time to do this. Without this I would be going insane trying to format it all by my self."\- E.C.
+#348"Hi Susan and James, I love your site look forward to the newsletter every week."\- T.M.
 
 | 
 
@@ -77,29 +77,28 @@ Logical Expressions, Inc.
 Sandpoint, Idaho 83864  
 
 
-[Click to contact us by email](https://web.archive.org/web/20130606113245id_/http%3A//logicalexpressions.com/contact.asp)
+[Click to contact us by email](https://web.archive.org/web/20131007072725id_/http%3A//www.logicalexpressions.com/contact.asp)
 
 | 
 
+#### Want to know when our next book comes out?
+
+Sign up for book release notices and be the first to know!
+
+**Your email address is secure with us and won't be shared**.   
+See our [Privacy Policy](http://www.logicalexpressions.com/privacy.htm) for more information.
+
+* * *
+
 #### Read Our Articles
 
-[Check out our latest articles](https://web.archive.org/web/20130606113245id_/http%3A//logicalexpressions.com/articles.htm).
+[Check out our latest articles](https://web.archive.org/web/20131007072725id_/http%3A//www.logicalexpressions.com/articles.htm).
 
 * * *
 
 **Check Us Out in REDBOOK!**  
 [Read the article about us ](http://www.redbookmag.com/your/letting-intuition-guide-you) in _Redbook Magazine_ (photos too!) 
 
-* * *
-
-[](http://www.bbbonline.org/cks.asp?id=10204251673723180)  
-Logical Expressions is a proud member of the BBB Online Reliability Program
-
-* * *
-
-[](http://www.selfpublishersonlineconference.com/)
-
-[Visit SPOC  
-Live Long & Publish!](http://www.selfpublishersonlineconference.com/)  
+* * *  
   
 ---|---|---
