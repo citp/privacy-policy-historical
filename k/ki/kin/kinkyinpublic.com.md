@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kinkyinpublic.com privacy policy that was archived on 2011-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110904000407id_/http%3A//www.kinkyinpublic.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kinkyinpublic.com privacy policy that was archived on 2013-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131007101838id_/http%3A//www.kinkyinpublic.com/static/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Kinkyinpublic
+# Privacy Policy
 
 ## Applicable to Kinkyinpublic Services
 
