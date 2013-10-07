@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astrocamp.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529230457id_/http%3A//astrocamp.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrocamp.com privacy policy that was archived on 2013-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131007122616id_/http%3A//astrocamp.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Horoscope - Astrology, Daily Horoscope, 2010 Horoscope
 
