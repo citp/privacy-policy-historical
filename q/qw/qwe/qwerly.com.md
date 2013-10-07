@@ -1,85 +1,117 @@
-> *The following text is extracted and transformed from the qwerly.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210062658id_/http%3A//qwerly.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qwerly.com privacy policy that was archived on 2013-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131007225503id_/http%3A//www.fliptop.com/privacy_policy) for the most accurate reproduction.*
 
-# Qwerly - Privacy
+# Privacy | Sales Lead Qualifier | Increase Conversions | Full API | Fliptop
 
-Niederhofer Limited ("We, Us, Qwerly") are committed to protecting and respecting your privacy.
+## Your Trust Means Everything To Us
 
-This policy (together with our terms of use <http://qwerly.com/company/terms> and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+Fliptop is committed to good privacy practices. We are transparent in our practices about how we gather data and what we do, and do not do, with it. 
 
-For the purpose of the Data Protection Act 1998, the data controller is Niederhofer Limited of Second Floor, Cardiff House, Tilling Road, London NW2 1LJ. 
+Our Privacy Policy explains:
 
-1.              **GENERAL INFORMATION AND INFORMATION WE MAY COLLECT FROM YOU**
+* What information we collect and why we collect it
+* How we use this information
+* The choices we offer, including how to access, update and remove information
 
-1.1           Qwerly is committed to only aggregating information that is publically available on the Internet.  We do not have user accounts and do not use cookies.  However, during the course of our operations, we may collect and process the following data about you:
+We have kept this simple for your understanding, but if you're not familiar with terms like cookies, IP addresses, SFTP and API, then please feel free to [contact us](https://web.archive.org/contact_us). Your privacy matters to Fliptop so whether you are new to Fliptop or a long-time user, please take the time to get to know our practices. 
 
-(a)            Information that you provide by filling in forms on our site Qwerly.com (the Site). This includes information provided at the time of registering to use our Site, subscribing to our service, posting material or requesting further services. We may also ask you for information when you report a problem with our Site.
+##### Effective as of May 31, 2013
 
-(b)            If you contact us, we may keep a record of that correspondence.
+Fliptop is a web application that uses public information found on the Internet. Fliptop, Inc. ("Fliptop") provides this Privacy Policy to inform our users of our policies and procedures regarding the collection, use and disclosure of personal information we receive when they visit and use the [www.fliptop.com](https://web.archive.org/web/20131007225503id_/http%3A//www.fliptop.com/home-page.html) site and any websites owned or operated by Fliptop (collectively, the "Sites"), and when they use any of Fliptop's data append services (collectively, the "Services"). This Privacy Policy applies only to information that you provide to us when you access, download, purchase or use any information, services, products or content appearing on the Sites or offered by Fliptop through the Services. The use of information provided by commercial users of our Service ("Clients") in connection with our Services shall be limited to the purpose of providing the service for which the Client has engaged Fliptop, subject to this Privacy Policy and the written Service agreement between Fliptop and Client. 
 
-(c)            We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
+Fliptop, Inc. ("Fliptop") provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personally identifiable information we receive when you visit and use the [www.fliptop.com](https://web.archive.org/) site and any websites owned or operated by Fliptop (collectively, the "Sites"), and when you use any of Fliptop's data append services (collectively, the "Services"). This Privacy Policy applies only to information that you provide to us when you access, download, purchase or use any information, services, products or content appearing on the Sites or offered by Fliptop through the Services. The use of information provided by commercial users of our Service ("Clients") in connection with our Services shall be limited to the purpose of providing the service for which the Client has engaged Fliptop, subject to this Privacy Policy and the written Service agreement between Fliptop and Client. 
 
-(d)            Details of your visits to our Site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access. 
+Fliptop has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) and the [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/TRUSTed-cloud/) including transparency, accountability and choice regarding the collection and use of your personally identifiable information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. The TRUSTe program covers only information that is collected through www.fliptop.com and its Services platform. The TRUSTe program does not cover information that may be collected through downloadable software or mobile applications. 
 
-1.2           Please note that Qwerly does not crawl pages that have been made private or are otherwise unavailable to search engines.  Qwerly does not use any publically available data for our own purposes.  We merely collate it as requested by our clients.  Our clients have confirmed to us that they have a legitimate interest in searching your publically available data.
+TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy [at] fliptop [dot] com. If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint). 
 
-1.3           If you are a customer, we may collect personal data from you (or your employees) and we store this data in accordance with this policy. 
+This Privacy Policy may be updated from time to time to reflect changes to our information practices. If we make any material changes we will notify you or our Client by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
 
-1.4           Qwerly is committed to respecting your rights.If you do not want information that is publically available about you to be available through the Qwerly service, please email [opt-out@qwerly.com](mailto:opt-out@qwerly.com).  We may retain your details (e.g. name, email) but this is purely to ensure that you are not included in the search results that we give our clients. 
+#### Information Collection: Personally & Publicly Identifiable Information
 
-2.              **IP ADDRESSES**
+In the course of using the Services, we ask you to provide us with certain personally identifiable information that can be used to contact or identify you and administer your account ("Personally Identifiable Information"). Personally Identifiable Information may include, but is not limited to, your name, phone number, credit card or other billing information, email address and postal addresses. 
 
-2.1           We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
+Fliptop collects contact information that is publically accessible (e.g. information that is available to search engines)("Publicly Identifiable Information"). Publicly Identifiable Information (e.g. a social network profile that is not set to 'private' or information on a social network page that can be seen to users who are not logged in), is searched and sometimes indexed by Fliptop, just like major Internet search engines. Fliptop recommends that if you do not want to be searched or indexed by search engines or services like Fliptop, that you set the appropriate privacy controls within social networks and 3rd party applications like Facebook, Twitter and LinkedIn. You can learn how to do this by visiting these sites directly.
 
-3.              **WHERE WE STORE YOUR PERSONAL DATA**
+#### Fliptop Social Contacts Application
 
-3.1           The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+The Fliptop Social Contacts Application allows Clients to dynamically populate their contacts with social media ids. To enable this application, we will download the contact information for each user's contacts and leads, and use this information to determine social id matches for each contact. We will give users the ability to review these matches and choose the most likely correct match. Fliptop will then store match information for use within the Service. 
 
-3.2           Where we have given you (or where you have chosen) a password or API key which enables you to access certain parts of our Site, you are responsible for keeping this password or API key confidential. We ask you not to share a password or API key with anyone.
+Clients access the Fliptop Service via API or SFTP. More information is available at [developer.fliptop.com](https://developer.fliptop.com/). As you use the Services, our servers automatically record information that the browser sends whenever it points to a website or online service ("Log Data"). Log Data may include, but is not limited to, your computer's Internet Protocol address, browser type, the web page you were visiting before you came to one of the Sites and information you search for on Sites. 
 
-3.3           Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data and use [Insert technical data security measures here], we cannot guarantee the security of your data transmitted to our Site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+Fliptop collects information under the direction of its Clients when providing our Services, and has no direct relationship with the individuals whose personal data it processes. 
 
-4.              **USES MADE OF THE INFORMATION**
+Like many websites, we use "cookies" to collect information. A cookie is a small data file that we transfer to your computer's hard disk for record-keeping purposes. We use "persistent cookies" to save your username and login password for future logins to the Sites. We use "session ID cookies" to enable certain features of the Services, to better understand how you interact with the Services and to monitor web traffic routing on the Sites and aggregate usage of the Services. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Sites or all functionality of the Services. Our cookies are tied to personally identifiable information.
 
-4.1           We use information held about you in the following ways:
+#### Our Policy Toward Children
 
-(a)            To ensure that content from our Site is presented in the most effective manner for you and for your computer. 
+Fliptop does not knowingly collect Personally Identifiable Information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personally Identifiable Information without their consent, he or she should contact us at privacy [at] fliptop [dot] com. If we become aware that a child under 13 has provided us with Personally Identifiable Information, we will delete such information from our files.
 
-(b)            To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes. 
+#### How We Use Personally Identifiable Information
 
-(c)            To carry out our obligations arising from any contracts entered into between you and us.
+Personally Identifiable and Publicly Identifiable Information is used for the following purposes: (i) to provide and improve the Services, features and content, (ii) to administer your use of the Services and Fliptop account, (iii) to enable users to enjoy and easily navigate the Sites, (iv) to better understand your needs and interests, (v) to fulfill requests you may make, (vi) to personalize your experience, (vii) to provide service announcements, and (viii) to provide you with further information and offers from us or third parties. If you decide at any time that you no longer wish to receive such communications, please follow the unsubscribe instructions provided in any of the communications, or contact us at privacy [at] fliptop [dot] com to remove your information from our database. We may combine Personally Identifiable Information with data that we obtain from other sources, and perform analysis on such combined data in order to provide and improve the Services and to establish the accuracy and completeness of our data. 
 
-(d)            To allow you to participate in interactive features of our service, when you choose to do so.
+We may create anonymous data records from Personally Identifiable Information by excluding information (such as your name) that make the data personally identifiable to you. We use this anonymous data to analyze request and usage patterns so that we may enhance our Services. We reserve the right to use anonymous data for any purpose and disclose anonymous data to third parties in our sole discretion. 
 
-(e)            To notify you about changes to our service.
+We use information we obtain by technical means (such as the automatic recording performed by our servers or through the use of cookies) for the above purposes and in order to monitor and analyze use of the Services and for the technical administration of the Sites, to increase the functionality and user-friendliness of the Services, to better tailor both to your needs, to generate and derive useful data and information concerning the interests, characteristics and website use behavior of our users, and to verify that visitors and users to and of the Services meet the criteria required to process their requests. 
 
-4.2           We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by electronic means, but only if you have consented to this.
+We employ and/or our third party tracking utility company employs software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We tie the information gathered by clear gifs to our customers' personally identifiable information 
 
-4.3           Please email us at [privacy@qwerly.com](mailto:privacy@qwerly.com) if you require any help relating to privacy matters on the Site.
+3rd Party Tracking 
 
-5.              **DISCLOSURE OF YOUR INFORMATION**
+The use of cookies by our partners, affiliates, tracking utility company, service providers is not covered by our privacy policy. We do not have access or control over these cookies. Our partners, affiliates, tracking utility company, service providers use session ID cookies to make it easier for you to navigate our site, in order for you to use the shopping cart, etc. 
 
-5.1           We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
+Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We tie the information gathered to our Customers' or Users' personally identifiable information. We have no access or control of these third-party tracking technologies. 
 
-5.2           We may disclose your personal information to third parties:
+Behavioral Targeting / Re-Targeting 
 
-(a)            In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads. 
 
-(b)            If Niederhofer Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+Email 
 
-(c)            If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use <http://qwerly.com/company/terms> and other agreements; or to protect the rights, property, or safety of Niederhofer Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+By registering with Fliptop, you consent to receiving periodic notifications including, but not limited to: Fliptop updates and newsletters, relevant account notifications and order/signup confirmations. We will provide means to opt-out of any email notifications in every email. 
 
-6.              **YOUR RIGHTS**
+Testimonials 
 
-6.1           You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [privacy@qwerly.com](mailto:privacy@qwerly.com).
+We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at privacy [at] Fliptop [dot] com. If you provide us with comments or feedback we may collect your name and e-mail address, as well as any other content included in the e-mail to send you a reply and improve our Service. 
 
-6.2           Our Site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.  Please check these policies before you submit any personal data to these websites.
+Social Media Widgets 
 
-7.              **CHANGES TO OUR PRIVACY POLICY**
+Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
-7.1           Any changes we may make to our Privacy Policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
+#### Information Sharing and Disclosure
 
-8.              **CONTACT**
+Third Parties. We will never share or sell the Personal Identifiable Information you provide us with other organizations for their marketing or promotional uses without your express consent. 
 
-8.1           Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [privacy@qwerly.com](mailto:privacy@qwerly.com).
+Fliptop Members. In addition to your username, any comments or submissions that you post to publicly viewable areas of the Sites, such as feedback forums or blog comments will be publicly available. Any information you choose to provide in a comment or a submission should reflect how much you want other users to know about you. We recommend that you guard your anonymity and sensitive information and we encourage Fliptop members to think carefully about what information about themselves they disclose in their comments or submissions. If you use a bulletin board, chat room, blog or forum on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. 
 
-...
+Aggregate Information and Non-Identifying Information. We may share aggregated information that includes non-identifying information, Publicly Identifiable Information and Log Data with third parties for analysis and profiling. Any aggregated information shared in these contexts will not contain your Personally Identifiable Information. 
+
+Service Providers. We may employ third party companies and individuals to facilitate the Services, to provide the Services on our behalf, to perform services related to administration of the Services (including, without limitation, bill and credit card payment processing, chat support, maintenance, hosting and database management services, Site and Services support, web analytics and administration). These third parties may have access to your Personally Identifiable Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose. Transfers to subsequent third parties are covered by the provisions in this Policy regarding notice and choice and the service agreements with our Clients. 
+
+Compliance with Laws and Law Enforcement. Fliptop cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of Fliptop or a third party, to protect the safety of the public or any person, or to prevent or stop any activity we may consider to be, or to pose a risk of being, illegal, unethical, inappropriate or legally actionable. 
+
+Business Transfers. Fliptop may sell, transfer or otherwise share some or all of its assets, including your Personally Identifiable Information and Publicly Identifiable Information in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.
+
+#### Changing or Deleting Your Information
+
+All Fliptop members may review, update, correct or delete the Personally Identifiable Information in their registration profile by logging into their account and changing the "user preferences" associated with their account. You may also contact us at privacy [at] fliptop [dot] com. If you completely delete all such information, your account may be deactivated. All access requests will be responded to within 30 days. 
+
+Access to Data Controlled by our Clients: 
+
+Fliptop has no direct relationship with the individuals whose personal data it processes within our Services. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to the Fliptop's Client (the data controller). If the Client requests Fliptop to remove the data, we will respond to their request within 30 days.
+
+#### Data Retention
+
+We may retain an archived copy of your records as required by law or for legitimate business purposes. Fliptop will retain personal data we process on behalf of our Clients for as long as needed to provide services to our Client, subject to this Privacy Policy and the written Service agreement between Fliptop and Client. Fliptop will retain and use this personally identifiable information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+#### Security
+
+We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personally identifiable information, we cannot guarantee its absolute security. When you enter sensitive information (such as login credentials or credit card information) we encrypt the transmission of that information using secure socket layer technology (SSL).
+
+#### International Transfer
+
+Your information may be transferred to - and maintained on - computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to Fliptop, please be advised that we transfer Personally Identifiable Information to the United States and process it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+#### Links to Other Sites
+
+The Services contain links to other websites. If you choose to click on another third party link, you will be directed to that third party's website. The fact that we link to a website is not an endorsement, authorization or representation that we are affiliated with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personally identifiable information from you. Other websites and services follow different rules regarding the use or disclosure of the personally identifiable information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.
