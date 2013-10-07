@@ -1,75 +1,78 @@
-> *The following text is extracted and transformed from the hawesandcurtis.co.uk privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623215949id_/http%3A//www.hawesandcurtis.com/shirts_and_site_privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hawesandcurtis.co.uk privacy policy that was archived on 2013-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131007104416id_/http%3A//www.hawesandcurtis.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Hawes & Curtis
+# Hawes and Curtis. Men's and Ladies Shirts, Ties, Cufflinks. Jermyn Street. Established 1913
 
-### Privacy Policy
+We at Hawes & Curtis are committed to protecting and respecting your privacy and fully complying with the Data Protection Act 1998 (“the Act”). We are publishing this guide (which may be amended from time to time to as circumstances require) to help our customers understand why and in what manner we collect information from you and about you, to whom this information may be disclosed and what your rights as our customer are.
 
-  
-Hawes and Curtis are committed to complying with the Data Protection Act 1998 and have published this guide to help our customers understand how and why we collect information from you, to whom this information is disclosed and what your rights as a customer are. 
+## THE TYPE OF INFORMATION WE MAY COLLECT FROM YOU
 
-**What kind of information do we collect and how do we obtain it?**
+We receive information about you in a variety of ways:
 
-We receive information in one of three ways, either directly from you online when you register with us, when you register your corporate card offline or from third parties such as credit reference agencies (i.e. to access your credit rating). When you register with us you will be asked to disclose information such as your name, email address, details of your credit card (only if you are paying by credit), telephone number and email address so that we can process and fulfil your order, notify you of your order status and inform you of special offers and promotions if you are a corporate card holder.
+Information that is provided by you when you register and/or log on to our website.
 
-**How do we use your information?**
+Information that is provided when you register your credit card and/or your corporate card including , but not limited to, your email address, personal address, telephone number(s) and any other personal information you may give us.
 
-We use the information that we collect about you to: 
+Information that is provided to us by third parties such as credit reference agencies when we may check your credit rating.
 
-  1. Process your order 
-  2. Manage your account – see also “Use of credit reference agency information” 
-  3. Monitor customer traffic patterns and site usage to help us develop and improve the design and layout of the site 
-  4. Notify you about enhancements to our services, such as changes to the website, new services and special corporate offers that may be of interest. 
+Information that we obtain from your visits to our website, transactions you carry out and fulfilling any order that you may place.
 
+## IP ADDRESSES AND COOKIES
 
+It is usual for us to collect information about and from your computer. What information we collect will of course depend on what is available but may include your IP address, operating system and browser type. This information is purely statistical and does not identify you or any other user on an individual basis. We use the information gathered to learn about our customers browsing habits and it enables us to report generic information to advertisers and other interested parties.
 
-If you have given us permission to send you information about our products and services by telephone, email or in writing, you agree that by doing so Hawes and Curtis are not in breach of the Telecommunications Regulations 1999 or the Direct Marketing Association (DMA) code of practice. 
+Our online ordering system uses a cookie to record a unique reference on your computer so that we can keep track of your order as you use the system. This cookie that is saved to your system is only valid for a single visit and each new visit to our website will result in a new cookie overwriting the previous one that was generated on your previous visit. If your internet browser is set to reject cookies or if your network firewall won’t allow them then, unfortunately, you will not be able to access our online store. If this occurs you should refer to your internet browser help file to enable the cookies on your PC. Cookies help us to improve our service to you and our other customers by helping us to improve our website. They allow us:
 
-**Use of Credit Reference Agency Information and sharing of credit information**
-
-In the interests of responsible lending and for security purposes we carry out searches with credit reference agencies when you register with Hawes and Curtis and further searches may be carried out before deciding whether to accept orders and/or grant further credit. The agencies record these searches.  
-
-
-We also share information about you and the conduct of your account with credit reference agencies, other lenders and relevant third parties. Information about you and other members of your household and those with whom you are financially linked will be used to verify your identity and for the credit assessment of you and them. We may also use your information for payment recovery or fraud and debt tracing. We will pass on details of defaulting accounts to debt collection agencies.  
-
-
-For details of the Credit Reference Agencies that we receive information from and share information with, write to **[info@hawesandcurtis.com](mailto:info@hawesandcurtis.com)** , quoting Security and Privacy Enquiry. 
-
-**Who Hawes and Curtis disclose the information it collects to?**
-
-We use information about you for purposes other than the provision of a website shopping facility.  
-As a result we may disclose your information to:
-
-  1. Credit Reference Agencies - for more information see above. 
-  2. Legal and debt recovery representatives for debt collection and debtor tracing purposes. 
-  3. Reputable companies to fulfil your order or process your data on our behalf. 
+  * To estimate our customer base numbers and the way they use our website.
+  * To store information about your personal preferences and so to customise the website according to your individual interests.
+  * To minimise your search time.
+  * So we can identify you speedily each time you log on to the website.
 
 
 
-Hawes and Curtis will not share your information with companies outside Hawes and Curtis for marketing purposes.   
-Please be aware that if we are requested, by the police or any other regulatory or Government authority investigating suspected illegal activities, to provide your information and/or use your information, we are entitled to do so. 
+## WHERE DO WE STORE THE PERSONAL DATA WE RECEIVE?
 
-**Keeping in touch with you**
+Mainly we will retain this information securely within our own systems or within the systems of our suppliers. Sometimes it may be necessary to transfer this information outside the European Economic Area (“the EEA”) and for it to be processed by staff that operates outside the EEA who may be working for one or more of our suppliers. These staff may be engaged in completing some or all of the stages of your online purchase and/or after sales service. We will of course strive to ensure that all data received is treated in a secure manner. By supplying your personal data you are agreeing to the transfer of your data if we deem it necessary.Passwords where given, or chosen, to allow you to access part or the entire website must be kept confidential by you and not shared with anyone else.As the internet may not be completely secure we, like any other online sales company, cannot guarantee the security of your data. However we will use our best efforts to maintain its security and have strict procedures and security settings to endeavour to prevent unauthorised access.
 
-We want to keep you up to date with information about new ranges, special offers and improvements to this site.   
-If you decide you do not want us to contact you, you can request that we stop using your information and that we stop mailing information to you by writing to the Group Data Protection Manager: **[info@hawesandcurtis.com](mailto:info@hawesandcurtis.com)** , Quoting Security and Privacy Enquiry. You may continue to receive mailings which are already on route to you for a short period of time while your request is being dealt with. 
+## WHAT USE WE MAKE OF THE INFORMATION?
 
-**What about cookies?**
+We may use information which we hold about you in a variety of ways:
 
-Our online ordering system uses a cookie to record a unique reference on your computer so that we can keep track of your order as you use the system. This cookie that is saved to your system is only valid for a single visit and each new visit will result in a new cookie overwriting any previous that were generated on previous visits to our site.  
+To optimise the use of the Website by you and your PC.
 
+To give you information that you may have requested or which we feel would interest you about our products and services and any changes we may make to those products and services.
 
-If your internet browser is set to reject cookies or if your network firewall won't allow them then unfortunately you will not be able to use our online store. Please refer to your internet browser help file to see how to enable cookies on your p.c.
+To fulfil our contractual obligations to you.
 
-In order that we can monitor and improve the site we may gather certain information about you when you use it, including details of your domain name and IP address, operating system, browser, version and the website that you visited prior to this site. This may involve the use of a cookie that will not expire at the end of your browsing session.
+To allow you to take part in interactive features on our website.
 
-**Your rights under the Data Protection Act 1998**
+We may share your data with selected third parties so that they and we can provide you with information about products and/or services which we feel may be of interest to you. If you have agreed they may contact you electronically otherwise they will communicate with you by post. We will continue to contact you electronically (whether by email or text). Should you not wish us to use your data in this manner you should tick the appropriate box on the registration form that we ask you to complete.
 
-You have a right to access the personal data that we hold on you. If you would like to see a copy please send a £10 fee and a written request to the Group Data Protection Manager at [**Head Office**](mailto:info@hawesandcurtis.com), quoting Security and Privacy Enquiry.   
+## DISCLOSING YOUR INFORMATION
 
+We use information about you for purposes other than the provision of a website shopping facility. As a result we may disclose your information to: Credit Reference Agencies.
 
-If you think the information we hold on you is incorrect please contact the Group Data Protection Manager at [**Head Office**](mailto:info@hawesandcurtis.com), quoting Security and Privacy Enquiry. 
+Legal and debt recovery representatives for debt collection and debtor tracing purposes.
 
-**Monitoring Communications**
+Other companies that we trust if required to fulfil part or all of your order or process data on our behalf.
 
-As part of our efforts to make further improvements to the service we provide to our customers, telephone calls to and from Hawes and Curtis may be recorded or monitored and used for training purposes.  
-To protect the operation of our computer systems we monitor incoming and out going email. 
+Keeping in touch with you to let you know about new products and services, special offers and changes to the website that we feel will be of interest to you. You can of course opt out of these communications by writing to the Group Data Protection Manager at [info@hawesandcurtis.com](mailto:info@hawesandcurtis.com), quoting Security and Privacy Enquiry.
+
+If we are requested to do so by the Police or other regulatory body or Government body or pursuant to a Court Order.
+
+## YOUR RIGHTS
+
+You may at any time ask us not to process your personal data for marketing purposes. We will usually inform you beforehand if we intend to use your data in this way or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting our customer service team.
+
+Our website may contain links to and from the websites of partner networks, advertisers and affiliates. If you follow a link to any of these websites, you should be aware that these websites have their own privacy policies and that we cannot accept any responsibility or liability for these policies. You should carefully check these policies before you submit any personal data to these websites.
+
+## ACCESS TO INFORMATION
+
+You have the right to access the personal data we hold on you. If you would like to see a copy please send a £10 fee with your written request to the e-commerce security manager at our Head Office quoting Security and Privacy Enquiry. If you think the information we hold on you is incorrect please contact the e-commerce security manager at our Head Office quoting Security and Privacy Enquiry.
+
+## CHANGES TO OUR PRIVACY POLICY
+
+Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
+
+## CONTACT
+
+We welcome questions, comments and requests regarding this privacy policy and should be addressed to our customer service team at our Head Office.
