@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sareesbazaar.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610034102id_/http%3A//www.sareesbazaar.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sareesbazaar.com privacy policy that was archived on 2013-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131007231358id_/http%3A//www.sareesbazaar.com/privacy.aspx) for the most accurate reproduction.*
 
-# Wedding bridal sarees, Salwar kameez, Embroidered sarees salwar kameez, Bridal wedding lehengas, Designer lehengas sarees, Traditional sarees lehngas from India, Indian Sarees, Fancy Sarees
+# Privacy
 
 We respect your privacy and are committed to maintaining it. When you shop on our shopping store, we will ask you to input your information and will collect Personal Information from you such as your name, e-mail address, billing address, shipping address, telephone/ mobile number, product selections, credit card or other payment information and password.
 
