@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qnet.net privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602054943id_/http%3A//www.qnet.net/en/footer/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qnet.net privacy policy that was archived on 2013-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131007065634id_/http%3A//www.qnet.net/en/footer/privacy_policy) for the most accurate reproduction.*
 
 # QNet.net – Privacy Policy
 
