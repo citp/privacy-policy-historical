@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theclymb.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621035939id_/https%3A//www.theclymb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theclymb.com privacy policy that was archived on 2013-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131007213149id_/https%3A//www.theclymb.com/privacy) for the most accurate reproduction.*
 
 # The Clymb | The Gear You Need. Up to 70% Below Retail.™
 
