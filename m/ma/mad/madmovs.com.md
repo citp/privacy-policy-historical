@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the madmovs.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518151410id_/http%3A//www.madmovs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madmovs.com privacy policy that was archived on 2013-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131007110953id_/http%3A//www.madmovs.com/privacy.html) for the most accurate reproduction.*
 
 # HD Porno Movies, Free Sex Tube, Online XXX Vids, Streaming Porn Clips and Free XXX Videos
 
