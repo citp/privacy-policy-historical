@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imgtec.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531153227id_/http%3A//imgtec.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgtec.com privacy policy that was archived on 2013-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131007082526id_/http%3A//www.imgtec.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,7 +11,7 @@ Imagination and Pure are Divisions of Imagination Technologies Limited, a wholly
 
 This Privacy Policy describes the data collected by us whether: 
 
-  1. on or through the websites at www.imgtec.com (the “Imagination Website”), www.caustic.com (the “Caustic Professional Website”), developer.caustic.com and splutterfish.caustic.com, www.pure.com (the "Pure Website") or www.thelounge.com ("The Lounge Website") (together, those websites and any that resolve to those websites shall be known as the "Websites"); or
+  1. on or through the websites at www.imgtec.com (the “Imagination Website”), www.caustic.com (the “Caustic Professional Website”), support.caustic.com, developer.caustic.com and splutterfish.caustic.com, www.pure.com (the "Pure Website") or www.thelounge.com ("The Lounge Website") (together, those websites and any that resolve to those websites shall be known as the "Websites"); or
   2. in relation to our collection of any warranty registration information from a purchaser, licensee or other user of a product originally supplied by us (whether or not through the Websites) ("Product"); or
   3. in relation to the registration of details concerning retailers and staff of retailers who have sold Products.
 
@@ -105,7 +105,7 @@ You are responsible for protecting against unauthorised access to your password 
 The Websites use cookies to collect information. Cookies are small data files which are placed on your computer or other mobile or handheld device (such as smart ‘phones or ‘tablets’) as you browse the Websites. They are used to ‘remember’ when your computer or device accesses the Website. The cookies are essential to the effective operation of our Websites and to enable to you navigate and use the Websites and shop with us online. Cookies are also used to tailor the Products and services offered and advertised to our customers, both on the Websites and elsewhere. 
 
 If you want to find out more information about cookies and how to change settings,  
-please go to [change cookie settings.](https://web.archive.org/web/20130531153227id_/http%3A//imgtec.com/cookies/change_settings.asp)
+please go to [change cookie settings.](https://web.archive.org/web/20131007082526id_/http%3A//www.imgtec.com/cookies/change_settings.asp)
 
 ## Changes
 
