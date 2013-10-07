@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the socialsign.in privacy policy that was archived on 2013-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130422011714id_/http%3A//socialsign.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialsign.in privacy policy that was archived on 2013-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131007115124id_/http%3A//socialsign.in/privacy) for the most accurate reproduction.*
 
 # SocialSign.in
 
-[](https://web.archive.org/)
-    
-    
+
         
+    
+    
     
     
     **PRIVACY POLICY**
@@ -328,6 +328,7 @@
     
     
     If you have questions about this Privacy Policy, please e-mail us at privacy@Socialsign.in.
+    
     
     
     
