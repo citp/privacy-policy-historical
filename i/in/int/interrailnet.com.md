@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interrailnet.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627101313id_/http%3A//www.interrail.eu/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interrailnet.com privacy policy that was archived on 2013-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131007234503id_/http%3A//www.interrail.eu/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
 # InterRail.eu Privacy Policy
 
@@ -102,13 +102,13 @@ The security of your personal information is important to us. We maintain physic
 
 When our registration/order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry, SSL (Secure Sockets Layer). The site employs SSL via a digital certificate issued by Verisign.
 
-If you have any questions about the security at our website, you can send an email to our [customer service](http://www.interrail.eu/support/contact).
+If you have any questions about the security at our website, you can send an email to our [customer service](http://www.interrail.eu/help/contact).
 
 Back to top of page ↑
 
 ### Accuracy of the information we collect
 
-Any questions you may have regarding our Privacy Policy, the accuracy of your personal information or the use of your personal information, or any requests that we correct, update, or remove your information in our databases, should be directed via email to [customer service](http://www.interrail.eu/support/contact).
+Any questions you may have regarding our Privacy Policy, the accuracy of your personal information or the use of your personal information, or any requests that we correct, update, or remove your information in our databases, should be directed via email to [customer service](http://www.interrail.eu/help/contact).
 
 After receiving a request to change your information, we will make reasonable efforts to ensure that all of your personal information stored in databases we actively use to operate our website will be updated, corrected, changed or deleted, as appropriate, as soon as reasonably practicable. However, we reserve the right to retain in our archival files any information we remove from or change in our active website databases. We may retain such information to resolve disputes, troubleshoot problems and enforce our terms of use.
 
