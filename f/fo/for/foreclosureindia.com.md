@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foreclosureindia.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606102633id_/http%3A//foreclosureindia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foreclosureindia.com privacy policy that was archived on 2013-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131008155607id_/http%3A//foreclosureindia.com/privacy.html) for the most accurate reproduction.*
 
 # ForeclosureIndia.com | Listings Foreclosure Homes | Foreclosures for Sale | Bank Foreclosures | Hyderabad, Vishakapatnam, Vijayawada and 23 other cities
 
