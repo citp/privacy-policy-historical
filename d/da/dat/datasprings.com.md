@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datasprings.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126232321id_/http%3A//www.datasprings.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datasprings.com privacy policy that was archived on 2013-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131008061042id_/http%3A//www.datasprings.com/privacy) for the most accurate reproduction.*
 
 # Data Springs - DotNetNuke Modules, SharePoint Web Parts, and Mobile Applications!
 
