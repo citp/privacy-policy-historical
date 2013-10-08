@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the littlesummer.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502003822id_/http%3A//littlesummer.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littlesummer.com privacy policy that was archived on 2013-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131008043623id_/http%3A//littlesummer.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
