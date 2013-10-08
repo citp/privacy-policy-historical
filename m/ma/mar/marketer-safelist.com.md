@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketer-safelist.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514152850id_/http%3A//marketer-safelist.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketer-safelist.com privacy policy that was archived on 2013-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131008201823id_/http%3A//marketer-safelist.com/privacy.php) for the most accurate reproduction.*
 
 # Marketers Safelist | Privacy and Policy
 
