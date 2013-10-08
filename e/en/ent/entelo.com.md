@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entelo.com privacy policy that was archived on 2013-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130120033014id_/http%3A//www.entelo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entelo.com privacy policy that was archived on 2013-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131008092529id_/http%3A//www.entelo.com/privacy) for the most accurate reproduction.*
 
 # Entelo Privacy Policy
 
