@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradingcentral.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510103859id_/http%3A//www.tradingcentral.com/start.asp%3Fp%3Dprivate_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradingcentral.com privacy policy that was archived on 2013-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131008092304id_/https%3A//www.tradingcentral.com/start.asp%3Fp%3Dprivate_policy) for the most accurate reproduction.*
 
 # TRADING Central - TECHNICAL ANALYSIS EXPERTS
 
