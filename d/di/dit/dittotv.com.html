@@ -1,0 +1,650 @@
+<!--The following is the downloaded HTML source of the dittotv.com privacy policy that was archived on 2013-10-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131008101138id_/https%3A//www.dittotv.com/privacy.htm) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+        <meta http-equiv="Page-Enter" content="blendTrans(Duration=.001)">
+        <meta http-equiv="Page-Exit" content="blendTrans(Duration=.001)">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        
+            
+                <meta name="description" content="">
+            
+            
+        
+        
+            
+                <meta name="keywords" content="">
+            
+            
+        
+                   
+        <meta name="robots" content="index, follow">
+        <meta name="google-site-verification" content="C2NJZVAQNNhpyI0FILdC9BSpckAbUcmDn1J6iB_cEgs">
+        <meta name="msvalidate.01" content="60983BF59A1814CE861DD43CFAFF3F96">
+        <meta name="alexaVerifyID" content="E504bPEhyKG5IXcmfWyIvCz3WYs">
+        <!--<link rel="stylesheet" type="text/css" href="/resources/css/styles.min.css" />-->
+        <link rel="stylesheet" type="text/css" href="/resources/css/styles.css">
+        <link rel="stylesheet" type="text/css" href="/resources/css/jquery-ui-1.8.14.custom.css">
+        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/resources/scripts/jquery-1.5.1.min.js"></script>
+        <!--<script type="text/javascript" src="/resources/scripts/components.min.js"></script>-->
+        <script type="text/javascript" src="/resources/scripts/components.js"></script>
+        <script type="text/javascript" src="/resources/scripts/loginOverlay.js"></script>
+        <script type="text/javascript" src="/resources/scripts/spin.min.js"></script><style type="text/css"></style>
+        <link rel="shortcut icon" href="/favicon.ico">
+        
+            
+                <title>Privacy Policy</title>  
+            
+            
+        
+
+        <script type="text/javascript">
+            $(document).ready(function() {
+                if (navigator.appName == "Microsoft Internet Explorer")
+                {
+                    $.preloadCssImages();
+                }
+                $('#pageContainer').css("display", "inline");
+
+                if ($('.innerSlideshow').html() === '') {
+                    $('.innerSlideshow').append("<img src=\"/resources/images/IND_Masthead2.png.png\" alt='' />");
+                }
+
+            });
+
+            // google analytics 
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-26742255-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function() {
+                var ga = document.createElement('script');
+                ga.type = 'text/javascript';
+                ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(ga, s);
+            })();
+
+
+        </script> 
+
+    </head>
+    <body>
+        <div id="pageContainer" style="display: inline;">   
+            <div id="dvLoading"></div>
+            <div class="inner">
+                <div id="pageHeader">
+                    
+
+
+
+
+
+
+<script type="text/javascript">
+
+    $(document).ready(function() {
+
+        $('#loginLink').click(function() {
+            if ("true") {
+                $('#loginDlg').dialog('open'); // user must be loged in to proceed
+                $('#mobileNo_1').focus();
+                return false;
+            }
+        });
+        
+        function pulsate() {
+            $(".pendingOrder").animate({opacity: 0.2}, 500).animate({opacity: 1}, 500, null, function() {
+                pulsate()
+            });
+        };
+
+        pulsate();
+
+        //$('.pendingOrder').effect("pulsate");
+
+        $('.logedinInfo').click(function() {
+            if ($('#walletPanel').css('display') == 'none') {
+                $.get("myWallet/status.htm", function(wallet) {
+                    $(".walletAmount").html(wallet.status);
+                    if (wallet.currency != null) {
+                        // In case of exception do not add currency icon
+                        $(".currency").addClass(wallet.currency);
+                        $(".currency").html(wallet.currency);
+                    }
+                });
+                // show wallet panel                
+                $('#walletPanel').css('left', $(this).position().left + 12); // set position
+                $('#walletPanel').css('top', 60);
+                $('#walletPanel').css('display', 'block');
+                setTimeout(function() {
+                    if ($('.walletAmount').html() != '') {
+                        $('#walletPanel').show("blind", "slow");
+                        $('wPanel').css('display', 'block');
+                    } else {
+                        $('wPanel').css('display', 'none');
+                        $('#walletPanel').html('Wallet unavailable.');
+                    }
+                }, 800);
+            } else {
+                // hide opened panel
+                $('#walletPanel').css('display', 'none');
+                $('#walletPanel').show("blind", "slow");
+            }
+        });
+
+        $('.pendingOrder').click(function() {
+            window.location.replace("billingConfirmation.htm");
+        });
+
+    });
+
+</script>
+
+<div class="wrapper">
+    <!-- Login Band Starts -->
+    <div class="loginBand left">
+        <div class="login right">
+            <p class="right wpBtn socialIcon"><a href="http://dittotv.wordpress.com/" target="_blank">Wordpress</a></p>
+            <p class="right twBtn socialIcon"><a href="http://www.twitter.com/ditto_tv" target="_blank">Twitter</a></p>
+            <p class="right fbBtn socialIcon"><a href="http://www.facebook.com/dittotv" target="_blank">Facebook</a></p>
+
+            <div class="clear"></div>
+
+            
+                        
+                <p class="right"><a href="/support.htm">Support</a></p>
+                <p class="right"><a id="loginLink" href="#">Login / Sign Up</a></p>
+            
+        </div>
+    </div>
+    <!-- Login Band Ends -->
+</div>
+<div class="clear"></div>
+<!-- Inner Header Band Starts -->
+<div id="innerHeadBand">
+    <div class="wrapper">
+        <div id="logo" class="left">
+            <a href="/welcome.htm">Ditto TV :: Entertainment Everywhere ::</a>
+        </div>
+        <ul id="nav" class="right">
+            <li><a href="/welcome.htm" class="">Home</a></li>
+            <li><a href="/howitworks.htm">How It Works</a></li>
+            <li><a href="/liveChannels.htm">Live Channels</a></li>
+            
+            
+            <li><a href="/dittoPackages.htm?utm_source=Subscription&amp;utm_medium=email&amp;utm_campaign=August+2nd+week+2013">Ditto Packages</a></li>
+            
+            
+            
+                
+                
+                
+                
+                
+                    <li><a href="/downloadApp.htm?utm_source=gdn&amp;utm_medium=cpc&amp;utm_content=discount&amp;utm_campaign=Dittotv_USA">Download App</a></li>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+            
+            <li><a href="/topupwallet.htm">Top-Up Wallet</a></li>
+            <li><a href="/activatePrepaid.htm">Activate Prepaid</a></li>
+        </ul>
+        <div class="innerSlideshow left">
+            
+                           
+                
+                
+                                            
+                        
+                            
+                            
+                        
+                            
+                            
+                                
+                                
+				
+                                <a href="/dittoPackages.htm"><img src="/resources/images/banner-row.png" alt=""></a>
+                                
+                            
+                        
+                
+            
+        
+</div>        
+</div>
+</div>
+<!-- Inner Header Band Ends -->
+<div id="walletPanel" style="display:none">   
+    <span class="wPanel">        
+        <span class="left" style="padding-right:5px;">Amount:</span><span class="currency" style="margin-top: 7px; text-indent: 999px;">Currency</span> <span class="walletAmount" style="padding-right: 5px;"></span>
+        <span class="walletValid"></span>
+    </span>
+</div>
+
+                </div>
+                <div id="buttonsPane">
+                    
+                </div>
+                <div id="pageContent">
+                    
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+    $(document).ready(function(){
+       
+        $('li a').removeClass('selected');
+    });
+</script>
+<!-- Body Wrapper Starts -->
+<div class="wrapper">
+    <!-- Left Column Starts -->
+    <div class="wideWrap">
+        <h2 class="titles">Privacy</h2>
+        <div class="stripes aboutStripes">stripes</div>
+    </div>
+    <div class="left leftClmn" style="width:94%">
+        <div class="content">
+            <p class="MsoNormal" style="line-height:normal;"><span style="font-size:12.0pt; ">The Company and its subsidiaries respect your privacy. This Privacy Policy lists the manner your data is collected and used by the site/service, and you are requested to read it carefully. By accessing the services provided by the site service DittoTV.com and Ditto TV application, You agree to the collection and use of your data by the site/service DittoTV.com in the manner provided in this Privacy Policy.<br>
+                    <br>
+					    This Policy does not apply to the procedures and practices followed by entities that are not managed, owned or controlled by the Company and the site DittoTV.com and service Ditto TV or to the people that are not engaged, employed or managed by the Company the site/service DittoTV.com.<br>
+
+                    <br>
+					    We want you to </span></p>
+            <ul type="disc" class="privacyList">
+                <li class="MsoNormal" style="line-height:normal;"><span style="font-size:12.0pt; ">feel comfortable using our web sites and application</span></li>
+                <li class="MsoNormal" style="line-height:normal;"><span style="font-size:12.0pt; ">feel secure submitting information to us</span></li>
+                <li class="MsoNormal" style="line-height:normal;"><span style="font-size:12.0pt; ">contact us with your questions or concerns about privacy on this site or application</span></li>
+                <li class="MsoNormal" style="line-height:normal;"><span style="font-size:12.0pt; ">know that by using our sites/services you are consenting to the collection of certain data</span></li>
+
+            </ul>
+            <p class="MsoNormal" style="line-height:normal;"><span style="font-size:12.0pt; ">WHAT  INFORMATION IS, OR MAY BE, COLLECTED FROM YOU?</span></p>
+            <p class="MsoNormal" style="margin-bottom:.0001pt;line-height:normal;"><span style="font-size:12.0pt; ">We  will automatically receive and collect certain anonymous information in  standard usage logs through our Web server and application, including computer-identification  information obtained from "cookies," sent to your browser from: </span></p>
+            <ul type="disc" class="privacyList">
+                <li class="MsoNormal" style="line-height:normal;"><span style="font-size:12.0pt; ">web       server cookie stored on your hard drive</span></li>
+                <li class="MsoNormal" style="line-height:normal;"><span style="font-size:12.0pt; ">an IP address, assigned to the computer/internet connected device which you use</span></li>
+
+                <li class="MsoNormal" style="line-height:normal;"><span style="font-size:12.0pt; ">the domain       server through which you access our service</span></li>
+                <li class="MsoNormal" style="line-height:normal;"><span style="font-size:12.0pt; ">the type of computer/device you're using</span></li>
+                <li class="MsoNormal" style="line-height:normal;"><span style="font-size:12.0pt; ">the       type of web browser you're using</span></li>
+            </ul>
+            <p class="MsoNormal" style="line-height:normal;"><span style="font-size:12.0pt; ">We  may collect the following personally identifiable information about you:</span></p>
+            <ul type="disc" class="privacyList">
+                <li class="MsoNormal" style="line-height:normal;"><span style="font-size:12.0pt; ">name       including first and last name</span></li>
+
+                <li class="MsoNormal" style="line-height:normal;"><span style="font-size:12.0pt; ">alternate       email address</span></li>
+                <li class="MsoNormal" style="line-height:normal;"><span style="font-size:12.0pt; ">mobile       phone number and contact details</span></li>
+                <li class="MsoNormal" style="line-height:normal;"><span style="font-size:12.0pt; ">ZIP/Postal       code</span></li>
+                <li class="MsoNormal" style="line-height:normal;"><span style="font-size:12.0pt; ">demographic       profile (like your age, gender, occupation, education, address and       durables owned);</span></li>
+                <li class="MsoNormal" style="line-height:normal;"><span style="font-size:12.0pt; ">preferences       and interests (such as news, sports, travel and so on);</span></li>
+                <li class="MsoNormal" style="line-height:normal;"><span style="font-size:12.0pt; ">financial       information (like account or credit card numbers); and</span></li>
+
+                <li class="MsoNormal" style="line-height:normal;"><span style="font-size:12.0pt; ">opinions       of features on our websites and application</span></li>
+                <li class="MsoNormal" style="line-height:normal;"><span style="font-size:12.0pt; ">content Usage on the application.</span></li>
+            </ul>
+            <p class="MsoNormal" style="line-height:normal;"><span style="font-size:12.0pt; ">We  may also collect the following information:</span></p>
+            <ul type="disc" class="privacyList">
+                <li class="MsoNormal" style="line-height:normal;"><span style="font-size:12.0pt; ">about       the pages you visit/access</span></li>
+                <li class="MsoNormal" style="line-height:normal;"><span style="font-size:12.0pt; ">sections you visit on the application</span></li>
+                <li class="MsoNormal" style="line-height:normal;"><span style="font-size:12.0pt; ">the       links you click on our site</span></li>
+                <li class="MsoNormal" style="line-height:normal;"><span style="font-size:12.0pt; ">content you access on the application</span></li>
+                <li class="MsoNormal" style="line-height:normal;"><span style="font-size:12.0pt; ">the number of times you access the page However, your information may remain stored in archive on our servers</span></li>
+
+            </ul>
+            <p class="MsoNormal" style="line-height:normal;"><span style="font-size:12.0pt; ">WHO  COLLECTS THE INFORMATION?</span></p>
+            <p class="MsoNormal" style="margin-bottom:12.0pt;line-height:normal;"><span style="font-size:12.0pt; ">We will collect anonymous traffic and usage information from you when you visit our site or access the application.<br>
+                    <br>
+                    We collect the personally identifiable information from you when you register with us. During registration you are required to give us your contact information (such as mobile number, name, email address, date of birth, gender, address, pin code, cell number, occupation and interests). Upon registration users may receive communications from DittoTV (e.g. newsletters, updates, SMS etc)<br>
+                    <br>
+                    We use this information to contact you about the services you are using and services in which you have expressed interest.<br>
+
+                    <br>
+                    You have the option to provide demographic information (such as occupation, education and gender) to us; we encourage you to submit this information so we can provide you a more personalized experience on our site.<br>
+                    <br>
+                    If you purchase a product or service from us, we request certain personally identifiable information from you on our order form. You must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date, CVV verification, Name on card, billing address etc.).<br>
+                    <br>
+                    We use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you.<br>
+                    <br>
+
+                    If you choose to use our referral service to tell a friend about Ditto TV, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site and download Ditto TV. 
+We will collect personally identifiable information about you only as part of a registration process, on-line survey, or contest or any combination thereof.
+<br>
+                    <br>
+                    Our advertisers may collect anonymous traffic information from their own assigned cookies to your browser.<br>
+                    <br>
+                    The Site contains links to other Web sites. We are not responsible for the privacy practices of such Web sites which we do not own, manage or control.<br>
+
+                    <br>
+                    If we make chat rooms, forums, instant messenger and message boards and other services available to you. Please understand that any information that is disclosed in these areas becomes public information. We have no control over its use and you should exercise caution when disclosing your personal information to anyone.<br>
+                    <br>
+                    If you use a bulletin board or chat room on this site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.<br>
+                    <br>
+                    We are the sole owners of your information collected by us at several different points on our Website and application.</span></p>
+            <p class="MsoNormal" style="line-height:normal;"><span style="font-size:12.0pt; ">HOW  IS THE INFORMATION USED?</span></p>
+
+            <p class="MsoNormal" style="margin-bottom:.0001pt;line-height:normal;"><span style="font-size:12.0pt; ">We use your email address and mobile number to send you:</span></p>
+            <ul type="disc" class="privacyList">
+                <li class="MsoNormal" style="line-height:normal;"><span style="font-size:12.0pt; ">Password, Password reminder and registration confirmation</span></li>
+                <li class="MsoNormal" style="line-height:normal;"><span style="font-size:12.0pt; ">Special       offers</span></li>
+                <li class="MsoNormal" style="line-height:normal;"><span style="font-size:12.0pt; ">News       letters</span></li>
+                <li class="MsoNormal" style="line-height:normal;"><span style="font-size:12.0pt; ">Changes       in the service's policy or terms of use</span></li>
+
+                <li class="MsoNormal" style="line-height:normal;"><span style="font-size:12.0pt; ">Event based communications such as order information, renewal notices, invites, reminders etc.</span></li>
+            </ul>
+            <p class="MsoNormal" style="line-height:normal;"><span style="font-size:12.0pt; ">Note:  We send users newsletters and updates via e-mail and SMS upon registration. We send newsletters and/or promotional emails and SMS on behalf of our alliance partners.</span></p>
+            <p class="MsoNormal" style="margin-bottom:.0001pt;line-height:normal;"><span style="font-size:12.0pt; ">We  use your personal information to: </span></p>
+            <ul type="disc" class="privacyList">
+                <li class="MsoNormal" style="line-height:normal;"><span style="font-size:12.0pt; ">help us       provide personalized features</span></li>
+                <li class="MsoNormal" style="line-height:normal;"><span style="font-size:12.0pt; ">tailor our services to your interest</span></li>
+
+                <li class="MsoNormal" style="line-height:normal;"><span style="font-size:12.0pt; ">to get in touch with you in the case of password retrieval and policy changes</span></li>
+                <li class="MsoNormal" style="line-height:normal;"><span style="font-size:12.0pt; ">to provide the services requested by you</span></li>
+                <li class="MsoNormal" style="line-height:normal;"><span style="font-size:12.0pt; ">to preserve social history as governed by existing law or policy</span></li>
+            </ul>
+            <p class="MsoNormal" style="margin-bottom:.0001pt;line-height:normal;"><span style="font-size:12.0pt; "><br>
+                    We use contact information internally to: </span></p>
+            <ul type="disc" class="privacyList">
+
+                <li class="MsoNormal" style="line-height:normal;"><span style="font-size:12.0pt; ">direct       our efforts for product improvement</span></li>
+                <li class="MsoNormal" style="line-height:normal;"><span style="font-size:12.0pt; ">contact       you as a survey respondent</span></li>
+                <li class="MsoNormal" style="line-height:normal;"><span style="font-size:12.0pt; ">notify       you if you win any contest; and</span></li>
+                <li class="MsoNormal" style="line-height:normal;"><span style="font-size:12.0pt; ">send       you promotional materials from our contest sponsors or advertisers</span></li>
+            </ul>
+            <p class="MsoNormal" style="margin-bottom:.0001pt;line-height:normal;"><span style="font-size:12.0pt; "><br>
+                    Generally, we use anonymous traffic information to: </span></p>
+
+            <ul type="disc" class="privacyList">
+                <li class="MsoNormal" style="line-height:normal;"><span style="font-size:12.0pt; ">remind us of who you are in order to deliver to you a better and more personalized service from both an advertising and an editorial/content perspective;</span></li>
+                <li class="MsoNormal" style="line-height:normal;"><span style="font-size:12.0pt; ">recognize       your access privileges to our Web sites</span></li>
+                <li class="MsoNormal" style="line-height:normal;"><span style="font-size:12.0pt; ">track your entries in some of our promotions, sweepstakes and contests to indicate a player's progress through the promotion and to track entries, submissions, and status in prize drawings</span></li>
+                <li class="MsoNormal" style="line-height:normal;"><span style="font-size:12.0pt; ">help       diagnose problems with our server</span></li>
+
+                <li class="MsoNormal" style="line-height:normal;"><span style="font-size:12.0pt; ">administer       our services</span></li>
+                <li class="MsoNormal" style="line-height:normal;"><span style="font-size:12.0pt; ">track your session so that we can understand better how people use our sites and applications</span></li>
+            </ul>
+            <p class="MsoNormal" style="line-height:normal;"><span style="font-size:12.0pt; ">WITH  WHOM WILL YOUR INFORMATION BE SHARED?</span></p>
+            <p class="MsoNormal" style="margin-bottom:.0001pt;line-height:normal;"><span style="font-size:12.0pt; ">We  will not use your financial information for any purpose other than to complete  a transaction with you.<br>
+                    We do not share or rent your email addresses with third parties except our  agents and alliance partners. </span></p><br>
+
+            <p class="MsoNormal" style="line-height:normal;"><span style="font-size:12.0pt; ">AGENTS</span></p>
+            <p class="MsoNormal" style="margin-bottom:.0001pt;line-height:normal;"><span style="font-size:12.0pt; ">We use the services of our enabling partners such as outside shipping companies, resellers, call centres, business associates to fulfill orders, and credit card processing companies to process the payment for goods and services ordered from DittoTV.com website. These entities do not retain, store, share or use personally identifiable information for any other purposes. </span></p><br>
+            <p class="MsoNormal" style="line-height:normal;"><span style="font-size:12.0pt; ">ALLIANCE  PARTNERS</span></p>
+            <p class="MsoNormal" style="margin-bottom:.0001pt;line-height:normal;"><span style="font-size:12.0pt; ">We will share your information with our Alliance Partners who work with us or on our behalf to help provide you the services. An alliance partner is a company or an individual who owns and manages (wholly or part of) content.<br>
+                    <br>
+                    We share email addresses and mobile numbers with Agents and Alliance Partners. The Agents and Alliance Partners use the email address to confirm the deliveries, send notices and offer services related to the service.<br>
+
+                    <br>
+                    We do not rent, sell or share your personal information and we will not disclose any of your personally identifiable information to third parties unless: </span></p>
+            <ul type="disc" class="privacyList">
+                <li class="MsoNormal" style="line-height:normal;"><span style="font-size:12.0pt; ">we have       your permission</span></li>
+                <li class="MsoNormal" style="line-height:normal;"><span style="font-size:12.0pt; ">to       provide products or services you've requested</span></li>
+                <li class="MsoNormal" style="line-height:normal;"><span style="font-size:12.0pt; ">to help investigate, prevent or take action regarding unlawful and illegal activities, suspected fraud, potential threat to the safety or security of any person, violations of DittoTV terms of use or to defend against legal claims;</span></li>
+                <li class="MsoNormal" style="line-height:normal;"><span style="font-size:12.0pt; ">special circumstances such as compliance with subpoenas, court orders, requests/order from legal authorities or law enforcement agencies requiring such disclosure.</span></li>
+
+            </ul>
+            <p class="MsoNormal" style="margin-bottom:12.0pt;line-height:normal;"><span style="font-size:12.0pt; "><br>
+                    We reserve the right to disclose your personally identifiable and email address information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.<br>
+                    <br>
+                    We share your information with advertisers on an aggregate basis only.<br>
+                    <br>
+                    The security of your personal information and email address is important to us. When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). To learn more about SSL, follow this link <a href="mailto:http://www.verisign.com/ssl/index.html"><span>http://www.verisign.com/ssl/index.html</span></a>. We follow generally accepted industry standards to protect the personal information and email address submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information and email address, we cannot guarantee its absolute security.<br>
+
+                    <br>
+                    If you have any questions about security on our Web site, you can send email us  at <a href="mailto:support@dittotv.com"><span>support@dittotv.com</span></a></span></p>
+            <p class="MsoNormal" style="line-height:normal;"><span style="font-size:12.0pt; ">WHAT  CHOICES ARE AVAILABLE TO YOU REGARDING COLLECTION, USE AND DISTRIBUTION OF YOUR  INFORMATION?</span></p>
+            <p class="MsoNormal" style="margin-bottom:12.0pt;line-height:normal;"><span style="font-size:12.0pt; ">Supplying personally identifiable information is entirely voluntary. You are not required to register with us in order to use our sites or download the application. However, we offer some services only to visitors who do register.<br>
+                    <br>
+                    DittoTV reserves the right to send you certain service related communication, considered to be a part of your DittoTV account without offering you the facility to opt-out. You may update your information and change your account settings at any time.<br>
+
+                    <br>
+                    If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by emailing us at <a href="mailto:support@dittotv.com"><span>support@dittotv.com</span></a>.<br>
+                    <br>
+                    We provide you the opportunity to 'opt-out' of having your email address used for certain purposes, when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference, by emailing us at <a href="mailto:support@dittotv.com"><span>support@dittotv.com</span></a>.<br>
+                    <br>
+                    Upon request, we will remove/block your personally identifiable information from our database, thereby cancelling your registration. See Contact information below. However, your information may remain stored in archive on our servers even after the deletion or the termination of your account.<br>
+
+                    <br>
+                    If your personally identifiable information or email address change, or if you no longer desire our service, you may correct, update, delete or deactivate it by by emailing our Customer Support at <a href="mailto:support@dittotv.com"><span>support@dittotv.com</span></a> or by contacting us by telephone or postal mail at the contact information listed below.<br>
+                    <br>
+                    If your personally identifiable information or email address changes, or if you no longer desire our service, you may correct, update or deactivate it by by emailing our Customer Support at  <a href="mailto:support@dittotv.com"><span>support@dittotv.com</span></a> or by contacting us by telephone or postal mail at the contact information listed below.<br>
+                    <br>
+
+                    If we plan to use your personally identifiable information for any commercial purposes, we will notify you at the time we collect that information and allow you to opt-out of having your information used for those purposes.<br>
+                    <br>
+                    You can accept or decline the cookies. All sites that are customizable require that you accept cookies. You also must accept cookies to register as someone for access to some of our services. For information on how to set your browser to alert you to cookies, or to reject cookies, go to <a href="http://www.cookiecentral.com/faq/" target="_blank"><span>http://www.cookiecentral.com/faq/</span></a></span></p>
+            <p class="MsoNormal" style="line-height:normal;"><span style="font-size:12.0pt; ">COOKIES</span></p>
+            <p class="MsoNormal" style="margin-bottom:12.0pt;line-height:normal;"><span style="font-size:12.0pt; ">A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We do link the information we store in cookies to any personally identifiable information you submit while on our site.<br>
+                    <br>
+
+                    We use both session ID cookies and persistent cookies. We use session cookies to make it easier and secured for you to navigate our site. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. Reference for cookies can be found a  <a href="http://www.cookiecentral.com/" target="_blank"><span>http://www.cookiecentral.com/</span></a>.<br>
+                    <br>
+                    We use session cookies to store the secure session and browsing preferences of the user. We set a persistent cookie to store your username and interests so you don't have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.<br>
+                    <br>
+                    If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited. Cookies are used in shopping cart to enable enhanced security and ensuring there is no URL based spamming.<br>
+
+                    <br>
+                    Some of our business partners (e.g., advertisers) set cookies while delivering banners on our site. We have no access to or control over these cookies.<br>
+                    <br>
+                    This privacy statement covers the use of cookies by <a href="http://www.dittotv.com" target="_blank"><span>DittoTV.com</span></a> only and does not cover the use of cookies by any advertisers.<br>
+                    <br>
+                    We do use cookies on point of collection pages of email address but we do not use them in emails.<br>
+
+                    <br>
+                    DittoTV.com cookies are not being tied to PII.</span></p>
+            <p class="MsoNormal" style="line-height:normal;"><span style="font-size:12.0pt; ">SECURITY  PROCEDURES IN PLACE TO PROTECT INFORMATION FROM LOSS, MISUSE OR ALTERATION</span></p>
+            <p class="MsoNormal" style="margin-bottom:12.0pt;line-height:normal;"><span style="font-size:12.0pt; ">To protect against the loss, misuse and alteration of the information under our control, we have in place appropriate physical, electronic and managerial procedures. For example, our servers are accessible only to authorized personnel and that your information is shared with respective personnel on need to know basis to complete the transaction and to provide the services requested by you.<br>
+                    <br>
+                    Although we will endeavor to safeguard the confidentiality of your personally identifiable information, transmissions made by means of the Internet cannot be made absolutely secure. By using our services, you agree that we will have no liability for disclosure of your information due to errors in transmission or unauthorized acts of third parties.<br>
+                    <br>
+
+                    We follow generally accepted industry standards to protect the personal information and email addresses submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information and email address, we cannot guarantee its absolute security.</span></p>
+            <p class="MsoNormal" style="line-height:normal;"><span style="font-size:12.0pt; ">POLICY  UPDATES</span></p>
+            <p class="MsoNormal" style="margin-bottom:12.0pt;line-height:normal;"><span style="font-size:12.0pt; ">We reserve the right to change or update this policy at any time. Such changes shall be effective immediately upon to this site.<br>
+                    <br>
+                    If we decide to change our privacy policy, we will post those changes to this privacy statement, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here,<br>
+                    <br>
+                    If we decide to make changes in our email practices, we will post those changes to this privacy policy, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If we decide to change our email practices, we will post those changes to this privacy statement so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.</span></p>
+
+
+        </div>
+    </div>
+
+</div>
+<!-- Left Column Ends -->
+
+</div>
+<!-- Body Wrapper Ends -->
+
+                </div>                
+            </div>
+            <div id="pageFooter">
+                
+<!-- Footer Starts -->
+<div id="footer" class="left">
+    <div class="wrapper">
+        <ul class="footerLinks left">
+            <li><a href="/faq.htm">FAQ's  | </a></li>            
+            <li><a href="/aboutUs.htm">About Us  | </a></li>            
+            <li><a href="/terms.htm">Terms &amp; Conditions  | </a></li>
+            <li><a href="/privacy.htm">Privacy Policy  | </a></li>
+            <li><a href="/support.htm">Support  | </a></li>
+            <li><a href="/contactUs.htm">Contact Us</a></li>
+        </ul>
+        <div class="copy right">Copyright @ 2012 Ditto TV. All rights reserved.</div>
+        <div class="clear"></div>
+        <div class="follow right" style="display:none"><span class="left">Follow us on social networks</span> <span class="twitter"><a href="#">twitter</a></span><span class="facebook"><a href="#">facebook</a></span></div>
+    </div>
+</div>
+<!-- Footer Ends -->
+            </div>
+        
+        <noscript>
+            <div class="wrapper">
+                <div class="noscript">
+                    <span style="color:red;"><u>Please enable Javascript to continue with this site</u></span>. To try again... <a href="welcome.htm" >click here</a>.
+                </div>  
+            </div>
+            <!-- The page starts -->
+            <div class="wrapper">
+                <!-- Login Band Starts -->
+                <div class="loginBand left"></div>                
+                <!-- Login Band Ends -->
+            </div>
+            <div class="clear"></div>
+            <!-- Slideshow Band Starts -->
+            <div id="innerHeadBandNoScript">
+                <div class="wrapper">
+                    <div id="logonoscript" class="left">
+                        <a href="welcome.htm">Ditto TV :: Entertainment Everywhere ::</a>
+                    </div>
+                    <div class="innerSlideshow left">
+                        <img src="/resources/images/ssImgInner.png" alt="" >
+                    </div>
+                </div>
+            </div>
+            <!-- Slideshow Band Ends -->
+            <!-- Body Wrapper Starts -->
+            <div class="wrapper">
+                <!-- Left Column Starts -->
+                <div class="left leftClmn">                    
+                    <h2 class="titles">Ditto TV</h2>
+                    <div class="stripes dittoTVHome">stripes</div>
+                    <h4 class="subtitle">LIVE TV on your Mobile, PC & Tablet</h4>
+                    <div class="content">
+                        <p>Ditto TV is an entertainment revolution that delivers <strong>LIVE TV & Video on Demand</strong> on your Mobile, PC, Tablet  and other internet-enabled devices; anytime, anywhere. With Ditto TV, you can watch movies, television shows, sports, the latest news & updates, at your own time and convenience; even when you are away from home!</p>
+                        <p>Now take your TV wherever you go.  Ditto TV, Go Roaming!</p>
+                    </div>
+                </div>
+                <!-- Left Column Ends -->
+                <!-- Right Column Starts -->
+                <div class="rightClmn right">
+                    <div class="imacImage right"></div>
+                </div>
+                <!-- Right Column Ends -->
+            </div>
+            <!-- Body Wrapper Ends -->
+            <div class="clear"></div> 
+            <!-- Footer Starts -->
+            <div id="footernoscript" class="left">
+                <div class="wrapper">					
+                    <div class="copy right">Copyright @ 2012 Ditto TV. All rights reserved.</div>
+                    <div class="clear"></div>
+                    <div class="follow right" style="display:none"><span class="left">Follow us on social networks</span> <span class="twitter"><a href="#">twitter</a></span><span class="facebook"><a href="#">facebook</a></span></div>
+                </div>
+            </div>
+            <!-- Footer Ends -->
+            <!-- The page ends -->
+
+        </noscript>
+        <!-- Notification dialog overlay start -->
+        
+        <!-- Notification dialog overlay end -->
+        <!-- Login overlay start -->
+        
+        <!-- Login overlay end -->
+        <!-- Quick login Notification dialog start -->
+        
+        <!-- Quick login Notification dialog end -->
+        <!-- Remarketing Google -->
+        <script type="text/javascript">
+            /* <![CDATA[ */
+            var google_conversion_id = 995407213;
+            var google_conversion_label = "IuZbCNPrigQQ7erS2gM";
+            var google_custom_params = window.google_tag_params;
+            var google_remarketing_only = true;
+            /* ]]> */
+        </script>
+
+    
+
+<div class="ui-dialog ui-widget ui-widget-content ui-corner-all " tabindex="-1" role="dialog" aria-labelledby="ui-dialog-title-notifyDlg" style="display: none; z-index: 1000; outline: 0px;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix"><span class="ui-dialog-title" id="ui-dialog-title-notifyDlg">&nbsp;</span><a href="#" class="ui-dialog-titlebar-close ui-corner-all" role="button"><span class="ui-icon ui-icon-closethick">close</span></a></div><div id="notifyDlg" style="" class="ui-dialog-content ui-widget-content">
+            <div class="notifyDialog">
+                <div class="closeBtn"></div>
+                <div class=" notifyStr"></div>  
+            </div>
+        </div></div><div class="ui-dialog ui-widget ui-widget-content ui-corner-all " tabindex="-1" role="dialog" aria-labelledby="ui-dialog-title-loginDlg" style="display: none; z-index: 1000; outline: 0px;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix"><span class="ui-dialog-title" id="ui-dialog-title-loginDlg">&nbsp;</span><a href="#" class="ui-dialog-titlebar-close ui-corner-all" role="button"><span class="ui-icon ui-icon-closethick">close</span></a></div><div id="loginDlg" style="" class="ui-dialog-content ui-widget-content">
+            <div class="loginDlg">
+                <div class="closeBtn loginOverlay"></div>                
+                <div class="OverlayTitle">
+                    <div class="loginTitle">Login / Sign Up</div>                    
+                </div>
+                <form action="" id="login">
+                    <div class="stepthree" style="display:none;margin-bottom: 10px;">
+                        <label>Please enter a password of your choice.</label>
+                    </div>                    
+                    <div id="userIdPanel" class="stepone">
+                        <label class="loginLabel">Mobile No.</label>
+                        <input type="hidden" class="field" id="userMobileNo">
+                        <input type="text" id="mobileNo_0" class="field_0" value="00">
+                        <label class="separator">-</label>
+                        <input name="mobileNo_1" id="mobileNo_1" type="text" class="field_1" value="91" maxlength="3">
+                        <label class="separator">-</label>
+                        <input type="text" name="mobileNo_2" id="mobileNo_2" class="field_2" value="" maxlength="15">
+                        <div>
+                            <span class="loginDlgNotes" style="margin-left: 35px;margin-right: 5px;">Country Code</span>
+                            <span class="loginDlgNotes">Mobile No.</span>
+                        </div>                
+                    </div>
+                    <div id="passwordPanel" style="display:none" class="steptwo">
+                        <label class="loginLabel">Password</label>
+                        <input type="password" class="field" id="userPassword" name="userPassword">                        
+                    </div>
+                    <div class="forgot">
+                        <a href="#">Forgot Password?</a>
+                    </div>
+                    <div class="stepthree clear" style="display:none;">
+                        <input class="checkbox" id="accTerms" type="checkbox" style="margin:9px 0 0 0;">
+                        <label class="termsTxt" style="margin-top:10px;">I agree to the <a href="terms.htm" target="_blank">Terms &amp; Conditions</a></label>                      
+                        </div>
+                        <div class="right" style="margin-top:10px;">
+                                                
+                        
+                        <input type="button" id="back" value="Back" class="button stepthree" style="display:none">
+                        <input type="button" id="preLogin" value="OK" class="button">
+                    </div>                    
+                    <p class="exstUserReq clear" style="color:red;"></p>
+                </form>                      
+                <div style="clear:both;"></div>
+            </div>
+        </div></div><div class="ui-dialog ui-widget ui-widget-content ui-corner-all " tabindex="-1" role="dialog" aria-labelledby="ui-dialog-title-quickLoginNotf" style="display: none; z-index: 1000; outline: 0px;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix"><span class="ui-dialog-title" id="ui-dialog-title-quickLoginNotf">&nbsp;</span><a href="#" class="ui-dialog-titlebar-close ui-corner-all" role="button"><span class="ui-icon ui-icon-closethick">close</span></a></div><div id="quickLoginNotf" style="" class="ui-dialog-content ui-widget-content">
+            <div class="loginDlg">
+                <div class="closeBtn loginConfOverlay"></div>
+                <div class="OverlayTitle">
+                    Confirm
+                </div>
+                <form action="" id="confLogin">
+                    <p>
+                        Your mobile no. will be used for password recovery.<br>Please confirm or re-enter for security reasons.
+                    </p>
+                    <div style="margin-top:10px;">       
+                        <input type="hidden" class="field" id="userMobileNoConf">
+                        <input type="hidden" class="field" id="userPassConf">        
+                        <label>Mobile No.</label>
+                        <input type="text" id="conf_mobileNo_0" class="field_0" style="width:16px" value="00">
+                        <label style="width:5px;float:none;">-</label>
+                        <input name="mobileNo_1" id="conf_mobileNo_1" type="text" class="field_1" value="91" style="width:25px" maxlength="3">
+                        <label style="width:5px;float:none">-</label>
+                        <input type="text" name="mobileNo_2" id="conf_mobileNo_2" class="field_2" value="" maxlength="15">               
+                    </div>
+                    <div class="right" style="margin-top:10px;">
+                        <input type="button" id="confLoginBtn" value="OK" class="button">
+                    </div>
+                    <p class="quickLoginNotf clear" style="color:red;"></p> 
+                </form>
+                <div style="clear:both;"></div>
+            </div>
+        </div></div></body></html>
