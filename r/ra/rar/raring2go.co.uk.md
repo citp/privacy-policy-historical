@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raring2go.co.uk privacy policy that was archived on 2012-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120719181029id_/http%3A//www.raring2go.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raring2go.co.uk privacy policy that was archived on 2013-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131008114345id_/http%3A//www.raring2go.co.uk/privacy.php) for the most accurate reproduction.*
 
 # What's on, what to do with the kids
 
