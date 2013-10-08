@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sectornews.co.in privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610052123id_/http%3A//sectornews.co.in/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D12%26Itemid%3D23) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sectornews.co.in privacy policy that was archived on 2013-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131008190729id_/http%3A//sectornews.co.in/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D12%26Itemid%3D23) for the most accurate reproduction.*
 
 # Chandigarh Tourism - Sector News - Chandigarh tourism news portal, places to visit, information - Privacy Policy
 
@@ -106,4 +106,4 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 **Contact Us**
 
-If you have any questions or suggestions regarding our privacy policy, please [contact us.](https://web.archive.org/web/20130610052123id_/http%3A//sectornews.co.in/index.php?option=com_contact&task=view&contact_id=1&Itemid=9)
+If you have any questions or suggestions regarding our privacy policy, please [contact us.](https://web.archive.org/web/20131008190729id_/http%3A//sectornews.co.in/index.php?option=com_contact&task=view&contact_id=1&Itemid=9)
