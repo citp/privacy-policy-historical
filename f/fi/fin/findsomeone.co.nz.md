@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findsomeone.co.nz privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510220827id_/http%3A//findsomeone.co.nz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findsomeone.co.nz privacy policy that was archived on 2013-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131008233606id_/http%3A//findsomeone.co.nz/privacy-policy) for the most accurate reproduction.*
 
 # FindSomeone
 
@@ -16,7 +16,7 @@ We have designed a thorough privacy policy with these things in mind.
 
 If you have any questions regarding our privacy policy, we encourage you to contact our privacy officer through our [contact form](https://web.archive.org/contactform.aspx).
 
-This privacy policy was last updated on 17th April 2013.
+This privacy policy was last updated on 18th July 2013.
 
 ### Collection and use of your information
 
@@ -34,7 +34,7 @@ You are encouraged to provide a lot of information about yourself for your profi
 
 Members may also have the ability to see which other members have viewed their profile and saved them as a favourite. 
 
-We provide [options](https://web.archive.org/member/editoptions.aspx) to allow you to restrict visibility of your profile and visibility of any photos you upload. If you select "show my photos to anyone" your photo (and profile) may also appear in the FindSomeone newsletter. If you wish to remove your profile from the FindSomeone website, you may do this using the "remove my profile" link on the [options page](https://web.archive.org/member/editoptions.aspx). 
+We provide [options](https://web.archive.org/member/options/privacy/) to allow you to restrict visibility of your profile and visibility of any photos you upload. If you select "show my photos to anyone" your photo (and profile) may also appear in the FindSomeone newsletter. If you wish to remove your profile from the FindSomeone website, you may do this using the "remove my profile" link on the [Options](https://web.archive.org/member/options/account/) page. 
 
 Information collected is designed to minimise the ability for someone to identify you. It is your responsibility to control the extent of information you provide on your FindSomeone profile to help us to ensure your privacy is protected. 
 
@@ -69,6 +69,14 @@ If you choose to post messages on our Message Board, we will collect the informa
 
 FindSomeone may collect data on your current geographical location to support the Who's Near Me feature. This data is only collected upon your authorisation and if your mobile device supports location-based services. Your authorisation can be revoked and your location data deleted at any time via the [authorisation page](http://m.findsomeone.co.nz/nearme/terms) on the mobile site. 
 
+  7. FindSomeone and Facebook
+
+You can access your Facebook information through FindSomeone. This may include logging in to FindSomeone with your Facebook credentials or importing your Facebook profile information and photos into your FindSomeone profile. 
+
+FindSomeone will not access your information from Facebook without your express permission. However, when you grant permission you are authorising FindSomeone to collect, store, retain and use indefinitely, any and all information that you agreed Facebook could provide to FindSomeone through the Facebook application programming interface. 
+
+If you no longer wish to use Facebook in conjunction with FindSomeone, you can remove our access through your Facebook account, or [ contact us](https://web.archive.org/contactform.aspx) for more information. 
+
 
 
 
@@ -78,7 +86,7 @@ We will not disclose your email address to other members of FindSomeone. In the 
 
 We use your email address to allow us to operate our services. This includes sending you emails relating to our services, notifications of messages from other members and other related communication. 
 
-We have a policy of enabling you to control the emails you receive and to opt-out of particular types of messages at any time. You can also change your notification settings through the [Options](https://web.archive.org/member/editoptions.aspx) page. 
+We have a policy of enabling you to control the emails you receive and to opt-out of particular types of messages at any time. You can also change your notification settings through the [Options](https://web.archive.org/member/options/email/) page. 
 
 ### Control of your password
 
@@ -104,7 +112,7 @@ FindSomeone contains non-advertising links to a variety of third party sites to 
 
 In some cases, third party advertisers may also use cookies in certain advertisements that appear on the website for advertising purposes.
 
-FindSomeone also uses Google's DoubleClick services to deliver display advertisements intended to be relevant to your interests, based on the information you have provided to us through the use of any of our Services. We do not provide your personal information to Google. 
+FindSomeone also uses the services of SAS to deliver display advertisements intended to be relevant to your interests, based on the information you have provided to us through the use of any of our Services. 
 
 ### Nielsen Online - NZ internet statistics
 
