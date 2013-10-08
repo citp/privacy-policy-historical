@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the wsiworld.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018010022id_/http%3A//www.wsiworld.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsiworld.com privacy policy that was archived on 2013-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131008174617id_/http%3A//www.wsiworld.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Digital Solutions Provider And SEO Marketing Company | WSI Digital Marketing > Privacy
+
+#### Privacy
+
+## WSI's Official Privacy Statement
 
 WSI is committed to protecting your privacy. This privacy statement explains data collection and use practices of wsiworld.com site (the "Site"); it does not apply to offline products or services. By accessing the Site, you are consenting to the information collection and use practices described in this privacy statement.
 
@@ -16,7 +20,7 @@ Personal information is any information that identifies you, or by which your id
 
 The information requested on this Site is required to process your request for more information about our company, services and products. Access to this information will be restricted to WSI employees, administrators or WSI Internet Franchise Consultants who are responsible for the marketing and administration of WSI services. Your consent to the use of personal information to offer you products and services is optional, and if you wish to discontinue such use, contact us electronically or write to:
 
-Privacy Officer, WSI   
+Privacy Officer, WSI   
 1660 Tech Avenue, Unit 2  
 Mississauga, Ontario  
 Canada, L4W 5S9
@@ -29,28 +33,28 @@ The personal information collected on this Site will be used to operate the Site
 
 Except as otherwise described in this statement, personal information you provide on the Site will not be shared outside of WSI employees, administrators or WSI Internet Franchise Consultants who are responsible for the marketing and administration of WSI services without your permission. As described below in the next section, you can access your personal information.
 
-## How do I access my personal information?
+### How do I access my personal information?
 
 If you wish to access your personal information, click here or write to:
 
-Privacy Officer, WSI   
+Privacy Officer, WSI   
 1660 Tech Avenue, Unit 2  
 Mississauga, Ontario  
 Canada, L4W 5S9
 
-## How does WSI protect the security of my personal information?
+### How does WSI protect the security of my personal information?
 
 WSI is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer servers with limited access that are located in controlled facilities.
 
-## How can I provide comments on your privacy statement?
+### How can I provide comments on your privacy statement?
 
 WSI welcomes your comments regarding this privacy statement. If you believe that WSI has not adhered to this privacy statement, please contact us electronically or via postal mail at the address provided below, and we will use commercially reasonable efforts to promptly determine and remedy the problem.
 
-Privacy Officer, WSI   
+Privacy Officer, WSI   
 1660 Tech Avenue, Unit 2  
 Mississauga, Ontario  
 Canada, L4W 5S9
 
-## Opt-Out Option
+### Opt-Out Option
 
-You may have your personal/contact information removed from our databases. You can contact us directly via our Contact Us form to make this request.
+You may have your personal/contact information removed from our databases. You can contact us directly via our [Contact Us form](https://web.archive.org/contact-us) to make this request. 
