@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rubios.com privacy policy that was archived on 2013-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130406121145id_/http%3A//www.rubios.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rubios.com privacy policy that was archived on 2013-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131008081508id_/http%3A//www.rubios.com/privacy%3Frubios_com_018%3Da84pr2rfs8k4dupttkd0lq96s6%26rubios_com_018%3Da84pr2rfs8k4dupttkd0lq96s6) for the most accurate reproduction.*
 
 # Mexican Restaurant | Rubio's | Privacy Policy
 
@@ -81,5 +81,5 @@ Rubio's Fresh Mexican Grill.
 1902 Wright Place, Suite #300  
 Carlsbad, CA 92008
 
-We may also be reached via [**e-mail**](https://web.archive.org/comments/contactus).  
+We may also be reached via [**e-mail**](https://web.archive.org/comments/contactus?rubios_com_018=a84pr2rfs8k4dupttkd0lq96s6).  
 Or, you may reach us by telephone, toll-free at 1-800-354-4199.
