@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the c-sharpcorner.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602042541id_/http%3A//www.c-sharpcorner.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the c-sharpcorner.com privacy policy that was archived on 2013-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131009213939id_/http%3A//www.c-sharpcorner.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Mindcracker Network - Privacy Policy
+# C# Corner : Privacy Policy
 
 C# Corner (We, Website, Us) is a community of developers, programmers and IT professionals. We recognize our users and members as our biggest asset, strive to provide them a quality service and are committed to respect their personal information and protecting it from any harm.   
 
@@ -25,7 +25,7 @@ Links to third party web sites are provided solely as a convenience to you. If y
 
 #####  Use of Cookies 
 
-A cookie is a piece of text asking permission to be placed on your computer's hard drive. If you agree, we may use cookies to store your login credentials and other small information such as user Id and password. Mindcracker wants to ensure that you understand that accepting a cookie in no way gives us access to your computer or any personal information about you, other than the data we store on your machine. This practice is strictly enforced. We are aware that a lot of people have concerns about cookies, but we believe that the benefit we both gain from their proper use is worthwhile. We value the relationships we have with our customers, so we respect these concerns. 
+A cookie is a piece of text asking permission to be placed on your computer's hard drive. If you agree, we may use cookies to store your login credentials and other small information such as user Id and password. C# Corner wants to ensure that you understand that accepting a cookie in no way gives us access to your computer or any personal information about you, other than the data we store on your machine. This practice is strictly enforced. We are aware that a lot of people have concerns about cookies, but we believe that the benefit we both gain from their proper use is worthwhile. We value the relationships we have with our customers, so we respect these concerns. 
 
 #####  Privacy Policy Changes 
 
