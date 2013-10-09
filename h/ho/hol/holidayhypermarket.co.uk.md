@@ -1,51 +1,71 @@
-> *The following text is extracted and transformed from the holidayhypermarket.co.uk privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425102926id_/http%3A//www.holidayhypermarket.co.uk/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidayhypermarket.co.uk privacy policy that was archived on 2013-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131009222744id_/http%3A//www.holidayhypermarket.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Holiday Hypermarket Privacy Policy
 
-## What does Holiday Hypermarket do with the information collected?
+TUI UK & I Limited´s Privacy Policy sets out what information we collect, how we collect it, and what we do with it. Our Privacy Policy applies to you and is available on our website and through other channels. In all your dealings with us you must ensure that others you represent are aware of the content of our Privacy Policy and consent to your acting on their behalf.
 
-When you browse the site, we do not collect personal information about you. The only way we can collect any kind of personal information is if you give it to us. 
+## INFORMATION ABOUT YOU
 
-To book a flight or holiday with us, we will need to collect information about you to deal with your booking as smoothly as possible. This information may include such details as your name, your address and your credit card details. We disclose your information to third parties only for the purpose of completing your transaction with us, providing the above services to you and for the purposes of associated administration and obtaining professional advice
+## Your Information 
 
-Holiday Hypermarket may use the information provided by you to contact you about your holiday.
+This refers to a combination of information such as your name, contact details, travel preferences and special needs/disabilities/dietary requirements that you supply us or is supplied to us, including your social preferences, interests and activities and any information about other persons you represent (such as those on your booking). Your information is collected when you request information from us, contact us (and vice versa), make a booking, use our website(s)/apps, link to or from our website(s)/apps, connect with us via social media and any other engagement we or our business partners have with you.
 
-Holiday Hypermarket may also use this information to contact you with details of other products and services offered by other TUI Travel Plc companies, or which are available to First Choice customers from its selected trading partners. Additionally, Holiday Hypermarket may also send your information to its selected trading partners and other third parties so that they may contact you to let you know of both travel and non-travel related products and services.
+We will update your information whenever we can to keep it current, accurate and complete. 
 
-If you would prefer your information not to be used in this way, please could you inform us at the time of booking, or thereafter.
+## Our Use of Your Information 
 
-When you view our site by linking from another web page we may store the name of that web page for purposes of internal administration. Also please note that any contact with Holiday Hypermarket, either online or by telephone, may be recorded for training and monitoring purposes..
+(1) For the purpose of providing you with our services, including your flight, holiday, security, incident/accident management or insurance, etc., we may disclose and process your information outside the UK/EEA. In order for you to travel abroad, it may be mandatory (as required by government authorities at the point(s) of departure and/or destination) to disclose and process your information for immigration, border control, security and anti-terrorism purposes, or any other purposes which they determine appropriate. Some countries will only permit travel if you provide your advance passenger data (for example Caricom API and US secure flight data). These requirements may differ depending on your destination and you are advised to check. Even if not mandatory, we may exercise our discretion to assist where appropriate. 
 
-## Where is my personal information stored?
+(2) We may collect and process your information for the purposes set out below and in our registration with the Office of the Information Commissioner, and disclose the same to our group companies for business purposes and also to companies and our service providers who act as "data processors" on our behalf, or to credit and fraud agencies (some of whom are located outside the UK/EEA). These purposes include administration, service, quality and improvement-related activities, customer care, product innovation and choice, business management, operation and efficiencies, re-organisation/structuring/sale of our business (or group companies), risk assessment/management, security, fraud and crime prevention/detection, monitoring, research and analysis, social media, reviews, advertising and marketing, loyalty programmes, profiling customer purchasing preferences, activities and trends, dispute resolution/litigation, credit checking and debt collection.
 
-All personal information is stored in secure databases at secure addresses to prevent unauthorized access.
+(3) Information (such as health or religion) may be considered "sensitive personal data" under the Data Protection Act 1998. We collect it to provide you with our services cater to your needs or act in your interest, and we are only prepared to accept sensitive personal data on the condition that we have your positive consent. By booking with us you also agree for your insurers, their agents and medical staff to exchange relevant information and sensitive personal data with us in circumstances where we/they need to act on your behalf or in the interest of passengers or in an emergency.
 
-## What is a 'cookie'?
+If you do not agree to Our Use of Your Information above, we cannot engage/do business with you or accept your booking.
 
-Cookies are small files which are sent to your browser (for example Internet Explorer or Netscape) and stored on your computer's hard disk. They only identify your computer and not you personally.
+## Marketing Material 
 
-## How does Holiday Hypermarket/First Choice use cookies?
+(1) Using your information, we may from time to time contact you with or make available to you (directly or indirectly) information on offers of goods and services, brochures, new products, forthcoming events or competitions from our holiday divisions and our group companies. We will tailor the information you receive or see; this will enable us to make available to you more personalised and relevant communications. We may use innovative technologies and work with business partners to achieve this.
 
-Cookies help speed up the booking process so that you do not need to re-type the same information again and again. We use cookies to measure site usage such as entry and exit points of visitors, how many people visit a certain section or page and details of searches performed and related information. If you are making a purchase we will also use cookies to keep track of the transaction from one page to the next. Other than this, we do not store your password or any other information in the cookie, or use it for any other purpose.
+(2) We will assume you agree to e-communications when you make an e-booking or provide us with your email in other situations such as in-store, competitions, promotions, prize draws and social media.
 
-## How will I know if you change this privacy policy?
+(3) You may indicate your preference regarding receiving third party marketing material and contact. If you agree, you will establish new relationships with these third parties and deal with them directly. 
 
-Any changes to the Privacy Policy will be made to this page. Your continued use of this site will constitute your agreement to the changed Terms And Conditions of using this site.
+(4) If you do not wish to receive such information or would like to change your preference, please refer to point (2) of "Your Rights" below. 
 
-## What about the other sites you link to?
+## Your Rights 
 
-Holiday Hypermarket, First Choice Holidays, TUI Travel Plc, its employees, contractors, agents, and owners are not responsible for the privacy policies or content of any websites which it may link to. Also ABTA protection does not apply to any non-member ABTA websites to which we link.
+(1) On completing our Data Subject Access Request form, you are entitled to a copy of the information we hold about you (for a £10 fee) and to correct any inaccuracies.
 
-## Data Protection information
+(2) You have the right to ask in writing not to receive direct marketing material from us. If available, you can amend your previous preference on our website(s), use our "unsubscribe email", opt-out of personalised emails or refer to our literature containing instructions. Once properly notified by you, we will take steps to stop using your information in this way.
 
-In the UK we operate and are registered in accordance with applicable data protection legislation. We take full responsibility for ensuring that proper security measures are in place to protect your information. We must pass the information on to the relevant suppliers of your travel arrangements such as airlines, Hotels, transport companies etc. The information may also be provided to security or credit checking companies, public authorities such as customs/immigration if required by them, or as required by law.
+## Foreign Controls 
 
-With effect from the 5th March 2003 the US and UK government, customs and immigration authorities will require access to passenger information by airlines. Other countries may follow in future. Please be aware that any of your information held by the airlines will be available to the authorities.
+Outside the European Economic Area (EEA), data protection controls may not be as strong as the legal requirements in this country.
 
-Additionally, where your holiday is outside the European Economic Area (EEA), controls on data protection in your destination may not be as strong as the legal requirements in this country. We will not however, pass any information onto any person not responsible for part of your travel arrangements. This applies to any sensitive information that you give to us such as details of any disabilities, or dietary/religious requirements. (If we cannot pass this information to the relevant suppliers, whether in the EEA or not, we cannot provide your booking. In making this booking, you consent to this information being passed onto the relevant persons).
+## USE OF TOOLS/"COOKIES" AND LINKS TO OTHER WEBSITES
 
-You are entitled to a copy of the information held by us. If you would like to see this please contact us. We may make a small charge for this..
+If our contact and dealing with you is via our website(s) or other e-platforms where our advertising is displayed, cookies may be used. To find out more about the types of cookies on our website(s), how we use cookies, to disable them or to change your preference and more, please refer to the information provided on our website(s). Other e-platforms may have different options and instructions. By using our website(s), you consent to our use of [cookies](http://www.holidayhypermarket.co.uk/cookie).
 
-## Consent information
+Our website(s) may contain links to third party websites or micro-sites not controlled or owned by us. For example, reference sites or ancillary products and services sites or websites owned by our sister companies. It is your responsibility to check the status of these sites before using them. Please read their applicable terms and conditions, etc. carefully.
 
-By disclosing your personal information to us using this website or over the telephone, you consent to the collection, storage and processing of your personal information by TUI Travel Plc as stated in this Privacy Policy.
+## Monitoring
+
+To ensure that we carry out your instructions accurately, improve our service and for security and fraud, we may review, monitor and/or record: (1) telephone calls; (2) transactions and activities at all points of contact; and (3) web, social media and app traffic, activities, etc. All recordings and derivative materials are and shall remain our sole property.
+
+## Security Statement
+
+We have taken all reasonable steps and have in place appropriate security measures to protect your information.
+
+## Changes to this Policy
+
+Any changes to this Policy will be either posted on our website and/or made available on request.
+
+Privacy Policy: v July 2013
+
+## Data Notices:-
+
+-Customer Data: To provide your holiday and ensure that it runs smoothly, we need to use information such as your name and address, special needs, dietary requirements, etc. Please be informed that we must pass it to suppliers of your travel arrangements, including airlines, hotels and transport companies; we may also supply it to security or credit checking companies, and to public authorities such as customs and immigration. When you make this booking, you consent to this information being passed to the relevant people. Information held by your tour operator is subject to that company's own data protection policy.
+
+-Caricom API Data: Please note that some or all of the Caricom states listed below have entered into an agreement with the USA whereby advance passenger data, required by and provided to Caricom states for border security purposes, will be passed to the USA Department for Homeland Security for processing on behalf of those Caricom states listed as follows: Anguilla, Antigua and Barbuda, The Bahamas, Barbados, Belize, Bermuda, British Virgin Islands, Cayman Islands, Dominica, Grenada, Guyana, Haiti, Jamaica, Montserrat, Saint Lucia, St Kitts and Nevis, St Vincent and the Grenadines, Surinam, Trinidad and Tobago, Turks and Caicos Islands. Collectively members or associate members of ´Caricom´. The UK Information Commissioner's Office has accepted that this will not breach the Data Protection Act but that we are required to bring this to your attention.
+
+-US Secure flight Data: The Transportation Security Administration (TSA) requires you to provide your full name, date of birth ,and gender for the purpose of watch list screening, under the authority of 49 U.S.C. section 114, the Intelligence Reform and Terrorism Prevention Act of 2004 and 49 C.F.R parts 1540 and 1560. You may also provide your Redress Number, if available. Failure to provide your full name, date of birth, and gender may result in denial of transport or denial of authority to enter the boarding area. TSA may share information you provide with law enforcement or intelligence agencies or others under its published system of records notice. For more on TSA privacy policies, or to review the system of records notice and the privacy impact assessment, please see the TSA Web site at www.tsa.gov.
