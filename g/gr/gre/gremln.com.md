@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the gremln.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010075812id_/http%3A//gremln.com/UserPages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gremln.com privacy policy that was archived on 2013-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131009055657id_/http%3A//www.gremln.com/UserPages/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Gremlin | Gremln.com - Social Media for Small Business
+
+## Privacy Policy
 
 #### General Guidelines for Information Collection and Use:
 
