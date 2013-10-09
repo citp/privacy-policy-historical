@@ -1,6 +1,22 @@
-> *The following text is extracted and transformed from the nsaneforums.com privacy policy that was archived on 2013-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130121124301id_/http%3A//www.nsaneforums.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nsaneforums.com privacy policy that was archived on 2013-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131009224536id_/http%3A//www.nsaneforums.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - nsane.forums
+
+  
+
+
+Welcome to nsane.forums, like most online communities you need to register to view parts of our community or to make contributions, but don't worry: this is a free and simple process that requires minimal information. Be a part of nsane.forums by [signing in](http://www.nsaneforums.com/index.php?app=core&module=global&section=login) or [creating an account](http://www.nsaneforums.com/index.php?app=core&module=global&section=register).
+
+  * Access special members only forums
+  * Start new topics and reply to others
+  * Subscribe to topics and forums to get automatic updates
+
+
+
+ 
+
+  
+
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available in our footer and at every point where personally identifiable information may be requested.
 
