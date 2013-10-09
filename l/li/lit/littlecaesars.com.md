@@ -1,16 +1,13 @@
-> *The following text is extracted and transformed from the littlecaesars.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919194208id_/http%3A//www.littlecaesars.com/includes/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littlecaesars.com privacy policy that was archived on 2013-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131009082414id_/http%3A//littlecaesars.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Little Caesars Pizza
+# Little Caesars > Privacy Policy
 
-| 
-
-**LITTLE CAESARS PRIVACY POLICY**  
   
 Effective Date: February 3, 2012 
 
 Welcome! Welcome! This is Little Caesar Enterprises, Inc.’s (“ **Little Caesars** ” “ **our** ” “ **we** ” “ **us** ”) Privacy Policy (“ **Privacy Policy** ”) which applies to our family of websites, mobile sites, interactive features, applications and downloads that are operated by us and available through our websites and post this Privacy Policy (collectively “ **Sites** ”) whether you access the Sites via personal computers, mobile devices, tablets, or other technology (each a “ **Device** ”). We have established this Privacy Policy to let you know the kinds of personal information we may gather during your visit to our Sites, what we use your personal information for, when we might disclose your personal information, and how you can manage your personal information. 
 
-This Privacy Policy does not cover any information we may collect at other websites, that our local franchisees may collect at franchisee-owned websites, or offline by us (unless we specifically provide otherwise). Please also review our **[Terms of Use](http://www.littlecaesars.com/termsofuse.asp)** , which governs your use of the Sites and any content you submit to the Sites.
+This Privacy Policy does not cover any information we may collect at other websites, that our local franchisees may collect at franchisee-owned websites, or offline by us (unless we specifically provide otherwise). Please also review our[ ****](https://web.archive.org/TermsofUse.aspx)********[**Terms of Use** ,](https://web.archive.org/TermsofUse.aspx) which governs your use of the Sites and any content you submit to the Sites.
 
 **  
 Table of Contents**
@@ -40,7 +37,7 @@ Table of Contents**
 
 **c. Device Identifiers**. We automatically collect your IP address or other unique identifier (“ **Device Identifier** ”) for your Device used to access our Sites. A Device Identifier is a number that is automatically assigned to your Device used to access the Sites, and our computers identify your Device by its Device Identifier. Some mobile service providers may also provide us or other third party service providers with information regarding the physical location of the Device used to access the Sites.
 
-_top of page_
+top of page
 
   
 **2\. TECHNOLOGY USED ON OUR SITES**
@@ -51,14 +48,14 @@ _top of page_
 
 **c. Embedded Script.** We may use embedded script which is programming code that is designed to collect information about your interactions with the Sites, such as the links on which you click. The code is temporarily downloaded onto your Device from our web server or a third party service provider, is active only while you are connected to the Sites, and is deactivated or deleted thereafter.
 
- _top of page_
+top of page
 
   
 **3\. INFORMATION WE RECEIVE FROM THIRD PARTIES ABOUT YOU**
 
 We may supplement the information we collect about you on the Sites with outside records from third parties, such as leads received from franchisee referral websites, in order to enhance our ability to serve you, to tailor our content to you and to offer you opportunities to purchase products or services that we believe may be of interest to you. We may combine the information we receive from those sources with information we collect through the Sites. In those cases, we will apply this Privacy Policy to any Personal Information received, unless we have disclosed otherwise. 
 
-_top of page_
+top of page
 
   
 **4\. HOW USE THE INFORMATION COLLECTED ON THE SITES**
@@ -69,8 +66,8 @@ b. We may use information collected through our Sites, including Personal Inform
 
 Please note that information submitted to the Sites via a “contact us” or other similar function may not receive a response. 
 
-_  
-top of page_
+  
+top of page
 
   
 **5\. WHEN AND WHY WE MAY DISCLOSE INFORMATION TO THIRD PARTIES**
@@ -81,7 +78,7 @@ b. Third Parties Providing Services On Our Behalf.** We may use third parties, p
 
 **c. Sweepstakes and Contests.** If you choose to enter a sweepstakes or contest offered on our Sites, we may disclose Personal Information to third parties or the public in connection with the administration of such contest or sweepstakes, including, without limitation, in connection with winner selection, prize fulfillment, and as required by law or permitted by the official rules, such as on a winners’ list. 
 
-**d. Administrative and Legal Reasons.** We may transfer and disclose your information, including Personal Information, Anonymous Information and Demographic Information, to third parties: (i) in the event we are required to respond to subpoenas or other legal process or if in our opinion such disclosure is required by law; (ii) at the request of governmental authorities conducting an investigation; (iii) to protect and/or defend the Sites’ **[_Terms of Use_](http://www.littlecaesars.com/termsofuse.asp)** or other policies applicable to the Sites; or (iv) to protect the personal safety, rights, property or security of any individual. We may also use IP Address or other Device Identifiers to identify users, and may do so in cooperation with copyright owners, internet service providers, wireless service providers or law enforcement agencies in our discretion. Such disclosures may be carried out without notice to you. 
+**d. Administrative and Legal Reasons.** We may transfer and disclose your information, including Personal Information, Anonymous Information and Demographic Information, to third parties: (i) in the event we are required to respond to subpoenas or other legal process or if in our opinion such disclosure is required by law; (ii) at the request of governmental authorities conducting an investigation; (iii) to protect and/or defend the Sites’ **[Terms of Use](https://web.archive.org/TermsofUse.aspx)** or other policies applicable to the Sites; or (iv) to protect the personal safety, rights, property or security of any individual. We may also use IP Address or other Device Identifiers to identify users, and may do so in cooperation with copyright owners, internet service providers, wireless service providers or law enforcement agencies in our discretion. Such disclosures may be carried out without notice to you. 
 
 **e. Business Transfer.** We may share Personal Information and Demographic Information with our franchisees, and our affiliated and related entities for internal business purposes. We also reserves the right to disclose and transfer all information related to the Sites, including, without limitation, your Personal Information and Demographic Information and Anonymous Information: (i) to a subsequent owner, co-owner or operator of the Sites or applicable database; or (ii) in connection with a corporate merger, consolidation, restructuring, the sale of substantially all of Little Caesar’s stock and/or assets or other corporate change, including, without limitation, during the course of any due diligence process.
 
@@ -90,7 +87,7 @@ b. Third Parties Providing Services On Our Behalf.** We may use third parties, p
 
 The Sites may provide message boards, comment areas and other “public” forums for sharing information or discussing various topics (collectively, “ **User Forums** ”). Please remember that any information you share in User Forums becomes public, and therefore this Privacy Policy does not apply to any information you choose to make public. Please be careful about what you disclose and do not post any Personal Information that you expect to keep private.
 
-_top of page_
+top of page
 
   
 **7\. COMMUNICATIONS; UNSUBSCRIBE**
@@ -102,30 +99,29 @@ _top of page_
 
 The Sites may include links to other web sites that are operated and controlled by third parties (“ **Third-Party Site** ”). These Third-Party Sites may collect their own Anonymous Information or solicit and collect Personal Information. Little Caesars is not responsible for the practices or content of any Third-Party Site. The Sites may also allow certain interactions between the Sites and your account on a Third-Party Site. The use of this functionality may involve the Third-Party Site providing certain information, including Personal Information, to the Sites.
 
-_top of page_
+top of page
 
   
 **9\. VISITORS RESIDING OUTSIDE THE UNITED STATES AND CONSENT TO TRANSFER  
 **
 
-Visitors who use the Sites and reside outside the United States do so on their own initiative and are responsible for compliance with local laws, if and to the extent local laws are applicable.  If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that any information you provide to us will be transferred to the United States.  By using the Sites or providing us with your information, you fully understand and clearly and intentionally consent to this Privacy Policy and to the collection, storage, and processing of such information in the United States.  
+Visitors who use the Sites and reside outside the United States do so on their own initiative and are responsible for compliance with local laws, if and to the extent local laws are applicable.  If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that any information you provide to us will be transferred to the United States.  By using the Sites or providing us with your information, you fully understand and clearly and intentionally consent to this Privacy Policy and to the collection, storage, and processing of such information in the United States.
 
-
-_top of page_
+top of page
 
   
 **10\. WHAT PARENTS SHOULD KNOW ABOUT CHILDREN**
 
 The Sites are general audience web sites and we do not knowingly collect any Personal Information from children younger than the age of thirteen (13). We will delete any Personal Information collected that we later determine to be from a user younger than the age of thirteen (13). Note that our Sites may feature a kids section where children can participate in games and activities without the collection of Personal Information.
 
- _top of page_
+top of page
 
   
 **11\. OUR SECURITY**
 
 We incorporate commercially reasonable safeguards to help protect and secure your Personal Information. However, no data transmission over the Internet, wireless transmission or electronic storage of information can be guaranteed to be 100% secure. Please note that we cannot ensure or warrant the security of any information you transmit to us, and you use our Sites and provide us with your information at your own risk. 
 
-_top of page_
+top of page
 
 **  
 12\. CHANGES TO THE PRIVACY POLICY**
@@ -135,8 +131,6 @@ We reserve the right to change this Privacy Policy at any time without notice to
 **  
 13\. CONTACT US**
 
-If you have any questions, comments or concerns about this Privacy Policy, please use the form on our **[_Contact Us_](http://www.littlecaesars.com/customer_service/customer_service.asp)** page at www.littlecaesars.com. 
+If you have any questions, comments or concerns about this Privacy Policy, please use the form on our **[Contact Us](https://web.archive.org/ContactUs.aspx)** page at www.littlecaesars.com. 
 
-_top of page_
-
-| 
+top of page
