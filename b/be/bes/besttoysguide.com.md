@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the besttoysguide.com privacy policy that was archived on 2013-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130408010159id_/http%3A//besttoysguide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the besttoysguide.com privacy policy that was archived on 2013-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131009203405id_/http%3A//besttoysguide.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
