@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monitis.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512065107id_/http%3A//portal.monitis.com/guides/privacy-cookies-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monitis.com privacy policy that was archived on 2013-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131009123742id_/http%3A//www.monitis.com/privacy-cookies-policy.html) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy
 
@@ -104,7 +104,7 @@ The information we collect is merely statistical data about our users' equipment
 
 ### User Contributions
 
-You are responsible for any content, including personal information, that you contribute to be posted, published or displayed on the Website, or transmit to other users of the Website (collectively, "User Contributions"). Your User Contributions are posted on and transmitted to other users of the Website at your own risk. Although we limit access to certain pages, you may set certain privacy settings for such information by logging into your account profile, please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of other users of the Website with whom you may choose to share your User Contributions; therefore, we cannot guarantee who will view your User Contributions. We are not responsible for circumvention by third parties of any privacy settings or security measures contained on the Website. You understand and acknowledge that, even after removal, copies of your User Contributions may remain viewable in cached and archived pages, or may have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Contributions, is governed by this Privacy Policy and our Terms of Use and known or suspected violations should be reported to privacy@monitis.com.
+You are responsible for any content, including personal information, that you contribute to be posted, published or displayed on the Website, or transmit to other users of the Website (collectively, "User Contributions"). Your User Contributions are posted on and transmitted to other users of the Website at your own risk. Although we limit access to certain pages, you may set certain privacy settings for such information by logging into your account profile, please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of other users of the Website with whom you may choose to share your User Contributions; therefore, we cannot guarantee who will view your User Contributions. We are not responsible for circumvention by third parties of any privacy settings or security measures contained on the Website. You understand and acknowledge that, even after removal, copies of your User Contributions may remain viewable in cached and archived pages, or may have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Contributions, is governed by this Privacy Policy and our Terms of Use and known or suspected violations should be reported to privacy@gfi.com.
 
 ### Disclosure of your information
 
@@ -147,11 +147,11 @@ The safety and security of your information also depends on you. Where we have g
 
 ### Your rights
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at privacy@monitis.com. Our Website may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites. 
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at privacy@gfi.com. Our Website may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites. 
 
 ### Your California privacy rights
 
-California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to privacy@monitis.com.
+California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to privacy@gfi.com.
 
 ### Access to information
 
@@ -164,4 +164,4 @@ It is our policy to post any changes we make to our privacy policy on this page.
 ### Contact information
 
 To ask questions or comment about this privacy policy and our privacy practices, contact us at:  
-info@monitis.com. 
+help@monitis.com. 
