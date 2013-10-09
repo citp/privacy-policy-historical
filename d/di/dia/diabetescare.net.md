@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diabetescare.net privacy policy that was archived on 2013-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130119073847id_/http%3A//www.diabetescare.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diabetescare.net privacy policy that was archived on 2013-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131009210323id_/http%3A//www.diabetescare.net/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy -
 
@@ -26,7 +26,7 @@ Any personally identifiable information you enter in a user profile will be open
 
 Choice
 
-You may decline participation in any activity that asks for information (i.e., tools, logs, journals, emails). Your choice to not participate will have no effect on your ability to view information on the main part of the site. In order to access certain parts of our site, including but not limited to MyCare Tools, Forums, and our newsletter service, [users must first register](http://diabetescare.net/forum/registration_rules.asp?FID=0). 
+You may decline participation in any activity that asks for information (i.e., tools, logs, journals, emails). Your choice to not participate will have no effect on your ability to view information on the main part of the site. In order to access certain parts of our site, including but not limited to MyCare Tools, Forums, and our newsletter service, [users must first register.](http://www.diabetescare.net/Register/)
 
 If you supply us with your postal address on-line, you may receive occasional mailings from us with information on products and services or upcoming events. During the registration process, you will have the opportunity to choose to receive information by e-mail, postal mail, or both. If you do not want to receive such mailings or e-mail from us in the future, please let us know by deselecting the appropriate box when you register or by clicking on My Profile. You may also send an e-mail with "unsubscribe" in the subject to [contact@DiabetesCare.net](mailto:contact@DiabetesCare.net) stating that you no longer wish to receive e-mails and/or postal mail from DiabetesCare.net. 
 
