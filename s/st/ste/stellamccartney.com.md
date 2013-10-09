@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stellamccartney.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501063823id_/http%3A//www.stellamccartney.com/cms/legal/privacypolicy.asp%3Ftskay%3D8D665676) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stellamccartney.com privacy policy that was archived on 2013-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131009130258id_/http%3A//www.stellamccartney.com/cms/legal/privacypolicy.asp%3Ftskay%3D8D665676) for the most accurate reproduction.*
 
 # Stella McCartney Online Store - Legal Area
 
@@ -8,17 +8,17 @@ This Privacy Policy applies when you visit or surf the Site without purchasing a
 
 Since personal data (“ **Personal Data** ”) of users and customers (collectively " **Users** ") of this Site may be processed in the European Union, notably in Italy, any processing of Personal Data will be conducted in compliance with applicable Governing Laws. 
 
-Your personal data are collected and processed by Stella McCartney Ltd (hereinafter Stella McCartney) and the companies of PPR Group, as well as by their service providers located within and outside of the European Union (collectively " **us** ", " **we** ", " **our** "). Stella McCartney Ltd has its registered offices in Chalegrove House, 34-36 Perrymount Road, Haywards Heath, West Sussex RH16 3DN, UK - Company Number: 04169969 and may be contacted at privacypolicy@stellamccartney.com for any issue relating to this privacy policy. 
+Your personal data are collected and processed by Stella McCartney Ltd (hereinafter Stella McCartney) and the companies of Kering Group, as well as by their service providers located within and outside of the European Union (collectively " **us** ", " **we** ", " **our** "). Stella McCartney Ltd has its registered offices in Chalegrove House, 34-36 Perrymount Road, Haywards Heath, West Sussex RH16 3DN, UK - Company Number: 04169969 and may be contacted at privacypolicy@stellamccartney.com for any issue relating to this privacy policy. 
 
-Your Personal Data will be processed to provide the services you subscribed to or reserved for registered users, to facilitate your navigation of and shopping from the website and to keep you informed of PPR Group news and offers. 
+Your Personal Data will be processed to provide the services you subscribed to or reserved for registered users, to facilitate your navigation of and shopping from the website and to keep you informed of Kering Group news and offers. 
 
-Stella McCartney Ltd and the companies of PPR Group are jointly controllers of Personal Data collected and processed for purpose of rendering the e-commerce services and the sale of products (herein the " **E-Commerce Purposes** ") through the Site, together with YOOX S.p.A. with registered offices in Via Nannetti 1, 40069 Zola Predosa (BO), Italy, Bologna Business Register, Tax and VAT number 02050461207, share capital Euro 574.301,00 fully paid up. 
+Stella McCartney Ltd and the companies of Kering Group are jointly controllers of Personal Data collected and processed for purpose of rendering the e-commerce services and the sale of products (herein the " **E-Commerce Purposes** ") through the Site, together with YOOX S.p.A. with registered offices in Via Nannetti 1, 40069 Zola Predosa (BO), Italy, Bologna Business Register, Tax and VAT number 02050461207, share capital Euro 579,373.60 fully paid up. 
 
-The management of the sale of the products and the transactions performed on www.stellamccartney.com, within the United States of America are operated, under license, by YOOX S.p.A.’ s subsidiary YOOX Corporation, a Delaware corporation having an address at 122 Hudson Street, 5th Floor, New York, New York 10013 ("YOOX USA", YOOX S.p.A. and YOOX USA also jointly referred to as YOOX). 
+The management of the sale of the products and the transactions performed on www.stellamccartney.com, within the United States of America are operated, under license, by YOOX S.p.A.’ s subsidiary YOOX Corporation, a Delaware corporation having an address at 148 Lafayette Street, 10th Floor, New York, New York 10013 ("YOOX USA", YOOX S.p.A. and YOOX USA also jointly referred to as YOOX). 
 
 YOOX USA is the controller of personal data of users and customers of the Site within the United States of America, which is collected for conducting, concluding and performing transactions for purchasing products on the aforementioned site. As required by the Italian Data Protection Code, YOOX USA has appointed YOOX S.p.A. as its data protection representative in Italy. As our data protection representative in Italy, YOOX S.p.A. ensures that personal data are processed in Italy in a correct and lawful manner and in accordance with good practice. Since personal data of users and customers collected for conducting, concluding and performing purchase transactions through the Site in the United States of America may be processed in Italy, any such processing of personal data will be conducted in compliance with applicable US law as well as the Italian Data Protection Code (Legislative Decree no. 196 dated June 30, 2003). 
 
-Stella McCartney Ltd and the companies of PPR Group are the sole data controllers of the Personal Data processed for marketing purposes, notably to send to Users, also through newsletter, information and updates on its products, offers, exclusive sales, promotional campaigns and on events and similar initiatives organized by Stella McCartney Ltd or the companies of PPR Group (herein the " **Marketing Purposes** "). 
+Stella McCartney Ltd and the companies of Kering Group are the sole data controllers of the Personal Data processed for marketing purposes, notably to send to Users, also through newsletter, information and updates on its products, offers, exclusive sales, promotional campaigns and on events and similar initiatives organized by Stella McCartney Ltd or the companies of Kering Group (herein the " **Marketing Purposes** "). 
 
 **  
 1\. Our Policy**
@@ -30,7 +30,7 @@ This Privacy Policy provides you with all information needed to understand how w
 **  
 2\. Who collects and processes Your Personal Data, how and for which purposes?**
 
-YOOX, Stella McCartney Ltd and the companies of PPR Group may be jointly or respectively the controllers of your Personal Data as they determine the E-Commerce Purposes and means of processing Personal Data. For the E-Commerce Purposes only, YOOX and Stella McCartney have appointed certain entities that will also process Personal Data relating to the Site’s Users (herein the " **Processors** "). 
+YOOX, Stella McCartney Ltd and the companies of Kering Group may be jointly or respectively the controllers of your Personal Data as they determine the E-Commerce Purposes and means of processing Personal Data. For the E-Commerce Purposes only, YOOX and Stella McCartney have appointed certain entities that will also process Personal Data relating to the Site’s Users (herein the " **Processors** "). 
 
 The above mentioned service providers and Processors have been chosen because of their experience in processing Personal Data and they provide sufficient safeguards regarding compliance with data protection laws (including the technical security measures governing the processing to be carried out). In processing the Personal Data for E-Commerce Purposes, the Processors shall act only under the instructions from YOOX or from Stella McCartney Ltd. We regularly check that our Processors comply with our instructions and that they continue to provide sufficient guarantees regarding their full compliance with the provisions on Personal Data processing. 
 
@@ -64,13 +64,13 @@ Disclosure of further Personal Data to us and YOOX other than that required for 
 
 Personal Data will be disclosed to third party companies that provide, on behalf of Stella McCartney Ltd, specific services as data Processors or to other recipients of Personal Data collected by us or YOOX that autonomously process your Personal Data only for the E-Commerce Purposes (for example, Banca Sella S.p.A.) and, in any case, according to Governing Laws and regulations. 
 
-Your Personal Data may also be provided to the following companies belonging to PPR Group, with registered offices in EU countries or non EU countries, for their own Marketing Purposes: 
+Your Personal Data may also be provided to the following companies belonging to Kering Group, with registered offices in EU countries or non EU countries, for their own Marketing Purposes: 
 
-  * <http://www.ppr.com/en/brands>
+  * <http://www.kering.com/en>
 
 
 
-Please send an e-mail at privacypolicy@stellamccartney.com if you would like to receive a full updated list of PPR Group companies. 
+Please send an e-mail at privacypolicy@stellamccartney.com if you would like to receive a full updated list of Kering Group companies. 
 
 Notwithstanding the foregoing, Personal Data will not be disclosed to any other third parties or disseminated or transferred without informing our Users of such disclosure/dissemination/transfer, and, in any case, in accordance with the Governing Laws. 
 
