@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the reinventingaging.org privacy policy that was archived on 2013-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130311094839id_/http%3A//www.reinventingaging.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reinventingaging.org privacy policy that was archived on 2013-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131009030707id_/http%3A//www.reinventingaging.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Reinventing Aging
+
+### Privacy Policy
 
 **Your Privacy**
 
@@ -33,4 +35,8 @@ Not Satisfied? If for any reason you are not satisfied with your Reinventing Agi
 **Changes to this Privacy Statement**  
 The contents of this statement may be altered at any time, at our discretion.
 
-If you have any questions regarding the privacy policy of reinventingaging.org then you may contact us at admin@reinventingaging.org
+**Clickbank**
+
+ClickBank is the retailer of the Fat Loss for Grownups product. CLICKBANK® is a registered trademark of Click Sales, Inc., a Delaware corporation located at 917 S. Lusk Street, Suite 200, Boise Idaho, 83706, USA and used by permission. ClickBank’s role as retailer does not constitute an endorsement, approval or review of this product or any claim, statement or opinion used in promotion of this product.
+
+If you have any questions regarding the privacy policy of reinventingaging.org then you may contact us at support@reinventingaging.org
