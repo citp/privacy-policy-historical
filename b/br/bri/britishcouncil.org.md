@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the britishcouncil.org privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425004521id_/http%3A//www.britishcouncil.org/terms-conditions/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britishcouncil.org privacy policy that was archived on 2013-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131009201938id_/http%3A//www.britishcouncil.org/terms-conditions/privacy) for the most accurate reproduction.*
 
 # Privacy | British Council
 
