@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fenopy.se privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601124707id_/http%3A//fenopy.se/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fenopy.se privacy policy that was archived on 2013-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131009214532id_/http%3A//fenopy.se/info/privacy.html) for the most accurate reproduction.*
 
 # Fast and easy torrent downloads - Fenopy.SE
 
@@ -45,7 +45,7 @@ Any of the information we collect from you may be used in one of the following w
 > 
 > **Terms and Conditions**
 > 
-> Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://fenopy.eu/info/tos.html>
+> Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://fenopy.se/info/tos.html>
 > 
 > **Changes to our Privacy Policy**
 > 
