@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fancy.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619105945id_/http%3A//www.fancy.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fancy.com privacy policy that was archived on 2013-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131009204707id_/http%3A//fancy.com/help/privacy) for the most accurate reproduction.*
 
-# Fancy - Privacy" %}
+# Fancy - Privacy
 
 ### Privacy Policy
 
