@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listings.sg privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501103324id_/http%3A//www.listings.sg/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listings.sg privacy policy that was archived on 2013-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131009170338id_/http%3A//www.listings.sg/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -100,6 +100,3 @@ Unless stated otherwise, our current privacy policy applies to all information t
 By using LISTINGS.SG, you consent to having your personal data transferred to and processed in the Singapore.
 
 Defined Terms. "Us," "we," "our," and "LISTINGS.SG" mean the same as they do in the Terms of Use. “Information” and “content” are interchangeably used here unless otherwise limited by the context.
-
-|   
----|---
