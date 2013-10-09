@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highmark.com privacy policy that was archived on 2013-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130120181202id_/https%3A//www.highmark.com/hmk2/privacy/index.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highmark.com privacy policy that was archived on 2013-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131009171244id_/https%3A//www.highmark.com/hmk2/privacy/index.shtml) for the most accurate reproduction.*
 
 # Privacy
 
@@ -6,7 +6,7 @@ Highmark's Online Privacy Policy
 
 [View Notice of Privacy Practices](https://web.archive.org/hmk2/pdf/noticeofprivacy.pdf)
 
-At Highmark Inc. ("Highmark") we take the issue of privacy very seriously. We want to assure Users of our websites (meaning any individual, including site visitors as well as those individuals who provide personal information via this website, herein referred to as "User(s)") that their information is secure and maintained in confidence, consistent with applicable state and federal laws. Please read through the following pages, which describe our online privacy policy.
+At Highmark Health Services we take the issue of privacy very seriously. We want to assure Users of our websites (meaning any individual, including site visitors as well as those individuals who provide personal information via this website, herein referred to as "User(s)") that their information is secure and maintained in confidence, consistent with applicable state and federal laws. Please read through the following pages, which describe our online privacy policy.
 
 ## I. Information Collected Online
 
@@ -73,4 +73,4 @@ If you have questions about this online privacy policy, or concerns regarding yo
 
 Highmark reserves the right to change, modify or update this online privacy policy at any time without notice. Highmark will post changes, modifications and updates to this location. Please review this online privacy policy on a periodic basis.
 
-(© 2012 Highmark Inc.)
+(© 2013 Highmark Health Services)
