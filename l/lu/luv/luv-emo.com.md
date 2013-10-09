@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luv-emo.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502033313id_/http%3A//luv-emo.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luv-emo.com privacy policy that was archived on 2013-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131009145740id_/http%3A//www.luv-emo.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # :: Privacy Policy ::
 
