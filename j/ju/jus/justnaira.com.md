@@ -1,44 +1,31 @@
-> *The following text is extracted and transformed from the justnaira.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920042146id_/http%3A//www.justnaira.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justnaira.com privacy policy that was archived on 2013-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131009061048id_/http%3A//www.justnaira.com/privacy-policy) for the most accurate reproduction.*
 
-# Make Money & Informative Blog: Privacy Policy
+# Privacy Policy - Da' Informative Blog
 
-**Our Commitment To Privacy**
+**Privacy Policy for www.justnaira.com**
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@justnaira.com.
 
-**The Information We Collect:**
+At www.justnaira.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.justnaira.com and how it is used.
 
-This notice applies to all information collected or submitted on the **[Just Naira](http://www.justnaira.com/)** website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:
+**Log Files**  
+Like many other Web sites, www.justnaira.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-  * Name
-  * Address
-  * Email address
-  * Phone number 
-  * (etc.)
+**Cookies and Web Beacons**  
+www.justnaira.com does not use cookies.
 
+**DoubleClick DART Cookie**  
+.:: Google, as a third party vendor, uses cookies to serve ads on www.justnaira.com.  
+.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.justnaira.com and other sites on the Internet.  
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
+Google Adsense
 
-**The Way We Use Information:**
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.justnaira.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
-  
-We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.
+www.justnaira.com has no access to or control over these cookies that are used by third-party advertisers.
 
-We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.justnaira.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-You can [subscribe](http://feedburner.google.com/fb/a/mailverify?uri=justnaira&loc=en_US) with our website if you would like to receive our catalog as well as updates on our new products and services.
-
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals.
-
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
-
-**Our Commitment To Data Security**
-
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.  
-**  
-Our Commitment To Children's Privacy:**
-
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
-
-**How To Contact Us**
-
-Should you have other questions or concerns about these privacy policies, please send us an email at [Contact Us](http://www.justnaira.com/p/contact-us.html) page.
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
