@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the shredesign.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513092610id_/http%3A//www.shredesign.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shredesign.com privacy policy that was archived on 2013-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131010012502id_/http%3A//www.shredesign.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Creative Design Art Photos and Artworks
-
-* * *
+# Privacy Policy | Shre Design
 
 shredesign.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
 
