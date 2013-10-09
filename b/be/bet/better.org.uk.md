@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the better.org.uk privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621032156id_/http%3A//www.better.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the better.org.uk privacy policy that was archived on 2013-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131010005851id_/http%3A//www.better.org.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-We respect each individual’s right to personal privacy ("you"/"your"). We will collect and use information through our website only in the ways covered in this statement. This statement applies solely to information collected on our website [www.better.org.uk](https://web.archive.org/web/20130621032156id_/) and [www.gll.org](http://www.gll.org/) ("our website(s)").
+We respect each individual’s right to personal privacy ("you"/"your"). We will collect and use information through our website only in the ways covered in this statement. This statement applies solely to information collected on our website [www.better.org.uk](https://web.archive.org/web/20131010005851id_/) and [www.gll.org](http://www.gll.org/) ("our website(s)").
 
 For the purposes of the Data Protection Act 1998 ("Act"), the data controller is Greenwich Leisure Ltd ("we"/"our"/"us") of Middlegate House, 1 Seymour Street, Woolwich, London SE18 6SX. Our nominated representative for the purposes of the Act is Philip Donnay.
 
