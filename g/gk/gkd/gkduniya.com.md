@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gkduniya.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620172703id_/http%3A//gkduniya.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gkduniya.com privacy policy that was archived on 2013-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131009184716id_/http%3A//gkduniya.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy: gkduniya.com
 
