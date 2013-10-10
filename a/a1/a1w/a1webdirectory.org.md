@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the a1webdirectory.org privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601131137id_/http%3A//www.a1webdirectory.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a1webdirectory.org privacy policy that was archived on 2013-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131010055525id_/http%3A//www.a1webdirectory.org/privacy.html) for the most accurate reproduction.*
 
 # A1WebDirectory.org - Privacy Policy
 
