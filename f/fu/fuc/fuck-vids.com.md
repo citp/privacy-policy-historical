@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fuck-vids.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011075104id_/http%3A//www.fuck-vids.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuck-vids.com privacy policy that was archived on 2013-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131010031400id_/http%3A//www.fuck-vids.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Fuck-Vids
 
