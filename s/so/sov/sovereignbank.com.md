@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sovereignbank.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624232510id_/http%3A//www.sovereignbank.com/companyinfo/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sovereignbank.com privacy policy that was archived on 2013-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131010055855id_/http%3A//www.sovereignbank.com/companyinfo/privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | Sovereign Bank
 
