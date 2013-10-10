@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the meditationbangles.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526211351id_/http%3A//meditationbangles.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meditationbangles.com privacy policy that was archived on 2013-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131010182608id_/http%3A//www.meditationbangles.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Meditation Bangles
+# Frequency Bangles
 
   
 MeditationBangles.com (Nick Hodgson, Owner) respects and is committed to protecting your personal privacy. Any information you give us is held with the utmost care and security, and is only used to process orders and to provide a more personalized shopping experience.It is our strict policy not to sell, rent, share or loan any identifiable information (including our mailing list) to anyone.Please read on for more details about our privacy policy. 
