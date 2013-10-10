@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allgovtjobs.in privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119040107id_/http%3A//www.allgovtjobs.in/2011/11/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allgovtjobs.in privacy policy that was archived on 2013-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131010104243id_/http%3A//www.allgovtjobs.in/2011/11/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | AllGovtJobs | Recruitment 2012-2013
+# Privacy Policy | AllGovtJobs
 
 **Privacy Policy At www.allgovtjobs.in**
 
@@ -27,5 +27,3 @@
 
  **If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.   ****  
 **
-
-**Note By Allgovtjobs.in = > Please Register on This Website Before Closing This Page Because When I Will Get Latest Jobs Notification Then I Will Inform You On Your Email Address So Register Your Email Address For Get Latest More Jobs Update**
