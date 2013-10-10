@@ -1,29 +1,71 @@
-> *The following text is extracted and transformed from the stepofweb.com privacy policy that was archived on 2010-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101108103815id_/http%3A//www.stepofweb.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stepofweb.com privacy policy that was archived on 2013-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131010050558id_/http%3A//www.stepofweb.com/faq/privacy-policy.html) for the most accurate reproduction.*
 
-# My Privacy Policy for this website
+# Frequently Asked Questions | Stepofweb
 
-If you require any more information or have any questions about privacy policy, please feel free to contact me [**here**](http://www.stepofweb.com/contact.html "contact me"). E-mail address is not public for security reasons but you are free to use my [contact form](http://www.stepofweb.com/contact.html "contact me").
+_The following Privacy Policy Notice describes your privacy rights regarding our collection, use, storage, sharing, and protection of your personal information.  
+It applies to the www.stepofweb.com website ("site") and all services offered by Stepofweb.  
+Stepofweb is owned and operated by Stepofweb. and is offered subject to your acceptance of this Privacy Policy Notice without modification.  
+Please read this Privacy Policy Notice carefully and completely prior to engaging us for services._
 
-At http://www.stepofweb.com/, the privacy of my visitors is of extreme importance to me. This privacy policy document outlines the types of personal information is received and collected by http://www.stepofweb.com/ and how it is used. 
+* * *
 
-**Log Files**  
-Like many other Web sites, http://www.stepofweb.com/ makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+### Nondisclosure agreement for Stepofweb clients
 
-**Cookies and Web Beacons**   
-http://www.stepofweb.com/ does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
+Stepofweb respects your professional artwork as well as other intellectual property shared with us and will only use it to assist you with your goals. Your copyrights will remain yours.
 
-**DoubleClick DART Cookie**   
-.:: Google, as a third party vendor, uses cookies to serve ads on http://www.stepofweb.com/.  
-.:: Google's use of the DART cookie enables it to serve ads to users based on their visit to http://www.stepofweb.com/ and other sites on the Internet.   
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - [http://www.google.com/privacy_ads.html ](http://www.google.com/privacy_ads.html "google privacy ads")
+Stepofweb will not take your artwork and other intellectual property for use on any other site, resell it, or give it to anyone under any circumstance!  
+Stepofweb guarantees that all information that you share with us, including artwork and other intellectual property, contact information, and client notes, remain confidential.  
+Stepofweb will never contact your clients or the clients of your clients. _We respect your business._
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include:  
-\- Google Adsense
+  
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on http://www.stepofweb.com/ send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
-http://www.stepofweb.com/ has no access to or control over these cookies that are used by third-party advertisers. 
+### Our commitment to data security
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://www.stepofweb.com/'s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.  
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
+
+  
+
+
+### How secure is my information?
+
+This site uses state-of-the-art digital encryption and security technologies to protect the privacy and security of our members information and has specific security measures in place to protect against the loss, misuse, and alteration of the information under our control. All data passing from your computer to this site via HTTPS is authenticated and encrypted using 128-bit Secure Socket Layer (SSL) encryption.
+
+SSL is the most advanced level of encryption available today, and it means that any information sent from your computer is scrambled in such a way that makes it completely unintelligible if intercepted. When you are on a secure section within this site, a padlock will appear at the bottom (or top) of your web browser's screen. This is your assurance that the encryption is in place and that you are communicating across a secure link.
+
+  
+
+
+### Information we collect
+
+This notice applies to all the information that is collected or submitted on the Stepofweb site through the product order page, product request page, and other pages. The following types of personal information are collected:
+
+    • E-mail address  
+    • IP address for fraud detection purposes  
+    • Client information requests  
+    • Order-specific information, including source files and client notes  
+    • Information on referring sites through the use of cookies
+
+  
+
+
+### How we use your information
+
+The personal information you provide when placing an order is used only to complete your order. We do not share this information with outside parties.  
+The e-mail address that you provide in the contact/order form is used only to notify you about the status of your order and to send you occasional Stepofweb newsletters. We do not use this e-mail address for any other purpose, and we do not share it with outside parties.  
+To improve the design of our site and to better share it with advertisers, we use only non-identifying, aggregate information. For example, we may tell an advertiser that a certain number of individuals visited some area of our site, but we do not disclose anything that could be used to identify those individuals.  
+Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to those described above without also providing you with an opportunity to opt out or otherwise prohibit such unrelated uses.  
+
+
+  
+
+
+### How you can access or correct your information
+
+You can correct factual errors in your personally identifiable information by sending us a request that credibly shows an error.  
+To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.  
+
+
+  
+
