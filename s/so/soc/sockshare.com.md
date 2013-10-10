@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the sockshare.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512235408id_/http%3A//www.sockshare.com/page.php%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sockshare.com privacy policy that was archived on 2013-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131010022918id_/http%3A//www.sockshare.com/page.php%3Fprivacy) for the most accurate reproduction.*
 
 # SockShare - Privacy Policy
+
+This file doesn't exist, or has been removed.
 
 Thank you for visiting the SockShare website located at www.SockShare.com (the "Site"). The Site is an Internet property of SockShare Ltd. and its affiliated companies ("SockShare," "we" or "us"). This SockShare Website Privacy Policy ("Privacy Policy") covers our treatment of Personal Information (as defined hereinbelow) and other information that we collect when you: (a) access or use the Site; (b) become a Member (as defined in the SockShare Website Terms and Conditions ("Terms and Conditions")); and/or (c) use the Services (as defined in the Terms and Conditions). It is important that visitors are fully informed about the use of their Personal Information.
 
