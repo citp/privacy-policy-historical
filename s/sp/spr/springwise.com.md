@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the springwise.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622042150id_/http%3A//www.springwise.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the springwise.com privacy policy that was archived on 2013-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131010044506id_/http%3A//www.springwise.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Springwise
 
