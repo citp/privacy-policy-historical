@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scalahosting.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116042038id_/https%3A//www.scalahosting.com/aup) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scalahosting.com privacy policy that was archived on 2013-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131010170442id_/https%3A//www.scalahosting.com/aup) for the most accurate reproduction.*
 
-# 
+# ScalaHosting Privacy Policy
 
 We collect information from you when you register on our site and place an order. Any data we request that is not required will be specified as voluntary or optional. 
 
