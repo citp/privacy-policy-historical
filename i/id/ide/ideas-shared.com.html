@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ideas-shared.com privacy policy that was archived on 2013-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130531232930id_/http%3A//ideas-shared.com/index.php%3Fid%3D14) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ideas-shared.com privacy policy that was archived on 2013-10-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131011010526id_/http%3A//ideas-shared.com/index.php%3Fid%3D14) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -16,13 +16,10 @@
 <meta http-equiv="Content-Type" content="text/html; utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=8">
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
-
-<title>Ideas-Shared Help Network - Develop Activities</title>
-
-<meta name="Description" content="Everything you need to develop activities that take you, the community or business anywhere you want to go!">
-
-<meta name="Keywords" content="ideas-shared help network, develop activities, ideas, shared, helps, help network, network, shared network, shared help network, develop worthwhile ideas, overcome difficult challenges, effect positive change, challenges, business, community">
-
+<meta name="Title" content="Ideas-Shared Empowers You To Get The Direct Action, Investment, Knowledge And Public Support!">
+<title>Ideas-Shared | Empowers You To Get Direct Action, Investment, Knowledge And Public Support!</title>
+<meta name="Description" content="We help individuals, communities and business develop ideas, overcome challenges and effect change locally and globally with the people they know and those they don't">
+<meta name="Keywords" content=" direct action, investment, knowledge, public support, individual, business, community, ideas-shared, helps, ideas, shared, help centers, ideas-shared help center, develop ideas, overcome challenges, effect change, ideas-shared help network, locally and globally">
 <meta name="copyright" content="Copyright © 2013 Ideas-Shared.Com">
 <meta name="author" content="Bob Thompson">
 <meta name="robots" content="index, follow">
@@ -83,7 +80,7 @@ function MemberLogin()
 		$('#login-button').hide();	
 		$('#login-status').show();
 		$('.login-fields').attr('disabled',true);
-		$.post('index.php?id=338',{service:'login',returnUrl:'',password:$('#loginPassword').val(),username:$('#loginUsername').val()},function(data)
+		$.post('ajax-login',{service:'login',returnUrl:'',password:$('#loginPassword').val(),username:$('#loginUsername').val()},function(data)
 		{
 			if(data.indexOf('error')>0)
 			{
@@ -93,7 +90,7 @@ function MemberLogin()
 				$('#login-button').show();                              
 			}
 			else
-                document.location='index.php?id=2';
+                document.location='members-home/';
 		});
 	}
 }
@@ -108,71 +105,107 @@ function MemberLogin()
 </div>
 <div id="right-side">
 <div id="login-box">
-<input type="text" style="width:120px;margin-right:10px;" id="loginUsername" value="Username" class="login-fields" onfocus="if(this.value=='Username'){$(this).val('');}">
+<input type="text" style="width:120px;margin-right:10px;" id="loginUsername" value="Username" class="login-fields" onfocus="if (this.value=='Username'){$(this).val('');}">
 <!-- <input type="text" style="width:120px;margin-right:10px;" id="loginPassword" value="Password" class="login-fields" onfocus="if($(this).attr('type')=='text'){$(this).val(''); this.type='password';}" /> -->
 <input type="password" style="width:120px;margin-right:10px;" id="loginPassword" value="Password" class="login-fields" onfocus="if(this.value=='Password'){$(this).val('');}">
 
-<button id="login-button" style="cursor:pointer;" onclick="MemberLogin();">Login</button> &nbsp;<a href="index.php?id=368">Lost Password</a>
+<button id="login-button" style="cursor:pointer;" onclick="MemberLogin();">Login</button> &nbsp;<a href="reset-account-password">Lost Password</a>
 <img src="http://ideas-shared.com/assets/templates/is/images/loading.gif" id="login-status" style="display:none;">
 <div style="clear:both;"></div>
 <span id="remember-me"><input type="checkbox" id="rememberMyInfo">&nbsp;Remember my username and password</span>
 </div>
 <div style="clear:both;padding-bottom:20px;"></div>
-<ul class="main-menu">
-
-<li class=""><a href="index.php?id=1" title="Ideas-Shared Home">Home</a>  </li>
-
-<li class=""><a href="index.php?id=486" title="About Ideas-Shared">About</a>  </li>
-
-<li class=""><a href="index.php?id=900" title="Ideas-Shared  uses">Uses</a>  </li>
-
-<li class=""><a href="index.php?id=918" title="Ideas-Shared Benefits">Benefits</a>  </li>
-
-<li class=""><a href="index.php?id=597" title="Ideas-Shared Benefits">ROI</a>  </li>
-
-<li class=""><a href="index.php?id=890" title="Click here for our Pricing Options">Pricing</a>  </li>
-
-<li class=""><a href="index.php?id=902" title="Click here for FAQ's">FAQ</a>  </li>
-
-<li class=""><a href="index.php?id=623" title="Ideas-Shared Information Center">Info Center</a>  </li>
-
-<li class=""><a href="index.php?id=859" title="Click to join Ideas-Shared">Join Now</a>  </li>
-</ul>
 <div style="clear:both;"></div>
 </div>
 </div>
+<br>
+
+<link rel="stylesheet" href="mainmenu/mbcsmbmcp.css" type="text/css">
+<center>
+<ul id="mbmcpebul_table" class="mbmcpebul_menulist css_menu" style="width: 905px; height: 16px;">
+  <li class="topitem spaced_li"><div class="buttonbg"><a href="/" target="_self">Home</a></div></li>
+  <li class="topitem spaced_li with_submenu"><div class="buttonbg"><a href="help-centers" target="_self">Help Centers</a></div>
+  <ul>
+  <li><a href="bespoke-help-centers" target="_self" title="">Bespoke Help Centers</a></li>
+  <li><a href="core-help-centers" target="_self" title="">Core Help Centers</a></li>
+  <li><a href="fantasy-help-centers" target="_self" title="">Fantasy Help Centers</a></li>
+  <li><a href="youngster-help-centers" target="_self" title="">Youngster Help Centers</a></li>
+  <li class="last_item"><a href="center-landing-pages" target="_self" title="">Help Center Landing Pages</a></li>
+  </ul></li>
+  <li class="topitem spaced_li with_submenu"><div class="buttonbg"><a href="how-we-work" target="_self">How It Works</a></div>
+  <ul>
+  <li><a href="solution-features" target="_self" title="">Features</a></li>
+  <li class="last_item"><a href="solution-screenshots" target="_self" title="">Screenshots</a></li>
+  </ul></li>
+  <li class="topitem spaced_li with_submenu"><div class="buttonbg"><a href="activities/" target="_self">Activities</a></div>
+  <ul>
+  <li><a href="individual-activities/" target="_self" title="">Individual</a></li>
+  <li><a href="business-activities/" target="_self" title="">Business</a></li>
+  <li><a href="charity-activities/" target="_self" title="">Charity</a></li>
+  <li><a href="club-activities/" target="_self" title="">Club</a></li>
+  <li><a href="community-activities/" target="_self" title="">Community</a></li>
+  <li class="last_item"><a href="school-activities/" target="_self" title="">School</a></li>
+  </ul></li>
+  <li class="topitem spaced_li with_submenu"><div class="buttonbg"><a href="want-help/" target="_self">Want Help?</a></div>
+  <ul>
+  <li><a href="official-guides/" target="_self" title="">Official Guide</a></li>
+  <li><a href="information-center/" target="_self" class="with_arrow" title="">Information Center</a>
+    <ul>
+    <li><a href="community-help-network/" target="_self" title="">Community Center</a></li>
+    <li class="last_item"><a href="business-help-network/" target="_self" title="">Business Center</a></li>
+    </ul></li>
+  <li><a href="video-tutorials/" target="_self" title="">Video Tutorials</a></li>
+  <li><a href="mobile-apps" target="_self" title="">Mobile Apps</a></li>
+  <li><a href="free-report/" target="_self" title="">Free Report</a></li>
+  <li><a href="7-days-ecourse/" target="_self" title="">7 Days eCourse</a></li>
+  <li><a href="frequently-asked-questions/" target="_self" title="">FAQ's</a></li>
+  <li class="last_item"><a href="latest-activity/" target="_self" title="">See Latest Activity</a></li>
+  </ul></li>
+  <li class="topitem spaced_li with_submenu"><div class="buttonbg"><a href="our-services" target="_self">Services</a></div>
+  <ul>
+  <li class="last_item"><a href="consulting/" target="_self" title="">Consulting</a></li>
+  </ul></li>
+  <li class="topitem with_submenu"><div class="buttonbg"><a href="about-our-solution/" target="_self">About&nbsp;</a></div>
+  <ul>
+  <li><a href="founders/" target="_self" a="" title="">Founders</a></li>
+  <li><a href="contact-us/" target="_self" title="">Contact Us</a></li>
+  <li><a href="brand-and-logo" target="_self" title="">Brand</a></li>
+  <li><a href="your-security-matters" target="_self" title="">Security</a></li>
+  <li class="last_item"><a href="press-news" target="_self" title="">Press</a></li>
+  </ul></li>
+</ul></center>
+<!-- Menus will work without this javascript file. It is used only for extra
+     effects, improved usability and compatibility with very old web browsers. -->
+<script type="text/javascript" src="mainmenu/mbjsmbmcp.js"></script>
 <div id="content">
 <div id="join-form">
-<center>
 <br>
 <br>
 <div class="fb-like" data-href="http://ideas-shared.com" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false" data-font="verdana"></div>
-<br><br>
-
-<span class="separator float-left"></span><a href="http://www.facebook.com/pages/Ideas-Shared/147551751985239?sk=app_106171216118819" title="Click here to go to Ideas-Shared on Facebook"><img src="http://ideas-shared.com/images/fbutton.png" width="20" vspace="2" align="center"></a>
-<span class="separator float-left"></span><a href="http://twitter.com/IdeasShared" title="Click here to go to the Ideas-Shared Twitter page, Ideas-Shared, the online Help Network where you can take action, ask, discuss, support, choose, help, change, benefit"><img src="http://ideas-shared.com/images/twitter.png" vspace="2" align="center" width="20"></a>
-<span class="separator float-left"></span>
-
-<a href="https://plus.google.com/115265337577525484009/posts" title="Click here to go to Ideas-Shared on Google+, Ideas-Shared, the online Help Center where you can take action, ask, discuss, support, choose, help, change, benefit"><img src="http://ideas-shared.com/images/googleplusicon.jpg" vspace="2" align="center" width="20"></a>
-<span class="separator float-left"></span><a href="http://ideas-shared.com/blogger/rss-feed.html" title="Click here to grab our RSS feed"><img src="http://ideas-shared.com/images/rsslogo.png" vspace="3" align="center" width="20"></a>
 <br>
-
-<center><a target="_blank" href="index.php?id=926"><img src="http://ideas-shared.com/images/ataglancebutton.png" width="110" alt="Ideas-Shared Help Network at a glance - We'll help you!" title="Click here for a brief overview of the Ideas-Shared Help Network!" vspace="2"></a></center>
-
-<center><a target="_blank" href="index.php?id=927"><img src="http://ideas-shared.com/images/whybutton.png" width="110" alt="Why join the Ideas-Shared Help Network?" title="Click here to see why you must join the Ideas-Shared Help Network." vspace="2"></a></center>
-
-<center><a href="index.php?id=859" target="_blank"><img src="http://ideas-shared.com/images/joinnowbutton.png" title="Click to join Ideas-Shared!" width="110" vspace="2"></a></center>
-
-<center><a href="index.php?id=409" target="_blank"><img src="http://ideas-shared.com/images/flogin.png" width="110" title="Sign up to Ideas-Shared, the online Help Network." vspace="2"></a></center>
-</center>
-
-<center><a href="index.php?id=893" target="_blank"><img src="http://ideas-shared.com/images/specialreportbutton.png" width="110" alt="Click here for our Special Report: Reach for Your Dreams" title="Click here for Special Report entitled Reach For Your Dreams" vspace="2"></a></center>
-
-<center><a target="_blank" href="index.php?id=925"><img src="http://ideas-shared.com/images/apps.png" width="110" alt="Ideas-Shared Help Network - We'll help you!" title="Click here to get our Apps!" vspace="2"></a></center>
-
-<center><a target="_blank" href="index.php?id=883"><img src="http://ideas-shared.com/images/latest-activity-button.png" width="110" alt="Ideas-Shared Help Network - Latest Activity!" title="Click here to see latest activity on Ideas-Shared!" vspace="2"></a></center>
-
-
+<br>
+<span class="separator float-left"></span><a href="http://www.facebook.com/pages/Ideas-Shared/147551751985239?sk=app_106171216118819" title="Click here to go to Ideas-Shared on Facebook"><img src="http://ideas-shared.com/images/fbutton.png" width="25" vspace="0" align="center"></a>
+<span class="separator float-left"></span><a href="http://twitter.com/IdeasShared" title="Click here to go to the Ideas-Shared Twitter page, Ideas-Shared, the online Help Network where you can take action, ask, discuss, support, choose, help, change, benefit"><img src="http://ideas-shared.com/images/twitter.png" vspace="0" align="center" width="25"></a><span class="separator float-left"></span><a href="https://plus.google.com/115265337577525484009/posts" title="Click here to go to Ideas-Shared on Google+, Ideas-Shared, the online Help Center where you can take action, ask, discuss, support, choose, help, change, benefit"><img src="http://ideas-shared.com/images/googleplusicon.jpg" vspace="0" align="center" width="25"></a>
+<span class="separator float-left"></span><a href="http://ideas-shared.com/blogger/rss-feed.html" title="Click here to grab our RSS feed"><img src="http://ideas-shared.com/images/rsslogo.png" vspace="3" align="center" width="25"></a>
+<br>
+<br>
+<a href="sign-up-now"><img src="http://ideas-shared.com/images/joinnowbutton.png" title="Click to join Ideas-Shared!" width="110" vspace="1"></a>
+<br>
+<a href="overview/"><img src="http://ideas-shared.com/images/introductionbutton.png" title="Introducing Ideas-Shared" width="110" vspace="1"></a>
+<br>
+<a href="why-sign-up/"><img src="http://ideas-shared.com/images/whyjoinisbutton.png" title="Why join Ideas-Shared?" width="110" vspace="1"></a>
+<br>
+<a href="how-we-work"><img src="http://ideas-shared.com/images/hiwbutton.png" title="How Ideas-Shared works" width="110" vspace="1"></a>
+<br>
+<a href="pre-sign-up-information/"><img src="http://ideas-shared.com/images/choosebutton.png" width="110" title="Choose your Username, Membership Type and more." vspace="1"></a>
+<br>
+<a href="login/signup-with-your-facebook-account" target="_blank"><img src="http://ideas-shared.com/images/flogin.png" width="110" title="Sign up to Ideas-Shared, the online Help Network." vspace="1"></a>
+<br>
+<a href="upgrades-benefits/"><img src="http://ideas-shared.com/images/upgradingbutton.png" width="110" title="Upgrade options." vspace="1"></a>
+<br>
+<a href="metrics/"><img src="http://ideas-shared.com/images/statsbutton.png" width="110" title="Community metrics." vspace="1"></a>
+<br>
+<a href="latest-activity/"><img src="http://ideas-shared.com/images/activitybutton.png" width="110" title="Latest activity." vspace="1"></a>
 
 
 </div>
@@ -180,78 +213,46 @@ function MemberLogin()
 <div id="pictograms">
 <div id="box">
 <div id="items">
-<link rel="stylesheet" href="mainmenu2/mbcsmbmcp.css" type="text/css">
 
-<ul id="mbmcpebul_table" class="mbmcpebul_menulist css_menu" style="width: 710px; height: 42px;">
-  <li class="topitem spaced_li first_button"><div class="arrow buttonbg"><a href="index.php?id=865" target="_self">Welcome</a></div>
-  <ul>
-  <li class="first_item"><a href="index.php?id=588" target="_self" title="">Why Join</a></li>
-  <li><a href="index.php?id=883" target="_self" title="">Latest Activity</a></li>
-  <li><a href="index.php?id=866" target="_self" title="">Official Handbook</a></li>
-  <li class="last_item"><a href="index.php?id=874" target="_self" title="">Final Thoughts</a></li>
-  </ul></li>
-  <li class="topitem spaced_li"><div class="arrow buttonbg" style="width: 93px;"><a href="index.php?id=158" target="_self">Centers</a></div>
-  <ul>
-  <li class="first_item last_item"><a href="index.php?id=213" target="_self" title="">Center Landing Pages</a></li>
-  </ul></li>
-  <li class="topitem spaced_li"><div class="arrow buttonbg" style="width: 100px;"><a href="index.php?id=430" target="_self">Features</a></div>
-  <ul>
-  <li class="first_item"><a href="index.php?id=870" target="_self" title="">Develop ideas</a></li>
-  <li><a href="index.php?id=871" target="_self" title="">Overcome Challenges</a></li>
-  <li class="last_item"><a href="index.php?id=872" target="_self" title="">Petition For Change</a></li>
-  </ul></li>
-  <li class="topitem spaced_li"><div class="buttonbg" style="width: 113px;"><a href="index.php?id=875" target="_self" class="button_4">How It Works</a></div></li>
-  <li class="topitem spaced_li"><div class="buttonbg" style="width: 107px;"><a href="index.php?id=864" target="_self" class="button_5">Screenshots</a></div></li>
-  <li class="topitem spaced_li"><div class="arrow buttonbg" style="width: 83px;"><a href="index.php?id=621" target="_self">Brand</a></div>
-  <ul>
-  <li class="first_item"><a href="index.php?id=110" target="_self" title="">Press</a></li>
-  <li class="last_item"><a href="index.php?id=622" target="_self" title="">Security</a></li>
-  </ul></li>
-  <li class="topitem last_button"><div class="buttonbg" style="width: 96px;"><a href="index.php?id=39" target="_self" class="button_7">Contact us</a></div></li>
-</ul>
-<!-- Menus will work without this javascript file. It is used only for extra
-     effects, improved usability and compatibility with very old web browsers. -->
-<script type="text/javascript" src="mainmenu2/mbjsmbmcp.js"></script>
-<br>
-<h1>Privacy Policy</h1>
+<h1>Ideas-Shared: Privacy Policy</h1>
 
 <table border="0" cellpadding="10" cellspacing="0" width="700">
 <tbody><tr>
 <td align="left" valign="top" width="200">
-&lt;&lt;&lt; <a href="index.php?id=625">Back to Report Abuse or Violation</a>
+&lt;&lt;&lt; <a href="legal-stuff/">Back to Report Abuse or Violation</a>
 <br>
 
 <h3>Guidelines &amp; Best Practice</h3>
 <ul>
-<li><a href="index.php?id=755">Rules of Use</a></li>
-<li><a href="index.php?id=756">Follow Rules &amp; Best Practice</a></li>
-<li><a href="index.php?id=757">Landing Page Use</a></li>
+<li><a href="rules-of-use">Rules of Use</a></li>
+<li><a href="follow-rules-and-best-practice">Follow Rules &amp; Best Practice</a></li>
+<li><a href="landing-page-use">Landing Page Use</a></li>
 </ul>
 
 <h3>Online Safety</h3>
 <ul>
-<li><a href="index.php?id=758">Abusive Behaviour</a></li>
-<li><a href="index.php?id=759">Protection of Private Information</a></li>
-<li><a href="index.php?id=760">Tips for Parents</a></li>
-<li><a href="index.php?id=761">Tips for Teens</a></li>
-<li><a href="index.php?id=762">Tips for Teachers</a></li>
+<li><a href="abusive-behaviour">Abusive Behaviour</a></li>
+<li><a href="protecting-private-information">Protection of Private Information</a></li>
+<li><a href="tips-for-parents">Tips for Parents</a></li>
+<li><a href="tips-for-teens">Tips for Teens</a></li>
+<li><a href="tips-for-teachers">Tips for Teachers</a></li>
 </ul>
 
 <h3>Reporting Violations</h3>
 <ul>
-<li><a href="index.php?id=764">Anti-Spam</a></li>
-<li><a href="index.php?id=763">How to Report Violations</a></li>
+<li><a href="anti-spam">Anti-Spam</a></li>
+<li><a href="how-to-report-a-violation">How to Report Violations</a></li>
 </ul>
 
 <h3>Policy Information</h3>
 <ul>
-<li><a href="index.php?id=775">Collaboration Policy</a></li>
-<li><a href="index.php?id=765">Inactive Account Policy</a></li>
-<li><a href="index.php?id=766">Law Enforcement Policy</a></li>
-<li><a href="index.php?id=767">Trademark Policy</a></li>
-<li><a href="index.php?id=769">Affiliate Program Policy</a></li>
-<li><a href="index.php?id=13">Terms of Use Policy</a></li>
-<li><a href="index.php?id=14">Privacy Policy</a></li>
+<li><a href="help-policy">Collaboration Policy</a></li>
+<li><a href="inactive-account-policy">Inactive Account Policy</a></li>
+<li><a href="law-enforcement-policy">Law Enforcement Policy</a></li>
+<li><a href="trademark-policy">Trademark Policy</a></li>
+<li><a href="partner-program-policy">Affiliate Program Policy</a></li>
+<li><a href="terms-of-use">Terms of Use Policy</a></li>
+<li><a href="privacy-policy">Privacy Policy</a></li>
 </ul>
 
 </td>
@@ -425,15 +426,13 @@ function MemberLogin()
 <div id="footer" style="">
 
 <div style="text-align:center;">
-<a href="http://ideas-shared.com/blogger" title="Ideas-Shared Blog">Blog</a>
-<a href="index.php?id=670" title="Ideas-Shared for Business">Business</a>
-<a href="index.php?id=685" title="Ideas-Shared for the Community">Community</a>
-<a href="index.php?id=751" title="Join an Ideas-Shared Group">Join A Center</a>
-<a href="index.php?id=13" title="Ideas-Shared Terms of Use">Terms</a>
-<a href="index.php?id=14" title="Ideas-Shared Privacy Policy">Privacy</a>
-<a href="index.php?id=581" title="Ideas-Shared Partner Program">Partner Program</a>
-<a href="index.php?id=39" title="Click here send Ideas-Shared a message">Contact</a>
-<a href="index.php?id=618" title="Click for sitemap">Sitemap</a>
+<a href="http://ideas-shared.com/blogger" title="Ideas-Shared Founders Blog">Founders Blog</a>
+<a href="join-a-center" title="Join an Ideas-Shared Group">Join Help Center(s)</a>
+<a href="terms-of-use" title="Ideas-Shared Terms of Use">Terms</a>
+<a href="privacy-policy" title="Ideas-Shared Privacy Policy">Privacy</a>
+<a href="contact-us/" title="Click here send Ideas-Shared a message">Contact</a>
+<a href="http://ideas-shared.com/support" title="Click for Support">Support</a>
+<a href="sitemap/" title="Click for sitemap">Sitemap</a>
 </div>
 <br>
 
