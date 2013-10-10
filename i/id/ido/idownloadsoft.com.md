@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the idownloadsoft.com privacy policy that was archived on 2013-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130213012125id_/http%3A//www.idownloadsoft.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idownloadsoft.com privacy policy that was archived on 2013-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131010212156id_/http%3A//www.idownloadsoft.com/privacy.html) for the most accurate reproduction.*
 
-# Software and Driver Updates - iDownloadSoft.com
+# Software and Driver Updates - idownloadsoft.com
 
-iDownloadSoft. (herein “The provider”) is committed to your privacy. Please read our policies below: 
+idownloadsoft. (herein “The provider”) is committed to your privacy. Please read our policies below: 
 
 The provider recognize the need to protect the privacy of the personal information of our users. Users should fully understand the terms and conditions surrounding the use of that information. 
 
@@ -20,7 +20,7 @@ The provider never tracks or stores your personal identifiable information. We m
 
 The provider does not launch pop-up or pop-under advertisement windows or any other type of obtrusive ads. Users may be presented with advertisements while using roaming the site. We might use an outside ad company to display ads on our site. These ads may contain cookies which may be collected by our ad company, and we do not have access to this information. 
 
-If you choose to contact us we will ask you for your name and email address. We do not store this information but simply receive it as one time email. You may contact us at http://www.iDownloadSoft.com/contact to request that we remove this email from our email inbox. 
+If you choose to contact us we will ask you for your name and email address. We do not store this information but simply receive it as one time email. You may contact us at http://www.idownloadsoft.com/contact to request that we remove this email from our email inbox. 
 
   
 
@@ -55,7 +55,7 @@ Contains links and downloads of third party software as well as links to third-p
 
 ## Contact Us
 
-If you have any questions about this privacy statement, the practices of this site or application, or your dealings with them, you can contact us [here](https://web.archive.org/web/20130213012125id_/http%3A//www.idownloadsoft.com/contact.html). 
+If you have any questions about this privacy statement, the practices of this site or application, or your dealings with them, you can contact us [here](https://web.archive.org/web/20131010212156id_/http%3A//www.idownloadsoft.com/contact.html). 
 
   
 
