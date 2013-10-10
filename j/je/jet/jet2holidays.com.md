@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jet2holidays.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610210519id_/http%3A//www.jet2holidays.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jet2holidays.com privacy policy that was archived on 2013-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131011014359id_/http%3A//www.jet2holidays.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Jet2holidays.com
 
@@ -6,7 +6,7 @@
 
 **1.** At Jet2holidays Limited we are committed to preserving the privacy of our customers and visitors to this website.
 
-**2.** This Privacy Policy explains what personal information we collect from users of this website and how we use that information from time to time. This Policy should be read in conjunction with our [Terms and Conditions](https://web.archive.org/web/20130610210519id_/http%3A//www.jet2holidays.com/terms-and-conditions.aspx).
+**2.** This Privacy Policy explains what personal information we collect from users of this website and how we use that information from time to time. This Policy should be read in conjunction with our [Terms and Conditions](https://web.archive.org/web/20131011014359id_/http%3A//www.jet2holidays.com/terms-and-conditions.aspx).
 
 **When we collect personal information**
 
@@ -24,19 +24,19 @@
 
 **4.** We collect personal information to help us deliver an effective service as follows:
 
-**4.1** to fulfil any travel booking you make with us including necessary reservation, payment and ticketing arrangements and administration associated with the travel arrangements (exceptionally this may include sensitive personal data, for example relating to your health or disabilities) and you recognise that, by providing us with such sensitive personal data, you give your explicit consent to us to process such data for the purposes set out in this policy
+**4.1** to fulfil any existing and/or future travel booking you make with us including necessary reservation, payment and ticketing arrangements and administration associated with the travel arrangements (exceptionally this may include sensitive personal data, for example relating to your health or disabilities) and you recognise that, by providing us with such sensitive personal data, you give your explicit consent to us to process such data for the purposes set out in this policy;
 
-**4.2** to provide any other product or service you have purchased from us
+**4.2** to provide any other product or service you have purchased from us;
 
-**4.3** to deal with any queries or requests you have regarding your booking and manage any amendments you may wish to make to travel arrangements or changes we need to advise you about
+**4.3** to deal with any queries or requests you have regarding your booking and manage any amendments you may wish to make to travel arrangements or changes we need to advise you about;
 
-**4.4** to fulfil security, customs, immigration and border control requirements associated with your reservation which may include providing information to the police and appropriate government agencies
+**4.4** to fulfil security, customs, immigration and border control requirements associated with your reservation which may include providing information to the police and appropriate government agencies;
 
-**4.5** to make information available to appropriate third parties where necessary in the event of an emergency. 
+**4.5** to make information available to appropriate third parties where necessary in the event of an emergency; 
 
-**4.6** to provide you with information about products, services and promotions that may be of interest to you unless you have asked us not to contact you.
+**4.6** to provide you with information about products, services and promotions that may be of interest to you unless you have asked us not to contact you;
 
-**4.7** to ensure that content from our website is presented in the most effective manner for you and for your computer
+**4.7** to ensure that content from our website is presented in the most effective manner for you and for your computer; and
 
 **4.8** for quality assurance testing, market analysis, systems testing, analysis of statistics, benchmarking, auditing and performance measures (which may include monitoring or recording your telephone conversations with us for the purposes set out herein).
 
