@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the qubesys.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616152329id_/http%3A//www.qubesys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qubesys.com privacy policy that was archived on 2013-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131010182309id_/http%3A//www.qubesys.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | QubeSys
 
 Our goal is to provide an Internet experience that delivers the information, resources, and services that are most relevant and helpful to you. In order to achieve this goal, from time to time we may collect information during your visits. This Privacy Policy is designed to help you learn more about the personal information we collect, who we might share it with, and how we protect it.
 
@@ -13,6 +13,5 @@ QubeSys collects personal information in three ways – through information prov
 
 ####### Information Supplied by Our Users
 
+  
 QubeSys collects personal information, such as your e-mail address, name, home or work address and telephone number. QubeSys may also collect demographic information, such as your ZIP code, age, gender, and legal interests. QubeSys does not collect any of this unique information about you except when you specifically and knowingly provide such information.
-
-​
